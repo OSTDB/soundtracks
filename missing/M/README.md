@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
 | M.O.Z.O.X.: Space Salvager | 209157 | [209157-m-o-z-o-x-space-salvager.json](./209157-m-o-z-o-x-space-salvager.json) |
+| M.S. Salmon | 211236 | [211236-m-s-salmon.json](./211236-m-s-salmon.json) |
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
@@ -411,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
 | Mana Land | 369063 | [369063-mana-land.json](./369063-mana-land.json) |
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
+| Mana Valley | 211189 | [211189-mana-valley.json](./211189-mana-valley.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
@@ -759,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
 | Mass Effect: Genesis 2 | 202313 | [202313-mass-effect-genesis-2.json](./202313-mass-effect-genesis-2.json) |
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
+| Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
 | Massacre Tower | 161359 | [161359-massacre-tower.json](./161359-massacre-tower.json) |
 | Massira | 116369 | [116369-massira.json](./116369-massira.json) |
 | Massive Air Combat: Puzzles | 163423 | [163423-massive-air-combat-puzzles.json](./163423-massive-air-combat-puzzles.json) |
@@ -780,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Bow | 328449 | [328449-master-of-bow.json](./328449-master-of-bow.json) |
 | Master of Chaos | 398362 | [398362-master-of-chaos.json](./398362-master-of-chaos.json) |
 | Master of Dimensions | 7695 | [7695-master-of-dimensions.json](./7695-master-of-dimensions.json) |
+| Master of Earth | 211213 | [211213-master-of-earth.json](./211213-master-of-earth.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
@@ -1458,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Rage: Defender of the Earth | 64966 | [64966-metal-rage-defender-of-the-earth.json](./64966-metal-rage-defender-of-the-earth.json) |
 | Metal Revolution | 114398 | [114398-metal-revolution.json](./114398-metal-revolution.json) |
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
+| Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
 | Metal Slug 3 | 347159 | [347159-metal-slug-3.json](./347159-metal-slug-3.json) |
@@ -2802,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | Mouseman: Point-and-Click RPG Adventure - Chapter 1 | 383353 | [383353-mouseman-point-and-click-rpg-adventure-chapter-1.json](./383353-mouseman-point-and-click-rpg-adventure-chapter-1.json) |
 | Mousement | 388727 | [388727-mousement.json](./388727-mousement.json) |
+| MouseWars | 211190 | [211190-mousewars.json](./211190-mousewars.json) |
 | Mousey | 231625 | [231625-mousey.json](./231625-mousey.json) |
 | Moussacre | 283763 | [283763-moussacre.json](./283763-moussacre.json) |
 | Moustache Mountain | 33133 | [33133-moustache-mountain.json](./33133-moustache-mountain.json) |
