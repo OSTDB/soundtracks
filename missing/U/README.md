@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
 | Unrecord | 246417 | [246417-unrecord.json](./246417-unrecord.json) |
 | UnRequited | 201311 | [201311-unrequited.json](./201311-unrequited.json) |
+| Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
 | Unsafe Express | 173282 | [173282-unsafe-express.json](./173282-unsafe-express.json) |
 | Unsighted | 111815 | [111815-unsighted.json](./111815-unsighted.json) |
