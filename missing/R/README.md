@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Royale | 390012 | [390012-racing-royale.json](./390012-racing-royale.json) |
+| Racing Rush | 234608 | [234608-racing-rush.json](./234608-racing-rush.json) |
 | Racing Stars | 295274 | [295274-racing-stars.json](./295274-racing-stars.json) |
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
@@ -230,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
+| Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
 | Rance III: Leazas Kanraku | 41406 | [41406-rance-iii-leazas-kanraku.json](./41406-rance-iii-leazas-kanraku.json) |
 | Rance IV: Kyoudan no Isan | 41405 | [41405-rance-iv-kyoudan-no-isan.json](./41405-rance-iv-kyoudan-no-isan.json) |
 | Rance Quest Magnum | 137669 | [137669-rance-quest-magnum.json](./137669-rance-quest-magnum.json) |
@@ -1641,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rotato | 377595 | [377595-rotato.json](./377595-rotato.json) |
+| Roterra 4: Magical Revolution | 234605 | [234605-roterra-4-magical-revolution.json](./234605-roterra-4-magical-revolution.json) |
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
 | Rotieer | 35909 | [35909-rotieer.json](./35909-rotieer.json) |
