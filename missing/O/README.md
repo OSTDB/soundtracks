@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oct 14 | 341498 | [341498-oct-14.json](./341498-oct-14.json) |
 | Octagon - A Minimal Game with Maximum Challenge | 88290 | [88290-octagon-a-minimal-game-with-maximum-challenge.json](./88290-octagon-a-minimal-game-with-maximum-challenge.json) |
 | Octagon 2: Extreme Evolution | 175418 | [175418-octagon-2-extreme-evolution.json](./175418-octagon-2-extreme-evolution.json) |
+| Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
 | Octopie | 204723 | [204723-octopie.json](./204723-octopie.json) |
@@ -559,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
 | Ooga Booga Battle | 341512 | [341512-ooga-booga-battle.json](./341512-ooga-booga-battle.json) |
 | Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
+| Ookouchi Gengorou Ikka | 247528 | [247528-ookouchi-gengorou-ikka.json](./247528-ookouchi-gengorou-ikka.json) |
 | Oolite | 47274 | [47274-oolite.json](./47274-oolite.json) |
 | Oom | 252765 | [252765-oom.json](./252765-oom.json) |
 | Oompas Outrageous Rush | 373556 | [373556-oompas-outrageous-rush.json](./373556-oompas-outrageous-rush.json) |
