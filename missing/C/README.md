@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Flying | 27878 | [27878-cave-flying.json](./27878-cave-flying.json) |
 | Cave Ghost | 368480 | [368480-cave-ghost.json](./368480-cave-ghost.json) |
 | Cave Girl Clair | 309340 | [309340-cave-girl-clair.json](./309340-cave-girl-clair.json) |
+| Cave Heroes | 227254 | [227254-cave-heroes.json](./227254-cave-heroes.json) |
 | Cave Hopper | 139468 | [139468-cave-hopper.json](./139468-cave-hopper.json) |
 | Cave Oasis at Shylake | 380423 | [380423-cave-oasis-at-shylake.json](./380423-cave-oasis-at-shylake.json) |
 | Cave of Illusions | 125116 | [125116-cave-of-illusions.json](./125116-cave-of-illusions.json) |
@@ -2402,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
+| Crazy Pitcher | 227255 | [227255-crazy-pitcher.json](./227255-crazy-pitcher.json) |
 | Crazy Pizza Boy | 242214 | [242214-crazy-pizza-boy.json](./242214-crazy-pizza-boy.json) |
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
