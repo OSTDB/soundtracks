@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapih | 332262 | [332262-kapih.json](./332262-kapih.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Kappa-kun to Asobou: Kappa-kun to Ota no Shimikai | 64439 | [64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json](./64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json) |
+| Kapsyljakt med Anki & Pytte | 225648 | [225648-kapsyljakt-med-anki-and-pytte.json](./225648-kapsyljakt-med-anki-and-pytte.json) |
 | Käpt'n Blaubär: Die Verrückte Schatzsuche | 86070 | [86070-kaptn-blaubar-die-verruckte-schatzsuche.json](./86070-kaptn-blaubar-die-verruckte-schatzsuche.json) |
 | Kara no Oukoku | 380433 | [380433-kara-no-oukoku.json](./380433-kara-no-oukoku.json) |
 | Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
@@ -545,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioku | 309886 | [309886-kioku.json](./309886-kioku.json) |
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
+| KIPP: Untouched | 225632 | [225632-kipp-untouched.json](./225632-kipp-untouched.json) |
 | Kira-kira Star Night AC | 206341 | [206341-kira-kira-star-night-ac.json](./206341-kira-kira-star-night-ac.json) |
 | Kira-kira Star Night exa | 206344 | [206344-kira-kira-star-night-exa.json](./206344-kira-kira-star-night-exa.json) |
 | Kira-kira Star Night Gold | 206342 | [206342-kira-kira-star-night-gold.json](./206342-kira-kira-star-night-gold.json) |
