@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T21:21:00.589Z",
-  "total_missing": 48194,
+  "generated_at": "2026-09-08T21:31:01.471Z",
+  "total_missing": 48196,
   "games": [
     {
       "igdb_id": 306086,
@@ -321,11 +321,6 @@
       "igdb_id": 413678,
       "game_name": "100% Complete",
       "file": "missing/0-9/413678-100-complete.json"
-    },
-    {
-      "igdb_id": 235752,
-      "game_name": "100% Hits",
-      "file": "missing/0-9/235752-100-hits.json"
     },
     {
       "igdb_id": 11426,
@@ -24746,6 +24741,11 @@
       "igdb_id": 159348,
       "game_name": "Blacksmith Legends",
       "file": "missing/B/159348-blacksmith-legends.json"
+    },
+    {
+      "igdb_id": 213987,
+      "game_name": "Blacksmith Weapon Merchant",
+      "file": "missing/B/213987-blacksmith-weapon-merchant.json"
     },
     {
       "igdb_id": 152129,
@@ -55031,6 +55031,11 @@
       "igdb_id": 344390,
       "game_name": "Dodge the Creeps",
       "file": "missing/D/344390-dodge-the-creeps.json"
+    },
+    {
+      "igdb_id": 213989,
+      "game_name": "DodgeKing",
+      "file": "missing/D/213989-dodgeking.json"
     },
     {
       "igdb_id": 59415,
@@ -233956,6 +233961,11 @@
       "igdb_id": 259539,
       "game_name": "Windstorm: Double Pack",
       "file": "missing/W/259539-windstorm-double-pack.json"
+    },
+    {
+      "igdb_id": 213988,
+      "game_name": "Windsurfing MMX",
+      "file": "missing/W/213988-windsurfing-mmx.json"
     },
     {
       "igdb_id": 104641,
