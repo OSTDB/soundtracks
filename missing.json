@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T13:48:37.239Z",
-  "total_missing": 46993,
+  "generated_at": "2026-09-08T13:51:07.049Z",
+  "total_missing": 46992,
   "games": [
     {
       "igdb_id": 306086,
@@ -86,11 +86,6 @@
       "igdb_id": 147437,
       "game_name": "#womenUp, Super Puzzles Dream",
       "file": "missing/0-9/147437-womenup-super-puzzles-dream.json"
-    },
-    {
-      "igdb_id": 347176,
-      "game_name": "+ Fence",
-      "file": "missing/0-9/347176-fence.json"
     },
     {
       "igdb_id": 383380,
