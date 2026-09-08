@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon: Total War - Heroes of the Napoleonic Wars | 82111 | [82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json](./82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json) |
 | Napoleon: Total War - Imperial Eagle Pack | 82110 | [82110-napoleon-total-war-imperial-eagle-pack.json](./82110-napoleon-total-war-imperial-eagle-pack.json) |
 | Napoleon: Total War - The Peninsular Campaign | 82109 | [82109-napoleon-total-war-the-peninsular-campaign.json](./82109-napoleon-total-war-the-peninsular-campaign.json) |
+| Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
 | Narcis Crosswords | 304028 | [304028-narcis-crosswords.json](./304028-narcis-crosswords.json) |
@@ -184,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazoler Land Dai 3-gou | 41399 | [41399-nazoler-land-dai-3-gou.json](./41399-nazoler-land-dai-3-gou.json) |
 | Nazoler Land Soukan-gou | 41398 | [41398-nazoler-land-soukan-gou.json](./41398-nazoler-land-soukan-gou.json) |
 | Nazoler Land Special!! Quiz-Ou wo Ikuse | 41397 | [41397-nazoler-land-special-quiz-ou-wo-ikuse.json](./41397-nazoler-land-special-quiz-ou-wo-ikuse.json) |
+| Nazotoki Suiri! Yuuzai? Muzai? | 251606 | [251606-nazotoki-suiri-yuuzai-muzai.json](./251606-nazotoki-suiri-yuuzai-muzai.json) |
 | NBA 2K | 8832 | [8832-nba-2k.json](./8832-nba-2k.json) |
 | NBA 2K1 | 28836 | [28836-nba-2k1.json](./28836-nba-2k1.json) |
 | NBA 2K11 | 5056 | [5056-nba-2k11.json](./5056-nba-2k11.json) |
@@ -506,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
+| New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
 | New Star Soccer | 7682 | [7682-new-star-soccer.json](./7682-new-star-soccer.json) |
