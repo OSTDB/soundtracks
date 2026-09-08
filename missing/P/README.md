@@ -1553,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
 | Pokerrrr 2 | 320179 | [320179-pokerrrr-2.json](./320179-pokerrrr-2.json) |
+| PokerTH | 250379 | [250379-pokerth.json](./250379-pokerth.json) |
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
 | PokeXGames | 145038 | [145038-pokexgames.json](./145038-pokexgames.json) |
@@ -2412,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
+| Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
@@ -2431,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
 | Puzzle by Nikoli S Sudoku | 219293 | [219293-puzzle-by-nikoli-s-sudoku.json](./219293-puzzle-by-nikoli-s-sudoku.json) |
+| Puzzle by Nikoli S: Numberlink | 250392 | [250392-puzzle-by-nikoli-s-numberlink.json](./250392-puzzle-by-nikoli-s-numberlink.json) |
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
