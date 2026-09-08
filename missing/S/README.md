@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
 | Samsung Pro Cricket | 356656 | [356656-samsung-pro-cricket.json](./356656-samsung-pro-cricket.json) |
 | Samudai | 35927 | [35927-samudai.json](./35927-samudai.json) |
+| Samurado | 244254 | [244254-samurado.json](./244254-samurado.json) |
 | Samurai Blade | 237671 | [237671-samurai-blade.json](./237671-samurai-blade.json) |
 | Samurai Bloodshow | 92500 | [92500-samurai-bloodshow.json](./92500-samurai-bloodshow.json) |
 | Samurai Bringer | 192434 | [192434-samurai-bringer.json](./192434-samurai-bringer.json) |
@@ -223,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Stratagem | 379342 | [379342-samurai-stratagem.json](./379342-samurai-stratagem.json) |
+| Samurai Survivors | 244247 | [244247-samurai-survivors.json](./244247-samurai-survivors.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
@@ -278,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
+| SangRaciner | 244265 | [244265-sangraciner.json](./244265-sangraciner.json) |
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
@@ -1332,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
 | Shodan Morita Shogi | 38372 | [38372-shodan-morita-shogi.json](./38372-shodan-morita-shogi.json) |
 | Shodankurai Nintei: Shodan Pro Mahjong | 38368 | [38368-shodankurai-nintei-shodan-pro-mahjong.json](./38368-shodankurai-nintei-shodan-pro-mahjong.json) |
+| Shodot | 244267 | [244267-shodot.json](./244267-shodot.json) |
 | Shogi Nyuumon | 126014 | [126014-shogi-nyuumon.json](./126014-shogi-nyuumon.json) |
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
@@ -1744,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkateNationXL | 272579 | [272579-skatenationxl.json](./272579-skatenationxl.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
+| Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
 | Skelemania | 183059 | [183059-skelemania.json](./183059-skelemania.json) |
 | Skelerun | 198513 | [198513-skelerun.json](./198513-skelerun.json) |
 | Skelet_666 | 306380 | [306380-skelet-666.json](./306380-skelet-666.json) |
@@ -2459,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnography | 172769 | [172769-somnography.json](./172769-somnography.json) |
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
 | Son of a Glitch | 340202 | [340202-son-of-a-glitch.json](./340202-son-of-a-glitch.json) |
+| Son of a Gun | 244250 | [244250-son-of-a-gun.json](./244250-son-of-a-gun.json) |
 | Son of Nor | 16848 | [16848-son-of-nor.json](./16848-son-of-nor.json) |
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
@@ -4314,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
+| Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
 | Suicide Squad: Kill the Justice League - Season of the Joker | 317868 | [317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json](./317868-suicide-squad-kill-the-justice-league-season-of-the-joker.json) |
 | Suidou Kozou | 91949 | [91949-suidou-kozou.json](./91949-suidou-kozou.json) |
@@ -4996,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
+| Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival Camp | 127662 | [127662-survival-camp.json](./127662-survival-camp.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Denied | 132228 | [132228-survival-denied.json](./132228-survival-denied.json) |
