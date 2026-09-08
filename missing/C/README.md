@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
+| Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
 | Captain Alexia | 181907 | [181907-captain-alexia.json](./181907-captain-alexia.json) |
 | Captain America and the Avengers | 275028 | [275028-captain-america-and-the-avengers.json](./275028-captain-america-and-the-avengers.json) |
 | Captain America and the Avengers | 275030 | [275030-captain-america-and-the-avengers.json](./275030-captain-america-and-the-avengers.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
 | Carrots and Cream | 22414 | [22414-carrots-and-cream.json](./22414-carrots-and-cream.json) |
 | Carrotting Brain | 34418 | [34418-carrotting-brain.json](./34418-carrotting-brain.json) |
+| Carry Onward | 249787 | [249787-carry-onward.json](./249787-carry-onward.json) |
 | Carry The Glass | 319399 | [319399-carry-the-glass.json](./319399-carry-the-glass.json) |
 | Cars 2 | 210274 | [210274-cars-2.json](./210274-cars-2.json) |
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
@@ -653,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave of the Skinwalker | 358856 | [358856-cave-of-the-skinwalker.json](./358856-cave-of-the-skinwalker.json) |
 | Cave of Treats | 408803 | [408803-cave-of-treats.json](./408803-cave-of-treats.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
+| Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
@@ -1746,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
+| Comet Culling | 249779 | [249779-comet-culling.json](./249779-comet-culling.json) |
 | Comet Force | 324877 | [324877-comet-force.json](./324877-comet-force.json) |
 | Comet Moon: The Journey Begins | 339845 | [339845-comet-moon-the-journey-begins.json](./339845-comet-moon-the-journey-begins.json) |
 | Comet Tail: Polygon Panic | 369010 | [369010-comet-tail-polygon-panic.json](./369010-comet-tail-polygon-panic.json) |
@@ -2599,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | CubbetyCuby | 388735 | [388735-cubbetycuby.json](./388735-cubbetycuby.json) |
+| Cube | 249776 | [249776-cube.json](./249776-cube.json) |
 | Cube | 272548 | [272548-cube.json](./272548-cube.json) |
 | Cube | 385600 | [385600-cube.json](./385600-cube.json) |
 | Cube | 396933 | [396933-cube.json](./396933-cube.json) |
