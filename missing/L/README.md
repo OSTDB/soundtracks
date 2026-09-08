@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Rabbit Club | 380997 | [380997-lucky-rabbit-club.json](./380997-lucky-rabbit-club.json) |
 | Lucky Shot | 402293 | [402293-lucky-shot.json](./402293-lucky-shot.json) |
 | Lucky Slots | 242551 | [242551-lucky-slots.json](./242551-lucky-slots.json) |
+| Lucky Stamina | 213992 | [213992-lucky-stamina.json](./213992-lucky-stamina.json) |
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
