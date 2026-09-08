@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
+| GalaxyMotoCrossHD | 246967 | [246967-galaxymotocrosshd.json](./246967-galaxymotocrosshd.json) |
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
