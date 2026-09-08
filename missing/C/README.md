@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
 | Cauldron I & II | 126012 | [126012-cauldron-i-and-ii.json](./126012-cauldron-i-and-ii.json) |
+| Causal Nexus | 236256 | [236256-causal-nexus.json](./236256-causal-nexus.json) |
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
 | Cause of Death | 91937 | [91937-cause-of-death.json](./91937-cause-of-death.json) |
 | Caution Ahead: Part 2 | 305142 | [305142-caution-ahead-part-2.json](./305142-caution-ahead-part-2.json) |
@@ -775,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cgencore | 115028 | [115028-cgencore.json](./115028-cgencore.json) |
 | Chachacha Slot | 87296 | [87296-chachacha-slot.json](./87296-chachacha-slot.json) |
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
+| Chai | 236280 | [236280-chai.json](./236280-chai.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
@@ -2450,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
 | Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
+| Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
 | Crime Secrets: Crimson Lily | 32930 | [32930-crime-secrets-crimson-lily.json](./32930-crime-secrets-crimson-lily.json) |
 | Crime Simulator: Playgrounds | 415075 | [415075-crime-simulator-playgrounds.json](./415075-crime-simulator-playgrounds.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
@@ -2609,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
+| Crypt Architect | 236269 | [236269-crypt-architect.json](./236269-crypt-architect.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
