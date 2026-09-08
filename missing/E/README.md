@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
 | Edna & Harvey: Harvey's New Eyes | 6701 | [6701-edna-and-harvey-harveys-new-eyes.json](./6701-edna-and-harvey-harveys-new-eyes.json) |
+| Edna: Out of Sight, Out of Control | 210676 | [210676-edna-out-of-sight-out-of-control.json](./210676-edna-out-of-sight-out-of-control.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
@@ -228,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
 | Effigy | 218715 | [218715-effigy.json](./218715-effigy.json) |
+| Effing Worms | 210662 | [210662-effing-worms.json](./210662-effing-worms.json) |
 | Effortworld | 265655 | [265655-effortworld.json](./265655-effortworld.json) |
 | Effugium | 255954 | [255954-effugium.json](./255954-effugium.json) |
 | Effy: One of Unreasonable "If" | 236822 | [236822-effy-one-of-unreasonable-if.json](./236822-effy-one-of-unreasonable-if.json) |
