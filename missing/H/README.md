@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
 | Hands of Time | 49927 | [49927-hands-of-time.json](./49927-hands-of-time.json) |
 | Hands On! Tangrams | 48043 | [48043-hands-on-tangrams.json](./48043-hands-on-tangrams.json) |
+| Handshakes: Hands On | 233010 | [233010-handshakes-hands-on.json](./233010-handshakes-hands-on.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
 | Handy Farm: Roguelike | 385602 | [385602-handy-farm-roguelike.json](./385602-handy-farm-roguelike.json) |
 | HandyCopter | 89959 | [89959-handycopter.json](./89959-handycopter.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Minus Forever Standalone DLC | 249182 | [249182-hard-minus-forever-standalone-dlc.json](./249182-hard-minus-forever-standalone-dlc.json) |
 | Hard Racing | 252160 | [252160-hard-racing.json](./252160-hard-racing.json) |
 | Hard Rock Pinball | 133434 | [133434-hard-rock-pinball.json](./133434-hard-rock-pinball.json) |
+| Hard Survivor | 232973 | [232973-hard-survivor.json](./232973-hard-survivor.json) |
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
 | Hard Winter | 25769 | [25769-hard-winter.json](./25769-hard-winter.json) |
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
@@ -407,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
 | Haunted Train: Spirits of Charon | 140033 | [140033-haunted-train-spirits-of-charon.json](./140033-haunted-train-spirits-of-charon.json) |
 | Haunted Zombie School | 205225 | [205225-haunted-zombie-school.json](./205225-haunted-zombie-school.json) |
+| Haunted Zombie Slaughter | 232986 | [232986-haunted-zombie-slaughter.json](./232986-haunted-zombie-slaughter.json) |
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
 | Haunted: The Chronicles | 249211 | [249211-haunted-the-chronicles.json](./249211-haunted-the-chronicles.json) |
@@ -1167,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo Doctor: Hospital Laboratory | 105946 | [105946-hippo-doctor-hospital-laboratory.json](./105946-hippo-doctor-hospital-laboratory.json) |
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
+| Hippo: Little Red Riding Hood | 233007 | [233007-hippo-little-red-riding-hood.json](./233007-hippo-little-red-riding-hood.json) |
 | Hippodrome | 39680 | [39680-hippodrome.json](./39680-hippodrome.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
