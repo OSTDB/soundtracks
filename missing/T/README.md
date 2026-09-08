@@ -360,9 +360,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Blocks Out | 254746 | [254746-tap-blocks-out.json](./254746-tap-blocks-out.json) |
 | Tap Boutique | 256535 | [256535-tap-boutique.json](./256535-tap-boutique.json) |
 | Tap Building | 212469 | [212469-tap-building.json](./212469-tap-building.json) |
+| Tap Craft | 239048 | [239048-tap-craft.json](./239048-tap-craft.json) |
 | Tap Crush Jewels | 90679 | [90679-tap-crush-jewels.json](./90679-tap-crush-jewels.json) |
 | Tap Dash | 252140 | [252140-tap-dash.json](./252140-tap-dash.json) |
 | Tap knife VIP | 105959 | [105959-tap-knife-vip.json](./105959-tap-knife-vip.json) |
+| Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
 | Tap Smiths | 58233 | [58233-tap-smiths.json](./58233-tap-smiths.json) |
@@ -960,6 +962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
 | The Big Fear of Heights Experience | 52002 | [52002-the-big-fear-of-heights-experience.json](./52002-the-big-fear-of-heights-experience.json) |
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
+| The Big One | 239081 | [239081-the-big-one.json](./239081-the-big-one.json) |
 | The Big Picture | 206346 | [206346-the-big-picture.json](./206346-the-big-picture.json) |
 | The Big, Friendly Thud! | 260937 | [260937-the-big-friendly-thud.json](./260937-the-big-friendly-thud.json) |
 | The Biggest Loser | 48035 | [48035-the-biggest-loser.json](./48035-the-biggest-loser.json) |
@@ -3768,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer III - Thrones of Decay | 251224 | [251224-total-war-warhammer-iii-thrones-of-decay.json](./251224-total-war-warhammer-iii-thrones-of-decay.json) |
 | Total War: Warhammer III - Update 3.1 | 251222 | [251222-total-war-warhammer-iii-update-3-1.json](./251222-total-war-warhammer-iii-update-3-1.json) |
 | Totality | 272278 | [272278-totality.json](./272278-totality.json) |
+| Totally Accurate Battle Simulator: Bug DLC | 239080 | [239080-totally-accurate-battle-simulator-bug-dlc.json](./239080-totally-accurate-battle-simulator-bug-dlc.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Realistic Unicorn Buffalo Simulator | 142463 | [142463-totally-realistic-unicorn-buffalo-simulator.json](./142463-totally-realistic-unicorn-buffalo-simulator.json) |
 | Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
@@ -3925,6 +3929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers of Scale | 381624 | [381624-towers-of-scale.json](./381624-towers-of-scale.json) |
 | Towers of Twilight | 53835 | [53835-towers-of-twilight.json](./53835-towers-of-twilight.json) |
 | Towers That Don't Like Each Other | 51997 | [51997-towers-that-dont-like-each-other.json](./51997-towers-that-dont-like-each-other.json) |
+| Towing Race | 239045 | [239045-towing-race.json](./239045-towing-race.json) |
 | Towing Simulator | 9451 | [9451-towing-simulator.json](./9451-towing-simulator.json) |
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
