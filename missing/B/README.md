@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Pact: Premium Edition | 239876 | [239876-blood-pact-premium-edition.json](./239876-blood-pact-premium-edition.json) |
 | Blood Peace | 293106 | [293106-blood-peace.json](./293106-blood-peace.json) |
 | Blood Radiant | 277275 | [277275-blood-radiant.json](./277275-blood-radiant.json) |
+| Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
 | Blood Safari | 165662 | [165662-blood-safari.json](./165662-blood-safari.json) |
 | Blood Sea | 312572 | [312572-blood-sea.json](./312572-blood-sea.json) |
