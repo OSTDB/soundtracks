@@ -2524,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
 | Atominous | 257383 | [257383-atominous.json](./257383-atominous.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
+| Atomograd | 249222 | [249222-atomograd.json](./249222-atomograd.json) |
 | Atoms and Time | 269043 | [269043-atoms-and-time.json](./269043-atoms-and-time.json) |
 | Aton | 332239 | [332239-aton.json](./332239-aton.json) |
 | Atone | 277308 | [277308-atone.json](./277308-atone.json) |
@@ -2742,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Dreams | 6545 | [6545-azure-dreams.json](./6545-azure-dreams.json) |
 | Azure Hue | 336553 | [336553-azure-hue.json](./336553-azure-hue.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
+| Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
 | Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
 | Azurik: Rise of Perathia | 5733 | [5733-azurik-rise-of-perathia.json](./5733-azurik-rise-of-perathia.json) |
