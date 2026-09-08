@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Pro | 246384 | [246384-pool-pro.json](./246384-pool-pro.json) |
 | Pool Pro 2022 | 275611 | [275611-pool-pro-2022.json](./275611-pool-pro-2022.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
+| Pool: 8 Ball Mania | 213386 | [213386-pool-8-ball-mania.json](./213386-pool-8-ball-mania.json) |
 | Pool! | 88287 | [88287-pool.json](./88287-pool.json) |
 | Poolcore | 238742 | [238742-poolcore.json](./238742-poolcore.json) |
 | Poop Fiction | 302129 | [302129-poop-fiction.json](./302129-poop-fiction.json) |
@@ -2546,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Team | 332982 | [332982-puppet-team.json](./332982-puppet-team.json) |
 | Puppet: Hide And Seek | 302934 | [302934-puppet-hide-and-seek.json](./302934-puppet-hide-and-seek.json) |
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
+| Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
