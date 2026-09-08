@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
 | Finding Fern | 239659 | [239659-finding-fern.json](./239659-finding-fern.json) |
+| Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
 | Finding Mosey | 214158 | [214158-finding-mosey.json](./214158-finding-mosey.json) |
 | Finding Nemo: Nemo's Underwater World of Fun | 18258 | [18258-finding-nemo-nemos-underwater-world-of-fun.json](./18258-finding-nemo-nemos-underwater-world-of-fun.json) |
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Koushien II | 123045 | [123045-fishing-koushien-ii.json](./123045-fishing-koushien-ii.json) |
 | Fishing Maniacs 1 TD | 96735 | [96735-fishing-maniacs-1-td.json](./96735-fishing-maniacs-1-td.json) |
 | Fishing Master World Tour | 50630 | [50630-fishing-master-world-tour.json](./50630-fishing-master-world-tour.json) |
+| Fishing Mates | 237960 | [237960-fishing-mates.json](./237960-fishing-mates.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
 | Fishing Mega-Game | 373002 | [373002-fishing-mega-game.json](./373002-fishing-mega-game.json) |
 | Fishing Minigame 2 | 273921 | [273921-fishing-minigame-2.json](./273921-fishing-minigame-2.json) |
@@ -1348,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
+| Foosball Cup World | 237957 | [237957-foosball-cup-world.json](./237957-foosball-cup-world.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
 | Foot Fashion Simulator | 258983 | [258983-foot-fashion-simulator.json](./258983-foot-fashion-simulator.json) |
