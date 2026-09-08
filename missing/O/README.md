@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opia | 322946 | [322946-opia.json](./322946-opia.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
+| Opposyte | 258459 | [258459-opposyte.json](./258459-opposyte.json) |
 | Optasia: The Last Visit | 391034 | [391034-optasia-the-last-visit.json](./391034-optasia-the-last-visit.json) |
 | Optica | 107226 | [107226-optica.json](./107226-optica.json) |
 | Optika | 32137 | [32137-optika.json](./32137-optika.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
+| Oudbiao's World | 258477 | [258477-oudbiaos-world.json](./258477-oudbiaos-world.json) |
 | Oukaranman | 59408 | [59408-oukaranman.json](./59408-oukaranman.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Our Beautiful Earth 3 | 294447 | [294447-our-beautiful-earth-3.json](./294447-our-beautiful-earth-3.json) |
