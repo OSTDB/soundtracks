@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Showdown: Royale | 244798 | [244798-basketball-showdown-royale.json](./244798-basketball-showdown-royale.json) |
 | Basketball Slam! | 237651 | [237651-basketball-slam.json](./237651-basketball-slam.json) |
 | Basketball: Breakthrough Gaming Arcade | 204079 | [204079-basketball-breakthrough-gaming-arcade.json](./204079-basketball-breakthrough-gaming-arcade.json) |
+| Basketball: Breakthrough Gaming Arcade - Challenge Mode Edition | 221770 | [221770-basketball-breakthrough-gaming-arcade-challenge-mode-edition.json](./221770-basketball-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Basketball: Dribble Away | 245558 | [245558-basketball-dribble-away.json](./245558-basketball-dribble-away.json) |
 | Basketball: Electronic Game | 245557 | [245557-basketball-electronic-game.json](./245557-basketball-electronic-game.json) |
 | Basketballverse | 275021 | [275021-basketballverse.json](./275021-basketballverse.json) |
@@ -1415,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
+| BlackberryNova: Sports Club | 221759 | [221759-blackberrynova-sports-club.json](./221759-blackberrynova-sports-club.json) |
 | Blackblade Revenant | 327178 | [327178-blackblade-revenant.json](./327178-blackblade-revenant.json) |
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
 | BlackBox | 130951 | [130951-blackbox.json](./130951-blackbox.json) |
@@ -1938,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Stuff | 407338 | [407338-bone-stuff.json](./407338-bone-stuff.json) |
 | Bonelab | 198230 | [198230-bonelab.json](./198230-bonelab.json) |
 | Boneless VR | 302352 | [302352-boneless-vr.json](./302352-boneless-vr.json) |
+| Bonerdale | 221762 | [221762-bonerdale.json](./221762-bonerdale.json) |
 | Bones in the Boneyard | 319339 | [319339-bones-in-the-boneyard.json](./319339-bones-in-the-boneyard.json) |
 | Bones: Lab Panic | 58811 | [58811-bones-lab-panic.json](./58811-bones-lab-panic.json) |
 | Bones: Wandering Soul | 347678 | [347678-bones-wandering-soul.json](./347678-bones-wandering-soul.json) |
