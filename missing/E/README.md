@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Soul | 391606 | [391606-elemental-soul.json](./391606-elemental-soul.json) |
 | Elemental Survivors | 244234 | [244234-elemental-survivors.json](./244234-elemental-survivors.json) |
 | Elemental War | 110131 | [110131-elemental-war.json](./110131-elemental-war.json) |
+| Elemental War: Dawn of the Crystals | 236275 | [236275-elemental-war-dawn-of-the-crystals.json](./236275-elemental-war-dawn-of-the-crystals.json) |
 | Elemental World | 208039 | [208039-elemental-world.json](./208039-elemental-world.json) |
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
@@ -425,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
 | Elvira II: The Jaws of Cerberus | 228728 | [228728-elvira-ii-the-jaws-of-cerberus.json](./228728-elvira-ii-the-jaws-of-cerberus.json) |
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
+| Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
 | Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
 | Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
@@ -837,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
+| EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
 | Esper | 23893 | [23893-esper.json](./23893-esper.json) |
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
