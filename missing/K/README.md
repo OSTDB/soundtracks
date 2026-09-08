@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
+| Kaitou Tantei Blonde Lady | 236834 | [236834-kaitou-tantei-blonde-lady.json](./236834-kaitou-tantei-blonde-lady.json) |
 | Kaiv | 23874 | [23874-kaiv.json](./23874-kaiv.json) |
 | Kaiwa | 290681 | [290681-kaiwa.json](./290681-kaiwa.json) |
 | Kaiyo's Castle | 347182 | [347182-kaiyos-castle.json](./347182-kaiyos-castle.json) |
@@ -575,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
 | Kita e. Photo Memories | 239082 | [239082-kita-e-photo-memories.json](./239082-kita-e-photo-memories.json) |
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
+| Kitchen Confidence | 236855 | [236855-kitchen-confidence.json](./236855-kitchen-confidence.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
 | Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
@@ -828,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
 | Kromex | 400850 | [400850-kromex.json](./400850-kromex.json) |
 | Kromlech | 253588 | [253588-kromlech.json](./253588-kromlech.json) |
+| Kroniki Elevena | 236807 | [236807-kroniki-elevena.json](./236807-kroniki-elevena.json) |
 | Kronville: Stolen Dreams | 53262 | [53262-kronville-stolen-dreams.json](./53262-kronville-stolen-dreams.json) |
 | Krusty Zombies | 180312 | [180312-krusty-zombies.json](./180312-krusty-zombies.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
