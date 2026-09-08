@@ -530,6 +530,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bassing Beat | 285997 | [285997-bassing-beat.json](./285997-bassing-beat.json) |
 | Bassing Beat 2 | 285998 | [285998-bassing-beat-2.json](./285998-bassing-beat-2.json) |
 | Bassmaster Fishing 2022 | 169996 | [169996-bassmaster-fishing-2022.json](./169996-bassmaster-fishing-2022.json) |
+| Bassmaster Fishing 2022: Elite Fishing Equipment Pack | 225081 | [225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json](./225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json) |
+| Bassmaster Fishing 2022: Predator Equipment Pack | 225082 | [225082-bassmaster-fishing-2022-predator-equipment-pack.json](./225082-bassmaster-fishing-2022-predator-equipment-pack.json) |
+| Bassmaster Fishing 2022: Synthwave Pack | 225083 | [225083-bassmaster-fishing-2022-synthwave-pack.json](./225083-bassmaster-fishing-2022-synthwave-pack.json) |
+| Bassmaster Fishing 2022: Throwback B.A.S.S. Pack | 225084 | [225084-bassmaster-fishing-2022-throwback-b-a-s-s-pack.json](./225084-bassmaster-fishing-2022-throwback-b-a-s-s-pack.json) |
 | Bassmaster Fishing: Digital Collector's Edition | 240221 | [240221-bassmaster-fishing-digital-collectors-edition.json](./240221-bassmaster-fishing-digital-collectors-edition.json) |
 | BassMasters 2000 | 3420 | [3420-bassmasters-2000.json](./3420-bassmasters-2000.json) |
 | Basterd Blitz | 276703 | [276703-basterd-blitz.json](./276703-basterd-blitz.json) |
@@ -1143,6 +1147,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big City Adventure: Istanbul | 294743 | [294743-big-city-adventure-istanbul.json](./294743-big-city-adventure-istanbul.json) |
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
+| Big Farm Story: Asian Package | 225069 | [225069-big-farm-story-asian-package.json](./225069-big-farm-story-asian-package.json) |
+| Big Farm Story: Peaceful Nature Pack | 225070 | [225070-big-farm-story-peaceful-nature-pack.json](./225070-big-farm-story-peaceful-nature-pack.json) |
+| Big Farm Story: Pet Paradise Pack | 225068 | [225068-big-farm-story-pet-paradise-pack.json](./225068-big-farm-story-pet-paradise-pack.json) |
+| Big Farm Story: Shiver Night Pack | 225066 | [225066-big-farm-story-shiver-night-pack.json](./225066-big-farm-story-shiver-night-pack.json) |
 | Big Fat Battle | 244771 | [244771-big-fat-battle.json](./244771-big-fat-battle.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
@@ -2343,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
 | Bricksbumpbump | 325830 | [325830-bricksbumpbump.json](./325830-bricksbumpbump.json) |
 | Brickyard / Clowns | 93565 | [93565-brickyard-clowns.json](./93565-brickyard-clowns.json) |
+| Bride Corruption | 225064 | [225064-bride-corruption.json](./225064-bride-corruption.json) |
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
 | Bride into the Cave | 273378 | [273378-bride-into-the-cave.json](./273378-bride-into-the-cave.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
@@ -2506,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
+| Bubbles Swimsuit | 225063 | [225063-bubbles-swimsuit.json](./225063-bubbles-swimsuit.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
@@ -2688,6 +2698,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
 | Bus Driving Simulator 24 City Roads & Farmer Simulator Bundle | 390509 | [390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json](./390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
+| Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
+| Bus Simulator 18: Mercedes-Benz Bus Pack 1 | 225062 | [225062-bus-simulator-18-mercedes-benz-bus-pack-1.json](./225062-bus-simulator-18-mercedes-benz-bus-pack-1.json) |
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
 | Bus stop in the fog | 159877 | [159877-bus-stop-in-the-fog.json](./159877-bus-stop-in-the-fog.json) |
