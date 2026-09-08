@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
 | Wake Up, Good Guardian! | 107866 | [107866-wake-up-good-guardian.json](./107866-wake-up-good-guardian.json) |
 | Wakeari! | 22473 | [22473-wakeari.json](./22473-wakeari.json) |
+| Wakeboarding Unleashed Featuring Shaun Murray | 248685 | [248685-wakeboarding-unleashed-featuring-shaun-murray.json](./248685-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waktunya Kerja! | 385599 | [385599-waktunya-kerja.json](./385599-waktunya-kerja.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
+| Waste in Space | 248651 | [248651-waste-in-space.json](./248651-waste-in-space.json) |
 | Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
@@ -804,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
+| Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
 | Wing Commander: Armada | 8824 | [8824-wing-commander-armada.json](./8824-wing-commander-armada.json) |
