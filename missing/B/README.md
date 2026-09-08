@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
+| Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookey Manor | 333915 | [333915-bookey-manor.json](./333915-bookey-manor.json) |
 | Bookstore Dream | 62950 | [62950-bookstore-dream.json](./62950-bookstore-dream.json) |
 | Bookworm Adventures Deluxe | 353868 | [353868-bookworm-adventures-deluxe.json](./353868-bookworm-adventures-deluxe.json) |
+| Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
 | Boolean | 129217 | [129217-boolean.json](./129217-boolean.json) |
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
@@ -1973,6 +1975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booty Barrage | 292530 | [292530-booty-barrage.json](./292530-booty-barrage.json) |
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
+| Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
 | Boppin' | 14333 | [14333-boppin.json](./14333-boppin.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
 | Border of her Heart 2 | 156669 | [156669-border-of-her-heart-2.json](./156669-border-of-her-heart-2.json) |
