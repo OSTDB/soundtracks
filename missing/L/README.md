@@ -1060,6 +1060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
+| Looking for Aliens: Collector's Edition | 247510 | [247510-looking-for-aliens-collectors-edition.json](./247510-looking-for-aliens-collectors-edition.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
 | Looney Tunes World of Mayhem | 97314 | [97314-looney-tunes-world-of-mayhem.json](./97314-looney-tunes-world-of-mayhem.json) |
@@ -1261,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
+| Love on Leave | 247495 | [247495-love-on-leave.json](./247495-love-on-leave.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
 | Love Red | 302371 | [302371-love-red.json](./302371-love-red.json) |
@@ -1289,6 +1291,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovelink | 204709 | [204709-lovelink.json](./204709-lovelink.json) |
 | Lovelove Boin: High-handed Girl's Boobs | 97374 | [97374-lovelove-boin-high-handed-girls-boobs.json](./97374-lovelove-boin-high-handed-girls-boobs.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
+| Lovely Cat: Dream Party | 247520 | [247520-lovely-cat-dream-party.json](./247520-lovely-cat-dream-party.json) |
+| Lovely Cat: Mermaid Castle | 247521 | [247521-lovely-cat-mermaid-castle.json](./247521-lovely-cat-mermaid-castle.json) |
 | Lovely Farm | 264360 | [264360-lovely-farm.json](./264360-lovely-farm.json) |
 | Lovely Fox | 102918 | [102918-lovely-fox.json](./102918-lovely-fox.json) |
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
