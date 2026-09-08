@@ -29,7 +29,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0101: Pusher Bonus Levels 3 | 325455 | [325455-0101-pusher-bonus-levels-3.json](./325455-0101-pusher-bonus-levels-3.json) |
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
-| 1 Ball 1 Cup | 59435 | [59435-1-ball-1-cup.json](./59435-1-ball-1-cup.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
