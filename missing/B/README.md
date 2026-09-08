@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bachelairs | 331357 | [331357-bachelairs.json](./331357-bachelairs.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
+| Back 4 Blood: Children of the Worm | 215136 | [215136-back-4-blood-children-of-the-worm.json](./215136-back-4-blood-children-of-the-worm.json) |
 | Back 4 Blood: Day One Steelbook Edition | 252174 | [252174-back-4-blood-day-one-steelbook-edition.json](./252174-back-4-blood-day-one-steelbook-edition.json) |
 | Back 4 Blood: Ultimate Edition | 141889 | [141889-back-4-blood-ultimate-edition.json](./141889-back-4-blood-ultimate-edition.json) |
 | Back 4 More | 338185 | [338185-back-4-more.json](./338185-back-4-more.json) |
@@ -112,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
+| Backwards Mario World | 215150 | [215150-backwards-mario-world.json](./215150-backwards-mario-world.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
 | Backyard Hockey 2005 | 46638 | [46638-backyard-hockey-2005.json](./46638-backyard-hockey-2005.json) |
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
@@ -303,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
 | Bandit Accountancy | 336923 | [336923-bandit-accountancy.json](./336923-bandit-accountancy.json) |
+| Bandit Emblem | 215148 | [215148-bandit-emblem.json](./215148-bandit-emblem.json) |
 | Bandit Kings of Ancient China | 273085 | [273085-bandit-kings-of-ancient-china.json](./273085-bandit-kings-of-ancient-china.json) |
 | Bandit Kings of Ancient China | 9496 | [9496-bandit-kings-of-ancient-china.json](./9496-bandit-kings-of-ancient-china.json) |
 | Bandit Knight | 258991 | [258991-bandit-knight.json](./258991-bandit-knight.json) |
@@ -498,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BASED | 394231 | [394231-based.json](./394231-based.json) |
 | Basement | 68654 | [68654-basement.json](./68654-basement.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
+| Bases and Bandits | 215145 | [215145-bases-and-bandits.json](./215145-bases-and-bandits.json) |
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
@@ -736,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
+| Battleship War: Time to Sink the Fleet | 215116 | [215116-battleship-war-time-to-sink-the-fleet.json](./215116-battleship-war-time-to-sink-the-fleet.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
 | Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
