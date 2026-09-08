@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
 | Portal Together | 410208 | [410208-portal-together.json](./410208-portal-together.json) |
+| Portal War | 221752 | [221752-portal-war.json](./221752-portal-war.json) |
 | Portal with RTX | 218277 | [218277-portal-with-rtx.json](./218277-portal-with-rtx.json) |
 | Portal: Companion Collection | 191406 | [191406-portal-companion-collection.json](./191406-portal-companion-collection.json) |
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
