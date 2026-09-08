@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
 | Upload Simulator Silicon | 315282 | [315282-upload-simulator-silicon.json](./315282-upload-simulator-silicon.json) |
+| Upper Ball | 239091 | [239091-upper-ball.json](./239091-upper-ball.json) |
 | Upperz | 102794 | [102794-upperz.json](./102794-upperz.json) |
 | Uprising Complete | 53878 | [53878-uprising-complete.json](./53878-uprising-complete.json) |
 | Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
