@@ -72,7 +72,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
 | 100% Orange Juice | 11426 | [11426-100-orange-juice.json](./11426-100-orange-juice.json) |
 | 100% Orange Juice: Alicianrone & Teotoratta | 164469 | [164469-100-orange-juice-alicianrone-and-teotoratta.json](./164469-100-orange-juice-alicianrone-and-teotoratta.json) |
-| 100% Orange Juice: Alte & Kyoko | 164468 | [164468-100-orange-juice-alte-and-kyoko.json](./164468-100-orange-juice-alte-and-kyoko.json) |
 | 100% Orange Juice: Chris & Kyupita | 164476 | [164476-100-orange-juice-chris-and-kyupita.json](./164476-100-orange-juice-chris-and-kyupita.json) |
 | 100% Orange Juice: Krila & Kae | 164482 | [164482-100-orange-juice-krila-and-kae.json](./164482-100-orange-juice-krila-and-kae.json) |
 | 100% Orange Juice: Mei & Natsumi | 164475 | [164475-100-orange-juice-mei-and-natsumi.json](./164475-100-orange-juice-mei-and-natsumi.json) |
