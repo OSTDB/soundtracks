@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kings Crusade: New Allies | 10976 | [10976-the-kings-crusade-new-allies.json](./10976-the-kings-crusade-new-allies.json) |
 | The Kings Crusade: Teutonic Knights | 10977 | [10977-the-kings-crusade-teutonic-knights.json](./10977-the-kings-crusade-teutonic-knights.json) |
 | The Knight of Niraking | 392162 | [392162-the-knight-of-niraking.json](./392162-the-knight-of-niraking.json) |
+| The Knight's Path | 258981 | [258981-the-knights-path.json](./258981-the-knights-path.json) |
 | The Koala Brothers: Outback Adventures | 49398 | [49398-the-koala-brothers-outback-adventures.json](./49398-the-koala-brothers-outback-adventures.json) |
 | The Kore Gang: Outvasion from Inner Earth | 72687 | [72687-the-kore-gang-outvasion-from-inner-earth.json](./72687-the-kore-gang-outvasion-from-inner-earth.json) |
 | The Kore Gang: Outvasion From Inner Space | 21071 | [21071-the-kore-gang-outvasion-from-inner-space.json](./21071-the-kore-gang-outvasion-from-inner-space.json) |
@@ -1971,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
+| The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
 | The Mighty Eighth VR | 224786 | [224786-the-mighty-eighth-vr.json](./224786-the-mighty-eighth-vr.json) |
@@ -2502,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
 | The Sych Story: Human Being | 369574 | [369574-the-sych-story-human-being.json](./369574-the-sych-story-human-being.json) |
 | The Symbiant II | 349336 | [349336-the-symbiant-ii.json](./349336-the-symbiant-ii.json) |
+| The Symbiant Re:Union | 259004 | [259004-the-symbiant-re-union.json](./259004-the-symbiant-re-union.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
@@ -2825,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
 | They Are Rising | 392135 | [392135-they-are-rising.json](./392135-they-are-rising.json) |
+| They Dug Too Deep | 258974 | [258974-they-dug-too-deep.json](./258974-they-dug-too-deep.json) |
 | They Fear The Mist | 292536 | [292536-they-fear-the-mist.json](./292536-they-fear-the-mist.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
@@ -3857,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tractor Journey | 223154 | [223154-tractor-journey.json](./223154-tractor-journey.json) |
 | Trade And Fight | 306366 | [306366-trade-and-fight.json](./306366-trade-and-fight.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
+| Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
@@ -4197,6 +4202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
+| Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
 | Tribio puzzle: Strategic Spot | 253022 | [253022-tribio-puzzle-strategic-spot.json](./253022-tribio-puzzle-strategic-spot.json) |
