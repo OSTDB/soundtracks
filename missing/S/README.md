@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Turret | 248074 | [248074-savage-turret.json](./248074-savage-turret.json) |
 | Savage: The Shard of Gosen | 34332 | [34332-savage-the-shard-of-gosen.json](./34332-savage-the-shard-of-gosen.json) |
 | Savage: The Ultimate Quest for Survival | 69890 | [69890-savage-the-ultimate-quest-for-survival.json](./69890-savage-the-ultimate-quest-for-survival.json) |
+| Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Sleuths Vol. 1: Mysteries of the Blob and the Exploding Lawnmowers | 319017 | [319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json](./319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
+| Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
 | Scooby Doo: Horror of the High Seas - Episode 3: Reef Relief | 337126 | [337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json](./337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json) |
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
@@ -677,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agents | 179197 | [179197-secret-agents.json](./179197-secret-agents.json) |
 | Secret Archives | 294476 | [294476-secret-archives.json](./294476-secret-archives.json) |
 | Secret Backrooms | 204094 | [204094-secret-backrooms.json](./204094-secret-backrooms.json) |
+| Secret Blade | 245852 | [245852-secret-blade.json](./245852-secret-blade.json) |
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
@@ -823,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
 | Sensitive | 320188 | [320188-sensitive.json](./320188-sensitive.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
+| Sensual Adventures: Episode 7 | 245856 | [245856-sensual-adventures-episode-7.json](./245856-sensual-adventures-episode-7.json) |
 | Sensual Adventures: Episode 8 | 259002 | [259002-sensual-adventures-episode-8.json](./259002-sensual-adventures-episode-8.json) |
 | Sensual Adventures: Episode 9 | 277842 | [277842-sensual-adventures-episode-9.json](./277842-sensual-adventures-episode-9.json) |
 | Sente | 122414 | [122414-sente.json](./122414-sente.json) |
@@ -890,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setsuna ni Kakeru Koi Hanabi | 339821 | [339821-setsuna-ni-kakeru-koi-hanabi.json](./339821-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
+| Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
 | Setup Savior | 350448 | [350448-setup-savior.json](./350448-setup-savior.json) |
 | Seul (Alone): The entrée | 107863 | [107863-seul-alone-the-entree.json](./107863-seul-alone-the-entree.json) |
@@ -1699,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
 | Six | 60012 | [60012-six.json](./60012-six.json) |
 | Six & Six | 392759 | [392759-six-and-six.json](./392759-six-and-six.json) |
+| Six Ages 2: Lights Going Out | 245860 | [245860-six-ages-2-lights-going-out.json](./245860-six-ages-2-lights-going-out.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
 | Six Orders | 277615 | [277615-six-orders.json](./277615-six-orders.json) |
@@ -2942,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rocks! | 277829 | [277829-space-rocks.json](./277829-space-rocks.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
+| Space Shark Wrangle Fest | 245843 | [245843-space-shark-wrangle-fest.json](./245843-space-shark-wrangle-fest.json) |
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
 | Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
 | Space Shooter: Fun Arcade Game | 87535 | [87535-space-shooter-fun-arcade-game.json](./87535-space-shooter-fun-arcade-game.json) |
@@ -3669,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
 | Stargate Bullet | 379896 | [379896-stargate-bullet.json](./379896-stargate-bullet.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
+| StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
 | Staring Time | 272832 | [272832-staring-time.json](./272832-staring-time.json) |
 | Starion | 23056 | [23056-starion.json](./23056-starion.json) |
@@ -3823,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steinkraft | 320162 | [320162-steinkraft.json](./320162-steinkraft.json) |
 | Steins;Gate Double Pack | 141877 | [141877-steins-gate-double-pack.json](./141877-steins-gate-double-pack.json) |
 | Steins;Gate: Limited Edition | 42680 | [42680-steins-gate-limited-edition.json](./42680-steins-gate-limited-edition.json) |
+| Stelarace | 245851 | [245851-stelarace.json](./245851-stelarace.json) |
 | Stele | 339664 | [339664-stele.json](./339664-stele.json) |
 | Stella Gladio | 326075 | [326075-stella-gladio.json](./326075-stella-gladio.json) |
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
@@ -4035,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
+| Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
