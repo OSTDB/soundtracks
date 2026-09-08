@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
+| Fairy Sphere | 233501 | [233501-fairy-sphere.json](./233501-fairy-sphere.json) |
 | Fairy Tail 2: Outfit Set - Swimsuit | 332229 | [332229-fairy-tail-2-outfit-set-swimsuit.json](./332229-fairy-tail-2-outfit-set-swimsuit.json) |
 | Fairy Tail Online | 59427 | [59427-fairy-tail-online.json](./59427-fairy-tail-online.json) |
 | Fairy Tail: Beach Volleyball Havoc | 313127 | [313127-fairy-tail-beach-volleyball-havoc.json](./313127-fairy-tail-beach-volleyball-havoc.json) |
@@ -530,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Me Oil 2: Liquid Puzzle Adventure | 108499 | [108499-feed-me-oil-2-liquid-puzzle-adventure.json](./108499-feed-me-oil-2-liquid-puzzle-adventure.json) |
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
 | Feed The Beast | 292539 | [292539-feed-the-beast.json](./292539-feed-the-beast.json) |
+| Feed the Cat | 233516 | [233516-feed-the-cat.json](./233516-feed-the-cat.json) |
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
 | Feed the Pets | 109717 | [109717-feed-the-pets.json](./109717-feed-the-pets.json) |
@@ -1040,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights on the Toilet | 267389 | [267389-five-nights-on-the-toilet.json](./267389-five-nights-on-the-toilet.json) |
 | Five Nights on the Toilet: Number 2 | 267388 | [267388-five-nights-on-the-toilet-number-2.json](./267388-five-nights-on-the-toilet-number-2.json) |
 | Five Starless Rivers | 285438 | [285438-five-starless-rivers.json](./285438-five-starless-rivers.json) |
+| Five Stars | 233492 | [233492-five-stars.json](./233492-five-stars.json) |
 | Five-A-Side Soccer | 84235 | [84235-five-a-side-soccer.json](./84235-five-a-side-soccer.json) |
 | Five-O Deluxe | 104103 | [104103-five-o-deluxe.json](./104103-five-o-deluxe.json) |
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
