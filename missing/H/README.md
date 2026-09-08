@@ -95,6 +95,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Chernobyl | 127954 | [127954-half-life-chernobyl.json](./127954-half-life-chernobyl.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
+| Half-Life: Intolerable Threat | 222325 | [222325-half-life-intolerable-threat.json](./222325-half-life-intolerable-threat.json) |
+| Half-Life: Military Duty | 222314 | [222314-half-life-military-duty.json](./222314-half-life-military-duty.json) |
 | Half-Life: Mission of Mercy | 248300 | [248300-half-life-mission-of-mercy.json](./248300-half-life-mission-of-mercy.json) |
 | Half-Life: Pulse | 248292 | [248292-half-life-pulse.json](./248292-half-life-pulse.json) |
 | Half-Life: Reissues | 196840 | [196840-half-life-reissues.json](./196840-half-life-reissues.json) |
@@ -102,6 +104,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Shift-Two | 247554 | [247554-half-life-shift-two.json](./247554-half-life-shift-two.json) |
 | Half-Life: Sum | 218736 | [218736-half-life-sum.json](./218736-half-life-sum.json) |
 | Half-Life: The Challenger Deep 2 | 196853 | [196853-half-life-the-challenger-deep-2.json](./196853-half-life-the-challenger-deep-2.json) |
+| Half-Life: The Core | 222322 | [222322-half-life-the-core.json](./222322-half-life-the-core.json) |
+| Half-Life: The Evasion | 222287 | [222287-half-life-the-evasion.json](./222287-half-life-the-evasion.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
 | Hallow Maze | 336525 | [336525-hallow-maze.json](./336525-hallow-maze.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
@@ -703,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Tanoshii Omiseyasan | 279604 | [279604-hello-kitty-no-tanoshii-omiseyasan.json](./279604-hello-kitty-no-tanoshii-omiseyasan.json) |
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
+| Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
@@ -804,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle Logic Game | 110379 | [110379-hentai-puzzle-logic-game.json](./110379-hentai-puzzle-logic-game.json) |
 | Hentai Puzzle Simulator 3 | 409530 | [409530-hentai-puzzle-simulator-3.json](./409530-hentai-puzzle-simulator-3.json) |
 | Hentai Puzzle XXX | 378807 | [378807-hentai-puzzle-xxx.json](./378807-hentai-puzzle-xxx.json) |
+| Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
 | Hentai Solitaire: Extended Edition | 315868 | [315868-hentai-solitaire-extended-edition.json](./315868-hentai-solitaire-extended-edition.json) |
@@ -1460,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
+| Hoppe-chan Minna de Odekake! Waku-waku Hoppe Land!! | 222296 | [222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json](./222296-hoppe-chan-minna-de-odekake-waku-waku-hoppe-land.json) |
 | Hopper | 13726 | [13726-hopper.json](./13726-hopper.json) |
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
@@ -1832,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Gauntlet: Legacy of Nozzlethruster III | 134697 | [134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json](./134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
+| Hyper Paddle Block Rusher | 222323 | [222323-hyper-paddle-block-rusher.json](./222323-hyper-paddle-block-rusher.json) |
 | Hyper Panda | 332832 | [332832-hyper-panda.json](./332832-hyper-panda.json) |
 | Hyper Pixel Man | 413684 | [413684-hyper-pixel-man.json](./413684-hyper-pixel-man.json) |
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
