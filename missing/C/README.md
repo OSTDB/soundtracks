@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camelbirds | 318978 | [318978-camelbirds.json](./318978-camelbirds.json) |
 | Camelot | 141242 | [141242-camelot.json](./141242-camelot.json) |
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
+| Camera Birds | 245319 | [245319-camera-birds.json](./245319-camera-birds.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
@@ -2796,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Town | 31597 | [31597-custom-town.json](./31597-custom-town.json) |
 | Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
+| Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
 | Cut the Rope | 9761 | [9761-cut-the-rope.json](./9761-cut-the-rope.json) |
 | Cut the Rope Remastered | 145634 | [145634-cut-the-rope-remastered.json](./145634-cut-the-rope-remastered.json) |
