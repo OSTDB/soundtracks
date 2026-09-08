@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Islands 2 | 270942 | [270942-railway-islands-2.json](./270942-railway-islands-2.json) |
 | Railworks 3: Train Simulator 2012 - Bristol to Avonmouth | 136479 | [136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json](./136479-railworks-3-train-simulator-2012-bristol-to-avonmouth.json) |
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
+| Rain | 216251 | [216251-rain.json](./216251-rain.json) |
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
+| Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
 | Rending Sky | 114374 | [114374-rending-sky.json](./114374-rending-sky.json) |
 | Renegade X: Black Dawn | 51290 | [51290-renegade-x-black-dawn.json](./51290-renegade-x-black-dawn.json) |
@@ -1487,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
+| Rogue of the Multiverse | 216241 | [216241-rogue-of-the-multiverse.json](./216241-rogue-of-the-multiverse.json) |
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
