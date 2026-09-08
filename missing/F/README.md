@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
 | For Honor: Gold Heroes Pack | 305766 | [305766-for-honor-gold-heroes-pack.json](./305766-for-honor-gold-heroes-pack.json) |
 | For Honor: Master Katashi - Orochi Hero Skin | 305768 | [305768-for-honor-master-katashi-orochi-hero-skin.json](./305768-for-honor-master-katashi-orochi-hero-skin.json) |
+| For Honor: Pirate Hero Skin | 241964 | [241964-for-honor-pirate-hero-skin.json](./241964-for-honor-pirate-hero-skin.json) |
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Honor: Ultimate Heroes Pack | 305767 | [305767-for-honor-ultimate-heroes-pack.json](./305767-for-honor-ultimate-heroes-pack.json) |
