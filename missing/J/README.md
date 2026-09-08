@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
 | Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
 | Jackroid | 367967 | [367967-jackroid.json](./367967-jackroid.json) |
+| Jacksepticeye's 1 Million Subscriber YouTube Party Massacre | 252770 | [252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json](./252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json) |
 | Jacksmith: Weapons and Warriors | 337075 | [337075-jacksmith-weapons-and-warriors.json](./337075-jacksmith-weapons-and-warriors.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
 | Jacqueline White: Bad Trouble in the Red Desert | 169991 | [169991-jacqueline-white-bad-trouble-in-the-red-desert.json](./169991-jacqueline-white-bad-trouble-in-the-red-desert.json) |
