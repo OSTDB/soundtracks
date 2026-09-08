@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: A Wonderful Life Special Edition | 20482 | [20482-harvest-moon-a-wonderful-life-special-edition.json](./20482-harvest-moon-a-wonderful-life-special-edition.json) |
 | Harvest Moon: Back to Nature | 3380 | [3380-harvest-moon-back-to-nature.json](./3380-harvest-moon-back-to-nature.json) |
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
+| Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
@@ -767,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Direct-Her | 263192 | [263192-hentai-direct-her.json](./263192-hentai-direct-her.json) |
 | Hentai Elf | 296686 | [296686-hentai-elf.json](./296686-hentai-elf.json) |
 | Hentai Evangeline | 372486 | [372486-hentai-evangeline.json](./372486-hentai-evangeline.json) |
+| Hentai Fantasy | 219041 | [219041-hentai-fantasy.json](./219041-hentai-fantasy.json) |
 | Hentai Fantasy Chicks | 253935 | [253935-hentai-fantasy-chicks.json](./253935-hentai-fantasy-chicks.json) |
 | Hentai Fox | 310938 | [310938-hentai-fox.json](./310938-hentai-fox.json) |
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
@@ -804,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Paradise Vol. 2 | 313153 | [313153-hentai-paradise-vol-2.json](./313153-hentai-paradise-vol-2.json) |
 | Hentai Party: Secret Garden | 371251 | [371251-hentai-party-secret-garden.json](./371251-hentai-party-secret-garden.json) |
 | Hentai Party: Summer Paradise | 371249 | [371249-hentai-party-summer-paradise.json](./371249-hentai-party-summer-paradise.json) |
+| Hentai Pazu | 219039 | [219039-hentai-pazu.json](./219039-hentai-pazu.json) |
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
 | Hentai Pool | 241386 | [241386-hentai-pool.json](./241386-hentai-pool.json) |
 | Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
@@ -1762,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Horace | 12954 | [12954-hungry-horace.json](./12954-hungry-horace.json) |
 | Hungry Humphrey: Eat The World | 275612 | [275612-hungry-humphrey-eat-the-world.json](./275612-hungry-humphrey-eat-the-world.json) |
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
+| Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
 | Hungry Shark Arena | 300683 | [300683-hungry-shark-arena.json](./300683-hungry-shark-arena.json) |
 | Hungry Shark Arena: Horror Night | 221713 | [221713-hungry-shark-arena-horror-night.json](./221713-hungry-shark-arena-horror-night.json) |
 | Hungry Shark Heroes | 300682 | [300682-hungry-shark-heroes.json](./300682-hungry-shark-heroes.json) |
