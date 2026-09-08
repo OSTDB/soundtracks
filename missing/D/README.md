@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space 2: Severed | 20440 | [20440-dead-space-2-severed.json](./20440-dead-space-2-severed.json) |
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
+| Dead Space: Deluxe Edition | 222945 | [222945-dead-space-deluxe-edition.json](./222945-dead-space-deluxe-edition.json) |
 | Dead Spawn | 121710 | [121710-dead-spawn.json](./121710-dead-spawn.json) |
 | Dead Spell | 400250 | [400250-dead-spell.json](./400250-dead-spell.json) |
 | Dead Spin | 404215 | [404215-dead-spin.json](./404215-dead-spin.json) |
@@ -1602,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
+| Dodge 'Em | 222892 | [222892-dodge-em.json](./222892-dodge-em.json) |
 | Dodge Barrage | 296369 | [296369-dodge-barrage.json](./296369-dodge-barrage.json) |
 | Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
 | Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
@@ -1664,6 +1666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Literature Club | 309582 | [309582-doki-doki-literature-club.json](./309582-doki-doki-literature-club.json) |
 | Doki Doki Literature Club Plus! | 152122 | [152122-doki-doki-literature-club-plus.json](./152122-doki-doki-literature-club-plus.json) |
 | Doki Doki Literature Club Plus!: Premium Edition | 166194 | [166194-doki-doki-literature-club-plus-premium-edition.json](./166194-doki-doki-literature-club-plus-premium-edition.json) |
+| Doki Doki Literature Club: Return to the Portrait | 222917 | [222917-doki-doki-literature-club-return-to-the-portrait.json](./222917-doki-doki-literature-club-return-to-the-portrait.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
 | Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
@@ -1910,6 +1913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
 | Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
+| Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
