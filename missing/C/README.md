@@ -1636,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
+| Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse | 310937 | [310937-collapse.json](./310937-collapse.json) |
 | Collapse Machine | 310765 | [310765-collapse-machine.json](./310765-collapse-machine.json) |
@@ -2007,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Tycoons: 3 in 1 Bundle - Premium Edition | 396916 | [396916-cooking-tycoons-3-in-1-bundle-premium-edition.json](./396916-cooking-tycoons-3-in-1-bundle-premium-edition.json) |
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
+| Cool Brick Breaker | 235239 | [235239-cool-brick-breaker.json](./235239-cool-brick-breaker.json) |
 | Cool Cats | 174909 | [174909-cool-cats.json](./174909-cool-cats.json) |
 | Cool Cool Jam | 43967 | [43967-cool-cool-jam.json](./43967-cool-cool-jam.json) |
 | Cool Cucumber Cricket | 291450 | [291450-cool-cucumber-cricket.json](./291450-cool-cucumber-cricket.json) |
@@ -2372,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Frog Racer | 248686 | [248686-crazy-frog-racer.json](./248686-crazy-frog-racer.json) |
 | Crazy Fun Ball | 172151 | [172151-crazy-fun-ball.json](./172151-crazy-fun-ball.json) |
+| Crazy Hill Racing | 235200 | [235200-crazy-hill-racing.json](./235200-crazy-hill-racing.json) |
 | Crazy Insane Monster Invaders | 152387 | [152387-crazy-insane-monster-invaders.json](./152387-crazy-insane-monster-invaders.json) |
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
@@ -2403,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create & Conquer | 305771 | [305771-create-and-conquer.json](./305771-create-and-conquer.json) |
 | Create Real Games | 89283 | [89283-create-real-games.json](./89283-create-real-games.json) |
 | CreateTech | 127359 | [127359-createtech.json](./127359-createtech.json) |
+| Creative Kill Chamber | 235240 | [235240-creative-kill-chamber.json](./235240-creative-kill-chamber.json) |
 | Creative Kill Chamber 2 | 316092 | [316092-creative-kill-chamber-2.json](./316092-creative-kill-chamber-2.json) |
 | Creative Reader: The Jungle Book | 327870 | [327870-creative-reader-the-jungle-book.json](./327870-creative-reader-the-jungle-book.json) |
 | Creativerse | 17112 | [17112-creativerse.json](./17112-creativerse.json) |
@@ -2526,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crop and Claw 2 | 408813 | [408813-crop-and-claw-2.json](./408813-crop-and-claw-2.json) |
 | Crop Crusaders | 332987 | [332987-crop-crusaders.json](./332987-crop-crusaders.json) |
 | Crop Haven | 287626 | [287626-crop-haven.json](./287626-crop-haven.json) |
+| Cropbuster | 235216 | [235216-cropbuster.json](./235216-cropbuster.json) |
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
 | Croquet Pro 2 | 111728 | [111728-croquet-pro-2.json](./111728-croquet-pro-2.json) |
@@ -2662,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Raider | 55188 | [55188-crystal-raider.json](./55188-crystal-raider.json) |
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
+| Crystal Storm | 235194 | [235194-crystal-storm.json](./235194-crystal-storm.json) |
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Venture | 189194 | [189194-crystal-venture.json](./189194-crystal-venture.json) |
 | Crystal Warriors | 11648 | [11648-crystal-warriors.json](./11648-crystal-warriors.json) |
@@ -2831,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Travels: Sunken City | 202421 | [202421-cursed-travels-sunken-city.json](./202421-cursed-travels-sunken-city.json) |
 | Cursed Travels: The Shattered Labyrinth | 179718 | [179718-cursed-travels-the-shattered-labyrinth.json](./179718-cursed-travels-the-shattered-labyrinth.json) |
 | Cursed Treasure: Don't Touch My Gems! | 141844 | [141844-cursed-treasure-dont-touch-my-gems.json](./141844-cursed-treasure-dont-touch-my-gems.json) |
+| CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
 | Cursor Challenge | 33120 | [33120-cursor-challenge.json](./33120-cursor-challenge.json) |
 | Cursor Story | 237355 | [237355-cursor-story.json](./237355-cursor-story.json) |
@@ -2943,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunkdreams | 140018 | [140018-cyberpunkdreams.json](./140018-cyberpunkdreams.json) |
 | Cyberpunx | 261820 | [261820-cyberpunx.json](./261820-cyberpunx.json) |
 | CyberQuest | 391581 | [391581-cyberquest.json](./391581-cyberquest.json) |
+| Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
 | CyberSeas | 324716 | [324716-cyberseas.json](./324716-cyberseas.json) |
 | Cybersecurity Ethics Scavenger Hunt | 257397 | [257397-cybersecurity-ethics-scavenger-hunt.json](./257397-cybersecurity-ethics-scavenger-hunt.json) |
 | Cybersphere | 228696 | [228696-cybersphere.json](./228696-cybersphere.json) |
