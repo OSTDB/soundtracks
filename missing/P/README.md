@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint By Numbers: 8-Bit World Ep. 7 | 305512 | [305512-paint-by-numbers-8-bit-world-ep-7.json](./305512-paint-by-numbers-8-bit-world-ep-7.json) |
 | Paint By Numbers: 8-Bit World Ep. 8 | 305504 | [305504-paint-by-numbers-8-bit-world-ep-8.json](./305504-paint-by-numbers-8-bit-world-ep-8.json) |
 | Paint By Numbers: 8-Bit World Ep. 9 | 305509 | [305509-paint-by-numbers-8-bit-world-ep-9.json](./305509-paint-by-numbers-8-bit-world-ep-9.json) |
+| Paint by Pixel 2 | 249203 | [249203-paint-by-pixel-2.json](./249203-paint-by-pixel-2.json) |
 | Paint by Words | 374600 | [374600-paint-by-words.json](./374600-paint-by-words.json) |
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
 | Paint Desk Simulator | 265135 | [265135-paint-desk-simulator.json](./265135-paint-desk-simulator.json) |
@@ -161,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic: The Board Game | 69425 | [69425-pandemic-the-board-game.json](./69425-pandemic-the-board-game.json) |
 | Pandemommyum! Hot Single Moms in My Area | 257951 | [257951-pandemommyum-hot-single-moms-in-my-area.json](./257951-pandemommyum-hot-single-moms-in-my-area.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
+| Pandora | 249207 | [249207-pandora.json](./249207-pandora.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
@@ -1303,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
 | Platform Roll | 207535 | [207535-platform-roll.json](./207535-platform-roll.json) |
 | Platform Run | 324296 | [324296-platform-run.json](./324296-platform-run.json) |
+| Platform Tower | 249230 | [249230-platform-tower.json](./249230-platform-tower.json) |
 | Platformer Execute | 163980 | [163980-platformer-execute.json](./163980-platformer-execute.json) |
 | Platformer Geometry Dash | 290416 | [290416-platformer-geometry-dash.json](./290416-platformer-geometry-dash.json) |
 | Platformer of Death | 185121 | [185121-platformer-of-death.json](./185121-platformer-of-death.json) |
