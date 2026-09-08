@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
+| City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
@@ -1408,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire | 10082 | [10082-claire.json](./10082-claire.json) |
 | Claire Darksage and the Accursed Objects: Collector's Editon | 362828 | [362828-claire-darksage-and-the-accursed-objects-collectors-editon.json](./362828-claire-darksage-and-the-accursed-objects-collectors-editon.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
+| Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clannad | 9607 | [9607-clannad.json](./9607-clannad.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
@@ -2713,6 +2715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
+| Cruxade | 212246 | [212246-cruxade.json](./212246-cruxade.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
