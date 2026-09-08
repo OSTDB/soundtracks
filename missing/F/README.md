@@ -139,7 +139,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Ball Fall | 141852 | [141852-fall-ball-fall.json](./141852-fall-ball-fall.json) |
 | Fall Down | 40791 | [40791-fall-down.json](./40791-fall-down.json) |
 | Fall Down | 95432 | [95432-fall-down.json](./95432-fall-down.json) |
+| Fall Guys: Crow Pack | 243681 | [243681-fall-guys-crow-pack.json](./243681-fall-guys-crow-pack.json) |
+| Fall Guys: Free Range Fall Guys Pack | 243667 | [243667-fall-guys-free-range-fall-guys-pack.json](./243667-fall-guys-free-range-fall-guys-pack.json) |
+| Fall Guys: Neigh Neigh Pack | 243685 | [243685-fall-guys-neigh-neigh-pack.json](./243685-fall-guys-neigh-neigh-pack.json) |
+| Fall Guys: Otter Delights Pack | 243682 | [243682-fall-guys-otter-delights-pack.json](./243682-fall-guys-otter-delights-pack.json) |
 | Fall Guys: Season 4 - Creative Construction | 243406 | [243406-fall-guys-season-4-creative-construction.json](./243406-fall-guys-season-4-creative-construction.json) |
+| Fall Guys: Stunning Sealife Pack | 243664 | [243664-fall-guys-stunning-sealife-pack.json](./243664-fall-guys-stunning-sealife-pack.json) |
+| Fall Guys: Wildfire Pack | 243683 | [243683-fall-guys-wildfire-pack.json](./243683-fall-guys-wildfire-pack.json) |
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
