@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
+| Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
 | Tearscape | 318752 | [318752-tearscape.json](./318752-tearscape.json) |
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
@@ -656,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
 | Terebron | 165681 | [165681-terebron.json](./165681-terebron.json) |
 | Terezi Pyrope: Ace Attorney | 304032 | [304032-terezi-pyrope-ace-attorney.json](./304032-terezi-pyrope-ace-attorney.json) |
+| Terfenstein 3D | 224571 | [224571-terfenstein-3d.json](./224571-terfenstein-3d.json) |
 | Terix Survivors | 236268 | [236268-terix-survivors.json](./236268-terix-survivors.json) |
 | Termina Invasion | 294711 | [294711-termina-invasion.json](./294711-termina-invasion.json) |
 | Terminal | 177556 | [177556-terminal.json](./177556-terminal.json) |
@@ -1057,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
 | The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
+| The Bunnyman | 224579 | [224579-the-bunnyman.json](./224579-the-bunnyman.json) |
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
 | The Bus: Hamburg City | 371245 | [371245-the-bus-hamburg-city.json](./371245-the-bus-hamburg-city.json) |
@@ -1557,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Geometric Golfer | 244994 | [244994-the-geometric-golfer.json](./244994-the-geometric-golfer.json) |
 | The Getaway: High Speed II | 48998 | [48998-the-getaway-high-speed-ii.json](./48998-the-getaway-high-speed-ii.json) |
 | The Ghost | 174885 | [174885-the-ghost.json](./174885-the-ghost.json) |
+| The Ghost and The Phoenix | 224585 | [224585-the-ghost-and-the-phoenix.json](./224585-the-ghost-and-the-phoenix.json) |
 | The Ghost Cage | 173273 | [173273-the-ghost-cage.json](./173273-the-ghost-cage.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
@@ -1571,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
+| The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
 | The Goonies | 41375 | [41375-the-goonies.json](./41375-the-goonies.json) |
@@ -1582,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
 | The Grave Digger | 35847 | [35847-the-grave-digger.json](./35847-the-grave-digger.json) |
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
+| The Gravehouse | 224569 | [224569-the-gravehouse.json](./224569-the-gravehouse.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
 | The Great Battle III | 66671 | [66671-the-great-battle-iii.json](./66671-the-great-battle-iii.json) |
@@ -4842,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Museum: Sonic Pre-order Pack | 375175 | [375175-two-point-museum-sonic-pre-order-pack.json](./375175-two-point-museum-sonic-pre-order-pack.json) |
 | Two Portals: A Gemstone Puzzle Game | 247501 | [247501-two-portals-a-gemstone-puzzle-game.json](./247501-two-portals-a-gemstone-puzzle-game.json) |
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
+| Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
 | Two Worlds II Castle Defense | 28986 | [28986-two-worlds-ii-castle-defense.json](./28986-two-worlds-ii-castle-defense.json) |
