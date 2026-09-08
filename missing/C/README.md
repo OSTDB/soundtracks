@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 8 | 262945 | [262945-cat-jigsaw-puzzle-games-expansion-pack-8.json](./262945-cat-jigsaw-puzzle-games-expansion-pack-8.json) |
 | Cat Life | 230525 | [230525-cat-life.json](./230525-cat-life.json) |
+| Cat Lobster Simulator | 253401 | [253401-cat-lobster-simulator.json](./253401-cat-lobster-simulator.json) |
 | Cat Meat | 32911 | [32911-cat-meat.json](./32911-cat-meat.json) |
 | Cat Plus | 330190 | [330190-cat-plus.json](./330190-cat-plus.json) |
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
@@ -1040,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolatio | 281996 | [281996-chocolatio.json](./281996-chocolatio.json) |
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
+| Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
 | Chokkan Crash Bandicoot | 210241 | [210241-chokkan-crash-bandicoot.json](./210241-chokkan-crash-bandicoot.json) |
 | Choko Loco 2 | 321179 | [321179-choko-loco-2.json](./321179-choko-loco-2.json) |
@@ -1141,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
+| Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
@@ -2652,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
 | Cuphead | 237497 | [237497-cuphead.json](./237497-cuphead.json) |
+| Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
 | Cupid Bistro!! 2 | 264338 | [264338-cupid-bistro-2.json](./264338-cupid-bistro-2.json) |
 | Cupid Bistro!! Max | 264333 | [264333-cupid-bistro-max.json](./264333-cupid-bistro-max.json) |
 | Cupid Date | 225264 | [225264-cupid-date.json](./225264-cupid-date.json) |
