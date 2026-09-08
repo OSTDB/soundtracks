@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T15:03:20.802Z",
-  "total_missing": 47236,
+  "generated_at": "2026-09-08T15:11:05.284Z",
+  "total_missing": 47235,
   "games": [
     {
       "igdb_id": 306086,
@@ -126,11 +126,6 @@
       "igdb_id": 32199,
       "game_name": "1 Moment of Time: Silentville",
       "file": "missing/0-9/32199-1-moment-of-time-silentville.json"
-    },
-    {
-      "igdb_id": 97902,
-      "game_name": "1 Screen Platformer",
-      "file": "missing/0-9/97902-1-screen-platformer.json"
     },
     {
       "igdb_id": 133473,
