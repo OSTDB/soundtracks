@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
+| Final Fantasy XIV: The Dark Throne | 246956 | [246956-final-fantasy-xiv-the-dark-throne.json](./246956-final-fantasy-xiv-the-dark-throne.json) |
 | Final Fantasy XV: Episode Ardyn | 76430 | [76430-final-fantasy-xv-episode-ardyn.json](./76430-final-fantasy-xv-episode-ardyn.json) |
 | Final Fantasy XV: Episode Prompto | 37193 | [37193-final-fantasy-xv-episode-prompto.json](./37193-final-fantasy-xv-episode-prompto.json) |
 | Final Fantasy XV: Special Edition | 205260 | [205260-final-fantasy-xv-special-edition.json](./205260-final-fantasy-xv-special-edition.json) |
@@ -831,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireball Classic | 91446 | [91446-fireball-classic.json](./91446-fireball-classic.json) |
 | Firebase Defence | 110519 | [110519-firebase-defence.json](./110519-firebase-defence.json) |
 | Firebird: Tale of the Stolen Light | 381017 | [381017-firebird-tale-of-the-stolen-light.json](./381017-firebird-tale-of-the-stolen-light.json) |
+| Fireboy & Watergirl 2: The Forest Temple | 246976 | [246976-fireboy-and-watergirl-2-the-forest-temple.json](./246976-fireboy-and-watergirl-2-the-forest-temple.json) |
 | Fireboy and Watergirl: Online | 88769 | [88769-fireboy-and-watergirl-online.json](./88769-fireboy-and-watergirl-online.json) |
 | Firebug | 13714 | [13714-firebug.json](./13714-firebug.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
@@ -1403,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest: The Call For Help | 370702 | [370702-forest-the-call-for-help.json](./370702-forest-the-call-for-help.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
+| Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Forever With You | 381033 | [381033-forever-with-you.json](./381033-forever-with-you.json) |
@@ -2016,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Vampire Girlfriend | 163978 | [163978-futanari-vampire-girlfriend.json](./163978-futanari-vampire-girlfriend.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
+| FuturCity Taxi | 246989 | [246989-futurcity-taxi.json](./246989-futurcity-taxi.json) |
 | Future Avoid | 307583 | [307583-future-avoid.json](./307583-future-avoid.json) |
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
 | Future Card Buddyfight: Tanjou! Oretachi no Saikyou Buddy! | 222545 | [222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json](./222545-future-card-buddyfight-tanjou-oretachi-no-saikyou-buddy.json) |
