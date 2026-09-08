@@ -84,7 +84,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Heads Among the Trees | 34360 | [34360-1000-heads-among-the-trees.json](./34360-1000-heads-among-the-trees.json) |
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
 | 1000 Score: 2D Platformer | 389990 | [389990-1000-score-2d-platformer.json](./389990-1000-score-2d-platformer.json) |
-| 1000 Seconds | 301027 | [301027-1000-seconds.json](./301027-1000-seconds.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
 | 1000000 shrimp | 383975 | [383975-1000000-shrimp.json](./383975-1000000-shrimp.json) |
 | 1000xResist | 218282 | [218282-1000xresist.json](./218282-1000xresist.json) |
