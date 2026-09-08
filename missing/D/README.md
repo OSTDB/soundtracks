@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep West | 369016 | [369016-deep-west.json](./369016-deep-west.json) |
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
+| Deeper | 223440 | [223440-deeper.json](./223440-deeper.json) |
 | Deeper | 343279 | [343279-deeper.json](./343279-deeper.json) |
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
@@ -771,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
+| Degen Royale | 223430 | [223430-degen-royale.json](./223430-degen-royale.json) |
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
