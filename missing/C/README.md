@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campground Simulator | 379355 | [379355-campground-simulator.json](./379355-campground-simulator.json) |
 | Camphor | 237352 | [237352-camphor.json](./237352-camphor.json) |
 | Campire of Oasis: The Story | 397659 | [397659-campire-of-oasis-the-story.json](./397659-campire-of-oasis-the-story.json) |
+| CampNight | 223502 | [223502-campnight.json](./223502-campnight.json) |
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
@@ -206,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
+| Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
 | Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
@@ -865,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Chapatriste | 307622 | [307622-chapatriste.json](./307622-chapatriste.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
+| Chaqs | 223504 | [223504-chaqs.json](./223504-chaqs.json) |
 | Chara Chenko | 130385 | [130385-chara-chenko.json](./130385-chara-chenko.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
@@ -929,6 +932,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
 | Chernobyl: Escape from Pripyat | 335952 | [335952-chernobyl-escape-from-pripyat.json](./335952-chernobyl-escape-from-pripyat.json) |
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
+| Chernobylite: Season 1 - Blue Flames | 222932 | [222932-chernobylite-season-1-blue-flames.json](./222932-chernobylite-season-1-blue-flames.json) |
+| Chernobylite: Season 2 - Red Trees | 222933 | [222933-chernobylite-season-2-red-trees.json](./222933-chernobylite-season-2-red-trees.json) |
+| Chernobylite: Season 3 - Green Walls | 222939 | [222939-chernobylite-season-3-green-walls.json](./222939-chernobylite-season-3-green-walls.json) |
+| Chernobylite: Season 4 - Black Smoke | 222942 | [222942-chernobylite-season-4-black-smoke.json](./222942-chernobylite-season-4-black-smoke.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
 | Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
 | Cherry Tree High Girls' Fight | 33094 | [33094-cherry-tree-high-girls-fight.json](./33094-cherry-tree-high-girls-fight.json) |
@@ -1042,15 +1049,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
+| Chilljong | 223505 | [223505-chilljong.json](./223505-chilljong.json) |
 | ChilloutVR | 121700 | [121700-chilloutvr.json](./121700-chilloutvr.json) |
 | Chime Candy | 281994 | [281994-chime-candy.json](./281994-chime-candy.json) |
 | Chimera of Tactics 1 | 93593 | [93593-chimera-of-tactics-1.json](./93593-chimera-of-tactics-1.json) |
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
+| Chimeral Fantasy | 223506 | [223506-chimeral-fantasy.json](./223506-chimeral-fantasy.json) |
 | Chimeras: Heavenfall Secrets Collector's Edition | 263508 | [263508-chimeras-heavenfall-secrets-collectors-edition.json](./263508-chimeras-heavenfall-secrets-collectors-edition.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chimparty | 103404 | [103404-chimparty.json](./103404-chimparty.json) |
 | Chinatown | 272012 | [272012-chinatown.json](./272012-chinatown.json) |
+| Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
 | Chinese New Year 2013 | 233779 | [233779-chinese-new-year-2013.json](./233779-chinese-new-year-2013.json) |
@@ -1778,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Zodiac Pack | 351625 | [351625-coloring-pixels-zodiac-pack.json](./351625-coloring-pixels-zodiac-pack.json) |
 | Coloris | 335115 | [335115-coloris.json](./335115-coloris.json) |
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
+| ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | Colors! Maze | 193486 | [193486-colors-maze.json](./193486-colors-maze.json) |
 | Colors’ Heartbeat | 235480 | [235480-colors-heartbeat.json](./235480-colors-heartbeat.json) |
@@ -2349,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash N Dash | 246986 | [246986-crash-n-dash.json](./246986-crash-n-dash.json) |
 | Crash Nitro Kart | 210237 | [210237-crash-nitro-kart.json](./210237-crash-nitro-kart.json) |
 | Crash Nitro Kart | 210238 | [210238-crash-nitro-kart.json](./210238-crash-nitro-kart.json) |
+| Crash Nitro Kart | 222884 | [222884-crash-nitro-kart.json](./222884-crash-nitro-kart.json) |
 | Crash Nitro Mini Golf | 336385 | [336385-crash-nitro-mini-golf.json](./336385-crash-nitro-mini-golf.json) |
 | Crash of the Titans | 197928 | [197928-crash-of-the-titans.json](./197928-crash-of-the-titans.json) |
 | Crash of the Titans | 197929 | [197929-crash-of-the-titans.json](./197929-crash-of-the-titans.json) |
@@ -2799,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Abyss | 122391 | [122391-cult-of-the-abyss.json](./122391-cult-of-the-abyss.json) |
 | Cult of the Cat | 269274 | [269274-cult-of-the-cat.json](./269274-cult-of-the-cat.json) |
 | Cult of the Lamb | 165351 | [165351-cult-of-the-lamb.json](./165351-cult-of-the-lamb.json) |
+| Cult of the Lamb: Deluxe Edition | 222943 | [222943-cult-of-the-lamb-deluxe-edition.json](./222943-cult-of-the-lamb-deluxe-edition.json) |
 | Cult of the Lamb: Heretic Edition | 250654 | [250654-cult-of-the-lamb-heretic-edition.json](./250654-cult-of-the-lamb-heretic-edition.json) |
 | Cult of the Lamb: Relics of the Old Faith | 246406 | [246406-cult-of-the-lamb-relics-of-the-old-faith.json](./246406-cult-of-the-lamb-relics-of-the-old-faith.json) |
 | Cult of the Lamb: The One Who Waits | 408806 | [408806-cult-of-the-lamb-the-one-who-waits.json](./408806-cult-of-the-lamb-the-one-who-waits.json) |
