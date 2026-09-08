@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
+| Romance of the Three Kingdoms XII: Competition Edition | 219028 | [219028-romance-of-the-three-kingdoms-xii-competition-edition.json](./219028-romance-of-the-three-kingdoms-xii-competition-edition.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 1st Wave: Liu Bei Enters Shu | 164485 | [164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json](./164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 2nd Wave: Clash of the Warmongers | 164487 | [164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json](./164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 3rd Wave: The Battle for Hebei | 164488 | [164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json](./164488-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-3rd-wave-the-battle-for-hebei.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run to Infinity | 227841 | [227841-run-to-infinity.json](./227841-run-to-infinity.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
+| Run! | 219064 | [219064-run.json](./219064-run.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Run!!! | 87729 | [87729-run.json](./87729-run.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
