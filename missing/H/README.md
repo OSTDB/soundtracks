@@ -1376,6 +1376,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
 | HoooPizza | 317852 | [317852-hooopizza.json](./317852-hooopizza.json) |
 | Hoop Fever | 90691 | [90691-hoop-fever.json](./90691-hoop-fever.json) |
+| Hoops: Shut Up and Jam | 245294 | [245294-hoops-shut-up-and-jam.json](./245294-hoops-shut-up-and-jam.json) |
+| Hoops: Shut Up and Jam 2 | 245293 | [245293-hoops-shut-up-and-jam-2.json](./245293-hoops-shut-up-and-jam-2.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop Spring Girl | 296658 | [296658-hop-spring-girl.json](./296658-hop-spring-girl.json) |
