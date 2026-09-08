@@ -49,6 +49,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gain Ground SX | 42013 | [42013-gain-ground-sx.json](./42013-gain-ground-sx.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
 | Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
+| Gakkoi 2: Unmei Ai ha Inochigake | 212262 | [212262-gakkoi-2-unmei-ai-ha-inochigake.json](./212262-gakkoi-2-unmei-ai-ha-inochigake.json) |
+| Gakkoi: Ai to Noroi to Valentine | 212263 | [212263-gakkoi-ai-to-noroi-to-valentine.json](./212263-gakkoi-ai-to-noroi-to-valentine.json) |
+| Gakkou de Atta Koii Hanashi | 212261 | [212261-gakkou-de-atta-koii-hanashi.json](./212261-gakkou-de-atta-koii-hanashi.json) |
 | Gakkyu Ou Yamazaki | 281423 | [281423-gakkyu-ou-yamazaki.json](./281423-gakkyu-ou-yamazaki.json) |
 | Gakkyuu-ou Yamazaki: Yamazaki Oukoku Daifunsou! | 130351 | [130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json](./130351-gakkyuu-ou-yamazaki-yamazaki-oukoku-daifunsou.json) |
 | Gakuen Battle Fishers: Yoky Shiimono wa Tsure | 281424 | [281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json](./281424-gakuen-battle-fishers-yoky-shiimono-wa-tsure.json) |
