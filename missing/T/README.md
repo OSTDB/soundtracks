@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
+| Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
 | Tennis Smash: Racketville | 382230 | [382230-tennis-smash-racketville.json](./382230-tennis-smash-racketville.json) |
 | Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
 | Tennis World Tour 2: Champions Pack | 167297 | [167297-tennis-world-tour-2-champions-pack.json](./167297-tennis-world-tour-2-champions-pack.json) |
@@ -1060,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cell | 326947 | [326947-the-cell.json](./326947-the-cell.json) |
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
+| The Chalk | 244775 | [244775-the-chalk.json](./244775-the-chalk.json) |
 | The Champ | 78689 | [78689-the-champ.json](./78689-the-champ.json) |
 | The Champions of Lootheim | 382759 | [382759-the-champions-of-lootheim.json](./382759-the-champions-of-lootheim.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
@@ -1490,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
 | The Genesis Project | 109057 | [109057-the-genesis-project.json](./109057-the-genesis-project.json) |
 | The Genji and the Heike Clans | 42036 | [42036-the-genji-and-the-heike-clans.json](./42036-the-genji-and-the-heike-clans.json) |
+| The Gentle Art of Slaughter | 244778 | [244778-the-gentle-art-of-slaughter.json](./244778-the-gentle-art-of-slaughter.json) |
 | The Gentleman | 341319 | [341319-the-gentleman.json](./341319-the-gentleman.json) |
 | The Geography | 198523 | [198523-the-geography.json](./198523-the-geography.json) |
 | The Geometric Golfer | 244994 | [244994-the-geometric-golfer.json](./244994-the-geometric-golfer.json) |
@@ -1536,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
 | The Great Menace | 154029 | [154029-the-great-menace.json](./154029-the-great-menace.json) |
+| The Great Smog | 244752 | [244752-the-great-smog.json](./244752-the-great-smog.json) |
 | The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
 | The Great Stroke-Off! | 73311 | [73311-the-great-stroke-off.json](./73311-the-great-stroke-off.json) |
 | The Great Tournament | 86758 | [86758-the-great-tournament.json](./86758-the-great-tournament.json) |
@@ -2338,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Maike Island | 318396 | [318396-the-secret-of-maike-island.json](./318396-the-secret-of-maike-island.json) |
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
+| The Secret of Varonis | 244780 | [244780-the-secret-of-varonis.json](./244780-the-secret-of-varonis.json) |
 | The Secret Story 1996 | 396191 | [396191-the-secret-story-1996.json](./396191-the-secret-story-1996.json) |
 | The Secret Workshop of Wishes | 385073 | [385073-the-secret-workshop-of-wishes.json](./385073-the-secret-workshop-of-wishes.json) |
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
