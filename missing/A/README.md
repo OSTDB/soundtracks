@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Raid Over Britain | 89949 | [89949-air-raid-over-britain.json](./89949-air-raid-over-britain.json) |
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
 | Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
+| Air Soccer Impossible | 234072 | [234072-air-soccer-impossible.json](./234072-air-soccer-impossible.json) |
 | Air Traffic Control | 15590 | [15590-air-traffic-control.json](./15590-air-traffic-control.json) |
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
@@ -1255,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
 | Alphadia Genesis | 17849 | [17849-alphadia-genesis.json](./17849-alphadia-genesis.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
+| AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
 | Alpine Train 3D | 90709 | [90709-alpine-train-3d.json](./90709-alpine-train-3d.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
@@ -1548,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Cat | 379906 | [379906-angry-cat.json](./379906-angry-cat.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
+| Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
 | Ani Idle | 351027 | [351027-ani-idle.json](./351027-ani-idle.json) |
 | Anicca | 208058 | [208058-anicca.json](./208058-anicca.json) |
@@ -2601,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
 | Atomic Heart: Enchantment Under the Sea | 325107 | [325107-atomic-heart-enchantment-under-the-sea.json](./325107-atomic-heart-enchantment-under-the-sea.json) |
 | Atomic Owl | 283949 | [283949-atomic-owl.json](./283949-atomic-owl.json) |
+| Atomic Pursuit | 234069 | [234069-atomic-pursuit.json](./234069-atomic-pursuit.json) |
 | Atomic Robo-Kid | 11921 | [11921-atomic-robo-kid.json](./11921-atomic-robo-kid.json) |
 | Atomic Rock Paper Scissors | 180830 | [180830-atomic-rock-paper-scissors.json](./180830-atomic-rock-paper-scissors.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
