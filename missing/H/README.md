@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Night: The Slenderman Takings | 236824 | [236824-horror-night-the-slenderman-takings.json](./236824-horror-night-the-slenderman-takings.json) |
 | Horror Pinball Bundle | 126620 | [126620-horror-pinball-bundle.json](./126620-horror-pinball-bundle.json) |
 | Horror Room:Mystery mind story | 143092 | [143092-horror-room-mystery-mind-story.json](./143092-horror-room-mystery-mind-story.json) |
+| Horror Scary Granny Pink Barby | 231936 | [231936-horror-scary-granny-pink-barby.json](./231936-horror-scary-granny-pink-barby.json) |
 | Horror Tale 1: Kidnapper | 239049 | [239049-horror-tale-1-kidnapper.json](./239049-horror-tale-1-kidnapper.json) |
 | Horror Tale 2: Remaster | 390498 | [390498-horror-tale-2-remaster.json](./390498-horror-tale-2-remaster.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
