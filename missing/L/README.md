@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
 | Links: Championship Course - Mauna Kea | 71555 | [71555-links-championship-course-mauna-kea.json](./71555-links-championship-course-mauna-kea.json) |
 | Links: Championship Course - Troon North | 73319 | [73319-links-championship-course-troon-north.json](./73319-links-championship-course-troon-north.json) |
+| Linum | 234063 | [234063-linum.json](./234063-linum.json) |
 | Linxicon | 319984 | [319984-linxicon.json](./319984-linxicon.json) |
 | Lioden | 178067 | [178067-lioden.json](./178067-lioden.json) |
 | Lion | 9565 | [9565-lion.json](./9565-lion.json) |
