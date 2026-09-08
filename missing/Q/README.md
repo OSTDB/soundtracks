@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Q.U.B.E. 2: Ultimate Edition | 233013 | [233013-q-u-b-e-2-ultimate-edition.json](./233013-q-u-b-e-2-ultimate-edition.json) |
 | Q.u.q. | 238527 | [238527-q-u-q.json](./238527-q-u-q.json) |
 | QAD: Quintessential Art of Destruction | 72102 | [72102-qad-quintessential-art-of-destruction.json](./72102-qad-quintessential-art-of-destruction.json) |
 | Qanga | 97909 | [97909-qanga.json](./97909-qanga.json) |
@@ -13,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QB Planets | 150686 | [150686-qb-planets.json](./150686-qb-planets.json) |
 | Qbasic Gorillas | 11690 | [11690-qbasic-gorillas.json](./11690-qbasic-gorillas.json) |
 | QBob: Remastered | 358309 | [358309-qbob-remastered.json](./358309-qbob-remastered.json) |
+| Qdice | 232975 | [232975-qdice.json](./232975-qdice.json) |
 | Qelochia | 384498 | [384498-qelochia.json](./384498-qelochia.json) |
 | Qiángjūn | 98982 | [98982-qiangjun.json](./98982-qiangjun.json) |
 | Qianli: The Vastscape Scroll | 399598 | [399598-qianli-the-vastscape-scroll.json](./399598-qianli-the-vastscape-scroll.json) |
