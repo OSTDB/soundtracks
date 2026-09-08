@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
 | EchtegP | 254789 | [254789-echtegp.json](./254789-echtegp.json) |
+| Ecila | 257392 | [257392-ecila.json](./257392-ecila.json) |
 | Eclectic Custom Night | 317220 | [317220-eclectic-custom-night.json](./317220-eclectic-custom-night.json) |
 | Eclectic Guests | 178674 | [178674-eclectic-guests.json](./178674-eclectic-guests.json) |
 | Eclectic Shell | 328265 | [328265-eclectic-shell.json](./328265-eclectic-shell.json) |
@@ -512,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encroacher: Snakes | 413004 | [413004-encroacher-snakes.json](./413004-encroacher-snakes.json) |
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
+| End of Edge | 257384 | [257384-end-of-edge.json](./257384-end-of-edge.json) |
 | End of Garbage | 382774 | [382774-end-of-garbage.json](./382774-end-of-garbage.json) |
 | End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
@@ -1025,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
+| EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
 | Ex Machina: Arcade | 17171 | [17171-ex-machina-arcade.json](./17171-ex-machina-arcade.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
