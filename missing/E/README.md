@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
 | Ethereal: Clash of Souls | 127325 | [127325-ethereal-clash-of-souls.json](./127325-ethereal-clash-of-souls.json) |
+| Ethereal: New Moon | 244779 | [244779-ethereal-new-moon.json](./244779-ethereal-new-moon.json) |
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
@@ -1001,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
+| Evil Dead: The Game - Game of the Year Edition | 244790 | [244790-evil-dead-the-game-game-of-the-year-edition.json](./244790-evil-dead-the-game-game-of-the-year-edition.json) |
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
 | Evil Dungeons 2 | 323160 | [323160-evil-dungeons-2.json](./323160-evil-dungeons-2.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
