@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eye of Nollyn | 276193 | [276193-eye-of-nollyn.json](./276193-eye-of-nollyn.json) |
+| Eye of Saccharine | 249187 | [249187-eye-of-saccharine.json](./249187-eye-of-saccharine.json) |
 | Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
 | Eye Transplant : ER Emergency Hospital | 100855 | [100855-eye-transplant-er-emergency-hospital.json](./100855-eye-transplant-er-emergency-hospital.json) |
