@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Queen II | 302698 | [302698-first-queen-ii.json](./302698-first-queen-ii.json) |
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
 | First Queen IV: Varcia Senki | 152384 | [152384-first-queen-iv-varcia-senki.json](./152384-first-queen-iv-varcia-senki.json) |
+| First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
 | First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Strike | 24942 | [24942-first-strike.json](./24942-first-strike.json) |
@@ -1628,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
+| Foxventures | 235763 | [235763-foxventures.json](./235763-foxventures.json) |
 | Foxy Furry Lady of the Forest | 82919 | [82919-foxy-furry-lady-of-the-forest.json](./82919-foxy-furry-lady-of-the-forest.json) |
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
@@ -1645,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment of Humanity | 224246 | [224246-fragment-of-humanity.json](./224246-fragment-of-humanity.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
 | Fragmented 6th | 348772 | [348772-fragmented-6th.json](./348772-fragmented-6th.json) |
+| Fragmented City | 235756 | [235756-fragmented-city.json](./235756-fragmented-city.json) |
 | Fragmented Mind | 169477 | [169477-fragmented-mind.json](./169477-fragmented-mind.json) |
 | Fragments | 381037 | [381037-fragments.json](./381037-fragments.json) |
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
