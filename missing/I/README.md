@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
 | Idle Breakanoid | 383952 | [383952-idle-breakanoid.json](./383952-idle-breakanoid.json) |
+| Idle Bubbles Cannon: Aim & Tap | 245336 | [245336-idle-bubbles-cannon-aim-and-tap.json](./245336-idle-bubbles-cannon-aim-and-tap.json) |
 | Idle Build RPG | 260166 | [260166-idle-build-rpg.json](./260166-idle-build-rpg.json) |
 | Idle Business Tycoon: Build Simulator | 197933 | [197933-idle-business-tycoon-build-simulator.json](./197933-idle-business-tycoon-build-simulator.json) |
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
@@ -276,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
+| Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
 | Idle Tiers | 369577 | [369577-idle-tiers.json](./369577-idle-tiers.json) |
 | Idle Trillionaire | 294137 | [294137-idle-trillionaire.json](./294137-idle-trillionaire.json) |
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
@@ -682,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside My Radio - Deluxe | 53233 | [53233-inside-my-radio-deluxe.json](./53233-inside-my-radio-deluxe.json) |
 | Inside Out | 175936 | [175936-inside-out.json](./175936-inside-out.json) |
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
+| Inside Pete Premium | 245323 | [245323-inside-pete-premium.json](./245323-inside-pete-premium.json) |
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
 | Inside Trader: The Authentic Stock Trading Game | 94246 | [94246-inside-trader-the-authentic-stock-trading-game.json](./94246-inside-trader-the-authentic-stock-trading-game.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
@@ -922,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is this a Game yet? | 353312 | [353312-is-this-a-game-yet.json](./353312-is-this-a-game-yet.json) |
 | Is This Even Chess? | 275350 | [275350-is-this-even-chess.json](./275350-is-this-even-chess.json) |
 | Is this Game Trying to Kill Me? Preface | 305196 | [305196-is-this-game-trying-to-kill-me-preface.json](./305196-is-this-game-trying-to-kill-me-preface.json) |
+| Is This Weapon? | 245339 | [245339-is-this-weapon.json](./245339-is-this-weapon.json) |
 | Isaac Phens: Ace Attorney | 318804 | [318804-isaac-phens-ace-attorney.json](./318804-isaac-phens-ace-attorney.json) |
 | Isaacle | 361711 | [361711-isaacle.json](./361711-isaacle.json) |
 | Isabella: Chasing Shadows | 278730 | [278730-isabella-chasing-shadows.json](./278730-isabella-chasing-shadows.json) |
