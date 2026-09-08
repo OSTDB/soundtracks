@@ -2733,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
+| Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
