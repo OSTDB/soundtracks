@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Will Select a Decision | 60015 | [60015-you-will-select-a-decision.json](./60015-you-will-select-a-decision.json) |
 | You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
 | You... and who else? | 33098 | [33098-you-and-who-else.json](./33098-you-and-who-else.json) |
+| You'll Stay Here Forever | 250346 | [250346-youll-stay-here-forever.json](./250346-youll-stay-here-forever.json) |
 | You're Boned | 287672 | [287672-youre-boned.json](./287672-youre-boned.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
