@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
+| Ramp Bike Jumping | 215117 | [215117-ramp-bike-jumping.json](./215117-ramp-bike-jumping.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Show: Fist Punch | 185663 | [185663-regular-show-fist-punch.json](./185663-regular-show-fist-punch.json) |
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
+| Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
 | Reign of Guilds | 112329 | [112329-reign-of-guilds.json](./112329-reign-of-guilds.json) |
