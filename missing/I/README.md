@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Frogs 2 | 270131 | [270131-i-commissioned-some-frogs-2.json](./270131-i-commissioned-some-frogs-2.json) |
 | I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
 | I Commissioned Some Ladybugs 3 | 287071 | [287071-i-commissioned-some-ladybugs-3.json](./287071-i-commissioned-some-ladybugs-3.json) |
+| I Commissioned Some Mice | 248073 | [248073-i-commissioned-some-mice.json](./248073-i-commissioned-some-mice.json) |
 | I Commissioned Some Mice 3 | 287067 | [287067-i-commissioned-some-mice-3.json](./287067-i-commissioned-some-mice-3.json) |
 | I Commissioned Some Mice 4 | 287068 | [287068-i-commissioned-some-mice-4.json](./287068-i-commissioned-some-mice-4.json) |
 | I Commissioned Some Mice 5 | 287069 | [287069-i-commissioned-some-mice-5.json](./287069-i-commissioned-some-mice-5.json) |
