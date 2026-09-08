@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T21:18:23.769Z",
-  "total_missing": 48195,
+  "generated_at": "2026-09-08T21:21:00.589Z",
+  "total_missing": 48194,
   "games": [
     {
       "igdb_id": 306086,
@@ -316,11 +316,6 @@
       "igdb_id": 369054,
       "game_name": "100 Women: Guess the Name of 100 Famous Women",
       "file": "missing/0-9/369054-100-women-guess-the-name-of-100-famous-women.json"
-    },
-    {
-      "igdb_id": 212457,
-      "game_name": "100 Years: Life Simulator",
-      "file": "missing/0-9/212457-100-years-life-simulator.json"
     },
     {
       "igdb_id": 413678,
