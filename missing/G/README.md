@@ -1132,6 +1132,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
 | Grand Theft Auto III: 10 Year Anniversary Edition | 22930 | [22930-grand-theft-auto-iii-10-year-anniversary-edition.json](./22930-grand-theft-auto-iii-10-year-anniversary-edition.json) |
 | Grand Theft Auto Online | 134710 | [134710-grand-theft-auto-online.json](./134710-grand-theft-auto-online.json) |
+| Grand Theft Auto Online: Los Santos Drug Wars | 239053 | [239053-grand-theft-auto-online-los-santos-drug-wars.json](./239053-grand-theft-auto-online-los-santos-drug-wars.json) |
+| Grand Theft Auto Online: Los Santos Tuners | 239051 | [239051-grand-theft-auto-online-los-santos-tuners.json](./239051-grand-theft-auto-online-los-santos-tuners.json) |
+| Grand Theft Auto Online: The Cayo Perico Heist | 239050 | [239050-grand-theft-auto-online-the-cayo-perico-heist.json](./239050-grand-theft-auto-online-the-cayo-perico-heist.json) |
+| Grand Theft Auto Online: The Criminal Enterprises | 239052 | [239052-grand-theft-auto-online-the-criminal-enterprises.json](./239052-grand-theft-auto-online-the-criminal-enterprises.json) |
+| Grand Theft Auto Online: The Diamond Casino & Resort | 239055 | [239055-grand-theft-auto-online-the-diamond-casino-and-resort.json](./239055-grand-theft-auto-online-the-diamond-casino-and-resort.json) |
 | Grand Theft Auto Online: The Diamond Casino Heist | 398950 | [398950-grand-theft-auto-online-the-diamond-casino-heist.json](./398950-grand-theft-auto-online-the-diamond-casino-heist.json) |
 | Grand Theft Auto V | 134709 | [134709-grand-theft-auto-v.json](./134709-grand-theft-auto-v.json) |
 | Grand Theft Auto V Enhanced | 334254 | [334254-grand-theft-auto-v-enhanced.json](./334254-grand-theft-auto-v-enhanced.json) |
