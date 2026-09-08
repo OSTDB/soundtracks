@@ -925,6 +925,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de D: Rising Stage | 55924 | [55924-densha-de-d-rising-stage.json](./55924-densha-de-d-rising-stage.json) |
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
+| Densha Unten Shirei! Tokaido-hen | 221739 | [221739-densha-unten-shirei-tokaido-hen.json](./221739-densha-unten-shirei-tokaido-hen.json) |
+| Densha Unten Shirei! Tokyo-wan-hen | 221738 | [221738-densha-unten-shirei-tokyo-wan-hen.json](./221738-densha-unten-shirei-tokyo-wan-hen.json) |
 | Denshi Life 2 | 331876 | [331876-denshi-life-2.json](./331876-denshi-life-2.json) |
 | Dental Madness: Cavity Mania | 166758 | [166758-dental-madness-cavity-mania.json](./166758-dental-madness-cavity-mania.json) |
 | Dental Strike | 290699 | [290699-dental-strike.json](./290699-dental-strike.json) |
