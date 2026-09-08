@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings & Oh No! More Lemmings | 242242 | [242242-lemmings-and-oh-no-more-lemmings.json](./242242-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings 2: The Tribes | 243941 | [243941-lemmings-2-the-tribes.json](./243941-lemmings-2-the-tribes.json) |
+| Lemmings 2: The Tribes | 245307 | [245307-lemmings-2-the-tribes.json](./245307-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 8307 | [8307-lemmings-2-the-tribes.json](./8307-lemmings-2-the-tribes.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Tycoon 2: New York Edition | 68041 | [68041-lemonade-tycoon-2-new-york-edition.json](./68041-lemonade-tycoon-2-new-york-edition.json) |
@@ -519,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Yourself Out, Eddie Kaspbrak! | 158724 | [158724-let-yourself-out-eddie-kaspbrak.json](./158724-let-yourself-out-eddie-kaspbrak.json) |
 | Let's Bravo Music | 326944 | [326944-lets-bravo-music.json](./326944-lets-bravo-music.json) |
 | Let's Build a Garden | 340914 | [340914-lets-build-a-garden.json](./340914-lets-build-a-garden.json) |
+| Let’s Build a Zoo: Aquarium Odyssey | 245302 | [245302-let-s-build-a-zoo-aquarium-odyssey.json](./245302-let-s-build-a-zoo-aquarium-odyssey.json) |
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
