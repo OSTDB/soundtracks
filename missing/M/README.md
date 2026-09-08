@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Fantasy: Jigsaw Puzzle - Emperor Edition | 315870 | [315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json](./315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Fantastic Beasts | 313149 | [313149-medieval-fantasy-jigsaw-puzzle-fantastic-beasts.json](./313149-medieval-fantasy-jigsaw-puzzle-fantastic-beasts.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Great Warriors | 313151 | [313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json](./313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json) |
+| Medieval Idle: Quest | 249185 | [249185-medieval-idle-quest.json](./249185-medieval-idle-quest.json) |
 | Medieval II: Total War | 440 | [440-medieval-ii-total-war.json](./440-medieval-ii-total-war.json) |
 | Medieval II: Total War - Gold Edition | 28983 | [28983-medieval-ii-total-war-gold-edition.json](./28983-medieval-ii-total-war-gold-edition.json) |
 | Medieval Kingdom Wars: Prologue | 266471 | [266471-medieval-kingdom-wars-prologue.json](./266471-medieval-kingdom-wars-prologue.json) |
@@ -1610,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
 | Military Merge | 402307 | [402307-military-merge.json](./402307-military-merge.json) |
 | Military Transporter Sim | 293646 | [293646-military-transporter-sim.json](./293646-military-transporter-sim.json) |
+| Milites Fortunae | 249210 | [249210-milites-fortunae.json](./249210-milites-fortunae.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
 | Milk Me Darling | 385061 | [385061-milk-me-darling.json](./385061-milk-me-darling.json) |
 | Milk Race | 46660 | [46660-milk-race.json](./46660-milk-race.json) |
@@ -2694,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Shootem Breaks Out! | 266210 | [266210-mr-shootem-breaks-out.json](./266210-mr-shootem-breaks-out.json) |
 | Mr. Shorty | 337074 | [337074-mr-shorty.json](./337074-mr-shorty.json) |
 | Mr. Steal Yo Wifi | 107200 | [107200-mr-steal-yo-wifi.json](./107200-mr-steal-yo-wifi.json) |
+| Mr. Stretch and the Stolen Fortune | 249228 | [249228-mr-stretch-and-the-stolen-fortune.json](./249228-mr-stretch-and-the-stolen-fortune.json) |
 | Mr. Supershot | 274736 | [274736-mr-supershot.json](./274736-mr-supershot.json) |
 | Mr. Whiskers Bubbles | 385088 | [385088-mr-whiskers-bubbles.json](./385088-mr-whiskers-bubbles.json) |
 | Mr. Wings | 255714 | [255714-mr-wings.json](./255714-mr-wings.json) |
