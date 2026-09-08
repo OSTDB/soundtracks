@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
+| Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
 | Exodus | 279621 | [279621-exodus.json](./279621-exodus.json) |
