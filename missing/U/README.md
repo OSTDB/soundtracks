@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Rivals: The Rink | 127349 | [127349-ultimate-rivals-the-rink.json](./127349-ultimate-rivals-the-rink.json) |
 | Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
+| Ultimate Shot: 3D Real Strike Shouter Counter | 247489 | [247489-ultimate-shot-3d-real-strike-shouter-counter.json](./247489-ultimate-shot-3d-real-strike-shouter-counter.json) |
 | Ultimate Sim | 91425 | [91425-ultimate-sim.json](./91425-ultimate-sim.json) |
 | Ultimate Simplicity | 256815 | [256815-ultimate-simplicity.json](./256815-ultimate-simplicity.json) |
 | Ultimate Sliding Puzzle: Arcade Pack | 270391 | [270391-ultimate-sliding-puzzle-arcade-pack.json](./270391-ultimate-sliding-puzzle-arcade-pack.json) |
