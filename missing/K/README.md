@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kajko i Kokosz | 93588 | [93588-kajko-i-kokosz.json](./93588-kajko-i-kokosz.json) |
 | Kajko i Kokosz: W Krainie Borostworów | 93587 | [93587-kajko-i-kokosz-w-krainie-borostworow.json](./93587-kajko-i-kokosz-w-krainie-borostworow.json) |
 | Kakatte Koi Yo! | 127671 | [127671-kakatte-koi-yo.json](./127671-kakatte-koi-yo.json) |
+| Kakefu-kun no Jump Tengoku Speed Jigoku | 215129 | [215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json](./215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json) |
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KaM Remake | 190698 | [190698-kam-remake.json](./190698-kam-remake.json) |
 | Kamaeru: A Frog Refuge | 252773 | [252773-kamaeru-a-frog-refuge.json](./252773-kamaeru-a-frog-refuge.json) |
 | Kamakazzzbee | 217330 | [217330-kamakazzzbee.json](./217330-kamakazzzbee.json) |
+| Kame no Ongaeshi: Urashima Densetsu | 215130 | [215130-kame-no-ongaeshi-urashima-densetsu.json](./215130-kame-no-ongaeshi-urashima-densetsu.json) |
 | Kame Paradise 2 | 231389 | [231389-kame-paradise-2.json](./231389-kame-paradise-2.json) |
 | Kame Paradise 3 Multiversex | 231391 | [231391-kame-paradise-3-multiversex.json](./231391-kame-paradise-3-multiversex.json) |
 | Kamek's Midnight Flight | 250035 | [250035-kameks-midnight-flight.json](./250035-kameks-midnight-flight.json) |
