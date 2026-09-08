@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish Upon a Block | 388707 | [388707-wish-upon-a-block.json](./388707-wish-upon-a-block.json) |
 | Wish You All the Best | 402934 | [402934-wish-you-all-the-best.json](./402934-wish-you-all-the-best.json) |
 | Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
+| Wishful Thinking | 229678 | [229678-wishful-thinking.json](./229678-wishful-thinking.json) |
 | Wishing Well Hotel | 386107 | [386107-wishing-well-hotel.json](./386107-wishing-well-hotel.json) |
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
 | Wisps of the Elements | 312544 | [312544-wisps-of-the-elements.json](./312544-wisps-of-the-elements.json) |
