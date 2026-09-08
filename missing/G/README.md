@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get the Glass | 272848 | [272848-get-the-glass.json](./272848-get-the-glass.json) |
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
+| Get Your Tentacles Off My Waifu | 244765 | [244765-get-your-tentacles-off-my-waifu.json](./244765-get-your-tentacles-off-my-waifu.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
 | Getaway Golf | 414298 | [414298-getaway-golf.json](./414298-getaway-golf.json) |
 | GetClose | 61658 | [61658-getclose.json](./61658-getclose.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Miner Challenger | 215360 | [215360-gold-miner-challenger.json](./215360-gold-miner-challenger.json) |
 | Gold Miner: Classic Edition | 360579 | [360579-gold-miner-classic-edition.json](./360579-gold-miner-classic-edition.json) |
 | Gold of the Incas Solitaire | 294741 | [294741-gold-of-the-incas-solitaire.json](./294741-gold-of-the-incas-solitaire.json) |
+| Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
 | Golden Axe III Redux | 219271 | [219271-golden-axe-iii-redux.json](./219271-golden-axe-iii-redux.json) |
@@ -1436,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
+| Guild Saga: Vanished Worlds | 244758 | [244758-guild-saga-vanished-worlds.json](./244758-guild-saga-vanished-worlds.json) |
 | Guild Wars 2: Elder Dragon Saga - Complete Collection | 293924 | [293924-guild-wars-2-elder-dragon-saga-complete-collection.json](./293924-guild-wars-2-elder-dragon-saga-complete-collection.json) |
 | Guild Wars 2: End of Dragons | 159254 | [159254-guild-wars-2-end-of-dragons.json](./159254-guild-wars-2-end-of-dragons.json) |
 | Guild Wars 2: Heart of Thorns | 13183 | [13183-guild-wars-2-heart-of-thorns.json](./13183-guild-wars-2-heart-of-thorns.json) |
@@ -1570,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
+| Gunship | 244760 | [244760-gunship.json](./244760-gunship.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
