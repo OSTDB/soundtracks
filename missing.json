@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T19:01:07.334Z",
-  "total_missing": 47796,
+  "generated_at": "2026-09-08T19:11:03.790Z",
+  "total_missing": 47803,
   "games": [
     {
       "igdb_id": 306086,
@@ -246,11 +246,6 @@
       "igdb_id": 334122,
       "game_name": "100 Greece Cats",
       "file": "missing/0-9/334122-100-greece-cats.json"
-    },
-    {
-      "igdb_id": 301590,
-      "game_name": "100 Hidden Cats in Games",
-      "file": "missing/0-9/301590-100-hidden-cats-in-games.json"
     },
     {
       "igdb_id": 334123,
@@ -12946,6 +12941,11 @@
       "igdb_id": 367968,
       "game_name": "Arcana Academy",
       "file": "missing/A/367968-arcana-academy.json"
+    },
+    {
+      "igdb_id": 218493,
+      "game_name": "Arcana Famiglia Collezione! Piccola Amore",
+      "file": "missing/A/218493-arcana-famiglia-collezione-piccola-amore.json"
     },
     {
       "igdb_id": 243694,
@@ -35083,6 +35083,11 @@
       "file": "missing/C/199636-century-age-of-ashes-colossus-deluxe-edition.json"
     },
     {
+      "igdb_id": 218495,
+      "game_name": "Century: Age of Ashes - Dragon Eggs Edition",
+      "file": "missing/C/218495-century-age-of-ashes-dragon-eggs-edition.json"
+    },
+    {
       "igdb_id": 199640,
       "game_name": "Century: Age of Ashes - Fellow Edition",
       "file": "missing/C/199640-century-age-of-ashes-fellow-edition.json"
@@ -35096,6 +35101,11 @@
       "igdb_id": 286546,
       "game_name": "Century: Age of Ashes - Heroes of the Continent Bundle",
       "file": "missing/C/286546-century-age-of-ashes-heroes-of-the-continent-bundle.json"
+    },
+    {
+      "igdb_id": 218492,
+      "game_name": "Century: Age of Ashes - The Journeyer Edition",
+      "file": "missing/C/218492-century-age-of-ashes-the-journeyer-edition.json"
     },
     {
       "igdb_id": 281986,
@@ -91761,6 +91771,11 @@
       "igdb_id": 161370,
       "game_name": "Historic Fighters",
       "file": "missing/H/161370-historic-fighters.json"
+    },
+    {
+      "igdb_id": 218494,
+      "game_name": "Historical Trilogy",
+      "file": "missing/H/218494-historical-trilogy.json"
     },
     {
       "igdb_id": 87236,
@@ -152538,6 +152553,11 @@
       "file": "missing/P/333565-pokemon-go-might-and-mastery.json"
     },
     {
+      "igdb_id": 218496,
+      "game_name": "Pokémon Go: Season of Discovery",
+      "file": "missing/P/218496-pokemon-go-season-of-discovery.json"
+    },
+    {
       "igdb_id": 218502,
       "game_name": "Pokémon Go: Season of Legends",
       "file": "missing/P/218502-pokemon-go-season-of-legends.json"
@@ -162588,6 +162608,11 @@
       "file": "missing/R/156177-reksio-i-kapitan-nemo.json"
     },
     {
+      "igdb_id": 218499,
+      "game_name": "Reksio i Kretes: Tajemnica Trzeciego Wymiaru",
+      "file": "missing/R/218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json"
+    },
+    {
       "igdb_id": 146300,
       "game_name": "Reksio: Miasto Sekretów",
       "file": "missing/R/146300-reksio-miasto-sekretow.json"
@@ -172236,6 +172261,11 @@
       "igdb_id": 205271,
       "game_name": "SD Gundam Battle Alliance: Limited Edition",
       "file": "missing/S/205271-sd-gundam-battle-alliance-limited-edition.json"
+    },
+    {
+      "igdb_id": 218498,
+      "game_name": "SD Gundam Battle Alliance: Ultimate Edition",
+      "file": "missing/S/218498-sd-gundam-battle-alliance-ultimate-edition.json"
     },
     {
       "igdb_id": 237976,
@@ -200066,6 +200096,11 @@
       "igdb_id": 324332,
       "game_name": "Templar",
       "file": "missing/T/324332-templar.json"
+    },
+    {
+      "igdb_id": 218497,
+      "game_name": "Temple Dash: Jungle Adventure",
+      "file": "missing/T/218497-temple-dash-jungle-adventure.json"
     },
     {
       "igdb_id": 267682,
