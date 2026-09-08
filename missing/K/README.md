@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klang 2 | 131563 | [131563-klang-2.json](./131563-klang-2.json) |
 | Klap!! Kind Love and Punish: Fun Party | 138232 | [138232-klap-kind-love-and-punish-fun-party.json](./138232-klap-kind-love-and-punish-fun-party.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
+| Kleopatra | 213968 | [213968-kleopatra.json](./213968-kleopatra.json) |
 | Klepto | 297476 | [297476-klepto.json](./297476-klepto.json) |
 | Klepto Planet Attack | 176473 | [176473-klepto-planet-attack.json](./176473-klepto-planet-attack.json) |
 | KleptoCats 2: Idle Furry Pets | 243099 | [243099-kleptocats-2-idle-furry-pets.json](./243099-kleptocats-2-idle-furry-pets.json) |
@@ -709,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Chalice 2: Archmage Edition | 196299 | [196299-knights-of-the-chalice-2-archmage-edition.json](./196299-knights-of-the-chalice-2-archmage-edition.json) |
 | Knights of the Desert | 23912 | [23912-knights-of-the-desert.json](./23912-knights-of-the-desert.json) |
 | Knights of the Desert: The North African Campaign of 1941-1943 | 73828 | [73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json](./73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json) |
+| Knights of the Flexbox Table | 213965 | [213965-knights-of-the-flexbox-table.json](./213965-knights-of-the-flexbox-table.json) |
 | Knights of the Round | 224023 | [224023-knights-of-the-round.json](./224023-knights-of-the-round.json) |
 | Knights of Valour | 76639 | [76639-knights-of-valour.json](./76639-knights-of-valour.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
@@ -793,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Aozora ni Yakusoku wo: Refine | 324677 | [324677-kono-aozora-ni-yakusoku-wo-refine.json](./324677-kono-aozora-ni-yakusoku-wo-refine.json) |
 | Kono Aozora ni Yakusoku wo: Te no Hira no Rakuen | 324676 | [324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json](./324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json) |
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
+| Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
 | Kool-Aid Man | 5676 | [5676-kool-aid-man.json](./5676-kool-aid-man.json) |
