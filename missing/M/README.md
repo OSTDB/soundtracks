@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Jill Off | 72696 | [72696-mighty-jill-off.json](./72696-mighty-jill-off.json) |
 | Mighty Knight Legacy | 275339 | [275339-mighty-knight-legacy.json](./275339-mighty-knight-legacy.json) |
 | Mighty Mahjong | 406111 | [406111-mighty-mahjong.json](./406111-mighty-mahjong.json) |
+| Mighty Marbles | 258441 | [258441-mighty-marbles.json](./258441-mighty-marbles.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
@@ -2859,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream Girl | 173841 | [173841-my-dream-girl.json](./173841-my-dream-girl.json) |
 | My Dream Girls | 173836 | [173836-my-dream-girls.json](./173836-my-dream-girls.json) |
 | My Dream Job: How I Survived Job Hunting in Animation | 178684 | [178684-my-dream-job-how-i-survived-job-hunting-in-animation.json](./178684-my-dream-job-how-i-survived-job-hunting-in-animation.json) |
+| My Earth | 258489 | [258489-my-earth.json](./258489-my-earth.json) |
 | My Eggs | 255999 | [255999-my-eggs.json](./255999-my-eggs.json) |
 | My Empire | 149590 | [149590-my-empire.json](./149590-my-empire.json) |
 | My Escort Company | 215916 | [215916-my-escort-company.json](./215916-my-escort-company.json) |
