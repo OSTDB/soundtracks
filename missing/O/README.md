@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Racing | 221416 | [221416-offroad-racing.json](./221416-offroad-racing.json) |
 | Offroad Racing on Line | 172161 | [172161-offroad-racing-on-line.json](./172161-offroad-racing-on-line.json) |
 | Offsea | 235761 | [235761-offsea.json](./235761-offsea.json) |
+| Offshore Racing | 234617 | [234617-offshore-racing.json](./234617-offshore-racing.json) |
 | Offworld Trading Company: Almanac | 124802 | [124802-offworld-trading-company-almanac.json](./124802-offworld-trading-company-almanac.json) |
 | Offworld Trading Company: Blue Chip Ventures | 124835 | [124835-offworld-trading-company-blue-chip-ventures.json](./124835-offworld-trading-company-blue-chip-ventures.json) |
 | Offworld Trading Company: The Patron and the Patriot | 124817 | [124817-offworld-trading-company-the-patron-and-the-patriot.json](./124817-offworld-trading-company-the-patron-and-the-patriot.json) |
