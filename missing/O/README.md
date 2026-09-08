@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Ban! | 258699 | [258699-only-ban.json](./258699-only-ban.json) |
 | Only Climber 2 | 315279 | [315279-only-climber-2.json](./315279-only-climber-2.json) |
 | Only Cum! | 259282 | [259282-only-cum.json](./259282-only-cum.json) |
+| Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only One Mosquito | 181354 | [181354-only-one-mosquito.json](./181354-only-one-mosquito.json) |
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
@@ -604,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Sci-Fi: Hentai Girls | 349301 | [349301-operation-sci-fi-hentai-girls.json](./349301-operation-sci-fi-hentai-girls.json) |
 | Operation Steel | 151732 | [151732-operation-steel.json](./151732-operation-steel.json) |
 | Operation Swat | 29656 | [29656-operation-swat.json](./29656-operation-swat.json) |
+| Operation Trust | 257402 | [257402-operation-trust.json](./257402-operation-trust.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
 | Operation: Get Bike Back | 270705 | [270705-operation-get-bike-back.json](./270705-operation-get-bike-back.json) |
