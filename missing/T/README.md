@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
+| Tartarus | 256845 | [256845-tartarus.json](./256845-tartarus.json) |
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
 | The Banner Saga: Deluxe Edition | 54435 | [54435-the-banner-saga-deluxe-edition.json](./54435-the-banner-saga-deluxe-edition.json) |
 | The Bar | 119049 | [119049-the-bar.json](./119049-the-bar.json) |
+| The Bar | 256847 | [256847-the-bar.json](./256847-the-bar.json) |
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
 | The Bard's Tale II: The Destiny Knight | 273091 | [273091-the-bards-tale-ii-the-destiny-knight.json](./273091-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale IV: Barrows Deep - Platinum Edition | 102800 | [102800-the-bards-tale-iv-barrows-deep-platinum-edition.json](./102800-the-bards-tale-iv-barrows-deep-platinum-edition.json) |
@@ -967,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
+| The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
 | The Bouncing Ball | 195207 | [195207-the-bouncing-ball.json](./195207-the-bouncing-ball.json) |
 | The Bound of Time | 316084 | [316084-the-bound-of-time.json](./316084-the-bound-of-time.json) |
@@ -1737,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Journey | 267924 | [267924-the-last-journey.json](./267924-the-last-journey.json) |
+| The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
@@ -2926,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Skies Ascension | 318398 | [318398-three-skies-ascension.json](./318398-three-skies-ascension.json) |
 | Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
 | Three Verses | 298289 | [298289-three-verses.json](./298289-three-verses.json) |
+| Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
 | Threshold | 288609 | [288609-threshold.json](./288609-threshold.json) |
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
 | Threshold of Judgement | 378159 | [378159-threshold-of-judgement.json](./378159-threshold-of-judgement.json) |
@@ -2974,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thundercross | 55201 | [55201-thundercross.json](./55201-thundercross.json) |
 | Thunderdawn | 342615 | [342615-thunderdawn.json](./342615-thunderdawn.json) |
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
+| Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
 | Thunderstrike 2 | 24991 | [24991-thunderstrike-2.json](./24991-thunderstrike-2.json) |
 | Thunderwing | 74427 | [74427-thunderwing.json](./74427-thunderwing.json) |
 | Thundra - Alien Wackiness from the future | 132811 | [132811-thundra-alien-wackiness-from-the-future.json](./132811-thundra-alien-wackiness-from-the-future.json) |
@@ -4270,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
 | Trivia Party | 195270 | [195270-trivia-party.json](./195270-trivia-party.json) |
+| Trivia Quest | 256860 | [256860-trivia-quest.json](./256860-trivia-quest.json) |
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
