@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Tycoon: Farm City Simulator | 275035 | [275035-village-tycoon-farm-city-simulator.json](./275035-village-tycoon-farm-city-simulator.json) |
 | Villager comes alive | 192451 | [192451-villager-comes-alive.json](./192451-villager-comes-alive.json) |
 | Villainous | 319976 | [319976-villainous.json](./319976-villainous.json) |
+| Villains Corp. | 252136 | [252136-villains-corp.json](./252136-villains-corp.json) |
 | Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
 | Vilovejets | 413657 | [413657-vilovejets.json](./413657-vilovejets.json) |
 | Vilzam: Cosmic Struggle | 265649 | [265649-vilzam-cosmic-struggle.json](./265649-vilzam-cosmic-struggle.json) |
