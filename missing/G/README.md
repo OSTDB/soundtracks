@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Super Awesome Monkey! | 414329 | [414329-go-super-awesome-monkey.json](./414329-go-super-awesome-monkey.json) |
 | Goal 94 | 78065 | [78065-goal-94.json](./78065-goal-94.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
+| Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
