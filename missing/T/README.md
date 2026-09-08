@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 215387 | [215387-tetris.json](./215387-tetris.json) |
 | Tetris | 221969 | [221969-tetris.json](./221969-tetris.json) |
 | Tetris | 270420 | [270420-tetris.json](./270420-tetris.json) |
+| Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
 | Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
 | Tetris Battle Gaiden | 38371 | [38371-tetris-battle-gaiden.json](./38371-tetris-battle-gaiden.json) |
@@ -710,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris DS | 18599 | [18599-tetris-ds.json](./18599-tetris-ds.json) |
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
+| Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
 | Tetris Pro | 95421 | [95421-tetris-pro.json](./95421-tetris-pro.json) |
 | Tetris Secret | 130931 | [130931-tetris-secret.json](./130931-tetris-secret.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
@@ -811,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
 | The Amazing Shinsengumi: Heroes in Love | 32318 | [32318-the-amazing-shinsengumi-heroes-in-love.json](./32318-the-amazing-shinsengumi-heroes-in-love.json) |
+| The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
 | The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
 | The Amen Variations | 382200 | [382200-the-amen-variations.json](./382200-the-amen-variations.json) |
@@ -1094,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Complex IV | 286003 | [286003-the-complex-iv.json](./286003-the-complex-iv.json) |
 | The Complex Tragedy | 284923 | [284923-the-complex-tragedy.json](./284923-the-complex-tragedy.json) |
 | The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
+| The Computer Spiele Museum's Museum Guide | 254510 | [254510-the-computer-spiele-museums-museum-guide.json](./254510-the-computer-spiele-museums-museum-guide.json) |
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
@@ -2667,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
 | The USB Stick Found in the Grass | 169467 | [169467-the-usb-stick-found-in-the-grass.json](./169467-the-usb-stick-found-in-the-grass.json) |
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
+| The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vault | 295247 | [295247-the-vault.json](./295247-the-vault.json) |
 | The Vault | 97331 | [97331-the-vault.json](./97331-the-vault.json) |
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
@@ -3329,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Hero Courier | 330140 | [330140-tiny-hero-courier.json](./330140-tiny-hero-courier.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny Invaders | 92501 | [92501-tiny-invaders.json](./92501-tiny-invaders.json) |
+| Tiny Jump | 254559 | [254559-tiny-jump.json](./254559-tiny-jump.json) |
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
