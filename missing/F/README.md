@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Friends: Super Version | 313512 | [313512-fashion-friends-super-version.json](./313512-fashion-friends-super-version.json) |
 | Fashion Girls: All in One Edition | 271502 | [271502-fashion-girls-all-in-one-edition.json](./271502-fashion-girls-all-in-one-edition.json) |
 | Fashion Girls: Silver Edition | 315865 | [315865-fashion-girls-silver-edition.json](./315865-fashion-girls-silver-edition.json) |
+| Fashion Princess | 215118 | [215118-fashion-princess.json](./215118-fashion-princess.json) |
 | Fashion Princess: Silver Edition | 317256 | [317256-fashion-princess-silver-edition.json](./317256-fashion-princess-silver-edition.json) |
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
 | Fashion Space | 212493 | [212493-fashion-space.json](./212493-fashion-space.json) |
@@ -757,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
+| Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
 | Final Odyssey | 378173 | [378173-final-odyssey.json](./378173-final-odyssey.json) |
 | Final Redoubt: Zombie Apocalypse | 329590 | [329590-final-redoubt-zombie-apocalypse.json](./329590-final-redoubt-zombie-apocalypse.json) |
