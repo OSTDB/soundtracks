@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T12:03:16.455Z",
-  "total_missing": 46651,
+  "generated_at": "2026-09-08T12:11:37.660Z",
+  "total_missing": 46650,
   "games": [
     {
       "igdb_id": 306086,
@@ -36,11 +36,6 @@
       "igdb_id": 390544,
       "game_name": ".Hack//Z.E.R.O.",
       "file": "missing/0-9/390544-hack-z-e-r-o.json"
-    },
-    {
-      "igdb_id": 410891,
-      "game_name": "'In You We Trust, Not Algorithms': Newbie Matsumoto's Manual Elevator Operation with Sticky Notes",
-      "file": "missing/0-9/410891-in-you-we-trust-not-algorithms-newbie-matsumotos-manual-elevator-operation-with-sticky-notes.json"
     },
     {
       "igdb_id": 265687,
