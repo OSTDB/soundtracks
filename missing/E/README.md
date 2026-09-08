@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden's Inferno | 353304 | [353304-edens-inferno.json](./353304-edens-inferno.json) |
 | Eden's Last Sunrise | 190187 | [190187-edens-last-sunrise.json](./190187-edens-last-sunrise.json) |
 | Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
+| Edengate: The Edge of Life | 217918 | [217918-edengate-the-edge-of-life.json](./217918-edengate-the-edge-of-life.json) |
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
 | Edentopia | 245882 | [245882-edentopia.json](./245882-edentopia.json) |
