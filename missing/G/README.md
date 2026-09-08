@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gates of Nowhere | 50892 | [50892-gates-of-nowhere.json](./50892-gates-of-nowhere.json) |
 | Gates of Yomi | 274480 | [274480-gates-of-yomi.json](./274480-gates-of-yomi.json) |
 | Gates to Terra II | 126646 | [126646-gates-to-terra-ii.json](./126646-gates-to-terra-ii.json) |
+| Gateway to English: Eigo de Go! | 245313 | [245313-gateway-to-english-eigo-de-go.json](./245313-gateway-to-english-eigo-de-go.json) |
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
 | Gather CCG | 401543 | [401543-gather-ccg.json](./401543-gather-ccg.json) |
@@ -1311,6 +1312,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
 | Grimm & Tonic | 109751 | [109751-grimm-and-tonic.json](./109751-grimm-and-tonic.json) |
+| Grimm Meisaku Gekijou Vol. 1: Bremen no Ongakutai | 245314 | [245314-grimm-meisaku-gekijou-vol-1-bremen-no-ongakutai.json](./245314-grimm-meisaku-gekijou-vol-1-bremen-no-ongakutai.json) |
+| Grimm Meisaku Gekijou Vol. 2: Hansel to Gretel | 245315 | [245315-grimm-meisaku-gekijou-vol-2-hansel-to-gretel.json](./245315-grimm-meisaku-gekijou-vol-2-hansel-to-gretel.json) |
+| Grimm Meisaku Gekijou Vol. 3: Akazukin | 245316 | [245316-grimm-meisaku-gekijou-vol-3-akazukin.json](./245316-grimm-meisaku-gekijou-vol-3-akazukin.json) |
 | Grimm: Dark Legacy | 25823 | [25823-grimm-dark-legacy.json](./25823-grimm-dark-legacy.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
 | Grimshade | 102199 | [102199-grimshade.json](./102199-grimshade.json) |
