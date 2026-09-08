@@ -802,6 +802,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Williams Pinball: Theatre of Magic | 354458 | [354458-williams-pinball-theatre-of-magic.json](./354458-williams-pinball-theatre-of-magic.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
 | Willy and Rosie: Bust Out of the Big House | 273387 | [273387-willy-and-rosie-bust-out-of-the-big-house.json](./273387-willy-and-rosie-bust-out-of-the-big-house.json) |
+| Willy Crash | 225626 | [225626-willy-crash.json](./225626-willy-crash.json) |
+| Willy Crash Mini | 225627 | [225627-willy-crash-mini.json](./225627-willy-crash-mini.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
 | Wilson's Heart | 19597 | [19597-wilsons-heart.json](./19597-wilsons-heart.json) |
 | Wily & Right no Rock Board: That's Paradise | 295041 | [295041-wily-and-right-no-rock-board-thats-paradise.json](./295041-wily-and-right-no-rock-board-thats-paradise.json) |
