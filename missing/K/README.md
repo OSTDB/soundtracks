@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of BMX | 91979 | [91979-king-of-bmx.json](./91979-king-of-bmx.json) |
 | King of Booze: Drinking Game | 31590 | [31590-king-of-booze-drinking-game.json](./31590-king-of-booze-drinking-game.json) |
 | King of Defense 2: Epic TD | 227512 | [227512-king-of-defense-2-epic-td.json](./227512-king-of-defense-2-epic-td.json) |
+| King of Defense: Merge TD | 239046 | [239046-king-of-defense-merge-td.json](./239046-king-of-defense-merge-td.json) |
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
@@ -571,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissed by the Baddest Bidder: Secrets from the Past - Soryu | 238226 | [238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json](./238226-kissed-by-the-baddest-bidder-secrets-from-the-past-soryu.json) |
 | Kisten Royale | 352228 | [352228-kisten-royale.json](./352228-kisten-royale.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
+| Kita e. Photo Memories | 239082 | [239082-kita-e-photo-memories.json](./239082-kita-e-photo-memories.json) |
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
