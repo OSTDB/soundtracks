@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Masters | 313135 | [313135-parking-masters.json](./313135-parking-masters.json) |
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
+| Parking Tycoon | 252144 | [252144-parking-tycoon.json](./252144-parking-tycoon.json) |
 | Parkitect | 18871 | [18871-parkitect.json](./18871-parkitect.json) |
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Assassin: Sprint Run 2 | 391037 | [391037-parkour-assassin-sprint-run-2.json](./391037-parkour-assassin-sprint-run-2.json) |
