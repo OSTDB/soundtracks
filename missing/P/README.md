@@ -1892,13 +1892,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Power Racing Bundle 3 | 152353 | [152353-power-racing-bundle-3.json](./152353-power-racing-bundle-3.json) |
 | Power Racing Bundle 4 | 409549 | [409549-power-racing-bundle-4.json](./409549-power-racing-bundle-4.json) |
+| Power Rangers | 220102 | [220102-power-rangers.json](./220102-power-rangers.json) |
 | Power Rangers All-Stars | 109037 | [109037-power-rangers-all-stars.json](./109037-power-rangers-all-stars.json) |
 | Power Rangers Legends | 63856 | [63856-power-rangers-legends.json](./63856-power-rangers-legends.json) |
+| Power Rangers S.P.D.: Escape of the Five Fugitives | 220103 | [220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json](./220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json) |
 | Power Rangers Super Samurai | 25162 | [25162-power-rangers-super-samurai.json](./25162-power-rangers-super-samurai.json) |
 | Power Rangers: Battle for the Grid - Collector's Edition | 119069 | [119069-power-rangers-battle-for-the-grid-collectors-edition.json](./119069-power-rangers-battle-for-the-grid-collectors-edition.json) |
 | Power Rangers: Battle for the Grid - Digital Collector's Edition | 205276 | [205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json](./205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json) |
 | Power Rangers: Battle for the Grid - Street Fighter Pack | 237979 | [237979-power-rangers-battle-for-the-grid-street-fighter-pack.json](./237979-power-rangers-battle-for-the-grid-street-fighter-pack.json) |
+| Power Rangers: Force in Time | 220104 | [220104-power-rangers-force-in-time.json](./220104-power-rangers-force-in-time.json) |
 | Power Rangers: Mystic Force | 330744 | [330744-power-rangers-mystic-force.json](./330744-power-rangers-mystic-force.json) |
+| Power Rangers: To the Rescue | 220101 | [220101-power-rangers-to-the-rescue.json](./220101-power-rangers-to-the-rescue.json) |
 | Power Serve 3D Tennis | 20641 | [20641-power-serve-3d-tennis.json](./20641-power-serve-3d-tennis.json) |
 | Power Slave | 45972 | [45972-power-slave.json](./45972-power-slave.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
