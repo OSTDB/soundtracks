@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gahkthun of the Golden Lightning: Steam Edition | 33106 | [33106-gahkthun-of-the-golden-lightning-steam-edition.json](./33106-gahkthun-of-the-golden-lightning-steam-edition.json) |
 | Gaia Attack 4 | 64962 | [64962-gaia-attack-4.json](./64962-gaia-attack-4.json) |
+| Gaia Trek | 248039 | [248039-gaia-trek.json](./248039-gaia-trek.json) |
 | Gaia-ttack | 330159 | [330159-gaia-ttack.json](./330159-gaia-ttack.json) |
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
 | Gaiadon: Eternal Quest | 318761 | [318761-gaiadon-eternal-quest.json](./318761-gaiadon-eternal-quest.json) |
@@ -632,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' Day Out | 407327 | [407327-girls-day-out.json](./407327-girls-day-out.json) |
 | Girls' Film Club! | 410245 | [410245-girls-film-club.json](./410245-girls-film-club.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
+| Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
 | Give Me Clair Back | 290944 | [290944-give-me-clair-back.json](./290944-give-me-clair-back.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Givling | 18319 | [18319-givling.json](./18319-givling.json) |
