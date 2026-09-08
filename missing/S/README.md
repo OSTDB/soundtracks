@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
 | Sanyo Pachinko Paradise 2: Umi Monogatari Special | 55942 | [55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json](./55942-sanyo-pachinko-paradise-2-umi-monogatari-special.json) |
 | Sanyo Pachinko Paradise 3 | 55927 | [55927-sanyo-pachinko-paradise-3.json](./55927-sanyo-pachinko-paradise-3.json) |
+| Sapiens League | 232437 | [232437-sapiens-league.json](./232437-sapiens-league.json) |
 | Sapling Wars | 333008 | [333008-sapling-wars.json](./333008-sapling-wars.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
@@ -3529,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stabjack | 353295 | [353295-stabjack.json](./353295-stabjack.json) |
 | Stable Masters | 206975 | [206975-stable-masters.json](./206975-stable-masters.json) |
 | Stack Jump | 87657 | [87657-stack-jump.json](./87657-stack-jump.json) |
+| Stack Machines | 232434 | [232434-stack-machines.json](./232434-stack-machines.json) |
 | Stack Order | 388009 | [388009-stack-order.json](./388009-stack-order.json) |
 | Stack Pro | 96068 | [96068-stack-pro.json](./96068-stack-pro.json) |
 | Stack the Countries | 174326 | [174326-stack-the-countries.json](./174326-stack-the-countries.json) |
