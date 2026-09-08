@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
 | Bad Mothafucka | 281368 | [281368-bad-mothafucka.json](./281368-bad-mothafucka.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
@@ -1034,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
 | Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
 | Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
+| Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
 | Bestiary of the Mountains and Seas | 343823 | [343823-bestiary-of-the-mountains-and-seas.json](./343823-bestiary-of-the-mountains-and-seas.json) |
 | Bestiary Survivors | 290713 | [290713-bestiary-survivors.json](./290713-bestiary-survivors.json) |
