@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Dash - Ronin Jump RPG | 104648 | [104648-ninja-dash-ronin-jump-rpg.json](./104648-ninja-dash-ronin-jump-rpg.json) |
 | Ninja Epic Adventure | 147458 | [147458-ninja-epic-adventure.json](./147458-ninja-epic-adventure.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
+| Ninja Fishing | 228412 | [228412-ninja-fishing.json](./228412-ninja-fishing.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden 3: Razor's Edge | 5317 | [5317-ninja-gaiden-3-razors-edge.json](./5317-ninja-gaiden-3-razors-edge.json) |
@@ -938,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
+| No T!me No Space | 228431 | [228431-no-t-me-no-space.json](./228431-no-t-me-no-space.json) |
 | No Thoughts Just Dodge | 413689 | [413689-no-thoughts-just-dodge.json](./413689-no-thoughts-just-dodge.json) |
 | No Throwing | 341487 | [341487-no-throwing.json](./341487-no-throwing.json) |
 | No Ticket Back: Craft, Survive & Escape | 290945 | [290945-no-ticket-back-craft-survive-and-escape.json](./290945-no-ticket-back-craft-survive-and-escape.json) |
