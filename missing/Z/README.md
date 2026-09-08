@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies and Orcs | 327822 | [327822-zombies-and-orcs.json](./327822-zombies-and-orcs.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
+| Zombies TD | 213404 | [213404-zombies-td.json](./213404-zombies-td.json) |
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
 | Zombies vs. You | 289339 | [289339-zombies-vs-you.json](./289339-zombies-vs-you.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
@@ -303,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Trip | 264036 | [264036-zone-trip.json](./264036-zone-trip.json) |
 | ZoneDriver | 76558 | [76558-zonedriver.json](./76558-zonedriver.json) |
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
+| Zoo Chess | 213403 | [213403-zoo-chess.json](./213403-zoo-chess.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zoo Keeper 3D | 222337 | [222337-zoo-keeper-3d.json](./222337-zoo-keeper-3d.json) |
 | Zoo Merge | 349307 | [349307-zoo-merge.json](./349307-zoo-merge.json) |
