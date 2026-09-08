@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Li'l Rumble | 284353 | [284353-lil-rumble.json](./284353-lil-rumble.json) |
 | Liam FitzRoy Kills Everyone: The Game Part Zero | 278746 | [278746-liam-fitzroy-kills-everyone-the-game-part-zero.json](./278746-liam-fitzroy-kills-everyone-the-game-part-zero.json) |
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
+| Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
 | Liar Trick: Psychological Crime Mystery | 163961 | [163961-liar-trick-psychological-crime-mystery.json](./163961-liar-trick-psychological-crime-mystery.json) |
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
@@ -973,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
+| Little Wu Chang | 216797 | [216797-little-wu-chang.json](./216797-little-wu-chang.json) |
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
