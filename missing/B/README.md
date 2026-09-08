@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
+| Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
 | Biggest Impossible Ramp Ever | 100895 | [100895-biggest-impossible-ramp-ever.json](./100895-biggest-impossible-ramp-ever.json) |
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
@@ -1756,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
+| Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
 | Bobble Bash | 265657 | [265657-bobble-bash.json](./265657-bobble-bash.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
