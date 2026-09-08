@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Elements | 29861 | [29861-five-elements.json](./29861-five-elements.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Fold Tower | 311819 | [311819-five-fold-tower.json](./311819-five-fold-tower.json) |
+| Five in One | 210648 | [210648-five-in-one.json](./210648-five-in-one.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
@@ -1649,6 +1650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four color jumps | 152905 | [152905-four-color-jumps.json](./152905-four-color-jumps.json) |
 | Four Gods M | 200749 | [200749-four-gods-m.json](./200749-four-gods-m.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
+| Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
@@ -1875,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Family Fort | 175963 | [175963-froggy-family-fort.json](./175963-froggy-family-fort.json) |
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
+| Froglin Friend and the White Tower: Pt1 | 210692 | [210692-froglin-friend-and-the-white-tower-pt1.json](./210692-froglin-friend-and-the-white-tower-pt1.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
