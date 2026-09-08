@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
 | Level Up Boxing VR | 270115 | [270115-level-up-boxing-vr.json](./270115-level-up-boxing-vr.json) |
 | Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
+| Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
 | Leviaclaw | 379877 | [379877-leviaclaw.json](./379877-leviaclaw.json) |
@@ -1124,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Star | 131618 | [131618-long-star.json](./131618-long-star.json) |
 | Longboard Stunts and Tricks | 99618 | [99618-longboard-stunts-and-tricks.json](./99618-longboard-stunts-and-tricks.json) |
 | Longevity Yin and Yang | 375865 | [375865-longevity-yin-and-yang.json](./375865-longevity-yin-and-yang.json) |
+| Longeyed Proj. | 223429 | [223429-longeyed-proj.json](./223429-longeyed-proj.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
