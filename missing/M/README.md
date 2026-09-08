@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
+| MicroCrawl | 238489 | [238489-microcrawl.json](./238489-microcrawl.json) |
 | MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
@@ -1673,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
 | Mimic Search | 278678 | [278678-mimic-search.json](./278678-mimic-search.json) |
 | Mimic Sleuth | 355031 | [355031-mimic-sleuth.json](./355031-mimic-sleuth.json) |
+| Mimics the Bots | 238514 | [238514-mimics-the-bots.json](./238514-mimics-the-bots.json) |
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
 | Mimpi Hidden Objects | 242561 | [242561-mimpi-hidden-objects.json](./242561-mimpi-hidden-objects.json) |
 | Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
@@ -2062,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moccoletti | 302381 | [302381-moccoletti.json](./302381-moccoletti.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi's Dreamland | 395579 | [395579-mochis-dreamland.json](./395579-mochis-dreamland.json) |
+| Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
 | Mod Mage Mike | 310743 | [310743-mod-mage-mike.json](./310743-mod-mage-mike.json) |
 | Mode | 61659 | [61659-mode.json](./61659-mode.json) |
 | Model 3 Test Drive | 96057 | [96057-model-3-test-drive.json](./96057-model-3-test-drive.json) |
@@ -2801,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugen RPG | 301613 | [301613-mugen-rpg.json](./301613-mugen-rpg.json) |
 | Mugen Souls Z | 11503 | [11503-mugen-souls-z.json](./11503-mugen-souls-z.json) |
 | Muggo Clicker | 311479 | [311479-muggo-clicker.json](./311479-muggo-clicker.json) |
+| Mughaan | 238522 | [238522-mughaan.json](./238522-mughaan.json) |
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
 | Mühle-Online | 84275 | [84275-muhle-online.json](./84275-muhle-online.json) |
 | Mujina: Maze Game VR | 261504 | [261504-mujina-maze-game-vr.json](./261504-mujina-maze-game-vr.json) |
@@ -3130,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sudoku: Classic 9x9 Medium 2 | 321995 | [321995-my-sudoku-classic-9x9-medium-2.json](./321995-my-sudoku-classic-9x9-medium-2.json) |
 | My Sudoku: Classic 9x9 Medium 3 | 321976 | [321976-my-sudoku-classic-9x9-medium-3.json](./321976-my-sudoku-classic-9x9-medium-3.json) |
 | My Summer Adventure: Memories of Another Life - Day 1 | 240809 | [240809-my-summer-adventure-memories-of-another-life-day-1.json](./240809-my-summer-adventure-memories-of-another-life-day-1.json) |
+| My Summer Jobs: Dialing for Dreams! | 238513 | [238513-my-summer-jobs-dialing-for-dreams.json](./238513-my-summer-jobs-dialing-for-dreams.json) |
 | My Summer Love | 391596 | [391596-my-summer-love.json](./391596-my-summer-love.json) |
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
