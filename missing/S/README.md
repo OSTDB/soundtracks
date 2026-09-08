@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharp Shot | 5696 | [5696-sharp-shot.json](./5696-sharp-shot.json) |
 | Sharp Trigger | 349845 | [349845-sharp-trigger.json](./349845-sharp-trigger.json) |
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
+| Sharper Minds: Brain Games | 255724 | [255724-sharper-minds-brain-games.json](./255724-sharper-minds-brain-games.json) |
 | SharpShooter3D | 336568 | [336568-sharpshooter3d.json](./336568-sharpshooter3d.json) |
 | Shashingo: Learn Japanese with Photography - Additional Camera Filters | 298044 | [298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json](./298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json) |
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
@@ -1871,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
 | Slayser | 238760 | [238760-slayser.json](./238760-slayser.json) |
+| Sled Bandit | 255731 | [255731-sled-bandit.json](./255731-sled-bandit.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
 | Sleep Clock: Record and Analyse Your Sleep Patterns | 84883 | [84883-sleep-clock-record-and-analyse-your-sleep-patterns.json](./84883-sleep-clock-record-and-analyse-your-sleep-patterns.json) |
 | Sleep Is Death | 20664 | [20664-sleep-is-death.json](./20664-sleep-is-death.json) |
@@ -2800,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Chimps | 5172 | [5172-space-chimps.json](./5172-space-chimps.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
+| Space Combat: Galaxy Wars | 255726 | [255726-space-combat-galaxy-wars.json](./255726-space-combat-galaxy-wars.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
 | Space Conquest: A Galactic Odyssey | 73295 | [73295-space-conquest-a-galactic-odyssey.json](./73295-space-conquest-a-galactic-odyssey.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
@@ -2848,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
+| Space Inversion Puzzle | 255720 | [255720-space-inversion-puzzle.json](./255720-space-inversion-puzzle.json) |
 | Space is Key Christmas | 408824 | [408824-space-is-key-christmas.json](./408824-space-is-key-christmas.json) |
 | Space Is Red | 379341 | [379341-space-is-red.json](./379341-space-is-red.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
@@ -3917,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of You: The Allied Kingdoms | 193477 | [193477-story-of-you-the-allied-kingdoms.json](./193477-story-of-you-the-allied-kingdoms.json) |
 | Storyblocks + Cat Games + Soko Games | 335100 | [335100-storyblocks-cat-games-soko-games.json](./335100-storyblocks-cat-games-soko-games.json) |
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
+| StoryKingdom | 255706 | [255706-storykingdom.json](./255706-storykingdom.json) |
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
@@ -4403,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
+| Super Final Strike | 255736 | [255736-super-final-strike.json](./255736-super-final-strike.json) |
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
@@ -4997,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
+| Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
 | Sweet Time | 280236 | [280236-sweet-time.json](./280236-sweet-time.json) |
