@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Hunters for the Secret | 208008 | [208008-hidden-object-hunters-for-the-secret.json](./208008-hidden-object-hunters-for-the-secret.json) |
 | Hidden Object: Missing Violin - Amazing Adventures | 200198 | [200198-hidden-object-missing-violin-amazing-adventures.json](./200198-hidden-object-missing-violin-amazing-adventures.json) |
 | Hidden Object: Missing Violins! - Premium | 213644 | [213644-hidden-object-missing-violins-premium.json](./213644-hidden-object-missing-violins-premium.json) |
+| Hidden Object: Mystery of Mysteries of the Aztecs | 242570 | [242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json](./242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json) |
 | Hidden Object: Travel to Future - Ancient Portals | 261529 | [261529-hidden-object-travel-to-future-ancient-portals.json](./261529-hidden-object-travel-to-future-ancient-portals.json) |
 | Hidden Object: Underground Treasures Gold | 233224 | [233224-hidden-object-underground-treasures-gold.json](./233224-hidden-object-underground-treasures-gold.json) |
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
