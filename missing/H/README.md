@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no Hiragana Katakana Onamae Kaitemiyou | 279600 | [279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json](./279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json) |
 | Hello Kitty no Magical Museum | 50562 | [50562-hello-kitty-no-magical-museum.json](./50562-hello-kitty-no-magical-museum.json) |
 | Hello Kitty no Sutekina Otanjoubi | 279602 | [279602-hello-kitty-no-sutekina-otanjoubi.json](./279602-hello-kitty-no-sutekina-otanjoubi.json) |
+| Hello Kitty no Tanoshii Okaimono | 230272 | [230272-hello-kitty-no-tanoshii-okaimono.json](./230272-hello-kitty-no-tanoshii-okaimono.json) |
 | Hello Kitty no Tanoshii Omiseyasan | 279604 | [279604-hello-kitty-no-tanoshii-omiseyasan.json](./279604-hello-kitty-no-tanoshii-omiseyasan.json) |
 | Hello Kitty no Waku-waku Quiz | 61677 | [61677-hello-kitty-no-waku-waku-quiz.json](./61677-hello-kitty-no-waku-waku-quiz.json) |
 | Hello Kitty Racing Adventures | 279606 | [279606-hello-kitty-racing-adventures.json](./279606-hello-kitty-racing-adventures.json) |
