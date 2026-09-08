@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
+| Alwa's Awakening & Cathedral | 214532 | [214532-alwas-awakening-and-cathedral.json](./214532-alwas-awakening-and-cathedral.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
