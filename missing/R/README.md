@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
+| RWBY: Vale of Darkness | 236806 | [236806-rwby-vale-of-darkness.json](./236806-rwby-vale-of-darkness.json) |
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
