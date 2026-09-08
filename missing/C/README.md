@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Hannon: The Belanzano | 129759 | [129759-captain-hannon-the-belanzano.json](./129759-captain-hannon-the-belanzano.json) |
 | Captain Hardcore | 278686 | [278686-captain-hardcore.json](./278686-captain-hardcore.json) |
 | Captain Jackson | 190231 | [190231-captain-jackson.json](./190231-captain-jackson.json) |
+| Captain Knick Knack | 210641 | [210641-captain-knick-knack.json](./210641-captain-knick-knack.json) |
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain Meow | 239672 | [239672-captain-meow.json](./239672-captain-meow.json) |
 | Captain Morgane and the Golden Turtle | 6654 | [6654-captain-morgane-and-the-golden-turtle.json](./6654-captain-morgane-and-the-golden-turtle.json) |
@@ -1004,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
 | Chi Busters | 111738 | [111738-chi-busters.json](./111738-chi-busters.json) |
 | Chi Project | 324315 | [324315-chi-project.json](./324315-chi-project.json) |
+| Chiaroscuro: O Jogo | 210649 | [210649-chiaroscuro-o-jogo.json](./210649-chiaroscuro-o-jogo.json) |
 | Chibi 3D Online RPG Sandbox | 300372 | [300372-chibi-3d-online-rpg-sandbox.json](./300372-chibi-3d-online-rpg-sandbox.json) |
 | Chibi Charger | 338562 | [338562-chibi-charger.json](./338562-chibi-charger.json) |
 | Chibi Devi! | 222291 | [222291-chibi-devi.json](./222291-chibi-devi.json) |
@@ -1667,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
 | Coffee Noir | 27795 | [27795-coffee-noir.json](./27795-coffee-noir.json) |
 | Coffee Quake 2: Double Shot | 271194 | [271194-coffee-quake-2-double-shot.json](./271194-coffee-quake-2-double-shot.json) |
+| Coffee Run | 210667 | [210667-coffee-run.json](./210667-coffee-run.json) |
 | Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
 | Coffee VendoR | 113685 | [113685-coffee-vendor.json](./113685-coffee-vendor.json) |
 | Coffee with Prescilla | 169428 | [169428-coffee-with-prescilla.json](./169428-coffee-with-prescilla.json) |
@@ -2142,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
 | Cornucopia of Kaizo | 330124 | [330124-cornucopia-of-kaizo.json](./330124-cornucopia-of-kaizo.json) |
+| Corny Crush | 210691 | [210691-corny-crush.json](./210691-corny-crush.json) |
 | Coromon: Rogue Planet | 315506 | [315506-coromon-rogue-planet.json](./315506-coromon-rogue-planet.json) |
 | Corona Blossom Vol.1 Gift From the Galaxy | 32228 | [32228-corona-blossom-vol-1-gift-from-the-galaxy.json](./32228-corona-blossom-vol-1-gift-from-the-galaxy.json) |
 | Corona MotorSport | 35926 | [35926-corona-motorsport.json](./35926-corona-motorsport.json) |
