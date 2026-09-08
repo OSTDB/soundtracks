@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Have a nice day! - Limited Edition | 146335 | [146335-laid-back-camp-have-a-nice-day-limited-edition.json](./146335-laid-back-camp-have-a-nice-day-limited-edition.json) |
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
+| Lair of Anubis | 236303 | [236303-lair-of-anubis.json](./236303-lair-of-anubis.json) |
 | Lair Of The Dragon Ogre | 271735 | [271735-lair-of-the-dragon-ogre.json](./271735-lair-of-the-dragon-ogre.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
 | Lair of Torment | 266799 | [266799-lair-of-torment.json](./266799-lair-of-torment.json) |
@@ -914,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
+| Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
@@ -932,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
+| Little Trouble on Tribuda Island | 236281 | [236281-little-trouble-on-tribuda-island.json](./236281-little-trouble-on-tribuda-island.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
@@ -1135,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorch 3 | 270655 | [270655-lorch-3.json](./270655-lorch-3.json) |
 | Lorch: Abducted | 270682 | [270682-lorch-abducted.json](./270682-lorch-abducted.json) |
 | Lord and Maiden | 404869 | [404869-lord-and-maiden.json](./404869-lord-and-maiden.json) |
+| Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
 | Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
