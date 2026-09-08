@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neanderthal Man | 13742 | [13742-neanderthal-man.json](./13742-neanderthal-man.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
 | Near Mint | 399599 | [399599-near-mint.json](./399599-near-mint.json) |
+| Near Sol | 220629 | [220629-near-sol.json](./220629-near-sol.json) |
 | Near-Mage + Gibbous: The Kittehverse | 403584 | [403584-near-mage-gibbous-the-kittehverse.json](./403584-near-mage-gibbous-the-kittehverse.json) |
 | Near-Mage: Clothes & Hair Pack | 403585 | [403585-near-mage-clothes-and-hair-pack.json](./403585-near-mage-clothes-and-hair-pack.json) |
 | NearEscape | 109685 | [109685-nearescape.json](./109685-nearescape.json) |
@@ -261,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
 | Necronator | 304048 | [304048-necronator.json](./304048-necronator.json) |
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
+| NecroNomNomNom: Eldritch Horror Dating | 220638 | [220638-necronomnomnom-eldritch-horror-dating.json](./220638-necronomnomnom-eldritch-horror-dating.json) |
 | Necrophobia | 296345 | [296345-necrophobia.json](./296345-necrophobia.json) |
 | Necrophoresis | 277271 | [277271-necrophoresis.json](./277271-necrophoresis.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
