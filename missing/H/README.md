@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
 | Hey Ma I'm a Dragon Now | 279586 | [279586-hey-ma-im-a-dragon-now.json](./279586-hey-ma-im-a-dragon-now.json) |
+| Hi Eggplant: The Birth of Sprites | 245850 | [245850-hi-eggplant-the-birth-of-sprites.json](./245850-hi-eggplant-the-birth-of-sprites.json) |
 | Hi-5 DVD Game | 274991 | [274991-hi-5-dvd-game.json](./274991-hi-5-dvd-game.json) |
 | Hi-5: Fun & Games | 274993 | [274993-hi-5-fun-and-games.json](./274993-hi-5-fun-and-games.json) |
 | Hi-5: Fun Club | 274992 | [274992-hi-5-fun-club.json](./274992-hi-5-fun-club.json) |
@@ -1332,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | Hong Kong Mahjong | 334661 | [334661-hong-kong-mahjong.json](./334661-hong-kong-mahjong.json) |
 | Hong Kong Mahjong Pro | 79933 | [79933-hong-kong-mahjong-pro.json](./79933-hong-kong-mahjong-pro.json) |
+| Hong Kong Obscure | 245861 | [245861-hong-kong-obscure.json](./245861-hong-kong-obscure.json) |
 | Hong Kong Phooey: No.1 Super Guy | 71528 | [71528-hong-kong-phooey-no-1-super-guy.json](./71528-hong-kong-phooey-no-1-super-guy.json) |
 | Honjou Rendoku to Ushinawareta Nachlass | 398976 | [398976-honjou-rendoku-to-ushinawareta-nachlass.json](./398976-honjou-rendoku-to-ushinawareta-nachlass.json) |
 | Honk of Heroes | 293641 | [293641-honk-of-heroes.json](./293641-honk-of-heroes.json) |
