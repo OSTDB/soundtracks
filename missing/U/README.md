@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultron | 57133 | [57133-ultron.json](./57133-ultron.json) |
 | Um Jammer Lammy Now | 243420 | [243420-um-jammer-lammy-now.json](./243420-um-jammer-lammy-now.json) |
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
+| Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
 | Umbra | 95415 | [95415-umbra.json](./95415-umbra.json) |
