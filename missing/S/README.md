@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Girl | 343801 | [343801-sleepy-girl.json](./343801-sleepy-girl.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
+| Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
@@ -2105,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
 | Slingshot: The Bump Challenge | 108470 | [108470-slingshot-the-bump-challenge.json](./108470-slingshot-the-bump-challenge.json) |
+| Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
 | Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
@@ -2172,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Drums: Pop Rock Legends | 306954 | [306954-smash-drums-pop-rock-legends.json](./306954-smash-drums-pop-rock-legends.json) |
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
 | Smash Hit | 39239 | [39239-smash-hit.json](./39239-smash-hit.json) |
+| Smash Hyper Drive | 220667 | [220667-smash-hyper-drive.json](./220667-smash-hyper-drive.json) |
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
@@ -3008,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
+| Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
 | Space Cat Solitaire | 368471 | [368471-space-cat-solitaire.json](./368471-space-cat-solitaire.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
 | Space Chimps | 5172 | [5172-space-chimps.json](./5172-space-chimps.json) |
@@ -3147,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
 | Space Viking Raiders | 74469 | [74469-space-viking-raiders.json](./74469-space-viking-raiders.json) |
 | Space Vikings | 261551 | [261551-space-vikings.json](./261551-space-vikings.json) |
+| Space Voyage: The Puzzle Game | 220668 | [220668-space-voyage-the-puzzle-game.json](./220668-space-voyage-the-puzzle-game.json) |
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Warlord Baby Trading Simulator | 380432 | [380432-space-warlord-baby-trading-simulator.json](./380432-space-warlord-baby-trading-simulator.json) |
 | Space Wars | 187507 | [187507-space-wars.json](./187507-space-wars.json) |
@@ -3369,9 +3374,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
+| Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
+| Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
@@ -4271,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
 | Street Basket Challenge | 236833 | [236833-street-basket-challenge.json](./236833-street-basket-challenge.json) |
 | Street Bike: Full Blast HD | 20742 | [20742-street-bike-full-blast-hd.json](./20742-street-bike-full-blast-hd.json) |
+| Street Boy | 220646 | [220646-street-boy.json](./220646-street-boy.json) |
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Defenders | 357270 | [357270-street-defenders.json](./357270-street-defenders.json) |
@@ -4316,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
 | Street Totochèr | 288760 | [288760-street-totocher.json](./288760-street-totocher.json) |
+| Street volleyball: Invitation | 220671 | [220671-street-volleyball-invitation.json](./220671-street-volleyball-invitation.json) |
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
 | Streetbike: Full Blast | 20722 | [20722-streetbike-full-blast.json](./20722-streetbike-full-blast.json) |
