@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Tactics Gold | 36292 | [36292-advanced-tactics-gold.json](./36292-advanced-tactics-gold.json) |
 | Advanced Thinking Skills | 305166 | [305166-advanced-thinking-skills.json](./305166-advanced-thinking-skills.json) |
 | Advancing Chess | 296352 | [296352-advancing-chess.json](./296352-advancing-chess.json) |
+| Advendows Calendar OS 2022 | 229038 | [229038-advendows-calendar-os-2022.json](./229038-advendows-calendar-os-2022.json) |
 | Advenger of Stuart | 236271 | [236271-advenger-of-stuart.json](./236271-advenger-of-stuart.json) |
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
 | Asaki, Yumemishi | 56524 | [56524-asaki-yumemishi.json](./56524-asaki-yumemishi.json) |
 | Asbury Pines | 258480 | [258480-asbury-pines.json](./258480-asbury-pines.json) |
+| Ascape | 229046 | [229046-ascape.json](./229046-ascape.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
