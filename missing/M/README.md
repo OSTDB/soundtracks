@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Sure It's Closed | 176491 | [176491-make-sure-its-closed.json](./176491-make-sure-its-closed.json) |
 | Make the Border Great Again: Visa Officer Simulator | 326401 | [326401-make-the-border-great-again-visa-officer-simulator.json](./326401-make-the-border-great-again-visa-officer-simulator.json) |
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
+| Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
@@ -991,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Parts Collection | 92533 | [92533-medarot-parts-collection.json](./92533-medarot-parts-collection.json) |
 | Medarot Parts Collection 2 | 92534 | [92534-medarot-parts-collection-2.json](./92534-medarot-parts-collection-2.json) |
 | Medarot R Parts Collection | 92537 | [92537-medarot-r-parts-collection.json](./92537-medarot-r-parts-collection.json) |
+| Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
 | Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
@@ -1283,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
 | Merchant | 7714 | [7714-merchant.json](./7714-merchant.json) |
+| Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
@@ -2241,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
+| Monster Bar | 240784 | [240784-monster-bar.json](./240784-monster-bar.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
 | Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
@@ -3114,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sudoku: Classic 9x9 Medium 1 | 321978 | [321978-my-sudoku-classic-9x9-medium-1.json](./321978-my-sudoku-classic-9x9-medium-1.json) |
 | My Sudoku: Classic 9x9 Medium 2 | 321995 | [321995-my-sudoku-classic-9x9-medium-2.json](./321995-my-sudoku-classic-9x9-medium-2.json) |
 | My Sudoku: Classic 9x9 Medium 3 | 321976 | [321976-my-sudoku-classic-9x9-medium-3.json](./321976-my-sudoku-classic-9x9-medium-3.json) |
+| My Summer Adventure: Memories of Another Life - Day 1 | 240809 | [240809-my-summer-adventure-memories-of-another-life-day-1.json](./240809-my-summer-adventure-memories-of-another-life-day-1.json) |
 | My Summer Love | 391596 | [391596-my-summer-love.json](./391596-my-summer-love.json) |
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
 | My Sweet Roomies | 378198 | [378198-my-sweet-roomies.json](./378198-my-sweet-roomies.json) |
