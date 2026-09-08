@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
 | What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
+| What's Your Emergency | 220641 | [220641-whats-your-emergency.json](./220641-whats-your-emergency.json) |
 | Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
@@ -752,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
+| Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
 | Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
@@ -963,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
+| Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
 | Within the Range | 391045 | [391045-within-the-range.json](./391045-within-the-range.json) |
 | Within Whispers: The Fall | 61652 | [61652-within-whispers-the-fall.json](./61652-within-whispers-the-fall.json) |
 | Within: Hannah's Journey | 304011 | [304011-within-hannahs-journey.json](./304011-within-hannahs-journey.json) |
@@ -1013,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wobbl | 192963 | [192963-wobbl.json](./192963-wobbl.json) |
 | Wobble Warriors | 261558 | [261558-wobble-warriors.json](./261558-wobble-warriors.json) |
 | Wobbly Bobbly | 69882 | [69882-wobbly-bobbly.json](./69882-wobbly-bobbly.json) |
+| Wok Planet | 220628 | [220628-wok-planet.json](./220628-wok-planet.json) |
 | Woke or Nah | 355532 | [355532-woke-or-nah.json](./355532-woke-or-nah.json) |
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Wolf | 9573 | [9573-wolf.json](./9573-wolf.json) |
@@ -1261,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War Alpha | 261288 | [261288-world-war-alpha.json](./261288-world-war-alpha.json) |
+| World War Battle Simulator | 220643 | [220643-world-war-battle-simulator.json](./220643-world-war-battle-simulator.json) |
 | World War Battleship: The Hunting in Deep Sea | 212473 | [212473-world-war-battleship-the-hunting-in-deep-sea.json](./212473-world-war-battleship-the-hunting-in-deep-sea.json) |
 | World War Heroes: WW2 FPS Shooter! | 96747 | [96747-world-war-heroes-ww2-fps-shooter.json](./96747-world-war-heroes-ww2-fps-shooter.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
@@ -1333,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrain | 302348 | [302348-wrain.json](./302348-wrain.json) |
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
+| Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
 | Wrath of the Arcane Realms | 387377 | [387377-wrath-of-the-arcane-realms.json](./387377-wrath-of-the-arcane-realms.json) |
