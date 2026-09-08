@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Dream | 312578 | [312578-virtual-dream.json](./312578-virtual-dream.json) |
 | Virtual Driving School | 404840 | [404840-virtual-driving-school.json](./404840-virtual-driving-school.json) |
 | Virtual Escape: Digital World | 167838 | [167838-virtual-escape-digital-world.json](./167838-virtual-escape-digital-world.json) |
+| Virtual Families 3 | 239674 | [239674-virtual-families-3.json](./239674-virtual-families-3.json) |
 | Virtual Families Cook Off: Chapter 2 - Farm Life | 248660 | [248660-virtual-families-cook-off-chapter-2-farm-life.json](./248660-virtual-families-cook-off-chapter-2-farm-life.json) |
 | Virtual Families: Cook Off | 219278 | [219278-virtual-families-cook-off.json](./219278-virtual-families-cook-off.json) |
 | Virtual Fishing | 50597 | [50597-virtual-fishing.json](./50597-virtual-fishing.json) |
