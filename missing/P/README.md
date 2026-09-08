@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
+| Parcel Problems | 239061 | [239061-parcel-problems.json](./239061-parcel-problems.json) |
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
@@ -975,7 +976,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Charity Pack | 308577 | [308577-pinball-fx-charity-pack.json](./308577-pinball-fx-charity-pack.json) |
 | Pinball FX: Earth Defense | 395548 | [395548-pinball-fx-earth-defense.json](./395548-pinball-fx-earth-defense.json) |
 | Pinball FX: Excalibur | 395549 | [395549-pinball-fx-excalibur.json](./395549-pinball-fx-excalibur.json) |
+| Pinball FX: Garfield Pinball | 239031 | [239031-pinball-fx-garfield-pinball.json](./239031-pinball-fx-garfield-pinball.json) |
+| Pinball FX: Gearbox Pinball | 239030 | [239030-pinball-fx-gearbox-pinball.json](./239030-pinball-fx-gearbox-pinball.json) |
 | Pinball FX: Nightmare Mansion | 395547 | [395547-pinball-fx-nightmare-mansion.json](./395547-pinball-fx-nightmare-mansion.json) |
+| Pinball FX: Peanuts' Snoopy Pinball | 239029 | [239029-pinball-fx-peanuts-snoopy-pinball.json](./239029-pinball-fx-peanuts-snoopy-pinball.json) |
 | Pinball FX: Rocky and Bullwinkle | 395546 | [395546-pinball-fx-rocky-and-bullwinkle.json](./395546-pinball-fx-rocky-and-bullwinkle.json) |
 | Pinball FX: Street Fighter II Tribute | 395551 | [395551-pinball-fx-street-fighter-ii-tribute.json](./395551-pinball-fx-street-fighter-ii-tribute.json) |
 | Pinball FX2 | 79328 | [79328-pinball-fx2.json](./79328-pinball-fx2.json) |
