@@ -149,6 +149,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
 | Zippy Zombi | 73813 | [73813-zippy-zombi.json](./73813-zippy-zombi.json) |
+| ZJ the Ball Challenge: Level 1C | 214512 | [214512-zj-the-ball-challenge-level-1c.json](./214512-zj-the-ball-challenge-level-1c.json) |
+| ZJ the Ball Challenge: Level 2C | 214511 | [214511-zj-the-ball-challenge-level-2c.json](./214511-zj-the-ball-challenge-level-2c.json) |
+| ZJ the Ball Challenge: Level 3C | 214502 | [214502-zj-the-ball-challenge-level-3c.json](./214502-zj-the-ball-challenge-level-3c.json) |
+| ZJ the Ball Challenge: Level 4C | 214501 | [214501-zj-the-ball-challenge-level-4c.json](./214501-zj-the-ball-challenge-level-4c.json) |
 | ZJ the Ball: Special | 229078 | [229078-zj-the-ball-special.json](./229078-zj-the-ball-special.json) |
 | Zjawa: Bloodstained Soul | 374587 | [374587-zjawa-bloodstained-soul.json](./374587-zjawa-bloodstained-soul.json) |
 | Zlalox | 302949 | [302949-zlalox.json](./302949-zlalox.json) |
