@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
 | Vader Immortal: A Star Wars VR Series | 125987 | [125987-vader-immortal-a-star-wars-vr-series.json](./125987-vader-immortal-a-star-wars-vr-series.json) |
 | Vae Victis: Khan | 267671 | [267671-vae-victis-khan.json](./267671-vae-victis-khan.json) |
+| Vae Victus 2 | 256862 | [256862-vae-victus-2.json](./256862-vae-victus-2.json) |
 | Vagabond Inn | 284346 | [284346-vagabond-inn.json](./284346-vagabond-inn.json) |
 | Vagabond's Quest | 312379 | [312379-vagabonds-quest.json](./312379-vagabonds-quest.json) |
 | Vagabond's Quest 2 | 312380 | [312380-vagabonds-quest-2.json](./312380-vagabonds-quest-2.json) |
