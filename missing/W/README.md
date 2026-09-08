@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warka Flarka Flim Flam | 29942 | [29942-warka-flarka-flim-flam.json](./29942-warka-flarka-flim-flam.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
 | Warlanes | 301264 | [301264-warlanes.json](./301264-warlanes.json) |
+| WarLeague | 230308 | [230308-warleague.json](./230308-warleague.json) |
 | Warlings 2: Total Armageddon | 280185 | [280185-warlings-2-total-armageddon.json](./280185-warlings-2-total-armageddon.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
 | Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
@@ -749,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
 | Wild Ride | 12973 | [12973-wild-ride.json](./12973-wild-ride.json) |
 | Wild Rides: WaterPark Factory | 205807 | [205807-wild-rides-waterpark-factory.json](./205807-wild-rides-waterpark-factory.json) |
+| Wild River Run | 230311 | [230311-wild-river-run.json](./230311-wild-river-run.json) |
 | Wild Romance | 32335 | [32335-wild-romance.json](./32335-wild-romance.json) |
 | Wild Script: Nature | 319348 | [319348-wild-script-nature.json](./319348-wild-script-nature.json) |
 | Wild Seasons | 273383 | [273383-wild-seasons.json](./273383-wild-seasons.json) |
@@ -1203,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Claudecraft | 408050 | [408050-world-of-claudecraft.json](./408050-world-of-claudecraft.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
+| World of Football | 230297 | [230297-world-of-football.json](./230297-world-of-football.json) |
 | World of Goo Remastered | 250935 | [250935-world-of-goo-remastered.json](./250935-world-of-goo-remastered.json) |
 | World of Mines: Creators Edition | 235206 | [235206-world-of-mines-creators-edition.json](./235206-world-of-mines-creators-edition.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
