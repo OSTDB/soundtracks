@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
 | Edens Zero Deluxe Edition | 336887 | [336887-edens-zero-deluxe-edition.json](./336887-edens-zero-deluxe-edition.json) |
 | Edens Zero: Pocket Galaxy | 174888 | [174888-edens-zero-pocket-galaxy.json](./174888-edens-zero-pocket-galaxy.json) |
+| Edentopia | 245882 | [245882-edentopia.json](./245882-edentopia.json) |
 | EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge Of Dread | 388723 | [388723-edge-of-dread.json](./388723-edge-of-dread.json) |
@@ -1042,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
+| Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
