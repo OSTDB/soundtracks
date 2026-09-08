@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
+| Alien Dead | 229715 | [229715-alien-dead.json](./229715-alien-dead.json) |
 | Alien Defense Unit | 216464 | [216464-alien-defense-unit.json](./216464-alien-defense-unit.json) |
 | Alien Disaster | 135272 | [135272-alien-disaster.json](./135272-alien-disaster.json) |
 | Alien Dropout | 15593 | [15593-alien-dropout.json](./15593-alien-dropout.json) |
