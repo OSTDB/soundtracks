@@ -73,6 +73,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalzoon | 226450 | [226450-kalzoon.json](./226450-kalzoon.json) |
 | KaM Remake | 190698 | [190698-kam-remake.json](./190698-kam-remake.json) |
 | Kamaeru: A Frog Refuge | 252773 | [252773-kamaeru-a-frog-refuge.json](./252773-kamaeru-a-frog-refuge.json) |
+| Kame Paradise 2 | 231389 | [231389-kame-paradise-2.json](./231389-kame-paradise-2.json) |
+| Kame Paradise 3 Multiversex | 231391 | [231391-kame-paradise-3-multiversex.json](./231391-kame-paradise-3-multiversex.json) |
 | Kamek's Midnight Flight | 250035 | [250035-kameks-midnight-flight.json](./250035-kameks-midnight-flight.json) |
 | Kamen Rider Agito & Kuuga: Wild Battle | 62742 | [62742-kamen-rider-agito-and-kuuga-wild-battle.json](./62742-kamen-rider-agito-and-kuuga-wild-battle.json) |
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
