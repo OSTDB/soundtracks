@@ -2986,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
 | Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
+| Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
