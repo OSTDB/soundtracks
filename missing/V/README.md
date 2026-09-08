@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
 | Victory is Justice! | 117092 | [117092-victory-is-justice.json](./117092-victory-is-justice.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
+| Victory Zone: Real Pachinko Simulator | 255086 | [255086-victory-zone-real-pachinko-simulator.json](./255086-victory-zone-real-pachinko-simulator.json) |
 | Victory: The Age of Racing | 16850 | [16850-victory-the-age-of-racing.json](./16850-victory-the-age-of-racing.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VTuber Battle: It’s Not About Subscribers! It’s All About Power! | 331888 | [331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json](./331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json) |
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
+| Vulture: Unlimited Frontier - 0 | 255130 | [255130-vulture-unlimited-frontier-0.json](./255130-vulture-unlimited-frontier-0.json) |
 | VVVVVV | 1990 | [1990-vvvvvv.json](./1990-vvvvvv.json) |
 | Vyanka's Memories | 307943 | [307943-vyankas-memories.json](./307943-vyankas-memories.json) |
 | Vysions | 290957 | [290957-vysions.json](./290957-vysions.json) |
