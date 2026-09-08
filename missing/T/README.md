@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
 | TeknoKinetica | 316625 | [316625-teknokinetica.json](./316625-teknokinetica.json) |
+| Tekoha: A Tale Among the Stars | 237343 | [237343-tekoha-a-tale-among-the-stars.json](./237343-tekoha-a-tale-among-the-stars.json) |
 | Teku | 274499 | [274499-teku.json](./274499-teku.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
 | The Abominable Snowmen | 15586 | [15586-the-abominable-snowmen.json](./15586-the-abominable-snowmen.json) |
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
+| The Abyss | 237353 | [237353-the-abyss.json](./237353-the-abyss.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Abyssal Zone | 12246 | [12246-the-abyssal-zone.json](./12246-the-abyssal-zone.json) |
 | The Academy | 302947 | [302947-the-academy.json](./302947-the-academy.json) |
@@ -1387,6 +1389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The F.A. Premier League Football Manager 2000 | 70974 | [70974-the-f-a-premier-league-football-manager-2000.json](./70974-the-f-a-premier-league-football-manager-2000.json) |
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
+| The Faceless | 237361 | [237361-the-faceless.json](./237361-the-faceless.json) |
 | The Faceless City | 183590 | [183590-the-faceless-city.json](./183590-the-faceless-city.json) |
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
@@ -4108,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: E60 Electric Locomotive | 236543 | [236543-train-simulator-classic-e60-electric-locomotive.json](./236543-train-simulator-classic-e60-electric-locomotive.json) |
 | Train Simulator Classic: Eamnos VTG Wagon Pack | 293392 | [293392-train-simulator-classic-eamnos-vtg-wagon-pack.json](./293392-train-simulator-classic-eamnos-vtg-wagon-pack.json) |
 | Train Simulator Classic: New Haven FL9 Loco Add-On | 53838 | [53838-train-simulator-classic-new-haven-fl9-loco-add-on.json](./53838-train-simulator-classic-new-haven-fl9-loco-add-on.json) |
+| Train Simulator Classic: New Zealand Kb Class Steam Loco | 237406 | [237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json](./237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json) |
 | Train Simulator Classic: ÖBB 8073 | 284880 | [284880-train-simulator-classic-obb-8073.json](./284880-train-simulator-classic-obb-8073.json) |
 | Train Simulator Classic: Saluda Grade Scenario Pack 01 | 267409 | [267409-train-simulator-classic-saluda-grade-scenario-pack-01.json](./267409-train-simulator-classic-saluda-grade-scenario-pack-01.json) |
 | Train Simulator Classic: Soldier Summit Route | 238487 | [238487-train-simulator-classic-soldier-summit-route.json](./238487-train-simulator-classic-soldier-summit-route.json) |
