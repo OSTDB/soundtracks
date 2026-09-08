@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
+| Deepfield | 211202 | [211202-deepfield.json](./211202-deepfield.json) |
 | Deepfried in Deepspace | 373541 | [373541-deepfried-in-deepspace.json](./373541-deepfried-in-deepspace.json) |
 | Deephome | 66693 | [66693-deephome.json](./66693-deephome.json) |
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
@@ -2146,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Marked for Death: Advanced Attackers | 147998 | [147998-dragon-marked-for-death-advanced-attackers.json](./147998-dragon-marked-for-death-advanced-attackers.json) |
 | Dragon Master | 209127 | [209127-dragon-master.json](./209127-dragon-master.json) |
 | Dragon Merge Wind | 228112 | [228112-dragon-merge-wind.json](./228112-dragon-merge-wind.json) |
+| Dragon Mine | 211204 | [211204-dragon-mine.json](./211204-dragon-mine.json) |
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
 | Dragon of Calon Valley | 323737 | [323737-dragon-of-calon-valley.json](./323737-dragon-of-calon-valley.json) |
