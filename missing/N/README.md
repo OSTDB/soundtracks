@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
 | Nature | 236548 | [236548-nature.json](./236548-nature.json) |
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
+| Nature Escapes 2 | 235182 | [235182-nature-escapes-2.json](./235182-nature-escapes-2.json) |
 | Nature Escapes 5: Collector's Edition | 385087 | [385087-nature-escapes-5-collectors-edition.json](./385087-nature-escapes-5-collectors-edition.json) |
 | Nature Park | 274729 | [274729-nature-park.json](./274729-nature-park.json) |
 | Nature Prhysm | 206374 | [206374-nature-prhysm.json](./206374-nature-prhysm.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Near-Mage + Gibbous: The Kittehverse | 403584 | [403584-near-mage-gibbous-the-kittehverse.json](./403584-near-mage-gibbous-the-kittehverse.json) |
 | Near-Mage: Clothes & Hair Pack | 403585 | [403585-near-mage-clothes-and-hair-pack.json](./403585-near-mage-clothes-and-hair-pack.json) |
 | NearEscape | 109685 | [109685-nearescape.json](./109685-nearescape.json) |
+| Nearly Dead: Live and Let Die | 235190 | [235190-nearly-dead-live-and-let-die.json](./235190-nearly-dead-live-and-let-die.json) |
 | Neaten Up! | 385592 | [385592-neaten-up.json](./385592-neaten-up.json) |
 | Neath | 380409 | [380409-neath.json](./380409-neath.json) |
 | Nebuchadnezzar | 126806 | [126806-nebuchadnezzar.json](./126806-nebuchadnezzar.json) |
@@ -940,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah's Descent into Madness | 267096 | [267096-noahs-descent-into-madness.json](./267096-noahs-descent-into-madness.json) |
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
+| Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
