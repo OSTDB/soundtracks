@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
 | Oasis | 334662 | [334662-oasis.json](./334662-oasis.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
+| Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
 | Obey the Law | 163983 | [163983-obey-the-law.json](./163983-obey-the-law.json) |
@@ -512,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onenellemoo | 239638 | [239638-onenellemoo.json](./239638-onenellemoo.json) |
 | onEscapee | 93044 | [93044-onescapee.json](./93044-onescapee.json) |
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
+| Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Ongeki Bright Memory Act.2 | 335953 | [335953-ongeki-bright-memory-act-2.json](./335953-ongeki-bright-memory-act-2.json) |
