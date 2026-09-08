@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Magic Man's Head Games | 19053 | [19053-adventure-time-magic-mans-head-games.json](./19053-adventure-time-magic-mans-head-games.json) |
+| Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
 | Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmazeBowl | 104070 | [104070-amazebowl.json](./104070-amazebowl.json) |
 | Amazeing Lemons | 75901 | [75901-amazeing-lemons.json](./75901-amazeing-lemons.json) |
 | Amazething | 154020 | [154020-amazething.json](./154020-amazething.json) |
+| Amazin' George 2: Digital Deluxe | 212279 | [212279-amazin-george-2-digital-deluxe.json](./212279-amazin-george-2-digital-deluxe.json) |
 | Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
 | Amazing Breaker | 65493 | [65493-amazing-breaker.json](./65493-amazing-breaker.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
@@ -1879,7 +1881,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment Story: A Moving Simulator | 205792 | [205792-apartment-story-a-moving-simulator.json](./205792-apartment-story-a-moving-simulator.json) |
 | Apartus | 276710 | [276710-apartus.json](./276710-apartus.json) |
+| Apathy Hayarigami | 212255 | [212255-apathy-hayarigami.json](./212255-apathy-hayarigami.json) |
+| Apathy: Gakkou de Atta Kowai Hanashi - Himitsu | 212257 | [212257-apathy-gakkou-de-atta-kowai-hanashi-himitsu.json](./212257-apathy-gakkou-de-atta-kowai-hanashi-himitsu.json) |
+| Apathy: Gakkou de Atta Kowai Hanashi - Kiwame | 212259 | [212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json](./212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json) |
+| Apathy: Gakkou de Atta Kowai Hanashi - Shinsei 2 | 212256 | [212256-apathy-gakkou-de-atta-kowai-hanashi-shinsei-2.json](./212256-apathy-gakkou-de-atta-kowai-hanashi-shinsei-2.json) |
 | Apathy: Inaba Hyakumantetsu in Narugami Gakuen Reikaiki | 260980 | [260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json](./260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json) |
+| Apathy: Napoli no Otoko-tachi in Gakkou de Atta Kowai Hanashi | 212260 | [212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json](./212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json) |
+| Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
 | Ape Escape: Million Monkeys | 68008 | [68008-ape-escape-million-monkeys.json](./68008-ape-escape-million-monkeys.json) |
@@ -2367,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 5 | 191232 | [191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json](./191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json) |
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 6 | 191238 | [191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json](./191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json) |
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
+| Artsy Pixel | 212278 | [212278-artsy-pixel.json](./212278-artsy-pixel.json) |
 | Aru Kanrinin no Koi: Autumn + Winter | 246942 | [246942-aru-kanrinin-no-koi-autumn-winter.json](./246942-aru-kanrinin-no-koi-autumn-winter.json) |
 | Aru Kanrinin no Koi: Between the Seasons | 246943 | [246943-aru-kanrinin-no-koi-between-the-seasons.json](./246943-aru-kanrinin-no-koi-between-the-seasons.json) |
 | Aru Kanrinin no Koi: Spring + Summer | 246938 | [246938-aru-kanrinin-no-koi-spring-summer.json](./246938-aru-kanrinin-no-koi-spring-summer.json) |
