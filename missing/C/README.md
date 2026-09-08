@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Ball: Gravity Maze | 273375 | [273375-cat-ball-gravity-maze.json](./273375-cat-ball-gravity-maze.json) |
 | Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
 | Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
+| Cat Cafe 101 | 243115 | [243115-cat-cafe-101.json](./243115-cat-cafe-101.json) |
 | Cat Cafe Simulator | 301266 | [301266-cat-cafe-simulator.json](./301266-cat-cafe-simulator.json) |
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
@@ -2509,6 +2510,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Miracles | 316647 | [316647-crossing-miracles.json](./316647-crossing-miracles.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
+| Crossout: Biter Starter Pack | 243105 | [243105-crossout-biter-starter-pack.json](./243105-crossout-biter-starter-pack.json) |
+| Crossout: Cleaner Starter Pack | 243104 | [243104-crossout-cleaner-starter-pack.json](./243104-crossout-cleaner-starter-pack.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
