@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Awakening | 341913 | [341913-pokemon-awakening.json](./341913-pokemon-awakening.json) |
 | Pokémon Battle e Card: Freezing Ray | 220853 | [220853-pokemon-battle-e-card-freezing-ray.json](./220853-pokemon-battle-e-card-freezing-ray.json) |
 | Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
+| Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
 | Pokémon Black 2 Kaizo | 230510 | [230510-pokemon-black-2-kaizo.json](./230510-pokemon-black-2-kaizo.json) |
 | Pokémon Blaze Black 2 | 137113 | [137113-pokemon-blaze-black-2.json](./137113-pokemon-blaze-black-2.json) |
 | Pokémon Blazed Glazed | 129808 | [129808-pokemon-blazed-glazed.json](./129808-pokemon-blazed-glazed.json) |
@@ -1552,9 +1553,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Island | 202405 | [202405-pokemon-island.json](./202405-pokemon-island.json) |
 | Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
+| Pokémon League of Legends | 229045 | [229045-pokemon-league-of-legends.json](./229045-pokemon-league-of-legends.json) |
 | Pokémon Lost Silver | 320167 | [320167-pokemon-lost-silver.json](./320167-pokemon-lost-silver.json) |
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
 | Pokémon Mega Evolution Aquamarine | 300428 | [300428-pokemon-mega-evolution-aquamarine.json](./300428-pokemon-mega-evolution-aquamarine.json) |
+| Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
 | Pokémon Mystery Dungeon: Outlaw's Paradise | 294718 | [294718-pokemon-mystery-dungeon-outlaws-paradise.json](./294718-pokemon-mystery-dungeon-outlaws-paradise.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
@@ -1793,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: The Flash Version | 11280 | [11280-portal-the-flash-version.json](./11280-portal-the-flash-version.json) |
 | Portalnauts | 60589 | [60589-portalnauts.json](./60589-portalnauts.json) |
 | Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
+| Porter | 229060 | [229060-porter.json](./229060-porter.json) |
 | Porter's Cafe | 359411 | [359411-porters-cafe.json](./359411-porters-cafe.json) |
 | Porterminus | 265954 | [265954-porterminus.json](./265954-porterminus.json) |
 | Portile | 322360 | [322360-portile.json](./322360-portile.json) |
