@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
 | Acras | 211392 | [211392-acras.json](./211392-acras.json) |
 | Acre Crisis | 301594 | [301594-acre-crisis.json](./301594-acre-crisis.json) |
+| Acres | 258464 | [258464-acres.json](./258464-acres.json) |
 | Acron: Attack of the Squirrels! | 119335 | [119335-acron-attack-of-the-squirrels.json](./119335-acron-attack-of-the-squirrels.json) |
 | Acrophile | 221403 | [221403-acrophile.json](./221403-acrophile.json) |
 | Across Crime | 413637 | [413637-across-crime.json](./413637-across-crime.json) |
@@ -846,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
+| Air Offense Command | 258449 | [258449-air-offense-command.json](./258449-air-offense-command.json) |
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
 | Air Power: Battle in the Skies | 22622 | [22622-air-power-battle-in-the-skies.json](./22622-air-power-battle-in-the-skies.json) |
 | Air Race | 249506 | [249506-air-race.json](./249506-air-race.json) |
@@ -2184,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As We Unite | 365081 | [365081-as-we-unite.json](./365081-as-we-unite.json) |
 | Asa-Chan Wants to Go Home! | 272283 | [272283-asa-chan-wants-to-go-home.json](./272283-asa-chan-wants-to-go-home.json) |
 | Asaki, Yumemishi | 56524 | [56524-asaki-yumemishi.json](./56524-asaki-yumemishi.json) |
+| Asbury Pines | 258480 | [258480-asbury-pines.json](./258480-asbury-pines.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
