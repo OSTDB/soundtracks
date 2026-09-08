@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
 | Dawn of Warriors | 30956 | [30956-dawn-of-warriors.json](./30956-dawn-of-warriors.json) |
+| Dawn of Yokai | 236299 | [236299-dawn-of-yokai.json](./236299-dawn-of-yokai.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
 | Day D: Through Time - Collector's Edition | 355556 | [355556-day-d-through-time-collectors-edition.json](./355556-day-d-through-time-collectors-edition.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
@@ -1344,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
 | Dirty Love | 303481 | [303481-dirty-love.json](./303481-dirty-love.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
+| Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
