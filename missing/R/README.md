@@ -921,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
 | Reverie | 114417 | [114417-reverie.json](./114417-reverie.json) |
 | Reverie | 254161 | [254161-reverie.json](./254161-reverie.json) |
+| Reverie | 256825 | [256825-reverie.json](./256825-reverie.json) |
 | Reversal | 78717 | [78717-reversal.json](./78717-reversal.json) |
 | Reversal of Deck | 283717 | [283717-reversal-of-deck.json](./283717-reversal-of-deck.json) |
 | Reverse 1999: E lucevan le stelle | 340218 | [340218-reverse-1999-e-lucevan-le-stelle.json](./340218-reverse-1999-e-lucevan-le-stelle.json) |
@@ -1799,6 +1800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Black | 120990 | [120990-running-black.json](./120990-running-black.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running King | 83559 | [83559-running-king.json](./83559-running-king.json) |
+| Running Late 2 | 256842 | [256842-running-late-2.json](./256842-running-late-2.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
 | Running Tadpoles | 113013 | [113013-running-tadpoles.json](./113013-running-tadpoles.json) |
