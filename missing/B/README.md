@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
 | B.C. Dash | 270398 | [270398-b-c-dash.json](./270398-b-c-dash.json) |
+| B.C. Piezophile | 239637 | [239637-b-c-piezophile.json](./239637-b-c-piezophile.json) |
 | B.M.G 19: Bike Messenger Go! | 115707 | [115707-b-m-g-19-bike-messenger-go.json](./115707-b-m-g-19-bike-messenger-go.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
@@ -1037,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
+| Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
@@ -1863,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombfest | 74464 | [74464-bombfest.json](./74464-bombfest.json) |
 | Bombing Quest | 129796 | [129796-bombing-quest.json](./129796-bombing-quest.json) |
 | Bombing Wonderful | 228712 | [228712-bombing-wonderful.json](./228712-bombing-wonderful.json) |
+| Bombo Rumble | 239683 | [239683-bombo-rumble.json](./239683-bombo-rumble.json) |
 | Bomboban | 386102 | [386102-bomboban.json](./386102-bomboban.json) |
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
@@ -2050,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BountyHeart | 213641 | [213641-bountyheart.json](./213641-bountyheart.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
+| Bow Climb | 239660 | [239660-bow-climb.json](./239660-bow-climb.json) |
 | Bow Hunter 2015 | 250937 | [250937-bow-hunter-2015.json](./250937-bow-hunter-2015.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
