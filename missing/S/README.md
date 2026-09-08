@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
+| Sakura Revolution: Blooming Maidens | 226767 | [226767-sakura-revolution-blooming-maidens.json](./226767-sakura-revolution-blooming-maidens.json) |
 | Sakura Santa | 34032 | [34032-sakura-santa.json](./34032-sakura-santa.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Sunshine | 215911 | [215911-sakura-sunshine.json](./215911-sakura-sunshine.json) |
@@ -1976,6 +1977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
 | Slayblade | 394830 | [394830-slayblade.json](./394830-slayblade.json) |
 | Slayer | 260130 | [260130-slayer.json](./260130-slayer.json) |
+| Slayer Legend | 226766 | [226766-slayer-legend.json](./226766-slayer-legend.json) |
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
 | Slaygon | 55148 | [55148-slaygon.json](./55148-slaygon.json) |
 | Slayin 2 | 134021 | [134021-slayin-2.json](./134021-slayin-2.json) |
@@ -4094,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age | 278664 | [278664-stone-age.json](./278664-stone-age.json) |
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
+| Stone Breaker | 226757 | [226757-stone-breaker.json](./226757-stone-breaker.json) |
 | Stone Defence | 113032 | [113032-stone-defence.json](./113032-stone-defence.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
 | Stone Story | 301604 | [301604-stone-story.json](./301604-stone-story.json) |
@@ -4297,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Buster | 339656 | [339656-strike-buster.json](./339656-strike-buster.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
+| Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Striker of Sky | 238498 | [238498-striker-of-sky.json](./238498-striker-of-sky.json) |
