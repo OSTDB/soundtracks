@@ -56,7 +56,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Forest Cats | 301029 | [301029-100-forest-cats.json](./301029-100-forest-cats.json) |
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Hidden Cats: Ninja | 334123 | [334123-100-hidden-cats-ninja.json](./334123-100-hidden-cats-ninja.json) |
-| 100 Hidden Cats: Pirates | 315295 | [315295-100-hidden-cats-pirates.json](./315295-100-hidden-cats-pirates.json) |
 | 100 Hidden Cats: Playground | 330560 | [330560-100-hidden-cats-playground.json](./330560-100-hidden-cats-playground.json) |
 | 100 Hiddensaurs | 306946 | [306946-100-hiddensaurs.json](./306946-100-hiddensaurs.json) |
 | 100 Hiddensaurs: Greece | 318394 | [318394-100-hiddensaurs-greece.json](./318394-100-hiddensaurs-greece.json) |
