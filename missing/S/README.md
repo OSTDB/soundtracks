@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
 | Sky Fury | 274469 | [274469-sky-fury.json](./274469-sky-fury.json) |
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
+| Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
@@ -2318,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy: Fish Frenzy | 71519 | [71519-snowy-fish-frenzy.json](./71519-snowy-fish-frenzy.json) |
 | Snowy: Lunch Rush | 73289 | [73289-snowy-lunch-rush.json](./73289-snowy-lunch-rush.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
+| Snwbrd: Freestyle Snowboarding | 235196 | [235196-snwbrd-freestyle-snowboarding.json](./235196-snwbrd-freestyle-snowboarding.json) |
 | So Below | 218732 | [218732-so-below.json](./218732-so-below.json) |
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
@@ -2378,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
 | Sokocat - Islands | 147449 | [147449-sokocat-islands.json](./147449-sokocat-islands.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
+| SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
 | Sokomonster + Sokolab + Feed Your Cat | 335101 | [335101-sokomonster-sokolab-feed-your-cat.json](./335101-sokomonster-sokolab-feed-your-cat.json) |
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
 | Sokorun: One Box | 209673 | [209673-sokorun-one-box.json](./209673-sokorun-one-box.json) |
@@ -2988,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
+| Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
 | Space Ops Arcade | 285480 | [285480-space-ops-arcade.json](./285480-space-ops-arcade.json) |
@@ -3980,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickman 3D Tennis: Deluxe | 404210 | [404210-stickman-3d-tennis-deluxe.json](./404210-stickman-3d-tennis-deluxe.json) |
 | Stickman 3D Wingsuit: Deluxe | 406699 | [406699-stickman-3d-wingsuit-deluxe.json](./406699-stickman-3d-wingsuit-deluxe.json) |
+| Stickman Arc Hero Fight | 235234 | [235234-stickman-arc-hero-fight.json](./235234-stickman-arc-hero-fight.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
@@ -4467,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sune och Hans Värld: Pussjakten | 129781 | [129781-sune-och-hans-varld-pussjakten.json](./129781-sune-och-hans-varld-pussjakten.json) |
 | Sunes Sportlov | 316081 | [316081-sunes-sportlov.json](./316081-sunes-sportlov.json) |
 | Sunfinity | 356642 | [356642-sunfinity.json](./356642-sunfinity.json) |
+| Sunflower Chess | 235212 | [235212-sunflower-chess.json](./235212-sunflower-chess.json) |
 | Sunflower Stronghold | 384519 | [384519-sunflower-stronghold.json](./384519-sunflower-stronghold.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
