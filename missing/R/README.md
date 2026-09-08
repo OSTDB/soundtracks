@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
+| Real Cricket Go | 233506 | [233506-real-cricket-go.json](./233506-real-cricket-go.json) |
 | Real Drags | 24992 | [24992-real-drags.json](./24992-real-drags.json) |
 | Real Drift Multiplayer | 256564 | [256564-real-drift-multiplayer.json](./256564-real-drift-multiplayer.json) |
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
@@ -1378,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
 | Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
+| Rocket Road | 233528 | [233528-rocket-road.json](./233528-rocket-road.json) |
 | Rocket Rush | 99633 | [99633-rocket-rush.json](./99633-rocket-rush.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
