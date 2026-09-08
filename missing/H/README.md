@@ -86,6 +86,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
+| Half-Life 2: VR Mod - Episode One | 243118 | [243118-half-life-2-vr-mod-episode-one.json](./243118-half-life-2-vr-mod-episode-one.json) |
+| Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
 | Half-Life: Chernobyl | 127954 | [127954-half-life-chernobyl.json](./127954-half-life-chernobyl.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
@@ -136,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
 | Halo: Combat Evolved - E3 2000 Demo | 326970 | [326970-halo-combat-evolved-e3-2000-demo.json](./326970-halo-combat-evolved-e3-2000-demo.json) |
 | Halo: Combat Evolved Anniversary | 2640 | [2640-halo-combat-evolved-anniversary.json](./2640-halo-combat-evolved-anniversary.json) |
+| Halo: Custom Edition | 243116 | [243116-halo-custom-edition.json](./243116-halo-custom-edition.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
 | Halo: Reach - Legendary Edition | 43954 | [43954-halo-reach-legendary-edition.json](./43954-halo-reach-legendary-edition.json) |
 | HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
@@ -752,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Puzzle Collection: Autumn | 371234 | [371234-hentai-jigsaw-puzzle-collection-autumn.json](./371234-hentai-jigsaw-puzzle-collection-autumn.json) |
 | Hentai Jigsaw Puzzle Collection: Christmas Edition | 235476 | [235476-hentai-jigsaw-puzzle-collection-christmas-edition.json](./235476-hentai-jigsaw-puzzle-collection-christmas-edition.json) |
 | Hentai Jigsaw Puzzle Collection: Spring Edition | 263218 | [263218-hentai-jigsaw-puzzle-collection-spring-edition.json](./263218-hentai-jigsaw-puzzle-collection-spring-edition.json) |
+| Hentai MatureCat | 243162 | [243162-hentai-maturecat.json](./243162-hentai-maturecat.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
@@ -876,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
 | Heroes United | 327209 | [327209-heroes-united.json](./327209-heroes-united.json) |
+| Heroes vs. Hordes | 243120 | [243120-heroes-vs-hordes.json](./243120-heroes-vs-hordes.json) |
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
 | HeroField: Game Craft | 368514 | [368514-herofield-game-craft.json](./368514-herofield-game-craft.json) |
 | Herogrinder: Tactical Combat Arenas | 122397 | [122397-herogrinder-tactical-combat-arenas.json](./122397-herogrinder-tactical-combat-arenas.json) |
@@ -1500,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
 | Hot Wheels Unleashed: Night Burner | 195767 | [195767-hot-wheels-unleashed-night-burner.json](./195767-hot-wheels-unleashed-night-burner.json) |
 | Hot Wheels Unleashed: Street Fighter Vega | 195770 | [195770-hot-wheels-unleashed-street-fighter-vega.json](./195770-hot-wheels-unleashed-street-fighter-vega.json) |
+| Hot Wheels World Race | 243147 | [243147-hot-wheels-world-race.json](./243147-hot-wheels-world-race.json) |
 | Hot Wheels: Bash Arena | 70992 | [70992-hot-wheels-bash-arena.json](./70992-hot-wheels-bash-arena.json) |
 | Hot Wheels: Extreme Racing | 45058 | [45058-hot-wheels-extreme-racing.json](./45058-hot-wheels-extreme-racing.json) |
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
