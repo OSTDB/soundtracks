@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T16:48:50.200Z",
-  "total_missing": 47447,
+  "generated_at": "2026-09-08T16:51:08.687Z",
+  "total_missing": 47446,
   "games": [
     {
       "igdb_id": 306086,
@@ -176,11 +176,6 @@
       "igdb_id": 153453,
       "game_name": "10-Pin Bowling",
       "file": "missing/0-9/153453-10-pin-bowling.json"
-    },
-    {
-      "igdb_id": 314855,
-      "game_name": "10-Second Ghost",
-      "file": "missing/0-9/314855-10-second-ghost.json"
     },
     {
       "igdb_id": 271729,
