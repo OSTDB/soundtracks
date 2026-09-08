@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T22:18:27.851Z",
-  "total_missing": 48343,
+  "generated_at": "2026-09-08T22:21:02.132Z",
+  "total_missing": 48342,
   "games": [
     {
       "igdb_id": 306086,
@@ -346,11 +346,6 @@
       "igdb_id": 164472,
       "game_name": "100% Orange Juice: Nath & Tomato+Mimyuu",
       "file": "missing/0-9/164472-100-orange-juice-nath-and-tomato-mimyuu.json"
-    },
-    {
-      "igdb_id": 164466,
-      "game_name": "100% Orange Juice: Pudding Pack",
-      "file": "missing/0-9/164466-100-orange-juice-pudding-pack.json"
     },
     {
       "igdb_id": 164474,
