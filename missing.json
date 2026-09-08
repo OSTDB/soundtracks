@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T23:40:59.416Z",
-  "total_missing": 48539,
+  "generated_at": "2026-09-08T23:47:54.821Z",
+  "total_missing": 48589,
   "games": [
     {
       "igdb_id": 306086,
@@ -71238,6 +71238,16 @@
       "file": "missing/F/228738-final-fantasy-xvi-deluxe-edition.json"
     },
     {
+      "igdb_id": 210027,
+      "game_name": "Final Fantasy: Blackmoon Prophecy",
+      "file": "missing/F/210027-final-fantasy-blackmoon-prophecy.json"
+    },
+    {
+      "igdb_id": 210030,
+      "game_name": "Final Fantasy: Blackmoon Prophecy II",
+      "file": "missing/F/210030-final-fantasy-blackmoon-prophecy-ii.json"
+    },
+    {
       "igdb_id": 159253,
       "game_name": "Final Fantasy: Pixel Remaster Collection",
       "file": "missing/F/159253-final-fantasy-pixel-remaster-collection.json"
@@ -95498,9 +95508,59 @@
       "file": "missing/H/87746-hoyle-card-games.json"
     },
     {
+      "igdb_id": 210064,
+      "game_name": "Hoyle Card Games 2009",
+      "file": "missing/H/210064-hoyle-card-games-2009.json"
+    },
+    {
+      "igdb_id": 210065,
+      "game_name": "Hoyle Card Games 2011",
+      "file": "missing/H/210065-hoyle-card-games-2011.json"
+    },
+    {
+      "igdb_id": 210049,
+      "game_name": "Hoyle Casino",
+      "file": "missing/H/210049-hoyle-casino.json"
+    },
+    {
+      "igdb_id": 210066,
+      "game_name": "Hoyle Casino 2009",
+      "file": "missing/H/210066-hoyle-casino-2009.json"
+    },
+    {
+      "igdb_id": 210067,
+      "game_name": "Hoyle Casino 2010",
+      "file": "missing/H/210067-hoyle-casino-2010.json"
+    },
+    {
+      "igdb_id": 210068,
+      "game_name": "Hoyle Casino Games 2011",
+      "file": "missing/H/210068-hoyle-casino-games-2011.json"
+    },
+    {
       "igdb_id": 89692,
       "game_name": "Hoyle Classic Board Game Collection 2",
       "file": "missing/H/89692-hoyle-classic-board-game-collection-2.json"
+    },
+    {
+      "igdb_id": 210057,
+      "game_name": "Hoyle Craps and Blackjack",
+      "file": "missing/H/210057-hoyle-craps-and-blackjack.json"
+    },
+    {
+      "igdb_id": 210069,
+      "game_name": "Hoyle Crosswords & Sudoku",
+      "file": "missing/H/210069-hoyle-crosswords-and-sudoku.json"
+    },
+    {
+      "igdb_id": 210070,
+      "game_name": "Hoyle Friday Night Poker",
+      "file": "missing/H/210070-hoyle-friday-night-poker.json"
+    },
+    {
+      "igdb_id": 210071,
+      "game_name": "Hoyle Jewels: Swap & Drop It",
+      "file": "missing/H/210071-hoyle-jewels-swap-and-drop-it.json"
     },
     {
       "igdb_id": 99000,
@@ -95516,6 +95576,16 @@
       "igdb_id": 89693,
       "game_name": "Hoyle Parlor Games",
       "file": "missing/H/89693-hoyle-parlor-games.json"
+    },
+    {
+      "igdb_id": 210052,
+      "game_name": "Hoyle Puzzle & Board Games 2009",
+      "file": "missing/H/210052-hoyle-puzzle-and-board-games-2009.json"
+    },
+    {
+      "igdb_id": 210051,
+      "game_name": "Hoyle South Beach Solitaire",
+      "file": "missing/H/210051-hoyle-south-beach-solitaire.json"
     },
     {
       "igdb_id": 345443,
@@ -95786,6 +95856,11 @@
       "igdb_id": 180845,
       "game_name": "Humorpractor",
       "file": "missing/H/180845-humorpractor.json"
+    },
+    {
+      "igdb_id": 210053,
+      "game_name": "Humpty's Castle Adventure",
+      "file": "missing/H/210053-humptys-castle-adventure.json"
     },
     {
       "igdb_id": 267068,
@@ -96068,9 +96143,24 @@
       "file": "missing/H/147431-huntfeast.json"
     },
     {
+      "igdb_id": 210054,
+      "game_name": "Huntin' Adventure",
+      "file": "missing/H/210054-huntin-adventure.json"
+    },
+    {
+      "igdb_id": 210055,
+      "game_name": "Hunting Arcade",
+      "file": "missing/H/210055-hunting-arcade.json"
+    },
+    {
       "igdb_id": 165022,
       "game_name": "Hunting Moon vol.2",
       "file": "missing/H/165022-hunting-moon-vol-2.json"
+    },
+    {
+      "igdb_id": 210056,
+      "game_name": "Hunting Season",
+      "file": "missing/H/210056-hunting-season.json"
     },
     {
       "igdb_id": 220830,
@@ -96501,6 +96591,11 @@
       "igdb_id": 96430,
       "game_name": "Hypertrain",
       "file": "missing/H/96430-hypertrain.json"
+    },
+    {
+      "igdb_id": 210058,
+      "game_name": "Hypertron",
+      "file": "missing/H/210058-hypertron.json"
     },
     {
       "igdb_id": 49512,
@@ -97393,6 +97488,11 @@
       "file": "missing/I/256861-ic2005.json"
     },
     {
+      "igdb_id": 210060,
+      "game_name": "iCarly: iDream in Toons",
+      "file": "missing/I/210060-icarly-idream-in-toons.json"
+    },
+    {
       "igdb_id": 245054,
       "game_name": "Icarus",
       "file": "missing/I/245054-icarus.json"
@@ -97591,6 +97691,11 @@
       "igdb_id": 319379,
       "game_name": "Identifile",
       "file": "missing/I/319379-identifile.json"
+    },
+    {
+      "igdb_id": 210062,
+      "game_name": "Identikit",
+      "file": "missing/I/210062-identikit.json"
     },
     {
       "igdb_id": 186899,
@@ -99178,6 +99283,11 @@
       "file": "missing/I/229039-independence-day-run.json"
     },
     {
+      "igdb_id": 210063,
+      "game_name": "Independent Games",
+      "file": "missing/I/210063-independent-games.json"
+    },
+    {
       "igdb_id": 407345,
       "game_name": "Indian Street Food Simulator",
       "file": "missing/I/407345-indian-street-food-simulator.json"
@@ -99813,6 +99923,11 @@
       "file": "missing/I/249217-inflorescences.json"
     },
     {
+      "igdb_id": 210032,
+      "game_name": "Influence",
+      "file": "missing/I/210032-influence.json"
+    },
+    {
       "igdb_id": 322947,
       "game_name": "Informe Zenteno",
       "file": "missing/I/322947-informe-zenteno.json"
@@ -99826,6 +99941,11 @@
       "igdb_id": 256832,
       "game_name": "Infraworld: Coma Moonlight",
       "file": "missing/I/256832-infraworld-coma-moonlight.json"
+    },
+    {
+      "igdb_id": 210038,
+      "game_name": "Ingenious",
+      "file": "missing/I/210038-ingenious.json"
     },
     {
       "igdb_id": 226745,
@@ -100436,6 +100556,11 @@
       "igdb_id": 36478,
       "game_name": "Intelligent Design: An Evolutionary Sandbox",
       "file": "missing/I/36478-intelligent-design-an-evolutionary-sandbox.json"
+    },
+    {
+      "igdb_id": 210044,
+      "game_name": "Intellivision Greatest Hits: 20th Anniversary Edition",
+      "file": "missing/I/210044-intellivision-greatest-hits-20th-anniversary-edition.json"
     },
     {
       "igdb_id": 73321,
@@ -101183,6 +101308,11 @@
       "file": "missing/I/369012-ips-13-all-signals-lost.json"
     },
     {
+      "igdb_id": 210022,
+      "game_name": "Ipuppet Presents: Colin's Classic Cards",
+      "file": "missing/I/210022-ipuppet-presents-colins-classic-cards.json"
+    },
+    {
       "igdb_id": 415062,
       "game_name": "IQ Logic Codes: Number & Letter Puzzles",
       "file": "missing/I/415062-iq-logic-codes-number-and-letter-puzzles.json"
@@ -101263,6 +101393,11 @@
       "file": "missing/I/20608-iron-and-blood-warriors-of-ravenloft.json"
     },
     {
+      "igdb_id": 210024,
+      "game_name": "Iron Aces: Heroes of WWII",
+      "file": "missing/I/210024-iron-aces-heroes-of-wwii.json"
+    },
+    {
       "igdb_id": 192943,
       "game_name": "Iron Age",
       "file": "missing/I/192943-iron-age.json"
@@ -101321,6 +101456,11 @@
       "igdb_id": 296943,
       "game_name": "Iron Hunters",
       "file": "missing/I/296943-iron-hunters.json"
+    },
+    {
+      "igdb_id": 210025,
+      "game_name": "Iron John Hawk: The Shards Of Power",
+      "file": "missing/I/210025-iron-john-hawk-the-shards-of-power.json"
     },
     {
       "igdb_id": 400865,
@@ -101661,6 +101801,11 @@
       "igdb_id": 255100,
       "game_name": "Isis: The Fall",
       "file": "missing/I/255100-isis-the-fall.json"
+    },
+    {
+      "igdb_id": 210046,
+      "game_name": "Isla Dorada: Episode 1 - The Sands of Ephranis",
+      "file": "missing/I/210046-isla-dorada-episode-1-the-sands-of-ephranis.json"
     },
     {
       "igdb_id": 260380,
@@ -102541,6 +102686,11 @@
       "igdb_id": 394188,
       "game_name": "Jack and the Beanstalk",
       "file": "missing/J/394188-jack-and-the-beanstalk.json"
+    },
+    {
+      "igdb_id": 210045,
+      "game_name": "Jack Attack 2",
+      "file": "missing/J/210045-jack-attack-2.json"
     },
     {
       "igdb_id": 231942,
@@ -103481,6 +103631,11 @@
       "igdb_id": 50633,
       "game_name": "Jewel Quest Trilogy",
       "file": "missing/J/50633-jewel-quest-trilogy.json"
+    },
+    {
+      "igdb_id": 210021,
+      "game_name": "Jewel Quest: The Sapphire Dragon",
+      "file": "missing/J/210021-jewel-quest-the-sapphire-dragon.json"
     },
     {
       "igdb_id": 110322,
@@ -106256,6 +106411,11 @@
       "igdb_id": 392176,
       "game_name": "Karao",
       "file": "missing/K/392176-karao.json"
+    },
+    {
+      "igdb_id": 210018,
+      "game_name": "Karaoke Family Fun",
+      "file": "missing/K/210018-karaoke-family-fun.json"
     },
     {
       "igdb_id": 146313,
@@ -119933,6 +120093,11 @@
       "file": "missing/M/94243-makenumber.json"
     },
     {
+      "igdb_id": 210050,
+      "game_name": "Makeover Madness",
+      "file": "missing/M/210050-makeover-madness.json"
+    },
+    {
       "igdb_id": 150152,
       "game_name": "Makoto Mobius",
       "file": "missing/M/150152-makoto-mobius.json"
@@ -120548,6 +120713,11 @@
       "file": "missing/M/239883-marble-blast-platinum.json"
     },
     {
+      "igdb_id": 210043,
+      "game_name": "Marble Blaster",
+      "file": "missing/M/210043-marble-blaster.json"
+    },
+    {
       "igdb_id": 127962,
       "game_name": "Marble Bloomers",
       "file": "missing/M/127962-marble-bloomers.json"
@@ -120671,6 +120841,16 @@
       "igdb_id": 237638,
       "game_name": "Margonem Adventures",
       "file": "missing/M/237638-margonem-adventures.json"
+    },
+    {
+      "igdb_id": 210042,
+      "game_name": "Margot's Bepuzzled",
+      "file": "missing/M/210042-margots-bepuzzled.json"
+    },
+    {
+      "igdb_id": 210041,
+      "game_name": "Margrave Manor 3: The Curse of the Blacksmith's Heart",
+      "file": "missing/M/210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json"
     },
     {
       "igdb_id": 280180,
@@ -137618,6 +137798,11 @@
       "file": "missing/N/270973-nephilim.json"
     },
     {
+      "igdb_id": 210039,
+      "game_name": "Neptune's Secret",
+      "file": "missing/N/210039-neptunes-secret.json"
+    },
+    {
       "igdb_id": 83563,
       "game_name": "NeptuneGL",
       "file": "missing/N/83563-neptunegl.json"
@@ -137636,6 +137821,11 @@
       "igdb_id": 373535,
       "game_name": "Nerds Rope: Follow the Leader Game",
       "file": "missing/N/373535-nerds-rope-follow-the-leader-game.json"
+    },
+    {
+      "igdb_id": 210037,
+      "game_name": "Nerf Jr. Foam Balster: Attack of The Kleptons",
+      "file": "missing/N/210037-nerf-jr-foam-balster-attack-of-the-kleptons.json"
     },
     {
       "igdb_id": 64442,
@@ -137961,6 +138151,11 @@
       "igdb_id": 28972,
       "game_name": "Neverwinter Nights 2: Platinum",
       "file": "missing/N/28972-neverwinter-nights-2-platinum.json"
+    },
+    {
+      "igdb_id": 210036,
+      "game_name": "Neverwinter Nights: Gold Edition",
+      "file": "missing/N/210036-neverwinter-nights-gold-edition.json"
     },
     {
       "igdb_id": 68172,
@@ -138298,6 +138493,11 @@
       "file": "missing/N/279603-newly-wedded-woman-stealing-life.json"
     },
     {
+      "igdb_id": 210035,
+      "game_name": "Newspaper Puzzle Challenge: Sudoku Edition",
+      "file": "missing/N/210035-newspaper-puzzle-challenge-sudoku-edition.json"
+    },
+    {
       "igdb_id": 163948,
       "game_name": "Newton's House of Forces",
       "file": "missing/N/163948-newtons-house-of-forces.json"
@@ -138558,6 +138758,16 @@
       "file": "missing/N/18270-nhra-drag-racing-countdown-to-the-championship.json"
     },
     {
+      "igdb_id": 210034,
+      "game_name": "NHRA Drag Racing: Pro Stock Cars & Trucks",
+      "file": "missing/N/210034-nhra-drag-racing-pro-stock-cars-and-trucks.json"
+    },
+    {
+      "igdb_id": 210033,
+      "game_name": "NHRA Drag Racing: Quarter Mile Showdown",
+      "file": "missing/N/210033-nhra-drag-racing-quarter-mile-showdown.json"
+    },
+    {
       "igdb_id": 109052,
       "game_name": "Ni Hao, Kai-lan: Beach Day",
       "file": "missing/N/109052-ni-hao-kai-lan-beach-day.json"
@@ -138566,6 +138776,11 @@
       "igdb_id": 97371,
       "game_name": "Ni Hao, Kai-Lan: New Year's Celebration",
       "file": "missing/N/97371-ni-hao-kai-lan-new-years-celebration.json"
+    },
+    {
+      "igdb_id": 210026,
+      "game_name": "Ni-Hao Kai-Lan: Kai-Lan's Great trip to China!",
+      "file": "missing/N/210026-ni-hao-kai-lan-kai-lans-great-trip-to-china.json"
     },
     {
       "igdb_id": 256818,
@@ -138613,6 +138828,11 @@
       "file": "missing/N/295038-nick-faldo-championship-golf.json"
     },
     {
+      "igdb_id": 210029,
+      "game_name": "Nick Jr. Play Math!",
+      "file": "missing/N/210029-nick-jr-play-math.json"
+    },
+    {
       "igdb_id": 387331,
       "game_name": "Nick Logic for Kids",
       "file": "missing/N/387331-nick-logic-for-kids.json"
@@ -138658,9 +138878,19 @@
       "file": "missing/N/286512-nickelodeon-kids-bundle.json"
     },
     {
+      "igdb_id": 210031,
+      "game_name": "Nickelodeon Nick O Matic Design Factory",
+      "file": "missing/N/210031-nickelodeon-nick-o-matic-design-factory.json"
+    },
+    {
       "igdb_id": 220098,
       "game_name": "Nicktoons",
       "file": "missing/N/220098-nicktoons.json"
+    },
+    {
+      "igdb_id": 210028,
+      "game_name": "Nicktoons Nick Tunes",
+      "file": "missing/N/210028-nicktoons-nick-tunes.json"
     },
     {
       "igdb_id": 308564,
@@ -140291,6 +140521,11 @@
       "igdb_id": 58830,
       "game_name": "Noah no Yurikago",
       "file": "missing/N/58830-noah-no-yurikago.json"
+    },
+    {
+      "igdb_id": 210023,
+      "game_name": "Noah's Ark",
+      "file": "missing/N/210023-noahs-ark.json"
     },
     {
       "igdb_id": 213377,
@@ -148083,6 +148318,11 @@
       "file": "missing/P/20527-paradise.json"
     },
     {
+      "igdb_id": 210019,
+      "game_name": "Paradise",
+      "file": "missing/P/210019-paradise.json"
+    },
+    {
       "igdb_id": 278141,
       "game_name": "Paradise Angel",
       "file": "missing/P/278141-paradise-angel.json"
@@ -148821,6 +149061,11 @@
       "igdb_id": 209700,
       "game_name": "Passage",
       "file": "missing/P/209700-passage.json"
+    },
+    {
+      "igdb_id": 210017,
+      "game_name": "Passage 3",
+      "file": "missing/P/210017-passage-3.json"
     },
     {
       "igdb_id": 237360,
@@ -154481,6 +154726,11 @@
       "igdb_id": 232685,
       "game_name": "Pokémon Altar",
       "file": "missing/P/232685-pokemon-altar.json"
+    },
+    {
+      "igdb_id": 210072,
+      "game_name": "Pokémon AlteRed",
+      "file": "missing/P/210072-pokemon-altered.json"
     },
     {
       "igdb_id": 323762,
