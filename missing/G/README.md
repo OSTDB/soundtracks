@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Attack | 81439 | [81439-galactic-attack.json](./81439-galactic-attack.json) |
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
 | Galactic Bounty | 406684 | [406684-galactic-bounty.json](./406684-galactic-bounty.json) |
+| Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
 | Galactic Civilizations III: Rise of the Terrans | 19610 | [19610-galactic-civilizations-iii-rise-of-the-terrans.json](./19610-galactic-civilizations-iii-rise-of-the-terrans.json) |
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glittering Sword | 143112 | [143112-glittering-sword.json](./143112-glittering-sword.json) |
 | Gloaming Comedian Simulator | 259860 | [259860-gloaming-comedian-simulator.json](./259860-gloaming-comedian-simulator.json) |
 | Gloamryn | 346577 | [346577-gloamryn.json](./346577-gloamryn.json) |
+| Global Folktale | 254538 | [254538-global-folktale.json](./254538-global-folktale.json) |
 | Global Shipping Simulator | 326414 | [326414-global-shipping-simulator.json](./326414-global-shipping-simulator.json) |
 | Global Soccer Manager 2015 | 98428 | [98428-global-soccer-manager-2015.json](./98428-global-soccer-manager-2015.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
@@ -1424,9 +1426,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear Xrd: Sign - Character Colors Christmas Set | 315513 | [315513-guilty-gear-xrd-sign-character-colors-christmas-set.json](./315513-guilty-gear-xrd-sign-character-colors-christmas-set.json) |
 | Guilty Gear XX Accent Core | 9145 | [9145-guilty-gear-xx-accent-core.json](./9145-guilty-gear-xx-accent-core.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Amber Fest with Kind Neighbors | 299723 | [299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json](./299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json) |
+| Guilty Gear: Strive - Additional Battle Stage: Fairy's Forest Factory | 254564 | [254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json](./254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json) |
+| Guilty Gear: Strive - Additional Battle Stage: Lap of the Kami | 254561 | [254561-guilty-gear-strive-additional-battle-stage-lap-of-the-kami.json](./254561-guilty-gear-strive-additional-battle-stage-lap-of-the-kami.json) |
+| Guilty Gear: Strive - Additional Battle Stage: White House Reborn | 254562 | [254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json](./254562-guilty-gear-strive-additional-battle-stage-white-house-reborn.json) |
 | Guilty Gear: Strive - Additional Character 13: Slayer | 299722 | [299722-guilty-gear-strive-additional-character-13-slayer.json](./299722-guilty-gear-strive-additional-character-13-slayer.json) |
 | Guilty Gear: Strive - Additional Character 6: Bridget | 213005 | [213005-guilty-gear-strive-additional-character-6-bridget.json](./213005-guilty-gear-strive-additional-character-6-bridget.json) |
+| Guilty Gear: Strive - Additional Character Color Pack | 254504 | [254504-guilty-gear-strive-additional-character-color-pack.json](./254504-guilty-gear-strive-additional-character-color-pack.json) |
+| Guilty Gear: Strive - Another Story | 254515 | [254515-guilty-gear-strive-another-story.json](./254515-guilty-gear-strive-another-story.json) |
 | Guilty Gear: Strive - Daredevil Edition | 263513 | [263513-guilty-gear-strive-daredevil-edition.json](./263513-guilty-gear-strive-daredevil-edition.json) |
+| Guilty Gear: Strive - Special Colors for Sol and Ky | 254507 | [254507-guilty-gear-strive-special-colors-for-sol-and-ky.json](./254507-guilty-gear-strive-special-colors-for-sol-and-ky.json) |
 | Guilty Gear: Strive - Ultimate Edition 2022 | 255116 | [255116-guilty-gear-strive-ultimate-edition-2022.json](./255116-guilty-gear-strive-ultimate-edition-2022.json) |
 | Guilty Gear: Strive - Ultimate Edition Contents Kit | 255113 | [255113-guilty-gear-strive-ultimate-edition-contents-kit.json](./255113-guilty-gear-strive-ultimate-edition-contents-kit.json) |
 | Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
