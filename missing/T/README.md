@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Aluxes | 61621 | [61621-temple-of-aluxes.json](./61621-temple-of-aluxes.json) |
 | Temple Of Anubis: Judgement Of The Dead | 271736 | [271736-temple-of-anubis-judgement-of-the-dead.json](./271736-temple-of-anubis-judgement-of-the-dead.json) |
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
+| Temple of Darkness | 247529 | [247529-temple-of-darkness.json](./247529-temple-of-darkness.json) |
 | Temple of Lily | 304873 | [304873-temple-of-lily.json](./304873-temple-of-lily.json) |
 | Temple of Rubbo | 191913 | [191913-temple-of-rubbo.json](./191913-temple-of-rubbo.json) |
 | Temple of Sandur | 376454 | [376454-temple-of-sandur.json](./376454-temple-of-sandur.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Pro | 95421 | [95421-tetris-pro.json](./95421-tetris-pro.json) |
 | Tetris Secret | 130931 | [130931-tetris-secret.json](./130931-tetris-secret.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
+| Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
 | Tetromino X | 190227 | [190227-tetromino-x.json](./190227-tetromino-x.json) |
 | TetroMosaic, Unicorn | 378785 | [378785-tetromosaic-unicorn.json](./378785-tetromosaic-unicorn.json) |
@@ -968,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
 | The Bloody Cross | 342648 | [342648-the-bloody-cross.json](./342648-the-bloody-cross.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
+| The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
@@ -4625,6 +4628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Hospital and Two Point Campus Double Pack | 223155 | [223155-two-point-hospital-and-two-point-campus-double-pack.json](./223155-two-point-hospital-and-two-point-campus-double-pack.json) |
 | Two Point Museum: Sonic Pre-order Pack | 375175 | [375175-two-point-museum-sonic-pre-order-pack.json](./375175-two-point-museum-sonic-pre-order-pack.json) |
+| Two Portals: A Gemstone Puzzle Game | 247501 | [247501-two-portals-a-gemstone-puzzle-game.json](./247501-two-portals-a-gemstone-puzzle-game.json) |
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
