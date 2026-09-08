@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations At War Digital: Stalin's Triumph Battlepack 2 | 166196 | [166196-nations-at-war-digital-stalins-triumph-battlepack-2.json](./166196-nations-at-war-digital-stalins-triumph-battlepack-2.json) |
 | Nations At War Digital: White Star Rising Battlepack 1 | 166198 | [166198-nations-at-war-digital-white-star-rising-battlepack-1.json](./166198-nations-at-war-digital-white-star-rising-battlepack-1.json) |
 | Nations At War Digital: White Star Rising Battlepack 2 | 166201 | [166201-nations-at-war-digital-white-star-rising-battlepack-2.json](./166201-nations-at-war-digital-white-star-rising-battlepack-2.json) |
+| Nations of Darkness | 233484 | [233484-nations-of-darkness.json](./233484-nations-of-darkness.json) |
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
