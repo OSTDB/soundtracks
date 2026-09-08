@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Covenant | 113718 | [113718-quantum-covenant.json](./113718-quantum-covenant.json) |
 | Quantum Drive | 278395 | [278395-quantum-drive.json](./278395-quantum-drive.json) |
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
+| Quantum Phantom Basketball | 252766 | [252766-quantum-phantom-basketball.json](./252766-quantum-phantom-basketball.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
