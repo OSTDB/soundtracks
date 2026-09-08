@@ -997,11 +997,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner Extra | 109027 | [109027-lode-runner-extra.json](./109027-lode-runner-extra.json) |
 | Lode Runner: Domdom Dan no Yabou! | 109026 | [109026-lode-runner-domdom-dan-no-yabou.json](./109026-lode-runner-domdom-dan-no-yabou.json) |
 | Lodoss-tou Senki: Fuku Zinduke | 66143 | [66143-lodoss-tou-senki-fuku-zinduke.json](./66143-lodoss-tou-senki-fuku-zinduke.json) |
+| Lofi Ball | 256276 | [256276-lofi-ball.json](./256276-lofi-ball.json) |
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
+| Lofi Ball: Dungeon | 256278 | [256278-lofi-ball-dungeon.json](./256278-lofi-ball-dungeon.json) |
+| Lofi Ball: Wipeout | 256277 | [256277-lofi-ball-wipeout.json](./256277-lofi-ball-wipeout.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Log Jammers | 83583 | [83583-log-jammers.json](./83583-log-jammers.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
+| Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
 | Logic: Keypad | 235993 | [235993-logic-keypad.json](./235993-logic-keypad.json) |
