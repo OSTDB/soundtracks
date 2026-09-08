@@ -1681,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Nation | 210250 | [210250-ant-nation.json](./210250-ant-nation.json) |
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
+| Ant War: Kingdom Battles | 255722 | [255722-ant-war-kingdom-battles.json](./255722-ant-war-kingdom-battles.json) |
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken: Astral Blade | 175679 | [175679-awaken-astral-blade.json](./175679-awaken-astral-blade.json) |
 | Awaken: Gunpowder Adventurer Daydream | 99010 | [99010-awaken-gunpowder-adventurer-daydream.json](./99010-awaken-gunpowder-adventurer-daydream.json) |
 | Awakening | 264059 | [264059-awakening.json](./264059-awakening.json) |
+| Awakening Sarah | 255727 | [255727-awakening-sarah.json](./255727-awakening-sarah.json) |
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
 | Awakening: The Skyward Castle | 63287 | [63287-awakening-the-skyward-castle.json](./63287-awakening-the-skyward-castle.json) |
 | Awakening: The Skyward Castle - Collector's Edition | 89942 | [89942-awakening-the-skyward-castle-collectors-edition.json](./89942-awakening-the-skyward-castle-collectors-edition.json) |
