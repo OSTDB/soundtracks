@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
+| Aha! Shashin de Machigai-sagashi | 251626 | [251626-aha-shashin-de-machigai-sagashi.json](./251626-aha-shashin-de-machigai-sagashi.json) |
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Tycoon Deluxe | 11086 | [11086-airline-tycoon-deluxe.json](./11086-airline-tycoon-deluxe.json) |
 | AirMech | 1365 | [1365-airmech.json](./1365-airmech.json) |
 | Airplane Attack | 358847 | [358847-airplane-attack.json](./358847-airplane-attack.json) |
+| Airplane Flight Simulator | 251630 | [251630-airplane-flight-simulator.json](./251630-airplane-flight-simulator.json) |
 | Airplane Mode | 126434 | [126434-airplane-mode.json](./126434-airplane-mode.json) |
 | Airplane Parking Mania 3D | 239320 | [239320-airplane-parking-mania-3d.json](./239320-airplane-parking-mania-3d.json) |
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
@@ -2188,6 +2190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 6 | 191238 | [191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json](./191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json) |
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
 | AruaRose | 144322 | [144322-aruarose.json](./144322-aruarose.json) |
+| Aruaru xx-san wo Sagase! | 251605 | [251605-aruaru-xx-san-wo-sagase.json](./251605-aruaru-xx-san-wo-sagase.json) |
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
 | Arvale | 14787 | [14787-arvale.json](./14787-arvale.json) |
 | Arvis Punch | 329015 | [329015-arvis-punch.json](./329015-arvis-punch.json) |
@@ -2440,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Ishtar's Gate | 142493 | [142493-at-ishtars-gate.json](./142493-at-ishtars-gate.json) |
 | At the Gates of Midian | 271496 | [271496-at-the-gates-of-midian.json](./271496-at-the-gates-of-midian.json) |
 | At the Heart of the Forest | 201303 | [201303-at-the-heart-of-the-forest.json](./201303-at-the-heart-of-the-forest.json) |
+| Atama ga Saeru Chou IQ | 251625 | [251625-atama-ga-saeru-chou-iq.json](./251625-atama-ga-saeru-chou-iq.json) |
 | Atama Ikuto | 344367 | [344367-atama-ikuto.json](./344367-atama-ikuto.json) |
 | Atama no Kaiten no Training: Rubik's Cube & Chou Yuumei Puzzle Tachi | 269564 | [269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json](./269564-atama-no-kaiten-no-training-rubiks-cube-and-chou-yuumei-puzzle-tachi.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
