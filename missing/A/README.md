@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
+| Aker Fern: Rdzeń Szatrisa - The Shatris Core. | 248671 | [248671-aker-fern-rdzen-szatrisa-the-shatris-core.json](./248671-aker-fern-rdzen-szatrisa-the-shatris-core.json) |
 | AkeriaTD | 288749 | [288749-akeriatd.json](./288749-akeriatd.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
@@ -1953,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
+| Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
 | Archer Maclean's Super Dropzone | 42637 | [42637-archer-macleans-super-dropzone.json](./42637-archer-macleans-super-dropzone.json) |
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
 | Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
