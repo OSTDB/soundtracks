@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
 | Immortal Realms: Vampire Wars | 119258 | [119258-immortal-realms-vampire-wars.json](./119258-immortal-realms-vampire-wars.json) |
+| Immortal Realms: Vampire Wars - Fangs and Bones | 238480 | [238480-immortal-realms-vampire-wars-fangs-and-bones.json](./238480-immortal-realms-vampire-wars-fangs-and-bones.json) |
 | Immortal Rebirth | 382764 | [382764-immortal-rebirth.json](./382764-immortal-rebirth.json) |
 | Immortal Redneck | 23188 | [23188-immortal-redneck.json](./23188-immortal-redneck.json) |
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
