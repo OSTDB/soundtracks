@@ -399,6 +399,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
 | Genies & Jewels - Puzzle Quest | 105940 | [105940-genies-and-jewels-puzzle-quest.json](./105940-genies-and-jewels-puzzle-quest.json) |
+| Gênio Fly | 241945 | [241945-genio-fly.json](./241945-genio-fly.json) |
+| Gênio Quiz Anitta | 241942 | [241942-genio-quiz-anitta.json](./241942-genio-quiz-anitta.json) |
+| Gênio Quiz BBB 21 | 241943 | [241943-genio-quiz-bbb-21.json](./241943-genio-quiz-bbb-21.json) |
+| Gênio Quiz Poke 2 | 241969 | [241969-genio-quiz-poke-2.json](./241969-genio-quiz-poke-2.json) |
 | Genital Jousting | 18387 | [18387-genital-jousting.json](./18387-genital-jousting.json) |
 | Genius Quiz 10 | 241642 | [241642-genius-quiz-10.json](./241642-genius-quiz-10.json) |
 | Genius Quiz 11 | 241643 | [241643-genius-quiz-11.json](./241643-genius-quiz-11.json) |
@@ -411,6 +415,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz 4 | 241627 | [241627-genius-quiz-4.json](./241627-genius-quiz-4.json) |
 | Genius Quiz 5 | 241640 | [241640-genius-quiz-5.json](./241640-genius-quiz-5.json) |
 | Genius Quiz 9 | 241641 | [241641-genius-quiz-9.json](./241641-genius-quiz-9.json) |
+| Genius Quiz Craft | 241947 | [241947-genius-quiz-craft.json](./241947-genius-quiz-craft.json) |
+| Genius Quiz Fort. Battle Royale | 241970 | [241970-genius-quiz-fort-battle-royale.json](./241970-genius-quiz-fort-battle-royale.json) |
+| Genius Quiz OP | 241968 | [241968-genius-quiz-op.json](./241968-genius-quiz-op.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
 | Genjiro: Samurai Defense | 285973 | [285973-genjiro-samurai-defense.json](./285973-genjiro-samurai-defense.json) |
