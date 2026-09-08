@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Force Awakens - Deluxe Edition | 53271 | [53271-lego-star-wars-the-force-awakens-deluxe-edition.json](./53271-lego-star-wars-the-force-awakens-deluxe-edition.json) |
 | LEGO Stunt Rally | 4112 | [4112-lego-stunt-rally.json](./4112-lego-stunt-rally.json) |
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
+| LEGO World Builder 2 | 243690 | [243690-lego-world-builder-2.json](./243690-lego-world-builder-2.json) |
 | Lego Worlds Showcase Collection #1 | 255377 | [255377-lego-worlds-showcase-collection-1.json](./255377-lego-worlds-showcase-collection-1.json) |
 | LEGO: City Builder | 318792 | [318792-lego-city-builder.json](./318792-lego-city-builder.json) |
 | Leguiumz Experience | 304580 | [304580-leguiumz-experience.json](./304580-leguiumz-experience.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 239310 | [239310-lemmings.json](./239310-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 242242 | [242242-lemmings-and-oh-no-more-lemmings.json](./242242-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
+| Lemmings & Oh No! More Lemmings | 243686 | [243686-lemmings-and-oh-no-more-lemmings.json](./243686-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings 2: The Tribes | 243941 | [243941-lemmings-2-the-tribes.json](./243941-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 245307 | [245307-lemmings-2-the-tribes.json](./245307-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 8307 | [8307-lemmings-2-the-tribes.json](./8307-lemmings-2-the-tribes.json) |
