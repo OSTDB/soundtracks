@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
 | Hive In Space | 290716 | [290716-hive-in-space.json](./290716-hive-in-space.json) |
 | Hive Jump 2: Survivors | 264591 | [264591-hive-jump-2-survivors.json](./264591-hive-jump-2-survivors.json) |
+| Hive Spy Remi: Mind Control Madness | 223458 | [223458-hive-spy-remi-mind-control-madness.json](./223458-hive-spy-remi-mind-control-madness.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
 | Hiveswap Friendsim | 97012 | [97012-hiveswap-friendsim.json](./97012-hiveswap-friendsim.json) |
@@ -1332,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Umbrella: Dondera no Mubou!! | 38386 | [38386-holy-umbrella-dondera-no-mubou.json](./38386-holy-umbrella-dondera-no-mubou.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
 | Home | 121014 | [121014-home.json](./121014-home.json) |
+| Home | 223477 | [223477-home.json](./223477-home.json) |
 | Home | 280198 | [280198-home.json](./280198-home.json) |
 | Home | 331351 | [331351-home.json](./331351-home.json) |
 | Home | 372448 | [372448-home.json](./372448-home.json) |
