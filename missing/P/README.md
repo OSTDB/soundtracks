@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
+| Pixels N Pistols | 246950 | [246950-pixels-n-pistols.json](./246950-pixels-n-pistols.json) |
 | Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
@@ -2248,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype Textures II | 300703 | [300703-prototype-textures-ii.json](./300703-prototype-textures-ii.json) |
 | Proud To Love | 385052 | [385052-proud-to-love.json](./385052-proud-to-love.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
+| Proun+ A Journey Through Modern Art | 246968 | [246968-proun-a-journey-through-modern-art.json](./246968-proun-a-journey-through-modern-art.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
@@ -2466,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Parasite | 366826 | [366826-puzzle-parasite.json](./366826-puzzle-parasite.json) |
 | Puzzle Park | 215882 | [215882-puzzle-park.json](./215882-puzzle-park.json) |
 | Puzzle Party | 132275 | [132275-puzzle-party.json](./132275-puzzle-party.json) |
+| Puzzle Party VR | 246948 | [246948-puzzle-party-vr.json](./246948-puzzle-party-vr.json) |
 | Puzzle Party: 10 Games | 100175 | [100175-puzzle-party-10-games.json](./100175-puzzle-party-10-games.json) |
 | Puzzle Pests | 174366 | [174366-puzzle-pests.json](./174366-puzzle-pests.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
