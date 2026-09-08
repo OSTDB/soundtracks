@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya's Dice | 179207 | [179207-mayas-dice.json](./179207-mayas-dice.json) |
 | Maya's Dream | 236508 | [236508-mayas-dream.json](./236508-mayas-dream.json) |
 | Maya's Mission | 388755 | [388755-mayas-mission.json](./388755-mayas-mission.json) |
+| Mayan Mishap | 256820 | [256820-mayan-mishap.json](./256820-mayan-mishap.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
@@ -2193,6 +2194,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
 | Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
+| Monster Hunter Ltd: Part I | 256821 | [256821-monster-hunter-ltd-part-i.json](./256821-monster-hunter-ltd-part-i.json) |
+| Monster Hunter Ltd: Part II | 256822 | [256822-monster-hunter-ltd-part-ii.json](./256822-monster-hunter-ltd-part-ii.json) |
 | Monster Hunter Now: Season 3 | 317847 | [317847-monster-hunter-now-season-3.json](./317847-monster-hunter-now-season-3.json) |
 | Monster Hunter Rise + Sunbreak | 207388 | [207388-monster-hunter-rise-sunbreak.json](./207388-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
