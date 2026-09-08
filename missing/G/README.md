@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
 | Galactic Simulator | 329595 | [329595-galactic-simulator.json](./329595-galactic-simulator.json) |
+| Galactic Story | 221190 | [221190-galactic-story.json](./221190-galactic-story.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
@@ -685,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
+| Glass Hearts | 221191 | [221191-glass-hearts.json](./221191-glass-hearts.json) |
 | Glass Horizon | 322604 | [322604-glass-horizon.json](./322604-glass-horizon.json) |
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
 | Glass Tactics | 244518 | [244518-glass-tactics.json](./244518-glass-tactics.json) |
