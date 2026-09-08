@@ -101,9 +101,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
+| Madojeongi: Secret of Elysium | 252163 | [252163-madojeongi-secret-of-elysium.json](./252163-madojeongi-secret-of-elysium.json) |
 | Madotsuki's Closet | 145675 | [145675-madotsukis-closet.json](./145675-madotsukis-closet.json) |
 | Madou Gakuin R | 46613 | [46613-madou-gakuin-r.json](./46613-madou-gakuin-r.json) |
+| Madou Monogatari | 252164 | [252164-madou-monogatari.json](./252164-madou-monogatari.json) |
 | Madou Monogatari | 57675 | [57675-madou-monogatari.json](./57675-madou-monogatari.json) |
+| Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
@@ -706,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Shooters Single-player | 240489 | [240489-masked-shooters-single-player.json](./240489-masked-shooters-single-player.json) |
 | Maskless | 135267 | [135267-maskless.json](./135267-maskless.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
+| Masochistic Maiden Aria and the Cavern of Blissful Agony | 252178 | [252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json](./252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
@@ -793,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MatchOolu | 320525 | [320525-matchoolu.json](./320525-matchoolu.json) |
 | Matchpoint: Tennis Championships - Legends Edition | 199628 | [199628-matchpoint-tennis-championships-legends-edition.json](./199628-matchpoint-tennis-championships-legends-edition.json) |
 | Matchstick: Cosmic Flame | 333554 | [333554-matchstick-cosmic-flame.json](./333554-matchstick-cosmic-flame.json) |
+| Matchsticks | 252146 | [252146-matchsticks.json](./252146-matchsticks.json) |
 | Matchsticks: Coffee Break Club | 169459 | [169459-matchsticks-coffee-break-club.json](./169459-matchsticks-coffee-break-club.json) |
 | MatchVentures | 251818 | [251818-matchventures.json](./251818-matchventures.json) |
 | MatchyGotchy Z | 109661 | [109661-matchygotchy-z.json](./109661-matchygotchy-z.json) |
@@ -1197,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorrha | 109573 | [109573-memorrha.json](./109573-memorrha.json) |
 | Memory | 219288 | [219288-memory.json](./219288-memory.json) |
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
+| Memory Color! | 252145 | [252145-memory-color.json](./252145-memory-color.json) |
 | Memory Data Memory | 331131 | [331131-memory-data-memory.json](./331131-memory-data-memory.json) |
 | Memory Eater | 123595 | [123595-memory-eater.json](./123595-memory-eater.json) |
 | Memory Fragment | 263501 | [263501-memory-fragment.json](./263501-memory-fragment.json) |
@@ -2855,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP 06: NCAA Baseball | 5937 | [5937-mvp-06-ncaa-baseball.json](./5937-mvp-06-ncaa-baseball.json) |
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
+| MX vs. ATV: Legends - Season One: Exclusive Box Edition | 252169 | [252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json](./252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json) |
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
 | MXGP 24: The Official Game | 323182 | [323182-mxgp-24-the-official-game.json](./323182-mxgp-24-the-official-game.json) |
 | MXGP Pro | 96212 | [96212-mxgp-pro.json](./96212-mxgp-pro.json) |
