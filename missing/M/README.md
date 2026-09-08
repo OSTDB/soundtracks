@@ -3338,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Mire | 332454 | [332454-mythic-mire.json](./332454-mythic-mire.json) |
 | Mythic Mountain | 234615 | [234615-mythic-mountain.json](./234615-mythic-mountain.json) |
 | Mythic Ocean | 93804 | [93804-mythic-ocean.json](./93804-mythic-ocean.json) |
+| Mythic Origin | 227265 | [227265-mythic-origin.json](./227265-mythic-origin.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
 | Mything | 381597 | [381597-mything.json](./381597-mything.json) |
