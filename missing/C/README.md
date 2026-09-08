@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ctrl-U | 272863 | [272863-ctrl-u.json](./272863-ctrl-u.json) |
 | Ctrl.Alt.Deal | 291738 | [291738-ctrl-alt-deal.json](./291738-ctrl-alt-deal.json) |
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
+| Cuana | 227879 | [227879-cuana.json](./227879-cuana.json) |
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | CubbetyCuby | 388735 | [388735-cubbetycuby.json](./388735-cubbetycuby.json) |
