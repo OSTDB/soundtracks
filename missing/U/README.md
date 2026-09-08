@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
+| Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
 | Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
@@ -508,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
 | Urban Drug Empire | 223138 | [223138-urban-drug-empire.json](./223138-urban-drug-empire.json) |
 | Urban Entrepreneur | 273395 | [273395-urban-entrepreneur.json](./273395-urban-entrepreneur.json) |
+| Urban Exploration Bundle | 218462 | [218462-urban-exploration-bundle.json](./218462-urban-exploration-bundle.json) |
 | Urban Extreme | 198535 | [198535-urban-extreme.json](./198535-urban-extreme.json) |
 | Urban Flow Vehicle Vault | 309083 | [309083-urban-flow-vehicle-vault.json](./309083-urban-flow-vehicle-vault.json) |
 | Urban Flow: Combo Edition | 328809 | [328809-urban-flow-combo-edition.json](./328809-urban-flow-combo-edition.json) |
