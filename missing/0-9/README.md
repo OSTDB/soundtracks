@@ -40,7 +40,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
-| 10-103 | 176499 | [176499-10-103.json](./176499-10-103.json) |
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10-Second Ghost | 314855 | [314855-10-second-ghost.json](./314855-10-second-ghost.json) |
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
