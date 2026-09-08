@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
 | Yóu Guō Jīngmèng | 407317 | [407317-you-guo-jingmeng.json](./407317-you-guo-jingmeng.json) |
 | You Have 10 Seconds | 31909 | [31909-you-have-10-seconds.json](./31909-you-have-10-seconds.json) |
+| You May | 229709 | [229709-you-may.json](./229709-you-may.json) |
 | Yóu Mèng Zhèng: Dreamfarer | 394196 | [394196-you-meng-zheng-dreamfarer.json](./394196-you-meng-zheng-dreamfarer.json) |
 | You Must Become A Lich | 248653 | [248653-you-must-become-a-lich.json](./248653-you-must-become-a-lich.json) |
 | You Only Livez Twice | 124250 | [124250-you-only-livez-twice.json](./124250-you-only-livez-twice.json) |
@@ -248,14 +249,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Doodle | 201843 | [201843-yume-doodle.json](./201843-yume-doodle.json) |
 | Yume Fumi | 201847 | [201847-yume-fumi.json](./201847-yume-fumi.json) |
 | Yume Graffiti | 145036 | [145036-yume-graffiti.json](./145036-yume-graffiti.json) |
+| Yume Inu | 229680 | [229680-yume-inu.json](./229680-yume-inu.json) |
 | Yume Kakigori | 319019 | [319019-yume-kakigori.json](./319019-yume-kakigori.json) |
 | Yume Meikyuu: Kigurumi Daibouken | 38378 | [38378-yume-meikyuu-kigurumi-daibouken.json](./38378-yume-meikyuu-kigurumi-daibouken.json) |
+| Yume Metsuki | 229683 | [229683-yume-metsuki.json](./229683-yume-metsuki.json) |
+| Yume Nikki GB | 229685 | [229685-yume-nikki-gb.json](./229685-yume-nikki-gb.json) |
+| Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
+| Yume Nikki: Atari 2600 | 229681 | [229681-yume-nikki-atari-2600.json](./229681-yume-nikki-atari-2600.json) |
+| Yume Nikki: Mod(ified) Project | 229682 | [229682-yume-nikki-mod-ified-project.json](./229682-yume-nikki-mod-ified-project.json) |
 | Yume Nisshi | 145033 | [145033-yume-nisshi.json](./145033-yume-nisshi.json) |
 | Yume Puzzle | 367953 | [367953-yume-puzzle.json](./367953-yume-puzzle.json) |
 | Yume Shikki | 201848 | [201848-yume-shikki.json](./201848-yume-shikki.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
+| Yume Wheeky | 229687 | [229687-yume-wheeky.json](./229687-yume-wheeky.json) |
 | Yume Wo. | 150159 | [150159-yume-wo.json](./150159-yume-wo.json) |
+| Yume-san | 229710 | [229710-yume-san.json](./229710-yume-san.json) |
 | Yume, Shosen Mousou | 150172 | [150172-yume-shosen-mousou.json](./150172-yume-shosen-mousou.json) |
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
 | Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
