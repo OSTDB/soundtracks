@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
 | Sabrina the Animated Series: Zapped! | 49943 | [49943-sabrina-the-animated-series-zapped.json](./49943-sabrina-the-animated-series-zapped.json) |
 | Sacabambaspis' Friendly Adventure | 319012 | [319012-sacabambaspis-friendly-adventure.json](./319012-sacabambaspis-friendly-adventure.json) |
+| Saccharine Pale | 239646 | [239646-saccharine-pale.json](./239646-saccharine-pale.json) |
 | Saccharine Playground | 133436 | [133436-saccharine-playground.json](./133436-saccharine-playground.json) |
 | Sack of Bots | 119040 | [119040-sack-of-bots.json](./119040-sack-of-bots.json) |
 | Sackboy: A Big Adventure - Astro Bot Costume | 290918 | [290918-sackboy-a-big-adventure-astro-bot-costume.json](./290918-sackboy-a-big-adventure-astro-bot-costume.json) |
@@ -70,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safari Quest | 84904 | [84904-safari-quest.json](./84904-safari-quest.json) |
+| Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
 | Safe Robber | 256283 | [256283-safe-robber.json](./256283-safe-robber.json) |
@@ -2089,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing Simulator Idle | 311274 | [311274-smashing-simulator-idle.json](./311274-smashing-simulator-idle.json) |
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
+| Smeesa Street | 239641 | [239641-smeesa-street.json](./239641-smeesa-street.json) |
 | Smells Like a Mushroom | 240795 | [240795-smells-like-a-mushroom.json](./240795-smells-like-a-mushroom.json) |
 | Smelter | 119191 | [119191-smelter.json](./119191-smelter.json) |
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
@@ -2261,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
+| SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
 | Snowball Fight At Christmas | 165020 | [165020-snowball-fight-at-christmas.json](./165020-snowball-fight-at-christmas.json) |
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
@@ -3462,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
 | Squire of Time | 271224 | [271224-squire-of-time.json](./271224-squire-of-time.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
+| Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
 | Squirrel Bobble | 246392 | [246392-squirrel-bobble.json](./246392-squirrel-bobble.json) |
 | Squirrel Day | 278693 | [278693-squirrel-day.json](./278693-squirrel-day.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
@@ -3778,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
 | Starstride | 264622 | [264622-starstride.json](./264622-starstride.json) |
+| Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
 | Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
 | Start the Party! Save the World! | 20731 | [20731-start-the-party-save-the-world.json](./20731-start-the-party-save-the-world.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
@@ -4265,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Substructure | 380408 | [380408-substructure.json](./380408-substructure.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
 | Subsurface Circular | 54780 | [54780-subsurface-circular.json](./54780-subsurface-circular.json) |
+| Subtension | 239670 | [239670-subtension.json](./239670-subtension.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
@@ -5156,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
+| Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
