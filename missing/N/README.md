@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
 | Netoo | 391063 | [391063-netoo.json](./391063-netoo.json) |
 | Netrek | 79932 | [79932-netrek.json](./79932-netrek.json) |
+| Netspectre | 211225 | [211225-netspectre.json](./211225-netspectre.json) |
 | NetWalk | 283745 | [283745-netwalk.json](./283745-netwalk.json) |
 | NetWits | 57655 | [57655-netwits.json](./57655-netwits.json) |
 | Network | 95442 | [95442-network.json](./95442-network.json) |
