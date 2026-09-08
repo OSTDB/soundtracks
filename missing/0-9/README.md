@@ -420,6 +420,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DO Action Pak | 37196 | [37196-3do-action-pak.json](./37196-3do-action-pak.json) |
 | 3DO Maniac Pack | 37195 | [37195-3do-maniac-pack.json](./37195-3do-maniac-pack.json) |
 | 3DTuning: Car Game & Simulator | 344916 | [344916-3dtuning-car-game-and-simulator.json](./344916-3dtuning-car-game-and-simulator.json) |
+| 3on3 FreeStyle: Deluxe Edition | 249819 | [249819-3on3-freestyle-deluxe-edition.json](./249819-3on3-freestyle-deluxe-edition.json) |
+| 3on3 FreeStyle: Ultimate Edition | 249818 | [249818-3on3-freestyle-ultimate-edition.json](./249818-3on3-freestyle-ultimate-edition.json) |
 | 3Souls: Parallel Edition | 295779 | [295779-3souls-parallel-edition.json](./295779-3souls-parallel-edition.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3 Eyes: Tenrin-ou Genmu | 73304 | [73304-3x3-eyes-tenrin-ou-genmu.json](./73304-3x3-eyes-tenrin-ou-genmu.json) |
