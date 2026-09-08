@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matthias Sammer Soccer | 49101 | [49101-matthias-sammer-soccer.json](./49101-matthias-sammer-soccer.json) |
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
+| Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
 | Max Cross | 413621 | [413621-max-cross.json](./413621-max-cross.json) |
@@ -2140,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
 | Monark: Limited Edition Box | 152340 | [152340-monark-limited-edition-box.json](./152340-monark-limited-edition-box.json) |
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
+| Monch! | 250975 | [250975-monch.json](./250975-monch.json) |
 | Mondai no Aru Share House | 260117 | [260117-mondai-no-aru-share-house.json](./260117-mondai-no-aru-share-house.json) |
 | Monday Meltdown | 260159 | [260159-monday-meltdown.json](./260159-monday-meltdown.json) |
 | Monday Meow | 388762 | [388762-monday-meow.json](./388762-monday-meow.json) |
@@ -2431,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morphies Law | 25633 | [25633-morphies-law.json](./25633-morphies-law.json) |
 | Morphscape: The Stylized Prop Pursuit | 301833 | [301833-morphscape-the-stylized-prop-pursuit.json](./301833-morphscape-the-stylized-prop-pursuit.json) |
 | Morrigan's Isle | 324876 | [324876-morrigans-isle.json](./324876-morrigans-isle.json) |
+| Morrok | 250974 | [250974-morrok.json](./250974-morrok.json) |
 | Morrow | 220844 | [220844-morrow.json](./220844-morrow.json) |
 | Morse Shingou de Ai wo Tsutae yo. | 367396 | [367396-morse-shingou-de-ai-wo-tsutae-yo.json](./367396-morse-shingou-de-ai-wo-tsutae-yo.json) |
 | Morse vs. Horse | 344340 | [344340-morse-vs-horse.json](./344340-morse-vs-horse.json) |
@@ -2506,6 +2509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Moss Palace Parade | 406118 | [406118-moss-palace-parade.json](./406118-moss-palace-parade.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
+| Mossroot | 250966 | [250966-mossroot.json](./250966-mossroot.json) |
 | Mostly Scared of Spiders | 115683 | [115683-mostly-scared-of-spiders.json](./115683-mostly-scared-of-spiders.json) |
 | Motarium | 393480 | [393480-motarium.json](./393480-motarium.json) |
 | MoteMancer | 338704 | [338704-motemancer.json](./338704-motemancer.json) |
@@ -3135,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery P.I. - The New York Fortune | 14814 | [14814-mystery-p-i-the-new-york-fortune.json](./14814-mystery-p-i-the-new-york-fortune.json) |
 | Mystery P.I.: Stolen in San Francisco | 80549 | [80549-mystery-p-i-stolen-in-san-francisco.json](./80549-mystery-p-i-stolen-in-san-francisco.json) |
 | Mystery P.I.: The Lottery Ticket | 14811 | [14811-mystery-p-i-the-lottery-ticket.json](./14811-mystery-p-i-the-lottery-ticket.json) |
+| Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
