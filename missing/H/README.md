@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Little We Wait | 285468 | [285468-how-little-we-wait.json](./285468-how-little-we-wait.json) |
 | How long can human beings exist | 109657 | [109657-how-long-can-human-beings-exist.json](./109657-how-long-can-human-beings-exist.json) |
 | How Many Bugs in a Box | 380444 | [380444-how-many-bugs-in-a-box.json](./380444-how-many-bugs-in-a-box.json) |
+| How Many Deaths to Clear? | 250353 | [250353-how-many-deaths-to-clear.json](./250353-how-many-deaths-to-clear.json) |
 | How the Little Match Girl Got Her Colt Paterson Revolver, and Taught a Virtue to a Goblin | 290403 | [290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json](./290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json) |
 | How the Little Match Girl Met the Queen of Vampires | 290404 | [290404-how-the-little-match-girl-met-the-queen-of-vampires.json](./290404-how-the-little-match-girl-met-the-queen-of-vampires.json) |
 | How They Found Silence | 169987 | [169987-how-they-found-silence.json](./169987-how-they-found-silence.json) |
