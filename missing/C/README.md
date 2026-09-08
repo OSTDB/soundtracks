@@ -2530,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
+| CSOL | 258488 | [258488-csol.json](./258488-csol.json) |
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
 | Cthulhu Kitan: Ryuuguu no Shi The Game - Insuma Machi-hen | 355534 | [355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json](./355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json) |
 | Cthulhu Mythos ADV Lunatic Whispers | 213033 | [213033-cthulhu-mythos-adv-lunatic-whispers.json](./213033-cthulhu-mythos-adv-lunatic-whispers.json) |
