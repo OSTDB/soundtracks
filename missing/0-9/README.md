@@ -33,7 +33,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
-| 1-2-Word Search! | 300728 | [300728-1-2-word-search.json](./300728-1-2-word-search.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
 | 1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby | 15938 | [15938-1-2-3-kick-it-drop-that-beat-like-an-ugly-baby.json](./15938-1-2-3-kick-it-drop-that-beat-like-an-ugly-baby.json) |
 | 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
