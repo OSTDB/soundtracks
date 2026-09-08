@@ -1299,10 +1299,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Reloaded: Puzzle Pack | 163430 | [163430-worms-reloaded-puzzle-pack.json](./163430-worms-reloaded-puzzle-pack.json) |
+| Worms Revolution: Customization Pack | 225085 | [225085-worms-revolution-customization-pack.json](./225085-worms-revolution-customization-pack.json) |
+| Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
+| Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
+| Worms Rumble: Honor & Death Pack | 225089 | [225089-worms-rumble-honor-and-death-pack.json](./225089-worms-rumble-honor-and-death-pack.json) |
 | Worms: A Space Oddity | 5290 | [5290-worms-a-space-oddity.json](./5290-worms-a-space-oddity.json) |
 | Worms: Battle Islands | 5291 | [5291-worms-battle-islands.json](./5291-worms-battle-islands.json) |
 | Worms: Open Warfare 2 | 18314 | [18314-worms-open-warfare-2.json](./18314-worms-open-warfare-2.json) |
 | Worms: Reinforcements | 24938 | [24938-worms-reinforcements.json](./24938-worms-reinforcements.json) |
+| Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
