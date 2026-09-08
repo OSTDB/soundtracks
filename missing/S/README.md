@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
+| Sensha SP | 222290 | [222290-sensha-sp.json](./222290-sensha-sp.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
 | Sensitive | 320188 | [320188-sensitive.json](./320188-sensitive.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
@@ -1274,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock has a Clue | 310949 | [310949-sherlock-has-a-clue.json](./310949-sherlock-has-a-clue.json) |
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
+| Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
 | Sherlock Holmes: The Awakened | 212664 | [212664-sherlock-holmes-the-awakened.json](./212664-sherlock-holmes-the-awakened.json) |
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
 | Sherlock Holmes: The Tea Shop Murder Mystery | 310948 | [310948-sherlock-holmes-the-tea-shop-murder-mystery.json](./310948-sherlock-holmes-the-tea-shop-murder-mystery.json) |
@@ -1604,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
 | Silence | 115840 | [115840-silence.json](./115840-silence.json) |
+| Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
 | Silence in the Cabin | 236255 | [236255-silence-in-the-cabin.json](./236255-silence-in-the-cabin.json) |
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
@@ -2603,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song Summoner: The Unsung Heroes | 23042 | [23042-song-summoner-the-unsung-heroes.json](./23042-song-summoner-the-unsung-heroes.json) |
 | Songbird | 324103 | [324103-songbird.json](./324103-songbird.json) |
 | Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
+| Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
 | Songs of Conquest | 119346 | [119346-songs-of-conquest.json](./119346-songs-of-conquest.json) |
 | Songs of Conquest: Rise Eternal | 302920 | [302920-songs-of-conquest-rise-eternal.json](./302920-songs-of-conquest-rise-eternal.json) |
 | Songs of Conquest: Roots | 366851 | [366851-songs-of-conquest-roots.json](./366851-songs-of-conquest-roots.json) |
@@ -4474,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
 | Sudoku Student | 84912 | [84912-sudoku-student.json](./84912-sudoku-student.json) |
+| Sudoku to 3-Tsu no Puzzle: Nikoli no Puzzle Variety | 222313 | [222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json](./222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json) |
 | Sudoku Universe | 121747 | [121747-sudoku-universe.json](./121747-sudoku-universe.json) |
 | Sudoku Uno | 87305 | [87305-sudoku-uno.json](./87305-sudoku-uno.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
