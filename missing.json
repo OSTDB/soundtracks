@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T13:51:07.049Z",
-  "total_missing": 46992,
+  "generated_at": "2026-09-08T14:03:48.732Z",
+  "total_missing": 47042,
   "games": [
     {
       "igdb_id": 306086,
@@ -13163,6 +13163,11 @@
       "file": "missing/A/264897-archons-arena.json"
     },
     {
+      "igdb_id": 227250,
+      "game_name": "Archwar: Heroes and Demons",
+      "file": "missing/A/227250-archwar-heroes-and-demons.json"
+    },
+    {
       "igdb_id": 156147,
       "game_name": "Arclands",
       "file": "missing/A/156147-arclands.json"
@@ -19688,6 +19693,11 @@
       "file": "missing/B/87279-basketball-pvp.json"
     },
     {
+      "igdb_id": 227267,
+      "game_name": "Basketball Rivals",
+      "file": "missing/B/227267-basketball-rivals.json"
+    },
+    {
       "igdb_id": 244798,
       "game_name": "Basketball Showdown: Royale",
       "file": "missing/B/244798-basketball-showdown-royale.json"
@@ -24213,6 +24223,11 @@
       "file": "missing/B/293098-blacklist-mafia.json"
     },
     {
+      "igdb_id": 227257,
+      "game_name": "Blackout: Sightless Home",
+      "file": "missing/B/227257-blackout-sightless-home.json"
+    },
+    {
       "igdb_id": 293896,
       "game_name": "Blackout: Uma Aventura Energética",
       "file": "missing/B/293896-blackout-uma-aventura-energetica.json"
@@ -26196,6 +26211,11 @@
       "igdb_id": 119786,
       "game_name": "Bocce VR",
       "file": "missing/B/119786-bocce-vr.json"
+    },
+    {
+      "igdb_id": 227260,
+      "game_name": "Bocchi Kaihi",
+      "file": "missing/B/227260-bocchi-kaihi.json"
     },
     {
       "igdb_id": 391029,
@@ -34166,6 +34186,11 @@
       "igdb_id": 309340,
       "game_name": "Cave Girl Clair",
       "file": "missing/C/309340-cave-girl-clair.json"
+    },
+    {
+      "igdb_id": 227254,
+      "game_name": "Cave Heroes",
+      "file": "missing/C/227254-cave-heroes.json"
     },
     {
       "igdb_id": 139468,
@@ -42803,6 +42828,11 @@
       "file": "missing/C/273960-crazy-people.json"
     },
     {
+      "igdb_id": 227255,
+      "game_name": "Crazy Pitcher",
+      "file": "missing/C/227255-crazy-pitcher.json"
+    },
+    {
       "igdb_id": 242214,
       "game_name": "Crazy Pizza Boy",
       "file": "missing/C/242214-crazy-pizza-boy.json"
@@ -47026,6 +47056,11 @@
       "igdb_id": 314034,
       "game_name": "Dark Legacy",
       "file": "missing/D/314034-dark-legacy.json"
+    },
+    {
+      "igdb_id": 227272,
+      "game_name": "Dark Lord",
+      "file": "missing/D/227272-dark-lord.json"
     },
     {
       "igdb_id": 2369,
@@ -63503,6 +63538,11 @@
       "file": "missing/E/237368-escape-mystery-the-dark-fence.json"
     },
     {
+      "igdb_id": 227253,
+      "game_name": "Escape or Imprison",
+      "file": "missing/E/227253-escape-or-imprison.json"
+    },
+    {
       "igdb_id": 278419,
       "game_name": "Escape Party",
       "file": "missing/E/278419-escape-party.json"
@@ -69186,6 +69226,11 @@
       "igdb_id": 29899,
       "game_name": "Final Bravely",
       "file": "missing/F/29899-final-bravely.json"
+    },
+    {
+      "igdb_id": 227259,
+      "game_name": "Final Dawn",
+      "file": "missing/F/227259-final-dawn.json"
     },
     {
       "igdb_id": 33101,
@@ -83983,6 +84028,11 @@
       "file": "missing/G/103506-gun-blood-cowboy-duel.json"
     },
     {
+      "igdb_id": 227258,
+      "game_name": "Gun Breaker",
+      "file": "missing/G/227258-gun-breaker.json"
+    },
+    {
       "igdb_id": 343798,
       "game_name": "Gun Bros 2",
       "file": "missing/G/343798-gun-bros-2.json"
@@ -87346,6 +87396,11 @@
       "igdb_id": 202371,
       "game_name": "Heartstrings",
       "file": "missing/H/202371-heartstrings.json"
+    },
+    {
+      "igdb_id": 227256,
+      "game_name": "Heat Racing",
+      "file": "missing/H/227256-heat-racing.json"
     },
     {
       "igdb_id": 140590,
@@ -95078,6 +95133,11 @@
       "file": "missing/I/210851-idle-campaign.json"
     },
     {
+      "igdb_id": 227273,
+      "game_name": "Idle Cave Miner",
+      "file": "missing/I/227273-idle-cave-miner.json"
+    },
+    {
       "igdb_id": 43178,
       "game_name": "Idle Champions of the Forgotten Realms",
       "file": "missing/I/43178-idle-champions-of-the-forgotten-realms.json"
@@ -95401,6 +95461,11 @@
       "igdb_id": 369577,
       "game_name": "Idle Tiers",
       "file": "missing/I/369577-idle-tiers.json"
+    },
+    {
+      "igdb_id": 227263,
+      "game_name": "Idle Traffic Tycoon Game",
+      "file": "missing/I/227263-idle-traffic-tycoon-game.json"
     },
     {
       "igdb_id": 294137,
@@ -95931,6 +95996,11 @@
       "igdb_id": 22483,
       "game_name": "Immoral Ward",
       "file": "missing/I/22483-immoral-ward.json"
+    },
+    {
+      "igdb_id": 227252,
+      "game_name": "Immortal Awakening",
+      "file": "missing/I/227252-immortal-awakening.json"
     },
     {
       "igdb_id": 245535,
@@ -105553,6 +105623,11 @@
       "file": "missing/K/298298-kiss-in-hell.json"
     },
     {
+      "igdb_id": 227262,
+      "game_name": "Kiss My Camera",
+      "file": "missing/K/227262-kiss-my-camera.json"
+    },
+    {
       "igdb_id": 43917,
       "game_name": "Kiss Pinball",
       "file": "missing/K/43917-kiss-pinball.json"
@@ -108451,6 +108526,11 @@
       "igdb_id": 377055,
       "game_name": "Last Shinobi",
       "file": "missing/L/377055-last-shinobi.json"
+    },
+    {
+      "igdb_id": 227266,
+      "game_name": "Last Shooter: Apocalypse",
+      "file": "missing/L/227266-last-shooter-apocalypse.json"
     },
     {
       "igdb_id": 316097,
@@ -113731,6 +113811,11 @@
       "igdb_id": 324884,
       "game_name": "Love Angel Syndrome",
       "file": "missing/L/324884-love-angel-syndrome.json"
+    },
+    {
+      "igdb_id": 227261,
+      "game_name": "Love Archer",
+      "file": "missing/L/227261-love-archer.json"
     },
     {
       "igdb_id": 152390,
@@ -131598,6 +131683,11 @@
       "file": "missing/M/93804-mythic-ocean.json"
     },
     {
+      "igdb_id": 227265,
+      "game_name": "Mythic Origin",
+      "file": "missing/M/227265-mythic-origin.json"
+    },
+    {
       "igdb_id": 165654,
       "game_name": "Mythic Writer",
       "file": "missing/M/165654-mythic-writer.json"
@@ -133206,6 +133296,11 @@
       "igdb_id": 241040,
       "game_name": "Neko Rescue Tale",
       "file": "missing/N/241040-neko-rescue-tale.json"
+    },
+    {
+      "igdb_id": 227270,
+      "game_name": "Neko Sagashi",
+      "file": "missing/N/227270-neko-sagashi.json"
     },
     {
       "igdb_id": 212468,
@@ -135866,6 +135961,11 @@
       "igdb_id": 97862,
       "game_name": "Nintama Rantarou GB: E-awase Challenge Puzzle",
       "file": "missing/N/97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json"
+    },
+    {
+      "igdb_id": 227251,
+      "game_name": "Nintama Rantarou Mugen no Tsubo Daibousou no Dan",
+      "file": "missing/N/227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json"
     },
     {
       "igdb_id": 270387,
@@ -172018,6 +172118,11 @@
       "file": "missing/S/237659-shadows-of-dungeon.json"
     },
     {
+      "igdb_id": 227268,
+      "game_name": "Shadows of Empires",
+      "file": "missing/S/227268-shadows-of-empires.json"
+    },
+    {
       "igdb_id": 272281,
       "game_name": "Shadows of Rogue: The Sorcerer's Curse",
       "file": "missing/S/272281-shadows-of-rogue-the-sorcerers-curse.json"
@@ -192151,6 +192256,11 @@
       "igdb_id": 137107,
       "game_name": "Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu!",
       "file": "missing/S/137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json"
+    },
+    {
+      "igdb_id": 227269,
+      "game_name": "Supreme Duo",
+      "file": "missing/S/227269-supreme-duo.json"
     },
     {
       "igdb_id": 25062,
@@ -213973,6 +214083,11 @@
       "file": "missing/T/47263-towering-rescue.json"
     },
     {
+      "igdb_id": 227271,
+      "game_name": "Towerlands",
+      "file": "missing/T/227271-towerlands.json"
+    },
+    {
       "igdb_id": 318427,
       "game_name": "Towerø",
       "file": "missing/T/318427-tower.json"
@@ -214883,6 +214998,11 @@
       "file": "missing/T/267409-train-simulator-classic-saluda-grade-scenario-pack-01.json"
     },
     {
+      "igdb_id": 227283,
+      "game_name": "Train Simulator Classic: Santa Fe Classic Pack 01",
+      "file": "missing/T/227283-train-simulator-classic-santa-fe-classic-pack-01.json"
+    },
+    {
       "igdb_id": 238487,
       "game_name": "Train Simulator Classic: Soldier Summit Route",
       "file": "missing/T/238487-train-simulator-classic-soldier-summit-route.json"
@@ -215073,6 +215193,11 @@
       "file": "missing/T/190717-trainz-railroad-simulator-2019-centrella-sub-division.json"
     },
     {
+      "igdb_id": 227282,
+      "game_name": "Trainz Railroad Simulator 2019: CFR Gorlitz Doubledecker Pack",
+      "file": "missing/T/227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json"
+    },
+    {
       "igdb_id": 190711,
       "game_name": "Trainz Railroad Simulator 2019: DB DBmu748 080",
       "file": "missing/T/190711-trainz-railroad-simulator-2019-db-dbmu748-080.json"
@@ -215081,6 +215206,11 @@
       "igdb_id": 190713,
       "game_name": "Trainz Railroad Simulator 2019: DR DBmtrue 215",
       "file": "missing/T/190713-trainz-railroad-simulator-2019-dr-dbmtrue-215.json"
+    },
+    {
+      "igdb_id": 227284,
+      "game_name": "Trainz Railroad Simulator 2019: DR/DB DBmtrue/DBmu748 Pack",
+      "file": "missing/T/227284-trainz-railroad-simulator-2019-dr-db-dbmtrue-dbmu748-pack.json"
     },
     {
       "igdb_id": 190712,
@@ -215118,14 +215248,29 @@
       "file": "missing/T/211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json"
     },
     {
+      "igdb_id": 227274,
+      "game_name": "Trainz Railroad Simulator 2019: Pro Train - DB Class 44",
+      "file": "missing/T/227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json"
+    },
+    {
       "igdb_id": 237947,
       "game_name": "Trainz Railroad Simulator 2019: Pro Train DB/DR Auxiliary Train",
       "file": "missing/T/237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json"
     },
     {
+      "igdb_id": 227285,
+      "game_name": "Trainz Railroad Simulator 2019: QUBE GE C44aci Pack",
+      "file": "missing/T/227285-trainz-railroad-simulator-2019-qube-ge-c44aci-pack.json"
+    },
+    {
       "igdb_id": 190716,
       "game_name": "Trainz Railroad Simulator 2019: Rodnye Prostory Route",
       "file": "missing/T/190716-trainz-railroad-simulator-2019-rodnye-prostory-route.json"
+    },
+    {
+      "igdb_id": 227286,
+      "game_name": "Trainz Railroad Simulator 2019: SSR Fletchers Crawfords GE C44aci Pack",
+      "file": "missing/T/227286-trainz-railroad-simulator-2019-ssr-fletchers-crawfords-ge-c44aci-pack.json"
     },
     {
       "igdb_id": 190715,
@@ -215156,6 +215301,11 @@
       "igdb_id": 288211,
       "game_name": "Trainz Railroad Simulator 2022: Port Saturn",
       "file": "missing/T/288211-trainz-railroad-simulator-2022-port-saturn.json"
+    },
+    {
+      "igdb_id": 227275,
+      "game_name": "Trainz Railroad Simulator 2022: Pro Train - DB Class 44",
+      "file": "missing/T/227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json"
     },
     {
       "igdb_id": 237945,
@@ -216928,9 +217078,109 @@
       "file": "missing/T/230291-trying-to-sing-in-static.json"
     },
     {
+      "igdb_id": 227296,
+      "game_name": "TS Marketplace: 1800s Rolling Stock Pack 02 Add-On",
+      "file": "missing/T/227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json"
+    },
+    {
+      "igdb_id": 227287,
+      "game_name": "TS Marketplace: B&O Mountain Subdivision Scenario Pack 01",
+      "file": "missing/T/227287-ts-marketplace-b-and-o-mountain-subdivision-scenario-pack-01.json"
+    },
+    {
+      "igdb_id": 227279,
+      "game_name": "TS Marketplace: BDA 80t Bogie Bolster Wagon Pack",
+      "file": "missing/T/227279-ts-marketplace-bda-80t-bogie-bolster-wagon-pack.json"
+    },
+    {
+      "igdb_id": 227278,
+      "game_name": "TS Marketplace: BDO 60T Unfitted Bogie Bolster Wagon Pack",
+      "file": "missing/T/227278-ts-marketplace-bdo-60t-unfitted-bogie-bolster-wagon-pack.json"
+    },
+    {
+      "igdb_id": 227294,
+      "game_name": "TS Marketplace: BRV 50T BORAIL EB/EC Wagons Pack",
+      "file": "missing/T/227294-ts-marketplace-brv-50t-borail-eb-ec-wagons-pack.json"
+    },
+    {
+      "igdb_id": 227276,
+      "game_name": "TS Marketplace: Caledonian Railway 65ft Grampian LMS Period 1 Coach Pack",
+      "file": "missing/T/227276-ts-marketplace-caledonian-railway-65ft-grampian-lms-period-1-coach-pack.json"
+    },
+    {
+      "igdb_id": 227281,
+      "game_name": "TS Marketplace: Class 375 Southeastern Livery Pack Add-On",
+      "file": "missing/T/227281-ts-marketplace-class-375-southeastern-livery-pack-add-on.json"
+    },
+    {
+      "igdb_id": 227299,
+      "game_name": "TS Marketplace: Class 465 Southeastern Livery Pack Add-On",
+      "file": "missing/T/227299-ts-marketplace-class-465-southeastern-livery-pack-add-on.json"
+    },
+    {
+      "igdb_id": 227298,
+      "game_name": "TS Marketplace: COV AB Vans Wagon Pack 02",
+      "file": "missing/T/227298-ts-marketplace-cov-ab-vans-wagon-pack-02.json"
+    },
+    {
+      "igdb_id": 227288,
+      "game_name": "TS Marketplace: DB Donnerbüchsen Coaches Pack",
+      "file": "missing/T/227288-ts-marketplace-db-donnerbuchsen-coaches-pack.json"
+    },
+    {
+      "igdb_id": 227297,
+      "game_name": "TS Marketplace: DR Schnellzugwagen Type YB Coach Pack",
+      "file": "missing/T/227297-ts-marketplace-dr-schnellzugwagen-type-yb-coach-pack.json"
+    },
+    {
+      "igdb_id": 227292,
+      "game_name": "TS Marketplace: Fife Circle Scenario Pack 01",
+      "file": "missing/T/227292-ts-marketplace-fife-circle-scenario-pack-01.json"
+    },
+    {
+      "igdb_id": 227280,
+      "game_name": "TS Marketplace: Frankfurt - Koblenz Scenario Pack 01",
+      "file": "missing/T/227280-ts-marketplace-frankfurt-koblenz-scenario-pack-01.json"
+    },
+    {
+      "igdb_id": 227290,
+      "game_name": "TS Marketplace: GWR Churchward Panelled Toplights Pack 06 Add-On",
+      "file": "missing/T/227290-ts-marketplace-gwr-churchward-panelled-toplights-pack-06-add-on.json"
+    },
+    {
+      "igdb_id": 227293,
+      "game_name": "TS Marketplace: LMS P1&P2 BR Maroon Coach Pack Add-On",
+      "file": "missing/T/227293-ts-marketplace-lms-p1-and-p2-br-maroon-coach-pack-add-on.json"
+    },
+    {
+      "igdb_id": 227289,
+      "game_name": "TS Marketplace: LMS P1&P2 LMS Early Coach Pack Add-On",
+      "file": "missing/T/227289-ts-marketplace-lms-p1-and-p2-lms-early-coach-pack-add-on.json"
+    },
+    {
       "igdb_id": 196896,
       "game_name": "TS Marketplace: Marias Pass Scenario Pack 01",
       "file": "missing/T/196896-ts-marketplace-marias-pass-scenario-pack-01.json"
+    },
+    {
+      "igdb_id": 227277,
+      "game_name": "TS Marketplace: Maunsell 59ft Low Window Corridor Coach Pack BR Green",
+      "file": "missing/T/227277-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-br-green.json"
+    },
+    {
+      "igdb_id": 227295,
+      "game_name": "TS Marketplace: Maunsell 59ft Low Window Corridor Coach Pack Crimson Cream",
+      "file": "missing/T/227295-ts-marketplace-maunsell-59ft-low-window-corridor-coach-pack-crimson-cream.json"
+    },
+    {
+      "igdb_id": 227291,
+      "game_name": "TS Marketplace: Northeast Corridor Scenario Pack 02",
+      "file": "missing/T/227291-ts-marketplace-northeast-corridor-scenario-pack-02.json"
+    },
+    {
+      "igdb_id": 227300,
+      "game_name": "TS Marketplace: Renewable Energy Pack",
+      "file": "missing/T/227300-ts-marketplace-renewable-energy-pack.json"
     },
     {
       "igdb_id": 234297,
