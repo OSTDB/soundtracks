@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
+| Tasty Slot Machine | 242552 | [242552-tasty-slot-machine.json](./242552-tasty-slot-machine.json) |
 | Tasty Words - Free Word Games | 105973 | [105973-tasty-words-free-word-games.json](./105973-tasty-words-free-word-games.json) |
 | Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
@@ -1890,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
+| The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
 | The Light Inside Us | 55922 | [55922-the-light-inside-us.json](./55922-the-light-inside-us.json) |
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
@@ -1903,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lion's Song: Episode 2 - Anthology | 168343 | [168343-the-lions-song-episode-2-anthology.json](./168343-the-lions-song-episode-2-anthology.json) |
 | The Lion's Song: Episode 3 - Derivation | 168345 | [168345-the-lions-song-episode-3-derivation.json](./168345-the-lions-song-episode-3-derivation.json) |
 | The Lion's Song: Episode 4 - Closure | 168344 | [168344-the-lions-song-episode-4-closure.json](./168344-the-lions-song-episode-4-closure.json) |
+| The Lions Knight | 242556 | [242556-the-lions-knight.json](./242556-the-lions-knight.json) |
 | The Lisa Joyful in Hopeful Christmas Special | 360020 | [360020-the-lisa-joyful-in-hopeful-christmas-special.json](./360020-the-lisa-joyful-in-hopeful-christmas-special.json) |
 | The Little Drone 2 | 172202 | [172202-the-little-drone-2.json](./172202-the-little-drone-2.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
@@ -3597,6 +3600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Warlords of New York - Season 4: End of Watch | 217531 | [217531-tom-clancys-the-division-2-warlords-of-new-york-season-4-end-of-watch.json](./217531-tom-clancys-the-division-2-warlords-of-new-york-season-4-end-of-watch.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 9: Hidden Alliance | 217536 | [217536-tom-clancys-the-division-2-warlords-of-new-york-season-9-hidden-alliance.json](./217536-tom-clancys-the-division-2-warlords-of-new-york-season-9-hidden-alliance.json) |
 | Tom Clancy's The Division: Heartland | 146881 | [146881-tom-clancys-the-division-heartland.json](./146881-tom-clancys-the-division-heartland.json) |
+| Tom Clancy's The Division: Parade Pack | 242572 | [242572-tom-clancys-the-division-parade-pack.json](./242572-tom-clancys-the-division-parade-pack.json) |
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Landry Strategy Football: Deluxe Edition | 400255 | [400255-tom-landry-strategy-football-deluxe-edition.json](./400255-tom-landry-strategy-football-deluxe-edition.json) |
