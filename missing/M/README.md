@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Together | 400213 | [400213-mall-together.json](./400213-mall-together.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
 | Malody V | 190191 | [190191-malody-v.json](./190191-malody-v.json) |
+| Malstrum's Mansion | 254509 | [254509-malstrums-mansion.json](./254509-malstrums-mansion.json) |
 | Malta Storm | 72083 | [72083-malta-storm.json](./72083-malta-storm.json) |
 | Malum Escape | 311500 | [311500-malum-escape.json](./311500-malum-escape.json) |
 | Malvin`s Prehistoric Adventures | 129228 | [129228-malvin-s-prehistoric-adventures.json](./129228-malvin-s-prehistoric-adventures.json) |
@@ -613,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's House of STHU | 323747 | [323747-marios-house-of-sthu.json](./323747-marios-house-of-sthu.json) |
 | Mario's Mahalo Party | 324092 | [324092-marios-mahalo-party.json](./324092-marios-mahalo-party.json) |
 | Mario's Mini Micro Adventures | 331311 | [331311-marios-mini-micro-adventures.json](./331311-marios-mini-micro-adventures.json) |
+| Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
 | Marion Surgical Robot Game | 336905 | [336905-marion-surgical-robot-game.json](./336905-marion-surgical-robot-game.json) |
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
@@ -1052,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X: Legacy Collection 1+2 | 96248 | [96248-mega-man-x-legacy-collection-1-2.json](./96248-mega-man-x-legacy-collection-1-2.json) |
 | Mega Man X: Project Zero | 376479 | [376479-mega-man-x-project-zero.json](./376479-mega-man-x-project-zero.json) |
 | Mega Man X: Proto Edition | 201859 | [201859-mega-man-x-proto-edition.json](./201859-mega-man-x-proto-edition.json) |
+| Mega Man X: The Red Cartridge | 254527 | [254527-mega-man-x-the-red-cartridge.json](./254527-mega-man-x-the-red-cartridge.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
@@ -1684,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: James Web Space Telescope | 322959 | [322959-minecraft-james-web-space-telescope.json](./322959-minecraft-james-web-space-telescope.json) |
 | Minecraft: Minecon 2016 Skin Pack | 255328 | [255328-minecraft-minecon-2016-skin-pack.json](./255328-minecraft-minecon-2016-skin-pack.json) |
 | Minecraft: Minecon Live - Rush Race! | 315515 | [315515-minecraft-minecon-live-rush-race.json](./315515-minecraft-minecon-live-rush-race.json) |
+| Minecraft: Moana Character Pack | 254491 | [254491-minecraft-moana-character-pack.json](./254491-minecraft-moana-character-pack.json) |
 | Minecraft: Mob Weapons | 333584 | [333584-minecraft-mob-weapons.json](./333584-minecraft-mob-weapons.json) |
 | Minecraft: Nintendo Switch Edition | 85614 | [85614-minecraft-nintendo-switch-edition.json](./85614-minecraft-nintendo-switch-edition.json) |
 | Minecraft: Norse Mythology Bonus Skins | 322957 | [322957-minecraft-norse-mythology-bonus-skins.json](./322957-minecraft-norse-mythology-bonus-skins.json) |
@@ -2490,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother 1+2 | 78585 | [78585-mother-1-2.json](./78585-mother-1-2.json) |
 | Mother 3.5 | 310951 | [310951-mother-3-5.json](./310951-mother-3-5.json) |
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
+| Mother Fucker Galaxy | 254523 | [254523-mother-fucker-galaxy.json](./254523-mother-fucker-galaxy.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
 | Mother May I | 291455 | [291455-mother-may-i.json](./291455-mother-may-i.json) |
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
@@ -2631,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Do! | 297491 | [297491-mr-do.json](./297491-mr-do.json) |
 | Mr. Do! | 365697 | [365697-mr-do.json](./365697-mr-do.json) |
 | Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
+| Mr. Driller | 254519 | [254519-mr-driller.json](./254519-mr-driller.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
