@@ -1453,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
 | Micro Mayhem | 115040 | [115040-micro-mayhem.json](./115040-micro-mayhem.json) |
+| Micro Maze | 252731 | [252731-micro-maze.json](./252731-micro-maze.json) |
 | Micro Mouse Game | 91957 | [91957-micro-mouse-game.json](./91957-micro-mouse-game.json) |
 | Micro Ninja | 314647 | [314647-micro-ninja.json](./314647-micro-ninja.json) |
 | Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
