@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Street Trader 98 | 64967 | [64967-wall-street-trader-98.json](./64967-wall-street-trader-98.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
 | Wall-Breaking | 230838 | [230838-wall-breaking.json](./230838-wall-breaking.json) |
+| Wall-E | 220129 | [220129-wall-e.json](./220129-wall-e.json) |
 | Wall-E | 279597 | [279597-wall-e.json](./279597-wall-e.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
@@ -544,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
+| Wheel of Fortune | 220131 | [220131-wheel-of-fortune.json](./220131-wheel-of-fortune.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
 | Wheel of Fortune Cookie | 100898 | [100898-wheel-of-fortune-cookie.json](./100898-wheel-of-fortune-cookie.json) |
@@ -1246,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Wimmelbild Gold | 92503 | [92503-world-of-wimmelbild-gold.json](./92503-world-of-wimmelbild-gold.json) |
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
 | World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
+| World Poker Tour | 220133 | [220133-world-poker-tour.json](./220133-world-poker-tour.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
@@ -1395,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuxia Master | 109703 | [109703-wuxia-master.json](./109703-wuxia-master.json) |
 | Wwaves | 181900 | [181900-wwaves.json](./181900-wwaves.json) |
 | WWC: World Wrestling Championship | 46028 | [46028-wwc-world-wrestling-championship.json](./46028-wwc-world-wrestling-championship.json) |
+| WWE | 220132 | [220132-wwe.json](./220132-wwe.json) |
 | WWE 2K17: Accelerator | 168353 | [168353-wwe-2k17-accelerator.json](./168353-wwe-2k17-accelerator.json) |
 | WWE 2K17: Hall of Fame Showcase | 168352 | [168352-wwe-2k17-hall-of-fame-showcase.json](./168352-wwe-2k17-hall-of-fame-showcase.json) |
 | WWE 2K17: Legends Pack | 168350 | [168350-wwe-2k17-legends-pack.json](./168350-wwe-2k17-legends-pack.json) |
