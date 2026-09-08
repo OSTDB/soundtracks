@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T22:33:24.918Z",
-  "total_missing": 48391,
+  "generated_at": "2026-09-08T22:41:01.907Z",
+  "total_missing": 48390,
   "games": [
     {
       "igdb_id": 306086,
@@ -356,11 +356,6 @@
       "igdb_id": 164477,
       "game_name": "100% Orange Juice: Sham & Sherry",
       "file": "missing/0-9/164477-100-orange-juice-sham-and-sherry.json"
-    },
-    {
-      "igdb_id": 164478,
-      "game_name": "100% Orange Juice: Sora & Sham (Cuties)",
-      "file": "missing/0-9/164478-100-orange-juice-sora-and-sham-cuties.json"
     },
     {
       "igdb_id": 164473,
