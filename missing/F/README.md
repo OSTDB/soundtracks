@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestorm Deadland | 253365 | [253365-firestorm-deadland.json](./253365-firestorm-deadland.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | Firewall Zero Hour | 76966 | [76966-firewall-zero-hour.json](./76966-firewall-zero-hour.json) |
+| Firewall: Man vs. Machine | 217880 | [217880-firewall-man-vs-machine.json](./217880-firewall-man-vs-machine.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
 | Firewind | 73322 | [73322-firewind.json](./73322-firewind.json) |
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyWings 2018 Flight Simulator: Military Helicopters | 168880 | [168880-flywings-2018-flight-simulator-military-helicopters.json](./168880-flywings-2018-flight-simulator-military-helicopters.json) |
 | FlyWings 2018 Flight Simulator: World War I Fighters | 168879 | [168879-flywings-2018-flight-simulator-world-war-i-fighters.json](./168879-flywings-2018-flight-simulator-world-war-i-fighters.json) |
 | Flywrench | 12072 | [12072-flywrench.json](./12072-flywrench.json) |
+| Flyzz! | 217931 | [217931-flyzz.json](./217931-flyzz.json) |
 | FMV Horror Bundle | 236812 | [236812-fmv-horror-bundle.json](./236812-fmv-horror-bundle.json) |
 | FNaF 2: Wii U Edition | 358328 | [358328-fnaf-2-wii-u-edition.json](./358328-fnaf-2-wii-u-edition.json) |
 | FNaF World Redacted | 362810 | [362810-fnaf-world-redacted.json](./362810-fnaf-world-redacted.json) |
