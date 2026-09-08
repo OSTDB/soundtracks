@@ -1122,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Shooter: Triple Bundle Pack | 218467 | [218467-ex-shooter-triple-bundle-pack.json](./218467-ex-shooter-triple-bundle-pack.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
+| Ex0 Escape | 211208 | [211208-ex0-escape.json](./211208-ex0-escape.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
