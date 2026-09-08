@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
 | Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
+| Minna no Othello | 217925 | [217925-minna-no-othello.json](./217925-minna-no-othello.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
@@ -2642,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: RoboCop | 139440 | [139440-mortal-kombat-11-robocop.json](./139440-mortal-kombat-11-robocop.json) |
 | Mortal Kombat 11: Sheeva | 139441 | [139441-mortal-kombat-11-sheeva.json](./139441-mortal-kombat-11-sheeva.json) |
 | Mortal Kombat 11: The Joker | 128009 | [128009-mortal-kombat-11-the-joker.json](./128009-mortal-kombat-11-the-joker.json) |
+| Mortal Kombat 3 | 217929 | [217929-mortal-kombat-3.json](./217929-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242251 | [242251-mortal-kombat-3.json](./242251-mortal-kombat-3.json) |
 | Mortal Kombat 3 | 242252 | [242252-mortal-kombat-3.json](./242252-mortal-kombat-3.json) |
 | Mortal Kombat Advance | 45156 | [45156-mortal-kombat-advance.json](./45156-mortal-kombat-advance.json) |
