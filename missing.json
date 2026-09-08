@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T12:18:48.731Z",
-  "total_missing": 46700,
+  "generated_at": "2026-09-08T12:21:34.232Z",
+  "total_missing": 46699,
   "games": [
     {
       "igdb_id": 306086,
@@ -41,11 +41,6 @@
       "igdb_id": 265687,
       "game_name": "'Round The Mind",
       "file": "missing/0-9/265687-round-the-mind.json"
-    },
-    {
-      "igdb_id": 413604,
-      "game_name": "'Round the Valley",
-      "file": "missing/0-9/413604-round-the-valley.json"
     },
     {
       "igdb_id": 247183,
