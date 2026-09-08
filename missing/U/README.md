@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
+| Unreal Vendetta | 213414 | [213414-unreal-vendetta.json](./213414-unreal-vendetta.json) |
 | Unrecord | 246417 | [246417-unrecord.json](./246417-unrecord.json) |
 | UnRequited | 201311 | [201311-unrequited.json](./201311-unrequited.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
@@ -561,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
+| Utter Inverse | 213415 | [213415-utter-inverse.json](./213415-utter-inverse.json) |
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
 | Uwol 2 | 299168 | [299168-uwol-2.json](./299168-uwol-2.json) |
