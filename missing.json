@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T14:03:48.732Z",
-  "total_missing": 47042,
+  "generated_at": "2026-09-08T14:11:08.841Z",
+  "total_missing": 47041,
   "games": [
     {
       "igdb_id": 306086,
@@ -96,11 +96,6 @@
       "igdb_id": 124224,
       "game_name": ">Connect",
       "file": "missing/0-9/124224-connect.json"
-    },
-    {
-      "igdb_id": 191250,
-      "game_name": "001 Earth",
-      "file": "missing/0-9/191250-001-earth.json"
     },
     {
       "igdb_id": 325453,
