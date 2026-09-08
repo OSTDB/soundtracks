@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Boss 2 | 86786 | [86786-beat-the-boss-2.json](./86786-beat-the-boss-2.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
+| Beat Them Up: Box Simulator | 234626 | [234626-beat-them-up-box-simulator.json](./234626-beat-them-up-box-simulator.json) |
 | Beat Them Up: Street Fight Band Simulator | 251598 | [251598-beat-them-up-street-fight-band-simulator.json](./251598-beat-them-up-street-fight-band-simulator.json) |
 | Beat Time | 91439 | [91439-beat-time.json](./91439-beat-time.json) |
 | Beat Vector | 393465 | [393465-beat-vector.json](./393465-beat-vector.json) |
@@ -1102,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
+| Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
 | Big Adventure: Trip to Europe | 237359 | [237359-big-adventure-trip-to-europe.json](./237359-big-adventure-trip-to-europe.json) |
 | Big Adventure: Trip to Europe 10 - Collector's Edition | 338699 | [338699-big-adventure-trip-to-europe-10-collectors-edition.json](./338699-big-adventure-trip-to-europe-10-collectors-edition.json) |
@@ -2075,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
 | Bowling by Jason Belmonte | 262386 | [262386-bowling-by-jason-belmonte.json](./262386-bowling-by-jason-belmonte.json) |
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
+| Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
 | Bowman | 357273 | [357273-bowman.json](./357273-bowman.json) |
@@ -2085,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Critters | 146293 | [146293-box-critters.json](./146293-box-critters.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
+| Box Roulette Simulator | 234629 | [234629-box-roulette-simulator.json](./234629-box-roulette-simulator.json) |
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
 | Box To The Beat VR: Electro Swing Pack | 310399 | [310399-box-to-the-beat-vr-electro-swing-pack.json](./310399-box-to-the-beat-vr-electro-swing-pack.json) |
@@ -2320,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Sky: The Watch of the Future | 413006 | [413006-bright-sky-the-watch-of-the-future.json](./413006-bright-sky-the-watch-of-the-future.json) |
 | Brightblood | 159846 | [159846-brightblood.json](./159846-brightblood.json) |
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
+| Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Briks Head to Head | 187547 | [187547-briks-head-to-head.json](./187547-briks-head-to-head.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
