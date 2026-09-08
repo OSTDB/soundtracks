@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
 | Rêves: Lettres et Ciel | 228423 | [228423-reves-lettres-et-ciel.json](./228423-reves-lettres-et-ciel.json) |
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
+| Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
 | Reviver: The Real-Time Adventure | 63884 | [63884-reviver-the-real-time-adventure.json](./63884-reviver-the-real-time-adventure.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
