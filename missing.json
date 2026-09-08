@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T17:48:43.819Z",
-  "total_missing": 47595,
+  "generated_at": "2026-09-08T17:51:05.827Z",
+  "total_missing": 47594,
   "games": [
     {
       "igdb_id": 306086,
@@ -206,11 +206,6 @@
       "igdb_id": 315289,
       "game_name": "100 China Cats",
       "file": "missing/0-9/315289-100-china-cats.json"
-    },
-    {
-      "igdb_id": 276705,
-      "game_name": "100 Christmas Cats: Extra Content",
-      "file": "missing/0-9/276705-100-christmas-cats-extra-content.json"
     },
     {
       "igdb_id": 378185,
