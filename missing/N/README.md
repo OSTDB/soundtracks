@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NullStar | 144360 | [144360-nullstar.json](./144360-nullstar.json) |
 | Nullstar: Solus | 310206 | [310206-nullstar-solus.json](./310206-nullstar-solus.json) |
 | Num One: Revised Edition | 187504 | [187504-num-one-revised-edition.json](./187504-num-one-revised-edition.json) |
+| Num Yumms | 252143 | [252143-num-yumms.json](./252143-num-yumms.json) |
 | Numachina | 350412 | [350412-numachina.json](./350412-numachina.json) |
 | Numb: Just Don't Think About It | 255103 | [255103-numb-just-dont-think-about-it.json](./255103-numb-just-dont-think-about-it.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
