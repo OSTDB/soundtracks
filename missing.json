@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T17:21:09.325Z",
-  "total_missing": 47544,
+  "generated_at": "2026-09-08T17:31:09.155Z",
+  "total_missing": 47546,
   "games": [
     {
       "igdb_id": 306086,
@@ -196,11 +196,6 @@
       "igdb_id": 331350,
       "game_name": "100 Balls",
       "file": "missing/0-9/331350-100-balls.json"
-    },
-    {
-      "igdb_id": 334118,
-      "game_name": "100 Berlin Cats",
-      "file": "missing/0-9/334118-100-berlin-cats.json"
     },
     {
       "igdb_id": 334119,
@@ -103288,6 +103283,11 @@
       "file": "missing/J/386722-juniper-a-scrapbooking-adventure.json"
     },
     {
+      "igdb_id": 221201,
+      "game_name": "Junjou Gal to Shiawase no Katachi: Shape of Happiness",
+      "file": "missing/J/221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json"
+    },
+    {
       "igdb_id": 246988,
       "game_name": "Junk Race",
       "file": "missing/J/246988-junk-race.json"
@@ -128503,6 +128503,11 @@
       "file": "missing/M/382763-monstro-maestro.json"
     },
     {
+      "igdb_id": 221200,
+      "game_name": "Monstrous Love",
+      "file": "missing/M/221200-monstrous-love.json"
+    },
+    {
       "igdb_id": 148562,
       "game_name": "Monstrous Lovers",
       "file": "missing/M/148562-monstrous-lovers.json"
@@ -131966,6 +131971,11 @@
       "igdb_id": 247509,
       "game_name": "My Merry Maybe",
       "file": "missing/M/247509-my-merry-maybe.json"
+    },
+    {
+      "igdb_id": 221202,
+      "game_name": "My Mistress",
+      "file": "missing/M/221202-my-mistress.json"
     },
     {
       "igdb_id": 318391,
