@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T21:31:01.471Z",
-  "total_missing": 48196,
+  "generated_at": "2026-09-08T21:41:00.315Z",
+  "total_missing": 48195,
   "games": [
     {
       "igdb_id": 306086,
@@ -326,11 +326,6 @@
       "igdb_id": 11426,
       "game_name": "100% Orange Juice",
       "file": "missing/0-9/11426-100-orange-juice.json"
-    },
-    {
-      "igdb_id": 164483,
-      "game_name": "100% Orange Juice: Acceleration Pack",
-      "file": "missing/0-9/164483-100-orange-juice-acceleration-pack.json"
     },
     {
       "igdb_id": 164469,
