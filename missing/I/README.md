@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illegal Crime Game | 251246 | [251246-illegal-crime-game.json](./251246-illegal-crime-game.json) |
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
 | Illegal Mahjong | 272563 | [272563-illegal-mahjong.json](./272563-illegal-mahjong.json) |
+| Illumina Girls | 222937 | [222937-illumina-girls.json](./222937-illumina-girls.json) |
 | Illuminaria | 180285 | [180285-illuminaria.json](./180285-illuminaria.json) |
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
