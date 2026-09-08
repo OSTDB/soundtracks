@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T18:18:24.943Z",
-  "total_missing": 47693,
+  "generated_at": "2026-09-08T18:21:05.846Z",
+  "total_missing": 47692,
   "games": [
     {
       "igdb_id": 306086,
@@ -221,11 +221,6 @@
       "igdb_id": 334121,
       "game_name": "100 Cyprus Cats",
       "file": "missing/0-9/334121-100-cyprus-cats.json"
-    },
-    {
-      "igdb_id": 184119,
-      "game_name": "100 Degrees",
-      "file": "missing/0-9/184119-100-degrees.json"
     },
     {
       "igdb_id": 145001,
