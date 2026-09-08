@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
 | Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
+| Neko-sama no Karaguri: Garden kara no Dasshutsu | 240231 | [240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json](./240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json) |
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
 | Neko's Rage | 251840 | [251840-nekos-rage.json](./251840-nekos-rage.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
+| No Paper! | 240224 | [240224-no-paper.json](./240224-no-paper.json) |
 | No Recollection: Swimsuit DLC! | 315486 | [315486-no-recollection-swimsuit-dlc.json](./315486-no-recollection-swimsuit-dlc.json) |
 | No Rest | 302688 | [302688-no-rest.json](./302688-no-rest.json) |
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
@@ -1007,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
 | Nonentity Galaxy | 311490 | [311490-nonentity-galaxy.json](./311490-nonentity-galaxy.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
+| Nono Adventure | 240218 | [240218-nono-adventure.json](./240218-nono-adventure.json) |
 | Nono Islands | 57111 | [57111-nono-islands.json](./57111-nono-islands.json) |
 | Nonocular | 181384 | [181384-nonocular.json](./181384-nonocular.json) |
 | Nonogram | 112360 | [112360-nonogram.json](./112360-nonogram.json) |
