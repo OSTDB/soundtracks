@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi: Superstar Saga | 3351 | [3351-mario-and-luigi-superstar-saga.json](./3351-mario-and-luigi-superstar-saga.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
+| Mario + Rabbids Kingdom Battle: Ultra Challenge Pack | 237938 | [237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json](./237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json) |
 | Mario 128 | 130354 | [130354-mario-128.json](./130354-mario-128.json) |
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
 | Mario 7-in-1 | 242230 | [242230-mario-7-in-1.json](./242230-mario-7-in-1.json) |
