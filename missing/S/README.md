@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa and Present Chaos | 278992 | [278992-santa-and-present-chaos.json](./278992-santa-and-present-chaos.json) |
 | Santa Challenge | 130959 | [130959-santa-challenge.json](./130959-santa-challenge.json) |
 | Santa Claus and Christmas: Happy Adventures | 328497 | [328497-santa-claus-and-christmas-happy-adventures.json](./328497-santa-claus-and-christmas-happy-adventures.json) |
+| Santa Claus Goblins Attack | 232990 | [232990-santa-claus-goblins-attack.json](./232990-santa-claus-goblins-attack.json) |
 | Santa Claus is Comin' to Town | 50622 | [50622-santa-claus-is-comin-to-town.json](./50622-santa-claus-is-comin-to-town.json) |
 | Santa Claus Jigsaw Puzzles | 228108 | [228108-santa-claus-jigsaw-puzzles.json](./228108-santa-claus-jigsaw-puzzles.json) |
 | Santa Claws | 50224 | [50224-santa-claws.json](./50224-santa-claws.json) |
@@ -2831,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
+| Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | Soulash 2 | 249194 | [249194-soulash-2.json](./249194-soulash-2.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
@@ -3782,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlite | 137057 | [137057-starlite.json](./137057-starlite.json) |
 | Starlite: Defender of Justice | 156687 | [156687-starlite-defender-of-justice.json](./156687-starlite-defender-of-justice.json) |
+| Starlite: Defender of Justice Ultimate HD Edition | 232982 | [232982-starlite-defender-of-justice-ultimate-hd-edition.json](./232982-starlite-defender-of-justice-ultimate-hd-edition.json) |
 | Starloom | 382769 | [382769-starloom.json](./382769-starloom.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | StarOS | 255961 | [255961-staros.json](./255961-staros.json) |
@@ -4155,6 +4158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
 | Stream or Die! | 292306 | [292306-stream-or-die.json](./292306-stream-or-die.json) |
 | Stream Quiz | 140027 | [140027-stream-quiz.json](./140027-stream-quiz.json) |
+| Stream Runners: Heroes | 232972 | [232972-stream-runners-heroes.json](./232972-stream-runners-heroes.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
 | StreamerVille | 285996 | [285996-streamerville.json](./285996-streamerville.json) |
@@ -5146,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
 | Survivor Warrior-Vampire.io | 245342 | [245342-survivor-warrior-vampire-io.json](./245342-survivor-warrior-vampire-io.json) |
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
+| Survivor: Stay in the Light | 232980 | [232980-survivor-stay-in-the-light.json](./232980-survivor-stay-in-the-light.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
@@ -5362,6 +5367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Syndicate Plus | 77198 | [77198-syndicate-plus.json](./77198-syndicate-plus.json) |
 | Syndicate: American Revolt | 50 | [50-syndicate-american-revolt.json](./50-syndicate-american-revolt.json) |
+| Syndrome: Extended Edition | 233005 | [233005-syndrome-extended-edition.json](./233005-syndrome-extended-edition.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
