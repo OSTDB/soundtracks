@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Jewel Switch | 240196 | [240196-amazing-jewel-switch.json](./240196-amazing-jewel-switch.json) |
 | Amazing Lab! Science Experiments Quiz | 399607 | [399607-amazing-lab-science-experiments-quiz.json](./399607-amazing-lab-science-experiments-quiz.json) |
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
+| Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
 | Amazing Space | 258210 | [258210-amazing-space.json](./258210-amazing-space.json) |
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
@@ -1614,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Bulls | 209706 | [209706-angry-bulls.json](./209706-angry-bulls.json) |
 | Angry Bunnies | 62200 | [62200-angry-bunnies.json](./62200-angry-bunnies.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
+| Angry Cat | 212815 | [212815-angry-cat.json](./212815-angry-cat.json) |
 | Angry Cat | 379906 | [379906-angry-cat.json](./379906-angry-cat.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
@@ -1654,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
 | Animal Style | 391594 | [391594-animal-style.json](./391594-animal-style.json) |
 | Animal Survival | 379369 | [379369-animal-survival.json](./379369-animal-survival.json) |
+| Animal Trail Girlish Square | 212799 | [212799-animal-trail-girlish-square.json](./212799-animal-trail-girlish-square.json) |
 | Animal Trainer Simulator | 226236 | [226236-animal-trainer-simulator.json](./226236-animal-trainer-simulator.json) |
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
