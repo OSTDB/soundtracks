@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
 | Gemsweeper | 135284 | [135284-gemsweeper.json](./135284-gemsweeper.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
+| Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
@@ -766,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
+| Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
@@ -1296,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
 | Grey Haven | 239664 | [239664-grey-haven.json](./239664-grey-haven.json) |
 | Grey Instinct | 159305 | [159305-grey-instinct.json](./159305-grey-instinct.json) |
+| Grey Instinct: Part 2 | 235774 | [235774-grey-instinct-part-2.json](./235774-grey-instinct-part-2.json) |
 | Grey Skies: A War of the Worlds Story | 140628 | [140628-grey-skies-a-war-of-the-worlds-story.json](./140628-grey-skies-a-war-of-the-worlds-story.json) |
 | Grey Wolf | 56499 | [56499-grey-wolf.json](./56499-grey-wolf.json) |
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
