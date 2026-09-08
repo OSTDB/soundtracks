@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Rivals | 332266 | [332266-office-rivals.json](./332266-office-rivals.json) |
 | Office Sex | 365717 | [365717-office-sex.json](./365717-office-sex.json) |
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
+| Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
 | Official AFL: The Interactive DVD Trivia Game - Adelaide Super Quiz | 275582 | [275582-official-afl-the-interactive-dvd-trivia-game-adelaide-super-quiz.json](./275582-official-afl-the-interactive-dvd-trivia-game-adelaide-super-quiz.json) |
 | Official AFL: The Interactive DVD Trivia Game - Carlton Super Quiz | 275583 | [275583-official-afl-the-interactive-dvd-trivia-game-carlton-super-quiz.json](./275583-official-afl-the-interactive-dvd-trivia-game-carlton-super-quiz.json) |
@@ -749,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Naked Remix | 247186 | [247186-otoko-cross-naked-remix.json](./247186-otoko-cross-naked-remix.json) |
 | Otoko Cross: Naked Remix 2 | 381621 | [381621-otoko-cross-naked-remix-2.json](./381621-otoko-cross-naked-remix-2.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
+| Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
