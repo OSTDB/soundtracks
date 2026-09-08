@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Healthy Hero: Tower Defense | 284921 | [284921-healthy-hero-tower-defense.json](./284921-healthy-hero-tower-defense.json) |
+| Healthy Hospital | 233508 | [233508-healthy-hospital.json](./233508-healthy-hospital.json) |
 | Healthy Weapon | 112332 | [112332-healthy-weapon.json](./112332-healthy-weapon.json) |
 | Hear Tell of Hauntings | 338726 | [338726-hear-tell-of-hauntings.json](./338726-hear-tell-of-hauntings.json) |
 | Hearse Hero | 406119 | [406119-hearse-hero.json](./406119-hearse-hero.json) |
@@ -849,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Park | 156651 | [156651-hero-park.json](./156651-hero-park.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Rescue | 319947 | [319947-hero-rescue.json](./319947-hero-rescue.json) |
+| Hero Rescue 3 | 233511 | [233511-hero-rescue-3.json](./233511-hero-rescue-3.json) |
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
 | Hero Well | 249200 | [249200-hero-well.json](./249200-hero-well.json) |
@@ -1042,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
 | Hidden Space Top-Down 3D | 269007 | [269007-hidden-space-top-down-3d.json](./269007-hidden-space-top-down-3d.json) |
 | Hidden Storehouse Top-Down 3D | 320548 | [320548-hidden-storehouse-top-down-3d.json](./320548-hidden-storehouse-top-down-3d.json) |
+| Hidden Tales | 233482 | [233482-hidden-tales.json](./233482-hidden-tales.json) |
 | Hidden Temple Adventure | 248650 | [248650-hidden-temple-adventure.json](./248650-hidden-temple-adventure.json) |
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
 | Hidden Western Top-Down 3D | 277827 | [277827-hidden-western-top-down-3d.json](./277827-hidden-western-top-down-3d.json) |
