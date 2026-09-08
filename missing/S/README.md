@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safety First! | 32189 | [32189-safety-first.json](./32189-safety-first.json) |
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
+| Saga of Sins | 211238 | [211238-saga-of-sins.json](./211238-saga-of-sins.json) |
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
 | SaGa: Scarlet Grace - Hiiro no Yabou | 97908 | [97908-saga-scarlet-grace-hiiro-no-yabou.json](./97908-saga-scarlet-grace-hiiro-no-yabou.json) |
@@ -1546,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
 | Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
+| SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
 | Shrapnel City 2096: Trapped In The Future! | 308237 | [308237-shrapnel-city-2096-trapped-in-the-future.json](./308237-shrapnel-city-2096-trapped-in-the-future.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
@@ -3217,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tower Defense | 377585 | [377585-space-tower-defense.json](./377585-space-tower-defense.json) |
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
+| Space Trash Scavenger | 211215 | [211215-space-trash-scavenger.json](./211215-space-trash-scavenger.json) |
 | Space Treasure Hunters | 372489 | [372489-space-treasure-hunters.json](./372489-space-treasure-hunters.json) |
 | Space Treasure Hunters part 2 | 372491 | [372491-space-treasure-hunters-part-2.json](./372491-space-treasure-hunters-part-2.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
@@ -3279,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | SparkleWand Puzzle | 239056 | [239056-sparklewand-puzzle.json](./239056-sparklewand-puzzle.json) |
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
+| SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
@@ -3474,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiriki: Tiny Island | 404860 | [404860-spiriki-tiny-island.json](./404860-spiriki-tiny-island.json) |
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
 | Spirit Cleaning | 151717 | [151717-spirit-cleaning.json](./151717-spirit-cleaning.json) |
+| Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Legends: Finding Balance - Collector's Edition | 338707 | [338707-spirit-legends-finding-balance-collectors-edition.json](./338707-spirit-legends-finding-balance-collectors-edition.json) |
 | Spirit Legends: Solar Eclipse - Collector's Edition | 338706 | [338706-spirit-legends-solar-eclipse-collectors-edition.json](./338706-spirit-legends-solar-eclipse-collectors-edition.json) |
@@ -4531,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
 | Sub Chase | 245579 | [245579-sub-chase.json](./245579-sub-chase.json) |
+| Sub Chase Online | 211200 | [211200-sub-chase-online.json](./211200-sub-chase-online.json) |
 | Sub Duel | 97352 | [97352-sub-duel.json](./97352-sub-duel.json) |
 | Sub Game | 316079 | [316079-sub-game.json](./316079-sub-game.json) |
 | Sub Hunt | 5707 | [5707-sub-hunt.json](./5707-sub-hunt.json) |
