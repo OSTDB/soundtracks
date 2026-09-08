@@ -227,6 +227,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Digital Edition - Courtesan | 149065 | [149065-talisman-digital-edition-courtesan.json](./149065-talisman-digital-edition-courtesan.json) |
 | Talisman: Digital Edition - Devil's Minion | 149067 | [149067-talisman-digital-edition-devils-minion.json](./149067-talisman-digital-edition-devils-minion.json) |
 | Talisman: Digital Edition - Exorcist | 149058 | [149058-talisman-digital-edition-exorcist.json](./149058-talisman-digital-edition-exorcist.json) |
+| Talisman: Digital Edition - Expansion Pack 1 | 237935 | [237935-talisman-digital-edition-expansion-pack-1.json](./237935-talisman-digital-edition-expansion-pack-1.json) |
+| Talisman: Digital Edition - Expansion Pack 2 | 237934 | [237934-talisman-digital-edition-expansion-pack-2.json](./237934-talisman-digital-edition-expansion-pack-2.json) |
 | Talisman: Digital Edition - Gambler | 149078 | [149078-talisman-digital-edition-gambler.json](./149078-talisman-digital-edition-gambler.json) |
 | Talisman: Digital Edition - Genie | 149063 | [149063-talisman-digital-edition-genie.json](./149063-talisman-digital-edition-genie.json) |
 | Talisman: Digital Edition - Goblin Shaman | 149051 | [149051-talisman-digital-edition-goblin-shaman.json](./149051-talisman-digital-edition-goblin-shaman.json) |
@@ -317,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
+| Tank Legend Online: League of Tanks | 237961 | [237961-tank-legend-online-league-of-tanks.json](./237961-tank-legend-online-league-of-tanks.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Maze | 293076 | [293076-tank-maze.json](./293076-tank-maze.json) |
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
@@ -2168,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
 | The Oracle's Cave | 312556 | [312556-the-oracles-cave.json](./312556-the-oracles-cave.json) |
 | The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
+| The Orc Invasion | 237950 | [237950-the-orc-invasion.json](./237950-the-orc-invasion.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Origin Theory: Episode One | 304589 | [304589-the-origin-theory-episode-one.json](./304589-the-origin-theory-episode-one.json) |
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
@@ -4033,8 +4037,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Harlem Line - Grand Central Terminal: North White Plains Route | 195778 | [195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json](./195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json) |
 | Train Sim World 2: Hauptstrecke Hamburg - Lübeck Route Add-On | 147456 | [147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json](./147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json) |
 | Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route | 195777 | [195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json](./195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json) |
+| Train Sim World 3: Amtrak's Acela | 237944 | [237944-train-sim-world-3-amtraks-acela.json](./237944-train-sim-world-3-amtraks-acela.json) |
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
+| Train Sim World 3: Northeast Corridor - New York: Trenton | 237942 | [237942-train-sim-world-3-northeast-corridor-new-york-trenton.json](./237942-train-sim-world-3-northeast-corridor-new-york-trenton.json) |
 | Train Sim World 3: Peak Forest Railway - Ambergate - Chinley & Buxton | 273930 | [273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json](./273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json) |
+| Train Sim World 3: Union Pacific Heritage - Livery Collection | 237943 | [237943-train-sim-world-3-union-pacific-heritage-livery-collection.json](./237943-train-sim-world-3-union-pacific-heritage-livery-collection.json) |
 | Train Sim World 4: Antelope Valley Line - Los Angeles - Lancaster Route | 269324 | [269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json](./269324-train-sim-world-4-antelope-valley-line-los-angeles-lancaster-route.json) |
 | Train Sim World 4: Berninalinie - Tirano: Ospizio Bernina Route | 286525 | [286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json](./286525-train-sim-world-4-berninalinie-tirano-ospizio-bernina-route.json) |
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
@@ -4136,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Port Saturn | 288212 | [288212-trainz-plus-port-saturn.json](./288212-trainz-plus-port-saturn.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 4 | 306105 | [306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json](./306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json) |
 | Trainz Plus: Pro Train - Sequoia Valley | 306106 | [306106-trainz-plus-pro-train-sequoia-valley.json](./306106-trainz-plus-pro-train-sequoia-valley.json) |
+| Trainz Plus: Pro Train DB/DR Auxiliary Train | 237946 | [237946-trainz-plus-pro-train-db-dr-auxiliary-train.json](./237946-trainz-plus-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Plus: ProTrain - AC4400CW Loco Bundle 1 | 306104 | [306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json](./306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json) |
 | Trainz Railroad Simulator 2007 | 11015 | [11015-trainz-railroad-simulator-2007.json](./11015-trainz-railroad-simulator-2007.json) |
 | Trainz Railroad Simulator 2019: Centrella Sub Division | 190717 | [190717-trainz-railroad-simulator-2019-centrella-sub-division.json](./190717-trainz-railroad-simulator-2019-centrella-sub-division.json) |
@@ -4148,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: PKP/PREG/PolRegio Bdhpumn/B16mnopux Pack | 190710 | [190710-trainz-railroad-simulator-2019-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json](./190710-trainz-railroad-simulator-2019-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json) |
 | Trainz Railroad Simulator 2019: Port Saturn | 288210 | [288210-trainz-railroad-simulator-2019-port-saturn.json](./288210-trainz-railroad-simulator-2019-port-saturn.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB BR Class 85 001 | 211918 | [211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json](./211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json) |
+| Trainz Railroad Simulator 2019: Pro Train DB/DR Auxiliary Train | 237947 | [237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json](./237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2019: Rodnye Prostory Route | 190716 | [190716-trainz-railroad-simulator-2019-rodnye-prostory-route.json](./190716-trainz-railroad-simulator-2019-rodnye-prostory-route.json) |
 | Trainz Railroad Simulator 2019: Switch Model Railroad - TRS19 | 190715 | [190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json](./190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json) |
 | Trainz Railroad Simulator 2019: VR Healesville 1913-1920 TRS19 | 190707 | [190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json](./190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json) |
@@ -4155,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: Harvard Subdivision - Commuter Edition | 285474 | [285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json](./285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json) |
 | Trainz Railroad Simulator 2022: NR Class Locomotive - JBR Indian Pacific Pack | 284917 | [284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json](./284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json) |
 | Trainz Railroad Simulator 2022: Port Saturn | 288211 | [288211-trainz-railroad-simulator-2022-port-saturn.json](./288211-trainz-railroad-simulator-2022-port-saturn.json) |
+| Trainz Railroad Simulator 2022: Pro Train DB/DR Auxiliary Train | 237945 | [237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json](./237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Railroad Simulator 2022: SSR Fletchers Crawfords GE C44aci Pack | 318440 | [318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json](./318440-trainz-railroad-simulator-2022-ssr-fletchers-crawfords-ge-c44aci-pack.json) |
 | Trainz Simulator 2009: Settle and Carlisle | 27898 | [27898-trainz-simulator-2009-settle-and-carlisle.json](./27898-trainz-simulator-2009-settle-and-carlisle.json) |
 | Trainz Simulator 2009: World Builder Edition | 11016 | [11016-trainz-simulator-2009-world-builder-edition.json](./11016-trainz-simulator-2009-world-builder-edition.json) |
