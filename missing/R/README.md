@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
+| Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune II | 55149 | [55149-rune-ii.json](./55149-rune-ii.json) |
 | Rune in the Three Kingdoms | 278674 | [278674-rune-in-the-three-kingdoms.json](./278674-rune-in-the-three-kingdoms.json) |
 | Rune Legacy Idle | 377598 | [377598-rune-legacy-idle.json](./377598-rune-legacy-idle.json) |
