@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
+| Yo-Kai Watch 3: Tempura | 222295 | [222295-yo-kai-watch-3-tempura.json](./222295-yo-kai-watch-3-tempura.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
 | Yodobongingi | 234635 | [234635-yodobongingi.json](./234635-yodobongingi.json) |
@@ -129,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorg.io | 101699 | [101699-yorg-io.json](./101699-yorg-io.json) |
 | Yorigami Market | 269580 | [269580-yorigami-market.json](./269580-yorigami-market.json) |
 | Yorkshire's Great Race | 237962 | [237962-yorkshires-great-race.json](./237962-yorkshires-great-race.json) |
+| Yoru no Majin to Ikusa no Kuni: Samayoeru Vampire | 222335 | [222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json](./222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json) |
 | Yorvik's Game | 374610 | [374610-yorviks-game.json](./374610-yorviks-game.json) |
 | Yoshi and the Mysterious Book | 366883 | [366883-yoshi-and-the-mysterious-book.json](./366883-yoshi-and-the-mysterious-book.json) |
 | Yoshi Commits Tax Fraud 64 | 294710 | [294710-yoshi-commits-tax-fraud-64.json](./294710-yoshi-commits-tax-fraud-64.json) |
