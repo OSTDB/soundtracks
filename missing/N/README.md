@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
+| Neko Neko | 219036 | [219036-neko-neko.json](./219036-neko-neko.json) |
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Night | 222912 | [222912-neko-night.json](./222912-neko-night.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
@@ -767,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
 | Niko: Through the Dream | 17323 | [17323-niko-through-the-dream.json](./17323-niko-through-the-dream.json) |
+| Nikoli no Puzzle 4: Shikaku ni Kire | 219025 | [219025-nikoli-no-puzzle-4-shikaku-ni-kire.json](./219025-nikoli-no-puzzle-4-shikaku-ni-kire.json) |
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
@@ -835,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Savior | 268496 | [268496-ninja-savior.json](./268496-ninja-savior.json) |
 | Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger: Chou Sentai Super Battle | 62743 | [62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json](./62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json) |
 | Ninja Sentai Kakuranger | 310198 | [310198-ninja-sentai-kakuranger.json](./310198-ninja-sentai-kakuranger.json) |
+| Ninja Spirit | 219020 | [219020-ninja-spirit.json](./219020-ninja-spirit.json) |
 | Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
 | Ninja Tag | 59996 | [59996-ninja-tag.json](./59996-ninja-tag.json) |
 | Ninja TD | 200189 | [200189-ninja-td.json](./200189-ninja-td.json) |
