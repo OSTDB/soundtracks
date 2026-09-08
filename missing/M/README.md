@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
+| Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
@@ -1577,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Marbles | 258441 | [258441-mighty-marbles.json](./258441-mighty-marbles.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
+| Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
 | Mighty Switch Force! Hyper Drive Edition | 2176 | [2176-mighty-switch-force-hyper-drive-edition.json](./2176-mighty-switch-force-hyper-drive-edition.json) |
 | Mighty the Armadillo | 330152 | [330152-mighty-the-armadillo.json](./330152-mighty-the-armadillo.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
