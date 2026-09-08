@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
+| That Gun Crafter Cat | 257934 | [257934-that-gun-crafter-cat.json](./257934-that-gun-crafter-cat.json) |
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Cautious Condor | 70968 | [70968-the-case-of-the-cautious-condor.json](./70968-the-case-of-the-cautious-condor.json) |
 | The Case of the Mysterious Maulings | 306959 | [306959-the-case-of-the-mysterious-maulings.json](./306959-the-case-of-the-mysterious-maulings.json) |
 | The Case of the Serialized Killer | 209720 | [209720-the-case-of-the-serialized-killer.json](./209720-the-case-of-the-serialized-killer.json) |
+| The Casino Empire | 257940 | [257940-the-casino-empire.json](./257940-the-casino-empire.json) |
 | The Casino: Roulette, Video Poker, Slot Machines, Craps, Baccarat | 147952 | [147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json](./147952-the-casino-roulette-video-poker-slot-machines-craps-baccarat.json) |
 | The Castle Disaster 2 | 105318 | [105318-the-castle-disaster-2.json](./105318-the-castle-disaster-2.json) |
 | The Castle Doctrine | 16651 | [16651-the-castle-doctrine.json](./16651-the-castle-doctrine.json) |
@@ -3261,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
 | Time to Play Hearts | 86709 | [86709-time-to-play-hearts.json](./86709-time-to-play-hearts.json) |
 | Time to Play Pyramid | 96759 | [96759-time-to-play-pyramid.json](./96759-time-to-play-pyramid.json) |
+| Time To Wake Up | 257932 | [257932-time-to-wake-up.json](./257932-time-to-wake-up.json) |
 | Time Trap: Hidden Objects | 287108 | [287108-time-trap-hidden-objects.json](./287108-time-trap-hidden-objects.json) |
 | Time Travel | 117091 | [117091-time-travel.json](./117091-time-travel.json) |
 | Time Travel Cafe | 295777 | [295777-time-travel-cafe.json](./295777-time-travel-cafe.json) |
