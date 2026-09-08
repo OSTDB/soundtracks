@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
 | Love Lust and a Little Evil | 385058 | [385058-love-lust-and-a-little-evil.json](./385058-love-lust-and-a-little-evil.json) |
 | Love Mart | 348226 | [348226-love-mart.json](./348226-love-mart.json) |
+| Love Me Not | 252147 | [252147-love-me-not.json](./252147-love-me-not.json) |
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
