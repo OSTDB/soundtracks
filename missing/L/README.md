@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Resilience | 302918 | [302918-lunar-resilience.json](./302918-lunar-resilience.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
+| Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
 | Lunch Box | 221734 | [221734-lunch-box.json](./221734-lunch-box.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
@@ -1524,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
+| Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurking Darkness | 319025 | [319025-lurking-darkness.json](./319025-lurking-darkness.json) |
 | Lurking in the Shadows | 58244 | [58244-lurking-in-the-shadows.json](./58244-lurking-in-the-shadows.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
