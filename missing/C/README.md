@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
+| CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
@@ -776,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centre Court Tennis | 3456 | [3456-centre-court-tennis.json](./3456-centre-court-tennis.json) |
 | Centrist | 276694 | [276694-centrist.json](./276694-centrist.json) |
 | Centropods | 45355 | [45355-centropods.json](./45355-centropods.json) |
+| Century 0: Parasitic Tower | 216798 | [216798-century-0-parasitic-tower.json](./216798-century-0-parasitic-tower.json) |
 | Century: Age of Ashes | 141536 | [141536-century-age-of-ashes.json](./141536-century-age-of-ashes.json) |
 | Century: Age of Ashes - Colossus Deluxe Edition | 199636 | [199636-century-age-of-ashes-colossus-deluxe-edition.json](./199636-century-age-of-ashes-colossus-deluxe-edition.json) |
 | Century: Age of Ashes - Dragon Eggs Edition | 218495 | [218495-century-age-of-ashes-dragon-eggs-edition.json](./218495-century-age-of-ashes-dragon-eggs-edition.json) |
