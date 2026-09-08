@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Gym | 239347 | [239347-after-gym.json](./239347-after-gym.json) |
 | After Hours Athletes | 44603 | [44603-after-hours-athletes.json](./44603-after-hours-athletes.json) |
+| After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
 | After The Afterlife | 361684 | [361684-after-the-afterlife.json](./361684-after-the-afterlife.json) |
@@ -868,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
+| Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
@@ -1463,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelic Vale | 202376 | [202376-angelic-vale.json](./202376-angelic-vale.json) |
+| Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
 | Angelique Trois | 72678 | [72678-angelique-trois.json](./72678-angelique-trois.json) |
 | Angelique: Maren no Rokukishi | 56515 | [56515-angelique-maren-no-rokukishi.json](./56515-angelique-maren-no-rokukishi.json) |
