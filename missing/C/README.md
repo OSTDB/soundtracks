@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess '98 | 204703 | [204703-chess-98.json](./204703-chess-98.json) |
 | Chess & Backgammon Classics | 79907 | [79907-chess-and-backgammon-classics.json](./79907-chess-and-backgammon-classics.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
+| Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
@@ -1986,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
+| Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
@@ -2824,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Russia | 300693 | [300693-cyber-russia.json](./300693-cyber-russia.json) |
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
+| Cyber Strider | 248028 | [248028-cyber-strider.json](./248028-cyber-strider.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Strike | 282002 | [282002-cyber-strike.json](./282002-cyber-strike.json) |
 | Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
