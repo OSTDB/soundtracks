@@ -262,10 +262,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yurivania 3: Circle of the Polycule | 364533 | [364533-yurivania-3-circle-of-the-polycule.json](./364533-yurivania-3-circle-of-the-polycule.json) |
 | Yuru-yuru Gekijou: Gekijou-ban - Kanketsu-hen: Sanbu-sak | 256272 | [256272-yuru-yuru-gekijou-gekijou-ban-kanketsu-hen-sanbu-sak.json](./256272-yuru-yuru-gekijou-gekijou-ban-kanketsu-hen-sanbu-sak.json) |
 | Yurukill: The Calumniation Games - Deluxe Edition | 175976 | [175976-yurukill-the-calumniation-games-deluxe-edition.json](./175976-yurukill-the-calumniation-games-deluxe-edition.json) |
+| Yurutto Manaberu Classic | 251620 | [251620-yurutto-manaberu-classic.json](./251620-yurutto-manaberu-classic.json) |
 | Yurutto Manaberu Meisaku Bungaku | 260695 | [260695-yurutto-manaberu-meisaku-bungaku.json](./260695-yurutto-manaberu-meisaku-bungaku.json) |
+| Yurutto Manaberu Sekai Isan | 251619 | [251619-yurutto-manaberu-sekai-isan.json](./251619-yurutto-manaberu-sekai-isan.json) |
+| Yurutto Manaberu Sekai no Kaiga | 251618 | [251618-yurutto-manaberu-sekai-no-kaiga.json](./251618-yurutto-manaberu-sekai-no-kaiga.json) |
 | Yurutto Manaberu Tetsugaku | 260694 | [260694-yurutto-manaberu-tetsugaku.json](./260694-yurutto-manaberu-tetsugaku.json) |
 | Yusha no Hanamichi | 331863 | [331863-yusha-no-hanamichi.json](./331863-yusha-no-hanamichi.json) |
 | Yuujou no Victory Goal: 4v4 Arashi - Get the Goal‼ | 353873 | [353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json](./353873-yuujou-no-victory-goal-4v4-arashi-get-the-goal.json) |
+| Yuuki no Suiri Nori 3: Balance no Ii Shokuji | 251624 | [251624-yuuki-no-suiri-nori-3-balance-no-ii-shokuji.json](./251624-yuuki-no-suiri-nori-3-balance-no-ii-shokuji.json) |
 | Yuuki Yuuna ha Yuusha de Aru: Hanayui no Kirameki - Vol. 5 | 292883 | [292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json](./292883-yuuki-yuuna-ha-yuusha-de-aru-hanayui-no-kirameki-vol-5.json) |
 | Yuuki's Party Night | 286518 | [286518-yuukis-party-night.json](./286518-yuukis-party-night.json) |
 | Yuukuri Panic Escalation | 58838 | [58838-yuukuri-panic-escalation.json](./58838-yuukuri-panic-escalation.json) |
