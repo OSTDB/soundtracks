@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Election Game | 12951 | [12951-the-election-game.json](./12951-the-election-game.json) |
 | The Electric Yoyo | 221402 | [221402-the-electric-yoyo.json](./221402-the-electric-yoyo.json) |
 | The Elementalist Typing | 347183 | [347183-the-elementalist-typing.json](./347183-the-elementalist-typing.json) |
+| The Elephant E | 229040 | [229040-the-elephant-e.json](./229040-the-elephant-e.json) |
 | The Elevator | 326986 | [326986-the-elevator.json](./326986-the-elevator.json) |
 | The Elision Effect | 273415 | [273415-the-elision-effect.json](./273415-the-elision-effect.json) |
 | The Eminence in Shadow: Master of Garden | 227490 | [227490-the-eminence-in-shadow-master-of-garden.json](./227490-the-eminence-in-shadow-master-of-garden.json) |
@@ -1630,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted Graveyard | 110343 | [110343-the-haunted-graveyard.json](./110343-the-haunted-graveyard.json) |
 | The Haunted Hospice | 259285 | [259285-the-haunted-hospice.json](./259285-the-haunted-hospice.json) |
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
+| The Haunted Song | 229056 | [229056-the-haunted-song.json](./229056-the-haunted-song.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
@@ -2744,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
 | The Traveller: Vanilla Version | 280201 | [280201-the-traveller-vanilla-version.json](./280201-the-traveller-vanilla-version.json) |
+| The Travelling Salesfrog Problem | 229073 | [229073-the-travelling-salesfrog-problem.json](./229073-the-travelling-salesfrog-problem.json) |
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
 | The Treasure Seekers of Lady Luck | 83596 | [83596-the-treasure-seekers-of-lady-luck.json](./83596-the-treasure-seekers-of-lady-luck.json) |
 | The Treasures of Hotei | 96071 | [96071-the-treasures-of-hotei.json](./96071-the-treasures-of-hotei.json) |
@@ -2992,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
 | Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
+| Thickety Creek | 229049 | [229049-thickety-creek.json](./229049-thickety-creek.json) |
 | Thief | 362857 | [362857-thief.json](./362857-thief.json) |
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief of Thieves: Season One | 95116 | [95116-thief-of-thieves-season-one.json](./95116-thief-of-thieves-season-one.json) |
