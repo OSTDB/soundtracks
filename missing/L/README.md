@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollipop! | 159882 | [159882-lollipop.json](./159882-lollipop.json) |
 | Lomo Overgrow | 398346 | [398346-lomo-overgrow.json](./398346-lomo-overgrow.json) |
 | Lonath Online | 34323 | [34323-lonath-online.json](./34323-lonath-online.json) |
+| London Crazy Taxi | 235217 | [235217-london-crazy-taxi.json](./235217-london-crazy-taxi.json) |
 | Lone Wolf Saga | 273956 | [273956-lone-wolf-saga.json](./273956-lone-wolf-saga.json) |
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
