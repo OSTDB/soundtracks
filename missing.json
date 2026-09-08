@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T15:31:11.749Z",
-  "total_missing": 47287,
+  "generated_at": "2026-09-08T15:41:07.868Z",
+  "total_missing": 47286,
   "games": [
     {
       "igdb_id": 306086,
@@ -141,11 +141,6 @@
       "igdb_id": 325869,
       "game_name": "1-900-Gary",
       "file": "missing/0-9/325869-1-900-gary.json"
-    },
-    {
-      "igdb_id": 15938,
-      "game_name": "1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby",
-      "file": "missing/0-9/15938-1-2-3-kick-it-drop-that-beat-like-an-ugly-baby.json"
     },
     {
       "igdb_id": 98422,
