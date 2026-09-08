@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
 | Captain Tsubasa Vol. II: Super Striker | 102254 | [102254-captain-tsubasa-vol-ii-super-striker.json](./102254-captain-tsubasa-vol-ii-super-striker.json) |
 | Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
+| Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
@@ -355,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
+| Carmen Sandiego: To Steal or Not to Steal | 256843 | [256843-carmen-sandiego-to-steal-or-not-to-steal.json](./256843-carmen-sandiego-to-steal-or-not-to-steal.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
 | Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
@@ -507,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Bait | 310418 | [310418-cat-bait.json](./310418-cat-bait.json) |
 | Cat Ball: Gravity Maze | 273375 | [273375-cat-ball-gravity-maze.json](./273375-cat-ball-gravity-maze.json) |
 | Cat Box Paradox | 185679 | [185679-cat-box-paradox.json](./185679-cat-box-paradox.json) |
+| Cat Burglar | 256835 | [256835-cat-burglar.json](./256835-cat-burglar.json) |
 | Cat Cafe Simulator | 301266 | [301266-cat-cafe-simulator.json](./301266-cat-cafe-simulator.json) |
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
@@ -660,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
+| Caverns of Darkness | 256819 | [256819-caverns-of-darkness.json](./256819-caverns-of-darkness.json) |
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caves of Qud | 24054 | [24054-caves-of-qud.json](./24054-caves-of-qud.json) |
 | Caves of Qud: Pets of Harvest Dawn | 389407 | [389407-caves-of-qud-pets-of-harvest-dawn.json](./389407-caves-of-qud-pets-of-harvest-dawn.json) |
@@ -1981,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
 | Corrupted Basement | 375810 | [375810-corrupted-basement.json](./375810-corrupted-basement.json) |
+| Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
 | Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
@@ -2819,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyclo Chambers | 218704 | [218704-cyclo-chambers.json](./218704-cyclo-chambers.json) |
 | CycloHex | 192977 | [192977-cyclohex.json](./192977-cyclohex.json) |
 | Cyclone Circus: Power Sail Racing | 72112 | [72112-cyclone-circus-power-sail-racing.json](./72112-cyclone-circus-power-sail-racing.json) |
+| Cydonia | 256838 | [256838-cydonia.json](./256838-cydonia.json) |
 | Cylinder: Puzzles Returned | 63898 | [63898-cylinder-puzzles-returned.json](./63898-cylinder-puzzles-returned.json) |
 | Cylindrix | 73318 | [73318-cylindrix.json](./73318-cylindrix.json) |
 | Cylor vs. the Bullets From Hell | 123612 | [123612-cylor-vs-the-bullets-from-hell.json](./123612-cylor-vs-the-bullets-from-hell.json) |
