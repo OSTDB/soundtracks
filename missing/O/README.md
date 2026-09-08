@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Playground | 341496 | [341496-ocean-playground.json](./341496-ocean-playground.json) |
 | Oceanhorn: Monster of Uncharted Seas | 18975 | [18975-oceanhorn-monster-of-uncharted-seas.json](./18975-oceanhorn-monster-of-uncharted-seas.json) |
 | Oceanopolis 2000 | 398361 | [398361-oceanopolis-2000.json](./398361-oceanopolis-2000.json) |
+| Oceans | 224563 | [224563-oceans.json](./224563-oceans.json) |
 | Oceans Below | 37124 | [37124-oceans-below.json](./37124-oceans-below.json) |
 | Oceanside | 274198 | [274198-oceanside.json](./274198-oceanside.json) |
 | Oceanspirit Danish | 57102 | [57102-oceanspirit-danish.json](./57102-oceanspirit-danish.json) |
