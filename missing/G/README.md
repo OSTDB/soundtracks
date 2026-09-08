@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Luck Crossing | 344393 | [344393-good-luck-crossing.json](./344393-good-luck-crossing.json) |
 | Good Mahjong | 88276 | [88276-good-mahjong.json](./88276-good-mahjong.json) |
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
+| Good Morning Is A Social Construct | 231393 | [231393-good-morning-is-a-social-construct.json](./231393-good-morning-is-a-social-construct.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
 | Good Pizza, Great Pizza: Summer Slices Set - Summer 2023 | 255980 | [255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json](./255980-good-pizza-great-pizza-summer-slices-set-summer-2023.json) |
 | Good Pizza, Great Pizza: Taste of Rome Set - Chapter 5 | 266521 | [266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json](./266521-good-pizza-great-pizza-taste-of-rome-set-chapter-5.json) |
@@ -1352,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
 | Grim Tales: The Hunger - Collector's Edition | 250596 | [250596-grim-tales-the-hunger-collectors-edition.json](./250596-grim-tales-the-hunger-collectors-edition.json) |
 | Grim Tales: The Time Traveler | 258697 | [258697-grim-tales-the-time-traveler.json](./258697-grim-tales-the-time-traveler.json) |
+| Grim Tales: The Time Traveler - Collector's Edition | 231357 | [231357-grim-tales-the-time-traveler-collectors-edition.json](./231357-grim-tales-the-time-traveler-collectors-edition.json) |
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
