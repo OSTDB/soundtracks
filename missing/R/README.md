@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
+| Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
 | Roman Sacrifice in Córdoba | 74447 | [74447-roman-sacrifice-in-cordoba.json](./74447-roman-sacrifice-in-cordoba.json) |
 | Roman the Worm | 105336 | [105336-roman-the-worm.json](./105336-roman-the-worm.json) |
 | Roman Trahtenberg: V poiskah ideal'nogo anekdota | 403581 | [403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json](./403581-roman-trahtenberg-v-poiskah-idealnogo-anekdota.json) |
