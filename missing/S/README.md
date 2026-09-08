@@ -2962,6 +2962,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
+| Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
+| Space Takeover: Over City | 245340 | [245340-space-takeover-over-city.json](./245340-space-takeover-over-city.json) |
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
 | Space to Investigate | 179702 | [179702-space-to-investigate.json](./179702-space-to-investigate.json) |
@@ -3714,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
 | Stars Era: Abyss Frontier | 289303 | [289303-stars-era-abyss-frontier.json](./289303-stars-era-abyss-frontier.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
+| Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
@@ -3883,6 +3886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
+| Stick Fight: Endless Battle | 245338 | [245338-stick-fight-endless-battle.json](./245338-stick-fight-endless-battle.json) |
 | Stick Fight: Shadow Warrior | 323193 | [323193-stick-fight-shadow-warrior.json](./323193-stick-fight-shadow-warrior.json) |
 | Stick Fight: The Game | 65832 | [65832-stick-fight-the-game.json](./65832-stick-fight-the-game.json) |
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
@@ -4769,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
 | Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
 | Super Nudge 2000 | 72698 | [72698-super-nudge-2000.json](./72698-super-nudge-2000.json) |
+| Super Off Road | 245295 | [245295-super-off-road.json](./245295-super-off-road.json) |
 | Super Off Road | 365683 | [365683-super-off-road.json](./365683-super-off-road.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Panic Monsters | 71510 | [71510-super-panic-monsters.json](./71510-super-panic-monsters.json) |
@@ -5028,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor Challenge TD | 276158 | [276158-survivor-challenge-td.json](./276158-survivor-challenge-td.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
+| Survivor Warrior-Vampire.io | 245342 | [245342-survivor-warrior-vampire-io.json](./245342-survivor-warrior-vampire-io.json) |
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Survivors Will | 250347 | [250347-survivors-will.json](./250347-survivors-will.json) |
