@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
 | Off the Table | 174327 | [174327-off-the-table.json](./174327-off-the-table.json) |
 | Off the Wall | 333931 | [333931-off-the-wall.json](./333931-off-the-wall.json) |
+| Off to Sleep | 222930 | [222930-off-to-sleep.json](./222930-off-to-sleep.json) |
 | Off Trail | 341500 | [341500-off-trail.json](./341500-off-trail.json) |
 | Off_Duty | 184613 | [184613-off-duty.json](./184613-off-duty.json) |
 | Off-Road Farming | 188679 | [188679-off-road-farming.json](./188679-off-road-farming.json) |
@@ -755,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
 | Oshidashi Zintrick | 130369 | [130369-oshidashi-zintrick.json](./130369-oshidashi-zintrick.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
+| Osminog Adventures: The Lost Island | 222909 | [222909-osminog-adventures-the-lost-island.json](./222909-osminog-adventures-the-lost-island.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
 | Osomatsu-san Protagonist Contest Pokoball | 266478 | [266478-osomatsu-san-protagonist-contest-pokoball.json](./266478-osomatsu-san-protagonist-contest-pokoball.json) |
