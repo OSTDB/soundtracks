@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Racing 2D | 99538 | [99538-ultimate-racing-2d.json](./99538-ultimate-racing-2d.json) |
 | Ultimate Ride | 95444 | [95444-ultimate-ride.json](./95444-ultimate-ride.json) |
 | Ultimate Rivals: The Rink | 127349 | [127349-ultimate-rivals-the-rink.json](./127349-ultimate-rivals-the-rink.json) |
+| Ultimate Sackboy | 232419 | [232419-ultimate-sackboy.json](./232419-ultimate-sackboy.json) |
 | Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Shot: 3D Real Strike Shouter Counter | 247489 | [247489-ultimate-shot-3d-real-strike-shouter-counter.json](./247489-ultimate-shot-3d-real-strike-shouter-counter.json) |
