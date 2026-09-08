@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
 | Void Scout | 320727 | [320727-void-scout.json](./320727-void-scout.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
+| Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
 | Voidblade Shadows of The Realm | 374064 | [374064-voidblade-shadows-of-the-realm.json](./374064-voidblade-shadows-of-the-realm.json) |
