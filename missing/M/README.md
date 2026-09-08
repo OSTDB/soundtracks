@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
 | Minna de Shitendo DS: Hanshichi Yuumon & Ango & Ago Juurou & Hatamoto Taikutsu Otoko | 269589 | [269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json](./269589-minna-de-shitendo-ds-hanshichi-yuumon-and-ango-and-ago-juurou-and-hatamoto-taikutsu-otoko.json) |
+| Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitrasphere | 146911 | [146911-mitrasphere.json](./146911-mitrasphere.json) |
 | Mitsuge! Megami-sama | 329951 | [329951-mitsuge-megami-sama.json](./329951-mitsuge-megami-sama.json) |
 | Mitsume ga Tooru | 202919 | [202919-mitsume-ga-tooru.json](./202919-mitsume-ga-tooru.json) |
+| Mittin | 222286 | [222286-mittin.json](./222286-mittin.json) |
 | Mítú | 156684 | [156684-mitu.json](./156684-mitu.json) |
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
 | MixCD | 408070 | [408070-mixcd.json](./408070-mixcd.json) |
