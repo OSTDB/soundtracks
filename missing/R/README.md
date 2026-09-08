@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
 | Rocket Road | 233528 | [233528-rocket-road.json](./233528-rocket-road.json) |
 | Rocket Rush | 99633 | [99633-rocket-rush.json](./99633-rocket-rush.json) |
+| Rocket Science | 232417 | [232417-rocket-science.json](./232417-rocket-science.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocket Wrestling Entertainment | 353290 | [353290-rocket-wrestling-entertainment.json](./353290-rocket-wrestling-entertainment.json) |
 | Rocketbirds 2: Mind Control | 170517 | [170517-rocketbirds-2-mind-control.json](./170517-rocketbirds-2-mind-control.json) |
@@ -1437,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
+| Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
@@ -1759,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby's Land | 298052 | [298052-rubys-land.json](./298052-rubys-land.json) |
 | Ruby's Vitten Party | 304033 | [304033-rubys-vitten-party.json](./304033-rubys-vitten-party.json) |
 | RubyDung | 262083 | [262083-rubydung.json](./262083-rubydung.json) |
+| Ruck | 232422 | [232422-ruck.json](./232422-ruck.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
