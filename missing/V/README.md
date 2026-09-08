@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
 | VarDragons | 57114 | [57114-vardragons.json](./57114-vardragons.json) |
+| Vareion | 245321 | [245321-vareion.json](./245321-vareion.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
@@ -430,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
 | ViruStream | 331878 | [331878-virustream.json](./331878-virustream.json) |
 | Virusum | 210860 | [210860-virusum.json](./210860-virusum.json) |
+| Viruzzerk | 245296 | [245296-viruzzerk.json](./245296-viruzzerk.json) |
 | Visagens | 282020 | [282020-visagens.json](./282020-visagens.json) |
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
