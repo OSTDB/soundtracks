@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
 | Heat Wave | 336543 | [336543-heat-wave.json](./336543-heat-wave.json) |
 | Heatchain | 278404 | [278404-heatchain.json](./278404-heatchain.json) |
+| Heated | 211220 | [211220-heated.json](./211220-heated.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
 | Hooked On Speed | 316604 | [316604-hooked-on-speed.json](./316604-hooked-on-speed.json) |
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
+| Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
 | Hooligans: Storm Over Europe | 73846 | [73846-hooligans-storm-over-europe.json](./73846-hooligans-storm-over-europe.json) |
 | Hools: Football Club Territory | 81353 | [81353-hools-football-club-territory.json](./81353-hools-football-club-territory.json) |
 | Hoonigans | 314653 | [314653-hoonigans.json](./314653-hoonigans.json) |
@@ -1495,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Timbre | 295531 | [295531-hope-timbre.json](./295531-hope-timbre.json) |
 | Hope We'll Still be Friends Tomorrow | 410251 | [410251-hope-well-still-be-friends-tomorrow.json](./410251-hope-well-still-be-friends-tomorrow.json) |
 | Hope's End | 238519 | [238519-hopes-end.json](./238519-hopes-end.json) |
+| HopeLand | 211205 | [211205-hopeland.json](./211205-hopeland.json) |
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
@@ -1909,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
+| HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperlight | 265701 | [265701-hyperlight.json](./265701-hyperlight.json) |
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
