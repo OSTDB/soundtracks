@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Village | 224237 | [224237-ghost-village.json](./224237-ghost-village.json) |
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
+| Ghost Wiper | 236814 | [236814-ghost-wiper.json](./236814-ghost-wiper.json) |
 | Ghost Witch: Soulstice Sprint | 341892 | [341892-ghost-witch-soulstice-sprint.json](./341892-ghost-witch-soulstice-sprint.json) |
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
@@ -682,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
+| Glitch in the System | 236809 | [236809-glitch-in-the-system.json](./236809-glitch-in-the-system.json) |
 | Glitch Maze.exe | 293074 | [293074-glitch-maze-exe.json](./293074-glitch-maze-exe.json) |
 | Glitch Party | 235455 | [235455-glitch-party.json](./235455-glitch-party.json) |
 | Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
@@ -1277,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenfinger! | 252129 | [252129-greenfinger.json](./252129-greenfinger.json) |
 | GreenFlame | 76656 | [76656-greenflame.json](./76656-greenflame.json) |
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
+| Greenlander | 236838 | [236838-greenlander.json](./236838-greenlander.json) |
 | GreenWood Defense | 309858 | [309858-greenwood-defense.json](./309858-greenwood-defense.json) |
 | Greg Hastings' Tournament Paintball MAX'D | 5855 | [5855-greg-hastings-tournament-paintball-maxd.json](./5855-greg-hastings-tournament-paintball-maxd.json) |
 | Greg Norman's Golf Power | 48701 | [48701-greg-normans-golf-power.json](./48701-greg-normans-golf-power.json) |
