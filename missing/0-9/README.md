@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1428: Shadows over Silesia - Tourney at the Bear Rock | 289334 | [289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json](./289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json) |
 | 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
 | 15 Puzzle | 282592 | [282592-15-puzzle.json](./282592-15-puzzle.json) |
+| 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
 | 150,000 B.C. | 102404 | [102404-150-000-b-c.json](./102404-150-000-b-c.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 15th Floor | 289335 | [289335-15th-floor.json](./289335-15th-floor.json) |
@@ -362,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 3000th Duel | 122027 | [122027-3000th-duel.json](./122027-3000th-duel.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
+| 303 Logic, Action & Arcade Games | 228411 | [228411-303-logic-action-and-arcade-games.json](./228411-303-logic-action-and-arcade-games.json) |
 | 31st Prototype | 149584 | [149584-31st-prototype.json](./149584-31st-prototype.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
