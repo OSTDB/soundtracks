@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickshot | 99641 | [99641-kickshot.json](./99641-kickshot.json) |
 | KickUp King | 245325 | [245325-kickup-king.json](./245325-kickup-king.json) |
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
+| Kid Ball Adventure | 212274 | [212274-kid-ball-adventure.json](./212274-kid-ball-adventure.json) |
 | Kid Chameleon | 16035 | [16035-kid-chameleon.json](./16035-kid-chameleon.json) |
 | Kid Dracula | 1125 | [1125-kid-dracula.json](./1125-kid-dracula.json) |
 | Kid Hallow | 179210 | [179210-kid-hallow.json](./179210-kid-hallow.json) |
@@ -722,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
 | Knock-knock | 13153 | [13153-knock-knock.json](./13153-knock-knock.json) |
 | Knockback Knockout | 226452 | [226452-knockback-knockout.json](./226452-knockback-knockout.json) |
+| Knockbots | 212291 | [212291-knockbots.json](./212291-knockbots.json) |
 | Knockout 2: Wrath of the Karen | 244756 | [244756-knockout-2-wrath-of-the-karen.json](./244756-knockout-2-wrath-of-the-karen.json) |
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
