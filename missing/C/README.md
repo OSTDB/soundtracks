@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
+| CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
 | CandyVenture | 113008 | [113008-candyventure.json](./113008-candyventure.json) |
@@ -264,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa Vol. II: Super Striker | 102254 | [102254-captain-tsubasa-vol-ii-super-striker.json](./102254-captain-tsubasa-vol-ii-super-striker.json) |
 | Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
+| Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 23901 | [23901-capture-the-flag.json](./23901-capture-the-flag.json) |
@@ -551,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
 | Cat Sokoban | 135868 | [135868-cat-sokoban.json](./135868-cat-sokoban.json) |
+| Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat vs. Corgis | 54448 | [54448-cat-vs-corgis.json](./54448-cat-vs-corgis.json) |
 | Cat Warrior | 281983 | [281983-cat-warrior.json](./281983-cat-warrior.json) |
 | Cat With Gun | 363369 | [363369-cat-with-gun.json](./363369-cat-with-gun.json) |
@@ -767,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chadboy | 241618 | [241618-chadboy.json](./241618-chadboy.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
+| Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
 | Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
@@ -1501,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue/Cluedo: Halloween Records | 328997 | [328997-clue-cluedo-halloween-records.json](./328997-clue-cluedo-halloween-records.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
+| Clumsy Rush: Ultimate Guys - Platinum Edition | 241399 | [241399-clumsy-rush-ultimate-guys-platinum-edition.json](./241399-clumsy-rush-ultimate-guys-platinum-edition.json) |
 | Clumsy Rush: Ultimate Guys - Superb Edition | 271504 | [271504-clumsy-rush-ultimate-guys-superb-edition.json](./271504-clumsy-rush-ultimate-guys-superb-edition.json) |
 | Cluster | 182549 | [182549-cluster.json](./182549-cluster.json) |
 | Cluster Buster | 264305 | [264305-cluster-buster.json](./264305-cluster-buster.json) |
@@ -2355,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Pocket | 413613 | [413613-crazy-pocket.json](./413613-crazy-pocket.json) |
 | Crazy Rabbits | 250973 | [250973-crazy-rabbits.json](./250973-crazy-rabbits.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
+| Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
 | Crazy Snowboard | 87553 | [87553-crazy-snowboard.json](./87553-crazy-snowboard.json) |
 | Crazy Taxi | 1805 | [1805-crazy-taxi.json](./1805-crazy-taxi.json) |
@@ -2477,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
+| Critter Combat | 241351 | [241351-critter-combat.json](./241351-critter-combat.json) |
 | Critter Crush - Hunting Game | 89282 | [89282-critter-crush-hunting-game.json](./89282-critter-crush-hunting-game.json) |
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
 | Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
@@ -2737,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cum On! Bukkake Ranch! | 322950 | [322950-cum-on-bukkake-ranch.json](./322950-cum-on-bukkake-ranch.json) |
 | Cumdor no Tou: Zetsubou no Majo | 342061 | [342061-cumdor-no-tou-zetsubou-no-majo.json](./342061-cumdor-no-tou-zetsubou-no-majo.json) |
 | Cumma Celeritate | 322395 | [322395-cumma-celeritate.json](./322395-cumma-celeritate.json) |
+| Cumulater | 241347 | [241347-cumulater.json](./241347-cumulater.json) |
 | Cumulative Pack 2 | 323709 | [323709-cumulative-pack-2.json](./323709-cumulative-pack-2.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
