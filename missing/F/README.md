@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNF: Spooky Mix | 365105 | [365105-fnf-spooky-mix.json](./365105-fnf-spooky-mix.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
+| Focus | 242576 | [242576-focus.json](./242576-focus.json) |
 | Focus | 381028 | [381028-focus.json](./381028-focus.json) |
 | Focus indies Bundle: Curse of the Dead Gods + Shady Part of Me + Aeon Must Die! | 187499 | [187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json](./187499-focus-indies-bundle-curse-of-the-dead-gods-shady-part-of-me-aeon-must-die.json) |
 | Focus Knight | 398318 | [398318-focus-knight.json](./398318-focus-knight.json) |
