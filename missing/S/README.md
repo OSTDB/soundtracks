@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
 | SD Gundam Battle Alliance | 191403 | [191403-sd-gundam-battle-alliance.json](./191403-sd-gundam-battle-alliance.json) |
 | SD Gundam Battle Alliance: Limited Edition | 205271 | [205271-sd-gundam-battle-alliance-limited-edition.json](./205271-sd-gundam-battle-alliance-limited-edition.json) |
+| SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 1 | 238486 | [238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json](./238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json) |
 | SD Hiryuu no Ken Gaiden | 64968 | [64968-sd-hiryuu-no-ken-gaiden.json](./64968-sd-hiryuu-no-ken-gaiden.json) |
 | SD Sengoku-den: Tenka Touitsu-hen - Aku Mu Haiki Yume Yama no Tatakai! | 346026 | [346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json](./346026-sd-sengoku-den-tenka-touitsu-hen-aku-mu-haiki-yume-yama-no-tatakai.json) |
 | SDK Paint | 84860 | [84860-sdk-paint.json](./84860-sdk-paint.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
+| Space Gourmet: Delivery | 238504 | [238504-space-gourmet-delivery.json](./238504-space-gourmet-delivery.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
 | Space Griffon | 20661 | [20661-space-griffon.json](./20661-space-griffon.json) |
 | Space Grunts 2 | 121004 | [121004-space-grunts-2.json](./121004-space-grunts-2.json) |
@@ -3507,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacking | 4851 | [4851-stacking.json](./4851-stacking.json) |
 | Stacklands 2000 | 298028 | [298028-stacklands-2000.json](./298028-stacklands-2000.json) |
 | Stacklands: Cursed Worlds | 257949 | [257949-stacklands-cursed-worlds.json](./257949-stacklands-cursed-worlds.json) |
+| Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
 | Stadium Games | 49384 | [49384-stadium-games.json](./49384-stadium-games.json) |
 | Staff Only | 139432 | [139432-staff-only.json](./139432-staff-only.json) |
@@ -4205,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
+| Striker of Sky | 238498 | [238498-striker-of-sky.json](./238498-striker-of-sky.json) |
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
