@@ -3732,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
 | Touhou Hangyaku Geki Sakuya's Counterattack | 371271 | [371271-touhou-hangyaku-geki-sakuyas-counterattack.json](./371271-touhou-hangyaku-geki-sakuyas-counterattack.json) |
 | Touhou Haou III | 98454 | [98454-touhou-haou-iii.json](./98454-touhou-haou-iii.json) |
+| Touhou Healing Nature | 255135 | [255135-touhou-healing-nature.json](./255135-touhou-healing-nature.json) |
 | Touhou Ibunseki: Ayaria Dawn - ReCreation | 126924 | [126924-touhou-ibunseki-ayaria-dawn-recreation.json](./126924-touhou-ibunseki-ayaria-dawn-recreation.json) |
 | Touhou Infinite Nocturne | 342052 | [342052-touhou-infinite-nocturne.json](./342052-touhou-infinite-nocturne.json) |
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
@@ -4595,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
 | Typeshift | 27884 | [27884-typeshift.json](./27884-typeshift.json) |
 | Typewriter Simulator | 177529 | [177529-typewriter-simulator.json](./177529-typewriter-simulator.json) |
+| Typhon: Bot vs. Bot | 255134 | [255134-typhon-bot-vs-bot.json](./255134-typhon-bot-vs-bot.json) |
 | Typical | 108664 | [108664-typical.json](./108664-typical.json) |
 | Typical NPC | 412263 | [412263-typical-npc.json](./412263-typical-npc.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
