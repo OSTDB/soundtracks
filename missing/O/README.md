@@ -219,6 +219,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
 | Okie Dokie | 40776 | [40776-okie-dokie.json](./40776-okie-dokie.json) |
 | Okinawa Journal | 372458 | [372458-okinawa-journal.json](./372458-okinawa-journal.json) |
+| Okiraku Daifugou 3D | 222326 | [222326-okiraku-daifugou-3d.json](./222326-okiraku-daifugou-3d.json) |
+| Okiraku Golf 3D | 222293 | [222293-okiraku-golf-3d.json](./222293-okiraku-golf-3d.json) |
+| Okiraku Ping Pong 3D | 222329 | [222329-okiraku-ping-pong-3d.json](./222329-okiraku-ping-pong-3d.json) |
 | Okiro | 371886 | [371886-okiro.json](./371886-okiro.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
 | Okuplok Slaughter Map | 144389 | [144389-okuplok-slaughter-map.json](./144389-okuplok-slaughter-map.json) |
@@ -771,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
+| Othello 3D | 222309 | [222309-othello-3d.json](./222309-othello-3d.json) |
 | Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
