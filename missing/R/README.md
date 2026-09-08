@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Masters | 78684 | [78684-ragdoll-masters.json](./78684-ragdoll-masters.json) |
 | Ragdoll Mayhem Maker | 306091 | [306091-ragdoll-mayhem-maker.json](./306091-ragdoll-mayhem-maker.json) |
 | Ragdoll Party Online | 131590 | [131590-ragdoll-party-online.json](./131590-ragdoll-party-online.json) |
+| Ragdoll Playground | 231912 | [231912-ragdoll-playground.json](./231912-ragdoll-playground.json) |
 | Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
@@ -252,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Ranita Fishing | 178078 | [178078-ranita-fishing.json](./178078-ranita-fishing.json) |
 | Rank Boss Bullets | 278396 | [278396-rank-boss-bullets.json](./278396-rank-boss-bullets.json) |
+| Rank Insignia Super Explosion | 231913 | [231913-rank-insignia-super-explosion.json](./231913-rank-insignia-super-explosion.json) |
 | Rank Runner | 120423 | [120423-rank-runner.json](./120423-rank-runner.json) |
 | Ranking Narabete Joushiki Quiz | 251615 | [251615-ranking-narabete-joushiki-quiz.json](./251615-ranking-narabete-joushiki-quiz.json) |
 | Ranma 1/2 | 75853 | [75853-ranma-1-2.json](./75853-ranma-1-2.json) |
@@ -408,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Football 2017 | 116351 | [116351-real-football-2017.json](./116351-real-football-2017.json) |
 | Real Football 2018 | 116352 | [116352-real-football-2018.json](./116352-real-football-2018.json) |
 | Real Football 2019 | 116353 | [116353-real-football-2019.json](./116353-real-football-2019.json) |
+| Real Grand Gangster Mafia war | 231914 | [231914-real-grand-gangster-mafia-war.json](./231914-real-grand-gangster-mafia-war.json) |
 | Real Hentai Situation! 2 | 194628 | [194628-real-hentai-situation-2.json](./194628-real-hentai-situation-2.json) |
 | Real Heroes Firefighter 3D | 84911 | [84911-real-heroes-firefighter-3d.json](./84911-real-heroes-firefighter-3d.json) |
 | Real Life Day: Threesome | 313508 | [313508-real-life-day-threesome.json](./313508-real-life-day-threesome.json) |
@@ -1144,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Chi | 384506 | [384506-rise-of-chi.json](./384506-rise-of-chi.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
 | Rise of Dragonian Era | 19638 | [19638-rise-of-dragonian-era.json](./19638-rise-of-dragonian-era.json) |
+| Rise of Dragons | 231915 | [231915-rise-of-dragons.json](./231915-rise-of-dragons.json) |
 | Rise Of Dune | 327212 | [327212-rise-of-dune.json](./327212-rise-of-dune.json) |
 | Rise of Elements | 334724 | [334724-rise-of-elements.json](./334724-rise-of-elements.json) |
 | Rise of Empire: King's Landing | 100853 | [100853-rise-of-empire-kings-landing.json](./100853-rise-of-empire-kings-landing.json) |
@@ -1762,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruby's Vitten Party | 304033 | [304033-rubys-vitten-party.json](./304033-rubys-vitten-party.json) |
 | RubyDung | 262083 | [262083-rubydung.json](./262083-rubydung.json) |
 | Ruck | 232422 | [232422-ruck.json](./232422-ruck.json) |
+| Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
@@ -1878,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush | 272586 | [272586-rush.json](./272586-rush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
+| Rush Legends PvP FPS | 231906 | [231906-rush-legends-pvp-fps.json](./231906-rush-legends-pvp-fps.json) |
 | Rush On | 253353 | [253353-rush-on.json](./253353-rush-on.json) |
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
