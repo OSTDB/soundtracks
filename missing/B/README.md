@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Exploration Liminal | 258475 | [258475-backrooms-exploration-liminal.json](./258475-backrooms-exploration-liminal.json) |
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms Rec. | 253402 | [253402-backrooms-rec.json](./253402-backrooms-rec.json) |
+| Backrooms Society | 245870 | [245870-backrooms-society.json](./245870-backrooms-society.json) |
 | Backrooms The Company | 309864 | [309864-backrooms-the-company.json](./309864-backrooms-the-company.json) |
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
@@ -752,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
+| Beacon Patrol | 245848 | [245848-beacon-patrol.json](./245848-beacon-patrol.json) |
 | Beacon Pines: Collector's Edition | 218692 | [218692-beacon-pines-collectors-edition.json](./218692-beacon-pines-collectors-edition.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
 | Beambender | 14293 | [14293-beambender.json](./14293-beambender.json) |
@@ -1031,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayal At Club Low | 194803 | [194803-betrayal-at-club-low.json](./194803-betrayal-at-club-low.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
+| Betroyal | 245839 | [245839-betroyal.json](./245839-betroyal.json) |
 | Bets on Pets | 278170 | [278170-bets-on-pets.json](./278170-bets-on-pets.json) |
 | Better Days | 341862 | [341862-better-days.json](./341862-better-days.json) |
 | Better Late Than Dead | 16291 | [16291-better-late-than-dead.json](./16291-better-late-than-dead.json) |
