@@ -2215,6 +2215,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
 | SMW Quest for Gaming | 267950 | [267950-smw-quest-for-gaming.json](./267950-smw-quest-for-gaming.json) |
 | SMW The Crown Tale | 267957 | [267957-smw-the-crown-tale.json](./267957-smw-the-crown-tale.json) |
+| SMW The Princess Rescue | 222890 | [222890-smw-the-princess-rescue.json](./222890-smw-the-princess-rescue.json) |
+| SMW The Princess Rescue 2: Luigi's Journey! | 222889 | [222889-smw-the-princess-rescue-2-luigis-journey.json](./222889-smw-the-princess-rescue-2-luigis-journey.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
@@ -4940,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Darkholme Hospital | 213039 | [213039-super-metroid-darkholme-hospital.json](./213039-super-metroid-darkholme-hospital.json) |
 | Super Metroid: Digital Cube | 255369 | [255369-super-metroid-digital-cube.json](./255369-super-metroid-digital-cube.json) |
 | Super Metroid: Fear | 255370 | [255370-super-metroid-fear.json](./255370-super-metroid-fear.json) |
+| Super Metroid: GBA Edition | 222919 | [222919-super-metroid-gba-edition.json](./222919-super-metroid-gba-edition.json) |
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
@@ -5074,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
 | Super Tanooki Goomba | 323180 | [323180-super-tanooki-goomba.json](./323180-super-tanooki-goomba.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
+| Super Terrible Project | 222914 | [222914-super-terrible-project.json](./222914-super-terrible-project.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
 | Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
 | Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
