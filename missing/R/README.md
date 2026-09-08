@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raanaa: The Shaman Girl | 321137 | [321137-raanaa-the-shaman-girl.json](./321137-raanaa-the-shaman-girl.json) |
 | Raanaa: The Shaman Girl - The Windman's Land | 321148 | [321148-raanaa-the-shaman-girl-the-windmans-land.json](./321148-raanaa-the-shaman-girl-the-windmans-land.json) |
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
+| Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
 | Rabbids Big Bang | 61635 | [61635-rabbids-big-bang.json](./61635-rabbids-big-bang.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Conquer | 186862 | [186862-red-conquer.json](./186862-red-conquer.json) |
 | Red Crimes: Hidden Murders | 108508 | [108508-red-crimes-hidden-murders.json](./108508-red-crimes-hidden-murders.json) |
 | Red Crow Mysteries: Legion | 9410 | [9410-red-crow-mysteries-legion.json](./9410-red-crow-mysteries-legion.json) |
+| Red Crucible: Phoenix Rising | 240786 | [240786-red-crucible-phoenix-rising.json](./240786-red-crucible-phoenix-rising.json) |
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
 | Red Dead Redemption: Myths and Mavericks | 43356 | [43356-red-dead-redemption-myths-and-mavericks.json](./43356-red-dead-redemption-myths-and-mavericks.json) |
 | Red Dead Revolver | 1969 | [1969-red-dead-revolver.json](./1969-red-dead-revolver.json) |
@@ -821,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
 | Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
+| Restart | 240774 | [240774-restart.json](./240774-restart.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
@@ -1740,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
 | Rugby League Raw | 385080 | [385080-rugby-league-raw.json](./385080-rugby-league-raw.json) |
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
+| Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
 | Rugrats: Adventures in Gameland | 299152 | [299152-rugrats-adventures-in-gameland.json](./299152-rugrats-adventures-in-gameland.json) |
 | Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
