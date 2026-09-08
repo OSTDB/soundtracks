@@ -11,7 +11,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ?? Movie Theater | 343834 | [343834-movie-theater.json](./343834-movie-theater.json) |
 | ...Iru! | 93548 | [93548-iru.json](./93548-iru.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
-| .Decluster & .Decluster Zero | 380429 | [380429-decluster-and-decluster-zero.json](./380429-decluster-and-decluster-zero.json) |
 | .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
 | .hack//Gift+Vol.1~4 | 382790 | [382790-hack-gift-vol-1-4.json](./382790-hack-gift-vol-1-4.json) |
 | .Hack//Z.E.R.O. | 390544 | [390544-hack-z-e-r-o.json](./390544-hack-z-e-r-o.json) |
