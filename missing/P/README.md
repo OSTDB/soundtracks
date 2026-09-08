@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic: The Board Game | 69425 | [69425-pandemic-the-board-game.json](./69425-pandemic-the-board-game.json) |
 | Pandemommyum! Hot Single Moms in My Area | 257951 | [257951-pandemommyum-hot-single-moms-in-my-area.json](./257951-pandemommyum-hot-single-moms-in-my-area.json) |
 | Pandoland | 306675 | [306675-pandoland.json](./306675-pandoland.json) |
+| Pandora | 238499 | [238499-pandora.json](./238499-pandora.json) |
 | Pandora | 249207 | [249207-pandora.json](./249207-pandora.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
@@ -1617,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
 | Polidog Patrol | 365703 | [365703-polidog-patrol.json](./365703-polidog-patrol.json) |
 | PoligonVR | 258481 | [258481-poligonvr.json](./258481-poligonvr.json) |
+| Polilaser | 238493 | [238493-polilaser.json](./238493-polilaser.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Politics The Game | 304903 | [304903-politics-the-game.json](./304903-politics-the-game.json) |
