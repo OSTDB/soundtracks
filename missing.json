@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T14:48:37.331Z",
-  "total_missing": 47188,
+  "generated_at": "2026-09-08T14:51:05.779Z",
+  "total_missing": 47187,
   "games": [
     {
       "igdb_id": 306086,
@@ -116,11 +116,6 @@
       "igdb_id": 292535,
       "game_name": "0th floor.: The Cursed Elevator To Floor Zero",
       "file": "missing/0-9/292535-0th-floor-the-cursed-elevator-to-floor-zero.json"
-    },
-    {
-      "igdb_id": 59435,
-      "game_name": "1 Ball 1 Cup",
-      "file": "missing/0-9/59435-1-ball-1-cup.json"
     },
     {
       "igdb_id": 171045,
