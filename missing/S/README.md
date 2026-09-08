@@ -4055,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
+| StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
 | StickSpinner | 264062 | [264062-stickspinner.json](./264062-stickspinner.json) |
 | Sticky Pigeons | 177023 | [177023-sticky-pigeons.json](./177023-sticky-pigeons.json) |
 | Sticky Sheep | 20726 | [20726-sticky-sheep.json](./20726-sticky-sheep.json) |
@@ -4327,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Student Council Leader Auriel | 247524 | [247524-student-council-leader-auriel.json](./247524-student-council-leader-auriel.json) |
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
+| Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
 | Stuffo the Puzzle Bot | 236848 | [236848-stuffo-the-puzzle-bot.json](./236848-stuffo-the-puzzle-bot.json) |
 | Stumble And Fall | 310388 | [310388-stumble-and-fall.json](./310388-stumble-and-fall.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
