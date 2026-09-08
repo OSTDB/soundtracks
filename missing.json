@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T16:21:08.163Z",
-  "total_missing": 47396,
+  "generated_at": "2026-09-08T16:31:10.114Z",
+  "total_missing": 47398,
   "games": [
     {
       "igdb_id": 306086,
@@ -166,11 +166,6 @@
       "igdb_id": 316985,
       "game_name": "10 Minute Massacre",
       "file": "missing/0-9/316985-10-minute-massacre.json"
-    },
-    {
-      "igdb_id": 97356,
-      "game_name": "10 Pin: Champions Alley",
-      "file": "missing/0-9/97356-10-pin-champions-alley.json"
     },
     {
       "igdb_id": 205801,
@@ -45178,6 +45173,11 @@
       "file": "missing/C/165351-cult-of-the-lamb.json"
     },
     {
+      "igdb_id": 222943,
+      "game_name": "Cult of the Lamb: Deluxe Edition",
+      "file": "missing/C/222943-cult-of-the-lamb-deluxe-edition.json"
+    },
+    {
       "igdb_id": 250654,
       "game_name": "Cult of the Lamb: Heretic Edition",
       "file": "missing/C/250654-cult-of-the-lamb-heretic-edition.json"
@@ -48861,6 +48861,11 @@
       "igdb_id": 229975,
       "game_name": "Dead Space: Collector's Edition",
       "file": "missing/D/229975-dead-space-collectors-edition.json"
+    },
+    {
+      "igdb_id": 222945,
+      "game_name": "Dead Space: Deluxe Edition",
+      "file": "missing/D/222945-dead-space-deluxe-edition.json"
     },
     {
       "igdb_id": 121710,
@@ -207571,6 +207576,11 @@
       "igdb_id": 224762,
       "game_name": "The Rules",
       "file": "missing/T/224762-the-rules.json"
+    },
+    {
+      "igdb_id": 222947,
+      "game_name": "The Rumble Fish 2: Collector's Edition",
+      "file": "missing/T/222947-the-rumble-fish-2-collectors-edition.json"
     },
     {
       "igdb_id": 251601,
