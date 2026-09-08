@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnamed Shovel Knight Sequel | 305758 | [305758-unnamed-shovel-knight-sequel.json](./305758-unnamed-shovel-knight-sequel.json) |
 | Unnatural: Season Two | 247760 | [247760-unnatural-season-two.json](./247760-unnatural-season-two.json) |
 | UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
+| Unno | 235227 | [235227-unno.json](./235227-unno.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
 | UNO: Legacy Edition | 315848 | [315848-uno-legacy-edition.json](./315848-uno-legacy-edition.json) |
 | Unolingo | 288195 | [288195-unolingo.json](./288195-unolingo.json) |
@@ -396,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Championship | 6220 | [6220-unreal-championship.json](./6220-unreal-championship.json) |
 | Unreal Drift Online Car Racing | 174891 | [174891-unreal-drift-online-car-racing.json](./174891-unreal-drift-online-car-racing.json) |
 | Unreal Evolution | 136489 | [136489-unreal-evolution.json](./136489-unreal-evolution.json) |
+| Unreal Flash | 235242 | [235242-unreal-flash.json](./235242-unreal-flash.json) |
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
