@@ -1725,10 +1725,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
 | Hoyle Card Games | 87746 | [87746-hoyle-card-games.json](./87746-hoyle-card-games.json) |
+| Hoyle Card Games 2009 | 210064 | [210064-hoyle-card-games-2009.json](./210064-hoyle-card-games-2009.json) |
+| Hoyle Card Games 2011 | 210065 | [210065-hoyle-card-games-2011.json](./210065-hoyle-card-games-2011.json) |
+| Hoyle Casino | 210049 | [210049-hoyle-casino.json](./210049-hoyle-casino.json) |
+| Hoyle Casino 2009 | 210066 | [210066-hoyle-casino-2009.json](./210066-hoyle-casino-2009.json) |
+| Hoyle Casino 2010 | 210067 | [210067-hoyle-casino-2010.json](./210067-hoyle-casino-2010.json) |
+| Hoyle Casino Games 2011 | 210068 | [210068-hoyle-casino-games-2011.json](./210068-hoyle-casino-games-2011.json) |
 | Hoyle Classic Board Game Collection 2 | 89692 | [89692-hoyle-classic-board-game-collection-2.json](./89692-hoyle-classic-board-game-collection-2.json) |
+| Hoyle Craps and Blackjack | 210057 | [210057-hoyle-craps-and-blackjack.json](./210057-hoyle-craps-and-blackjack.json) |
+| Hoyle Crosswords & Sudoku | 210069 | [210069-hoyle-crosswords-and-sudoku.json](./210069-hoyle-crosswords-and-sudoku.json) |
+| Hoyle Friday Night Poker | 210070 | [210070-hoyle-friday-night-poker.json](./210070-hoyle-friday-night-poker.json) |
+| Hoyle Jewels: Swap & Drop It | 210071 | [210071-hoyle-jewels-swap-and-drop-it.json](./210071-hoyle-jewels-swap-and-drop-it.json) |
 | Hoyle Kid's Card Games | 99000 | [99000-hoyle-kids-card-games.json](./99000-hoyle-kids-card-games.json) |
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
+| Hoyle Puzzle & Board Games 2009 | 210052 | [210052-hoyle-puzzle-and-board-games-2009.json](./210052-hoyle-puzzle-and-board-games-2009.json) |
+| Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
 | Hozy | 345443 | [345443-hozy.json](./345443-hozy.json) |
 | HPL: Nyarlathotep Rising | 258223 | [258223-hpl-nyarlathotep-rising.json](./258223-hpl-nyarlathotep-rising.json) |
 | HQ Trivia | 214770 | [214770-hq-trivia.json](./214770-hq-trivia.json) |
@@ -1783,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanoid Huntress | 249794 | [249794-humanoid-huntress.json](./249794-humanoid-huntress.json) |
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
+| Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
@@ -1839,7 +1852,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
 | HunterX: Code Name T | 277836 | [277836-hunterx-code-name-t.json](./277836-hunterx-code-name-t.json) |
 | Huntfeast | 147431 | [147431-huntfeast.json](./147431-huntfeast.json) |
+| Huntin' Adventure | 210054 | [210054-huntin-adventure.json](./210054-huntin-adventure.json) |
+| Hunting Arcade | 210055 | [210055-hunting-arcade.json](./210055-hunting-arcade.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
+| Hunting Season | 210056 | [210056-hunting-season.json](./210056-hunting-season.json) |
 | Hunting Season 3D | 220830 | [220830-hunting-season-3d.json](./220830-hunting-season-3d.json) |
 | Hunting Simulator | 239044 | [239044-hunting-simulator.json](./239044-hunting-simulator.json) |
 | Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
@@ -1926,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
 | Hypersudoku Puzzle | 58258 | [58258-hypersudoku-puzzle.json](./58258-hypersudoku-puzzle.json) |
 | Hypertrain | 96430 | [96430-hypertrain.json](./96430-hypertrain.json) |
+| Hypertron | 210058 | [210058-hypertron.json](./210058-hypertron.json) |
 | Hyperun | 49512 | [49512-hyperun.json](./49512-hyperun.json) |
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
 | HyperZen Training | 105330 | [105330-hyperzen-training.json](./105330-hyperzen-training.json) |
