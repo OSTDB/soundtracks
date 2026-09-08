@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Degrees | 1241 | [1241-death-by-degrees.json](./1241-death-by-degrees.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
+| Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
 | Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dog Knowse Chapter 1: The Dame | 249790 | [249790-dog-knowse-chapter-1-the-dame.json](./249790-dog-knowse-chapter-1-the-dame.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
+| Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
