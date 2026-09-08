@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T19:48:19.061Z",
-  "total_missing": 47950,
+  "generated_at": "2026-09-08T19:51:03.317Z",
+  "total_missing": 47949,
   "games": [
     {
       "igdb_id": 306086,
@@ -266,11 +266,6 @@
       "igdb_id": 334124,
       "game_name": "100 India Cats",
       "file": "missing/0-9/334124-100-india-cats.json"
-    },
-    {
-      "igdb_id": 315294,
-      "game_name": "100 Indonesia Cats",
-      "file": "missing/0-9/315294-100-indonesia-cats.json"
     },
     {
       "igdb_id": 315290,
