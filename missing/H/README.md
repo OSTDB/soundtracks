@@ -1208,6 +1208,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobo with a Shotgun | 63872 | [63872-hobo-with-a-shotgun.json](./63872-hobo-with-a-shotgun.json) |
 | Hobo: Prison Brawl | 294146 | [294146-hobo-prison-brawl.json](./294146-hobo-prison-brawl.json) |
 | Hoboman | 255965 | [255965-hoboman.json](./255965-hoboman.json) |
+| Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
+| Hockey Blitz | 244800 | [244800-hockey-blitz.json](./244800-hockey-blitz.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
 | Hocus Pocus Prince | 183563 | [183563-hocus-pocus-prince.json](./183563-hocus-pocus-prince.json) |
@@ -1566,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Force | 5675 | [5675-hover-force.json](./5675-hover-force.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
+| Hover Rider | 244796 | [244796-hover-rider.json](./244796-hover-rider.json) |
 | Hover Shooting Defence | 265151 | [265151-hover-shooting-defence.json](./265151-hover-shooting-defence.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
