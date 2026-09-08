@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
 | Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
+| Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
 | Marble Blast Platinum | 239883 | [239883-marble-blast-platinum.json](./239883-marble-blast-platinum.json) |
+| Marble Blaster | 210043 | [210043-marble-blaster.json](./210043-marble-blaster.json) |
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
@@ -516,6 +518,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
 | Margonem | 58835 | [58835-margonem.json](./58835-margonem.json) |
 | Margonem Adventures | 237638 | [237638-margonem-adventures.json](./237638-margonem-adventures.json) |
+| Margot's Bepuzzled | 210042 | [210042-margots-bepuzzled.json](./210042-margots-bepuzzled.json) |
+| Margrave Manor 3: The Curse of the Blacksmith's Heart | 210041 | [210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json](./210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json) |
 | Mari Is Home | 280180 | [280180-mari-is-home.json](./280180-mari-is-home.json) |
 | Maria/Alchemist: Synthetist Maria's Tragedy | 98455 | [98455-maria-alchemist-synthetist-marias-tragedy.json](./98455-maria-alchemist-synthetist-marias-tragedy.json) |
 | Mariam Game | 235484 | [235484-mariam-game.json](./235484-mariam-game.json) |
