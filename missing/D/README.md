@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
+| Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
 | Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
@@ -324,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dasshutsu Game: Momo | 220309 | [220309-dasshutsu-game-momo.json](./220309-dasshutsu-game-momo.json) |
 | Dasshutsu Game: Neko-sama no Karakuri Garden kara no Dasshutsu | 220310 | [220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json](./220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json) |
 | Dasshutsu Girls | 220308 | [220308-dasshutsu-girls.json](./220308-dasshutsu-girls.json) |
+| Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
 | Data East's Hoops | 97330 | [97330-data-easts-hoops.json](./97330-data-easts-hoops.json) |
@@ -1269,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
+| Dino Fighters | 241975 | [241975-dino-fighters.json](./241975-dino-fighters.json) |
 | Dino Gaïa | 326060 | [326060-dino-gaia.json](./326060-dino-gaia.json) |
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Genesis | 336533 | [336533-dino-genesis.json](./336533-dino-genesis.json) |
@@ -2168,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Eaters.exe | 344353 | [344353-dream-eaters-exe.json](./344353-dream-eaters-exe.json) |
 | Dream Ending: Drama | 121033 | [121033-dream-ending-drama.json](./121033-dream-ending-drama.json) |
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
+| Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Girls VR | 111725 | [111725-dream-girls-vr.json](./111725-dream-girls-vr.json) |
