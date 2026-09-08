@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
 | Tank Stars | 104105 | [104105-tank-stars.json](./104105-tank-stars.json) |
+| Tank Storage | 258448 | [258448-tank-storage.json](./258448-tank-storage.json) |
 | Tank Strike | 76609 | [76609-tank-strike.json](./76609-tank-strike.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
@@ -782,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
+| The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
 | The Adventures of Clive McMulligan on Planet Zeta Four | 94774 | [94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json](./94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json) |
 | The Adventures of Detective Bron | 200721 | [200721-the-adventures-of-detective-bron.json](./200721-the-adventures-of-detective-bron.json) |
@@ -2055,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Nightfall Incident | 182525 | [182525-the-nightfall-incident.json](./182525-the-nightfall-incident.json) |
 | The Nightmare Chronicles: Horror In Da Hood | 309107 | [309107-the-nightmare-chronicles-horror-in-da-hood.json](./309107-the-nightmare-chronicles-horror-in-da-hood.json) |
+| The Nightmare Escape | 258473 | [258473-the-nightmare-escape.json](./258473-the-nightmare-escape.json) |
 | The Nightmare Inside | 194653 | [194653-the-nightmare-inside.json](./194653-the-nightmare-inside.json) |
 | The Nightmare Of Arrival Chapter 1 | 298561 | [298561-the-nightmare-of-arrival-chapter-1.json](./298561-the-nightmare-of-arrival-chapter-1.json) |
 | The Nightmare of Pandemic: Kyle's Story | 339801 | [339801-the-nightmare-of-pandemic-kyles-story.json](./339801-the-nightmare-of-pandemic-kyles-story.json) |
@@ -3311,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Little Farm | 304332 | [304332-tiny-little-farm.json](./304332-tiny-little-farm.json) |
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
+| Tiny Man's Revenge | 258463 | [258463-tiny-mans-revenge.json](./258463-tiny-mans-revenge.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
@@ -3368,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Duel List | 151704 | [151704-to-duel-list.json](./151704-to-duel-list.json) |
 | To Dust | 259824 | [259824-to-dust.json](./259824-to-dust.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
+| To Last | 258452 | [258452-to-last.json](./258452-to-last.json) |
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
 | To My Darling | 393512 | [393512-to-my-darling.json](./393512-to-my-darling.json) |
 | To Swat A Fly | 378212 | [378212-to-swat-a-fly.json](./378212-to-swat-a-fly.json) |
