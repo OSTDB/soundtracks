@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Game | 381020 | [381020-fish-game.json](./381020-fish-game.json) |
 | Fish Heroes | 237367 | [237367-fish-heroes.json](./237367-fish-heroes.json) |
 | Fish Idle 2: Underwater Mystery | 304607 | [304607-fish-idle-2-underwater-mystery.json](./304607-fish-idle-2-underwater-mystery.json) |
+| Fish Kingdoms | 231938 | [231938-fish-kingdoms.json](./231938-fish-kingdoms.json) |
 | Fish Kiss | 184088 | [184088-fish-kiss.json](./184088-fish-kiss.json) |
 | Fish Kisser | 410893 | [410893-fish-kisser.json](./410893-fish-kisser.json) |
 | Fish Market | 391052 | [391052-fish-market.json](./391052-fish-market.json) |
