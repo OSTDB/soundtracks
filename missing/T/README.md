@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Bear Wars | 131605 | [131605-teddy-bear-wars.json](./131605-teddy-bear-wars.json) |
 | Teddy Factory | 206353 | [206353-teddy-factory.json](./206353-teddy-factory.json) |
 | Teddy Roller 1 | 323534 | [323534-teddy-roller-1.json](./323534-teddy-roller-1.json) |
+| Teddy's Marbles | 226754 | [226754-teddys-marbles.json](./226754-teddys-marbles.json) |
 | Tedram | 231366 | [231366-tedram.json](./231366-tedram.json) |
 | Tedram Online: Car Racing & Customization | 337637 | [337637-tedram-online-car-racing-and-customization.json](./337637-tedram-online-car-racing-and-customization.json) |
 | Tee Off! | 95449 | [95449-tee-off.json](./95449-tee-off.json) |
@@ -3837,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toshishita Kanojo | 382783 | [382783-toshishita-kanojo.json](./382783-toshishita-kanojo.json) |
 | Toska | 334482 | [334482-toska.json](./334482-toska.json) |
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
+| Toss King | 226753 | [226753-toss-king.json](./226753-toss-king.json) |
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
 | Total Apocalypse | 273128 | [273128-total-apocalypse.json](./273128-total-apocalypse.json) |
 | Total Esports Action Manager | 117036 | [117036-total-esports-action-manager.json](./117036-total-esports-action-manager.json) |
