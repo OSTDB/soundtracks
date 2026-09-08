@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instarion | 260972 | [260972-instarion.json](./260972-instarion.json) |
 | InstaTok Tycoon | 301837 | [301837-instatok-tycoon.json](./301837-instatok-tycoon.json) |
 | Instinct | 286509 | [286509-instinct.json](./286509-instinct.json) |
+| Insurgency Runner | 258485 | [258485-insurgency-runner.json](./258485-insurgency-runner.json) |
 | Insurgency: Sandstorm - Chemical Combat Gear Set | 321157 | [321157-insurgency-sandstorm-chemical-combat-gear-set.json](./321157-insurgency-sandstorm-chemical-combat-gear-set.json) |
 | Insurgency: Sandstorm - Desert Veteran Weapon Skin Set | 321159 | [321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json](./321159-insurgency-sandstorm-desert-veteran-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Digital Splatter Skin Set | 273937 | [273937-insurgency-sandstorm-digital-splatter-skin-set.json](./273937-insurgency-sandstorm-digital-splatter-skin-set.json) |
