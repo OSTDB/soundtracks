@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
+| We're Back! A Dinosaur's Story | 241985 | [241985-were-back-a-dinosaurs-story.json](./241985-were-back-a-dinosaurs-story.json) |
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
@@ -439,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
+| Welcome Kokuri-san | 241976 | [241976-welcome-kokuri-san.json](./241976-welcome-kokuri-san.json) |
 | Welcome Teacher | 266798 | [266798-welcome-teacher.json](./266798-welcome-teacher.json) |
 | Welcome To Chichester OVN 3: The Mysterious Affair at the Violet Hotel | 132264 | [132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
