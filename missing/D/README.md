@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash & Roll | 285981 | [285981-dash-and-roll.json](./285981-dash-and-roll.json) |
 | Dash & Swing | 245845 | [245845-dash-and-swing.json](./245845-dash-and-swing.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
+| Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
@@ -640,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
+| Death Walk | 217295 | [217295-death-walk.json](./217295-death-walk.json) |
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
 | Death, Soul & Robots | 245854 | [245854-death-soul-and-robots.json](./245854-death-soul-and-robots.json) |
 | Death's Life | 32030 | [32030-deaths-life.json](./32030-deaths-life.json) |
@@ -800,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
+| Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
 | Delirium | 293898 | [293898-delirium.json](./293898-delirium.json) |
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
@@ -1410,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Elysium: Game Boy Edition | 140050 | [140050-disco-elysium-game-boy-edition.json](./140050-disco-elysium-game-boy-edition.json) |
 | Disco Elysium: The Final Cut Bundle | 249486 | [249486-disco-elysium-the-final-cut-bundle.json](./249486-disco-elysium-the-final-cut-bundle.json) |
+| Disco Tomb | 217299 | [217299-disco-tomb.json](./217299-disco-tomb.json) |
 | Disco Zombie Fever | 240200 | [240200-disco-zombie-fever.json](./240200-disco-zombie-fever.json) |
 | Discode Reverse | 97366 | [97366-discode-reverse.json](./97366-discode-reverse.json) |
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
@@ -1511,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Worlds 2: Return of the Shakturi | 324930 | [324930-distant-worlds-2-return-of-the-shakturi.json](./324930-distant-worlds-2-return-of-the-shakturi.json) |
 | Distantia | 408029 | [408029-distantia.json](./408029-distantia.json) |
 | Distill, My Beating Heart! | 292019 | [292019-distill-my-beating-heart.json](./292019-distill-my-beating-heart.json) |
+| Distorted Echos | 217323 | [217323-distorted-echos.json](./217323-distorted-echos.json) |
 | Distorted Signal | 413667 | [413667-distorted-signal.json](./413667-distorted-signal.json) |
 | Distraint Collection | 186910 | [186910-distraint-collection.json](./186910-distraint-collection.json) |
 | Distress Signal | 178640 | [178640-distress-signal.json](./178640-distress-signal.json) |
@@ -1716,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Dolor's Dwelling | 390006 | [390006-dolors-dwelling.json](./390006-dolors-dwelling.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
+| Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
@@ -2553,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumpster Gang | 415120 | [415120-dumpster-gang.json](./415120-dumpster-gang.json) |
 | Dùn | 367443 | [367443-dun.json](./367443-dun.json) |
 | Dun Dam: Dungeons & Dam | 69298 | [69298-dun-dam-dungeons-and-dam.json](./69298-dun-dam-dungeons-and-dam.json) |
+| Duncade | 217305 | [217305-duncade.json](./217305-duncade.json) |
 | Duncan and Katy | 61112 | [61112-duncan-and-katy.json](./61112-duncan-and-katy.json) |
 | Dunchess | 269267 | [269267-dunchess.json](./269267-dunchess.json) |
 | Duncrush | 349832 | [349832-duncrush.json](./349832-duncrush.json) |
@@ -2595,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
 | Dungeon Dominator | 408778 | [408778-dungeon-dominator.json](./408778-dungeon-dominator.json) |
 | Dungeon Done | 311484 | [311484-dungeon-done.json](./311484-dungeon-done.json) |
+| Dungeon Dreams 2 | 217296 | [217296-dungeon-dreams-2.json](./217296-dungeon-dreams-2.json) |
 | Dungeon Explorer II | 42022 | [42022-dungeon-explorer-ii.json](./42022-dungeon-explorer-ii.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
 | Dungeon Golf | 244507 | [244507-dungeon-golf.json](./244507-dungeon-golf.json) |
