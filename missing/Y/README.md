@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
+| Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
 | Yogoe Hunter | 320178 | [320178-yogoe-hunter.json](./320178-yogoe-hunter.json) |
 | Yogurt Royale | 177010 | [177010-yogurt-royale.json](./177010-yogurt-royale.json) |
@@ -209,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yubisaki Connection Mini Fandisk Vol. 01: Yuzuki & Mikoto Hen | 382236 | [382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json](./382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json) |
 | Yubisaki Connection Mini Fandisk Vol. 02: Natsuho & Iori Hen | 382237 | [382237-yubisaki-connection-mini-fandisk-vol-02-natsuho-and-iori-hen.json](./382237-yubisaki-connection-mini-fandisk-vol-02-natsuho-and-iori-hen.json) |
 | Yucan | 141866 | [141866-yucan.json](./141866-yucan.json) |
+| Yudashi Peril: Floraison | 254532 | [254532-yudashi-peril-floraison.json](./254532-yudashi-peril-floraison.json) |
 | Yuè Lán Chuánqí II: Zhòu Yìn Zú Chuánshuō | 394177 | [394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json](./394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json) |
 | Yuè Lán Chuánqí: Yì Jiè de Fǎngkè | 394179 | [394179-yue-lan-chuanqi-yi-jie-de-fangke.json](./394179-yue-lan-chuanqi-yi-jie-de-fangke.json) |
 | Yugekitai Kakuto-hen: Saikyoushin Fukkatsu no Maki | 264326 | [264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json](./264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json) |
