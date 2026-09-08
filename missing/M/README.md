@@ -2413,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
+| Monster Maker | 220645 | [220645-monster-maker.json](./220645-monster-maker.json) |
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Mayhem | 351608 | [351608-monster-mayhem.json](./351608-monster-mayhem.json) |
 | Monster Medic | 18236 | [18236-monster-medic.json](./18236-monster-medic.json) |
@@ -2518,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Rider | 295026 | [295026-moon-rider.json](./295026-moon-rider.json) |
 | Moon River | 298303 | [298303-moon-river.json](./298303-moon-river.json) |
 | Moon Runner | 199125 | [199125-moon-runner.json](./199125-moon-runner.json) |
+| Moon Split Island: Dungeon Adventure | 220639 | [220639-moon-split-island-dungeon-adventure.json](./220639-moon-split-island-dungeon-adventure.json) |
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
@@ -3056,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
 | MXGP 24: The Official Game | 323182 | [323182-mxgp-24-the-official-game.json](./323182-mxgp-24-the-official-game.json) |
 | MXGP Pro | 96212 | [96212-mxgp-pro.json](./96212-mxgp-pro.json) |
+| My Agent is a Futanari | 220676 | [220676-my-agent-is-a-futanari.json](./220676-my-agent-is-a-futanari.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
 | My Animal Girlfriend | 228415 | [228415-my-animal-girlfriend.json](./228415-my-animal-girlfriend.json) |
 | My Aquarium | 367972 | [367972-my-aquarium.json](./367972-my-aquarium.json) |
