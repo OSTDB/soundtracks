@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
+| Namco Museum Mini Player | 220134 | [220134-namco-museum-mini-player.json](./220134-namco-museum-mini-player.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Nameless | 256829 | [256829-nameless.json](./256829-nameless.json) |
 | Nameless Dreams: Endless Nightmares | 327186 | [327186-nameless-dreams-endless-nightmares.json](./327186-nameless-dreams-endless-nightmares.json) |
@@ -649,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
 | Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack | 263234 | [263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json](./263234-nickelodeon-kart-racers-3-slime-speedway-turbo-pack.json) |
 | Nickelodeon Kids Bundle | 286512 | [286512-nickelodeon-kids-bundle.json](./286512-nickelodeon-kids-bundle.json) |
+| Nicktoons | 220098 | [220098-nicktoons.json](./220098-nicktoons.json) |
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
 | Nico Puchi Girls Runway | 222519 | [222519-nico-puchi-girls-runway.json](./222519-nico-puchi-girls-runway.json) |
 | Nico-chan no Kaeri ni Cheeseburger mgmg | 405504 | [405504-nico-chan-no-kaeri-ni-cheeseburger-mgmg.json](./405504-nico-chan-no-kaeri-ni-cheeseburger-mgmg.json) |
