@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
+| WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
