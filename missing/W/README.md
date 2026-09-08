@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayne Gretzky's 3D Hockey | 3630 | [3630-wayne-gretzkys-3d-hockey.json](./3630-wayne-gretzkys-3d-hockey.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
+| Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
