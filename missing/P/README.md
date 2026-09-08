@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packed Lair | 350440 | [350440-packed-lair.json](./350440-packed-lair.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
+| Pacmaga 2 | 217916 | [217916-pacmaga-2.json](./217916-pacmaga-2.json) |
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
@@ -1628,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Desert Bus | 313114 | [313114-pokemon-desert-bus.json](./313114-pokemon-desert-bus.json) |
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
+| Pokémon: Let's Go, Eevee! GBA | 217860 | [217860-pokemon-lets-go-eevee-gba.json](./217860-pokemon-lets-go-eevee-gba.json) |
 | Pokémon: Maxie's Island | 342679 | [342679-pokemon-maxies-island.json](./342679-pokemon-maxies-island.json) |
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
