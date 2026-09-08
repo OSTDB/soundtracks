@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon | 339276 | [339276-backgammon.json](./339276-backgammon.json) |
 | Backgammon 3D | 146896 | [146896-backgammon-3d.json](./146896-backgammon-3d.json) |
 | Backgammon Blitz | 8660 | [8660-backgammon-blitz.json](./8660-backgammon-blitz.json) |
+| Backgammon Live | 245322 | [245322-backgammon-live.json](./245322-backgammon-live.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
@@ -1246,12 +1247,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Bird Simulator | 127330 | [127330-bird-simulator.json](./127330-bird-simulator.json) |
+| Bird Sort: Color Puzzle | 245332 | [245332-bird-sort-color-puzzle.json](./245332-bird-sort-color-puzzle.json) |
 | Bird Strike for Android | 137098 | [137098-bird-strike-for-android.json](./137098-bird-strike-for-android.json) |
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
+| Birds no More | 245317 | [245317-birds-no-more.json](./245317-birds-no-more.json) |
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | Birmingham's Ghosts: Fear and Loathing | 248675 | [248675-birminghams-ghosts-fear-and-loathing.json](./248675-birminghams-ghosts-fear-and-loathing.json) |
@@ -2428,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Bucket Brawl: Ahlman Edition | 253354 | [253354-bucket-brawl-ahlman-edition.json](./253354-bucket-brawl-ahlman-edition.json) |
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
+| Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
 | Budget Rate Stigmata | 362855 | [362855-budget-rate-stigmata.json](./362855-budget-rate-stigmata.json) |
