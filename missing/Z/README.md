@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Cube | 163988 | [163988-zen-cube.json](./163988-zen-cube.json) |
 | Zen Fashion | 92510 | [92510-zen-fashion.json](./92510-zen-fashion.json) |
 | Zen Fish Simulator | 60551 | [60551-zen-fish-simulator.json](./60551-zen-fish-simulator.json) |
+| Zen Games: Color Blocks Puzzle | 234048 | [234048-zen-games-color-blocks-puzzle.json](./234048-zen-games-color-blocks-puzzle.json) |
 | Zen Koi 2 | 90702 | [90702-zen-koi-2.json](./90702-zen-koi-2.json) |
 | Zen Match | 185681 | [185681-zen-match.json](./185681-zen-match.json) |
 | Zen Training | 316067 | [316067-zen-training.json](./316067-zen-training.json) |
