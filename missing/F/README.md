@@ -2046,6 +2046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
+| Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
 | Fury of Dracula: Digital Edition | 129189 | [129189-fury-of-dracula-digital-edition.json](./129189-fury-of-dracula-digital-edition.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
 | FuryDough | 300675 | [300675-furydough.json](./300675-furydough.json) |
