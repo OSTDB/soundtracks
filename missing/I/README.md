@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
+| I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
