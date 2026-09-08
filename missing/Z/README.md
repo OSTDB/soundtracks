@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survival | 212487 | [212487-zombie-survival.json](./212487-zombie-survival.json) |
 | Zombie Survival | 231077 | [231077-zombie-survival.json](./231077-zombie-survival.json) |
 | Zombie Survival 3D | 409578 | [409578-zombie-survival-3d.json](./409578-zombie-survival-3d.json) |
+| Zombie Swipeout | 254555 | [254555-zombie-swipeout.json](./254555-zombie-swipeout.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
 | Zombie Teacher | 99608 | [99608-zombie-teacher.json](./99608-zombie-teacher.json) |
 | Zombie Tide Incoming Final Defense | 329596 | [329596-zombie-tide-incoming-final-defense.json](./329596-zombie-tide-incoming-final-defense.json) |
