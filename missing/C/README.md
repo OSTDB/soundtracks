@@ -2495,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
 | Creatures by Candlelight | 262952 | [262952-creatures-by-candlelight.json](./262952-creatures-by-candlelight.json) |
+| Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
