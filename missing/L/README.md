@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
 | Lukewarm Ironclad | 113702 | [113702-lukewarm-ironclad.json](./113702-lukewarm-ironclad.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
+| Lumber Inc Tycoon | 255759 | [255759-lumber-inc-tycoon.json](./255759-lumber-inc-tycoon.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
 | Lumberhill + It came from space and ate our brains | 287662 | [287662-lumberhill-it-came-from-space-and-ate-our-brains.json](./287662-lumberhill-it-came-from-space-and-ate-our-brains.json) |
 | Lumberjack Construction Simulator | 239325 | [239325-lumberjack-construction-simulator.json](./239325-lumberjack-construction-simulator.json) |
