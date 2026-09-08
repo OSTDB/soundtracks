@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
+| Liberation | 249813 | [249813-liberation.json](./249813-liberation.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
 | Liberta: Rise of Freedom | 250963 | [250963-liberta-rise-of-freedom.json](./250963-liberta-rise-of-freedom.json) |
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
@@ -1213,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
 | Lotan | 185143 | [185143-lotan.json](./185143-lotan.json) |
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
+| Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus Minigames: Berlin Traffic | 120420 | [120420-lotus-minigames-berlin-traffic.json](./120420-lotus-minigames-berlin-traffic.json) |
