@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
+| Button City: Soccer Days | 252771 | [252771-button-city-soccer-days.json](./252771-button-city-soccer-days.json) |
 | Button Game: 10 Minutes War | 368484 | [368484-button-game-10-minutes-war.json](./368484-button-game-10-minutes-war.json) |
 | Button Man | 295280 | [295280-button-man.json](./295280-button-man.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
