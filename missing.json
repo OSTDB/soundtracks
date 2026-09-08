@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T19:33:22.471Z",
-  "total_missing": 47901,
+  "generated_at": "2026-09-08T19:41:02.051Z",
+  "total_missing": 47900,
   "games": [
     {
       "igdb_id": 306086,
@@ -261,11 +261,6 @@
       "igdb_id": 318394,
       "game_name": "100 Hiddensaurs: Greece",
       "file": "missing/0-9/318394-100-hiddensaurs-greece.json"
-    },
-    {
-      "igdb_id": 324693,
-      "game_name": "100 in 1 Game Collection",
-      "file": "missing/0-9/324693-100-in-1-game-collection.json"
     },
     {
       "igdb_id": 334124,
