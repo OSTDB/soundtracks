@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
 | Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
+| Archaeogem | 219060 | [219060-archaeogem.json](./219060-archaeogem.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
