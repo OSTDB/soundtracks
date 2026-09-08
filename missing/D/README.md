@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Monsters & Mortals - House of Ashes | 292864 | [292864-dark-deception-monsters-and-mortals-house-of-ashes.json](./292864-dark-deception-monsters-and-mortals-house-of-ashes.json) |
 | Dark Deception: Monsters & Mortals - The Coma 2: Vicious Sisters | 292869 | [292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json](./292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json) |
 | Dark Decline | 269271 | [269271-dark-decline.json](./269271-dark-decline.json) |
+| Dark Deity: Complete Edition | 227862 | [227862-dark-deity-complete-edition.json](./227862-dark-deity-complete-edition.json) |
 | Dark Deity: Suns Out, Swords Out | 209658 | [209658-dark-deity-suns-out-swords-out.json](./209658-dark-deity-suns-out-swords-out.json) |
 | Dark Deity's Bastion | 268761 | [268761-dark-deitys-bastion.json](./268761-dark-deitys-bastion.json) |
 | Dark Designs I: Grelminar's Staff | 72104 | [72104-dark-designs-i-grelminars-staff.json](./72104-dark-designs-i-grelminars-staff.json) |
@@ -325,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash.io | 256521 | [256521-dash-io.json](./256521-dash-io.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
+| Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dasshutsu Game: Momo | 220309 | [220309-dasshutsu-game-momo.json](./220309-dasshutsu-game-momo.json) |
 | Dasshutsu Game: Neko-sama no Karakuri Garden kara no Dasshutsu | 220310 | [220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json](./220310-dasshutsu-game-neko-sama-no-karakuri-garden-kara-no-dasshutsu.json) |
@@ -1156,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Painting ASMR: Fun & Cute | 309076 | [309076-diamond-painting-asmr-fun-and-cute.json](./309076-diamond-painting-asmr-fun-and-cute.json) |
 | Diamond Run | 305745 | [305745-diamond-run.json](./305745-diamond-run.json) |
 | Diamond Skee-Ball | 209611 | [209611-diamond-skee-ball.json](./209611-diamond-skee-ball.json) |
+| Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
 | Diarrhea Don | 159891 | [159891-diarrhea-don.json](./159891-diarrhea-don.json) |
 | Diary Girl | 67992 | [67992-diary-girl.json](./67992-diary-girl.json) |
@@ -2467,6 +2470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dueling Dragons | 183566 | [183566-dueling-dragons.json](./183566-dueling-dragons.json) |
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
+| Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
 | Duelyst GG | 232452 | [232452-duelyst-gg.json](./232452-duelyst-gg.json) |
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
