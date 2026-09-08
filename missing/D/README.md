@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Mask | 359982 | [359982-death-mask.json](./359982-death-mask.json) |
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
+| Death Moto 3 | 237964 | [237964-death-moto-3.json](./237964-death-moto-3.json) |
 | Death Nomad | 236001 | [236001-death-nomad.json](./236001-death-nomad.json) |
 | Death Note: Killer Within | 320363 | [320363-death-note-killer-within.json](./320363-death-note-killer-within.json) |
 | Death Note: Kira Game | 22388 | [22388-death-note-kira-game.json](./22388-death-note-kira-game.json) |
@@ -2598,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durarara!! Relay | 61661 | [61661-durarara-relay.json](./61661-durarara-relay.json) |
 | Durga: The Lionhearted | 352203 | [352203-durga-the-lionhearted.json](./352203-durga-the-lionhearted.json) |
 | Duriano | 311483 | [311483-duriano.json](./311483-duriano.json) |
+| Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
