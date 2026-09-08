@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Impact | 19649 | [19649-naruto-shippuden-ultimate-ninja-impact.json](./19649-naruto-shippuden-ultimate-ninja-impact.json) |
 | Naruto Shippuden: Ultimate Ninja Storm Generations | 7100 | [7100-naruto-shippuden-ultimate-ninja-storm-generations.json](./7100-naruto-shippuden-ultimate-ninja-storm-generations.json) |
 | Naruto To Boruto: Shinobi Stricker - Master Character Training Pack: Boruto Uzumaki (Karma Progression) | 275885 | [275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json](./275885-naruto-to-boruto-shinobi-stricker-master-character-training-pack-boruto-uzumaki-karma-progression.json) |
+| Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Isshiki Otsutsuki | 234632 | [234632-naruto-to-boruto-shinobi-striker-master-character-training-pack-isshiki-otsutsuki.json](./234632-naruto-to-boruto-shinobi-striker-master-character-training-pack-isshiki-otsutsuki.json) |
 | Naruto to Boruto: Shinobi Striker - Master Character Training Pack: Kaguya Otsutsuki | 263509 | [263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json](./263509-naruto-to-boruto-shinobi-striker-master-character-training-pack-kaguya-otsutsuki.json) |
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
@@ -399,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Goddess | 278967 | [278967-neon-goddess.json](./278967-neon-goddess.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
+| Neon Man | 234611 | [234611-neon-man.json](./234611-neon-man.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
 | Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
 | Neon On!: Bright Ideas | 290434 | [290434-neon-on-bright-ideas.json](./290434-neon-on-bright-ideas.json) |
@@ -519,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
+| New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
 | New Star Soccer | 7682 | [7682-new-star-soccer.json](./7682-new-star-soccer.json) |
 | New Star Soccer 2 | 7681 | [7681-new-star-soccer-2.json](./7681-new-star-soccer-2.json) |
 | New Star Soccer 2010 | 7678 | [7678-new-star-soccer-2010.json](./7678-new-star-soccer-2010.json) |
@@ -793,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Hattori-kun | 346042 | [346042-ninja-hattori-kun.json](./346042-ninja-hattori-kun.json) |
 | Ninja Instinct | 25765 | [25765-ninja-instinct.json](./25765-ninja-instinct.json) |
 | Ninja JaJaMaru-kun: Sakura-hime to Karyu no Himitsu | 62207 | [62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json](./62207-ninja-jajamaru-kun-sakura-hime-to-karyu-no-himitsu.json) |
+| Ninja JaJaMaru: The Lost RPGs | 234622 | [234622-ninja-jajamaru-the-lost-rpgs.json](./234622-ninja-jajamaru-the-lost-rpgs.json) |
 | Ninja Kamui: Shinobi Origins | 298587 | [298587-ninja-kamui-shinobi-origins.json](./298587-ninja-kamui-shinobi-origins.json) |
 | Ninja Kato 3 | 297800 | [297800-ninja-kato-3.json](./297800-ninja-kato-3.json) |
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
@@ -1141,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
 | Nuclear Inc 2 | 100862 | [100862-nuclear-inc-2.json](./100862-nuclear-inc-2.json) |
 | Nuclear Lizard Island Rampage | 318434 | [318434-nuclear-lizard-island-rampage.json](./318434-nuclear-lizard-island-rampage.json) |
+| Nuclear Outrun | 234601 | [234601-nuclear-outrun.json](./234601-nuclear-outrun.json) |
 | Nuclear Plant 2024 | 308267 | [308267-nuclear-plant-2024.json](./308267-nuclear-plant-2024.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
