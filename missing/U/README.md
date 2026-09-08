@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
 | Underworld | 349298 | [349298-underworld.json](./349298-underworld.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
+| Underworld Island | 223455 | [223455-underworld-island.json](./223455-underworld-island.json) |
 | Underworld Re: Card | 213050 | [213050-underworld-re-card.json](./213050-underworld-re-card.json) |
 | Underworld Tycoon | 348764 | [348764-underworld-tycoon.json](./348764-underworld-tycoon.json) |
 | Undisputed | 146957 | [146957-undisputed.json](./146957-undisputed.json) |
