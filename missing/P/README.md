@@ -390,9 +390,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
+| Party Party Time + Party Harder Pack | 232993 | [232993-party-party-time-party-harder-pack.json](./232993-party-party-time-party-harder-pack.json) |
 | Party Party Time + Ultra Pack Set | 260684 | [260684-party-party-time-ultra-pack-set.json](./260684-party-party-time-ultra-pack-set.json) |
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
+| Party Party Time: Party Harder Pack | 233000 | [233000-party-party-time-party-harder-pack.json](./233000-party-party-time-party-harder-pack.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
 | Party Poopers | 112345 | [112345-party-poopers.json](./112345-party-poopers.json) |
 | Party Poppers | 113684 | [113684-party-poppers.json](./113684-party-poppers.json) |
@@ -607,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppered: An Existential Platformer | 170018 | [170018-peppered-an-existential-platformer.json](./170018-peppered-an-existential-platformer.json) |
 | Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
+| Per Aspera: Home | 232963 | [232963-per-aspera-home.json](./232963-per-aspera-home.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
 | Perch | 29944 | [29944-perch.json](./29944-perch.json) |
 | Perchang World | 400242 | [400242-perchang-world.json](./400242-perchang-world.json) |
@@ -1931,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Four Kings Solitaire | 195797 | [195797-pretty-girls-four-kings-solitaire.json](./195797-pretty-girls-four-kings-solitaire.json) |
 | Pretty Good Solitaire | 89241 | [89241-pretty-good-solitaire.json](./89241-pretty-good-solitaire.json) |
 | Pretty Ninja Himekage | 220327 | [220327-pretty-ninja-himekage.json](./220327-pretty-ninja-himekage.json) |
+| Pretty Overseer | 232964 | [232964-pretty-overseer.json](./232964-pretty-overseer.json) |
 | Pretty Safe Airlines | 125480 | [125480-pretty-safe-airlines.json](./125480-pretty-safe-airlines.json) |
 | Prey with Gun | 91426 | [91426-prey-with-gun.json](./91426-prey-with-gun.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
