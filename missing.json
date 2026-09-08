@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T09:03:47.404Z",
-  "total_missing": 46052,
+  "generated_at": "2026-09-08T09:18:31.829Z",
+  "total_missing": 46102,
   "games": [
     {
       "igdb_id": 306086,
@@ -10411,6 +10411,11 @@
       "igdb_id": 239668,
       "game_name": "Angrbotha Mountains",
       "file": "missing/A/239668-angrbotha-mountains.json"
+    },
+    {
+      "igdb_id": 237940,
+      "game_name": "Angriest Whopper Game",
+      "file": "missing/A/237940-angriest-whopper-game.json"
     },
     {
       "igdb_id": 67987,
@@ -27418,6 +27423,16 @@
       "file": "missing/B/319953-bpop-attack.json"
     },
     {
+      "igdb_id": 237970,
+      "game_name": "BQM: BlockQuest Maker - 1st DLC: Samurai Era",
+      "file": "missing/B/237970-bqm-blockquest-maker-1st-dlc-samurai-era.json"
+    },
+    {
+      "igdb_id": 237969,
+      "game_name": "BQM: BlockQuest Maker - 2nd DLC: Cyber Century",
+      "file": "missing/B/237969-bqm-blockquest-maker-2nd-dlc-cyber-century.json"
+    },
+    {
       "igdb_id": 40272,
       "game_name": "Bradley Trainer",
       "file": "missing/B/40272-bradley-trainer.json"
@@ -28461,6 +28476,11 @@
       "igdb_id": 180841,
       "game_name": "Brittle Buildings",
       "file": "missing/B/180841-brittle-buildings.json"
+    },
+    {
+      "igdb_id": 237955,
+      "game_name": "Brix and Trix",
+      "file": "missing/B/237955-brix-and-trix.json"
     },
     {
       "igdb_id": 34450,
@@ -29861,6 +29881,11 @@
       "igdb_id": 320749,
       "game_name": "Burnin' Rubber 6",
       "file": "missing/B/320749-burnin-rubber-6.json"
+    },
+    {
+      "igdb_id": 237965,
+      "game_name": "Burnin' Rubber Shift",
+      "file": "missing/B/237965-burnin-rubber-shift.json"
     },
     {
       "igdb_id": 231613,
@@ -36683,6 +36708,11 @@
       "file": "missing/C/393462-cities-skylines-race-day.json"
     },
     {
+      "igdb_id": 237966,
+      "game_name": "Cities: Skylines - Remastered",
+      "file": "missing/C/237966-cities-skylines-remastered.json"
+    },
+    {
       "igdb_id": 273942,
       "game_name": "Cities: Skylines II - Ultimate Edition",
       "file": "missing/C/273942-cities-skylines-ii-ultimate-edition.json"
@@ -37031,6 +37061,11 @@
       "igdb_id": 272815,
       "game_name": "Clash of Evil: The Comeback",
       "file": "missing/C/272815-clash-of-evil-the-comeback.json"
+    },
+    {
+      "igdb_id": 237958,
+      "game_name": "Clash of Fingers",
+      "file": "missing/C/237958-clash-of-fingers.json"
     },
     {
       "igdb_id": 348804,
@@ -48008,6 +48043,11 @@
       "file": "missing/D/259241-death-mile.json"
     },
     {
+      "igdb_id": 237964,
+      "game_name": "Death Moto 3",
+      "file": "missing/D/237964-death-moto-3.json"
+    },
+    {
       "igdb_id": 236001,
       "game_name": "Death Nomad",
       "file": "missing/D/236001-death-nomad.json"
@@ -58051,6 +58091,11 @@
       "igdb_id": 311483,
       "game_name": "Duriano",
       "file": "missing/D/311483-duriano.json"
+    },
+    {
+      "igdb_id": 237949,
+      "game_name": "Dusk of the Cage",
+      "file": "missing/D/237949-dusk-of-the-cage.json"
     },
     {
       "igdb_id": 400854,
@@ -68403,6 +68448,11 @@
       "file": "missing/F/239659-finding-fern.json"
     },
     {
+      "igdb_id": 237954,
+      "game_name": "Finding Hannah",
+      "file": "missing/F/237954-finding-hannah.json"
+    },
+    {
       "igdb_id": 214158,
       "game_name": "Finding Mosey",
       "file": "missing/F/214158-finding-mosey.json"
@@ -69186,6 +69236,11 @@
       "igdb_id": 50630,
       "game_name": "Fishing Master World Tour",
       "file": "missing/F/50630-fishing-master-world-tour.json"
+    },
+    {
+      "igdb_id": 237960,
+      "game_name": "Fishing Mates",
+      "file": "missing/F/237960-fishing-mates.json"
     },
     {
       "igdb_id": 318187,
@@ -71176,6 +71231,11 @@
       "igdb_id": 217011,
       "game_name": "Foolish Mortals",
       "file": "missing/F/217011-foolish-mortals.json"
+    },
+    {
+      "igdb_id": 237957,
+      "game_name": "Foosball Cup World",
+      "file": "missing/F/237957-foosball-cup-world.json"
     },
     {
       "igdb_id": 318195,
@@ -79548,6 +79608,11 @@
       "file": "missing/G/283174-golf-guys-complete-edition.json"
     },
     {
+      "igdb_id": 237963,
+      "game_name": "Golf is Hard",
+      "file": "missing/G/237963-golf-is-hard.json"
+    },
+    {
       "igdb_id": 130954,
       "game_name": "Golf Keeper",
       "file": "missing/G/130954-golf-keeper.json"
@@ -81751,6 +81816,16 @@
       "igdb_id": 361705,
       "game_name": "Groove Coaster: Undertale DLC Pack 01",
       "file": "missing/G/361705-groove-coaster-undertale-dlc-pack-01.json"
+    },
+    {
+      "igdb_id": 237937,
+      "game_name": "Groove Coaster: Wai Wai Party!!!! - DJMax Respect Pack",
+      "file": "missing/G/237937-groove-coaster-wai-wai-party-djmax-respect-pack.json"
+    },
+    {
+      "igdb_id": 237936,
+      "game_name": "Groove Coaster: Wai Wai Party!!!! - Lanota Pack",
+      "file": "missing/G/237936-groove-coaster-wai-wai-party-lanota-pack.json"
     },
     {
       "igdb_id": 283179,
@@ -85878,6 +85953,11 @@
       "file": "missing/H/45279-heavy-rain-directors-cut.json"
     },
     {
+      "igdb_id": 237952,
+      "game_name": "Heavy Rockets",
+      "file": "missing/H/237952-heavy-rockets.json"
+    },
+    {
       "igdb_id": 58250,
       "game_name": "Heavy Truck Simulator",
       "file": "missing/H/58250-heavy-truck-simulator.json"
@@ -86321,6 +86401,11 @@
       "igdb_id": 234906,
       "game_name": "Hellfire Saga",
       "file": "missing/H/234906-hellfire-saga.json"
+    },
+    {
+      "igdb_id": 237951,
+      "game_name": "HellFurnace",
+      "file": "missing/H/237951-hellfurnace.json"
     },
     {
       "igdb_id": 158718,
@@ -92243,6 +92328,11 @@
       "file": "missing/I/310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json"
     },
     {
+      "igdb_id": 237971,
+      "game_name": "I am an Air Traffic Controller: Airport Hero Haneda - Sky Day! Variety Pack",
+      "file": "missing/I/237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json"
+    },
+    {
       "igdb_id": 56475,
       "game_name": "I Am An Air Traffic Controller: Airport Hero Naha",
       "file": "missing/I/56475-i-am-an-air-traffic-controller-airport-hero-naha.json"
@@ -92911,6 +93001,11 @@
       "igdb_id": 206931,
       "game_name": "I'm on Cirno Duty",
       "file": "missing/I/206931-im-on-cirno-duty.json"
+    },
+    {
+      "igdb_id": 237948,
+      "game_name": "I'm on Merrymaking Watch",
+      "file": "missing/I/237948-im-on-merrymaking-watch.json"
     },
     {
       "igdb_id": 71001,
@@ -115211,6 +115306,11 @@
       "igdb_id": 3990,
       "game_name": "Mario & Sonic at the Sochi 2014 Olympic Winter Games",
       "file": "missing/M/3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json"
+    },
+    {
+      "igdb_id": 237938,
+      "game_name": "Mario + Rabbids Kingdom Battle: Ultra Challenge Pack",
+      "file": "missing/M/237938-mario-rabbids-kingdom-battle-ultra-challenge-pack.json"
     },
     {
       "igdb_id": 130354,
@@ -139908,6 +140008,11 @@
       "file": "missing/P/14701-pac-man-256.json"
     },
     {
+      "igdb_id": 237983,
+      "game_name": "Pac-Man 99: Deluxe Pack",
+      "file": "missing/P/237983-pac-man-99-deluxe-pack.json"
+    },
+    {
       "igdb_id": 19940,
       "game_name": "Pac-Man and the Ghostly Adventures",
       "file": "missing/P/19940-pac-man-and-the-ghostly-adventures.json"
@@ -141678,6 +141783,11 @@
       "file": "missing/P/31009-party-golf.json"
     },
     {
+      "igdb_id": 237984,
+      "game_name": "Party Hard Pack",
+      "file": "missing/P/237984-party-hard-pack.json"
+    },
+    {
       "igdb_id": 171630,
       "game_name": "Party Hard: High Crimes",
       "file": "missing/P/171630-party-hard-high-crimes.json"
@@ -143281,6 +143391,16 @@
       "igdb_id": 248906,
       "game_name": "Pet Shop Simulator",
       "file": "missing/P/248906-pet-shop-simulator.json"
+    },
+    {
+      "igdb_id": 237981,
+      "game_name": "Pet Shop Snacks: Expansion Pack 1",
+      "file": "missing/P/237981-pet-shop-snacks-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 237982,
+      "game_name": "Pet Shop Snacks: Expansion Pack 2",
+      "file": "missing/P/237982-pet-shop-snacks-expansion-pack-2.json"
     },
     {
       "igdb_id": 177041,
@@ -145753,6 +145873,11 @@
       "file": "missing/P/140016-pixeljunk-monsters-2-encore-pack.json"
     },
     {
+      "igdb_id": 237939,
+      "game_name": "PixelJunk Monsters 2: Tiki Bundle",
+      "file": "missing/P/237939-pixeljunk-monsters-2-tiki-bundle.json"
+    },
+    {
       "igdb_id": 213499,
       "game_name": "PixelJunk: Scrappers Deluxe",
       "file": "missing/P/213499-pixeljunk-scrappers-deluxe.json"
@@ -145851,6 +145976,16 @@
       "igdb_id": 328493,
       "game_name": "Piyo Puzz: Piyokoro x Puzzle",
       "file": "missing/P/328493-piyo-puzz-piyokoro-x-puzzle.json"
+    },
+    {
+      "igdb_id": 237977,
+      "game_name": "Pizza Bar Tycoon: Expansion Pack 1",
+      "file": "missing/P/237977-pizza-bar-tycoon-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 237978,
+      "game_name": "Pizza Bar Tycoon: Expansion Pack 2",
+      "file": "missing/P/237978-pizza-bar-tycoon-expansion-pack-2.json"
     },
     {
       "igdb_id": 207541,
@@ -147738,6 +147873,11 @@
       "file": "missing/P/284896-pokini-kagura.json"
     },
     {
+      "igdb_id": 237933,
+      "game_name": "Pokkén Tournament DX: Battle Pack",
+      "file": "missing/P/237933-pokken-tournament-dx-battle-pack.json"
+    },
+    {
       "igdb_id": 300366,
       "game_name": "Pokkén Tournament: Update Ver.C07",
       "file": "missing/P/300366-pokken-tournament-update-ver-c07.json"
@@ -148956,6 +149096,11 @@
       "igdb_id": 205276,
       "game_name": "Power Rangers: Battle for the Grid - Digital Collector's Edition",
       "file": "missing/P/205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json"
+    },
+    {
+      "igdb_id": 237979,
+      "game_name": "Power Rangers: Battle for the Grid - Street Fighter Pack",
+      "file": "missing/P/237979-power-rangers-battle-for-the-grid-street-fighter-pack.json"
     },
     {
       "igdb_id": 330744,
@@ -152193,6 +152338,11 @@
       "file": "missing/P/259558-puzzle-bonsai.json"
     },
     {
+      "igdb_id": 237980,
+      "game_name": "Puzzle Book: Adventure Pack",
+      "file": "missing/P/237980-puzzle-book-adventure-pack.json"
+    },
+    {
       "igdb_id": 41393,
       "game_name": "Puzzle Boys",
       "file": "missing/P/41393-puzzle-boys.json"
@@ -154681,6 +154831,11 @@
       "igdb_id": 112330,
       "game_name": "Rally of Rockets",
       "file": "missing/R/112330-rally-of-rockets.json"
+    },
+    {
+      "igdb_id": 237953,
+      "game_name": "Rally Point 3",
+      "file": "missing/R/237953-rally-point-3.json"
     },
     {
       "igdb_id": 76648,
@@ -164028,6 +164183,16 @@
       "file": "missing/S/316400-salacot-jack-deluxe.json"
     },
     {
+      "igdb_id": 237972,
+      "game_name": "Salad Bar Tycoon: Expansion Pack 1",
+      "file": "missing/S/237972-salad-bar-tycoon-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 237973,
+      "game_name": "Salad Bar Tycoon: Expansion Pack 2",
+      "file": "missing/S/237973-salad-bar-tycoon-expansion-pack-2.json"
+    },
+    {
       "igdb_id": 141883,
       "game_name": "Sally Acorn in Sonic the Hedgehog",
       "file": "missing/S/141883-sally-acorn-in-sonic-the-hedgehog.json"
@@ -164351,6 +164516,11 @@
       "igdb_id": 331842,
       "game_name": "Samurai Shodown: Deluxe Edition",
       "file": "missing/S/331842-samurai-shodown-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 237974,
+      "game_name": "Samurai Shodown: Deluxe Pack",
+      "file": "missing/S/237974-samurai-shodown-deluxe-pack.json"
     },
     {
       "igdb_id": 378783,
@@ -166243,6 +166413,11 @@
       "file": "missing/S/205271-sd-gundam-battle-alliance-limited-edition.json"
     },
     {
+      "igdb_id": 237976,
+      "game_name": "SD Gundam Battle Alliance: Unit and Scenario Pack 2",
+      "file": "missing/S/237976-sd-gundam-battle-alliance-unit-and-scenario-pack-2.json"
+    },
+    {
       "igdb_id": 238486,
       "game_name": "SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 1",
       "file": "missing/S/238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json"
@@ -167801,6 +167976,11 @@
       "igdb_id": 209632,
       "game_name": "Seven Doorways",
       "file": "missing/S/209632-seven-doorways.json"
+    },
+    {
+      "igdb_id": 237932,
+      "game_name": "Seven Knights: Time Wanderer - Cosplay Costume Set",
+      "file": "missing/S/237932-seven-knights-time-wanderer-cosplay-costume-set.json"
     },
     {
       "igdb_id": 238229,
@@ -191193,6 +191373,16 @@
       "file": "missing/T/149058-talisman-digital-edition-exorcist.json"
     },
     {
+      "igdb_id": 237935,
+      "game_name": "Talisman: Digital Edition - Expansion Pack 1",
+      "file": "missing/T/237935-talisman-digital-edition-expansion-pack-1.json"
+    },
+    {
+      "igdb_id": 237934,
+      "game_name": "Talisman: Digital Edition - Expansion Pack 2",
+      "file": "missing/T/237934-talisman-digital-edition-expansion-pack-2.json"
+    },
+    {
       "igdb_id": 149078,
       "game_name": "Talisman: Digital Edition - Gambler",
       "file": "missing/T/149078-talisman-digital-edition-gambler.json"
@@ -191641,6 +191831,11 @@
       "igdb_id": 238525,
       "game_name": "Tank Kingdoms",
       "file": "missing/T/238525-tank-kingdoms.json"
+    },
+    {
+      "igdb_id": 237961,
+      "game_name": "Tank Legend Online: League of Tanks",
+      "file": "missing/T/237961-tank-legend-online-league-of-tanks.json"
     },
     {
       "igdb_id": 200733,
@@ -200896,6 +201091,11 @@
       "igdb_id": 348275,
       "game_name": "The Orange of Tomorrow",
       "file": "missing/T/348275-the-orange-of-tomorrow.json"
+    },
+    {
+      "igdb_id": 237950,
+      "game_name": "The Orc Invasion",
+      "file": "missing/T/237950-the-orc-invasion.json"
     },
     {
       "igdb_id": 247177,
@@ -210223,14 +210423,29 @@
       "file": "missing/T/195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json"
     },
     {
+      "igdb_id": 237944,
+      "game_name": "Train Sim World 3: Amtrak's Acela",
+      "file": "missing/T/237944-train-sim-world-3-amtraks-acela.json"
+    },
+    {
       "igdb_id": 269329,
       "game_name": "Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On",
       "file": "missing/T/269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json"
     },
     {
+      "igdb_id": 237942,
+      "game_name": "Train Sim World 3: Northeast Corridor - New York: Trenton",
+      "file": "missing/T/237942-train-sim-world-3-northeast-corridor-new-york-trenton.json"
+    },
+    {
       "igdb_id": 273930,
       "game_name": "Train Sim World 3: Peak Forest Railway - Ambergate - Chinley & Buxton",
       "file": "missing/T/273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json"
+    },
+    {
+      "igdb_id": 237943,
+      "game_name": "Train Sim World 3: Union Pacific Heritage - Livery Collection",
+      "file": "missing/T/237943-train-sim-world-3-union-pacific-heritage-livery-collection.json"
     },
     {
       "igdb_id": 269324,
@@ -210738,6 +210953,11 @@
       "file": "missing/T/306106-trainz-plus-pro-train-sequoia-valley.json"
     },
     {
+      "igdb_id": 237946,
+      "game_name": "Trainz Plus: Pro Train DB/DR Auxiliary Train",
+      "file": "missing/T/237946-trainz-plus-pro-train-db-dr-auxiliary-train.json"
+    },
+    {
       "igdb_id": 306104,
       "game_name": "Trainz Plus: ProTrain - AC4400CW Loco Bundle 1",
       "file": "missing/T/306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json"
@@ -210798,6 +211018,11 @@
       "file": "missing/T/211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json"
     },
     {
+      "igdb_id": 237947,
+      "game_name": "Trainz Railroad Simulator 2019: Pro Train DB/DR Auxiliary Train",
+      "file": "missing/T/237947-trainz-railroad-simulator-2019-pro-train-db-dr-auxiliary-train.json"
+    },
+    {
       "igdb_id": 190716,
       "game_name": "Trainz Railroad Simulator 2019: Rodnye Prostory Route",
       "file": "missing/T/190716-trainz-railroad-simulator-2019-rodnye-prostory-route.json"
@@ -210831,6 +211056,11 @@
       "igdb_id": 288211,
       "game_name": "Trainz Railroad Simulator 2022: Port Saturn",
       "file": "missing/T/288211-trainz-railroad-simulator-2022-port-saturn.json"
+    },
+    {
+      "igdb_id": 237945,
+      "game_name": "Trainz Railroad Simulator 2022: Pro Train DB/DR Auxiliary Train",
+      "file": "missing/T/237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json"
     },
     {
       "igdb_id": 318440,
@@ -216583,6 +216813,11 @@
       "file": "missing/V/265651-vacation-tycoon.json"
     },
     {
+      "igdb_id": 237959,
+      "game_name": "Vaccine Case",
+      "file": "missing/V/237959-vaccine-case.json"
+    },
+    {
       "igdb_id": 144355,
       "game_name": "Vaccine Hunter",
       "file": "missing/V/144355-vaccine-hunter.json"
@@ -221031,6 +221266,11 @@
       "igdb_id": 31628,
       "game_name": "Warriors of Vilvatikta",
       "file": "missing/W/31628-warriors-of-vilvatikta.json"
+    },
+    {
+      "igdb_id": 237975,
+      "game_name": "Warriors Orochi 4: Scenario Pack",
+      "file": "missing/W/237975-warriors-orochi-4-scenario-pack.json"
     },
     {
       "igdb_id": 336559,
@@ -227008,6 +227248,11 @@
       "file": "missing/X/45968-xna.json"
     },
     {
+      "igdb_id": 237956,
+      "game_name": "XO Master",
+      "file": "missing/X/237956-xo-master.json"
+    },
+    {
       "igdb_id": 149609,
       "game_name": "Xob",
       "file": "missing/X/149609-xob.json"
@@ -227806,6 +228051,11 @@
       "igdb_id": 269580,
       "game_name": "Yorigami Market",
       "file": "missing/Y/269580-yorigami-market.json"
+    },
+    {
+      "igdb_id": 237962,
+      "game_name": "Yorkshire's Great Race",
+      "file": "missing/Y/237962-yorkshires-great-race.json"
     },
     {
       "igdb_id": 374610,
