@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
+| Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
 | Fairytale Mosaics: Cinderella 2 | 155649 | [155649-fairytale-mosaics-cinderella-2.json](./155649-fairytale-mosaics-cinderella-2.json) |
 | Fairytale Mosaics. Beauty and the Beast | 94788 | [94788-fairytale-mosaics-beauty-and-the-beast.json](./94788-fairytale-mosaics-beauty-and-the-beast.json) |
