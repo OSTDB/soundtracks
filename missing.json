@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T21:48:25.282Z",
-  "total_missing": 48245,
+  "generated_at": "2026-09-08T21:51:00.798Z",
+  "total_missing": 48244,
   "games": [
     {
       "igdb_id": 306086,
@@ -331,11 +331,6 @@
       "igdb_id": 164469,
       "game_name": "100% Orange Juice: Alicianrone & Teotoratta",
       "file": "missing/0-9/164469-100-orange-juice-alicianrone-and-teotoratta.json"
-    },
-    {
-      "igdb_id": 164468,
-      "game_name": "100% Orange Juice: Alte & Kyoko",
-      "file": "missing/0-9/164468-100-orange-juice-alte-and-kyoko.json"
     },
     {
       "igdb_id": 164476,
