@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postman Pat 2 | 68691 | [68691-postman-pat-2.json](./68691-postman-pat-2.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
+| Pot Breaker | 223444 | [223444-pot-breaker.json](./223444-pot-breaker.json) |
 | Pot Farmer | 235972 | [235972-pot-farmer.json](./235972-pot-farmer.json) |
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
 | Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
