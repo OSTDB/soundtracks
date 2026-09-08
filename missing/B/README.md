@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
+| Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
 | Bachelairs | 331357 | [331357-bachelairs.json](./331357-bachelairs.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
@@ -1675,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
 | Blood Safari | 165662 | [165662-blood-safari.json](./165662-blood-safari.json) |
+| Blood Samurai: Night of Slaughter | 227851 | [227851-blood-samurai-night-of-slaughter.json](./227851-blood-samurai-night-of-slaughter.json) |
 | Blood Sea | 312572 | [312572-blood-sea.json](./312572-blood-sea.json) |
 | Blood Ties | 78714 | [78714-blood-ties.json](./78714-blood-ties.json) |
 | Blood to Bone | 281382 | [281382-blood-to-bone.json](./281382-blood-to-bone.json) |
@@ -1767,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
+| Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
@@ -1784,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
+| Boat Train | 227867 | [227867-boat-train.json](./227867-boat-train.json) |
 | Boatgator | 253359 | [253359-boatgator.json](./253359-boatgator.json) |
 | Boaty McBoatwad | 260662 | [260662-boaty-mcboatwad.json](./260662-boaty-mcboatwad.json) |
 | Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
@@ -2209,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Legacy | 296379 | [296379-brave-legacy.json](./296379-brave-legacy.json) |
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
 | Brave Quest | 296378 | [296378-brave-quest.json](./296378-brave-quest.json) |
+| Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
 | Brave Sword | 329395 | [329395-brave-sword.json](./329395-brave-sword.json) |
 | Brave Tank Hero | 210270 | [210270-brave-tank-hero.json](./210270-brave-tank-hero.json) |
 | Brave the Dungeon | 242224 | [242224-brave-the-dungeon.json](./242224-brave-the-dungeon.json) |
