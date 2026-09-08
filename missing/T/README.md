@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempter | 309887 | [309887-tempter.json](./309887-tempter.json) |
 | Ten Dates | 217256 | [217256-ten-dates.json](./217256-ten-dates.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
+| Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
@@ -1892,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Leviathan's Fantasy: DLC | 289327 | [289327-the-leviathans-fantasy-dlc.json](./289327-the-leviathans-fantasy-dlc.json) |
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
+| The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
 | The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
@@ -2733,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
 | The Village of Archensheen | 268725 | [268725-the-village-of-archensheen.json](./268725-the-village-of-archensheen.json) |
 | The Villainess Just Wants to Eat!! | 264327 | [264327-the-villainess-just-wants-to-eat.json](./264327-the-villainess-just-wants-to-eat.json) |
+| The Viriditas Chapel of Perpetual Adoration | 241381 | [241381-the-viriditas-chapel-of-perpetual-adoration.json](./241381-the-viriditas-chapel-of-perpetual-adoration.json) |
 | The Virus Game | 375853 | [375853-the-virus-game.json](./375853-the-virus-game.json) |
 | The Visit | 128660 | [128660-the-visit.json](./128660-the-visit.json) |
 | The Visit | 201289 | [201289-the-visit.json](./201289-the-visit.json) |
@@ -3422,6 +3425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
+| Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
@@ -4160,6 +4164,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transparent Black: Wish | 337100 | [337100-transparent-black-wish.json](./337100-transparent-black-wish.json) |
 | Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
 | Transport Fever 2 | 117820 | [117820-transport-fever-2.json](./117820-transport-fever-2.json) |
+| Transport Fever 2: Console Edition - Deluxe Edition | 241357 | [241357-transport-fever-2-console-edition-deluxe-edition.json](./241357-transport-fever-2-console-edition-deluxe-edition.json) |
+| Transport Fever 2: Deluxe Edition | 241359 | [241359-transport-fever-2-deluxe-edition.json](./241359-transport-fever-2-deluxe-edition.json) |
 | Transport Giant: Down Under | 9445 | [9445-transport-giant-down-under.json](./9445-transport-giant-down-under.json) |
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
 | Transporter Truck Simulator | 119043 | [119043-transporter-truck-simulator.json](./119043-transporter-truck-simulator.json) |
@@ -4596,6 +4602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
+| Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
