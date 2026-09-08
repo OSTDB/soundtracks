@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend | 197955 | [197955-legend.json](./197955-legend.json) |
 | Legend - The Four Crystals of Trazere | 37131 | [37131-legend-the-four-crystals-of-trazere.json](./37131-legend-the-four-crystals-of-trazere.json) |
 | Legend 64 | 261297 | [261297-legend-64.json](./261297-legend-64.json) |
+| Legend Creatures 2 | 257382 | [257382-legend-creatures-2.json](./257382-legend-creatures-2.json) |
 | Legend of Aladdin | 70969 | [70969-legend-of-aladdin.json](./70969-legend-of-aladdin.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
