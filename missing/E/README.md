@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Dreams | 277835 | [277835-elven-dreams.json](./277835-elven-dreams.json) |
 | Elven Rivers II: New Horizons - Collector's Edition | 250355 | [250355-elven-rivers-ii-new-horizons-collectors-edition.json](./250355-elven-rivers-ii-new-horizons-collectors-edition.json) |
 | Elven Rivers: The Forgotten Lands - Collector's Edition | 239643 | [239643-elven-rivers-the-forgotten-lands-collectors-edition.json](./239643-elven-rivers-the-forgotten-lands-collectors-edition.json) |
+| Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
 | Elvin: The Water Sphere | 316059 | [316059-elvin-the-water-sphere.json](./316059-elvin-the-water-sphere.json) |
 | Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
