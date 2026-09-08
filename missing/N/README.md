@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
 | Nana Tan | 267395 | [267395-nana-tan.json](./267395-nana-tan.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
+| Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
 | Nancy Drew: Danger on Deception Island | 10580 | [10580-nancy-drew-danger-on-deception-island.json](./10580-nancy-drew-danger-on-deception-island.json) |
 | Nancy Drew: Message in a Haunted Mansion | 248638 | [248638-nancy-drew-message-in-a-haunted-mansion.json](./248638-nancy-drew-message-in-a-haunted-mansion.json) |
 | Nancy Drew: Ransom of the Seven Ships | 29201 | [29201-nancy-drew-ransom-of-the-seven-ships.json](./29201-nancy-drew-ransom-of-the-seven-ships.json) |
