@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Adventures: GangBang Surprise | 219598 | [219598-sex-adventures-gangbang-surprise.json](./219598-sex-adventures-gangbang-surprise.json) |
 | Sex Adventures: Mile High Club | 286528 | [286528-sex-adventures-mile-high-club.json](./286528-sex-adventures-mile-high-club.json) |
 | Sex Adventures: Modeling Audition | 219599 | [219599-sex-adventures-modeling-audition.json](./219599-sex-adventures-modeling-audition.json) |
+| Sex Adventures: Swingers Gym | 212800 | [212800-sex-adventures-swingers-gym.json](./212800-sex-adventures-swingers-gym.json) |
 | Sex Adventures: The Bar Hookup | 219600 | [219600-sex-adventures-the-bar-hookup.json](./219600-sex-adventures-the-bar-hookup.json) |
 | Sex and the Furry Titty 2: Sins of the City - Love Stories Episodes | 173846 | [173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json](./173846-sex-and-the-furry-titty-2-sins-of-the-city-love-stories-episodes.json) |
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
@@ -1413,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
+| ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
 | Ships Simulator 2024 | 219609 | [219609-ships-simulator-2024.json](./219609-ships-simulator-2024.json) |
 | Shipwreck | 35936 | [35936-shipwreck.json](./35936-shipwreck.json) |
@@ -3039,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Scrimshaw, Part One | 183581 | [183581-south-scrimshaw-part-one.json](./183581-south-scrimshaw-part-one.json) |
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
+| Southern Princesses | 212801 | [212801-southern-princesses.json](./212801-southern-princesses.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
 | Souzou no Memoria | 396936 | [396936-souzou-no-memoria.json](./396936-souzou-no-memoria.json) |
 | Sovereign Reign | 276171 | [276171-sovereign-reign.json](./276171-sovereign-reign.json) |
@@ -3265,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
 | Sparkle 2 | 20069 | [20069-sparkle-2.json](./20069-sparkle-2.json) |
+| Sparkle Piglet | 212795 | [212795-sparkle-piglet.json](./212795-sparkle-piglet.json) |
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | SparkleWand Puzzle | 239056 | [239056-sparklewand-puzzle.json](./239056-sparklewand-puzzle.json) |
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
@@ -4678,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
 | Summer Sisters | 402291 | [402291-summer-sisters.json](./402291-summer-sisters.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
+| Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
@@ -5200,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sonic in Sonic 3D | 198546 | [198546-super-sonic-in-sonic-3d.json](./198546-super-sonic-in-sonic-3d.json) |
 | Super Sonic in Sonic the Hedgehog | 198527 | [198527-super-sonic-in-sonic-the-hedgehog.json](./198527-super-sonic-in-sonic-the-hedgehog.json) |
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
+| Super Space Serpent SE + Perpetuum: Mobile Bundle | 212789 | [212789-super-space-serpent-se-perpetuum-mobile-bundle.json](./212789-super-space-serpent-se-perpetuum-mobile-bundle.json) |
 | Super Spike V'Ball | 48073 | [48073-super-spike-vball.json](./48073-super-spike-vball.json) |
 | Super Spike V'Ball/Nintendo World Cup | 93582 | [93582-super-spike-vball-nintendo-world-cup.json](./93582-super-spike-vball-nintendo-world-cup.json) |
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
