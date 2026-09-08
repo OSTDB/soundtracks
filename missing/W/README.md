@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
+| Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
 | Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
+| WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
@@ -546,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When I Said "It's Ok To Be Cringe" I Didn't Mean Like That | 300677 | [300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json](./300677-when-i-said-its-ok-to-be-cringe-i-didnt-mean-like-that.json) |
 | When I was a boycow | 178675 | [178675-when-i-was-a-boycow.json](./178675-when-i-was-a-boycow.json) |
 | When it Rains Red | 382211 | [382211-when-it-rains-red.json](./382211-when-it-rains-red.json) |
+| When It Rains, I Want to Disappear off Somewhere | 243143 | [243143-when-it-rains-i-want-to-disappear-off-somewhere.json](./243143-when-it-rains-i-want-to-disappear-off-somewhere.json) |
 | When Night Comes | 249197 | [249197-when-night-comes.json](./249197-when-night-comes.json) |
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
@@ -724,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
+| Wild Legion | 243150 | [243150-wild-legion.json](./243150-wild-legion.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
