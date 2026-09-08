@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Descent | 339275 | [339275-orbital-descent.json](./339275-orbital-descent.json) |
 | Orbital Frenzy | 376452 | [376452-orbital-frenzy.json](./376452-orbital-frenzy.json) |
 | Orbital Invaders | 156656 | [156656-orbital-invaders.json](./156656-orbital-invaders.json) |
+| Orbital Patrol | 244783 | [244783-orbital-patrol.json](./244783-orbital-patrol.json) |
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
 | Orbo | 292822 | [292822-orbo.json](./292822-orbo.json) |
