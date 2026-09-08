@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 8 | 94229 | [94229-x-plane-8.json](./94229-x-plane-8.json) |
 | X-Plane 9 | 51270 | [51270-x-plane-9.json](./51270-x-plane-9.json) |
 | X-Plane Flight Simulator | 196325 | [196325-x-plane-flight-simulator.json](./196325-x-plane-flight-simulator.json) |
+| X-Plane: Starship | 255743 | [255743-x-plane-starship.json](./255743-x-plane-starship.json) |
 | X-Ray & Dilligas | 144319 | [144319-x-ray-and-dilligas.json](./144319-x-ray-and-dilligas.json) |
 | X-Scape | 67155 | [67155-x-scape.json](./67155-x-scape.json) |
 | X-YZE | 370672 | [370672-x-yze.json](./370672-x-yze.json) |
