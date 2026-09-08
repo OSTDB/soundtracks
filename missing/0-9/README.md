@@ -36,7 +36,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
 | 1/2 Blood | 98422 | [98422-1-2-blood.json](./98422-1-2-blood.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
-| 10 Amazingly Awful Games Vol 2 | 79939 | [79939-10-amazingly-awful-games-vol-2.json](./79939-10-amazingly-awful-games-vol-2.json) |
 | 10 Blaze Escape | 326084 | [326084-10-blaze-escape.json](./326084-10-blaze-escape.json) |
 | 10 Days Under the Sea | 205800 | [205800-10-days-under-the-sea.json](./205800-10-days-under-the-sea.json) |
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
