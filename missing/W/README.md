@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Thunder: Somua SM Pack | 336936 | [336936-war-thunder-somua-sm-pack.json](./336936-war-thunder-somua-sm-pack.json) |
 | War Thunder: Wyvern Pack | 336937 | [336937-war-thunder-wyvern-pack.json](./336937-war-thunder-wyvern-pack.json) |
 | War Times | 77376 | [77376-war-times.json](./77376-war-times.json) |
+| War to the Core | 249815 | [249815-war-to-the-core.json](./249815-war-to-the-core.json) |
 | War Trains | 124239 | [124239-war-trains.json](./124239-war-trains.json) |
 | War Trigger 3 | 17353 | [17353-war-trigger-3.json](./17353-war-trigger-3.json) |
 | War Truck Simulator | 32438 | [32438-war-truck-simulator.json](./32438-war-truck-simulator.json) |
@@ -484,6 +485,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
 | Whale Left: Part 1 | 367942 | [367942-whale-left-part-1.json](./367942-whale-left-part-1.json) |
+| Whale Rock Games: Immersive Puzzles Bundle | 249804 | [249804-whale-rock-games-immersive-puzzles-bundle.json](./249804-whale-rock-games-immersive-puzzles-bundle.json) |
+| Whale Rock: All Games Bundle | 249802 | [249802-whale-rock-all-games-bundle.json](./249802-whale-rock-all-games-bundle.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What Body? | 281385 | [281385-what-body.json](./281385-what-body.json) |
