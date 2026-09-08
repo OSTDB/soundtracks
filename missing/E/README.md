@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
+| Elfland | 246394 | [246394-elfland.json](./246394-elfland.json) |
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
 | ElfMiner | 360612 | [360612-elfminer.json](./360612-elfminer.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
@@ -728,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Academy 2: Back 2 School | 347671 | [347671-escape-academy-2-back-2-school.json](./347671-escape-academy-2-back-2-school.json) |
 | Escape Academy: Deluxe Edition | 209686 | [209686-escape-academy-deluxe-edition.json](./209686-escape-academy-deluxe-edition.json) |
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
+| Escape Academy: The Complete Edition | 246408 | [246408-escape-academy-the-complete-edition.json](./246408-escape-academy-the-complete-edition.json) |
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
 | Escape Block King | 402311 | [402311-escape-block-king.json](./402311-escape-block-king.json) |
 | Escape Blocks | 295269 | [295269-escape-blocks.json](./295269-escape-blocks.json) |
