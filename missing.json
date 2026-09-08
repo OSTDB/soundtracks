@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T16:19:04.738Z",
-  "total_missing": 47397,
+  "generated_at": "2026-09-08T16:21:08.163Z",
+  "total_missing": 47396,
   "games": [
     {
       "igdb_id": 306086,
@@ -161,11 +161,6 @@
       "igdb_id": 319563,
       "game_name": "10 Games",
       "file": "missing/0-9/319563-10-games.json"
-    },
-    {
-      "igdb_id": 76621,
-      "game_name": "10 Little Robots",
-      "file": "missing/0-9/76621-10-little-robots.json"
     },
     {
       "igdb_id": 316985,
