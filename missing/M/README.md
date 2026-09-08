@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tiles Saga: Upbeat Music | 100858 | [100858-magic-tiles-saga-upbeat-music.json](./100858-magic-tiles-saga-upbeat-music.json) |
 | Magic Touch: Wizard for Hire | 117755 | [117755-magic-touch-wizard-for-hire.json](./117755-magic-touch-wizard-for-hire.json) |
 | Magic Tower | 161372 | [161372-magic-tower.json](./161372-magic-tower.json) |
+| Magic Tower | 210644 | [210644-magic-tower.json](./210644-magic-tower.json) |
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
 | Magic Tower: Tap Defense | 255735 | [255735-magic-tower-tap-defense.json](./255735-magic-tower-tap-defense.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
@@ -3073,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
+| Mutagenic | 210690 | [210690-mutagenic.json](./210690-mutagenic.json) |
 | Mutant | 79916 | [79916-mutant.json](./79916-mutant.json) |
 | Mutant Alien Moles of the Dead: Whack Whack or Die | 55941 | [55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json](./55941-mutant-alien-moles-of-the-dead-whack-whack-or-die.json) |
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
@@ -3168,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Friendly Neighborhood: Neighborhorde | 272834 | [272834-my-friendly-neighborhood-neighborhorde.json](./272834-my-friendly-neighborhood-neighborhorde.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
+| My Game About Me: Olympic Challenge | 210674 | [210674-my-game-about-me-olympic-challenge.json](./210674-my-game-about-me-olympic-challenge.json) |
 | My Garage | 162411 | [162411-my-garage.json](./162411-my-garage.json) |
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
 | My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
