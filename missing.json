@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T11:48:19.143Z",
-  "total_missing": 46603,
+  "generated_at": "2026-09-08T11:51:03.507Z",
+  "total_missing": 46602,
   "games": [
     {
       "igdb_id": 306086,
@@ -26,11 +26,6 @@
       "igdb_id": 231044,
       "game_name": ".Cat Nincat Dinogotchi",
       "file": "missing/0-9/231044-cat-nincat-dinogotchi.json"
-    },
-    {
-      "igdb_id": 380429,
-      "game_name": ".Decluster & .Decluster Zero",
-      "file": "missing/0-9/380429-decluster-and-decluster-zero.json"
     },
     {
       "igdb_id": 37134,
