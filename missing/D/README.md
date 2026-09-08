@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
+| Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
 | Draftycar | 254775 | [254775-draftycar.json](./254775-draftycar.json) |
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
