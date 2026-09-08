@@ -1104,6 +1104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chosen of God | 321383 | [321383-chosen-of-god.json](./321383-chosen-of-god.json) |
 | Chosen War | 333353 | [333353-chosen-war.json](./333353-chosen-war.json) |
 | Choson Janggi | 312335 | [312335-choson-janggi.json](./312335-choson-janggi.json) |
+| Chosun Zombie Defense | 236856 | [236856-chosun-zombie-defense.json](./236856-chosun-zombie-defense.json) |
 | Chosung Quiz | 191853 | [191853-chosung-quiz.json](./191853-chosung-quiz.json) |
 | Chotex Jam | 312913 | [312913-chotex-jam.json](./312913-chotex-jam.json) |
 | Chotto Magic Taizen: Date Uranai | 220847 | [220847-chotto-magic-taizen-date-uranai.json](./220847-chotto-magic-taizen-date-uranai.json) |
@@ -2240,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CR Shinseiki Evangelion: Shito, Futatabi | 78729 | [78729-cr-shinseiki-evangelion-shito-futatabi.json](./78729-cr-shinseiki-evangelion-shito-futatabi.json) |
 | Cr1me Fr0g | 218147 | [218147-cr1me-fr0g.json](./218147-cr1me-fr0g.json) |
 | Crab and Fish | 218701 | [218701-crab-and-fish.json](./218701-crab-and-fish.json) |
+| Crab Digger | 236850 | [236850-crab-digger.json](./236850-crab-digger.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
