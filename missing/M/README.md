@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
 | Mad Rider | 145025 | [145025-mad-rider.json](./145025-mad-rider.json) |
+| Mad Road: Apocalyptic Shooter Survival Killer | 251597 | [251597-mad-road-apocalyptic-shooter-survival-killer.json](./251597-mad-road-apocalyptic-shooter-survival-killer.json) |
 | Mad Shark | 40258 | [40258-mad-shark.json](./40258-mad-shark.json) |
 | Mad Skills | 181353 | [181353-mad-skills.json](./181353-mad-skills.json) |
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
@@ -1178,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoirs of Murder: Behind the Scenes | 322580 | [322580-memoirs-of-murder-behind-the-scenes.json](./322580-memoirs-of-murder-behind-the-scenes.json) |
 | Memoirs of Murder: Resorting to Revenge | 322579 | [322579-memoirs-of-murder-resorting-to-revenge.json](./322579-memoirs-of-murder-resorting-to-revenge.json) |
 | Memoirs of Murder: Welcome to Hidden Pines | 322578 | [322578-memoirs-of-murder-welcome-to-hidden-pines.json](./322578-memoirs-of-murder-welcome-to-hidden-pines.json) |
+| Memori | 251579 | [251579-memori.json](./251579-memori.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
@@ -2077,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Möira | 18289 | [18289-moira.json](./18289-moira.json) |
 | Mojito the Cat: Animals Skins | 298336 | [298336-mojito-the-cat-animals-skins.json](./298336-mojito-the-cat-animals-skins.json) |
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
+| Mojito the Cat: Definitive Edition | 251600 | [251600-mojito-the-cat-definitive-edition.json](./251600-mojito-the-cat-definitive-edition.json) |
 | Mojito the Cat: Easter Edition | 246644 | [246644-mojito-the-cat-easter-edition.json](./246644-mojito-the-cat-easter-edition.json) |
 | Mojito the Cat: Halloween Skins | 309643 | [309643-mojito-the-cat-halloween-skins.json](./309643-mojito-the-cat-halloween-skins.json) |
 | Mojito the Cat: Legendary Edition | 260686 | [260686-mojito-the-cat-legendary-edition.json](./260686-mojito-the-cat-legendary-edition.json) |
