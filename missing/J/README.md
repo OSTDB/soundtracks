@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jarpug | 259012 | [259012-jarpug.json](./259012-jarpug.json) |
 | Jasmine | 321735 | [321735-jasmine.json](./321735-jasmine.json) |
 | Jason Maxx | 349316 | [349316-jason-maxx.json](./349316-jason-maxx.json) |
+| Jasper and the City of Lights | 211237 | [211237-jasper-and-the-city-of-lights.json](./211237-jasper-and-the-city-of-lights.json) |
 | Jasper's Island | 274978 | [274978-jaspers-island.json](./274978-jaspers-island.json) |
 | Jawbreaker | 177551 | [177551-jawbreaker.json](./177551-jawbreaker.json) |
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
@@ -278,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Pro Yakyuu: Basic-ban '98 | 37207 | [37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json](./37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
+| Jikuu Boukenki Zentrix | 210683 | [210683-jikuu-boukenki-zentrix.json](./210683-jikuu-boukenki-zentrix.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
 | Jim & Dill II: Bobson’s Revenge | 313150 | [313150-jim-and-dill-ii-bobson-s-revenge.json](./313150-jim-and-dill-ii-bobson-s-revenge.json) |
 | Jim & Dill: The Legend of Weed N' Stiff | 299147 | [299147-jim-and-dill-the-legend-of-weed-n-stiff.json](./299147-jim-and-dill-the-legend-of-weed-n-stiff.json) |
