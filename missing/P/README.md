@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | Poly Bridge 3 | 243400 | [243400-poly-bridge-3.json](./243400-poly-bridge-3.json) |
 | Poly City : Vengeance | 114423 | [114423-poly-city-vengeance.json](./114423-poly-city-vengeance.json) |
+| Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
 | Poly Memory: Birds | 195786 | [195786-poly-memory-birds.json](./195786-poly-memory-birds.json) |
@@ -1849,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Gal | 293656 | [293656-prehistoric-gal.json](./293656-prehistoric-gal.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
 | Premier Manager 2002-03 | 95428 | [95428-premier-manager-2002-03.json](./95428-premier-manager-2002-03.json) |
+| Premier Manager 2004-2005 | 248630 | [248630-premier-manager-2004-2005.json](./248630-premier-manager-2004-2005.json) |
 | Premier Servi | 293635 | [293635-premier-servi.json](./293635-premier-servi.json) |
 | Premium Bowling | 109304 | [109304-premium-bowling.json](./109304-premium-bowling.json) |
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
@@ -2046,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Chuckenhope | 109682 | [109682-professor-chuckenhope.json](./109682-professor-chuckenhope.json) |
 | Professor Doctor Jetpack | 301268 | [301268-professor-doctor-jetpack.json](./301268-professor-doctor-jetpack.json) |
 | Professor Fizzwizzle and the Molten Mystery | 16175 | [16175-professor-fizzwizzle-and-the-molten-mystery.json](./16175-professor-fizzwizzle-and-the-molten-mystery.json) |
+| Professor Goodboi's Ballistics | 248654 | [248654-professor-goodbois-ballistics.json](./248654-professor-goodbois-ballistics.json) |
 | Professor Heinz Wolff's Gravity | 5109 | [5109-professor-heinz-wolffs-gravity.json](./5109-professor-heinz-wolffs-gravity.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
