@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
+| Słowica | 214508 | [214508-s-owica.json](./214508-s-owica.json) |
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
 | Slugmania | 225098 | [225098-slugmania.json](./225098-slugmania.json) |
@@ -2268,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMW The Princess Rescue | 222890 | [222890-smw-the-princess-rescue.json](./222890-smw-the-princess-rescue.json) |
 | SMW The Princess Rescue 2: Luigi's Journey! | 222889 | [222889-smw-the-princess-rescue-2-luigis-journey.json](./222889-smw-the-princess-rescue-2-luigis-journey.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
+| Snaccoon | 214496 | [214496-snaccoon.json](./214496-snaccoon.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
@@ -3268,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
 | Spartan Wars: Blood and Fire | 323185 | [323185-spartan-wars-blood-and-fire.json](./323185-spartan-wars-blood-and-fire.json) |
+| Spartan X | 214523 | [214523-spartan-x.json](./214523-spartan-x.json) |
 | Spartan X 2 | 48650 | [48650-spartan-x-2.json](./48650-spartan-x-2.json) |
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
 | Spatial Ops | 324913 | [324913-spatial-ops.json](./324913-spatial-ops.json) |
@@ -4645,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
 | Sulfur | 261285 | [261285-sulfur.json](./261285-sulfur.json) |
 | Sulfur Ignition | 352224 | [352224-sulfur-ignition.json](./352224-sulfur-ignition.json) |
+| Sulkyland | 214529 | [214529-sulkyland.json](./214529-sulkyland.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sumeru | 32210 | [32210-sumeru.json](./32210-sumeru.json) |
