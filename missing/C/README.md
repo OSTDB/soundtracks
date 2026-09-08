@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroam | 349858 | [349858-chroam.json](./349858-chroam.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
+| Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
 | Chromatic | 200719 | [200719-chromatic.json](./200719-chromatic.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
@@ -2098,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
 | Cool Go | 301282 | [301282-cool-go.json](./301282-cool-go.json) |
 | Cool Kid Cody: Season 3 - Episode 09 | 312007 | [312007-cool-kid-cody-season-3-episode-09.json](./312007-cool-kid-cody-season-3-episode-09.json) |
+| Cool People Club | 211762 | [211762-cool-people-club.json](./211762-cool-people-club.json) |
 | Cool Spot | 2621 | [2621-cool-spot.json](./2621-cool-spot.json) |
 | Cool Thief Guy | 398316 | [398316-cool-thief-guy.json](./398316-cool-thief-guy.json) |
 | CoolPaintr VR: Voxel | 270143 | [270143-coolpaintr-vr-voxel.json](./270143-coolpaintr-vr-voxel.json) |
@@ -2665,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
+| Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
 | Crowd City: Zombie Edition | 274485 | [274485-crowd-city-zombie-edition.json](./274485-crowd-city-zombie-edition.json) |
 | Crowd Control VR | 295788 | [295788-crowd-control-vr.json](./295788-crowd-control-vr.json) |
