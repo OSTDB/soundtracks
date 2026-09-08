@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon Shotgun Arms | 302377 | [302377-simon-shotgun-arms.json](./302377-simon-shotgun-arms.json) |
 | Simon Tatham's Portable Puzzle Collection | 135292 | [135292-simon-tathams-portable-puzzle-collection.json](./135292-simon-tathams-portable-puzzle-collection.json) |
 | Simon the Sorcerer | 459 | [459-simon-the-sorcerer.json](./459-simon-the-sorcerer.json) |
+| Simon: The Memory Game | 227848 | [227848-simon-the-memory-game.json](./227848-simon-the-memory-game.json) |
 | Simon's Cat in Purrfect Pitch | 233208 | [233208-simons-cat-in-purrfect-pitch.json](./233208-simons-cat-in-purrfect-pitch.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
 | Simple 1500 Series Vol. 11: The Pinball 3D | 19671 | [19671-simple-1500-series-vol-11-the-pinball-3d.json](./19671-simple-1500-series-vol-11-the-pinball-3d.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
 | Sonic Gallery | 330528 | [330528-sonic-gallery.json](./330528-sonic-gallery.json) |
 | Sonic Gammon | 261275 | [261275-sonic-gammon.json](./261275-sonic-gammon.json) |
+| Sonic Gather Battle | 227886 | [227886-sonic-gather-battle.json](./227886-sonic-gather-battle.json) |
 | Sonic Gear | 332255 | [332255-sonic-gear.json](./332255-sonic-gear.json) |
 | Sonic Generations | 264885 | [264885-sonic-generations.json](./264885-sonic-generations.json) |
 | Sonic Generations | 320894 | [320894-sonic-generations.json](./320894-sonic-generations.json) |
@@ -3021,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space is Key | 243107 | [243107-space-is-key.json](./243107-space-is-key.json) |
 | Space is Key Christmas | 408824 | [408824-space-is-key-christmas.json](./408824-space-is-key-christmas.json) |
 | Space Is Red | 379341 | [379341-space-is-red.json](./379341-space-is-red.json) |
+| Space Jam: A New Legacy - Full Court Pinball | 227827 | [227827-space-jam-a-new-legacy-full-court-pinball.json](./227827-space-jam-a-new-legacy-full-court-pinball.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
@@ -3470,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring of Decadence | 103478 | [103478-spring-of-decadence.json](./103478-spring-of-decadence.json) |
 | Spring String | 313121 | [313121-spring-string.json](./313121-spring-string.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
+| Springblades | 227857 | [227857-springblades.json](./227857-springblades.json) |
 | Springer | 98967 | [98967-springer.json](./98967-springer.json) |
 | SpringFling | 254557 | [254557-springfling.json](./254557-springfling.json) |
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
@@ -3510,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy x Anya: Operation Memories - Thrilling Outfit Pack | 308816 | [308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json](./308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json) |
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
+| Spyrazoid | 227833 | [227833-spyrazoid.json](./227833-spyrazoid.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
 | Spyro the Dragon | 280768 | [280768-spyro-the-dragon.json](./280768-spyro-the-dragon.json) |
@@ -3586,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacklands 2000 | 298028 | [298028-stacklands-2000.json](./298028-stacklands-2000.json) |
 | Stacklands: Cursed Worlds | 257949 | [257949-stacklands-cursed-worlds.json](./257949-stacklands-cursed-worlds.json) |
 | Stacks: Space! | 238520 | [238520-stacks-space.json](./238520-stacks-space.json) |
+| Stacky Hero | 227866 | [227866-stacky-hero.json](./227866-stacky-hero.json) |
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
 | Stadium Games | 49384 | [49384-stadium-games.json](./49384-stadium-games.json) |
 | Staff Only | 139432 | [139432-staff-only.json](./139432-staff-only.json) |
@@ -4667,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
 | Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
+| Super Hamster Ball | 227869 | [227869-super-hamster-ball.json](./227869-super-hamster-ball.json) |
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
