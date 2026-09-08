@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T16:01:15.033Z",
-  "total_missing": 47341,
+  "generated_at": "2026-09-08T16:11:06.937Z",
+  "total_missing": 47347,
   "games": [
     {
       "igdb_id": 306086,
@@ -156,11 +156,6 @@
       "igdb_id": 326084,
       "game_name": "10 Blaze Escape",
       "file": "missing/0-9/326084-10-blaze-escape.json"
-    },
-    {
-      "igdb_id": 205800,
-      "game_name": "10 Days Under the Sea",
-      "file": "missing/0-9/205800-10-days-under-the-sea.json"
     },
     {
       "igdb_id": 319563,
@@ -4001,6 +3996,11 @@
       "igdb_id": 303234,
       "game_name": "A Way Up",
       "file": "missing/A/303234-a-way-up.json"
+    },
+    {
+      "igdb_id": 223494,
+      "game_name": "A Week",
+      "file": "missing/A/223494-a-week.json"
     },
     {
       "igdb_id": 225265,
@@ -16683,6 +16683,11 @@
       "file": "missing/A/274229-avalon-the-druids.json"
     },
     {
+      "igdb_id": 223495,
+      "game_name": "Avani",
+      "file": "missing/A/223495-avani.json"
+    },
+    {
       "igdb_id": 399009,
       "game_name": "Avaria: Iron Rule",
       "file": "missing/A/399009-avaria-iron-rule.json"
@@ -19456,6 +19461,11 @@
       "igdb_id": 172186,
       "game_name": "Barrel Blast",
       "file": "missing/B/172186-barrel-blast.json"
+    },
+    {
+      "igdb_id": 223496,
+      "game_name": "Barrel Full of Monkeys",
+      "file": "missing/B/223496-barrel-full-of-monkeys.json"
     },
     {
       "igdb_id": 231643,
@@ -27188,6 +27198,11 @@
       "file": "missing/B/314666-boosted-survivors.json"
     },
     {
+      "igdb_id": 223497,
+      "game_name": "Boot Camp Endless Runner",
+      "file": "missing/B/223497-boot-camp-endless-runner.json"
+    },
+    {
       "igdb_id": 60561,
       "game_name": "Boot Hill Heroes 2",
       "file": "missing/B/60561-boot-hill-heroes-2.json"
@@ -27441,6 +27456,11 @@
       "igdb_id": 219300,
       "game_name": "BOT.vinnik Chess 2",
       "file": "missing/B/219300-bot-vinnik-chess-2.json"
+    },
+    {
+      "igdb_id": 223498,
+      "game_name": "BOT.vinnik Chess: Prodigies",
+      "file": "missing/B/223498-bot-vinnik-chess-prodigies.json"
     },
     {
       "igdb_id": 254119,
@@ -29218,6 +29238,11 @@
       "file": "missing/B/258990-broken-hearts-island.json"
     },
     {
+      "igdb_id": 223499,
+      "game_name": "Broken In Time",
+      "file": "missing/B/223499-broken-in-time.json"
+    },
+    {
       "igdb_id": 376478,
       "game_name": "Broken Leash: Night Shift",
       "file": "missing/B/376478-broken-leash-night-shift.json"
@@ -30041,6 +30066,11 @@
       "igdb_id": 89277,
       "game_name": "Building Block: Castle & City Craft Simulator",
       "file": "missing/B/89277-building-block-castle-and-city-craft-simulator.json"
+    },
+    {
+      "igdb_id": 223500,
+      "game_name": "Building our Futature",
+      "file": "missing/B/223500-building-our-futature.json"
     },
     {
       "igdb_id": 372457,
