@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
 | Machine Armor Zero | 244255 | [244255-machine-armor-zero.json](./244255-machine-armor-zero.json) |
 | Machine Challenger | 301254 | [301254-machine-challenger.json](./301254-machine-challenger.json) |
+| Machine Gun Mages | 221751 | [221751-machine-gun-mages.json](./221751-machine-gun-mages.json) |
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
 | Machine Hell | 94256 | [94256-machine-hell.json](./94256-machine-hell.json) |
 | Machine Knight | 39006 | [39006-machine-knight.json](./39006-machine-knight.json) |
@@ -1074,6 +1075,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Rookie | 310924 | [310924-meet-the-rookie.json](./310924-meet-the-rookie.json) |
 | Meet the Vowels | 102773 | [102773-meet-the-vowels.json](./102773-meet-the-vowels.json) |
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
+| Meet'N'Fuck Denise Milani | 221728 | [221728-meetnfuck-denise-milani.json](./221728-meetnfuck-denise-milani.json) |
+| Meet'N'Fuck Office Romance | 221724 | [221724-meetnfuck-office-romance.json](./221724-meetnfuck-office-romance.json) |
+| Meet'N'Fuck: BDSM Club | 221726 | [221726-meetnfuck-bdsm-club.json](./221726-meetnfuck-bdsm-club.json) |
+| Meet'N'Fuck: Ocean Cruise | 221729 | [221729-meetnfuck-ocean-cruise.json](./221729-meetnfuck-ocean-cruise.json) |
+| Meet'N'Fuck: The Plumber | 221725 | [221725-meetnfuck-the-plumber.json](./221725-meetnfuck-the-plumber.json) |
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
@@ -1395,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metacity Patrol | 339796 | [339796-metacity-patrol.json](./339796-metacity-patrol.json) |
 | Metagal | 19321 | [19321-metagal.json](./19321-metagal.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
+| Metal Army War Revenge | 221714 | [221714-metal-army-war-revenge.json](./221714-metal-army-war-revenge.json) |
 | Metal Brigade Tactics Versus | 256254 | [256254-metal-brigade-tactics-versus.json](./256254-metal-brigade-tactics-versus.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
@@ -2034,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
 | Mission Idle | 172193 | [172193-mission-idle.json](./172193-mission-idle.json) |
 | Mission in Snowdriftland | 143095 | [143095-mission-in-snowdriftland.json](./143095-mission-in-snowdriftland.json) |
+| Mission In Space | 221755 | [221755-mission-in-space.json](./221755-mission-in-space.json) |
 | Mission Mars | 263479 | [263479-mission-mars.json](./263479-mission-mars.json) |
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
