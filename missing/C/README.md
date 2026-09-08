@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
+| Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
@@ -1659,6 +1660,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Book: Complete Bundle - 410 drawings | 283191 | [283191-coloring-book-complete-bundle-410-drawings.json](./283191-coloring-book-complete-bundle-410-drawings.json) |
 | Coloring Bundle | 317237 | [317237-coloring-bundle.json](./317237-coloring-bundle.json) |
+| Coloring Game 3: Art Museum | 252759 | [252759-coloring-game-3-art-museum.json](./252759-coloring-game-3-art-museum.json) |
+| Coloring Game 3: Season Pass | 252761 | [252761-coloring-game-3-season-pass.json](./252761-coloring-game-3-season-pass.json) |
+| Coloring Game 3: Video Game No. 1 | 252760 | [252760-coloring-game-3-video-game-no-1.json](./252760-coloring-game-3-video-game-no-1.json) |
+| Coloring Game 3: Video Game No. 2 | 252758 | [252758-coloring-game-3-video-game-no-2.json](./252758-coloring-game-3-video-game-no-2.json) |
+| Coloring Game 4: 2 Bit Palette | 252749 | [252749-coloring-game-4-2-bit-palette.json](./252749-coloring-game-4-2-bit-palette.json) |
+| Coloring Game 4: 3 Bit Palette | 252748 | [252748-coloring-game-4-3-bit-palette.json](./252748-coloring-game-4-3-bit-palette.json) |
+| Coloring Game 4: 4 Bit Palette | 252747 | [252747-coloring-game-4-4-bit-palette.json](./252747-coloring-game-4-4-bit-palette.json) |
+| Coloring Game 4: 5 Bit Palette | 252743 | [252743-coloring-game-4-5-bit-palette.json](./252743-coloring-game-4-5-bit-palette.json) |
+| Coloring Game 4: Cats & Dogs | 252740 | [252740-coloring-game-4-cats-and-dogs.json](./252740-coloring-game-4-cats-and-dogs.json) |
+| Coloring Game 4: Cyberpunk | 252757 | [252757-coloring-game-4-cyberpunk.json](./252757-coloring-game-4-cyberpunk.json) |
+| Coloring Game 4: Demake No. 1 | 252753 | [252753-coloring-game-4-demake-no-1.json](./252753-coloring-game-4-demake-no-1.json) |
+| Coloring Game 4: Demake No. 2 | 252752 | [252752-coloring-game-4-demake-no-2.json](./252752-coloring-game-4-demake-no-2.json) |
+| Coloring Game 4: Demake No. 3 | 252745 | [252745-coloring-game-4-demake-no-3.json](./252745-coloring-game-4-demake-no-3.json) |
+| Coloring Game 4: Demake No. 4 | 252742 | [252742-coloring-game-4-demake-no-4.json](./252742-coloring-game-4-demake-no-4.json) |
+| Coloring Game 4: Fantasy | 252756 | [252756-coloring-game-4-fantasy.json](./252756-coloring-game-4-fantasy.json) |
+| Coloring Game 4: Final Pack | 252741 | [252741-coloring-game-4-final-pack.json](./252741-coloring-game-4-final-pack.json) |
+| Coloring Game 4: Fine Art | 252744 | [252744-coloring-game-4-fine-art.json](./252744-coloring-game-4-fine-art.json) |
+| Coloring Game 4: Insta | 252750 | [252750-coloring-game-4-insta.json](./252750-coloring-game-4-insta.json) |
+| Coloring Game 4: Nature | 252751 | [252751-coloring-game-4-nature.json](./252751-coloring-game-4-nature.json) |
+| Coloring Game 4: Post Apocalyptic Fiction | 252755 | [252755-coloring-game-4-post-apocalyptic-fiction.json](./252755-coloring-game-4-post-apocalyptic-fiction.json) |
+| Coloring Game 4: Science Fiction | 252754 | [252754-coloring-game-4-science-fiction.json](./252754-coloring-game-4-science-fiction.json) |
+| Coloring Game 4: Sport | 252746 | [252746-coloring-game-4-sport.json](./252746-coloring-game-4-sport.json) |
 | Coloring Game: Girls | 255329 | [255329-coloring-game-girls.json](./255329-coloring-game-girls.json) |
 | Coloring Game: Little City | 130402 | [130402-coloring-game-little-city.json](./130402-coloring-game-little-city.json) |
 | Coloring Pixels: Advent 4 Pack | 227467 | [227467-coloring-pixels-advent-4-pack.json](./227467-coloring-pixels-advent-4-pack.json) |
@@ -2245,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
+| Crawlspace | 252728 | [252728-crawlspace.json](./252728-crawlspace.json) |
 | Crawlyard | 166753 | [166753-crawlyard.json](./166753-crawlyard.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
