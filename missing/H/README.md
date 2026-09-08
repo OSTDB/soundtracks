@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Springs Eternal | 94227 | [94227-hope-springs-eternal.json](./94227-hope-springs-eternal.json) |
 | Hope Timbre | 295531 | [295531-hope-timbre.json](./295531-hope-timbre.json) |
 | Hope We'll Still be Friends Tomorrow | 410251 | [410251-hope-well-still-be-friends-tomorrow.json](./410251-hope-well-still-be-friends-tomorrow.json) |
+| Hope's End | 238519 | [238519-hopes-end.json](./238519-hopes-end.json) |
 | Hopeless Dregs | 156658 | [156658-hopeless-dregs.json](./156658-hopeless-dregs.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
