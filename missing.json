@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T22:51:00.777Z",
-  "total_missing": 48439,
+  "generated_at": "2026-09-08T23:01:05.148Z",
+  "total_missing": 48442,
   "games": [
     {
       "igdb_id": 306086,
@@ -366,11 +366,6 @@
       "igdb_id": 164480,
       "game_name": "100% Orange Juice: Wanderer Pack",
       "file": "missing/0-9/164480-100-orange-juice-wanderer-pack.json"
-    },
-    {
-      "igdb_id": 164467,
-      "game_name": "100% Orange Juice: Witch Pack",
-      "file": "missing/0-9/164467-100-orange-juice-witch-pack.json"
     },
     {
       "igdb_id": 164470,
@@ -102813,6 +102808,11 @@
       "file": "missing/J/349316-jason-maxx.json"
     },
     {
+      "igdb_id": 211237,
+      "game_name": "Jasper and the City of Lights",
+      "file": "missing/J/211237-jasper-and-the-city-of-lights.json"
+    },
+    {
       "igdb_id": 274978,
       "game_name": "Jasper's Island",
       "file": "missing/J/274978-jaspers-island.json"
@@ -117946,6 +117946,11 @@
       "igdb_id": 209157,
       "game_name": "M.O.Z.O.X.: Space Salvager",
       "file": "missing/M/209157-m-o-z-o-x-space-salvager.json"
+    },
+    {
+      "igdb_id": 211236,
+      "game_name": "M.S. Salmon",
+      "file": "missing/M/211236-m-s-salmon.json"
     },
     {
       "igdb_id": 233244,
@@ -148951,6 +148956,11 @@
       "igdb_id": 18272,
       "game_name": "Paws & Claws: Pet Resort",
       "file": "missing/P/18272-paws-and-claws-pet-resort.json"
+    },
+    {
+      "igdb_id": 211234,
+      "game_name": "Paws and Leaves: A Last Tale",
+      "file": "missing/P/211234-paws-and-leaves-a-last-tale.json"
     },
     {
       "igdb_id": 204108,
@@ -218036,6 +218046,11 @@
       "igdb_id": 87221,
       "game_name": "To the Rescue! 5",
       "file": "missing/T/87221-to-the-rescue-5.json"
+    },
+    {
+      "igdb_id": 211235,
+      "game_name": "To the Stars",
+      "file": "missing/T/211235-to-the-stars.json"
     },
     {
       "igdb_id": 336917,
