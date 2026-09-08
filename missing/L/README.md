@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
 | Little Galaxy Family | 175424 | [175424-little-galaxy-family.json](./175424-little-galaxy-family.json) |
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
+| Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Hero | 194019 | [194019-little-hero.json](./194019-little-hero.json) |
