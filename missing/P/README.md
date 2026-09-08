@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
+| Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
