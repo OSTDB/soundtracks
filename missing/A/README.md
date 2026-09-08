@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermoon | 63880 | [63880-aftermoon.json](./63880-aftermoon.json) |
 | Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
+| Aftershock: Coastline | 253377 | [253377-aftershock-coastline.json](./253377-aftershock-coastline.json) |
 | Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
 | Aftertime | 211420 | [211420-aftertime.json](./211420-aftertime.json) |
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
@@ -779,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
 | Agents of Mayhem: Day One Edition | 52015 | [52015-agents-of-mayhem-day-one-edition.json](./52015-agents-of-mayhem-day-one-edition.json) |
 | Agents of Shadow | 357803 | [357803-agents-of-shadow.json](./357803-agents-of-shadow.json) |
+| Agents of SomeCompany | 253374 | [253374-agents-of-somecompany.json](./253374-agents-of-somecompany.json) |
 | Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
