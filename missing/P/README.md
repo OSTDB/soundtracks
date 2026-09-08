@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
+| Pac-Man | 213944 | [213944-pac-man.json](./213944-pac-man.json) |
 | Pac-Man | 218442 | [218442-pac-man.json](./218442-pac-man.json) |
 | Pac-Man | 218443 | [218443-pac-man.json](./218443-pac-man.json) |
 | Pac-Man | 284317 | [284317-pac-man.json](./284317-pac-man.json) |
@@ -1384,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plates | 32188 | [32188-plates.json](./32188-plates.json) |
 | PlateUp!: Collector's Edition | 247191 | [247191-plateup-collectors-edition.json](./247191-plateup-collectors-edition.json) |
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
+| Platform Adventure | 213936 | [213936-platform-adventure.json](./213936-platform-adventure.json) |
 | Platform Roll | 207535 | [207535-platform-roll.json](./207535-platform-roll.json) |
 | Platform Run | 324296 | [324296-platform-run.json](./324296-platform-run.json) |
 | Platform Tower | 249230 | [249230-platform-tower.json](./249230-platform-tower.json) |
@@ -1564,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
 | Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
 | Pokémon Deluge | 172745 | [172745-pokemon-deluge.json](./172745-pokemon-deluge.json) |
+| Pokémon Dreary | 213962 | [213962-pokemon-dreary.json](./213962-pokemon-dreary.json) |
 | Pokémon Duelist | 359980 | [359980-pokemon-duelist.json](./359980-pokemon-duelist.json) |
 | Pokémon Dumbdumb Island | 362817 | [362817-pokemon-dumbdumb-island.json](./362817-pokemon-dumbdumb-island.json) |
 | Pokémon Echo | 392776 | [392776-pokemon-echo.json](./392776-pokemon-echo.json) |
@@ -1640,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
+| Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
 | Pokémon: Cave Escape | 342676 | [342676-pokemon-cave-escape.json](./342676-pokemon-cave-escape.json) |
 | Pokémon: Desert Bus | 313114 | [313114-pokemon-desert-bus.json](./313114-pokemon-desert-bus.json) |
@@ -1986,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
+| Presenter Slides | 213947 | [213947-presenter-slides.json](./213947-presenter-slides.json) |
 | Presentfall: Santa Defense | 384521 | [384521-presentfall-santa-defense.json](./384521-presentfall-santa-defense.json) |
 | Presentiment of Death | 241650 | [241650-presentiment-of-death.json](./241650-presentiment-of-death.json) |
 | Presents to the Metal | 307601 | [307601-presents-to-the-metal.json](./307601-presents-to-the-metal.json) |
@@ -2673,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Lines and Knots - Levels Pack 2 | 163437 | [163437-puzzle-lines-and-knots-levels-pack-2.json](./163437-puzzle-lines-and-knots-levels-pack-2.json) |
 | Puzzle: Lines and Knots - Levels Pack 3 | 163438 | [163438-puzzle-lines-and-knots-levels-pack-3.json](./163438-puzzle-lines-and-knots-levels-pack-3.json) |
 | Puzzle: Lines and Knots 2 - Free Levels Pack | 293426 | [293426-puzzle-lines-and-knots-2-free-levels-pack.json](./293426-puzzle-lines-and-knots-2-free-levels-pack.json) |
+| Puzzle: Nature 2 | 213980 | [213980-puzzle-nature-2.json](./213980-puzzle-nature-2.json) |
 | Puzzle: Ultimate - Puzzle Pack: Castles | 163433 | [163433-puzzle-ultimate-puzzle-pack-castles.json](./163433-puzzle-ultimate-puzzle-pack-castles.json) |
 | Puzzle: Ultimate - Puzzle Pack: Dogs | 163432 | [163432-puzzle-ultimate-puzzle-pack-dogs.json](./163432-puzzle-ultimate-puzzle-pack-dogs.json) |
 | Puzzle: Ultimate - Puzzle Pack: Flowers | 163435 | [163435-puzzle-ultimate-puzzle-pack-flowers.json](./163435-puzzle-ultimate-puzzle-pack-flowers.json) |
