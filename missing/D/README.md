@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
 | Danmaku Unlimited 2 | 17107 | [17107-danmaku-unlimited-2.json](./17107-danmaku-unlimited-2.json) |
+| Danny Phantom: Ghost Frenzy | 257386 | [257386-danny-phantom-ghost-frenzy.json](./257386-danny-phantom-ghost-frenzy.json) |
 | Danny Phantom: Ghost Sweep | 313686 | [313686-danny-phantom-ghost-sweep.json](./313686-danny-phantom-ghost-sweep.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
