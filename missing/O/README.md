@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Sunday | 209642 | [209642-on-sunday.json](./209642-on-sunday.json) |
 | On Sunday 2 | 317212 | [317212-on-sunday-2.json](./317212-on-sunday-2.json) |
 | On Target | 69850 | [69850-on-target.json](./69850-on-target.json) |
+| On the Brink | 249796 | [249796-on-the-brink.json](./249796-on-the-brink.json) |
 | On The Hook | 415951 | [415951-on-the-hook.json](./415951-on-the-hook.json) |
 | On the Run | 361697 | [361697-on-the-run.json](./361697-on-the-run.json) |
 | On the Trail of the Whitetail | 127993 | [127993-on-the-trail-of-the-whitetail.json](./127993-on-the-trail-of-the-whitetail.json) |
