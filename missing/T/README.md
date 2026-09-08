@@ -3104,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
+| Tichi3D | 236830 | [236830-tichi3d.json](./236830-tichi3d.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
 | Ticket to Ride: Nordic Expansion | 298025 | [298025-ticket-to-ride-nordic-expansion.json](./298025-ticket-to-ride-nordic-expansion.json) |
 | Ticket to Ride: USA 1910 Ticket Pack | 311992 | [311992-ticket-to-ride-usa-1910-ticket-pack.json](./311992-ticket-to-ride-usa-1910-ticket-pack.json) |
@@ -3718,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
 | Top Management II | 37785 | [37785-top-management-ii.json](./37785-top-management-ii.json) |
+| Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
 | Top Trumps Turbo | 35897 | [35897-top-trumps-turbo.json](./35897-top-trumps-turbo.json) |
@@ -3931,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KSFO Airport | 353328 | [353328-tower-simulator-3-ksfo-airport.json](./353328-tower-simulator-3-ksfo-airport.json) |
 | Tower! Simulator 3: KSLC Airport | 353332 | [353332-tower-simulator-3-kslc-airport.json](./353332-tower-simulator-3-kslc-airport.json) |
 | Tower! Simulator 3: LSZH Airport | 353325 | [353325-tower-simulator-3-lszh-airport.json](./353325-tower-simulator-3-lszh-airport.json) |
+| Tower! Simulator 3: OMDB Airport | 236836 | [236836-tower-simulator-3-omdb-airport.json](./236836-tower-simulator-3-omdb-airport.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
@@ -4110,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: DB BR 218 'V 164' | 279013 | [279013-train-simulator-classic-db-br-218-v-164.json](./279013-train-simulator-classic-db-br-218-v-164.json) |
 | Train Simulator Classic: E60 Electric Locomotive | 236543 | [236543-train-simulator-classic-e60-electric-locomotive.json](./236543-train-simulator-classic-e60-electric-locomotive.json) |
 | Train Simulator Classic: Eamnos VTG Wagon Pack | 293392 | [293392-train-simulator-classic-eamnos-vtg-wagon-pack.json](./293392-train-simulator-classic-eamnos-vtg-wagon-pack.json) |
+| Train Simulator Classic: Euro BR 159 Electro-Diesel Loco | 236823 | [236823-train-simulator-classic-euro-br-159-electro-diesel-loco.json](./236823-train-simulator-classic-euro-br-159-electro-diesel-loco.json) |
 | Train Simulator Classic: New Haven FL9 Loco Add-On | 53838 | [53838-train-simulator-classic-new-haven-fl9-loco-add-on.json](./53838-train-simulator-classic-new-haven-fl9-loco-add-on.json) |
 | Train Simulator Classic: New Zealand Kb Class Steam Loco | 237406 | [237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json](./237406-train-simulator-classic-new-zealand-kb-class-steam-loco.json) |
 | Train Simulator Classic: ÖBB 8073 | 284880 | [284880-train-simulator-classic-obb-8073.json](./284880-train-simulator-classic-obb-8073.json) |
@@ -4429,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
 | Trog Smash Island | 296081 | [296081-trog-smash-island.json](./296081-trog-smash-island.json) |
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
+| Trojan | 236835 | [236835-trojan.json](./236835-trojan.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
