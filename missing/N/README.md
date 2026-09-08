@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Rescue Tale | 241040 | [241040-neko-rescue-tale.json](./241040-neko-rescue-tale.json) |
+| Neko Sagashi | 227270 | [227270-neko-sagashi.json](./227270-neko-sagashi.json) |
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
 | Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
@@ -848,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
 | Ninshi Masuta | 131617 | [131617-ninshi-masuta.json](./131617-ninshi-masuta.json) |
 | Nintama Rantarou GB: E-awase Challenge Puzzle | 97862 | [97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json](./97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json) |
+| Nintama Rantarou Mugen no Tsubo Daibousou no Dan | 227251 | [227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json](./227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json) |
 | Nintendo Adventure Books 3: Monster Mix-Up | 270387 | [270387-nintendo-adventure-books-3-monster-mix-up.json](./270387-nintendo-adventure-books-3-monster-mix-up.json) |
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
 | Nintendo Classic Mini: Family Computer - Weekly Shonen Jump 50th Anniversary Version | 213599 | [213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json](./213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json) |
