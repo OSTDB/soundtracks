@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seas, High Profits! | 290922 | [290922-high-seas-high-profits.json](./290922-high-seas-high-profits.json) |
 | High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
+| Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
