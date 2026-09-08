@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
 | 360 No Scope! | 107867 | [107867-360-no-scope.json](./107867-360-no-scope.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
+| 36200 | 241994 | [241994-36200.json](./241994-36200.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
 | 37th Relic Retrieval | 271198 | [271198-37th-relic-retrieval.json](./271198-37th-relic-retrieval.json) |
 | 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
