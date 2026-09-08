@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuè Lán Chuánqí II: Zhòu Yìn Zú Chuánshuō | 394177 | [394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json](./394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json) |
 | Yuè Lán Chuánqí: Yì Jiè de Fǎngkè | 394179 | [394179-yue-lan-chuanqi-yi-jie-de-fangke.json](./394179-yue-lan-chuanqi-yi-jie-de-fangke.json) |
 | Yugekitai Kakuto-hen: Saikyoushin Fukkatsu no Maki | 264326 | [264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json](./264326-yugekitai-kakuto-hen-saikyoushin-fukkatsu-no-maki.json) |
+| Yugekitai: Saikyoushin Fukkatsu no Maki | 221766 | [221766-yugekitai-saikyoushin-fukkatsu-no-maki.json](./221766-yugekitai-saikyoushin-fukkatsu-no-maki.json) |
 | Yugen Jikkou Sisters Chouchoutrian: Kanzenchouaku Chouchoutrian | 385556 | [385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json](./385556-yugen-jikkou-sisters-chouchoutrian-kanzenchouaku-chouchoutrian.json) |
 | Yugowave | 250009 | [250009-yugowave.json](./250009-yugowave.json) |
 | Yuika My Bestie | 351595 | [351595-yuika-my-bestie.json](./351595-yuika-my-bestie.json) |
