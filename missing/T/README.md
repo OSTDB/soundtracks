@@ -1862,6 +1862,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
+| The Last Sacrifice: A King's Past | 225679 | [225679-the-last-sacrifice-a-kings-past.json](./225679-the-last-sacrifice-a-kings-past.json) |
+| The Last Sacrifice: Blood King's Beloved | 225678 | [225678-the-last-sacrifice-blood-kings-beloved.json](./225678-the-last-sacrifice-blood-kings-beloved.json) |
+| The Last Sacrifice: Blood King's Desire | 225676 | [225676-the-last-sacrifice-blood-kings-desire.json](./225676-the-last-sacrifice-blood-kings-desire.json) |
+| The Last Sacrifice: Blood King's Treasure | 225677 | [225677-the-last-sacrifice-blood-kings-treasure.json](./225677-the-last-sacrifice-blood-kings-treasure.json) |
+| The Last Sacrifice: Forbidden Ties | 225680 | [225680-the-last-sacrifice-forbidden-ties.json](./225680-the-last-sacrifice-forbidden-ties.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
@@ -2626,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
 | The Suite Life of Zack & Cody: Tipton Trouble | 72115 | [72115-the-suite-life-of-zack-and-cody-tipton-trouble.json](./72115-the-suite-life-of-zack-and-cody-tipton-trouble.json) |
+| The Sullen Boku Girls Alliance | 225634 | [225634-the-sullen-boku-girls-alliance.json](./225634-the-sullen-boku-girls-alliance.json) |
 | The Sumerian Game | 231395 | [231395-the-sumerian-game.json](./231395-the-sumerian-game.json) |
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
