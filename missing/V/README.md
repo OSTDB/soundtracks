@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
+| Vertical Quest | 249209 | [249209-vertical-quest.json](./249209-vertical-quest.json) |
 | Vertical Ramp Impossible 3D | 100894 | [100894-vertical-ramp-impossible-3d.json](./100894-vertical-ramp-impossible-3d.json) |
 | Verticality | 306971 | [306971-verticality.json](./306971-verticality.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
