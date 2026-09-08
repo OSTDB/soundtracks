@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T15:51:06.870Z",
-  "total_missing": 47335,
+  "generated_at": "2026-09-08T16:01:15.033Z",
+  "total_missing": 47341,
   "games": [
     {
       "igdb_id": 306086,
@@ -151,11 +151,6 @@
       "igdb_id": 294440,
       "game_name": "10",
       "file": "missing/0-9/294440-10.json"
-    },
-    {
-      "igdb_id": 79939,
-      "game_name": "10 Amazingly Awful Games Vol 2",
-      "file": "missing/0-9/79939-10-amazingly-awful-games-vol-2.json"
     },
     {
       "igdb_id": 326084,
@@ -30378,6 +30373,11 @@
       "file": "missing/B/221966-bunmei-kaika-aoiza-ibunroku.json"
     },
     {
+      "igdb_id": 223501,
+      "game_name": "Bunni Gunni Classic",
+      "file": "missing/B/223501-bunni-gunni-classic.json"
+    },
+    {
       "igdb_id": 376462,
       "game_name": "Bunnies & Ballgames!",
       "file": "missing/B/376462-bunnies-and-ballgames.json"
@@ -31828,6 +31828,11 @@
       "file": "missing/C/397659-campire-of-oasis-the-story.json"
     },
     {
+      "igdb_id": 223502,
+      "game_name": "CampNight",
+      "file": "missing/C/223502-campnight.json"
+    },
+    {
       "igdb_id": 24998,
       "game_name": "Campus",
       "file": "missing/C/24998-campus.json"
@@ -32061,6 +32066,11 @@
       "igdb_id": 57112,
       "game_name": "Cannon Flight",
       "file": "missing/C/57112-cannon-flight.json"
+    },
+    {
+      "igdb_id": 223503,
+      "game_name": "Cannon Royale",
+      "file": "missing/C/223503-cannon-royale.json"
     },
     {
       "igdb_id": 195227,
@@ -35358,6 +35368,11 @@
       "file": "missing/C/286541-chapter-wars-expansion-pack.json"
     },
     {
+      "igdb_id": 223504,
+      "game_name": "Chaqs",
+      "file": "missing/C/223504-chaqs.json"
+    },
+    {
       "igdb_id": 130385,
       "game_name": "Chara Chenko",
       "file": "missing/C/130385-chara-chenko.json"
@@ -36243,6 +36258,11 @@
       "file": "missing/C/308265-chillin.json"
     },
     {
+      "igdb_id": 223505,
+      "game_name": "Chilljong",
+      "file": "missing/C/223505-chilljong.json"
+    },
+    {
       "igdb_id": 121700,
       "game_name": "ChilloutVR",
       "file": "missing/C/121700-chilloutvr.json"
@@ -36261,6 +36281,11 @@
       "igdb_id": 110353,
       "game_name": "Chimera of Tactics 3: Gun and Soccer",
       "file": "missing/C/110353-chimera-of-tactics-3-gun-and-soccer.json"
+    },
+    {
+      "igdb_id": 223506,
+      "game_name": "Chimeral Fantasy",
+      "file": "missing/C/223506-chimeral-fantasy.json"
     },
     {
       "igdb_id": 263508,
@@ -36286,6 +36311,11 @@
       "igdb_id": 272012,
       "game_name": "Chinatown",
       "file": "missing/C/272012-chinatown.json"
+    },
+    {
+      "igdb_id": 223507,
+      "game_name": "Chinese Characters",
+      "file": "missing/C/223507-chinese-characters.json"
     },
     {
       "igdb_id": 146922,
