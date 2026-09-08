@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacal | 223662 | [223662-jacal.json](./223662-jacal.json) |
 | Jack and the Beanstalk | 25724 | [25724-jack-and-the-beanstalk.json](./25724-jack-and-the-beanstalk.json) |
 | Jack and the Beanstalk | 394188 | [394188-jack-and-the-beanstalk.json](./394188-jack-and-the-beanstalk.json) |
+| Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
 | Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
 | Jack Is Missing | 108374 | [108374-jack-is-missing.json](./108374-jack-is-missing.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Rush | 236304 | [236304-jet-rush.json](./236304-jet-rush.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
 | Jet Set Radio | 279629 | [279629-jet-set-radio.json](./279629-jet-set-radio.json) |
+| Jet Ski Driving | 231943 | [231943-jet-ski-driving.json](./231943-jet-ski-driving.json) |
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
@@ -459,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpBeard | 199642 | [199642-jumpbeard.json](./199642-jumpbeard.json) |
 | Jumpbound | 365097 | [365097-jumpbound.json](./365097-jumpbound.json) |
 | Jumpcut Jigsaws | 407311 | [407311-jumpcut-jigsaws.json](./407311-jumpcut-jigsaws.json) |
+| Jumper Platform | 231944 | [231944-jumper-platform.json](./231944-jumper-platform.json) |
 | Jumper Three | 79910 | [79910-jumper-three.json](./79910-jumper-three.json) |
 | Jumper, Jumpy Time Attack Adventure | 309367 | [309367-jumper-jumpy-time-attack-adventure.json](./309367-jumper-jumpy-time-attack-adventure.json) |
 | Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
