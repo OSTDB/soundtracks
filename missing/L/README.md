@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Trailblazer | 370666 | [370666-labyrinth-trailblazer.json](./370666-labyrinth-trailblazer.json) |
 | Labyrinth: Classic Pinball Puzzle | 225884 | [225884-labyrinth-classic-pinball-puzzle.json](./225884-labyrinth-classic-pinball-puzzle.json) |
 | Labyrinthe | 242259 | [242259-labyrinthe.json](./242259-labyrinthe.json) |
+| Labyrinthian: Lost 'til Dawn | 238512 | [238512-labyrinthian-lost-til-dawn.json](./238512-labyrinthian-lost-til-dawn.json) |
 | Labyrinthos: The Depths Want You | 408764 | [408764-labyrinthos-the-depths-want-you.json](./408764-labyrinthos-the-depths-want-you.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
 | Labyrneath | 111055 | [111055-labyrneath.json](./111055-labyrneath.json) |
@@ -156,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
 | Larry's Lab | 373527 | [373527-larrys-lab.json](./373527-larrys-lab.json) |
+| Larry's New Wheelchair | 238524 | [238524-larrys-new-wheelchair.json](./238524-larrys-new-wheelchair.json) |
 | LarryDS: Chapter 1 | 313108 | [313108-larryds-chapter-1.json](./313108-larryds-chapter-1.json) |
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
 | Laruaville 15 | 302355 | [302355-laruaville-15.json](./302355-laruaville-15.json) |
