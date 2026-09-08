@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scanner Force | 402269 | [402269-scanner-force.json](./402269-scanner-force.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
+| Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
@@ -1215,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapeshifter: Endless Run | 392787 | [392787-shapeshifter-endless-run.json](./392787-shapeshifter-endless-run.json) |
 | Shapeu | 215108 | [215108-shapeu.json](./215108-shapeu.json) |
 | Shapey Heads | 241989 | [241989-shapey-heads.json](./241989-shapey-heads.json) |
+| Shapik: The Quest | 211742 | [211742-shapik-the-quest.json](./211742-shapik-the-quest.json) |
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
 | Shapy Road | 244805 | [244805-shapy-road.json](./244805-shapy-road.json) |
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
@@ -1404,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsetsu Mahou Shoujo | 131589 | [131589-shinsetsu-mahou-shoujo.json](./131589-shinsetsu-mahou-shoujo.json) |
 | Shinsetsu Shiawase Usagi F: Yuujou Yori mo Aiyoku | 277859 | [277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json](./277859-shinsetsu-shiawase-usagi-f-yuujou-yori-mo-aiyoku.json) |
 | Shinshuku Taisen: It's a Noni! | 123622 | [123622-shinshuku-taisen-its-a-noni.json](./123622-shinshuku-taisen-its-a-noni.json) |
+| Shiny-Man-Adventures | 211751 | [211751-shiny-man-adventures.json](./211751-shiny-man-adventures.json) |
 | Shinya Ichizoku: The Battle for Hokkaido's Delicious Foods | 186908 | [186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json](./186908-shinya-ichizoku-the-battle-for-hokkaidos-delicious-foods.json) |
 | Shinyaku Boushi Sekai | 396208 | [396208-shinyaku-boushi-sekai.json](./396208-shinyaku-boushi-sekai.json) |
 | Shinzen Hollow | 292512 | [292512-shinzen-hollow.json](./292512-shinzen-hollow.json) |
@@ -1481,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooterwave | 186344 | [186344-shooterwave.json](./186344-shooterwave.json) |
 | Shootin' Gallery VR | 217293 | [217293-shootin-gallery-vr.json](./217293-shootin-gallery-vr.json) |
 | Shooting Beena Toy Story 3: Woody to Buzz no Daibouken! | 123619 | [123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json](./123619-shooting-beena-toy-story-3-woody-to-buzz-no-daibouken.json) |
+| Shooting Game Kari | 211718 | [211718-shooting-game-kari.json](./211718-shooting-game-kari.json) |
 | Shooting Range by Thornbury Software | 84871 | [84871-shooting-range-by-thornbury-software.json](./84871-shooting-range-by-thornbury-software.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
@@ -2984,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
 | Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
+| Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
 | Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
@@ -4239,6 +4244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
+| Stinky Company Simulator | 211741 | [211741-stinky-company-simulator.json](./211741-stinky-company-simulator.json) |
 | Stitch. | 225655 | [225655-stitch.json](./225655-stitch.json) |
 | Stitch's Blazing Lasers | 342673 | [342673-stitchs-blazing-lasers.json](./342673-stitchs-blazing-lasers.json) |
 | Stix: Combat Devolved | 190699 | [190699-stix-combat-devolved.json](./190699-stix-combat-devolved.json) |
