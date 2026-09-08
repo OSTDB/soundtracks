@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
 | Pixel Paint 2: Definitive Edition | 275031 | [275031-pixel-paint-2-definitive-edition.json](./275031-pixel-paint-2-definitive-edition.json) |
+| Pixel Paint 2: Deluxe Edition | 256267 | [256267-pixel-paint-2-deluxe-edition.json](./256267-pixel-paint-2-deluxe-edition.json) |
 | Pixel Paint 2: Platinum Edition | 283166 | [283166-pixel-paint-2-platinum-edition.json](./283166-pixel-paint-2-platinum-edition.json) |
 | Pixel Paint 2: Ultimate Edition | 260680 | [260680-pixel-paint-2-ultimate-edition.json](./260680-pixel-paint-2-ultimate-edition.json) |
 | Pixel Paint Together | 300981 | [300981-pixel-paint-together.json](./300981-pixel-paint-together.json) |
