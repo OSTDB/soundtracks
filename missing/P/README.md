@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
+| Paper Snow | 241977 | [241977-paper-snow.json](./241977-paper-snow.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
 | Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
@@ -919,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
 | Pikmin Puzzle Card e+ | 220852 | [220852-pikmin-puzzle-card-e.json](./220852-pikmin-puzzle-card-e.json) |
+| Piko Interactive Collection 3 | 241982 | [241982-piko-interactive-collection-3.json](./241982-piko-interactive-collection-3.json) |
 | Piko-piko Kiritan Island | 204730 | [204730-piko-piko-kiritan-island.json](./204730-piko-piko-kiritan-island.json) |
 | Piko-piko: Koisuru Kimochi no Nemuru Basho | 201834 | [201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json](./201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json) |
 | Piksels | 225287 | [225287-piksels.json](./225287-piksels.json) |
@@ -1903,6 +1905,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Priest's Artifice: Raguna Series 2 | 98437 | [98437-priests-artifice-raguna-series-2.json](./98437-priests-artifice-raguna-series-2.json) |
 | Prima: First Rogues | 291233 | [291233-prima-first-rogues.json](./291233-prima-first-rogues.json) |
 | Primal Carnage: Evolution | 259812 | [259812-primal-carnage-evolution.json](./259812-primal-carnage-evolution.json) |
+| Primal Carnage: Extinction - Mercenary Megapack | 241963 | [241963-primal-carnage-extinction-mercenary-megapack.json](./241963-primal-carnage-extinction-mercenary-megapack.json) |
+| Primal Carnage: Extinction - Prehistoric Legacy | 241962 | [241962-primal-carnage-extinction-prehistoric-legacy.json](./241962-primal-carnage-extinction-prehistoric-legacy.json) |
 | Primal Carnage: Extinction - Ultimate Spitter Pack | 274974 | [274974-primal-carnage-extinction-ultimate-spitter-pack.json](./274974-primal-carnage-extinction-ultimate-spitter-pack.json) |
 | Primal Carnage: Genesis | 80564 | [80564-primal-carnage-genesis.json](./80564-primal-carnage-genesis.json) |
 | Primal Force Arena | 317842 | [317842-primal-force-arena.json](./317842-primal-force-arena.json) |
