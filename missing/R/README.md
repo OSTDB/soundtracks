@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Heroes: Ruins of Tasos | 137985 | [137985-rogue-heroes-ruins-of-tasos.json](./137985-rogue-heroes-ruins-of-tasos.json) |
 | Rogue Jungle | 307949 | [307949-rogue-jungle.json](./307949-rogue-jungle.json) |
 | Rogue Kingdoms | 317594 | [317594-rogue-kingdoms.json](./317594-rogue-kingdoms.json) |
+| Rogue Labyrinth | 249195 | [249195-rogue-labyrinth.json](./249195-rogue-labyrinth.json) |
 | Rogue Loops | 323755 | [323755-rogue-loops.json](./323755-rogue-loops.json) |
 | Rogue Lords: Day One Edition | 199631 | [199631-rogue-lords-day-one-edition.json](./199631-rogue-lords-day-one-edition.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
@@ -1870,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Ride | 266794 | [266794-rusty-ride.json](./266794-rusty-ride.json) |
 | Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
+| Rusty's Day Off: Episode One - Janitor on Duty | 249225 | [249225-rustys-day-off-episode-one-janitor-on-duty.json](./249225-rustys-day-off-episode-one-janitor-on-duty.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
 | Rusty's Real Deal Baseball: Cage Match | 258739 | [258739-rustys-real-deal-baseball-cage-match.json](./258739-rustys-real-deal-baseball-cage-match.json) |
 | Rusty's Real Deal Baseball: Gear Games | 258730 | [258730-rustys-real-deal-baseball-gear-games.json](./258730-rustys-real-deal-baseball-gear-games.json) |
