@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T20:33:09.712Z",
-  "total_missing": 48096,
+  "generated_at": "2026-09-08T20:41:01.742Z",
+  "total_missing": 48095,
   "games": [
     {
       "igdb_id": 306086,
@@ -296,11 +296,6 @@
       "igdb_id": 349879,
       "game_name": "100 Men vs 1 Gorilla",
       "file": "missing/0-9/349879-100-men-vs-1-gorilla.json"
-    },
-    {
-      "igdb_id": 334126,
-      "game_name": "100 Miami Cats",
-      "file": "missing/0-9/334126-100-miami-cats.json"
     },
     {
       "igdb_id": 247184,
