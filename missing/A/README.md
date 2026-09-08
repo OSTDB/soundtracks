@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
 | Arcade's Greatest Hits: The Atari Collection 2 | 43925 | [43925-arcades-greatest-hits-the-atari-collection-2.json](./43925-arcades-greatest-hits-the-atari-collection-2.json) |
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
+| Arcadia Demade | 256826 | [256826-arcadia-demade.json](./256826-arcadia-demade.json) |
 | Arcadia Fallen | 126568 | [126568-arcadia-fallen.json](./126568-arcadia-fallen.json) |
 | Arcadia Fallen II | 293096 | [293096-arcadia-fallen-ii.json](./293096-arcadia-fallen-ii.json) |
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
 | Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
+| Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
@@ -2126,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arras.io | 327193 | [327193-arras-io.json](./327193-arras-io.json) |
 | Arraynium | 68716 | [68716-arraynium.json](./68716-arraynium.json) |
 | Arrest of a Stone Buddha | 122373 | [122373-arrest-of-a-stone-buddha.json](./122373-arrest-of-a-stone-buddha.json) |
+| Arrival | 256831 | [256831-arrival.json](./256831-arrival.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
 | Arrow Bingo | 382773 | [382773-arrow-bingo.json](./382773-arrow-bingo.json) |
 | Arrow Busters | 97349 | [97349-arrow-busters.json](./97349-arrow-busters.json) |
