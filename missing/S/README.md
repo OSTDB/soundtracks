@@ -363,6 +363,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisdom | 337095 | [337095-satisdom.json](./337095-satisdom.json) |
 | Satiszone | 332420 | [332420-satiszone.json](./332420-satiszone.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
+| Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
+| Saturday Night is the Loneliest Night of the Week II | 230856 | [230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json](./230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
@@ -482,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
+| Schizophrenic Rooms | 230857 | [230857-schizophrenic-rooms.json](./230857-schizophrenic-rooms.json) |
 | Schlag den Raab: Das 3. Spiel | 86078 | [86078-schlag-den-raab-das-3-spiel.json](./86078-schlag-den-raab-das-3-spiel.json) |
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
@@ -2309,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
 | Snowboarding | 152929 | [152929-snowboarding.json](./152929-snowboarding.json) |
 | Snowboarding | 19688 | [19688-snowboarding.json](./19688-snowboarding.json) |
+| Snowboarding | 230837 | [230837-snowboarding.json](./230837-snowboarding.json) |
 | Snowboarding | 358843 | [358843-snowboarding.json](./358843-snowboarding.json) |
 | Snowbrawll | 235461 | [235461-snowbrawll.json](./235461-snowbrawll.json) |
 | Snowcat Simulator | 9479 | [9479-snowcat-simulator.json](./9479-snowcat-simulator.json) |
@@ -2323,14 +2327,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
+| SnowRunner: 3-Year Anniversary Edition | 230833 | [230833-snowrunner-3-year-anniversary-edition.json](./230833-snowrunner-3-year-anniversary-edition.json) |
 | SnowRunner: Freightliner & Western Star Dual Pack | 366855 | [366855-snowrunner-freightliner-and-western-star-dual-pack.json](./366855-snowrunner-freightliner-and-western-star-dual-pack.json) |
 | SnowRunner: Jeep Dual Pack | 169995 | [169995-snowrunner-jeep-dual-pack.json](./169995-snowrunner-jeep-dual-pack.json) |
+| SnowRunner: Save the Day Vinyl Wrap Pack | 230830 | [230830-snowrunner-save-the-day-vinyl-wrap-pack.json](./230830-snowrunner-save-the-day-vinyl-wrap-pack.json) |
 | SnowRunner: Season 14 - Reap and Sow | 336931 | [336931-snowrunner-season-14-reap-and-sow.json](./336931-snowrunner-season-14-reap-and-sow.json) |
 | SnowRunner: Season 16 - High Voltage | 397654 | [397654-snowrunner-season-16-high-voltage.json](./397654-snowrunner-season-16-high-voltage.json) |
 | SnowRunner: Season 17 - Repair & Rescue | 397681 | [397681-snowrunner-season-17-repair-and-rescue.json](./397681-snowrunner-season-17-repair-and-rescue.json) |
 | SnowRunner: Season 18 - Patch & Power | 397682 | [397682-snowrunner-season-18-patch-and-power.json](./397682-snowrunner-season-18-patch-and-power.json) |
 | SnowRunner: Season 19 - Research & Restore | 397683 | [397683-snowrunner-season-19-research-and-restore.json](./397683-snowrunner-season-19-research-and-restore.json) |
 | SnowRunner: Season 20 | 397684 | [397684-snowrunner-season-20.json](./397684-snowrunner-season-20.json) |
+| SnowRunner: Year 3 Pass | 230832 | [230832-snowrunner-year-3-pass.json](./230832-snowrunner-year-3-pass.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
 | Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
 | Snowy Mountain | 235744 | [235744-snowy-mountain.json](./235744-snowy-mountain.json) |
@@ -2792,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer of Fortune | 175439 | [175439-sorcerer-of-fortune.json](./175439-sorcerer-of-fortune.json) |
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
+| Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
@@ -3052,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
 | Space Tail: Every Journey Leads Home - Deluxe Edition | 241400 | [241400-space-tail-every-journey-leads-home-deluxe-edition.json](./241400-space-tail-every-journey-leads-home-deluxe-edition.json) |
+| Space Tail: Homecoming | 230820 | [230820-space-tail-homecoming.json](./230820-space-tail-homecoming.json) |
 | Space Takeover: Over City | 245340 | [245340-space-takeover-over-city.json](./245340-space-takeover-over-city.json) |
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
