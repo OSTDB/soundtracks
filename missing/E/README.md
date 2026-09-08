@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Effy: One of Unreasonable "If" | 236822 | [236822-effy-one-of-unreasonable-if.json](./236822-effy-one-of-unreasonable-if.json) |
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
+| Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
@@ -508,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyrean Swarm | 273649 | [273649-empyrean-swarm.json](./273649-empyrean-swarm.json) |
 | Empyrion - Galactic Survival: Complete Edition | 371228 | [371228-empyrion-galactic-survival-complete-edition.json](./371228-empyrion-galactic-survival-complete-edition.json) |
+| En Passant | 234059 | [234059-en-passant.json](./234059-en-passant.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
@@ -568,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
 | Endless Memories | 126265 | [126265-endless-memories.json](./126265-endless-memories.json) |
+| Endless Mountain | 234058 | [234058-endless-mountain.json](./234058-endless-mountain.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Nights: Zombie Apocalypse | 244253 | [244253-endless-nights-zombie-apocalypse.json](./244253-endless-nights-zombie-apocalypse.json) |
