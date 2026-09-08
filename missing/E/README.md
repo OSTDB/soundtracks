@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endurance: Space Action | 143111 | [143111-endurance-space-action.json](./143111-endurance-space-action.json) |
 | Endure | 280205 | [280205-endure.json](./280205-endure.json) |
 | Endure or Perish | 288223 | [288223-endure-or-perish.json](./288223-endure-or-perish.json) |
+| Endzone: A World Apart - Complete Edition | 218504 | [218504-endzone-a-world-apart-complete-edition.json](./218504-endzone-a-world-apart-complete-edition.json) |
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | Enemies: Gone Suburban | 239649 | [239649-enemies-gone-suburban.json](./239649-enemies-gone-suburban.json) |
 | Enemy Engaged: RAH-66 Comanche vs. Ka-52 Hokum | 69858 | [69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json](./69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
 | Ex Machina: Arcade | 17171 | [17171-ex-machina-arcade.json](./17171-ex-machina-arcade.json) |
+| Ex Shooter: Triple Bundle Pack | 218467 | [218467-ex-shooter-triple-bundle-pack.json](./218467-ex-shooter-triple-bundle-pack.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
 | Ex/l | 376446 | [376446-ex-l.json](./376446-ex-l.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
