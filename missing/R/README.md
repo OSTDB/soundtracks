@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Time! | 245015 | [245015-race-time.json](./245015-race-time.json) |
 | Race to Kyiv | 392804 | [392804-race-to-kyiv.json](./392804-race-to-kyiv.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
+| Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
 | Racers Islands | 233229 | [233229-racers-islands.json](./233229-racers-islands.json) |
 | RaceXXL Space | 367394 | [367394-racexxl-space.json](./367394-racexxl-space.json) |
@@ -917,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returner Alien | 108500 | [108500-returner-alien.json](./108500-returner-alien.json) |
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
 | ReturnHome | 170555 | [170555-returnhome.json](./170555-returnhome.json) |
+| Returning to Mia | 226726 | [226726-returning-to-mia.json](./226726-returning-to-mia.json) |
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
 | Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
 | Reunited in the Mist | 364484 | [364484-reunited-in-the-mist.json](./364484-reunited-in-the-mist.json) |
@@ -1168,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
 | Rise of Queendom | 255119 | [255119-rise-of-queendom.json](./255119-rise-of-queendom.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
+| Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
 | Rise of the Bugs | 304592 | [304592-rise-of-the-bugs.json](./304592-rise-of-the-bugs.json) |
 | Rise of the Eternal | 288756 | [288756-rise-of-the-eternal.json](./288756-rise-of-the-eternal.json) |
 | Rise of The Fey | 82120 | [82120-rise-of-the-fey.json](./82120-rise-of-the-fey.json) |
