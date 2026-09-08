@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gingerbread Holiday | 373006 | [373006-gingerbread-holiday.json](./373006-gingerbread-holiday.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
 | Ginsei Igo 3D | 222301 | [222301-ginsei-igo-3d.json](./222301-ginsei-igo-3d.json) |
+| Ginsei Shogi: Aun Toushin Kongou Raizan | 219024 | [219024-ginsei-shogi-aun-toushin-kongou-raizan.json](./219024-ginsei-shogi-aun-toushin-kongou-raizan.json) |
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
