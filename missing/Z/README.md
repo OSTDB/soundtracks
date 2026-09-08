@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| Z After | 213938 | [213938-z-after.json](./213938-z-after.json) |
 | Z After: A Point and Click Survival | 343272 | [343272-z-after-a-point-and-click-survival.json](./343272-z-after-a-point-and-click-survival.json) |
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
@@ -222,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hunter Video Game | 220128 | [220128-zombie-hunter-video-game.json](./220128-zombie-hunter-video-game.json) |
 | Zombie Incident | 41714 | [41714-zombie-incident.json](./41714-zombie-incident.json) |
 | Zombie Infection | 331340 | [331340-zombie-infection.json](./331340-zombie-infection.json) |
+| Zombie Killer Squad | 213946 | [213946-zombie-killer-squad.json](./213946-zombie-killer-squad.json) |
 | Zombie Killing Simulator | 103184 | [103184-zombie-killing-simulator.json](./103184-zombie-killing-simulator.json) |
 | Zombie Land | 239089 | [239089-zombie-land.json](./239089-zombie-land.json) |
 | Zombie Lane | 143126 | [143126-zombie-lane.json](./143126-zombie-lane.json) |
