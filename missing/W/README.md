@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
 | Wandrill | 348789 | [348789-wandrill.json](./348789-wandrill.json) |
 | Wands | 56982 | [56982-wands.json](./56982-wands.json) |
+| Wangan Dead Heat + Real Arrange | 213942 | [213942-wangan-dead-heat-real-arrange.json](./213942-wangan-dead-heat-real-arrange.json) |
 | Wangan Midnight | 268764 | [268764-wangan-midnight.json](./268764-wangan-midnight.json) |
 | Wangan Midnight Maximum Tune 3 | 68044 | [68044-wangan-midnight-maximum-tune-3.json](./68044-wangan-midnight-maximum-tune-3.json) |
 | Wangan Midnight Maximum Tune 3DX | 315268 | [315268-wangan-midnight-maximum-tune-3dx.json](./315268-wangan-midnight-maximum-tune-3dx.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
 | WindStop Strategy | 385567 | [385567-windstop-strategy.json](./385567-windstop-strategy.json) |
 | Windstorm: Double Pack | 259539 | [259539-windstorm-double-pack.json](./259539-windstorm-double-pack.json) |
+| Windsurfing MMX | 213988 | [213988-windsurfing-mmx.json](./213988-windsurfing-mmx.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
