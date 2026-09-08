@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
+| Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
@@ -2148,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Assassin 4 | 316088 | [316088-sniper-assassin-4.json](./316088-sniper-assassin-4.json) |
 | Sniper Assassin 5: Final Mission | 316090 | [316090-sniper-assassin-5-final-mission.json](./316090-sniper-assassin-5-final-mission.json) |
 | Sniper Blacklist | 34465 | [34465-sniper-blacklist.json](./34465-sniper-blacklist.json) |
+| Sniper Elite 3: Camouflage Weapons Pack | 254534 | [254534-sniper-elite-3-camouflage-weapons-pack.json](./254534-sniper-elite-3-camouflage-weapons-pack.json) |
 | Sniper Elite 4: Deathstorm Part 1 - Inception | 27868 | [27868-sniper-elite-4-deathstorm-part-1-inception.json](./27868-sniper-elite-4-deathstorm-part-1-inception.json) |
 | Sniper Elite 5: Airborne Elite Weapon & Skin Pack | 307278 | [307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json](./307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Complete Edition | 263228 | [263228-sniper-elite-5-complete-edition.json](./263228-sniper-elite-5-complete-edition.json) |
@@ -2522,7 +2524,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic on Angel Island | 302960 | [302960-sonic-on-angel-island.json](./302960-sonic-on-angel-island.json) |
 | Sonic One-Shot | 324700 | [324700-sonic-one-shot.json](./324700-sonic-one-shot.json) |
 | Sonic Origins 2 | 370120 | [370120-sonic-origins-2.json](./370120-sonic-origins-2.json) |
+| Sonic Origins Plus: Expansion Pack | 254493 | [254493-sonic-origins-plus-expansion-pack.json](./254493-sonic-origins-plus-expansion-pack.json) |
 | Sonic Origins Pocket Edition | 336373 | [336373-sonic-origins-pocket-edition.json](./336373-sonic-origins-pocket-edition.json) |
+| Sonic Origins: Premium Fun Pack | 254492 | [254492-sonic-origins-premium-fun-pack.json](./254492-sonic-origins-premium-fun-pack.json) |
 | Sonic Outbound | 266515 | [266515-sonic-outbound.json](./266515-sonic-outbound.json) |
 | Sonic Overdrive | 266513 | [266513-sonic-overdrive.json](./266513-sonic-overdrive.json) |
 | Sonic Panel Puzzle | 261274 | [261274-sonic-panel-puzzle.json](./261274-sonic-panel-puzzle.json) |
@@ -2958,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spam Text | 214196 | [214196-spam-text.json](./214196-spam-text.json) |
 | Spammerina | 309879 | [309879-spammerina.json](./309879-spammerina.json) |
 | Spanish for Everyone! | 25018 | [25018-spanish-for-everyone.json](./25018-spanish-for-everyone.json) |
+| Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
@@ -3096,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Canyon | 332990 | [332990-spider-canyon.json](./332990-spider-canyon.json) |
+| Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
 | Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
@@ -3280,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring String | 313121 | [313121-spring-string.json](./313121-spring-string.json) |
 | Spring: 1944 | 142500 | [142500-spring-1944.json](./142500-spring-1944.json) |
 | Springer | 98967 | [98967-springer.json](./98967-springer.json) |
+| SpringFling | 254557 | [254557-springfling.json](./254557-springfling.json) |
 | Springs, Eternal | 380435 | [380435-springs-eternal.json](./380435-springs-eternal.json) |
 | Springtastic Match | 359402 | [359402-springtastic-match.json](./359402-springtastic-match.json) |
 | Springtime Puzzle | 359403 | [359403-springtime-puzzle.json](./359403-springtime-puzzle.json) |
@@ -4229,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
 | Suiren | 377581 | [377581-suiren.json](./377581-suiren.json) |
 | Suisenka | 261776 | [261776-suisenka.json](./261776-suisenka.json) |
+| SuiSui Sweet | 254547 | [254547-suisui-sweet.json](./254547-suisui-sweet.json) |
 | Suite PreCure: Happy Oshare Harmony | 327601 | [327601-suite-precure-happy-oshare-harmony.json](./327601-suite-precure-happy-oshare-harmony.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
 | Sukeban Deka III | 48684 | [48684-sukeban-deka-iii.json](./48684-sukeban-deka-iii.json) |
@@ -4830,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
 | SuperMash | 127307 | [127307-supermash.json](./127307-supermash.json) |
+| Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
 | Supermoves: World of Parkour | 280450 | [280450-supermoves-world-of-parkour.json](./280450-supermoves-world-of-parkour.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
 | Supernatural Sweethearts | 206951 | [206951-supernatural-sweethearts.json](./206951-supernatural-sweethearts.json) |
