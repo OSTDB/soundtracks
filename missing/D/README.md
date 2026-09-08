@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Oval Portrait - Collector's Edition | 370681 | [370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json](./370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Raven - Collector's Edition | 222282 | [222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json](./222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
@@ -504,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rose | 404237 | [404237-dead-rose.json](./404237-dead-rose.json) |
 | Dead Route | 87095 | [87095-dead-route.json](./87095-dead-route.json) |
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
+| Dead Sector | 222316 | [222316-dead-sector.json](./222316-dead-sector.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Some Day | 33155 | [33155-dead-some-day.json](./33155-dead-some-day.json) |
 | Dead Space | 131931 | [131931-dead-space.json](./131931-dead-space.json) |
@@ -1878,10 +1880,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors Quest Demo | 101593 | [101593-doors-quest-demo.json](./101593-doors-quest-demo.json) |
 | Doorways | 185655 | [185655-doorways.json](./185655-doorways.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
+| Dopamix | 222327 | [222327-dopamix.json](./222327-dopamix.json) |
 | Doppelgänger | 275029 | [275029-doppelganger.json](./275029-doppelganger.json) |
 | Doppelgänger | 275902 | [275902-doppelganger.json](./275902-doppelganger.json) |
 | Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
 | DoppelTest | 352746 | [352746-doppeltest.json](./352746-doppeltest.json) |
+| Dopusk 31 | 222315 | [222315-dopusk-31.json](./222315-dopusk-31.json) |
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
 | Dora and the Three Little Pigs | 231378 | [231378-dora-and-the-three-little-pigs.json](./231378-dora-and-the-three-little-pigs.json) |
@@ -2602,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rebound | 252399 | [252399-dungeon-rebound.json](./252399-dungeon-rebound.json) |
 | Dungeon Redemption | 204691 | [204691-dungeon-redemption.json](./204691-dungeon-redemption.json) |
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
+| Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
