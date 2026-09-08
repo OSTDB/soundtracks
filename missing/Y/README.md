@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Year 500 | 248046 | [248046-year-500.json](./248046-year-500.json) |
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
+| Yello Adventures | 242571 | [242571-yello-adventures.json](./242571-yello-adventures.json) |
 | Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
 | Yenght | 94258 | [94258-yenght.json](./94258-yenght.json) |
