@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
 | The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
+| The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Goblins are Coming | 246949 | [246949-the-goblins-are-coming.json](./246949-the-goblins-are-coming.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
@@ -1646,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great War: Western Front | 214505 | [214505-the-great-war-western-front.json](./214505-the-great-war-western-front.json) |
 | The Great Yokai of the Haunted Halls | 331118 | [331118-the-great-yokai-of-the-haunted-halls.json](./331118-the-great-yokai-of-the-haunted-halls.json) |
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
+| The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
 | The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
 | The Green Room Experiment: Episode 1 VR | 243678 | [243678-the-green-room-experiment-episode-1-vr.json](./243678-the-green-room-experiment-episode-1-vr.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
@@ -2125,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
+| The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
 | The Majesty of Colors | 41956 | [41956-the-majesty-of-colors.json](./41956-the-majesty-of-colors.json) |
 | The Making of a Prophet | 214524 | [214524-the-making-of-a-prophet.json](./214524-the-making-of-a-prophet.json) |
 | The Making of Karateka | 256293 | [256293-the-making-of-karateka.json](./256293-the-making-of-karateka.json) |
@@ -2133,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
 | The Mansion of The Macabre | 328470 | [328470-the-mansion-of-the-macabre.json](./328470-the-mansion-of-the-macabre.json) |
+| The Many Misfortunes of Kyran Pierre Cadenza the First | 211764 | [211764-the-many-misfortunes-of-kyran-pierre-cadenza-the-first.json](./211764-the-many-misfortunes-of-kyran-pierre-cadenza-the-first.json) |
 | The Many Pieces of Mr. Coo | 142959 | [142959-the-many-pieces-of-mr-coo.json](./142959-the-many-pieces-of-mr-coo.json) |
 | The Many Pieces of Mr. Coo: Coollector Edition | 247195 | [247195-the-many-pieces-of-mr-coo-coollector-edition.json](./247195-the-many-pieces-of-mr-coo-coollector-edition.json) |
 | The Many Pieces of Mr. Coo: Fantabulous Edition | 247194 | [247194-the-many-pieces-of-mr-coo-fantabulous-edition.json](./247194-the-many-pieces-of-mr-coo-fantabulous-edition.json) |
@@ -2400,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
 | The Quintessential Quintuplets: Gotopazu Story 2nd | 299466 | [299466-the-quintessential-quintuplets-gotopazu-story-2nd.json](./299466-the-quintessential-quintuplets-gotopazu-story-2nd.json) |
+| The Quintessential Quintuplets: Omoide VR - Itsuki | 211734 | [211734-the-quintessential-quintuplets-omoide-vr-itsuki.json](./211734-the-quintessential-quintuplets-omoide-vr-itsuki.json) |
 | The Quintessential Quintuplets: The Quintuplets Can't Divide the Puzzle Into Five Equal Parts | 194029 | [194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json](./194029-the-quintessential-quintuplets-the-quintuplets-cant-divide-the-puzzle-into-five-equal-parts.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
 | The Race for the White House 2016 | 31386 | [31386-the-race-for-the-white-house-2016.json](./31386-the-race-for-the-white-house-2016.json) |
@@ -2532,12 +2537,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Years War (1756-1763) | 13666 | [13666-the-seven-years-war-1756-1763.json](./13666-the-seven-years-war-1756-1763.json) |
 | The Seven Years War (1756-1763): Pomeranian War | 171610 | [171610-the-seven-years-war-1756-1763-pomeranian-war.json](./171610-the-seven-years-war-1756-1763-pomeranian-war.json) |
 | The Sewers of D'Sparil | 268467 | [268467-the-sewers-of-dsparil.json](./268467-the-sewers-of-dsparil.json) |
+| The Sexorcist | 211723 | [211723-the-sexorcist.json](./211723-the-sexorcist.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
 | The Shadow in the Cathedral | 10939 | [10939-the-shadow-in-the-cathedral.json](./10939-the-shadow-in-the-cathedral.json) |
 | The Shadow of Shadows | 377047 | [377047-the-shadow-of-shadows.json](./377047-the-shadow-of-shadows.json) |
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
+| The Shape of Things | 211729 | [211729-the-shape-of-things.json](./211729-the-shape-of-things.json) |
 | The Shape of Us | 279601 | [279601-the-shape-of-us.json](./279601-the-shape-of-us.json) |
 | The Shape on the Ground | 152383 | [152383-the-shape-on-the-ground.json](./152383-the-shape-on-the-ground.json) |
 | The Shape You Make When You Want Your Bones to Be Closest to the Surface | 123625 | [123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json](./123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json) |
@@ -2926,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
+| The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The War of the Worlds | 25730 | [25730-the-war-of-the-worlds.json](./25730-the-war-of-the-worlds.json) |
