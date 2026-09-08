@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis | 381047 | [381047-genesis.json](./381047-genesis.json) |
 | Genesis Alpha One: Deluxe Edition | 154543 | [154543-genesis-alpha-one-deluxe-edition.json](./154543-genesis-alpha-one-deluxe-edition.json) |
 | Genesis Noir | 27413 | [27413-genesis-noir.json](./27413-genesis-noir.json) |
+| Genesis of Descent | 256858 | [256858-genesis-of-descent.json](./256858-genesis-of-descent.json) |
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
 | Genfanad | 159346 | [159346-genfanad.json](./159346-genfanad.json) |
 | Genghis Khan | 308557 | [308557-genghis-khan.json](./308557-genghis-khan.json) |
@@ -811,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
 | Godrop | 292290 | [292290-godrop.json](./292290-godrop.json) |
 | Gods | 142458 | [142458-gods.json](./142458-gods.json) |
+| Gods & Guardians | 256840 | [256840-gods-and-guardians.json](./256840-gods-and-guardians.json) |
 | Gods and Nemesis: of Ghosts from Dragons | 31884 | [31884-gods-and-nemesis-of-ghosts-from-dragons.json](./31884-gods-and-nemesis-of-ghosts-from-dragons.json) |
 | Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
