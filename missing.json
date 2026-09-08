@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T14:33:24.239Z",
-  "total_missing": 47139,
+  "generated_at": "2026-09-08T14:41:09.398Z",
+  "total_missing": 47138,
   "games": [
     {
       "igdb_id": 306086,
@@ -111,11 +111,6 @@
       "igdb_id": 258995,
       "game_name": "07th Theater",
       "file": "missing/0-9/258995-07th-theater.json"
-    },
-    {
-      "igdb_id": 316429,
-      "game_name": "0927",
-      "file": "missing/0-9/316429-0927.json"
     },
     {
       "igdb_id": 292535,
