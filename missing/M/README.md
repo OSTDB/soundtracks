@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math City HD | 232178 | [232178-math-city-hd.json](./232178-math-city-hd.json) |
 | Math Games PRO | 105956 | [105956-math-games-pro.json](./105956-math-games-pro.json) |
 | Math Genius King of Arithmetic | 233753 | [233753-math-genius-king-of-arithmetic.json](./233753-math-genius-king-of-arithmetic.json) |
+| Math Man | 225625 | [225625-math-man.json](./225625-math-man.json) |
 | Math Munchers Deluxe | 57659 | [57659-math-munchers-deluxe.json](./57659-math-munchers-deluxe.json) |
 | Math Path | 391042 | [391042-math-path.json](./391042-math-path.json) |
 | Math Problem Challenge | 101616 | [101616-math-problem-challenge.json](./101616-math-problem-challenge.json) |
