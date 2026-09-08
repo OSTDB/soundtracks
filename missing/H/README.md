@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise City | 147440 | [147440-highrise-city.json](./147440-highrise-city.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
+| Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
 | Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
 | Hopper | 13726 | [13726-hopper.json](./13726-hopper.json) |
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
+| Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
