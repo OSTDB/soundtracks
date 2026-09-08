@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Holiday Season | 386151 | [386151-solitaire-holiday-season.json](./386151-solitaire-holiday-season.json) |
 | Solitaire Home Story | 354999 | [354999-solitaire-home-story.json](./354999-solitaire-home-story.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
+| Solitaire Master VS | 212271 | [212271-solitaire-master-vs.json](./212271-solitaire-master-vs.json) |
 | Solitaire MegaPack | 102764 | [102764-solitaire-megapack.json](./102764-solitaire-megapack.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
 | Solitaire Stories | 180280 | [180280-solitaire-stories.json](./180280-solitaire-stories.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
+| SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
@@ -3738,6 +3740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
+| Stagnated In Slumber | 212250 | [212250-stagnated-in-slumber.json](./212250-stagnated-in-slumber.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
@@ -4463,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
 | Striker of Sky | 238498 | [238498-striker-of-sky.json](./238498-striker-of-sky.json) |
 | Strikers | 219577 | [219577-strikers.json](./219577-strikers.json) |
+| Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
@@ -4914,6 +4918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Motorbikes Puzzles | 155622 | [155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json](./155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Original SJP | 155618 | [155618-super-jigsaw-puzzle-generations-original-sjp.json](./155618-super-jigsaw-puzzle-generations-original-sjp.json) |
 | Super Jigsaw Puzzle: Generations - Paintings Puzzles | 155623 | [155623-super-jigsaw-puzzle-generations-paintings-puzzles.json](./155623-super-jigsaw-puzzle-generations-paintings-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Paris | 212239 | [212239-super-jigsaw-puzzle-generations-paris.json](./212239-super-jigsaw-puzzle-generations-paris.json) |
 | Super Jigsaw Puzzle: Generations - Portugal | 266808 | [266808-super-jigsaw-puzzle-generations-portugal.json](./266808-super-jigsaw-puzzle-generations-portugal.json) |
 | Super Jigsaw Puzzle: Generations - Puppies Puzzles | 155633 | [155633-super-jigsaw-puzzle-generations-puppies-puzzles.json](./155633-super-jigsaw-puzzle-generations-puppies-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 2 | 155636 | [155636-super-jigsaw-puzzle-generations-random-puzzles-2.json](./155636-super-jigsaw-puzzle-generations-random-puzzles-2.json) |
