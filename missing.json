@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T07:03:36.814Z",
-  "total_missing": 45652,
+  "generated_at": "2026-09-08T07:18:30.598Z",
+  "total_missing": 45702,
   "games": [
     {
       "igdb_id": 306086,
@@ -5353,6 +5353,46 @@
       "file": "missing/A/328214-adhvan-chakra.json"
     },
     {
+      "igdb_id": 242534,
+      "game_name": "Adibou d'chou au cirque",
+      "file": "missing/A/242534-adibou-dchou-au-cirque.json"
+    },
+    {
+      "igdb_id": 242532,
+      "game_name": "Adibou d'chou au Pays des Bonbons",
+      "file": "missing/A/242532-adibou-dchou-au-pays-des-bonbons.json"
+    },
+    {
+      "igdb_id": 242535,
+      "game_name": "Adibou d'chou fête son anniversaire",
+      "file": "missing/A/242535-adibou-dchou-fete-son-anniversaire.json"
+    },
+    {
+      "igdb_id": 242531,
+      "game_name": "Adibou Nature et Sciences",
+      "file": "missing/A/242531-adibou-nature-et-sciences.json"
+    },
+    {
+      "igdb_id": 242530,
+      "game_name": "Adibou: Aventure dans le corps humain",
+      "file": "missing/A/242530-adibou-aventure-dans-le-corps-humain.json"
+    },
+    {
+      "igdb_id": 242527,
+      "game_name": "Adibou: Je lis, je calcule 4-5 ans",
+      "file": "missing/A/242527-adibou-je-lis-je-calcule-4-5-ans.json"
+    },
+    {
+      "igdb_id": 242528,
+      "game_name": "Adibou: Je lis, je calcule 5-6 ans",
+      "file": "missing/A/242528-adibou-je-lis-je-calcule-5-6-ans.json"
+    },
+    {
+      "igdb_id": 242529,
+      "game_name": "Adibou: Je lis, je calcule 6-7 ans",
+      "file": "missing/A/242529-adibou-je-lis-je-calcule-6-7-ans.json"
+    },
+    {
       "igdb_id": 43935,
       "game_name": "Adidas Power Soccer 98",
       "file": "missing/A/43935-adidas-power-soccer-98.json"
@@ -10408,6 +10448,11 @@
       "file": "missing/A/200731-anima-of-quantmix.json"
     },
     {
+      "igdb_id": 242542,
+      "game_name": "Anima Reprise",
+      "file": "missing/A/242542-anima-reprise.json"
+    },
+    {
       "igdb_id": 367943,
       "game_name": "Anima Shin Gun",
       "file": "missing/A/367943-anima-shin-gun.json"
@@ -12193,6 +12238,11 @@
       "file": "missing/A/272855-arcade-archives-blandia.json"
     },
     {
+      "igdb_id": 242553,
+      "game_name": "Arcade Archives: Bonze Adventure",
+      "file": "missing/A/242553-arcade-archives-bonze-adventure.json"
+    },
+    {
       "igdb_id": 263187,
       "game_name": "Arcade Archives: Bosconian",
       "file": "missing/A/263187-arcade-archives-bosconian.json"
@@ -12718,6 +12768,11 @@
       "file": "missing/A/106630-archery-star.json"
     },
     {
+      "igdb_id": 242563,
+      "game_name": "Archery Tournament",
+      "file": "missing/A/242563-archery-tournament.json"
+    },
+    {
       "igdb_id": 80584,
       "game_name": "Archetype",
       "file": "missing/A/80584-archetype.json"
@@ -13121,6 +13176,11 @@
       "igdb_id": 29870,
       "game_name": "Arizona Rose and the Pharaohs' Riddles",
       "file": "missing/A/29870-arizona-rose-and-the-pharaohs-riddles.json"
+    },
+    {
+      "igdb_id": 242562,
+      "game_name": "Ark Bubble",
+      "file": "missing/A/242562-ark-bubble.json"
     },
     {
       "igdb_id": 319366,
@@ -15376,6 +15436,16 @@
       "igdb_id": 359427,
       "game_name": "Atelier Ryza 3: Alchemist of the End & the Secret Key DX",
       "file": "missing/A/359427-atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-dx.json"
+    },
+    {
+      "igdb_id": 242543,
+      "game_name": "Atelier Ryza 3: Endless Summer Splash! Costume Set",
+      "file": "missing/A/242543-atelier-ryza-3-endless-summer-splash-costume-set.json"
+    },
+    {
+      "igdb_id": 242544,
+      "game_name": "Atelier Ryza 3: Summer Look Costume Set",
+      "file": "missing/A/242544-atelier-ryza-3-summer-look-costume-set.json"
     },
     {
       "igdb_id": 238227,
@@ -20436,6 +20506,11 @@
       "igdb_id": 353315,
       "game_name": "Beachside Blitz",
       "file": "missing/B/353315-beachside-blitz.json"
+    },
+    {
+      "igdb_id": 242575,
+      "game_name": "Beacon",
+      "file": "missing/B/242575-beacon.json"
     },
     {
       "igdb_id": 245848,
@@ -33288,6 +33363,11 @@
       "file": "missing/C/167275-cave-shooter.json"
     },
     {
+      "igdb_id": 242564,
+      "game_name": "Cave Swing",
+      "file": "missing/C/242564-cave-swing.json"
+    },
+    {
       "igdb_id": 249797,
       "game_name": "Caved-in",
       "file": "missing/C/249797-caved-in.json"
@@ -33511,6 +33591,11 @@
       "igdb_id": 375816,
       "game_name": "Celebrating Lotería!",
       "file": "missing/C/375816-celebrating-loteria.json"
+    },
+    {
+      "igdb_id": 242550,
+      "game_name": "Celebrity Slot Machine",
+      "file": "missing/C/242550-celebrity-slot-machine.json"
     },
     {
       "igdb_id": 358282,
@@ -37033,6 +37118,11 @@
       "file": "missing/C/15563-clicker-heroes.json"
     },
     {
+      "igdb_id": 242547,
+      "game_name": "ClickeRogue",
+      "file": "missing/C/242547-clickerogue.json"
+    },
+    {
       "igdb_id": 351597,
       "game_name": "Clicko",
       "file": "missing/C/351597-clicko.json"
@@ -39148,6 +39238,11 @@
       "file": "missing/C/294468-computer-genealogy-mantra.json"
     },
     {
+      "igdb_id": 242573,
+      "game_name": "Computer Othello",
+      "file": "missing/C/242573-computer-othello.json"
+    },
+    {
       "igdb_id": 256284,
       "game_name": "Computer Repair Shop",
       "file": "missing/C/256284-computer-repair-shop.json"
@@ -39716,6 +39811,11 @@
       "igdb_id": 269281,
       "game_name": "Convrgence",
       "file": "missing/C/269281-convrgence.json"
+    },
+    {
+      "igdb_id": 242567,
+      "game_name": "CoogyLoop",
+      "file": "missing/C/242567-coogyloop.json"
     },
     {
       "igdb_id": 175425,
@@ -40746,6 +40846,11 @@
       "igdb_id": 327218,
       "game_name": "County of Fortune",
       "file": "missing/C/327218-county-of-fortune.json"
+    },
+    {
+      "igdb_id": 242568,
+      "game_name": "CoupButat",
+      "file": "missing/C/242568-coupbutat.json"
     },
     {
       "igdb_id": 324669,
@@ -44813,6 +44918,11 @@
       "file": "missing/D/313486-daemon-bride-additional-gain.json"
     },
     {
+      "igdb_id": 242546,
+      "game_name": "Daemon Masquerade",
+      "file": "missing/D/242546-daemon-masquerade.json"
+    },
+    {
       "igdb_id": 44628,
       "game_name": "Daemon Summoner",
       "file": "missing/D/44628-daemon-summoner.json"
@@ -45421,6 +45531,11 @@
       "igdb_id": 274996,
       "game_name": "Dangle",
       "file": "missing/D/274996-dangle.json"
+    },
+    {
+      "igdb_id": 242539,
+      "game_name": "Dango Thief",
+      "file": "missing/D/242539-dango-thief.json"
     },
     {
       "igdb_id": 410238,
@@ -47266,6 +47381,11 @@
       "igdb_id": 51981,
       "game_name": "Deadly Sky",
       "file": "missing/D/51981-deadly-sky.json"
+    },
+    {
+      "igdb_id": 242569,
+      "game_name": "Deadly Soccer",
+      "file": "missing/D/242569-deadly-soccer.json"
     },
     {
       "igdb_id": 277022,
@@ -49796,6 +49916,11 @@
       "igdb_id": 304597,
       "game_name": "Detective School Club",
       "file": "missing/D/304597-detective-school-club.json"
+    },
+    {
+      "igdb_id": 242580,
+      "game_name": "Detective Solitaire: Butler Story 2",
+      "file": "missing/D/242580-detective-solitaire-butler-story-2.json"
     },
     {
       "igdb_id": 148553,
@@ -63003,6 +63128,11 @@
       "file": "missing/E/270116-evocation.json"
     },
     {
+      "igdb_id": 242533,
+      "game_name": "Evocation: Oltre il Sogno",
+      "file": "missing/E/242533-evocation-oltre-il-sogno.json"
+    },
+    {
       "igdb_id": 248314,
       "game_name": "EvoGene",
       "file": "missing/E/248314-evogene.json"
@@ -63126,6 +63256,11 @@
       "igdb_id": 100865,
       "game_name": "Excavator Simulator 2018",
       "file": "missing/E/100865-excavator-simulator-2018.json"
+    },
+    {
+      "igdb_id": 242574,
+      "game_name": "Excavatorrr",
+      "file": "missing/E/242574-excavatorrr.json"
     },
     {
       "igdb_id": 9290,
@@ -70296,6 +70431,11 @@
       "igdb_id": 223677,
       "game_name": "Foc/us",
       "file": "missing/F/223677-foc-us.json"
+    },
+    {
+      "igdb_id": 242576,
+      "game_name": "Focus",
+      "file": "missing/F/242576-focus.json"
     },
     {
       "igdb_id": 381028,
@@ -87243,6 +87383,11 @@
       "file": "missing/H/213644-hidden-object-missing-violins-premium.json"
     },
     {
+      "igdb_id": 242570,
+      "game_name": "Hidden Object: Mystery of Mysteries of the Aztecs",
+      "file": "missing/H/242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json"
+    },
+    {
       "igdb_id": 261529,
       "game_name": "Hidden Object: Travel to Future - Ancient Portals",
       "file": "missing/H/261529-hidden-object-travel-to-future-ancient-portals.json"
@@ -93963,6 +94108,11 @@
       "file": "missing/I/308805-infantry-attack-backup-edition.json"
     },
     {
+      "igdb_id": 242548,
+      "game_name": "Infected",
+      "file": "missing/I/242548-infected.json"
+    },
+    {
       "igdb_id": 231078,
       "game_name": "Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry",
       "file": "missing/I/231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json"
@@ -98463,6 +98613,11 @@
       "file": "missing/J/298016-jojos-bizarre-adventure-all-star-battle-golden-experience-box.json"
     },
     {
+      "igdb_id": 242545,
+      "game_name": "JoJo's Bizarre Adventure: All-Star Battle R - Keicho Nijimura",
+      "file": "missing/J/242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json"
+    },
+    {
       "igdb_id": 128606,
       "game_name": "Jojo's Bizarre Adventure: The 7th Stand User",
       "file": "missing/J/128606-jojos-bizarre-adventure-the-7th-stand-user.json"
@@ -99203,6 +99358,11 @@
       "file": "missing/J/232162-jumpy-road-race.json"
     },
     {
+      "igdb_id": 242566,
+      "game_name": "Jumpy Rooftop",
+      "file": "missing/J/242566-jumpy-rooftop.json"
+    },
+    {
       "igdb_id": 109032,
       "game_name": "Junction",
       "file": "missing/J/109032-junction.json"
@@ -99236,6 +99396,11 @@
       "igdb_id": 305139,
       "game_name": "Jungle Drummer",
       "file": "missing/J/305139-jungle-drummer.json"
+    },
+    {
+      "igdb_id": 242565,
+      "game_name": "Jungle Jammy",
+      "file": "missing/J/242565-jungle-jammy.json"
     },
     {
       "igdb_id": 340781,
@@ -105843,6 +106008,11 @@
       "file": "missing/L/371919-learn-spanish-easy-vocabulary.json"
     },
     {
+      "igdb_id": 242554,
+      "game_name": "Learn the Letters",
+      "file": "missing/L/242554-learn-the-letters.json"
+    },
+    {
       "igdb_id": 323714,
       "game_name": "Learn to Play Chess with Fritz & Chesster",
       "file": "missing/L/323714-learn-to-play-chess-with-fritz-and-chesster.json"
@@ -111016,6 +111186,11 @@
       "igdb_id": 402293,
       "game_name": "Lucky Shot",
       "file": "missing/L/402293-lucky-shot.json"
+    },
+    {
+      "igdb_id": 242551,
+      "game_name": "Lucky Slots",
+      "file": "missing/L/242551-lucky-slots.json"
     },
     {
       "igdb_id": 89722,
@@ -119858,6 +120033,11 @@
       "file": "missing/M/267645-mimizu-panzer.json"
     },
     {
+      "igdb_id": 242561,
+      "game_name": "Mimpi Hidden Objects",
+      "file": "missing/M/242561-mimpi-hidden-objects.json"
+    },
+    {
       "igdb_id": 305750,
       "game_name": "Mina the Hollower GBC Demake",
       "file": "missing/M/305750-mina-the-hollower-gbc-demake.json"
@@ -120596,6 +120776,11 @@
       "igdb_id": 209693,
       "game_name": "Mini Subway: Logic on the Metro Line",
       "file": "missing/M/209693-mini-subway-logic-on-the-metro-line.json"
+    },
+    {
+      "igdb_id": 242560,
+      "game_name": "Mini Tennis",
+      "file": "missing/M/242560-mini-tennis.json"
     },
     {
       "igdb_id": 298308,
@@ -125383,6 +125568,11 @@
       "file": "missing/M/335272-mudbird.json"
     },
     {
+      "igdb_id": 242538,
+      "game_name": "Mudborne",
+      "file": "missing/M/242538-mudborne.json"
+    },
+    {
       "igdb_id": 223678,
       "game_name": "Muddy Heights",
       "file": "missing/M/223678-muddy-heights.json"
@@ -126191,6 +126381,11 @@
       "igdb_id": 286500,
       "game_name": "My Breast Friend Sally",
       "file": "missing/M/286500-my-breast-friend-sally.json"
+    },
+    {
+      "igdb_id": 242559,
+      "game_name": "My Brother is a Superhero",
+      "file": "missing/M/242559-my-brother-is-a-superhero.json"
     },
     {
       "igdb_id": 123643,
@@ -152128,6 +152323,16 @@
       "file": "missing/Q/230518-quiz-thiz-france.json"
     },
     {
+      "igdb_id": 242549,
+      "game_name": "Quiz Thiz Germany: Bronze Edition",
+      "file": "missing/Q/242549-quiz-thiz-germany-bronze-edition.json"
+    },
+    {
+      "igdb_id": 242555,
+      "game_name": "Quiz Thiz Germany: Gold Edition",
+      "file": "missing/Q/242555-quiz-thiz-germany-gold-edition.json"
+    },
+    {
       "igdb_id": 232713,
       "game_name": "Quiz Thiz Spain",
       "file": "missing/Q/232713-quiz-thiz-spain.json"
@@ -163543,6 +163748,11 @@
       "file": "missing/S/248061-sausage-wars-trapdoor-hell.json"
     },
     {
+      "igdb_id": 242578,
+      "game_name": "Saut",
+      "file": "missing/S/242578-saut.json"
+    },
+    {
       "igdb_id": 23919,
       "game_name": "Savage Bliss",
       "file": "missing/S/23919-savage-bliss.json"
@@ -166738,6 +166948,11 @@
       "file": "missing/S/227519-shadow-knight.json"
     },
     {
+      "igdb_id": 242558,
+      "game_name": "Shadow Land",
+      "file": "missing/S/242558-shadow-land.json"
+    },
+    {
       "igdb_id": 377086,
       "game_name": "Shadow Mantis",
       "file": "missing/S/377086-shadow-mantis.json"
@@ -169051,6 +169266,11 @@
       "igdb_id": 341475,
       "game_name": "Shutterbuds",
       "file": "missing/S/341475-shutterbuds.json"
+    },
+    {
+      "igdb_id": 242541,
+      "game_name": "Shuttle World",
+      "file": "missing/S/242541-shuttle-world.json"
     },
     {
       "igdb_id": 335668,
@@ -173946,6 +174166,11 @@
       "igdb_id": 343827,
       "game_name": "Some Assembly Required",
       "file": "missing/S/343827-some-assembly-required.json"
+    },
+    {
+      "igdb_id": 242540,
+      "game_name": "Some Spring Days",
+      "file": "missing/S/242540-some-spring-days.json"
     },
     {
       "igdb_id": 210883,
@@ -190478,6 +190703,11 @@
       "file": "missing/T/176503-tasty-ramen.json"
     },
     {
+      "igdb_id": 242552,
+      "game_name": "Tasty Slot Machine",
+      "file": "missing/T/242552-tasty-slot-machine.json"
+    },
+    {
       "igdb_id": 105973,
       "game_name": "Tasty Words - Free Word Games",
       "file": "missing/T/105973-tasty-words-free-word-games.json"
@@ -197803,6 +198033,11 @@
       "file": "missing/T/225261-the-life-threads.json"
     },
     {
+      "igdb_id": 242557,
+      "game_name": "The Light Box",
+      "file": "missing/T/242557-the-light-box.json"
+    },
+    {
       "igdb_id": 55922,
       "game_name": "The Light Inside Us",
       "file": "missing/T/55922-the-light-inside-us.json"
@@ -197866,6 +198101,11 @@
       "igdb_id": 168344,
       "game_name": "The Lion's Song: Episode 4 - Closure",
       "file": "missing/T/168344-the-lions-song-episode-4-closure.json"
+    },
+    {
+      "igdb_id": 242556,
+      "game_name": "The Lions Knight",
+      "file": "missing/T/242556-the-lions-knight.json"
     },
     {
       "igdb_id": 360020,
@@ -206336,6 +206576,11 @@
       "igdb_id": 146881,
       "game_name": "Tom Clancy's The Division: Heartland",
       "file": "missing/T/146881-tom-clancys-the-division-heartland.json"
+    },
+    {
+      "igdb_id": 242572,
+      "game_name": "Tom Clancy's The Division: Parade Pack",
+      "file": "missing/T/242572-tom-clancys-the-division-parade-pack.json"
     },
     {
       "igdb_id": 19551,
@@ -225466,6 +225711,11 @@
       "igdb_id": 140051,
       "game_name": "Yedoma Globula",
       "file": "missing/Y/140051-yedoma-globula.json"
+    },
+    {
+      "igdb_id": 242571,
+      "game_name": "Yello Adventures",
+      "file": "missing/Y/242571-yello-adventures.json"
     },
     {
       "igdb_id": 89574,
