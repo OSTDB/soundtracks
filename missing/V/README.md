@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
 | Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
+| Void Nomads | 240777 | [240777-void-nomads.json](./240777-void-nomads.json) |
 | Void of Space | 173295 | [173295-void-of-space.json](./173295-void-of-space.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Scavengers | 381001 | [381001-void-scavengers.json](./381001-void-scavengers.json) |
