@@ -22,7 +22,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | *N Sync: Get to the Show | 94742 | [94742-n-sync-get-to-the-show.json](./94742-n-sync-get-to-the-show.json) |
 | #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
-| #Have A Sticker | 99640 | [99640-have-a-sticker.json](./99640-have-a-sticker.json) |
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
 | + Fence | 347176 | [347176-fence.json](./347176-fence.json) |
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
