@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Xhird | 46668 | [46668-d-xhird.json](./46668-d-xhird.json) |
 | D. Jump | 91952 | [91952-d-jump.json](./91952-d-jump.json) |
 | D.C. II ~Da Capo II~ | 61641 | [61641-d-c-ii-da-capo-ii.json](./61641-d-c-ii-da-capo-ii.json) |
+| D.C.K.: Dock Chess King | 244251 | [244251-d-c-k-dock-chess-king.json](./244251-d-c-k-dock-chess-king.json) |
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
@@ -736,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
+| Deformed | 244248 | [244248-deformed.json](./244248-deformed.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
@@ -1014,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
 | Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
+| Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
 | Detective Club: Gallery of Shadows - Collector's Edition | 362848 | [362848-detective-club-gallery-of-shadows-collectors-edition.json](./362848-detective-club-gallery-of-shadows-collectors-edition.json) |
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
@@ -1179,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
+| Diets and Deities | 244268 | [244268-diets-and-deities.json](./244268-diets-and-deities.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
