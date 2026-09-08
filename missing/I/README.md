@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Wyrm Slayer Nova Skin & Feat Pack | 313710 | [313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json](./313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json) |
 | Idle Champions: Wyrm Slayer Selise Skin & Feat Pack | 306076 | [306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json](./306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json) |
 | Idle Champions: Yuan-ti Glitch Havilar Skin & Feat Pack | 313701 | [313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json](./313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json) |
+| Idle Cinema Empire | 231937 | [231937-idle-cinema-empire.json](./231937-idle-cinema-empire.json) |
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
 | Idle Colony | 299782 | [299782-idle-colony.json](./299782-idle-colony.json) |
 | Idle Colors | 402893 | [402893-idle-colors.json](./402893-idle-colors.json) |
@@ -288,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Trillionaire | 294137 | [294137-idle-trillionaire.json](./294137-idle-trillionaire.json) |
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
 | Idle Universe Creator | 351606 | [351606-idle-universe-creator.json](./351606-idle-universe-creator.json) |
+| Idle Universe: Planet Miner | 231925 | [231925-idle-universe-planet-miner.json](./231925-idle-universe-planet-miner.json) |
 | Idle Waters | 304604 | [304604-idle-waters.json](./304604-idle-waters.json) |
 | Idle Zombie Shelter | 200729 | [200729-idle-zombie-shelter.json](./200729-idle-zombie-shelter.json) |
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
@@ -415,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impeached 2 | 253921 | [253921-impeached-2.json](./253921-impeached-2.json) |
 | Imperator: Invictus | 356069 | [356069-imperator-invictus.json](./356069-imperator-invictus.json) |
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
+| Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
 | Impetus: Clamor in Portis | 135276 | [135276-impetus-clamor-in-portis.json](./135276-impetus-clamor-in-portis.json) |
@@ -596,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
 | Infinite Robotics | 279000 | [279000-infinite-robotics.json](./279000-infinite-robotics.json) |
 | Infinite Shooter | 33103 | [33103-infinite-shooter.json](./33103-infinite-shooter.json) |
+| Infinite Stairs | 231940 | [231940-infinite-stairs.json](./231940-infinite-stairs.json) |
 | Infinite Sunshine Dust | 96731 | [96731-infinite-sunshine-dust.json](./96731-infinite-sunshine-dust.json) |
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
@@ -897,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irene: Journey To The North | 335071 | [335071-irene-journey-to-the-north.json](./335071-irene-journey-to-the-north.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
 | Iris Dissolution | 337116 | [337116-iris-dissolution.json](./337116-iris-dissolution.json) |
+| Iris's Adventure: Time Travel | 231941 | [231941-iriss-adventure-time-travel.json](./231941-iriss-adventure-time-travel.json) |
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
 | Irmão Grande & Brasileiro 2 | 163461 | [163461-irmao-grande-and-brasileiro-2.json](./163461-irmao-grande-and-brasileiro-2.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
