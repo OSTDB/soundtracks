@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
 | Magic Book Auto Battler | 328257 | [328257-magic-book-auto-battler.json](./328257-magic-book-auto-battler.json) |
+| Magic Boutique of Royal Blue | 226738 | [226738-magic-boutique-of-royal-blue.json](./226738-magic-boutique-of-royal-blue.json) |
 | Magic Bows | 359400 | [359400-magic-bows.json](./359400-magic-bows.json) |
 | Magic Box | 29867 | [29867-magic-box.json](./29867-magic-box.json) |
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MapleStory Classic | 411557 | [411557-maplestory-classic.json](./411557-maplestory-classic.json) |
 | MapleStory DS | 79942 | [79942-maplestory-ds.json](./79942-maplestory-ds.json) |
 | MapleStory Mayple Island | 299749 | [299749-maplestory-mayple-island.json](./299749-maplestory-mayple-island.json) |
+| Maplestory Odyssey | 226758 | [226758-maplestory-odyssey.json](./226758-maplestory-odyssey.json) |
 | MapleStory: Unmei no Shoujo | 130368 | [130368-maplestory-unmei-no-shoujo.json](./130368-maplestory-unmei-no-shoujo.json) |
 | Maplewood Junior High 2 | 310956 | [310956-maplewood-junior-high-2.json](./310956-maplewood-junior-high-2.json) |
 | Maplewood Junior High: Multimedia Rocks | 310953 | [310953-maplewood-junior-high-multimedia-rocks.json](./310953-maplewood-junior-high-multimedia-rocks.json) |
@@ -693,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
+| Maruja Mallo | 226732 | [226732-maruja-mallo.json](./226732-maruja-mallo.json) |
 | Marvel Disk Wars: Avengers - Ultimate Heroes | 61656 | [61656-marvel-disk-wars-avengers-ultimate-heroes.json](./61656-marvel-disk-wars-avengers-ultimate-heroes.json) |
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
@@ -772,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces: Jigsaw Puzzle - Bonsai | 293065 | [293065-master-of-pieces-jigsaw-puzzle-bonsai.json](./293065-master-of-pieces-jigsaw-puzzle-bonsai.json) |
 | Master of Pieces: Jigsaw Puzzle - Paper Art | 293066 | [293066-master-of-pieces-jigsaw-puzzle-paper-art.json](./293066-master-of-pieces-jigsaw-puzzle-paper-art.json) |
 | Master of Pieces: Jigsaw Puzzles - Cat Family Christmas | 284890 | [284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json](./284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json) |
+| Master of Ski | 226728 | [226728-master-of-ski.json](./226728-master-of-ski.json) |
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
@@ -1332,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
 | Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
+| Merge Dotey | 226774 | [226774-merge-dotey.json](./226774-merge-dotey.json) |
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
@@ -2691,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcycle Mechanic Simulator 2021 | 142478 | [142478-motorcycle-mechanic-simulator-2021.json](./142478-motorcycle-mechanic-simulator-2021.json) |
+| Motorcycle Racing VR | 226725 | [226725-motorcycle-racing-vr.json](./226725-motorcycle-racing-vr.json) |
 | MotoRodeo | 40787 | [40787-motorodeo.json](./40787-motorodeo.json) |
 | Motorsiege: Warriors of Primetime | 44637 | [44637-motorsiege-warriors-of-primetime.json](./44637-motorsiege-warriors-of-primetime.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
@@ -2900,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
 | Murdeer | 395556 | [395556-murdeer.json](./395556-murdeer.json) |
 | Murder | 14158 | [14158-murder.json](./14158-murder.json) |
+| Murder | 226764 | [226764-murder.json](./226764-murder.json) |
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
 | Murder Avenue | 292531 | [292531-murder-avenue.json](./292531-murder-avenue.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
