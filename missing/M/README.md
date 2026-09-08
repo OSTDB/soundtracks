@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Glory | 119763 | [119763-mortal-glory.json](./119763-mortal-glory.json) |
 | Mortal Glory 2: Reign of Tyrants | 311996 | [311996-mortal-glory-2-reign-of-tyrants.json](./311996-mortal-glory-2-reign-of-tyrants.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
+| Mortal Kombat | 220096 | [220096-mortal-kombat.json](./220096-mortal-kombat.json) |
 | Mortal Kombat | 242239 | [242239-mortal-kombat.json](./242239-mortal-kombat.json) |
 | Mortal Kombat 1: Conan the Barbarian | 312343 | [312343-mortal-kombat-1-conan-the-barbarian.json](./312343-mortal-kombat-1-conan-the-barbarian.json) |
 | Mortal Kombat 1: Cyrax | 312332 | [312332-mortal-kombat-1-cyrax.json](./312332-mortal-kombat-1-cyrax.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
 | Mutants Ate My Carrots | 273401 | [273401-mutants-ate-my-carrots.json](./273401-mutants-ate-my-carrots.json) |
 | Mutants Of Mist | 285964 | [285964-mutants-of-mist.json](./285964-mutants-of-mist.json) |
+| Mutants: Genesis | 220144 | [220144-mutants-genesis.json](./220144-mutants-genesis.json) |
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
@@ -3164,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
 | My Little Pony Hair Salon | 287085 | [287085-my-little-pony-hair-salon.json](./287085-my-little-pony-hair-salon.json) |
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
+| My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
 | My Little Prince: A Jigsaw Puzzle Tale | 159852 | [159852-my-little-prince-a-jigsaw-puzzle-tale.json](./159852-my-little-prince-a-jigsaw-puzzle-tale.json) |
 | My Little Puppy | 335660 | [335660-my-little-puppy.json](./335660-my-little-puppy.json) |
 | My Little Riding Champion | 109006 | [109006-my-little-riding-champion.json](./109006-my-little-riding-champion.json) |
