@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pent's Zacky, Zany Road Trip to Adulthood | 326611 | [326611-pents-zacky-zany-road-trip-to-adulthood.json](./326611-pents-zacky-zany-road-trip-to-adulthood.json) |
 | PentaZorg | 278143 | [278143-pentazorg.json](./278143-pentazorg.json) |
 | Penthos | 178070 | [178070-penthos.json](./178070-penthos.json) |
+| Penthouse Interactive: Virtual Photo Shoot Vol. 1 | 254498 | [254498-penthouse-interactive-virtual-photo-shoot-vol-1.json](./254498-penthouse-interactive-virtual-photo-shoot-vol-1.json) |
 | Pentomino | 202422 | [202422-pentomino.json](./202422-pentomino.json) |
 | Penumbra | 177550 | [177550-penumbra.json](./177550-penumbra.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
@@ -689,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
 | Petdise Tycoon | 242232 | [242232-petdise-tycoon.json](./242232-petdise-tycoon.json) |
 | Pete Sampras Tennis 97 | 57672 | [57672-pete-sampras-tennis-97.json](./57672-pete-sampras-tennis-97.json) |
+| Peter Frankl: Puzzle no Tou | 254499 | [254499-peter-frankl-puzzle-no-tou.json](./254499-peter-frankl-puzzle-no-tou.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
@@ -1492,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
 | Pokemon Penumbra Moon | 288205 | [288205-pokemon-penumbra-moon.json](./288205-pokemon-penumbra-moon.json) |
+| Pokémon Pesadilla | 254529 | [254529-pokemon-pesadilla.json](./254529-pokemon-pesadilla.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
@@ -1883,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordio | 400906 | [400906-primordio.json](./400906-primordio.json) |
 | Prin-quest | 364489 | [364489-prin-quest.json](./364489-prin-quest.json) |
+| Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
@@ -1959,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Military Manager: Tactical Auto Battler | 264618 | [264618-private-military-manager-tactical-auto-battler.json](./264618-private-military-manager-tactical-auto-battler.json) |
 | Private Mining Company | 309368 | [309368-private-mining-company.json](./309368-private-mining-company.json) |
 | Private School Days | 89760 | [89760-private-school-days.json](./89760-private-school-days.json) |
+| Private: Pornmania | 254545 | [254545-private-pornmania.json](./254545-private-pornmania.json) |
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Pro Baccarat | 351003 | [351003-pro-baccarat.json](./351003-pro-baccarat.json) |
