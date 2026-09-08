@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
 | One Paradox | 341507 | [341507-one-paradox.json](./341507-one-paradox.json) |
 | One Perfect Day | 264061 | [264061-one-perfect-day.json](./264061-one-perfect-day.json) |
+| One Piece Clicker | 212282 | [212282-one-piece-clicker.json](./212282-one-piece-clicker.json) |
 | One Piece Odyssey | 194837 | [194837-one-piece-odyssey.json](./194837-one-piece-odyssey.json) |
 | One Piece Odyssey: Reunion of Memories | 252387 | [252387-one-piece-odyssey-reunion-of-memories.json](./252387-one-piece-odyssey-reunion-of-memories.json) |
 | One Piece Unlimited World Red: Chopper Edition | 223469 | [223469-one-piece-unlimited-world-red-chopper-edition.json](./223469-one-piece-unlimited-world-red-chopper-edition.json) |
