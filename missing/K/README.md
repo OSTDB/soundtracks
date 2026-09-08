@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
 | Kurohyou: Ryuu ga Gotoku Shinshou | 66611 | [66611-kurohyou-ryuu-ga-gotoku-shinshou.json](./66611-kurohyou-ryuu-ga-gotoku-shinshou.json) |
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
+| Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
 | Kurt: Der Fussballmanager | 171616 | [171616-kurt-der-fussballmanager.json](./171616-kurt-der-fussballmanager.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
