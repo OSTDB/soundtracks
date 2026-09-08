@@ -1098,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
 | Wonka Block Party | 373531 | [373531-wonka-block-party.json](./373531-wonka-block-party.json) |
+| Wood & Weather | 212817 | [212817-wood-and-weather.json](./212817-wood-and-weather.json) |
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
 | Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
@@ -1180,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
+| WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
