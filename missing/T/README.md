@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | Tender Root | 235213 | [235213-tender-root.json](./235213-tender-root.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
+| Tendryll | 211232 | [211232-tendryll.json](./211232-tendryll.json) |
 | Tenebra | 333921 | [333921-tenebra.json](./333921-tenebra.json) |
 | Tenebra | 360014 | [360014-tenebra.json](./360014-tenebra.json) |
 | Tenebrous Dungeon | 115002 | [115002-tenebrous-dungeon.json](./115002-tenebrous-dungeon.json) |
@@ -1474,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Far Kingdoms: Spooky Mosiacs | 337605 | [337605-the-far-kingdoms-spooky-mosiacs.json](./337605-the-far-kingdoms-spooky-mosiacs.json) |
 | The Far Kingdoms: Winter Solitaire | 386131 | [386131-the-far-kingdoms-winter-solitaire.json](./386131-the-far-kingdoms-winter-solitaire.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
+| The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
 | The Fear 2: Creepy Scream House | 96745 | [96745-the-fear-2-creepy-scream-house.json](./96745-the-fear-2-creepy-scream-house.json) |
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
@@ -3162,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoroughbred Breeder III | 37787 | [37787-thoroughbred-breeder-iii.json](./37787-thoroughbred-breeder-iii.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
+| Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Thousand Island Solitaire HD | 355004 | [355004-thousand-island-solitaire-hd.json](./355004-thousand-island-solitaire-hd.json) |
 | Thousands Layered Blade: Reforged | 327168 | [327168-thousands-layered-blade-reforged.json](./327168-thousands-layered-blade-reforged.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
@@ -3677,6 +3680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Rescue | 359443 | [359443-to-the-rescue.json](./359443-to-the-rescue.json) |
 | To the Rescue! 3 | 96038 | [96038-to-the-rescue-3.json](./96038-to-the-rescue-3.json) |
 | To the Rescue! 5 | 87221 | [87221-to-the-rescue-5.json](./87221-to-the-rescue-5.json) |
+| To the Stars | 211235 | [211235-to-the-stars.json](./211235-to-the-stars.json) |
 | To the Stars | 336917 | [336917-to-the-stars.json](./336917-to-the-stars.json) |
 | To the Stars Idle | 396212 | [396212-to-the-stars-idle.json](./396212-to-the-stars-idle.json) |
 | To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
@@ -4216,6 +4220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
 | Trailmakers: Rescue Pack | 293396 | [293396-trailmakers-rescue-pack.json](./293396-trailmakers-rescue-pack.json) |
+| Trailmappers | 211233 | [211233-trailmappers.json](./211233-trailmappers.json) |
 | Trailmarks | 391079 | [391079-trailmarks.json](./391079-trailmarks.json) |
 | Trailpa | 256518 | [256518-trailpa.json](./256518-trailpa.json) |
 | TrailRail | 366850 | [366850-trailrail.json](./366850-trailrail.json) |
@@ -4898,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight of the Gods | 223436 | [223436-twilight-of-the-gods.json](./223436-twilight-of-the-gods.json) |
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
+| Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
 | Twin Cards | 277866 | [277866-twin-cards.json](./277866-twin-cards.json) |
