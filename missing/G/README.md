@@ -363,9 +363,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Crawl: Dungeon Descent | 406136 | [406136-gene-crawl-dungeon-descent.json](./406136-gene-crawl-dungeon-descent.json) |
 | Gene Rain Ultimate & Your Toy Bundle | 301575 | [301575-gene-rain-ultimate-and-your-toy-bundle.json](./301575-gene-rain-ultimate-and-your-toy-bundle.json) |
+| Gene Rain Wind Tower: Ultimate Edition | 249219 | [249219-gene-rain-wind-tower-ultimate-edition.json](./249219-gene-rain-wind-tower-ultimate-edition.json) |
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
 | General Coco | 122392 | [122392-general-coco.json](./122392-general-coco.json) |
+| General Staff: Black Powder | 249226 | [249226-general-staff-black-powder.json](./249226-general-staff-black-powder.json) |
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
@@ -597,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gingerbread Holiday | 373006 | [373006-gingerbread-holiday.json](./373006-gingerbread-holiday.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
+| Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girder & Hearts: Reel Romance | 364500 | [364500-girder-and-hearts-reel-romance.json](./364500-girder-and-hearts-reel-romance.json) |
@@ -1004,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordian Tomb | 73850 | [73850-gordian-tomb.json](./73850-gordian-tomb.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
+| Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
 | Gorgon Shield | 259018 | [259018-gorgon-shield.json](./259018-gorgon-shield.json) |
