@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
+| LEGO DC Super-Villains: DC TV Series Super-Villains Character Pack | 214484 | [214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json](./214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json) |
 | LEGO Dimensions | 11077 | [11077-lego-dimensions.json](./11077-lego-dimensions.json) |
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
 | Lego Harry Potter Years 5-7: Character pack | 255376 | [255376-lego-harry-potter-years-5-7-character-pack.json](./255376-lego-harry-potter-years-5-7-character-pack.json) |
@@ -1408,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
+| Lows Adventures | 214489 | [214489-lows-adventures.json](./214489-lows-adventures.json) |
 | Lowtide | 265981 | [265981-lowtide.json](./265981-lowtide.json) |
 | Loya | 239661 | [239661-loya.json](./239661-loya.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
