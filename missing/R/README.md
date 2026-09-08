@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabit | 340935 | [340935-rabit.json](./340935-rabit.json) |
 | Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
+| Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
@@ -277,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
 | Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
+| Rapid Retort | 211186 | [211186-rapid-retort.json](./211186-rapid-retort.json) |
 | Rapid Roll | 274733 | [274733-rapid-roll.json](./274733-rapid-roll.json) |
 | Rapid Stream 2 | 358846 | [358846-rapid-stream-2.json](./358846-rapid-stream-2.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
