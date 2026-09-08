@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T12:33:53.102Z",
-  "total_missing": 46749,
+  "generated_at": "2026-09-08T12:41:38.333Z",
+  "total_missing": 46748,
   "games": [
     {
       "igdb_id": 306086,
@@ -51,11 +51,6 @@
       "igdb_id": 307298,
       "game_name": "(A)woken",
       "file": "missing/0-9/307298-a-woken.json"
-    },
-    {
-      "igdb_id": 192969,
-      "game_name": "(Dis)assemble",
-      "file": "missing/0-9/192969-dis-assemble.json"
     },
     {
       "igdb_id": 398337,
