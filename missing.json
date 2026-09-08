@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T14:51:05.779Z",
-  "total_missing": 47187,
+  "generated_at": "2026-09-08T15:03:20.802Z",
+  "total_missing": 47236,
   "games": [
     {
       "igdb_id": 306086,
@@ -121,11 +121,6 @@
       "igdb_id": 171045,
       "game_name": "1 Hop",
       "file": "missing/0-9/171045-1-hop.json"
-    },
-    {
-      "igdb_id": 327613,
-      "game_name": "1 Meter",
-      "file": "missing/0-9/327613-1-meter.json"
     },
     {
       "igdb_id": 32199,
@@ -19903,6 +19898,26 @@
       "file": "missing/B/169996-bassmaster-fishing-2022.json"
     },
     {
+      "igdb_id": 225081,
+      "game_name": "Bassmaster Fishing 2022: Elite Fishing Equipment Pack",
+      "file": "missing/B/225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json"
+    },
+    {
+      "igdb_id": 225082,
+      "game_name": "Bassmaster Fishing 2022: Predator Equipment Pack",
+      "file": "missing/B/225082-bassmaster-fishing-2022-predator-equipment-pack.json"
+    },
+    {
+      "igdb_id": 225083,
+      "game_name": "Bassmaster Fishing 2022: Synthwave Pack",
+      "file": "missing/B/225083-bassmaster-fishing-2022-synthwave-pack.json"
+    },
+    {
+      "igdb_id": 225084,
+      "game_name": "Bassmaster Fishing 2022: Throwback B.A.S.S. Pack",
+      "file": "missing/B/225084-bassmaster-fishing-2022-throwback-b-a-s-s-pack.json"
+    },
+    {
       "igdb_id": 240221,
       "game_name": "Bassmaster Fishing: Digital Collector's Edition",
       "file": "missing/B/240221-bassmaster-fishing-digital-collectors-edition.json"
@@ -22966,6 +22981,26 @@
       "igdb_id": 75067,
       "game_name": "Big Drunk Satanic Massacre",
       "file": "missing/B/75067-big-drunk-satanic-massacre.json"
+    },
+    {
+      "igdb_id": 225069,
+      "game_name": "Big Farm Story: Asian Package",
+      "file": "missing/B/225069-big-farm-story-asian-package.json"
+    },
+    {
+      "igdb_id": 225070,
+      "game_name": "Big Farm Story: Peaceful Nature Pack",
+      "file": "missing/B/225070-big-farm-story-peaceful-nature-pack.json"
+    },
+    {
+      "igdb_id": 225068,
+      "game_name": "Big Farm Story: Pet Paradise Pack",
+      "file": "missing/B/225068-big-farm-story-pet-paradise-pack.json"
+    },
+    {
+      "igdb_id": 225066,
+      "game_name": "Big Farm Story: Shiver Night Pack",
+      "file": "missing/B/225066-big-farm-story-shiver-night-pack.json"
     },
     {
       "igdb_id": 244771,
@@ -28968,6 +29003,11 @@
       "file": "missing/B/93565-brickyard-clowns.json"
     },
     {
+      "igdb_id": 225064,
+      "game_name": "Bride Corruption",
+      "file": "missing/B/225064-bride-corruption.json"
+    },
+    {
       "igdb_id": 158192,
       "game_name": "Bride for the Princess",
       "file": "missing/B/158192-bride-for-the-princess.json"
@@ -29781,6 +29821,11 @@
       "igdb_id": 230848,
       "game_name": "Bubbles Master",
       "file": "missing/B/230848-bubbles-master.json"
+    },
+    {
+      "igdb_id": 225063,
+      "game_name": "Bubbles Swimsuit",
+      "file": "missing/B/225063-bubbles-swimsuit.json"
     },
     {
       "igdb_id": 256528,
@@ -30691,6 +30736,16 @@
       "igdb_id": 130938,
       "game_name": "Bus Simulator",
       "file": "missing/B/130938-bus-simulator.json"
+    },
+    {
+      "igdb_id": 225061,
+      "game_name": "Bus Simulator 18: Man Bus Pack 1",
+      "file": "missing/B/225061-bus-simulator-18-man-bus-pack-1.json"
+    },
+    {
+      "igdb_id": 225062,
+      "game_name": "Bus Simulator 18: Mercedes-Benz Bus Pack 1",
+      "file": "missing/B/225062-bus-simulator-18-mercedes-benz-bus-pack-1.json"
     },
     {
       "igdb_id": 241060,
@@ -53798,9 +53853,24 @@
       "file": "missing/D/28192-djmax-respect.json"
     },
     {
+      "igdb_id": 225060,
+      "game_name": "DJMax Respect V: Emotional Sense Pack",
+      "file": "missing/D/225060-djmax-respect-v-emotional-sense-pack.json"
+    },
+    {
       "igdb_id": 239342,
       "game_name": "DJMax Respect V: Ez2on Pack",
       "file": "missing/D/239342-djmax-respect-v-ez2on-pack.json"
+    },
+    {
+      "igdb_id": 225059,
+      "game_name": "DJMax Respect V: Groove Coaster Pack",
+      "file": "missing/D/225059-djmax-respect-v-groove-coaster-pack.json"
+    },
+    {
+      "igdb_id": 225058,
+      "game_name": "DJMax Respect V: Technika Pack",
+      "file": "missing/D/225058-djmax-respect-v-technika-pack.json"
     },
     {
       "igdb_id": 231633,
@@ -99213,6 +99283,11 @@
       "file": "missing/I/296942-isekai-awakening.json"
     },
     {
+      "igdb_id": 225065,
+      "game_name": "Isekai Brick Breaker",
+      "file": "missing/I/225065-isekai-brick-breaker.json"
+    },
+    {
       "igdb_id": 388726,
       "game_name": "Isekai HKV",
       "file": "missing/I/388726-isekai-hkv.json"
@@ -137708,6 +137783,11 @@
       "file": "missing/N/282550-nothing.json"
     },
     {
+      "igdb_id": 225067,
+      "game_name": "Nothing to Declare",
+      "file": "missing/N/225067-nothing-to-declare.json"
+    },
+    {
       "igdb_id": 237620,
       "game_name": "Nothing to Lose",
       "file": "missing/N/237620-nothing-to-lose.json"
@@ -166168,6 +166248,11 @@
       "file": "missing/R/297456-rubber-bandits-animal-bandits.json"
     },
     {
+      "igdb_id": 225071,
+      "game_name": "Rubber Bandits: Go Wild Pack",
+      "file": "missing/R/225071-rubber-bandits-go-wild-pack.json"
+    },
+    {
       "igdb_id": 404862,
       "game_name": "Rubber Bird",
       "file": "missing/R/404862-rubber-bird.json"
@@ -166296,6 +166381,11 @@
       "igdb_id": 240817,
       "game_name": "Rugby Sevens 23",
       "file": "missing/R/240817-rugby-sevens-23.json"
+    },
+    {
+      "igdb_id": 225072,
+      "game_name": "Rugby Union Team Manager 4",
+      "file": "missing/R/225072-rugby-union-team-manager-4.json"
     },
     {
       "igdb_id": 299152,
@@ -166506,6 +166596,11 @@
       "igdb_id": 332988,
       "game_name": "Run Pizza Run 2",
       "file": "missing/R/332988-run-pizza-run-2.json"
+    },
+    {
+      "igdb_id": 225073,
+      "game_name": "Run Run Boy",
+      "file": "missing/R/225073-run-run-boy.json"
     },
     {
       "igdb_id": 247754,
@@ -167236,6 +167331,11 @@
       "igdb_id": 302386,
       "game_name": "S.I.P. SE: Safety is Power",
       "file": "missing/S/302386-s-i-p-se-safety-is-power.json"
+    },
+    {
+      "igdb_id": 225097,
+      "game_name": "S.M.A.C.K.",
+      "file": "missing/S/225097-s-m-a-c-k.json"
     },
     {
       "igdb_id": 86092,
@@ -168473,6 +168573,11 @@
       "file": "missing/S/191858-sanctuarium-online.json"
     },
     {
+      "igdb_id": 225076,
+      "game_name": "Sanctum: Map Pack 2",
+      "file": "missing/S/225076-sanctum-map-pack-2.json"
+    },
+    {
       "igdb_id": 235775,
       "game_name": "Sanctus",
       "file": "missing/S/235775-sanctus.json"
@@ -168823,6 +168928,11 @@
       "file": "missing/S/279588-santas-factory.json"
     },
     {
+      "igdb_id": 225074,
+      "game_name": "Santa's Gifts",
+      "file": "missing/S/225074-santas-gifts.json"
+    },
+    {
       "igdb_id": 378769,
       "game_name": "Santa's Gifts Load",
       "file": "missing/S/378769-santas-gifts-load.json"
@@ -169096,6 +169206,11 @@
       "igdb_id": 69890,
       "game_name": "Savage: The Ultimate Quest for Survival",
       "file": "missing/S/69890-savage-the-ultimate-quest-for-survival.json"
+    },
+    {
+      "igdb_id": 225075,
+      "game_name": "Savage: Ultimate Boss Fight",
+      "file": "missing/S/225075-savage-ultimate-boss-fight.json"
     },
     {
       "igdb_id": 245867,
@@ -170278,6 +170393,21 @@
       "file": "missing/S/238486-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-1.json"
     },
     {
+      "igdb_id": 225077,
+      "game_name": "SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 3",
+      "file": "missing/S/225077-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-3.json"
+    },
+    {
+      "igdb_id": 225078,
+      "game_name": "SD Gundam G Generation Cross Rays: Added Dispatch Mission Set 4",
+      "file": "missing/S/225078-sd-gundam-g-generation-cross-rays-added-dispatch-mission-set-4.json"
+    },
+    {
+      "igdb_id": 225079,
+      "game_name": "SD Gundam G Generation Cross Rays: Expansion Pack",
+      "file": "missing/S/225079-sd-gundam-g-generation-cross-rays-expansion-pack.json"
+    },
+    {
       "igdb_id": 64968,
       "game_name": "SD Hiryuu no Ken Gaiden",
       "file": "missing/S/64968-sd-hiryuu-no-ken-gaiden.json"
@@ -170956,6 +171086,11 @@
       "igdb_id": 220877,
       "game_name": "Seduced in the Sleepless City",
       "file": "missing/S/220877-seduced-in-the-sleepless-city.json"
+    },
+    {
+      "igdb_id": 225080,
+      "game_name": "Seductive Solitude",
+      "file": "missing/S/225080-seductive-solitude.json"
     },
     {
       "igdb_id": 97903,
@@ -172286,6 +172421,11 @@
       "igdb_id": 166766,
       "game_name": "Shadow Eclipse",
       "file": "missing/S/166766-shadow-eclipse.json"
+    },
+    {
+      "igdb_id": 225088,
+      "game_name": "Shadow Empire: Oceania",
+      "file": "missing/S/225088-shadow-empire-oceania.json"
     },
     {
       "igdb_id": 311258,
@@ -176073,6 +176213,11 @@
       "file": "missing/S/306336-sirkwitz.json"
     },
     {
+      "igdb_id": 225091,
+      "game_name": "Sisters of Sweetwater",
+      "file": "missing/S/225091-sisters-of-sweetwater.json"
+    },
+    {
       "igdb_id": 340369,
       "game_name": "Sisyphus",
       "file": "missing/S/340369-sisyphus.json"
@@ -176091,6 +176236,11 @@
       "igdb_id": 268762,
       "game_name": "Sitnalta",
       "file": "missing/S/268762-sitnalta.json"
+    },
+    {
+      "igdb_id": 225092,
+      "game_name": "Sitri: Shadow Walk",
+      "file": "missing/S/225092-sitri-shadow-walk.json"
     },
     {
       "igdb_id": 91456,
@@ -176156,6 +176306,11 @@
       "igdb_id": 293402,
       "game_name": "Sixtar Gate: Startrail - Dystopia Pack",
       "file": "missing/S/293402-sixtar-gate-startrail-dystopia-pack.json"
+    },
+    {
+      "igdb_id": 225093,
+      "game_name": "Sixtar Gate: Startrail - Flower & Destiny Pack",
+      "file": "missing/S/225093-sixtar-gate-startrail-flower-and-destiny-pack.json"
     },
     {
       "igdb_id": 284913,
@@ -176281,6 +176436,11 @@
       "igdb_id": 272579,
       "game_name": "SkateNationXL",
       "file": "missing/S/272579-skatenationxl.json"
+    },
+    {
+      "igdb_id": 225094,
+      "game_name": "Skater XL: Tampa Pro 2022 Gear Pack For Charity",
+      "file": "missing/S/225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json"
     },
     {
       "igdb_id": 19481,
@@ -177603,6 +177763,11 @@
       "file": "missing/S/177008-slippery-ice.json"
     },
     {
+      "igdb_id": 225100,
+      "game_name": "Slippery Richard!: He's Taller Than My Husband",
+      "file": "missing/S/225100-slippery-richard-hes-taller-than-my-husband.json"
+    },
+    {
       "igdb_id": 252982,
       "game_name": "Slippery Sammy",
       "file": "missing/S/252982-slippery-sammy.json"
@@ -177711,6 +177876,11 @@
       "igdb_id": 28893,
       "game_name": "Slug Blast",
       "file": "missing/S/28893-slug-blast.json"
+    },
+    {
+      "igdb_id": 225098,
+      "game_name": "Slugmania",
+      "file": "missing/S/225098-slugmania.json"
     },
     {
       "igdb_id": 327630,
@@ -192008,6 +192178,11 @@
       "file": "missing/S/120989-super-pig.json"
     },
     {
+      "igdb_id": 225101,
+      "game_name": "Super Planet Life",
+      "file": "missing/S/225101-super-planet-life.json"
+    },
+    {
       "igdb_id": 327197,
       "game_name": "Super Pocket: Atari Edition",
       "file": "missing/S/327197-super-pocket-atari-edition.json"
@@ -195618,6 +195793,11 @@
       "file": "missing/T/318795-tales-of-a-turnabout.json"
     },
     {
+      "igdb_id": 225102,
+      "game_name": "Tales of Agaris: The Legendary Rion",
+      "file": "missing/T/225102-tales-of-agaris-the-legendary-rion.json"
+    },
+    {
       "igdb_id": 171632,
       "game_name": "Tales of Aravorn: Seasons Of The Wolf - Bad Blood",
       "file": "missing/T/171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json"
@@ -195691,6 +195871,11 @@
       "igdb_id": 319551,
       "game_name": "Tales of Rein Ravine",
       "file": "missing/T/319551-tales-of-rein-ravine.json"
+    },
+    {
+      "igdb_id": 225103,
+      "game_name": "Tales of Spark",
+      "file": "missing/T/225103-tales-of-spark.json"
     },
     {
       "igdb_id": 139428,
@@ -198916,6 +199101,11 @@
       "igdb_id": 8777,
       "game_name": "The Adventures of Rad Gravity",
       "file": "missing/T/8777-the-adventures-of-rad-gravity.json"
+    },
+    {
+      "igdb_id": 225104,
+      "game_name": "The Adventures of Snacky",
+      "file": "missing/T/225104-the-adventures-of-snacky.json"
     },
     {
       "igdb_id": 18284,
@@ -224083,6 +224273,21 @@
       "file": "missing/V/62188-vital-force.json"
     },
     {
+      "igdb_id": 225107,
+      "game_name": "Vital Signs: Emergency Department - Infections Package",
+      "file": "missing/V/225107-vital-signs-emergency-department-infections-package.json"
+    },
+    {
+      "igdb_id": 225105,
+      "game_name": "Vital Signs: Emergency Department - Injuries Package #1",
+      "file": "missing/V/225105-vital-signs-emergency-department-injuries-package-1.json"
+    },
+    {
+      "igdb_id": 225106,
+      "game_name": "Vital Signs: Emergency Department - Injuries Package #2",
+      "file": "missing/V/225106-vital-signs-emergency-department-injuries-package-2.json"
+    },
+    {
       "igdb_id": 399000,
       "game_name": "Vitalis",
       "file": "missing/V/399000-vitalis.json"
@@ -231538,6 +231743,26 @@
       "file": "missing/W/163430-worms-reloaded-puzzle-pack.json"
     },
     {
+      "igdb_id": 225085,
+      "game_name": "Worms Revolution: Customization Pack",
+      "file": "missing/W/225085-worms-revolution-customization-pack.json"
+    },
+    {
+      "igdb_id": 225086,
+      "game_name": "Worms Rumble: Bank Heist Double Pack",
+      "file": "missing/W/225086-worms-rumble-bank-heist-double-pack.json"
+    },
+    {
+      "igdb_id": 225087,
+      "game_name": "Worms Rumble: Captain & Shark Double Pack",
+      "file": "missing/W/225087-worms-rumble-captain-and-shark-double-pack.json"
+    },
+    {
+      "igdb_id": 225089,
+      "game_name": "Worms Rumble: Honor & Death Pack",
+      "file": "missing/W/225089-worms-rumble-honor-and-death-pack.json"
+    },
+    {
       "igdb_id": 5290,
       "game_name": "Worms: A Space Oddity",
       "file": "missing/W/5290-worms-a-space-oddity.json"
@@ -231556,6 +231781,11 @@
       "igdb_id": 24938,
       "game_name": "Worms: Reinforcements",
       "file": "missing/W/24938-worms-reinforcements.json"
+    },
+    {
+      "igdb_id": 225090,
+      "game_name": "Worms: Ultimate Mayhem - Customization Pack",
+      "file": "missing/W/225090-worms-ultimate-mayhem-customization-pack.json"
     },
     {
       "igdb_id": 275344,
@@ -232323,9 +232553,24 @@
       "file": "missing/X/339813-xbox-party-mansion.json"
     },
     {
+      "igdb_id": 225099,
+      "game_name": "XCOM 2: Reinforcement Pack",
+      "file": "missing/X/225099-xcom-2-reinforcement-pack.json"
+    },
+    {
+      "igdb_id": 225096,
+      "game_name": "XCOM 2: Resistance Warrior Pack",
+      "file": "missing/X/225096-xcom-2-resistance-warrior-pack.json"
+    },
+    {
       "igdb_id": 19859,
       "game_name": "XCOM 2: Shen's Last Gift",
       "file": "missing/X/19859-xcom-2-shens-last-gift.json"
+    },
+    {
+      "igdb_id": 225095,
+      "game_name": "XCOM: Enemy Unknown - Slingshot Pack",
+      "file": "missing/X/225095-xcom-enemy-unknown-slingshot-pack.json"
     },
     {
       "igdb_id": 364511,
