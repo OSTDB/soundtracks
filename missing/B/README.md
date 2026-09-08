@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babaliba | 45339 | [45339-babaliba.json](./45339-babaliba.json) |
 | Babava's Playspace | 278974 | [278974-babavas-playspace.json](./278974-babavas-playspace.json) |
 | Babe and Friends | 245571 | [245571-babe-and-friends.json](./245571-babe-and-friends.json) |
+| Babe or Grave | 212288 | [212288-babe-or-grave.json](./212288-babe-or-grave.json) |
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
 | Babel Defense | 338174 | [338174-babel-defense.json](./338174-babel-defense.json) |
 | Babel Deluxe | 63897 | [63897-babel-deluxe.json](./63897-babel-deluxe.json) |
@@ -1118,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
 | Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
 | Beyond the Grove | 341905 | [341905-beyond-the-grove.json](./341905-beyond-the-grove.json) |
+| Beyond the Harbor: R | 212251 | [212251-beyond-the-harbor-r.json](./212251-beyond-the-harbor-r.json) |
 | Beyond the Horizon | 51984 | [51984-beyond-the-horizon.json](./51984-beyond-the-horizon.json) |
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
 | Beyond the Illusions | 387324 | [387324-beyond-the-illusions.json](./387324-beyond-the-illusions.json) |
@@ -2416,7 +2418,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Briganty: The Roots of Darkness | 73820 | [73820-briganty-the-roots-of-darkness.json](./73820-briganty-the-roots-of-darkness.json) |
 | Bright Lancer | 141881 | [141881-bright-lancer.json](./141881-bright-lancer.json) |
+| Bright Memory: Infinite - Platinum Edition | 212286 | [212286-bright-memory-infinite-platinum-edition.json](./212286-bright-memory-infinite-platinum-edition.json) |
 | Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
+| Bright Paw: Definitive Edition | 212285 | [212285-bright-paw-definitive-edition.json](./212285-bright-paw-definitive-edition.json) |
 | Bright Reappear | 254171 | [254171-bright-reappear.json](./254171-bright-reappear.json) |
 | Bright Side: Riddles & Puzzles | 265393 | [265393-bright-side-riddles-and-puzzles.json](./265393-bright-side-riddles-and-puzzles.json) |
 | Bright Sky: The Watch of the Future | 413006 | [413006-bright-sky-the-watch-of-the-future.json](./413006-bright-sky-the-watch-of-the-future.json) |
