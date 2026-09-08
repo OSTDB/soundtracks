@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mayhem | 351608 | [351608-monster-mayhem.json](./351608-monster-mayhem.json) |
 | Monster Medic | 18236 | [18236-monster-medic.json](./18236-monster-medic.json) |
 | Monster Meltdown | 63284 | [63284-monster-meltdown.json](./63284-monster-meltdown.json) |
+| Monster Memory | 247498 | [247498-monster-memory.json](./247498-monster-memory.json) |
 | Monster Menu: The Scavenger's Cookbook | 216579 | [216579-monster-menu-the-scavengers-cookbook.json](./216579-monster-menu-the-scavengers-cookbook.json) |
 | Monster Merchant | 370669 | [370669-monster-merchant.json](./370669-monster-merchant.json) |
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
@@ -2819,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery J: Special Stamp - Susan | 325466 | [325466-murder-mystery-j-special-stamp-susan.json](./325466-murder-mystery-j-special-stamp-susan.json) |
 | Murder Mystery J: Special Stamp - Thomas | 325469 | [325469-murder-mystery-j-special-stamp-thomas.json](./325469-murder-mystery-j-special-stamp-thomas.json) |
 | Murder Mystery J: Special Stamp - Vanilla | 325480 | [325480-murder-mystery-j-special-stamp-vanilla.json](./325480-murder-mystery-j-special-stamp-vanilla.json) |
+| Murder Mystery Paradox: Fifteen Years of Summer | 247526 | [247526-murder-mystery-paradox-fifteen-years-of-summer.json](./247526-murder-mystery-paradox-fifteen-years-of-summer.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
@@ -2992,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
 | My Magical Demon Lover | 109628 | [109628-my-magical-demon-lover.json](./109628-my-magical-demon-lover.json) |
+| My Merry Maybe | 247509 | [247509-my-merry-maybe.json](./247509-my-merry-maybe.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
 | My Moorhen | 282549 | [282549-my-moorhen.json](./282549-my-moorhen.json) |
