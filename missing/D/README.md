@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
+| Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
@@ -458,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Fault | 228082 | [228082-dead-mans-fault.json](./228082-dead-mans-fault.json) |
 | Dead Man's Hand | 5809 | [5809-dead-mans-hand.json](./5809-dead-mans-hand.json) |
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
+| Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
 | Dead or Alive 2 Ultimate | 47302 | [47302-dead-or-alive-2-ultimate.json](./47302-dead-or-alive-2-ultimate.json) |
@@ -1225,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensions | 249474 | [249474-dimensions.json](./249474-dimensions.json) |
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
+| Dimraeth | 249202 | [249202-dimraeth.json](./249202-dimraeth.json) |
 | Dimwarper | 215884 | [215884-dimwarper.json](./215884-dimwarper.json) |
 | Din's Curse | 8820 | [8820-dins-curse.json](./8820-dins-curse.json) |
 | Dinah's Dreamwoods | 399601 | [399601-dinahs-dreamwoods.json](./399601-dinahs-dreamwoods.json) |
@@ -1764,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
+| Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
 | Doomsday Overture | 280237 | [280237-doomsday-overture.json](./280237-doomsday-overture.json) |
 | Doomworld Mega Project 2012 | 260955 | [260955-doomworld-mega-project-2012.json](./260955-doomworld-mega-project-2012.json) |
@@ -1914,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
+| Dracula’s Vengeance | 249206 | [249206-dracula-s-vengeance.json](./249206-dracula-s-vengeance.json) |
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2022 | 191891 | [191891-draft-day-sports-college-basketball-2022.json](./191891-draft-day-sports-college-basketball-2022.json) |
