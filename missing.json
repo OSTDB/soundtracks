@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T12:51:06.417Z",
-  "total_missing": 50541,
+  "generated_at": "2026-09-09T13:01:13.606Z",
+  "total_missing": 50544,
   "games": [
     {
       "igdb_id": 306086,
@@ -801,11 +801,6 @@
       "igdb_id": 339249,
       "game_name": "20 Challenges: Episode 2 - Witchcraft",
       "file": "missing/0-9/339249-20-challenges-episode-2-witchcraft.json"
-    },
-    {
-      "igdb_id": 339244,
-      "game_name": "20 Challenges: Episode 3 - The Tale from a Bone",
-      "file": "missing/0-9/339244-20-challenges-episode-3-the-tale-from-a-bone.json"
     },
     {
       "igdb_id": 371267,
@@ -74951,6 +74946,11 @@
       "igdb_id": 114416,
       "game_name": "Fishing Universe Simulator",
       "file": "missing/F/114416-fishing-universe-simulator.json"
+    },
+    {
+      "igdb_id": 188055,
+      "game_name": "Fishing: North Atlantic - Enhanced Edition",
+      "file": "missing/F/188055-fishing-north-atlantic-enhanced-edition.json"
     },
     {
       "igdb_id": 313679,
@@ -206463,6 +206463,11 @@
       "file": "missing/S/203382-surviving-the-aftermath-new-alliances.json"
     },
     {
+      "igdb_id": 188054,
+      "game_name": "Surviving the Aftermath: Ultimate Colony Edition",
+      "file": "missing/S/188054-surviving-the-aftermath-ultimate-colony-edition.json"
+    },
+    {
       "igdb_id": 92524,
       "game_name": "Surviving West",
       "file": "missing/S/92524-surviving-west.json"
@@ -232168,6 +232173,11 @@
       "file": "missing/T/922-tribes-2.json"
     },
     {
+      "igdb_id": 188051,
+      "game_name": "Tribes Warfare",
+      "file": "missing/T/188051-tribes-warfare.json"
+    },
+    {
       "igdb_id": 923,
       "game_name": "Tribes: Vengeance",
       "file": "missing/T/923-tribes-vengeance.json"
@@ -241201,6 +241211,11 @@
       "igdb_id": 343242,
       "game_name": "Walking on Ice",
       "file": "missing/W/343242-walking-on-ice.json"
+    },
+    {
+      "igdb_id": 188052,
+      "game_name": "Walking Simulator",
+      "file": "missing/W/188052-walking-simulator.json"
     },
     {
       "igdb_id": 35787,
