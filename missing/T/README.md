@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hangman | 264609 | [264609-the-hangman.json](./264609-the-hangman.json) |
 | The Hangman's Noose | 58222 | [58222-the-hangmans-noose.json](./58222-the-hangmans-noose.json) |
 | The Happy Hereafter | 17521 | [17521-the-happy-hereafter.json](./17521-the-happy-hereafter.json) |
+| The Happyhills Homicide | 209496 | [209496-the-happyhills-homicide.json](./209496-the-happyhills-homicide.json) |
 | The Hardest BrickBreaker | 113708 | [113708-the-hardest-brickbreaker.json](./113708-the-hardest-brickbreaker.json) |
 | The Hardest Game in the Universe 2: Bridging to the Third Chapter | 310404 | [310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json](./310404-the-hardest-game-in-the-universe-2-bridging-to-the-third-chapter.json) |
 | The Hardest Game in the Universe: DLC 3 | 306069 | [306069-the-hardest-game-in-the-universe-dlc-3.json](./306069-the-hardest-game-in-the-universe-dlc-3.json) |
@@ -2862,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
+| The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
 | The Tudors | 10986 | [10986-the-tudors.json](./10986-the-tudors.json) |
 | The Turgenev Study | 222885 | [222885-the-turgenev-study.json](./222885-the-turgenev-study.json) |
 | The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
@@ -4055,7 +4057,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
 | Touhou Spell Bubble: Character Pack Hong Meiling | 246646 | [246646-touhou-spell-bubble-character-pack-hong-meiling.json](./246646-touhou-spell-bubble-character-pack-hong-meiling.json) |
+| Touhou Spell Bubble: Character Pack Kogasa Tatara | 209492 | [209492-touhou-spell-bubble-character-pack-kogasa-tatara.json](./209492-touhou-spell-bubble-character-pack-kogasa-tatara.json) |
 | Touhou Spell Bubble: Diao ye zong - Song Pack | 209169 | [209169-touhou-spell-bubble-diao-ye-zong-song-pack.json](./209169-touhou-spell-bubble-diao-ye-zong-song-pack.json) |
+| Touhou Spell Bubble: Scarlet Devil Land Arrange Song Pack Vol.2 | 209468 | [209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json](./209468-touhou-spell-bubble-scarlet-devil-land-arrange-song-pack-vol-2.json) |
 | Touhou Spell Bubble: Touhou Collaborations Pack | 209147 | [209147-touhou-spell-bubble-touhou-collaborations-pack.json](./209147-touhou-spell-bubble-touhou-collaborations-pack.json) |
 | Touhou Spell Bubble: Touhou Eiyashou - Arrangements Pack | 209125 | [209125-touhou-spell-bubble-touhou-eiyashou-arrangements-pack.json](./209125-touhou-spell-bubble-touhou-eiyashou-arrangements-pack.json) |
 | Touhou Spell Bubble: Touhou Eurobeat Pack | 209135 | [209135-touhou-spell-bubble-touhou-eurobeat-pack.json](./209135-touhou-spell-bubble-touhou-eurobeat-pack.json) |
@@ -4894,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
+| TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
