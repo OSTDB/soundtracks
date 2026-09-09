@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
 | Unicycle Together | 389403 | [389403-unicycle-together.json](./389403-unicycle-together.json) |
+| Unikitty! Save the Kingdom! | 199029 | [199029-unikitty-save-the-kingdom.json](./199029-unikitty-save-the-kingdom.json) |
 | Unimime: Unicycle Madness | 251594 | [251594-unimime-unicycle-madness.json](./251594-unimime-unicycle-madness.json) |
 | Uninvited: MacVenture Series | 35912 | [35912-uninvited-macventure-series.json](./35912-uninvited-macventure-series.json) |
 | Union | 226751 | [226751-union.json](./226751-union.json) |
