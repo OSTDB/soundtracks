@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
+| Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
 | Knock on the Coffin Lid | 131645 | [131645-knock-on-the-coffin-lid.json](./131645-knock-on-the-coffin-lid.json) |
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
 | Knock-knock | 13153 | [13153-knock-knock.json](./13153-knock-knock.json) |
