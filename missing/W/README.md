@@ -240,6 +240,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
 | Wargame: Red Dragon - Complete Edition | 53887 | [53887-wargame-red-dragon-complete-edition.json](./53887-wargame-red-dragon-complete-edition.json) |
+| Wargame: Red Dragon - Nation Pack: Netherlands | 170456 | [170456-wargame-red-dragon-nation-pack-netherlands.json](./170456-wargame-red-dragon-nation-pack-netherlands.json) |
+| Wargame: Red Dragon - Norse Dragons | 170454 | [170454-wargame-red-dragon-norse-dragons.json](./170454-wargame-red-dragon-norse-dragons.json) |
+| Wargame: Red Dragon - Second Korean War | 170455 | [170455-wargame-red-dragon-second-korean-war.json](./170455-wargame-red-dragon-second-korean-war.json) |
+| Wargame: Red Dragon - The Millionth Mile | 170457 | [170457-wargame-red-dragon-the-millionth-mile.json](./170457-wargame-red-dragon-the-millionth-mile.json) |
 | Warhammer 40,000: Armageddon - Angels of Death | 53889 | [53889-warhammer-40-000-armageddon-angels-of-death.json](./53889-warhammer-40-000-armageddon-angels-of-death.json) |
 | Warhammer 40,000: Armageddon - Glory of Macragge | 53890 | [53890-warhammer-40-000-armageddon-glory-of-macragge.json](./53890-warhammer-40-000-armageddon-glory-of-macragge.json) |
 | Warhammer 40,000: Armageddon - Golgotha | 53891 | [53891-warhammer-40-000-armageddon-golgotha.json](./53891-warhammer-40-000-armageddon-golgotha.json) |
