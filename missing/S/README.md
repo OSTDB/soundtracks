@@ -1542,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
 | Short Snow | 309867 | [309867-short-snow.json](./309867-short-snow.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
+| Shot Dawn | 197355 | [197355-shot-dawn.json](./197355-shot-dawn.json) |
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
@@ -2448,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite V2: Game of the Year Edition | 44654 | [44654-sniper-elite-v2-game-of-the-year-edition.json](./44654-sniper-elite-v2-game-of-the-year-edition.json) |
 | Sniper Ghost Warrior Contracts 2 | 138980 | [138980-sniper-ghost-warrior-contracts-2.json](./138980-sniper-ghost-warrior-contracts-2.json) |
 | Sniper Ghost Warrior Contracts 2: Butcher's Banquet | 159362 | [159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json](./159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json) |
+| Sniper Ghost Warrior Contracts 2: Complete Edition | 197352 | [197352-sniper-ghost-warrior-contracts-2-complete-edition.json](./197352-sniper-ghost-warrior-contracts-2-complete-edition.json) |
 | Sniper Ghost Warrior Contracts: Full Arsenal Edition | 199639 | [199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json](./199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json) |
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
 | Sniper Ops 3D | 88297 | [88297-sniper-ops-3d.json](./88297-sniper-ops-3d.json) |
@@ -2691,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
+| Solos | 197318 | [197318-solos.json](./197318-solos.json) |
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
 | Solraid | 200633 | [200633-solraid.json](./200633-solraid.json) |
 | Solse AI-Quest | 290938 | [290938-solse-ai-quest.json](./290938-solse-ai-quest.json) |
@@ -3113,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
 | Sound Shooting!! Rhythm Shooter | 362812 | [362812-sound-shooting-rhythm-shooter.json](./362812-sound-shooting-rhythm-shooter.json) |
 | Sound Slide | 114378 | [114378-sound-slide.json](./114378-sound-slide.json) |
+| Sound Voltex: Ultimate Mobile | 197332 | [197332-sound-voltex-ultimate-mobile.json](./197332-sound-voltex-ultimate-mobile.json) |
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
 | Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
@@ -3928,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Guard | 185136 | [185136-star-guard.json](./185136-star-guard.json) |
 | Star Gun | 348780 | [348780-star-gun.json](./348780-star-gun.json) |
 | Star gunner | 40795 | [40795-star-gunner.json](./40795-star-gunner.json) |
+| Star Hacker | 197364 | [197364-star-hacker.json](./197364-star-hacker.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
 | Star Impact | 117035 | [117035-star-impact.json](./117035-star-impact.json) |
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
@@ -4312,6 +4317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
+| Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
 | Stickman 3D Tennis: Deluxe | 404210 | [404210-stickman-3d-tennis-deluxe.json](./404210-stickman-3d-tennis-deluxe.json) |
 | Stickman 3D Wingsuit: Deluxe | 406699 | [406699-stickman-3d-wingsuit-deluxe.json](./406699-stickman-3d-wingsuit-deluxe.json) |
 | Stickman Arc Hero Fight | 235234 | [235234-stickman-arc-hero-fight.json](./235234-stickman-arc-hero-fight.json) |
@@ -5405,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
+| Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
 | Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
 | Super Wonder Boy in Monster Land | 327845 | [327845-super-wonder-boy-in-monster-land.json](./327845-super-wonder-boy-in-monster-land.json) |
 | Super Word Challenge | 208351 | [208351-super-word-challenge.json](./208351-super-word-challenge.json) |
