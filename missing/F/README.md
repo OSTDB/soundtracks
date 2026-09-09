@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
 | Fania | 258471 | [258471-fania.json](./258471-fania.json) |
 | Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
+| Fantashooting 2 | 208977 | [208977-fantashooting-2.json](./208977-fantashooting-2.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
 | Fantasia Sango 3 | 188658 | [188658-fantasia-sango-3.json](./188658-fantasia-sango-3.json) |
 | Fantasia Sango 4 | 188657 | [188657-fantasia-sango-4.json](./188657-fantasia-sango-4.json) |
@@ -550,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FeedBack | 381012 | [381012-feedback.json](./381012-feedback.json) |
 | Feeding Frenzy 2: Shipwreck Showdown | 8321 | [8321-feeding-frenzy-2-shipwreck-showdown.json](./8321-feeding-frenzy-2-shipwreck-showdown.json) |
 | Feel the Fear Around | 310737 | [310737-feel-the-fear-around.json](./310737-feel-the-fear-around.json) |
+| Feeling Arrow | 208975 | [208975-feeling-arrow.json](./208975-feeling-arrow.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
 | Felix in the Factory | 13713 | [13713-felix-in-the-factory.json](./13713-felix-in-the-factory.json) |
@@ -2038,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
+| Fun Feud Trivia | 208974 | [208974-fun-feud-trivia.json](./208974-fun-feud-trivia.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
 | Fun Run | 257410 | [257410-fun-run.json](./257410-fun-run.json) |
