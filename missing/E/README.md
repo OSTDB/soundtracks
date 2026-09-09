@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emorrior | 197876 | [197876-emorrior.json](./197876-emorrior.json) |
 | Emote Guesser | 252732 | [252732-emote-guesser.json](./252732-emote-guesser.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
+| Emotions: A Day In A Life | 178603 | [178603-emotions-a-day-in-a-life.json](./178603-emotions-a-day-in-a-life.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
 | Empire in Decay | 352199 | [352199-empire-in-decay.json](./352199-empire-in-decay.json) |
@@ -1167,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
 | Evoker's Gambit | 333361 | [333361-evokers-gambit.json](./333361-evokers-gambit.json) |
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
+| Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
 | Evolution | 370144 | [370144-evolution.json](./370144-evolution.json) |
 | Evolution Board Game: Climate Expansion | 238214 | [238214-evolution-board-game-climate-expansion.json](./238214-evolution-board-game-climate-expansion.json) |
 | Evolution Merge: Eat and Grow | 221378 | [221378-evolution-merge-eat-and-grow.json](./221378-evolution-merge-eat-and-grow.json) |
