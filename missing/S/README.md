@@ -1744,8 +1744,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon's Cat in Purrfect Pitch | 233208 | [233208-simons-cat-in-purrfect-pitch.json](./233208-simons-cat-in-purrfect-pitch.json) |
 | Simon's Journey | 71002 | [71002-simons-journey.json](./71002-simons-journey.json) |
 | Simple 1500 Series Vol. 11: The Pinball 3D | 19671 | [19671-simple-1500-series-vol-11-the-pinball-3d.json](./19671-simple-1500-series-vol-11-the-pinball-3d.json) |
+| Simple 1500 Series Vol. 12: The Quiz | 209497 | [209497-simple-1500-series-vol-12-the-quiz.json](./209497-simple-1500-series-vol-12-the-quiz.json) |
+| Simple 1500 Series Vol. 15: The Pachinko | 209498 | [209498-simple-1500-series-vol-15-the-pachinko.json](./209498-simple-1500-series-vol-15-the-pachinko.json) |
+| Simple 1500 Series Vol. 16: The Pachislot | 209499 | [209499-simple-1500-series-vol-16-the-pachislot.json](./209499-simple-1500-series-vol-16-the-pachislot.json) |
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
+| Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
 | Simple 2000 Series 2-in-1 Vol. 4: The Bushido & The Sniper 2 | 57131 | [57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json](./57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json) |
 | Simple 2000 Series Portable Vol. 1: The Mahjong | 82135 | [82135-simple-2000-series-portable-vol-1-the-mahjong.json](./82135-simple-2000-series-portable-vol-1-the-mahjong.json) |
 | Simple 2000 Series Vol. 14: The Billiard | 335904 | [335904-simple-2000-series-vol-14-the-billiard.json](./335904-simple-2000-series-vol-14-the-billiard.json) |
@@ -3467,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
+| Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
