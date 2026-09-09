@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jangou 1 | 123077 | [123077-jangou-1.json](./123077-jangou-1.json) |
 | Jangou 2 | 123076 | [123076-jangou-2.json](./123076-jangou-2.json) |
 | Jangou World Cup | 123075 | [123075-jangou-world-cup.json](./123075-jangou-world-cup.json) |
+| Janitor Simulator | 178577 | [178577-janitor-simulator.json](./178577-janitor-simulator.json) |
 | JanKen Battle Arena | 245051 | [245051-janken-battle-arena.json](./245051-janken-battle-arena.json) |
 | Janken Shogi | 216223 | [216223-janken-shogi.json](./216223-janken-shogi.json) |
 | JanKenUP! | 180199 | [180199-jankenup.json](./180199-jankenup.json) |
@@ -409,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jötunnslayer: Hordes of Hel - Odin's Legendary Armor Pack | 403594 | [403594-jotunnslayer-hordes-of-hel-odins-legendary-armor-pack.json](./403594-jotunnslayer-hordes-of-hel-odins-legendary-armor-pack.json) |
 | Jötunnslayer: Hordes of Hel - Tyr's Mythical Armor Pack | 403595 | [403595-jotunnslayer-hordes-of-hel-tyrs-mythical-armor-pack.json](./403595-jotunnslayer-hordes-of-hel-tyrs-mythical-armor-pack.json) |
 | Jouka no Monshou | 274223 | [274223-jouka-no-monshou.json](./274223-jouka-no-monshou.json) |
+| Joulumato | 178589 | [178589-joulumato.json](./178589-joulumato.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
