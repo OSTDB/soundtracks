@@ -2103,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashy Knight | 105925 | [105925-slashy-knight.json](./105925-slashy-knight.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
+| Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
 | Slave Master: The Game | 111732 | [111732-slave-master-the-game.json](./111732-slave-master-the-game.json) |
 | Slave Princess Finne: Why Did She Sell Out Her Own Kingdom? | 214179 | [214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json](./214179-slave-princess-finne-why-did-she-sell-out-her-own-kingdom.json) |
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
@@ -2832,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Hearts | 261273 | [261273-sonic-hearts.json](./261273-sonic-hearts.json) |
 | Sonic Hopping | 261271 | [261271-sonic-hopping.json](./261271-sonic-hopping.json) |
 | Sonic Hopping 2 | 261272 | [261272-sonic-hopping-2.json](./261272-sonic-hopping-2.json) |
+| Sonic in Super Mario Bros. | 198468 | [198468-sonic-in-super-mario-bros.json](./198468-sonic-in-super-mario-bros.json) |
 | Sonic In The Timeline Of Madness | 266512 | [266512-sonic-in-the-timeline-of-madness.json](./266512-sonic-in-the-timeline-of-madness.json) |
 | Sonic Incursion | 326998 | [326998-sonic-incursion.json](./326998-sonic-incursion.json) |
 | Sonic Journey | 317609 | [317609-sonic-journey.json](./317609-sonic-journey.json) |
@@ -2991,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sons of Odin | 346570 | [346570-sons-of-odin.json](./346570-sons-of-odin.json) |
 | Sons of Saturn | 256546 | [256546-sons-of-saturn.json](./256546-sons-of-saturn.json) |
 | Sons Of The Dream Forest | 315283 | [315283-sons-of-the-dream-forest.json](./315283-sons-of-the-dream-forest.json) |
+| Soot | 198500 | [198500-soot.json](./198500-soot.json) |
 | Soot | 231085 | [231085-soot.json](./231085-soot.json) |
 | Soothsayer: The Oraclepus Knows All | 243101 | [243101-soothsayer-the-oraclepus-knows-all.json](./243101-soothsayer-the-oraclepus-knows-all.json) |
 | Sooty's Revenge | 311284 | [311284-sootys-revenge.json](./311284-sootys-revenge.json) |
@@ -3120,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
+| South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park Let's Go Tower Defense Play! | 1260 | [1260-south-park-lets-go-tower-defense-play.json](./1260-south-park-lets-go-tower-defense-play.json) |
 | South Park Rally | 1259 | [1259-south-park-rally.json](./1259-south-park-rally.json) |
 | South Park: Snow Day! | 261145 | [261145-south-park-snow-day.json](./261145-south-park-snow-day.json) |
@@ -3477,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
+| Spells & Secrets | 198494 | [198494-spells-and-secrets.json](./198494-spells-and-secrets.json) |
 | Spellshot | 243700 | [243700-spellshot.json](./243700-spellshot.json) |
 | Spellsided | 311488 | [311488-spellsided.json](./311488-spellsided.json) |
 | Spellslinger | 264623 | [264623-spellslinger.json](./264623-spellslinger.json) |
@@ -5080,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Laura Up | 276163 | [276163-super-laura-up.json](./276163-super-laura-up.json) |
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
+| Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
@@ -5164,13 +5170,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
 | Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
+| Super Mario Flash 2: SMW Remake | 198502 | [198502-super-mario-flash-2-smw-remake.json](./198502-super-mario-flash-2-smw-remake.json) |
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
 | Super Mario Gravity | 213948 | [213948-super-mario-gravity.json](./213948-super-mario-gravity.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
+| Super Mario Kart 8 | 198451 | [198451-super-mario-kart-8.json](./198451-super-mario-kart-8.json) |
+| Super Mario Kart DS | 198450 | [198450-super-mario-kart-ds.json](./198450-super-mario-kart-ds.json) |
 | Super Mario Kart NES | 250038 | [250038-super-mario-kart-nes.json](./250038-super-mario-kart-nes.json) |
 | Super Mario Kart Xtreme | 311285 | [311285-super-mario-kart-xtreme.json](./311285-super-mario-kart-xtreme.json) |
+| Super Mario Kart: 64 Reverse Remake | 198457 | [198457-super-mario-kart-64-reverse-remake.json](./198457-super-mario-kart-64-reverse-remake.json) |
+| Super Mario Kart: Double Dash Reverse Remake | 198453 | [198453-super-mario-kart-double-dash-reverse-remake.json](./198453-super-mario-kart-double-dash-reverse-remake.json) |
+| Super Mario Kart: F1 Tracks | 198446 | [198446-super-mario-kart-f1-tracks.json](./198446-super-mario-kart-f1-tracks.json) |
+| Super Mario Kart: Super Circuit Demake | 198458 | [198458-super-mario-kart-super-circuit-demake.json](./198458-super-mario-kart-super-circuit-demake.json) |
 | Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
 | Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
@@ -5261,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nichibutsu Mahjong | 37804 | [37804-super-nichibutsu-mahjong.json](./37804-super-nichibutsu-mahjong.json) |
 | Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen | 37803 | [37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json](./37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json) |
 | Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen | 37802 | [37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json](./37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json) |
+| Super NicoNico Kart | 198462 | [198462-super-niconico-kart.json](./198462-super-niconico-kart.json) |
 | Super Ninja Square Attack | 87695 | [87695-super-ninja-square-attack.json](./87695-super-ninja-square-attack.json) |
 | Super Ninji Land Reawakened | 373554 | [373554-super-ninji-land-reawakened.json](./373554-super-ninji-land-reawakened.json) |
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
@@ -5827,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthrome | 316614 | [316614-synthrome.json](./316614-synthrome.json) |
 | Synthwave Driver | 344387 | [344387-synthwave-driver.json](./344387-synthwave-driver.json) |
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
+| Syobon Action NES Edition | 198474 | [198474-syobon-action-nes-edition.json](./198474-syobon-action-nes-edition.json) |
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
