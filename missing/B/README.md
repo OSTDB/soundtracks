@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Bask: The Alchemist Frog | 338195 | [338195-bask-the-alchemist-frog.json](./338195-bask-the-alchemist-frog.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
+| Basket Legends | 188017 | [188017-basket-legends.json](./188017-basket-legends.json) |
 | Basketball | 347704 | [347704-basketball.json](./347704-basketball.json) |
 | Basketball | 5689 | [5689-basketball.json](./5689-basketball.json) |
 | Basketball 2 | 245559 | [245559-basketball-2.json](./245559-basketball-2.json) |
@@ -1997,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
 | Bomb the City | 57669 | [57669-bomb-the-city.json](./57669-bomb-the-city.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
+| Bomb Them All | 188032 | [188032-bomb-them-all.json](./188032-bomb-them-all.json) |
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
 | Bomba: The Explosive Hero | 213956 | [213956-bomba-the-explosive-hero.json](./213956-bomba-the-explosive-hero.json) |
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
@@ -2506,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Escape From Oz Collector's Edition | 104108 | [104108-bridge-to-another-world-escape-from-oz-collectors-edition.json](./104108-bridge-to-another-world-escape-from-oz-collectors-edition.json) |
+| Bridge to Another World: Gulliver Syndrome | 188031 | [188031-bridge-to-another-world-gulliver-syndrome.json](./188031-bridge-to-another-world-gulliver-syndrome.json) |
 | Bridge to Another World: Secrets of the Nutcracker | 236819 | [236819-bridge-to-another-world-secrets-of-the-nutcracker.json](./236819-bridge-to-another-world-secrets-of-the-nutcracker.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
