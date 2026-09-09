@@ -552,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Ducks | 177541 | [177541-feed-the-ducks.json](./177541-feed-the-ducks.json) |
 | Feed the Feed | 396888 | [396888-feed-the-feed.json](./396888-feed-the-feed.json) |
 | Feed the Pets | 109717 | [109717-feed-the-pets.json](./109717-feed-the-pets.json) |
+| Feed the Pets: Fall Animals | 192373 | [192373-feed-the-pets-fall-animals.json](./192373-feed-the-pets-fall-animals.json) |
 | Feed Us 4 | 327185 | [327185-feed-us-4.json](./327185-feed-us-4.json) |
 | Feed Us V | 327190 | [327190-feed-us-v.json](./327190-feed-us-v.json) |
 | Feed your cat | 334473 | [334473-feed-your-cat.json](./334473-feed-your-cat.json) |
@@ -1732,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
+| FPV Simulator | 192407 | [192407-fpv-simulator.json](./192407-fpv-simulator.json) |
 | FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
