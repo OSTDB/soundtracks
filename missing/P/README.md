@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack BD Heroes vol.1 | 293934 | [293934-pack-bd-heroes-vol-1.json](./293934-pack-bd-heroes-vol-1.json) |
 | Pack Lunch | 371273 | [371273-pack-lunch.json](./371273-pack-lunch.json) |
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
+| Package Inspector | 195697 | [195697-package-inspector.json](./195697-package-inspector.json) |
 | Packed Lair | 350440 | [350440-packed-lair.json](./350440-packed-lair.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Solitaire | 58844 | [58844-pirate-solitaire.json](./58844-pirate-solitaire.json) |
 | Pirate Treasure: Island of Mazes | 187489 | [187489-pirate-treasure-island-of-mazes.json](./187489-pirate-treasure-island-of-mazes.json) |
 | Pirate's Den Renovator | 211185 | [211185-pirates-den-renovator.json](./211185-pirates-den-renovator.json) |
+| Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
 | Pirateer: High Seas | 253575 | [253575-pirateer-high-seas.json](./253575-pirateer-high-seas.json) |
 | Piratepoly Gold: Caribbean Treasure | 218723 | [218723-piratepoly-gold-caribbean-treasure.json](./218723-piratepoly-gold-caribbean-treasure.json) |
 | Pirates | 197378 | [197378-pirates.json](./197378-pirates.json) |
@@ -1455,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
+| Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
@@ -1756,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Kingdom: Siege | 270947 | [270947-poly-kingdom-siege.json](./270947-poly-kingdom-siege.json) |
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
 | Poly Memory: Birds | 195786 | [195786-poly-memory-birds.json](./195786-poly-memory-birds.json) |
+| Poly Memory: Cats | 195724 | [195724-poly-memory-cats.json](./195724-poly-memory-cats.json) |
 | Poly Memory: Dinosaurs | 224592 | [224592-poly-memory-dinosaurs.json](./224592-poly-memory-dinosaurs.json) |
 | Poly Memory: Primates | 210878 | [210878-poly-memory-primates.json](./210878-poly-memory-primates.json) |
 | Poly Parkour | 215699 | [215699-poly-parkour.json](./215699-poly-parkour.json) |
@@ -1953,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pouring Pints | 412271 | [412271-pouring-pints.json](./412271-pouring-pints.json) |
 | Poverty is a Choice | 106610 | [106610-poverty-is-a-choice.json](./106610-poverty-is-a-choice.json) |
 | Pow 2 | 241074 | [241074-pow-2.json](./241074-pow-2.json) |
+| Pow Pow: Dye it up! | 195728 | [195728-pow-pow-dye-it-up.json](./195728-pow-pow-dye-it-up.json) |
 | Powdergray | 322965 | [322965-powdergray.json](./322965-powdergray.json) |
 | Power (of) Metal | 199599 | [199599-power-of-metal.json](./199599-power-of-metal.json) |
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
