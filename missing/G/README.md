@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
 | Gold Miner Challenger | 215360 | [215360-gold-miner-challenger.json](./215360-gold-miner-challenger.json) |
 | Gold Miner: Classic Edition | 360579 | [360579-gold-miner-classic-edition.json](./360579-gold-miner-classic-edition.json) |
+| Gold Miner: Vegas | 188566 | [188566-gold-miner-vegas.json](./188566-gold-miner-vegas.json) |
 | Gold of the Incas Solitaire | 294741 | [294741-gold-of-the-incas-solitaire.json](./294741-gold-of-the-incas-solitaire.json) |
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
