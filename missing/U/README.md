@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Summer Boat | 51982 | [51982-ultimate-summer-boat.json](./51982-ultimate-summer-boat.json) |
 | Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
 | Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
+| Ultimate Tennis: Revolution | 174841 | [174841-ultimate-tennis-revolution.json](./174841-ultimate-tennis-revolution.json) |
 | Ultimate Theater Simulator | 367400 | [367400-ultimate-theater-simulator.json](./367400-ultimate-theater-simulator.json) |
 | Ultimate Tower Defense | 272570 | [272570-ultimate-tower-defense.json](./272570-ultimate-tower-defense.json) |
 | Ultimate Trainz Collection | 206168 | [206168-ultimate-trainz-collection.json](./206168-ultimate-trainz-collection.json) |
@@ -400,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
 | Unknown Exist | 202339 | [202339-unknown-exist.json](./202339-unknown-exist.json) |
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
+| Unknown Heroes Idle | 174809 | [174809-unknown-heroes-idle.json](./174809-unknown-heroes-idle.json) |
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
 | Unknown Presence | 274508 | [274508-unknown-presence.json](./274508-unknown-presence.json) |
 | Unknown Scrolls | 113719 | [113719-unknown-scrolls.json](./113719-unknown-scrolls.json) |
