@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Quest 3D: The Brother Lady Saga | 234896 | [234896-cheese-quest-3d-the-brother-lady-saga.json](./234896-cheese-quest-3d-the-brother-lady-saga.json) |
+| Cheese Runner | 209474 | [209474-cheese-runner.json](./209474-cheese-runner.json) |
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
 | Cheestrings Quiz | 313120 | [313120-cheestrings-quiz.json](./313120-cheestrings-quiz.json) |
@@ -2060,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
+| Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
 | Convenient | 217010 | [217010-convenient.json](./217010-convenient.json) |
 | Convenient Encounters | 236501 | [236501-convenient-encounters.json](./236501-convenient-encounters.json) |
 | Conveyor Belt Sushi Simulator | 334129 | [334129-conveyor-belt-sushi-simulator.json](./334129-conveyor-belt-sushi-simulator.json) |
