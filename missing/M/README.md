@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
+| Madball | 198484 | [198484-madball.json](./198484-madball.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
 | Madden NFL 13 | 243257 | [243257-madden-nfl-13.json](./243257-madden-nfl-13.json) |
@@ -281,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
+| Magyarock VR | 198443 | [198443-magyarock-vr.json](./198443-magyarock-vr.json) |
 | Mah Jong Solitaire 2 | 86699 | [86699-mah-jong-solitaire-2.json](./86699-mah-jong-solitaire-2.json) |
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
@@ -566,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Drinks A Glass of Milk | 250051 | [250051-mario-drinks-a-glass-of-milk.json](./250051-mario-drinks-a-glass-of-milk.json) |
 | Mario for the Masses | 330716 | [330716-mario-for-the-masses.json](./330716-mario-for-the-masses.json) |
 | Mario Forever Galaxy | 139452 | [139452-mario-forever-galaxy.json](./139452-mario-forever-galaxy.json) |
+| Mario Forever: SMW Edition | 198464 | [198464-mario-forever-smw-edition.json](./198464-mario-forever-smw-edition.json) |
 | Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
@@ -588,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
 | Mario Kart RiiBalanced | 202370 | [202370-mario-kart-riibalanced.json](./202370-mario-kart-riibalanced.json) |
+| Mario Kart SX | 198448 | [198448-mario-kart-sx.json](./198448-mario-kart-sx.json) |
 | Mario Kart Tour: 1st Anniversary Tour | 361133 | [361133-mario-kart-tour-1st-anniversary-tour.json](./361133-mario-kart-tour-1st-anniversary-tour.json) |
 | Mario Kart Tour: 2nd Anniversary Tour | 361161 | [361161-mario-kart-tour-2nd-anniversary-tour.json](./361161-mario-kart-tour-2nd-anniversary-tour.json) |
 | Mario Kart Tour: Autumn Tour | 361162 | [361162-mario-kart-tour-autumn-tour.json](./361162-mario-kart-tour-autumn-tour.json) |
@@ -662,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Tennis: Power Tour - Bicep Pump | 231624 | [231624-mario-tennis-power-tour-bicep-pump.json](./231624-mario-tennis-power-tour-bicep-pump.json) |
 | Mario vs. Donkey Kong 2: March of the Minis - Cannon Kaos | 231640 | [231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json](./231640-mario-vs-donkey-kong-2-march-of-the-minis-cannon-kaos.json) |
 | Mario vs. Donkey Kong Card e+ | 220855 | [220855-mario-vs-donkey-kong-card-e.json](./220855-mario-vs-donkey-kong-card-e.json) |
+| Mario vs. Wario | 198475 | [198475-mario-vs-wario.json](./198475-mario-vs-wario.json) |
 | Mario: The Dark World | 324111 | [324111-mario-the-dark-world.json](./324111-mario-the-dark-world.json) |
 | Mario.exe | 274985 | [274985-mario-exe.json](./274985-mario-exe.json) |
 | Mario's Balls | 343829 | [343829-marios-balls.json](./343829-marios-balls.json) |
@@ -671,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
 | Mario's House of STHU | 323747 | [323747-marios-house-of-sthu.json](./323747-marios-house-of-sthu.json) |
+| Mario's Keep Co-op | 198473 | [198473-marios-keep-co-op.json](./198473-marios-keep-co-op.json) |
 | Mario's Mahalo Party | 324092 | [324092-marios-mahalo-party.json](./324092-marios-mahalo-party.json) |
 | Mario's Mini Micro Adventures | 331311 | [331311-marios-mini-micro-adventures.json](./331311-marios-mini-micro-adventures.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
@@ -1443,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messy Desktop 98 | 184614 | [184614-messy-desktop-98.json](./184614-messy-desktop-98.json) |
 | Messy Up | 263771 | [263771-messy-up.json](./263771-messy-up.json) |
 | Mesudoku | 400866 | [400866-mesudoku.json](./400866-mesudoku.json) |
+| Meta Form | 198485 | [198485-meta-form.json](./198485-meta-form.json) |
 | Meta Fox | 39689 | [39689-meta-fox.json](./39689-meta-fox.json) |
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
 | Meta: Assembled | 392795 | [392795-meta-assembled.json](./392795-meta-assembled.json) |
