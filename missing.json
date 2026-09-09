@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T01:21:00.994Z",
-  "total_missing": 48747,
+  "generated_at": "2026-09-09T01:31:01.891Z",
+  "total_missing": 48749,
   "games": [
     {
       "igdb_id": 306086,
@@ -441,11 +441,6 @@
       "igdb_id": 401547,
       "game_name": "101 Dogs Hidden in Istanbul",
       "file": "missing/0-9/401547-101-dogs-hidden-in-istanbul.json"
-    },
-    {
-      "igdb_id": 408801,
-      "game_name": "101 Dogs Hidden in Rome",
-      "file": "missing/0-9/408801-101-dogs-hidden-in-rome.json"
     },
     {
       "igdb_id": 16745,
@@ -96103,6 +96098,11 @@
       "file": "missing/H/386695-hungrities.json"
     },
     {
+      "igdb_id": 207862,
+      "game_name": "Hungry Cat Nonogram",
+      "file": "missing/H/207862-hungry-cat-nonogram.json"
+    },
+    {
       "igdb_id": 402265,
       "game_name": "Hungry Chicks: Battle Farm",
       "file": "missing/H/402265-hungry-chicks-battle-farm.json"
@@ -101071,6 +101071,11 @@
       "igdb_id": 68715,
       "game_name": "Interstellar Invaders",
       "file": "missing/I/68715-interstellar-invaders.json"
+    },
+    {
+      "igdb_id": 207860,
+      "game_name": "Interstellar Pilot",
+      "file": "missing/I/207860-interstellar-pilot.json"
     },
     {
       "igdb_id": 110011,
@@ -178541,6 +178546,11 @@
       "igdb_id": 197395,
       "game_name": "Shatterspace",
       "file": "missing/S/197395-shatterspace.json"
+    },
+    {
+      "igdb_id": 207861,
+      "game_name": "Shaun the Sheep: Shear Speed",
+      "file": "missing/S/207861-shaun-the-sheep-shear-speed.json"
     },
     {
       "igdb_id": 5151,
