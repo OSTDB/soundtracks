@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
+| Last Pirate: Survival Island | 193960 | [193960-last-pirate-survival-island.json](./193960-last-pirate-survival-island.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
 | Last Respects | 290717 | [290717-last-respects.json](./290717-last-respects.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavapools | 25000 | [25000-lavapools.json](./25000-lavapools.json) |
 | Lavender Station | 404205 | [404205-lavender-station.json](./404205-lavender-station.json) |
 | Law Craft | 207832 | [207832-law-craft.json](./207832-law-craft.json) |
+| Law of Creation 2 | 193935 | [193935-law-of-creation-2.json](./193935-law-of-creation-2.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
 | Lawn Mowing Simulator VR | 284830 | [284830-lawn-mowing-simulator-vr.json](./284830-lawn-mowing-simulator-vr.json) |
@@ -468,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Illarion | 228438 | [228438-legends-of-illarion.json](./228438-legends-of-illarion.json) |
 | Legends of Koyannis | 110368 | [110368-legends-of-koyannis.json](./110368-legends-of-koyannis.json) |
 | Legends of Luisa Llama | 239078 | [239078-legends-of-luisa-llama.json](./239078-legends-of-luisa-llama.json) |
+| Legends of Lunia | 193974 | [193974-legends-of-lunia.json](./193974-legends-of-lunia.json) |
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
 | Legends of Solitaire: Curse of the Dragons | 34532 | [34532-legends-of-solitaire-curse-of-the-dragons.json](./34532-legends-of-solitaire-curse-of-the-dragons.json) |
