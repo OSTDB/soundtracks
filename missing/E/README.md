@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental | 351639 | [351639-elemental.json](./351639-elemental.json) |
 | Elemental Adventure | 226451 | [226451-elemental-adventure.json](./226451-elemental-adventure.json) |
 | Elemental Angel II | 192420 | [192420-elemental-angel-ii.json](./192420-elemental-angel-ii.json) |
+| Elemental Angel III | 198492 | [198492-elemental-angel-iii.json](./198492-elemental-angel-iii.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
 | Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
 | Elemental Gelade: Tozasareshi Uta | 49413 | [49413-elemental-gelade-tozasareshi-uta.json](./49413-elemental-gelade-tozasareshi-uta.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Pixel War | 296391 | [296391-epic-pixel-war.json](./296391-epic-pixel-war.json) |
 | Epic Pizza | 277314 | [277314-epic-pizza.json](./277314-epic-pizza.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
+| Epic Racers | 198460 | [198460-epic-racers.json](./198460-epic-racers.json) |
 | Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
 | Epic Roller Coasters: Candyland | 243695 | [243695-epic-roller-coasters-candyland.json](./243695-epic-roller-coasters-candyland.json) |
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
