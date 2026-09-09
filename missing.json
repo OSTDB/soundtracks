@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:03:38.105Z",
-  "total_missing": 52173,
+  "generated_at": "2026-09-09T23:11:12.024Z",
+  "total_missing": 52172,
   "games": [
     {
       "igdb_id": 306086,
@@ -1126,11 +1126,6 @@
       "igdb_id": 202925,
       "game_name": "3D Alien Syndrome",
       "file": "missing/0-9/202925-3d-alien-syndrome.json"
-    },
-    {
-      "igdb_id": 205830,
-      "game_name": "3D Bowling USA",
-      "file": "missing/0-9/205830-3d-bowling-usa.json"
     },
     {
       "igdb_id": 12980,
