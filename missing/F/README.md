@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
 | Foot Fashion Simulator | 258983 | [258983-foot-fashion-simulator.json](./258983-foot-fashion-simulator.json) |
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
+| Football | 199023 | [199023-football.json](./199023-football.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
@@ -1847,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': Vs Ankha | 186302 | [186302-friday-night-funkin-vs-ankha.json](./186302-friday-night-funkin-vs-ankha.json) |
 | Friday Night Funkin': Vs Impostor | 202380 | [202380-friday-night-funkin-vs-impostor.json](./202380-friday-night-funkin-vs-impostor.json) |
 | Friday Night Funkin': VS Spider-Man - Volume II | 225302 | [225302-friday-night-funkin-vs-spider-man-volume-ii.json](./225302-friday-night-funkin-vs-spider-man-volume-ii.json) |
+| Friday Night Funkin': VS. Cassette Girl | 199045 | [199045-friday-night-funkin-vs-cassette-girl.json](./199045-friday-night-funkin-vs-cassette-girl.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
 | Friday Night Funkin': vs. Evil Otto | 202402 | [202402-friday-night-funkin-vs-evil-otto.json](./202402-friday-night-funkin-vs-evil-otto.json) |
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
