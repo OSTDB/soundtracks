@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thandor: The Invasion | 54432 | [54432-thandor-the-invasion.json](./54432-thandor-the-invasion.json) |
 | Thank Goodness You're Here! | 262538 | [262538-thank-goodness-youre-here.json](./262538-thank-goodness-youre-here.json) |
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
+| Thanksgiving | 184573 | [184573-thanksgiving.json](./184573-thanksgiving.json) |
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
@@ -846,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That One Celestial Night | 176495 | [176495-that-one-celestial-night.json](./176495-that-one-celestial-night.json) |
 | That Racecar Game | 241651 | [241651-that-racecar-game.json](./241651-that-racecar-game.json) |
 | That Smiling Game | 202963 | [202963-that-smiling-game.json](./202963-that-smiling-game.json) |
+| That Spongy Thing on Your Tongue | 184575 | [184575-that-spongy-thing-on-your-tongue.json](./184575-that-spongy-thing-on-your-tongue.json) |
 | That Time I Got Reincarnated as a Slime | 174881 | [174881-that-time-i-got-reincarnated-as-a-slime.json](./174881-that-time-i-got-reincarnated-as-a-slime.json) |
 | That Time I Got Reincarnated as a Slime Isekai Chronicles: Season Pass | 328992 | [328992-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-season-pass.json](./328992-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-season-pass.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 1 | 313509 | [313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json](./313509-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-1.json) |
@@ -2202,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost World: Jurassic Park | 147441 | [147441-the-lost-world-jurassic-park.json](./147441-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147442 | [147442-the-lost-world-jurassic-park.json](./147442-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147443 | [147443-the-lost-world-jurassic-park.json](./147443-the-lost-world-jurassic-park.json) |
+| The Lotus Eater | 184610 | [184610-the-lotus-eater.json](./184610-the-lotus-eater.json) |
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
@@ -2536,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
+| The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
@@ -3239,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
 | Thief: The Trail of the Arch-Heretic | 268465 | [268465-thief-the-trail-of-the-arch-heretic.json](./268465-thief-the-trail-of-the-arch-heretic.json) |
 | Thief's Adventure | 372490 | [372490-thiefs-adventure.json](./372490-thiefs-adventure.json) |
+| ThiefRl2 | 184578 | [184578-thiefrl2.json](./184578-thiefrl2.json) |
 | Thievery | 105326 | [105326-thievery.json](./105326-thievery.json) |
 | Thieves | 335875 | [335875-thieves.json](./335875-thieves.json) |
 | Thieves Guild Master | 413662 | [413662-thieves-guild-master.json](./413662-thieves-guild-master.json) |
@@ -5144,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
 | Turboroko: Passion Fever | 142471 | [142471-turboroko-passion-fever.json](./142471-turboroko-passion-fever.json) |
 | Turboroko: Path to Passion Fever | 142470 | [142470-turboroko-path-to-passion-fever.json](./142470-turboroko-path-to-passion-fever.json) |
+| Turbotron | 184567 | [184567-turbotron.json](./184567-turbotron.json) |
 | Turdy | 172195 | [172195-turdy.json](./172195-turdy.json) |
 | Turf Hero | 37776 | [37776-turf-hero.json](./37776-turf-hero.json) |
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
