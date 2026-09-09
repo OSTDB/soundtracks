@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
+| Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Guards Elves | 215701 | [215701-tales-of-guards-elves.json](./215701-tales-of-guards-elves.json) |
 | Tales of Hearts: CG Movie Edition | 222922 | [222922-tales-of-hearts-cg-movie-edition.json](./222922-tales-of-hearts-cg-movie-edition.json) |
@@ -2860,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spewnicorn | 301249 | [301249-the-spewnicorn.json](./301249-the-spewnicorn.json) |
 | The Spidy Quiz | 229669 | [229669-the-spidy-quiz.json](./229669-the-spidy-quiz.json) |
 | The Spire of Mech Zero | 321389 | [321389-the-spire-of-mech-zero.json](./321389-the-spire-of-mech-zero.json) |
+| The Spirit | 172144 | [172144-the-spirit.json](./172144-the-spirit.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spooky Island | 394167 | [394167-the-spooky-island.json](./394167-the-spooky-island.json) |
@@ -3076,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tribulation Entanglement | 190189 | [190189-the-tribulation-entanglement.json](./190189-the-tribulation-entanglement.json) |
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
+| The Trolley Problem Game | 172138 | [172138-the-trolley-problem-game.json](./172138-the-trolley-problem-game.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
@@ -3936,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TIny Little Farm Plus Milk Seller | 328473 | [328473-tiny-little-farm-plus-milk-seller.json](./328473-tiny-little-farm-plus-milk-seller.json) |
 | Tiny Mage in Puzzle Land | 402928 | [402928-tiny-mage-in-puzzle-land.json](./402928-tiny-mage-in-puzzle-land.json) |
 | Tiny Man's Revenge | 258463 | [258463-tiny-mans-revenge.json](./258463-tiny-mans-revenge.json) |
+| Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
 | Tiny Pixel Farm: Go Farm Life | 248674 | [248674-tiny-pixel-farm-go-farm-life.json](./248674-tiny-pixel-farm-go-farm-life.json) |
 | Tiny Pixel Wars | 185618 | [185618-tiny-pixel-wars.json](./185618-tiny-pixel-wars.json) |
@@ -4085,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokoro's Mahjong | 37786 | [37786-tokoros-mahjong.json](./37786-tokoros-mahjong.json) |
 | Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
+| Tokyo 42: Smaceshi's Castles | 172109 | [172109-tokyo-42-smaceshis-castles.json](./172109-tokyo-42-smaceshis-castles.json) |
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
 | Tokyo Beat Down | 20703 | [20703-tokyo-beat-down.json](./20703-tokyo-beat-down.json) |
 | Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
@@ -4183,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider III: Adventures of Lara Croft | 1157 | [1157-tomb-raider-iii-adventures-of-lara-croft.json](./1157-tomb-raider-iii-adventures-of-lara-croft.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
 | Tomb Raider: Game of the Year Edition | 53818 | [53818-tomb-raider-game-of-the-year-edition.json](./53818-tomb-raider-game-of-the-year-edition.json) |
+| Tomb Raider: Shanty Town | 172133 | [172133-tomb-raider-shanty-town.json](./172133-tomb-raider-shanty-town.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
 | Tomb Raider: Underworld - Lara's Shadow | 23021 | [23021-tomb-raider-underworld-laras-shadow.json](./23021-tomb-raider-underworld-laras-shadow.json) |
 | Tomb Robber | 90655 | [90655-tomb-robber.json](./90655-tomb-robber.json) |
@@ -4206,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomodachii | 332803 | [332803-tomodachii.json](./332803-tomodachii.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
 | Tomorrow | 34383 | [34383-tomorrow.json](./34383-tomorrow.json) |
+| Tomorrow Don't Come: Vicious Cycle | 172124 | [172124-tomorrow-dont-come-vicious-cycle.json](./172124-tomorrow-dont-come-vicious-cycle.json) |
 | Tomorrow for Mar | 199608 | [199608-tomorrow-for-mar.json](./199608-tomorrow-for-mar.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
 | Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
