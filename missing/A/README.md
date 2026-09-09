@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
 | A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
 | A Wake Inn | 143698 | [143698-a-wake-inn.json](./143698-a-wake-inn.json) |
+| A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A War On Christmas 3: World War C | 326632 | [326632-a-war-on-christmas-3-world-war-c.json](./326632-a-war-on-christmas-3-world-war-c.json) |
@@ -1092,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al Unser Jr.'s Road to the Top | 42631 | [42631-al-unser-jr-s-road-to-the-top.json](./42631-al-unser-jr-s-road-to-the-top.json) |
 | Al Unser Jr.'s Turbo Racing | 8809 | [8809-al-unser-jr-s-turbo-racing.json](./8809-al-unser-jr-s-turbo-racing.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
+| AL: A Choose Your Own Adventure | 179689 | [179689-al-a-choose-your-own-adventure.json](./179689-al-a-choose-your-own-adventure.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
 | Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
@@ -2730,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
+| Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
