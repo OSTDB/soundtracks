@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:21:13.697Z",
-  "total_missing": 52191,
+  "generated_at": "2026-09-09T23:33:34.900Z",
+  "total_missing": 52240,
   "games": [
     {
       "igdb_id": 306086,
@@ -1136,11 +1136,6 @@
       "igdb_id": 205832,
       "game_name": "3D Brick Bustin Madness",
       "file": "missing/0-9/205832-3d-brick-bustin-madness.json"
-    },
-    {
-      "igdb_id": 205834,
-      "game_name": "3D Caveman Rocks & 3D Brick Bustin Madness",
-      "file": "missing/0-9/205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json"
     },
     {
       "igdb_id": 202926,
@@ -17113,6 +17108,11 @@
       "file": "missing/A/33099-auro-a-monster-bumping-adventure.json"
     },
     {
+      "igdb_id": 170459,
+      "game_name": "Aurora",
+      "file": "missing/A/170459-aurora.json"
+    },
+    {
       "igdb_id": 34581,
       "game_name": "Aurora Dusk: Steam Age",
       "file": "missing/A/34581-aurora-dusk-steam-age.json"
@@ -24066,6 +24066,11 @@
       "igdb_id": 68671,
       "game_name": "Beyond the Sunset",
       "file": "missing/B/68671-beyond-the-sunset.json"
+    },
+    {
+      "igdb_id": 170433,
+      "game_name": "Beyond the Thaw",
+      "file": "missing/B/170433-beyond-the-thaw.json"
     },
     {
       "igdb_id": 68684,
@@ -40743,6 +40748,11 @@
       "file": "missing/C/203928-city-of-gangsters-shadow-government.json"
     },
     {
+      "igdb_id": 170431,
+      "game_name": "City of God I: Prison Empire - Outrage",
+      "file": "missing/C/170431-city-of-god-i-prison-empire-outrage.json"
+    },
+    {
       "igdb_id": 227511,
       "game_name": "City of Love: Paris",
       "file": "missing/C/227511-city-of-love-paris.json"
@@ -47451,6 +47461,11 @@
       "igdb_id": 408087,
       "game_name": "Crone",
       "file": "missing/C/408087-crone.json"
+    },
+    {
+      "igdb_id": 170432,
+      "game_name": "Cronicas de Landulph",
+      "file": "missing/C/170432-cronicas-de-landulph.json"
     },
     {
       "igdb_id": 225899,
@@ -66933,6 +66948,11 @@
       "file": "missing/E/45862-elemental-gimmick-gear.json"
     },
     {
+      "igdb_id": 170439,
+      "game_name": "Elemental Heroes: Blue Fighter 20th Level Set",
+      "file": "missing/E/170439-elemental-heroes-blue-fighter-20th-level-set.json"
+    },
+    {
       "igdb_id": 402925,
       "game_name": "Elemental Knights R: Dark Arthur Premium Pack",
       "file": "missing/E/402925-elemental-knights-r-dark-arthur-premium-pack.json"
@@ -76513,6 +76533,46 @@
       "file": "missing/F/381019-fire-in-the-hole.json"
     },
     {
+      "igdb_id": 170445,
+      "game_name": "Fire Pro Wrestling World: Entrance Craft",
+      "file": "missing/F/170445-fire-pro-wrestling-world-entrance-craft.json"
+    },
+    {
+      "igdb_id": 170447,
+      "game_name": "Fire Pro Wrestling World: Fighting Road - 2017 NJPW Junior Heavyweight Championship",
+      "file": "missing/F/170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json"
+    },
+    {
+      "igdb_id": 170444,
+      "game_name": "Fire Pro Wrestling World: Fighting Road - Champion Road Beyond",
+      "file": "missing/F/170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json"
+    },
+    {
+      "igdb_id": 170441,
+      "game_name": "Fire Pro Wrestling World: New Japan Pro-Wrestling 2018 Wrestler Pack",
+      "file": "missing/F/170441-fire-pro-wrestling-world-new-japan-pro-wrestling-2018-wrestler-pack.json"
+    },
+    {
+      "igdb_id": 170448,
+      "game_name": "Fire Pro Wrestling World: New Japan Pro-Wrestling Collaboration",
+      "file": "missing/F/170448-fire-pro-wrestling-world-new-japan-pro-wrestling-collaboration.json"
+    },
+    {
+      "igdb_id": 170442,
+      "game_name": "Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration",
+      "file": "missing/F/170442-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration.json"
+    },
+    {
+      "igdb_id": 170446,
+      "game_name": "Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration Part 2",
+      "file": "missing/F/170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json"
+    },
+    {
+      "igdb_id": 170443,
+      "game_name": "Fire Pro Wrestling World: Yoshihiro Takayama Charity DLC Part 2",
+      "file": "missing/F/170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json"
+    },
+    {
       "igdb_id": 285464,
       "game_name": "Fire Racing",
       "file": "missing/F/285464-fire-racing.json"
@@ -77148,6 +77208,16 @@
       "file": "missing/F/335089-fishing-sea-adventure.json"
     },
     {
+      "igdb_id": 170481,
+      "game_name": "Fishing Sim World: Bass Pro Shops Edition",
+      "file": "missing/F/170481-fishing-sim-world-bass-pro-shops-edition.json"
+    },
+    {
+      "igdb_id": 170476,
+      "game_name": "Fishing Sim World: Pro Tour - Bass Pro Shops Equipment Pack",
+      "file": "missing/F/170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json"
+    },
+    {
       "igdb_id": 156175,
       "game_name": "Fishing Sim World: Pro Tour - Big Fish Lure Pack",
       "file": "missing/F/156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json"
@@ -77158,9 +77228,64 @@
       "file": "missing/F/228093-fishing-sim-world-pro-tour-deluxe-edition.json"
     },
     {
+      "igdb_id": 170474,
+      "game_name": "Fishing Sim World: Pro Tour - Jezioro Bestii",
+      "file": "missing/F/170474-fishing-sim-world-pro-tour-jezioro-bestii.json"
+    },
+    {
+      "igdb_id": 170477,
+      "game_name": "Fishing Sim World: Pro Tour - Lago Del Mundo",
+      "file": "missing/F/170477-fishing-sim-world-pro-tour-lago-del-mundo.json"
+    },
+    {
+      "igdb_id": 170479,
+      "game_name": "Fishing Sim World: Pro Tour - Laguna Iquitos",
+      "file": "missing/F/170479-fishing-sim-world-pro-tour-laguna-iquitos.json"
+    },
+    {
+      "igdb_id": 170480,
+      "game_name": "Fishing Sim World: Pro Tour - Lake Arnold",
+      "file": "missing/F/170480-fishing-sim-world-pro-tour-lake-arnold.json"
+    },
+    {
+      "igdb_id": 170473,
+      "game_name": "Fishing Sim World: Pro Tour - Lake Dylan",
+      "file": "missing/F/170473-fishing-sim-world-pro-tour-lake-dylan.json"
+    },
+    {
+      "igdb_id": 170482,
+      "game_name": "Fishing Sim World: Pro Tour - Lake Nelson",
+      "file": "missing/F/170482-fishing-sim-world-pro-tour-lake-nelson.json"
+    },
+    {
+      "igdb_id": 170470,
+      "game_name": "Fishing Sim World: Pro Tour - Lake Williams",
+      "file": "missing/F/170470-fishing-sim-world-pro-tour-lake-williams.json"
+    },
+    {
+      "igdb_id": 170471,
+      "game_name": "Fishing Sim World: Pro Tour - Lough Kerr",
+      "file": "missing/F/170471-fishing-sim-world-pro-tour-lough-kerr.json"
+    },
+    {
+      "igdb_id": 170478,
+      "game_name": "Fishing Sim World: Pro Tour - Tackle Box Equipment Pack",
+      "file": "missing/F/170478-fishing-sim-world-pro-tour-tackle-box-equipment-pack.json"
+    },
+    {
+      "igdb_id": 170475,
+      "game_name": "Fishing Sim World: Pro Tour - Talon Fishery",
+      "file": "missing/F/170475-fishing-sim-world-pro-tour-talon-fishery.json"
+    },
+    {
       "igdb_id": 156156,
       "game_name": "Fishing Sim World: Pro Tour - Tournament Bass Pack",
       "file": "missing/F/156156-fishing-sim-world-pro-tour-tournament-bass-pack.json"
+    },
+    {
+      "igdb_id": 170483,
+      "game_name": "Fishing Sim World: Pro Tour - Trophy Hunter's Equipment Pack",
+      "file": "missing/F/170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json"
     },
     {
       "igdb_id": 364504,
@@ -79543,6 +79668,16 @@
       "file": "missing/F/305766-for-honor-gold-heroes-pack.json"
     },
     {
+      "igdb_id": 170438,
+      "game_name": "For Honor: Gryphon Hero",
+      "file": "missing/F/170438-for-honor-gryphon-hero.json"
+    },
+    {
+      "igdb_id": 170437,
+      "game_name": "For Honor: Kyoshin Hero",
+      "file": "missing/F/170437-for-honor-kyoshin-hero.json"
+    },
+    {
       "igdb_id": 305768,
       "game_name": "For Honor: Master Katashi - Orochi Hero Skin",
       "file": "missing/F/305768-for-honor-master-katashi-orochi-hero-skin.json"
@@ -79571,6 +79706,11 @@
       "igdb_id": 305767,
       "game_name": "For Honor: Ultimate Heroes Pack",
       "file": "missing/F/305767-for-honor-ultimate-heroes-pack.json"
+    },
+    {
+      "igdb_id": 170436,
+      "game_name": "For Honor: Warmonger Hero",
+      "file": "missing/F/170436-for-honor-warmonger-hero.json"
     },
     {
       "igdb_id": 128612,
@@ -83446,6 +83586,11 @@
       "igdb_id": 378172,
       "game_name": "Future Zero",
       "file": "missing/F/378172-future-zero.json"
+    },
+    {
+      "igdb_id": 170435,
+      "game_name": "FutureKreate",
+      "file": "missing/F/170435-futurekreate.json"
     },
     {
       "igdb_id": 234634,
@@ -101883,6 +102028,11 @@
       "file": "missing/H/122825-how-to-raise-a-wolf-girl.json"
     },
     {
+      "igdb_id": 170434,
+      "game_name": "How to Survive: Barricade!",
+      "file": "missing/H/170434-how-to-survive-barricade.json"
+    },
+    {
       "igdb_id": 228092,
       "game_name": "How to Train Your Dragon",
       "file": "missing/H/228092-how-to-train-your-dragon.json"
@@ -106366,6 +106516,11 @@
       "igdb_id": 151196,
       "game_name": "Infiltration: Alone in Combat",
       "file": "missing/I/151196-infiltration-alone-in-combat.json"
+    },
+    {
+      "igdb_id": 170440,
+      "game_name": "Infini: #InfiniPrison",
+      "file": "missing/I/170440-infini-infiniprison.json"
     },
     {
       "igdb_id": 134008,
@@ -113161,6 +113316,11 @@
       "igdb_id": 277004,
       "game_name": "Kalis Car Game",
       "file": "missing/K/277004-kalis-car-game.json"
+    },
+    {
+      "igdb_id": 170466,
+      "game_name": "Kalpa",
+      "file": "missing/K/170466-kalpa.json"
     },
     {
       "igdb_id": 292295,
@@ -148558,6 +148718,36 @@
       "file": "missing/N/109747-night-magic.json"
     },
     {
+      "igdb_id": 170462,
+      "game_name": "Night of Full Moon: Apothecary's Blessing",
+      "file": "missing/N/170462-night-of-full-moon-apothecarys-blessing.json"
+    },
+    {
+      "igdb_id": 170463,
+      "game_name": "Night of Full Moon: Choice of Carpenter",
+      "file": "missing/N/170463-night-of-full-moon-choice-of-carpenter.json"
+    },
+    {
+      "igdb_id": 170465,
+      "game_name": "Night of Full Moon: Contract of Soul",
+      "file": "missing/N/170465-night-of-full-moon-contract-of-soul.json"
+    },
+    {
+      "igdb_id": 170461,
+      "game_name": "Night of Full Moon: Gear of Fate",
+      "file": "missing/N/170461-night-of-full-moon-gear-of-fate.json"
+    },
+    {
+      "igdb_id": 170464,
+      "game_name": "Night of Full Moon: Magic Curtain",
+      "file": "missing/N/170464-night-of-full-moon-magic-curtain.json"
+    },
+    {
+      "igdb_id": 170460,
+      "game_name": "Night of Full Moon: The Red Hood Diary",
+      "file": "missing/N/170460-night-of-full-moon-the-red-hood-diary.json"
+    },
+    {
       "igdb_id": 247222,
       "game_name": "Night of Horror",
       "file": "missing/N/247222-night-of-horror.json"
@@ -173693,6 +173883,11 @@
       "file": "missing/R/125396-raindancer.json"
     },
     {
+      "igdb_id": 170468,
+      "game_name": "Raindrops",
+      "file": "missing/R/170468-raindrops.json"
+    },
+    {
       "igdb_id": 258476,
       "game_name": "Rainette",
       "file": "missing/R/258476-rainette.json"
@@ -175121,6 +175316,16 @@
       "igdb_id": 301275,
       "game_name": "Realms of Alterra",
       "file": "missing/R/301275-realms-of-alterra.json"
+    },
+    {
+      "igdb_id": 170452,
+      "game_name": "Realms of Arkania: Blade of Destiny - For the Gods",
+      "file": "missing/R/170452-realms-of-arkania-blade-of-destiny-for-the-gods.json"
+    },
+    {
+      "igdb_id": 170453,
+      "game_name": "Realms of Arkania: Blade of Destiny - Ogredeath",
+      "file": "missing/R/170453-realms-of-arkania-blade-of-destiny-ogredeath.json"
     },
     {
       "igdb_id": 127951,
@@ -195936,6 +196141,11 @@
       "igdb_id": 100202,
       "game_name": "Snake",
       "file": "missing/S/100202-snake.json"
+    },
+    {
+      "igdb_id": 170467,
+      "game_name": "Snake",
+      "file": "missing/S/170467-snake.json"
     },
     {
       "igdb_id": 186242,
@@ -220023,6 +220233,16 @@
       "file": "missing/T/58827-the-black-tower.json"
     },
     {
+      "igdb_id": 170484,
+      "game_name": "The Black Watchmen: Alone in the Dark Web",
+      "file": "missing/T/170484-the-black-watchmen-alone-in-the-dark-web.json"
+    },
+    {
+      "igdb_id": 170485,
+      "game_name": "The Black Watchmen: Mother Russia",
+      "file": "missing/T/170485-the-black-watchmen-mother-russia.json"
+    },
+    {
       "igdb_id": 170486,
       "game_name": "The Black Watchmen: Season 2 - Enduring Conflict",
       "file": "missing/T/170486-the-black-watchmen-season-2-enduring-conflict.json"
@@ -226036,6 +226256,11 @@
       "igdb_id": 238745,
       "game_name": "The Meme Hunter",
       "file": "missing/T/238745-the-meme-hunter.json"
+    },
+    {
+      "igdb_id": 170458,
+      "game_name": "The Message",
+      "file": "missing/T/170458-the-message.json"
     },
     {
       "igdb_id": 191806,
@@ -249851,6 +250076,26 @@
       "igdb_id": 53887,
       "game_name": "Wargame: Red Dragon - Complete Edition",
       "file": "missing/W/53887-wargame-red-dragon-complete-edition.json"
+    },
+    {
+      "igdb_id": 170456,
+      "game_name": "Wargame: Red Dragon - Nation Pack: Netherlands",
+      "file": "missing/W/170456-wargame-red-dragon-nation-pack-netherlands.json"
+    },
+    {
+      "igdb_id": 170454,
+      "game_name": "Wargame: Red Dragon - Norse Dragons",
+      "file": "missing/W/170454-wargame-red-dragon-norse-dragons.json"
+    },
+    {
+      "igdb_id": 170455,
+      "game_name": "Wargame: Red Dragon - Second Korean War",
+      "file": "missing/W/170455-wargame-red-dragon-second-korean-war.json"
+    },
+    {
+      "igdb_id": 170457,
+      "game_name": "Wargame: Red Dragon - The Millionth Mile",
+      "file": "missing/W/170457-wargame-red-dragon-the-millionth-mile.json"
     },
     {
       "igdb_id": 53889,
