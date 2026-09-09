@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare III - Season 3 | 298563 | [298563-call-of-duty-modern-warfare-iii-season-3.json](./298563-call-of-duty-modern-warfare-iii-season-3.json) |
 | Call of Duty: Modern Warfare III - Season 4 | 304046 | [304046-call-of-duty-modern-warfare-iii-season-4.json](./304046-call-of-duty-modern-warfare-iii-season-4.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
+| Call of Duty: Vanguard - Season Four | 205058 | [205058-call-of-duty-vanguard-season-four.json](./205058-call-of-duty-vanguard-season-four.json) |
 | Call of Duty: Warchest | 240503 | [240503-call-of-duty-warchest.json](./240503-call-of-duty-warchest.json) |
 | Call of Duty: Warzone | 131800 | [131800-call-of-duty-warzone.json](./131800-call-of-duty-warzone.json) |
 | Call of Duty: World at War | 135296 | [135296-call-of-duty-world-at-war.json](./135296-call-of-duty-world-at-war.json) |
@@ -1792,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Splash: Dogs | 261509 | [261509-color-splash-dogs.json](./261509-color-splash-dogs.json) |
 | Color Splash: Fairies | 301834 | [301834-color-splash-fairies.json](./301834-color-splash-fairies.json) |
 | Color Splash: Horses | 337633 | [337633-color-splash-horses.json](./337633-color-splash-horses.json) |
+| Color Story: Pixa's Quest | 205074 | [205074-color-story-pixas-quest.json](./205074-color-story-pixas-quest.json) |
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
