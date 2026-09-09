@@ -212,9 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Days to Live | 379898 | [379898-3-days-to-live.json](./379898-3-days-to-live.json) |
-| 3 in 1: Logical Bundle | 208043 | [208043-3-in-1-logical-bundle.json](./208043-3-in-1-logical-bundle.json) |
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
-| 3 Minute Walk | 182550 | [182550-3-minute-walk.json](./182550-3-minute-walk.json) |
 | 3 Ninjas Kick Back | 5337 | [5337-3-ninjas-kick-back.json](./5337-3-ninjas-kick-back.json) |
 | 3 on 3 Dunk Madness | 406696 | [406696-3-on-3-dunk-madness.json](./406696-3-on-3-dunk-madness.json) |
 | 3 Seasons | 221208 | [221208-3-seasons.json](./221208-3-seasons.json) |
