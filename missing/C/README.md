@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
 | CandyRain | 201307 | [201307-candyrain.json](./201307-candyrain.json) |
 | CandyVenture | 113008 | [113008-candyventure.json](./113008-candyventure.json) |
+| Candyz | 206703 | [206703-candyz.json](./206703-candyz.json) |
 | Cānghóng Lèi: Nì Tiān Shénhuà | 394183 | [394183-canghong-lei-ni-tian-shenhua.json](./394183-canghong-lei-ni-tian-shenhua.json) |
 | Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
@@ -225,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium: Powered Gear - Strategic Variant Armor Equipment | 234309 | [234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json](./234309-capcom-arcade-stadium-powered-gear-strategic-variant-armor-equipment.json) |
 | Capcom Arcade Stadium: Tatakai no Banka | 150655 | [150655-capcom-arcade-stadium-tatakai-no-banka.json](./150655-capcom-arcade-stadium-tatakai-no-banka.json) |
 | Capcom Classics Collection Remixed | 23005 | [23005-capcom-classics-collection-remixed.json](./23005-capcom-classics-collection-remixed.json) |
+| Capcom Coin-Op Collection Volume 1 | 206704 | [206704-capcom-coin-op-collection-volume-1.json](./206704-capcom-coin-op-collection-volume-1.json) |
 | Capcom Generations 1: Wings of Destiny | 66122 | [66122-capcom-generations-1-wings-of-destiny.json](./66122-capcom-generations-1-wings-of-destiny.json) |
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
@@ -438,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Cartoon Food Bash | 296099 | [296099-cartoon-cartoon-food-bash.json](./296099-cartoon-cartoon-food-bash.json) |
 | Cartoon Network Collection: Limited Edition | 49362 | [49362-cartoon-network-collection-limited-edition.json](./49362-cartoon-network-collection-limited-edition.json) |
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
+| Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
 | Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
