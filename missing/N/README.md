@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Node Math | 370712 | [370712-node-math.json](./370712-node-math.json) |
 | Node RPG | 373008 | [373008-node-rpg.json](./373008-node-rpg.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
+| Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
