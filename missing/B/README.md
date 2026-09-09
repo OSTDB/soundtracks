@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
+| Buggy Game | 192890 | [192890-buggy-game.json](./192890-buggy-game.json) |
 | Buggy Off-Road Racing: Deluxe Edition | 308799 | [308799-buggy-off-road-racing-deluxe-edition.json](./308799-buggy-off-road-racing-deluxe-edition.json) |
 | Buggy Off-Road Racing: Platinum Edition | 317262 | [317262-buggy-off-road-racing-platinum-edition.json](./317262-buggy-off-road-racing-platinum-edition.json) |
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
