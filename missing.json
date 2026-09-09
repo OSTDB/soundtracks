@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T20:48:28.522Z",
-  "total_missing": 51773,
+  "generated_at": "2026-09-09T20:51:03.462Z",
+  "total_missing": 51772,
   "games": [
     {
       "igdb_id": 306086,
@@ -1056,11 +1056,6 @@
       "igdb_id": 245577,
       "game_name": "3-D Escape!: 1000 Mazes",
       "file": "missing/0-9/245577-3-d-escape-1000-mazes.json"
-    },
-    {
-      "igdb_id": 15576,
-      "game_name": "3-D Maze",
-      "file": "missing/0-9/15576-3-d-maze.json"
     },
     {
       "igdb_id": 15579,
