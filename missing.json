@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T22:18:40.809Z",
-  "total_missing": 52027,
+  "generated_at": "2026-09-09T22:21:00.384Z",
+  "total_missing": 52026,
   "games": [
     {
       "igdb_id": 306086,
@@ -1101,11 +1101,6 @@
       "igdb_id": 208056,
       "game_name": "33 Seconds",
       "file": "missing/0-9/208056-33-seconds.json"
-    },
-    {
-      "igdb_id": 107867,
-      "game_name": "360 No Scope!",
-      "file": "missing/0-9/107867-360-no-scope.json"
     },
     {
       "igdb_id": 45318,
