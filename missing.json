@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T13:48:54.252Z",
-  "total_missing": 50691,
+  "generated_at": "2026-09-09T13:51:08.602Z",
+  "total_missing": 50690,
   "games": [
     {
       "igdb_id": 306086,
@@ -831,11 +831,6 @@
       "igdb_id": 70419,
       "game_name": "2003 AtariAge Holiday Cart",
       "file": "missing/0-9/70419-2003-atariage-holiday-cart.json"
-    },
-    {
-      "igdb_id": 269318,
-      "game_name": "2003 Toshi Kaimaku: Ganbare Kyuukaiou",
-      "file": "missing/0-9/269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json"
     },
     {
       "igdb_id": 116344,
