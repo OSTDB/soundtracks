@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T06:48:52.773Z",
-  "total_missing": 49514,
+  "generated_at": "2026-09-09T06:51:11.399Z",
+  "total_missing": 49513,
   "games": [
     {
       "igdb_id": 306086,
@@ -606,11 +606,6 @@
       "igdb_id": 97894,
       "game_name": "16bit-Collection Data East Vol. 02",
       "file": "missing/0-9/97894-16bit-collection-data-east-vol-02.json"
-    },
-    {
-      "igdb_id": 97887,
-      "game_name": "16bit-Collection Data East Vol. 03",
-      "file": "missing/0-9/97887-16bit-collection-data-east-vol-03.json"
     },
     {
       "igdb_id": 97892,
