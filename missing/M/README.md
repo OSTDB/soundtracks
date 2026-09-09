@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
+| Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
 | Madden NFL 13 | 243257 | [243257-madden-nfl-13.json](./243257-madden-nfl-13.json) |
@@ -333,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Mail Mole + Expansions Bundle | 238186 | [238186-mail-mole-expansions-bundle.json](./238186-mail-mole-expansions-bundle.json) |
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
+| Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
 | Maimai DX Festival Plus | 243688 | [243688-maimai-dx-festival-plus.json](./243688-maimai-dx-festival-plus.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
 | Maimai DX Splash Plus | 167282 | [167282-maimai-dx-splash-plus.json](./167282-maimai-dx-splash-plus.json) |
@@ -2014,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
+| Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
@@ -2504,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
 | Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
+| Mons | 178008 | [178008-mons.json](./178008-mons.json) |
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
 | MonStar | 193971 | [193971-monstar.json](./193971-monstar.json) |
 | Monster & Me | 182466 | [182466-monster-and-me.json](./182466-monster-and-me.json) |
