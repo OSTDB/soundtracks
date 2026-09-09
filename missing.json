@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:33:34.900Z",
-  "total_missing": 52240,
+  "generated_at": "2026-09-09T23:41:11.478Z",
+  "total_missing": 52239,
   "games": [
     {
       "igdb_id": 306086,
@@ -1141,11 +1141,6 @@
       "igdb_id": 202926,
       "game_name": "3D Columns",
       "file": "missing/0-9/202926-3d-columns.json"
-    },
-    {
-      "igdb_id": 205835,
-      "game_name": "3D Columns",
-      "file": "missing/0-9/205835-3d-columns.json"
     },
     {
       "igdb_id": 15575,
