@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Weaver | 289899 | [289899-wave-weaver.json](./289899-wave-weaver.json) |
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
+| WavePlayer | 190161 | [190161-waveplayer.json](./190161-waveplayer.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
 | Waves of the Imperial Garden | 343810 | [343810-waves-of-the-imperial-garden.json](./343810-waves-of-the-imperial-garden.json) |
