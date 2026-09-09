@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T07:31:14.887Z",
-  "total_missing": 49613,
+  "generated_at": "2026-09-09T07:41:08.033Z",
+  "total_missing": 49612,
   "games": [
     {
       "igdb_id": 306086,
@@ -636,11 +636,6 @@
       "igdb_id": 11429,
       "game_name": "18 Wheels of Steel: Extreme Trucker 2",
       "file": "missing/0-9/11429-18-wheels-of-steel-extreme-trucker-2.json"
-    },
-    {
-      "igdb_id": 31697,
-      "game_name": "18 Wheels of Steel: Haulin'",
-      "file": "missing/0-9/31697-18-wheels-of-steel-haulin.json"
     },
     {
       "igdb_id": 219040,
