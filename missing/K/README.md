@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khospis | 110338 | [110338-khospis.json](./110338-khospis.json) |
 | Khuga Bash! | 276196 | [276196-khuga-bash.json](./276196-khuga-bash.json) |
 | Khumba: The Game | 61116 | [61116-khumba-the-game.json](./61116-khumba-the-game.json) |
+| Ki_swpr | 184586 | [184586-ki-swpr.json](./184586-ki-swpr.json) |
 | Ki(n)ds | 27902 | [27902-ki-n-ds.json](./27902-ki-n-ds.json) |
 | Kiaidan 00 | 42011 | [42011-kiaidan-00.json](./42011-kiaidan-00.json) |
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
