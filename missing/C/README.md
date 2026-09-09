@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
+| Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrion Fields | 228692 | [228692-carrion-fields.json](./228692-carrion-fields.json) |
 | Carrom Friends | 240205 | [240205-carrom-friends.json](./240205-carrom-friends.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
+| Ceci and the Gnomes | 207812 | [207812-ceci-and-the-gnomes.json](./207812-ceci-and-the-gnomes.json) |
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
 | CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
@@ -2061,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraption Maker: Mighty Knights Parts & Puzzles Pack | 263215 | [263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json](./263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json) |
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
+| Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
 | Convenient | 217010 | [217010-convenient.json](./217010-convenient.json) |
@@ -2271,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counterglass | 276729 | [276729-counterglass.json](./276729-counterglass.json) |
 | Counterpact | 221155 | [221155-counterpact.json](./221155-counterpact.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
+| Counties Work | 207836 | [207836-counties-work.json](./207836-counties-work.json) |
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
 | Counting on Frank | 71523 | [71523-counting-on-frank.json](./71523-counting-on-frank.json) |
 | Countless Rooms of Death | 35945 | [35945-countless-rooms-of-death.json](./35945-countless-rooms-of-death.json) |
@@ -2859,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubinko | 234066 | [234066-cubinko.json](./234066-cubinko.json) |
 | Cubio | 321152 | [321152-cubio.json](./321152-cubio.json) |
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
+| Cubiscape | 207824 | [207824-cubiscape.json](./207824-cubiscape.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
