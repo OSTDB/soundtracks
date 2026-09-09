@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T14:01:20.767Z",
-  "total_missing": 50693,
+  "generated_at": "2026-09-09T14:11:08.097Z",
+  "total_missing": 50692,
   "games": [
     {
       "igdb_id": 306086,
@@ -841,11 +841,6 @@
       "igdb_id": 40792,
       "game_name": "2005 Minigame Multicart",
       "file": "missing/0-9/40792-2005-minigame-multicart.json"
-    },
-    {
-      "igdb_id": 116345,
-      "game_name": "2005 Real Soccer",
-      "file": "missing/0-9/116345-2005-real-soccer.json"
     },
     {
       "igdb_id": 116346,
