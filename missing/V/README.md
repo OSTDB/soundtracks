@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Revolution Scenario: The Ring of Contract DLC | 138820 | [138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json](./138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json) |
 | Valkyria Revolution: Limited Edition | 138813 | [138813-valkyria-revolution-limited-edition.json](./138813-valkyria-revolution-limited-edition.json) |
 | Valkyria Revolution: Scenario Pack - The Circle of Five | 138816 | [138816-valkyria-revolution-scenario-pack-the-circle-of-five.json](./138816-valkyria-revolution-scenario-pack-the-circle-of-five.json) |
+| Valkyria Soul | 200145 | [200145-valkyria-soul.json](./200145-valkyria-soul.json) |
 | Valkyrie Blade VR | 28891 | [28891-valkyrie-blade-vr.json](./28891-valkyrie-blade-vr.json) |
 | Valkyrie Champions | 215675 | [215675-valkyrie-champions.json](./215675-valkyrie-champions.json) |
 | Valkyrie Drive: Bhikkhuni - Liberator's Edition | 42678 | [42678-valkyrie-drive-bhikkhuni-liberators-edition.json](./42678-valkyrie-drive-bhikkhuni-liberators-edition.json) |
@@ -489,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitalis | 399000 | [399000-vitalis.json](./399000-vitalis.json) |
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
 | Vitamin X | 69288 | [69288-vitamin-x.json](./69288-vitamin-x.json) |
+| Viticulture | 200132 | [200132-viticulture.json](./200132-viticulture.json) |
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
 | Vitriol | 301258 | [301258-vitriol.json](./301258-vitriol.json) |
 | Vitrum | 36362 | [36362-vitrum.json](./36362-vitrum.json) |
@@ -584,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
 | Voltorometer Recharged+ | 247512 | [247512-voltorometer-recharged.json](./247512-voltorometer-recharged.json) |
+| Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
 | Vorago | 312560 | [312560-vorago.json](./312560-vorago.json) |
