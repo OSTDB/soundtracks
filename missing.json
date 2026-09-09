@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T16:34:01.457Z",
-  "total_missing": 51094,
+  "generated_at": "2026-09-09T16:41:07.363Z",
+  "total_missing": 51093,
   "games": [
     {
       "igdb_id": 306086,
@@ -921,11 +921,6 @@
       "igdb_id": 342678,
       "game_name": "204863",
       "file": "missing/0-9/342678-204863.json"
-    },
-    {
-      "igdb_id": 272846,
-      "game_name": "20th Century Frog",
-      "file": "missing/0-9/272846-20th-century-frog.json"
     },
     {
       "igdb_id": 135256,
