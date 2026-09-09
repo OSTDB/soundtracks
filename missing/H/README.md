@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human's Red Destiny | 410266 | [410266-humans-red-destiny.json](./410266-humans-red-destiny.json) |
 | HumanBloodSandwich | 389406 | [389406-humanbloodsandwich.json](./389406-humanbloodsandwich.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
+| Humankind: Cultures of Africa | 188046 | [188046-humankind-cultures-of-africa.json](./188046-humankind-cultures-of-africa.json) |
 | Humankind: Definitive Edition | 283778 | [283778-humankind-definitive-edition.json](./283778-humankind-definitive-edition.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
 | Humanoid | 393495 | [393495-humanoid.json](./393495-humanoid.json) |
@@ -1997,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperbolica | 161510 | [161510-hyperbolica.json](./161510-hyperbolica.json) |
 | Hyperborean Charter | 113025 | [113025-hyperborean-charter.json](./113025-hyperborean-charter.json) |
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
+| HyperBrawl Tournament: Ultimate Edition | 188012 | [188012-hyperbrawl-tournament-ultimate-edition.json](./188012-hyperbrawl-tournament-ultimate-edition.json) |
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
