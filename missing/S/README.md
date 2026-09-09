@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Ougon Densetsu - Kanketsu-hen | 48654 | [48654-saint-seiya-ougon-densetsu-kanketsu-hen.json](./48654-saint-seiya-ougon-densetsu-kanketsu-hen.json) |
 | Sainth | 126003 | [126003-sainth.json](./126003-sainth.json) |
 | Sainthood | 249223 | [249223-sainthood.json](./249223-sainthood.json) |
+| Saints & Sinners Bingo | 206744 | [206744-saints-and-sinners-bingo.json](./206744-saints-and-sinners-bingo.json) |
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
@@ -1883,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
 | Sixteen Undead | 340368 | [340368-sixteen-undead.json](./340368-sixteen-undead.json) |
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
+| Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
 | Sk8 | 75918 | [75918-sk8.json](./75918-sk8.json) |
 | Skade | 258975 | [258975-skade.json](./258975-skade.json) |
@@ -2089,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Simulator | 304593 | [304593-sleep-simulator.json](./304593-sleep-simulator.json) |
 | Sleep Stream | 306339 | [306339-sleep-stream.json](./306339-sleep-stream.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
+| Sleepi Boi Can't Sleep | 206723 | [206723-sleepi-boi-cant-sleep.json](./206723-sleepi-boi-cant-sleep.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
 | Sleeping Flowers: Thread Curse | 233490 | [233490-sleeping-flowers-thread-curse.json](./233490-sleeping-flowers-thread-curse.json) |
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
@@ -3723,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
+| Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
 | Squid Game: Unleashed | 314273 | [314273-squid-game-unleashed.json](./314273-squid-game-unleashed.json) |
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
@@ -4414,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Quiz | 140027 | [140027-stream-quiz.json](./140027-stream-quiz.json) |
 | Stream Runners: Heroes | 232972 | [232972-stream-runners-heroes.json](./232972-stream-runners-heroes.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
+| Stream Typers | 206738 | [206738-stream-typers.json](./206738-stream-typers.json) |
 | Streamer Future Wars | 204697 | [204697-streamer-future-wars.json](./204697-streamer-future-wars.json) |
 | StreamerVille | 285996 | [285996-streamerville.json](./285996-streamerville.json) |
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
@@ -5202,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
+| Super Pop and Drop | 206713 | [206713-super-pop-and-drop.json](./206713-super-pop-and-drop.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Punch-Out!! | 9152 | [9152-super-punch-out.json](./9152-super-punch-out.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
@@ -5367,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
+| Supershot Golf Robot | 206714 | [206714-supershot-golf-robot.json](./206714-supershot-golf-robot.json) |
 | Supersonic Highway Defenders | 355559 | [355559-supersonic-highway-defenders.json](./355559-supersonic-highway-defenders.json) |
 | SuperSpec Rallycross | 291740 | [291740-superspec-rallycross.json](./291740-superspec-rallycross.json) |
 | SuperSquad.GG | 292002 | [292002-supersquad-gg.json](./292002-supersquad-gg.json) |
@@ -5489,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
+| Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
