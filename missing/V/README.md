@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
 | Vessels of Decay | 143715 | [143715-vessels-of-decay.json](./143715-vessels-of-decay.json) |
 | Vestaria Saga II: The Sacred Sword of Silvanister | 186886 | [186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json](./186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json) |
+| Vestria Story | 193940 | [193940-vestria-story.json](./193940-vestria-story.json) |
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
 | Vex | 402253 | [402253-vex.json](./402253-vex.json) |
 | Vex 2 | 402308 | [402308-vex-2.json](./402308-vex-2.json) |
