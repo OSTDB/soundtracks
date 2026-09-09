@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
+| Laser Push | 176430 | [176430-laser-push.json](./176430-laser-push.json) |
 | Laser Puzzle | 270413 | [270413-laser-puzzle.json](./270413-laser-puzzle.json) |
 | Laser Quest | 296069 | [296069-laser-quest.json](./296069-laser-quest.json) |
 | Laser Skirmish | 205059 | [205059-laser-skirmish.json](./205059-laser-skirmish.json) |
@@ -813,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
 | Lighthouse of the Souls | 344966 | [344966-lighthouse-of-the-souls.json](./344966-lighthouse-of-the-souls.json) |
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
+| Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
@@ -1652,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurking Darkness | 319025 | [319025-lurking-darkness.json](./319025-lurking-darkness.json) |
+| Lurking I: Immortui | 176418 | [176418-lurking-i-immortui.json](./176418-lurking-i-immortui.json) |
 | Lurking in the Shadows | 58244 | [58244-lurking-in-the-shadows.json](./58244-lurking-in-the-shadows.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
