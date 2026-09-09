@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio-Synthetica | 235199 | [235199-bio-synthetica.json](./235199-bio-synthetica.json) |
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
 | BioForge | 2213 | [2213-bioforge.json](./2213-bioforge.json) |
+| BioGloom | 207835 | [207835-biogloom.json](./207835-biogloom.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
