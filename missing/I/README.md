@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inquisitor | 9100 | [9100-inquisitor.json](./9100-inquisitor.json) |
 | Inquisitor Simulator | 398365 | [398365-inquisitor-simulator.json](./398365-inquisitor-simulator.json) |
 | Inquisitor: Shade of Swords | 123604 | [123604-inquisitor-shade-of-swords.json](./123604-inquisitor-shade-of-swords.json) |
+| Inquisitor's Heart and Soul | 191205 | [191205-inquisitors-heart-and-soul.json](./191205-inquisitors-heart-and-soul.json) |
 | InRun | 256554 | [256554-inrun.json](./256554-inrun.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
