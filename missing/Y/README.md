@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
 | Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
 | Yummy Jewels | 264900 | [264900-yummy-jewels.json](./264900-yummy-jewels.json) |
+| Yummy Tales 2 | 205023 | [205023-yummy-tales-2.json](./205023-yummy-tales-2.json) |
 | Yummy Yummy Cooking Jam | 69279 | [69279-yummy-yummy-cooking-jam.json](./69279-yummy-yummy-cooking-jam.json) |
 | Yummyland Solitaire | 386122 | [386122-yummyland-solitaire.json](./386122-yummyland-solitaire.json) |
 | Yummyland Solitaire 2 | 386130 | [386130-yummyland-solitaire-2.json](./386130-yummyland-solitaire-2.json) |
