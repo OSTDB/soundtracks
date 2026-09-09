@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinigami no Testament ~menuet of epistula~ | 137085 | [137085-shinigami-no-testament-menuet-of-epistula.json](./137085-shinigami-no-testament-menuet-of-epistula.json) |
 | Shinigami Soul Agency | 224197 | [224197-shinigami-soul-agency.json](./224197-shinigami-soul-agency.json) |
 | Shining | 290683 | [290683-shining.json](./290683-shining.json) |
+| Shining Arena | 174789 | [174789-shining-arena.json](./174789-shining-arena.json) |
 | Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
 | Shining Force Feather | 47720 | [47720-shining-force-feather.json](./47720-shining-force-feather.json) |
 | Shining Force: The Sword of Hajya | 46360 | [46360-shining-force-the-sword-of-hajya.json](./46360-shining-force-the-sword-of-hajya.json) |
@@ -1618,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
+| Shoujo Kaisen | 174837 | [174837-shoujo-kaisen.json](./174837-shoujo-kaisen.json) |
 | Shoujo Mahou Gaku Little Witch Romanesque Bangai Hen "Sayonara, Mauresumo" | 332429 | [332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json](./332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json) |
 | Shoujo Minority: Nagusame no Ai | 194607 | [194607-shoujo-minority-nagusame-no-ai.json](./194607-shoujo-minority-nagusame-no-ai.json) |
 | Should I Buy It? | 180818 | [180818-should-i-buy-it.json](./180818-should-i-buy-it.json) |
@@ -1697,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
 | Sick Generation: The Ghost of the Crane Catcher | 383974 | [383974-sick-generation-the-ghost-of-the-crane-catcher.json](./383974-sick-generation-the-ghost-of-the-crane-catcher.json) |
+| Sico: Special Insurgency Counter Operations | 174813 | [174813-sico-special-insurgency-counter-operations.json](./174813-sico-special-insurgency-counter-operations.json) |
 | Sid Meier's Civilization II: Conflicts in Civilization | 115032 | [115032-sid-meiers-civilization-ii-conflicts-in-civilization.json](./115032-sid-meiers-civilization-ii-conflicts-in-civilization.json) |
 | Sid Meier's Civilization Revolution | 264864 | [264864-sid-meiers-civilization-revolution.json](./264864-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution | 264865 | [264865-sid-meiers-civilization-revolution.json](./264865-sid-meiers-civilization-revolution.json) |
@@ -3167,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
+| Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
 | Soul Force | 177566 | [177566-soul-force.json](./177566-soul-force.json) |
 | Soul Getter | 63294 | [63294-soul-getter.json](./63294-soul-getter.json) |
 | Soul Grinder | 184649 | [184649-soul-grinder.json](./184649-soul-grinder.json) |
@@ -4435,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamy Sextet | 127997 | [127997-steamy-sextet.json](./127997-steamy-sextet.json) |
 | STED: Iseki Wakusei no Yabou | 48703 | [48703-sted-iseki-wakusei-no-yabou.json](./48703-sted-iseki-wakusei-no-yabou.json) |
 | Steel | 329915 | [329915-steel.json](./329915-steel.json) |
+| Steel and Flesh | 174850 | [174850-steel-and-flesh.json](./174850-steel-and-flesh.json) |
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Commanders | 323191 | [323191-steel-commanders.json](./323191-steel-commanders.json) |
 | Steel Covenant | 339665 | [339665-steel-covenant.json](./339665-steel-covenant.json) |
@@ -4811,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Buster | 339656 | [339656-strike-buster.json](./339656-strike-buster.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
+| Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
@@ -5613,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
 | Super Smash Flash 2 | 14247 | [14247-super-smash-flash-2.json](./14247-super-smash-flash-2.json) |
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
+| Super Smash the Office | 174839 | [174839-super-smash-the-office.json](./174839-super-smash-the-office.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
 | Super Soccer Champ | 38394 | [38394-super-soccer-champ.json](./38394-super-soccer-champ.json) |
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
