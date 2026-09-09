@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves: Arena Tactics | 93630 | [93630-waves-arena-tactics.json](./93630-waves-arena-tactics.json) |
 | Waving Around | 347174 | [347174-waving-around.json](./347174-waving-around.json) |
 | Wawa Neko no Shima | 206175 | [206175-wawa-neko-no-shima.json](./206175-wawa-neko-no-shima.json) |
+| Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
@@ -890,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Traveler | 324311 | [324311-wind-traveler.json](./324311-wind-traveler.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
+| Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
 | Windowframe | 70387 | [70387-windowframe.json](./70387-windowframe.json) |
 | Windows Mario World | 256297 | [256297-windows-mario-world.json](./256297-windows-mario-world.json) |
@@ -1242,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordHive | 411569 | [411569-wordhive.json](./411569-wordhive.json) |
 | WordHue | 212796 | [212796-wordhue.json](./212796-wordhue.json) |
 | Wordify | 147461 | [147461-wordify.json](./147461-wordify.json) |
+| Wordish | 187434 | [187434-wordish.json](./187434-wordish.json) |
 | WordJong Arcade | 65492 | [65492-wordjong-arcade.json](./65492-wordjong-arcade.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
@@ -1467,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTA Tour Tennis | 66701 | [66701-wta-tour-tennis.json](./66701-wta-tour-tennis.json) |
 | WTC: Love's Labour's Lost | 216817 | [216817-wtc-loves-labours-lost.json](./216817-wtc-loves-labours-lost.json) |
 | WTC: Recruitment Day | 192462 | [192462-wtc-recruitment-day.json](./192462-wtc-recruitment-day.json) |
+| WTC: Relentless Protagonist [SxS] | 187446 | [187446-wtc-relentless-protagonist-sxs.json](./187446-wtc-relentless-protagonist-sxs.json) |
 | WTF: Waifu Tactical Force | 244256 | [244256-wtf-waifu-tactical-force.json](./244256-wtf-waifu-tactical-force.json) |
 | Wub-Wub Wescue | 330162 | [330162-wub-wub-wescue.json](./330162-wub-wub-wescue.json) |
 | Wufo | 228074 | [228074-wufo.json](./228074-wufo.json) |
