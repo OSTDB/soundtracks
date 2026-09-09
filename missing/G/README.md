@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station: Highway Services | 148001 | [148001-gas-station-highway-services.json](./148001-gas-station-highway-services.json) |
 | Gas Station: Trucker Parking | 231950 | [231950-gas-station-trucker-parking.json](./231950-gas-station-trucker-parking.json) |
+| Gas vs. Dwarves | 185112 | [185112-gas-vs-dwarves.json](./185112-gas-vs-dwarves.json) |
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gaslamp Cases 6: Haunted Waters | 294732 | [294732-gaslamp-cases-6-haunted-waters.json](./294732-gaslamp-cases-6-haunted-waters.json) |
 | Gaslamp Cases 7: The Faith of Rasputin | 294735 | [294735-gaslamp-cases-7-the-faith-of-rasputin.json](./294735-gaslamp-cases-7-the-faith-of-rasputin.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Enchanted Jigsaw Puzzles | 257388 | [257388-gnome-enchanted-jigsaw-puzzles.json](./257388-gnome-enchanted-jigsaw-puzzles.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 1 | 257390 | [257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json](./257390-gnome-enchanted-jigsaw-puzzles-expansion-pack-1.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 2 | 257389 | [257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json](./257389-gnome-enchanted-jigsaw-puzzles-expansion-pack-2.json) |
+| Gnome Gname | 185090 | [185090-gnome-gname.json](./185090-gnome-gname.json) |
 | Gnome Light | 54471 | [54471-gnome-light.json](./54471-gnome-light.json) |
 | Gnome Nations | 106595 | [106595-gnome-nations.json](./106595-gnome-nations.json) |
 | Gnomecart Havoc | 319006 | [319006-gnomecart-havoc.json](./319006-gnomecart-havoc.json) |
