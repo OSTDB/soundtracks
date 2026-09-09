@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Affect | 113000 | [113000-underwater-affect.json](./113000-underwater-affect.json) |
 | Underwater Diving | 224547 | [224547-underwater-diving.json](./224547-underwater-diving.json) |
 | Underworld | 349298 | [349298-underworld.json](./349298-underworld.json) |
+| Underworld Dreams: The False King | 192360 | [192360-underworld-dreams-the-false-king.json](./192360-underworld-dreams-the-false-king.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
 | Underworld Island | 223455 | [223455-underworld-island.json](./223455-underworld-island.json) |
 | Underworld Re: Card | 213050 | [213050-underworld-re-card.json](./213050-underworld-re-card.json) |
