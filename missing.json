@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T21:33:28.460Z",
-  "total_missing": 51881,
+  "generated_at": "2026-09-09T21:41:01.090Z",
+  "total_missing": 51880,
   "games": [
     {
       "igdb_id": 306086,
@@ -1081,11 +1081,6 @@
       "igdb_id": 97110,
       "game_name": "30 Seconds to Jail",
       "file": "missing/0-9/97110-30-seconds-to-jail.json"
-    },
-    {
-      "igdb_id": 215379,
-      "game_name": "30 Years of Nintendon't",
-      "file": "missing/0-9/215379-30-years-of-nintendont.json"
     },
     {
       "igdb_id": 75139,
