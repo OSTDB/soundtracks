@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Una Gesta Draconiana | 400870 | [400870-una-gesta-draconiana.json](./400870-una-gesta-draconiana.json) |
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
+| Unaligned | 177480 | [177480-unaligned.json](./177480-unaligned.json) |
 | Unalive | 29969 | [29969-unalive.json](./29969-unalive.json) |
 | Unanimy | 211756 | [211756-unanimy.json](./211756-unanimy.json) |
 | Unanswered | 401529 | [401529-unanswered.json](./401529-unanswered.json) |
@@ -355,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Coloring Book | 96076 | [96076-unicorn-coloring-book.json](./96076-unicorn-coloring-book.json) |
 | Unicorn Fun | 227843 | [227843-unicorn-fun.json](./227843-unicorn-fun.json) |
 | Unicorn Overlord: Monarch Edition | 283162 | [283162-unicorn-overlord-monarch-edition.json](./283162-unicorn-overlord-monarch-edition.json) |
+| Unicorn Shake | 177473 | [177473-unicorn-shake.json](./177473-unicorn-shake.json) |
 | Unicorn Smash | 248644 | [248644-unicorn-smash.json](./248644-unicorn-smash.json) |
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
