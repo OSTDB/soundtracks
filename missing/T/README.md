@@ -3501,6 +3501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tied By Numbers | 386153 | [386153-tied-by-numbers.json](./386153-tied-by-numbers.json) |
 | Tied to the Beat | 391039 | [391039-tied-to-the-beat.json](./391039-tied-to-the-beat.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
+| Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
 | Tiger Fighter 1931: MP061 | 173757 | [173757-tiger-fighter-1931-mp061.json](./173757-tiger-fighter-1931-mp061.json) |
 | Tiger Fighter 1931: Tora! MP013 | 189682 | [189682-tiger-fighter-1931-tora-mp013.json](./189682-tiger-fighter-1931-tora-mp013.json) |
 | Tiger Fighter 1931: Tora! MP014 | 189695 | [189695-tiger-fighter-1931-tora-mp014.json](./189695-tiger-fighter-1931-tora-mp014.json) |
@@ -3962,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Core | 307614 | [307614-to-the-core.json](./307614-to-the-core.json) |
 | To the Crown | 182530 | [182530-to-the-crown.json](./182530-to-the-crown.json) |
 | To The Dark Tower | 119006 | [119006-to-the-dark-tower.json](./119006-to-the-dark-tower.json) |
+| To the End 2 | 174304 | [174304-to-the-end-2.json](./174304-to-the-end-2.json) |
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
 | To the Mountain | 331128 | [331128-to-the-mountain.json](./331128-to-the-mountain.json) |
