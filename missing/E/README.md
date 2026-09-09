@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
+| Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
 | Esten | 186291 | [186291-esten.json](./186291-esten.json) |
