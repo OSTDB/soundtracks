@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T09:49:01.755Z",
-  "total_missing": 50005,
+  "generated_at": "2026-09-09T09:51:09.090Z",
+  "total_missing": 50004,
   "games": [
     {
       "igdb_id": 306086,
@@ -706,11 +706,6 @@
       "igdb_id": 248318,
       "game_name": "1B Spells",
       "file": "missing/0-9/248318-1b-spells.json"
-    },
-    {
-      "igdb_id": 296672,
-      "game_name": "1Bit Castle: Remake",
-      "file": "missing/0-9/296672-1bit-castle-remake.json"
     },
     {
       "igdb_id": 332265,
