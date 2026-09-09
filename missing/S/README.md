@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
+| Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
@@ -1252,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharknado VR: Arcade Edition | 197404 | [197404-sharknado-vr-arcade-edition.json](./197404-sharknado-vr-arcade-edition.json) |
 | Sharks and Minnows | 340956 | [340956-sharks-and-minnows.json](./340956-sharks-and-minnows.json) |
 | SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
+| Sharp Shooter Bundle: S.N.I.P.E.R Hunter Scope + Knights & Guns | 196824 | [196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json](./196824-sharp-shooter-bundle-s-n-i-p-e-r-hunter-scope-knights-and-guns.json) |
 | Sharp Shot | 5696 | [5696-sharp-shot.json](./5696-sharp-shot.json) |
 | Sharp Trigger | 349845 | [349845-sharp-trigger.json](./349845-sharp-trigger.json) |
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
@@ -2581,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
 | Sofia the First Royal Learning Tablet | 213378 | [213378-sofia-the-first-royal-learning-tablet.json](./213378-sofia-the-first-royal-learning-tablet.json) |
+| Sofia's Debt | 196794 | [196794-sofias-debt.json](./196794-sofias-debt.json) |
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
 | Soft(A)ware | 370123 | [370123-soft-a-ware.json](./370123-soft-a-ware.json) |
@@ -4812,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
+| Summer In Memoria | 196784 | [196784-summer-in-memoria.json](./196784-summer-in-memoria.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
