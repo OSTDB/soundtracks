@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T13:01:13.606Z",
-  "total_missing": 50544,
+  "generated_at": "2026-09-09T13:11:06.028Z",
+  "total_missing": 50543,
   "games": [
     {
       "igdb_id": 306086,
@@ -806,11 +806,6 @@
       "igdb_id": 371267,
       "game_name": "20 Days",
       "file": "missing/0-9/371267-20-days.json"
-    },
-    {
-      "igdb_id": 405472,
-      "game_name": "20 Floors",
-      "file": "missing/0-9/405472-20-floors.json"
     },
     {
       "igdb_id": 124263,
