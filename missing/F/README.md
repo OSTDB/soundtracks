@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
+| Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
@@ -904,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefly Shelter | 404865 | [404865-firefly-shelter.json](./404865-firefly-shelter.json) |
 | FireFly Studios' Stronghold Warchest | 78021 | [78021-firefly-studios-stronghold-warchest.json](./78021-firefly-studios-stronghold-warchest.json) |
 | Firefly Witch | 275345 | [275345-firefly-witch.json](./275345-firefly-witch.json) |
+| FireJumpers | 200126 | [200126-firejumpers.json](./200126-firejumpers.json) |
 | FireJumpers Inferno: Full Version Unlock | 220864 | [220864-firejumpers-inferno-full-version-unlock.json](./220864-firejumpers-inferno-full-version-unlock.json) |
 | Firelight Fantasy: Force Energy | 147483 | [147483-firelight-fantasy-force-energy.json](./147483-firelight-fantasy-force-energy.json) |
 | Firelight Fantasy: Vengeance | 153982 | [153982-firelight-fantasy-vengeance.json](./153982-firelight-fantasy-vengeance.json) |
