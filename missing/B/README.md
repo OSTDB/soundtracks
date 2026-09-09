@@ -1956,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
+| Boku no Mirai ha, Koi to Kakin to.: Charge to the Future | 194539 | [194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json](./194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json) |
 | Boku no Saiai no | 322009 | [322009-boku-no-saiai-no.json](./322009-boku-no-saiai-no.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
 | Boku to Wanko | 58819 | [58819-boku-to-wanko.json](./58819-boku-to-wanko.json) |
