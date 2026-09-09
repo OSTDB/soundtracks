@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:41:11.478Z",
-  "total_missing": 52239,
+  "generated_at": "2026-09-09T23:48:29.364Z",
+  "total_missing": 52289,
   "games": [
     {
       "igdb_id": 306086,
@@ -6648,6 +6648,11 @@
       "file": "missing/A/52015-agents-of-mayhem-day-one-edition.json"
     },
     {
+      "igdb_id": 169936,
+      "game_name": "Agents of Mayhem: Lazarus Agent Pack",
+      "file": "missing/A/169936-agents-of-mayhem-lazarus-agent-pack.json"
+    },
+    {
       "igdb_id": 357803,
       "game_name": "Agents of Shadow",
       "file": "missing/A/357803-agents-of-shadow.json"
@@ -6661,6 +6666,11 @@
       "igdb_id": 344343,
       "game_name": "Aggi's Tiny Friends",
       "file": "missing/A/344343-aggis-tiny-friends.json"
+    },
+    {
+      "igdb_id": 169956,
+      "game_name": "Aggressor",
+      "file": "missing/A/169956-aggressor.json"
     },
     {
       "igdb_id": 73280,
@@ -10861,6 +10871,11 @@
       "igdb_id": 399631,
       "game_name": "Angry Dog",
       "file": "missing/A/399631-angry-dog.json"
+    },
+    {
+      "igdb_id": 169927,
+      "game_name": "Angry Emoji the Game",
+      "file": "missing/A/169927-angry-emoji-the-game.json"
     },
     {
       "igdb_id": 144993,
@@ -16078,6 +16093,11 @@
       "file": "missing/A/107914-astrela-starlight.json"
     },
     {
+      "igdb_id": 169971,
+      "game_name": "Astria",
+      "file": "missing/A/169971-astria.json"
+    },
+    {
       "igdb_id": 173776,
       "game_name": "Astria Ascending: Collector's Edition",
       "file": "missing/A/173776-astria-ascending-collectors-edition.json"
@@ -19896,6 +19916,16 @@
       "igdb_id": 20523,
       "game_name": "Bankshot Billiards 2",
       "file": "missing/B/20523-bankshot-billiards-2.json"
+    },
+    {
+      "igdb_id": 169950,
+      "game_name": "Banner of the Maid: Miss Elisa's Journal",
+      "file": "missing/B/169950-banner-of-the-maid-miss-elisas-journal.json"
+    },
+    {
+      "igdb_id": 169949,
+      "game_name": "Banner of the Maid: The Oriental Pirate",
+      "file": "missing/B/169949-banner-of-the-maid-the-oriental-pirate.json"
     },
     {
       "igdb_id": 413683,
@@ -36978,6 +37008,11 @@
       "file": "missing/C/126012-cauldron-i-and-ii.json"
     },
     {
+      "igdb_id": 169923,
+      "game_name": "Cauldrons of War: Barbarossa",
+      "file": "missing/C/169923-cauldrons-of-war-barbarossa.json"
+    },
+    {
       "igdb_id": 236256,
       "game_name": "Causal Nexus",
       "file": "missing/C/236256-causal-nexus.json"
@@ -39453,6 +39488,11 @@
       "file": "missing/C/253383-choice-of-rebels-stormwright.json"
     },
     {
+      "igdb_id": 169935,
+      "game_name": "Choice of the Vampire: St. Louis, Unreal City",
+      "file": "missing/C/169935-choice-of-the-vampire-st-louis-unreal-city.json"
+    },
+    {
       "igdb_id": 114404,
       "game_name": "Choice or Fate",
       "file": "missing/C/114404-choice-or-fate.json"
@@ -41781,6 +41821,11 @@
       "igdb_id": 140019,
       "game_name": "Cloverheart",
       "file": "missing/C/140019-cloverheart.json"
+    },
+    {
+      "igdb_id": 169966,
+      "game_name": "Clown",
+      "file": "missing/C/169966-clown.json"
     },
     {
       "igdb_id": 381610,
@@ -52368,6 +52413,11 @@
       "file": "missing/D/324873-dcs-world-f-5e-remastered.json"
     },
     {
+      "igdb_id": 169958,
+      "game_name": "DCS World: F/A-18C - Aggressors BFM Campaign",
+      "file": "missing/D/169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json"
+    },
+    {
       "igdb_id": 325248,
       "game_name": "DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass",
       "file": "missing/D/325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json"
@@ -53921,6 +53971,11 @@
       "igdb_id": 218689,
       "game_name": "Deep Stories Bundle",
       "file": "missing/D/218689-deep-stories-bundle.json"
+    },
+    {
+      "igdb_id": 169957,
+      "game_name": "Deep the Game: The Darkest Cave",
+      "file": "missing/D/169957-deep-the-game-the-darkest-cave.json"
     },
     {
       "igdb_id": 96040,
@@ -66543,6 +66598,11 @@
       "file": "missing/E/279594-eisadler-jagd.json"
     },
     {
+      "igdb_id": 169951,
+      "game_name": "Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen",
+      "file": "missing/E/169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json"
+    },
+    {
       "igdb_id": 25607,
       "game_name": "Eisenwald: Blood of November",
       "file": "missing/E/25607-eisenwald-blood-of-november.json"
@@ -76203,6 +76263,11 @@
       "file": "missing/F/56494-finding-bigfoot.json"
     },
     {
+      "igdb_id": 169928,
+      "game_name": "Finding Brenda: Episode 1",
+      "file": "missing/F/169928-finding-brenda-episode-1.json"
+    },
+    {
       "igdb_id": 359408,
       "game_name": "Finding Chase",
       "file": "missing/F/359408-finding-chase.json"
@@ -77221,6 +77286,11 @@
       "igdb_id": 228093,
       "game_name": "Fishing Sim World: Pro Tour - Deluxe Edition",
       "file": "missing/F/228093-fishing-sim-world-pro-tour-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 169970,
+      "game_name": "Fishing Sim World: Pro Tour - Gigantica Road Lake",
+      "file": "missing/F/169970-fishing-sim-world-pro-tour-gigantica-road-lake.json"
     },
     {
       "igdb_id": 170474,
@@ -100238,6 +100308,11 @@
       "file": "missing/H/239035-home-designer-house-makeover.json"
     },
     {
+      "igdb_id": 169947,
+      "game_name": "Home Designer: Living Room",
+      "file": "missing/H/169947-home-designer-living-room.json"
+    },
+    {
       "igdb_id": 213371,
       "game_name": "Home From Work 2",
       "file": "missing/H/213371-home-from-work-2.json"
@@ -100821,6 +100896,11 @@
       "igdb_id": 295531,
       "game_name": "Hope Timbre",
       "file": "missing/H/295531-hope-timbre.json"
+    },
+    {
+      "igdb_id": 169926,
+      "game_name": "Hope VR: Emotional Intelligence Assistant",
+      "file": "missing/H/169926-hope-vr-emotional-intelligence-assistant.json"
     },
     {
       "igdb_id": 410251,
@@ -102021,6 +102101,11 @@
       "igdb_id": 122825,
       "game_name": "How to Raise a Wolf Girl",
       "file": "missing/H/122825-how-to-raise-a-wolf-girl.json"
+    },
+    {
+      "igdb_id": 169929,
+      "game_name": "How to Survive 2: Dead Dynamite",
+      "file": "missing/H/169929-how-to-survive-2-dead-dynamite.json"
     },
     {
       "igdb_id": 170434,
@@ -110723,6 +110808,11 @@
       "file": "missing/J/126907-jewel-match-atlantis-solitaire-collectors-edition.json"
     },
     {
+      "igdb_id": 169954,
+      "game_name": "Jewel Match Origins: Palais Imperial - Collector's Edition",
+      "file": "missing/J/169954-jewel-match-origins-palais-imperial-collectors-edition.json"
+    },
+    {
       "igdb_id": 362851,
       "game_name": "Jewel Match Solitaire Winterscapes 3: Collector's Edition",
       "file": "missing/J/362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json"
@@ -115528,6 +115618,26 @@
       "file": "missing/K/53238-kings-bounty-dark-side-premium-edition.json"
     },
     {
+      "igdb_id": 169933,
+      "game_name": "King's Bounty: Legions - Beast Master Pack",
+      "file": "missing/K/169933-kings-bounty-legions-beast-master-pack.json"
+    },
+    {
+      "igdb_id": 169934,
+      "game_name": "King's Bounty: Legions - Champion of the Realm Pack",
+      "file": "missing/K/169934-kings-bounty-legions-champion-of-the-realm-pack.json"
+    },
+    {
+      "igdb_id": 169932,
+      "game_name": "King's Bounty: Legions - Lord of Chaos Pack",
+      "file": "missing/K/169932-kings-bounty-legions-lord-of-chaos-pack.json"
+    },
+    {
+      "igdb_id": 169931,
+      "game_name": "King's Bounty: Legions - True Tactician Ultimate Pack",
+      "file": "missing/K/169931-kings-bounty-legions-true-tactician-ultimate-pack.json"
+    },
+    {
       "igdb_id": 53258,
       "game_name": "King's Bounty: Ultimate Edition",
       "file": "missing/K/53258-kings-bounty-ultimate-edition.json"
@@ -117091,6 +117201,11 @@
       "igdb_id": 150134,
       "game_name": "Kokoro: Baka-Monogatari",
       "file": "missing/K/150134-kokoro-baka-monogatari.json"
+    },
+    {
+      "igdb_id": 169944,
+      "game_name": "Kokorogawari: Mini Quiz Game",
+      "file": "missing/K/169944-kokorogawari-mini-quiz-game.json"
     },
     {
       "igdb_id": 206338,
@@ -120683,6 +120798,11 @@
       "file": "missing/L/53271-lego-star-wars-the-force-awakens-deluxe-edition.json"
     },
     {
+      "igdb_id": 169925,
+      "game_name": "LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack",
+      "file": "missing/L/169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json"
+    },
+    {
       "igdb_id": 4112,
       "game_name": "LEGO Stunt Rally",
       "file": "missing/L/4112-lego-stunt-rally.json"
@@ -121881,6 +122001,11 @@
       "igdb_id": 10959,
       "game_name": "Life Simulator",
       "file": "missing/L/10959-life-simulator.json"
+    },
+    {
+      "igdb_id": 169945,
+      "game_name": "Life Simulator",
+      "file": "missing/L/169945-life-simulator.json"
     },
     {
       "igdb_id": 231930,
@@ -127208,6 +127333,11 @@
       "file": "missing/M/301819-mage-vs-castle.json"
     },
     {
+      "igdb_id": 169946,
+      "game_name": "Mage: Enchanted",
+      "file": "missing/M/169946-mage-enchanted.json"
+    },
+    {
       "igdb_id": 302359,
       "game_name": "Magekeepers",
       "file": "missing/M/302359-magekeepers.json"
@@ -130748,6 +130878,11 @@
       "file": "missing/M/69-master-of-orion-iii.json"
     },
     {
+      "igdb_id": 169972,
+      "game_name": "Master of Orion: Gnolam League",
+      "file": "missing/M/169972-master-of-orion-gnolam-league.json"
+    },
+    {
       "igdb_id": 293065,
       "game_name": "Master of Pieces: Jigsaw Puzzle - Bonsai",
       "file": "missing/M/293065-master-of-pieces-jigsaw-puzzle-bonsai.json"
@@ -133601,6 +133736,11 @@
       "igdb_id": 299724,
       "game_name": "Mencabrona",
       "file": "missing/M/299724-mencabrona.json"
+    },
+    {
+      "igdb_id": 169959,
+      "game_name": "Mend Arcade Battle",
+      "file": "missing/M/169959-mend-arcade-battle.json"
     },
     {
       "igdb_id": 191835,
@@ -151858,6 +151998,11 @@
       "file": "missing/O/412276-oasis-of-lilies.json"
     },
     {
+      "igdb_id": 169955,
+      "game_name": "Oath",
+      "file": "missing/O/169955-oath.json"
+    },
+    {
       "igdb_id": 231920,
       "game_name": "Oath of peak",
       "file": "missing/O/231920-oath-of-peak.json"
@@ -152176,6 +152321,11 @@
       "igdb_id": 279637,
       "game_name": "OD: Knock",
       "file": "missing/O/279637-od-knock.json"
+    },
+    {
+      "igdb_id": 169973,
+      "game_name": "Odd Adventure of Chub, Color, 23 and You",
+      "file": "missing/O/169973-odd-adventure-of-chub-color-23-and-you.json"
     },
     {
       "igdb_id": 60588,
@@ -166928,6 +167078,11 @@
       "file": "missing/P/244232-portable-vr.json"
     },
     {
+      "igdb_id": 169962,
+      "game_name": "Portal 2: Community Edition",
+      "file": "missing/P/169962-portal-2-community-edition.json"
+    },
+    {
       "igdb_id": 313481,
       "game_name": "Portal 2: Google Translate Edition",
       "file": "missing/P/313481-portal-2-google-translate-edition.json"
@@ -178678,6 +178833,11 @@
       "file": "missing/R/174286-riddle-of-the-sphinx.json"
     },
     {
+      "igdb_id": 169930,
+      "game_name": "Riddle of the Sphinx: Moonlight Exploration",
+      "file": "missing/R/169930-riddle-of-the-sphinx-moonlight-exploration.json"
+    },
+    {
       "igdb_id": 318433,
       "game_name": "Riddle Tower: Halloween DLC",
       "file": "missing/R/318433-riddle-tower-halloween-dlc.json"
@@ -182723,6 +182883,11 @@
       "file": "missing/R/178592-ruffhousin.json"
     },
     {
+      "igdb_id": 169953,
+      "game_name": "Rugby 18: The British and Irish Lions 2017 Team",
+      "file": "missing/R/169953-rugby-18-the-british-and-irish-lions-2017-team.json"
+    },
+    {
       "igdb_id": 122704,
       "game_name": "Rugby 20",
       "file": "missing/R/122704-rugby-20.json"
@@ -183186,6 +183351,11 @@
       "igdb_id": 326617,
       "game_name": "Runes of Legend",
       "file": "missing/R/326617-runes-of-legend.json"
+    },
+    {
+      "igdb_id": 169974,
+      "game_name": "Runes of Magic: Dragon Adventure Pack",
+      "file": "missing/R/169974-runes-of-magic-dragon-adventure-pack.json"
     },
     {
       "igdb_id": 348246,
@@ -188576,6 +188746,11 @@
       "igdb_id": 273672,
       "game_name": "Sentinels of Earth-Prime: Magical Mysteries Mini-Pack",
       "file": "missing/S/273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json"
+    },
+    {
+      "igdb_id": 169969,
+      "game_name": "Sentinels of the Multiverse: Vengeance",
+      "file": "missing/S/169969-sentinels-of-the-multiverse-vengeance.json"
     },
     {
       "igdb_id": 34388,
@@ -204513,6 +204688,16 @@
       "file": "missing/S/221972-star-sword.json"
     },
     {
+      "igdb_id": 169965,
+      "game_name": "Star Tactics Redux",
+      "file": "missing/S/169965-star-tactics-redux.json"
+    },
+    {
+      "igdb_id": 169952,
+      "game_name": "Star Tactics Redux: Expeditions",
+      "file": "missing/S/169952-star-tactics-redux-expeditions.json"
+    },
+    {
       "igdb_id": 169457,
       "game_name": "Star Tank",
       "file": "missing/S/169457-star-tank.json"
@@ -206181,6 +206366,11 @@
       "igdb_id": 16243,
       "game_name": "Steel Storm: Burning Retribution",
       "file": "missing/S/16243-steel-storm-burning-retribution.json"
+    },
+    {
+      "igdb_id": 169961,
+      "game_name": "Steel Storm: Forgotten Prison",
+      "file": "missing/S/169961-steel-storm-forgotten-prison.json"
     },
     {
       "igdb_id": 34403,
@@ -218153,6 +218343,41 @@
       "file": "missing/T/167298-tennis-world-tour-2-sofia-kenin-and-karolina-pliskova.json"
     },
     {
+      "igdb_id": 169937,
+      "game_name": "Tennis World Tour: Alex De Minaur",
+      "file": "missing/T/169937-tennis-world-tour-alex-de-minaur.json"
+    },
+    {
+      "igdb_id": 169943,
+      "game_name": "Tennis World Tour: Alex De Minaur",
+      "file": "missing/T/169943-tennis-world-tour-alex-de-minaur.json"
+    },
+    {
+      "igdb_id": 169939,
+      "game_name": "Tennis World Tour: Caroline Garcia",
+      "file": "missing/T/169939-tennis-world-tour-caroline-garcia.json"
+    },
+    {
+      "igdb_id": 169941,
+      "game_name": "Tennis World Tour: Kristina Mladenovic",
+      "file": "missing/T/169941-tennis-world-tour-kristina-mladenovic.json"
+    },
+    {
+      "igdb_id": 169942,
+      "game_name": "Tennis World Tour: Legends Bonus Pack",
+      "file": "missing/T/169942-tennis-world-tour-legends-bonus-pack.json"
+    },
+    {
+      "igdb_id": 169938,
+      "game_name": "Tennis World Tour: Rafael Nadal",
+      "file": "missing/T/169938-tennis-world-tour-rafael-nadal.json"
+    },
+    {
+      "igdb_id": 169940,
+      "game_name": "Tennis World Tour: Stadium Pack",
+      "file": "missing/T/169940-tennis-world-tour-stadium-pack.json"
+    },
+    {
       "igdb_id": 170010,
       "game_name": "Tennis-e",
       "file": "missing/T/170010-tennis-e.json"
@@ -220381,6 +220606,11 @@
       "igdb_id": 197360,
       "game_name": "The Book of Weapons",
       "file": "missing/T/197360-the-book-of-weapons.json"
+    },
+    {
+      "igdb_id": 169964,
+      "game_name": "The Book of Yorle: Save the Village",
+      "file": "missing/T/169964-the-book-of-yorle-save-the-village.json"
     },
     {
       "igdb_id": 406117,
@@ -230208,6 +230438,11 @@
       "file": "missing/T/213046-the-ultimate-fmv-bundle-2.json"
     },
     {
+      "igdb_id": 169922,
+      "game_name": "The ultimate secret of the universe: Soul",
+      "file": "missing/T/169922-the-ultimate-secret-of-the-universe-soul.json"
+    },
+    {
       "igdb_id": 34428,
       "game_name": "The Ultimate Showdown",
       "file": "missing/T/34428-the-ultimate-showdown.json"
@@ -238026,6 +238261,11 @@
       "igdb_id": 111023,
       "game_name": "Train Simulator 2019",
       "file": "missing/T/111023-train-simulator-2019.json"
+    },
+    {
+      "igdb_id": 169924,
+      "game_name": "Train Simulator 2021: 0-4-0 Saddletank Pack 1 Add-on Loco",
+      "file": "missing/T/169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json"
     },
     {
       "igdb_id": 162416,
@@ -251573,6 +251813,11 @@
       "file": "missing/W/131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json"
     },
     {
+      "igdb_id": 169960,
+      "game_name": "Welcome To... Chichester 3: Original Episode",
+      "file": "missing/W/169960-welcome-to-chichester-3-original-episode.json"
+    },
+    {
       "igdb_id": 248334,
       "game_name": "Welcome To... Chichester OVN: Omnibus Edition",
       "file": "missing/W/248334-welcome-to-chichester-ovn-omnibus-edition.json"
@@ -259161,6 +259406,11 @@
       "igdb_id": 287675,
       "game_name": "Yumpr",
       "file": "missing/Y/287675-yumpr.json"
+    },
+    {
+      "igdb_id": 169963,
+      "game_name": "Yuna: Sugar Hearts and Love - New Love",
+      "file": "missing/Y/169963-yuna-sugar-hearts-and-love-new-love.json"
     },
     {
       "igdb_id": 330541,
