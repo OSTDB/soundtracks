@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
 | Mission: Space | 264028 | [264028-mission-space.json](./264028-mission-space.json) |
+| Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
@@ -3097,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Music Sim Empire | 298031 | [298031-music-sim-empire.json](./298031-music-sim-empire.json) |
+| Music Store Simulator | 207326 | [207326-music-store-simulator.json](./207326-music-store-simulator.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
@@ -3357,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
+| My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
 | My Universe: My Baby - New Edition | 170028 | [170028-my-universe-my-baby-new-edition.json](./170028-my-universe-my-baby-new-edition.json) |
 | My Universe: Pets Edition | 221949 | [221949-my-universe-pets-edition.json](./221949-my-universe-pets-edition.json) |
@@ -3480,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Mountain | 234615 | [234615-mythic-mountain.json](./234615-mythic-mountain.json) |
 | Mythic Ocean | 93804 | [93804-mythic-ocean.json](./93804-mythic-ocean.json) |
 | Mythic Origin | 227265 | [227265-mythic-origin.json](./227265-mythic-origin.json) |
+| Mythic Origins | 207321 | [207321-mythic-origins.json](./207321-mythic-origins.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
 | Mything | 381597 | [381597-mything.json](./381597-mything.json) |
