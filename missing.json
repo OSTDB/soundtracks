@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T13:18:36.263Z",
-  "total_missing": 50593,
+  "generated_at": "2026-09-09T13:21:05.622Z",
+  "total_missing": 50592,
   "games": [
     {
       "igdb_id": 306086,
@@ -811,11 +811,6 @@
       "igdb_id": 124263,
       "game_name": "20 Minute Metropolis",
       "file": "missing/0-9/124263-20-minute-metropolis.json"
-    },
-    {
-      "igdb_id": 393460,
-      "game_name": "20 More, Somehow Even Smaller, Mazes",
-      "file": "missing/0-9/393460-20-more-somehow-even-smaller-mazes.json"
     },
     {
       "igdb_id": 243962,
