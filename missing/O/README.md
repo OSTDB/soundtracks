@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Contagious Memories | 194663 | [194663-outbreak-contagious-memories.json](./194663-outbreak-contagious-memories.json) |
 | Outbreak: Dark Dimensions Collection | 308579 | [308579-outbreak-dark-dimensions-collection.json](./308579-outbreak-dark-dimensions-collection.json) |
 | Outbreak: Gwen's Nightmare | 256264 | [256264-outbreak-gwens-nightmare.json](./256264-outbreak-gwens-nightmare.json) |
+| Outbreak: Palladium Collection | 196278 | [196278-outbreak-palladium-collection.json](./196278-outbreak-palladium-collection.json) |
 | Outbreak: Platinum Collection | 205578 | [205578-outbreak-platinum-collection.json](./205578-outbreak-platinum-collection.json) |
 | Outbreak: Silver Collection | 205579 | [205579-outbreak-silver-collection.json](./205579-outbreak-silver-collection.json) |
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
