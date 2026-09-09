@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Keeper 3D | 222337 | [222337-zoo-keeper-3d.json](./222337-zoo-keeper-3d.json) |
 | Zoo Merge | 349307 | [349307-zoo-merge.json](./349307-zoo-merge.json) |
 | Zoo Simulator | 216802 | [216802-zoo-simulator.json](./216802-zoo-simulator.json) |
+| Zoo Squad | 192394 | [192394-zoo-squad.json](./192394-zoo-squad.json) |
 | Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
 | Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
