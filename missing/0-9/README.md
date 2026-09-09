@@ -112,7 +112,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
-| 13 Minutes of Light | 98413 | [98413-13-minutes-of-light.json](./98413-13-minutes-of-light.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13 Sentinels: Aegis Rim | 28337 | [28337-13-sentinels-aegis-rim.json](./28337-13-sentinels-aegis-rim.json) |
 | 13 Thieves | 234074 | [234074-13-thieves.json](./234074-13-thieves.json) |
