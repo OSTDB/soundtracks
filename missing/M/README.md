@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Mishap | 256820 | [256820-mayan-mishap.json](./256820-mayan-mishap.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
+| Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
@@ -995,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
 | Maze Runner | 72108 | [72108-maze-runner.json](./72108-maze-runner.json) |
+| Maze Twister | 191820 | [191820-maze-twister.json](./191820-maze-twister.json) |
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
@@ -1384,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menagerie I: Exoptable Money | 223664 | [223664-menagerie-i-exoptable-money.json](./223664-menagerie-i-exoptable-money.json) |
 | Mencabrona | 299724 | [299724-mencabrona.json](./299724-mencabrona.json) |
+| Mendalos | 191835 | [191835-mendalos.json](./191835-mendalos.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
 | Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
@@ -3179,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Music Sim Empire | 298031 | [298031-music-sim-empire.json](./298031-music-sim-empire.json) |
 | Music Store Simulator | 207326 | [207326-music-store-simulator.json](./207326-music-store-simulator.json) |
+| Music Thief | 191813 | [191813-music-thief.json](./191813-music-thief.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
