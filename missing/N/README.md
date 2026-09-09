@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Samurai | 212468 | [212468-neko-samurai.json](./212468-neko-samurai.json) |
 | Neko Secret: Homecoming | 200647 | [200647-neko-secret-homecoming.json](./200647-neko-secret-homecoming.json) |
 | Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
+| Neko to Sakana | 188601 | [188601-neko-to-sakana.json](./188601-neko-to-sakana.json) |
 | Neko-Nin ExHeart 3 | 126911 | [126911-neko-nin-exheart-3.json](./126911-neko-nin-exheart-3.json) |
 | Neko-sama no Karaguri: Garden kara no Dasshutsu | 240231 | [240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json](./240231-neko-sama-no-karaguri-garden-kara-no-dasshutsu.json) |
 | Neko-sama no Kominka kara no Dasshutsu | 260689 | [260689-neko-sama-no-kominka-kara-no-dasshutsu.json](./260689-neko-sama-no-kominka-kara-no-dasshutsu.json) |
@@ -1145,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | Noroware Cycle | 223481 | [223481-noroware-cycle.json](./223481-noroware-cycle.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
+| Norse | 188562 | [188562-norse.json](./188562-norse.json) |
 | Norse by Norse West: The Return of the Lost Vikings | 2615 | [2615-norse-by-norse-west-the-return-of-the-lost-vikings.json](./2615-norse-by-norse-west-the-return-of-the-lost-vikings.json) |
 | North American Hunting Extravaganza 2 | 50619 | [50619-north-american-hunting-extravaganza-2.json](./50619-north-american-hunting-extravaganza-2.json) |
 | North Stars | 102143 | [102143-north-stars.json](./102143-north-stars.json) |
