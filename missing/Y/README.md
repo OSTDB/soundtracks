@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You... and who else? | 33098 | [33098-you-and-who-else.json](./33098-you-and-who-else.json) |
 | You'll Stay Here Forever | 250346 | [250346-youll-stay-here-forever.json](./250346-youll-stay-here-forever.json) |
 | You're Boned | 287672 | [287672-youre-boned.json](./287672-youre-boned.json) |
+| You're Going to Make a Great Mother One Day | 177490 | [177490-youre-going-to-make-a-great-mother-one-day.json](./177490-youre-going-to-make-a-great-mother-one-day.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
 | You're My Hero | 55934 | [55934-youre-my-hero.json](./55934-youre-my-hero.json) |
@@ -272,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
 | Yukyo Station | 216809 | [216809-yukyo-station.json](./216809-yukyo-station.json) |
 | Yuldigard's Fate | 133463 | [133463-yuldigards-fate.json](./133463-yuldigards-fate.json) |
+| Yule Sock | 178610 | [178610-yule-sock.json](./178610-yule-sock.json) |
 | Yuletide Legends: Frozen Hearts | 415949 | [415949-yuletide-legends-frozen-hearts.json](./415949-yuletide-legends-frozen-hearts.json) |
 | Yum Yum! Dating Show | 204456 | [204456-yum-yum-dating-show.json](./204456-yum-yum-dating-show.json) |
 | Yum Yummy Superlicious | 96736 | [96736-yum-yummy-superlicious.json](./96736-yum-yummy-superlicious.json) |
