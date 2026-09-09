@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raft Survival Evolve Simulator | 103521 | [103521-raft-survival-evolve-simulator.json](./103521-raft-survival-evolve-simulator.json) |
 | Raft Wars 2 | 220138 | [220138-raft-wars-2.json](./220138-raft-wars-2.json) |
 | Rafting Frenzy | 253367 | [253367-rafting-frenzy.json](./253367-rafting-frenzy.json) |
+| Rag Doll Kung Fu: Black Belt Edition | 201793 | [201793-rag-doll-kung-fu-black-belt-edition.json](./201793-rag-doll-kung-fu-black-belt-edition.json) |
 | RaGaBa | 27780 | [27780-ragaba.json](./27780-ragaba.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Laser Battle | 163979 | [163979-ragdoll-laser-battle.json](./163979-ragdoll-laser-battle.json) |
