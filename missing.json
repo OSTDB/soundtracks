@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T07:11:06.997Z",
-  "total_missing": 49562,
+  "generated_at": "2026-09-09T07:18:40.434Z",
+  "total_missing": 49612,
   "games": [
     {
       "igdb_id": 306086,
@@ -12383,6 +12383,11 @@
       "file": "missing/A/119059-apogee-games-companion-cd-rom.json"
     },
     {
+      "igdb_id": 199021,
+      "game_name": "Apollo 13",
+      "file": "missing/A/199021-apollo-13.json"
+    },
+    {
       "igdb_id": 318771,
       "game_name": "Apollo Justice: Ace Attorney 4",
       "file": "missing/A/318771-apollo-justice-ace-attorney-4.json"
@@ -12511,6 +12516,11 @@
       "igdb_id": 251841,
       "game_name": "April '86",
       "file": "missing/A/251841-april-86.json"
+    },
+    {
+      "igdb_id": 199052,
+      "game_name": "April Was A Fool",
+      "file": "missing/A/199052-april-was-a-fool.json"
     },
     {
       "igdb_id": 165661,
@@ -13651,6 +13661,11 @@
       "igdb_id": 271478,
       "game_name": "Are you yet Living?",
       "file": "missing/A/271478-are-you-yet-living.json"
+    },
+    {
+      "igdb_id": 199022,
+      "game_name": "Area 51",
+      "file": "missing/A/199022-area-51.json"
     },
     {
       "igdb_id": 200152,
@@ -18336,6 +18351,11 @@
       "igdb_id": 31919,
       "game_name": "Bacon Tales: Between Pigs and Wolves",
       "file": "missing/B/31919-bacon-tales-between-pigs-and-wolves.json"
+    },
+    {
+      "igdb_id": 199079,
+      "game_name": "Bacon: The Game",
+      "file": "missing/B/199079-bacon-the-game.json"
     },
     {
       "igdb_id": 309097,
@@ -23486,6 +23506,11 @@
       "igdb_id": 151206,
       "game_name": "Bibi & Tina: Mikoschs großer Auftritt",
       "file": "missing/B/151206-bibi-and-tina-mikoschs-gro-er-auftritt.json"
+    },
+    {
+      "igdb_id": 199069,
+      "game_name": "Bibi Blocksberg: Der Magische Hexenkreis",
+      "file": "missing/B/199069-bibi-blocksberg-der-magische-hexenkreis.json"
     },
     {
       "igdb_id": 337459,
@@ -30428,6 +30453,11 @@
       "file": "missing/B/25583-brutal-doom-64.json"
     },
     {
+      "igdb_id": 199067,
+      "game_name": "Brutal Doom: Ali Jr's Challenge",
+      "file": "missing/B/199067-brutal-doom-ali-jrs-challenge.json"
+    },
+    {
       "igdb_id": 132862,
       "game_name": "Brutal Mario",
       "file": "missing/B/132862-brutal-mario.json"
@@ -35453,6 +35483,11 @@
       "file": "missing/C/344943-catgirl.json"
     },
     {
+      "igdb_id": 199057,
+      "game_name": "Catgirl & Doggirl Cafe",
+      "file": "missing/C/199057-catgirl-and-doggirl-cafe.json"
+    },
+    {
       "igdb_id": 310213,
       "game_name": "Catgirl Aim Trainer",
       "file": "missing/C/310213-catgirl-aim-trainer.json"
@@ -39841,6 +39876,16 @@
       "igdb_id": 218703,
       "game_name": "Click to Sail",
       "file": "missing/C/218703-click-to-sail.json"
+    },
+    {
+      "igdb_id": 199036,
+      "game_name": "Click: Commute Control",
+      "file": "missing/C/199036-click-commute-control.json"
+    },
+    {
+      "igdb_id": 199037,
+      "game_name": "Click: Control Your Game",
+      "file": "missing/C/199037-click-control-your-game.json"
     },
     {
       "igdb_id": 94731,
@@ -75788,6 +75833,11 @@
       "file": "missing/F/302930-footage.json"
     },
     {
+      "igdb_id": 199023,
+      "game_name": "Football",
+      "file": "missing/F/199023-football.json"
+    },
+    {
       "igdb_id": 346582,
       "game_name": "Football Career Mode 26",
       "file": "missing/F/346582-football-career-mode-26.json"
@@ -77876,6 +77926,11 @@
       "igdb_id": 225302,
       "game_name": "Friday Night Funkin': VS Spider-Man - Volume II",
       "file": "missing/F/225302-friday-night-funkin-vs-spider-man-volume-ii.json"
+    },
+    {
+      "igdb_id": 199045,
+      "game_name": "Friday Night Funkin': VS. Cassette Girl",
+      "file": "missing/F/199045-friday-night-funkin-vs-cassette-girl.json"
     },
     {
       "igdb_id": 332226,
@@ -83578,6 +83633,11 @@
       "file": "missing/G/346030-gnaughty-gnomes.json"
     },
     {
+      "igdb_id": 199058,
+      "game_name": "GnollHack",
+      "file": "missing/G/199058-gnollhack.json"
+    },
+    {
       "igdb_id": 184662,
       "game_name": "Gnomael's Vampire",
       "file": "missing/G/184662-gnomaels-vampire.json"
@@ -85161,6 +85221,11 @@
       "igdb_id": 301019,
       "game_name": "Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie",
       "file": "missing/G/301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json"
+    },
+    {
+      "igdb_id": 199063,
+      "game_name": "Goose Simulator",
+      "file": "missing/G/199063-goose-simulator.json"
     },
     {
       "igdb_id": 19667,
@@ -87701,6 +87766,11 @@
       "igdb_id": 104058,
       "game_name": "Gull Kebap VR",
       "file": "missing/G/104058-gull-kebap-vr.json"
+    },
+    {
+      "igdb_id": 199059,
+      "game_name": "Gulman 3D",
+      "file": "missing/G/199059-gulman-3d.json"
     },
     {
       "igdb_id": 413005,
@@ -90493,6 +90563,11 @@
       "file": "missing/H/294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json"
     },
     {
+      "igdb_id": 199044,
+      "game_name": "Hatsune Miku: Roller Skating Music",
+      "file": "missing/H/199044-hatsune-miku-roller-skating-music.json"
+    },
+    {
       "igdb_id": 270408,
       "game_name": "Hattrick",
       "file": "missing/H/270408-hattrick.json"
@@ -90841,6 +90916,21 @@
       "igdb_id": 200715,
       "game_name": "Hayai",
       "file": "missing/H/200715-hayai.json"
+    },
+    {
+      "igdb_id": 199033,
+      "game_name": "Hayami-Chan",
+      "file": "missing/H/199033-hayami-chan.json"
+    },
+    {
+      "igdb_id": 199034,
+      "game_name": "Hayami-Chan 2",
+      "file": "missing/H/199034-hayami-chan-2.json"
+    },
+    {
+      "igdb_id": 199035,
+      "game_name": "Hayami-Chan 3",
+      "file": "missing/H/199035-hayami-chan-3.json"
     },
     {
       "igdb_id": 256270,
@@ -95713,6 +95803,11 @@
       "file": "missing/H/43330-homura.json"
     },
     {
+      "igdb_id": 199055,
+      "game_name": "Homura Hime",
+      "file": "missing/H/199055-homura-hime.json"
+    },
+    {
       "igdb_id": 390530,
       "game_name": "Homura: The Crimson Warriors - Deluxe Edition",
       "file": "missing/H/390530-homura-the-crimson-warriors-deluxe-edition.json"
@@ -97606,6 +97701,11 @@
       "igdb_id": 39031,
       "game_name": "Humans 3: Evolution - Lost in Time",
       "file": "missing/H/39031-humans-3-evolution-lost-in-time.json"
+    },
+    {
+      "igdb_id": 199060,
+      "game_name": "Humans vs. Vampires",
+      "file": "missing/H/199060-humans-vs-vampires.json"
     },
     {
       "igdb_id": 180845,
@@ -105868,6 +105968,11 @@
       "file": "missing/J/241056-jims-gym.json"
     },
     {
+      "igdb_id": 199073,
+      "game_name": "Jimbob and the Magic Chain",
+      "file": "missing/J/199073-jimbob-and-the-magic-chain.json"
+    },
+    {
       "igdb_id": 365696,
       "game_name": "Jimmy Connors Tennis",
       "file": "missing/J/365696-jimmy-connors-tennis.json"
@@ -113916,6 +114021,11 @@
       "igdb_id": 102624,
       "game_name": "Lazy Galaxy: Rebel Story",
       "file": "missing/L/102624-lazy-galaxy-rebel-story.json"
+    },
+    {
+      "igdb_id": 199039,
+      "game_name": "LazyTown Live! The Pirate Adventure",
+      "file": "missing/L/199039-lazytown-live-the-pirate-adventure.json"
     },
     {
       "igdb_id": 275915,
@@ -128383,6 +128493,11 @@
       "file": "missing/M/153451-mickey-mouse-iv-mahou-no-labyrinth.json"
     },
     {
+      "igdb_id": 199064,
+      "game_name": "Mickey Mouse Murder House",
+      "file": "missing/M/199064-mickey-mouse-murder-house.json"
+    },
+    {
       "igdb_id": 299463,
       "game_name": "Mickey to Ooki na Furudokei",
       "file": "missing/M/299463-mickey-to-ooki-na-furudokei.json"
@@ -134073,6 +134188,11 @@
       "file": "missing/M/305553-mortal-kombat-mobile.json"
     },
     {
+      "igdb_id": 199010,
+      "game_name": "Mortal Kombat Trilogy",
+      "file": "missing/M/199010-mortal-kombat-trilogy.json"
+    },
+    {
       "igdb_id": 4121,
       "game_name": "Mortal Kombat Trilogy",
       "file": "missing/M/4121-mortal-kombat-trilogy.json"
@@ -136618,6 +136738,11 @@
       "file": "missing/M/114406-my-goddess-of-love.json"
     },
     {
+      "igdb_id": 199040,
+      "game_name": "My Hayami-Chan",
+      "file": "missing/M/199040-my-hayami-chan.json"
+    },
+    {
       "igdb_id": 292316,
       "game_name": "My Head On Your Body",
       "file": "missing/M/292316-my-head-on-your-body.json"
@@ -138651,6 +138776,11 @@
       "igdb_id": 273941,
       "game_name": "NASCAR Heat Bundle",
       "file": "missing/N/273941-nascar-heat-bundle.json"
+    },
+    {
+      "igdb_id": 199011,
+      "game_name": "Nascar Racing",
+      "file": "missing/N/199011-nascar-racing.json"
     },
     {
       "igdb_id": 45224,
@@ -141946,6 +142076,11 @@
       "igdb_id": 17140,
       "game_name": "Nightmares from the Deep 3: Davy Jones",
       "file": "missing/N/17140-nightmares-from-the-deep-3-davy-jones.json"
+    },
+    {
+      "igdb_id": 199025,
+      "game_name": "Nights into Dreams",
+      "file": "missing/N/199025-nights-into-dreams.json"
     },
     {
       "igdb_id": 263772,
@@ -148593,6 +148728,11 @@
       "file": "missing/O/63870-otoko-dogeza-zigoku.json"
     },
     {
+      "igdb_id": 199051,
+      "game_name": "Otome Chat Connection",
+      "file": "missing/O/199051-otome-chat-connection.json"
+    },
+    {
       "igdb_id": 248628,
       "game_name": "Otona no Gal Jan Kimi ni Hane Man",
       "file": "missing/O/248628-otona-no-gal-jan-kimi-ni-hane-man.json"
@@ -150698,6 +150838,11 @@
       "file": "missing/P/132273-panzer-crew-vr.json"
     },
     {
+      "igdb_id": 199012,
+      "game_name": "Panzer Dragoon",
+      "file": "missing/P/199012-panzer-dragoon.json"
+    },
+    {
       "igdb_id": 324314,
       "game_name": "Panzer Strike",
       "file": "missing/P/324314-panzer-strike.json"
@@ -151421,6 +151566,11 @@
       "igdb_id": 305167,
       "game_name": "Parity Shot Integral",
       "file": "missing/P/305167-parity-shot-integral.json"
+    },
+    {
+      "igdb_id": 199061,
+      "game_name": "Park After Dark",
+      "file": "missing/P/199061-park-after-dark.json"
     },
     {
       "igdb_id": 262670,
@@ -159988,6 +160138,11 @@
       "file": "missing/P/243924-primal-planet.json"
     },
     {
+      "igdb_id": 199013,
+      "game_name": "Primal Rage",
+      "file": "missing/P/199013-primal-rage.json"
+    },
+    {
       "igdb_id": 220652,
       "game_name": "Primal Roar: Jurassic Dinosaur Era",
       "file": "missing/P/220652-primal-roar-jurassic-dinosaur-era.json"
@@ -163856,6 +164011,11 @@
       "igdb_id": 280188,
       "game_name": "Quake: The Punishment Due",
       "file": "missing/Q/280188-quake-the-punishment-due.json"
+    },
+    {
+      "igdb_id": 199075,
+      "game_name": "Quake: Underdark Overbright & Copper",
+      "file": "missing/Q/199075-quake-underdark-overbright-and-copper.json"
     },
     {
       "igdb_id": 271234,
@@ -171128,6 +171288,11 @@
       "file": "missing/R/3589-road-rash-64.json"
     },
     {
+      "igdb_id": 199014,
+      "game_name": "Road Rash III",
+      "file": "missing/R/199014-road-rash-iii.json"
+    },
+    {
       "igdb_id": 344930,
       "game_name": "Road Riot Combat Racing",
       "file": "missing/R/344930-road-riot-combat-racing.json"
@@ -172781,6 +172946,11 @@
       "igdb_id": 164500,
       "game_name": "Romance of the Three Kingdoms XIV: Legend of the Galactic Heroes Collab - Reinhard & Yang",
       "file": "missing/R/164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json"
+    },
+    {
+      "igdb_id": 199074,
+      "game_name": "Romancing Flesh",
+      "file": "missing/R/199074-romancing-flesh.json"
     },
     {
       "igdb_id": 11311,
@@ -192618,6 +192788,11 @@
       "file": "missing/S/233245-spinny-path.json"
     },
     {
+      "igdb_id": 199054,
+      "game_name": "SpinOff",
+      "file": "missing/S/199054-spinoff.json"
+    },
+    {
       "igdb_id": 301277,
       "game_name": "SpinSweep",
       "file": "missing/S/301277-spinsweep.json"
@@ -194838,6 +195013,11 @@
       "file": "missing/S/347677-star-wars-hunters-season-5-scum-and-villainy.json"
     },
     {
+      "igdb_id": 199015,
+      "game_name": "Star Wars: Imperial Assault",
+      "file": "missing/S/199015-star-wars-imperial-assault.json"
+    },
+    {
       "igdb_id": 200677,
       "game_name": "Star Wars: Lethal Alliance",
       "file": "missing/S/200677-star-wars-lethal-alliance.json"
@@ -194856,6 +195036,11 @@
       "igdb_id": 300715,
       "game_name": "Star Wars: Rebel Assault II - The Hidden Empire",
       "file": "missing/S/300715-star-wars-rebel-assault-ii-the-hidden-empire.json"
+    },
+    {
+      "igdb_id": 199016,
+      "game_name": "Star Wars: Rebel Forces",
+      "file": "missing/S/199016-star-wars-rebel-forces.json"
     },
     {
       "igdb_id": 10204,
@@ -198923,6 +199108,11 @@
       "file": "missing/S/195234-summer-with-you.json"
     },
     {
+      "igdb_id": 199053,
+      "game_name": "Summer's Gone: Season 1",
+      "file": "missing/S/199053-summers-gone-season-1.json"
+    },
+    {
       "igdb_id": 261688,
       "game_name": "Summerhouse",
       "file": "missing/S/261688-summerhouse.json"
@@ -200428,6 +200618,11 @@
       "file": "missing/S/132840-super-mario-64-star-revenge-redone.json"
     },
     {
+      "igdb_id": 199070,
+      "game_name": "Super Mario 64: Through the Ages",
+      "file": "missing/S/199070-super-mario-64-through-the-ages.json"
+    },
+    {
       "igdb_id": 132842,
       "game_name": "Super Mario 74",
       "file": "missing/S/132842-super-mario-74.json"
@@ -200748,6 +200943,11 @@
       "file": "missing/S/5418-super-mario-rpg-legend-of-the-seven-stars.json"
     },
     {
+      "igdb_id": 199032,
+      "game_name": "Super Mario Senseless Delirium",
+      "file": "missing/S/199032-super-mario-senseless-delirium.json"
+    },
+    {
       "igdb_id": 175958,
       "game_name": "Super Mario Spikers",
       "file": "missing/S/175958-super-mario-spikers.json"
@@ -200961,6 +201161,11 @@
       "igdb_id": 255372,
       "game_name": "Super Metroid: Opposition",
       "file": "missing/S/255372-super-metroid-opposition.json"
+    },
+    {
+      "igdb_id": 199009,
+      "game_name": "Super Metroid: Rotation",
+      "file": "missing/S/199009-super-metroid-rotation.json"
     },
     {
       "igdb_id": 343816,
@@ -210208,6 +210413,11 @@
       "file": "missing/T/71000-the-crazed-chicken.json"
     },
     {
+      "igdb_id": 199056,
+      "game_name": "The Crazy Journalist",
+      "file": "missing/T/199056-the-crazy-journalist.json"
+    },
+    {
       "igdb_id": 259834,
       "game_name": "The Creature Zone VR: Nightfall",
       "file": "missing/T/259834-the-creature-zone-vr-nightfall.json"
@@ -214996,6 +215206,11 @@
       "igdb_id": 278993,
       "game_name": "The Mask Game",
       "file": "missing/T/278993-the-mask-game.json"
+    },
+    {
+      "igdb_id": 199024,
+      "game_name": "The Mask of Zorro",
+      "file": "missing/T/199024-the-mask-of-zorro.json"
     },
     {
       "igdb_id": 49965,
@@ -229293,6 +229508,11 @@
       "file": "missing/T/228076-twin-mind-nobodys-here.json"
     },
     {
+      "igdb_id": 199028,
+      "game_name": "Twin Peaks",
+      "file": "missing/T/199028-twin-peaks.json"
+    },
+    {
       "igdb_id": 110584,
       "game_name": "Twin Peaks VR",
       "file": "missing/T/110584-twin-peaks-vr.json"
@@ -231466,6 +231686,11 @@
       "igdb_id": 389403,
       "game_name": "Unicycle Together",
       "file": "missing/U/389403-unicycle-together.json"
+    },
+    {
+      "igdb_id": 199029,
+      "game_name": "Unikitty! Save the Kingdom!",
+      "file": "missing/U/199029-unikitty-save-the-kingdom.json"
     },
     {
       "igdb_id": 251594,
@@ -234793,6 +235018,21 @@
       "file": "missing/V/282019-virtu-pilot.json"
     },
     {
+      "igdb_id": 199018,
+      "game_name": "Virtua Cop",
+      "file": "missing/V/199018-virtua-cop.json"
+    },
+    {
+      "igdb_id": 199019,
+      "game_name": "Virtua Fighter",
+      "file": "missing/V/199019-virtua-fighter.json"
+    },
+    {
+      "igdb_id": 199020,
+      "game_name": "Virtua Fighter 2",
+      "file": "missing/V/199020-virtua-fighter-2.json"
+    },
+    {
       "igdb_id": 39668,
       "game_name": "Virtua Fighter 4: Final Tuned",
       "file": "missing/V/39668-virtua-fighter-4-final-tuned.json"
@@ -235976,6 +236216,11 @@
       "igdb_id": 256006,
       "game_name": "VR Tribes: The VR Edition",
       "file": "missing/V/256006-vr-tribes-the-vr-edition.json"
+    },
+    {
+      "igdb_id": 199017,
+      "game_name": "VR Troopers",
+      "file": "missing/V/199017-vr-troopers.json"
     },
     {
       "igdb_id": 277843,
@@ -238711,6 +238956,11 @@
       "igdb_id": 269305,
       "game_name": "Werner: Let's Go!",
       "file": "missing/W/269305-werner-lets-go.json"
+    },
+    {
+      "igdb_id": 199076,
+      "game_name": "West Game",
+      "file": "missing/W/199076-west-game.json"
     },
     {
       "igdb_id": 273670,
