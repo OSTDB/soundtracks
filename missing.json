@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T02:18:10.657Z",
-  "total_missing": 48896,
+  "generated_at": "2026-09-09T02:21:00.778Z",
+  "total_missing": 48895,
   "games": [
     {
       "igdb_id": 306086,
@@ -466,11 +466,6 @@
       "igdb_id": 258997,
       "game_name": "10Minutes",
       "file": "missing/0-9/258997-10minutes.json"
-    },
-    {
-      "igdb_id": 176512,
-      "game_name": "11.45 A Vivid Life",
-      "file": "missing/0-9/176512-11-45-a-vivid-life.json"
     },
     {
       "igdb_id": 213381,
