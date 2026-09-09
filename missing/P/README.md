@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PapiMountain | 87234 | [87234-papimountain.json](./87234-papimountain.json) |
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
 | Papo & Yo | 7388 | [7388-papo-and-yo.json](./7388-papo-and-yo.json) |
+| Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
@@ -427,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
 | Pass the Pigs | 18271 | [18271-pass-the-pigs.json](./18271-pass-the-pigs.json) |
+| Pass the Sphero | 200110 | [200110-pass-the-sphero.json](./200110-pass-the-sphero.json) |
 | Pass Tiger Cage | 374599 | [374599-pass-tiger-cage.json](./374599-pass-tiger-cage.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
