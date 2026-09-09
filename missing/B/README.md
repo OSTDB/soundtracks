@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Wrestling: Don't Try This at Home | 5734 | [5734-backyard-wrestling-dont-try-this-at-home.json](./5734-backyard-wrestling-dont-try-this-at-home.json) |
 | BAClash | 58271 | [58271-baclash.json](./58271-baclash.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
+| Bacon: The Game | 199079 | [199079-bacon-the-game.json](./199079-bacon-the-game.json) |
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
 | Bacteria Wars | 165701 | [165701-bacteria-wars.json](./165701-bacteria-wars.json) |
 | Bacteria: Collector's Edition | 52620 | [52620-bacteria-collectors-edition.json](./52620-bacteria-collectors-edition.json) |
@@ -1161,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bhard | 401525 | [401525-bhard.json](./401525-bhard.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
+| Bibi Blocksberg: Der Magische Hexenkreis | 199069 | [199069-bibi-blocksberg-der-magische-hexenkreis.json](./199069-bibi-blocksberg-der-magische-hexenkreis.json) |
 | Bibi Bunny | 337459 | [337459-bibi-bunny.json](./337459-bibi-bunny.json) |
 | Bible Trivia | 278164 | [278164-bible-trivia.json](./278164-bible-trivia.json) |
 | Bible Verse Challenge | 317848 | [317848-bible-verse-challenge.json](./317848-bible-verse-challenge.json) |
@@ -2549,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
+| Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
 | Brutal Sports Football | 40814 | [40814-brutal-sports-football.json](./40814-brutal-sports-football.json) |
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
