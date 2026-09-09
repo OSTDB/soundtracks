@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
+| Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
@@ -2453,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
+| Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
@@ -2536,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Fist Totally Accurate Beat 'em up | 124272 | [124272-drunken-fist-totally-accurate-beat-em-up.json](./124272-drunken-fist-totally-accurate-beat-em-up.json) |
 | Drunken Way to Home | 266795 | [266795-drunken-way-to-home.json](./266795-drunken-way-to-home.json) |
 | Drunken Wolf | 358880 | [358880-drunken-wolf.json](./358880-drunken-wolf.json) |
+| Drunkknight | 195689 | [195689-drunkknight.json](./195689-drunkknight.json) |
 | Drunkonauts | 375201 | [375201-drunkonauts.json](./375201-drunkonauts.json) |
 | Druonio | 177013 | [177013-druonio.json](./177013-druonio.json) |
 | Dry | 202356 | [202356-dry.json](./202356-dry.json) |
@@ -2773,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Paint | 351002 | [351002-dungeons-of-paint.json](./351002-dungeons-of-paint.json) |
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
 | Dungeons: The Dark Lord | 8850 | [8850-dungeons-the-dark-lord.json](./8850-dungeons-the-dark-lord.json) |
+| DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
