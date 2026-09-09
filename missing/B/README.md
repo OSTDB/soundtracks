@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baa! Never Stop Bleating | 295565 | [295565-baa-never-stop-bleating.json](./295565-baa-never-stop-bleating.json) |
 | Baba Booey's Adventure | 72118 | [72118-baba-booeys-adventure.json](./72118-baba-booeys-adventure.json) |
 | Baba Is Cool 2 | 301581 | [301581-baba-is-cool-2.json](./301581-baba-is-cool-2.json) |
+| Baba is You Xtreme | 209470 | [209470-baba-is-you-xtreme.json](./209470-baba-is-you-xtreme.json) |
 | Baba's Palace | 311985 | [311985-babas-palace.json](./311985-babas-palace.json) |
 | Babaliba | 45339 | [45339-babaliba.json](./45339-babaliba.json) |
 | Babava's Playspace | 278974 | [278974-babavas-playspace.json](./278974-babavas-playspace.json) |
@@ -667,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
 | Battle of the Lexicon Lords | 294720 | [294720-battle-of-the-lexicon-lords.json](./294720-battle-of-the-lexicon-lords.json) |
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
+| Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
 | Battle Pinball | 37205 | [37205-battle-pinball.json](./37205-battle-pinball.json) |
 | Battle Pingpong | 7774 | [7774-battle-pingpong.json](./7774-battle-pingpong.json) |
 | Battle Pixel's Survival | 76680 | [76680-battle-pixels-survival.json](./76680-battle-pixels-survival.json) |
@@ -1543,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazePunk | 415092 | [415092-blazepunk.json](./415092-blazepunk.json) |
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
+| Blazing Dynamo | 209493 | [209493-blazing-dynamo.json](./209493-blazing-dynamo.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
 | Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
 | Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
@@ -1842,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
 | Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
 | Bob Winner 2 | 25771 | [25771-bob-winner-2.json](./25771-bob-winner-2.json) |
+| Bob: A thousand lives | 209488 | [209488-bob-a-thousand-lives.json](./209488-bob-a-thousand-lives.json) |
 | Bob's Bad Day | 14329 | [14329-bobs-bad-day.json](./14329-bobs-bad-day.json) |
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
