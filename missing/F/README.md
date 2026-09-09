@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
 | Five Nights at Freddy's AR Lite | 273955 | [273955-five-nights-at-freddys-ar-lite.json](./273955-five-nights-at-freddys-ar-lite.json) |
+| Five Nights at Freddy's AR: Special Delivery - Dark Circus: Encore! | 206706 | [206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json](./206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json) |
 | Five Nights at Freddy's Area 51 | 270670 | [270670-five-nights-at-freddys-area-51.json](./270670-five-nights-at-freddys-area-51.json) |
 | Five Nights at Freddy's Gameboy | 305749 | [305749-five-nights-at-freddys-gameboy.json](./305749-five-nights-at-freddys-gameboy.json) |
 | Five Nights at Freddy's Soulless Look | 383375 | [383375-five-nights-at-freddys-soulless-look.json](./383375-five-nights-at-freddys-soulless-look.json) |
