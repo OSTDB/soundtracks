@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukyo Station | 216809 | [216809-yukyo-station.json](./216809-yukyo-station.json) |
 | Yuldigard's Fate | 133463 | [133463-yuldigards-fate.json](./133463-yuldigards-fate.json) |
 | Yuletide Legends: Frozen Hearts | 415949 | [415949-yuletide-legends-frozen-hearts.json](./415949-yuletide-legends-frozen-hearts.json) |
+| Yum Yum! Dating Show | 204456 | [204456-yum-yum-dating-show.json](./204456-yum-yum-dating-show.json) |
 | Yum Yummy Superlicious | 96736 | [96736-yum-yummy-superlicious.json](./96736-yum-yummy-superlicious.json) |
 | Yum! Finger | 243710 | [243710-yum-finger.json](./243710-yum-finger.json) |
 | Yum's Farm | 375857 | [375857-yums-farm.json](./375857-yums-farm.json) |
