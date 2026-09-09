@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Cooking?: Tasty Chef | 256536 | [256536-whats-cooking-tasty-chef.json](./256536-whats-cooking-tasty-chef.json) |
 | What's Different | 153457 | [153457-whats-different.json](./153457-whats-different.json) |
 | What's Different? | 388013 | [388013-whats-different.json](./388013-whats-different.json) |
+| What's Her face | 201271 | [201271-whats-her-face.json](./201271-whats-her-face.json) |
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
@@ -1257,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Guesser | 259006 | [259006-world-guesser.json](./259006-world-guesser.json) |
 | World Heritage True or False Quiz | 378790 | [378790-world-heritage-true-or-false-quiz.json](./378790-world-heritage-true-or-false-quiz.json) |
 | World Heritage VR: Swedish Farmhouse | 304024 | [304024-world-heritage-vr-swedish-farmhouse.json](./304024-world-heritage-vr-swedish-farmhouse.json) |
+| World Heroes 2 Jet | 201268 | [201268-world-heroes-2-jet.json](./201268-world-heroes-2-jet.json) |
 | World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
 | World Leader Card Game | 119779 | [119779-world-leader-card-game.json](./119779-world-leader-card-game.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
