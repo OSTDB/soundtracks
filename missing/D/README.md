@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Days | 332225 | [332225-darkest-days.json](./332225-darkest-days.json) |
 | Darkest Descent | 370670 | [370670-darkest-descent.json](./370670-darkest-descent.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
+| Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
 | Darkest Rogue: Slingshot RPG | 174312 | [174312-darkest-rogue-slingshot-rpg.json](./174312-darkest-rogue-slingshot-rpg.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Car | 371258 | [371258-dawn-car.json](./371258-dawn-car.json) |
 | Dawn in the Air | 234065 | [234065-dawn-in-the-air.json](./234065-dawn-in-the-air.json) |
 | Dawn of Anarchy | 274773 | [274773-dawn-of-anarchy.json](./274773-dawn-of-anarchy.json) |
+| Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
 | Dawn of Defense | 310733 | [310733-dawn-of-defense.json](./310733-dawn-of-defense.json) |
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
@@ -849,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degu Squad | 282007 | [282007-degu-squad.json](./282007-degu-squad.json) |
 | Dehoarder 2 | 214509 | [214509-dehoarder-2.json](./214509-dehoarder-2.json) |
 | Deities Flush | 324113 | [324113-deities-flush.json](./324113-deities-flush.json) |
+| Deity Quest: Extended | 172114 | [172114-deity-quest-extended.json](./172114-deity-quest-extended.json) |
 | Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
 | Deja Vu | 229690 | [229690-deja-vu.json](./229690-deja-vu.json) |
 | Déjà Vu I | 310192 | [310192-deja-vu-i.json](./310192-deja-vu-i.json) |
@@ -1137,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Humans! Path of the Furon | 2717 | [2717-destroy-all-humans-path-of-the-furon.json](./2717-destroy-all-humans-path-of-the-furon.json) |
 | Destroy All Humans!: Clone Carnage | 203364 | [203364-destroy-all-humans-clone-carnage.json](./203364-destroy-all-humans-clone-carnage.json) |
 | Destroy Blocks | 296642 | [296642-destroy-blocks.json](./296642-destroy-blocks.json) |
+| Destroy Geometric Shapes | 172139 | [172139-destroy-geometric-shapes.json](./172139-destroy-geometric-shapes.json) |
 | Destroy the Castle | 349843 | [349843-destroy-the-castle.json](./349843-destroy-the-castle.json) |
 | Destroy the Cubes | 156133 | [156133-destroy-the-cubes.json](./156133-destroy-the-cubes.json) |
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
@@ -1632,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
+| Divan Chronicles: Battle for Dancig - Episode 3 | 172096 | [172096-divan-chronicles-battle-for-dancig-episode-3.json](./172096-divan-chronicles-battle-for-dancig-episode-3.json) |
 | Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
 | Dive or Die: Children of Rain | 391055 | [391055-dive-or-die-children-of-rain.json](./391055-dive-or-die-children-of-rain.json) |
 | Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
