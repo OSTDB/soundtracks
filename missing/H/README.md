@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts: Classic Fun Card Game | 87549 | [87549-hearts-classic-fun-card-game.json](./87549-hearts-classic-fun-card-game.json) |
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
+| Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
@@ -782,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
 | Hello: A Talking Simulator | 179173 | [179173-hello-a-talking-simulator.json](./179173-hello-a-talking-simulator.json) |
+| Hello! From Hallowville | 178573 | [178573-hello-from-hallowville.json](./178573-hello-from-hallowville.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
 | HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
 | Hellpit | 228448 | [228448-hellpit.json](./228448-hellpit.json) |
