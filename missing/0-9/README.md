@@ -191,7 +191,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
-| 21st Century Roguelike Pac-man | 375826 | [375826-21st-century-roguelike-pac-man.json](./375826-21st-century-roguelike-pac-man.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
 | 222.22 | 366269 | [366269-222-22.json](./366269-222-22.json) |
 | 24 Jingles to Bell | 394832 | [394832-24-jingles-to-bell.json](./394832-24-jingles-to-bell.json) |
