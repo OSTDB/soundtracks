@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
 | Elemental Gelade: Tozasareshi Uta | 49413 | [49413-elemental-gelade-tozasareshi-uta.json](./49413-elemental-gelade-tozasareshi-uta.json) |
 | Elemental Gimmick Gear | 45862 | [45862-elemental-gimmick-gear.json](./45862-elemental-gimmick-gear.json) |
+| Elemental Heroes: Blue Fighter 20th Level Set | 170439 | [170439-elemental-heroes-blue-fighter-20th-level-set.json](./170439-elemental-heroes-blue-fighter-20th-level-set.json) |
 | Elemental Knights R: Dark Arthur Premium Pack | 402925 | [402925-elemental-knights-r-dark-arthur-premium-pack.json](./402925-elemental-knights-r-dark-arthur-premium-pack.json) |
 | Elemental Mage Defense | 269269 | [269269-elemental-mage-defense.json](./269269-elemental-mage-defense.json) |
 | Elemental Master | 46218 | [46218-elemental-master.json](./46218-elemental-master.json) |
@@ -592,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Life Care | 181886 | [181886-end-of-life-care.json](./181886-end-of-life-care.json) |
 | End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
 | End of the Universe | 200105 | [200105-end-of-the-universe.json](./200105-end-of-the-universe.json) |
+| End of the World: NTR | 170499 | [170499-end-of-the-world-ntr.json](./170499-end-of-the-world-ntr.json) |
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
 | End of War 1945 | 127377 | [127377-end-of-war-1945.json](./127377-end-of-war-1945.json) |
 | End Party | 192370 | [192370-end-party.json](./192370-end-party.json) |
