@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leprechaun Twins | 307313 | [307313-leprechaun-twins.json](./307313-leprechaun-twins.json) |
 | Lernen Leicht Gemacht! Für Junggebliebene | 81389 | [81389-lernen-leicht-gemacht-fur-junggebliebene.json](./81389-lernen-leicht-gemacht-fur-junggebliebene.json) |
 | Les Guignols de l'info: Le Cauchemar de PPD | 306964 | [306964-les-guignols-de-linfo-le-cauchemar-de-ppd.json](./306964-les-guignols-de-linfo-le-cauchemar-de-ppd.json) |
+| Les Habitants Del Soleil | 177993 | [177993-les-habitants-del-soleil.json](./177993-les-habitants-del-soleil.json) |
 | Les Heures Bleues: Sang sur pierre à Pétrichor | 394172 | [394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json](./394172-les-heures-bleues-sang-sur-pierre-a-petrichor.json) |
 | Les Incollables CE1-CE2 | 269834 | [269834-les-incollables-ce1-ce2.json](./269834-les-incollables-ce1-ce2.json) |
 | Les Manley in: Lost in L.A. | 72090 | [72090-les-manley-in-lost-in-l-a.json](./72090-les-manley-in-lost-in-l-a.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
 | LifeDev | 258470 | [258470-lifedev.json](./258470-lifedev.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
+| Lifelike | 178003 | [178003-lifelike.json](./178003-lifelike.json) |
 | Lifeline | 19282 | [19282-lifeline.json](./19282-lifeline.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
@@ -1111,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobotrypo | 332254 | [332254-lobotrypo.json](./332254-lobotrypo.json) |
 | Loca-Love: My Pure Priestess | 146302 | [146302-loca-love-my-pure-priestess.json](./146302-loca-love-my-pure-priestess.json) |
+| Local Network | 178019 | [178019-local-network.json](./178019-local-network.json) |
 | Local Paper Small Town | 195181 | [195181-local-paper-small-town.json](./195181-local-paper-small-town.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
 | Lock | 68655 | [68655-lock.json](./68655-lock.json) |
@@ -1213,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | LonQ! Highland in DS: Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP | 269826 | [269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json](./269826-lonq-highland-in-ds-puu-puu-seijin-arawaru-shukketsu-dai-service-onara-no-saiten-sp.json) |
 | Look Closer! | 300405 | [300405-look-closer.json](./300405-look-closer.json) |
+| Looking | 178031 | [178031-looking.json](./178031-looking.json) |
 | Looking for Aliens: Collector's Edition | 247510 | [247510-looking-for-aliens-collectors-edition.json](./247510-looking-for-aliens-collectors-edition.json) |
 | Looking for Something | 316653 | [316653-looking-for-something.json](./316653-looking-for-something.json) |
 | Loom Path | 332831 | [332831-loom-path.json](./332831-loom-path.json) |
