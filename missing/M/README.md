@@ -2146,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
 | Mission To Mars 3D | 259566 | [259566-mission-to-mars-3d.json](./259566-mission-to-mars-3d.json) |
 | Mission to Neptune | 383370 | [383370-mission-to-neptune.json](./383370-mission-to-neptune.json) |
+| Mission Twentyeight | 193412 | [193412-mission-twentyeight.json](./193412-mission-twentyeight.json) |
 | Mission: Chao | 330713 | [330713-mission-chao.json](./330713-mission-chao.json) |
 | Mission: Driver | 210855 | [210855-mission-driver.json](./210855-mission-driver.json) |
 | Mission: Escape | 271726 | [271726-mission-escape.json](./271726-mission-escape.json) |
