@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geon Cube | 50636 | [50636-geon-cube.json](./50636-geon-cube.json) |
 | Geopogo Cities | 393468 | [393468-geopogo-cities.json](./393468-geopogo-cities.json) |
 | Geopolitique 1990 | 24915 | [24915-geopolitique-1990.json](./24915-geopolitique-1990.json) |
+| George and the Printer | 179672 | [179672-george-and-the-printer.json](./179672-george-and-the-printer.json) |
 | George Foreman's KO Boxing | 275022 | [275022-george-foremans-ko-boxing.json](./275022-george-foremans-ko-boxing.json) |
 | George Foreman's KO Boxing | 275023 | [275023-george-foremans-ko-boxing.json](./275023-george-foremans-ko-boxing.json) |
 | George Foreman's KO Boxing | 275024 | [275024-george-foremans-ko-boxing.json](./275024-george-foremans-ko-boxing.json) |
@@ -1307,6 +1308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravBlocks+ | 147964 | [147964-gravblocks.json](./147964-gravblocks.json) |
 | GravBot | 393513 | [393513-gravbot.json](./393513-gravbot.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
+| Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | Gravelmon | 359996 | [359996-gravelmon.json](./359996-gravelmon.json) |
