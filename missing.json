@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T09:33:51.587Z",
-  "total_missing": 49956,
+  "generated_at": "2026-09-09T09:41:08.775Z",
+  "total_missing": 49955,
   "games": [
     {
       "igdb_id": 306086,
@@ -701,11 +701,6 @@
       "igdb_id": 295238,
       "game_name": "1995Card+",
       "file": "missing/0-9/295238-1995card.json"
-    },
-    {
-      "igdb_id": 337613,
-      "game_name": "19th Century Printing Press Experience VR",
-      "file": "missing/0-9/337613-19th-century-printing-press-experience-vr.json"
     },
     {
       "igdb_id": 248318,
