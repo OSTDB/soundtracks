@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win Big or Die | 30937 | [30937-win-big-or-die.json](./30937-win-big-or-die.json) |
 | Win the Diamond | 220839 | [220839-win-the-diamond.json](./220839-win-the-diamond.json) |
 | Win the Game: Do It! | 96648 | [96648-win-the-game-do-it.json](./96648-win-the-game-do-it.json) |
+| Win the White House | 207837 | [207837-win-the-white-house.json](./207837-win-the-white-house.json) |
 | Win, Lose or Draw | 48093 | [48093-win-lose-or-draw.json](./48093-win-lose-or-draw.json) |
 | Winch it Out | 300387 | [300387-winch-it-out.json](./300387-winch-it-out.json) |
 | Wind and Mist | 253007 | [253007-wind-and-mist.json](./253007-wind-and-mist.json) |
