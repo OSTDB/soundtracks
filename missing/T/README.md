@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
 | Tales of the Death | 204112 | [204112-tales-of-the-death.json](./204112-tales-of-the-death.json) |
+| Tales of the Drunken Paladin | 191811 | [191811-tales-of-the-drunken-paladin.json](./191811-tales-of-the-drunken-paladin.json) |
 | Tales of the Neon Sea: Collector's Edition | 228733 | [228733-tales-of-the-neon-sea-collectors-edition.json](./228733-tales-of-the-neon-sea-collectors-edition.json) |
 | Tales of the Tempest | 19096 | [19096-tales-of-the-tempest.json](./19096-tales-of-the-tempest.json) |
 | Tales of the Traveling Swordsman | 60026 | [60026-tales-of-the-traveling-swordsman.json](./60026-tales-of-the-traveling-swordsman.json) |
@@ -895,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
 | The Adventures of LinShanHai: Chapter3 - The Headless Woman | 243154 | [243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json](./243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json) |
 | The Adventures of Little Red Riding Cap | 54433 | [54433-the-adventures-of-little-red-riding-cap.json](./54433-the-adventures-of-little-red-riding-cap.json) |
+| The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
 | The Adventures of Nerdstan | 250348 | [250348-the-adventures-of-nerdstan.json](./250348-the-adventures-of-nerdstan.json) |
 | The Adventures of Oddley | 320742 | [320742-the-adventures-of-oddley.json](./320742-the-adventures-of-oddley.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
@@ -2230,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
+| The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
@@ -2344,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
 | The Odd Neon Void | 132246 | [132246-the-odd-neon-void.json](./132246-the-odd-neon-void.json) |
+| The Odyssey of the Mammoth | 191831 | [191831-the-odyssey-of-the-mammoth.json](./191831-the-odyssey-of-the-mammoth.json) |
 | The Offering | 238754 | [238754-the-offering.json](./238754-the-offering.json) |
 | The Office | 203564 | [203564-the-office.json](./203564-the-office.json) |
 | The Office Killer | 344386 | [344386-the-office-killer.json](./344386-the-office-killer.json) |
@@ -3169,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's No Monsters | 306991 | [306991-theres-no-monsters.json](./306991-theres-no-monsters.json) |
 | There's No Santa | 315296 | [315296-theres-no-santa.json](./315296-theres-no-santa.json) |
 | There's No Socks: The Extra Challenge | 302940 | [302940-theres-no-socks-the-extra-challenge.json](./302940-theres-no-socks-the-extra-challenge.json) |
+| There's No Such Thing As Bad Publicity | 191798 | [191798-theres-no-such-thing-as-bad-publicity.json](./191798-theres-no-such-thing-as-bad-publicity.json) |
 | There's Nothing Underground | 331290 | [331290-theres-nothing-underground.json](./331290-theres-nothing-underground.json) |
 | There's Poop In My Soup | 33315 | [33315-theres-poop-in-my-soup.json](./33315-theres-poop-in-my-soup.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
@@ -3672,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
+| Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
 | Tingus Goose | 285342 | [285342-tingus-goose.json](./285342-tingus-goose.json) |
