@@ -235,7 +235,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
-| 3D Custom Lady Maker | 128010 | [128010-3d-custom-lady-maker.json](./128010-3d-custom-lady-maker.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
 | 3d Engineers | 35889 | [35889-3d-engineers.json](./35889-3d-engineers.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
