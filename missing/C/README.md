@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
 | Catgirl | 344943 | [344943-catgirl.json](./344943-catgirl.json) |
+| Catgirl & Doggirl Cafe | 199057 | [199057-catgirl-and-doggirl-cafe.json](./199057-catgirl-and-doggirl-cafe.json) |
 | Catgirl Aim Trainer | 310213 | [310213-catgirl-aim-trainer.json](./310213-catgirl-aim-trainer.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
@@ -1529,6 +1530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click the Ball! | 365716 | [365716-click-the-ball.json](./365716-click-the-ball.json) |
 | Click the Business | 111007 | [111007-click-the-business.json](./111007-click-the-business.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
+| Click: Commute Control | 199036 | [199036-click-commute-control.json](./199036-click-commute-control.json) |
+| Click: Control Your Game | 199037 | [199037-click-control-your-game.json](./199037-click-control-your-game.json) |
 | Click! | 94731 | [94731-click.json](./94731-click.json) |
 | ClickBit | 76644 | [76644-clickbit.json](./76644-clickbit.json) |
 | ClickCells: CPU Girls | 385040 | [385040-clickcells-cpu-girls.json](./385040-clickcells-cpu-girls.json) |
