@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Al's Great Adventure | 55933 | [55933-weird-als-great-adventure.json](./55933-weird-als-great-adventure.json) |
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
+| Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
 | Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
@@ -641,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where’s the Food!? | 378787 | [378787-where-s-the-food.json](./378787-where-s-the-food.json) |
 | Where’s the Insect? | 378788 | [378788-where-s-the-insect.json](./378788-where-s-the-insect.json) |
 | Where’s the Octopus!? | 378789 | [378789-where-s-the-octopus.json](./378789-where-s-the-octopus.json) |
+| Where's Waldo? Exploring Geography | 201790 | [201790-wheres-waldo-exploring-geography.json](./201790-wheres-waldo-exploring-geography.json) |
 | Where's Wally? Travel Pack 1 | 85483 | [85483-wheres-wally-travel-pack-1.json](./85483-wheres-wally-travel-pack-1.json) |
 | Where's Wally? Travel Pack 2 | 85485 | [85485-wheres-wally-travel-pack-2.json](./85485-wheres-wally-travel-pack-2.json) |
 | Where's Wally? Travel Pack 3 | 85484 | [85484-wheres-wally-travel-pack-3.json](./85484-wheres-wally-travel-pack-3.json) |
@@ -1123,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonka Block Party | 373531 | [373531-wonka-block-party.json](./373531-wonka-block-party.json) |
 | Wood & Weather | 212817 | [212817-wood-and-weather.json](./212817-wood-and-weather.json) |
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
+| Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
 | Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
 | Wood Puzzle | 208942 | [208942-wood-puzzle.json](./208942-wood-puzzle.json) |
 | Wooden House | 23726 | [23726-wooden-house.json](./23726-wooden-house.json) |
