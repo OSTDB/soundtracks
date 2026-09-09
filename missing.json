@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T12:48:38.348Z",
-  "total_missing": 50542,
+  "generated_at": "2026-09-09T12:51:06.417Z",
+  "total_missing": 50541,
   "games": [
     {
       "igdb_id": 306086,
@@ -796,11 +796,6 @@
       "igdb_id": 251629,
       "game_name": "2-taku de Koishite Mune-kyun",
       "file": "missing/0-9/251629-2-taku-de-koishite-mune-kyun.json"
-    },
-    {
-      "igdb_id": 220299,
-      "game_name": "2-taku de Real-juu Metsubou Game",
-      "file": "missing/0-9/220299-2-taku-de-real-juu-metsubou-game.json"
     },
     {
       "igdb_id": 339249,
