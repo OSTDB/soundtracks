@@ -518,6 +518,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty II: Day One Edition | 146330 | [146330-kings-bounty-ii-day-one-edition.json](./146330-kings-bounty-ii-day-one-edition.json) |
 | King's Bounty II: Lord's Edition | 155100 | [155100-kings-bounty-ii-lords-edition.json](./155100-kings-bounty-ii-lords-edition.json) |
 | King's Bounty: Dark Side - Premium Edition | 53238 | [53238-kings-bounty-dark-side-premium-edition.json](./53238-kings-bounty-dark-side-premium-edition.json) |
+| King's Bounty: Legions - Beast Master Pack | 169933 | [169933-kings-bounty-legions-beast-master-pack.json](./169933-kings-bounty-legions-beast-master-pack.json) |
+| King's Bounty: Legions - Champion of the Realm Pack | 169934 | [169934-kings-bounty-legions-champion-of-the-realm-pack.json](./169934-kings-bounty-legions-champion-of-the-realm-pack.json) |
+| King's Bounty: Legions - Lord of Chaos Pack | 169932 | [169932-kings-bounty-legions-lord-of-chaos-pack.json](./169932-kings-bounty-legions-lord-of-chaos-pack.json) |
+| King's Bounty: Legions - True Tactician Ultimate Pack | 169931 | [169931-kings-bounty-legions-true-tactician-ultimate-pack.json](./169931-kings-bounty-legions-true-tactician-ultimate-pack.json) |
 | King's Bounty: Ultimate Edition | 53258 | [53258-kings-bounty-ultimate-edition.json](./53258-kings-bounty-ultimate-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
@@ -831,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
 | Kokoro Talkers | 325446 | [325446-kokoro-talkers.json](./325446-kokoro-talkers.json) |
 | Kokoro: Baka-Monogatari | 150134 | [150134-kokoro-baka-monogatari.json](./150134-kokoro-baka-monogatari.json) |
+| Kokorogawari: Mini Quiz Game | 169944 | [169944-kokorogawari-mini-quiz-game.json](./169944-kokorogawari-mini-quiz-game.json) |
 | Kokorowa Onigiri Delivery | 206338 | [206338-kokorowa-onigiri-delivery.json](./206338-kokorowa-onigiri-delivery.json) |
 | Kokotoni Wilf | 25750 | [25750-kokotoni-wilf.json](./25750-kokotoni-wilf.json) |
 | Kokubyaku no Avesta: Refusal-Aushedar | 326088 | [326088-kokubyaku-no-avesta-refusal-aushedar.json](./326088-kokubyaku-no-avesta-refusal-aushedar.json) |
