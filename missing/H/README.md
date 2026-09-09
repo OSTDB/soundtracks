@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare | 83584 | [83584-hare.json](./83584-hare.json) |
 | Hare 136 | 340414 | [340414-hare-136.json](./340414-hare-136.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
+| Hare's Hollow | 184607 | [184607-hares-hollow.json](./184607-hares-hollow.json) |
 | Harekat 2: Online | 252132 | [252132-harekat-2-online.json](./252132-harekat-2-online.json) |
 | Harem Girl: Nikki | 196224 | [196224-harem-girl-nikki.json](./196224-harem-girl-nikki.json) |
 | Harem in Another World | 257952 | [257952-harem-in-another-world.json](./257952-harem-in-another-world.json) |
@@ -1094,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
 | Hidden Cubes | 74459 | [74459-hidden-cubes.json](./74459-hidden-cubes.json) |
+| Hidden Dose | 184598 | [184598-hidden-dose.json](./184598-hidden-dose.json) |
 | Hidden Dragon: Legend | 45095 | [45095-hidden-dragon-legend.json](./45095-hidden-dragon-legend.json) |
 | Hidden Dungeon Top-Down 3D | 222935 | [222935-hidden-dungeon-top-down-3d.json](./222935-hidden-dungeon-top-down-3d.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
@@ -1610,6 +1612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Break: Head to Head | 214528 | [214528-horror-break-head-to-head.json](./214528-horror-break-head-to-head.json) |
 | Horror Clash | 319969 | [319969-horror-clash.json](./319969-horror-clash.json) |
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
+| Horror Game Collection | 184595 | [184595-horror-game-collection.json](./184595-horror-game-collection.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
 | Horror Hotel: Mystery Quest | 206726 | [206726-horror-hotel-mystery-quest.json](./206726-horror-hotel-mystery-quest.json) |
 | Horror In Valkeala | 192951 | [192951-horror-in-valkeala.json](./192951-horror-in-valkeala.json) |
@@ -1956,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
 | Hustle Cat | 33277 | [33277-hustle-cat.json](./33277-hustle-cat.json) |
 | Hustle Quest: Historia of Urth | 299155 | [299155-hustle-quest-historia-of-urth.json](./299155-hustle-quest-historia-of-urth.json) |
+| Hv Rebellion | 184568 | [184568-hv-rebellion.json](./184568-hv-rebellion.json) |
 | HVRGun | 29707 | [29707-hvrgun.json](./29707-hvrgun.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
