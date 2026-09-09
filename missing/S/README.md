@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
 | Santa Jump | 186840 | [186840-santa-jump.json](./186840-santa-jump.json) |
 | Santa Olympics | 175400 | [175400-santa-olympics.json](./175400-santa-olympics.json) |
+| Santa Present Defense | 183510 | [183510-santa-present-defense.json](./183510-santa-present-defense.json) |
 | Santa Protects the Christmas Tree | 190133 | [190133-santa-protects-the-christmas-tree.json](./190133-santa-protects-the-christmas-tree.json) |
 | Santa Runner | 111687 | [111687-santa-runner.json](./111687-santa-runner.json) |
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
@@ -811,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
 | Sector a Training Facilitea | 253029 | [253029-sector-a-training-facilitea.json](./253029-sector-a-training-facilitea.json) |
+| Sector Alpha | 183518 | [183518-sector-alpha.json](./183518-sector-alpha.json) |
 | Sector Strike | 145016 | [145016-sector-strike.json](./145016-sector-strike.json) |
 | Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
@@ -1745,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Ops | 332433 | [332433-silent-ops.json](./332433-silent-ops.json) |
 | Silent Paradise Anthology | 402901 | [402901-silent-paradise-anthology.json](./402901-silent-paradise-anthology.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
+| Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
 | Silent Scope 3 | 44630 | [44630-silent-scope-3.json](./44630-silent-scope-3.json) |
 | Silent Scream 2 | 368512 | [368512-silent-scream-2.json](./368512-silent-scream-2.json) |
 | Silent Seeker | 209159 | [209159-silent-seeker.json](./209159-silent-seeker.json) |
@@ -4326,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station 37 | 277027 | [277027-station-37.json](./277027-station-37.json) |
 | Station 5 | 307931 | [307931-station-5.json](./307931-station-5.json) |
 | Station Commander | 76654 | [76654-station-commander.json](./76654-station-commander.json) |
+| Station Master | 183550 | [183550-station-master.json](./183550-station-master.json) |
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
@@ -4829,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
+| Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
