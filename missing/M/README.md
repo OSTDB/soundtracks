@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
 | Magical Tetris Challenge | 205583 | [205583-magical-tetris-challenge.json](./205583-magical-tetris-challenge.json) |
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
+| Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete | 194554 | [194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json](./194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
 | Magicians Dead: Force of the Soul | 172716 | [172716-magicians-dead-force-of-the-soul.json](./172716-magicians-dead-force-of-the-soul.json) |
 | Magicians' Chase: Missing Curry Recipe | 219286 | [219286-magicians-chase-missing-curry-recipe.json](./219286-magicians-chase-missing-curry-recipe.json) |
@@ -484,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
 | Manzaka | 288757 | [288757-manzaka.json](./288757-manzaka.json) |
+| Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
@@ -3203,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Animal Girlfriend | 228415 | [228415-my-animal-girlfriend.json](./228415-my-animal-girlfriend.json) |
 | My Aquarium | 367972 | [367972-my-aquarium.json](./367972-my-aquarium.json) |
 | My Aquarium | 52598 | [52598-my-aquarium.json](./52598-my-aquarium.json) |
+| My Array is Too Sacred to Be Useful!? | 194595 | [194595-my-array-is-too-sacred-to-be-useful.json](./194595-my-array-is-too-sacred-to-be-useful.json) |
 | My Baby 3 & Friends | 48041 | [48041-my-baby-3-and-friends.json](./48041-my-baby-3-and-friends.json) |
 | My Bakery Empire | 87373 | [87373-my-bakery-empire.json](./87373-my-bakery-empire.json) |
 | My Bakery Empire: Tasty Edition | 290432 | [290432-my-bakery-empire-tasty-edition.json](./290432-my-bakery-empire-tasty-edition.json) |
