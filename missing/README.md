@@ -22,8 +22,8 @@ Want the raw list instead? See **[../missing.json](../missing.json)**.
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 694 games | 1496 games | 152 games | 327 games | 362 games | 506 games |
+| 694 games | 1496 games | 152 games | 327 games | 362 games | 505 games |
 
 ---
 
-_49759 games missing a soundtrack · last updated 2026-09-09T08:18:55.319Z_
+_49758 games missing a soundtrack · last updated 2026-09-09T08:21:09.263Z_
