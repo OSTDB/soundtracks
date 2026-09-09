@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Under Water | 155658 | [155658-ultimate-under-water.json](./155658-ultimate-under-water.json) |
 | Ultimate Vitality of Imagination | 210685 | [210685-ultimate-vitality-of-imagination.json](./210685-ultimate-vitality-of-imagination.json) |
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
+| Ultimaze | 206716 | [206716-ultimaze.json](./206716-ultimaze.json) |
 | Ultionus: A Tale of Petty Revenge | 36408 | [36408-ultionus-a-tale-of-petty-revenge.json](./36408-ultionus-a-tale-of-petty-revenge.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
 | Ultra 2000 Series: Pac-Man | 284370 | [284370-ultra-2000-series-pac-man.json](./284370-ultra-2000-series-pac-man.json) |
@@ -216,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend | 256848 | [256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json](./256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json) |
 | Unbridled Horror | 181896 | [181896-unbridled-horror.json](./181896-unbridled-horror.json) |
 | Unbroken | 298600 | [298600-unbroken.json](./298600-unbroken.json) |
+| Uncanny | 206717 | [206717-uncanny.json](./206717-uncanny.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
 | Uncharted Island | 208954 | [208954-uncharted-island.json](./208954-uncharted-island.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
