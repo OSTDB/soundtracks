@@ -209,7 +209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
 | 2XL Supercross HD | 96726 | [96726-2xl-supercross-hd.json](./96726-2xl-supercross-hd.json) |
-| 2Xtreme | 305796 | [305796-2xtreme.json](./305796-2xtreme.json) |
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
 | 3 2 1 Quiz Game | 45321 | [45321-3-2-1-quiz-game.json](./45321-3-2-1-quiz-game.json) |
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
