@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdcage (Oda al Pájaro) | 325262 | [325262-birdcage-oda-al-pajaro.json](./325262-birdcage-oda-al-pajaro.json) |
 | Birdfull | 333567 | [333567-birdfull.json](./333567-birdfull.json) |
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
+| Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
 | Birds no More | 245317 | [245317-birds-no-more.json](./245317-birds-no-more.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodi Pripravljen: Be Prepared | 379887 | [379887-bodi-pripravljen-be-prepared.json](./379887-bodi-pripravljen-be-prepared.json) |
 | Bodian's Bay Wash | 405519 | [405519-bodians-bay-wash.json](./405519-bodians-bay-wash.json) |
 | Body and Brain Connection | 25189 | [25189-body-and-brain-connection.json](./25189-body-and-brain-connection.json) |
+| Body and Soul | 176977 | [176977-body-and-soul.json](./176977-body-and-soul.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
@@ -2837,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumbledore | 16348 | [16348-bumbledore.json](./16348-bumbledore.json) |
 | Bumblepig | 94735 | [94735-bumblepig.json](./94735-bumblepig.json) |
 | BumbleTales | 294740 | [294740-bumbletales.json](./294740-bumbletales.json) |
+| Bumbling Builders | 176971 | [176971-bumbling-builders.json](./176971-bumbling-builders.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
 | Bump Jump | 210670 | [210670-bump-jump.json](./210670-bump-jump.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
