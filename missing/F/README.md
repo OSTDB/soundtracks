@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
 | Faded Monsuta | 350999 | [350999-faded-monsuta.json](./350999-faded-monsuta.json) |
+| Faded Stories: Greenberg | 190176 | [190176-faded-stories-greenberg.json](./190176-faded-stories-greenberg.json) |
 | Fadin's Vacation in the Parallel Kingdom | 299740 | [299740-fadins-vacation-in-the-parallel-kingdom.json](./299740-fadins-vacation-in-the-parallel-kingdom.json) |
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
 | Fading Earth | 260704 | [260704-fading-earth.json](./260704-fading-earth.json) |
@@ -1907,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
 | Friendship vs The World | 402942 | [402942-friendship-vs-the-world.json](./402942-friendship-vs-the-world.json) |
+| Friendsim 2 | 190164 | [190164-friendsim-2.json](./190164-friendsim-2.json) |
 | Friendsmob | 391590 | [391590-friendsmob.json](./391590-friendsmob.json) |
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
@@ -1954,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
 | Froglin Friend and the White Tower: Pt1 | 210692 | [210692-froglin-friend-and-the-white-tower-pt1.json](./210692-froglin-friend-and-the-white-tower-pt1.json) |
+| Frogman Magmaborn | 190144 | [190144-frogman-magmaborn.json](./190144-frogman-magmaborn.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
