@@ -2790,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
+| The Tennis & The Snowboard | 203393 | [203393-the-tennis-and-the-snowboard.json](./203393-the-tennis-and-the-snowboard.json) |
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
 | The Tensor | 318401 | [318401-the-tensor.json](./318401-the-tensor.json) |
 | The Tenth Minute | 400243 | [400243-the-tenth-minute.json](./400243-the-tenth-minute.json) |
