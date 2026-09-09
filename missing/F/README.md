@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
+| Fangs and Friends | 176436 | [176436-fangs-and-friends.json](./176436-fangs-and-friends.json) |
 | Fangs: The Saga of Wolf Blood | 221965 | [221965-fangs-the-saga-of-wolf-blood.json](./221965-fangs-the-saga-of-wolf-blood.json) |
 | Fania | 258471 | [258471-fania.json](./258471-fania.json) |
 | Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
@@ -847,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Way Out Samurai! | 245878 | [245878-find-the-way-out-samurai.json](./245878-find-the-way-out-samurai.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
 | Find with Seoul: Story Puzzle | 253385 | [253385-find-with-seoul-story-puzzle.json](./253385-find-with-seoul-story-puzzle.json) |
+| Find Yer Treasure! | 176454 | [176454-find-yer-treasure.json](./176454-find-yer-treasure.json) |
 | Finders, Keepers | 139457 | [139457-finders-keepers.json](./139457-finders-keepers.json) |
 | Finding Alex | 344379 | [344379-finding-alex.json](./344379-finding-alex.json) |
 | Finding America: New England | 273665 | [273665-finding-america-new-england.json](./273665-finding-america-new-england.json) |
