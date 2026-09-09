@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ode of Resurrection | 315489 | [315489-ode-of-resurrection.json](./315489-ode-of-resurrection.json) |
 | Ode to a Moon | 111059 | [111059-ode-to-a-moon.json](./111059-ode-to-a-moon.json) |
 | Ode to Heroes | 137645 | [137645-ode-to-heroes.json](./137645-ode-to-heroes.json) |
+| Ode to My Hometown's Craft Fair | 176461 | [176461-ode-to-my-hometowns-craft-fair.json](./176461-ode-to-my-hometowns-craft-fair.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
 | Oden-kun Tamagotchi | 229963 | [229963-oden-kun-tamagotchi.json](./229963-oden-kun-tamagotchi.json) |
 | Oden-kun: Oden-mura no Tanoshii Nakama-tachi | 327599 | [327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json](./327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json) |
@@ -894,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
 | Out for Blood | 50539 | [50539-out-for-blood.json](./50539-out-for-blood.json) |
 | Out For Delivery | 152380 | [152380-out-for-delivery.json](./152380-out-for-delivery.json) |
+| Out From the White | 176452 | [176452-out-from-the-white.json](./176452-out-from-the-white.json) |
 | Out Here Alone | 235757 | [235757-out-here-alone.json](./235757-out-here-alone.json) |
 | Out in Space | 218472 | [218472-out-in-space.json](./218472-out-in-space.json) |
 | Out in Space Bundle: Tin Can & Orbit.Industries | 266246 | [266246-out-in-space-bundle-tin-can-and-orbit-industries.json](./266246-out-in-space-bundle-tin-can-and-orbit-industries.json) |
