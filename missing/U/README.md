@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
 | UnExplored: Unlocked Edition | 98837 | [98837-unexplored-unlocked-edition.json](./98837-unexplored-unlocked-edition.json) |
+| Unexposed: The Ghost Archives | 188014 | [188014-unexposed-the-ghost-archives.json](./188014-unexposed-the-ghost-archives.json) |
 | Unfabulous | 18306 | [18306-unfabulous.json](./18306-unfabulous.json) |
 | Unfair Flips | 367451 | [367451-unfair-flips.json](./367451-unfair-flips.json) |
 | Unfated | 267672 | [267672-unfated.json](./267672-unfated.json) |
