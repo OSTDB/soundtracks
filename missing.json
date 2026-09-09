@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T08:33:46.265Z",
-  "total_missing": 49807,
+  "generated_at": "2026-09-09T08:41:07.385Z",
+  "total_missing": 49806,
   "games": [
     {
       "igdb_id": 306086,
@@ -666,11 +666,6 @@
       "igdb_id": 6076,
       "game_name": "1943: The Battle of Midway",
       "file": "missing/0-9/6076-1943-the-battle-of-midway.json"
-    },
-    {
-      "igdb_id": 310970,
-      "game_name": "1944: Return to Midway",
-      "file": "missing/0-9/310970-1944-return-to-midway.json"
     },
     {
       "igdb_id": 9771,
