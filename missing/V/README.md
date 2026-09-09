@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vain Dream | 238483 | [238483-vain-dream.json](./238483-vain-dream.json) |
 | Vain Dream II | 238484 | [238484-vain-dream-ii.json](./238484-vain-dream-ii.json) |
 | Vain Uprising | 331322 | [331322-vain-uprising.json](./331322-vain-uprising.json) |
+| Val d'Isère Skiing and Snowboarding | 175892 | [175892-val-disere-skiing-and-snowboarding.json](./175892-val-disere-skiing-and-snowboarding.json) |
 | Valakas Story | 122824 | [122824-valakas-story.json](./122824-valakas-story.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valentine's Day Bikini Femdom | 400903 | [400903-valentines-day-bikini-femdom.json](./400903-valentines-day-bikini-femdom.json) |
@@ -644,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoxelMaker | 85481 | [85481-voxelmaker.json](./85481-voxelmaker.json) |
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
+| Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
 | Voyage on the Alihacc Desert | 336361 | [336361-voyage-on-the-alihacc-desert.json](./336361-voyage-on-the-alihacc-desert.json) |
 | Voyage Router | 352752 | [352752-voyage-router.json](./352752-voyage-router.json) |
 | Voyeur Hotel | 272001 | [272001-voyeur-hotel.json](./272001-voyeur-hotel.json) |
