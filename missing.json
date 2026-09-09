@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T11:03:40.662Z",
-  "total_missing": 50201,
+  "generated_at": "2026-09-09T11:11:05.910Z",
+  "total_missing": 50200,
   "games": [
     {
       "igdb_id": 306086,
@@ -746,11 +746,6 @@
       "igdb_id": 84265,
       "game_name": "2 Games in 1 Double Pack: Scooby-Doo and the Cyber Chase + Scooby-Doo! Mystery Mayhem",
       "file": "missing/0-9/84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json"
-    },
-    {
-      "igdb_id": 82104,
-      "game_name": "2 Games in 1: SpongeBob SquarePants: Battle for Bikini Bottom + SpongeBob SquarePants: Supersponge",
-      "file": "missing/0-9/82104-2-games-in-1-spongebob-squarepants-battle-for-bikini-bottom-spongebob-squarepants-supersponge.json"
     },
     {
       "igdb_id": 91427,
