@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainshade | 204491 | [204491-rainshade.json](./204491-rainshade.json) |
 | Rainy attic room | 143090 | [143090-rainy-attic-room.json](./143090-rainy-attic-room.json) |
 | Rainy Butcher | 211937 | [211937-rainy-butcher.json](./211937-rainy-butcher.json) |
+| Rainy Day | 179673 | [179673-rainy-day.json](./179673-rainy-day.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
 | Rainy single room | 205588 | [205588-rainy-single-room.json](./205588-rainy-single-room.json) |
@@ -611,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Moon: Lost Days | 192893 | [192893-red-moon-lost-days.json](./192893-red-moon-lost-days.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
+| Red Riding Hood | 179695 | [179695-red-riding-hood.json](./179695-red-riding-hood.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
 | Red Rope: Don't Fall Behind + | 147950 | [147950-red-rope-dont-fall-behind.json](./147950-red-rope-dont-fall-behind.json) |
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
@@ -626,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
 | Red Wolf | 378200 | [378200-red-wolf.json](./378200-red-wolf.json) |
 | Red Yet Capers: Math vs Mayhem | 193420 | [193420-red-yet-capers-math-vs-mayhem.json](./193420-red-yet-capers-math-vs-mayhem.json) |
+| Red-Handed Robin | 179691 | [179691-red-handed-robin.json](./179691-red-handed-robin.json) |
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
 | Red: Pride of Eden | 193951 | [193951-red-pride-of-eden.json](./193951-red-pride-of-eden.json) |
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
