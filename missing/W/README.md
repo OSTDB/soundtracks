@@ -108,6 +108,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wan Nyan Dobutsu Byouin: Suteki na Juui-San ni Narou! | 222539 | [222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json](./222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json) |
 | Wanagiri | 319024 | [319024-wanagiri.json](./319024-wanagiri.json) |
 | Wanaka Farm | 172770 | [172770-wanaka-farm.json](./172770-wanaka-farm.json) |
+| Wanba Warriors: Character Pack 1 | 170992 | [170992-wanba-warriors-character-pack-1.json](./170992-wanba-warriors-character-pack-1.json) |
+| Wanba Warriors: Character Pack 2 | 170994 | [170994-wanba-warriors-character-pack-2.json](./170994-wanba-warriors-character-pack-2.json) |
+| Wanba Warriors: Character Pack 3 | 170993 | [170993-wanba-warriors-character-pack-3.json](./170993-wanba-warriors-character-pack-3.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
@@ -1364,6 +1367,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
 | World of Subways: Volume 1 - The Path | 36284 | [36284-world-of-subways-volume-1-the-path.json](./36284-world-of-subways-volume-1-the-path.json) |
 | World of Tanks - Panther/M10 Pack (VII German Medium Tank) | 398326 | [398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json](./398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json) |
+| World of Tanks: Blitz - Free Pack | 171010 | [171010-world-of-tanks-blitz-free-pack.json](./171010-world-of-tanks-blitz-free-pack.json) |
+| World of Tanks: Blitz - Grand Pack | 171009 | [171009-world-of-tanks-blitz-grand-pack.json](./171009-world-of-tanks-blitz-grand-pack.json) |
+| World of Tanks: Blitz - Mega Pack | 171008 | [171008-world-of-tanks-blitz-mega-pack.json](./171008-world-of-tanks-blitz-mega-pack.json) |
+| World of Tanks: Blitz - Resource Pack | 171011 | [171011-world-of-tanks-blitz-resource-pack.json](./171011-world-of-tanks-blitz-resource-pack.json) |
+| World of Tanks: Blitz - Space Pack | 171012 | [171012-world-of-tanks-blitz-space-pack.json](./171012-world-of-tanks-blitz-space-pack.json) |
 | World of Tanks: Heat | 361890 | [361890-world-of-tanks-heat.json](./361890-world-of-tanks-heat.json) |
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
 | World of Tanks: Modern Armor - Warlords Starter Pack | 338220 | [338220-world-of-tanks-modern-armor-warlords-starter-pack.json](./338220-world-of-tanks-modern-armor-warlords-starter-pack.json) |
@@ -1535,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
 | Wurst and Glory | 415115 | [415115-wurst-and-glory.json](./415115-wurst-and-glory.json) |
 | Wuscar | 203884 | [203884-wuscar.json](./203884-wuscar.json) |
+| Wushu Chronicles 2 | 171024 | [171024-wushu-chronicles-2.json](./171024-wushu-chronicles-2.json) |
 | Wuthering Waves: All Silent Souls Can Sing | 326608 | [326608-wuthering-waves-all-silent-souls-can-sing.json](./326608-wuthering-waves-all-silent-souls-can-sing.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: When the Night Knocks | 321376 | [321376-wuthering-waves-when-the-night-knocks.json](./321376-wuthering-waves-when-the-night-knocks.json) |
@@ -1564,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII: Battle Over Europe | 144311 | [144311-wwii-battle-over-europe.json](./144311-wwii-battle-over-europe.json) |
 | WWII: Battle Over the Pacific | 9391 | [9391-wwii-battle-over-the-pacific.json](./9391-wwii-battle-over-the-pacific.json) |
 | WWII: Normandy | 18324 | [18324-wwii-normandy.json](./18324-wwii-normandy.json) |
+| WWII: Rising | 171033 | [171033-wwii-rising.json](./171033-wwii-rising.json) |
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
