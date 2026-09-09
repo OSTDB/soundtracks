@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime Horror Stories | 220647 | [220647-bedtime-horror-stories.json](./220647-bedtime-horror-stories.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
 | Bee in the Valley | 250384 | [250384-bee-in-the-valley.json](./250384-bee-in-the-valley.json) |
+| Bee Leader | 208409 | [208409-bee-leader.json](./208409-bee-leader.json) |
 | Bee Magic | 314254 | [314254-bee-magic.json](./314254-bee-magic.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
@@ -1146,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bicho | 223474 | [223474-bicho.json](./223474-bicho.json) |
+| Bicolor | 208385 | [208385-bicolor.json](./208385-bicolor.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
@@ -2610,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing: Deluxe Edition | 308799 | [308799-buggy-off-road-racing-deluxe-edition.json](./308799-buggy-off-road-racing-deluxe-edition.json) |
 | Buggy Off-Road Racing: Platinum Edition | 317262 | [317262-buggy-off-road-racing-platinum-edition.json](./317262-buggy-off-road-racing-platinum-edition.json) |
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
+| Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
