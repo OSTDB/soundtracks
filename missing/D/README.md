@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned 2 | 253375 | [253375-damned-2.json](./253375-damned-2.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Damon and Baby: Deluxe Edition | 390527 | [390527-damon-and-baby-deluxe-edition.json](./390527-damon-and-baby-deluxe-edition.json) |
+| Damoria | 196273 | [196273-damoria.json](./196273-damoria.json) |
 | Damper/Glooper | 319577 | [319577-damper-glooper.json](./319577-damper-glooper.json) |
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
 | Dan Dare: Pilot of the Future | 12989 | [12989-dan-dare-pilot-of-the-future.json](./12989-dan-dare-pilot-of-the-future.json) |
@@ -2644,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy Never Fails | 234902 | [234902-dummy-never-fails.json](./234902-dummy-never-fails.json) |
 | Dummy Never Fails 2 | 234903 | [234903-dummy-never-fails-2.json](./234903-dummy-never-fails-2.json) |
 | DummyDoodle | 303494 | [303494-dummydoodle.json](./303494-dummydoodle.json) |
+| Dummynation | 196265 | [196265-dummynation.json](./196265-dummynation.json) |
 | Dump Truck Offroad Driver 3D | 104638 | [104638-dump-truck-offroad-driver-3d.json](./104638-dump-truck-offroad-driver-3d.json) |
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
 | Dumpster Gang | 415120 | [415120-dumpster-gang.json](./415120-dumpster-gang.json) |
