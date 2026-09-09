@@ -97,12 +97,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
 | Half-Life: Chernobyl | 127954 | [127954-half-life-chernobyl.json](./127954-half-life-chernobyl.json) |
 | Half-Life: Cross Product Multiplayer | 360604 | [360604-half-life-cross-product-multiplayer.json](./360604-half-life-cross-product-multiplayer.json) |
+| Half-Life: E7 Black Star | 196832 | [196832-half-life-e7-black-star.json](./196832-half-life-e7-black-star.json) |
+| Half-Life: Edge of Darkness | 196833 | [196833-half-life-edge-of-darkness.json](./196833-half-life-edge-of-darkness.json) |
 | Half-Life: Escape 2.0 | 294442 | [294442-half-life-escape-2-0.json](./294442-half-life-escape-2-0.json) |
 | Half-Life: Intolerable Threat | 222325 | [222325-half-life-intolerable-threat.json](./222325-half-life-intolerable-threat.json) |
+| Half-Life: Invasion | 196834 | [196834-half-life-invasion.json](./196834-half-life-invasion.json) |
+| Half-Life: Life's End | 196835 | [196835-half-life-lifes-end.json](./196835-half-life-lifes-end.json) |
 | Half-Life: Military Duty | 222314 | [222314-half-life-military-duty.json](./222314-half-life-military-duty.json) |
 | Half-Life: Mission of Mercy | 248300 | [248300-half-life-mission-of-mercy.json](./248300-half-life-mission-of-mercy.json) |
 | Half-Life: Pulse | 248292 | [248292-half-life-pulse.json](./248292-half-life-pulse.json) |
 | Half-Life: Reissues | 196840 | [196840-half-life-reissues.json](./196840-half-life-reissues.json) |
+| Half-Life: Residual Life | 196836 | [196836-half-life-residual-life.json](./196836-half-life-residual-life.json) |
 | Half-Life: Residual Point | 196837 | [196837-half-life-residual-point.json](./196837-half-life-residual-point.json) |
 | Half-Life: Shift-Two | 247554 | [247554-half-life-shift-two.json](./247554-half-life-shift-two.json) |
 | Half-Life: Sum | 218736 | [218736-half-life-sum.json](./218736-half-life-sum.json) |
@@ -749,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
 | Hello Kitty: Sweet Little Shops | 206159 | [206159-hello-kitty-sweet-little-shops.json](./206159-hello-kitty-sweet-little-shops.json) |
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
+| Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
@@ -817,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
+| Hentai Girls: Neko Pastry | 196785 | [196785-hentai-girls-neko-pastry.json](./196785-hentai-girls-neko-pastry.json) |
 | Hentai Girls: Paris Romance | 314871 | [314871-hentai-girls-paris-romance.json](./314871-hentai-girls-paris-romance.json) |
 | Hentai Girls: Platinum Edition | 283147 | [283147-hentai-girls-platinum-edition.json](./283147-hentai-girls-platinum-edition.json) |
 | Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
