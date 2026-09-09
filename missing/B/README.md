@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
 | Berkeley's Maid: Remake Edition | 298059 | [298059-berkeleys-maid-remake-edition.json](./298059-berkeleys-maid-remake-edition.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
+| Bermudes | 185089 | [185089-bermudes.json](./185089-bermudes.json) |
 | Bernband | 348252 | [348252-bernband.json](./348252-bernband.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biblistry | 58797 | [58797-biblistry.json](./58797-biblistry.json) |
 | Bibou | 32916 | [32916-bibou.json](./32916-bibou.json) |
 | Bicho | 223474 | [223474-bicho.json](./223474-bicho.json) |
+| Bickadoodle | 185088 | [185088-bickadoodle.json](./185088-bickadoodle.json) |
 | Bicolor | 208385 | [208385-bicolor.json](./208385-bicolor.json) |
 | Bicycle Casino | 5747 | [5747-bicycle-casino.json](./5747-bicycle-casino.json) |
 | Bicycle Tour | 234606 | [234606-bicycle-tour.json](./234606-bicycle-tour.json) |
