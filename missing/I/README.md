@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Wild | 190143 | [190143-in-the-wild.json](./190143-in-the-wild.json) |
 | In the Workplace of Madness | 207335 | [207335-in-the-workplace-of-madness.json](./207335-in-the-workplace-of-madness.json) |
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
+| In Vein | 181320 | [181320-in-vein.json](./181320-in-vein.json) |
 | In Verbis Virtus | 16560 | [16560-in-verbis-virtus.json](./16560-in-verbis-virtus.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
