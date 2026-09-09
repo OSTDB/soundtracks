@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
 | Enchanted Kingdom: A Stranger's Venom | 188003 | [188003-enchanted-kingdom-a-strangers-venom.json](./188003-enchanted-kingdom-a-strangers-venom.json) |
+| Enchanted Kingdom: Descent of the Elders - Collector's Edition | 170996 | [170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json](./170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json) |
 | Enchanted Memories | 386148 | [386148-enchanted-memories.json](./386148-enchanted-memories.json) |
 | Enchanted Solitaire | 386133 | [386133-enchanted-solitaire.json](./386133-enchanted-solitaire.json) |
 | Enchanted Solitaire 2 | 386123 | [386123-enchanted-solitaire-2.json](./386123-enchanted-solitaire-2.json) |
@@ -778,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
 | Epsilon Eridana | 217301 | [217301-epsilon-eridana.json](./217301-epsilon-eridana.json) |
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
+| Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
 | Equilibrium Point | 388742 | [388742-equilibrium-point.json](./388742-equilibrium-point.json) |
 | Equilibrium VR | 29941 | [29941-equilibrium-vr.json](./29941-equilibrium-vr.json) |
@@ -979,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
 | Eternal King | 269012 | [269012-eternal-king.json](./269012-eternal-king.json) |
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
+| Eternal Magic: Keeper | 171013 | [171013-eternal-magic-keeper.json](./171013-eternal-magic-keeper.json) |
 | Eternal Man: Jump | 99605 | [99605-eternal-man-jump.json](./99605-eternal-man-jump.json) |
 | Eternal Mansion | 323743 | [323743-eternal-mansion.json](./323743-eternal-mansion.json) |
 | Eternal Night Town | 339802 | [339802-eternal-night-town.json](./339802-eternal-night-town.json) |
