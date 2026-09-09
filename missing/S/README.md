@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
 | Shuriken Trigger | 326074 | [326074-shuriken-trigger.json](./326074-shuriken-trigger.json) |
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
+| Shut the Box Infinity | 175324 | [175324-shut-the-box-infinity.json](./175324-shut-the-box-infinity.json) |
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
 | Shuten | 330164 | [330164-shuten.json](./330164-shuten.json) |
 | Shutter Chance Love | 72699 | [72699-shutter-chance-love.json](./72699-shutter-chance-love.json) |
@@ -2246,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slick Slack | 277300 | [277300-slick-slack.json](./277300-slick-slack.json) |
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
+| Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
@@ -2805,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
 | Solo Leveling: Arise Overdrive | 349302 | [349302-solo-leveling-arise-overdrive.json](./349302-solo-leveling-arise-overdrive.json) |
+| Solo Noble | 175374 | [175374-solo-noble.json](./175374-solo-noble.json) |
 | Solomania | 329378 | [329378-solomania.json](./329378-solomania.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solos | 197318 | [197318-solos.json](./197318-solos.json) |
@@ -3686,6 +3689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
+| Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
@@ -3943,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
 | Squire of Time | 271224 | [271224-squire-of-time.json](./271224-squire-of-time.json) |
+| Squirix | 175353 | [175353-squirix.json](./175353-squirix.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
 | Squirrel Bobble | 246392 | [246392-squirrel-bobble.json](./246392-squirrel-bobble.json) |
@@ -4654,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyseeker | 135252 | [135252-storyseeker.json](./135252-storyseeker.json) |
 | Storyshift Asriel Battle! | 306665 | [306665-storyshift-asriel-battle.json](./306665-storyshift-asriel-battle.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
+| Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
 | Straif | 360577 | [360577-straif.json](./360577-straif.json) |
 | Straimium Immortaly | 31627 | [31627-straimium-immortaly.json](./31627-straimium-immortaly.json) |
 | Strain | 237351 | [237351-strain.json](./237351-strain.json) |
@@ -5636,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Swunsh World | 214775 | [214775-super-swunsh-world.json](./214775-super-swunsh-world.json) |
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
+| Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
 | Super Tanooki Goomba | 323180 | [323180-super-tanooki-goomba.json](./323180-super-tanooki-goomba.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
@@ -6083,6 +6090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
 | Synesthesia | 337105 | [337105-synesthesia.json](./337105-synesthesia.json) |
+| Synesthetic | 175334 | [175334-synesthetic.json](./175334-synesthetic.json) |
 | Synonymy | 35925 | [35925-synonymy.json](./35925-synonymy.json) |
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
