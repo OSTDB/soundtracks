@@ -1819,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymega Collection Vol. 8: Captain Tomaday | 339811 | [339811-polymega-collection-vol-8-captain-tomaday.json](./339811-polymega-collection-vol-8-captain-tomaday.json) |
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | PolyPine | 278973 | [278973-polypine.json](./278973-polypine.json) |
+| Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
 | Pom Pom Purin: Koro-koro Daibouken | 222518 | [222518-pom-pom-purin-koro-koro-daibouken.json](./222518-pom-pom-purin-koro-koro-daibouken.json) |
