@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
 | Mage vs. Castle | 301819 | [301819-mage-vs-castle.json](./301819-mage-vs-castle.json) |
+| Mage: Enchanted | 169946 | [169946-mage-enchanted.json](./169946-mage-enchanted.json) |
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
 | MageRun | 192361 | [192361-magerun.json](./192361-magerun.json) |
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
@@ -543,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marcella Moon: Killer at the Cove | 264024 | [264024-marcella-moon-killer-at-the-cove.json](./264024-marcella-moon-killer-at-the-cove.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
+| March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
 | Märchen Forest | 181313 | [181313-marchen-forest.json](./181313-marchen-forest.json) |
 | Marching Order | 330151 | [330151-marching-order.json](./330151-marching-order.json) |
@@ -852,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
+| Master of Orion: Gnolam League | 169972 | [169972-master-of-orion-gnolam-league.json](./169972-master-of-orion-gnolam-league.json) |
 | Master of Pieces: Jigsaw Puzzle - Bonsai | 293065 | [293065-master-of-pieces-jigsaw-puzzle-bonsai.json](./293065-master-of-pieces-jigsaw-puzzle-bonsai.json) |
 | Master of Pieces: Jigsaw Puzzle - Paper Art | 293066 | [293066-master-of-pieces-jigsaw-puzzle-paper-art.json](./293066-master-of-pieces-jigsaw-puzzle-paper-art.json) |
 | Master of Pieces: Jigsaw Puzzles - Cat Family Christmas | 284890 | [284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json](./284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json) |
@@ -1423,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
 | Menagerie I: Exoptable Money | 223664 | [223664-menagerie-i-exoptable-money.json](./223664-menagerie-i-exoptable-money.json) |
 | Mencabrona | 299724 | [299724-mencabrona.json](./299724-mencabrona.json) |
+| Mend Arcade Battle | 169959 | [169959-mend-arcade-battle.json](./169959-mend-arcade-battle.json) |
 | Mendalos | 191835 | [191835-mendalos.json](./191835-mendalos.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
