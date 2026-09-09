@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Us & Them | 17118 | [17118-us-and-them.json](./17118-us-and-them.json) |
 | US Coin | 86702 | [86702-us-coin.json](./86702-us-coin.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
+| Usagi Health Club | 207339 | [207339-usagi-health-club.json](./207339-usagi-health-club.json) |
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
 | USD Clicker | 371916 | [371916-usd-clicker.json](./371916-usd-clicker.json) |
