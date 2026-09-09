@@ -72,6 +72,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
 | I Have Hired This Anime Girl to Talk to You | 275003 | [275003-i-have-hired-this-anime-girl-to-talk-to-you.json](./275003-i-have-hired-this-anime-girl-to-talk-to-you.json) |
 | I Human Machine | 195222 | [195222-i-human-machine.json](./195222-i-human-machine.json) |
+| I Hurt Myself | 198455 | [198455-i-hurt-myself.json](./198455-i-hurt-myself.json) |
+| I Hurt Myself: Postjam Edition | 198456 | [198456-i-hurt-myself-postjam-edition.json](./198456-i-hurt-myself-postjam-edition.json) |
 | I Know This Place..? | 244472 | [244472-i-know-this-place.json](./244472-i-know-this-place.json) |
 | I Know This Place..?: Chapter II | 291780 | [291780-i-know-this-place-chapter-ii.json](./291780-i-know-this-place-chapter-ii.json) |
 | I Know Your Address | 288776 | [288776-i-know-your-address.json](./288776-i-know-your-address.json) |
