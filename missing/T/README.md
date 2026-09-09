@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
 | The Answer is 42 | 127234 | [127234-the-answer-is-42.json](./127234-the-answer-is-42.json) |
+| The Ant Bully | 206163 | [206163-the-ant-bully.json](./206163-the-ant-bully.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
@@ -1463,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fabric of the Mind | 238748 | [238748-the-fabric-of-the-mind.json](./238748-the-fabric-of-the-mind.json) |
 | The Faceless | 237361 | [237361-the-faceless.json](./237361-the-faceless.json) |
 | The Faceless City | 183590 | [183590-the-faceless-city.json](./183590-the-faceless-city.json) |
+| The Faces of Evil Remastered | 206133 | [206133-the-faces-of-evil-remastered.json](./206133-the-faces-of-evil-remastered.json) |
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
@@ -1608,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
 | The Giant of Torridge Island | 192984 | [192984-the-giant-of-torridge-island.json](./192984-the-giant-of-torridge-island.json) |
 | The GIF Game | 297813 | [297813-the-gif-game.json](./297813-the-gif-game.json) |
+| The Gigglebone Gang: The AlphaBonk Farm | 206110 | [206110-the-gigglebone-gang-the-alphabonk-farm.json](./206110-the-gigglebone-gang-the-alphabonk-farm.json) |
 | The Girl From the Snuff Video | 247742 | [247742-the-girl-from-the-snuff-video.json](./247742-the-girl-from-the-snuff-video.json) |
 | The Girl in the Window | 221722 | [221722-the-girl-in-the-window.json](./221722-the-girl-in-the-window.json) |
 | The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
@@ -1714,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
+| The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Horror Within | 255712 | [255712-the-horror-within.json](./255712-the-horror-within.json) |
@@ -2188,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
 | The Mind Snare | 363881 | [363881-the-mind-snare.json](./363881-the-mind-snare.json) |
 | The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
+| The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
 | The Mirror Circle | 382746 | [382746-the-mirror-circle.json](./382746-the-mirror-circle.json) |
 | The Mirror Dimension | 260655 | [260655-the-mirror-dimension.json](./260655-the-mirror-dimension.json) |
@@ -2960,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
+| The Wand of Gamelon Remastered | 206135 | [206135-the-wand-of-gamelon-remastered.json](./206135-the-wand-of-gamelon-remastered.json) |
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
@@ -4395,6 +4401,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Pro Train DB/DR Auxiliary Train | 237946 | [237946-trainz-plus-pro-train-db-dr-auxiliary-train.json](./237946-trainz-plus-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Plus: ProTrain - AC4400CW Loco Bundle 1 | 306104 | [306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json](./306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json) |
 | Trainz Plus: QR National GE C44aci | 213407 | [213407-trainz-plus-qr-national-ge-c44aci.json](./213407-trainz-plus-qr-national-ge-c44aci.json) |
+| Trainz Railroad Simulator 2006: Routes Volume 1 | 206164 | [206164-trainz-railroad-simulator-2006-routes-volume-1.json](./206164-trainz-railroad-simulator-2006-routes-volume-1.json) |
+| Trainz Railroad Simulator 2006: Routes Volume 2 | 206165 | [206165-trainz-railroad-simulator-2006-routes-volume-2.json](./206165-trainz-railroad-simulator-2006-routes-volume-2.json) |
+| Trainz Railroad Simulator 2006: Routes Volume 3 | 206166 | [206166-trainz-railroad-simulator-2006-routes-volume-3.json](./206166-trainz-railroad-simulator-2006-routes-volume-3.json) |
+| Trainz Railroad Simulator 2006: Routes Volume 4 | 206167 | [206167-trainz-railroad-simulator-2006-routes-volume-4.json](./206167-trainz-railroad-simulator-2006-routes-volume-4.json) |
 | Trainz Railroad Simulator 2007 | 11015 | [11015-trainz-railroad-simulator-2007.json](./11015-trainz-railroad-simulator-2007.json) |
 | Trainz Railroad Simulator 2019: Centrella Sub Division | 190717 | [190717-trainz-railroad-simulator-2019-centrella-sub-division.json](./190717-trainz-railroad-simulator-2019-centrella-sub-division.json) |
 | Trainz Railroad Simulator 2019: CFR Gorlitz Doubledecker Pack | 227282 | [227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json](./227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json) |
