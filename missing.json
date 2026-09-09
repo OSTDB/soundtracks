@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T05:18:26.085Z",
-  "total_missing": 49352,
+  "generated_at": "2026-09-09T05:21:06.941Z",
+  "total_missing": 49351,
   "games": [
     {
       "igdb_id": 306086,
@@ -561,11 +561,6 @@
       "igdb_id": 246634,
       "game_name": "1428: Shadows over Silesia - Deluxe Edition",
       "file": "missing/0-9/246634-1428-shadows-over-silesia-deluxe-edition.json"
-    },
-    {
-      "igdb_id": 289334,
-      "game_name": "1428: Shadows over Silesia - Tourney at the Bear Rock",
-      "file": "missing/0-9/289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json"
     },
     {
       "igdb_id": 98412,
