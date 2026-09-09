@@ -294,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Nursery | 178084 | [178084-abandoned-nursery.json](./178084-abandoned-nursery.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
+| Abashment | 201766 | [201766-abashment.json](./201766-abashment.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | AbbleDabble | 174319 | [174319-abbledabble.json](./174319-abbledabble.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
@@ -1481,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
 | Among Stars | 211405 | [211405-among-stars.json](./211405-among-stars.json) |
 | Among the Sleep: Enhanced Edition | 114411 | [114411-among-the-sleep-enhanced-edition.json](./114411-among-the-sleep-enhanced-edition.json) |
+| Among the Trolls | 201754 | [201754-among-the-trolls.json](./201754-among-the-trolls.json) |
 | Among The Whispers: Provocation | 291465 | [291465-among-the-whispers-provocation.json](./291465-among-the-whispers-provocation.json) |
 | Among the Wild | 305170 | [305170-among-the-wild.json](./305170-among-the-wild.json) |
 | Among Us 3D | 332784 | [332784-among-us-3d.json](./332784-among-us-3d.json) |
@@ -2822,6 +2824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura Kingdom: Impact | 353913 | [353913-aura-kingdom-impact.json](./353913-aura-kingdom-impact.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
+| Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
 | Auro: A Monster-Bumping Adventure | 33099 | [33099-auro-a-monster-bumping-adventure.json](./33099-auro-a-monster-bumping-adventure.json) |
 | Aurora Dusk: Steam Age | 34581 | [34581-aurora-dusk-steam-age.json](./34581-aurora-dusk-steam-age.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
