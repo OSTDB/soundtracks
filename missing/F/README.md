@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Female Nation Takeover: josei Kokka Nottori Keikaku - Touzoku no Ore ga Ou ni naru | 260696 | [260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json](./260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json) |
 | Female Swordsman | 360573 | [360573-female-swordsman.json](./360573-female-swordsman.json) |
 | Femboy Bangers 2 | 219295 | [219295-femboy-bangers-2.json](./219295-femboy-bangers-2.json) |
+| Femboy Bangers: Pub & Grill | 170495 | [170495-femboy-bangers-pub-and-grill.json](./170495-femboy-bangers-pub-and-grill.json) |
 | Femboys of the Phalanx | 171068 | [171068-femboys-of-the-phalanx.json](./171068-femboys-of-the-phalanx.json) |
 | Femdom Overtime | 400901 | [400901-femdom-overtime.json](./400901-femdom-overtime.json) |
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
@@ -925,6 +926,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Fly | 23855 | [23855-fire-fly.json](./23855-fire-fly.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
+| Fire Pro Wrestling World: Entrance Craft | 170445 | [170445-fire-pro-wrestling-world-entrance-craft.json](./170445-fire-pro-wrestling-world-entrance-craft.json) |
+| Fire Pro Wrestling World: Fighting Road - 2017 NJPW Junior Heavyweight Championship | 170447 | [170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json](./170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json) |
+| Fire Pro Wrestling World: Fighting Road - Champion Road Beyond | 170444 | [170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json](./170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json) |
+| Fire Pro Wrestling World: New Japan Pro-Wrestling 2018 Wrestler Pack | 170441 | [170441-fire-pro-wrestling-world-new-japan-pro-wrestling-2018-wrestler-pack.json](./170441-fire-pro-wrestling-world-new-japan-pro-wrestling-2018-wrestler-pack.json) |
+| Fire Pro Wrestling World: New Japan Pro-Wrestling Collaboration | 170448 | [170448-fire-pro-wrestling-world-new-japan-pro-wrestling-collaboration.json](./170448-fire-pro-wrestling-world-new-japan-pro-wrestling-collaboration.json) |
+| Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration | 170442 | [170442-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration.json](./170442-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration.json) |
+| Fire Pro Wrestling World: World Wonder Ring Stardom Collaboration Part 2 | 170446 | [170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json](./170446-fire-pro-wrestling-world-world-wonder-ring-stardom-collaboration-part-2.json) |
+| Fire Pro Wrestling World: Yoshihiro Takayama Charity DLC Part 2 | 170443 | [170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json](./170443-fire-pro-wrestling-world-yoshihiro-takayama-charity-dlc-part-2.json) |
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
 | Fire Up! | 87659 | [87659-fire-up.json](./87659-fire-up.json) |
@@ -1052,9 +1061,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
 | Fishing Sea Adventure | 335089 | [335089-fishing-sea-adventure.json](./335089-fishing-sea-adventure.json) |
+| Fishing Sim World: Bass Pro Shops Edition | 170481 | [170481-fishing-sim-world-bass-pro-shops-edition.json](./170481-fishing-sim-world-bass-pro-shops-edition.json) |
+| Fishing Sim World: Pro Tour - Bass Pro Shops Equipment Pack | 170476 | [170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json](./170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json) |
 | Fishing Sim World: Pro Tour - Big Fish Lure Pack | 156175 | [156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json](./156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json) |
 | Fishing Sim World: Pro Tour - Deluxe Edition | 228093 | [228093-fishing-sim-world-pro-tour-deluxe-edition.json](./228093-fishing-sim-world-pro-tour-deluxe-edition.json) |
+| Fishing Sim World: Pro Tour - Jezioro Bestii | 170474 | [170474-fishing-sim-world-pro-tour-jezioro-bestii.json](./170474-fishing-sim-world-pro-tour-jezioro-bestii.json) |
+| Fishing Sim World: Pro Tour - Lago Del Mundo | 170477 | [170477-fishing-sim-world-pro-tour-lago-del-mundo.json](./170477-fishing-sim-world-pro-tour-lago-del-mundo.json) |
+| Fishing Sim World: Pro Tour - Laguna Iquitos | 170479 | [170479-fishing-sim-world-pro-tour-laguna-iquitos.json](./170479-fishing-sim-world-pro-tour-laguna-iquitos.json) |
+| Fishing Sim World: Pro Tour - Lake Arnold | 170480 | [170480-fishing-sim-world-pro-tour-lake-arnold.json](./170480-fishing-sim-world-pro-tour-lake-arnold.json) |
+| Fishing Sim World: Pro Tour - Lake Dylan | 170473 | [170473-fishing-sim-world-pro-tour-lake-dylan.json](./170473-fishing-sim-world-pro-tour-lake-dylan.json) |
+| Fishing Sim World: Pro Tour - Lake Nelson | 170482 | [170482-fishing-sim-world-pro-tour-lake-nelson.json](./170482-fishing-sim-world-pro-tour-lake-nelson.json) |
+| Fishing Sim World: Pro Tour - Lake Williams | 170470 | [170470-fishing-sim-world-pro-tour-lake-williams.json](./170470-fishing-sim-world-pro-tour-lake-williams.json) |
+| Fishing Sim World: Pro Tour - Lough Kerr | 170471 | [170471-fishing-sim-world-pro-tour-lough-kerr.json](./170471-fishing-sim-world-pro-tour-lough-kerr.json) |
+| Fishing Sim World: Pro Tour - Tackle Box Equipment Pack | 170478 | [170478-fishing-sim-world-pro-tour-tackle-box-equipment-pack.json](./170478-fishing-sim-world-pro-tour-tackle-box-equipment-pack.json) |
+| Fishing Sim World: Pro Tour - Talon Fishery | 170475 | [170475-fishing-sim-world-pro-tour-talon-fishery.json](./170475-fishing-sim-world-pro-tour-talon-fishery.json) |
 | Fishing Sim World: Pro Tour - Tournament Bass Pack | 156156 | [156156-fishing-sim-world-pro-tour-tournament-bass-pack.json](./156156-fishing-sim-world-pro-tour-tournament-bass-pack.json) |
+| Fishing Sim World: Pro Tour - Trophy Hunter's Equipment Pack | 170483 | [170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json](./170483-fishing-sim-world-pro-tour-trophy-hunters-equipment-pack.json) |
 | Fishing Time | 364504 | [364504-fishing-time.json](./364504-fishing-time.json) |
 | Fishing Tycoon Simulator | 356076 | [356076-fishing-tycoon-simulator.json](./356076-fishing-tycoon-simulator.json) |
 | Fishing Universe | 285986 | [285986-fishing-universe.json](./285986-fishing-universe.json) |
@@ -1531,12 +1553,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Enigma | 258450 | [258450-for-enigma.json](./258450-for-enigma.json) |
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
 | For Honor: Gold Heroes Pack | 305766 | [305766-for-honor-gold-heroes-pack.json](./305766-for-honor-gold-heroes-pack.json) |
+| For Honor: Gryphon Hero | 170438 | [170438-for-honor-gryphon-hero.json](./170438-for-honor-gryphon-hero.json) |
+| For Honor: Kyoshin Hero | 170437 | [170437-for-honor-kyoshin-hero.json](./170437-for-honor-kyoshin-hero.json) |
 | For Honor: Master Katashi - Orochi Hero Skin | 305768 | [305768-for-honor-master-katashi-orochi-hero-skin.json](./305768-for-honor-master-katashi-orochi-hero-skin.json) |
 | For Honor: Pirate Hero Skin | 241964 | [241964-for-honor-pirate-hero-skin.json](./241964-for-honor-pirate-hero-skin.json) |
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
 | For Honor: Ultimate Heroes Pack | 305767 | [305767-for-honor-ultimate-heroes-pack.json](./305767-for-honor-ultimate-heroes-pack.json) |
+| For Honor: Warmonger Hero | 170436 | [170436-for-honor-warmonger-hero.json](./170436-for-honor-warmonger-hero.json) |
 | For Political Lovers, a Little Utopia Sketch | 128612 | [128612-for-political-lovers-a-little-utopia-sketch.json](./128612-for-political-lovers-a-little-utopia-sketch.json) |
 | For Rent: Haunted House | 83600 | [83600-for-rent-haunted-house.json](./83600-for-rent-haunted-house.json) |
 | For Runner Night | 195720 | [195720-for-runner-night.json](./195720-for-runner-night.json) |
@@ -2294,6 +2319,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Vampire Girlfriend | 163978 | [163978-futanari-vampire-girlfriend.json](./163978-futanari-vampire-girlfriend.json) |
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
+| Futuclass: Hydrogen & Oxygen | 170492 | [170492-futuclass-hydrogen-and-oxygen.json](./170492-futuclass-hydrogen-and-oxygen.json) |
+| Futuclass: Oxygen Escape Room | 170493 | [170493-futuclass-oxygen-escape-room.json](./170493-futuclass-oxygen-escape-room.json) |
 | FuturCity Taxi | 246989 | [246989-futurcity-taxi.json](./246989-futurcity-taxi.json) |
 | Future Avoid | 307583 | [307583-future-avoid.json](./307583-future-avoid.json) |
 | Future Card Buddyfight Mezase! Buddy Champion! | 222542 | [222542-future-card-buddyfight-mezase-buddy-champion.json](./222542-future-card-buddyfight-mezase-buddy-champion.json) |
@@ -2310,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Vox Imaginarium Dot Exe V1.1: Doge Lover Edition | 198445 | [198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json](./198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json) |
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
+| FutureKreate | 170435 | [170435-futurekreate.json](./170435-futurekreate.json) |
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
 | Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
