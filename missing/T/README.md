@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
+| Team 47 GoMan | 180229 | [180229-team-47-goman.json](./180229-team-47-goman.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
@@ -1223,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citadel | 58820 | [58820-the-citadel.json](./58820-the-citadel.json) |
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
+| The City Must Grow | 180243 | [180243-the-city-must-grow.json](./180243-the-city-must-grow.json) |
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
 | The Clans - Saga of the Twins | 35943 | [35943-the-clans-saga-of-the-twins.json](./35943-the-clans-saga-of-the-twins.json) |
@@ -3226,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Exists Nobody | 322970 | [322970-there-exists-nobody.json](./322970-there-exists-nobody.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
 | There Is No Light | 138213 | [138213-there-is-no-light.json](./138213-there-is-no-light.json) |
+| There Is No Light 616 | 180203 | [180203-there-is-no-light-616.json](./180203-there-is-no-light-616.json) |
 | There Is No Turning Back! | 111004 | [111004-there-is-no-turning-back.json](./111004-there-is-no-turning-back.json) |
 | There Is Nothing Here | 179174 | [179174-there-is-nothing-here.json](./179174-there-is-nothing-here.json) |
 | There Was a Caveman | 34339 | [34339-there-was-a-caveman.json](./34339-there-was-a-caveman.json) |
@@ -4174,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
 | Torchbear | 341898 | [341898-torchbear.json](./341898-torchbear.json) |
 | Torches of Fate | 133458 | [133458-torches-of-fate.json](./133458-torches-of-fate.json) |
+| Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
 | Toree 3D | 144687 | [144687-toree-3d.json](./144687-toree-3d.json) |
 | Toree Saturn | 262958 | [262958-toree-saturn.json](./262958-toree-saturn.json) |
 | Toree's 3D Platformer Collection | 218452 | [218452-torees-3d-platformer-collection.json](./218452-torees-3d-platformer-collection.json) |
