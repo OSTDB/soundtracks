@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
 | Dangerous Line | 327827 | [327827-dangerous-line.json](./327827-dangerous-line.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
+| Dangers Afloat | 176459 | [176459-dangers-afloat.json](./176459-dangers-afloat.json) |
 | Dangle | 274996 | [274996-dangle.json](./274996-dangle.json) |
 | Dango Thief | 242539 | [242539-dango-thief.json](./242539-dango-thief.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
@@ -1869,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
 | Don't Drop The Cake | 323532 | [323532-dont-drop-the-cake.json](./323532-dont-drop-the-cake.json) |
 | Don't Drown | 342084 | [342084-dont-drown.json](./342084-dont-drown.json) |
+| Don't Eat My Mind You Stupid Monsters! | 176422 | [176422-dont-eat-my-mind-you-stupid-monsters.json](./176422-dont-eat-my-mind-you-stupid-monsters.json) |
 | Don't Escape | 223670 | [223670-dont-escape.json](./223670-dont-escape.json) |
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
