@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoiyami Biscuit | 307308 | [307308-yoiyami-biscuit.json](./307308-yoiyami-biscuit.json) |
 | Yokai Art: Night Parade of One Hundred Demons | 195726 | [195726-yokai-art-night-parade-of-one-hundred-demons.json](./195726-yokai-art-night-parade-of-one-hundred-demons.json) |
 | Yokai Jiken Aratamegata no Kobanashi | 77369 | [77369-yokai-jiken-aratamegata-no-kobanashi.json](./77369-yokai-jiken-aratamegata-no-kobanashi.json) |
+| Yokai Moon | 183511 | [183511-yokai-moon.json](./183511-yokai-moon.json) |
 | Yokai Rescue | 309868 | [309868-yokai-rescue.json](./309868-yokai-rescue.json) |
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
 | Yokai's Secret | 138265 | [138265-yokais-secret.json](./138265-yokais-secret.json) |
