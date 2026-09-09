@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
+| Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
