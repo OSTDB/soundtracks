@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T02:03:38.165Z",
-  "total_missing": 48847,
+  "generated_at": "2026-09-09T02:11:00.542Z",
+  "total_missing": 48846,
   "games": [
     {
       "igdb_id": 306086,
@@ -461,11 +461,6 @@
       "igdb_id": 382189,
       "game_name": "10KoyaNI",
       "file": "missing/0-9/382189-10koyani.json"
-    },
-    {
-      "igdb_id": 326085,
-      "game_name": "10min Heroes",
-      "file": "missing/0-9/326085-10min-heroes.json"
     },
     {
       "igdb_id": 258997,
