@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
+| Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
 | Pixels N Pistols | 246950 | [246950-pixels-n-pistols.json](./246950-pixels-n-pistols.json) |
 | Pixels Out of Space | 186253 | [186253-pixels-out-of-space.json](./186253-pixels-out-of-space.json) |
@@ -1415,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
 | Planet Wars | 207855 | [207855-planet-wars.json](./207855-planet-wars.json) |
+| Planet Waves | 177001 | [177001-planet-waves.json](./177001-planet-waves.json) |
 | Planet X16 | 285453 | [285453-planet-x16.json](./285453-planet-x16.json) |
 | Planet Zeta | 166783 | [166783-planet-zeta.json](./166783-planet-zeta.json) |
 | Planet Zoldath | 318409 | [318409-planet-zoldath.json](./318409-planet-zoldath.json) |
@@ -1559,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plusris | 316074 | [316074-plusris.json](./316074-plusris.json) |
 | Plust: Loving U So True | 239874 | [239874-plust-loving-u-so-true.json](./239874-plust-loving-u-so-true.json) |
 | Pluto Lost Its Colors | 318426 | [318426-pluto-lost-its-colors.json](./318426-pluto-lost-its-colors.json) |
+| Pluto's Tears | 176974 | [176974-plutos-tears.json](./176974-plutos-tears.json) |
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
@@ -1600,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Slimes | 192949 | [192949-pocket-slimes.json](./192949-pocket-slimes.json) |
 | Pocket Squid Fishing | 248282 | [248282-pocket-squid-fishing.json](./248282-pocket-squid-fishing.json) |
 | Pocket Starships | 57124 | [57124-pocket-starships.json](./57124-pocket-starships.json) |
+| Pocket Tactics | 177000 | [177000-pocket-tactics.json](./177000-pocket-tactics.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 1 | 293906 | [293906-pocket-zaurus-party-island-no-nakama-tachi-1.json](./293906-pocket-zaurus-party-island-no-nakama-tachi-1.json) |
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
@@ -1992,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Salad | 290960 | [290960-potato-salad.json](./290960-potato-salad.json) |
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potion Craft | 142941 | [142941-potion-craft.json](./142941-potion-craft.json) |
+| Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
 | Potion Permit: Halloween Bundle | 272286 | [272286-potion-permit-halloween-bundle.json](./272286-potion-permit-halloween-bundle.json) |
 | Potion Problems | 343256 | [343256-potion-problems.json](./343256-potion-problems.json) |
 | Potion Prodigy | 175939 | [175939-potion-prodigy.json](./175939-potion-prodigy.json) |
