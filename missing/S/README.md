@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoundrel | 101605 | [101605-scoundrel.json](./101605-scoundrel.json) |
 | Scoundrel's Dungeon | 399600 | [399600-scoundrels-dungeon.json](./399600-scoundrels-dungeon.json) |
 | Scourge of Scavengers | 348274 | [348274-scourge-of-scavengers.json](./348274-scourge-of-scavengers.json) |
+| Scourge of War: Waterloo - Ligny | 171038 | [171038-scourge-of-war-waterloo-ligny.json](./171038-scourge-of-war-waterloo-ligny.json) |
 | Scourge of War: Waterloo - Quatre Bras | 171039 | [171039-scourge-of-war-waterloo-quatre-bras.json](./171039-scourge-of-war-waterloo-quatre-bras.json) |
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
+| Search Party: Director's Cut | 171004 | [171004-search-party-directors-cut.json](./171004-search-party-directors-cut.json) |
 | Searching for Objects in the Forest | 173268 | [173268-searching-for-objects-in-the-forest.json](./173268-searching-for-objects-in-the-forest.json) |
 | Seashell | 195692 | [195692-seashell.json](./195692-seashell.json) |
 | Seashell Thief | 302111 | [302111-seashell-thief.json](./302111-seashell-thief.json) |
@@ -856,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
+| Seek Girl: Charming Girl | 171014 | [171014-seek-girl-charming-girl.json](./171014-seek-girl-charming-girl.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
 | Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
@@ -3305,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
 | Space Ballet | 25758 | [25758-space-ballet.json](./25758-space-ballet.json) |
 | Space Bar | 411582 | [411582-space-bar.json](./411582-space-bar.json) |
+| Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Berserker | 82929 | [82929-space-berserker.json](./82929-space-berserker.json) |
@@ -4507,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Echoes: Ultimate Challenge | 263749 | [263749-stellar-echoes-ultimate-challenge.json](./263749-stellar-echoes-ultimate-challenge.json) |
 | Stellar Initiative | 261784 | [261784-stellar-initiative.json](./261784-stellar-initiative.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
+| Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
 | Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
 | Stellar Outpost Commander | 292325 | [292325-stellar-outpost-commander.json](./292325-stellar-outpost-commander.json) |
 | Stellar Overload | 25570 | [25570-stellar-overload.json](./25570-stellar-overload.json) |
