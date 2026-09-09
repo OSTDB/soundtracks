@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
 | Naiad | 180277 | [180277-naiad.json](./180277-naiad.json) |
+| Nailed It | 189111 | [189111-nailed-it.json](./189111-nailed-it.json) |
 | Nailed It! Baking Bash | 204457 | [204457-nailed-it-baking-bash.json](./204457-nailed-it-baking-bash.json) |
 | Naima's Melody | 122407 | [122407-naimas-melody.json](./122407-naimas-melody.json) |
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
