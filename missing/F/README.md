@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
 | Fairy 2 | 216800 | [216800-fairy-2.json](./216800-fairy-2.json) |
+| Fairy Bakery Workshop | 182456 | [182456-fairy-bakery-workshop.json](./182456-fairy-bakery-workshop.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
@@ -736,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
 | Figurality | 269020 | [269020-figurality.json](./269020-figurality.json) |
+| Figure Fantasy | 182491 | [182491-figure-fantasy.json](./182491-figure-fantasy.json) |
 | Figure of Eight | 402927 | [402927-figure-of-eight.json](./402927-figure-of-eight.json) |
 | Figure Shop Simulator | 343263 | [343263-figure-shop-simulator.json](./343263-figure-shop-simulator.json) |
 | Figureheads | 24931 | [24931-figureheads.json](./24931-figureheads.json) |
@@ -1447,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
 | Folly Of The Wizards | 253946 | [253946-folly-of-the-wizards.json](./253946-folly-of-the-wizards.json) |
+| Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
 | Food Chain | 209464 | [209464-food-chain.json](./209464-food-chain.json) |
 | Food Comes From Above | 157715 | [157715-food-comes-from-above.json](./157715-food-comes-from-above.json) |
