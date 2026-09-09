@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
 | Café Guile | 364495 | [364495-cafe-guile.json](./364495-cafe-guile.json) |
+| Cafe in the Clouds | 175923 | [175923-cafe-in-the-clouds.json](./175923-cafe-in-the-clouds.json) |
 | Café Machina | 414295 | [414295-cafe-machina.json](./414295-cafe-machina.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
@@ -653,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
 | Catagrams | 333575 | [333575-catagrams.json](./333575-catagrams.json) |
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
+| Catan | 175914 | [175914-catan.json](./175914-catan.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
 | catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
@@ -1157,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childish Life Prologue | 374609 | [374609-childish-life-prologue.json](./374609-childish-life-prologue.json) |
 | Childlike | 191171 | [191171-childlike.json](./191171-childlike.json) |
 | Children of a Dead Earth | 25221 | [25221-children-of-a-dead-earth.json](./25221-children-of-a-dead-earth.json) |
+| Children of Morta: Complete Edition | 175878 | [175878-children-of-morta-complete-edition.json](./175878-children-of-morta-complete-edition.json) |
 | Children of Orc | 30920 | [30920-children-of-orc.json](./30920-children-of-orc.json) |
 | Children of the Sun | 284925 | [284925-children-of-the-sun.json](./284925-children-of-the-sun.json) |
 | Children's Garden | 323505 | [323505-childrens-garden.json](./323505-childrens-garden.json) |
@@ -1511,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
+| Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
@@ -1834,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
+| Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
 | Collapse | 310937 | [310937-collapse.json](./310937-collapse.json) |
 | Collapse Machine | 310765 | [310765-collapse-machine.json](./310765-collapse-machine.json) |
@@ -1872,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Assault | 34554 | [34554-colony-assault.json](./34554-colony-assault.json) |
 | Colony Battle | 145686 | [145686-colony-battle.json](./145686-colony-battle.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
+| Colony Strikes Back | 175893 | [175893-colony-strikes-back.json](./175893-colony-strikes-back.json) |
 | Colony Wars 2494 | 19585 | [19585-colony-wars-2494.json](./19585-colony-wars-2494.json) |
 | Colony: A Space RPG | 208025 | [208025-colony-a-space-rpg.json](./208025-colony-a-space-rpg.json) |
 | Colony: Part I The Moon Castle | 302937 | [302937-colony-part-i-the-moon-castle.json](./302937-colony-part-i-the-moon-castle.json) |
@@ -2622,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
+| Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
