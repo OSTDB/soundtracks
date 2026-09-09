@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball | 5689 | [5689-basketball.json](./5689-basketball.json) |
 | Basketball 2 | 245559 | [245559-basketball-2.json](./245559-basketball-2.json) |
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
+| Basketball Baby | 186838 | [186838-basketball-baby.json](./186838-basketball-baby.json) |
 | Basketball Battle | 89288 | [89288-basketball-battle.json](./89288-basketball-battle.json) |
 | Basketball Dunk Tournament | 197336 | [197336-basketball-dunk-tournament.json](./197336-basketball-dunk-tournament.json) |
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
@@ -1286,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bilspel | 79334 | [79334-bilspel.json](./79334-bilspel.json) |
 | Bimbo Sequencer 2 | 185697 | [185697-bimbo-sequencer-2.json](./185697-bimbo-sequencer-2.json) |
 | Bîme | 251828 | [251828-bime.json](./251828-bime.json) |
+| Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Binary Run | 203906 | [203906-binary-run.json](./203906-binary-run.json) |
@@ -1572,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
 | Blasphemous II: Mea Culpa | 317595 | [317595-blasphemous-ii-mea-culpa.json](./317595-blasphemous-ii-mea-culpa.json) |
+| Blast Beat | 186821 | [186821-blast-beat.json](./186821-blast-beat.json) |
 | Blast Bots | 194022 | [194022-blast-bots.json](./194022-blast-bots.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
@@ -2218,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
 | Bouncy! Trampoline | 233520 | [233520-bouncy-trampoline.json](./233520-bouncy-trampoline.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
+| Bound by Love | 186837 | [186837-bound-by-love.json](./186837-bound-by-love.json) |
 | Bound High | 50596 | [50596-bound-high.json](./50596-bound-high.json) |
 | Bound in Time | 199602 | [199602-bound-in-time.json](./199602-bound-in-time.json) |
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
@@ -2312,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brahma Force: The Assault on Beltlogger 9 | 20816 | [20816-brahma-force-the-assault-on-beltlogger-9.json](./20816-brahma-force-the-assault-on-beltlogger-9.json) |
 | Brain Age Express: Arts & Letters | 67792 | [67792-brain-age-express-arts-and-letters.json](./67792-brain-age-express-arts-and-letters.json) |
 | Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
+| Brain Bait | 186814 | [186814-brain-bait.json](./186814-brain-bait.json) |
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
 | Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
