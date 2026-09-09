@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T08:03:46.012Z",
-  "total_missing": 49710,
+  "generated_at": "2026-09-09T08:11:07.778Z",
+  "total_missing": 49709,
   "games": [
     {
       "igdb_id": 306086,
@@ -651,11 +651,6 @@
       "igdb_id": 299485,
       "game_name": "18th Airborne",
       "file": "missing/0-9/299485-18th-airborne.json"
-    },
-    {
-      "igdb_id": 120395,
-      "game_name": "1912 Titanic Mystery",
-      "file": "missing/0-9/120395-1912-titanic-mystery.json"
     },
     {
       "igdb_id": 205802,
