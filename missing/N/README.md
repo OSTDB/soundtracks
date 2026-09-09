@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
 | Neonsomnia | 257087 | [257087-neonsomnia.json](./257087-neonsomnia.json) |
 | Neopets: The Darkest Faerie | 43641 | [43641-neopets-the-darkest-faerie.json](./43641-neopets-the-darkest-faerie.json) |
+| Neophyte | 197366 | [197366-neophyte.json](./197366-neophyte.json) |
 | Neophyte: Koplio's Story | 145695 | [145695-neophyte-koplios-story.json](./145695-neophyte-koplios-story.json) |
 | Neophyte: The Spirit Master | 145696 | [145696-neophyte-the-spirit-master.json](./145696-neophyte-the-spirit-master.json) |
 | NeoQuest | 229025 | [229025-neoquest.json](./229025-neoquest.json) |
@@ -468,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
 | Nerds Rope: Follow the Leader Game | 373535 | [373535-nerds-rope-follow-the-leader-game.json](./373535-nerds-rope-follow-the-leader-game.json) |
 | Nerf Jr. Foam Balster: Attack of The Kleptons | 210037 | [210037-nerf-jr-foam-balster-attack-of-the-kleptons.json](./210037-nerf-jr-foam-balster-attack-of-the-kleptons.json) |
+| Nerf: Battle Arena | 197329 | [197329-nerf-battle-arena.json](./197329-nerf-battle-arena.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
 | Nestables | 134029 | [134029-nestables.json](./134029-nestables.json) |
