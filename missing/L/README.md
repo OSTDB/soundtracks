@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
 | Listen, Think, Meow! | 304596 | [304596-listen-think-meow.json](./304596-listen-think-meow.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
+| LiteracyPlanet: Word Mania | 203372 | [203372-literacyplanet-word-mania.json](./203372-literacyplanet-word-mania.json) |
 | Literally Just Pixels On A Screen | 340922 | [340922-literally-just-pixels-on-a-screen.json](./340922-literally-just-pixels-on-a-screen.json) |
 | Litguy Adventure | 213390 | [213390-litguy-adventure.json](./213390-litguy-adventure.json) |
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
 | Little Retreat | 381609 | [381609-little-retreat.json](./381609-little-retreat.json) |
 | Little Robot Stories | 149588 | [149588-little-robot-stories.json](./149588-little-robot-stories.json) |
+| Little Rock, MI | 203379 | [203379-little-rock-mi.json](./203379-little-rock-mi.json) |
 | Little Screamies | 319583 | [319583-little-screamies.json](./319583-little-screamies.json) |
 | Little Shadow | 381602 | [381602-little-shadow.json](./381602-little-shadow.json) |
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
@@ -1493,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi and the Quest for Nothing: Enhanced | 322380 | [322380-luigi-and-the-quest-for-nothing-enhanced.json](./322380-luigi-and-the-quest-for-nothing-enhanced.json) |
 | Luigi Doesn't Drink A Glass of Milk | 250050 | [250050-luigi-doesnt-drink-a-glass-of-milk.json](./250050-luigi-doesnt-drink-a-glass-of-milk.json) |
 | Luigi in Sonic the Hedgehog | 198518 | [198518-luigi-in-sonic-the-hedgehog.json](./198518-luigi-in-sonic-the-hedgehog.json) |
+| Luigi Run | 203387 | [203387-luigi-run.json](./203387-luigi-run.json) |
 | Luigi: Insanity | 335659 | [335659-luigi-insanity.json](./335659-luigi-insanity.json) |
 | Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
 | Luigi's Mansion | 339799 | [339799-luigis-mansion.json](./339799-luigis-mansion.json) |
