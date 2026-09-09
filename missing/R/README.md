@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Town: Music Visualizer | 335251 | [335251-rhythm-town-music-visualizer.json](./335251-rhythm-town-music-visualizer.json) |
 | Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
+| Rhythmcremental | 176462 | [176462-rhythmcremental.json](./176462-rhythmcremental.json) |
 | Rhythmscapes | 317017 | [317017-rhythmscapes.json](./317017-rhythmscapes.json) |
 | RhythmSlinger | 154000 | [154000-rhythmslinger.json](./154000-rhythmslinger.json) |
 | RhythmStar | 230522 | [230522-rhythmstar.json](./230522-rhythmstar.json) |
