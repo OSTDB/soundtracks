@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
 | VoidOut Parkour | 155660 | [155660-voidout-parkour.json](./155660-voidout-parkour.json) |
 | Voids Vigil | 282024 | [282024-voids-vigil.json](./282024-voids-vigil.json) |
+| Voidwalkers: The Gates of Hell - Hell's Dungeon | 205036 | [205036-voidwalkers-the-gates-of-hell-hells-dungeon.json](./205036-voidwalkers-the-gates-of-hell-hells-dungeon.json) |
 | Voir Dire | 298019 | [298019-voir-dire.json](./298019-voir-dire.json) |
 | Voivod: The Nuclear Warrior | 339785 | [339785-voivod-the-nuclear-warrior.json](./339785-voivod-the-nuclear-warrior.json) |
 | Vol'Talkes - The AI War | 35846 | [35846-voltalkes-the-ai-war.json](./35846-voltalkes-the-ai-war.json) |
