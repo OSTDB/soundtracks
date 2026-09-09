@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T15:18:57.005Z",
-  "total_missing": 50939,
+  "generated_at": "2026-09-09T15:21:10.716Z",
+  "total_missing": 50938,
   "games": [
     {
       "igdb_id": 306086,
@@ -881,11 +881,6 @@
       "igdb_id": 382186,
       "game_name": "2048 Arms",
       "file": "missing/0-9/382186-2048-arms.json"
-    },
-    {
-      "igdb_id": 175991,
-      "game_name": "2048 Balls 3D",
-      "file": "missing/0-9/175991-2048-balls-3d.json"
     },
     {
       "igdb_id": 124274,
