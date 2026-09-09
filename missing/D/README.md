@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
+| Desperate: Vladivostok | 206720 | [206720-desperate-vladivostok.json](./206720-desperate-vladivostok.json) |
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Despot's Game: Collector's Edition | 219052 | [219052-despots-game-collectors-edition.json](./219052-despots-game-collectors-edition.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
@@ -1849,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donny Donut: Dokrats | 265689 | [265689-donny-donut-dokrats.json](./265689-donny-donut-dokrats.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
+| Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
 | Donut Hockey | 373558 | [373558-donut-hockey.json](./373558-donut-hockey.json) |
 | Donut Maker | 232179 | [232179-donut-maker.json](./232179-donut-maker.json) |
@@ -1930,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
 | Dora and the Three Little Pigs | 231378 | [231378-dora-and-the-three-little-pigs.json](./231378-dora-and-the-three-little-pigs.json) |
+| Dora the Explorer: Candy Land | 206702 | [206702-dora-the-explorer-candy-land.json](./206702-dora-the-explorer-candy-land.json) |
 | Dora the Explorer: Carnival 2 - Boardwalk Adventure | 209123 | [209123-dora-the-explorer-carnival-2-boardwalk-adventure.json](./209123-dora-the-explorer-carnival-2-boardwalk-adventure.json) |
 | Dora the Explorer: Dora's Big Birthday Adventure | 50624 | [50624-dora-the-explorer-doras-big-birthday-adventure.json](./50624-dora-the-explorer-doras-big-birthday-adventure.json) |
 | Dora the Explorer: Lost and Found Adventure | 209124 | [209124-dora-the-explorer-lost-and-found-adventure.json](./209124-dora-the-explorer-lost-and-found-adventure.json) |
@@ -2256,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
+| Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
