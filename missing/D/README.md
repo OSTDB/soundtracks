@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damaged Core | 24981 | [24981-damaged-core.json](./24981-damaged-core.json) |
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
+| Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
 | Damn Little Town | 262062 | [262062-damn-little-town.json](./262062-damn-little-town.json) |
 | Damn Love | 402274 | [402274-damn-love.json](./402274-damn-love.json) |
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
@@ -407,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydream Drifters | 395543 | [395543-daydream-drifters.json](./395543-daydream-drifters.json) |
 | Daydream Heartbeat Cure | 394853 | [394853-daydream-heartbeat-cure.json](./394853-daydream-heartbeat-cure.json) |
 | DayDream Mosaics 2: Juliette's Tale | 193506 | [193506-daydream-mosaics-2-juliettes-tale.json](./193506-daydream-mosaics-2-juliettes-tale.json) |
+| Daydream: When Butterflies Dance | 201240 | [201240-daydream-when-butterflies-dance.json](./201240-daydream-when-butterflies-dance.json) |
 | Daydreamer | 295789 | [295789-daydreamer.json](./295789-daydreamer.json) |
 | Daylife in Japan: Pixel Art Jigsaw Puzzle | 147966 | [147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json](./147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json) |
 | Daylight Dread | 317214 | [317214-daylight-dread.json](./317214-daylight-dread.json) |
@@ -867,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
+| Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
