@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T08:18:55.319Z",
-  "total_missing": 49759,
+  "generated_at": "2026-09-09T08:21:09.263Z",
+  "total_missing": 49758,
   "games": [
     {
       "igdb_id": 306086,
@@ -656,11 +656,6 @@
       "igdb_id": 205802,
       "game_name": "1912 Titanic w/ Neptunia",
       "file": "missing/0-9/205802-1912-titanic-w-neptunia.json"
-    },
-    {
-      "igdb_id": 151197,
-      "game_name": "1917: The Prologue",
-      "file": "missing/0-9/151197-1917-the-prologue.json"
     },
     {
       "igdb_id": 265966,
