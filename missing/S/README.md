@@ -4530,6 +4530,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
+| Stuart Little: Big City Adventures | 208356 | [208356-stuart-little-big-city-adventures.json](./208356-stuart-little-big-city-adventures.json) |
+| Stuart Little: His Adventures in Numberland | 208357 | [208357-stuart-little-his-adventures-in-numberland.json](./208357-stuart-little-his-adventures-in-numberland.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
@@ -4552,6 +4554,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Camera | 255992 | [255992-stupid-camera.json](./255992-stupid-camera.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
 | SturmFront: The Mutant War - Farewell Edition | 215362 | [215362-sturmfront-the-mutant-war-farewell-edition.json](./215362-sturmfront-the-mutant-war-farewell-edition.json) |
+| Style Lab: Fashion Design | 208358 | [208358-style-lab-fashion-design.json](./208358-style-lab-fashion-design.json) |
+| Style Lab: Jewelry Design | 208359 | [208359-style-lab-jewelry-design.json](./208359-style-lab-jewelry-design.json) |
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
 | Stylist Girl: Sunny Edition | 317242 | [317242-stylist-girl-sunny-edition.json](./317242-stylist-girl-sunny-edition.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
@@ -4616,6 +4620,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
 | Sudoku | 397667 | [397667-sudoku.json](./397667-sudoku.json) |
+| SuDoku & KaKuro Collector's Edition | 208360 | [208360-sudoku-and-kakuro-collectors-edition.json](./208360-sudoku-and-kakuro-collectors-edition.json) |
+| Sudoku & Kakuro Mania Unlimited | 208361 | [208361-sudoku-and-kakuro-mania-unlimited.json](./208361-sudoku-and-kakuro-mania-unlimited.json) |
 | Sudoku 4 Kids | 245580 | [245580-sudoku-4-kids.json](./245580-sudoku-4-kids.json) |
 | Sudoku 9X16X25 | 119771 | [119771-sudoku-9x16x25.json](./119771-sudoku-9x16x25.json) |
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
@@ -4629,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
 | Sudoku Man - Number Puzzle | 102769 | [102769-sudoku-man-number-puzzle.json](./102769-sudoku-man-number-puzzle.json) |
+| Sudoku Mania! | 208362 | [208362-sudoku-mania.json](./208362-sudoku-mania.json) |
 | Sudoku Mansion | 414326 | [414326-sudoku-mansion.json](./414326-sudoku-mansion.json) |
 | Sudoku Master | 147968 | [147968-sudoku-master.json](./147968-sudoku-master.json) |
 | Sudoku Master | 84914 | [84914-sudoku-master.json](./84914-sudoku-master.json) |
@@ -4636,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Office Style | 58254 | [58254-sudoku-office-style.json](./58254-sudoku-office-style.json) |
 | Sudoku Party | 84915 | [84915-sudoku-party.json](./84915-sudoku-party.json) |
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
+| Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
 | Sudoku Student | 84912 | [84912-sudoku-student.json](./84912-sudoku-student.json) |
 | Sudoku to 3-Tsu no Puzzle: Nikoli no Puzzle Variety | 222313 | [222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json](./222313-sudoku-to-3-tsu-no-puzzle-nikoli-no-puzzle-variety.json) |
@@ -4707,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Athletics | 5196 | [5196-summer-athletics.json](./5196-summer-athletics.json) |
 | Summer Beach Vacation Objects - Hidden Object Time | 102814 | [102814-summer-beach-vacation-objects-hidden-object-time.json](./102814-summer-beach-vacation-objects-hidden-object-time.json) |
 | Summer Camp | 167865 | [167865-summer-camp.json](./167865-summer-camp.json) |
+| Summer Camp Showdown | 208355 | [208355-summer-camp-showdown.json](./208355-summer-camp-showdown.json) |
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
@@ -4871,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super DJ | 233241 | [233241-super-dj.json](./233241-super-dj.json) |
 | Super Dodge Ball | 46768 | [46768-super-dodge-ball.json](./46768-super-dodge-ball.json) |
 | Super Domino Effect 3D | 215706 | [215706-super-domino-effect-3d.json](./215706-super-domino-effect-3d.json) |
+| Super Dominoes | 208353 | [208353-super-dominoes.json](./208353-super-dominoes.json) |
 | Super Donkey Kong 64 | 134017 | [134017-super-donkey-kong-64.json](./134017-super-donkey-kong-64.json) |
 | Super Donuts! | 175412 | [175412-super-donuts.json](./175412-super-donuts.json) |
 | Super Doom TV | 299449 | [299449-super-doom-tv.json](./299449-super-doom-tv.json) |
@@ -5256,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
+| Super Stunt Spectacular | 208350 | [208350-super-stunt-spectacular.json](./208350-super-stunt-spectacular.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
 | Super Sushi Roll | 219575 | [219575-super-sushi-roll.json](./219575-super-sushi-roll.json) |
@@ -5290,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
 | Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
 | Super Wonder Boy in Monster Land | 327845 | [327845-super-wonder-boy-in-monster-land.json](./327845-super-wonder-boy-in-monster-land.json) |
+| Super Word Challenge | 208351 | [208351-super-word-challenge.json](./208351-super-word-challenge.json) |
 | Super Words | 258216 | [258216-super-words.json](./258216-super-words.json) |
 | Super World Run: Bosses | 253004 | [253004-super-world-run-bosses.json](./253004-super-world-run-bosses.json) |
 | Super World Stadium '99 | 311293 | [311293-super-world-stadium-99.json](./311293-super-world-stadium-99.json) |
@@ -5474,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
+| Suze Orman's Money Game | 208352 | [208352-suze-ormans-money-game.json](./208352-suze-ormans-money-game.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
@@ -5487,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Attack 2 | 194039 | [194039-swamp-attack-2.json](./194039-swamp-attack-2.json) |
 | Swamp Castle | 276461 | [276461-swamp-castle.json](./276461-swamp-castle.json) |
 | Swamp Gas Visits the United States of America | 65517 | [65517-swamp-gas-visits-the-united-states-of-america.json](./65517-swamp-gas-visits-the-united-states-of-america.json) |
+| Swamp Hunt | 208347 | [208347-swamp-hunt.json](./208347-swamp-hunt.json) |
 | Swamp Thing | 365685 | [365685-swamp-thing.json](./365685-swamp-thing.json) |
 | Swampify | 305753 | [305753-swampify.json](./305753-swampify.json) |
 | Swan Song | 257090 | [257090-swan-song.json](./257090-swan-song.json) |
@@ -5530,11 +5544,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
+| Sweet Reversi | 208348 | [208348-sweet-reversi.json](./208348-sweet-reversi.json) |
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
 | Sweet Time | 280236 | [280236-sweet-time.json](./280236-sweet-time.json) |
+| Sweet Tooth to Go | 208349 | [208349-sweet-tooth-to-go.json](./208349-sweet-tooth-to-go.json) |
 | Sweet Tooth Town | 355003 | [355003-sweet-tooth-town.json](./355003-sweet-tooth-town.json) |
 | Sweet Treat Solitaire | 386150 | [386150-sweet-treat-solitaire.json](./386150-sweet-treat-solitaire.json) |
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
