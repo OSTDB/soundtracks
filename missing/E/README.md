@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Nights: Zombie Apocalypse | 244253 | [244253-endless-nights-zombie-apocalypse.json](./244253-endless-nights-zombie-apocalypse.json) |
 | Endless Ocean | 289872 | [289872-endless-ocean.json](./289872-endless-ocean.json) |
+| Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
