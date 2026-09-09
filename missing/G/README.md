@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Gem | 63861 | [63861-garfields-gem.json](./63861-garfields-gem.json) |
 | Garfield's Nightmare | 67853 | [67853-garfields-nightmare.json](./67853-garfields-nightmare.json) |
 | Gargolite | 183507 | [183507-gargolite.json](./183507-gargolite.json) |
+| Gargoyle Ruins | 175331 | [175331-gargoyle-ruins.json](./175331-gargoyle-ruins.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
 | Garland Boy | 327187 | [327187-garland-boy.json](./327187-garland-boy.json) |
 | Garn47 | 300792 | [300792-garn47.json](./300792-garn47.json) |
@@ -387,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Jam | 130964 | [130964-gem-jam.json](./130964-gem-jam.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
 | Gem Phrase | 237379 | [237379-gem-phrase.json](./237379-gem-phrase.json) |
+| Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Venture | 217326 | [217326-gem-venture.json](./217326-gem-venture.json) |
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
 | GemaBoy: Zero Origins | 208041 | [208041-gemaboy-zero-origins.json](./208041-gemaboy-zero-origins.json) |
@@ -1361,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Kid | 171601 | [171601-gravity-kid.json](./171601-gravity-kid.json) |
 | Gravity Knight | 413008 | [413008-gravity-knight.json](./413008-gravity-knight.json) |
 | Gravity Machine | 294441 | [294441-gravity-machine.json](./294441-gravity-machine.json) |
+| Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
 | Gravity Sphere | 309870 | [309870-gravity-sphere.json](./309870-gravity-sphere.json) |
