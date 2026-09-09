@@ -565,6 +565,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Artist: Sound Maker | 175953 | [175953-mario-artist-sound-maker.json](./175953-mario-artist-sound-maker.json) |
 | Mario Artist: Video Jockey Maker | 175954 | [175954-mario-artist-video-jockey-maker.json](./175954-mario-artist-video-jockey-maker.json) |
 | Mario Bros. | 172201 | [172201-mario-bros.json](./172201-mario-bros.json) |
+| Mario Bros. | 192918 | [192918-mario-bros.json](./192918-mario-bros.json) |
+| Mario Bros. | 192919 | [192919-mario-bros.json](./192919-mario-bros.json) |
+| Mario Bros. | 192920 | [192920-mario-bros.json](./192920-mario-bros.json) |
+| Mario Bros. | 192921 | [192921-mario-bros.json](./192921-mario-bros.json) |
+| Mario Bros. | 192922 | [192922-mario-bros.json](./192922-mario-bros.json) |
+| Mario Bros. | 192923 | [192923-mario-bros.json](./192923-mario-bros.json) |
+| Mario Bros. | 192924 | [192924-mario-bros.json](./192924-mario-bros.json) |
 | Mario Bros. | 257638 | [257638-mario-bros.json](./257638-mario-bros.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
 | Mario Builder | 323745 | [323745-mario-builder.json](./323745-mario-builder.json) |
@@ -3466,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrrh | 118375 | [118375-myrrh.json](./118375-myrrh.json) |
 | Myself;Yourself: Sorezore no Finale | 325278 | [325278-myself-yourself-sorezore-no-finale.json](./325278-myself-yourself-sorezore-no-finale.json) |
 | MySims Agents | 5035 | [5035-mysims-agents.json](./5035-mysims-agents.json) |
+| MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
