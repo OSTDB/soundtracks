@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T06:31:11.464Z",
-  "total_missing": 49465,
+  "generated_at": "2026-09-09T06:41:09.042Z",
+  "total_missing": 49464,
   "games": [
     {
       "igdb_id": 306086,
@@ -601,11 +601,6 @@
       "igdb_id": 97888,
       "game_name": "16bit-Collection Culture Brain Vol. 02",
       "file": "missing/0-9/97888-16bit-collection-culture-brain-vol-02.json"
-    },
-    {
-      "igdb_id": 97889,
-      "game_name": "16bit-Collection Culture Brain Vol. 03",
-      "file": "missing/0-9/97889-16bit-collection-culture-brain-vol-03.json"
     },
     {
       "igdb_id": 97894,
