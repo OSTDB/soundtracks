@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Moon RevengeX | 279589 | [279589-sailor-moon-revengex.json](./279589-sailor-moon-revengex.json) |
 | Sailor Moon S: Kotaete Moon Call! | 230284 | [230284-sailor-moon-s-kotaete-moon-call.json](./230284-sailor-moon-s-kotaete-moon-call.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
+| Sailwind | 180225 | [180225-sailwind.json](./180225-sailwind.json) |
 | Saily Seas | 297507 | [297507-saily-seas.json](./297507-saily-seas.json) |
 | Saimazoom | 45326 | [45326-saimazoom.json](./45326-saimazoom.json) |
 | Saint | 94739 | [94739-saint.json](./94739-saint.json) |
@@ -829,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seductive Solitude | 225080 | [225080-seductive-solitude.json](./225080-seductive-solitude.json) |
 | See Me | 97903 | [97903-see-me.json](./97903-see-me.json) |
 | See You Later | 235451 | [235451-see-you-later.json](./235451-see-you-later.json) |
+| See You on the Other Side | 180188 | [180188-see-you-on-the-other-side.json](./180188-see-you-on-the-other-side.json) |
 | Seeb Defender | 244777 | [244777-seeb-defender.json](./244777-seeb-defender.json) |
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
@@ -1201,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
 | Shadows of Dungeon | 237659 | [237659-shadows-of-dungeon.json](./237659-shadows-of-dungeon.json) |
 | Shadows of Empires | 227268 | [227268-shadows-of-empires.json](./227268-shadows-of-empires.json) |
+| Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
 | Shadows of the Damned | 264883 | [264883-shadows-of-the-damned.json](./264883-shadows-of-the-damned.json) |
@@ -1260,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin Bao | 303478 | [303478-shaolin-bao.json](./303478-shaolin-bao.json) |
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
 | Shaolin Master Plus | 123062 | [123062-shaolin-master-plus.json](./123062-shaolin-master-plus.json) |
+| Shaolin Sudoku | 180218 | [180218-shaolin-sudoku.json](./180218-shaolin-sudoku.json) |
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
@@ -2665,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
+| Sod | 180238 | [180238-sod.json](./180238-sod.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
@@ -4071,6 +4076,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Renegades | 94816 | [94816-star-renegades.json](./94816-star-renegades.json) |
 | Star Renegades: Total Lunarcy | 166215 | [166215-star-renegades-total-lunarcy.json](./166215-star-renegades-total-lunarcy.json) |
 | Star Revenge 1: Star Takeover | 132841 | [132841-star-revenge-1-star-takeover.json](./132841-star-revenge-1-star-takeover.json) |
+| Star Revenge 1.5: Star Takeover Redone | 180247 | [180247-star-revenge-1-5-star-takeover-redone.json](./180247-star-revenge-1-5-star-takeover-redone.json) |
+| Star Revenge 2: Act 1 to the Moon | 180248 | [180248-star-revenge-2-act-1-to-the-moon.json](./180248-star-revenge-2-act-1-to-the-moon.json) |
 | Star Ronin | 320744 | [320744-star-ronin.json](./320744-star-ronin.json) |
 | Star Ruler 2 | 19170 | [19170-star-ruler-2.json](./19170-star-ruler-2.json) |
 | Star Saga: Two - The Clathran Menace | 57662 | [57662-star-saga-two-the-clathran-menace.json](./57662-star-saga-two-the-clathran-menace.json) |
@@ -4815,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
 | Stuffo the Puzzle Bot | 236848 | [236848-stuffo-the-puzzle-bot.json](./236848-stuffo-the-puzzle-bot.json) |
+| Stug | 180219 | [180219-stug.json](./180219-stug.json) |
 | Stumble And Fall | 310388 | [310388-stumble-and-fall.json](./310388-stumble-and-fall.json) |
 | Stump Me | 312886 | [312886-stump-me.json](./312886-stump-me.json) |
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
@@ -4929,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Uno | 87305 | [87305-sudoku-uno.json](./87305-sudoku-uno.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
 | Sudoku: Casual Board Game | 250393 | [250393-sudoku-casual-board-game.json](./250393-sudoku-casual-board-game.json) |
+| Sudoku: The Clean One | 180244 | [180244-sudoku-the-clean-one.json](./180244-sudoku-the-clean-one.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
@@ -5536,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
+| Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
 | Super Shanghai: Dragon's Eye | 406085 | [406085-super-shanghai-dragons-eye.json](./406085-super-shanghai-dragons-eye.json) |
 | Super Shape Cascade | 268225 | [268225-super-shape-cascade.json](./268225-super-shape-cascade.json) |
 | Super Sheffy Bros. 3 | 214772 | [214772-super-sheffy-bros-3.json](./214772-super-sheffy-bros-3.json) |
