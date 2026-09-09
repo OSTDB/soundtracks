@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach to Tsukuyomi | 278984 | [278984-reach-to-tsukuyomi.json](./278984-reach-to-tsukuyomi.json) |
 | Reach Your Destiny | 297797 | [297797-reach-your-destiny.json](./297797-reach-your-destiny.json) |
 | Reaction | 152347 | [152347-reaction.json](./152347-reaction.json) |
+| Reaction Quake 3 | 200651 | [200651-reaction-quake-3.json](./200651-reaction-quake-3.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
 | Reader Rabbit 1st Grade | 88280 | [88280-reader-rabbit-1st-grade.json](./88280-reader-rabbit-1st-grade.json) |
@@ -1136,6 +1137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders Republic: Complete Edition | 263515 | [263515-riders-republic-complete-edition.json](./263515-riders-republic-complete-edition.json) |
 | Riders Republic: Skate Edition | 263516 | [263516-riders-republic-skate-edition.json](./263516-riders-republic-skate-edition.json) |
 | Riders Republic: Year 1 Pass | 293916 | [293916-riders-republic-year-1-pass.json](./293916-riders-republic-year-1-pass.json) |
+| Riders World: I Want to Jump | 200653 | [200653-riders-world-i-want-to-jump.json](./200653-riders-world-i-want-to-jump.json) |
+| Riders World: I Want to Race | 200654 | [200654-riders-world-i-want-to-race.json](./200654-riders-world-i-want-to-race.json) |
 | Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
 | Ridge Racer 8 | 339264 | [339264-ridge-racer-8.json](./339264-ridge-racer-8.json) |
 | Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
