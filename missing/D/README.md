@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeckMake Fantasy | 208015 | [208015-deckmake-fantasy.json](./208015-deckmake-fantasy.json) |
 | Decks & Dungeons | 149574 | [149574-decks-and-dungeons.json](./149574-decks-and-dungeons.json) |
 | Deckstrander | 257938 | [257938-deckstrander.json](./257938-deckstrander.json) |
+| Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
 | Decomposition | 339791 | [339791-decomposition.json](./339791-decomposition.json) |
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
 | DizzyRoids | 233222 | [233222-dizzyroids.json](./233222-dizzyroids.json) |
 | Dj 8 Beats: Infinite | 303480 | [303480-dj-8-beats-infinite.json](./303480-dj-8-beats-infinite.json) |
+| DJ Beats: Waifus | 186237 | [186237-dj-beats-waifus.json](./186237-dj-beats-waifus.json) |
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
 | DJ Simulator | 303479 | [303479-dj-simulator.json](./303479-dj-simulator.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
@@ -1847,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Away | 221188 | [221188-dont-look-away.json](./221188-dont-look-away.json) |
 | Don't Look Back | 343785 | [343785-dont-look-back.json](./343785-dont-look-back.json) |
 | Don't Look Down | 107877 | [107877-dont-look-down.json](./107877-dont-look-down.json) |
+| Don't Look Down | 186244 | [186244-dont-look-down.json](./186244-dont-look-down.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
 | Don't Open This Book | 336524 | [336524-dont-open-this-book.json](./336524-dont-open-this-book.json) |
@@ -2532,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
 | Drone Racer: Fly Stunt Simulator | 287663 | [287663-drone-racer-fly-stunt-simulator.json](./287663-drone-racer-fly-stunt-simulator.json) |
 | Drone Shadow Strike | 303262 | [303262-drone-shadow-strike.json](./303262-drone-shadow-strike.json) |
+| Drone Showcase | 186287 | [186287-drone-showcase.json](./186287-drone-showcase.json) |
 | Drone Simulator: Smash Zombies | 343249 | [343249-drone-simulator-smash-zombies.json](./343249-drone-simulator-smash-zombies.json) |
 | Drone Tanks | 415111 | [415111-drone-tanks.json](./415111-drone-tanks.json) |
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
