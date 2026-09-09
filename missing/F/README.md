@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
 | Freedom | 271995 | [271995-freedom.json](./271995-freedom.json) |
 | Freedom Bridge | 115034 | [115034-freedom-bridge.json](./115034-freedom-bridge.json) |
+| Freedom Fighter | 202852 | [202852-freedom-fighter.json](./202852-freedom-fighter.json) |
 | Freedom Fighters | 719 | [719-freedom-fighters.json](./719-freedom-fighters.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
 | FreedomBot | 391577 | [391577-freedombot.json](./391577-freedombot.json) |
