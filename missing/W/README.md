@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein II: The Freedom Chronicles - Season Pass | 75847 | [75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json](./75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json) |
 | Wolfenstein X: Hearts of Liberty | 143081 | [143081-wolfenstein-x-hearts-of-liberty.json](./143081-wolfenstein-x-hearts-of-liberty.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
+| Wolfgun | 180777 | [180777-wolfgun.json](./180777-wolfgun.json) |
 | Wolflame | 19305 | [19305-wolflame.json](./19305-wolflame.json) |
 | Wolfling | 182509 | [182509-wolfling.json](./182509-wolfling.json) |
 | Wolflord - Online Werewolf | 67938 | [67938-wolflord-online-werewolf.json](./67938-wolflord-online-werewolf.json) |
