@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305168 | [305168-marvel-vs-capcom-2-new-age-of-heroes.json](./305168-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305169 | [305169-marvel-vs-capcom-2-new-age-of-heroes.json](./305169-marvel-vs-capcom-2-new-age-of-heroes.json) |
+| Marvel: Ultimate Alliance | 197883 | [197883-marvel-ultimate-alliance.json](./197883-marvel-ultimate-alliance.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
 | Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
 | Marvel's Guardians of the Galaxy & Marvel's Avenger's: Deluxe Bundle | 218480 | [218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json](./218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
 | Meaningful Adventures | 218479 | [218479-meaningful-adventures.json](./218479-meaningful-adventures.json) |
+| Mearth | 197875 | [197875-mearth.json](./197875-mearth.json) |
 | Measurement Problem | 166740 | [166740-measurement-problem.json](./166740-measurement-problem.json) |
 | Meat & Greed | 203546 | [203546-meat-and-greed.json](./203546-meat-and-greed.json) |
 | Meat Room | 349853 | [349853-meat-room.json](./349853-meat-room.json) |
@@ -2820,6 +2822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
 | Moto Mouse Stunt Mania | 193475 | [193475-moto-mouse-stunt-mania.json](./193475-moto-mouse-stunt-mania.json) |
 | Moto Parkour | 293640 | [293640-moto-parkour.json](./293640-moto-parkour.json) |
+| Moto Race | 197888 | [197888-moto-race.json](./197888-moto-race.json) |
 | Moto Racer 2044 Game Simulator: Money Magnet Bundle | 328988 | [328988-moto-racer-2044-game-simulator-money-magnet-bundle.json](./328988-moto-racer-2044-game-simulator-money-magnet-bundle.json) |
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
 | Moto Rally Racing VR | 288785 | [288785-moto-rally-racing-vr.json](./288785-moto-rally-racing-vr.json) |
