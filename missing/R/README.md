@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Going Mobile | 134656 | [134656-ratchet-and-clank-going-mobile.json](./134656-ratchet-and-clank-going-mobile.json) |
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
 | Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
+| Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
@@ -381,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re Parry | 179160 | [179160-re-parry.json](./179160-re-parry.json) |
 | Re Rive | 202323 | [202323-re-rive.json](./202323-re-rive.json) |
 | Re-bot | 75906 | [75906-re-bot.json](./75906-re-bot.json) |
+| Re-telling | 176955 | [176955-re-telling.json](./176955-re-telling.json) |
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
 | Re;quartz Reido | 211948 | [211948-re-quartz-reido.json](./211948-re-quartz-reido.json) |
 | RE: Castle Defense | 130367 | [130367-re-castle-defense.json](./130367-re-castle-defense.json) |
@@ -1090,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rez Infinite | 19746 | [19746-rez-infinite.json](./19746-rez-infinite.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
+| Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
