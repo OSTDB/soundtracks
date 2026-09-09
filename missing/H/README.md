@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Dreamy Vocal | 112343 | [112343-hatsune-miku-dreamy-vocal.json](./112343-hatsune-miku-dreamy-vocal.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #1 | 294733 | [294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json](./294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
+| Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
@@ -479,6 +480,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
+| Hayami-Chan | 199033 | [199033-hayami-chan.json](./199033-hayami-chan.json) |
+| Hayami-Chan 2 | 199034 | [199034-hayami-chan-2.json](./199034-hayami-chan-2.json) |
+| Hayami-Chan 3 | 199035 | [199035-hayami-chan-3.json](./199035-hayami-chan-3.json) |
 | Hayaoshi Quiz Academia | 256270 | [256270-hayaoshi-quiz-academia.json](./256270-hayaoshi-quiz-academia.json) |
 | Hayarigami 1, 2, 3 Pack | 247192 | [247192-hayarigami-1-2-3-pack.json](./247192-hayarigami-1-2-3-pack.json) |
 | Hayarigami 2: Keishichou Kaii Jiken File | 79330 | [79330-hayarigami-2-keishichou-kaii-jiken-file.json](./79330-hayarigami-2-keishichou-kaii-jiken-file.json) |
@@ -1453,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homing Missiles! | 25786 | [25786-homing-missiles.json](./25786-homing-missiles.json) |
 | Hommage 25 | 269560 | [269560-hommage-25.json](./269560-hommage-25.json) |
 | Homura | 43330 | [43330-homura.json](./43330-homura.json) |
+| Homura Hime | 199055 | [199055-homura-hime.json](./199055-homura-hime.json) |
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
@@ -1832,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanoid | 393495 | [393495-humanoid.json](./393495-humanoid.json) |
 | Humanoid Huntress | 249794 | [249794-humanoid-huntress.json](./249794-humanoid-huntress.json) |
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
+| Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
