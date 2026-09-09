@@ -212,7 +212,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
 | Baldi's Basics 1 Year Birthday Bash! | 176497 | [176497-baldis-basics-1-year-birthday-bash.json](./176497-baldis-basics-1-year-birthday-bash.json) |
 | Baldo: The Guardian Owls - The Three Fairies Edition | 200682 | [200682-baldo-the-guardian-owls-the-three-fairies-edition.json](./200682-baldo-the-guardian-owls-the-three-fairies-edition.json) |
+| Baldr Fist | 180241 | [180241-baldr-fist.json](./180241-baldr-fist.json) |
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
+| Baldrhead: Busou Kinyuu Gaiden | 180223 | [180223-baldrhead-busou-kinyuu-gaiden.json](./180223-baldrhead-busou-kinyuu-gaiden.json) |
 | Baldric's Quest | 52619 | [52619-baldrics-quest.json](./52619-baldrics-quest.json) |
 | Baldur's Gate 3: Digital Deluxe Edition | 279884 | [279884-baldurs-gate-3-digital-deluxe-edition.json](./279884-baldurs-gate-3-digital-deluxe-edition.json) |
 | Baldur's Gate Compilation | 141859 | [141859-baldurs-gate-compilation.json](./141859-baldurs-gate-compilation.json) |
