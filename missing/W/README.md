@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekly Shonen Jump Ore Collection | 81415 | [81415-weekly-shonen-jump-ore-collection.json](./81415-weekly-shonen-jump-ore-collection.json) |
 | Weeks Till Winter | 372466 | [372466-weeks-till-winter.json](./372466-weeks-till-winter.json) |
 | Weeny Adventure | 233513 | [233513-weeny-adventure.json](./233513-weeny-adventure.json) |
+| Weeping Falls Massacre | 204467 | [204467-weeping-falls-massacre.json](./204467-weeping-falls-massacre.json) |
 | Wega & The Lost Media | 358293 | [358293-wega-and-the-lost-media.json](./358293-wega-and-the-lost-media.json) |
 | Wega: Lost in the Outer Reaches | 213406 | [213406-wega-lost-in-the-outer-reaches.json](./213406-wega-lost-in-the-outer-reaches.json) |
 | Weggye's Adventures | 240785 | [240785-weggyes-adventures.json](./240785-weggyes-adventures.json) |
@@ -821,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
+| Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
