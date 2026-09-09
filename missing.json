@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T17:51:05.267Z",
-  "total_missing": 51337,
+  "generated_at": "2026-09-09T18:01:13.248Z",
+  "total_missing": 51336,
   "games": [
     {
       "igdb_id": 306086,
@@ -966,11 +966,6 @@
       "igdb_id": 278676,
       "game_name": "28 Babes Later",
       "file": "missing/0-9/278676-28-babes-later.json"
-    },
-    {
-      "igdb_id": 271205,
-      "game_name": "28 Pixels Later",
-      "file": "missing/0-9/271205-28-pixels-later.json"
     },
     {
       "igdb_id": 139471,
