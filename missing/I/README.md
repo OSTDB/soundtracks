@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's T-Time | 230843 | [230843-its-t-time.json](./230843-its-t-time.json) |
 | It's Time | 201246 | [201246-its-time.json](./201246-its-time.json) |
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
+| It'sRoachTime! | 192873 | [192873-itsroachtime.json](./192873-itsroachtime.json) |
 | Itadaki Street 2: Neon Sign ha Bara Iro ni | 38345 | [38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json](./38345-itadaki-street-2-neon-sign-ha-bara-iro-ni.json) |
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
