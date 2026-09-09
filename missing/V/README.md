@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
 | Vector Pinball | 207825 | [207825-vector-pinball.json](./207825-vector-pinball.json) |
+| Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
 | Vector Vendetta | 57100 | [57100-vector-vendetta.json](./57100-vector-vendetta.json) |
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
