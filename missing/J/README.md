@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
 | Junkyard Builder Simulator | 390537 | [390537-junkyard-builder-simulator.json](./390537-junkyard-builder-simulator.json) |
 | Junkyard Jumble | 112308 | [112308-junkyard-jumble.json](./112308-junkyard-jumble.json) |
+| Junkyard Keeper | 208930 | [208930-junkyard-keeper.json](./208930-junkyard-keeper.json) |
 | Juno and Hope Destroy Capitalism | 407357 | [407357-juno-and-hope-destroy-capitalism.json](./407357-juno-and-hope-destroy-capitalism.json) |
 | Juno Nemesis Remix | 73279 | [73279-juno-nemesis-remix.json](./73279-juno-nemesis-remix.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
