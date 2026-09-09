@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
+| Pants | 179678 | [179678-pants.json](./179678-pants.json) |
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
@@ -2628,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
 | Pum | 119053 | [119053-pum.json](./119053-pum.json) |
+| Pump | 179688 | [179688-pump.json](./179688-pump.json) |
 | Pump It Up | 79307 | [79307-pump-it-up.json](./79307-pump-it-up.json) |
 | Pump It Up Exceed 2 | 341907 | [341907-pump-it-up-exceed-2.json](./341907-pump-it-up-exceed-2.json) |
 | Pump It Up Fiesta | 243133 | [243133-pump-it-up-fiesta.json](./243133-pump-it-up-fiesta.json) |
