@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
 | Liberation | 249813 | [249813-liberation.json](./249813-liberation.json) |
+| Liberation Circuit | 185085 | [185085-liberation-circuit.json](./185085-liberation-circuit.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
 | Liberta: Rise of Freedom | 250963 | [250963-liberta-rise-of-freedom.json](./250963-liberta-rise-of-freedom.json) |
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
@@ -960,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
 | Little Frog Game | 229057 | [229057-little-frog-game.json](./229057-little-frog-game.json) |
 | Little Galaxy Family | 175424 | [175424-little-galaxy-family.json](./175424-little-galaxy-family.json) |
+| Little Game | 185071 | [185071-little-game.json](./185071-little-game.json) |
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
 | Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
@@ -1348,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
 | Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
 | Lost Planet: Extreme Condition | 1913 | [1913-lost-planet-extreme-condition.json](./1913-lost-planet-extreme-condition.json) |
+| Lost Player | 185103 | [185103-lost-player.json](./185103-lost-player.json) |
 | Lost Princess | 266775 | [266775-lost-princess.json](./266775-lost-princess.json) |
 | Lost Prototype | 356643 | [356643-lost-prototype.json](./356643-lost-prototype.json) |
 | Lost Pyramid | 236818 | [236818-lost-pyramid.json](./236818-lost-pyramid.json) |
