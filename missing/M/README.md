@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
+| Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
 | Marsh Into the New Dimension | 396227 | [396227-marsh-into-the-new-dimension.json](./396227-marsh-into-the-new-dimension.json) |
@@ -1510,6 +1511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Eye 2 | 308247 | [308247-metal-eye-2.json](./308247-metal-eye-2.json) |
 | Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
 | Metal Freezer | 267644 | [267644-metal-freezer.json](./267644-metal-freezer.json) |
+| Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
 | Metal Gear Solid 2: Sons of Liberty - Master Collection Version | 383389 | [383389-metal-gear-solid-2-sons-of-liberty-master-collection-version.json](./383389-metal-gear-solid-2-sons-of-liberty-master-collection-version.json) |
 | Metal Gear Solid 3: Snake Eater - HD Edition | 99821 | [99821-metal-gear-solid-3-snake-eater-hd-edition.json](./99821-metal-gear-solid-3-snake-eater-hd-edition.json) |
@@ -3149,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
+| Murder Mansion | 181845 | [181845-murder-mansion.json](./181845-murder-mansion.json) |
 | Murder Miners X | 265159 | [265159-murder-miners-x.json](./265159-murder-miners-x.json) |
 | Murder Mystery J: Jinrou Judgment - Maru Icon | 325460 | [325460-murder-mystery-j-jinrou-judgment-maru-icon.json](./325460-murder-mystery-j-jinrou-judgment-maru-icon.json) |
 | Murder Mystery J: Jinrou Judgment - SP1 Icon | 325457 | [325457-murder-mystery-j-jinrou-judgment-sp1-icon.json](./325457-murder-mystery-j-jinrou-judgment-sp1-icon.json) |
