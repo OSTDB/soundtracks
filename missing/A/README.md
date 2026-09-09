@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift | 331880 | [331880-adrift.json](./331880-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Adrorium | 133447 | [133447-adrorium.json](./133447-adrorium.json) |
+| Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
 | Adv770 | 305203 | [305203-adv770.json](./305203-adv770.json) |
 | Advance Wars | 236813 | [236813-advance-wars.json](./236813-advance-wars.json) |
@@ -1567,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
 | An Aquatic Pokemon Tale | 323758 | [323758-an-aquatic-pokemon-tale.json](./323758-an-aquatic-pokemon-tale.json) |
 | An Architect's Adventure | 211403 | [211403-an-architects-adventure.json](./211403-an-architects-adventure.json) |
+| An Autumn With You | 181846 | [181846-an-autumn-with-you.json](./181846-an-autumn-with-you.json) |
 | An Aware Guy in the Past | 185621 | [185621-an-aware-guy-in-the-past.json](./185621-an-aware-guy-in-the-past.json) |
 | An Elder Scrolls Legend: Battlespire | 54 | [54-an-elder-scrolls-legend-battlespire.json](./54-an-elder-scrolls-legend-battlespire.json) |
 | An Elmwood Trail | 243410 | [243410-an-elmwood-trail.json](./243410-an-elmwood-trail.json) |
@@ -2606,6 +2608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
 | Ask her out | 287096 | [287096-ask-her-out.json](./287096-ask-her-out.json) |
+| Ask Her Out | 181881 | [181881-ask-her-out.json](./181881-ask-her-out.json) |
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
 | Aske | 165008 | [165008-aske.json](./165008-aske.json) |
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
