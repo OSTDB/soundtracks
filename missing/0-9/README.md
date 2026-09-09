@@ -182,7 +182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 280762 | [280762-2048.json](./280762-2048.json) |
 | 2048 | 312586 | [312586-2048.json](./312586-2048.json) |
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
-| 2048 Balls 3D | 175991 | [175991-2048-balls-3d.json](./175991-2048-balls-3d.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
 | 2048 Card Game | 235229 | [235229-2048-card-game.json](./235229-2048-card-game.json) |
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
