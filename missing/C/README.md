@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Château Pluie: The New Cellar Keeper | 412309 | [412309-chateau-pluie-the-new-cellar-keeper.json](./412309-chateau-pluie-the-new-cellar-keeper.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
+| Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
 | Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers Gold | 100162 | [100162-checkers-gold.json](./100162-checkers-gold.json) |
@@ -1705,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
 | Coastline Flight Simulator | 154006 | [154006-coastline-flight-simulator.json](./154006-coastline-flight-simulator.json) |
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
+| Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Cochonnet | 382750 | [382750-cochonnet.json](./382750-cochonnet.json) |
@@ -1934,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
+| Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
 | Colors! Maze | 193486 | [193486-colors-maze.json](./193486-colors-maze.json) |
 | Colors! Platform | 199607 | [199607-colors-platform.json](./199607-colors-platform.json) |
 | Colors’ Heartbeat | 235480 | [235480-colors-heartbeat.json](./235480-colors-heartbeat.json) |
@@ -2811,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Control VR | 295788 | [295788-crowd-control-vr.json](./295788-crowd-control-vr.json) |
 | Crowd King | 185106 | [185106-crowd-king.json](./185106-crowd-king.json) |
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
+| Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
 | Crown Claimer | 187528 | [187528-crown-claimer.json](./187528-crown-claimer.json) |
@@ -2919,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystalon | 183554 | [183554-crystalon.json](./183554-crystalon.json) |
+| Crystals of Amalgam | 183023 | [183023-crystals-of-amalgam.json](./183023-crystals-of-amalgam.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
