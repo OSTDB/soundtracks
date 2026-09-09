@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
 | Shiki-Tei | 93616 | [93616-shiki-tei.json](./93616-shiki-tei.json) |
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
+| Shikkoku no Sharnoth: What a beautiful tomorrow | 186285 | [186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json](./186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
 | Shin Fumi Ikemen Ouoku Kinjirareta Koi | 229027 | [229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json](./229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Voyage | 312575 | [312575-slime-voyage.json](./312575-slime-voyage.json) |
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
+| Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
@@ -2407,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snails | 299126 | [299126-snails.json](./299126-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
+| Snake | 186242 | [186242-snake.json](./186242-snake.json) |
 | Snake | 305744 | [305744-snake.json](./305744-snake.json) |
 | Snake | 307608 | [307608-snake.json](./307608-snake.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
@@ -2563,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | Snowland Adventure | 196277 | [196277-snowland-adventure.json](./196277-snowland-adventure.json) |
+| Snowman Adventure | 186265 | [186265-snowman-adventure.json](./186265-snowman-adventure.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
@@ -3888,7 +3892,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
+| SSX 3 | 186239 | [186239-ssx-3.json](./186239-ssx-3.json) |
 | SSX 3 | 4174 | [4174-ssx-3.json](./4174-ssx-3.json) |
+| SSX Tricky | 186240 | [186240-ssx-tricky.json](./186240-ssx-tricky.json) |
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
 | Stab | 264620 | [264620-stab.json](./264620-stab.json) |
 | Stabfish 2 | 200190 | [200190-stabfish-2.json](./200190-stabfish-2.json) |
@@ -4996,6 +5002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunes Sportlov | 316081 | [316081-sunes-sportlov.json](./316081-sunes-sportlov.json) |
 | Sunfinity | 356642 | [356642-sunfinity.json](./356642-sunfinity.json) |
 | Sunflower Chess | 235212 | [235212-sunflower-chess.json](./235212-sunflower-chess.json) |
+| Sunflower Maintenance | 186260 | [186260-sunflower-maintenance.json](./186260-sunflower-maintenance.json) |
 | Sunflower Stronghold | 384519 | [384519-sunflower-stronghold.json](./384519-sunflower-stronghold.json) |
 | Sunforge Solar Survival | 322980 | [322980-sunforge-solar-survival.json](./322980-sunforge-solar-survival.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
