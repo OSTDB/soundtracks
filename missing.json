@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T03:31:05.333Z",
-  "total_missing": 49057,
+  "generated_at": "2026-09-09T03:41:03.698Z",
+  "total_missing": 49056,
   "games": [
     {
       "igdb_id": 306086,
@@ -506,11 +506,6 @@
       "igdb_id": 232183,
       "game_name": "123 Kids Fun Connect the Dots Games for Smart Kids",
       "file": "missing/0-9/232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json"
-    },
-    {
-      "igdb_id": 263186,
-      "game_name": "123 Talk",
-      "file": "missing/0-9/263186-123-talk.json"
     },
     {
       "igdb_id": 89724,
