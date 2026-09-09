@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 6 | 195868 | [195868-tekken-6.json](./195868-tekken-6.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
 | Tekken 7: Fated Retribution | 19555 | [19555-tekken-7-fated-retribution.json](./19555-tekken-7-fated-retribution.json) |
+| Tekken 7: Legendary Edition | 200681 | [200681-tekken-7-legendary-edition.json](./200681-tekken-7-legendary-edition.json) |
 | Tekken 7: Originals Edition | 218481 | [218481-tekken-7-originals-edition.json](./218481-tekken-7-originals-edition.json) |
 | Tekken 7: Season Pass | 385588 | [385588-tekken-7-season-pass.json](./385588-tekken-7-season-pass.json) |
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
@@ -1118,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The California Raisins: The Grape Escape | 48702 | [48702-the-california-raisins-the-grape-escape.json](./48702-the-california-raisins-the-grape-escape.json) |
 | The Caligula Effect: Overdose | 75990 | [75990-the-caligula-effect-overdose.json](./75990-the-caligula-effect-overdose.json) |
 | The Call Button | 400871 | [400871-the-call-button.json](./400871-the-call-button.json) |
+| The Call of Krul'ar | 200639 | [200639-the-call-of-krular.json](./200639-the-call-of-krular.json) |
 | The Call of the Rats | 300702 | [300702-the-call-of-the-rats.json](./300702-the-call-of-the-rats.json) |
 | The Callisto Protocol: Contagion Bundle | 241958 | [241958-the-callisto-protocol-contagion-bundle.json](./241958-the-callisto-protocol-contagion-bundle.json) |
 | The Callisto Protocol: Outer Way Skin Collection | 308274 | [308274-the-callisto-protocol-outer-way-skin-collection.json](./308274-the-callisto-protocol-outer-way-skin-collection.json) |
@@ -1723,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heroic Legend of Eagarlnia: Expansion Pack | 199651 | [199651-the-heroic-legend-of-eagarlnia-expansion-pack.json](./199651-the-heroic-legend-of-eagarlnia-expansion-pack.json) |
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
+| The History Channel: The Civil War Experience | 200675 | [200675-the-history-channel-the-civil-war-experience.json](./200675-the-history-channel-the-civil-war-experience.json) |
 | The History of Fruit | 268471 | [268471-the-history-of-fruit.json](./268471-the-history-of-fruit.json) |
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
@@ -2413,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
+| The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
 | The Problem With Golf | 330156 | [330156-the-problem-with-golf.json](./330156-the-problem-with-golf.json) |
@@ -3698,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titus the Fox | 65798 | [65798-titus-the-fox.json](./65798-titus-the-fox.json) |
 | Tizi Town: Airport Adventure | 227481 | [227481-tizi-town-airport-adventure.json](./227481-tizi-town-airport-adventure.json) |
 | Tkium Exclusion Area | 186335 | [186335-tkium-exclusion-area.json](./186335-tkium-exclusion-area.json) |
+| TKKG: Deadly Chocolate | 200658 | [200658-tkkg-deadly-chocolate.json](./200658-tkkg-deadly-chocolate.json) |
 | TKKG: Wer stoppt den Feuerteufel? | 158722 | [158722-tkkg-wer-stoppt-den-feuerteufel.json](./158722-tkkg-wer-stoppt-den-feuerteufel.json) |
 | Tlicolity Eyes Vol. 1 | 116379 | [116379-tlicolity-eyes-vol-1.json](./116379-tlicolity-eyes-vol-1.json) |
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
