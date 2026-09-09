@@ -1284,6 +1284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody | 414285 | [414285-melody.json](./414285-melody.json) |
 | Melody before the Dawn | 367404 | [367404-melody-before-the-dawn.json](./367404-melody-before-the-dawn.json) |
 | Melody Friends | 389980 | [389980-melody-friends.json](./389980-melody-friends.json) |
+| Melody in the moonlight | 191206 | [191206-melody-in-the-moonlight.json](./191206-melody-in-the-moonlight.json) |
 | Melody Mania | 247782 | [247782-melody-mania.json](./247782-melody-mania.json) |
 | Melody of the Light | 181909 | [181909-melody-of-the-light.json](./181909-melody-of-the-light.json) |
 | Melody's Escape 2 | 217497 | [217497-melodys-escape-2.json](./217497-melodys-escape-2.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoirs of Murder: Resorting to Revenge | 322579 | [322579-memoirs-of-murder-resorting-to-revenge.json](./322579-memoirs-of-murder-resorting-to-revenge.json) |
 | Memoirs of Murder: Welcome to Hidden Pines | 322578 | [322578-memoirs-of-murder-welcome-to-hidden-pines.json](./322578-memoirs-of-murder-welcome-to-hidden-pines.json) |
 | Memori | 251579 | [251579-memori.json](./251579-memori.json) |
+| Memoria | 191172 | [191172-memoria.json](./191172-memoria.json) |
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memorial Series: Sunsoft vol. 1 | 79347 | [79347-memorial-series-sunsoft-vol-1.json](./79347-memorial-series-sunsoft-vol-1.json) |
@@ -1782,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
+| Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Miku Miku Hockey | 62780 | [62780-miku-miku-hockey.json](./62780-miku-miku-hockey.json) |
 | Miku Runner | 289890 | [289890-miku-runner.json](./289890-miku-runner.json) |
@@ -2034,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimum Nanonic | 70401 | [70401-minimum-nanonic.json](./70401-minimum-nanonic.json) |
+| Mining Cats | 191156 | [191156-mining-cats.json](./191156-mining-cats.json) |
 | Mining Copper | 224545 | [224545-mining-copper.json](./224545-mining-copper.json) |
 | Mining Factory | 226197 | [226197-mining-factory.json](./226197-mining-factory.json) |
 | Mining Mechs: Magnetic Mystery | 278988 | [278988-mining-mechs-magnetic-mystery.json](./278988-mining-mechs-magnetic-mystery.json) |
