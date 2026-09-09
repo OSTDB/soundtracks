@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manbomber | 283749 | [283749-manbomber.json](./283749-manbomber.json) |
 | Manchester United Club Football | 52013 | [52013-manchester-united-club-football.json](./52013-manchester-united-club-football.json) |
 | Mancy | 381611 | [381611-mancy.json](./381611-mancy.json) |
+| Manda no Yume | 201780 | [201780-manda-no-yume.json](./201780-manda-no-yume.json) |
 | Mandate Order | 374619 | [374619-mandate-order.json](./374619-mandate-order.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
@@ -1905,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner 2049er | 345480 | [345480-miner-2049er.json](./345480-miner-2049er.json) |
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
+| Miner Rush | 201799 | [201799-miner-rush.json](./201799-miner-rush.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
 | Miners Settlement: Idle RPG | 245343 | [245343-miners-settlement-idle-rpg.json](./245343-miners-settlement-idle-rpg.json) |
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
@@ -2346,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Thunderbolt 2 | 64422 | [64422-momotaro-thunderbolt-2.json](./64422-momotaro-thunderbolt-2.json) |
 | Momotarou | 318770 | [318770-momotarou.json](./318770-momotarou.json) |
 | Mon-cuties for All | 134679 | [134679-mon-cuties-for-all.json](./134679-mon-cuties-for-all.json) |
+| Mona | 201783 | [201783-mona.json](./201783-mona.json) |
 | Mona and the Witch's Hat | 195210 | [195210-mona-and-the-witchs-hat.json](./195210-mona-and-the-witchs-hat.json) |
 | Monaco | 178055 | [178055-monaco.json](./178055-monaco.json) |
 | Monaco 2 | 194505 | [194505-monaco-2.json](./194505-monaco-2.json) |
@@ -2737,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Legacy Kollection - Deluxe Edition | 398998 | [398998-mortal-kombat-legacy-kollection-deluxe-edition.json](./398998-mortal-kombat-legacy-kollection-deluxe-edition.json) |
 | Mortal Kombat: Onslaught | 224009 | [224009-mortal-kombat-onslaught.json](./224009-mortal-kombat-onslaught.json) |
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
+| Mortal Shell: Enhanced Edition - Game of the Year Edition | 201782 | [201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json](./201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json) |
 | Mortal Shell: Rotten Autumn | 229714 | [229714-mortal-shell-rotten-autumn.json](./229714-mortal-shell-rotten-autumn.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortarmen | 259019 | [259019-mortarmen.json](./259019-mortarmen.json) |
