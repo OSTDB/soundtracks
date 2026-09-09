@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
 | Quake: The Offering | 46627 | [46627-quake-the-offering.json](./46627-quake-the-offering.json) |
 | Quake: The Punishment Due | 280188 | [280188-quake-the-punishment-due.json](./280188-quake-the-punishment-due.json) |
+| Quake: Underdark Overbright & Copper | 199075 | [199075-quake-underdark-overbright-and-copper.json](./199075-quake-underdark-overbright-and-copper.json) |
 | Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
