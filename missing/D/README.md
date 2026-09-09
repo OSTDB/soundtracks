@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
+| Dad Broke the Moon! | 181327 | [181327-dad-broke-the-moon.json](./181327-dad-broke-the-moon.json) |
 | Dad by the Sword | 218687 | [218687-dad-by-the-sword.json](./218687-dad-by-the-sword.json) |
 | Daddy Long Legs | 89289 | [89289-daddy-long-legs.json](./89289-daddy-long-legs.json) |
 | Dadish 3 | 199111 | [199111-dadish-3.json](./199111-dadish-3.json) |
@@ -84,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dalo | 207514 | [207514-dalo.json](./207514-dalo.json) |
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
+| Damaged | 181340 | [181340-damaged.json](./181340-damaged.json) |
 | Damaged Core | 24981 | [24981-damaged-core.json](./24981-damaged-core.json) |
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
@@ -137,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DancingReaper | 140580 | [140580-dancingreaper.json](./140580-dancingreaper.json) |
 | Dandara | 296666 | [296666-dandara.json](./296666-dandara.json) |
 | Dandara: Trials of Fear Edition | 129536 | [129536-dandara-trials-of-fear-edition.json](./129536-dandara-trials-of-fear-edition.json) |
+| Dandelion | 181343 | [181343-dandelion.json](./181343-dandelion.json) |
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
@@ -778,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepfried in Deepspace | 373541 | [373541-deepfried-in-deepspace.json](./373541-deepfried-in-deepspace.json) |
 | DeepFriedCraft, the Worst Modpack Ever | 205066 | [205066-deepfriedcraft-the-worst-modpack-ever.json](./205066-deepfriedcraft-the-worst-modpack-ever.json) |
 | Deephome | 66693 | [66693-deephome.json](./66693-deephome.json) |
+| DeepHook | 181350 | [181350-deephook.json](./181350-deephook.json) |
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
@@ -2111,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall Hearts | 258487 | [258487-downfall-hearts.json](./258487-downfall-hearts.json) |
 | Downfall MMORPG | 351043 | [351043-downfall-mmorpg.json](./351043-downfall-mmorpg.json) |
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
+| Downhill Jam | 181303 | [181303-downhill-jam.json](./181303-downhill-jam.json) |
 | Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
 | Download RAM Idle 2 | 400221 | [400221-download-ram-idle-2.json](./400221-download-ram-idle-2.json) |
 | Downpour Dash! | 303485 | [303485-downpour-dash.json](./303485-downpour-dash.json) |
@@ -2371,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Draw-A-Mountain | 185098 | [185098-draw-a-mountain.json](./185098-draw-a-mountain.json) |
 | Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
+| Drawing Evolution | 181314 | [181314-drawing-evolution.json](./181314-drawing-evolution.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
@@ -2663,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Run | 87570 | [87570-duck-run.json](./87570-duck-run.json) |
 | Duck Shoot | 385597 | [385597-duck-shoot.json](./385597-duck-shoot.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
+| Duck, Jump, Die! | 181344 | [181344-duck-jump-die.json](./181344-duck-jump-die.json) |
 | Duck, Quack, Shoot! | 287665 | [287665-duck-quack-shoot.json](./287665-duck-quack-shoot.json) |
 | Duck's Despair | 249817 | [249817-ducks-despair.json](./249817-ducks-despair.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
