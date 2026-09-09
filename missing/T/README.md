@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
 | Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
+| Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
@@ -643,6 +644,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
 | Tennis Menace | 47262 | [47262-tennis-menace.json](./47262-tennis-menace.json) |
+| Tennis no Ouji-sama Motto Gakuensai no Ouji-sama: More Sweet Edition | 205063 | [205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json](./205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json) |
+| Tennis no Ouji-sama: Gakuensai no Ouji-sama | 205062 | [205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json](./205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
@@ -4232,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track No.9 | 339808 | [339808-track-no-9.json](./339808-track-no-9.json) |
 | TrackMania Nations | 9909 | [9909-trackmania-nations.json](./9909-trackmania-nations.json) |
 | TrackMania Sunrise | 22294 | [22294-trackmania-sunrise.json](./22294-trackmania-sunrise.json) |
+| TrackMania Sunrise Extreme | 205056 | [205056-trackmania-sunrise-extreme.json](./205056-trackmania-sunrise-extreme.json) |
 | TrackMania Turbo | 11172 | [11172-trackmania-turbo.json](./11172-trackmania-turbo.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
@@ -4395,6 +4399,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: BNSF GE Dash-9 44CW Warbonnet | 205545 | [205545-trainz-plus-bnsf-ge-dash-9-44cw-warbonnet.json](./205545-trainz-plus-bnsf-ge-dash-9-44cw-warbonnet.json) |
 | Trainz Plus: BR Diesel Brake Tenders | 306101 | [306101-trainz-plus-br-diesel-brake-tenders.json](./306101-trainz-plus-br-diesel-brake-tenders.json) |
 | Trainz Plus: C44aci Locomotive - ARG/Mineral Resources Pack | 306102 | [306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json](./306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json) |
+| Trainz Plus: CFR B 26-26 098 | 205037 | [205037-trainz-plus-cfr-b-26-26-098.json](./205037-trainz-plus-cfr-b-26-26-098.json) |
+| Trainz Plus: CFR Calatori B 26-26 064 | 205043 | [205043-trainz-plus-cfr-calatori-b-26-26-064.json](./205043-trainz-plus-cfr-calatori-b-26-26-064.json) |
+| Trainz Plus: CFR Calatori B 26-26 186 | 205046 | [205046-trainz-plus-cfr-calatori-b-26-26-186.json](./205046-trainz-plus-cfr-calatori-b-26-26-186.json) |
 | Trainz Plus: Chesapeake & Ohio K3-K3a 2-8-2 | 205542 | [205542-trainz-plus-chesapeake-and-ohio-k3-k3a-2-8-2.json](./205542-trainz-plus-chesapeake-and-ohio-k3-k3a-2-8-2.json) |
 | Trainz Plus: CO17-3373 | 205551 | [205551-trainz-plus-co17-3373.json](./205551-trainz-plus-co17-3373.json) |
 | Trainz Plus: CP SD40-2 #5865-5879 Dual Flags | 205566 | [205566-trainz-plus-cp-sd40-2-5865-5879-dual-flags.json](./205566-trainz-plus-cp-sd40-2-5865-5879-dual-flags.json) |
@@ -4414,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: NR Class Locomotive - JBR Indian Pacific Pack | 284916 | [284916-trainz-plus-nr-class-locomotive-jbr-indian-pacific-pack.json](./284916-trainz-plus-nr-class-locomotive-jbr-indian-pacific-pack.json) |
 | Trainz Plus: NS SD60E - 6963 GoRail | 205562 | [205562-trainz-plus-ns-sd60e-6963-gorail.json](./205562-trainz-plus-ns-sd60e-6963-gorail.json) |
 | Trainz Plus: Port Saturn | 288212 | [288212-trainz-plus-port-saturn.json](./288212-trainz-plus-port-saturn.json) |
+| Trainz Plus: Potteries Loop Line | 205041 | [205041-trainz-plus-potteries-loop-line.json](./205041-trainz-plus-potteries-loop-line.json) |
 | Trainz Plus: PREG B16mnopux 039 | 205553 | [205553-trainz-plus-preg-b16mnopux-039.json](./205553-trainz-plus-preg-b16mnopux-039.json) |
 | Trainz Plus: PREG B16mnopux 087 | 205564 | [205564-trainz-plus-preg-b16mnopux-087.json](./205564-trainz-plus-preg-b16mnopux-087.json) |
 | Trainz Plus: Pro Train - Class 68 TPN | 205546 | [205546-trainz-plus-pro-train-class-68-tpn.json](./205546-trainz-plus-pro-train-class-68-tpn.json) |
@@ -4434,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2006: Routes Volume 4 | 206167 | [206167-trainz-railroad-simulator-2006-routes-volume-4.json](./206167-trainz-railroad-simulator-2006-routes-volume-4.json) |
 | Trainz Railroad Simulator 2007 | 11015 | [11015-trainz-railroad-simulator-2007.json](./11015-trainz-railroad-simulator-2007.json) |
 | Trainz Railroad Simulator 2019: Centrella Sub Division | 190717 | [190717-trainz-railroad-simulator-2019-centrella-sub-division.json](./190717-trainz-railroad-simulator-2019-centrella-sub-division.json) |
+| Trainz Railroad Simulator 2019: CFR B 26-26 098 | 205038 | [205038-trainz-railroad-simulator-2019-cfr-b-26-26-098.json](./205038-trainz-railroad-simulator-2019-cfr-b-26-26-098.json) |
 | Trainz Railroad Simulator 2019: CFR Gorlitz Doubledecker Pack | 227282 | [227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json](./227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json) |
 | Trainz Railroad Simulator 2019: DB DBmu748 080 | 190711 | [190711-trainz-railroad-simulator-2019-db-dbmu748-080.json](./190711-trainz-railroad-simulator-2019-db-dbmu748-080.json) |
 | Trainz Railroad Simulator 2019: DR DBmtrue 215 | 190713 | [190713-trainz-railroad-simulator-2019-dr-dbmtrue-215.json](./190713-trainz-railroad-simulator-2019-dr-dbmtrue-215.json) |
@@ -4444,6 +4453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: PKP/PREG Bdhpumn/B(16)mnopux Pack | 190714 | [190714-trainz-railroad-simulator-2019-pkp-preg-bdhpumn-b-16-mnopux-pack.json](./190714-trainz-railroad-simulator-2019-pkp-preg-bdhpumn-b-16-mnopux-pack.json) |
 | Trainz Railroad Simulator 2019: PKP/PREG/PolRegio Bdhpumn/B16mnopux Pack | 190710 | [190710-trainz-railroad-simulator-2019-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json](./190710-trainz-railroad-simulator-2019-pkp-preg-polregio-bdhpumn-b16mnopux-pack.json) |
 | Trainz Railroad Simulator 2019: Port Saturn | 288210 | [288210-trainz-railroad-simulator-2019-port-saturn.json](./288210-trainz-railroad-simulator-2019-port-saturn.json) |
+| Trainz Railroad Simulator 2019: Potteries Loop Line | 205042 | [205042-trainz-railroad-simulator-2019-potteries-loop-line.json](./205042-trainz-railroad-simulator-2019-potteries-loop-line.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB BR Class 85 001 | 211918 | [211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json](./211918-trainz-railroad-simulator-2019-pro-train-db-br-class-85-001.json) |
 | Trainz Railroad Simulator 2019: Pro Train - DB Class 44 | 227274 | [227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json](./227274-trainz-railroad-simulator-2019-pro-train-db-class-44.json) |
 | Trainz Railroad Simulator 2019: Pro Train - TGV Duplex | 212242 | [212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json](./212242-trainz-railroad-simulator-2019-pro-train-tgv-duplex.json) |
@@ -4455,9 +4465,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2019: Switch Model Railroad - TRS19 | 190715 | [190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json](./190715-trainz-railroad-simulator-2019-switch-model-railroad-trs19.json) |
 | Trainz Railroad Simulator 2019: VR Healesville 1913-1920 TRS19 | 190707 | [190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json](./190707-trainz-railroad-simulator-2019-vr-healesville-1913-1920-trs19.json) |
 | Trainz Railroad Simulator 2022 | 195792 | [195792-trainz-railroad-simulator-2022.json](./195792-trainz-railroad-simulator-2022.json) |
+| Trainz Railroad Simulator 2022: CFR B 26-26 098 | 205039 | [205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json](./205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json) |
+| Trainz Railroad Simulator 2022: CFR Calatori B 26-26 064 | 205044 | [205044-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-064.json](./205044-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-064.json) |
+| Trainz Railroad Simulator 2022: CFR Calatori B 26-26 186 | 205045 | [205045-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-186.json](./205045-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-186.json) |
 | Trainz Railroad Simulator 2022: Harvard Subdivision - Commuter Edition | 285474 | [285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json](./285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json) |
 | Trainz Railroad Simulator 2022: NR Class Locomotive - JBR Indian Pacific Pack | 284917 | [284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json](./284917-trainz-railroad-simulator-2022-nr-class-locomotive-jbr-indian-pacific-pack.json) |
 | Trainz Railroad Simulator 2022: Port Saturn | 288211 | [288211-trainz-railroad-simulator-2022-port-saturn.json](./288211-trainz-railroad-simulator-2022-port-saturn.json) |
+| Trainz Railroad Simulator 2022: Potteries Loop Line | 205040 | [205040-trainz-railroad-simulator-2022-potteries-loop-line.json](./205040-trainz-railroad-simulator-2022-potteries-loop-line.json) |
 | Trainz Railroad Simulator 2022: Pro Train - DB Class 44 | 227275 | [227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json](./227275-trainz-railroad-simulator-2022-pro-train-db-class-44.json) |
 | Trainz Railroad Simulator 2022: Pro Train - TGV Duplex | 212241 | [212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json](./212241-trainz-railroad-simulator-2022-pro-train-tgv-duplex.json) |
 | Trainz Railroad Simulator 2022: Pro Train DB/DR Auxiliary Train | 237945 | [237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json](./237945-trainz-railroad-simulator-2022-pro-train-db-dr-auxiliary-train.json) |
