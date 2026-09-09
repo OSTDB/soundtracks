@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
+| Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
+| Iso | 201763 | [201763-iso.json](./201763-iso.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
 | Isolani | 22394 | [22394-isolani.json](./22394-isolani.json) |
 | Isolated | 283144 | [283144-isolated.json](./283144-isolated.json) |
