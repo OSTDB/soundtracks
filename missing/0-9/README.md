@@ -136,7 +136,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18+ | 219040 | [219040-18.json](./219040-18.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
-| 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
 | 1917: The Prologue | 151197 | [151197-1917-the-prologue.json](./151197-1917-the-prologue.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
