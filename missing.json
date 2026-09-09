@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T15:49:02.317Z",
-  "total_missing": 50988,
+  "generated_at": "2026-09-09T15:51:07.455Z",
+  "total_missing": 50987,
   "games": [
     {
       "igdb_id": 306086,
@@ -896,11 +896,6 @@
       "igdb_id": 317633,
       "game_name": "2048 Maniac",
       "file": "missing/0-9/317633-2048-maniac.json"
-    },
-    {
-      "igdb_id": 233515,
-      "game_name": "2048 Numbers Mania",
-      "file": "missing/0-9/233515-2048-numbers-mania.json"
     },
     {
       "igdb_id": 190740,
