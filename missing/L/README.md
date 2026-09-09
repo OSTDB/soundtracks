@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry's New Wheelchair | 238524 | [238524-larrys-new-wheelchair.json](./238524-larrys-new-wheelchair.json) |
 | LarryDS: Chapter 1 | 313108 | [313108-larryds-chapter-1.json](./313108-larryds-chapter-1.json) |
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
+| Laruaville 12 | 195716 | [195716-laruaville-12.json](./195716-laruaville-12.json) |
 | Laruaville 15 | 302355 | [302355-laruaville-15.json](./302355-laruaville-15.json) |
 | Laruaville 17 | 377062 | [377062-laruaville-17.json](./377062-laruaville-17.json) |
 | Laruaville 4 Christmas Match 3 Puzzle | 227874 | [227874-laruaville-4-christmas-match-3-puzzle.json](./227874-laruaville-4-christmas-match-3-puzzle.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith Rising: Season 2 | 296929 | [296929-lilith-rising-season-2.json](./296929-lilith-rising-season-2.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
+| Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
 | Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
 | Lily of the Hollow | 115038 | [115038-lily-of-the-hollow.json](./115038-lily-of-the-hollow.json) |
 | Lily Story | 338543 | [338543-lily-story.json](./338543-lily-story.json) |
@@ -993,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Riding Hood B | 225312 | [225312-little-red-riding-hood-b.json](./225312-little-red-riding-hood-b.json) |
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
 | Little Retreat | 381609 | [381609-little-retreat.json](./381609-little-retreat.json) |
+| Little Robo Climber | 195687 | [195687-little-robo-climber.json](./195687-little-robo-climber.json) |
 | Little Robot Stories | 149588 | [149588-little-robot-stories.json](./149588-little-robot-stories.json) |
 | Little Rock, MI | 203379 | [203379-little-rock-mi.json](./203379-little-rock-mi.json) |
 | Little Screamies | 319583 | [319583-little-screamies.json](./319583-little-screamies.json) |
@@ -1518,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
 | Luise and Secret Basement Rooms | 157705 | [157705-luise-and-secret-basement-rooms.json](./157705-luise-and-secret-basement-rooms.json) |
 | Lukewarm Ironclad | 113702 | [113702-lukewarm-ironclad.json](./113702-lukewarm-ironclad.json) |
+| Lulu's Temple | 195696 | [195696-lulus-temple.json](./195696-lulus-temple.json) |
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
 | Lumber Inc Tycoon | 255759 | [255759-lumber-inc-tycoon.json](./255759-lumber-inc-tycoon.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
@@ -1594,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
 | Lustful Apartment | 296687 | [296687-lustful-apartment.json](./296687-lustful-apartment.json) |
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
+| Lustful Ponies | 195738 | [195738-lustful-ponies.json](./195738-lustful-ponies.json) |
 | Lusty God | 238763 | [238763-lusty-god.json](./238763-lusty-god.json) |
 | Lutarus | 293621 | [293621-lutarus.json](./293621-lutarus.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
