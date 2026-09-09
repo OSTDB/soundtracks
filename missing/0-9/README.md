@@ -188,7 +188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 20th Century Frog | 272846 | [272846-20th-century-frog.json](./272846-20th-century-frog.json) |
-| 20th Century Trivia Challenge | 205826 | [205826-20th-century-trivia-challenge.json](./205826-20th-century-trivia-challenge.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 2184 | 316433 | [316433-2184.json](./316433-2184.json) |
 | 21st Century Roguelike Pac-man | 375826 | [375826-21st-century-roguelike-pac-man.json](./375826-21st-century-roguelike-pac-man.json) |
