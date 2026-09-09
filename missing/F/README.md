@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
 | Frostpunk: Console Edition | 117420 | [117420-frostpunk-console-edition.json](./117420-frostpunk-console-edition.json) |
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
+| Frozen | 206151 | [206151-frozen.json](./206151-frozen.json) |
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
