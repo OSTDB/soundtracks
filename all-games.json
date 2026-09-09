@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T18:35:40.703Z",
-  "total_soundtracks": 1434,
+  "generated_at": "2026-09-09T05:10:34.539Z",
+  "total_soundtracks": 1435,
   "games": [
     {
       "igdb_id": 7522,
@@ -33,6 +33,20 @@
           "spotify_url": "https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4",
           "apple_music_url": "https://music.apple.com/us/album/first-light-single/1893438114?uo=4",
           "album_link_url": "https://album.link/i/1893438114"
+        }
+      ]
+    },
+    {
+      "igdb_id": 267102,
+      "game_name": "10:16",
+      "game_url": "https://ostdb.net/games/10-16",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8c7f5ef7b26e4af13c33a7d",
+      "albums": [
+        {
+          "album_name": "10:16 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6mAG8YZd9YHoPfvzlbQRC6",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -732,8 +746,8 @@
       "albums": [
         {
           "album_name": "Leave Her Johnny (Woodkid Resynced)",
-          "spotify_url": "https://open.spotify.com/album/6DXor4YOfWZCsfoHDMwEpH",
-          "apple_music_url": "https://music.apple.com/us/album/leave-her-johnny-woodkid-resynced-single/6771741159",
+          "spotify_url": "https://open.spotify.com/album/1aKVX5Eiql11CnPwUYgRXW",
+          "apple_music_url": "https://music.apple.com/us/album/assassins-creed-black-flag-resynced-original-game-soundtrack/6787153349",
           "album_link_url": ""
         }
       ]
