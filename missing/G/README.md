@@ -1540,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
+| Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
 | Groove Coaster + Undertale DLC Bundle | 362273 | [362273-groove-coaster-undertale-dlc-bundle.json](./362273-groove-coaster-undertale-dlc-bundle.json) |
 | Groove Coaster 4EX Infinity Highway | 383978 | [383978-groove-coaster-4ex-infinity-highway.json](./383978-groove-coaster-4ex-infinity-highway.json) |
 | Groove Coaster: Darius Cozmic Collection Pack | 361704 | [361704-groove-coaster-darius-cozmic-collection-pack.json](./361704-groove-coaster-darius-cozmic-collection-pack.json) |
@@ -1561,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grotesque Tactics: Evil Heroes | 18914 | [18914-grotesque-tactics-evil-heroes.json](./18914-grotesque-tactics-evil-heroes.json) |
 | Grottesco Absurdus | 110558 | [110558-grottesco-absurdus.json](./110558-grottesco-absurdus.json) |
 | Grotto King | 282004 | [282004-grotto-king.json](./282004-grotto-king.json) |
+| Grottonnia | 171560 | [171560-grottonnia.json](./171560-grottonnia.json) |
 | Grouls | 329010 | [329010-grouls.json](./329010-grouls.json) |
 | Ground Attack | 84255 | [84255-ground-attack.json](./84255-ground-attack.json) |
 | Ground Divers | 204436 | [204436-ground-divers.json](./204436-ground-divers.json) |
