@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T04:11:04.347Z",
-  "total_missing": 49154,
+  "generated_at": "2026-09-09T04:18:21.767Z",
+  "total_missing": 49204,
   "games": [
     {
       "igdb_id": 306086,
@@ -381,6 +381,11 @@
       "igdb_id": 34360,
       "game_name": "1000 Heads Among the Trees",
       "file": "missing/0-9/34360-1000-heads-among-the-trees.json"
+    },
+    {
+      "igdb_id": 203391,
+      "game_name": "1000 Hidden Snails",
+      "file": "missing/0-9/203391-1000-hidden-snails.json"
     },
     {
       "igdb_id": 293938,
@@ -6918,6 +6923,11 @@
       "file": "missing/A/110446-ahegal.json"
     },
     {
+      "igdb_id": 203381,
+      "game_name": "Ahegal Seasons",
+      "file": "missing/A/203381-ahegal-seasons.json"
+    },
+    {
       "igdb_id": 123609,
       "game_name": "Ahegao Academy",
       "file": "missing/A/123609-ahegao-academy.json"
@@ -10001,6 +10011,11 @@
       "igdb_id": 336390,
       "game_name": "AMseven",
       "file": "missing/A/336390-amseven.json"
+    },
+    {
+      "igdb_id": 203385,
+      "game_name": "Amusement Park: Jumping Kid",
+      "file": "missing/A/203385-amusement-park-jumping-kid.json"
     },
     {
       "igdb_id": 331108,
@@ -31813,6 +31828,11 @@
       "file": "missing/B/50594-busy-scissors.json"
     },
     {
+      "igdb_id": 203353,
+      "game_name": "But That Was [Yesterday]",
+      "file": "missing/B/203353-but-that-was-yesterday.json"
+    },
+    {
       "igdb_id": 303805,
       "game_name": "Butanooo! Simulator",
       "file": "missing/B/303805-butanooo-simulator.json"
@@ -33641,6 +33661,11 @@
       "igdb_id": 335957,
       "game_name": "Card Shop Game Store: TCG Simulator",
       "file": "missing/C/335957-card-shop-game-store-tcg-simulator.json"
+    },
+    {
+      "igdb_id": 203368,
+      "game_name": "Card Shop Tycoon",
+      "file": "missing/C/203368-card-shop-tycoon.json"
     },
     {
       "igdb_id": 251237,
@@ -48813,6 +48838,11 @@
       "file": "missing/D/35760-dark-forester.json"
     },
     {
+      "igdb_id": 203362,
+      "game_name": "Dark Frontiers",
+      "file": "missing/D/203362-dark-frontiers.json"
+    },
+    {
       "igdb_id": 373014,
       "game_name": "Dark Grid",
       "file": "missing/D/373014-dark-grid.json"
@@ -53026,6 +53056,11 @@
       "igdb_id": 2717,
       "game_name": "Destroy All Humans! Path of the Furon",
       "file": "missing/D/2717-destroy-all-humans-path-of-the-furon.json"
+    },
+    {
+      "igdb_id": 203364,
+      "game_name": "Destroy All Humans!: Clone Carnage",
+      "file": "missing/D/203364-destroy-all-humans-clone-carnage.json"
     },
     {
       "igdb_id": 296642,
@@ -78138,6 +78173,11 @@
       "file": "missing/F/177560-ftd-fixin-to-die.json"
     },
     {
+      "igdb_id": 203369,
+      "game_name": "FTL: Multiverse",
+      "file": "missing/F/203369-ftl-multiverse.json"
+    },
+    {
       "igdb_id": 344382,
       "game_name": "Fuck Paper Scissors",
       "file": "missing/F/344382-fuck-paper-scissors.json"
@@ -84376,6 +84416,11 @@
       "igdb_id": 231393,
       "game_name": "Good Morning Is A Social Construct",
       "file": "missing/G/231393-good-morning-is-a-social-construct.json"
+    },
+    {
+      "igdb_id": 203365,
+      "game_name": "Good Morning, Radio",
+      "file": "missing/G/203365-good-morning-radio.json"
     },
     {
       "igdb_id": 148556,
@@ -93381,6 +93426,11 @@
       "igdb_id": 212998,
       "game_name": "Hiddens Awakening",
       "file": "missing/H/212998-hiddens-awakening.json"
+    },
+    {
+      "igdb_id": 203374,
+      "game_name": "Hiddenverse: Ariadna Dreaming",
+      "file": "missing/H/203374-hiddenverse-ariadna-dreaming.json"
     },
     {
       "igdb_id": 223140,
@@ -116073,6 +116123,11 @@
       "file": "missing/L/126621-lit-bend-the-light.json"
     },
     {
+      "igdb_id": 203372,
+      "game_name": "LiteracyPlanet: Word Mania",
+      "file": "missing/L/203372-literacyplanet-word-mania.json"
+    },
+    {
       "igdb_id": 340922,
       "game_name": "Literally Just Pixels On A Screen",
       "file": "missing/L/340922-literally-just-pixels-on-a-screen.json"
@@ -116456,6 +116511,11 @@
       "igdb_id": 149588,
       "game_name": "Little Robot Stories",
       "file": "missing/L/149588-little-robot-stories.json"
+    },
+    {
+      "igdb_id": 203379,
+      "game_name": "Little Rock, MI",
+      "file": "missing/L/203379-little-rock-mi.json"
     },
     {
       "igdb_id": 319583,
@@ -119001,6 +119061,11 @@
       "igdb_id": 198518,
       "game_name": "Luigi in Sonic the Hedgehog",
       "file": "missing/L/198518-luigi-in-sonic-the-hedgehog.json"
+    },
+    {
+      "igdb_id": 203387,
+      "game_name": "Luigi Run",
+      "file": "missing/L/203387-luigi-run.json"
     },
     {
       "igdb_id": 335659,
@@ -126546,6 +126611,11 @@
       "igdb_id": 89263,
       "game_name": "Mermaid Land",
       "file": "missing/M/89263-mermaid-land.json"
+    },
+    {
+      "igdb_id": 203341,
+      "game_name": "Mermaid Prism",
+      "file": "missing/M/203341-mermaid-prism.json"
     },
     {
       "igdb_id": 219289,
@@ -137513,6 +137583,11 @@
       "file": "missing/N/282594-narrative-nightmares-trilogy-of-terror.json"
     },
     {
+      "igdb_id": 203380,
+      "game_name": "Narrow Path",
+      "file": "missing/N/203380-narrow-path.json"
+    },
+    {
       "igdb_id": 188074,
       "game_name": "Naruto Arena Next Generation",
       "file": "missing/N/188074-naruto-arena-next-generation.json"
@@ -146816,6 +146891,11 @@
       "igdb_id": 147454,
       "game_name": "Oppai Academy Big, Bouncy, Booby Babes!",
       "file": "missing/O/147454-oppai-academy-big-bouncy-booby-babes.json"
+    },
+    {
+      "igdb_id": 203383,
+      "game_name": "Oppai Muse",
+      "file": "missing/O/203383-oppai-muse.json"
     },
     {
       "igdb_id": 209481,
@@ -158443,6 +158523,11 @@
       "file": "missing/P/364479-pp-pathetic-predator.json"
     },
     {
+      "igdb_id": 203373,
+      "game_name": "Ppoi: Hitonatsu no Keiken",
+      "file": "missing/P/203373-ppoi-hitonatsu-no-keiken.json"
+    },
+    {
       "igdb_id": 46019,
       "game_name": "PQ: Practical Intelligence Quotient",
       "file": "missing/P/46019-pq-practical-intelligence-quotient.json"
@@ -159106,6 +159191,11 @@
       "igdb_id": 220655,
       "game_name": "Prison Architect: Free for life",
       "file": "missing/P/220655-prison-architect-free-for-life.json"
+    },
+    {
+      "igdb_id": 203348,
+      "game_name": "Prison Architect: Gangs",
+      "file": "missing/P/203348-prison-architect-gangs.json"
     },
     {
       "igdb_id": 148530,
@@ -162441,6 +162531,11 @@
       "igdb_id": 374612,
       "game_name": "QiuQiu Town",
       "file": "missing/Q/374612-qiuqiu-town.json"
+    },
+    {
+      "igdb_id": 203377,
+      "game_name": "QL Pawn",
+      "file": "missing/Q/203377-ql-pawn.json"
     },
     {
       "igdb_id": 206376,
@@ -166823,6 +166918,11 @@
       "file": "missing/R/107237-reigns-game-of-thrones.json"
     },
     {
+      "igdb_id": 203342,
+      "game_name": "Reijou Tantei: Office Love Jikenbo",
+      "file": "missing/R/203342-reijou-tantei-office-love-jikenbo.json"
+    },
+    {
       "igdb_id": 125118,
       "game_name": "Reiko's Fragments",
       "file": "missing/R/125118-reikos-fragments.json"
@@ -167421,6 +167521,11 @@
       "igdb_id": 346597,
       "game_name": "Rescue Quest",
       "file": "missing/R/346597-rescue-quest.json"
+    },
+    {
+      "igdb_id": 203375,
+      "game_name": "Rescue Quest Gold: Collector's Edition",
+      "file": "missing/R/203375-rescue-quest-gold-collectors-edition.json"
     },
     {
       "igdb_id": 25777,
@@ -171706,6 +171811,11 @@
       "igdb_id": 302144,
       "game_name": "Roomba Rail Rider",
       "file": "missing/R/302144-roomba-rail-rider.json"
+    },
+    {
+      "igdb_id": 203363,
+      "game_name": "Roomli",
+      "file": "missing/R/203363-roomli.json"
     },
     {
       "igdb_id": 297205,
@@ -182328,6 +182438,41 @@
       "file": "missing/S/209500-simple-1500-series-vol-77-the-suiei.json"
     },
     {
+      "igdb_id": 203350,
+      "game_name": "Simple 2000 Hello Kitty Series Vol. 2: Minna de Sugoroku",
+      "file": "missing/S/203350-simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku.json"
+    },
+    {
+      "igdb_id": 203343,
+      "game_name": "Simple 2000 Honkaku Shikou Vol.001: The Shogi",
+      "file": "missing/S/203343-simple-2000-honkaku-shikou-vol-001-the-shogi.json"
+    },
+    {
+      "igdb_id": 203344,
+      "game_name": "Simple 2000 Honkaku Shikou Vol.002: The Igo",
+      "file": "missing/S/203344-simple-2000-honkaku-shikou-vol-002-the-igo.json"
+    },
+    {
+      "igdb_id": 203345,
+      "game_name": "Simple 2000 Honkaku Shikou Vol.003: The Chess",
+      "file": "missing/S/203345-simple-2000-honkaku-shikou-vol-003-the-chess.json"
+    },
+    {
+      "igdb_id": 203346,
+      "game_name": "Simple 2000 Honkaku Shikou Vol.004: The Mahjong",
+      "file": "missing/S/203346-simple-2000-honkaku-shikou-vol-004-the-mahjong.json"
+    },
+    {
+      "igdb_id": 203347,
+      "game_name": "Simple 2000 Honkaku Shikou Vol.005: The Kiryoku Kentei",
+      "file": "missing/S/203347-simple-2000-honkaku-shikou-vol-005-the-kiryoku-kentei.json"
+    },
+    {
+      "igdb_id": 203394,
+      "game_name": "Simple 2000 Series 2-in-1 Vol. 3: The Puzzle Collection 2,000-mon & The Touyou Sandai Uranjustsu",
+      "file": "missing/S/203394-simple-2000-series-2-in-1-vol-3-the-puzzle-collection-2-000-mon-and-the-touyou-sandai-uranjustsu.json"
+    },
+    {
       "igdb_id": 57131,
       "game_name": "Simple 2000 Series 2-in-1 Vol. 4: The Bushido & The Sniper 2",
       "file": "missing/S/57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json"
@@ -182336,6 +182481,76 @@
       "igdb_id": 82135,
       "game_name": "Simple 2000 Series Portable Vol. 1: The Mahjong",
       "file": "missing/S/82135-simple-2000-series-portable-vol-1-the-mahjong.json"
+    },
+    {
+      "igdb_id": 203354,
+      "game_name": "Simple 2000 Series Ultimate Vol. 11: Wandaba Style - Totsugeki! Mix Live Juice",
+      "file": "missing/S/203354-simple-2000-series-ultimate-vol-11-wandaba-style-totsugeki-mix-live-juice.json"
+    },
+    {
+      "igdb_id": 203355,
+      "game_name": "Simple 2000 Series Ultimate Vol. 12: Street Golfer",
+      "file": "missing/S/203355-simple-2000-series-ultimate-vol-12-street-golfer.json"
+    },
+    {
+      "igdb_id": 203356,
+      "game_name": "Simple 2000 Series Ultimate Vol. 14: Topai Dramatic Mahjong",
+      "file": "missing/S/203356-simple-2000-series-ultimate-vol-14-topai-dramatic-mahjong.json"
+    },
+    {
+      "igdb_id": 203357,
+      "game_name": "Simple 2000 Series Ultimate Vol. 17: Taisen! Bakudan Poi Poi",
+      "file": "missing/S/203357-simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi.json"
+    },
+    {
+      "igdb_id": 203358,
+      "game_name": "Simple 2000 Series Ultimate Vol. 20: Love*Mahjong 2",
+      "file": "missing/S/203358-simple-2000-series-ultimate-vol-20-love-mahjong-2.json"
+    },
+    {
+      "igdb_id": 203359,
+      "game_name": "Simple 2000 Series Ultimate Vol. 22: Stylish Mahjong",
+      "file": "missing/S/203359-simple-2000-series-ultimate-vol-22-stylish-mahjong.json"
+    },
+    {
+      "igdb_id": 203360,
+      "game_name": "Simple 2000 Series Ultimate Vol. 24: Makai Tenshou",
+      "file": "missing/S/203360-simple-2000-series-ultimate-vol-24-makai-tenshou.json"
+    },
+    {
+      "igdb_id": 203361,
+      "game_name": "Simple 2000 Series Ultimate Vol. 25: Chou Saisoku! Zoku-sha King",
+      "file": "missing/S/203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json"
+    },
+    {
+      "igdb_id": 203351,
+      "game_name": "Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai",
+      "file": "missing/S/203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json"
+    },
+    {
+      "igdb_id": 203352,
+      "game_name": "Simple 2000 Series Ultimate Vol. 5: Love * Mahjong",
+      "file": "missing/S/203352-simple-2000-series-ultimate-vol-5-love-mahjong.json"
+    },
+    {
+      "igdb_id": 203336,
+      "game_name": "Simple 2000 Series Vol. 115: The Roomshare to Iu Seikatsu",
+      "file": "missing/S/203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json"
+    },
+    {
+      "igdb_id": 203338,
+      "game_name": "Simple 2000 Series Vol. 117: The Zerosen",
+      "file": "missing/S/203338-simple-2000-series-vol-117-the-zerosen.json"
+    },
+    {
+      "igdb_id": 203339,
+      "game_name": "Simple 2000 Series Vol. 118: The Ochimusha - Doemu Samurai Toujou",
+      "file": "missing/S/203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json"
+    },
+    {
+      "igdb_id": 203340,
+      "game_name": "Simple 2000 Series Vol. 120: Saigo no Nippon Hei - Utsukushiki Kokudo Dakkan Sakusen",
+      "file": "missing/S/203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json"
     },
     {
       "igdb_id": 335904,
@@ -182366,6 +182581,11 @@
       "igdb_id": 43325,
       "game_name": "Simple 2000 Series Vol. 88: The Mini Suke Porisu",
       "file": "missing/S/43325-simple-2000-series-vol-88-the-mini-suke-porisu.json"
+    },
+    {
+      "igdb_id": 203337,
+      "game_name": "Simple 2000 Series Vol.116: The Neko-mura no Hitobito - Pagu Daikan no Akugyou San-mai",
+      "file": "missing/S/203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json"
     },
     {
       "igdb_id": 79351,
@@ -199008,6 +199228,11 @@
       "file": "missing/S/134074-super-mario-bros-dimensions.json"
     },
     {
+      "igdb_id": 203389,
+      "game_name": "Super Mario Bros. Funk Mix Deluxe",
+      "file": "missing/S/203389-super-mario-bros-funk-mix-deluxe.json"
+    },
+    {
       "igdb_id": 324087,
       "game_name": "Super Mario Bros.: The 8th Star",
       "file": "missing/S/324087-super-mario-bros-the-8th-star.json"
@@ -200941,6 +201166,11 @@
       "igdb_id": 262968,
       "game_name": "Surviving Skeleton Island",
       "file": "missing/S/262968-surviving-skeleton-island.json"
+    },
+    {
+      "igdb_id": 203382,
+      "game_name": "Surviving the Aftermath: New Alliances",
+      "file": "missing/S/203382-surviving-the-aftermath-new-alliances.json"
     },
     {
       "igdb_id": 92524,
@@ -216338,6 +216568,11 @@
       "file": "missing/T/64435-the-tempura-samurai.json"
     },
     {
+      "igdb_id": 203393,
+      "game_name": "The Tennis & The Snowboard",
+      "file": "missing/T/203393-the-tennis-and-the-snowboard.json"
+    },
+    {
       "igdb_id": 298322,
       "game_name": "The Tennis Academy",
       "file": "missing/T/298322-the-tennis-academy.json"
@@ -228298,6 +228533,11 @@
       "file": "missing/U/142465-ultimate-bomb-squad.json"
     },
     {
+      "igdb_id": 203349,
+      "game_name": "Ultimate Casino",
+      "file": "missing/U/203349-ultimate-casino.json"
+    },
+    {
       "igdb_id": 18158,
       "game_name": "Ultimate Chicken Horse",
       "file": "missing/U/18158-ultimate-chicken-horse.json"
@@ -230636,6 +230876,11 @@
       "igdb_id": 98073,
       "game_name": "Urtuk: The Desolation",
       "file": "missing/U/98073-urtuk-the-desolation.json"
+    },
+    {
+      "igdb_id": 203392,
+      "game_name": "Ururun Quest: Koiyuuki",
+      "file": "missing/U/203392-ururun-quest-koiyuuki.json"
     },
     {
       "igdb_id": 72697,
@@ -237266,6 +237511,11 @@
       "igdb_id": 37192,
       "game_name": "When you're gone",
       "file": "missing/W/37192-when-youre-gone.json"
+    },
+    {
+      "igdb_id": 203378,
+      "game_name": "Whenever You Can Breathe",
+      "file": "missing/W/203378-whenever-you-can-breathe.json"
     },
     {
       "igdb_id": 300688,
