@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Would you rather?! | 90677 | [90677-would-you-rather.json](./90677-would-you-rather.json) |
 | Would You Sell Your Soul? 2 | 303265 | [303265-would-you-sell-your-soul-2.json](./303265-would-you-sell-your-soul-2.json) |
 | Wound Man | 273385 | [273385-wound-man.json](./273385-wound-man.json) |
+| Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
 | WpnFire | 345516 | [345516-wpnfire.json](./345516-wpnfire.json) |
 | Wrack | 5596 | [5596-wrack.json](./5596-wrack.json) |
