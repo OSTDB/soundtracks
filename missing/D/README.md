@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Mile | 259241 | [259241-death-mile.json](./259241-death-mile.json) |
 | Death Moto 3 | 237964 | [237964-death-moto-3.json](./237964-death-moto-3.json) |
 | Death Nomad | 236001 | [236001-death-nomad.json](./236001-death-nomad.json) |
+| Death Noodle Delivery | 207330 | [207330-death-noodle-delivery.json](./207330-death-noodle-delivery.json) |
 | Death Note: Killer Within | 320363 | [320363-death-note-killer-within.json](./320363-death-note-killer-within.json) |
 | Death Note: Kira Game | 22388 | [22388-death-note-kira-game.json](./22388-death-note-kira-game.json) |
 | Death Note: Successors to L | 22389 | [22389-death-note-successors-to-l.json](./22389-death-note-successors-to-l.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dependium | 411617 | [411617-dependium.json](./411617-dependium.json) |
 | Depict the City | 212462 | [212462-depict-the-city.json](./212462-depict-the-city.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
+| DEPO: Death Epileptic Pixel Origins | 207316 | [207316-depo-death-epileptic-pixel-origins.json](./207316-depo-death-epileptic-pixel-origins.json) |
 | Deponia: The Complete Journey | 17224 | [17224-deponia-the-complete-journey.json](./17224-deponia-the-complete-journey.json) |
 | Depth Loop | 317854 | [317854-depth-loop.json](./317854-depth-loop.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
@@ -1224,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
+| Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
@@ -1381,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
+| Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
 | Diorama Builder | 161403 | [161403-diorama-builder.json](./161403-diorama-builder.json) |
 | Diorama Builder: Medieval Castle | 298321 | [298321-diorama-builder-medieval-castle.json](./298321-diorama-builder-medieval-castle.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
@@ -1707,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Salvation Remake! | 342072 | [342072-doki-doki-salvation-remake.json](./342072-doki-doki-salvation-remake.json) |
 | Doki Doki Sayori Date! | 332855 | [332855-doki-doki-sayori-date.json](./332855-doki-doki-sayori-date.json) |
 | Doki Doki Silver & Emerald | 334693 | [334693-doki-doki-silver-and-emerald.json](./334693-doki-doki-silver-and-emerald.json) |
+| Doki Doki Takeover!: Bad Ending | 208412 | [208412-doki-doki-takeover-bad-ending.json](./208412-doki-doki-takeover-bad-ending.json) |
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Tutorial! | 256833 | [256833-doki-doki-tutorial.json](./256833-doki-doki-tutorial.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
@@ -2332,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
+| Dreamland | 207308 | [207308-dreamland.json](./207308-dreamland.json) |
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
 | Dreamless | 320135 | [320135-dreamless.json](./320135-dreamless.json) |
 | Dreamless Girl: Deluxe Edtion Plus | 335097 | [335097-dreamless-girl-deluxe-edtion-plus.json](./335097-dreamless-girl-deluxe-edtion-plus.json) |
