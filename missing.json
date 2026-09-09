@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T13:51:08.602Z",
-  "total_missing": 50690,
+  "generated_at": "2026-09-09T14:01:20.767Z",
+  "total_missing": 50693,
   "games": [
     {
       "igdb_id": 306086,
@@ -836,11 +836,6 @@
       "igdb_id": 116344,
       "game_name": "2004 Real Soccer",
       "file": "missing/0-9/116344-2004-real-soccer.json"
-    },
-    {
-      "igdb_id": 391035,
-      "game_name": "2004: Space Becherovka",
-      "file": "missing/0-9/391035-2004-space-becherovka.json"
     },
     {
       "igdb_id": 40792,
@@ -38843,6 +38838,11 @@
       "file": "missing/C/100190-christmas-mansion.json"
     },
     {
+      "igdb_id": 186281,
+      "game_name": "Christmas Massacre",
+      "file": "missing/C/186281-christmas-massacre.json"
+    },
+    {
       "igdb_id": 29952,
       "game_name": "Christmas Massacre VR",
       "file": "missing/C/29952-christmas-massacre-vr.json"
@@ -44501,6 +44501,11 @@
       "igdb_id": 385598,
       "game_name": "Courage Saw Game",
       "file": "missing/C/385598-courage-saw-game.json"
+    },
+    {
+      "igdb_id": 186279,
+      "game_name": "Courage the Cowardly Dog: Creep TV",
+      "file": "missing/C/186279-courage-the-cowardly-dog-creep-tv.json"
     },
     {
       "igdb_id": 170005,
@@ -132576,6 +132581,11 @@
       "igdb_id": 306695,
       "game_name": "Minecraftle",
       "file": "missing/M/306695-minecraftle.json"
+    },
+    {
+      "igdb_id": 186276,
+      "game_name": "MineFinitum",
+      "file": "missing/M/186276-minefinitum.json"
     },
     {
       "igdb_id": 48687,
@@ -250906,6 +250916,11 @@
       "igdb_id": 264048,
       "game_name": "Your Lucky Charm",
       "file": "missing/Y/264048-your-lucky-charm.json"
+    },
+    {
+      "igdb_id": 186280,
+      "game_name": "Your Majesty",
+      "file": "missing/Y/186280-your-majesty.json"
     },
     {
       "igdb_id": 339132,
