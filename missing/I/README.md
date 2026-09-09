@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
 | Into the Dark | 199644 | [199644-into-the-dark.json](./199644-into-the-dark.json) |
 | Into the Darkness VR | 220141 | [220141-into-the-darkness-vr.json](./220141-into-the-darkness-vr.json) |
+| Into the Dead 2: Unleashed | 197325 | [197325-into-the-dead-2-unleashed.json](./197325-into-the-dead-2-unleashed.json) |
 | Into the Dungeon | 258171 | [258171-into-the-dungeon.json](./258171-into-the-dungeon.json) |
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
