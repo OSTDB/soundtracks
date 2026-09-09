@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liàn yǔ wèi xiē zhī yǔ | 367448 | [367448-lian-yu-wei-xie-zhi-yu.json](./367448-lian-yu-wei-xie-zhi-yu.json) |
 | Lianhai Billiards Club | 216785 | [216785-lianhai-billiards-club.json](./216785-lianhai-billiards-club.json) |
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
+| Liar Moon Shangri-La | 209478 | [209478-liar-moon-shangri-la.json](./209478-liar-moon-shangri-la.json) |
 | Liar Trick: Psychological Crime Mystery | 163961 | [163961-liar-trick-psychological-crime-mystery.json](./163961-liar-trick-psychological-crime-mystery.json) |
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Stitch | 412297 | [412297-love-stitch.json](./412297-love-stitch.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
+| Love Talks | 209477 | [209477-love-talks.json](./209477-love-talks.json) |
 | Love Tavern | 165028 | [165028-love-tavern.json](./165028-love-tavern.json) |
 | Love Too Easily Bundle | 400199 | [400199-love-too-easily-bundle.json](./400199-love-too-easily-bundle.json) |
 | Love Undying: A Kiss Before Dawn | 302953 | [302953-love-undying-a-kiss-before-dawn.json](./302953-love-undying-a-kiss-before-dawn.json) |
@@ -1546,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Bunker | 274753 | [274753-lust-bunker.json](./274753-lust-bunker.json) |
 | Lust Campus | 251229 | [251229-lust-campus.json](./251229-lust-campus.json) |
 | Lust Company | 366236 | [366236-lust-company.json](./366236-lust-company.json) |
+| Lust Dungeon | 209485 | [209485-lust-dungeon.json](./209485-lust-dungeon.json) |
 | Lust for Darkness VR | 193508 | [193508-lust-for-darkness-vr.json](./193508-lust-for-darkness-vr.json) |
 | Lust for Lucre | 305760 | [305760-lust-for-lucre.json](./305760-lust-for-lucre.json) |
 | Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
