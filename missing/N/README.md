@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed: Carbon | 248118 | [248118-need-for-speed-carbon.json](./248118-need-for-speed-carbon.json) |
+| Need for Speed: Carbon - Own the City | 197881 | [197881-need-for-speed-carbon-own-the-city.json](./197881-need-for-speed-carbon-own-the-city.json) |
 | Need for Speed: Heat | 119161 | [119161-need-for-speed-heat.json](./119161-need-for-speed-heat.json) |
 | Need for Speed: High Stakes | 93 | [93-need-for-speed-high-stakes.json](./93-need-for-speed-high-stakes.json) |
 | Need for Speed: Hot Pursuit | 264364 | [264364-need-for-speed-hot-pursuit.json](./264364-need-for-speed-hot-pursuit.json) |
@@ -614,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Run | 372468 | [372468-next-run.json](./372468-next-run.json) |
 | Next Step | 178655 | [178655-next-step.json](./178655-next-step.json) |
 | Next Stop | 87314 | [87314-next-stop.json](./87314-next-stop.json) |
+| Next Stop Mobile | 197855 | [197855-next-stop-mobile.json](./197855-next-stop-mobile.json) |
 | NextRev: Eibunpou Tettei Tokkun | 64944 | [64944-nextrev-eibunpou-tettei-tokkun.json](./64944-nextrev-eibunpou-tettei-tokkun.json) |
 | NextRev: FP Ginoukentei Shiken 2-Kyuu | 64941 | [64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json](./64941-nextrev-fp-ginoukentei-shiken-2-kyuu.json) |
 | NextRev: IT Passport Shiken | 64945 | [64945-nextrev-it-passport-shiken.json](./64945-nextrev-it-passport-shiken.json) |
@@ -1089,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nom Nom Nom | 209650 | [209650-nom-nom-nom.json](./209650-nom-nom-nom.json) |
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
+| Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
 | Non Stop Driver | 305200 | [305200-non-stop-driver.json](./305200-non-stop-driver.json) |
