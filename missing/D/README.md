@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
+| DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
@@ -2298,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
+| Draw Two Save: Save the man | 197363 | [197363-draw-two-save-save-the-man.json](./197363-draw-two-save-save-the-man.json) |
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Drawing Carnival: Horror Edition | 298570 | [298570-drawing-carnival-horror-edition.json](./298570-drawing-carnival-horror-edition.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
@@ -2441,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
+| Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
