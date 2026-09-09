@@ -346,6 +346,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhost | 400251 | [400251-unhost.json](./400251-unhost.json) |
 | UnHumanize | 319011 | [319011-unhumanize.json](./319011-unhumanize.json) |
 | Uni | 145684 | [145684-uni.json](./145684-uni.json) |
+| Uni Ver Se | 185635 | [185635-uni-ver-se.json](./185635-uni-ver-se.json) |
+| Unicellular | 185602 | [185602-unicellular.json](./185602-unicellular.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
 | Unicorn Coloring Book | 96076 | [96076-unicorn-coloring-book.json](./96076-unicorn-coloring-book.json) |
 | Unicorn Fun | 227843 | [227843-unicorn-fun.json](./227843-unicorn-fun.json) |
