@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Estera Hot | 192449 | [192449-69-estera-hot.json](./192449-69-estera-hot.json) |
 | 69 Hitomi Love | 173837 | [173837-69-hitomi-love.json](./173837-69-hitomi-love.json) |
 | 69 Lisa Love | 173826 | [173826-69-lisa-love.json](./173826-69-lisa-love.json) |
+| 69 Samantha Love | 195723 | [195723-69-samantha-love.json](./195723-69-samantha-love.json) |
 | 6ix9ine Runner | 224198 | [224198-6ix9ine-runner.json](./224198-6ix9ine-runner.json) |
 | 6th Dimension | 148532 | [148532-6th-dimension.json](./148532-6th-dimension.json) |
 | 6th Floor | 301589 | [301589-6th-floor.json](./301589-6th-floor.json) |
