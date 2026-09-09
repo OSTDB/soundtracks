@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 202 Game Collection | 206119 | [206119-202-game-collection.json](./206119-202-game-collection.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
 | 2045: Wasteland Rebuild | 194028 | [194028-2045-wasteland-rebuild.json](./194028-2045-wasteland-rebuild.json) |
+| 2047 CCG | 205587 | [205587-2047-ccg.json](./205587-2047-ccg.json) |
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
 | 2048 | 280762 | [280762-2048.json](./280762-2048.json) |
 | 2048 | 312586 | [312586-2048.json](./312586-2048.json) |
