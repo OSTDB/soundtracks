@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
 | Master System 3 | 230823 | [230823-master-system-3.json](./230823-master-system-3.json) |
 | Master System 3 Collection: 131 Super Jogos na Memória | 230826 | [230826-master-system-3-collection-131-super-jogos-na-memoria.json](./230826-master-system-3-collection-131-super-jogos-na-memoria.json) |
+| Master System Handy | 202806 | [202806-master-system-handy.json](./202806-master-system-handy.json) |
 | Master System Plug & Play | 230828 | [230828-master-system-plug-and-play.json](./230828-master-system-plug-and-play.json) |
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
@@ -2069,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misk Schools Quest | 187516 | [187516-misk-schools-quest.json](./187516-misk-schools-quest.json) |
 | Miskatonic | 389973 | [389973-miskatonic.json](./389973-miskatonic.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
+| Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
 | Miss It! | 283707 | [283707-miss-it.json](./283707-miss-it.json) |
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
@@ -3096,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
+| Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
 | Mushroom Wars 2: Episode 3 - Red & Furious | 172155 | [172155-mushroom-wars-2-episode-3-red-and-furious.json](./172155-mushroom-wars-2-episode-3-red-and-furious.json) |
