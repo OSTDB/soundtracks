@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
 | Pandemic Heart | 165010 | [165010-pandemic-heart.json](./165010-pandemic-heart.json) |
+| Pandemic of the Forgotten Virus | 185593 | [185593-pandemic-of-the-forgotten-virus.json](./185593-pandemic-of-the-forgotten-virus.json) |
 | Pandemic: The Board Game | 69425 | [69425-pandemic-the-board-game.json](./69425-pandemic-the-board-game.json) |
 | Pandemommyum! Hot Single Moms in My Area | 257951 | [257951-pandemommyum-hot-single-moms-in-my-area.json](./257951-pandemommyum-hot-single-moms-in-my-area.json) |
 | Pando Engines | 211193 | [211193-pando-engines.json](./211193-pando-engines.json) |
