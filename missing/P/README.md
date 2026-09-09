@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ravensdale | 63335 | [63335-project-ravensdale.json](./63335-project-ravensdale.json) |
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
+| Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Romboid | 207300 | [207300-project-romboid.json](./207300-project-romboid.json) |
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
 | Project S | 358891 | [358891-project-s.json](./358891-project-s.json) |
@@ -2674,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
 | Puss in Book: Trapped in an Epic Tale | 256844 | [256844-puss-in-book-trapped-in-an-epic-tale.json](./256844-puss-in-book-trapped-in-an-epic-tale.json) |
+| Puss In Boots | 192927 | [192927-puss-in-boots.json](./192927-puss-in-boots.json) |
 | Puss in Boots: Purrfect Adventures | 298578 | [298578-puss-in-boots-purrfect-adventures.json](./298578-puss-in-boots-purrfect-adventures.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
