@@ -2453,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snolf CD: A Snolf in Time | 143736 | [143736-snolf-cd-a-snolf-in-time.json](./143736-snolf-cd-a-snolf-in-time.json) |
 | Snolf Zero: The Prequel | 143735 | [143735-snolf-zero-the-prequel.json](./143735-snolf-zero-the-prequel.json) |
 | Snolf: The Sonic Golf Experience | 143733 | [143733-snolf-the-sonic-golf-experience.json](./143733-snolf-the-sonic-golf-experience.json) |
+| Snolf: Tournament Edition | 201808 | [201808-snolf-tournament-edition.json](./201808-snolf-tournament-edition.json) |
 | Snood | 246388 | [246388-snood.json](./246388-snood.json) |
 | Snood Poppers | 137656 | [137656-snood-poppers.json](./137656-snood-poppers.json) |
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
@@ -2786,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Bowling | 261248 | [261248-sonic-bowling.json](./261248-sonic-bowling.json) |
 | Sonic Bowling | 261293 | [261293-sonic-bowling.json](./261293-sonic-bowling.json) |
 | Sonic CD | 86807 | [86807-sonic-cd.json](./86807-sonic-cd.json) |
+| Sonic CD: Episode Metal | 201809 | [201809-sonic-cd-episode-metal.json](./201809-sonic-cd-episode-metal.json) |
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
 | Sonic Champions | 330527 | [330527-sonic-champions.json](./330527-sonic-champions.json) |
@@ -3000,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
+| Sore Jaa, Mata ne. | 201807 | [201807-sore-jaa-mata-ne.json](./201807-sore-jaa-mata-ne.json) |
 | Soreike! Anpanman Card de Tanoshiku ABC | 327608 | [327608-soreike-anpanman-card-de-tanoshiku-abc.json](./327608-soreike-anpanman-card-de-tanoshiku-abc.json) |
 | Soreike! Anpanman Doki-doki! Rescue Drive: Car Navi-tsuki | 327609 | [327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json](./327609-soreike-anpanman-doki-doki-rescue-drive-car-navi-tsuki.json) |
 | Soreike! Anpanman o-Mise ga Ippai! TV de o-Ryouri Tsukucchao | 327610 | [327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json](./327610-soreike-anpanman-o-mise-ga-ippai-tv-de-o-ryouri-tsukucchao.json) |
@@ -3085,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
+| Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
 | Soulstone Survivors | 210585 | [210585-soulstone-survivors.json](./210585-soulstone-survivors.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulWander | 348785 | [348785-soulwander.json](./348785-soulwander.json) |
@@ -4080,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Moon Island: Mobile Stronghold MP09 | 190696 | [190696-starry-moon-island-mobile-stronghold-mp09.json](./190696-starry-moon-island-mobile-stronghold-mp09.json) |
 | Starry Nights: Helix | 30868 | [30868-starry-nights-helix.json](./30868-starry-nights-helix.json) |
+| Starry Sky: After Spring | 201758 | [201758-starry-sky-after-spring.json](./201758-starry-sky-after-spring.json) |
 | Starry Sky: After Spring Portable | 201833 | [201833-starry-sky-after-spring-portable.json](./201833-starry-sky-after-spring-portable.json) |
 | Starry Sky: After Summer | 202824 | [202824-starry-sky-after-summer.json](./202824-starry-sky-after-summer.json) |
 | Starry Sky: After Summer Portable | 202825 | [202825-starry-sky-after-summer-portable.json](./202825-starry-sky-after-summer-portable.json) |
