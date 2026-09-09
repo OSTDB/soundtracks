@@ -1249,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
+| Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
 | Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
@@ -2494,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
 | Snow Moon Flower | 235748 | [235748-snow-moon-flower.json](./235748-snow-moon-flower.json) |
+| Snow Plow | 192872 | [192872-snow-plow.json](./192872-snow-plow.json) |
 | Snow Problem | 342060 | [342060-snow-problem.json](./342060-snow-problem.json) |
 | Snow Rider | 43336 | [43336-snow-rider.json](./43336-snow-rider.json) |
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
@@ -4015,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Hunter's Legacy Bundle | 325858 | [325858-star-wars-outlaws-hunters-legacy-bundle.json](./325858-star-wars-outlaws-hunters-legacy-bundle.json) |
 | Star Wars Outlaws: Special Edition | 299474 | [299474-star-wars-outlaws-special-edition.json](./299474-star-wars-outlaws-special-edition.json) |
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
+| Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Dark Forces Remaster | 262973 | [262973-star-wars-dark-forces-remaster.json](./262973-star-wars-dark-forces-remaster.json) |
 | Star Wars: Demolition | 143 | [143-star-wars-demolition.json](./143-star-wars-demolition.json) |
@@ -5797,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
 | Swords and Sandals Classic Collection | 117173 | [117173-swords-and-sandals-classic-collection.json](./117173-swords-and-sandals-classic-collection.json) |
+| Swords and Sandals III | 192892 | [192892-swords-and-sandals-iii.json](./192892-swords-and-sandals-iii.json) |
 | Swords and Sandals Spartacus | 130387 | [130387-swords-and-sandals-spartacus.json](./130387-swords-and-sandals-spartacus.json) |
 | Swords and Sorcery Underworld: Definitive Edition | 34318 | [34318-swords-and-sorcery-underworld-definitive-edition.json](./34318-swords-and-sorcery-underworld-definitive-edition.json) |
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
