@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
 | Rocket Cars | 265427 | [265427-rocket-cars.json](./265427-rocket-cars.json) |
 | Rocket Coaster | 82928 | [82928-rocket-coaster.json](./82928-rocket-coaster.json) |
+| Rocket Cows | 195730 | [195730-rocket-cows.json](./195730-rocket-cows.json) |
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
@@ -1691,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
+| Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
 | Room by Room | 410932 | [410932-room-by-room.json](./410932-room-by-room.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
@@ -1922,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
 | Run Hunter Run | 96086 | [96086-run-hunter-run.json](./96086-run-hunter-run.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
+| Run N' Gun | 195737 | [195737-run-n-gun.json](./195737-run-n-gun.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
 | Run Pizza Run 2 | 332988 | [332988-run-pizza-run-2.json](./332988-run-pizza-run-2.json) |
