@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding America: The Great Lakes | 260396 | [260396-finding-america-the-great-lakes.json](./260396-finding-america-the-great-lakes.json) |
 | Finding America: The Heartland - Collector's Edition | 224200 | [224200-finding-america-the-heartland-collectors-edition.json](./224200-finding-america-the-heartland-collectors-edition.json) |
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
+| Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
 | Finding Fern | 239659 | [239659-finding-fern.json](./239659-finding-fern.json) |
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
@@ -1065,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour - Bass Pro Shops Equipment Pack | 170476 | [170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json](./170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json) |
 | Fishing Sim World: Pro Tour - Big Fish Lure Pack | 156175 | [156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json](./156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json) |
 | Fishing Sim World: Pro Tour - Deluxe Edition | 228093 | [228093-fishing-sim-world-pro-tour-deluxe-edition.json](./228093-fishing-sim-world-pro-tour-deluxe-edition.json) |
+| Fishing Sim World: Pro Tour - Gigantica Road Lake | 169970 | [169970-fishing-sim-world-pro-tour-gigantica-road-lake.json](./169970-fishing-sim-world-pro-tour-gigantica-road-lake.json) |
 | Fishing Sim World: Pro Tour - Jezioro Bestii | 170474 | [170474-fishing-sim-world-pro-tour-jezioro-bestii.json](./170474-fishing-sim-world-pro-tour-jezioro-bestii.json) |
 | Fishing Sim World: Pro Tour - Lago Del Mundo | 170477 | [170477-fishing-sim-world-pro-tour-lago-del-mundo.json](./170477-fishing-sim-world-pro-tour-lago-del-mundo.json) |
 | Fishing Sim World: Pro Tour - Laguna Iquitos | 170479 | [170479-fishing-sim-world-pro-tour-laguna-iquitos.json](./170479-fishing-sim-world-pro-tour-laguna-iquitos.json) |
