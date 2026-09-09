@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Color | 241354 | [241354-active-color.json](./241354-active-color.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
 | Active Life Outdoor Challenge | 167810 | [167810-active-life-outdoor-challenge.json](./167810-active-life-outdoor-challenge.json) |
+| Active Soccer | 175378 | [175378-active-soccer.json](./175378-active-soccer.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | ActRaiser | 6468 | [6468-actraiser.json](./6468-actraiser.json) |
 | Actua Golf 3 | 34501 | [34501-actua-golf-3.json](./34501-actua-golf-3.json) |
@@ -2118,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatopia | 44601 | [44601-aquatopia.json](./44601-aquatopia.json) |
 | Aquavias | 96757 | [96757-aquavias.json](./96757-aquavias.json) |
 | Aquis | 293095 | [293095-aquis.json](./293095-aquis.json) |
+| Aqumana | 175376 | [175376-aqumana.json](./175376-aqumana.json) |
 | AR Darts | 55895 | [55895-ar-darts.json](./55895-ar-darts.json) |
 | AR Flappy | 232186 | [232186-ar-flappy.json](./232186-ar-flappy.json) |
 | AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
@@ -2813,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura's Wrath Episode 15.5 | 217921 | [217921-asuras-wrath-episode-15-5.json](./217921-asuras-wrath-episode-15-5.json) |
 | Asura's Wrath: Lost Episode 1 | 182447 | [182447-asuras-wrath-lost-episode-1.json](./182447-asuras-wrath-lost-episode-1.json) |
 | Asura's Wrath: Lost Episode 2 | 182448 | [182448-asuras-wrath-lost-episode-2.json](./182448-asuras-wrath-lost-episode-2.json) |
+| Asuria Awakens | 175390 | [175390-asuria-awakens.json](./175390-asuria-awakens.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
