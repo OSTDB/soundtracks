@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ki(n)ds | 27902 | [27902-ki-n-ds.json](./27902-ki-n-ds.json) |
 | Kiaidan 00 | 42011 | [42011-kiaidan-00.json](./42011-kiaidan-00.json) |
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
+| Kiara and the Case of the Missing Chocolates | 181844 | [181844-kiara-and-the-case-of-the-missing-chocolates.json](./181844-kiara-and-the-case-of-the-missing-chocolates.json) |
 | Kibble Cats | 410233 | [410233-kibble-cats.json](./410233-kibble-cats.json) |
 | Kiborg | 249998 | [249998-kiborg.json](./249998-kiborg.json) |
 | Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krila | 260943 | [260943-krila.json](./260943-krila.json) |
 | KrissX | 67327 | [67327-krissx.json](./67327-krissx.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
+| Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
 | Kromex | 400850 | [400850-kromex.json](./400850-kromex.json) |
 | Kromlech | 253588 | [253588-kromlech.json](./253588-kromlech.json) |
 | Kroniki Elevena | 236807 | [236807-kroniki-elevena.json](./236807-kroniki-elevena.json) |
