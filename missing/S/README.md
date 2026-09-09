@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Little Spider Kittens | 276175 | [276175-seven-little-spider-kittens.json](./276175-seven-little-spider-kittens.json) |
 | Seven Lovers in the House | 371912 | [371912-seven-lovers-in-the-house.json](./371912-seven-lovers-in-the-house.json) |
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
+| Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
 | Seven: The Days Long Gone | 18908 | [18908-seven-the-days-long-gone.json](./18908-seven-the-days-long-gone.json) |
@@ -2582,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Storm | 318774 | [318774-snow-storm.json](./318774-snow-storm.json) |
 | Snow Town - Ice Village World | 108477 | [108477-snow-town-ice-village-world.json](./108477-snow-town-ice-village-world.json) |
 | Snow White and the Seven Dwarfs | 77396 | [77396-snow-white-and-the-seven-dwarfs.json](./77396-snow-white-and-the-seven-dwarfs.json) |
+| Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
 | Snow! | 180771 | [180771-snow.json](./180771-snow.json) |
 | SnowBall Champions | 239632 | [239632-snowball-champions.json](./239632-snowball-champions.json) |
 | Snowball Fall Down | 208622 | [208622-snowball-fall-down.json](./208622-snowball-fall-down.json) |
@@ -4835,6 +4837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
+| Stuck? | 176967 | [176967-stuck.json](./176967-stuck.json) |
 | Student Council Leader Auriel | 247524 | [247524-student-council-leader-auriel.json](./247524-student-council-leader-auriel.json) |
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
@@ -5060,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
 | Summoners War: Chronicles - Adventure Starter Package | 274988 | [274988-summoners-war-chronicles-adventure-starter-package.json](./274988-summoners-war-chronicles-adventure-starter-package.json) |
 | Summoners War: Chronicles - Adventure Support Package | 274987 | [274987-summoners-war-chronicles-adventure-support-package.json](./274987-summoners-war-chronicles-adventure-support-package.json) |
+| Summoning Pixel Dungeon | 176998 | [176998-summoning-pixel-dungeon.json](./176998-summoning-pixel-dungeon.json) |
 | Summoning: Ouija Best Practices | 387358 | [387358-summoning-ouija-best-practices.json](./387358-summoning-ouija-best-practices.json) |
 | Summum | 181402 | [181402-summum.json](./181402-summum.json) |
 | Sumy Shelltris: Iceblocks 1 | 197388 | [197388-sumy-shelltris-iceblocks-1.json](./197388-sumy-shelltris-iceblocks-1.json) |
@@ -5207,6 +5211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dram World | 132857 | [132857-super-dram-world.json](./132857-super-dram-world.json) |
 | Super Dram World 2 | 132858 | [132858-super-dram-world-2.json](./132858-super-dram-world-2.json) |
 | Super Dream Dasher | 172189 | [172189-super-dream-dasher.json](./172189-super-dream-dasher.json) |
+| Super Drill Diver! | 176959 | [176959-super-drill-diver.json](./176959-super-drill-diver.json) |
 | Super Drill Panic | 398996 | [398996-super-drill-panic.json](./398996-super-drill-panic.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
@@ -5565,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Scope 15 | 271240 | [271240-super-scope-15.json](./271240-super-scope-15.json) |
 | Super Scoundrel Solitaire | 400868 | [400868-super-scoundrel-solitaire.json](./400868-super-scoundrel-solitaire.json) |
 | Super Screepy Underworld | 25740 | [25740-super-screepy-underworld.json](./25740-super-screepy-underworld.json) |
+| Super Sea Serpent Simulator | 176965 | [176965-super-sea-serpent-simulator.json](./176965-super-sea-serpent-simulator.json) |
 | Super Seals Float | 149594 | [149594-super-seals-float.json](./149594-super-seals-float.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
