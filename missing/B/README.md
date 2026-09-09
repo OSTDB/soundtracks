@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Blimp | 177054 | [177054-baby-blimp.json](./177054-baby-blimp.json) |
 | Baby Boomer | 48107 | [48107-baby-boomer.json](./48107-baby-boomer.json) |
 | Baby Escape | 400220 | [400220-baby-escape.json](./400220-baby-escape.json) |
+| Baby Ghost: Jump Away With Jewel | 175361 | [175361-baby-ghost-jump-away-with-jewel.json](./175361-baby-ghost-jump-away-with-jewel.json) |
 | Baby Killer | 117733 | [117733-baby-killer.json](./117733-baby-killer.json) |
 | Baby Lite A Line | 100171 | [100171-baby-lite-a-line.json](./100171-baby-lite-a-line.json) |
 | Baby Panda's Airport | 105968 | [105968-baby-pandas-airport.json](./105968-baby-pandas-airport.json) |
@@ -813,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
+| BBQ Eater | 175352 | [175352-bbq-eater.json](./175352-bbq-eater.json) |
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
 | Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
 | BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
@@ -864,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearstone Campsite | 346607 | [346607-bearstone-campsite.json](./346607-bearstone-campsite.json) |
 | Beast and Princess | 136469 | [136469-beast-and-princess.json](./136469-beast-and-princess.json) |
 | Beast and Princess: In Blossom | 136470 | [136470-beast-and-princess-in-blossom.json](./136470-beast-and-princess-in-blossom.json) |
+| Beast Boxing 3D | 175381 | [175381-beast-boxing-3d.json](./175381-beast-boxing-3d.json) |
 | Beast Boxing Turbo | 14837 | [14837-beast-boxing-turbo.json](./14837-beast-boxing-turbo.json) |
 | Beast Brawl | 338200 | [338200-beast-brawl.json](./338200-beast-brawl.json) |
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
@@ -1774,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockTanks | 324917 | [324917-blocktanks.json](./324917-blocktanks.json) |
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
+| Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
 | Blocky Dungeon | 203913 | [203913-blocky-dungeon.json](./203913-blocky-dungeon.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
@@ -1860,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
 | Bloody Aria | 322000 | [322000-bloody-aria.json](./322000-bloody-aria.json) |
+| Bloody Bunny: First Blood | 175386 | [175386-bloody-bunny-first-blood.json](./175386-bloody-bunny-first-blood.json) |
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
 | Bloody Faerie | 89948 | [89948-bloody-faerie.json](./89948-bloody-faerie.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
@@ -2828,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet'n Surf | 97359 | [97359-bulletn-surf.json](./97359-bulletn-surf.json) |
 | Bullet'n Tunes | 97358 | [97358-bulletn-tunes.json](./97358-bulletn-tunes.json) |
 | Bullet'n Wall | 97360 | [97360-bulletn-wall.json](./97360-bulletn-wall.json) |
+| Bullet'nTunes | 175342 | [175342-bulletntunes.json](./175342-bulletntunes.json) |
 | BulletHeart | 181910 | [181910-bulletheart.json](./181910-bulletheart.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
