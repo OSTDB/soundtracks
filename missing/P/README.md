@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5: Dancing in Starlight - Trish Costume V2 | 324711 | [324711-persona-5-dancing-in-starlight-trish-costume-v2.json](./324711-persona-5-dancing-in-starlight-trish-costume-v2.json) |
 | Persona 5: Dancing In Starlight - Wake Up, Get Up, Get Out There (OP ver.) | 324708 | [324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json](./324708-persona-5-dancing-in-starlight-wake-up-get-up-get-out-there-op-ver.json) |
 | Persona 5: Funkin' in Starlight | 327858 | [327858-persona-5-funkin-in-starlight.json](./327858-persona-5-funkin-in-starlight.json) |
+| Persona 5: Goro Akechi Dating Simulator | 179107 | [179107-persona-5-goro-akechi-dating-simulator.json](./179107-persona-5-goro-akechi-dating-simulator.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
 | Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
 | Personal Nightmare | 12194 | [12194-personal-nightmare.json](./12194-personal-nightmare.json) |
