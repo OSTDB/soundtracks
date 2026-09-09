@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
+| LazyTown Live! The Pirate Adventure | 199039 | [199039-lazytown-live-the-pirate-adventure.json](./199039-lazytown-live-the-pirate-adventure.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
 | LBX: Little Battlers eXperience | 11257 | [11257-lbx-little-battlers-experience.json](./11257-lbx-little-battlers-experience.json) |
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
