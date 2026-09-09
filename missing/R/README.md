@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recreational Warfare | 251182 | [251182-recreational-warfare.json](./251182-recreational-warfare.json) |
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
 | Rectangle Guy | 215905 | [215905-rectangle-guy.json](./215905-rectangle-guy.json) |
+| Rectitude | 173224 | [173224-rectitude.json](./173224-rectitude.json) |
 | Recur | 325277 | [325277-recur.json](./325277-recur.json) |
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
 | Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
 | Road to Fame | 367408 | [367408-road-to-fame.json](./367408-road-to-fame.json) |
 | Road to Mechalopolis | 413009 | [413009-road-to-mechalopolis.json](./413009-road-to-mechalopolis.json) |
+| Road to Morrow | 172669 | [172669-road-to-morrow.json](./172669-road-to-morrow.json) |
 | Road to Vostok | 217304 | [217304-road-to-vostok.json](./217304-road-to-vostok.json) |
 | Road Trip | 182553 | [182553-road-trip.json](./182553-road-trip.json) |
 | Road Trip | 202425 | [202425-road-trip.json](./202425-road-trip.json) |
