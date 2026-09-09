@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes! PreCure 5 GoGo!: LoveLove Hiragana Lesson | 327604 | [327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json](./327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json) |
 | Yes! PreCure 5: Asonde Oboeyou Hiragana! | 327605 | [327605-yes-precure-5-asonde-oboeyou-hiragana.json](./327605-yes-precure-5-asonde-oboeyou-hiragana.json) |
 | Yesterday | 7647 | [7647-yesterday.json](./7647-yesterday.json) |
+| Yesterday, the World Ended | 184052 | [184052-yesterday-the-world-ended.json](./184052-yesterday-the-world-ended.json) |
 | Yesterday's Nightmare | 274225 | [274225-yesterdays-nightmare.json](./274225-yesterdays-nightmare.json) |
 | Yesterdreamt | 216806 | [216806-yesterdreamt.json](./216806-yesterdreamt.json) |
 | YesterMorrow | 120533 | [120533-yestermorrow.json](./120533-yestermorrow.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
 | You Can Only Turn Left | 298849 | [298849-you-can-only-turn-left.json](./298849-you-can-only-turn-left.json) |
 | You Can Pet the Dog VR | 158704 | [158704-you-can-pet-the-dog-vr.json](./158704-you-can-pet-the-dog-vr.json) |
+| You Can Talk to People | 184072 | [184072-you-can-talk-to-people.json](./184072-you-can-talk-to-people.json) |
 | You Don't Know Jack: Jumbo | 205804 | [205804-you-dont-know-jack-jumbo.json](./205804-you-dont-know-jack-jumbo.json) |
 | You Don't Know Jack: The Irreverent Collection | 205803 | [205803-you-dont-know-jack-the-irreverent-collection.json](./205803-you-dont-know-jack-the-irreverent-collection.json) |
 | You Don't Know Jack: The NetShow | 391588 | [391588-you-dont-know-jack-the-netshow.json](./391588-you-dont-know-jack-the-netshow.json) |
