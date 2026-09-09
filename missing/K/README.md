@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira-kira Star Night exa | 206344 | [206344-kira-kira-star-night-exa.json](./206344-kira-kira-star-night-exa.json) |
 | Kira-kira Star Night Gold | 206342 | [206342-kira-kira-star-night-gold.json](./206342-kira-kira-star-night-gold.json) |
 | Kira-kira Star Night: Furusato Nouzei Fujimino-ban | 206343 | [206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json](./206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json) |
+| Kirakira Monstars | 182464 | [182464-kirakira-monstars.json](./182464-kirakira-monstars.json) |
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
 | Kirari Nangoku Komugiiro: Shiofuki Paradise he Youkoso! | 194584 | [194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json](./194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json) |
 | Kirarin Revolution: Atsumete Change! Qurukira Coord | 70417 | [70417-kirarin-revolution-atsumete-change-qurukira-coord.json](./70417-kirarin-revolution-atsumete-change-qurukira-coord.json) |
@@ -754,6 +755,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockbots | 212291 | [212291-knockbots.json](./212291-knockbots.json) |
 | Knockout 2: Wrath of the Karen | 244756 | [244756-knockout-2-wrath-of-the-karen.json](./244756-knockout-2-wrath-of-the-karen.json) |
 | Knockout City: Private Server Edition | 296669 | [296669-knockout-city-private-server-edition.json](./296669-knockout-city-private-server-edition.json) |
+| Knockout City: Season 3 - H@cked | 182499 | [182499-knockout-city-season-3-h-cked.json](./182499-knockout-city-season-3-h-cked.json) |
+| Knockout City: Season 4 - Alien Invaders | 182498 | [182498-knockout-city-season-4-alien-invaders.json](./182498-knockout-city-season-4-alien-invaders.json) |
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
 | Knot in 3D | 79303 | [79303-knot-in-3d.json](./79303-knot-in-3d.json) |
 | Know more Thai | 214754 | [214754-know-more-thai.json](./214754-know-more-thai.json) |
