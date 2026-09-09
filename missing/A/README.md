@@ -897,9 +897,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent USA | 12247 | [12247-agent-usa.json](./12247-agent-usa.json) |
 | Agent X | 23067 | [23067-agent-x.json](./23067-agent-x.json) |
 | Agents of Mayhem: Day One Edition | 52015 | [52015-agents-of-mayhem-day-one-edition.json](./52015-agents-of-mayhem-day-one-edition.json) |
+| Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
 | Agents of Shadow | 357803 | [357803-agents-of-shadow.json](./357803-agents-of-shadow.json) |
 | Agents of SomeCompany | 253374 | [253374-agents-of-somecompany.json](./253374-agents-of-somecompany.json) |
 | Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
+| Aggressor | 169956 | [169956-aggressor.json](./169956-aggressor.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
@@ -1739,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Cat | 212815 | [212815-angry-cat.json](./212815-angry-cat.json) |
 | Angry Cat | 379906 | [379906-angry-cat.json](./379906-angry-cat.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
+| Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
@@ -2777,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astrd | 173245 | [173245-astrd.json](./173245-astrd.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
+| Astria | 169971 | [169971-astria.json](./169971-astria.json) |
 | Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
 | Astrid | 207304 | [207304-astrid.json](./207304-astrid.json) |
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
