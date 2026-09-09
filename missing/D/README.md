@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
 | Deepfield | 211202 | [211202-deepfield.json](./211202-deepfield.json) |
 | Deepfried in Deepspace | 373541 | [373541-deepfried-in-deepspace.json](./373541-deepfried-in-deepspace.json) |
+| DeepFriedCraft, the Worst Modpack Ever | 205066 | [205066-deepfriedcraft-the-worst-modpack-ever.json](./205066-deepfriedcraft-the-worst-modpack-ever.json) |
 | Deephome | 66693 | [66693-deephome.json](./66693-deephome.json) |
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
@@ -2200,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Title | 295804 | [295804-dragon-title.json](./295804-dragon-title.json) |
 | Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
 | Dragon Tycoon Edge | 97321 | [97321-dragon-tycoon-edge.json](./97321-dragon-tycoon-edge.json) |
+| Dragon Up | 205060 | [205060-dragon-up.json](./205060-dragon-up.json) |
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
 | Dragon Valor | 27351 | [27351-dragon-valor.json](./27351-dragon-valor.json) |
 | Dragon Village Arena | 193988 | [193988-dragon-village-arena.json](./193988-dragon-village-arena.json) |
