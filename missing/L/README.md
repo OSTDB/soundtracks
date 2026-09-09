@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lift/Shift | 340918 | [340918-lift-shift.json](./340918-lift-shift.json) |
 | Lifting Unlimited | 302109 | [302109-lifting-unlimited.json](./302109-lifting-unlimited.json) |
+| Light 'em Up | 204495 | [204495-light-em-up.json](./204495-light-em-up.json) |
 | Light & Shadow | 226425 | [226425-light-and-shadow.json](./226425-light-and-shadow.json) |
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Gem Casino | 323158 | [323158-lucky-gem-casino.json](./323158-lucky-gem-casino.json) |
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
+| Lucky Luna | 204452 | [204452-lucky-luna.json](./204452-lucky-luna.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
 | Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
 | Lucky Pikinini: Zombie Rampage | 325870 | [325870-lucky-pikinini-zombie-rampage.json](./325870-lucky-pikinini-zombie-rampage.json) |
