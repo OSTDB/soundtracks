@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent Vector: Space Runner | 153431 | [153431-descent-vector-space-runner.json](./153431-descent-vector-space-runner.json) |
 | Descent X | 311474 | [311474-descent-x.json](./311474-descent-x.json) |
 | Descent: Levels of the World | 68718 | [68718-descent-levels-of-the-world.json](./68718-descent-levels-of-the-world.json) |
+| Descent: Road to Legend - Trials of Frostgate | 171576 | [171576-descent-road-to-legend-trials-of-frostgate.json](./171576-descent-road-to-legend-trials-of-frostgate.json) |
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
 | Desert Bus | 251590 | [251590-desert-bus.json](./251590-desert-bus.json) |
 | Desert Bus | 277307 | [277307-desert-bus.json](./277307-desert-bus.json) |
@@ -1616,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disquieted | 397663 | [397663-disquieted.json](./397663-disquieted.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
 | Disruptive Compassion | 364496 | [364496-disruptive-compassion.json](./364496-disruptive-compassion.json) |
+| Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
@@ -2045,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doon Snake | 87218 | [87218-doon-snake.json](./87218-doon-snake.json) |
 | Dooors VR | 29947 | [29947-dooors-vr.json](./29947-dooors-vr.json) |
 | Door | 103457 | [103457-door.json](./103457-door.json) |
+| Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doors | 168388 | [168388-doors.json](./168388-doors.json) |
 | Doors and Doors | 244498 | [244498-doors-and-doors.json](./244498-doors-and-doors.json) |
