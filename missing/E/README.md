@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Tethys | 103256 | [103256-escape-from-tethys.json](./103256-escape-from-tethys.json) |
 | Escape from the Abandoned Outpost | 273669 | [273669-escape-from-the-abandoned-outpost.json](./273669-escape-from-the-abandoned-outpost.json) |
 | Escape from the Cannibal Family | 301246 | [301246-escape-from-the-cannibal-family.json](./301246-escape-from-the-cannibal-family.json) |
+| Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
 | Escape from the Snow Lodge: Escape after Sex3 | 82959 | [82959-escape-from-the-snow-lodge-escape-after-sex3.json](./82959-escape-from-the-snow-lodge-escape-after-sex3.json) |
