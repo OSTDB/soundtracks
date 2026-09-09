@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Defense: Fortress TD | 344951 | [344951-galaxy-defense-fortress-td.json](./344951-galaxy-defense-fortress-td.json) |
 | Galaxy Express Chaldea | 339113 | [339113-galaxy-express-chaldea.json](./339113-galaxy-express-chaldea.json) |
 | Galaxy Game | 11396 | [11396-galaxy-game.json](./11396-galaxy-game.json) |
+| Galaxy Genome | 174279 | [174279-galaxy-genome.json](./174279-galaxy-genome.json) |
 | Galaxy Hero H2H | 233207 | [233207-galaxy-hero-h2h.json](./233207-galaxy-hero-h2h.json) |
 | Galaxy Hordes | 258978 | [258978-galaxy-hordes.json](./258978-galaxy-hordes.json) |
 | Galaxy Hunter: Into the Portal | 137639 | [137639-galaxy-hunter-into-the-portal.json](./137639-galaxy-hunter-into-the-portal.json) |
