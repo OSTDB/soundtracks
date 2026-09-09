@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Genesis III | 76613 | [76613-war-of-genesis-iii.json](./76613-war-of-genesis-iii.json) |
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
+| War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
 | War of the Ring | 356066 | [356066-war-of-the-ring.json](./356066-war-of-the-ring.json) |
@@ -650,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Are They? | 300688 | [300688-where-are-they.json](./300688-where-are-they.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
+| Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
 | Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
 | Where in Time is Carmen Sandiego? | 4376 | [4376-where-in-time-is-carmen-sandiego.json](./4376-where-in-time-is-carmen-sandiego.json) |
 | Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
@@ -981,6 +983,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
 | Winter X-Games Snowboarding 2002 | 47303 | [47303-winter-x-games-snowboarding-2002.json](./47303-winter-x-games-snowboarding-2002.json) |
 | Winter-Over | 352163 | [352163-winter-over.json](./352163-winter-over.json) |
+| Winter, 2001: Someone tell Luigi I love him | 177485 | [177485-winter-2001-someone-tell-luigi-i-love-him.json](./177485-winter-2001-someone-tell-luigi-i-love-him.json) |
+| Winter's Fall | 177488 | [177488-winters-fall.json](./177488-winters-fall.json) |
 | Winter's Fury | 196250 | [196250-winters-fury.json](./196250-winters-fury.json) |
 | Winter's Tail: How One Little Dolphin Learned to Swim Again | 63866 | [63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json](./63866-winters-tail-how-one-little-dolphin-learned-to-swim-again.json) |
 | Winterfall | 308238 | [308238-winterfall.json](./308238-winterfall.json) |
