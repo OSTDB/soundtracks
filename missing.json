@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T21:47:56.427Z",
-  "total_missing": 51930,
+  "generated_at": "2026-09-09T21:51:01.753Z",
+  "total_missing": 51929,
   "games": [
     {
       "igdb_id": 306086,
@@ -1086,11 +1086,6 @@
       "igdb_id": 75139,
       "game_name": "300 Heroes",
       "file": "missing/0-9/75139-300-heroes.json"
-    },
-    {
-      "igdb_id": 122027,
-      "game_name": "3000th Duel",
-      "file": "missing/0-9/122027-3000th-duel.json"
     },
     {
       "igdb_id": 273918,
