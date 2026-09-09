@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
 | DEM_Stage_Zero | 127369 | [127369-dem-stage-zero.json](./127369-dem-stage-zero.json) |
+| Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
 | Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
+| Dickme Dicki | 202353 | [202353-dickme-dicki.json](./202353-dickme-dicki.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
@@ -2354,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Wave'84 | 379870 | [379870-dream-wave84.json](./379870-dream-wave84.json) |
 | Dreamboat | 295806 | [295806-dreamboat.json](./295806-dreamboat.json) |
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
+| DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
@@ -2496,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drums Rock: Pantera x Disturbed Music Pack | 306949 | [306949-drums-rock-pantera-x-disturbed-music-pack.json](./306949-drums-rock-pantera-x-disturbed-music-pack.json) |
 | Drums Rock: The Proclaimers - 'I'm Gonna Be (500 Miles)' | 310377 | [310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json](./310377-drums-rock-the-proclaimers-im-gonna-be-500-miles.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
+| Drunk As I Like: Gensokyo Chugging Contest | 202334 | [202334-drunk-as-i-like-gensokyo-chugging-contest.json](./202334-drunk-as-i-like-gensokyo-chugging-contest.json) |
 | Drunk but Not Wasted Knight | 363398 | [363398-drunk-but-not-wasted-knight.json](./363398-drunk-but-not-wasted-knight.json) |
 | Drunk Fist | 180817 | [180817-drunk-fist.json](./180817-drunk-fist.json) |
 | Drunk Mages | 390001 | [390001-drunk-mages.json](./390001-drunk-mages.json) |
@@ -2509,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Wolf | 358880 | [358880-drunken-wolf.json](./358880-drunken-wolf.json) |
 | Drunkonauts | 375201 | [375201-drunkonauts.json](./375201-drunkonauts.json) |
 | Druonio | 177013 | [177013-druonio.json](./177013-druonio.json) |
+| Dry | 202356 | [202356-dry.json](./202356-dry.json) |
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Chiri, Rekishi, Koumin: Maru x Maru Shakai-ka | 269576 | [269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json](./269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan | 269578 | [269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json](./269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json) |
