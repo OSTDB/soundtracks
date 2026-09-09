@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T13:33:48.164Z",
-  "total_missing": 50642,
+  "generated_at": "2026-09-09T13:41:11.084Z",
+  "total_missing": 50641,
   "games": [
     {
       "igdb_id": 306086,
@@ -826,11 +826,6 @@
       "igdb_id": 280751,
       "game_name": "20 Words // 20 Seconds",
       "file": "missing/0-9/280751-20-words-20-seconds.json"
-    },
-    {
-      "igdb_id": 325822,
-      "game_name": "2000s Rock Legends: Music Pack",
-      "file": "missing/0-9/325822-2000s-rock-legends-music-pack.json"
     },
     {
       "igdb_id": 70419,
