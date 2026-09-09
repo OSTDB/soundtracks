@@ -5137,6 +5137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf Hero | 37776 | [37776-turf-hero.json](./37776-turf-hero.json) |
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
+| Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
 | Turma da Mônica em O Resgate | 246679 | [246679-turma-da-monica-em-o-resgate.json](./246679-turma-da-monica-em-o-resgate.json) |
