@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odens öga | 304035 | [304035-odens-oga.json](./304035-odens-oga.json) |
 | Odysseus Kosmos and his Robot Quest | 65838 | [65838-odysseus-kosmos-and-his-robot-quest.json](./65838-odysseus-kosmos-and-his-robot-quest.json) |
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
+| Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
 | Odyssey: Realm of Echoes | 341499 | [341499-odyssey-realm-of-echoes.json](./341499-odyssey-realm-of-echoes.json) |
 | Oedo Trigger VR!! | 263229 | [263229-oedo-trigger-vr.json](./263229-oedo-trigger-vr.json) |
 | Oedo Trigger!! | 235735 | [235735-oedo-trigger.json](./235735-oedo-trigger.json) |
