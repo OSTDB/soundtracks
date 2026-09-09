@@ -521,6 +521,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Strike: Complete Edition | 238181 | [238181-one-strike-complete-edition.json](./238181-one-strike-complete-edition.json) |
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
+| One Thousand and One Days | 182969 | [182969-one-thousand-and-one-days.json](./182969-one-thousand-and-one-days.json) |
+| One to Three: Sovereignty | 182998 | [182998-one-to-three-sovereignty.json](./182998-one-to-three-sovereignty.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One Vacancy | 184039 | [184039-one-vacancy.json](./184039-one-vacancy.json) |
@@ -706,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
+| Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
 | Orb Of The Watcher | 285969 | [285969-orb-of-the-watcher.json](./285969-orb-of-the-watcher.json) |
 | Orb's Betrayal | 271732 | [271732-orbs-betrayal.json](./271732-orbs-betrayal.json) |
 | Orbatak | 217881 | [217881-orbatak.json](./217881-orbatak.json) |
