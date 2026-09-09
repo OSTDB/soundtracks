@@ -2223,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Most Searched Playground: Paris 2024 | 311458 | [311458-the-most-searched-playground-paris-2024.json](./311458-the-most-searched-playground-paris-2024.json) |
 | The Most Terrible Time of the Year | 318418 | [318418-the-most-terrible-time-of-the-year.json](./318418-the-most-terrible-time-of-the-year.json) |
 | The Mother Deer | 330544 | [330544-the-mother-deer.json](./330544-the-mother-deer.json) |
+| The Mourne's | 207338 | [207338-the-mournes.json](./207338-the-mournes.json) |
 | The Mulldoon Legacy | 60025 | [60025-the-mulldoon-legacy.json](./60025-the-mulldoon-legacy.json) |
 | The Mulldoon Murders | 60029 | [60029-the-mulldoon-murders.json](./60029-the-mulldoon-murders.json) |
 | The Multi-Medium | 216996 | [216996-the-multi-medium.json](./216996-the-multi-medium.json) |
@@ -2459,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
+| The Riflemen | 207311 | [207311-the-riflemen.json](./207311-the-riflemen.json) |
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
@@ -2965,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
+| The Wasted Knight | 207325 | [207325-the-wasted-knight.json](./207325-the-wasted-knight.json) |
 | The Watcher | 238515 | [238515-the-watcher.json](./238515-the-watcher.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
