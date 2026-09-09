@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
 | ShootOut | 411615 | [411615-shootout.json](./411615-shootout.json) |
 | ShootX | 343260 | [343260-shootx.json](./343260-shootx.json) |
+| Shooty and the Catfish: Episode 1 | 181838 | [181838-shooty-and-the-catfish-episode-1.json](./181838-shooty-and-the-catfish-episode-1.json) |
 | Shooty and the Catfish: Episode 2 | 181936 | [181936-shooty-and-the-catfish-episode-2.json](./181936-shooty-and-the-catfish-episode-2.json) |
 | Shooty Ballz | 184656 | [184656-shooty-ballz.json](./184656-shooty-ballz.json) |
 | Shooty Skies Overdrive | 137654 | [137654-shooty-skies-overdrive.json](./137654-shooty-skies-overdrive.json) |
@@ -2058,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Island: Rise of Kong - Colossal Pack | 272584 | [272584-skull-island-rise-of-kong-colossal-pack.json](./272584-skull-island-rise-of-kong-colossal-pack.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
+| Skullhammer | 181862 | [181862-skullhammer.json](./181862-skullhammer.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
@@ -4923,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sue Shi Survival | 219584 | [219584-sue-shi-survival.json](./219584-sue-shi-survival.json) |
+| Suez Canal Bulldozer | 181865 | [181865-suez-canal-bulldozer.json](./181865-suez-canal-bulldozer.json) |
 | Suffer | 110650 | [110650-suffer.json](./110650-suffer.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
 | Sugar Bear | 255121 | [255121-sugar-bear.json](./255121-sugar-bear.json) |
@@ -5096,6 +5099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
 | Super Big Bro Quest | 321775 | [321775-super-big-bro-quest.json](./321775-super-big-bro-quest.json) |
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
+| Super Bitsy Land | 181866 | [181866-super-bitsy-land.json](./181866-super-bitsy-land.json) |
 | Super Black Onyx | 48704 | [48704-super-black-onyx.json](./48704-super-black-onyx.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
@@ -5786,6 +5790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Battle Rambunctiously | 267685 | [267685-sushi-battle-rambunctiously.json](./267685-sushi-battle-rambunctiously.json) |
 | Sushi Cat | 87214 | [87214-sushi-cat.json](./87214-sushi-cat.json) |
 | Sushi Catapult | 320746 | [320746-sushi-catapult.json](./320746-sushi-catapult.json) |
+| Sushi Gun | 181867 | [181867-sushi-gun.json](./181867-sushi-gun.json) |
 | Sushi Soul Universe | 264026 | [264026-sushi-soul-universe.json](./264026-sushi-soul-universe.json) |
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
