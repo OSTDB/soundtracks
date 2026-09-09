@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopie | 204723 | [204723-octopie.json](./204723-octopie.json) |
 | Octopus | 287659 | [287659-octopus.json](./287659-octopus.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
+| Octopus Evolution | 206733 | [206733-octopus-evolution.json](./206733-octopus-evolution.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
 | OD: Knock | 279637 | [279637-od-knock.json](./279637-od-knock.json) |
