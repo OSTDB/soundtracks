@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
 | Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
+| Abyss Walker | 193972 | [193972-abyss-walker.json](./193972-abyss-walker.json) |
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
 | Abyss: Backrooms Pools Horror VR | 376472 | [376472-abyss-backrooms-pools-horror-vr.json](./376472-abyss-backrooms-pools-horror-vr.json) |
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Mahjong | 29871 | [29871-action-mahjong.json](./29871-action-mahjong.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Replay Max | 43302 | [43302-action-replay-max.json](./43302-action-replay-max.json) |
+| Action Toys | 193953 | [193953-action-toys.json](./193953-action-toys.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Actionloop Twist | 23044 | [23044-actionloop-twist.json](./23044-actionloop-twist.json) |
 | Active Arcade | 382223 | [382223-active-arcade.json](./382223-active-arcade.json) |
@@ -801,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Ashes: Dark Nuns | 349849 | [349849-age-of-ashes-dark-nuns.json](./349849-age-of-ashes-dark-nuns.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
+| Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
@@ -2184,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Saga Online | 63304 | [63304-arcane-saga-online.json](./63304-arcane-saga-online.json) |
 | Arcane Shores | 343800 | [343800-arcane-shores.json](./343800-arcane-shores.json) |
 | Arcane Sorcery | 34548 | [34548-arcane-sorcery.json](./34548-arcane-sorcery.json) |
+| Arcane Soul | 193966 | [193966-arcane-soul.json](./193966-arcane-soul.json) |
 | Arcane TD | 307297 | [307297-arcane-td.json](./307297-arcane-td.json) |
 | Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
 | Arcane Tower Survivors | 342641 | [342641-arcane-tower-survivors.json](./342641-arcane-tower-survivors.json) |
@@ -2293,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria | 192416 | [192416-aria.json](./192416-aria.json) |
 | Aria and The Ancient Artifacts | 314053 | [314053-aria-and-the-ancient-artifacts.json](./314053-aria-and-the-ancient-artifacts.json) |
 | Aria Dating Simulator | 385049 | [385049-aria-dating-simulator.json](./385049-aria-dating-simulator.json) |
+| Aria of God Killing | 193977 | [193977-aria-of-god-killing.json](./193977-aria-of-god-killing.json) |
 | ARia's Legacy | 102795 | [102795-arias-legacy.json](./102795-arias-legacy.json) |
 | Ariadne's Tale | 402895 | [402895-ariadnes-tale.json](./402895-ariadnes-tale.json) |
 | Ariane in Paradise | 255099 | [255099-ariane-in-paradise.json](./255099-ariane-in-paradise.json) |
@@ -2343,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
 | Armed Against the Undead | 32898 | [32898-armed-against-the-undead.json](./32898-armed-against-the-undead.json) |
+| Armed Air Forces | 193945 | [193945-armed-air-forces.json](./193945-armed-air-forces.json) |
 | Armed and Armoured | 190747 | [190747-armed-and-armoured.json](./190747-armed-and-armoured.json) |
 | Armed Animals RPG | 365060 | [365060-armed-animals-rpg.json](./365060-armed-animals-rpg.json) |
 | Armed Forces Corp: Mercenaries | 123059 | [123059-armed-forces-corp-mercenaries.json](./123059-armed-forces-corp-mercenaries.json) |
