@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Solitaire Pro | 88299 | [88299-golf-solitaire-pro.json](./88299-golf-solitaire-pro.json) |
 | Golf Solitaire Simple | 186246 | [186246-golf-solitaire-simple.json](./186246-golf-solitaire-simple.json) |
 | Golf Star | 259554 | [259554-golf-star.json](./259554-golf-star.json) |
+| Golf Sunday | 180773 | [180773-golf-sunday.json](./180773-golf-sunday.json) |
 | Golf Up Tropical | 337990 | [337990-golf-up-tropical.json](./337990-golf-up-tropical.json) |
 | Golf With Your Friends 2 | 325850 | [325850-golf-with-your-friends-2.json](./325850-golf-with-your-friends-2.json) |
 | Golf With Your Friends: Critical Hit Pack | 298594 | [298594-golf-with-your-friends-critical-hit-pack.json](./298594-golf-with-your-friends-critical-hit-pack.json) |
@@ -1190,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab it! Crane Game | 334095 | [334095-grab-it-crane-game.json](./334095-grab-it-crane-game.json) |
 | Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
+| Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
