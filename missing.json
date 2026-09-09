@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T04:21:03.933Z",
-  "total_missing": 49203,
+  "generated_at": "2026-09-09T04:31:07.856Z",
+  "total_missing": 49206,
   "games": [
     {
       "igdb_id": 306086,
@@ -531,11 +531,6 @@
       "igdb_id": 98416,
       "game_name": "13 Letters",
       "file": "missing/0-9/98416-13-letters.json"
-    },
-    {
-      "igdb_id": 98413,
-      "game_name": "13 Minutes of Light",
-      "file": "missing/0-9/98413-13-minutes-of-light.json"
     },
     {
       "igdb_id": 201304,
@@ -57168,9 +57163,29 @@
       "file": "missing/D/132823-doom-ii-final-doom.json"
     },
     {
+      "igdb_id": 202834,
+      "game_name": "Doom II: 'D'-Radys Companion Mod",
+      "file": "missing/D/202834-doom-ii-d-radys-companion-mod.json"
+    },
+    {
+      "igdb_id": 202832,
+      "game_name": "Doom II: Companions Pack by NB001",
+      "file": "missing/D/202832-doom-ii-companions-pack-by-nb001.json"
+    },
+    {
+      "igdb_id": 202833,
+      "game_name": "Doom II: Deltarune Companions - Susie and Ralsei",
+      "file": "missing/D/202833-doom-ii-deltarune-companions-susie-and-ralsei.json"
+    },
+    {
       "igdb_id": 140048,
       "game_name": "Doom II: Japanese Community Project",
       "file": "missing/D/140048-doom-ii-japanese-community-project.json"
+    },
+    {
+      "igdb_id": 202835,
+      "game_name": "Doom II: Onna Shinkan Companion",
+      "file": "missing/D/202835-doom-ii-onna-shinkan-companion.json"
     },
     {
       "igdb_id": 256817,
