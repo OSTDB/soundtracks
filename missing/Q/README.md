@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q.u.q. | 238527 | [238527-q-u-q.json](./238527-q-u-q.json) |
 | Q*bert | 218444 | [218444-q-bert.json](./218444-q-bert.json) |
 | QAD: Quintessential Art of Destruction | 72102 | [72102-qad-quintessential-art-of-destruction.json](./72102-qad-quintessential-art-of-destruction.json) |
+| QamaQ | 178575 | [178575-qamaq.json](./178575-qamaq.json) |
 | Qanga | 97909 | [97909-qanga.json](./97909-qanga.json) |
 | Qasir al-Wasat: International Edition | 36327 | [36327-qasir-al-wasat-international-edition.json](./36327-qasir-al-wasat-international-edition.json) |
 | QB Planets | 150686 | [150686-qb-planets.json](./150686-qb-planets.json) |
