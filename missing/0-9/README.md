@@ -133,7 +133,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 17 Fighters | 183562 | [183562-17-fighters.json](./183562-17-fighters.json) |
 | 18 Wheels of Steel: American Long Haul | 11427 | [11427-18-wheels-of-steel-american-long-haul.json](./11427-18-wheels-of-steel-american-long-haul.json) |
 | 18 Wheels of Steel: Extreme Trucker 2 | 11429 | [11429-18-wheels-of-steel-extreme-trucker-2.json](./11429-18-wheels-of-steel-extreme-trucker-2.json) |
-| 18 Wheels of Steel: Haulin' | 31697 | [31697-18-wheels-of-steel-haulin.json](./31697-18-wheels-of-steel-haulin.json) |
 | 18+ | 219040 | [219040-18.json](./219040-18.json) |
 | 180 Darts | 45322 | [45322-180-darts.json](./45322-180-darts.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
