@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xolo & the Forgotten Gods | 350414 | [350414-xolo-and-the-forgotten-gods.json](./350414-xolo-and-the-forgotten-gods.json) |
 | Xolotl | 195762 | [195762-xolotl.json](./195762-xolotl.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
+| Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
 | Xplode Man | 313495 | [313495-xplode-man.json](./313495-xplode-man.json) |
