@@ -175,7 +175,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
-| 202 Game Collection | 206119 | [206119-202-game-collection.json](./206119-202-game-collection.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
 | 2045: Wasteland Rebuild | 194028 | [194028-2045-wasteland-rebuild.json](./194028-2045-wasteland-rebuild.json) |
 | 2047 CCG | 205587 | [205587-2047-ccg.json](./205587-2047-ccg.json) |
