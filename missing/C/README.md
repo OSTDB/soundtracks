@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
 | Catherine | 2151 | [2151-catherine.json](./2151-catherine.json) |
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
+| Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
 | CatMxn: Chapter 1 | 196788 | [196788-catmxn-chapter-1.json](./196788-catmxn-chapter-1.json) |
@@ -824,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerberus Corporation: Red Room | 335246 | [335246-cerberus-corporation-red-room.json](./335246-cerberus-corporation-red-room.json) |
 | Ceremonial Speedmaps | 271193 | [271193-ceremonial-speedmaps.json](./271193-ceremonial-speedmaps.json) |
 | Ceremony of Innocence | 72092 | [72092-ceremony-of-innocence.json](./72092-ceremony-of-innocence.json) |
+| Ceres M | 193938 | [193938-ceres-m.json](./193938-ceres-m.json) |
 | Ceress and Orea | 96651 | [96651-ceress-and-orea.json](./96651-ceress-and-orea.json) |
 | Certain Death | 311466 | [311466-certain-death.json](./311466-certain-death.json) |
 | Cerulean Days | 258996 | [258996-cerulean-days.json](./258996-cerulean-days.json) |
@@ -2134,6 +2136,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
 | Cookie Run: OvenBreak | 78951 | [78951-cookie-run-ovenbreak.json](./78951-cookie-run-ovenbreak.json) |
+| Cookie Run: OvenSmash | 193973 | [193973-cookie-run-ovensmash.json](./193973-cookie-run-ovensmash.json) |
+| Cookie Run: Witch's Castle | 193964 | [193964-cookie-run-witchs-castle.json](./193964-cookie-run-witchs-castle.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
@@ -2878,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
 | Cube Chase | 129202 | [129202-cube-chase.json](./129202-cube-chase.json) |
+| Cube Crawler | 193939 | [193939-cube-crawler.json](./193939-cube-crawler.json) |
 | Cube Crawler | 328260 | [328260-cube-crawler.json](./328260-cube-crawler.json) |
 | Cube Creatures | 51988 | [51988-cube-creatures.json](./51988-cube-creatures.json) |
 | Cube Crusaders | 265676 | [265676-cube-crusaders.json](./265676-cube-crusaders.json) |
