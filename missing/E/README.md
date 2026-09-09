@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
 | Eko | 223673 | [223673-eko.json](./223673-eko.json) |
+| Ekoh Beach | 189109 | [189109-ekoh-beach.json](./189109-ekoh-beach.json) |
 | El Capitán Trueno | 100184 | [100184-el-capitan-trueno.json](./100184-el-capitan-trueno.json) |
 | El Chavo | 331122 | [331122-el-chavo.json](./331122-el-chavo.json) |
 | El Chavo | 79918 | [79918-el-chavo.json](./79918-el-chavo.json) |
@@ -1047,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
+| Everdine: A Lost Girl's Tale | 189142 | [189142-everdine-a-lost-girls-tale.json](./189142-everdine-a-lost-girls-tale.json) |
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
 | Everest | 95437 | [95437-everest.json](./95437-everest.json) |
 | Everest Truck Simulator | 367981 | [367981-everest-truck-simulator.json](./367981-everest-truck-simulator.json) |
