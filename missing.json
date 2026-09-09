@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T00:21:00.125Z",
-  "total_missing": 48638,
+  "generated_at": "2026-09-09T00:31:00.493Z",
+  "total_missing": 48640,
   "games": [
     {
       "igdb_id": 306086,
@@ -411,11 +411,6 @@
       "igdb_id": 98429,
       "game_name": "1001-Kai-me no Aoi Tsuki",
       "file": "missing/0-9/98429-1001-kai-me-no-aoi-tsuki.json"
-    },
-    {
-      "igdb_id": 233780,
-      "game_name": "100th Anniversary of the Crossword Puzzle",
-      "file": "missing/0-9/233780-100th-anniversary-of-the-crossword-puzzle.json"
     },
     {
       "igdb_id": 400875,
@@ -57498,6 +57493,11 @@
       "file": "missing/D/304865-drag-and-drop-medieval.json"
     },
     {
+      "igdb_id": 208981,
+      "game_name": "Drag Fight",
+      "file": "missing/D/208981-drag-fight.json"
+    },
+    {
       "igdb_id": 215113,
       "game_name": "Drag Journey",
       "file": "missing/D/215113-drag-journey.json"
@@ -58376,6 +58376,11 @@
       "igdb_id": 342621,
       "game_name": "Drasle Family: Pochi & Bochi",
       "file": "missing/D/342621-drasle-family-pochi-and-bochi.json"
+    },
+    {
+      "igdb_id": 208980,
+      "game_name": "Draw 2 Save: Stickman Puzzle",
+      "file": "missing/D/208980-draw-2-save-stickman-puzzle.json"
     },
     {
       "igdb_id": 250361,
@@ -88161,6 +88166,11 @@
       "igdb_id": 312034,
       "game_name": "Happy Bird",
       "file": "missing/H/312034-happy-bird.json"
+    },
+    {
+      "igdb_id": 208982,
+      "game_name": "Happy Brain Puzzle",
+      "file": "missing/H/208982-happy-brain-puzzle.json"
     },
     {
       "igdb_id": 209603,
