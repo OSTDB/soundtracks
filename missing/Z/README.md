@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Attack: Zombies Survival Shooter | 317235 | [317235-zombie-attack-zombies-survival-shooter.json](./317235-zombie-attack-zombies-survival-shooter.json) |
 | Zombie Ballz | 29709 | [29709-zombie-ballz.json](./29709-zombie-ballz.json) |
 | Zombie Bar Simulator VR | 300718 | [300718-zombie-bar-simulator-vr.json](./300718-zombie-bar-simulator-vr.json) |
+| Zombie Beyond Terror: FPS Survival | 196829 | [196829-zombie-beyond-terror-fps-survival.json](./196829-zombie-beyond-terror-fps-survival.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
 | Zombie Dead Smasher Shooter: Premium Edition | 283163 | [283163-zombie-dead-smasher-shooter-premium-edition.json](./283163-zombie-dead-smasher-shooter-premium-edition.json) |
