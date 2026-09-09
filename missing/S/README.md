@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
+| Sentinels of the Multiverse: Vengeance | 169969 | [169969-sentinels-of-the-multiverse-vengeance.json](./169969-sentinels-of-the-multiverse-vengeance.json) |
 | Sentou Gakuen: Revival | 34388 | [34388-sentou-gakuen-revival.json](./34388-sentou-gakuen-revival.json) |
 | Sentree | 18281 | [18281-sentree.json](./18281-sentree.json) |
 | Sentry | 218164 | [218164-sentry.json](./218164-sentry.json) |
@@ -4153,6 +4154,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
 | Star Stone Splash | 274491 | [274491-star-stone-splash.json](./274491-star-stone-splash.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
+| Star Tactics Redux | 169965 | [169965-star-tactics-redux.json](./169965-star-tactics-redux.json) |
+| Star Tactics Redux: Expeditions | 169952 | [169952-star-tactics-redux-expeditions.json](./169952-star-tactics-redux-expeditions.json) |
 | Star Tank | 169457 | [169457-star-tank.json](./169457-star-tank.json) |
 | Star Tower | 373537 | [373537-star-tower.json](./373537-star-tower.json) |
 | Star Trek | 247203 | [247203-star-trek.json](./247203-star-trek.json) |
@@ -4487,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
 | Steel Soul | 294133 | [294133-steel-soul.json](./294133-steel-soul.json) |
 | Steel Storm: Burning Retribution | 16243 | [16243-steel-storm-burning-retribution.json](./16243-steel-storm-burning-retribution.json) |
+| Steel Storm: Forgotten Prison | 169961 | [169961-steel-storm-forgotten-prison.json](./169961-steel-storm-forgotten-prison.json) |
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
