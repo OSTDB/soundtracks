@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeah Bunny 2 | 337091 | [337091-yeah-bunny-2.json](./337091-yeah-bunny-2.json) |
 | Yeah! Fighting Girl | 216804 | [216804-yeah-fighting-girl.json](./216804-yeah-fighting-girl.json) |
 | Year 500 | 248046 | [248046-year-500.json](./248046-year-500.json) |
+| Yeardle | 200664 | [200664-yeardle.json](./200664-yeardle.json) |
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
 | Yello Adventures | 242571 | [242571-yello-adventures.json](./242571-yello-adventures.json) |
