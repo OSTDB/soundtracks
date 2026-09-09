@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle X Death | 223690 | [223690-battle-x-death.json](./223690-battle-x-death.json) |
 | Battle XXL | 208595 | [208595-battle-xxl.json](./208595-battle-xxl.json) |
 | Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
+| Battle Zone: Clicker | 183521 | [183521-battle-zone-clicker.json](./183521-battle-zone-clicker.json) |
 | Battle-X | 256305 | [256305-battle-x.json](./256305-battle-x.json) |
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
 | Battleborn: Attikus and the Thrall Rebellion | 25040 | [25040-battleborn-attikus-and-the-thrall-rebellion.json](./25040-battleborn-attikus-and-the-thrall-rebellion.json) |
@@ -2300,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Legends of the Ring | 38366 | [38366-boxing-legends-of-the-ring.json](./38366-boxing-legends-of-the-ring.json) |
 | Boxing Saga | 31364 | [31364-boxing-saga.json](./31364-boxing-saga.json) |
 | Boxing School | 110119 | [110119-boxing-school.json](./110119-boxing-school.json) |
+| Boxing Surgery Simulator 2000 | 183515 | [183515-boxing-surgery-simulator-2000.json](./183515-boxing-surgery-simulator-2000.json) |
 | BoxLoop | 207542 | [207542-boxloop.json](./207542-boxloop.json) |
 | Boxman Adventures | 203896 | [203896-boxman-adventures.json](./203896-boxman-adventures.json) |
 | BoxRunner | 107901 | [107901-boxrunner.json](./107901-boxrunner.json) |
@@ -2462,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
+| Breaktory | 183552 | [183552-breaktory.json](./183552-breaktory.json) |
 | Breakup Squad | 243103 | [243103-breakup-squad.json](./243103-breakup-squad.json) |
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
@@ -2940,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
 | Butterfly Bundle | 218489 | [218489-butterfly-bundle.json](./218489-butterfly-bundle.json) |
+| Butterfly Collector | 183536 | [183536-butterfly-collector.json](./183536-butterfly-collector.json) |
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
