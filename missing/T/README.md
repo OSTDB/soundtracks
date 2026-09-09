@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tebeo | 215147 | [215147-tebeo.json](./215147-tebeo.json) |
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
+| Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
@@ -781,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
 | TetraLogical | 115531 | [115531-tetralogical.json](./115531-tetralogical.json) |
 | Tetraminis Deffect | 284352 | [284352-tetraminis-deffect.json](./284352-tetraminis-deffect.json) |
+| TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
 | Tetris | 180279 | [180279-tetris.json](./180279-tetris.json) |
@@ -876,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 4th Unit 3 - Dual Targets | 78726 | [78726-the-4th-unit-3-dual-targets.json](./78726-the-4th-unit-3-dual-targets.json) |
 | The 64 kb challenge: Limitless | 260140 | [260140-the-64-kb-challenge-limitless.json](./260140-the-64-kb-challenge-limitless.json) |
 | The 64 kb challenge: Vanilla | 260139 | [260139-the-64-kb-challenge-vanilla.json](./260139-the-64-kb-challenge-vanilla.json) |
+| The 7 Cents Deal | 183558 | [183558-the-7-cents-deal.json](./183558-the-7-cents-deal.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
 | The 8th Day | 106605 | [106605-the-8th-day.json](./106605-the-8th-day.json) |
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
@@ -1440,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeons of Castle Madness | 22403 | [22403-the-dungeons-of-castle-madness.json](./22403-the-dungeons-of-castle-madness.json) |
 | The Durka: You will (not) die | 154010 | [154010-the-durka-you-will-not-die.json](./154010-the-durka-you-will-not-die.json) |
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
+| The Dust Below | 183542 | [183542-the-dust-below.json](./183542-the-dust-below.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
@@ -2672,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
 | The Shedding | 114372 | [114372-the-shedding.json](./114372-the-shedding.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
+| The Shiny Ones | 183547 | [183547-the-shiny-ones.json](./183547-the-shiny-ones.json) |
 | The Ship: Murder Party | 5922 | [5922-the-ship-murder-party.json](./5922-the-ship-murder-party.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
 | The Show is Over It | 272577 | [272577-the-show-is-over-it.json](./272577-the-show-is-over-it.json) |
