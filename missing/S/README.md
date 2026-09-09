@@ -3272,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
 | Space Ops Arcade | 285480 | [285480-space-ops-arcade.json](./285480-space-ops-arcade.json) |
+| Space Out | 195166 | [195166-space-out.json](./195166-space-out.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
 | Space Pilgrim Academy: Year 2 | 95596 | [95596-space-pilgrim-academy-year-2.json](./95596-space-pilgrim-academy-year-2.json) |
 | Space Pilgrim Academy: Year 3 | 109399 | [109399-space-pilgrim-academy-year-3.json](./109399-space-pilgrim-academy-year-3.json) |
@@ -5107,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kobushi de Naguru Chan | 218123 | [218123-super-kobushi-de-naguru-chan.json](./218123-super-kobushi-de-naguru-chan.json) |
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
 | Super Laura Up | 276163 | [276163-super-laura-up.json](./276163-super-laura-up.json) |
+| Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
