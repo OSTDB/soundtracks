@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T21:18:40.931Z",
-  "total_missing": 51832,
+  "generated_at": "2026-09-09T21:21:01.067Z",
+  "total_missing": 51831,
   "games": [
     {
       "igdb_id": 306086,
@@ -1071,11 +1071,6 @@
       "igdb_id": 318976,
       "game_name": "3:33 A.M.",
       "file": "missing/0-9/318976-3-33-a-m.json"
-    },
-    {
-      "igdb_id": 216778,
-      "game_name": "30 Days Another",
-      "file": "missing/0-9/216778-30-days-another.json"
     },
     {
       "igdb_id": 290955,
