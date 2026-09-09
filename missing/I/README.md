@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible Soaring | 127705 | [127705-impossible-soaring.json](./127705-impossible-soaring.json) |
 | Impossible Target | 156158 | [156158-impossible-target.json](./156158-impossible-target.json) |
 | Impossible Twisty Dots | 88288 | [88288-impossible-twisty-dots.json](./88288-impossible-twisty-dots.json) |
+| ImpossiBubble | 186823 | [186823-impossibubble.json](./186823-impossibubble.json) |
 | Impostor but Huggy Wuggy | 270669 | [270669-impostor-but-huggy-wuggy.json](./270669-impostor-but-huggy-wuggy.json) |
 | Impostor Hide Online | 179727 | [179727-impostor-hide-online.json](./179727-impostor-hide-online.json) |
 | Impping! | 350400 | [350400-impping.json](./350400-impping.json) |
