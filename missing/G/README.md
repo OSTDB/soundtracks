@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gateway to Karos | 13720 | [13720-gateway-to-karos.json](./13720-gateway-to-karos.json) |
 | Gateway to the Kulikovo Field: The Battle of Yepifan | 276204 | [276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json](./276204-gateway-to-the-kulikovo-field-the-battle-of-yepifan.json) |
 | Gather CCG | 401543 | [401543-gather-ccg.json](./401543-gather-ccg.json) |
+| Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
 | Gauley | 341327 | [341327-gauley.json](./341327-gauley.json) |
 | Gauntlet | 381045 | [381045-gauntlet.json](./381045-gauntlet.json) |
 | Gauntlet II | 3503 | [3503-gauntlet-ii.json](./3503-gauntlet-ii.json) |
@@ -472,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
+| Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
 | Gensou Makyou Kitan | 388734 | [388734-gensou-makyou-kitan.json](./388734-gensou-makyou-kitan.json) |
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
 | Gensou no Idea: Oratorio Phantasm Historia | 137081 | [137081-gensou-no-idea-oratorio-phantasm-historia.json](./137081-gensou-no-idea-oratorio-phantasm-historia.json) |
