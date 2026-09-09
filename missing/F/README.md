@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five-O Deluxe | 104103 | [104103-five-o-deluxe.json](./104103-five-o-deluxe.json) |
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
+| Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
@@ -1580,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
+| Forrest Gump: Match 3 Game | 208389 | [208389-forrest-gump-match-3-game.json](./208389-forrest-gump-match-3-game.json) |
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
