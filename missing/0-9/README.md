@@ -131,7 +131,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16bit-Collection Data East Vol. 1 | 97892 | [97892-16bit-collection-data-east-vol-1.json](./97892-16bit-collection-data-east-vol-1.json) |
 | 16bit-Collection Jaleco Vol. 01 | 97895 | [97895-16bit-collection-jaleco-vol-01.json](./97895-16bit-collection-jaleco-vol-01.json) |
 | 17 Fighters | 183562 | [183562-17-fighters.json](./183562-17-fighters.json) |
-| 18 Minutes | 274757 | [274757-18-minutes.json](./274757-18-minutes.json) |
 | 18 Wheels of Steel: American Long Haul | 11427 | [11427-18-wheels-of-steel-american-long-haul.json](./11427-18-wheels-of-steel-american-long-haul.json) |
 | 18 Wheels of Steel: Extreme Trucker | 11428 | [11428-18-wheels-of-steel-extreme-trucker.json](./11428-18-wheels-of-steel-extreme-trucker.json) |
 | 18 Wheels of Steel: Extreme Trucker 2 | 11429 | [11429-18-wheels-of-steel-extreme-trucker-2.json](./11429-18-wheels-of-steel-extreme-trucker-2.json) |
