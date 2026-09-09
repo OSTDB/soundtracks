@@ -96,7 +96,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Dogs Hidden in Istanbul | 401547 | [401547-101-dogs-hidden-in-istanbul.json](./401547-101-dogs-hidden-in-istanbul.json) |
 | 101 Ways to Die | 16745 | [16745-101-ways-to-die.json](./16745-101-ways-to-die.json) |
 | 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
-| 108 Silly Ways to Die | 326083 | [326083-108-silly-ways-to-die.json](./326083-108-silly-ways-to-die.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
 | 10min Heroes | 326085 | [326085-10min-heroes.json](./326085-10min-heroes.json) |
