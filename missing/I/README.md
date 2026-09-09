@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichorian Tales | 415923 | [415923-ichorian-tales.json](./415923-ichorian-tales.json) |
 | Icing: Love Coating | 194541 | [194541-icing-love-coating.json](./194541-icing-love-coating.json) |
 | iClub Manager | 200159 | [200159-iclub-manager.json](./200159-iclub-manager.json) |
+| IClub Manager 2 | 175340 | [175340-iclub-manager-2.json](./175340-iclub-manager-2.json) |
 | ICode Stem Universe | 265154 | [265154-icode-stem-universe.json](./265154-icode-stem-universe.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
 | Iconic | 132253 | [132253-iconic.json](./132253-iconic.json) |
@@ -589,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo Horizon | 336528 | [336528-indigo-horizon.json](./336528-indigo-horizon.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
 | IndividuaLand | 211763 | [211763-individualand.json](./211763-individualand.json) |
+| Indoor Air Soccer | 175338 | [175338-indoor-air-soccer.json](./175338-indoor-air-soccer.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
 | Indoors: The Alston Manor | 269005 | [269005-indoors-the-alston-manor.json](./269005-indoors-the-alston-manor.json) |
 | Induction | 18194 | [18194-induction.json](./18194-induction.json) |
@@ -1145,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolated Room | 229024 | [229024-isolated-room.json](./229024-isolated-room.json) |
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
+| Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isonzo | 158603 | [158603-isonzo.json](./158603-isonzo.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
