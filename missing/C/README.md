@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hiding in 3D | 318209 | [318209-cats-hiding-in-3d.json](./318209-cats-hiding-in-3d.json) |
 | Cats Huddled Together | 277839 | [277839-cats-huddled-together.json](./277839-cats-huddled-together.json) |
 | Cats in Cozy Rooms | 332980 | [332980-cats-in-cozy-rooms.json](./332980-cats-in-cozy-rooms.json) |
+| Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
 | Cats on Streets | 275033 | [275033-cats-on-streets.json](./275033-cats-on-streets.json) |
 | Cats Ritual | 359998 | [359998-cats-ritual.json](./359998-cats-ritual.json) |
@@ -920,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
+| Charon's Staircase | 201775 | [201775-charons-staircase.json](./201775-charons-staircase.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
