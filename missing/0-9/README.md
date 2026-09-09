@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ¡Shin Chan: Flipa en colores! | 93591 | [93591-shin-chan-flipa-en-colores.json](./93591-shin-chan-flipa-en-colores.json) |
 | ?? Movie Theater | 343834 | [343834-movie-theater.json](./343834-movie-theater.json) |
 | ...Iru! | 93548 | [93548-iru.json](./93548-iru.json) |
+| ...Knew the Beginning | 195155 | [195155-knew-the-beginning.json](./195155-knew-the-beginning.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
 | .Hack//Z.E.R.O. | 390544 | [390544-hack-z-e-r-o.json](./390544-hack-z-e-r-o.json) |
