@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
 | Teikoku Sensenki | 204483 | [204483-teikoku-sensenki.json](./204483-teikoku-sensenki.json) |
+| Teisatsu | 196248 | [196248-teisatsu.json](./196248-teisatsu.json) |
 | Teisoukannen Zero: Yariman Kazoku to Hame Kurui Natsuyasumi | 82956 | [82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json](./82956-teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.json) |
 | Tekichuu Keiba Juku | 37791 | [37791-tekichuu-keiba-juku.json](./37791-tekichuu-keiba-juku.json) |
 | Tekkai Jousai no Haika | 398975 | [398975-tekkai-jousai-no-haika.json](./398975-tekkai-jousai-no-haika.json) |
@@ -597,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
 | Temari Trials | 359984 | [359984-temari-trials.json](./359984-temari-trials.json) |
+| Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempete sur les Bermudes | 310966 | [310966-tempete-sur-les-bermudes.json](./310966-tempete-sur-les-bermudes.json) |
 | Templar | 324332 | [324332-templar.json](./324332-templar.json) |
 | Temple Dash: Jungle Adventure | 218497 | [218497-temple-dash-jungle-adventure.json](./218497-temple-dash-jungle-adventure.json) |
@@ -909,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
 | The Amazing Shinsengumi: Heroes in Love | 32318 | [32318-the-amazing-shinsengumi-heroes-in-love.json](./32318-the-amazing-shinsengumi-heroes-in-love.json) |
 | The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
+| The Amazing Spider-Man 2 | 196243 | [196243-the-amazing-spider-man-2.json](./196243-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
 | The Amazing World of Gumball Mini Games | 352173 | [352173-the-amazing-world-of-gumball-mini-games.json](./352173-the-amazing-world-of-gumball-mini-games.json) |
@@ -1194,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
 | The Clans - Saga of the Twins | 35943 | [35943-the-clans-saga-of-the-twins.json](./35943-the-clans-saga-of-the-twins.json) |
+| The Classic Episode | 196249 | [196249-the-classic-episode.json](./196249-the-classic-episode.json) |
 | The Classic Lotus Trilogy | 39041 | [39041-the-classic-lotus-trilogy.json](./39041-the-classic-lotus-trilogy.json) |
 | The Cleaner | 198503 | [198503-the-cleaner.json](./198503-the-cleaner.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
@@ -2300,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
 | The Neverhood | 2164 | [2164-the-neverhood.json](./2164-the-neverhood.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
+| The New Resistance | 196234 | [196234-the-new-resistance.json](./196234-the-new-resistance.json) |
 | The New Universes: Eine Neue Reise Beginnt - Chapter 1 | 120391 | [120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json](./120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json) |
 | The NewZealand Story | 7628 | [7628-the-newzealand-story.json](./7628-the-newzealand-story.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
@@ -3793,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
 | Todos Contra Tcheco | 321780 | [321780-todos-contra-tcheco.json](./321780-todos-contra-tcheco.json) |
+| Toe to Toe: Party Games | 196237 | [196237-toe-to-toe-party-games.json](./196237-toe-to-toe-party-games.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
 | Together Bnb | 146310 | [146310-together-bnb.json](./146310-together-bnb.json) |
@@ -3986,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
 | Top Gear: Stunt School SSR | 257363 | [257363-top-gear-stunt-school-ssr.json](./257363-top-gear-stunt-school-ssr.json) |
+| Top Gun | 196226 | [196226-top-gun.json](./196226-top-gun.json) |
 | Top Gun Global War | 380404 | [380404-top-gun-global-war.json](./380404-top-gun-global-war.json) |
 | Top Gun: Hard Lock | 22915 | [22915-top-gun-hard-lock.json](./22915-top-gun-hard-lock.json) |
 | Top Gun: Hornet's Nest | 22912 | [22912-top-gun-hornets-nest.json](./22912-top-gun-hornets-nest.json) |
@@ -4147,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Rock Maiden FC 3: Little Native Goddess's Revival | 386119 | [386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json](./386119-touhou-rock-maiden-fc-3-little-native-goddesss-revival.json) |
 | Touhou Saikotan: Servants of Harvest Wish | 246678 | [246678-touhou-saikotan-servants-of-harvest-wish.json](./246678-touhou-saikotan-servants-of-harvest-wish.json) |
 | Touhou Seicross | 204492 | [204492-touhou-seicross.json](./204492-touhou-seicross.json) |
+| Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
 | Touhou Spell Bubble: Akatsuki Records Song Pack | 209154 | [209154-touhou-spell-bubble-akatsuki-records-song-pack.json](./209154-touhou-spell-bubble-akatsuki-records-song-pack.json) |
 | Touhou Spell Bubble: Character Pack Hong Meiling | 246646 | [246646-touhou-spell-bubble-character-pack-hong-meiling.json](./246646-touhou-spell-bubble-character-pack-hong-meiling.json) |
@@ -4370,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: MBTA Providence/Stoughton Line HSP46 Pack | 366841 | [366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json](./366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json) |
 | Train Sim World 5: Santa Fe F7 Add-On | 359974 | [359974-train-sim-world-5-santa-fe-f7-add-on.json](./359974-train-sim-world-5-santa-fe-f7-add-on.json) |
 | Train Sim World 6 | 363370 | [363370-train-sim-world-6.json](./363370-train-sim-world-6.json) |
+| Train Sim World: CSX Heavy Haul | 196284 | [196284-train-sim-world-csx-heavy-haul.json](./196284-train-sim-world-csx-heavy-haul.json) |
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
 | Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
@@ -4953,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
+| TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
 | TukTuk | 214757 | [214757-tuktuk.json](./214757-tuktuk.json) |
 | Tuma-7 | 141842 | [141842-tuma-7.json](./141842-tuma-7.json) |
 | Tumble Baby | 182521 | [182521-tumble-baby.json](./182521-tumble-baby.json) |
