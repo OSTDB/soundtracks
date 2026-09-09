@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I.Rule | 208402 | [208402-i-rule.json](./208402-i-rule.json) |
 | I'd Kill You as a Worm | 331682 | [331682-id-kill-you-as-a-worm.json](./331682-id-kill-you-as-a-worm.json) |
 | I'll Do It Tomorrow | 278990 | [278990-ill-do-it-tomorrow.json](./278990-ill-do-it-tomorrow.json) |
+| I'm a cowboy: Western Shooter | 173226 | [173226-im-a-cowboy-western-shooter.json](./173226-im-a-cowboy-western-shooter.json) |
 | I'm a Grown Up!! Dreamy Sweetie The Devil Slayer | 301585 | [301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json](./301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json) |
 | I’m a Love Interest in My Childhood Friend’s Halloween Story | 179674 | [179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json](./179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json) |
 | I’m a Wizard, But I Dig | 384526 | [384526-i-m-a-wizard-but-i-dig.json](./384526-i-m-a-wizard-but-i-dig.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Raven Shadow – Ve stínu havrana | 44247 | [44247-in-the-raven-shadow-ve-stinu-havrana.json](./44247-in-the-raven-shadow-ve-stinu-havrana.json) |
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
 | In the Space: Escape Room | 195800 | [195800-in-the-space-escape-room.json](./195800-in-the-space-escape-room.json) |
+| In the Valley of Death | 172673 | [172673-in-the-valley-of-death.json](./172673-in-the-valley-of-death.json) |
 | In the Village of Grandfather: Summer,Sun,Heat. | 106576 | [106576-in-the-village-of-grandfather-summer-sun-heat.json](./106576-in-the-village-of-grandfather-summer-sun-heat.json) |
 | In the Wild | 190143 | [190143-in-the-wild.json](./190143-in-the-wild.json) |
 | In the Workplace of Madness | 207335 | [207335-in-the-workplace-of-madness.json](./207335-in-the-workplace-of-madness.json) |
