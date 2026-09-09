@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T14:18:45.017Z",
-  "total_missing": 50742,
+  "generated_at": "2026-09-09T14:21:08.490Z",
+  "total_missing": 50741,
   "games": [
     {
       "igdb_id": 306086,
@@ -846,11 +846,6 @@
       "igdb_id": 116346,
       "game_name": "2006 Real Soccer",
       "file": "missing/0-9/116346-2006-real-soccer.json"
-    },
-    {
-      "igdb_id": 206119,
-      "game_name": "202 Game Collection",
-      "file": "missing/0-9/206119-202-game-collection.json"
     },
     {
       "igdb_id": 261523,
