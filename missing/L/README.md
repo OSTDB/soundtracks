@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
 | Last Outpost | 302110 | [302110-last-outpost.json](./302110-last-outpost.json) |
 | Last Pirate: Survival Island | 193960 | [193960-last-pirate-survival-island.json](./193960-last-pirate-survival-island.json) |
+| Last Pizza Slice | 178591 | [178591-last-pizza-slice.json](./178591-last-pizza-slice.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
 | Last Respects | 290717 | [290717-last-respects.json](./290717-last-respects.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lederzwerge Deluxe XXL Version | 84279 | [84279-lederzwerge-deluxe-xxl-version.json](./84279-lederzwerge-deluxe-xxl-version.json) |
 | Ledoliel | 128629 | [128629-ledoliel.json](./128629-ledoliel.json) |
 | Lee Carvallo's Putting Challenge | 180781 | [180781-lee-carvallos-putting-challenge.json](./180781-lee-carvallos-putting-challenge.json) |
+| Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
@@ -389,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left. | 265979 | [265979-left.json](./265979-left.json) |
 | Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
+| Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
 | Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
 | Legacy | 23896 | [23896-legacy.json](./23896-legacy.json) |
 | Legacy | 345513 | [345513-legacy.json](./345513-legacy.json) |
@@ -1292,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
+| Lose Control | 178632 | [178632-lose-control.json](./178632-lose-control.json) |
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
