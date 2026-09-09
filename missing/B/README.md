@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacteria Warfare | 309097 | [309097-bacteria-warfare.json](./309097-bacteria-warfare.json) |
 | Bacteria Wars | 165701 | [165701-bacteria-wars.json](./165701-bacteria-wars.json) |
 | Bacteria: Collector's Edition | 52620 | [52620-bacteria-collectors-edition.json](./52620-bacteria-collectors-edition.json) |
+| Bacterial Edge | 195717 | [195717-bacterial-edge.json](./195717-bacterial-edge.json) |
 | Bacterial Takeover - Idle game | 257373 | [257373-bacterial-takeover-idle-game.json](./257373-bacterial-takeover-idle-game.json) |
 | Bacteriophage | 197948 | [197948-bacteriophage.json](./197948-bacteriophage.json) |
 | Bactory | 413612 | [413612-bactory.json](./413612-bactory.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
+| Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
 | Boreal Tenebrae: Deluxe Extended Edition | 250366 | [250366-boreal-tenebrae-deluxe-extended-edition.json](./250366-boreal-tenebrae-deluxe-extended-edition.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
