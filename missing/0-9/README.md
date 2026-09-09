@@ -135,7 +135,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Wheels of Steel: Extreme Trucker 2 | 11429 | [11429-18-wheels-of-steel-extreme-trucker-2.json](./11429-18-wheels-of-steel-extreme-trucker-2.json) |
 | 18+ | 219040 | [219040-18.json](./219040-18.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
-| 1811 | 343812 | [343812-1811.json](./343812-1811.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
 | 1912 Titanic Mystery | 120395 | [120395-1912-titanic-mystery.json](./120395-1912-titanic-mystery.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
@@ -322,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
 | 3D Puzzle: Apocalyptic Wasteland | 337612 | [337612-3d-puzzle-apocalyptic-wasteland.json](./337612-3d-puzzle-apocalyptic-wasteland.json) |
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
+| 3D Puzzle: Farm House | 197877 | [197877-3d-puzzle-farm-house.json](./197877-3d-puzzle-farm-house.json) |
 | 3D Puzzle: Pirate Tavern | 337621 | [337621-3d-puzzle-pirate-tavern.json](./337621-3d-puzzle-pirate-tavern.json) |
 | 3D Puzzle: Pirates | 301037 | [301037-3d-puzzle-pirates.json](./301037-3d-puzzle-pirates.json) |
 | 3D Puzzle: World War II | 278174 | [278174-3d-puzzle-world-war-ii.json](./278174-3d-puzzle-world-war-ii.json) |
