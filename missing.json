@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T06:21:07.068Z",
-  "total_missing": 49463,
+  "generated_at": "2026-09-09T06:31:11.464Z",
+  "total_missing": 49465,
   "games": [
     {
       "igdb_id": 306086,
@@ -596,11 +596,6 @@
       "igdb_id": 97891,
       "game_name": "16bit-Collection Athena Vol. 01",
       "file": "missing/0-9/97891-16bit-collection-athena-vol-01.json"
-    },
-    {
-      "igdb_id": 97893,
-      "game_name": "16bit-Collection Culture Brain Vol. 01",
-      "file": "missing/0-9/97893-16bit-collection-culture-brain-vol-01.json"
     },
     {
       "igdb_id": 97888,
@@ -9218,6 +9213,11 @@
       "file": "missing/A/322994-altered-anomalies.json"
     },
     {
+      "igdb_id": 200151,
+      "game_name": "Altered Beast",
+      "file": "missing/A/200151-altered-beast.json"
+    },
+    {
       "igdb_id": 202941,
       "game_name": "Altered Beast",
       "file": "missing/A/202941-altered-beast.json"
@@ -13631,6 +13631,11 @@
       "igdb_id": 271478,
       "game_name": "Are you yet Living?",
       "file": "missing/A/271478-are-you-yet-living.json"
+    },
+    {
+      "igdb_id": 200152,
+      "game_name": "Area 51",
+      "file": "missing/A/200152-area-51.json"
     },
     {
       "igdb_id": 316990,
@@ -20561,6 +20566,11 @@
       "igdb_id": 138788,
       "game_name": "Batman Doom",
       "file": "missing/B/138788-batman-doom.json"
+    },
+    {
+      "igdb_id": 200153,
+      "game_name": "Batman Returns",
+      "file": "missing/B/200153-batman-returns.json"
     },
     {
       "igdb_id": 4379,
