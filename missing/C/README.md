@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
 | Cauldron I & II | 126012 | [126012-cauldron-i-and-ii.json](./126012-cauldron-i-and-ii.json) |
+| Cauldrons of War: Barbarossa | 169923 | [169923-cauldrons-of-war-barbarossa.json](./169923-cauldrons-of-war-barbarossa.json) |
 | Causal Nexus | 236256 | [236256-causal-nexus.json](./236256-causal-nexus.json) |
 | Causality | 151182 | [151182-causality.json](./151182-causality.json) |
 | Cause of Death | 91937 | [91937-cause-of-death.json](./91937-cause-of-death.json) |
@@ -1238,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
 | Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
+| Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
 | Chokkan Crash Bandicoot | 210241 | [210241-chokkan-crash-bandicoot.json](./210241-chokkan-crash-bandicoot.json) |
 | Choko Loco 2 | 321179 | [321179-choko-loco-2.json](./321179-choko-loco-2.json) |
@@ -1704,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clover Heart's: Looking for Happiness | 69282 | [69282-clover-hearts-looking-for-happiness.json](./69282-clover-hearts-looking-for-happiness.json) |
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
+| Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
