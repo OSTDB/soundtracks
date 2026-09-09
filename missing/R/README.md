@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
+| Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
 | Rainbow Dash Tylenol | 213934 | [213934-rainbow-dash-tylenol.json](./213934-rainbow-dash-tylenol.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Dreams | 115016 | [115016-rainbow-dreams.json](./115016-rainbow-dreams.json) |
@@ -689,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
 | Reflect World | 41391 | [41391-reflect-world.json](./41391-reflect-world.json) |
 | Reflectile | 247546 | [247546-reflectile.json](./247546-reflectile.json) |
+| Reflection of Loneliness | 184576 | [184576-reflection-of-loneliness.json](./184576-reflection-of-loneliness.json) |
 | Reflection Seeker | 319954 | [319954-reflection-seeker.json](./319954-reflection-seeker.json) |
 | Reflection: The Greed | 211712 | [211712-reflection-the-greed.json](./211712-reflection-the-greed.json) |
 | Reflections of Life: Call of the Ancestors - Collector's Edition | 362827 | [362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json](./362827-reflections-of-life-call-of-the-ancestors-collectors-edition.json) |
