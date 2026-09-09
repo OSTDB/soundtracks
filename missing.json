@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T03:18:18.498Z",
-  "total_missing": 49056,
+  "generated_at": "2026-09-09T03:21:11.121Z",
+  "total_missing": 49055,
   "games": [
     {
       "igdb_id": 306086,
@@ -496,11 +496,6 @@
       "igdb_id": 98417,
       "game_name": "12-sai: Koi Suru Diary",
       "file": "missing/0-9/98417-12-sai-koi-suru-diary.json"
-    },
-    {
-      "igdb_id": 98424,
-      "game_name": "12+",
-      "file": "missing/0-9/98424-12.json"
     },
     {
       "igdb_id": 252993,
