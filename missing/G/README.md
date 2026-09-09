@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactea | 310973 | [310973-galactea.json](./310973-galactea.json) |
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
 | Galactic Attack | 81439 | [81439-galactic-attack.json](./81439-galactic-attack.json) |
+| Galactic Bar Fight VR | 198447 | [198447-galactic-bar-fight-vr.json](./198447-galactic-bar-fight-vr.json) |
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
 | Galactic Bounty | 406684 | [406684-galactic-bounty.json](./406684-galactic-bounty.json) |
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
@@ -619,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Giana Sisters | 213394 | [213394-giana-sisters.json](./213394-giana-sisters.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
+| Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
 | Giant Rabbit Run | 208973 | [208973-giant-rabbit-run.json](./208973-giant-rabbit-run.json) |
 | Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
@@ -634,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Giftpia | 3931 | [3931-giftpia.json](./3931-giftpia.json) |
 | Gifts from Arthur | 202365 | [202365-gifts-from-arthur.json](./202365-gifts-from-arthur.json) |
+| Gig Life | 198449 | [198449-gig-life.json](./198449-gig-life.json) |
 | GigaBash: Final Ascension DLC | 404835 | [404835-gigabash-final-ascension-dlc.json](./404835-gigabash-final-ascension-dlc.json) |
 | GigaBash: GAMERA -Rebirth- DLC | 404834 | [404834-gigabash-gamera-rebirth-dlc.json](./404834-gigabash-gamera-rebirth-dlc.json) |
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
@@ -1428,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Time Traveler - Collector's Edition | 231357 | [231357-grim-tales-the-time-traveler-collectors-edition.json](./231357-grim-tales-the-time-traveler-collectors-edition.json) |
 | Grim Tales: The White Lady - Collector's Edition | 250594 | [250594-grim-tales-the-white-lady-collectors-edition.json](./250594-grim-tales-the-white-lady-collectors-edition.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
+| Grime House | 198452 | [198452-grime-house.json](./198452-grime-house.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
 | Grimgrad | 199612 | [199612-grimgrad.json](./199612-grimgrad.json) |
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
@@ -1697,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunpyre | 340404 | [340404-gunpyre.json](./340404-gunpyre.json) |
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
+| Guns 30 | 198476 | [198476-guns-30.json](./198476-guns-30.json) |
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
