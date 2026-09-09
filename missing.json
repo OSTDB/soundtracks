@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T19:31:05.260Z",
-  "total_missing": 51568,
+  "generated_at": "2026-09-09T19:41:03.147Z",
+  "total_missing": 51567,
   "games": [
     {
       "igdb_id": 306086,
@@ -1021,11 +1021,6 @@
       "igdb_id": 45105,
       "game_name": "2Xtreme",
       "file": "missing/0-9/45105-2xtreme.json"
-    },
-    {
-      "igdb_id": 45321,
-      "game_name": "3 2 1 Quiz Game",
-      "file": "missing/0-9/45321-3-2-1-quiz-game.json"
     },
     {
       "igdb_id": 153462,
