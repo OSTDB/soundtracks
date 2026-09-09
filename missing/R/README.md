@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain | 128617 | [128617-rain.json](./128617-rain.json) |
 | Rain | 216251 | [216251-rain.json](./216251-rain.json) |
 | Rain & Chamomile Tea | 260948 | [260948-rain-and-chamomile-tea.json](./260948-rain-and-chamomile-tea.json) |
+| Rain and Red Roses | 184057 | [184057-rain-and-red-roses.json](./184057-rain-and-red-roses.json) |
 | Rain Blood Chronicles: Mirage | 16548 | [16548-rain-blood-chronicles-mirage.json](./16548-rain-blood-chronicles-mirage.json) |
 | Rain Check | 319007 | [319007-rain-check.json](./319007-rain-check.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
@@ -1686,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romans From Mars | 62224 | [62224-romans-from-mars.json](./62224-romans-from-mars.json) |
 | Romantic Emperor | 404858 | [404858-romantic-emperor.json](./404858-romantic-emperor.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
+| Romantic Rainbow Delights | 184064 | [184064-romantic-rainbow-delights.json](./184064-romantic-rainbow-delights.json) |
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
 | Rome: Total War - Gold Edition | 24146 | [24146-rome-total-war-gold-edition.json](./24146-rome-total-war-gold-edition.json) |
