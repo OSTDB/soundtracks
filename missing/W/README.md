@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Robots: Planet Defender | 127379 | [127379-war-robots-planet-defender.json](./127379-war-robots-planet-defender.json) |
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
+| War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
 | War Theatre: Blood of Winter - Beak and Talon | 172187 | [172187-war-theatre-blood-of-winter-beak-and-talon.json](./172187-war-theatre-blood-of-winter-beak-and-talon.json) |
 | War Thunder: Ancient Helicopter Snail Bundle | 316622 | [316622-war-thunder-ancient-helicopter-snail-bundle.json](./316622-war-thunder-ancient-helicopter-snail-bundle.json) |
 | War Thunder: Challenger DS Pack | 336933 | [336933-war-thunder-challenger-ds-pack.json](./336933-war-thunder-challenger-ds-pack.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
 | Warriors Waifus Mahjong | 336559 | [336559-warriors-waifus-mahjong.json](./336559-warriors-waifus-mahjong.json) |
+| Wars Across the World: Curupayti 1866 | 203922 | [203922-wars-across-the-world-curupayti-1866.json](./203922-wars-across-the-world-curupayti-1866.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
 | Warshift | 14075 | [14075-warshift.json](./14075-warshift.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
@@ -545,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Happened: Through Worlds | 314856 | [314856-what-happened-through-worlds.json](./314856-what-happened-through-worlds.json) |
 | What Happens in Space | 153989 | [153989-what-happens-in-space.json](./153989-what-happens-in-space.json) |
 | What if Adventure Time was a 3D Anime | 234038 | [234038-what-if-adventure-time-was-a-3d-anime.json](./234038-what-if-adventure-time-was-a-3d-anime.json) |
+| What Is Love?: Vol. 1 | 203921 | [203921-what-is-love-vol-1.json](./203921-what-is-love-vol-1.json) |
 | What is My Name | 305538 | [305538-what-is-my-name.json](./305538-what-is-my-name.json) |
 | What is That Outside | 343233 | [343233-what-is-that-outside.json](./343233-what-is-that-outside.json) |
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
@@ -736,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's the Boss | 297803 | [297803-whos-the-boss.json](./297803-whos-the-boss.json) |
 | Who's the Traitor | 273655 | [273655-whos-the-traitor.json](./273655-whos-the-traitor.json) |
 | Who's Who 2.0 | 336393 | [336393-whos-who-2-0.json](./336393-whos-who-2-0.json) |
+| Whore Dealer | 203916 | [203916-whore-dealer.json](./203916-whore-dealer.json) |
 | Why | 257413 | [257413-why.json](./257413-why.json) |
 | Why Did The Chicken Cross The Road? | 310753 | [310753-why-did-the-chicken-cross-the-road.json](./310753-why-did-the-chicken-cross-the-road.json) |
 | Why Do Boys Play Games? | 346579 | [346579-why-do-boys-play-games.json](./346579-why-do-boys-play-games.json) |
@@ -935,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
+| WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
@@ -1084,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolverine: Adamantium Redux | 219275 | [219275-wolverine-adamantium-redux.json](./219275-wolverine-adamantium-redux.json) |
 | Wolverine: Feral Instinct | 272814 | [272814-wolverine-feral-instinct.json](./272814-wolverine-feral-instinct.json) |
 | Wolves in Sheep's Clothing | 292317 | [292317-wolves-in-sheeps-clothing.json](./292317-wolves-in-sheeps-clothing.json) |
+| Wolves on the Westwind: The Vampire of Havena | 203920 | [203920-wolves-on-the-westwind-the-vampire-of-havena.json](./203920-wolves-on-the-westwind-the-vampire-of-havena.json) |
 | Wolvesville | 262964 | [262964-wolvesville.json](./262964-wolvesville.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
 | Wonder Boy | 5560 | [5560-wonder-boy.json](./5560-wonder-boy.json) |
@@ -1437,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
 | Wurst and Glory | 415115 | [415115-wurst-and-glory.json](./415115-wurst-and-glory.json) |
+| Wuscar | 203884 | [203884-wuscar.json](./203884-wuscar.json) |
 | Wuthering Waves: All Silent Souls Can Sing | 326608 | [326608-wuthering-waves-all-silent-souls-can-sing.json](./326608-wuthering-waves-all-silent-souls-can-sing.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: When the Night Knocks | 321376 | [321376-wuthering-waves-when-the-night-knocks.json](./321376-wuthering-waves-when-the-night-knocks.json) |
