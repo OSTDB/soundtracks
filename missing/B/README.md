@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
 | BackRooms: Lost | 301270 | [301270-backrooms-lost.json](./301270-backrooms-lost.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
+| Backrooms: Perpetual | 205072 | [205072-backrooms-perpetual.json](./205072-backrooms-perpetual.json) |
 | Backrooms: Realm of Shadows | 247513 | [247513-backrooms-realm-of-shadows.json](./247513-backrooms-realm-of-shadows.json) |
 | Backrooms: Rebirth | 290916 | [290916-backrooms-rebirth.json](./290916-backrooms-rebirth.json) |
 | Backrooms: Reminiscence | 366831 | [366831-backrooms-reminiscence.json](./366831-backrooms-reminiscence.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackish House | 271769 | [271769-blackish-house.json](./271769-blackish-house.json) |
 | Blackjack 21 | 85514 | [85514-blackjack-21.json](./85514-blackjack-21.json) |
 | Blackjack and Pomodoro Mystery | 319015 | [319015-blackjack-and-pomodoro-mystery.json](./319015-blackjack-and-pomodoro-mystery.json) |
+| Blackjack Avenue | 205030 | [205030-blackjack-avenue.json](./205030-blackjack-avenue.json) |
 | Blackjack Calculator | 245550 | [245550-blackjack-calculator.json](./245550-blackjack-calculator.json) |
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack Wars | 372984 | [372984-blackjack-wars.json](./372984-blackjack-wars.json) |
@@ -2663,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Bill 3 | 370097 | [370097-bullet-bill-3.json](./370097-bullet-bill-3.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
 | Bullet Break | 346017 | [346017-bullet-break.json](./346017-bullet-break.json) |
+| Bullet Chase | 205032 | [205032-bullet-chase.json](./205032-bullet-chase.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
