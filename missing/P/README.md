@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
+| Penroses | 181880 | [181880-penroses.json](./181880-penroses.json) |
 | Pent's Wacky, Zany Road Trip to Adulthood | 412953 | [412953-pents-wacky-zany-road-trip-to-adulthood.json](./412953-pents-wacky-zany-road-trip-to-adulthood.json) |
 | Pent's Zacky, Zany Road Trip to Adulthood | 326611 | [326611-pents-zacky-zany-road-trip-to-adulthood.json](./326611-pents-zacky-zany-road-trip-to-adulthood.json) |
 | PentaBlox | 188581 | [188581-pentablox.json](./188581-pentablox.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
 | Protocole: Hedera | 270101 | [270101-protocole-hedera.json](./270101-protocole-hedera.json) |
 | Protocore | 109674 | [109674-protocore.json](./109674-protocore.json) |
+| ProtoDungeon: Episode I | 181879 | [181879-protodungeon-episode-i.json](./181879-protodungeon-episode-i.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
 | Proton VR | 392133 | [392133-proton-vr.json](./392133-proton-vr.json) |
