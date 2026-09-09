@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T19:18:48.718Z",
-  "total_missing": 51568,
+  "generated_at": "2026-09-09T19:21:04.229Z",
+  "total_missing": 51567,
   "games": [
     {
       "igdb_id": 306086,
@@ -1011,11 +1011,6 @@
       "igdb_id": 147439,
       "game_name": "2weistein: The Curse of the Red Dragon",
       "file": "missing/0-9/147439-2weistein-the-curse-of-the-red-dragon.json"
-    },
-    {
-      "igdb_id": 342039,
-      "game_name": "2x0ng",
-      "file": "missing/0-9/342039-2x0ng.json"
     },
     {
       "igdb_id": 96726,
