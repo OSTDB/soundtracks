@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
 | Remember, Remember | 36495 | [36495-remember-remember.json](./36495-remember-remember.json) |
 | Remembering Which Buttons Take However Long to Press | 57713 | [57713-remembering-which-buttons-take-however-long-to-press.json](./57713-remembering-which-buttons-take-however-long-to-press.json) |
+| Remembrance | 181889 | [181889-remembrance.json](./181889-remembrance.json) |
 | Remembrance | 82917 | [82917-remembrance.json](./82917-remembrance.json) |
 | RememPair | 349304 | [349304-remempair.json](./349304-remempair.json) |
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robber | 385579 | [385579-robber.json](./385579-robber.json) |
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
 | Robbery Madness: Thief Games | 219782 | [219782-robbery-madness-thief-games.json](./219782-robbery-madness-thief-games.json) |
+| Robby's Day Out | 181850 | [181850-robbys-day-out.json](./181850-robbys-day-out.json) |
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
@@ -1392,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboBall | 111681 | [111681-roboball.json](./111681-roboball.json) |
 | Roboban: Colors | 302938 | [302938-roboban-colors.json](./302938-roboban-colors.json) |
 | Robobeat | 192534 | [192534-robobeat.json](./192534-robobeat.json) |
+| RoboBlaster | 181869 | [181869-roboblaster.json](./181869-roboblaster.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
