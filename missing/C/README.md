@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
 | Colorful Life Simulator | 316646 | [316646-colorful-life-simulator.json](./316646-colorful-life-simulator.json) |
+| Colorful Party Wars | 201248 | [201248-colorful-party-wars.json](./201248-colorful-party-wars.json) |
 | Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Payback | 318230 | [318230-cosmic-payback.json](./318230-cosmic-payback.json) |
 | Cosmic Pioneer | 38986 | [38986-cosmic-pioneer.json](./38986-cosmic-pioneer.json) |
+| Cosmic Purge | 201224 | [201224-cosmic-purge.json](./201224-cosmic-purge.json) |
 | Cosmic Quandary | 234067 | [234067-cosmic-quandary.json](./234067-cosmic-quandary.json) |
 | Cosmic Raiders | 170533 | [170533-cosmic-raiders.json](./170533-cosmic-raiders.json) |
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
