@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nameless Kaizo World Light | 267915 | [267915-nameless-kaizo-world-light.json](./267915-nameless-kaizo-world-light.json) |
 | Nameless Shells | 267916 | [267916-nameless-shells.json](./267916-nameless-shells.json) |
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
+| Nana | 201771 | [201771-nana.json](./201771-nana.json) |
 | Nana Tan | 267395 | [267395-nana-tan.json](./267395-nana-tan.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
 | NATO Commander | 24988 | [24988-nato-commander.json](./24988-nato-commander.json) |
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
+| Natsu no Hi no Resonance | 201810 | [201810-natsu-no-hi-no-resonance.json](./201810-natsu-no-hi-no-resonance.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natsuiro High School: Seishun Hakusho | 52602 | [52602-natsuiro-high-school-seishun-hakusho.json](./52602-natsuiro-high-school-seishun-hakusho.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
@@ -700,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
 | Night at the Lake: Silent Watcher | 355036 | [355036-night-at-the-lake-silent-watcher.json](./355036-night-at-the-lake-silent-watcher.json) |
 | Night At The Motel | 376485 | [376485-night-at-the-motel.json](./376485-night-at-the-motel.json) |
+| Night at the Office | 201791 | [201791-night-at-the-office.json](./201791-night-at-the-office.json) |
 | Night at the Office | 327806 | [327806-night-at-the-office.json](./327806-night-at-the-office.json) |
 | Night Bars | 233204 | [233204-night-bars.json](./233204-night-bars.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
