@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
+| Nell & the Festival of Spooks | 178569 | [178569-nell-and-the-festival-of-spooks.json](./178569-nell-and-the-festival-of-spooks.json) |
 | Nelli the Seer | 353898 | [353898-nelli-the-seer.json](./353898-nelli-the-seer.json) |
 | Nelly Cootalot: Spoonbeaks Ahoy! HD | 90001 | [90001-nelly-cootalot-spoonbeaks-ahoy-hd.json](./90001-nelly-cootalot-spoonbeaks-ahoy-hd.json) |
 | Nelo | 25534 | [25534-nelo.json](./25534-nelo.json) |
