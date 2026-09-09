@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunting: The Rosefield Manor | 318994 | [318994-haunting-the-rosefield-manor.json](./318994-haunting-the-rosefield-manor.json) |
 | Hauntworks | 410264 | [410264-hauntworks.json](./410264-hauntworks.json) |
 | Haus | 377074 | [377074-haus.json](./377074-haus.json) |
+| Hausmeister | 207313 | [207313-hausmeister.json](./207313-hausmeister.json) |
 | Haustoria | 130922 | [130922-haustoria.json](./130922-haustoria.json) |
 | Have You Herd? | 235970 | [235970-have-you-herd.json](./235970-have-you-herd.json) |
 | Haven & Hearth | 213961 | [213961-haven-and-hearth.json](./213961-haven-and-hearth.json) |
