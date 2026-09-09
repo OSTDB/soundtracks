@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T07:48:30.897Z",
-  "total_missing": 49662,
+  "generated_at": "2026-09-09T07:51:06.154Z",
+  "total_missing": 49661,
   "games": [
     {
       "igdb_id": 306086,
@@ -641,11 +641,6 @@
       "igdb_id": 219040,
       "game_name": "18+",
       "file": "missing/0-9/219040-18.json"
-    },
-    {
-      "igdb_id": 45322,
-      "game_name": "180 Darts",
-      "file": "missing/0-9/45322-180-darts.json"
     },
     {
       "igdb_id": 386733,
