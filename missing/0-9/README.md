@@ -13,6 +13,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ...Knew the Beginning | 195155 | [195155-knew-the-beginning.json](./195155-knew-the-beginning.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | .Hack//G.U. Last Recode | 37134 | [37134-hack-g-u-last-recode.json](./37134-hack-g-u-last-recode.json) |
+| .Hack//G.U. Vol. 1: Rebirth HD | 182460 | [182460-hack-g-u-vol-1-rebirth-hd.json](./182460-hack-g-u-vol-1-rebirth-hd.json) |
+| .Hack//G.U. Vol. 2: Reminisce HD | 182462 | [182462-hack-g-u-vol-2-reminisce-hd.json](./182462-hack-g-u-vol-2-reminisce-hd.json) |
+| .Hack//G.U. Vol. 3: Redemption HD | 182461 | [182461-hack-g-u-vol-3-redemption-hd.json](./182461-hack-g-u-vol-3-redemption-hd.json) |
 | .Hack//Z.E.R.O. | 390544 | [390544-hack-z-e-r-o.json](./390544-hack-z-e-r-o.json) |
 | 'Round The Mind | 265687 | [265687-round-the-mind.json](./265687-round-the-mind.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
@@ -189,7 +192,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 20th Century Frog | 272846 | [272846-20th-century-frog.json](./272846-20th-century-frog.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
-| 2184 | 316433 | [316433-2184.json](./316433-2184.json) |
 | 21st Century Roguelike Pac-man | 375826 | [375826-21st-century-roguelike-pac-man.json](./375826-21st-century-roguelike-pac-man.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
 | 222.22 | 366269 | [366269-222-22.json](./366269-222-22.json) |
