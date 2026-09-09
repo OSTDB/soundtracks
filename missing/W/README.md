@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkure Romanze More & More | 194624 | [194624-walkure-romanze-more-and-more.json](./194624-walkure-romanze-more-and-more.json) |
 | Walkure Romanze Re:tell | 194625 | [194625-walkure-romanze-re-tell.json](./194625-walkure-romanze-re-tell.json) |
 | Walkure Romanze Re:tell II | 194626 | [194626-walkure-romanze-re-tell-ii.json](./194626-walkure-romanze-re-tell-ii.json) |
+| Walkure Romanze: Shoujo Kishi Monogatari | 194591 | [194591-walkure-romanze-shoujo-kishi-monogatari.json](./194591-walkure-romanze-shoujo-kishi-monogatari.json) |
 | Wall Gai | 312917 | [312917-wall-gai.json](./312917-wall-gai.json) |
 | Wall Kickers | 107245 | [107245-wall-kickers.json](./107245-wall-kickers.json) |
 | Wall Ninja | 139434 | [139434-wall-ninja.json](./139434-wall-ninja.json) |
@@ -489,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
 | Welcome Kokuri-san | 241976 | [241976-welcome-kokuri-san.json](./241976-welcome-kokuri-san.json) |
 | Welcome Teacher | 266798 | [266798-welcome-teacher.json](./266798-welcome-teacher.json) |
+| Welcome to a Sexy, Open World! | 194551 | [194551-welcome-to-a-sexy-open-world.json](./194551-welcome-to-a-sexy-open-world.json) |
 | Welcome To Chichester OVN 3: The Mysterious Affair at the Violet Hotel | 132264 | [132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
 | Welcome to Free Will: Episode 3 | 237060 | [237060-welcome-to-free-will-episode-3.json](./237060-welcome-to-free-will-episode-3.json) |
@@ -587,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
 | Wheat Harvest Paradox | 257409 | [257409-wheat-harvest-paradox.json](./257409-wheat-harvest-paradox.json) |
+| Wheel of Fortune | 194569 | [194569-wheel-of-fortune.json](./194569-wheel-of-fortune.json) |
 | Wheel of Fortune | 220131 | [220131-wheel-of-fortune.json](./220131-wheel-of-fortune.json) |
 | Wheel of Fortune | 37183 | [37183-wheel-of-fortune.json](./37183-wheel-of-fortune.json) |
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
@@ -934,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
+| Winter | 194559 | [194559-winter.json](./194559-winter.json) |
 | Winter Cometh | 122400 | [122400-winter-cometh.json](./122400-winter-cometh.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
