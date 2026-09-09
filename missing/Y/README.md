@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai's Secret | 138265 | [138265-yokais-secret.json](./138265-yokais-secret.json) |
 | Yokaiware | 186313 | [186313-yokaiware.json](./186313-yokaiware.json) |
 | Yoko Redux: Dreams of a Blue Planet | 191240 | [191240-yoko-redux-dreams-of-a-blue-planet.json](./191240-yoko-redux-dreams-of-a-blue-planet.json) |
+| Yokoi-san Warp | 183022 | [183022-yokoi-san-warp.json](./183022-yokoi-san-warp.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
 | Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
 | Yuppie Psycho | 26565 | [26565-yuppie-psycho.json](./26565-yuppie-psycho.json) |
+| YuraYura!: Tidying up the Tilting Tower! | 180778 | [180778-yurayura-tidying-up-the-tilting-tower.json](./180778-yurayura-tidying-up-the-tilting-tower.json) |
 | Yurei Ninja | 242213 | [242213-yurei-ninja.json](./242213-yurei-ninja.json) |
 | Yuri Blossom! | 358314 | [358314-yuri-blossom.json](./358314-yuri-blossom.json) |
 | Yuri Paddle: An Anime Convention Murder Mystery | 318404 | [318404-yuri-paddle-an-anime-convention-murder-mystery.json](./318404-yuri-paddle-an-anime-convention-murder-mystery.json) |
