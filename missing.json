@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T17:33:48.108Z",
-  "total_missing": 51289,
+  "generated_at": "2026-09-09T17:41:05.668Z",
+  "total_missing": 51288,
   "games": [
     {
       "igdb_id": 306086,
@@ -956,11 +956,6 @@
       "igdb_id": 337614,
       "game_name": "25920",
       "file": "missing/0-9/337614-25920.json"
-    },
-    {
-      "igdb_id": 202413,
-      "game_name": "25th Anniversary Super Mario Bros.",
-      "file": "missing/0-9/202413-25th-anniversary-super-mario-bros.json"
     },
     {
       "igdb_id": 273131,
