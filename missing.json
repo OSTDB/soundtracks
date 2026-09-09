@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T03:11:00.771Z",
-  "total_missing": 49006,
+  "generated_at": "2026-09-09T03:18:18.498Z",
+  "total_missing": 49056,
   "games": [
     {
       "igdb_id": 306086,
@@ -1623,6 +1623,11 @@
       "file": "missing/0-9/205839-3d-galaxy-fighters.json"
     },
     {
+      "igdb_id": 205073,
+      "game_name": "3D Joys",
+      "file": "missing/0-9/205073-3d-joys.json"
+    },
+    {
       "igdb_id": 265428,
       "game_name": "3D Knife",
       "file": "missing/0-9/265428-3d-knife.json"
@@ -1911,6 +1916,11 @@
       "igdb_id": 26675,
       "game_name": "46 Okunen Monogatari: The Shinka Ron",
       "file": "missing/0-9/26675-46-okunen-monogatari-the-shinka-ron.json"
+    },
+    {
+      "igdb_id": 205022,
+      "game_name": "46 Pegason b",
+      "file": "missing/0-9/205022-46-pegason-b.json"
     },
     {
       "igdb_id": 109036,
@@ -7076,6 +7086,11 @@
       "igdb_id": 358841,
       "game_name": "Aim & Shoot",
       "file": "missing/A/358841-aim-and-shoot.json"
+    },
+    {
+      "igdb_id": 205025,
+      "game_name": "Aim Champions: Gun Shooter Simulator",
+      "file": "missing/A/205025-aim-champions-gun-shooter-simulator.json"
     },
     {
       "igdb_id": 226768,
@@ -18073,6 +18088,11 @@
       "file": "missing/B/292297-backrooms-meg-archives.json"
     },
     {
+      "igdb_id": 205072,
+      "game_name": "Backrooms: Perpetual",
+      "file": "missing/B/205072-backrooms-perpetual.json"
+    },
+    {
       "igdb_id": 247513,
       "game_name": "Backrooms: Realm of Shadows",
       "file": "missing/B/247513-backrooms-realm-of-shadows.json"
@@ -24883,6 +24903,11 @@
       "file": "missing/B/319015-blackjack-and-pomodoro-mystery.json"
     },
     {
+      "igdb_id": 205030,
+      "game_name": "Blackjack Avenue",
+      "file": "missing/B/205030-blackjack-avenue.json"
+    },
+    {
       "igdb_id": 245550,
       "game_name": "Blackjack Calculator",
       "file": "missing/B/245550-blackjack-calculator.json"
@@ -30868,6 +30893,11 @@
       "file": "missing/B/346017-bullet-break.json"
     },
     {
+      "igdb_id": 205032,
+      "game_name": "Bullet Chase",
+      "file": "missing/B/205032-bullet-chase.json"
+    },
+    {
       "igdb_id": 181894,
       "game_name": "Bullet Fractals",
       "file": "missing/B/181894-bullet-fractals.json"
@@ -32341,6 +32371,11 @@
       "igdb_id": 292856,
       "game_name": "Call of Duty: The War Collection",
       "file": "missing/C/292856-call-of-duty-the-war-collection.json"
+    },
+    {
+      "igdb_id": 205058,
+      "game_name": "Call of Duty: Vanguard - Season Four",
+      "file": "missing/C/205058-call-of-duty-vanguard-season-four.json"
     },
     {
       "igdb_id": 240503,
@@ -40756,6 +40791,11 @@
       "igdb_id": 337633,
       "game_name": "Color Splash: Horses",
       "file": "missing/C/337633-color-splash-horses.json"
+    },
+    {
+      "igdb_id": 205074,
+      "game_name": "Color Story: Pixa's Quest",
+      "file": "missing/C/205074-color-story-pixas-quest.json"
     },
     {
       "igdb_id": 306354,
@@ -51123,6 +51163,11 @@
       "file": "missing/D/373541-deepfried-in-deepspace.json"
     },
     {
+      "igdb_id": 205066,
+      "game_name": "DeepFriedCraft, the Worst Modpack Ever",
+      "file": "missing/D/205066-deepfriedcraft-the-worst-modpack-ever.json"
+    },
+    {
       "igdb_id": 66693,
       "game_name": "Deephome",
       "file": "missing/D/66693-deephome.json"
@@ -58416,6 +58461,11 @@
       "igdb_id": 97321,
       "game_name": "Dragon Tycoon Edge",
       "file": "missing/D/97321-dragon-tycoon-edge.json"
+    },
+    {
+      "igdb_id": 205060,
+      "game_name": "Dragon Up",
+      "file": "missing/D/205060-dragon-up.json"
     },
     {
       "igdb_id": 109744,
@@ -71388,6 +71438,11 @@
       "file": "missing/F/163987-fill-and-cross-trick-or-treat.json"
     },
     {
+      "igdb_id": 205027,
+      "game_name": "Fill in the Holes",
+      "file": "missing/F/205027-fill-in-the-holes.json"
+    },
+    {
       "igdb_id": 311817,
       "game_name": "Fill the Fridge",
       "file": "missing/F/311817-fill-the-fridge.json"
@@ -77118,6 +77173,11 @@
       "file": "missing/F/31539-fright-light.json"
     },
     {
+      "igdb_id": 205031,
+      "game_name": "Fright Night",
+      "file": "missing/F/205031-fright-night.json"
+    },
+    {
       "igdb_id": 172733,
       "game_name": "Frigid VR",
       "file": "missing/F/172733-frigid-vr.json"
@@ -78256,6 +78316,16 @@
       "igdb_id": 275562,
       "game_name": "Fur Squadron Phoenix",
       "file": "missing/F/275562-fur-squadron-phoenix.json"
+    },
+    {
+      "igdb_id": 205069,
+      "game_name": "Fura-fura Bouken Flan-chan",
+      "file": "missing/F/205069-fura-fura-bouken-flan-chan.json"
+    },
+    {
+      "igdb_id": 205070,
+      "game_name": "Fura-fura Bouken Flan-chan: Kaizoku Zaihou Tanken-tai",
+      "file": "missing/F/205070-fura-fura-bouken-flan-chan-kaizoku-zaihou-tanken-tai.json"
     },
     {
       "igdb_id": 204670,
@@ -80761,6 +80831,11 @@
       "igdb_id": 249226,
       "game_name": "General Staff: Black Powder",
       "file": "missing/G/249226-general-staff-black-powder.json"
+    },
+    {
+      "igdb_id": 205068,
+      "game_name": "Generality",
+      "file": "missing/G/205068-generality.json"
     },
     {
       "igdb_id": 305182,
@@ -88196,6 +88271,46 @@
       "igdb_id": 43954,
       "game_name": "Halo: Reach - Legendary Edition",
       "file": "missing/H/43954-halo-reach-legendary-edition.json"
+    },
+    {
+      "igdb_id": 205048,
+      "game_name": "Halo: The Master Chief Collection Season 1 - Noble",
+      "file": "missing/H/205048-halo-the-master-chief-collection-season-1-noble.json"
+    },
+    {
+      "igdb_id": 205049,
+      "game_name": "Halo: The Master Chief Collection Season 2 - Spark",
+      "file": "missing/H/205049-halo-the-master-chief-collection-season-2-spark.json"
+    },
+    {
+      "igdb_id": 205055,
+      "game_name": "Halo: The Master Chief Collection Season 3 - Recon",
+      "file": "missing/H/205055-halo-the-master-chief-collection-season-3-recon.json"
+    },
+    {
+      "igdb_id": 205050,
+      "game_name": "Halo: The Master Chief Collection Season 4 - Reclaimer",
+      "file": "missing/H/205050-halo-the-master-chief-collection-season-4-reclaimer.json"
+    },
+    {
+      "igdb_id": 205051,
+      "game_name": "Halo: The Master Chief Collection Season 5 - Anvil",
+      "file": "missing/H/205051-halo-the-master-chief-collection-season-5-anvil.json"
+    },
+    {
+      "igdb_id": 205052,
+      "game_name": "Halo: The Master Chief Collection Season 6 - Raven",
+      "file": "missing/H/205052-halo-the-master-chief-collection-season-6-raven.json"
+    },
+    {
+      "igdb_id": 205053,
+      "game_name": "Halo: The Master Chief Collection Season 7 - Elite",
+      "file": "missing/H/205053-halo-the-master-chief-collection-season-7-elite.json"
+    },
+    {
+      "igdb_id": 205054,
+      "game_name": "Halo: The Master Chief Collection Season 8 - Mythic",
+      "file": "missing/H/205054-halo-the-master-chief-collection-season-8-mythic.json"
     },
     {
       "igdb_id": 281399,
@@ -112028,6 +112143,11 @@
       "file": "missing/L/296069-laser-quest.json"
     },
     {
+      "igdb_id": 205059,
+      "game_name": "Laser Skirmish",
+      "file": "missing/L/205059-laser-skirmish.json"
+    },
+    {
       "igdb_id": 115680,
       "game_name": "Laser Stallion Disco Junkie: One Hit",
       "file": "missing/L/115680-laser-stallion-disco-junkie-one-hit.json"
@@ -114981,6 +115101,11 @@
       "igdb_id": 372989,
       "game_name": "Lightrix",
       "file": "missing/L/372989-lightrix.json"
+    },
+    {
+      "igdb_id": 205065,
+      "game_name": "Lightrock",
+      "file": "missing/L/205065-lightrock.json"
     },
     {
       "igdb_id": 339287,
@@ -120721,6 +120846,11 @@
       "igdb_id": 293075,
       "game_name": "Maize Mace Maze",
       "file": "missing/M/293075-maize-mace-maze.json"
+    },
+    {
+      "igdb_id": 205026,
+      "game_name": "Majestic Hero Pin",
+      "file": "missing/M/205026-majestic-hero-pin.json"
     },
     {
       "igdb_id": 240523,
@@ -130513,6 +130643,11 @@
       "file": "missing/M/294988-mole-gem-mayhem.json"
     },
     {
+      "igdb_id": 205035,
+      "game_name": "Mole Maiden",
+      "file": "missing/M/205035-mole-maiden.json"
+    },
+    {
       "igdb_id": 321164,
       "game_name": "Mole Mine Rocks 0.15",
       "file": "missing/M/321164-mole-mine-rocks-0-15.json"
@@ -139821,6 +139956,11 @@
       "igdb_id": 303489,
       "game_name": "Nibeos",
       "file": "missing/N/303489-nibeos.json"
+    },
+    {
+      "igdb_id": 205071,
+      "game_name": "Nibiru",
+      "file": "missing/N/205071-nibiru.json"
     },
     {
       "igdb_id": 123629,
@@ -155123,6 +155263,11 @@
       "file": "missing/P/374615-play-abalone.json"
     },
     {
+      "igdb_id": 205021,
+      "game_name": "Play and Learn with Josephine",
+      "file": "missing/P/205021-play-and-learn-with-josephine.json"
+    },
+    {
       "igdb_id": 22478,
       "game_name": "Play Club",
       "file": "missing/P/22478-play-club.json"
@@ -169498,6 +169643,11 @@
       "file": "missing/R/328489-robo-rescue.json"
     },
     {
+      "igdb_id": 205028,
+      "game_name": "Robo Revenge Squad",
+      "file": "missing/R/205028-robo-revenge-squad.json"
+    },
+    {
       "igdb_id": 196316,
       "game_name": "Robo Wars",
       "file": "missing/R/196316-robo-wars.json"
@@ -176353,6 +176503,11 @@
       "file": "missing/S/292537-sea-of-world.json"
     },
     {
+      "igdb_id": 205029,
+      "game_name": "Sea Plumber 2",
+      "file": "missing/S/205029-sea-plumber-2.json"
+    },
+    {
       "igdb_id": 217518,
       "game_name": "Sea Power: Naval Combat in the Missile Age",
       "file": "missing/S/217518-sea-power-naval-combat-in-the-missile-age.json"
@@ -176901,6 +177056,11 @@
       "igdb_id": 182552,
       "game_name": "SectorA23",
       "file": "missing/S/182552-sectora23.json"
+    },
+    {
+      "igdb_id": 205075,
+      "game_name": "Security Booth: Director's Cut",
+      "file": "missing/S/205075-security-booth-directors-cut.json"
     },
     {
       "igdb_id": 312000,
@@ -181623,6 +181783,11 @@
       "file": "missing/S/396245-silver-state.json"
     },
     {
+      "igdb_id": 205033,
+      "game_name": "Silver Wire",
+      "file": "missing/S/205033-silver-wire.json"
+    },
+    {
       "igdb_id": 101525,
       "game_name": "SilverDollar",
       "file": "missing/S/101525-silverdollar.json"
@@ -186146,6 +186311,11 @@
       "igdb_id": 180280,
       "game_name": "Solitaire Stories",
       "file": "missing/S/180280-solitaire-stories.json"
+    },
+    {
+      "igdb_id": 205024,
+      "game_name": "Solitaire Story 3",
+      "file": "missing/S/205024-solitaire-story-3.json"
     },
     {
       "igdb_id": 96764,
@@ -204578,6 +204748,11 @@
       "file": "missing/T/297228-teeny-tiny-trains.json"
     },
     {
+      "igdb_id": 205067,
+      "game_name": "Teeter",
+      "file": "missing/T/205067-teeter.json"
+    },
+    {
       "igdb_id": 228730,
       "game_name": "Teeth Brushing Simulator",
       "file": "missing/T/228730-teeth-brushing-simulator.json"
@@ -205061,6 +205236,16 @@
       "igdb_id": 47262,
       "game_name": "Tennis Menace",
       "file": "missing/T/47262-tennis-menace.json"
+    },
+    {
+      "igdb_id": 205063,
+      "game_name": "Tennis no Ouji-sama Motto Gakuensai no Ouji-sama: More Sweet Edition",
+      "file": "missing/T/205063-tennis-no-ouji-sama-motto-gakuensai-no-ouji-sama-more-sweet-edition.json"
+    },
+    {
+      "igdb_id": 205062,
+      "game_name": "Tennis no Ouji-sama: Gakuensai no Ouji-sama",
+      "file": "missing/T/205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json"
     },
     {
       "igdb_id": 405515,
@@ -223008,6 +223193,11 @@
       "file": "missing/T/22294-trackmania-sunrise.json"
     },
     {
+      "igdb_id": 205056,
+      "game_name": "TrackMania Sunrise Extreme",
+      "file": "missing/T/205056-trackmania-sunrise-extreme.json"
+    },
+    {
       "igdb_id": 11172,
       "game_name": "TrackMania Turbo",
       "file": "missing/T/11172-trackmania-turbo.json"
@@ -223823,6 +224013,21 @@
       "file": "missing/T/306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json"
     },
     {
+      "igdb_id": 205037,
+      "game_name": "Trainz Plus: CFR B 26-26 098",
+      "file": "missing/T/205037-trainz-plus-cfr-b-26-26-098.json"
+    },
+    {
+      "igdb_id": 205043,
+      "game_name": "Trainz Plus: CFR Calatori B 26-26 064",
+      "file": "missing/T/205043-trainz-plus-cfr-calatori-b-26-26-064.json"
+    },
+    {
+      "igdb_id": 205046,
+      "game_name": "Trainz Plus: CFR Calatori B 26-26 186",
+      "file": "missing/T/205046-trainz-plus-cfr-calatori-b-26-26-186.json"
+    },
+    {
       "igdb_id": 205542,
       "game_name": "Trainz Plus: Chesapeake & Ohio K3-K3a 2-8-2",
       "file": "missing/T/205542-trainz-plus-chesapeake-and-ohio-k3-k3a-2-8-2.json"
@@ -223916,6 +224121,11 @@
       "igdb_id": 288212,
       "game_name": "Trainz Plus: Port Saturn",
       "file": "missing/T/288212-trainz-plus-port-saturn.json"
+    },
+    {
+      "igdb_id": 205041,
+      "game_name": "Trainz Plus: Potteries Loop Line",
+      "file": "missing/T/205041-trainz-plus-potteries-loop-line.json"
     },
     {
       "igdb_id": 205553,
@@ -224018,6 +224228,11 @@
       "file": "missing/T/190717-trainz-railroad-simulator-2019-centrella-sub-division.json"
     },
     {
+      "igdb_id": 205038,
+      "game_name": "Trainz Railroad Simulator 2019: CFR B 26-26 098",
+      "file": "missing/T/205038-trainz-railroad-simulator-2019-cfr-b-26-26-098.json"
+    },
+    {
       "igdb_id": 227282,
       "game_name": "Trainz Railroad Simulator 2019: CFR Gorlitz Doubledecker Pack",
       "file": "missing/T/227282-trainz-railroad-simulator-2019-cfr-gorlitz-doubledecker-pack.json"
@@ -224066,6 +224281,11 @@
       "igdb_id": 288210,
       "game_name": "Trainz Railroad Simulator 2019: Port Saturn",
       "file": "missing/T/288210-trainz-railroad-simulator-2019-port-saturn.json"
+    },
+    {
+      "igdb_id": 205042,
+      "game_name": "Trainz Railroad Simulator 2019: Potteries Loop Line",
+      "file": "missing/T/205042-trainz-railroad-simulator-2019-potteries-loop-line.json"
     },
     {
       "igdb_id": 211918,
@@ -224123,6 +224343,21 @@
       "file": "missing/T/195792-trainz-railroad-simulator-2022.json"
     },
     {
+      "igdb_id": 205039,
+      "game_name": "Trainz Railroad Simulator 2022: CFR B 26-26 098",
+      "file": "missing/T/205039-trainz-railroad-simulator-2022-cfr-b-26-26-098.json"
+    },
+    {
+      "igdb_id": 205044,
+      "game_name": "Trainz Railroad Simulator 2022: CFR Calatori B 26-26 064",
+      "file": "missing/T/205044-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-064.json"
+    },
+    {
+      "igdb_id": 205045,
+      "game_name": "Trainz Railroad Simulator 2022: CFR Calatori B 26-26 186",
+      "file": "missing/T/205045-trainz-railroad-simulator-2022-cfr-calatori-b-26-26-186.json"
+    },
+    {
       "igdb_id": 285474,
       "game_name": "Trainz Railroad Simulator 2022: Harvard Subdivision - Commuter Edition",
       "file": "missing/T/285474-trainz-railroad-simulator-2022-harvard-subdivision-commuter-edition.json"
@@ -224136,6 +224371,11 @@
       "igdb_id": 288211,
       "game_name": "Trainz Railroad Simulator 2022: Port Saturn",
       "file": "missing/T/288211-trainz-railroad-simulator-2022-port-saturn.json"
+    },
+    {
+      "igdb_id": 205040,
+      "game_name": "Trainz Railroad Simulator 2022: Potteries Loop Line",
+      "file": "missing/T/205040-trainz-railroad-simulator-2022-potteries-loop-line.json"
     },
     {
       "igdb_id": 227275,
@@ -232956,6 +233196,11 @@
       "igdb_id": 282024,
       "game_name": "Voids Vigil",
       "file": "missing/V/282024-voids-vigil.json"
+    },
+    {
+      "igdb_id": 205036,
+      "game_name": "Voidwalkers: The Gates of Hell - Hell's Dungeon",
+      "file": "missing/V/205036-voidwalkers-the-gates-of-hell-hells-dungeon.json"
     },
     {
       "igdb_id": 298019,
@@ -243061,6 +243306,11 @@
       "igdb_id": 264900,
       "game_name": "Yummy Jewels",
       "file": "missing/Y/264900-yummy-jewels.json"
+    },
+    {
+      "igdb_id": 205023,
+      "game_name": "Yummy Tales 2",
+      "file": "missing/Y/205023-yummy-tales-2.json"
     },
     {
       "igdb_id": 69279,
