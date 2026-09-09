@@ -148,7 +148,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
-| 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
 | 1v1 Battle | 188080 | [188080-1v1-battle.json](./188080-1v1-battle.json) |
@@ -429,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 768^2 | 271238 | [271238-768-2.json](./271238-768-2.json) |
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
+| 78 | 193448 | [193448-78.json](./193448-78.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
 | 7869 | 280232 | [280232-7869.json](./280232-7869.json) |
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
