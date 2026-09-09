@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
 | Tactics & Strategy Master 3: Gemini Strategy | 284350 | [284350-tactics-and-strategy-master-3-gemini-strategy.json](./284350-tactics-and-strategy-master-3-gemini-strategy.json) |
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
+| Tactics Maiden | 207856 | [207856-tactics-maiden.json](./207856-tactics-maiden.json) |
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
 | Take It Racing 2 | 287105 | [287105-take-it-racing-2.json](./287105-take-it-racing-2.json) |
 | Take Me Home | 362292 | [362292-take-me-home.json](./362292-take-me-home.json) |
+| Take no Prisoners | 207807 | [207807-take-no-prisoners.json](./207807-take-no-prisoners.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
@@ -369,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantei Toki to Yukiyama Kaishi Densetsu Satsujin Jiken | 150118 | [150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json](./150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json) |
 | Tanteidan X | 356073 | [356073-tanteidan-x.json](./356073-tanteidan-x.json) |
+| Tantrix Quiz | 207838 | [207838-tantrix-quiz.json](./207838-tantrix-quiz.json) |
 | Tantrum | 274220 | [274220-tantrum.json](./274220-tantrum.json) |
 | Tantrum 2 | 274221 | [274221-tantrum-2.json](./274221-tantrum-2.json) |
 | Tanuki: Pon's Summer | 317817 | [317817-tanuki-pons-summer.json](./317817-tanuki-pons-summer.json) |
@@ -2424,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
 | The Race for the White House 2016 | 31386 | [31386-the-race-for-the-white-house-2016.json](./31386-the-race-for-the-white-house-2016.json) |
 | The Race to Goo Lagoon | 404243 | [404243-the-race-to-goo-lagoon.json](./404243-the-race-to-goo-lagoon.json) |
+| The Rack | 207808 | [207808-the-rack.json](./207808-the-rack.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rainbox | 358874 | [358874-the-rainbox.json](./358874-the-rainbox.json) |
 | The Rainman | 301835 | [301835-the-rainman.json](./301835-the-rainman.json) |
@@ -3671,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
 | TNTPhobia | 311461 | [311461-tntphobia.json](./311461-tntphobia.json) |
 | To Altare | 281418 | [281418-to-altare.json](./281418-to-altare.json) |
+| To Arms!! | 207826 | [207826-to-arms.json](./207826-to-arms.json) |
 | To Be A Dummy Head VR | 118377 | [118377-to-be-a-dummy-head-vr.json](./118377-to-be-a-dummy-head-vr.json) |
 | To Be A Dummy Head VR: Ferris Wheel Story | 118379 | [118379-to-be-a-dummy-head-vr-ferris-wheel-story.json](./118379-to-be-a-dummy-head-vr-ferris-wheel-story.json) |
 | To Be A Dummy Head VR: Hotel Elevator Story | 118378 | [118378-to-be-a-dummy-head-vr-hotel-elevator-story.json](./118378-to-be-a-dummy-head-vr-hotel-elevator-story.json) |
