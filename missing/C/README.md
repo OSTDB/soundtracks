@@ -1317,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChronoBreach | 117045 | [117045-chronobreach.json](./117045-chronobreach.json) |
 | ChronoClone | 301280 | [301280-chronoclone.json](./301280-chronoclone.json) |
 | ChronoCodex | 237053 | [237053-chronocodex.json](./237053-chronocodex.json) |
+| Chronodog: Earth Defender | 185067 | [185067-chronodog-earth-defender.json](./185067-chronodog-earth-defender.json) |
 | Chronology | 10087 | [10087-chronology.json](./10087-chronology.json) |
 | Chronology: Deluxe Edition | 257371 | [257371-chronology-deluxe-edition.json](./257371-chronology-deluxe-edition.json) |
 | Chronomina | 185620 | [185620-chronomina.json](./185620-chronomina.json) |
@@ -1380,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
+| CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
 | Circle of Orion | 257930 | [257930-circle-of-orion.json](./257930-circle-of-orion.json) |
 | Circle of Sumo: Online Rumble! | 126661 | [126661-circle-of-sumo-online-rumble.json](./126661-circle-of-sumo-online-rumble.json) |
@@ -2695,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Case: Save the World! | 262383 | [262383-criminal-case-save-the-world.json](./262383-criminal-case-save-the-world.json) |
 | Criminal Case: The Conspiracy | 262381 | [262381-criminal-case-the-conspiracy.json](./262381-criminal-case-the-conspiracy.json) |
 | Criminal Case: Travel in Time | 262388 | [262388-criminal-case-travel-in-time.json](./262388-criminal-case-travel-in-time.json) |
+| Criminal Consequences | 185073 | [185073-criminal-consequences.json](./185073-criminal-consequences.json) |
 | Criminal Pursuit Force | 110349 | [110349-criminal-pursuit-force.json](./110349-criminal-pursuit-force.json) |
 | Criminal Stories: CSI Episode | 215394 | [215394-criminal-stories-csi-episode.json](./215394-criminal-stories-csi-episode.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
@@ -2800,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
 | Crowd City: Zombie Edition | 274485 | [274485-crowd-city-zombie-edition.json](./274485-crowd-city-zombie-edition.json) |
 | Crowd Control VR | 295788 | [295788-crowd-control-vr.json](./295788-crowd-control-vr.json) |
+| Crowd King | 185106 | [185106-crowd-king.json](./185106-crowd-king.json) |
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
 | Crown Champion: Legends of the Arena | 31349 | [31349-crown-champion-legends-of-the-arena.json](./31349-crown-champion-legends-of-the-arena.json) |
 | Crown Chase | 412268 | [412268-crown-chase.json](./412268-crown-chase.json) |
