@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T09:41:08.775Z",
-  "total_missing": 49955,
+  "generated_at": "2026-09-09T09:49:01.755Z",
+  "total_missing": 50005,
   "games": [
     {
       "igdb_id": 306086,
@@ -9408,6 +9408,11 @@
       "file": "missing/A/213982-amayas-lost-soul.json"
     },
     {
+      "igdb_id": 194578,
+      "game_name": "Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu",
+      "file": "missing/A/194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json"
+    },
+    {
       "igdb_id": 36472,
       "game_name": "Amaze 2",
       "file": "missing/A/36472-amaze-2.json"
@@ -16518,6 +16523,11 @@
       "file": "missing/A/33173-atlas-reactor-vr-character-viewer.json"
     },
     {
+      "igdb_id": 194540,
+      "game_name": "Atled: Everlasting Song",
+      "file": "missing/A/194540-atled-everlasting-song.json"
+    },
+    {
       "igdb_id": 333387,
       "game_name": "Atlus Collaboration Costume Set",
       "file": "missing/A/333387-atlus-collaboration-costume-set.json"
@@ -17616,6 +17626,11 @@
       "igdb_id": 56521,
       "game_name": "Ayakashibito: Genyou Ibunroku",
       "file": "missing/A/56521-ayakashibito-genyou-ibunroku.json"
+    },
+    {
+      "igdb_id": 194546,
+      "game_name": "Ayame no Machi to Ohime-sama",
+      "file": "missing/A/194546-ayame-no-machi-to-ohime-sama.json"
     },
     {
       "igdb_id": 317604,
@@ -27538,6 +27553,11 @@
       "file": "missing/B/59440-boku-no-choro-q.json"
     },
     {
+      "igdb_id": 194539,
+      "game_name": "Boku no Mirai ha, Koi to Kakin to.: Charge to the Future",
+      "file": "missing/B/194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json"
+    },
+    {
       "igdb_id": 322009,
       "game_name": "Boku no Saiai no",
       "file": "missing/B/322009-boku-no-saiai-no.json"
@@ -34706,6 +34726,11 @@
       "igdb_id": 358283,
       "game_name": "Case Blind: Stolen Route",
       "file": "missing/C/358283-case-blind-stolen-route.json"
+    },
+    {
+      "igdb_id": 194565,
+      "game_name": "Case Clicker",
+      "file": "missing/C/194565-case-clicker.json"
     },
     {
       "igdb_id": 95435,
@@ -58093,6 +58118,11 @@
       "file": "missing/D/222327-dopamix.json"
     },
     {
+      "igdb_id": 194556,
+      "game_name": "DopeMine Arena",
+      "file": "missing/D/194556-dopemine-arena.json"
+    },
+    {
       "igdb_id": 275029,
       "game_name": "Doppelgänger",
       "file": "missing/D/275029-doppelganger.json"
@@ -66441,6 +66471,11 @@
       "igdb_id": 362859,
       "game_name": "Erl",
       "file": "missing/E/362859-erl.json"
+    },
+    {
+      "igdb_id": 194579,
+      "game_name": "Ero Zemi: Ecchi ni Yaru-ki ni ABC",
+      "file": "missing/E/194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json"
     },
     {
       "igdb_id": 259572,
@@ -80258,6 +80293,11 @@
       "file": "missing/F/265927-fuu3s-fuun-journey.json"
     },
     {
+      "igdb_id": 194589,
+      "game_name": "FuuGaku: Hisshuu Kamoku wa Sei Jitsugi! H na Jugyou de One Two Step",
+      "file": "missing/F/194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json"
+    },
+    {
       "igdb_id": 294694,
       "game_name": "Fuuka σ Taisen",
       "file": "missing/F/294694-fuuka-taisen.json"
@@ -83731,6 +83771,11 @@
       "igdb_id": 284340,
       "game_name": "Girls Battlegrounds",
       "file": "missing/G/284340-girls-battlegrounds.json"
+    },
+    {
+      "igdb_id": 194573,
+      "game_name": "Girls Book Maker: Shiawase no Libretto",
+      "file": "missing/G/194573-girls-book-maker-shiawase-no-libretto.json"
     },
     {
       "igdb_id": 222331,
@@ -95423,6 +95468,11 @@
       "file": "missing/H/137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json"
     },
     {
+      "igdb_id": 194574,
+      "game_name": "Himawari to Koi no Kioku",
+      "file": "missing/H/194574-himawari-to-koi-no-kioku.json"
+    },
+    {
       "igdb_id": 249473,
       "game_name": "Hime's Blossom",
       "file": "missing/H/249473-himes-blossom.json"
@@ -95471,6 +95521,11 @@
       "igdb_id": 208404,
       "game_name": "Hina-chan no Yakiniku Party",
       "file": "missing/H/208404-hina-chan-no-yakiniku-party.json"
+    },
+    {
+      "igdb_id": 194557,
+      "game_name": "Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible",
+      "file": "missing/H/194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json"
     },
     {
       "igdb_id": 122404,
@@ -100253,6 +100308,11 @@
       "file": "missing/I/415923-ichorian-tales.json"
     },
     {
+      "igdb_id": 194541,
+      "game_name": "Icing: Love Coating",
+      "file": "missing/I/194541-icing-love-coating.json"
+    },
+    {
       "igdb_id": 200159,
       "game_name": "iClub Manager",
       "file": "missing/I/200159-iclub-manager.json"
@@ -101396,6 +101456,11 @@
       "igdb_id": 152288,
       "game_name": "Immortality",
       "file": "missing/I/152288-immortality.json"
+    },
+    {
+      "igdb_id": 194560,
+      "game_name": "Immortals: Muv-Luv Alternative",
+      "file": "missing/I/194560-immortals-muv-luv-alternative.json"
     },
     {
       "igdb_id": 273663,
@@ -104426,6 +104491,11 @@
       "igdb_id": 348229,
       "game_name": "Isekai Mining Defense",
       "file": "missing/I/348229-isekai-mining-defense.json"
+    },
+    {
+      "igdb_id": 194592,
+      "game_name": "Isekai Musume Hatsujouchuu: Ore no Are wo Hamu-hamu Shimakuri!?",
+      "file": "missing/I/194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json"
     },
     {
       "igdb_id": 196828,
@@ -110728,9 +110798,24 @@
       "file": "missing/K/360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json"
     },
     {
+      "igdb_id": 194548,
+      "game_name": "Kimi no Tonari de Koishiteru!",
+      "file": "missing/K/194548-kimi-no-tonari-de-koishiteru.json"
+    },
+    {
+      "igdb_id": 194549,
+      "game_name": "Kimi no Tonari de Koishiteru!: The Respective Happiness",
+      "file": "missing/K/194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json"
+    },
+    {
       "igdb_id": 311494,
       "game_name": "Kimi sae Ireba: Episode Sutelz",
       "file": "missing/K/311494-kimi-sae-ireba-episode-sutelz.json"
+    },
+    {
+      "igdb_id": 194583,
+      "game_name": "Kimi to Boku to no Kishi no Hibi: Rakuen no Chevalier",
+      "file": "missing/K/194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json"
     },
     {
       "igdb_id": 394886,
@@ -110741,6 +110826,11 @@
       "igdb_id": 398997,
       "game_name": "Kimi to Mezameru Ikutsuka no Houhou",
       "file": "missing/K/398997-kimi-to-mezameru-ikutsuka-no-houhou.json"
+    },
+    {
+      "igdb_id": 194582,
+      "game_name": "Kimi to Yumemishi",
+      "file": "missing/K/194582-kimi-to-yumemishi.json"
     },
     {
       "igdb_id": 249774,
@@ -111358,6 +111448,11 @@
       "file": "missing/K/300408-kirakira-slimes.json"
     },
     {
+      "igdb_id": 194584,
+      "game_name": "Kirari Nangoku Komugiiro: Shiofuki Paradise he Youkoso!",
+      "file": "missing/K/194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json"
+    },
+    {
       "igdb_id": 70417,
       "game_name": "Kirarin Revolution: Atsumete Change! Qurukira Coord",
       "file": "missing/K/70417-kirarin-revolution-atsumete-change-qurukira-coord.json"
@@ -111466,6 +111561,11 @@
       "igdb_id": 376480,
       "game_name": "Kishki",
       "file": "missing/K/376480-kishki.json"
+    },
+    {
+      "igdb_id": 194570,
+      "game_name": "Kiss & Crisis",
+      "file": "missing/K/194570-kiss-and-crisis.json"
     },
     {
       "igdb_id": 235477,
@@ -112318,6 +112418,21 @@
       "file": "missing/K/40230-koi-no-hotrock.json"
     },
     {
+      "igdb_id": 194535,
+      "game_name": "Koi Shiyo?",
+      "file": "missing/K/194535-koi-shiyo.json"
+    },
+    {
+      "igdb_id": 194533,
+      "game_name": "Koi wa Sotto Saku Hana no you ni",
+      "file": "missing/K/194533-koi-wa-sotto-saku-hana-no-you-ni.json"
+    },
+    {
+      "igdb_id": 194534,
+      "game_name": "Koi wa Sotto Saku Hana no you ni: Futari wa Eien ni Yorisotte Iku",
+      "file": "missing/K/194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json"
+    },
+    {
       "igdb_id": 53261,
       "game_name": "Koi-Koi Japan: Ukiyoe Deluxe Edition",
       "file": "missing/K/53261-koi-koi-japan-ukiyoe-deluxe-edition.json"
@@ -112521,6 +112636,11 @@
       "igdb_id": 324676,
       "game_name": "Kono Aozora ni Yakusoku wo: Te no Hira no Rakuen",
       "file": "missing/K/324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json"
+    },
+    {
+      "igdb_id": 194585,
+      "game_name": "Kono Koi, Seishun ni Yori.",
+      "file": "missing/K/194585-kono-koi-seishun-ni-yori.json"
     },
     {
       "igdb_id": 131568,
@@ -120523,6 +120643,11 @@
       "file": "missing/L/193536-lover-pretend.json"
     },
     {
+      "igdb_id": 194598,
+      "game_name": "Loveressive",
+      "file": "missing/L/194598-loveressive.json"
+    },
+    {
       "igdb_id": 241374,
       "game_name": "Lovers in Playa Rosa",
       "file": "missing/L/241374-lovers-in-playa-rosa.json"
@@ -122598,6 +122723,11 @@
       "file": "missing/M/70411-magical-zunou-power-ds.json"
     },
     {
+      "igdb_id": 194554,
+      "game_name": "Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete",
+      "file": "missing/M/194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json"
+    },
+    {
       "igdb_id": 211730,
       "game_name": "MagiCarnage",
       "file": "missing/M/211730-magicarnage.json"
@@ -123771,6 +123901,11 @@
       "igdb_id": 288757,
       "game_name": "Manzaka",
       "file": "missing/M/288757-manzaka.json"
+    },
+    {
+      "igdb_id": 194576,
+      "game_name": "Maoten",
+      "file": "missing/M/194576-maoten.json"
     },
     {
       "igdb_id": 112338,
@@ -137368,6 +137503,11 @@
       "file": "missing/M/52598-my-aquarium.json"
     },
     {
+      "igdb_id": 194595,
+      "game_name": "My Array is Too Sacred to Be Useful!?",
+      "file": "missing/M/194595-my-array-is-too-sacred-to-be-useful.json"
+    },
+    {
       "igdb_id": 48041,
       "game_name": "My Baby 3 & Friends",
       "file": "missing/M/48041-my-baby-3-and-friends.json"
@@ -139921,6 +140061,11 @@
       "igdb_id": 109001,
       "game_name": "Natsu Ecchi 2: Futago to Inaka no Natsuyasumi",
       "file": "missing/N/109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json"
+    },
+    {
+      "igdb_id": 194597,
+      "game_name": "Natsu Koi High Pressure",
+      "file": "missing/N/194597-natsu-koi-high-pressure.json"
     },
     {
       "igdb_id": 201810,
@@ -149383,6 +149528,11 @@
       "file": "missing/O/256520-orderzero.json"
     },
     {
+      "igdb_id": 194594,
+      "game_name": "Ore Dake no Idol: eye no Sainou",
+      "file": "missing/O/194594-ore-dake-no-idol-eye-no-sainou.json"
+    },
+    {
       "igdb_id": 224208,
       "game_name": "Ore ga Watashi ni Kawatta Hi...: Becoming a She",
       "file": "missing/O/224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json"
@@ -149643,6 +149793,16 @@
       "file": "missing/O/141218-oshigoto-theme-park-2.json"
     },
     {
+      "igdb_id": 194580,
+      "game_name": "Oshirikko Venus",
+      "file": "missing/O/194580-oshirikko-venus.json"
+    },
+    {
+      "igdb_id": 194581,
+      "game_name": "Oshirikko Venus 2",
+      "file": "missing/O/194581-oshirikko-venus-2.json"
+    },
+    {
       "igdb_id": 222909,
       "game_name": "Osminog Adventures: The Lost Island",
       "file": "missing/O/222909-osminog-adventures-the-lost-island.json"
@@ -149788,6 +149948,11 @@
       "file": "missing/O/199051-otome-chat-connection.json"
     },
     {
+      "igdb_id": 194593,
+      "game_name": "Otome ga Musubu Tsukiyo no Kirameki",
+      "file": "missing/O/194593-otome-ga-musubu-tsukiyo-no-kirameki.json"
+    },
+    {
       "igdb_id": 248628,
       "game_name": "Otona no Gal Jan Kimi ni Hane Man",
       "file": "missing/O/248628-otona-no-gal-jan-kimi-ni-hane-man.json"
@@ -149796,6 +149961,11 @@
       "igdb_id": 68029,
       "game_name": "Otona no Joushikiryoku Training DS",
       "file": "missing/O/68029-otona-no-joushikiryoku-training-ds.json"
+    },
+    {
+      "igdb_id": 194547,
+      "game_name": "Otonari Koi Sensou!",
+      "file": "missing/O/194547-otonari-koi-sensou.json"
     },
     {
       "igdb_id": 241366,
@@ -164003,6 +164173,11 @@
       "file": "missing/P/277034-pure-nastalgia.json"
     },
     {
+      "igdb_id": 194575,
+      "game_name": "Pure Song Garden!",
+      "file": "missing/P/194575-pure-song-garden.json"
+    },
+    {
       "igdb_id": 175431,
       "game_name": "PureSkate 2",
       "file": "missing/P/175431-pureskate-2.json"
@@ -168051,6 +168226,11 @@
       "igdb_id": 194627,
       "game_name": "Real Erogame Situation! Triple H",
       "file": "missing/R/194627-real-erogame-situation-triple-h.json"
+    },
+    {
+      "igdb_id": 194590,
+      "game_name": "Real Eroge Situation!",
+      "file": "missing/R/194590-real-eroge-situation.json"
     },
     {
       "igdb_id": 89224,
@@ -176028,6 +176208,11 @@
       "file": "missing/R/265942-russian-roulette-ii-the-next-worlds.json"
     },
     {
+      "igdb_id": 194564,
+      "game_name": "Russian Roulette: One Life",
+      "file": "missing/R/194564-russian-roulette-one-life.json"
+    },
+    {
       "igdb_id": 32005,
       "game_name": "Russian VR Coasters",
       "file": "missing/R/32005-russian-vr-coasters.json"
@@ -180288,6 +180473,11 @@
       "file": "missing/S/25756-seeds-life.json"
     },
     {
+      "igdb_id": 194561,
+      "game_name": "Seeds of Calamity",
+      "file": "missing/S/194561-seeds-of-calamity.json"
+    },
+    {
       "igdb_id": 196804,
       "game_name": "Seeds of Unity",
       "file": "missing/S/196804-seeds-of-unity.json"
@@ -183486,6 +183676,11 @@
       "igdb_id": 35936,
       "game_name": "Shipwreck",
       "file": "missing/S/35936-shipwreck.json"
+    },
+    {
+      "igdb_id": 194531,
+      "game_name": "Shiraha Kirameku Koi Shirabe",
+      "file": "missing/S/194531-shiraha-kirameku-koi-shirabe.json"
     },
     {
       "igdb_id": 196886,
@@ -190071,6 +190266,11 @@
       "igdb_id": 165014,
       "game_name": "Songbringer: The Trial of Ren",
       "file": "missing/S/165014-songbringer-the-trial-of-ren.json"
+    },
+    {
+      "igdb_id": 194563,
+      "game_name": "SongPop Party",
+      "file": "missing/S/194563-songpop-party.json"
     },
     {
       "igdb_id": 222283,
@@ -196766,6 +196966,11 @@
       "igdb_id": 179204,
       "game_name": "Starlight Explorers",
       "file": "missing/S/179204-starlight-explorers.json"
+    },
+    {
+      "igdb_id": 194586,
+      "game_name": "Starlight Idol: Colorful Top Stage!",
+      "file": "missing/S/194586-starlight-idol-colorful-top-stage.json"
     },
     {
       "igdb_id": 372998,
@@ -206518,6 +206723,11 @@
       "file": "missing/T/395577-takeover-trail.json"
     },
     {
+      "igdb_id": 194571,
+      "game_name": "Takepoint.io",
+      "file": "missing/T/194571-takepoint-io.json"
+    },
+    {
       "igdb_id": 222300,
       "game_name": "Takeyariman",
       "file": "missing/T/222300-takeyariman.json"
@@ -207796,6 +208006,11 @@
       "igdb_id": 301806,
       "game_name": "Taquero Simulator",
       "file": "missing/T/301806-taquero-simulator.json"
+    },
+    {
+      "igdb_id": 194555,
+      "game_name": "Tarareba",
+      "file": "missing/T/194555-tarareba.json"
     },
     {
       "igdb_id": 132251,
@@ -230478,6 +230693,16 @@
       "file": "missing/T/67989-tsuushin-taisen-mahjong-touryuumon.json"
     },
     {
+      "igdb_id": 194587,
+      "game_name": "Tsuyokiss Festival",
+      "file": "missing/T/194587-tsuyokiss-festival.json"
+    },
+    {
+      "igdb_id": 194588,
+      "game_name": "Tsuyokiss Next",
+      "file": "missing/T/194588-tsuyokiss-next.json"
+    },
+    {
       "igdb_id": 37778,
       "game_name": "Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama",
       "file": "missing/T/37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json"
@@ -238393,6 +238618,11 @@
       "file": "missing/W/194626-walkure-romanze-re-tell-ii.json"
     },
     {
+      "igdb_id": 194591,
+      "game_name": "Walkure Romanze: Shoujo Kishi Monogatari",
+      "file": "missing/W/194591-walkure-romanze-shoujo-kishi-monogatari.json"
+    },
+    {
       "igdb_id": 312917,
       "game_name": "Wall Gai",
       "file": "missing/W/312917-wall-gai.json"
@@ -240458,6 +240688,11 @@
       "file": "missing/W/266798-welcome-teacher.json"
     },
     {
+      "igdb_id": 194551,
+      "game_name": "Welcome to a Sexy, Open World!",
+      "file": "missing/W/194551-welcome-to-a-sexy-open-world.json"
+    },
+    {
       "igdb_id": 132264,
       "game_name": "Welcome To Chichester OVN 3: The Mysterious Affair at the Violet Hotel",
       "file": "missing/W/132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json"
@@ -240946,6 +241181,11 @@
       "igdb_id": 257409,
       "game_name": "Wheat Harvest Paradox",
       "file": "missing/W/257409-wheat-harvest-paradox.json"
+    },
+    {
+      "igdb_id": 194569,
+      "game_name": "Wheel of Fortune",
+      "file": "missing/W/194569-wheel-of-fortune.json"
     },
     {
       "igdb_id": 220131,
@@ -242681,6 +242921,11 @@
       "igdb_id": 368492,
       "game_name": "Winning Tactics",
       "file": "missing/W/368492-winning-tactics.json"
+    },
+    {
+      "igdb_id": 194559,
+      "game_name": "Winter",
+      "file": "missing/W/194559-winter.json"
     },
     {
       "igdb_id": 122400,
@@ -246286,6 +246531,11 @@
       "igdb_id": 216818,
       "game_name": "Xxx_Cyberrat_Xxx",
       "file": "missing/X/216818-xxx-cyberrat-xxx.json"
+    },
+    {
+      "igdb_id": 194567,
+      "game_name": "XxxHolic: Watanuki no Izayoi Sowa",
+      "file": "missing/X/194567-xxxholic-watanuki-no-izayoi-sowa.json"
     },
     {
       "igdb_id": 170506,
