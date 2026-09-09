@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
+| Paper Shakespeare: Very Naked Hamlet | 171577 | [171577-paper-shakespeare-very-naked-hamlet.json](./171577-paper-shakespeare-very-naked-hamlet.json) |
 | Paper Snakes | 196808 | [196808-paper-snakes.json](./196808-paper-snakes.json) |
 | Paper Snow | 241977 | [241977-paper-snow.json](./241977-paper-snow.json) |
 | Paper Trail | 142561 | [142561-paper-trail.json](./142561-paper-trail.json) |
