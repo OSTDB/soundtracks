@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
 | Learn to Play Vol. 3: Mice Love Cheese | 305786 | [305786-learn-to-play-vol-3-mice-love-cheese.json](./305786-learn-to-play-vol-3-mice-love-cheese.json) |
 | Learning Ladder: Years 1 & 2 | 326983 | [326983-learning-ladder-years-1-and-2.json](./326983-learning-ladder-years-1-and-2.json) |
+| Learning Life: Mysteeri 24/7 | 193434 | [193434-learning-life-mysteeri-24-7.json](./193434-learning-life-mysteeri-24-7.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
@@ -471,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Koyannis | 110368 | [110368-legends-of-koyannis.json](./110368-legends-of-koyannis.json) |
 | Legends of Luisa Llama | 239078 | [239078-legends-of-luisa-llama.json](./239078-legends-of-luisa-llama.json) |
 | Legends of Lunia | 193974 | [193974-legends-of-lunia.json](./193974-legends-of-lunia.json) |
+| Legends of Mathmatica 2: Under the Shadow of Certainty | 193417 | [193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json](./193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json) |
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
 | Legends of Solitaire: Curse of the Dragons | 34532 | [34532-legends-of-solitaire-curse-of-the-dragons.json](./34532-legends-of-solitaire-curse-of-the-dragons.json) |
