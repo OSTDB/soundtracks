@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T00:48:29.054Z",
-  "total_missing": 48689,
+  "generated_at": "2026-09-09T00:51:00.650Z",
+  "total_missing": 48688,
   "games": [
     {
       "igdb_id": 306086,
@@ -421,11 +421,6 @@
       "igdb_id": 326082,
       "game_name": "101 Cats in Madrid",
       "file": "missing/0-9/326082-101-cats-in-madrid.json"
-    },
-    {
-      "igdb_id": 326081,
-      "game_name": "101 Cats in Miami",
-      "file": "missing/0-9/326081-101-cats-in-miami.json"
     },
     {
       "igdb_id": 337608,
