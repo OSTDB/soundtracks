@@ -465,10 +465,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
+| Barrage | 196818 | [196818-barrage.json](./196818-barrage.json) |
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
 | Barrage Musical: Basic Danmaku Tutorial | 127463 | [127463-barrage-musical-basic-danmaku-tutorial.json](./127463-barrage-musical-basic-danmaku-tutorial.json) |
 | Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
 | Barrel Full of Monkeys | 223496 | [223496-barrel-full-of-monkeys.json](./223496-barrel-full-of-monkeys.json) |
+| Barrel River 2 | 196809 | [196809-barrel-river-2.json](./196809-barrel-river-2.json) |
 | Barrel-Blastapalooza | 231643 | [231643-barrel-blastapalooza.json](./231643-barrel-blastapalooza.json) |
 | Barrels Up | 75181 | [75181-barrels-up.json](./75181-barrels-up.json) |
 | Barren Roads | 35954 | [35954-barren-roads.json](./35954-barren-roads.json) |
@@ -690,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
 | Battle Pinball | 37205 | [37205-battle-pinball.json](./37205-battle-pinball.json) |
 | Battle Pingpong | 7774 | [7774-battle-pingpong.json](./7774-battle-pingpong.json) |
+| Battle Pirates | 196792 | [196792-battle-pirates.json](./196792-battle-pirates.json) |
 | Battle Pixel's Survival | 76680 | [76680-battle-pixels-survival.json](./76680-battle-pixels-survival.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
@@ -2473,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bride into the Cave | 273378 | [273378-bride-into-the-cave.json](./273378-bride-into-the-cave.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
+| Bridge Constructor Bundle | 196830 | [196830-bridge-constructor-bundle.json](./196830-bridge-constructor-bundle.json) |
 | Bridge Constructor Compilation | 131601 | [131601-bridge-constructor-compilation.json](./131601-bridge-constructor-compilation.json) |
 | Bridge Constructor: Playground | 17098 | [17098-bridge-constructor-playground.json](./17098-bridge-constructor-playground.json) |
 | Bridge Constructor: Ultimate Edition | 129195 | [129195-bridge-constructor-ultimate-edition.json](./129195-bridge-constructor-ultimate-edition.json) |
