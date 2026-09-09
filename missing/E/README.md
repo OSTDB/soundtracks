@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EastEnders | 79304 | [79304-eastenders.json](./79304-eastenders.json) |
 | Easter Bunneh | 79941 | [79941-easter-bunneh.json](./79941-easter-bunneh.json) |
 | Easter Bunny | 278154 | [278154-easter-bunny.json](./278154-easter-bunny.json) |
+| Easter Bunny on Speed | 186270 | [186270-easter-bunny-on-speed.json](./186270-easter-bunny-on-speed.json) |
 | Easter Day Solitaire | 339789 | [339789-easter-day-solitaire.json](./339789-easter-day-solitaire.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Eastern Europe Bus Sim | 232454 | [232454-eastern-europe-bus-sim.json](./232454-eastern-europe-bus-sim.json) |
@@ -327,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
 | Elden Ring: Collector's Edition | 180258 | [180258-elden-ring-collectors-edition.json](./180258-elden-ring-collectors-edition.json) |
 | Elden Ring: Dark Moon | 309346 | [309346-elden-ring-dark-moon.json](./309346-elden-ring-dark-moon.json) |
+| Elden Ring: Deluxe Edition | 186227 | [186227-elden-ring-deluxe-edition.json](./186227-elden-ring-deluxe-edition.json) |
 | Elden Ring: Launch Edition | 180259 | [180259-elden-ring-launch-edition.json](./180259-elden-ring-launch-edition.json) |
 | Elden Ring: Nightreign - Seeker's Edition | 375852 | [375852-elden-ring-nightreign-seekers-edition.json](./375852-elden-ring-nightreign-seekers-edition.json) |
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
@@ -473,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
+| Embers Adrift | 186247 | [186247-embers-adrift.json](./186247-embers-adrift.json) |
 | Embers of Caerus | 64975 | [64975-embers-of-caerus.json](./64975-embers-of-caerus.json) |
 | Embers of the Empire | 402913 | [402913-embers-of-the-empire.json](./402913-embers-of-the-empire.json) |
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
