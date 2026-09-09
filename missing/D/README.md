@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dominator | 408778 | [408778-dungeon-dominator.json](./408778-dungeon-dominator.json) |
 | Dungeon Done | 311484 | [311484-dungeon-done.json](./311484-dungeon-done.json) |
 | Dungeon Dreams 2 | 217296 | [217296-dungeon-dreams-2.json](./217296-dungeon-dreams-2.json) |
+| Dungeon Explorer | 193425 | [193425-dungeon-explorer.json](./193425-dungeon-explorer.json) |
 | Dungeon Explorer II | 42022 | [42022-dungeon-explorer-ii.json](./42022-dungeon-explorer-ii.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
@@ -2833,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Destiny | 206148 | [206148-dwarven-destiny.json](./206148-dwarven-destiny.json) |
 | Dwarven Forge | 398335 | [398335-dwarven-forge.json](./398335-dwarven-forge.json) |
 | Dwarven Skykeep | 119769 | [119769-dwarven-skykeep.json](./119769-dwarven-skykeep.json) |
+| Dwarven: Mining Dungeons | 193435 | [193435-dwarven-mining-dungeons.json](./193435-dwarven-mining-dungeons.json) |
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
