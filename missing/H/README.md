@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Heart&Slash | 17911 | [17911-heart-and-slash.json](./17911-heart-and-slash.json) |
 | Heartache | 57687 | [57687-heartache.json](./57687-heartache.json) |
+| Heartbaked | 177504 | [177504-heartbaked.json](./177504-heartbaked.json) |
 | Heartbeat at Midnight | 407310 | [407310-heartbeat-at-midnight.json](./407310-heartbeat-at-midnight.json) |
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
 | Heartbeats | 338206 | [338206-heartbeats.json](./338206-heartbeats.json) |
@@ -1798,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovertron | 387349 | [387349-hovertron.json](./387349-hovertron.json) |
 | How | 241652 | [241652-how.json](./241652-how.json) |
 | How a Retired Strategist Saved the Country | 221199 | [221199-how-a-retired-strategist-saved-the-country.json](./221199-how-a-retired-strategist-saved-the-country.json) |
+| How Are You Doing? | 177496 | [177496-how-are-you-doing.json](./177496-how-are-you-doing.json) |
 | How Do You Reckon? | 179721 | [179721-how-do-you-reckon.json](./179721-how-do-you-reckon.json) |
 | How Far Can U Go? | 176486 | [176486-how-far-can-u-go.json](./176486-how-far-can-u-go.json) |
 | How I learned to Skate | 175972 | [175972-how-i-learned-to-skate.json](./175972-how-i-learned-to-skate.json) |
