@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
 | Yello Adventures | 242571 | [242571-yello-adventures.json](./242571-yello-adventures.json) |
 | Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
+| Yellow or Red? | 174308 | [174308-yellow-or-red.json](./174308-yellow-or-red.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
 | Yenght | 94258 | [94258-yenght.json](./94258-yenght.json) |
 | Yeoubul | 166754 | [166754-yeoubul.json](./166754-yeoubul.json) |
