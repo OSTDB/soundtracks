@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Town Online | 101607 | [101607-zombie-town-online.json](./101607-zombie-town-online.json) |
 | Zombie Towns | 129216 | [129216-zombie-towns.json](./129216-zombie-towns.json) |
 | Zombie Trailer Park | 219045 | [219045-zombie-trailer-park.json](./219045-zombie-trailer-park.json) |
+| Zombie Vegas | 190172 | [190172-zombie-vegas.json](./190172-zombie-vegas.json) |
 | Zombie vs. Human | 177026 | [177026-zombie-vs-human.json](./177026-zombie-vs-human.json) |
 | Zombie vs. Police | 192433 | [192433-zombie-vs-police.json](./192433-zombie-vs-police.json) |
 | Zombie Watch Part II | 241629 | [241629-zombie-watch-part-ii.json](./241629-zombie-watch-part-ii.json) |
