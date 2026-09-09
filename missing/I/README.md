@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interlocked | 83578 | [83578-interlocked.json](./83578-interlocked.json) |
 | Interloper | 247525 | [247525-interloper.json](./247525-interloper.json) |
 | Intermundia: Dungeons, Polygons & Magic | 333001 | [333001-intermundia-dungeons-polygons-and-magic.json](./333001-intermundia-dungeons-polygons-and-magic.json) |
+| Intern: An Intern's Guide to Maintaining Internal Rage | 200697 | [200697-intern-an-interns-guide-to-maintaining-internal-rage.json](./200697-intern-an-interns-guide-to-maintaining-internal-rage.json) |
 | Internal Incident | 372983 | [372983-internal-incident.json](./372983-internal-incident.json) |
 | Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron John Hawk: The Shards Of Power | 210025 | [210025-iron-john-hawk-the-shards-of-power.json](./210025-iron-john-hawk-the-shards-of-power.json) |
 | Iron Legacy | 400865 | [400865-iron-legacy.json](./400865-iron-legacy.json) |
 | Iron Maiden: Legacy of the Beast | 16473 | [16473-iron-maiden-legacy-of-the-beast.json](./16473-iron-maiden-legacy-of-the-beast.json) |
+| Iron Man | 200688 | [200688-iron-man.json](./200688-iron-man.json) |
 | Iron Marines Invasion | 216257 | [216257-iron-marines-invasion.json](./216257-iron-marines-invasion.json) |
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
