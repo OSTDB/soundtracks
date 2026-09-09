@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | République: Episode 3 - Ones and Zeroes | 127128 | [127128-republique-episode-3-ones-and-zeroes.json](./127128-republique-episode-3-ones-and-zeroes.json) |
 | Repulse: Galactic Rivals | 75166 | [75166-repulse-galactic-rivals.json](./75166-repulse-galactic-rivals.json) |
 | Repulsor | 199593 | [199593-repulsor.json](./199593-repulsor.json) |
+| Requia Online | 175329 | [175329-requia-online.json](./175329-requia-online.json) |
 | Requie-mu | 292859 | [292859-requie-mu.json](./292859-requie-mu.json) |
 | Requiem Hurts | 22404 | [22404-requiem-hurts.json](./22404-requiem-hurts.json) |
 | Requiem Hurts: Rainy Escape | 22405 | [22405-requiem-hurts-rainy-escape.json](./22405-requiem-hurts-rainy-escape.json) |
@@ -954,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
+| Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
 | Retro First Friday Collection #4 | 186296 | [186296-retro-first-friday-collection-4.json](./186296-retro-first-friday-collection-4.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
