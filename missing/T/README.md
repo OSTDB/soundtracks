@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | Tap to Build | 245337 | [245337-tap-to-build.json](./245337-tap-to-build.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
+| Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
 | Tape Us Out | 332402 | [332402-tape-us-out.json](./332402-tape-us-out.json) |
@@ -1082,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
+| The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
@@ -3959,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 259743 | [259743-tony-hawks-pro-skater-2.json](./259743-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 3 | 194213 | [194213-tony-hawks-pro-skater-3.json](./194213-tony-hawks-pro-skater-3.json) |
+| Tony Hawk's Project 8 Mobile | 197321 | [197321-tony-hawks-project-8-mobile.json](./197321-tony-hawks-project-8-mobile.json) |
 | Tony Hawk's Proving Ground | 364482 | [364482-tony-hawks-proving-ground.json](./364482-tony-hawks-proving-ground.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
@@ -4154,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Touhou Fujinroku Arrangements Pack | 209138 | [209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json](./209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json) |
 | Touhou Spell Carnival: Limited Edition | 322383 | [322383-touhou-spell-carnival-limited-edition.json](./322383-touhou-spell-carnival-limited-edition.json) |
 | Touhou The Excalibur: Mystic Arena of Reversal Spirits | 314066 | [314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json](./314066-touhou-the-excalibur-mystic-arena-of-reversal-spirits.json) |
+| Touhou Thousand Night Anamnesis | 197337 | [197337-touhou-thousand-night-anamnesis.json](./197337-touhou-thousand-night-anamnesis.json) |
 | Touhou Three Noisy Fairies' Adventure: Take It Easy | 373005 | [373005-touhou-three-noisy-fairies-adventure-take-it-easy.json](./373005-touhou-three-noisy-fairies-adventure-take-it-easy.json) |
 | Touhou Tougensai | 334137 | [334137-touhou-tougensai.json](./334137-touhou-tougensai.json) |
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
