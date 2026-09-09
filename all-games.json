@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T05:10:34.539Z",
-  "total_soundtracks": 1435,
+  "generated_at": "2026-09-09T05:10:46.203Z",
+  "total_soundtracks": 1436,
   "games": [
     {
       "igdb_id": 7522,
@@ -45,6 +45,20 @@
         {
           "album_name": "10:16 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6mAG8YZd9YHoPfvzlbQRC6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28337,
+      "game_name": "13 Sentinels: Aegis Rim",
+      "game_url": "https://ostdb.net/games/13-sentinels-aegis-rim",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b1fb58f28c3b35723006f0ef",
+      "albums": [
+        {
+          "album_name": "13 Sentinels: Aegis Rim Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2qMMoeNrXYgZ6EeIug0Ja2",
           "apple_music_url": "",
           "album_link_url": ""
         }
