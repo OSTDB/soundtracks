@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idling Gears | 237081 | [237081-idling-gears.json](./237081-idling-gears.json) |
 | Idly God | 209637 | [209637-idly-god.json](./209637-idly-god.json) |
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
+| Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
 | Idol Hunter: Hentai | 211719 | [211719-idol-hunter-hentai.json](./211719-idol-hunter-hentai.json) |
 | Idol Janshi R: Janguru Project | 248627 | [248627-idol-janshi-r-janguru-project.json](./248627-idol-janshi-r-janguru-project.json) |
 | Idol Janshi Suchie-Pai III | 76610 | [76610-idol-janshi-suchie-pai-iii.json](./76610-idol-janshi-suchie-pai-iii.json) |
