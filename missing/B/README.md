@@ -2227,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncemasters | 370674 | [370674-bouncemasters.json](./370674-bouncemasters.json) |
 | Bouncemasters: Aiming Assist | 379378 | [379378-bouncemasters-aiming-assist.json](./379378-bouncemasters-aiming-assist.json) |
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
+| BounceShot | 182484 | [182484-bounceshot.json](./182484-bounceshot.json) |
 | Bouncing Babies | 46652 | [46652-bouncing-babies.json](./46652-bouncing-babies.json) |
 | Bouncing Over It with friends | 106406 | [106406-bouncing-over-it-with-friends.json](./106406-bouncing-over-it-with-friends.json) |
 | Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
