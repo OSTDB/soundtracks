@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schlag den Star: Das Spiel | 78045 | [78045-schlag-den-star-das-spiel.json](./78045-schlag-den-star-das-spiel.json) |
 | Schmaragon | 230265 | [230265-schmaragon.json](./230265-schmaragon.json) |
 | Schola Spiritus | 383358 | [383358-schola-spiritus.json](./383358-schola-spiritus.json) |
+| Scholar of the Arcane Arts | 188615 | [188615-scholar-of-the-arcane-arts.json](./188615-scholar-of-the-arcane-arts.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
 | School Bus Simulator: Blocky World | 104633 | [104633-school-bus-simulator-blocky-world.json](./104633-school-bus-simulator-blocky-world.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
@@ -624,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
+| ScreenPlay | 188603 | [188603-screenplay.json](./188603-screenplay.json) |
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
@@ -998,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seul (Alone): The entrée | 107863 | [107863-seul-alone-the-entree.json](./107863-seul-alone-the-entree.json) |
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
+| Seven Cities | 188589 | [188589-seven-cities.json](./188589-seven-cities.json) |
 | Seven Days | 219619 | [219619-seven-days.json](./219619-seven-days.json) |
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
 | Seven Doorways | 209632 | [209632-seven-doorways.json](./209632-seven-doorways.json) |
@@ -2343,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
 | Smilinguido: Desafio na Floresta | 183610 | [183610-smilinguido-desafio-na-floresta.json](./183610-smilinguido-desafio-na-floresta.json) |
 | Smily Angry | 318754 | [318754-smily-angry.json](./318754-smily-angry.json) |
+| Smipat and the Lost Bones | 188556 | [188556-smipat-and-the-lost-bones.json](./188556-smipat-and-the-lost-bones.json) |
 | Smirkers | 371236 | [371236-smirkers.json](./371236-smirkers.json) |
 | Smite 2: Deluxe Founder's Edition | 331849 | [331849-smite-2-deluxe-founders-edition.json](./331849-smite-2-deluxe-founders-edition.json) |
 | Smite 2: Founder's Edition | 331848 | [331848-smite-2-founders-edition.json](./331848-smite-2-founders-edition.json) |
@@ -2648,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokowand | 335261 | [335261-sokowand.json](./335261-sokowand.json) |
 | Sol and the Endless Orbit | 375825 | [375825-sol-and-the-endless-orbit.json](./375825-sol-and-the-endless-orbit.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
+| Sol Raiders | 188554 | [188554-sol-raiders.json](./188554-sol-raiders.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sol: Shogunate | 380406 | [380406-sol-shogunate.json](./380406-sol-shogunate.json) |
@@ -3165,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
 | Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
+| Soup | 188612 | [188612-soup.json](./188612-soup.json) |
 | Soup: The Vibe Explorer | 406710 | [406710-soup-the-vibe-explorer.json](./406710-soup-the-vibe-explorer.json) |
 | Souper Bloody | 397651 | [397651-souper-bloody.json](./397651-souper-bloody.json) |
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
@@ -3230,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Demon Combat Tactics III | 186334 | [186334-space-demon-combat-tactics-iii.json](./186334-space-demon-combat-tactics-iii.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
 | Space Dogo | 264628 | [264628-space-dogo.json](./264628-space-dogo.json) |
+| Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Ducks: The Great Escape | 199658 | [199658-space-ducks-the-great-escape.json](./199658-space-ducks-the-great-escape.json) |
 | Space electrician | 126668 | [126668-space-electrician.json](./126668-space-electrician.json) |
@@ -3589,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Friend or Foe | 5180 | [5180-spider-man-friend-or-foe.json](./5180-spider-man-friend-or-foe.json) |
 | Spider-Man: Mysterio's Menace | 6605 | [6605-spider-man-mysterios-menace.json](./6605-spider-man-mysterios-menace.json) |
 | Spider-Man: The Video Game | 46761 | [46761-spider-man-the-video-game.json](./46761-spider-man-the-video-game.json) |
+| Spider-Man: Ultimate Power | 188550 | [188550-spider-man-ultimate-power.json](./188550-spider-man-ultimate-power.json) |
 | Spider-Sense Spider-Man and the Masked Menace | 220110 | [220110-spider-sense-spider-man-and-the-masked-menace.json](./220110-spider-sense-spider-man-and-the-masked-menace.json) |
 | Spider-Sense Spider-Man: Web-Master | 220111 | [220111-spider-sense-spider-man-web-master.json](./220111-spider-sense-spider-man-web-master.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
@@ -4306,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam-Heart's | 45973 | [45973-steam-hearts.json](./45973-steam-hearts.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
+| Steamed Hams: The Graphic Adventure | 188591 | [188591-steamed-hams-the-graphic-adventure.json](./188591-steamed-hams-the-graphic-adventure.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
 | SteamGear Mash | 91943 | [91943-steamgear-mash.json](./91943-steamgear-mash.json) |
 | SteamHammerVR | 31589 | [31589-steamhammervr.json](./31589-steamhammervr.json) |
@@ -4976,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
 | Sunken Seeker | 386693 | [386693-sunken-seeker.json](./386693-sunken-seeker.json) |
 | Sunland Hike | 264613 | [264613-sunland-hike.json](./264613-sunland-hike.json) |
+| Sunlight In A Tin | 188602 | [188602-sunlight-in-a-tin.json](./188602-sunlight-in-a-tin.json) |
 | Sunman | 48651 | [48651-sunman.json](./48651-sunman.json) |
 | Sunny Beach | 189205 | [189205-sunny-beach.json](./189205-sunny-beach.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
@@ -4989,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Riders | 321396 | [321396-sunset-riders.json](./321396-sunset-riders.json) |
 | Sunset Riders | 4370 | [4370-sunset-riders.json](./4370-sunset-riders.json) |
 | Sunset Studio | 145012 | [145012-sunset-studio.json](./145012-sunset-studio.json) |
+| Sunset World Online | 188585 | [188585-sunset-world-online.json](./188585-sunset-world-online.json) |
 | Sunshine Acres | 25002 | [25002-sunshine-acres.json](./25002-sunshine-acres.json) |
 | Sunshine Farm | 333005 | [333005-sunshine-farm.json](./333005-sunshine-farm.json) |
 | Sunshine Island | 237647 | [237647-sunshine-island.json](./237647-sunshine-island.json) |
@@ -5357,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Fear | 255370 | [255370-super-metroid-fear.json](./255370-super-metroid-fear.json) |
 | Super Metroid: GBA Edition | 222919 | [222919-super-metroid-gba-edition.json](./222919-super-metroid-gba-edition.json) |
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
+| Super Metroid: Redux | 188575 | [188575-super-metroid-redux.json](./188575-super-metroid-redux.json) |
 | Super Metroid: Rotation | 199009 | [199009-super-metroid-rotation.json](./199009-super-metroid-rotation.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
@@ -5851,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Coast Legends: Digital Deluxe Edition | 54422 | [54422-sword-coast-legends-digital-deluxe-edition.json](./54422-sword-coast-legends-digital-deluxe-edition.json) |
 | Sword Daughter | 35937 | [35937-sword-daughter.json](./35937-sword-daughter.json) |
 | Sword Fight | 289876 | [289876-sword-fight.json](./289876-sword-fight.json) |
+| Sword of Atlas | 188565 | [188565-sword-of-atlas.json](./188565-sword-of-atlas.json) |
 | Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Mana | 6630 | [6630-sword-of-mana.json](./6630-sword-of-mana.json) |
