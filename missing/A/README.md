@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
+| Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
 | Apoptosis | 383386 | [383386-apoptosis.json](./383386-apoptosis.json) |
@@ -2002,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aprende con Horacio: La Gran Aventura de las Palabras | 283755 | [283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json](./283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json) |
 | Apricot Kernel | 364531 | [364531-apricot-kernel.json](./364531-apricot-kernel.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
+| April Was A Fool | 199052 | [199052-april-was-a-fool.json](./199052-april-was-a-fool.json) |
 | Aptly Rolling | 165661 | [165661-aptly-rolling.json](./165661-aptly-rolling.json) |
 | Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
@@ -2230,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter than a 5th Grader?: Extra Credit | 234304 | [234304-are-you-smarter-than-a-5th-grader-extra-credit.json](./234304-are-you-smarter-than-a-5th-grader-extra-credit.json) |
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
+| Area 51 | 199022 | [199022-area-51.json](./199022-area-51.json) |
 | Area 51 | 200152 | [200152-area-51.json](./200152-area-51.json) |
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
 | Area 51: Defence | 391044 | [391044-area-51-defence.json](./391044-area-51-defence.json) |
