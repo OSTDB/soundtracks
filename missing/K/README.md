@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwi Game | 306689 | [306689-kiwi-game.json](./306689-kiwi-game.json) |
 | Kiwi: Airborne | 306690 | [306690-kiwi-airborne.json](./306690-kiwi-airborne.json) |
 | Kiwi's Adventure | 367946 | [367946-kiwis-adventure.json](./367946-kiwis-adventure.json) |
+| Kiwi's Quest | 188038 | [188038-kiwis-quest.json](./188038-kiwis-quest.json) |
 | Kiwie vs. Desert | 290913 | [290913-kiwie-vs-desert.json](./290913-kiwie-vs-desert.json) |
 | KiwiFlight | 306707 | [306707-kiwiflight.json](./306707-kiwiflight.json) |
 | Kiwis Can't Fly | 306691 | [306691-kiwis-cant-fly.json](./306691-kiwis-cant-fly.json) |
