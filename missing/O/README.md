@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observer Protocol: The Station - Final Shift | 350432 | [350432-observer-protocol-the-station-final-shift.json](./350432-observer-protocol-the-station-final-shift.json) |
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
+| Obsession | 184056 | [184056-obsession.json](./184056-obsession.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
@@ -521,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
+| One Vacancy | 184039 | [184039-one-vacancy.json](./184039-one-vacancy.json) |
 | One Way Heroics Plus | 147990 | [147990-one-way-heroics-plus.json](./147990-one-way-heroics-plus.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
 | One Week By Car | 209675 | [209675-one-week-by-car.json](./209675-one-week-by-car.json) |
