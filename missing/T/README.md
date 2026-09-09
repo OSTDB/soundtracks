@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
+| The Devils: A Visual Novel of WWII | 192381 | [192381-the-devils-a-visual-novel-of-wwii.json](./192381-the-devils-a-visual-novel-of-wwii.json) |
 | The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
 | The Diary | 250356 | [250356-the-diary.json](./250356-the-diary.json) |
 | The Die Is Cast | 240474 | [240474-the-die-is-cast.json](./240474-the-die-is-cast.json) |
@@ -1504,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
+| The Fall of Balance | 192385 | [192385-the-fall-of-balance.json](./192385-the-fall-of-balance.json) |
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
 | The Fall of Elements | 264607 | [264607-the-fall-of-elements.json](./264607-the-fall-of-elements.json) |
 | The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
@@ -1777,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead: Remake - Limidead Edition | 194406 | [194406-the-house-of-the-dead-remake-limidead-edition.json](./194406-the-house-of-the-dead-remake-limidead-edition.json) |
 | The House that Jack Built | 25725 | [25725-the-house-that-jack-built.json](./25725-the-house-that-jack-built.json) |
 | The House Unrest | 392166 | [392166-the-house-unrest.json](./392166-the-house-unrest.json) |
+| The House Where They Dwell | 192389 | [192389-the-house-where-they-dwell.json](./192389-the-house-where-they-dwell.json) |
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
 | The Humans 2: Jurassic Levels | 39032 | [39032-the-humans-2-jurassic-levels.json](./39032-the-humans-2-jurassic-levels.json) |
 | The Hundred Line: Last Defense Academy - Digital Deluxe Edition | 338007 | [338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json](./338007-the-hundred-line-last-defense-academy-digital-deluxe-edition.json) |
