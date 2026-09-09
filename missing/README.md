@@ -26,4 +26,4 @@ Want the raw list instead? See **[../missing.json](../missing.json)**.
 
 ---
 
-_48590 games missing a soundtrack · last updated 2026-09-09T00:01:05.039Z_
+_48590 games missing a soundtrack · last updated 2026-09-09T00:11:00.985Z_
