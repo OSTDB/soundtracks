@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T17:48:49.959Z",
-  "total_missing": 51338,
+  "generated_at": "2026-09-09T17:51:05.267Z",
+  "total_missing": 51337,
   "games": [
     {
       "igdb_id": 306086,
@@ -961,11 +961,6 @@
       "igdb_id": 273131,
       "game_name": "25th Century Duke",
       "file": "missing/0-9/273131-25th-century-duke.json"
-    },
-    {
-      "igdb_id": 91976,
-      "game_name": "27 Solitaire Games",
-      "file": "missing/0-9/91976-27-solitaire-games.json"
     },
     {
       "igdb_id": 278676,
