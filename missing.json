@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T10:48:37.622Z",
-  "total_missing": 50153,
+  "generated_at": "2026-09-09T10:51:08.238Z",
+  "total_missing": 50152,
   "games": [
     {
       "igdb_id": 306086,
@@ -736,11 +736,6 @@
       "igdb_id": 201816,
       "game_name": "2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane",
       "file": "missing/0-9/201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json"
-    },
-    {
-      "igdb_id": 78697,
-      "game_name": "2 Games In 1 Double Pack: Finding Nemo + Monsters, Inc.",
-      "file": "missing/0-9/78697-2-games-in-1-double-pack-finding-nemo-monsters-inc.json"
     },
     {
       "igdb_id": 84265,
