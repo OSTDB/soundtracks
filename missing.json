@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T11:33:29.855Z",
-  "total_missing": 50299,
+  "generated_at": "2026-09-09T11:41:09.697Z",
+  "total_missing": 50298,
   "games": [
     {
       "igdb_id": 306086,
@@ -761,11 +761,6 @@
       "igdb_id": 84266,
       "game_name": "2 in 1: V-Rally 3 + Stuntman",
       "file": "missing/0-9/84266-2-in-1-v-rally-3-stuntman.json"
-    },
-    {
-      "igdb_id": 82103,
-      "game_name": "2 jeux en 1 I Titeuf: Ze Gag Machine + Titeuf: Méga-Compet'",
-      "file": "missing/0-9/82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json"
     },
     {
       "igdb_id": 216773,
