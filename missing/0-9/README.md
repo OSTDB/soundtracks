@@ -115,7 +115,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13 Sentinels: Aegis Rim | 28337 | [28337-13-sentinels-aegis-rim.json](./28337-13-sentinels-aegis-rim.json) |
-| 13 Thieves | 234074 | [234074-13-thieves.json](./234074-13-thieves.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 13Z | 301031 | [301031-13z.json](./301031-13z.json) |
