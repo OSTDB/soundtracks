@@ -589,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Diary | 370715 | [370715-dear-diary.json](./370715-dear-diary.json) |
 | Dear Drops Distortion | 59421 | [59421-dear-drops-distortion.json](./59421-dear-drops-distortion.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
+| Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
 | Death and Taxes | 126835 | [126835-death-and-taxes.json](./126835-death-and-taxes.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
@@ -820,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
 | Deliver Us Home | 303467 | [303467-deliver-us-home.json](./303467-deliver-us-home.json) |
+| Deliver Us Mars: Deluxe Edition | 204468 | [204468-deliver-us-mars-deluxe-edition.json](./204468-deliver-us-mars-deluxe-edition.json) |
 | Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
