@@ -369,6 +369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
+| Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
@@ -1339,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mencabrona | 299724 | [299724-mencabrona.json](./299724-mencabrona.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
+| Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
@@ -1388,10 +1390,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
 | Merge Girls | 212490 | [212490-merge-girls.json](./212490-merge-girls.json) |
+| Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
 | Merge Marbles | 309337 | [309337-merge-marbles.json](./309337-merge-marbles.json) |
 | Merge Mayor | 212482 | [212482-merge-mayor.json](./212482-merge-mayor.json) |
 | Merge Meadow! | 108483 | [108483-merge-meadow.json](./108483-merge-meadow.json) |
+| Merge Military | 208970 | [208970-merge-military.json](./208970-merge-military.json) |
 | Merge Miners | 229372 | [229372-merge-miners.json](./229372-merge-miners.json) |
 | Merge Pineapple | 339286 | [339286-merge-pineapple.json](./339286-merge-pineapple.json) |
 | Merge Rainbow Friend | 224002 | [224002-merge-rainbow-friend.json](./224002-merge-rainbow-friend.json) |
@@ -1984,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Vanguard | 330733 | [330733-minion-masters-vanguard.json](./330733-minion-masters-vanguard.json) |
 | Minion Masters: Voidborne Onslaught | 330736 | [330736-minion-masters-voidborne-onslaught.json](./330736-minion-masters-voidborne-onslaught.json) |
 | Minion Masters: Zealous Inferno | 330729 | [330729-minion-masters-zealous-inferno.json](./330729-minion-masters-zealous-inferno.json) |
+| Miniworld Royale | 208969 | [208969-miniworld-royale.json](./208969-miniworld-royale.json) |
 | Minky | 246979 | [246979-minky.json](./246979-minky.json) |
 | MinMe | 241050 | [241050-minme.json](./241050-minme.json) |
 | Minna de Nanpure | 55939 | [55939-minna-de-nanpure.json](./55939-minna-de-nanpure.json) |
@@ -2205,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Combat Versus | 71910 | [71910-modern-combat-versus.json](./71910-modern-combat-versus.json) |
 | Modern Command | 227510 | [227510-modern-command.json](./227510-modern-command.json) |
 | Modern Defense HD | 294682 | [294682-modern-defense-hd.json](./294682-modern-defense-hd.json) |
+| Modern Girl's Refined Choices | 208937 | [208937-modern-girls-refined-choices.json](./208937-modern-girls-refined-choices.json) |
 | Modern Museum | 305524 | [305524-modern-museum.json](./305524-modern-museum.json) |
 | Modern Naval Warfare | 186903 | [186903-modern-naval-warfare.json](./186903-modern-naval-warfare.json) |
 | Modern War | 100206 | [100206-modern-war.json](./100206-modern-war.json) |
@@ -2492,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
 | Monster Slayer: Motion Edition | 363413 | [363413-monster-slayer-motion-edition.json](./363413-monster-slayer-motion-edition.json) |
 | Monster Smoosh | 412307 | [412307-monster-smoosh.json](./412307-monster-smoosh.json) |
+| Monster Squad Rush | 208968 | [208968-monster-squad-rush.json](./208968-monster-squad-rush.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
@@ -3086,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
 | Musicus! | 185708 | [185708-musicus.json](./185708-musicus.json) |
 | MusicVR Episode 1: Tr3s Lunas | 70978 | [70978-musicvr-episode-1-tr3s-lunas.json](./70978-musicvr-episode-1-tr3s-lunas.json) |
+| Musketeer Growth | 208967 | [208967-musketeer-growth.json](./208967-musketeer-growth.json) |
 | Must Flee | 223434 | [223434-must-flee.json](./223434-must-flee.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
