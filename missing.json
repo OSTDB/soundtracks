@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T08:48:33.184Z",
-  "total_missing": 49856,
+  "generated_at": "2026-09-09T09:01:14.679Z",
+  "total_missing": 49858,
   "games": [
     {
       "igdb_id": 306086,
@@ -676,11 +676,6 @@
       "igdb_id": 7169,
       "game_name": "1954 Alcatraz",
       "file": "missing/0-9/7169-1954-alcatraz.json"
-    },
-    {
-      "igdb_id": 29876,
-      "game_name": "1979 Invasion Earth",
-      "file": "missing/0-9/29876-1979-invasion-earth.json"
     },
     {
       "igdb_id": 406096,
@@ -42061,6 +42056,11 @@
       "igdb_id": 324330,
       "game_name": "Comix Zero",
       "file": "missing/C/324330-comix-zero.json"
+    },
+    {
+      "igdb_id": 195741,
+      "game_name": "Comixxx Swap",
+      "file": "missing/C/195741-comixxx-swap.json"
     },
     {
       "igdb_id": 281426,
@@ -149963,6 +149963,11 @@
       "file": "missing/O/169475-outland-rapture.json"
     },
     {
+      "igdb_id": 195742,
+      "game_name": "Outlander",
+      "file": "missing/O/195742-outlander.json"
+    },
+    {
       "igdb_id": 261798,
       "game_name": "Outlander: Fantastic Princess",
       "file": "missing/O/261798-outlander-fantastic-princess.json"
@@ -239471,6 +239476,11 @@
       "igdb_id": 232431,
       "game_name": "Way of the Wizard",
       "file": "missing/W/232431-way-of-the-wizard.json"
+    },
+    {
+      "igdb_id": 195740,
+      "game_name": "Way on Where",
+      "file": "missing/W/195740-way-on-where.json"
     },
     {
       "igdb_id": 140604,
