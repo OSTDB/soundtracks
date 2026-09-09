@@ -172,7 +172,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 20 Words // 20 Seconds | 280751 | [280751-20-words-20-seconds.json](./280751-20-words-20-seconds.json) |
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
-| 2003 Toshi Kaimaku: Ganbare Kyuukaiou | 269318 | [269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json](./269318-2003-toshi-kaimaku-ganbare-kyuukaiou.json) |
 | 2004 Real Soccer | 116344 | [116344-2004-real-soccer.json](./116344-2004-real-soccer.json) |
 | 2004: Space Becherovka | 391035 | [391035-2004-space-becherovka.json](./391035-2004-space-becherovka.json) |
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
