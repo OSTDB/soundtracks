@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Legend Baseballer | 364535 | [364535-nekketsu-legend-baseballer.json](./364535-nekketsu-legend-baseballer.json) |
 | Nekketsu Oyako | 61633 | [61633-nekketsu-oyako.json](./61633-nekketsu-oyako.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
+| Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
 | Neko Daisuki! | 19668 | [19668-neko-daisuki.json](./19668-neko-daisuki.json) |
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
