@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T12:17:49.094Z",
-  "total_missing": 50445,
+  "generated_at": "2026-09-09T12:21:08.957Z",
+  "total_missing": 50444,
   "games": [
     {
       "igdb_id": 306086,
@@ -781,11 +781,6 @@
       "igdb_id": 167831,
       "game_name": "2 Synchro Hedgehogs",
       "file": "missing/0-9/167831-2-synchro-hedgehogs.json"
-    },
-    {
-      "igdb_id": 149575,
-      "game_name": "2 Times Circles",
-      "file": "missing/0-9/149575-2-times-circles.json"
     },
     {
       "igdb_id": 316061,
