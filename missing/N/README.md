@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
 | Nurikabe World | 310757 | [310757-nurikabe-world.json](./310757-nurikabe-world.json) |
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
+| Nurse Enjoy Gyaru Pack | 186233 | [186233-nurse-enjoy-gyaru-pack.json](./186233-nurse-enjoy-gyaru-pack.json) |
 | Nurse Love Addiction | 32511 | [32511-nurse-love-addiction.json](./32511-nurse-love-addiction.json) |
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
 | Nusantara | 240772 | [240772-nusantara.json](./240772-nusantara.json) |
