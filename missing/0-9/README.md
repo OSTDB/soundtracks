@@ -198,7 +198,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
-| 27 Solitaire Games | 91976 | [91976-27-solitaire-games.json](./91976-27-solitaire-games.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 28 Pixels Later | 271205 | [271205-28-pixels-later.json](./271205-28-pixels-later.json) |
 | 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
