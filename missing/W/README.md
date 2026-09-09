@@ -952,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings! Remastered Edition | 8801 | [8801-wings-remastered-edition.json](./8801-wings-remastered-edition.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
+| Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
 | WingWhiz | 350454 | [350454-wingwhiz.json](./350454-wingwhiz.json) |
 | Wink and the Broken Robot | 179667 | [179667-wink-and-the-broken-robot.json](./179667-wink-and-the-broken-robot.json) |
@@ -991,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winterfall | 308238 | [308238-winterfall.json](./308238-winterfall.json) |
 | Winterland Solitaire | 386137 | [386137-winterland-solitaire.json](./386137-winterland-solitaire.json) |
 | Winterland Solitaire 2 | 386132 | [386132-winterland-solitaire-2.json](./386132-winterland-solitaire-2.json) |
+| Winterlore II | 174284 | [174284-winterlore-ii.json](./174284-winterlore-ii.json) |
 | Wintersdawn in the Deep | 183591 | [183591-wintersdawn-in-the-deep.json](./183591-wintersdawn-in-the-deep.json) |
 | Wintersport | 68677 | [68677-wintersport.json](./68677-wintersport.json) |
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
@@ -1294,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words With Freds | 192956 | [192956-words-with-freds.json](./192956-words-with-freds.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
+| Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
 | Work Life Balance | 372470 | [372470-work-life-balance.json](./372470-work-life-balance.json) |
