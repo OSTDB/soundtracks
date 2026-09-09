@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Arts Peerless War | 259000 | [259000-martial-arts-peerless-war.json](./259000-martial-arts-peerless-war.json) |
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
 | Martial Fire | 232440 | [232440-martial-fire.json](./232440-martial-fire.json) |
+| Martian Space Blaster | 186261 | [186261-martian-space-blaster.json](./186261-martian-space-blaster.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
 | Martin Mystery: Monster Invasion | 194613 | [194613-martin-mystery-monster-invasion.json](./194613-martin-mystery-monster-invasion.json) |
 | Martin The Let's Player | 257083 | [257083-martin-the-lets-player.json](./257083-martin-the-lets-player.json) |
@@ -1555,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metanoia | 322564 | [322564-metanoia.json](./322564-metanoia.json) |
+| MetaOps | 186241 | [186241-metaops.json](./186241-metaops.json) |
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
@@ -1942,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
 | Minecraftle | 306695 | [306695-minecraftle.json](./306695-minecraftle.json) |
+| MineFinitum | 186276 | [186276-minefinitum.json](./186276-minefinitum.json) |
 | Minelvaton Saga: Ragon no Fukkatsu | 48687 | [48687-minelvaton-saga-ragon-no-fukkatsu.json](./48687-minelvaton-saga-ragon-no-fukkatsu.json) |
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
 | Miner 2049er | 345471 | [345471-miner-2049er.json](./345471-miner-2049er.json) |
@@ -2426,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondays: A Sisyphean Typing Game | 209491 | [209491-mondays-a-sisyphean-typing-game.json](./209491-mondays-a-sisyphean-typing-game.json) |
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
+| Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
@@ -3092,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
+| Multilytheus | 186271 | [186271-multilytheus.json](./186271-multilytheus.json) |
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
