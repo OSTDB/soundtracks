@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangover | 389994 | [389994-hangover.json](./389994-hangover.json) |
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
+| Hank: Drowning on Dry Land | 195168 | [195168-hank-drowning-on-dry-land.json](./195168-hank-drowning-on-dry-land.json) |
 | Hank: Straightjacket | 232458 | [232458-hank-straightjacket.json](./232458-hank-straightjacket.json) |
 | Hanna Barbera's Turbo Toons | 42619 | [42619-hanna-barberas-turbo-toons.json](./42619-hanna-barberas-turbo-toons.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
@@ -267,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
+| Happy Mining | 195163 | [195163-happy-mining.json](./195163-happy-mining.json) |
 | Happy Mouse | 241373 | [241373-happy-mouse.json](./241373-happy-mouse.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
 | Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
@@ -969,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
 | Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
+| Heroes of the Galaxy | 195162 | [195162-heroes-of-the-galaxy.json](./195162-heroes-of-the-galaxy.json) |
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of the Pacific | 5861 | [5861-heroes-of-the-pacific.json](./5861-heroes-of-the-pacific.json) |
 | Heroes of Three Kingdoms | 77303 | [77303-heroes-of-three-kingdoms.json](./77303-heroes-of-three-kingdoms.json) |
