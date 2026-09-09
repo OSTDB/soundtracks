@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParkTo | 215694 | [215694-parkto.json](./215694-parkto.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
+| Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Particulitix | 390515 | [390515-particulitix.json](./390515-particulitix.json) |
