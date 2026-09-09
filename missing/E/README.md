@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental World | 208039 | [208039-elemental-world.json](./208039-elemental-world.json) |
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
+| Elementalist: 0 | 182995 | [182995-elementalist-0.json](./182995-elementalist-0.json) |
 | Elementalist.io | 184104 | [184104-elementalist-io.json](./184104-elementalist-io.json) |
 | Elementals | 130933 | [130933-elementals.json](./130933-elementals.json) |
 | Elementals: The Magic Key | 209679 | [209679-elementals-the-magic-key.json](./209679-elementals-the-magic-key.json) |
