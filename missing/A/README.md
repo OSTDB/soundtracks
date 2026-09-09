@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Friday | 339803 | [339803-after-friday.json](./339803-after-friday.json) |
 | After Gym | 239347 | [239347-after-gym.json](./239347-after-gym.json) |
 | After Hours Athletes | 44603 | [44603-after-hours-athletes.json](./44603-after-hours-athletes.json) |
+| After School | 178036 | [178036-after-school.json](./178036-after-school.json) |
 | After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
