@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
 | Vex | 402253 | [402253-vex.json](./402253-vex.json) |
 | Vex 2 | 402308 | [402308-vex-2.json](./402308-vex-2.json) |
+| Vex 6 | 188039 | [188039-vex-6.json](./188039-vex-6.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
 | VFR Real Scenery: London | 70963 | [70963-vfr-real-scenery-london.json](./70963-vfr-real-scenery-london.json) |
@@ -614,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel Doodle - Color By Number 3D | 105964 | [105964-voxel-doodle-color-by-number-3d.json](./105964-voxel-doodle-color-by-number-3d.json) |
 | Voxel Doom II | 260124 | [260124-voxel-doom-ii.json](./260124-voxel-doom-ii.json) |
+| Voxel Girl | 188042 | [188042-voxel-girl.json](./188042-voxel-girl.json) |
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
 | Voxel Pirates | 147474 | [147474-voxel-pirates.json](./147474-voxel-pirates.json) |
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
