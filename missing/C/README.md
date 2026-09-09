@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
 | Canada Break: Head to Head | 209618 | [209618-canada-break-head-to-head.json](./209618-canada-break-head-to-head.json) |
 | Canal Control | 243702 | [243702-canal-control.json](./243702-canal-control.json) |
+| Canal Towns | 197335 | [197335-canal-towns.json](./197335-canal-towns.json) |
 | Candelabra Estoscerro | 143077 | [143077-candelabra-estoscerro.json](./143077-candelabra-estoscerro.json) |
 | Candivity: Snow & Sand Edition | 400197 | [400197-candivity-snow-and-sand-edition.json](./400197-candivity-snow-and-sand-edition.json) |
 | Candle Flame in the Wind | 284327 | [284327-candle-flame-in-the-wind.json](./284327-candle-flame-in-the-wind.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
+| City Transport Simulator: Ultimate Public Bus 2020 | 197327 | [197327-city-transport-simulator-ultimate-public-bus-2020.json](./197327-city-transport-simulator-ultimate-public-bus-2020.json) |
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City-Racing | 358887 | [358887-city-racing.json](./358887-city-racing.json) |
 | CityBuilder | 206348 | [206348-citybuilder.json](./206348-citybuilder.json) |
