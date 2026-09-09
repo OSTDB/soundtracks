@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
 | Fill & Cross: Pirate Riddles 3 | 213014 | [213014-fill-and-cross-pirate-riddles-3.json](./213014-fill-and-cross-pirate-riddles-3.json) |
 | Fill and Cross: Trick or Treat | 163987 | [163987-fill-and-cross-trick-or-treat.json](./163987-fill-and-cross-trick-or-treat.json) |
+| Fill in the Holes | 205027 | [205027-fill-in-the-holes.json](./205027-fill-in-the-holes.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
 | Filly Fantasy VI | 312347 | [312347-filly-fantasy-vi.json](./312347-filly-fantasy-vi.json) |
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
@@ -1858,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright Cops | 216459 | [216459-fright-cops.json](./216459-fright-cops.json) |
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
+| Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
@@ -2086,6 +2088,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fur and Void | 337645 | [337645-fur-and-void.json](./337645-fur-and-void.json) |
 | Fur Squadron | 226405 | [226405-fur-squadron.json](./226405-fur-squadron.json) |
 | Fur Squadron Phoenix | 275562 | [275562-fur-squadron-phoenix.json](./275562-fur-squadron-phoenix.json) |
+| Fura-fura Bouken Flan-chan | 205069 | [205069-fura-fura-bouken-flan-chan.json](./205069-fura-fura-bouken-flan-chan.json) |
+| Fura-fura Bouken Flan-chan: Kaizoku Zaihou Tanken-tai | 205070 | [205070-fura-fura-bouken-flan-chan-kaizoku-zaihou-tanken-tai.json](./205070-fura-fura-bouken-flan-chan-kaizoku-zaihou-tanken-tai.json) |
 | Fura-fura Puzzrumia! | 204670 | [204670-fura-fura-puzzrumia.json](./204670-fura-fura-puzzrumia.json) |
 | Furball Farm | 324317 | [324317-furball-farm.json](./324317-furball-farm.json) |
 | FurBalls Racing | 207299 | [207299-furballs-racing.json](./207299-furballs-racing.json) |
