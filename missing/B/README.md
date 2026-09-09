@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballastic | 336912 | [336912-ballastic.json](./336912-ballastic.json) |
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballet Parking | 314070 | [314070-ballet-parking.json](./314070-ballet-parking.json) |
+| Ballin' | 173239 | [173239-ballin.json](./173239-ballin.json) |
 | Ballista Legend | 117038 | [117038-ballista-legend.json](./117038-ballista-legend.json) |
 | Ballistic Overkill | 17320 | [17320-ballistic-overkill.json](./17320-ballistic-overkill.json) |
 | Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
@@ -358,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie Worlds Collide | 135259 | [135259-banjo-kazooie-worlds-collide.json](./135259-banjo-kazooie-worlds-collide.json) |
 | Banjo-Kazooie: Bob-omb Battlefield | 201770 | [201770-banjo-kazooie-bob-omb-battlefield.json](./201770-banjo-kazooie-bob-omb-battlefield.json) |
 | Banjo-Kazooie: Donkey Kong Country | 201772 | [201772-banjo-kazooie-donkey-kong-country.json](./201772-banjo-kazooie-donkey-kong-country.json) |
+| Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
@@ -1311,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bîme | 251828 | [251828-bime.json](./251828-bime.json) |
 | Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
+| Binary | 172678 | [172678-binary.json](./172678-binary.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Binary Quest | 178616 | [178616-binary-quest.json](./178616-binary-quest.json) |
 | Binary Run | 203906 | [203906-binary-run.json](./203906-binary-run.json) |
@@ -1518,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Sand Drift: Collector's Edition | 52627 | [52627-black-sand-drift-collectors-edition.json](./52627-black-sand-drift-collectors-edition.json) |
 | Black Shadow | 14310 | [14310-black-shadow.json](./14310-black-shadow.json) |
+| Black Sheep | 172703 | [172703-black-sheep.json](./172703-black-sheep.json) |
 | Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
@@ -2869,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bun Wars: Best of fun for Boys Girls and Kids | 101533 | [101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json](./101533-bun-wars-best-of-fun-for-boys-girls-and-kids.json) |
 | Bunches For Bart! | 297795 | [297795-bunches-for-bart.json](./297795-bunches-for-bart.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
+| Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
 | Bunker 22 | 203892 | [203892-bunker-22.json](./203892-bunker-22.json) |
 | Bunker 2322 | 196263 | [196263-bunker-2322.json](./196263-bunker-2322.json) |
@@ -2923,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurgerTime | 246390 | [246390-burgertime.json](./246390-burgertime.json) |
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
 | Burglar Inc | 290923 | [290923-burglar-inc.json](./290923-burglar-inc.json) |
+| BuriBoard | 173256 | [173256-buriboard.json](./173256-buriboard.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
 | Burn Them | 255137 | [255137-burn-them.json](./255137-burn-them.json) |
