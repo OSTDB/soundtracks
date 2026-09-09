@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
 | 2048 | 280762 | [280762-2048.json](./280762-2048.json) |
 | 2048 | 312586 | [312586-2048.json](./312586-2048.json) |
+| 2048 Animation Puzzle Edition | 181324 | [181324-2048-animation-puzzle-edition.json](./181324-2048-animation-puzzle-edition.json) |
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
@@ -192,7 +193,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
-| 222.22 | 366269 | [366269-222-22.json](./366269-222-22.json) |
 | 24 Jingles to Bell | 394832 | [394832-24-jingles-to-bell.json](./394832-24-jingles-to-bell.json) |
 | 24 Levels | 200104 | [200104-24-levels.json](./200104-24-levels.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
