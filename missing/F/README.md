@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishlets: Natural Decor Pack | 313679 | [313679-fishlets-natural-decor-pack.json](./313679-fishlets-natural-decor-pack.json) |
 | Fishman's Last Stand | 264601 | [264601-fishmans-last-stand.json](./264601-fishmans-last-stand.json) |
 | FishOmatic | 407332 | [407332-fishomatic.json](./407332-fishomatic.json) |
+| Fishos | 180763 | [180763-fishos.json](./180763-fishos.json) |
 | Fisht Fight | 367937 | [367937-fisht-fight.json](./367937-fisht-fight.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
 | Fishy Dish | 383960 | [383960-fishy-dish.json](./383960-fishy-dish.json) |
@@ -2184,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
+| Furious Golf | 180768 | [180768-furious-golf.json](./180768-furious-golf.json) |
 | Furious Karting | 47310 | [47310-furious-karting.json](./47310-furious-karting.json) |
 | Furistas Cat Cafe | 106594 | [106594-furistas-cat-cafe.json](./106594-furistas-cat-cafe.json) |
 | Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
