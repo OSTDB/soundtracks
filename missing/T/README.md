@@ -1234,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crackpet Show: Happy Tree Friends Edition | 291998 | [291998-the-crackpet-show-happy-tree-friends-edition.json](./291998-the-crackpet-show-happy-tree-friends-edition.json) |
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
+| The Crazy Journalist | 199056 | [199056-the-crazy-journalist.json](./199056-the-crazy-journalist.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
 | The Crew: Motorfest - Dodge Pack | 408787 | [408787-the-crew-motorfest-dodge-pack.json](./408787-the-crew-motorfest-dodge-pack.json) |
@@ -2192,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Market of Light | 170545 | [170545-the-market-of-light.json](./170545-the-market-of-light.json) |
 | The Martian: Official Game | 102771 | [102771-the-martian-official-game.json](./102771-the-martian-official-game.json) |
 | The Mask Game | 278993 | [278993-the-mask-game.json](./278993-the-mask-game.json) |
+| The Mask of Zorro | 199024 | [199024-the-mask-of-zorro.json](./199024-the-mask-of-zorro.json) |
 | The Mask of Zorro | 49965 | [49965-the-mask-of-zorro.json](./49965-the-mask-of-zorro.json) |
 | The Mask: Mayhem | 255333 | [255333-the-mask-mayhem.json](./255333-the-mask-mayhem.json) |
 | The Masked Prisoner | 217000 | [217000-the-masked-prisoner.json](./217000-the-masked-prisoner.json) |
@@ -5051,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
+| Twin Peaks | 199028 | [199028-twin-peaks.json](./199028-twin-peaks.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Soul | 356067 | [356067-twin-soul.json](./356067-twin-soul.json) |
