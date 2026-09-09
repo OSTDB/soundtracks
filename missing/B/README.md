@@ -2734,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
 | Builders of Greece | 217337 | [217337-builders-of-greece.json](./217337-builders-of-greece.json) |
+| Building 37 | 185603 | [185603-building-37.json](./185603-building-37.json) |
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
 | Built by Force | 372457 | [372457-built-by-force.json](./372457-built-by-force.json) |
