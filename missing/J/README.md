@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
 | Jazz Lightning : Castle Dungeons | 126644 | [126644-jazz-lightning-castle-dungeons.json](./126644-jazz-lightning-castle-dungeons.json) |
+| Jazz Time | 181316 | [181316-jazz-time.json](./181316-jazz-time.json) |
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
 | JB Hairboll in: Murder Flub | 59414 | [59414-jb-hairboll-in-murder-flub.json](./59414-jb-hairboll-in-murder-flub.json) |
 | JBomb | 340769 | [340769-jbomb.json](./340769-jbomb.json) |
