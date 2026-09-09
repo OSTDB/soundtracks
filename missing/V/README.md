@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivecraft | 370146 | [370146-vivecraft.json](./370146-vivecraft.json) |
 | Vivian and Kyuma | 282021 | [282021-vivian-and-kyuma.json](./282021-vivian-and-kyuma.json) |
 | Vivid | 415091 | [415091-vivid.json](./415091-vivid.json) |
+| ViviDex | 182983 | [182983-vividex.json](./182983-vividex.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
 | Vivitter: Additional Mini-game - "Hole-in-one" | 308772 | [308772-vivitter-additional-mini-game-hole-in-one.json](./308772-vivitter-additional-mini-game-hole-in-one.json) |
 | Vivitter: Additional Mini-game - "Kiss Game" | 308785 | [308785-vivitter-additional-mini-game-kiss-game.json](./308785-vivitter-additional-mini-game-kiss-game.json) |
