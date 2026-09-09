@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Star | 306659 | [306659-magic-star.json](./306659-magic-star.json) |
 | Magic Streets | 335648 | [335648-magic-streets.json](./335648-magic-streets.json) |
 | Magic Summoning Adventure | 154014 | [154014-magic-summoning-adventure.json](./154014-magic-summoning-adventure.json) |
+| Magic Survival | 188606 | [188606-magic-survival.json](./188606-magic-survival.json) |
 | Magic Survivor Undead | 333399 | [333399-magic-survivor-undead.json](./333399-magic-survivor-undead.json) |
 | Magic Synthesis | 103487 | [103487-magic-synthesis.json](./103487-magic-synthesis.json) |
 | Magic Technology: Tower Defense | 68679 | [68679-magic-technology-tower-defense.json](./68679-magic-technology-tower-defense.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
+| Mintroid | 188619 | [188619-mintroid.json](./188619-mintroid.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
