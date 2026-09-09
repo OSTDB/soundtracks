@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakeboarding Unleashed Featuring Shaun Murray | 248685 | [248685-wakeboarding-unleashed-featuring-shaun-murray.json](./248685-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
+| Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
 | Waktunya Kerja! | 385599 | [385599-waktunya-kerja.json](./385599-waktunya-kerja.json) |
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
 | Waku Waku Sweets: Happy Sweets Making | 96093 | [96093-waku-waku-sweets-happy-sweets-making.json](./96093-waku-waku-sweets-happy-sweets-making.json) |
