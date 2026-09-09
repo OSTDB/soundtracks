@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karen Ready！ | 326095 | [326095-karen-ready.json](./326095-karen-ready.json) |
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
+| Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
 | Karma: The Dark World - Deluxe Edition | 403590 | [403590-karma-the-dark-world-deluxe-edition.json](./403590-karma-the-dark-world-deluxe-edition.json) |
 | Karnov | 288188 | [288188-karnov.json](./288188-karnov.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
