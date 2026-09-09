@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor Drop | 413655 | [413655-floor-drop.json](./413655-floor-drop.json) |
 | Floor Fall | 310974 | [310974-floor-fall.json](./310974-floor-fall.json) |
 | Floor is Lava | 207520 | [207520-floor-is-lava.json](./207520-floor-is-lava.json) |
+| Floor is Water | 193402 | [193402-floor-is-water.json](./193402-floor-is-water.json) |
 | Floor44 | 213011 | [213011-floor44.json](./213011-floor44.json) |
 | Floors | 309374 | [309374-floors.json](./309374-floors.json) |
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
