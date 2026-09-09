@@ -101,7 +101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
-| 11wol Sonyeon | 98427 | [98427-11wol-sonyeon.json](./98427-11wol-sonyeon.json) |
 | 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
 | 12 Labours of Hercules XIV: Message in a Bottle | 221170 | [221170-12-labours-of-hercules-xiv-message-in-a-bottle.json](./221170-12-labours-of-hercules-xiv-message-in-a-bottle.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
