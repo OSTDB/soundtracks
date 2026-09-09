@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
 | Ubel | 195142 | [195142-ubel.json](./195142-ubel.json) |
+| Uber Squad | 179132 | [179132-uber-squad.json](./179132-uber-squad.json) |
 | Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
