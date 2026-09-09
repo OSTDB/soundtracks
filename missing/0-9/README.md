@@ -163,9 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
-| 2-Dates Dating Simulator | 178688 | [178688-2-dates-dating-simulator.json](./178688-2-dates-dating-simulator.json) |
 | 2-Finger Heroes | 66692 | [66692-2-finger-heroes.json](./66692-2-finger-heroes.json) |
-| 2-taku de Dasshutsu Game | 220300 | [220300-2-taku-de-dasshutsu-game.json](./220300-2-taku-de-dasshutsu-game.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
 | 2-taku de Real-juu Metsubou Game | 220299 | [220299-2-taku-de-real-juu-metsubou-game.json](./220299-2-taku-de-real-juu-metsubou-game.json) |
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
