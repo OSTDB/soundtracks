@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Keep Co-op | 198473 | [198473-marios-keep-co-op.json](./198473-marios-keep-co-op.json) |
 | Mario's Mahalo Party | 324092 | [324092-marios-mahalo-party.json](./324092-marios-mahalo-party.json) |
 | Mario's Mini Micro Adventures | 331311 | [331311-marios-mini-micro-adventures.json](./331311-marios-mini-micro-adventures.json) |
+| Mario's Mission Earth | 195733 | [195733-marios-mission-earth.json](./195733-marios-mission-earth.json) |
 | Mario's Pride: Mini Quest | 254516 | [254516-marios-pride-mini-quest.json](./254516-marios-pride-mini-quest.json) |
 | Mario's Rules: Variety on 3 | 323748 | [323748-marios-rules-variety-on-3.json](./323748-marios-rules-variety-on-3.json) |
 | Marioblade Chronicles 64 | 219044 | [219044-marioblade-chronicles-64.json](./219044-marioblade-chronicles-64.json) |
