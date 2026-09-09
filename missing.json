@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T04:48:33.401Z",
-  "total_missing": 49256,
+  "generated_at": "2026-09-09T04:51:04.318Z",
+  "total_missing": 49255,
   "games": [
     {
       "igdb_id": 306086,
@@ -546,11 +546,6 @@
       "igdb_id": 28337,
       "game_name": "13 Sentinels: Aegis Rim",
       "file": "missing/0-9/28337-13-sentinels-aegis-rim.json"
-    },
-    {
-      "igdb_id": 234074,
-      "game_name": "13 Thieves",
-      "file": "missing/0-9/234074-13-thieves.json"
     },
     {
       "igdb_id": 197399,
