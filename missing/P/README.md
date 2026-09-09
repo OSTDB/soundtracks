@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
 | PGA Championship Golf 2000: Titanium Edition | 70960 | [70960-pga-championship-golf-2000-titanium-edition.json](./70960-pga-championship-golf-2000-titanium-edition.json) |
 | PGA Tour 2K23: Tiger Woods Edition | 221421 | [221421-pga-tour-2k23-tiger-woods-edition.json](./221421-pga-tour-2k23-tiger-woods-edition.json) |
+| PGA Tour Golf: The Monterey Courses | 206170 | [206170-pga-tour-golf-the-monterey-courses.json](./206170-pga-tour-golf-the-monterey-courses.json) |
 | Ph0b0s | 207521 | [207521-ph0b0s.json](./207521-ph0b0s.json) |
 | Phá Kén: Khúc Điêu Linh | 318783 | [318783-pha-ken-khuc-ieu-linh.json](./318783-pha-ken-khuc-ieu-linh.json) |
 | Phantaruk | 20788 | [20788-phantaruk.json](./20788-phantaruk.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
 | Pokémon Empyrean | 221394 | [221394-pokemon-empyrean.json](./221394-pokemon-empyrean.json) |
 | Pokémon Eon Guardians | 241388 | [241388-pokemon-eon-guardians.json](./241388-pokemon-eon-guardians.json) |
+| Pokémon Ephemerald | 206144 | [206144-pokemon-ephemerald.json](./206144-pokemon-ephemerald.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
