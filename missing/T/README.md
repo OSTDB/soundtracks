@@ -4280,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
 | Train No. 7 | 163960 | [163960-train-no-7.json](./163960-train-no-7.json) |
 | Train of Afterlife | 35939 | [35939-train-of-afterlife.json](./35939-train-of-afterlife.json) |
+| Train Sim World 2: BR Class 313 | 205574 | [205574-train-sim-world-2-br-class-313.json](./205574-train-sim-world-2-br-class-313.json) |
 | Train Sim World 2: DB BR 182 Loco Add-On | 167301 | [167301-train-sim-world-2-db-br-182-loco-add-on.json](./167301-train-sim-world-2-db-br-182-loco-add-on.json) |
 | Train Sim World 2: Harlem Line - Grand Central Terminal: North White Plains Route | 195778 | [195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json](./195778-train-sim-world-2-harlem-line-grand-central-terminal-north-white-plains-route.json) |
 | Train Sim World 2: Hauptstrecke Hamburg - Lübeck Route Add-On | 147456 | [147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json](./147456-train-sim-world-2-hauptstrecke-hamburg-lubeck-route-add-on.json) |
@@ -4388,19 +4389,45 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains | 95443 | [95443-trains.json](./95443-trains.json) |
 | Trains: Through Electric Storms. | 221156 | [221156-trains-through-electric-storms.json](./221156-trains-through-electric-storms.json) |
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
+| Trainz Plus: Amtrak F40PH 2 pack | 205558 | [205558-trainz-plus-amtrak-f40ph-2-pack.json](./205558-trainz-plus-amtrak-f40ph-2-pack.json) |
+| Trainz Plus: Amtrak P42DC - Phase III | 205543 | [205543-trainz-plus-amtrak-p42dc-phase-iii.json](./205543-trainz-plus-amtrak-p42dc-phase-iii.json) |
+| Trainz Plus: Avery - Drexel Route | 205544 | [205544-trainz-plus-avery-drexel-route.json](./205544-trainz-plus-avery-drexel-route.json) |
+| Trainz Plus: BNSF GE Dash-9 44CW Warbonnet | 205545 | [205545-trainz-plus-bnsf-ge-dash-9-44cw-warbonnet.json](./205545-trainz-plus-bnsf-ge-dash-9-44cw-warbonnet.json) |
 | Trainz Plus: BR Diesel Brake Tenders | 306101 | [306101-trainz-plus-br-diesel-brake-tenders.json](./306101-trainz-plus-br-diesel-brake-tenders.json) |
 | Trainz Plus: C44aci Locomotive - ARG/Mineral Resources Pack | 306102 | [306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json](./306102-trainz-plus-c44aci-locomotive-arg-mineral-resources-pack.json) |
+| Trainz Plus: Chesapeake & Ohio K3-K3a 2-8-2 | 205542 | [205542-trainz-plus-chesapeake-and-ohio-k3-k3a-2-8-2.json](./205542-trainz-plus-chesapeake-and-ohio-k3-k3a-2-8-2.json) |
+| Trainz Plus: CO17-3373 | 205551 | [205551-trainz-plus-co17-3373.json](./205551-trainz-plus-co17-3373.json) |
+| Trainz Plus: CP SD40-2 #5865-5879 Dual Flags | 205566 | [205566-trainz-plus-cp-sd40-2-5865-5879-dual-flags.json](./205566-trainz-plus-cp-sd40-2-5865-5879-dual-flags.json) |
+| Trainz Plus: DBuz 747 Passenger Cars | 205557 | [205557-trainz-plus-dbuz-747-passenger-cars.json](./205557-trainz-plus-dbuz-747-passenger-cars.json) |
+| Trainz Plus: DR DBmtrue 215 | 205563 | [205563-trainz-plus-dr-dbmtrue-215.json](./205563-trainz-plus-dr-dbmtrue-215.json) |
+| Trainz Plus: ECML Edinburgh - Dundee | 205560 | [205560-trainz-plus-ecml-edinburgh-dundee.json](./205560-trainz-plus-ecml-edinburgh-dundee.json) |
+| Trainz Plus: Florida Rail Road Museum Model Railroad | 205550 | [205550-trainz-plus-florida-rail-road-museum-model-railroad.json](./205550-trainz-plus-florida-rail-road-museum-model-railroad.json) |
+| Trainz Plus: Halloween Night on Kickstarter County | 205548 | [205548-trainz-plus-halloween-night-on-kickstarter-county.json](./205548-trainz-plus-halloween-night-on-kickstarter-county.json) |
 | Trainz Plus: Harvard Subdivision - Commuter Edition | 285473 | [285473-trainz-plus-harvard-subdivision-commuter-edition.json](./285473-trainz-plus-harvard-subdivision-commuter-edition.json) |
+| Trainz Plus: Healesville 1910's | 205555 | [205555-trainz-plus-healesville-1910s.json](./205555-trainz-plus-healesville-1910s.json) |
+| Trainz Plus: Industrial Switching | 205541 | [205541-trainz-plus-industrial-switching.json](./205541-trainz-plus-industrial-switching.json) |
+| Trainz Plus: Inzer - South Ural Mountains | 205549 | [205549-trainz-plus-inzer-south-ural-mountains.json](./205549-trainz-plus-inzer-south-ural-mountains.json) |
+| Trainz Plus: Lone Pine Branch | 205565 | [205565-trainz-plus-lone-pine-branch.json](./205565-trainz-plus-lone-pine-branch.json) |
 | Trainz Plus: Milton Valley Railroad | 306107 | [306107-trainz-plus-milton-valley-railroad.json](./306107-trainz-plus-milton-valley-railroad.json) |
+| Trainz Plus: Mine & Field railway | 205559 | [205559-trainz-plus-mine-and-field-railway.json](./205559-trainz-plus-mine-and-field-railway.json) |
 | Trainz Plus: Model Trainz - Freemont Mills | 306103 | [306103-trainz-plus-model-trainz-freemont-mills.json](./306103-trainz-plus-model-trainz-freemont-mills.json) |
 | Trainz Plus: NR Class Locomotive - JBR Indian Pacific Pack | 284916 | [284916-trainz-plus-nr-class-locomotive-jbr-indian-pacific-pack.json](./284916-trainz-plus-nr-class-locomotive-jbr-indian-pacific-pack.json) |
+| Trainz Plus: NS SD60E - 6963 GoRail | 205562 | [205562-trainz-plus-ns-sd60e-6963-gorail.json](./205562-trainz-plus-ns-sd60e-6963-gorail.json) |
 | Trainz Plus: Port Saturn | 288212 | [288212-trainz-plus-port-saturn.json](./288212-trainz-plus-port-saturn.json) |
+| Trainz Plus: PREG B16mnopux 039 | 205553 | [205553-trainz-plus-preg-b16mnopux-039.json](./205553-trainz-plus-preg-b16mnopux-039.json) |
+| Trainz Plus: PREG B16mnopux 087 | 205564 | [205564-trainz-plus-preg-b16mnopux-087.json](./205564-trainz-plus-preg-b16mnopux-087.json) |
+| Trainz Plus: Pro Train - Class 68 TPN | 205546 | [205546-trainz-plus-pro-train-class-68-tpn.json](./205546-trainz-plus-pro-train-class-68-tpn.json) |
 | Trainz Plus: Pro Train - SD40-2 Loco Bundle 4 | 306105 | [306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json](./306105-trainz-plus-pro-train-sd40-2-loco-bundle-4.json) |
 | Trainz Plus: Pro Train - Sequoia Valley | 306106 | [306106-trainz-plus-pro-train-sequoia-valley.json](./306106-trainz-plus-pro-train-sequoia-valley.json) |
 | Trainz Plus: Pro Train - TGV Duplex | 212240 | [212240-trainz-plus-pro-train-tgv-duplex.json](./212240-trainz-plus-pro-train-tgv-duplex.json) |
 | Trainz Plus: Pro Train DB/DR Auxiliary Train | 237946 | [237946-trainz-plus-pro-train-db-dr-auxiliary-train.json](./237946-trainz-plus-pro-train-db-dr-auxiliary-train.json) |
 | Trainz Plus: ProTrain - AC4400CW Loco Bundle 1 | 306104 | [306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json](./306104-trainz-plus-protrain-ac4400cw-loco-bundle-1.json) |
+| Trainz Plus: PRR X23 Boxcar | 205556 | [205556-trainz-plus-prr-x23-boxcar.json](./205556-trainz-plus-prr-x23-boxcar.json) |
 | Trainz Plus: QR National GE C44aci | 213407 | [213407-trainz-plus-qr-national-ge-c44aci.json](./213407-trainz-plus-qr-national-ge-c44aci.json) |
+| Trainz Plus: RZD-UZ-RIC Wagons Praha | 205552 | [205552-trainz-plus-rzd-uz-ric-wagons-praha.json](./205552-trainz-plus-rzd-uz-ric-wagons-praha.json) |
+| Trainz Plus: Season Town Northern Rail Road Route | 205554 | [205554-trainz-plus-season-town-northern-rail-road-route.json](./205554-trainz-plus-season-town-northern-rail-road-route.json) |
+| Trainz Plus: Shortline Railroad | 205547 | [205547-trainz-plus-shortline-railroad.json](./205547-trainz-plus-shortline-railroad.json) |
+| Trainz Plus: TE3-2068 | 205561 | [205561-trainz-plus-te3-2068.json](./205561-trainz-plus-te3-2068.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 1 | 206164 | [206164-trainz-railroad-simulator-2006-routes-volume-1.json](./206164-trainz-railroad-simulator-2006-routes-volume-1.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 2 | 206165 | [206165-trainz-railroad-simulator-2006-routes-volume-2.json](./206165-trainz-railroad-simulator-2006-routes-volume-2.json) |
 | Trainz Railroad Simulator 2006: Routes Volume 3 | 206166 | [206166-trainz-railroad-simulator-2006-routes-volume-3.json](./206166-trainz-railroad-simulator-2006-routes-volume-3.json) |
