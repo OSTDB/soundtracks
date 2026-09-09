@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T00:51:00.650Z",
-  "total_missing": 48688,
+  "generated_at": "2026-09-09T01:01:03.811Z",
+  "total_missing": 48692,
   "games": [
     {
       "igdb_id": 306086,
@@ -426,11 +426,6 @@
       "igdb_id": 337608,
       "game_name": "101 Cats in Milan",
       "file": "missing/0-9/337608-101-cats-in-milan.json"
-    },
-    {
-      "igdb_id": 337609,
-      "game_name": "101 Cats in New York",
-      "file": "missing/0-9/337609-101-cats-in-new-york.json"
     },
     {
       "igdb_id": 337610,
@@ -55686,6 +55681,11 @@
       "igdb_id": 334693,
       "game_name": "Doki Doki Silver & Emerald",
       "file": "missing/D/334693-doki-doki-silver-and-emerald.json"
+    },
+    {
+      "igdb_id": 208412,
+      "game_name": "Doki Doki Takeover!: Bad Ending",
+      "file": "missing/D/208412-doki-doki-takeover-bad-ending.json"
     },
     {
       "igdb_id": 191218,
@@ -148683,6 +148683,11 @@
       "file": "missing/P/311462-paradise-up-above-gold-label-edition.json"
     },
     {
+      "igdb_id": 208418,
+      "game_name": "Paradize Project",
+      "file": "missing/P/208418-paradize-project.json"
+    },
+    {
       "igdb_id": 330161,
       "game_name": "Paradox Lost",
       "file": "missing/P/330161-paradox-lost.json"
@@ -204148,6 +204153,11 @@
       "file": "missing/T/253574-terminate-study-x.json"
     },
     {
+      "igdb_id": 208419,
+      "game_name": "Terminator",
+      "file": "missing/T/208419-terminator.json"
+    },
+    {
       "igdb_id": 380994,
       "game_name": "Terminator: Dark Fate - Defiance: Evolution",
       "file": "missing/T/380994-terminator-dark-fate-defiance-evolution.json"
@@ -218421,6 +218431,11 @@
       "igdb_id": 209641,
       "game_name": "Time on Frog Island: Prologue",
       "file": "missing/T/209641-time-on-frog-island-prologue.json"
+    },
+    {
+      "igdb_id": 208411,
+      "game_name": "Time Only Knows",
+      "file": "missing/T/208411-time-only-knows.json"
     },
     {
       "igdb_id": 246402,
@@ -243266,6 +243281,11 @@
       "igdb_id": 402944,
       "game_name": "Zoria: Age of Shattering - Ancestors' Weapon Pack",
       "file": "missing/Z/402944-zoria-age-of-shattering-ancestors-weapon-pack.json"
+    },
+    {
+      "igdb_id": 208413,
+      "game_name": "Zorpon",
+      "file": "missing/Z/208413-zorpon.json"
     },
     {
       "igdb_id": 81431,
