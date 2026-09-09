@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
+| Batman | 200135 | [200135-batman.json](./200135-batman.json) |
 | Batman & Flash | 326624 | [326624-batman-and-flash.json](./326624-batman-and-flash.json) |
 | Batman Arkham Origins: Blackgate - Deluxe Edition | 21066 | [21066-batman-arkham-origins-blackgate-deluxe-edition.json](./21066-batman-arkham-origins-blackgate-deluxe-edition.json) |
 | Batman Begins | 229719 | [229719-batman-begins.json](./229719-batman-begins.json) |
@@ -582,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Begins: Fast Pursuit | 245554 | [245554-batman-begins-fast-pursuit.json](./245554-batman-begins-fast-pursuit.json) |
 | Batman Begins: Fear the Bat | 245553 | [245553-batman-begins-fear-the-bat.json](./245553-batman-begins-fear-the-bat.json) |
 | Batman Doom | 138788 | [138788-batman-doom.json](./138788-batman-doom.json) |
+| Batman Returns | 200153 | [200153-batman-returns.json](./200153-batman-returns.json) |
 | Batman Returns | 4379 | [4379-batman-returns.json](./4379-batman-returns.json) |
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
 | Batman: Arkham Knight - 2008 Tumbler Batmobile Pack | 15524 | [15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json](./15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json) |
@@ -644,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Sun | 24338 | [24338-battle-for-the-sun.json](./24338-battle-for-the-sun.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
+| Battle Fortress Defence | 200114 | [200114-battle-fortress-defence.json](./200114-battle-fortress-defence.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
