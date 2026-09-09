@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T19:21:04.229Z",
-  "total_missing": 51567,
+  "generated_at": "2026-09-09T19:31:05.260Z",
+  "total_missing": 51568,
   "games": [
     {
       "igdb_id": 306086,
@@ -1016,11 +1016,6 @@
       "igdb_id": 96726,
       "game_name": "2XL Supercross HD",
       "file": "missing/0-9/96726-2xl-supercross-hd.json"
-    },
-    {
-      "igdb_id": 305796,
-      "game_name": "2Xtreme",
-      "file": "missing/0-9/305796-2xtreme.json"
     },
     {
       "igdb_id": 45105,
@@ -136233,6 +136228,11 @@
       "file": "missing/M/402922-mixology.json"
     },
     {
+      "igdb_id": 177004,
+      "game_name": "Mixtape Fever",
+      "file": "missing/M/177004-mixtape-fever.json"
+    },
+    {
       "igdb_id": 290431,
       "game_name": "Mixx Island: Remix Plus - Amazing Edition",
       "file": "missing/M/290431-mixx-island-remix-plus-amazing-edition.json"
@@ -161901,6 +161901,11 @@
       "igdb_id": 137666,
       "game_name": "Pixelplace.io",
       "file": "missing/P/137666-pixelplace-io.json"
+    },
+    {
+      "igdb_id": 177003,
+      "game_name": "Pixelpusher",
+      "file": "missing/P/177003-pixelpusher.json"
     },
     {
       "igdb_id": 60003,
