@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
 | B.C. Dash | 270398 | [270398-b-c-dash.json](./270398-b-c-dash.json) |
 | B.C. Piezophile | 239637 | [239637-b-c-piezophile.json](./239637-b-c-piezophile.json) |
+| B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
 | B.M.G 19: Bike Messenger Go! | 115707 | [115707-b-m-g-19-bike-messenger-go.json](./115707-b-m-g-19-bike-messenger-go.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
@@ -800,6 +801,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
 | Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
+| Battlestar Galactica Deadlock: Armistice | 171015 | [171015-battlestar-galactica-deadlock-armistice.json](./171015-battlestar-galactica-deadlock-armistice.json) |
+| Battlestar Galactica Deadlock: Reinforcement Pack | 171016 | [171016-battlestar-galactica-deadlock-reinforcement-pack.json](./171016-battlestar-galactica-deadlock-reinforcement-pack.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
 | BattleStar Mazay | 104068 | [104068-battlestar-mazay.json](./104068-battlestar-mazay.json) |
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
