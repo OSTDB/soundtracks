@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Warfare: El Guettar | 154531 | [154531-tank-warfare-el-guettar.json](./154531-tank-warfare-el-guettar.json) |
 | Tank Warfare: Operation Pugilist | 155088 | [155088-tank-warfare-operation-pugilist.json](./155088-tank-warfare-operation-pugilist.json) |
 | Tank-O-Box | 78682 | [78682-tank-o-box.json](./78682-tank-o-box.json) |
+| Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
 | Tankitos | 201788 | [201788-tankitos.json](./201788-tankitos.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
+| TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
@@ -534,6 +536,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
+| Techwars Global Conflict: Demigod Legacy Edition | 188028 | [188028-techwars-global-conflict-demigod-legacy-edition.json](./188028-techwars-global-conflict-demigod-legacy-edition.json) |
+| Techwars Global Conflict: Heroic Edition | 188019 | [188019-techwars-global-conflict-heroic-edition.json](./188019-techwars-global-conflict-heroic-edition.json) |
+| Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Stackers | 43939 | [43939-tecmo-stackers.json](./43939-tecmo-stackers.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
@@ -566,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 6 | 1236 | [1236-tekken-6.json](./1236-tekken-6.json) |
 | Tekken 6 | 195868 | [195868-tekken-6.json](./195868-tekken-6.json) |
 | Tekken 6 | 272551 | [272551-tekken-6.json](./272551-tekken-6.json) |
+| Tekken 7: Definitive Edition | 188048 | [188048-tekken-7-definitive-edition.json](./188048-tekken-7-definitive-edition.json) |
 | Tekken 7: Fated Retribution | 19555 | [19555-tekken-7-fated-retribution.json](./19555-tekken-7-fated-retribution.json) |
 | Tekken 7: Legendary Edition | 200681 | [200681-tekken-7-legendary-edition.json](./200681-tekken-7-legendary-edition.json) |
 | Tekken 7: Originals Edition | 218481 | [218481-tekken-7-originals-edition.json](./218481-tekken-7-originals-edition.json) |
@@ -1987,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
 | The Last Run: Dead Zombie Shooter | 209142 | [209142-the-last-run-dead-zombie-shooter.json](./209142-the-last-run-dead-zombie-shooter.json) |
+| The Last Running Hero | 188011 | [188011-the-last-running-hero.json](./188011-the-last-running-hero.json) |
 | The Last Sacrifice: A King's Past | 225679 | [225679-the-last-sacrifice-a-kings-past.json](./225679-the-last-sacrifice-a-kings-past.json) |
 | The Last Sacrifice: Blood King's Beloved | 225678 | [225678-the-last-sacrifice-blood-kings-beloved.json](./225678-the-last-sacrifice-blood-kings-beloved.json) |
 | The Last Sacrifice: Blood King's Desire | 225676 | [225676-the-last-sacrifice-blood-kings-desire.json](./225676-the-last-sacrifice-blood-kings-desire.json) |
@@ -2438,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pilgrim's Progress: The Video Game | 61109 | [61109-the-pilgrims-progress-the-video-game.json](./61109-the-pilgrims-progress-the-video-game.json) |
 | The Pillagers of Raillore | 137096 | [137096-the-pillagers-of-raillore.json](./137096-the-pillagers-of-raillore.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
+| The Pirates Kill | 188037 | [188037-the-pirates-kill.json](./188037-the-pirates-kill.json) |
 | The Pirates of Dark Water | 342059 | [342059-the-pirates-of-dark-water.json](./342059-the-pirates-of-dark-water.json) |
 | The Pit | 213417 | [213417-the-pit.json](./213417-the-pit.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
@@ -4845,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
 | Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
+| Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
 | Tribio puzzle: Strategic Spot | 253022 | [253022-tribio-puzzle-strategic-spot.json](./253022-tribio-puzzle-strategic-spot.json) |
 | Tribloos 3 | 104685 | [104685-tribloos-3.json](./104685-tribloos-3.json) |
@@ -5228,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twitter Plays Snake | 339133 | [339133-twitter-plays-snake.json](./339133-twitter-plays-snake.json) |
 | Twixel | 9524 | [9524-twixel.json](./9524-twixel.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
+| Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
