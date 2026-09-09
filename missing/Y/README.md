@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume 3 | 258176 | [258176-yume-3.json](./258176-yume-3.json) |
 | Yume 5: Spring Festival of Lust | 400245 | [400245-yume-5-spring-festival-of-lust.json](./400245-yume-5-spring-festival-of-lust.json) |
 | Yume Doodle | 201843 | [201843-yume-doodle.json](./201843-yume-doodle.json) |
+| Yume Dreamer | 201778 | [201778-yume-dreamer.json](./201778-yume-dreamer.json) |
 | Yume Fumi | 201847 | [201847-yume-fumi.json](./201847-yume-fumi.json) |
 | Yume Graffiti | 145036 | [145036-yume-graffiti.json](./145036-yume-graffiti.json) |
 | Yume Inu | 229680 | [229680-yume-inu.json](./229680-yume-inu.json) |
