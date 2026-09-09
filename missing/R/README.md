@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
 | Reed Collection | 221993 | [221993-reed-collection.json](./221993-reed-collection.json) |
+| Reef Rivals | 191825 | [191825-reef-rivals.json](./191825-reef-rivals.json) |
 | Reef Shot | 63699 | [63699-reef-shot.json](./63699-reef-shot.json) |
 | Reel Deal Card Games | 77387 | [77387-reel-deal-card-games.json](./77387-reel-deal-card-games.json) |
 | Reel Deal Card Games '09 | 77388 | [77388-reel-deal-card-games-09.json](./77388-reel-deal-card-games-09.json) |
@@ -1263,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
+| Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
@@ -1624,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling for Romance | 273954 | [273954-rolling-for-romance.json](./273954-rolling-for-romance.json) |
 | Rolling in the Maze | 286498 | [286498-rolling-in-the-maze.json](./286498-rolling-in-the-maze.json) |
 | Rolling Macho: Tumbling to Earth | 330148 | [330148-rolling-macho-tumbling-to-earth.json](./330148-rolling-macho-tumbling-to-earth.json) |
+| Rolling Over It | 191834 | [191834-rolling-over-it.json](./191834-rolling-over-it.json) |
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
