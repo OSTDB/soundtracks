@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T01:31:01.891Z",
-  "total_missing": 48749,
+  "generated_at": "2026-09-09T01:41:01.544Z",
+  "total_missing": 48748,
   "games": [
     {
       "igdb_id": 306086,
@@ -446,11 +446,6 @@
       "igdb_id": 16745,
       "game_name": "101 Ways to Die",
       "file": "missing/0-9/16745-101-ways-to-die.json"
-    },
-    {
-      "igdb_id": 58253,
-      "game_name": "1010: Block",
-      "file": "missing/0-9/58253-1010-block.json"
     },
     {
       "igdb_id": 308273,
