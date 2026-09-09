@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
 | Absurdika | 248332 | [248332-absurdika.json](./248332-absurdika.json) |
 | Abulia | 372445 | [372445-abulia.json](./372445-abulia.json) |
+| Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
 | Abunka | 216777 | [216777-abunka.json](./216777-abunka.json) |
 | Abysm 2: Pharaoh's Judgement | 201229 | [201229-abysm-2-pharaohs-judgement.json](./201229-abysm-2-pharaohs-judgement.json) |
@@ -684,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Austen | 232175 | [232175-aerial-austen.json](./232175-aerial-austen.json) |
 | Aerial Life | 147445 | [147445-aerial-life.json](./147445-aerial-life.json) |
 | Aerial_Knight's We Never Yield | 290947 | [290947-aerial-knights-we-never-yield.json](./290947-aerial-knights-we-never-yield.json) |
+| Aerinde | 197904 | [197904-aerinde.json](./197904-aerinde.json) |
 | Aeris | 288745 | [288745-aeris.json](./288745-aeris.json) |
 | Aero Attack: Retro Space Shooter | 115715 | [115715-aero-attack-retro-space-shooter.json](./115715-aero-attack-retro-space-shooter.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
@@ -806,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
 | Age of Empires II Mobile | 144346 | [144346-age-of-empires-ii-mobile.json](./144346-age-of-empires-ii-mobile.json) |
 | Age of Empires II: Definitive Edition | 55056 | [55056-age-of-empires-ii-definitive-edition.json](./55056-age-of-empires-ii-definitive-edition.json) |
+| Age of Empires II: Definitive Edition - Dynasties of India | 197890 | [197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json](./197890-age-of-empires-ii-definitive-edition-dynasties-of-india.json) |
 | Age of Empires III Mobile | 144347 | [144347-age-of-empires-iii-mobile.json](./144347-age-of-empires-iii-mobile.json) |
 | Age of Empires III: Definitive Edition | 55057 | [55057-age-of-empires-iii-definitive-edition.json](./55057-age-of-empires-iii-definitive-edition.json) |
 | Age of Empires III: Definitive Edition - Knights of the Mediterranean | 202424 | [202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json](./202424-age-of-empires-iii-definitive-edition-knights-of-the-mediterranean.json) |
@@ -906,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Solitaire: Lovely Ladies | 304006 | [304006-ai-solitaire-lovely-ladies.json](./304006-ai-solitaire-lovely-ladies.json) |
 | AI Unbound | 245865 | [245865-ai-unbound.json](./245865-ai-unbound.json) |
 | AI War: Ancient Shadows | 8888 | [8888-ai-war-ancient-shadows.json](./8888-ai-war-ancient-shadows.json) |
+| Ai-(Onic) | 197878 | [197878-ai-onic.json](./197878-ai-onic.json) |
 | AI: The Somnium Files | 104971 | [104971-ai-the-somnium-files.json](./104971-ai-the-somnium-files.json) |
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
@@ -1461,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
+| American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
@@ -2099,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Tank Battalion | 290419 | [290419-arcade-archives-tank-battalion.json](./290419-arcade-archives-tank-battalion.json) |
 | Arcade Archives: Tank Force | 232461 | [232461-arcade-archives-tank-force.json](./232461-arcade-archives-tank-force.json) |
 | Arcade Archives: The Final Round | 312019 | [312019-arcade-archives-the-final-round.json](./312019-arcade-archives-the-final-round.json) |
+| Arcade Archives: The Legend Of Valkyrie | 197892 | [197892-arcade-archives-the-legend-of-valkyrie.json](./197892-arcade-archives-the-legend-of-valkyrie.json) |
 | Arcade Archives: The Ninja Kids | 314869 | [314869-arcade-archives-the-ninja-kids.json](./314869-arcade-archives-the-ninja-kids.json) |
 | Arcade Archives: Tutankham | 300732 | [300732-arcade-archives-tutankham.json](./300732-arcade-archives-tutankham.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
