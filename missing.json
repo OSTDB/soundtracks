@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T15:31:09.285Z",
-  "total_missing": 50939,
+  "generated_at": "2026-09-09T15:41:07.724Z",
+  "total_missing": 50938,
   "games": [
     {
       "igdb_id": 306086,
@@ -891,11 +891,6 @@
       "igdb_id": 308226,
       "game_name": "2048 Fusion",
       "file": "missing/0-9/308226-2048-fusion.json"
-    },
-    {
-      "igdb_id": 262361,
-      "game_name": "2048 Game With New Levels",
-      "file": "missing/0-9/262361-2048-game-with-new-levels.json"
     },
     {
       "igdb_id": 317633,
