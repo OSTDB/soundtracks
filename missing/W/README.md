@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 5DX | 315270 | [315270-wangan-midnight-maximum-tune-5dx.json](./315270-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 5DX+ | 315271 | [315271-wangan-midnight-maximum-tune-5dx.json](./315271-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
+| Wangan Trial | 182444 | [182444-wangan-trial.json](./182444-wangan-trial.json) |
 | Wani Wani Attack | 210896 | [210896-wani-wani-attack.json](./210896-wani-wani-attack.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
 | Wanna B Wonka? Crazy Candy Creation Game | 373553 | [373553-wanna-b-wonka-crazy-candy-creation-game.json](./373553-wanna-b-wonka-crazy-candy-creation-game.json) |
@@ -945,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winkeltje: Cat Companion | 273939 | [273939-winkeltje-cat-companion.json](./273939-winkeltje-cat-companion.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
+| Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
 | Winnie The Pooh: The Serial Killer | 364538 | [364538-winnie-the-pooh-the-serial-killer.json](./364538-winnie-the-pooh-the-serial-killer.json) |
 | Winnie the Witch | 205840 | [205840-winnie-the-witch.json](./205840-winnie-the-witch.json) |
 | Winnie-the-Pooh Hops for Honey | 349335 | [349335-winnie-the-pooh-hops-for-honey.json](./349335-winnie-the-pooh-hops-for-honey.json) |
