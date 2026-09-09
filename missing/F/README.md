@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell of Life | 329569 | [329569-farewell-of-life.json](./329569-farewell-of-life.json) |
 | Farewell Sen | 213983 | [213983-farewell-sen.json](./213983-farewell-sen.json) |
+| Farewell to the Universe | 177497 | [177497-farewell-to-the-universe.json](./177497-farewell-to-the-universe.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
 | Faria: A World of Mystery and Danger! | 48060 | [48060-faria-a-world-of-mystery-and-danger.json](./48060-faria-a-world-of-mystery-and-danger.json) |
