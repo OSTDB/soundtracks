@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Doodle Fly | 241045 | [241045-a-doodle-fly.json](./241045-a-doodle-fly.json) |
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
 | A Dream of Silence | 317637 | [317637-a-dream-of-silence.json](./317637-a-dream-of-silence.json) |
+| A Dream of Wargs | 176957 | [176957-a-dream-of-wargs.json](./176957-a-dream-of-wargs.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
 | A Faerie's Tale | 299783 | [299783-a-faeries-tale.json](./299783-a-faeries-tale.json) |
@@ -271,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A Werewolf Opportunity, Obviously | 225265 | [225265-a-werewolf-opportunity-obviously.json](./225265-a-werewolf-opportunity-obviously.json) |
+| A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
 | A Wild Last Boss Appeared!: Black-Winged Survivor | 371248 | [371248-a-wild-last-boss-appeared-black-winged-survivor.json](./371248-a-wild-last-boss-appeared-black-winged-survivor.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Witch in Time: Yamada-kun to Nananin no Majo | 292009 | [292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json](./292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json) |
@@ -2086,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua 1 | 273132 | [273132-aqua-1.json](./273132-aqua-1.json) |
 | Aqua 2 | 273133 | [273133-aqua-2.json](./273133-aqua-2.json) |
 | Aqua 3 | 273134 | [273134-aqua-3.json](./273134-aqua-3.json) |
+| Aqua Journey | 176987 | [176987-aqua-journey.json](./176987-aqua-journey.json) |
 | Aqua Marbles: Ocean | 240804 | [240804-aqua-marbles-ocean.json](./240804-aqua-marbles-ocean.json) |
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
