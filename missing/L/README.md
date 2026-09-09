@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus Minigames: Berlin Traffic | 120420 | [120420-lotus-minigames-berlin-traffic.json](./120420-lotus-minigames-berlin-traffic.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
+| Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
 | Love and Formaldehyde | 225266 | [225266-love-and-formaldehyde.json](./225266-love-and-formaldehyde.json) |
 | Love Angel Syndrome | 324884 | [324884-love-angel-syndrome.json](./324884-love-angel-syndrome.json) |
