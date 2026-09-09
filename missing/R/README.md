@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Cows | 195730 | [195730-rocket-cows.json](./195730-rocket-cows.json) |
 | Rocket Engineer | 297204 | [297204-rocket-engineer.json](./297204-rocket-engineer.json) |
 | Rocket Escape | 226940 | [226940-rocket-escape.json](./226940-rocket-escape.json) |
+| Rocket Factory | 185637 | [185637-rocket-factory.json](./185637-rocket-factory.json) |
 | Rocket Hat | 329397 | [329397-rocket-hat.json](./329397-rocket-hat.json) |
 | Rocket Jump Race | 273653 | [273653-rocket-jump-race.json](./273653-rocket-jump-race.json) |
 | Rocket Knight Adventures: Re-Sparked | 283095 | [283095-rocket-knight-adventures-re-sparked.json](./283095-rocket-knight-adventures-re-sparked.json) |
@@ -1780,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotate the Rings | 259234 | [259234-rotate-the-rings.json](./259234-rotate-the-rings.json) |
 | Rotating Bones | 188010 | [188010-rotating-bones.json](./188010-rotating-bones.json) |
 | Rotato | 377595 | [377595-rotato.json](./377595-rotato.json) |
+| Rotato Ship | 185612 | [185612-rotato-ship.json](./185612-rotato-ship.json) |
 | Roterra 4: Magical Revolution | 234605 | [234605-roterra-4-magical-revolution.json](./234605-roterra-4-magical-revolution.json) |
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
 | Rothdam! | 196865 | [196865-rothdam.json](./196865-rothdam.json) |
