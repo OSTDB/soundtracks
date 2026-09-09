@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icewind Dale: Enhanced Edition | 36240 | [36240-icewind-dale-enhanced-edition.json](./36240-icewind-dale-enhanced-edition.json) |
 | Ichor | 122398 | [122398-ichor.json](./122398-ichor.json) |
 | Ichorian Tales | 415923 | [415923-ichorian-tales.json](./415923-ichorian-tales.json) |
+| Icing: Love Coating | 194541 | [194541-icing-love-coating.json](./194541-icing-love-coating.json) |
 | iClub Manager | 200159 | [200159-iclub-manager.json](./200159-iclub-manager.json) |
 | ICode Stem Universe | 265154 | [265154-icode-stem-universe.json](./265154-icode-stem-universe.json) |
 | Icon Tower Defense | 333384 | [333384-icon-tower-defense.json](./333384-icon-tower-defense.json) |
@@ -432,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
 | Immortality | 152288 | [152288-immortality.json](./152288-immortality.json) |
+| Immortals: Muv-Luv Alternative | 194560 | [194560-immortals-muv-luv-alternative.json](./194560-immortals-muv-luv-alternative.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortelle | 212825 | [212825-immortelle.json](./212825-immortelle.json) |
 | Immortum | 332246 | [332246-immortum.json](./332246-immortum.json) |
@@ -1038,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
 | Isekai Mining Defense | 348229 | [348229-isekai-mining-defense.json](./348229-isekai-mining-defense.json) |
+| Isekai Musume Hatsujouchuu: Ore no Are wo Hamu-hamu Shimakuri!? | 194592 | [194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json](./194592-isekai-musume-hatsujouchuu-ore-no-are-wo-hamu-hamu-shimakuri.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting | 196828 | [196828-isekai-musume-to-konkatsuchuu-isekai-bride-hunting.json](./196828-isekai-musume-to-konkatsuchuu-isekai-bride-hunting.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Fia Edition | 219277 | [219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json](./219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kullulu Edition | 227849 | [227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json](./227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json) |
