@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
 | Archwar: Heroes and Demons | 227250 | [227250-archwar-heroes-and-demons.json](./227250-archwar-heroes-and-demons.json) |
+| Arcis Ultima | 196231 | [196231-arcis-ultima.json](./196231-arcis-ultima.json) |
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
@@ -2499,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asciill | 192976 | [192976-asciill.json](./192976-asciill.json) |
 | Ascribe | 235990 | [235990-ascribe.json](./235990-ascribe.json) |
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
+| Asdivine Hearts I & II | 196276 | [196276-asdivine-hearts-i-and-ii.json](./196276-asdivine-hearts-i-and-ii.json) |
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
@@ -2697,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrobarian | 366849 | [366849-astrobarian.json](./366849-astrobarian.json) |
 | Astroblitz | 146299 | [146299-astroblitz.json](./146299-astroblitz.json) |
 | Astrobuilder | 334690 | [334690-astrobuilder.json](./334690-astrobuilder.json) |
+| Astrocat: Milky Way Journey | 196264 | [196264-astrocat-milky-way-journey.json](./196264-astrocat-milky-way-journey.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrologer | 130963 | [130963-astrologer.json](./130963-astrologer.json) |
