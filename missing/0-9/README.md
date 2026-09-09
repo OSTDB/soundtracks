@@ -92,7 +92,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Madrid | 326082 | [326082-101-cats-in-madrid.json](./326082-101-cats-in-madrid.json) |
 | 101 Cats in Milan | 337608 | [337608-101-cats-in-milan.json](./337608-101-cats-in-milan.json) |
 | 101 Cats in Paris | 337610 | [337610-101-cats-in-paris.json](./337610-101-cats-in-paris.json) |
-| 101 Cats in Rome | 326080 | [326080-101-cats-in-rome.json](./326080-101-cats-in-rome.json) |
 | 101 Cats in Singapore | 326079 | [326079-101-cats-in-singapore.json](./326079-101-cats-in-singapore.json) |
 | 101 Cats in Vienna | 337611 | [337611-101-cats-in-vienna.json](./337611-101-cats-in-vienna.json) |
 | 101 Dogs Hidden in Istanbul | 401547 | [401547-101-dogs-hidden-in-istanbul.json](./401547-101-dogs-hidden-in-istanbul.json) |
