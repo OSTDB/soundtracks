@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T17:03:49.706Z",
-  "total_missing": 51191,
+  "generated_at": "2026-09-09T17:11:07.091Z",
+  "total_missing": 51190,
   "games": [
     {
       "igdb_id": 306086,
@@ -936,11 +936,6 @@
       "igdb_id": 97343,
       "game_name": "22 Racing Series",
       "file": "missing/0-9/97343-22-racing-series.json"
-    },
-    {
-      "igdb_id": 394832,
-      "game_name": "24 Jingles to Bell",
-      "file": "missing/0-9/394832-24-jingles-to-bell.json"
     },
     {
       "igdb_id": 200104,
