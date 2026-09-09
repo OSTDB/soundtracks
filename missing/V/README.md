@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
 | VariTale | 71508 | [71508-varitale.json](./71508-varitale.json) |
+| Varooom 3D | 181877 | [181877-varooom-3d.json](./181877-varooom-3d.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
 | Vaster Claws 3: Dragon Slayer of the God World | 132243 | [132243-vaster-claws-3-dragon-slayer-of-the-god-world.json](./132243-vaster-claws-3-dragon-slayer-of-the-god-world.json) |
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
@@ -605,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
 | Voltorometer Recharged+ | 247512 | [247512-voltorometer-recharged.json](./247512-voltorometer-recharged.json) |
+| Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
 | Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
