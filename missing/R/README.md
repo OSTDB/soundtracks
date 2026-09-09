@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rallycross Track Racing | 221383 | [221383-rallycross-track-racing.json](./221383-rallycross-track-racing.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
 | Ralph Breaks VR | 246638 | [246638-ralph-breaks-vr.json](./246638-ralph-breaks-vr.json) |
+| Ralsei's got a gun! | 175924 | [175924-ralseis-got-a-gun.json](./175924-ralseis-got-a-gun.json) |
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
@@ -1837,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
 | Rotting Grief | 415068 | [415068-rotting-grief.json](./415068-rotting-grief.json) |
 | Rotund Rebound | 117060 | [117060-rotund-rebound.json](./117060-rotund-rebound.json) |
+| Rouge noir | 175904 | [175904-rouge-noir.json](./175904-rouge-noir.json) |
 | Rouge Tank | 295548 | [295548-rouge-tank.json](./295548-rouge-tank.json) |
 | Rouge.exe | 274986 | [274986-rouge-exe.json](./274986-rouge-exe.json) |
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
