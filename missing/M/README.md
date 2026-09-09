@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masochistic Maiden Aria and the Cavern of Blissful Agony | 252178 | [252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json](./252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
+| Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
 | Mass Effect: Genesis 2 | 202313 | [202313-mass-effect-genesis-2.json](./202313-mass-effect-genesis-2.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matolek the Goat's School | 334651 | [334651-matolek-the-goats-school.json](./334651-matolek-the-goats-school.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matsudaira's Myoshu: A Sengoku Village Simulator | 291470 | [291470-matsudairas-myoshu-a-sengoku-village-simulator.json](./291470-matsudairas-myoshu-a-sengoku-village-simulator.json) |
+| Matsurikki | 202314 | [202314-matsurikki.json](./202314-matsurikki.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
 | Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
@@ -1783,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
+| Mimi | 202315 | [202315-mimi.json](./202315-mimi.json) |
 | Mimi in The Sky | 267374 | [267374-mimi-in-the-sky.json](./267374-mimi-in-the-sky.json) |
 | Mimi the Cat: New Friends | 253911 | [253911-mimi-the-cat-new-friends.json](./253911-mimi-the-cat-new-friends.json) |
 | Mimic Party | 413646 | [413646-mimic-party.json](./413646-mimic-party.json) |
@@ -2150,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
 | MixCD | 408070 | [408070-mixcd.json](./408070-mixcd.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
+| MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
 | Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
@@ -2406,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monorail Stories | 137051 | [137051-monorail-stories.json](./137051-monorail-stories.json) |
+| Monotose | 202316 | [202316-monotose.json](./202316-monotose.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
 | Monstabox | 334134 | [334134-monstabox.json](./334134-monstabox.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
