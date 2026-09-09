@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroidvania Bundle | 268482 | [268482-metroidvania-bundle.json](./268482-metroidvania-bundle.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
 | Metropolismania | 26661 | [26661-metropolismania.json](./26661-metropolismania.json) |
+| Metropolismania 4 | 178560 | [178560-metropolismania-4.json](./178560-metropolismania-4.json) |
 | Metropolitan Mayhem | 270667 | [270667-metropolitan-mayhem.json](./270667-metropolitan-mayhem.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
 | Meu Primeiro Laptop da Xuxa | 255339 | [255339-meu-primeiro-laptop-da-xuxa.json](./255339-meu-primeiro-laptop-da-xuxa.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minerva | 10129 | [10129-minerva.json](./10129-minerva.json) |
 | Mines | 102817 | [102817-mines.json](./102817-mines.json) |
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
+| Minescroller | 178612 | [178612-minescroller.json](./178612-minescroller.json) |
 | Mineshaft | 333023 | [333023-mineshaft.json](./333023-mineshaft.json) |
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
