@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Starfighter | 201245 | [201245-ultimate-starfighter.json](./201245-ultimate-starfighter.json) |
 | Ultimate Summer Boat | 51982 | [51982-ultimate-summer-boat.json](./51982-ultimate-summer-boat.json) |
 | Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
+| Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
 | Ultimate Theater Simulator | 367400 | [367400-ultimate-theater-simulator.json](./367400-ultimate-theater-simulator.json) |
 | Ultimate Tower Defense | 272570 | [272570-ultimate-tower-defense.json](./272570-ultimate-tower-defense.json) |
 | Ultimate Trainz Collection | 206168 | [206168-ultimate-trainz-collection.json](./206168-ultimate-trainz-collection.json) |
