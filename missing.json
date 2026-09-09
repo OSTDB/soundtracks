@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T10:31:08.930Z",
-  "total_missing": 50104,
+  "generated_at": "2026-09-09T10:41:06.444Z",
+  "total_missing": 50103,
   "games": [
     {
       "igdb_id": 306086,
@@ -731,11 +731,6 @@
       "igdb_id": 8618,
       "game_name": "2 Fast 4 Gnomz",
       "file": "missing/0-9/8618-2-fast-4-gnomz.json"
-    },
-    {
-      "igdb_id": 201862,
-      "game_name": "2 Game Pack I Haunted Hotel 3: Lonely Dream & Haunted Hotel 4: Charles Dexter Ward",
-      "file": "missing/0-9/201862-2-game-pack-i-haunted-hotel-3-lonely-dream-and-haunted-hotel-4-charles-dexter-ward.json"
     },
     {
       "igdb_id": 201816,
