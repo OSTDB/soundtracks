@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
 | NCAA Football 2002 | 44644 | [44644-ncaa-football-2002.json](./44644-ncaa-football-2002.json) |
 | NCAA Football 2003 | 5955 | [5955-ncaa-football-2003.json](./5955-ncaa-football-2003.json) |
+| NCAA Football 2004 | 175918 | [175918-ncaa-football-2004.json](./175918-ncaa-football-2004.json) |
 | NCAA March Madness 06 | 5958 | [5958-ncaa-march-madness-06.json](./5958-ncaa-march-madness-06.json) |
 | NCORE | 330133 | [330133-ncore.json](./330133-ncore.json) |
 | NE_01 | 109025 | [109025-ne-01.json](./109025-ne-01.json) |
@@ -651,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
 | NFL Blitz Pro | 47337 | [47337-nfl-blitz-pro.json](./47337-nfl-blitz-pro.json) |
+| NFL Football | 175899 | [175899-nfl-football.json](./175899-nfl-football.json) |
 | NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
 | NFL GameDay 2005 | 209589 | [209589-nfl-gameday-2005.json](./209589-nfl-gameday-2005.json) |
 | NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
@@ -874,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja Fishing | 228412 | [228412-ninja-fishing.json](./228412-ninja-fishing.json) |
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
+| Ninja Gaiden | 175905 | [175905-ninja-gaiden.json](./175905-ninja-gaiden.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
 | Ninja Gaiden 3: Razor's Edge | 5317 | [5317-ninja-gaiden-3-razors-edge.json](./5317-ninja-gaiden-3-razors-edge.json) |
 | Ninja Gaiden 3DS | 269572 | [269572-ninja-gaiden-3ds.json](./269572-ninja-gaiden-3ds.json) |
@@ -1184,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | NoserLand | 51960 | [51960-noserland.json](./51960-noserland.json) |
+| Nosos | 175885 | [175885-nosos.json](./175885-nosos.json) |
 | NoSpellHero | 341486 | [341486-nospellhero.json](./341486-nospellhero.json) |
 | NostalDoom | 269559 | [269559-nostaldoom.json](./269559-nostaldoom.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
