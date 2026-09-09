@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A House 4 Alesa | 305785 | [305785-a-house-4-alesa.json](./305785-a-house-4-alesa.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
+| A Joke that's Worth $0.99 | 198461 | [198461-a-joke-thats-worth-0-99.json](./198461-a-joke-thats-worth-0-99.json) |
 | A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey to Omega Station | 295245 | [295245-a-journey-to-omega-station.json](./295245-a-journey-to-omega-station.json) |
@@ -1293,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allakin | 217307 | [217307-allakin.json](./217307-allakin.json) |
 | Allan Border's Cricket | 77392 | [77392-allan-borders-cricket.json](./77392-allan-borders-cricket.json) |
 | Allan Poe's Nightmare | 112315 | [112315-allan-poes-nightmare.json](./112315-allan-poes-nightmare.json) |
+| AllBoomGame | 198489 | [198489-allboomgame.json](./198489-allboomgame.json) |
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | Alley Cats | 206108 | [206108-alley-cats.json](./206108-alley-cats.json) |
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
