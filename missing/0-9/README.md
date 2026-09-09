@@ -142,7 +142,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
 | 1954 Alcatraz | 7169 | [7169-1954-alcatraz.json](./7169-1954-alcatraz.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
-| 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
 | 1991 Du Ma Racing | 22428 | [22428-1991-du-ma-racing.json](./22428-1991-du-ma-racing.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
