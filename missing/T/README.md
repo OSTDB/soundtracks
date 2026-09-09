@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 3 Little Princesses | 357253 | [357253-the-3-little-princesses.json](./357253-the-3-little-princesses.json) |
 | The 39 Steps | 10985 | [10985-the-39-steps.json](./10985-the-39-steps.json) |
 | The 3D Gamemaker | 270689 | [270689-the-3d-gamemaker.json](./270689-the-3d-gamemaker.json) |
+| The 3D Machine | 196817 | [196817-the-3d-machine.json](./196817-the-3d-machine.json) |
 | The 3rd Birthday | 7359 | [7359-the-3rd-birthday.json](./7359-the-3rd-birthday.json) |
 | The 4th Unit | 78724 | [78724-the-4th-unit.json](./78724-the-4th-unit.json) |
 | The 4th Unit 2 | 78725 | [78725-the-4th-unit-2.json](./78725-the-4th-unit-2.json) |
@@ -1525,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fiery Descent | 268475 | [268475-the-fiery-descent.json](./268475-the-fiery-descent.json) |
 | The Fifth Paradox | 232710 | [232710-the-fifth-paradox.json](./232710-the-fifth-paradox.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
+| The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
 | The Final Bastion | 238507 | [238507-the-final-bastion.json](./238507-the-final-bastion.json) |
 | The Final Battle: Adventure | 216224 | [216224-the-final-battle-adventure.json](./216224-the-final-battle-adventure.json) |
