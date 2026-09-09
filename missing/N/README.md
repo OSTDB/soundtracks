@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
 | Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
 | Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
+| Nectar of the Gods: The Hive and Spidey Party Bugs Bundle | 171019 | [171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json](./171019-nectar-of-the-gods-the-hive-and-spidey-party-bugs-bundle.json) |
 | Nectar Wars | 260987 | [260987-nectar-wars.json](./260987-nectar-wars.json) |
 | Nectaris | 42030 | [42030-nectaris.json](./42030-nectaris.json) |
 | Nectaris Cellular | 356109 | [356109-nectaris-cellular.json](./356109-nectaris-cellular.json) |
@@ -325,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbor | 144366 | [144366-neighbor.json](./144366-neighbor.json) |
 | Neighbor | 181842 | [181842-neighbor.json](./181842-neighbor.json) |
 | Neighbor Next Door | 309668 | [309668-neighbor-next-door.json](./309668-neighbor-next-door.json) |
+| Neighbor Watching | 171037 | [171037-neighbor-watching.json](./171037-neighbor-watching.json) |
 | Neighborhood Video | 374045 | [374045-neighborhood-video.json](./374045-neighborhood-video.json) |
 | Neighbourhood Cat | 214510 | [214510-neighbourhood-cat.json](./214510-neighbourhood-cat.json) |
 | Neighbourhood Necromancer | 36451 | [36451-neighbourhood-necromancer.json](./36451-neighbourhood-necromancer.json) |
