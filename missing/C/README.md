@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
 | CatMxn: Chapter 1 | 196788 | [196788-catmxn-chapter-1.json](./196788-catmxn-chapter-1.json) |
+| Catnight | 188582 | [188582-catnight.json](./188582-catnight.json) |
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
@@ -2644,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cresteaju | 143094 | [143094-cresteaju.json](./143094-cresteaju.json) |
 | Crevis | 59413 | [59413-crevis.json](./59413-crevis.json) |
 | Crew Crew Blocks | 150162 | [150162-crew-crew-blocks.json](./150162-crew-crew-blocks.json) |
+| Crewmember Pigeon and the Case of the Burgled Buttons | 188593 | [188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json](./188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json) |
 | Crey | 126030 | [126030-crey.json](./126030-crey.json) |
 | Criaturas de la Noche | 272011 | [272011-criaturas-de-la-noche.json](./272011-criaturas-de-la-noche.json) |
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
