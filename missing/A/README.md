@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A different summer | 278426 | [278426-a-different-summer.json](./278426-a-different-summer.json) |
 | A Dino Date | 260401 | [260401-a-dino-date.json](./260401-a-dino-date.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
+| A Distant Stabbing | 190131 | [190131-a-distant-stabbing.json](./190131-a-distant-stabbing.json) |
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
 | A Doodle Fly | 241045 | [241045-a-doodle-fly.json](./241045-a-doodle-fly.json) |
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
@@ -1086,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcazar: The Forgotten Fortress | 12248 | [12248-alcazar-the-forgotten-fortress.json](./12248-alcazar-the-forgotten-fortress.json) |
 | Alchemia | 117032 | [117032-alchemia.json](./117032-alchemia.json) |
 | Alchemic Cutie | 107171 | [107171-alchemic-cutie.json](./107171-alchemic-cutie.json) |
+| Alchemical Inc. | 190141 | [190141-alchemical-inc.json](./190141-alchemical-inc.json) |
 | Alchemist code | 75134 | [75134-alchemist-code.json](./75134-alchemist-code.json) |
 | Alchemist Tris's Desire | 211417 | [211417-alchemist-triss-desire.json](./211417-alchemist-triss-desire.json) |
 | Alchemist's Apprentice | 341889 | [341889-alchemists-apprentice.json](./341889-alchemists-apprentice.json) |
