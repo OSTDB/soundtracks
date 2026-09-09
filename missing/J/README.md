@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy!: 25th Anniversary Edition | 48694 | [48694-jeopardy-25th-anniversary-edition.json](./48694-jeopardy-25th-anniversary-edition.json) |
 | Jeopardy!: Junior Edition | 48709 | [48709-jeopardy-junior-edition.json](./48709-jeopardy-junior-edition.json) |
 | Jequi's Dream | 390007 | [390007-jequis-dream.json](./390007-jequis-dream.json) |
+| Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerma Rancher | 329939 | [329939-jerma-rancher.json](./329939-jerma-rancher.json) |
 | Jerry and the Mystery Loot Box | 83564 | [83564-jerry-and-the-mystery-loot-box.json](./83564-jerry-and-the-mystery-loot-box.json) |
 | Jerry McPartlin: Rebel with a Cause | 286508 | [286508-jerry-mcpartlin-rebel-with-a-cause.json](./286508-jerry-mcpartlin-rebel-with-a-cause.json) |
@@ -360,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joexian's Basics In Bowling And Video Making | 389993 | [389993-joexians-basics-in-bowling-and-video-making.json](./389993-joexians-basics-in-bowling-and-video-making.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
+| John Carter: Warlord of Mars | 172715 | [172715-john-carter-warlord-of-mars.json](./172715-john-carter-warlord-of-mars.json) |
 | John Cena’s Sexy High School Adventure | 250376 | [250376-john-cena-s-sexy-high-school-adventure.json](./250376-john-cena-s-sexy-high-school-adventure.json) |
 | John Christian 2 | 195141 | [195141-john-christian-2.json](./195141-john-christian-2.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
