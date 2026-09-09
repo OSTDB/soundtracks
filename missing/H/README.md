@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
 | Haunted Train: Spirits of Charon | 140033 | [140033-haunted-train-spirits-of-charon.json](./140033-haunted-train-spirits-of-charon.json) |
+| Haunted Vlogs | 209473 | [209473-haunted-vlogs.json](./209473-haunted-vlogs.json) |
 | Haunted Zombie School | 205225 | [205225-haunted-zombie-school.json](./205225-haunted-zombie-school.json) |
 | Haunted Zombie Slaughter | 232986 | [232986-haunted-zombie-slaughter.json](./232986-haunted-zombie-slaughter.json) |
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
