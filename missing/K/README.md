@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
 | Kabaneri of the Iron Fortress: Ran - Hajimaru Michiato | 89983 | [89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json](./89983-kabaneri-of-the-iron-fortress-ran-hajimaru-michiato.json) |
 | Kabedon Kareshi: Manatsu no Charao | 240227 | [240227-kabedon-kareshi-manatsu-no-charao.json](./240227-kabedon-kareshi-manatsu-no-charao.json) |
+| Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
 | Kabuki-chou Reach Mahjong: Toupuusen | 42630 | [42630-kabuki-chou-reach-mahjong-toupuusen.json](./42630-kabuki-chou-reach-mahjong-toupuusen.json) |
 | Kader Mühürleri | 86127 | [86127-kader-muhurleri.json](./86127-kader-muhurleri.json) |
 | Kadomon: Hyper Auto Battlers | 215708 | [215708-kadomon-hyper-auto-battlers.json](./215708-kadomon-hyper-auto-battlers.json) |
@@ -235,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
+| Keep Fe Chicken | 179133 | [179133-keep-fe-chicken.json](./179133-keep-fe-chicken.json) |
 | Keep Flip | 264594 | [264594-keep-flip.json](./264594-keep-flip.json) |
 | Keep Going | 312576 | [312576-keep-going.json](./312576-keep-going.json) |
 | Keep Her Safe | 414300 | [414300-keep-her-safe.json](./414300-keep-her-safe.json) |
@@ -649,12 +651,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittengumi: The Sakabato's Thief | 258467 | [258467-kittengumi-the-sakabatos-thief.json](./258467-kittengumi-the-sakabatos-thief.json) |
 | Kittenrock Cats - A Hidden Object Game | 255973 | [255973-kittenrock-cats-a-hidden-object-game.json](./255973-kittenrock-cats-a-hidden-object-game.json) |
 | Kittenrock Cats - A Hidden Object Game | 287657 | [287657-kittenrock-cats-a-hidden-object-game.json](./287657-kittenrock-cats-a-hidden-object-game.json) |
+| Kittens with Cannons | 179122 | [179122-kittens-with-cannons.json](./179122-kittens-with-cannons.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
 | Kitty Curling | 180770 | [180770-kitty-curling.json](./180770-kitty-curling.json) |
 | Kitty Death Room | 221408 | [221408-kitty-death-room.json](./221408-kitty-death-room.json) |
 | Kitty Farm Island | 409536 | [409536-kitty-farm-island.json](./409536-kitty-farm-island.json) |
 | Kitty in the Box 2 | 231929 | [231929-kitty-in-the-box-2.json](./231929-kitty-in-the-box-2.json) |
 | Kitty in the Crowd | 243970 | [243970-kitty-in-the-crowd.json](./243970-kitty-in-the-crowd.json) |
+| Kitty Kitty Bang Bang | 179146 | [179146-kitty-kitty-bang-bang.json](./179146-kitty-kitty-bang-bang.json) |
 | Kitty Letter | 145044 | [145044-kitty-letter.json](./145044-kitty-letter.json) |
 | Kitty Loves Birds | 346601 | [346601-kitty-loves-birds.json](./346601-kitty-loves-birds.json) |
 | Kitty Powers' Matchmaker Makeover | 388047 | [388047-kitty-powers-matchmaker-makeover.json](./388047-kitty-powers-matchmaker-makeover.json) |
