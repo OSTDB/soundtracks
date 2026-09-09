@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulu: A Tail's Journey | 215354 | [215354-gulu-a-tails-journey.json](./215354-gulu-a-tails-journey.json) |
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
+| Gum Girl | 181847 | [181847-gum-girl.json](./181847-gum-girl.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
