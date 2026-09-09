@@ -1065,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicago Enforcer | 5775 | [5775-chicago-enforcer.json](./5775-chicago-enforcer.json) |
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
 | Chick 'N Sword | 183592 | [183592-chick-n-sword.json](./183592-chick-n-sword.json) |
+| Chick Boy Adventures | 190149 | [190149-chick-boy-adventures.json](./190149-chick-boy-adventures.json) |
 | Chick Chick Boom | 51125 | [51125-chick-chick-boom.json](./51125-chick-chick-boom.json) |
 | Chick City Construction | 174872 | [174872-chick-city-construction.json](./174872-chick-city-construction.json) |
 | Chick Road Rage | 281993 | [281993-chick-road-rage.json](./281993-chick-road-rage.json) |
@@ -2090,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of the Crystal Palace | 48068 | [48068-conquest-of-the-crystal-palace.json](./48068-conquest-of-the-crystal-palace.json) |
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
+| Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
@@ -2843,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | Cryptoforce | 247500 | [247500-cryptoforce.json](./247500-cryptoforce.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
+| Cryptonaut | 190132 | [190132-cryptonaut.json](./190132-cryptonaut.json) |
 | Cryptoria | 406128 | [406128-cryptoria.json](./406128-cryptoria.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
 | Crysis 3 Remastered | 165127 | [165127-crysis-3-remastered.json](./165127-crysis-3-remastered.json) |
