@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T05:21:06.941Z",
-  "total_missing": 49351,
+  "generated_at": "2026-09-09T05:31:11.736Z",
+  "total_missing": 49353,
   "games": [
     {
       "igdb_id": 306086,
@@ -566,11 +566,6 @@
       "igdb_id": 98412,
       "game_name": "14Days",
       "file": "missing/0-9/98412-14days.json"
-    },
-    {
-      "igdb_id": 282592,
-      "game_name": "15 Puzzle",
-      "file": "missing/0-9/282592-15-puzzle.json"
     },
     {
       "igdb_id": 228439,
@@ -61998,6 +61993,11 @@
       "file": "missing/E/238198-e-t-the-extra-terrestrial-venroms-assault.json"
     },
     {
+      "igdb_id": 201274,
+      "game_name": "E.T.: The Extra-Terrestrial - Away from Home",
+      "file": "missing/E/201274-e-t-the-extra-terrestrial-away-from-home.json"
+    },
+    {
       "igdb_id": 49937,
       "game_name": "E.T.: The Extra-Terrestrial - Escape from Planet Earth",
       "file": "missing/E/49937-e-t-the-extra-terrestrial-escape-from-planet-earth.json"
@@ -62006,6 +62006,11 @@
       "igdb_id": 44985,
       "game_name": "E.T.: The Extra-Terrestrial - Interplanetary Mission",
       "file": "missing/E/44985-e-t-the-extra-terrestrial-interplanetary-mission.json"
+    },
+    {
+      "igdb_id": 201275,
+      "game_name": "E.T.: The Extra-Terrestrial - Phone Home Adventure",
+      "file": "missing/E/201275-e-t-the-extra-terrestrial-phone-home-adventure.json"
     },
     {
       "igdb_id": 201277,
@@ -65406,6 +65411,11 @@
       "igdb_id": 19615,
       "game_name": "Epic Dumpster Bear",
       "file": "missing/E/19615-epic-dumpster-bear.json"
+    },
+    {
+      "igdb_id": 201273,
+      "game_name": "Epic Escapes Dark Seas, Mysteries of Ancient Inventors Atlantis, Elementary My Dear Majesty",
+      "file": "missing/E/201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json"
     },
     {
       "igdb_id": 114402,
