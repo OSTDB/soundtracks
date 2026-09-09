@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahtzee! Wild | 355013 | [355013-yahtzee-wild.json](./355013-yahtzee-wild.json) |
 | Yaken Rodem | 333543 | [333543-yaken-rodem.json](./333543-yaken-rodem.json) |
 | Yakimochi Stream | 373023 | [373023-yakimochi-stream.json](./373023-yakimochi-stream.json) |
+| Yakiniku Simulatior | 203886 | [203886-yakiniku-simulatior.json](./203886-yakiniku-simulatior.json) |
 | Yakoh: Shinobi Ops | 389431 | [389431-yakoh-shinobi-ops.json](./389431-yakoh-shinobi-ops.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yakuman | 67330 | [67330-yakuman.json](./67330-yakuman.json) |
@@ -118,10 +119,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokaiware | 186313 | [186313-yokaiware.json](./186313-yokaiware.json) |
 | Yoko Redux: Dreams of a Blue Planet | 191240 | [191240-yoko-redux-dreams-of-a-blue-planet.json](./191240-yoko-redux-dreams-of-a-blue-planet.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
+| Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
 | Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
 | Yomesou de Yomenai Kanji DS | 287632 | [287632-yomesou-de-yomenai-kanji-ds.json](./287632-yomesou-de-yomenai-kanji-ds.json) |
 | Yomi 2: Renegades | 289877 | [289877-yomi-2-renegades.json](./289877-yomi-2-renegades.json) |
+| Yonesawara Hospital | 203887 | [203887-yonesawara-hospital.json](./203887-yonesawara-hospital.json) |
 | Yongbi M | 208061 | [208061-yongbi-m.json](./208061-yongbi-m.json) |
 | Yooca: Next Horizon | 369058 | [369058-yooca-next-horizon.json](./369058-yooca-next-horizon.json) |
 | Yooca: Your Life | 390516 | [390516-yooca-your-life.json](./390516-yooca-your-life.json) |
