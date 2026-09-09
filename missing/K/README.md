@@ -449,9 +449,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
+| Kimi no Tonari de Koishiteru! | 194548 | [194548-kimi-no-tonari-de-koishiteru.json](./194548-kimi-no-tonari-de-koishiteru.json) |
+| Kimi no Tonari de Koishiteru!: The Respective Happiness | 194549 | [194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json](./194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json) |
 | Kimi sae Ireba: Episode Sutelz | 311494 | [311494-kimi-sae-ireba-episode-sutelz.json](./311494-kimi-sae-ireba-episode-sutelz.json) |
+| Kimi to Boku to no Kishi no Hibi: Rakuen no Chevalier | 194583 | [194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json](./194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
 | Kimi to Mezameru Ikutsuka no Houhou | 398997 | [398997-kimi-to-mezameru-ikutsuka-no-houhou.json](./398997-kimi-to-mezameru-ikutsuka-no-houhou.json) |
+| Kimi to Yumemishi | 194582 | [194582-kimi-to-yumemishi.json](./194582-kimi-to-yumemishi.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kin and Conquest | 400228 | [400228-kin-and-conquest.json](./400228-kin-and-conquest.json) |
 | Kinacoustic | 33093 | [33093-kinacoustic.json](./33093-kinacoustic.json) |
@@ -575,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kira-kira Star Night Gold | 206342 | [206342-kira-kira-star-night-gold.json](./206342-kira-kira-star-night-gold.json) |
 | Kira-kira Star Night: Furusato Nouzei Fujimino-ban | 206343 | [206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json](./206343-kira-kira-star-night-furusato-nouzei-fujimino-ban.json) |
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
+| Kirari Nangoku Komugiiro: Shiofuki Paradise he Youkoso! | 194584 | [194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json](./194584-kirari-nangoku-komugiiro-shiofuki-paradise-he-youkoso.json) |
 | Kirarin Revolution: Atsumete Change! Qurukira Coord | 70417 | [70417-kirarin-revolution-atsumete-change-qurukira-coord.json](./70417-kirarin-revolution-atsumete-change-qurukira-coord.json) |
 | Kiratto Kaiketsu! 64 Tanteidan | 3532 | [3532-kiratto-kaiketsu-64-tanteidan.json](./3532-kiratto-kaiketsu-64-tanteidan.json) |
 | Kirby 64: The Crystal Shards | 2713 | [2713-kirby-64-the-crystal-shards.json](./2713-kirby-64-the-crystal-shards.json) |
@@ -597,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
 | Kishin Douji Zenki: Tenchi Meidou | 38360 | [38360-kishin-douji-zenki-tenchi-meidou.json](./38360-kishin-douji-zenki-tenchi-meidou.json) |
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
+| Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
 | Kiss Effect | 235477 | [235477-kiss-effect.json](./235477-kiss-effect.json) |
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
 | Kiss My Camera | 227262 | [227262-kiss-my-camera.json](./227262-kiss-my-camera.json) |
@@ -767,6 +773,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
+| Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
+| Koi wa Sotto Saku Hana no you ni | 194533 | [194533-koi-wa-sotto-saku-hana-no-you-ni.json](./194533-koi-wa-sotto-saku-hana-no-you-ni.json) |
+| Koi wa Sotto Saku Hana no you ni: Futari wa Eien ni Yorisotte Iku | 194534 | [194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json](./194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json) |
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
 | KoiGig: Devil x Angel | 202373 | [202373-koigig-devil-x-angel.json](./202373-koigig-devil-x-angel.json) |
 | Koihana Bakumeiroku | 229034 | [229034-koihana-bakumeiroku.json](./229034-koihana-bakumeiroku.json) |
@@ -808,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea | 324668 | [324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json](./324668-kono-aozora-ni-yakusoku-wo-melody-of-the-sun-and-sea.json) |
 | Kono Aozora ni Yakusoku wo: Refine | 324677 | [324677-kono-aozora-ni-yakusoku-wo-refine.json](./324677-kono-aozora-ni-yakusoku-wo-refine.json) |
 | Kono Aozora ni Yakusoku wo: Te no Hira no Rakuen | 324676 | [324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json](./324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json) |
+| Kono Koi, Seishun ni Yori. | 194585 | [194585-kono-koi-seishun-ni-yori.json](./194585-kono-koi-seishun-ni-yori.json) |
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
