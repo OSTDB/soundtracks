@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
 | Library Game | 337640 | [337640-library-game.json](./337640-library-game.json) |
 | Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
+| Librerama | 176992 | [176992-librerama.json](./176992-librerama.json) |
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
 | Libros de Chilam Balam | 188075 | [188075-libros-de-chilam-balam.json](./188075-libros-de-chilam-balam.json) |
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
@@ -947,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
 | Lisle Engle Heavy Distance | 253918 | [253918-lisle-engle-heavy-distance.json](./253918-lisle-engle-heavy-distance.json) |
+| Lisparuga | 176996 | [176996-lisparuga.json](./176996-lisparuga.json) |
 | Listen, Think, Meow! | 304596 | [304596-listen-think-meow.json](./304596-listen-think-meow.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | LiteracyPlanet: Word Mania | 203372 | [203372-literacyplanet-word-mania.json](./203372-literacyplanet-word-mania.json) |
@@ -1564,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
+| Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
 | Luft Gears | 377060 | [377060-luft-gears.json](./377060-luft-gears.json) |
