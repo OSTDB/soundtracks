@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Riddles | 13701 | [13701-castle-of-riddles.json](./13701-castle-of-riddles.json) |
 | Castle of Shikigami 3 | 331315 | [331315-castle-of-shikigami-3.json](./331315-castle-of-shikigami-3.json) |
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
+| Castle of White Night | 197853 | [197853-castle-of-white-night.json](./197853-castle-of-white-night.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
 | Castle Rush | 185145 | [185145-castle-rush.json](./185145-castle-rush.json) |
 | Castle Rush | 234046 | [234046-castle-rush.json](./234046-castle-rush.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
+| Chaotic: Shadow Warriors | 197894 | [197894-chaotic-shadow-warriors.json](./197894-chaotic-shadow-warriors.json) |
 | Chaotix CD | 332455 | [332455-chaotix-cd.json](./332455-chaotix-cd.json) |
 | Chapas GP | 270383 | [270383-chapas-gp.json](./270383-chapas-gp.json) |
 | Chapatriste | 307622 | [307622-chapatriste.json](./307622-chapatriste.json) |
@@ -1025,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chester Cheetah: Too Cool to Fool | 46255 | [46255-chester-cheetah-too-cool-to-fool.json](./46255-chester-cheetah-too-cool-to-fool.json) |
 | Chester Cheetah: Wild Wild Quest | 46283 | [46283-chester-cheetah-wild-wild-quest.json](./46283-chester-cheetah-wild-wild-quest.json) |
 | Chester One | 35790 | [35790-chester-one.json](./35790-chester-one.json) |
+| Chester's Revenge | 197858 | [197858-chesters-revenge.json](./197858-chesters-revenge.json) |
 | Chestnut Grove | 231368 | [231368-chestnut-grove.json](./231368-chestnut-grove.json) |
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
@@ -2521,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Insane Monster Invaders | 152387 | [152387-crazy-insane-monster-invaders.json](./152387-crazy-insane-monster-invaders.json) |
 | Crazy Jetpack | 205576 | [205576-crazy-jetpack.json](./205576-crazy-jetpack.json) |
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
+| Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
@@ -2832,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystallo | 117037 | [117037-crystallo.json](./117037-crystallo.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Cryste: the Faith of Fire Vol.1 | 28870 | [28870-cryste-the-faith-of-fire-vol-1.json](./28870-cryste-the-faith-of-fire-vol-1.json) |
+| CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
 | CSOL | 258488 | [258488-csol.json](./258488-csol.json) |
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
