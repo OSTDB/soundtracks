@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
+| Doomsday Comet 2 | 175337 | [175337-doomsday-comet-2.json](./175337-doomsday-comet-2.json) |
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
 | Doomsday Dispute | 192386 | [192386-doomsday-dispute.json](./192386-doomsday-dispute.json) |
 | Doomsday of UAC | 252367 | [252367-doomsday-of-uac.json](./252367-doomsday-of-uac.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
+| Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
