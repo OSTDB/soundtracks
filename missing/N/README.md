@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naheulbeuk's Dungeon Master: Steward Edition | 277029 | [277029-naheulbeuks-dungeon-master-steward-edition.json](./277029-naheulbeuks-dungeon-master-steward-edition.json) |
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
 | Naiad | 180277 | [180277-naiad.json](./180277-naiad.json) |
+| Nailed It! Baking Bash | 204457 | [204457-nailed-it-baking-bash.json](./204457-nailed-it-baking-bash.json) |
 | Naima's Melody | 122407 | [122407-naimas-melody.json](./122407-naimas-melody.json) |
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
@@ -791,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niizuma wa Sailor Fuku | 72717 | [72717-niizuma-wa-sailor-fuku.json](./72717-niizuma-wa-sailor-fuku.json) |
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
 | Nijiiro Twinkle: Guru-guru Daisakusen | 378171 | [378171-nijiiro-twinkle-guru-guru-daisakusen.json](./378171-nijiiro-twinkle-guru-guru-daisakusen.json) |
+| Nijuuei | 204499 | [204499-nijuuei.json](./204499-nijuuei.json) |
 | Nik and Kit: Nik's Adventure | 212793 | [212793-nik-and-kit-niks-adventure.json](./212793-nik-and-kit-niks-adventure.json) |
 | Nik Jam Violator | 330715 | [330715-nik-jam-violator.json](./330715-nik-jam-violator.json) |
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
@@ -825,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
 | Ninja Ball | 100192 | [100192-ninja-ball.json](./100192-ninja-ball.json) |
+| Ninja Battle | 204488 | [204488-ninja-battle.json](./204488-ninja-battle.json) |
 | Ninja Battle Heroes | 24564 | [24564-ninja-battle-heroes.json](./24564-ninja-battle-heroes.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
@@ -941,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
 | Nitro Derby | 280786 | [280786-nitro-derby.json](./280786-nitro-derby.json) |
 | Nitro Express | 313096 | [313096-nitro-express.json](./313096-nitro-express.json) |
+| Nitro Kid | 204438 | [204438-nitro-kid.json](./204438-nitro-kid.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
