@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Spa HD | 87725 | [87725-sallys-spa-hd.json](./87725-sallys-spa-hd.json) |
 | Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
+| Salt | 171556 | [171556-salt.json](./171556-salt.json) |
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
 | Salto | 149579 | [149579-salto.json](./149579-salto.json) |
@@ -391,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satori's Atelier 1+2 | 210664 | [210664-satoris-atelier-1-2.json](./210664-satoris-atelier-1-2.json) |
 | Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
 | Saturday Night is the Loneliest Night of the Week II | 230856 | [230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json](./230856-saturday-night-is-the-loneliest-night-of-the-week-ii.json) |
+| Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
@@ -512,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger VR | 277837 | [277837-scavenger-vr.json](./277837-scavenger-vr.json) |
 | Scavland | 339674 | [339674-scavland.json](./339674-scavland.json) |
 | Scelestum | 175922 | [175922-scelestum.json](./175922-scelestum.json) |
+| Scenario 5B | 171558 | [171558-scenario-5b.json](./171558-scenario-5b.json) |
 | Scene It? Comedy Movies | 66154 | [66154-scene-it-comedy-movies.json](./66154-scene-it-comedy-movies.json) |
 | Scene It? Doctor Who | 213945 | [213945-scene-it-doctor-who.json](./213945-scene-it-doctor-who.json) |
 | Scene It? Harry Potter | 66155 | [66155-scene-it-harry-potter.json](./66155-scene-it-harry-potter.json) |
@@ -1067,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Dorm | 349868 | [349868-sex-dorm.json](./349868-sex-dorm.json) |
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
+| Sex Office Story | 171580 | [171580-sex-office-story.json](./171580-sex-office-story.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Shop Simulator | 330188 | [330188-sex-shop-simulator.json](./330188-sex-shop-simulator.json) |
@@ -1276,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin Master Plus | 123062 | [123062-shaolin-master-plus.json](./123062-shaolin-master-plus.json) |
 | Shaolin Sudoku | 180218 | [180218-shaolin-sudoku.json](./180218-shaolin-sudoku.json) |
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
+| Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
 | Shape TD | 186833 | [186833-shape-td.json](./186833-shape-td.json) |
@@ -3348,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Food Truck | 34588 | [34588-space-food-truck.json](./34588-space-food-truck.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
+| Space Fox Kimi: The Battle of Mochi Prime | 171563 | [171563-space-fox-kimi-the-battle-of-mochi-prime.json](./171563-space-fox-kimi-the-battle-of-mochi-prime.json) |
 | Space Fuss | 31387 | [31387-space-fuss.json](./31387-space-fuss.json) |
 | Space Garbage | 277600 | [277600-space-garbage.json](./277600-space-garbage.json) |
 | Space Gate Rush | 259565 | [259565-space-gate-rush.json](./259565-space-gate-rush.json) |
