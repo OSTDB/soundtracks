@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
+| Game with Car | 192895 | [192895-game-with-car.json](./192895-game-with-car.json) |
 | Game with Friends | 299748 | [299748-game-with-friends.json](./299748-game-with-friends.json) |
 | Game-Pac | 319582 | [319582-game-pac.json](./319582-game-pac.json) |
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
