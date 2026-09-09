@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
+| Kingdom of Dinza | 190179 | [190179-kingdom-of-dinza.json](./190179-kingdom-of-dinza.json) |
 | Kingdom of Hamil | 13734 | [13734-kingdom-of-hamil.json](./13734-kingdom-of-hamil.json) |
 | Kingdom of Nyabur: The Shattered Realm | 217501 | [217501-kingdom-of-nyabur-the-shattered-realm.json](./217501-kingdom-of-nyabur-the-shattered-realm.json) |
 | Kingdom Of Peace | 295775 | [295775-kingdom-of-peace.json](./295775-kingdom-of-peace.json) |
