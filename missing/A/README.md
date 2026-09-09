@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
 | Aha! Shashin de Machigai-sagashi | 251626 | [251626-aha-shashin-de-machigai-sagashi.json](./251626-aha-shashin-de-machigai-sagashi.json) |
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
+| Ahegal Seasons | 203381 | [203381-ahegal-seasons.json](./203381-ahegal-seasons.json) |
 | Ahegao Academy | 123609 | [123609-ahegao-academy.json](./123609-ahegao-academy.json) |
 | Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
+| Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | Amy's American Page One | 261277 | [261277-amys-american-page-one.json](./261277-amys-american-page-one.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
