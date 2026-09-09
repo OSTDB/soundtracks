@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
 | Happy Mouse | 241373 | [241373-happy-mouse.json](./241373-happy-mouse.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
+| Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
 | Happy Salvage | 143128 | [143128-happy-salvage.json](./143128-happy-salvage.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Hero of Leaf Valley | 42887 | [42887-harvest-moon-hero-of-leaf-valley.json](./42887-harvest-moon-hero-of-leaf-valley.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
+| Harvest Moon: One World - Collector's Edition | 200691 | [200691-harvest-moon-one-world-collectors-edition.json](./200691-harvest-moon-one-world-collectors-edition.json) |
 | Harvest Moon: One World Bundle | 173798 | [173798-harvest-moon-one-world-bundle.json](./173798-harvest-moon-one-world-bundle.json) |
 | Harvest Moon: Skytree Village | 19393 | [19393-harvest-moon-skytree-village.json](./19393-harvest-moon-skytree-village.json) |
 | Harvest Reaper | 394903 | [394903-harvest-reaper.json](./394903-harvest-reaper.json) |
@@ -1751,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Disappear Completely | 268728 | [268728-how-to-disappear-completely.json](./268728-how-to-disappear-completely.json) |
 | How to Escape a Kidnapper | 367450 | [367450-how-to-escape-a-kidnapper.json](./367450-how-to-escape-a-kidnapper.json) |
 | How to Fly a Cannon | 405537 | [405537-how-to-fly-a-cannon.json](./405537-how-to-fly-a-cannon.json) |
+| How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
