@@ -737,6 +737,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rejuvan | 302966 | [302966-rejuvan.json](./302966-rejuvan.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
 | Reknum | 130401 | [130401-reknum.json](./130401-reknum.json) |
+| Reknum DX | 182475 | [182475-reknum-dx.json](./182475-reknum-dx.json) |
+| Reknum: Origins Collection | 182476 | [182476-reknum-origins-collection.json](./182476-reknum-origins-collection.json) |
+| Reknum: Origins Collection - Limited Edition | 182477 | [182477-reknum-origins-collection-limited-edition.json](./182477-reknum-origins-collection-limited-edition.json) |
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
 | Reksio i Kretes: Tajemnica Trzeciego Wymiaru | 218499 | [218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json](./218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json) |
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
