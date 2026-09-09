@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
 | Talking Ben the Dog | 191877 | [191877-talking-ben-the-dog.json](./191877-talking-ben-the-dog.json) |
 | Talking Ginger 2 | 344922 | [344922-talking-ginger-2.json](./344922-talking-ginger-2.json) |
+| Talking in the Distance | 179159 | [179159-talking-in-the-distance.json](./179159-talking-in-the-distance.json) |
 | Talking Larry the Bird | 344921 | [344921-talking-larry-the-bird.json](./344921-talking-larry-the-bird.json) |
 | Talking Pinball | 346043 | [346043-talking-pinball.json](./346043-talking-pinball.json) |
 | Talking Roby the Robot | 343796 | [343796-talking-roby-the-robot.json](./343796-talking-roby-the-robot.json) |
@@ -649,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
 | Tenchi Muyo! Ryo-Ohki FX | 123079 | [123079-tenchi-muyo-ryo-ohki-fx.json](./123079-tenchi-muyo-ryo-ohki-fx.json) |
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
+| Tender | 179112 | [179112-tender.json](./179112-tender.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
 | Tender Root | 235213 | [235213-tender-root.json](./235213-tender-root.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
@@ -1699,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
+| The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
 | The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
@@ -3065,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
 | The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
+| The Vigilante: Single Shot Justice | 179117 | [179117-the-vigilante-single-shot-justice.json](./179117-the-vigilante-single-shot-justice.json) |
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
 | The Village of Archensheen | 268725 | [268725-the-village-of-archensheen.json](./268725-the-village-of-archensheen.json) |
 | The Villager and the Werewolf | 221154 | [221154-the-villager-and-the-werewolf.json](./221154-the-villager-and-the-werewolf.json) |
@@ -4378,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
+| Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
 | Tower of Dreams | 265705 | [265705-tower-of-dreams.json](./265705-tower-of-dreams.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
@@ -5333,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Portals: A Gemstone Puzzle Game | 247501 | [247501-two-portals-a-gemstone-puzzle-game.json](./247501-two-portals-a-gemstone-puzzle-game.json) |
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
 | Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
+| Two Tamarind Seeds | 179106 | [179106-two-tamarind-seeds.json](./179106-two-tamarind-seeds.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
 | Two Worlds II Castle Defense | 28986 | [28986-two-worlds-ii-castle-defense.json](./28986-two-worlds-ii-castle-defense.json) |
