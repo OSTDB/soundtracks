@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki Monsters: Quest | 378792 | [378792-doki-monsters-quest.json](./378792-doki-monsters-quest.json) |
 | Doki Simp Club | 245885 | [245885-doki-simp-club.json](./245885-doki-simp-club.json) |
+| Doki x Doki Sasete!! | 202815 | [202815-doki-x-doki-sasete.json](./202815-doki-x-doki-sasete.json) |
 | Doki-Doki Pretty League: Nekketsu Otome Seishunki | 306674 | [306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json](./306674-doki-doki-pretty-league-nekketsu-otome-seishunki.json) |
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
@@ -1891,17 +1892,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
+| DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
 | Doom Eternal: The Ancient Gods - Part Two | 144731 | [144731-doom-eternal-the-ancient-gods-part-two.json](./144731-doom-eternal-the-ancient-gods-part-two.json) |
 | Doom Eternal: Year One Pass | 293919 | [293919-doom-eternal-year-one-pass.json](./293919-doom-eternal-year-one-pass.json) |
+| Doom Fighters | 202839 | [202839-doom-fighters.json](./202839-doom-fighters.json) |
 | Doom II + Final Doom | 132823 | [132823-doom-ii-final-doom.json](./132823-doom-ii-final-doom.json) |
+| Doom II: 'D'-Radys Companion Mod | 202834 | [202834-doom-ii-d-radys-companion-mod.json](./202834-doom-ii-d-radys-companion-mod.json) |
+| Doom II: Ascension | 202842 | [202842-doom-ii-ascension.json](./202842-doom-ii-ascension.json) |
+| Doom II: Bimmy's Companions - Cordie and Vivian | 202831 | [202831-doom-ii-bimmys-companions-cordie-and-vivian.json](./202831-doom-ii-bimmys-companions-cordie-and-vivian.json) |
+| Doom II: Companions Pack by NB001 | 202832 | [202832-doom-ii-companions-pack-by-nb001.json](./202832-doom-ii-companions-pack-by-nb001.json) |
+| Doom II: Compendium | 202837 | [202837-doom-ii-compendium.json](./202837-doom-ii-compendium.json) |
+| Doom II: Deltarune Companions - Susie and Ralsei | 202833 | [202833-doom-ii-deltarune-companions-susie-and-ralsei.json](./202833-doom-ii-deltarune-companions-susie-and-ralsei.json) |
 | Doom II: Japanese Community Project | 140048 | [140048-doom-ii-japanese-community-project.json](./140048-doom-ii-japanese-community-project.json) |
+| Doom II: Onna Shinkan Companion | 202835 | [202835-doom-ii-onna-shinkan-companion.json](./202835-doom-ii-onna-shinkan-companion.json) |
+| Doom II: The Sentinel's Lexicon | 202838 | [202838-doom-ii-the-sentinels-lexicon.json](./202838-doom-ii-the-sentinels-lexicon.json) |
 | Doom Raider: Crypt of the Vile | 256817 | [256817-doom-raider-crypt-of-the-vile.json](./256817-doom-raider-crypt-of-the-vile.json) |
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
 | Doom Roller | 303486 | [303486-doom-roller.json](./303486-doom-roller.json) |
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
 | Doom Survivors | 295799 | [295799-doom-survivors.json](./295799-doom-survivors.json) |
+| Doom Tournament | 202843 | [202843-doom-tournament.json](./202843-doom-tournament.json) |
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
@@ -1910,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Detective Game | 336542 | [336542-doomed-detective-game.json](./336542-doomed-detective-game.json) |
 | Doomed Space Wars | 261284 | [261284-doomed-space-wars.json](./261284-doomed-space-wars.json) |
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
+| DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Doomsday Cleaner | 320542 | [320542-doomsday-cleaner.json](./320542-doomsday-cleaner.json) |
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
@@ -2454,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop the Number | 216214 | [216214-drop-the-number.json](./216214-drop-the-number.json) |
+| Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
