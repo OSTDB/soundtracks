@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laballatory | 409584 | [409584-laballatory.json](./409584-laballatory.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
+| Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
 | Labyrinth | 379903 | [379903-labyrinth.json](./379903-labyrinth.json) |
 | Labyrinth | 78506 | [78506-labyrinth.json](./78506-labyrinth.json) |
@@ -1313,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Recipes | 194717 | [194717-lost-recipes.json](./194717-lost-recipes.json) |
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
+| Lost Secrets: November 1963 | 206728 | [206728-lost-secrets-november-1963.json](./206728-lost-secrets-november-1963.json) |
 | Lost Soul | 184128 | [184128-lost-soul.json](./184128-lost-soul.json) |
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
 | Lost Sword | 353867 | [353867-lost-sword.json](./353867-lost-sword.json) |
