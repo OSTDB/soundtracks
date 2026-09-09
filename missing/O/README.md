@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
 | One Button Dungeon | 386734 | [386734-one-button-dungeon.json](./386734-one-button-dungeon.json) |
 | One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
+| One By One | 195714 | [195714-one-by-one.json](./195714-one-by-one.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
 | One Day in London | 32931 | [32931-one-day-in-london.json](./32931-one-day-in-london.json) |
 | One Dimension | 89984 | [89984-one-dimension.json](./89984-one-dimension.json) |
@@ -909,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outhouse | 342063 | [342063-outhouse.json](./342063-outhouse.json) |
 | Outland Odyssey | 214172 | [214172-outland-odyssey.json](./214172-outland-odyssey.json) |
 | Outland Rapture | 169475 | [169475-outland-rapture.json](./169475-outland-rapture.json) |
+| Outlander | 195742 | [195742-outlander.json](./195742-outlander.json) |
 | Outlander: Fantastic Princess | 261798 | [261798-outlander-fantastic-princess.json](./261798-outlander-fantastic-princess.json) |
 | Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
