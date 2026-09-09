@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamin' Cat | 276714 | [276714-dreamin-cat.json](./276714-dreamin-cat.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
+| Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
 | Dreamland | 207308 | [207308-dreamland.json](./207308-dreamland.json) |
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
@@ -2714,7 +2715,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
+| Dungeon Crawler | 191823 | [191823-dungeon-crawler.json](./191823-dungeon-crawler.json) |
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
+| Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
 | Dungeon Defenders II: Heartwarming Bundle | 90701 | [90701-dungeon-defenders-ii-heartwarming-bundle.json](./90701-dungeon-defenders-ii-heartwarming-bundle.json) |
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
@@ -2844,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duterra | 213018 | [213018-duterra.json](./213018-duterra.json) |
 | Duty Calls | 80555 | [80555-duty-calls.json](./80555-duty-calls.json) |
 | DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition) | 408785 | [408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json](./408785-dvd-screensaver-simulator-rebirth-reimagined-definitive-reloaded-special-intergrade-ultimate-hd-legacy-collection-remastered-2027-edition.json) |
+| Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Land | 284905 | [284905-dwarf-land.json](./284905-dwarf-land.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
 | Dwarfs Descent | 350420 | [350420-dwarfs-descent.json](./350420-dwarfs-descent.json) |
