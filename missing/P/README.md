@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode Two | 14917 | [14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json](./14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json) |
+| Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | Pent's Wacky, Zany Road Trip to Adulthood | 412953 | [412953-pents-wacky-zany-road-trip-to-adulthood.json](./412953-pents-wacky-zany-road-trip-to-adulthood.json) |
