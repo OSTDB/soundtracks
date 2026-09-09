@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noah's Dilemma | 291750 | [291750-noahs-dilemma.json](./291750-noahs-dilemma.json) |
 | NoAmmo | 210882 | [210882-noammo.json](./210882-noammo.json) |
 | Nob War: The Elves | 235243 | [235243-nob-war-the-elves.json](./235243-nob-war-the-elves.json) |
+| Noble | 176975 | [176975-noble.json](./176975-noble.json) |
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
