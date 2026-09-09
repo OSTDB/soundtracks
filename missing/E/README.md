@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
 | Early-blooming Black Lily: Moshi Mo-series | 275613 | [275613-early-blooming-black-lily-moshi-mo-series.json](./275613-early-blooming-black-lily-moshi-mo-series.json) |
 | Earn to Die | 80713 | [80713-earn-to-die.json](./80713-earn-to-die.json) |
+| Ears and Burgers | 174295 | [174295-ears-and-burgers.json](./174295-ears-and-burgers.json) |
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
 | Earth 2025 | 92497 | [92497-earth-2025.json](./92497-earth-2025.json) |
 | Earth 2140: Mission Pack 1 | 79919 | [79919-earth-2140-mission-pack-1.json](./79919-earth-2140-mission-pack-1.json) |
@@ -895,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Lizards | 31903 | [31903-escape-lizards.json](./31903-escape-lizards.json) |
 | Escape Mystery-The Dark Fence | 237368 | [237368-escape-mystery-the-dark-fence.json](./237368-escape-mystery-the-dark-fence.json) |
+| Escape Mystery: Alien Impact | 174311 | [174311-escape-mystery-alien-impact.json](./174311-escape-mystery-alien-impact.json) |
 | Escape or Imprison | 227253 | [227253-escape-or-imprison.json](./227253-escape-or-imprison.json) |
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
@@ -1241,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Strategy | 143103 | [143103-exit-strategy.json](./143103-exit-strategy.json) |
 | Exit Terminal | 320180 | [320180-exit-terminal.json](./320180-exit-terminal.json) |
 | Exit Veil | 264054 | [264054-exit-veil.json](./264054-exit-veil.json) |
+| Exit: The Curse of Ophir | 174278 | [174278-exit-the-curse-of-ophir.json](./174278-exit-the-curse-of-ophir.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
