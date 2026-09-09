@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
+| Ore Dake no Idol: eye no Sainou | 194594 | [194594-ore-dake-no-idol-eye-no-sainou.json](./194594-ore-dake-no-idol-eye-no-sainou.json) |
 | Ore ga Watashi ni Kawatta Hi...: Becoming a She | 224208 | [224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json](./224208-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json) |
 | Ore ga Watashi ni Kawatta Hi...: Becoming a She | 227877 | [227877-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json](./227877-ore-ga-watashi-ni-kawatta-hi-becoming-a-she.json) |
 | Ore Market Masters Simulator | 326393 | [326393-ore-market-masters-simulator.json](./326393-ore-market-masters-simulator.json) |
@@ -785,6 +786,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
 | Oshidashi Zintrick | 130369 | [130369-oshidashi-zintrick.json](./130369-oshidashi-zintrick.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
+| Oshirikko Venus | 194580 | [194580-oshirikko-venus.json](./194580-oshirikko-venus.json) |
+| Oshirikko Venus 2 | 194581 | [194581-oshirikko-venus-2.json](./194581-oshirikko-venus-2.json) |
 | Osminog Adventures: The Lost Island | 222909 | [222909-osminog-adventures-the-lost-island.json](./222909-osminog-adventures-the-lost-island.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
@@ -814,8 +817,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Pretty Boys Mahjong Solitaire | 199569 | [199569-otoko-cross-pretty-boys-mahjong-solitaire.json](./199569-otoko-cross-pretty-boys-mahjong-solitaire.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
+| Otome ga Musubu Tsukiyo no Kirameki | 194593 | [194593-otome-ga-musubu-tsukiyo-no-kirameki.json](./194593-otome-ga-musubu-tsukiyo-no-kirameki.json) |
 | Otona no Gal Jan Kimi ni Hane Man | 248628 | [248628-otona-no-gal-jan-kimi-ni-hane-man.json](./248628-otona-no-gal-jan-kimi-ni-hane-man.json) |
 | Otona no Joushikiryoku Training DS | 68029 | [68029-otona-no-joushikiryoku-training-ds.json](./68029-otona-no-joushikiryoku-training-ds.json) |
+| Otonari Koi Sensou! | 194547 | [194547-otonari-koi-sensou.json](./194547-otonari-koi-sensou.json) |
 | Otosan | 241366 | [241366-otosan.json](./241366-otosan.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
 | Otsuge Uranai nan desu | 69268 | [69268-otsuge-uranai-nan-desu.json](./69268-otsuge-uranai-nan-desu.json) |
