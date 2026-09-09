@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
 | Genemon | 178546 | [178546-genemon.json](./178546-genemon.json) |
 | General Coco | 122392 | [122392-general-coco.json](./122392-general-coco.json) |
+| General Room | 176979 | [176979-general-room.json](./176979-general-room.json) |
 | General Staff: Black Powder | 249226 | [249226-general-staff-black-powder.json](./249226-general-staff-black-powder.json) |
 | Generality | 205068 | [205068-generality.json](./205068-generality.json) |
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
+| Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
@@ -1475,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
+| Grim Repair | 176986 | [176986-grim-repair.json](./176986-grim-repair.json) |
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
 | Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
@@ -1799,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | Gunwatch: Conflict Survival | 232459 | [232459-gunwatch-conflict-survival.json](./232459-gunwatch-conflict-survival.json) |
 | GunWorld VR | 159853 | [159853-gunworld-vr.json](./159853-gunworld-vr.json) |
+| Gunwyrm | 176980 | [176980-gunwyrm.json](./176980-gunwyrm.json) |
 | GunZ: The Duel | 80594 | [80594-gunz-the-duel.json](./80594-gunz-the-duel.json) |
 | Guójì Xiàngqí: Dānshuāngrén Duìzhàn Qípái Xiǎoyóuxì | 109011 | [109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json](./109011-guoji-xiangqi-danshuangren-duizhan-qipai-xiaoyouxi.json) |
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
