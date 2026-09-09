@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spineworld | 209494 | [209494-spineworld.json](./209494-spineworld.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
+| SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
 | Spinwave Survivors | 388002 | [388002-spinwave-survivors.json](./388002-spinwave-survivors.json) |
@@ -3993,10 +3994,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Hunters - Frosty Nerf Herder Cosmetic Pack | 328991 | [328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json](./328991-star-wars-hunters-frosty-nerf-herder-cosmetic-pack.json) |
 | Star Wars: Hunters - Season 4: Survival Instinct | 347673 | [347673-star-wars-hunters-season-4-survival-instinct.json](./347673-star-wars-hunters-season-4-survival-instinct.json) |
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
+| Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Puzzle Droids | 97355 | [97355-star-wars-puzzle-droids.json](./97355-star-wars-puzzle-droids.json) |
 | Star Wars: Rebel Assault | 161 | [161-star-wars-rebel-assault.json](./161-star-wars-rebel-assault.json) |
 | Star Wars: Rebel Assault II - The Hidden Empire | 300715 | [300715-star-wars-rebel-assault-ii-the-hidden-empire.json](./300715-star-wars-rebel-assault-ii-the-hidden-empire.json) |
+| Star Wars: Rebel Forces | 199016 | [199016-star-wars-rebel-forces.json](./199016-star-wars-rebel-forces.json) |
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
@@ -4810,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
+| Summer's Gone: Season 1 | 199053 | [199053-summers-gone-season-1.json](./199053-summers-gone-season-1.json) |
 | Summerhouse | 261688 | [261688-summerhouse.json](./261688-summerhouse.json) |
 | Summit | 163453 | [163453-summit.json](./163453-summit.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
@@ -5111,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Royal Legacy - Definitive Edition | 314021 | [314021-super-mario-64-royal-legacy-definitive-edition.json](./314021-super-mario-64-royal-legacy-definitive-edition.json) |
 | Super Mario 64: Star Revenge | 132839 | [132839-super-mario-64-star-revenge.json](./132839-super-mario-64-star-revenge.json) |
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
+| Super Mario 64: Through the Ages | 199070 | [199070-super-mario-64-through-the-ages.json](./199070-super-mario-64-through-the-ages.json) |
 | Super Mario 74 | 132842 | [132842-super-mario-74.json](./132842-super-mario-74.json) |
 | Super Mario 74: Extreme Edition | 132843 | [132843-super-mario-74-extreme-edition.json](./132843-super-mario-74-extreme-edition.json) |
 | Super Mario Advance 4: Card e+ - 1UP Kinoko ga 3UP Moon ni Kawaru | 296051 | [296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json](./296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json) |
@@ -5175,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey: Fluffy Bluff Kingdom | 345487 | [345487-super-mario-odyssey-fluffy-bluff-kingdom.json](./345487-super-mario-odyssey-fluffy-bluff-kingdom.json) |
 | Super Mario Outbreak | 198557 | [198557-super-mario-outbreak.json](./198557-super-mario-outbreak.json) |
 | Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
+| Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
 | Super Mario Star World | 185685 | [185685-super-mario-star-world.json](./185685-super-mario-star-world.json) |
@@ -5218,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Fear | 255370 | [255370-super-metroid-fear.json](./255370-super-metroid-fear.json) |
 | Super Metroid: GBA Edition | 222919 | [222919-super-metroid-gba-edition.json](./222919-super-metroid-gba-edition.json) |
 | Super Metroid: Opposition | 255372 | [255372-super-metroid-opposition.json](./255372-super-metroid-opposition.json) |
+| Super Metroid: Rotation | 199009 | [199009-super-metroid-rotation.json](./199009-super-metroid-rotation.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
 | Super MineSweeper | 309683 | [309683-super-minesweeper.json](./309683-super-minesweeper.json) |
