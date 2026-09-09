@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T15:51:07.455Z",
-  "total_missing": 50987,
+  "generated_at": "2026-09-09T16:01:17.971Z",
+  "total_missing": 50989,
   "games": [
     {
       "igdb_id": 306086,
@@ -901,11 +901,6 @@
       "igdb_id": 190740,
       "game_name": "2048 Royal Cards",
       "file": "missing/0-9/190740-2048-royal-cards.json"
-    },
-    {
-      "igdb_id": 292516,
-      "game_name": "2048: Dungeons",
-      "file": "missing/0-9/292516-2048-dungeons.json"
     },
     {
       "igdb_id": 342678,
@@ -175678,6 +175673,11 @@
       "file": "missing/R/211731-rob-and-run.json"
     },
     {
+      "igdb_id": 183029,
+      "game_name": "Rob'n Run",
+      "file": "missing/R/183029-robn-run.json"
+    },
+    {
       "igdb_id": 254535,
       "game_name": "Robber",
       "file": "missing/R/254535-robber.json"
@@ -196796,6 +196796,11 @@
       "igdb_id": 375821,
       "game_name": "Speakeasy Simulator",
       "file": "missing/S/375821-speakeasy-simulator.json"
+    },
+    {
+      "igdb_id": 183030,
+      "game_name": "Spear of Despair",
+      "file": "missing/S/183030-spear-of-despair.json"
     },
     {
       "igdb_id": 306981,
@@ -243326,6 +243331,11 @@
       "igdb_id": 194591,
       "game_name": "Walkure Romanze: Shoujo Kishi Monogatari",
       "file": "missing/W/194591-walkure-romanze-shoujo-kishi-monogatari.json"
+    },
+    {
+      "igdb_id": 183028,
+      "game_name": "Wall Clip",
+      "file": "missing/W/183028-wall-clip.json"
     },
     {
       "igdb_id": 312917,
