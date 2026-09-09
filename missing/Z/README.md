@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero World | 211216 | [211216-zero-world.json](./211216-zero-world.json) |
 | Zero Zero | 130361 | [130361-zero-zero.json](./130361-zero-zero.json) |
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
+| Zeroentity | 193942 | [193942-zeroentity.json](./193942-zeroentity.json) |
 | Zeromiss | 327210 | [327210-zeromiss.json](./327210-zeromiss.json) |
 | Zerone 2D | 161899 | [161899-zerone-2d.json](./161899-zerone-2d.json) |
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
