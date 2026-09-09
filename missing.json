@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T01:48:24.074Z",
-  "total_missing": 48798,
+  "generated_at": "2026-09-09T01:51:01.257Z",
+  "total_missing": 48797,
   "games": [
     {
       "igdb_id": 306086,
@@ -451,11 +451,6 @@
       "igdb_id": 308273,
       "game_name": "1024 Cement Mixer",
       "file": "missing/0-9/308273-1024-cement-mixer.json"
-    },
-    {
-      "igdb_id": 326083,
-      "game_name": "108 Silly Ways to Die",
-      "file": "missing/0-9/326083-108-silly-ways-to-die.json"
     },
     {
       "igdb_id": 195765,
