@@ -167,7 +167,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
-| 20 Floors | 405472 | [405472-20-floors.json](./405472-20-floors.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 More, Somehow Even Smaller, Mazes | 393460 | [393460-20-more-somehow-even-smaller-mazes.json](./393460-20-more-somehow-even-smaller-mazes.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
