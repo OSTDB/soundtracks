@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
+| Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
 | Scarlet Republics | 156693 | [156693-scarlet-republics.json](./156693-scarlet-republics.json) |
 | Scarlet Sand Sojourn | 266202 | [266202-scarlet-sand-sojourn.json](./266202-scarlet-sand-sojourn.json) |
 | Scarlet Skips | 398972 | [398972-scarlet-skips.json](./398972-scarlet-skips.json) |
@@ -692,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Salt City | 404240 | [404240-sea-salt-city.json](./404240-sea-salt-city.json) |
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
+| Sea Warfare: Glorious | 188024 | [188024-sea-warfare-glorious.json](./188024-sea-warfare-glorious.json) |
 | Sea Wolf Arcade | 130940 | [130940-sea-wolf-arcade.json](./130940-sea-wolf-arcade.json) |
 | Sea Wolf: Tactics | 149586 | [149586-sea-wolf-tactics.json](./149586-sea-wolf-tactics.json) |
 | Sea-Doo Hydrocross | 264853 | [264853-sea-doo-hydrocross.json](./264853-sea-doo-hydrocross.json) |
@@ -2162,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Stream | 306339 | [306339-sleep-stream.json](./306339-sleep-stream.json) |
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleepi Boi Can't Sleep | 206723 | [206723-sleepi-boi-cant-sleep.json](./206723-sleepi-boi-cant-sleep.json) |
+| Sleepin' Guy: Deluxe Edition | 188043 | [188043-sleepin-guy-deluxe-edition.json](./188043-sleepin-guy-deluxe-edition.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
 | Sleeping Flowers: Thread Curse | 233490 | [233490-sleeping-flowers-thread-curse.json](./233490-sleeping-flowers-thread-curse.json) |
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
@@ -4930,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
+| Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
 | Summer In Memoria | 196784 | [196784-summer-in-memoria.json](./196784-summer-in-memoria.json) |
 | Summer Lesson: Chisato Shinjo - Shichiyou no Etude | 219030 | [219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json](./219030-summer-lesson-chisato-shinjo-shichiyou-no-etude.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
@@ -5500,6 +5504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
+| Super Strong Hero | 188005 | [188005-super-strong-hero.json](./188005-super-strong-hero.json) |
 | Super Stunt Spectacular | 208350 | [208350-super-stunt-spectacular.json](./208350-super-stunt-spectacular.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
@@ -5700,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
 | Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
+| Surviving the Aftermath: Ultimate Colony Edition | 188054 | [188054-surviving-the-aftermath-ultimate-colony-edition.json](./188054-surviving-the-aftermath-ultimate-colony-edition.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
 | Surviving with a Bat | 277824 | [277824-surviving-with-a-bat.json](./277824-surviving-with-a-bat.json) |
 | Survivor Cells | 199590 | [199590-survivor-cells.json](./199590-survivor-cells.json) |
@@ -5850,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwooshMania | 347723 | [347723-swooshmania.json](./347723-swooshmania.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
 | Sword & Seek | 309847 | [309847-sword-and-seek.json](./309847-sword-and-seek.json) |
+| Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
