@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorne | 235754 | [235754-lorne.json](./235754-lorne.json) |
 | Los Angeles 1985 | 358306 | [358306-los-angeles-1985.json](./358306-los-angeles-1985.json) |
 | Los Pilarcitos | 398368 | [398368-los-pilarcitos.json](./398368-los-pilarcitos.json) |
+| Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
