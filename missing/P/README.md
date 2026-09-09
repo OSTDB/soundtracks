@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Indiana Jones - The Pinball Adventure | 193394 | [193394-pinball-fx3-indiana-jones-the-pinball-adventure.json](./193394-pinball-fx3-indiana-jones-the-pinball-adventure.json) |
 | Pinball HD | 88282 | [88282-pinball-hd.json](./88282-pinball-hd.json) |
 | Pinball Heroes: Wipeout HD Fury | 52655 | [52655-pinball-heroes-wipeout-hd-fury.json](./52655-pinball-heroes-wipeout-hd-fury.json) |
+| Pinball Jam | 187479 | [187479-pinball-jam.json](./187479-pinball-jam.json) |
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
 | Pinball M: Bethesda Pinball | 386717 | [386717-pinball-m-bethesda-pinball.json](./386717-pinball-m-bethesda-pinball.json) |
 | Pinball M: Duke Nukem's Big Shot Pinball | 276743 | [276743-pinball-m-duke-nukems-big-shot-pinball.json](./276743-pinball-m-duke-nukems-big-shot-pinball.json) |
@@ -2132,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Sands of Time | 213051 | [213051-prince-of-persia-the-sands-of-time.json](./213051-prince-of-persia-the-sands-of-time.json) |
 | Prince of Persia: The Sands of Time HD | 99585 | [99585-prince-of-persia-the-sands-of-time-hd.json](./99585-prince-of-persia-the-sands-of-time-hd.json) |
 | Prince of Persia: Warrior Within HD | 99586 | [99586-prince-of-persia-warrior-within-hd.json](./99586-prince-of-persia-warrior-within-hd.json) |
+| Princess | 187431 | [187431-princess.json](./187431-princess.json) |
 | Princess & Conquest | 128008 | [128008-princess-and-conquest.json](./128008-princess-and-conquest.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
@@ -2319,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
+| Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
 | Project Cars: Digital Edition | 218478 | [218478-project-cars-digital-edition.json](./218478-project-cars-digital-edition.json) |
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
