@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Soccer | 242569 | [242569-deadly-soccer.json](./242569-deadly-soccer.json) |
 | Deadly Survival | 277022 | [277022-deadly-survival.json](./277022-deadly-survival.json) |
 | Deadly Tecknology | 188655 | [188655-deadly-tecknology.json](./188655-deadly-tecknology.json) |
+| Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
 | Deadpool | 1919 | [1919-deadpool.json](./1919-deadpool.json) |
 | Deadrock Salvation | 382752 | [382752-deadrock-salvation.json](./382752-deadrock-salvation.json) |
@@ -901,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Killer | 349847 | [349847-demon-killer.json](./349847-demon-killer.json) |
 | Demon Kingdom | 303470 | [303470-demon-kingdom.json](./303470-demon-kingdom.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
+| Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
 | Demon RPG | 299451 | [299451-demon-rpg.json](./299451-demon-rpg.json) |
 | Demon Seed | 218135 | [218135-demon-seed.json](./218135-demon-seed.json) |
@@ -911,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Survival | 226756 | [226756-demon-survival.json](./226756-demon-survival.json) |
 | Demon Sword | 48065 | [48065-demon-sword.json](./48065-demon-sword.json) |
 | Demon Turf | 134564 | [134564-demon-turf.json](./134564-demon-turf.json) |
+| Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
@@ -1096,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
+| Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
 | Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
@@ -1349,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
+| Dinkigolf | 197846 | [197846-dinkigolf.json](./197846-dinkigolf.json) |
 | Dinkum | 120322 | [120322-dinkum.json](./120322-dinkum.json) |
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
