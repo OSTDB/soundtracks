@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
 | Call to Arms: Gates of Hell - Liberation | 261780 | [261780-call-to-arms-gates-of-hell-liberation.json](./261780-call-to-arms-gates-of-hell-liberation.json) |
 | Call to Arms: Gates of Hell - Ostfront | 211196 | [211196-call-to-arms-gates-of-hell-ostfront.json](./211196-call-to-arms-gates-of-hell-ostfront.json) |
+| Call to Arms: Gates of Hell - Talvisota | 203893 | [203893-call-to-arms-gates-of-hell-talvisota.json](./203893-call-to-arms-gates-of-hell-talvisota.json) |
 | Call to Arms: Panzer Elite | 353292 | [353292-call-to-arms-panzer-elite.json](./353292-call-to-arms-panzer-elite.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
@@ -293,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Cops | 247218 | [247218-car-cops.json](./247218-car-cops.json) |
 | Car Crash Couch Party | 83586 | [83586-car-crash-couch-party.json](./83586-car-crash-couch-party.json) |
+| Car Destroyer | 203888 | [203888-car-destroyer.json](./203888-car-destroyer.json) |
 | Car Detailing Cleaner Simulator | 288761 | [288761-car-detailing-cleaner-simulator.json](./288761-car-detailing-cleaner-simulator.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
@@ -883,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
+| Chaos War | 203933 | [203933-chaos-war.json](./203933-chaos-war.json) |
 | Chaos Warrior | 415933 | [415933-chaos-warrior.json](./415933-chaos-warrior.json) |
 | Chaos Wars | 21051 | [21051-chaos-wars.json](./21051-chaos-wars.json) |
 | Chaos World | 7904 | [7904-chaos-world.json](./7904-chaos-world.json) |
@@ -911,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm Studies | 243409 | [243409-charm-studies.json](./243409-charm-studies.json) |
 | Charm Studies | 400215 | [400215-charm-studies.json](./400215-charm-studies.json) |
+| Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
@@ -989,10 +993,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
+| Chess Pills | 203931 | [203931-chess-pills.json](./203931-chess-pills.json) |
 | Chess Puzzles: 100 by Emma | 163412 | [163412-chess-puzzles-100-by-emma.json](./163412-chess-puzzles-100-by-emma.json) |
 | Chess Puzzles: 100 by Liam | 163414 | [163414-chess-puzzles-100-by-liam.json](./163414-chess-puzzles-100-by-liam.json) |
 | Chess Puzzles: 100 by Tyrone | 163413 | [163413-chess-puzzles-100-by-tyrone.json](./163413-chess-puzzles-100-by-tyrone.json) |
 | Chess Remix | 259293 | [259293-chess-remix.json](./259293-chess-remix.json) |
+| Chess vs. Chat | 203930 | [203930-chess-vs-chat.json](./203930-chess-vs-chat.json) |
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
 | Chess: Secrets of the Grandmasters | 206967 | [206967-chess-secrets-of-the-grandmasters.json](./206967-chess-secrets-of-the-grandmasters.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
@@ -1234,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
+| Chronescher | 203929 | [203929-chronescher.json](./203929-chronescher.json) |
 | Chronical | 276695 | [276695-chronical.json](./276695-chronical.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
 | Chronicles IV: Ebonheim | 358852 | [358852-chronicles-iv-ebonheim.json](./358852-chronicles-iv-ebonheim.json) |
@@ -1387,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Corals | 257970 | [257970-city-of-corals.json](./257970-city-of-corals.json) |
 | City of Dusk | 246951 | [246951-city-of-dusk.json](./246951-city-of-dusk.json) |
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
+| City of Gangsters: Shadow Government | 203928 | [203928-city-of-gangsters-shadow-government.json](./203928-city-of-gangsters-shadow-government.json) |
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
@@ -1504,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
+| Click Lovers | 203927 | [203927-click-lovers.json](./203927-click-lovers.json) |
 | Click on their Heads | 158189 | [158189-click-on-their-heads.json](./158189-click-on-their-heads.json) |
 | Click Painter | 309852 | [309852-click-painter.json](./309852-click-painter.json) |
 | Click the Ball! | 365716 | [365716-click-the-ball.json](./365716-click-the-ball.json) |
