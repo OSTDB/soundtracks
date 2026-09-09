@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T20:51:03.462Z",
-  "total_missing": 51772,
+  "generated_at": "2026-09-09T21:01:05.392Z",
+  "total_missing": 51774,
   "games": [
     {
       "igdb_id": 306086,
@@ -1061,11 +1061,6 @@
       "igdb_id": 15579,
       "game_name": "3-D Tank Zone",
       "file": "missing/0-9/15579-3-d-tank-zone.json"
-    },
-    {
-      "igdb_id": 9116,
-      "game_name": "3-D Ultra Radio Control Racers",
-      "file": "missing/0-9/9116-3-d-ultra-radio-control-racers.json"
     },
     {
       "igdb_id": 399632,
@@ -21888,6 +21883,11 @@
       "file": "missing/B/34371-battlefleet-gothic-leviathan.json"
     },
     {
+      "igdb_id": 174853,
+      "game_name": "Battleground's Survivor: Battle Royale",
+      "file": "missing/B/174853-battlegrounds-survivor-battle-royale.json"
+    },
+    {
       "igdb_id": 403592,
       "game_name": "Battlegrounds",
       "file": "missing/B/403592-battlegrounds.json"
@@ -30201,6 +30201,11 @@
       "igdb_id": 110344,
       "game_name": "Braveland Heroes",
       "file": "missing/B/110344-braveland-heroes.json"
+    },
+    {
+      "igdb_id": 174855,
+      "game_name": "Bravely Default: Brilliant Lights",
+      "file": "missing/B/174855-bravely-default-brilliant-lights.json"
     },
     {
       "igdb_id": 25739,
@@ -174756,6 +174761,11 @@
       "igdb_id": 237633,
       "game_name": "Redline Royale",
       "file": "missing/R/237633-redline-royale.json"
+    },
+    {
+      "igdb_id": 174854,
+      "game_name": "Redline: Drift",
+      "file": "missing/R/174854-redline-drift.json"
     },
     {
       "igdb_id": 255755,
