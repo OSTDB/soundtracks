@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
+| Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
 | Dream Seed | 257069 | [257069-dream-seed.json](./257069-dream-seed.json) |
 | Dream Shopper | 39629 | [39629-dream-shopper.json](./39629-dream-shopper.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
