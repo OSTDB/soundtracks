@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Rampage: Origins | 378798 | [378798-emoji-rampage-origins.json](./378798-emoji-rampage-origins.json) |
 | Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
 | Emoji-Connect | 291989 | [291989-emoji-connect.json](./291989-emoji-connect.json) |
+| Emorrior | 197876 | [197876-emorrior.json](./197876-emorrior.json) |
 | Emote Guesser | 252732 | [252732-emote-guesser.json](./252732-emote-guesser.json) |
 | EmoteGuesser | 232687 | [232687-emoteguesser.json](./232687-emoteguesser.json) |
 | Emperium | 155661 | [155661-emperium.json](./155661-emperium.json) |
@@ -1133,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
 | Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
+| Evony: The King's Return | 197880 | [197880-evony-the-kings-return.json](./197880-evony-the-kings-return.json) |
 | Evoplasm | 309859 | [309859-evoplasm.json](./309859-evoplasm.json) |
 | Evorevo | 236839 | [236839-evorevo.json](./236839-evorevo.json) |
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
