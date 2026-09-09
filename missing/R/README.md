@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
 | Record of Lodoss War | 81386 | [81386-record-of-lodoss-war.json](./81386-record-of-lodoss-war.json) |
 | Record of Lodoss War II | 66140 | [66140-record-of-lodoss-war-ii.json](./66140-record-of-lodoss-war-ii.json) |
+| Record Scratch Fever | 183528 | [183528-record-scratch-fever.json](./183528-record-scratch-fever.json) |
 | Record Store Nightmare | 68660 | [68660-record-store-nightmare.json](./68660-record-store-nightmare.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
 | Recreational Dreaming | 83574 | [83574-recreational-dreaming.json](./83574-recreational-dreaming.json) |
@@ -1778,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Guns Days: Season 1 | 326598 | [326598-rose-guns-days-season-1.json](./326598-rose-guns-days-season-1.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
+| Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
