@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T04:18:21.767Z",
-  "total_missing": 49204,
+  "generated_at": "2026-09-09T04:21:03.933Z",
+  "total_missing": 49203,
   "games": [
     {
       "igdb_id": 306086,
@@ -526,11 +526,6 @@
       "igdb_id": 98419,
       "game_name": "12nin no Onna Kyoushi Re-Innovation -In-",
       "file": "missing/0-9/98419-12nin-no-onna-kyoushi-re-innovation-in.json"
-    },
-    {
-      "igdb_id": 228091,
-      "game_name": "13 Candles",
-      "file": "missing/0-9/228091-13-candles.json"
     },
     {
       "igdb_id": 98416,
