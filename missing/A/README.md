@@ -2094,8 +2094,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Horse Racing | 206137 | [206137-arcade-horse-racing.json](./206137-arcade-horse-racing.json) |
 | Arcade Legends 3D | 206138 | [206138-arcade-legends-3d.json](./206138-arcade-legends-3d.json) |
 | Arcade Machine: Clown Hunt | 232991 | [232991-arcade-machine-clown-hunt.json](./232991-arcade-machine-clown-hunt.json) |
+| Arcade Master | 202866 | [202866-arcade-master.json](./202866-arcade-master.json) |
 | Arcade Master | 206139 | [206139-arcade-master.json](./206139-arcade-master.json) |
+| Arcade Master Deluxe | 202867 | [202867-arcade-master-deluxe.json](./202867-arcade-master-deluxe.json) |
 | Arcade Motion Classic | 230835 | [230835-arcade-motion-classic.json](./230835-arcade-motion-classic.json) |
+| Arcade Nano Sonic | 202868 | [202868-arcade-nano-sonic.json](./202868-arcade-nano-sonic.json) |
+| Arcade Nano Virtua Fighter 2 | 202869 | [202869-arcade-nano-virtua-fighter-2.json](./202869-arcade-nano-virtua-fighter-2.json) |
 | Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
 | Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
