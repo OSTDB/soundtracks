@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firelight Fantasy: Force Energy | 147483 | [147483-firelight-fantasy-force-energy.json](./147483-firelight-fantasy-force-energy.json) |
 | Firelight Fantasy: Vengeance | 153982 | [153982-firelight-fantasy-vengeance.json](./153982-firelight-fantasy-vengeance.json) |
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
+| Firemakaf | 178606 | [178606-firemakaf.json](./178606-firemakaf.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
@@ -1759,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox-Trot Over Run | 130970 | [130970-fox-trot-over-run.json](./130970-fox-trot-over-run.json) |
 | Fox's Peter Pan & The Pirates: The Revenge of Captain Hook | 72710 | [72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json](./72710-foxs-peter-pan-and-the-pirates-the-revenge-of-captain-hook.json) |
 | Foxcrate | 383928 | [383928-foxcrate.json](./383928-foxcrate.json) |
+| Foxes and Cows | 178608 | [178608-foxes-and-cows.json](./178608-foxes-and-cows.json) |
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
@@ -1849,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Fall | 267940 | [267940-free-fall.json](./267940-free-fall.json) |
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
+| Free Hugs Inc. | 178566 | [178566-free-hugs-inc.json](./178566-free-hugs-inc.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
 | Free Solitaire: Cats | 340251 | [340251-free-solitaire-cats.json](./340251-free-solitaire-cats.json) |
