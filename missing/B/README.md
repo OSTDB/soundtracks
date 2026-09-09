@@ -1566,11 +1566,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaloon Blalympia | 187505 | [187505-blaloon-blalympia.json](./187505-blaloon-blalympia.json) |
 | Blamdown Udder Fury | 33063 | [33063-blamdown-udder-fury.json](./33063-blamdown-udder-fury.json) |
 | Blanc | 206812 | [206812-blanc.json](./206812-blanc.json) |
+| Blanche | 184566 | [184566-blanche.json](./184566-blanche.json) |
 | Blanco: The Color of Adventure | 23960 | [23960-blanco-the-color-of-adventure.json](./23960-blanco-the-color-of-adventure.json) |
 | Blandia Plus | 41409 | [41409-blandia-plus.json](./41409-blandia-plus.json) |
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | Blank Relish | 292016 | [292016-blank-relish.json](./292016-blank-relish.json) |
 | Blanket Fort | 355539 | [355539-blanket-fort.json](./355539-blanket-fort.json) |
+| Blankspace | 184580 | [184580-blankspace.json](./184580-blankspace.json) |
 | Blanksword | 338720 | [338720-blanksword.json](./338720-blanksword.json) |
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
@@ -1853,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
+| Blowback | 184611 | [184611-blowback.json](./184611-blowback.json) |
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
 | Blox | 18322 | [18322-blox.json](./18322-blox.json) |
@@ -1994,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
 | Boltcraft | 203914 | [203914-boltcraft.json](./203914-boltcraft.json) |
+| Bolty | 184579 | [184579-bolty.json](./184579-bolty.json) |
 | Bomb Around | 332397 | [332397-bomb-around.json](./332397-bomb-around.json) |
 | Bomb Bomb Bomb | 248900 | [248900-bomb-bomb-bomb.json](./248900-bomb-bomb-bomb.json) |
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
@@ -2135,6 +2139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: Commander Lilith and the Fight for Sanctuary | 119267 | [119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json](./119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
+| Borderline Project: Beta-2 | 184577 | [184577-borderline-project-beta-2.json](./184577-borderline-project-beta-2.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
@@ -2544,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
+| Brittle Blue | 184591 | [184591-brittle-blue.json](./184591-brittle-blue.json) |
 | Brittle Buildings | 180841 | [180841-brittle-buildings.json](./180841-brittle-buildings.json) |
 | Brix and Trix | 237955 | [237955-brix-and-trix.json](./237955-brix-and-trix.json) |
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
