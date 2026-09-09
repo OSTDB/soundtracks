@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Mushrooms | 192375 | [192375-search-all-mushrooms.json](./192375-search-all-mushrooms.json) |
 | Search All: Runes | 192378 | [192378-search-all-runes.json](./192378-search-all-runes.json) |
 | Search All: Spiders | 192376 | [192376-search-all-spiders.json](./192376-search-all-spiders.json) |
+| Search All: Sushi | 187440 | [187440-search-all-sushi.json](./187440-search-all-sushi.json) |
 | Search All: UFO | 249800 | [249800-search-all-ufo.json](./249800-search-all-ufo.json) |
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
@@ -1933,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisters of Sweetwater | 225091 | [225091-sisters-of-sweetwater.json](./225091-sisters-of-sweetwater.json) |
 | Sisyphus | 340369 | [340369-sisyphus.json](./340369-sisyphus.json) |
 | Sisyphus Is a Bug | 372456 | [372456-sisyphus-is-a-bug.json](./372456-sisyphus-is-a-bug.json) |
+| Sit-Ups Workout | 187466 | [187466-sit-ups-workout.json](./187466-sit-ups-workout.json) |
 | Site Z-374 | 308271 | [308271-site-z-374.json](./308271-site-z-374.json) |
 | Sitnalta | 268762 | [268762-sitnalta.json](./268762-sitnalta.json) |
 | Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
@@ -3350,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Spartans | 5700 | [5700-space-spartans.json](./5700-space-spartans.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
+| Space Stella: The Unknown Planet | 187468 | [187468-space-stella-the-unknown-planet.json](./187468-space-stella-the-unknown-planet.json) |
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
@@ -3983,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Darlings | 360009 | [360009-star-darlings.json](./360009-star-darlings.json) |
 | Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
+| Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
@@ -5828,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Home Run | 234056 | [234056-swing-home-run.json](./234056-swing-home-run.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
 | Swing of the Valkyries | 391597 | [391597-swing-of-the-valkyries.json](./391597-swing-of-the-valkyries.json) |
+| Swing Saga | 187465 | [187465-swing-saga.json](./187465-swing-saga.json) |
 | Swing Solver | 277293 | [277293-swing-solver.json](./277293-swing-solver.json) |
 | Swing Striker | 133471 | [133471-swing-striker.json](./133471-swing-striker.json) |
 | Swing the Universe | 191814 | [191814-swing-the-universe.json](./191814-swing-the-universe.json) |
