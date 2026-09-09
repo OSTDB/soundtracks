@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T15:04:11.109Z",
-  "total_missing": 50890,
+  "generated_at": "2026-09-09T15:11:08.115Z",
+  "total_missing": 50889,
   "games": [
     {
       "igdb_id": 306086,
@@ -876,11 +876,6 @@
       "igdb_id": 312586,
       "game_name": "2048",
       "file": "missing/0-9/312586-2048.json"
-    },
-    {
-      "igdb_id": 281417,
-      "game_name": "2048 10x10",
-      "file": "missing/0-9/281417-2048-10x10.json"
     },
     {
       "igdb_id": 382186,
