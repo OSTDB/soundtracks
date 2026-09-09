@@ -119,7 +119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
 | 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
-| 15 Puzzle | 282592 | [282592-15-puzzle.json](./282592-15-puzzle.json) |
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
 | 150,000 B.C. | 102404 | [102404-150-000-b-c.json](./102404-150-000-b-c.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
