@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
 | Septic | 324321 | [324321-septic.json](./324321-septic.json) |
+| Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
@@ -1227,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
+| Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
@@ -2311,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Trainer | 282541 | [282541-snail-trainer.json](./282541-snail-trainer.json) |
 | Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
+| SnailQuest | 207306 | [207306-snailquest.json](./207306-snailquest.json) |
 | Snails | 299126 | [299126-snails.json](./299126-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
@@ -2665,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something's in the Air Redux | 255102 | [255102-somethings-in-the-air-redux.json](./255102-somethings-in-the-air-redux.json) |
 | Something's Not Right | 298047 | [298047-somethings-not-right.json](./298047-somethings-not-right.json) |
 | Something's Out There | 235739 | [235739-somethings-out-there.json](./235739-somethings-out-there.json) |
+| Something's Wrong With Sunny Day Jack | 207314 | [207314-somethings-wrong-with-sunny-day-jack.json](./207314-somethings-wrong-with-sunny-day-jack.json) |
 | Sometimes: Success Requires Sacrifice | 35712 | [35712-sometimes-success-requires-sacrifice.json](./35712-sometimes-success-requires-sacrifice.json) |
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
 | Somewhere in Space... | 178644 | [178644-somewhere-in-space.json](./178644-somewhere-in-space.json) |
@@ -3005,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
 | Soul Sader | 285982 | [285982-soul-sader.json](./285982-soul-sader.json) |
+| Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
@@ -3179,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space M+A+X | 37157 | [37157-space-m-a-x.json](./37157-space-m-a-x.json) |
 | Space Mages | 381644 | [381644-space-mages.json](./381644-space-mages.json) |
 | Space Mages: Dimension 33 | 153417 | [153417-space-mages-dimension-33.json](./153417-space-mages-dimension-33.json) |
+| Space Major Miner | 207324 | [207324-space-major-miner.json](./207324-space-major-miner.json) |
 | Space Marauder | 49968 | [49968-space-marauder.json](./49968-space-marauder.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Marshals Collection | 327207 | [327207-space-marshals-collection.json](./327207-space-marshals-collection.json) |
@@ -3412,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 2: Gold Edition | 27859 | [27859-spellforce-2-gold-edition.json](./27859-spellforce-2-gold-edition.json) |
 | SpellForce: Heroes & Magic | 118373 | [118373-spellforce-heroes-and-magic.json](./118373-spellforce-heroes-and-magic.json) |
 | SpellForce: Universe | 78728 | [78728-spellforce-universe.json](./78728-spellforce-universe.json) |
+| Spellic | 207345 | [207345-spellic.json](./207345-spellic.json) |
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
