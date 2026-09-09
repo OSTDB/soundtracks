@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Things First | 60006 | [60006-first-things-first.json](./60006-first-things-first.json) |
 | First Time in Hawaii | 236002 | [236002-first-time-in-hawaii.json](./236002-first-time-in-hawaii.json) |
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
+| First Time in Rome | 207323 | [207323-first-time-in-rome.json](./207323-first-time-in-rome.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
 | Fish | 309869 | [309869-fish.json](./309869-fish.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fur Squadron Phoenix | 275562 | [275562-fur-squadron-phoenix.json](./275562-fur-squadron-phoenix.json) |
 | Fura-fura Puzzrumia! | 204670 | [204670-fura-fura-puzzrumia.json](./204670-fura-fura-puzzrumia.json) |
 | Furball Farm | 324317 | [324317-furball-farm.json](./324317-furball-farm.json) |
+| FurBalls Racing | 207299 | [207299-furballs-racing.json](./207299-furballs-racing.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
