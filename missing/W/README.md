@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
+| Walking Simulator | 188052 | [188052-walking-simulator.json](./188052-walking-simulator.json) |
 | Walkover | 35787 | [35787-walkover.json](./35787-walkover.json) |
 | Walkure Romanze More & More | 194624 | [194624-walkure-romanze-more-and-more.json](./194624-walkure-romanze-more-and-more.json) |
 | Walkure Romanze Re:tell | 194625 | [194625-walkure-romanze-re-tell.json](./194625-walkure-romanze-re-tell.json) |
@@ -294,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarpBall | 34482 | [34482-warpball.json](./34482-warpball.json) |
+| Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
 | Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
