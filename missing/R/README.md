@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
+| Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
 | Rushing Punch | 270675 | [270675-rushing-punch.json](./270675-rushing-punch.json) |
 | RushLane | 243679 | [243679-rushlane.json](./243679-rushlane.json) |
 | Rushmith | 331877 | [331877-rushmith.json](./331877-rushmith.json) |
