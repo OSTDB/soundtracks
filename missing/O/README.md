@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omni Blade | 312023 | [312023-omni-blade.json](./312023-omni-blade.json) |
 | Omni Kitty | 391070 | [391070-omni-kitty.json](./391070-omni-kitty.json) |
 | Omni Magic! | 221736 | [221736-omni-magic.json](./221736-omni-magic.json) |
+| Omnichess | 207303 | [207303-omnichess.json](./207303-omnichess.json) |
 | Omnicube | 99598 | [99598-omnicube.json](./99598-omnicube.json) |
 | Omniswarm | 183056 | [183056-omniswarm.json](./183056-omniswarm.json) |
 | OmniSword | 82155 | [82155-omnisword.json](./82155-omnisword.json) |
@@ -936,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
 | Outward 2 | 291446 | [291446-outward-2.json](./291446-outward-2.json) |
 | Outwars | 57676 | [57676-outwars.json](./57676-outwars.json) |
+| OutWave | 207341 | [207341-outwave.json](./207341-outwave.json) |
 | Outwitters | 167852 | [167852-outwitters.json](./167852-outwitters.json) |
 | Outworld | 287102 | [287102-outworld.json](./287102-outworld.json) |
 | Outworld Battlegrounds | 111037 | [111037-outworld-battlegrounds.json](./111037-outworld-battlegrounds.json) |
