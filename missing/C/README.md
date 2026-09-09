@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle in the Sands | 404818 | [404818-castle-in-the-sands.json](./404818-castle-in-the-sands.json) |
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
+| Castle of Alchemists | 191808 | [191808-castle-of-alchemists.json](./191808-castle-of-alchemists.json) |
 | Castle of Asleep | 315503 | [315503-castle-of-asleep.json](./315503-castle-of-asleep.json) |
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
 | Castle of Cards | 200129 | [200129-castle-of-cards.json](./200129-castle-of-cards.json) |
@@ -571,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Cafe: Dessert Panic | 241991 | [241991-cat-cafe-dessert-panic.json](./241991-cat-cafe-dessert-panic.json) |
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
+| Cat Detective Albert Wilde | 191800 | [191800-cat-detective-albert-wilde.json](./191800-cat-detective-albert-wilde.json) |
 | Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
@@ -2424,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Raid Tactics | 247749 | [247749-crab-raid-tactics.json](./247749-crab-raid-tactics.json) |
 | Crab-Ball | 370111 | [370111-crab-ball.json](./370111-crab-ball.json) |
 | CrabbleUp | 295018 | [295018-crabbleup.json](./295018-crabbleup.json) |
+| Crabby Beach | 191830 | [191830-crabby-beach.json](./191830-crabby-beach.json) |
 | Crabity | 301807 | [301807-crabity.json](./301807-crabity.json) |
 | Crablike | 342058 | [342058-crablike.json](./342058-crablike.json) |
 | CrabMania | 267665 | [267665-crabmania.json](./267665-crabmania.json) |
