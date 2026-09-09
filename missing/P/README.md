@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
+| Paper Bride 2: Zangling Village | 200630 | [200630-paper-bride-2-zangling-village.json](./200630-paper-bride-2-zangling-village.json) |
 | Paper Bride 4: Bound Love | 236258 | [236258-paper-bride-4-bound-love.json](./236258-paper-bride-4-bound-love.json) |
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
@@ -789,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
 | PewDiePie: Legend of the Brofist | 15182 | [15182-pewdiepie-legend-of-the-brofist.json](./15182-pewdiepie-legend-of-the-brofist.json) |
+| PewDiePie's Paradise Island | 200637 | [200637-pewdiepies-paradise-island.json](./200637-pewdiepies-paradise-island.json) |
 | PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
 | Pewt 'em Up! | 203561 | [203561-pewt-em-up.json](./203561-pewt-em-up.json) |
 | PGA Championship Golf 2000: Titanium Edition | 70960 | [70960-pga-championship-golf-2000-titanium-edition.json](./70960-pga-championship-golf-2000-titanium-edition.json) |
@@ -2269,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
+| Project Anomaly: Urban Supernatural Investigator | 200700 | [200700-project-anomaly-urban-supernatural-investigator.json](./200700-project-anomaly-urban-supernatural-investigator.json) |
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project Atlas | 387321 | [387321-project-atlas.json](./387321-project-atlas.json) |
 | Project B-Fer | 257651 | [257651-project-b-fer.json](./257651-project-b-fer.json) |
