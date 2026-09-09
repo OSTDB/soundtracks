@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al Unser Jr.'s Turbo Racing | 8809 | [8809-al-unser-jr-s-turbo-racing.json](./8809-al-unser-jr-s-turbo-racing.json) |
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
+| Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
@@ -2143,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Racer Evolution | 237380 | [237380-arcade-racer-evolution.json](./237380-arcade-racer-evolution.json) |
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
+| Arcade Squad | 195154 | [195154-arcade-squad.json](./195154-arcade-squad.json) |
 | Arcade Video Games Quiz | 241355 | [241355-arcade-video-games-quiz.json](./241355-arcade-video-games-quiz.json) |
 | Arcade's Greatest Hits: The Atari Collection 2 | 43925 | [43925-arcades-greatest-hits-the-atari-collection-2.json](./43925-arcades-greatest-hits-the-atari-collection-2.json) |
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
