@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T07:41:08.033Z",
-  "total_missing": 49612,
+  "generated_at": "2026-09-09T07:48:30.897Z",
+  "total_missing": 49662,
   "games": [
     {
       "igdb_id": 306086,
@@ -2996,6 +2996,11 @@
       "igdb_id": 198561,
       "game_name": "A Housewife's Healing Touch",
       "file": "missing/A/198561-a-housewifes-healing-touch.json"
+    },
+    {
+      "igdb_id": 198461,
+      "game_name": "A Joke that's Worth $0.99",
+      "file": "missing/A/198461-a-joke-thats-worth-0-99.json"
     },
     {
       "igdb_id": 299469,
@@ -8931,6 +8936,11 @@
       "igdb_id": 112315,
       "game_name": "Allan Poe's Nightmare",
       "file": "missing/A/112315-allan-poes-nightmare.json"
+    },
+    {
+      "igdb_id": 198489,
+      "game_name": "AllBoomGame",
+      "file": "missing/A/198489-allboomgame.json"
     },
     {
       "igdb_id": 339094,
@@ -37148,6 +37158,11 @@
       "file": "missing/C/399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json"
     },
     {
+      "igdb_id": 198466,
+      "game_name": "Cherry Kisses",
+      "file": "missing/C/198466-cherry-kisses.json"
+    },
+    {
       "igdb_id": 33094,
       "game_name": "Cherry Tree High Girls' Fight",
       "file": "missing/C/33094-cherry-tree-high-girls-fight.json"
@@ -50133,6 +50148,11 @@
       "file": "missing/D/294689-days-with-ollie.json"
     },
     {
+      "igdb_id": 198465,
+      "game_name": "Dayshift at Freddy's",
+      "file": "missing/D/198465-dayshift-at-freddys.json"
+    },
+    {
       "igdb_id": 60027,
       "game_name": "DC Comics Legends",
       "file": "missing/D/60027-dc-comics-legends.json"
@@ -57613,6 +57633,11 @@
       "file": "missing/D/4544-doom-troopers-mutant-chronicles.json"
     },
     {
+      "igdb_id": 198487,
+      "game_name": "Doom Ultimate Enhanced",
+      "file": "missing/D/198487-doom-ultimate-enhanced.json"
+    },
+    {
       "igdb_id": 25571,
       "game_name": "Doom: Hell Followed",
       "file": "missing/D/25571-doom-hell-followed.json"
@@ -64008,6 +64033,11 @@
       "file": "missing/E/192420-elemental-angel-ii.json"
     },
     {
+      "igdb_id": 198492,
+      "game_name": "Elemental Angel III",
+      "file": "missing/E/198492-elemental-angel-iii.json"
+    },
+    {
       "igdb_id": 297816,
       "game_name": "Elemental Empire",
       "file": "missing/E/297816-elemental-empire.json"
@@ -65771,6 +65801,11 @@
       "igdb_id": 52020,
       "game_name": "Epic Prose: Special Edition",
       "file": "missing/E/52020-epic-prose-special-edition.json"
+    },
+    {
+      "igdb_id": 198460,
+      "game_name": "Epic Racers",
+      "file": "missing/E/198460-epic-racers.json"
     },
     {
       "igdb_id": 255133,
@@ -77933,6 +77968,11 @@
       "file": "missing/F/226421-friday-night-funkin-vs-nekomata-okayu.json"
     },
     {
+      "igdb_id": 198491,
+      "game_name": "Friday Night Funkin': vs. Reggie the Rat",
+      "file": "missing/F/198491-friday-night-funkin-vs-reggie-the-rat.json"
+    },
+    {
       "igdb_id": 202416,
       "game_name": "Friday Night Funkin': VS. Starlight Glimmer & Trixie",
       "file": "missing/F/202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json"
@@ -79688,6 +79728,16 @@
       "file": "missing/F/335292-future-vibe-check.json"
     },
     {
+      "igdb_id": 198444,
+      "game_name": "Future Vox Imaginarium Dot Exe",
+      "file": "missing/F/198444-future-vox-imaginarium-dot-exe.json"
+    },
+    {
+      "igdb_id": 198445,
+      "game_name": "Future Vox Imaginarium Dot Exe V1.1: Doge Lover Edition",
+      "file": "missing/F/198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json"
+    },
+    {
       "igdb_id": 78061,
       "game_name": "Future War: Reborn",
       "file": "missing/F/78061-future-war-reborn.json"
@@ -80051,6 +80101,11 @@
       "igdb_id": 81439,
       "game_name": "Galactic Attack",
       "file": "missing/G/81439-galactic-attack.json"
+    },
+    {
+      "igdb_id": 198447,
+      "game_name": "Galactic Bar Fight VR",
+      "file": "missing/G/198447-galactic-bar-fight-vr.json"
     },
     {
       "igdb_id": 265931,
@@ -82823,6 +82878,11 @@
       "file": "missing/G/24684-giant-machines-2017.json"
     },
     {
+      "igdb_id": 198472,
+      "game_name": "Giant Mario Bros.",
+      "file": "missing/G/198472-giant-mario-bros.json"
+    },
+    {
       "igdb_id": 208973,
       "game_name": "Giant Rabbit Run",
       "file": "missing/G/208973-giant-rabbit-run.json"
@@ -82896,6 +82956,11 @@
       "igdb_id": 202365,
       "game_name": "Gifts from Arthur",
       "file": "missing/G/202365-gifts-from-arthur.json"
+    },
+    {
+      "igdb_id": 198449,
+      "game_name": "Gig Life",
+      "file": "missing/G/198449-gig-life.json"
     },
     {
       "igdb_id": 404835,
@@ -86868,6 +86933,11 @@
       "file": "missing/G/278135-grimdoria.json"
     },
     {
+      "igdb_id": 198452,
+      "game_name": "Grime House",
+      "file": "missing/G/198452-grime-house.json"
+    },
+    {
       "igdb_id": 252363,
       "game_name": "Grime: Tinge of Terror",
       "file": "missing/G/252363-grime-tinge-of-terror.json"
@@ -88211,6 +88281,11 @@
       "igdb_id": 304906,
       "game_name": "Guns & Bots",
       "file": "missing/G/304906-guns-and-bots.json"
+    },
+    {
+      "igdb_id": 198476,
+      "game_name": "Guns 30",
+      "file": "missing/G/198476-guns-30.json"
     },
     {
       "igdb_id": 117728,
@@ -98878,6 +98953,16 @@
       "file": "missing/I/195222-i-human-machine.json"
     },
     {
+      "igdb_id": 198455,
+      "game_name": "I Hurt Myself",
+      "file": "missing/I/198455-i-hurt-myself.json"
+    },
+    {
+      "igdb_id": 198456,
+      "game_name": "I Hurt Myself: Postjam Edition",
+      "file": "missing/I/198456-i-hurt-myself-postjam-edition.json"
+    },
+    {
       "igdb_id": 244472,
       "game_name": "I Know This Place..?",
       "file": "missing/I/244472-i-know-this-place.json"
@@ -106578,6 +106663,11 @@
       "file": "missing/J/314286-journey-to-the-centre-of-nirn.json"
     },
     {
+      "igdb_id": 198467,
+      "game_name": "Journey to the West: A Super Mario Bros. ROM Hack",
+      "file": "missing/J/198467-journey-to-the-west-a-super-mario-bros-rom-hack.json"
+    },
+    {
       "igdb_id": 309650,
       "game_name": "Journey to the West: Dark Invasion",
       "file": "missing/J/309650-journey-to-the-west-dark-invasion.json"
@@ -107301,6 +107391,11 @@
       "igdb_id": 284901,
       "game_name": "Jupiter Melon",
       "file": "missing/J/284901-jupiter-melon.json"
+    },
+    {
+      "igdb_id": 198481,
+      "game_name": "Jupitron Game Collection Vol. 4: Middleware",
+      "file": "missing/J/198481-jupitron-game-collection-vol-4-middleware.json"
     },
     {
       "igdb_id": 186301,
@@ -114853,6 +114948,11 @@
       "file": "missing/L/70381-legenne.json"
     },
     {
+      "igdb_id": 198482,
+      "game_name": "Leggite Luta Livre",
+      "file": "missing/L/198482-leggite-luta-livre.json"
+    },
+    {
       "igdb_id": 238755,
       "game_name": "Legion of Judgment: Fallen Angel",
       "file": "missing/L/238755-legion-of-judgment-fallen-angel.json"
@@ -119963,6 +120063,11 @@
       "file": "missing/L/377060-luft-gears.json"
     },
     {
+      "igdb_id": 198463,
+      "game_name": "Lug's Delightful Dioramas",
+      "file": "missing/L/198463-lugs-delightful-dioramas.json"
+    },
+    {
       "igdb_id": 87201,
       "game_name": "Luge Crush 2018",
       "file": "missing/L/87201-luge-crush-2018.json"
@@ -120271,6 +120376,11 @@
       "igdb_id": 291250,
       "game_name": "Lunarball",
       "file": "missing/L/291250-lunarball.json"
+    },
+    {
+      "igdb_id": 198483,
+      "game_name": "Lunarrota",
+      "file": "missing/L/198483-lunarrota.json"
     },
     {
       "igdb_id": 217321,
@@ -120851,6 +120961,11 @@
       "igdb_id": 256285,
       "game_name": "Mad Way",
       "file": "missing/M/256285-mad-way.json"
+    },
+    {
+      "igdb_id": 198484,
+      "game_name": "Madball",
+      "file": "missing/M/198484-madball.json"
     },
     {
       "igdb_id": 243011,
@@ -121871,6 +121986,11 @@
       "igdb_id": 123591,
       "game_name": "Magus in Mystic Geometries.",
       "file": "missing/M/123591-magus-in-mystic-geometries.json"
+    },
+    {
+      "igdb_id": 198443,
+      "game_name": "Magyarock VR",
+      "file": "missing/M/198443-magyarock-vr.json"
     },
     {
       "igdb_id": 86699,
@@ -123298,6 +123418,11 @@
       "file": "missing/M/139452-mario-forever-galaxy.json"
     },
     {
+      "igdb_id": 198464,
+      "game_name": "Mario Forever: SMW Edition",
+      "file": "missing/M/198464-mario-forever-smw-edition.json"
+    },
+    {
       "igdb_id": 272818,
       "game_name": "Mario Gives Up",
       "file": "missing/M/272818-mario-gives-up.json"
@@ -123406,6 +123531,11 @@
       "igdb_id": 202370,
       "game_name": "Mario Kart RiiBalanced",
       "file": "missing/M/202370-mario-kart-riibalanced.json"
+    },
+    {
+      "igdb_id": 198448,
+      "game_name": "Mario Kart SX",
+      "file": "missing/M/198448-mario-kart-sx.json"
     },
     {
       "igdb_id": 361133,
@@ -123778,6 +123908,11 @@
       "file": "missing/M/220855-mario-vs-donkey-kong-card-e.json"
     },
     {
+      "igdb_id": 198475,
+      "game_name": "Mario vs. Wario",
+      "file": "missing/M/198475-mario-vs-wario.json"
+    },
+    {
       "igdb_id": 324111,
       "game_name": "Mario: The Dark World",
       "file": "missing/M/324111-mario-the-dark-world.json"
@@ -123821,6 +123956,11 @@
       "igdb_id": 323747,
       "game_name": "Mario's House of STHU",
       "file": "missing/M/323747-marios-house-of-sthu.json"
+    },
+    {
+      "igdb_id": 198473,
+      "game_name": "Mario's Keep Co-op",
+      "file": "missing/M/198473-marios-keep-co-op.json"
     },
     {
       "igdb_id": 324092,
@@ -127681,6 +127821,11 @@
       "igdb_id": 400866,
       "game_name": "Mesudoku",
       "file": "missing/M/400866-mesudoku.json"
+    },
+    {
+      "igdb_id": 198485,
+      "game_name": "Meta Form",
+      "file": "missing/M/198485-meta-form.json"
     },
     {
       "igdb_id": 39689,
@@ -189193,6 +189338,11 @@
       "file": "missing/S/261272-sonic-hopping-2.json"
     },
     {
+      "igdb_id": 198468,
+      "game_name": "Sonic in Super Mario Bros.",
+      "file": "missing/S/198468-sonic-in-super-mario-bros.json"
+    },
+    {
       "igdb_id": 266512,
       "game_name": "Sonic In The Timeline Of Madness",
       "file": "missing/S/266512-sonic-in-the-timeline-of-madness.json"
@@ -189988,6 +190138,11 @@
       "file": "missing/S/315283-sons-of-the-dream-forest.json"
     },
     {
+      "igdb_id": 198500,
+      "game_name": "Soot",
+      "file": "missing/S/198500-soot.json"
+    },
+    {
       "igdb_id": 231085,
       "game_name": "Soot",
       "file": "missing/S/231085-soot.json"
@@ -190631,6 +190786,11 @@
       "igdb_id": 137082,
       "game_name": "Soushuu Senshinkan Gakuen Bansenjin",
       "file": "missing/S/137082-soushuu-senshinkan-gakuen-bansenjin.json"
+    },
+    {
+      "igdb_id": 198486,
+      "game_name": "South Park",
+      "file": "missing/S/198486-south-park.json"
     },
     {
       "igdb_id": 1260,
@@ -192416,6 +192576,11 @@
       "igdb_id": 215714,
       "game_name": "Spellmasons",
       "file": "missing/S/215714-spellmasons.json"
+    },
+    {
+      "igdb_id": 198494,
+      "game_name": "Spells & Secrets",
+      "file": "missing/S/198494-spells-and-secrets.json"
     },
     {
       "igdb_id": 243700,
@@ -200433,6 +200598,11 @@
       "file": "missing/S/140603-super-lone-survivor.json"
     },
     {
+      "igdb_id": 198471,
+      "game_name": "Super Luigi Bros.",
+      "file": "missing/S/198471-super-luigi-bros.json"
+    },
+    {
       "igdb_id": 314278,
       "game_name": "Super Luigi Trick or Treat",
       "file": "missing/S/314278-super-luigi-trick-or-treat.json"
@@ -200883,6 +201053,16 @@
       "file": "missing/S/313107-super-mario-journey-to-infinity.json"
     },
     {
+      "igdb_id": 198451,
+      "game_name": "Super Mario Kart 8",
+      "file": "missing/S/198451-super-mario-kart-8.json"
+    },
+    {
+      "igdb_id": 198450,
+      "game_name": "Super Mario Kart DS",
+      "file": "missing/S/198450-super-mario-kart-ds.json"
+    },
+    {
       "igdb_id": 250038,
       "game_name": "Super Mario Kart NES",
       "file": "missing/S/250038-super-mario-kart-nes.json"
@@ -200891,6 +201071,26 @@
       "igdb_id": 311285,
       "game_name": "Super Mario Kart Xtreme",
       "file": "missing/S/311285-super-mario-kart-xtreme.json"
+    },
+    {
+      "igdb_id": 198457,
+      "game_name": "Super Mario Kart: 64 Reverse Remake",
+      "file": "missing/S/198457-super-mario-kart-64-reverse-remake.json"
+    },
+    {
+      "igdb_id": 198453,
+      "game_name": "Super Mario Kart: Double Dash Reverse Remake",
+      "file": "missing/S/198453-super-mario-kart-double-dash-reverse-remake.json"
+    },
+    {
+      "igdb_id": 198446,
+      "game_name": "Super Mario Kart: F1 Tracks",
+      "file": "missing/S/198446-super-mario-kart-f1-tracks.json"
+    },
+    {
+      "igdb_id": 198458,
+      "game_name": "Super Mario Kart: Super Circuit Demake",
+      "file": "missing/S/198458-super-mario-kart-super-circuit-demake.json"
     },
     {
       "igdb_id": 323751,
@@ -201341,6 +201541,11 @@
       "igdb_id": 37802,
       "game_name": "Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen",
       "file": "missing/S/37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json"
+    },
+    {
+      "igdb_id": 198462,
+      "game_name": "Super NicoNico Kart",
+      "file": "missing/S/198462-super-niconico-kart.json"
     },
     {
       "igdb_id": 87695,
@@ -204171,6 +204376,11 @@
       "igdb_id": 172198,
       "game_name": "Synthwave Hop",
       "file": "missing/S/172198-synthwave-hop.json"
+    },
+    {
+      "igdb_id": 198474,
+      "game_name": "Syobon Action NES Edition",
+      "file": "missing/S/198474-syobon-action-nes-edition.json"
     },
     {
       "igdb_id": 296383,
@@ -209333,6 +209543,11 @@
       "file": "missing/T/302134-the-beast-of-the-rosewood.json"
     },
     {
+      "igdb_id": 198501,
+      "game_name": "The Beatles: Adventures in Pepperland",
+      "file": "missing/T/198501-the-beatles-adventures-in-pepperland.json"
+    },
+    {
       "igdb_id": 378786,
       "game_name": "The Bee Hive",
       "file": "missing/T/378786-the-bee-hive.json"
@@ -210496,6 +210711,11 @@
       "igdb_id": 411592,
       "game_name": "The Crossroads",
       "file": "missing/T/411592-the-crossroads.json"
+    },
+    {
+      "igdb_id": 198497,
+      "game_name": "The Crown of Wu",
+      "file": "missing/T/198497-the-crown-of-wu.json"
     },
     {
       "igdb_id": 326985,
@@ -220228,6 +220448,11 @@
       "file": "missing/T/253572-this-grand-life-2.json"
     },
     {
+      "igdb_id": 198488,
+      "game_name": "This is a game",
+      "file": "missing/T/198488-this-is-a-game.json"
+    },
+    {
       "igdb_id": 226419,
       "game_name": "This is a Refuge",
       "file": "missing/T/226419-this-is-a-refuge.json"
@@ -222188,6 +222413,11 @@
       "file": "missing/T/197960-time-is-solid-here.json"
     },
     {
+      "igdb_id": 198459,
+      "game_name": "Time Keeper",
+      "file": "missing/T/198459-time-keeper.json"
+    },
+    {
       "igdb_id": 8939,
       "game_name": "Time Killers",
       "file": "missing/T/8939-time-killers.json"
@@ -223031,6 +223261,11 @@
       "igdb_id": 317222,
       "game_name": "To:ri",
       "file": "missing/T/317222-to-ri.json"
+    },
+    {
+      "igdb_id": 198470,
+      "game_name": "Toad in SMB1",
+      "file": "missing/T/198470-toad-in-smb1.json"
     },
     {
       "igdb_id": 139482,
@@ -237423,6 +237658,11 @@
       "file": "missing/W/223707-warframe-angels-of-the-zariman-emergence-pack.json"
     },
     {
+      "igdb_id": 198495,
+      "game_name": "Warframe: Chains of Harrow",
+      "file": "missing/W/198495-warframe-chains-of-harrow.json"
+    },
+    {
       "igdb_id": 294148,
       "game_name": "Warframe: Dante Chronicles Pack",
       "file": "missing/W/294148-warframe-dante-chronicles-pack.json"
@@ -237446,6 +237686,16 @@
       "igdb_id": 353309,
       "game_name": "Warframe: Starter Weapon Pack",
       "file": "missing/W/353309-warframe-starter-weapon-pack.json"
+    },
+    {
+      "igdb_id": 198496,
+      "game_name": "Warframe: The Jovian Concord",
+      "file": "missing/W/198496-warframe-the-jovian-concord.json"
+    },
+    {
+      "igdb_id": 198498,
+      "game_name": "Warframe: The Old Blood",
+      "file": "missing/W/198498-warframe-the-old-blood.json"
     },
     {
       "igdb_id": 263491,
