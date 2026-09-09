@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
+| Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
 | Mana Land | 369063 | [369063-mana-land.json](./369063-mana-land.json) |
@@ -1970,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
+| Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
 | Mini Racer Car Shop Simulator | 326386 | [326386-mini-racer-car-shop-simulator.json](./326386-mini-racer-car-shop-simulator.json) |
 | Mini Racing: Mini Cars Curling | 233755 | [233755-mini-racing-mini-cars-curling.json](./233755-mini-racing-mini-cars-curling.json) |
@@ -2661,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstone Island: Arcane Artifacts | 301852 | [301852-moonstone-island-arcane-artifacts.json](./301852-moonstone-island-arcane-artifacts.json) |
 | Moonstone Island: Designed for Lovers DLC Pack | 293412 | [293412-moonstone-island-designed-for-lovers-dlc-pack.json](./293412-moonstone-island-designed-for-lovers-dlc-pack.json) |
 | Moonstrider | 34562 | [34562-moonstrider.json](./34562-moonstrider.json) |
+| Moonstuck | 195152 | [195152-moonstuck.json](./195152-moonstuck.json) |
 | Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
 | Moontrain | 205573 | [205573-moontrain.json](./205573-moontrain.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
@@ -3079,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mura World 2 | 267913 | [267913-mura-world-2.json](./267913-mura-world-2.json) |
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
+| Murasame | 195164 | [195164-murasame.json](./195164-murasame.json) |
 | Murdeer | 395556 | [395556-murdeer.json](./395556-murdeer.json) |
 | Murder | 14158 | [14158-murder.json](./14158-murder.json) |
 | Murder | 226764 | [226764-murder.json](./226764-murder.json) |
@@ -3271,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Ghost Pet Is Zhong Kui | 309362 | [309362-my-ghost-pet-is-zhong-kui.json](./309362-my-ghost-pet-is-zhong-kui.json) |
 | My Girlfriend is a Mermaid!? Refine | 188642 | [188642-my-girlfriend-is-a-mermaid-refine.json](./188642-my-girlfriend-is-a-mermaid-refine.json) |
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
+| My Girlfriend is a Musician | 195171 | [195171-my-girlfriend-is-a-musician.json](./195171-my-girlfriend-is-a-musician.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
 | My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
@@ -3337,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
 | My Pet Rock | 195218 | [195218-my-pet-rock.json](./195218-my-pet-rock.json) |
 | My Peterinary | 298301 | [298301-my-peterinary.json](./298301-my-peterinary.json) |
+| My Pets: Maze | 195183 | [195183-my-pets-maze.json](./195183-my-pets-maze.json) |
 | My Pirate Husbandos | 320766 | [320766-my-pirate-husbandos.json](./320766-my-pirate-husbandos.json) |
 | My Pleasure: Season 3 | 270975 | [270975-my-pleasure-season-3.json](./270975-my-pleasure-season-3.json) |
 | My Plushy Shift | 324875 | [324875-my-plushy-shift.json](./324875-my-plushy-shift.json) |
