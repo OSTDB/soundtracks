@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper's Doom | 351634 | [351634-jumpers-doom.json](./351634-jumpers-doom.json) |
 | Jumpers League | 329960 | [329960-jumpers-league.json](./329960-jumpers-league.json) |
 | Jumphobia | 55946 | [55946-jumphobia.json](./55946-jumphobia.json) |
+| Jumphobia: Homeward Bound | 190170 | [190170-jumphobia-homeward-bound.json](./190170-jumphobia-homeward-bound.json) |
 | Jumping Challenge | 296927 | [296927-jumping-challenge.json](./296927-jumping-challenge.json) |
 | Jumping Finn | 254524 | [254524-jumping-finn.json](./254524-jumping-finn.json) |
 | Jumping Fish | 348236 | [348236-jumping-fish.json](./348236-jumping-fish.json) |
