@@ -190,7 +190,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
-| 20th Century Frog | 272846 | [272846-20th-century-frog.json](./272846-20th-century-frog.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
 | 21st Century Roguelike Pac-man | 375826 | [375826-21st-century-roguelike-pac-man.json](./375826-21st-century-roguelike-pac-man.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
