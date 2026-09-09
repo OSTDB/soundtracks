@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrecord | 246417 | [246417-unrecord.json](./246417-unrecord.json) |
 | UnRequited | 201311 | [201311-unrequited.json](./201311-unrequited.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
+| Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
 | Unsafe Express | 173282 | [173282-unsafe-express.json](./173282-unsafe-express.json) |
 | Unsighted | 111815 | [111815-unsighted.json](./111815-unsighted.json) |
@@ -461,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsteady Bounce | 180840 | [180840-unsteady-bounce.json](./180840-unsteady-bounce.json) |
 | Unstimulated Simulator | 389418 | [389418-unstimulated-simulator.json](./389418-unstimulated-simulator.json) |
 | Unstoppable | 255131 | [255131-unstoppable.json](./255131-unstoppable.json) |
+| Unstrong Legacy | 187458 | [187458-unstrong-legacy.json](./187458-unstrong-legacy.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
 | Untamed Kingdom | 274765 | [274765-untamed-kingdom.json](./274765-untamed-kingdom.json) |
