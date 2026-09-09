@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrum inc | 199571 | [199571-ferrum-inc.json](./199571-ferrum-inc.json) |
 | Fest Guests | 302389 | [302389-fest-guests.json](./302389-fest-guests.json) |
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
+| Festival of the Spirit | 183541 | [183541-festival-of-the-spirit.json](./183541-festival-of-the-spirit.json) |
 | Fetch | 381016 | [381016-fetch.json](./381016-fetch.json) |
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
 | Feud | 113037 | [113037-feud.json](./113037-feud.json) |
@@ -2069,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Postal Service | 119777 | [119777-fruit-postal-service.json](./119777-fruit-postal-service.json) |
 | Fruit Salad Theory | 186807 | [186807-fruit-salad-theory.json](./186807-fruit-salad-theory.json) |
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
+| Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruits Inc. Deluxe Pack | 35750 | [35750-fruits-inc-deluxe-pack.json](./35750-fruits-inc-deluxe-pack.json) |
