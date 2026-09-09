@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Pose | 296354 | [296354-robo-pose.json](./296354-robo-pose.json) |
 | Robo Rangers | 388744 | [388744-robo-rangers.json](./388744-robo-rangers.json) |
 | Robo Rescue | 328489 | [328489-robo-rescue.json](./328489-robo-rescue.json) |
+| Robo Revenge Squad | 205028 | [205028-robo-revenge-squad.json](./205028-robo-revenge-squad.json) |
 | Robo Wars | 196316 | [196316-robo-wars.json](./196316-robo-wars.json) |
 | Robo-Worms | 157673 | [157673-robo-worms.json](./157673-robo-worms.json) |
 | Robo50 | 211744 | [211744-robo50.json](./211744-robo50.json) |
