@@ -165,7 +165,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
 | 2-Finger Heroes | 66692 | [66692-2-finger-heroes.json](./66692-2-finger-heroes.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
-| 2-taku de Real-juu Metsubou Game | 220299 | [220299-2-taku-de-real-juu-metsubou-game.json](./220299-2-taku-de-real-juu-metsubou-game.json) |
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
 | 20 Challenges: Episode 3 - The Tale from a Bone | 339244 | [339244-20-challenges-episode-3-the-tale-from-a-bone.json](./339244-20-challenges-episode-3-the-tale-from-a-bone.json) |
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
