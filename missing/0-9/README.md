@@ -200,7 +200,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
 | 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
-| 2999 Game Kids | 209723 | [209723-2999-game-kids.json](./209723-2999-game-kids.json) |
 | 2BBee | 261789 | [261789-2bbee.json](./261789-2bbee.json) |
 | 2D Dogfight | 256275 | [256275-2d-dogfight.json](./256275-2d-dogfight.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
