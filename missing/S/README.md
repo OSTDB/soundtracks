@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered: The Final Days | 248048 | [248048-shattered-the-final-days.json](./248048-shattered-the-final-days.json) |
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
+| Shaun the Sheep: Shear Speed | 207861 | [207861-shaun-the-sheep-shear-speed.json](./207861-shaun-the-sheep-shear-speed.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere | 264887 | [264887-sphere.json](./264887-sphere.json) |
 | Sphere Arena | 166762 | [166762-sphere-arena.json](./166762-sphere-arena.json) |
 | Sphere Game | 377582 | [377582-sphere-game.json](./377582-sphere-game.json) |
+| Sphere Game Legendary | 207820 | [207820-sphere-game-legendary.json](./207820-sphere-game-legendary.json) |
 | Sphere TD | 400231 | [400231-sphere-td.json](./400231-sphere-td.json) |
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
@@ -4907,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Granny Collection | 27855 | [27855-super-granny-collection.json](./27855-super-granny-collection.json) |
+| Super Gravitron | 207834 | [207834-super-gravitron.json](./207834-super-gravitron.json) |
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gussun Oyoyo | 42641 | [42641-super-gussun-oyoyo.json](./42641-super-gussun-oyoyo.json) |
 | Super Gussun Oyoyo 2 | 38385 | [38385-super-gussun-oyoyo-2.json](./38385-super-gussun-oyoyo-2.json) |
@@ -5483,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
+| Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
@@ -5541,6 +5545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dreams on Christmas Eve | 334697 | [334697-sweet-dreams-on-christmas-eve.json](./334697-sweet-dreams-on-christmas-eve.json) |
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
 | Sweet Girl Gurumelo | 258992 | [258992-sweet-girl-gurumelo.json](./258992-sweet-girl-gurumelo.json) |
+| Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
 | Sweet Idol | 371243 | [371243-sweet-idol.json](./371243-sweet-idol.json) |
 | Sweet Jewels | 359404 | [359404-sweet-jewels.json](./359404-sweet-jewels.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
