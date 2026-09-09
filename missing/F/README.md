@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy and the Sleepy Planet | 116385 | [116385-floppy-and-the-sleepy-planet.json](./116385-floppy-and-the-sleepy-planet.json) |
 | Floppy Cat Bow Golf! | 252981 | [252981-floppy-cat-bow-golf.json](./252981-floppy-cat-bow-golf.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
+| Flora and the Darkness | 175906 | [175906-flora-and-the-darkness.json](./175906-flora-and-the-darkness.json) |
 | Flora Learns to Sing! | 321332 | [321332-flora-learns-to-sing.json](./321332-flora-learns-to-sing.json) |
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Florarium | 258454 | [258454-florarium.json](./258454-florarium.json) |
