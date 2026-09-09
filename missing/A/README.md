@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lozenge | 138252 | [138252-a-lozenge.json](./138252-a-lozenge.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Mafia Escape | 351034 | [351034-a-mafia-escape.json](./351034-a-mafia-escape.json) |
+| A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
 | A Magical Friday Night: Vs. Holy Quintet | 327857 | [327857-a-magical-friday-night-vs-holy-quintet.json](./327857-a-magical-friday-night-vs-holy-quintet.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Maiden Astrologer Divines the Future | 229349 | [229349-a-maiden-astrologer-divines-the-future.json](./229349-a-maiden-astrologer-divines-the-future.json) |
@@ -1266,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Pro Football 2K8 | 5481 | [5481-all-pro-football-2k8.json](./5481-all-pro-football-2k8.json) |
 | All-Star Baseball 2003 | 11557 | [11557-all-star-baseball-2003.json](./11557-all-star-baseball-2003.json) |
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
+| Alla Prima | 207315 | [207315-alla-prima.json](./207315-alla-prima.json) |
 | Allakin | 217307 | [217307-allakin.json](./217307-allakin.json) |
 | Allan Border's Cricket | 77392 | [77392-allan-borders-cricket.json](./77392-allan-borders-cricket.json) |
 | Allan Poe's Nightmare | 112315 | [112315-allan-poes-nightmare.json](./112315-allan-poes-nightmare.json) |
@@ -2597,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
 | Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
+| Astrid | 207304 | [207304-astrid.json](./207304-astrid.json) |
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
@@ -2915,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
 | Awakening: The Skyward Castle | 63287 | [63287-awakening-the-skyward-castle.json](./63287-awakening-the-skyward-castle.json) |
 | Awakening: The Skyward Castle - Collector's Edition | 89942 | [89942-awakening-the-skyward-castle-collectors-edition.json](./89942-awakening-the-skyward-castle-collectors-edition.json) |
+| Away From Life | 207301 | [207301-away-from-life.json](./207301-away-from-life.json) |
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
 | Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
