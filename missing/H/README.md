@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Monogatari 64 | 3509 | [3509-hamster-monogatari-64.json](./3509-hamster-monogatari-64.json) |
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
+| Hana | 178033 | [178033-hana.json](./178033-hana.json) |
 | Hana | 369565 | [369565-hana.json](./369565-hana.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
@@ -1642,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Tale 2: Remaster | 390498 | [390498-horror-tale-2-remaster.json](./390498-horror-tale-2-remaster.json) |
 | Horror Tour | 209625 | [209625-horror-tour.json](./209625-horror-tour.json) |
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
+| Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
 | Horse Life 3 | 151208 | [151208-horse-life-3.json](./151208-horse-life-3.json) |
 | Horse Life Adventures | 201794 | [201794-horse-life-adventures.json](./201794-horse-life-adventures.json) |
 | Horse Life: Find Horses in Open World, Survive in Wild Nature as a Foal or Pony | 253933 | [253933-horse-life-find-horses-in-open-world-survive-in-wild-nature-as-a-foal-or-pony.json](./253933-horse-life-find-horses-in-open-world-survive-in-wild-nature-as-a-foal-or-pony.json) |
