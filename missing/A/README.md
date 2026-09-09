@@ -1456,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazin' George 2: Digital Deluxe | 212279 | [212279-amazin-george-2-digital-deluxe.json](./212279-amazin-george-2-digital-deluxe.json) |
 | Amazing Adventures: The Forgotten Dynasty | 61675 | [61675-amazing-adventures-the-forgotten-dynasty.json](./61675-amazing-adventures-the-forgotten-dynasty.json) |
 | Amazing Breaker | 65493 | [65493-amazing-breaker.json](./65493-amazing-breaker.json) |
+| Amazing Chicken Adventures | 173262 | [173262-amazing-chicken-adventures.json](./173262-amazing-chicken-adventures.json) |
 | Amazing Crime Rope Stickman | 296072 | [296072-amazing-crime-rope-stickman.json](./296072-amazing-crime-rope-stickman.json) |
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
 | Amazing Escape | 87714 | [87714-amazing-escape.json](./87714-amazing-escape.json) |
@@ -1885,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
 | Anoldor | 181300 | [181300-anoldor.json](./181300-anoldor.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
+| Anomalice | 172695 | [172695-anomalice.json](./172695-anomalice.json) |
 | Anomalistic Revolution | 226235 | [226235-anomalistic-revolution.json](./226235-anomalistic-revolution.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
@@ -1954,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
 | Anthropocene Epoch | 186806 | [186806-anthropocene-epoch.json](./186806-anthropocene-epoch.json) |
 | Anti Aircraft Artillery | 292018 | [292018-anti-aircraft-artillery.json](./292018-anti-aircraft-artillery.json) |
+| Anti Frank's Wrath | 173255 | [173255-anti-franks-wrath.json](./173255-anti-franks-wrath.json) |
 | Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
 | Anti-Idle: The Game | 225644 | [225644-anti-idle-the-game.json](./225644-anti-idle-the-game.json) |
@@ -2765,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
+| Astrd | 173245 | [173245-astrd.json](./173245-astrd.json) |
 | Astrela Starlight | 107914 | [107914-astrela-starlight.json](./107914-astrela-starlight.json) |
 | Astria Ascending: Collector's Edition | 173776 | [173776-astria-ascending-collectors-edition.json](./173776-astria-ascending-collectors-edition.json) |
 | Astrid | 207304 | [207304-astrid.json](./207304-astrid.json) |
@@ -3122,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
 | Axiom of Echoes: Proof Refactor | 408045 | [408045-axiom-of-echoes-proof-refactor.json](./408045-axiom-of-echoes-proof-refactor.json) |
+| Axiom Verge 1 & 2 Double Pack | 172714 | [172714-axiom-verge-1-and-2-double-pack.json](./172714-axiom-verge-1-and-2-double-pack.json) |
 | Axiom Verge: Multiverse Edition | 75864 | [75864-axiom-verge-multiverse-edition.json](./75864-axiom-verge-multiverse-edition.json) |
 | Axios Football | 338173 | [338173-axios-football.json](./338173-axios-football.json) |
 | Axium's Box | 235453 | [235453-axiums-box.json](./235453-axiums-box.json) |
