@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yummyland Solitaire 2 | 386130 | [386130-yummyland-solitaire-2.json](./386130-yummyland-solitaire-2.json) |
 | Yumper | 146306 | [146306-yumper.json](./146306-yumper.json) |
 | Yumpr | 287675 | [287675-yumpr.json](./287675-yumpr.json) |
+| Yuna: Sugar Hearts and Love - New Love | 169963 | [169963-yuna-sugar-hearts-and-love-new-love.json](./169963-yuna-sugar-hearts-and-love-new-love.json) |
 | Yunak | 330541 | [330541-yunak.json](./330541-yunak.json) |
 | Yunyun Syndrome!?: Rhythm Psychosis | 302655 | [302655-yunyun-syndrome-rhythm-psychosis.json](./302655-yunyun-syndrome-rhythm-psychosis.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
