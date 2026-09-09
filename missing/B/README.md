@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Shapes for Kids | 225893 | [225893-baby-shapes-for-kids.json](./225893-baby-shapes-for-kids.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
+| Baby's First House Fire | 176444 | [176444-babys-first-house-fire.json](./176444-babys-first-house-fire.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Magnificent Edition | 260697 | [260697-bit-orchard-animal-valley-magnificent-edition.json](./260697-bit-orchard-animal-valley-magnificent-edition.json) |
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
+| Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
 | BitBug | 181315 | [181315-bitbug.json](./181315-bitbug.json) |
 | Bitch Hell | 197891 | [197891-bitch-hell.json](./197891-bitch-hell.json) |
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
@@ -2266,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
 | Boundary | 22395 | [22395-boundary.json](./22395-boundary.json) |
 | Boundary Master | 311268 | [311268-boundary-master.json](./311268-boundary-master.json) |
+| Bounded Box | 176426 | [176426-bounded-box.json](./176426-bounded-box.json) |
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
 | Boundless Skies | 278969 | [278969-boundless-skies.json](./278969-boundless-skies.json) |
 | Bounters | 199119 | [199119-bounters.json](./199119-bounters.json) |
@@ -2809,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Chase | 205032 | [205032-bullet-chase.json](./205032-bullet-chase.json) |
 | Bullet Fractals | 181894 | [181894-bullet-fractals.json](./181894-bullet-fractals.json) |
 | Bullet Frenzy | 269041 | [269041-bullet-frenzy.json](./269041-bullet-frenzy.json) |
+| Bullet Heli | 176463 | [176463-bullet-heli.json](./176463-bullet-heli.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
