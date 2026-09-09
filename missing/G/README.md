@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
 | General Coco | 122392 | [122392-general-coco.json](./122392-general-coco.json) |
 | General Staff: Black Powder | 249226 | [249226-general-staff-black-powder.json](./249226-general-staff-black-powder.json) |
+| Generality | 205068 | [205068-generality.json](./205068-generality.json) |
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
