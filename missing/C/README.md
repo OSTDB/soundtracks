@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Dusk | 246951 | [246951-city-of-dusk.json](./246951-city-of-dusk.json) |
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
 | City of Gangsters: Shadow Government | 203928 | [203928-city-of-gangsters-shadow-government.json](./203928-city-of-gangsters-shadow-government.json) |
+| City of God I: Prison Empire - Outrage | 170431 | [170431-city-of-god-i-prison-empire-outrage.json](./170431-city-of-god-i-prison-empire-outrage.json) |
 | City of Love: Paris | 227511 | [227511-city-of-love-paris.json](./227511-city-of-love-paris.json) |
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
@@ -2838,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
 | Crone | 408087 | [408087-crone.json](./408087-crone.json) |
+| Cronicas de Landulph | 170432 | [170432-cronicas-de-landulph.json](./170432-cronicas-de-landulph.json) |
 | Cronostase Electric Collection | 225899 | [225899-cronostase-electric-collection.json](./225899-cronostase-electric-collection.json) |
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
