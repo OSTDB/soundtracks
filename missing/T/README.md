@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
+| Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
 | Tactics & Strategy Master 3: Gemini Strategy | 284350 | [284350-tactics-and-strategy-master-3-gemini-strategy.json](./284350-tactics-and-strategy-master-3-gemini-strategy.json) |
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangled | 62187 | [62187-tangled.json](./62187-tangled.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tangoo & Ullashong | 374087 | [374087-tangoo-and-ullashong.json](./374087-tangoo-and-ullashong.json) |
+| Tangram | 208373 | [208373-tangram.json](./208373-tangram.json) |
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
@@ -684,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal V | 273403 | [273403-terminal-v.json](./273403-terminal-v.json) |
 | Terminal VR | 127362 | [127362-terminal-vr.json](./127362-terminal-vr.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
+| Terminator | 208419 | [208419-terminator.json](./208419-terminator.json) |
 | Terminator: Dark Fate - Defiance: Evolution | 380994 | [380994-terminator-dark-fate-defiance-evolution.json](./380994-terminator-dark-fate-defiance-evolution.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
@@ -1253,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cute Whale | 378182 | [378182-the-cute-whale.json](./378182-the-cute-whale.json) |
 | The Cyclist: Tactics | 159354 | [159354-the-cyclist-tactics.json](./159354-the-cyclist-tactics.json) |
 | The Cyclop | 301814 | [301814-the-cyclop.json](./301814-the-cyclop.json) |
+| The Czech Run | 208384 | [208384-the-czech-run.json](./208384-the-czech-run.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
@@ -1687,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
+| The Heart of Sourcerer | 208386 | [208386-the-heart-of-sourcerer.json](./208386-the-heart-of-sourcerer.json) |
 | The Heartbeat | 149610 | [149610-the-heartbeat.json](./149610-the-heartbeat.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
@@ -1806,6 +1811,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Brownie: Turbo | 209645 | [209645-the-jumping-brownie-turbo.json](./209645-the-jumping-brownie-turbo.json) |
 | The Jumping Burger | 200724 | [200724-the-jumping-burger.json](./200724-the-jumping-burger.json) |
 | The Jumping Burger: Turbo | 209146 | [209146-the-jumping-burger-turbo.json](./209146-the-jumping-burger-turbo.json) |
+| The Jumping Burrito | 208381 | [208381-the-jumping-burrito.json](./208381-the-jumping-burrito.json) |
+| The Jumping Burrito: Turbo | 208382 | [208382-the-jumping-burrito-turbo.json](./208382-the-jumping-burrito-turbo.json) |
 | The Jumping Choco Santa | 227839 | [227839-the-jumping-choco-santa.json](./227839-the-jumping-choco-santa.json) |
 | The Jumping Choco Santa: Turbo | 227840 | [227840-the-jumping-choco-santa-turbo.json](./227840-the-jumping-choco-santa-turbo.json) |
 | The Jumping Chocolate | 231371 | [231371-the-jumping-chocolate.json](./231371-the-jumping-chocolate.json) |
@@ -2970,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wedding | 286531 | [286531-the-wedding.json](./286531-the-wedding.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Werehouse | 337107 | [337107-the-werehouse.json](./337107-the-werehouse.json) |
+| The Whiskey Story | 208383 | [208383-the-whiskey-story.json](./208383-the-whiskey-story.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
 | The Whispering Bones | 389400 | [389400-the-whispering-bones.json](./389400-the-whispering-bones.json) |
@@ -3539,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
 | Time on Frog Island: Prologue | 209641 | [209641-time-on-frog-island-prologue.json](./209641-time-on-frog-island-prologue.json) |
+| Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
 | Time Secret | 91457 | [91457-time-secret.json](./91457-time-secret.json) |
@@ -4103,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
+| Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
@@ -4645,6 +4655,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
+| Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
+| Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
 | Trivia Party | 195270 | [195270-trivia-party.json](./195270-trivia-party.json) |
 | Trivia Quest | 256860 | [256860-trivia-quest.json](./256860-trivia-quest.json) |
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
