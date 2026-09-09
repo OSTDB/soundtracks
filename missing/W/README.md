@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Is This Sorcery | 328451 | [328451-what-is-this-sorcery.json](./328451-what-is-this-sorcery.json) |
 | What Lies Between | 199118 | [199118-what-lies-between.json](./199118-what-lies-between.json) |
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
+| What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
 | What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
 | What Remains | 318969 | [318969-what-remains.json](./318969-what-remains.json) |
 | What Remains of Us | 256288 | [256288-what-remains-of-us.json](./256288-what-remains-of-us.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
 | Woody's Incredible Journey to the Escape from Eternal Terror | 265684 | [265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json](./265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json) |
+| Woofice Chair! | 183525 | [183525-woofice-chair.json](./183525-woofice-chair.json) |
 | Woofy Run | 373017 | [373017-woofy-run.json](./373017-woofy-run.json) |
 | Woogles | 321119 | [321119-woogles.json](./321119-woogles.json) |
 | Woohoo! | 304017 | [304017-woohoo.json](./304017-woohoo.json) |
