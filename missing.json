@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T21:41:01.090Z",
-  "total_missing": 51880,
+  "generated_at": "2026-09-09T21:47:56.427Z",
+  "total_missing": 51930,
   "games": [
     {
       "igdb_id": 306086,
@@ -228358,6 +228358,31 @@
       "file": "missing/T/157690-the-tower-of-tigerqiuqiu-2-1942-j20.json"
     },
     {
+      "igdb_id": 173714,
+      "game_name": "The Tower of TigerQiuQiu 2: 1952 M0",
+      "file": "missing/T/173714-the-tower-of-tigerqiuqiu-2-1952-m0.json"
+    },
+    {
+      "igdb_id": 173734,
+      "game_name": "The Tower of TigerQiuQiu 2: 1952 M1",
+      "file": "missing/T/173734-the-tower-of-tigerqiuqiu-2-1952-m1.json"
+    },
+    {
+      "igdb_id": 173738,
+      "game_name": "The Tower of TigerQiuQiu 2: 1952 M2",
+      "file": "missing/T/173738-the-tower-of-tigerqiuqiu-2-1952-m2.json"
+    },
+    {
+      "igdb_id": 173739,
+      "game_name": "The Tower of TigerQiuQiu 2: 1952 M3",
+      "file": "missing/T/173739-the-tower-of-tigerqiuqiu-2-1952-m3.json"
+    },
+    {
+      "igdb_id": 173735,
+      "game_name": "The Tower of TigerQiuQiu 2: 1952 M7",
+      "file": "missing/T/173735-the-tower-of-tigerqiuqiu-2-1952-m7.json"
+    },
+    {
       "igdb_id": 157696,
       "game_name": "The Tower of TigerQiuQiu 2: Ball Break",
       "file": "missing/T/157696-the-tower-of-tigerqiuqiu-2-ball-break.json"
@@ -228376,6 +228401,16 @@
       "igdb_id": 157683,
       "game_name": "The Tower of TigerQiuQiu 2: Ball Snake",
       "file": "missing/T/157683-the-tower-of-tigerqiuqiu-2-ball-snake.json"
+    },
+    {
+      "igdb_id": 173733,
+      "game_name": "The Tower of TigerQiuQiu 2: Bomb M1",
+      "file": "missing/T/173733-the-tower-of-tigerqiuqiu-2-bomb-m1.json"
+    },
+    {
+      "igdb_id": 173732,
+      "game_name": "The Tower of TigerQiuQiu 2: Bomb M2",
+      "file": "missing/T/173732-the-tower-of-tigerqiuqiu-2-bomb-m2.json"
     },
     {
       "igdb_id": 157682,
@@ -228418,6 +228453,56 @@
       "file": "missing/T/157699-the-tower-of-tigerqiuqiu-2-gem-three-elimin.json"
     },
     {
+      "igdb_id": 173731,
+      "game_name": "The Tower of TigerQiuQiu 2: Ninja Hill 0",
+      "file": "missing/T/173731-the-tower-of-tigerqiuqiu-2-ninja-hill-0.json"
+    },
+    {
+      "igdb_id": 173730,
+      "game_name": "The Tower of TigerQiuQiu 2: Ninja Hill 3",
+      "file": "missing/T/173730-the-tower-of-tigerqiuqiu-2-ninja-hill-3.json"
+    },
+    {
+      "igdb_id": 173741,
+      "game_name": "The Tower of TigerQiuQiu 2: Ninja Hill 5",
+      "file": "missing/T/173741-the-tower-of-tigerqiuqiu-2-ninja-hill-5.json"
+    },
+    {
+      "igdb_id": 173719,
+      "game_name": "The Tower of TigerQiuQiu 2: Ninja Hill 8",
+      "file": "missing/T/173719-the-tower-of-tigerqiuqiu-2-ninja-hill-8.json"
+    },
+    {
+      "igdb_id": 173717,
+      "game_name": "The Tower of TigerQiuQiu 2: Ocean M2",
+      "file": "missing/T/173717-the-tower-of-tigerqiuqiu-2-ocean-m2.json"
+    },
+    {
+      "igdb_id": 173727,
+      "game_name": "The Tower of TigerQiuQiu 2: Ocean M5",
+      "file": "missing/T/173727-the-tower-of-tigerqiuqiu-2-ocean-m5.json"
+    },
+    {
+      "igdb_id": 173726,
+      "game_name": "The Tower of TigerQiuQiu 2: Ocean M6",
+      "file": "missing/T/173726-the-tower-of-tigerqiuqiu-2-ocean-m6.json"
+    },
+    {
+      "igdb_id": 173736,
+      "game_name": "The Tower of TigerQiuQiu 2: Ocean M7",
+      "file": "missing/T/173736-the-tower-of-tigerqiuqiu-2-ocean-m7.json"
+    },
+    {
+      "igdb_id": 173722,
+      "game_name": "The Tower of TigerQiuQiu 2: Ocean M8",
+      "file": "missing/T/173722-the-tower-of-tigerqiuqiu-2-ocean-m8.json"
+    },
+    {
+      "igdb_id": 173729,
+      "game_name": "The Tower of TigerQiuQiu 2: Ocean M9",
+      "file": "missing/T/173729-the-tower-of-tigerqiuqiu-2-ocean-m9.json"
+    },
+    {
       "igdb_id": 157681,
       "game_name": "The Tower of TigerQiuQiu 2: Space Eliminate",
       "file": "missing/T/157681-the-tower-of-tigerqiuqiu-2-space-eliminate.json"
@@ -228426,6 +228511,21 @@
       "igdb_id": 157685,
       "game_name": "The Tower of TigerQiuQiu 2: Star Eliminate",
       "file": "missing/T/157685-the-tower-of-tigerqiuqiu-2-star-eliminate.json"
+    },
+    {
+      "igdb_id": 173723,
+      "game_name": "The Tower of TigerQiuQiu 2: Super Tigerio M0",
+      "file": "missing/T/173723-the-tower-of-tigerqiuqiu-2-super-tigerio-m0.json"
+    },
+    {
+      "igdb_id": 173740,
+      "game_name": "The Tower of TigerQiuQiu 2: Super Tigerio M4",
+      "file": "missing/T/173740-the-tower-of-tigerqiuqiu-2-super-tigerio-m4.json"
+    },
+    {
+      "igdb_id": 173718,
+      "game_name": "The Tower of TigerQiuQiu 2: Super Tigerio M7",
+      "file": "missing/T/173718-the-tower-of-tigerqiuqiu-2-super-tigerio-m7.json"
     },
     {
       "igdb_id": 157694,
@@ -228481,6 +228581,51 @@
       "igdb_id": 157704,
       "game_name": "The Tower of TigerQiuQiu 2: Under Water Bubble",
       "file": "missing/T/157704-the-tower-of-tigerqiuqiu-2-under-water-bubble.json"
+    },
+    {
+      "igdb_id": 173721,
+      "game_name": "The Tower of TigerQiuQiu 2: Warp Tiger M01",
+      "file": "missing/T/173721-the-tower-of-tigerqiuqiu-2-warp-tiger-m01.json"
+    },
+    {
+      "igdb_id": 173737,
+      "game_name": "The Tower of TigerQiuQiu 2: Warp Tiger M02",
+      "file": "missing/T/173737-the-tower-of-tigerqiuqiu-2-warp-tiger-m02.json"
+    },
+    {
+      "igdb_id": 173725,
+      "game_name": "The Tower of TigerQiuQiu 2: Warp Tiger M03",
+      "file": "missing/T/173725-the-tower-of-tigerqiuqiu-2-warp-tiger-m03.json"
+    },
+    {
+      "igdb_id": 173715,
+      "game_name": "The Tower of TigerQiuQiu 2: Warp Tiger M05",
+      "file": "missing/T/173715-the-tower-of-tigerqiuqiu-2-warp-tiger-m05.json"
+    },
+    {
+      "igdb_id": 173724,
+      "game_name": "The Tower Of TigerQiuQiu 2: Warp Tiger M06",
+      "file": "missing/T/173724-the-tower-of-tigerqiuqiu-2-warp-tiger-m06.json"
+    },
+    {
+      "igdb_id": 173713,
+      "game_name": "The Tower of TigerQiuQiu 2: Warp Tiger M07",
+      "file": "missing/T/173713-the-tower-of-tigerqiuqiu-2-warp-tiger-m07.json"
+    },
+    {
+      "igdb_id": 173716,
+      "game_name": "The Tower of TigerQiuQiu 2: Warp Tiger M09",
+      "file": "missing/T/173716-the-tower-of-tigerqiuqiu-2-warp-tiger-m09.json"
+    },
+    {
+      "igdb_id": 173728,
+      "game_name": "The Tower of TigerQiuQiu 2: Warp Tiger M12",
+      "file": "missing/T/173728-the-tower-of-tigerqiuqiu-2-warp-tiger-m12.json"
+    },
+    {
+      "igdb_id": 173720,
+      "game_name": "The Tower of TigerQiuQiu 2: Warp Tiger M13",
+      "file": "missing/T/173720-the-tower-of-tigerqiuqiu-2-warp-tiger-m13.json"
     },
     {
       "igdb_id": 6639,
@@ -230918,6 +231063,81 @@
       "file": "missing/T/173757-tiger-fighter-1931-mp061.json"
     },
     {
+      "igdb_id": 173742,
+      "game_name": "Tiger Fighter 1931: MP062",
+      "file": "missing/T/173742-tiger-fighter-1931-mp062.json"
+    },
+    {
+      "igdb_id": 173746,
+      "game_name": "Tiger Fighter 1931: MP065",
+      "file": "missing/T/173746-tiger-fighter-1931-mp065.json"
+    },
+    {
+      "igdb_id": 173753,
+      "game_name": "Tiger Fighter 1931: MP066",
+      "file": "missing/T/173753-tiger-fighter-1931-mp066.json"
+    },
+    {
+      "igdb_id": 173748,
+      "game_name": "Tiger Fighter 1931: MP068",
+      "file": "missing/T/173748-tiger-fighter-1931-mp068.json"
+    },
+    {
+      "igdb_id": 173750,
+      "game_name": "Tiger Fighter 1931: MP071",
+      "file": "missing/T/173750-tiger-fighter-1931-mp071.json"
+    },
+    {
+      "igdb_id": 173752,
+      "game_name": "Tiger Fighter 1931: MP073",
+      "file": "missing/T/173752-tiger-fighter-1931-mp073.json"
+    },
+    {
+      "igdb_id": 173744,
+      "game_name": "Tiger Fighter 1931: MP074",
+      "file": "missing/T/173744-tiger-fighter-1931-mp074.json"
+    },
+    {
+      "igdb_id": 173749,
+      "game_name": "Tiger Fighter 1931: MP075",
+      "file": "missing/T/173749-tiger-fighter-1931-mp075.json"
+    },
+    {
+      "igdb_id": 173756,
+      "game_name": "Tiger Fighter 1931: MP076",
+      "file": "missing/T/173756-tiger-fighter-1931-mp076.json"
+    },
+    {
+      "igdb_id": 173743,
+      "game_name": "Tiger Fighter 1931: MP081",
+      "file": "missing/T/173743-tiger-fighter-1931-mp081.json"
+    },
+    {
+      "igdb_id": 173755,
+      "game_name": "Tiger Fighter 1931: MP085",
+      "file": "missing/T/173755-tiger-fighter-1931-mp085.json"
+    },
+    {
+      "igdb_id": 173751,
+      "game_name": "Tiger Fighter 1931: MP086",
+      "file": "missing/T/173751-tiger-fighter-1931-mp086.json"
+    },
+    {
+      "igdb_id": 173754,
+      "game_name": "Tiger Fighter 1931: MP093",
+      "file": "missing/T/173754-tiger-fighter-1931-mp093.json"
+    },
+    {
+      "igdb_id": 173747,
+      "game_name": "Tiger Fighter 1931: MP094",
+      "file": "missing/T/173747-tiger-fighter-1931-mp094.json"
+    },
+    {
+      "igdb_id": 173745,
+      "game_name": "Tiger Fighter 1931: MP099",
+      "file": "missing/T/173745-tiger-fighter-1931-mp099.json"
+    },
+    {
       "igdb_id": 189682,
       "game_name": "Tiger Fighter 1931: Tora! MP013",
       "file": "missing/T/189682-tiger-fighter-1931-tora-mp013.json"
@@ -231401,6 +231621,36 @@
       "igdb_id": 37170,
       "game_name": "Tiger Mission",
       "file": "missing/T/37170-tiger-mission.json"
+    },
+    {
+      "igdb_id": 173707,
+      "game_name": "Tiger Soldier I: MP007",
+      "file": "missing/T/173707-tiger-soldier-i-mp007.json"
+    },
+    {
+      "igdb_id": 173712,
+      "game_name": "Tiger Soldier I: MP023",
+      "file": "missing/T/173712-tiger-soldier-i-mp023.json"
+    },
+    {
+      "igdb_id": 173708,
+      "game_name": "Tiger Soldier I: MP047",
+      "file": "missing/T/173708-tiger-soldier-i-mp047.json"
+    },
+    {
+      "igdb_id": 173710,
+      "game_name": "Tiger Soldier I: MP072",
+      "file": "missing/T/173710-tiger-soldier-i-mp072.json"
+    },
+    {
+      "igdb_id": 173709,
+      "game_name": "Tiger Soldier I: MP075",
+      "file": "missing/T/173709-tiger-soldier-i-mp075.json"
+    },
+    {
+      "igdb_id": 173711,
+      "game_name": "Tiger Soldier I: MP088",
+      "file": "missing/T/173711-tiger-soldier-i-mp088.json"
     },
     {
       "igdb_id": 189720,
