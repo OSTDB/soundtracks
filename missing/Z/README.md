@@ -119,6 +119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Page | 216812 | [216812-zero-page.json](./216812-zero-page.json) |
 | Zero Parades: For Dead Spies | 361880 | [361880-zero-parades-for-dead-spies.json](./361880-zero-parades-for-dead-spies.json) |
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
+| Zero Velocity | 176984 | [176984-zero-velocity.json](./176984-zero-velocity.json) |
+| Zero Volt X | 176960 | [176960-zero-volt-x.json](./176960-zero-volt-x.json) |
 | Zero World | 211216 | [211216-zero-world.json](./211216-zero-world.json) |
 | Zero Zero | 130361 | [130361-zero-zero.json](./130361-zero-zero.json) |
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
@@ -153,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy Kids Racing | 246971 | [246971-ziggy-kids-racing.json](./246971-ziggy-kids-racing.json) |
 | Zillions of Games | 311470 | [311470-zillions-of-games.json](./311470-zillions-of-games.json) |
 | Zim's Word Game | 216476 | [216476-zims-word-game.json](./216476-zims-word-game.json) |
+| Zine Fair Lady | 176956 | [176956-zine-fair-lady.json](./176956-zine-fair-lady.json) |
 | Zion Survivors | 199091 | [199091-zion-survivors.json](./199091-zion-survivors.json) |
 | Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
