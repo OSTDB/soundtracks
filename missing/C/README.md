@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Fishing | 230842 | [230842-casual-fishing.json](./230842-casual-fishing.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
+| Cat & Potat! | 178574 | [178574-cat-and-potat.json](./178574-cat-and-potat.json) |
 | Cat & Rabbit Magic Farming | 404262 | [404262-cat-and-rabbit-magic-farming.json](./404262-cat-and-rabbit-magic-farming.json) |
 | Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
 | Cat 2048 Story | 233530 | [233530-cat-2048-story.json](./233530-cat-2048-story.json) |
@@ -1207,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate makes you happy 7 | 105376 | [105376-chocolate-makes-you-happy-7.json](./105376-chocolate-makes-you-happy-7.json) |
 | Chocolate makes you happy: Halloween | 109746 | [109746-chocolate-makes-you-happy-halloween.json](./109746-chocolate-makes-you-happy-halloween.json) |
 | Chocolate makes you happy: Valentine's Day | 114362 | [114362-chocolate-makes-you-happy-valentines-day.json](./114362-chocolate-makes-you-happy-valentines-day.json) |
+| Chocolate Roll For Two | 178602 | [178602-chocolate-roll-for-two.json](./178602-chocolate-roll-for-two.json) |
 | Chocolatio | 281996 | [281996-chocolatio.json](./281996-chocolatio.json) |
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
@@ -1955,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors! Platform | 199607 | [199607-colors-platform.json](./199607-colors-platform.json) |
 | Colors’ Heartbeat | 235480 | [235480-colors-heartbeat.json](./235480-colors-heartbeat.json) |
 | ColorSense | 182516 | [182516-colorsense.json](./182516-colorsense.json) |
+| ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | ColorZ | 21043 | [21043-colorz.json](./21043-colorz.json) |
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
@@ -2268,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
 | Corgi in the Box | 273372 | [273372-corgi-in-the-box.json](./273372-corgi-in-the-box.json) |
+| Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
