@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case | 323550 | [323550-case.json](./323550-case.json) |
 | Case 2: Animatronics Survival | 99300 | [99300-case-2-animatronics-survival.json](./99300-case-2-animatronics-survival.json) |
 | Case Blind: Stolen Route | 358283 | [358283-case-blind-stolen-route.json](./358283-case-blind-stolen-route.json) |
+| Case Clicker | 194565 | [194565-case-clicker.json](./194565-case-clicker.json) |
 | Case Closed | 95435 | [95435-case-closed.json](./95435-case-closed.json) |
 | Case Files: Behind Closed Doors | 273651 | [273651-case-files-behind-closed-doors.json](./273651-case-files-behind-closed-doors.json) |
 | Case Files: The Death of Paulette Williams | 213024 | [213024-case-files-the-death-of-paulette-williams.json](./213024-case-files-the-death-of-paulette-williams.json) |
