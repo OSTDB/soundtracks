@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shox: Rally Reinvented | 8265 | [8265-shox-rally-reinvented.json](./8265-shox-rally-reinvented.json) |
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
 | Shrapnel City 2096: Trapped In The Future! | 308237 | [308237-shrapnel-city-2096-trapped-in-the-future.json](./308237-shrapnel-city-2096-trapped-in-the-future.json) |
+| Shred BackCountry | 174268 | [174268-shred-backcountry.json](./174268-shred-backcountry.json) |
 | Shred-A-Bunch! | 248030 | [248030-shred-a-bunch.json](./248030-shred-a-bunch.json) |
 | Shredded Faith | 306349 | [306349-shredded-faith.json](./306349-shredded-faith.json) |
 | Shredz64 | 84268 | [84268-shredz64.json](./84268-shredz64.json) |
@@ -3256,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soupsoup | 265948 | [265948-soupsoup.json](./265948-soupsoup.json) |
 | Source Code | 340199 | [340199-source-code.json](./340199-source-code.json) |
 | Source Control | 62734 | [62734-source-control.json](./62734-source-control.json) |
+| Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Soushuu Senshinkan Gakuen Bansenjin | 137082 | [137082-soushuu-senshinkan-gakuen-bansenjin.json](./137082-soushuu-senshinkan-gakuen-bansenjin.json) |
 | South Park | 198486 | [198486-south-park.json](./198486-south-park.json) |
 | South Park Let's Go Tower Defense Play! | 1260 | [1260-south-park-lets-go-tower-defense-play.json](./1260-south-park-lets-go-tower-defense-play.json) |
@@ -3364,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Part II | 246397 | [246397-space-invaders-part-ii.json](./246397-space-invaders-part-ii.json) |
 | Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
 | Space Invaders: World Defense | 257365 | [257365-space-invaders-world-defense.json](./257365-space-invaders-world-defense.json) |
+| Space Inversion 2 HD | 174313 | [174313-space-inversion-2-hd.json](./174313-space-inversion-2-hd.json) |
 | Space Inversion Puzzle | 255720 | [255720-space-inversion-puzzle.json](./255720-space-inversion-puzzle.json) |
 | Space is Key | 243107 | [243107-space-is-key.json](./243107-space-is-key.json) |
 | Space is Key Christmas | 408824 | [408824-space-is-key-christmas.json](./408824-space-is-key-christmas.json) |
@@ -3696,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
+| Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
@@ -4113,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Revenge 2: Act 1 to the Moon | 180248 | [180248-star-revenge-2-act-1-to-the-moon.json](./180248-star-revenge-2-act-1-to-the-moon.json) |
 | Star Ronin | 320744 | [320744-star-ronin.json](./320744-star-ronin.json) |
 | Star Ruler 2 | 19170 | [19170-star-ruler-2.json](./19170-star-ruler-2.json) |
+| Star Runner | 174275 | [174275-star-runner.json](./174275-star-runner.json) |
 | Star Saga: Two - The Clathran Menace | 57662 | [57662-star-saga-two-the-clathran-menace.json](./57662-star-saga-two-the-clathran-menace.json) |
 | Star Scandal | 298894 | [298894-star-scandal.json](./298894-star-scandal.json) |
 | Star Scenery Disk: San Francisco Area | 98960 | [98960-star-scenery-disk-san-francisco-area.json](./98960-star-scenery-disk-san-francisco-area.json) |
@@ -4191,6 +4196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star-Wired | 310939 | [310939-star-wired.json](./310939-star-wired.json) |
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
 | Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
+| Star*Burst | 174301 | [174301-star-burst.json](./174301-star-burst.json) |
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
@@ -5608,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
 | Super Slime Boy | 335956 | [335956-super-slime-boy.json](./335956-super-slime-boy.json) |
+| Super Slime Rush | 174280 | [174280-super-slime-rush.json](./174280-super-slime-rush.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Smash Bros Ultimate: Martial Artist Gi and Wig | 350408 | [350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json](./350408-super-smash-bros-ultimate-martial-artist-gi-and-wig.json) |
 | Super Smash Bros Ultimate: Rabbids Hat | 338184 | [338184-super-smash-bros-ultimate-rabbids-hat.json](./338184-super-smash-bros-ultimate-rabbids-hat.json) |
