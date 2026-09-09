@@ -77,11 +77,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
 | Quantum Contours | 278394 | [278394-quantum-contours.json](./278394-quantum-contours.json) |
+| Quantum Conundrum: The Desmond Debacle | 172125 | [172125-quantum-conundrum-the-desmond-debacle.json](./172125-quantum-conundrum-the-desmond-debacle.json) |
 | Quantum Covenant | 113718 | [113718-quantum-covenant.json](./113718-quantum-covenant.json) |
 | Quantum Drive | 278395 | [278395-quantum-drive.json](./278395-quantum-drive.json) |
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
 | Quantum Phantom Basketball | 252766 | [252766-quantum-phantom-basketball.json](./252766-quantum-phantom-basketball.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
+| Quantum Rush Champions: Jump Start Tournament | 172121 | [172121-quantum-rush-champions-jump-start-tournament.json](./172121-quantum-rush-champions-jump-start-tournament.json) |
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
 | Quantum Void | 288758 | [288758-quantum-void.json](./288758-quantum-void.json) |
