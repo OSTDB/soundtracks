@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Star Arthur II: Dark Nebula | 62767 | [62767-legend-of-star-arthur-ii-dark-nebula.json](./62767-legend-of-star-arthur-ii-dark-nebula.json) |
 | Legend of Star Arthur III: Terra 4001 | 62769 | [62769-legend-of-star-arthur-iii-terra-4001.json](./62769-legend-of-star-arthur-iii-terra-4001.json) |
 | Legend of Stars | 295013 | [295013-legend-of-stars.json](./295013-legend-of-stars.json) |
+| Legend of the Animal Spirits | 206154 | [206154-legend-of-the-animal-spirits.json](./206154-legend-of-the-animal-spirits.json) |
 | Legend of the Dark War God | 340909 | [340909-legend-of-the-dark-war-god.json](./340909-legend-of-the-dark-war-god.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
