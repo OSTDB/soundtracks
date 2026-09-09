@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Lands | 39655 | [39655-bad-lands.json](./39655-bad-lands.json) |
+| Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
 | Bad Mojo | 604 | [604-bad-mojo.json](./604-bad-mojo.json) |
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
 | Bad Mothafucka | 281368 | [281368-bad-mothafucka.json](./281368-bad-mothafucka.json) |
@@ -1367,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
+| Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird Ball | 257378 | [257378-bird-ball.json](./257378-bird-ball.json) |
@@ -1854,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
+| Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
@@ -2279,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Dash | 196272 | [196272-box-dash.json](./196272-box-dash.json) |
 | Box Heap | 233523 | [233523-box-heap.json](./233523-box-heap.json) |
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
+| Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
 | Box Roulette Simulator | 234629 | [234629-box-roulette-simulator.json](./234629-box-roulette-simulator.json) |
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
