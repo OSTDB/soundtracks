@@ -147,7 +147,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
-| 1Bit Castle: Remake | 296672 | [296672-1bit-castle-remake.json](./296672-1bit-castle-remake.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
