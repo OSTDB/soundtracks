@@ -1996,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
 | Rusty Ride | 266794 | [266794-rusty-ride.json](./266794-rusty-ride.json) |
 | Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
+| Rusty Seas | 207319 | [207319-rusty-seas.json](./207319-rusty-seas.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
 | Rusty's Day Off: Episode One - Janitor on Duty | 249225 | [249225-rustys-day-off-episode-one-janitor-on-duty.json](./249225-rustys-day-off-episode-one-janitor-on-duty.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
