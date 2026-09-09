@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Total War Saga: Troy | 122649 | [122649-a-total-war-saga-troy.json](./122649-a-total-war-saga-troy.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
+| A True History of the Adamant Gambit | 188586 | [188586-a-true-history-of-the-adamant-gambit.json](./188586-a-true-history-of-the-adamant-gambit.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abrez | 368517 | [368517-abrez.json](./368517-abrez.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
+| Abridge | 188600 | [188600-abridge.json](./188600-abridge.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
 | Abrix for kids | 32440 | [32440-abrix-for-kids.json](./32440-abrix-for-kids.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
@@ -480,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
 | Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
+| Achtung Banditen?! | 188577 | [188577-achtung-banditen.json](./188577-achtung-banditen.json) |
 | Acid Bunny 2 | 394888 | [394888-acid-bunny-2.json](./394888-acid-bunny-2.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Factory | 316099 | [316099-acid-factory.json](./316099-acid-factory.json) |
@@ -1236,6 +1239,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Redacted | 299755 | [299755-aliens-redacted.json](./299755-aliens-redacted.json) |
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
+| Alik: Gry i zabawy | 188569 | [188569-alik-gry-i-zabawy.json](./188569-alik-gry-i-zabawy.json) |
+| Alik: Juz Ide Do Szkoly | 188561 | [188561-alik-juz-ide-do-szkoly.json](./188561-alik-juz-ide-do-szkoly.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
 | Aliosso | 288767 | [288767-aliosso.json](./288767-aliosso.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
@@ -1603,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
+| Andreas VII | 188588 | [188588-andreas-vii.json](./188588-andreas-vii.json) |
 | Andrew Lloyd Webber Musicals: Sing and Dance | 63874 | [63874-andrew-lloyd-webber-musicals-sing-and-dance.json](./63874-andrew-lloyd-webber-musicals-sing-and-dance.json) |
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
@@ -2424,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Arras.io | 327193 | [327193-arras-io.json](./327193-arras-io.json) |
 | Arraynium | 68716 | [68716-arraynium.json](./68716-arraynium.json) |
+| Arre Unicornio | 188583 | [188583-arre-unicornio.json](./188583-arre-unicornio.json) |
 | Arrest of a Stone Buddha | 122373 | [122373-arrest-of-a-stone-buddha.json](./122373-arrest-of-a-stone-buddha.json) |
 | Arrival | 256831 | [256831-arrival.json](./256831-arrival.json) |
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
