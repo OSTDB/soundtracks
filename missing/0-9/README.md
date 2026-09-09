@@ -161,7 +161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Late 2 Evade | 216773 | [216773-2-late-2-evade.json](./216773-2-late-2-evade.json) |
 | 2 of Me | 221177 | [221177-2-of-me.json](./221177-2-of-me.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
-| 2 Surfers | 200102 | [200102-2-surfers.json](./200102-2-surfers.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
 | 2 Times Circles | 149575 | [149575-2-times-circles.json](./149575-2-times-circles.json) |
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
