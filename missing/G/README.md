@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
+| Ghosts of War | 174822 | [174822-ghosts-of-war.json](./174822-ghosts-of-war.json) |
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
 | Ghostwinter | 148558 | [148558-ghostwinter.json](./148558-ghostwinter.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
