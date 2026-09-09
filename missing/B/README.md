@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
 | Bikkuriman 2000: Viva! Pocket Festival! | 43971 | [43971-bikkuriman-2000-viva-pocket-festival.json](./43971-bikkuriman-2000-viva-pocket-festival.json) |
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
+| Bilge Rat's Bounty | 180758 | [180758-bilge-rats-bounty.json](./180758-bilge-rats-bounty.json) |
 | Bilge Su Bullet Baroness | 364509 | [364509-bilge-su-bullet-baroness.json](./364509-bilge-su-bullet-baroness.json) |
 | Bilingual & Multilingual toddler: CognitoBaby | 96077 | [96077-bilingual-and-multilingual-toddler-cognitobaby.json](./96077-bilingual-and-multilingual-toddler-cognitobaby.json) |
 | Bilkins' Folly | 152909 | [152909-bilkins-folly.json](./152909-bilkins-folly.json) |
