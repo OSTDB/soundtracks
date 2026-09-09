@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Vermeer Pack | 210269 | [210269-farming-simulator-22-vermeer-pack.json](./210269-farming-simulator-22-vermeer-pack.json) |
 | Farming Simulator 23 Mobile | 250936 | [250936-farming-simulator-23-mobile.json](./250936-farming-simulator-23-mobile.json) |
 | Farming Simulator: Grow a Garden 2025 | 378801 | [378801-farming-simulator-grow-a-garden-2025.json](./378801-farming-simulator-grow-a-garden-2025.json) |
+| Farming Sweeper | 191201 | [191201-farming-sweeper.json](./191201-farming-sweeper.json) |
 | Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Farmnana Defence | 404863 | [404863-farmnana-defence.json](./404863-farmnana-defence.json) |
@@ -953,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Date: Late to Date | 210233 | [210233-first-date-late-to-date.json](./210233-first-date-late-to-date.json) |
 | First Flight | 307582 | [307582-first-flight.json](./307582-first-flight.json) |
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
+| First Light | 191155 | [191155-first-light.json](./191155-first-light.json) |
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
 | First Odium | 236010 | [236010-first-odium.json](./236010-first-odium.json) |
@@ -1899,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Warfare | 211938 | [211938-friendly-warfare.json](./211938-friendly-warfare.json) |
 | FriendOS | 374604 | [374604-friendos.json](./374604-friendos.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
+| Friends of Little Yus | 191158 | [191158-friends-of-little-yus.json](./191158-friends-of-little-yus.json) |
 | Friends Racing Duo | 212456 | [212456-friends-racing-duo.json](./212456-friends-racing-duo.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
