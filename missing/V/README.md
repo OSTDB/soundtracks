@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | vApe Escape | 115700 | [115700-vape-escape.json](./115700-vape-escape.json) |
 | Vapor Memories | 184122 | [184122-vapor-memories.json](./184122-vapor-memories.json) |
 | Vapor Tanks | 261786 | [261786-vapor-tanks.json](./261786-vapor-tanks.json) |
+| VaporLight: Drifter | 186267 | [186267-vaporlight-drifter.json](./186267-vaporlight-drifter.json) |
 | Vapour | 35849 | [35849-vapour.json](./35849-vapour.json) |
 | VarDragons | 57114 | [57114-vardragons.json](./57114-vardragons.json) |
 | Vareion | 245321 | [245321-vareion.json](./245321-vareion.json) |
@@ -608,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
+| Vortle | 186286 | [186286-vortle.json](./186286-vortle.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
 | Vox Battles | 282026 | [282026-vox-battles.json](./282026-vox-battles.json) |
@@ -627,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxelaxy | 51967 | [51967-voxelaxy.json](./51967-voxelaxy.json) |
 | Voxeldom | 62180 | [62180-voxeldom.json](./62180-voxeldom.json) |
 | Voxelgram 2 | 335067 | [335067-voxelgram-2.json](./335067-voxelgram-2.json) |
+| Voxella | 186249 | [186249-voxella.json](./186249-voxella.json) |
 | VoxelMaker | 85481 | [85481-voxelmaker.json](./85481-voxelmaker.json) |
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
@@ -660,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hybrid War 2117 | 75199 | [75199-vr-hybrid-war-2117.json](./75199-vr-hybrid-war-2117.json) |
 | VR Interior Designer Pro | 28921 | [28921-vr-interior-designer-pro.json](./28921-vr-interior-designer-pro.json) |
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
+| VR Kayaking Game | 186255 | [186255-vr-kayaking-game.json](./186255-vr-kayaking-game.json) |
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
 | VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
