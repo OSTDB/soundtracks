@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T07:03:46.310Z",
-  "total_missing": 49563,
+  "generated_at": "2026-09-09T07:11:06.997Z",
+  "total_missing": 49562,
   "games": [
     {
       "igdb_id": 306086,
@@ -621,11 +621,6 @@
       "igdb_id": 97895,
       "game_name": "16bit-Collection Jaleco Vol. 01",
       "file": "missing/0-9/97895-16bit-collection-jaleco-vol-01.json"
-    },
-    {
-      "igdb_id": 308282,
-      "game_name": "17 Bucks: Floor 1",
-      "file": "missing/0-9/308282-17-bucks-floor-1.json"
     },
     {
       "igdb_id": 183562,
