@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
 | Lawn & Order | 177021 | [177021-lawn-and-order.json](./177021-lawn-and-order.json) |
 | Lawn Mowing Simulator VR | 284830 | [284830-lawn-mowing-simulator-vr.json](./284830-lawn-mowing-simulator-vr.json) |
+| Lawn Mowing Simulator: Landmark Edition | 201779 | [201779-lawn-mowing-simulator-landmark-edition.json](./201779-lawn-mowing-simulator-landmark-edition.json) |
 | Lawnarchy | 195203 | [195203-lawnarchy.json](./195203-lawnarchy.json) |
 | LawnMower City | 186290 | [186290-lawnmower-city.json](./186290-lawnmower-city.json) |
 | Lawnmower Day | 340903 | [340903-lawnmower-day.json](./340903-lawnmower-day.json) |
