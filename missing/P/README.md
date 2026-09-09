@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
 | Pallet | 250971 | [250971-pallet.json](./250971-pallet.json) |
+| Palliative: Reach for an Angel | 191194 | [191194-palliative-reach-for-an-angel.json](./191194-palliative-reach-for-an-angel.json) |
 | Palm Reading Premium | 111056 | [111056-palm-reading-premium.json](./111056-palm-reading-premium.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
@@ -1189,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
+| Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
 | Pivoting People | 105942 | [105942-pivoting-people.json](./105942-pivoting-people.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
@@ -1731,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Pole Position | 5691 | [5691-pole-position.json](./5691-pole-position.json) |
 | Polegli | 57115 | [57115-polegli.json](./57115-polegli.json) |
+| Polgar: Magic Detective | 191175 | [191175-polgar-magic-detective.json](./191175-polgar-magic-detective.json) |
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
@@ -2705,6 +2708,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
+| Puzzle Art: Horses | 191207 | [191207-puzzle-art-horses.json](./191207-puzzle-art-horses.json) |
+| Puzzle Art: Rodents | 191208 | [191208-puzzle-art-rodents.json](./191208-puzzle-art-rodents.json) |
 | Puzzle Ball Z | 384509 | [384509-puzzle-ball-z.json](./384509-puzzle-ball-z.json) |
 | Puzzle Balls | 268478 | [268478-puzzle-balls.json](./268478-puzzle-balls.json) |
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
