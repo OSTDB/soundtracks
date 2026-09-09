@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopus | 287659 | [287659-octopus.json](./287659-octopus.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
 | Octopus Evolution | 206733 | [206733-octopus-evolution.json](./206733-octopus-evolution.json) |
+| Octorabbit | 181319 | [181319-octorabbit.json](./181319-octorabbit.json) |
 | Octov | 25754 | [25754-octov.json](./25754-octov.json) |
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
 | OD: Knock | 279637 | [279637-od-knock.json](./279637-od-knock.json) |
@@ -737,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
 | Orcs and Outlaws | 332995 | [332995-orcs-and-outlaws.json](./332995-orcs-and-outlaws.json) |
+| Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
