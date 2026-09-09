@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T15:21:10.716Z",
-  "total_missing": 50938,
+  "generated_at": "2026-09-09T15:31:09.285Z",
+  "total_missing": 50939,
   "games": [
     {
       "igdb_id": 306086,
@@ -886,11 +886,6 @@
       "igdb_id": 124274,
       "game_name": "2048 Battles",
       "file": "missing/0-9/124274-2048-battles.json"
-    },
-    {
-      "igdb_id": 235229,
-      "game_name": "2048 Card Game",
-      "file": "missing/0-9/235229-2048-card-game.json"
     },
     {
       "igdb_id": 308226,
@@ -8761,6 +8756,11 @@
       "igdb_id": 216465,
       "game_name": "All Hands on Deck",
       "file": "missing/A/216465-all-hands-on-deck.json"
+    },
+    {
+      "igdb_id": 183557,
+      "game_name": "All Humans Must Die!",
+      "file": "missing/A/183557-all-humans-must-die.json"
     },
     {
       "igdb_id": 302693,
@@ -213881,6 +213881,11 @@
       "igdb_id": 260139,
       "game_name": "The 64 kb challenge: Vanilla",
       "file": "missing/T/260139-the-64-kb-challenge-vanilla.json"
+    },
+    {
+      "igdb_id": 183558,
+      "game_name": "The 7 Cents Deal",
+      "file": "missing/T/183558-the-7-cents-deal.json"
     },
     {
       "igdb_id": 330719,
