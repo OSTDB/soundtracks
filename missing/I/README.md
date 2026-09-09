@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iga Ninden Ga-ou | 55899 | [55899-iga-ninden-ga-ou.json](./55899-iga-ninden-ga-ou.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
 | Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
+| Ignis Corruption | 196241 | [196241-ignis-corruption.json](./196241-ignis-corruption.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
