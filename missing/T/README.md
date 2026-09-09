@@ -112,6 +112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tail Gunner | 307611 | [307611-tail-gunner.json](./307611-tail-gunner.json) |
 | Tail of Glory | 390513 | [390513-tail-of-glory.json](./390513-tail-of-glory.json) |
 | Tail of the Sun | 20814 | [20814-tail-of-the-sun.json](./20814-tail-of-the-sun.json) |
+| Tailed Demon Slayer | 174824 | [174824-tailed-demon-slayer.json](./174824-tailed-demon-slayer.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
 | Tailor Tales: Gray Plus | 305543 | [305543-tailor-tales-gray-plus.json](./305543-tailor-tales-gray-plus.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 2 | 313510 | [313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json](./313510-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-2.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles - DLC 3 | 313511 | [313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json](./313511-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-dlc-3.json) |
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles: Digital Deluxe Edition | 313133 | [313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json](./313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json) |
+| That Time I Got Reincarnated as a Slime: The Saga of How the Demon Lord and Dragon Founded a Nation | 174820 | [174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json](./174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json) |
 | That Time in '88 | 181345 | [181345-that-time-in-88.json](./181345-that-time-in-88.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
 | That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
@@ -4986,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
+| Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
