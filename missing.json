@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T18:18:43.396Z",
-  "total_missing": 51388,
+  "generated_at": "2026-09-09T18:21:04.456Z",
+  "total_missing": 51387,
   "games": [
     {
       "igdb_id": 306086,
@@ -976,11 +976,6 @@
       "igdb_id": 261789,
       "game_name": "2BBee",
       "file": "missing/0-9/261789-2bbee.json"
-    },
-    {
-      "igdb_id": 256275,
-      "game_name": "2D Dogfight",
-      "file": "missing/0-9/256275-2d-dogfight.json"
     },
     {
       "igdb_id": 301007,
