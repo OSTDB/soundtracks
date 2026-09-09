@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umami Island | 214503 | [214503-umami-island.json](./214503-umami-island.json) |
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
 | Umblight | 313487 | [313487-umblight.json](./313487-umblight.json) |
+| Umbra | 202338 | [202338-umbra.json](./202338-umbra.json) |
 | Umbra | 95415 | [95415-umbra.json](./95415-umbra.json) |
 | Umbra Fields | 272571 | [272571-umbra-fields.json](./272571-umbra-fields.json) |
 | Umbra Sepulcri | 215678 | [215678-umbra-sepulcri.json](./215678-umbra-sepulcri.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
+| Unknown Exist | 202339 | [202339-unknown-exist.json](./202339-unknown-exist.json) |
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
 | Unknown Presence | 274508 | [274508-unknown-presence.json](./274508-unknown-presence.json) |
@@ -464,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled John Wick Game | 389438 | [389438-untitled-john-wick-game.json](./389438-untitled-john-wick-game.json) |
 | Untitled Kirby Game | 245009 | [245009-untitled-kirby-game.json](./245009-untitled-kirby-game.json) |
 | Untitled Kirby Game | 245010 | [245010-untitled-kirby-game.json](./245010-untitled-kirby-game.json) |
+| Untitled One | 202340 | [202340-untitled-one.json](./202340-untitled-one.json) |
 | Untitled Paper Mario Fangame | 266509 | [266509-untitled-paper-mario-fangame.json](./266509-untitled-paper-mario-fangame.json) |
 | Untitled Racing Game | 219063 | [219063-untitled-racing-game.json](./219063-untitled-racing-game.json) |
 | Untitled Space Game | 153441 | [153441-untitled-space-game.json](./153441-untitled-space-game.json) |
@@ -481,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwavering Love | 405465 | [405465-unwavering-love.json](./405465-unwavering-love.json) |
 | Unwelcome Guest | 337453 | [337453-unwelcome-guest.json](./337453-unwelcome-guest.json) |
 | Uoris DX | 147475 | [147475-uoris-dx.json](./147475-uoris-dx.json) |
+| Uotamuosu | 202341 | [202341-uotamuosu.json](./202341-uotamuosu.json) |
 | Up | 210281 | [210281-up.json](./210281-up.json) |
 | Up | 228708 | [228708-up.json](./228708-up.json) |
 | Up & Down | 312568 | [312568-up-and-down.json](./312568-up-and-down.json) |
@@ -552,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Us & Them | 17118 | [17118-us-and-them.json](./17118-us-and-them.json) |
 | US Coin | 86702 | [86702-us-coin.json](./86702-us-coin.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
+| Usagi | 202342 | [202342-usagi.json](./202342-usagi.json) |
 | Usagi Health Club | 207339 | [207339-usagi-health-club.json](./207339-usagi-health-club.json) |
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
