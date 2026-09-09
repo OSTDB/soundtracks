@@ -55,6 +55,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Empire: Limited Edition | 47318 | [47318-jade-empire-limited-edition.json](./47318-jade-empire-limited-edition.json) |
 | Jade Guardian | 310186 | [310186-jade-guardian.json](./310186-jade-guardian.json) |
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
+| Jade Wolf | 197899 | [197899-jade-wolf.json](./197899-jade-wolf.json) |
+| Jade Wolf 2 | 197900 | [197900-jade-wolf-2.json](./197900-jade-wolf-2.json) |
 | Jaded | 197962 | [197962-jaded.json](./197962-jaded.json) |
 | Jagged Alliance 2 Platinum | 53252 | [53252-jagged-alliance-2-platinum.json](./53252-jagged-alliance-2-platinum.json) |
 | Jagged Alliance 2: Wildfire | 10466 | [10466-jagged-alliance-2-wildfire.json](./10466-jagged-alliance-2-wildfire.json) |
@@ -134,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JB Hairboll in: Murder Flub | 59414 | [59414-jb-hairboll-in-murder-flub.json](./59414-jb-hairboll-in-murder-flub.json) |
 | JBomb | 340769 | [340769-jbomb.json](./340769-jbomb.json) |
 | JCB Digger | 13730 | [13730-jcb-digger.json](./13730-jcb-digger.json) |
+| Jean's Club | 197845 | [197845-jeans-club.json](./197845-jeans-club.json) |
 | Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
 | Jeepney Frenzy | 176468 | [176468-jeepney-frenzy.json](./176468-jeepney-frenzy.json) |
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
@@ -630,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice Became Prey | 351596 | [351596-justice-became-prey.json](./351596-justice-became-prey.json) |
 | Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
 | Justice League | 220121 | [220121-justice-league.json](./220121-justice-league.json) |
+| Justice League Heroes | 197882 | [197882-justice-league-heroes.json](./197882-justice-league-heroes.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
 | Justice Xwar Online 2 | 117712 | [117712-justice-xwar-online-2.json](./117712-justice-xwar-online-2.json) |
 | Justice.exe | 132238 | [132238-justice-exe.json](./132238-justice-exe.json) |
