@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Without Master | 349839 | [349839-meat-without-master.json](./349839-meat-without-master.json) |
 | Meatlock | 399012 | [399012-meatlock.json](./399012-meatlock.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
+| Mebius Adventure | 206172 | [206172-mebius-adventure.json](./206172-mebius-adventure.json) |
 | Mech Ace Combat Trainer | 31880 | [31880-mech-ace-combat-trainer.json](./31880-mech-ace-combat-trainer.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
@@ -1118,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Drive Mini 2 | 215702 | [215702-mega-drive-mini-2.json](./215702-mega-drive-mini-2.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
+| Mega Man 2 Lite | 206149 | [206149-mega-man-2-lite.json](./206149-mega-man-2-lite.json) |
 | Mega Man 2 Randomizer | 324885 | [324885-mega-man-2-randomizer.json](./324885-mega-man-2-randomizer.json) |
 | Mega Man 2: The Power Fighters | 1725 | [1725-mega-man-2-the-power-fighters.json](./1725-mega-man-2-the-power-fighters.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
@@ -1487,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug Collection | 51223 | [51223-metal-slug-collection.json](./51223-metal-slug-collection.json) |
 | Metal Slug Revolution | 98432 | [98432-metal-slug-revolution.json](./98432-metal-slug-revolution.json) |
 | Metal Slug SB Fanthology | 324895 | [324895-metal-slug-sb-fanthology.json](./324895-metal-slug-sb-fanthology.json) |
+| Metal Soldiers 3 | 206126 | [206126-metal-soldiers-3.json](./206126-metal-soldiers-3.json) |
 | Metal Sonic in Sonic 3 & Knuckles | 129187 | [129187-metal-sonic-in-sonic-3-and-knuckles.json](./129187-metal-sonic-in-sonic-3-and-knuckles.json) |
 | Metal Sonic in Sonic the Hedgehog | 198525 | [198525-metal-sonic-in-sonic-the-hedgehog.json](./198525-metal-sonic-in-sonic-the-hedgehog.json) |
 | Metal Sonic in Sonic the Hedgehog 2 | 129186 | [129186-metal-sonic-in-sonic-the-hedgehog-2.json](./129186-metal-sonic-in-sonic-the-hedgehog-2.json) |
@@ -3216,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Heaven's Dale | 343267 | [343267-my-heavens-dale.json](./343267-my-heavens-dale.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
+| My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
 | My Home Design: Makeover Games | 239043 | [239043-my-home-design-makeover-games.json](./239043-my-home-design-makeover-games.json) |
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
