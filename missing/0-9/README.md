@@ -205,7 +205,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2BBee | 261789 | [261789-2bbee.json](./261789-2bbee.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
-| 2K Ball N' Brawl | 155095 | [155095-2k-ball-n-brawl.json](./155095-2k-ball-n-brawl.json) |
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
 | 2Metal | 331359 | [331359-2metal.json](./331359-2metal.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
