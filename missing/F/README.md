@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
+| Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
@@ -979,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
 | Fish Tank Live | 230849 | [230849-fish-tank-live.json](./230849-fish-tank-live.json) |
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
+| Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
 | Fisher-Price Dream Dollhouse | 228449 | [228449-fisher-price-dream-dollhouse.json](./228449-fisher-price-dream-dollhouse.json) |
 | Fisher-Price: I Can Remember | 26659 | [26659-fisher-price-i-can-remember.json](./26659-fisher-price-i-can-remember.json) |
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
