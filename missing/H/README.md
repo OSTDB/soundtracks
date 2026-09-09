@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven Park | 146631 | [146631-haven-park.json](./146631-haven-park.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
 | Haven: The Leader | 298292 | [298292-haven-the-leader.json](./298292-haven-the-leader.json) |
+| Havenhold | 204445 | [204445-havenhold.json](./204445-havenhold.json) |
 | Havenview | 219814 | [219814-havenview.json](./219814-havenview.json) |
 | Havoc Runner | 148557 | [148557-havoc-runner.json](./148557-havoc-runner.json) |
 | Havsala: Into the Soul Palace | 193493 | [193493-havsala-into-the-soul-palace.json](./193493-havsala-into-the-soul-palace.json) |
@@ -1581,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
 | Hoshi & Ishi | 76673 | [76673-hoshi-and-ishi.json](./76673-hoshi-and-ishi.json) |
 | Hoshi no Kakera no Monogatari. Shikake-ban | 220328 | [220328-hoshi-no-kakera-no-monogatari-shikake-ban.json](./220328-hoshi-no-kakera-no-monogatari-shikake-ban.json) |
+| Hoshi no Mahoroba | 204481 | [204481-hoshi-no-mahoroba.json](./204481-hoshi-no-mahoroba.json) |
 | Hoshi no Natchan | 285452 | [285452-hoshi-no-natchan.json](./285452-hoshi-no-natchan.json) |
 | Hoshi wo Miru Hito | 25016 | [25016-hoshi-wo-miru-hito.json](./25016-hoshi-wo-miru-hito.json) |
 | Hoshi wo Miru Hito: Bad Ebuna Patch 2 | 269869 | [269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json](./269869-hoshi-wo-miru-hito-bad-ebuna-patch-2.json) |
@@ -1619,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Runback: VR Runner | 68656 | [68656-hot-runback-vr-runner.json](./68656-hot-runback-vr-runner.json) |
 | Hot Shot | 317877 | [317877-hot-shot.json](./317877-hot-shot.json) |
 | Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
+| Hot Shots Golf Fore! | 204439 | [204439-hot-shots-golf-fore.json](./204439-hot-shots-golf-fore.json) |
 | Hot Shots Golf: Open Tee 2 | 21050 | [21050-hot-shots-golf-open-tee-2.json](./21050-hot-shots-golf-open-tee-2.json) |
 | Hot Shots Soccer | 101570 | [101570-hot-shots-soccer.json](./101570-hot-shots-soccer.json) |
 | Hot Slide | 152920 | [152920-hot-slide.json](./152920-hot-slide.json) |
