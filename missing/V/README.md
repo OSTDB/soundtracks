@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.O.I.D.: Vexation of Infinite Dungeons | 245886 | [245886-v-o-i-d-vexation-of-infinite-dungeons.json](./245886-v-o-i-d-vexation-of-infinite-dungeons.json) |
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
 | V64 | 283733 | [283733-v64.json](./283733-v64.json) |
+| V696 | 186819 | [186819-v696.json](./186819-v696.json) |
 | V8 Challenge | 69886 | [69886-v8-challenge.json](./69886-v8-challenge.json) |
 | Vacation Isle Beach Party | 50601 | [50601-vacation-isle-beach-party.json](./50601-vacation-isle-beach-party.json) |
 | Vacation Paradise: Florida - Collector's Edition | 254785 | [254785-vacation-paradise-florida-collectors-edition.json](./254785-vacation-paradise-florida-collectors-edition.json) |
@@ -471,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
+| VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
 | Virus: The Outbreak | 147478 | [147478-virus-the-outbreak.json](./147478-virus-the-outbreak.json) |
@@ -638,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
 | VR Angry Cow Farm Simulator | 109021 | [109021-vr-angry-cow-farm-simulator.json](./109021-vr-angry-cow-farm-simulator.json) |
 | VR Animal Kids Rumble | 371902 | [371902-vr-animal-kids-rumble.json](./371902-vr-animal-kids-rumble.json) |
+| VR Async Balls | 186832 | [186832-vr-async-balls.json](./186832-vr-async-balls.json) |
 | VR Baseball - Home Run Competition | 33105 | [33105-vr-baseball-home-run-competition.json](./33105-vr-baseball-home-run-competition.json) |
 | VR Baseball '97 | 20819 | [20819-vr-baseball-97.json](./20819-vr-baseball-97.json) |
 | VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
