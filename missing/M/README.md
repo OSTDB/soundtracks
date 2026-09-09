@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
 | Memories of a Vagabond | 17534 | [17534-memories-of-a-vagabond.json](./17534-memories-of-a-vagabond.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
+| Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
 | Memories of War: Undead Decimation | 169456 | [169456-memories-of-war-undead-decimation.json](./169456-memories-of-war-undead-decimation.json) |
 | Memories Off | 288774 | [288774-memories-off.json](./288774-memories-off.json) |
 | Memories Off #5: Togireta Film | 288770 | [288770-memories-off-5-togireta-film.json](./288770-memories-off-5-togireta-film.json) |
@@ -1454,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
+| Mercury Abbey | 172701 | [172701-mercury-abbey.json](./172701-mercury-abbey.json) |
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
 | Mercury Prime | 157675 | [157675-mercury-prime.json](./157675-mercury-prime.json) |
 | Mercury Rising | 332809 | [332809-mercury-rising.json](./332809-mercury-rising.json) |
@@ -1747,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
 | Middle Kingdom | 356658 | [356658-middle-kingdom.json](./356658-middle-kingdom.json) |
 | Midgard Outlaw | 201233 | [201233-midgard-outlaw.json](./201233-midgard-outlaw.json) |
+| Midinous | 173225 | [173225-midinous.json](./173225-midinous.json) |
 | Midio! | 336919 | [336919-midio.json](./336919-midio.json) |
 | Midline '85 | 247738 | [247738-midline-85.json](./247738-midline-85.json) |
 | Midnight Arcade | 344364 | [344364-midnight-arcade.json](./344364-midnight-arcade.json) |
@@ -2717,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Blue Legend Remake | 394175 | [394175-moon-blue-legend-remake.json](./394175-moon-blue-legend-remake.json) |
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
+| Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
