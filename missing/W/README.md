@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Mess | 91982 | [91982-word-mess.json](./91982-word-mess.json) |
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
+| Word of the Law: Death Mask - Collector's Edition | 186850 | [186850-word-of-the-law-death-mask-collectors-edition.json](./186850-word-of-the-law-death-mask-collectors-edition.json) |
 | Word On The Hook | 304022 | [304022-word-on-the-hook.json](./304022-word-on-the-hook.json) |
 | Word Party | 85494 | [85494-word-party.json](./85494-word-party.json) |
 | Word Quest Fantasy | 385067 | [385067-word-quest-fantasy.json](./385067-word-quest-fantasy.json) |
