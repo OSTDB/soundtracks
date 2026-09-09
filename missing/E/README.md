@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Eye Mysteries | 70962 | [70962-eagle-eye-mysteries.json](./70962-eagle-eye-mysteries.json) |
 | Eagle Island | 28774 | [28774-eagle-island.json](./28774-eagle-island.json) |
 | Eagle Knight Paradox | 217549 | [217549-eagle-knight-paradox.json](./217549-eagle-knight-paradox.json) |
+| Eagle Simulator | 186817 | [186817-eagle-simulator.json](./186817-eagle-simulator.json) |
 | Eagle Simulator | 86727 | [86727-eagle-simulator.json](./86727-eagle-simulator.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
 | Eared Hero | 68194 | [68194-eared-hero.json](./68194-eared-hero.json) |
@@ -1242,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExorSYS | 335245 | [335245-exorsys.json](./335245-exorsys.json) |
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
+| Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
 | Expand | 18474 | [18474-expand.json](./18474-expand.json) |
 | Expand & Exterminate: Terrytorial Disputes - Endless Base Defense | 367935 | [367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json](./367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json) |
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
