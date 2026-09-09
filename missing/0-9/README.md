@@ -206,9 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
-| 2Metal | 331359 | [331359-2metal.json](./331359-2metal.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
-| 2Week: Death World | 199087 | [199087-2week-death-world.json](./199087-2week-death-world.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
 | 2x0ng | 342039 | [342039-2x0ng.json](./342039-2x0ng.json) |
 | 2XL Supercross HD | 96726 | [96726-2xl-supercross-hd.json](./96726-2xl-supercross-hd.json) |
