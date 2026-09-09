@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T19:03:57.559Z",
-  "total_missing": 51519,
+  "generated_at": "2026-09-09T19:11:05.466Z",
+  "total_missing": 51518,
   "games": [
     {
       "igdb_id": 306086,
@@ -1006,11 +1006,6 @@
       "igdb_id": 77361,
       "game_name": "2urvive",
       "file": "missing/0-9/77361-2urvive.json"
-    },
-    {
-      "igdb_id": 199087,
-      "game_name": "2Week: Death World",
-      "file": "missing/0-9/199087-2week-death-world.json"
     },
     {
       "igdb_id": 147439,
