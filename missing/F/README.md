@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Logic: Fly Fishing - The Green River | 209463 | [209463-fly-logic-fly-fishing-the-green-river.json](./209463-fly-logic-fly-fishing-the-green-river.json) |
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
 | Fly the Plane | 263494 | [263494-fly-the-plane.json](./263494-fly-the-plane.json) |
+| FLY: Forever Loving You | 179676 | [179676-fly-forever-loving-you.json](./179676-fly-forever-loving-you.json) |
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
 | Fly! 2K | 93065 | [93065-fly-2k.json](./93065-fly-2k.json) |
 | Fly2k | 391578 | [391578-fly2k.json](./391578-fly2k.json) |
