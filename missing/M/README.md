@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse | 78680 | [78680-mickey-mouse.json](./78680-mickey-mouse.json) |
 | Mickey Mouse Clubhouse | 228442 | [228442-mickey-mouse-clubhouse.json](./228442-mickey-mouse-clubhouse.json) |
 | Mickey Mouse IV: Mahou no Labyrinth | 153451 | [153451-mickey-mouse-iv-mahou-no-labyrinth.json](./153451-mickey-mouse-iv-mahou-no-labyrinth.json) |
+| Mickey Mouse Murder House | 199064 | [199064-mickey-mouse-murder-house.json](./199064-mickey-mouse-murder-house.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
 | Mickey's Speedway USA | 3408 | [3408-mickeys-speedway-usa.json](./3408-mickeys-speedway-usa.json) |
 | Mickey's Speedway USA: Huey | 248304 | [248304-mickeys-speedway-usa-huey.json](./248304-mickeys-speedway-usa-huey.json) |
@@ -2740,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
 | Mortal Kombat II | 299167 | [299167-mortal-kombat-ii.json](./299167-mortal-kombat-ii.json) |
 | Mortal Kombat Mobile | 305553 | [305553-mortal-kombat-mobile.json](./305553-mortal-kombat-mobile.json) |
+| Mortal Kombat Trilogy | 199010 | [199010-mortal-kombat-trilogy.json](./199010-mortal-kombat-trilogy.json) |
 | Mortal Kombat Trilogy | 4121 | [4121-mortal-kombat-trilogy.json](./4121-mortal-kombat-trilogy.json) |
 | Mortal Kombat X: Apocalypse Pack | 302667 | [302667-mortal-kombat-x-apocalypse-pack.json](./302667-mortal-kombat-x-apocalypse-pack.json) |
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
@@ -3249,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Girlfriend is a Mermaid!? Refine: Limited Edition | 188645 | [188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json](./188645-my-girlfriend-is-a-mermaid-refine-limited-edition.json) |
 | My Girlfriend's Special Place | 240481 | [240481-my-girlfriends-special-place.json](./240481-my-girlfriends-special-place.json) |
 | My Goddess of Love | 114406 | [114406-my-goddess-of-love.json](./114406-my-goddess-of-love.json) |
+| My Hayami-Chan | 199040 | [199040-my-hayami-chan.json](./199040-my-hayami-chan.json) |
 | My Head On Your Body | 292316 | [292316-my-head-on-your-body.json](./292316-my-head-on-your-body.json) |
 | My Heaven's Dale | 343267 | [343267-my-heavens-dale.json](./343267-my-heavens-dale.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
