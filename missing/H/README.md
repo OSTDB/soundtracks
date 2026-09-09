@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart&Slash | 17911 | [17911-heart-and-slash.json](./17911-heart-and-slash.json) |
 | Heartache | 57687 | [57687-heartache.json](./57687-heartache.json) |
 | Heartbaked | 177504 | [177504-heartbaked.json](./177504-heartbaked.json) |
+| Heartbeat | 176978 | [176978-heartbeat.json](./176978-heartbeat.json) |
 | Heartbeat at Midnight | 407310 | [407310-heartbeat-at-midnight.json](./407310-heartbeat-at-midnight.json) |
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
 | Heartbeats | 338206 | [338206-heartbeats.json](./338206-heartbeats.json) |
