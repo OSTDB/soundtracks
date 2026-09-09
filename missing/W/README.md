@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirlybird | 230852 | [230852-whirlybird.json](./230852-whirlybird.json) |
 | Whisker Waters | 266497 | [266497-whisker-waters.json](./266497-whisker-waters.json) |
 | Whiskered Away | 196888 | [196888-whiskered-away.json](./196888-whiskered-away.json) |
+| Whiskers | 180237 | [180237-whiskers.json](./180237-whiskers.json) |
 | Whiskers | 272300 | [272300-whiskers.json](./272300-whiskers.json) |
 | Whiskers in the Dark | 309131 | [309131-whiskers-in-the-dark.json](./309131-whiskers-in-the-dark.json) |
 | Whiskers on Time's Corner | 370098 | [370098-whiskers-on-times-corner.json](./370098-whiskers-on-times-corner.json) |
@@ -714,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Dream | 314059 | [314059-whispering-dream.json](./314059-whispering-dream.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
+| Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers of The Abyss | 301269 | [301269-whispers-of-the-abyss.json](./301269-whispers-of-the-abyss.json) |
 | Whispers of The Shadow | 312550 | [312550-whispers-of-the-shadow.json](./312550-whispers-of-the-shadow.json) |
