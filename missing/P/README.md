@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Corps: US Corps | 124806 | [124806-panzer-corps-us-corps.json](./124806-panzer-corps-us-corps.json) |
 | Panzer Crew VR | 132273 | [132273-panzer-crew-vr.json](./132273-panzer-crew-vr.json) |
 | Panzer Dragoon | 199012 | [199012-panzer-dragoon.json](./199012-panzer-dragoon.json) |
+| Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
@@ -1153,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Girls | 243156 | [243156-pink-girls.json](./243156-pink-girls.json) |
 | Pink Marmalade | 184627 | [184627-pink-marmalade.json](./184627-pink-marmalade.json) |
 | Pinky and the Brain: The Master Plan | 49360 | [49360-pinky-and-the-brain-the-master-plan.json](./49360-pinky-and-the-brain-the-master-plan.json) |
+| Pinky Promise Manifesto | 176440 | [176440-pinky-promise-manifesto.json](./176440-pinky-promise-manifesto.json) |
 | Pinky Xmas | 340207 | [340207-pinky-xmas.json](./340207-pinky-xmas.json) |
 | Pinnacle of Darkness | 274202 | [274202-pinnacle-of-darkness.json](./274202-pinnacle-of-darkness.json) |
 | Pinnacle Point | 291463 | [291463-pinnacle-point.json](./291463-pinnacle-point.json) |
@@ -2815,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
 | Puzzle Series Vol. 12: Akari | 184569 | [184569-puzzle-series-vol-12-akari.json](./184569-puzzle-series-vol-12-akari.json) |
+| Puzzle Sigma | 176420 | [176420-puzzle-sigma.json](./176420-puzzle-sigma.json) |
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Stampede | 26605 | [26605-puzzle-stampede.json](./26605-puzzle-stampede.json) |
 | Puzzle Star Sweep | 44744 | [44744-puzzle-star-sweep.json](./44744-puzzle-star-sweep.json) |
