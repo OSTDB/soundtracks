@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invert by SlushyRh | 265144 | [265144-invert-by-slushyrh.json](./265144-invert-by-slushyrh.json) |
 | Invert: Tile Flipping Puzzles | 82953 | [82953-invert-tile-flipping-puzzles.json](./82953-invert-tile-flipping-puzzles.json) |
 | Inverted | 32209 | [32209-inverted.json](./32209-inverted.json) |
+| Inverted Space | 176990 | [176990-inverted-space.json](./176990-inverted-space.json) |
 | Investation | 92527 | [92527-investation.json](./92527-investation.json) |
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
 | Investigator | 32526 | [32526-investigator.json](./32526-investigator.json) |
