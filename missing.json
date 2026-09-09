@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T18:48:51.146Z",
-  "total_missing": 51471,
+  "generated_at": "2026-09-09T18:51:04.207Z",
+  "total_missing": 51470,
   "games": [
     {
       "igdb_id": 306086,
@@ -996,11 +996,6 @@
       "igdb_id": 115044,
       "game_name": "2D Zombie Survival",
       "file": "missing/0-9/115044-2d-zombie-survival.json"
-    },
-    {
-      "igdb_id": 155095,
-      "game_name": "2K Ball N' Brawl",
-      "file": "missing/0-9/155095-2k-ball-n-brawl.json"
     },
     {
       "igdb_id": 319564,
