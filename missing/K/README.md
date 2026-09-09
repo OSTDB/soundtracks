@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
+| King Safety | 197320 | [197320-king-safety.json](./197320-king-safety.json) |
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
 | King Tut’s Tomb | 366263 | [366263-king-tut-s-tomb.json](./366263-king-tut-s-tomb.json) |
