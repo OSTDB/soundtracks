@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T03:21:11.121Z",
-  "total_missing": 49055,
+  "generated_at": "2026-09-09T03:31:05.333Z",
+  "total_missing": 49057,
   "games": [
     {
       "igdb_id": 306086,
@@ -501,11 +501,6 @@
       "igdb_id": 252993,
       "game_name": "1201",
       "file": "missing/0-9/252993-1201.json"
-    },
-    {
-      "igdb_id": 98421,
-      "game_name": "121 N",
-      "file": "missing/0-9/98421-121-n.json"
     },
     {
       "igdb_id": 232183,
@@ -130518,6 +130513,11 @@
       "file": "missing/M/59990-moero-nettou-yakyuu-88.json"
     },
     {
+      "igdb_id": 204490,
+      "game_name": "Moeru Danmaku STG Moedan",
+      "file": "missing/M/204490-moeru-danmaku-stg-moedan.json"
+    },
+    {
       "igdb_id": 213382,
       "game_name": "Mogeko Castle",
       "file": "missing/M/213382-mogeko-castle.json"
@@ -164016,6 +164016,11 @@
       "igdb_id": 233215,
       "game_name": "Rainmaker: Ultimate Trading Game",
       "file": "missing/R/233215-rainmaker-ultimate-trading-game.json"
+    },
+    {
+      "igdb_id": 204491,
+      "game_name": "Rainshade",
+      "file": "missing/R/204491-rainshade.json"
     },
     {
       "igdb_id": 143090,
@@ -222476,6 +222481,11 @@
       "igdb_id": 246678,
       "game_name": "Touhou Saikotan: Servants of Harvest Wish",
       "file": "missing/T/246678-touhou-saikotan-servants-of-harvest-wish.json"
+    },
+    {
+      "igdb_id": 204492,
+      "game_name": "Touhou Seicross",
+      "file": "missing/T/204492-touhou-seicross.json"
     },
     {
       "igdb_id": 195794,
