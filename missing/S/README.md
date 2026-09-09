@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seedbo And That Time The Sun Exploded | 325829 | [325829-seedbo-and-that-time-the-sun-exploded.json](./325829-seedbo-and-that-time-the-sun-exploded.json) |
 | Seeds Life | 25756 | [25756-seeds-life.json](./25756-seeds-life.json) |
 | Seeds of Calamity | 194561 | [194561-seeds-of-calamity.json](./194561-seeds-of-calamity.json) |
+| Seeds of Hope: The Last Stand | 184561 | [184561-seeds-of-hope-the-last-stand.json](./184561-seeds-of-hope-the-last-stand.json) |
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
@@ -1431,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shine's Adventures 2 (Zombie Attack) | 120372 | [120372-shines-adventures-2-zombie-attack.json](./120372-shines-adventures-2-zombie-attack.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
 | ShineG Has Nightmares | 68675 | [68675-shineg-has-nightmares.json](./68675-shineg-has-nightmares.json) |
+| Shines Over | 184589 | [184589-shines-over.json](./184589-shines-over.json) |
 | Shingata Kururin Pa! | 228065 | [228065-shingata-kururin-pa.json](./228065-shingata-kururin-pa.json) |
 | Shingen the Ruler | 48085 | [48085-shingen-the-ruler.json](./48085-shingen-the-ruler.json) |
 | Shinies: Call of Light | 200167 | [200167-shinies-call-of-light.json](./200167-shinies-call-of-light.json) |
@@ -2147,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slash Arena: Online | 51943 | [51943-slash-arena-online.json](./51943-slash-arena-online.json) |
 | Slash of Sword 2 | 254157 | [254157-slash-of-sword-2.json](./254157-slash-of-sword-2.json) |
 | Slashboy | 333393 | [333393-slashboy.json](./333393-slashboy.json) |
+| Slasher Lock | 184593 | [184593-slasher-lock.json](./184593-slasher-lock.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
 | Slashvival | 115001 | [115001-slashvival.json](./115001-slashvival.json) |
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
@@ -2391,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoothie Galaxy | 182518 | [182518-smoothie-galaxy.json](./182518-smoothie-galaxy.json) |
 | Smoothie Swipe | 248646 | [248646-smoothie-swipe.json](./248646-smoothie-swipe.json) |
 | Smoots World Cup Tennis | 24720 | [24720-smoots-world-cup-tennis.json](./24720-smoots-world-cup-tennis.json) |
+| Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
 | Smuggler's Cove | 294730 | [294730-smugglers-cove.json](./294730-smugglers-cove.json) |
 | Smurfen | 366256 | [366256-smurfen.json](./366256-smurfen.json) |
 | Smurfs Balls Adventure | 343825 | [343825-smurfs-balls-adventure.json](./343825-smurfs-balls-adventure.json) |
@@ -3102,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
 | Sorrowself | 143731 | [143731-sorrowself.json](./143731-sorrowself.json) |
 | Sorry About The Mess | 414322 | [414322-sorry-about-the-mess.json](./414322-sorry-about-the-mess.json) |
+| Sorry Sir, I'm out of controls | 184581 | [184581-sorry-sir-im-out-of-controls.json](./184581-sorry-sir-im-out-of-controls.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | Sorted! | 219586 | [219586-sorted.json](./219586-sorted.json) |
@@ -3880,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeen's Adventure 3: Across The Cosmos | 242255 | [242255-squeens-adventure-3-across-the-cosmos.json](./242255-squeens-adventure-3-across-the-cosmos.json) |
 | Squeezils | 206708 | [206708-squeezils.json](./206708-squeezils.json) |
 | Squewe Run | 312884 | [312884-squewe-run.json](./312884-squewe-run.json) |
+| Squid Game: The Game | 184603 | [184603-squid-game-the-game.json](./184603-squid-game-the-game.json) |
 | Squid Game: Unleashed | 314273 | [314273-squid-game-unleashed.json](./314273-squid-game-unleashed.json) |
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
 | Squid Guys | 286503 | [286503-squid-guys.json](./286503-squid-guys.json) |
@@ -4566,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbinders | 336520 | [336520-stormbinders.json](./336520-stormbinders.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
+| StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
