@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
 | A Stray Line | 388733 | [388733-a-stray-line.json](./388733-a-stray-line.json) |
 | A Summer in Our Hearts | 338171 | [338171-a-summer-in-our-hearts.json](./338171-a-summer-in-our-hearts.json) |
+| A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
 | A Tale In The Garden | 332404 | [332404-a-tale-in-the-garden.json](./332404-a-tale-in-the-garden.json) |
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Brothers | 358879 | [358879-a-tale-of-brothers.json](./358879-a-tale-of-brothers.json) |
@@ -413,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
 | ACA NeoGeo Selection Vol. 9 | 376474 | [376474-aca-neogeo-selection-vol-9.json](./376474-aca-neogeo-selection-vol-9.json) |
 | ACA2 Neo Geo: The King of Fighters '98 | 333539 | [333539-aca2-neo-geo-the-king-of-fighters-98.json](./333539-aca2-neo-geo-the-king-of-fighters-98.json) |
+| Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Academy34 | 200684 | [200684-academy34.json](./200684-academy34.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Acatalepsy | 150169 | [150169-acatalepsy.json](./150169-acatalepsy.json) |
@@ -725,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aethus | 270142 | [270142-aethus.json](./270142-aethus.json) |
 | Aethyr | 142476 | [142476-aethyr.json](./142476-aethyr.json) |
+| Aevenn | 185113 | [185113-aevenn.json](./185113-aevenn.json) |
 | AEW: Fight Forever | 145216 | [145216-aew-fight-forever.json](./145216-aew-fight-forever.json) |
 | Afei's Trouble | 357790 | [357790-afeis-trouble.json](./357790-afeis-trouble.json) |
 | Affairs of the Court: Choice of Romance | 32355 | [32355-affairs-of-the-court-choice-of-romance.json](./32355-affairs-of-the-court-choice-of-romance.json) |
@@ -1086,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
+| Albert | 185094 | [185094-albert.json](./185094-albert.json) |
 | Albert Odyssey 2: Jashin no Taidou | 38346 | [38346-albert-odyssey-2-jashin-no-taidou.json](./38346-albert-odyssey-2-jashin-no-taidou.json) |
 | Alcatraz | 288748 | [288748-alcatraz.json](./288748-alcatraz.json) |
 | Alcatraz: VR Escape Room | 29938 | [29938-alcatraz-vr-escape-room.json](./29938-alcatraz-vr-escape-room.json) |
@@ -1874,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Head | 323759 | [323759-another-head.json](./323759-another-head.json) |
 | Another Hour Another Planet | 293093 | [293093-another-hour-another-planet.json](./293093-another-hour-another-planet.json) |
 | Another Museum | 217855 | [217855-another-museum.json](./217855-another-museum.json) |
+| Another Mythical Journey | 185091 | [185091-another-mythical-journey.json](./185091-another-mythical-journey.json) |
 | Another Nightmare | 217856 | [217856-another-nightmare.json](./217856-another-nightmare.json) |
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
@@ -2039,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Sauce Western | 239067 | [239067-apple-sauce-western.json](./239067-apple-sauce-western.json) |
 | Apple Sauce X mas | 239070 | [239070-apple-sauce-x-mas.json](./239070-apple-sauce-x-mas.json) |
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
+| Approaches | 185093 | [185093-approaches.json](./185093-approaches.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
 | Approximately Up | 377061 | [377061-approximately-up.json](./377061-approximately-up.json) |
 | Aprende con Horacio: La Gran Aventura de las Palabras | 283755 | [283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json](./283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json) |
@@ -2431,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army War: Shooting Simulator | 235198 | [235198-army-war-shooting-simulator.json](./235198-army-war-shooting-simulator.json) |
 | Army Wars Tactics | 200158 | [200158-army-wars-tactics.json](./200158-army-wars-tactics.json) |
 | ArmyCraft | 52612 | [52612-armycraft.json](./52612-armycraft.json) |
+| Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
 | Aroma | 226231 | [226231-aroma.json](./226231-aroma.json) |
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
