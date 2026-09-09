@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
 | Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
+| Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
 | Access Denied: Escape | 240807 | [240807-access-denied-escape.json](./240807-access-denied-escape.json) |
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | According to Plan | 185605 | [185605-according-to-plan.json](./185605-according-to-plan.json) |
@@ -1402,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter | 264033 | [264033-alter.json](./264033-alter.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
+| Alter Ego Complex | 174307 | [174307-alter-ego-complex.json](./174307-alter-ego-complex.json) |
 | Alteration | 180803 | [180803-alteration.json](./180803-alteration.json) |
 | Alteration | 379368 | [379368-alteration.json](./379368-alteration.json) |
 | Altered Anomalies | 322994 | [322994-altered-anomalies.json](./322994-altered-anomalies.json) |
@@ -2059,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
+| Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
 | Apoptosis | 383386 | [383386-apoptosis.json](./383386-apoptosis.json) |
 | Aporia in the Dark | 337449 | [337449-aporia-in-the-dark.json](./337449-aporia-in-the-dark.json) |
@@ -2694,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione: 2020 GT World Challenge Pack | 168372 | [168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json](./168372-assetto-corsa-competizione-2020-gt-world-challenge-pack.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
+| Assetto Corsa Mobile | 174267 | [174267-assetto-corsa-mobile.json](./174267-assetto-corsa-mobile.json) |
 | Assetto Corsa: Dream Pack 1 | 168900 | [168900-assetto-corsa-dream-pack-1.json](./168900-assetto-corsa-dream-pack-1.json) |
 | Assetto Corsa: Dream Pack 2 | 168899 | [168899-assetto-corsa-dream-pack-2.json](./168899-assetto-corsa-dream-pack-2.json) |
 | Assetto Corsa: Dream Pack 3 | 168901 | [168901-assetto-corsa-dream-pack-3.json](./168901-assetto-corsa-dream-pack-3.json) |
