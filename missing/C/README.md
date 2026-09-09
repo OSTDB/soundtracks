@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
 | Cambell’s Oddity Box | 387368 | [387368-cambell-s-oddity-box.json](./387368-cambell-s-oddity-box.json) |
 | Cambria | 344349 | [344349-cambria.json](./344349-cambria.json) |
+| Camega | 202808 | [202808-camega.json](./202808-camega.json) |
 | Camelbirds | 318978 | [318978-camelbirds.json](./318978-camelbirds.json) |
 | Camelot | 141242 | [141242-camelot.json](./141242-camelot.json) |
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chubby Pixel Mega Bundle | 218457 | [218457-chubby-pixel-mega-bundle.json](./218457-chubby-pixel-mega-bundle.json) |
 | Chuck Ball Idol | 178652 | [178652-chuck-ball-idol.json](./178652-chuck-ball-idol.json) |
 | Chuck Bonesteel & the Alien Apocalypse | 392143 | [392143-chuck-bonesteel-and-the-alien-apocalypse.json](./392143-chuck-bonesteel-and-the-alien-apocalypse.json) |
+| Chuck E. Cheese: Skate Universe | 202819 | [202819-chuck-e-cheese-skate-universe.json](./202819-chuck-e-cheese-skate-universe.json) |
 | Chuck E. Cheese's Gameroom | 55902 | [55902-chuck-e-cheeses-gameroom.json](./55902-chuck-e-cheeses-gameroom.json) |
 | Chuck E. Cheese's Playhouse | 55904 | [55904-chuck-e-cheeses-playhouse.json](./55904-chuck-e-cheeses-playhouse.json) |
 | Chuck E. Cheese's Racing World | 103522 | [103522-chuck-e-cheeses-racing-world.json](./103522-chuck-e-cheeses-racing-world.json) |
