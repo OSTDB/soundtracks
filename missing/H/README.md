@@ -154,6 +154,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Custom Edition | 243116 | [243116-halo-custom-edition.json](./243116-halo-custom-edition.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
 | Halo: Reach - Legendary Edition | 43954 | [43954-halo-reach-legendary-edition.json](./43954-halo-reach-legendary-edition.json) |
+| Halo: The Master Chief Collection Season 1 - Noble | 205048 | [205048-halo-the-master-chief-collection-season-1-noble.json](./205048-halo-the-master-chief-collection-season-1-noble.json) |
+| Halo: The Master Chief Collection Season 2 - Spark | 205049 | [205049-halo-the-master-chief-collection-season-2-spark.json](./205049-halo-the-master-chief-collection-season-2-spark.json) |
+| Halo: The Master Chief Collection Season 3 - Recon | 205055 | [205055-halo-the-master-chief-collection-season-3-recon.json](./205055-halo-the-master-chief-collection-season-3-recon.json) |
+| Halo: The Master Chief Collection Season 4 - Reclaimer | 205050 | [205050-halo-the-master-chief-collection-season-4-reclaimer.json](./205050-halo-the-master-chief-collection-season-4-reclaimer.json) |
+| Halo: The Master Chief Collection Season 5 - Anvil | 205051 | [205051-halo-the-master-chief-collection-season-5-anvil.json](./205051-halo-the-master-chief-collection-season-5-anvil.json) |
+| Halo: The Master Chief Collection Season 6 - Raven | 205052 | [205052-halo-the-master-chief-collection-season-6-raven.json](./205052-halo-the-master-chief-collection-season-6-raven.json) |
+| Halo: The Master Chief Collection Season 7 - Elite | 205053 | [205053-halo-the-master-chief-collection-season-7-elite.json](./205053-halo-the-master-chief-collection-season-7-elite.json) |
+| Halo: The Master Chief Collection Season 8 - Mythic | 205054 | [205054-halo-the-master-chief-collection-season-8-mythic.json](./205054-halo-the-master-chief-collection-season-8-mythic.json) |
 | HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
