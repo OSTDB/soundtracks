@@ -1257,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
+| Himawari to Koi no Kioku | 194574 | [194574-himawari-to-koi-no-kioku.json](./194574-himawari-to-koi-no-kioku.json) |
 | Hime's Blossom | 249473 | [249473-himes-blossom.json](./249473-himes-blossom.json) |
 | Himehibi: New Princess Days Zoku! Nigakki | 218483 | [218483-himehibi-new-princess-days-zoku-nigakki.json](./218483-himehibi-new-princess-days-zoku-nigakki.json) |
 | Himehibi: New Princess Days Zoku! Nigakki Portable | 218485 | [218485-himehibi-new-princess-days-zoku-nigakki-portable.json](./218485-himehibi-new-princess-days-zoku-nigakki-portable.json) |
@@ -1267,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
 | Hina-chan Breaker: 2nd Break | 212293 | [212293-hina-chan-breaker-2nd-break.json](./212293-hina-chan-breaker-2nd-break.json) |
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
+| Hinekuremono no Gakuen Seishun Monogatari: Ore to Kanojo no Reversible | 194557 | [194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json](./194557-hinekuremono-no-gakuen-seishun-monogatari-ore-to-kanojo-no-reversible.json) |
 | Hinomaruko | 122404 | [122404-hinomaruko.json](./122404-hinomaruko.json) |
 | Hinterhalt 2 | 110361 | [110361-hinterhalt-2.json](./110361-hinterhalt-2.json) |
 | Hinterland: Orc Lords | 24996 | [24996-hinterland-orc-lords.json](./24996-hinterland-orc-lords.json) |
