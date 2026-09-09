@@ -693,6 +693,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis World Tour 2: Legends Pack | 167299 | [167299-tennis-world-tour-2-legends-pack.json](./167299-tennis-world-tour-2-legends-pack.json) |
 | Tennis World Tour 2: Official Tournaments and Stadia Pack | 167300 | [167300-tennis-world-tour-2-official-tournaments-and-stadia-pack.json](./167300-tennis-world-tour-2-official-tournaments-and-stadia-pack.json) |
 | Tennis World Tour 2: Sofia Kenin & Karolina Pliskova | 167298 | [167298-tennis-world-tour-2-sofia-kenin-and-karolina-pliskova.json](./167298-tennis-world-tour-2-sofia-kenin-and-karolina-pliskova.json) |
+| Tennis World Tour: Alex De Minaur | 169937 | [169937-tennis-world-tour-alex-de-minaur.json](./169937-tennis-world-tour-alex-de-minaur.json) |
+| Tennis World Tour: Alex De Minaur | 169943 | [169943-tennis-world-tour-alex-de-minaur.json](./169943-tennis-world-tour-alex-de-minaur.json) |
+| Tennis World Tour: Caroline Garcia | 169939 | [169939-tennis-world-tour-caroline-garcia.json](./169939-tennis-world-tour-caroline-garcia.json) |
+| Tennis World Tour: Kristina Mladenovic | 169941 | [169941-tennis-world-tour-kristina-mladenovic.json](./169941-tennis-world-tour-kristina-mladenovic.json) |
+| Tennis World Tour: Legends Bonus Pack | 169942 | [169942-tennis-world-tour-legends-bonus-pack.json](./169942-tennis-world-tour-legends-bonus-pack.json) |
+| Tennis World Tour: Rafael Nadal | 169938 | [169938-tennis-world-tour-rafael-nadal.json](./169938-tennis-world-tour-rafael-nadal.json) |
+| Tennis World Tour: Stadium Pack | 169940 | [169940-tennis-world-tour-stadium-pack.json](./169940-tennis-world-tour-stadium-pack.json) |
 | Tennis-e | 170010 | [170010-tennis-e.json](./170010-tennis-e.json) |
 | Tennis/Squash | 92528 | [92528-tennis-squash.json](./92528-tennis-squash.json) |
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
@@ -1139,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
+| The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
 | The Bou: Special Edition | 278745 | [278745-the-bou-special-edition.json](./278745-the-bou-special-edition.json) |
@@ -3104,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
+| The ultimate secret of the universe: Soul | 169922 | [169922-the-ultimate-secret-of-the-universe-soul.json](./169922-the-ultimate-secret-of-the-universe-soul.json) |
 | The Ultimate Showdown | 34428 | [34428-the-ultimate-showdown.json](./34428-the-ultimate-showdown.json) |
 | The Ultra Mission | 199105 | [199105-the-ultra-mission.json](./199105-the-ultra-mission.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
@@ -4668,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
 | Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
+| Train Simulator 2021: 0-4-0 Saddletank Pack 1 Add-on Loco | 169924 | [169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json](./169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json) |
 | Train Simulator 2021: Arizona Divide - Winslow: Williams Route | 162416 | [162416-train-simulator-2021-arizona-divide-winslow-williams-route.json](./162416-train-simulator-2021-arizona-divide-winslow-williams-route.json) |
 | Train Simulator 2021: BR Class 170 'Turbostar' DMU | 162391 | [162391-train-simulator-2021-br-class-170-turbostar-dmu.json](./162391-train-simulator-2021-br-class-170-turbostar-dmu.json) |
 | Train Simulator 2021: BR Class 31 Freight Loco | 162393 | [162393-train-simulator-2021-br-class-31-freight-loco.json](./162393-train-simulator-2021-br-class-31-freight-loco.json) |
