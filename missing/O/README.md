@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
+| Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
 | OncPangTzu Man | 116341 | [116341-oncpangtzu-man.json](./116341-oncpangtzu-man.json) |
 | One Bear Army | 272275 | [272275-one-bear-army.json](./272275-one-bear-army.json) |
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
@@ -481,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night Heaven: Aka to Kuro no Hitobito ni Sasagu Hommage | 282563 | [282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json](./282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json) |
 | One Night In 2D | 370147 | [370147-one-night-in-2d.json](./370147-one-night-in-2d.json) |
 | One Night on Halloween | 153418 | [153418-one-night-on-halloween.json](./153418-one-night-on-halloween.json) |
+| One Night with Clara | 171003 | [171003-one-night-with-clara.json](./171003-one-night-with-clara.json) |
 | One Night You're Crazy | 61645 | [61645-one-night-youre-crazy.json](./61645-one-night-youre-crazy.json) |
 | One Night: Burlesque - Amazing Edition | 313142 | [313142-one-night-burlesque-amazing-edition.json](./313142-one-night-burlesque-amazing-edition.json) |
 | One Night: Burlesque - Extended Edition | 283167 | [283167-one-night-burlesque-extended-edition.json](./283167-one-night-burlesque-extended-edition.json) |
@@ -946,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
+| Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
 | Outhouse | 342063 | [342063-outhouse.json](./342063-outhouse.json) |
