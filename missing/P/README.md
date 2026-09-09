@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
 | Project Eagle | 344958 | [344958-project-eagle.json](./344958-project-eagle.json) |
+| Project Earth | 180790 | [180790-project-earth.json](./180790-project-earth.json) |
 | Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
 | Project Eclipse | 403580 | [403580-project-eclipse.json](./403580-project-eclipse.json) |
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psycho Simulator | 389465 | [389465-psycho-simulator.json](./389465-psycho-simulator.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
+| Psycho-unstable Journey | 180792 | [180792-psycho-unstable-journey.json](./180792-psycho-unstable-journey.json) |
 | PsychoCudgel | 316641 | [316641-psychocudgel.json](./316641-psychocudgel.json) |
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
