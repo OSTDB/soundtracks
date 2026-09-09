@@ -1838,6 +1838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Fly a Cannon | 405537 | [405537-how-to-fly-a-cannon.json](./405537-how-to-fly-a-cannon.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
+| How to Survive: Barricade! | 170434 | [170434-how-to-survive-barricade.json](./170434-how-to-survive-barricade.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
