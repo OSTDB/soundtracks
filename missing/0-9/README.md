@@ -158,7 +158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games in One Double Pack \| Dora the Explorer: Pirate Pig's Treasure & Dora the Explorer: Super Star Adventures | 91427 | [91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json](./91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json) |
 | 2 in 1: Monumental Bundle | 208044 | [208044-2-in-1-monumental-bundle.json](./208044-2-in-1-monumental-bundle.json) |
 | 2 in 1: V-Rally 3 + Stuntman | 84266 | [84266-2-in-1-v-rally-3-stuntman.json](./84266-2-in-1-v-rally-3-stuntman.json) |
-| 2 jeux en 1 I Titeuf: Ze Gag Machine + Titeuf: Méga-Compet' | 82103 | [82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json](./82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json) |
 | 2 Late 2 Evade | 216773 | [216773-2-late-2-evade.json](./216773-2-late-2-evade.json) |
 | 2 Ninjas 1 Cup | 29898 | [29898-2-ninjas-1-cup.json](./29898-2-ninjas-1-cup.json) |
 | 2 of Me | 221177 | [221177-2-of-me.json](./221177-2-of-me.json) |
