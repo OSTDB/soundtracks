@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
+| Rabi to Navi no Daibouken | 206179 | [206179-rabi-to-navi-no-daibouken.json](./206179-rabi-to-navi-no-daibouken.json) |
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
@@ -209,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Butcher | 211937 | [211937-rainy-butcher.json](./211937-rainy-butcher.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
 | Rainy Day Spider Solitaire HD | 354996 | [354996-rainy-day-spider-solitaire-hd.json](./354996-rainy-day-spider-solitaire-hd.json) |
+| Rainy single room | 205588 | [205588-rainy-single-room.json](./205588-rainy-single-room.json) |
 | RainyCloud | 224542 | [224542-rainycloud.json](./224542-rainycloud.json) |
 | Rainyday | 67905 | [67905-rainyday.json](./67905-rainyday.json) |
 | Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
@@ -626,7 +628,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline: Sport | 255755 | [255755-redline-sport.json](./255755-redline-sport.json) |
 | RedMask | 266811 | [266811-redmask.json](./266811-redmask.json) |
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
+| Redout 2: Deluxe Edition | 205571 | [205571-redout-2-deluxe-edition.json](./205571-redout-2-deluxe-edition.json) |
 | Redout 2: Summer Pack | 224209 | [224209-redout-2-summer-pack.json](./224209-redout-2-summer-pack.json) |
+| Redout 2: Ultimate Edition | 205570 | [205570-redout-2-ultimate-edition.json](./205570-redout-2-ultimate-edition.json) |
 | Redout: Back to Earth Pack | 226970 | [226970-redout-back-to-earth-pack.json](./226970-redout-back-to-earth-pack.json) |
 | Redout: Mars Pack | 226971 | [226971-redout-mars-pack.json](./226971-redout-mars-pack.json) |
 | Redout: Neptune Pack | 226972 | [226972-redout-neptune-pack.json](./226972-redout-neptune-pack.json) |
