@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T02:48:15.520Z",
-  "total_missing": 48958,
+  "generated_at": "2026-09-09T02:51:03.768Z",
+  "total_missing": 48957,
   "games": [
     {
       "igdb_id": 306086,
@@ -481,11 +481,6 @@
       "igdb_id": 35493,
       "game_name": "12 Labours of Hercules II: The Cretan Bull",
       "file": "missing/0-9/35493-12-labours-of-hercules-ii-the-cretan-bull.json"
-    },
-    {
-      "igdb_id": 221170,
-      "game_name": "12 Labours of Hercules XIV: Message in a Bottle",
-      "file": "missing/0-9/221170-12-labours-of-hercules-xiv-message-in-a-bottle.json"
     },
     {
       "igdb_id": 355039,
