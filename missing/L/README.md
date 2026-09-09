@@ -653,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Levantar La Botella | 364512 | [364512-levantar-la-botella.json](./364512-levantar-la-botella.json) |
 | Level | 326614 | [326614-level.json](./326614-level.json) |
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
+| Level Tank | 207317 | [207317-level-tank.json](./207317-level-tank.json) |
 | Level Up Boxing VR | 270115 | [270115-level-up-boxing-vr.json](./270115-level-up-boxing-vr.json) |
 | Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
@@ -662,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leviathan | 229696 | [229696-leviathan.json](./229696-leviathan.json) |
 | Leviathan | 341320 | [341320-leviathan.json](./341320-leviathan.json) |
 | Lewd Anime Racing | 235725 | [235725-lewd-anime-racing.json](./235725-lewd-anime-racing.json) |
+| Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
 | Lewis Quest | 337085 | [337085-lewis-quest.json](./337085-lewis-quest.json) |
 | Lexispell | 376482 | [376482-lexispell.json](./376482-lexispell.json) |
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
@@ -1302,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
 | Lost Oasis | 334099 | [334099-lost-oasis.json](./334099-lost-oasis.json) |
 | Lost Pages: The First Cycle | 226755 | [226755-lost-pages-the-first-cycle.json](./226755-lost-pages-the-first-cycle.json) |
+| Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
 | Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
 | Lost Planet: Extreme Condition | 1913 | [1913-lost-planet-extreme-condition.json](./1913-lost-planet-extreme-condition.json) |
 | Lost Princess | 266775 | [266775-lost-princess.json](./266775-lost-princess.json) |
