@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Big Bang | 61635 | [61635-rabbids-big-bang.json](./61635-rabbids-big-bang.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
+| Rabbit & Dominoes | 192874 | [192874-rabbit-and-dominoes.json](./192874-rabbit-and-dominoes.json) |
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
 | Rabbit Detective | 389983 | [389983-rabbit-detective.json](./389983-rabbit-detective.json) |
 | Rabbit Hole | 289347 | [289347-rabbit-hole.json](./289347-rabbit-hole.json) |
@@ -71,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Royale | 390012 | [390012-racing-royale.json](./390012-racing-royale.json) |
 | Racing Rush | 234608 | [234608-racing-rush.json](./234608-racing-rush.json) |
 | Racing Stars | 295274 | [295274-racing-stars.json](./295274-racing-stars.json) |
+| Racing Xtreme: Fast Rally Driver 3D | 192909 | [192909-racing-xtreme-fast-rally-driver-3d.json](./192909-racing-xtreme-fast-rally-driver-3d.json) |
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
 | Rack Attack! | 342613 | [342613-rack-attack.json](./342613-rack-attack.json) |
@@ -601,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
+| Red Moon: Lost Days | 192893 | [192893-red-moon-lost-days.json](./192893-red-moon-lost-days.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
 | Red Riding Hood | 225309 | [225309-red-riding-hood.json](./225309-red-riding-hood.json) |
@@ -1623,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
+| Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
