@@ -208,7 +208,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
-| 2x0ng | 342039 | [342039-2x0ng.json](./342039-2x0ng.json) |
 | 2XL Supercross HD | 96726 | [96726-2xl-supercross-hd.json](./96726-2xl-supercross-hd.json) |
 | 2Xtreme | 305796 | [305796-2xtreme.json](./305796-2xtreme.json) |
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
