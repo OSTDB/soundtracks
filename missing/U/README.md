@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
 | Unknown Soldier: Mokuba no Houkou | 267396 | [267396-unknown-soldier-mokuba-no-houkou.json](./267396-unknown-soldier-mokuba-no-houkou.json) |
 | Unknown Space | 400860 | [400860-unknown-space.json](./400860-unknown-space.json) |
+| Unko Typing | 189128 | [189128-unko-typing.json](./189128-unko-typing.json) |
 | Unkore | 151750 | [151750-unkore.json](./151750-unkore.json) |
 | Unleash | 398974 | [398974-unleash.json](./398974-unleash.json) |
 | Unlimited | 268217 | [268217-unlimited.json](./268217-unlimited.json) |
