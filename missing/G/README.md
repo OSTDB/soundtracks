@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex 3: Deep Cover Gecko | 3505 | [3505-gex-3-deep-cover-gecko.json](./3505-gex-3-deep-cover-gecko.json) |
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
+| GGX: Great Grandma Escape | 200124 | [200124-ggx-great-grandma-escape.json](./200124-ggx-great-grandma-escape.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
 | Ghetto Conspiracy | 127366 | [127366-ghetto-conspiracy.json](./127366-ghetto-conspiracy.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
 | Gloria Sinica: Han Xiongnu Wars | 67930 | [67930-gloria-sinica-han-xiongnu-wars.json](./67930-gloria-sinica-han-xiongnu-wars.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
+| Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
 | Glow Chess | 106583 | [106583-glow-chess.json](./106583-glow-chess.json) |
 | Glow Hockey 2 | 228068 | [228068-glow-hockey-2.json](./228068-glow-hockey-2.json) |
@@ -811,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
+| Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
 | Go to Heck | 214154 | [214154-go-to-heck.json](./214154-go-to-heck.json) |
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
 | Go Up Frog | 401521 | [401521-go-up-frog.json](./401521-go-up-frog.json) |
@@ -824,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
 | Go! Save The Queen! | 289864 | [289864-go-save-the-queen.json](./289864-go-save-the-queen.json) |
 | Go! Super Awesome Monkey! | 414329 | [414329-go-super-awesome-monkey.json](./414329-go-super-awesome-monkey.json) |
+| Goaaal | 200131 | [200131-goaaal.json](./200131-goaaal.json) |
 | Goal 94 | 78065 | [78065-goal-94.json](./78065-goal-94.json) |
 | Goal and Crossbones | 178649 | [178649-goal-and-crossbones.json](./178649-goal-and-crossbones.json) |
 | Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
