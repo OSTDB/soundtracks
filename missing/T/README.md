@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
 | Takeover | 304587 | [304587-takeover.json](./304587-takeover.json) |
 | Takeover Trail | 395577 | [395577-takeover-trail.json](./395577-takeover-trail.json) |
+| Takepoint.io | 194571 | [194571-takepoint-io.json](./194571-takepoint-io.json) |
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
@@ -425,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taptron 1999 | 372992 | [372992-taptron-1999.json](./372992-taptron-1999.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
 | Taquero Simulator | 301806 | [301806-taquero-simulator.json](./301806-taquero-simulator.json) |
+| Tarareba | 194555 | [194555-tarareba.json](./194555-tarareba.json) |
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
@@ -4961,6 +4963,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuri Tarou | 37779 | [37779-tsuri-tarou.json](./37779-tsuri-tarou.json) |
 | Tsuru Teruhito no Jissen Kabushiki Bi-Game | 59431 | [59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json](./59431-tsuru-teruhito-no-jissen-kabushiki-bi-game.json) |
 | Tsuushin Taisen Mahjong: Touryuumon | 67989 | [67989-tsuushin-taisen-mahjong-touryuumon.json](./67989-tsuushin-taisen-mahjong-touryuumon.json) |
+| Tsuyokiss Festival | 194587 | [194587-tsuyokiss-festival.json](./194587-tsuyokiss-festival.json) |
+| Tsuyokiss Next | 194588 | [194588-tsuyokiss-next.json](./194588-tsuyokiss-next.json) |
 | Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama | 37778 | [37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json](./37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json) |
 | TTA 1 | 253565 | [253565-tta-1.json](./253565-tta-1.json) |
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
