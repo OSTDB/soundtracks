@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T20:21:03.947Z",
-  "total_missing": 51713,
+  "generated_at": "2026-09-09T20:31:04.749Z",
+  "total_missing": 51715,
   "games": [
     {
       "igdb_id": 306086,
@@ -1046,11 +1046,6 @@
       "igdb_id": 221208,
       "game_name": "3 Seasons",
       "file": "missing/0-9/221208-3-seasons.json"
-    },
-    {
-      "igdb_id": 252715,
-      "game_name": "3 Shapes",
-      "file": "missing/0-9/252715-3-shapes.json"
     },
     {
       "igdb_id": 331356,
@@ -16336,6 +16331,11 @@
       "igdb_id": 182448,
       "game_name": "Asura's Wrath: Lost Episode 2",
       "file": "missing/A/182448-asuras-wrath-lost-episode-2.json"
+    },
+    {
+      "igdb_id": 175390,
+      "game_name": "Asuria Awakens",
+      "file": "missing/A/175390-asuria-awakens.json"
     },
     {
       "igdb_id": 204728,
@@ -200433,6 +200433,11 @@
       "file": "missing/S/189199-spin-city.json"
     },
     {
+      "igdb_id": 175389,
+      "game_name": "Spin Doctor",
+      "file": "missing/S/175389-spin-doctor.json"
+    },
+    {
       "igdb_id": 311247,
       "game_name": "Spin or Die",
       "file": "missing/S/311247-spin-or-die.json"
@@ -252841,6 +252846,11 @@
       "igdb_id": 402911,
       "game_name": "Wordslop",
       "file": "missing/W/402911-wordslop.json"
+    },
+    {
+      "igdb_id": 175391,
+      "game_name": "Wordspionage",
+      "file": "missing/W/175391-wordspionage.json"
     },
     {
       "igdb_id": 304023,
