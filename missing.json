@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T11:48:08.688Z",
-  "total_missing": 50348,
+  "generated_at": "2026-09-09T11:51:06.906Z",
+  "total_missing": 50347,
   "games": [
     {
       "igdb_id": 306086,
@@ -766,11 +766,6 @@
       "igdb_id": 216773,
       "game_name": "2 Late 2 Evade",
       "file": "missing/0-9/216773-2-late-2-evade.json"
-    },
-    {
-      "igdb_id": 29898,
-      "game_name": "2 Ninjas 1 Cup",
-      "file": "missing/0-9/29898-2-ninjas-1-cup.json"
     },
     {
       "igdb_id": 221177,
