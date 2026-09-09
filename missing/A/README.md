@@ -941,7 +941,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikagi 3 | 220346 | [220346-aikagi-3.json](./220346-aikagi-3.json) |
 | Aikatsu! 365 Idol Days | 177559 | [177559-aikatsu-365-idol-days.json](./177559-aikatsu-365-idol-days.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
+| Aikiss 1, 2, 3 Pack | 182469 | [182469-aikiss-1-2-3-pack.json](./182469-aikiss-1-2-3-pack.json) |
 | Aikiss 2: Complete Edition | 141893 | [141893-aikiss-2-complete-edition.json](./141893-aikiss-2-complete-edition.json) |
+| Aikiss 3 Cute | 182471 | [182471-aikiss-3-cute.json](./182471-aikiss-3-cute.json) |
+| Aikiss 3 Cute: Complete Limited Edition | 182478 | [182478-aikiss-3-cute-complete-limited-edition.json](./182478-aikiss-3-cute-complete-limited-edition.json) |
 | Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aim & Shoot | 358841 | [358841-aim-and-shoot.json](./358841-aim-and-shoot.json) |
@@ -1420,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanthi | 141853 | [141853-amanthi.json](./141853-amanthi.json) |
 | Amaranthine Voyage: The Obsidian Book - Collector's Edition | 105338 | [105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json](./105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json) |
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
+| Amateur Surgeon 2 | 182501 | [182501-amateur-surgeon-2.json](./182501-amateur-surgeon-2.json) |
 | Amateur Surgeon 4: Re-Generations | 57116 | [57116-amateur-surgeon-4-re-generations.json](./57116-amateur-surgeon-4-re-generations.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
@@ -2779,6 +2783,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
 | Asura's Wrath Episode 11.5 | 217920 | [217920-asuras-wrath-episode-11-5.json](./217920-asuras-wrath-episode-11-5.json) |
 | Asura's Wrath Episode 15.5 | 217921 | [217921-asuras-wrath-episode-15-5.json](./217921-asuras-wrath-episode-15-5.json) |
+| Asura's Wrath: Lost Episode 1 | 182447 | [182447-asuras-wrath-lost-episode-1.json](./182447-asuras-wrath-lost-episode-1.json) |
+| Asura's Wrath: Lost Episode 2 | 182448 | [182448-asuras-wrath-lost-episode-2.json](./182448-asuras-wrath-lost-episode-2.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
