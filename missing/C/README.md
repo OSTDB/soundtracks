@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossal Cave VR | 253587 | [253587-colossal-cave-vr.json](./253587-colossal-cave-vr.json) |
 | Colossal Saga | 126663 | [126663-colossal-saga.json](./126663-colossal-saga.json) |
 | Colossatron: Massive World Threat | 62546 | [62546-colossatron-massive-world-threat.json](./62546-colossatron-massive-world-threat.json) |
+| Colossorama | 176985 | [176985-colossorama.json](./176985-colossorama.json) |
 | Colossus Down: Destroy'em Up Editon | 150145 | [150145-colossus-down-destroyem-up-editon.json](./150145-colossus-down-destroyem-up-editon.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
@@ -2298,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate Hell | 391617 | [391617-corporate-hell.json](./391617-corporate-hell.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
 | Corporation | 57696 | [57696-corporation.json](./57696-corporation.json) |
+| Corpse Clue | 176983 | [176983-corpse-clue.json](./176983-corpse-clue.json) |
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
 | Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
@@ -2615,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
+| Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
@@ -3101,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
 | Curse of Blood | 312893 | [312893-curse-of-blood.json](./312893-curse-of-blood.json) |
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
+| Curse of Greed: Ultimate | 176973 | [176973-curse-of-greed-ultimate.json](./176973-curse-of-greed-ultimate.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
