@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ailse of Shadows | 410227 | [410227-ailse-of-shadows.json](./410227-ailse-of-shadows.json) |
 | Ailuri | 189192 | [189192-ailuri.json](./189192-ailuri.json) |
 | Aim & Shoot | 358841 | [358841-aim-and-shoot.json](./358841-aim-and-shoot.json) |
+| Aim Champions: Gun Shooter Simulator | 205025 | [205025-aim-champions-gun-shooter-simulator.json](./205025-aim-champions-gun-shooter-simulator.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
