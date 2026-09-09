@@ -428,6 +428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
 | Days With Girlfriends Ⅲ | 391601 | [391601-days-with-girlfriends-iii.json](./391601-days-with-girlfriends-iii.json) |
 | Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
+| Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
 | DC's Justice League: Cosmic Chaos | 228740 | [228740-dcs-justice-league-cosmic-chaos.json](./228740-dcs-justice-league-cosmic-chaos.json) |
@@ -1924,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Survivors | 295799 | [295799-doom-survivors.json](./295799-doom-survivors.json) |
 | Doom Tournament | 202843 | [202843-doom-tournament.json](./202843-doom-tournament.json) |
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
+| Doom Ultimate Enhanced | 198487 | [198487-doom-ultimate-enhanced.json](./198487-doom-ultimate-enhanced.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | Doom: The Dark Ages - Revelations | 405075 | [405075-doom-the-dark-ages-revelations.json](./405075-doom-the-dark-ages-revelations.json) |
 | Doom: The Gallery Experience | 327632 | [327632-doom-the-gallery-experience.json](./327632-doom-the-gallery-experience.json) |
