@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T22:33:24.361Z",
-  "total_missing": 52075,
+  "generated_at": "2026-09-09T22:41:01.973Z",
+  "total_missing": 52074,
   "games": [
     {
       "igdb_id": 306086,
@@ -1111,11 +1111,6 @@
       "igdb_id": 29917,
       "game_name": "365 Days",
       "file": "missing/0-9/29917-365-days.json"
-    },
-    {
-      "igdb_id": 271198,
-      "game_name": "37th Relic Retrieval",
-      "file": "missing/0-9/271198-37th-relic-retrieval.json"
     },
     {
       "igdb_id": 32125,
