@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
 | Portable VR | 244232 | [244232-portable-vr.json](./244232-portable-vr.json) |
+| Portal 2: Community Edition | 169962 | [169962-portal-2-community-edition.json](./169962-portal-2-community-edition.json) |
 | Portal 2: Google Translate Edition | 313481 | [313481-portal-2-google-translate-edition.json](./313481-portal-2-google-translate-edition.json) |
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
