@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
+| Paradise Island Driver | 201257 | [201257-paradise-island-driver.json](./201257-paradise-island-driver.json) |
 | Paradise Lofts | 156652 | [156652-paradise-lofts.json](./156652-paradise-lofts.json) |
 | Paradise Lost | 137092 | [137092-paradise-lost.json](./137092-paradise-lost.json) |
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
@@ -2233,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procyon | 218130 | [218130-procyon.json](./218130-procyon.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Prodigy Tactics | 77360 | [77360-prodigy-tactics.json](./77360-prodigy-tactics.json) |
+| Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
 | Professional Mahjong Gokuu | 41394 | [41394-professional-mahjong-gokuu.json](./41394-professional-mahjong-gokuu.json) |
 | Professional Mahjong Kiwame | 97871 | [97871-professional-mahjong-kiwame.json](./97871-professional-mahjong-kiwame.json) |
@@ -2369,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
+| Project Uber | 201235 | [201235-project-uber.json](./201235-project-uber.json) |
 | Project Unknown | 244240 | [244240-project-unknown.json](./244240-project-unknown.json) |
 | Project Unknown Designation | 309881 | [309881-project-unknown-designation.json](./309881-project-unknown-designation.json) |
 | Project Volition | 270123 | [270123-project-volition.json](./270123-project-volition.json) |
@@ -2684,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli W Heyawake | 230827 | [230827-puzzle-by-nikoli-w-heyawake.json](./230827-puzzle-by-nikoli-w-heyawake.json) |
 | Puzzle by Nikoli W Kakuro | 262657 | [262657-puzzle-by-nikoli-w-kakuro.json](./262657-puzzle-by-nikoli-w-kakuro.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
+| Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
 | Puzzle Cozy | 386692 | [386692-puzzle-cozy.json](./386692-puzzle-cozy.json) |
 | Puzzle Craft | 47286 | [47286-puzzle-craft.json](./47286-puzzle-craft.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
