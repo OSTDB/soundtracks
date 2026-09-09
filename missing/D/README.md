@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
 | Deadly Flare | 192879 | [192879-deadly-flare.json](./192879-deadly-flare.json) |
 | Deadly Footprints | 295791 | [295791-deadly-footprints.json](./295791-deadly-footprints.json) |
+| Deadly Infestation | 190157 | [190157-deadly-infestation.json](./190157-deadly-infestation.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Sky | 51981 | [51981-deadly-sky.json](./51981-deadly-sky.json) |
@@ -597,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadside: Supporter Pack | 338016 | [338016-deadside-supporter-pack.json](./338016-deadside-supporter-pack.json) |
 | Deadsiege | 110557 | [110557-deadsiege.json](./110557-deadsiege.json) |
 | Deadwar: Old Lies | 94730 | [94730-deadwar-old-lies.json](./94730-deadwar-old-lies.json) |
+| Deadwater Saloon | 190136 | [190136-deadwater-saloon.json](./190136-deadwater-saloon.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
 | Dear Blue | 297470 | [297470-dear-blue.json](./297470-dear-blue.json) |
@@ -1893,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
 | Donny Donut: Dokrats | 265689 | [265689-donny-donut-dokrats.json](./265689-donny-donut-dokrats.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
+| Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
@@ -2469,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
 | Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
+| Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
 | Drifter Star: Evolution | 371872 | [371872-drifter-star-evolution.json](./371872-drifter-star-evolution.json) |
 | Drifter's Tales | 195174 | [195174-drifters-tales.json](./195174-drifters-tales.json) |
 | DriftHub | 256007 | [256007-drifthub.json](./256007-drifthub.json) |
@@ -2511,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Academy | 369576 | [369576-drone-academy.json](./369576-drone-academy.json) |
 | Drone Adventure | 301836 | [301836-drone-adventure.json](./301836-drone-adventure.json) |
 | Drone Attack Spy Drone Games | 303263 | [303263-drone-attack-spy-drone-games.json](./303263-drone-attack-spy-drone-games.json) |
+| Drone Crash Course | 190171 | [190171-drone-crash-course.json](./190171-drone-crash-course.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
 | Drone Racer: Fly Stunt Simulator | 287663 | [287663-drone-racer-fly-stunt-simulator.json](./287663-drone-racer-fly-stunt-simulator.json) |
