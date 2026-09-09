@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T10:18:52.633Z",
-  "total_missing": 50103,
+  "generated_at": "2026-09-09T10:21:05.882Z",
+  "total_missing": 50102,
   "games": [
     {
       "igdb_id": 306086,
@@ -721,11 +721,6 @@
       "igdb_id": 363873,
       "game_name": "1Second",
       "file": "missing/0-9/363873-1second.json"
-    },
-    {
-      "igdb_id": 188080,
-      "game_name": "1v1 Battle",
-      "file": "missing/0-9/188080-1v1-battle.json"
     },
     {
       "igdb_id": 262086,
