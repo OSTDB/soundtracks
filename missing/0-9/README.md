@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
 | 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
+| 15 in 1 Solitaire | 187457 | [187457-15-in-1-solitaire.json](./187457-15-in-1-solitaire.json) |
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
 | 1500 DS Spirits Vol. 4: Reversi | 100196 | [100196-1500-ds-spirits-vol-4-reversi.json](./100196-1500-ds-spirits-vol-4-reversi.json) |
 | 15th Prison | 316431 | [316431-15th-prison.json](./316431-15th-prison.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DO Action Pak | 37196 | [37196-3do-action-pak.json](./37196-3do-action-pak.json) |
 | 3DO Maniac Pack | 37195 | [37195-3do-maniac-pack.json](./37195-3do-maniac-pack.json) |
 | 3DTuning: Car Game & Simulator | 344916 | [344916-3dtuning-car-game-and-simulator.json](./344916-3dtuning-car-game-and-simulator.json) |
+| 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
 | 3on3 FreeStyle: Deluxe Edition | 249819 | [249819-3on3-freestyle-deluxe-edition.json](./249819-3on3-freestyle-deluxe-edition.json) |
 | 3on3 FreeStyle: Ultimate Edition | 249818 | [249818-3on3-freestyle-ultimate-edition.json](./249818-3on3-freestyle-ultimate-edition.json) |
 | 3Souls: Parallel Edition | 295779 | [295779-3souls-parallel-edition.json](./295779-3souls-parallel-edition.json) |
@@ -489,4 +491,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
 | Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
+| ​Our Life: Beginnings & Always - Cove Wedding Story | 187442 | [187442-our-life-beginnings-and-always-cove-wedding-story.json](./187442-our-life-beginnings-and-always-cove-wedding-story.json) |
 | 一>◇ | 100203 | [100203-.json](./100203-.json) |
