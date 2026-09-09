@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septic | 324321 | [324321-septic.json](./324321-septic.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
+| Sequoia | 185595 | [185595-sequoia.json](./185595-sequoia.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
@@ -1064,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex, Beach & Girls | 311818 | [311818-sex-beach-and-girls.json](./311818-sex-beach-and-girls.json) |
 | Sex, Drugs, and Beer Can | 247553 | [247553-sex-drugs-and-beer-can.json](./247553-sex-drugs-and-beer-can.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
+| Sextris | 185629 | [185629-sextris.json](./185629-sextris.json) |
 | Sexual Nudity | 140575 | [140575-sexual-nudity.json](./140575-sexual-nudity.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
 | Sexy Beach | 22419 | [22419-sexy-beach.json](./22419-sexy-beach.json) |
@@ -2227,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
+| Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
 | Slime Rancher | 16287 | [16287-slime-rancher.json](./16287-slime-rancher.json) |
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
 | Slime Road | 108509 | [108509-slime-road.json](./108509-slime-road.json) |
@@ -2245,7 +2248,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
+| SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
+| Slimoid | 185608 | [185608-slimoid.json](./185608-slimoid.json) |
 | Slimy Snail Ride | 106571 | [106571-slimy-snail-ride.json](./106571-slimy-snail-ride.json) |
 | Sling | 261801 | [261801-sling.json](./261801-sling.json) |
 | Sling Drift | 102767 | [102767-sling-drift.json](./102767-sling-drift.json) |
@@ -3246,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
+| Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
 | Space Debris | 103533 | [103533-space-debris.json](./103533-space-debris.json) |
 | Space Defend | 246424 | [246424-space-defend.json](./246424-space-defend.json) |
 | Space Demon Combat Tactics III | 186334 | [186334-space-demon-combat-tactics-iii.json](./186334-space-demon-combat-tactics-iii.json) |
@@ -4816,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subsurface Circular | 54780 | [54780-subsurface-circular.json](./54780-subsurface-circular.json) |
 | Subtension | 239670 | [239670-subtension.json](./239670-subtension.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
+| Subterranean Detectives Orin and Satori | 185591 | [185591-subterranean-detectives-orin-and-satori.json](./185591-subterranean-detectives-orin-and-satori.json) |
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
@@ -5431,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen | 37803 | [37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json](./37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json) |
 | Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen | 37802 | [37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json](./37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json) |
 | Super NicoNico Kart | 198462 | [198462-super-niconico-kart.json](./198462-super-niconico-kart.json) |
+| Super Ninja Noodle Chef | 185598 | [185598-super-ninja-noodle-chef.json](./185598-super-ninja-noodle-chef.json) |
 | Super Ninja Square Attack | 87695 | [87695-super-ninja-square-attack.json](./87695-super-ninja-square-attack.json) |
 | Super Ninji Land Reawakened | 373554 | [373554-super-ninji-land-reawakened.json](./373554-super-ninji-land-reawakened.json) |
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
