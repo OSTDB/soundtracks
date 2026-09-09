@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverMerge: Match 3 Puzzle Game | 290414 | [290414-evermerge-match-3-puzzle-game.json](./290414-evermerge-match-3-puzzle-game.json) |
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
+| Everplast | 191819 | [191819-everplast.json](./191819-everplast.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
 | EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
