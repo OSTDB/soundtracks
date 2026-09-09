@@ -1108,6 +1108,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Pool | 226447 | [226447-the-black-pool.json](./226447-the-black-pool.json) |
 | The Black Rose | 124260 | [124260-the-black-rose.json](./124260-the-black-rose.json) |
 | The Black Tower | 58827 | [58827-the-black-tower.json](./58827-the-black-tower.json) |
+| The Black Watchmen: Alone in the Dark Web | 170484 | [170484-the-black-watchmen-alone-in-the-dark-web.json](./170484-the-black-watchmen-alone-in-the-dark-web.json) |
+| The Black Watchmen: Mother Russia | 170485 | [170485-the-black-watchmen-mother-russia.json](./170485-the-black-watchmen-mother-russia.json) |
+| The Black Watchmen: Season 2 - Enduring Conflict | 170486 | [170486-the-black-watchmen-season-2-enduring-conflict.json](./170486-the-black-watchmen-season-2-enduring-conflict.json) |
+| The Black Watchmen: Whitechapel | 170487 | [170487-the-black-watchmen-whitechapel.json](./170487-the-black-watchmen-whitechapel.json) |
 | The Blacklist: Conspiracy | 58266 | [58266-the-blacklist-conspiracy.json](./58266-the-blacklist-conspiracy.json) |
 | The Blackout Club | 89562 | [89562-the-blackout-club.json](./89562-the-blackout-club.json) |
 | The Blackwell Convergence | 9039 | [9039-the-blackwell-convergence.json](./9039-the-blackwell-convergence.json) |
@@ -2309,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
+| The Message | 170458 | [170458-the-message.json](./170458-the-message.json) |
 | The Meteorite | 191806 | [191806-the-meteorite.json](./191806-the-meteorite.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
@@ -2910,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Mario Bros. Super Show! 64 | 135268 | [135268-the-super-mario-bros-super-show-64.json](./135268-the-super-mario-bros-super-show-64.json) |
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
+| The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
 | The Swan Princess: Hidden Tales | 268452 | [268452-the-swan-princess-hidden-tales.json](./268452-the-swan-princess-hidden-tales.json) |
