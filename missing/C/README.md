@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign Ozark | 135885 | [135885-campaign-ozark.json](./135885-campaign-ozark.json) |
 | Campaign Series Vietnam | 150123 | [150123-campaign-series-vietnam.json](./150123-campaign-series-vietnam.json) |
 | Camper Jumper Simulator | 31541 | [31541-camper-jumper-simulator.json](./31541-camper-jumper-simulator.json) |
+| Camper Renovator | 172131 | [172131-camper-renovator.json](./172131-camper-renovator.json) |
 | Campfire | 177999 | [177999-campfire.json](./177999-campfire.json) |
 | Campfire | 275600 | [275600-campfire.json](./275600-campfire.json) |
 | Campfire Harmony | 402251 | [402251-campfire-harmony.json](./402251-campfire-harmony.json) |
@@ -1520,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cividle | 224744 | [224744-cividle.json](./224744-cividle.json) |
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
+| Civil War II: The Bloody Road South | 172111 | [172111-civil-war-ii-the-bloody-road-south.json](./172111-civil-war-ii-the-bloody-road-south.json) |
 | Civil Warfare: Another Bullet in the War | 79136 | [79136-civil-warfare-another-bullet-in-the-war.json](./79136-civil-warfare-another-bullet-in-the-war.json) |
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
@@ -1686,6 +1688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
 | Cloudpunk | 111837 | [111837-cloudpunk.json](./111837-cloudpunk.json) |
 | Clouds & Sheep | 255732 | [255732-clouds-and-sheep.json](./255732-clouds-and-sheep.json) |
+| Clouds No More | 172137 | [172137-clouds-no-more.json](./172137-clouds-no-more.json) |
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | CloudStudy | 296358 | [296358-cloudstudy.json](./296358-cloudstudy.json) |
@@ -2183,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
 | Constellation Tango | 191178 | [191178-constellation-tango.json](./191178-constellation-tango.json) |
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
+| Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2015: Liebherr 150 EC-B | 168916 | [168916-construction-simulator-2015-liebherr-150-ec-b.json](./168916-construction-simulator-2015-liebherr-150-ec-b.json) |
@@ -2433,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Attack | 279009 | [279009-counter-attack.json](./279009-counter-attack.json) |
 | Counter Crossline: Crime War | 219304 | [219304-counter-crossline-crime-war.json](./219304-counter-crossline-crime-war.json) |
 | Counter Delta 2: Eastern Crisis | 259574 | [259574-counter-delta-2-eastern-crisis.json](./259574-counter-delta-2-eastern-crisis.json) |
+| Counter Fight Ichiran | 172146 | [172146-counter-fight-ichiran.json](./172146-counter-fight-ichiran.json) |
 | Counter Ops: Blackout Assault | 269036 | [269036-counter-ops-blackout-assault.json](./269036-counter-ops-blackout-assault.json) |
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
