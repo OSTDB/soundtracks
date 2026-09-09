@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T18:21:04.456Z",
-  "total_missing": 51387,
+  "generated_at": "2026-09-09T18:41:03.158Z",
+  "total_missing": 51421,
   "games": [
     {
       "igdb_id": 306086,
@@ -986,11 +986,6 @@
       "igdb_id": 115044,
       "game_name": "2D Zombie Survival",
       "file": "missing/0-9/115044-2d-zombie-survival.json"
-    },
-    {
-      "igdb_id": 109652,
-      "game_name": "2DGameManias Taken",
-      "file": "missing/0-9/109652-2dgamemanias-taken.json"
     },
     {
       "igdb_id": 155095,
@@ -15868,6 +15863,11 @@
       "file": "missing/A/85505-asteroid-challenge.json"
     },
     {
+      "igdb_id": 178624,
+      "game_name": "Asteroid Evader",
+      "file": "missing/A/178624-asteroid-evader.json"
+    },
+    {
       "igdb_id": 120375,
       "game_name": "Asteroid Invaders",
       "file": "missing/A/120375-asteroid-invaders.json"
@@ -15881,6 +15881,11 @@
       "igdb_id": 276700,
       "game_name": "Asteroid King",
       "file": "missing/A/276700-asteroid-king.json"
+    },
+    {
+      "igdb_id": 178629,
+      "game_name": "Asteroid Must Die! 2",
+      "file": "missing/A/178629-asteroid-must-die-2.json"
     },
     {
       "igdb_id": 211409,
@@ -15921,6 +15926,11 @@
       "igdb_id": 10664,
       "game_name": "Asteroids Hyper 64",
       "file": "missing/A/10664-asteroids-hyper-64.json"
+    },
+    {
+      "igdb_id": 178631,
+      "game_name": "Asteroids Space Shooter",
+      "file": "missing/A/178631-asteroids-space-shooter.json"
     },
     {
       "igdb_id": 64402,
@@ -24516,6 +24526,11 @@
       "igdb_id": 52629,
       "game_name": "Binary Domain Collection",
       "file": "missing/B/52629-binary-domain-collection.json"
+    },
+    {
+      "igdb_id": 178616,
+      "game_name": "Binary Quest",
+      "file": "missing/B/178616-binary-quest.json"
     },
     {
       "igdb_id": 203906,
@@ -42728,6 +42743,11 @@
       "file": "missing/C/182516-colorsense.json"
     },
     {
+      "igdb_id": 178620,
+      "game_name": "ColorTris",
+      "file": "missing/C/178620-colortris.json"
+    },
+    {
       "igdb_id": 21043,
       "game_name": "ColorZ",
       "file": "missing/C/21043-colorz.json"
@@ -52753,6 +52773,11 @@
       "file": "missing/D/45334-death-star-interceptor.json"
     },
     {
+      "igdb_id": 178618,
+      "game_name": "Death Star Prison Break",
+      "file": "missing/D/178618-death-star-prison-break.json"
+    },
+    {
       "igdb_id": 231350,
       "game_name": "Death Swap: End As One",
       "file": "missing/D/231350-death-swap-end-as-one.json"
@@ -53836,6 +53861,11 @@
       "igdb_id": 351644,
       "game_name": "Deluge",
       "file": "missing/D/351644-deluge.json"
+    },
+    {
+      "igdb_id": 178607,
+      "game_name": "Delusion Gallery",
+      "file": "missing/D/178607-delusion-gallery.json"
     },
     {
       "igdb_id": 377584,
@@ -62058,6 +62088,11 @@
       "file": "missing/D/195703-drillman-6378137.json"
     },
     {
+      "igdb_id": 178604,
+      "game_name": "Drink",
+      "file": "missing/D/178604-drink.json"
+    },
+    {
       "igdb_id": 185673,
       "game_name": "Drink Beer, Neglect Family",
       "file": "missing/D/185673-drink-beer-neglect-family.json"
@@ -63406,6 +63441,11 @@
       "igdb_id": 193990,
       "game_name": "Dungeon of Despair",
       "file": "missing/D/193990-dungeon-of-despair.json"
+    },
+    {
+      "igdb_id": 178615,
+      "game_name": "Dungeon of Doom",
+      "file": "missing/D/178615-dungeon-of-doom.json"
     },
     {
       "igdb_id": 374614,
@@ -66791,6 +66831,11 @@
       "igdb_id": 232687,
       "game_name": "EmoteGuesser",
       "file": "missing/E/232687-emoteguesser.json"
+    },
+    {
+      "igdb_id": 178603,
+      "game_name": "Emotions: A Day In A Life",
+      "file": "missing/E/178603-emotions-a-day-in-a-life.json"
     },
     {
       "igdb_id": 155661,
@@ -75633,6 +75678,11 @@
       "file": "missing/F/333391-firelore-short-tales.json"
     },
     {
+      "igdb_id": 178606,
+      "game_name": "Firemakaf",
+      "file": "missing/F/178606-firemakaf.json"
+    },
+    {
       "igdb_id": 105934,
       "game_name": "Fireman Titan Fights Games",
       "file": "missing/F/105934-fireman-titan-fights-games.json"
@@ -79703,6 +79753,11 @@
       "file": "missing/F/383928-foxcrate.json"
     },
     {
+      "igdb_id": 178608,
+      "game_name": "Foxes and Cows",
+      "file": "missing/F/178608-foxes-and-cows.json"
+    },
+    {
       "igdb_id": 404247,
       "game_name": "Foxfire",
       "file": "missing/F/404247-foxfire.json"
@@ -82886,6 +82941,11 @@
       "igdb_id": 336890,
       "game_name": "Galactic Vibes",
       "file": "missing/G/336890-galactic-vibes.json"
+    },
+    {
+      "igdb_id": 178637,
+      "game_name": "Galactic Warp",
+      "file": "missing/G/178637-galactic-warp.json"
     },
     {
       "igdb_id": 133996,
@@ -106183,6 +106243,11 @@
       "file": "missing/I/68715-interstellar-invaders.json"
     },
     {
+      "igdb_id": 178634,
+      "game_name": "Interstellar Orphan",
+      "file": "missing/I/178634-interstellar-orphan.json"
+    },
+    {
       "igdb_id": 207860,
       "game_name": "Interstellar Pilot",
       "file": "missing/I/207860-interstellar-pilot.json"
@@ -118113,6 +118178,11 @@
       "file": "missing/L/180781-lee-carvallos-putting-challenge.json"
     },
     {
+      "igdb_id": 178622,
+      "game_name": "Left = Lose",
+      "file": "missing/L/178622-left-lose.json"
+    },
+    {
       "igdb_id": 207809,
       "game_name": "Left 2 Dating",
       "file": "missing/L/207809-left-2-dating.json"
@@ -118166,6 +118236,11 @@
       "igdb_id": 221977,
       "game_name": "Leftovers",
       "file": "missing/L/221977-leftovers.json"
+    },
+    {
+      "igdb_id": 178636,
+      "game_name": "Lefty",
+      "file": "missing/L/178636-lefty.json"
     },
     {
       "igdb_id": 213049,
@@ -122681,6 +122756,11 @@
       "igdb_id": 398368,
       "game_name": "Los Pilarcitos",
       "file": "missing/L/398368-los-pilarcitos.json"
+    },
+    {
+      "igdb_id": 178632,
+      "game_name": "Lose Control",
+      "file": "missing/L/178632-lose-control.json"
     },
     {
       "igdb_id": 179125,
@@ -134436,6 +134516,11 @@
       "igdb_id": 248063,
       "game_name": "Mines of Moria",
       "file": "missing/M/248063-mines-of-moria.json"
+    },
+    {
+      "igdb_id": 178612,
+      "game_name": "Minescroller",
+      "file": "missing/M/178612-minescroller.json"
     },
     {
       "igdb_id": 333023,
@@ -150468,6 +150553,11 @@
       "file": "missing/O/309379-oh-honey-anime-clicker.json"
     },
     {
+      "igdb_id": 178623,
+      "game_name": "Oh, It's Christmas",
+      "file": "missing/O/178623-oh-its-christmas.json"
+    },
+    {
       "igdb_id": 58231,
       "game_name": "Oh, My Word!",
       "file": "missing/O/58231-oh-my-word.json"
@@ -153061,6 +153151,11 @@
       "igdb_id": 319961,
       "game_name": "Orbital Dance",
       "file": "missing/O/319961-orbital-dance.json"
+    },
+    {
+      "igdb_id": 178635,
+      "game_name": "Orbital Defender",
+      "file": "missing/O/178635-orbital-defender.json"
     },
     {
       "igdb_id": 339275,
@@ -159598,6 +159693,11 @@
       "file": "missing/P/202393-picokaiju.json"
     },
     {
+      "igdb_id": 178605,
+      "game_name": "Picolarium",
+      "file": "missing/P/178605-picolarium.json"
+    },
+    {
       "igdb_id": 284321,
       "game_name": "Picoman Go",
       "file": "missing/P/284321-picoman-go.json"
@@ -159606,6 +159706,11 @@
       "igdb_id": 328259,
       "game_name": "PicoMix By NuSan",
       "file": "missing/P/328259-picomix-by-nusan.json"
+    },
+    {
+      "igdb_id": 178619,
+      "game_name": "PicoPlex",
+      "file": "missing/P/178619-picoplex.json"
     },
     {
       "igdb_id": 184630,
@@ -161838,6 +161943,11 @@
       "file": "missing/P/13747-planetoid.json"
     },
     {
+      "igdb_id": 178630,
+      "game_name": "Planetoidas",
+      "file": "missing/P/178630-planetoidas.json"
+    },
+    {
       "igdb_id": 210873,
       "game_name": "Planetoids",
       "file": "missing/P/210873-planetoids.json"
@@ -163978,6 +164088,11 @@
       "file": "missing/P/126000-pongis-jump.json"
     },
     {
+      "igdb_id": 178609,
+      "game_name": "Pongs",
+      "file": "missing/P/178609-pongs.json"
+    },
+    {
       "igdb_id": 253390,
       "game_name": "Pongspin",
       "file": "missing/P/253390-pongspin.json"
@@ -165916,6 +166031,11 @@
       "igdb_id": 351003,
       "game_name": "Pro Baccarat",
       "file": "missing/P/351003-pro-baccarat.json"
+    },
+    {
+      "igdb_id": 178611,
+      "game_name": "Pro Balance",
+      "file": "missing/P/178611-pro-balance.json"
     },
     {
       "igdb_id": 220656,
@@ -172203,6 +172323,11 @@
       "file": "missing/R/297797-reach-your-destiny.json"
     },
     {
+      "igdb_id": 178627,
+      "game_name": "Reaching the Seven: Asteroids",
+      "file": "missing/R/178627-reaching-the-seven-asteroids.json"
+    },
+    {
       "igdb_id": 152347,
       "game_name": "Reaction",
       "file": "missing/R/152347-reaction.json"
@@ -177118,6 +177243,11 @@
       "file": "missing/R/303237-robinwords.json"
     },
     {
+      "igdb_id": 178614,
+      "game_name": "Robman",
+      "file": "missing/R/178614-robman.json"
+    },
+    {
       "igdb_id": 89970,
       "game_name": "Robo Boop",
       "file": "missing/R/89970-robo-boop.json"
@@ -177538,6 +177668,11 @@
       "file": "missing/R/312010-rock-paper-everything.json"
     },
     {
+      "igdb_id": 178621,
+      "game_name": "Rock Paper Scissors 2!",
+      "file": "missing/R/178621-rock-paper-scissors-2.json"
+    },
+    {
       "igdb_id": 410207,
       "game_name": "Rock Paper Scissors: The Roguelike Puzzle Game",
       "file": "missing/R/410207-rock-paper-scissors-the-roguelike-puzzle-game.json"
@@ -177801,6 +177936,11 @@
       "igdb_id": 36342,
       "game_name": "RocketsRocketsRockets",
       "file": "missing/R/36342-rocketsrocketsrockets.json"
+    },
+    {
+      "igdb_id": 178633,
+      "game_name": "Rockin'Space",
+      "file": "missing/R/178633-rockinspace.json"
     },
     {
       "igdb_id": 176479,
@@ -196658,6 +196798,11 @@
       "file": "missing/S/75179-soul-of-mask.json"
     },
     {
+      "igdb_id": 178617,
+      "game_name": "Soul of the Beast",
+      "file": "missing/S/178617-soul-of-the-beast.json"
+    },
+    {
       "igdb_id": 236542,
       "game_name": "Soul Passage",
       "file": "missing/S/236542-soul-passage.json"
@@ -206543,6 +206688,11 @@
       "file": "missing/S/334508-super-capsule-boy.json"
     },
     {
+      "igdb_id": 178626,
+      "game_name": "Super Caronaut",
+      "file": "missing/S/178626-super-caronaut.json"
+    },
+    {
       "igdb_id": 12227,
       "game_name": "Super Cars II",
       "file": "missing/S/12227-super-cars-ii.json"
@@ -206991,6 +207141,11 @@
       "igdb_id": 378784,
       "game_name": "Super Hoops 2",
       "file": "missing/S/378784-super-hoops-2.json"
+    },
+    {
+      "igdb_id": 178613,
+      "game_name": "Super Hot Pellet Muncher 2000",
+      "file": "missing/S/178613-super-hot-pellet-muncher-2000.json"
     },
     {
       "igdb_id": 193502,
@@ -238993,6 +239148,11 @@
       "file": "missing/U/243420-um-jammer-lammy-now.json"
     },
     {
+      "igdb_id": 178625,
+      "game_name": "Uma Casa Que Não é Sua",
+      "file": "missing/U/178625-uma-casa-que-nao-e-sua.json"
+    },
+    {
       "igdb_id": 369045,
       "game_name": "Umadle",
       "file": "missing/U/369045-umadle.json"
@@ -244441,6 +244601,11 @@
       "igdb_id": 272585,
       "game_name": "Voxile",
       "file": "missing/V/272585-voxile.json"
+    },
+    {
+      "igdb_id": 178628,
+      "game_name": "Voxorp",
+      "file": "missing/V/178628-voxorp.json"
     },
     {
       "igdb_id": 336361,
@@ -254706,6 +254871,11 @@
       "igdb_id": 133463,
       "game_name": "Yuldigard's Fate",
       "file": "missing/Y/133463-yuldigards-fate.json"
+    },
+    {
+      "igdb_id": 178610,
+      "game_name": "Yule Sock",
+      "file": "missing/Y/178610-yule-sock.json"
     },
     {
       "igdb_id": 415949,
