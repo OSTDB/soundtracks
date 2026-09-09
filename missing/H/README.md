@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Mission | 73853 | [73853-helicopter-mission.json](./73853-helicopter-mission.json) |
 | Helicopter Sim Pro Hellfire | 101537 | [101537-helicopter-sim-pro-hellfire.json](./101537-helicopter-sim-pro-hellfire.json) |
 | Helidroid 3B PRO : 3D RC Copter | 82113 | [82113-helidroid-3b-pro-3d-rc-copter.json](./82113-helidroid-3b-pro-3d-rc-copter.json) |
+| Helios | 185086 | [185086-helios.json](./185086-helios.json) |
 | Helios Battle Universe | 157180 | [157180-helios-battle-universe.json](./157180-helios-battle-universe.json) |
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
 | Helix Ball | 104651 | [104651-helix-ball.json](./104651-helix-ball.json) |
@@ -1071,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Res Cribbage | 66708 | [66708-hi-res-cribbage.json](./66708-hi-res-cribbage.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
+| Hibernia | 185084 | [185084-hibernia.json](./185084-hibernia.json) |
 | Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
 | Hibridya | 371274 | [371274-hibridya.json](./371274-hibridya.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
