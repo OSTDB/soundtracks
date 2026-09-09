@@ -758,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Gloom | 151203 | [151203-gloom.json](./151203-gloom.json) |
 | Gloom | 78126 | [78126-gloom.json](./78126-gloom.json) |
+| Gloomhaven: Jaws of the Lion | 197889 | [197889-gloomhaven-jaws-of-the-lion.json](./197889-gloomhaven-jaws-of-the-lion.json) |
 | Gloomhaven: Jaws of the Lion - Alternative Skins | 267360 | [267360-gloomhaven-jaws-of-the-lion-alternative-skins.json](./267360-gloomhaven-jaws-of-the-lion-alternative-skins.json) |
 | Gloomscape | 253396 | [253396-gloomscape.json](./253396-gloomscape.json) |
 | Gloomsday | 285459 | [285459-gloomsday.json](./285459-gloomsday.json) |
