@@ -316,9 +316,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
+| Lazy Pirates | 180752 | [180752-lazy-pirates.json](./180752-lazy-pirates.json) |
 | LazyTown Live! The Pirate Adventure | 199039 | [199039-lazytown-live-the-pirate-adventure.json](./199039-lazytown-live-the-pirate-adventure.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
 | LBX: Little Battlers eXperience | 11257 | [11257-lbx-little-battlers-experience.json](./11257-lbx-little-battlers-experience.json) |
+| LCD Dream Escalator | 180784 | [180784-lcd-dream-escalator.json](./180784-lcd-dream-escalator.json) |
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
@@ -374,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
 | Lederzwerge Deluxe XXL Version | 84279 | [84279-lederzwerge-deluxe-xxl-version.json](./84279-lederzwerge-deluxe-xxl-version.json) |
 | Ledoliel | 128629 | [128629-ledoliel.json](./128629-ledoliel.json) |
+| Lee Carvallo's Putting Challenge | 180781 | [180781-lee-carvallos-putting-challenge.json](./180781-lee-carvallos-putting-challenge.json) |
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
@@ -939,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Listen, Think, Meow! | 304596 | [304596-listen-think-meow.json](./304596-listen-think-meow.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | LiteracyPlanet: Word Mania | 203372 | [203372-literacyplanet-word-mania.json](./203372-literacyplanet-word-mania.json) |
+| Literally Free Will (From Prison) | 180750 | [180750-literally-free-will-from-prison.json](./180750-literally-free-will-from-prison.json) |
 | Literally Just Pixels On A Screen | 340922 | [340922-literally-just-pixels-on-a-screen.json](./340922-literally-just-pixels-on-a-screen.json) |
 | Litguy Adventure | 213390 | [213390-litguy-adventure.json](./213390-litguy-adventure.json) |
 | Lithium: Inmate 39 | 25876 | [25876-lithium-inmate-39.json](./25876-lithium-inmate-39.json) |
@@ -1231,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Ball | 239290 | [239290-loopy-ball.json](./239290-loopy-ball.json) |
 | Loopy Blocks | 254151 | [254151-loopy-blocks.json](./254151-loopy-blocks.json) |
 | Loopy Tennis | 317228 | [317228-loopy-tennis.json](./317228-loopy-tennis.json) |
+| Loopy Treasure | 180764 | [180764-loopy-treasure.json](./180764-loopy-treasure.json) |
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
@@ -1464,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
 | Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
 | Lovecraft's Mythos Run | 248055 | [248055-lovecrafts-mythos-run.json](./248055-lovecrafts-mythos-run.json) |
+| LoveCrafting | 180797 | [180797-lovecrafting.json](./180797-lovecrafting.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
 | Lovelink | 204709 | [204709-lovelink.json](./204709-lovelink.json) |
 | Lovelorn Sanatorium Ⅲ | 239654 | [239654-lovelorn-sanatorium-iii.json](./239654-lovelorn-sanatorium-iii.json) |
@@ -1506,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LucasArts Adventure Pack | 27848 | [27848-lucasarts-adventure-pack.json](./27848-lucasarts-adventure-pack.json) |
 | Luce Spenta | 371240 | [371240-luce-spenta.json](./371240-luce-spenta.json) |
 | Luce's Journey: A Victorian Trading Tale | 271210 | [271210-luces-journey-a-victorian-trading-tale.json](./271210-luces-journey-a-victorian-trading-tale.json) |
+| Lucerna Tenebris | 180767 | [180767-lucerna-tenebris.json](./180767-lucerna-tenebris.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucian Bee's: Resurrection Supernova | 59424 | [59424-lucian-bees-resurrection-supernova.json](./59424-lucian-bees-resurrection-supernova.json) |
