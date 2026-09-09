@@ -803,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eroblast: Playful Edition | 259572 | [259572-eroblast-playful-edition.json](./259572-eroblast-playful-edition.json) |
 | Erobos Heaven | 247514 | [247514-erobos-heaven.json](./247514-erobos-heaven.json) |
 | Eros Fantasy | 199606 | [199606-eros-fantasy.json](./199606-eros-fantasy.json) |
+| Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
@@ -1138,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dungeons 2 | 323160 | [323160-evil-dungeons-2.json](./323160-evil-dungeons-2.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil Genius 2: World Domination - Deluxe Edition | 188025 | [188025-evil-genius-2-world-domination-deluxe-edition.json](./188025-evil-genius-2-world-domination-deluxe-edition.json) |
+| Evil Hand | 176435 | [176435-evil-hand.json](./176435-evil-hand.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
