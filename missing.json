@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T11:41:09.697Z",
-  "total_missing": 50298,
+  "generated_at": "2026-09-09T11:48:08.688Z",
+  "total_missing": 50348,
   "games": [
     {
       "igdb_id": 306086,
@@ -198273,9 +198273,259 @@
       "file": "missing/S/145644-starry-flowers.json"
     },
     {
+      "igdb_id": 190666,
+      "game_name": "Starry Moon Island: Break Out MP01",
+      "file": "missing/S/190666-starry-moon-island-break-out-mp01.json"
+    },
+    {
+      "igdb_id": 190658,
+      "game_name": "Starry Moon Island: Break Out MP02",
+      "file": "missing/S/190658-starry-moon-island-break-out-mp02.json"
+    },
+    {
+      "igdb_id": 190659,
+      "game_name": "Starry Moon Island: Break Out MP03",
+      "file": "missing/S/190659-starry-moon-island-break-out-mp03.json"
+    },
+    {
+      "igdb_id": 190663,
+      "game_name": "Starry Moon Island: Break Out MP04",
+      "file": "missing/S/190663-starry-moon-island-break-out-mp04.json"
+    },
+    {
+      "igdb_id": 190657,
+      "game_name": "Starry Moon Island: Break Out MP05",
+      "file": "missing/S/190657-starry-moon-island-break-out-mp05.json"
+    },
+    {
+      "igdb_id": 190662,
+      "game_name": "Starry Moon Island: Break Out MP06",
+      "file": "missing/S/190662-starry-moon-island-break-out-mp06.json"
+    },
+    {
+      "igdb_id": 190665,
+      "game_name": "Starry Moon Island: Break Out MP07",
+      "file": "missing/S/190665-starry-moon-island-break-out-mp07.json"
+    },
+    {
+      "igdb_id": 190661,
+      "game_name": "Starry Moon Island: Break Out MP08",
+      "file": "missing/S/190661-starry-moon-island-break-out-mp08.json"
+    },
+    {
+      "igdb_id": 190664,
+      "game_name": "Starry Moon Island: Break Out MP09",
+      "file": "missing/S/190664-starry-moon-island-break-out-mp09.json"
+    },
+    {
+      "igdb_id": 190660,
+      "game_name": "Starry Moon Island: Break Out MP10",
+      "file": "missing/S/190660-starry-moon-island-break-out-mp10.json"
+    },
+    {
+      "igdb_id": 190670,
+      "game_name": "Starry Moon Island: Cannonade MP01",
+      "file": "missing/S/190670-starry-moon-island-cannonade-mp01.json"
+    },
+    {
+      "igdb_id": 190675,
+      "game_name": "Starry Moon Island: Cannonade MP02",
+      "file": "missing/S/190675-starry-moon-island-cannonade-mp02.json"
+    },
+    {
+      "igdb_id": 190676,
+      "game_name": "Starry Moon Island: Cannonade MP03",
+      "file": "missing/S/190676-starry-moon-island-cannonade-mp03.json"
+    },
+    {
+      "igdb_id": 190669,
+      "game_name": "Starry Moon Island: Cannonade MP04",
+      "file": "missing/S/190669-starry-moon-island-cannonade-mp04.json"
+    },
+    {
+      "igdb_id": 190672,
+      "game_name": "Starry Moon Island: Cannonade MP05",
+      "file": "missing/S/190672-starry-moon-island-cannonade-mp05.json"
+    },
+    {
+      "igdb_id": 190667,
+      "game_name": "Starry Moon Island: Cannonade MP06",
+      "file": "missing/S/190667-starry-moon-island-cannonade-mp06.json"
+    },
+    {
+      "igdb_id": 190674,
+      "game_name": "Starry Moon Island: Cannonade MP07",
+      "file": "missing/S/190674-starry-moon-island-cannonade-mp07.json"
+    },
+    {
+      "igdb_id": 190671,
+      "game_name": "Starry Moon Island: Cannonade MP08",
+      "file": "missing/S/190671-starry-moon-island-cannonade-mp08.json"
+    },
+    {
+      "igdb_id": 190673,
+      "game_name": "Starry Moon Island: Cannonade MP09",
+      "file": "missing/S/190673-starry-moon-island-cannonade-mp09.json"
+    },
+    {
+      "igdb_id": 190668,
+      "game_name": "Starry Moon Island: Cannonade MP10",
+      "file": "missing/S/190668-starry-moon-island-cannonade-mp10.json"
+    },
+    {
+      "igdb_id": 190688,
+      "game_name": "Starry Moon Island: Mobile Stronghold MP01",
+      "file": "missing/S/190688-starry-moon-island-mobile-stronghold-mp01.json"
+    },
+    {
+      "igdb_id": 190687,
+      "game_name": "Starry Moon Island: Mobile Stronghold MP02",
+      "file": "missing/S/190687-starry-moon-island-mobile-stronghold-mp02.json"
+    },
+    {
       "igdb_id": 190696,
       "game_name": "Starry Moon Island: Mobile Stronghold MP09",
       "file": "missing/S/190696-starry-moon-island-mobile-stronghold-mp09.json"
+    },
+    {
+      "igdb_id": 190641,
+      "game_name": "Starry Moon Island: Out of Control MP02",
+      "file": "missing/S/190641-starry-moon-island-out-of-control-mp02.json"
+    },
+    {
+      "igdb_id": 190639,
+      "game_name": "Starry Moon Island: Out of Control MP03",
+      "file": "missing/S/190639-starry-moon-island-out-of-control-mp03.json"
+    },
+    {
+      "igdb_id": 190646,
+      "game_name": "Starry Moon Island: Out of Control MP04",
+      "file": "missing/S/190646-starry-moon-island-out-of-control-mp04.json"
+    },
+    {
+      "igdb_id": 190640,
+      "game_name": "Starry Moon Island: Out of Control MP06",
+      "file": "missing/S/190640-starry-moon-island-out-of-control-mp06.json"
+    },
+    {
+      "igdb_id": 190643,
+      "game_name": "Starry Moon Island: Out of Control MP07",
+      "file": "missing/S/190643-starry-moon-island-out-of-control-mp07.json"
+    },
+    {
+      "igdb_id": 190642,
+      "game_name": "Starry Moon Island: Out of Control MP08",
+      "file": "missing/S/190642-starry-moon-island-out-of-control-mp08.json"
+    },
+    {
+      "igdb_id": 190644,
+      "game_name": "Starry Moon Island: Out of Control MP09",
+      "file": "missing/S/190644-starry-moon-island-out-of-control-mp09.json"
+    },
+    {
+      "igdb_id": 190645,
+      "game_name": "Starry Moon Island: Out of Control MP10",
+      "file": "missing/S/190645-starry-moon-island-out-of-control-mp10.json"
+    },
+    {
+      "igdb_id": 190649,
+      "game_name": "Starry Moon Island: Perimeter MP01",
+      "file": "missing/S/190649-starry-moon-island-perimeter-mp01.json"
+    },
+    {
+      "igdb_id": 190656,
+      "game_name": "Starry Moon Island: Perimeter MP02",
+      "file": "missing/S/190656-starry-moon-island-perimeter-mp02.json"
+    },
+    {
+      "igdb_id": 190647,
+      "game_name": "Starry Moon Island: Perimeter MP03",
+      "file": "missing/S/190647-starry-moon-island-perimeter-mp03.json"
+    },
+    {
+      "igdb_id": 190654,
+      "game_name": "Starry Moon Island: Perimeter MP04",
+      "file": "missing/S/190654-starry-moon-island-perimeter-mp04.json"
+    },
+    {
+      "igdb_id": 190653,
+      "game_name": "Starry Moon Island: Perimeter MP05",
+      "file": "missing/S/190653-starry-moon-island-perimeter-mp05.json"
+    },
+    {
+      "igdb_id": 190655,
+      "game_name": "Starry Moon Island: Perimeter MP06",
+      "file": "missing/S/190655-starry-moon-island-perimeter-mp06.json"
+    },
+    {
+      "igdb_id": 190651,
+      "game_name": "Starry Moon Island: Perimeter MP07",
+      "file": "missing/S/190651-starry-moon-island-perimeter-mp07.json"
+    },
+    {
+      "igdb_id": 190650,
+      "game_name": "Starry Moon Island: Perimeter MP08",
+      "file": "missing/S/190650-starry-moon-island-perimeter-mp08.json"
+    },
+    {
+      "igdb_id": 190648,
+      "game_name": "Starry Moon Island: Perimeter MP09",
+      "file": "missing/S/190648-starry-moon-island-perimeter-mp09.json"
+    },
+    {
+      "igdb_id": 190652,
+      "game_name": "Starry Moon Island: Perimeter MP10",
+      "file": "missing/S/190652-starry-moon-island-perimeter-mp10.json"
+    },
+    {
+      "igdb_id": 190684,
+      "game_name": "Starry Moon Island: Star Ocean MP01",
+      "file": "missing/S/190684-starry-moon-island-star-ocean-mp01.json"
+    },
+    {
+      "igdb_id": 190679,
+      "game_name": "Starry Moon Island: Star Ocean MP02",
+      "file": "missing/S/190679-starry-moon-island-star-ocean-mp02.json"
+    },
+    {
+      "igdb_id": 190678,
+      "game_name": "Starry Moon Island: Star Ocean MP03",
+      "file": "missing/S/190678-starry-moon-island-star-ocean-mp03.json"
+    },
+    {
+      "igdb_id": 190685,
+      "game_name": "Starry Moon Island: Star Ocean MP04",
+      "file": "missing/S/190685-starry-moon-island-star-ocean-mp04.json"
+    },
+    {
+      "igdb_id": 190680,
+      "game_name": "Starry Moon Island: Star Ocean MP05",
+      "file": "missing/S/190680-starry-moon-island-star-ocean-mp05.json"
+    },
+    {
+      "igdb_id": 190686,
+      "game_name": "Starry Moon Island: Star Ocean MP06",
+      "file": "missing/S/190686-starry-moon-island-star-ocean-mp06.json"
+    },
+    {
+      "igdb_id": 190681,
+      "game_name": "Starry Moon Island: Star Ocean MP07",
+      "file": "missing/S/190681-starry-moon-island-star-ocean-mp07.json"
+    },
+    {
+      "igdb_id": 190682,
+      "game_name": "Starry Moon Island: Star Ocean MP08",
+      "file": "missing/S/190682-starry-moon-island-star-ocean-mp08.json"
+    },
+    {
+      "igdb_id": 190683,
+      "game_name": "Starry Moon Island: Star Ocean MP09",
+      "file": "missing/S/190683-starry-moon-island-star-ocean-mp09.json"
+    },
+    {
+      "igdb_id": 190677,
+      "game_name": "Starry Moon Island: Star Ocean MP10",
+      "file": "missing/S/190677-starry-moon-island-star-ocean-mp10.json"
     },
     {
       "igdb_id": 30868,
