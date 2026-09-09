@@ -159,7 +159,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1: Monumental Bundle | 208044 | [208044-2-in-1-monumental-bundle.json](./208044-2-in-1-monumental-bundle.json) |
 | 2 in 1: V-Rally 3 + Stuntman | 84266 | [84266-2-in-1-v-rally-3-stuntman.json](./84266-2-in-1-v-rally-3-stuntman.json) |
 | 2 Late 2 Evade | 216773 | [216773-2-late-2-evade.json](./216773-2-late-2-evade.json) |
-| 2 Ninjas 1 Cup | 29898 | [29898-2-ninjas-1-cup.json](./29898-2-ninjas-1-cup.json) |
 | 2 of Me | 221177 | [221177-2-of-me.json](./221177-2-of-me.json) |
 | 2 on 2 Open Ice Challenge | 39657 | [39657-2-on-2-open-ice-challenge.json](./39657-2-on-2-open-ice-challenge.json) |
 | 2 Player Baseball | 245578 | [245578-2-player-baseball.json](./245578-2-player-baseball.json) |
