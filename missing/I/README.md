@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
 | In the Space: Escape Room | 195800 | [195800-in-the-space-escape-room.json](./195800-in-the-space-escape-room.json) |
 | In the Village of Grandfather: Summer,Sun,Heat. | 106576 | [106576-in-the-village-of-grandfather-summer-sun-heat.json](./106576-in-the-village-of-grandfather-summer-sun-heat.json) |
+| In the Wild | 190143 | [190143-in-the-wild.json](./190143-in-the-wild.json) |
 | In the Workplace of Madness | 207335 | [207335-in-the-workplace-of-madness.json](./207335-in-the-workplace-of-madness.json) |
 | In Verbis Virtus | 16560 | [16560-in-verbis-virtus.json](./16560-in-verbis-virtus.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
@@ -579,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
 | Industrial Annihilation | 324902 | [324902-industrial-annihilation.json](./324902-industrial-annihilation.json) |
 | Industrial Combat | 271750 | [271750-industrial-combat.json](./271750-industrial-combat.json) |
+| Industriality | 190159 | [190159-industriality.json](./190159-industriality.json) |
 | Industry Giant 2 - Gold 2012 | 53228 | [53228-industry-giant-2-gold-2012.json](./53228-industry-giant-2-gold-2012.json) |
 | Industry Giant 2 HD | 53229 | [53229-industry-giant-2-hd.json](./53229-industry-giant-2-hd.json) |
 | Industry Giant 4.0 | 284886 | [284886-industry-giant-4-0.json](./284886-industry-giant-4-0.json) |
@@ -892,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Into the War | 35825 | [35825-into-the-war.json](./35825-into-the-war.json) |
+| Into the Waves | 190163 | [190163-into-the-waves.json](./190163-into-the-waves.json) |
 | Into the Wild | 304610 | [304610-into-the-wild.json](./304610-into-the-wild.json) |
 | Into The Wild | 310940 | [310940-into-the-wild.json](./310940-into-the-wild.json) |
 | Into The Wild | 377583 | [377583-into-the-wild.json](./377583-into-the-wild.json) |
