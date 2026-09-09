@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon Summoner | 44628 | [44628-daemon-summoner.json](./44628-daemon-summoner.json) |
 | Daemon x Machina: Titanic Scion - Into the Abyss | 375177 | [375177-daemon-x-machina-titanic-scion-into-the-abyss.json](./375177-daemon-x-machina-titanic-scion-into-the-abyss.json) |
 | Daemonical | 96233 | [96233-daemonical.json](./96233-daemonical.json) |
+| Daemonologie | 179677 | [179677-daemonologie.json](./179677-daemonologie.json) |
 | Daemonologie | 313586 | [313586-daemonologie.json](./313586-daemonologie.json) |
 | Daemonstration | 179752 | [179752-daemonstration.json](./179752-daemonstration.json) |
 | Daemonum | 223147 | [223147-daemonum.json](./223147-daemonum.json) |
@@ -622,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
+| Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
 | Death and Taxes | 126835 | [126835-death-and-taxes.json](./126835-death-and-taxes.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
@@ -751,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep in the fields | 402904 | [402904-deep-in-the-fields.json](./402904-deep-in-the-fields.json) |
 | Deep in the Forest | 183042 | [183042-deep-in-the-forest.json](./183042-deep-in-the-forest.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
+| Deep Inside | 179662 | [179662-deep-inside.json](./179662-deep-inside.json) |
 | Deep Labyrinth | 20552 | [20552-deep-labyrinth.json](./20552-deep-labyrinth.json) |
 | Deep Nest | 262950 | [262950-deep-nest.json](./262950-deep-nest.json) |
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
@@ -1536,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
+| Dismal Anhedonia Land | 179654 | [179654-dismal-anhedonia-land.json](./179654-dismal-anhedonia-land.json) |
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
