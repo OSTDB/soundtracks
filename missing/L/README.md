@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Card Dungeon | 370139 | [370139-last-card-dungeon.json](./370139-last-card-dungeon.json) |
 | Last Case | 377058 | [377058-last-case.json](./377058-last-case.json) |
 | Last Caveman | 278972 | [278972-last-caveman.json](./278972-last-caveman.json) |
+| Last Chance to Green | 179655 | [179655-last-chance-to-green.json](./179655-last-chance-to-green.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
 | Last Contingency | 152902 | [152902-last-contingency.json](./152902-last-contingency.json) |
 | Last Dawn | 236847 | [236847-last-dawn.json](./236847-last-dawn.json) |
@@ -1453,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Story: The Way Home | 102187 | [102187-love-story-the-way-home.json](./102187-love-story-the-way-home.json) |
 | Love Talks | 209477 | [209477-love-talks.json](./209477-love-talks.json) |
 | Love Tavern | 165028 | [165028-love-tavern.json](./165028-love-tavern.json) |
+| Love the Guard, Be the King | 179686 | [179686-love-the-guard-be-the-king.json](./179686-love-the-guard-be-the-king.json) |
 | Love Too Easily Bundle | 400199 | [400199-love-too-easily-bundle.json](./400199-love-too-easily-bundle.json) |
 | Love Undying: A Kiss Before Dawn | 302953 | [302953-love-undying-a-kiss-before-dawn.json](./302953-love-undying-a-kiss-before-dawn.json) |
 | Love Verne | 183585 | [183585-love-verne.json](./183585-love-verne.json) |
