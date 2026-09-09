@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unalive | 29969 | [29969-unalive.json](./29969-unalive.json) |
 | Unanimy | 211756 | [211756-unanimy.json](./211756-unanimy.json) |
 | Unanswered | 401529 | [401529-unanswered.json](./401529-unanswered.json) |
+| Unawake | 173247 | [173247-unawake.json](./173247-unawake.json) |
 | UNB | 335890 | [335890-unb.json](./335890-unb.json) |
 | Unblock Car : Puzzles Game | 104629 | [104629-unblock-car-puzzles-game.json](./104629-unblock-car-puzzles-game.json) |
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
@@ -287,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
 | Underground Defense Force: Sword and Sorcery and Swarm of Insects | 270108 | [270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json](./270108-underground-defense-force-sword-and-sorcery-and-swarm-of-insects.json) |
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
+| Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Underground Security Inc | 367984 | [367984-underground-security-inc.json](./367984-underground-security-inc.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
