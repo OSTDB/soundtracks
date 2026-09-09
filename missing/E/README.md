@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Tail | 215924 | [215924-energy-tail.json](./215924-energy-tail.json) |
 | Energy Tanks | 269270 | [269270-energy-tanks.json](./269270-energy-tanks.json) |
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
+| Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | Engare | 34110 | [34110-engare.json](./34110-engare.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
@@ -882,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From This Planet | 224550 | [224550-escape-from-this-planet.json](./224550-escape-from-this-planet.json) |
 | Escape from Vacov | 412993 | [412993-escape-from-vacov.json](./412993-escape-from-vacov.json) |
 | Escape from Voyna | 96738 | [96738-escape-from-voyna.json](./96738-escape-from-voyna.json) |
+| Escape From Woomera | 172108 | [172108-escape-from-woomera.json](./172108-escape-from-woomera.json) |
 | Escape From Yandere | 388741 | [388741-escape-from-yandere.json](./388741-escape-from-yandere.json) |
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
 | Escape From Zombie U: Reloaded | 199601 | [199601-escape-from-zombie-u-reloaded.json](./199601-escape-from-zombie-u-reloaded.json) |
@@ -1356,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
+| Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
