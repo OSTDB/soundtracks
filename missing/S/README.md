@@ -4155,7 +4155,57 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starquake Academy | 113029 | [113029-starquake-academy.json](./113029-starquake-academy.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
+| Starry Moon Island: Break Out MP01 | 190666 | [190666-starry-moon-island-break-out-mp01.json](./190666-starry-moon-island-break-out-mp01.json) |
+| Starry Moon Island: Break Out MP02 | 190658 | [190658-starry-moon-island-break-out-mp02.json](./190658-starry-moon-island-break-out-mp02.json) |
+| Starry Moon Island: Break Out MP03 | 190659 | [190659-starry-moon-island-break-out-mp03.json](./190659-starry-moon-island-break-out-mp03.json) |
+| Starry Moon Island: Break Out MP04 | 190663 | [190663-starry-moon-island-break-out-mp04.json](./190663-starry-moon-island-break-out-mp04.json) |
+| Starry Moon Island: Break Out MP05 | 190657 | [190657-starry-moon-island-break-out-mp05.json](./190657-starry-moon-island-break-out-mp05.json) |
+| Starry Moon Island: Break Out MP06 | 190662 | [190662-starry-moon-island-break-out-mp06.json](./190662-starry-moon-island-break-out-mp06.json) |
+| Starry Moon Island: Break Out MP07 | 190665 | [190665-starry-moon-island-break-out-mp07.json](./190665-starry-moon-island-break-out-mp07.json) |
+| Starry Moon Island: Break Out MP08 | 190661 | [190661-starry-moon-island-break-out-mp08.json](./190661-starry-moon-island-break-out-mp08.json) |
+| Starry Moon Island: Break Out MP09 | 190664 | [190664-starry-moon-island-break-out-mp09.json](./190664-starry-moon-island-break-out-mp09.json) |
+| Starry Moon Island: Break Out MP10 | 190660 | [190660-starry-moon-island-break-out-mp10.json](./190660-starry-moon-island-break-out-mp10.json) |
+| Starry Moon Island: Cannonade MP01 | 190670 | [190670-starry-moon-island-cannonade-mp01.json](./190670-starry-moon-island-cannonade-mp01.json) |
+| Starry Moon Island: Cannonade MP02 | 190675 | [190675-starry-moon-island-cannonade-mp02.json](./190675-starry-moon-island-cannonade-mp02.json) |
+| Starry Moon Island: Cannonade MP03 | 190676 | [190676-starry-moon-island-cannonade-mp03.json](./190676-starry-moon-island-cannonade-mp03.json) |
+| Starry Moon Island: Cannonade MP04 | 190669 | [190669-starry-moon-island-cannonade-mp04.json](./190669-starry-moon-island-cannonade-mp04.json) |
+| Starry Moon Island: Cannonade MP05 | 190672 | [190672-starry-moon-island-cannonade-mp05.json](./190672-starry-moon-island-cannonade-mp05.json) |
+| Starry Moon Island: Cannonade MP06 | 190667 | [190667-starry-moon-island-cannonade-mp06.json](./190667-starry-moon-island-cannonade-mp06.json) |
+| Starry Moon Island: Cannonade MP07 | 190674 | [190674-starry-moon-island-cannonade-mp07.json](./190674-starry-moon-island-cannonade-mp07.json) |
+| Starry Moon Island: Cannonade MP08 | 190671 | [190671-starry-moon-island-cannonade-mp08.json](./190671-starry-moon-island-cannonade-mp08.json) |
+| Starry Moon Island: Cannonade MP09 | 190673 | [190673-starry-moon-island-cannonade-mp09.json](./190673-starry-moon-island-cannonade-mp09.json) |
+| Starry Moon Island: Cannonade MP10 | 190668 | [190668-starry-moon-island-cannonade-mp10.json](./190668-starry-moon-island-cannonade-mp10.json) |
+| Starry Moon Island: Mobile Stronghold MP01 | 190688 | [190688-starry-moon-island-mobile-stronghold-mp01.json](./190688-starry-moon-island-mobile-stronghold-mp01.json) |
+| Starry Moon Island: Mobile Stronghold MP02 | 190687 | [190687-starry-moon-island-mobile-stronghold-mp02.json](./190687-starry-moon-island-mobile-stronghold-mp02.json) |
 | Starry Moon Island: Mobile Stronghold MP09 | 190696 | [190696-starry-moon-island-mobile-stronghold-mp09.json](./190696-starry-moon-island-mobile-stronghold-mp09.json) |
+| Starry Moon Island: Out of Control MP02 | 190641 | [190641-starry-moon-island-out-of-control-mp02.json](./190641-starry-moon-island-out-of-control-mp02.json) |
+| Starry Moon Island: Out of Control MP03 | 190639 | [190639-starry-moon-island-out-of-control-mp03.json](./190639-starry-moon-island-out-of-control-mp03.json) |
+| Starry Moon Island: Out of Control MP04 | 190646 | [190646-starry-moon-island-out-of-control-mp04.json](./190646-starry-moon-island-out-of-control-mp04.json) |
+| Starry Moon Island: Out of Control MP06 | 190640 | [190640-starry-moon-island-out-of-control-mp06.json](./190640-starry-moon-island-out-of-control-mp06.json) |
+| Starry Moon Island: Out of Control MP07 | 190643 | [190643-starry-moon-island-out-of-control-mp07.json](./190643-starry-moon-island-out-of-control-mp07.json) |
+| Starry Moon Island: Out of Control MP08 | 190642 | [190642-starry-moon-island-out-of-control-mp08.json](./190642-starry-moon-island-out-of-control-mp08.json) |
+| Starry Moon Island: Out of Control MP09 | 190644 | [190644-starry-moon-island-out-of-control-mp09.json](./190644-starry-moon-island-out-of-control-mp09.json) |
+| Starry Moon Island: Out of Control MP10 | 190645 | [190645-starry-moon-island-out-of-control-mp10.json](./190645-starry-moon-island-out-of-control-mp10.json) |
+| Starry Moon Island: Perimeter MP01 | 190649 | [190649-starry-moon-island-perimeter-mp01.json](./190649-starry-moon-island-perimeter-mp01.json) |
+| Starry Moon Island: Perimeter MP02 | 190656 | [190656-starry-moon-island-perimeter-mp02.json](./190656-starry-moon-island-perimeter-mp02.json) |
+| Starry Moon Island: Perimeter MP03 | 190647 | [190647-starry-moon-island-perimeter-mp03.json](./190647-starry-moon-island-perimeter-mp03.json) |
+| Starry Moon Island: Perimeter MP04 | 190654 | [190654-starry-moon-island-perimeter-mp04.json](./190654-starry-moon-island-perimeter-mp04.json) |
+| Starry Moon Island: Perimeter MP05 | 190653 | [190653-starry-moon-island-perimeter-mp05.json](./190653-starry-moon-island-perimeter-mp05.json) |
+| Starry Moon Island: Perimeter MP06 | 190655 | [190655-starry-moon-island-perimeter-mp06.json](./190655-starry-moon-island-perimeter-mp06.json) |
+| Starry Moon Island: Perimeter MP07 | 190651 | [190651-starry-moon-island-perimeter-mp07.json](./190651-starry-moon-island-perimeter-mp07.json) |
+| Starry Moon Island: Perimeter MP08 | 190650 | [190650-starry-moon-island-perimeter-mp08.json](./190650-starry-moon-island-perimeter-mp08.json) |
+| Starry Moon Island: Perimeter MP09 | 190648 | [190648-starry-moon-island-perimeter-mp09.json](./190648-starry-moon-island-perimeter-mp09.json) |
+| Starry Moon Island: Perimeter MP10 | 190652 | [190652-starry-moon-island-perimeter-mp10.json](./190652-starry-moon-island-perimeter-mp10.json) |
+| Starry Moon Island: Star Ocean MP01 | 190684 | [190684-starry-moon-island-star-ocean-mp01.json](./190684-starry-moon-island-star-ocean-mp01.json) |
+| Starry Moon Island: Star Ocean MP02 | 190679 | [190679-starry-moon-island-star-ocean-mp02.json](./190679-starry-moon-island-star-ocean-mp02.json) |
+| Starry Moon Island: Star Ocean MP03 | 190678 | [190678-starry-moon-island-star-ocean-mp03.json](./190678-starry-moon-island-star-ocean-mp03.json) |
+| Starry Moon Island: Star Ocean MP04 | 190685 | [190685-starry-moon-island-star-ocean-mp04.json](./190685-starry-moon-island-star-ocean-mp04.json) |
+| Starry Moon Island: Star Ocean MP05 | 190680 | [190680-starry-moon-island-star-ocean-mp05.json](./190680-starry-moon-island-star-ocean-mp05.json) |
+| Starry Moon Island: Star Ocean MP06 | 190686 | [190686-starry-moon-island-star-ocean-mp06.json](./190686-starry-moon-island-star-ocean-mp06.json) |
+| Starry Moon Island: Star Ocean MP07 | 190681 | [190681-starry-moon-island-star-ocean-mp07.json](./190681-starry-moon-island-star-ocean-mp07.json) |
+| Starry Moon Island: Star Ocean MP08 | 190682 | [190682-starry-moon-island-star-ocean-mp08.json](./190682-starry-moon-island-star-ocean-mp08.json) |
+| Starry Moon Island: Star Ocean MP09 | 190683 | [190683-starry-moon-island-star-ocean-mp09.json](./190683-starry-moon-island-star-ocean-mp09.json) |
+| Starry Moon Island: Star Ocean MP10 | 190677 | [190677-starry-moon-island-star-ocean-mp10.json](./190677-starry-moon-island-star-ocean-mp10.json) |
 | Starry Nights: Helix | 30868 | [30868-starry-nights-helix.json](./30868-starry-nights-helix.json) |
 | Starry Sky: After Spring | 201758 | [201758-starry-sky-after-spring.json](./201758-starry-sky-after-spring.json) |
 | Starry Sky: After Spring Portable | 201833 | [201833-starry-sky-after-spring-portable.json](./201833-starry-sky-after-spring-portable.json) |
