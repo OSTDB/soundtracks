@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
 | Yami no Koe | 275312 | [275312-yami-no-koe.json](./275312-yami-no-koe.json) |
 | Yami no Koe II | 308248 | [308248-yami-no-koe-ii.json](./308248-yami-no-koe-ii.json) |
+| Yami no Ryuuou Hadesu no Monshou | 202322 | [202322-yami-no-ryuuou-hadesu-no-monshou.json](./202322-yami-no-ryuuou-hadesu-no-monshou.json) |
 | Yamizome Liberator | 327834 | [327834-yamizome-liberator.json](./327834-yamizome-liberator.json) |
 | Yandere Onii-san ni Sokubaku Kankin Sarechau Game! | 285990 | [285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json](./285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json) |
 | Yandere Simulator: Midori Adventure - The Visual Novel | 296375 | [296375-yandere-simulator-midori-adventure-the-visual-novel.json](./296375-yandere-simulator-midori-adventure-the-visual-novel.json) |
@@ -48,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yarudora Series Vol. 3: Sampaguita | 79349 | [79349-yarudora-series-vol-3-sampaguita.json](./79349-yarudora-series-vol-3-sampaguita.json) |
 | Yarudora Series Vol. 4: Yukiwari no Hana | 79348 | [79348-yarudora-series-vol-4-yukiwari-no-hana.json](./79348-yarudora-series-vol-4-yukiwari-no-hana.json) |
 | Yasuke: A Lost Descendant | 222915 | [222915-yasuke-a-lost-descendant.json](./222915-yasuke-a-lost-descendant.json) |
+| Yasumeru | 202344 | [202344-yasumeru.json](./202344-yasumeru.json) |
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
 | Yattsu no Hiseki 2X | 386156 | [386156-yattsu-no-hiseki-2x.json](./386156-yattsu-no-hiseki-2x.json) |
 | Yatzy Addict+ | 252137 | [252137-yatzy-addict.json](./252137-yatzy-addict.json) |
@@ -234,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh! Power of Chaos: Joey the Passion | 50833 | [50833-yu-gi-oh-power-of-chaos-joey-the-passion.json](./50833-yu-gi-oh-power-of-chaos-joey-the-passion.json) |
 | Yu-Gi-Oh! Power of Chaos: Yugi the Destiny | 50834 | [50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json](./50834-yu-gi-oh-power-of-chaos-yugi-the-destiny.json) |
 | Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006 | 49377 | [49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json](./49377-yu-gi-oh-ultimate-masters-world-championship-tournament-2006.json) |
+| Yu-Gi-Oh!: Duelingbook | 202358 | [202358-yu-gi-oh-duelingbook.json](./202358-yu-gi-oh-duelingbook.json) |
 | Yubisaki Connection | 333578 | [333578-yubisaki-connection.json](./333578-yubisaki-connection.json) |
 | Yubisaki Connection Mini Fandisk Vol. 01: Yuzuki & Mikoto Hen | 382236 | [382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json](./382236-yubisaki-connection-mini-fandisk-vol-01-yuzuki-and-mikoto-hen.json) |
 | Yubisaki Connection Mini Fandisk Vol. 02: Natsuho & Iori Hen | 382237 | [382237-yubisaki-connection-mini-fandisk-vol-02-natsuho-and-iori-hen.json](./382237-yubisaki-connection-mini-fandisk-vol-02-natsuho-and-iori-hen.json) |
@@ -268,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Fumi | 201847 | [201847-yume-fumi.json](./201847-yume-fumi.json) |
 | Yume Graffiti | 145036 | [145036-yume-graffiti.json](./145036-yume-graffiti.json) |
 | Yume Inu | 229680 | [229680-yume-inu.json](./229680-yume-inu.json) |
+| Yume Iro | 202348 | [202348-yume-iro.json](./202348-yume-iro.json) |
 | Yume Kakigori | 319019 | [319019-yume-kakigori.json](./319019-yume-kakigori.json) |
 | Yume Meikyuu: Kigurumi Daibouken | 38378 | [38378-yume-meikyuu-kigurumi-daibouken.json](./38378-yume-meikyuu-kigurumi-daibouken.json) |
 | Yume Metsuki | 229683 | [229683-yume-metsuki.json](./229683-yume-metsuki.json) |
@@ -276,15 +280,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki Ver. 1.00 | 202368 | [202368-yume-nikki-ver-1-00.json](./202368-yume-nikki-ver-1-00.json) |
 | Yume Nikki: Atari 2600 | 229681 | [229681-yume-nikki-atari-2600.json](./229681-yume-nikki-atari-2600.json) |
 | Yume Nikki: Mod(ified) Project | 229682 | [229682-yume-nikki-mod-ified-project.json](./229682-yume-nikki-mod-ified-project.json) |
+| Yume Nikki: Solitude | 202349 | [202349-yume-nikki-solitude.json](./202349-yume-nikki-solitude.json) |
 | Yume Nisshi | 145033 | [145033-yume-nisshi.json](./145033-yume-nisshi.json) |
 | Yume Puzzle | 367953 | [367953-yume-puzzle.json](./367953-yume-puzzle.json) |
 | Yume Shikki | 201848 | [201848-yume-shikki.json](./201848-yume-shikki.json) |
+| Yume Shoko | 202351 | [202351-yume-shoko.json](./202351-yume-shoko.json) |
 | Yume Utsutsu Dreamy | 247507 | [247507-yume-utsutsu-dreamy.json](./247507-yume-utsutsu-dreamy.json) |
 | Yume Wheeky | 229687 | [229687-yume-wheeky.json](./229687-yume-wheeky.json) |
 | Yume Wo. | 150159 | [150159-yume-wo.json](./150159-yume-wo.json) |
 | Yume-san | 229710 | [229710-yume-san.json](./229710-yume-san.json) |
 | Yume, Shosen Mousou | 150172 | [150172-yume-shosen-mousou.json](./150172-yume-shosen-mousou.json) |
 | Yume: Special Edition | 195776 | [195776-yume-special-edition.json](./195776-yume-special-edition.json) |
+| YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
 | Yumeutsutsu Re:Master | 109602 | [109602-yumeutsutsu-re-master.json](./109602-yumeutsutsu-re-master.json) |
 | Yummy Girl 2 | 195243 | [195243-yummy-girl-2.json](./195243-yummy-girl-2.json) |
 | Yummy Jewels | 264900 | [264900-yummy-jewels.json](./264900-yummy-jewels.json) |
