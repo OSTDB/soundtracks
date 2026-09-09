@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
 | Paradise Tomb | 224560 | [224560-paradise-tomb.json](./224560-paradise-tomb.json) |
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
+| Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
@@ -1867,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal War | 221752 | [221752-portal-war.json](./221752-portal-war.json) |
 | Portal with RTX | 218277 | [218277-portal-with-rtx.json](./218277-portal-with-rtx.json) |
 | Portal: Companion Collection | 191406 | [191406-portal-companion-collection.json](./191406-portal-companion-collection.json) |
+| Portal: Forever Testing | 208407 | [208407-portal-forever-testing.json](./208407-portal-forever-testing.json) |
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
 | Portal: The Flash Version | 11280 | [11280-portal-the-flash-version.json](./11280-portal-the-flash-version.json) |
 | Portalnauts | 60589 | [60589-portalnauts.json](./60589-portalnauts.json) |
@@ -2203,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
+| ProBee | 208376 | [208376-probee.json](./208376-probee.json) |
 | Problem Animals | 193488 | [193488-problem-animals.json](./193488-problem-animals.json) |
 | Probotector | 186202 | [186202-probotector.json](./186202-probotector.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
