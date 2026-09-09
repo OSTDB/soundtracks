@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
+| West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Press: TF2 Heavy | 228462 | [228462-western-press-tf2-heavy.json](./228462-western-press-tf2-heavy.json) |
 | Westfall | 343252 | [343252-westfall.json](./343252-westfall.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Major League Baseball | 5711 | [5711-world-series-major-league-baseball.json](./5711-world-series-major-league-baseball.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
 | World Soccer Challenge | 255739 | [255739-world-soccer-challenge.json](./255739-world-soccer-challenge.json) |
+| World Soccer Kid | 196827 | [196827-world-soccer-kid.json](./196827-world-soccer-kid.json) |
 | World Soccer: Winning Eleven | 68693 | [68693-world-soccer-winning-eleven.json](./68693-world-soccer-winning-eleven.json) |
 | World Soccer: Winning Eleven 2010 - Arcade Championship | 64960 | [64960-world-soccer-winning-eleven-2010-arcade-championship.json](./64960-world-soccer-winning-eleven-2010-arcade-championship.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
