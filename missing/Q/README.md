@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
+| QP Kiss | 188576 | [188576-qp-kiss.json](./188576-qp-kiss.json) |
 | QS Asteroids | 319593 | [319593-qs-asteroids.json](./319593-qs-asteroids.json) |
 | QS Defender | 319594 | [319594-qs-defender.json](./319594-qs-defender.json) |
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
