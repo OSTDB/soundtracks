@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T09:18:39.444Z",
-  "total_missing": 49907,
+  "generated_at": "2026-09-09T09:21:08.936Z",
+  "total_missing": 49906,
   "games": [
     {
       "igdb_id": 306086,
@@ -686,11 +686,6 @@
       "igdb_id": 259288,
       "game_name": "1989 QianShanMen",
       "file": "missing/0-9/259288-1989-qianshanmen.json"
-    },
-    {
-      "igdb_id": 22428,
-      "game_name": "1991 Du Ma Racing",
-      "file": "missing/0-9/22428-1991-du-ma-racing.json"
     },
     {
       "igdb_id": 19390,
