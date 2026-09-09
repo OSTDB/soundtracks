@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
 | Laser Puzzle | 270413 | [270413-laser-puzzle.json](./270413-laser-puzzle.json) |
 | Laser Quest | 296069 | [296069-laser-quest.json](./296069-laser-quest.json) |
+| Laser Skirmish | 205059 | [205059-laser-skirmish.json](./205059-laser-skirmish.json) |
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
 | Laser! | 253011 | [253011-laser.json](./253011-laser.json) |
@@ -773,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
+| Lightrock | 205065 | [205065-lightrock.json](./205065-lightrock.json) |
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
