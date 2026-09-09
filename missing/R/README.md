@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant Knight | 322602 | [322602-revenant-knight.json](./322602-revenant-knight.json) |
 | Revenant Survivors | 400235 | [400235-revenant-survivors.json](./400235-revenant-survivors.json) |
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
+| Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
 | Revenge of Noxi | 254148 | [254148-revenge-of-noxi.json](./254148-revenge-of-noxi.json) |
@@ -1101,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Mahogany and Human Leather-Bound Books | 271749 | [271749-rich-mahogany-and-human-leather-bound-books.json](./271749-rich-mahogany-and-human-leather-bound-books.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
+| Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
 | RichMan 11 | 220664 | [220664-richman-11.json](./220664-richman-11.json) |
 | Richman 2 | 125446 | [125446-richman-2.json](./125446-richman-2.json) |
 | Richman 3 | 125447 | [125447-richman-3.json](./125447-richman-3.json) |
@@ -1999,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunnerSky | 181395 | [181395-runnersky.json](./181395-runnersky.json) |
 | Running Back to You | 191894 | [191894-running-back-to-you.json](./191894-running-back-to-you.json) |
 | Running Black | 120990 | [120990-running-black.json](./120990-running-black.json) |
+| Running Challenge | 190152 | [190152-running-challenge.json](./190152-running-challenge.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
 | Running King | 83559 | [83559-running-king.json](./83559-running-king.json) |
 | Running Late 2 | 256842 | [256842-running-late-2.json](./256842-running-late-2.json) |
