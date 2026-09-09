@@ -741,7 +741,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
 | Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
+| Deep Rock Galactic: Deluxe Edition | 188021 | [188021-deep-rock-galactic-deluxe-edition.json](./188021-deep-rock-galactic-deluxe-edition.json) |
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
+| Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Sea Arena | 344350 | [344350-deep-sea-arena.json](./344350-deep-sea-arena.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
@@ -1247,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Craft | 252156 | [252156-dice-craft.json](./252156-dice-craft.json) |
 | Dice Deluge | 414294 | [414294-dice-deluge.json](./414294-dice-deluge.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
+| Dice King | 188016 | [188016-dice-king.json](./188016-dice-king.json) |
 | Dice Legacy: Corrupted Fates | 196296 | [196296-dice-legacy-corrupted-fates.json](./196296-dice-legacy-corrupted-fates.json) |
 | Dice Make 10! | 314860 | [314860-dice-make-10.json](./314860-dice-make-10.json) |
 | Dice Mice | 184615 | [184615-dice-mice.json](./184615-dice-mice.json) |
@@ -1259,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice vs Dice | 173269 | [173269-dice-vs-dice.json](./173269-dice-vs-dice.json) |
 | Dice vs. Monsters | 184619 | [184619-dice-vs-monsters.json](./184619-dice-vs-monsters.json) |
 | Dice with the Devil: Rerolled | 333015 | [333015-dice-with-the-devil-rerolled.json](./333015-dice-with-the-devil-rerolled.json) |
+| Dice: Devils Game | 188041 | [188041-dice-devils-game.json](./188041-dice-devils-game.json) |
 | Dice: DNA Intergrated Cybernetic Enterprises | 65514 | [65514-dice-dna-intergrated-cybernetic-enterprises.json](./65514-dice-dna-intergrated-cybernetic-enterprises.json) |
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
@@ -1710,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
+| Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
