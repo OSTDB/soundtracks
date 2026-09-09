@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrestial | 250929 | [250929-terrestial.json](./250929-terrestial.json) |
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
+| Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Terror Mod Ultraultimatum HD | 330547 | [330547-terror-mod-ultraultimatum-hd.json](./330547-terror-mod-ultraultimatum-hd.json) |
 | Terror of the Catacombs | 11046 | [11046-terror-of-the-catacombs.json](./11046-terror-of-the-catacombs.json) |
 | Terror of the Deep | 37178 | [37178-terror-of-the-deep.json](./37178-terror-of-the-deep.json) |
@@ -5484,5 +5485,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant Quest: Gold Edition | 197406 | [197406-tyrant-quest-gold-edition.json](./197406-tyrant-quest-gold-edition.json) |
 | Tyrant Tactics: Birth of Revolution | 398970 | [398970-tyrant-tactics-birth-of-revolution.json](./398970-tyrant-tactics-birth-of-revolution.json) |
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
+| Tyto Ecology: Alaskan Tundra Ecosystem | 171001 | [171001-tyto-ecology-alaskan-tundra-ecosystem.json](./171001-tyto-ecology-alaskan-tundra-ecosystem.json) |
+| Tyto Ecology: Cretaceous Mongolia | 171000 | [171000-tyto-ecology-cretaceous-mongolia.json](./171000-tyto-ecology-cretaceous-mongolia.json) |
+| Tyto Ecology: Himalayas Ecosystem | 171002 | [171002-tyto-ecology-himalayas-ecosystem.json](./171002-tyto-ecology-himalayas-ecosystem.json) |
 | Tzakol in Exile | 189112 | [189112-tzakol-in-exile.json](./189112-tzakol-in-exile.json) |
 | Tzompantli | 30941 | [30941-tzompantli.json](./30941-tzompantli.json) |
