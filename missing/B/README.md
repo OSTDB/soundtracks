@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackRooms's 1995 The Lost Footage: Chapter 1 | 298562 | [298562-backroomss-1995-the-lost-footage-chapter-1.json](./298562-backroomss-1995-the-lost-footage-chapter-1.json) |
 | Backseat Drivers | 342047 | [342047-backseat-drivers.json](./342047-backseat-drivers.json) |
 | BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
+| Backstage | 206727 | [206727-backstage.json](./206727-backstage.json) |
 | Backstage at Naked Porn Battle | 280204 | [280204-backstage-at-naked-porn-battle.json](./280204-backstage-at-naked-porn-battle.json) |
 | Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
 | Backstage: Murdered Sleep | 297777 | [297777-backstage-murdered-sleep.json](./297777-backstage-murdered-sleep.json) |
@@ -175,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bail Force: Cyberpunk Bounty Hunters | 249181 | [249181-bail-force-cyberpunk-bounty-hunters.json](./249181-bail-force-cyberpunk-bounty-hunters.json) |
 | Bail or Jail: Character DLC Bundle 2 | 255141 | [255141-bail-or-jail-character-dlc-bundle-2.json](./255141-bail-or-jail-character-dlc-bundle-2.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
+| Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
 | Bakahazard | 316633 | [316633-bakahazard.json](./316633-bakahazard.json) |
 | Bake it! Pizza Master | 378781 | [378781-bake-it-pizza-master.json](./378781-bake-it-pizza-master.json) |
@@ -215,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate: The Complete Saga | 52616 | [52616-baldurs-gate-the-complete-saga.json](./52616-baldurs-gate-the-complete-saga.json) |
 | Baldwin's Bear | 195262 | [195262-baldwins-bear.json](./195262-baldwins-bear.json) |
 | Baldy Dash | 314681 | [314681-baldy-dash.json](./314681-baldy-dash.json) |
+| Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
@@ -1025,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Omni-Charge | 363892 | [363892-ben-10-omni-charge.json](./363892-ben-10-omni-charge.json) |
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
+| Ben 10: Vengeance of Vilgax | 206736 | [206736-ben-10-vengeance-of-vilgax.json](./206736-ben-10-vengeance-of-vilgax.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
 | Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape | 78058 | [78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json](./78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json) |
@@ -2539,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS2 | 329932 | [329932-bs2.json](./329932-bs2.json) |
 | BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
+| BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
 | Bubble | 287650 | [287650-bubble.json](./287650-bubble.json) |
 | Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
