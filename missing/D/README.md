@@ -1167,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dethroned | 240813 | [240813-dethroned.json](./240813-dethroned.json) |
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detourist | 278744 | [278744-detourist.json](./278744-detourist.json) |
+| Detox | 181882 | [181882-detox.json](./181882-detox.json) |
 | Detritus | 192392 | [192392-detritus.json](./192392-detritus.json) |
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
@@ -1728,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Fight Super Ultra Deluxe | 109647 | [109647-dog-fight-super-ultra-deluxe.json](./109647-dog-fight-super-ultra-deluxe.json) |
 | Dog Galore | 181927 | [181927-dog-galore.json](./181927-dog-galore.json) |
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
+| Dog Guardian and the Fallen Star | 181863 | [181863-dog-guardian-and-the-fallen-star.json](./181863-dog-guardian-and-the-fallen-star.json) |
 | Dog Knowse Chapter 1: The Dame | 249790 | [249790-dog-knowse-chapter-1-the-dame.json](./249790-dog-knowse-chapter-1-the-dame.json) |
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
@@ -1843,6 +1845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Be Greedy | 233522 | [233522-dont-be-greedy.json](./233522-dont-be-greedy.json) |
 | Don't Break My Heart | 273911 | [273911-dont-break-my-heart.json](./273911-dont-break-my-heart.json) |
 | Don't Break the Egg | 397660 | [397660-dont-break-the-egg.json](./397660-dont-break-the-egg.json) |
+| Don't Call Me Mama But Yes I Am Your Mama | 181853 | [181853-dont-call-me-mama-but-yes-i-am-your-mama.json](./181853-dont-call-me-mama-but-yes-i-am-your-mama.json) |
 | Don't Crash: The Political Game | 159863 | [159863-dont-crash-the-political-game.json](./159863-dont-crash-the-political-game.json) |
 | Don't Cut Your Hand 2 | 158729 | [158729-dont-cut-your-hand-2.json](./158729-dont-cut-your-hand-2.json) |
 | Don't Drop Luggage! | 303483 | [303483-dont-drop-luggage.json](./303483-dont-drop-luggage.json) |
@@ -1853,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
+| Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
 | Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
@@ -2702,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke: Nuclear Winter | 18498 | [18498-duke-nuclear-winter.json](./18498-duke-nuclear-winter.json) |
 | Dukem Memorial Hospital | 270706 | [270706-dukem-memorial-hospital.json](./270706-dukem-memorial-hospital.json) |
 | Dulce et Decorum | 195202 | [195202-dulce-et-decorum.json](./195202-dulce-et-decorum.json) |
+| Dull Ache | 181843 | [181843-dull-ache.json](./181843-dull-ache.json) |
 | Dull Acres | 303495 | [303495-dull-acres.json](./303495-dull-acres.json) |
 | Dullpain | 216801 | [216801-dullpain.json](./216801-dullpain.json) |
 | Duludubi Star | 273108 | [273108-duludubi-star.json](./273108-duludubi-star.json) |
