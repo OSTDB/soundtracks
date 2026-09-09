@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of Angels IV | 78589 | [78589-empire-of-angels-iv.json](./78589-empire-of-angels-iv.json) |
 | Empire of Empires | 211966 | [211966-empire-of-empires.json](./211966-empire-of-empires.json) |
 | Empire of Revenant | 221180 | [221180-empire-of-revenant.json](./221180-empire-of-revenant.json) |
+| Empire of Sin: Make It Count | 193431 | [193431-empire-of-sin-make-it-count.json](./193431-empire-of-sin-make-it-count.json) |
 | Empire of the Ants: Digital Deluxe Edition | 320754 | [320754-empire-of-the-ants-digital-deluxe-edition.json](./320754-empire-of-the-ants-digital-deluxe-edition.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
 | Empire Run | 248648 | [248648-empire-run.json](./248648-empire-run.json) |
