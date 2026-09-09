@@ -2839,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
+| Burnit Quest | 195178 | [195178-burnit-quest.json](./195178-burnit-quest.json) |
 | Burnogue | 377090 | [377090-burnogue.json](./377090-burnogue.json) |
 | Burnout | 14355 | [14355-burnout.json](./14355-burnout.json) |
 | Burnout Dominator | 6203 | [6203-burnout-dominator.json](./6203-burnout-dominator.json) |
