@@ -2185,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furries & Scalies & Bears OH MY!: Charity Pack - Echoes of the Fire | 171043 | [171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json](./171043-furries-and-scalies-and-bears-oh-my-charity-pack-echoes-of-the-fire.json) |
 | Furries & Scalies & Bears OH MY!: Halloween Harvest Festival | 171042 | [171042-furries-and-scalies-and-bears-oh-my-halloween-harvest-festival.json](./171042-furries-and-scalies-and-bears-oh-my-halloween-harvest-festival.json) |
 | Furries & Scalies & Bears OH MY!: The Bear | 171041 | [171041-furries-and-scalies-and-bears-oh-my-the-bear.json](./171041-furries-and-scalies-and-bears-oh-my-the-bear.json) |
+| Furries & Scalies & Bears Oh My!: Ultimate Edition | 185114 | [185114-furries-and-scalies-and-bears-oh-my-ultimate-edition.json](./185114-furries-and-scalies-and-bears-oh-my-ultimate-edition.json) |
 | Furrifighters: Prequel I | 369553 | [369553-furrifighters-prequel-i.json](./369553-furrifighters-prequel-i.json) |
 | Furry Animals Bombing | 109745 | [109745-furry-animals-bombing.json](./109745-furry-animals-bombing.json) |
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
