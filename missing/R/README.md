@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing 2020 | 129204 | [129204-racing-2020.json](./129204-racing-2020.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
+| Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Royale | 390012 | [390012-racing-royale.json](./390012-racing-royale.json) |
@@ -471,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
+| Realm of Mecha | 197324 | [197324-realm-of-mecha.json](./197324-realm-of-mecha.json) |
 | Realm of the Fallen | 223439 | [223439-realm-of-the-fallen.json](./223439-realm-of-the-fallen.json) |
 | Realm of the hero | 156128 | [156128-realm-of-the-hero.json](./156128-realm-of-the-hero.json) |
 | Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
@@ -1209,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
 | Rise of Chi | 384506 | [384506-rise-of-chi.json](./384506-rise-of-chi.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
+| Rise of Demons | 197326 | [197326-rise-of-demons.json](./197326-rise-of-demons.json) |
 | Rise of Dragonian Era | 19638 | [19638-rise-of-dragonian-era.json](./19638-rise-of-dragonian-era.json) |
 | Rise of Dragons | 231915 | [231915-rise-of-dragons.json](./231915-rise-of-dragons.json) |
 | Rise Of Dune | 327212 | [327212-rise-of-dune.json](./327212-rise-of-dune.json) |
@@ -1543,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Nova | 270926 | [270926-rogue-nova.json](./270926-rogue-nova.json) |
 | Rogue of the Multiverse | 216241 | [216241-rogue-of-the-multiverse.json](./216241-rogue-of-the-multiverse.json) |
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
+| Rogue Planet | 197343 | [197343-rogue-planet.json](./197343-rogue-planet.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
