@@ -1377,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX | 139995 | [139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json](./139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json) |
 | Cielle Is Not Happy | 402277 | [402277-cielle-is-not-happy.json](./402277-cielle-is-not-happy.json) |
+| Cielo | 181292 | [181292-cielo.json](./181292-cielo.json) |
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinderella Nine in August | 82121 | [82121-cinderella-nine-in-august.json](./82121-cinderella-nine-in-august.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Stories: Stephan's Journey - Collector's Edition | 362835 | [362835-city-of-stories-stephans-journey-collectors-edition.json](./362835-city-of-stories-stephans-journey-collectors-edition.json) |
 | City of Stories: The Professor's Secret - Collector's Edition | 362839 | [362839-city-of-stories-the-professors-secret-collectors-edition.json](./362839-city-of-stories-the-professors-secret-collectors-edition.json) |
 | City of Thugs | 154025 | [154025-city-of-thugs.json](./154025-city-of-thugs.json) |
+| City Racing 2 | 181309 | [181309-city-racing-2.json](./181309-city-racing-2.json) |
 | City Rhapsody! | 212808 | [212808-city-rhapsody.json](./212808-city-rhapsody.json) |
 | City Rush | 246428 | [246428-city-rush.json](./246428-city-rush.json) |
 | City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
@@ -2504,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craftsman Story | 384524 | [384524-craftsman-story.json](./384524-craftsman-story.json) |
 | Crafty | 157157 | [157157-crafty.json](./157157-crafty.json) |
 | Crafty Crasher | 349337 | [349337-crafty-crasher.json](./349337-crafty-crasher.json) |
+| Crafty Fox | 181328 | [181328-crafty-fox.json](./181328-crafty-fox.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
 | Crafty Racer | 285481 | [285481-crafty-racer.json](./285481-crafty-racer.json) |
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
