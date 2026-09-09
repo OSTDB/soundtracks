@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
 | ZEscape | 103502 | [103502-zescape.json](./103502-zescape.json) |
+| Zest & Goop | 183512 | [183512-zest-and-goop.json](./183512-zest-and-goop.json) |
 | Zest to Fantasy | 257655 | [257655-zest-to-fantasy.json](./257655-zest-to-fantasy.json) |
 | Zest Treasure Hunting | 342640 | [342640-zest-treasure-hunting.json](./342640-zest-treasure-hunting.json) |
 | Zeta Force | 326965 | [326965-zeta-force.json](./326965-zeta-force.json) |
