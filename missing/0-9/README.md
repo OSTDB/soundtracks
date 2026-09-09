@@ -99,7 +99,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
-| 11.45 A Vivid Life | 176512 | [176512-11-45-a-vivid-life.json](./176512-11-45-a-vivid-life.json) |
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 11eyes: Resona Forma | 98425 | [98425-11eyes-resona-forma.json](./98425-11eyes-resona-forma.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
