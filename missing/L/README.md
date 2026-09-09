@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinthe | 242259 | [242259-labyrinthe.json](./242259-labyrinthe.json) |
 | Labyrinthian: Lost 'til Dawn | 238512 | [238512-labyrinthian-lost-til-dawn.json](./238512-labyrinthian-lost-til-dawn.json) |
 | Labyrinthos: The Depths Want You | 408764 | [408764-labyrinthos-the-depths-want-you.json](./408764-labyrinthos-the-depths-want-you.json) |
+| Labyrinths of the World: Eternal Winter | 188000 | [188000-labyrinths-of-the-world-eternal-winter.json](./188000-labyrinths-of-the-world-eternal-winter.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
 | Labyrneath | 111055 | [111055-labyrneath.json](./111055-labyrneath.json) |
 | Labyronia 2 | 137691 | [137691-labyronia-2.json](./137691-labyronia-2.json) |
@@ -1047,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
 | Living Island Project | 284330 | [284330-living-island-project.json](./284330-living-island-project.json) |
 | Living Labyrinth | 185139 | [185139-living-labyrinth.json](./185139-living-labyrinth.json) |
+| Living Legends: Beasts of Bremen | 188004 | [188004-living-legends-beasts-of-bremen.json](./188004-living-legends-beasts-of-bremen.json) |
 | Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
