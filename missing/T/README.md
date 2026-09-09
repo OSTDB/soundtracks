@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flayed Man | 329396 | [329396-the-flayed-man.json](./329396-the-flayed-man.json) |
 | The Flea Evolution | 188103 | [188103-the-flea-evolution.json](./188103-the-flea-evolution.json) |
+| The Flea Evolution: Bugaboo | 189151 | [189151-the-flea-evolution-bugaboo.json](./189151-the-flea-evolution-bugaboo.json) |
 | The Flintstones in Viva Rock Vegas | 78017 | [78017-the-flintstones-in-viva-rock-vegas.json](./78017-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
 | The Flintstones: Dino - Lost in Bedrock | 71541 | [71541-the-flintstones-dino-lost-in-bedrock.json](./71541-the-flintstones-dino-lost-in-bedrock.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grass | 163955 | [163955-the-grass.json](./163955-the-grass.json) |
 | The Grass Reaper | 363897 | [363897-the-grass-reaper.json](./363897-the-grass-reaper.json) |
 | The Grave Digger | 35847 | [35847-the-grave-digger.json](./35847-the-grave-digger.json) |
+| The Grave robber | 189121 | [189121-the-grave-robber.json](./189121-the-grave-robber.json) |
 | The Gravedigger | 311267 | [311267-the-gravedigger.json](./311267-the-gravedigger.json) |
 | The Gravehouse | 224569 | [224569-the-gravehouse.json](./224569-the-gravehouse.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
@@ -1774,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hotel 2 | 118436 | [118436-the-hotel-2.json](./118436-the-hotel-2.json) |
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
+| The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
 | The House of Da Vinci | 39749 | [39749-the-house-of-da-vinci.json](./39749-the-house-of-da-vinci.json) |
@@ -2404,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paper Loop | 344369 | [344369-the-paper-loop.json](./344369-the-paper-loop.json) |
 | The Paper Parable | 262398 | [262398-the-paper-parable.json](./262398-the-paper-parable.json) |
 | The Parcel | 236257 | [236257-the-parcel.json](./236257-the-parcel.json) |
+| The Paribneur Combination | 189138 | [189138-the-paribneur-combination.json](./189138-the-paribneur-combination.json) |
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Pathless | 113118 | [113118-the-pathless.json](./113118-the-pathless.json) |
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
@@ -3320,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
+| Through the World | 189118 | [189118-through-the-world.json](./189118-through-the-world.json) |
 | Through the Years | 232989 | [232989-through-the-years.json](./232989-through-the-years.json) |
 | Through Time the Girl Puzzle | 262933 | [262933-through-time-the-girl-puzzle.json](./262933-through-time-the-girl-puzzle.json) |
 | Throw Bro | 302350 | [302350-throw-bro.json](./302350-throw-bro.json) |
@@ -3734,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy Types | 214540 | [214540-timmy-types.json](./214540-timmy-types.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
+| Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
@@ -5268,4 +5274,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant Quest: Gold Edition | 197406 | [197406-tyrant-quest-gold-edition.json](./197406-tyrant-quest-gold-edition.json) |
 | Tyrant Tactics: Birth of Revolution | 398970 | [398970-tyrant-tactics-birth-of-revolution.json](./398970-tyrant-tactics-birth-of-revolution.json) |
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
+| Tzakol in Exile | 189112 | [189112-tzakol-in-exile.json](./189112-tzakol-in-exile.json) |
 | Tzompantli | 30941 | [30941-tzompantli.json](./30941-tzompantli.json) |
