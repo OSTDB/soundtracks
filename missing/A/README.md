@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Abondoned Village | 277282 | [277282-abondoned-village.json](./277282-abondoned-village.json) |
 | Abort | 291211 | [291211-abort.json](./291211-abort.json) |
+| Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About Cannons & Sparrows | 258181 | [258181-about-cannons-and-sparrows.json](./258181-about-cannons-and-sparrows.json) |
 | About Fishing | 380410 | [380410-about-fishing.json](./380410-about-fishing.json) |
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
@@ -357,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absolutely Unstoppable MineRun | 84861 | [84861-absolutely-unstoppable-minerun.json](./84861-absolutely-unstoppable-minerun.json) |
 | Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
+| Abstract World | 201247 | [201247-abstract-world.json](./201247-abstract-world.json) |
 | Abstractanks | 150694 | [150694-abstractanks.json](./150694-abstractanks.json) |
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
 | Absurbia: A Trashy Satire of Suburban Outcries | 159858 | [159858-absurbia-a-trashy-satire-of-suburban-outcries.json](./159858-absurbia-a-trashy-satire-of-suburban-outcries.json) |
@@ -365,6 +367,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abulia | 372445 | [372445-abulia.json](./372445-abulia.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
 | Abunka | 216777 | [216777-abunka.json](./216777-abunka.json) |
+| Abysm 2: Pharaoh's Judgement | 201229 | [201229-abysm-2-pharaohs-judgement.json](./201229-abysm-2-pharaohs-judgement.json) |
+| Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
 | Abyss | 210669 | [210669-abyss.json](./210669-abyss.json) |
 | Abyss | 265405 | [265405-abyss.json](./265405-abyss.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
@@ -1542,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Adventures | 205841 | [205841-ancient-adventures.json](./205841-ancient-adventures.json) |
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
 | Ancient Arrow | 239666 | [239666-ancient-arrow.json](./239666-ancient-arrow.json) |
+| Ancient Battle: Hannibal - Gold | 201258 | [201258-ancient-battle-hannibal-gold.json](./201258-ancient-battle-hannibal-gold.json) |
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
 | Ancient Conquest: The Golden Fleece | 7713 | [7713-ancient-conquest-the-golden-fleece.json](./7713-ancient-conquest-the-golden-fleece.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
@@ -2298,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon | 45337 | [45337-armageddon.json](./45337-armageddon.json) |
 | Armageddon 2 | 271199 | [271199-armageddon-2.json](./271199-armageddon-2.json) |
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
+| ArmageDoom | 201231 | [201231-armagedoom.json](./201231-armagedoom.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
 | Armed Against the Undead | 32898 | [32898-armed-against-the-undead.json](./32898-armed-against-the-undead.json) |
@@ -2616,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonia 3 | 57661 | [57661-astonia-3.json](./57661-astonia-3.json) |
 | Astonishing Baseball 20 | 133470 | [133470-astonishing-baseball-20.json](./133470-astonishing-baseball-20.json) |
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
+| Astoria VR | 201250 | [201250-astoria-vr.json](./201250-astoria-vr.json) |
 | Astra GalaxyX | 399615 | [399615-astra-galaxyx.json](./399615-astra-galaxyx.json) |
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
