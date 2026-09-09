@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Derelict - SciFi First Person Shooter | 111737 | [111737-scp-derelict-scifi-first-person-shooter.json](./111737-scp-derelict-scifi-first-person-shooter.json) |
 | SCP: Echoes | 364517 | [364517-scp-echoes.json](./364517-scp-echoes.json) |
 | SCP: Equestrian | 263764 | [263764-scp-equestrian.json](./263764-scp-equestrian.json) |
+| SCP: Event Classified | 199581 | [199581-scp-event-classified.json](./199581-scp-event-classified.json) |
 | SCP: Josie | 260410 | [260410-scp-josie.json](./260410-scp-josie.json) |
 | SCP: Mystery Man | 320169 | [320169-scp-mystery-man.json](./320169-scp-mystery-man.json) |
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
@@ -2665,12 +2666,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Home Story | 354999 | [354999-solitaire-home-story.json](./354999-solitaire-home-story.json) |
 | Solitaire Klondike Pro. | 101601 | [101601-solitaire-klondike-pro.json](./101601-solitaire-klondike-pro.json) |
 | Solitaire Master VS | 212271 | [212271-solitaire-master-vs.json](./212271-solitaire-master-vs.json) |
+| Solitaire Match 2 Cards. Thanksgiving Day | 199574 | [199574-solitaire-match-2-cards-thanksgiving-day.json](./199574-solitaire-match-2-cards-thanksgiving-day.json) |
 | Solitaire MegaPack | 102764 | [102764-solitaire-megapack.json](./102764-solitaire-megapack.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
 | Solitaire Stories | 180280 | [180280-solitaire-stories.json](./180280-solitaire-stories.json) |
 | Solitaire Story 3 | 205024 | [205024-solitaire-story-3.json](./205024-solitaire-story-3.json) |
 | Solitaire Superstars | 96764 | [96764-solitaire-superstars.json](./96764-solitaire-superstars.json) |
 | Solitaire Valentine's Day 2 | 89237 | [89237-solitaire-valentines-day-2.json](./89237-solitaire-valentines-day-2.json) |
+| Solitaire: Beautiful Garden Season | 199579 | [199579-solitaire-beautiful-garden-season.json](./199579-solitaire-beautiful-garden-season.json) |
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
 | Solitaire: Match 2 Cards - Valentine's Day | 286520 | [286520-solitaire-match-2-cards-valentines-day.json](./286520-solitaire-match-2-cards-valentines-day.json) |
 | Solitaire: Royal Mansion | 199627 | [199627-solitaire-royal-mansion.json](./199627-solitaire-royal-mansion.json) |
@@ -3030,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sou Desu, Anata no Koibito Desu. | 285992 | [285992-sou-desu-anata-no-koibito-desu.json](./285992-sou-desu-anata-no-koibito-desu.json) |
 | Souen no Iseki | 206174 | [206174-souen-no-iseki.json](./206174-souen-no-iseki.json) |
 | Soukh | 358304 | [358304-soukh.json](./358304-soukh.json) |
+| Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
@@ -5540,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
 | Surviving with a Bat | 277824 | [277824-surviving-with-a-bat.json](./277824-surviving-with-a-bat.json) |
+| Survivor Cells | 199590 | [199590-survivor-cells.json](./199590-survivor-cells.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
 | Survivor Challenge TD | 276158 | [276158-survivor-challenge-td.json](./276158-survivor-challenge-td.json) |
 | Survivor of the Journey | 210892 | [210892-survivor-of-the-journey.json](./210892-survivor-of-the-journey.json) |
