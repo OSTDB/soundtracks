@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
 | Roaring Twenties Solitaire | 213935 | [213935-roaring-twenties-solitaire.json](./213935-roaring-twenties-solitaire.json) |
 | Rob & Run | 211731 | [211731-rob-and-run.json](./211731-rob-and-run.json) |
+| Rob'n Run | 183029 | [183029-robn-run.json](./183029-robn-run.json) |
 | Robber | 254535 | [254535-robber.json](./254535-robber.json) |
 | Robber | 385579 | [385579-robber.json](./385579-robber.json) |
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
+| Rogues Like Beer | 183014 | [183014-rogues-like-beer.json](./183014-rogues-like-beer.json) |
 | Rogues of Europa | 274495 | [274495-rogues-of-europa.json](./274495-rogues-of-europa.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Rogum: A Cat Match Puzzle | 386691 | [386691-rogum-a-cat-match-puzzle.json](./386691-rogum-a-cat-match-puzzle.json) |
