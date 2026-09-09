@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tedram | 231366 | [231366-tedram.json](./231366-tedram.json) |
 | Tedram Online: Car Racing & Customization | 337637 | [337637-tedram-online-car-racing-and-customization.json](./337637-tedram-online-car-racing-and-customization.json) |
 | Tee Off! | 95449 | [95449-tee-off.json](./95449-tee-off.json) |
+| Tee-riffic Golf. | 180775 | [180775-tee-riffic-golf.json](./180775-tee-riffic-golf.json) |
 | Teel Me You! | 181361 | [181361-teel-me-you.json](./181361-teel-me-you.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
@@ -965,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
 | The Archer | 287646 | [287646-the-archer.json](./287646-the-archer.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
+| The Archipelago | 180765 | [180765-the-archipelago.json](./180765-the-archipelago.json) |
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Argument Solver | 289308 | [289308-the-argument-solver.json](./289308-the-argument-solver.json) |
 | The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
@@ -1546,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Far Kingdoms: Magic Mosaics II | 337616 | [337616-the-far-kingdoms-magic-mosaics-ii.json](./337616-the-far-kingdoms-magic-mosaics-ii.json) |
 | The Far Kingdoms: Spooky Mosiacs | 337605 | [337605-the-far-kingdoms-spooky-mosiacs.json](./337605-the-far-kingdoms-spooky-mosiacs.json) |
 | The Far Kingdoms: Winter Solitaire | 386131 | [386131-the-far-kingdoms-winter-solitaire.json](./386131-the-far-kingdoms-winter-solitaire.json) |
+| The Farm You Grew Up On | 180749 | [180749-the-farm-you-grew-up-on.json](./180749-the-farm-you-grew-up-on.json) |
 | The Farside of Titan | 274182 | [274182-the-farside-of-titan.json](./274182-the-farside-of-titan.json) |
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
@@ -3076,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Volcano | 125463 | [125463-the-volcano.json](./125463-the-volcano.json) |
 | The Vomit | 323535 | [323535-the-vomit.json](./323535-the-vomit.json) |
 | The Vorezkor Hack | 273417 | [273417-the-vorezkor-hack.json](./273417-the-vorezkor-hack.json) |
+| The Voyager's Trail | 180757 | [180757-the-voyagers-trail.json](./180757-the-voyagers-trail.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The Wagadu Chronicles | 241973 | [241973-the-wagadu-chronicles.json](./241973-the-wagadu-chronicles.json) |
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
@@ -3433,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Toe World Championship HD | 87291 | [87291-tic-tac-toe-world-championship-hd.json](./87291-tic-tac-toe-world-championship-hd.json) |
 | Tic Tac Toe: Speed Tapping | 264063 | [264063-tic-tac-toe-speed-tapping.json](./264063-tic-tac-toe-speed-tapping.json) |
 | Tic Toc Shoc for Playdate | 276727 | [276727-tic-toc-shoc-for-playdate.json](./276727-tic-toc-shoc-for-playdate.json) |
+| Tic-Tac-Matrix | 180748 | [180748-tic-tac-matrix.json](./180748-tic-tac-matrix.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
@@ -3738,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
 | Time Handlers | 253388 | [253388-time-handlers.json](./253388-time-handlers.json) |
+| Time Heist | 180753 | [180753-time-heist.json](./180753-time-heist.json) |
 | Time Hoppers: The Silk Road | 231374 | [231374-time-hoppers-the-silk-road.json](./231374-time-hoppers-the-silk-road.json) |
 | Time Is Honey | 285968 | [285968-time-is-honey.json](./285968-time-is-honey.json) |
 | Time is Life | 306345 | [306345-time-is-life.json](./306345-time-is-life.json) |
@@ -4785,6 +4791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
 | Trashmorfers | 241986 | [241986-trashmorfers.json](./241986-trashmorfers.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
+| Trauma | 180787 | [180787-trauma.json](./180787-trauma.json) |
 | Trauma | 301607 | [301607-trauma.json](./301607-trauma.json) |
 | Trauma: Broken Paradise | 238494 | [238494-trauma-broken-paradise.json](./238494-trauma-broken-paradise.json) |
 | TraumaCore Violence | 236518 | [236518-traumacore-violence.json](./236518-traumacore-violence.json) |
