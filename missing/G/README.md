@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Bean | 234931 | [234931-gangsta-bean.json](./234931-gangsta-bean.json) |
 | Gangsta Bean 2 | 261296 | [261296-gangsta-bean-2.json](./261296-gangsta-bean-2.json) |
 | Gangsta Underground: The Poker | 132263 | [132263-gangsta-underground-the-poker.json](./132263-gangsta-underground-the-poker.json) |
+| Gangsta: The Return | 189117 | [189117-gangsta-the-return.json](./189117-gangsta-the-return.json) |
 | Gangstar City | 403574 | [403574-gangstar-city.json](./403574-gangstar-city.json) |
 | Gangstar New York | 211210 | [211210-gangstar-new-york.json](./211210-gangstar-new-york.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
@@ -1410,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
 | Grey Haven | 239664 | [239664-grey-haven.json](./239664-grey-haven.json) |
+| Grey Heritage: Faded Vision | 189115 | [189115-grey-heritage-faded-vision.json](./189115-grey-heritage-faded-vision.json) |
 | Grey Instinct | 159305 | [159305-grey-instinct.json](./159305-grey-instinct.json) |
 | Grey Instinct: Part 2 | 235774 | [235774-grey-instinct-part-2.json](./235774-grey-instinct-part-2.json) |
 | Grey Skies: A War of the Worlds Story | 140628 | [140628-grey-skies-a-war-of-the-worlds-story.json](./140628-grey-skies-a-war-of-the-worlds-story.json) |
