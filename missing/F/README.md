@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
 | Friday Night Funkin': vs. Evil Otto | 202402 | [202402-friday-night-funkin-vs-evil-otto.json](./202402-friday-night-funkin-vs-evil-otto.json) |
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
+| Friday Night Funkin': vs. Reggie the Rat | 198491 | [198491-friday-night-funkin-vs-reggie-the-rat.json](./198491-friday-night-funkin-vs-reggie-the-rat.json) |
 | Friday Night Funkin': VS. Starlight Glimmer & Trixie | 202416 | [202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json](./202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json) |
 | Friday Night Pixtor | 343820 | [343820-friday-night-pixtor.json](./343820-friday-night-pixtor.json) |
 | Friday the 13th RPG: A Fan Game | 270660 | [270660-friday-the-13th-rpg-a-fan-game.json](./270660-friday-the-13th-rpg-a-fan-game.json) |
@@ -2203,6 +2204,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
 | Future Vibe Check | 335292 | [335292-future-vibe-check.json](./335292-future-vibe-check.json) |
+| Future Vox Imaginarium Dot Exe | 198444 | [198444-future-vox-imaginarium-dot-exe.json](./198444-future-vox-imaginarium-dot-exe.json) |
+| Future Vox Imaginarium Dot Exe V1.1: Doge Lover Edition | 198445 | [198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json](./198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json) |
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
