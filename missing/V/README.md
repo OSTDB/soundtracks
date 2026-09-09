@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
+| Vector Pinball | 207825 | [207825-vector-pinball.json](./207825-vector-pinball.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
 | Vector Vendetta | 57100 | [57100-vector-vendetta.json](./57100-vector-vendetta.json) |
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
+| Vertical Adventure: Jump, Die, Retry | 207857 | [207857-vertical-adventure-jump-die-retry.json](./207857-vertical-adventure-jump-die-retry.json) |
 | Vertical Dash | 59438 | [59438-vertical-dash.json](./59438-vertical-dash.json) |
 | Vertical Quest | 249209 | [249209-vertical-quest.json](./249209-vertical-quest.json) |
 | Vertical Ramp Impossible 3D | 100894 | [100894-vertical-ramp-impossible-3d.json](./100894-vertical-ramp-impossible-3d.json) |
@@ -512,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
+| Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
 | Voice of Cards: The Beasts of Burden | 215058 | [215058-voice-of-cards-the-beasts-of-burden.json](./215058-voice-of-cards-the-beasts-of-burden.json) |
