@@ -46,7 +46,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
-| 10:16 | 267102 | [267102-10-16.json](./267102-10-16.json) |
 | 100 Africa Cats | 334117 | [334117-100-africa-cats.json](./334117-100-africa-cats.json) |
 | 100 Balls | 331350 | [331350-100-balls.json](./331350-100-balls.json) |
 | 100 Caliber Dash | 334119 | [334119-100-caliber-dash.json](./334119-100-caliber-dash.json) |
@@ -117,7 +116,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Sentinels: Aegis Rim | 28337 | [28337-13-sentinels-aegis-rim.json](./28337-13-sentinels-aegis-rim.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
-| 13Z | 301031 | [301031-13z.json](./301031-13z.json) |
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
