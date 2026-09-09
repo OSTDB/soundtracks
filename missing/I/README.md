@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Brick Breaker | 225065 | [225065-isekai-brick-breaker.json](./225065-isekai-brick-breaker.json) |
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
 | Isekai Mining Defense | 348229 | [348229-isekai-mining-defense.json](./348229-isekai-mining-defense.json) |
+| Isekai Musume to Konkatsuchuu: Isekai Bride Hunting | 196828 | [196828-isekai-musume-to-konkatsuchuu-isekai-bride-hunting.json](./196828-isekai-musume-to-konkatsuchuu-isekai-bride-hunting.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Fia Edition | 219277 | [219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json](./219277-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-fia-edition.json) |
 | Isekai Musume to Konkatsuchuu: Isekai Bride Hunting - Kullulu Edition | 227849 | [227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json](./227849-isekai-musume-to-konkatsuchuu-isekai-bride-hunting-kullulu-edition.json) |
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
