@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eilean Mor: The Lost Keepers | 355026 | [355026-eilean-mor-the-lost-keepers.json](./355026-eilean-mor-the-lost-keepers.json) |
 | Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
 | Eisadler Jagd | 279594 | [279594-eisadler-jagd.json](./279594-eisadler-jagd.json) |
+| Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
 | Eisenwald: Blood of November | 25607 | [25607-eisenwald-blood-of-november.json](./25607-eisenwald-blood-of-november.json) |
 | Either Eye | 389442 | [389442-either-eye.json](./389442-either-eye.json) |
 | Eizo Play: Megumi | 69857 | [69857-eizo-play-megumi.json](./69857-eizo-play-megumi.json) |
