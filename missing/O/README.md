@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Life: Parkour Project | 318781 | [318781-one-life-parkour-project.json](./318781-one-life-parkour-project.json) |
 | One Line - One Touch Drawing | 101547 | [101547-one-line-one-touch-drawing.json](./101547-one-line-one-touch-drawing.json) |
 | One Line : Single Stroke Drawing | 106628 | [106628-one-line-single-stroke-drawing.json](./106628-one-line-single-stroke-drawing.json) |
+| One Line: Connect the Dots | 207811 | [207811-one-line-connect-the-dots.json](./207811-one-line-connect-the-dots.json) |
 | One Man and His Droid | 12958 | [12958-one-man-and-his-droid.json](./12958-one-man-and-his-droid.json) |
 | One Man's Shit: An Interactive Trash Adventure | 128638 | [128638-one-mans-shit-an-interactive-trash-adventure.json](./128638-one-mans-shit-an-interactive-trash-adventure.json) |
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
