@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
+| City of Cards | 171555 | [171555-city-of-cards.json](./171555-city-of-cards.json) |
 | City of Chains | 34177 | [34177-city-of-chains.json](./34177-city-of-chains.json) |
 | City of Corals | 257970 | [257970-city-of-corals.json](./257970-city-of-corals.json) |
 | City of Dusk | 246951 | [246951-city-of-dusk.json](./246951-city-of-dusk.json) |
@@ -2858,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossedland | 207501 | [207501-crossedland.json](./207501-crossedland.json) |
 | CrossFire | 267638 | [267638-crossfire.json](./267638-crossfire.json) |
 | CrossFire: Legends | 102759 | [102759-crossfire-legends.json](./102759-crossfire-legends.json) |
+| Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
 | CrossfireX: Operation Spectre | 221392 | [221392-crossfirex-operation-spectre.json](./221392-crossfirex-operation-spectre.json) |
 | Crosshollow Foundations | 182508 | [182508-crosshollow-foundations.json](./182508-crosshollow-foundations.json) |
 | Crossing Acheron | 354427 | [354427-crossing-acheron.json](./354427-crossing-acheron.json) |
