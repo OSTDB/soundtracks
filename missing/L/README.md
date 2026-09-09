@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
+| Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
 | Lightrock | 205065 | [205065-lightrock.json](./205065-lightrock.json) |
@@ -1322,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Castle 2 | 263225 | [263225-lost-castle-2.json](./263225-lost-castle-2.json) |
 | Lost Child | 348223 | [348223-lost-child.json](./348223-lost-child.json) |
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
+| Lost Circus | 175363 | [175363-lost-circus.json](./175363-lost-circus.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
 | Lost Dream | 169473 | [169473-lost-dream.json](./169473-lost-dream.json) |
