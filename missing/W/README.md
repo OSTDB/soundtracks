@@ -213,8 +213,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Dante Chronicles Pack | 294148 | [294148-warframe-dante-chronicles-pack.json](./294148-warframe-dante-chronicles-pack.json) |
 | Warframe: Echoes of Duviri | 263523 | [263523-warframe-echoes-of-duviri.json](./263523-warframe-echoes-of-duviri.json) |
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
+| Warframe: Shadows of the Dead | 200659 | [200659-warframe-shadows-of-the-dead.json](./200659-warframe-shadows-of-the-dead.json) |
 | Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
 | Warframe: The Seven Crimes of Kullervo | 263491 | [263491-warframe-the-seven-crimes-of-kullervo.json](./263491-warframe-the-seven-crimes-of-kullervo.json) |
+| Warframe: Vor's Revenge | 200650 | [200650-warframe-vors-revenge.json](./200650-warframe-vors-revenge.json) |
 | WarFriends: PvP Army Shooter | 87479 | [87479-warfriends-pvp-army-shooter.json](./87479-warfriends-pvp-army-shooter.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
@@ -224,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Golgotha | 53891 | [53891-warhammer-40-000-armageddon-golgotha.json](./53891-warhammer-40-000-armageddon-golgotha.json) |
 | Warhammer 40,000: Armageddon - Ork Hunters | 53888 | [53888-warhammer-40-000-armageddon-ork-hunters.json](./53888-warhammer-40-000-armageddon-ork-hunters.json) |
 | Warhammer 40,000: Battlesector - T'au | 289900 | [289900-warhammer-40-000-battlesector-tau.json](./289900-warhammer-40-000-battlesector-tau.json) |
+| Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
 | Warhammer 40,000: Dawn of War III - Collector's Edition | 27768 | [27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json](./27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json) |
 | Warhammer 40,000: Dawn of War III - Limited Edition | 27769 | [27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json](./27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json) |
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
@@ -316,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wash Card | 223705 | [223705-wash-card.json](./223705-wash-card.json) |
 | Wash Simulator: Clean Garage, House, Cars Business Tycoons - Extended Edition | 328818 | [328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json](./328818-wash-simulator-clean-garage-house-cars-business-tycoons-extended-edition.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
+| Waste | 200703 | [200703-waste.json](./200703-waste.json) |
 | Waste in Space | 248651 | [248651-waste-in-space.json](./248651-waste-in-space.json) |
 | Wastebraver: A Tiny Survival Tale | 207348 | [207348-wastebraver-a-tiny-survival-tale.json](./207348-wastebraver-a-tiny-survival-tale.json) |
 | Wasted | 17925 | [17925-wasted.json](./17925-wasted.json) |
@@ -762,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Little Witch | 353291 | [353291-wicked-little-witch.json](./353291-wicked-little-witch.json) |
 | Wicked Monsters Blast! HD Plus | 85482 | [85482-wicked-monsters-blast-hd-plus.json](./85482-wicked-monsters-blast-hd-plus.json) |
 | Wicked Plague | 324691 | [324691-wicked-plague.json](./324691-wicked-plague.json) |
+| Wicked Surfing | 200674 | [200674-wicked-surfing.json](./200674-wicked-surfing.json) |
 | Wicked Willow | 137647 | [137647-wicked-willow.json](./137647-wicked-willow.json) |
 | Wicked! | 297463 | [297463-wicked.json](./297463-wicked.json) |
 | Wicket Cricket Manager | 243977 | [243977-wicket-cricket-manager.json](./243977-wicket-cricket-manager.json) |
@@ -808,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
+| Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
 | Wildagotchi: Virtual Pet - Deluxe Edition | 277304 | [277304-wildagotchi-virtual-pet-deluxe-edition.json](./277304-wildagotchi-virtual-pet-deluxe-edition.json) |
 | Wildbound | 347711 | [347711-wildbound.json](./347711-wildbound.json) |
 | WildCraft | 241635 | [241635-wildcraft.json](./241635-wildcraft.json) |
