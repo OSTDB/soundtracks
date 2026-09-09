@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NarKarma Engine A | 257661 | [257661-narkarma-engine-a.json](./257661-narkarma-engine-a.json) |
 | Naroike | 335277 | [335277-naroike.json](./335277-naroike.json) |
 | Narrative Nightmares: Trilogy of Terror | 282594 | [282594-narrative-nightmares-trilogy-of-terror.json](./282594-narrative-nightmares-trilogy-of-terror.json) |
+| Narrow Path | 203380 | [203380-narrow-path.json](./203380-narrow-path.json) |
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
 | Naruto Shippuden: Ninja Destiny 2 | 47935 | [47935-naruto-shippuden-ninja-destiny-2.json](./47935-naruto-shippuden-ninja-destiny-2.json) |
