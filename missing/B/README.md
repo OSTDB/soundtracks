@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bassing Beat 2 | 285998 | [285998-bassing-beat-2.json](./285998-bassing-beat-2.json) |
 | Bassmaster Fishing 2022 | 169996 | [169996-bassmaster-fishing-2022.json](./169996-bassmaster-fishing-2022.json) |
 | Bassmaster Fishing 2022: Elite Fishing Equipment Pack | 225081 | [225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json](./225081-bassmaster-fishing-2022-elite-fishing-equipment-pack.json) |
+| Bassmaster Fishing 2022: Lake Hartwell | 193438 | [193438-bassmaster-fishing-2022-lake-hartwell.json](./193438-bassmaster-fishing-2022-lake-hartwell.json) |
 | Bassmaster Fishing 2022: Predator Equipment Pack | 225082 | [225082-bassmaster-fishing-2022-predator-equipment-pack.json](./225082-bassmaster-fishing-2022-predator-equipment-pack.json) |
 | Bassmaster Fishing 2022: Synthwave Pack | 225083 | [225083-bassmaster-fishing-2022-synthwave-pack.json](./225083-bassmaster-fishing-2022-synthwave-pack.json) |
 | Bassmaster Fishing 2022: Throwback B.A.S.S. Pack | 225084 | [225084-bassmaster-fishing-2022-throwback-b-a-s-s-pack.json](./225084-bassmaster-fishing-2022-throwback-b-a-s-s-pack.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
 | Batterneers | 158215 | [158215-batterneers.json](./158215-batterneers.json) |
+| Battery-out | 193403 | [193403-battery-out.json](./193403-battery-out.json) |
 | Batteryman Recharges the World! | 184638 | [184638-batteryman-recharges-the-world.json](./184638-batteryman-recharges-the-world.json) |
 | Batting Champ | 287623 | [287623-batting-champ.json](./287623-batting-champ.json) |
 | Battington Manor | 393481 | [393481-battington-manor.json](./393481-battington-manor.json) |
@@ -2557,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
 | Brotherhood of Ruin 2024: Element Temple Research Complex | 311464 | [311464-brotherhood-of-ruin-2024-element-temple-research-complex.json](./311464-brotherhood-of-ruin-2024-element-temple-research-complex.json) |
+| Brothers | 193446 | [193446-brothers.json](./193446-brothers.json) |
 | Brothers Conflict: Brilliant Blue | 45991 | [45991-brothers-conflict-brilliant-blue.json](./45991-brothers-conflict-brilliant-blue.json) |
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
 | Brothers: Clash of Fighters | 252152 | [252152-brothers-clash-of-fighters.json](./252152-brothers-clash-of-fighters.json) |
