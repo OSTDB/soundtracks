@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
+| Car Mechanic Simulator: Pocket Edition 2 | 196825 | [196825-car-mechanic-simulator-pocket-edition-2.json](./196825-car-mechanic-simulator-pocket-edition-2.json) |
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
 | Car Parking 2 | 232448 | [232448-car-parking-2.json](./232448-car-parking-2.json) |
@@ -661,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
+| CatMxn: Chapter 1 | 196788 | [196788-catmxn-chapter-1.json](./196788-catmxn-chapter-1.json) |
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
 | Cats and Jigsaws | 188124 | [188124-cats-and-jigsaws.json](./188124-cats-and-jigsaws.json) |
@@ -999,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess '98 | 204703 | [204703-chess-98.json](./204703-chess-98.json) |
 | Chess & Backgammon Classics | 79907 | [79907-chess-and-backgammon-classics.json](./79907-chess-and-backgammon-classics.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
+| Chess Cartoons | 196826 | [196826-chess-cartoons.json](./196826-chess-cartoons.json) |
 | Chess Cats | 248068 | [248068-chess-cats.json](./248068-chess-cats.json) |
 | Chess Deluxe | 86703 | [86703-chess-deluxe.json](./86703-chess-deluxe.json) |
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
@@ -2297,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton 100% | 38359 | [38359-cotton-100.json](./38359-cotton-100.json) |
 | Cotton 2: Saturn Tribute | 173782 | [173782-cotton-2-saturn-tribute.json](./173782-cotton-2-saturn-tribute.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
+| Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
 | Couch Party Game Night | 109655 | [109655-couch-party-game-night.json](./109655-couch-party-game-night.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
@@ -2986,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Woney | 365066 | [365066-curse-of-woney.json](./365066-curse-of-woney.json) |
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
 | Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
+| Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
 | Cursed Baby | 325831 | [325831-cursed-baby.json](./325831-cursed-baby.json) |
 | Cursed Bet | 253590 | [253590-cursed-bet.json](./253590-cursed-bet.json) |
 | Cursed Castilla | 288182 | [288182-cursed-castilla.json](./288182-cursed-castilla.json) |
