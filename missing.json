@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T16:48:51.319Z",
-  "total_missing": 51143,
+  "generated_at": "2026-09-09T16:51:07.513Z",
+  "total_missing": 51142,
   "games": [
     {
       "igdb_id": 306086,
@@ -926,11 +926,6 @@
       "igdb_id": 135256,
       "game_name": "2112TD: Tower Defense Survival",
       "file": "missing/0-9/135256-2112td-tower-defense-survival.json"
-    },
-    {
-      "igdb_id": 375826,
-      "game_name": "21st Century Roguelike Pac-man",
-      "file": "missing/0-9/375826-21st-century-roguelike-pac-man.json"
     },
     {
       "igdb_id": 97343,
