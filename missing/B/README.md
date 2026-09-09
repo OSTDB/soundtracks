@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
 | Balls 'n Ropes | 233507 | [233507-balls-n-ropes.json](./233507-balls-n-ropes.json) |
+| Balls and Dungeons | 189127 | [189127-balls-and-dungeons.json](./189127-balls-and-dungeons.json) |
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Steel Community Project | 229708 | [229708-balls-of-steel-community-project.json](./229708-balls-of-steel-community-project.json) |
@@ -367,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
 | Baoxiao Chuji | 306642 | [306642-baoxiao-chuji.json](./306642-baoxiao-chuji.json) |
 | Baoxiao Duobiqiu | 97353 | [97353-baoxiao-duobiqiu.json](./97353-baoxiao-duobiqiu.json) |
+| Baptism of Fire | 189140 | [189140-baptism-of-fire.json](./189140-baptism-of-fire.json) |
 | Baptisterio | 326615 | [326615-baptisterio.json](./326615-baptisterio.json) |
 | Bar Keeper | 411559 | [411559-bar-keeper.json](./411559-bar-keeper.json) |
 | Bar Simulator | 407335 | [407335-bar-simulator.json](./407335-bar-simulator.json) |
@@ -794,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
+| Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
 | Bazar Simulator: The Wan Story | 331338 | [331338-bazar-simulator-the-wan-story.json](./331338-bazar-simulator-the-wan-story.json) |
 | Bazooka Blitzkrieg | 42627 | [42627-bazooka-blitzkrieg.json](./42627-bazooka-blitzkrieg.json) |
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
@@ -1297,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bing in Wonderland: Wings & Weapon Looks - Vermilion Bird | 325441 | [325441-bing-in-wonderland-wings-and-weapon-looks-vermilion-bird.json](./325441-bing-in-wonderland-wings-and-weapon-looks-vermilion-bird.json) |
 | Bing in Wonderland: Wings & Weapon Looks - White Tiger | 325442 | [325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json](./325442-bing-in-wonderland-wings-and-weapon-looks-white-tiger.json) |
 | Bingaboll | 259862 | [259862-bingaboll.json](./259862-bingaboll.json) |
+| Bingiman: Trap Ochido | 189130 | [189130-bingiman-trap-ochido.json](./189130-bingiman-trap-ochido.json) |
 | Bingo | 206142 | [206142-bingo.json](./206142-bingo.json) |
 | Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
 | Bingo Beavers: Kitchen | 298035 | [298035-bingo-beavers-kitchen.json](./298035-bingo-beavers-kitchen.json) |
@@ -1342,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
 | Bionic Dues | 9221 | [9221-bionic-dues.json](./9221-bionic-dues.json) |
+| Bionic Shield: Battle for Space Nebula Omega | 189123 | [189123-bionic-shield-battle-for-space-nebula-omega.json](./189123-bionic-shield-battle-for-space-nebula-omega.json) |
 | Bionicle Defenders | 343283 | [343283-bionicle-defenders.json](./343283-bionicle-defenders.json) |
 | Bionicle: City of Legends | 175995 | [175995-bionicle-city-of-legends.json](./175995-bionicle-city-of-legends.json) |
 | Bionicle: Command The Toa Mahri | 343282 | [343282-bionicle-command-the-toa-mahri.json](./343282-bionicle-command-the-toa-mahri.json) |
