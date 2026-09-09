@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T07:18:40.434Z",
-  "total_missing": 49612,
+  "generated_at": "2026-09-09T07:21:10.162Z",
+  "total_missing": 49611,
   "games": [
     {
       "igdb_id": 306086,
@@ -626,11 +626,6 @@
       "igdb_id": 183562,
       "game_name": "17 Fighters",
       "file": "missing/0-9/183562-17-fighters.json"
-    },
-    {
-      "igdb_id": 274757,
-      "game_name": "18 Minutes",
-      "file": "missing/0-9/274757-18-minutes.json"
     },
     {
       "igdb_id": 11427,
