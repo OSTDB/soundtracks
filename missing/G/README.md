@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glingdom | 317022 | [317022-glingdom.json](./317022-glingdom.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
+| Glitch Busters: Stuck on You | 204444 | [204444-glitch-busters-stuck-on-you.json](./204444-glitch-busters-stuck-on-you.json) |
 | Glitch Daddy | 277009 | [277009-glitch-daddy.json](./277009-glitch-daddy.json) |
 | Glitch in the System | 236809 | [236809-glitch-in-the-system.json](./236809-glitch-in-the-system.json) |
 | Glitch Maze.exe | 293074 | [293074-glitch-maze-exe.json](./293074-glitch-maze-exe.json) |
@@ -1047,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Girl | 107880 | [107880-good-girl.json](./107880-good-girl.json) |
 | Good Girls: Angels With Dirty Intentions | 399638 | [399638-good-girls-angels-with-dirty-intentions.json](./399638-good-girls-angels-with-dirty-intentions.json) |
 | Good God! | 400882 | [400882-good-god.json](./400882-good-god.json) |
+| Good Heavens! | 204463 | [204463-good-heavens.json](./204463-good-heavens.json) |
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
 | Good Job! | 261259 | [261259-good-job.json](./261259-good-job.json) |
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
@@ -1470,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grotto King | 282004 | [282004-grotto-king.json](./282004-grotto-king.json) |
 | Grouls | 329010 | [329010-grouls.json](./329010-grouls.json) |
 | Ground Attack | 84255 | [84255-ground-attack.json](./84255-ground-attack.json) |
+| Ground Divers | 204436 | [204436-ground-divers.json](./204436-ground-divers.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | GroundBreaker | 375848 | [375848-groundbreaker.json](./375848-groundbreaker.json) |
