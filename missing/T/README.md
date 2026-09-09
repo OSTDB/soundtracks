@@ -857,6 +857,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
 | The 8th Day | 106605 | [106605-the-8th-day.json](./106605-the-8th-day.json) |
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
+| The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
+| The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
 | The Abominable Snowmen | 15586 | [15586-the-abominable-snowmen.json](./15586-the-abominable-snowmen.json) |
 | The Absence of Miriam Lane | 219792 | [219792-the-absence-of-miriam-lane.json](./219792-the-absence-of-miriam-lane.json) |
 | The Abyss | 237353 | [237353-the-abyss.json](./237353-the-abyss.json) |
@@ -1388,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
+| The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
@@ -2795,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Onogoro | 196312 | [196312-the-tale-of-onogoro.json](./196312-the-tale-of-onogoro.json) |
 | The Tale of Relm | 333396 | [333396-the-tale-of-relm.json](./333396-the-tale-of-relm.json) |
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
+| The Tales of Bayun | 200111 | [200111-the-tales-of-bayun.json](./200111-the-tales-of-bayun.json) |
 | The Talos Principle III | 401496 | [401496-the-talos-principle-iii.json](./401496-the-talos-principle-iii.json) |
 | The Tarkiff Transfer Incident | 231370 | [231370-the-tarkiff-transfer-incident.json](./231370-the-tarkiff-transfer-incident.json) |
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
