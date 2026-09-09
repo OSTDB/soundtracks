@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T22:48:13.213Z",
-  "total_missing": 52124,
+  "generated_at": "2026-09-09T22:51:00.845Z",
+  "total_missing": 52123,
   "games": [
     {
       "igdb_id": 306086,
@@ -1116,11 +1116,6 @@
       "igdb_id": 32125,
       "game_name": "39 Days to Mars",
       "file": "missing/0-9/32125-39-days-to-mars.json"
-    },
-    {
-      "igdb_id": 367447,
-      "game_name": "3AM on Fish Island",
-      "file": "missing/0-9/367447-3am-on-fish-island.json"
     },
     {
       "igdb_id": 110352,
