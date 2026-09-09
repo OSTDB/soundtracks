@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martin Mystery: Monster Invasion | 194613 | [194613-martin-mystery-monster-invasion.json](./194613-martin-mystery-monster-invasion.json) |
 | Martin The Let's Player | 257083 | [257083-martin-the-lets-player.json](./257083-martin-the-lets-player.json) |
 | Martin Wort's Special Report | 112310 | [112310-martin-worts-special-report.json](./112310-martin-worts-special-report.json) |
+| Marty and the Eldritch Horror | 176964 | [176964-marty-and-the-eldritch-horror.json](./176964-marty-and-the-eldritch-horror.json) |
 | Marty McFart | 183589 | [183589-marty-mcfart.json](./183589-marty-mcfart.json) |
 | Maru and her make-believe world | 166747 | [166747-maru-and-her-make-believe-world.json](./166747-maru-and-her-make-believe-world.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
@@ -2245,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
 | MixMaster Online | 77363 | [77363-mixmaster-online.json](./77363-mixmaster-online.json) |
 | Mixology | 402922 | [402922-mixology.json](./402922-mixology.json) |
+| Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixx Island: Remix Plus - Amazing Edition | 290431 | [290431-mixx-island-remix-plus-amazing-edition.json](./290431-mixx-island-remix-plus-amazing-edition.json) |
 | Mixx Island: Remix Plus - Happy Edition | 287124 | [287124-mixx-island-remix-plus-happy-edition.json](./287124-mixx-island-remix-plus-happy-edition.json) |
 | Mixx Island: Remix Plus - Superb Edition | 298573 | [298573-mixx-island-remix-plus-superb-edition.json](./298573-mixx-island-remix-plus-superb-edition.json) |
