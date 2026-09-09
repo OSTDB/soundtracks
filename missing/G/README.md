@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha Number for Playdate | 276716 | [276716-gotcha-number-for-playdate.json](./276716-gotcha-number-for-playdate.json) |
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
+| Gotham Knights: Collector's Edition | 201777 | [201777-gotham-knights-collectors-edition.json](./201777-gotham-knights-collectors-edition.json) |
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
 | Gothic 1 Remake: Nyras Prologue | 333955 | [333955-gothic-1-remake-nyras-prologue.json](./333955-gothic-1-remake-nyras-prologue.json) |
 | Gothic 1881 | 158202 | [158202-gothic-1881.json](./158202-gothic-1881.json) |
