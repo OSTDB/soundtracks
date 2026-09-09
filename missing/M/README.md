@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
+| Mobo Hide and Seek | 200128 | [200128-mobo-hide-and-seek.json](./200128-mobo-hide-and-seek.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
@@ -2892,6 +2893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Out 2: Deluxe Edition | 271470 | [271470-moving-out-2-deluxe-edition.json](./271470-moving-out-2-deluxe-edition.json) |
 | Moving Out: Deluxe Edition | 224202 | [224202-moving-out-deluxe-edition.json](./224202-moving-out-deluxe-edition.json) |
 | Moving parts | 271221 | [271221-moving-parts.json](./271221-moving-parts.json) |
+| Mow | 200107 | [200107-mow.json](./200107-mow.json) |
 | Mowin' & Throwin' | 96228 | [96228-mowin-and-throwin.json](./96228-mowin-and-throwin.json) |
 | Mówù Diàocházhě | 154027 | [154027-mowu-diaochazhe.json](./154027-mowu-diaochazhe.json) |
 | Mowzie's Mobs | 331346 | [331346-mowzies-mobs.json](./331346-mowzies-mobs.json) |
@@ -3197,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
 | My Colony 2 | 200723 | [200723-my-colony-2.json](./200723-my-colony-2.json) |
 | My Confounding Cat is Criminally Cute! | 284911 | [284911-my-confounding-cat-is-criminally-cute.json](./284911-my-confounding-cat-is-criminally-cute.json) |
+| My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
@@ -3433,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysteries of the Heart: The Psychic Detective Case Files | 299138 | [299138-mysteries-of-the-heart-the-psychic-detective-case-files.json](./299138-mysteries-of-the-heart-the-psychic-detective-case-files.json) |
 | Mysteries of the Past: Shadow of the Deamon | 87275 | [87275-mysteries-of-the-past-shadow-of-the-deamon.json](./87275-mysteries-of-the-past-shadow-of-the-deamon.json) |
 | Mysterious Island: A Hidden Object Adventure | 195758 | [195758-mysterious-island-a-hidden-object-adventure.json](./195758-mysterious-island-a-hidden-object-adventure.json) |
+| Mysterious Island: A Race Against Time and Hot Lava | 200136 | [200136-mysterious-island-a-race-against-time-and-hot-lava.json](./200136-mysterious-island-a-race-against-time-and-hot-lava.json) |
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
