@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emmy: The Funny Game | 62196 | [62196-emmy-the-funny-game.json](./62196-emmy-the-funny-game.json) |
 | Emmy's Lab Escape | 364483 | [364483-emmys-lab-escape.json](./364483-emmys-lab-escape.json) |
 | Emo Neccky | 229666 | [229666-emo-neccky.json](./229666-emo-neccky.json) |
+| Emoceans | 180783 | [180783-emoceans.json](./180783-emoceans.json) |
 | Emoji Battlefield: Summer Vacation | 399636 | [399636-emoji-battlefield-summer-vacation.json](./399636-emoji-battlefield-summer-vacation.json) |
 | Emoji Bomb | 398978 | [398978-emoji-bomb.json](./398978-emoji-bomb.json) |
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
