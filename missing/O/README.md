@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Katamari | 358526 | [358526-once-upon-a-katamari.json](./358526-once-upon-a-katamari.json) |
 | Once Upon A Katamari: Rolling Live Highlights | 410246 | [410246-once-upon-a-katamari-rolling-live-highlights.json](./410246-once-upon-a-katamari-rolling-live-highlights.json) |
 | Once Upon A Life | 115656 | [115656-once-upon-a-life.json](./115656-once-upon-a-life.json) |
+| Once Upon A Plague | 184565 | [184565-once-upon-a-plague.json](./184565-once-upon-a-plague.json) |
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ongeki Bright Memory Act.2 | 335953 | [335953-ongeki-bright-memory-act-2.json](./335953-ongeki-bright-memory-act-2.json) |
 | Ongeki Bright Memory Act.3 | 335954 | [335954-ongeki-bright-memory-act-3.json](./335954-ongeki-bright-memory-act-3.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
+| Onigami | 184562 | [184562-onigami.json](./184562-onigami.json) |
 | Onigashima: Awakening | 406103 | [406103-onigashima-awakening.json](./406103-onigashima-awakening.json) |
 | Onii-chan Continue!: Secret Love With Yuri | 396239 | [396239-onii-chan-continue-secret-love-with-yuri.json](./396239-onii-chan-continue-secret-love-with-yuri.json) |
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
