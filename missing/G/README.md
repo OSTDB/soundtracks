@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
 | Gastova: The Witches of Arkana | 130955 | [130955-gastova-the-witches-of-arkana.json](./130955-gastova-the-witches-of-arkana.json) |
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
+| Gasu: The Hugging Dragon | 177486 | [177486-gasu-the-hugging-dragon.json](./177486-gasu-the-hugging-dragon.json) |
 | Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
 | Genba no Kizuna | 235738 | [235738-genba-no-kizuna.json](./235738-genba-no-kizuna.json) |
 | Genbu's Favour | 322556 | [322556-genbus-favour.json](./322556-genbus-favour.json) |
+| Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Crawl: Dungeon Descent | 406136 | [406136-gene-crawl-dungeon-descent.json](./406136-gene-crawl-dungeon-descent.json) |
