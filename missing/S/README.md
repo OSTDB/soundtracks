@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
 | Seven: The Days Long Gone | 18908 | [18908-seven-the-days-long-gone.json](./18908-seven-the-days-long-gone.json) |
+| Severance | 196235 | [196235-severance.json](./196235-severance.json) |
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
 | Severity | 93615 | [93615-severity.json](./93615-severity.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
@@ -2514,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
+| Snowland Adventure | 196277 | [196277-snowland-adventure.json](./196277-snowland-adventure.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
 | Snowman's Land | 308234 | [308234-snowmans-land.json](./308234-snowmans-land.json) |
 | SnowRacer: Ramps | 246963 | [246963-snowracer-ramps.json](./246963-snowracer-ramps.json) |
@@ -2578,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Interaction Trainer | 31531 | [31531-social-interaction-trainer.json](./31531-social-interaction-trainer.json) |
 | Sociopath | 410211 | [410211-sociopath.json](./410211-sociopath.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
+| Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
@@ -3334,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
 | Spaceguy III | 109749 | [109749-spaceguy-iii.json](./109749-spaceguy-iii.json) |
+| SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
 | Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
@@ -4569,6 +4573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Rage: Revolution | 279632 | [279632-streets-of-rage-revolution.json](./279632-streets-of-rage-revolution.json) |
 | Streets of Red: Devil's Dare | 126045 | [126045-streets-of-red-devils-dare.json](./126045-streets-of-red-devils-dare.json) |
 | Streets of Rogue | 23275 | [23275-streets-of-rogue.json](./23275-streets-of-rogue.json) |
+| Streets of Rogue: Character Pack Edition | 196279 | [196279-streets-of-rogue-character-pack-edition.json](./196279-streets-of-rogue-character-pack-edition.json) |
 | Streets of Slender-Man | 267952 | [267952-streets-of-slender-man.json](./267952-streets-of-slender-man.json) |
 | StreetSync | 332983 | [332983-streetsync.json](./332983-streetsync.json) |
 | Strength & Skill: Guiness Book of Records | 283734 | [283734-strength-and-skill-guiness-book-of-records.json](./283734-strength-and-skill-guiness-book-of-records.json) |
