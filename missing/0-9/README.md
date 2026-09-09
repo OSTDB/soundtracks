@@ -107,7 +107,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
-| 123 Talk | 263186 | [263186-123-talk.json](./263186-123-talk.json) |
 | 123Babycount | 89724 | [89724-123babycount.json](./89724-123babycount.json) |
 | 125 Balls | 265416 | [265416-125-balls.json](./265416-125-balls.json) |
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
