@@ -367,6 +367,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
+| Banner of the Maid: Miss Elisa's Journal | 169950 | [169950-banner-of-the-maid-miss-elisas-journal.json](./169950-banner-of-the-maid-miss-elisas-journal.json) |
+| Banner of the Maid: The Oriental Pirate | 169949 | [169949-banner-of-the-maid-the-oriental-pirate.json](./169949-banner-of-the-maid-the-oriental-pirate.json) |
 | Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
 | Banners of Ruin: Moonstone | 230817 | [230817-banners-of-ruin-moonstone.json](./230817-banners-of-ruin-moonstone.json) |
 | Banquet of Nausea | 402887 | [402887-banquet-of-nausea.json](./402887-banquet-of-nausea.json) |
