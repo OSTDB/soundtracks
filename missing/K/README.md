@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
 | Keepsake | 17243 | [17243-keepsake.json](./17243-keepsake.json) |
 | Keepy Uppy | 229353 | [229353-keepy-uppy.json](./229353-keepy-uppy.json) |
+| Keg Bearer | 200127 | [200127-keg-bearer.json](./200127-keg-bearer.json) |
 | Keiji J.B. Harold no Jikenbo: Murder Club | 272022 | [272022-keiji-j-b-harold-no-jikenbo-murder-club.json](./272022-keiji-j-b-harold-no-jikenbo-murder-club.json) |
 | Keke in the Caves of Peril | 230262 | [230262-keke-in-the-caves-of-peril.json](./230262-keke-in-the-caves-of-peril.json) |
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
