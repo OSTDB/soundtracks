@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
 | FTB Academy | 396938 | [396938-ftb-academy.json](./396938-ftb-academy.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
+| FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
 | Fuck Paper Scissors | 344382 | [344382-fuck-paper-scissors.json](./344382-fuck-paper-scissors.json) |
 | Fuck Space! | 199085 | [199085-fuck-space.json](./199085-fuck-space.json) |
 | Fuck the Police | 159889 | [159889-fuck-the-police.json](./159889-fuck-the-police.json) |
