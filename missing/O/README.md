@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OD: Knock | 279637 | [279637-od-knock.json](./279637-od-knock.json) |
 | Odd Ball | 60588 | [60588-odd-ball.json](./60588-odd-ball.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
+| Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
 | Odd Sequence | 296396 | [296396-odd-sequence.json](./296396-odd-sequence.json) |
 | Odd Town | 278965 | [278965-odd-town.json](./278965-odd-town.json) |
 | Odd-mensional | 184117 | [184117-odd-mensional.json](./184117-odd-mensional.json) |
@@ -900,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
 | Out Of Cash (Sin Blanca) | 379897 | [379897-out-of-cash-sin-blanca.json](./379897-out-of-cash-sin-blanca.json) |
 | Out of Control | 40775 | [40775-out-of-control.json](./40775-out-of-control.json) |
+| Out of Ctrl | 177519 | [177519-out-of-ctrl.json](./177519-out-of-ctrl.json) |
 | Out of Frame | 141886 | [141886-out-of-frame.json](./141886-out-of-frame.json) |
 | Out of Hand: Deluxe | 330138 | [330138-out-of-hand-deluxe.json](./330138-out-of-hand-deluxe.json) |
 | Out of Hands | 211231 | [211231-out-of-hands.json](./211231-out-of-hands.json) |
