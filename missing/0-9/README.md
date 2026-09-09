@@ -197,7 +197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
-| 25th Anniversary Super Mario Bros. | 202413 | [202413-25th-anniversary-super-mario-bros.json](./202413-25th-anniversary-super-mario-bros.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 27 Solitaire Games | 91976 | [91976-27-solitaire-games.json](./91976-27-solitaire-games.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
