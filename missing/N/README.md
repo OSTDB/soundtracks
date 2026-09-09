@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Sing | 119758 | [119758-night-sing.json](./119758-night-sing.json) |
 | Night Slashers X | 51229 | [51229-night-slashers-x.json](./51229-night-slashers-x.json) |
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
+| Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
 | Night Trap | 298556 | [298556-night-trap.json](./298556-night-trap.json) |
 | Night Trap: 25th Anniversary Edition | 28249 | [28249-night-trap-25th-anniversary-edition.json](./28249-night-trap-25th-anniversary-edition.json) |
 | Night World | 178057 | [178057-night-world.json](./178057-night-world.json) |
@@ -1041,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
 | Noble's Life: Kingdom Reborn | 173301 | [173301-nobles-life-kingdom-reborn.json](./173301-nobles-life-kingdom-reborn.json) |
+| Nobodies: After Death | 190162 | [190162-nobodies-after-death.json](./190162-nobodies-after-death.json) |
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
 | Nobody's Left | 250949 | [250949-nobodys-left.json](./250949-nobodys-left.json) |
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
