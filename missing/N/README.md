@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Space Ultra | 32934 | [32934-neon-space-ultra.json](./32934-neon-space-ultra.json) |
 | Neon Spaceboard | 99597 | [99597-neon-spaceboard.json](./99597-neon-spaceboard.json) |
 | Neon Struct: Carrion Carrier | 158211 | [158211-neon-struct-carrion-carrier.json](./158211-neon-struct-carrion-carrier.json) |
+| Neon Struct: Desperation Column | 187444 | [187444-neon-struct-desperation-column.json](./187444-neon-struct-desperation-column.json) |
 | Neon Sundown | 193421 | [193421-neon-sundown.json](./193421-neon-sundown.json) |
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
 | Neon Tail | 119431 | [119431-neon-tail.json](./119431-neon-tail.json) |
