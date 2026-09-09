@@ -2674,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
 | Bubble's Travel | 387337 | [387337-bubbles-travel.json](./387337-bubbles-travel.json) |
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
+| Bubbles Shot | 187430 | [187430-bubbles-shot.json](./187430-bubbles-shot.json) |
 | Bubbles Swimsuit | 225063 | [225063-bubbles-swimsuit.json](./225063-bubbles-swimsuit.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
