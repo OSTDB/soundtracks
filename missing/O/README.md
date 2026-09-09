@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Room Hotel | 178654 | [178654-one-room-hotel.json](./178654-one-room-hotel.json) |
 | One Room: Prisoner's Dilemma | 304353 | [304353-one-room-prisoners-dilemma.json](./304353-one-room-prisoners-dilemma.json) |
 | One S'More | 258706 | [258706-one-smore.json](./258706-one-smore.json) |
+| One Shot | 179111 | [179111-one-shot.json](./179111-one-shot.json) |
 | One Shot Gladiator | 292012 | [292012-one-shot-gladiator.json](./292012-one-shot-gladiator.json) |
 | One Shot in the Dark, Now I'm Dead. | 159335 | [159335-one-shot-in-the-dark-now-im-dead.json](./159335-one-shot-in-the-dark-now-im-dead.json) |
 | One Shot Outlaw | 212461 | [212461-one-shot-outlaw.json](./212461-one-shot-outlaw.json) |
@@ -831,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
+| OtherSide | 179157 | [179157-otherside.json](./179157-otherside.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
@@ -874,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Life: Beginnings & Always - Baxter's Story | 248049 | [248049-our-life-beginnings-and-always-baxters-story.json](./248049-our-life-beginnings-and-always-baxters-story.json) |
 | Our Mind | 238496 | [238496-our-mind.json](./238496-our-mind.json) |
 | Our Ninja World | 199106 | [199106-our-ninja-world.json](./199106-our-ninja-world.json) |
+| Our Place | 179155 | [179155-our-place.json](./179155-our-place.json) |
 | Our Tribe Above All | 263774 | [263774-our-tribe-above-all.json](./263774-our-tribe-above-all.json) |
 | Our Two Bedroom Story | 134016 | [134016-our-two-bedroom-story.json](./134016-our-two-bedroom-story.json) |
 | Our Two Bedroom Story: Here's to the Birthday Boy! - Akiyoshi | 238194 | [238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json](./238194-our-two-bedroom-story-heres-to-the-birthday-boy-akiyoshi.json) |
