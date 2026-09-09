@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 1.7 - Bury Your Tears With the Past | 339793 | [339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json](./339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json) |
 | Zenomatrix | 332450 | [332450-zenomatrix.json](./332450-zenomatrix.json) |
 | Zenonia 5 | 75155 | [75155-zenonia-5.json](./75155-zenonia-5.json) |
+| Zenteni | 189100 | [189100-zenteni.json](./189100-zenteni.json) |
 | Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
 | Zentris | 229052 | [229052-zentris.json](./229052-zentris.json) |
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
