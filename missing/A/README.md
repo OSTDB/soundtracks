@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amateur Surgeon 4: Re-Generations | 57116 | [57116-amateur-surgeon-4-re-generations.json](./57116-amateur-surgeon-4-re-generations.json) |
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
+| Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
 | Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
 | Atlas Reactor | 18063 | [18063-atlas-reactor.json](./18063-atlas-reactor.json) |
 | Atlas Reactor VR Character Viewer | 33173 | [33173-atlas-reactor-vr-character-viewer.json](./33173-atlas-reactor-vr-character-viewer.json) |
+| Atled: Everlasting Song | 194540 | [194540-atled-everlasting-song.json](./194540-atled-everlasting-song.json) |
 | Atlus Collaboration Costume Set | 333387 | [333387-atlus-collaboration-costume-set.json](./333387-atlus-collaboration-costume-set.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
@@ -3031,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Rumble | 208034 | [208034-ayakashi-rumble.json](./208034-ayakashi-rumble.json) |
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
+| Ayame no Machi to Ohime-sama | 194546 | [194546-ayame-no-machi-to-ohime-sama.json](./194546-ayame-no-machi-to-ohime-sama.json) |
 | Ayda | 317604 | [317604-ayda.json](./317604-ayda.json) |
 | Aye Fair Lady | 126019 | [126019-aye-fair-lady.json](./126019-aye-fair-lady.json) |
 | Aye Leon | 387342 | [387342-aye-leon.json](./387342-aye-leon.json) |
