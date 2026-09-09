@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jar | 340768 | [340768-jar.json](./340768-jar.json) |
 | Jarinko Chie | 346029 | [346029-jarinko-chie.json](./346029-jarinko-chie.json) |
 | Jarpug | 259012 | [259012-jarpug.json](./259012-jarpug.json) |
+| Jash | 187443 | [187443-jash.json](./187443-jash.json) |
 | Jasmine | 321735 | [321735-jasmine.json](./321735-jasmine.json) |
 | Jason Maxx | 349316 | [349316-jason-maxx.json](./349316-jason-maxx.json) |
 | Jasper and the City of Lights | 211237 | [211237-jasper-and-the-city-of-lights.json](./211237-jasper-and-the-city-of-lights.json) |
