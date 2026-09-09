@@ -113,13 +113,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
-| 13 Sentinels: Aegis Rim | 28337 | [28337-13-sentinels-aegis-rim.json](./28337-13-sentinels-aegis-rim.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
 | 1428: Shadows over Silesia - Deluxe Edition | 246634 | [246634-1428-shadows-over-silesia-deluxe-edition.json](./246634-1428-shadows-over-silesia-deluxe-edition.json) |
-| 1428: Shadows over Silesia - Tourney at the Bear Rock | 289334 | [289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json](./289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json) |
 | 14Days | 98412 | [98412-14days.json](./98412-14days.json) |
 | 15 Puzzle | 282592 | [282592-15-puzzle.json](./282592-15-puzzle.json) |
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
