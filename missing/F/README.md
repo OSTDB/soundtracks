@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
+| Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
