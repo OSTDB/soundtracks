@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Weekend | 333579 | [333579-happy-weekend.json](./333579-happy-weekend.json) |
 | Happy Wonderland Solitaire | 276200 | [276200-happy-wonderland-solitaire.json](./276200-happy-wonderland-solitaire.json) |
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
+| Happy Zone | 193937 | [193937-happy-zone.json](./193937-happy-zone.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
@@ -1925,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Simulator 2: Bear Hunter Pack | 224221 | [224221-hunting-simulator-2-bear-hunter-pack.json](./224221-hunting-simulator-2-bear-hunter-pack.json) |
 | Hunting Simulator 2: Beretta Weapon Pack | 224220 | [224220-hunting-simulator-2-beretta-weapon-pack.json](./224220-hunting-simulator-2-beretta-weapon-pack.json) |
 | Hunting Simulator 3 | 323189 | [323189-hunting-simulator-3.json](./323189-hunting-simulator-3.json) |
+| Hunting Story | 193968 | [193968-hunting-story.json](./193968-hunting-story.json) |
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
 | Hurdle Turtle 2 | 58264 | [58264-hurdle-turtle-2.json](./58264-hurdle-turtle-2.json) |
@@ -1943,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
 | Hyde | 192967 | [192967-hyde.json](./192967-hyde.json) |
+| Hyde and Seek | 193950 | [193950-hyde-and-seek.json](./193950-hyde-and-seek.json) |
 | Hyde and Zeke | 166782 | [166782-hyde-and-zeke.json](./166782-hyde-and-zeke.json) |
 | Hydefos | 292848 | [292848-hydefos.json](./292848-hydefos.json) |
 | Hydra Hide Land | 337467 | [337467-hydra-hide-land.json](./337467-hydra-hide-land.json) |
