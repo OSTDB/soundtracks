@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
+| Heroes of Rome: Dangerous Roads | 195722 | [195722-heroes-of-rome-dangerous-roads.json](./195722-heroes-of-rome-dangerous-roads.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of the Pacific | 5861 | [5861-heroes-of-the-pacific.json](./5861-heroes-of-the-pacific.json) |
@@ -1954,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
+| Hyper Drone X | 195731 | [195731-hyper-drone-x.json](./195731-hyper-drone-x.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
 | Hyper Force | 40811 | [40811-hyper-force.json](./40811-hyper-force.json) |
 | Hyper Front | 187492 | [187492-hyper-front.json](./187492-hyper-front.json) |
@@ -1994,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypermarket Simulator | 335855 | [335855-hypermarket-simulator.json](./335855-hypermarket-simulator.json) |
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
+| HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
 | Hypersomnia | 249782 | [249782-hypersomnia.json](./249782-hypersomnia.json) |
 | Hyperspace | 297489 | [297489-hyperspace.json](./297489-hyperspace.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
