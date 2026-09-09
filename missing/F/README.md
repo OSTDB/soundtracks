@@ -177,12 +177,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
+| Fallen London: A Crown of Thorns | 191792 | [191792-fallen-london-a-crown-of-thorns.json](./191792-fallen-london-a-crown-of-thorns.json) |
 | Fallen London: A Stretch in the Sky | 191903 | [191903-fallen-london-a-stretch-in-the-sky.json](./191903-fallen-london-a-stretch-in-the-sky.json) |
+| Fallen London: Adornment | 191795 | [191795-fallen-london-adornment.json](./191795-fallen-london-adornment.json) |
+| Fallen London: Damp Martyrs | 191791 | [191791-fallen-london-damp-martyrs.json](./191791-fallen-london-damp-martyrs.json) |
+| Fallen London: For a Dream of Innocence | 191785 | [191785-fallen-london-for-a-dream-of-innocence.json](./191785-fallen-london-for-a-dream-of-innocence.json) |
+| Fallen London: Leviathan | 191786 | [191786-fallen-london-leviathan.json](./191786-fallen-london-leviathan.json) |
+| Fallen London: Reunion | 191787 | [191787-fallen-london-reunion.json](./191787-fallen-london-reunion.json) |
 | Fallen London: The Blemmigan Affair | 191865 | [191865-fallen-london-the-blemmigan-affair.json](./191865-fallen-london-the-blemmigan-affair.json) |
 | Fallen London: The Brass Grail | 191882 | [191882-fallen-london-the-brass-grail.json](./191882-fallen-london-the-brass-grail.json) |
+| Fallen London: The Crocodile Who Would Be King | 191793 | [191793-fallen-london-the-crocodile-who-would-be-king.json](./191793-fallen-london-the-crocodile-who-would-be-king.json) |
+| Fallen London: The Fair Unknown | 191783 | [191783-fallen-london-the-fair-unknown.json](./191783-fallen-london-the-fair-unknown.json) |
+| Fallen London: The House of Silk and Flame | 191794 | [191794-fallen-london-the-house-of-silk-and-flame.json](./191794-fallen-london-the-house-of-silk-and-flame.json) |
 | Fallen London: The Marriage of Feducci | 191869 | [191869-fallen-london-the-marriage-of-feducci.json](./191869-fallen-london-the-marriage-of-feducci.json) |
 | Fallen London: The Queen of the Elephants | 199619 | [199619-fallen-london-the-queen-of-the-elephants.json](./199619-fallen-london-the-queen-of-the-elephants.json) |
+| Fallen London: The Tempest | 191789 | [191789-fallen-london-the-tempest.json](./191789-fallen-london-the-tempest.json) |
+| Fallen London: The Thing That Came in from the Fog | 191784 | [191784-fallen-london-the-thing-that-came-in-from-the-fog.json](./191784-fallen-london-the-thing-that-came-in-from-the-fog.json) |
 | Fallen London: Upwards! | 191912 | [191912-fallen-london-upwards.json](./191912-fallen-london-upwards.json) |
+| Fallen London: We Absolutely Meant to Go to Zee | 191788 | [191788-fallen-london-we-absolutely-meant-to-go-to-zee.json](./191788-fallen-london-we-absolutely-meant-to-go-to-zee.json) |
 | Fallen Princess | 55909 | [55909-fallen-princess.json](./55909-fallen-princess.json) |
 | Fallen Relics | 360570 | [360570-fallen-relics.json](./360570-fallen-relics.json) |
 | Fallen Seeds | 270112 | [270112-fallen-seeds.json](./270112-fallen-seeds.json) |
