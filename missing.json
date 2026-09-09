@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T06:18:48.674Z",
-  "total_missing": 49464,
+  "generated_at": "2026-09-09T06:21:07.068Z",
+  "total_missing": 49463,
   "games": [
     {
       "igdb_id": 306086,
@@ -591,11 +591,6 @@
       "igdb_id": 316431,
       "game_name": "15th Prison",
       "file": "missing/0-9/316431-15th-prison.json"
-    },
-    {
-      "igdb_id": 143075,
-      "game_name": "16 Tales: Vol. 2",
-      "file": "missing/0-9/143075-16-tales-vol-2.json"
     },
     {
       "igdb_id": 97891,
