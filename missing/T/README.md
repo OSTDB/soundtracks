@@ -271,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
+| Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
 | Talon City: Death from Above | 214173 | [214173-talon-city-death-from-above.json](./214173-talon-city-death-from-above.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
@@ -355,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
+| Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tantei Jinguji Saburo: Kiken na Futari - Kouhen | 41414 | [41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json](./41414-tantei-jinguji-saburo-kiken-na-futari-kouhen.json) |
