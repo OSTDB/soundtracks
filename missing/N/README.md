@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Creatures II | 45860 | [45860-nightmare-creatures-ii.json](./45860-nightmare-creatures-ii.json) |
 | Nightmare Diary | 229703 | [229703-nightmare-diary.json](./229703-nightmare-diary.json) |
 | Nightmare Game | 120416 | [120416-nightmare-game.json](./120416-nightmare-game.json) |
+| Nightmare Hunter | 207344 | [207344-nightmare-hunter.json](./207344-nightmare-hunter.json) |
 | Nightmare Invasion | 352749 | [352749-nightmare-invasion.json](./352749-nightmare-invasion.json) |
 | Nightmare Kitchen | 334501 | [334501-nightmare-kitchen.json](./334501-nightmare-kitchen.json) |
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
