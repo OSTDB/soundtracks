@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T07:21:10.162Z",
-  "total_missing": 49611,
+  "generated_at": "2026-09-09T07:31:14.887Z",
+  "total_missing": 49613,
   "games": [
     {
       "igdb_id": 306086,
@@ -631,11 +631,6 @@
       "igdb_id": 11427,
       "game_name": "18 Wheels of Steel: American Long Haul",
       "file": "missing/0-9/11427-18-wheels-of-steel-american-long-haul.json"
-    },
-    {
-      "igdb_id": 11428,
-      "game_name": "18 Wheels of Steel: Extreme Trucker",
-      "file": "missing/0-9/11428-18-wheels-of-steel-extreme-trucker.json"
     },
     {
       "igdb_id": 11429,
@@ -185553,6 +185548,11 @@
       "file": "missing/S/149596-slaughterhouse.json"
     },
     {
+      "igdb_id": 198505,
+      "game_name": "Slav Tiles",
+      "file": "missing/S/198505-slav-tiles.json"
+    },
+    {
       "igdb_id": 111732,
       "game_name": "Slave Master: The Game",
       "file": "missing/S/111732-slave-master-the-game.json"
@@ -200858,6 +200858,11 @@
       "file": "missing/S/183605-super-mario-flash-2.json"
     },
     {
+      "igdb_id": 198502,
+      "game_name": "Super Mario Flash 2: SMW Remake",
+      "file": "missing/S/198502-super-mario-flash-2-smw-remake.json"
+    },
+    {
       "igdb_id": 134075,
       "game_name": "Super Mario Flashback",
       "file": "missing/S/134075-super-mario-flashback.json"
@@ -210181,6 +210186,11 @@
       "igdb_id": 39041,
       "game_name": "The Classic Lotus Trilogy",
       "file": "missing/T/39041-the-classic-lotus-trilogy.json"
+    },
+    {
+      "igdb_id": 198503,
+      "game_name": "The Cleaner",
+      "file": "missing/T/198503-the-cleaner.json"
     },
     {
       "igdb_id": 182538,
