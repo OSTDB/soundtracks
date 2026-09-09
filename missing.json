@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:48:29.364Z",
-  "total_missing": 52289,
+  "generated_at": "2026-09-09T23:51:14.349Z",
+  "total_missing": 52288,
   "games": [
     {
       "igdb_id": 306086,
@@ -1146,11 +1146,6 @@
       "igdb_id": 15575,
       "game_name": "3D Convoy",
       "file": "missing/0-9/15575-3d-convoy.json"
-    },
-    {
-      "igdb_id": 128010,
-      "game_name": "3D Custom Lady Maker",
-      "file": "missing/0-9/128010-3d-custom-lady-maker.json"
     },
     {
       "igdb_id": 205837,
