@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
 | Encroacher: Snakes | 413004 | [413004-encroacher-snakes.json](./413004-encroacher-snakes.json) |
+| Encrypted | 184063 | [184063-encrypted.json](./184063-encrypted.json) |
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
 | Encyclopedia Explosica | 185617 | [185617-encyclopedia-explosica.json](./185617-encyclopedia-explosica.json) |
 | End of Days | 151183 | [151183-end-of-days.json](./151183-end-of-days.json) |
