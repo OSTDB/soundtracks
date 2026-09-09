@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Stay Night: First Press Limited Edition | 307303 | [307303-fate-stay-night-first-press-limited-edition.json](./307303-fate-stay-night-first-press-limited-edition.json) |
 | Fate/Zero the Visual Novel | 297459 | [297459-fate-zero-the-visual-novel.json](./297459-fate-zero-the-visual-novel.json) |
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
+| Fated | 184069 | [184069-fated.json](./184069-fated.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
