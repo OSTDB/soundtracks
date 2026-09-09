@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredibles: When Danger Calls | 18261 | [18261-the-incredibles-when-danger-calls.json](./18261-the-incredibles-when-danger-calls.json) |
 | The Indigo Initiative | 358848 | [358848-the-indigo-initiative.json](./358848-the-indigo-initiative.json) |
 | The Inescapable Nightmare | 357239 | [357239-the-inescapable-nightmare.json](./357239-the-inescapable-nightmare.json) |
+| The Infernal Return | 195156 | [195156-the-infernal-return.json](./195156-the-infernal-return.json) |
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
 | The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
@@ -2705,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skullkid | 230259 | [230259-the-skullkid.json](./230259-the-skullkid.json) |
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
+| The Smash Cars Tournament | 195145 | [195145-the-smash-cars-tournament.json](./195145-the-smash-cars-tournament.json) |
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
 | The Smurfs Collection | 75142 | [75142-the-smurfs-collection.json](./75142-the-smurfs-collection.json) |
 | The Smurfs: Colorful Stories | 275888 | [275888-the-smurfs-colorful-stories.json](./275888-the-smurfs-colorful-stories.json) |
@@ -3315,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
+| Thunder League Online | 195169 | [195169-thunder-league-online.json](./195169-thunder-league-online.json) |
 | Thunder Roar | 218121 | [218121-thunder-roar.json](./218121-thunder-roar.json) |
 | Thunder Spirits | 46662 | [46662-thunder-spirits.json](./46662-thunder-spirits.json) |
 | Thunder Tiger | 334128 | [334128-thunder-tiger.json](./334128-thunder-tiger.json) |
@@ -4103,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Me | 400211 | [400211-touch-me.json](./400211-touch-me.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touch My Katamari | 6462 | [6462-touch-my-katamari.json](./6462-touch-my-katamari.json) |
+| Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
@@ -4219,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Tears | 268212 | [268212-tower-of-tears.json](./268212-tower-of-tears.json) |
 | Tower of the Ancients | 206753 | [206753-tower-of-the-ancients.json](./206753-tower-of-the-ancients.json) |
 | Tower of the Deep | 388026 | [388026-tower-of-the-deep.json](./388026-tower-of-the-deep.json) |
+| Tower of the Sage | 195140 | [195140-tower-of-the-sage.json](./195140-tower-of-the-sage.json) |
 | Tower of Tori | 339289 | [339289-tower-of-tori.json](./339289-tower-of-tori.json) |
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
 | Tower of Waifus 2 | 148565 | [148565-tower-of-waifus-2.json](./148565-tower-of-waifus-2.json) |
@@ -4754,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick or Treat Halloween Solitaire | 386125 | [386125-trick-or-treat-halloween-solitaire.json](./386125-trick-or-treat-halloween-solitaire.json) |
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
 | Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
+| Tricking 0 | 195187 | [195187-tricking-0.json](./195187-tricking-0.json) |
 | Trickshot Tactics | 382753 | [382753-trickshot-tactics.json](./382753-trickshot-tactics.json) |
 | TrickShot VR | 133457 | [133457-trickshot-vr.json](./133457-trickshot-vr.json) |
 | Trickster Trove | 314642 | [314642-trickster-trove.json](./314642-trickster-trove.json) |
