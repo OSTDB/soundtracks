@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Tycoon: First Class | 306639 | [306639-airplane-tycoon-first-class.json](./306639-airplane-tycoon-first-class.json) |
 | Airport | 283155 | [283155-airport.json](./283155-airport.json) |
 | Airport | 346048 | [346048-airport.json](./346048-airport.json) |
+| Airport Administrator Simulator | 199598 | [199598-airport-administrator-simulator.json](./199598-airport-administrator-simulator.json) |
 | Airport Baggage Simulator | 372497 | [372497-airport-baggage-simulator.json](./372497-airport-baggage-simulator.json) |
 | Airport Boss | 297230 | [297230-airport-boss.json](./297230-airport-boss.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
@@ -2023,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
+| Aquarium Designer: Sea Life | 199595 | [199595-aquarium-designer-sea-life.json](./199595-aquarium-designer-sea-life.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | Aquatic Adventure | 292015 | [292015-aquatic-adventure.json](./292015-aquatic-adventure.json) |
@@ -2691,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroswarm | 276701 | [276701-astroswarm.json](./276701-astroswarm.json) |
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
+| Astroworld | 199594 | [199594-astroworld.json](./199594-astroworld.json) |
 | Astrox Imperium | 115500 | [115500-astrox-imperium.json](./115500-astrox-imperium.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
 | Asu Owaru Sekai, Sono Zenya | 255325 | [255325-asu-owaru-sekai-sono-zenya.json](./255325-asu-owaru-sekai-sono-zenya.json) |
