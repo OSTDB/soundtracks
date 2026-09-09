@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Scrap | 185111 | [185111-quick-scrap.json](./185111-quick-scrap.json) |
 | Quick Thief | 250351 | [250351-quick-thief.json](./250351-quick-thief.json) |
 | Quick Whiskers | 378183 | [378183-quick-whiskers.json](./378183-quick-whiskers.json) |
+| Quick-Change | 176953 | [176953-quick-change.json](./176953-quick-change.json) |
 | Quick, Draw! | 205795 | [205795-quick-draw.json](./205795-quick-draw.json) |
 | Quick! Save the world | 381623 | [381623-quick-save-the-world.json](./381623-quick-save-the-world.json) |
 | Quickboy | 348759 | [348759-quickboy.json](./348759-quickboy.json) |
