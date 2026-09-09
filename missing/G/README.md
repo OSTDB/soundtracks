@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
 | Galaxy on Fire 3: Manticore | 87183 | [87183-galaxy-on-fire-3-manticore.json](./87183-galaxy-on-fire-3-manticore.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
+| Galaxy Protectors | 188015 | [188015-galaxy-protectors.json](./188015-galaxy-protectors.json) |
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Strike | 135896 | [135896-galaxy-strike.json](./135896-galaxy-strike.json) |
@@ -1446,7 +1447,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
+| Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
+| Grim Tales: Echo of the Past | 188002 | [188002-grim-tales-echo-of-the-past.json](./188002-grim-tales-echo-of-the-past.json) |
 | Grim Tales: Graywitch | 250592 | [250592-grim-tales-graywitch.json](./250592-grim-tales-graywitch.json) |
 | Grim Tales: Guest from the Future - Collector's Edition | 122390 | [122390-grim-tales-guest-from-the-future-collectors-edition.json](./122390-grim-tales-guest-from-the-future-collectors-edition.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
@@ -1739,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
 | Gunship | 244760 | [244760-gunship.json](./244760-gunship.json) |
+| Gunship Assault | 188006 | [188006-gunship-assault.json](./188006-gunship-assault.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
