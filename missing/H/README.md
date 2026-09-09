@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare 136 | 340414 | [340414-hare-136.json](./340414-hare-136.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
 | Harekat 2: Online | 252132 | [252132-harekat-2-online.json](./252132-harekat-2-online.json) |
+| Harem Girl: Nikki | 196224 | [196224-harem-girl-nikki.json](./196224-harem-girl-nikki.json) |
 | Harem in Another World | 257952 | [257952-harem-in-another-world.json](./257952-harem-in-another-world.json) |
 | Harem Little Twins | 98453 | [98453-harem-little-twins.json](./98453-harem-little-twins.json) |
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
@@ -1469,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
 | Honekawa Marionette | 333370 | [333370-honekawa-marionette.json](./333370-honekawa-marionette.json) |
 | Honest Helper | 349324 | [349324-honest-helper.json](./349324-honest-helper.json) |
+| Honey | 196245 | [196245-honey.json](./196245-honey.json) |
 | Honey Bunny | 265699 | [265699-honey-bunny.json](./265699-honey-bunny.json) |
 | Honey Kingdom | 328248 | [328248-honey-kingdom.json](./328248-honey-kingdom.json) |
 | Honey Toast | 207508 | [207508-honey-toast.json](./207508-honey-toast.json) |
@@ -1905,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
+| HunterX | 196262 | [196262-hunterx.json](./196262-hunterx.json) |
 | HunterX: Code Name T | 277836 | [277836-hunterx-code-name-t.json](./277836-hunterx-code-name-t.json) |
 | Huntfeast | 147431 | [147431-huntfeast.json](./147431-huntfeast.json) |
 | Huntin' Adventure | 210054 | [210054-huntin-adventure.json](./210054-huntin-adventure.json) |
