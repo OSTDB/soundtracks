@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Bunny 2 | 394888 | [394888-acid-bunny-2.json](./394888-acid-bunny-2.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Factory | 316099 | [316099-acid-factory.json](./316099-acid-factory.json) |
+| Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
 | Acid R[ai/eig]n | 283739 | [283739-acid-r-ai-eig-n.json](./283739-acid-r-ai-eig-n.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | Acid Worship | 271740 | [271740-acid-worship.json](./271740-acid-worship.json) |
@@ -851,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
 | AGIS | 239647 | [239647-agis.json](./239647-agis.json) |
+| Aglet: The Sneaker Game | 205586 | [205586-aglet-the-sneaker-game.json](./205586-aglet-the-sneaker-game.json) |
 | Aglobo | 342036 | [342036-aglobo.json](./342036-aglobo.json) |
 | Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
