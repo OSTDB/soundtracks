@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
+| Walk in the Rain | 185092 | [185092-walk-in-the-rain.json](./185092-walk-in-the-rain.json) |
 | Walk With Me | 128002 | [128002-walk-with-me.json](./128002-walk-with-me.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf: Mars Gardens | 360019 | [360019-walkabout-mini-golf-mars-gardens.json](./360019-walkabout-mini-golf-mars-gardens.json) |
@@ -91,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
+| Wallrun Dot Love | 185068 | [185068-wallrun-dot-love.json](./185068-wallrun-dot-love.json) |
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
@@ -102,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wan Nyan Dobutsu Byouin: Suteki na Juui-San ni Narou! | 222539 | [222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json](./222539-wan-nyan-dobutsu-byouin-suteki-na-juui-san-ni-narou.json) |
 | Wanagiri | 319024 | [319024-wanagiri.json](./319024-wanagiri.json) |
 | Wanaka Farm | 172770 | [172770-wanaka-farm.json](./172770-wanaka-farm.json) |
+| Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wanderers.io | 178085 | [178085-wanderers-io.json](./178085-wanderers-io.json) |
