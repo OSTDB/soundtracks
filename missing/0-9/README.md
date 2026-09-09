@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
 | 6 Games | 319562 | [319562-6-games.json](./319562-6-games.json) |
 | 6-in-1 IQ Scale Bundle: Lost Starships | 166212 | [166212-6-in-1-iq-scale-bundle-lost-starships.json](./166212-6-in-1-iq-scale-bundle-lost-starships.json) |
+| 6-Sided Sojourn | 176976 | [176976-6-sided-sojourn.json](./176976-6-sided-sojourn.json) |
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Minutes to Extinction: Escape Room | 370113 | [370113-60-minutes-to-extinction-escape-room.json](./370113-60-minutes-to-extinction-escape-room.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
