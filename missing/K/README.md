@@ -610,6 +610,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss & Crisis | 194570 | [194570-kiss-and-crisis.json](./194570-kiss-and-crisis.json) |
 | Kiss Effect | 235477 | [235477-kiss-effect.json](./235477-kiss-effect.json) |
 | Kiss in Hell | 298298 | [298298-kiss-in-hell.json](./298298-kiss-in-hell.json) |
+| Kiss Kara Hajimaru Gyaru no Koi: Kurumi no Uwasa to Honto no Kimochi | 186229 | [186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json](./186229-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi.json) |
+| Kiss Kara Hajimaru Gyaru no Koi: Kurumi no Uwasa to Honto no Kimochi - Premium Edition | 186230 | [186230-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi-premium-edition.json](./186230-kiss-kara-hajimaru-gyaru-no-koi-kurumi-no-uwasa-to-honto-no-kimochi-premium-edition.json) |
 | Kiss My Camera | 227262 | [227262-kiss-my-camera.json](./227262-kiss-my-camera.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
@@ -654,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Rainbow | 136466 | [136466-kitty-rainbow.json](./136466-kitty-rainbow.json) |
 | Kitty Rhythm TD | 306996 | [306996-kitty-rhythm-td.json](./306996-kitty-rhythm-td.json) |
 | Kivi, Toilet and Shotgun | 16308 | [16308-kivi-toilet-and-shotgun.json](./16308-kivi-toilet-and-shotgun.json) |
+| Kiwi | 186256 | [186256-kiwi.json](./186256-kiwi.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
 | Kiwi Farm | 246101 | [246101-kiwi-farm.json](./246101-kiwi-farm.json) |
 | Kiwi Game | 306689 | [306689-kiwi-game.json](./306689-kiwi-game.json) |
@@ -737,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Desert: The North African Campaign of 1941-1943 | 73828 | [73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json](./73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json) |
 | Knights of the Flexbox Table | 213965 | [213965-knights-of-the-flexbox-table.json](./213965-knights-of-the-flexbox-table.json) |
 | Knights of the Round | 224023 | [224023-knights-of-the-round.json](./224023-knights-of-the-round.json) |
+| Knights of the Round Torus | 186245 | [186245-knights-of-the-round-torus.json](./186245-knights-of-the-round-torus.json) |
 | Knights of Valour | 76639 | [76639-knights-of-valour.json](./76639-knights-of-valour.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
