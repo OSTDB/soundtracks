@@ -1764,14 +1764,36 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 42: The Igo 2 | 82129 | [82129-simple-1500-series-vol-42-the-igo-2.json](./82129-simple-1500-series-vol-42-the-igo-2.json) |
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
+| Simple 2000 Hello Kitty Series Vol. 2: Minna de Sugoroku | 203350 | [203350-simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku.json](./203350-simple-2000-hello-kitty-series-vol-2-minna-de-sugoroku.json) |
+| Simple 2000 Honkaku Shikou Vol.001: The Shogi | 203343 | [203343-simple-2000-honkaku-shikou-vol-001-the-shogi.json](./203343-simple-2000-honkaku-shikou-vol-001-the-shogi.json) |
+| Simple 2000 Honkaku Shikou Vol.002: The Igo | 203344 | [203344-simple-2000-honkaku-shikou-vol-002-the-igo.json](./203344-simple-2000-honkaku-shikou-vol-002-the-igo.json) |
+| Simple 2000 Honkaku Shikou Vol.003: The Chess | 203345 | [203345-simple-2000-honkaku-shikou-vol-003-the-chess.json](./203345-simple-2000-honkaku-shikou-vol-003-the-chess.json) |
+| Simple 2000 Honkaku Shikou Vol.004: The Mahjong | 203346 | [203346-simple-2000-honkaku-shikou-vol-004-the-mahjong.json](./203346-simple-2000-honkaku-shikou-vol-004-the-mahjong.json) |
+| Simple 2000 Honkaku Shikou Vol.005: The Kiryoku Kentei | 203347 | [203347-simple-2000-honkaku-shikou-vol-005-the-kiryoku-kentei.json](./203347-simple-2000-honkaku-shikou-vol-005-the-kiryoku-kentei.json) |
+| Simple 2000 Series 2-in-1 Vol. 3: The Puzzle Collection 2,000-mon & The Touyou Sandai Uranjustsu | 203394 | [203394-simple-2000-series-2-in-1-vol-3-the-puzzle-collection-2-000-mon-and-the-touyou-sandai-uranjustsu.json](./203394-simple-2000-series-2-in-1-vol-3-the-puzzle-collection-2-000-mon-and-the-touyou-sandai-uranjustsu.json) |
 | Simple 2000 Series 2-in-1 Vol. 4: The Bushido & The Sniper 2 | 57131 | [57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json](./57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json) |
 | Simple 2000 Series Portable Vol. 1: The Mahjong | 82135 | [82135-simple-2000-series-portable-vol-1-the-mahjong.json](./82135-simple-2000-series-portable-vol-1-the-mahjong.json) |
+| Simple 2000 Series Ultimate Vol. 11: Wandaba Style - Totsugeki! Mix Live Juice | 203354 | [203354-simple-2000-series-ultimate-vol-11-wandaba-style-totsugeki-mix-live-juice.json](./203354-simple-2000-series-ultimate-vol-11-wandaba-style-totsugeki-mix-live-juice.json) |
+| Simple 2000 Series Ultimate Vol. 12: Street Golfer | 203355 | [203355-simple-2000-series-ultimate-vol-12-street-golfer.json](./203355-simple-2000-series-ultimate-vol-12-street-golfer.json) |
+| Simple 2000 Series Ultimate Vol. 14: Topai Dramatic Mahjong | 203356 | [203356-simple-2000-series-ultimate-vol-14-topai-dramatic-mahjong.json](./203356-simple-2000-series-ultimate-vol-14-topai-dramatic-mahjong.json) |
+| Simple 2000 Series Ultimate Vol. 17: Taisen! Bakudan Poi Poi | 203357 | [203357-simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi.json](./203357-simple-2000-series-ultimate-vol-17-taisen-bakudan-poi-poi.json) |
+| Simple 2000 Series Ultimate Vol. 20: Love*Mahjong 2 | 203358 | [203358-simple-2000-series-ultimate-vol-20-love-mahjong-2.json](./203358-simple-2000-series-ultimate-vol-20-love-mahjong-2.json) |
+| Simple 2000 Series Ultimate Vol. 22: Stylish Mahjong | 203359 | [203359-simple-2000-series-ultimate-vol-22-stylish-mahjong.json](./203359-simple-2000-series-ultimate-vol-22-stylish-mahjong.json) |
+| Simple 2000 Series Ultimate Vol. 24: Makai Tenshou | 203360 | [203360-simple-2000-series-ultimate-vol-24-makai-tenshou.json](./203360-simple-2000-series-ultimate-vol-24-makai-tenshou.json) |
+| Simple 2000 Series Ultimate Vol. 25: Chou Saisoku! Zoku-sha King | 203361 | [203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json](./203361-simple-2000-series-ultimate-vol-25-chou-saisoku-zoku-sha-king.json) |
+| Simple 2000 Series Ultimate Vol. 4: Urawaza Ikasa Mahjong Gai | 203351 | [203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json](./203351-simple-2000-series-ultimate-vol-4-urawaza-ikasa-mahjong-gai.json) |
+| Simple 2000 Series Ultimate Vol. 5: Love * Mahjong | 203352 | [203352-simple-2000-series-ultimate-vol-5-love-mahjong.json](./203352-simple-2000-series-ultimate-vol-5-love-mahjong.json) |
+| Simple 2000 Series Vol. 115: The Roomshare to Iu Seikatsu | 203336 | [203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json](./203336-simple-2000-series-vol-115-the-roomshare-to-iu-seikatsu.json) |
+| Simple 2000 Series Vol. 117: The Zerosen | 203338 | [203338-simple-2000-series-vol-117-the-zerosen.json](./203338-simple-2000-series-vol-117-the-zerosen.json) |
+| Simple 2000 Series Vol. 118: The Ochimusha - Doemu Samurai Toujou | 203339 | [203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json](./203339-simple-2000-series-vol-118-the-ochimusha-doemu-samurai-toujou.json) |
+| Simple 2000 Series Vol. 120: Saigo no Nippon Hei - Utsukushiki Kokudo Dakkan Sakusen | 203340 | [203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json](./203340-simple-2000-series-vol-120-saigo-no-nippon-hei-utsukushiki-kokudo-dakkan-sakusen.json) |
 | Simple 2000 Series Vol. 14: The Billiard | 335904 | [335904-simple-2000-series-vol-14-the-billiard.json](./335904-simple-2000-series-vol-14-the-billiard.json) |
 | Simple 2000 Series Vol. 19: The Renai Simulation - Watashi ni Oma Cafe | 70431 | [70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json](./70431-simple-2000-series-vol-19-the-renai-simulation-watashi-ni-oma-cafe.json) |
 | Simple 2000 Series Vol. 20: The Dungeon RPG | 335906 | [335906-simple-2000-series-vol-20-the-dungeon-rpg.json](./335906-simple-2000-series-vol-20-the-dungeon-rpg.json) |
 | Simple 2000 Series Vol. 24: The Bowling Hyper | 335909 | [335909-simple-2000-series-vol-24-the-bowling-hyper.json](./335909-simple-2000-series-vol-24-the-bowling-hyper.json) |
 | Simple 2000 Series Vol. 32: The Sensha | 335914 | [335914-simple-2000-series-vol-32-the-sensha.json](./335914-simple-2000-series-vol-32-the-sensha.json) |
 | Simple 2000 Series Vol. 88: The Mini Suke Porisu | 43325 | [43325-simple-2000-series-vol-88-the-mini-suke-porisu.json](./43325-simple-2000-series-vol-88-the-mini-suke-porisu.json) |
+| Simple 2000 Series Vol.116: The Neko-mura no Hitobito - Pagu Daikan no Akugyou San-mai | 203337 | [203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json](./203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json) |
 | Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu | 79351 | [79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json](./79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json) |
 | Simple Characters 2000 Series Vol. 11: Detective Conan - The Board Game | 78706 | [78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json](./78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json) |
 | Simple DS Series Vol. 1: The Mahjong | 82134 | [82134-simple-ds-series-vol-1-the-mahjong.json](./82134-simple-ds-series-vol-1-the-mahjong.json) |
@@ -5100,6 +5122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
 | Super Mario Bros. 3Mix | 144986 | [144986-super-mario-bros-3mix.json](./144986-super-mario-bros-3mix.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
+| Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
 | Super Mario Construct | 250039 | [250039-super-mario-construct.json](./250039-super-mario-construct.json) |
@@ -5487,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
+| Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
 | Surviving with a Bat | 277824 | [277824-surviving-with-a-bat.json](./277824-surviving-with-a-bat.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
