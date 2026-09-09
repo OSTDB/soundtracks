@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barton Lynch Pro Surfing 2022 | 196295 | [196295-barton-lynch-pro-surfing-2022.json](./196295-barton-lynch-pro-surfing-2022.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
+| Bascatball Coach | 174299 | [174299-bascatball-coach.json](./174299-bascatball-coach.json) |
 | Base Blitz | 327854 | [327854-base-blitz.json](./327854-base-blitz.json) |
 | Base Commander | 211425 | [211425-base-commander.json](./211425-base-commander.json) |
 | Base Craft: Desolate Survival | 196239 | [196239-base-craft-desolate-survival.json](./196239-base-craft-desolate-survival.json) |
