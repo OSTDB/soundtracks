@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
 | Ricochet Xtreme | 70421 | [70421-ricochet-xtreme.json](./70421-ricochet-xtreme.json) |
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
+| Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
 | Riddle Tower: Halloween DLC | 318433 | [318433-riddle-tower-halloween-dlc.json](./318433-riddle-tower-halloween-dlc.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
@@ -1985,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
 | RuffHousin | 178592 | [178592-ruffhousin.json](./178592-ruffhousin.json) |
+| Rugby 18: The British and Irish Lions 2017 Team | 169953 | [169953-rugby-18-the-british-and-irish-lions-2017-team.json](./169953-rugby-18-the-british-and-irish-lions-2017-team.json) |
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
@@ -2078,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
 | Runes of Dragon | 193957 | [193957-runes-of-dragon.json](./193957-runes-of-dragon.json) |
 | Runes of Legend | 326617 | [326617-runes-of-legend.json](./326617-runes-of-legend.json) |
+| Runes of Magic: Dragon Adventure Pack | 169974 | [169974-runes-of-magic-dragon-adventure-pack.json](./169974-runes-of-magic-dragon-adventure-pack.json) |
 | Runes of the Abyss | 348246 | [348246-runes-of-the-abyss.json](./348246-runes-of-the-abyss.json) |
 | RuneScape: Dragonwilds | 337712 | [337712-runescape-dragonwilds.json](./337712-runescape-dragonwilds.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
