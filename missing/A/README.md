@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Rain | 12251 | [12251-alien-rain.json](./12251-alien-rain.json) |
 | Alien Rampage | 46630 | [46630-alien-rampage.json](./46630-alien-rampage.json) |
 | Alien Shepherd | 190200 | [190200-alien-shepherd.json](./190200-alien-shepherd.json) |
+| Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
 | Alien Space Bastards | 188688 | [188688-alien-space-bastards.json](./188688-alien-space-bastards.json) |
 | Alien Swirl | 15594 | [15594-alien-swirl.json](./15594-alien-swirl.json) |
@@ -1676,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle World | 237364 | [237364-animal-puzzle-world.json](./237364-animal-puzzle-world.json) |
 | Animal Rivals | 28915 | [28915-animal-rivals.json](./28915-animal-rivals.json) |
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
+| Animal Sanctuary | 203882 | [203882-animal-sanctuary.json](./203882-animal-sanctuary.json) |
 | Animal School 1st Grade Games | 241356 | [241356-animal-school-1st-grade-games.json](./241356-animal-school-1st-grade-games.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
 | Animal Smash | 365068 | [365068-animal-smash.json](./365068-animal-smash.json) |
@@ -2026,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
 | Aragami | 18853 | [18853-aragami.json](./18853-aragami.json) |
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
+| Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
