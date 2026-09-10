@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
+| Marooned | 151651 | [151651-marooned.json](./151651-marooned.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
 | Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
 | Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
+| Menherafflesia Flowering Abyss | 151691 | [151691-menherafflesia-flowering-abyss.json](./151691-menherafflesia-flowering-abyss.json) |
 | Menherarium | 331675 | [331675-menherarium.json](./331675-menherarium.json) |
 | Menphis | 293929 | [293929-menphis.json](./293929-menphis.json) |
 | Mensch Ärger' Dich Nicht! | 98971 | [98971-mensch-arger-dich-nicht.json](./98971-mensch-arger-dich-nicht.json) |
@@ -2119,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
+| Minesweeper Run | 151757 | [151757-minesweeper-run.json](./151757-minesweeper-run.json) |
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
@@ -3364,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery J: Special Stamp - Thomas | 325469 | [325469-murder-mystery-j-special-stamp-thomas.json](./325469-murder-mystery-j-special-stamp-thomas.json) |
 | Murder Mystery J: Special Stamp - Vanilla | 325480 | [325480-murder-mystery-j-special-stamp-vanilla.json](./325480-murder-mystery-j-special-stamp-vanilla.json) |
 | Murder Mystery Paradox: Fifteen Years of Summer | 247526 | [247526-murder-mystery-paradox-fifteen-years-of-summer.json](./247526-murder-mystery-paradox-fifteen-years-of-summer.json) |
+| Murder on the Marine Express | 151690 | [151690-murder-on-the-marine-express.json](./151690-murder-on-the-marine-express.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
