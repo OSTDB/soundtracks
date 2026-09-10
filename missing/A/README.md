@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alias Underground Episode 8: Breakout | 367416 | [367416-alias-underground-episode-8-breakout.json](./367416-alias-underground-episode-8-breakout.json) |
 | Alias Underground Episode 9: Countdown | 367418 | [367418-alias-underground-episode-9-countdown.json](./367418-alias-underground-episode-9-countdown.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
+| Alice Closet | 159283 | [159283-alice-closet.json](./159283-alice-closet.json) |
 | Alice in Dinerland | 257962 | [257962-alice-in-dinerland.json](./257962-alice-in-dinerland.json) |
 | Alice in the Nightmare Land | 267097 | [267097-alice-in-the-nightmare-land.json](./267097-alice-in-the-nightmare-land.json) |
 | Alice in Windowland | 218120 | [218120-alice-in-windowland.json](./218120-alice-in-windowland.json) |
