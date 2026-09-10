@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T07:04:28.774Z",
-  "total_missing": 53397,
+  "generated_at": "2026-09-10T07:11:15.702Z",
+  "total_missing": 53396,
   "games": [
     {
       "igdb_id": 306086,
@@ -1366,11 +1366,6 @@
       "igdb_id": 321768,
       "game_name": "5 Card Slingo",
       "file": "missing/0-9/321768-5-card-slingo.json"
-    },
-    {
-      "igdb_id": 273928,
-      "game_name": "5 in 1: Scrap Bolts + Toroom + Last Mage Survivor + Home Sweet Home + Bruxa",
-      "file": "missing/0-9/273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json"
     },
     {
       "igdb_id": 93568,
