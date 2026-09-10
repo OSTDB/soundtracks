@@ -943,6 +943,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Silver Collection | 205579 | [205579-outbreak-silver-collection.json](./205579-outbreak-silver-collection.json) |
 | Outbreak: The Fedora Files Desperate Struggle Collection | 338025 | [338025-outbreak-the-fedora-files-desperate-struggle-collection.json](./338025-outbreak-the-fedora-files-desperate-struggle-collection.json) |
 | Outbreak: The New Nightmare - Definitive Collection | 234305 | [234305-outbreak-the-new-nightmare-definitive-collection.json](./234305-outbreak-the-new-nightmare-definitive-collection.json) |
+| Outbreak: The Nightmare Chronicles - Chapter 2 | 168843 | [168843-outbreak-the-nightmare-chronicles-chapter-2.json](./168843-outbreak-the-nightmare-chronicles-chapter-2.json) |
+| Outbreak: The Nightmare Chronicles - Chapter 4 | 168853 | [168853-outbreak-the-nightmare-chronicles-chapter-4.json](./168853-outbreak-the-nightmare-chronicles-chapter-4.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
 | Outcast II: The Lost Paradise | 66687 | [66687-outcast-ii-the-lost-paradise.json](./66687-outcast-ii-the-lost-paradise.json) |
 | Outcast: A New Beginning | 171215 | [171215-outcast-a-new-beginning.json](./171215-outcast-a-new-beginning.json) |
