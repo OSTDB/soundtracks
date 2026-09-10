@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invincible: Deluxe Edition | 275594 | [275594-the-invincible-deluxe-edition.json](./275594-the-invincible-deluxe-edition.json) |
 | The Invisible Guardian | 185670 | [185670-the-invisible-guardian.json](./185670-the-invisible-guardian.json) |
 | The Invisible Hand | 25224 | [25224-the-invisible-hand.json](./25224-the-invisible-hand.json) |
+| The Invisible Hand: Deep Pockets Edition | 155051 | [155051-the-invisible-hand-deep-pockets-edition.json](./155051-the-invisible-hand-deep-pockets-edition.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
 | The Island | 274188 | [274188-the-island.json](./274188-the-island.json) |
 | The Island - Ethereal | 58833 | [58833-the-island-ethereal.json](./58833-the-island-ethereal.json) |
@@ -2805,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shape You Make When You Want Your Bones to Be Closest to the Surface | 123625 | [123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json](./123625-the-shape-you-make-when-you-want-your-bones-to-be-closest-to-the-surface.json) |
 | The Shark T | 217911 | [217911-the-shark-t.json](./217911-the-shark-t.json) |
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
+| The Shattering: Secret Room | 155062 | [155062-the-shattering-secret-room.json](./155062-the-shattering-secret-room.json) |
 | The Shedding | 114372 | [114372-the-shedding.json](./114372-the-shedding.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
 | The Shiny Ones | 183547 | [183547-the-shiny-ones.json](./183547-the-shiny-ones.json) |
@@ -3601,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through Space | 414297 | [414297-through-space.json](./414297-through-space.json) |
 | Through the Abyss | 217314 | [217314-through-the-abyss.json](./217314-through-the-abyss.json) |
 | Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
+| Through the Ages: New Leaders & Wonders | 155052 | [155052-through-the-ages-new-leaders-and-wonders.json](./155052-through-the-ages-new-leaders-and-wonders.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
@@ -4829,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towns and Towers | 341866 | [341866-towns-and-towers.json](./341866-towns-and-towers.json) |
 | Townscaper VR | 223141 | [223141-townscaper-vr.json](./223141-townscaper-vr.json) |
 | Townsmen | 32428 | [32428-townsmen.json](./32428-townsmen.json) |
+| Townsmen: A Kingdom Rebuilt - The Seaside Empire | 155067 | [155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json](./155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
 | Toxtli & The Moon Jar | 349834 | [349834-toxtli-and-the-moon-jar.json](./349834-toxtli-and-the-moon-jar.json) |
@@ -5475,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 5: Espionage | 53842 | [53842-tropico-5-espionage.json](./53842-tropico-5-espionage.json) |
 | Tropico 5: The Big Cheese | 53841 | [53841-tropico-5-the-big-cheese.json](./53841-tropico-5-the-big-cheese.json) |
 | Tropico 5: Waterborne | 53840 | [53840-tropico-5-waterborne.json](./53840-tropico-5-waterborne.json) |
+| Tropico 6: Caribbean Skies | 155068 | [155068-tropico-6-caribbean-skies.json](./155068-tropico-6-caribbean-skies.json) |
 | Tropico 6: Tropican Shores | 305525 | [305525-tropico-6-tropican-shores.json](./305525-tropico-6-tropican-shores.json) |
 | Tropico Reloaded | 53861 | [53861-tropico-reloaded.json](./53861-tropico-reloaded.json) |
 | Tropico Trilogy | 53860 | [53860-tropico-trilogy.json](./53860-tropico-trilogy.json) |
