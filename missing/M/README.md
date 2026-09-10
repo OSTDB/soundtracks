@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
 | MaternalBound Redux | 219084 | [219084-maternalbound-redux.json](./219084-maternalbound-redux.json) |
+| Math | 139972 | [139972-math.json](./139972-math.json) |
 | Math Be Nimble: Brain Training | 265425 | [265425-math-be-nimble-brain-training.json](./265425-math-be-nimble-brain-training.json) |
 | Math Blaster Ages 4-6 | 58816 | [58816-math-blaster-ages-4-6.json](./58816-math-blaster-ages-4-6.json) |
 | Math Blaster Ages 6-8 | 250608 | [250608-math-blaster-ages-6-8.json](./250608-math-blaster-ages-6-8.json) |
@@ -1859,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator X: Steam Edition - Zurich Airport | 161850 | [161850-microsoft-flight-simulator-x-steam-edition-zurich-airport.json](./161850-microsoft-flight-simulator-x-steam-edition-zurich-airport.json) |
 | Microsoft Flight Simulator: 40th Anniversary Edition | 293926 | [293926-microsoft-flight-simulator-40th-anniversary-edition.json](./293926-microsoft-flight-simulator-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Deluxe 40th Anniversary Edition | 293928 | [293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json](./293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json) |
+| Microsoft Flight Simulator: Deluxe Edition | 139959 | [139959-microsoft-flight-simulator-deluxe-edition.json](./139959-microsoft-flight-simulator-deluxe-edition.json) |
 | Microsoft Flight Simulator: Premium Deluxe 40th Anniversary Edition | 293927 | [293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json](./293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Top Gun - Maverick | 152312 | [152312-microsoft-flight-simulator-top-gun-maverick.json](./152312-microsoft-flight-simulator-top-gun-maverick.json) |
 | Microsoft Return of Arcade | 22620 | [22620-microsoft-return-of-arcade.json](./22620-microsoft-return-of-arcade.json) |
@@ -2746,6 +2748,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Rise + Sunbreak | 207388 | [207388-monster-hunter-rise-sunbreak.json](./207388-monster-hunter-rise-sunbreak.json) |
 | Monster Hunter Rise + Sunbreak: Deluxe Edition | 208042 | [208042-monster-hunter-rise-sunbreak-deluxe-edition.json](./208042-monster-hunter-rise-sunbreak-deluxe-edition.json) |
 | Monster Hunter Rise: Bonus Update | 252384 | [252384-monster-hunter-rise-bonus-update.json](./252384-monster-hunter-rise-bonus-update.json) |
+| Monster Hunter Rise: Collector's Edition | 139971 | [139971-monster-hunter-rise-collectors-edition.json](./139971-monster-hunter-rise-collectors-edition.json) |
+| Monster Hunter Rise: Deluxe Edition | 139943 | [139943-monster-hunter-rise-deluxe-edition.json](./139943-monster-hunter-rise-deluxe-edition.json) |
 | Monster Hunter Rise: Title Update 1 | 252379 | [252379-monster-hunter-rise-title-update-1.json](./252379-monster-hunter-rise-title-update-1.json) |
 | Monster Hunter Rise: Title Update 2 | 252380 | [252380-monster-hunter-rise-title-update-2.json](./252380-monster-hunter-rise-title-update-2.json) |
 | Monster Hunter Rise: Title Update 3 | 252381 | [252381-monster-hunter-rise-title-update-3.json](./252381-monster-hunter-rise-title-update-3.json) |
