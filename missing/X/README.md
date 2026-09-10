@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xolotl | 195762 | [195762-xolotl.json](./195762-xolotl.json) |
 | Xombee | 150634 | [150634-xombee.json](./150634-xombee.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
+| Xoo: Xeno Xafari | 149000 | [149000-xoo-xeno-xafari.json](./149000-xoo-xeno-xafari.json) |
 | Xordle | 197903 | [197903-xordle.json](./197903-xordle.json) |
 | XP Racing | 289880 | [289880-xp-racing.json](./289880-xp-racing.json) |
 | XP8 | 15569 | [15569-xp8.json](./15569-xp8.json) |
