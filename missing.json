@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T14:48:57.198Z",
-  "total_missing": 54115,
+  "generated_at": "2026-09-10T14:51:06.028Z",
+  "total_missing": 54114,
   "games": [
     {
       "igdb_id": 306086,
@@ -1501,11 +1501,6 @@
       "igdb_id": 175396,
       "game_name": "7 Planets",
       "file": "missing/0-9/175396-7-planets.json"
-    },
-    {
-      "igdb_id": 152274,
-      "game_name": "7 Second Haircuts",
-      "file": "missing/0-9/152274-7-second-haircuts.json"
     },
     {
       "igdb_id": 84284,
