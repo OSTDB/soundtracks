@@ -254,6 +254,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Disciples II | 168324 | [168324-dark-disciples-ii.json](./168324-dark-disciples-ii.json) |
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
+| Dark Eyes | 145629 | [145629-dark-eyes.json](./145629-dark-eyes.json) |
+| Dark Eyes: Millennium 2000 | 145632 | [145632-dark-eyes-millennium-2000.json](./145632-dark-eyes-millennium-2000.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
@@ -349,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkMaus | 18335 | [18335-darkmaus.json](./18335-darkmaus.json) |
 | Darkmoor Hold | 356660 | [356660-darkmoor-hold.json](./356660-darkmoor-hold.json) |
 | Darkmoor Manor | 102791 | [102791-darkmoor-manor.json](./102791-darkmoor-manor.json) |
+| Darkness | 145589 | [145589-darkness.json](./145589-darkness.json) |
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
@@ -924,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious Letters | 176982 | [176982-delicious-letters.json](./176982-delicious-letters.json) |
 | Delicious World | 227476 | [227476-delicious-world.json](./227476-delicious-world.json) |
 | Delicious: Emily's Big Surprise | 322569 | [322569-delicious-emilys-big-surprise.json](./322569-delicious-emilys-big-surprise.json) |
+| Delicious: Emily's Honeymoon Cruise | 145628 | [145628-delicious-emilys-honeymoon-cruise.json](./145628-delicious-emilys-honeymoon-cruise.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
 | DeLight: The Journey Home - Chapter 4 | 314898 | [314898-delight-the-journey-home-chapter-4.json](./314898-delight-the-journey-home-chapter-4.json) |
 | Delilah | 217340 | [217340-delilah.json](./217340-delilah.json) |
@@ -1417,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
+| Diet GoGo | 145604 | [145604-diet-gogo.json](./145604-diet-gogo.json) |
 | Diets and Deities | 244268 | [244268-diets-and-deities.json](./244268-diets-and-deities.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
@@ -2532,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Protocol | 277315 | [277315-dread-protocol.json](./277315-dread-protocol.json) |
 | Dread the Rabbit | 183595 | [183595-dread-the-rabbit.json](./183595-dread-the-rabbit.json) |
 | Dread X Collection 3 | 140041 | [140041-dread-x-collection-3.json](./140041-dread-x-collection-3.json) |
+| Dread X Collection: The Hunt | 145624 | [145624-dread-x-collection-the-hunt.json](./145624-dread-x-collection-the-hunt.json) |
 | Dreader | 176487 | [176487-dreader.json](./176487-dreader.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
 | Dreadnaughts | 55178 | [55178-dreadnaughts.json](./55178-dreadnaughts.json) |
