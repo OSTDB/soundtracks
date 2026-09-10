@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Enchantress: Legendary Heroes - Quest Pack DLC | 168379 | [168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json](./168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - The Dead World DLC | 168380 | [168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json](./168380-fallen-enchantress-legendary-heroes-the-dead-world-dlc.json) |
 | Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
+| Fallen Haven: Liberation Day | 154493 | [154493-fallen-haven-liberation-day.json](./154493-fallen-haven-liberation-day.json) |
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
 | Fallen London: A Crown of Thorns | 191792 | [191792-fallen-london-a-crown-of-thorns.json](./191792-fallen-london-a-crown-of-thorns.json) |
@@ -305,7 +306,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Forest | 372473 | [372473-fantasy-forest.json](./372473-fantasy-forest.json) |
 | Fantasy Forest Solitaire | 386128 | [386128-fantasy-forest-solitaire.json](./386128-fantasy-forest-solitaire.json) |
 | Fantasy Games | 319578 | [319578-fantasy-games.json](./319578-fantasy-games.json) |
+| Fantasy General II: Empire Aflame | 154501 | [154501-fantasy-general-ii-empire-aflame.json](./154501-fantasy-general-ii-empire-aflame.json) |
+| Fantasy General II: Evolution | 154502 | [154502-fantasy-general-ii-evolution.json](./154502-fantasy-general-ii-evolution.json) |
 | Fantasy General II: Invasion Hero Edition | 124833 | [124833-fantasy-general-ii-invasion-hero-edition.json](./124833-fantasy-general-ii-invasion-hero-edition.json) |
+| Fantasy General II: Onslaught | 154500 | [154500-fantasy-general-ii-onslaught.json](./154500-fantasy-general-ii-onslaught.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
 | Fantasy Hentai Quest | 210856 | [210856-fantasy-hentai-quest.json](./210856-fantasy-hentai-quest.json) |
 | Fantasy Heroes | 119005 | [119005-fantasy-heroes.json](./119005-fantasy-heroes.json) |
@@ -764,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figureheads | 24931 | [24931-figureheads.json](./24931-figureheads.json) |
 | Figures of Shadows | 374068 | [374068-figures-of-shadows.json](./374068-figures-of-shadows.json) |
 | Figurine Shop Simulator | 346592 | [346592-figurine-shop-simulator.json](./346592-figurine-shop-simulator.json) |
+| Filament: Marmalade Edition | 154517 | [154517-filament-marmalade-edition.json](./154517-filament-marmalade-edition.json) |
 | File 47 | 337124 | [337124-file-47.json](./337124-file-47.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | Fill & Cross: Pirate Riddles 2 | 101556 | [101556-fill-and-cross-pirate-riddles-2.json](./101556-fill-and-cross-pirate-riddles-2.json) |
