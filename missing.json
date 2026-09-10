@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:51:05.350Z",
+  "generated_at": "2026-09-10T17:01:16.635Z",
   "total_missing": 54516,
   "games": [
     {
@@ -1566,11 +1566,6 @@
       "igdb_id": 39185,
       "game_name": "8 Ball Pool",
       "file": "missing/0-9/39185-8-ball-pool.json"
-    },
-    {
-      "igdb_id": 185707,
-      "game_name": "8 Bit Armies: Limited Edition",
-      "file": "missing/0-9/185707-8-bit-armies-limited-edition.json"
     },
     {
       "igdb_id": 233495,
@@ -52606,6 +52601,11 @@
       "igdb_id": 213974,
       "game_name": "Dark Egg",
       "file": "missing/D/213974-dark-egg.json"
+    },
+    {
+      "igdb_id": 145632,
+      "game_name": "Dark Eyes: Millennium 2000",
+      "file": "missing/D/145632-dark-eyes-millennium-2000.json"
     },
     {
       "igdb_id": 122432,
