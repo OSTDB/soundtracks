@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vamps For the Memories | 192422 | [192422-vamps-for-the-memories.json](./192422-vamps-for-the-memories.json) |
 | Vamps-Imulator | 251817 | [251817-vamps-imulator.json](./251817-vamps-imulator.json) |
 | Vampvasion | 410896 | [410896-vampvasion.json](./410896-vampvasion.json) |
+| Vampyr: Special Edition | 139984 | [139984-vampyr-special-edition.json](./139984-vampyr-special-edition.json) |
 | Vampyre Crusade | 317002 | [317002-vampyre-crusade.json](./317002-vampyre-crusade.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
 | Van Van Up! | 188067 | [188067-van-van-up.json](./188067-van-van-up.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
 | Vicious Growth | 203924 | [203924-vicious-growth.json](./203924-vicious-growth.json) |
 | Vicious Red | 249793 | [249793-vicious-red.json](./249793-vicious-red.json) |
+| Vicky | 138753 | [138753-vicky.json](./138753-vicky.json) |
 | Vicky Saves the Big Dumb World | 34415 | [34415-vicky-saves-the-big-dumb-world.json](./34415-vicky-saves-the-big-dumb-world.json) |
 | Victordle | 388749 | [388749-victordle.json](./388749-victordle.json) |
 | Victoria 3: Trains Bonus Pack | 289852 | [289852-victoria-3-trains-bonus-pack.json](./289852-victoria-3-trains-bonus-pack.json) |
