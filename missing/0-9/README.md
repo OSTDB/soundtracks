@@ -257,7 +257,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DO Maniac Pack | 37195 | [37195-3do-maniac-pack.json](./37195-3do-maniac-pack.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
 | 3on3 FreeStyle: Ultimate Edition | 249818 | [249818-3on3-freestyle-ultimate-edition.json](./249818-3on3-freestyle-ultimate-edition.json) |
-| 3Souls: Parallel Edition | 295779 | [295779-3souls-parallel-edition.json](./295779-3souls-parallel-edition.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3 Eyes: Tenrin-ou Genmu | 73304 | [73304-3x3-eyes-tenrin-ou-genmu.json](./73304-3x3-eyes-tenrin-ou-genmu.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
@@ -436,4 +435,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
 | Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
 | ​Our Life: Beginnings & Always - Cove Wedding Story | 187442 | [187442-our-life-beginnings-and-always-cove-wedding-story.json](./187442-our-life-beginnings-and-always-cove-wedding-story.json) |
+| ​Our Life: Beginnings & Always - Step 1 Expansion | 164528 | [164528-our-life-beginnings-and-always-step-1-expansion.json](./164528-our-life-beginnings-and-always-step-1-expansion.json) |
+| ​Our Life: Beginnings & Always - Step 2 Expansion | 164529 | [164529-our-life-beginnings-and-always-step-2-expansion.json](./164529-our-life-beginnings-and-always-step-2-expansion.json) |
 | 一>◇ | 100203 | [100203-.json](./100203-.json) |
