@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IWL: Interstellar Wrestling League - 034: Mod - Roid Rager | 363408 | [363408-iwl-interstellar-wrestling-league-034-mod-roid-rager.json](./363408-iwl-interstellar-wrestling-league-034-mod-roid-rager.json) |
 | IWL: Interstellar Wrestling League - 035: Mod - Rain of Pain | 363410 | [363410-iwl-interstellar-wrestling-league-035-mod-rain-of-pain.json](./363410-iwl-interstellar-wrestling-league-035-mod-rain-of-pain.json) |
 | IWL: Interstellar Wrestling League - 036: Mod - Jacob's Ladder | 363412 | [363412-iwl-interstellar-wrestling-league-036-mod-jacobs-ladder.json](./363412-iwl-interstellar-wrestling-league-036-mod-jacobs-ladder.json) |
+| Ixion Saga | 152292 | [152292-ixion-saga.json](./152292-ixion-saga.json) |
 | Iz | 292515 | [292515-iz.json](./292515-iz.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
