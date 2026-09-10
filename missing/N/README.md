@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurocracy | 172662 | [172662-neurocracy.json](./172662-neurocracy.json) |
 | Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
+| NeuroNet: Mendax Proxy | 147903 | [147903-neuronet-mendax-proxy.json](./147903-neuronet-mendax-proxy.json) |
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
