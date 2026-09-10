@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T03:33:27.775Z",
-  "total_missing": 52801,
+  "generated_at": "2026-09-10T03:41:12.618Z",
+  "total_missing": 52800,
   "games": [
     {
       "igdb_id": 306086,
@@ -1261,11 +1261,6 @@
       "igdb_id": 202923,
       "game_name": "3D Turbo OutRun",
       "file": "missing/0-9/202923-3d-turbo-outrun.json"
-    },
-    {
-      "igdb_id": 37195,
-      "game_name": "3DO Maniac Pack",
-      "file": "missing/0-9/37195-3do-maniac-pack.json"
     },
     {
       "igdb_id": 187449,
