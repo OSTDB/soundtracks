@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Optional Boss | 135887 | [135887-optional-boss.json](./135887-optional-boss.json) |
 | OptoLexem | 103528 | [103528-optolexem.json](./103528-optolexem.json) |
 | Opus | 181873 | [181873-opus.json](./181873-opus.json) |
+| Opus Ludum | 169379 | [169379-opus-ludum.json](./169379-opus-ludum.json) |
 | Opus Magnum | 74545 | [74545-opus-magnum.json](./74545-opus-magnum.json) |
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
 | Opus: Rocket of Whispers | 77569 | [77569-opus-rocket-of-whispers.json](./77569-opus-rocket-of-whispers.json) |
