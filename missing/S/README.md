@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
+| Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
 | Saturnalia | 131564 | [131564-saturnalia.json](./131564-saturnalia.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
@@ -1560,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Symbol | 250965 | [250965-shining-symbol.json](./250965-shining-symbol.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
+| Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
 | Shinobi, Koi Utsutsu | 61665 | [61665-shinobi-koi-utsutsu.json](./61665-shinobi-koi-utsutsu.json) |
@@ -2624,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake Break | 275610 | [275610-snake-break.json](./275610-snake-break.json) |
 | Snake Bricks-Bounce Balls | 106569 | [106569-snake-bricks-bounce-balls.json](./106569-snake-bricks-bounce-balls.json) |
+| Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Game Ultra Core | 368476 | [368476-snake-game-ultra-core.json](./368476-snake-game-ultra-core.json) |
@@ -3927,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
+| Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
@@ -5196,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
 | Subconsciousism | 396225 | [396225-subconsciousism.json](./396225-subconsciousism.json) |
+| Subdivided | 132770 | [132770-subdivided.json](./132770-subdivided.json) |
 | Subject 264 | 30959 | [30959-subject-264.json](./30959-subject-264.json) |
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
@@ -6317,6 +6322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWAT Commander | 319967 | [319967-swat-commander.json](./319967-swat-commander.json) |
 | Swat! | 60557 | [60557-swat.json](./60557-swat.json) |
 | Swatch | 179177 | [179177-swatch.json](./179177-swatch.json) |
+| Swatch Out! | 132785 | [132785-swatch-out.json](./132785-swatch-out.json) |
 | Sway | 352196 | [352196-sway.json](./352196-sway.json) |
 | SwayBods | 233233 | [233233-swaybods.json](./233233-swaybods.json) |
 | Swaying Girl | 159875 | [159875-swaying-girl.json](./159875-swaying-girl.json) |
@@ -6469,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Destiny | 23007 | [23007-swords-of-destiny.json](./23007-swords-of-destiny.json) |
 | Swords of Legends 3 | 107205 | [107205-swords-of-legends-3.json](./107205-swords-of-legends-3.json) |
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
+| Swordshot | 132755 | [132755-swordshot.json](./132755-swordshot.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
