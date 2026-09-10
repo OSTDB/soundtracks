@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
 | Hack FPS | 151715 | [151715-hack-fps.json](./151715-hack-fps.json) |
+| Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
 | Hack the Planet | 220339 | [220339-hack-the-planet.json](./220339-hack-the-planet.json) |
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
@@ -642,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Wave | 336543 | [336543-heat-wave.json](./336543-heat-wave.json) |
 | Heatchain | 278404 | [278404-heatchain.json](./278404-heatchain.json) |
 | Heated | 211220 | [211220-heated.json](./211220-heated.json) |
+| Heated Battles Shooter | 143005 | [143005-heated-battles-shooter.json](./143005-heated-battles-shooter.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
@@ -747,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell of Sins: Soul | 209144 | [209144-hell-of-sins-soul.json](./209144-hell-of-sins-soul.json) |
 | Hell Of War: Combined Arms | 411596 | [411596-hell-of-war-combined-arms.json](./411596-hell-of-war-combined-arms.json) |
 | Hell Revealations | 275570 | [275570-hell-revealations.json](./275570-hell-revealations.json) |
+| Hell Road VR | 143019 | [143019-hell-road-vr.json](./143019-hell-road-vr.json) |
 | Hell Slayer | 232446 | [232446-hell-slayer.json](./232446-hell-slayer.json) |
 | Hell Spheres | 285455 | [285455-hell-spheres.json](./285455-hell-spheres.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
