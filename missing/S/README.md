@@ -2499,6 +2499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Colorful Stars | 313109 | [313109-sm64-colorful-stars.json](./313109-sm64-colorful-stars.json) |
 | SM64 Power Star Madness | 358286 | [358286-sm64-power-star-madness.json](./358286-sm64-power-star-madness.json) |
 | SM64 Sapphire | 133993 | [133993-sm64-sapphire.json](./133993-sm64-sapphire.json) |
+| SM64 Shining Stars Repainted | 135169 | [135169-sm64-shining-stars-repainted.json](./135169-sm64-shining-stars-repainted.json) |
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
 | SM64: Rocky Mountain Revisited | 256295 | [256295-sm64-rocky-mountain-revisited.json](./256295-sm64-rocky-mountain-revisited.json) |
 | Smack Monkey | 332989 | [332989-smack-monkey.json](./332989-smack-monkey.json) |
@@ -3034,6 +3035,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
 | Sonak | 356648 | [356648-sonak.json](./356648-sonak.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
+| Song of Horror - Episode 3 | 135151 | [135151-song-of-horror-episode-3.json](./135151-song-of-horror-episode-3.json) |
+| Song of Horror - Episode 4 | 135153 | [135153-song-of-horror-episode-4.json](./135153-song-of-horror-episode-4.json) |
+| Song of Horror - Episode 5 | 135158 | [135158-song-of-horror-episode-5.json](./135158-song-of-horror-episode-5.json) |
+| Song of Horror Episodes 2-5 | 135160 | [135160-song-of-horror-episodes-2-5.json](./135160-song-of-horror-episodes-2-5.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
 | Song of Slavs | 273405 | [273405-song-of-slavs.json](./273405-song-of-slavs.json) |
 | Song of the Firefly | 14315 | [14315-song-of-the-firefly.json](./14315-song-of-the-firefly.json) |
@@ -5408,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
 | Sunny Shine on the Funny Side of Life | 123605 | [123605-sunny-shine-on-the-funny-side-of-life.json](./123605-sunny-shine-on-the-funny-side-of-life.json) |
 | Sunrider 4: The Captain's Return | 234352 | [234352-sunrider-4-the-captains-return.json](./234352-sunrider-4-the-captains-return.json) |
+| Sunrise 7 | 135159 | [135159-sunrise-7.json](./135159-sunrise-7.json) |
 | SunSenSim | 156124 | [156124-sunsensim.json](./156124-sunsensim.json) |
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
@@ -5702,20 +5708,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
 | Super Mario 3D World | 229339 | [229339-super-mario-3d-world.json](./229339-super-mario-3d-world.json) |
 | Super Mario 3D World + Bowser's Fury | 138227 | [138227-super-mario-3d-world-bowsers-fury.json](./138227-super-mario-3d-world-bowsers-fury.json) |
+| Super Mario 64 1.5 Ztar Attack! | 135230 | [135230-super-mario-64-1-5-ztar-attack.json](./135230-super-mario-64-1-5-ztar-attack.json) |
 | Super Mario 64 2 | 175964 | [175964-super-mario-64-2.json](./175964-super-mario-64-2.json) |
+| Super Mario 64 3D World | 135228 | [135228-super-mario-64-3d-world.json](./135228-super-mario-64-3d-world.json) |
 | Super Mario 64 Android Port | 307315 | [307315-super-mario-64-android-port.json](./307315-super-mario-64-android-port.json) |
 | Super Mario 64 Chaos Edition | 132836 | [132836-super-mario-64-chaos-edition.json](./132836-super-mario-64-chaos-edition.json) |
 | Super Mario 64 DOS Port | 307320 | [307320-super-mario-64-dos-port.json](./307320-super-mario-64-dos-port.json) |
 | Super Mario 64 EX Alo | 307321 | [307321-super-mario-64-ex-alo.json](./307321-super-mario-64-ex-alo.json) |
 | Super Mario 64 in Tomb Raider | 262677 | [262677-super-mario-64-in-tomb-raider.json](./262677-super-mario-64-in-tomb-raider.json) |
+| Super Mario 64 Maker | 135229 | [135229-super-mario-64-maker.json](./135229-super-mario-64-maker.json) |
 | Super Mario 64 Nintendo 3DS Port | 307314 | [307314-super-mario-64-nintendo-3ds-port.json](./307314-super-mario-64-nintendo-3ds-port.json) |
 | Super Mario 64 NX | 307317 | [307317-super-mario-64-nx.json](./307317-super-mario-64-nx.json) |
 | Super Mario 64 Odyssey | 159274 | [159274-super-mario-64-odyssey.json](./159274-super-mario-64-odyssey.json) |
+| Super Mario 64 Peach's Memory | 135214 | [135214-super-mario-64-peachs-memory.json](./135214-super-mario-64-peachs-memory.json) |
 | Super Mario 64 Plus | 146246 | [146246-super-mario-64-plus.json](./146246-super-mario-64-plus.json) |
 | Super Mario 64 Port | 307318 | [307318-super-mario-64-port.json](./307318-super-mario-64-port.json) |
 | Super Mario 64 Port: PSP Port of PC | 307319 | [307319-super-mario-64-port-psp-port-of-pc.json](./307319-super-mario-64-port-psp-port-of-pc.json) |
 | Super Mario 64 Randomizer | 135265 | [135265-super-mario-64-randomizer.json](./135265-super-mario-64-randomizer.json) |
 | Super Mario 64 Shining Stars | 132859 | [132859-super-mario-64-shining-stars.json](./132859-super-mario-64-shining-stars.json) |
+| Super Mario 64 Splitscreen Multiplayer | 135223 | [135223-super-mario-64-splitscreen-multiplayer.json](./135223-super-mario-64-splitscreen-multiplayer.json) |
 | Super Mario 64 Xbox | 284359 | [284359-super-mario-64-xbox.json](./284359-super-mario-64-xbox.json) |
 | Super Mario 64: Arguably Better Edition | 146248 | [146248-super-mario-64-arguably-better-edition.json](./146248-super-mario-64-arguably-better-edition.json) |
 | Super Mario 64: Gore/Hard-Mode | 326065 | [326065-super-mario-64-gore-hard-mode.json](./326065-super-mario-64-gore-hard-mode.json) |
@@ -5724,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Royal Legacy - Definitive Edition | 314021 | [314021-super-mario-64-royal-legacy-definitive-edition.json](./314021-super-mario-64-royal-legacy-definitive-edition.json) |
 | Super Mario 64: Star Revenge | 132839 | [132839-super-mario-64-star-revenge.json](./132839-super-mario-64-star-revenge.json) |
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
+| Super Mario 64: The Missing Stars | 135176 | [135176-super-mario-64-the-missing-stars.json](./135176-super-mario-64-the-missing-stars.json) |
 | Super Mario 64: Through the Ages | 199070 | [199070-super-mario-64-through-the-ages.json](./199070-super-mario-64-through-the-ages.json) |
 | Super Mario 74 | 132842 | [132842-super-mario-74.json](./132842-super-mario-74.json) |
 | Super Mario 74: Extreme Edition | 132843 | [132843-super-mario-74-extreme-edition.json](./132843-super-mario-74-extreme-edition.json) |
@@ -5750,6 +5762,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Treacherous Halls | 241027 | [241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json](./241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors | 241017 | [241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json](./241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json) |
 | Super Mario All-Stars | 5199 | [5199-super-mario-all-stars.json](./5199-super-mario-all-stars.json) |
+| Super Mario and the Cursed Castles | 135216 | [135216-super-mario-and-the-cursed-castles.json](./135216-super-mario-and-the-cursed-castles.json) |
+| Super Mario and the Marvel Adventure | 135178 | [135178-super-mario-and-the-marvel-adventure.json](./135178-super-mario-and-the-marvel-adventure.json) |
 | Super Mario brasileiro | 267931 | [267931-super-mario-brasileiro.json](./267931-super-mario-brasileiro.json) |
 | Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
 | Super Mario Bros Galaxy DS | 146354 | [146354-super-mario-bros-galaxy-ds.json](./146354-super-mario-bros-galaxy-ds.json) |
@@ -5765,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
 | Super Mario Bros. 3Mix | 144986 | [144986-super-mario-bros-3mix.json](./144986-super-mario-bros-3mix.json) |
+| Super Mario Bros. 64 | 135232 | [135232-super-mario-bros-64.json](./135232-super-mario-bros-64.json) |
 | Super Mario Bros. 64 | 150101 | [150101-super-mario-bros-64.json](./150101-super-mario-bros-64.json) |
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
@@ -5822,11 +5837,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: The Second Reality Project 2 - Zycloboo's Challenge | 202378 | [202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json](./202378-super-mario-world-the-second-reality-project-2-zycloboos-challenge.json) |
 | Super Mario World: Tsunami Island | 215149 | [215149-super-mario-world-tsunami-island.json](./215149-super-mario-world-tsunami-island.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
+| Super Mario: Endless Earth | 135177 | [135177-super-mario-endless-earth.json](./135177-super-mario-endless-earth.json) |
 | Super Mario: Magnum Opus | 250041 | [250041-super-mario-magnum-opus.json](./250041-super-mario-magnum-opus.json) |
 | Super Mario: The Cursed Forest | 275565 | [275565-super-mario-the-cursed-forest.json](./275565-super-mario-the-cursed-forest.json) |
+| Super Mario: The Lost Dreams | 135168 | [135168-super-mario-the-lost-dreams.json](./135168-super-mario-the-lost-dreams.json) |
 | Super Mario: The New Beginning Revival | 339245 | [339245-super-mario-the-new-beginning-revival.json](./339245-super-mario-the-new-beginning-revival.json) |
 | Super Mario: The Star Kingdom | 324112 | [324112-super-mario-the-star-kingdom.json](./324112-super-mario-the-star-kingdom.json) |
 | Super Mario: The Trip | 277045 | [277045-super-mario-the-trip.json](./277045-super-mario-the-trip.json) |
+| Super Mario's Jammin' Journey 64 | 135163 | [135163-super-marios-jammin-journey-64.json](./135163-super-marios-jammin-journey-64.json) |
 | Super Marisa World | 77351 | [77351-super-marisa-world.json](./77351-super-marisa-world.json) |
 | Super Market | 320533 | [320533-super-market.json](./320533-super-market.json) |
 | Super Markup Man | 32037 | [32037-super-markup-man.json](./32037-super-markup-man.json) |
@@ -5957,6 +5975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sized Rescue Squad | 305764 | [305764-super-sized-rescue-squad.json](./305764-super-sized-rescue-squad.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
+| Super Slide 64 | 135179 | [135179-super-slide-64.json](./135179-super-slide-64.json) |
 | Super Slime Boy | 335956 | [335956-super-slime-boy.json](./335956-super-slime-boy.json) |
 | Super Slime Rush | 174280 | [174280-super-slime-rush.json](./174280-super-slime-rush.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
