@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
 | MonsterSoft | 138803 | [138803-monstersoft.json](./138803-monstersoft.json) |
 | Monsterstone: Prelude | 215122 | [215122-monsterstone-prelude.json](./215122-monsterstone-prelude.json) |
+| MonsterTerritory | 167250 | [167250-monsterterritory.json](./167250-monsterterritory.json) |
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
 | Mysterious Unnamed Space Game | 184092 | [184092-mysterious-unnamed-space-game.json](./184092-mysterious-unnamed-space-game.json) |
 | Mysterious warrior | 165679 | [165679-mysterious-warrior.json](./165679-mysterious-warrior.json) |
+| Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Box: The Journey | 257360 | [257360-mystery-box-the-journey.json](./257360-mystery-box-the-journey.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
