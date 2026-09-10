@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
+| Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
 | Haunted Hotel: A Past Redeemed - Collector's Edition | 152889 | [152889-haunted-hotel-a-past-redeemed-collectors-edition.json](./152889-haunted-hotel-a-past-redeemed-collectors-edition.json) |
 | Haunted Hotel: Ancient Bane | 180306 | [180306-haunted-hotel-ancient-bane.json](./180306-haunted-hotel-ancient-bane.json) |
 | Haunted Hotel: Ancient Bane - Collector's Edition | 180302 | [180302-haunted-hotel-ancient-bane-collectors-edition.json](./180302-haunted-hotel-ancient-bane-collectors-edition.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
+| Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
 | Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
 | Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
 | Highway Patrol Simulator | 258451 | [258451-highway-patrol-simulator.json](./258451-highway-patrol-simulator.json) |
@@ -1427,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
 | Hivefront TD | 379857 | [379857-hivefront-td.json](./379857-hivefront-td.json) |
 | Hiveswap Friendsim | 97012 | [97012-hiveswap-friendsim.json](./97012-hiveswap-friendsim.json) |
+| Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hjarta | 169985 | [169985-hjarta.json](./169985-hjarta.json) |
 | Hlina | 244996 | [244996-hlina.json](./244996-hlina.json) |
