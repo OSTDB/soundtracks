@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
+| Jewel Match Atlantis Solitaire 2 | 153397 | [153397-jewel-match-atlantis-solitaire-2.json](./153397-jewel-match-atlantis-solitaire-2.json) |
 | Jewel Match Atlantis Solitaire 5: Collector's Edition | 381596 | [381596-jewel-match-atlantis-solitaire-5-collectors-edition.json](./381596-jewel-match-atlantis-solitaire-5-collectors-edition.json) |
 | Jewel Match Atlantis Solitaire: Collector's Edition | 126907 | [126907-jewel-match-atlantis-solitaire-collectors-edition.json](./126907-jewel-match-atlantis-solitaire-collectors-edition.json) |
 | Jewel Match Origins: Palais Imperial - Collector's Edition | 169954 | [169954-jewel-match-origins-palais-imperial-collectors-edition.json](./169954-jewel-match-origins-palais-imperial-collectors-edition.json) |
