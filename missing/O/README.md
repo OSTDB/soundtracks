@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
 | Oracle: Threads of Fate | 89260 | [89260-oracle-threads-of-fate.json](./89260-oracle-threads-of-fate.json) |
 | Oracles Cave | 45365 | [45365-oracles-cave.json](./45365-oracles-cave.json) |
+| Orakyubu | 165076 | [165076-orakyubu.json](./165076-orakyubu.json) |
 | Oral Lessons With Chii-chan | 254753 | [254753-oral-lessons-with-chii-chan.json](./254753-oral-lessons-with-chii-chan.json) |
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order of Battle: World War II - Order of Battle: Allies Victorious | 219793 | [219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json](./219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json) |
 | Order of Renewal | 337647 | [337647-order-of-renewal.json](./337647-order-of-renewal.json) |
 | Order of the Elements | 270961 | [270961-order-of-the-elements.json](./270961-order-of-the-elements.json) |
+| Order Road | 162849 | [162849-order-road.json](./162849-order-road.json) |
 | Order Us! | 264031 | [264031-order-us.json](./264031-order-us.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
