@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartless | 339834 | [339834-heartless.json](./339834-heartless.json) |
 | Heartless Angel | 181935 | [181935-heartless-angel.json](./181935-heartless-angel.json) |
+| HeartLinks: A Puzzle Called Love | 153940 | [153940-heartlinks-a-puzzle-called-love.json](./153940-heartlinks-a-puzzle-called-love.json) |
 | Heartomics: Nokori | 33152 | [33152-heartomics-nokori.json](./33152-heartomics-nokori.json) |
 | Heartomics: Slime & Friends | 33163 | [33163-heartomics-slime-and-friends.json](./33163-heartomics-slime-and-friends.json) |
 | Heartreasure | 175945 | [175945-heartreasure.json](./175945-heartreasure.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbheim's Mine | 188689 | [188689-herbheims-mine.json](./188689-herbheims-mine.json) |
 | Herbis | 158216 | [158216-herbis.json](./158216-herbis.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
+| Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here Again | 410923 | [410923-here-again.json](./410923-here-again.json) |
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
@@ -1208,6 +1210,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Tales | 233482 | [233482-hidden-tales.json](./233482-hidden-tales.json) |
 | Hidden Temple Adventure | 248650 | [248650-hidden-temple-adventure.json](./248650-hidden-temple-adventure.json) |
 | Hidden Through Time | 128909 | [128909-hidden-through-time.json](./128909-hidden-through-time.json) |
+| Hidden Through Time: Legends of Japan | 154514 | [154514-hidden-through-time-legends-of-japan.json](./154514-hidden-through-time-legends-of-japan.json) |
+| Hidden Through Time: Road to Rome | 154515 | [154515-hidden-through-time-road-to-rome.json](./154515-hidden-through-time-road-to-rome.json) |
+| Hidden Through Time: Viking Tales | 154516 | [154516-hidden-through-time-viking-tales.json](./154516-hidden-through-time-viking-tales.json) |
 | Hidden Western Top-Down 3D | 277827 | [277827-hidden-western-top-down-3d.json](./277827-hidden-western-top-down-3d.json) |
 | Hidden Words | 170534 | [170534-hidden-words.json](./170534-hidden-words.json) |
 | Hidden Words and Pictures Game | 108490 | [108490-hidden-words-and-pictures-game.json](./108490-hidden-words-and-pictures-game.json) |
@@ -1547,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
+| Homewords | 153947 | [153947-homewords.json](./153947-homewords.json) |
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
 | Homeworld: Vast Reaches | 301250 | [301250-homeworld-vast-reaches.json](./301250-homeworld-vast-reaches.json) |
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
@@ -1691,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Night: The Slenderman Takings | 236824 | [236824-horror-night-the-slenderman-takings.json](./236824-horror-night-the-slenderman-takings.json) |
 | Horror Pinball Bundle | 126620 | [126620-horror-pinball-bundle.json](./126620-horror-pinball-bundle.json) |
 | Horror Room:Mystery mind story | 143092 | [143092-horror-room-mystery-mind-story.json](./143092-horror-room-mystery-mind-story.json) |
+| Horror Royale | 153965 | [153965-horror-royale.json](./153965-horror-royale.json) |
 | Horror Run | 201237 | [201237-horror-run.json](./201237-horror-run.json) |
 | Horror Scary Granny Pink Barby | 231936 | [231936-horror-scary-granny-pink-barby.json](./231936-horror-scary-granny-pink-barby.json) |
 | Horror Tale 1: Kidnapper | 239049 | [239049-horror-tale-1-kidnapper.json](./239049-horror-tale-1-kidnapper.json) |
