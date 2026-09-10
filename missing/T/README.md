@@ -288,7 +288,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Digital Edition - Vampire | 149070 | [149070-talisman-digital-edition-vampire.json](./149070-talisman-digital-edition-vampire.json) |
 | Talisman: Digital Edition - Witch Hunter | 149077 | [149077-talisman-digital-edition-witch-hunter.json](./149077-talisman-digital-edition-witch-hunter.json) |
 | Talisman: Digital Edition - Woodsman | 149068 | [149068-talisman-digital-edition-woodsman.json](./149068-talisman-digital-edition-woodsman.json) |
+| Talisman: Origins - Beyond the Veil | 149003 | [149003-talisman-origins-beyond-the-veil.json](./149003-talisman-origins-beyond-the-veil.json) |
+| Talisman: Origins - The Eternal Conflict | 149005 | [149005-talisman-origins-the-eternal-conflict.json](./149005-talisman-origins-the-eternal-conflict.json) |
+| Talisman: Origins - The Legend of Pandora's Box | 149006 | [149006-talisman-origins-the-legend-of-pandoras-box.json](./149006-talisman-origins-the-legend-of-pandoras-box.json) |
+| Talisman: The Cataclysm | 149020 | [149020-talisman-the-cataclysm.json](./149020-talisman-the-cataclysm.json) |
+| Talisman: The Dragon | 149009 | [149009-talisman-the-dragon.json](./149009-talisman-the-dragon.json) |
 | Talisman: The Firelands | 149057 | [149057-talisman-the-firelands.json](./149057-talisman-the-firelands.json) |
+| Talisman: The Harbinger | 149022 | [149022-talisman-the-harbinger.json](./149022-talisman-the-harbinger.json) |
+| Talisman: The Nether Realm | 149015 | [149015-talisman-the-nether-realm.json](./149015-talisman-the-nether-realm.json) |
+| Talisman: The Realm of Souls | 149012 | [149012-talisman-the-realm-of-souls.json](./149012-talisman-the-realm-of-souls.json) |
 | Talisman: The Woodland | 149081 | [149081-talisman-the-woodland.json](./149081-talisman-the-woodland.json) |
 | Talk to Strangers | 252403 | [252403-talk-to-strangers.json](./252403-talk-to-strangers.json) |
 | Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
@@ -1350,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Craft of the Samurai | 159809 | [159809-the-craft-of-the-samurai.json](./159809-the-craft-of-the-samurai.json) |
 | The Crazed Chicken | 71000 | [71000-the-crazed-chicken.json](./71000-the-crazed-chicken.json) |
 | The Crazy Journalist | 199056 | [199056-the-crazy-journalist.json](./199056-the-crazy-journalist.json) |
+| The Creation of a Self | 149033 | [149033-the-creation-of-a-self.json](./149033-the-creation-of-a-self.json) |
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
 | The Crew: Motorfest - Dodge Pack | 408787 | [408787-the-crew-motorfest-dodge-pack.json](./408787-the-crew-motorfest-dodge-pack.json) |
@@ -2709,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remains of El Dorado | 184570 | [184570-the-remains-of-el-dorado.json](./184570-the-remains-of-el-dorado.json) |
+| The Remission of Sins | 149042 | [149042-the-remission-of-sins.json](./149042-the-remission-of-sins.json) |
 | The Remote Outpost | 268726 | [268726-the-remote-outpost.json](./268726-the-remote-outpost.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Renovator: Origins | 193413 | [193413-the-renovator-origins.json](./193413-the-renovator-origins.json) |
@@ -5354,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter X | 85522 | [85522-treasure-hunter-x.json](./85522-treasure-hunter-x.json) |
 | Treasure Hunter: History of Monastery Gold | 253581 | [253581-treasure-hunter-history-of-monastery-gold.json](./253581-treasure-hunter-history-of-monastery-gold.json) |
 | Treasure Hunter: Idle RPG | 311246 | [311246-treasure-hunter-idle-rpg.json](./311246-treasure-hunter-idle-rpg.json) |
+| Treasure Hunting | 149028 | [149028-treasure-hunting.json](./149028-treasure-hunting.json) |
 | Treasure Island | 25782 | [25782-treasure-island.json](./25782-treasure-island.json) |
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
 | Treasure of Barracuda | 165695 | [165695-treasure-of-barracuda.json](./165695-treasure-of-barracuda.json) |
