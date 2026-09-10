@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
 | Wave Rider | 161399 | [161399-wave-rider.json](./161399-wave-rider.json) |
+| Wave Shark | 142397 | [142397-wave-shark.json](./142397-wave-shark.json) |
 | Wave Weaver | 289899 | [289899-wave-weaver.json](./289899-wave-weaver.json) |
 | Waveat | 362808 | [362808-waveat.json](./362808-waveat.json) |
 | Waveat ReLight V2 | 362811 | [362811-waveat-relight-v2.json](./362811-waveat-relight-v2.json) |
@@ -618,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What Body? | 281385 | [281385-what-body.json](./281385-what-body.json) |
 | What Cat? | 253033 | [253033-what-cat.json](./253033-what-cat.json) |
+| What Comes After | 142382 | [142382-what-comes-after.json](./142382-what-comes-after.json) |
 | What Comes Next | 332974 | [332974-what-comes-next.json](./332974-what-comes-next.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
 | What Happened: Through Worlds | 314856 | [314856-what-happened-through-worlds.json](./314856-what-happened-through-worlds.json) |
@@ -1195,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
 | Wolf West | 261826 | [261826-wolf-west.json](./261826-wolf-west.json) |
+| Wolf's Gang | 142430 | [142430-wolfs-gang.json](./142430-wolfs-gang.json) |
 | Wolfenstein 3D | 306944 | [306944-wolfenstein-3d.json](./306944-wolfenstein-3d.json) |
 | Wolfenstein 3D | 306948 | [306948-wolfenstein-3d.json](./306948-wolfenstein-3d.json) |
 | Wolfenstein 3D | 306965 | [306965-wolfenstein-3d.json](./306965-wolfenstein-3d.json) |
