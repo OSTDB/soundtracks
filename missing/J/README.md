@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Puzzle | 152874 | [152874-japanese-puzzle.json](./152874-japanese-puzzle.json) |
 | Japanese Rail Sim 3D: 5 types of trains | 147915 | [147915-japanese-rail-sim-3d-5-types-of-trains.json](./147915-japanese-rail-sim-3d-5-types-of-trains.json) |
 | Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs | 315837 | [315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json](./315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json) |
+| Japanese Rail Sim: Journey to Kyoto | 139991 | [139991-japanese-rail-sim-journey-to-kyoto.json](./139991-japanese-rail-sim-journey-to-kyoto.json) |
 | Japanese School Life | 26136 | [26136-japanese-school-life.json](./26136-japanese-school-life.json) |
 | Jaques Roque | 35888 | [35888-jaques-roque.json](./35888-jaques-roque.json) |
 | Jar | 340768 | [340768-jar.json](./340768-jar.json) |
@@ -323,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Oshaberi Parodius | 38390 | [38390-jikkyou-oshaberi-parodius.json](./38390-jikkyou-oshaberi-parodius.json) |
 | Jikkyou Pawafuru Pro Yakyuu '96: Kaimaku-ban | 42644 | [42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json](./42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json) |
 | Jikkyou Pawafuru Pro Yakyuu: Basic-ban '98 | 37207 | [37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json](./37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json) |
+| Jikkyou Pawafuru Puroyakyu '99: Kaimaku-ban | 138738 | [138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json](./138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jikuu Boukenki Zentrix | 210683 | [210683-jikuu-boukenki-zentrix.json](./210683-jikuu-boukenki-zentrix.json) |
