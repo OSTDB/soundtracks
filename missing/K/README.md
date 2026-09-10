@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kari Gurashi Ren'ai | 97347 | [97347-kari-gurashi-renai.json](./97347-kari-gurashi-renai.json) |
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
 | Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
+| Karma Flow 2: Tears of a Ghost | 164997 | [164997-karma-flow-2-tears-of-a-ghost.json](./164997-karma-flow-2-tears-of-a-ghost.json) |
 | Karma: The Dark World - Deluxe Edition | 403590 | [403590-karma-the-dark-world-deluxe-edition.json](./403590-karma-the-dark-world-deluxe-edition.json) |
 | Karnov | 288188 | [288188-karnov.json](./288188-karnov.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
@@ -970,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
 | Kukui 2 | 140011 | [140011-kukui-2.json](./140011-kukui-2.json) |
 | Kukumushi Virtual Pet | 189134 | [189134-kukumushi-virtual-pet.json](./189134-kukumushi-virtual-pet.json) |
+| Kula | 164992 | [164992-kula.json](./164992-kula.json) |
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
 | Kumitate Battle: Kuttu Ketto | 70995 | [70995-kumitate-battle-kuttu-ketto.json](./70995-kumitate-battle-kuttu-ketto.json) |
