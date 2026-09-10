@@ -633,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
+| Scrabdackle | 141167 | [141167-scrabdackle.json](./141167-scrabdackle.json) |
 | ScrabWordle | 228716 | [228716-scrabwordle.json](./228716-scrabwordle.json) |
 | Scraftion | 152851 | [152851-scraftion.json](./152851-scraftion.json) |
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization Revolution | 264866 | [264866-sid-meiers-civilization-revolution.json](./264866-sid-meiers-civilization-revolution.json) |
 | Sid Meier's Civilization Revolution 2 Plus | 139435 | [139435-sid-meiers-civilization-revolution-2-plus.json](./139435-sid-meiers-civilization-revolution-2-plus.json) |
 | Sid Meier's Civilization V: Brave New World | 3272 | [3272-sid-meiers-civilization-v-brave-new-world.json](./3272-sid-meiers-civilization-v-brave-new-world.json) |
+| Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Mona Megistus Pack | 278742 | [278742-sid-meiers-civilization-vi-mona-megistus-pack.json](./278742-sid-meiers-civilization-vi-mona-megistus-pack.json) |
 | Sid Meier's Civilization VII: Deluxe Edition | 315854 | [315854-sid-meiers-civilization-vii-deluxe-edition.json](./315854-sid-meiers-civilization-vii-deluxe-edition.json) |
 | Sid Meier's Civilization VII: Founders Edition | 315853 | [315853-sid-meiers-civilization-vii-founders-edition.json](./315853-sid-meiers-civilization-vii-founders-edition.json) |
@@ -1912,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
 | SimAnimals | 371270 | [371270-simanimals.json](./371270-simanimals.json) |
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
+| SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity Creator | 343813 | [343813-simcity-creator.json](./343813-simcity-creator.json) |
 | SimCity DS | 1494 | [1494-simcity-ds.json](./1494-simcity-ds.json) |
@@ -2124,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skater XL: Tampa Pro 2022 Gear Pack For Charity | 225094 | [225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json](./225094-skater-xl-tampa-pro-2022-gear-pack-for-charity.json) |
 | SkateRide | 180776 | [180776-skateride.json](./180776-skateride.json) |
 | Skautfold: Shrouded in Sanity | 19481 | [19481-skautfold-shrouded-in-sanity.json](./19481-skautfold-shrouded-in-sanity.json) |
+| Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
 | Skelemania | 183059 | [183059-skelemania.json](./183059-skelemania.json) |
@@ -3579,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Spartans | 5700 | [5700-space-spartans.json](./5700-space-spartans.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
+| Space Station Sprint | 141140 | [141140-space-station-sprint.json](./141140-space-station-sprint.json) |
 | Space Stella: The Unknown Planet | 187468 | [187468-space-stella-the-unknown-planet.json](./187468-space-stella-the-unknown-planet.json) |
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
@@ -5349,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SunSenSim | 156124 | [156124-sunsensim.json](./156124-sunsensim.json) |
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
+| Sunset Drive 1986 | 141133 | [141133-sunset-drive-1986.json](./141133-sunset-drive-1986.json) |
 | Sunset Giant | 114391 | [114391-sunset-giant.json](./114391-sunset-giant.json) |
 | Sunset Irreligion | 325252 | [325252-sunset-irreligion.json](./325252-sunset-irreligion.json) |
 | Sunset Mall: Classic | 201244 | [201244-sunset-mall-classic.json](./201244-sunset-mall-classic.json) |
@@ -5467,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dream Dasher | 172189 | [172189-super-dream-dasher.json](./172189-super-dream-dasher.json) |
 | Super Drill Diver! | 176959 | [176959-super-drill-diver.json](./176959-super-drill-diver.json) |
 | Super Drill Panic | 398996 | [398996-super-drill-panic.json](./398996-super-drill-panic.json) |
+| Super Drink Bros. | 141162 | [141162-super-drink-bros.json](./141162-super-drink-bros.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Durak | 174336 | [174336-super-durak.json](./174336-super-durak.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
@@ -6272,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Fall | 359442 | [359442-swing-fall.json](./359442-swing-fall.json) |
 | Swing Home Run | 234056 | [234056-swing-home-run.json](./234056-swing-home-run.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
+| Swing Lord | 141142 | [141142-swing-lord.json](./141142-swing-lord.json) |
 | Swing of the Valkyries | 391597 | [391597-swing-of-the-valkyries.json](./391597-swing-of-the-valkyries.json) |
 | Swing Saga | 187465 | [187465-swing-saga.json](./187465-swing-saga.json) |
 | Swing Solver | 277293 | [277293-swing-solver.json](./277293-swing-solver.json) |
