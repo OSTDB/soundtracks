@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.T.R.: Cross The Road | 240202 | [240202-c-t-r-cross-the-road.json](./240202-c-t-r-cross-the-road.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
+| C1 Circuit | 143653 | [143653-c1-circuit.json](./143653-c1-circuit.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
 | C64 & AMIGA Classix Remakes Sixpack 4 | 377574 | [377574-c64-and-amiga-classix-remakes-sixpack-4.json](./377574-c64-and-amiga-classix-remakes-sixpack-4.json) |
