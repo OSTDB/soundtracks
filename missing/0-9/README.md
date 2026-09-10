@@ -272,9 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
-| 44 Hidden Naomis | 353323 | [353323-44-hidden-naomis.json](./353323-44-hidden-naomis.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
-| 46 Pegason b | 205022 | [205022-46-pegason-b.json](./205022-46-pegason-b.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
 | 4D Sports Tennis | 73308 | [73308-4d-sports-tennis.json](./73308-4d-sports-tennis.json) |
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
