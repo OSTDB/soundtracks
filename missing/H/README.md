@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Survivor | 232973 | [232973-hard-survivor.json](./232973-hard-survivor.json) |
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
+| Hard West: Ultimate Edition | 166685 | [166685-hard-west-ultimate-edition.json](./166685-hard-west-ultimate-edition.json) |
 | Hard Winter | 25769 | [25769-hard-winter.json](./25769-hard-winter.json) |
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
