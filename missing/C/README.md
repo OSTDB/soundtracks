@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
 | Celebrating Lotería! | 375816 | [375816-celebrating-loteria.json](./375816-celebrating-loteria.json) |
+| Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb Challenge: Castle | 213019 | [213019-climb-challenge-castle.json](./213019-climb-challenge-castle.json) |
 | Climb Fling | 239636 | [239636-climb-fling.json](./239636-climb-fling.json) |
 | Climb It | 273910 | [273910-climb-it.json](./273910-climb-it.json) |
+| Climb the Tower | 157208 | [157208-climb-the-tower.json](./157208-climb-the-tower.json) |
 | Climb the Tower | 268185 | [268185-climb-the-tower.json](./268185-climb-the-tower.json) |
 | Climber | 269843 | [269843-climber.json](./269843-climber.json) |
 | Climbing Challenge | 246434 | [246434-climbing-challenge.json](./246434-climbing-challenge.json) |
@@ -1827,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
 | Codedoor | 281997 | [281997-codedoor.json](./281997-codedoor.json) |
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
+| Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
@@ -2527,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courtroom Chaos: Starring Snoop Dogg | 371262 | [371262-courtroom-chaos-starring-snoop-dogg.json](./371262-courtroom-chaos-starring-snoop-dogg.json) |
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
+| Covenanted | 157155 | [157155-covenanted.json](./157155-covenanted.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
@@ -2713,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Climber 2000 | 77399 | [77399-crazy-climber-2000.json](./77399-crazy-climber-2000.json) |
 | Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
+| Crazy Flasher Series 2021 | 157146 | [157146-crazy-flasher-series-2021.json](./157146-crazy-flasher-series-2021.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Frog Racer | 20483 | [20483-crazy-frog-racer.json](./20483-crazy-frog-racer.json) |
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
