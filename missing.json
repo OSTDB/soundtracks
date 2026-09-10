@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T12:48:53.354Z",
-  "total_missing": 53807,
+  "generated_at": "2026-09-10T12:51:05.697Z",
+  "total_missing": 53806,
   "games": [
     {
       "igdb_id": 306086,
@@ -1441,11 +1441,6 @@
       "igdb_id": 208630,
       "game_name": "69 Andariel Hot",
       "file": "missing/0-9/208630-69-andariel-hot.json"
-    },
-    {
-      "igdb_id": 192449,
-      "game_name": "69 Estera Hot",
-      "file": "missing/0-9/192449-69-estera-hot.json"
     },
     {
       "igdb_id": 173837,
