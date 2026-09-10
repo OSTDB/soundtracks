@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T00:18:49.577Z",
-  "total_missing": 52348,
+  "generated_at": "2026-09-10T00:21:11.815Z",
+  "total_missing": 52347,
   "games": [
     {
       "igdb_id": 306086,
@@ -1161,11 +1161,6 @@
       "igdb_id": 205073,
       "game_name": "3D Joys",
       "file": "missing/0-9/205073-3d-joys.json"
-    },
-    {
-      "igdb_id": 265428,
-      "game_name": "3D Knife",
-      "file": "missing/0-9/265428-3d-knife.json"
     },
     {
       "igdb_id": 269319,
