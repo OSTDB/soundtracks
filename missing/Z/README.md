@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids VS | 50586 | [50586-zoids-vs.json](./50586-zoids-vs.json) |
 | Zoids VS II | 50585 | [50585-zoids-vs-ii.json](./50585-zoids-vs-ii.json) |
 | Zoids VS III | 50576 | [50576-zoids-vs-iii.json](./50576-zoids-vs-iii.json) |
+| Zoids Wild: Infinity Blast | 146832 | [146832-zoids-wild-infinity-blast.json](./146832-zoids-wild-infinity-blast.json) |
 | Zoids: Full Metal Crash | 50584 | [50584-zoids-full-metal-crash.json](./50584-zoids-full-metal-crash.json) |
 | Zoids: The Battle Begins | 75873 | [75873-zoids-the-battle-begins.json](./75873-zoids-the-battle-begins.json) |
 | Zoidtrip | 344908 | [344908-zoidtrip.json](./344908-zoidtrip.json) |
