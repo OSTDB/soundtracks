@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes 2: Champions Character Pack | 168368 | [168368-lego-marvel-super-heroes-2-champions-character-pack.json](./168368-lego-marvel-super-heroes-2-champions-character-pack.json) |
 | LEGO Marvel's Avengers: Classic Captain Marvel Pack | 137663 | [137663-lego-marvels-avengers-classic-captain-marvel-pack.json](./137663-lego-marvels-avengers-classic-captain-marvel-pack.json) |
 | LEGO Marvel's Avengers: Deluxe Edition | 53270 | [53270-lego-marvels-avengers-deluxe-edition.json](./53270-lego-marvels-avengers-deluxe-edition.json) |
+| LEGO Marvel's Avengers: Marvel's Agents of S.H.I.E.L.D. Pack | 137633 | [137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json](./137633-lego-marvels-avengers-marvels-agents-of-s-h-i-e-l-d-pack.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Racers | 343274 | [343274-lego-racers.json](./343274-lego-racers.json) |
 | LEGO Racers 2 | 390 | [390-lego-racers-2.json](./390-lego-racers-2.json) |
@@ -1347,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord Clicker | 183555 | [183555-lord-clicker.json](./183555-lord-clicker.json) |
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
 | Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
+| Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
@@ -1458,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Oasis | 334099 | [334099-lost-oasis.json](./334099-lost-oasis.json) |
 | Lost Pages: The First Cycle | 226755 | [226755-lost-pages-the-first-cycle.json](./226755-lost-pages-the-first-cycle.json) |
 | Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
+| Lost Perspective | 137602 | [137602-lost-perspective.json](./137602-lost-perspective.json) |
 | Lost Planet 3 | 1916 | [1916-lost-planet-3.json](./1916-lost-planet-3.json) |
 | Lost Planet: Extreme Condition | 1913 | [1913-lost-planet-extreme-condition.json](./1913-lost-planet-extreme-condition.json) |
 | Lost Player | 185103 | [185103-lost-player.json](./185103-lost-player.json) |
