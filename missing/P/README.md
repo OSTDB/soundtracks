@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
+| Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
@@ -2411,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Architect: Free for life | 220655 | [220655-prison-architect-free-for-life.json](./220655-prison-architect-free-for-life.json) |
 | Prison Architect: Gangs | 203348 | [203348-prison-architect-gangs.json](./203348-prison-architect-gangs.json) |
 | Prison Architect: Going Green | 148530 | [148530-prison-architect-going-green.json](./148530-prison-architect-going-green.json) |
+| Prison Architect: Island Bound | 133947 | [133947-prison-architect-island-bound.json](./133947-prison-architect-island-bound.json) |
 | Prison Architect: Mobile | 174886 | [174886-prison-architect-mobile.json](./174886-prison-architect-mobile.json) |
 | Prison Architect: Nintendo Switch Edition | 222532 | [222532-prison-architect-nintendo-switch-edition.json](./222532-prison-architect-nintendo-switch-edition.json) |
 | Prison Architect: Nintendo Switch Edition - Bundle | 222502 | [222502-prison-architect-nintendo-switch-edition-bundle.json](./222502-prison-architect-nintendo-switch-edition-bundle.json) |
