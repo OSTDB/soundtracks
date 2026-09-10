@@ -885,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
 | Seek Girl: Charming Girl | 171014 | [171014-seek-girl-charming-girl.json](./171014-seek-girl-charming-girl.json) |
+| Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
 | Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
@@ -1739,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shǔguāng zhī Shī | 157116 | [157116-shuguang-zhi-shi.json](./157116-shuguang-zhi-shi.json) |
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
+| Shunkyoku no Tyrhhia: What a Beautiful Dawn | 144958 | [144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json](./144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json) |
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
 | Shuriken Trigger | 326074 | [326074-shuriken-trigger.json](./326074-shuriken-trigger.json) |
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
@@ -1835,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
 | Silent Hill 3 | 222486 | [222486-silent-hill-3.json](./222486-silent-hill-3.json) |
+| Silent Hill Complete Set | 144966 | [144966-silent-hill-complete-set.json](./144966-silent-hill-complete-set.json) |
 | Silent Hill f: Deluxe Edition | 347180 | [347180-silent-hill-f-deluxe-edition.json](./347180-silent-hill-f-deluxe-edition.json) |
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
@@ -5259,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer With You | 195234 | [195234-summer-with-you.json](./195234-summer-with-you.json) |
 | Summer's Gone: Season 1 | 199053 | [199053-summers-gone-season-1.json](./199053-summers-gone-season-1.json) |
 | Summerhouse | 261688 | [261688-summerhouse.json](./261688-summerhouse.json) |
+| Summertime Madness | 144935 | [144935-summertime-madness.json](./144935-summertime-madness.json) |
 | Summit | 163453 | [163453-summit.json](./163453-summit.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
