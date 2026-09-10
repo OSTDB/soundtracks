@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T02:33:35.205Z",
-  "total_missing": 52654,
+  "generated_at": "2026-09-10T02:41:13.441Z",
+  "total_missing": 52653,
   "games": [
     {
       "igdb_id": 306086,
@@ -1231,11 +1231,6 @@
       "igdb_id": 15578,
       "game_name": "3D Space Ranger",
       "file": "missing/0-9/15578-3d-space-ranger.json"
-    },
-    {
-      "igdb_id": 73294,
-      "game_name": "3D Stock Car Championship",
-      "file": "missing/0-9/73294-3d-stock-car-championship.json"
     },
     {
       "igdb_id": 96073,
