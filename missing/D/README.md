@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunt Challenge | 78044 | [78044-deer-hunt-challenge.json](./78044-deer-hunt-challenge.json) |
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
 | Deer Hunter Classic | 86940 | [86940-deer-hunter-classic.json](./86940-deer-hunter-classic.json) |
+| Deer Hunter x Treme Focal Plane | 169420 | [169420-deer-hunter-x-treme-focal-plane.json](./169420-deer-hunter-x-treme-focal-plane.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
 | Defeated Girl | 219038 | [219038-defeated-girl.json](./219038-defeated-girl.json) |
@@ -1111,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolate Sands | 109697 | [109697-desolate-sands.json](./109697-desolate-sands.json) |
 | Desolated District | 253356 | [253356-desolated-district.json](./253356-desolated-district.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
+| Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
@@ -2725,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducks | 314263 | [314263-ducks.json](./314263-ducks.json) |
 | Ducks in Disguise | 411621 | [411621-ducks-in-disguise.json](./411621-ducks-in-disguise.json) |
 | Duckside | 295239 | [295239-duckside.json](./295239-duckside.json) |
+| Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
 | Dude Cops | 107195 | [107195-dude-cops.json](./107195-dude-cops.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
