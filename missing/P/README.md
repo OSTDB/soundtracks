@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair of Stamps | 227870 | [227870-pair-of-stamps.json](./227870-pair-of-stamps.json) |
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
 | Paisible Après-midi au Fil des Toiles | 178023 | [178023-paisible-apres-midi-au-fil-des-toiles.json](./178023-paisible-apres-midi-au-fil-des-toiles.json) |
+| Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
@@ -380,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
+| Parfait Remake: Complete Limited Edition | 159813 | [159813-parfait-remake-complete-limited-edition.json](./159813-parfait-remake-complete-limited-edition.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Saint-Germain Club Football 2005 | 267911 | [267911-paris-saint-germain-club-football-2005.json](./267911-paris-saint-germain-club-football-2005.json) |
@@ -2051,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post Hero | 239923 | [239923-post-hero.json](./239923-post-hero.json) |
 | Post Solis | 199102 | [199102-post-solis.json](./199102-post-solis.json) |
 | Post Soviet Strike: Chernobyl Legacy | 294161 | [294161-post-soviet-strike-chernobyl-legacy.json](./294161-post-soviet-strike-chernobyl-legacy.json) |
+| Post-Soviet Yandere | 159838 | [159838-post-soviet-yandere.json](./159838-post-soviet-yandere.json) |
 | Postal 2: A Very Postal Christmas | 129788 | [129788-postal-2-a-very-postal-christmas.json](./129788-postal-2-a-very-postal-christmas.json) |
 | Postal 2: A Week in Paradise | 129789 | [129789-postal-2-a-week-in-paradise.json](./129789-postal-2-a-week-in-paradise.json) |
 | Postal: Redux | 8716 | [8716-postal-redux.json](./8716-postal-redux.json) |
@@ -2639,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protektor | 176516 | [176516-protektor.json](./176516-protektor.json) |
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
+| Protocol Endfall | 159834 | [159834-protocol-endfall.json](./159834-protocol-endfall.json) |
 | Protocol Nadir | 367940 | [367940-protocol-nadir.json](./367940-protocol-nadir.json) |
 | Protocol Paradox | 373512 | [373512-protocol-paradox.json](./373512-protocol-paradox.json) |
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
