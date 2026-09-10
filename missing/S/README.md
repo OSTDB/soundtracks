@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
+| Samsara | 143042 | [143042-samsara.json](./143042-samsara.json) |
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
 | Samsung Pro Cricket | 356656 | [356656-samsung-pro-cricket.json](./356656-samsung-pro-cricket.json) |
@@ -769,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search and Rescue: Snowman From Outer Space | 301271 | [301271-search-and-rescue-snowman-from-outer-space.json](./301271-search-and-rescue-snowman-from-outer-space.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
+| Search of the Stolen Crown Jewels | 143048 | [143048-search-of-the-stolen-crown-jewels.json](./143048-search-of-the-stolen-crown-jewels.json) |
 | Search Party: Director's Cut | 171004 | [171004-search-party-directors-cut.json](./171004-search-party-directors-cut.json) |
 | Searching for Objects in the Forest | 173268 | [173268-searching-for-objects-in-the-forest.json](./173268-searching-for-objects-in-the-forest.json) |
 | Seashell | 195692 | [195692-seashell.json](./195692-seashell.json) |
@@ -1721,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Sugar Fever | 97357 | [97357-shrek-sugar-fever.json](./97357-shrek-sugar-fever.json) |
 | Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
+| Shriddle | 143006 | [143006-shriddle.json](./143006-shriddle.json) |
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
@@ -2388,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Voyage | 312575 | [312575-slime-voyage.json](./312575-slime-voyage.json) |
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
+| Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
@@ -2799,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sociopath | 410211 | [410211-sociopath.json](./410211-sociopath.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
+| Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
@@ -3358,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstone Survivors | 210585 | [210585-soulstone-survivors.json](./210585-soulstone-survivors.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulWander | 348785 | [348785-soulwander.json](./348785-soulwander.json) |
+| Soulworker Academia | 143053 | [143053-soulworker-academia.json](./143053-soulworker-academia.json) |
 | SoulWorker: Anime Legends | 200736 | [200736-soulworker-anime-legends.json](./200736-soulworker-anime-legends.json) |
 | Soumei: Crescent Moon | 382781 | [382781-soumei-crescent-moon.json](./382781-soumei-crescent-moon.json) |
 | Sound Garden | 243684 | [243684-sound-garden.json](./243684-sound-garden.json) |
@@ -3893,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
 | Spirit Whisperer Conversation With Akari | 363409 | [363409-spirit-whisperer-conversation-with-akari.json](./363409-spirit-whisperer-conversation-with-akari.json) |
 | Spirit-Capture Net | 383359 | [383359-spirit-capture-net.json](./383359-spirit-capture-net.json) |
+| Spirit: Lucky's Big Adventure | 143055 | [143055-spirit-luckys-big-adventure.json](./143055-spirit-luckys-big-adventure.json) |
 | Spirited Heart Deluxe | 17286 | [17286-spirited-heart-deluxe.json](./17286-spirited-heart-deluxe.json) |
 | Spirited Soul | 61124 | [61124-spirited-soul.json](./61124-spirited-soul.json) |
 | Spiritfall | 188946 | [188946-spiritfall.json](./188946-spiritfall.json) |
@@ -4443,6 +4450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
 | Starpoint Gemini 3 | 115458 | [115458-starpoint-gemini-3.json](./115458-starpoint-gemini-3.json) |
 | Starpoint Gemini Warlords - Cycle of Warfare | 124829 | [124829-starpoint-gemini-warlords-cycle-of-warfare.json](./124829-starpoint-gemini-warlords-cycle-of-warfare.json) |
+| StarPrey | 143027 | [143027-starprey.json](./143027-starprey.json) |
 | Starquake Academy | 113029 | [113029-starquake-academy.json](./113029-starquake-academy.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
@@ -5101,6 +5109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
+| Subnautica + Subnautica Below Zero Double Pack | 143025 | [143025-subnautica-subnautica-below-zero-double-pack.json](./143025-subnautica-subnautica-below-zero-double-pack.json) |
 | Suborbital | 260386 | [260386-suborbital.json](./260386-suborbital.json) |
 | Subpar Commander | 27808 | [27808-subpar-commander.json](./27808-subpar-commander.json) |
 | Subpoena Magus | 383933 | [383933-subpoena-magus.json](./383933-subpoena-magus.json) |
@@ -5172,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Party | 84915 | [84915-sudoku-party.json](./84915-sudoku-party.json) |
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
 | Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
+| Sudoku RPG | 143029 | [143029-sudoku-rpg.json](./143029-sudoku-rpg.json) |
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
 | Sudoku Starry Sky | 154574 | [154574-sudoku-starry-sky.json](./154574-sudoku-starry-sky.json) |
 | Sudoku Student | 84912 | [84912-sudoku-student.json](./84912-sudoku-student.json) |
@@ -6109,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving Skeleton Island | 262968 | [262968-surviving-skeleton-island.json](./262968-surviving-skeleton-island.json) |
+| Surviving the Aftermath: Day One Edition | 143041 | [143041-surviving-the-aftermath-day-one-edition.json](./143041-surviving-the-aftermath-day-one-edition.json) |
 | Surviving the Aftermath: New Alliances | 203382 | [203382-surviving-the-aftermath-new-alliances.json](./203382-surviving-the-aftermath-new-alliances.json) |
 | Surviving the Aftermath: Ultimate Colony Edition | 188054 | [188054-surviving-the-aftermath-ultimate-colony-edition.json](./188054-surviving-the-aftermath-ultimate-colony-edition.json) |
 | Surviving West | 92524 | [92524-surviving-west.json](./92524-surviving-west.json) |
