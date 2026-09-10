@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volo Airsport | 17957 | [17957-volo-airsport.json](./17957-volo-airsport.json) |
 | Volontés | 347170 | [347170-volontes.json](./347170-volontes.json) |
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
+| Volot: Red Odyssey | 157120 | [157120-volot-red-odyssey.json](./157120-volot-red-odyssey.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
 | Voltorometer Recharged+ | 247512 | [247512-voltorometer-recharged.json](./247512-voltorometer-recharged.json) |
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
