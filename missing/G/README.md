@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbird | 299163 | [299163-gunbird.json](./299163-gunbird.json) |
 | Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
 | Gunblade Ranger | 374589 | [374589-gunblade-ranger.json](./374589-gunblade-ranger.json) |
+| GunBlocks | 168315 | [168315-gunblocks.json](./168315-gunblocks.json) |
 | Gunboat God | 305189 | [305189-gunboat-god.json](./305189-gunboat-god.json) |
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
