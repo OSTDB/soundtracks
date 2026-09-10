@@ -3038,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
 | Atrocity: Field of Hands | 75137 | [75137-atrocity-field-of-hands.json](./75137-atrocity-field-of-hands.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
+| Attack Force | 143056 | [143056-attack-force.json](./143056-attack-force.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
 | Attack of the Evil Poop VR | 166738 | [166738-attack-of-the-evil-poop-vr.json](./166738-attack-of-the-evil-poop-vr.json) |
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
