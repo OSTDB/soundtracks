@@ -322,9 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Bit Fighters | 233495 | [233495-8-bit-fighters.json](./233495-8-bit-fighters.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
-| 8-Hour Workday | 399003 | [399003-8-hour-workday.json](./399003-8-hour-workday.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
-| 80S escape | 132231 | [132231-80s-escape.json](./132231-80s-escape.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 868-Back | 323173 | [323173-868-back.json](./323173-868-back.json) |
 | 868-Hack | 17034 | [17034-868-hack.json](./17034-868-hack.json) |
