@@ -754,8 +754,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niffelheim: Odin's Blessing | 167841 | [167841-niffelheim-odins-blessing.json](./167841-niffelheim-odins-blessing.json) |
 | Niflheim Academy | 225672 | [225672-niflheim-academy.json](./225672-niflheim-academy.json) |
 | Nige-ron-pa | 43961 | [43961-nige-ron-pa.json](./43961-nige-ron-pa.json) |
+| Nigel's Journey: A Working Day | 133378 | [133378-nigels-journey-a-working-day.json](./133378-nigels-journey-a-working-day.json) |
 | Nigella | 201315 | [201315-nigella.json](./201315-nigella.json) |
 | Nigepico 1.2 | 256514 | [256514-nigepico-1-2.json](./256514-nigepico-1-2.json) |
+| Night and Day | 133406 | [133406-night-and-day.json](./133406-night-and-day.json) |
 | Night and Day | 70378 | [70378-night-and-day.json](./70378-night-and-day.json) |
 | Night at Grandma's | 331330 | [331330-night-at-grandmas.json](./331330-night-at-grandmas.json) |
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
@@ -1279,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
 | Nothing | 282550 | [282550-nothing.json](./282550-nothing.json) |
+| Nothing & Nowhere | 133413 | [133413-nothing-and-nowhere.json](./133413-nothing-and-nowhere.json) |
 | Nothing to Declare | 225067 | [225067-nothing-to-declare.json](./225067-nothing-to-declare.json) |
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
 | Notoris: The Goblin War | 191174 | [191174-notoris-the-goblin-war.json](./191174-notoris-the-goblin-war.json) |
