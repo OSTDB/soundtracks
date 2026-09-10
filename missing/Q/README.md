@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
+| Quán Zhàn Tiānxià | 156616 | [156616-quan-zhan-tianxia.json](./156616-quan-zhan-tianxia.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
 | Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
 | Quantum Apex | 195151 | [195151-quantum-apex.json](./195151-quantum-apex.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Dungeons | 16932 | [16932-quest-of-dungeons.json](./16932-quest-of-dungeons.json) |
 | Quest Room | 199565 | [199565-quest-room.json](./199565-quest-room.json) |
 | Quest room: Hanon | 110547 | [110547-quest-room-hanon.json](./110547-quest-room-hanon.json) |
+| Quest Together | 156696 | [156696-quest-together.json](./156696-quest-together.json) |
 | Quest: Fantasy Challenge | 49950 | [49950-quest-fantasy-challenge.json](./49950-quest-fantasy-challenge.json) |
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
