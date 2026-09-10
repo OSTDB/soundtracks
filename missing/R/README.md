@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
+| Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
 | Ragnarok Crush | 353877 | [353877-ragnarok-crush.json](./353877-ragnarok-crush.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
@@ -1009,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Tanks | 130960 | [130960-retro-tanks.json](./130960-retro-tanks.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
 | Retro Vaders: Reloaded - Classified Projects | 171629 | [171629-retro-vaders-reloaded-classified-projects.json](./171629-retro-vaders-reloaded-classified-projects.json) |
+| Retro Wars | 156092 | [156092-retro-wars.json](./156092-retro-wars.json) |
 | Retro Wave | 306370 | [306370-retro-wave.json](./306370-retro-wave.json) |
 | Retro Wing Prime | 113034 | [113034-retro-wing-prime.json](./113034-retro-wing-prime.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
@@ -1220,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 2: Free Bikes Pack 8 | 226953 | [226953-ride-2-free-bikes-pack-8.json](./226953-ride-2-free-bikes-pack-8.json) |
 | Ride 2: Free Bikes Pack 9 | 226952 | [226952-ride-2-free-bikes-pack-9.json](./226952-ride-2-free-bikes-pack-9.json) |
 | Ride 2: Rising Sun Bikes Pack | 226951 | [226951-ride-2-rising-sun-bikes-pack.json](./226951-ride-2-rising-sun-bikes-pack.json) |
+| Ride 3: Limited Models Pack | 156106 | [156106-ride-3-limited-models-pack.json](./156106-ride-3-limited-models-pack.json) |
 | Ride 4: Bonus Pack 14 | 190708 | [190708-ride-4-bonus-pack-14.json](./190708-ride-4-bonus-pack-14.json) |
 | Ride 4: Naked Japan Style | 190706 | [190706-ride-4-naked-japan-style.json](./190706-ride-4-naked-japan-style.json) |
 | Ride 5: Born to Race Pack | 288213 | [288213-ride-5-born-to-race-pack.json](./288213-ride-5-born-to-race-pack.json) |
@@ -1231,6 +1234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride with the Reaper | 117053 | [117053-ride-with-the-reaper.json](./117053-ride-with-the-reaper.json) |
 | Ride Your Mind | 141208 | [141208-ride-your-mind.json](./141208-ride-your-mind.json) |
 | Ride Your Mind: Blossoms | 141210 | [141210-ride-your-mind-blossoms.json](./141210-ride-your-mind-blossoms.json) |
+| Ride: 2015 Top Bikes Pack 1 | 156115 | [156115-ride-2015-top-bikes-pack-1.json](./156115-ride-2015-top-bikes-pack-1.json) |
 | RideOp: New Heights - Expansion pack | 226950 | [226950-rideop-new-heights-expansion-pack.json](./226950-rideop-new-heights-expansion-pack.json) |
 | Rider | 87651 | [87651-rider.json](./87651-rider.json) |
 | Rider's World: I Want to Ride! | 163942 | [163942-riders-world-i-want-to-ride.json](./163942-riders-world-i-want-to-ride.json) |
@@ -1290,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
 | Riot of Willy | 266807 | [266807-riot-of-willy.json](./266807-riot-of-willy.json) |
+| Riot Operator | 156120 | [156120-riot-operator.json](./156120-riot-operator.json) |
 | RIP | 392756 | [392756-rip.json](./392756-rip.json) |
 | RIP 2: Strike Back | 28922 | [28922-rip-2-strike-back.json](./28922-rip-2-strike-back.json) |
 | RIP 3: The Last Hero | 28923 | [28923-rip-3-the-last-hero.json](./28923-rip-3-the-last-hero.json) |
@@ -1461,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robert D. Anderson & the Legacy of Cthulhu | 20772 | [20772-robert-d-anderson-and-the-legacy-of-cthulhu.json](./20772-robert-d-anderson-and-the-legacy-of-cthulhu.json) |
 | Robert Robie and the Idols of Jade | 189187 | [189187-robert-robie-and-the-idols-of-jade.json](./189187-robert-robie-and-the-idols-of-jade.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
+| Robin Morningwood Adventure: A Gay RPG | 156097 | [156097-robin-morningwood-adventure-a-gay-rpg.json](./156097-robin-morningwood-adventure-a-gay-rpg.json) |
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
 | Robin's Quest: A Legend Born | 17223 | [17223-robins-quest-a-legend-born.json](./17223-robins-quest-a-legend-born.json) |
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
