@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homer the Flanders Killer 6 | 268487 | [268487-homer-the-flanders-killer-6.json](./268487-homer-the-flanders-killer-6.json) |
 | Homerun Clash 2: Legends Derby | 312584 | [312584-homerun-clash-2-legends-derby.json](./312584-homerun-clash-2-legends-derby.json) |
 | Homerun King - Pro Baseball | 39011 | [39011-homerun-king-pro-baseball.json](./39011-homerun-king-pro-baseball.json) |
+| Homerun Touchdown 2017 | 137588 | [137588-homerun-touchdown-2017.json](./137588-homerun-touchdown-2017.json) |
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
@@ -2197,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace | 297489 | [297489-hyperspace.json](./297489-hyperspace.json) |
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
+| Hyperstacks | 137604 | [137604-hyperstacks.json](./137604-hyperstacks.json) |
 | Hypersudoku Puzzle | 58258 | [58258-hypersudoku-puzzle.json](./58258-hypersudoku-puzzle.json) |
 | Hypertrain | 96430 | [96430-hypertrain.json](./96430-hypertrain.json) |
 | Hypertron | 210058 | [210058-hypertron.json](./210058-hypertron.json) |
