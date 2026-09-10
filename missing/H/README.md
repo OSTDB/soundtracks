@@ -896,6 +896,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai MagicalGirl | 237403 | [237403-hentai-magicalgirl.json](./237403-hentai-magicalgirl.json) |
 | Hentai MatureCat | 243162 | [243162-hentai-maturecat.json](./243162-hentai-maturecat.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
+| Hentai MineSweeper | 146280 | [146280-hentai-minesweeper.json](./146280-hentai-minesweeper.json) |
+| Hentai MineSweeper: Endless Mode | 146281 | [146281-hentai-minesweeper-endless-mode.json](./146281-hentai-minesweeper-endless-mode.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
 | Hentai Mosaique Neko Waifus | 167807 | [167807-hentai-mosaique-neko-waifus.json](./167807-hentai-mosaique-neko-waifus.json) |
@@ -924,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stars: Premium Edition | 283172 | [283172-hentai-stars-premium-edition.json](./283172-hentai-stars-premium-edition.json) |
 | Hentai Stars: Superb Edition | 314885 | [314885-hentai-stars-superb-edition.json](./314885-hentai-stars-superb-edition.json) |
 | Hentai Stars: Ultimate Edition | 274475 | [274475-hentai-stars-ultimate-edition.json](./274475-hentai-stars-ultimate-edition.json) |
+| Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
 | Hentai Tales Vol. 2: Hitomi and Sea Trip | 277309 | [277309-hentai-tales-vol-2-hitomi-and-sea-trip.json](./277309-hentai-tales-vol-2-hitomi-and-sea-trip.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
