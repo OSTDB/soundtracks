@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gahkthun of the Golden Lightning: Steam Edition | 33106 | [33106-gahkthun-of-the-golden-lightning-steam-edition.json](./33106-gahkthun-of-the-golden-lightning-steam-edition.json) |
+| GAI Stops Auto: Right Version Simulator | 157125 | [157125-gai-stops-auto-right-version-simulator.json](./157125-gai-stops-auto-right-version-simulator.json) |
 | Gaia Attack 4 | 64962 | [64962-gaia-attack-4.json](./64962-gaia-attack-4.json) |
 | Gaia Trek | 248039 | [248039-gaia-trek.json](./248039-gaia-trek.json) |
 | Gaia-ttack | 330159 | [330159-gaia-ttack.json](./330159-gaia-ttack.json) |
@@ -1815,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
 | Guns and Grapples | 152363 | [152363-guns-and-grapples.json](./152363-guns-and-grapples.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
+| Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
