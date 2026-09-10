@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
+| Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
 | Fairy Godmother Stories: Puss in Boots Collector's Edition | 151202 | [151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json](./151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json) |
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
@@ -1048,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Queen III | 302699 | [302699-first-queen-iii.json](./302699-first-queen-iii.json) |
 | First Queen IV: Varcia Senki | 152384 | [152384-first-queen-iv-varcia-senki.json](./152384-first-queen-iv-varcia-senki.json) |
 | First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
+| First Snow | 132765 | [132765-first-snow.json](./132765-first-snow.json) |
 | First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Strike | 24942 | [24942-first-strike.json](./24942-first-strike.json) |
@@ -1763,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklore | 196803 | [196803-forklore.json](./196803-forklore.json) |
 | Forlorn | 280804 | [280804-forlorn.json](./280804-forlorn.json) |
 | Forlorn Memories | 214761 | [214761-forlorn-memories.json](./214761-forlorn-memories.json) |
+| Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
 | Formation Soccer: Human Cup '90 | 42046 | [42046-formation-soccer-human-cup-90.json](./42046-formation-soccer-human-cup-90.json) |
