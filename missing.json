@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T18:33:52.735Z",
-  "total_missing": 54818,
+  "generated_at": "2026-09-10T18:41:05.956Z",
+  "total_missing": 54817,
   "games": [
     {
       "igdb_id": 306086,
@@ -1616,11 +1616,6 @@
       "igdb_id": 65522,
       "game_name": "8bit Killer",
       "file": "missing/0-9/65522-8bit-killer.json"
-    },
-    {
-      "igdb_id": 97881,
-      "game_name": "8bit-Collection Culture Brain Vol. 01",
-      "file": "missing/0-9/97881-8bit-collection-culture-brain-vol-01.json"
     },
     {
       "igdb_id": 97886,
