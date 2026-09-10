@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Secret Facility | 336353 | [336353-scp-secret-facility.json](./336353-scp-secret-facility.json) |
 | SCP: Site-19 | 242246 | [242246-scp-site-19.json](./242246-scp-site-19.json) |
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
+| Scrabble | 131524 | [131524-scrabble.json](./131524-scrabble.json) |
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
@@ -1031,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
+| September is Halfway Over | 131552 | [131552-september-is-halfway-over.json](./131552-september-is-halfway-over.json) |
 | Septic | 324321 | [324321-septic.json](./324321-septic.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
@@ -2828,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Clubs | 235998 | [235998-soccer-clubs.json](./235998-soccer-clubs.json) |
 | Soccer Cup: World League | 232135 | [232135-soccer-cup-world-league.json](./232135-soccer-cup-world-league.json) |
 | Soccer Feeling | 59444 | [59444-soccer-feeling.json](./59444-soccer-feeling.json) |
+| Soccer for Arcadia 2001 | 131540 | [131540-soccer-for-arcadia-2001.json](./131540-soccer-for-arcadia-2001.json) |
 | Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
@@ -5259,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudocats | 193466 | [193466-sudocats.json](./193466-sudocats.json) |
 | SudoKats | 164995 | [164995-sudokats.json](./164995-sudokats.json) |
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
+| Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
 | Sudoku | 397667 | [397667-sudoku.json](./397667-sudoku.json) |
 | SuDoku & KaKuro Collector's Edition | 208360 | [208360-sudoku-and-kakuro-collectors-edition.json](./208360-sudoku-and-kakuro-collectors-edition.json) |
@@ -6111,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
 | SuperLite 2000: Oekaki Puzzle | 386127 | [386127-superlite-2000-oekaki-puzzle.json](./386127-superlite-2000-oekaki-puzzle.json) |
+| Superman | 131546 | [131546-superman.json](./131546-superman.json) |
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
 | Superman: Man of Steel | 264862 | [264862-superman-man-of-steel.json](./264862-superman-man-of-steel.json) |
