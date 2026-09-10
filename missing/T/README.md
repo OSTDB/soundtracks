@@ -876,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris DS | 18599 | [18599-tetris-ds.json](./18599-tetris-ds.json) |
 | Tetris DS | 238199 | [238199-tetris-ds.json](./238199-tetris-ds.json) |
 | Tetris Keyring Arcade | 234080 | [234080-tetris-keyring-arcade.json](./234080-tetris-keyring-arcade.json) |
+| Tetris Kiwamemichi | 137623 | [137623-tetris-kiwamemichi.json](./137623-tetris-kiwamemichi.json) |
 | Tetris MicroCard | 234081 | [234081-tetris-microcard.json](./234081-tetris-microcard.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
 | Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
@@ -1674,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of Balance | 192385 | [192385-the-fall-of-balance.json](./192385-the-fall-of-balance.json) |
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
 | The Fall of Elements | 264607 | [264607-the-fall-of-elements.json](./264607-the-fall-of-elements.json) |
+| The Fall of Eskaria | 137630 | [137630-the-fall-of-eskaria.json](./137630-the-fall-of-eskaria.json) |
 | The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
 | The Fall of Rome | 262401 | [262401-the-fall-of-rome.json](./262401-the-fall-of-rome.json) |
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
@@ -3421,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
+| The War of Genesis: Remnants of Gray | 137626 | [137626-the-war-of-genesis-remnants-of-gray.json](./137626-the-war-of-genesis-remnants-of-gray.json) |
 | The War of the Worlds | 25730 | [25730-the-war-of-the-worlds.json](./25730-the-war-of-the-worlds.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
@@ -5328,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
 | TransBot | 29136 | [29136-transbot.json](./29136-transbot.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
+| Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
 | Transformers: Battle Masters | 70993 | [70993-transformers-battle-masters.json](./70993-transformers-battle-masters.json) |
 | Transformers: Battle Tactics | 60584 | [60584-transformers-battle-tactics.json](./60584-transformers-battle-tactics.json) |
 | Transformers: Battlegrounds - Complete Edition | 188638 | [188638-transformers-battlegrounds-complete-edition.json](./188638-transformers-battlegrounds-complete-edition.json) |
