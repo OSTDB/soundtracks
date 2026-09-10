@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
+| Wing Chun: Pak Sung Bo Legends | 165702 | [165702-wing-chun-pak-sung-bo-legends.json](./165702-wing-chun-pak-sung-bo-legends.json) |
 | Wing Commander: Armada | 8824 | [8824-wing-commander-armada.json](./8824-wing-commander-armada.json) |
 | Wing Commander: Privateer | 794 | [794-wing-commander-privateer.json](./794-wing-commander-privateer.json) |
 | Wing Commander: Prophecy | 935 | [935-wing-commander-prophecy.json](./935-wing-commander-prophecy.json) |
