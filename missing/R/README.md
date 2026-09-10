@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of the Haunting | 844 | [844-realms-of-the-haunting.json](./844-realms-of-the-haunting.json) |
 | Realpolitiks 3: Earth and Beyond | 309890 | [309890-realpolitiks-3-earth-and-beyond.json](./309890-realpolitiks-3-earth-and-beyond.json) |
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
+| Reanimation Scheme | 158647 | [158647-reanimation-scheme.json](./158647-reanimation-scheme.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
 | Reap: We Reap What Crawls | 363874 | [363874-reap-we-reap-what-crawls.json](./363874-reap-we-reap-what-crawls.json) |
 | Reaper Actual | 352748 | [352748-reaper-actual.json](./352748-reaper-actual.json) |
@@ -1749,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
 | Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
+| Roman Empire Wars | 158644 | [158644-roman-empire-wars.json](./158644-roman-empire-wars.json) |
 | Roman Sacrifice in Córdoba | 74447 | [74447-roman-sacrifice-in-cordoba.json](./74447-roman-sacrifice-in-cordoba.json) |
 | Roman Sands RE:Build | 229067 | [229067-roman-sands-re-build.json](./229067-roman-sands-re-build.json) |
 | Roman the Worm | 105336 | [105336-roman-the-worm.json](./105336-roman-the-worm.json) |
