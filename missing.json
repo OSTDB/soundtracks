@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T01:31:14.600Z",
-  "total_missing": 52492,
+  "generated_at": "2026-09-10T01:41:12.678Z",
+  "total_missing": 52500,
   "games": [
     {
       "igdb_id": 306086,
@@ -1201,11 +1201,6 @@
       "igdb_id": 60581,
       "game_name": "3D Shooting Tsukuuru",
       "file": "missing/0-9/60581-3d-shooting-tsukuuru.json"
-    },
-    {
-      "igdb_id": 293101,
-      "game_name": "3D Skills Start Here",
-      "file": "missing/0-9/293101-3d-skills-start-here.json"
     },
     {
       "igdb_id": 100864,
@@ -26626,6 +26621,11 @@
       "igdb_id": 201765,
       "game_name": "Blind Monk's Society",
       "file": "missing/B/201765-blind-monks-society.json"
+    },
+    {
+      "igdb_id": 167264,
+      "game_name": "Blind Quest: The Frost Demon",
+      "file": "missing/B/167264-blind-quest-the-frost-demon.json"
     },
     {
       "igdb_id": 145003,
@@ -55408,9 +55408,19 @@
       "file": "missing/D/17224-deponia-the-complete-journey.json"
     },
     {
+      "igdb_id": 167273,
+      "game_name": "Depth Hunter 2: Ocean Mysteries",
+      "file": "missing/D/167273-depth-hunter-2-ocean-mysteries.json"
+    },
+    {
       "igdb_id": 167274,
       "game_name": "Depth Hunter 2: Scuba Kids - Hidden Treasures",
       "file": "missing/D/167274-depth-hunter-2-scuba-kids-hidden-treasures.json"
+    },
+    {
+      "igdb_id": 167272,
+      "game_name": "Depth Hunter 2: Treasure Hunter",
+      "file": "missing/D/167272-depth-hunter-2-treasure-hunter.json"
     },
     {
       "igdb_id": 317854,
@@ -95323,6 +95333,11 @@
       "file": "missing/H/35942-hashtag-dungeon.json"
     },
     {
+      "igdb_id": 167266,
+      "game_name": "Haste",
+      "file": "missing/H/167266-haste.json"
+    },
+    {
       "igdb_id": 33127,
       "game_name": "Hastilude",
       "file": "missing/H/33127-hastilude.json"
@@ -115576,6 +115591,11 @@
       "igdb_id": 127094,
       "game_name": "Kill The Emoji: The Remake",
       "file": "missing/K/127094-kill-the-emoji-the-remake.json"
+    },
+    {
+      "igdb_id": 167269,
+      "game_name": "Kill the Humans",
+      "file": "missing/K/167269-kill-the-humans.json"
     },
     {
       "igdb_id": 261794,
@@ -145196,6 +145216,11 @@
       "igdb_id": 165679,
       "game_name": "Mysterious warrior",
       "file": "missing/M/165679-mysterious-warrior.json"
+    },
+    {
+      "igdb_id": 167267,
+      "game_name": "Mystery",
+      "file": "missing/M/167267-mystery.json"
     },
     {
       "igdb_id": 257360,
@@ -185553,6 +185578,11 @@
       "file": "missing/S/401476-salty-dogs.json"
     },
     {
+      "igdb_id": 167265,
+      "game_name": "Salubrious Scales",
+      "file": "missing/S/167265-salubrious-scales.json"
+    },
+    {
       "igdb_id": 241645,
       "game_name": "Salvador",
       "file": "missing/S/241645-salvador.json"
@@ -207943,6 +207973,11 @@
       "file": "missing/S/366262-stoneville-manor.json"
     },
     {
+      "igdb_id": 167271,
+      "game_name": "Stonks-9800: Stock Market Simulator",
+      "file": "missing/S/167271-stonks-9800-stock-market-simulator.json"
+    },
+    {
       "igdb_id": 93567,
       "game_name": "Stop and Go",
       "file": "missing/S/93567-stop-and-go.json"
@@ -226216,6 +226251,11 @@
       "igdb_id": 130921,
       "game_name": "The Legend of Eldridge Scrolls: Woop",
       "file": "missing/T/130921-the-legend-of-eldridge-scrolls-woop.json"
+    },
+    {
+      "igdb_id": 167268,
+      "game_name": "The Legend of Eratus: Dragonlord",
+      "file": "missing/T/167268-the-legend-of-eratus-dragonlord.json"
     },
     {
       "igdb_id": 28892,
