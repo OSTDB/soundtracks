@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chai | 236280 | [236280-chai.json](./236280-chai.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
+| Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
@@ -3267,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Army: A Cat Story | 176448 | [176448-cute-army-a-cat-story.json](./176448-cute-army-a-cat-story.json) |
 | Cute Blocks | 264329 | [264329-cute-blocks.json](./264329-cute-blocks.json) |
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
+| Cute Cats | 163399 | [163399-cute-cats.json](./163399-cute-cats.json) |
 | Cute Cats 2 | 195170 | [195170-cute-cats-2.json](./195170-cute-cats-2.json) |
 | Cute Cock Clicker | 218151 | [218151-cute-cock-clicker.json](./218151-cute-cock-clicker.json) |
 | Cute Demon Crashers! | 58801 | [58801-cute-demon-crashers.json](./58801-cute-demon-crashers.json) |
