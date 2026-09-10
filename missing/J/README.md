@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jangou 1 | 123077 | [123077-jangou-1.json](./123077-jangou-1.json) |
 | Jangou 2 | 123076 | [123076-jangou-2.json](./123076-jangou-2.json) |
 | Jangou World Cup | 123075 | [123075-jangou-world-cup.json](./123075-jangou-world-cup.json) |
+| Janitor Bleeds | 144938 | [144938-janitor-bleeds.json](./144938-janitor-bleeds.json) |
 | Janitor Simulator | 178577 | [178577-janitor-simulator.json](./178577-janitor-simulator.json) |
 | JanKen Battle Arena | 245051 | [245051-janken-battle-arena.json](./245051-janken-battle-arena.json) |
 | Janken Shogi | 216223 | [216223-janken-shogi.json](./216223-janken-shogi.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart 3D Virtual World: Trouble in Town | 200191 | [200191-jumpstart-3d-virtual-world-trouble-in-town.json](./200191-jumpstart-3d-virtual-world-trouble-in-town.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
 | JumpStart Preschool | 315521 | [315521-jumpstart-preschool.json](./315521-jumpstart-preschool.json) |
+| JumpStart Reading for Second Graders | 144929 | [144929-jumpstart-reading-for-second-graders.json](./144929-jumpstart-reading-for-second-graders.json) |
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
 | Jumpster | 94219 | [94219-jumpster.json](./94219-jumpster.json) |
 | Jumpwad | 228063 | [228063-jumpwad.json](./228063-jumpwad.json) |
