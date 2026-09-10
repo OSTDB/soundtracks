@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versailles Mysteries: Oscar and the Athanor | 11034 | [11034-versailles-mysteries-oscar-and-the-athanor.json](./11034-versailles-mysteries-oscar-and-the-athanor.json) |
 | Versalis | 365095 | [365095-versalis.json](./365095-versalis.json) |
 | Verse Hopper | 312910 | [312910-verse-hopper.json](./312910-verse-hopper.json) |
+| Verse Surf | 141800 | [141800-verse-surf.json](./141800-verse-surf.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
@@ -351,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vibrant Venture | 127991 | [127991-vibrant-venture.json](./127991-vibrant-venture.json) |
 | Vic Panic | 130371 | [130371-vic-panic.json](./130371-vic-panic.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
+| Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
 | Vicious Growth | 203924 | [203924-vicious-growth.json](./203924-vicious-growth.json) |
 | Vicious Red | 249793 | [249793-vicious-red.json](./249793-vicious-red.json) |
 | Vicky Saves the Big Dumb World | 34415 | [34415-vicky-saves-the-big-dumb-world.json](./34415-vicky-saves-the-big-dumb-world.json) |
@@ -568,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viz: The Soft Floppy One | 67993 | [67993-viz-the-soft-floppy-one.json](./67993-viz-the-soft-floppy-one.json) |
 | Vlad Circus: Curse of Asmodeus | 337993 | [337993-vlad-circus-curse-of-asmodeus.json](./337993-vlad-circus-curse-of-asmodeus.json) |
 | Vlad the Impaler | 17309 | [17309-vlad-the-impaler.json](./17309-vlad-the-impaler.json) |
+| Vladiators | 141831 | [141831-vladiators.json](./141831-vladiators.json) |
 | Vladimere's Lhore | 216497 | [216497-vladimeres-lhore.json](./216497-vladimeres-lhore.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
