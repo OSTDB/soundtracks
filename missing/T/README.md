@@ -2227,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel II | 13558 | [13558-the-legend-of-heroes-trails-of-cold-steel-ii.json](./13558-the-legend-of-heroes-trails-of-cold-steel-ii.json) |
 | The Legend of Heroes: Trails of Cold Steel II - All Ride-Alongs | 124812 | [124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json](./124812-the-legend-of-heroes-trails-of-cold-steel-ii-all-ride-alongs.json) |
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
+| The Legend of Karl | 143660 | [143660-the-legend-of-karl.json](./143660-the-legend-of-karl.json) |
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
 | The Legend of Lumina | 302360 | [302360-the-legend-of-lumina.json](./302360-the-legend-of-lumina.json) |
 | The Legend of Nayuta: Boundless Trails | 42722 | [42722-the-legend-of-nayuta-boundless-trails.json](./42722-the-legend-of-nayuta-boundless-trails.json) |
@@ -2565,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Obscura Experiment | 239652 | [239652-the-obscura-experiment.json](./239652-the-obscura-experiment.json) |
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
+| The Ocean | 143678 | [143678-the-ocean.json](./143678-the-ocean.json) |
 | The Odarian Accounts | 218705 | [218705-the-odarian-accounts.json](./218705-the-odarian-accounts.json) |
 | The Odd Neon Void | 132246 | [132246-the-odd-neon-void.json](./132246-the-odd-neon-void.json) |
 | The Odyssey of the Mammoth | 191831 | [191831-the-odyssey-of-the-mammoth.json](./191831-the-odyssey-of-the-mammoth.json) |
@@ -2585,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One: Chapter 2 | 244230 | [244230-the-one-chapter-2.json](./244230-the-one-chapter-2.json) |
 | The Only One Girl 1stQ | 184049 | [184049-the-only-one-girl-1stq.json](./184049-the-only-one-girl-1stq.json) |
 | The Ooze | 46251 | [46251-the-ooze.json](./46251-the-ooze.json) |
+| The Operation Death Wing | 143654 | [143654-the-operation-death-wing.json](./143654-the-operation-death-wing.json) |
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
 | The Oracle's Cave | 312556 | [312556-the-oracles-cave.json](./312556-the-oracles-cave.json) |
 | The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
@@ -4993,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
+| Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
 | Tradewinds Caravan | 59455 | [59455-tradewinds-caravan.json](./59455-tradewinds-caravan.json) |
 | Tradewinds Legends | 59454 | [59454-tradewinds-legends.json](./59454-tradewinds-legends.json) |
