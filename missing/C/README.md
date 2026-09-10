@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Hill | 324310 | [324310-chicken-hill.json](./324310-chicken-hill.json) |
 | Chicken in the Darkness | 110341 | [110341-chicken-in-the-darkness.json](./110341-chicken-in-the-darkness.json) |
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
+| Chicken Invaders 3: Easter Edition | 155576 | [155576-chicken-invaders-3-easter-edition.json](./155576-chicken-invaders-3-easter-edition.json) |
 | Chicken Invaders 5: Christmas Edition | 108464 | [108464-chicken-invaders-5-christmas-edition.json](./108464-chicken-invaders-5-christmas-edition.json) |
 | Chicken Nuggets | 180224 | [180224-chicken-nuggets.json](./180224-chicken-nuggets.json) |
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
@@ -3331,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
 | Cyber Rats | 336523 | [336523-cyber-rats.json](./336523-cyber-rats.json) |
+| Cyber Rider | 155671 | [155671-cyber-rider.json](./155671-cyber-rider.json) |
 | Cyber Runner 2048 | 192393 | [192393-cyber-runner-2048.json](./192393-cyber-runner-2048.json) |
 | Cyber Russia | 300693 | [300693-cyber-russia.json](./300693-cyber-russia.json) |
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
