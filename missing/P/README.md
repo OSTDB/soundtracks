@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
+| Pettan Pyuu | 151160 | [151160-pettan-pyuu.json](./151160-pettan-pyuu.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
@@ -2849,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppeTNetiK: Speedrun Challenge | 152365 | [152365-puppetnetik-speedrun-challenge.json](./152365-puppetnetik-speedrun-challenge.json) |
 | Puppy Balloon Ride | 213392 | [213392-puppy-balloon-ride.json](./213392-puppy-balloon-ride.json) |
 | Puppy Drome | 260669 | [260669-puppy-drome.json](./260669-puppy-drome.json) |
+| Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
 | Pure Blood | 310933 | [310933-pure-blood.json](./310933-pure-blood.json) |
