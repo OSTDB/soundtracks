@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
 | Wonka Block Party | 373531 | [373531-wonka-block-party.json](./373531-wonka-block-party.json) |
+| Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
 | Wood & Weather | 212817 | [212817-wood-and-weather.json](./212817-wood-and-weather.json) |
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
 | Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
@@ -1559,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWC: World Wrestling Championship | 46028 | [46028-wwc-world-wrestling-championship.json](./46028-wwc-world-wrestling-championship.json) |
 | WWE | 220132 | [220132-wwe.json](./220132-wwe.json) |
 | WWE 2K17: Accelerator | 168353 | [168353-wwe-2k17-accelerator.json](./168353-wwe-2k17-accelerator.json) |
+| WWE 2K17: Future Stars Pack | 168340 | [168340-wwe-2k17-future-stars-pack.json](./168340-wwe-2k17-future-stars-pack.json) |
 | WWE 2K17: Hall of Fame Showcase | 168352 | [168352-wwe-2k17-hall-of-fame-showcase.json](./168352-wwe-2k17-hall-of-fame-showcase.json) |
 | WWE 2K17: Legends Pack | 168350 | [168350-wwe-2k17-legends-pack.json](./168350-wwe-2k17-legends-pack.json) |
 | WWE 2K17: New Moves Pack | 168354 | [168354-wwe-2k17-new-moves-pack.json](./168354-wwe-2k17-new-moves-pack.json) |
