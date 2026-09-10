@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T00:01:15.432Z",
-  "total_missing": 52290,
+  "generated_at": "2026-09-10T00:11:12.712Z",
+  "total_missing": 52298,
   "games": [
     {
       "igdb_id": 306086,
@@ -1156,11 +1156,6 @@
       "igdb_id": 410226,
       "game_name": "3D Fast & Furious",
       "file": "missing/0-9/410226-3d-fast-and-furious.json"
-    },
-    {
-      "igdb_id": 205839,
-      "game_name": "3D Galaxy Fighters",
-      "file": "missing/0-9/205839-3d-galaxy-fighters.json"
     },
     {
       "igdb_id": 205073,
@@ -24541,6 +24536,11 @@
       "igdb_id": 216455,
       "game_name": "Bikini Balls 2: Christmas Edition",
       "file": "missing/B/216455-bikini-balls-2-christmas-edition.json"
+    },
+    {
+      "igdb_id": 169418,
+      "game_name": "Bikini Girls",
+      "file": "missing/B/169418-bikini-girls.json"
     },
     {
       "igdb_id": 297807,
@@ -54091,6 +54091,11 @@
       "igdb_id": 86940,
       "game_name": "Deer Hunter Classic",
       "file": "missing/D/86940-deer-hunter-classic.json"
+    },
+    {
+      "igdb_id": 169420,
+      "game_name": "Deer Hunter x Treme Focal Plane",
+      "file": "missing/D/169420-deer-hunter-x-treme-focal-plane.json"
     },
     {
       "igdb_id": 19045,
@@ -84721,6 +84726,11 @@
       "igdb_id": 194023,
       "game_name": "Game of Legends: Rise of Champions",
       "file": "missing/G/194023-game-of-legends-rise-of-champions.json"
+    },
+    {
+      "igdb_id": 169415,
+      "game_name": "Game of Mafia",
+      "file": "missing/G/169415-game-of-mafia.json"
     },
     {
       "igdb_id": 163428,
@@ -122908,6 +122918,11 @@
       "file": "missing/L/145018-lire.json"
     },
     {
+      "igdb_id": 169413,
+      "game_name": "Lisa and the Grimoire",
+      "file": "missing/L/169413-lisa-and-the-grimoire.json"
+    },
+    {
       "igdb_id": 382794,
       "game_name": "Lisa: The Gluttonous",
       "file": "missing/L/382794-lisa-the-gluttonous.json"
@@ -127331,6 +127346,11 @@
       "igdb_id": 301819,
       "game_name": "Mage vs. Castle",
       "file": "missing/M/301819-mage-vs-castle.json"
+    },
+    {
+      "igdb_id": 169419,
+      "game_name": "Mage World: The Wizard's Stone",
+      "file": "missing/M/169419-mage-world-the-wizards-stone.json"
     },
     {
       "igdb_id": 169946,
@@ -177748,6 +177768,11 @@
       "file": "missing/R/326979-restoring-falmay.json"
     },
     {
+      "igdb_id": 169414,
+      "game_name": "Restricted Area",
+      "file": "missing/R/169414-restricted-area.json"
+    },
+    {
       "igdb_id": 285487,
       "game_name": "Resttore",
       "file": "missing/R/285487-resttore.json"
@@ -201098,6 +201123,11 @@
       "file": "missing/S/25617-space-rangers-quest.json"
     },
     {
+      "igdb_id": 169417,
+      "game_name": "Space Rescue: Code Pink",
+      "file": "missing/S/169417-space-rescue-code-pink.json"
+    },
+    {
       "igdb_id": 158217,
       "game_name": "Space Revenge",
       "file": "missing/S/158217-space-revenge.json"
@@ -202796,6 +202826,11 @@
       "igdb_id": 291231,
       "game_name": "Spirulena Interceptor",
       "file": "missing/S/291231-spirulena-interceptor.json"
+    },
+    {
+      "igdb_id": 169421,
+      "game_name": "Spish",
+      "file": "missing/S/169421-spish.json"
     },
     {
       "igdb_id": 308539,
@@ -228296,6 +228331,11 @@
       "igdb_id": 185646,
       "game_name": "The Sea Has No Claim",
       "file": "missing/T/185646-the-sea-has-no-claim.json"
+    },
+    {
+      "igdb_id": 169416,
+      "game_name": "The Sea Hotel: Umineko Tei",
+      "file": "missing/T/169416-the-sea-hotel-umineko-tei.json"
     },
     {
       "igdb_id": 30193,
