@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Master: Resurrection | 334665 | [334665-ghost-master-resurrection.json](./334665-ghost-master-resurrection.json) |
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
+| Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
 | Ghost Pursuit VR | 31977 | [31977-ghost-pursuit-vr.json](./31977-ghost-pursuit-vr.json) |
 | Ghost Rider | 218142 | [218142-ghost-rider.json](./218142-ghost-rider.json) |
