@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
+| Senses: Midnight | 153980 | [153980-senses-midnight.json](./153980-senses-midnight.json) |
 | Sensha SP | 222290 | [222290-sensha-sp.json](./222290-sensha-sp.json) |
 | Sensible Blood Rugby | 175879 | [175879-sensible-blood-rugby.json](./175879-sensible-blood-rugby.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
@@ -4200,6 +4201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
+| Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
@@ -4632,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Magal: Fists of Brutal Truth | 341888 | [341888-steve-magal-fists-of-brutal-truth.json](./341888-steve-magal-fists-of-brutal-truth.json) |
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
+| Steve's HardCore WorldTour | 153973 | [153973-steves-hardcore-worldtour.json](./153973-steves-hardcore-worldtour.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
@@ -5131,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
+| Suicide For Him | 153966 | [153966-suicide-for-him.json](./153966-suicide-for-him.json) |
 | Suicide Guy: Sleepin' Deeply | 102917 | [102917-suicide-guy-sleepin-deeply.json](./102917-suicide-guy-sleepin-deeply.json) |
 | Suicide Hero | 244279 | [244279-suicide-hero.json](./244279-suicide-hero.json) |
 | Suicide Squad: Kill the Justice League - Season of Freeze | 317869 | [317869-suicide-squad-kill-the-justice-league-season-of-freeze.json](./317869-suicide-squad-kill-the-justice-league-season-of-freeze.json) |
