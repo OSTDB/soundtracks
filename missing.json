@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:07:23.193Z",
-  "total_missing": 54213,
+  "generated_at": "2026-09-10T15:11:06.033Z",
+  "total_missing": 54212,
   "games": [
     {
       "igdb_id": 306086,
@@ -1511,11 +1511,6 @@
       "igdb_id": 121777,
       "game_name": "70 Seconds! Adventure",
       "file": "missing/0-9/121777-70-seconds-adventure.json"
-    },
-    {
-      "igdb_id": 15580,
-      "game_name": "737 Flight Simulator",
-      "file": "missing/0-9/15580-737-flight-simulator.json"
     },
     {
       "igdb_id": 15582,
