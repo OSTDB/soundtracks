@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
+| Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
 | Hentai Balls 3D: Sexy Girls | 390497 | [390497-hentai-balls-3d-sexy-girls.json](./390497-hentai-balls-3d-sexy-girls.json) |
 | Hentai beautiful girls 4 | 164427 | [164427-hentai-beautiful-girls-4.json](./164427-hentai-beautiful-girls-4.json) |
 | Hentai Dating Stories: Brazil - Best Stories 1 | 308788 | [308788-hentai-dating-stories-brazil-best-stories-1.json](./308788-hentai-dating-stories-brazil-best-stories-1.json) |
@@ -1671,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
 | Horny Dungeon | 272285 | [272285-horny-dungeon.json](./272285-horny-dungeon.json) |
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
+| Horny Honey | 156628 | [156628-horny-honey.json](./156628-horny-honey.json) |
 | Horny Spell | 226189 | [226189-horny-spell.json](./226189-horny-spell.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horror Amusement Park | 249213 | [249213-horror-amusement-park.json](./249213-horror-amusement-park.json) |
