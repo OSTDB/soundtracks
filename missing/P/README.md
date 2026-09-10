@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
+| Plunderers Adventures: Sea of Whores | 147412 | [147412-plunderers-adventures-sea-of-whores.json](./147412-plunderers-adventures-sea-of-whores.json) |
 | Plunge | 78780 | [78780-plunge.json](./78780-plunge.json) |
 | Plunger Boyz | 190148 | [190148-plunger-boyz.json](./190148-plunger-boyz.json) |
 | Plunger Simulator | 165653 | [165653-plunger-simulator.json](./165653-plunger-simulator.json) |
