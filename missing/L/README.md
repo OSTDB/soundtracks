@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
+| Life In Planet | 152860 | [152860-life-in-planet.json](./152860-life-in-planet.json) |
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
@@ -959,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liona's Adventure | 258447 | [258447-lionas-adventure.json](./258447-lionas-adventure.json) |
 | Lionkiller | 138256 | [138256-lionkiller.json](./138256-lionkiller.json) |
 | Lips Breaker | 332848 | [332848-lips-breaker.json](./332848-lips-breaker.json) |
+| Lipstick Assassin | 152847 | [152847-lipstick-assassin.json](./152847-lipstick-assassin.json) |
 | LipTrip: My Boss is My Heat Suppressant | 271985 | [271985-liptrip-my-boss-is-my-heat-suppressant.json](./271985-liptrip-my-boss-is-my-heat-suppressant.json) |
 | Liquid Abyss: The Melted Jelly | 331883 | [331883-liquid-abyss-the-melted-jelly.json](./331883-liquid-abyss-the-melted-jelly.json) |
 | Liquid Light | 286001 | [286001-liquid-light.json](./286001-liquid-light.json) |
@@ -1120,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard | 19574 | [19574-lizard.json](./19574-lizard.json) |
 | Lizard | 89223 | [89223-lizard.json](./89223-lizard.json) |
 | Lizard Crash | 25759 | [25759-lizard-crash.json](./25759-lizard-crash.json) |
+| Lizard Lady vs the Cats | 152856 | [152856-lizard-lady-vs-the-cats.json](./152856-lizard-lady-vs-the-cats.json) |
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
