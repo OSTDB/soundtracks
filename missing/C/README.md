@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
+| Captain Toad Treasure Tracker | 162427 | [162427-captain-toad-treasure-tracker.json](./162427-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker - Special Edition | 51139 | [51139-captain-toad-treasure-tracker-special-edition.json](./51139-captain-toad-treasure-tracker-special-edition.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
@@ -1385,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
 | Chronos Twins | 85540 | [85540-chronos-twins.json](./85540-chronos-twins.json) |
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
+| Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
 | Chuǎngguān Shā II | 113019 | [113019-chuangguan-sha-ii.json](./113019-chuangguan-sha-ii.json) |
 | Chuǎngguān Yóuxì | 406094 | [406094-chuangguan-youxi.json](./406094-chuangguan-youxi.json) |
