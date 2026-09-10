@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T06:49:07.817Z",
-  "total_missing": 53349,
+  "generated_at": "2026-09-10T06:51:21.071Z",
+  "total_missing": 53348,
   "games": [
     {
       "igdb_id": 306086,
@@ -1356,11 +1356,6 @@
       "igdb_id": 139436,
       "game_name": "4x4 Mania",
       "file": "missing/0-9/139436-4x4-mania.json"
-    },
-    {
-      "igdb_id": 264899,
-      "game_name": "4x4 Offroad Car Exploration",
-      "file": "missing/0-9/264899-4x4-offroad-car-exploration.json"
     },
     {
       "igdb_id": 219294,
