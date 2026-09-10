@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T11:51:10.302Z",
-  "total_missing": 53689,
+  "generated_at": "2026-09-10T12:01:20.517Z",
+  "total_missing": 53693,
   "games": [
     {
       "igdb_id": 306086,
@@ -1416,11 +1416,6 @@
       "igdb_id": 314628,
       "game_name": "60 Minute Marathon 2",
       "file": "missing/0-9/314628-60-minute-marathon-2.json"
-    },
-    {
-      "igdb_id": 370113,
-      "game_name": "60 Minutes to Extinction: Escape Room",
-      "file": "missing/0-9/370113-60-minutes-to-extinction-escape-room.json"
     },
     {
       "igdb_id": 262068,
@@ -85933,6 +85928,11 @@
       "file": "missing/G/304895-galaxiverse-ii.json"
     },
     {
+      "igdb_id": 154578,
+      "game_name": "Galaxy",
+      "file": "missing/G/154578-galaxy.json"
+    },
+    {
       "igdb_id": 381043,
       "game_name": "Galaxy",
       "file": "missing/G/381043-galaxy.json"
@@ -99386,6 +99386,11 @@
       "igdb_id": 95425,
       "game_name": "Hercules",
       "file": "missing/H/95425-hercules.json"
+    },
+    {
+      "igdb_id": 154575,
+      "game_name": "Herdyn, Wanna be MaN",
+      "file": "missing/H/154575-herdyn-wanna-be-man.json"
     },
     {
       "igdb_id": 410923,
@@ -213528,6 +213533,11 @@
       "file": "missing/S/105969-sudoku-scapes.json"
     },
     {
+      "igdb_id": 154574,
+      "game_name": "Sudoku Starry Sky",
+      "file": "missing/S/154574-sudoku-starry-sky.json"
+    },
+    {
       "igdb_id": 84912,
       "game_name": "Sudoku Student",
       "file": "missing/S/84912-sudoku-student.json"
@@ -242113,6 +242123,11 @@
       "file": "missing/T/157167-tombo-survivor.json"
     },
     {
+      "igdb_id": 154577,
+      "game_name": "Tomboy Adventure",
+      "file": "missing/T/154577-tomboy-adventure.json"
+    },
+    {
       "igdb_id": 215142,
       "game_name": "Tombs & Treasure",
       "file": "missing/T/215142-tombs-and-treasure.json"
@@ -262201,6 +262216,11 @@
       "igdb_id": 152930,
       "game_name": "Word Escape",
       "file": "missing/W/152930-word-escape.json"
+    },
+    {
+      "igdb_id": 154576,
+      "game_name": "Word Factori",
+      "file": "missing/W/154576-word-factori.json"
     },
     {
       "igdb_id": 131583,
