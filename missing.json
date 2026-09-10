@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T21:18:36.125Z",
-  "total_missing": 55275,
+  "generated_at": "2026-09-10T21:21:00.194Z",
+  "total_missing": 55274,
   "games": [
     {
       "igdb_id": 306086,
@@ -1696,11 +1696,6 @@
       "igdb_id": 149546,
       "game_name": "911 Operator: Special Resources",
       "file": "missing/0-9/149546-911-operator-special-resources.json"
-    },
-    {
-      "igdb_id": 27787,
-      "game_name": "94 Degrees: fun trivia quiz",
-      "file": "missing/0-9/27787-94-degrees-fun-trivia-quiz.json"
     },
     {
       "igdb_id": 27788,
