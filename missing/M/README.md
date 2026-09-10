@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom 3: Monster Roadtrip - Hitchhiker Pack: Vicky & Brian | 241967 | [241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json](./241967-monster-prom-3-monster-roadtrip-hitchhiker-pack-vicky-and-brian.json) |
 | Monster Prom 3: Monster Roadtrip x Cult of the Lamb | 272830 | [272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json](./272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
+| Monster Prom: Second Term | 155070 | [155070-monster-prom-second-term.json](./155070-monster-prom-second-term.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Retsuden Oreca Battle | 365701 | [365701-monster-retsuden-oreca-battle.json](./365701-monster-retsuden-oreca-battle.json) |
