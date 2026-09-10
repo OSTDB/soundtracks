@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore the Grotto | 307580 | [307580-explore-the-grotto.json](./307580-explore-the-grotto.json) |
 | Explorers of Esmar | 323178 | [323178-explorers-of-esmar.json](./323178-explorers-of-esmar.json) |
 | Explorers of Space | 47265 | [47265-explorers-of-space.json](./47265-explorers-of-space.json) |
+| Explorers: Deluxe Edition | 152280 | [152280-explorers-deluxe-edition.json](./152280-explorers-deluxe-edition.json) |
 | Exploring Phonics 1 for Beginners | 334109 | [334109-exploring-phonics-1-for-beginners.json](./334109-exploring-phonics-1-for-beginners.json) |
 | Explosive Breaker | 39650 | [39650-explosive-breaker.json](./39650-explosive-breaker.json) |
 | Explosive Dungeon | 179127 | [179127-explosive-dungeon.json](./179127-explosive-dungeon.json) |
