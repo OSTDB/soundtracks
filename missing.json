@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T20:33:51.771Z",
-  "total_missing": 55129,
+  "generated_at": "2026-09-10T20:41:05.027Z",
+  "total_missing": 55128,
   "games": [
     {
       "igdb_id": 306086,
@@ -1676,11 +1676,6 @@
       "igdb_id": 301036,
       "game_name": "9 Dystricts",
       "file": "missing/0-9/301036-9-dystricts.json"
-    },
-    {
-      "igdb_id": 178646,
-      "game_name": "9-Ball Pocket",
-      "file": "missing/0-9/178646-9-ball-pocket.json"
     },
     {
       "igdb_id": 178657,
