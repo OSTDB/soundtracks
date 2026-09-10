@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Hard Pack | 237984 | [237984-party-hard-pack.json](./237984-party-hard-pack.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
+| Party Mashup | 137613 | [137613-party-mashup.json](./137613-party-mashup.json) |
 | Party Party Time | 231043 | [231043-party-party-time.json](./231043-party-party-time.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time + Party Harder Pack | 232993 | [232993-party-party-time-party-harder-pack.json](./232993-party-party-time-party-harder-pack.json) |
@@ -1708,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
 | Pocket Car: VR Ground | 113749 | [113749-pocket-car-vr-ground.json](./113749-pocket-car-vr-ground.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
+| Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Family GB | 180201 | [180201-pocket-family-gb.json](./180201-pocket-family-gb.json) |
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
@@ -2004,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Pong's Learning Adventure: Back to the Future | 188078 | [188078-pong-pongs-learning-adventure-back-to-the-future.json](./188078-pong-pongs-learning-adventure-back-to-the-future.json) |
 | Pong Pong's Learning Adventure: Mysteries of Human Body | 188076 | [188076-pong-pongs-learning-adventure-mysteries-of-human-body.json](./188076-pong-pongs-learning-adventure-mysteries-of-human-body.json) |
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
+| Pongarena | 137615 | [137615-pongarena.json](./137615-pongarena.json) |
 | PongBall | 255993 | [255993-pongball.json](./255993-pongball.json) |
 | Pongeon | 184641 | [184641-pongeon.json](./184641-pongeon.json) |
 | Pongis Jump | 126000 | [126000-pongis-jump.json](./126000-pongis-jump.json) |
