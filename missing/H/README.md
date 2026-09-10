@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Card Games | 87746 | [87746-hoyle-card-games.json](./87746-hoyle-card-games.json) |
 | Hoyle Card Games 2009 | 210064 | [210064-hoyle-card-games-2009.json](./210064-hoyle-card-games-2009.json) |
 | Hoyle Card Games 2011 | 210065 | [210065-hoyle-card-games-2011.json](./210065-hoyle-card-games-2011.json) |
+| Hoyle Casino | 131506 | [131506-hoyle-casino.json](./131506-hoyle-casino.json) |
 | Hoyle Casino | 210049 | [210049-hoyle-casino.json](./210049-hoyle-casino.json) |
 | Hoyle Casino 2009 | 210066 | [210066-hoyle-casino-2009.json](./210066-hoyle-casino-2009.json) |
 | Hoyle Casino 2010 | 210067 | [210067-hoyle-casino-2010.json](./210067-hoyle-casino-2010.json) |
