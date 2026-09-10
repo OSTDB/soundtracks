@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunted Hospice | 259285 | [259285-the-haunted-hospice.json](./259285-the-haunted-hospice.json) |
 | The Haunted House | 314061 | [314061-the-haunted-house.json](./314061-the-haunted-house.json) |
 | The Haunted Song | 229056 | [229056-the-haunted-song.json](./229056-the-haunted-song.json) |
+| The Hauntings | 164988 | [164988-the-hauntings.json](./164988-the-hauntings.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
 | The Heart Defenders | 224778 | [224778-the-heart-defenders.json](./224778-the-heart-defenders.json) |
@@ -1943,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jig Is Up! | 215152 | [215152-the-jig-is-up.json](./215152-the-jig-is-up.json) |
 | The Jingol | 306972 | [306972-the-jingol.json](./306972-the-jingol.json) |
 | The Johnny Papa | 265124 | [265124-the-johnny-papa.json](./265124-the-johnny-papa.json) |
+| The Journey of AutUmn | 164996 | [164996-the-journey-of-autumn.json](./164996-the-journey-of-autumn.json) |
 | The Journey of Piggy | 287092 | [287092-the-journey-of-piggy.json](./287092-the-journey-of-piggy.json) |
 | The journey to the party | 179743 | [179743-the-journey-to-the-party.json](./179743-the-journey-to-the-party.json) |
 | The Journey VR | 30873 | [30873-the-journey-vr.json](./30873-the-journey-vr.json) |
@@ -2850,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
 | The Sixth Prison | 184077 | [184077-the-sixth-prison.json](./184077-the-sixth-prison.json) |
+| The Skinwalker Investigations | 164973 | [164973-the-skinwalker-investigations.json](./164973-the-skinwalker-investigations.json) |
 | The Skirmish | 282032 | [282032-the-skirmish.json](./282032-the-skirmish.json) |
 | The Skullkid | 230259 | [230259-the-skullkid.json](./230259-the-skullkid.json) |
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
@@ -3979,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Dream Home | 358313 | [358313-tiny-dream-home.json](./358313-tiny-dream-home.json) |
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
+| Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Heist | 26670 | [26670-tiny-heist.json](./26670-tiny-heist.json) |
@@ -4139,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
 | Tokoro's Mahjong | 37786 | [37786-tokoros-mahjong.json](./37786-tokoros-mahjong.json) |
 | Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
+| Tokyo 24-Ku | 165063 | [165063-tokyo-24-ku.json](./165063-tokyo-24-ku.json) |
 | Tokyo 42 | 18930 | [18930-tokyo-42.json](./18930-tokyo-42.json) |
 | Tokyo 42: Smaceshi's Castles | 172109 | [172109-tokyo-42-smaceshis-castles.json](./172109-tokyo-42-smaceshis-castles.json) |
 | Tokyo Alice | 135270 | [135270-tokyo-alice.json](./135270-tokyo-alice.json) |
