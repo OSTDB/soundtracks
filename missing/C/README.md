@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold VR | 296392 | [296392-cold-vr.json](./296392-cold-vr.json) |
 | Cold War Warfare | 73805 | [73805-cold-war-warfare.json](./73805-cold-war-warfare.json) |
 | Cold War: Frontline | 339101 | [339101-cold-war-frontline.json](./339101-cold-war-frontline.json) |
+| Cold Wind | 151128 | [151128-cold-wind.json](./151128-cold-wind.json) |
 | Cold Wires | 127315 | [127315-cold-wires.json](./127315-cold-wires.json) |
 | Coldfall | 113005 | [113005-coldfall.json](./113005-coldfall.json) |
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
