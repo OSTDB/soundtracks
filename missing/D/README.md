@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Desperate: Vladivostok | 206720 | [206720-desperate-vladivostok.json](./206720-desperate-vladivostok.json) |
+| Desperation | 147415 | [147415-desperation.json](./147415-desperation.json) |
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Despot's Game: Collector's Edition | 219052 | [219052-despots-game-collectors-edition.json](./219052-despots-game-collectors-edition.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
@@ -1790,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
+| Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
 | Doce Fim: Sweetend Placebo | 391576 | [391576-doce-fim-sweetend-placebo.json](./391576-doce-fim-sweetend-placebo.json) |
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
@@ -3095,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Forge | 398335 | [398335-dwarven-forge.json](./398335-dwarven-forge.json) |
 | Dwarven Skykeep | 119769 | [119769-dwarven-skykeep.json](./119769-dwarven-skykeep.json) |
 | Dwarven: Mining Dungeons | 193435 | [193435-dwarven-mining-dungeons.json](./193435-dwarven-mining-dungeons.json) |
+| Dwarves Craft: Father's Home | 147372 | [147372-dwarves-craft-fathers-home.json](./147372-dwarves-craft-fathers-home.json) |
 | Dwarves: Build and survive | 166189 | [166189-dwarves-build-and-survive.json](./166189-dwarves-build-and-survive.json) |
 | DweeMixed: Thwee Pack | 187477 | [187477-dweemixed-thwee-pack.json](./187477-dweemixed-thwee-pack.json) |
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
