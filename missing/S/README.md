@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setback | 198558 | [198558-setback.json](./198558-setback.json) |
 | Seth | 278380 | [278380-seth.json](./278380-seth.json) |
 | Seth Johnson's Sink or Skim | 82144 | [82144-seth-johnsons-sink-or-skim.json](./82144-seth-johnsons-sink-or-skim.json) |
+| Setsugekka | 163363 | [163363-setsugekka.json](./163363-setsugekka.json) |
 | Setsuna ni Kakeru Koi Hanabi | 302683 | [302683-setsuna-ni-kakeru-koi-hanabi.json](./302683-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setsuna ni Kakeru Koi Hanabi | 339821 | [339821-setsuna-ni-kakeru-koi-hanabi.json](./339821-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
@@ -2099,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
+| Skippy the Bot | 163369 | [163369-skippy-the-bot.json](./163369-skippy-the-bot.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
