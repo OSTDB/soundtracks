@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:51:12.625Z",
+  "generated_at": "2026-09-10T02:01:15.390Z",
   "total_missing": 52549,
   "games": [
     {
@@ -1211,11 +1211,6 @@
       "igdb_id": 84656,
       "game_name": "3D Sonic the Hedgehog",
       "file": "missing/0-9/84656-3d-sonic-the-hedgehog.json"
-    },
-    {
-      "igdb_id": 178048,
-      "game_name": "3D Space Raider",
-      "file": "missing/0-9/178048-3d-space-raider.json"
     },
     {
       "igdb_id": 15578,
@@ -80301,6 +80296,11 @@
       "igdb_id": 195727,
       "game_name": "Forest Adventure",
       "file": "missing/F/195727-forest-adventure.json"
+    },
+    {
+      "igdb_id": 166732,
+      "game_name": "Forest Battle",
+      "file": "missing/F/166732-forest-battle.json"
     },
     {
       "igdb_id": 174297,
