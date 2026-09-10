@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Holiday | 224568 | [224568-last-holiday.json](./224568-last-holiday.json) |
 | Last Hope 3: Sniper Zombie War | 208931 | [208931-last-hope-3-sniper-zombie-war.json](./208931-last-hope-3-sniper-zombie-war.json) |
+| Last Hope on Earth | 145586 | [145586-last-hope-on-earth.json](./145586-last-hope-on-earth.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
 | Last Imperial Prince | 45956 | [45956-last-imperial-prince.json](./45956-last-imperial-prince.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
@@ -1081,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
 | Little Trouble on Tribuda Island | 236281 | [236281-little-trouble-on-tribuda-island.json](./236281-little-trouble-on-tribuda-island.json) |
+| Little Witch | 145613 | [145613-little-witch.json](./145613-little-witch.json) |
 | Little Witch Luana | 126647 | [126647-little-witch-luana.json](./126647-little-witch-luana.json) |
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
