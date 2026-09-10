@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safe House | 392132 | [392132-safe-house.json](./392132-safe-house.json) |
 | Safe Journey | 175941 | [175941-safe-journey.json](./175941-safe-journey.json) |
 | Safe Robber | 256283 | [256283-safe-robber.json](./256283-safe-robber.json) |
+| Safe Squares | 159833 | [159833-safe-squares.json](./159833-safe-squares.json) |
 | Safebreaker | 296373 | [296373-safebreaker.json](./296373-safebreaker.json) |
 | Safecracker | 24002 | [24002-safecracker.json](./24002-safecracker.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Hentai Puzzle | 214189 | [214189-sexy-hentai-puzzle.json](./214189-sexy-hentai-puzzle.json) |
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Memory Puzzle: Spanking Girls | 248658 | [248658-sexy-memory-puzzle-spanking-girls.json](./248658-sexy-memory-puzzle-spanking-girls.json) |
+| Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Sfare: Relax your mind | 184130 | [184130-sfare-relax-your-mind.json](./184130-sfare-relax-your-mind.json) |
@@ -1769,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
 | Sigma Harmonics | 24946 | [24946-sigma-harmonics.json](./24946-sigma-harmonics.json) |
+| Sigma Impact | 159799 | [159799-sigma-impact.json](./159799-sigma-impact.json) |
 | Sigma Theory: Global Cold War - Brazil | 155089 | [155089-sigma-theory-global-cold-war-brazil.json](./155089-sigma-theory-global-cold-war-brazil.json) |
 | Sigma Theory: Global Cold War - Deluxe Edition | 124827 | [124827-sigma-theory-global-cold-war-deluxe-edition.json](./124827-sigma-theory-global-cold-war-deluxe-edition.json) |
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
@@ -2150,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Reclaimers | 348247 | [348247-sky-reclaimers.json](./348247-sky-reclaimers.json) |
 | Sky Roller Coaster | 298045 | [298045-sky-roller-coaster.json](./298045-sky-roller-coaster.json) |
 | Sky Scaffold | 392131 | [392131-sky-scaffold.json](./392131-sky-scaffold.json) |
+| Sky Seeker | 159840 | [159840-sky-seeker.json](./159840-sky-seeker.json) |
 | Sky Squadron | 139477 | [139477-sky-squadron.json](./139477-sky-squadron.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
 | Skybase: Space Station Simulator | 208952 | [208952-skybase-space-station-simulator.json](./208952-skybase-space-station-simulator.json) |
@@ -3519,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
+| Spacegirl 2038 | 159836 | [159836-spacegirl-2038.json](./159836-spacegirl-2038.json) |
 | Spaceguy III | 109749 | [109749-spaceguy-iii.json](./109749-spaceguy-iii.json) |
 | SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
@@ -4193,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
 | Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
+| Star Steel | 159837 | [159837-star-steel.json](./159837-star-steel.json) |
 | Star Stone Splash | 274491 | [274491-star-stone-splash.json](./274491-star-stone-splash.json) |
 | Star Sword | 221972 | [221972-star-sword.json](./221972-star-sword.json) |
 | Star Tactics Redux | 169965 | [169965-star-tactics-redux.json](./169965-star-tactics-redux.json) |
@@ -4346,6 +4352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starquake Academy | 113029 | [113029-starquake-academy.json](./113029-starquake-academy.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
+| Starry Makino | 159835 | [159835-starry-makino.json](./159835-starry-makino.json) |
 | Starry Moon Island: Break Out MP01 | 190666 | [190666-starry-moon-island-break-out-mp01.json](./190666-starry-moon-island-break-out-mp01.json) |
 | Starry Moon Island: Break Out MP02 | 190658 | [190658-starry-moon-island-break-out-mp02.json](./190658-starry-moon-island-break-out-mp02.json) |
 | Starry Moon Island: Break Out MP03 | 190659 | [190659-starry-moon-island-break-out-mp03.json](./190659-starry-moon-island-break-out-mp03.json) |
@@ -6037,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
 | Sweet Reversi | 208348 | [208348-sweet-reversi.json](./208348-sweet-reversi.json) |
 | Sweet Science: The Girls of Silversee Castle | 239656 | [239656-sweet-science-the-girls-of-silversee-castle.json](./239656-sweet-science-the-girls-of-silversee-castle.json) |
+| Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
 | Sweet Sort | 255751 | [255751-sweet-sort.json](./255751-sweet-sort.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
