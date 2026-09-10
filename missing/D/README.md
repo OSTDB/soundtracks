@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
+| Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
 | Deep Echo | 25762 | [25762-deep-echo.json](./25762-deep-echo.json) |
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
 | Digital Eclipse Arcade: Q.P.I.D. | 239655 | [239655-digital-eclipse-arcade-q-p-i-d.json](./239655-digital-eclipse-arcade-q-p-i-d.json) |
 | Digital Virus | 236008 | [236008-digital-virus.json](./236008-digital-virus.json) |
+| Digital Zoo Gallery | 154465 | [154465-digital-zoo-gallery.json](./154465-digital-zoo-gallery.json) |
 | Digscovery | 249791 | [249791-digscovery.json](./249791-digscovery.json) |
 | Dik Journey | 310920 | [310920-dik-journey.json](./310920-dik-journey.json) |
 | Dilarara!! | 82876 | [82876-dilarara.json](./82876-dilarara.json) |
@@ -1945,6 +1947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
 | Don't Feed It | 341896 | [341896-dont-feed-it.json](./341896-dont-feed-it.json) |
 | Don't Find Me!! | 303488 | [303488-dont-find-me.json](./303488-dont-find-me.json) |
+| Don't Forget Me: Deluxe Edition | 154519 | [154519-dont-forget-me-deluxe-edition.json](./154519-dont-forget-me-deluxe-edition.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
