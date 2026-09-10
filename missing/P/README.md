@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda in the clouds | 165645 | [165645-panda-in-the-clouds.json](./165645-panda-in-the-clouds.json) |
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
+| Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
@@ -395,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
 | Park It! | 310740 | [310740-park-it.json](./310740-park-it.json) |
 | Park Master | 254751 | [254751-park-master.json](./254751-park-master.json) |
+| Park Rangers of the Undead | 162843 | [162843-park-rangers-of-the-undead.json](./162843-park-rangers-of-the-undead.json) |
 | Park the Car | 166711 | [166711-park-the-car.json](./166711-park-the-car.json) |
 | Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
 | Parkan: The Imperial Chronicles | 7700 | [7700-parkan-the-imperial-chronicles.json](./7700-parkan-the-imperial-chronicles.json) |
@@ -1242,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
+| Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
 | Piso Zero | 272302 | [272302-piso-zero.json](./272302-piso-zero.json) |
@@ -1332,10 +1335,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Winter Jigsaws | 389415 | [389415-pixel-puzzles-winter-jigsaws.json](./389415-pixel-puzzles-winter-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws | 263779 | [263779-pixel-puzzles-world-war-ii-jigsaws.json](./263779-pixel-puzzles-world-war-ii-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
+| Pixel Puzzles: Illustrations & Anime | 162933 | [162933-pixel-puzzles-illustrations-and-anime.json](./162933-pixel-puzzles-illustrations-and-anime.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dark Sided | 162940 | [162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json](./162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Distant Worlds | 163410 | [163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json](./163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dragons | 162935 | [162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json](./162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Fairies | 163407 | [163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json](./163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Gun Girls | 162934 | [162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json](./162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Little Dogs | 162936 | [162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json](./162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Mechs | 163409 | [163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json](./163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Ninja Girls | 163408 | [163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json](./163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Samurai | 162939 | [162939-pixel-puzzles-illustrations-and-anime-jigsaw-pack-samurai.json](./162939-pixel-puzzles-illustrations-and-anime-jigsaw-pack-samurai.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Soul of Giga | 162937 | [162937-pixel-puzzles-illustrations-and-anime-jigsaw-pack-soul-of-giga.json](./162937-pixel-puzzles-illustrations-and-anime-jigsaw-pack-soul-of-giga.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Space | 162942 | [162942-pixel-puzzles-illustrations-and-anime-jigsaw-pack-space.json](./162942-pixel-puzzles-illustrations-and-anime-jigsaw-pack-space.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack 1 | 162938 | [162938-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-1.json](./162938-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-1.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Zombies | 162941 | [162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json](./162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
 | Pixel Quest: The Lost Gifts | 413681 | [413681-pixel-quest-the-lost-gifts.json](./413681-pixel-quest-the-lost-gifts.json) |
 | Pixel Quest: The Lost Idols | 413680 | [413680-pixel-quest-the-lost-idols.json](./413680-pixel-quest-the-lost-idols.json) |
