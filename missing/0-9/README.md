@@ -260,7 +260,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
-| 3x3 Eyes: Tenrin-ou Genmu | 73304 | [73304-3x3-eyes-tenrin-ou-genmu.json](./73304-3x3-eyes-tenrin-ou-genmu.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
 | 3x3x3: A Mermaid's Tale | 128611 | [128611-3x3x3-a-mermaids-tale.json](./128611-3x3x3-a-mermaids-tale.json) |
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
