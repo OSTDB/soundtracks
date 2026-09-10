@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
 | The Legend of Eight Dragons | 145653 | [145653-the-legend-of-eight-dragons.json](./145653-the-legend-of-eight-dragons.json) |
 | The Legend of Eldridge Scrolls: Woop | 130921 | [130921-the-legend-of-eldridge-scrolls-woop.json](./130921-the-legend-of-eldridge-scrolls-woop.json) |
+| The Legend of Eratus: Dragonlord | 167268 | [167268-the-legend-of-eratus-dragonlord.json](./167268-the-legend-of-eratus-dragonlord.json) |
 | The Legend of Excalipurr | 28892 | [28892-the-legend-of-excalipurr.json](./28892-the-legend-of-excalipurr.json) |
 | The Legend of GEML: Awakening | 307589 | [307589-the-legend-of-geml-awakening.json](./307589-the-legend-of-geml-awakening.json) |
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
@@ -2727,6 +2728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
 | The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
+| The Settlers 7: Paths to a Kingdom - Uncharted Land Map Pack | 167245 | [167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json](./167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json) |
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers IV: The Trojans and the Elixir of Power | 21858 | [21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json](./21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
@@ -3684,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Tora!Tora!Tora! MP078 | 189619 | [189619-tiger-fighter-1931-tora-tora-tora-mp078.json](./189619-tiger-fighter-1931-tora-tora-tora-mp078.json) |
 | Tiger Fighter 1931: Tora!Tora!Tora! MP087 | 189630 | [189630-tiger-fighter-1931-tora-tora-tora-mp087.json](./189630-tiger-fighter-1931-tora-tora-tora-mp087.json) |
 | Tiger Hunt | 68695 | [68695-tiger-hunt.json](./68695-tiger-hunt.json) |
+| Tiger Knight: Battle Royale | 167209 | [167209-tiger-knight-battle-royale.json](./167209-tiger-knight-battle-royale.json) |
 | Tiger Mission | 37170 | [37170-tiger-mission.json](./37170-tiger-mission.json) |
 | Tiger Soldier I: MP007 | 173707 | [173707-tiger-soldier-i-mp007.json](./173707-tiger-soldier-i-mp007.json) |
 | Tiger Soldier I: MP023 | 173712 | [173712-tiger-soldier-i-mp023.json](./173712-tiger-soldier-i-mp023.json) |
@@ -4334,7 +4337,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torikago no Marriage | 202818 | [202818-torikago-no-marriage.json](./202818-torikago-no-marriage.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
+| Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
 | Tormentarium | 271730 | [271730-tormentarium.json](./271730-tormentarium.json) |
+| Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
 | Torn | 253595 | [253595-torn.json](./253595-torn.json) |
 | Torn | 90106 | [90106-torn.json](./90106-torn.json) |
@@ -5021,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree Spade Truck | 90670 | [90670-tree-spade-truck.json](./90670-tree-spade-truck.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
+| Trekking and Camping | 167262 | [167262-trekking-and-camping.json](./167262-trekking-and-camping.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
