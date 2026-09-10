@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | Realm Craft | 251811 | [251811-realm-craft.json](./251811-realm-craft.json) |
 | Realm Hacker | 132271 | [132271-realm-hacker.json](./132271-realm-hacker.json) |
+| Realm of Alters | 169397 | [169397-realm-of-alters.json](./169397-realm-of-alters.json) |
 | Realm of Mecha | 197324 | [197324-realm-of-mecha.json](./197324-realm-of-mecha.json) |
 | Realm of the Fallen | 223439 | [223439-realm-of-the-fallen.json](./223439-realm-of-the-fallen.json) |
 | Realm of the hero | 156128 | [156128-realm-of-the-hero.json](./156128-realm-of-the-hero.json) |
@@ -959,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restore | 397658 | [397658-restore.json](./397658-restore.json) |
 | Restoring Falmay | 326979 | [326979-restoring-falmay.json](./326979-restoring-falmay.json) |
+| Restricted Area | 169414 | [169414-restricted-area.json](./169414-restricted-area.json) |
 | Resttore | 285487 | [285487-resttore.json](./285487-resttore.json) |
 | Resurface | 406681 | [406681-resurface.json](./406681-resurface.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
@@ -1030,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returner Zhero | 107202 | [107202-returner-zhero.json](./107202-returner-zhero.json) |
 | ReturnHome | 170555 | [170555-returnhome.json](./170555-returnhome.json) |
 | Returning Nightmares | 202363 | [202363-returning-nightmares.json](./202363-returning-nightmares.json) |
+| Returning the favor of the dog | 169358 | [169358-returning-the-favor-of-the-dog.json](./169358-returning-the-favor-of-the-dog.json) |
 | Returning to Mia | 226726 | [226726-returning-to-mia.json](./226726-returning-to-mia.json) |
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
 | Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
@@ -1099,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
 | Revolvermen | 344397 | [344397-revolvermen.json](./344397-revolvermen.json) |
+| RevolVR 3 | 169355 | [169355-revolvr-3.json](./169355-revolvr-3.json) |
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
@@ -1994,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
 | Rugby Union Team Manager 4 | 225072 | [225072-rugby-union-team-manager-4.json](./225072-rugby-union-team-manager-4.json) |
+| Rugida | 169384 | [169384-rugida.json](./169384-rugida.json) |
 | Rugrats: Adventures in Gameland | 299152 | [299152-rugrats-adventures-in-gameland.json](./299152-rugrats-adventures-in-gameland.json) |
 | Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
 | Ruh & the Glow | 178597 | [178597-ruh-and-the-glow.json](./178597-ruh-and-the-glow.json) |
