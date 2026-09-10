@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Rehabilitation | 281411 | [281411-quiet-rehabilitation.json](./281411-quiet-rehabilitation.json) |
 | Quiet us | 184606 | [184606-quiet-us.json](./184606-quiet-us.json) |
 | Quietly | 229076 | [229076-quietly.json](./229076-quietly.json) |
+| QuietMansion1 | 152307 | [152307-quietmansion1.json](./152307-quietmansion1.json) |
 | Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
