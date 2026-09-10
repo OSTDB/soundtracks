@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
+| Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
 | Warring Worms: The Worm (re)Turns | 73285 | [73285-warring-worms-the-worm-re-turns.json](./73285-warring-worms-the-worm-re-turns.json) |
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
@@ -424,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
 | Way Down | 187511 | [187511-way-down.json](./187511-way-down.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
+| Way of Heroes | 159839 | [159839-way-of-heroes.json](./159839-way-of-heroes.json) |
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
 | Way of the Red | 25963 | [25963-way-of-the-red.json](./25963-way-of-the-red.json) |
@@ -750,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Dream | 314059 | [314059-whispering-dream.json](./314059-whispering-dream.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
+| Whispers from Within: Moving On | 159832 | [159832-whispers-from-within-moving-on.json](./159832-whispers-from-within-moving-on.json) |
 | Whispers in Akarra | 180208 | [180208-whispers-in-akarra.json](./180208-whispers-in-akarra.json) |
 | Whispers in the Shadows | 295555 | [295555-whispers-in-the-shadows.json](./295555-whispers-in-the-shadows.json) |
 | Whispers of The Abyss | 301269 | [301269-whispers-of-the-abyss.json](./301269-whispers-of-the-abyss.json) |
@@ -1479,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormhole | 307618 | [307618-wormhole.json](./307618-wormhole.json) |
 | Wormhole | 374611 | [374611-wormhole.json](./374611-wormhole.json) |
 | Wormhole Warfare | 176995 | [176995-wormhole-warfare.json](./176995-wormhole-warfare.json) |
+| WormJuice Skateboarding Olympics | 159795 | [159795-wormjuice-skateboarding-olympics.json](./159795-wormjuice-skateboarding-olympics.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
 | Worms Reloaded: Puzzle Pack | 163430 | [163430-worms-reloaded-puzzle-pack.json](./163430-worms-reloaded-puzzle-pack.json) |
