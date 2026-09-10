@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi - The Battle of Okitanawate Scenario | 150665 | [150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json](./150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json) |
 | Nobunaga's Ambition: Taishi - The Dutiful Lord of Echigo Scenario | 150663 | [150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json](./150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
+| Nociception: Simple Outlook From Hell | 142414 | [142414-nociception-simple-outlook-from-hell.json](./142414-nociception-simple-outlook-from-hell.json) |
 | Nock & Load | 341482 | [341482-nock-and-load.json](./341482-nock-and-load.json) |
 | Nock: Hidden Arrow | 31389 | [31389-nock-hidden-arrow.json](./31389-nock-hidden-arrow.json) |
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
@@ -1277,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notpron | 202394 | [202394-notpron.json](./202394-notpron.json) |
 | Notrium | 35751 | [35751-notrium.json](./35751-notrium.json) |
 | Nouen Hokkoriina | 335107 | [335107-nouen-hokkoriina.json](./335107-nouen-hokkoriina.json) |
+| Nous | 142387 | [142387-nous.json](./142387-nous.json) |
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
 | Nova Assault | 389402 | [389402-nova-assault.json](./389402-nova-assault.json) |
