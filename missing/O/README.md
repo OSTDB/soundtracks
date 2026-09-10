@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | OtherSide | 179157 | [179157-otherside.json](./179157-otherside.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
+| Otherworld Legends | 136996 | [136996-otherworld-legends.json](./136996-otherworld-legends.json) |
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otokiyome | 241380 | [241380-otokiyome.json](./241380-otokiyome.json) |
