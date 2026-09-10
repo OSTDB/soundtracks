@@ -2739,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
+| Sogo Vego | 161353 | [161353-sogo-vego.json](./161353-sogo-vego.json) |
 | Sohee | 355020 | [355020-sohee.json](./355020-sohee.json) |
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
@@ -4143,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Days | 194632 | [194632-star-days.json](./194632-star-days.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
 | Star Drives | 187464 | [187464-star-drives.json](./187464-star-drives.json) |
+| Star Dust: A Journey Through Space | 161349 | [161349-star-dust-a-journey-through-space.json](./161349-star-dust-a-journey-through-space.json) |
 | Star Dust: The Book of Earth (VR) | 29931 | [29931-star-dust-the-book-of-earth-vr.json](./29931-star-dust-the-book-of-earth-vr.json) |
 | Star Equestrian | 242225 | [242225-star-equestrian.json](./242225-star-equestrian.json) |
 | Star Evil | 243936 | [243936-star-evil.json](./243936-star-evil.json) |
@@ -6059,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing 2 Heli | 262356 | [262356-swing-2-heli.json](./262356-swing-2-heli.json) |
 | Swing Boy | 346573 | [346573-swing-boy.json](./346573-swing-boy.json) |
 | Swing Copters | 7672 | [7672-swing-copters.json](./7672-swing-copters.json) |
+| Swing dungeon | 161326 | [161326-swing-dungeon.json](./161326-swing-dungeon.json) |
 | Swing Fall | 359442 | [359442-swing-fall.json](./359442-swing-fall.json) |
 | Swing Home Run | 234056 | [234056-swing-home-run.json](./234056-swing-home-run.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
