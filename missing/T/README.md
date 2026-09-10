@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
+| The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
 | The Chronicles of Hercules: The 12 Labours | 169366 | [169366-the-chronicles-of-hercules-the-12-labours.json](./169366-the-chronicles-of-hercules-the-12-labours.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
@@ -2125,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
 | The Last One and Then Another | 318206 | [318206-the-last-one-and-then-another.json](./318206-the-last-one-and-then-another.json) |
 | The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
+| The Last Ones Left | 150606 | [150606-the-last-ones-left.json](./150606-the-last-ones-left.json) |
 | The Last Opening | 396902 | [396902-the-last-opening.json](./396902-the-last-opening.json) |
 | The Last Photon | 33050 | [33050-the-last-photon.json](./33050-the-last-photon.json) |
 | The Last Pirate Adventure: Drake's Treasure | 169404 | [169404-the-last-pirate-adventure-drakes-treasure.json](./169404-the-last-pirate-adventure-drakes-treasure.json) |
@@ -2147,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stand | 344396 | [344396-the-last-stand.json](./344396-the-last-stand.json) |
 | The Last Stand at Camp Zombie | 251812 | [251812-the-last-stand-at-camp-zombie.json](./251812-the-last-stand-at-camp-zombie.json) |
 | The Last Stand Legacy Collection | 158727 | [158727-the-last-stand-legacy-collection.json](./158727-the-last-stand-legacy-collection.json) |
+| The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
 | The Last Train: Baquedano | 343255 | [343255-the-last-train-baquedano.json](./343255-the-last-train-baquedano.json) |
@@ -4251,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
 | Tiny Pixel Farm: Go Farm Life | 248674 | [248674-tiny-pixel-farm-go-farm-life.json](./248674-tiny-pixel-farm-go-farm-life.json) |
 | Tiny Pixel Wars | 185618 | [185618-tiny-pixel-wars.json](./185618-tiny-pixel-wars.json) |
+| Tiny Poker | 150603 | [150603-tiny-poker.json](./150603-tiny-poker.json) |
 | Tiny Ring | 257364 | [257364-tiny-ring.json](./257364-tiny-ring.json) |
 | Tiny Robots Recharged | 167830 | [167830-tiny-robots-recharged.json](./167830-tiny-robots-recharged.json) |
 | Tiny Robots: Portal Escape | 297201 | [297201-tiny-robots-portal-escape.json](./297201-tiny-robots-portal-escape.json) |
