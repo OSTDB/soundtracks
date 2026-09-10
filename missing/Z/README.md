@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zolaris | 153454 | [153454-zolaris.json](./153454-zolaris.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
 | Zombeat | 79946 | [79946-zombeat.json](./79946-zombeat.json) |
+| Zombeer: Delivery Mission | 159824 | [159824-zombeer-delivery-mission.json](./159824-zombeer-delivery-mission.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
 | Zombie Accountant | 66159 | [66159-zombie-accountant.json](./66159-zombie-accountant.json) |
