@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
 | Pandemia | 149517 | [149517-pandemia.json](./149517-pandemia.json) |
+| Pandemic | 147934 | [147934-pandemic.json](./147934-pandemic.json) |
 | Pandemic Heart | 165010 | [165010-pandemic-heart.json](./165010-pandemic-heart.json) |
 | Pandemic of the Forgotten Virus | 185593 | [185593-pandemic-of-the-forgotten-virus.json](./185593-pandemic-of-the-forgotten-virus.json) |
 | Pandemic: The Board Game | 69425 | [69425-pandemic-the-board-game.json](./69425-pandemic-the-board-game.json) |
@@ -462,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Cemetery | 178594 | [178594-party-cemetery.json](./178594-party-cemetery.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
+| Party Games: 15 in 1 | 147911 | [147911-party-games-15-in-1.json](./147911-party-games-15-in-1.json) |
 | Party Golf | 31009 | [31009-party-golf.json](./31009-party-golf.json) |
 | Party Hard Pack | 237984 | [237984-party-hard-pack.json](./237984-party-hard-pack.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
@@ -1997,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Pro | 246384 | [246384-pool-pro.json](./246384-pool-pro.json) |
 | Pool Pro 2022 | 275611 | [275611-pool-pro-2022.json](./275611-pool-pro-2022.json) |
+| Pool Pro Gold | 147914 | [147914-pool-pro-gold.json](./147914-pool-pro-gold.json) |
 | Pool Together Bundle | 315842 | [315842-pool-together-bundle.json](./315842-pool-together-bundle.json) |
 | Pool: 8 Ball Mania | 213386 | [213386-pool-8-ball-mania.json](./213386-pool-8-ball-mania.json) |
 | Pool! | 88287 | [88287-pool.json](./88287-pool.json) |
@@ -2908,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
 | Push Puzzle: Rescue Adventure | 179205 | [179205-push-puzzle-rescue-adventure.json](./179205-push-puzzle-rescue-adventure.json) |
 | Push Stack | 146348 | [146348-push-stack.json](./146348-push-stack.json) |
+| Push the Box | 147899 | [147899-push-the-box.json](./147899-push-the-box.json) |
 | Push the Box 3D | 167784 | [167784-push-the-box-3d.json](./167784-push-the-box-3d.json) |
 | Push the Circles Extreme | 96036 | [96036-push-the-circles-extreme.json](./96036-push-the-circles-extreme.json) |
 | Push the Crate | 147991 | [147991-push-the-crate.json](./147991-push-the-crate.json) |
