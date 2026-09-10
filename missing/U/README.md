@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utility for the Soul | 312571 | [312571-utility-for-the-soul.json](./312571-utility-for-the-soul.json) |
 | Utopia no Soubou | 378191 | [378191-utopia-no-soubou.json](./378191-utopia-no-soubou.json) |
 | Utopia: The Creation of a Nation | 12231 | [12231-utopia-the-creation-of-a-nation.json](./12231-utopia-the-creation-of-a-nation.json) |
+| Utopos | 156635 | [156635-utopos.json](./156635-utopos.json) |
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
