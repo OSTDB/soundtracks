@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero: Falcon Densetsu e+ - White Land: Yeti Foot | 329553 | [329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json](./329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json) |
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
+| F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Flight | 307582 | [307582-first-flight.json](./307582-first-flight.json) |
 | First Floor | 159797 | [159797-first-floor.json](./159797-first-floor.json) |
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
+| First Kiss at a Spooky Soiree | 144233 | [144233-first-kiss-at-a-spooky-soiree.json](./144233-first-kiss-at-a-spooky-soiree.json) |
 | First Light | 191155 | [191155-first-light.json](./191155-first-light.json) |
 | First Love / Late Spring | 204493 | [204493-first-love-late-spring.json](./204493-first-love-late-spring.json) |
 | First Made Break Rock | 395542 | [395542-first-made-break-rock.json](./395542-first-made-break-rock.json) |
@@ -1137,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
 | Fit & Fun | 50604 | [50604-fit-and-fun.json](./50604-fit-and-fun.json) |
 | Fit Cats | 382188 | [382188-fit-cats.json](./382188-fit-cats.json) |
+| Fit Fantasy | 144268 | [144268-fit-fantasy.json](./144268-fit-fantasy.json) |
 | Fit For A King | 121200 | [121200-fit-for-a-king.json](./121200-fit-for-a-king.json) |
 | Fit My Cat | 284930 | [284930-fit-my-cat.json](./284930-fit-my-cat.json) |
 | Fit My Zoo: Complete + | 328820 | [328820-fit-my-zoo-complete.json](./328820-fit-my-zoo-complete.json) |
@@ -1248,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
 | Flappy Wings | 226423 | [226423-flappy-wings.json](./226423-flappy-wings.json) |
 | Flappy Wings | 381022 | [381022-flappy-wings.json](./381022-flappy-wings.json) |
+| Flappy: The Angry Bird | 144272 | [144272-flappy-the-angry-bird.json](./144272-flappy-the-angry-bird.json) |
 | Flare Nuinui Quest | 210244 | [210244-flare-nuinui-quest.json](./210244-flare-nuinui-quest.json) |
 | Flare Nuinui Quest | 320719 | [320719-flare-nuinui-quest.json](./320719-flare-nuinui-quest.json) |
 | Flaregate Network | 325286 | [325286-flaregate-network.json](./325286-flaregate-network.json) |
