@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
 | Warlanes | 301264 | [301264-warlanes.json](./301264-warlanes.json) |
 | WarLeague | 230308 | [230308-warleague.json](./230308-warleague.json) |
+| Warlike | 151151 | [151151-warlike.json](./151151-warlike.json) |
 | Warlings 2: Total Armageddon | 280185 | [280185-warlings-2-total-armageddon.json](./280185-warlings-2-total-armageddon.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
 | Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
