@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Chess: Deluxe Edition | 208584 | [208584-family-chess-deluxe-edition.json](./208584-family-chess-deluxe-edition.json) |
 | Family Chess: Magnificent Edition | 246647 | [246647-family-chess-magnificent-edition.json](./246647-family-chess-magnificent-edition.json) |
 | Family Farm Seaside | 104104 | [104104-family-farm-seaside.json](./104104-family-farm-seaside.json) |
+| Family Feud | 159244 | [159244-family-feud.json](./159244-family-feud.json) |
 | Family Feud | 320767 | [320767-family-feud.json](./320767-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Shop: Big City Break | 209457 | [209457-flower-shop-big-city-break.json](./209457-flower-shop-big-city-break.json) |
 | Flower Shop: Winter In Fairbrook | 17586 | [17586-flower-shop-winter-in-fairbrook.json](./17586-flower-shop-winter-in-fairbrook.json) |
 | Flower Visit | 177576 | [177576-flower-visit.json](./177576-flower-visit.json) |
+| Flower, Sun, and Rain: Murder and Mystery in Paradise | 159295 | [159295-flower-sun-and-rain-murder-and-mystery-in-paradise.json](./159295-flower-sun-and-rain-murder-and-mystery-in-paradise.json) |
 | Flowerhorn Aquarium | 255748 | [255748-flowerhorn-aquarium.json](./255748-flowerhorn-aquarium.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
@@ -1914,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
 | Freddy Fazbear's Pizzeria Simulator VR | 231618 | [231618-freddy-fazbears-pizzeria-simulator-vr.json](./231618-freddy-fazbears-pizzeria-simulator-vr.json) |
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
+| Freddy in Space 2 | 159286 | [159286-freddy-in-space-2.json](./159286-freddy-in-space-2.json) |
 | Freddy's Archives: Remains Of The Past | 253949 | [253949-freddys-archives-remains-of-the-past.json](./253949-freddys-archives-remains-of-the-past.json) |
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
 | Freddy's Pizza Parlor Survival | 245306 | [245306-freddys-pizza-parlor-survival.json](./245306-freddys-pizza-parlor-survival.json) |
@@ -2025,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright House | 329352 | [329352-fright-house.json](./329352-fright-house.json) |
 | Fright Light | 31539 | [31539-fright-light.json](./31539-fright-light.json) |
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
+| Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
@@ -2383,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FuuGaku: Hisshuu Kamoku wa Sei Jitsugi! H na Jugyou de One Two Step | 194589 | [194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json](./194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json) |
 | Fuuka σ Taisen | 294694 | [294694-fuuka-taisen.json](./294694-fuuka-taisen.json) |
 | Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
+| Fuyu Kiss | 159292 | [159292-fuyu-kiss.json](./159292-fuyu-kiss.json) |
 | Fuyu Kiss: Complete Limited Edition | 159822 | [159822-fuyu-kiss-complete-limited-edition.json](./159822-fuyu-kiss-complete-limited-edition.json) |
 | Fuyu no Rondo | 69310 | [69310-fuyu-no-rondo.json](./69310-fuyu-no-rondo.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
