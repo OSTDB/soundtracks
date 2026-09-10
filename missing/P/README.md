@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
+| Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
 | Pine Harbor | 257929 | [257929-pine-harbor.json](./257929-pine-harbor.json) |
 | Pine Racer | 244808 | [244808-pine-racer.json](./244808-pine-racer.json) |
