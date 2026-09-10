@@ -845,6 +845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Velendar Castle: Escape Room | 391066 | [391066-secrets-of-velendar-castle-escape-room.json](./391066-secrets-of-velendar-castle-escape-room.json) |
 | Secrets of Wynne | 244503 | [244503-secrets-of-wynne.json](./244503-secrets-of-wynne.json) |
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
+| Section Six | 149023 | [149023-section-six.json](./149023-section-six.json) |
 | Section-Z | 9755 | [9755-section-z.json](./9755-section-z.json) |
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
@@ -1770,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Toyotomi Hideyoshi Pack | 411597 | [411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json](./411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json) |
 | Sid Meier's Pirates! | 868 | [868-sid-meiers-pirates.json](./868-sid-meiers-pirates.json) |
 | Sid the Science Kid: Red Light Green Light | 365073 | [365073-sid-the-science-kid-red-light-green-light.json](./365073-sid-the-science-kid-red-light-green-light.json) |
+| Side | 149025 | [149025-side.json](./149025-side.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
 | Side Kicks! | 69322 | [69322-side-kicks.json](./69322-side-kicks.json) |
 | Side Pocket | 172699 | [172699-side-pocket.json](./172699-side-pocket.json) |
@@ -4966,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strife: Veteran Edition | 147967 | [147967-strife-veteran-edition.json](./147967-strife-veteran-edition.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
 | Strike Buster | 339656 | [339656-strike-buster.json](./339656-strike-buster.json) |
+| Strike Buster Prototype | 149010 | [149010-strike-buster-prototype.json](./149010-strike-buster-prototype.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
 | Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
@@ -6001,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
 | Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
+| Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
 | Surrealidade: Definitive Edition | 235770 | [235770-surrealidade-definitive-edition.json](./235770-surrealidade-definitive-edition.json) |
 | Surreality | 71008 | [71008-surreality.json](./71008-surreality.json) |
