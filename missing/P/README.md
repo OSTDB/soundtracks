@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
 | ParallHex | 326048 | [326048-parallhex.json](./326048-parallhex.json) |
 | Paralysis | 89249 | [89249-paralysis.json](./89249-paralysis.json) |
+| Paralyzed | 141787 | [141787-paralyzed.json](./141787-paralyzed.json) |
 | Paramedic Simulator | 141858 | [141858-paramedic-simulator.json](./141858-paramedic-simulator.json) |
 | Paramedics! | 270958 | [270958-paramedics.json](./270958-paramedics.json) |
 | Paramedium: 2 | 179750 | [179750-paramedium-2.json](./179750-paramedium-2.json) |
@@ -1429,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk: Scrappers Deluxe | 213499 | [213499-pixeljunk-scrappers-deluxe.json](./213499-pixeljunk-scrappers-deluxe.json) |
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
+| Pixelmon Town | 141780 | [141780-pixelmon-town.json](./141780-pixelmon-town.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
@@ -1849,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
 | Pokémon Starwish | 394849 | [394849-pokemon-starwish.json](./394849-pokemon-starwish.json) |
+| Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
 | Pokémon TCG Pocket: Everyday Wonders | 410895 | [410895-pokemon-tcg-pocket-everyday-wonders.json](./410895-pokemon-tcg-pocket-everyday-wonders.json) |
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
@@ -2497,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
+| Professional Fishing | 141801 | [141801-professional-fishing.json](./141801-professional-fishing.json) |
 | Professional Mahjong Gokuu | 41394 | [41394-professional-mahjong-gokuu.json](./41394-professional-mahjong-gokuu.json) |
 | Professional Mahjong Kiwame | 97871 | [97871-professional-mahjong-kiwame.json](./97871-professional-mahjong-kiwame.json) |
 | Professional Soldier | 153928 | [153928-professional-soldier.json](./153928-professional-soldier.json) |
@@ -3031,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Snake | 206382 | [206382-puzzle-snake.json](./206382-puzzle-snake.json) |
 | Puzzle Stampede | 26605 | [26605-puzzle-stampede.json](./26605-puzzle-stampede.json) |
 | Puzzle Star Sweep | 44744 | [44744-puzzle-star-sweep.json](./44744-puzzle-star-sweep.json) |
+| Puzzle Together | 141838 | [141838-puzzle-together.json](./141838-puzzle-together.json) |
 | Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
