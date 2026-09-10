@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth and Sky 3: Luminous Horizon | 9505 | [9505-earth-and-sky-3-luminous-horizon.json](./9505-earth-and-sky-3-luminous-horizon.json) |
 | Earth Brigades | 204085 | [204085-earth-brigades.json](./204085-earth-brigades.json) |
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
+| Earth Defender One | 144273 | [144273-earth-defender-one.json](./144273-earth-defender-one.json) |
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
@@ -1425,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
 | EZ2Dancer | 92487 | [92487-ez2dancer.json](./92487-ez2dancer.json) |
+| EZ2on Reboot: R | 144282 | [144282-ez2on-reboot-r.json](./144282-ez2on-reboot-r.json) |
 | EZ2on Reboot: R - DJMAX Collaboration DLC | 269015 | [269015-ez2on-reboot-r-djmax-collaboration-dlc.json](./269015-ez2on-reboot-r-djmax-collaboration-dlc.json) |
 | EZ2on Reboot: R - Fortress Collaboration DLC | 256004 | [256004-ez2on-reboot-r-fortress-collaboration-dlc.json](./256004-ez2on-reboot-r-fortress-collaboration-dlc.json) |
 | EZMuze Break and House edition | 79908 | [79908-ezmuze-break-and-house-edition.json](./79908-ezmuze-break-and-house-edition.json) |
