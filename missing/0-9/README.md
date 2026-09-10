@@ -82,12 +82,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
 | 100% Orange Juice | 11426 | [11426-100-orange-juice.json](./11426-100-orange-juice.json) |
 | 100% Orange Juice: Alicianrone & Teotoratta | 164469 | [164469-100-orange-juice-alicianrone-and-teotoratta.json](./164469-100-orange-juice-alicianrone-and-teotoratta.json) |
+| 100% Orange Juice: Arnelle & Maynie | 164463 | [164463-100-orange-juice-arnelle-and-maynie.json](./164463-100-orange-juice-arnelle-and-maynie.json) |
+| 100% Orange Juice: Breaker Pack | 164464 | [164464-100-orange-juice-breaker-pack.json](./164464-100-orange-juice-breaker-pack.json) |
 | 100% Orange Juice: Chris & Kyupita | 164476 | [164476-100-orange-juice-chris-and-kyupita.json](./164476-100-orange-juice-chris-and-kyupita.json) |
 | 100% Orange Juice: Krila & Kae | 164482 | [164482-100-orange-juice-krila-and-kae.json](./164482-100-orange-juice-krila-and-kae.json) |
 | 100% Orange Juice: Nath & Tomato+Mimyuu | 164472 | [164472-100-orange-juice-nath-and-tomato-mimyuu.json](./164472-100-orange-juice-nath-and-tomato-mimyuu.json) |
+| 100% Orange Juice: Old Guardian Pack | 164465 | [164465-100-orange-juice-old-guardian-pack.json](./164465-100-orange-juice-old-guardian-pack.json) |
 | 100% Orange Juice: Railway Runners Pack | 164474 | [164474-100-orange-juice-railway-runners-pack.json](./164474-100-orange-juice-railway-runners-pack.json) |
 | 100% Orange Juice: Sham & Sherry | 164477 | [164477-100-orange-juice-sham-and-sherry.json](./164477-100-orange-juice-sham-and-sherry.json) |
 | 100% Orange Juice: Syura & Nanako | 164473 | [164473-100-orange-juice-syura-and-nanako.json](./164473-100-orange-juice-syura-and-nanako.json) |
+| 100% Orange Juice: Tsih & Tequila | 164453 | [164453-100-orange-juice-tsih-and-tequila.json](./164453-100-orange-juice-tsih-and-tequila.json) |
 | 100% Orange Juice: Wanderer Pack | 164480 | [164480-100-orange-juice-wanderer-pack.json](./164480-100-orange-juice-wanderer-pack.json) |
 | 100% Orange Juice: Yuki & Tomomo Renewal Pack | 164470 | [164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json](./164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json) |
 | 100% Pasukaru Sensei: Perfect Paint Bombers | 55906 | [55906-100-pasukaru-sensei-perfect-paint-bombers.json](./55906-100-pasukaru-sensei-perfect-paint-bombers.json) |
