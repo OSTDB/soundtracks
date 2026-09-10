@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
 | Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
+| Weirdlands | 144978 | [144978-weirdlands.json](./144978-weirdlands.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
 | Wekele Wordle | 329557 | [329557-wekele-wordle.json](./329557-wekele-wordle.json) |
@@ -1525,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormwood | 216819 | [216819-wormwood.json](./216819-wormwood.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
+| Worship | 144971 | [144971-worship.json](./144971-worship.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worst Case | 320552 | [320552-worst-case.json](./320552-worst-case.json) |
 | Worst Coach in the World | 289893 | [289893-worst-coach-in-the-world.json](./289893-worst-coach-in-the-world.json) |
