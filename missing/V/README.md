@@ -497,6 +497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virusum | 210860 | [210860-virusum.json](./210860-virusum.json) |
 | Viruzzerk | 245296 | [245296-viruzzerk.json](./245296-viruzzerk.json) |
 | Visagens | 282020 | [282020-visagens.json](./282020-visagens.json) |
+| Viscera Cleanup Detail: House of Horror | 167764 | [167764-viscera-cleanup-detail-house-of-horror.json](./167764-viscera-cleanup-detail-house-of-horror.json) |
+| Viscera Cleanup Detail: The Vulcan Affair | 167765 | [167765-viscera-cleanup-detail-the-vulcan-affair.json](./167765-viscera-cleanup-detail-the-vulcan-affair.json) |
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
