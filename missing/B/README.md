@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bloodlines | 338197 | [338197-battle-bloodlines.json](./338197-battle-bloodlines.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Brothers | 14394 | [14394-battle-brothers.json](./14394-battle-brothers.json) |
+| Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle Charge | 211426 | [211426-battle-charge.json](./211426-battle-charge.json) |
@@ -835,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
 | Battletank: L.O.B.A. | 52635 | [52635-battletank-l-o-b-a.json](./52635-battletank-l-o-b-a.json) |
 | BattleTanx | 3421 | [3421-battletanx.json](./3421-battletanx.json) |
+| BattleTech: Heavy Metal | 155087 | [155087-battletech-heavy-metal.json](./155087-battletech-heavy-metal.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
@@ -1982,6 +1984,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection Ray | 396234 | [396234-blue-reflection-ray.json](./396234-blue-reflection-ray.json) |
 | Blue Reflection Sun | 396235 | [396235-blue-reflection-sun.json](./396235-blue-reflection-sun.json) |
 | Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
+| Blue Reflection: Second Light - Premium Box | 155073 | [155073-blue-reflection-second-light-premium-box.json](./155073-blue-reflection-second-light-premium-box.json) |
+| Blue Reflection: Second Light - Special Collection Box | 155072 | [155072-blue-reflection-second-light-special-collection-box.json](./155072-blue-reflection-second-light-special-collection-box.json) |
 | Blue Revolver | 24928 | [24928-blue-revolver.json](./24928-blue-revolver.json) |
 | Blue Ribbon Darts | 159275 | [159275-blue-ribbon-darts.json](./159275-blue-ribbon-darts.json) |
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
@@ -2638,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
 | Bridge Constructor Bundle | 196830 | [196830-bridge-constructor-bundle.json](./196830-bridge-constructor-bundle.json) |
 | Bridge Constructor Compilation | 131601 | [131601-bridge-constructor-compilation.json](./131601-bridge-constructor-compilation.json) |
+| Bridge Constructor Portal: Portal Proficiency | 155047 | [155047-bridge-constructor-portal-portal-proficiency.json](./155047-bridge-constructor-portal-portal-proficiency.json) |
 | Bridge Constructor: Playground | 17098 | [17098-bridge-constructor-playground.json](./17098-bridge-constructor-playground.json) |
 | Bridge Constructor: Ultimate Edition | 129195 | [129195-bridge-constructor-ultimate-edition.json](./129195-bridge-constructor-ultimate-edition.json) |
 | Bridge Creator 2015 | 35857 | [35857-bridge-creator-2015.json](./35857-bridge-creator-2015.json) |
