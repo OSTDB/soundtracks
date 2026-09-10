@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hallway: Escape Room | 264608 | [264608-the-hallway-escape-room.json](./264608-the-hallway-escape-room.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
+| The Handbook | 152868 | [152868-the-handbook.json](./152868-the-handbook.json) |
 | The Hangman | 264609 | [264609-the-hangman.json](./264609-the-hangman.json) |
 | The Hangman's Noose | 58222 | [58222-the-hangmans-noose.json](./58222-the-hangmans-noose.json) |
 | The Happy Hereafter | 17521 | [17521-the-happy-hereafter.json](./17521-the-happy-hereafter.json) |
@@ -1973,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
 | The Isle | 25838 | [25838-the-isle.json](./25838-the-isle.json) |
+| The Isle of Elanor | 152845 | [152845-the-isle-of-elanor.json](./152845-the-isle-of-elanor.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
@@ -2771,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Island of Dr. Quandary | 46654 | [46654-the-secret-island-of-dr-quandary.json](./46654-the-secret-island-of-dr-quandary.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
 | The Secret of Crimson Manor | 297503 | [297503-the-secret-of-crimson-manor.json](./297503-the-secret-of-crimson-manor.json) |
+| The Secret of Dyes | 152867 | [152867-the-secret-of-dyes.json](./152867-the-secret-of-dyes.json) |
 | The Secret of Grisly Manor | 61104 | [61104-the-secret-of-grisly-manor.json](./61104-the-secret-of-grisly-manor.json) |
 | The Secret of Maike Island | 318396 | [318396-the-secret-of-maike-island.json](./318396-the-secret-of-maike-island.json) |
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
@@ -3007,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
 | The Surge: The Good, the Bad, and the Augmented | 109240 | [109240-the-surge-the-good-the-bad-and-the-augmented.json](./109240-the-surge-the-good-the-bad-and-the-augmented.json) |
+| The Survivor After | 152879 | [152879-the-survivor-after.json](./152879-the-survivor-after.json) |
 | The Swan Princess: Hidden Tales | 268452 | [268452-the-swan-princess-hidden-tales.json](./268452-the-swan-princess-hidden-tales.json) |
 | The Swapper | 5892 | [5892-the-swapper.json](./5892-the-swapper.json) |
 | The Swarm | 226432 | [226432-the-swarm.json](./226432-the-swarm.json) |
@@ -3212,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
 | The Trader: Good Dealer Simulator | 221157 | [221157-the-trader-good-dealer-simulator.json](./221157-the-trader-good-dealer-simulator.json) |
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
+| The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
 | The Trasamire Campaigns | 213418 | [213418-the-trasamire-campaigns.json](./213418-the-trasamire-campaigns.json) |
 | The Traveller and the Mountain | 178570 | [178570-the-traveller-and-the-mountain.json](./178570-the-traveller-and-the-mountain.json) |
@@ -3364,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
 | The Will of Dr. Frankenstein | 66715 | [66715-the-will-of-dr-frankenstein.json](./66715-the-will-of-dr-frankenstein.json) |
 | The Wind and the Wisp | 359994 | [359994-the-wind-and-the-wisp.json](./359994-the-wind-and-the-wisp.json) |
+| The Wind: A Story of Surrender | 152838 | [152838-the-wind-a-story-of-surrender.json](./152838-the-wind-a-story-of-surrender.json) |
 | The Wind's Disciple | 265935 | [265935-the-winds-disciple.json](./265935-the-winds-disciple.json) |
 | The Window 8 | 348228 | [348228-the-window-8.json](./348228-the-window-8.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
@@ -4582,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topic Twister | 254162 | [254162-topic-twister.json](./254162-topic-twister.json) |
 | Topo Mix Game | 204107 | [204107-topo-mix-game.json](./204107-topo-mix-game.json) |
 | Topolino amico delle guardie | 246664 | [246664-topolino-amico-delle-guardie.json](./246664-topolino-amico-delle-guardie.json) |
+| Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
 | Topple Adventure | 214490 | [214490-topple-adventure.json](./214490-topple-adventure.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
@@ -5082,6 +5089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Traffic Manager: Diamond Edition | 317244 | [317244-train-traffic-manager-diamond-edition.json](./317244-train-traffic-manager-diamond-edition.json) |
 | Train Traffic Manager: Gold Edition | 308794 | [308794-train-traffic-manager-gold-edition.json](./308794-train-traffic-manager-gold-edition.json) |
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
+| Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
 | Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
