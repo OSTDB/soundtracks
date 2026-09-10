@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T03:01:16.753Z",
-  "total_missing": 52704,
+  "generated_at": "2026-09-10T03:11:12.363Z",
+  "total_missing": 52703,
   "games": [
     {
       "igdb_id": 306086,
@@ -1246,11 +1246,6 @@
       "igdb_id": 37195,
       "game_name": "3DO Maniac Pack",
       "file": "missing/0-9/37195-3do-maniac-pack.json"
-    },
-    {
-      "igdb_id": 344916,
-      "game_name": "3DTuning: Car Game & Simulator",
-      "file": "missing/0-9/344916-3dtuning-car-game-and-simulator.json"
     },
     {
       "igdb_id": 187449,
