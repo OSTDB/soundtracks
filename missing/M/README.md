@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man of Steel | 63305 | [63305-man-of-steel.json](./63305-man-of-steel.json) |
 | Man of Sterling Quality | 192432 | [192432-man-of-sterling-quality.json](./192432-man-of-sterling-quality.json) |
 | Man of War II: Chains of Command | 73835 | [73835-man-of-war-ii-chains-of-command.json](./73835-man-of-war-ii-chains-of-command.json) |
+| Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
 | Mana Chess | 195148 | [195148-mana-chess.json](./195148-mana-chess.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
@@ -743,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark of the Ninja: Remastered | 94969 | [94969-mark-of-the-ninja-remastered.json](./94969-mark-of-the-ninja-remastered.json) |
 | Mark the Headless Chicken | 391616 | [391616-mark-the-headless-chicken.json](./391616-mark-the-headless-chicken.json) |
 | Mark-I: Mission Pilot | 156632 | [156632-mark-i-mission-pilot.json](./156632-mark-i-mission-pilot.json) |
+| Mark's Life | 150089 | [150089-marks-life.json](./150089-marks-life.json) |
 | Market Chain 98 | 405540 | [405540-market-chain-98.json](./405540-market-chain-98.json) |
 | Market Dominion | 114393 | [114393-market-dominion.json](./114393-market-dominion.json) |
 | Market Dominion: Global Rivalry | 170987 | [170987-market-dominion-global-rivalry.json](./170987-market-dominion-global-rivalry.json) |
@@ -1919,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mika Dozer Spin | 90693 | [90693-mika-dozer-spin.json](./90693-mika-dozer-spin.json) |
 | Mikagami Sumika No Seifuku Katsudou | 147446 | [147446-mikagami-sumika-no-seifuku-katsudou.json](./147446-mikagami-sumika-no-seifuku-katsudou.json) |
 | Mikagura Shoujo Tanteidan | 60575 | [60575-mikagura-shoujo-tanteidan.json](./60575-mikagura-shoujo-tanteidan.json) |
+| Mikan Muzou | 150055 | [150055-mikan-muzou.json](./150055-mikan-muzou.json) |
 | Mikane's Hand | 406686 | [406686-mikanes-hand.json](./406686-mikanes-hand.json) |
 | Mikazuki: Hoshimeguri no Uta | 331890 | [331890-mikazuki-hoshimeguri-no-uta.json](./331890-mikazuki-hoshimeguri-no-uta.json) |
 | Mike and the Zombies | 243676 | [243676-mike-and-the-zombies.json](./243676-mike-and-the-zombies.json) |
@@ -2273,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mircea | 320739 | [320739-mircea.json](./320739-mircea.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
 | Mirko Polo | 298564 | [298564-mirko-polo.json](./298564-mirko-polo.json) |
+| Mirror House Cornflake | 150109 | [150109-mirror-house-cornflake.json](./150109-mirror-house-cornflake.json) |
 | Mirror Image | 322352 | [322352-mirror-image.json](./322352-mirror-image.json) |
 | Mirror Insideout | 331882 | [331882-mirror-insideout.json](./331882-mirror-insideout.json) |
 | Mirror Land | 91986 | [91986-mirror-land.json](./91986-mirror-land.json) |
