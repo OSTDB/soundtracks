@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T13:49:04.944Z",
-  "total_missing": 53920,
+  "generated_at": "2026-09-10T13:51:26.039Z",
+  "total_missing": 53919,
   "games": [
     {
       "igdb_id": 306086,
@@ -1471,11 +1471,6 @@
       "igdb_id": 335653,
       "game_name": "7 Days of Summer: Lost Alpha",
       "file": "missing/0-9/335653-7-days-of-summer-lost-alpha.json"
-    },
-    {
-      "igdb_id": 340396,
-      "game_name": "7 Days Shrine",
-      "file": "missing/0-9/340396-7-days-shrine.json"
     },
     {
       "igdb_id": 353298,
