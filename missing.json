@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T00:51:12.224Z",
-  "total_missing": 52444,
+  "generated_at": "2026-09-10T01:01:14.725Z",
+  "total_missing": 52443,
   "games": [
     {
       "igdb_id": 306086,
@@ -1181,11 +1181,6 @@
       "igdb_id": 87195,
       "game_name": "3D Puyo Puyo 2: Tsuu",
       "file": "missing/0-9/87195-3d-puyo-puyo-2-tsuu.json"
-    },
-    {
-      "igdb_id": 337612,
-      "game_name": "3D Puzzle: Apocalyptic Wasteland",
-      "file": "missing/0-9/337612-3d-puzzle-apocalyptic-wasteland.json"
     },
     {
       "igdb_id": 337620,
