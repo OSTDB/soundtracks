@@ -2778,7 +2778,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Super Mario Collection: Dai-2-shuu | 179730 | [179730-bs-super-mario-collection-dai-2-shuu.json](./179730-bs-super-mario-collection-dai-2-shuu.json) |
 | BS Super Mario Collection: Dai-3-shuu | 179736 | [179736-bs-super-mario-collection-dai-3-shuu.json](./179736-bs-super-mario-collection-dai-3-shuu.json) |
 | BS Super Mario Collection: Dai-4-shuu | 179744 | [179744-bs-super-mario-collection-dai-4-shuu.json](./179744-bs-super-mario-collection-dai-4-shuu.json) |
+| BS The Legend of Zelda "MottZilla Patch" | 150080 | [150080-bs-the-legend-of-zelda-mottzilla-patch.json](./150080-bs-the-legend-of-zelda-mottzilla-patch.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets | 322560 | [322560-bs-the-legend-of-zelda-ancient-stone-tablets.json](./322560-bs-the-legend-of-zelda-ancient-stone-tablets.json) |
+| BS The Legend of Zelda: Ancient Stone Tablets - Master Quest | 150082 | [150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json](./150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json) |
 | BS Zelda no Densetsu Map 2: Dai-1-wa | 178054 | [178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json](./178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json) |
 | BS Zelda no Densetsu Map 2: Dai-2-wa | 178056 | [178056-bs-zelda-no-densetsu-map-2-dai-2-wa.json](./178056-bs-zelda-no-densetsu-map-2-dai-2-wa.json) |
 | BS Zelda no Densetsu Map 2: Dai-3-wa | 178058 | [178058-bs-zelda-no-densetsu-map-2-dai-3-wa.json](./178058-bs-zelda-no-densetsu-map-2-dai-3-wa.json) |
