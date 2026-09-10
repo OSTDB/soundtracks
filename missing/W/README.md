@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.A.R. Hangry | 302104 | [302104-w-a-r-hangry.json](./302104-w-a-r-hangry.json) |
 | W.A.R.D. | 379375 | [379375-w-a-r-d.json](./379375-w-a-r-d.json) |
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
+| W.T. | 151689 | [151689-w-t.json](./151689-w-t.json) |
 | W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
+| Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
@@ -1203,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolves on the Westwind: The Vampire of Havena | 203920 | [203920-wolves-on-the-westwind-the-vampire-of-havena.json](./203920-wolves-on-the-westwind-the-vampire-of-havena.json) |
 | Wolvesville | 262964 | [262964-wolvesville.json](./262964-wolvesville.json) |
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
+| Women's Quiz | 152880 | [152880-womens-quiz.json](./152880-womens-quiz.json) |
 | Wonder Boy | 5560 | [5560-wonder-boy.json](./5560-wonder-boy.json) |
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
