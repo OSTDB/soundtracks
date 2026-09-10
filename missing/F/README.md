@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FanaticBlader | 115699 | [115699-fanaticblader.json](./115699-fanaticblader.json) |
 | Fanciful Diamonds | 359398 | [359398-fanciful-diamonds.json](./359398-fanciful-diamonds.json) |
 | Fancy Island | 172735 | [172735-fancy-island.json](./172735-fancy-island.json) |
+| Fancy Solitaire | 147422 | [147422-fancy-solitaire.json](./147422-fancy-solitaire.json) |
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fangs and Friends | 176436 | [176436-fangs-and-friends.json](./176436-fangs-and-friends.json) |
@@ -336,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
 | Fantasy Story: Lord of Darkness | 200117 | [200117-fantasy-story-lord-of-darkness.json](./200117-fantasy-story-lord-of-darkness.json) |
+| Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
@@ -723,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
 | Fifi's Fortunes: Reclamation | 253944 | [253944-fifis-fortunes-reclamation.json](./253944-fifis-fortunes-reclamation.json) |
 | Fifth Era: Fragments of the Holy Stone | 162414 | [162414-fifth-era-fragments-of-the-holy-stone.json](./162414-fifth-era-fragments-of-the-holy-stone.json) |
+| Fight | 147425 | [147425-fight.json](./147425-fight.json) |
 | Fight | 150650 | [150650-fight.json](./150650-fight.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
 | Fight Buddy Mobile | 200738 | [200738-fight-buddy-mobile.json](./200738-fight-buddy-mobile.json) |
@@ -1204,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
 | Fl337 | 34361 | [34361-fl337.json](./34361-fl337.json) |
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
+| Flag Color Number: Painting and Coloring | 147382 | [147382-flag-color-number-painting-and-coloring.json](./147382-flag-color-number-painting-and-coloring.json) |
 | Flag Defender! | 262656 | [262656-flag-defender.json](./262656-flag-defender.json) |
 | Flag Defense | 213012 | [213012-flag-defense.json](./213012-flag-defense.json) |
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
@@ -1356,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
+| Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
 | Floating Life 2 | 216788 | [216788-floating-life-2.json](./216788-floating-life-2.json) |
 | Floating with Spirits | 383368 | [383368-floating-with-spirits.json](./383368-floating-with-spirits.json) |
 | Floatopia | 314274 | [314274-floatopia.json](./314274-floatopia.json) |
