@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T04:33:35.807Z",
-  "total_missing": 52958,
+  "generated_at": "2026-09-10T04:41:14.364Z",
+  "total_missing": 52957,
   "games": [
     {
       "igdb_id": 306086,
@@ -1291,11 +1291,6 @@
       "igdb_id": 165650,
       "game_name": "4 Months of You",
       "file": "missing/0-9/165650-4-months-of-you.json"
-    },
-    {
-      "igdb_id": 308270,
-      "game_name": "4 of Clubs",
-      "file": "missing/0-9/308270-4-of-clubs.json"
     },
     {
       "igdb_id": 107184,
