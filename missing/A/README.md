@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
 | A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
+| A Boy's Journey | 158681 | [158681-a-boys-journey.json](./158681-a-boys-journey.json) |
 | A Bright Light in the Middle of the Ocean | 182551 | [182551-a-bright-light-in-the-middle-of-the-ocean.json](./182551-a-bright-light-in-the-middle-of-the-ocean.json) |
 | A Broken City | 183537 | [183537-a-broken-city.json](./183537-a-broken-city.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
@@ -94,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gang of Weirdos | 299124 | [299124-a-gang-of-weirdos.json](./299124-a-gang-of-weirdos.json) |
+| A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gentlemen's Dispute | 311503 | [311503-a-gentlemens-dispute.json](./311503-a-gentlemens-dispute.json) |
 | A Girls Fabric Face | 29266 | [29266-a-girls-fabric-face.json](./29266-a-girls-fabric-face.json) |
 | A Glass Room | 144367 | [144367-a-glass-room.json](./144367-a-glass-room.json) |
@@ -1234,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
+| Alien Cat 5 | 158658 | [158658-alien-cat-5.json](./158658-alien-cat-5.json) |
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
 | Alien Dead | 229715 | [229715-alien-dead.json](./229715-alien-dead.json) |
@@ -1469,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amayakashi na Kanojo: Boseiteki na Ayakashi Musume to Ama Ero Seikatsu Hajimemasu | 194578 | [194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json](./194578-amayakashi-na-kanojo-boseiteki-na-ayakashi-musume-to-ama-ero-seikatsu-hajimemasu.json) |
 | Amaze 2 | 36472 | [36472-amaze-2.json](./36472-amaze-2.json) |
 | Amaze 3D | 43172 | [43172-amaze-3d.json](./43172-amaze-3d.json) |
+| Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
 | AmazeBowl | 104070 | [104070-amazebowl.json](./104070-amazebowl.json) |
