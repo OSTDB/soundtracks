@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flintstones' Bedrock Boblseddin' Blowout | 196839 | [196839-flintstones-bedrock-boblseddin-blowout.json](./196839-flintstones-bedrock-boblseddin-blowout.json) |
 | Flip | 381025 | [381025-flip.json](./381025-flip.json) |
 | Flip for Cake | 361721 | [361721-flip-for-cake.json](./361721-flip-for-cake.json) |
+| Flip Maze | 137589 | [137589-flip-maze.json](./137589-flip-maze.json) |
 | Flip of Light | 185119 | [185119-flip-of-light.json](./185119-flip-of-light.json) |
 | Flip or Flop: Home Edition | 209453 | [209453-flip-or-flop-home-edition.json](./209453-flip-or-flop-home-edition.json) |
 | Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
@@ -1852,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: Deluxe Edition | 271467 | [271467-forza-motorsport-deluxe-edition.json](./271467-forza-motorsport-deluxe-edition.json) |
 | Forza Motorsport: Porsche 963 Combo | 316395 | [316395-forza-motorsport-porsche-963-combo.json](./316395-forza-motorsport-porsche-963-combo.json) |
 | Forza Motorsport: Premium Add-Ons Bundle | 271472 | [271472-forza-motorsport-premium-add-ons-bundle.json](./271472-forza-motorsport-premium-add-ons-bundle.json) |
+| Forza Polpo | 137632 | [137632-forza-polpo.json](./137632-forza-polpo.json) |
 | Forza Street: Tap to Race | 237369 | [237369-forza-street-tap-to-race.json](./237369-forza-street-tap-to-race.json) |
 | Fossil Corner | 150075 | [150075-fossil-corner.json](./150075-fossil-corner.json) |
 | Fossil Fighters: Frontier | 8609 | [8609-fossil-fighters-frontier.json](./8609-fossil-fighters-frontier.json) |
