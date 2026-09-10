@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C.K.: Dock Chess King | 244251 | [244251-d-c-k-dock-chess-king.json](./244251-d-c-k-dock-chess-king.json) |
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
+| D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
 | D.O.A.S.: Department of Applied Science | 184601 | [184601-d-o-a-s-department-of-applied-science.json](./184601-d-o-a-s-department-of-applied-science.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
@@ -385,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
 | Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
 | Das Tier | 141155 | [141155-das-tier.json](./141155-das-tier.json) |
+| Dasaku | 137041 | [137041-dasaku.json](./137041-dasaku.json) |
 | Dash & Roll | 285981 | [285981-dash-and-roll.json](./285981-dash-and-roll.json) |
 | Dash & Swing | 245845 | [245845-dash-and-swing.json](./245845-dash-and-swing.json) |
 | Dash and Fire | 155668 | [155668-dash-and-fire.json](./155668-dash-and-fire.json) |
@@ -1085,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
 | Densha de D: Burning Stage | 55923 | [55923-densha-de-d-burning-stage.json](./55923-densha-de-d-burning-stage.json) |
 | Densha de D: Climax Stage | 55920 | [55920-densha-de-d-climax-stage.json](./55920-densha-de-d-climax-stage.json) |
+| Densha de D: Lightning Stage | 137014 | [137014-densha-de-d-lightning-stage.json](./137014-densha-de-d-lightning-stage.json) |
 | Densha de D: Rising Stage | 55924 | [55924-densha-de-d-rising-stage.json](./55924-densha-de-d-rising-stage.json) |
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
@@ -1115,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
 | Derby Life: Ranch & Race | 415104 | [415104-derby-life-ranch-and-race.json](./415104-derby-life-ranch-and-race.json) |
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
+| Derby Stallion | 137021 | [137021-derby-stallion.json](./137021-derby-stallion.json) |
 | Derby Stallion 04 | 123048 | [123048-derby-stallion-04.json](./123048-derby-stallion-04.json) |
 | Derby Stallion 2 | 405468 | [405468-derby-stallion-2.json](./405468-derby-stallion-2.json) |
 | Derby Stallion 96 Taiou: Shuboba Data | 234888 | [234888-derby-stallion-96-taiou-shuboba-data.json](./234888-derby-stallion-96-taiou-shuboba-data.json) |
