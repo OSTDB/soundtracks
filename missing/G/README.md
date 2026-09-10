@@ -74,7 +74,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Bounty | 406684 | [406684-galactic-bounty.json](./406684-galactic-bounty.json) |
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
+| Galactic Civilizations III: Lost Treasures DLC | 163371 | [163371-galactic-civilizations-iii-lost-treasures-dlc.json](./163371-galactic-civilizations-iii-lost-treasures-dlc.json) |
+| Galactic Civilizations III: Map Pack DLC | 163374 | [163374-galactic-civilizations-iii-map-pack-dlc.json](./163374-galactic-civilizations-iii-map-pack-dlc.json) |
+| Galactic Civilizations III: Mega Events DLC | 163377 | [163377-galactic-civilizations-iii-mega-events-dlc.json](./163377-galactic-civilizations-iii-mega-events-dlc.json) |
+| Galactic Civilizations III: Mercenaries Expansion Pack | 163378 | [163378-galactic-civilizations-iii-mercenaries-expansion-pack.json](./163378-galactic-civilizations-iii-mercenaries-expansion-pack.json) |
+| Galactic Civilizations III: Precursor Worlds DLC | 163380 | [163380-galactic-civilizations-iii-precursor-worlds-dlc.json](./163380-galactic-civilizations-iii-precursor-worlds-dlc.json) |
+| Galactic Civilizations III: Retribution Expansion | 163379 | [163379-galactic-civilizations-iii-retribution-expansion.json](./163379-galactic-civilizations-iii-retribution-expansion.json) |
+| Galactic Civilizations III: Revenge of the Snathi DLC | 163375 | [163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json](./163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json) |
 | Galactic Civilizations III: Rise of the Terrans | 19610 | [19610-galactic-civilizations-iii-rise-of-the-terrans.json](./19610-galactic-civilizations-iii-rise-of-the-terrans.json) |
+| Galactic Civilizations III: Rise of the Terrans DLC | 163370 | [163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json](./163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json) |
+| Galactic Civilizations III: Villains of Star Control - Origins | 163382 | [163382-galactic-civilizations-iii-villains-of-star-control-origins.json](./163382-galactic-civilizations-iii-villains-of-star-control-origins.json) |
+| Galactic Civilizations III: Worlds in Crisis DLC | 163381 | [163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json](./163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json) |
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
 | Galactic Civilizations IV: Tales of the Arnor | 277001 | [277001-galactic-civilizations-iv-tales-of-the-arnor.json](./277001-galactic-civilizations-iv-tales-of-the-arnor.json) |
 | Galactic Civilizations IV: Warlords | 277002 | [277002-galactic-civilizations-iv-warlords.json](./277002-galactic-civilizations-iv-warlords.json) |
