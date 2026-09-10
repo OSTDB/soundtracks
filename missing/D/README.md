@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
+| Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
+| Demon Hunter Mai | 134603 | [134603-demon-hunter-mai.json](./134603-demon-hunter-mai.json) |
 | Demon Hunter: Chronicles from Beyond | 17987 | [17987-demon-hunter-chronicles-from-beyond.json](./17987-demon-hunter-chronicles-from-beyond.json) |
 | Demon Hunter: New Chapter | 232987 | [232987-demon-hunter-new-chapter.json](./232987-demon-hunter-new-chapter.json) |
 | Demon Hunter: Shadow World | 320175 | [320175-demon-hunter-shadow-world.json](./320175-demon-hunter-shadow-world.json) |
@@ -1663,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 6 Complete | 191497 | [191497-disgaea-6-complete.json](./191497-disgaea-6-complete.json) |
 | Disgaea 7: Vows of the Virtueless | 214530 | [214530-disgaea-7-vows-of-the-virtueless.json](./214530-disgaea-7-vows-of-the-virtueless.json) |
 | Disgaea Infinite | 21742 | [21742-disgaea-infinite.json](./21742-disgaea-infinite.json) |
+| Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
 | Disguised Blessing | 332991 | [332991-disguised-blessing.json](./332991-disguised-blessing.json) |
 | Dish Up Fruit | 302344 | [302344-dish-up-fruit.json](./302344-dish-up-fruit.json) |
 | Disharmony | 168325 | [168325-disharmony.json](./168325-disharmony.json) |
@@ -2422,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
+| Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Champions | 125473 | [125473-dragon-champions.json](./125473-dragon-champions.json) |
 | Dragon City | 38877 | [38877-dragon-city.json](./38877-dragon-city.json) |
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
@@ -2736,6 +2740,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
+| Drink Bar Maid | 134608 | [134608-drink-bar-maid.json](./134608-drink-bar-maid.json) |
+| Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
 | Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
@@ -3017,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
+| Dungeon Lord | 134610 | [134610-dungeon-lord.json](./134610-dungeon-lord.json) |
 | Dungeon Man | 277272 | [277272-dungeon-man.json](./277272-dungeon-man.json) |
 | Dungeon Mania | 252153 | [252153-dungeon-mania.json](./252153-dungeon-mania.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
@@ -3031,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
+| Dungeon Party | 134613 | [134613-dungeon-party.json](./134613-dungeon-party.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
 | Dungeon Quest | 101600 | [101600-dungeon-quest.json](./101600-dungeon-quest.json) |
