@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T12:01:20.517Z",
-  "total_missing": 53693,
+  "generated_at": "2026-09-10T12:11:06.654Z",
+  "total_missing": 53701,
   "games": [
     {
       "igdb_id": 306086,
@@ -1421,11 +1421,6 @@
       "igdb_id": 262068,
       "game_name": "60 Second Game Challenge",
       "file": "missing/0-9/262068-60-second-game-challenge.json"
-    },
-    {
-      "igdb_id": 349831,
-      "game_name": "60 Seconds! Souper Scavenger",
-      "file": "missing/0-9/349831-60-seconds-souper-scavenger.json"
     },
     {
       "igdb_id": 3433,
@@ -20601,6 +20596,11 @@
       "igdb_id": 14287,
       "game_name": "Baron Baldric: A Grave Adventure",
       "file": "missing/B/14287-baron-baldric-a-grave-adventure.json"
+    },
+    {
+      "igdb_id": 154520,
+      "game_name": "Barony: Legends & Pariahs",
+      "file": "missing/B/154520-barony-legends-and-pariahs.json"
     },
     {
       "igdb_id": 196818,
@@ -60513,6 +60513,11 @@
       "file": "missing/D/303488-dont-find-me.json"
     },
     {
+      "igdb_id": 154519,
+      "game_name": "Don't Forget Me: Deluxe Edition",
+      "file": "missing/D/154519-dont-forget-me-deluxe-edition.json"
+    },
+    {
       "igdb_id": 181874,
       "game_name": "Don't Get a Virus",
       "file": "missing/D/181874-dont-get-a-virus.json"
@@ -77031,6 +77036,11 @@
       "igdb_id": 346592,
       "game_name": "Figurine Shop Simulator",
       "file": "missing/F/346592-figurine-shop-simulator.json"
+    },
+    {
+      "igdb_id": 154517,
+      "game_name": "Filament: Marmalade Edition",
+      "file": "missing/F/154517-filament-marmalade-edition.json"
     },
     {
       "igdb_id": 337124,
@@ -100683,6 +100693,21 @@
       "file": "missing/H/128909-hidden-through-time.json"
     },
     {
+      "igdb_id": 154514,
+      "game_name": "Hidden Through Time: Legends of Japan",
+      "file": "missing/H/154514-hidden-through-time-legends-of-japan.json"
+    },
+    {
+      "igdb_id": 154515,
+      "game_name": "Hidden Through Time: Road to Rome",
+      "file": "missing/H/154515-hidden-through-time-road-to-rome.json"
+    },
+    {
+      "igdb_id": 154516,
+      "game_name": "Hidden Through Time: Viking Tales",
+      "file": "missing/H/154516-hidden-through-time-viking-tales.json"
+    },
+    {
       "igdb_id": 277827,
       "game_name": "Hidden Western Top-Down 3D",
       "file": "missing/H/277827-hidden-western-top-down-3d.json"
@@ -111506,6 +111531,11 @@
       "igdb_id": 316071,
       "game_name": "Iter-8",
       "file": "missing/I/316071-iter-8.json"
+    },
+    {
+      "igdb_id": 154573,
+      "game_name": "Iteration Factor",
+      "file": "missing/I/154573-iteration-factor.json"
     },
     {
       "igdb_id": 365098,
@@ -162193,6 +162223,11 @@
       "file": "missing/P/201257-paradise-island-driver.json"
     },
     {
+      "igdb_id": 154518,
+      "game_name": "Paradise Killer: Perfect 25 Edition",
+      "file": "missing/P/154518-paradise-killer-perfect-25-edition.json"
+    },
+    {
       "igdb_id": 156652,
       "game_name": "Paradise Lofts",
       "file": "missing/P/156652-paradise-lofts.json"
@@ -195131,6 +195166,11 @@
       "igdb_id": 129191,
       "game_name": "Shenmue III: Battle Rally",
       "file": "missing/S/129191-shenmue-iii-battle-rally.json"
+    },
+    {
+      "igdb_id": 154513,
+      "game_name": "Shenmue III: Deluxe Edition",
+      "file": "missing/S/154513-shenmue-iii-deluxe-edition.json"
     },
     {
       "igdb_id": 113015,
