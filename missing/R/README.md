@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
+| Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
 | Race Manager | 264630 | [264630-race-manager.json](./264630-race-manager.json) |
 | Race Max Pro | 392152 | [392152-race-max-pro.json](./392152-race-max-pro.json) |
@@ -766,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rejuvan | 302966 | [302966-rejuvan.json](./302966-rejuvan.json) |
 | Rekea: GOTY Edition | 181333 | [181333-rekea-goty-edition.json](./181333-rekea-goty-edition.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
+| Rekkr: Sunken Land | 167786 | [167786-rekkr-sunken-land.json](./167786-rekkr-sunken-land.json) |
 | Reknum | 130401 | [130401-reknum.json](./130401-reknum.json) |
 | Reknum DX | 182475 | [182475-reknum-dx.json](./182475-reknum-dx.json) |
 | Reknum: Origins Collection | 182476 | [182476-reknum-origins-collection.json](./182476-reknum-origins-collection.json) |
