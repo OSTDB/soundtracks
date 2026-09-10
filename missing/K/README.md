@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
+| Kisekimura | 149547 | [149547-kisekimura.json](./149547-kisekimura.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
 | Kishin Douji Zenki: Tenchi Meidou | 38360 | [38360-kishin-douji-zenki-tenchi-meidou.json](./38360-kishin-douji-zenki-tenchi-meidou.json) |
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Koishite Doki-doki Choice Messe & Date | 251610 | [251610-koishite-doki-doki-choice-messe-and-date.json](./251610-koishite-doki-doki-choice-messe-and-date.json) |
 | Koisuru Purin! Koi ha Daibouken! Dr. Kanmi no Yabou!? | 269581 | [269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json](./269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json) |
+| Kojouji | 149543 | [149543-kojouji.json](./149543-kojouji.json) |
 | Koko's Cafe | 406678 | [406678-kokos-cafe.json](./406678-kokos-cafe.json) |
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
 | Kokomando | 299719 | [299719-kokomando.json](./299719-kokomando.json) |
