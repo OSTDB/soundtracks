@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
 | Obsession | 184056 | [184056-obsession.json](./184056-obsession.json) |
+| Obsessive Love Adventure Utsuro's Diary | 151680 | [151680-obsessive-love-adventure-utsuros-diary.json](./151680-obsessive-love-adventure-utsuros-diary.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
@@ -537,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Ultimate Edition | 266820 | [266820-one-piece-pirate-warriors-4-ultimate-edition.json](./266820-one-piece-pirate-warriors-4-ultimate-edition.json) |
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
 | One Piece: World Seeker Episode Pass | 152911 | [152911-one-piece-world-seeker-episode-pass.json](./152911-one-piece-world-seeker-episode-pass.json) |
+| One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 1 - Suiryu | 134062 | [134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json](./134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 2 - Lightning Max | 134063 | [134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json](./134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 3 - Watchdog Man | 134064 | [134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json](./134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json) |
@@ -897,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otto's Ottifanten: Kommando Stortebeker | 50559 | [50559-ottos-ottifanten-kommando-stortebeker.json](./50559-ottos-ottifanten-kommando-stortebeker.json) |
 | Ottopunk | 181858 | [181858-ottopunk.json](./181858-ottopunk.json) |
 | Ottopunks: Gangs of Bosphorus | 250943 | [250943-ottopunks-gangs-of-bosphorus.json](./250943-ottopunks-gangs-of-bosphorus.json) |
+| Ou | 151666 | [151666-ou.json](./151666-ou.json) |
 | Ou Dorobou Jing: Devil Version | 146341 | [146341-ou-dorobou-jing-devil-version.json](./146341-ou-dorobou-jing-devil-version.json) |
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
