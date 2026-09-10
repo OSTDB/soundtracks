@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T03:41:12.618Z",
-  "total_missing": 52800,
+  "generated_at": "2026-09-10T03:48:40.450Z",
+  "total_missing": 52850,
   "games": [
     {
       "igdb_id": 306086,
@@ -16353,6 +16353,11 @@
       "file": "missing/A/342049-astround.json"
     },
     {
+      "igdb_id": 163908,
+      "game_name": "Astrovity",
+      "file": "missing/A/163908-astrovity.json"
+    },
+    {
       "igdb_id": 199594,
       "game_name": "Astroworld",
       "file": "missing/A/199594-astroworld.json"
@@ -27278,6 +27283,11 @@
       "file": "missing/B/315827-blokdoku.json"
     },
     {
+      "igdb_id": 163909,
+      "game_name": "Blokker: Orange",
+      "file": "missing/B/163909-blokker-orange.json"
+    },
+    {
       "igdb_id": 346585,
       "game_name": "Blokoto",
       "file": "missing/B/346585-blokoto.json"
@@ -33253,6 +33263,11 @@
       "file": "missing/B/263481-bush-royal-rampage.json"
     },
     {
+      "igdb_id": 163925,
+      "game_name": "Bushfires: Animal Rescue",
+      "file": "missing/B/163925-bushfires-animal-rescue.json"
+    },
+    {
       "igdb_id": 260375,
       "game_name": "Bushido Saga: Nightmare of the Samurai",
       "file": "missing/B/260375-bushido-saga-nightmare-of-the-samurai.json"
@@ -33906,6 +33921,11 @@
       "igdb_id": 394894,
       "game_name": "Cairn",
       "file": "missing/C/394894-cairn.json"
+    },
+    {
+      "igdb_id": 163941,
+      "game_name": "Cairn: Mathair's Curse",
+      "file": "missing/C/163941-cairn-mathairs-curse.json"
     },
     {
       "igdb_id": 152893,
@@ -40036,6 +40056,11 @@
       "igdb_id": 95423,
       "game_name": "Christian Matchups",
       "file": "missing/C/95423-christian-matchups.json"
+    },
+    {
+      "igdb_id": 163921,
+      "game_name": "Christmas Adventures: A Winter Night's Dream",
+      "file": "missing/C/163921-christmas-adventures-a-winter-nights-dream.json"
     },
     {
       "igdb_id": 184047,
@@ -62638,6 +62663,11 @@
       "file": "missing/D/147973-draw-and-lie.json"
     },
     {
+      "igdb_id": 163914,
+      "game_name": "Draw From Earth",
+      "file": "missing/D/163914-draw-from-earth.json"
+    },
+    {
       "igdb_id": 200155,
       "game_name": "Draw Mania",
       "file": "missing/D/200155-draw-mania.json"
@@ -71198,6 +71228,11 @@
       "file": "missing/E/377083-everfall-idle-dungeon-rpg.json"
     },
     {
+      "igdb_id": 163911,
+      "game_name": "Everglory",
+      "file": "missing/E/163911-everglory.json"
+    },
+    {
       "igdb_id": 390495,
       "game_name": "Evergreen Meadow",
       "file": "missing/E/390495-evergreen-meadow.json"
@@ -75613,6 +75648,11 @@
       "file": "missing/F/282586-felix-the-cat-contra-os-inimigos.json"
     },
     {
+      "igdb_id": 163916,
+      "game_name": "Felix VR",
+      "file": "missing/F/163916-felix-vr.json"
+    },
+    {
       "igdb_id": 302356,
       "game_name": "Felon-E",
       "file": "missing/F/302356-felon-e.json"
@@ -77231,6 +77271,11 @@
       "igdb_id": 141237,
       "game_name": "Fire Emblem: Vision Quest",
       "file": "missing/F/141237-fire-emblem-vision-quest.json"
+    },
+    {
+      "igdb_id": 163923,
+      "game_name": "Fire Embrace: Erabareshi Chigyuu no Ken",
+      "file": "missing/F/163923-fire-embrace-erabareshi-chigyuu-no-ken.json"
     },
     {
       "igdb_id": 374086,
@@ -85931,6 +85976,11 @@
       "igdb_id": 75915,
       "game_name": "Garenburg Woods",
       "file": "missing/G/75915-garenburg-woods.json"
+    },
+    {
+      "igdb_id": 163917,
+      "game_name": "Garetto",
+      "file": "missing/G/163917-garetto.json"
     },
     {
       "igdb_id": 309657,
@@ -95311,6 +95361,11 @@
       "igdb_id": 219810,
       "game_name": "Hard Life",
       "file": "missing/H/219810-hard-life.json"
+    },
+    {
+      "igdb_id": 163924,
+      "game_name": "Hard Minus Classic Redux",
+      "file": "missing/H/163924-hard-minus-classic-redux.json"
     },
     {
       "igdb_id": 249182,
@@ -109808,6 +109863,11 @@
       "file": "missing/I/392153-iscoot.json"
     },
     {
+      "igdb_id": 163919,
+      "game_name": "ISDDS: Drone VR Simulator",
+      "file": "missing/I/163919-isdds-drone-vr-simulator.json"
+    },
+    {
       "igdb_id": 296942,
       "game_name": "Isekai Awakening",
       "file": "missing/I/296942-isekai-awakening.json"
@@ -110031,6 +110091,11 @@
       "igdb_id": 57673,
       "game_name": "Island Peril",
       "file": "missing/I/57673-island-peril.json"
+    },
+    {
+      "igdb_id": 163915,
+      "game_name": "Island Raft Survival 2021: Ocean Escape",
+      "file": "missing/I/163915-island-raft-survival-2021-ocean-escape.json"
     },
     {
       "igdb_id": 31914,
@@ -137538,6 +137603,11 @@
       "file": "missing/M/171027-mind-blowing-girls-2.json"
     },
     {
+      "igdb_id": 163995,
+      "game_name": "Mind-Blowing Girls 3",
+      "file": "missing/M/163995-mind-blowing-girls-3.json"
+    },
+    {
       "igdb_id": 27763,
       "game_name": "Mind-Machine Interface",
       "file": "missing/M/27763-mind-machine-interface.json"
@@ -137998,6 +138068,11 @@
       "file": "missing/M/201799-miner-rush.json"
     },
     {
+      "igdb_id": 163918,
+      "game_name": "Miner Ultra Rag Smash",
+      "file": "missing/M/163918-miner-ultra-rag-smash.json"
+    },
+    {
       "igdb_id": 413614,
       "game_name": "Mineroids",
       "file": "missing/M/413614-mineroids.json"
@@ -138021,6 +138096,11 @@
       "igdb_id": 102817,
       "game_name": "Mines",
       "file": "missing/M/102817-mines.json"
+    },
+    {
+      "igdb_id": 163994,
+      "game_name": "Mines & Dragons",
+      "file": "missing/M/163994-mines-and-dragons.json"
     },
     {
       "igdb_id": 248063,
@@ -146641,6 +146721,11 @@
       "igdb_id": 236511,
       "game_name": "Naive Riri",
       "file": "missing/N/236511-naive-riri.json"
+    },
+    {
+      "igdb_id": 163920,
+      "game_name": "Nakadashi Banzai 4",
+      "file": "missing/N/163920-nakadashi-banzai-4.json"
     },
     {
       "igdb_id": 392129,
@@ -164348,14 +164433,69 @@
       "file": "missing/P/354448-pinball-fx2-rocky-and-bullwinkle.json"
     },
     {
+      "igdb_id": 163997,
+      "game_name": "Pinball FX3: Balls of Glory Pinball",
+      "file": "missing/P/163997-pinball-fx3-balls-of-glory-pinball.json"
+    },
+    {
+      "igdb_id": 164002,
+      "game_name": "Pinball FX3: Bethesda Pinball",
+      "file": "missing/P/164002-pinball-fx3-bethesda-pinball.json"
+    },
+    {
+      "igdb_id": 163996,
+      "game_name": "Pinball FX3: Carnivals and Legends",
+      "file": "missing/P/163996-pinball-fx3-carnivals-and-legends.json"
+    },
+    {
       "igdb_id": 325864,
       "game_name": "Pinball FX3: Carnivals and Legends Demo",
       "file": "missing/P/325864-pinball-fx3-carnivals-and-legends-demo.json"
     },
     {
+      "igdb_id": 164005,
+      "game_name": "Pinball FX3: Core Collection",
+      "file": "missing/P/164005-pinball-fx3-core-collection.json"
+    },
+    {
       "igdb_id": 193394,
       "game_name": "Pinball FX3: Indiana Jones - The Pinball Adventure",
       "file": "missing/P/193394-pinball-fx3-indiana-jones-the-pinball-adventure.json"
+    },
+    {
+      "igdb_id": 163998,
+      "game_name": "Pinball FX3: Marvel Pinball - Avengers Chronicles",
+      "file": "missing/P/163998-pinball-fx3-marvel-pinball-avengers-chronicles.json"
+    },
+    {
+      "igdb_id": 164003,
+      "game_name": "Pinball FX3: Marvel Pinball Original Pack",
+      "file": "missing/P/164003-pinball-fx3-marvel-pinball-original-pack.json"
+    },
+    {
+      "igdb_id": 163999,
+      "game_name": "Pinball FX3: Marvel Pinball Vengeance and Virtue Pack",
+      "file": "missing/P/163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json"
+    },
+    {
+      "igdb_id": 164006,
+      "game_name": "Pinball FX3: Marvel's Women of Power",
+      "file": "missing/P/164006-pinball-fx3-marvels-women-of-power.json"
+    },
+    {
+      "igdb_id": 164001,
+      "game_name": "Pinball FX3: The Walking Dead Pinball",
+      "file": "missing/P/164001-pinball-fx3-the-walking-dead-pinball.json"
+    },
+    {
+      "igdb_id": 164000,
+      "game_name": "Pinball FX3: Williams Pinball - Volume 2",
+      "file": "missing/P/164000-pinball-fx3-williams-pinball-volume-2.json"
+    },
+    {
+      "igdb_id": 164004,
+      "game_name": "Pinball FX3: Williams Pinball - Volume 5",
+      "file": "missing/P/164004-pinball-fx3-williams-pinball-volume-5.json"
     },
     {
       "igdb_id": 175348,
@@ -173063,6 +173203,11 @@
       "file": "missing/P/263775-puzzle-game.json"
     },
     {
+      "igdb_id": 163913,
+      "game_name": "Puzzle Girls: Celia",
+      "file": "missing/P/163913-puzzle-girls-celia.json"
+    },
+    {
       "igdb_id": 340743,
       "game_name": "Puzzle Islands: Ancient & Modern - Bundle",
       "file": "missing/P/340743-puzzle-islands-ancient-and-modern-bundle.json"
@@ -173506,6 +173651,11 @@
       "igdb_id": 309096,
       "game_name": "Pythagorea 60°",
       "file": "missing/P/309096-pythagorea-60.json"
+    },
+    {
+      "igdb_id": 163922,
+      "game_name": "Pythian",
+      "file": "missing/P/163922-pythian.json"
     },
     {
       "igdb_id": 60016,
@@ -180148,6 +180298,11 @@
       "file": "missing/R/212245-revival-ao.json"
     },
     {
+      "igdb_id": 163912,
+      "game_name": "Revived Souls",
+      "file": "missing/R/163912-revived-souls.json"
+    },
+    {
       "igdb_id": 63884,
       "game_name": "Reviver: The Real-Time Adventure",
       "file": "missing/R/63884-reviver-the-real-time-adventure.json"
@@ -180731,6 +180886,11 @@
       "igdb_id": 87651,
       "game_name": "Rider",
       "file": "missing/R/87651-rider.json"
+    },
+    {
+      "igdb_id": 163942,
+      "game_name": "Rider's World: I Want to Ride!",
+      "file": "missing/R/163942-riders-world-i-want-to-ride.json"
     },
     {
       "igdb_id": 158706,
@@ -197223,6 +197383,11 @@
       "file": "missing/S/104661-slime-garden.json"
     },
     {
+      "igdb_id": 163910,
+      "game_name": "Slime Killer",
+      "file": "missing/S/163910-slime-killer.json"
+    },
+    {
       "igdb_id": 102192,
       "game_name": "Slime Kingdom",
       "file": "missing/S/102192-slime-kingdom.json"
@@ -209241,6 +209406,11 @@
       "igdb_id": 257115,
       "game_name": "Storia Stories",
       "file": "missing/S/257115-storia-stories.json"
+    },
+    {
+      "igdb_id": 163943,
+      "game_name": "Stories of Submission: Enter the Cuck",
+      "file": "missing/S/163943-stories-of-submission-enter-the-cuck.json"
     },
     {
       "igdb_id": 295534,
@@ -236043,6 +236213,81 @@
       "file": "missing/T/160385-tiger-tank-59-i-volcano-mp029.json"
     },
     {
+      "igdb_id": 163935,
+      "game_name": "Tiger Tank 59 I: Volcano MP036",
+      "file": "missing/T/163935-tiger-tank-59-i-volcano-mp036.json"
+    },
+    {
+      "igdb_id": 163926,
+      "game_name": "Tiger Tank 59 I: Volcano MP037",
+      "file": "missing/T/163926-tiger-tank-59-i-volcano-mp037.json"
+    },
+    {
+      "igdb_id": 163929,
+      "game_name": "Tiger Tank 59 I: Volcano MP038",
+      "file": "missing/T/163929-tiger-tank-59-i-volcano-mp038.json"
+    },
+    {
+      "igdb_id": 163931,
+      "game_name": "Tiger Tank 59 I: Volcano MP039",
+      "file": "missing/T/163931-tiger-tank-59-i-volcano-mp039.json"
+    },
+    {
+      "igdb_id": 163934,
+      "game_name": "Tiger Tank 59 I: Volcano MP040",
+      "file": "missing/T/163934-tiger-tank-59-i-volcano-mp040.json"
+    },
+    {
+      "igdb_id": 163936,
+      "game_name": "Tiger Tank 59 I: Volcano MP041",
+      "file": "missing/T/163936-tiger-tank-59-i-volcano-mp041.json"
+    },
+    {
+      "igdb_id": 163932,
+      "game_name": "Tiger Tank 59 I: Volcano MP042",
+      "file": "missing/T/163932-tiger-tank-59-i-volcano-mp042.json"
+    },
+    {
+      "igdb_id": 163940,
+      "game_name": "Tiger Tank 59 I: Volcano MP043",
+      "file": "missing/T/163940-tiger-tank-59-i-volcano-mp043.json"
+    },
+    {
+      "igdb_id": 163930,
+      "game_name": "Tiger Tank 59 I: Volcano MP044",
+      "file": "missing/T/163930-tiger-tank-59-i-volcano-mp044.json"
+    },
+    {
+      "igdb_id": 163928,
+      "game_name": "Tiger Tank 59 I: Volcano MP045",
+      "file": "missing/T/163928-tiger-tank-59-i-volcano-mp045.json"
+    },
+    {
+      "igdb_id": 163939,
+      "game_name": "Tiger Tank 59 I: Volcano MP046",
+      "file": "missing/T/163939-tiger-tank-59-i-volcano-mp046.json"
+    },
+    {
+      "igdb_id": 163938,
+      "game_name": "Tiger Tank 59 I: Volcano MP047",
+      "file": "missing/T/163938-tiger-tank-59-i-volcano-mp047.json"
+    },
+    {
+      "igdb_id": 163933,
+      "game_name": "Tiger Tank 59 I: Volcano MP048",
+      "file": "missing/T/163933-tiger-tank-59-i-volcano-mp048.json"
+    },
+    {
+      "igdb_id": 163937,
+      "game_name": "Tiger Tank 59 I: Volcano MP049",
+      "file": "missing/T/163937-tiger-tank-59-i-volcano-mp049.json"
+    },
+    {
+      "igdb_id": 163927,
+      "game_name": "Tiger Tank 59 I: Volcano MP050",
+      "file": "missing/T/163927-tiger-tank-59-i-volcano-mp050.json"
+    },
+    {
       "igdb_id": 160369,
       "game_name": "Tiger Tank 59 I: Winter Assault MP006",
       "file": "missing/T/160369-tiger-tank-59-i-winter-assault-mp006.json"
@@ -262221,6 +262466,11 @@
       "igdb_id": 188599,
       "game_name": "Zagadki Tigrenka Usika",
       "file": "missing/Z/188599-zagadki-tigrenka-usika.json"
+    },
+    {
+      "igdb_id": 163907,
+      "game_name": "Zagan Must Be Rescued",
+      "file": "missing/Z/163907-zagan-must-be-rescued.json"
     },
     {
       "igdb_id": 287676,
