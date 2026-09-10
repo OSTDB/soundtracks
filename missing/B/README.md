@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
+| Bad Dream: Bridge | 133931 | [133931-bad-dream-bridge.json](./133931-bad-dream-bridge.json) |
 | Bad Drummer Simulator | 178598 | [178598-bad-drummer-simulator.json](./178598-bad-drummer-simulator.json) |
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
@@ -1052,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
+| Beep | 133952 | [133952-beep.json](./133952-beep.json) |
 | Beep | 331671 | [331671-beep.json](./331671-beep.json) |
 | Beep Boop | 319000 | [319000-beep-boop.json](./319000-beep-boop.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
@@ -1200,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Arcade Games DS | 197897 | [197897-best-of-arcade-games-ds.json](./197897-best-of-arcade-games-ds.json) |
 | Best of Klei 2025 | 52630 | [52630-best-of-klei-2025.json](./52630-best-of-klei-2025.json) |
 | Best of Mahjong | 85509 | [85509-best-of-mahjong.json](./85509-best-of-mahjong.json) |
+| Best of Sierra Nr. 7 | 133972 | [133972-best-of-sierra-nr-7.json](./133972-best-of-sierra-nr-7.json) |
 | Best of Solitaire | 85508 | [85508-best-of-solitaire.json](./85508-best-of-solitaire.json) |
 | Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
 | Best Solitaire Greatest Hits | 86698 | [86698-best-solitaire-greatest-hits.json](./86698-best-solitaire-greatest-hits.json) |
@@ -1552,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitter | 217336 | [217336-bitter.json](./217336-bitter.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
 | Bitterroot | 181857 | [181857-bitterroot.json](./181857-bitterroot.json) |
+| Bittersweet | 133953 | [133953-bittersweet.json](./133953-bittersweet.json) |
 | Bittersweet Dream | 229672 | [229672-bittersweet-dream.json](./229672-bittersweet-dream.json) |
 | Bittos | 91418 | [91418-bittos.json](./91418-bittos.json) |
 | Bitvest.io | 59425 | [59425-bitvest-io.json](./59425-bitvest-io.json) |
@@ -3073,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
+| Bunny Swordmaster Story | 133954 | [133954-bunny-swordmaster-story.json](./133954-bunny-swordmaster-story.json) |
 | Bunny's Flowers | 142422 | [142422-bunnys-flowers.json](./142422-bunnys-flowers.json) |
 | Bunny's Lie | 400863 | [400863-bunnys-lie.json](./400863-bunnys-lie.json) |
 | Bunny's Maze | 150605 | [150605-bunnys-maze.json](./150605-bunnys-maze.json) |
