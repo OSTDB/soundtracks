@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
+| Gunship | 133964 | [133964-gunship.json](./133964-gunship.json) |
 | Gunship | 244760 | [244760-gunship.json](./244760-gunship.json) |
 | Gunship Assault | 188006 | [188006-gunship-assault.json](./188006-gunship-assault.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
