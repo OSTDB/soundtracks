@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
 | Alaska | 86767 | [86767-alaska.json](./86767-alaska.json) |
+| Alaska Gold Fever | 161343 | [161343-alaska-gold-fever.json](./161343-alaska-gold-fever.json) |
 | Alaska: An Endless Night | 350429 | [350429-alaska-an-endless-night.json](./350429-alaska-an-endless-night.json) |
 | Alba: A Wildlife Adventure | 135919 | [135919-alba-a-wildlife-adventure.json](./135919-alba-a-wildlife-adventure.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
@@ -2079,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
 | Aplestia: Retold | 189175 | [189175-aplestia-retold.json](./189175-aplestia-retold.json) |
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
+| Apoc Runner | 161409 | [161409-apoc-runner.json](./161409-apoc-runner.json) |
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
 | Apocalypse | 15598 | [15598-apocalypse.json](./15598-apocalypse.json) |
 | Apocalypse Clash City Free: A Cyberpunk Clan War Death Race game | 351032 | [351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json](./351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json) |
