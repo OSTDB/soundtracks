@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T21:51:00.803Z",
-  "total_missing": 55371,
+  "generated_at": "2026-09-10T22:03:20.049Z",
+  "total_missing": 55420,
   "games": [
     {
       "igdb_id": 306086,
@@ -776,6 +776,11 @@
       "igdb_id": 9771,
       "game_name": "1953: KGB Unleashed",
       "file": "missing/0-9/9771-1953-kgb-unleashed.json"
+    },
+    {
+      "igdb_id": 135236,
+      "game_name": "1977: Radio Aut",
+      "file": "missing/0-9/135236-1977-radio-aut.json"
     },
     {
       "igdb_id": 406096,
@@ -1718,11 +1723,6 @@
       "file": "missing/0-9/353316-99-problems.json"
     },
     {
-      "igdb_id": 221992,
-      "game_name": "99 Seconds",
-      "file": "missing/0-9/221992-99-seconds.json"
-    },
-    {
       "igdb_id": 232146,
       "game_name": "99.99% 3D: Fill the Ball",
       "file": "missing/0-9/232146-99-99-3d-fill-the-ball.json"
@@ -1851,6 +1851,11 @@
       "igdb_id": 68025,
       "game_name": "A Business Tycoon",
       "file": "missing/A/68025-a-business-tycoon.json"
+    },
+    {
+      "igdb_id": 135226,
+      "game_name": "A Buttload of Free Games",
+      "file": "missing/A/135226-a-buttload-of-free-games.json"
     },
     {
       "igdb_id": 343239,
@@ -2586,6 +2591,11 @@
       "igdb_id": 226221,
       "game_name": "A Midnight Village Story",
       "file": "missing/A/226221-a-midnight-village-story.json"
+    },
+    {
+      "igdb_id": 135237,
+      "game_name": "A Milky Way",
+      "file": "missing/A/135237-a-milky-way.json"
     },
     {
       "igdb_id": 206118,
@@ -24303,6 +24313,11 @@
       "file": "missing/B/52631-best-buds-vs-bad-guys.json"
     },
     {
+      "igdb_id": 135238,
+      "game_name": "Best Garden",
+      "file": "missing/B/135238-best-garden.json"
+    },
+    {
       "igdb_id": 377573,
       "game_name": "Best Hero",
       "file": "missing/B/377573-best-hero.json"
@@ -25711,6 +25726,11 @@
       "igdb_id": 135897,
       "game_name": "Bird Alone",
       "file": "missing/B/135897-bird-alone.json"
+    },
+    {
+      "igdb_id": 135239,
+      "game_name": "Bird Bakery",
+      "file": "missing/B/135239-bird-bakery.json"
     },
     {
       "igdb_id": 257378,
@@ -31383,6 +31403,11 @@
       "file": "missing/B/200634-brazzers-the-game.json"
     },
     {
+      "igdb_id": 135167,
+      "game_name": "Breach",
+      "file": "missing/B/135167-breach.json"
+    },
+    {
       "igdb_id": 251831,
       "game_name": "Breach",
       "file": "missing/B/251831-breach.json"
@@ -34968,6 +34993,16 @@
       "file": "missing/C/240504-call-of-duty-ghosts-digital-hardened-edition.json"
     },
     {
+      "igdb_id": 135220,
+      "game_name": "Call of Duty: Modern Warfare - Season Four",
+      "file": "missing/C/135220-call-of-duty-modern-warfare-season-four.json"
+    },
+    {
+      "igdb_id": 135219,
+      "game_name": "Call of Duty: Modern Warfare - Season Three",
+      "file": "missing/C/135219-call-of-duty-modern-warfare-season-three.json"
+    },
+    {
       "igdb_id": 135298,
       "game_name": "Call of Duty: Modern Warfare 2 - Force Recon",
       "file": "missing/C/135298-call-of-duty-modern-warfare-2-force-recon.json"
@@ -36346,6 +36381,11 @@
       "igdb_id": 399617,
       "game_name": "Card&Casino",
       "file": "missing/C/399617-card-and-casino.json"
+    },
+    {
+      "igdb_id": 135161,
+      "game_name": "Cardangels",
+      "file": "missing/C/135161-cardangels.json"
     },
     {
       "igdb_id": 395558,
@@ -40001,6 +40041,11 @@
       "igdb_id": 147955,
       "game_name": "Chess Minimal",
       "file": "missing/C/147955-chess-minimal.json"
+    },
+    {
+      "igdb_id": 135240,
+      "game_name": "Chess Mix",
+      "file": "missing/C/135240-chess-mix.json"
     },
     {
       "igdb_id": 237058,
@@ -45236,6 +45281,11 @@
       "igdb_id": 266793,
       "game_name": "Command: Showcase - Operation Desert Falcon",
       "file": "missing/C/266793-command-showcase-operation-desert-falcon.json"
+    },
+    {
+      "igdb_id": 135166,
+      "game_name": "Commander in Chief: Geo-Political Simulator 2009",
+      "file": "missing/C/135166-commander-in-chief-geo-political-simulator-2009.json"
     },
     {
       "igdb_id": 2439,
@@ -50671,6 +50721,11 @@
       "igdb_id": 316392,
       "game_name": "Cuckold Sex: Episode 3",
       "file": "missing/C/316392-cuckold-sex-episode-3.json"
+    },
+    {
+      "igdb_id": 135241,
+      "game_name": "Cuckoo Castle",
+      "file": "missing/C/135241-cuckoo-castle.json"
     },
     {
       "igdb_id": 82898,
@@ -93623,6 +93678,11 @@
       "file": "missing/G/189164-goomanuvr.json"
     },
     {
+      "igdb_id": 135221,
+      "game_name": "Goomba's Easter Egg Hunt",
+      "file": "missing/G/135221-goombas-easter-egg-hunt.json"
+    },
+    {
       "igdb_id": 302113,
       "game_name": "Gooncrusher",
       "file": "missing/G/302113-gooncrusher.json"
@@ -95221,6 +95281,11 @@
       "igdb_id": 56499,
       "game_name": "Grey Wolf",
       "file": "missing/G/56499-grey-wolf.json"
+    },
+    {
+      "igdb_id": 135222,
+      "game_name": "Grey-Box Testing",
+      "file": "missing/G/135222-grey-box-testing.json"
     },
     {
       "igdb_id": 289345,
@@ -103056,6 +103121,11 @@
       "igdb_id": 279586,
       "game_name": "Hey Ma I'm a Dragon Now",
       "file": "missing/H/279586-hey-ma-im-a-dragon-now.json"
+    },
+    {
+      "igdb_id": 135165,
+      "game_name": "HeyBot! HeyboHeybo! HeyBoTournament!",
+      "file": "missing/H/135165-heybot-heyboheybo-heybotournament.json"
     },
     {
       "igdb_id": 228450,
@@ -118871,6 +118941,11 @@
       "igdb_id": 93588,
       "game_name": "Kajko i Kokosz",
       "file": "missing/K/93588-kajko-i-kokosz.json"
+    },
+    {
+      "igdb_id": 135172,
+      "game_name": "Kajko i Kokosz: Twierdza Czarnoksiężnika",
+      "file": "missing/K/135172-kajko-i-kokosz-twierdza-czarnoksieznika.json"
     },
     {
       "igdb_id": 93587,
@@ -136658,6 +136733,11 @@
       "file": "missing/M/198473-marios-keep-co-op.json"
     },
     {
+      "igdb_id": 135218,
+      "game_name": "Mario's Little Odyssey",
+      "file": "missing/M/135218-marios-little-odyssey.json"
+    },
+    {
       "igdb_id": 324092,
       "game_name": "Mario's Mahalo Party",
       "file": "missing/M/324092-marios-mahalo-party.json"
@@ -142613,6 +142693,11 @@
       "file": "missing/M/406130-might-of-fate.json"
     },
     {
+      "igdb_id": 135156,
+      "game_name": "Mighty Aphid",
+      "file": "missing/M/135156-mighty-aphid.json"
+    },
+    {
       "igdb_id": 139364,
       "game_name": "Mighty forest",
       "file": "missing/M/139364-mighty-forest.json"
@@ -142896,6 +142981,11 @@
       "igdb_id": 241031,
       "game_name": "Milkblood",
       "file": "missing/M/241031-milkblood.json"
+    },
+    {
+      "igdb_id": 135213,
+      "game_name": "Milkman Karlson",
+      "file": "missing/M/135213-milkman-karlson.json"
     },
     {
       "igdb_id": 382749,
@@ -157028,6 +157118,11 @@
       "file": "missing/N/16780-nimble-quest.json"
     },
     {
+      "igdb_id": 135170,
+      "game_name": "Nimpize Adventure",
+      "file": "missing/N/135170-nimpize-adventure.json"
+    },
+    {
       "igdb_id": 134657,
       "game_name": "Nina Aquila: Legal Eagle",
       "file": "missing/N/134657-nina-aquila-legal-eagle.json"
@@ -168553,6 +168648,11 @@
       "file": "missing/P/153389-peaceful-gunner.json"
     },
     {
+      "igdb_id": 135215,
+      "game_name": "Peach's Christmas Invitation",
+      "file": "missing/P/135215-peachs-christmas-invitation.json"
+    },
+    {
       "igdb_id": 152935,
       "game_name": "Peachleaf Valley: Seeds of Love",
       "file": "missing/P/152935-peachleaf-valley-seeds-of-love.json"
@@ -175883,6 +175983,11 @@
       "file": "missing/P/313481-portal-2-google-translate-edition.json"
     },
     {
+      "igdb_id": 135217,
+      "game_name": "Portal 3 64",
+      "file": "missing/P/135217-portal-3-64.json"
+    },
+    {
       "igdb_id": 310746,
       "game_name": "Portal Brawlers",
       "file": "missing/P/310746-portal-brawlers.json"
@@ -179531,6 +179636,16 @@
       "igdb_id": 124036,
       "game_name": "PUBG Lite",
       "file": "missing/P/124036-pubg-lite.json"
+    },
+    {
+      "igdb_id": 135152,
+      "game_name": "PUBG Mobile: Season 12",
+      "file": "missing/P/135152-pubg-mobile-season-12.json"
+    },
+    {
+      "igdb_id": 135154,
+      "game_name": "PUBG Mobile: Season 13",
+      "file": "missing/P/135154-pubg-mobile-season-13.json"
     },
     {
       "igdb_id": 141193,
@@ -187626,6 +187741,11 @@
       "igdb_id": 237407,
       "game_name": "Return of the Saiyans",
       "file": "missing/R/237407-return-of-the-saiyans.json"
+    },
+    {
+      "igdb_id": 135175,
+      "game_name": "Return of the Skeletal",
+      "file": "missing/R/135175-return-of-the-skeletal.json"
     },
     {
       "igdb_id": 224561,
@@ -206308,6 +206428,11 @@
       "file": "missing/S/133993-sm64-sapphire.json"
     },
     {
+      "igdb_id": 135169,
+      "game_name": "SM64 Shining Stars Repainted",
+      "file": "missing/S/135169-sm64-shining-stars-repainted.json"
+    },
+    {
       "igdb_id": 132830,
       "game_name": "SM64 The Green Stars",
       "file": "missing/S/132830-sm64-the-green-stars.json"
@@ -208981,6 +209106,26 @@
       "igdb_id": 219589,
       "game_name": "Sonder: Lights of Little Tokyo",
       "file": "missing/S/219589-sonder-lights-of-little-tokyo.json"
+    },
+    {
+      "igdb_id": 135151,
+      "game_name": "Song of Horror - Episode 3",
+      "file": "missing/S/135151-song-of-horror-episode-3.json"
+    },
+    {
+      "igdb_id": 135153,
+      "game_name": "Song of Horror - Episode 4",
+      "file": "missing/S/135153-song-of-horror-episode-4.json"
+    },
+    {
+      "igdb_id": 135158,
+      "game_name": "Song of Horror - Episode 5",
+      "file": "missing/S/135158-song-of-horror-episode-5.json"
+    },
+    {
+      "igdb_id": 135160,
+      "game_name": "Song of Horror Episodes 2-5",
+      "file": "missing/S/135160-song-of-horror-episodes-2-5.json"
     },
     {
       "igdb_id": 38990,
@@ -220853,6 +220998,11 @@
       "file": "missing/S/234352-sunrider-4-the-captains-return.json"
     },
     {
+      "igdb_id": 135159,
+      "game_name": "Sunrise 7",
+      "file": "missing/S/135159-sunrise-7.json"
+    },
+    {
       "igdb_id": 156124,
       "game_name": "SunSenSim",
       "file": "missing/S/156124-sunsensim.json"
@@ -222323,9 +222473,19 @@
       "file": "missing/S/138227-super-mario-3d-world-bowsers-fury.json"
     },
     {
+      "igdb_id": 135230,
+      "game_name": "Super Mario 64 1.5 Ztar Attack!",
+      "file": "missing/S/135230-super-mario-64-1-5-ztar-attack.json"
+    },
+    {
       "igdb_id": 175964,
       "game_name": "Super Mario 64 2",
       "file": "missing/S/175964-super-mario-64-2.json"
+    },
+    {
+      "igdb_id": 135228,
+      "game_name": "Super Mario 64 3D World",
+      "file": "missing/S/135228-super-mario-64-3d-world.json"
     },
     {
       "igdb_id": 307315,
@@ -222353,6 +222513,11 @@
       "file": "missing/S/262677-super-mario-64-in-tomb-raider.json"
     },
     {
+      "igdb_id": 135229,
+      "game_name": "Super Mario 64 Maker",
+      "file": "missing/S/135229-super-mario-64-maker.json"
+    },
+    {
       "igdb_id": 307314,
       "game_name": "Super Mario 64 Nintendo 3DS Port",
       "file": "missing/S/307314-super-mario-64-nintendo-3ds-port.json"
@@ -222366,6 +222531,11 @@
       "igdb_id": 159274,
       "game_name": "Super Mario 64 Odyssey",
       "file": "missing/S/159274-super-mario-64-odyssey.json"
+    },
+    {
+      "igdb_id": 135214,
+      "game_name": "Super Mario 64 Peach's Memory",
+      "file": "missing/S/135214-super-mario-64-peachs-memory.json"
     },
     {
       "igdb_id": 146246,
@@ -222391,6 +222561,11 @@
       "igdb_id": 132859,
       "game_name": "Super Mario 64 Shining Stars",
       "file": "missing/S/132859-super-mario-64-shining-stars.json"
+    },
+    {
+      "igdb_id": 135223,
+      "game_name": "Super Mario 64 Splitscreen Multiplayer",
+      "file": "missing/S/135223-super-mario-64-splitscreen-multiplayer.json"
     },
     {
       "igdb_id": 284359,
@@ -222431,6 +222606,11 @@
       "igdb_id": 132840,
       "game_name": "Super Mario 64: Star Revenge Redone",
       "file": "missing/S/132840-super-mario-64-star-revenge-redone.json"
+    },
+    {
+      "igdb_id": 135176,
+      "game_name": "Super Mario 64: The Missing Stars",
+      "file": "missing/S/135176-super-mario-64-the-missing-stars.json"
     },
     {
       "igdb_id": 199070,
@@ -222563,6 +222743,16 @@
       "file": "missing/S/5199-super-mario-all-stars.json"
     },
     {
+      "igdb_id": 135216,
+      "game_name": "Super Mario and the Cursed Castles",
+      "file": "missing/S/135216-super-mario-and-the-cursed-castles.json"
+    },
+    {
+      "igdb_id": 135178,
+      "game_name": "Super Mario and the Marvel Adventure",
+      "file": "missing/S/135178-super-mario-and-the-marvel-adventure.json"
+    },
+    {
       "igdb_id": 267931,
       "game_name": "Super Mario brasileiro",
       "file": "missing/S/267931-super-mario-brasileiro.json"
@@ -222636,6 +222826,11 @@
       "igdb_id": 144986,
       "game_name": "Super Mario Bros. 3Mix",
       "file": "missing/S/144986-super-mario-bros-3mix.json"
+    },
+    {
+      "igdb_id": 135232,
+      "game_name": "Super Mario Bros. 64",
+      "file": "missing/S/135232-super-mario-bros-64.json"
     },
     {
       "igdb_id": 150101,
@@ -222923,6 +223118,11 @@
       "file": "missing/S/324082-super-mario-xp-super-mario-land.json"
     },
     {
+      "igdb_id": 135177,
+      "game_name": "Super Mario: Endless Earth",
+      "file": "missing/S/135177-super-mario-endless-earth.json"
+    },
+    {
       "igdb_id": 250041,
       "game_name": "Super Mario: Magnum Opus",
       "file": "missing/S/250041-super-mario-magnum-opus.json"
@@ -222931,6 +223131,11 @@
       "igdb_id": 275565,
       "game_name": "Super Mario: The Cursed Forest",
       "file": "missing/S/275565-super-mario-the-cursed-forest.json"
+    },
+    {
+      "igdb_id": 135168,
+      "game_name": "Super Mario: The Lost Dreams",
+      "file": "missing/S/135168-super-mario-the-lost-dreams.json"
     },
     {
       "igdb_id": 339245,
@@ -222946,6 +223151,11 @@
       "igdb_id": 277045,
       "game_name": "Super Mario: The Trip",
       "file": "missing/S/277045-super-mario-the-trip.json"
+    },
+    {
+      "igdb_id": 135163,
+      "game_name": "Super Mario's Jammin' Journey 64",
+      "file": "missing/S/135163-super-marios-jammin-journey-64.json"
     },
     {
       "igdb_id": 77351,
@@ -223596,6 +223806,11 @@
       "igdb_id": 175406,
       "game_name": "Super Skyland",
       "file": "missing/S/175406-super-skyland.json"
+    },
+    {
+      "igdb_id": 135179,
+      "game_name": "Super Slide 64",
+      "file": "missing/S/135179-super-slide-64.json"
     },
     {
       "igdb_id": 335956,
@@ -238438,6 +238653,11 @@
       "file": "missing/T/213592-the-lost-abyss.json"
     },
     {
+      "igdb_id": 135234,
+      "game_name": "The Lost Art of Innkeeping",
+      "file": "missing/T/135234-the-lost-art-of-innkeeping.json"
+    },
+    {
       "igdb_id": 171588,
       "game_name": "The Lost Artifacts",
       "file": "missing/T/171588-the-lost-artifacts.json"
@@ -249418,9 +249638,19 @@
       "file": "missing/T/141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json"
     },
     {
+      "igdb_id": 135157,
+      "game_name": "Tom Clancy's Rainbow Six Siege: Operation Steel Wave",
+      "file": "missing/T/135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json"
+    },
+    {
       "igdb_id": 217521,
       "game_name": "Tom Clancy's Rainbow Six Siege: Operation Vector Glare",
       "file": "missing/T/217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json"
+    },
+    {
+      "igdb_id": 135155,
+      "game_name": "Tom Clancy's Rainbow Six Siege: Operation Void Edge",
+      "file": "missing/T/135155-tom-clancys-rainbow-six-siege-operation-void-edge.json"
     },
     {
       "igdb_id": 314292,
@@ -260893,6 +261123,11 @@
       "file": "missing/V/271501-varenje-dont-touch-the-berries.json"
     },
     {
+      "igdb_id": 135180,
+      "game_name": "VargFren Mash",
+      "file": "missing/V/135180-vargfren-mash.json"
+    },
+    {
       "igdb_id": 220869,
       "game_name": "Vari Dungeon",
       "file": "missing/V/220869-vari-dungeon.json"
@@ -264366,6 +264601,11 @@
       "igdb_id": 49922,
       "game_name": "Walt Disney's The Jungle Book: Mowgli's Wild Adventure",
       "file": "missing/W/49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json"
+    },
+    {
+      "igdb_id": 135227,
+      "game_name": "Waluigi's Taco Stand",
+      "file": "missing/W/135227-waluigis-taco-stand.json"
     },
     {
       "igdb_id": 117714,
@@ -276741,6 +276981,11 @@
       "igdb_id": 33118,
       "game_name": "ZRoll",
       "file": "missing/Z/33118-zroll.json"
+    },
+    {
+      "igdb_id": 135231,
+      "game_name": "Ztar Attack Rebooted",
+      "file": "missing/Z/135231-ztar-attack-rebooted.json"
     },
     {
       "igdb_id": 110641,
