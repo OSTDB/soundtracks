@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
 | Rabit | 340935 | [340935-rabit.json](./340935-rabit.json) |
 | Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
+| Raccoon Arrival | 150627 | [150627-raccoon-arrival.json](./150627-raccoon-arrival.json) |
 | Raccoon Bubbles | 208963 | [208963-raccoon-bubbles.json](./208963-raccoon-bubbles.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
@@ -604,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball | 55917 | [55917-red-ball.json](./55917-red-ball.json) |
 | Red Ball 4 | 88924 | [88924-red-ball-4.json](./88924-red-ball-4.json) |
 | Red Ball Adventure 3D | 102778 | [102778-red-ball-adventure-3d.json](./102778-red-ball-adventure-3d.json) |
+| Red Ball Escape | 150633 | [150633-red-ball-escape.json](./150633-red-ball-escape.json) |
 | Red Ball Escape Adventure | 218477 | [218477-red-ball-escape-adventure.json](./218477-red-ball-escape-adventure.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
