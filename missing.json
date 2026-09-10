@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T13:19:08.636Z",
-  "total_missing": 53864,
+  "generated_at": "2026-09-10T13:21:08.330Z",
+  "total_missing": 53863,
   "games": [
     {
       "igdb_id": 306086,
@@ -1456,11 +1456,6 @@
       "igdb_id": 148532,
       "game_name": "6th Dimension",
       "file": "missing/0-9/148532-6th-dimension.json"
-    },
-    {
-      "igdb_id": 301589,
-      "game_name": "6th Floor",
-      "file": "missing/0-9/301589-6th-floor.json"
     },
     {
       "igdb_id": 316435,
