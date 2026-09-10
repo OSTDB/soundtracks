@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gura's Adventure | 184097 | [184097-guras-adventure.json](./184097-guras-adventure.json) |
 | Guragura Oden | 296948 | [296948-guragura-oden.json](./296948-guragura-oden.json) |
 | Gurei | 235913 | [235913-gurei.json](./235913-gurei.json) |
+| Guri-guri Europe | 151667 | [151667-guri-guri-europe.json](./151667-guri-guri-europe.json) |
 | Gurk III: the 8-bit RPG | 200671 | [200671-gurk-iii-the-8-bit-rpg.json](./200671-gurk-iii-the-8-bit-rpg.json) |
 | Guroku Rainbow | 237373 | [237373-guroku-rainbow.json](./237373-guroku-rainbow.json) |
 | Guru Guru | 309884 | [309884-guru-guru.json](./309884-guru-guru.json) |
