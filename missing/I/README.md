@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
 | I am Sakuya VR: Touhou FPS Game | 244477 | [244477-i-am-sakuya-vr-touhou-fps-game.json](./244477-i-am-sakuya-vr-touhou-fps-game.json) |
 | I am Still Here. | 143104 | [143104-i-am-still-here.json](./143104-i-am-still-here.json) |
+| I am Tasi | 133396 | [133396-i-am-tasi.json](./133396-i-am-tasi.json) |
 | I Am the Captain Now | 153402 | [153402-i-am-the-captain-now.json](./153402-i-am-the-captain-now.json) |
 | I am Titan | 301005 | [301005-i-am-titan.json](./301005-i-am-titan.json) |
 | I Am Your Beast: Support Group Update | 334704 | [334704-i-am-your-beast-support-group-update.json](./334704-i-am-your-beast-support-group-update.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
 | Iles | 211949 | [211949-iles.json](./211949-iles.json) |
 | Iljimae-jeon: Manman Papa Sikjeok-pyeon | 145615 | [145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json](./145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json) |
+| Illagus | 133390 | [133390-illagus.json](./133390-illagus.json) |
 | Illegal Communication | 199084 | [199084-illegal-communication.json](./199084-illegal-communication.json) |
 | Illegal Crime Game | 251246 | [251246-illegal-crime-game.json](./251246-illegal-crime-game.json) |
 | Illegal Dealership Simulator | 326410 | [326410-illegal-dealership-simulator.json](./326410-illegal-dealership-simulator.json) |
@@ -524,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imugi | 158676 | [158676-imugi.json](./158676-imugi.json) |
 | Imvi: Echoes of Harmony | 340748 | [340748-imvi-echoes-of-harmony.json](./340748-imvi-echoes-of-harmony.json) |
 | In A Dark Cave | 179175 | [179175-in-a-dark-cave.json](./179175-in-a-dark-cave.json) |
+| In a search of a new home | 133407 | [133407-in-a-search-of-a-new-home.json](./133407-in-a-search-of-a-new-home.json) |
 | In another world, I will attain my dream of ALL I CAN SEX! | 82896 | [82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json](./82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json) |
 | In Ashes | 329377 | [329377-in-ashes.json](./329377-in-ashes.json) |
 | In Between | 151116 | [151116-in-between.json](./151116-in-between.json) |
