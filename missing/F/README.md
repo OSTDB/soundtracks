@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen from Grace | 271220 | [271220-fallen-from-grace.json](./271220-fallen-from-grace.json) |
 | Fallen Haven: Liberation Day | 154493 | [154493-fallen-haven-liberation-day.json](./154493-fallen-haven-liberation-day.json) |
 | Fallen Hero: Rebirth | 88044 | [88044-fallen-hero-rebirth.json](./88044-fallen-hero-rebirth.json) |
+| Fallen Legion Revenants: Vanguard Edition | 139961 | [139961-fallen-legion-revenants-vanguard-edition.json](./139961-fallen-legion-revenants-vanguard-edition.json) |
 | Fallen London | 11285 | [11285-fallen-london.json](./11285-fallen-london.json) |
 | Fallen London: A Crown of Thorns | 191792 | [191792-fallen-london-a-crown-of-thorns.json](./191792-fallen-london-a-crown-of-thorns.json) |
 | Fallen London: A Stretch in the Sky | 191903 | [191903-fallen-london-a-stretch-in-the-sky.json](./191903-fallen-london-a-stretch-in-the-sky.json) |
@@ -1603,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Maestro | 261531 | [261531-football-maestro.json](./261531-football-maestro.json) |
 | Football Manager | 23064 | [23064-football-manager.json](./23064-football-manager.json) |
 | Football Manager 2020 | 122080 | [122080-football-manager-2020.json](./122080-football-manager-2020.json) |
+| Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
