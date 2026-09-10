@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
 | Ice Scream United | 243705 | [243705-ice-scream-united.json](./243705-ice-scream-united.json) |
+| Ice Star | 150630 | [150630-ice-star.json](./150630-ice-star.json) |
 | Ice Star: Chapter 2 | 168842 | [168842-ice-star-chapter-2.json](./168842-ice-star-chapter-2.json) |
 | Ice Sugar | 189119 | [189119-ice-sugar.json](./189119-ice-sugar.json) |
 | Ice World: The Frozen Age | 314882 | [314882-ice-world-the-frozen-age.json](./314882-ice-world-the-frozen-age.json) |
