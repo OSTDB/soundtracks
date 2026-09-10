@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
+| Angry Space Bees | 149029 | [149029-angry-space-bees.json](./149029-angry-space-bees.json) |
 | Angry World War 2 | 234070 | [234070-angry-world-war-2.json](./234070-angry-world-war-2.json) |
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
 | Ani Idle | 351027 | [351027-ani-idle.json](./351027-ani-idle.json) |
@@ -2325,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Tower Survivors | 342641 | [342641-arcane-tower-survivors.json](./342641-arcane-tower-survivors.json) |
 | Arcane: League of Legends - Ready to unlock the world of Arcane? | 324100 | [324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json](./324100-arcane-league-of-legends-ready-to-unlock-the-world-of-arcane.json) |
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
+| Arcanion: Tale of Magi | 149026 | [149026-arcanion-tale-of-magi.json](./149026-arcanion-tale-of-magi.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
 | ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
 | Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
