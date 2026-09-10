@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Relaxing Farm: Merge Tales | 348805 | [348805-relaxing-farm-merge-tales.json](./348805-relaxing-farm-merge-tales.json) |
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
+| Relaxing Rain Sounds: Amayadori | 151669 | [151669-relaxing-rain-sounds-amayadori.json](./151669-relaxing-rain-sounds-amayadori.json) |
 | Relaxing Time: Paradise Resort - Collector's Edition | 304591 | [304591-relaxing-time-paradise-resort-collectors-edition.json](./304591-relaxing-time-paradise-resort-collectors-edition.json) |
 | Relayer: Limited Edition | 172776 | [172776-relayer-limited-edition.json](./172776-relayer-limited-edition.json) |
 | Release Me | 310173 | [310173-release-me.json](./310173-release-me.json) |
@@ -1367,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
+| Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
