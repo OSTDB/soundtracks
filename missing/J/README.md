@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
 | Jenny's Fish Shop | 177044 | [177044-jennys-fish-shop.json](./177044-jennys-fish-shop.json) |
 | Jeonsa Ryan | 145590 | [145590-jeonsa-ryan.json](./145590-jeonsa-ryan.json) |
+| Jeopardy! | 131547 | [131547-jeopardy.json](./131547-jeopardy.json) |
 | Jeopardy! | 220095 | [220095-jeopardy.json](./220095-jeopardy.json) |
 | Jeopardy! PlayShow | 140551 | [140551-jeopardy-playshow.json](./140551-jeopardy-playshow.json) |
 | Jeopardy! World Tour | 87356 | [87356-jeopardy-world-tour.json](./87356-jeopardy-world-tour.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
+| Jungle Book | 131532 | [131532-jungle-book.json](./131532-jungle-book.json) |
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
