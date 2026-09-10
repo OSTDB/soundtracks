@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Corda 4 | 57702 | [57702-kiniro-no-corda-4.json](./57702-kiniro-no-corda-4.json) |
 | Kiniro no Corda: La Corda d'Oro | 57705 | [57705-kiniro-no-corda-la-corda-doro.json](./57705-kiniro-no-corda-la-corda-doro.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
+| Kinnikuman | 138764 | [138764-kinnikuman.json](./138764-kinnikuman.json) |
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
 | Kinnikuman III: Ougon no Mask-hen | 346034 | [346034-kinnikuman-iii-ougon-no-mask-hen.json](./346034-kinnikuman-iii-ougon-no-mask-hen.json) |
 | Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Dream Collection Special Edition | 84168 | [84168-kirbys-dream-collection-special-edition.json](./84168-kirbys-dream-collection-special-edition.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
+| Kiro | 138741 | [138741-kiro.json](./138741-kiro.json) |
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
 | Kisekimura | 149547 | [149547-kisekimura.json](./149547-kisekimura.json) |
 | Kishin Douji Zenki FX: Vajra Fight | 45957 | [45957-kishin-douji-zenki-fx-vajra-fight.json](./45957-kishin-douji-zenki-fx-vajra-fight.json) |
