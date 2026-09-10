@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave of the Skinwalker | 358856 | [358856-cave-of-the-skinwalker.json](./358856-cave-of-the-skinwalker.json) |
 | Cave of Treats | 408803 | [408803-cave-of-treats.json](./408803-cave-of-treats.json) |
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
+| Cave Shooting Collection | 159258 | [159258-cave-shooting-collection.json](./159258-cave-shooting-collection.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
@@ -2690,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
 | Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
 | Crayon Shinchan My Sugoroku Great Strategy | 390523 | [390523-crayon-shinchan-my-sugoroku-great-strategy.json](./390523-crayon-shinchan-my-sugoroku-great-strategy.json) |
+| Crayons | 159297 | [159297-crayons.json](./159297-crayons.json) |
 | Crazy | 261777 | [261777-crazy.json](./261777-crazy.json) |
 | Crazy 8s Revamped | 26649 | [26649-crazy-8s-revamped.json](./26649-crazy-8s-revamped.json) |
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
@@ -2964,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruellete | 335676 | [335676-cruellete.json](./335676-cruellete.json) |
 | Cruelty | 402295 | [402295-cruelty.json](./402295-cruelty.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
+| Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
 | Crunch Bandicoot: Submarine Hunt | 314660 | [314660-crunch-bandicoot-submarine-hunt.json](./314660-crunch-bandicoot-submarine-hunt.json) |
 | Crunch Element | 119770 | [119770-crunch-element.json](./119770-crunch-element.json) |
@@ -3298,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CutNRun | 93579 | [93579-cutnrun.json](./93579-cutnrun.json) |
 | Cutthroat Island GG2SMS | 369594 | [369594-cutthroat-island-gg2sms.json](./369594-cutthroat-island-gg2sms.json) |
 | Cutthroats | 12260 | [12260-cutthroats.json](./12260-cutthroats.json) |
+| Cuttlemania! | 159270 | [159270-cuttlemania.json](./159270-cuttlemania.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyan Avenger | 278999 | [278999-cyan-avenger.json](./278999-cyan-avenger.json) |
@@ -3393,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyoube | 302346 | [302346-cyoube.json](./302346-cyoube.json) |
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
+| Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
 | Cyto | 17431 | [17431-cyto.json](./17431-cyto.json) |
 | Cytokine Storm | 408088 | [408088-cytokine-storm.json](./408088-cytokine-storm.json) |
