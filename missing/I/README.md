@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IDET | 324299 | [324299-idet.json](./324299-idet.json) |
 | IDF-ASD | 195775 | [195775-idf-asd.json](./195775-idf-asd.json) |
 | Idili | 318972 | [318972-idili.json](./318972-idili.json) |
+| Idiot | 158656 | [158656-idiot.json](./158656-idiot.json) |
 | Idiot Test | 122436 | [122436-idiot-test.json](./122436-idiot-test.json) |
 | Idle Acorns | 365117 | [365117-idle-acorns.json](./365117-idle-acorns.json) |
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
@@ -502,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Improbable Soccer | 141236 | [141236-improbable-soccer.json](./141236-improbable-soccer.json) |
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
 | Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
+| Imugi | 158676 | [158676-imugi.json](./158676-imugi.json) |
 | Imvi: Echoes of Harmony | 340748 | [340748-imvi-echoes-of-harmony.json](./340748-imvi-echoes-of-harmony.json) |
 | In A Dark Cave | 179175 | [179175-in-a-dark-cave.json](./179175-in-a-dark-cave.json) |
 | In another world, I will attain my dream of ALL I CAN SEX! | 82896 | [82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json](./82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json) |
