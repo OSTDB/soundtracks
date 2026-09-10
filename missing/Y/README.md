@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukiusa | 277270 | [277270-yukiusa.json](./277270-yukiusa.json) |
 | Yukkuri Diary | 373010 | [373010-yukkuri-diary.json](./373010-yukkuri-diary.json) |
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
+| Yuko and the Akuma Menace | 153942 | [153942-yuko-and-the-akuma-menace.json](./153942-yuko-and-the-akuma-menace.json) |
 | Yukti | 174360 | [174360-yukti.json](./174360-yukti.json) |
 | Yukyo Station | 216809 | [216809-yukyo-station.json](./216809-yukyo-station.json) |
 | Yuldigard's Fate | 133463 | [133463-yuldigards-fate.json](./133463-yuldigards-fate.json) |
