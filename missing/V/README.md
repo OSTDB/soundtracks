@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
 | Vesper Hotel | 391067 | [391067-vesper-hotel.json](./391067-vesper-hotel.json) |
+| Vesper: Ether Saga | 158673 | [158673-vesper-ether-saga.json](./158673-vesper-ether-saga.json) |
 | Vespera_Hotel | 296105 | [296105-vespera-hotel.json](./296105-vespera-hotel.json) |
 | Vesperia Bononia | 332268 | [332268-vesperia-bononia.json](./332268-vesperia-bononia.json) |
 | Vessel Damage Control Trainer | 243417 | [243417-vessel-damage-control-trainer.json](./243417-vessel-damage-control-trainer.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria 3: Voice of the People | 247786 | [247786-victoria-3-voice-of-the-people.json](./247786-victoria-3-voice-of-the-people.json) |
 | Victoria II: A House Divided | 11038 | [11038-victoria-ii-a-house-divided.json](./11038-victoria-ii-a-house-divided.json) |
 | Victoria II: Heart of Darkness | 11039 | [11039-victoria-ii-heart-of-darkness.json](./11039-victoria-ii-heart-of-darkness.json) |
+| Victoria's Body | 158655 | [158655-victorias-body.json](./158655-victorias-body.json) |
 | Victorian Deathbed Simulator | 331354 | [331354-victorian-deathbed-simulator.json](./331354-victorian-deathbed-simulator.json) |
 | Victorious Boxers: Revolution | 5256 | [5256-victorious-boxers-revolution.json](./5256-victorious-boxers-revolution.json) |
 | Victorious Nine II | 72116 | [72116-victorious-nine-ii.json](./72116-victorious-nine-ii.json) |
