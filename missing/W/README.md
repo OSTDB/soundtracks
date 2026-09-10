@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
 | War In Zone | 408053 | [408053-war-in-zone.json](./408053-war-in-zone.json) |
 | War is Heck Collection | 53883 | [53883-war-is-heck-collection.json](./53883-war-is-heck-collection.json) |
+| War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
 | War Of Celestials | 253389 | [253389-war-of-celestials.json](./253389-war-of-celestials.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
 | War of Criminals | 89969 | [89969-war-of-criminals.json](./89969-war-of-criminals.json) |
@@ -496,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
 | Weakest Demon King: Escape! You Cannot Defeat the Female Heroines! | 82874 | [82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json](./82874-weakest-demon-king-escape-you-cannot-defeat-the-female-heroines.json) |
 | Weapon Ball Fight | 383930 | [383930-weapon-ball-fight.json](./383930-weapon-ball-fight.json) |
+| Weapon Hacker | 133377 | [133377-weapon-hacker.json](./133377-weapon-hacker.json) |
 | WeaponGo | 104095 | [104095-weapongo.json](./104095-weapongo.json) |
 | WeaponizedChess | 34481 | [34481-weaponizedchess.json](./34481-weaponizedchess.json) |
 | Weaponmancer | 277285 | [277285-weaponmancer.json](./277285-weaponmancer.json) |
