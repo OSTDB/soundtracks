@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T00:48:32.706Z",
-  "total_missing": 52445,
+  "generated_at": "2026-09-10T00:51:12.224Z",
+  "total_missing": 52444,
   "games": [
     {
       "igdb_id": 306086,
@@ -1176,11 +1176,6 @@
       "igdb_id": 88273,
       "game_name": "3D Pool Game",
       "file": "missing/0-9/88273-3d-pool-game.json"
-    },
-    {
-      "igdb_id": 287116,
-      "game_name": "3D Printer: PrintMaster Simulator",
-      "file": "missing/0-9/287116-3d-printer-printmaster-simulator.json"
     },
     {
       "igdb_id": 87195,
