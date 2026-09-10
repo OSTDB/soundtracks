@@ -309,7 +309,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
 | 747 Flight Simulator | 15582 | [15582-747-flight-simulator.json](./15582-747-flight-simulator.json) |
-| 767 Advanced Flight Simulator | 15583 | [15583-767-advanced-flight-simulator.json](./15583-767-advanced-flight-simulator.json) |
 | 768^2 | 271238 | [271238-768-2.json](./271238-768-2.json) |
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
