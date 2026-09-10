@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Chess | 213403 | [213403-zoo-chess.json](./213403-zoo-chess.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zoo Keeper 3D | 222337 | [222337-zoo-keeper-3d.json](./222337-zoo-keeper-3d.json) |
+| Zoo Master | 133392 | [133392-zoo-master.json](./133392-zoo-master.json) |
 | Zoo Merge | 349307 | [349307-zoo-merge.json](./349307-zoo-merge.json) |
 | Zoo Simulator | 216802 | [216802-zoo-simulator.json](./216802-zoo-simulator.json) |
 | Zoo Squad | 192394 | [192394-zoo-squad.json](./192394-zoo-squad.json) |
