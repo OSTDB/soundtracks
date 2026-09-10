@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunt Challenge | 78044 | [78044-deer-hunt-challenge.json](./78044-deer-hunt-challenge.json) |
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
 | Deer Hunter Classic | 86940 | [86940-deer-hunter-classic.json](./86940-deer-hunter-classic.json) |
+| Deer Hunter Reloaded | 136399 | [136399-deer-hunter-reloaded.json](./136399-deer-hunter-reloaded.json) |
 | Deer Hunter x Treme Focal Plane | 169420 | [169420-deer-hunter-x-treme-focal-plane.json](./169420-deer-hunter-x-treme-focal-plane.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
 | Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
+| Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
 | Digital Eclipse Arcade: Q.P.I.D. | 239655 | [239655-digital-eclipse-arcade-q-p-i-d.json](./239655-digital-eclipse-arcade-q-p-i-d.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
