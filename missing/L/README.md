@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
 | Live Ammo | 93030 | [93030-live-ammo.json](./93030-live-ammo.json) |
+| Live by the Sword: Tactics | 152334 | [152334-live-by-the-sword-tactics.json](./152334-live-by-the-sword-tactics.json) |
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
@@ -1241,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
+| Lonely People Potion Shop | 152279 | [152279-lonely-people-potion-shop.json](./152279-lonely-people-potion-shop.json) |
 | Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
 | Lonely Things | 181887 | [181887-lonely-things.json](./181887-lonely-things.json) |
 | Lonely Tribes | 192372 | [192372-lonely-tribes.json](./192372-lonely-tribes.json) |
@@ -1721,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust for Darkness VR | 193508 | [193508-lust-for-darkness-vr.json](./193508-lust-for-darkness-vr.json) |
 | Lust for Lucre | 305760 | [305760-lust-for-lucre.json](./305760-lust-for-lucre.json) |
 | Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
+| Lust From Beyond: M Edition | 152313 | [152313-lust-from-beyond-m-edition.json](./152313-lust-from-beyond-m-edition.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
 | Lustful Apartment | 296687 | [296687-lustful-apartment.json](./296687-lustful-apartment.json) |
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
