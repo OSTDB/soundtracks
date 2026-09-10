@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chance | 387323 | [387323-chance.json](./387323-chance.json) |
 | Chance at Life | 203530 | [203530-chance-at-life.json](./203530-chance-at-life.json) |
 | Chance of the Dead | 166691 | [166691-chance-of-the-dead.json](./166691-chance-of-the-dead.json) |
+| Chang'an: The capital of Tang Dynasty | 147403 | [147403-changan-the-capital-of-tang-dynasty.json](./147403-changan-the-capital-of-tang-dynasty.json) |
 | Change | 229674 | [229674-change.json](./229674-change.json) |
 | Change: A Homeless Survival Experience - Living City Expansion | 199664 | [199664-change-a-homeless-survival-experience-living-city-expansion.json](./199664-change-a-homeless-survival-experience-living-city-expansion.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
@@ -2100,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come on Kitty | 214521 | [214521-come-on-kitty.json](./214521-come-on-kitty.json) |
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
+| Come with Me | 147401 | [147401-come-with-me.json](./147401-come-with-me.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
 | Comet Culling | 249779 | [249779-comet-culling.json](./249779-comet-culling.json) |
 | Comet Force | 324877 | [324877-comet-force.json](./324877-comet-force.json) |
@@ -2247,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
 | Conquest of the Crystal Palace | 48068 | [48068-conquest-of-the-crystal-palace.json](./48068-conquest-of-the-crystal-palace.json) |
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
+| Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
@@ -2739,6 +2742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
+| Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
@@ -3229,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
+| Curiosaurios Club: Un Viaje Espacial | 147375 | [147375-curiosaurios-club-un-viaje-espacial.json](./147375-curiosaurios-club-un-viaje-espacial.json) |
 | Curiosity | 318392 | [318392-curiosity.json](./318392-curiosity.json) |
 | Curiosity of a Turnabout | 310423 | [310423-curiosity-of-a-turnabout.json](./310423-curiosity-of-a-turnabout.json) |
 | Curiosmos | 304883 | [304883-curiosmos.json](./304883-curiosmos.json) |
