@@ -1813,9 +1813,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Farm Jigsaw Games for Toddlers, Babys and Kids | 295265 | [295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json](./295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json) |
 | Animal Farm Parking: Extended Edition | 283156 | [283156-animal-farm-parking-extended-edition.json](./283156-animal-farm-parking-extended-edition.json) |
 | Animal Football | 208375 | [208375-animal-football.json](./208375-animal-football.json) |
+| Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
 | Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
 | Animal Life: North America | 269554 | [269554-animal-life-north-america.json](./269554-animal-life-north-america.json) |
+| Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
 | Animal Planet: Vet Life | 50635 | [50635-animal-planet-vet-life.json](./50635-animal-planet-vet-life.json) |
 | Animal Planner | 254767 | [254767-animal-planner.json](./254767-animal-planner.json) |
 | Animal Puzzle Cats | 225892 | [225892-animal-puzzle-cats.json](./225892-animal-puzzle-cats.json) |
@@ -2243,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
+| Arcade Archives: Radical Radial | 147936 | [147936-arcade-archives-radical-radial.json](./147936-arcade-archives-radical-radial.json) |
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
@@ -2296,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
 | Arcaduis | 164984 | [164984-arcaduis.json](./164984-arcaduis.json) |
+| Arcaea | 147946 | [147946-arcaea.json](./147946-arcaea.json) |
 | Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
 | Arcana | 3652 | [3652-arcana.json](./3652-arcana.json) |
 | Arcana Academy | 367968 | [367968-arcana-academy.json](./367968-arcana-academy.json) |
