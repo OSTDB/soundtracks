@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T23:18:23.369Z",
-  "total_missing": 55663,
+  "generated_at": "2026-09-10T23:21:02.677Z",
+  "total_missing": 55662,
   "games": [
     {
       "igdb_id": 306086,
@@ -1756,11 +1756,6 @@
       "igdb_id": 277571,
       "game_name": "A Army Base",
       "file": "missing/A/277571-a-army-base.json"
-    },
-    {
-      "igdb_id": 386720,
-      "game_name": "A Bandit",
-      "file": "missing/A/386720-a-bandit.json"
     },
     {
       "igdb_id": 225289,
