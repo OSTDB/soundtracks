@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food From a Stranger | 378211 | [378211-food-from-a-stranger.json](./378211-food-from-a-stranger.json) |
 | Food Gang | 144361 | [144361-food-gang.json](./144361-food-gang.json) |
 | Food Guess: Pixel Art Trivia | 405477 | [405477-food-guess-pixel-art-trivia.json](./405477-food-guess-pixel-art-trivia.json) |
+| Food Truck Tycoon: Asian Cuisine | 147922 | [147922-food-truck-tycoon-asian-cuisine.json](./147922-food-truck-tycoon-asian-cuisine.json) |
 | Food Wagon | 333359 | [333359-food-wagon.json](./333359-food-wagon.json) |
 | FoodFighters | 286010 | [286010-foodfighters.json](./286010-foodfighters.json) |
 | Foodguessr | 293936 | [293936-foodguessr.json](./293936-foodguessr.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Star Life 23/24 | 260152 | [260152-football-star-life-23-24.json](./260152-football-star-life-23-24.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
+| FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
 | For a Vast Future: Definitive Edition | 283148 | [283148-for-a-vast-future-definitive-edition.json](./283148-for-a-vast-future-definitive-edition.json) |
