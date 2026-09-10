@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head 2 Head | 150139 | [150139-head-2-head.json](./150139-head-2-head.json) |
 | Head AS Code Original Version | 143720 | [143720-head-as-code-original-version.json](./143720-head-as-code-original-version.json) |
 | Head Ball 2 | 99141 | [99141-head-ball-2.json](./99141-head-ball-2.json) |
+| Head Bumper: Editcraft | 164428 | [164428-head-bumper-editcraft.json](./164428-head-bumper-editcraft.json) |
 | Head Games | 152351 | [152351-head-games.json](./152351-head-games.json) |
 | Head Panic | 39683 | [39683-head-panic.json](./39683-head-panic.json) |
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
 | Hentai Balls 3D: Sexy Girls | 390497 | [390497-hentai-balls-3d-sexy-girls.json](./390497-hentai-balls-3d-sexy-girls.json) |
+| Hentai beautiful girls 4 | 164427 | [164427-hentai-beautiful-girls-4.json](./164427-hentai-beautiful-girls-4.json) |
 | Hentai Dating Stories: Brazil - Best Stories 1 | 308788 | [308788-hentai-dating-stories-brazil-best-stories-1.json](./308788-hentai-dating-stories-brazil-best-stories-1.json) |
 | Hentai Dating Stories: Brazil - Best Stories 2 | 308787 | [308787-hentai-dating-stories-brazil-best-stories-2.json](./308787-hentai-dating-stories-brazil-best-stories-2.json) |
 | Hentai Dating Stories: Brazil - Best Stories 3 | 308786 | [308786-hentai-dating-stories-brazil-best-stories-3.json](./308786-hentai-dating-stories-brazil-best-stories-3.json) |
@@ -1852,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
 | How to Survive 2: Dead Dynamite | 169929 | [169929-how-to-survive-2-dead-dynamite.json](./169929-how-to-survive-2-dead-dynamite.json) |
 | How to Survive: Barricade! | 170434 | [170434-how-to-survive-barricade.json](./170434-how-to-survive-barricade.json) |
+| How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
