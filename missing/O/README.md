@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
 | Obsession | 184056 | [184056-obsession.json](./184056-obsession.json) |
 | Obsessive Love Adventure Utsuro's Diary | 151680 | [151680-obsessive-love-adventure-utsuros-diary.json](./151680-obsessive-love-adventure-utsuros-diary.json) |
+| Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
