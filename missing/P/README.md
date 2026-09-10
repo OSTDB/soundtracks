@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power (of) Metal | 199599 | [199599-power-of-metal.json](./199599-power-of-metal.json) |
 | Power & Revolution: 2021 Edition | 162429 | [162429-power-and-revolution-2021-edition.json](./162429-power-and-revolution-2021-edition.json) |
 | Power at Sea | 55151 | [55151-power-at-sea.json](./55151-power-at-sea.json) |
+| Power Ball 2021 | 150620 | [150620-power-ball-2021.json](./150620-power-ball-2021.json) |
 | Power Ball 2022 | 211954 | [211954-power-ball-2022.json](./211954-power-ball-2022.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
@@ -2357,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
 | Prison Fights Simulator | 310168 | [310168-prison-fights-simulator.json](./310168-prison-fights-simulator.json) |
 | Prison Forever | 128016 | [128016-prison-forever.json](./128016-prison-forever.json) |
+| Prison Girl | 150645 | [150645-prison-girl.json](./150645-prison-girl.json) |
 | Prison Life: Idle Game | 408750 | [408750-prison-life-idle-game.json](./408750-prison-life-idle-game.json) |
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
 | Prison Miners | 333546 | [333546-prison-miners.json](./333546-prison-miners.json) |
@@ -2697,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
 | Proton VR | 392133 | [392133-proton-vr.json](./392133-proton-vr.json) |
+| Protoplasm Mutiny | 150637 | [150637-protoplasm-mutiny.json](./150637-protoplasm-mutiny.json) |
 | Protorunner | 220662 | [220662-protorunner.json](./220662-protorunner.json) |
 | Protory Jigen | 326078 | [326078-protory-jigen.json](./326078-protory-jigen.json) |
 | Protoshift | 34555 | [34555-protoshift.json](./34555-protoshift.json) |
@@ -2922,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
+| Puzz LR | 150632 | [150632-puzz-lr.json](./150632-puzz-lr.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
