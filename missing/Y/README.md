@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
 | Yet another tower defence | 110367 | [110367-yet-another-tower-defence.json](./110367-yet-another-tower-defence.json) |
 | Yet Another Vanilla SMA2 Hack | 342622 | [342622-yet-another-vanilla-sma2-hack.json](./342622-yet-another-vanilla-sma2-hack.json) |
+| Yet, I Despise Him | 140543 | [140543-yet-i-despise-him.json](./140543-yet-i-despise-him.json) |
 | Yeth | 201832 | [201832-yeth.json](./201832-yeth.json) |
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
@@ -160,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshida Koumuten | 265650 | [265650-yoshida-koumuten.json](./265650-yoshida-koumuten.json) |
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
+| Yotsunoha ~A Journey of Sincerity~ | 140528 | [140528-yotsunoha-a-journey-of-sincerity.json](./140528-yotsunoha-a-journey-of-sincerity.json) |
 | You Are A Pilot | 189148 | [189148-you-are-a-pilot.json](./189148-you-are-a-pilot.json) |
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
