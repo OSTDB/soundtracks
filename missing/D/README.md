@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkheart: Flight of the Harpies - Collector's Edition | 339840 | [339840-darkheart-flight-of-the-harpies-collectors-edition.json](./339840-darkheart-flight-of-the-harpies-collectors-edition.json) |
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
 | Darkion | 212813 | [212813-darkion.json](./212813-darkion.json) |
+| Darklands: Awakening | 164520 | [164520-darklands-awakening.json](./164520-darklands-awakening.json) |
 | Darklin Wars | 129769 | [129769-darklin-wars.json](./129769-darklin-wars.json) |
 | Darklord's Tower | 360021 | [360021-darklords-tower.json](./360021-darklords-tower.json) |
 | Darkman | 12037 | [12037-darkman.json](./12037-darkman.json) |
@@ -1752,6 +1753,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Tsunami | 111708 | [111708-doctor-tsunami.json](./111708-doctor-tsunami.json) |
 | Doctor Who and the Warlord | 66675 | [66675-doctor-who-and-the-warlord.json](./66675-doctor-who-and-the-warlord.json) |
 | Doctor Who Game Maker | 59457 | [59457-doctor-who-game-maker.json](./59457-doctor-who-game-maker.json) |
+| Doctor Who Infinity: The Horror of Flat Holm | 164452 | [164452-doctor-who-infinity-the-horror-of-flat-holm.json](./164452-doctor-who-infinity-the-horror-of-flat-holm.json) |
+| Doctor Who Infinity: The Lady of the Lake | 164451 | [164451-doctor-who-infinity-the-lady-of-the-lake.json](./164451-doctor-who-infinity-the-lady-of-the-lake.json) |
+| Doctor Who Infinity: The Silent Streets of Barry Island | 164450 | [164450-doctor-who-infinity-the-silent-streets-of-barry-island.json](./164450-doctor-who-infinity-the-silent-streets-of-barry-island.json) |
 | Doctor Who: An Unlikely Heist | 245024 | [245024-doctor-who-an-unlikely-heist.json](./245024-doctor-who-an-unlikely-heist.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Doctor In A Dash | 249464 | [249464-doctor-who-doctor-in-a-dash.json](./249464-doctor-who-doctor-in-a-dash.json) |
@@ -2465,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
+| Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
 | Dream Daddy: Dadrector's Cut | 111064 | [111064-dream-daddy-dadrectors-cut.json](./111064-dream-daddy-dadrectors-cut.json) |
 | Dream Dance & Cheer | 50632 | [50632-dream-dance-and-cheer.json](./50632-dream-dance-and-cheer.json) |
@@ -2799,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dum Dum Dinos | 138221 | [138221-dum-dum-dinos.json](./138221-dum-dum-dinos.json) |
 | Dumb Castle | 289304 | [289304-dumb-castle.json](./289304-dumb-castle.json) |
 | Dumb Little Creatures | 109683 | [109683-dumb-little-creatures.json](./109683-dumb-little-creatures.json) |
+| Dumb Roguelike-like RPG | 164517 | [164517-dumb-roguelike-like-rpg.json](./164517-dumb-roguelike-like-rpg.json) |
 | Dumb Ways to Die 4 | 248649 | [248649-dumb-ways-to-die-4.json](./248649-dumb-ways-to-die-4.json) |
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
 | Dumbino | 307569 | [307569-dumbino.json](./307569-dumbino.json) |
