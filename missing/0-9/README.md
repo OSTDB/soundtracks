@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
 | >Connect | 124224 | [124224-connect.json](./124224-connect.json) |
+| \|\|[}}}°.•°.°•..°•°[\|\|\|{{{ | 141830 | [141830-.json](./141830-.json) |
 | $1,000,000 Kid: Maboroshi no Teiou-hen | 215126 | [215126-1-000-000-kid-maboroshi-no-teiou-hen.json](./215126-1-000-000-kid-maboroshi-no-teiou-hen.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
 | 01's Blackhole | 200635 | [200635-01s-blackhole.json](./200635-01s-blackhole.json) |
