@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T04:51:14.002Z",
-  "total_missing": 53006,
+  "generated_at": "2026-09-10T05:01:22.323Z",
+  "total_missing": 53008,
   "games": [
     {
       "igdb_id": 306086,
@@ -1301,11 +1301,6 @@
       "igdb_id": 316434,
       "game_name": "4 Rush Together",
       "file": "missing/0-9/316434-4-rush-together.json"
-    },
-    {
-      "igdb_id": 233765,
-      "game_name": "4 Snaps",
-      "file": "missing/0-9/233765-4-snaps.json"
     },
     {
       "igdb_id": 245297,
@@ -98908,9 +98903,19 @@
       "file": "missing/H/156172-heroes-and-generals-ge-super-pack.json"
     },
     {
+      "igdb_id": 161922,
+      "game_name": "Heroes & Generals: SU Soldier Pack - Infantry Assault",
+      "file": "missing/H/161922-heroes-and-generals-su-soldier-pack-infantry-assault.json"
+    },
+    {
       "igdb_id": 161909,
       "game_name": "Heroes & Generals: SU Soldier Pack - Light Tanker",
       "file": "missing/H/161909-heroes-and-generals-su-soldier-pack-light-tanker.json"
+    },
+    {
+      "igdb_id": 161920,
+      "game_name": "Heroes & Generals: SU Soldier Pack - Medium Tanker",
+      "file": "missing/H/161920-heroes-and-generals-su-soldier-pack-medium-tanker.json"
     },
     {
       "igdb_id": 161912,
@@ -98921,6 +98926,11 @@
       "igdb_id": 161907,
       "game_name": "Heroes & Generals: US Soldier Pack - Heavy Tanker",
       "file": "missing/H/161907-heroes-and-generals-us-soldier-pack-heavy-tanker.json"
+    },
+    {
+      "igdb_id": 161921,
+      "game_name": "Heroes & Generals: US Soldier Pack - Infantry Assault",
+      "file": "missing/H/161921-heroes-and-generals-us-soldier-pack-infantry-assault.json"
     },
     {
       "igdb_id": 161908,
