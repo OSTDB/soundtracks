@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T23:03:23.723Z",
-  "total_missing": 55614,
+  "generated_at": "2026-09-10T23:10:58.598Z",
+  "total_missing": 55613,
   "games": [
     {
       "igdb_id": 306086,
@@ -1751,11 +1751,6 @@
       "igdb_id": 299470,
       "game_name": "A 2ª Jornada",
       "file": "missing/A/299470-a-2a-jornada.json"
-    },
-    {
-      "igdb_id": 299477,
-      "game_name": "A 3ª Jornada",
-      "file": "missing/A/299477-a-3a-jornada.json"
     },
     {
       "igdb_id": 277571,
