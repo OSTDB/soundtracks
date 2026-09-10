@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Balls 4 | 225279 | [225279-factory-balls-4.json](./225279-factory-balls-4.json) |
 | Factory Balls Christmas Edition | 225284 | [225284-factory-balls-christmas-edition.json](./225284-factory-balls-christmas-edition.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
+| Factory of Sweets | 151129 | [151129-factory-of-sweets.json](./151129-factory-of-sweets.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Faded Grey | 166729 | [166729-faded-grey.json](./166729-faded-grey.json) |
@@ -1457,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Logic: Fly Fishing - The Green River | 209463 | [209463-fly-logic-fly-fishing-the-green-river.json](./209463-fly-logic-fly-fishing-the-green-river.json) |
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
+| Fly the Cloud | 151137 | [151137-fly-the-cloud.json](./151137-fly-the-cloud.json) |
 | Fly the Plane | 263494 | [263494-fly-the-plane.json](./263494-fly-the-plane.json) |
 | FLY: Forever Loving You | 179676 | [179676-fly-forever-loving-you.json](./179676-fly-forever-loving-you.json) |
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
