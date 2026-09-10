@@ -320,7 +320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 8 Ball Pool | 39185 | [39185-8-ball-pool.json](./39185-8-ball-pool.json) |
 | 8 Bit Fighters | 233495 | [233495-8-bit-fighters.json](./233495-8-bit-fighters.json) |
-| 8 Bit Rally | 221209 | [221209-8-bit-rally.json](./221209-8-bit-rally.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
 | 8 Queens | 112358 | [112358-8-queens.json](./112358-8-queens.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
