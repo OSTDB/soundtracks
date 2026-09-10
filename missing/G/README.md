@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gabriel’s Worlds: The Sokoban Adventure | 378192 | [378192-gabriel-s-worlds-the-sokoban-adventure.json](./378192-gabriel-s-worlds-the-sokoban-adventure.json) |
 | Gabrielle | 221967 | [221967-gabrielle.json](./221967-gabrielle.json) |
 | Gacha Capsule Shop Simulator: Akihabara | 386674 | [386674-gacha-capsule-shop-simulator-akihabara.json](./386674-gacha-capsule-shop-simulator-akihabara.json) |
+| Gacha Club | 142408 | [142408-gacha-club.json](./142408-gacha-club.json) |
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachi Heroes 2: Flexboll | 127191 | [127191-gachi-heroes-2-flexboll.json](./127191-gachi-heroes-2-flexboll.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
@@ -1447,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravulse | 141882 | [141882-gravulse.json](./141882-gravulse.json) |
 | Gravv: Between Two Worlds | 195725 | [195725-gravv-between-two-worlds.json](./195725-gravv-between-two-worlds.json) |
 | Gray Matter | 264873 | [264873-gray-matter.json](./264873-gray-matter.json) |
+| Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
 | Graytail | 292298 | [292298-graytail.json](./292298-graytail.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
@@ -1813,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
+| Guncaster | 142417 | [142417-guncaster.json](./142417-guncaster.json) |
 | Guncho | 275604 | [275604-guncho.json](./275604-guncho.json) |
 | Guncrafter | 343805 | [343805-guncrafter.json](./343805-guncrafter.json) |
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
