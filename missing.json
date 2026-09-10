@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T18:04:07.446Z",
-  "total_missing": 54720,
+  "generated_at": "2026-09-10T18:11:03.043Z",
+  "total_missing": 54719,
   "games": [
     {
       "igdb_id": 306086,
@@ -1601,11 +1601,6 @@
       "igdb_id": 17034,
       "game_name": "868-Hack",
       "file": "missing/0-9/17034-868-hack.json"
-    },
-    {
-      "igdb_id": 154563,
-      "game_name": "87 Aftermath: A Rolling Ball Game",
-      "file": "missing/0-9/154563-87-aftermath-a-rolling-ball-game.json"
     },
     {
       "igdb_id": 216774,
