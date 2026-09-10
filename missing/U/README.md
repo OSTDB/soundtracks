@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Tower Defense | 272570 | [272570-ultimate-tower-defense.json](./272570-ultimate-tower-defense.json) |
 | Ultimate Trainz Collection | 206168 | [206168-ultimate-trainz-collection.json](./206168-ultimate-trainz-collection.json) |
 | Ultimate Trial | 304358 | [304358-ultimate-trial.json](./304358-ultimate-trial.json) |
+| Ultimate Truco | 132768 | [132768-ultimate-truco.json](./132768-ultimate-truco.json) |
 | Ultimate Under Water | 155658 | [155658-ultimate-under-water.json](./155658-ultimate-under-water.json) |
 | Ultimate Vitality of Imagination | 210685 | [210685-ultimate-vitality-of-imagination.json](./210685-ultimate-vitality-of-imagination.json) |
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
