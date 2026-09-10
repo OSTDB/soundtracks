@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T22:48:43.388Z",
-  "total_missing": 55566,
+  "generated_at": "2026-09-10T22:51:00.815Z",
+  "total_missing": 55565,
   "games": [
     {
       "igdb_id": 306086,
@@ -1741,11 +1741,6 @@
       "igdb_id": 266819,
       "game_name": "9th Sentinel Sisters",
       "file": "missing/0-9/266819-9th-sentinel-sisters.json"
-    },
-    {
-      "igdb_id": 180216,
-      "game_name": "A",
-      "file": "missing/A/180216-a.json"
     },
     {
       "igdb_id": 177479,
