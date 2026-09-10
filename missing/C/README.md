@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
+| Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
@@ -2320,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook'n'Slash | 244261 | [244261-cooknslash.json](./244261-cooknslash.json) |
 | Cooked Out | 282001 | [282001-cooked-out.json](./282001-cooked-out.json) |
 | Cooked with Love | 177507 | [177507-cooked-with-love.json](./177507-cooked-with-love.json) |
+| Cookey Shop | 145581 | [145581-cookey-shop.json](./145581-cookey-shop.json) |
 | Cookie & Bibi 3 | 39643 | [39643-cookie-and-bibi-3.json](./39643-cookie-and-bibi-3.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
