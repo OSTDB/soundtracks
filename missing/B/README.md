@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book 5 Untold | 254549 | [254549-book-5-untold.json](./254549-book-5-untold.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
+| Book of Beasts | 141179 | [141179-book-of-beasts.json](./141179-book-of-beasts.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
 | Book of Mario: Thousands of Doors | 159323 | [159323-book-of-mario-thousands-of-doors.json](./159323-book-of-mario-thousands-of-doors.json) |
 | Book of Myko | 350455 | [350455-book-of-myko.json](./350455-book-of-myko.json) |
