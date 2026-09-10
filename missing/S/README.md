@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sauk Mind | 326600 | [326600-sauk-mind.json](./326600-sauk-mind.json) |
 | Sauna | 178039 | [178039-sauna.json](./178039-sauna.json) |
 | Sausage Cat | 320774 | [320774-sausage-cat.json](./320774-sausage-cat.json) |
+| Sausage Fiesta | 153363 | [153363-sausage-fiesta.json](./153363-sausage-fiesta.json) |
 | Sausage Legend: Arena | 303800 | [303800-sausage-legend-arena.json](./303800-sausage-legend-arena.json) |
 | Sausage vs. Vegetable | 270097 | [270097-sausage-vs-vegetable.json](./270097-sausage-vs-vegetable.json) |
 | Sausage Wars: Deadly Levels | 248056 | [248056-sausage-wars-deadly-levels.json](./248056-sausage-wars-deadly-levels.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save City R | 260399 | [260399-save-city-r.json](./260399-save-city-r.json) |
 | Save Da Frogs | 237047 | [237047-save-da-frogs.json](./237047-save-da-frogs.json) |
 | Save Daddy Trump 4: Maga 2024 | 301832 | [301832-save-daddy-trump-4-maga-2024.json](./301832-save-daddy-trump-4-maga-2024.json) |
+| Save Data | 153366 | [153366-save-data.json](./153366-save-data.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
 | Save Me Cows | 392160 | [392160-save-me-cows.json](./392160-save-me-cows.json) |
@@ -977,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel of Innocence | 301827 | [301827-sentinel-of-innocence.json](./301827-sentinel-of-innocence.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
+| Sentinel: Cursed Knight | 153354 | [153354-sentinel-cursed-knight.json](./153354-sentinel-cursed-knight.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
 | Sentinels of the Multiverse: Vengeance | 169969 | [169969-sentinels-of-the-multiverse-vengeance.json](./169969-sentinels-of-the-multiverse-vengeance.json) |
 | Sentou Gakuen: Revival | 34388 | [34388-sentou-gakuen-revival.json](./34388-sentou-gakuen-revival.json) |
@@ -2338,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Slayer: Endless Loot | 412954 | [412954-slime-slayer-endless-loot.json](./412954-slime-slayer-endless-loot.json) |
 | Slime Smasher EX | 213645 | [213645-slime-smasher-ex.json](./213645-slime-smasher-ex.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
+| Slime Time TD | 153404 | [153404-slime-time-td.json](./153404-slime-time-td.json) |
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
 | Slime Tower | 351600 | [351600-slime-tower.json](./351600-slime-tower.json) |
 | Slime Trials | 280760 | [280760-slime-trials.json](./280760-slime-trials.json) |
@@ -3508,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shrooms RollPlay | 219588 | [219588-space-shrooms-rollplay.json](./219588-space-shrooms-rollplay.json) |
 | Space Smack! | 171074 | [171074-space-smack.json](./171074-space-smack.json) |
 | Space Smash | 115618 | [115618-space-smash.json](./115618-space-smash.json) |
+| Space Soldier | 153349 | [153349-space-soldier.json](./153349-space-soldier.json) |
 | Space Spartans | 5700 | [5700-space-spartans.json](./5700-space-spartans.json) |
 | Space Station Loma: Operations | 29841 | [29841-space-station-loma-operations.json](./29841-space-station-loma-operations.json) |
 | Space Station Proto Speedmap Jam | 300420 | [300420-space-station-proto-speedmap-jam.json](./300420-space-station-proto-speedmap-jam.json) |
