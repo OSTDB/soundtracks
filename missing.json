@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:01:14.725Z",
+  "generated_at": "2026-09-10T01:11:13.497Z",
   "total_missing": 52443,
   "games": [
     {
@@ -281,6 +281,11 @@
       "igdb_id": 145001,
       "game_name": "100 doors of artifact: Room Escape Challenge",
       "file": "missing/0-9/145001-100-doors-of-artifact-room-escape-challenge.json"
+    },
+    {
+      "igdb_id": 167806,
+      "game_name": "100 Doors: Escape from Work",
+      "file": "missing/0-9/167806-100-doors-escape-from-work.json"
     },
     {
       "igdb_id": 334120,
@@ -1186,11 +1191,6 @@
       "igdb_id": 337620,
       "game_name": "3D Puzzle: Colonial Graveyard",
       "file": "missing/0-9/337620-3d-puzzle-colonial-graveyard.json"
-    },
-    {
-      "igdb_id": 197877,
-      "game_name": "3D Puzzle: Farm House",
-      "file": "missing/0-9/197877-3d-puzzle-farm-house.json"
     },
     {
       "igdb_id": 337621,
