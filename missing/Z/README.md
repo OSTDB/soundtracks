@@ -218,6 +218,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
 | Zombie Apocalypse: Escape the Undead City | 32359 | [32359-zombie-apocalypse-escape-the-undead-city.json](./32359-zombie-apocalypse-escape-the-undead-city.json) |
 | Zombie Army 4: Dead War - Deluxe Edition | 129784 | [129784-zombie-army-4-dead-war-deluxe-edition.json](./129784-zombie-army-4-dead-war-deluxe-edition.json) |
+| Zombie Army 4: Dead War - Mission 5: Alpine Blitz | 143684 | [143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json](./143684-zombie-army-4-dead-war-mission-5-alpine-blitz.json) |
+| Zombie Army 4: Dead War - Mission 6: Dead Zeppelin | 143685 | [143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json](./143685-zombie-army-4-dead-war-mission-6-dead-zeppelin.json) |
 | Zombie Army 4: Dead War - Super Deluxe Edition | 129783 | [129783-zombie-army-4-dead-war-super-deluxe-edition.json](./129783-zombie-army-4-dead-war-super-deluxe-edition.json) |
 | Zombie Attack Pinball HD: Monster Challenge | 89275 | [89275-zombie-attack-pinball-hd-monster-challenge.json](./89275-zombie-attack-pinball-hd-monster-challenge.json) |
 | Zombie Attack: Zombies Survival Shooter | 317235 | [317235-zombie-attack-zombies-survival-shooter.json](./317235-zombie-attack-zombies-survival-shooter.json) |
