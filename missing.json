@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T05:33:43.834Z",
-  "total_missing": 53106,
+  "generated_at": "2026-09-10T05:41:15.166Z",
+  "total_missing": 53105,
   "games": [
     {
       "igdb_id": 306086,
@@ -1321,11 +1321,6 @@
       "igdb_id": 295543,
       "game_name": "4.1.60Co",
       "file": "missing/0-9/295543-4-1-60co.json"
-    },
-    {
-      "igdb_id": 222924,
-      "game_name": "40 x Escape",
-      "file": "missing/0-9/222924-40-x-escape.json"
     },
     {
       "igdb_id": 342062,
