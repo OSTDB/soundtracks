@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reijou Tantei: Office Love Jikenbo | 203342 | [203342-reijou-tantei-office-love-jikenbo.json](./203342-reijou-tantei-office-love-jikenbo.json) |
 | Reiko's Fragments | 125118 | [125118-reikos-fragments.json](./125118-reikos-fragments.json) |
 | Reikon Dungeon | 185153 | [185153-reikon-dungeon.json](./185153-reikon-dungeon.json) |
+| Reimagine: The Game | 144271 | [144271-reimagine-the-game.json](./144271-reimagine-the-game.json) |
 | Reimu's Weird little adventure | 153410 | [153410-reimus-weird-little-adventure.json](./153410-reimus-weird-little-adventure.json) |
 | Rein | 171543 | [171543-rein.json](./171543-rein.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
@@ -1965,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RotoCore | 414291 | [414291-rotocore.json](./414291-rotocore.json) |
 | RotoDefendo | 137055 | [137055-rotodefendo.json](./137055-rotodefendo.json) |
 | Rotolla | 21021 | [21021-rotolla.json](./21021-rotolla.json) |
+| Rotor | 144254 | [144254-rotor.json](./144254-rotor.json) |
 | RotorScape | 311495 | [311495-rotorscape.json](./311495-rotorscape.json) |
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotting Crescendo | 136441 | [136441-rotting-crescendo.json](./136441-rotting-crescendo.json) |
