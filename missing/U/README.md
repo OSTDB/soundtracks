@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uktena 64 | 392159 | [392159-uktena-64.json](./392159-uktena-64.json) |
 | Ulitsa Dimitrova | 175881 | [175881-ulitsa-dimitrova.json](./175881-ulitsa-dimitrova.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
+| Ultim@te Race Pro | 131542 | [131542-ultim-te-race-pro.json](./131542-ultim-te-race-pro.json) |
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
 | Ultima Chess VR | 346587 | [346587-ultima-chess-vr.json](./346587-ultima-chess-vr.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
@@ -414,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Union of Koi Musubi | 53879 | [53879-union-of-koi-musubi.json](./53879-union-of-koi-musubi.json) |
 | UniqKiller: Urban Shooter | 323514 | [323514-uniqkiller-urban-shooter.json](./323514-uniqkiller-urban-shooter.json) |
 | Uniracers | 16743 | [16743-uniracers.json](./16743-uniracers.json) |
+| Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
 | Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
 | Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
