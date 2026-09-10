@@ -256,7 +256,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
 | 3DO Maniac Pack | 37195 | [37195-3do-maniac-pack.json](./37195-3do-maniac-pack.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
-| 3on3 FreeStyle: Deluxe Edition | 249819 | [249819-3on3-freestyle-deluxe-edition.json](./249819-3on3-freestyle-deluxe-edition.json) |
 | 3on3 FreeStyle: Ultimate Edition | 249818 | [249818-3on3-freestyle-ultimate-edition.json](./249818-3on3-freestyle-ultimate-edition.json) |
 | 3Souls: Parallel Edition | 295779 | [295779-3souls-parallel-edition.json](./295779-3souls-parallel-edition.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
