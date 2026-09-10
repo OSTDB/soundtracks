@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelJunk Monsters 2: Danganronpa Pack | 140017 | [140017-pixeljunk-monsters-2-danganronpa-pack.json](./140017-pixeljunk-monsters-2-danganronpa-pack.json) |
 | PixelJunk Monsters 2: Encore Pack | 140016 | [140016-pixeljunk-monsters-2-encore-pack.json](./140016-pixeljunk-monsters-2-encore-pack.json) |
 | PixelJunk Monsters 2: Tiki Bundle | 237939 | [237939-pixeljunk-monsters-2-tiki-bundle.json](./237939-pixeljunk-monsters-2-tiki-bundle.json) |
+| PixelJunk Monsters Encore | 139952 | [139952-pixeljunk-monsters-encore.json](./139952-pixeljunk-monsters-encore.json) |
 | PixelJunk: Scrappers Deluxe | 213499 | [213499-pixeljunk-scrappers-deluxe.json](./213499-pixeljunk-scrappers-deluxe.json) |
 | Pixelmancy | 319371 | [319371-pixelmancy.json](./319371-pixelmancy.json) |
 | PixelMogul | 251209 | [251209-pixelmogul.json](./251209-pixelmogul.json) |
@@ -2979,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
 | Puyo Puyo Tetris 2 | 137132 | [137132-puyo-puyo-tetris-2.json](./137132-puyo-puyo-tetris-2.json) |
+| Puyo Puyo Tetris 2: Launch Edition | 139944 | [139944-puyo-puyo-tetris-2-launch-edition.json](./139944-puyo-puyo-tetris-2-launch-edition.json) |
 | Puyo! Sokoban | 367944 | [367944-puyo-sokoban.json](./367944-puyo-sokoban.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
 | Puzz LR | 150632 | [150632-puzz-lr.json](./150632-puzz-lr.json) |
