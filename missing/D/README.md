@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
+| DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
@@ -1174,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination Paradise | 295273 | [295273-destination-paradise.json](./295273-destination-paradise.json) |
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
 | Destination: Mars! | 72101 | [72101-destination-mars.json](./72101-destination-mars.json) |
+| Destinies | 152884 | [152884-destinies.json](./152884-destinies.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny | 100186 | [100186-destiny.json](./100186-destiny.json) |
 | Destiny 2: Heresy Silver Bundle | 330703 | [330703-destiny-2-heresy-silver-bundle.json](./330703-destiny-2-heresy-silver-bundle.json) |
@@ -1252,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Mankind Divided - Day One Edition | 46024 | [46024-deus-ex-mankind-divided-day-one-edition.json](./46024-deus-ex-mankind-divided-day-one-edition.json) |
 | Deus Ex: The Conspiracy | 347125 | [347125-deus-ex-the-conspiracy.json](./347125-deus-ex-the-conspiracy.json) |
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
+| Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
 | Devastated | 129211 | [129211-devastated.json](./129211-devastated.json) |
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
@@ -2668,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
+| Driver4VR | 152871 | [152871-driver4vr.json](./152871-driver4vr.json) |
 | Drivers Ed Portable | 70425 | [70425-drivers-ed-portable.json](./70425-drivers-ed-portable.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
