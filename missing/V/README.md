@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VarDragons | 57114 | [57114-vardragons.json](./57114-vardragons.json) |
 | Vareion | 245321 | [245321-vareion.json](./245321-vareion.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
+| VargFren Mash | 135180 | [135180-vargfren-mash.json](./135180-vargfren-mash.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
 | Variables 2 | 169399 | [169399-variables-2.json](./169399-variables-2.json) |
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
