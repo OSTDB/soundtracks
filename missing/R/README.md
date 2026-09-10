@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakuen | 28544 | [28544-rakuen.json](./28544-rakuen.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
+| Rally de Africa | 138176 | [138176-rally-de-africa.json](./138176-rally-de-africa.json) |
 | Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange | 232164 | [232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json](./232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json) |
 | Rally Fury: Extreme Racing | 174848 | [174848-rally-fury-extreme-racing.json](./174848-rally-fury-extreme-racing.json) |
 | Rally of Rockets | 112330 | [112330-rally-of-rockets.json](./112330-rally-of-rockets.json) |
@@ -893,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade X: Black Dawn | 51290 | [51290-renegade-x-black-dawn.json](./51290-renegade-x-black-dawn.json) |
 | Renegade: Arena Shooter | 150679 | [150679-renegade-arena-shooter.json](./150679-renegade-arena-shooter.json) |
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
+| Renga in Four Parts | 138150 | [138150-renga-in-four-parts.json](./138150-renga-in-four-parts.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
 | Rent a Girlfriend: The Horizon Line and Her in a Swimsuit | 323726 | [323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json](./323726-rent-a-girlfriend-the-horizon-line-and-her-in-a-swimsuit.json) |
