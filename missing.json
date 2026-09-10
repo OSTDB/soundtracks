@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T02:01:15.390Z",
-  "total_missing": 52549,
+  "generated_at": "2026-09-10T02:11:12.725Z",
+  "total_missing": 52556,
   "games": [
     {
       "igdb_id": 306086,
@@ -1216,11 +1216,6 @@
       "igdb_id": 15578,
       "game_name": "3D Space Ranger",
       "file": "missing/0-9/15578-3d-space-ranger.json"
-    },
-    {
-      "igdb_id": 45341,
-      "game_name": "3D Starstrike II",
-      "file": "missing/0-9/45341-3d-starstrike-ii.json"
     },
     {
       "igdb_id": 73294,
@@ -18201,6 +18196,11 @@
       "igdb_id": 265677,
       "game_name": "B.U.D.D.",
       "file": "missing/B/265677-b-u-d-d.json"
+    },
+    {
+      "igdb_id": 166725,
+      "game_name": "B.U.G. Force",
+      "file": "missing/B/166725-b-u-g-force.json"
     },
     {
       "igdb_id": 16235,
@@ -72663,6 +72663,11 @@
       "file": "missing/F/271986-factoryx.json"
     },
     {
+      "igdb_id": 166729,
+      "game_name": "Faded Grey",
+      "file": "missing/F/166729-faded-grey.json"
+    },
+    {
       "igdb_id": 298897,
       "game_name": "Faded Melodies",
       "file": "missing/F/298897-faded-melodies.json"
@@ -112818,6 +112823,11 @@
       "file": "missing/J/268747-jump-assemble.json"
     },
     {
+      "igdb_id": 166727,
+      "game_name": "Jump/Die/Live",
+      "file": "missing/J/166727-jump-die-live.json"
+    },
+    {
       "igdb_id": 189131,
       "game_name": "Jump1000",
       "file": "missing/J/189131-jump1000.json"
@@ -126871,6 +126881,11 @@
       "igdb_id": 415100,
       "game_name": "Lumiere",
       "file": "missing/L/415100-lumiere.json"
+    },
+    {
+      "igdb_id": 166726,
+      "game_name": "Lumiland",
+      "file": "missing/L/166726-lumiland.json"
     },
     {
       "igdb_id": 295258,
@@ -174436,6 +174451,11 @@
       "igdb_id": 246079,
       "game_name": "Raging Bytes",
       "file": "missing/R/246079-raging-bytes.json"
+    },
+    {
+      "igdb_id": 166723,
+      "game_name": "Raging Fists: Retribution",
+      "file": "missing/R/166723-raging-fists-retribution.json"
     },
     {
       "igdb_id": 85769,
@@ -223013,6 +223033,11 @@
       "file": "missing/T/159851-the-den-of-worms.json"
     },
     {
+      "igdb_id": 166724,
+      "game_name": "The Depths: Prehistoric Survival",
+      "file": "missing/T/166724-the-depths-prehistoric-survival.json"
+    },
+    {
       "igdb_id": 333377,
       "game_name": "The Derailed",
       "file": "missing/T/333377-the-derailed.json"
@@ -256253,6 +256278,11 @@
       "file": "missing/W/233787-wonder-boy-anniversary-collection.json"
     },
     {
+      "igdb_id": 166730,
+      "game_name": "Wonder Defense: Chapter Earth",
+      "file": "missing/W/166730-wonder-defense-chapter-earth.json"
+    },
+    {
       "igdb_id": 216483,
       "game_name": "Wonder Land",
       "file": "missing/W/216483-wonder-land.json"
@@ -260186,6 +260216,11 @@
       "igdb_id": 216478,
       "game_name": "Your Waifu Juice",
       "file": "missing/Y/216478-your-waifu-juice.json"
+    },
+    {
+      "igdb_id": 166731,
+      "game_name": "Your wife",
+      "file": "missing/Y/166731-your-wife.json"
     },
     {
       "igdb_id": 199134,
