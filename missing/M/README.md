@@ -2667,6 +2667,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Club | 185144 | [185144-monster-club.json](./185144-monster-club.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Energy Supercross 5: The Official Videogame - Legends Pack Vol. 2 | 199575 | [199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json](./199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json) |
+| Monster Energy Supercross: The Official Videogame 2 - Los Angeles Memorial Coliseum | 154461 | [154461-monster-energy-supercross-the-official-videogame-2-los-angeles-memorial-coliseum.json](./154461-monster-energy-supercross-the-official-videogame-2-los-angeles-memorial-coliseum.json) |
+| Monster Energy Supercross: The Official Videogame 2 - Monster Energy Cup | 154459 | [154459-monster-energy-supercross-the-official-videogame-2-monster-energy-cup.json](./154459-monster-energy-supercross-the-official-videogame-2-monster-energy-cup.json) |
+| Monster Energy Supercross: The Official Videogame 2 - The Playground | 154460 | [154460-monster-energy-supercross-the-official-videogame-2-the-playground.json](./154460-monster-energy-supercross-the-official-videogame-2-the-playground.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
 | Monster Fishing 2018 | 102766 | [102766-monster-fishing-2018.json](./102766-monster-fishing-2018.json) |
