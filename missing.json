@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T11:33:29.134Z",
-  "total_missing": 53641,
+  "generated_at": "2026-09-10T11:41:10.216Z",
+  "total_missing": 53640,
   "games": [
     {
       "igdb_id": 306086,
@@ -1406,11 +1406,6 @@
       "igdb_id": 191163,
       "game_name": "5G VR Football",
       "file": "missing/0-9/191163-5g-vr-football.json"
-    },
-    {
-      "igdb_id": 319562,
-      "game_name": "6 Games",
-      "file": "missing/0-9/319562-6-games.json"
     },
     {
       "igdb_id": 166212,
