@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T20:18:42.777Z",
-  "total_missing": 55081,
+  "generated_at": "2026-09-10T20:21:02.583Z",
+  "total_missing": 55080,
   "games": [
     {
       "igdb_id": 306086,
@@ -1666,11 +1666,6 @@
       "igdb_id": 301036,
       "game_name": "9 Dystricts",
       "file": "missing/0-9/301036-9-dystricts.json"
-    },
-    {
-      "igdb_id": 324696,
-      "game_name": "9 R.I.P. Aroma Edition",
-      "file": "missing/0-9/324696-9-r-i-p-aroma-edition.json"
     },
     {
       "igdb_id": 178646,
