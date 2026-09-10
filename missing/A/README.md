@@ -809,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterimage Mobile | 297224 | [297224-afterimage-mobile.json](./297224-afterimage-mobile.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife | 264043 | [264043-afterlife.json](./264043-afterlife.json) |
+| Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
 | Afterlife Work | 191828 | [191828-afterlife-work.json](./191828-afterlife-work.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
@@ -1305,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Aspect Warfare | 16065 | [16065-all-aspect-warfare.json](./16065-all-aspect-warfare.json) |
 | All City King | 293081 | [293081-all-city-king.json](./293081-all-city-king.json) |
 | All Doe's Life | 301283 | [301283-all-does-life.json](./301283-all-does-life.json) |
+| All Dream Long A Flower Storm | 164999 | [164999-all-dream-long-a-flower-storm.json](./164999-all-dream-long-a-flower-storm.json) |
 | All Elite Wresting: Fight Forever - Giant Swing in the Ring | 287119 | [287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json](./287119-all-elite-wresting-fight-forever-giant-swing-in-the-ring.json) |
 | All Elite Wrestling: Fight Forever - Elite Beats and Stampede Expansion | 301012 | [301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json](./301012-all-elite-wrestling-fight-forever-elite-beats-and-stampede-expansion.json) |
 | All Elite Wrestling: Fight Forever - Freebie 4 da Fans | 287120 | [287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json](./287120-all-elite-wrestling-fight-forever-freebie-4-da-fans.json) |
@@ -2255,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
 | Arcadium: Space Odyssey | 255971 | [255971-arcadium-space-odyssey.json](./255971-arcadium-space-odyssey.json) |
 | Arcadius | 156126 | [156126-arcadius.json](./156126-arcadius.json) |
+| Arcaduis | 164984 | [164984-arcaduis.json](./164984-arcaduis.json) |
 | Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
 | Arcana | 3652 | [3652-arcana.json](./3652-arcana.json) |
 | Arcana Academy | 367968 | [367968-arcana-academy.json](./367968-arcana-academy.json) |
@@ -3187,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
 | Azimuth | 395550 | [395550-azimuth.json](./395550-azimuth.json) |
 | Azito 3D Kyoto | 222332 | [222332-azito-3d-kyoto.json](./222332-azito-3d-kyoto.json) |
+| Azlan: Rise of the Burlpups | 164991 | [164991-azlan-rise-of-the-burlpups.json](./164991-azlan-rise-of-the-burlpups.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
 | Azoth | 338723 | [338723-azoth.json](./338723-azoth.json) |
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
