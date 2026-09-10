@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Break | 187510 | [187510-taco-break.json](./187510-taco-break.json) |
 | Taco Break: Head to Head | 214527 | [214527-taco-break-head-to-head.json](./214527-taco-break-head-to-head.json) |
 | Taco Joe: Endless Taco Tosser | 268451 | [268451-taco-joe-endless-taco-tosser.json](./268451-taco-joe-endless-taco-tosser.json) |
+| Taco: Princess from the Moon | 166162 | [166162-taco-princess-from-the-moon.json](./166162-taco-princess-from-the-moon.json) |
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
@@ -707,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenpin Bowling | 414338 | [414338-tenpin-bowling.json](./414338-tenpin-bowling.json) |
 | Tens and Twos | 175384 | [175384-tens-and-twos.json](./175384-tens-and-twos.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
+| Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
@@ -894,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's So Raven | 49407 | [49407-thats-so-raven.json](./49407-thats-so-raven.json) |
 | That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
+| The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
 | The 2030 Proto-Interfacer's Guide to House-Oriented Emotional Exploration | 283711 | [283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json](./283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json) |
 | The 2048 | 48015 | [48015-the-2048.json](./48015-the-2048.json) |
 | The 3 Little Princesses | 357253 | [357253-the-3-little-princesses.json](./357253-the-3-little-princesses.json) |
@@ -3089,6 +3092,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu 2: Warp Tiger M09 | 173716 | [173716-the-tower-of-tigerqiuqiu-2-warp-tiger-m09.json](./173716-the-tower-of-tigerqiuqiu-2-warp-tiger-m09.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M12 | 173728 | [173728-the-tower-of-tigerqiuqiu-2-warp-tiger-m12.json](./173728-the-tower-of-tigerqiuqiu-2-warp-tiger-m12.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M13 | 173720 | [173720-the-tower-of-tigerqiuqiu-2-warp-tiger-m13.json](./173720-the-tower-of-tigerqiuqiu-2-warp-tiger-m13.json) |
+| The Tower of TigerQiuQiu: Bomber the Falling Stone | 166138 | [166138-the-tower-of-tigerqiuqiu-bomber-the-falling-stone.json](./166138-the-tower-of-tigerqiuqiu-bomber-the-falling-stone.json) |
+| The Tower of TigerQiuQiu: Bomber the Ruby Magic | 166137 | [166137-the-tower-of-tigerqiuqiu-bomber-the-ruby-magic.json](./166137-the-tower-of-tigerqiuqiu-bomber-the-ruby-magic.json) |
+| The Tower of TigerQiuQiu: Pinball Killer | 166139 | [166139-the-tower-of-tigerqiuqiu-pinball-killer.json](./166139-the-tower-of-tigerqiuqiu-pinball-killer.json) |
 | The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
