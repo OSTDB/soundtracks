@@ -494,6 +494,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Barrel | 239334 | [239334-jump-barrel.json](./239334-jump-barrel.json) |
 | Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
 | Jump Duck | 407306 | [407306-jump-duck.json](./407306-jump-duck.json) |
+| Jump Force: Character Pack 10 - Shoto Todoroki | 167770 | [167770-jump-force-character-pack-10-shoto-todoroki.json](./167770-jump-force-character-pack-10-shoto-todoroki.json) |
+| Jump Force: Character Pack 11 - Meruem | 167771 | [167771-jump-force-character-pack-11-meruem.json](./167771-jump-force-character-pack-11-meruem.json) |
+| Jump Force: Character Pack 12 - Hiei | 167774 | [167774-jump-force-character-pack-12-hiei.json](./167774-jump-force-character-pack-12-hiei.json) |
+| Jump Force: Character Pack 13 - Yoruichi Shihoin | 167769 | [167769-jump-force-character-pack-13-yoruichi-shihoin.json](./167769-jump-force-character-pack-13-yoruichi-shihoin.json) |
+| Jump Force: Character Pack 14 - Giorno Giovanna | 167773 | [167773-jump-force-character-pack-14-giorno-giovanna.json](./167773-jump-force-character-pack-14-giorno-giovanna.json) |
+| Jump Force: Character Pack 4 - Majin Buu (Good) | 167777 | [167777-jump-force-character-pack-4-majin-buu-good.json](./167777-jump-force-character-pack-4-majin-buu-good.json) |
+| Jump Force: Character Pack 5 - Katsuki Bakugo | 167772 | [167772-jump-force-character-pack-5-katsuki-bakugo.json](./167772-jump-force-character-pack-5-katsuki-bakugo.json) |
+| Jump Force: Character Pack 6 - Toshiro Hitsugaya | 167775 | [167775-jump-force-character-pack-6-toshiro-hitsugaya.json](./167775-jump-force-character-pack-6-toshiro-hitsugaya.json) |
+| Jump Force: Character Pack 7 - Madara Uchiha | 167779 | [167779-jump-force-character-pack-7-madara-uchiha.json](./167779-jump-force-character-pack-7-madara-uchiha.json) |
+| Jump Force: Character Pack 8 - Grimmjow Jaegerjaquez | 167778 | [167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json](./167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json) |
+| Jump Force: Character Pack 9 - Trafalgar Law | 167776 | [167776-jump-force-character-pack-9-trafalgar-law.json](./167776-jump-force-character-pack-9-trafalgar-law.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
