@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life And Death Are Predetermined by Heaven | 330555 | [330555-life-and-death-are-predetermined-by-heaven.json](./330555-life-and-death-are-predetermined-by-heaven.json) |
 | Life and Death: A Journey of Star-Crossed Lovers | 314296 | [314296-life-and-death-a-journey-of-star-crossed-lovers.json](./314296-life-and-death-a-journey-of-star-crossed-lovers.json) |
 | Life and Minimalism | 202962 | [202962-life-and-minimalism.json](./202962-life-and-minimalism.json) |
+| Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
 | Life Bubble: Gear Up Edition | 308806 | [308806-life-bubble-gear-up-edition.json](./308806-life-bubble-gear-up-edition.json) |
 | Life Force | 174945 | [174945-life-force.json](./174945-life-force.json) |
 | Life Goals | 102144 | [102144-life-goals.json](./102144-life-goals.json) |
@@ -1343,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose Your Head | 179125 | [179125-lose-your-head.json](./179125-lose-your-head.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
+| Lost & Round | 153364 | [153364-lost-and-round.json](./153364-lost-and-round.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
 | Lost Alone | 167223 | [167223-lost-alone.json](./167223-lost-alone.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
