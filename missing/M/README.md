@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max, an Autistic Journey: Max's Birthday | 168321 | [168321-max-an-autistic-journey-maxs-birthday.json](./168321-max-an-autistic-journey-maxs-birthday.json) |
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
+| Maxi Quiz du Foot Francais | 149007 | [149007-maxi-quiz-du-foot-francais.json](./149007-maxi-quiz-du-foot-francais.json) |
 | Maxi Trucks Racing | 366212 | [366212-maxi-trucks-racing.json](./366212-maxi-trucks-racing.json) |
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximo vs. Army of Zin | 43642 | [43642-maximo-vs-army-of-zin.json](./43642-maximo-vs-army-of-zin.json) |
@@ -3109,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
+| Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbikes Pro 2025: Value Edition | 396921 | [396921-motorbikes-pro-2025-value-edition.json](./396921-motorbikes-pro-2025-value-edition.json) |
 | Motorcycle Mechanic Simulator 2021 | 142478 | [142478-motorcycle-mechanic-simulator-2021.json](./142478-motorcycle-mechanic-simulator-2021.json) |
 | Motorcycle Racing VR | 226725 | [226725-motorcycle-racing-vr.json](./226725-motorcycle-racing-vr.json) |
@@ -3408,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
+| Mushroom Picker Simulator | 149045 | [149045-mushroom-picker-simulator.json](./149045-mushroom-picker-simulator.json) |
 | Mushroom Towers | 179690 | [179690-mushroom-towers.json](./179690-mushroom-towers.json) |
 | Mushroom Wars 2: Episode 3 - Red & Furious | 172155 | [172155-mushroom-wars-2-episode-3-red-and-furious.json](./172155-mushroom-wars-2-episode-3-red-and-furious.json) |
 | Mushroom: The Ruckus | 98994 | [98994-mushroom-the-ruckus.json](./98994-mushroom-the-ruckus.json) |
