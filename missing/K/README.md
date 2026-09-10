@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kioku Hanabi | 309356 | [309356-kioku-hanabi.json](./309356-kioku-hanabi.json) |
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
 | KIPP: Untouched | 225632 | [225632-kipp-untouched.json](./225632-kipp-untouched.json) |
+| Kira Kira | 140523 | [140523-kira-kira.json](./140523-kira-kira.json) |
 | Kira-kira Star Night AC | 206341 | [206341-kira-kira-star-night-ac.json](./206341-kira-kira-star-night-ac.json) |
 | Kira-kira Star Night exa | 206344 | [206344-kira-kira-star-night-exa.json](./206344-kira-kira-star-night-exa.json) |
 | Kira-kira Star Night Gold | 206342 | [206342-kira-kira-star-night-gold.json](./206342-kira-kira-star-night-gold.json) |
