@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
+| Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
@@ -64,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packed Lair | 350440 | [350440-packed-lair.json](./350440-packed-lair.json) |
 | Packmates | 366231 | [366231-packmates.json](./366231-packmates.json) |
 | Packri Monster | 347688 | [347688-packri-monster.json](./347688-packri-monster.json) |
+| PacMac Deluxe | 146224 | [146224-pacmac-deluxe.json](./146224-pacmac-deluxe.json) |
 | Pacmaga 2 | 217916 | [217916-pacmaga-2.json](./217916-pacmaga-2.json) |
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
