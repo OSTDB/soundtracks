@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T05:41:15.166Z",
-  "total_missing": 53105,
+  "generated_at": "2026-09-10T05:48:03.819Z",
+  "total_missing": 53155,
   "games": [
     {
       "igdb_id": 306086,
@@ -236703,6 +236703,11 @@
       "file": "missing/T/160893-tiger-tank-59-i-air-strike-mp010.json"
     },
     {
+      "igdb_id": 160859,
+      "game_name": "Tiger Tank 59 I: Air Strike MP011",
+      "file": "missing/T/160859-tiger-tank-59-i-air-strike-mp011.json"
+    },
+    {
       "igdb_id": 160875,
       "game_name": "Tiger Tank 59 I: Air Strike MP012",
       "file": "missing/T/160875-tiger-tank-59-i-air-strike-mp012.json"
@@ -236723,6 +236728,16 @@
       "file": "missing/T/160896-tiger-tank-59-i-air-strike-mp018.json"
     },
     {
+      "igdb_id": 160851,
+      "game_name": "Tiger Tank 59 I: Air Strike MP020",
+      "file": "missing/T/160851-tiger-tank-59-i-air-strike-mp020.json"
+    },
+    {
+      "igdb_id": 160854,
+      "game_name": "Tiger Tank 59 I: Air Strike MP021",
+      "file": "missing/T/160854-tiger-tank-59-i-air-strike-mp021.json"
+    },
+    {
       "igdb_id": 160890,
       "game_name": "Tiger Tank 59 I: Air Strike MP022",
       "file": "missing/T/160890-tiger-tank-59-i-air-strike-mp022.json"
@@ -236736,6 +236751,11 @@
       "igdb_id": 160870,
       "game_name": "Tiger Tank 59 I: Air Strike MP024",
       "file": "missing/T/160870-tiger-tank-59-i-air-strike-mp024.json"
+    },
+    {
+      "igdb_id": 160849,
+      "game_name": "Tiger Tank 59 I: Air Strike MP025",
+      "file": "missing/T/160849-tiger-tank-59-i-air-strike-mp025.json"
     },
     {
       "igdb_id": 160876,
@@ -236756,6 +236776,11 @@
       "igdb_id": 160888,
       "game_name": "Tiger Tank 59 I: Air Strike MP029",
       "file": "missing/T/160888-tiger-tank-59-i-air-strike-mp029.json"
+    },
+    {
+      "igdb_id": 160856,
+      "game_name": "Tiger Tank 59 I: Air Strike MP030",
+      "file": "missing/T/160856-tiger-tank-59-i-air-strike-mp030.json"
     },
     {
       "igdb_id": 160879,
@@ -236783,6 +236808,11 @@
       "file": "missing/T/160895-tiger-tank-59-i-air-strike-mp036.json"
     },
     {
+      "igdb_id": 160912,
+      "game_name": "Tiger Tank 59 I: Air Strike MP038",
+      "file": "missing/T/160912-tiger-tank-59-i-air-strike-mp038.json"
+    },
+    {
       "igdb_id": 160873,
       "game_name": "Tiger Tank 59 I: Air Strike MP039",
       "file": "missing/T/160873-tiger-tank-59-i-air-strike-mp039.json"
@@ -236791,6 +236821,11 @@
       "igdb_id": 160898,
       "game_name": "Tiger Tank 59 I: Air Strike MP040",
       "file": "missing/T/160898-tiger-tank-59-i-air-strike-mp040.json"
+    },
+    {
+      "igdb_id": 160857,
+      "game_name": "Tiger Tank 59 I: Air Strike MP041",
+      "file": "missing/T/160857-tiger-tank-59-i-air-strike-mp041.json"
     },
     {
       "igdb_id": 160907,
@@ -236806,6 +236841,11 @@
       "igdb_id": 160910,
       "game_name": "Tiger Tank 59 I: Air Strike MP044",
       "file": "missing/T/160910-tiger-tank-59-i-air-strike-mp044.json"
+    },
+    {
+      "igdb_id": 160850,
+      "game_name": "Tiger Tank 59 I: Air Strike MP047",
+      "file": "missing/T/160850-tiger-tank-59-i-air-strike-mp047.json"
     },
     {
       "igdb_id": 160877,
@@ -236843,6 +236883,11 @@
       "file": "missing/T/160861-tiger-tank-59-i-air-strike-mp056.json"
     },
     {
+      "igdb_id": 160858,
+      "game_name": "Tiger Tank 59 I: Air Strike MP057",
+      "file": "missing/T/160858-tiger-tank-59-i-air-strike-mp057.json"
+    },
+    {
       "igdb_id": 160897,
       "game_name": "Tiger Tank 59 I: Air Strike MP058",
       "file": "missing/T/160897-tiger-tank-59-i-air-strike-mp058.json"
@@ -236868,9 +236913,19 @@
       "file": "missing/T/160380-tiger-tank-59-i-air-strike-mp063.json"
     },
     {
+      "igdb_id": 160852,
+      "game_name": "Tiger Tank 59 I: Air Strike MP064",
+      "file": "missing/T/160852-tiger-tank-59-i-air-strike-mp064.json"
+    },
+    {
       "igdb_id": 160386,
       "game_name": "Tiger Tank 59 I: Air Strike MP065",
       "file": "missing/T/160386-tiger-tank-59-i-air-strike-mp065.json"
+    },
+    {
+      "igdb_id": 160853,
+      "game_name": "Tiger Tank 59 I: Air Strike MP067",
+      "file": "missing/T/160853-tiger-tank-59-i-air-strike-mp067.json"
     },
     {
       "igdb_id": 160869,
@@ -236913,6 +236968,11 @@
       "file": "missing/T/160903-tiger-tank-59-i-air-strike-mp082.json"
     },
     {
+      "igdb_id": 160860,
+      "game_name": "Tiger Tank 59 I: Air Strike MP083",
+      "file": "missing/T/160860-tiger-tank-59-i-air-strike-mp083.json"
+    },
+    {
       "igdb_id": 160908,
       "game_name": "Tiger Tank 59 I: Air Strike MP084",
       "file": "missing/T/160908-tiger-tank-59-i-air-strike-mp084.json"
@@ -236921,6 +236981,11 @@
       "igdb_id": 160899,
       "game_name": "Tiger Tank 59 I: Air Strike MP085",
       "file": "missing/T/160899-tiger-tank-59-i-air-strike-mp085.json"
+    },
+    {
+      "igdb_id": 160911,
+      "game_name": "Tiger Tank 59 I: Air Strike MP086",
+      "file": "missing/T/160911-tiger-tank-59-i-air-strike-mp086.json"
     },
     {
       "igdb_id": 160891,
@@ -236936,6 +237001,11 @@
       "igdb_id": 160864,
       "game_name": "Tiger Tank 59 I: Air Strike MP089",
       "file": "missing/T/160864-tiger-tank-59-i-air-strike-mp089.json"
+    },
+    {
+      "igdb_id": 160855,
+      "game_name": "Tiger Tank 59 I: Air Strike MP090",
+      "file": "missing/T/160855-tiger-tank-59-i-air-strike-mp090.json"
     },
     {
       "igdb_id": 160886,
@@ -236998,9 +237068,69 @@
       "file": "missing/T/160366-tiger-tank-59-i-black-hill-fortress-mp074.json"
     },
     {
+      "igdb_id": 160825,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP004",
+      "file": "missing/T/160825-tiger-tank-59-i-break-the-fog-mp004.json"
+    },
+    {
+      "igdb_id": 160815,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP006",
+      "file": "missing/T/160815-tiger-tank-59-i-break-the-fog-mp006.json"
+    },
+    {
+      "igdb_id": 160845,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP007",
+      "file": "missing/T/160845-tiger-tank-59-i-break-the-fog-mp007.json"
+    },
+    {
+      "igdb_id": 160846,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP008",
+      "file": "missing/T/160846-tiger-tank-59-i-break-the-fog-mp008.json"
+    },
+    {
+      "igdb_id": 160831,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP010",
+      "file": "missing/T/160831-tiger-tank-59-i-break-the-fog-mp010.json"
+    },
+    {
+      "igdb_id": 160818,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP011",
+      "file": "missing/T/160818-tiger-tank-59-i-break-the-fog-mp011.json"
+    },
+    {
       "igdb_id": 160370,
       "game_name": "Tiger Tank 59 I: Break the Fog MP012",
       "file": "missing/T/160370-tiger-tank-59-i-break-the-fog-mp012.json"
+    },
+    {
+      "igdb_id": 160842,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP015",
+      "file": "missing/T/160842-tiger-tank-59-i-break-the-fog-mp015.json"
+    },
+    {
+      "igdb_id": 160827,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP018",
+      "file": "missing/T/160827-tiger-tank-59-i-break-the-fog-mp018.json"
+    },
+    {
+      "igdb_id": 160844,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP022",
+      "file": "missing/T/160844-tiger-tank-59-i-break-the-fog-mp022.json"
+    },
+    {
+      "igdb_id": 160820,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP025",
+      "file": "missing/T/160820-tiger-tank-59-i-break-the-fog-mp025.json"
+    },
+    {
+      "igdb_id": 160821,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP029",
+      "file": "missing/T/160821-tiger-tank-59-i-break-the-fog-mp029.json"
+    },
+    {
+      "igdb_id": 160847,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP030",
+      "file": "missing/T/160847-tiger-tank-59-i-break-the-fog-mp030.json"
     },
     {
       "igdb_id": 160384,
@@ -237008,14 +237138,134 @@
       "file": "missing/T/160384-tiger-tank-59-i-break-the-fog-mp033.json"
     },
     {
+      "igdb_id": 160835,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP036",
+      "file": "missing/T/160835-tiger-tank-59-i-break-the-fog-mp036.json"
+    },
+    {
       "igdb_id": 160395,
       "game_name": "Tiger Tank 59 I: Break the Fog MP037",
       "file": "missing/T/160395-tiger-tank-59-i-break-the-fog-mp037.json"
     },
     {
+      "igdb_id": 160828,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP039",
+      "file": "missing/T/160828-tiger-tank-59-i-break-the-fog-mp039.json"
+    },
+    {
+      "igdb_id": 160840,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP041",
+      "file": "missing/T/160840-tiger-tank-59-i-break-the-fog-mp041.json"
+    },
+    {
+      "igdb_id": 160832,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP044",
+      "file": "missing/T/160832-tiger-tank-59-i-break-the-fog-mp044.json"
+    },
+    {
+      "igdb_id": 160816,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP045",
+      "file": "missing/T/160816-tiger-tank-59-i-break-the-fog-mp045.json"
+    },
+    {
+      "igdb_id": 160843,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP046",
+      "file": "missing/T/160843-tiger-tank-59-i-break-the-fog-mp046.json"
+    },
+    {
+      "igdb_id": 160837,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP049",
+      "file": "missing/T/160837-tiger-tank-59-i-break-the-fog-mp049.json"
+    },
+    {
+      "igdb_id": 160814,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP053",
+      "file": "missing/T/160814-tiger-tank-59-i-break-the-fog-mp053.json"
+    },
+    {
+      "igdb_id": 160813,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP054",
+      "file": "missing/T/160813-tiger-tank-59-i-break-the-fog-mp054.json"
+    },
+    {
+      "igdb_id": 160833,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP064",
+      "file": "missing/T/160833-tiger-tank-59-i-break-the-fog-mp064.json"
+    },
+    {
+      "igdb_id": 160839,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP065",
+      "file": "missing/T/160839-tiger-tank-59-i-break-the-fog-mp065.json"
+    },
+    {
+      "igdb_id": 160848,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP066",
+      "file": "missing/T/160848-tiger-tank-59-i-break-the-fog-mp066.json"
+    },
+    {
+      "igdb_id": 160836,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP070",
+      "file": "missing/T/160836-tiger-tank-59-i-break-the-fog-mp070.json"
+    },
+    {
       "igdb_id": 160365,
       "game_name": "Tiger Tank 59 I: Break the Fog MP071",
       "file": "missing/T/160365-tiger-tank-59-i-break-the-fog-mp071.json"
+    },
+    {
+      "igdb_id": 160826,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP072",
+      "file": "missing/T/160826-tiger-tank-59-i-break-the-fog-mp072.json"
+    },
+    {
+      "igdb_id": 160824,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP076",
+      "file": "missing/T/160824-tiger-tank-59-i-break-the-fog-mp076.json"
+    },
+    {
+      "igdb_id": 160822,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP077",
+      "file": "missing/T/160822-tiger-tank-59-i-break-the-fog-mp077.json"
+    },
+    {
+      "igdb_id": 160830,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP078",
+      "file": "missing/T/160830-tiger-tank-59-i-break-the-fog-mp078.json"
+    },
+    {
+      "igdb_id": 160834,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP079",
+      "file": "missing/T/160834-tiger-tank-59-i-break-the-fog-mp079.json"
+    },
+    {
+      "igdb_id": 160819,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP086",
+      "file": "missing/T/160819-tiger-tank-59-i-break-the-fog-mp086.json"
+    },
+    {
+      "igdb_id": 160841,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP088",
+      "file": "missing/T/160841-tiger-tank-59-i-break-the-fog-mp088.json"
+    },
+    {
+      "igdb_id": 160838,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP096",
+      "file": "missing/T/160838-tiger-tank-59-i-break-the-fog-mp096.json"
+    },
+    {
+      "igdb_id": 160817,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP097",
+      "file": "missing/T/160817-tiger-tank-59-i-break-the-fog-mp097.json"
+    },
+    {
+      "igdb_id": 160823,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP098",
+      "file": "missing/T/160823-tiger-tank-59-i-break-the-fog-mp098.json"
+    },
+    {
+      "igdb_id": 160829,
+      "game_name": "Tiger Tank 59 I: Break the Fog MP100",
+      "file": "missing/T/160829-tiger-tank-59-i-break-the-fog-mp100.json"
     },
     {
       "igdb_id": 160373,
