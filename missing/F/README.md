@@ -1191,6 +1191,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame of Valhalla | 329022 | [329022-flame-of-valhalla.json](./329022-flame-of-valhalla.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
+| Flappatron: Episode 2 (Chapters 4-7) | 168847 | [168847-flappatron-episode-2-chapters-4-7.json](./168847-flappatron-episode-2-chapters-4-7.json) |
+| Flappatron: Episode 3 (Chapters 8 - 10) | 168846 | [168846-flappatron-episode-3-chapters-8-10.json](./168846-flappatron-episode-3-chapters-8-10.json) |
+| Flappatron: Episode 4 (Chapters 11 - 13) | 168845 | [168845-flappatron-episode-4-chapters-11-13.json](./168845-flappatron-episode-4-chapters-11-13.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
@@ -1457,8 +1460,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlyWings 2018 Flight Simulator: Drones | 168872 | [168872-flywings-2018-flight-simulator-drones.json](./168872-flywings-2018-flight-simulator-drones.json) |
 | FlyWings 2018 Flight Simulator: Embraer 170 Family | 168874 | [168874-flywings-2018-flight-simulator-embraer-170-family.json](./168874-flywings-2018-flight-simulator-embraer-170-family.json) |
 | FlyWings 2018 Flight Simulator: Embraer 190 Family | 168875 | [168875-flywings-2018-flight-simulator-embraer-190-family.json](./168875-flywings-2018-flight-simulator-embraer-190-family.json) |
+| FlyWings 2018 Flight Simulator: Learjet Family | 168869 | [168869-flywings-2018-flight-simulator-learjet-family.json](./168869-flywings-2018-flight-simulator-learjet-family.json) |
 | FlyWings 2018 Flight Simulator: Military Helicopters | 168880 | [168880-flywings-2018-flight-simulator-military-helicopters.json](./168880-flywings-2018-flight-simulator-military-helicopters.json) |
+| FlyWings 2018 Flight Simulator: Space Shuttle Family | 168868 | [168868-flywings-2018-flight-simulator-space-shuttle-family.json](./168868-flywings-2018-flight-simulator-space-shuttle-family.json) |
 | FlyWings 2018 Flight Simulator: World War I Fighters | 168879 | [168879-flywings-2018-flight-simulator-world-war-i-fighters.json](./168879-flywings-2018-flight-simulator-world-war-i-fighters.json) |
+| FlyWings 2018 Flight Simulator: World War II Fighters | 168870 | [168870-flywings-2018-flight-simulator-world-war-ii-fighters.json](./168870-flywings-2018-flight-simulator-world-war-ii-fighters.json) |
 | Flywrench | 12072 | [12072-flywrench.json](./12072-flywrench.json) |
 | Flyzz! | 217931 | [217931-flyzz.json](./217931-flyzz.json) |
 | FMV Comedy Bundle | 213389 | [213389-fmv-comedy-bundle.json](./213389-fmv-comedy-bundle.json) |
@@ -1741,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress of Zorlac | 319579 | [319579-fortress-of-zorlac.json](./319579-fortress-of-zorlac.json) |
 | Fortress S | 247491 | [247491-fortress-s.json](./247491-fortress-s.json) |
 | FortressCraft Evolved!: Frozen Factory | 167319 | [167319-fortresscraft-evolved-frozen-factory.json](./167319-fortresscraft-evolved-frozen-factory.json) |
+| FortressCraft: Chapter 1 | 168834 | [168834-fortresscraft-chapter-1.json](./168834-fortresscraft-chapter-1.json) |
 | Forts: High Seas | 195771 | [195771-forts-high-seas.json](./195771-forts-high-seas.json) |
 | Fortuito: Lost History | 156667 | [156667-fortuito-lost-history.json](./156667-fortuito-lost-history.json) |
 | Fortuna | 218172 | [218172-fortuna.json](./218172-fortuna.json) |
