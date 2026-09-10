@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
+| Oh My Pool! | 144970 | [144970-oh-my-pool.json](./144970-oh-my-pool.json) |
 | Oh No! UFO! | 386730 | [386730-oh-no-ufo.json](./386730-oh-no-ufo.json) |
 | Oh Ship! | 399593 | [399593-oh-ship.json](./399593-oh-ship.json) |
 | Oh the Humanity! | 311481 | [311481-oh-the-humanity.json](./311481-oh-the-humanity.json) |
