@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanilla Inspector | 154019 | [154019-vanilla-inspector.json](./154019-vanilla-inspector.json) |
 | Vanilla Sky | 274224 | [274224-vanilla-sky.json](./274224-vanilla-sky.json) |
 | Vanilla: Made to Order | 221718 | [221718-vanilla-made-to-order.json](./221718-vanilla-made-to-order.json) |
+| Vanishing Realms: The Sundered Rift | 167244 | [167244-vanishing-realms-the-sundered-rift.json](./167244-vanishing-realms-the-sundered-rift.json) |
 | Vanity | 273650 | [273650-vanity.json](./273650-vanity.json) |
 | Vanquish | 3218 | [3218-vanquish.json](./3218-vanquish.json) |
 | Vanquish Evil | 349317 | [349317-vanquish-evil.json](./349317-vanquish-evil.json) |
