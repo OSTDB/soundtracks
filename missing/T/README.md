@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T3 - Take the Turn | 109728 | [109728-t3-take-the-turn.json](./109728-t3-take-the-turn.json) |
 | Ta ga Tame ni Oni wa Naku | 163357 | [163357-ta-ga-tame-ni-oni-wa-naku.json](./163357-ta-ga-tame-ni-oni-wa-naku.json) |
 | Tabboz Simulator | 191239 | [191239-tabboz-simulator.json](./191239-tabboz-simulator.json) |
+| Tabé-O-Ja | 150071 | [150071-tabe-o-ja.json](./150071-tabe-o-ja.json) |
 | Table Ball: Amazing Extras Skin Pack | 293399 | [293399-table-ball-amazing-extras-skin-pack.json](./293399-table-ball-amazing-extras-skin-pack.json) |
 | Table Ball: Emotions Skin Pack | 293398 | [293398-table-ball-emotions-skin-pack.json](./293398-table-ball-emotions-skin-pack.json) |
 | Table Football Pro | 28873 | [28873-table-football-pro.json](./28873-table-football-pro.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Eigou-kai Jiken | 299763 | [299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json](./299763-tantei-kibukawa-ryousuke-jiken-tan-eigou-kai-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
+| Tantei Opera Milky Holmes 2 | 150117 | [150117-tantei-opera-milky-holmes-2.json](./150117-tantei-opera-milky-holmes-2.json) |
 | Tantei Toki to Yukiyama Kaishi Densetsu Satsujin Jiken | 150118 | [150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json](./150118-tantei-toki-to-yukiyama-kaishi-densetsu-satsujin-jiken.json) |
 | Tanteidan X | 356073 | [356073-tanteidan-x.json](./356073-tanteidan-x.json) |
 | Tantrix Quiz | 207838 | [207838-tantrix-quiz.json](./207838-tantrix-quiz.json) |
@@ -1519,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Machine: The Definitive Edition | 400858 | [400858-the-dream-machine-the-definitive-edition.json](./400858-the-dream-machine-the-definitive-edition.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
 | The Dream Team | 196872 | [196872-the-dream-team.json](./196872-the-dream-team.json) |
+| The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
@@ -1800,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goonies | 41375 | [41375-the-goonies.json](./41375-the-goonies.json) |
 | The Goonies: The Fan Game | 326990 | [326990-the-goonies-the-fan-game.json](./326990-the-goonies-the-fan-game.json) |
 | The Gorge | 322392 | [322392-the-gorge.json](./322392-the-gorge.json) |
+| The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
 | The Grand Guignol | 271733 | [271733-the-grand-guignol.json](./271733-the-grand-guignol.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
 | The Grass | 163955 | [163955-the-grass.json](./163955-the-grass.json) |
@@ -2216,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Child Quest | 346598 | [346598-the-legend-of-zelda-child-quest.json](./346598-the-legend-of-zelda-child-quest.json) |
 | The Legend of Zelda: Echoes of Aurelia | 323202 | [323202-the-legend-of-zelda-echoes-of-aurelia.json](./323202-the-legend-of-zelda-echoes-of-aurelia.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
+| The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
 | The Legend of Zelda: Goddess of Wisdom | 275308 | [275308-the-legend-of-zelda-goddess-of-wisdom.json](./275308-the-legend-of-zelda-goddess-of-wisdom.json) |
 | The Legend of Zelda: Journey of a Day | 269848 | [269848-the-legend-of-zelda-journey-of-a-day.json](./269848-the-legend-of-zelda-journey-of-a-day.json) |
 | The Legend of Zelda: Just Beginning | 324079 | [324079-the-legend-of-zelda-just-beginning.json](./324079-the-legend-of-zelda-just-beginning.json) |
@@ -2238,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Mini Quest | 275620 | [275620-the-legend-of-zelda-the-mini-quest.json](./275620-the-legend-of-zelda-the-mini-quest.json) |
 | The Legend of Zelda: The Wind Waker HD Randomizer | 332219 | [332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json](./332219-the-legend-of-zelda-the-wind-waker-hd-randomizer.json) |
 | The Legend of Zelda: The Wind Waker Multiplayer | 210653 | [210653-the-legend-of-zelda-the-wind-waker-multiplayer.json](./210653-the-legend-of-zelda-the-wind-waker-multiplayer.json) |
+| The Legend of Zelda: Third Quest | 150078 | [150078-the-legend-of-zelda-third-quest.json](./150078-the-legend-of-zelda-third-quest.json) |
 | The Legend of Zelda: Tri Force Heroes | 11194 | [11194-the-legend-of-zelda-tri-force-heroes.json](./11194-the-legend-of-zelda-tri-force-heroes.json) |
 | The Legend of Zelda: Twilight Princess HD | 18017 | [18017-the-legend-of-zelda-twilight-princess-hd.json](./18017-the-legend-of-zelda-twilight-princess-hd.json) |
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
@@ -3221,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu: Tiger Tank Defense S | 157653 | [157653-the-tower-of-tigerqiuqiu-tiger-tank-defense-s.json](./157653-the-tower-of-tigerqiuqiu-tiger-tank-defense-s.json) |
 | The Tower of TigerQiuQiu: Tiger Tank G | 157646 | [157646-the-tower-of-tigerqiuqiu-tiger-tank-g.json](./157646-the-tower-of-tigerqiuqiu-tiger-tank-g.json) |
 | The Tower of TigerQiuQiu: Warp Tiger | 157633 | [157633-the-tower-of-tigerqiuqiu-warp-tiger.json](./157633-the-tower-of-tigerqiuqiu-warp-tiger.json) |
+| The Tower of Wowers | 150068 | [150068-the-tower-of-wowers.json](./150068-the-tower-of-wowers.json) |
 | The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
@@ -3534,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thin Threads | 332415 | [332415-thin-threads.json](./332415-thin-threads.json) |
 | Thing-Thing Arena 3 | 234938 | [234938-thing-thing-arena-3.json](./234938-thing-thing-arena-3.json) |
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
+| Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
 | Think in Two | 388758 | [388758-think-in-two.json](./388758-think-in-two.json) |
 | Think Logic! Sudoku: Binary - Suguru | 231081 | [231081-think-logic-sudoku-binary-suguru.json](./231081-think-logic-sudoku-binary-suguru.json) |
 | Think Shift | 250386 | [250386-think-shift.json](./250386-think-shift.json) |
