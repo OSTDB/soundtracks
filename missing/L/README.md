@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
 | Land of Zombies | 302387 | [302387-land-of-zombies.json](./302387-land-of-zombies.json) |
+| Land of Zympaia | 132761 | [132761-land-of-zympaia.json](./132761-land-of-zympaia.json) |
 | Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
@@ -1629,11 +1630,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LucasArts Adventure Pack | 27848 | [27848-lucasarts-adventure-pack.json](./27848-lucasarts-adventure-pack.json) |
 | Luce Spenta | 371240 | [371240-luce-spenta.json](./371240-luce-spenta.json) |
 | Luce's Journey: A Victorian Trading Tale | 271210 | [271210-luces-journey-a-victorian-trading-tale.json](./271210-luces-journey-a-victorian-trading-tale.json) |
+| Lucen | 132795 | [132795-lucen.json](./132795-lucen.json) |
 | Lucerna Tenebris | 180767 | [180767-lucerna-tenebris.json](./180767-lucerna-tenebris.json) |
 | Lucha Libre AAA: Héroes del Ring | 264875 | [264875-lucha-libre-aaa-heroes-del-ring.json](./264875-lucha-libre-aaa-heroes-del-ring.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
 | Lucian Bee's: Resurrection Supernova | 59424 | [59424-lucian-bees-resurrection-supernova.json](./59424-lucian-bees-resurrection-supernova.json) |
 | Lucid Adventure Idle RPG | 143079 | [143079-lucid-adventure-idle-rpg.json](./143079-lucid-adventure-idle-rpg.json) |
+| Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
