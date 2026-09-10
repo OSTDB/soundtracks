@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T06:18:54.737Z",
-  "total_missing": 53252,
+  "generated_at": "2026-09-10T06:21:16.572Z",
+  "total_missing": 53251,
   "games": [
     {
       "igdb_id": 306086,
@@ -1341,11 +1341,6 @@
       "igdb_id": 109036,
       "game_name": "48 Pieces",
       "file": "missing/0-9/109036-48-pieces.json"
-    },
-    {
-      "igdb_id": 73308,
-      "game_name": "4D Sports Tennis",
-      "file": "missing/0-9/73308-4d-sports-tennis.json"
     },
     {
       "igdb_id": 140624,
