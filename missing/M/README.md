@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Jigsaw: Harukaze Sensation! Pack | 162926 | [162926-moe-jigsaw-harukaze-sensation-pack.json](./162926-moe-jigsaw-harukaze-sensation-pack.json) |
 | Moe Jigsaw: Hatsukoi Sankaime Pack | 162906 | [162906-moe-jigsaw-hatsukoi-sankaime-pack.json](./162906-moe-jigsaw-hatsukoi-sankaime-pack.json) |
 | Moe Jigsaw: HHG -The end of the Goddess Pack | 162915 | [162915-moe-jigsaw-hhg-the-end-of-the-goddess-pack.json](./162915-moe-jigsaw-hhg-the-end-of-the-goddess-pack.json) |
+| Moe Jigsaw: Hyper-Highspeed-Genius Pack | 162932 | [162932-moe-jigsaw-hyper-highspeed-genius-pack.json](./162932-moe-jigsaw-hyper-highspeed-genius-pack.json) |
 | Moe Jigsaw: Hyper-Highspeed-Genius vol.2 Pack | 162912 | [162912-moe-jigsaw-hyper-highspeed-genius-vol-2-pack.json](./162912-moe-jigsaw-hyper-highspeed-genius-vol-2-pack.json) |
 | Moe Jigsaw: Hyper-Highspeed-Genius X Pack | 162913 | [162913-moe-jigsaw-hyper-highspeed-genius-x-pack.json](./162913-moe-jigsaw-hyper-highspeed-genius-x-pack.json) |
 | Moe Jigsaw: Iro ni idenikeri waga koi ha Pack | 162928 | [162928-moe-jigsaw-iro-ni-idenikeri-waga-koi-ha-pack.json](./162928-moe-jigsaw-iro-ni-idenikeri-waga-koi-ha-pack.json) |
@@ -2420,10 +2421,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Jigsaw: Shin Koihime Musou vol.3 Pack | 162923 | [162923-moe-jigsaw-shin-koihime-musou-vol-3-pack.json](./162923-moe-jigsaw-shin-koihime-musou-vol-3-pack.json) |
 | Moe Jigsaw: Shin Koihime Musou vol.4 Pack | 162916 | [162916-moe-jigsaw-shin-koihime-musou-vol-4-pack.json](./162916-moe-jigsaw-shin-koihime-musou-vol-4-pack.json) |
 | Moe Jigsaw: Special prices Pack | 162920 | [162920-moe-jigsaw-special-prices-pack.json](./162920-moe-jigsaw-special-prices-pack.json) |
+| Moe Jigsaw: Special prices Pack | 162931 | [162931-moe-jigsaw-special-prices-pack.json](./162931-moe-jigsaw-special-prices-pack.json) |
 | Moe Jigsaw: Tsunagaru Bangle Pack | 162927 | [162927-moe-jigsaw-tsunagaru-bangle-pack.json](./162927-moe-jigsaw-tsunagaru-bangle-pack.json) |
 | Moe Jigsaw: Unlucky Reverse Pack | 162914 | [162914-moe-jigsaw-unlucky-reverse-pack.json](./162914-moe-jigsaw-unlucky-reverse-pack.json) |
 | Moe Jigsaw: Witch's Garden Pack | 162929 | [162929-moe-jigsaw-witchs-garden-pack.json](./162929-moe-jigsaw-witchs-garden-pack.json) |
 | Moe Jigsaw: Witch's Garden vol.2 Pack | 162917 | [162917-moe-jigsaw-witchs-garden-vol-2-pack.json](./162917-moe-jigsaw-witchs-garden-vol-2-pack.json) |
+| Moe Jigsaw: Wizards Complex Pack | 162930 | [162930-moe-jigsaw-wizards-complex-pack.json](./162930-moe-jigsaw-wizards-complex-pack.json) |
 | Moe Moe 2-ji Daisenryaku | 288207 | [288207-moe-moe-2-ji-daisenryaku.json](./288207-moe-moe-2-ji-daisenryaku.json) |
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
 | Moe Waifu H: BlockBlast | 317213 | [317213-moe-waifu-h-blockblast.json](./317213-moe-waifu-h-blockblast.json) |
@@ -2929,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morvyn Gutter | 341338 | [341338-morvyn-gutter.json](./341338-morvyn-gutter.json) |
 | Morwen Estate | 342068 | [342068-morwen-estate.json](./342068-morwen-estate.json) |
 | Mosaic | 18929 | [18929-mosaic.json](./18929-mosaic.json) |
+| Mosaic Chronicles | 162850 | [162850-mosaic-chronicles.json](./162850-mosaic-chronicles.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Mosaic Chronicles Deluxe: Special Edition | 260688 | [260688-mosaic-chronicles-deluxe-special-edition.json](./260688-mosaic-chronicles-deluxe-special-edition.json) |
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
