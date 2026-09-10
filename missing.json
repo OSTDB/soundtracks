@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:51:14.349Z",
-  "total_missing": 52288,
+  "generated_at": "2026-09-10T00:01:15.432Z",
+  "total_missing": 52290,
   "games": [
     {
       "igdb_id": 306086,
@@ -1151,11 +1151,6 @@
       "igdb_id": 205837,
       "game_name": "3D Dragon Castle",
       "file": "missing/0-9/205837-3d-dragon-castle.json"
-    },
-    {
-      "igdb_id": 35889,
-      "game_name": "3d Engineers",
-      "file": "missing/0-9/35889-3d-engineers.json"
     },
     {
       "igdb_id": 410226,
@@ -35938,6 +35933,11 @@
       "file": "missing/C/404818-castle-in-the-sands.json"
     },
     {
+      "igdb_id": 169423,
+      "game_name": "Castle Itter: The Strangest Battle of WWII",
+      "file": "missing/C/169423-castle-itter-the-strangest-battle-of-wwii.json"
+    },
+    {
       "igdb_id": 238490,
       "game_name": "Castle Kingdom Wars",
       "file": "missing/C/238490-castle-kingdom-wars.json"
@@ -45526,6 +45526,11 @@
       "igdb_id": 172146,
       "game_name": "Counter Fight Ichiran",
       "file": "missing/C/172146-counter-fight-ichiran.json"
+    },
+    {
+      "igdb_id": 169422,
+      "game_name": "Counter Operation Online",
+      "file": "missing/C/169422-counter-operation-online.json"
     },
     {
       "igdb_id": 269036,
@@ -208756,6 +208761,11 @@
       "igdb_id": 186830,
       "game_name": "Succubus War",
       "file": "missing/S/186830-succubus-war.json"
+    },
+    {
+      "igdb_id": 169424,
+      "game_name": "Succubuses Love Creampie",
+      "file": "missing/S/169424-succubuses-love-creampie.json"
     },
     {
       "igdb_id": 400224,
