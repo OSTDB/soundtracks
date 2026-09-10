@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Care-a-lot Jamboree | 65502 | [65502-care-bears-care-a-lot-jamboree.json](./65502-care-bears-care-a-lot-jamboree.json) |
 | Care Bears: Catch A Star! | 65505 | [65505-care-bears-catch-a-star.json](./65505-care-bears-catch-a-star.json) |
 | Care Bears: The Care Quests | 49368 | [49368-care-bears-the-care-quests.json](./49368-care-bears-the-care-quests.json) |
+| Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
 | Cargo | 312566 | [312566-cargo.json](./312566-cargo.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
@@ -2330,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
+| Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
 | Contingent️ | 275352 | [275352-contingent.json](./275352-contingent.json) |
 | Continuum 01 | 265417 | [265417-continuum-01.json](./265417-continuum-01.json) |
 | Contra | 186226 | [186226-contra.json](./186226-contra.json) |
@@ -2800,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Cauldron | 176968 | [176968-crazy-cauldron.json](./176968-crazy-cauldron.json) |
 | Crazy Chewy | 47267 | [47267-crazy-chewy.json](./47267-crazy-chewy.json) |
+| Crazy Chicken Carnival | 135816 | [135816-crazy-chicken-carnival.json](./135816-crazy-chicken-carnival.json) |
 | Crazy Chicken Jump'n Run: Atlantis Quest | 282571 | [282571-crazy-chicken-jumpn-run-atlantis-quest.json](./282571-crazy-chicken-jumpn-run-atlantis-quest.json) |
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
 | Crazy Chicken: Shooter Edition | 143060 | [143060-crazy-chicken-shooter-edition.json](./143060-crazy-chicken-shooter-edition.json) |
