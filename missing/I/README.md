@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Rodent | 57093 | [57093-indiana-rodent.json](./57093-indiana-rodent.json) |
 | Indie All Star Bundle | 317216 | [317216-indie-all-star-bundle.json](./317216-indie-all-star-bundle.json) |
 | Indie All Star Vol. 2 | 320759 | [320759-indie-all-star-vol-2.json](./320759-indie-all-star-vol-2.json) |
+| Indie Arena Booth Online | 138721 | [138721-indie-arena-booth-online.json](./138721-indie-arena-booth-online.json) |
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
 | Indie Jane and the Snake Tower | 240198 | [240198-indie-jane-and-the-snake-tower.json](./240198-indie-jane-and-the-snake-tower.json) |
