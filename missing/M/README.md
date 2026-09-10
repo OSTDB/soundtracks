@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
 | Maestria | 207841 | [207841-maestria.json](./207841-maestria.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
+| Mǎfǎ Chuánqí | 159812 | [159812-mafa-chuanqi.json](./159812-mafa-chuanqi.json) |
 | Mafalda: Jugando con Números y Palabras | 167760 | [167760-mafalda-jugando-con-numeros-y-palabras.json](./167760-mafalda-jugando-con-numeros-y-palabras.json) |
 | Mafia 1x1 | 307327 | [307327-mafia-1x1.json](./307327-mafia-1x1.json) |
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
@@ -2209,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
+| Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
 | Mintroid | 188619 | [188619-mintroid.json](./188619-mintroid.json) |
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
@@ -2770,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Inc.: Scream Team Training | 281988 | [281988-monsters-inc-scream-team-training.json](./281988-monsters-inc-scream-team-training.json) |
 | Monsters Lair | 356669 | [356669-monsters-lair.json](./356669-monsters-lair.json) |
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
+| Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
 | MonsterSoft | 138803 | [138803-monstersoft.json](./138803-monstersoft.json) |
@@ -2888,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morgan lives in a Rocket House in VR | 74442 | [74442-morgan-lives-in-a-rocket-house-in-vr.json](./74442-morgan-lives-in-a-rocket-house-in-vr.json) |
 | Mori Adventures | 407351 | [407351-mori-adventures.json](./407351-mori-adventures.json) |
 | Mori no Fantasy: Sekaiju no Densetsu | 220321 | [220321-mori-no-fantasy-sekaiju-no-densetsu.json](./220321-mori-no-fantasy-sekaiju-no-densetsu.json) |
+| Mori's Nightmare: Hide and seek | 159842 | [159842-moris-nightmare-hide-and-seek.json](./159842-moris-nightmare-hide-and-seek.json) |
 | MoriArashi | 205235 | [205235-moriarashi.json](./205235-moriarashi.json) |
 | Morikomori Life | 262977 | [262977-morikomori-life.json](./262977-morikomori-life.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
