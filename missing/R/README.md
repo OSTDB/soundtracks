@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Pirates | 371238 | [371238-rebel-pirates.json](./371238-rebel-pirates.json) |
 | Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
+| Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebirth | 345525 | [345525-rebirth.json](./345525-rebirth.json) |
 | Rebirth | 78571 | [78571-rebirth.json](./78571-rebirth.json) |
@@ -848,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
+| Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
 | Remote Planets | 224766 | [224766-remote-planets.json](./224766-remote-planets.json) |
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
 | Removed | 128631 | [128631-removed.json](./128631-removed.json) |
@@ -2088,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Bird Run | 344926 | [344926-run-bird-run.json](./344926-run-bird-run.json) |
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
 | Run Crabby Run | 54462 | [54462-run-crabby-run.json](./54462-run-crabby-run.json) |
+| Run Die Jump | 153357 | [153357-run-die-jump.json](./153357-run-die-jump.json) |
 | Run Fairy | 111014 | [111014-run-fairy.json](./111014-run-fairy.json) |
 | Run for Cheese | 174356 | [174356-run-for-cheese.json](./174356-run-for-cheese.json) |
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
