@@ -1332,6 +1332,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Winter Jigsaws | 389415 | [389415-pixel-puzzles-winter-jigsaws.json](./389415-pixel-puzzles-winter-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws | 263779 | [263779-pixel-puzzles-world-war-ii-jigsaws.json](./263779-pixel-puzzles-world-war-ii-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Distant Worlds | 163410 | [163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json](./163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Fairies | 163407 | [163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json](./163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Mechs | 163409 | [163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json](./163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json) |
+| Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Ninja Girls | 163408 | [163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json](./163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
 | Pixel Quest: The Lost Gifts | 413681 | [413681-pixel-quest-the-lost-gifts.json](./413681-pixel-quest-the-lost-gifts.json) |
 | Pixel Quest: The Lost Idols | 413680 | [413680-pixel-quest-the-lost-idols.json](./413680-pixel-quest-the-lost-idols.json) |
@@ -1567,6 +1571,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Smile | 318974 | [318974-please-smile.json](./318974-please-smile.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
+| Pleasure Puzzle:Workshop - Part 1 | 163468 | [163468-pleasure-puzzle-workshop-part-1.json](./163468-pleasure-puzzle-workshop-part-1.json) |
+| Pleasure Puzzle:Workshop - Part 2 | 163467 | [163467-pleasure-puzzle-workshop-part-2.json](./163467-pleasure-puzzle-workshop-part-2.json) |
+| Pleasure Puzzle:Workshop - Part 3 | 163466 | [163466-pleasure-puzzle-workshop-part-3.json](./163466-pleasure-puzzle-workshop-part-3.json) |
+| Pleasure Puzzle:Workshop - Part 4 | 163469 | [163469-pleasure-puzzle-workshop-part-4.json](./163469-pleasure-puzzle-workshop-part-4.json) |
+| Pleasure Puzzle:Workshop - Part 5 | 163465 | [163465-pleasure-puzzle-workshop-part-5.json](./163465-pleasure-puzzle-workshop-part-5.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
 | Pleasuredromes Of Kubla Khan | 268738 | [268738-pleasuredromes-of-kubla-khan.json](./268738-pleasuredromes-of-kubla-khan.json) |
 | Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
@@ -2413,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profundus | 341468 | [341468-profundus.json](./341468-profundus.json) |
 | Progear: Airplane Shooter | 231908 | [231908-progear-airplane-shooter.json](./231908-progear-airplane-shooter.json) |
 | Program Pack 4 | 319591 | [319591-program-pack-4.json](./319591-program-pack-4.json) |
+| Programa do Ratinho | 163360 | [163360-programa-do-ratinho.json](./163360-programa-do-ratinho.json) |
 | Programmer Dungeon Knightress | 199566 | [199566-programmer-dungeon-knightress.json](./199566-programmer-dungeon-knightress.json) |
 | Progress Bar Deluxe | 371861 | [371861-progress-bar-deluxe.json](./371861-progress-bar-deluxe.json) |
 | Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
@@ -2908,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle XL | 87705 | [87705-puzzle-xl.json](./87705-puzzle-xl.json) |
 | Puzzle: Birds | 114363 | [114363-puzzle-birds.json](./114363-puzzle-birds.json) |
 | Puzzle: Birds - Puzzle Pack: 10 Birds | 163462 | [163462-puzzle-birds-puzzle-pack-10-birds.json](./163462-puzzle-birds-puzzle-pack-10-birds.json) |
+| Puzzle: Cats & Dogs - Puzzle Pack: Summer Cats | 163464 | [163464-puzzle-cats-and-dogs-puzzle-pack-summer-cats.json](./163464-puzzle-cats-and-dogs-puzzle-pack-summer-cats.json) |
 | Puzzle: Cats & Dogs - Puzzle Pack: Summer Dogs | 163463 | [163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json](./163463-puzzle-cats-and-dogs-puzzle-pack-summer-dogs.json) |
 | Puzzle: Landscapes | 106589 | [106589-puzzle-landscapes.json](./106589-puzzle-landscapes.json) |
 | Puzzle: Lines and Knots - Free Levels Pack | 293425 | [293425-puzzle-lines-and-knots-free-levels-pack.json](./293425-puzzle-lines-and-knots-free-levels-pack.json) |
