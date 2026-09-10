@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T11:18:47.659Z",
-  "total_missing": 53593,
+  "generated_at": "2026-09-10T11:21:26.483Z",
+  "total_missing": 53592,
   "games": [
     {
       "igdb_id": 306086,
@@ -1396,11 +1396,6 @@
       "igdb_id": 164981,
       "game_name": "50 Waves Hero",
       "file": "missing/0-9/164981-50-waves-hero.json"
-    },
-    {
-      "igdb_id": 412311,
-      "game_name": "500 Finger Fillet",
-      "file": "missing/0-9/412311-500-finger-fillet.json"
     },
     {
       "igdb_id": 135864,
