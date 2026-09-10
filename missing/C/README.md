@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: World at War - Zombies | 89115 | [89115-call-of-duty-world-at-war-zombies.json](./89115-call-of-duty-world-at-war-zombies.json) |
 | Call of Farming | 259583 | [259583-call-of-farming.json](./259583-call-of-farming.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
+| Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
 | Call of Senpai: Waifu Warfare | 192379 | [192379-call-of-senpai-waifu-warfare.json](./192379-call-of-senpai-waifu-warfare.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
@@ -149,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Down, Stalin VR | 286535 | [286535-calm-down-stalin-vr.json](./286535-calm-down-stalin-vr.json) |
 | Calm Down, Stalin: The First Person | 161351 | [161351-calm-down-stalin-the-first-person.json](./161351-calm-down-stalin-the-first-person.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
+| Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
 | Calvin's Gallery | 377043 | [377043-calvins-gallery.json](./377043-calvins-gallery.json) |
 | Calvino Noir | 17713 | [17713-calvino-noir.json](./17713-calvino-noir.json) |
 | Calx | 203520 | [203520-calx.json](./203520-calx.json) |
@@ -1811,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Alien Brick Breaker | 63857 | [63857-cocoto-alien-brick-breaker.json](./63857-cocoto-alien-brick-breaker.json) |
 | Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
+| Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
 | Code Dungeon | 185592 | [185592-code-dungeon.json](./185592-code-dungeon.json) |
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
 | Code Exit | 292540 | [292540-code-exit.json](./292540-code-exit.json) |
