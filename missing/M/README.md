@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross: Shooting Insight | 230620 | [230620-macross-shooting-insight.json](./230620-macross-shooting-insight.json) |
 | MacShot | 192447 | [192447-macshot.json](./192447-macshot.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
+| Mad Bus | 156101 | [156101-mad-bus.json](./156101-mad-bus.json) |
 | Mad Cars | 94261 | [94261-mad-cars.json](./94261-mad-cars.json) |
 | Mad Cop 3 | 175371 | [175371-mad-cop-3.json](./175371-mad-cop-3.json) |
 | Mad Crash Racing | 234323 | [234323-mad-crash-racing.json](./234323-mad-crash-racing.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator X: Steam Edition - Rutan 61 Long EZ | 161835 | [161835-microsoft-flight-simulator-x-steam-edition-rutan-61-long-ez.json](./161835-microsoft-flight-simulator-x-steam-edition-rutan-61-long-ez.json) |
 | Microsoft Flight Simulator X: Steam Edition - Santa Barbara Airport (KSBA) | 161832 | [161832-microsoft-flight-simulator-x-steam-edition-santa-barbara-airport-ksba.json](./161832-microsoft-flight-simulator-x-steam-edition-santa-barbara-airport-ksba.json) |
 | Microsoft Flight Simulator X: Steam Edition - Skychaser | 161837 | [161837-microsoft-flight-simulator-x-steam-edition-skychaser.json](./161837-microsoft-flight-simulator-x-steam-edition-skychaser.json) |
+| Microsoft Flight Simulator X: Steam Edition - Stornoway Airport (EGPO) | 156181 | [156181-microsoft-flight-simulator-x-steam-edition-stornoway-airport-egpo.json](./156181-microsoft-flight-simulator-x-steam-edition-stornoway-airport-egpo.json) |
 | Microsoft Flight Simulator X: Steam Edition - Treasure Hunt | 161817 | [161817-microsoft-flight-simulator-x-steam-edition-treasure-hunt.json](./161817-microsoft-flight-simulator-x-steam-edition-treasure-hunt.json) |
 | Microsoft Flight Simulator X: Steam Edition - Twentynine Palms Airport | 161858 | [161858-microsoft-flight-simulator-x-steam-edition-twentynine-palms-airport.json](./161858-microsoft-flight-simulator-x-steam-edition-twentynine-palms-airport.json) |
 | Microsoft Flight Simulator X: Steam Edition - Ultimate VFR Guam | 161849 | [161849-microsoft-flight-simulator-x-steam-edition-ultimate-vfr-guam.json](./161849-microsoft-flight-simulator-x-steam-edition-ultimate-vfr-guam.json) |
