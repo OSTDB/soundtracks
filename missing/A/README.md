@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Gakkou de Atta Kowai Hanashi - Kiwame | 212259 | [212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json](./212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Shinsei 2 | 212256 | [212256-apathy-gakkou-de-atta-kowai-hanashi-shinsei-2.json](./212256-apathy-gakkou-de-atta-kowai-hanashi-shinsei-2.json) |
 | Apathy: Inaba Hyakumantetsu in Narugami Gakuen Reikaiki | 260980 | [260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json](./260980-apathy-inaba-hyakumantetsu-in-narugami-gakuen-reikaiki.json) |
+| Apathy: Midnight Collection - Vol. 1 | 150056 | [150056-apathy-midnight-collection-vol-1.json](./150056-apathy-midnight-collection-vol-1.json) |
 | Apathy: Napoli no Otoko-tachi in Gakkou de Atta Kowai Hanashi | 212260 | [212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json](./212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json) |
 | Apathy: Narugami Gakuen Nana Fushigi | 206171 | [206171-apathy-narugami-gakuen-nana-fushigi.json](./206171-apathy-narugami-gakuen-nana-fushigi.json) |
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
