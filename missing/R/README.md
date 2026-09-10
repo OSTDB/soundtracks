@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
 | Red Dead Redemption: Myths and Mavericks | 43356 | [43356-red-dead-redemption-myths-and-mavericks.json](./43356-red-dead-redemption-myths-and-mavericks.json) |
 | Red Dead Revolver | 1969 | [1969-red-dead-revolver.json](./1969-red-dead-revolver.json) |
+| Red Desert Render | 132148 | [132148-red-desert-render.json](./132148-red-desert-render.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Embrace | 86440 | [86440-red-embrace.json](./86440-red-embrace.json) |
