@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cain x Nica | 304609 | [304609-cain-x-nica.json](./304609-cain-x-nica.json) |
 | Cairn | 178665 | [178665-cairn.json](./178665-cairn.json) |
 | Cairn | 394894 | [394894-cairn.json](./394894-cairn.json) |
+| Cairn: Mathair's Curse | 163941 | [163941-cairn-mathairs-curse.json](./163941-cairn-mathairs-curse.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
 | Cake Bites Make & Bake: Cooking Dessert Kids Game | 109012 | [109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json](./109012-cake-bites-make-and-bake-cooking-dessert-kids-game.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chozetsu Rinjin Berabo Man | 42038 | [42038-chozetsu-rinjin-berabo-man.json](./42038-chozetsu-rinjin-berabo-man.json) |
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
+| Christmas Adventures: A Winter Night's Dream | 163921 | [163921-christmas-adventures-a-winter-nights-dream.json](./163921-christmas-adventures-a-winter-nights-dream.json) |
 | Christmas at Marisol Bay | 184047 | [184047-christmas-at-marisol-bay.json](./184047-christmas-at-marisol-bay.json) |
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
