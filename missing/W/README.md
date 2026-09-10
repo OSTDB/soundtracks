@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wailing Heights: Deluxe Edition | 53881 | [53881-wailing-heights-deluxe-edition.json](./53881-wailing-heights-deluxe-edition.json) |
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
 | Wait: The Patient | 312564 | [312564-wait-the-patient.json](./312564-wait-the-patient.json) |
+| Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
 | Waiting For You At The End of Time | 335258 | [335258-waiting-for-you-at-the-end-of-time.json](./335258-waiting-for-you-at-the-end-of-time.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
