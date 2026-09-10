@@ -290,7 +290,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6-in-1 IQ Scale Bundle: Lost Starships | 166212 | [166212-6-in-1-iq-scale-bundle-lost-starships.json](./166212-6-in-1-iq-scale-bundle-lost-starships.json) |
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
-| 60 Seconds! Souper Scavenger | 349831 | [349831-60-seconds-souper-scavenger.json](./349831-60-seconds-souper-scavenger.json) |
 | 64 Oozumou | 3433 | [3433-64-oozumou.json](./3433-64-oozumou.json) |
 | 64 Oozumou 2 | 3434 | [3434-64-oozumou-2.json](./3434-64-oozumou-2.json) |
 | 64 Trump Collection: Alice no Waku-waku Trump World | 3435 | [3435-64-trump-collection-alice-no-waku-waku-trump-world.json](./3435-64-trump-collection-alice-no-waku-waku-trump-world.json) |
