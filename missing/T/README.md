@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dawn Obscura | 341494 | [341494-the-dawn-obscura.json](./341494-the-dawn-obscura.json) |
 | The Dawn Of Slenderman | 321358 | [321358-the-dawn-of-slenderman.json](./321358-the-dawn-of-slenderman.json) |
 | The Dawn: Sniper's Way | 189207 | [189207-the-dawn-snipers-way.json](./189207-the-dawn-snipers-way.json) |
+| The Dawning Clocks of Time | 168332 | [168332-the-dawning-clocks-of-time.json](./168332-the-dawning-clocks-of-time.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
