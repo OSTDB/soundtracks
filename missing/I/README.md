@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
 | Infection Crisis: Fight For Life | 270134 | [270134-infection-crisis-fight-for-life.json](./270134-infection-crisis-fight-for-life.json) |
 | Infection X | 260417 | [260417-infection-x.json](./260417-infection-x.json) |
+| Infection: Board Game | 147906 | [147906-infection-board-game.json](./147906-infection-board-game.json) |
 | Infecto | 89934 | [89934-infecto.json](./89934-infecto.json) |
 | Infectonator | 200728 | [200728-infectonator.json](./200728-infectonator.json) |
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
