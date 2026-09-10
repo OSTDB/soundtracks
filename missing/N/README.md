@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHRA Drag Racing: Quarter Mile Showdown | 210033 | [210033-nhra-drag-racing-quarter-mile-showdown.json](./210033-nhra-drag-racing-quarter-mile-showdown.json) |
 | Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
+| Ni no Kuni II: Revenant Kingdom - The Lair of the Lost Lord | 154455 | [154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json](./154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json) |
 | Ni-Hao Kai-Lan: Kai-Lan's Great trip to China! | 210026 | [210026-ni-hao-kai-lan-kai-lans-great-trip-to-china.json](./210026-ni-hao-kai-lan-kai-lans-great-trip-to-china.json) |
 | Ni'mRoD | 256818 | [256818-nimrod.json](./256818-nimrod.json) |
 | Nia: Jewel Hunter | 358299 | [358299-nia-jewel-hunter.json](./358299-nia-jewel-hunter.json) |
