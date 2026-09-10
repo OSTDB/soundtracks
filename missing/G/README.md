@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
+| Geo-Duck | 165078 | [165078-geo-duck.json](./165078-geo-duck.json) |
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
 | Geobeast | 386706 | [386706-geobeast.json](./386706-geobeast.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Bros 2 | 343798 | [343798-gun-bros-2.json](./343798-gun-bros-2.json) |
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
+| Gun Duel | 164987 | [164987-gun-duel.json](./164987-gun-duel.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Fighting | 279008 | [279008-gun-fighting.json](./279008-gun-fighting.json) |
 | Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
@@ -1778,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition | 331891 | [331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json](./331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json) |
 | Gunman Contracts: Stand Alone | 269009 | [269009-gunman-contracts-stand-alone.json](./269009-gunman-contracts-stand-alone.json) |
 | Gunman Tales | 102450 | [102450-gunman-tales.json](./102450-gunman-tales.json) |
+| Gunmancer | 164963 | [164963-gunmancer.json](./164963-gunmancer.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
 | GunnRunner | 117063 | [117063-gunnrunner.json](./117063-gunnrunner.json) |
