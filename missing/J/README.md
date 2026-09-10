@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry McPartlin: Rebel with a Cause | 286508 | [286508-jerry-mcpartlin-rebel-with-a-cause.json](./286508-jerry-mcpartlin-rebel-with-a-cause.json) |
 | Jessica Deliverson | 340772 | [340772-jessica-deliverson.json](./340772-jessica-deliverson.json) |
 | Jessica Plunkenstein and the Dusseldorf Conspiracy | 169992 | [169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json](./169992-jessica-plunkenstein-and-the-dusseldorf-conspiracy.json) |
+| Jessie Jaeger in Cleopatra's Curse | 142392 | [142392-jessie-jaeger-in-cleopatras-curse.json](./142392-jessie-jaeger-in-cleopatras-curse.json) |
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
 | Jester's Quest | 221163 | [221163-jesters-quest.json](./221163-jesters-quest.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
