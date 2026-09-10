@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Rivals | 332266 | [332266-office-rivals.json](./332266-office-rivals.json) |
 | Office Run: Halloween Run | 221182 | [221182-office-run-halloween-run.json](./221182-office-run-halloween-run.json) |
 | Office Sex | 365717 | [365717-office-sex.json](./365717-office-sex.json) |
+| Office Simulator | 159828 | [159828-office-simulator.json](./159828-office-simulator.json) |
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
