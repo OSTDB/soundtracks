@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
+| Last Nuclear Darkness | 158162 | [158162-last-nuclear-darkness.json](./158162-last-nuclear-darkness.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
