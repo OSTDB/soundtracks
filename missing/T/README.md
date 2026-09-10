@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
+| The Cold War Era 2 | 132791 | [132791-the-cold-war-era-2.json](./132791-the-cold-war-era-2.json) |
 | The Coldest Winter | 293617 | [293617-the-coldest-winter.json](./293617-the-coldest-winter.json) |
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
 | The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
@@ -2368,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loneliest Summer | 159827 | [159827-the-loneliest-summer.json](./159827-the-loneliest-summer.json) |
 | The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
+| The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
 | The Longing Ribbon | 151694 | [151694-the-longing-ribbon.json](./151694-the-longing-ribbon.json) |
@@ -2903,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Explorer Edition | 136377 | [136377-the-settlers-explorer-edition.json](./136377-the-settlers-explorer-edition.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
 | The Settlers: New Allies - Deluxe Edition | 216233 | [216233-the-settlers-new-allies-deluxe-edition.json](./216233-the-settlers-new-allies-deluxe-edition.json) |
+| The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
 | The Seven Cities of Gold | 8994 | [8994-the-seven-cities-of-gold.json](./8994-the-seven-cities-of-gold.json) |
 | The seven deadly seas | 122396 | [122396-the-seven-deadly-seas.json](./122396-the-seven-deadly-seas.json) |
@@ -3112,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
 | The Sundew | 151150 | [151150-the-sundew.json](./151150-the-sundew.json) |
+| The Sunset that day | 132763 | [132763-the-sunset-that-day.json](./132763-the-sunset-that-day.json) |
 | The Super Adventure of John | 388058 | [388058-the-super-adventure-of-john.json](./388058-the-super-adventure-of-john.json) |
 | The Super Mario Bros. Movie 64 DS | 270380 | [270380-the-super-mario-bros-movie-64-ds.json](./270380-the-super-mario-bros-movie-64-ds.json) |
 | The Super Mario Bros. Super Literature Club! | 294438 | [294438-the-super-mario-bros-super-literature-club.json](./294438-the-super-mario-bros-super-literature-club.json) |
@@ -3207,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Throne of Bernicia | 191173 | [191173-the-throne-of-bernicia.json](./191173-the-throne-of-bernicia.json) |
 | The Tick | 46594 | [46594-the-tick.json](./46594-the-tick.json) |
+| The Tide | 132786 | [132786-the-tide.json](./132786-the-tide.json) |
 | The Tides of Time | 141790 | [141790-the-tides-of-time.json](./141790-the-tides-of-time.json) |
 | The Tiger T | 210668 | [210668-the-tiger-t.json](./210668-the-tiger-t.json) |
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
