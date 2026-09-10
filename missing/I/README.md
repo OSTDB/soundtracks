@@ -473,6 +473,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impartial | 339091 | [339091-impartial.json](./339091-impartial.json) |
 | Impeached 2 | 253921 | [253921-impeached-2.json](./253921-impeached-2.json) |
 | Imperator: Invictus | 356069 | [356069-imperator-invictus.json](./356069-imperator-invictus.json) |
+| Imperator: Rome - Centurion Bundle | 154494 | [154494-imperator-rome-centurion-bundle.json](./154494-imperator-rome-centurion-bundle.json) |
+| Imperator: Rome - Epirus Content Pack | 154498 | [154498-imperator-rome-epirus-content-pack.json](./154498-imperator-rome-epirus-content-pack.json) |
+| Imperator: Rome - Heirs of Alexander Content Pack | 154495 | [154495-imperator-rome-heirs-of-alexander-content-pack.json](./154495-imperator-rome-heirs-of-alexander-content-pack.json) |
+| Imperator: Rome - Magna Graecia Content Pack | 154497 | [154497-imperator-rome-magna-graecia-content-pack.json](./154497-imperator-rome-magna-graecia-content-pack.json) |
+| Imperator: Rome - The Punic Wars Content Pack | 154496 | [154496-imperator-rome-the-punic-wars-content-pack.json](./154496-imperator-rome-the-punic-wars-content-pack.json) |
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
@@ -1009,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invitation to Fear | 188611 | [188611-invitation-to-fear.json](./188611-invitation-to-fear.json) |
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
+| IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
 | IonballEX | 92515 | [92515-ionballex.json](./92515-ionballex.json) |
 | Ionscape | 240199 | [240199-ionscape.json](./240199-ionscape.json) |
@@ -1226,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Italy 1990 | 85520 | [85520-italy-1990.json](./85520-italy-1990.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Iter-8 | 316071 | [316071-iter-8.json](./316071-iter-8.json) |
+| Iteration Factor | 154573 | [154573-iteration-factor.json](./154573-iteration-factor.json) |
 | IterativeCollapse | 365098 | [365098-iterativecollapse.json](./365098-iterativecollapse.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
