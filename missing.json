@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T02:18:44.550Z",
-  "total_missing": 52606,
+  "generated_at": "2026-09-10T02:21:11.825Z",
+  "total_missing": 52605,
   "games": [
     {
       "igdb_id": 306086,
@@ -1221,11 +1221,6 @@
       "igdb_id": 73294,
       "game_name": "3D Stock Car Championship",
       "file": "missing/0-9/73294-3d-stock-car-championship.json"
-    },
-    {
-      "igdb_id": 47643,
-      "game_name": "3D Streets of Rage",
-      "file": "missing/0-9/47643-3d-streets-of-rage.json"
     },
     {
       "igdb_id": 96073,
