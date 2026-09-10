@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umihara Kawase: Shun - Second Edition | 78719 | [78719-umihara-kawase-shun-second-edition.json](./78719-umihara-kawase-shun-second-edition.json) |
 | Umineko no Naku Koro ni Chiru | 51267 | [51267-umineko-no-naku-koro-ni-chiru.json](./51267-umineko-no-naku-koro-ni-chiru.json) |
 | Umineko no Naku Koro ni Hane | 146817 | [146817-umineko-no-naku-koro-ni-hane.json](./146817-umineko-no-naku-koro-ni-hane.json) |
+| Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku | 139987 | [139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json](./139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json) |
 | Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku - Limited Edition | 140001 | [140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json](./140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json) |
 | Umineko no Naku Koro ni Tsubasa | 125996 | [125996-umineko-no-naku-koro-ni-tsubasa.json](./125996-umineko-no-naku-koro-ni-tsubasa.json) |
 | Umineko no Naku Koro ni: Aru Ryourinin no Zakki | 272533 | [272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json](./272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json) |
@@ -256,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbuild | 150063 | [150063-unbuild.json](./150063-unbuild.json) |
 | Uncanny | 206717 | [206717-uncanny.json](./206717-uncanny.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
+| Uncharted 3: Drake's Deception - Special Edition | 139922 | [139922-uncharted-3-drakes-deception-special-edition.json](./139922-uncharted-3-drakes-deception-special-edition.json) |
 | Uncharted Island | 208954 | [208954-uncharted-island.json](./208954-uncharted-island.json) |
 | Uncharted Ocean: Adventures at the Poles | 262097 | [262097-uncharted-ocean-adventures-at-the-poles.json](./262097-uncharted-ocean-adventures-at-the-poles.json) |
 | Uncharted Tides: Port Royal | 121450 | [121450-uncharted-tides-port-royal.json](./121450-uncharted-tides-port-royal.json) |
