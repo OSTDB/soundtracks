@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
 | The Crypts | 268469 | [268469-the-crypts.json](./268469-the-crypts.json) |
 | The Crystal Rainforest | 151716 | [151716-the-crystal-rainforest.json](./151716-the-crystal-rainforest.json) |
+| The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
 | The Culling II | 103367 | [103367-the-culling-ii.json](./103367-the-culling-ii.json) |
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
 | The Curator | 137668 | [137668-the-curator.json](./137668-the-curator.json) |
@@ -1559,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
+| The End of Labyronia: Nerubis | 158695 | [158695-the-end-of-labyronia-nerubis.json](./158695-the-end-of-labyronia-nerubis.json) |
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
 | The End of Us | 115033 | [115033-the-end-of-us.json](./115033-the-end-of-us.json) |
 | The End: Inari's Quest | 77737 | [77737-the-end-inaris-quest.json](./77737-the-end-inaris-quest.json) |
@@ -2993,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword of Hope II | 10947 | [10947-the-sword-of-hope-ii.json](./10947-the-sword-of-hope-ii.json) |
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
+| The Sych Story | 158643 | [158643-the-sych-story.json](./158643-the-sych-story.json) |
 | The Sych Story: Human Being | 369574 | [369574-the-sych-story-human-being.json](./369574-the-sych-story-human-being.json) |
 | The Symbiant II | 349336 | [349336-the-symbiant-ii.json](./349336-the-symbiant-ii.json) |
 | The Symbiant Re:Union | 259004 | [259004-the-symbiant-re-union.json](./259004-the-symbiant-re-union.json) |
@@ -4121,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Crate | 177568 | [177568-tiny-crate.json](./177568-tiny-crate.json) |
 | Tiny Crown | 401562 | [401562-tiny-crown.json](./401562-tiny-crown.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
+| Tiny Devil Adventure | 158648 | [158648-tiny-devil-adventure.json](./158648-tiny-devil-adventure.json) |
 | Tiny Devils | 325476 | [325476-tiny-devils.json](./325476-tiny-devils.json) |
 | Tiny Dino | 343257 | [343257-tiny-dino.json](./343257-tiny-dino.json) |
 | Tiny Dream Home | 358313 | [358313-tiny-dream-home.json](./358313-tiny-dream-home.json) |
