@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
+| Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
 | Raven's Hike | 164982 | [164982-ravens-hike.json](./164982-ravens-hike.json) |
@@ -803,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relatle | 320752 | [320752-relatle.json](./320752-relatle.json) |
 | Relax & Learn World Heritage | 409561 | [409561-relax-and-learn-world-heritage.json](./409561-relax-and-learn-world-heritage.json) |
 | Relax Bird | 89696 | [89696-relax-bird.json](./89696-relax-bird.json) |
+| Relax Fly | 149019 | [149019-relax-fly.json](./149019-relax-fly.json) |
 | Relax Industry | 343808 | [343808-relax-industry.json](./343808-relax-industry.json) |
 | Relax It's Aqua | 149544 | [149544-relax-its-aqua.json](./149544-relax-its-aqua.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
@@ -1545,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
 | Robot Reckoning | 406695 | [406695-robot-reckoning.json](./406695-robot-reckoning.json) |
 | Robot Rejects | 220630 | [220630-robot-rejects.json](./220630-robot-rejects.json) |
+| Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
 | Robot Squad Simulator X | 134013 | [134013-robot-squad-simulator-x.json](./134013-robot-squad-simulator-x.json) |
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
@@ -1758,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
+| Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
 | Rollerboy 2 | 293644 | [293644-rollerboy-2.json](./293644-rollerboy-2.json) |
