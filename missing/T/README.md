@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Deussi | 167859 | [167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json](./167859-talesshop-puzzle-jugeobeorin-byeorui-neokduri-deussi.json) |
 | Talesshop Puzzle: Jugeobeorin Byeorui Neokduri Dummy | 167858 | [167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json](./167858-talesshop-puzzle-jugeobeorin-byeorui-neokduri-dummy.json) |
 | TalesWeaver | 57117 | [57117-talesweaver.json](./57117-talesweaver.json) |
+| Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman: Digital Edition - Apprentice Mage | 149053 | [149053-talisman-digital-edition-apprentice-mage.json](./149053-talisman-digital-edition-apprentice-mage.json) |
 | Talisman: Digital Edition - Black Witch | 149069 | [149069-talisman-digital-edition-black-witch.json](./149069-talisman-digital-edition-black-witch.json) |
 | Talisman: Digital Edition - Courtesan | 149065 | [149065-talisman-digital-edition-courtesan.json](./149065-talisman-digital-edition-courtesan.json) |
@@ -1297,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
+| The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
 | The Chosen RPG | 146264 | [146264-the-chosen-rpg.json](./146264-the-chosen-rpg.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
@@ -1742,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor is [Blank] | 157140 | [157140-the-floor-is-blank.json](./157140-the-floor-is-blank.json) |
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
+| The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flying Feathers | 247768 | [247768-the-flying-feathers.json](./247768-the-flying-feathers.json) |
 | The Flying Jet | 366223 | [366223-the-flying-jet.json](./366223-the-flying-jet.json) |
 | The Fog | 305143 | [305143-the-fog.json](./305143-the-fog.json) |
@@ -5578,6 +5581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Party | 195270 | [195270-trivia-party.json](./195270-trivia-party.json) |
 | Trivia Quest | 256860 | [256860-trivia-quest.json](./256860-trivia-quest.json) |
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
+| Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivial Pursuit Online | 355006 | [355006-trivial-pursuit-online.json](./355006-trivial-pursuit-online.json) |
