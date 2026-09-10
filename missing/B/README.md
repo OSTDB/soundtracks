@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Blitz | 327854 | [327854-base-blitz.json](./327854-base-blitz.json) |
 | Base Commander | 211425 | [211425-base-commander.json](./211425-base-commander.json) |
 | Base Craft: Desolate Survival | 196239 | [196239-base-craft-desolate-survival.json](./196239-base-craft-desolate-survival.json) |
+| Base Defense VR | 167804 | [167804-base-defense-vr.json](./167804-base-defense-vr.json) |
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
@@ -642,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battington Manor | 393481 | [393481-battington-manor.json](./393481-battington-manor.json) |
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
+| Battle Academy: Operation Market Garden | 167801 | [167801-battle-academy-operation-market-garden.json](./167801-battle-academy-operation-market-garden.json) |
 | Battle Air Hockey Break Beats! | 338203 | [338203-battle-air-hockey-break-beats.json](./338203-battle-air-hockey-break-beats.json) |
 | Battle Alchemy: Autobattler | 275879 | [275879-battle-alchemy-autobattler.json](./275879-battle-alchemy-autobattler.json) |
 | Battle Arena Toshinden | 217927 | [217927-battle-arena-toshinden.json](./217927-battle-arena-toshinden.json) |
@@ -1981,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Games VR | 74457 | [74457-board-games-vr.json](./74457-board-games-vr.json) |
 | Boardroom Alpha | 324688 | [324688-boardroom-alpha.json](./324688-boardroom-alpha.json) |
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
+| Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
 | Boat Rescue Simulator Mobile | 228116 | [228116-boat-rescue-simulator-mobile.json](./228116-boat-rescue-simulator-mobile.json) |
 | Boat Simulator | 231082 | [231082-boat-simulator.json](./231082-boat-simulator.json) |
 | Boat Train | 227867 | [227867-boat-train.json](./227867-boat-train.json) |
