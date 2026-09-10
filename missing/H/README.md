@@ -1232,6 +1232,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seas Havoc | 10150 | [10150-high-seas-havoc.json](./10150-high-seas-havoc.json) |
 | High Seas, High Profits! | 290922 | [290922-high-seas-high-profits.json](./290922-high-seas-high-profits.json) |
 | High Stakes | 299750 | [299750-high-stakes.json](./299750-high-stakes.json) |
+| Highborn: Chapter 2 | 168838 | [168838-highborn-chapter-2.json](./168838-highborn-chapter-2.json) |
+| Highborn: Chapter 3 | 168839 | [168839-highborn-chapter-3.json](./168839-highborn-chapter-3.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
