@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light the Backrooms | 232441 | [232441-light-the-backrooms.json](./232441-light-the-backrooms.json) |
 | Light the Candles in Hell | 340920 | [340920-light-the-candles-in-hell.json](./340920-light-the-candles-in-hell.json) |
 | Light the Way | 248286 | [248286-light-the-way.json](./248286-light-the-way.json) |
+| Light the World | 165628 | [165628-light-the-world.json](./165628-light-the-world.json) |
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
 | Light-It Up: Complete Edition | 283170 | [283170-light-it-up-complete-edition.json](./283170-light-it-up-complete-edition.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Play | 150462 | [150462-lost-in-play.json](./150462-lost-in-play.json) |
 | Lost in Prayer | 291445 | [291445-lost-in-prayer.json](./291445-lost-in-prayer.json) |
+| Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
 | Lost in Space | 167812 | [167812-lost-in-space.json](./167812-lost-in-space.json) |
 | Lost in Space | 278408 | [278408-lost-in-space.json](./278408-lost-in-space.json) |
