@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flies. | 412280 | [412280-flies.json](./412280-flies.json) |
 | Fliese | 234044 | [234044-fliese.json](./234044-fliese.json) |
 | Fliggles Rescue Adventure | 259557 | [259557-fliggles-rescue-adventure.json](./259557-fliggles-rescue-adventure.json) |
+| Flight Catastrophe | 149532 | [149532-flight-catastrophe.json](./149532-flight-catastrophe.json) |
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
@@ -1655,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Keeper Lookout | 383950 | [383950-forest-keeper-lookout.json](./383950-forest-keeper-lookout.json) |
 | Forest Kingdom | 186804 | [186804-forest-kingdom.json](./186804-forest-kingdom.json) |
 | Forest Knight | 134059 | [134059-forest-knight.json](./134059-forest-knight.json) |
+| Forest Liberation | 149558 | [149558-forest-liberation.json](./149558-forest-liberation.json) |
 | Forest of Death Masks | 385583 | [385583-forest-of-death-masks.json](./385583-forest-of-death-masks.json) |
 | Forest of Deceit | 248904 | [248904-forest-of-deceit.json](./248904-forest-of-deceit.json) |
 | Forest of the Abyss 2 | 98458 | [98458-forest-of-the-abyss-2.json](./98458-forest-of-the-abyss-2.json) |
@@ -1834,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
 | Foundlings | 350439 | [350439-foundlings.json](./350439-foundlings.json) |
 | Four color jumps | 152905 | [152905-four-color-jumps.json](./152905-four-color-jumps.json) |
+| Four Course Combat | 149535 | [149535-four-course-combat.json](./149535-four-course-combat.json) |
 | Four Gods M | 200749 | [200749-four-gods-m.json](./200749-four-gods-m.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
