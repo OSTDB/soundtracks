@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solraid | 200633 | [200633-solraid.json](./200633-solraid.json) |
 | Solse AI-Quest | 290938 | [290938-solse-ai-quest.json](./290938-solse-ai-quest.json) |
 | Solstice | 306355 | [306355-solstice.json](./306355-solstice.json) |
+| Solus | 137016 | [137016-solus.json](./137016-solus.json) |
 | Solve & Roll | 259552 | [259552-solve-and-roll.json](./259552-solve-and-roll.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sono Hanabira ni Kuchizuke wo: Tenshi no Hanabira Zome | 12219 | [12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json](./12219-sono-hanabira-ni-kuchizuke-wo-tenshi-no-hanabira-zome.json) |
 | Sono Hanabira ni Kuchizuke wo: Tenshi-tachi no Harukoi | 12272 | [12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json](./12272-sono-hanabira-ni-kuchizuke-wo-tenshi-tachi-no-harukoi.json) |
 | Sono Kaori de Mitasaretai: #7b5544 no Koi wo Shita Watashi no Hajimete wo Master ni Agetai | 412315 | [412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json](./412315-sono-kaori-de-mitasaretai-7b5544-no-koi-wo-shita-watashi-no-hajimete-wo-master-ni-agetai.json) |
+| Sonority | 137045 | [137045-sonority.json](./137045-sonority.json) |
 | Sons of Odin | 346570 | [346570-sons-of-odin.json](./346570-sons-of-odin.json) |
 | Sons of Saturn | 256546 | [256546-sons-of-saturn.json](./256546-sons-of-saturn.json) |
 | Sons Of The Dream Forest | 315283 | [315283-sons-of-the-dream-forest.json](./315283-sons-of-the-dream-forest.json) |
@@ -4399,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
+| Star Wars: Project Stardust | 137006 | [137006-star-wars-project-stardust.json](./137006-star-wars-project-stardust.json) |
 | Star Wars: Puzzle Droids | 97355 | [97355-star-wars-puzzle-droids.json](./97355-star-wars-puzzle-droids.json) |
 | Star Wars: Rebel Assault | 161 | [161-star-wars-rebel-assault.json](./161-star-wars-rebel-assault.json) |
 | Star Wars: Rebel Assault II - The Hidden Empire | 300715 | [300715-star-wars-rebel-assault-ii-the-hidden-empire.json](./300715-star-wars-rebel-assault-ii-the-hidden-empire.json) |
@@ -6233,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
 | Sveerz | 201280 | [201280-sveerz.json](./201280-sveerz.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
+| Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
 | Sverigespelet | 300684 | [300684-sverigespelet.json](./300684-sverigespelet.json) |
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
