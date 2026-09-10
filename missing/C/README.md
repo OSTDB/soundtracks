@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChloroLink | 374061 | [374061-chlorolink.json](./374061-chlorolink.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
+| Cho-Nazo-Oh | 146276 | [146276-cho-nazo-oh.json](./146276-cho-nazo-oh.json) |
 | Cho-ricchi! Tamagotchi no Puchi Puchi Omisecchi de Violin Lesson | 222310 | [222310-cho-ricchi-tamagotchi-no-puchi-puchi-omisecchi-de-violin-lesson.json](./222310-cho-ricchi-tamagotchi-no-puchi-puchi-omisecchi-de-violin-lesson.json) |
 | Chobits: Atashi Dake no Hito | 78730 | [78730-chobits-atashi-dake-no-hito.json](./78730-chobits-atashi-dake-no-hito.json) |
 | Choc N Roll | 281995 | [281995-choc-n-roll.json](./281995-choc-n-roll.json) |
@@ -3147,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Master | 13708 | [13708-cube-master.json](./13708-cube-master.json) |
 | Cube Matching King | 108495 | [108495-cube-matching-king.json](./108495-cube-matching-king.json) |
 | Cube Mission | 113723 | [113723-cube-mission.json](./113723-cube-mission.json) |
+| Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Rampage | 134702 | [134702-cube-rampage.json](./134702-cube-rampage.json) |
 | Cube Royale | 269035 | [269035-cube-royale.json](./269035-cube-royale.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
