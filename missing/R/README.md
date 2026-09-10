@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record Scratch Fever | 183528 | [183528-record-scratch-fever.json](./183528-record-scratch-fever.json) |
 | Record Store Nightmare | 68660 | [68660-record-store-nightmare.json](./68660-record-store-nightmare.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
+| Recore: Eye of Obsidian | 139396 | [139396-recore-eye-of-obsidian.json](./139396-recore-eye-of-obsidian.json) |
 | Recreational Dreaming | 83574 | [83574-recreational-dreaming.json](./83574-recreational-dreaming.json) |
 | Recreational Warfare | 251182 | [251182-recreational-warfare.json](./251182-recreational-warfare.json) |
 | Recruit One | 157707 | [157707-recruit-one.json](./157707-recruit-one.json) |
@@ -1407,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen 3: Fog Island | 238516 | [238516-risen-3-fog-island.json](./238516-risen-3-fog-island.json) |
 | Risen 3: Titan Lords | 6142 | [6142-risen-3-titan-lords.json](./6142-risen-3-titan-lords.json) |
 | Rising Army | 302925 | [302925-rising-army.json](./302925-rising-army.json) |
+| Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
@@ -1726,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodeo Clown | 319554 | [319554-rodeo-clown.json](./319554-rodeo-clown.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
+| Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
@@ -2222,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Late 2 | 256842 | [256842-running-late-2.json](./256842-running-late-2.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Out of Spice | 179143 | [179143-running-out-of-spice.json](./179143-running-out-of-spice.json) |
+| Running Rogue | 139371 | [139371-running-rogue.json](./139371-running-rogue.json) |
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
 | Running Tadpoles | 113013 | [113013-running-tadpoles.json](./113013-running-tadpoles.json) |
 | Running Through The Beat | 270931 | [270931-running-through-the-beat.json](./270931-running-through-the-beat.json) |
