@@ -2215,6 +2215,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
 | Full House Kiss | 97370 | [97370-full-house-kiss.json](./97370-full-house-kiss.json) |
 | Full Kiss S | 219029 | [219029-full-kiss-s.json](./219029-full-kiss-s.json) |
+| Full Kiss SS | 155060 | [155060-full-kiss-ss.json](./155060-full-kiss-ss.json) |
+| Full Kiss SS: Complete Limited Edition | 155066 | [155066-full-kiss-ss-complete-limited-edition.json](./155066-full-kiss-ss-complete-limited-edition.json) |
 | Full Metal Coffin | 410265 | [410265-full-metal-coffin.json](./410265-full-metal-coffin.json) |
 | Full Metal Sergeant | 189108 | [189108-full-metal-sergeant.json](./189108-full-metal-sergeant.json) |
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
