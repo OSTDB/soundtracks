@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
 | Battle Species | 110339 | [110339-battle-species.json](./110339-battle-species.json) |
 | Battle Spirits CrossOver | 321743 | [321743-battle-spirits-crossover.json](./321743-battle-spirits-crossover.json) |
+| Battle Spirits Digital Starter | 137587 | [137587-battle-spirits-digital-starter.json](./137587-battle-spirits-digital-starter.json) |
 | Battle Spirits: Connected Battlers | 146910 | [146910-battle-spirits-connected-battlers.json](./146910-battle-spirits-connected-battlers.json) |
 | Battle Spirits: Kiseki no Hasha | 56516 | [56516-battle-spirits-kiseki-no-hasha.json](./56516-battle-spirits-kiseki-no-hasha.json) |
 | Battle Squares | 322008 | [322008-battle-squares.json](./322008-battle-squares.json) |
@@ -1319,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
+| Big Ichigeki! Pachislot Daikouryaku: Universal Museum | 137596 | [137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json](./137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json) |
 | Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
 | Big Klondike: FreeCell Solitaire | 289855 | [289855-big-klondike-freecell-solitaire.json](./289855-big-klondike-freecell-solitaire.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
@@ -1881,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
 | BlockTanks | 324917 | [324917-blocktanks.json](./324917-blocktanks.json) |
+| BlockTanks.io | 137629 | [137629-blocktanks-io.json](./137629-blocktanks-io.json) |
 | Blockudoku | 227479 | [227479-blockudoku.json](./227479-blockudoku.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
@@ -3009,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullets and More VR: BAM VR | 31401 | [31401-bullets-and-more-vr-bam-vr.json](./31401-bullets-and-more-vr-bam-vr.json) |
 | Bullets in the Space | 106626 | [106626-bullets-in-the-space.json](./106626-bullets-in-the-space.json) |
 | Bulletstorm: Limited Edition | 46640 | [46640-bulletstorm-limited-edition.json](./46640-bulletstorm-limited-edition.json) |
+| BulletVille | 137591 | [137591-bulletville.json](./137591-bulletville.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
