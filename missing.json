@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T01:18:31.842Z",
-  "total_missing": 52493,
+  "generated_at": "2026-09-10T01:21:14.805Z",
+  "total_missing": 52492,
   "games": [
     {
       "igdb_id": 306086,
@@ -1191,11 +1191,6 @@
       "igdb_id": 337620,
       "game_name": "3D Puzzle: Colonial Graveyard",
       "file": "missing/0-9/337620-3d-puzzle-colonial-graveyard.json"
-    },
-    {
-      "igdb_id": 337621,
-      "game_name": "3D Puzzle: Pirate Tavern",
-      "file": "missing/0-9/337621-3d-puzzle-pirate-tavern.json"
     },
     {
       "igdb_id": 301037,
