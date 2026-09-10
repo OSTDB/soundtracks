@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
 | Glory of War | 209664 | [209664-glory-of-war.json](./209664-glory-of-war.json) |
+| Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
 | Glow Chess | 106583 | [106583-glow-chess.json](./106583-glow-chess.json) |
 | Glow Hockey 2 | 228068 | [228068-glow-hockey-2.json](./228068-glow-hockey-2.json) |
 | Glow Hockey 2 HD | 91984 | [91984-glow-hockey-2-hd.json](./91984-glow-hockey-2-hd.json) |
@@ -911,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
 | Goblin and Coins II: The Lost Recipes | 275563 | [275563-goblin-and-coins-ii-the-lost-recipes.json](./275563-goblin-and-coins-ii-the-lost-recipes.json) |
+| Goblin Attack | 161324 | [161324-goblin-attack.json](./161324-goblin-attack.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
