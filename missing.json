@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T10:48:53.597Z",
-  "total_missing": 53495,
+  "generated_at": "2026-09-10T10:51:07.383Z",
+  "total_missing": 53494,
   "games": [
     {
       "igdb_id": 306086,
@@ -1381,11 +1381,6 @@
       "igdb_id": 277038,
       "game_name": "5:48AM",
       "file": "missing/0-9/277038-5-48am.json"
-    },
-    {
-      "igdb_id": 48034,
-      "game_name": "50 Classic Games",
-      "file": "missing/0-9/48034-50-classic-games.json"
     },
     {
       "igdb_id": 109013,
