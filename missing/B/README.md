@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
 | Battlecaster | 188670 | [188670-battlecaster.json](./188670-battlecaster.json) |
 | BattleClaws | 297784 | [297784-battleclaws.json](./297784-battleclaws.json) |
+| BattleCourt | 132219 | [132219-battlecourt.json](./132219-battlecourt.json) |
 | Battlecry Berserkers | 277288 | [277288-battlecry-berserkers.json](./277288-battlecry-berserkers.json) |
 | BattleCrypt Bombers | 226238 | [226238-battlecrypt-bombers.json](./226238-battlecrypt-bombers.json) |
 | Battlefield 1: Turning Tides | 76190 | [76190-battlefield-1-turning-tides.json](./76190-battlefield-1-turning-tides.json) |
@@ -1739,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasted GutZ | 391619 | [391619-blasted-gutz.json](./391619-blasted-gutz.json) |
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
 | Blaster Simulator | 9387 | [9387-blaster-simulator.json](./9387-blaster-simulator.json) |
+| Blaster Squad | 132215 | [132215-blaster-squad.json](./132215-blaster-squad.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
 | Blaston Spectator | 199641 | [199641-blaston-spectator.json](./199641-blaston-spectator.json) |
