@@ -25,7 +25,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
 | Zac's Batting Academy | 234595 | [234595-zacs-batting-academy.json](./234595-zacs-batting-academy.json) |
 | Zaccaria Pinball | 33463 | [33463-zaccaria-pinball.json](./33463-zaccaria-pinball.json) |
+| Zaccaria Pinball: Pool Champion 2018 Table | 156105 | [156105-zaccaria-pinball-pool-champion-2018-table.json](./156105-zaccaria-pinball-pool-champion-2018-table.json) |
 | Zaccaria Pinball: Postal 2 Table Pack | 215390 | [215390-zaccaria-pinball-postal-2-table-pack.json](./215390-zaccaria-pinball-postal-2-table-pack.json) |
+| Zaccaria Pinball: Shooting the Rapids | 156099 | [156099-zaccaria-pinball-shooting-the-rapids.json](./156099-zaccaria-pinball-shooting-the-rapids.json) |
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
