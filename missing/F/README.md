@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Day 2023 | 241393 | [241393-farm-day-2023.json](./241393-farm-day-2023.json) |
 | Farm Day Simulator 2024 | 283728 | [283728-farm-day-simulator-2024.json](./283728-farm-day-simulator-2024.json) |
 | Farm Dream Village Harvest Sim | 101585 | [101585-farm-dream-village-harvest-sim.json](./101585-farm-dream-village-harvest-sim.json) |
+| Farm Dungeons | 158135 | [158135-farm-dungeons.json](./158135-farm-dungeons.json) |
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
 | Farm Expert 2017 | 25105 | [25105-farm-expert-2017.json](./25105-farm-expert-2017.json) |
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
