@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Night Round 2 | 3915 | [3915-fight-night-round-2.json](./3915-fight-night-round-2.json) |
 | Fight Night Round 3 | 5836 | [5836-fight-night-round-3.json](./5836-fight-night-round-3.json) |
 | Fight of Animals | 127088 | [127088-fight-of-animals.json](./127088-fight-of-animals.json) |
+| Fight of Animals: Arena | 151668 | [151668-fight-of-animals-arena.json](./151668-fight-of-animals-arena.json) |
 | Fight or Die | 29974 | [29974-fight-or-die.json](./29974-fight-or-die.json) |
 | Fight or Flight VR | 272266 | [272266-fight-or-flight-vr.json](./272266-fight-or-flight-vr.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
