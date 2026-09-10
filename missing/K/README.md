@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
 | Keplerth | 95587 | [95587-keplerth.json](./95587-keplerth.json) |
 | Kerbal Space Program 2 | 121759 | [121759-kerbal-space-program-2.json](./121759-kerbal-space-program-2.json) |
+| Kerbal Space Program: Enhanced Edition Complete | 139970 | [139970-kerbal-space-program-enhanced-edition-complete.json](./139970-kerbal-space-program-enhanced-edition-complete.json) |
 | Kerf: Sawmill Tycoon | 413677 | [413677-kerf-sawmill-tycoon.json](./413677-kerf-sawmill-tycoon.json) |
 | Keri-hime Sweets | 212454 | [212454-keri-hime-sweets.json](./212454-keri-hime-sweets.json) |
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
@@ -857,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
+| Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
 | Koi wa Sotto Saku Hana no you ni | 194533 | [194533-koi-wa-sotto-saku-hana-no-you-ni.json](./194533-koi-wa-sotto-saku-hana-no-you-ni.json) |
 | Koi wa Sotto Saku Hana no you ni: Futari wa Eien ni Yorisotte Iku | 194534 | [194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json](./194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json) |
 | Koi-Koi Japan: Ukiyoe Deluxe Edition | 53261 | [53261-koi-koi-japan-ukiyoe-deluxe-edition.json](./53261-koi-koi-japan-ukiyoe-deluxe-edition.json) |
