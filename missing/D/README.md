@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
 | Dino Fighters | 241975 | [241975-dino-fighters.json](./241975-dino-fighters.json) |
 | Dino Gaïa | 326060 | [326060-dino-gaia.json](./326060-dino-gaia.json) |
+| Dino Galaxy Tennis | 144945 | [144945-dino-galaxy-tennis.json](./144945-dino-galaxy-tennis.json) |
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Genesis | 336533 | [336533-dino-genesis.json](./336533-dino-genesis.json) |
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
@@ -3116,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
 | Dyger | 39673 | [39673-dyger.json](./39673-dyger.json) |
 | Dying Breed | 240798 | [240798-dying-breed.json](./240798-dying-breed.json) |
+| Dying Flame | 144976 | [144976-dying-flame.json](./144976-dying-flame.json) |
 | Dying for Daylight | 79904 | [79904-dying-for-daylight.json](./79904-dying-for-daylight.json) |
 | Dying Light 2: Stay Human - Chicken Bundle | 243671 | [243671-dying-light-2-stay-human-chicken-bundle.json](./243671-dying-light-2-stay-human-chicken-bundle.json) |
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
