@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Tag | 163991 | [163991-parkour-tag.json](./163991-parkour-tag.json) |
 | ParkourMan | 105335 | [105335-parkourman.json](./105335-parkourman.json) |
 | ParkTo | 215694 | [215694-parkto.json](./215694-parkto.json) |
+| Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
 | Parmesan | 184080 | [184080-parmesan.json](./184080-parmesan.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
@@ -2915,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Action: Treasure Hunt | 123590 | [123590-puzzle-and-action-treasure-hunt.json](./123590-puzzle-and-action-treasure-hunt.json) |
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
+| Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
