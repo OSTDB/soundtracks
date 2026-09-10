@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerwatch | 7891 | [7891-hammerwatch.json](./7891-hammerwatch.json) |
 | Hampstead | 12953 | [12953-hampstead.json](./12953-hampstead.json) |
 | Hampton Court | 123594 | [123594-hampton-court.json](./123594-hampton-court.json) |
+| Hampuzz | 165714 | [165714-hampuzz.json](./165714-hampuzz.json) |
 | Hamster | 147481 | [147481-hamster.json](./147481-hamster.json) |
 | Hamster | 307295 | [307295-hamster.json](./307295-hamster.json) |
 | Hamster Blitz! | 191821 | [191821-hamster-blitz.json](./191821-hamster-blitz.json) |
@@ -274,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Holes | 340412 | [340412-happy-holes.json](./340412-happy-holes.json) |
 | Happy Hotel | 280793 | [280793-happy-hotel.json](./280793-happy-hotel.json) |
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
+| Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
 | Happy Mining | 195163 | [195163-happy-mining.json](./195163-happy-mining.json) |
@@ -1595,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop Spring Girl | 296658 | [296658-hop-spring-girl.json](./296658-hop-spring-girl.json) |
 | Hop Step Idol | 202400 | [202400-hop-step-idol.json](./202400-hop-step-idol.json) |
+| Hop Step Sing! Happy People | 165713 | [165713-hop-step-sing-happy-people.json](./165713-hop-step-sing-happy-people.json) |
 | Hop Step Sing! Kiss x Kiss x Kiss | 43182 | [43182-hop-step-sing-kiss-x-kiss-x-kiss.json](./43182-hop-step-sing-kiss-x-kiss-x-kiss.json) |
 | Hop: The Movie | 254792 | [254792-hop-the-movie.json](./254792-hop-the-movie.json) |
 | Hop'N'Hoard | 394846 | [394846-hopnhoard.json](./394846-hopnhoard.json) |
