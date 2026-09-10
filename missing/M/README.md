@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machick 2 | 332269 | [332269-machick-2.json](./332269-machick-2.json) |
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
+| Machina of the Planet Tree -Unity Unions- | 138175 | [138175-machina-of-the-planet-tree-unity-unions.json](./138175-machina-of-the-planet-tree-unity-unions.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
 | Machine Armor Zero | 244255 | [244255-machine-armor-zero.json](./244255-machine-armor-zero.json) |
 | Machine Challenger | 301254 | [301254-machine-challenger.json](./301254-machine-challenger.json) |
@@ -615,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again! | 60579 | [60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json](./60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json) |
 | Mario and Donkey Kong's Lost Island | 323186 | [323186-mario-and-donkey-kongs-lost-island.json](./323186-mario-and-donkey-kongs-lost-island.json) |
 | Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
+| Mario Andretti's Racing Challenge | 138177 | [138177-mario-andrettis-racing-challenge.json](./138177-mario-andrettis-racing-challenge.json) |
 | Mario Artist: Game Maker | 175951 | [175951-mario-artist-game-maker.json](./175951-mario-artist-game-maker.json) |
 | Mario Artist: Graphical Message Maker | 175952 | [175952-mario-artist-graphical-message-maker.json](./175952-mario-artist-graphical-message-maker.json) |
 | Mario Artist: Sound Maker | 175953 | [175953-mario-artist-sound-maker.json](./175953-mario-artist-sound-maker.json) |
@@ -832,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Winter Soldier | 161321 | [161321-marvel-vs-capcom-infinite-winter-soldier.json](./161321-marvel-vs-capcom-infinite-winter-soldier.json) |
 | Marvel: Ultimate Alliance | 197883 | [197883-marvel-ultimate-alliance.json](./197883-marvel-ultimate-alliance.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
+| Marvel's Avengers: Kate Bishop - Taking AIM | 138179 | [138179-marvels-avengers-kate-bishop-taking-aim.json](./138179-marvels-avengers-kate-bishop-taking-aim.json) |
 | Marvel's Blade | 279646 | [279646-marvels-blade.json](./279646-marvels-blade.json) |
 | Marvel's Guardians of the Galaxy & Marvel's Avenger's: Deluxe Bundle | 218480 | [218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json](./218480-marvels-guardians-of-the-galaxy-and-marvels-avengers-deluxe-bundle.json) |
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
@@ -2159,6 +2162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
+| Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Mìngyùn de Yǐndǎozhě: Chuánshuō Bǎoshí | 394195 | [394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json](./394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json) |
 | Mini AirHockey | 405473 | [405473-mini-airhockey.json](./405473-mini-airhockey.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
@@ -3234,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Bea Boy Kart Dash Race | 247206 | [247206-mr-bea-boy-kart-dash-race.json](./247206-mr-bea-boy-kart-dash-race.json) |
 | Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
+| Mr Giggle | 138201 | [138201-mr-giggle.json](./138201-mr-giggle.json) |
 | Mr Giggle 2 | 143043 | [143043-mr-giggle-2.json](./143043-mr-giggle-2.json) |
 | Mr Jack Pocket | 175410 | [175410-mr-jack-pocket.json](./175410-mr-jack-pocket.json) |
 | Mr Jorries! | 157136 | [157136-mr-jorries.json](./157136-mr-jorries.json) |
