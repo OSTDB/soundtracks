@@ -714,6 +714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice League | 220121 | [220121-justice-league.json](./220121-justice-league.json) |
 | Justice League Heroes | 197882 | [197882-justice-league-heroes.json](./197882-justice-league-heroes.json) |
 | Justice Project | 398968 | [398968-justice-project.json](./398968-justice-project.json) |
+| Justice Sucks: Tactical Vacuum Action | 138203 | [138203-justice-sucks-tactical-vacuum-action.json](./138203-justice-sucks-tactical-vacuum-action.json) |
 | Justice Xwar Online 2 | 117712 | [117712-justice-xwar-online-2.json](./117712-justice-xwar-online-2.json) |
 | Justice.exe | 132238 | [132238-justice-exe.json](./132238-justice-exe.json) |
 | Justin Wack and the Big Time Hack: Deluxe Edition | 230819 | [230819-justin-wack-and-the-big-time-hack-deluxe-edition.json](./230819-justin-wack-and-the-big-time-hack-deluxe-edition.json) |
