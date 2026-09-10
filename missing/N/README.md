@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naoko to Hide-bou: Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I | 268489 | [268489-naoko-to-hide-bou-sansuu-no-tensai-2-hayasa-no-bunshoudai-tsuukasan-part-i.json](./268489-naoko-to-hide-bou-sansuu-no-tensai-2-hayasa-no-bunshoudai-tsuukasan-part-i.json) |
 | Napalm: The Crimson Crisis | 69892 | [69892-napalm-the-crimson-crisis.json](./69892-napalm-the-crimson-crisis.json) |
 | Napoleon 1813 | 62209 | [62209-napoleon-1813.json](./62209-napoleon-1813.json) |
+| Napoleon Solitaire | 132169 | [132169-napoleon-solitaire.json](./132169-napoleon-solitaire.json) |
 | Napoleon: Total War - Coalition Battle Pack | 82108 | [82108-napoleon-total-war-coalition-battle-pack.json](./82108-napoleon-total-war-coalition-battle-pack.json) |
 | Napoleon: Total War - Gold Edition | 88274 | [88274-napoleon-total-war-gold-edition.json](./88274-napoleon-total-war-gold-edition.json) |
 | Napoleon: Total War - Heroes of the Napoleonic Wars | 82111 | [82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json](./82111-napoleon-total-war-heroes-of-the-napoleonic-wars.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NSYNC: Get to the Show | 49955 | [49955-nsync-get-to-the-show.json](./49955-nsync-get-to-the-show.json) |
 | Nth Dimension[al] Hiking | 327183 | [327183-nth-dimension-al-hiking.json](./327183-nth-dimension-al-hiking.json) |
 | Nth^0: Infinity Reborn | 129799 | [129799-nth-0-infinity-reborn.json](./129799-nth-0-infinity-reborn.json) |
+| NTR homestay | 132191 | [132191-ntr-homestay.json](./132191-ntr-homestay.json) |
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Combat Ship | 252714 | [252714-nuclear-combat-ship.json](./252714-nuclear-combat-ship.json) |
