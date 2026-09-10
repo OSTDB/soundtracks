@@ -351,7 +351,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
 | 99 Cars: Zig Zag Racer | 240209 | [240209-99-cars-zig-zag-racer.json](./240209-99-cars-zig-zag-racer.json) |
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
-| 999 | 104675 | [104675-999.json](./104675-999.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
 | 9Lives Arena | 134027 | [134027-9lives-arena.json](./134027-9lives-arena.json) |
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
