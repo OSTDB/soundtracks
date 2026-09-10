@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T19:31:25.878Z",
-  "total_missing": 54962,
+  "generated_at": "2026-09-10T19:41:04.331Z",
+  "total_missing": 54976,
   "games": [
     {
       "igdb_id": 306086,
@@ -1646,11 +1646,6 @@
       "igdb_id": 333576,
       "game_name": "8th Avenue",
       "file": "missing/0-9/333576-8th-avenue.json"
-    },
-    {
-      "igdb_id": 179163,
-      "game_name": "9 Black Boxes",
-      "file": "missing/0-9/179163-9-black-boxes.json"
     },
     {
       "igdb_id": 15584,
@@ -12878,6 +12873,11 @@
       "file": "missing/A/89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json"
     },
     {
+      "igdb_id": 139979,
+      "game_name": "Ar Nosurge: Ode to an Unborn Star DX",
+      "file": "missing/A/139979-ar-nosurge-ode-to-an-unborn-star-dx.json"
+    },
+    {
       "igdb_id": 242215,
       "game_name": "AR Race Car",
       "file": "missing/A/242215-ar-race-car.json"
@@ -21291,6 +21291,11 @@
       "igdb_id": 349877,
       "game_name": "Bass Harrier",
       "file": "missing/B/349877-bass-harrier.json"
+    },
+    {
+      "igdb_id": 139982,
+      "game_name": "Bass Pro Shops Fishing Sim World",
+      "file": "missing/B/139982-bass-pro-shops-fishing-sim-world.json"
     },
     {
       "igdb_id": 5737,
@@ -41983,6 +41988,11 @@
       "file": "missing/C/278738-citizen-zein.json"
     },
     {
+      "igdb_id": 139994,
+      "game_name": "Citizens Unite!: Earth x Space",
+      "file": "missing/C/139994-citizens-unite-earth-x-space.json"
+    },
+    {
       "igdb_id": 220635,
       "game_name": "Citri Plays Noirwood",
       "file": "missing/C/220635-citri-plays-noirwood.json"
@@ -52823,6 +52833,16 @@
       "file": "missing/D/147940-darius-cozmic-collection-arcade.json"
     },
     {
+      "igdb_id": 139992,
+      "game_name": "Darius Cozmic Revelation",
+      "file": "missing/D/139992-darius-cozmic-revelation.json"
+    },
+    {
+      "igdb_id": 139993,
+      "game_name": "Darius: Cozmic Revelation - Collector's Edition",
+      "file": "missing/D/139993-darius-cozmic-revelation-collectors-edition.json"
+    },
+    {
       "igdb_id": 144371,
       "game_name": "Dark & Under",
       "file": "missing/D/144371-dark-and-under.json"
@@ -59481,6 +59501,11 @@
       "igdb_id": 96754,
       "game_name": "Dinos Jump",
       "file": "missing/D/96754-dinos-jump.json"
+    },
+    {
+      "igdb_id": 139988,
+      "game_name": "Dinosaur",
+      "file": "missing/D/139988-dinosaur.json"
     },
     {
       "igdb_id": 310972,
@@ -95748,6 +95773,11 @@
       "file": "missing/G/254507-guilty-gear-strive-special-colors-for-sol-and-ky.json"
     },
     {
+      "igdb_id": 139986,
+      "game_name": "Guilty Gear: Strive - Ultimate Edition",
+      "file": "missing/G/139986-guilty-gear-strive-ultimate-edition.json"
+    },
+    {
       "igdb_id": 255116,
       "game_name": "Guilty Gear: Strive - Ultimate Edition 2022",
       "file": "missing/G/255116-guilty-gear-strive-ultimate-edition-2022.json"
@@ -100468,6 +100498,11 @@
       "file": "missing/H/162410-hellblusser.json"
     },
     {
+      "igdb_id": 139990,
+      "game_name": "Hellbound",
+      "file": "missing/H/139990-hellbound.json"
+    },
+    {
       "igdb_id": 267925,
       "game_name": "Helldivers II: Super Citizen Edition",
       "file": "missing/H/267925-helldivers-ii-super-citizen-edition.json"
@@ -101831,6 +101866,11 @@
       "igdb_id": 17531,
       "game_name": "Heroes & Legends: Conquerors of Kolhar",
       "file": "missing/H/17531-heroes-and-legends-conquerors-of-kolhar.json"
+    },
+    {
+      "igdb_id": 139981,
+      "game_name": "Heroes against Demons",
+      "file": "missing/H/139981-heroes-against-demons.json"
     },
     {
       "igdb_id": 362304,
@@ -114853,6 +114893,11 @@
       "file": "missing/J/315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json"
     },
     {
+      "igdb_id": 139991,
+      "game_name": "Japanese Rail Sim: Journey to Kyoto",
+      "file": "missing/J/139991-japanese-rail-sim-journey-to-kyoto.json"
+    },
+    {
       "igdb_id": 26136,
       "game_name": "Japanese School Life",
       "file": "missing/J/26136-japanese-school-life.json"
@@ -122061,6 +122106,11 @@
       "igdb_id": 194535,
       "game_name": "Koi Shiyo?",
       "file": "missing/K/194535-koi-shiyo.json"
+    },
+    {
+      "igdb_id": 139985,
+      "game_name": "Koi Suru Otome to Shugo no Tate: Re:boot the \"Shield-9\"",
+      "file": "missing/K/139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json"
     },
     {
       "igdb_id": 194533,
@@ -193198,6 +193248,11 @@
       "file": "missing/S/412956-sakumon.json"
     },
     {
+      "igdb_id": 139978,
+      "game_name": "Sakuna: Of Rice and Ruin - Divine Edition",
+      "file": "missing/S/139978-sakuna-of-rice-and-ruin-divine-edition.json"
+    },
+    {
       "igdb_id": 186848,
       "game_name": "Sakura Alien",
       "file": "missing/S/186848-sakura-alien.json"
@@ -248038,6 +248093,11 @@
       "file": "missing/T/141785-tony-stewarts-all-american-racing-bundle.json"
     },
     {
+      "igdb_id": 139980,
+      "game_name": "Tony Stewart's All-American Racing",
+      "file": "missing/T/139980-tony-stewarts-all-american-racing.json"
+    },
+    {
       "igdb_id": 167851,
       "game_name": "Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track",
       "file": "missing/T/167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json"
@@ -255733,6 +255793,11 @@
       "file": "missing/U/146817-umineko-no-naku-koro-ni-hane.json"
     },
     {
+      "igdb_id": 139987,
+      "game_name": "Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku",
+      "file": "missing/U/139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json"
+    },
+    {
       "igdb_id": 140001,
       "game_name": "Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku - Limited Edition",
       "file": "missing/U/140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json"
@@ -258811,6 +258876,11 @@
       "igdb_id": 410896,
       "game_name": "Vampvasion",
       "file": "missing/V/410896-vampvasion.json"
+    },
+    {
+      "igdb_id": 139984,
+      "game_name": "Vampyr: Special Edition",
+      "file": "missing/V/139984-vampyr-special-edition.json"
     },
     {
       "igdb_id": 317002,
