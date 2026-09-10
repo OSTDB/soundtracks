@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peacebringer | 338750 | [338750-peacebringer.json](./338750-peacebringer.json) |
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
+| Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
 | Peachy Boy | 231053 | [231053-peachy-boy.json](./231053-peachy-boy.json) |
@@ -964,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
+| PhotoWorld | 153403 | [153403-photoworld.json](./153403-photoworld.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phrixothrix | 245857 | [245857-phrixothrix.json](./245857-phrixothrix.json) |
 | Phucker in the Ashes | 369019 | [369019-phucker-in-the-ashes.json](./369019-phucker-in-the-ashes.json) |
@@ -1281,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch Patter | 273657 | [273657-pitch-patter.json](./273657-pitch-patter.json) |
 | Pitch-Hit | 57710 | [57710-pitch-hit.json](./57710-pitch-hit.json) |
 | Pitch-Hit: Baseball | 31347 | [31347-pitch-hit-baseball.json](./31347-pitch-hit-baseball.json) |
+| Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
@@ -2592,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Spikepig | 326997 | [326997-project-spikepig.json](./326997-project-spikepig.json) |
 | Project Stack | 311786 | [311786-project-stack.json](./311786-project-stack.json) |
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
+| Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
 | Project Threshold | 404201 | [404201-project-threshold.json](./404201-project-threshold.json) |
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
