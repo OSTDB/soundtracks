@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
+| Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
 | Obake no Q-Taro: Oba Q Channel | 293908 | [293908-obake-no-q-taro-oba-q-channel.json](./293908-obake-no-q-taro-oba-q-channel.json) |
 | Obake no Q-Taro: Wan-wan Panic | 215139 | [215139-obake-no-q-taro-wan-wan-panic.json](./215139-obake-no-q-taro-wan-wan-panic.json) |
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
@@ -107,6 +108,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ode to Heroes | 137645 | [137645-ode-to-heroes.json](./137645-ode-to-heroes.json) |
 | Ode to My Hometown's Craft Fair | 176461 | [176461-ode-to-my-hometowns-craft-fair.json](./176461-ode-to-my-hometowns-craft-fair.json) |
 | Odekake Takorin: Choigae | 222527 | [222527-odekake-takorin-choigae.json](./222527-odekake-takorin-choigae.json) |
+| Oden Cart 2: A Taste of Time | 159289 | [159289-oden-cart-2-a-taste-of-time.json](./159289-oden-cart-2-a-taste-of-time.json) |
+| Oden Cart: A Heartwarming Tale | 159288 | [159288-oden-cart-a-heartwarming-tale.json](./159288-oden-cart-a-heartwarming-tale.json) |
 | Oden-kun Tamagotchi | 229963 | [229963-oden-kun-tamagotchi.json](./229963-oden-kun-tamagotchi.json) |
 | Oden-kun: Oden-mura no Tanoshii Nakama-tachi | 327599 | [327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json](./327599-oden-kun-oden-mura-no-tanoshii-nakama-tachi.json) |
 | Odens öga | 304035 | [304035-odens-oga.json](./304035-odens-oga.json) |
