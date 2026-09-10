@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
+| Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
 | Peachy Boy | 231053 | [231053-peachy-boy.json](./231053-peachy-boy.json) |
@@ -2104,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portable VR | 244232 | [244232-portable-vr.json](./244232-portable-vr.json) |
 | Portal 2: Community Edition | 169962 | [169962-portal-2-community-edition.json](./169962-portal-2-community-edition.json) |
 | Portal 2: Google Translate Edition | 313481 | [313481-portal-2-google-translate-edition.json](./313481-portal-2-google-translate-edition.json) |
+| Portal 3 64 | 135217 | [135217-portal-3-64.json](./135217-portal-3-64.json) |
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
 | Portal done Half-Life Source | 323554 | [323554-portal-done-half-life-source.json](./323554-portal-done-half-life-source.json) |
@@ -2834,6 +2836,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
 | Pub Toilet Simulator 25 | 339798 | [339798-pub-toilet-simulator-25.json](./339798-pub-toilet-simulator-25.json) |
 | PUBG Lite | 124036 | [124036-pubg-lite.json](./124036-pubg-lite.json) |
+| PUBG Mobile: Season 12 | 135152 | [135152-pubg-mobile-season-12.json](./135152-pubg-mobile-season-12.json) |
+| PUBG Mobile: Season 13 | 135154 | [135154-pubg-mobile-season-13.json](./135154-pubg-mobile-season-13.json) |
 | PUBG Mobile: Season 16 | 141193 | [141193-pubg-mobile-season-16.json](./141193-pubg-mobile-season-16.json) |
 | PUBG: Battlegrounds - Season 18 | 217520 | [217520-pubg-battlegrounds-season-18.json](./217520-pubg-battlegrounds-season-18.json) |
 | PUBG: Battlegrounds - Season 21 | 279571 | [279571-pubg-battlegrounds-season-21.json](./279571-pubg-battlegrounds-season-21.json) |
