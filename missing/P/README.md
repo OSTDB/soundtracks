@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
 | Piece O'Cake | 40785 | [40785-piece-ocake.json](./40785-piece-ocake.json) |
+| Piece of Mind | 143649 | [143649-piece-of-mind.json](./143649-piece-of-mind.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
 | Pieces of Beauty 2 | 190173 | [190173-pieces-of-beauty-2.json](./190173-pieces-of-beauty-2.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
@@ -1609,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
+| Playground VR | 143690 | [143690-playground-vr.json](./143690-playground-vr.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
@@ -2916,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrplate | 372987 | [372987-purrplate.json](./372987-purrplate.json) |
 | Purrrfect Love | 204066 | [204066-purrrfect-love.json](./204066-purrrfect-love.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
+| Purumui Purumui | 143677 | [143677-purumui-purumui.json](./143677-purumui-purumui.json) |
 | Pururun! Shizuku-chan: Asonde Tanoshiku Nouryoku Up | 327618 | [327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json](./327618-pururun-shizuku-chan-asonde-tanoshiku-nouryoku-up.json) |
 | Push a Block | 221171 | [221171-push-a-block.json](./221171-push-a-block.json) |
 | Push Back | 133445 | [133445-push-back.json](./133445-push-back.json) |
