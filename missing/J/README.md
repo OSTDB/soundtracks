@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Force: Character Pack 7 - Madara Uchiha | 167779 | [167779-jump-force-character-pack-7-madara-uchiha.json](./167779-jump-force-character-pack-7-madara-uchiha.json) |
 | Jump Force: Character Pack 8 - Grimmjow Jaegerjaquez | 167778 | [167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json](./167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json) |
 | Jump Force: Character Pack 9 - Trafalgar Law | 167776 | [167776-jump-force-character-pack-9-trafalgar-law.json](./167776-jump-force-character-pack-9-trafalgar-law.json) |
+| Jump Hero II: Jinsei wa Jabuun | 137620 | [137620-jump-hero-ii-jinsei-wa-jabuun.json](./137620-jump-hero-ii-jinsei-wa-jabuun.json) |
 | Jump Heroes | 290726 | [290726-jump-heroes.json](./290726-jump-heroes.json) |
 | Jump Kid | 217022 | [217022-jump-kid.json](./217022-jump-kid.json) |
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
