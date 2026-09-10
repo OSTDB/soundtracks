@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T23:40:59.802Z",
-  "total_missing": 55710,
+  "generated_at": "2026-09-10T23:51:00.773Z",
+  "total_missing": 55727,
   "games": [
     {
       "igdb_id": 306086,
@@ -1771,11 +1771,6 @@
       "igdb_id": 225283,
       "game_name": "A Bonte Escape",
       "file": "missing/A/225283-a-bonte-escape.json"
-    },
-    {
-      "igdb_id": 158681,
-      "game_name": "A Boy's Journey",
-      "file": "missing/A/158681-a-boys-journey.json"
     },
     {
       "igdb_id": 182551,
@@ -44583,6 +44578,11 @@
       "file": "missing/C/207511-colonia.json"
     },
     {
+      "igdb_id": 130901,
+      "game_name": "Colonist",
+      "file": "missing/C/130901-colonist.json"
+    },
+    {
       "igdb_id": 244468,
       "game_name": "Colonizer",
       "file": "missing/C/244468-colonizer.json"
@@ -49221,6 +49221,11 @@
       "igdb_id": 414308,
       "game_name": "Cricket Manager 27",
       "file": "missing/C/414308-cricket-manager-27.json"
+    },
+    {
+      "igdb_id": 130912,
+      "game_name": "Crimax",
+      "file": "missing/C/130912-crimax.json"
     },
     {
       "igdb_id": 315500,
@@ -56773,6 +56778,11 @@
       "file": "missing/D/152300-defend-the-rook.json"
     },
     {
+      "igdb_id": 130908,
+      "game_name": "Defend Tower: TD strategy",
+      "file": "missing/D/130908-defend-tower-td-strategy.json"
+    },
+    {
       "igdb_id": 33130,
       "game_name": "Defend Your Crypt",
       "file": "missing/D/33130-defend-your-crypt.json"
@@ -58841,6 +58851,11 @@
       "igdb_id": 9575,
       "game_name": "Deuteros: The Next Millennium",
       "file": "missing/D/9575-deuteros-the-next-millennium.json"
+    },
+    {
+      "igdb_id": 130904,
+      "game_name": "Deutschland sucht den Superstar",
+      "file": "missing/D/130904-deutschland-sucht-den-superstar.json"
     },
     {
       "igdb_id": 152835,
@@ -65271,6 +65286,11 @@
       "igdb_id": 156084,
       "game_name": "DRazor",
       "file": "missing/D/156084-drazor.json"
+    },
+    {
+      "igdb_id": 130910,
+      "game_name": "Dread",
+      "file": "missing/D/130910-dread.json"
     },
     {
       "igdb_id": 272835,
@@ -72738,6 +72758,11 @@
       "file": "missing/E/329948-error-loop.json"
     },
     {
+      "igdb_id": 130906,
+      "game_name": "Erst Kerf",
+      "file": "missing/E/130906-erst-kerf.json"
+    },
+    {
       "igdb_id": 134673,
       "game_name": "Erth",
       "file": "missing/E/134673-erth.json"
@@ -77581,6 +77606,11 @@
       "igdb_id": 172696,
       "game_name": "Faren Touga",
       "file": "missing/F/172696-faren-touga.json"
+    },
+    {
+      "igdb_id": 130916,
+      "game_name": "Fareo: Shadowlands",
+      "file": "missing/F/130916-fareo-shadowlands.json"
     },
     {
       "igdb_id": 75151,
@@ -124918,6 +124948,11 @@
       "file": "missing/L/7936-la-mulana.json"
     },
     {
+      "igdb_id": 130905,
+      "game_name": "La-Mulana & La-Mulana 2",
+      "file": "missing/L/130905-la-mulana-and-la-mulana-2.json"
+    },
+    {
       "igdb_id": 188630,
       "game_name": "La-Mulana 2: The Tower of Oannes",
       "file": "missing/L/188630-la-mulana-2-the-tower-of-oannes.json"
@@ -126151,6 +126186,11 @@
       "igdb_id": 245866,
       "game_name": "Lasting Moonlight",
       "file": "missing/L/245866-lasting-moonlight.json"
+    },
+    {
+      "igdb_id": 130918,
+      "game_name": "Lasting Solstice",
+      "file": "missing/L/130918-lasting-solstice.json"
     },
     {
       "igdb_id": 344933,
@@ -133351,6 +133391,11 @@
       "igdb_id": 14303,
       "game_name": "Lumo's Cat",
       "file": "missing/L/14303-lumos-cat.json"
+    },
+    {
+      "igdb_id": 130917,
+      "game_name": "Luna : The Dimemsion Watcher",
+      "file": "missing/L/130917-luna-the-dimemsion-watcher.json"
     },
     {
       "igdb_id": 353870,
@@ -183398,6 +183443,11 @@
       "file": "missing/R/91269-r2-online-reign-of-revolution.json"
     },
     {
+      "igdb_id": 130900,
+      "game_name": "R42",
+      "file": "missing/R/130900-r42.json"
+    },
+    {
       "igdb_id": 18295,
       "game_name": "Ra.One: The Game",
       "file": "missing/R/18295-ra-one-the-game.json"
@@ -198163,6 +198213,11 @@
       "file": "missing/S/242246-scp-site-19.json"
     },
     {
+      "igdb_id": 130903,
+      "game_name": "SCP: Unity",
+      "file": "missing/S/130903-scp-unity.json"
+    },
+    {
       "igdb_id": 280174,
       "game_name": "SCP: Valravn",
       "file": "missing/S/280174-scp-valravn.json"
@@ -204656,6 +204711,11 @@
       "igdb_id": 141132,
       "game_name": "SimCasino",
       "file": "missing/S/141132-simcasino.json"
+    },
+    {
+      "igdb_id": 130907,
+      "game_name": "SimCity 2000 Urban Renewal Kit",
+      "file": "missing/S/130907-simcity-2000-urban-renewal-kit.json"
     },
     {
       "igdb_id": 18494,
@@ -214448,6 +214508,11 @@
       "file": "missing/S/332990-spider-canyon.json"
     },
     {
+      "igdb_id": 130914,
+      "game_name": "Spider Fear",
+      "file": "missing/S/130914-spider-fear.json"
+    },
+    {
       "igdb_id": 254558,
       "game_name": "Spider Fox",
       "file": "missing/S/254558-spider-fox.json"
@@ -220791,6 +220856,11 @@
       "igdb_id": 147417,
       "game_name": "Students' Horrible Stories: FIN",
       "file": "missing/S/147417-students-horrible-stories-fin.json"
+    },
+    {
+      "igdb_id": 130913,
+      "game_name": "Studio 100 Speeleiland",
+      "file": "missing/S/130913-studio-100-speeleiland.json"
     },
     {
       "igdb_id": 369597,
@@ -230471,6 +230541,11 @@
       "igdb_id": 146824,
       "game_name": "Tattoo Punk",
       "file": "missing/T/146824-tattoo-punk.json"
+    },
+    {
+      "igdb_id": 130911,
+      "game_name": "TauCeti Unknown Origin",
+      "file": "missing/T/130911-tauceti-unknown-origin.json"
     },
     {
       "igdb_id": 181883,
@@ -249571,6 +249646,11 @@
       "igdb_id": 73819,
       "game_name": "TimeScape: Journey to Pompeii",
       "file": "missing/T/73819-timescape-journey-to-pompeii.json"
+    },
+    {
+      "igdb_id": 130909,
+      "game_name": "TimeWatch",
+      "file": "missing/T/130909-timewatch.json"
     },
     {
       "igdb_id": 58813,
@@ -277266,6 +277346,11 @@
       "igdb_id": 241657,
       "game_name": "Zgr3d",
       "file": "missing/Z/241657-zgr3d.json"
+    },
+    {
+      "igdb_id": 130915,
+      "game_name": "Zhànshén Qīpò",
+      "file": "missing/Z/130915-zhanshen-qipo.json"
     },
     {
       "igdb_id": 149591,
