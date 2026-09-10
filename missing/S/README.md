@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shouldermen | 293651 | [293651-shouldermen.json](./293651-shouldermen.json) |
 | Shoulders of Giants: Ultimate | 309111 | [309111-shoulders-of-giants-ultimate.json](./309111-shoulders-of-giants-ultimate.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
+| Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
 | Shovel Knight: Dig - Fate and Fortune | 305754 | [305754-shovel-knight-dig-fate-and-fortune.json](./305754-shovel-knight-dig-fate-and-fortune.json) |
 | Shovel Knight: Dig - Wicked Wishes | 305755 | [305755-shovel-knight-dig-wicked-wishes.json](./305755-shovel-knight-dig-wicked-wishes.json) |
 | Shovel Knight: Pocket Dungeon - Paradox Pack DLC | 305756 | [305756-shovel-knight-pocket-dungeon-paradox-pack-dlc.json](./305756-shovel-knight-pocket-dungeon-paradox-pack-dlc.json) |
@@ -1751,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
+| Sidewinder | 159249 | [159249-sidewinder.json](./159249-sidewinder.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
@@ -5468,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 in Tomb Raider | 262677 | [262677-super-mario-64-in-tomb-raider.json](./262677-super-mario-64-in-tomb-raider.json) |
 | Super Mario 64 Nintendo 3DS Port | 307314 | [307314-super-mario-64-nintendo-3ds-port.json](./307314-super-mario-64-nintendo-3ds-port.json) |
 | Super Mario 64 NX | 307317 | [307317-super-mario-64-nx.json](./307317-super-mario-64-nx.json) |
+| Super Mario 64 Odyssey | 159274 | [159274-super-mario-64-odyssey.json](./159274-super-mario-64-odyssey.json) |
 | Super Mario 64 Port | 307318 | [307318-super-mario-64-port.json](./307318-super-mario-64-port.json) |
 | Super Mario 64 Port: PSP Port of PC | 307319 | [307319-super-mario-64-port-psp-port-of-pc.json](./307319-super-mario-64-port-psp-port-of-pc.json) |
 | Super Mario 64 Randomizer | 135265 | [135265-super-mario-64-randomizer.json](./135265-super-mario-64-randomizer.json) |
@@ -5559,6 +5562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Storm I | 324681 | [324681-super-mario-storm-i.json](./324681-super-mario-storm-i.json) |
 | Super Mario Story | 313110 | [313110-super-mario-story.json](./313110-super-mario-story.json) |
 | Super Mario Subpop | 320159 | [320159-super-mario-subpop.json](./320159-super-mario-subpop.json) |
+| Super Mario Sunshine 64 | 159263 | [159263-super-mario-sunshine-64.json](./159263-super-mario-sunshine-64.json) |
 | Super Mario Sunshine Arcade 2 | 213038 | [213038-super-mario-sunshine-arcade-2.json](./213038-super-mario-sunshine-arcade-2.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario War | 305742 | [305742-super-mario-war.json](./305742-super-mario-war.json) |
@@ -5657,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
 | Super Pool III | 172679 | [172679-super-pool-iii.json](./172679-super-pool-iii.json) |
 | Super Pop and Drop | 206713 | [206713-super-pop-and-drop.json](./206713-super-pop-and-drop.json) |
+| Super Portal 64 | 159277 | [159277-super-portal-64.json](./159277-super-portal-64.json) |
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Punch-Out!! | 9152 | [9152-super-punch-out.json](./9152-super-punch-out.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
