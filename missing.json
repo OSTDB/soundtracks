@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T01:11:13.497Z",
-  "total_missing": 52443,
+  "generated_at": "2026-09-10T01:18:31.842Z",
+  "total_missing": 52493,
   "games": [
     {
       "igdb_id": 306086,
@@ -20678,6 +20678,11 @@
       "file": "missing/B/196239-base-craft-desolate-survival.json"
     },
     {
+      "igdb_id": 167804,
+      "game_name": "Base Defense VR",
+      "file": "missing/B/167804-base-defense-vr.json"
+    },
+    {
       "igdb_id": 199114,
       "game_name": "Base Jump: Wing Suit Flying",
       "file": "missing/B/199114-base-jump-wing-suit-flying.json"
@@ -21296,6 +21301,11 @@
       "igdb_id": 200206,
       "game_name": "Battle Academy",
       "file": "missing/B/200206-battle-academy.json"
+    },
+    {
+      "igdb_id": 167801,
+      "game_name": "Battle Academy: Operation Market Garden",
+      "file": "missing/B/167801-battle-academy-operation-market-garden.json"
     },
     {
       "igdb_id": 338203,
@@ -27991,6 +28001,11 @@
       "igdb_id": 99635,
       "game_name": "Boat Adventure",
       "file": "missing/B/99635-boat-adventure.json"
+    },
+    {
+      "igdb_id": 167803,
+      "game_name": "Boat Crew",
+      "file": "missing/B/167803-boat-crew.json"
     },
     {
       "igdb_id": 228116,
@@ -44033,6 +44048,11 @@
       "file": "missing/C/3862-conan.json"
     },
     {
+      "igdb_id": 167762,
+      "game_name": "Conan Exiles: Isle of Siptah",
+      "file": "missing/C/167762-conan-exiles-isle-of-siptah.json"
+    },
+    {
       "igdb_id": 32411,
       "game_name": "Conan the mighty pig",
       "file": "missing/C/32411-conan-the-mighty-pig.json"
@@ -45876,6 +45896,11 @@
       "igdb_id": 213617,
       "game_name": "Covert Front",
       "file": "missing/C/213617-covert-front.json"
+    },
+    {
+      "igdb_id": 167758,
+      "game_name": "Covid 2069",
+      "file": "missing/C/167758-covid-2069.json"
     },
     {
       "igdb_id": 255975,
@@ -51946,6 +51971,11 @@
       "igdb_id": 188590,
       "game_name": "Darling Pet",
       "file": "missing/D/188590-darling-pet.json"
+    },
+    {
+      "igdb_id": 167767,
+      "game_name": "Darq: The Crypt",
+      "file": "missing/D/167767-darq-the-crypt.json"
     },
     {
       "igdb_id": 325815,
@@ -90658,6 +90688,11 @@
       "file": "missing/G/402903-gravebound-dash.json"
     },
     {
+      "igdb_id": 167805,
+      "game_name": "Gravel: Armored Operation",
+      "file": "missing/G/167805-gravel-armored-operation.json"
+    },
+    {
       "igdb_id": 359996,
       "game_name": "Gravelmon",
       "file": "missing/G/359996-gravelmon.json"
@@ -112523,6 +112558,61 @@
       "file": "missing/J/407306-jump-duck.json"
     },
     {
+      "igdb_id": 167770,
+      "game_name": "Jump Force: Character Pack 10 - Shoto Todoroki",
+      "file": "missing/J/167770-jump-force-character-pack-10-shoto-todoroki.json"
+    },
+    {
+      "igdb_id": 167771,
+      "game_name": "Jump Force: Character Pack 11 - Meruem",
+      "file": "missing/J/167771-jump-force-character-pack-11-meruem.json"
+    },
+    {
+      "igdb_id": 167774,
+      "game_name": "Jump Force: Character Pack 12 - Hiei",
+      "file": "missing/J/167774-jump-force-character-pack-12-hiei.json"
+    },
+    {
+      "igdb_id": 167769,
+      "game_name": "Jump Force: Character Pack 13 - Yoruichi Shihoin",
+      "file": "missing/J/167769-jump-force-character-pack-13-yoruichi-shihoin.json"
+    },
+    {
+      "igdb_id": 167773,
+      "game_name": "Jump Force: Character Pack 14 - Giorno Giovanna",
+      "file": "missing/J/167773-jump-force-character-pack-14-giorno-giovanna.json"
+    },
+    {
+      "igdb_id": 167777,
+      "game_name": "Jump Force: Character Pack 4 - Majin Buu (Good)",
+      "file": "missing/J/167777-jump-force-character-pack-4-majin-buu-good.json"
+    },
+    {
+      "igdb_id": 167772,
+      "game_name": "Jump Force: Character Pack 5 - Katsuki Bakugo",
+      "file": "missing/J/167772-jump-force-character-pack-5-katsuki-bakugo.json"
+    },
+    {
+      "igdb_id": 167775,
+      "game_name": "Jump Force: Character Pack 6 - Toshiro Hitsugaya",
+      "file": "missing/J/167775-jump-force-character-pack-6-toshiro-hitsugaya.json"
+    },
+    {
+      "igdb_id": 167779,
+      "game_name": "Jump Force: Character Pack 7 - Madara Uchiha",
+      "file": "missing/J/167779-jump-force-character-pack-7-madara-uchiha.json"
+    },
+    {
+      "igdb_id": 167778,
+      "game_name": "Jump Force: Character Pack 8 - Grimmjow Jaegerjaquez",
+      "file": "missing/J/167778-jump-force-character-pack-8-grimmjow-jaegerjaquez.json"
+    },
+    {
+      "igdb_id": 167776,
+      "game_name": "Jump Force: Character Pack 9 - Trafalgar Law",
+      "file": "missing/J/167776-jump-force-character-pack-9-trafalgar-law.json"
+    },
+    {
       "igdb_id": 290726,
       "game_name": "Jump Heroes",
       "file": "missing/J/290726-jump-heroes.json"
@@ -117591,6 +117681,16 @@
       "igdb_id": 326088,
       "game_name": "Kokubyaku no Avesta: Refusal-Aushedar",
       "file": "missing/K/326088-kokubyaku-no-avesta-refusal-aushedar.json"
+    },
+    {
+      "igdb_id": 167800,
+      "game_name": "Kokurase: Episode 2",
+      "file": "missing/K/167800-kokurase-episode-2.json"
+    },
+    {
+      "igdb_id": 167799,
+      "game_name": "Kokurase: Episode 3",
+      "file": "missing/K/167799-kokurase-episode-3.json"
     },
     {
       "igdb_id": 296922,
@@ -125628,6 +125728,26 @@
       "file": "missing/L/120420-lotus-minigames-berlin-traffic.json"
     },
     {
+      "igdb_id": 167754,
+      "game_name": "Lotus Simulator: Addon - Düsseldorf 1981",
+      "file": "missing/L/167754-lotus-simulator-addon-dusseldorf-1981.json"
+    },
+    {
+      "igdb_id": 167757,
+      "game_name": "Lotus Simulator: Module - Rails of Lotus",
+      "file": "missing/L/167757-lotus-simulator-module-rails-of-lotus.json"
+    },
+    {
+      "igdb_id": 167756,
+      "game_name": "Lotus Simulator: Module - Streets of Lotus",
+      "file": "missing/L/167756-lotus-simulator-module-streets-of-lotus.json"
+    },
+    {
+      "igdb_id": 167755,
+      "game_name": "Lotus Simulator: München Tram",
+      "file": "missing/L/167755-lotus-simulator-munchen-tram.json"
+    },
+    {
       "igdb_id": 246113,
       "game_name": "Louie Lucha",
       "file": "missing/L/246113-louie-lucha.json"
@@ -127606,6 +127726,11 @@
       "igdb_id": 22980,
       "game_name": "Maestro! Jump in Music",
       "file": "missing/M/22980-maestro-jump-in-music.json"
+    },
+    {
+      "igdb_id": 167760,
+      "game_name": "Mafalda: Jugando con Números y Palabras",
+      "file": "missing/M/167760-mafalda-jugando-con-numeros-y-palabras.json"
     },
     {
       "igdb_id": 307327,
@@ -132801,6 +132926,11 @@
       "igdb_id": 200695,
       "game_name": "Medievalfield",
       "file": "missing/M/200695-medievalfield.json"
+    },
+    {
+      "igdb_id": 167785,
+      "game_name": "Meditation Journey: VR Zen Garden",
+      "file": "missing/M/167785-meditation-journey-vr-zen-garden.json"
     },
     {
       "igdb_id": 304578,
@@ -145436,6 +145566,11 @@
       "igdb_id": 209670,
       "game_name": "Myth of Mirka",
       "file": "missing/M/209670-myth-of-mirka.json"
+    },
+    {
+      "igdb_id": 167766,
+      "game_name": "Myth of Mist: Legacy",
+      "file": "missing/M/167766-myth-of-mist-legacy.json"
     },
     {
       "igdb_id": 337642,
@@ -168043,9 +168178,24 @@
       "file": "missing/P/25162-power-rangers-super-samurai.json"
     },
     {
+      "igdb_id": 167794,
+      "game_name": "Power Rangers: Battle for the Grid - Anubis Cruger SPD Shadow Ranger",
+      "file": "missing/P/167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json"
+    },
+    {
+      "igdb_id": 167793,
+      "game_name": "Power Rangers: Battle for the Grid - Chun-Li Blue Phoenix Ranger",
+      "file": "missing/P/167793-power-rangers-battle-for-the-grid-chun-li-blue-phoenix-ranger.json"
+    },
+    {
       "igdb_id": 119069,
       "game_name": "Power Rangers: Battle for the Grid - Collector's Edition",
       "file": "missing/P/119069-power-rangers-battle-for-the-grid-collectors-edition.json"
+    },
+    {
+      "igdb_id": 167788,
+      "game_name": "Power Rangers: Battle for the Grid - Dai Shi",
+      "file": "missing/P/167788-power-rangers-battle-for-the-grid-dai-shi.json"
     },
     {
       "igdb_id": 205276,
@@ -168053,9 +168203,44 @@
       "file": "missing/P/205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json"
     },
     {
+      "igdb_id": 167796,
+      "game_name": "Power Rangers: Battle for the Grid - Eric Myers Time Force Quantum Ranger",
+      "file": "missing/P/167796-power-rangers-battle-for-the-grid-eric-myers-time-force-quantum-ranger.json"
+    },
+    {
+      "igdb_id": 167787,
+      "game_name": "Power Rangers: Battle for the Grid - Lauren Shiba Super Samurai",
+      "file": "missing/P/167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json"
+    },
+    {
+      "igdb_id": 167790,
+      "game_name": "Power Rangers: Battle for the Grid - Lord Zedd",
+      "file": "missing/P/167790-power-rangers-battle-for-the-grid-lord-zedd.json"
+    },
+    {
+      "igdb_id": 167789,
+      "game_name": "Power Rangers: Battle for the Grid - Robert James Jungle Fury",
+      "file": "missing/P/167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json"
+    },
+    {
+      "igdb_id": 167791,
+      "game_name": "Power Rangers: Battle for the Grid - Ryu Crimson Hawk Ranger",
+      "file": "missing/P/167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json"
+    },
+    {
+      "igdb_id": 167795,
+      "game_name": "Power Rangers: Battle for the Grid - Scorpina",
+      "file": "missing/P/167795-power-rangers-battle-for-the-grid-scorpina.json"
+    },
+    {
       "igdb_id": 237979,
       "game_name": "Power Rangers: Battle for the Grid - Street Fighter Pack",
       "file": "missing/P/237979-power-rangers-battle-for-the-grid-street-fighter-pack.json"
+    },
+    {
+      "igdb_id": 167792,
+      "game_name": "Power Rangers: Battle for the Grid - Trey of Triforia: Gold Zeo Ranger",
+      "file": "missing/P/167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json"
     },
     {
       "igdb_id": 220104,
@@ -171068,6 +171253,11 @@
       "file": "missing/P/382780-pulp-race-daft-enigma-fighter.json"
     },
     {
+      "igdb_id": 167797,
+      "game_name": "Pulsar",
+      "file": "missing/P/167797-pulsar.json"
+    },
+    {
       "igdb_id": 172728,
       "game_name": "Pulsar",
       "file": "missing/P/172728-pulsar.json"
@@ -171516,6 +171706,11 @@
       "igdb_id": 146348,
       "game_name": "Push Stack",
       "file": "missing/P/146348-push-stack.json"
+    },
+    {
+      "igdb_id": 167784,
+      "game_name": "Push the Box 3D",
+      "file": "missing/P/167784-push-the-box-3d.json"
     },
     {
       "igdb_id": 96036,
@@ -173651,6 +173846,11 @@
       "igdb_id": 143122,
       "game_name": "Race Condition",
       "file": "missing/R/143122-race-condition.json"
+    },
+    {
+      "igdb_id": 167759,
+      "game_name": "Race for the Galaxy: Rebel vs. Imperium",
+      "file": "missing/R/167759-race-for-the-galaxy-rebel-vs-imperium.json"
     },
     {
       "igdb_id": 240211,
@@ -177236,6 +177436,11 @@
       "igdb_id": 342079,
       "game_name": "Rekindled Trails",
       "file": "missing/R/342079-rekindled-trails.json"
+    },
+    {
+      "igdb_id": 167786,
+      "game_name": "Rekkr: Sunken Land",
+      "file": "missing/R/167786-rekkr-sunken-land.json"
     },
     {
       "igdb_id": 130401,
@@ -201113,6 +201318,11 @@
       "file": "missing/S/137684-space-court.json"
     },
     {
+      "igdb_id": 167782,
+      "game_name": "Space Crisis",
+      "file": "missing/S/167782-space-crisis.json"
+    },
+    {
       "igdb_id": 73855,
       "game_name": "Space Crusade: The Voyage Beyond",
       "file": "missing/S/73855-space-crusade-the-voyage-beyond.json"
@@ -202051,6 +202261,11 @@
       "igdb_id": 25018,
       "game_name": "Spanish for Everyone!",
       "file": "missing/S/25018-spanish-for-everyone.json"
+    },
+    {
+      "igdb_id": 167802,
+      "game_name": "Spanish Rage",
+      "file": "missing/S/167802-spanish-rage.json"
     },
     {
       "igdb_id": 254526,
@@ -215383,6 +215598,11 @@
       "file": "missing/S/19430-syphon-filter-logans-shadow.json"
     },
     {
+      "igdb_id": 167798,
+      "game_name": "Syrian Warfare: Return to Palmyra",
+      "file": "missing/S/167798-syrian-warfare-return-to-palmyra.json"
+    },
+    {
       "igdb_id": 316616,
       "game_name": "SyS KillMirror",
       "file": "missing/S/316616-sys-killmirror.json"
@@ -215436,6 +215656,11 @@
       "igdb_id": 321959,
       "game_name": "System Reject",
       "file": "missing/S/321959-system-reject.json"
+    },
+    {
+      "igdb_id": 167763,
+      "game_name": "System32",
+      "file": "missing/S/167763-system32.json"
     },
     {
       "igdb_id": 249505,
@@ -239578,6 +239803,11 @@
       "file": "missing/T/227284-trainz-railroad-simulator-2019-dr-db-dbmtrue-dbmu748-pack.json"
     },
     {
+      "igdb_id": 167780,
+      "game_name": "Trainz Railroad Simulator 2019: ETR 1000 - Frecciarossa",
+      "file": "missing/T/167780-trainz-railroad-simulator-2019-etr-1000-frecciarossa.json"
+    },
+    {
       "igdb_id": 190712,
       "game_name": "Trainz Railroad Simulator 2019: Mine & Field railway",
       "file": "missing/T/190712-trainz-railroad-simulator-2019-mine-and-field-railway.json"
@@ -239591,6 +239821,11 @@
       "igdb_id": 284915,
       "game_name": "Trainz Railroad Simulator 2019: NR Class Locomotive - JBR Indian Pacific Pack",
       "file": "missing/T/284915-trainz-railroad-simulator-2019-nr-class-locomotive-jbr-indian-pacific-pack.json"
+    },
+    {
+      "igdb_id": 167781,
+      "game_name": "Trainz Railroad Simulator 2019: NYC J3a-Dreyfuss Streamlined Hudson",
+      "file": "missing/T/167781-trainz-railroad-simulator-2019-nyc-j3a-dreyfuss-streamlined-hudson.json"
     },
     {
       "igdb_id": 190714,
@@ -245358,6 +245593,11 @@
       "file": "missing/U/173282-unsafe-express.json"
     },
     {
+      "igdb_id": 167783,
+      "game_name": "Unshaded",
+      "file": "missing/U/167783-unshaded.json"
+    },
+    {
       "igdb_id": 111815,
       "game_name": "Unsighted",
       "file": "missing/U/111815-unsighted.json"
@@ -248621,6 +248861,16 @@
       "igdb_id": 282020,
       "game_name": "Visagens",
       "file": "missing/V/282020-visagens.json"
+    },
+    {
+      "igdb_id": 167764,
+      "game_name": "Viscera Cleanup Detail: House of Horror",
+      "file": "missing/V/167764-viscera-cleanup-detail-house-of-horror.json"
+    },
+    {
+      "igdb_id": 167765,
+      "game_name": "Viscera Cleanup Detail: The Vulcan Affair",
+      "file": "missing/V/167765-viscera-cleanup-detail-the-vulcan-affair.json"
     },
     {
       "igdb_id": 96462,
