@@ -3422,6 +3422,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Sim Empire | 298031 | [298031-music-sim-empire.json](./298031-music-sim-empire.json) |
 | Music Store Simulator | 207326 | [207326-music-store-simulator.json](./207326-music-store-simulator.json) |
 | Music Thief | 191813 | [191813-music-thief.json](./191813-music-thief.json) |
+| Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
+| Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
