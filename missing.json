@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T18:18:45.988Z",
-  "total_missing": 54769,
+  "generated_at": "2026-09-10T18:21:02.873Z",
+  "total_missing": 54768,
   "games": [
     {
       "igdb_id": 306086,
@@ -1606,11 +1606,6 @@
       "igdb_id": 17034,
       "game_name": "868-Hack",
       "file": "missing/0-9/17034-868-hack.json"
-    },
-    {
-      "igdb_id": 216774,
-      "game_name": "8874",
-      "file": "missing/0-9/216774-8874.json"
     },
     {
       "igdb_id": 320544,
