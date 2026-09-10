@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T19:21:03.218Z",
-  "total_missing": 54963,
+  "generated_at": "2026-09-10T19:31:25.878Z",
+  "total_missing": 54962,
   "games": [
     {
       "igdb_id": 306086,
@@ -1641,11 +1641,6 @@
       "igdb_id": 338027,
       "game_name": "8Floor Bundle 4 in 1 Part 7",
       "file": "missing/0-9/338027-8floor-bundle-4-in-1-part-7.json"
-    },
-    {
-      "igdb_id": 31366,
-      "game_name": "8Infinity",
-      "file": "missing/0-9/31366-8infinity.json"
     },
     {
       "igdb_id": 333576,
