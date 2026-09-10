@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Gakuin R | 46613 | [46613-madou-gakuin-r.json](./46613-madou-gakuin-r.json) |
 | Madou Monogatari | 252164 | [252164-madou-monogatari.json](./252164-madou-monogatari.json) |
 | Madou Monogatari | 57675 | [57675-madou-monogatari.json](./57675-madou-monogatari.json) |
+| Madou Monogatari I: Honoo no Sotsuenji | 141807 | [141807-madou-monogatari-i-honoo-no-sotsuenji.json](./141807-madou-monogatari-i-honoo-no-sotsuenji.json) |
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mything | 381597 | [381597-mything.json](./381597-mything.json) |
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
+| Mython Island | 141840 | [141840-mython-island.json](./141840-mython-island.json) |
 | Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
 | Mythos Party | 153961 | [153961-mythos-party.json](./153961-mythos-party.json) |
 | Myths and Legends Bundle: Tunche & Black Book | 188026 | [188026-myths-and-legends-bundle-tunche-and-black-book.json](./188026-myths-and-legends-bundle-tunche-and-black-book.json) |
