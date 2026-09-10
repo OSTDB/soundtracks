@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digdig | 316611 | [316611-digdig.json](./316611-digdig.json) |
+| Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
@@ -2646,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
+| Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
 | Drowning Song of the Stagnant Sea | 370694 | [370694-drowning-song-of-the-stagnant-sea.json](./370694-drowning-song-of-the-stagnant-sea.json) |
 | Drudge | 388738 | [388738-drudge.json](./388738-drudge.json) |
@@ -2710,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dual! | 90676 | [90676-dual.json](./90676-dual.json) |
 | DualForce Idle | 183551 | [183551-dualforce-idle.json](./183551-dualforce-idle.json) |
 | Duality Paradox | 385566 | [385566-duality-paradox.json](./385566-duality-paradox.json) |
+| Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dubstep Abasralsa | 102407 | [102407-dubstep-abasralsa.json](./102407-dubstep-abasralsa.json) |
 | DubWars | 36348 | [36348-dubwars.json](./36348-dubwars.json) |
