@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backward Poiesis | 297776 | [297776-backward-poiesis.json](./297776-backward-poiesis.json) |
 | Backwards | 179176 | [179176-backwards.json](./179176-backwards.json) |
 | Backwards Mario World | 215150 | [215150-backwards-mario-world.json](./215150-backwards-mario-world.json) |
+| Backyard | 142423 | [142423-backyard.json](./142423-backyard.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
 | Backyard Hockey 2005 | 46638 | [46638-backyard-hockey-2005.json](./46638-backyard-hockey-2005.json) |
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
@@ -1072,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behoarder | 184617 | [184617-behoarder.json](./184617-behoarder.json) |
 | Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
 | Beholder: Conductor | 298041 | [298041-beholder-conductor.json](./298041-beholder-conductor.json) |
+| Beholgar | 142421 | [142421-beholgar.json](./142421-beholgar.json) |
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
@@ -1133,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Omni-Charge | 363892 | [363892-ben-10-omni-charge.json](./363892-ben-10-omni-charge.json) |
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
+| Ben 10: Savage Pursuit | 142388 | [142388-ben-10-savage-pursuit.json](./142388-ben-10-savage-pursuit.json) |
 | Ben 10: Vengeance of Vilgax | 206736 | [206736-ben-10-vengeance-of-vilgax.json](./206736-ben-10-vengeance-of-vilgax.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
@@ -1737,6 +1740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Dynamo | 209493 | [209493-blazing-dynamo.json](./209493-blazing-dynamo.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
 | Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
+| Blazing Snow | 142418 | [142418-blazing-snow.json](./142418-blazing-snow.json) |
 | Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
@@ -3040,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Sword Master | 109043 | [109043-bunny-sword-master.json](./109043-bunny-sword-master.json) |
+| Bunny's Flowers | 142422 | [142422-bunnys-flowers.json](./142422-bunnys-flowers.json) |
 | Bunny's Lie | 400863 | [400863-bunnys-lie.json](./400863-bunnys-lie.json) |
 | Bunny's Maze | 150605 | [150605-bunnys-maze.json](./150605-bunnys-maze.json) |
 | Bunny's Pizza Tycoon | 265394 | [265394-bunnys-pizza-tycoon.json](./265394-bunnys-pizza-tycoon.json) |
