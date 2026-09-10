@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Empire: Oceania | 225088 | [225088-shadow-empire-oceania.json](./225088-shadow-empire-oceania.json) |
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
+| Shadow Fear: Chapter 0 | 168856 | [168856-shadow-fear-chapter-0.json](./168856-shadow-fear-chapter-0.json) |
 | Shadow Fight 2: Special Edition | 68463 | [68463-shadow-fight-2-special-edition.json](./68463-shadow-fight-2-special-edition.json) |
 | Shadow Fight: Arena | 219604 | [219604-shadow-fight-arena.json](./219604-shadow-fight-arena.json) |
 | Shadow Gambit: Zagan's Ritual | 279542 | [279542-shadow-gambit-zagans-ritual.json](./279542-shadow-gambit-zagans-ritual.json) |
@@ -3298,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign Reign | 276171 | [276171-sovereign-reign.json](./276171-sovereign-reign.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
+| Sovietpunk: Chapter one | 168852 | [168852-sovietpunk-chapter-one.json](./168852-sovietpunk-chapter-one.json) |
 | SOVL: Ratkin Clans | 305773 | [305773-sovl-ratkin-clans.json](./305773-sovl-ratkin-clans.json) |
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
 | Sowon : The Toy Wonderland | 298579 | [298579-sowon-the-toy-wonderland.json](./298579-sowon-the-toy-wonderland.json) |
@@ -3382,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
 | Space Hole 2020 | 156675 | [156675-space-hole-2020.json](./156675-space-hole-2020.json) |
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
+| Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
@@ -3519,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceWrestler XL | 128610 | [128610-spacewrestler-xl.json](./128610-spacewrestler-xl.json) |
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
+| Spaghet 2: Al Dente Chapter | 168862 | [168862-spaghet-2-al-dente-chapter.json](./168862-spaghet-2-al-dente-chapter.json) |
 | Spam Text | 214196 | [214196-spam-text.json](./214196-spam-text.json) |
 | Spammerina | 309879 | [309879-spammerina.json](./309879-spammerina.json) |
 | Spangled | 243713 | [243713-spangled.json](./243713-spangled.json) |
