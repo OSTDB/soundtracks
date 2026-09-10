@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
 | Walking Simulator | 188052 | [188052-walking-simulator.json](./188052-walking-simulator.json) |
+| Walking With Beasts: Operation Salvage | 147898 | [147898-walking-with-beasts-operation-salvage.json](./147898-walking-with-beasts-operation-salvage.json) |
 | Walkover | 35787 | [35787-walkover.json](./35787-walkover.json) |
 | Walkure Romanze More & More | 194624 | [194624-walkure-romanze-more-and-more.json](./194624-walkure-romanze-more-and-more.json) |
 | Walkure Romanze Re:tell | 194625 | [194625-walkure-romanze-re-tell.json](./194625-walkure-romanze-re-tell.json) |
@@ -1213,6 +1214,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Boy | 5560 | [5560-wonder-boy.json](./5560-wonder-boy.json) |
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
+| Wonder Boy: Asha in Monster World Collector's Edition | 147917 | [147917-wonder-boy-asha-in-monster-world-collectors-edition.json](./147917-wonder-boy-asha-in-monster-world-collectors-edition.json) |
+| Wonder Boy: Asha in Monster World Limited Edition | 147920 | [147920-wonder-boy-asha-in-monster-world-limited-edition.json](./147920-wonder-boy-asha-in-monster-world-limited-edition.json) |
+| Wonder Boy: Asha in Monster World Mega Collector's Edition | 147910 | [147910-wonder-boy-asha-in-monster-world-mega-collectors-edition.json](./147910-wonder-boy-asha-in-monster-world-mega-collectors-edition.json) |
 | Wonder Defense: Chapter Earth | 166730 | [166730-wonder-defense-chapter-earth.json](./166730-wonder-defense-chapter-earth.json) |
 | Wonder Land | 216483 | [216483-wonder-land.json](./216483-wonder-land.json) |
 | Wonder Loop Village | 312548 | [312548-wonder-loop-village.json](./312548-wonder-loop-village.json) |
