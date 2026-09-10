@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T12:18:46.067Z",
-  "total_missing": 53751,
+  "generated_at": "2026-09-10T12:21:10.359Z",
+  "total_missing": 53750,
   "games": [
     {
       "igdb_id": 306086,
@@ -1426,11 +1426,6 @@
       "igdb_id": 3433,
       "game_name": "64 Oozumou",
       "file": "missing/0-9/3433-64-oozumou.json"
-    },
-    {
-      "igdb_id": 3434,
-      "game_name": "64 Oozumou 2",
-      "file": "missing/0-9/3434-64-oozumou-2.json"
     },
     {
       "igdb_id": 3435,
