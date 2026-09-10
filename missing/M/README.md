@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Wars | 366827 | [366827-meme-wars.json](./366827-meme-wars.json) |
 | Memento | 33176 | [33176-memento.json](./33176-memento.json) |
 | Memento Dawn | 262956 | [262956-memento-dawn.json](./262956-memento-dawn.json) |
+| Memento Mori | 139373 | [139373-memento-mori.json](./139373-memento-mori.json) |
 | Memento Mori | 28231 | [28231-memento-mori.json](./28231-memento-mori.json) |
 | Memento Mori 2 | 16529 | [16529-memento-mori-2.json](./16529-memento-mori-2.json) |
 | Memento Vivere | 161355 | [161355-memento-vivere.json](./161355-memento-vivere.json) |
@@ -1541,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
 | Merge Dotey | 226774 | [226774-merge-dotey.json](./226774-merge-dotey.json) |
 | Merge Duck 2 | 224001 | [224001-merge-duck-2.json](./224001-merge-duck-2.json) |
+| Merge Empires | 139379 | [139379-merge-empires.json](./139379-merge-empires.json) |
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
 | Merge Games Japan Best | 276454 | [276454-merge-games-japan-best.json](./276454-merge-games-japan-best.json) |
 | Merge Gangster Heist vs. Police | 245348 | [245348-merge-gangster-heist-vs-police.json](./245348-merge-gangster-heist-vs-police.json) |
@@ -1921,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
+| Mighty forest | 139364 | [139364-mighty-forest.json](./139364-mighty-forest.json) |
 | Mighty Gunvolt | 28950 | [28950-mighty-gunvolt.json](./28950-mighty-gunvolt.json) |
 | Mighty Gunvolt Burst | 29143 | [29143-mighty-gunvolt-burst.json](./29143-mighty-gunvolt-burst.json) |
 | Mighty Gunvolt Burst: Character Set - Rivals | 225906 | [225906-mighty-gunvolt-burst-character-set-rivals.json](./225906-mighty-gunvolt-burst-character-set-rivals.json) |
