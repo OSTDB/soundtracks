@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
+| Haste | 167266 | [167266-haste.json](./167266-haste.json) |
 | Hastilude | 33127 | [33127-hastilude.json](./33127-hastilude.json) |
 | Hat Trick Hero 2 | 38332 | [38332-hat-trick-hero-2.json](./38332-hat-trick-hero-2.json) |
 | Hat Tricks: Hare in Box | 229054 | [229054-hat-tricks-hare-in-box.json](./229054-hat-tricks-hare-in-box.json) |
@@ -2063,6 +2064,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
+| Hyperdimension Neptunia Re;Birth1: Additional Content 1 | 167238 | [167238-hyperdimension-neptunia-re-birth1-additional-content-1.json](./167238-hyperdimension-neptunia-re-birth1-additional-content-1.json) |
+| Hyperdimension Neptunia Re;Birth1: Additional Content 2 | 167240 | [167240-hyperdimension-neptunia-re-birth1-additional-content-2.json](./167240-hyperdimension-neptunia-re-birth1-additional-content-2.json) |
+| Hyperdimension Neptunia Re;Birth1: Additional Content 3 | 167234 | [167234-hyperdimension-neptunia-re-birth1-additional-content-3.json](./167234-hyperdimension-neptunia-re-birth1-additional-content-3.json) |
+| Hyperdimension Neptunia Re;Birth1: Colosseum + Characters DLC | 167237 | [167237-hyperdimension-neptunia-re-birth1-colosseum-characters-dlc.json](./167237-hyperdimension-neptunia-re-birth1-colosseum-characters-dlc.json) |
+| Hyperdimension Neptunia Re;Birth1: Fairy Fencer F Collaboration | 167232 | [167232-hyperdimension-neptunia-re-birth1-fairy-fencer-f-collaboration.json](./167232-hyperdimension-neptunia-re-birth1-fairy-fencer-f-collaboration.json) |
+| Hyperdimension Neptunia Re;Birth1: Giant Island Dungeon | 167229 | [167229-hyperdimension-neptunia-re-birth1-giant-island-dungeon.json](./167229-hyperdimension-neptunia-re-birth1-giant-island-dungeon.json) |
+| Hyperdimension Neptunia Re;Birth1: Histoire Battle Entry | 167233 | [167233-hyperdimension-neptunia-re-birth1-histoire-battle-entry.json](./167233-hyperdimension-neptunia-re-birth1-histoire-battle-entry.json) |
+| Hyperdimension Neptunia Re;Birth1: Lily-ad Dungeon | 167231 | [167231-hyperdimension-neptunia-re-birth1-lily-ad-dungeon.json](./167231-hyperdimension-neptunia-re-birth1-lily-ad-dungeon.json) |
+| Hyperdimension Neptunia Re;Birth1: Mini Island | 167228 | [167228-hyperdimension-neptunia-re-birth1-mini-island.json](./167228-hyperdimension-neptunia-re-birth1-mini-island.json) |
+| Hyperdimension Neptunia Re;Birth1: Pain Terrain | 167227 | [167227-hyperdimension-neptunia-re-birth1-pain-terrain.json](./167227-hyperdimension-neptunia-re-birth1-pain-terrain.json) |
+| Hyperdimension Neptunia Re;Birth1: Plutia Battle Entry | 167236 | [167236-hyperdimension-neptunia-re-birth1-plutia-battle-entry.json](./167236-hyperdimension-neptunia-re-birth1-plutia-battle-entry.json) |
+| Hyperdimension Neptunia Re;Birth1: Shares Quests | 167235 | [167235-hyperdimension-neptunia-re-birth1-shares-quests.json](./167235-hyperdimension-neptunia-re-birth1-shares-quests.json) |
+| Hyperdimension Neptunia Re;Birth1: Tag Along DLC | 167230 | [167230-hyperdimension-neptunia-re-birth1-tag-along-dlc.json](./167230-hyperdimension-neptunia-re-birth1-tag-along-dlc.json) |
+| Hyperdimension Neptunia Re;Birth1: Uzume Battle Entry | 167239 | [167239-hyperdimension-neptunia-re-birth1-uzume-battle-entry.json](./167239-hyperdimension-neptunia-re-birth1-uzume-battle-entry.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 1 | 224216 | [224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json](./224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 2 | 224217 | [224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json](./224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 3 | 224218 | [224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json](./224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json) |
