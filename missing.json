@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T14:18:54.894Z",
-  "total_missing": 54017,
+  "generated_at": "2026-09-10T14:21:07.829Z",
+  "total_missing": 54016,
   "games": [
     {
       "igdb_id": 306086,
@@ -1486,11 +1486,6 @@
       "igdb_id": 353299,
       "game_name": "7 Days to Die: The Marauder Armor Set",
       "file": "missing/0-9/353299-7-days-to-die-the-marauder-armor-set.json"
-    },
-    {
-      "igdb_id": 293940,
-      "game_name": "7 Hills of Rome: Mahjong",
-      "file": "missing/0-9/293940-7-hills-of-rome-mahjong.json"
     },
     {
       "igdb_id": 210898,
