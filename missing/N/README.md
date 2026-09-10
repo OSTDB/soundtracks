@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
+| Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
 | Necromunda: Underhive Wars - Cawdor Gang | 162858 | [162858-necromunda-underhive-wars-cawdor-gang.json](./162858-necromunda-underhive-wars-cawdor-gang.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
 | Night Intruders | 184089 | [184089-night-intruders.json](./184089-night-intruders.json) |
 | Night is Coming: Wrath of the Woods | 336551 | [336551-night-is-coming-wrath-of-the-woods.json](./336551-night-is-coming-wrath-of-the-woods.json) |
+| Night Light: Nightmare | 156187 | [156187-night-light-nightmare.json](./156187-night-light-nightmare.json) |
 | Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
 | Night of Full Moon: Apothecary's Blessing | 170462 | [170462-night-of-full-moon-apothecarys-blessing.json](./170462-night-of-full-moon-apothecarys-blessing.json) |
 | Night of Full Moon: Choice of Carpenter | 170463 | [170463-night-of-full-moon-choice-of-carpenter.json](./170463-night-of-full-moon-choice-of-carpenter.json) |
