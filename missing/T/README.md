@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
 | The DeadLine | 377590 | [377590-the-deadline.json](./377590-the-deadline.json) |
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
+| The Death Into Trouble | 151125 | [151125-the-death-into-trouble.json](./151125-the-death-into-trouble.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
 | The Deceived Man | 310421 | [310421-the-deceived-man.json](./310421-the-deceived-man.json) |
@@ -1756,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
+| The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
@@ -1891,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
+| The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Horror Within | 255712 | [255712-the-horror-within.json](./255712-the-horror-within.json) |
@@ -2861,6 +2864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Bundle Pack 3 | 159327 | [159327-the-sims-4-bundle-pack-3.json](./159327-the-sims-4-bundle-pack-3.json) |
 | The Sims 4: Bundle Pack 4 | 159328 | [159328-the-sims-4-bundle-pack-4.json](./159328-the-sims-4-bundle-pack-4.json) |
 | The Sims 4: Bundle Pack 6 | 159329 | [159329-the-sims-4-bundle-pack-6.json](./159329-the-sims-4-bundle-pack-6.json) |
+| The Sims 4: Bust the Dust Kit | 151112 | [151112-the-sims-4-bust-the-dust-kit.json](./151112-the-sims-4-bust-the-dust-kit.json) |
 | The Sims 4: City Living | 25321 | [25321-the-sims-4-city-living.json](./25321-the-sims-4-city-living.json) |
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
@@ -3007,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
+| The Sundew | 151150 | [151150-the-sundew.json](./151150-the-sundew.json) |
 | The Super Adventure of John | 388058 | [388058-the-super-adventure-of-john.json](./388058-the-super-adventure-of-john.json) |
 | The Super Mario Bros. Movie 64 DS | 270380 | [270380-the-super-mario-bros-movie-64-ds.json](./270380-the-super-mario-bros-movie-64-ds.json) |
 | The Super Mario Bros. Super Literature Club! | 294438 | [294438-the-super-mario-bros-super-literature-club.json](./294438-the-super-mario-bros-super-literature-club.json) |
@@ -4697,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
 | Touch My Katamari | 6462 | [6462-touch-my-katamari.json](./6462-touch-my-katamari.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
+| Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
@@ -5259,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
 | Trap Trek: Ultimate Other Me | 293619 | [293619-trap-trek-ultimate-other-me.json](./293619-trap-trek-ultimate-other-me.json) |
+| Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
 | Trapped Beast | 339106 | [339106-trapped-beast.json](./339106-trapped-beast.json) |
 | Trapped Dead: Lockdown | 17508 | [17508-trapped-dead-lockdown.json](./17508-trapped-dead-lockdown.json) |
