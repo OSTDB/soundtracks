@@ -3825,6 +3825,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Volcano MP004 | 160377 | [160377-tiger-tank-59-i-volcano-mp004.json](./160377-tiger-tank-59-i-volcano-mp004.json) |
 | Tiger Tank 59 I: Volcano MP024 | 160397 | [160397-tiger-tank-59-i-volcano-mp024.json](./160397-tiger-tank-59-i-volcano-mp024.json) |
 | Tiger Tank 59 I: Volcano MP029 | 160385 | [160385-tiger-tank-59-i-volcano-mp029.json](./160385-tiger-tank-59-i-volcano-mp029.json) |
+| Tiger Tank 59 I: Volcano MP036 | 163935 | [163935-tiger-tank-59-i-volcano-mp036.json](./163935-tiger-tank-59-i-volcano-mp036.json) |
+| Tiger Tank 59 I: Volcano MP037 | 163926 | [163926-tiger-tank-59-i-volcano-mp037.json](./163926-tiger-tank-59-i-volcano-mp037.json) |
+| Tiger Tank 59 I: Volcano MP038 | 163929 | [163929-tiger-tank-59-i-volcano-mp038.json](./163929-tiger-tank-59-i-volcano-mp038.json) |
+| Tiger Tank 59 I: Volcano MP039 | 163931 | [163931-tiger-tank-59-i-volcano-mp039.json](./163931-tiger-tank-59-i-volcano-mp039.json) |
+| Tiger Tank 59 I: Volcano MP040 | 163934 | [163934-tiger-tank-59-i-volcano-mp040.json](./163934-tiger-tank-59-i-volcano-mp040.json) |
+| Tiger Tank 59 I: Volcano MP041 | 163936 | [163936-tiger-tank-59-i-volcano-mp041.json](./163936-tiger-tank-59-i-volcano-mp041.json) |
+| Tiger Tank 59 I: Volcano MP042 | 163932 | [163932-tiger-tank-59-i-volcano-mp042.json](./163932-tiger-tank-59-i-volcano-mp042.json) |
+| Tiger Tank 59 I: Volcano MP043 | 163940 | [163940-tiger-tank-59-i-volcano-mp043.json](./163940-tiger-tank-59-i-volcano-mp043.json) |
+| Tiger Tank 59 I: Volcano MP044 | 163930 | [163930-tiger-tank-59-i-volcano-mp044.json](./163930-tiger-tank-59-i-volcano-mp044.json) |
+| Tiger Tank 59 I: Volcano MP045 | 163928 | [163928-tiger-tank-59-i-volcano-mp045.json](./163928-tiger-tank-59-i-volcano-mp045.json) |
+| Tiger Tank 59 I: Volcano MP046 | 163939 | [163939-tiger-tank-59-i-volcano-mp046.json](./163939-tiger-tank-59-i-volcano-mp046.json) |
+| Tiger Tank 59 I: Volcano MP047 | 163938 | [163938-tiger-tank-59-i-volcano-mp047.json](./163938-tiger-tank-59-i-volcano-mp047.json) |
+| Tiger Tank 59 I: Volcano MP048 | 163933 | [163933-tiger-tank-59-i-volcano-mp048.json](./163933-tiger-tank-59-i-volcano-mp048.json) |
+| Tiger Tank 59 I: Volcano MP049 | 163937 | [163937-tiger-tank-59-i-volcano-mp049.json](./163937-tiger-tank-59-i-volcano-mp049.json) |
+| Tiger Tank 59 I: Volcano MP050 | 163927 | [163927-tiger-tank-59-i-volcano-mp050.json](./163927-tiger-tank-59-i-volcano-mp050.json) |
 | Tiger Tank 59 I: Winter Assault MP006 | 160369 | [160369-tiger-tank-59-i-winter-assault-mp006.json](./160369-tiger-tank-59-i-winter-assault-mp006.json) |
 | Tiger Tank 59 I: Winter Assault MP024 | 160359 | [160359-tiger-tank-59-i-winter-assault-mp024.json](./160359-tiger-tank-59-i-winter-assault-mp024.json) |
 | Tiger Tank 59 I: Winter Assault MP062 | 173761 | [173761-tiger-tank-59-i-winter-assault-mp062.json](./173761-tiger-tank-59-i-winter-assault-mp062.json) |
