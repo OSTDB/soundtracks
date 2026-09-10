@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ortharion: The Last Battle | 193444 | [193444-ortharion-the-last-battle.json](./193444-ortharion-the-last-battle.json) |
 | Ortho | 152322 | [152322-ortho.json](./152322-ortho.json) |
 | Ortunia Mysteries: Where Did Everybody Go? | 323519 | [323519-ortunia-mysteries-where-did-everybody-go.json](./323519-ortunia-mysteries-where-did-everybody-go.json) |
+| Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
 | Osawari Hockey Enko-chan | 235769 | [235769-osawari-hockey-enko-chan.json](./235769-osawari-hockey-enko-chan.json) |
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
@@ -1064,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outwitters | 167852 | [167852-outwitters.json](./167852-outwitters.json) |
 | Outworld | 287102 | [287102-outworld.json](./287102-outworld.json) |
 | Outworld Battlegrounds | 111037 | [111037-outworld-battlegrounds.json](./111037-outworld-battlegrounds.json) |
+| Ova Magica | 138211 | [138211-ova-magica.json](./138211-ova-magica.json) |
 | Oven Dodgers | 281395 | [281395-oven-dodgers.json](./281395-oven-dodgers.json) |
 | Over Engineered | 406076 | [406076-over-engineered.json](./406076-over-engineered.json) |
 | Over Hazed | 193997 | [193997-over-hazed.json](./193997-over-hazed.json) |
