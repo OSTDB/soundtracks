@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T03:51:15.309Z",
-  "total_missing": 52849,
+  "generated_at": "2026-09-10T04:01:21.576Z",
+  "total_missing": 52854,
   "games": [
     {
       "igdb_id": 306086,
@@ -1271,11 +1271,6 @@
       "igdb_id": 312887,
       "game_name": "3x3",
       "file": "missing/0-9/312887-3x3.json"
-    },
-    {
-      "igdb_id": 73304,
-      "game_name": "3x3 Eyes: Tenrin-ou Genmu",
-      "file": "missing/0-9/73304-3x3-eyes-tenrin-ou-genmu.json"
     },
     {
       "igdb_id": 312889,
@@ -82596,6 +82591,36 @@
       "igdb_id": 270660,
       "game_name": "Friday the 13th RPG: A Fan Game",
       "file": "missing/F/270660-friday-the-13th-rpg-a-fan-game.json"
+    },
+    {
+      "igdb_id": 163476,
+      "game_name": "Friday the 13th: Killer Puzzle - Cyber Jason",
+      "file": "missing/F/163476-friday-the-13th-killer-puzzle-cyber-jason.json"
+    },
+    {
+      "igdb_id": 163472,
+      "game_name": "Friday the 13th: Killer Puzzle - Episode 11: Knightmare",
+      "file": "missing/F/163472-friday-the-13th-killer-puzzle-episode-11-knightmare.json"
+    },
+    {
+      "igdb_id": 163471,
+      "game_name": "Friday the 13th: Killer Puzzle - Episode 3: Winter Kills",
+      "file": "missing/F/163471-friday-the-13th-killer-puzzle-episode-3-winter-kills.json"
+    },
+    {
+      "igdb_id": 163475,
+      "game_name": "Friday the 13th: Killer Puzzle - Episode 4: Imaskny",
+      "file": "missing/F/163475-friday-the-13th-killer-puzzle-episode-4-imaskny.json"
+    },
+    {
+      "igdb_id": 163474,
+      "game_name": "Friday the 13th: Killer Puzzle - Flaming Jason",
+      "file": "missing/F/163474-friday-the-13th-killer-puzzle-flaming-jason.json"
+    },
+    {
+      "igdb_id": 163473,
+      "game_name": "Friday the 13th: Killer Puzzle - Toxic Jason",
+      "file": "missing/F/163473-friday-the-13th-killer-puzzle-toxic-jason.json"
     },
     {
       "igdb_id": 224244,
