@@ -918,6 +918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales Vol. 2: Hitomi and Sea Trip | 277309 | [277309-hentai-tales-vol-2-hitomi-and-sea-trip.json](./277309-hentai-tales-vol-2-hitomi-and-sea-trip.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
+| Hentai Waifu 101 | 156098 | [156098-hentai-waifu-101.json](./156098-hentai-waifu-101.json) |
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai World: Definitive Edition | 259578 | [259578-hentai-world-definitive-edition.json](./259578-hentai-world-definitive-edition.json) |
@@ -2002,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
 | Hunter Island: Monsters & Dragons | 200113 | [200113-hunter-island-monsters-and-dragons.json](./200113-hunter-island-monsters-and-dragons.json) |
+| Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 2 Phinks | 375152 | [375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json](./375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 3 Shizuku | 375153 | [375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json](./375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json) |
