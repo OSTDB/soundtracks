@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Storm: Sentinels | 10845 | [10845-silent-storm-sentinels.json](./10845-silent-storm-sentinels.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
+| Silent Woods: the Cleansed | 150626 | [150626-silent-woods-the-cleansed.json](./150626-silent-woods-the-cleansed.json) |
 | Silentium 2D | 106578 | [106578-silentium-2d.json](./106578-silentium-2d.json) |
 | Silfade Gensoutan | 249769 | [249769-silfade-gensoutan.json](./249769-silfade-gensoutan.json) |
 | Silhouette | 31378 | [31378-silhouette.json](./31378-silhouette.json) |
@@ -2132,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
+| Skinwalkers | 150625 | [150625-skinwalkers.json](./150625-skinwalkers.json) |
 | Skinwalkers Valley | 379339 | [379339-skinwalkers-valley.json](./379339-skinwalkers-valley.json) |
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
@@ -2807,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokotale | 141851 | [141851-sokotale.json](./141851-sokotale.json) |
 | Sokowand | 335261 | [335261-sokowand.json](./335261-sokowand.json) |
 | Sol and the Endless Orbit | 375825 | [375825-sol-and-the-endless-orbit.json](./375825-sol-and-the-endless-orbit.json) |
+| Sol Blanka | 150613 | [150613-sol-blanka.json](./150613-sol-blanka.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol Raiders | 188554 | [188554-sol-raiders.json](./188554-sol-raiders.json) |
 | Sol Source Online | 26718 | [26718-sol-source-online.json](./26718-sol-source-online.json) |
