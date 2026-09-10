@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
 | Dead Stride | 399626 | [399626-dead-stride.json](./399626-dead-stride.json) |
+| Dead Survival | 153979 | [153979-dead-survival.json](./153979-dead-survival.json) |
 | Dead Synchronicity: Tomorrow Comes Today | 11398 | [11398-dead-synchronicity-tomorrow-comes-today.json](./11398-dead-synchronicity-tomorrow-comes-today.json) |
 | Dead Town Tales | 235209 | [235209-dead-town-tales.json](./235209-dead-town-tales.json) |
 | Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Deluxe Edition | 188021 | [188021-deep-rock-galactic-deluxe-edition.json](./188021-deep-rock-galactic-deluxe-edition.json) |
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
+| Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
 | Deep Sea Arena | 344350 | [344350-deep-sea-arena.json](./344350-deep-sea-arena.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
@@ -1158,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
+| Despair: Blood Curse | 153951 | [153951-despair-blood-curse.json](./153951-despair-blood-curse.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Desperate: Vladivostok | 206720 | [206720-desperate-vladivostok.json](./206720-desperate-vladivostok.json) |
@@ -1812,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
 | Dog Duty | 45884 | [45884-dog-duty.json](./45884-dog-duty.json) |
+| Dog Eat Dog: Scam to Survive | 153968 | [153968-dog-eat-dog-scam-to-survive.json](./153968-dog-eat-dog-scam-to-survive.json) |
 | Dog Fight Super Ultra Deluxe | 109647 | [109647-dog-fight-super-ultra-deluxe.json](./109647-dog-fight-super-ultra-deluxe.json) |
 | Dog Galore | 181927 | [181927-dog-galore.json](./181927-dog-galore.json) |
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
@@ -1858,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Dollmaker | 246651 | [246651-doki-doki-dollmaker.json](./246651-doki-doki-dollmaker.json) |
 | Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
+| Doki Doki First Love Club! | 153950 | [153950-doki-doki-first-love-club.json](./153950-doki-doki-first-love-club.json) |
 | Doki Doki Indian Man Time | 333919 | [333919-doki-doki-indian-man-time.json](./333919-doki-doki-indian-man-time.json) |
 | Doki Doki Literature Club | 309582 | [309582-doki-doki-literature-club.json](./309582-doki-doki-literature-club.json) |
 | Doki Doki Literature Club Plus! | 152122 | [152122-doki-doki-literature-club-plus.json](./152122-doki-doki-literature-club-plus.json) |
@@ -1967,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Open This Book | 336524 | [336524-dont-open-this-book.json](./336524-dont-open-this-book.json) |
 | Don't Pause Game! | 389988 | [389988-dont-pause-game.json](./389988-dont-pause-game.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
+| Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
 | Don't Touch My Teddy Bear | 62772 | [62772-dont-touch-my-teddy-bear.json](./62772-dont-touch-my-teddy-bear.json) |
 | Don't Touch Red!! | 246970 | [246970-dont-touch-red.json](./246970-dont-touch-red.json) |
@@ -3001,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
 | Dungeons of Paint | 351002 | [351002-dungeons-of-paint.json](./351002-dungeons-of-paint.json) |
 | Dungeons of Shalnor | 187480 | [187480-dungeons-of-shalnor.json](./187480-dungeons-of-shalnor.json) |
+| Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
 | Dungeons, Dungeons and more... Dice? | 361724 | [361724-dungeons-dungeons-and-more-dice.json](./361724-dungeons-dungeons-and-more-dice.json) |
 | Dungeons: The Dark Lord | 8850 | [8850-dungeons-the-dark-lord.json](./8850-dungeons-the-dark-lord.json) |
 | DungeonSlime | 195708 | [195708-dungeonslime.json](./195708-dungeonslime.json) |
