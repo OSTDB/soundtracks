@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T04:01:21.576Z",
-  "total_missing": 52854,
+  "generated_at": "2026-09-10T04:11:20.273Z",
+  "total_missing": 52860,
   "games": [
     {
       "igdb_id": 306086,
@@ -1276,11 +1276,6 @@
       "igdb_id": 312889,
       "game_name": "3x3: Take Two",
       "file": "missing/0-9/312889-3x3-take-two.json"
-    },
-    {
-      "igdb_id": 128611,
-      "game_name": "3x3x3: A Mermaid's Tale",
-      "file": "missing/0-9/128611-3x3x3-a-mermaids-tale.json"
     },
     {
       "igdb_id": 262058,
@@ -82616,6 +82611,11 @@
       "igdb_id": 163474,
       "game_name": "Friday the 13th: Killer Puzzle - Flaming Jason",
       "file": "missing/F/163474-friday-the-13th-killer-puzzle-flaming-jason.json"
+    },
+    {
+      "igdb_id": 163470,
+      "game_name": "Friday the 13th: Killer Puzzle - Retro Jason",
+      "file": "missing/F/163470-friday-the-13th-killer-puzzle-retro-jason.json"
     },
     {
       "igdb_id": 163473,
@@ -166673,6 +166673,31 @@
       "file": "missing/P/337110-please-stop-crying-terrible-twos.json"
     },
     {
+      "igdb_id": 163468,
+      "game_name": "Pleasure Puzzle:Workshop - Part 1",
+      "file": "missing/P/163468-pleasure-puzzle-workshop-part-1.json"
+    },
+    {
+      "igdb_id": 163467,
+      "game_name": "Pleasure Puzzle:Workshop - Part 2",
+      "file": "missing/P/163467-pleasure-puzzle-workshop-part-2.json"
+    },
+    {
+      "igdb_id": 163466,
+      "game_name": "Pleasure Puzzle:Workshop - Part 3",
+      "file": "missing/P/163466-pleasure-puzzle-workshop-part-3.json"
+    },
+    {
+      "igdb_id": 163469,
+      "game_name": "Pleasure Puzzle:Workshop - Part 4",
+      "file": "missing/P/163469-pleasure-puzzle-workshop-part-4.json"
+    },
+    {
+      "igdb_id": 163465,
+      "game_name": "Pleasure Puzzle:Workshop - Part 5",
+      "file": "missing/P/163465-pleasure-puzzle-workshop-part-5.json"
+    },
+    {
       "igdb_id": 325246,
       "game_name": "Pleasuredrome",
       "file": "missing/P/325246-pleasuredrome.json"
@@ -173376,6 +173401,11 @@
       "igdb_id": 163462,
       "game_name": "Puzzle: Birds - Puzzle Pack: 10 Birds",
       "file": "missing/P/163462-puzzle-birds-puzzle-pack-10-birds.json"
+    },
+    {
+      "igdb_id": 163464,
+      "game_name": "Puzzle: Cats & Dogs - Puzzle Pack: Summer Cats",
+      "file": "missing/P/163464-puzzle-cats-and-dogs-puzzle-pack-summer-cats.json"
     },
     {
       "igdb_id": 163463,
