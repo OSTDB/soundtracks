@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pengo | 270415 | [270415-pengo.json](./270415-pengo.json) |
 | PengPong | 345506 | [345506-pengpong.json](./345506-pengpong.json) |
 | Pengu | 177520 | [177520-pengu.json](./177520-pengu.json) |
+| Penguin Cafe | 132184 | [132184-penguin-cafe.json](./132184-penguin-cafe.json) |
 | Penguin Chat 2 | 353302 | [353302-penguin-chat-2.json](./353302-penguin-chat-2.json) |
 | Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
@@ -913,9 +914,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasmat: The Dread of Oakville | 101551 | [101551-phantasmat-the-dread-of-oakville.json](./101551-phantasmat-the-dread-of-oakville.json) |
 | Phantasy Series Reference Opus | 285442 | [285442-phantasy-series-reference-opus.json](./285442-phantasy-series-reference-opus.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
+| Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
 | Phantasy Star Online 2: Helga Pack | 225867 | [225867-phantasy-star-online-2-helga-pack.json](./225867-phantasy-star-online-2-helga-pack.json) |
 | Phantasy Star Online 2: Howzer Pack | 225863 | [225863-phantasy-star-online-2-howzer-pack.json](./225863-phantasy-star-online-2-howzer-pack.json) |
+| Phantasy Star Online 2: Sonic Collaboration Edition | 132156 | [132156-phantasy-star-online-2-sonic-collaboration-edition.json](./132156-phantasy-star-online-2-sonic-collaboration-edition.json) |
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
 | PhantazmA | 125429 | [125429-phantazma.json](./125429-phantazma.json) |
 | Phantom | 258994 | [258994-phantom.json](./258994-phantom.json) |
@@ -2473,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
+| Pro Deer Hunting | 132159 | [132159-pro-deer-hunting.json](./132159-pro-deer-hunting.json) |
 | Pro Evolution Soccer 2010 | 240462 | [240462-pro-evolution-soccer-2010.json](./240462-pro-evolution-soccer-2010.json) |
 | Pro Evolution Soccer 2011 | 240463 | [240463-pro-evolution-soccer-2011.json](./240463-pro-evolution-soccer-2011.json) |
 | Pro Evolution Soccer 2011 | 240464 | [240464-pro-evolution-soccer-2011.json](./240464-pro-evolution-soccer-2011.json) |
@@ -2608,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Epic | 324096 | [324096-project-epic.json](./324096-project-epic.json) |
 | Project Ethos | 317864 | [317864-project-ethos.json](./317864-project-ethos.json) |
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
+| Project Exhibited | 132216 | [132216-project-exhibited.json](./132216-project-exhibited.json) |
 | Project Fireball | 258458 | [258458-project-fireball.json](./258458-project-fireball.json) |
 | Project Genesis | 114409 | [114409-project-genesis.json](./114409-project-genesis.json) |
 | Project Genom | 24907 | [24907-project-genom.json](./24907-project-genom.json) |
@@ -2832,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
+| PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
