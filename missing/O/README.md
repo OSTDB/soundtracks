@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Thousand and One Days | 182969 | [182969-one-thousand-and-one-days.json](./182969-one-thousand-and-one-days.json) |
 | One to Three: Sovereignty | 182998 | [182998-one-to-three-sovereignty.json](./182998-one-to-three-sovereignty.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
+| One Try, One Kill | 151121 | [151121-one-try-one-kill.json](./151121-one-try-one-kill.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
 | One Vacancy | 184039 | [184039-one-vacancy.json](./184039-one-vacancy.json) |
 | One Way Heroics Plus | 147990 | [147990-one-way-heroics-plus.json](./147990-one-way-heroics-plus.json) |
@@ -748,11 +749,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oral Lessons With Chii-chan | 254753 | [254753-oral-lessons-with-chii-chan.json](./254753-oral-lessons-with-chii-chan.json) |
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
+| Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
 | Orb Boy | 180184 | [180184-orb-boy.json](./180184-orb-boy.json) |
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
 | Orb Of The Watcher | 285969 | [285969-orb-of-the-watcher.json](./285969-orb-of-the-watcher.json) |
+| Orb Overload | 151146 | [151146-orb-overload.json](./151146-orb-overload.json) |
 | Orb's Betrayal | 271732 | [271732-orbs-betrayal.json](./271732-orbs-betrayal.json) |
 | Orbatak | 217881 | [217881-orbatak.json](./217881-orbatak.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
