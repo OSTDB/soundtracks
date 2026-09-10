@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educational and Learning Bundle: 5 in 1 | 192409 | [192409-educational-and-learning-bundle-5-in-1.json](./192409-educational-and-learning-bundle-5-in-1.json) |
 | Educational Games for Kids | 147919 | [147919-educational-games-for-kids.json](./147919-educational-games-for-kids.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
+| EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
@@ -444,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Beat Zombygons | 184659 | [184659-elite-beat-zombygons.json](./184659-elite-beat-zombygons.json) |
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
+| Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
 | Ella Stars | 334127 | [334127-ella-stars.json](./334127-ella-stars.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
@@ -1064,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
 | Euro Truck Simulator 2: Heart of Russia | 165013 | [165013-euro-truck-simulator-2-heart-of-russia.json](./165013-euro-truck-simulator-2-heart-of-russia.json) |
+| Euro Truck Simulator 2: Iberia | 145585 | [145585-euro-truck-simulator-2-iberia.json](./145585-euro-truck-simulator-2-iberia.json) |
 | Euro Truck Simulator 2: Modern Lines Paint Jobs Pack | 266243 | [266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json](./266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json) |
 | Euro Truck Simulator 2: Renault Trucks E-Tech T | 311995 | [311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json](./311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
