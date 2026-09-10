@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Chai Wala | 341313 | [341313-railway-chai-wala.json](./341313-railway-chai-wala.json) |
 | Railway Company Owner | 239658 | [239658-railway-company-owner.json](./239658-railway-company-owner.json) |
 | Railway Empire 2: India | 317818 | [317818-railway-empire-2-india.json](./317818-railway-empire-2-india.json) |
+| Railway Empire: Complete Collection | 139950 | [139950-railway-empire-complete-collection.json](./139950-railway-empire-complete-collection.json) |
 | Railway Empire: Great Britain & Ireland | 124808 | [124808-railway-empire-great-britain-and-ireland.json](./124808-railway-empire-great-britain-and-ireland.json) |
 | Railway Empire: Nintendo Switch Edition | 126484 | [126484-railway-empire-nintendo-switch-edition.json](./126484-railway-empire-nintendo-switch-edition.json) |
 | Railway Empire: The Great Lakes | 124834 | [124834-railway-empire-the-great-lakes.json](./124834-railway-empire-the-great-lakes.json) |
@@ -369,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
+| Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
@@ -871,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
 | Remote Planets | 224766 | [224766-remote-planets.json](./224766-remote-planets.json) |
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
+| Remothered: Tormented Fathers & Broken Porcelain - Double Pack | 139977 | [139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json](./139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json) |
 | Removed | 128631 | [128631-removed.json](./128631-removed.json) |
 | Remute: Electronic Deathstyle | 321794 | [321794-remute-electronic-deathstyle.json](./321794-remute-electronic-deathstyle.json) |
 | Remute: Electronic Lifestyle | 321790 | [321790-remute-electronic-lifestyle.json](./321790-remute-electronic-lifestyle.json) |
