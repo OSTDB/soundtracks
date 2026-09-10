@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
 | Nyan to Wonderful | 143674 | [143674-nyan-to-wonderful.json](./143674-nyan-to-wonderful.json) |
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
+| Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
 | Nyasha Land of Elves | 116945 | [116945-nyasha-land-of-elves.json](./116945-nyasha-land-of-elves.json) |
 | Nyassembled! | 332979 | [332979-nyassembled.json](./332979-nyassembled.json) |
 | Nyctophilia | 34424 | [34424-nyctophilia.json](./34424-nyctophilia.json) |
