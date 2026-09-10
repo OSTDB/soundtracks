@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
 | Icarus Online | 62770 | [62770-icarus-online.json](./62770-icarus-online.json) |
+| Icarus: Alien Vanguard | 140513 | [140513-icarus-alien-vanguard.json](./140513-icarus-alien-vanguard.json) |
 | Icarus: Climb to Olympus | 329581 | [329581-icarus-climb-to-olympus.json](./329581-icarus-climb-to-olympus.json) |
 | Icarus: Styx Map Pack | 204686 | [204686-icarus-styx-map-pack.json](./204686-icarus-styx-map-pack.json) |
 | Icarus.1 | 25947 | [25947-icarus-1.json](./25947-icarus-1.json) |
