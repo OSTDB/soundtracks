@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandwich | 352206 | [352206-sandwich.json](./352206-sandwich.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sangoku Hime 2 | 63301 | [63301-sangoku-hime-2.json](./63301-sangoku-hime-2.json) |
+| Sangoku Rensenki ~Omoidegaeshi~ CS Edition | 135856 | [135856-sangoku-rensenki-omoidegaeshi-cs-edition.json](./135856-sangoku-rensenki-omoidegaeshi-cs-edition.json) |
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
@@ -827,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cat Forest | 206930 | [206930-secret-cat-forest.json](./206930-secret-cat-forest.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
+| Secret Collect. | 135848 | [135848-secret-collect.json](./135848-secret-collect.json) |
 | Secret Crossing | 225647 | [225647-secret-crossing.json](./225647-secret-crossing.json) |
 | Secret Empires of the Ancient World | 84857 | [84857-secret-empires-of-the-ancient-world.json](./84857-secret-empires-of-the-ancient-world.json) |
 | Secret Forest | 295277 | [295277-secret-forest.json](./295277-secret-forest.json) |
@@ -2255,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
 | Skycity | 274216 | [274216-skycity.json](./274216-skycity.json) |
 | Skycliffs | 190727 | [190727-skycliffs.json](./190727-skycliffs.json) |
+| Skyclimbers | 135823 | [135823-skyclimbers.json](./135823-skyclimbers.json) |
 | Skydance's Behemoth: Rites of Wrath | 347154 | [347154-skydances-behemoth-rites-of-wrath.json](./347154-skydances-behemoth-rites-of-wrath.json) |
 | SkyDive Racer | 233756 | [233756-skydive-racer.json](./233756-skydive-racer.json) |
 | Skydivers Paradise | 319941 | [319941-skydivers-paradise.json](./319941-skydivers-paradise.json) |
@@ -2568,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smoke Break! | 344359 | [344359-smoke-break.json](./344359-smoke-break.json) |
+| Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
 | Smoking Guns: Shooting Gallery! | 77382 | [77382-smoking-guns-shooting-gallery.json](./77382-smoking-guns-shooting-gallery.json) |
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
 | Smoking Simulator | 276168 | [276168-smoking-simulator.json](./276168-smoking-simulator.json) |
@@ -4005,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob in Run For The Krusty Krab | 382779 | [382779-spongebob-in-run-for-the-krusty-krab.json](./382779-spongebob-in-run-for-the-krusty-krab.json) |
 | SpongeBob SolitairePants | 294177 | [294177-spongebob-solitairepants.json](./294177-spongebob-solitairepants.json) |
 | SpongeBob SquarePants | 220120 | [220120-spongebob-squarepants.json](./220120-spongebob-squarepants.json) |
+| SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
 | SpongeBob SquarePants: Dilly Dabber | 220119 | [220119-spongebob-squarepants-dilly-dabber.json](./220119-spongebob-squarepants-dilly-dabber.json) |
@@ -5105,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong Bad's Cool Game for Attractive People | 9463 | [9463-strong-bads-cool-game-for-attractive-people.json](./9463-strong-bads-cool-game-for-attractive-people.json) |
 | Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner | 28984 | [28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json](./28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json) |
 | Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands | 50175 | [50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json](./50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json) |
+| Strong Bad's RhinoFeeder | 135851 | [135851-strong-bads-rhinofeeder.json](./135851-strong-bads-rhinofeeder.json) |
 | Strong Crab | 384541 | [384541-strong-crab.json](./384541-strong-crab.json) |
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
@@ -6192,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Troll | 219571 | [219571-survive-the-troll.json](./219571-survive-the-troll.json) |
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
 | Survive Till 100 Years Old | 339117 | [339117-survive-till-100-years-old.json](./339117-survive-till-100-years-old.json) |
+| Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars: Below and Beyond | 165620 | [165620-surviving-mars-below-and-beyond.json](./165620-surviving-mars-below-and-beyond.json) |
