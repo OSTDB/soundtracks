@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between | 398980 | [398980-between.json](./398980-between.json) |
 | Between Adventures Idle | 365079 | [365079-between-adventures-idle.json](./365079-between-adventures-idle.json) |
 | Between Planets | 121005 | [121005-between-planets.json](./121005-between-planets.json) |
+| Between Time: Escape Room | 164977 | [164977-between-time-escape-room.json](./164977-between-time-escape-room.json) |
 | Between Worlds | 181388 | [181388-between-worlds.json](./181388-between-worlds.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beverly Hills Models | 201264 | [201264-beverly-hills-models.json](./201264-beverly-hills-models.json) |
@@ -2243,6 +2244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boring Movies: Groovy Chainsaw Man | 362309 | [362309-boring-movies-groovy-chainsaw-man.json](./362309-boring-movies-groovy-chainsaw-man.json) |
 | Boring Movies: Spooky Bunny | 362308 | [362308-boring-movies-spooky-bunny.json](./362308-boring-movies-spooky-bunny.json) |
 | Born in Blood | 224784 | [224784-born-in-blood.json](./224784-born-in-blood.json) |
+| Born Into Fear | 164980 | [164980-born-into-fear.json](./164980-born-into-fear.json) |
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
 | Born to Fight | 269598 | [269598-born-to-fight.json](./269598-born-to-fight.json) |
 | Borneo: A Jungle Nightmare | 197906 | [197906-borneo-a-jungle-nightmare.json](./197906-borneo-a-jungle-nightmare.json) |
@@ -2264,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Vice | 22751 | [22751-bot-vice.json](./22751-bot-vice.json) |
 | Bot World | 226193 | [226193-bot-world.json](./226193-bot-world.json) |
 | Bot-Net | 120384 | [120384-bot-net.json](./120384-bot-net.json) |
+| BOT.vinnik Chess | 165079 | [165079-bot-vinnik-chess.json](./165079-bot-vinnik-chess.json) |
 | BOT.vinnik Chess 2 | 219300 | [219300-bot-vinnik-chess-2.json](./219300-bot-vinnik-chess-2.json) |
 | Bot.vinnik Chess: Early USSR Championships | 166169 | [166169-bot-vinnik-chess-early-ussr-championships.json](./166169-bot-vinnik-chess-early-ussr-championships.json) |
 | BOT.vinnik Chess: Prodigies | 223498 | [223498-bot-vinnik-chess-prodigies.json](./223498-bot-vinnik-chess-prodigies.json) |
