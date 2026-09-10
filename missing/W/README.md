@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werner Flaschbier | 91939 | [91939-werner-flaschbier.json](./91939-werner-flaschbier.json) |
 | Werner Waffenwerke: Arms Tycoon | 322606 | [322606-werner-waffenwerke-arms-tycoon.json](./322606-werner-waffenwerke-arms-tycoon.json) |
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
+| West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
 | West Game | 199076 | [199076-west-game.json](./199076-west-game.json) |
 | West Hunt: Halloween Pack2 | 273670 | [273670-west-hunt-halloween-pack2.json](./273670-west-hunt-halloween-pack2.json) |
 | West Sweety | 127019 | [127019-west-sweety.json](./127019-west-sweety.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where’s the Insect? | 378788 | [378788-where-s-the-insect.json](./378788-where-s-the-insect.json) |
 | Where’s the Octopus!? | 378789 | [378789-where-s-the-octopus.json](./378789-where-s-the-octopus.json) |
 | Where's Waldo? Exploring Geography | 201790 | [201790-wheres-waldo-exploring-geography.json](./201790-wheres-waldo-exploring-geography.json) |
+| Where's Waldo? for the Windows Phone | 131539 | [131539-wheres-waldo-for-the-windows-phone.json](./131539-wheres-waldo-for-the-windows-phone.json) |
 | Where's Wally? Travel Pack 1 | 85483 | [85483-wheres-wally-travel-pack-1.json](./85483-wheres-wally-travel-pack-1.json) |
 | Where's Wally? Travel Pack 2 | 85485 | [85485-wheres-wally-travel-pack-2.json](./85485-wheres-wally-travel-pack-2.json) |
 | Where's Wally? Travel Pack 3 | 85484 | [85484-wheres-wally-travel-pack-3.json](./85484-wheres-wally-travel-pack-3.json) |
@@ -1037,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
+| Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
 | Winter Cometh | 122400 | [122400-winter-cometh.json](./122400-winter-cometh.json) |
 | Winter Falling: Battle Tactics | 173251 | [173251-winter-falling-battle-tactics.json](./173251-winter-falling-battle-tactics.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
