@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:48:50.952Z",
-  "total_missing": 54359,
+  "generated_at": "2026-09-10T15:51:08.118Z",
+  "total_missing": 54358,
   "games": [
     {
       "igdb_id": 306086,
@@ -1531,11 +1531,6 @@
       "igdb_id": 179739,
       "game_name": "78 Hour Rain",
       "file": "missing/0-9/179739-78-hour-rain.json"
-    },
-    {
-      "igdb_id": 280232,
-      "game_name": "7869",
-      "file": "missing/0-9/280232-7869.json"
     },
     {
       "igdb_id": 195238,
