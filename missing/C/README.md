@@ -1407,6 +1407,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chushpan | 292552 | [292552-chushpan.json](./292552-chushpan.json) |
 | Chushpan Simulator 2 | 309682 | [309682-chushpan-simulator-2.json](./309682-chushpan-simulator-2.json) |
 | ChuSingura46+1 S | 32917 | [32917-chusingura46-1-s.json](./32917-chusingura46-1-s.json) |
+| ChuSingura46+1 S: Chapter 2 & 3 | 168851 | [168851-chusingura46-1-s-chapter-2-and-3.json](./168851-chusingura46-1-s-chapter-2-and-3.json) |
+| ChuSingura46+1 S: Chapter 4 & 5 | 168850 | [168850-chusingura46-1-s-chapter-4-and-5.json](./168850-chusingura46-1-s-chapter-4-and-5.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
