@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:51:08.118Z",
-  "total_missing": 54358,
+  "generated_at": "2026-09-10T16:01:30.906Z",
+  "total_missing": 54357,
   "games": [
     {
       "igdb_id": 306086,
@@ -1536,11 +1536,6 @@
       "igdb_id": 195238,
       "game_name": "79 Pompeii",
       "file": "missing/0-9/195238-79-pompeii.json"
-    },
-    {
-      "igdb_id": 262057,
-      "game_name": "7Days: Backer",
-      "file": "missing/0-9/262057-7days-backer.json"
     },
     {
       "igdb_id": 295780,
