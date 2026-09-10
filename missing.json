@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T18:48:38.196Z",
-  "total_missing": 54867,
+  "generated_at": "2026-09-10T18:51:03.647Z",
+  "total_missing": 54866,
   "games": [
     {
       "igdb_id": 306086,
@@ -1621,11 +1621,6 @@
       "igdb_id": 65522,
       "game_name": "8bit Killer",
       "file": "missing/0-9/65522-8bit-killer.json"
-    },
-    {
-      "igdb_id": 97886,
-      "game_name": "8bit-Collection Data East Vol. 01",
-      "file": "missing/0-9/97886-8bit-collection-data-east-vol-01.json"
     },
     {
       "igdb_id": 97885,
