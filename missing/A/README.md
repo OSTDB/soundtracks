@@ -289,6 +289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
 | A.C.I.T. Soup | 406706 | [406706-a-c-i-t-soup.json](./406706-a-c-i-t-soup.json) |
 | A.I.M.2 Clan Wars | 18960 | [18960-a-i-m-2-clan-wars.json](./18960-a-i-m-2-clan-wars.json) |
+| A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.R.M: Absolutely Reliable Machine | 132259 | [132259-a-r-m-absolutely-reliable-machine.json](./132259-a-r-m-absolutely-reliable-machine.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.P.: Air Strike Patrol | 42662 | [42662-a-s-p-air-strike-patrol.json](./42662-a-s-p-air-strike-patrol.json) |
@@ -1183,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfa Romeo Racing Italiano | 5721 | [5721-alfa-romeo-racing-italiano.json](./5721-alfa-romeo-racing-italiano.json) |
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 7749 | [7749-alfred-chicken.json](./7749-alfred-chicken.json) |
+| Alfred Hitchcock: Vertigo - Digital Deluxe Edition | 165621 | [165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json](./165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
 | Algatraz | 358857 | [358857-algatraz.json](./358857-algatraz.json) |
 | Algebra Fish | 102760 | [102760-algebra-fish.json](./102760-algebra-fish.json) |
@@ -1785,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Planner | 254767 | [254767-animal-planner.json](./254767-animal-planner.json) |
 | Animal Puzzle Cats | 225892 | [225892-animal-puzzle-cats.json](./225892-animal-puzzle-cats.json) |
 | Animal Puzzle World | 237364 | [237364-animal-puzzle-world.json](./237364-animal-puzzle-world.json) |
+| Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
 | Animal Rescue | 169407 | [169407-animal-rescue.json](./169407-animal-rescue.json) |
 | Animal Rivals | 28915 | [28915-animal-rivals.json](./28915-animal-rivals.json) |
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
@@ -2301,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archer of God | 237646 | [237646-archer-of-god.json](./237646-archer-of-god.json) |
 | Archer Pinball | 261802 | [261802-archer-pinball.json](./261802-archer-pinball.json) |
 | Archer: Sheshou | 246990 | [246990-archer-sheshou.json](./246990-archer-sheshou.json) |
+| Archer's Adventure | 165706 | [165706-archers-adventure.json](./165706-archers-adventure.json) |
 | Archero 2 | 319370 | [319370-archero-2.json](./319370-archero-2.json) |
 | Archers Online | 316047 | [316047-archers-online.json](./316047-archers-online.json) |
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
