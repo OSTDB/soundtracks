@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
 | GalaxyMotoCrossHD | 246967 | [246967-galaxymotocrosshd.json](./246967-galaxymotocrosshd.json) |
+| GalaxySpace VR | 149553 | [149553-galaxyspace-vr.json](./149553-galaxyspace-vr.json) |
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
+| Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
