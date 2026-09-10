@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate Dealer | 378160 | [378160-fate-dealer.json](./378160-fate-dealer.json) |
+| Fate in the Darkness | 169385 | [169385-fate-in-the-darkness.json](./169385-fate-in-the-darkness.json) |
 | Fate Is Not A Line | 335255 | [335255-fate-is-not-a-line.json](./335255-fate-is-not-a-line.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
@@ -978,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firewind | 73322 | [73322-firewind.json](./73322-firewind.json) |
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
+| Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
 | First | 377569 | [377569-first.json](./377569-first.json) |
 | First Bite: Bad Blood | 221167 | [221167-first-bite-bad-blood.json](./221167-first-bite-bad-blood.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
