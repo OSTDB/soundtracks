@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ellie's Farm 5: Long Journey - Collector's Edition | 356102 | [356102-ellies-farm-5-long-journey-collectors-edition.json](./356102-ellies-farm-5-long-journey-collectors-edition.json) |
 | Ellie's Farm: Forest Fires - Collector's Edition | 356105 | [356105-ellies-farm-forest-fires-collectors-edition.json](./356105-ellies-farm-forest-fires-collectors-edition.json) |
 | Ellingby House | 351026 | [351026-ellingby-house.json](./351026-ellingby-house.json) |
+| Elliot and the Musical Journey | 133415 | [133415-elliot-and-the-musical-journey.json](./133415-elliot-and-the-musical-journey.json) |
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
 | Elmo's Deep Sea Adventure | 71511 | [71511-elmos-deep-sea-adventure.json](./71511-elmos-deep-sea-adventure.json) |
 | Elmo's Deep Sea Adventure | 71513 | [71513-elmos-deep-sea-adventure.json](./71513-elmos-deep-sea-adventure.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Zombies | 293620 | [293620-epic-zombies.json](./293620-epic-zombies.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
+| Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
 | Episode XOXO | 291981 | [291981-episode-xoxo.json](./291981-episode-xoxo.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
