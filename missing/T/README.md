@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Tatlone | 415066 | [415066-tatlone.json](./415066-tatlone.json) |
 | Tatsunami, let's clean up! | 353917 | [353917-tatsunami-lets-clean-up.json](./353917-tatsunami-lets-clean-up.json) |
+| Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
 | Tauriel Teaches Typing | 181883 | [181883-tauriel-teaches-typing.json](./181883-tauriel-teaches-typing.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
@@ -969,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Clive McMulligan on Planet Zeta Four | 94774 | [94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json](./94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json) |
 | The Adventures of Detective Bron | 200721 | [200721-the-adventures-of-detective-bron.json](./200721-the-adventures-of-detective-bron.json) |
 | The Adventures of Dr. Franken | 369600 | [369600-the-adventures-of-dr-franken.json](./369600-the-adventures-of-dr-franken.json) |
+| The Adventures of Eggbert | 146814 | [146814-the-adventures-of-eggbert.json](./146814-the-adventures-of-eggbert.json) |
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
 | The Adventures of Hyperman | 71556 | [71556-the-adventures-of-hyperman.json](./71556-the-adventures-of-hyperman.json) |
 | The Adventures of Liam | 264605 | [264605-the-adventures-of-liam.json](./264605-the-adventures-of-liam.json) |
@@ -4988,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail of Toads | 223166 | [223166-trail-of-toads.json](./223166-trail-of-toads.json) |
 | Trail Out: Hunt 007 Special | 275001 | [275001-trail-out-hunt-007-special.json](./275001-trail-out-hunt-007-special.json) |
 | Trail Out: Steel Wheels | 267408 | [267408-trail-out-steel-wheels.json](./267408-trail-out-steel-wheels.json) |
+| TrailBlazer | 146868 | [146868-trailblazer.json](./146868-trailblazer.json) |
 | Trailblazers | 88383 | [88383-trailblazers.json](./88383-trailblazers.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
@@ -5747,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
+| Turbo Skiddy Racing | 146848 | [146848-turbo-skiddy-racing.json](./146848-turbo-skiddy-racing.json) |
 | Turbo Sliders Unlimited | 188595 | [188595-turbo-sliders-unlimited.json](./188595-turbo-sliders-unlimited.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
 | Turbo Tempest | 153953 | [153953-turbo-tempest.json](./153953-turbo-tempest.json) |
