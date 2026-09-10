@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
+| Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
@@ -534,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manuganu 2 | 175909 | [175909-manuganu-2.json](./175909-manuganu-2.json) |
 | Manyland | 35940 | [35940-manyland.json](./35940-manyland.json) |
 | Manzaka | 288757 | [288757-manzaka.json](./288757-manzaka.json) |
+| Mao Tan | 137606 | [137606-mao-tan.json](./137606-mao-tan.json) |
 | Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
 | Map Snap | 112338 | [112338-map-snap.json](./112338-map-snap.json) |
 | MapGame | 341893 | [341893-mapgame.json](./341893-mapgame.json) |
@@ -1285,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 6: Patch Card - Tab's Discounts | 352726 | [352726-mega-man-battle-network-6-patch-card-tabs-discounts.json](./352726-mega-man-battle-network-6-patch-card-tabs-discounts.json) |
 | Mega Man Battle Network 6: Patch Card - Vic's Persistence | 352729 | [352729-mega-man-battle-network-6-patch-card-vics-persistence.json](./352729-mega-man-battle-network-6-patch-card-vics-persistence.json) |
 | Mega Man Battle Network 6: Patch Card - Wily's Ambition | 352730 | [352730-mega-man-battle-network-6-patch-card-wilys-ambition.json](./352730-mega-man-battle-network-6-patch-card-wilys-ambition.json) |
+| Mega Man Battle Network Chrono X | 137585 | [137585-mega-man-battle-network-chrono-x.json](./137585-mega-man-battle-network-chrono-x.json) |
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
@@ -2006,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mills of Morris | 291763 | [291763-mills-of-morris.json](./291763-mills-of-morris.json) |
 | Milo | 187525 | [187525-milo.json](./187525-milo.json) |
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
+| Milo's Quest | 137608 | [137608-milos-quest.json](./137608-milos-quest.json) |
 | Milthm | 258703 | [258703-milthm.json](./258703-milthm.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
@@ -2282,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
+| Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mira's Mirage Mirror | 361691 | [361691-miras-mirage-mirror.json](./361691-miras-mirage-mirror.json) |
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
@@ -2354,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing | 213634 | [213634-missing.json](./213634-missing.json) |
 | Missing | 260677 | [260677-missing.json](./260677-missing.json) |
 | Missing Cat | 208377 | [208377-missing-cat.json](./208377-missing-cat.json) |
+| Missing Children | 137590 | [137590-missing-children.json](./137590-missing-children.json) |
 | Missing Children of Ann Siang Hill | 179113 | [179113-missing-children-of-ann-siang-hill.json](./179113-missing-children-of-ann-siang-hill.json) |
 | Missing Coordinates | 308272 | [308272-missing-coordinates.json](./308272-missing-coordinates.json) |
 | Missing Heroes | 224003 | [224003-missing-heroes.json](./224003-missing-heroes.json) |
@@ -3152,6 +3158,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
+| Motor Wars | 137592 | [137592-motor-wars.json](./137592-motor-wars.json) |
+| Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
