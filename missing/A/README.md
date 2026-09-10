@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aglobo | 342036 | [342036-aglobo.json](./342036-aglobo.json) |
 | Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
+| Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
 | Agony Online | 191799 | [191799-agony-online.json](./191799-agony-online.json) |
 | Agony VR | 197402 | [197402-agony-vr.json](./197402-agony-vr.json) |
 | Agony: Lords of Hell | 211421 | [211421-agony-lords-of-hell.json](./211421-agony-lords-of-hell.json) |
@@ -1823,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima of Quantmix | 200731 | [200731-anima-of-quantmix.json](./200731-anima-of-quantmix.json) |
 | Anima Reprise | 242542 | [242542-anima-reprise.json](./242542-anima-reprise.json) |
 | Anima Shin Gun | 367943 | [367943-anima-shin-gun.json](./367943-anima-shin-gun.json) |
+| Anima: Song from the Abyss | 136432 | [136432-anima-song-from-the-abyss.json](./136432-anima-song-from-the-abyss.json) |
 | Anima: The Reign of Darkness | 151647 | [151647-anima-the-reign-of-darkness.json](./151647-anima-the-reign-of-darkness.json) |
 | Animaddicts | 190724 | [190724-animaddicts.json](./190724-animaddicts.json) |
 | Animaddicts 2 | 192891 | [192891-animaddicts-2.json](./192891-animaddicts-2.json) |
