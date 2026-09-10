@@ -187,6 +187,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offshore Racing | 234617 | [234617-offshore-racing.json](./234617-offshore-racing.json) |
 | Offworld Trading Company: Almanac | 124802 | [124802-offworld-trading-company-almanac.json](./124802-offworld-trading-company-almanac.json) |
 | Offworld Trading Company: Blue Chip Ventures | 124835 | [124835-offworld-trading-company-blue-chip-ventures.json](./124835-offworld-trading-company-blue-chip-ventures.json) |
+| Offworld Trading Company: Ceres Initiative | 154480 | [154480-offworld-trading-company-ceres-initiative.json](./154480-offworld-trading-company-ceres-initiative.json) |
+| Offworld Trading Company: Limited Supply | 154477 | [154477-offworld-trading-company-limited-supply.json](./154477-offworld-trading-company-limited-supply.json) |
+| Offworld Trading Company: Scenario Toolkit | 154479 | [154479-offworld-trading-company-scenario-toolkit.json](./154479-offworld-trading-company-scenario-toolkit.json) |
 | Offworld Trading Company: The Patron and the Patriot | 124817 | [124817-offworld-trading-company-the-patron-and-the-patriot.json](./124817-offworld-trading-company-the-patron-and-the-patriot.json) |
 | Oftalmogarden | 189176 | [189176-oftalmogarden.json](./189176-oftalmogarden.json) |
 | Ofuxë the Guardian of Nature | 291216 | [291216-ofuxe-the-guardian-of-nature.json](./291216-ofuxe-the-guardian-of-nature.json) |
@@ -776,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
+| Order of Battle: Red Steel | 154512 | [154512-order-of-battle-red-steel.json](./154512-order-of-battle-red-steel.json) |
 | Order of Battle: World War II - Allies Resurgent | 171073 | [171073-order-of-battle-world-war-ii-allies-resurgent.json](./171073-order-of-battle-world-war-ii-allies-resurgent.json) |
 | Order of Battle: World War II - Order of Battle: Allies Victorious | 219793 | [219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json](./219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json) |
 | Order of Renewal | 337647 | [337647-order-of-renewal.json](./337647-order-of-renewal.json) |
