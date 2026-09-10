@@ -3550,6 +3550,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanish Rage | 167802 | [167802-spanish-rage.json](./167802-spanish-rage.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
+| Spare Parts: Episode 1 | 162854 | [162854-spare-parts-episode-1.json](./162854-spare-parts-episode-1.json) |
+| Spare Parts: Episode 2 | 162855 | [162855-spare-parts-episode-2.json](./162855-spare-parts-episode-2.json) |
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
@@ -3821,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatterhouse | 6929 | [6929-splatterhouse.json](./6929-splatterhouse.json) |
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
+| Splendor: The Cities | 162870 | [162870-splendor-the-cities.json](./162870-splendor-the-cities.json) |
 | Splendor: The Strongholds | 172174 | [172174-splendor-the-strongholds.json](./172174-splendor-the-strongholds.json) |
 | Splett | 342660 | [342660-splett.json](./342660-splett.json) |
 | Spliced | 218706 | [218706-spliced.json](./218706-spliced.json) |
