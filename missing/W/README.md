@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woke or Nah | 355532 | [355532-woke-or-nah.json](./355532-woke-or-nah.json) |
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Wolf | 9573 | [9573-wolf.json](./9573-wolf.json) |
+| Wolf Adventures | 164518 | [164518-wolf-adventures.json](./164518-wolf-adventures.json) |
 | Wolf And Moon: Nonogram | 312365 | [312365-wolf-and-moon-nonogram.json](./312365-wolf-and-moon-nonogram.json) |
 | Wolf And Moon: Sudoku | 312362 | [312362-wolf-and-moon-sudoku.json](./312362-wolf-and-moon-sudoku.json) |
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
@@ -1498,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith | 125994 | [125994-wraith.json](./125994-wraith.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
 | Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
+| Wrap It! | 164442 | [164442-wrap-it.json](./164442-wrap-it.json) |
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
 | Wrath of Anias | 191826 | [191826-wrath-of-anias.json](./191826-wrath-of-anias.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
