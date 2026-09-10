@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Fruits Adventure: Magic Match 3 Puzzle | 262099 | [262099-jelly-fruits-adventure-magic-match-3-puzzle.json](./262099-jelly-fruits-adventure-magic-match-3-puzzle.json) |
 | Jelly God | 221721 | [221721-jelly-god.json](./221721-jelly-god.json) |
 | Jelly Is Sticky | 158142 | [158142-jelly-is-sticky.json](./158142-jelly-is-sticky.json) |
+| Jelly Jump | 147411 | [147411-jelly-jump.json](./147411-jelly-jump.json) |
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
@@ -257,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jezzball Classic Deluxe Edition | 371891 | [371891-jezzball-classic-deluxe-edition.json](./371891-jezzball-classic-deluxe-edition.json) |
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
+| Jiàndào Xiānyǔ | 147387 | [147387-jiandao-xianyu.json](./147387-jiandao-xianyu.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
 | Jiànxiá Tú | 157674 | [157674-jianxia-tu.json](./157674-jianxia-tu.json) |
