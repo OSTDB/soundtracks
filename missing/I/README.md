@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Luca | 193999 | [193999-idle-luca.json](./193999-idle-luca.json) |
 | Idle magic herb | 215681 | [215681-idle-magic-herb.json](./215681-idle-magic-herb.json) |
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
+| Idle Monkeylogy | 165637 | [165637-idle-monkeylogy.json](./165637-idle-monkeylogy.json) |
 | Idle Monster: Tower Defense | 138787 | [138787-idle-monster-tower-defense.json](./138787-idle-monster-tower-defense.json) |
 | Idle Moon Rabbit: AFK RPG | 204487 | [204487-idle-moon-rabbit-afk-rpg.json](./204487-idle-moon-rabbit-afk-rpg.json) |
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
