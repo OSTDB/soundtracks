@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T22:03:20.049Z",
-  "total_missing": 55420,
+  "generated_at": "2026-09-10T22:10:59.500Z",
+  "total_missing": 55419,
   "games": [
     {
       "igdb_id": 306086,
@@ -1721,11 +1721,6 @@
       "igdb_id": 353316,
       "game_name": "99 Problems",
       "file": "missing/0-9/353316-99-problems.json"
-    },
-    {
-      "igdb_id": 232146,
-      "game_name": "99.99% 3D: Fill the Ball",
-      "file": "missing/0-9/232146-99-99-3d-fill-the-ball.json"
     },
     {
       "igdb_id": 104675,
