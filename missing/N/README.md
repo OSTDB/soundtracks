@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
 | Neon Brood | 99599 | [99599-neon-brood.json](./99599-neon-brood.json) |
 | Neon Chrome: Arena | 155075 | [155075-neon-chrome-arena.json](./155075-neon-chrome-arena.json) |
+| Neon Chrome: Overseer Edition | 143022 | [143022-neon-chrome-overseer-edition.json](./143022-neon-chrome-overseer-edition.json) |
 | Neon City Hacker | 322610 | [322610-neon-city-hacker.json](./322610-neon-city-hacker.json) |
 | Neon City of Desires | 260155 | [260155-neon-city-of-desires.json](./260155-neon-city-of-desires.json) |
 | Neon Clash: Echoes of the Lost | 276732 | [276732-neon-clash-echoes-of-the-lost.json](./276732-neon-clash-echoes-of-the-lost.json) |
