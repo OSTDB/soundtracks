@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
 | Tiny Troopers Joint Ops: Zombie Edition | 201818 | [201818-tiny-troopers-joint-ops-zombie-edition.json](./201818-tiny-troopers-joint-ops-zombie-edition.json) |
 | Tiny Troopers: Global Ops - Digital Deluxe Edition | 241358 | [241358-tiny-troopers-global-ops-digital-deluxe-edition.json](./241358-tiny-troopers-global-ops-digital-deluxe-edition.json) |
+| Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | TinyCraft Town | 362298 | [362298-tinycraft-town.json](./362298-tinycraft-town.json) |
 | TinyRogue | 311288 | [311288-tinyrogue.json](./311288-tinyrogue.json) |
@@ -4473,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
 | Touchtone | 15550 | [15550-touchtone.json](./15550-touchtone.json) |
 | Toufra | 262948 | [262948-toufra.json](./262948-toufra.json) |
+| Touge Challenge | 161344 | [161344-touge-challenge.json](./161344-touge-challenge.json) |
 | Touge King: The Spirits 2 | 66100 | [66100-touge-king-the-spirits-2.json](./66100-touge-king-the-spirits-2.json) |
 | Touge Max 2 | 66099 | [66099-touge-max-2.json](./66099-touge-max-2.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
@@ -4608,6 +4610,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KSLC Airport | 353332 | [353332-tower-simulator-3-kslc-airport.json](./353332-tower-simulator-3-kslc-airport.json) |
 | Tower! Simulator 3: LSZH Airport | 353325 | [353325-tower-simulator-3-lszh-airport.json](./353325-tower-simulator-3-lszh-airport.json) |
 | Tower! Simulator 3: OMDB Airport | 236836 | [236836-tower-simulator-3-omdb-airport.json](./236836-tower-simulator-3-omdb-airport.json) |
+| Tower!3D: EGLL Airport | 161314 | [161314-tower-3d-egll-airport.json](./161314-tower-3d-egll-airport.json) |
+| Tower!3D: KSEA Airport | 161316 | [161316-tower-3d-ksea-airport.json](./161316-tower-3d-ksea-airport.json) |
+| Tower!3D: OMDB Airport | 161315 | [161315-tower-3d-omdb-airport.json](./161315-tower-3d-omdb-airport.json) |
+| Tower!3D: PHNL Airport | 161313 | [161313-tower-3d-phnl-airport.json](./161313-tower-3d-phnl-airport.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
