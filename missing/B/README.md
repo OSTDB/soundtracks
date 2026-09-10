@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Fight | 269842 | [269842-balloon-fight.json](./269842-balloon-fight.json) |
 | Balloon Fight | 273083 | [273083-balloon-fight.json](./273083-balloon-fight.json) |
 | Balloon Fight-e | 170004 | [170004-balloon-fight-e.json](./170004-balloon-fight-e.json) |
+| Balloon Jump | 152877 | [152877-balloon-jump.json](./152877-balloon-jump.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
 | Balloon Man | 359433 | [359433-balloon-man.json](./359433-balloon-man.json) |
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
@@ -2704,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
 | Broken Ranks | 162520 | [162520-broken-ranks.json](./162520-broken-ranks.json) |
+| Broken Robot | 152840 | [152840-broken-robot.json](./152840-broken-robot.json) |
 | Broken Shell | 304374 | [304374-broken-shell.json](./304374-broken-shell.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
 | Broken Spirit | 371256 | [371256-broken-spirit.json](./371256-broken-spirit.json) |
@@ -2839,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccaneer | 141845 | [141845-buccaneer.json](./141845-buccaneer.json) |
 | Buccaneers Shipshape | 203899 | [203899-buccaneers-shipshape.json](./203899-buccaneers-shipshape.json) |
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
+| Buck Borris in Action | 152842 | [152842-buck-borris-in-action.json](./152842-buck-borris-in-action.json) |
 | Buck Bumble | 3368 | [3368-buck-bumble.json](./3368-buck-bumble.json) |
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Bucket Brawl: Ahlman Edition | 253354 | [253354-bucket-brawl-ahlman-edition.json](./253354-bucket-brawl-ahlman-edition.json) |
