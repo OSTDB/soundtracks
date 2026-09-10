@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T16:48:48.320Z",
-  "total_missing": 54517,
+  "generated_at": "2026-09-10T16:51:05.350Z",
+  "total_missing": 54516,
   "games": [
     {
       "igdb_id": 306086,
@@ -1561,11 +1561,6 @@
       "igdb_id": 172115,
       "game_name": "7th Sector: Museum",
       "file": "missing/0-9/172115-7th-sector-museum.json"
-    },
-    {
-      "igdb_id": 316437,
-      "game_name": "8 Ball Goal",
-      "file": "missing/0-9/316437-8-ball-goal.json"
     },
     {
       "igdb_id": 39185,
