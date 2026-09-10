@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T11:48:43.647Z",
-  "total_missing": 53690,
+  "generated_at": "2026-09-10T11:51:10.302Z",
+  "total_missing": 53689,
   "games": [
     {
       "igdb_id": 306086,
@@ -1411,11 +1411,6 @@
       "igdb_id": 166212,
       "game_name": "6-in-1 IQ Scale Bundle: Lost Starships",
       "file": "missing/0-9/166212-6-in-1-iq-scale-bundle-lost-starships.json"
-    },
-    {
-      "igdb_id": 176976,
-      "game_name": "6-Sided Sojourn",
-      "file": "missing/0-9/176976-6-sided-sojourn.json"
     },
     {
       "igdb_id": 314628,
