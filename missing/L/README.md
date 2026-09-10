@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lefties' Righteous Arcade Emporium | 289305 | [289305-lefties-righteous-arcade-emporium.json](./289305-lefties-righteous-arcade-emporium.json) |
 | Leftovers | 221977 | [221977-leftovers.json](./221977-leftovers.json) |
 | Lefty | 178636 | [178636-lefty.json](./178636-lefty.json) |
+| Legacy | 159240 | [159240-legacy.json](./159240-legacy.json) |
 | Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
 | Legacy | 23896 | [23896-legacy.json](./23896-legacy.json) |
 | Legacy | 345513 | [345513-legacy.json](./345513-legacy.json) |
@@ -747,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
 | Libros de Chilam Balam | 188075 | [188075-libros-de-chilam-balam.json](./188075-libros-de-chilam-balam.json) |
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
+| Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
 | Lichtung | 415105 | [415105-lichtung.json](./415105-lichtung.json) |
 | Lickspittles | 392814 | [392814-lickspittles.json](./392814-lickspittles.json) |
@@ -1636,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
 | Lumiland | 166726 | [166726-lumiland.json](./166726-lumiland.json) |
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
+| Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
 | Luminosity | 35836 | [35836-luminosity.json](./35836-luminosity.json) |
