@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
+| Path of Wuxia | 138747 | [138747-path-of-wuxia.json](./138747-path-of-wuxia.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
 | Path to Warband | 215692 | [215692-path-to-warband.json](./215692-path-to-warband.json) |
@@ -1213,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
+| Pincremental | 138720 | [138720-pincremental.json](./138720-pincremental.json) |
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
 | Pine Harbor | 257929 | [257929-pine-harbor.json](./257929-pine-harbor.json) |
@@ -2259,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
 | Pregnant Talking Cat Emma | 250018 | [250018-pregnant-talking-cat-emma.json](./250018-pregnant-talking-cat-emma.json) |
+| Prehistoric Dude | 138774 | [138774-prehistoric-dude.json](./138774-prehistoric-dude.json) |
 | Prehistoric Gal | 293656 | [293656-prehistoric-gal.json](./293656-prehistoric-gal.json) |
 | Prehistorik Man | 159266 | [159266-prehistorik-man.json](./159266-prehistorik-man.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
@@ -2711,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
 | Projekt Everblood | 213590 | [213590-projekt-everblood.json](./213590-projekt-everblood.json) |
+| Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
@@ -2727,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
+| ProSoccer 2190 | 138723 | [138723-prosoccer-2190.json](./138723-prosoccer-2190.json) |
 | Prospector | 296680 | [296680-prospector.json](./296680-prospector.json) |
 | Prospector Stanley | 183553 | [183553-prospector-stanley.json](./183553-prospector-stanley.json) |
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
