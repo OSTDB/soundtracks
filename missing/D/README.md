@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Oasis GG2SMS | 369595 | [369595-defenders-of-oasis-gg2sms.json](./369595-defenders-of-oasis-gg2sms.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
 | Defendron | 260378 | [260378-defendron.json](./260378-defendron.json) |
+| Defense of the Ass | 141837 | [141837-defense-of-the-ass.json](./141837-defense-of-the-ass.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
@@ -1489,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Shift Awakening | 277268 | [277268-dimensional-shift-awakening.json](./277268-dimensional-shift-awakening.json) |
 | Dimensional Slaughter | 209696 | [209696-dimensional-slaughter.json](./209696-dimensional-slaughter.json) |
 | DimensionalDoors | 232666 | [232666-dimensionaldoors.json](./232666-dimensionaldoors.json) |
+| Dimensions | 141810 | [141810-dimensions.json](./141810-dimensions.json) |
 | Dimensions | 249474 | [249474-dimensions.json](./249474-dimensions.json) |
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
@@ -2344,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon & Knights | 200747 | [200747-dragon-and-knights.json](./200747-dragon-and-knights.json) |
 | Dragon Age II: All-Class Item Pack | 367423 | [367423-dragon-age-ii-all-class-item-pack.json](./367423-dragon-age-ii-all-class-item-pack.json) |
 | Dragon Age II: All-Class Item Pack II | 367424 | [367424-dragon-age-ii-all-class-item-pack-ii.json](./367424-dragon-age-ii-all-class-item-pack-ii.json) |
+| Dragon Age II: Bioware Signature Edition | 141834 | [141834-dragon-age-ii-bioware-signature-edition.json](./141834-dragon-age-ii-bioware-signature-edition.json) |
 | Dragon Age II: The Black Emporium | 367421 | [367421-dragon-age-ii-the-black-emporium.json](./367421-dragon-age-ii-the-black-emporium.json) |
 | Dragon Age II: Ultimate Edition | 306726 | [306726-dragon-age-ii-ultimate-edition.json](./306726-dragon-age-ii-ultimate-edition.json) |
 | Dragon Age: Inquisition - Spoils of the Avvar | 367437 | [367437-dragon-age-inquisition-spoils-of-the-avvar.json](./367437-dragon-age-inquisition-spoils-of-the-avvar.json) |
