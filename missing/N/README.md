@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
 | Nightwalker | 163946 | [163946-nightwalker.json](./163946-nightwalker.json) |
+| Nightwalker 2 | 152854 | [152854-nightwalker-2.json](./152854-nightwalker-2.json) |
 | Nightwatch | 81339 | [81339-nightwatch.json](./81339-nightwatch.json) |
 | Nihmory | 211711 | [211711-nihmory.json](./211711-nihmory.json) |
 | Nihon Pro Mahjong Kishikai Kanshuu: Pro ni naru Mahjong DS | 131600 | [131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json](./131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json) |
