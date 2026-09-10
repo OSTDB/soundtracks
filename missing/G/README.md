@@ -1400,6 +1400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Shift | 292517 | [292517-graveyard-shift.json](./292517-graveyard-shift.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
+| GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
 | Gravillipse | 252159 | [252159-gravillipse.json](./252159-gravillipse.json) |
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
 | GraviT | 200696 | [200696-gravit.json](./200696-gravit.json) |
