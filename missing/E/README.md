@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Garbage | 382774 | [382774-end-of-garbage.json](./382774-end-of-garbage.json) |
 | End of Life Care | 181886 | [181886-end-of-life-care.json](./181886-end-of-life-care.json) |
 | End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
+| End of Sonic Inflation | 140540 | [140540-end-of-sonic-inflation.json](./140540-end-of-sonic-inflation.json) |
 | End of the Universe | 200105 | [200105-end-of-the-universe.json](./200105-end-of-the-universe.json) |
 | End of the World: NTR | 170499 | [170499-end-of-the-world-ntr.json](./170499-end-of-the-world-ntr.json) |
 | End of Twilight | 70973 | [70973-end-of-twilight.json](./70973-end-of-twilight.json) |
@@ -1010,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etched Memories | 382765 | [382765-etched-memories.json](./382765-etched-memories.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
+| Eternal Doom | 140521 | [140521-eternal-doom.json](./140521-eternal-doom.json) |
 | Eternal Dread | 86340 | [86340-eternal-dread.json](./86340-eternal-dread.json) |
 | Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
@@ -1255,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
+| Ex Life | 140527 | [140527-ex-life.json](./140527-ex-life.json) |
 | Ex Machina: Arcade | 17171 | [17171-ex-machina-arcade.json](./17171-ex-machina-arcade.json) |
 | Ex Natura: Nature Corrupted | 192395 | [192395-ex-natura-nature-corrupted.json](./192395-ex-natura-nature-corrupted.json) |
 | Ex Shooter: Triple Bundle Pack | 218467 | [218467-ex-shooter-triple-bundle-pack.json](./218467-ex-shooter-triple-bundle-pack.json) |
