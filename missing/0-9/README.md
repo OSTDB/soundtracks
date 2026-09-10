@@ -266,7 +266,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
-| 4 Snaps | 233765 | [233765-4-snaps.json](./233765-4-snaps.json) |
 | 4 Wheel Drive | 245297 | [245297-4-wheel-drive.json](./245297-4-wheel-drive.json) |
 | 4 Witch Seasons & Convenant | 173235 | [173235-4-witch-seasons-and-convenant.json](./173235-4-witch-seasons-and-convenant.json) |
 | 4-4-2 Soccer | 45317 | [45317-4-4-2-soccer.json](./45317-4-4-2-soccer.json) |
