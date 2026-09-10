@@ -142,6 +142,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
 | National Geographic Challenge! | 52603 | [52603-national-geographic-challenge.json](./52603-national-geographic-challenge.json) |
 | National Geographic Lilly Wu and the Terra Cotta Mystery | 209148 | [209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json](./209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json) |
+| National Park Girls: Episode 2 - Happy Trails | 164444 | [164444-national-park-girls-episode-2-happy-trails.json](./164444-national-park-girls-episode-2-happy-trails.json) |
+| National Park Girls: Episode 3 - Daughter of Zion | 164445 | [164445-national-park-girls-episode-3-daughter-of-zion.json](./164445-national-park-girls-episode-3-daughter-of-zion.json) |
+| National Park Girls: Episode 4 - Eternal Evergreen Part 1 | 164446 | [164446-national-park-girls-episode-4-eternal-evergreen-part-1.json](./164446-national-park-girls-episode-4-eternal-evergreen-part-1.json) |
 | Nationality Guesser | 340229 | [340229-nationality-guesser.json](./340229-nationality-guesser.json) |
 | Nations At War Digital: Desert Heat Battlepack 1 | 166200 | [166200-nations-at-war-digital-desert-heat-battlepack-1.json](./166200-nations-at-war-digital-desert-heat-battlepack-1.json) |
 | Nations At War Digital: Desert Heat Battlepack 2 | 166199 | [166199-nations-at-war-digital-desert-heat-battlepack-2.json](./166199-nations-at-war-digital-desert-heat-battlepack-2.json) |
