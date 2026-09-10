@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Steel Community Project | 229708 | [229708-balls-of-steel-community-project.json](./229708-balls-of-steel-community-project.json) |
 | Balls Rolling-Plumber, Slither, Line, Fill & Fun! | 108486 | [108486-balls-rolling-plumber-slither-line-fill-and-fun.json](./108486-balls-rolling-plumber-slither-line-fill-and-fun.json) |
+| Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
@@ -3009,8 +3010,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Driving Sim 22 | 203890 | [203890-bus-driving-sim-22.json](./203890-bus-driving-sim-22.json) |
 | Bus Driving Simulator 24 City Roads & Farmer Simulator Bundle | 390509 | [390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json](./390509-bus-driving-simulator-24-city-roads-and-farmer-simulator-bundle.json) |
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
+| Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
 | Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
 | Bus Simulator 18: Mercedes-Benz Bus Pack 1 | 225062 | [225062-bus-simulator-18-mercedes-benz-bus-pack-1.json](./225062-bus-simulator-18-mercedes-benz-bus-pack-1.json) |
+| Bus Simulator 18: Official Map Extension | 163354 | [163354-bus-simulator-18-official-map-extension.json](./163354-bus-simulator-18-official-map-extension.json) |
 | Bus Simulator 21: MAN Bus Pack | 213951 | [213951-bus-simulator-21-man-bus-pack.json](./213951-bus-simulator-21-man-bus-pack.json) |
 | Bus Simulator 21: Protect Nature Interior Pack | 213950 | [213950-bus-simulator-21-protect-nature-interior-pack.json](./213950-bus-simulator-21-protect-nature-interior-pack.json) |
 | Bus Simulator 21: VDL Bus Pack | 213952 | [213952-bus-simulator-21-vdl-bus-pack.json](./213952-bus-simulator-21-vdl-bus-pack.json) |
