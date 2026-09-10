@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T20:41:05.027Z",
-  "total_missing": 55128,
+  "generated_at": "2026-09-10T20:48:31.091Z",
+  "total_missing": 55178,
   "games": [
     {
       "igdb_id": 306086,
@@ -5578,6 +5578,11 @@
       "file": "missing/A/218138-aestik.json"
     },
     {
+      "igdb_id": 138202,
+      "game_name": "AeternoBlade II: Director's Rewind",
+      "file": "missing/A/138202-aeternoblade-ii-directors-rewind.json"
+    },
+    {
       "igdb_id": 357785,
       "game_name": "Aether",
       "file": "missing/A/357785-aether.json"
@@ -7861,6 +7866,11 @@
       "igdb_id": 235463,
       "game_name": "Alexios the Protector",
       "file": "missing/A/235463-alexios-the-protector.json"
+    },
+    {
+      "igdb_id": 138195,
+      "game_name": "Alexis Arc: Heroes of the Three Kingdoms",
+      "file": "missing/A/138195-alexis-arc-heroes-of-the-three-kingdoms.json"
     },
     {
       "igdb_id": 12249,
@@ -21503,6 +21513,11 @@
       "file": "missing/B/240487-batman-arkham-asylum.json"
     },
     {
+      "igdb_id": 138185,
+      "game_name": "Batman: Arkham City - Ultimate Edition",
+      "file": "missing/B/138185-batman-arkham-city-ultimate-edition.json"
+    },
+    {
       "igdb_id": 15524,
       "game_name": "Batman: Arkham Knight - 2008 Tumbler Batmobile Pack",
       "file": "missing/B/15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json"
@@ -21626,6 +21641,11 @@
       "igdb_id": 344392,
       "game_name": "Battle",
       "file": "missing/B/344392-battle.json"
+    },
+    {
+      "igdb_id": 138169,
+      "game_name": "Battle 3D: Robots Sky",
+      "file": "missing/B/138169-battle-3d-robots-sky.json"
     },
     {
       "igdb_id": 200206,
@@ -42403,6 +42423,11 @@
       "file": "missing/C/9607-clannad.json"
     },
     {
+      "igdb_id": 138157,
+      "game_name": "Clannad: The Past Path",
+      "file": "missing/C/138157-clannad-the-past-path.json"
+    },
+    {
       "igdb_id": 159876,
       "game_name": "ClanRivals: Vikings",
       "file": "missing/C/159876-clanrivals-vikings.json"
@@ -42716,6 +42741,11 @@
       "igdb_id": 183544,
       "game_name": "Cleaning Service",
       "file": "missing/C/183544-cleaning-service.json"
+    },
+    {
+      "igdb_id": 138183,
+      "game_name": "Cleaning Simulator",
+      "file": "missing/C/138183-cleaning-simulator.json"
     },
     {
       "igdb_id": 374584,
@@ -44891,6 +44921,11 @@
       "igdb_id": 402266,
       "game_name": "Combat Survivors",
       "file": "missing/C/402266-combat-survivors.json"
+    },
+    {
+      "igdb_id": 138170,
+      "game_name": "Combat Wings",
+      "file": "missing/C/138170-combat-wings.json"
     },
     {
       "igdb_id": 193407,
@@ -47343,6 +47378,11 @@
       "file": "missing/C/213617-covert-front.json"
     },
     {
+      "igdb_id": 138188,
+      "game_name": "Covetous",
+      "file": "missing/C/138188-covetous.json"
+    },
+    {
       "igdb_id": 140514,
       "game_name": "Covid '99",
       "file": "missing/C/140514-covid-99.json"
@@ -47988,6 +48028,11 @@
       "file": "missing/C/246986-crash-n-dash.json"
     },
     {
+      "igdb_id": 138154,
+      "game_name": "Crash N. Tense Adventure",
+      "file": "missing/C/138154-crash-n-tense-adventure.json"
+    },
+    {
       "igdb_id": 210237,
       "game_name": "Crash Nitro Kart",
       "file": "missing/C/210237-crash-nitro-kart.json"
@@ -48586,6 +48631,11 @@
       "igdb_id": 156674,
       "game_name": "Creature Lab",
       "file": "missing/C/156674-creature-lab.json"
+    },
+    {
+      "igdb_id": 138166,
+      "game_name": "Creature Quest",
+      "file": "missing/C/138166-creature-quest.json"
     },
     {
       "igdb_id": 89726,
@@ -76153,6 +76203,11 @@
       "file": "missing/F/319932-familiar-stranger.json"
     },
     {
+      "igdb_id": 138192,
+      "game_name": "Family",
+      "file": "missing/F/138192-family.json"
+    },
+    {
       "igdb_id": 171603,
       "game_name": "Family",
       "file": "missing/F/171603-family.json"
@@ -76541,6 +76596,11 @@
       "igdb_id": 370134,
       "game_name": "Fantasy Life i: The Girl Who Steals Time - The Sinister Broker Bazario's Schemes",
       "file": "missing/F/370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json"
+    },
+    {
+      "igdb_id": 138174,
+      "game_name": "Fantasy Life Link!",
+      "file": "missing/F/138174-fantasy-life-link.json"
     },
     {
       "igdb_id": 26609,
@@ -87056,6 +87116,11 @@
       "igdb_id": 310210,
       "game_name": "Futariuum's Gate",
       "file": "missing/F/310210-futariuums-gate.json"
+    },
+    {
+      "igdb_id": 138152,
+      "game_name": "Futilitris",
+      "file": "missing/F/138152-futilitris.json"
     },
     {
       "igdb_id": 170492,
@@ -99168,6 +99233,11 @@
       "file": "missing/H/199044-hatsune-miku-roller-skating-music.json"
     },
     {
+      "igdb_id": 138178,
+      "game_name": "Hatsune Miku: Tap Wonder",
+      "file": "missing/H/138178-hatsune-miku-tap-wonder.json"
+    },
+    {
       "igdb_id": 270408,
       "game_name": "Hattrick",
       "file": "missing/H/270408-hattrick.json"
@@ -107641,6 +107711,11 @@
       "igdb_id": 151179,
       "game_name": "Hyper Strike",
       "file": "missing/H/151179-hyper-strike.json"
+    },
+    {
+      "igdb_id": 138209,
+      "game_name": "Hyper Team Recon",
+      "file": "missing/H/138209-hyper-team-recon.json"
     },
     {
       "igdb_id": 409534,
@@ -118108,6 +118183,11 @@
       "file": "missing/J/398968-justice-project.json"
     },
     {
+      "igdb_id": 138203,
+      "game_name": "Justice Sucks: Tactical Vacuum Action",
+      "file": "missing/J/138203-justice-sucks-tactical-vacuum-action.json"
+    },
+    {
       "igdb_id": 117712,
       "game_name": "Justice Xwar Online 2",
       "file": "missing/J/117712-justice-xwar-online-2.json"
@@ -121121,6 +121201,16 @@
       "igdb_id": 338728,
       "game_name": "Kingdomino",
       "file": "missing/K/338728-kingdomino.json"
+    },
+    {
+      "igdb_id": 138200,
+      "game_name": "Kingdoms of Amalur: Re-Reckoning - Collector’s Edition",
+      "file": "missing/K/138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json"
+    },
+    {
+      "igdb_id": 138198,
+      "game_name": "Kingdoms of Amalur: Re-Reckoning - Fate Edition",
+      "file": "missing/K/138198-kingdoms-of-amalur-re-reckoning-fate-edition.json"
     },
     {
       "igdb_id": 107199,
@@ -126273,9 +126363,29 @@
       "file": "missing/L/53271-lego-star-wars-the-force-awakens-deluxe-edition.json"
     },
     {
+      "igdb_id": 138165,
+      "game_name": "LEGO Star Wars: The Force Awakens - Escape From Starkiller Base",
+      "file": "missing/L/138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json"
+    },
+    {
+      "igdb_id": 138164,
+      "game_name": "LEGO Star Wars: The Force Awakens - First Order Siege of Takodana",
+      "file": "missing/L/138164-lego-star-wars-the-force-awakens-first-order-siege-of-takodana.json"
+    },
+    {
+      "igdb_id": 138161,
+      "game_name": "LEGO Star Wars: The Force Awakens - Poe's Quest For Survival",
+      "file": "missing/L/138161-lego-star-wars-the-force-awakens-poes-quest-for-survival.json"
+    },
+    {
       "igdb_id": 169925,
       "game_name": "LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack",
       "file": "missing/L/169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json"
+    },
+    {
+      "igdb_id": 138163,
+      "game_name": "LEGO Star Wars: The Force Awakens - The Phantom Limb",
+      "file": "missing/L/138163-lego-star-wars-the-force-awakens-the-phantom-limb.json"
     },
     {
       "igdb_id": 139937,
@@ -132558,6 +132668,11 @@
       "file": "missing/M/184624-machina.json"
     },
     {
+      "igdb_id": 138175,
+      "game_name": "Machina of the Planet Tree -Unity Unions-",
+      "file": "missing/M/138175-machina-of-the-planet-tree-unity-unions.json"
+    },
+    {
       "igdb_id": 264876,
       "game_name": "Machinarium",
       "file": "missing/M/264876-machinarium.json"
@@ -135463,6 +135578,11 @@
       "file": "missing/M/20593-mario-andretti-racing.json"
     },
     {
+      "igdb_id": 138177,
+      "game_name": "Mario Andretti's Racing Challenge",
+      "file": "missing/M/138177-mario-andrettis-racing-challenge.json"
+    },
+    {
       "igdb_id": 175951,
       "game_name": "Mario Artist: Game Maker",
       "file": "missing/M/175951-mario-artist-game-maker.json"
@@ -136546,6 +136666,11 @@
       "igdb_id": 259466,
       "game_name": "Marvel's Avengers Definitive Edition",
       "file": "missing/M/259466-marvels-avengers-definitive-edition.json"
+    },
+    {
+      "igdb_id": 138179,
+      "game_name": "Marvel's Avengers: Kate Bishop - Taking AIM",
+      "file": "missing/M/138179-marvels-avengers-kate-bishop-taking-aim.json"
     },
     {
       "igdb_id": 279646,
@@ -143183,6 +143308,11 @@
       "file": "missing/M/180245-minesweeper-the-clean-one.json"
     },
     {
+      "igdb_id": 138189,
+      "game_name": "Mineswifter",
+      "file": "missing/M/138189-mineswifter.json"
+    },
+    {
       "igdb_id": 394195,
       "game_name": "Mìngyùn de Yǐndǎozhě: Chuánshuō Bǎoshí",
       "file": "missing/M/394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json"
@@ -148556,6 +148686,11 @@
       "igdb_id": 278668,
       "game_name": "Mr Flippers Out For Vengeance",
       "file": "missing/M/278668-mr-flippers-out-for-vengeance.json"
+    },
+    {
+      "igdb_id": 138201,
+      "game_name": "Mr Giggle",
+      "file": "missing/M/138201-mr-giggle.json"
     },
     {
       "igdb_id": 143043,
@@ -158423,6 +158558,11 @@
       "file": "missing/N/255097-now-and-then-a-tale-of-the-end.json"
     },
     {
+      "igdb_id": 138190,
+      "game_name": "Now Boarding",
+      "file": "missing/N/138190-now-boarding.json"
+    },
+    {
       "igdb_id": 98969,
       "game_name": "Now Games 2",
       "file": "missing/N/98969-now-games-2.json"
@@ -164306,6 +164446,11 @@
       "igdb_id": 111037,
       "game_name": "Outworld Battlegrounds",
       "file": "missing/O/111037-outworld-battlegrounds.json"
+    },
+    {
+      "igdb_id": 138211,
+      "game_name": "Ova Magica",
+      "file": "missing/O/138211-ova-magica.json"
     },
     {
       "igdb_id": 281395,
@@ -173108,6 +173253,11 @@
       "file": "missing/P/260953-plutonia-7-going-to-the-hell.json"
     },
     {
+      "igdb_id": 138167,
+      "game_name": "Plutonia: Revisited Community Project",
+      "file": "missing/P/138167-plutonia-revisited-community-project.json"
+    },
+    {
       "igdb_id": 220345,
       "game_name": "Pnevmo-Capsula",
       "file": "missing/P/220345-pnevmo-capsula.json"
@@ -174066,6 +174216,11 @@
       "igdb_id": 166141,
       "game_name": "Poker Chase",
       "file": "missing/P/166141-poker-chase.json"
+    },
+    {
+      "igdb_id": 138204,
+      "game_name": "Poker Club",
+      "file": "missing/P/138204-poker-club.json"
     },
     {
       "igdb_id": 277568,
@@ -182678,6 +182833,11 @@
       "file": "missing/R/100179-rally-championship-the-x-miles.json"
     },
     {
+      "igdb_id": 138176,
+      "game_name": "Rally de Africa",
+      "file": "missing/R/138176-rally-de-africa.json"
+    },
+    {
       "igdb_id": 232164,
       "game_name": "Rally Drifters Racing Cars 3D: Ultimate Fast Car Gang Challange",
       "file": "missing/R/232164-rally-drifters-racing-cars-3d-ultimate-fast-car-gang-challange.json"
@@ -185856,6 +186016,11 @@
       "igdb_id": 82885,
       "game_name": "Renfield",
       "file": "missing/R/82885-renfield.json"
+    },
+    {
+      "igdb_id": 138150,
+      "game_name": "Renga in Four Parts",
+      "file": "missing/R/138150-renga-in-four-parts.json"
     },
     {
       "igdb_id": 325284,
@@ -194868,6 +195033,11 @@
       "file": "missing/S/277577-santas-world.json"
     },
     {
+      "igdb_id": 138194,
+      "game_name": "Santa's Xmas Adventure",
+      "file": "missing/S/138194-santas-xmas-adventure.json"
+    },
+    {
       "igdb_id": 288229,
       "game_name": "Santas Christmas Escape VR",
       "file": "missing/S/288229-santas-christmas-escape-vr.json"
@@ -200558,6 +200728,11 @@
       "file": "missing/S/270672-shin-megami-tensei-if.json"
     },
     {
+      "igdb_id": 138168,
+      "game_name": "Shin Megami Tensei II Gaiden: Mato Houkai",
+      "file": "missing/S/138168-shin-megami-tensei-ii-gaiden-mato-houkai.json"
+    },
+    {
       "igdb_id": 336392,
       "game_name": "Shin Megami Tensei III: Nocturne",
       "file": "missing/S/336392-shin-megami-tensei-iii-nocturne.json"
@@ -200976,6 +201151,11 @@
       "igdb_id": 216216,
       "game_name": "Shiro Neko Tennis",
       "file": "missing/S/216216-shiro-neko-tennis.json"
+    },
+    {
+      "igdb_id": 138171,
+      "game_name": "Shiro Project",
+      "file": "missing/S/138171-shiro-project.json"
     },
     {
       "igdb_id": 136471,
@@ -207353,6 +207533,11 @@
       "file": "missing/S/317033-sol-frontiers.json"
     },
     {
+      "igdb_id": 138153,
+      "game_name": "Sol Hemochroma",
+      "file": "missing/S/138153-sol-hemochroma.json"
+    },
+    {
       "igdb_id": 188554,
       "game_name": "Sol Raiders",
       "file": "missing/S/188554-sol-raiders.json"
@@ -209381,6 +209566,16 @@
       "igdb_id": 176424,
       "game_name": "Sons of Tyr",
       "file": "missing/S/176424-sons-of-tyr.json"
+    },
+    {
+      "igdb_id": 138210,
+      "game_name": "Sonzai",
+      "file": "missing/S/138210-sonzai.json"
+    },
+    {
+      "igdb_id": 138151,
+      "game_name": "Soopah Doopah Poopah",
+      "file": "missing/S/138151-soopah-doopah-poopah.json"
     },
     {
       "igdb_id": 198500,
@@ -214158,6 +214353,11 @@
       "file": "missing/S/248069-standby.json"
     },
     {
+      "igdb_id": 138172,
+      "game_name": "Standoff Multiplayer",
+      "file": "missing/S/138172-standoff-multiplayer.json"
+    },
+    {
       "igdb_id": 70964,
       "game_name": "Stanley: Wild for Sharks!",
       "file": "missing/S/70964-stanley-wild-for-sharks.json"
@@ -215256,6 +215456,11 @@
       "igdb_id": 314267,
       "game_name": "Starfield: Rev-8",
       "file": "missing/S/314267-starfield-rev-8.json"
+    },
+    {
+      "igdb_id": 138158,
+      "game_name": "Starfighter",
+      "file": "missing/S/138158-starfighter.json"
     },
     {
       "igdb_id": 138810,
@@ -228108,6 +228313,11 @@
       "file": "missing/T/265147-tax-evasion.json"
     },
     {
+      "igdb_id": 138156,
+      "game_name": "Taxi 3",
+      "file": "missing/T/138156-taxi-3.json"
+    },
+    {
       "igdb_id": 184653,
       "game_name": "Taxi By Night",
       "file": "missing/T/184653-taxi-by-night.json"
@@ -233678,6 +233888,11 @@
       "file": "missing/T/324121-the-escape-room-chronicles-ep3-the-southern-resort.json"
     },
     {
+      "igdb_id": 138193,
+      "game_name": "The Escapists + The Escapists 2",
+      "file": "missing/T/138193-the-escapists-the-escapists-2.json"
+    },
+    {
       "igdb_id": 323509,
       "game_name": "The Essence of Luna",
       "file": "missing/T/323509-the-essence-of-luna.json"
@@ -235208,6 +235423,11 @@
       "file": "missing/T/389974-the-hopeless-few.json"
     },
     {
+      "igdb_id": 138184,
+      "game_name": "The Horizon",
+      "file": "missing/T/138184-the-horizon.json"
+    },
+    {
       "igdb_id": 297817,
       "game_name": "The Horrible Inside",
       "file": "missing/T/297817-the-horrible-inside.json"
@@ -235281,6 +235501,11 @@
       "igdb_id": 39749,
       "game_name": "The House of Da Vinci",
       "file": "missing/T/39749-the-house-of-da-vinci.json"
+    },
+    {
+      "igdb_id": 138182,
+      "game_name": "The House of God",
+      "file": "missing/T/138182-the-house-of-god.json"
     },
     {
       "igdb_id": 380426,
@@ -237053,6 +237278,11 @@
       "file": "missing/T/192894-the-lighthouse-of-sao-bento-do-oeste.json"
     },
     {
+      "igdb_id": 138186,
+      "game_name": "The Lightning Over Pear Acre Road",
+      "file": "missing/T/138186-the-lightning-over-pear-acre-road.json"
+    },
+    {
       "igdb_id": 302141,
       "game_name": "The Lightshield Report",
       "file": "missing/T/302141-the-lightshield-report.json"
@@ -237791,6 +238021,11 @@
       "igdb_id": 150700,
       "game_name": "The Maze Escaper",
       "file": "missing/T/150700-the-maze-escaper.json"
+    },
+    {
+      "igdb_id": 138159,
+      "game_name": "The Maze Runner",
+      "file": "missing/T/138159-the-maze-runner.json"
     },
     {
       "igdb_id": 349310,
@@ -241416,6 +241651,11 @@
       "igdb_id": 145618,
       "game_name": "The Tour of Duty",
       "file": "missing/T/145618-the-tour-of-duty.json"
+    },
+    {
+      "igdb_id": 138180,
+      "game_name": "The Tower",
+      "file": "missing/T/138180-the-tower.json"
     },
     {
       "igdb_id": 157690,
@@ -256483,6 +256723,11 @@
       "file": "missing/U/51267-umineko-no-naku-koro-ni-chiru.json"
     },
     {
+      "igdb_id": 138162,
+      "game_name": "Umineko no Naku Koro ni Chiru: Shinjitsu to Gensou no Nocturne",
+      "file": "missing/U/138162-umineko-no-naku-koro-ni-chiru-shinjitsu-to-gensou-no-nocturne.json"
+    },
+    {
       "igdb_id": 146817,
       "game_name": "Umineko no Naku Koro ni Hane",
       "file": "missing/U/146817-umineko-no-naku-koro-ni-hane.json"
@@ -259466,6 +259711,11 @@
       "igdb_id": 124222,
       "game_name": "Vampire Martina-Bloody Day 228",
       "file": "missing/V/124222-vampire-martina-bloody-day-228.json"
+    },
+    {
+      "igdb_id": 138187,
+      "game_name": "Vampire Night Shift",
+      "file": "missing/V/138187-vampire-night-shift.json"
     },
     {
       "igdb_id": 394169,
