@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trader | 207849 | [207849-galaxy-trader.json](./207849-galaxy-trader.json) |
 | Galaxy Trek | 285458 | [285458-galaxy-trek.json](./285458-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
+| Galaxy Warrior | 152319 | [152319-galaxy-warrior.json](./152319-galaxy-warrior.json) |
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
 | GalaxyMotoCrossHD | 246967 | [246967-galaxymotocrosshd.json](./246967-galaxymotocrosshd.json) |
@@ -280,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta: The Return | 189117 | [189117-gangsta-the-return.json](./189117-gangsta-the-return.json) |
 | Gangstar City | 403574 | [403574-gangstar-city.json](./403574-gangstar-city.json) |
 | Gangstar New York | 211210 | [211210-gangstar-new-york.json](./211210-gangstar-new-york.json) |
+| Gangstar: Miami Vindication | 152331 | [152331-gangstar-miami-vindication.json](./152331-gangstar-miami-vindication.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
@@ -644,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
 | Ghost Town Mine Ride & Shootin' Gallery | 33079 | [33079-ghost-town-mine-ride-and-shootin-gallery.json](./33079-ghost-town-mine-ride-and-shootin-gallery.json) |
+| Ghost Town: Dawn of War | 152317 | [152317-ghost-town-dawn-of-war.json](./152317-ghost-town-dawn-of-war.json) |
 | Ghost Trap | 208607 | [208607-ghost-trap.json](./208607-ghost-trap.json) |
 | Ghost Village | 224237 | [224237-ghost-village.json](./224237-ghost-village.json) |
 | Ghost Voyage | 269837 | [269837-ghost-voyage.json](./269837-ghost-voyage.json) |
@@ -872,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnubbl | 370720 | [370720-gnubbl.json](./370720-gnubbl.json) |
 | Go | 13722 | [13722-go.json](./13722-go.json) |
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
+| Go Ballistic | 152306 | [152306-go-ballistic.json](./152306-go-ballistic.json) |
 | Go Bananas | 269016 | [269016-go-bananas.json](./269016-go-bananas.json) |
 | Go Bear Go! | 327830 | [327830-go-bear-go.json](./327830-go-bear-go.json) |
 | Go Big | 394220 | [394220-go-big.json](./394220-go-big.json) |
