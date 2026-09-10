@@ -345,7 +345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 90 Minutes European Prime Goal | 42663 | [42663-90-minutes-european-prime-goal.json](./42663-90-minutes-european-prime-goal.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 911 Operator: Special Resources | 149546 | [149546-911-operator-special-resources.json](./149546-911-operator-special-resources.json) |
-| 94 Degrees: fun trivia quiz | 27787 | [27787-94-degrees-fun-trivia-quiz.json](./27787-94-degrees-fun-trivia-quiz.json) |
 | 94 Seconds: category word game | 27788 | [27788-94-seconds-category-word-game.json](./27788-94-seconds-category-word-game.json) |
 | 94% | 27784 | [27784-94.json](./27784-94.json) |
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
