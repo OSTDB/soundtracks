@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wettop | 358871 | [358871-wettop.json](./358871-wettop.json) |
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
+| Whack A Rat VR | 147427 | [147427-whack-a-rat-vr.json](./147427-whack-a-rat-vr.json) |
 | Whack First!: Fight the Moles | 212268 | [212268-whack-first-fight-the-moles.json](./212268-whack-first-fight-the-moles.json) |
 | Whack-A-Friend | 85486 | [85486-whack-a-friend.json](./85486-whack-a-friend.json) |
 | Whack-A-Monster | 410919 | [410919-whack-a-monster.json](./410919-whack-a-monster.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
 | Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
+| Will Walker | 147377 | [147377-will-walker.json](./147377-will-walker.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
@@ -1434,10 +1436,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
 | World of Warships: Starter Pack - Ishizuchi | 223475 | [223475-world-of-warships-starter-pack-ishizuchi.json](./223475-world-of-warships-starter-pack-ishizuchi.json) |
 | World of Wimmelbild Gold | 92503 | [92503-world-of-wimmelbild-gold.json](./92503-world-of-wimmelbild-gold.json) |
+| World of Wonder | 147396 | [147396-world-of-wonder.json](./147396-world-of-wonder.json) |
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
 | World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
 | World Poker Tour | 220133 | [220133-world-poker-tour.json](./220133-world-poker-tour.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
+| World Racing '95 | 147430 | [147430-world-racing-95.json](./147430-world-racing-95.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
