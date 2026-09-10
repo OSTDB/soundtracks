@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
 | Karate Krab | 76650 | [76650-karate-krab.json](./76650-karate-krab.json) |
+| Karate Krab: Red Sea | 167248 | [167248-karate-krab-red-sea.json](./167248-karate-krab-red-sea.json) |
 | Karate Survivor | 307796 | [307796-karate-survivor.json](./307796-karate-survivor.json) |
 | Karawan | 180232 | [180232-karawan.json](./180232-karawan.json) |
 | Kardia Tou Abel | 174807 | [174807-kardia-tou-abel.json](./174807-kardia-tou-abel.json) |
@@ -421,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill the Dragon | 268494 | [268494-kill-the-dragon.json](./268494-kill-the-dragon.json) |
 | Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
+| Kill the Humans | 167269 | [167269-kill-the-humans.json](./167269-kill-the-humans.json) |
 | Kill The K.O.T.H | 261794 | [261794-kill-the-k-o-t-h.json](./261794-kill-the-k-o-t-h.json) |
 | Kill The Lights! | 337636 | [337636-kill-the-lights.json](./337636-kill-the-lights.json) |
 | Kill The Monk | 269865 | [269865-kill-the-monk.json](./269865-kill-the-monk.json) |
