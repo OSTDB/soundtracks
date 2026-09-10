@@ -249,7 +249,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Snake . io | 100864 | [100864-3d-snake-io.json](./100864-3d-snake-io.json) |
 | 3D Sonic the Hedgehog | 84656 | [84656-3d-sonic-the-hedgehog.json](./84656-3d-sonic-the-hedgehog.json) |
 | 3D Space Ranger | 15578 | [15578-3d-space-ranger.json](./15578-3d-space-ranger.json) |
-| 3D Starstrike II | 45341 | [45341-3d-starstrike-ii.json](./45341-3d-starstrike-ii.json) |
 | 3D Stock Car Championship | 73294 | [73294-3d-stock-car-championship.json](./73294-3d-stock-car-championship.json) |
 | 3D Streets of Rage | 47643 | [47643-3d-streets-of-rage.json](./47643-3d-streets-of-rage.json) |
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
