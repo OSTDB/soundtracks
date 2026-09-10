@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Jack | 340780 | [340780-jumping-jack.json](./340780-jumping-jack.json) |
 | Jumping Jacks | 243100 | [243100-jumping-jacks.json](./243100-jumping-jacks.json) |
 | Jumping Over It With Kang KiYun | 120382 | [120382-jumping-over-it-with-kang-kiyun.json](./120382-jumping-over-it-with-kang-kiyun.json) |
+| Jumping Platform Minigame | 158683 | [158683-jumping-platform-minigame.json](./158683-jumping-platform-minigame.json) |
 | Jumping Whopper | 238203 | [238203-jumping-whopper.json](./238203-jumping-whopper.json) |
 | Jumping! | 209655 | [209655-jumping.json](./209655-jumping.json) |
 | JumpJumpJump! | 335086 | [335086-jumpjumpjump.json](./335086-jumpjumpjump.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Drift It ! | 122412 | [122412-just-drift-it.json](./122412-just-drift-it.json) |
 | Just Drive | 286004 | [286004-just-drive.json](./286004-just-drive.json) |
 | Just Drive a Lil: It's a Mini Racing Game! | 217516 | [217516-just-drive-a-lil-its-a-mini-racing-game.json](./217516-just-drive-a-lil-its-a-mini-racing-game.json) |
+| Just Get In Through the Door | 158677 | [158677-just-get-in-through-the-door.json](./158677-just-get-in-through-the-door.json) |
 | Just Get There | 291747 | [291747-just-get-there.json](./291747-just-get-there.json) |
 | Just Get Z | 259236 | [259236-just-get-z.json](./259236-just-get-z.json) |
 | Just Glide | 137649 | [137649-just-glide.json](./137649-just-glide.json) |
