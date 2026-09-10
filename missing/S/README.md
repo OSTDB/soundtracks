@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SangRaciner | 244265 | [244265-sangraciner.json](./244265-sangraciner.json) |
 | Sanguine | 260425 | [260425-sanguine.json](./260425-sanguine.json) |
 | Sanguine Holy Land | 299431 | [299431-sanguine-holy-land.json](./299431-sanguine-holy-land.json) |
+| Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
 | Sānguó Qúnyīng Lù | 407319 | [407319-sanguo-qunying-lu.json](./407319-sanguo-qunying-lu.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
@@ -1001,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Blood Rugby | 175879 | [175879-sensible-blood-rugby.json](./175879-sensible-blood-rugby.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
 | Sensitive | 320188 | [320188-sensitive.json](./320188-sensitive.json) |
+| Sensorium | 138740 | [138740-sensorium.json](./138740-sensorium.json) |
 | Sensory Deprivation Chamber | 262088 | [262088-sensory-deprivation-chamber.json](./262088-sensory-deprivation-chamber.json) |
 | Sensual Adventures: Episode 7 | 245856 | [245856-sensual-adventures-episode-7.json](./245856-sensual-adventures-episode-7.json) |
 | Sensual Adventures: Episode 8 | 259002 | [259002-sensual-adventures-episode-8.json](./259002-sensual-adventures-episode-8.json) |
@@ -1059,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serve The Cups | 276176 | [276176-serve-the-cups.json](./276176-serve-the-cups.json) |
 | Served in Yong'an | 266474 | [266474-served-in-yongan.json](./266474-served-in-yongan.json) |
 | Served! A Gourmet Race | 104684 | [104684-served-a-gourmet-race.json](./104684-served-a-gourmet-race.json) |
+| Server is Down | 138751 | [138751-server-is-down.json](./138751-server-is-down.json) |
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
 | Sesame Street Fighter | 339673 | [339673-sesame-street-fighter.json](./339673-sesame-street-fighter.json) |
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
@@ -1918,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverstone | 388049 | [388049-silverstone.json](./388049-silverstone.json) |
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
+| Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
 | SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
 | SimAnimals | 371270 | [371270-simanimals.json](./371270-simanimals.json) |
@@ -2185,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skippy the Bot | 163369 | [163369-skippy-the-bot.json](./163369-skippy-the-bot.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
+| Skitt | 138735 | [138735-skitt.json](./138735-skitt.json) |
 | Skoof Fishing | 356663 | [356663-skoof-fishing.json](./356663-skoof-fishing.json) |
 | Skrunkly gets a Meal Deal | 332984 | [332984-skrunkly-gets-a-meal-deal.json](./332984-skrunkly-gets-a-meal-deal.json) |
 | Skuiggle | 202945 | [202945-skuiggle.json](./202945-skuiggle.json) |
@@ -2626,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnakeLogic | 104674 | [104674-snakelogic.json](./104674-snakelogic.json) |
 | Snakenoid | 84875 | [84875-snakenoid.json](./84875-snakenoid.json) |
 | Snakenoid Deluxe | 84874 | [84874-snakenoid-deluxe.json](./84874-snakenoid-deluxe.json) |
+| Snakeout | 138725 | [138725-snakeout.json](./138725-snakeout.json) |
 | SnakeQR | 146844 | [146844-snakeqr.json](./146844-snakeqr.json) |
 | Snaker 64 | 244757 | [244757-snaker-64.json](./244757-snaker-64.json) |
 | Snakes & Ladders | 147984 | [147984-snakes-and-ladders.json](./147984-snakes-and-ladders.json) |
@@ -4207,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
 | Stagnated In Slumber | 212250 | [212250-stagnated-in-slumber.json](./212250-stagnated-in-slumber.json) |
 | Stagnatum | 185109 | [185109-stagnatum.json](./185109-stagnatum.json) |
+| Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
@@ -5475,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
 | Super Cream 64: The Grand Finale | 214764 | [214764-super-cream-64-the-grand-finale.json](./214764-super-cream-64-the-grand-finale.json) |
 | Super Creme World | 267920 | [267920-super-creme-world.json](./267920-super-creme-world.json) |
+| Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
 | Super Dany | 42658 | [42658-super-dany.json](./42658-super-dany.json) |
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Dark Deception | 224549 | [224549-super-dark-deception.json](./224549-super-dark-deception.json) |
