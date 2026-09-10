@@ -3129,9 +3129,58 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu 2: Warp Tiger M09 | 173716 | [173716-the-tower-of-tigerqiuqiu-2-warp-tiger-m09.json](./173716-the-tower-of-tigerqiuqiu-2-warp-tiger-m09.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M12 | 173728 | [173728-the-tower-of-tigerqiuqiu-2-warp-tiger-m12.json](./173728-the-tower-of-tigerqiuqiu-2-warp-tiger-m12.json) |
 | The Tower of TigerQiuQiu 2: Warp Tiger M13 | 173720 | [173720-the-tower-of-tigerqiuqiu-2-warp-tiger-m13.json](./173720-the-tower-of-tigerqiuqiu-2-warp-tiger-m13.json) |
+| The Tower of TigerQiuQiu: 4-way Dodge the ball | 157625 | [157625-the-tower-of-tigerqiuqiu-4-way-dodge-the-ball.json](./157625-the-tower-of-tigerqiuqiu-4-way-dodge-the-ball.json) |
+| The Tower of TigerQiuQiu: Armored Fighter Arena | 157665 | [157665-the-tower-of-tigerqiuqiu-armored-fighter-arena.json](./157665-the-tower-of-tigerqiuqiu-armored-fighter-arena.json) |
 | The Tower of TigerQiuQiu: Bomber the Falling Stone | 166138 | [166138-the-tower-of-tigerqiuqiu-bomber-the-falling-stone.json](./166138-the-tower-of-tigerqiuqiu-bomber-the-falling-stone.json) |
+| The Tower of TigerQiuQiu: Bomber the Rolling Stone | 157624 | [157624-the-tower-of-tigerqiuqiu-bomber-the-rolling-stone.json](./157624-the-tower-of-tigerqiuqiu-bomber-the-rolling-stone.json) |
 | The Tower of TigerQiuQiu: Bomber the Ruby Magic | 166137 | [166137-the-tower-of-tigerqiuqiu-bomber-the-ruby-magic.json](./166137-the-tower-of-tigerqiuqiu-bomber-the-ruby-magic.json) |
+| The Tower of TigerQiuQiu: Bomber the Ruby Sword | 157661 | [157661-the-tower-of-tigerqiuqiu-bomber-the-ruby-sword.json](./157661-the-tower-of-tigerqiuqiu-bomber-the-ruby-sword.json) |
+| The Tower of TigerQiuQiu: Bomber Tiger | 157654 | [157654-the-tower-of-tigerqiuqiu-bomber-tiger.json](./157654-the-tower-of-tigerqiuqiu-bomber-tiger.json) |
+| The Tower of TigerQiuQiu: Deepwater Bomb | 157669 | [157669-the-tower-of-tigerqiuqiu-deepwater-bomb.json](./157669-the-tower-of-tigerqiuqiu-deepwater-bomb.json) |
+| The Tower of TigerQiuQiu: Down to Hole | 157627 | [157627-the-tower-of-tigerqiuqiu-down-to-hole.json](./157627-the-tower-of-tigerqiuqiu-down-to-hole.json) |
+| The Tower of TigerQiuQiu: Drop Balls | 157639 | [157639-the-tower-of-tigerqiuqiu-drop-balls.json](./157639-the-tower-of-tigerqiuqiu-drop-balls.json) |
+| The Tower of TigerQiuQiu: Duck War | 157652 | [157652-the-tower-of-tigerqiuqiu-duck-war.json](./157652-the-tower-of-tigerqiuqiu-duck-war.json) |
+| The Tower of TigerQiuQiu: Elevators War | 157632 | [157632-the-tower-of-tigerqiuqiu-elevators-war.json](./157632-the-tower-of-tigerqiuqiu-elevators-war.json) |
+| The Tower of TigerQiuQiu: Falling Stone | 157645 | [157645-the-tower-of-tigerqiuqiu-falling-stone.json](./157645-the-tower-of-tigerqiuqiu-falling-stone.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Alice | 157658 | [157658-the-tower-of-tigerqiuqiu-girl-breaker-alice.json](./157658-the-tower-of-tigerqiuqiu-girl-breaker-alice.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Anna | 157629 | [157629-the-tower-of-tigerqiuqiu-girl-breaker-anna.json](./157629-the-tower-of-tigerqiuqiu-girl-breaker-anna.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Ava | 157660 | [157660-the-tower-of-tigerqiuqiu-girl-breaker-ava.json](./157660-the-tower-of-tigerqiuqiu-girl-breaker-ava.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Chloe | 157634 | [157634-the-tower-of-tigerqiuqiu-girl-breaker-chloe.json](./157634-the-tower-of-tigerqiuqiu-girl-breaker-chloe.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Elizabeth | 157628 | [157628-the-tower-of-tigerqiuqiu-girl-breaker-elizabeth.json](./157628-the-tower-of-tigerqiuqiu-girl-breaker-elizabeth.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Emma | 157651 | [157651-the-tower-of-tigerqiuqiu-girl-breaker-emma.json](./157651-the-tower-of-tigerqiuqiu-girl-breaker-emma.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Grace | 157644 | [157644-the-tower-of-tigerqiuqiu-girl-breaker-grace.json](./157644-the-tower-of-tigerqiuqiu-girl-breaker-grace.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Hannah | 157640 | [157640-the-tower-of-tigerqiuqiu-girl-breaker-hannah.json](./157640-the-tower-of-tigerqiuqiu-girl-breaker-hannah.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Isabella | 157667 | [157667-the-tower-of-tigerqiuqiu-girl-breaker-isabella.json](./157667-the-tower-of-tigerqiuqiu-girl-breaker-isabella.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Lucy | 157655 | [157655-the-tower-of-tigerqiuqiu-girl-breaker-lucy.json](./157655-the-tower-of-tigerqiuqiu-girl-breaker-lucy.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Madison | 157647 | [157647-the-tower-of-tigerqiuqiu-girl-breaker-madison.json](./157647-the-tower-of-tigerqiuqiu-girl-breaker-madison.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Olivia | 157636 | [157636-the-tower-of-tigerqiuqiu-girl-breaker-olivia.json](./157636-the-tower-of-tigerqiuqiu-girl-breaker-olivia.json) |
+| The Tower of TigerQiuQiu: Girl Breaker Sophia | 157648 | [157648-the-tower-of-tigerqiuqiu-girl-breaker-sophia.json](./157648-the-tower-of-tigerqiuqiu-girl-breaker-sophia.json) |
+| The Tower of TigerQiuQiu: Into The Blue | 157631 | [157631-the-tower-of-tigerqiuqiu-into-the-blue.json](./157631-the-tower-of-tigerqiuqiu-into-the-blue.json) |
+| The Tower of TigerQiuQiu: Match 3 | 157635 | [157635-the-tower-of-tigerqiuqiu-match-3.json](./157635-the-tower-of-tigerqiuqiu-match-3.json) |
+| The Tower of TigerQiuQiu: Ninja Delta | 157664 | [157664-the-tower-of-tigerqiuqiu-ninja-delta.json](./157664-the-tower-of-tigerqiuqiu-ninja-delta.json) |
+| The Tower of TigerQiuQiu: Ninja Epsilon | 157623 | [157623-the-tower-of-tigerqiuqiu-ninja-epsilon.json](./157623-the-tower-of-tigerqiuqiu-ninja-epsilon.json) |
+| The Tower of TigerQiuQiu: Ninja Plus | 157630 | [157630-the-tower-of-tigerqiuqiu-ninja-plus.json](./157630-the-tower-of-tigerqiuqiu-ninja-plus.json) |
+| The Tower of TigerQiuQiu: Ninja S | 157663 | [157663-the-tower-of-tigerqiuqiu-ninja-s.json](./157663-the-tower-of-tigerqiuqiu-ninja-s.json) |
+| The Tower of TigerQiuQiu: Ninja Thet | 157668 | [157668-the-tower-of-tigerqiuqiu-ninja-thet.json](./157668-the-tower-of-tigerqiuqiu-ninja-thet.json) |
+| The Tower of TigerQiuQiu: Ninja Tiger - QiuQiu | 157659 | [157659-the-tower-of-tigerqiuqiu-ninja-tiger-qiuqiu.json](./157659-the-tower-of-tigerqiuqiu-ninja-tiger-qiuqiu.json) |
+| The Tower of TigerQiuQiu: Ninja W | 157649 | [157649-the-tower-of-tigerqiuqiu-ninja-w.json](./157649-the-tower-of-tigerqiuqiu-ninja-w.json) |
+| The Tower of TigerQiuQiu: Ninja Zeta | 157670 | [157670-the-tower-of-tigerqiuqiu-ninja-zeta.json](./157670-the-tower-of-tigerqiuqiu-ninja-zeta.json) |
+| The Tower of TigerQiuQiu: Nyaa Invaders 2 | 157657 | [157657-the-tower-of-tigerqiuqiu-nyaa-invaders-2.json](./157657-the-tower-of-tigerqiuqiu-nyaa-invaders-2.json) |
+| The Tower of TigerQiuQiu: Nyaa Invaders 3 | 157650 | [157650-the-tower-of-tigerqiuqiu-nyaa-invaders-3.json](./157650-the-tower-of-tigerqiuqiu-nyaa-invaders-3.json) |
 | The Tower of TigerQiuQiu: Pinball Killer | 166139 | [166139-the-tower-of-tigerqiuqiu-pinball-killer.json](./166139-the-tower-of-tigerqiuqiu-pinball-killer.json) |
+| The Tower of TigerQiuQiu: Sneak | 157656 | [157656-the-tower-of-tigerqiuqiu-sneak.json](./157656-the-tower-of-tigerqiuqiu-sneak.json) |
+| The Tower of TigerQiuQiu: Sniper | 157643 | [157643-the-tower-of-tigerqiuqiu-sniper.json](./157643-the-tower-of-tigerqiuqiu-sniper.json) |
+| The Tower of TigerQiuQiu: Space Force | 157641 | [157641-the-tower-of-tigerqiuqiu-space-force.json](./157641-the-tower-of-tigerqiuqiu-space-force.json) |
+| The Tower of TigerQiuQiu: Super Tigerio | 157666 | [157666-the-tower-of-tigerqiuqiu-super-tigerio.json](./157666-the-tower-of-tigerqiuqiu-super-tigerio.json) |
+| The Tower of TigerQiuQiu: Thief Mouse | 157637 | [157637-the-tower-of-tigerqiuqiu-thief-mouse.json](./157637-the-tower-of-tigerqiuqiu-thief-mouse.json) |
+| The Tower of TigerQiuQiu: Tiger 1952 | 157638 | [157638-the-tower-of-tigerqiuqiu-tiger-1952.json](./157638-the-tower-of-tigerqiuqiu-tiger-1952.json) |
+| The Tower of TigerQiuQiu: Tiger Tank 60 | 157662 | [157662-the-tower-of-tigerqiuqiu-tiger-tank-60.json](./157662-the-tower-of-tigerqiuqiu-tiger-tank-60.json) |
+| The Tower of TigerQiuQiu: Tiger Tank 62 | 157642 | [157642-the-tower-of-tigerqiuqiu-tiger-tank-62.json](./157642-the-tower-of-tigerqiuqiu-tiger-tank-62.json) |
+| The Tower of TigerQiuQiu: Tiger Tank 64 | 157622 | [157622-the-tower-of-tigerqiuqiu-tiger-tank-64.json](./157622-the-tower-of-tigerqiuqiu-tiger-tank-64.json) |
+| The Tower of TigerQiuQiu: Tiger Tank 65 | 157626 | [157626-the-tower-of-tigerqiuqiu-tiger-tank-65.json](./157626-the-tower-of-tigerqiuqiu-tiger-tank-65.json) |
+| The Tower of TigerQiuQiu: Tiger Tank Defense S | 157653 | [157653-the-tower-of-tigerqiuqiu-tiger-tank-defense-s.json](./157653-the-tower-of-tigerqiuqiu-tiger-tank-defense-s.json) |
+| The Tower of TigerQiuQiu: Tiger Tank G | 157646 | [157646-the-tower-of-tigerqiuqiu-tiger-tank-g.json](./157646-the-tower-of-tigerqiuqiu-tiger-tank-g.json) |
+| The Tower of TigerQiuQiu: Warp Tiger | 157633 | [157633-the-tower-of-tigerqiuqiu-warp-tiger.json](./157633-the-tower-of-tigerqiuqiu-warp-tiger.json) |
 | The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
