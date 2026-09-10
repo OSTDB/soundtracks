@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
+| Elsewhere High: Chapter 2 - A Visual Novel | 168866 | [168866-elsewhere-high-chapter-2-a-visual-novel.json](./168866-elsewhere-high-chapter-2-a-visual-novel.json) |
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
 | Elumin | 295811 | [295811-elumin.json](./295811-elumin.json) |
