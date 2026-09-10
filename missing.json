@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T00:33:37.209Z",
-  "total_missing": 52396,
+  "generated_at": "2026-09-10T00:41:13.246Z",
+  "total_missing": 52395,
   "games": [
     {
       "igdb_id": 306086,
@@ -1171,11 +1171,6 @@
       "igdb_id": 15577,
       "game_name": "3D Munchy",
       "file": "missing/0-9/15577-3d-munchy.json"
-    },
-    {
-      "igdb_id": 307323,
-      "game_name": "3D Pinball: Space Cadet NDS",
-      "file": "missing/0-9/307323-3d-pinball-space-cadet-nds.json"
     },
     {
       "igdb_id": 88273,
