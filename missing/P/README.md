@@ -2067,9 +2067,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers Legends | 63856 | [63856-power-rangers-legends.json](./63856-power-rangers-legends.json) |
 | Power Rangers S.P.D.: Escape of the Five Fugitives | 220103 | [220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json](./220103-power-rangers-s-p-d-escape-of-the-five-fugitives.json) |
 | Power Rangers Super Samurai | 25162 | [25162-power-rangers-super-samurai.json](./25162-power-rangers-super-samurai.json) |
+| Power Rangers: Battle for the Grid - Anubis Cruger SPD Shadow Ranger | 167794 | [167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json](./167794-power-rangers-battle-for-the-grid-anubis-cruger-spd-shadow-ranger.json) |
+| Power Rangers: Battle for the Grid - Chun-Li Blue Phoenix Ranger | 167793 | [167793-power-rangers-battle-for-the-grid-chun-li-blue-phoenix-ranger.json](./167793-power-rangers-battle-for-the-grid-chun-li-blue-phoenix-ranger.json) |
 | Power Rangers: Battle for the Grid - Collector's Edition | 119069 | [119069-power-rangers-battle-for-the-grid-collectors-edition.json](./119069-power-rangers-battle-for-the-grid-collectors-edition.json) |
+| Power Rangers: Battle for the Grid - Dai Shi | 167788 | [167788-power-rangers-battle-for-the-grid-dai-shi.json](./167788-power-rangers-battle-for-the-grid-dai-shi.json) |
 | Power Rangers: Battle for the Grid - Digital Collector's Edition | 205276 | [205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json](./205276-power-rangers-battle-for-the-grid-digital-collectors-edition.json) |
+| Power Rangers: Battle for the Grid - Eric Myers Time Force Quantum Ranger | 167796 | [167796-power-rangers-battle-for-the-grid-eric-myers-time-force-quantum-ranger.json](./167796-power-rangers-battle-for-the-grid-eric-myers-time-force-quantum-ranger.json) |
+| Power Rangers: Battle for the Grid - Lauren Shiba Super Samurai | 167787 | [167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json](./167787-power-rangers-battle-for-the-grid-lauren-shiba-super-samurai.json) |
+| Power Rangers: Battle for the Grid - Lord Zedd | 167790 | [167790-power-rangers-battle-for-the-grid-lord-zedd.json](./167790-power-rangers-battle-for-the-grid-lord-zedd.json) |
+| Power Rangers: Battle for the Grid - Robert James Jungle Fury | 167789 | [167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json](./167789-power-rangers-battle-for-the-grid-robert-james-jungle-fury.json) |
+| Power Rangers: Battle for the Grid - Ryu Crimson Hawk Ranger | 167791 | [167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json](./167791-power-rangers-battle-for-the-grid-ryu-crimson-hawk-ranger.json) |
+| Power Rangers: Battle for the Grid - Scorpina | 167795 | [167795-power-rangers-battle-for-the-grid-scorpina.json](./167795-power-rangers-battle-for-the-grid-scorpina.json) |
 | Power Rangers: Battle for the Grid - Street Fighter Pack | 237979 | [237979-power-rangers-battle-for-the-grid-street-fighter-pack.json](./237979-power-rangers-battle-for-the-grid-street-fighter-pack.json) |
+| Power Rangers: Battle for the Grid - Trey of Triforia: Gold Zeo Ranger | 167792 | [167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json](./167792-power-rangers-battle-for-the-grid-trey-of-triforia-gold-zeo-ranger.json) |
 | Power Rangers: Force in Time | 220104 | [220104-power-rangers-force-in-time.json](./220104-power-rangers-force-in-time.json) |
 | Power Rangers: Mystic Force | 330744 | [330744-power-rangers-mystic-force.json](./330744-power-rangers-mystic-force.json) |
 | Power Rangers: To the Rescue | 220101 | [220101-power-rangers-to-the-rescue.json](./220101-power-rangers-to-the-rescue.json) |
@@ -2672,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull'em All! | 208964 | [208964-pullem-all.json](./208964-pullem-all.json) |
 | Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
+| Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
@@ -2762,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Push Penguin | 209600 | [209600-push-push-penguin.json](./209600-push-push-penguin.json) |
 | Push Puzzle: Rescue Adventure | 179205 | [179205-push-puzzle-rescue-adventure.json](./179205-push-puzzle-rescue-adventure.json) |
 | Push Stack | 146348 | [146348-push-stack.json](./146348-push-stack.json) |
+| Push the Box 3D | 167784 | [167784-push-the-box-3d.json](./167784-push-the-box-3d.json) |
 | Push the Circles Extreme | 96036 | [96036-push-the-circles-extreme.json](./96036-push-the-circles-extreme.json) |
 | Push the Crate | 147991 | [147991-push-the-crate.json](./147991-push-the-crate.json) |
 | Push the Sheep | 193463 | [193463-push-the-sheep.json](./193463-push-the-sheep.json) |
