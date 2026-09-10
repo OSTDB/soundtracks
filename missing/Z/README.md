@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hell: Infected City | 216814 | [216814-zombie-hell-infected-city.json](./216814-zombie-hell-infected-city.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
 | Zombie Hunter Video Game | 220128 | [220128-zombie-hunter-video-game.json](./220128-zombie-hunter-video-game.json) |
+| Zombie In Town | 164976 | [164976-zombie-in-town.json](./164976-zombie-in-town.json) |
 | Zombie Incident | 41714 | [41714-zombie-incident.json](./41714-zombie-incident.json) |
 | Zombie Infection | 331340 | [331340-zombie-infection.json](./331340-zombie-infection.json) |
 | Zombie Killer Squad | 213946 | [213946-zombie-killer-squad.json](./213946-zombie-killer-squad.json) |
