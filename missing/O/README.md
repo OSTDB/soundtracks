@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Enforcer X | 181905 | [181905-omega-enforcer-x.json](./181905-omega-enforcer-x.json) |
 | Omega Fighter | 40256 | [40256-omega-fighter.json](./40256-omega-fighter.json) |
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
+| Omega Labyrinth Z: Limited Edition | 166184 | [166184-omega-labyrinth-z-limited-edition.json](./166184-omega-labyrinth-z-limited-edition.json) |
 | Omega Luma: The First Battle | 367941 | [367941-omega-luma-the-first-battle.json](./367941-omega-luma-the-first-battle.json) |
 | Omega Mario 64 | 365076 | [365076-omega-mario-64.json](./365076-omega-mario-64.json) |
 | Omega Mouse Zero | 296677 | [296677-omega-mouse-zero.json](./296677-omega-mouse-zero.json) |
