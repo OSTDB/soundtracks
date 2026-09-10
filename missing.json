@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T03:18:41.090Z",
-  "total_missing": 52753,
+  "generated_at": "2026-09-10T03:21:12.392Z",
+  "total_missing": 52752,
   "games": [
     {
       "igdb_id": 306086,
@@ -1251,11 +1251,6 @@
       "igdb_id": 187449,
       "game_name": "3M Spain Foundation: Stem + VR",
       "file": "missing/0-9/187449-3m-spain-foundation-stem-vr.json"
-    },
-    {
-      "igdb_id": 249819,
-      "game_name": "3on3 FreeStyle: Deluxe Edition",
-      "file": "missing/0-9/249819-3on3-freestyle-deluxe-edition.json"
     },
     {
       "igdb_id": 249818,
