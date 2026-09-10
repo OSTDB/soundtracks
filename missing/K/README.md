@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamigami no Asobi InFinite | 136474 | [136474-kamigami-no-asobi-infinite.json](./136474-kamigami-no-asobi-infinite.json) |
 | Kamigami no Asobi: Ludere Deorum | 125461 | [125461-kamigami-no-asobi-ludere-deorum.json](./125461-kamigami-no-asobi-ludere-deorum.json) |
 | Kamiji | 264056 | [264056-kamiji.json](./264056-kamiji.json) |
+| Kamikakushi | 133395 | [133395-kamikakushi.json](./133395-kamikakushi.json) |
 | Kamikaze Bros. 3 | 214771 | [214771-kamikaze-bros-3.json](./214771-kamikaze-bros-3.json) |
 | Kamikaze Lassplanes | 250011 | [250011-kamikaze-lassplanes.json](./250011-kamikaze-lassplanes.json) |
 | Kamikazo VR | 82142 | [82142-kamikazo-vr.json](./82142-kamikazo-vr.json) |
