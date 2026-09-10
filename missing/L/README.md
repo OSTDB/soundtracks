@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Shadow | 381602 | [381602-little-shadow.json](./381602-little-shadow.json) |
 | Little Shaker: Summer Adventures | 237623 | [237623-little-shaker-summer-adventures.json](./237623-little-shaker-summer-adventures.json) |
 | Little Shop - World Traveler | 53277 | [53277-little-shop-world-traveler.json](./53277-little-shop-world-traveler.json) |
+| Little Soldier | 164436 | [164436-little-soldier.json](./164436-little-soldier.json) |
 | Little Sound Dj | 91410 | [91410-little-sound-dj.json](./91410-little-sound-dj.json) |
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
