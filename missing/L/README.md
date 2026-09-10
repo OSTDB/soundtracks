@@ -550,7 +550,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Racers: The Video Game | 341908 | [341908-lego-racers-the-video-game.json](./341908-lego-racers-the-video-game.json) |
 | LEGO Star Wars: Castaways | 182441 | [182441-lego-star-wars-castaways.json](./182441-lego-star-wars-castaways.json) |
 | LEGO Star Wars: The Force Awakens - Deluxe Edition | 53271 | [53271-lego-star-wars-the-force-awakens-deluxe-edition.json](./53271-lego-star-wars-the-force-awakens-deluxe-edition.json) |
+| LEGO Star Wars: The Force Awakens - Escape From Starkiller Base | 138165 | [138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json](./138165-lego-star-wars-the-force-awakens-escape-from-starkiller-base.json) |
+| LEGO Star Wars: The Force Awakens - First Order Siege of Takodana | 138164 | [138164-lego-star-wars-the-force-awakens-first-order-siege-of-takodana.json](./138164-lego-star-wars-the-force-awakens-first-order-siege-of-takodana.json) |
+| LEGO Star Wars: The Force Awakens - Poe's Quest For Survival | 138161 | [138161-lego-star-wars-the-force-awakens-poes-quest-for-survival.json](./138161-lego-star-wars-the-force-awakens-poes-quest-for-survival.json) |
 | LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack | 169925 | [169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json](./169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json) |
+| LEGO Star Wars: The Force Awakens - The Phantom Limb | 138163 | [138163-lego-star-wars-the-force-awakens-the-phantom-limb.json](./138163-lego-star-wars-the-force-awakens-the-phantom-limb.json) |
 | LEGO Star Wars: The Skywalker Saga - Classic Character Edition | 139937 | [139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json](./139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json) |
 | LEGO Stunt Rally | 4112 | [4112-lego-stunt-rally.json](./4112-lego-stunt-rally.json) |
 | LEGO Super Heroes: Thor | 228414 | [228414-lego-super-heroes-thor.json](./228414-lego-super-heroes-thor.json) |
