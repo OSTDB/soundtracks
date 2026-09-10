@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Samurai | 235740 | [235740-endless-samurai.json](./235740-endless-samurai.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
+| Endless Voyage | 150090 | [150090-endless-voyage.json](./150090-endless-voyage.json) |
 | Endless War | 234911 | [234911-endless-war.json](./234911-endless-war.json) |
 | Endless War 2 | 234916 | [234916-endless-war-2.json](./234916-endless-war-2.json) |
 | Endless War 3 | 234920 | [234920-endless-war-3.json](./234920-endless-war-3.json) |
@@ -852,6 +853,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | Esau's World | 294150 | [294150-esaus-world.json](./294150-esaus-world.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
+| Escalation VR! | 150110 | [150110-escalation-vr.json](./150110-escalation-vr.json) |
+| Escalation! | 150099 | [150099-escalation.json](./150099-escalation.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
 | Escape | 295270 | [295270-escape.json](./295270-escape.json) |
@@ -1075,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
 | Eva | 185099 | [185099-eva.json](./185099-eva.json) |
+| Eva Dawn | 150111 | [150111-eva-dawn.json](./150111-eva-dawn.json) |
 | Evacuation | 182454 | [182454-evacuation.json](./182454-evacuation.json) |
 | Evacuation Combat | 156682 | [156682-evacuation-combat.json](./156682-evacuation-combat.json) |
 | Evade 2 | 144373 | [144373-evade-2.json](./144373-evade-2.json) |
@@ -1402,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
 | Eyes | 299142 | [299142-eyes.json](./299142-eyes.json) |
+| Eyes of the Killer | 150095 | [150095-eyes-of-the-killer.json](./150095-eyes-of-the-killer.json) |
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
