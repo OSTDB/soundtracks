@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T19:41:04.331Z",
-  "total_missing": 54976,
+  "generated_at": "2026-09-10T19:48:35.002Z",
+  "total_missing": 55026,
   "games": [
     {
       "igdb_id": 306086,
@@ -3053,6 +3053,11 @@
       "file": "missing/A/122649-a-total-war-saga-troy.json"
     },
     {
+      "igdb_id": 139940,
+      "game_name": "A Total War Saga: Troy - Limited Edition",
+      "file": "missing/A/139940-a-total-war-saga-troy-limited-edition.json"
+    },
+    {
       "igdb_id": 338718,
       "game_name": "A Tower",
       "file": "missing/A/338718-a-tower.json"
@@ -4216,6 +4221,11 @@
       "igdb_id": 138246,
       "game_name": "Ace Combat 7: Skies Unknown - Original Aircraft Series",
       "file": "missing/A/138246-ace-combat-7-skies-unknown-original-aircraft-series.json"
+    },
+    {
+      "igdb_id": 139975,
+      "game_name": "Ace Combat 7: Skies Unknown - Premium Edition",
+      "file": "missing/A/139975-ace-combat-7-skies-unknown-premium-edition.json"
     },
     {
       "igdb_id": 204084,
@@ -16391,6 +16401,11 @@
       "igdb_id": 121041,
       "game_name": "AstroGenesis: Boss Rush",
       "file": "missing/A/121041-astrogenesis-boss-rush.json"
+    },
+    {
+      "igdb_id": 139920,
+      "game_name": "Astrogon",
+      "file": "missing/A/139920-astrogon.json"
     },
     {
       "igdb_id": 130963,
@@ -35873,6 +35888,11 @@
       "file": "missing/C/76738-captain-tsubasa-dream-team.json"
     },
     {
+      "igdb_id": 139942,
+      "game_name": "Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition",
+      "file": "missing/C/139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json"
+    },
+    {
       "igdb_id": 214543,
       "game_name": "Captain Tsubasa: Rise of New Champions - Juan Diaz Mission",
       "file": "missing/C/214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json"
@@ -40221,6 +40241,11 @@
       "igdb_id": 314873,
       "game_name": "Chicken Party: Animal Farm",
       "file": "missing/C/314873-chicken-party-animal-farm.json"
+    },
+    {
+      "igdb_id": 139947,
+      "game_name": "Chicken Range Bundle",
+      "file": "missing/C/139947-chicken-range-bundle.json"
     },
     {
       "igdb_id": 213048,
@@ -45068,6 +45093,11 @@
       "file": "missing/C/99002-commando-vs-zombies.json"
     },
     {
+      "igdb_id": 139932,
+      "game_name": "Commandos 2 & Praetorians HD Remaster Double Pack",
+      "file": "missing/C/139932-commandos-2-and-praetorians-hd-remaster-double-pack.json"
+    },
+    {
       "igdb_id": 327181,
       "game_name": "Comme Tu Veux",
       "file": "missing/C/327181-comme-tu-veux.json"
@@ -45731,6 +45761,11 @@
       "igdb_id": 87338,
       "game_name": "Construction Simulator 2",
       "file": "missing/C/87338-construction-simulator-2.json"
+    },
+    {
+      "igdb_id": 139934,
+      "game_name": "Construction Simulator 2+3",
+      "file": "missing/C/139934-construction-simulator-2-3.json"
     },
     {
       "igdb_id": 168916,
@@ -54403,6 +54438,11 @@
       "file": "missing/D/283185-dead-by-daylight-old-wounds-pack.json"
     },
     {
+      "igdb_id": 139976,
+      "game_name": "Dead by Daylight: Silent Hill Edition",
+      "file": "missing/D/139976-dead-by-daylight-silent-hill-edition.json"
+    },
+    {
       "igdb_id": 109718,
       "game_name": "Dead by Wheel: Battle Royal",
       "file": "missing/D/109718-dead-by-wheel-battle-royal.json"
@@ -56966,6 +57006,11 @@
       "igdb_id": 195267,
       "game_name": "Demonophobia",
       "file": "missing/D/195267-demonophobia.json"
+    },
+    {
+      "igdb_id": 139927,
+      "game_name": "Demonpact: Clarice",
+      "file": "missing/D/139927-demonpact-clarice.json"
     },
     {
       "igdb_id": 291760,
@@ -59678,6 +59723,11 @@
       "file": "missing/D/234918-dirt-3-horn-pack.json"
     },
     {
+      "igdb_id": 139955,
+      "game_name": "Dirt 5: Limited Edition",
+      "file": "missing/D/139955-dirt-5-limited-edition.json"
+    },
+    {
       "igdb_id": 292027,
       "game_name": "Dirt 5: Wild Spirits Content Pack",
       "file": "missing/D/292027-dirt-5-wild-spirits-content-pack.json"
@@ -61081,6 +61131,11 @@
       "igdb_id": 181863,
       "game_name": "Dog Guardian and the Fallen Star",
       "file": "missing/D/181863-dog-guardian-and-the-fallen-star.json"
+    },
+    {
+      "igdb_id": 139926,
+      "game_name": "Dog in the City",
+      "file": "missing/D/139926-dog-in-the-city.json"
     },
     {
       "igdb_id": 249790,
@@ -75693,6 +75748,11 @@
       "file": "missing/F/88044-fallen-hero-rebirth.json"
     },
     {
+      "igdb_id": 139961,
+      "game_name": "Fallen Legion Revenants: Vanguard Edition",
+      "file": "missing/F/139961-fallen-legion-revenants-vanguard-edition.json"
+    },
+    {
       "igdb_id": 11285,
       "game_name": "Fallen London",
       "file": "missing/F/11285-fallen-london.json"
@@ -82768,6 +82828,11 @@
       "file": "missing/F/122080-football-manager-2020.json"
     },
     {
+      "igdb_id": 139962,
+      "game_name": "Football Manager 2021: Limited Edition",
+      "file": "missing/F/139962-football-manager-2021-limited-edition.json"
+    },
+    {
       "igdb_id": 266382,
       "game_name": "Football Manager 2024",
       "file": "missing/F/266382-football-manager-2024.json"
@@ -88988,6 +89053,11 @@
       "file": "missing/G/389972-gear-slots.json"
     },
     {
+      "igdb_id": 139963,
+      "game_name": "Gear.Club Unlimited 2: Tracks Edition",
+      "file": "missing/G/139963-gear-club-unlimited-2-tracks-edition.json"
+    },
+    {
       "igdb_id": 238212,
       "game_name": "Gear.Club Unlimited: Super Cars Pack",
       "file": "missing/G/238212-gear-club-unlimited-super-cars-pack.json"
@@ -92026,6 +92096,11 @@
       "igdb_id": 396211,
       "game_name": "Goddess Scroll: Brave Star",
       "file": "missing/G/396211-goddess-scroll-brave-star.json"
+    },
+    {
+      "igdb_id": 139946,
+      "game_name": "Godfall: Ascended Edition",
+      "file": "missing/G/139946-godfall-ascended-edition.json"
     },
     {
       "igdb_id": 185638,
@@ -106638,6 +106713,11 @@
       "file": "missing/H/157185-human-like.json"
     },
     {
+      "igdb_id": 139945,
+      "game_name": "Human: Fall Flat - Anniversary Edition",
+      "file": "missing/H/139945-human-fall-flat-anniversary-edition.json"
+    },
+    {
       "igdb_id": 252173,
       "game_name": "Human: Fall Flat - Dream Collection",
       "file": "missing/H/252173-human-fall-flat-dream-collection.json"
@@ -106676,6 +106756,11 @@
       "igdb_id": 188046,
       "game_name": "Humankind: Cultures of Africa",
       "file": "missing/H/188046-humankind-cultures-of-africa.json"
+    },
+    {
+      "igdb_id": 139935,
+      "game_name": "Humankind: Day One Edition",
+      "file": "missing/H/139935-humankind-day-one-edition.json"
     },
     {
       "igdb_id": 283778,
@@ -110783,6 +110868,11 @@
       "file": "missing/I/336528-indigo-horizon.json"
     },
     {
+      "igdb_id": 139933,
+      "game_name": "Indigo Prohecy: 15th Anniversary Edition",
+      "file": "missing/I/139933-indigo-prohecy-15th-anniversary-edition.json"
+    },
+    {
       "igdb_id": 410247,
       "game_name": "Indigo Prophecy",
       "file": "missing/I/410247-indigo-prophecy.json"
@@ -111891,6 +111981,11 @@
       "igdb_id": 269299,
       "game_name": "Instant Sports Summer + Winter",
       "file": "missing/I/269299-instant-sports-summer-winter.json"
+    },
+    {
+      "igdb_id": 139969,
+      "game_name": "Instant Sports Summer Games",
+      "file": "missing/I/139969-instant-sports-summer-games.json"
     },
     {
       "igdb_id": 260972,
@@ -119373,6 +119468,11 @@
       "file": "missing/K/121759-kerbal-space-program-2.json"
     },
     {
+      "igdb_id": 139970,
+      "game_name": "Kerbal Space Program: Enhanced Edition Complete",
+      "file": "missing/K/139970-kerbal-space-program-enhanced-edition-complete.json"
+    },
+    {
       "igdb_id": 413677,
       "game_name": "Kerf: Sawmill Tycoon",
       "file": "missing/K/413677-kerf-sawmill-tycoon.json"
@@ -123408,6 +123508,11 @@
       "file": "missing/L/143044-labarynth-of-legendary-loot.json"
     },
     {
+      "igdb_id": 139925,
+      "game_name": "LabRat",
+      "file": "missing/L/139925-labrat.json"
+    },
+    {
       "igdb_id": 359987,
       "game_name": "Labublas: Battle Royale Shooter",
       "file": "missing/L/359987-labublas-battle-royale-shooter.json"
@@ -124396,6 +124501,11 @@
       "igdb_id": 109245,
       "game_name": "Last Labyrinth",
       "file": "missing/L/109245-last-labyrinth.json"
+    },
+    {
+      "igdb_id": 139973,
+      "game_name": "Last Labyrinth: Collector's Edition",
+      "file": "missing/L/139973-last-labyrinth-collectors-edition.json"
     },
     {
       "igdb_id": 3534,
@@ -125938,6 +126048,11 @@
       "file": "missing/L/169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json"
     },
     {
+      "igdb_id": 139937,
+      "game_name": "LEGO Star Wars: The Skywalker Saga - Classic Character Edition",
+      "file": "missing/L/139937-lego-star-wars-the-skywalker-saga-classic-character-edition.json"
+    },
+    {
       "igdb_id": 4112,
       "game_name": "LEGO Stunt Rally",
       "file": "missing/L/4112-lego-stunt-rally.json"
@@ -125951,6 +126066,11 @@
       "igdb_id": 250613,
       "game_name": "LEGO Supersonic RC",
       "file": "missing/L/250613-lego-supersonic-rc.json"
+    },
+    {
+      "igdb_id": 139957,
+      "game_name": "LEGO The Lord of the Rings: Toy Edition",
+      "file": "missing/L/139957-lego-the-lord-of-the-rings-toy-edition.json"
     },
     {
       "igdb_id": 243690,
@@ -126466,6 +126586,11 @@
       "igdb_id": 268191,
       "game_name": "Let's Sing",
       "file": "missing/L/268191-lets-sing.json"
+    },
+    {
+      "igdb_id": 139930,
+      "game_name": "Let's Sing 13",
+      "file": "missing/L/139930-lets-sing-13.json"
     },
     {
       "igdb_id": 53272,
@@ -131863,6 +131988,11 @@
       "file": "missing/L/98958-lupo-alberto-the-videogame.json"
     },
     {
+      "igdb_id": 139953,
+      "game_name": "Lure",
+      "file": "missing/L/139953-lure.json"
+    },
+    {
       "igdb_id": 217316,
       "game_name": "Lurk and Rouse",
       "file": "missing/L/217316-lurk-and-rouse.json"
@@ -136898,6 +137028,11 @@
       "file": "missing/M/219084-maternalbound-redux.json"
     },
     {
+      "igdb_id": 139972,
+      "game_name": "Math",
+      "file": "missing/M/139972-math.json"
+    },
+    {
       "igdb_id": 265425,
       "game_name": "Math Be Nimble: Brain Training",
       "file": "missing/M/265425-math-be-nimble-brain-training.json"
@@ -141316,6 +141451,11 @@
       "igdb_id": 293928,
       "game_name": "Microsoft Flight Simulator: Deluxe 40th Anniversary Edition",
       "file": "missing/M/293928-microsoft-flight-simulator-deluxe-40th-anniversary-edition.json"
+    },
+    {
+      "igdb_id": 139959,
+      "game_name": "Microsoft Flight Simulator: Deluxe Edition",
+      "file": "missing/M/139959-microsoft-flight-simulator-deluxe-edition.json"
     },
     {
       "igdb_id": 293927,
@@ -145751,6 +145891,16 @@
       "igdb_id": 252384,
       "game_name": "Monster Hunter Rise: Bonus Update",
       "file": "missing/M/252384-monster-hunter-rise-bonus-update.json"
+    },
+    {
+      "igdb_id": 139971,
+      "game_name": "Monster Hunter Rise: Collector's Edition",
+      "file": "missing/M/139971-monster-hunter-rise-collectors-edition.json"
+    },
+    {
+      "igdb_id": 139943,
+      "game_name": "Monster Hunter Rise: Deluxe Edition",
+      "file": "missing/M/139943-monster-hunter-rise-deluxe-edition.json"
     },
     {
       "igdb_id": 252379,
@@ -158306,6 +158456,11 @@
       "igdb_id": 97905,
       "game_name": "Number Guesser",
       "file": "missing/N/97905-number-guesser.json"
+    },
+    {
+      "igdb_id": 139923,
+      "game_name": "Number Islands",
+      "file": "missing/N/139923-number-islands.json"
     },
     {
       "igdb_id": 223995,
@@ -171363,6 +171518,11 @@
       "file": "missing/P/237939-pixeljunk-monsters-2-tiki-bundle.json"
     },
     {
+      "igdb_id": 139952,
+      "game_name": "PixelJunk Monsters Encore",
+      "file": "missing/P/139952-pixeljunk-monsters-encore.json"
+    },
+    {
       "igdb_id": 213499,
       "game_name": "PixelJunk: Scrappers Deluxe",
       "file": "missing/P/213499-pixeljunk-scrappers-deluxe.json"
@@ -179108,6 +179268,11 @@
       "file": "missing/P/137132-puyo-puyo-tetris-2.json"
     },
     {
+      "igdb_id": 139944,
+      "game_name": "Puyo Puyo Tetris 2: Launch Edition",
+      "file": "missing/P/139944-puyo-puyo-tetris-2-launch-edition.json"
+    },
+    {
       "igdb_id": 367944,
       "game_name": "Puyo! Sokoban",
       "file": "missing/P/367944-puyo-sokoban.json"
@@ -181808,6 +181973,11 @@
       "file": "missing/R/317818-railway-empire-2-india.json"
     },
     {
+      "igdb_id": 139950,
+      "game_name": "Railway Empire: Complete Collection",
+      "file": "missing/R/139950-railway-empire-complete-collection.json"
+    },
+    {
       "igdb_id": 124808,
       "game_name": "Railway Empire: Great Britain & Ireland",
       "file": "missing/R/124808-railway-empire-great-britain-and-ireland.json"
@@ -182761,6 +182931,11 @@
       "igdb_id": 142390,
       "game_name": "Ravon",
       "file": "missing/R/142390-ravon.json"
+    },
+    {
+      "igdb_id": 139965,
+      "game_name": "Raw Data/Sprint Vector",
+      "file": "missing/R/139965-raw-data-sprint-vector.json"
     },
     {
       "igdb_id": 341307,
@@ -185271,6 +185446,11 @@
       "igdb_id": 109010,
       "game_name": "Remote Virtual Cockpit",
       "file": "missing/R/109010-remote-virtual-cockpit.json"
+    },
+    {
+      "igdb_id": 139977,
+      "game_name": "Remothered: Tormented Fathers & Broken Porcelain - Double Pack",
+      "file": "missing/R/139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json"
     },
     {
       "igdb_id": 128631,
@@ -201428,6 +201608,11 @@
       "file": "missing/S/141185-sid-meiers-civilization-vi-babylon-pack.json"
     },
     {
+      "igdb_id": 139967,
+      "game_name": "Sid Meier's Civilization VI: Byzantium & Gaul Pack",
+      "file": "missing/S/139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json"
+    },
+    {
       "igdb_id": 278742,
       "game_name": "Sid Meier's Civilization VI: Mona Megistus Pack",
       "file": "missing/S/278742-sid-meiers-civilization-vi-mona-megistus-pack.json"
@@ -207873,6 +208058,11 @@
       "file": "missing/S/352169-sonic-fgx-2.json"
     },
     {
+      "igdb_id": 139951,
+      "game_name": "Sonic Forces + Super Monkey Ball: Banana Blitz HD Double Pack",
+      "file": "missing/S/139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json"
+    },
+    {
       "igdb_id": 280749,
       "game_name": "Sonic Forces Overclocked",
       "file": "missing/S/280749-sonic-forces-overclocked.json"
@@ -208006,6 +208196,11 @@
       "igdb_id": 352168,
       "game_name": "Sonic Madventure",
       "file": "missing/S/352168-sonic-madventure.json"
+    },
+    {
+      "igdb_id": 139949,
+      "game_name": "Sonic Mania + Team Sonic Racing Double Pack",
+      "file": "missing/S/139949-sonic-mania-team-sonic-racing-double-pack.json"
     },
     {
       "igdb_id": 326995,
@@ -210576,6 +210771,11 @@
       "igdb_id": 37185,
       "game_name": "Space Zero",
       "file": "missing/S/37185-space-zero.json"
+    },
+    {
+      "igdb_id": 139924,
+      "game_name": "Space/Mech/Pilot",
+      "file": "missing/S/139924-space-mech-pilot.json"
     },
     {
       "igdb_id": 344361,
@@ -222863,6 +223063,11 @@
       "file": "missing/S/102812-surface-project-dawn.json"
     },
     {
+      "igdb_id": 139919,
+      "game_name": "Surface: The Noise She Couldn't Make",
+      "file": "missing/S/139919-surface-the-noise-she-couldnt-make.json"
+    },
+    {
       "igdb_id": 85529,
       "game_name": "Surfacer+",
       "file": "missing/S/85529-surfacer.json"
@@ -230813,6 +231018,11 @@
       "file": "missing/T/336386-the-blue-diamond-damsel-in-distress.json"
     },
     {
+      "igdb_id": 139929,
+      "game_name": "The Bluecoats: North vs South - Limited Edition",
+      "file": "missing/T/139929-the-bluecoats-north-vs-south-limited-edition.json"
+    },
+    {
       "igdb_id": 176502,
       "game_name": "The Body Monstrous",
       "file": "missing/T/176502-the-body-monstrous.json"
@@ -233176,6 +233386,11 @@
       "igdb_id": 332836,
       "game_name": "The Fairly OddParents: Shadow Showdown",
       "file": "missing/T/332836-the-fairly-oddparents-shadow-showdown.json"
+    },
+    {
+      "igdb_id": 139938,
+      "game_name": "The Falconeer: Day One Edition",
+      "file": "missing/T/139938-the-falconeer-day-one-edition.json"
     },
     {
       "igdb_id": 162852,
@@ -236316,6 +236531,11 @@
       "igdb_id": 31353,
       "game_name": "The Legions of Rome",
       "file": "missing/T/31353-the-legions-of-rome.json"
+    },
+    {
+      "igdb_id": 139954,
+      "game_name": "The LEGO Movie 2 Videogame: Minifigure Edition",
+      "file": "missing/T/139954-the-lego-movie-2-videogame-minifigure-edition.json"
     },
     {
       "igdb_id": 4845,
@@ -241841,6 +242061,11 @@
       "igdb_id": 209152,
       "game_name": "The Walking Dead: Last Mile",
       "file": "missing/T/209152-the-walking-dead-last-mile.json"
+    },
+    {
+      "igdb_id": 139956,
+      "game_name": "The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack",
+      "file": "missing/T/139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json"
     },
     {
       "igdb_id": 55177,
@@ -250123,6 +250348,11 @@
       "file": "missing/T/205574-train-sim-world-2-br-class-313.json"
     },
     {
+      "igdb_id": 139931,
+      "game_name": "Train Sim World 2: Collector's Edition",
+      "file": "missing/T/139931-train-sim-world-2-collectors-edition.json"
+    },
+    {
       "igdb_id": 167301,
       "game_name": "Train Sim World 2: DB BR 182 Loco Add-On",
       "file": "missing/T/167301-train-sim-world-2-db-br-182-loco-add-on.json"
@@ -256046,6 +256276,11 @@
       "igdb_id": 178075,
       "game_name": "Unchained",
       "file": "missing/U/178075-unchained.json"
+    },
+    {
+      "igdb_id": 139922,
+      "game_name": "Uncharted 3: Drake's Deception - Special Edition",
+      "file": "missing/U/139922-uncharted-3-drakes-deception-special-edition.json"
     },
     {
       "igdb_id": 208954,
@@ -263383,6 +263618,11 @@
       "file": "missing/W/28882-warhammer-battle-for-atluma.json"
     },
     {
+      "igdb_id": 139948,
+      "game_name": "Warhammer: Chaosbane - Slayer Edition",
+      "file": "missing/W/139948-warhammer-chaosbane-slayer-edition.json"
+    },
+    {
       "igdb_id": 154551,
       "game_name": "Warhammer: Mark of Chaos - Gold Edition",
       "file": "missing/W/154551-warhammer-mark-of-chaos-gold-edition.json"
@@ -267978,6 +268218,11 @@
       "file": "missing/W/143081-wolfenstein-x-hearts-of-liberty.json"
     },
     {
+      "igdb_id": 139958,
+      "game_name": "Wolfenstein: Alt History Collection",
+      "file": "missing/W/139958-wolfenstein-alt-history-collection.json"
+    },
+    {
       "igdb_id": 152339,
       "game_name": "Wolfenstein: Triple Pack",
       "file": "missing/W/152339-wolfenstein-triple-pack.json"
@@ -269071,6 +269316,11 @@
       "igdb_id": 193472,
       "game_name": "World of Retailing",
       "file": "missing/W/193472-world-of-retailing.json"
+    },
+    {
+      "igdb_id": 139966,
+      "game_name": "World of Solitaire",
+      "file": "missing/W/139966-world-of-solitaire.json"
     },
     {
       "igdb_id": 79924,
