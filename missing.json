@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T01:48:41.480Z",
-  "total_missing": 52550,
+  "generated_at": "2026-09-10T01:51:12.625Z",
+  "total_missing": 52549,
   "games": [
     {
       "igdb_id": 306086,
@@ -1206,11 +1206,6 @@
       "igdb_id": 100864,
       "game_name": "3D Snake . io",
       "file": "missing/0-9/100864-3d-snake-io.json"
-    },
-    {
-      "igdb_id": 331719,
-      "game_name": "3D Sonic Action",
-      "file": "missing/0-9/331719-3d-sonic-action.json"
     },
     {
       "igdb_id": 84656,
