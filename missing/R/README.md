@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
+| Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
 | Rebuild 2 | 342030 | [342030-rebuild-2.json](./342030-rebuild-2.json) |
 | Rebuild the Wall | 289309 | [289309-rebuild-the-wall.json](./289309-rebuild-the-wall.json) |
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
@@ -1313,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring of Pain | 115036 | [115036-ring-of-pain.json](./115036-ring-of-pain.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
 | Ring Out!! | 41404 | [41404-ring-out.json](./41404-ring-out.json) |
+| Ring Racer | 147379 | [147379-ring-racer.json](./147379-ring-racer.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ringer | 324336 | [324336-ringer.json](./324336-ringer.json) |
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
@@ -1491,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rob Blanc II: Planet of the Pasteurised Pestilence | 171552 | [171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json](./171552-rob-blanc-ii-planet-of-the-pasteurised-pestilence.json) |
 | Rob Blanc III: The Temporal Terrorists | 171553 | [171553-rob-blanc-iii-the-temporal-terrorists.json](./171553-rob-blanc-iii-the-temporal-terrorists.json) |
 | Rob'n Run | 183029 | [183029-robn-run.json](./183029-robn-run.json) |
+| Robbed Money | 147384 | [147384-robbed-money.json](./147384-robbed-money.json) |
 | Robber | 254535 | [254535-robber.json](./254535-robber.json) |
 | Robber | 385579 | [385579-robber.json](./385579-robber.json) |
 | Robber Knight | 204068 | [204068-robber-knight.json](./204068-robber-knight.json) |
