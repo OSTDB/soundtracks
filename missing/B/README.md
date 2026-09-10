@@ -703,6 +703,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
+| Battle of Empires: 1914-1918 - Battle of Cambrai | 168302 | [168302-battle-of-empires-1914-1918-battle-of-cambrai.json](./168302-battle-of-empires-1914-1918-battle-of-cambrai.json) |
+| Battle of Empires: 1914-1918 - British Empire | 168303 | [168303-battle-of-empires-1914-1918-british-empire.json](./168303-battle-of-empires-1914-1918-british-empire.json) |
+| Battle of Empires: 1914-1918 - French Campaign | 168300 | [168300-battle-of-empires-1914-1918-french-campaign.json](./168300-battle-of-empires-1914-1918-french-campaign.json) |
+| Battle of Empires: 1914-1918 - German Campaign | 168301 | [168301-battle-of-empires-1914-1918-german-campaign.json](./168301-battle-of-empires-1914-1918-german-campaign.json) |
+| Battle of Empires: 1914-1918 - Honor of the Empire | 168297 | [168297-battle-of-empires-1914-1918-honor-of-the-empire.json](./168297-battle-of-empires-1914-1918-honor-of-the-empire.json) |
+| Battle of Empires: 1914-1918 - MP Pack 1 | 168298 | [168298-battle-of-empires-1914-1918-mp-pack-1.json](./168298-battle-of-empires-1914-1918-mp-pack-1.json) |
+| Battle of Empires: 1914-1918 - MP Pack 2 | 168295 | [168295-battle-of-empires-1914-1918-mp-pack-2.json](./168295-battle-of-empires-1914-1918-mp-pack-2.json) |
+| Battle of Empires: 1914-1918 - Real War | 168299 | [168299-battle-of-empires-1914-1918-real-war.json](./168299-battle-of-empires-1914-1918-real-war.json) |
+| Battle of Empires: 1914-1918 - Russian Empire | 168304 | [168304-battle-of-empires-1914-1918-russian-empire.json](./168304-battle-of-empires-1914-1918-russian-empire.json) |
+| Battle of Empires: 1914-1918 - Skirmish Pack | 168296 | [168296-battle-of-empires-1914-1918-skirmish-pack.json](./168296-battle-of-empires-1914-1918-skirmish-pack.json) |
 | Battle of Fate | 279010 | [279010-battle-of-fate.json](./279010-battle-of-fate.json) |
 | Battle of Finland: Winter War | 193483 | [193483-battle-of-finland-winter-war.json](./193483-battle-of-finland-winter-war.json) |
 | Battle of Frigates | 61595 | [61595-battle-of-frigates.json](./61595-battle-of-frigates.json) |
@@ -1259,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
+| Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
 | Big Klondike: FreeCell Solitaire | 289855 | [289855-big-klondike-freecell-solitaire.json](./289855-big-klondike-freecell-solitaire.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
@@ -2424,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bram Stoker's Dracula | 14341 | [14341-bram-stokers-dracula.json](./14341-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 14342 | [14342-bram-stokers-dracula.json](./14342-bram-stokers-dracula.json) |
 | Bram Stoker's Dracula | 5366 | [5366-bram-stokers-dracula.json](./5366-bram-stokers-dracula.json) |
+| Brambles in the Mist | 168338 | [168338-brambles-in-the-mist.json](./168338-brambles-in-the-mist.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
 | Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
 | Brand! New! Friends! | 372477 | [372477-brand-new-friends.json](./372477-brand-new-friends.json) |
@@ -2735,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 332234 | [332234-bubble-bobble.json](./332234-bubble-bobble.json) |
 | Bubble Bobble | 332242 | [332242-bubble-bobble.json](./332242-bubble-bobble.json) |
 | Bubble Bobble Classic | 332248 | [332248-bubble-bobble-classic.json](./332248-bubble-bobble-classic.json) |
+| Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
 | Bubble Bust Extreme | 239341 | [239341-bubble-bust-extreme.json](./239341-bubble-bust-extreme.json) |
