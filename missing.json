@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T04:48:18.047Z",
-  "total_missing": 53007,
+  "generated_at": "2026-09-10T04:51:14.002Z",
+  "total_missing": 53006,
   "games": [
     {
       "igdb_id": 306086,
@@ -1296,11 +1296,6 @@
       "igdb_id": 107184,
       "game_name": "4 Pics Heroes and Villains",
       "file": "missing/0-9/107184-4-pics-heroes-and-villains.json"
-    },
-    {
-      "igdb_id": 143721,
-      "game_name": "4 Queens Computer Casino",
-      "file": "missing/0-9/143721-4-queens-computer-casino.json"
     },
     {
       "igdb_id": 316434,
