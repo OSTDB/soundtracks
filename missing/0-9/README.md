@@ -327,7 +327,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 868-Hack | 17034 | [17034-868-hack.json](./17034-868-hack.json) |
-| 8874 | 216774 | [216774-8874.json](./216774-8874.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8bit Killer | 65522 | [65522-8bit-killer.json](./65522-8bit-killer.json) |
 | 8bit-Collection Culture Brain Vol. 01 | 97881 | [97881-8bit-collection-culture-brain-vol-01.json](./97881-8bit-collection-culture-brain-vol-01.json) |
