@@ -1424,6 +1424,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus Minigames: Berlin Traffic | 120420 | [120420-lotus-minigames-berlin-traffic.json](./120420-lotus-minigames-berlin-traffic.json) |
+| Lotus Simulator: Addon - Düsseldorf 1981 | 167754 | [167754-lotus-simulator-addon-dusseldorf-1981.json](./167754-lotus-simulator-addon-dusseldorf-1981.json) |
+| Lotus Simulator: Module - Rails of Lotus | 167757 | [167757-lotus-simulator-module-rails-of-lotus.json](./167757-lotus-simulator-module-rails-of-lotus.json) |
+| Lotus Simulator: Module - Streets of Lotus | 167756 | [167756-lotus-simulator-module-streets-of-lotus.json](./167756-lotus-simulator-module-streets-of-lotus.json) |
+| Lotus Simulator: München Tram | 167755 | [167755-lotus-simulator-munchen-tram.json](./167755-lotus-simulator-munchen-tram.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
