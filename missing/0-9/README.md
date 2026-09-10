@@ -274,7 +274,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
-| 4D Sports Tennis | 73308 | [73308-4d-sports-tennis.json](./73308-4d-sports-tennis.json) |
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
 | 4Spaces | 259550 | [259550-4spaces.json](./259550-4spaces.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
