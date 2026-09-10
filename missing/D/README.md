@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
 | Deliver Us Home | 303467 | [303467-deliver-us-home.json](./303467-deliver-us-home.json) |
 | Deliver Us Mars: Deluxe Edition | 204468 | [204468-deliver-us-mars-deluxe-edition.json](./204468-deliver-us-mars-deluxe-edition.json) |
+| Deliver us the Moon: Deluxe Edition | 166177 | [166177-deliver-us-the-moon-deluxe-edition.json](./166177-deliver-us-the-moon-deluxe-edition.json) |
 | Deliverance | 195242 | [195242-deliverance.json](./195242-deliverance.json) |
 | Deliverance | 322990 | [322990-deliverance.json](./322990-deliverance.json) |
 | Delivery Boy | 190214 | [190214-delivery-boy.json](./190214-delivery-boy.json) |
@@ -2125,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dots of War | 241051 | [241051-dots-of-war.json](./241051-dots-of-war.json) |
 | Dots Pop : Sexy Hentai Girls | 113012 | [113012-dots-pop-sexy-hentai-girls.json](./113012-dots-pop-sexy-hentai-girls.json) |
 | DotSec | 329579 | [329579-dotsec.json](./329579-dotsec.json) |
+| Dotsubo-chan | 166146 | [166146-dotsubo-chan.json](./166146-dotsubo-chan.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
@@ -2843,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
+| Dungeon Conqueror | 166172 | [166172-dungeon-conqueror.json](./166172-dungeon-conqueror.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
 | Dungeon Crawler | 191823 | [191823-dungeon-crawler.json](./191823-dungeon-crawler.json) |
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
@@ -2994,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Forge | 398335 | [398335-dwarven-forge.json](./398335-dwarven-forge.json) |
 | Dwarven Skykeep | 119769 | [119769-dwarven-skykeep.json](./119769-dwarven-skykeep.json) |
 | Dwarven: Mining Dungeons | 193435 | [193435-dwarven-mining-dungeons.json](./193435-dwarven-mining-dungeons.json) |
+| Dwarves: Build and survive | 166189 | [166189-dwarves-build-and-survive.json](./166189-dwarves-build-and-survive.json) |
 | DweeMixed: Thwee Pack | 187477 | [187477-dweemixed-thwee-pack.json](./187477-dweemixed-thwee-pack.json) |
 | Dwell | 394155 | [394155-dwell.json](./394155-dwell.json) |
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
