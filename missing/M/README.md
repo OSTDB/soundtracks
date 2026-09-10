@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces: Jigsaw Puzzles - Cat Family Christmas | 284890 | [284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json](./284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json) |
 | Master of Pottery: Suzhou Garden | 199600 | [199600-master-of-pottery-suzhou-garden.json](./199600-master-of-pottery-suzhou-garden.json) |
 | Master of Ski | 226728 | [226728-master-of-ski.json](./226728-master-of-ski.json) |
+| Master of Tactics | 142393 | [142393-master-of-tactics.json](./142393-master-of-tactics.json) |
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Grand Edition | 315869 | [315869-moto-rush-gt-grand-edition.json](./315869-moto-rush-gt-grand-edition.json) |
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
+| Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
 | MotoGP 13: MotoGP Champions | 168355 | [168355-motogp-13-motogp-champions.json](./168355-motogp-13-motogp-champions.json) |
@@ -3580,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Heaven's Dale | 343267 | [343267-my-heavens-dale.json](./343267-my-heavens-dale.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
 | My Hero One's Justice 2: Cheerleader Costumes Bundle | 259811 | [259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json](./259811-my-hero-ones-justice-2-cheerleader-costumes-bundle.json) |
+| My Heroes: SEA | 142426 | [142426-my-heroes-sea.json](./142426-my-heroes-sea.json) |
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
 | My Home Design: Makeover Games | 239043 | [239043-my-home-design-makeover-games.json](./239043-my-home-design-makeover-games.json) |
