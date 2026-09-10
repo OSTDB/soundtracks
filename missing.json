@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T16:01:30.906Z",
-  "total_missing": 54357,
+  "generated_at": "2026-09-10T16:11:08.070Z",
+  "total_missing": 54371,
   "games": [
     {
       "igdb_id": 306086,
@@ -121,6 +121,11 @@
       "igdb_id": 147438,
       "game_name": "#Halloween, Super Puzzles Dream",
       "file": "missing/0-9/147438-halloween-super-puzzles-dream.json"
+    },
+    {
+      "igdb_id": 147423,
+      "game_name": "#Wish travel, Super Puzzles Dream",
+      "file": "missing/0-9/147423-wish-travel-super-puzzles-dream.json"
     },
     {
       "igdb_id": 147437,
@@ -57113,6 +57118,11 @@
       "file": "missing/D/206720-desperate-vladivostok.json"
     },
     {
+      "igdb_id": 147415,
+      "game_name": "Desperation",
+      "file": "missing/D/147415-desperation.json"
+    },
+    {
       "igdb_id": 19652,
       "game_name": "Despicable Me: The Game",
       "file": "missing/D/19652-despicable-me-the-game.json"
@@ -60166,6 +60176,11 @@
       "igdb_id": 126023,
       "game_name": "Doblons.io",
       "file": "missing/D/126023-doblons-io.json"
+    },
+    {
+      "igdb_id": 147420,
+      "game_name": "Dobo's Heroes",
+      "file": "missing/D/147420-dobos-heroes.json"
     },
     {
       "igdb_id": 107162,
@@ -75358,6 +75373,11 @@
       "file": "missing/F/172735-fancy-island.json"
     },
     {
+      "igdb_id": 147422,
+      "game_name": "Fancy Solitaire",
+      "file": "missing/F/147422-fancy-solitaire.json"
+    },
+    {
       "igdb_id": 39686,
       "game_name": "Fancy World - Earth of Crisis",
       "file": "missing/F/39686-fancy-world-earth-of-crisis.json"
@@ -77581,6 +77601,11 @@
       "igdb_id": 162414,
       "game_name": "Fifth Era: Fragments of the Holy Stone",
       "file": "missing/F/162414-fifth-era-fragments-of-the-holy-stone.json"
+    },
+    {
+      "igdb_id": 147425,
+      "game_name": "Fight",
+      "file": "missing/F/147425-fight.json"
     },
     {
       "igdb_id": 150650,
@@ -101178,6 +101203,11 @@
       "file": "missing/H/356115-hexed-time.json"
     },
     {
+      "igdb_id": 147416,
+      "game_name": "Hexes",
+      "file": "missing/H/147416-hexes.json"
+    },
+    {
       "igdb_id": 415118,
       "game_name": "Hexgarden",
       "file": "missing/H/415118-hexgarden.json"
@@ -119796,6 +119826,11 @@
       "igdb_id": 194570,
       "game_name": "Kiss & Crisis",
       "file": "missing/K/194570-kiss-and-crisis.json"
+    },
+    {
+      "igdb_id": 147429,
+      "game_name": "Kiss Ato",
+      "file": "missing/K/147429-kiss-ato.json"
     },
     {
       "igdb_id": 235477,
@@ -141351,6 +141386,11 @@
       "igdb_id": 186810,
       "game_name": "Mini Golf Worlds VR",
       "file": "missing/M/186810-mini-golf-worlds-vr.json"
+    },
+    {
+      "igdb_id": 147426,
+      "game_name": "Mini Island Challenge Bundle",
+      "file": "missing/M/147426-mini-island-challenge-bundle.json"
     },
     {
       "igdb_id": 192371,
@@ -215523,6 +215563,11 @@
       "file": "missing/S/191892-student-transfer.json"
     },
     {
+      "igdb_id": 147417,
+      "game_name": "Students' Horrible Stories: FIN",
+      "file": "missing/S/147417-students-horrible-stories-fin.json"
+    },
+    {
       "igdb_id": 369597,
       "game_name": "Study Time Anomaly",
       "file": "missing/S/369597-study-time-anomaly.json"
@@ -227223,6 +227268,11 @@
       "file": "missing/T/191822-the-adventures-of-mr-hat.json"
     },
     {
+      "igdb_id": 147419,
+      "game_name": "The Adventures of Mr. Poop",
+      "file": "missing/T/147419-the-adventures-of-mr-poop.json"
+    },
+    {
       "igdb_id": 250348,
       "game_name": "The Adventures of Nerdstan",
       "file": "missing/T/250348-the-adventures-of-nerdstan.json"
@@ -233831,6 +233881,11 @@
       "igdb_id": 252386,
       "game_name": "The Little Mermaid's Friend",
       "file": "missing/T/252386-the-little-mermaids-friend.json"
+    },
+    {
+      "igdb_id": 147428,
+      "game_name": "The Little Trashmaid Puzzletime",
+      "file": "missing/T/147428-the-little-trashmaid-puzzletime.json"
     },
     {
       "igdb_id": 330731,
@@ -255358,6 +255413,11 @@
       "file": "missing/V/153956-vacancy-unlimited.json"
     },
     {
+      "igdb_id": 147421,
+      "game_name": "Vacation Adventures: Park Ranger 11",
+      "file": "missing/V/147421-vacation-adventures-park-ranger-11.json"
+    },
+    {
       "igdb_id": 50601,
       "game_name": "Vacation Isle Beach Party",
       "file": "missing/V/50601-vacation-isle-beach-party.json"
@@ -261998,6 +262058,11 @@
       "file": "missing/W/270661-wg-mega.json"
     },
     {
+      "igdb_id": 147427,
+      "game_name": "Whack A Rat VR",
+      "file": "missing/W/147427-whack-a-rat-vr.json"
+    },
+    {
       "igdb_id": 212268,
       "game_name": "Whack First!: Fight the Moles",
       "file": "missing/W/212268-whack-first-fight-the-moles.json"
@@ -266186,6 +266251,11 @@
       "igdb_id": 85498,
       "game_name": "World Poker Tour: Texas Hold 'Em",
       "file": "missing/W/85498-world-poker-tour-texas-hold-em.json"
+    },
+    {
+      "igdb_id": 147430,
+      "game_name": "World Racing '95",
+      "file": "missing/W/147430-world-racing-95.json"
     },
     {
       "igdb_id": 231399,
