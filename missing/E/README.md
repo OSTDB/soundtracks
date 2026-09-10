@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementary My Dear Majesty! | 35902 | [35902-elementary-my-dear-majesty.json](./35902-elementary-my-dear-majesty.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
 | Elementium | 83562 | [83562-elementium.json](./83562-elementium.json) |
+| Elementowers | 152841 | [152841-elementowers.json](./152841-elementowers.json) |
 | Elements | 186872 | [186872-elements.json](./186872-elements.json) |
 | Elements | 271485 | [271485-elements.json](./271485-elements.json) |
 | Elements | 336927 | [336927-elements.json](./336927-elements.json) |
@@ -1033,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etherion Online | 239650 | [239650-etherion-online.json](./239650-etherion-online.json) |
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
 | Etherjump | 219071 | [219071-etherjump.json](./219071-etherjump.json) |
+| Ethernal War | 152855 | [152855-ethernal-war.json](./152855-ethernal-war.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
@@ -1329,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
+| Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
 | Expiration | 171572 | [171572-expiration.json](./171572-expiration.json) |
 | Explo Bee | 233745 | [233745-explo-bee.json](./233745-explo-bee.json) |
 | Exploaris: Vermis story | 167837 | [167837-exploaris-vermis-story.json](./167837-exploaris-vermis-story.json) |
