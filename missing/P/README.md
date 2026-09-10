@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
+| Plutonia: Revisited Community Project | 138167 | [138167-plutonia-revisited-community-project.json](./138167-plutonia-revisited-community-project.json) |
 | Pnevmo-Capsula | 220345 | [220345-pnevmo-capsula.json](./220345-pnevmo-capsula.json) |
 | Pnickies | 40262 | [40262-pnickies.json](./40262-pnickies.json) |
 | Po-Go-No! | 257111 | [257111-po-go-no.json](./257111-po-go-no.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
 | PokeQuest VR | 201764 | [201764-pokequest-vr.json](./201764-pokequest-vr.json) |
 | Poker Chase | 166141 | [166141-poker-chase.json](./166141-poker-chase.json) |
+| Poker Club | 138204 | [138204-poker-club.json](./138204-poker-club.json) |
 | Poker Club: Gold Edition | 277568 | [277568-poker-club-gold-edition.json](./277568-poker-club-gold-edition.json) |
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
