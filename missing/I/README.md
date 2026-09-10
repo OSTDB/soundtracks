@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illwind | 251835 | [251835-illwind.json](./251835-illwind.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
 | Ima wo Ikinobite | 208611 | [208611-ima-wo-ikinobite.json](./208611-ima-wo-ikinobite.json) |
+| Imagicard: PAW Patrol | 137612 | [137612-imagicard-paw-patrol.json](./137612-imagicard-paw-patrol.json) |
 | Imaginarium | 126614 | [126614-imaginarium.json](./126614-imaginarium.json) |
 | Imaginary Realms Bundle | 166690 | [166690-imaginary-realms-bundle.json](./166690-imaginary-realms-bundle.json) |
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
 | International Athletics | 272847 | [272847-international-athletics.json](./272847-international-athletics.json) |
 | International Basketball Manager 23 | 224551 | [224551-international-basketball-manager-23.json](./224551-international-basketball-manager-23.json) |
+| International Championship Wrestling | 137618 | [137618-international-championship-wrestling.json](./137618-international-championship-wrestling.json) |
 | International Cricket 2010 | 22961 | [22961-international-cricket-2010.json](./22961-international-cricket-2010.json) |
 | International Cricket Captain 2 | 63317 | [63317-international-cricket-captain-2.json](./63317-international-cricket-captain-2.json) |
 | International Cricket Captain 2000 | 63318 | [63318-international-cricket-captain-2000.json](./63318-international-cricket-captain-2000.json) |
