@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled One | 202340 | [202340-untitled-one.json](./202340-untitled-one.json) |
 | Untitled Paper Mario Fangame | 266509 | [266509-untitled-paper-mario-fangame.json](./266509-untitled-paper-mario-fangame.json) |
 | Untitled Racing Game | 219063 | [219063-untitled-racing-game.json](./219063-untitled-racing-game.json) |
+| Untitled Rhythm Puzzle Game | 143011 | [143011-untitled-rhythm-puzzle-game.json](./143011-untitled-rhythm-puzzle-game.json) |
 | Untitled Space Game | 153441 | [153441-untitled-space-game.json](./153441-untitled-space-game.json) |
 | Untitled: The flower game | 181899 | [181899-untitled-the-flower-game.json](./181899-untitled-the-flower-game.json) |
 | Untold Legends: The Warrior's Code | 23006 | [23006-untold-legends-the-warriors-code.json](./23006-untold-legends-the-warriors-code.json) |
