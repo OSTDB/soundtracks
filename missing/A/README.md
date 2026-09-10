@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And Roger | 324784 | [324784-and-roger.json](./324784-and-roger.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
+| Andarigas | 132767 | [132767-andarigas.json](./132767-andarigas.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andreas VII | 188588 | [188588-andreas-vii.json](./188588-andreas-vii.json) |
 | Andrew Lloyd Webber Musicals: Sing and Dance | 63874 | [63874-andrew-lloyd-webber-musicals-sing-and-dance.json](./63874-andrew-lloyd-webber-musicals-sing-and-dance.json) |
@@ -2756,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashforge: Whispers of the Deep | 358875 | [358875-ashforge-whispers-of-the-deep.json](./358875-ashforge-whispers-of-the-deep.json) |
 | Ashgard: Tone Break | 199618 | [199618-ashgard-tone-break.json](./199618-ashgard-tone-break.json) |
 | Ashi Wash | 91967 | [91967-ashi-wash.json](./91967-ashi-wash.json) |
+| Ashina: The Red Witch | 132762 | [132762-ashina-the-red-witch.json](./132762-ashina-the-red-witch.json) |
 | Ashland | 124216 | [124216-ashland.json](./124216-ashland.json) |
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
