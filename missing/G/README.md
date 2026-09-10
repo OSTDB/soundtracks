@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
+| Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
@@ -671,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosth | 179747 | [179747-ghosth.json](./179747-ghosth.json) |
 | GhostHunt With Triggered Insaan | 289316 | [289316-ghosthunt-with-triggered-insaan.json](./289316-ghosthunt-with-triggered-insaan.json) |
 | Ghostkeeper | 210859 | [210859-ghostkeeper.json](./210859-ghostkeeper.json) |
+| Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
 | Ghostly Matter | 89650 | [89650-ghostly-matter.json](./89650-ghostly-matter.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
@@ -908,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go West! A Lucky Luke Adventure | 110321 | [110321-go-west-a-lucky-luke-adventure.json](./110321-go-west-a-lucky-luke-adventure.json) |
 | Go-Kart Racing | 96470 | [96470-go-kart-racing.json](./96470-go-kart-racing.json) |
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
+| Go! Birdie | 146859 | [146859-go-birdie.json](./146859-go-birdie.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
@@ -1061,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Miner: Classic Edition | 360579 | [360579-gold-miner-classic-edition.json](./360579-gold-miner-classic-edition.json) |
 | Gold Miner: Vegas | 188566 | [188566-gold-miner-vegas.json](./188566-gold-miner-vegas.json) |
 | Gold of the Incas Solitaire | 294741 | [294741-gold-of-the-incas-solitaire.json](./294741-gold-of-the-incas-solitaire.json) |
+| Gold Runner | 146816 | [146816-gold-runner.json](./146816-gold-runner.json) |
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
@@ -1248,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
 | Gothic II: Complete Classic | 270397 | [270397-gothic-ii-complete-classic.json](./270397-gothic-ii-complete-classic.json) |
 | Gothic II: The Night of the Raven | 2481 | [2481-gothic-ii-the-night-of-the-raven.json](./2481-gothic-ii-the-night-of-the-raven.json) |
+| Gothic Masquerade HD | 146864 | [146864-gothic-masquerade-hd.json](./146864-gothic-masquerade-hd.json) |
 | Gothic Survival | 201260 | [201260-gothic-survival.json](./201260-gothic-survival.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
 | GothicDM 2 | 229939 | [229939-gothicdm-2.json](./229939-gothicdm-2.json) |
