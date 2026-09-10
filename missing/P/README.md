@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
+| Planet Surf: The Last Wave | 158672 | [158672-planet-surf-the-last-wave.json](./158672-planet-surf-the-last-wave.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
 | Planet Wars | 207855 | [207855-planet-wars.json](./207855-planet-wars.json) |
 | Planet Waves | 177001 | [177001-planet-waves.json](./177001-planet-waves.json) |
@@ -1515,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies 2: Odyssey | 272295 | [272295-plants-vs-zombies-2-odyssey.json](./272295-plants-vs-zombies-2-odyssey.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
+| Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
@@ -1884,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Memory: Dinosaurs | 224592 | [224592-poly-memory-dinosaurs.json](./224592-poly-memory-dinosaurs.json) |
 | Poly Memory: Primates | 210878 | [210878-poly-memory-primates.json](./210878-poly-memory-primates.json) |
 | Poly Parkour | 215699 | [215699-poly-parkour.json](./215699-poly-parkour.json) |
+| Poly Party | 158664 | [158664-poly-party.json](./158664-poly-party.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
 | Poly Squad | 149076 | [149076-poly-squad.json](./149076-poly-squad.json) |
 | Poly Survivor | 270946 | [270946-poly-survivor.json](./270946-poly-survivor.json) |
@@ -2241,11 +2244,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
 | Prime World: Alchemy | 63306 | [63306-prime-world-alchemy.json](./63306-prime-world-alchemy.json) |
 | Prime World: Defenders | 16507 | [16507-prime-world-defenders.json](./16507-prime-world-defenders.json) |
+| Primeval | 158688 | [158688-primeval.json](./158688-primeval.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
 | Primit Shooter 2 | 270950 | [270950-primit-shooter-2.json](./270950-primit-shooter-2.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
+| Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
 | Primordio | 400906 | [400906-primordio.json](./400906-primordio.json) |
 | Prin-quest | 364489 | [364489-prin-quest.json](./364489-prin-quest.json) |
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
@@ -2962,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
 | Puzzline | 224541 | [224541-puzzline.json](./224541-puzzline.json) |
+| Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
 | Puzzling Places: Cityscapes Bundle | 353888 | [353888-puzzling-places-cityscapes-bundle.json](./353888-puzzling-places-cityscapes-bundle.json) |
 | Puzzling Places: Cozy Rooms Bundle | 353889 | [353889-puzzling-places-cozy-rooms-bundle.json](./353889-puzzling-places-cozy-rooms-bundle.json) |
