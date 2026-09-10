@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niko: Through the Dream | 17323 | [17323-niko-through-the-dream.json](./17323-niko-through-the-dream.json) |
 | Nikoli no Puzzle 4: Shikaku ni Kire | 219025 | [219025-nikoli-no-puzzle-4-shikaku-ni-kire.json](./219025-nikoli-no-puzzle-4-shikaku-ni-kire.json) |
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
+| Nilspace | 150102 | [150102-nilspace.json](./150102-nilspace.json) |
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nimble Quest | 16780 | [16780-nimble-quest.json](./16780-nimble-quest.json) |
