@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unearthing Mars 2: The Ancient War | 107243 | [107243-unearthing-mars-2-the-ancient-war.json](./107243-unearthing-mars-2-the-ancient-war.json) |
 | Unending | 260416 | [260416-unending.json](./260416-unending.json) |
 | Unending Dawn | 298846 | [298846-unending-dawn.json](./298846-unending-dawn.json) |
+| UnEpic: Collector's Edition | 166178 | [166178-unepic-collectors-edition.json](./166178-unepic-collectors-edition.json) |
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
 | UnExplored: Unlocked Edition | 98837 | [98837-unexplored-unlocked-edition.json](./98837-unexplored-unlocked-edition.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
 | Unstable Star | 338583 | [338583-unstable-star.json](./338583-unstable-star.json) |
+| Unstack | 166175 | [166175-unstack.json](./166175-unstack.json) |
 | Unsteady Bounce | 180840 | [180840-unsteady-bounce.json](./180840-unsteady-bounce.json) |
 | Unstimulated Simulator | 389418 | [389418-unstimulated-simulator.json](./389418-unstimulated-simulator.json) |
 | Unstoppable | 255131 | [255131-unstoppable.json](./255131-unstoppable.json) |
