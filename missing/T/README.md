@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
+| The Airs | 144951 | [144951-the-airs.json](./144951-the-airs.json) |
 | The Akuma Hunters: Exorsister | 45993 | [45993-the-akuma-hunters-exorsister.json](./45993-the-akuma-hunters-exorsister.json) |
 | The Alchemist | 306992 | [306992-the-alchemist.json](./306992-the-alchemist.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
@@ -1553,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
 | The Ducksuckers | 195245 | [195245-the-ducksuckers.json](./195245-the-ducksuckers.json) |
 | The Duduk Master | 232433 | [232433-the-duduk-master.json](./232433-the-duduk-master.json) |
+| The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
 | The Dungeon of Doom | 229374 | [229374-the-dungeon-of-doom.json](./229374-the-dungeon-of-doom.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
@@ -3741,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiāntiān Tuōlājī | 96041 | [96041-tiantian-tuolaji.json](./96041-tiantian-tuolaji.json) |
 | Tiānxiān Biàn | 156131 | [156131-tianxian-bian.json](./156131-tianxian-bian.json) |
 | Tiara Concerto | 86102 | [86102-tiara-concerto.json](./86102-tiara-concerto.json) |
+| Tiberian War: Ion Shock | 144980 | [144980-tiberian-war-ion-shock.json](./144980-tiberian-war-ion-shock.json) |
 | Tic Tac | 362822 | [362822-tic-tac.json](./362822-tic-tac.json) |
 | Tic Tac Math Algebra | 109020 | [109020-tic-tac-math-algebra.json](./109020-tic-tac-math-algebra.json) |
 | Tic Tac Toe World | 387339 | [387339-tic-tac-toe-world.json](./387339-tic-tac-toe-world.json) |
@@ -5499,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trickster VR: Horde Attack! | 119759 | [119759-trickster-vr-horde-attack.json](./119759-trickster-vr-horde-attack.json) |
 | Tricky and the Dream Caster | 316626 | [316626-tricky-and-the-dream-caster.json](./316626-tricky-and-the-dream-caster.json) |
 | Tricky Doors | 203573 | [203573-tricky-doors.json](./203573-tricky-doors.json) |
+| Tricky Keys | 144942 | [144942-tricky-keys.json](./144942-tricky-keys.json) |
 | Tricky Machines | 157160 | [157160-tricky-machines.json](./157160-tricky-machines.json) |
 | Tricky Monkey Zoo | 396228 | [396228-tricky-monkey-zoo.json](./396228-tricky-monkey-zoo.json) |
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
@@ -5903,6 +5907,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Peas in a pod | 183055 | [183055-two-peas-in-a-pod.json](./183055-two-peas-in-a-pod.json) |
 | Two Point Campus: Enrollment Edition | 188643 | [188643-two-point-campus-enrollment-edition.json](./188643-two-point-campus-enrollment-edition.json) |
 | Two Point Hospital and Two Point Campus Double Pack | 223155 | [223155-two-point-hospital-and-two-point-campus-double-pack.json](./223155-two-point-hospital-and-two-point-campus-double-pack.json) |
+| Two Point Hospital: A Stitch in Time | 144911 | [144911-two-point-hospital-a-stitch-in-time.json](./144911-two-point-hospital-a-stitch-in-time.json) |
+| Two Point Hospital: Bigfoot | 144913 | [144913-two-point-hospital-bigfoot.json](./144913-two-point-hospital-bigfoot.json) |
+| Two Point Hospital: Close Encounters | 144912 | [144912-two-point-hospital-close-encounters.json](./144912-two-point-hospital-close-encounters.json) |
 | Two Point Museum: Sonic Pre-order Pack | 375175 | [375175-two-point-museum-sonic-pre-order-pack.json](./375175-two-point-museum-sonic-pre-order-pack.json) |
 | Two Portals: A Gemstone Puzzle Game | 247501 | [247501-two-portals-a-gemstone-puzzle-game.json](./247501-two-portals-a-gemstone-puzzle-game.json) |
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
