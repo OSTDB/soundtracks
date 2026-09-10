@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taptron 1999 | 372992 | [372992-taptron-1999.json](./372992-taptron-1999.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
 | Taquero Simulator | 301806 | [301806-taquero-simulator.json](./301806-taquero-simulator.json) |
+| Tar Alterra Adventure Game | 165640 | [165640-tar-alterra-adventure-game.json](./165640-tar-alterra-adventure-game.json) |
 | Tarareba | 194555 | [194555-tarareba.json](./194555-tarareba.json) |
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
@@ -2264,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
+| The Lost Dog | 165631 | [165631-the-lost-dog.json](./165631-the-lost-dog.json) |
 | The Lost Dollar | 71009 | [71009-the-lost-dollar.json](./71009-the-lost-dollar.json) |
 | The Lost Fountain | 96060 | [96060-the-lost-fountain.json](./96060-the-lost-fountain.json) |
 | The Lost Frames | 309134 | [309134-the-lost-frames.json](./309134-the-lost-frames.json) |
