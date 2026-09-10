@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palinurus | 33121 | [33121-palinurus.json](./33121-palinurus.json) |
 | Palitoman Adventure | 408085 | [408085-palitoman-adventure.json](./408085-palitoman-adventure.json) |
 | Palladise Island: Legendary Space | 228089 | [228089-palladise-island-legendary-space.json](./228089-palladise-island-legendary-space.json) |
+| Palladium: Adventure in Greece | 132798 | [132798-palladium-adventure-in-greece.json](./132798-palladium-adventure-in-greece.json) |
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
 | Pallet | 250971 | [250971-pallet.json](./250971-pallet.json) |
 | Palliative: Reach for an Angel | 191194 | [191194-palliative-reach-for-an-angel.json](./191194-palliative-reach-for-an-angel.json) |
@@ -1325,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
 | Pithorox Gear | 145022 | [145022-pithorox-gear.json](./145022-pithorox-gear.json) |
+| Pity Pit | 132769 | [132769-pity-pit.json](./132769-pity-pit.json) |
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
 | Pivoting People | 105942 | [105942-pivoting-people.json](./105942-pivoting-people.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
