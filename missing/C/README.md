@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comrade Trump's Re-election | 286523 | [286523-comrade-trumps-re-election.json](./286523-comrade-trumps-re-election.json) |
 | Comuni Non Comuni | 299158 | [299158-comuni-non-comuni.json](./299158-comuni-non-comuni.json) |
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
+| Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
@@ -2500,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
 | Covert Front | 213617 | [213617-covert-front.json](./213617-covert-front.json) |
+| Covid 2069 | 167758 | [167758-covid-2069.json](./167758-covid-2069.json) |
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Cowbots and Aliens | 31595 | [31595-cowbots-and-aliens.json](./31595-cowbots-and-aliens.json) |
