@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
 | Lost Abroad Café | 235450 | [235450-lost-abroad-cafe.json](./235450-lost-abroad-cafe.json) |
+| Lost Alone | 167223 | [167223-lost-alone.json](./167223-lost-alone.json) |
 | Lost Alone EP.1: Little Sister | 185649 | [185649-lost-alone-ep-1-little-sister.json](./185649-lost-alone-ep-1-little-sister.json) |
 | Lost Alone Ultimate | 245026 | [245026-lost-alone-ultimate.json](./245026-lost-alone-ultimate.json) |
 | Lost Along The Way | 253919 | [253919-lost-along-the-way.json](./253919-lost-along-the-way.json) |
