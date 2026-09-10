@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
+| Saber Punks | 152309 | [152309-saber-punks.json](./152309-saber-punks.json) |
 | Saber Survivors | 328452 | [328452-saber-survivors.json](./328452-saber-survivors.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
 | Sable Maze: Twelve Fears - Collector's Edition | 110347 | [110347-sable-maze-twelve-fears-collectors-edition.json](./110347-sable-maze-twelve-fears-collectors-edition.json) |
@@ -372,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saphyro | 164978 | [164978-saphyro.json](./164978-saphyro.json) |
 | Sapiens League | 232437 | [232437-sapiens-league.json](./232437-sapiens-league.json) |
 | Sapling Wars | 333008 | [333008-sapling-wars.json](./333008-sapling-wars.json) |
+| Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
@@ -1410,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shellshock | 20635 | [20635-shellshock.json](./20635-shellshock.json) |
 | ShellShot Arena | 249808 | [249808-shellshot-arena.json](./249808-shellshot-arena.json) |
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
+| Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
 | Shēngwù Zhīshì Gédòu Dàsài | 130968 | [130968-shengwu-zhishi-gedou-dasai.json](./130968-shengwu-zhishi-gedou-dasai.json) |
@@ -5530,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
+| Super Magro World | 152315 | [152315-super-magro-world.json](./152315-super-magro-world.json) |
 | Super Mahjong | 37814 | [37814-super-mahjong.json](./37814-super-mahjong.json) |
 | Super Mahjong 2: Honkaku 4-nin Uchi | 37813 | [37813-super-mahjong-2-honkaku-4-nin-uchi.json](./37813-super-mahjong-2-honkaku-4-nin-uchi.json) |
 | Super Mahjong 3 | 37812 | [37812-super-mahjong-3.json](./37812-super-mahjong-3.json) |
