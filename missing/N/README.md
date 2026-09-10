@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
+| Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
 | Normal Diner | 177495 | [177495-normal-diner.json](./177495-normal-diner.json) |
 | Normal Golf Game | 355571 | [355571-normal-golf-game.json](./355571-normal-golf-game.json) |
 | Normal Person | 285977 | [285977-normal-person.json](./285977-normal-person.json) |
