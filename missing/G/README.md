@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
+| Globetrotter | 137033 | [137033-globetrotter.json](./137033-globetrotter.json) |
 | Globetrotter Bundle | 107193 | [107193-globetrotter-bundle.json](./107193-globetrotter-bundle.json) |
 | GlobeXplore | 284883 | [284883-globexplore.json](./284883-globexplore.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
+| Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
 | Guild Saga: Vanished Worlds | 244758 | [244758-guild-saga-vanished-worlds.json](./244758-guild-saga-vanished-worlds.json) |
