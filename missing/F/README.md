@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
 | Fairy 2 | 216800 | [216800-fairy-2.json](./216800-fairy-2.json) |
+| Fairy and Devil | 155577 | [155577-fairy-and-devil.json](./155577-fairy-and-devil.json) |
 | Fairy Bakery Workshop | 182456 | [182456-fairy-bakery-workshop.json](./182456-fairy-bakery-workshop.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Bubble | 172100 | [172100-fairy-bubble.json](./172100-fairy-bubble.json) |
