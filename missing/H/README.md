@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Balloons 2 | 156637 | [156637-hentai-balloons-2.json](./156637-hentai-balloons-2.json) |
 | Hentai Balls 3D: Sexy Girls | 390497 | [390497-hentai-balls-3d-sexy-girls.json](./390497-hentai-balls-3d-sexy-girls.json) |
 | Hentai beautiful girls 4 | 164427 | [164427-hentai-beautiful-girls-4.json](./164427-hentai-beautiful-girls-4.json) |
+| Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
 | Hentai Dating Stories: Brazil - Best Stories 1 | 308788 | [308788-hentai-dating-stories-brazil-best-stories-1.json](./308788-hentai-dating-stories-brazil-best-stories-1.json) |
 | Hentai Dating Stories: Brazil - Best Stories 2 | 308787 | [308787-hentai-dating-stories-brazil-best-stories-2.json](./308787-hentai-dating-stories-brazil-best-stories-2.json) |
 | Hentai Dating Stories: Brazil - Best Stories 3 | 308786 | [308786-hentai-dating-stories-brazil-best-stories-3.json](./308786-hentai-dating-stories-brazil-best-stories-3.json) |
@@ -890,6 +891,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
 | Hentai Gallery: Lovely Angels | 381004 | [381004-hentai-gallery-lovely-angels.json](./381004-hentai-gallery-lovely-angels.json) |
 | Hentai Gallery: Secret Beauties | 378806 | [378806-hentai-gallery-secret-beauties.json](./378806-hentai-gallery-secret-beauties.json) |
+| Hentai Girl Fantasy | 136425 | [136425-hentai-girl-fantasy.json](./136425-hentai-girl-fantasy.json) |
+| Hentai Girl Hime | 136426 | [136426-hentai-girl-hime.json](./136426-hentai-girl-hime.json) |
+| Hentai Girl Karen | 136427 | [136427-hentai-girl-karen.json](./136427-hentai-girl-karen.json) |
+| Hentai Girl Linda | 136428 | [136428-hentai-girl-linda.json](./136428-hentai-girl-linda.json) |
 | Hentai Girls | 294164 | [294164-hentai-girls.json](./294164-hentai-girls.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
@@ -1940,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Survive: Barricade! | 170434 | [170434-how-to-survive-barricade.json](./170434-how-to-survive-barricade.json) |
 | How to Survive: Kovac's Way | 164516 | [164516-how-to-survive-kovacs-way.json](./164516-how-to-survive-kovacs-way.json) |
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
+| How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
 | Howdy, Jacob! | 148512 | [148512-howdy-jacob.json](./148512-howdy-jacob.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
