@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
 | Kinesis | 276713 | [276713-kinesis.json](./276713-kinesis.json) |
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
+| King 'n Knight | 153944 | [153944-king-n-knight.json](./153944-king-n-knight.json) |
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
@@ -565,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Nyabur: The Shattered Realm | 217501 | [217501-kingdom-of-nyabur-the-shattered-realm.json](./217501-kingdom-of-nyabur-the-shattered-realm.json) |
 | Kingdom Of Peace | 295775 | [295775-kingdom-of-peace.json](./295775-kingdom-of-peace.json) |
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
+| Kingdom of the Untitled Magic | 154033 | [154033-kingdom-of-the-untitled-magic.json](./154033-kingdom-of-the-untitled-magic.json) |
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
 | Kingdom Rush 5: Alliance | 296924 | [296924-kingdom-rush-5-alliance.json](./296924-kingdom-rush-5-alliance.json) |
 | Kingdom Rush 5: Alliance - Colossal Dwarfare | 330136 | [330136-kingdom-rush-5-alliance-colossal-dwarfare.json](./330136-kingdom-rush-5-alliance-colossal-dwarfare.json) |
@@ -1004,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung-Fu Master | 86202 | [86202-kung-fu-master.json](./86202-kung-fu-master.json) |
 | Kung-Fu Street | 137063 | [137063-kung-fu-street.json](./137063-kung-fu-street.json) |
 | Kung-Fu Taikun | 40220 | [40220-kung-fu-taikun.json](./40220-kung-fu-taikun.json) |
+| Kungfu Football Captain | 153931 | [153931-kungfu-football-captain.json](./153931-kungfu-football-captain.json) |
 | KungFu Kickball | 121713 | [121713-kungfu-kickball.json](./121713-kungfu-kickball.json) |
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
 | Kunio-kun's Nekketsu Soccer League | 16603 | [16603-kunio-kuns-nekketsu-soccer-league.json](./16603-kunio-kuns-nekketsu-soccer-league.json) |
