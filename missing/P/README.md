@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Paintings Restoration | 329576 | [329576-paintings-restoration.json](./329576-paintings-restoration.json) |
 | Painturio | 188609 | [188609-painturio.json](./188609-painturio.json) |
+| Paio Hazard | 134630 | [134630-paio-hazard.json](./134630-paio-hazard.json) |
 | Pair Horror + Haunted Pack Set | 328990 | [328990-pair-horror-haunted-pack-set.json](./328990-pair-horror-haunted-pack-set.json) |
 | Pair Matching Puzzle Connect | 163440 | [163440-pair-matching-puzzle-connect.json](./163440-pair-matching-puzzle-connect.json) |
 | Pair Matching Puzzle Connect: Expansion Pack 1 | 163450 | [163450-pair-matching-puzzle-connect-expansion-pack-1.json](./163450-pair-matching-puzzle-connect-expansion-pack-1.json) |
@@ -226,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
+| Panic Party | 134631 | [134631-panic-party.json](./134631-panic-party.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
 | Panic Station | 172113 | [172113-panic-station.json](./172113-panic-station.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
@@ -1354,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Exploration: Craft Edition | 101574 | [101574-pixel-exploration-craft-edition.json](./101574-pixel-exploration-craft-edition.json) |
 | Pixel Family Fun | 231067 | [231067-pixel-family-fun.json](./231067-pixel-family-fun.json) |
 | Pixel Family Fun: Extended Edition | 251599 | [251599-pixel-family-fun-extended-edition.json](./251599-pixel-family-fun-extended-edition.json) |
+| Pixel Fireplace | 134645 | [134645-pixel-fireplace.json](./134645-pixel-fireplace.json) |
 | Pixel Fish | 310755 | [310755-pixel-fish.json](./310755-pixel-fish.json) |
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
