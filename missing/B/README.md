@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Belt | 29134 | [29134-black-belt.json](./29134-black-belt.json) |
 | Black Bird | 312581 | [312581-black-bird.json](./312581-black-bird.json) |
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
+| Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
 | Black Box VR | 140619 | [140619-black-box-vr.json](./140619-black-box-vr.json) |
 | Black Castle | 143051 | [143051-black-castle.json](./143051-black-castle.json) |
