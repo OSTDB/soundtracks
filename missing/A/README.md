@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
 | Airborne! | 95457 | [95457-airborne.json](./95457-airborne.json) |
 | Aircoaster | 66731 | [66731-aircoaster.json](./66731-aircoaster.json) |
+| Aircraft Carrier Survival | 139380 | [139380-aircraft-carrier-survival.json](./139380-aircraft-carrier-survival.json) |
 | Aircraft War: Extra Level Pack 2 | 263196 | [263196-aircraft-war-extra-level-pack-2.json](./263196-aircraft-war-extra-level-pack-2.json) |
 | Aircrafter | 379858 | [379858-aircrafter.json](./379858-aircrafter.json) |
 | AirFighter | 193485 | [193485-airfighter.json](./193485-airfighter.json) |
@@ -1847,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle World | 237364 | [237364-animal-puzzle-world.json](./237364-animal-puzzle-world.json) |
 | Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
 | Animal Rescue | 169407 | [169407-animal-rescue.json](./169407-animal-rescue.json) |
+| Animal Rescuer | 139419 | [139419-animal-rescuer.json](./139419-animal-rescuer.json) |
 | Animal Rivals | 28915 | [28915-animal-rivals.json](./28915-animal-rivals.json) |
 | Animal Rivals: Nintendo Switch Edition | 105904 | [105904-animal-rivals-nintendo-switch-edition.json](./105904-animal-rivals-nintendo-switch-edition.json) |
 | Animal Sanctuary | 203882 | [203882-animal-sanctuary.json](./203882-animal-sanctuary.json) |
