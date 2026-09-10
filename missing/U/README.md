@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | United States Capitals: Breakthrough Gaming Activity Center | 221976 | [221976-united-states-capitals-breakthrough-gaming-activity-center.json](./221976-united-states-capitals-breakthrough-gaming-activity-center.json) |
 | Unitied | 126373 | [126373-unitied.json](./126373-unitied.json) |
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
+| Unity of Command II: Barbarossa | 150609 | [150609-unity-of-command-ii-barbarossa.json](./150609-unity-of-command-ii-barbarossa.json) |
 | Unity of Command: Black Turn | 171631 | [171631-unity-of-command-black-turn.json](./171631-unity-of-command-black-turn.json) |
 | Unity to Survive | 368507 | [368507-unity-to-survive.json](./368507-unity-to-survive.json) |
 | Unity-chan the SharpShooter! | 304899 | [304899-unity-chan-the-sharpshooter.json](./304899-unity-chan-the-sharpshooter.json) |
