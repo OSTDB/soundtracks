@@ -28,6 +28,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
 | X-Plane 10 | 79940 | [79940-x-plane-10.json](./79940-x-plane-10.json) |
+| X-Plane 10 Global: Carenado - C208B Grand Caravan | 168813 | [168813-x-plane-10-global-carenado-c208b-grand-caravan.json](./168813-x-plane-10-global-carenado-c208b-grand-caravan.json) |
+| X-Plane 10 Global: Carenado - F33A Bonanza | 168812 | [168812-x-plane-10-global-carenado-f33a-bonanza.json](./168812-x-plane-10-global-carenado-f33a-bonanza.json) |
+| X-Plane 10 Global: Carenado - PA28 181 Archer II | 168815 | [168815-x-plane-10-global-carenado-pa28-181-archer-ii.json](./168815-x-plane-10-global-carenado-pa28-181-archer-ii.json) |
+| X-Plane 10 Global: Carenado - V35 Bonanza | 168816 | [168816-x-plane-10-global-carenado-v35-bonanza.json](./168816-x-plane-10-global-carenado-v35-bonanza.json) |
+| X-Plane 10 Global: South America Scenery | 168814 | [168814-x-plane-10-global-south-america-scenery.json](./168814-x-plane-10-global-south-america-scenery.json) |
 | X-Plane 10: Regional Edition - North America | 205810 | [205810-x-plane-10-regional-edition-north-america.json](./205810-x-plane-10-regional-edition-north-america.json) |
 | X-Plane 11: Aerosoft - Society Islands XP: Tahiti & Windward Islands | 289892 | [289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json](./289892-x-plane-11-aerosoft-society-islands-xp-tahiti-and-windward-islands.json) |
 | X-Plane 11: Aerosoft Seychelles XP | 168367 | [168367-x-plane-11-aerosoft-seychelles-xp.json](./168367-x-plane-11-aerosoft-seychelles-xp.json) |
@@ -155,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xulaph Kaizo World | 267926 | [267926-xulaph-kaizo-world.json](./267926-xulaph-kaizo-world.json) |
 | Xxx_Cyberrat_Xxx | 216818 | [216818-xxx-cyberrat-xxx.json](./216818-xxx-cyberrat-xxx.json) |
 | XxxHolic: Watanuki no Izayoi Sowa | 194567 | [194567-xxxholic-watanuki-no-izayoi-sowa.json](./194567-xxxholic-watanuki-no-izayoi-sowa.json) |
+| XXZ: XXL - Dead Souls Trial | 170505 | [170505-xxz-xxl-dead-souls-trial.json](./170505-xxz-xxl-dead-souls-trial.json) |
 | XXZ: XXL - Rush | 170506 | [170506-xxz-xxl-rush.json](./170506-xxz-xxl-rush.json) |
 | XXZ: XXL - Squad | 170508 | [170508-xxz-xxl-squad.json](./170508-xxz-xxl-squad.json) |
 | XXZ: XXL - Squad Trial | 170507 | [170507-xxz-xxl-squad-trial.json](./170507-xxz-xxl-squad-trial.json) |
