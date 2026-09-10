@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
 | Blastboard: Casso | 203907 | [203907-blastboard-casso.json](./203907-blastboard-casso.json) |
 | Blasted GutZ | 391619 | [391619-blasted-gutz.json](./391619-blasted-gutz.json) |
+| Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
 | Blaster Simulator | 9387 | [9387-blaster-simulator.json](./9387-blaster-simulator.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
