@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
+| Advanced Lawnmower Simulator | 142432 | [142432-advanced-lawnmower-simulator.json](./142432-advanced-lawnmower-simulator.json) |
 | Advanced Tactics Gold | 36292 | [36292-advanced-tactics-gold.json](./36292-advanced-tactics-gold.json) |
 | Advanced Thinking Skills | 305166 | [305166-advanced-thinking-skills.json](./305166-advanced-thinking-skills.json) |
 | Advancing Chess | 296352 | [296352-advancing-chess.json](./296352-advancing-chess.json) |
