@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 216246 | [216246-eclipse.json](./216246-eclipse.json) |
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
 | Eclipse | 295243 | [295243-eclipse.json](./295243-eclipse.json) |
+| Eclipse Horde | 151662 | [151662-eclipse-horde.json](./151662-eclipse-horde.json) |
 | Eclipse Isle | 125435 | [125435-eclipse-isle.json](./125435-eclipse-isle.json) |
 | Eclipse of Elysium | 295815 | [295815-eclipse-of-elysium.json](./295815-eclipse-of-elysium.json) |
 | Eclipse: Edge of Light | 27809 | [27809-eclipse-edge-of-light.json](./27809-eclipse-edge-of-light.json) |
@@ -1314,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
+| Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
 | Expand | 18474 | [18474-expand.json](./18474-expand.json) |
 | Expand & Exterminate: Terrytorial Disputes - Endless Base Defense | 367935 | [367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json](./367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json) |
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
