@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everest | 95437 | [95437-everest.json](./95437-everest.json) |
 | Everest Truck Simulator | 367981 | [367981-everest-truck-simulator.json](./367981-everest-truck-simulator.json) |
 | Everfall: Idle Dungeon RPG | 377083 | [377083-everfall-idle-dungeon-rpg.json](./377083-everfall-idle-dungeon-rpg.json) |
+| Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
 | Evergreen Meadow | 390495 | [390495-evergreen-meadow.json](./390495-evergreen-meadow.json) |
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
