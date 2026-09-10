@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainted Grail: Conquest | 146424 | [146424-tainted-grail-conquest.json](./146424-tainted-grail-conquest.json) |
 | Tainted Ground | 373031 | [373031-tainted-ground.json](./373031-tainted-ground.json) |
 | Tainted Gun | 208597 | [208597-tainted-gun.json](./208597-tainted-gun.json) |
+| Taipan! | 131518 | [131518-taipan.json](./131518-taipan.json) |
 | Taipei Metro Quest | 178664 | [178664-taipei-metro-quest.json](./178664-taipei-metro-quest.json) |
 | Taipei Midsummer Night's Dream | 339104 | [339104-taipei-midsummer-nights-dream.json](./339104-taipei-midsummer-nights-dream.json) |
 | Taisho Zombi Roman (Plus) | 150657 | [150657-taisho-zombi-roman-plus.json](./150657-taisho-zombi-roman-plus.json) |
@@ -220,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Recycle Bin | 184035 | [184035-tales-from-the-recycle-bin.json](./184035-tales-from-the-recycle-bin.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
+| Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
@@ -721,6 +723,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
 | Tengu no Kassha: Shoot and Embodiment! | 342037 | [342037-tengu-no-kassha-shoot-and-embodiment.json](./342037-tengu-no-kassha-shoot-and-embodiment.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
+| Tennis | 131513 | [131513-tennis.json](./131513-tennis.json) |
+| Tennis | 131517 | [131517-tennis.json](./131517-tennis.json) |
+| Tennis | 131530 | [131530-tennis.json](./131530-tennis.json) |
+| Tennis | 131536 | [131536-tennis.json](./131536-tennis.json) |
 | Tennis Antics | 54426 | [54426-tennis-antics.json](./54426-tennis-antics.json) |
 | Tennis Challenge | 230845 | [230845-tennis-challenge.json](./230845-tennis-challenge.json) |
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
@@ -903,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Texas Chainsaw Dodge | 307613 | [307613-texas-chainsaw-dodge.json](./307613-texas-chainsaw-dodge.json) |
+| Texas Hold 'Em Poker | 131511 | [131511-texas-hold-em-poker.json](./131511-texas-hold-em-poker.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
@@ -3050,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snow Reach | 266805 | [266805-the-snow-reach.json](./266805-the-snow-reach.json) |
 | The Snowfield | 144323 | [144323-the-snowfield.json](./144323-the-snowfield.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
+| The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
 | The Soldat with Twin Arms | 151753 | [151753-the-soldat-with-twin-arms.json](./151753-the-soldat-with-twin-arms.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
 | The Song of Survivors | 165015 | [165015-the-song-of-survivors.json](./165015-the-song-of-survivors.json) |
@@ -5502,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island | 142389 | [142389-treasure-island.json](./142389-treasure-island.json) |
 | Treasure Island | 25782 | [25782-treasure-island.json](./25782-treasure-island.json) |
 | Treasure Island 2 | 257411 | [257411-treasure-island-2.json](./257411-treasure-island-2.json) |
+| Treasure Island Arcade | 131519 | [131519-treasure-island-arcade.json](./131519-treasure-island-arcade.json) |
 | Treasure of Barracuda | 165695 | [165695-treasure-of-barracuda.json](./165695-treasure-of-barracuda.json) |
 | Treasure of Big Totem | 315258 | [315258-treasure-of-big-totem.json](./315258-treasure-of-big-totem.json) |
 | Treasure of Big Totem 2 | 315259 | [315259-treasure-of-big-totem-2.json](./315259-treasure-of-big-totem-2.json) |
