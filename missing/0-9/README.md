@@ -334,7 +334,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
 | 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
-| 8Infinity | 31366 | [31366-8infinity.json](./31366-8infinity.json) |
 | 8th Avenue | 333576 | [333576-8th-avenue.json](./333576-8th-avenue.json) |
 | 9 Black Boxes | 179163 | [179163-9-black-boxes.json](./179163-9-black-boxes.json) |
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
