@@ -821,6 +821,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After You: Level Escape | 249478 | [249478-after-you-level-escape.json](./249478-after-you-level-escape.json) |
+| After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
+| After-H: Battle Arena | 141797 | [141797-after-h-battle-arena.json](./141797-after-h-battle-arena.json) |
+| After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
 | After-H: Moon of the Dead | 362257 | [362257-after-h-moon-of-the-dead.json](./362257-after-h-moon-of-the-dead.json) |
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
@@ -991,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikatsu! 365 Idol Days | 177559 | [177559-aikatsu-365-idol-days.json](./177559-aikatsu-365-idol-days.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
 | Aikiss 1, 2, 3 Pack | 182469 | [182469-aikiss-1-2-3-pack.json](./182469-aikiss-1-2-3-pack.json) |
+| Aikiss 2 | 141794 | [141794-aikiss-2.json](./141794-aikiss-2.json) |
 | Aikiss 2: Complete Edition | 141893 | [141893-aikiss-2-complete-edition.json](./141893-aikiss-2-complete-edition.json) |
 | Aikiss 3 Cute | 182471 | [182471-aikiss-3-cute.json](./182471-aikiss-3-cute.json) |
 | Aikiss 3 Cute: Complete Limited Edition | 182478 | [182478-aikiss-3-cute-complete-limited-edition.json](./182478-aikiss-3-cute-complete-limited-edition.json) |
@@ -2027,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antharion | 64446 | [64446-antharion.json](./64446-antharion.json) |
 | AntharioN | 17227 | [17227-antharion.json](./17227-antharion.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
+| Antholojam 1: Golden Era of Sci-Fi | 141781 | [141781-antholojam-1-golden-era-of-sci-fi.json](./141781-antholojam-1-golden-era-of-sci-fi.json) |
 | Anthropocene Epoch | 186806 | [186806-anthropocene-epoch.json](./186806-anthropocene-epoch.json) |
 | Anti Aircraft Artillery | 292018 | [292018-anti-aircraft-artillery.json](./292018-anti-aircraft-artillery.json) |
 | Anti Frank's Wrath | 173255 | [173255-anti-franks-wrath.json](./173255-anti-franks-wrath.json) |
@@ -2392,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
 | Archwar: Heroes and Demons | 227250 | [227250-archwar-heroes-and-demons.json](./227250-archwar-heroes-and-demons.json) |
 | Arcis Ultima | 196231 | [196231-arcis-ultima.json](./196231-arcis-ultima.json) |
+| ArcLand | 141806 | [141806-arcland.json](./141806-arcland.json) |
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
