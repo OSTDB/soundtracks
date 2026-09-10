@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
 | Dark Seeker | 151698 | [151698-dark-seeker.json](./151698-dark-seeker.json) |
 | Dark Side of Fate | 155083 | [155083-dark-side-of-fate.json](./155083-dark-side-of-fate.json) |
+| Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
 | Dark Skies 2: Keepers of Nemansk | 296689 | [296689-dark-skies-2-keepers-of-nemansk.json](./296689-dark-skies-2-keepers-of-nemansk.json) |
 | Dark Sky | 290393 | [290393-dark-sky.json](./290393-dark-sky.json) |
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
@@ -729,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
+| Death Upon Us | 150615 | [150615-death-upon-us.json](./150615-death-upon-us.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
 | Death Walk | 217295 | [217295-death-walk.json](./217295-death-walk.json) |
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
@@ -1163,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolated District | 253356 | [253356-desolated-district.json](./253356-desolated-district.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
+| Desolatium | 150643 | [150643-desolatium.json](./150643-desolatium.json) |
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
 | Despair | 268774 | [268774-despair.json](./268774-despair.json) |
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
@@ -1269,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
 | Devil Dice | 28400 | [28400-devil-dice.json](./28400-devil-dice.json) |
 | Devil Edge | 169450 | [169450-devil-edge.json](./169450-devil-edge.json) |
+| Devil Engine: Ignition | 150601 | [150601-devil-engine-ignition.json](./150601-devil-engine-ignition.json) |
 | Devil Fish | 39633 | [39633-devil-fish.json](./39633-devil-fish.json) |
 | Devil In My House | 311781 | [311781-devil-in-my-house.json](./311781-devil-in-my-house.json) |
 | Devil in the Pines | 67598 | [67598-devil-in-the-pines.json](./67598-devil-in-the-pines.json) |
