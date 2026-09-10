@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
+| Colors! | 162848 | [162848-colors.json](./162848-colors.json) |
 | Colors! Maze | 193486 | [193486-colors-maze.json](./193486-colors-maze.json) |
 | Colors! Platform | 199607 | [199607-colors-platform.json](./199607-colors-platform.json) |
 | Colors’ Heartbeat | 235480 | [235480-colors-heartbeat.json](./235480-colors-heartbeat.json) |
