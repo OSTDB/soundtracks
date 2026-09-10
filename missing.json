@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T17:19:13.734Z",
-  "total_missing": 54575,
+  "generated_at": "2026-09-10T17:21:10.014Z",
+  "total_missing": 54574,
   "games": [
     {
       "igdb_id": 306086,
@@ -1576,11 +1576,6 @@
       "igdb_id": 186235,
       "game_name": "8 Bit Son-of-a-Bitch",
       "file": "missing/0-9/186235-8-bit-son-of-a-bitch.json"
-    },
-    {
-      "igdb_id": 112358,
-      "game_name": "8 Queens",
-      "file": "missing/0-9/112358-8-queens.json"
     },
     {
       "igdb_id": 255083,
