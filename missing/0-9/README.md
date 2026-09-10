@@ -285,7 +285,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 flags and seals of the United States HD | 109013 | [109013-50-flags-and-seals-of-the-united-states-hd.json](./109013-50-flags-and-seals-of-the-united-states-hd.json) |
 | 50 Floors: The Paranormal Investigators Prologue | 306699 | [306699-50-floors-the-paranormal-investigators-prologue.json](./306699-50-floors-the-paranormal-investigators-prologue.json) |
 | 50 Waves Hero | 164981 | [164981-50-waves-hero.json](./164981-50-waves-hero.json) |
-| 500 Finger Fillet | 412311 | [412311-500-finger-fillet.json](./412311-500-finger-fillet.json) |
 | 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
 | 5525 | 301035 | [301035-5525.json](./301035-5525.json) |
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
