@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
+| Cape's Escape Game 3rd Room | 165615 | [165615-capes-escape-game-3rd-room.json](./165615-capes-escape-game-3rd-room.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | Capiophobia | 179115 | [179115-capiophobia.json](./179115-capiophobia.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
 | Charged! | 258736 | [258736-charged.json](./258736-charged.json) |
 | Charger Escape | 383373 | [383373-charger-escape.json](./383373-charger-escape.json) |
+| Chariot Land | 165644 | [165644-chariot-land.json](./165644-chariot-land.json) |
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
