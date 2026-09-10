@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeletal Skism | 186315 | [186315-skeletal-skism.json](./186315-skeletal-skism.json) |
 | Skelethrone: The Chronicles of Ericona - Complete Edition | 340744 | [340744-skelethrone-the-chronicles-of-ericona-complete-edition.json](./340744-skelethrone-the-chronicles-of-ericona-complete-edition.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
+| Skeleton Troubles | 166707 | [166707-skeleton-troubles.json](./166707-skeleton-troubles.json) |
 | Skeleton vs zombies | 127363 | [127363-skeleton-vs-zombies.json](./127363-skeleton-vs-zombies.json) |
 | Skeleton Warriors | 8084 | [8084-skeleton-warriors.json](./8084-skeleton-warriors.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
@@ -3515,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
+| Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
 | SpaceSlog | 197908 | [197908-spaceslog.json](./197908-spaceslog.json) |
 | SpaceSoldier3D | 320160 | [320160-spacesoldier3d.json](./320160-spacesoldier3d.json) |
 | Spacesona | 323552 | [323552-spacesona.json](./323552-spacesona.json) |
@@ -5845,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surge Concerto DX Agent Pack Code: Gold/. | 139996 | [139996-surge-concerto-dx-agent-pack-code-gold.json](./139996-surge-concerto-dx-agent-pack-code-gold.json) |
 | Surge Concerto DX Agent Pack Code: Silver/. | 140004 | [140004-surge-concerto-dx-agent-pack-code-silver.json](./140004-surge-concerto-dx-agent-pack-code-silver.json) |
 | Surge Generations | 334687 | [334687-surge-generations.json](./334687-surge-generations.json) |
+| Surgeon Simulator 2 Launch Bundle | 166689 | [166689-surgeon-simulator-2-launch-bundle.json](./166689-surgeon-simulator-2-launch-bundle.json) |
 | Surgeon Simulator VR: Meet the Medic | 33128 | [33128-surgeon-simulator-vr-meet-the-medic.json](./33128-surgeon-simulator-vr-meet-the-medic.json) |
 | Surgical Robot Simulator | 170543 | [170543-surgical-robot-simulator.json](./170543-surgical-robot-simulator.json) |
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
