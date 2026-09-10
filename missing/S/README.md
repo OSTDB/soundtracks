@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Gear | 332255 | [332255-sonic-gear.json](./332255-sonic-gear.json) |
 | Sonic Generations | 264885 | [264885-sonic-generations.json](./264885-sonic-generations.json) |
 | Sonic Generations | 320894 | [320894-sonic-generations.json](./320894-sonic-generations.json) |
+| Sonic Generations: Casino Night DLC | 133938 | [133938-sonic-generations-casino-night-dlc.json](./133938-sonic-generations-casino-night-dlc.json) |
 | Sonic Genesis of the Azure Wind | 331714 | [331714-sonic-genesis-of-the-azure-wind.json](./331714-sonic-genesis-of-the-azure-wind.json) |
 | Sonic Golf | 261242 | [261242-sonic-golf.json](./261242-sonic-golf.json) |
 | Sonic Golf 3D | 261280 | [261280-sonic-golf-3d.json](./261280-sonic-golf-3d.json) |
@@ -3141,9 +3142,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Incursion | 326998 | [326998-sonic-incursion.json](./326998-sonic-incursion.json) |
 | Sonic Inflation 2: Battle | 140539 | [140539-sonic-inflation-2-battle.json](./140539-sonic-inflation-2-battle.json) |
 | Sonic Inflation Adventure | 140538 | [140538-sonic-inflation-adventure.json](./140538-sonic-inflation-adventure.json) |
+| Sonic Jam | 133930 | [133930-sonic-jam.json](./133930-sonic-jam.json) |
 | Sonic Journey | 317609 | [317609-sonic-journey.json](./317609-sonic-journey.json) |
+| Sonic Jump | 133940 | [133940-sonic-jump.json](./133940-sonic-jump.json) |
+| Sonic Jump 2 | 133941 | [133941-sonic-jump-2.json](./133941-sonic-jump-2.json) |
 | Sonic Kart 3DX | 261278 | [261278-sonic-kart-3dx.json](./261278-sonic-kart-3dx.json) |
 | Sonic Liola: Begins | 330704 | [330704-sonic-liola-begins.json](./330704-sonic-liola-begins.json) |
+| Sonic Lost World: The Legend of Zelda Zone | 133935 | [133935-sonic-lost-world-the-legend-of-zelda-zone.json](./133935-sonic-lost-world-the-legend-of-zelda-zone.json) |
+| Sonic Lost World: Yoshi's Island Zone | 133933 | [133933-sonic-lost-world-yoshis-island-zone.json](./133933-sonic-lost-world-yoshis-island-zone.json) |
 | Sonic Madness | 331101 | [331101-sonic-madness.json](./331101-sonic-madness.json) |
 | Sonic Madventure | 352168 | [352168-sonic-madventure.json](./352168-sonic-madventure.json) |
 | Sonic Mania + Team Sonic Racing Double Pack | 139949 | [139949-sonic-mania-team-sonic-racing-double-pack.json](./139949-sonic-mania-team-sonic-racing-double-pack.json) |
@@ -3258,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Tweet | 63904 | [63904-sonic-tweet.json](./63904-sonic-tweet.json) |
 | Sonic Unite | 336359 | [336359-sonic-unite.json](./336359-sonic-unite.json) |
 | Sonic Unleashed | 133942 | [133942-sonic-unleashed.json](./133942-sonic-unleashed.json) |
+| Sonic Unleashed | 133943 | [133943-sonic-unleashed.json](./133943-sonic-unleashed.json) |
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
 | Sonic Wild | 317612 | [317612-sonic-wild.json](./317612-sonic-wild.json) |
 | Sonic Wings Limited | 39693 | [39693-sonic-wings-limited.json](./39693-sonic-wings-limited.json) |
@@ -5995,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
 | Super Smash Flash 2 | 14247 | [14247-super-smash-flash-2.json](./14247-super-smash-flash-2.json) |
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
+| Super Smash Land | 133944 | [133944-super-smash-land.json](./133944-super-smash-land.json) |
 | Super Smash the Office | 174839 | [174839-super-smash-the-office.json](./174839-super-smash-the-office.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
 | Super Soccer Champ | 38394 | [38394-super-soccer-champ.json](./38394-super-soccer-champ.json) |
