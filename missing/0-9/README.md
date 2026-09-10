@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Nights Keeper | 316436 | [316436-7-nights-keeper.json](./316436-7-nights-keeper.json) |
 | 7 of Clubs | 175417 | [175417-7-of-clubs.json](./175417-7-of-clubs.json) |
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
+| 7 Second Haircuts | 152274 | [152274-7-second-haircuts.json](./152274-7-second-haircuts.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 7,62 High Calibre | 36344 | [36344-7-62-high-calibre.json](./36344-7-62-high-calibre.json) |
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
