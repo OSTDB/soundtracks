@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
 | Captain Tsubasa Vol. II: Super Striker | 102254 | [102254-captain-tsubasa-vol-ii-super-striker.json](./102254-captain-tsubasa-vol-ii-super-striker.json) |
 | Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
+| Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tachibana Brothers Mission | 214542 | [214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json](./214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
@@ -1187,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders 5: Christmas Edition | 108464 | [108464-chicken-invaders-5-christmas-edition.json](./108464-chicken-invaders-5-christmas-edition.json) |
 | Chicken Nuggets | 180224 | [180224-chicken-nuggets.json](./180224-chicken-nuggets.json) |
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
+| Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
 | Chicken Shoot 2 | 248634 | [248634-chicken-shoot-2.json](./248634-chicken-shoot-2.json) |
@@ -1540,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
 | Citizen Witch | 184650 | [184650-citizen-witch.json](./184650-citizen-witch.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
+| Citizens Unite!: Earth x Space | 139994 | [139994-citizens-unite-earth-x-space.json](./139994-citizens-unite-earth-x-space.json) |
 | Citri Plays Noirwood | 220635 | [220635-citri-plays-noirwood.json](./220635-citri-plays-noirwood.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
@@ -2155,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
 | Commando vs Zombies | 99002 | [99002-commando-vs-zombies.json](./99002-commando-vs-zombies.json) |
+| Commandos 2 & Praetorians HD Remaster Double Pack | 139932 | [139932-commandos-2-and-praetorians-hd-remaster-double-pack.json](./139932-commandos-2-and-praetorians-hd-remaster-double-pack.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
 | Common Loot | 400254 | [400254-common-loot.json](./400254-common-loot.json) |
@@ -2288,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
+| Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
 | Construction Simulator 2015: Liebherr 150 EC-B | 168916 | [168916-construction-simulator-2015-liebherr-150-ec-b.json](./168916-construction-simulator-2015-liebherr-150-ec-b.json) |
 | Construction Simulator 2015: Liebherr A 918 | 168922 | [168922-construction-simulator-2015-liebherr-a-918.json](./168922-construction-simulator-2015-liebherr-a-918.json) |
 | Construction Simulator 2015: Liebherr HTM 1204 ZA | 168920 | [168920-construction-simulator-2015-liebherr-htm-1204-za.json](./168920-construction-simulator-2015-liebherr-htm-1204-za.json) |
