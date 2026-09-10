@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day At the Track | 243399 | [243399-a-day-at-the-track.json](./243399-a-day-at-the-track.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day in the Office | 176500 | [176500-a-day-in-the-office.json](./176500-a-day-in-the-office.json) |
+| A Day in the Park | 167225 | [167225-a-day-in-the-park.json](./167225-a-day-in-the-park.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day to Bring Them Happiness | 314042 | [314042-a-day-to-bring-them-happiness.json](./314042-a-day-to-bring-them-happiness.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
@@ -1934,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Nightmare | 217856 | [217856-another-nightmare.json](./217856-another-nightmare.json) |
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
+| Another road | 167243 | [167243-another-road.json](./167243-another-road.json) |
 | Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
 | Another SameGame | 64434 | [64434-another-samegame.json](./64434-another-samegame.json) |
 | Another Sight | 186835 | [186835-another-sight.json](./186835-another-sight.json) |
@@ -2682,7 +2684,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mirage Master Assassin Upgrade Bundle 2 | 360574 | [360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json](./360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
 | Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1 | 360572 | [360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json](./360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json) |
+| Assassin's Creed Revelations: Mediterranean Traveler Map Pack | 167242 | [167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json](./167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json) |
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
+| Assassin's Creed Revelations: The Ancestors Character Pack | 167241 | [167241-assassins-creed-revelations-the-ancestors-character-pack.json](./167241-assassins-creed-revelations-the-ancestors-character-pack.json) |
 | Assassin's Creed Valhalla: A Fated Encounter | 228706 | [228706-assassins-creed-valhalla-a-fated-encounter.json](./228706-assassins-creed-valhalla-a-fated-encounter.json) |
 | Assassin's Creed Valhalla: Dawn of Ragnarök | 185706 | [185706-assassins-creed-valhalla-dawn-of-ragnarok.json](./185706-assassins-creed-valhalla-dawn-of-ragnarok.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
