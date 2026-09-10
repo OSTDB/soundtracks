@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park 3 | 17177 | [17177-wildlife-park-3.json](./17177-wildlife-park-3.json) |
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
 | Wildlife Park 3: Dino Invasion | 171071 | [171071-wildlife-park-3-dino-invasion.json](./171071-wildlife-park-3-dino-invasion.json) |
+| Wildlife Park: 15 Years Anniversary Trilogy | 136379 | [136379-wildlife-park-15-years-anniversary-trilogy.json](./136379-wildlife-park-15-years-anniversary-trilogy.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
@@ -1266,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonka Block Party | 373531 | [373531-wonka-block-party.json](./373531-wonka-block-party.json) |
 | Wonky Ship: Black Hole Down | 168322 | [168322-wonky-ship-black-hole-down.json](./168322-wonky-ship-black-hole-down.json) |
 | Wood & Weather | 212817 | [212817-wood-and-weather.json](./212817-wood-and-weather.json) |
+| Wood and Water and Rock | 136422 | [136422-wood-and-water-and-rock.json](./136422-wood-and-water-and-rock.json) |
 | Wood Block 99 | 219828 | [219828-wood-block-99.json](./219828-wood-block-99.json) |
 | Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
