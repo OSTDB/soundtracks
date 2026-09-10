@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
+| Effie: Galand's Edition | 155147 | [155147-effie-galands-edition.json](./155147-effie-galands-edition.json) |
 | Effigy | 218715 | [218715-effigy.json](./218715-effigy.json) |
 | Effing Worms | 210662 | [210662-effing-worms.json](./210662-effing-worms.json) |
 | Effortworld | 265655 | [265655-effortworld.json](./265655-effortworld.json) |
@@ -1119,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
 | Everhood | 132083 | [132083-everhood.json](./132083-everhood.json) |
 | Everlands | 200130 | [200130-everlands.json](./200130-everlands.json) |
+| Everlasting Guilt | 155084 | [155084-everlasting-guilt.json](./155084-everlasting-guilt.json) |
 | Everlasting Tower | 335661 | [335661-everlasting-tower.json](./335661-everlasting-tower.json) |
 | Everlasting: Per Aspera Ad Terra | 112313 | [112313-everlasting-per-aspera-ad-terra.json](./112313-everlasting-per-aspera-ad-terra.json) |
 | Everlife | 297506 | [297506-everlife.json](./297506-everlife.json) |
