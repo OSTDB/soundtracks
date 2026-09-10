@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackShot | 33760 | [33760-blackshot.json](./33760-blackshot.json) |
 | Blacksmith Forger | 231063 | [231063-blacksmith-forger.json](./231063-blacksmith-forger.json) |
 | Blacksmith Legends | 159348 | [159348-blacksmith-legends.json](./159348-blacksmith-legends.json) |
+| Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
 | Blacktail | 152129 | [152129-blacktail.json](./152129-blacktail.json) |
@@ -3088,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button City: Soccer Days | 252771 | [252771-button-city-soccer-days.json](./252771-button-city-soccer-days.json) |
 | Button Game: 10 Minutes War | 368484 | [368484-button-game-10-minutes-war.json](./368484-button-game-10-minutes-war.json) |
 | Button Man | 295280 | [295280-button-man.json](./295280-button-man.json) |
+| Button Tales: Way Home | 156188 | [156188-button-tales-way-home.json](./156188-button-tales-way-home.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
 | Buy Low Sell High | 109707 | [109707-buy-low-sell-high.json](./109707-buy-low-sell-high.json) |
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
