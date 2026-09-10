@@ -251,6 +251,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Armageddon - Ork Hunters | 53888 | [53888-warhammer-40-000-armageddon-ork-hunters.json](./53888-warhammer-40-000-armageddon-ork-hunters.json) |
 | Warhammer 40,000: Battlesector - T'au | 289900 | [289900-warhammer-40-000-battlesector-tau.json](./289900-warhammer-40-000-battlesector-tau.json) |
 | Warhammer 40,000: Dark Crusaders | 200657 | [200657-warhammer-40-000-dark-crusaders.json](./200657-warhammer-40-000-dark-crusaders.json) |
+| Warhammer 40,000: Dawn of War II - Retribution Chaos Space Marines Race Pack | 163389 | [163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json](./163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json) |
+| Warhammer 40,000: Dawn of War II - Retribution Eldar Race Pack | 163391 | [163391-warhammer-40-000-dawn-of-war-ii-retribution-eldar-race-pack.json](./163391-warhammer-40-000-dawn-of-war-ii-retribution-eldar-race-pack.json) |
+| Warhammer 40,000: Dawn of War II - Retribution Imperial Guard Race Pack | 163393 | [163393-warhammer-40-000-dawn-of-war-ii-retribution-imperial-guard-race-pack.json](./163393-warhammer-40-000-dawn-of-war-ii-retribution-imperial-guard-race-pack.json) |
+| Warhammer 40,000: Dawn of War II - Retribution Ork Race Pack | 163392 | [163392-warhammer-40-000-dawn-of-war-ii-retribution-ork-race-pack.json](./163392-warhammer-40-000-dawn-of-war-ii-retribution-ork-race-pack.json) |
+| Warhammer 40,000: Dawn of War II - Retribution Space Marines Race Pack | 163394 | [163394-warhammer-40-000-dawn-of-war-ii-retribution-space-marines-race-pack.json](./163394-warhammer-40-000-dawn-of-war-ii-retribution-space-marines-race-pack.json) |
+| Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Necron Overlord | 163383 | [163383-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-necron-overlord.json](./163383-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-necron-overlord.json) |
+| Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Tau Commander | 163388 | [163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json](./163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json) |
 | Warhammer 40,000: Dawn of War III - Collector's Edition | 27768 | [27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json](./27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json) |
 | Warhammer 40,000: Dawn of War III - Limited Edition | 27769 | [27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json](./27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json) |
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
@@ -261,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Pack | 280170 | [280170-warhammer-40-000-rogue-trader-voidfarer-pack.json](./280170-warhammer-40-000-rogue-trader-voidfarer-pack.json) |
 | Warhammer 40,000: Sanctus Reach - Sons of Cadia | 111744 | [111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json](./111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json) |
+| Warhammer 40,000: Space Marine - Chaos Unleashed Map Pack | 163390 | [163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json](./163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json) |
 | Warhammer 40,000: Space Marine - Death Guard Champion Chapter Pack DLC | 225870 | [225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json](./225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json) |
 | Warhammer 40,000: Space Marine - Emperor’s Elite Pack | 225872 | [225872-warhammer-40-000-space-marine-emperor-s-elite-pack.json](./225872-warhammer-40-000-space-marine-emperor-s-elite-pack.json) |
 | Warhammer 40,000: Space Marine - Iron Hands Chapter Pack | 225871 | [225871-warhammer-40-000-space-marine-iron-hands-chapter-pack.json](./225871-warhammer-40-000-space-marine-iron-hands-chapter-pack.json) |
@@ -268,7 +276,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine - Traitor Legions Pack | 225869 | [225869-warhammer-40-000-space-marine-traitor-legions-pack.json](./225869-warhammer-40-000-space-marine-traitor-legions-pack.json) |
 | Warhammer 40,000: Space Marine II - Collector's Edition | 230829 | [230829-warhammer-40-000-space-marine-ii-collectors-edition.json](./230829-warhammer-40-000-space-marine-ii-collectors-edition.json) |
 | Warhammer 40,000: Space Marine II - Space Wolves Chapter Pack | 370094 | [370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json](./370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json) |
+| Warhammer 40,000: Space Wolf - Drenn Redblade | 163385 | [163385-warhammer-40-000-space-wolf-drenn-redblade.json](./163385-warhammer-40-000-space-wolf-drenn-redblade.json) |
+| Warhammer 40,000: Space Wolf - Fall of Kanak | 163386 | [163386-warhammer-40-000-space-wolf-fall-of-kanak.json](./163386-warhammer-40-000-space-wolf-fall-of-kanak.json) |
+| Warhammer 40,000: Space Wolf - Saga of the Great Awakening | 163384 | [163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json](./163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json) |
 | Warhammer 40,000: Space Wolf - Sentry Gun Pack | 156170 | [156170-warhammer-40-000-space-wolf-sentry-gun-pack.json](./156170-warhammer-40-000-space-wolf-sentry-gun-pack.json) |
+| Warhammer 40,000: Space Wolf - Sigurd Ironside | 163387 | [163387-warhammer-40-000-space-wolf-sigurd-ironside.json](./163387-warhammer-40-000-space-wolf-sigurd-ironside.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
 | Warhammer: Mark of Chaos - Gold Edition | 154551 | [154551-warhammer-mark-of-chaos-gold-edition.json](./154551-warhammer-mark-of-chaos-gold-edition.json) |
