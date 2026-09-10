@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet'N'Fuck: The Plumber | 221725 | [221725-meetnfuck-the-plumber.json](./221725-meetnfuck-the-plumber.json) |
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
+| Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
 | Mega Collection: 8 Amazing Games - Volume 2 | 409542 | [409542-mega-collection-8-amazing-games-volume-2.json](./409542-mega-collection-8-amazing-games-volume-2.json) |
@@ -1297,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
 | Mega Man X Dive | 121045 | [121045-mega-man-x-dive.json](./121045-mega-man-x-dive.json) |
 | Mega Man X Dive Offline | 252996 | [252996-mega-man-x-dive-offline.json](./252996-mega-man-x-dive-offline.json) |
+| Mega Man X in Sonic the Hedgehog 2 | 136417 | [136417-mega-man-x-in-sonic-the-hedgehog-2.json](./136417-mega-man-x-in-sonic-the-hedgehog-2.json) |
 | Mega Man X: Command Mission | 1751 | [1751-mega-man-x-command-mission.json](./1751-mega-man-x-command-mission.json) |
 | Mega Man X: Legacy Collection | 96252 | [96252-mega-man-x-legacy-collection.json](./96252-mega-man-x-legacy-collection.json) |
 | Mega Man X: Legacy Collection 1+2 | 96248 | [96248-mega-man-x-legacy-collection-1-2.json](./96248-mega-man-x-legacy-collection-1-2.json) |
