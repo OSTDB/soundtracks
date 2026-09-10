@@ -1272,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: The New Lands Remastered | 269873 | [269873-mega-man-the-new-lands-remastered.json](./269873-mega-man-the-new-lands-remastered.json) |
 | Mega Man: The Sequel Wars | 215146 | [215146-mega-man-the-sequel-wars.json](./215146-mega-man-the-sequel-wars.json) |
 | Mega Man: Twin Destinies | 313111 | [313111-mega-man-twin-destinies.json](./313111-mega-man-twin-destinies.json) |
+| Mega Marble World 2 | 157671 | [157671-mega-marble-world-2.json](./157671-mega-marble-world-2.json) |
 | Mega Mario World 2: Awakened Power | 229347 | [229347-mega-mario-world-2-awakened-power.json](./229347-mega-mario-world-2-awakened-power.json) |
 | Mega Math | 19670 | [19670-mega-math.json](./19670-mega-math.json) |
 | Mega Meteor Madness | 122420 | [122420-mega-meteor-madness.json](./122420-mega-meteor-madness.json) |
