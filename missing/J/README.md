@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jakers: The Adventures of Piggley Winks | 19653 | [19653-jakers-the-adventures-of-piggley-winks.json](./19653-jakers-the-adventures-of-piggley-winks.json) |
 | Jaki Crush | 38361 | [38361-jaki-crush.json](./38361-jaki-crush.json) |
 | Jakou no Lyla: Trap of Musk | 116381 | [116381-jakou-no-lyla-trap-of-musk.json](./116381-jakou-no-lyla-trap-of-musk.json) |
+| Jalapeño Newt | 141811 | [141811-jalapeno-newt.json](./141811-jalapeno-newt.json) |
 | Jalebi: A Desi Adda | 233529 | [233529-jalebi-a-desi-adda.json](./233529-jalebi-a-desi-adda.json) |
 | Jaleco Arcade 1 | 214534 | [214534-jaleco-arcade-1.json](./214534-jaleco-arcade-1.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
