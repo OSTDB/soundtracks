@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
 | Space Wreck | 122417 | [122417-space-wreck.json](./122417-space-wreck.json) |
+| Space X Collector | 166168 | [166168-space-x-collector.json](./166168-space-x-collector.json) |
 | Space Zero | 37185 | [37185-space-zero.json](./37185-space-zero.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
@@ -6068,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
+| Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
 | Sword Art Online: Fractured Daydream | 287852 | [287852-sword-art-online-fractured-daydream.json](./287852-sword-art-online-fractured-daydream.json) |
 | Sword Art Online: Fractured Daydream - Deluxe Edition | 308792 | [308792-sword-art-online-fractured-daydream-deluxe-edition.json](./308792-sword-art-online-fractured-daydream-deluxe-edition.json) |
