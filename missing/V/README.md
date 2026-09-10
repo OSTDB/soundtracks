@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varooom 3D | 181877 | [181877-varooom-3d.json](./181877-varooom-3d.json) |
 | Vasilisa the Beautiful | 360566 | [360566-vasilisa-the-beautiful.json](./360566-vasilisa-the-beautiful.json) |
 | Vaster Claws 3: Dragon Slayer of the God World | 132243 | [132243-vaster-claws-3-dragon-slayer-of-the-god-world.json](./132243-vaster-claws-3-dragon-slayer-of-the-god-world.json) |
+| Vaster Claws 3: Dragon Slayer of the God World - Special Pack | 156116 | [156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json](./156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json) |
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
 | Vault of Fallen | 355573 | [355573-vault-of-fallen.json](./355573-vault-of-fallen.json) |
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
@@ -564,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
 | Vnm | 307292 | [307292-vnm.json](./307292-vnm.json) |
 | VocabVan | 338565 | [338565-vocabvan.json](./338565-vocabvan.json) |
+| Vocal Space Shooter | 156110 | [156110-vocal-space-shooter.json](./156110-vocal-space-shooter.json) |
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
