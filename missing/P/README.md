@@ -230,7 +230,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
+| Panzer Corps 2: Axis Operations - 1939 | 155048 | [155048-panzer-corps-2-axis-operations-1939.json](./155048-panzer-corps-2-axis-operations-1939.json) |
+| Panzer Corps 2: Axis Operations - 1940 | 155050 | [155050-panzer-corps-2-axis-operations-1940.json](./155050-panzer-corps-2-axis-operations-1940.json) |
+| Panzer Corps 2: Axis Operations - 1941 | 155081 | [155081-panzer-corps-2-axis-operations-1941.json](./155081-panzer-corps-2-axis-operations-1941.json) |
 | Panzer Corps 2: Axis Operations - 1945 | 248896 | [248896-panzer-corps-2-axis-operations-1945.json](./248896-panzer-corps-2-axis-operations-1945.json) |
+| Panzer Corps 2: Axis Operations - Spanish Civil War | 155049 | [155049-panzer-corps-2-axis-operations-spanish-civil-war.json](./155049-panzer-corps-2-axis-operations-spanish-civil-war.json) |
 | Panzer Corps 2: Elite - Ghost Division | 370129 | [370129-panzer-corps-2-elite-ghost-division.json](./370129-panzer-corps-2-elite-ghost-division.json) |
 | Panzer Corps: Allied Corps | 124793 | [124793-panzer-corps-allied-corps.json](./124793-panzer-corps-allied-corps.json) |
 | Panzer Corps: Soviet Corps | 124838 | [124838-panzer-corps-soviet-corps.json](./124838-panzer-corps-soviet-corps.json) |
