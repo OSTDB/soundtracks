@@ -10,7 +10,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Force Fighters | 243938 | [243938-g-force-fighters.json](./243938-g-force-fighters.json) |
 | G-Hell | 415093 | [415093-g-hell.json](./415093-g-hell.json) |
 | G-man Invasion | 222304 | [222304-g-man-invasion.json](./222304-g-man-invasion.json) |
+| G-Mode Archives 06: Shijou Saikyou Miyamoto Julia | 137617 | [137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json](./137617-g-mode-archives-06-shijou-saikyou-miyamoto-julia.json) |
 | G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
+| G-Mode Archives 09: Flyhight Cloudia II | 137593 | [137593-g-mode-archives-09-flyhight-cloudia-ii.json](./137593-g-mode-archives-09-flyhight-cloudia-ii.json) |
 | G-Mode Archives 17: Flyhight Cloudia III | 170501 | [170501-g-mode-archives-17-flyhight-cloudia-iii.json](./170501-g-mode-archives-17-flyhight-cloudia-iii.json) |
 | G-Mode Archives 43: Izumi Jiken File Vol. 3 - Yujuku-hen | 221732 | [221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json](./221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
@@ -1943,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
 | Gyossait: Deluxe Edition | 134001 | [134001-gyossait-deluxe-edition.json](./134001-gyossait-deluxe-edition.json) |
+| Gyousatsu! Spirits: Final Version | 137598 | [137598-gyousatsu-spirits-final-version.json](./137598-gyousatsu-spirits-final-version.json) |
 | Gyras: Rogue | 305540 | [305540-gyras-rogue.json](./305540-gyras-rogue.json) |
 | Gyro Gear Tournament+ | 211733 | [211733-gyro-gear-tournament.json](./211733-gyro-gear-tournament.json) |
 | Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
