@@ -398,6 +398,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
 | Johnny Trigger: Gold Edition | 396919 | [396919-johnny-trigger-gold-edition.json](./396919-johnny-trigger-gold-edition.json) |
 | Johnny Trigger: Hotshot Edition | 283171 | [283171-johnny-trigger-hotshot-edition.json](./283171-johnny-trigger-hotshot-edition.json) |
+| Johnny Turbo's Arcade: Joe and Mac Returns | 146860 | [146860-johnny-turbos-arcade-joe-and-mac-returns.json](./146860-johnny-turbos-arcade-joe-and-mac-returns.json) |
+| Johnny Turbo's Arcade: Super Real Darwin | 146861 | [146861-johnny-turbos-arcade-super-real-darwin.json](./146861-johnny-turbos-arcade-super-real-darwin.json) |
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
 | Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
@@ -414,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Diner | 225295 | [225295-jojos-diner.json](./225295-jojos-diner.json) |
 | Joke's On Us | 352194 | [352194-jokes-on-us.json](./352194-jokes-on-us.json) |
 | Joker & Teacher | 369556 | [369556-joker-and-teacher.json](./369556-joker-and-teacher.json) |
+| Joker Poker: Video Poker | 146862 | [146862-joker-poker-video-poker.json](./146862-joker-poker-video-poker.json) |
 | Jolly Putt: Mini Golf & Arcade | 258705 | [258705-jolly-putt-mini-golf-and-arcade.json](./258705-jolly-putt-mini-golf-and-arcade.json) |
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
