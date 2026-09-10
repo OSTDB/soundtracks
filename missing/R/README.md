@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Runway | 181312 | [181312-relic-runway.json](./181312-relic-runway.json) |
 | Relicfall | 415078 | [415078-relicfall.json](./415078-relicfall.json) |
 | Relics 2: The Crusader's Tomb | 195236 | [195236-relics-2-the-crusaders-tomb.json](./195236-relics-2-the-crusaders-tomb.json) |
+| Relics of ancestors | 161334 | [161334-relics-of-ancestors.json](./161334-relics-of-ancestors.json) |
 | Relics: Dark Hours | 92494 | [92494-relics-dark-hours.json](./92494-relics-dark-hours.json) |
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
@@ -2074,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run N' Gun | 195737 | [195737-run-n-gun.json](./195737-run-n-gun.json) |
 | Run or Boom | 215927 | [215927-run-or-boom.json](./215927-run-or-boom.json) |
 | Run or Die | 14721 | [14721-run-or-die.json](./14721-run-or-die.json) |
+| Run or Fight | 161325 | [161325-run-or-fight.json](./161325-run-or-fight.json) |
 | Run Pharaoh Run! | 181329 | [181329-run-pharaoh-run.json](./181329-run-pharaoh-run.json) |
 | Run Pizza Run 2 | 332988 | [332988-run-pizza-run-2.json](./332988-run-pizza-run-2.json) |
 | Run Run Boy | 225073 | [225073-run-run-boy.json](./225073-run-run-boy.json) |
