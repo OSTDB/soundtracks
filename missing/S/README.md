@@ -2300,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Experiments | 265148 | [265148-slime-experiments.json](./265148-slime-experiments.json) |
 | Slime Factory | 367980 | [367980-slime-factory.json](./367980-slime-factory.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
+| Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
 | Slime on Hole | 185619 | [185619-slime-on-hole.json](./185619-slime-on-hole.json) |
@@ -4704,6 +4705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
+| Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
