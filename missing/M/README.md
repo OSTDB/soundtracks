@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
 | Malfortune | 105382 | [105382-malfortune.json](./105382-malfortune.json) |
+| Malfunction FPS | 168326 | [168326-malfunction-fps.json](./168326-malfunction-fps.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Steel: Turbo Tablet | 294465 | [294465-max-steel-turbo-tablet.json](./294465-max-steel-turbo-tablet.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
 | Max Twist | 262965 | [262965-max-twist.json](./262965-max-twist.json) |
+| Max, an Autistic Journey: Max's Birthday | 168321 | [168321-max-an-autistic-journey-maxs-birthday.json](./168321-max-an-autistic-journey-maxs-birthday.json) |
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
 | Maxi Trucks Racing | 366212 | [366212-maxi-trucks-racing.json](./366212-maxi-trucks-racing.json) |
