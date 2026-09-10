@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParkTo | 215694 | [215694-parkto.json](./215694-parkto.json) |
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
 | Parmesan | 184080 | [184080-parmesan.json](./184080-parmesan.json) |
+| Paro Paro | 151646 | [151646-paro-paro.json](./151646-paro-paro.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
@@ -1924,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polybius Invaders 2 | 270948 | [270948-polybius-invaders-2.json](./270948-polybius-invaders-2.json) |
 | Polyblicy | 145019 | [145019-polyblicy.json](./145019-polyblicy.json) |
 | PolyBoost | 172681 | [172681-polyboost.json](./172681-polyboost.json) |
+| Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
