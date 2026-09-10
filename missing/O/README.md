@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OASE: Other Age Second Encounter | 34478 | [34478-oase-other-age-second-encounter.json](./34478-oase-other-age-second-encounter.json) |
 | Oasis | 334662 | [334662-oasis.json](./334662-oasis.json) |
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
+| Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
 | Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
@@ -758,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orakyubu | 165076 | [165076-orakyubu.json](./165076-orakyubu.json) |
 | Oral Lessons With Chii-chan | 254753 | [254753-oral-lessons-with-chii-chan.json](./254753-oral-lessons-with-chii-chan.json) |
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
+| Orange County | 140573 | [140573-orange-county.json](./140573-orange-county.json) |
 | Orange is True Love | 274199 | [274199-orange-is-true-love.json](./274199-orange-is-true-love.json) |
 | Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
 | Orange Season | 34231 | [34231-orange-season.json](./34231-orange-season.json) |
