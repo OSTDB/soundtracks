@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Maze.exe | 293074 | [293074-glitch-maze-exe.json](./293074-glitch-maze-exe.json) |
 | Glitch Party | 235455 | [235455-glitch-party.json](./235455-glitch-party.json) |
 | Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
+| Glitch Strike | 134611 | [134611-glitch-strike.json](./134611-glitch-strike.json) |
 | Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
 | Glitch World | 311251 | [311251-glitch-world.json](./311251-glitch-world.json) |
 | Glitched Out | 274482 | [274482-glitched-out.json](./274482-glitched-out.json) |
@@ -1573,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
+| Grim Reaper RPG | 134617 | [134617-grim-reaper-rpg.json](./134617-grim-reaper-rpg.json) |
 | Grim Repair | 176986 | [176986-grim-repair.json](./176986-grim-repair.json) |
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
 | Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
