@@ -333,7 +333,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bit Killer | 65522 | [65522-8bit-killer.json](./65522-8bit-killer.json) |
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
-| 8Floor Bundle 4 in 1 part 6 | 334110 | [334110-8floor-bundle-4-in-1-part-6.json](./334110-8floor-bundle-4-in-1-part-6.json) |
 | 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
 | 8Infinity | 31366 | [31366-8infinity.json](./31366-8infinity.json) |
 | 8th Avenue | 333576 | [333576-8th-avenue.json](./333576-8th-avenue.json) |
