@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Blackmoon Prophecy II | 210030 | [210030-final-fantasy-blackmoon-prophecy-ii.json](./210030-final-fantasy-blackmoon-prophecy-ii.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
+| Final Foe | 153955 | [153955-final-foe.json](./153955-final-foe.json) |
 | Final Freeway | 257369 | [257369-final-freeway.json](./257369-final-freeway.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
@@ -1553,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footage | 302930 | [302930-footage.json](./302930-footage.json) |
 | Football | 199023 | [199023-football.json](./199023-football.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
+| Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
