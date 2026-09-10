@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball 2 | 48090 | [48090-r-b-i-baseball-2.json](./48090-r-b-i-baseball-2.json) |
 | R.B.I. Baseball 20 | 126188 | [126188-r-b-i-baseball-20.json](./126188-r-b-i-baseball-20.json) |
 | R.C. Bot Inc. | 33097 | [33097-r-c-bot-inc.json](./33097-r-c-bot-inc.json) |
+| R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
 | R.I.C.A | 115013 | [115013-r-i-c-a.json](./115013-r-i-c-a.json) |
 | R.I.P. | 381005 | [381005-r-i-p.json](./381005-r-i-p.json) |
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
@@ -52,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Arrival | 150627 | [150627-raccoon-arrival.json](./150627-raccoon-arrival.json) |
 | Raccoon Bubbles | 208963 | [208963-raccoon-bubbles.json](./208963-raccoon-bubbles.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
+| Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
 | Raccoon Roller | 211218 | [211218-raccoon-roller.json](./211218-raccoon-roller.json) |
 | Raccoon Survival Simulator | 401540 | [401540-raccoon-survival-simulator.json](./401540-raccoon-survival-simulator.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
@@ -817,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Kretes: Tajemnica Trzeciego Wymiaru | 218499 | [218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json](./218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json) |
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
+| Related | 133380 | [133380-related.json](./133380-related.json) |
 | Relativity | 31637 | [31637-relativity.json](./31637-relativity.json) |
 | Relativity Wars - A Science Space RTS | 35953 | [35953-relativity-wars-a-science-space-rts.json](./35953-relativity-wars-a-science-space-rts.json) |
 | Relatle | 320752 | [320752-relatle.json](./320752-relatle.json) |
@@ -1362,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rip Van Bubsy | 269835 | [269835-rip-van-bubsy.json](./269835-rip-van-bubsy.json) |
 | Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
+| Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
@@ -1777,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogueborne Fury | 293629 | [293629-rogueborne-fury.json](./293629-rogueborne-fury.json) |
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
+| RogueJack: Roguelike Blackjack | 133370 | [133370-roguejack-roguelike-blackjack.json](./133370-roguejack-roguelike-blackjack.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
