@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
+| Elon's Dream | 157210 | [157210-elons-dream.json](./157210-elons-dream.json) |
 | Elona Mobile | 194018 | [194018-elona-mobile.json](./194018-elona-mobile.json) |
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ennuigi: A Time for Monsters | 396200 | [396200-ennuigi-a-time-for-monsters.json](./396200-ennuigi-a-time-for-monsters.json) |
 | Enoah's Quest | 303516 | [303516-enoahs-quest.json](./303516-enoahs-quest.json) |
 | Enoch | 217334 | [217334-enoch.json](./217334-enoch.json) |
+| Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
@@ -1100,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
+| Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
 | Everdine: A Lost Girl's Tale | 189142 | [189142-everdine-a-lost-girls-tale.json](./189142-everdine-a-lost-girls-tale.json) |
 | Everdream Valley: GOG Exclusive DLC | 250652 | [250652-everdream-valley-gog-exclusive-dlc.json](./250652-everdream-valley-gog-exclusive-dlc.json) |
