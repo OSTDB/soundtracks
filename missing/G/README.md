@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gooing Up! | 321340 | [321340-gooing-up.json](./321340-gooing-up.json) |
 | Goolems | 244233 | [244233-goolems.json](./244233-goolems.json) |
 | Goomanuvr | 189164 | [189164-goomanuvr.json](./189164-goomanuvr.json) |
+| Goomba's Easter Egg Hunt | 135221 | [135221-goombas-easter-egg-hunt.json](./135221-goombas-easter-egg-hunt.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
 | Goonya Fighter: Jiggly Haptic Edition | 146316 | [146316-goonya-fighter-jiggly-haptic-edition.json](./146316-goonya-fighter-jiggly-haptic-edition.json) |
 | Goonya Monster: Battle Pass - Eternal Pass + Infinity Cookie | 301019 | [301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json](./301019-goonya-monster-battle-pass-eternal-pass-infinity-cookie.json) |
@@ -1542,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Instinct: Part 2 | 235774 | [235774-grey-instinct-part-2.json](./235774-grey-instinct-part-2.json) |
 | Grey Skies: A War of the Worlds Story | 140628 | [140628-grey-skies-a-war-of-the-worlds-story.json](./140628-grey-skies-a-war-of-the-worlds-story.json) |
 | Grey Wolf | 56499 | [56499-grey-wolf.json](./56499-grey-wolf.json) |
+| Grey-Box Testing | 135222 | [135222-grey-box-testing.json](./135222-grey-box-testing.json) |
 | Greyish White | 289345 | [289345-greyish-white.json](./289345-greyish-white.json) |
 | Grid Iron 2 | 94220 | [94220-grid-iron-2.json](./94220-grid-iron-2.json) |
 | Grid Magic | 119785 | [119785-grid-magic.json](./119785-grid-magic.json) |
