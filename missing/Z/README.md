@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Shooter | 16017 | [16017-zombie-shooter.json](./16017-zombie-shooter.json) |
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
 | Zombie Slapper | 220648 | [220648-zombie-slapper.json](./220648-zombie-slapper.json) |
+| Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
 | Zombie Sniper : Evil Hunter | 96396 | [96396-zombie-sniper-evil-hunter.json](./96396-zombie-sniper-evil-hunter.json) |
 | Zombie Sniper 2 | 103525 | [103525-zombie-sniper-2.json](./103525-zombie-sniper-2.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
@@ -291,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies and Keys | 197393 | [197393-zombies-and-keys.json](./197393-zombies-and-keys.json) |
 | Zombies and Orcs | 327822 | [327822-zombies-and-orcs.json](./327822-zombies-and-orcs.json) |
 | Zombies Around Us | 197319 | [197319-zombies-around-us.json](./197319-zombies-around-us.json) |
+| Zombies Beyond Me | 166718 | [166718-zombies-beyond-me.json](./166718-zombies-beyond-me.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
 | Zombies TD | 213404 | [213404-zombies-td.json](./213404-zombies-td.json) |
