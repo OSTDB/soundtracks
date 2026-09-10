@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
 | Happy Salvage | 143128 | [143128-happy-salvage.json](./143128-happy-salvage.json) |
+| Happy Sandwich Cafe | 159276 | [159276-happy-sandwich-cafe.json](./159276-happy-sandwich-cafe.json) |
 | Happy Seasons | 98443 | [98443-happy-seasons.json](./98443-happy-seasons.json) |
 | Happy Sisters Life | 354442 | [354442-happy-sisters-life.json](./354442-happy-sisters-life.json) |
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide vs. Seek | 28942 | [28942-hide-vs-seek.json](./28942-hide-vs-seek.json) |
 | Hide vs. Seek! | 378808 | [378808-hide-vs-seek.json](./378808-hide-vs-seek.json) |
 | Hideous | 348801 | [348801-hideous.json](./348801-hideous.json) |
+| Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
 | Hieronymus | 263189 | [263189-hieronymus.json](./263189-hieronymus.json) |
 | Hifuu Bouenkyou | 222505 | [222505-hifuu-bouenkyou.json](./222505-hifuu-bouenkyou.json) |
 | Hifuu Fragment | 161330 | [161330-hifuu-fragment.json](./161330-hifuu-fragment.json) |
@@ -1600,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook Worlds | 91941 | [91941-hook-worlds.json](./91941-hook-worlds.json) |
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
+| HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
 | Hooked On Speed | 316604 | [316604-hooked-on-speed.json](./316604-hooked-on-speed.json) |
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
