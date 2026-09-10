@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
+| Faded Grey | 166729 | [166729-faded-grey.json](./166729-faded-grey.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
 | Faded Monsuta | 350999 | [350999-faded-monsuta.json](./350999-faded-monsuta.json) |
 | Faded Stories: Greenberg | 190176 | [190176-faded-stories-greenberg.json](./190176-faded-stories-greenberg.json) |
@@ -1608,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
 | Forest | 187538 | [187538-forest.json](./187538-forest.json) |
 | Forest Adventure | 195727 | [195727-forest-adventure.json](./195727-forest-adventure.json) |
+| Forest Battle | 166732 | [166732-forest-battle.json](./166732-forest-battle.json) |
 | Forest Camp Story | 174297 | [174297-forest-camp-story.json](./174297-forest-camp-story.json) |
 | Forest Crossroads | 278151 | [278151-forest-crossroads.json](./278151-forest-crossroads.json) |
 | Forest Doesn’t Care | 358851 | [358851-forest-doesn-t-care.json](./358851-forest-doesn-t-care.json) |
@@ -1761,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Hunters | 117729 | [117729-fortune-hunters.json](./117729-fortune-hunters.json) |
 | Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
+| Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
 | Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
 | Forwards Compatible | 271742 | [271742-forwards-compatible.json](./271742-forwards-compatible.json) |
