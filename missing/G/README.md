@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch-e: Flagman | 261805 | [261805-game-and-watch-e-flagman.json](./261805-game-and-watch-e-flagman.json) |
 | Game & Watch-e: Helmet | 261804 | [261804-game-and-watch-e-helmet.json](./261804-game-and-watch-e-helmet.json) |
 | Game & Watch: The Legend of Zelda | 152361 | [152361-game-and-watch-the-legend-of-zelda.json](./152361-game-and-watch-the-legend-of-zelda.json) |
+| Game About Games | 162844 | [162844-game-about-games.json](./162844-game-about-games.json) |
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
@@ -251,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameGuru: Industrial Sewer Pack | 166190 | [166190-gameguru-industrial-sewer-pack.json](./166190-gameguru-industrial-sewer-pack.json) |
 | Gamehunt | 119768 | [119768-gamehunt.json](./119768-gamehunt.json) |
 | GameOn! | 348239 | [348239-gameon.json](./348239-gameon.json) |
+| Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamers Choice | 86083 | [86083-gamers-choice.json](./86083-gamers-choice.json) |
