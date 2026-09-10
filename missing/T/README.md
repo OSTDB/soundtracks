@@ -20,26 +20,36 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Game Daishuugou!! Shogi Mahjong Hanafuda | 37800 | [37800-table-game-daishuugou-shogi-mahjong-hanafuda.json](./37800-table-game-daishuugou-shogi-mahjong-hanafuda.json) |
 | Table Soccer Foosball | 147953 | [147953-table-soccer-foosball.json](./147953-table-soccer-foosball.json) |
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
+| Tabletopia: Altiplano | 162874 | [162874-tabletopia-altiplano.json](./162874-tabletopia-altiplano.json) |
 | Tabletopia: Aquanauts | 162891 | [162891-tabletopia-aquanauts.json](./162891-tabletopia-aquanauts.json) |
 | Tabletopia: Argent - the Consortium | 162882 | [162882-tabletopia-argent-the-consortium.json](./162882-tabletopia-argent-the-consortium.json) |
+| Tabletopia: Between Two Castles of Mad King Ludwig | 162873 | [162873-tabletopia-between-two-castles-of-mad-king-ludwig.json](./162873-tabletopia-between-two-castles-of-mad-king-ludwig.json) |
 | Tabletopia: Champions of Midgard | 162896 | [162896-tabletopia-champions-of-midgard.json](./162896-tabletopia-champions-of-midgard.json) |
 | Tabletopia: Champions of Midgard - The Dark Mountains | 162893 | [162893-tabletopia-champions-of-midgard-the-dark-mountains.json](./162893-tabletopia-champions-of-midgard-the-dark-mountains.json) |
 | Tabletopia: Champions of Midgard - Valhalla | 162890 | [162890-tabletopia-champions-of-midgard-valhalla.json](./162890-tabletopia-champions-of-midgard-valhalla.json) |
 | Tabletopia: Constellations | 162903 | [162903-tabletopia-constellations.json](./162903-tabletopia-constellations.json) |
 | Tabletopia: Eight-Minute Empire - Legends | 162888 | [162888-tabletopia-eight-minute-empire-legends.json](./162888-tabletopia-eight-minute-empire-legends.json) |
+| Tabletopia: Euphoria - Build a Better Dystopia | 162876 | [162876-tabletopia-euphoria-build-a-better-dystopia.json](./162876-tabletopia-euphoria-build-a-better-dystopia.json) |
 | Tabletopia: Feudum + Expansions | 162895 | [162895-tabletopia-feudum-expansions.json](./162895-tabletopia-feudum-expansions.json) |
+| Tabletopia: Food Truck Champion | 162877 | [162877-tabletopia-food-truck-champion.json](./162877-tabletopia-food-truck-champion.json) |
 | Tabletopia: Guards of Atlantis II | 162899 | [162899-tabletopia-guards-of-atlantis-ii.json](./162899-tabletopia-guards-of-atlantis-ii.json) |
+| Tabletopia: Hansa Teutonica + Expansions | 162871 | [162871-tabletopia-hansa-teutonica-expansions.json](./162871-tabletopia-hansa-teutonica-expansions.json) |
 | Tabletopia: Maximum Apocalypse | 162881 | [162881-tabletopia-maximum-apocalypse.json](./162881-tabletopia-maximum-apocalypse.json) |
+| Tabletopia: Millennium Blades | 162872 | [162872-tabletopia-millennium-blades.json](./162872-tabletopia-millennium-blades.json) |
 | Tabletopia: NewSpeak | 162884 | [162884-tabletopia-newspeak.json](./162884-tabletopia-newspeak.json) |
 | Tabletopia: Orléans | 162904 | [162904-tabletopia-orleans.json](./162904-tabletopia-orleans.json) |
+| Tabletopia: Pocket Investigations | 162875 | [162875-tabletopia-pocket-investigations.json](./162875-tabletopia-pocket-investigations.json) |
 | Tabletopia: Raiders of the North Sea | 162885 | [162885-tabletopia-raiders-of-the-north-sea.json](./162885-tabletopia-raiders-of-the-north-sea.json) |
+| Tabletopia: Scythe | 162879 | [162879-tabletopia-scythe.json](./162879-tabletopia-scythe.json) |
 | Tabletopia: Scythe - The Wind Gambit | 162880 | [162880-tabletopia-scythe-the-wind-gambit.json](./162880-tabletopia-scythe-the-wind-gambit.json) |
 | Tabletopia: Scythe - The Wind Gambit + Invaders from Afar | 162901 | [162901-tabletopia-scythe-the-wind-gambit-invaders-from-afar.json](./162901-tabletopia-scythe-the-wind-gambit-invaders-from-afar.json) |
 | Tabletopia: Sellswords + Olympus | 162889 | [162889-tabletopia-sellswords-olympus.json](./162889-tabletopia-sellswords-olympus.json) |
 | Tabletopia: Sub Terra + Expansions | 162897 | [162897-tabletopia-sub-terra-expansions.json](./162897-tabletopia-sub-terra-expansions.json) |
 | Tabletopia: Sub Terra II - Inferno's Edge | 162894 | [162894-tabletopia-sub-terra-ii-infernos-edge.json](./162894-tabletopia-sub-terra-ii-infernos-edge.json) |
 | Tabletopia: Tapestry | 162886 | [162886-tabletopia-tapestry.json](./162886-tabletopia-tapestry.json) |
+| Tabletopia: The Isle of Cats | 162878 | [162878-tabletopia-the-isle-of-cats.json](./162878-tabletopia-the-isle-of-cats.json) |
 | Tabletopia: The Networks | 162902 | [162902-tabletopia-the-networks.json](./162902-tabletopia-the-networks.json) |
+| Tabletopia: Tuscany - Essential Edition | 162869 | [162869-tabletopia-tuscany-essential-edition.json](./162869-tabletopia-tuscany-essential-edition.json) |
 | Tabletopia: Viticulture - Essential Edition | 162900 | [162900-tabletopia-viticulture-essential-edition.json](./162900-tabletopia-viticulture-essential-edition.json) |
 | Tabletopia: Wingspan | 162892 | [162892-tabletopia-wingspan.json](./162892-tabletopia-wingspan.json) |
 | Tabletopia: Wingspan - European Expansion | 162887 | [162887-tabletopia-wingspan-european-expansion.json](./162887-tabletopia-wingspan-european-expansion.json) |
@@ -1589,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
 | The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
+| The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
 | The Fall of Balance | 192385 | [192385-the-fall-of-balance.json](./192385-the-fall-of-balance.json) |
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
