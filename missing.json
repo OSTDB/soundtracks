@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T16:34:01.875Z",
-  "total_missing": 54468,
+  "generated_at": "2026-09-10T16:41:05.125Z",
+  "total_missing": 54467,
   "games": [
     {
       "igdb_id": 306086,
@@ -1556,11 +1556,6 @@
       "igdb_id": 172115,
       "game_name": "7th Sector: Museum",
       "file": "missing/0-9/172115-7th-sector-museum.json"
-    },
-    {
-      "igdb_id": 232450,
-      "game_name": "8 Ball 3",
-      "file": "missing/0-9/232450-8-ball-3.json"
     },
     {
       "igdb_id": 316437,
