@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted in the Moonlight: Kiryu, Chikage & Yukinojo DLC Pack | 238188 | [238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json](./238188-enchanted-in-the-moonlight-kiryu-chikage-and-yukinojo-dlc-pack.json) |
 | Enchanted Kingdom: A Stranger's Venom | 188003 | [188003-enchanted-kingdom-a-strangers-venom.json](./188003-enchanted-kingdom-a-strangers-venom.json) |
 | Enchanted Kingdom: Descent of the Elders - Collector's Edition | 170996 | [170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json](./170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json) |
+| Enchanted Kingdom: The Secret of the Golden Lamp - Collector's Edition | 168306 | [168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json](./168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json) |
 | Enchanted Memories | 386148 | [386148-enchanted-memories.json](./386148-enchanted-memories.json) |
 | Enchanted Solitaire | 386133 | [386133-enchanted-solitaire.json](./386133-enchanted-solitaire.json) |
 | Enchanted Solitaire 2 | 386123 | [386123-enchanted-solitaire-2.json](./386123-enchanted-solitaire-2.json) |
