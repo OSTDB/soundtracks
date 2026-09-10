@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Los Angeles Cats | 334125 | [334125-100-los-angeles-cats.json](./334125-100-los-angeles-cats.json) |
 | 100 Men vs 1 Gorilla | 349879 | [349879-100-men-vs-1-gorilla.json](./349879-100-men-vs-1-gorilla.json) |
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
+| 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
 | 100 Wars | 316430 | [316430-100-wars.json](./316430-100-wars.json) |
 | 100 Women: Guess the Name of 100 Famous Women | 369054 | [369054-100-women-guess-the-name-of-100-famous-women.json](./369054-100-women-guess-the-name-of-100-famous-women.json) |
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
@@ -272,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
+| 4 in One: Cave Wonders/Earth Defender/Jaguar Bomber/Soccer Champion | 138731 | [138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json](./138731-4-in-one-cave-wonders-earth-defender-jaguar-bomber-soccer-champion.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
@@ -340,7 +342,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9-Ball Pocket | 178646 | [178646-9-ball-pocket.json](./178646-9-ball-pocket.json) |
-| 9-nine-: New Episode | 194644 | [194644-9-nine-new-episode.json](./194644-9-nine-new-episode.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
 | 9.03m | 16837 | [16837-9-03m.json](./16837-9-03m.json) |
 | 90 Minutes European Prime Goal | 42663 | [42663-90-minutes-european-prime-goal.json](./42663-90-minutes-european-prime-goal.json) |
