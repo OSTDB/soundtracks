@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Jump | 152877 | [152877-balloon-jump.json](./152877-balloon-jump.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
 | Balloon Man | 359433 | [359433-balloon-man.json](./359433-balloon-man.json) |
+| Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
@@ -299,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
+| BallzOut | 147941 | [147941-ballzout.json](./147941-ballzout.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
@@ -749,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Pirates | 196792 | [196792-battle-pirates.json](./196792-battle-pirates.json) |
 | Battle Pixel's Survival | 76680 | [76680-battle-pixels-survival.json](./76680-battle-pixels-survival.json) |
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
+| Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
 | Battle Rage: Mech Conflict | 78683 | [78683-battle-rage-mech-conflict.json](./78683-battle-rage-mech-conflict.json) |
 | Battle Raper | 22407 | [22407-battle-raper.json](./22407-battle-raper.json) |
 | Battle Raper II | 22418 | [22418-battle-raper-ii.json](./22418-battle-raper-ii.json) |
@@ -807,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Armada - Tau Empire | 52636 | [52636-battlefleet-gothic-armada-tau-empire.json](./52636-battlefleet-gothic-armada-tau-empire.json) |
 | Battlefleet Gothic: Armada 2 - Deluxe Edition | 186340 | [186340-battlefleet-gothic-armada-2-deluxe-edition.json](./186340-battlefleet-gothic-armada-2-deluxe-edition.json) |
 | Battlefleet Gothic: Leviathan | 34371 | [34371-battlefleet-gothic-leviathan.json](./34371-battlefleet-gothic-leviathan.json) |
+| Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
 | Battleground's Survivor: Battle Royale | 174853 | [174853-battlegrounds-survivor-battle-royale.json](./174853-battlegrounds-survivor-battle-royale.json) |
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
@@ -1464,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Barrage | 13696 | [13696-birdie-barrage.json](./13696-birdie-barrage.json) |
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
 | BirdLingo: A birdsong learning game | 311260 | [311260-birdlingo-a-birdsong-learning-game.json](./311260-birdlingo-a-birdsong-learning-game.json) |
+| Birds and Blocks | 147926 | [147926-birds-and-blocks.json](./147926-birds-and-blocks.json) |
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
 | Birds no More | 245317 | [245317-birds-no-more.json](./245317-birds-no-more.json) |
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
@@ -2993,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
 | Bunnies vs Zombies | 197862 | [197862-bunnies-vs-zombies.json](./197862-bunnies-vs-zombies.json) |
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
+| Bunny Adventure | 147918 | [147918-bunny-adventure.json](./147918-bunny-adventure.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
 | Bunny Box Breakout | 221192 | [221192-bunny-box-breakout.json](./221192-bunny-box-breakout.json) |
 | Bunny Bundle 2 | 196280 | [196280-bunny-bundle-2.json](./196280-bunny-bundle-2.json) |
