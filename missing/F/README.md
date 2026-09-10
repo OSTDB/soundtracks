@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
+| Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
 | Farm Life | 381011 | [381011-farm-life.json](./381011-farm-life.json) |
 | Farm Manager 2021 | 139459 | [139459-farm-manager-2021.json](./139459-farm-manager-2021.json) |
 | Farm Manager 2021: Agrotourism | 187436 | [187436-farm-manager-2021-agrotourism.json](./187436-farm-manager-2021-agrotourism.json) |
@@ -2235,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
+| Funny Farm Animal Jigsaw Puzzle Game for Kids and Toddlers | 165619 | [165619-funny-farm-animal-jigsaw-puzzle-game-for-kids-and-toddlers.json](./165619-funny-farm-animal-jigsaw-puzzle-game-for-kids-and-toddlers.json) |
 | Funny Farm Learning Games for Toddlers and Kids | 295263 | [295263-funny-farm-learning-games-for-toddlers-and-kids.json](./295263-funny-farm-learning-games-for-toddlers-and-kids.json) |
 | Funny Fingers | 99589 | [99589-funny-fingers.json](./99589-funny-fingers.json) |
 | Funny Panda | 189116 | [189116-funny-panda.json](./189116-funny-panda.json) |
