@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T12:51:05.697Z",
-  "total_missing": 53806,
+  "generated_at": "2026-09-10T13:01:14.985Z",
+  "total_missing": 53805,
   "games": [
     {
       "igdb_id": 306086,
@@ -1446,11 +1446,6 @@
       "igdb_id": 173837,
       "game_name": "69 Hitomi Love",
       "file": "missing/0-9/173837-69-hitomi-love.json"
-    },
-    {
-      "igdb_id": 173826,
-      "game_name": "69 Lisa Love",
-      "file": "missing/0-9/173826-69-lisa-love.json"
     },
     {
       "igdb_id": 195723,
