@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XCOM 2: Resistance Warrior Pack | 225096 | [225096-xcom-2-resistance-warrior-pack.json](./225096-xcom-2-resistance-warrior-pack.json) |
 | XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
 | XCOM: Enemy Unknown - Slingshot Pack | 225095 | [225095-xcom-enemy-unknown-slingshot-pack.json](./225095-xcom-enemy-unknown-slingshot-pack.json) |
+| XCUTE(me) | 147389 | [147389-xcute-me.json](./147389-xcute-me.json) |
 | Xd Clicker | 364511 | [364511-xd-clicker.json](./364511-xd-clicker.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiàngsù Nányǒu Yǔyīn: Wánzhěng Bǎn | 161382 | [161382-xiangsu-nanyou-yuyin-wanzheng-ban.json](./161382-xiangsu-nanyou-yuyin-wanzheng-ban.json) |
 | Xiānjiànjué Wǎngluòbǎn | 161328 | [161328-xianjianjue-wangluoban.json](./161328-xianjianjue-wangluoban.json) |
 | Xiào Ào Jiānghú 2 Wàizhuàn: Dōngfāng Zàiqǐ | 184095 | [184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json](./184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json) |
+| Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
 | Xin Juedai Shuangjiao 2 | 78051 | [78051-xin-juedai-shuangjiao-2.json](./78051-xin-juedai-shuangjiao-2.json) |
 | Xin Juedai Shuangjiao 3 | 68688 | [68688-xin-juedai-shuangjiao-3.json](./68688-xin-juedai-shuangjiao-3.json) |
