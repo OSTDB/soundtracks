@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T06:03:17.612Z",
-  "total_missing": 53203,
+  "generated_at": "2026-09-10T06:11:15.995Z",
+  "total_missing": 53202,
   "games": [
     {
       "igdb_id": 306086,
@@ -1336,11 +1336,6 @@
       "igdb_id": 26675,
       "game_name": "46 Okunen Monogatari: The Shinka Ron",
       "file": "missing/0-9/26675-46-okunen-monogatari-the-shinka-ron.json"
-    },
-    {
-      "igdb_id": 205022,
-      "game_name": "46 Pegason b",
-      "file": "missing/0-9/205022-46-pegason-b.json"
     },
     {
       "igdb_id": 109036,
