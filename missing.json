@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T00:21:11.815Z",
-  "total_missing": 52347,
+  "generated_at": "2026-09-10T00:33:37.209Z",
+  "total_missing": 52396,
   "games": [
     {
       "igdb_id": 306086,
@@ -1166,11 +1166,6 @@
       "igdb_id": 269319,
       "game_name": "3D Mahjong + Janpai Tori",
       "file": "missing/0-9/269319-3d-mahjong-janpai-tori.json"
-    },
-    {
-      "igdb_id": 144318,
-      "game_name": "3D Morris",
-      "file": "missing/0-9/144318-3d-morris.json"
     },
     {
       "igdb_id": 15577,
@@ -5571,6 +5566,11 @@
       "igdb_id": 209629,
       "game_name": "Adventures of Quin85",
       "file": "missing/A/209629-adventures-of-quin85.json"
+    },
+    {
+      "igdb_id": 168858,
+      "game_name": "Adventures of Sadukar: Chapter I",
+      "file": "missing/A/168858-adventures-of-sadukar-chapter-i.json"
     },
     {
       "igdb_id": 394187,
@@ -10526,6 +10526,11 @@
       "igdb_id": 141855,
       "game_name": "Anemoiapolis",
       "file": "missing/A/141855-anemoiapolis.json"
+    },
+    {
+      "igdb_id": 168855,
+      "game_name": "Anemoiapolis: Chapter 1",
+      "file": "missing/A/168855-anemoiapolis-chapter-1.json"
     },
     {
       "igdb_id": 326056,
@@ -17828,6 +17833,11 @@
       "file": "missing/A/271201-awoken-madness.json"
     },
     {
+      "igdb_id": 168849,
+      "game_name": "Awoken: Chapter One of Reverie",
+      "file": "missing/A/168849-awoken-chapter-one-of-reverie.json"
+    },
+    {
       "igdb_id": 91462,
       "game_name": "AX-1: Arabian Rhapsody",
       "file": "missing/A/91462-ax-1-arabian-rhapsody.json"
@@ -18056,6 +18066,11 @@
       "igdb_id": 257075,
       "game_name": "Azumi and the Vertical Slice",
       "file": "missing/A/257075-azumi-and-the-vertical-slice.json"
+    },
+    {
+      "igdb_id": 168836,
+      "game_name": "Azurael's Circle: Chapter 5",
+      "file": "missing/A/168836-azuraels-circle-chapter-5.json"
     },
     {
       "igdb_id": 150658,
@@ -40338,6 +40353,16 @@
       "file": "missing/C/32917-chusingura46-1-s.json"
     },
     {
+      "igdb_id": 168851,
+      "game_name": "ChuSingura46+1 S: Chapter 2 & 3",
+      "file": "missing/C/168851-chusingura46-1-s-chapter-2-and-3.json"
+    },
+    {
+      "igdb_id": 168850,
+      "game_name": "ChuSingura46+1 S: Chapter 4 & 5",
+      "file": "missing/C/168850-chusingura46-1-s-chapter-4-and-5.json"
+    },
+    {
       "igdb_id": 380412,
       "game_name": "Chuukana Janshi Tenhou Painyan",
       "file": "missing/C/380412-chuukana-janshi-tenhou-painyan.json"
@@ -50208,6 +50233,11 @@
       "file": "missing/D/229383-d-o-w-n.json"
     },
     {
+      "igdb_id": 168837,
+      "game_name": "D.W. Dagger: Chapter One",
+      "file": "missing/D/168837-d-w-dagger-chapter-one.json"
+    },
+    {
       "igdb_id": 245311,
       "game_name": "D's Diner: The Director's Cut",
       "file": "missing/D/245311-ds-diner-the-directors-cut.json"
@@ -51231,6 +51261,21 @@
       "igdb_id": 197372,
       "game_name": "Dark Days: Zombie Survival",
       "file": "missing/D/197372-dark-days-zombie-survival.json"
+    },
+    {
+      "igdb_id": 168826,
+      "game_name": "Dark Deception: Chapter 2",
+      "file": "missing/D/168826-dark-deception-chapter-2.json"
+    },
+    {
+      "igdb_id": 168827,
+      "game_name": "Dark Deception: Chapter 3",
+      "file": "missing/D/168827-dark-deception-chapter-3.json"
+    },
+    {
+      "igdb_id": 168829,
+      "game_name": "Dark Deception: Chapter 4",
+      "file": "missing/D/168829-dark-deception-chapter-4.json"
     },
     {
       "igdb_id": 292864,
@@ -52511,6 +52556,11 @@
       "igdb_id": 304881,
       "game_name": "Dead Blue Rose",
       "file": "missing/D/304881-dead-blue-rose.json"
+    },
+    {
+      "igdb_id": 168867,
+      "game_name": "Dead by Daylight: A Binding of Kin Chapter",
+      "file": "missing/D/168867-dead-by-daylight-a-binding-of-kin-chapter.json"
     },
     {
       "igdb_id": 278424,
@@ -56606,6 +56656,11 @@
       "igdb_id": 406120,
       "game_name": "Dice Rogues",
       "file": "missing/D/406120-dice-rogues.json"
+    },
+    {
+      "igdb_id": 168835,
+      "game_name": "Dice Tactics: Demon King Chapters 2, 3, 4",
+      "file": "missing/D/168835-dice-tactics-demon-king-chapters-2-3-4.json"
     },
     {
       "igdb_id": 270140,
@@ -67403,6 +67458,11 @@
       "file": "missing/E/230621-elrentaros-wanderings.json"
     },
     {
+      "igdb_id": 168866,
+      "game_name": "Elsewhere High: Chapter 2 - A Visual Novel",
+      "file": "missing/E/168866-elsewhere-high-chapter-2-a-visual-novel.json"
+    },
+    {
       "igdb_id": 229373,
       "game_name": "Elsewhere in the Night",
       "file": "missing/E/229373-elsewhere-in-the-night.json"
@@ -77968,6 +78028,21 @@
       "file": "missing/F/232680-flans-mod.json"
     },
     {
+      "igdb_id": 168847,
+      "game_name": "Flappatron: Episode 2 (Chapters 4-7)",
+      "file": "missing/F/168847-flappatron-episode-2-chapters-4-7.json"
+    },
+    {
+      "igdb_id": 168846,
+      "game_name": "Flappatron: Episode 3 (Chapters 8 - 10)",
+      "file": "missing/F/168846-flappatron-episode-3-chapters-8-10.json"
+    },
+    {
+      "igdb_id": 168845,
+      "game_name": "Flappatron: Episode 4 (Chapters 11 - 13)",
+      "file": "missing/F/168845-flappatron-episode-4-chapters-11-13.json"
+    },
+    {
       "igdb_id": 62199,
       "game_name": "Flappy 2: The Resurrection of Blue Star",
       "file": "missing/F/62199-flappy-2-the-resurrection-of-blue-star.json"
@@ -79298,14 +79373,29 @@
       "file": "missing/F/168875-flywings-2018-flight-simulator-embraer-190-family.json"
     },
     {
+      "igdb_id": 168869,
+      "game_name": "FlyWings 2018 Flight Simulator: Learjet Family",
+      "file": "missing/F/168869-flywings-2018-flight-simulator-learjet-family.json"
+    },
+    {
       "igdb_id": 168880,
       "game_name": "FlyWings 2018 Flight Simulator: Military Helicopters",
       "file": "missing/F/168880-flywings-2018-flight-simulator-military-helicopters.json"
     },
     {
+      "igdb_id": 168868,
+      "game_name": "FlyWings 2018 Flight Simulator: Space Shuttle Family",
+      "file": "missing/F/168868-flywings-2018-flight-simulator-space-shuttle-family.json"
+    },
+    {
       "igdb_id": 168879,
       "game_name": "FlyWings 2018 Flight Simulator: World War I Fighters",
       "file": "missing/F/168879-flywings-2018-flight-simulator-world-war-i-fighters.json"
+    },
+    {
+      "igdb_id": 168870,
+      "game_name": "FlyWings 2018 Flight Simulator: World War II Fighters",
+      "file": "missing/F/168870-flywings-2018-flight-simulator-world-war-ii-fighters.json"
     },
     {
       "igdb_id": 12072,
@@ -80716,6 +80806,11 @@
       "igdb_id": 167319,
       "game_name": "FortressCraft Evolved!: Frozen Factory",
       "file": "missing/F/167319-fortresscraft-evolved-frozen-factory.json"
+    },
+    {
+      "igdb_id": 168834,
+      "game_name": "FortressCraft: Chapter 1",
+      "file": "missing/F/168834-fortresscraft-chapter-1.json"
     },
     {
       "igdb_id": 195771,
@@ -86776,6 +86871,11 @@
       "igdb_id": 7684,
       "game_name": "Ghost of a Tale",
       "file": "missing/G/7684-ghost-of-a-tale.json"
+    },
+    {
+      "igdb_id": 168861,
+      "game_name": "Ghost of Tomorrow: Chapter 1",
+      "file": "missing/G/168861-ghost-of-tomorrow-chapter-1.json"
     },
     {
       "igdb_id": 304863,
@@ -99143,6 +99243,16 @@
       "file": "missing/H/299750-high-stakes.json"
     },
     {
+      "igdb_id": 168838,
+      "game_name": "Highborn: Chapter 2",
+      "file": "missing/H/168838-highborn-chapter-2.json"
+    },
+    {
+      "igdb_id": 168839,
+      "game_name": "Highborn: Chapter 3",
+      "file": "missing/H/168839-highborn-chapter-3.json"
+    },
+    {
       "igdb_id": 157439,
       "game_name": "HighFleet",
       "file": "missing/H/157439-highfleet.json"
@@ -104473,6 +104583,11 @@
       "file": "missing/I/243705-ice-scream-united.json"
     },
     {
+      "igdb_id": 168842,
+      "game_name": "Ice Star: Chapter 2",
+      "file": "missing/I/168842-ice-star-chapter-2.json"
+    },
+    {
       "igdb_id": 189119,
       "game_name": "Ice Sugar",
       "file": "missing/I/189119-ice-sugar.json"
@@ -109611,6 +109726,11 @@
       "igdb_id": 229951,
       "game_name": "Iwai Keitai Kaitsuu! Tamagotchi Plus Akai",
       "file": "missing/I/229951-iwai-keitai-kaitsuu-tamagotchi-plus-akai.json"
+    },
+    {
+      "igdb_id": 168844,
+      "game_name": "Iwaihime: Extra Chapter - Musubihime",
+      "file": "missing/I/168844-iwaihime-extra-chapter-musubihime.json"
     },
     {
       "igdb_id": 185677,
@@ -118983,6 +119103,11 @@
       "file": "missing/L/299151-lands-of-languages.json"
     },
     {
+      "igdb_id": 168864,
+      "game_name": "Lands of Peace: Legends - Chapter 1",
+      "file": "missing/L/168864-lands-of-peace-legends-chapter-1.json"
+    },
+    {
       "igdb_id": 406691,
       "game_name": "Landscaper Simulator",
       "file": "missing/L/406691-landscaper-simulator.json"
@@ -128191,6 +128316,11 @@
       "igdb_id": 188683,
       "game_name": "Magnus Imago",
       "file": "missing/M/188683-magnus-imago.json"
+    },
+    {
+      "igdb_id": 168859,
+      "game_name": "Maguntsche: Chapter One Remastered",
+      "file": "missing/M/168859-maguntsche-chapter-one-remastered.json"
     },
     {
       "igdb_id": 123591,
@@ -156778,6 +156908,16 @@
       "file": "missing/O/234305-outbreak-the-new-nightmare-definitive-collection.json"
     },
     {
+      "igdb_id": 168843,
+      "game_name": "Outbreak: The Nightmare Chronicles - Chapter 2",
+      "file": "missing/O/168843-outbreak-the-nightmare-chronicles-chapter-2.json"
+    },
+    {
+      "igdb_id": 168853,
+      "game_name": "Outbreak: The Nightmare Chronicles - Chapter 4",
+      "file": "missing/O/168853-outbreak-the-nightmare-chronicles-chapter-4.json"
+    },
+    {
       "igdb_id": 131609,
       "game_name": "Outbrk",
       "file": "missing/O/131609-outbrk.json"
@@ -159166,6 +159306,11 @@
       "igdb_id": 355018,
       "game_name": "Paranormal Files: Fatal Flaw - Collector's Edition",
       "file": "missing/P/355018-paranormal-files-fatal-flaw-collectors-edition.json"
+    },
+    {
+      "igdb_id": 168857,
+      "game_name": "Paranormal Files: Ghost Chapter - Collector's Edition",
+      "file": "missing/P/168857-paranormal-files-ghost-chapter-collectors-edition.json"
     },
     {
       "igdb_id": 339788,
@@ -189838,6 +189983,11 @@
       "file": "missing/S/191264-shadow-fate.json"
     },
     {
+      "igdb_id": 168856,
+      "game_name": "Shadow Fear: Chapter 0",
+      "file": "missing/S/168856-shadow-fear-chapter-0.json"
+    },
+    {
       "igdb_id": 68463,
       "game_name": "Shadow Fight 2: Special Edition",
       "file": "missing/S/68463-shadow-fight-2-special-edition.json"
@@ -200593,6 +200743,11 @@
       "file": "missing/S/174329-soviet-challenge-javelin-1980.json"
     },
     {
+      "igdb_id": 168852,
+      "game_name": "Sovietpunk: Chapter one",
+      "file": "missing/S/168852-sovietpunk-chapter-one.json"
+    },
+    {
       "igdb_id": 305773,
       "game_name": "SOVL: Ratkin Clans",
       "file": "missing/S/305773-sovl-ratkin-clans.json"
@@ -201011,6 +201166,11 @@
       "igdb_id": 372450,
       "game_name": "Space Hood",
       "file": "missing/S/372450-space-hood.json"
+    },
+    {
+      "igdb_id": 168865,
+      "game_name": "Space Hulk: Space Wolves Chapter",
+      "file": "missing/S/168865-space-hulk-space-wolves-chapter.json"
     },
     {
       "igdb_id": 84892,
@@ -201696,6 +201856,11 @@
       "igdb_id": 86691,
       "game_name": "Spades Pro",
       "file": "missing/S/86691-spades-pro.json"
+    },
+    {
+      "igdb_id": 168862,
+      "game_name": "Spaghet 2: Al Dente Chapter",
+      "file": "missing/S/168862-spaghet-2-al-dente-chapter.json"
     },
     {
       "igdb_id": 214196,
@@ -216253,6 +216418,11 @@
       "file": "missing/T/191811-tales-of-the-drunken-paladin.json"
     },
     {
+      "igdb_id": 168848,
+      "game_name": "Tales of the Elements: 2nd Chapter",
+      "file": "missing/T/168848-tales-of-the-elements-2nd-chapter.json"
+    },
+    {
       "igdb_id": 228733,
       "game_name": "Tales of the Neon Sea: Collector's Edition",
       "file": "missing/T/228733-tales-of-the-neon-sea-collectors-edition.json"
@@ -221758,6 +221928,11 @@
       "file": "missing/T/411592-the-crossroads.json"
     },
     {
+      "igdb_id": 168840,
+      "game_name": "The Crown of Leaves: Chapter 2",
+      "file": "missing/T/168840-the-crown-of-leaves-chapter-2.json"
+    },
+    {
       "igdb_id": 198497,
       "game_name": "The Crown of Wu",
       "file": "missing/T/198497-the-crown-of-wu.json"
@@ -222463,6 +222638,26 @@
       "file": "missing/T/158714-the-dream-libra-had.json"
     },
     {
+      "igdb_id": 168831,
+      "game_name": "The Dream Machine: Chapter 3",
+      "file": "missing/T/168831-the-dream-machine-chapter-3.json"
+    },
+    {
+      "igdb_id": 168832,
+      "game_name": "The Dream Machine: Chapter 4",
+      "file": "missing/T/168832-the-dream-machine-chapter-4.json"
+    },
+    {
+      "igdb_id": 168830,
+      "game_name": "The Dream Machine: Chapter 5",
+      "file": "missing/T/168830-the-dream-machine-chapter-5.json"
+    },
+    {
+      "igdb_id": 168833,
+      "game_name": "The Dream Machine: Chapter 6",
+      "file": "missing/T/168833-the-dream-machine-chapter-6.json"
+    },
+    {
       "igdb_id": 400858,
       "game_name": "The Dream Machine: The Definitive Edition",
       "file": "missing/T/400858-the-dream-machine-the-definitive-edition.json"
@@ -222886,6 +223081,21 @@
       "igdb_id": 72420,
       "game_name": "The Exorcist: Legion VR",
       "file": "missing/T/72420-the-exorcist-legion-vr.json"
+    },
+    {
+      "igdb_id": 168817,
+      "game_name": "The Exorcist: Legion VR - Chapter 2: Idle Hands",
+      "file": "missing/T/168817-the-exorcist-legion-vr-chapter-2-idle-hands.json"
+    },
+    {
+      "igdb_id": 168818,
+      "game_name": "The Exorcist: Legion VR - Chapter 4: Samaritan",
+      "file": "missing/T/168818-the-exorcist-legion-vr-chapter-4-samaritan.json"
+    },
+    {
+      "igdb_id": 168819,
+      "game_name": "The Exorcist: Legion VR - Chapter 5: The Tomb",
+      "file": "missing/T/168819-the-exorcist-legion-vr-chapter-5-the-tomb.json"
     },
     {
       "igdb_id": 185239,
@@ -229633,6 +229843,11 @@
       "file": "missing/T/324670-the-storyteller.json"
     },
     {
+      "igdb_id": 168841,
+      "game_name": "The Strange Story of Brian Fisher: Chapter 2",
+      "file": "missing/T/168841-the-strange-story-of-brian-fisher-chapter-2.json"
+    },
+    {
       "igdb_id": 57143,
       "game_name": "The Stranger",
       "file": "missing/T/57143-the-stranger.json"
@@ -234436,6 +234651,11 @@
       "igdb_id": 326581,
       "game_name": "Time for Teletubbies",
       "file": "missing/T/326581-time-for-teletubbies.json"
+    },
+    {
+      "igdb_id": 168860,
+      "game_name": "Time For You: Chapter 01",
+      "file": "missing/T/168860-time-for-you-chapter-01.json"
     },
     {
       "igdb_id": 27846,
@@ -257441,6 +257661,31 @@
       "igdb_id": 79940,
       "game_name": "X-Plane 10",
       "file": "missing/X/79940-x-plane-10.json"
+    },
+    {
+      "igdb_id": 168813,
+      "game_name": "X-Plane 10 Global: Carenado - C208B Grand Caravan",
+      "file": "missing/X/168813-x-plane-10-global-carenado-c208b-grand-caravan.json"
+    },
+    {
+      "igdb_id": 168812,
+      "game_name": "X-Plane 10 Global: Carenado - F33A Bonanza",
+      "file": "missing/X/168812-x-plane-10-global-carenado-f33a-bonanza.json"
+    },
+    {
+      "igdb_id": 168815,
+      "game_name": "X-Plane 10 Global: Carenado - PA28 181 Archer II",
+      "file": "missing/X/168815-x-plane-10-global-carenado-pa28-181-archer-ii.json"
+    },
+    {
+      "igdb_id": 168816,
+      "game_name": "X-Plane 10 Global: Carenado - V35 Bonanza",
+      "file": "missing/X/168816-x-plane-10-global-carenado-v35-bonanza.json"
+    },
+    {
+      "igdb_id": 168814,
+      "game_name": "X-Plane 10 Global: South America Scenery",
+      "file": "missing/X/168814-x-plane-10-global-south-america-scenery.json"
     },
     {
       "igdb_id": 205810,
