@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
 | Little Mouse's Encyclopedia: Complete Edition | 241398 | [241398-little-mouses-encyclopedia-complete-edition.json](./241398-little-mouses-encyclopedia-complete-edition.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
+| Little Nightmares II: Deluxe Edition | 154511 | [154511-little-nightmares-ii-deluxe-edition.json](./154511-little-nightmares-ii-deluxe-edition.json) |
 | Little Nightmares III: Klonoa Costumes Set | 375186 | [375186-little-nightmares-iii-klonoa-costumes-set.json](./375186-little-nightmares-iii-klonoa-costumes-set.json) |
 | Little Nightmares III: Nomes Costumes Set | 375187 | [375187-little-nightmares-iii-nomes-costumes-set.json](./375187-little-nightmares-iii-nomes-costumes-set.json) |
 | Little Nightmares III: Second Additional Chapter | 375188 | [375188-little-nightmares-iii-second-additional-chapter.json](./375188-little-nightmares-iii-second-additional-chapter.json) |
