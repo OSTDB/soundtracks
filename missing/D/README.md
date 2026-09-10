@@ -476,6 +476,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: Black Shark 3 | 324663 | [324663-dcs-world-black-shark-3.json](./324663-dcs-world-black-shark-3.json) |
 | DCS World: CH-47F | 324665 | [324665-dcs-world-ch-47f.json](./324665-dcs-world-ch-47f.json) |
 | DCS World: F-14 Speed & Angels Campaign by Reflected Simulations | 325253 | [325253-dcs-world-f-14-speed-and-angels-campaign-by-reflected-simulations.json](./325253-dcs-world-f-14-speed-and-angels-campaign-by-reflected-simulations.json) |
+| DCS World: F-14A Fear the Bones Campaign | 162863 | [162863-dcs-world-f-14a-fear-the-bones-campaign.json](./162863-dcs-world-f-14a-fear-the-bones-campaign.json) |
+| DCS World: F-15C | 162860 | [162860-dcs-world-f-15c.json](./162860-dcs-world-f-15c.json) |
 | DCS World: F-15E | 254774 | [254774-dcs-world-f-15e.json](./254774-dcs-world-f-15e.json) |
 | DCS World: F-16C Arctic Thunder Campaign by Reflected Simulations | 324673 | [324673-dcs-world-f-16c-arctic-thunder-campaign-by-reflected-simulations.json](./324673-dcs-world-f-16c-arctic-thunder-campaign-by-reflected-simulations.json) |
 | DCS World: F-16C Dragon's Fury Campaign by SorelRo | 324899 | [324899-dcs-world-f-16c-dragons-fury-campaign-by-sorelro.json](./324899-dcs-world-f-16c-dragons-fury-campaign-by-sorelro.json) |
@@ -483,8 +485,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F-5E Remastered | 324873 | [324873-dcs-world-f-5e-remastered.json](./324873-dcs-world-f-5e-remastered.json) |
 | DCS World: F/A-18C - Aggressors BFM Campaign | 169958 | [169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json](./169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json) |
 | DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass | 325248 | [325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json](./325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json) |
+| DCS World: F/A-18C Rise of the Persian Lion Campaign | 162862 | [162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json](./162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json) |
+| DCS World: Hawk | 162864 | [162864-dcs-world-hawk.json](./162864-dcs-world-hawk.json) |
+| DCS World: Marianas | 162859 | [162859-dcs-world-marianas.json](./162859-dcs-world-marianas.json) |
+| DCS World: MiG-29 | 162861 | [162861-dcs-world-mig-29.json](./162861-dcs-world-mig-29.json) |
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
+| DCS World: Su-25 | 162865 | [162865-dcs-world-su-25.json](./162865-dcs-world-su-25.json) |
+| DCS World: Su-27 | 162867 | [162867-dcs-world-su-27.json](./162867-dcs-world-su-27.json) |
+| DCS World: Su-33 | 162866 | [162866-dcs-world-su-33.json](./162866-dcs-world-su-33.json) |
+| DCS World: The Museum Relic Campaign | 162856 | [162856-dcs-world-the-museum-relic-campaign.json](./162856-dcs-world-the-museum-relic-campaign.json) |
 | DCS World: UH-1H Peacekeeper Lebanon Campaign by Flying Cyking | 324908 | [324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json](./324908-dcs-world-uh-1h-peacekeeper-lebanon-campaign-by-flying-cyking.json) |
 | DCS: Normandy 1944 | 27782 | [27782-dcs-normandy-1944.json](./27782-dcs-normandy-1944.json) |
 | DDRMax2: Dance Dance Revolution | 44711 | [44711-ddrmax2-dance-dance-revolution.json](./44711-ddrmax2-dance-dance-revolution.json) |
