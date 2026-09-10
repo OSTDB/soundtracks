@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarth | 41771 | [41771-quarth.json](./41771-quarth.json) |
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
 | Quaterneo | 183535 | [183535-quaterneo.json](./183535-quaterneo.json) |
+| Quatris | 153350 | [153350-quatris.json](./153350-quatris.json) |
 | Quatro!: This is fine DLC | 253368 | [253368-quatro-this-is-fine-dlc.json](./253368-quatro-this-is-fine-dlc.json) |
 | Quattro Combat | 72124 | [72124-quattro-combat.json](./72124-quattro-combat.json) |
 | Quazatron | 23061 | [23061-quazatron.json](./23061-quazatron.json) |
