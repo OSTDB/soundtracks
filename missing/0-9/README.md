@@ -278,7 +278,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
-| 4xM | 269841 | [269841-4xm.json](./269841-4xm.json) |
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
 | 5 in 1: Scrap Bolts + Toroom + Last Mage Survivor + Home Sweet Home + Bruxa | 273928 | [273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json](./273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json) |
 | 5 In One Fun Pak | 93568 | [93568-5-in-one-fun-pak.json](./93568-5-in-one-fun-pak.json) |
