@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absurbia: A Trashy Satire of Suburban Outcries | 159858 | [159858-absurbia-a-trashy-satire-of-suburban-outcries.json](./159858-absurbia-a-trashy-satire-of-suburban-outcries.json) |
 | Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
 | Absurdika | 248332 | [248332-absurdika.json](./248332-absurdika.json) |
+| Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
 | Abulia | 372445 | [372445-abulia.json](./372445-abulia.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
@@ -1240,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Harvest Leader | 141890 | [141890-alien-harvest-leader.json](./141890-alien-harvest-leader.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
+| Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Nah'Topsy | 289888 | [289888-alien-nahtopsy.json](./289888-alien-nahtopsy.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
@@ -1508,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
 | America Oudan Ultra Quiz: Part 3 | 300695 | [300695-america-oudan-ultra-quiz-part-3.json](./300695-america-oudan-ultra-quiz-part-3.json) |
 | America Rising 2: Legacy of the Enclave | 299131 | [299131-america-rising-2-legacy-of-the-enclave.json](./299131-america-rising-2-legacy-of-the-enclave.json) |
+| America: Expansion Pack | 166693 | [166693-america-expansion-pack.json](./166693-america-expansion-pack.json) |
 | America's Army | 597 | [597-americas-army.json](./597-americas-army.json) |
 | America's Greatest Solitaire Games | 206114 | [206114-americas-greatest-solitaire-games.json](./206114-americas-greatest-solitaire-games.json) |
 | America's Most Eligible: Book 1 | 313691 | [313691-americas-most-eligible-book-1.json](./313691-americas-most-eligible-book-1.json) |
