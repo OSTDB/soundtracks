@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
 | Fear or Evil: Nightmare Horror Scary Game Phobia 2023 Simulator Hunter Games | 241401 | [241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json](./241401-fear-or-evil-nightmare-horror-scary-game-phobia-2023-simulator-hunter-games.json) |
+| Fear surrounds | 143693 | [143693-fear-surrounds.json](./143693-fear-surrounds.json) |
 | Fear the Dark Unknown: Chloe | 132250 | [132250-fear-the-dark-unknown-chloe.json](./132250-fear-the-dark-unknown-chloe.json) |
 | Fear the Flossom | 138814 | [138814-fear-the-flossom.json](./138814-fear-the-flossom.json) |
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
@@ -2383,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FuryFury | 234910 | [234910-furyfury.json](./234910-furyfury.json) |
 | Fuse | 381030 | [381030-fuse.json](./381030-fuse.json) |
 | Fushigi Deka | 59442 | [59442-fushigi-deka.json](./59442-fushigi-deka.json) |
+| Fushigi Densha | 143636 | [143636-fushigi-densha.json](./143636-fushigi-densha.json) |
 | Fushigi na Sekai no Kankou Nikki | 309359 | [309359-fushigi-na-sekai-no-kankou-nikki.json](./309359-fushigi-na-sekai-no-kankou-nikki.json) |
 | Fushigi no Dungeon 2: Fuurai no Shiren | 103496 | [103496-fushigi-no-dungeon-2-fuurai-no-shiren.json](./103496-fushigi-no-dungeon-2-fuurai-no-shiren.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 4 Plus - Kami no Hitomi to Akuma no Heso | 103507 | [103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json](./103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json) |
