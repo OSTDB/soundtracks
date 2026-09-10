@@ -2195,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyphen | 24566 | [24566-hyphen.json](./24566-hyphen.json) |
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
+| Hypno's Lullaby | 140537 | [140537-hypnos-lullaby.json](./140537-hypnos-lullaby.json) |
 | Hypnosis Card 2 | 296917 | [296917-hypnosis-card-2.json](./296917-hypnosis-card-2.json) |
 | Hypnosis Done Braves | 82926 | [82926-hypnosis-done-braves.json](./82926-hypnosis-done-braves.json) |
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
