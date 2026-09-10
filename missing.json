@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T05:01:22.323Z",
-  "total_missing": 53008,
+  "generated_at": "2026-09-10T05:11:17.198Z",
+  "total_missing": 53007,
   "games": [
     {
       "igdb_id": 306086,
@@ -1306,11 +1306,6 @@
       "igdb_id": 245297,
       "game_name": "4 Wheel Drive",
       "file": "missing/0-9/245297-4-wheel-drive.json"
-    },
-    {
-      "igdb_id": 173235,
-      "game_name": "4 Witch Seasons & Convenant",
-      "file": "missing/0-9/173235-4-witch-seasons-and-convenant.json"
     },
     {
       "igdb_id": 45317,
