@@ -2394,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost | 320130 | [320130-the-lost.json](./320130-the-lost.json) |
 | The Lost | 33178 | [33178-the-lost.json](./33178-the-lost.json) |
 | The Lost Abyss | 213592 | [213592-the-lost-abyss.json](./213592-the-lost-abyss.json) |
+| The Lost Art of Innkeeping | 135234 | [135234-the-lost-art-of-innkeeping.json](./135234-the-lost-art-of-innkeeping.json) |
 | The Lost Artifacts | 171588 | [171588-the-lost-artifacts.json](./171588-the-lost-artifacts.json) |
 | The Lost Cases of Sherlock Holmes | 10978 | [10978-the-lost-cases-of-sherlock-holmes.json](./10978-the-lost-cases-of-sherlock-holmes.json) |
 | The Lost Cases of Sherlock Holmes 2 | 10979 | [10979-the-lost-cases-of-sherlock-holmes-2.json](./10979-the-lost-cases-of-sherlock-holmes-2.json) |
@@ -4590,7 +4591,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Steel Wave | 135157 | [135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json](./135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Void Edge | 135155 | [135155-tom-clancys-rainbow-six-siege-operation-void-edge.json](./135155-tom-clancys-rainbow-six-siege-operation-void-edge.json) |
 | Tom Clancy's Rainbow Six: Vegas | 314292 | [314292-tom-clancys-rainbow-six-vegas.json](./314292-tom-clancys-rainbow-six-vegas.json) |
 | Tom Clancy's Rainbow Six: Vegas Collection | 295251 | [295251-tom-clancys-rainbow-six-vegas-collection.json](./295251-tom-clancys-rainbow-six-vegas-collection.json) |
 | Tom Clancy's Splinter Cell | 134350 | [134350-tom-clancys-splinter-cell.json](./134350-tom-clancys-splinter-cell.json) |
