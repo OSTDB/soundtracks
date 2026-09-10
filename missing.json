@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:34:06.144Z",
-  "total_missing": 54310,
+  "generated_at": "2026-09-10T15:41:06.084Z",
+  "total_missing": 54309,
   "games": [
     {
       "igdb_id": 306086,
@@ -1526,11 +1526,6 @@
       "igdb_id": 314064,
       "game_name": "77Survival Part I",
       "file": "missing/0-9/314064-77survival-part-i.json"
-    },
-    {
-      "igdb_id": 193448,
-      "game_name": "78",
-      "file": "missing/0-9/193448-78.json"
     },
     {
       "igdb_id": 179739,
