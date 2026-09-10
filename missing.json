@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:21:14.805Z",
+  "generated_at": "2026-09-10T01:31:14.600Z",
   "total_missing": 52492,
   "games": [
     {
@@ -1196,11 +1196,6 @@
       "igdb_id": 301037,
       "game_name": "3D Puzzle: Pirates",
       "file": "missing/0-9/301037-3d-puzzle-pirates.json"
-    },
-    {
-      "igdb_id": 278174,
-      "game_name": "3D Puzzle: World War II",
-      "file": "missing/0-9/278174-3d-puzzle-world-war-ii.json"
     },
     {
       "igdb_id": 60581,
@@ -55411,6 +55406,11 @@
       "igdb_id": 17224,
       "game_name": "Deponia: The Complete Journey",
       "file": "missing/D/17224-deponia-the-complete-journey.json"
+    },
+    {
+      "igdb_id": 167274,
+      "game_name": "Depth Hunter 2: Scuba Kids - Hidden Treasures",
+      "file": "missing/D/167274-depth-hunter-2-scuba-kids-hidden-treasures.json"
     },
     {
       "igdb_id": 317854,
