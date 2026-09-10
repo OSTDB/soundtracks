@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
 | Umihara Kawase: Shun - Second Edition | 78719 | [78719-umihara-kawase-shun-second-edition.json](./78719-umihara-kawase-shun-second-edition.json) |
 | Umineko no Naku Koro ni Chiru | 51267 | [51267-umineko-no-naku-koro-ni-chiru.json](./51267-umineko-no-naku-koro-ni-chiru.json) |
+| Umineko no Naku Koro ni Chiru: Shinjitsu to Gensou no Nocturne | 138162 | [138162-umineko-no-naku-koro-ni-chiru-shinjitsu-to-gensou-no-nocturne.json](./138162-umineko-no-naku-koro-ni-chiru-shinjitsu-to-gensou-no-nocturne.json) |
 | Umineko no Naku Koro ni Hane | 146817 | [146817-umineko-no-naku-koro-ni-hane.json](./146817-umineko-no-naku-koro-ni-hane.json) |
 | Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku | 139987 | [139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json](./139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json) |
 | Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku - Limited Edition | 140001 | [140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json](./140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json) |
