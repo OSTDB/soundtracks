@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
 | Infinite Monkey Clicker | 387328 | [387328-infinite-monkey-clicker.json](./387328-infinite-monkey-clicker.json) |
 | Infinite Monkeys | 57095 | [57095-infinite-monkeys.json](./57095-infinite-monkeys.json) |
+| Infinite Pizza | 141819 | [141819-infinite-pizza.json](./141819-infinite-pizza.json) |
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
 | Infinite Robotics | 279000 | [279000-infinite-robotics.json](./279000-infinite-robotics.json) |
 | Infinite Shooter | 33103 | [33103-infinite-shooter.json](./33103-infinite-shooter.json) |
@@ -1193,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolated Room | 229024 | [229024-isolated-room.json](./229024-isolated-room.json) |
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
+| Isolomus | 141814 | [141814-isolomus.json](./141814-isolomus.json) |
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isonzo | 158603 | [158603-isonzo.json](./158603-isonzo.json) |
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
