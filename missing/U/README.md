@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
 | Upgraded | 338582 | [338582-upgraded.json](./338582-upgraded.json) |
 | Upgrades & Enemies | 362271 | [362271-upgrades-and-enemies.json](./362271-upgrades-and-enemies.json) |
+| Uph! | 157123 | [157123-uph.json](./157123-uph.json) |
 | Upheaval | 228064 | [228064-upheaval.json](./228064-upheaval.json) |
 | Upheaveal | 216994 | [216994-upheaveal.json](./216994-upheaveal.json) |
 | Uphill | 306090 | [306090-uphill.json](./306090-uphill.json) |
