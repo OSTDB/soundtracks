@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donny Donut: Dokrats | 265689 | [265689-donny-donut-dokrats.json](./265689-donny-donut-dokrats.json) |
 | Donsol | 177521 | [177521-donsol.json](./177521-donsol.json) |
 | Dontbegrey | 51965 | [51965-dontbegrey.json](./51965-dontbegrey.json) |
+| Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
 | Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon valley | 109744 | [109744-dragon-valley.json](./109744-dragon-valley.json) |
 | Dragon Valor | 27351 | [27351-dragon-valor.json](./27351-dragon-valor.json) |
 | Dragon Village Arena | 193988 | [193988-dragon-village-arena.json](./193988-dragon-village-arena.json) |
+| Dragon VR | 156091 | [156091-dragon-vr.json](./156091-dragon-vr.json) |
 | Dragon Warrior I & II | 205230 | [205230-dragon-warrior-i-and-ii.json](./205230-dragon-warrior-i-and-ii.json) |
 | Dragon Wars | 11406 | [11406-dragon-wars.json](./11406-dragon-wars.json) |
 | Dragon's Bane | 148541 | [148541-dragons-bane.json](./148541-dragons-bane.json) |
@@ -2478,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
+| DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
 | Dread Nautical | 122514 | [122514-dread-nautical.json](./122514-dread-nautical.json) |
 | Dread Not | 349860 | [349860-dread-not.json](./349860-dread-not.json) |
