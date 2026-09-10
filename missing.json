@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T02:51:14.670Z",
-  "total_missing": 52702,
+  "generated_at": "2026-09-10T03:01:16.753Z",
+  "total_missing": 52704,
   "games": [
     {
       "igdb_id": 306086,
@@ -1241,11 +1241,6 @@
       "igdb_id": 202923,
       "game_name": "3D Turbo OutRun",
       "file": "missing/0-9/202923-3d-turbo-outrun.json"
-    },
-    {
-      "igdb_id": 37196,
-      "game_name": "3DO Action Pak",
-      "file": "missing/0-9/37196-3do-action-pak.json"
     },
     {
       "igdb_id": 37195,
@@ -64178,6 +64173,11 @@
       "file": "missing/D/48063-dudes-with-attitude.json"
     },
     {
+      "igdb_id": 165077,
+      "game_name": "Dudu Monkey",
+      "file": "missing/D/165077-dudu-monkey.json"
+    },
+    {
       "igdb_id": 309343,
       "game_name": "Due to Rain",
       "file": "missing/D/309343-due-to-rain.json"
@@ -82351,6 +82351,11 @@
       "igdb_id": 200665,
       "game_name": "Friday Night Funkin': V.S. Father Foundest",
       "file": "missing/F/200665-friday-night-funkin-v-s-father-foundest.json"
+    },
+    {
+      "igdb_id": 165075,
+      "game_name": "Friday Night Funkin': V.S. Whitty",
+      "file": "missing/F/165075-friday-night-funkin-v-s-whitty.json"
     },
     {
       "igdb_id": 186302,
@@ -156686,6 +156691,11 @@
       "igdb_id": 45365,
       "game_name": "Oracles Cave",
       "file": "missing/O/45365-oracles-cave.json"
+    },
+    {
+      "igdb_id": 165076,
+      "game_name": "Orakyubu",
+      "file": "missing/O/165076-orakyubu.json"
     },
     {
       "igdb_id": 254753,
