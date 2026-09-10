@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
 | Getaway Golf | 414298 | [414298-getaway-golf.json](./414298-getaway-golf.json) |
 | GetClose | 61658 | [61658-getclose.json](./61658-getclose.json) |
+| Geten no Hana with Yume Akari Aizouban | 135857 | [135857-geten-no-hana-with-yume-akari-aizouban.json](./135857-geten-no-hana-with-yume-akari-aizouban.json) |
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
 | Getter Love!!: Chou Renai Party Game Tanjou | 3504 | [3504-getter-love-chou-renai-party-game-tanjou.json](./3504-getter-love-chou-renai-party-game-tanjou.json) |
@@ -1614,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger 01&02 | 147935 | [147935-grisaia-phantom-trigger-01-and-02.json](./147935-grisaia-phantom-trigger-01-and-02.json) |
 | Grisaia Phantom Trigger 5.5 to 08 | 251593 | [251593-grisaia-phantom-trigger-5-5-to-08.json](./251593-grisaia-phantom-trigger-5-5-to-08.json) |
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
+| Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grix | 384501 | [384501-grix.json](./384501-grix.json) |
