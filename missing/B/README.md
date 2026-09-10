@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
+| Blockstory | 137030 | [137030-blockstory.json](./137030-blockstory.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
 | BlockTanks | 324917 | [324917-blocktanks.json](./324917-blocktanks.json) |
 | BlockTanks.io | 137629 | [137629-blocktanks-io.json](./137629-blocktanks-io.json) |
