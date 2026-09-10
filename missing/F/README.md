@@ -1383,12 +1383,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FloraMancer: Seeds and Spells | 235982 | [235982-floramancer-seeds-and-spells.json](./235982-floramancer-seeds-and-spells.json) |
 | Florarium | 258454 | [258454-florarium.json](./258454-florarium.json) |
 | Floret Bond | 178035 | [178035-floret-bond.json](./178035-floret-bond.json) |
+| Florida Man: Hurricane Hijinks | 153377 | [153377-florida-man-hurricane-hijinks.json](./153377-florida-man-hurricane-hijinks.json) |
 | Flounder | 397709 | [397709-flounder.json](./397709-flounder.json) |
 | Flour Hour | 183033 | [183033-flour-hour.json](./183033-flour-hour.json) |
 | Flow | 171584 | [171584-flow.json](./171584-flow.json) |
 | Flow | 315530 | [315530-flow.json](./315530-flow.json) |
 | Flow Dot | 105328 | [105328-flow-dot.json](./105328-flow-dot.json) |
 | Flow Fox | 307907 | [307907-flow-fox.json](./307907-flow-fox.json) |
+| Flow Gear Racing | 153399 | [153399-flow-gear-racing.json](./153399-flow-gear-racing.json) |
 | Flow of War | 272262 | [272262-flow-of-war.json](./272262-flow-of-war.json) |
 | Flow Skate | 369048 | [369048-flow-skate.json](./369048-flow-skate.json) |
 | Flowcubes | 164972 | [164972-flowcubes.json](./164972-flowcubes.json) |
@@ -2045,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fright Night | 205031 | [205031-fright-night.json](./205031-fright-night.json) |
 | Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
+| Friki | 153406 | [153406-friki.json](./153406-friki.json) |
 | Fringes of the Empire | 34426 | [34426-fringes-of-the-empire.json](./34426-fringes-of-the-empire.json) |
 | Frip and Froop's Logical Labyrinth | 56509 | [56509-frip-and-froops-logical-labyrinth.json](./56509-frip-and-froops-logical-labyrinth.json) |
 | Frisbee Fumbling | 322553 | [322553-frisbee-fumbling.json](./322553-frisbee-fumbling.json) |
