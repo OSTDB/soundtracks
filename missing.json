@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T07:11:15.702Z",
-  "total_missing": 53396,
+  "generated_at": "2026-09-10T07:18:10.793Z",
+  "total_missing": 53446,
   "games": [
     {
       "igdb_id": 306086,
@@ -135023,6 +135023,11 @@
       "file": "missing/M/313111-mega-man-twin-destinies.json"
     },
     {
+      "igdb_id": 157671,
+      "game_name": "Mega Marble World 2",
+      "file": "missing/M/157671-mega-marble-world-2.json"
+    },
+    {
       "igdb_id": 229347,
       "game_name": "Mega Mario World 2: Awakened Power",
       "file": "missing/M/229347-mega-mario-world-2-awakened-power.json"
@@ -234328,9 +234333,24 @@
       "file": "missing/T/173720-the-tower-of-tigerqiuqiu-2-warp-tiger-m13.json"
     },
     {
+      "igdb_id": 157625,
+      "game_name": "The Tower of TigerQiuQiu: 4-way Dodge the ball",
+      "file": "missing/T/157625-the-tower-of-tigerqiuqiu-4-way-dodge-the-ball.json"
+    },
+    {
+      "igdb_id": 157665,
+      "game_name": "The Tower of TigerQiuQiu: Armored Fighter Arena",
+      "file": "missing/T/157665-the-tower-of-tigerqiuqiu-armored-fighter-arena.json"
+    },
+    {
       "igdb_id": 166138,
       "game_name": "The Tower of TigerQiuQiu: Bomber the Falling Stone",
       "file": "missing/T/166138-the-tower-of-tigerqiuqiu-bomber-the-falling-stone.json"
+    },
+    {
+      "igdb_id": 157624,
+      "game_name": "The Tower of TigerQiuQiu: Bomber the Rolling Stone",
+      "file": "missing/T/157624-the-tower-of-tigerqiuqiu-bomber-the-rolling-stone.json"
     },
     {
       "igdb_id": 166137,
@@ -234338,9 +234358,239 @@
       "file": "missing/T/166137-the-tower-of-tigerqiuqiu-bomber-the-ruby-magic.json"
     },
     {
+      "igdb_id": 157661,
+      "game_name": "The Tower of TigerQiuQiu: Bomber the Ruby Sword",
+      "file": "missing/T/157661-the-tower-of-tigerqiuqiu-bomber-the-ruby-sword.json"
+    },
+    {
+      "igdb_id": 157654,
+      "game_name": "The Tower of TigerQiuQiu: Bomber Tiger",
+      "file": "missing/T/157654-the-tower-of-tigerqiuqiu-bomber-tiger.json"
+    },
+    {
+      "igdb_id": 157669,
+      "game_name": "The Tower of TigerQiuQiu: Deepwater Bomb",
+      "file": "missing/T/157669-the-tower-of-tigerqiuqiu-deepwater-bomb.json"
+    },
+    {
+      "igdb_id": 157627,
+      "game_name": "The Tower of TigerQiuQiu: Down to Hole",
+      "file": "missing/T/157627-the-tower-of-tigerqiuqiu-down-to-hole.json"
+    },
+    {
+      "igdb_id": 157639,
+      "game_name": "The Tower of TigerQiuQiu: Drop Balls",
+      "file": "missing/T/157639-the-tower-of-tigerqiuqiu-drop-balls.json"
+    },
+    {
+      "igdb_id": 157652,
+      "game_name": "The Tower of TigerQiuQiu: Duck War",
+      "file": "missing/T/157652-the-tower-of-tigerqiuqiu-duck-war.json"
+    },
+    {
+      "igdb_id": 157632,
+      "game_name": "The Tower of TigerQiuQiu: Elevators War",
+      "file": "missing/T/157632-the-tower-of-tigerqiuqiu-elevators-war.json"
+    },
+    {
+      "igdb_id": 157645,
+      "game_name": "The Tower of TigerQiuQiu: Falling Stone",
+      "file": "missing/T/157645-the-tower-of-tigerqiuqiu-falling-stone.json"
+    },
+    {
+      "igdb_id": 157658,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Alice",
+      "file": "missing/T/157658-the-tower-of-tigerqiuqiu-girl-breaker-alice.json"
+    },
+    {
+      "igdb_id": 157629,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Anna",
+      "file": "missing/T/157629-the-tower-of-tigerqiuqiu-girl-breaker-anna.json"
+    },
+    {
+      "igdb_id": 157660,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Ava",
+      "file": "missing/T/157660-the-tower-of-tigerqiuqiu-girl-breaker-ava.json"
+    },
+    {
+      "igdb_id": 157634,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Chloe",
+      "file": "missing/T/157634-the-tower-of-tigerqiuqiu-girl-breaker-chloe.json"
+    },
+    {
+      "igdb_id": 157628,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Elizabeth",
+      "file": "missing/T/157628-the-tower-of-tigerqiuqiu-girl-breaker-elizabeth.json"
+    },
+    {
+      "igdb_id": 157651,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Emma",
+      "file": "missing/T/157651-the-tower-of-tigerqiuqiu-girl-breaker-emma.json"
+    },
+    {
+      "igdb_id": 157644,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Grace",
+      "file": "missing/T/157644-the-tower-of-tigerqiuqiu-girl-breaker-grace.json"
+    },
+    {
+      "igdb_id": 157640,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Hannah",
+      "file": "missing/T/157640-the-tower-of-tigerqiuqiu-girl-breaker-hannah.json"
+    },
+    {
+      "igdb_id": 157667,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Isabella",
+      "file": "missing/T/157667-the-tower-of-tigerqiuqiu-girl-breaker-isabella.json"
+    },
+    {
+      "igdb_id": 157655,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Lucy",
+      "file": "missing/T/157655-the-tower-of-tigerqiuqiu-girl-breaker-lucy.json"
+    },
+    {
+      "igdb_id": 157647,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Madison",
+      "file": "missing/T/157647-the-tower-of-tigerqiuqiu-girl-breaker-madison.json"
+    },
+    {
+      "igdb_id": 157636,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Olivia",
+      "file": "missing/T/157636-the-tower-of-tigerqiuqiu-girl-breaker-olivia.json"
+    },
+    {
+      "igdb_id": 157648,
+      "game_name": "The Tower of TigerQiuQiu: Girl Breaker Sophia",
+      "file": "missing/T/157648-the-tower-of-tigerqiuqiu-girl-breaker-sophia.json"
+    },
+    {
+      "igdb_id": 157631,
+      "game_name": "The Tower of TigerQiuQiu: Into The Blue",
+      "file": "missing/T/157631-the-tower-of-tigerqiuqiu-into-the-blue.json"
+    },
+    {
+      "igdb_id": 157635,
+      "game_name": "The Tower of TigerQiuQiu: Match 3",
+      "file": "missing/T/157635-the-tower-of-tigerqiuqiu-match-3.json"
+    },
+    {
+      "igdb_id": 157664,
+      "game_name": "The Tower of TigerQiuQiu: Ninja Delta",
+      "file": "missing/T/157664-the-tower-of-tigerqiuqiu-ninja-delta.json"
+    },
+    {
+      "igdb_id": 157623,
+      "game_name": "The Tower of TigerQiuQiu: Ninja Epsilon",
+      "file": "missing/T/157623-the-tower-of-tigerqiuqiu-ninja-epsilon.json"
+    },
+    {
+      "igdb_id": 157630,
+      "game_name": "The Tower of TigerQiuQiu: Ninja Plus",
+      "file": "missing/T/157630-the-tower-of-tigerqiuqiu-ninja-plus.json"
+    },
+    {
+      "igdb_id": 157663,
+      "game_name": "The Tower of TigerQiuQiu: Ninja S",
+      "file": "missing/T/157663-the-tower-of-tigerqiuqiu-ninja-s.json"
+    },
+    {
+      "igdb_id": 157668,
+      "game_name": "The Tower of TigerQiuQiu: Ninja Thet",
+      "file": "missing/T/157668-the-tower-of-tigerqiuqiu-ninja-thet.json"
+    },
+    {
+      "igdb_id": 157659,
+      "game_name": "The Tower of TigerQiuQiu: Ninja Tiger - QiuQiu",
+      "file": "missing/T/157659-the-tower-of-tigerqiuqiu-ninja-tiger-qiuqiu.json"
+    },
+    {
+      "igdb_id": 157649,
+      "game_name": "The Tower of TigerQiuQiu: Ninja W",
+      "file": "missing/T/157649-the-tower-of-tigerqiuqiu-ninja-w.json"
+    },
+    {
+      "igdb_id": 157670,
+      "game_name": "The Tower of TigerQiuQiu: Ninja Zeta",
+      "file": "missing/T/157670-the-tower-of-tigerqiuqiu-ninja-zeta.json"
+    },
+    {
+      "igdb_id": 157657,
+      "game_name": "The Tower of TigerQiuQiu: Nyaa Invaders 2",
+      "file": "missing/T/157657-the-tower-of-tigerqiuqiu-nyaa-invaders-2.json"
+    },
+    {
+      "igdb_id": 157650,
+      "game_name": "The Tower of TigerQiuQiu: Nyaa Invaders 3",
+      "file": "missing/T/157650-the-tower-of-tigerqiuqiu-nyaa-invaders-3.json"
+    },
+    {
       "igdb_id": 166139,
       "game_name": "The Tower of TigerQiuQiu: Pinball Killer",
       "file": "missing/T/166139-the-tower-of-tigerqiuqiu-pinball-killer.json"
+    },
+    {
+      "igdb_id": 157656,
+      "game_name": "The Tower of TigerQiuQiu: Sneak",
+      "file": "missing/T/157656-the-tower-of-tigerqiuqiu-sneak.json"
+    },
+    {
+      "igdb_id": 157643,
+      "game_name": "The Tower of TigerQiuQiu: Sniper",
+      "file": "missing/T/157643-the-tower-of-tigerqiuqiu-sniper.json"
+    },
+    {
+      "igdb_id": 157641,
+      "game_name": "The Tower of TigerQiuQiu: Space Force",
+      "file": "missing/T/157641-the-tower-of-tigerqiuqiu-space-force.json"
+    },
+    {
+      "igdb_id": 157666,
+      "game_name": "The Tower of TigerQiuQiu: Super Tigerio",
+      "file": "missing/T/157666-the-tower-of-tigerqiuqiu-super-tigerio.json"
+    },
+    {
+      "igdb_id": 157637,
+      "game_name": "The Tower of TigerQiuQiu: Thief Mouse",
+      "file": "missing/T/157637-the-tower-of-tigerqiuqiu-thief-mouse.json"
+    },
+    {
+      "igdb_id": 157638,
+      "game_name": "The Tower of TigerQiuQiu: Tiger 1952",
+      "file": "missing/T/157638-the-tower-of-tigerqiuqiu-tiger-1952.json"
+    },
+    {
+      "igdb_id": 157662,
+      "game_name": "The Tower of TigerQiuQiu: Tiger Tank 60",
+      "file": "missing/T/157662-the-tower-of-tigerqiuqiu-tiger-tank-60.json"
+    },
+    {
+      "igdb_id": 157642,
+      "game_name": "The Tower of TigerQiuQiu: Tiger Tank 62",
+      "file": "missing/T/157642-the-tower-of-tigerqiuqiu-tiger-tank-62.json"
+    },
+    {
+      "igdb_id": 157622,
+      "game_name": "The Tower of TigerQiuQiu: Tiger Tank 64",
+      "file": "missing/T/157622-the-tower-of-tigerqiuqiu-tiger-tank-64.json"
+    },
+    {
+      "igdb_id": 157626,
+      "game_name": "The Tower of TigerQiuQiu: Tiger Tank 65",
+      "file": "missing/T/157626-the-tower-of-tigerqiuqiu-tiger-tank-65.json"
+    },
+    {
+      "igdb_id": 157653,
+      "game_name": "The Tower of TigerQiuQiu: Tiger Tank Defense S",
+      "file": "missing/T/157653-the-tower-of-tigerqiuqiu-tiger-tank-defense-s.json"
+    },
+    {
+      "igdb_id": 157646,
+      "game_name": "The Tower of TigerQiuQiu: Tiger Tank G",
+      "file": "missing/T/157646-the-tower-of-tigerqiuqiu-tiger-tank-g.json"
+    },
+    {
+      "igdb_id": 157633,
+      "game_name": "The Tower of TigerQiuQiu: Warp Tiger",
+      "file": "missing/T/157633-the-tower-of-tigerqiuqiu-warp-tiger.json"
     },
     {
       "igdb_id": 6639,
