@@ -316,7 +316,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
-| 7th Chance | 152897 | [152897-7th-chance.json](./152897-7th-chance.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
 | 8 Ball 3 | 232450 | [232450-8-ball-3.json](./232450-8-ball-3.json) |
 | 8 Ball Goal | 316437 | [316437-8-ball-goal.json](./316437-8-ball-goal.json) |
