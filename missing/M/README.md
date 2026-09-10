@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandragora: Whispers of the Witch Tree | 191427 | [191427-mandragora-whispers-of-the-witch-tree.json](./191427-mandragora-whispers-of-the-witch-tree.json) |
 | Mandrake Boys | 202398 | [202398-mandrake-boys.json](./202398-mandrake-boys.json) |
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
+| Mane | 158171 | [158171-mane.json](./158171-mane.json) |
 | Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
 | Maneater: Truth Quest | 162622 | [162622-maneater-truth-quest.json](./162622-maneater-truth-quest.json) |
 | Maneuver Warfare | 293419 | [293419-maneuver-warfare.json](./293419-maneuver-warfare.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midline '85 | 247738 | [247738-midline-85.json](./247738-midline-85.json) |
 | Midnight Arcade | 344364 | [344364-midnight-arcade.json](./344364-midnight-arcade.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
+| Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
@@ -1988,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Shadows | 151180 | [151180-mind-shadows.json](./151180-mind-shadows.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mind Within | 344384 | [344384-mind-within.json](./344384-mind-within.json) |
+| Mind-Blowing Girls | 158148 | [158148-mind-blowing-girls.json](./158148-mind-blowing-girls.json) |
 | Mind-Blowing Girls 2 | 171027 | [171027-mind-blowing-girls-2.json](./171027-mind-blowing-girls-2.json) |
 | Mind-Blowing Girls 3 | 163995 | [163995-mind-blowing-girls-3.json](./163995-mind-blowing-girls-3.json) |
 | Mind-Machine Interface | 27763 | [27763-mind-machine-interface.json](./27763-mind-machine-interface.json) |
@@ -2093,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
 | Minescroller | 178612 | [178612-minescroller.json](./178612-minescroller.json) |
 | Mineshaft | 333023 | [333023-mineshaft.json](./333023-mineshaft.json) |
+| Minestrife | 158157 | [158157-minestrife.json](./158157-minestrife.json) |
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
@@ -2715,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
 | Monster Lair | 42019 | [42019-monster-lair.json](./42019-monster-lair.json) |
 | Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
+| Monster Legend | 158134 | [158134-monster-legend.json](./158134-monster-legend.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Maker | 220645 | [220645-monster-maker.json](./220645-monster-maker.json) |
@@ -3517,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
 | My Lady | 33134 | [33134-my-lady.json](./33134-my-lady.json) |
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
+| My Last Memories About You | 158133 | [158133-my-last-memories-about-you.json](./158133-my-last-memories-about-you.json) |
 | My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
 | My Liege | 289317 | [289317-my-liege.json](./289317-my-liege.json) |
 | My Life Changed | 165708 | [165708-my-life-changed.json](./165708-my-life-changed.json) |
