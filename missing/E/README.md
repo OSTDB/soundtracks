@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternals' Path | 249999 | [249999-eternals-path.json](./249999-eternals-path.json) |
 | Eternia: Chronicles of Meranthe | 215366 | [215366-eternia-chronicles-of-meranthe.json](./215366-eternia-chronicles-of-meranthe.json) |
 | Eternity Convergence | 156135 | [156135-eternity-convergence.json](./156135-eternity-convergence.json) |
+| Eternity Guards | 148488 | [148488-eternity-guards.json](./148488-eternity-guards.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
