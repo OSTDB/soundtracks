@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
 | Lonely | 229677 | [229677-lonely.json](./229677-lonely.json) |
+| Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
 | Lonely in the Winter | 86338 | [86338-lonely-in-the-winter.json](./86338-lonely-in-the-winter.json) |
 | Lonely Mountains: Downhill - Eldfjall Island | 138241 | [138241-lonely-mountains-downhill-eldfjall-island.json](./138241-lonely-mountains-downhill-eldfjall-island.json) |
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
@@ -1351,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
 | Lost Circus | 175363 | [175363-lost-circus.json](./175363-lost-circus.json) |
 | Lost Crypts | 94759 | [94759-lost-crypts.json](./94759-lost-crypts.json) |
+| Lost Cube | 156619 | [156619-lost-cube.json](./156619-lost-cube.json) |
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
 | Lost Dream | 169473 | [169473-lost-dream.json](./169473-lost-dream.json) |
 | Lost Dream Chronicle | 316632 | [316632-lost-dream-chronicle.json](./316632-lost-dream-chronicle.json) |
