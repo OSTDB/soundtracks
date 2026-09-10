@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hadr | 139355 | [139355-hadr.json](./139355-hadr.json) |
 | Hadur | 342638 | [342638-hadur.json](./342638-hadur.json) |
 | Haegemonia: The Solon Heritage | 17299 | [17299-haegemonia-the-solon-heritage.json](./17299-haegemonia-the-solon-heritage.json) |
+| Haemo | 133934 | [133934-haemo.json](./133934-haemo.json) |
 | Haeven | 31930 | [31930-haeven.json](./31930-haeven.json) |
 | Hagwalla Legend | 283760 | [283760-hagwalla-legend.json](./283760-hagwalla-legend.json) |
 | Hahakigami Sweep | 386105 | [386105-hahakigami-sweep.json](./386105-hahakigami-sweep.json) |
