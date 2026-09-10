@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GB Rober | 152875 | [152875-gb-rober.json](./152875-gb-rober.json) |
 | Gear Senshi Dendoh | 19595 | [19595-gear-senshi-dendoh.json](./19595-gear-senshi-dendoh.json) |
 | Gear Slots | 389972 | [389972-gear-slots.json](./389972-gear-slots.json) |
+| Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited: Super Cars Pack | 238212 | [238212-gear-club-unlimited-super-cars-pack.json](./238212-gear-club-unlimited-super-cars-pack.json) |
 | Gearbits | 258457 | [258457-gearbits.json](./258457-gearbits.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
@@ -1003,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
 | Goddess of War Essa | 195179 | [195179-goddess-of-war-essa.json](./195179-goddess-of-war-essa.json) |
 | Goddess Scroll: Brave Star | 396211 | [396211-goddess-scroll-brave-star.json](./396211-goddess-scroll-brave-star.json) |
+| Godfall: Ascended Edition | 139946 | [139946-godfall-ascended-edition.json](./139946-godfall-ascended-edition.json) |
 | Godfall: Challenger Edition | 185638 | [185638-godfall-challenger-edition.json](./185638-godfall-challenger-edition.json) |
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
 | Godfall: Ultimate Edition | 195237 | [195237-godfall-ultimate-edition.json](./195237-godfall-ultimate-edition.json) |
@@ -1752,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Another Story | 254515 | [254515-guilty-gear-strive-another-story.json](./254515-guilty-gear-strive-another-story.json) |
 | Guilty Gear: Strive - Daredevil Edition | 263513 | [263513-guilty-gear-strive-daredevil-edition.json](./263513-guilty-gear-strive-daredevil-edition.json) |
 | Guilty Gear: Strive - Special Colors for Sol and Ky | 254507 | [254507-guilty-gear-strive-special-colors-for-sol-and-ky.json](./254507-guilty-gear-strive-special-colors-for-sol-and-ky.json) |
+| Guilty Gear: Strive - Ultimate Edition | 139986 | [139986-guilty-gear-strive-ultimate-edition.json](./139986-guilty-gear-strive-ultimate-edition.json) |
 | Guilty Gear: Strive - Ultimate Edition 2022 | 255116 | [255116-guilty-gear-strive-ultimate-edition-2022.json](./255116-guilty-gear-strive-ultimate-edition-2022.json) |
 | Guilty Gear: Strive - Ultimate Edition Contents Kit | 255113 | [255113-guilty-gear-strive-ultimate-edition-contents-kit.json](./255113-guilty-gear-strive-ultimate-edition-contents-kit.json) |
 | Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
