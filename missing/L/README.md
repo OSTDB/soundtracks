@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Rat | 94244 | [94244-lab-rat.json](./94244-lab-rat.json) |
 | Lab Rat Escape | 323541 | [323541-lab-rat-escape.json](./323541-lab-rat-escape.json) |
 | Laballatory | 409584 | [409584-laballatory.json](./409584-laballatory.json) |
+| Labarynth of Legendary Loot | 143044 | [143044-labarynth-of-legendary-loot.json](./143044-labarynth-of-legendary-loot.json) |
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
 | Labyrinth | 206701 | [206701-labyrinth.json](./206701-labyrinth.json) |
