@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroswarm | 276701 | [276701-astroswarm.json](./276701-astroswarm.json) |
 | Astrotit | 93074 | [93074-astrotit.json](./93074-astrotit.json) |
 | Astround | 342049 | [342049-astround.json](./342049-astround.json) |
+| Astrovity | 163908 | [163908-astrovity.json](./163908-astrovity.json) |
 | Astroworld | 199594 | [199594-astroworld.json](./199594-astroworld.json) |
 | Astrox Imperium | 115500 | [115500-astrox-imperium.json](./115500-astrox-imperium.json) |
 | Asu Kano! Asu mo Kanojo to Issho! | 209141 | [209141-asu-kano-asu-mo-kanojo-to-issho.json](./209141-asu-kano-asu-mo-kanojo-to-issho.json) |
