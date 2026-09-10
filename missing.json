@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T11:41:10.216Z",
-  "total_missing": 53640,
+  "generated_at": "2026-09-10T11:48:43.647Z",
+  "total_missing": 53690,
   "games": [
     {
       "igdb_id": 306086,
@@ -13658,6 +13658,11 @@
       "file": "missing/A/80584-archetype.json"
     },
     {
+      "igdb_id": 155082,
+      "game_name": "Archetype Arcadia",
+      "file": "missing/A/155082-archetype-arcadia.json"
+    },
+    {
       "igdb_id": 211439,
       "game_name": "Archetypes: The Rite of Passage",
       "file": "missing/A/211439-archetypes-the-rite-of-passage.json"
@@ -14453,6 +14458,16 @@
       "file": "missing/A/109035-armored-brigade.json"
     },
     {
+      "igdb_id": 155059,
+      "game_name": "Armored Brigade Nation Pack: France - Belgium",
+      "file": "missing/A/155059-armored-brigade-nation-pack-france-belgium.json"
+    },
+    {
+      "igdb_id": 155058,
+      "game_name": "Armored Brigade Nation Pack: Italy - Yugoslavia",
+      "file": "missing/A/155058-armored-brigade-nation-pack-italy-yugoslavia.json"
+    },
+    {
       "igdb_id": 31719,
       "game_name": "Armored Core 2",
       "file": "missing/A/31719-armored-core-2.json"
@@ -14806,6 +14821,11 @@
       "igdb_id": 26721,
       "game_name": "Art of Guile",
       "file": "missing/A/26721-art-of-guile.json"
+    },
+    {
+      "igdb_id": 155074,
+      "game_name": "Art of Rally: Deluxe Edition",
+      "file": "missing/A/155074-art-of-rally-deluxe-edition.json"
     },
     {
       "igdb_id": 354421,
@@ -15341,6 +15361,11 @@
       "igdb_id": 167315,
       "game_name": "Ashes of the Singularity: Escalation - Hunter / Prey",
       "file": "missing/A/167315-ashes-of-the-singularity-escalation-hunter-prey.json"
+    },
+    {
+      "igdb_id": 155086,
+      "game_name": "Ashes of the Singularity: Escalation - Hunter/Prey",
+      "file": "missing/A/155086-ashes-of-the-singularity-escalation-hunter-prey.json"
     },
     {
       "igdb_id": 124828,
@@ -16871,6 +16896,11 @@
       "igdb_id": 269043,
       "game_name": "Atoms and Time",
       "file": "missing/A/269043-atoms-and-time.json"
+    },
+    {
+      "igdb_id": 155054,
+      "game_name": "Aton",
+      "file": "missing/A/155054-aton.json"
     },
     {
       "igdb_id": 332239,
@@ -21468,6 +21498,11 @@
       "file": "missing/B/14394-battle-brothers.json"
     },
     {
+      "igdb_id": 155069,
+      "game_name": "Battle Brothers: Blazing Deserts",
+      "file": "missing/B/155069-battle-brothers-blazing-deserts.json"
+    },
+    {
       "igdb_id": 332815,
       "game_name": "Battle Capacity",
       "file": "missing/B/332815-battle-capacity.json"
@@ -22306,6 +22341,11 @@
       "igdb_id": 3421,
       "game_name": "BattleTanx",
       "file": "missing/B/3421-battletanx.json"
+    },
+    {
+      "igdb_id": 155087,
+      "game_name": "BattleTech: Heavy Metal",
+      "file": "missing/B/155087-battletech-heavy-metal.json"
     },
     {
       "igdb_id": 280794,
@@ -28043,6 +28083,16 @@
       "file": "missing/B/396237-blue-reflection-second-light.json"
     },
     {
+      "igdb_id": 155073,
+      "game_name": "Blue Reflection: Second Light - Premium Box",
+      "file": "missing/B/155073-blue-reflection-second-light-premium-box.json"
+    },
+    {
+      "igdb_id": 155072,
+      "game_name": "Blue Reflection: Second Light - Special Collection Box",
+      "file": "missing/B/155072-blue-reflection-second-light-special-collection-box.json"
+    },
+    {
       "igdb_id": 24928,
       "game_name": "Blue Revolver",
       "file": "missing/B/24928-blue-revolver.json"
@@ -31321,6 +31371,11 @@
       "igdb_id": 131601,
       "game_name": "Bridge Constructor Compilation",
       "file": "missing/B/131601-bridge-constructor-compilation.json"
+    },
+    {
+      "igdb_id": 155047,
+      "game_name": "Bridge Constructor Portal: Portal Proficiency",
+      "file": "missing/B/155047-bridge-constructor-portal-portal-proficiency.json"
     },
     {
       "igdb_id": 17098,
@@ -51473,6 +51528,11 @@
       "file": "missing/D/296666-dandara.json"
     },
     {
+      "igdb_id": 155057,
+      "game_name": "Dandara: Trials of Fear - Enhanced Edition",
+      "file": "missing/D/155057-dandara-trials-of-fear-enhanced-edition.json"
+    },
+    {
       "igdb_id": 129536,
       "game_name": "Dandara: Trials of Fear Edition",
       "file": "missing/D/129536-dandara-trials-of-fear-edition.json"
@@ -52206,6 +52266,11 @@
       "igdb_id": 399627,
       "game_name": "Dark Secrets Mystery Files",
       "file": "missing/D/399627-dark-secrets-mystery-files.json"
+    },
+    {
+      "igdb_id": 155083,
+      "game_name": "Dark Side of Fate",
+      "file": "missing/D/155083-dark-side-of-fate.json"
     },
     {
       "igdb_id": 296689,
@@ -67378,6 +67443,11 @@
       "file": "missing/E/310180-effective-immediately.json"
     },
     {
+      "igdb_id": 155147,
+      "game_name": "Effie: Galand's Edition",
+      "file": "missing/E/155147-effie-galands-edition.json"
+    },
+    {
       "igdb_id": 218715,
       "game_name": "Effigy",
       "file": "missing/E/218715-effigy.json"
@@ -71766,6 +71836,11 @@
       "igdb_id": 200130,
       "game_name": "Everlands",
       "file": "missing/E/200130-everlands.json"
+    },
+    {
+      "igdb_id": 155084,
+      "game_name": "Everlasting Guilt",
+      "file": "missing/E/155084-everlasting-guilt.json"
     },
     {
       "igdb_id": 335661,
@@ -84223,6 +84298,16 @@
       "file": "missing/F/219029-full-kiss-s.json"
     },
     {
+      "igdb_id": 155060,
+      "game_name": "Full Kiss SS",
+      "file": "missing/F/155060-full-kiss-ss.json"
+    },
+    {
+      "igdb_id": 155066,
+      "game_name": "Full Kiss SS: Complete Limited Edition",
+      "file": "missing/F/155066-full-kiss-ss-complete-limited-edition.json"
+    },
+    {
       "igdb_id": 410265,
       "game_name": "Full Metal Coffin",
       "file": "missing/F/410265-full-metal-coffin.json"
@@ -85561,6 +85646,11 @@
       "igdb_id": 163382,
       "game_name": "Galactic Civilizations III: Villains of Star Control - Origins",
       "file": "missing/G/163382-galactic-civilizations-iii-villains-of-star-control-origins.json"
+    },
+    {
+      "igdb_id": 155080,
+      "game_name": "Galactic Civilizations III: Worlds in Crisis",
+      "file": "missing/G/155080-galactic-civilizations-iii-worlds-in-crisis.json"
     },
     {
       "igdb_id": 163381,
@@ -93308,6 +93398,11 @@
       "file": "missing/G/207528-gttod-lost-in-reflection.json"
     },
     {
+      "igdb_id": 155046,
+      "game_name": "Guacamelee! 2: Three Enemigos Character Pack",
+      "file": "missing/G/155046-guacamelee-2-three-enemigos-character-pack.json"
+    },
+    {
       "igdb_id": 115023,
       "game_name": "Guacamelee! One-Two Punch Collection",
       "file": "missing/G/115023-guacamelee-one-two-punch-collection.json"
@@ -99801,6 +99896,11 @@
       "igdb_id": 206354,
       "game_name": "Heroic Syndrome",
       "file": "missing/H/206354-heroic-syndrome.json"
+    },
+    {
+      "igdb_id": 155055,
+      "game_name": "Heroism",
+      "file": "missing/H/155055-heroism.json"
     },
     {
       "igdb_id": 96612,
@@ -117871,6 +117971,11 @@
       "igdb_id": 166176,
       "game_name": "Kingdom Come: Deliverance - Limited Edition",
       "file": "missing/K/166176-kingdom-come-deliverance-limited-edition.json"
+    },
+    {
+      "igdb_id": 155078,
+      "game_name": "Kingdom Come: Deliverance - Royal DLC Package",
+      "file": "missing/K/155078-kingdom-come-deliverance-royal-dlc-package.json"
     },
     {
       "igdb_id": 317636,
@@ -142773,6 +142878,11 @@
       "file": "missing/M/307329-monster-prom-4-monster-con.json"
     },
     {
+      "igdb_id": 155070,
+      "game_name": "Monster Prom: Second Term",
+      "file": "missing/M/155070-monster-prom-second-term.json"
+    },
+    {
       "igdb_id": 4104,
       "game_name": "Monster Rancher",
       "file": "missing/M/4104-monster-rancher.json"
@@ -148483,6 +148593,11 @@
       "file": "missing/N/259001-nantara-adventures.json"
     },
     {
+      "igdb_id": 155045,
+      "game_name": "Nantucket: Masters of the Seven Seas",
+      "file": "missing/N/155045-nantucket-masters-of-the-seven-seas.json"
+    },
+    {
       "igdb_id": 252401,
       "game_name": "Nanuk: The dusk of the brutes",
       "file": "missing/N/252401-nanuk-the-dusk-of-the-brutes.json"
@@ -150163,6 +150278,11 @@
       "file": "missing/N/99599-neon-brood.json"
     },
     {
+      "igdb_id": 155075,
+      "game_name": "Neon Chrome: Arena",
+      "file": "missing/N/155075-neon-chrome-arena.json"
+    },
+    {
       "igdb_id": 322610,
       "game_name": "Neon City Hacker",
       "file": "missing/N/322610-neon-city-hacker.json"
@@ -150901,6 +151021,11 @@
       "igdb_id": 28972,
       "game_name": "Neverwinter Nights 2: Platinum",
       "file": "missing/N/28972-neverwinter-nights-2-platinum.json"
+    },
+    {
+      "igdb_id": 155077,
+      "game_name": "Neverwinter Nights: Dark Dreams of Furiae",
+      "file": "missing/N/155077-neverwinter-nights-dark-dreams-of-furiae.json"
     },
     {
       "igdb_id": 210036,
@@ -156733,6 +156858,11 @@
       "file": "missing/O/155130-omsi-2-bad-hugelsdorf-2020.json"
     },
     {
+      "igdb_id": 155146,
+      "game_name": "OMSI 2: Berlin BRT",
+      "file": "missing/O/155146-omsi-2-berlin-brt.json"
+    },
+    {
       "igdb_id": 155132,
       "game_name": "OMSI 2: Berlin X10",
       "file": "missing/O/155132-omsi-2-berlin-x10.json"
@@ -156783,6 +156913,11 @@
       "file": "missing/O/155126-omsi-2-downloadpack-vol-2-ki-fahrzeuge.json"
     },
     {
+      "igdb_id": 155150,
+      "game_name": "OMSI 2: Downloadpack Vol.3 - KI-Menschen",
+      "file": "missing/O/155150-omsi-2-downloadpack-vol-3-ki-menschen.json"
+    },
+    {
       "igdb_id": 155128,
       "game_name": "OMSI 2: Downloadpack Vol.4 - KI-Fahrzeuge",
       "file": "missing/O/155128-omsi-2-downloadpack-vol-4-ki-fahrzeuge.json"
@@ -156801,6 +156936,11 @@
       "igdb_id": 155120,
       "game_name": "OMSI 2: Downloadpack Vol.9 - KI-Luxusautos",
       "file": "missing/O/155120-omsi-2-downloadpack-vol-9-ki-luxusautos.json"
+    },
+    {
+      "igdb_id": 155142,
+      "game_name": "OMSI 2: Düsseldorf - Linie 721",
+      "file": "missing/O/155142-omsi-2-dusseldorf-linie-721.json"
     },
     {
       "igdb_id": 155141,
@@ -156848,6 +156988,11 @@
       "file": "missing/O/155118-omsi-2-koln.json"
     },
     {
+      "igdb_id": 155145,
+      "game_name": "OMSI 2: Leitstellen-Simulator",
+      "file": "missing/O/155145-omsi-2-leitstellen-simulator.json"
+    },
+    {
       "igdb_id": 155131,
       "game_name": "OMSI 2: Luzern - Linie 24",
       "file": "missing/O/155131-omsi-2-luzern-linie-24.json"
@@ -156873,6 +157018,16 @@
       "file": "missing/O/155121-omsi-2-metropole-ruhr.json"
     },
     {
+      "igdb_id": 155148,
+      "game_name": "OMSI 2: Projekt Gladbeck",
+      "file": "missing/O/155148-omsi-2-projekt-gladbeck.json"
+    },
+    {
+      "igdb_id": 155143,
+      "game_name": "OMSI 2: Rheinhausen",
+      "file": "missing/O/155143-omsi-2-rheinhausen.json"
+    },
+    {
       "igdb_id": 155137,
       "game_name": "OMSI 2: Saint-Servan",
       "file": "missing/O/155137-omsi-2-saint-servan.json"
@@ -156891,6 +157046,11 @@
       "igdb_id": 155125,
       "game_name": "OMSI 2: Strassenbahn NF6D Essen/Gelsenkirchen",
       "file": "missing/O/155125-omsi-2-strassenbahn-nf6d-essen-gelsenkirchen.json"
+    },
+    {
+      "igdb_id": 155149,
+      "game_name": "OMSI 2: Studio Polygon Lite Pack",
+      "file": "missing/O/155149-omsi-2-studio-polygon-lite-pack.json"
     },
     {
       "igdb_id": 155112,
@@ -156916,6 +157076,11 @@
       "igdb_id": 155122,
       "game_name": "OMSI 2: Vienna 1 - Line 24A",
       "file": "missing/O/155122-omsi-2-vienna-1-line-24a.json"
+    },
+    {
+      "igdb_id": 155144,
+      "game_name": "OMSI 2: Wuppertal Buslinie 639",
+      "file": "missing/O/155144-omsi-2-wuppertal-buslinie-639.json"
     },
     {
       "igdb_id": 155108,
@@ -161568,9 +161733,29 @@
       "file": "missing/P/226408-panzer-campaigns-rumyantsev-43.json"
     },
     {
+      "igdb_id": 155048,
+      "game_name": "Panzer Corps 2: Axis Operations - 1939",
+      "file": "missing/P/155048-panzer-corps-2-axis-operations-1939.json"
+    },
+    {
+      "igdb_id": 155050,
+      "game_name": "Panzer Corps 2: Axis Operations - 1940",
+      "file": "missing/P/155050-panzer-corps-2-axis-operations-1940.json"
+    },
+    {
+      "igdb_id": 155081,
+      "game_name": "Panzer Corps 2: Axis Operations - 1941",
+      "file": "missing/P/155081-panzer-corps-2-axis-operations-1941.json"
+    },
+    {
       "igdb_id": 248896,
       "game_name": "Panzer Corps 2: Axis Operations - 1945",
       "file": "missing/P/248896-panzer-corps-2-axis-operations-1945.json"
+    },
+    {
+      "igdb_id": 155049,
+      "game_name": "Panzer Corps 2: Axis Operations - Spanish Civil War",
+      "file": "missing/P/155049-panzer-corps-2-axis-operations-spanish-civil-war.json"
     },
     {
       "igdb_id": 370129,
@@ -176693,6 +176878,21 @@
       "file": "missing/R/263373-r-type.json"
     },
     {
+      "igdb_id": 155065,
+      "game_name": "R-Type Final 2: DLC Set 1",
+      "file": "missing/R/155065-r-type-final-2-dlc-set-1.json"
+    },
+    {
+      "igdb_id": 155064,
+      "game_name": "R-Type Final 2: DLC Set 2",
+      "file": "missing/R/155064-r-type-final-2-dlc-set-2.json"
+    },
+    {
+      "igdb_id": 155063,
+      "game_name": "R-Type Final 2: DLC Set 3",
+      "file": "missing/R/155063-r-type-final-2-dlc-set-3.json"
+    },
+    {
       "igdb_id": 225779,
       "game_name": "R-Type Final 3 Evolved",
       "file": "missing/R/225779-r-type-final-3-evolved.json"
@@ -178431,6 +178631,11 @@
       "igdb_id": 174849,
       "game_name": "Ravens Battle Fields",
       "file": "missing/R/174849-ravens-battle-fields.json"
+    },
+    {
+      "igdb_id": 155056,
+      "game_name": "Ravensword: Undaunted",
+      "file": "missing/R/155056-ravensword-undaunted.json"
     },
     {
       "igdb_id": 341307,
@@ -181191,6 +181396,11 @@
       "igdb_id": 209168,
       "game_name": "Rescue Heroes: Molten Menace",
       "file": "missing/R/209168-rescue-heroes-molten-menace.json"
+    },
+    {
+      "igdb_id": 155039,
+      "game_name": "Rescue HQ: The Tycoon - Coastguard",
+      "file": "missing/R/155039-rescue-hq-the-tycoon-coastguard.json"
     },
     {
       "igdb_id": 185105,
@@ -197658,6 +197868,11 @@
       "file": "missing/S/148002-sin-slayers-enhanced-edition.json"
     },
     {
+      "igdb_id": 155061,
+      "game_name": "Sin Slayers: Pharmacist",
+      "file": "missing/S/155061-sin-slayers-pharmacist.json"
+    },
+    {
       "igdb_id": 291758,
       "game_name": "Sin Slayers: Reign of The 8th",
       "file": "missing/S/291758-sin-slayers-reign-of-the-8th.json"
@@ -212408,6 +212623,11 @@
       "file": "missing/S/23275-streets-of-rogue.json"
     },
     {
+      "igdb_id": 155053,
+      "game_name": "Streets of Rogue: Character Pack",
+      "file": "missing/S/155053-streets-of-rogue-character-pack.json"
+    },
+    {
       "igdb_id": 196279,
       "game_name": "Streets of Rogue: Character Pack Edition",
       "file": "missing/S/196279-streets-of-rogue-character-pack-edition.json"
@@ -217931,6 +218151,11 @@
       "igdb_id": 277824,
       "game_name": "Surviving with a Bat",
       "file": "missing/S/277824-surviving-with-a-bat.json"
+    },
+    {
+      "igdb_id": 155085,
+      "game_name": "Survivor",
+      "file": "missing/S/155085-survivor.json"
     },
     {
       "igdb_id": 199590,
@@ -229278,6 +229503,11 @@
       "file": "missing/T/25224-the-invisible-hand.json"
     },
     {
+      "igdb_id": 155051,
+      "game_name": "The Invisible Hand: Deep Pockets Edition",
+      "file": "missing/T/155051-the-invisible-hand-deep-pockets-edition.json"
+    },
+    {
       "igdb_id": 223151,
       "game_name": "The Iron Age",
       "file": "missing/T/223151-the-iron-age.json"
@@ -233528,6 +233758,11 @@
       "file": "missing/T/271741-the-sharks-bathhouse.json"
     },
     {
+      "igdb_id": 155062,
+      "game_name": "The Shattering: Secret Room",
+      "file": "missing/T/155062-the-shattering-secret-room.json"
+    },
+    {
       "igdb_id": 114372,
       "game_name": "The Shedding",
       "file": "missing/T/114372-the-shedding.json"
@@ -237506,6 +237741,11 @@
       "igdb_id": 87726,
       "game_name": "Through the Ages",
       "file": "missing/T/87726-through-the-ages.json"
+    },
+    {
+      "igdb_id": 155052,
+      "game_name": "Through the Ages: New Leaders & Wonders",
+      "file": "missing/T/155052-through-the-ages-new-leaders-and-wonders.json"
     },
     {
       "igdb_id": 169402,
@@ -243648,6 +243888,11 @@
       "file": "missing/T/32428-townsmen.json"
     },
     {
+      "igdb_id": 155067,
+      "game_name": "Townsmen: A Kingdom Rebuilt - The Seaside Empire",
+      "file": "missing/T/155067-townsmen-a-kingdom-rebuilt-the-seaside-empire.json"
+    },
+    {
       "igdb_id": 322973,
       "game_name": "Toxic Toads",
       "file": "missing/T/322973-toxic-toads.json"
@@ -246876,6 +247121,11 @@
       "igdb_id": 53840,
       "game_name": "Tropico 5: Waterborne",
       "file": "missing/T/53840-tropico-5-waterborne.json"
+    },
+    {
+      "igdb_id": 155068,
+      "game_name": "Tropico 6: Caribbean Skies",
+      "file": "missing/T/155068-tropico-6-caribbean-skies.json"
     },
     {
       "igdb_id": 305525,
