@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T13:51:26.039Z",
-  "total_missing": 53919,
+  "generated_at": "2026-09-10T14:04:07.621Z",
+  "total_missing": 53968,
   "games": [
     {
       "igdb_id": 306086,
@@ -1478,11 +1478,6 @@
       "file": "missing/0-9/353298-7-days-to-die-the-desert-armor-set.json"
     },
     {
-      "igdb_id": 353300,
-      "game_name": "7 Days to Die: The Hoarder Armor Set",
-      "file": "missing/0-9/353300-7-days-to-die-the-hoarder-armor-set.json"
-    },
-    {
       "igdb_id": 353299,
       "game_name": "7 Days to Die: The Marauder Armor Set",
       "file": "missing/0-9/353299-7-days-to-die-the-marauder-armor-set.json"
@@ -1516,6 +1511,11 @@
       "igdb_id": 175396,
       "game_name": "7 Planets",
       "file": "missing/0-9/175396-7-planets.json"
+    },
+    {
+      "igdb_id": 152274,
+      "game_name": "7 Second Haircuts",
+      "file": "missing/0-9/152274-7-second-haircuts.json"
     },
     {
       "igdb_id": 84284,
@@ -31353,6 +31353,11 @@
       "file": "missing/B/325830-bricksbumpbump.json"
     },
     {
+      "igdb_id": 152304,
+      "game_name": "Bricky Boy",
+      "file": "missing/B/152304-bricky-boy.json"
+    },
+    {
       "igdb_id": 93565,
       "game_name": "Brickyard / Clowns",
       "file": "missing/B/93565-brickyard-clowns.json"
@@ -32593,6 +32598,11 @@
       "file": "missing/B/223500-building-our-futature.json"
     },
     {
+      "igdb_id": 152275,
+      "game_name": "Building Relationships",
+      "file": "missing/B/152275-building-relationships.json"
+    },
+    {
       "igdb_id": 372457,
       "game_name": "Built by Force",
       "file": "missing/B/372457-built-by-force.json"
@@ -33541,6 +33551,11 @@
       "igdb_id": 415963,
       "game_name": "Buster Sword",
       "file": "missing/B/415963-buster-sword.json"
+    },
+    {
+      "igdb_id": 152330,
+      "game_name": "Buster's Tower Defense",
+      "file": "missing/B/152330-busters-tower-defense.json"
     },
     {
       "igdb_id": 64946,
@@ -37068,6 +37083,11 @@
       "file": "missing/C/174912-catnrobot-idle-defense.json"
     },
     {
+      "igdb_id": 152296,
+      "game_name": "Cat's Kiss",
+      "file": "missing/C/152296-cats-kiss.json"
+    },
+    {
       "igdb_id": 237043,
       "game_name": "Cat's Request",
       "file": "missing/C/237043-cats-request.json"
@@ -38081,6 +38101,11 @@
       "igdb_id": 279580,
       "game_name": "Cellofania",
       "file": "missing/C/279580-cellofania.json"
+    },
+    {
+      "igdb_id": 152276,
+      "game_name": "Cellular Harvest: Purple",
+      "file": "missing/C/152276-cellular-harvest-purple.json"
     },
     {
       "igdb_id": 296346,
@@ -46248,6 +46273,11 @@
       "file": "missing/C/12947-countdown-to-meltdown.json"
     },
     {
+      "igdb_id": 152291,
+      "game_name": "Counter Attack",
+      "file": "missing/C/152291-counter-attack.json"
+    },
+    {
       "igdb_id": 279009,
       "game_name": "Counter Attack",
       "file": "missing/C/279009-counter-attack.json"
@@ -50251,6 +50281,11 @@
       "igdb_id": 176448,
       "game_name": "Cute Army: A Cat Story",
       "file": "missing/C/176448-cute-army-a-cat-story.json"
+    },
+    {
+      "igdb_id": 152325,
+      "game_name": "Cute Bite",
+      "file": "missing/C/152325-cute-bite.json"
     },
     {
       "igdb_id": 264329,
@@ -54583,6 +54618,11 @@
       "file": "missing/D/42683-deathmatch-village.json"
     },
     {
+      "igdb_id": 152284,
+      "game_name": "Deathrun TV",
+      "file": "missing/D/152284-deathrun-tv.json"
+    },
+    {
       "igdb_id": 68011,
       "game_name": "Deathsmiles II: Makai no Merry Christmas",
       "file": "missing/D/68011-deathsmiles-ii-makai-no-merry-christmas.json"
@@ -55161,6 +55201,11 @@
       "igdb_id": 173267,
       "game_name": "Defend the Fort",
       "file": "missing/D/173267-defend-the-fort.json"
+    },
+    {
+      "igdb_id": 152300,
+      "game_name": "Defend the Rook",
+      "file": "missing/D/152300-defend-the-rook.json"
     },
     {
       "igdb_id": 33130,
@@ -60431,6 +60476,11 @@
       "igdb_id": 217290,
       "game_name": "Domains of Dusk",
       "file": "missing/D/217290-domains-of-dusk.json"
+    },
+    {
+      "igdb_id": 152283,
+      "game_name": "Dome-King Cabbage",
+      "file": "missing/D/152283-dome-king-cabbage.json"
     },
     {
       "igdb_id": 410927,
@@ -73108,6 +73158,11 @@
       "file": "missing/E/47265-explorers-of-space.json"
     },
     {
+      "igdb_id": 152280,
+      "game_name": "Explorers: Deluxe Edition",
+      "file": "missing/E/152280-explorers-deluxe-edition.json"
+    },
+    {
       "igdb_id": 334109,
       "game_name": "Exploring Phonics 1 for Beginners",
       "file": "missing/E/334109-exploring-phonics-1-for-beginners.json"
@@ -74553,6 +74608,11 @@
       "file": "missing/F/305150-fallout-76-skyline-valley.json"
     },
     {
+      "igdb_id": 152310,
+      "game_name": "Fallout 76: Steel Reign",
+      "file": "missing/F/152310-fallout-76-steel-reign.json"
+    },
+    {
       "igdb_id": 218503,
       "game_name": "Fallout 76: The Pitt - Deluxe Edition",
       "file": "missing/F/218503-fallout-76-the-pitt-deluxe-edition.json"
@@ -75831,6 +75891,11 @@
       "igdb_id": 152932,
       "game_name": "Fastlane Bowling",
       "file": "missing/F/152932-fastlane-bowling.json"
+    },
+    {
+      "igdb_id": 152289,
+      "game_name": "Fat 2 Fit!",
+      "file": "missing/F/152289-fat-2-fit.json"
     },
     {
       "igdb_id": 179145,
@@ -80501,6 +80566,11 @@
       "igdb_id": 261524,
       "game_name": "Flown",
       "file": "missing/F/261524-flown.json"
+    },
+    {
+      "igdb_id": 152329,
+      "game_name": "Flowstone Saga",
+      "file": "missing/F/152329-flowstone-saga.json"
     },
     {
       "igdb_id": 24987,
@@ -86338,6 +86408,11 @@
       "file": "missing/G/60538-galaxy-trucker.json"
     },
     {
+      "igdb_id": 152319,
+      "game_name": "Galaxy Warrior",
+      "file": "missing/G/152319-galaxy-warrior.json"
+    },
+    {
       "igdb_id": 385552,
       "game_name": "Galaxy Wars 4",
       "file": "missing/G/385552-galaxy-wars-4.json"
@@ -86876,6 +86951,11 @@
       "igdb_id": 211210,
       "game_name": "Gangstar New York",
       "file": "missing/G/211210-gangstar-new-york.json"
+    },
+    {
+      "igdb_id": 152331,
+      "game_name": "Gangstar: Miami Vindication",
+      "file": "missing/G/152331-gangstar-miami-vindication.json"
     },
     {
       "igdb_id": 282577,
@@ -88698,6 +88778,11 @@
       "file": "missing/G/33079-ghost-town-mine-ride-and-shootin-gallery.json"
     },
     {
+      "igdb_id": 152317,
+      "game_name": "Ghost Town: Dawn of War",
+      "file": "missing/G/152317-ghost-town-dawn-of-war.json"
+    },
+    {
       "igdb_id": 208607,
       "game_name": "Ghost Trap",
       "file": "missing/G/208607-ghost-trap.json"
@@ -89836,6 +89921,11 @@
       "igdb_id": 376467,
       "game_name": "Go Ape Ship!",
       "file": "missing/G/376467-go-ape-ship.json"
+    },
+    {
+      "igdb_id": 152306,
+      "game_name": "Go Ballistic",
+      "file": "missing/G/152306-go-ballistic.json"
     },
     {
       "igdb_id": 269016,
@@ -99633,6 +99723,11 @@
       "file": "missing/H/332442-her-love-like-poison.json"
     },
     {
+      "igdb_id": 152295,
+      "game_name": "Her New Memory",
+      "file": "missing/H/152295-her-new-memory.json"
+    },
+    {
       "igdb_id": 217541,
       "game_name": "Her New Memory: BDSM",
       "file": "missing/H/217541-her-new-memory-bdsm.json"
@@ -104981,6 +105076,11 @@
       "igdb_id": 296920,
       "game_name": "Hunt: Showdown 1896 - The Son of Gunpowder",
       "file": "missing/H/296920-hunt-showdown-1896-the-son-of-gunpowder.json"
+    },
+    {
+      "igdb_id": 152327,
+      "game_name": "Huntdown: Collector's Edition",
+      "file": "missing/H/152327-huntdown-collectors-edition.json"
     },
     {
       "igdb_id": 192461,
@@ -112191,6 +112291,11 @@
       "igdb_id": 363412,
       "game_name": "IWL: Interstellar Wrestling League - 036: Mod - Jacob's Ladder",
       "file": "missing/I/363412-iwl-interstellar-wrestling-league-036-mod-jacobs-ladder.json"
+    },
+    {
+      "igdb_id": 152292,
+      "game_name": "Ixion Saga",
+      "file": "missing/I/152292-ixion-saga.json"
     },
     {
       "igdb_id": 292515,
@@ -126388,6 +126493,11 @@
       "file": "missing/L/93030-live-ammo.json"
     },
     {
+      "igdb_id": 152334,
+      "game_name": "Live by the Sword: Tactics",
+      "file": "missing/L/152334-live-by-the-sword-tactics.json"
+    },
+    {
       "igdb_id": 215920,
       "game_name": "Live Cycling Manager 2022",
       "file": "missing/L/215920-live-cycling-manager-2022.json"
@@ -127121,6 +127231,11 @@
       "igdb_id": 250006,
       "game_name": "Lonely Path",
       "file": "missing/L/250006-lonely-path.json"
+    },
+    {
+      "igdb_id": 152279,
+      "game_name": "Lonely People Potion Shop",
+      "file": "missing/L/152279-lonely-people-potion-shop.json"
     },
     {
       "igdb_id": 25266,
@@ -129521,6 +129636,11 @@
       "igdb_id": 115903,
       "game_name": "Lust from Beyond",
       "file": "missing/L/115903-lust-from-beyond.json"
+    },
+    {
+      "igdb_id": 152313,
+      "game_name": "Lust From Beyond: M Edition",
+      "file": "missing/L/152313-lust-from-beyond-m-edition.json"
     },
     {
       "igdb_id": 264032,
@@ -133466,6 +133586,11 @@
       "igdb_id": 45327,
       "game_name": "Marsport",
       "file": "missing/M/45327-marsport.json"
+    },
+    {
+      "igdb_id": 152337,
+      "game_name": "Marsupilami: Hoobadventure - Tropical Edition",
+      "file": "missing/M/152337-marsupilami-hoobadventure-tropical-edition.json"
     },
     {
       "igdb_id": 169465,
@@ -138758,6 +138883,11 @@
       "file": "missing/M/293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json"
     },
     {
+      "igdb_id": 152312,
+      "game_name": "Microsoft Flight Simulator: Top Gun - Maverick",
+      "file": "missing/M/152312-microsoft-flight-simulator-top-gun-maverick.json"
+    },
+    {
       "igdb_id": 22620,
       "game_name": "Microsoft Return of Arcade",
       "file": "missing/M/22620-microsoft-return-of-arcade.json"
@@ -139491,6 +139621,11 @@
       "igdb_id": 242561,
       "game_name": "Mimpi Hidden Objects",
       "file": "missing/M/242561-mimpi-hidden-objects.json"
+    },
+    {
+      "igdb_id": 152408,
+      "game_name": "Mina & Michi",
+      "file": "missing/M/152408-mina-and-michi.json"
     },
     {
       "igdb_id": 305750,
@@ -146911,6 +147046,11 @@
       "igdb_id": 331358,
       "game_name": "My Cat: Virtual Pet Simulator",
       "file": "missing/M/331358-my-cat-virtual-pet-simulator.json"
+    },
+    {
+      "igdb_id": 152298,
+      "game_name": "My Catgirl Maid Thinks She Runs the Place",
+      "file": "missing/M/152298-my-catgirl-maid-thinks-she-runs-the-place.json"
     },
     {
       "igdb_id": 223691,
@@ -159868,6 +160008,11 @@
       "file": "missing/O/193444-ortharion-the-last-battle.json"
     },
     {
+      "igdb_id": 152322,
+      "game_name": "Ortho",
+      "file": "missing/O/152322-ortho.json"
+    },
+    {
       "igdb_id": 323519,
       "game_name": "Ortunia Mysteries: Where Did Everybody Go?",
       "file": "missing/O/323519-ortunia-mysteries-where-did-everybody-go.json"
@@ -163993,6 +164138,11 @@
       "file": "missing/P/150141-paw-patrol-bundle.json"
     },
     {
+      "igdb_id": 152302,
+      "game_name": "Paw Patrol the Movie: Adventure City Calls",
+      "file": "missing/P/152302-paw-patrol-the-movie-adventure-city-calls.json"
+    },
+    {
       "igdb_id": 294467,
       "game_name": "Paw Patrol: Laptop Infantil",
       "file": "missing/P/294467-paw-patrol-laptop-infantil.json"
@@ -164761,6 +164911,11 @@
       "igdb_id": 93575,
       "game_name": "Peppy",
       "file": "missing/P/93575-peppy.json"
+    },
+    {
+      "igdb_id": 152303,
+      "game_name": "Peppy's Adventure",
+      "file": "missing/P/152303-peppys-adventure.json"
     },
     {
       "igdb_id": 154545,
@@ -170663,6 +170818,11 @@
       "file": "missing/P/220650-police-transporter-simulator.json"
     },
     {
+      "igdb_id": 152332,
+      "game_name": "Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu!",
+      "file": "missing/P/152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json"
+    },
+    {
       "igdb_id": 82131,
       "game_name": "Police: Chase Down",
       "file": "missing/P/82131-police-chase-down.json"
@@ -174258,6 +174418,11 @@
       "file": "missing/P/258985-project-vostok.json"
     },
     {
+      "igdb_id": 152272,
+      "game_name": "Project Warlock II",
+      "file": "missing/P/152272-project-warlock-ii.json"
+    },
+    {
       "igdb_id": 306099,
       "game_name": "Project Werewolf",
       "file": "missing/P/306099-project-werewolf.json"
@@ -175133,6 +175298,11 @@
       "file": "missing/P/208964-pullem-all.json"
     },
     {
+      "igdb_id": 152277,
+      "game_name": "Pullfrog",
+      "file": "missing/P/152277-pullfrog.json"
+    },
+    {
       "igdb_id": 231910,
       "game_name": "Pulling Pin: Pull the Pin",
       "file": "missing/P/231910-pulling-pin-pull-the-pin.json"
@@ -175641,6 +175811,11 @@
       "igdb_id": 243709,
       "game_name": "Push-Up T-Rex",
       "file": "missing/P/243709-push-up-t-rex.json"
+    },
+    {
+      "igdb_id": 152281,
+      "game_name": "Pushamo",
+      "file": "missing/P/152281-pushamo.json"
     },
     {
       "igdb_id": 369026,
@@ -177341,6 +177516,11 @@
       "igdb_id": 229076,
       "game_name": "Quietly",
       "file": "missing/Q/229076-quietly.json"
+    },
+    {
+      "igdb_id": 152307,
+      "game_name": "QuietMansion1",
+      "file": "missing/Q/152307-quietmansion1.json"
     },
     {
       "igdb_id": 374046,
@@ -182041,6 +182221,11 @@
       "igdb_id": 377612,
       "game_name": "Republic at War",
       "file": "missing/R/377612-republic-at-war.json"
+    },
+    {
+      "igdb_id": 152324,
+      "game_name": "Republique: Anniversary Edition",
+      "file": "missing/R/152324-republique-anniversary-edition.json"
     },
     {
       "igdb_id": 127126,
@@ -187648,6 +187833,11 @@
       "file": "missing/R/94245-rtl-skispringen-2003.json"
     },
     {
+      "igdb_id": 152301,
+      "game_name": "RTL Winter Games 2007",
+      "file": "missing/R/152301-rtl-winter-games-2007.json"
+    },
+    {
       "igdb_id": 258455,
       "game_name": "Ru Lin Wai Shi Fan Jin",
       "file": "missing/R/258455-ru-lin-wai-shi-fan-jin.json"
@@ -189031,6 +189221,11 @@
       "igdb_id": 127529,
       "game_name": "Saber Fight VR",
       "file": "missing/S/127529-saber-fight-vr.json"
+    },
+    {
+      "igdb_id": 152309,
+      "game_name": "Saber Punks",
+      "file": "missing/S/152309-saber-punks.json"
     },
     {
       "igdb_id": 328452,
@@ -190696,6 +190891,11 @@
       "igdb_id": 333008,
       "game_name": "Sapling Wars",
       "file": "missing/S/333008-sapling-wars.json"
+    },
+    {
+      "igdb_id": 152305,
+      "game_name": "Sapo Xulé: O Mestre do Kung Fu",
+      "file": "missing/S/152305-sapo-xule-o-mestre-do-kung-fu.json"
     },
     {
       "igdb_id": 84282,
@@ -195886,6 +196086,11 @@
       "igdb_id": 340377,
       "game_name": "Shelter from the Storm",
       "file": "missing/S/340377-shelter-from-the-storm.json"
+    },
+    {
+      "igdb_id": 152285,
+      "game_name": "Sheltered 2",
+      "file": "missing/S/152285-sheltered-2.json"
     },
     {
       "igdb_id": 186885,
@@ -216488,6 +216693,11 @@
       "file": "missing/S/331134-super-magic-chess.json"
     },
     {
+      "igdb_id": 152315,
+      "game_name": "Super Magro World",
+      "file": "missing/S/152315-super-magro-world.json"
+    },
+    {
       "igdb_id": 37814,
       "game_name": "Super Mahjong",
       "file": "missing/S/37814-super-mahjong.json"
@@ -227408,6 +227618,11 @@
       "file": "missing/T/268469-the-crypts.json"
     },
     {
+      "igdb_id": 152273,
+      "game_name": "The Crystal Golem",
+      "file": "missing/T/152273-the-crystal-golem.json"
+    },
+    {
       "igdb_id": 151716,
       "game_name": "The Crystal Rainforest",
       "file": "missing/T/151716-the-crystal-rainforest.json"
@@ -228771,6 +228986,11 @@
       "igdb_id": 274182,
       "game_name": "The Farside of Titan",
       "file": "missing/T/274182-the-farside-of-titan.json"
+    },
+    {
+      "igdb_id": 152308,
+      "game_name": "The Fast and The Furious",
+      "file": "missing/T/152308-the-fast-and-the-furious.json"
     },
     {
       "igdb_id": 211209,
@@ -242793,6 +243013,11 @@
       "file": "missing/T/171635-tom-clancys-ghost-recon-future-soldier-arctic-strike.json"
     },
     {
+      "igdb_id": 152333,
+      "game_name": "Tom Clancy's Ghost Recon: Future Soldier / Tom Clancy's Ghost Recon: Advanced Warfighter 2",
+      "file": "missing/T/152333-tom-clancys-ghost-recon-future-soldier-tom-clancys-ghost-recon-advanced-warfighter-2.json"
+    },
+    {
       "igdb_id": 1296,
       "game_name": "Tom Clancy's Ghost Recon: Island Thunder",
       "file": "missing/T/1296-tom-clancys-ghost-recon-island-thunder.json"
@@ -242831,6 +243056,16 @@
       "igdb_id": 119262,
       "game_name": "Tom Clancy's Rainbow Six Extraction",
       "file": "missing/T/119262-tom-clancys-rainbow-six-extraction.json"
+    },
+    {
+      "igdb_id": 152335,
+      "game_name": "Tom Clancy's Rainbow Six Extraction: Deluxe Edition",
+      "file": "missing/T/152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 152336,
+      "game_name": "Tom Clancy's Rainbow Six Extraction: Limited Edition",
+      "file": "missing/T/152336-tom-clancys-rainbow-six-extraction-limited-edition.json"
     },
     {
       "igdb_id": 55167,
@@ -248886,6 +249121,11 @@
       "igdb_id": 47986,
       "game_name": "Tungulus",
       "file": "missing/T/47986-tungulus.json"
+    },
+    {
+      "igdb_id": 152320,
+      "game_name": "Tunguska: The Visitation",
+      "file": "missing/T/152320-tunguska-the-visitation.json"
     },
     {
       "igdb_id": 338030,
@@ -266631,6 +266871,11 @@
       "igdb_id": 189148,
       "game_name": "You Are A Pilot",
       "file": "missing/Y/189148-you-are-a-pilot.json"
+    },
+    {
+      "igdb_id": 152293,
+      "game_name": "You Are Being Followed",
+      "file": "missing/Y/152293-you-are-being-followed.json"
     },
     {
       "igdb_id": 248919,
