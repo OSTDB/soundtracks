@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
 | Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
 | Mars Base Excavation Incident | 271746 | [271746-mars-base-excavation-incident.json](./271746-mars-base-excavation-incident.json) |
+| Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
@@ -913,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Puzzle: Destruction | 151211 | [151211-masters-of-puzzle-destruction.json](./151211-masters-of-puzzle-destruction.json) |
 | Masters of Puzzle: Dream of Arcadia | 151210 | [151210-masters-of-puzzle-dream-of-arcadia.json](./151210-masters-of-puzzle-dream-of-arcadia.json) |
 | Masters of Puzzle: Echoes | 151209 | [151209-masters-of-puzzle-echoes.json](./151209-masters-of-puzzle-echoes.json) |
+| Masters of Puzzle: In Serenity | 151217 | [151217-masters-of-puzzle-in-serenity.json](./151217-masters-of-puzzle-in-serenity.json) |
 | Masters of the Universe: The Movie | 30904 | [30904-masters-of-the-universe-the-movie.json](./30904-masters-of-the-universe-the-movie.json) |
 | Masters of the Universe: The Power of He-Man | 5683 | [5683-masters-of-the-universe-the-power-of-he-man.json](./5683-masters-of-the-universe-the-power-of-he-man.json) |
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
@@ -3714,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mycro | 152858 | [152858-mycro.json](./152858-mycro.json) |
 | MyDream | 35794 | [35794-mydream.json](./35794-mydream.json) |
 | MyDU | 365704 | [365704-mydu.json](./365704-mydu.json) |
+| Mygnar | 151130 | [151130-mygnar.json](./151130-mygnar.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
 | MyHoriZen | 153935 | [153935-myhorizen.json](./153935-myhorizen.json) |
 | Myles Wright: Ace Attorney | 303775 | [303775-myles-wright-ace-attorney.json](./303775-myles-wright-ace-attorney.json) |
