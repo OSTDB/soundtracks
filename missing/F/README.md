@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Future | 249482 | [249482-fake-future.json](./249482-fake-future.json) |
 | Fake Happy End | 29922 | [29922-fake-happy-end.json](./29922-fake-happy-end.json) |
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
+| Falafel Tycoon | 152837 | [152837-falafel-tycoon.json](./152837-falafel-tycoon.json) |
 | Falcão & a cornopopéia brasileira | 245041 | [245041-falcao-and-a-cornopopeia-brasileira.json](./245041-falcao-and-a-cornopopeia-brasileira.json) |
 | Falcata | 125459 | [125459-falcata.json](./125459-falcata.json) |
 | Falco Tunes | 301843 | [301843-falco-tunes.json](./301843-falco-tunes.json) |
@@ -1056,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
 | Fish Tank Live | 230849 | [230849-fish-tank-live.json](./230849-fish-tank-live.json) |
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
+| Fishards | 152852 | [152852-fishards.json](./152852-fishards.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
 | Fisher-Price Dream Dollhouse | 228449 | [228449-fisher-price-dream-dollhouse.json](./228449-fisher-price-dream-dollhouse.json) |
 | Fisher-Price: I Can Remember | 26659 | [26659-fisher-price-i-can-remember.json](./26659-fisher-price-i-can-remember.json) |
@@ -2156,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
 | Frostpunk: Console Edition | 117420 | [117420-frostpunk-console-edition.json](./117420-frostpunk-console-edition.json) |
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
+| Frosty Jumper | 152825 | [152825-frosty-jumper.json](./152825-frosty-jumper.json) |
 | Frozen | 206151 | [206151-frozen.json](./206151-frozen.json) |
 | Frozen Cortex | 16521 | [16521-frozen-cortex.json](./16521-frozen-cortex.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
