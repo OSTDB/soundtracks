@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Witch in Time: Yamada-kun to Nananin no Majo | 292009 | [292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json](./292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json) |
 | A woman goes to a private games industry party | 135282 | [135282-a-woman-goes-to-a-private-games-industry-party.json](./135282-a-woman-goes-to-a-private-games-industry-party.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
+| A Worker's Guide to Espionage | 144245 | [144245-a-workers-guide-to-espionage.json](./144245-a-workers-guide-to-espionage.json) |
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
 | A-Force: Armour Force | 62182 | [62182-a-force-armour-force.json](./62182-a-force-armour-force.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Gunners HD Edition | 87854 | [87854-assault-gunners-hd-edition.json](./87854-assault-gunners-hd-edition.json) |
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
 | Assault on Port Stanley | 12981 | [12981-assault-on-port-stanley.json](./12981-assault-on-port-stanley.json) |
+| Assault on Tei Tenga | 144264 | [144264-assault-on-tei-tenga.json](./144264-assault-on-tei-tenga.json) |
 | Assault Rei Play | 109004 | [109004-assault-rei-play.json](./109004-assault-rei-play.json) |
 | Assault Sector | 245875 | [245875-assault-sector.json](./245875-assault-sector.json) |
 | Assault Spy | 86514 | [86514-assault-spy.json](./86514-assault-spy.json) |
