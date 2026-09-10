@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
 | Bizzarioware | 185148 | [185148-bizzarioware.json](./185148-bizzarioware.json) |
 | BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
+| Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Beacon: Forsaken Eternity | 349327 | [349327-black-beacon-forsaken-eternity.json](./349327-black-beacon-forsaken-eternity.json) |
 | Black Belt | 12257 | [12257-black-belt.json](./12257-black-belt.json) |
@@ -1606,6 +1607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Weapon Merchant | 213987 | [213987-blacksmith-weapon-merchant.json](./213987-blacksmith-weapon-merchant.json) |
 | Blacktail | 152129 | [152129-blacktail.json](./152129-blacktail.json) |
 | Blackthorn Arena | 127233 | [127233-blackthorn-arena.json](./127233-blackthorn-arena.json) |
+| BlackThorne Keep: Chronicles | 159262 | [159262-blackthorne-keep-chronicles.json](./159262-blackthorne-keep-chronicles.json) |
 | Blackwater 100 | 92540 | [92540-blackwater-100.json](./92540-blackwater-100.json) |
 | Blackwoods | 312577 | [312577-blackwoods.json](./312577-blackwoods.json) |
 | Blade | 14312 | [14312-blade.json](./14312-blade.json) |
@@ -1974,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Reflection Sun | 396235 | [396235-blue-reflection-sun.json](./396235-blue-reflection-sun.json) |
 | Blue Reflection: Second Light | 396237 | [396237-blue-reflection-second-light.json](./396237-blue-reflection-second-light.json) |
 | Blue Revolver | 24928 | [24928-blue-revolver.json](./24928-blue-revolver.json) |
+| Blue Ribbon Darts | 159275 | [159275-blue-ribbon-darts.json](./159275-blue-ribbon-darts.json) |
 | Blue Ridge Hunting | 265390 | [265390-blue-ridge-hunting.json](./265390-blue-ridge-hunting.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
