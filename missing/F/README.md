@@ -2014,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeze: The Escape | 79902 | [79902-freeze-the-escape.json](./79902-freeze-the-escape.json) |
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
 | FrenQuest | 307604 | [307604-frenquest.json](./307604-frenquest.json) |
+| FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
 | Frenzic: Overtime | 152926 | [152926-frenzic-overtime.json](./152926-frenzic-overtime.json) |
 | Frenzy | 13717 | [13717-frenzy.json](./13717-frenzy.json) |
 | Frequency Dissonance | 199120 | [199120-frequency-dissonance.json](./199120-frequency-dissonance.json) |
