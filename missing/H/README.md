@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli War | 243934 | [243934-heli-war.json](./243934-heli-war.json) |
 | Heli-Cats | 238758 | [238758-heli-cats.json](./238758-heli-cats.json) |
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
+| Heliconian: Starship Crew Control | 133403 | [133403-heliconian-starship-crew-control.json](./133403-heliconian-starship-crew-control.json) |
 | Helicopter Flight Simulator | 319980 | [319980-helicopter-flight-simulator.json](./319980-helicopter-flight-simulator.json) |
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
 | Helicopter Mission | 73853 | [73853-helicopter-mission.json](./73853-helicopter-mission.json) |
@@ -733,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
+| Hell Can Wait | 133412 | [133412-hell-can-wait.json](./133412-hell-can-wait.json) |
 | Hell Clock | 324256 | [324256-hell-clock.json](./324256-hell-clock.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
@@ -1151,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
 | HexRoller | 253015 | [253015-hexroller.json](./253015-hexroller.json) |
 | HexTD | 212834 | [212834-hextd.json](./212834-hextd.json) |
+| Hexterminate | 133411 | [133411-hexterminate.json](./133411-hexterminate.json) |
 | HextriX | 105912 | [105912-hextrix.json](./105912-hextrix.json) |
 | Hexual Deflection | 308552 | [308552-hexual-deflection.json](./308552-hexual-deflection.json) |
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
