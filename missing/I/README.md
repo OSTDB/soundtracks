@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
 | It's Dungeon Time! | 172748 | [172748-its-dungeon-time.json](./172748-its-dungeon-time.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
+| It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
 | It's Literally Just Mowing | 210675 | [210675-its-literally-just-mowing.json](./210675-its-literally-just-mowing.json) |
 | It's Mealtime! | 167247 | [167247-its-mealtime.json](./167247-its-mealtime.json) |
 | It's Not Me, It's My Basement | 176514 | [176514-its-not-me-its-my-basement.json](./176514-its-not-me-its-my-basement.json) |
