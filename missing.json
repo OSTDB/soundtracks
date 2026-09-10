@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T04:11:20.273Z",
-  "total_missing": 52860,
+  "generated_at": "2026-09-10T04:18:33.279Z",
+  "total_missing": 52910,
   "games": [
     {
       "igdb_id": 306086,
@@ -9026,6 +9026,11 @@
       "igdb_id": 293085,
       "game_name": "Alonecats",
       "file": "missing/A/293085-alonecats.json"
+    },
+    {
+      "igdb_id": 163364,
+      "game_name": "Along Came A Spider",
+      "file": "missing/A/163364-along-came-a-spider.json"
     },
     {
       "igdb_id": 326086,
@@ -19606,6 +19611,11 @@
       "igdb_id": 108486,
       "game_name": "Balls Rolling-Plumber, Slither, Line, Fill & Fun!",
       "file": "missing/B/108486-balls-rolling-plumber-slither-line-fill-and-fun.json"
+    },
+    {
+      "igdb_id": 163395,
+      "game_name": "Balls! Balls!",
+      "file": "missing/B/163395-balls-balls.json"
     },
     {
       "igdb_id": 31580,
@@ -33188,6 +33198,11 @@
       "file": "missing/B/130938-bus-simulator.json"
     },
     {
+      "igdb_id": 163355,
+      "game_name": "Bus Simulator 16: Man Lion's City CNG Pack",
+      "file": "missing/B/163355-bus-simulator-16-man-lions-city-cng-pack.json"
+    },
+    {
       "igdb_id": 225061,
       "game_name": "Bus Simulator 18: Man Bus Pack 1",
       "file": "missing/B/225061-bus-simulator-18-man-bus-pack-1.json"
@@ -33196,6 +33211,11 @@
       "igdb_id": 225062,
       "game_name": "Bus Simulator 18: Mercedes-Benz Bus Pack 1",
       "file": "missing/B/225062-bus-simulator-18-mercedes-benz-bus-pack-1.json"
+    },
+    {
+      "igdb_id": 163354,
+      "game_name": "Bus Simulator 18: Official Map Extension",
+      "file": "missing/B/163354-bus-simulator-18-official-map-extension.json"
     },
     {
       "igdb_id": 213951,
@@ -38046,6 +38066,11 @@
       "igdb_id": 177011,
       "game_name": "Chain Champs",
       "file": "missing/C/177011-chain-champs.json"
+    },
+    {
+      "igdb_id": 163400,
+      "game_name": "Chain of Eroticism",
+      "file": "missing/C/163400-chain-of-eroticism.json"
     },
     {
       "igdb_id": 200106,
@@ -49878,6 +49903,11 @@
       "file": "missing/C/256559-cute-capybaras.json"
     },
     {
+      "igdb_id": 163399,
+      "game_name": "Cute Cats",
+      "file": "missing/C/163399-cute-cats.json"
+    },
+    {
       "igdb_id": 195170,
       "game_name": "Cute Cats 2",
       "file": "missing/C/195170-cute-cats-2.json"
@@ -52056,6 +52086,11 @@
       "igdb_id": 296660,
       "game_name": "Darkchaser: Battletide",
       "file": "missing/D/296660-darkchaser-battletide.json"
+    },
+    {
+      "igdb_id": 163397,
+      "game_name": "DarkCoating",
+      "file": "missing/D/163397-darkcoating.json"
     },
     {
       "igdb_id": 331684,
@@ -64678,6 +64713,11 @@
       "file": "missing/D/391579-dungeon-apollonios.json"
     },
     {
+      "igdb_id": 163396,
+      "game_name": "Dungeon Arena",
+      "file": "missing/D/163396-dungeon-arena.json"
+    },
+    {
       "igdb_id": 167843,
       "game_name": "Dungeon Arena: Arena Alien planet",
       "file": "missing/D/167843-dungeon-arena-arena-alien-planet.json"
@@ -69676,6 +69716,11 @@
       "igdb_id": 303801,
       "game_name": "Equiverse",
       "file": "missing/E/303801-equiverse.json"
+    },
+    {
+      "igdb_id": 163356,
+      "game_name": "Era of Samurai: Code of Love",
+      "file": "missing/E/163356-era-of-samurai-code-of-love.json"
     },
     {
       "igdb_id": 247534,
@@ -84903,9 +84948,59 @@
       "file": "missing/G/131610-galactic-center-vr.json"
     },
     {
+      "igdb_id": 163371,
+      "game_name": "Galactic Civilizations III: Lost Treasures DLC",
+      "file": "missing/G/163371-galactic-civilizations-iii-lost-treasures-dlc.json"
+    },
+    {
+      "igdb_id": 163374,
+      "game_name": "Galactic Civilizations III: Map Pack DLC",
+      "file": "missing/G/163374-galactic-civilizations-iii-map-pack-dlc.json"
+    },
+    {
+      "igdb_id": 163377,
+      "game_name": "Galactic Civilizations III: Mega Events DLC",
+      "file": "missing/G/163377-galactic-civilizations-iii-mega-events-dlc.json"
+    },
+    {
+      "igdb_id": 163378,
+      "game_name": "Galactic Civilizations III: Mercenaries Expansion Pack",
+      "file": "missing/G/163378-galactic-civilizations-iii-mercenaries-expansion-pack.json"
+    },
+    {
+      "igdb_id": 163380,
+      "game_name": "Galactic Civilizations III: Precursor Worlds DLC",
+      "file": "missing/G/163380-galactic-civilizations-iii-precursor-worlds-dlc.json"
+    },
+    {
+      "igdb_id": 163379,
+      "game_name": "Galactic Civilizations III: Retribution Expansion",
+      "file": "missing/G/163379-galactic-civilizations-iii-retribution-expansion.json"
+    },
+    {
+      "igdb_id": 163375,
+      "game_name": "Galactic Civilizations III: Revenge of the Snathi DLC",
+      "file": "missing/G/163375-galactic-civilizations-iii-revenge-of-the-snathi-dlc.json"
+    },
+    {
       "igdb_id": 19610,
       "game_name": "Galactic Civilizations III: Rise of the Terrans",
       "file": "missing/G/19610-galactic-civilizations-iii-rise-of-the-terrans.json"
+    },
+    {
+      "igdb_id": 163370,
+      "game_name": "Galactic Civilizations III: Rise of the Terrans DLC",
+      "file": "missing/G/163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json"
+    },
+    {
+      "igdb_id": 163382,
+      "game_name": "Galactic Civilizations III: Villains of Star Control - Origins",
+      "file": "missing/G/163382-galactic-civilizations-iii-villains-of-star-control-origins.json"
+    },
+    {
+      "igdb_id": 163381,
+      "game_name": "Galactic Civilizations III: Worlds in Crisis DLC",
+      "file": "missing/G/163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json"
     },
     {
       "igdb_id": 277000,
@@ -110938,6 +111033,11 @@
       "file": "missing/J/394188-jack-and-the-beanstalk.json"
     },
     {
+      "igdb_id": 163406,
+      "game_name": "Jack and the Beanstalk Jigsaw Puzzle",
+      "file": "missing/J/163406-jack-and-the-beanstalk-jigsaw-puzzle.json"
+    },
+    {
       "igdb_id": 210045,
       "game_name": "Jack Attack 2",
       "file": "missing/J/210045-jack-attack-2.json"
@@ -111341,6 +111441,11 @@
       "igdb_id": 321173,
       "game_name": "Jantei Monogatari 3: Saver Angels",
       "file": "missing/J/321173-jantei-monogatari-3-saver-angels.json"
+    },
+    {
+      "igdb_id": 163404,
+      "game_name": "Janusz: The Handyman Simulator",
+      "file": "missing/J/163404-janusz-the-handyman-simulator.json"
     },
     {
       "igdb_id": 334660,
@@ -112246,6 +112351,11 @@
       "igdb_id": 104688,
       "game_name": "Jigsaw Tour 4",
       "file": "missing/J/104688-jigsaw-tour-4.json"
+    },
+    {
+      "igdb_id": 163405,
+      "game_name": "Jigsaw With Animals",
+      "file": "missing/J/163405-jigsaw-with-animals.json"
     },
     {
       "igdb_id": 53249,
@@ -165498,6 +165608,26 @@
       "file": "missing/P/267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json"
     },
     {
+      "igdb_id": 163410,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Distant Worlds",
+      "file": "missing/P/163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json"
+    },
+    {
+      "igdb_id": 163407,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Fairies",
+      "file": "missing/P/163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json"
+    },
+    {
+      "igdb_id": 163409,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Mechs",
+      "file": "missing/P/163409-pixel-puzzles-illustrations-and-anime-jigsaw-pack-mechs.json"
+    },
+    {
+      "igdb_id": 163408,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Ninja Girls",
+      "file": "missing/P/163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json"
+    },
+    {
       "igdb_id": 246099,
       "game_name": "Pixel Quest",
       "file": "missing/P/246099-pixel-quest.json"
@@ -170926,6 +171056,11 @@
       "igdb_id": 319591,
       "game_name": "Program Pack 4",
       "file": "missing/P/319591-program-pack-4.json"
+    },
+    {
+      "igdb_id": 163360,
+      "game_name": "Programa do Ratinho",
+      "file": "missing/P/163360-programa-do-ratinho.json"
     },
     {
       "igdb_id": 199566,
@@ -177813,6 +177948,11 @@
       "file": "missing/R/380998-red-bow-strange-dream.json"
     },
     {
+      "igdb_id": 163401,
+      "game_name": "Red Brick Hotel",
+      "file": "missing/R/163401-red-brick-hotel.json"
+    },
+    {
       "igdb_id": 100165,
       "game_name": "Red Bull Air Race 2",
       "file": "missing/R/100165-red-bull-air-race-2.json"
@@ -178441,6 +178581,11 @@
       "igdb_id": 41391,
       "game_name": "Reflect World",
       "file": "missing/R/41391-reflect-world.json"
+    },
+    {
+      "igdb_id": 163398,
+      "game_name": "Reflected",
+      "file": "missing/R/163398-reflected.json"
     },
     {
       "igdb_id": 247546,
@@ -191088,6 +191233,11 @@
       "file": "missing/S/82144-seth-johnsons-sink-or-skim.json"
     },
     {
+      "igdb_id": 163363,
+      "game_name": "Setsugekka",
+      "file": "missing/S/163363-setsugekka.json"
+    },
+    {
       "igdb_id": 302683,
       "game_name": "Setsuna ni Kakeru Koi Hanabi",
       "file": "missing/S/302683-setsuna-ni-kakeru-koi-hanabi.json"
@@ -196426,6 +196576,11 @@
       "igdb_id": 27799,
       "game_name": "Skiplit",
       "file": "missing/S/27799-skiplit.json"
+    },
+    {
+      "igdb_id": 163369,
+      "game_name": "Skippy the Bot",
+      "file": "missing/S/163369-skippy-the-bot.json"
     },
     {
       "igdb_id": 257946,
@@ -217198,6 +217353,11 @@
       "file": "missing/T/109728-t3-take-the-turn.json"
     },
     {
+      "igdb_id": 163357,
+      "game_name": "Ta ga Tame ni Oni wa Naku",
+      "file": "missing/T/163357-ta-ga-tame-ni-oni-wa-naku.json"
+    },
+    {
       "igdb_id": 191239,
       "game_name": "Tabboz Simulator",
       "file": "missing/T/191239-tabboz-simulator.json"
@@ -217951,6 +218111,11 @@
       "igdb_id": 92488,
       "game_name": "Take Shape",
       "file": "missing/T/92488-take-shape.json"
+    },
+    {
+      "igdb_id": 163402,
+      "game_name": "Take town",
+      "file": "missing/T/163402-take-town.json"
     },
     {
       "igdb_id": 37795,
@@ -227076,6 +227241,11 @@
       "igdb_id": 365665,
       "game_name": "The Keisatsu 24-ji",
       "file": "missing/T/365665-the-keisatsu-24-ji.json"
+    },
+    {
+      "igdb_id": 163403,
+      "game_name": "The Key of Rednow",
+      "file": "missing/T/163403-the-key-of-rednow.json"
     },
     {
       "igdb_id": 264029,
@@ -237953,6 +238123,11 @@
       "file": "missing/T/126011-tokoros-mahjong-jr.json"
     },
     {
+      "igdb_id": 163358,
+      "game_name": "Tokoyo ni Ochiru Hana",
+      "file": "missing/T/163358-tokoyo-ni-ochiru-hana.json"
+    },
+    {
       "igdb_id": 165063,
       "game_name": "Tokyo 24-Ku",
       "file": "missing/T/165063-tokyo-24-ku.json"
@@ -243803,6 +243978,11 @@
       "file": "missing/T/37780-tsuppari-oozumou-risshin-shusse-hen.json"
     },
     {
+      "igdb_id": 163362,
+      "game_name": "Tsurezure Nikki",
+      "file": "missing/T/163362-tsurezure-nikki.json"
+    },
+    {
       "igdb_id": 37779,
       "game_name": "Tsuri Tarou",
       "file": "missing/T/37779-tsuri-tarou.json"
@@ -243816,6 +243996,11 @@
       "igdb_id": 67989,
       "game_name": "Tsuushin Taisen Mahjong: Touryuumon",
       "file": "missing/T/67989-tsuushin-taisen-mahjong-touryuumon.json"
+    },
+    {
+      "igdb_id": 163359,
+      "game_name": "Tsuyaga~ru",
+      "file": "missing/T/163359-tsuyaga-ru.json"
     },
     {
       "igdb_id": 194587,
@@ -246266,6 +246451,11 @@
       "igdb_id": 277614,
       "game_name": "Undead Mayhem",
       "file": "missing/U/277614-undead-mayhem.json"
+    },
+    {
+      "igdb_id": 163365,
+      "game_name": "Undead Pixels",
+      "file": "missing/U/163365-undead-pixels.json"
     },
     {
       "igdb_id": 327836,
@@ -253103,6 +253293,41 @@
       "file": "missing/W/200657-warhammer-40-000-dark-crusaders.json"
     },
     {
+      "igdb_id": 163389,
+      "game_name": "Warhammer 40,000: Dawn of War II - Retribution Chaos Space Marines Race Pack",
+      "file": "missing/W/163389-warhammer-40-000-dawn-of-war-ii-retribution-chaos-space-marines-race-pack.json"
+    },
+    {
+      "igdb_id": 163391,
+      "game_name": "Warhammer 40,000: Dawn of War II - Retribution Eldar Race Pack",
+      "file": "missing/W/163391-warhammer-40-000-dawn-of-war-ii-retribution-eldar-race-pack.json"
+    },
+    {
+      "igdb_id": 163393,
+      "game_name": "Warhammer 40,000: Dawn of War II - Retribution Imperial Guard Race Pack",
+      "file": "missing/W/163393-warhammer-40-000-dawn-of-war-ii-retribution-imperial-guard-race-pack.json"
+    },
+    {
+      "igdb_id": 163392,
+      "game_name": "Warhammer 40,000: Dawn of War II - Retribution Ork Race Pack",
+      "file": "missing/W/163392-warhammer-40-000-dawn-of-war-ii-retribution-ork-race-pack.json"
+    },
+    {
+      "igdb_id": 163394,
+      "game_name": "Warhammer 40,000: Dawn of War II - Retribution Space Marines Race Pack",
+      "file": "missing/W/163394-warhammer-40-000-dawn-of-war-ii-retribution-space-marines-race-pack.json"
+    },
+    {
+      "igdb_id": 163383,
+      "game_name": "Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Necron Overlord",
+      "file": "missing/W/163383-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-necron-overlord.json"
+    },
+    {
+      "igdb_id": 163388,
+      "game_name": "Warhammer 40,000: Dawn of War II - Retribution: The Last Stand Tau Commander",
+      "file": "missing/W/163388-warhammer-40-000-dawn-of-war-ii-retribution-the-last-stand-tau-commander.json"
+    },
+    {
       "igdb_id": 27768,
       "game_name": "Warhammer 40,000: Dawn of War III - Collector's Edition",
       "file": "missing/W/27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json"
@@ -253153,6 +253378,11 @@
       "file": "missing/W/111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json"
     },
     {
+      "igdb_id": 163390,
+      "game_name": "Warhammer 40,000: Space Marine - Chaos Unleashed Map Pack",
+      "file": "missing/W/163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json"
+    },
+    {
       "igdb_id": 225870,
       "game_name": "Warhammer 40,000: Space Marine - Death Guard Champion Chapter Pack DLC",
       "file": "missing/W/225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json"
@@ -253188,9 +253418,29 @@
       "file": "missing/W/370094-warhammer-40-000-space-marine-ii-space-wolves-chapter-pack.json"
     },
     {
+      "igdb_id": 163385,
+      "game_name": "Warhammer 40,000: Space Wolf - Drenn Redblade",
+      "file": "missing/W/163385-warhammer-40-000-space-wolf-drenn-redblade.json"
+    },
+    {
+      "igdb_id": 163386,
+      "game_name": "Warhammer 40,000: Space Wolf - Fall of Kanak",
+      "file": "missing/W/163386-warhammer-40-000-space-wolf-fall-of-kanak.json"
+    },
+    {
+      "igdb_id": 163384,
+      "game_name": "Warhammer 40,000: Space Wolf - Saga of the Great Awakening",
+      "file": "missing/W/163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json"
+    },
+    {
       "igdb_id": 156170,
       "game_name": "Warhammer 40,000: Space Wolf - Sentry Gun Pack",
       "file": "missing/W/156170-warhammer-40-000-space-wolf-sentry-gun-pack.json"
+    },
+    {
+      "igdb_id": 163387,
+      "game_name": "Warhammer 40,000: Space Wolf - Sigurd Ironside",
+      "file": "missing/W/163387-warhammer-40-000-space-wolf-sigurd-ironside.json"
     },
     {
       "igdb_id": 151194,
