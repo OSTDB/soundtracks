@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Time Machine | 40770 | [40770-video-time-machine.json](./40770-video-time-machine.json) |
 | Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
+| VideoHole: Episode 1 | 132757 | [132757-videohole-episode-1.json](./132757-videohole-episode-1.json) |
 | Videomation | 18309 | [18309-videomation.json](./18309-videomation.json) |
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
