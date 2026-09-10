@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: North America | 53279 | [53279-logistical-north-america.json](./53279-logistical-north-america.json) |
 | Logistical: The Lot | 53280 | [53280-logistical-the-lot.json](./53280-logistical-the-lot.json) |
 | Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
+| Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
 | Loki the Lynx | 364499 | [364499-loki-the-lynx.json](./364499-loki-the-lynx.json) |
