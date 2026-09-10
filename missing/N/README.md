@@ -1300,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novus Conquest | 248881 | [248881-novus-conquest.json](./248881-novus-conquest.json) |
 | Novus Orbis | 253583 | [253583-novus-orbis.json](./253583-novus-orbis.json) |
 | Now & Then: A Tale of the End | 255097 | [255097-now-and-then-a-tale-of-the-end.json](./255097-now-and-then-a-tale-of-the-end.json) |
+| Now Boarding | 138190 | [138190-now-boarding.json](./138190-now-boarding.json) |
 | Now Games 2 | 98969 | [98969-now-games-2.json](./98969-now-games-2.json) |
 | Now It's My Turn | 158687 | [158687-now-its-my-turn.json](./158687-now-its-my-turn.json) |
 | Now That's What I Call Sing 2 | 24961 | [24961-now-thats-what-i-call-sing-2.json](./24961-now-thats-what-i-call-sing-2.json) |
