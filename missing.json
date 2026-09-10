@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T11:04:01.291Z",
-  "total_missing": 53544,
+  "generated_at": "2026-09-10T11:11:08.470Z",
+  "total_missing": 53543,
   "games": [
     {
       "igdb_id": 306086,
@@ -1391,11 +1391,6 @@
       "igdb_id": 306699,
       "game_name": "50 Floors: The Paranormal Investigators Prologue",
       "file": "missing/0-9/306699-50-floors-the-paranormal-investigators-prologue.json"
-    },
-    {
-      "igdb_id": 174911,
-      "game_name": "50 Loops",
-      "file": "missing/0-9/174911-50-loops.json"
     },
     {
       "igdb_id": 164981,
