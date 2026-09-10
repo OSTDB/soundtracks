@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John's Tombstone | 187523 | [187523-johns-tombstone.json](./187523-johns-tombstone.json) |
 | John's Wizard Dungeon | 119738 | [119738-johns-wizard-dungeon.json](./119738-johns-wizard-dungeon.json) |
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
+| Johnny Chainsaw | 154466 | [154466-johnny-chainsaw.json](./154466-johnny-chainsaw.json) |
 | Johnny Hotshot | 21006 | [21006-johnny-hotshot.json](./21006-johnny-hotshot.json) |
 | Johnny Impossible | 21013 | [21013-johnny-impossible.json](./21013-johnny-impossible.json) |
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
