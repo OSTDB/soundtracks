@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endocrisis Hyperactive | 173294 | [173294-endocrisis-hyperactive.json](./173294-endocrisis-hyperactive.json) |
 | Endoom Mapping Contest 2024 | 299767 | [299767-endoom-mapping-contest-2024.json](./299767-endoom-mapping-contest-2024.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
+| Endro | 164971 | [164971-endro.json](./164971-endro.json) |
 | Endrr | 200690 | [200690-endrr.json](./200690-endrr.json) |
 | Endura | 301272 | [301272-endura.json](./301272-endura.json) |
 | Endurance | 204680 | [204680-endurance.json](./204680-endurance.json) |
