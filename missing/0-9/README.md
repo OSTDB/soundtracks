@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1024 Cement Mixer | 308273 | [308273-1024-cement-mixer.json](./308273-1024-cement-mixer.json) |
 | 10K & The Kriminal World: Sammy's Attack | 195765 | [195765-10k-and-the-kriminal-world-sammys-attack.json](./195765-10k-and-the-kriminal-world-sammys-attack.json) |
 | 10KoyaNI | 382189 | [382189-10koyani.json](./382189-10koyani.json) |
+| 10mg Collection | 141158 | [141158-10mg-collection.json](./141158-10mg-collection.json) |
 | 10Minutes | 258997 | [258997-10minutes.json](./258997-10minutes.json) |
 | 1112: Episode 01 | 213381 | [213381-1112-episode-01.json](./213381-1112-episode-01.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
@@ -331,7 +332,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8bit Killer | 65522 | [65522-8bit-killer.json](./65522-8bit-killer.json) |
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
-| 8bit-Collection Jaleco Vol. 02 | 97884 | [97884-8bit-collection-jaleco-vol-02.json](./97884-8bit-collection-jaleco-vol-02.json) |
 | 8Floor Bundle 3 in 1 | 273940 | [273940-8floor-bundle-3-in-1.json](./273940-8floor-bundle-3-in-1.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
 | 8Floor Bundle 4 in 1 part 6 | 334110 | [334110-8floor-bundle-4-in-1-part-6.json](./334110-8floor-bundle-4-in-1-part-6.json) |
