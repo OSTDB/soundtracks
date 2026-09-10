@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
 | Lazy Pirates | 180752 | [180752-lazy-pirates.json](./180752-lazy-pirates.json) |
+| Lazy Sweet Tycoon | 156121 | [156121-lazy-sweet-tycoon.json](./156121-lazy-sweet-tycoon.json) |
 | LazyTown Live! The Pirate Adventure | 199039 | [199039-lazytown-live-the-pirate-adventure.json](./199039-lazytown-live-the-pirate-adventure.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
 | LBX: Little Battlers eXperience | 11257 | [11257-lbx-little-battlers-experience.json](./11257-lbx-little-battlers-experience.json) |
@@ -909,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
+| Line of Sight: Starters Pack | 156102 | [156102-line-of-sight-starters-pack.json](./156102-line-of-sight-starters-pack.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
 | Lineage | 388008 | [388008-lineage.json](./388008-lineage.json) |
@@ -924,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linework | 385590 | [385590-linework.json](./385590-linework.json) |
 | Ling and the Corrupted Hollow | 391073 | [391073-ling-and-the-corrupted-hollow.json](./391073-ling-and-the-corrupted-hollow.json) |
 | LingerieS | 298038 | [298038-lingeries.json](./298038-lingeries.json) |
+| Lingering Legacy | 156086 | [156086-lingering-legacy.json](./156086-lingering-legacy.json) |
 | LingerToAlive | 231351 | [231351-lingertoalive.json](./231351-lingertoalive.json) |
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
@@ -1458,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
 | Love Colors: Pixel Seasons | 195229 | [195229-love-colors-pixel-seasons.json](./195229-love-colors-pixel-seasons.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
+| Love Cooking at Home? Turn your Hobby into a Business! | 156122 | [156122-love-cooking-at-home-turn-your-hobby-into-a-business.json](./156122-love-cooking-at-home-turn-your-hobby-into-a-business.json) |
 | Love D3ath Love | 412296 | [412296-love-d3ath-love.json](./412296-love-d3ath-love.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Delivery | 185632 | [185632-love-delivery.json](./185632-love-delivery.json) |
