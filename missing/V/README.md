@@ -211,6 +211,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VED: Purification | 367955 | [367955-ved-purification.json](./367955-ved-purification.json) |
 | Vedal's Secret | 386121 | [386121-vedals-secret.json](./386121-vedals-secret.json) |
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
+| Vega Conflict: Bastion Cruiser Pack | 168309 | [168309-vega-conflict-bastion-cruiser-pack.json](./168309-vega-conflict-bastion-cruiser-pack.json) |
+| Vega Conflict: Cavalier Cutter Pack | 168313 | [168313-vega-conflict-cavalier-cutter-pack.json](./168313-vega-conflict-cavalier-cutter-pack.json) |
+| Vega Conflict: Dread Battleship Pack | 168310 | [168310-vega-conflict-dread-battleship-pack.json](./168310-vega-conflict-dread-battleship-pack.json) |
+| Vega Conflict: Exodus Pack | 168312 | [168312-vega-conflict-exodus-pack.json](./168312-vega-conflict-exodus-pack.json) |
+| Vega Conflict: Exterminator Pack | 168311 | [168311-vega-conflict-exterminator-pack.json](./168311-vega-conflict-exterminator-pack.json) |
+| Vega Conflict: Paladin Pack | 168307 | [168307-vega-conflict-paladin-pack.json](./168307-vega-conflict-paladin-pack.json) |
+| Vega Conflict: Paragon Battleship Pack | 168308 | [168308-vega-conflict-paragon-battleship-pack.json](./168308-vega-conflict-paragon-battleship-pack.json) |
+| Vega Conflict: Punisher Cruiser Pack | 168314 | [168314-vega-conflict-punisher-cruiser-pack.json](./168314-vega-conflict-punisher-cruiser-pack.json) |
 | Vegas Casino & Slots: Slottist | 364505 | [364505-vegas-casino-and-slots-slottist.json](./364505-vegas-casino-and-slots-slottist.json) |
 | Vegas Games 2000 | 46639 | [46639-vegas-games-2000.json](./46639-vegas-games-2000.json) |
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
@@ -719,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. | 18307 | [18307-vs.json](./18307-vs.json) |
 | Vs. Collection | 37771 | [37771-vs-collection.json](./37771-vs-collection.json) |
 | Vs. Hogan's Alley | 169999 | [169999-vs-hogans-alley.json](./169999-vs-hogans-alley.json) |
+| Vs. Ladies Golf | 168330 | [168330-vs-ladies-golf.json](./168330-vs-ladies-golf.json) |
 | Vs. RetroSpecter P2: Infernadise | 378156 | [378156-vs-retrospecter-p2-infernadise.json](./378156-vs-retrospecter-p2-infernadise.json) |
 | Vs. Super Mario Bros. | 92342 | [92342-vs-super-mario-bros.json](./92342-vs-super-mario-bros.json) |
 | Vs. Urban Champion | 169998 | [169998-vs-urban-champion.json](./169998-vs-urban-champion.json) |
