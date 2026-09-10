@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T04:21:13.951Z",
-  "total_missing": 52909,
+  "generated_at": "2026-09-10T04:31:18.072Z",
+  "total_missing": 52912,
   "games": [
     {
       "igdb_id": 306086,
@@ -1286,11 +1286,6 @@
       "igdb_id": 271481,
       "game_name": "4 hours",
       "file": "missing/0-9/271481-4-hours.json"
-    },
-    {
-      "igdb_id": 302692,
-      "game_name": "4 Leaf Clovers",
-      "file": "missing/0-9/302692-4-leaf-clovers.json"
     },
     {
       "igdb_id": 165650,
@@ -165603,6 +165598,11 @@
       "file": "missing/P/267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json"
     },
     {
+      "igdb_id": 162940,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dark Sided",
+      "file": "missing/P/162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json"
+    },
+    {
       "igdb_id": 163410,
       "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Distant Worlds",
       "file": "missing/P/163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json"
@@ -165621,6 +165621,21 @@
       "igdb_id": 163408,
       "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Ninja Girls",
       "file": "missing/P/163408-pixel-puzzles-illustrations-and-anime-jigsaw-pack-ninja-girls.json"
+    },
+    {
+      "igdb_id": 162939,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Samurai",
+      "file": "missing/P/162939-pixel-puzzles-illustrations-and-anime-jigsaw-pack-samurai.json"
+    },
+    {
+      "igdb_id": 162942,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Space",
+      "file": "missing/P/162942-pixel-puzzles-illustrations-and-anime-jigsaw-pack-space.json"
+    },
+    {
+      "igdb_id": 162941,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Zombies",
+      "file": "missing/P/162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json"
     },
     {
       "igdb_id": 246099,
