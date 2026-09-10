@@ -3341,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Conquest: A Galactic Odyssey | 73295 | [73295-space-conquest-a-galactic-odyssey.json](./73295-space-conquest-a-galactic-odyssey.json) |
 | Space Contact | 340198 | [340198-space-contact.json](./340198-space-contact.json) |
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
+| Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
 | Space Debris | 103533 | [103533-space-debris.json](./103533-space-debris.json) |
@@ -3529,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spammerina | 309879 | [309879-spammerina.json](./309879-spammerina.json) |
 | Spangled | 243713 | [243713-spangled.json](./243713-spangled.json) |
 | Spanish for Everyone! | 25018 | [25018-spanish-for-everyone.json](./25018-spanish-for-everyone.json) |
+| Spanish Rage | 167802 | [167802-spanish-rage.json](./167802-spanish-rage.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
@@ -6195,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syobon Action NES Edition | 198474 | [198474-syobon-action-nes-edition.json](./198474-syobon-action-nes-edition.json) |
 | Syon | 296383 | [296383-syon.json](./296383-syon.json) |
 | Syphon Filter: Logan's Shadow | 19430 | [19430-syphon-filter-logans-shadow.json](./19430-syphon-filter-logans-shadow.json) |
+| Syrian Warfare: Return to Palmyra | 167798 | [167798-syrian-warfare-return-to-palmyra.json](./167798-syrian-warfare-return-to-palmyra.json) |
 | SyS KillMirror | 316616 | [316616-sys-killmirror.json](./316616-sys-killmirror.json) |
 | Sysop | 130950 | [130950-sysop.json](./130950-sysop.json) |
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
@@ -6206,6 +6209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Mania | 54423 | [54423-system-mania.json](./54423-system-mania.json) |
 | System Override | 277604 | [277604-system-override.json](./277604-system-override.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
+| System32 | 167763 | [167763-system32.json](./167763-system32.json) |
 | SystemCrash92 | 249505 | [249505-systemcrash92.json](./249505-systemcrash92.json) |
 | Syunsoku Mezase! Zenkoku Saikyou Runner | 222512 | [222512-syunsoku-mezase-zenkoku-saikyou-runner.json](./222512-syunsoku-mezase-zenkoku-saikyou-runner.json) |
 | Syvalion | 40249 | [40249-syvalion.json](./40249-syvalion.json) |
