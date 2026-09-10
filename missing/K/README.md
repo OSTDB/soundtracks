@@ -491,6 +491,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi to Yumemishi | 194582 | [194582-kimi-to-yumemishi.json](./194582-kimi-to-yumemishi.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kin and Conquest | 400228 | [400228-kin-and-conquest.json](./400228-kin-and-conquest.json) |
+| Kin'iro Loveriche: Golden Time | 141187 | [141187-kiniro-loveriche-golden-time.json](./141187-kiniro-loveriche-golden-time.json) |
+| Kin'iro Loveriche: Golden Time - Limited Edition | 141188 | [141188-kiniro-loveriche-golden-time-limited-edition.json](./141188-kiniro-loveriche-golden-time-limited-edition.json) |
 | Kinacoustic | 33093 | [33093-kinacoustic.json](./33093-kinacoustic.json) |
 | Kind Nature | 250958 | [250958-kind-nature.json](./250958-kind-nature.json) |
 | Kinda Heroes | 172107 | [172107-kinda-heroes.json](./172107-kinda-heroes.json) |
