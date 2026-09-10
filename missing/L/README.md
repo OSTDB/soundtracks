@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Achra | 347708 | [347708-lands-of-achra.json](./347708-lands-of-achra.json) |
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
+| Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
 | Landscaper Simulator | 406691 | [406691-landscaper-simulator.json](./406691-landscaper-simulator.json) |
 | Landshay: Event Night | 186348 | [186348-landshay-event-night.json](./186348-landshay-event-night.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
