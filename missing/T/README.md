@@ -2109,6 +2109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Pirate Adventure: Drake's Treasure | 169404 | [169404-the-last-pirate-adventure-drakes-treasure.json](./169404-the-last-pirate-adventure-drakes-treasure.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
+| The Last Queen in the Wizard Kingdom | 156184 | [156184-the-last-queen-in-the-wizard-kingdom.json](./156184-the-last-queen-in-the-wizard-kingdom.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
 | The Last Refuge | 324329 | [324329-the-last-refuge.json](./324329-the-last-refuge.json) |
 | The Last Refuge | 72109 | [72109-the-last-refuge.json](./72109-the-last-refuge.json) |
@@ -3035,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
 | The Terminator | 7688 | [7688-the-terminator.json](./7688-the-terminator.json) |
 | The Terminator: Future Shock | 8413 | [8413-the-terminator-future-shock.json](./8413-the-terminator-future-shock.json) |
+| The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
 | The Texas Chain Saw Massacre: 2003 Leatherface | 351015 | [351015-the-texas-chain-saw-massacre-2003-leatherface.json](./351015-the-texas-chain-saw-massacre-2003-leatherface.json) |
 | The Texas Chain Saw Massacre: Bones | 351017 | [351017-the-texas-chain-saw-massacre-bones.json](./351017-the-texas-chain-saw-massacre-bones.json) |
@@ -3177,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu: Sniper | 157643 | [157643-the-tower-of-tigerqiuqiu-sniper.json](./157643-the-tower-of-tigerqiuqiu-sniper.json) |
 | The Tower of TigerQiuQiu: Space Force | 157641 | [157641-the-tower-of-tigerqiuqiu-space-force.json](./157641-the-tower-of-tigerqiuqiu-space-force.json) |
 | The Tower of TigerQiuQiu: Super Tigerio | 157666 | [157666-the-tower-of-tigerqiuqiu-super-tigerio.json](./157666-the-tower-of-tigerqiuqiu-super-tigerio.json) |
+| The Tower Of TigerQiuQiu: The Deep The Hill | 156111 | [156111-the-tower-of-tigerqiuqiu-the-deep-the-hill.json](./156111-the-tower-of-tigerqiuqiu-the-deep-the-hill.json) |
 | The Tower of TigerQiuQiu: Thief Mouse | 157637 | [157637-the-tower-of-tigerqiuqiu-thief-mouse.json](./157637-the-tower-of-tigerqiuqiu-thief-mouse.json) |
 | The Tower of TigerQiuQiu: Tiger 1952 | 157638 | [157638-the-tower-of-tigerqiuqiu-tiger-1952.json](./157638-the-tower-of-tigerqiuqiu-tiger-1952.json) |
 | The Tower of TigerQiuQiu: Tiger Tank 60 | 157662 | [157662-the-tower-of-tigerqiuqiu-tiger-tank-60.json](./157662-the-tower-of-tigerqiuqiu-tiger-tank-60.json) |
@@ -3385,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
+| The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
 | The World of Marius | 369581 | [369581-the-world-of-marius.json](./369581-the-world-of-marius.json) |
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
@@ -3400,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
 | The Zombie Slayers | 329958 | [329958-the-zombie-slayers.json](./329958-the-zombie-slayers.json) |
 | The Zombie Smasher | 219279 | [219279-the-zombie-smasher.json](./219279-the-zombie-smasher.json) |
+| The Zombie's Horror | 156085 | [156085-the-zombies-horror.json](./156085-the-zombies-horror.json) |
 | The Zombiest Adventures in the Perverted Age of Enlightenment With a Pinch of Woodpunk | 28909 | [28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json](./28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json) |
 | The Zombland: Enter at Your Peril | 291244 | [291244-the-zombland-enter-at-your-peril.json](./291244-the-zombland-enter-at-your-peril.json) |
 | The Zone: Stalker Stories | 135901 | [135901-the-zone-stalker-stories.json](./135901-the-zone-stalker-stories.json) |
@@ -5008,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: PRR RF-16 'Sharknose' Loco | 162339 | [162339-train-simulator-2021-prr-rf-16-sharknose-loco.json](./162339-train-simulator-2021-prr-rf-16-sharknose-loco.json) |
 | Train Simulator 2021: Return to Maerdy Loco | 162390 | [162390-train-simulator-2021-return-to-maerdy-loco.json](./162390-train-simulator-2021-return-to-maerdy-loco.json) |
 | Train Simulator 2021: San Diego Commuter Rail F59PHI Loco | 162347 | [162347-train-simulator-2021-san-diego-commuter-rail-f59phi-loco.json](./162347-train-simulator-2021-san-diego-commuter-rail-f59phi-loco.json) |
+| Train Simulator 2021: SD70 V2 Volume 2 Loco Add-On | 156093 | [156093-train-simulator-2021-sd70-v2-volume-2-loco-add-on.json](./156093-train-simulator-2021-sd70-v2-volume-2-loco-add-on.json) |
 | Train Simulator 2021: Seaboard GE U36B Loco | 162336 | [162336-train-simulator-2021-seaboard-ge-u36b-loco.json](./162336-train-simulator-2021-seaboard-ge-u36b-loco.json) |
 | Train Simulator 2021: Settle to Carlisle Route | 162422 | [162422-train-simulator-2021-settle-to-carlisle-route.json](./162422-train-simulator-2021-settle-to-carlisle-route.json) |
 | Train Simulator 2021: Southern Pacific GS-4 Loco | 162371 | [162371-train-simulator-2021-southern-pacific-gs-4-loco.json](./162371-train-simulator-2021-southern-pacific-gs-4-loco.json) |
@@ -5314,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
 | Trench Runner! | 260984 | [260984-trench-runner.json](./260984-trench-runner.json) |
 | Trench Shooter: Warfare Tactics | 328468 | [328468-trench-shooter-warfare-tactics.json](./328468-trench-shooter-warfare-tactics.json) |
+| Trench Simulator | 156083 | [156083-trench-simulator.json](./156083-trench-simulator.json) |
 | Trench Tales | 301261 | [301261-trench-tales.json](./301261-trench-tales.json) |
 | Trench Warfare WW1: RTS Battle | 303792 | [303792-trench-warfare-ww1-rts-battle.json](./303792-trench-warfare-ww1-rts-battle.json) |
 | Trenches 2 | 23926 | [23926-trenches-2.json](./23926-trenches-2.json) |
