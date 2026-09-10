@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Disasters | 211716 | [211716-natural-disasters.json](./211716-natural-disasters.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
 | Natural: Beyond Nature | 30887 | [30887-natural-beyond-nature.json](./30887-natural-beyond-nature.json) |
+| Naturalealia: Forest Determination | 157147 | [157147-naturalealia-forest-determination.json](./157147-naturalealia-forest-determination.json) |
 | Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
 | Nature | 236548 | [236548-nature.json](./236548-nature.json) |
