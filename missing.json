@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:21:10.359Z",
+  "generated_at": "2026-09-10T12:31:09.210Z",
   "total_missing": 53750,
   "games": [
     {
@@ -1431,11 +1431,6 @@
       "igdb_id": 3435,
       "game_name": "64 Trump Collection: Alice no Waku-waku Trump World",
       "file": "missing/0-9/3435-64-trump-collection-alice-no-waku-waku-trump-world.json"
-    },
-    {
-      "igdb_id": 232139,
-      "game_name": "66 Balls",
-      "file": "missing/0-9/232139-66-balls.json"
     },
     {
       "igdb_id": 241353,
@@ -118181,6 +118176,11 @@
       "igdb_id": 119026,
       "game_name": "Kingdom of Rhea",
       "file": "missing/K/119026-kingdom-of-rhea.json"
+    },
+    {
+      "igdb_id": 154033,
+      "game_name": "Kingdom of the Untitled Magic",
+      "file": "missing/K/154033-kingdom-of-the-untitled-magic.json"
     },
     {
       "igdb_id": 235469,
