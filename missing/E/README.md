@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 100180 | [100180-equinox.json](./100180-equinox.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
+| Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
 | Erannorth Reborn | 116711 | [116711-erannorth-reborn.json](./116711-erannorth-reborn.json) |
