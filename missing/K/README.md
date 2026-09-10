@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinesis | 276713 | [276713-kinesis.json](./276713-kinesis.json) |
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
 | King 'n Knight | 153944 | [153944-king-n-knight.json](./153944-king-n-knight.json) |
+| King and Country | 151148 | [151148-king-and-country.json](./151148-king-and-country.json) |
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
@@ -507,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Bali | 50547 | [50547-king-of-bali.json](./50547-king-of-bali.json) |
 | King of BMX | 91979 | [91979-king-of-bmx.json](./91979-king-of-bmx.json) |
 | King of Booze: Drinking Game | 31590 | [31590-king-of-booze-drinking-game.json](./31590-king-of-booze-drinking-game.json) |
+| King of Cooking | 151158 | [151158-king-of-cooking.json](./151158-king-of-cooking.json) |
 | King of Defense 2: Epic TD | 227512 | [227512-king-of-defense-2-epic-td.json](./227512-king-of-defense-2-epic-td.json) |
 | King of Defense: Merge TD | 239046 | [239046-king-of-defense-merge-td.json](./239046-king-of-defense-merge-td.json) |
 | King of Drop | 245052 | [245052-king-of-drop.json](./245052-king-of-drop.json) |
@@ -949,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kratoria | 187540 | [187540-kratoria.json](./187540-kratoria.json) |
 | Krazy Ivan | 20604 | [20604-krazy-ivan.json](./20604-krazy-ivan.json) |
 | Krazy Kart! | 310968 | [310968-krazy-kart.json](./310968-krazy-kart.json) |
+| Kredolis | 151143 | [151143-kredolis.json](./151143-kredolis.json) |
 | Kreed | 95498 | [95498-kreed.json](./95498-kreed.json) |
 | Krell | 93032 | [93032-krell.json](./93032-krell.json) |
 | Kremlin 3D | 320717 | [320717-kremlin-3d.json](./320717-kremlin-3d.json) |
