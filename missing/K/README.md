@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Aces Volleyball | 352226 | [352226-killer-aces-volleyball.json](./352226-killer-aces-volleyball.json) |
 | Killer and Strawberry Plus | 172750 | [172750-killer-and-strawberry-plus.json](./172750-killer-and-strawberry-plus.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
+| Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
 | Killer Gorilla | 13733 | [13733-killer-gorilla.json](./13733-killer-gorilla.json) |
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
 | Killer Instinct | 254517 | [254517-killer-instinct.json](./254517-killer-instinct.json) |
@@ -589,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush: Battles | 365682 | [365682-kingdom-rush-battles.json](./365682-kingdom-rush-battles.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
+| Kingdom Under Fire: Gold | 135820 | [135820-kingdom-under-fire-gold.json](./135820-kingdom-under-fire-gold.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
