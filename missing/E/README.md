@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementary Arithmetic Game | 113021 | [113021-elementary-arithmetic-game.json](./113021-elementary-arithmetic-game.json) |
 | Elementary My Dear Majesty! | 35902 | [35902-elementary-my-dear-majesty.json](./35902-elementary-my-dear-majesty.json) |
 | Elementers | 304888 | [304888-elementers.json](./304888-elementers.json) |
+| Elementis | 138737 | [138737-elementis.json](./138737-elementis.json) |
 | Elementium | 83562 | [83562-elementium.json](./83562-elementium.json) |
 | Elementowers | 152841 | [152841-elementowers.json](./152841-elementowers.json) |
 | Elements | 186872 | [186872-elements.json](./186872-elements.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
 | Elysium Infinity | 237668 | [237668-elysium-infinity.json](./237668-elysium-infinity.json) |
 | Elysium Lost | 219823 | [219823-elysium-lost.json](./219823-elysium-lost.json) |
+| Elysium Online | 138714 | [138714-elysium-online.json](./138714-elysium-online.json) |
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
 | EmagineWorld | 213402 | [213402-emagineworld.json](./213402-emagineworld.json) |
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
