@@ -2523,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
+| Mom | 159247 | [159247-mom.json](./159247-mom.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Moments Out of Time | 60009 | [60009-moments-out-of-time.json](./60009-moments-out-of-time.json) |
