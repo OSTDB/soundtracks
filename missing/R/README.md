@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
+| Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Ranita Fishing | 178078 | [178078-ranita-fishing.json](./178078-ranita-fishing.json) |
 | Rank Boss Bullets | 278396 | [278396-rank-boss-bullets.json](./278396-rank-boss-bullets.json) |
@@ -568,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
+| Recipe for Disaster | 146273 | [146273-recipe-for-disaster.json](./146273-recipe-for-disaster.json) |
 | Reckless Drive | 335266 | [335266-reckless-drive.json](./335266-reckless-drive.json) |
 | Reckless Driver | 204067 | [204067-reckless-driver.json](./204067-reckless-driver.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
@@ -1375,8 +1377,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Outcast Hero | 297202 | [297202-rise-of-the-outcast-hero.json](./297202-rise-of-the-outcast-hero.json) |
 | Rise of the Pawn | 321132 | [321132-rise-of-the-pawn.json](./321132-rise-of-the-pawn.json) |
 | Rise of the Phoenix | 42650 | [42650-rise-of-the-phoenix.json](./42650-rise-of-the-phoenix.json) |
+| Rise of the Teenage Mutant Ninja Turtles: Bumper Bros | 146287 | [146287-rise-of-the-teenage-mutant-ninja-turtles-bumper-bros.json](./146287-rise-of-the-teenage-mutant-ninja-turtles-bumper-bros.json) |
 | Rise of the Teenage Mutant Ninja Turtles: City Showdown | 146288 | [146288-rise-of-the-teenage-mutant-ninja-turtles-city-showdown.json](./146288-rise-of-the-teenage-mutant-ninja-turtles-city-showdown.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Epic Mutant Missions | 146290 | [146290-rise-of-the-teenage-mutant-ninja-turtles-epic-mutant-missions.json](./146290-rise-of-the-teenage-mutant-ninja-turtles-epic-mutant-missions.json) |
+| Rise of the Teenage Mutant Ninja Turtles: Ninja Run | 146251 | [146251-rise-of-the-teenage-mutant-ninja-turtles-ninja-run.json](./146251-rise-of-the-teenage-mutant-ninja-turtles-ninja-run.json) |
+| Rise of the Teenage Mutant Ninja Turtles: Power Up! | 146285 | [146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json](./146285-rise-of-the-teenage-mutant-ninja-turtles-power-up.json) |
 | Rise of the Teenage Mutant Ninja Turtles: Road Riot | 146291 | [146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json](./146291-rise-of-the-teenage-mutant-ninja-turtles-road-riot.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
 | Rise Out | 373027 | [373027-rise-out.json](./373027-rise-out.json) |
