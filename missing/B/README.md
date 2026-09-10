@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
 | Battle Bloodlines | 338197 | [338197-battle-bloodlines.json](./338197-battle-bloodlines.json) |
 | Battle Blues | 145616 | [145616-battle-blues.json](./145616-battle-blues.json) |
+| Battle Bouncers | 134572 | [134572-battle-bouncers.json](./134572-battle-bouncers.json) |
 | Battle Brigade | 166167 | [166167-battle-brigade.json](./166167-battle-brigade.json) |
 | Battle Brothers | 14394 | [14394-battle-brothers.json](./14394-battle-brothers.json) |
 | Battle Brothers: Blazing Deserts | 155069 | [155069-battle-brothers-blazing-deserts.json](./155069-battle-brothers-blazing-deserts.json) |
@@ -1706,6 +1707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blank Page | 303266 | [303266-blank-page.json](./303266-blank-page.json) |
 | Blank Relish | 292016 | [292016-blank-relish.json](./292016-blank-relish.json) |
 | Blanket Fort | 355539 | [355539-blanket-fort.json](./355539-blanket-fort.json) |
+| Blankos Block Party | 134573 | [134573-blankos-block-party.json](./134573-blankos-block-party.json) |
 | Blankspace | 184580 | [184580-blankspace.json](./184580-blankspace.json) |
 | Blanksword | 338720 | [338720-blanksword.json](./338720-blanksword.json) |
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
@@ -1961,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
 | Bloodbath | 183067 | [183067-bloodbath.json](./183067-bloodbath.json) |
 | Bloodbaths Terrible Vacation | 274748 | [274748-bloodbaths-terrible-vacation.json](./274748-bloodbaths-terrible-vacation.json) |
+| BloodBlast VR | 134648 | [134648-bloodblast-vr.json](./134648-bloodblast-vr.json) |
 | Bloodborne PSX | 179685 | [179685-bloodborne-psx.json](./179685-bloodborne-psx.json) |
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
 | Bloodborne: Nightmare Edition | 44651 | [44651-bloodborne-nightmare-edition.json](./44651-bloodborne-nightmare-edition.json) |
