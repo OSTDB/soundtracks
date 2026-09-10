@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Roll For Two | 178602 | [178602-chocolate-roll-for-two.json](./178602-chocolate-roll-for-two.json) |
 | Chocolatio | 281996 | [281996-chocolatio.json](./281996-chocolatio.json) |
 | Choice of Alexandria | 19483 | [19483-choice-of-alexandria.json](./19483-choice-of-alexandria.json) |
+| Choice of Life: Samosbor | 158645 | [158645-choice-of-life-samosbor.json](./158645-choice-of-life-samosbor.json) |
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
 | Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
 | Chymicalia | 294180 | [294180-chymicalia.json](./294180-chymicalia.json) |
+| Cì Shā | 158675 | [158675-ci-sha.json](./158675-ci-sha.json) |
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
@@ -1662,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
 | Clicker Heroes | 15563 | [15563-clicker-heroes.json](./15563-clicker-heroes.json) |
 | ClickeRogue | 242547 | [242547-clickerogue.json](./242547-clickerogue.json) |
+| ClickMonster | 158661 | [158661-clickmonster.json](./158661-clickmonster.json) |
 | Clicko | 351597 | [351597-clicko.json](./351597-clicko.json) |
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
@@ -2470,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton 2: Saturn Tribute | 173782 | [173782-cotton-2-saturn-tribute.json](./173782-cotton-2-saturn-tribute.json) |
 | Cotton Boomerang: Saturn Tribute | 173781 | [173781-cotton-boomerang-saturn-tribute.json](./173781-cotton-boomerang-saturn-tribute.json) |
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
+| Couch Installation Service | 158679 | [158679-couch-installation-service.json](./158679-couch-installation-service.json) |
 | Couch Party Game Night | 109655 | [109655-couch-party-game-night.json](./109655-couch-party-game-night.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
@@ -3354,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
 | Cybernoid II: The Revenge | 12025 | [12025-cybernoid-ii-the-revenge.json](./12025-cybernoid-ii-the-revenge.json) |
 | Cyberpedia | 364522 | [364522-cyberpedia.json](./364522-cyberpedia.json) |
+| Cyberpunch | 158691 | [158691-cyberpunch.json](./158691-cyberpunch.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Detective | 164975 | [164975-cyberpunk-detective.json](./164975-cyberpunk-detective.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
