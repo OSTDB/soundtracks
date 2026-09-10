@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mello Haunted House | 207497 | [207497-mello-haunted-house.json](./207497-mello-haunted-house.json) |
 | Melo's Cat Cafe | 307568 | [307568-melos-cat-cafe.json](./307568-melos-cat-cafe.json) |
 | Melodive | 125465 | [125465-melodive.json](./125465-melodive.json) |
+| Melodramatica | 158665 | [158665-melodramatica.json](./158665-melodramatica.json) |
 | Melody | 414285 | [414285-melody.json](./414285-melody.json) |
 | Melody before the Dawn | 367404 | [367404-melody-before-the-dawn.json](./367404-melody-before-the-dawn.json) |
 | Melody Friends | 389980 | [389980-melody-friends.json](./389980-melody-friends.json) |
@@ -2007,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Click | 358288 | [358288-mine-click.json](./358288-mine-click.json) |
+| Mine Crazy: The Korean Grinder | 158678 | [158678-mine-crazy-the-korean-grinder.json](./158678-mine-crazy-the-korean-grinder.json) |
 | Mine Defense | 412313 | [412313-mine-defense.json](./412313-mine-defense.json) |
 | Mine Hunter | 231918 | [231918-mine-hunter.json](./231918-mine-hunter.json) |
 | Mine Memory | 278412 | [278412-mine-memory.json](./278412-mine-memory.json) |
@@ -3501,6 +3503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
 | My Home Design: Makeover Games | 239043 | [239043-my-home-design-makeover-games.json](./239043-my-home-design-makeover-games.json) |
+| My Home Poltergeist | 158692 | [158692-my-home-poltergeist.json](./158692-my-home-poltergeist.json) |
 | My Home Town | 166144 | [166144-my-home-town.json](./166144-my-home-town.json) |
 | My Horse Stories: Sunny Edition | 308807 | [308807-my-horse-stories-sunny-edition.json](./308807-my-horse-stories-sunny-edition.json) |
 | My Hotel | 199122 | [199122-my-hotel.json](./199122-my-hotel.json) |
