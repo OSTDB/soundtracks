@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Rise of the Terrans | 19610 | [19610-galactic-civilizations-iii-rise-of-the-terrans.json](./19610-galactic-civilizations-iii-rise-of-the-terrans.json) |
 | Galactic Civilizations III: Rise of the Terrans DLC | 163370 | [163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json](./163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json) |
 | Galactic Civilizations III: Villains of Star Control - Origins | 163382 | [163382-galactic-civilizations-iii-villains-of-star-control-origins.json](./163382-galactic-civilizations-iii-villains-of-star-control-origins.json) |
+| Galactic Civilizations III: Worlds in Crisis | 155080 | [155080-galactic-civilizations-iii-worlds-in-crisis.json](./155080-galactic-civilizations-iii-worlds-in-crisis.json) |
 | Galactic Civilizations III: Worlds in Crisis DLC | 163381 | [163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json](./163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json) |
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
 | Galactic Civilizations IV: Tales of the Arnor | 277001 | [277001-galactic-civilizations-iv-tales-of-the-arnor.json](./277001-galactic-civilizations-iv-tales-of-the-arnor.json) |
@@ -1634,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTI Club+: Rally Côte d'Azur | 97105 | [97105-gti-club-rally-cote-dazur.json](./97105-gti-club-rally-cote-dazur.json) |
 | GTR 2: FIA GT Racing Game | 737 | [737-gtr-2-fia-gt-racing-game.json](./737-gtr-2-fia-gt-racing-game.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
+| Guacamelee! 2: Three Enemigos Character Pack | 155046 | [155046-guacamelee-2-three-enemigos-character-pack.json](./155046-guacamelee-2-three-enemigos-character-pack.json) |
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
