@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
+| MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Path 2 | 169387 | [169387-maniac-path-2.json](./169387-maniac-path-2.json) |
 | Maniac Path 3 | 327824 | [327824-maniac-path-3.json](./327824-maniac-path-3.json) |
+| Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
@@ -756,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Dash | 224013 | [224013-mars-dash.json](./224013-mars-dash.json) |
 | Mars for the Rich | 202382 | [202382-mars-for-the-rich.json](./202382-mars-for-the-rich.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
+| Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
 | Mars Underground | 110490 | [110490-mars-underground.json](./110490-mars-underground.json) |
@@ -1171,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Fantasy: Jigsaw Puzzle - Emperor Edition | 315870 | [315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json](./315870-medieval-fantasy-jigsaw-puzzle-emperor-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Fantastic Beasts | 313149 | [313149-medieval-fantasy-jigsaw-puzzle-fantastic-beasts.json](./313149-medieval-fantasy-jigsaw-puzzle-fantastic-beasts.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Great Warriors | 313151 | [313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json](./313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json) |
+| Medieval Hero | 153367 | [153367-medieval-hero.json](./153367-medieval-hero.json) |
 | Medieval Idle: Quest | 249185 | [249185-medieval-idle-quest.json](./249185-medieval-idle-quest.json) |
 | Medieval II: Total War | 440 | [440-medieval-ii-total-war.json](./440-medieval-ii-total-war.json) |
 | Medieval II: Total War - Gold Edition | 28983 | [28983-medieval-ii-total-war-gold-edition.json](./28983-medieval-ii-total-war-gold-edition.json) |
@@ -3537,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Ice Cream Maker | 408069 | [408069-my-ice-cream-maker.json](./408069-my-ice-cream-maker.json) |
 | My Idle Witch | 395589 | [395589-my-idle-witch.json](./395589-my-idle-witch.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
+| My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
 | My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
