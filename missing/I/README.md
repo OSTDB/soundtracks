@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imprint | 397650 | [397650-imprint.json](./397650-imprint.json) |
 | Improbability | 311485 | [311485-improbability.json](./311485-improbability.json) |
 | Improbable Soccer | 141236 | [141236-improbable-soccer.json](./141236-improbable-soccer.json) |
+| Impulse | 137027 | [137027-impulse.json](./137027-impulse.json) |
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
 | Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
 | Imugi | 158676 | [158676-imugi.json](./158676-imugi.json) |
