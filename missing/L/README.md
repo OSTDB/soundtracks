@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landmaster | 400859 | [400859-landmaster.json](./400859-landmaster.json) |
 | Landnav | 197380 | [197380-landnav.json](./197380-landnav.json) |
 | Landomayzer | 370122 | [370122-landomayzer.json](./370122-landomayzer.json) |
+| Landrocker | 149513 | [149513-landrocker.json](./149513-landrocker.json) |
 | Lands of Achra | 347708 | [347708-lands-of-achra.json](./347708-lands-of-achra.json) |
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
@@ -240,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Look along Woodward Boulevard | 321171 | [321171-last-look-along-woodward-boulevard.json](./321171-last-look-along-woodward-boulevard.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
 | Last Moon | 120387 | [120387-last-moon.json](./120387-last-moon.json) |
+| Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
 | Last Nuclear Darkness | 158162 | [158162-last-nuclear-darkness.json](./158162-last-nuclear-darkness.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
@@ -902,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Waters | 373545 | [373545-liminal-waters.json](./373545-liminal-waters.json) |
 | Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
 | Liminality Online | 176476 | [176476-liminality-online.json](./176476-liminality-online.json) |
+| Liminalphobia | 149555 | [149555-liminalphobia.json](./149555-liminalphobia.json) |
 | Liminoid | 413643 | [413643-liminoid.json](./413643-liminoid.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
@@ -1098,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live by the Sword: Tactics | 152334 | [152334-live-by-the-sword-tactics.json](./152334-live-by-the-sword-tactics.json) |
 | Live Cycling Manager 2022 | 215920 | [215920-live-cycling-manager-2022.json](./215920-live-cycling-manager-2022.json) |
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
+| Live Labyrinth | 149530 | [149530-live-labyrinth.json](./149530-live-labyrinth.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
 | Live Portrait Maker | 101497 | [101497-live-portrait-maker.json](./101497-live-portrait-maker.json) |
@@ -1313,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loppi Puzzle Magazine: Kangaeru Dai-2-gou | 226399 | [226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json](./226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Puzzle Soukangou | 226401 | [226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json](./226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json) |
+| Lorcan the Leprechaun | 149550 | [149550-lorcan-the-leprechaun.json](./149550-lorcan-the-leprechaun.json) |
 | Lorch 2 | 270681 | [270681-lorch-2.json](./270681-lorch-2.json) |
 | Lorch 3 | 270655 | [270655-lorch-3.json](./270655-lorch-3.json) |
 | Lorch: Abducted | 270682 | [270682-lorch-abducted.json](./270682-lorch-abducted.json) |
