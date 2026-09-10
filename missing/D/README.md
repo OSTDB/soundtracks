@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkMaus | 18335 | [18335-darkmaus.json](./18335-darkmaus.json) |
 | Darkmoor Hold | 356660 | [356660-darkmoor-hold.json](./356660-darkmoor-hold.json) |
 | Darkmoor Manor | 102791 | [102791-darkmoor-manor.json](./102791-darkmoor-manor.json) |
+| Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
@@ -2269,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DR2 Night Janki | 247502 | [247502-dr2-night-janki.json](./247502-dr2-night-janki.json) |
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
+| Draco | 151163 | [151163-draco.json](./151163-draco.json) |
 | Draco Dux | 33069 | [33069-draco-dux.json](./33069-draco-dux.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
 | Draconic Date | 324889 | [324889-draconic-date.json](./324889-draconic-date.json) |
@@ -2929,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
 | Dungeon Defenders II: Heartwarming Bundle | 90701 | [90701-dungeon-defenders-ii-heartwarming-bundle.json](./90701-dungeon-defenders-ii-heartwarming-bundle.json) |
+| Dungeon Delver | 151135 | [151135-dungeon-delver.json](./151135-dungeon-delver.json) |
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
 | Dungeon Dominator | 408778 | [408778-dungeon-dominator.json](./408778-dungeon-dominator.json) |
