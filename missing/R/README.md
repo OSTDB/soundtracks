@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Stars | 295274 | [295274-racing-stars.json](./295274-racing-stars.json) |
 | Racing Xtreme: Fast Rally Driver 3D | 192909 | [192909-racing-xtreme-fast-rally-driver-3d.json](./192909-racing-xtreme-fast-rally-driver-3d.json) |
 | Racing: Breakthrough Gaming Arcade | 145668 | [145668-racing-breakthrough-gaming-arcade.json](./145668-racing-breakthrough-gaming-arcade.json) |
+| Rack | 140574 | [140574-rack.json](./140574-rack.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
 | Rack Attack! | 342613 | [342613-rack-attack.json](./342613-rack-attack.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
@@ -1060,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrojam I | 314285 | [314285-retrojam-i.json](./314285-retrojam-i.json) |
 | RetroMania Wrestling | 131604 | [131604-retromania-wrestling.json](./131604-retromania-wrestling.json) |
 | RetroMaze | 99060 | [99060-retromaze.json](./99060-retromaze.json) |
+| RetroMMO | 140518 | [140518-retrommo.json](./140518-retrommo.json) |
 | Retroplay Controller | 287666 | [287666-retroplay-controller.json](./287666-retroplay-controller.json) |
 | RetroQuest | 45332 | [45332-retroquest.json](./45332-retroquest.json) |
 | RetroRaider II: Lara's Quest Continues | 55914 | [55914-retroraider-ii-laras-quest-continues.json](./55914-retroraider-ii-laras-quest-continues.json) |
