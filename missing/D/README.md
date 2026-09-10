@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathmatch Classic | 9073 | [9073-deathmatch-classic.json](./9073-deathmatch-classic.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
+| Deathrun TV | 152284 | [152284-deathrun-tv.json](./152284-deathrun-tv.json) |
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Him, Not Me! | 318800 | [318800-defend-him-not-me.json](./318800-defend-him-not-me.json) |
 | Defend or Die | 12991 | [12991-defend-or-die.json](./12991-defend-or-die.json) |
 | Defend the Fort | 173267 | [173267-defend-the-fort.json](./173267-defend-the-fort.json) |
+| Defend the Rook | 152300 | [152300-defend-the-rook.json](./152300-defend-the-rook.json) |
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
 | Defend Your Nuts | 315522 | [315522-defend-your-nuts.json](./315522-defend-your-nuts.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
@@ -1910,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
+| Dome-King Cabbage | 152283 | [152283-dome-king-cabbage.json](./152283-dome-king-cabbage.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
