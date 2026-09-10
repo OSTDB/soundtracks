@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T05:18:03.391Z",
-  "total_missing": 53057,
+  "generated_at": "2026-09-10T05:21:16.033Z",
+  "total_missing": 53056,
   "games": [
     {
       "igdb_id": 306086,
@@ -1311,11 +1311,6 @@
       "igdb_id": 45317,
       "game_name": "4-4-2 Soccer",
       "file": "missing/0-9/45317-4-4-2-soccer.json"
-    },
-    {
-      "igdb_id": 245576,
-      "game_name": "4-In-1 Electronic Computer Games",
-      "file": "missing/0-9/245576-4-in-1-electronic-computer-games.json"
     },
     {
       "igdb_id": 185651,
