@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Juggler's Tale: Collector's Edition | 186874 | [186874-a-jugglers-tale-collectors-edition.json](./186874-a-jugglers-tale-collectors-edition.json) |
 | A Kappa's Trail | 66681 | [66681-a-kappas-trail.json](./66681-a-kappas-trail.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
+| A Knight Never Yields | 148486 | [148486-a-knight-never-yields.json](./148486-a-knight-never-yields.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Land Goo's Crazy | 238733 | [238733-a-land-goos-crazy.json](./238733-a-land-goos-crazy.json) |
 | A Landlord's Dream | 138215 | [138215-a-landlords-dream.json](./138215-a-landlords-dream.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
+| Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
 | Acras | 211392 | [211392-acras.json](./211392-acras.json) |
 | Acre Crisis | 301594 | [301594-acre-crisis.json](./301594-acre-crisis.json) |
 | Acres | 258464 | [258464-acres.json](./258464-acres.json) |
@@ -720,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | Aeon on Mosaic: Anemone | 284345 | [284345-aeon-on-mosaic-anemone.json](./284345-aeon-on-mosaic-anemone.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
+| Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
 | AereA: Collector's Edition | 166237 | [166237-aerea-collectors-edition.json](./166237-aerea-collectors-edition.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
@@ -775,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Live 2003 | 47307 | [47307-afl-live-2003.json](./47307-afl-live-2003.json) |
 | AFL Live 2004 | 47306 | [47306-afl-live-2004.json](./47306-afl-live-2004.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
+| Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | African Adventure: In Search of Dr. Livingston | 366265 | [366265-african-adventure-in-search-of-dr-livingston.json](./366265-african-adventure-in-search-of-dr-livingston.json) |
 | Afrikan Tähti | 174367 | [174367-afrikan-tahti.json](./174367-afrikan-tahti.json) |
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
@@ -2497,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Forces Corp: Mercenaries | 123059 | [123059-armed-forces-corp-mercenaries.json](./123059-armed-forces-corp-mercenaries.json) |
 | Armed Forces of Ukraine | 294138 | [294138-armed-forces-of-ukraine.json](./294138-armed-forces-of-ukraine.json) |
 | Armed Warrior VR | 74435 | [74435-armed-warrior-vr.json](./74435-armed-warrior-vr.json) |
+| Armed With Wings | 148494 | [148494-armed-with-wings.json](./148494-armed-with-wings.json) |
 | Armed With WIngs: Culmination | 379364 | [379364-armed-with-wings-culmination.json](./379364-armed-with-wings-culmination.json) |
 | Armello: Collector's Edition | 52599 | [52599-armello-collectors-edition.json](./52599-armello-collectors-edition.json) |
 | Armello: Deluxe Bundle | 173787 | [173787-armello-deluxe-bundle.json](./173787-armello-deluxe-bundle.json) |
