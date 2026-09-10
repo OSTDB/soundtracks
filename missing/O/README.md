@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oolite | 47274 | [47274-oolite.json](./47274-oolite.json) |
 | Oom | 252765 | [252765-oom.json](./252765-oom.json) |
 | Oompas Outrageous Rush | 373556 | [373556-oompas-outrageous-rush.json](./373556-oompas-outrageous-rush.json) |
+| Oona the Druid's Path | 143031 | [143031-oona-the-druids-path.json](./143031-oona-the-druids-path.json) |
 | Ooo | 181897 | [181897-ooo.json](./181897-ooo.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
+| Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
