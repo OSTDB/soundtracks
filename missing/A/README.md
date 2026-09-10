@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Space Bastards | 188688 | [188688-alien-space-bastards.json](./188688-alien-space-bastards.json) |
 | Alien Swirl | 15594 | [15594-alien-swirl.json](./15594-alien-swirl.json) |
 | Alien Tower | 259543 | [259543-alien-tower.json](./259543-alien-tower.json) |
+| Alien Virus | 147371 | [147371-alien-virus.json](./147371-alien-virus.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
 | Alien Worlds | 93075 | [93075-alien-worlds.json](./93075-alien-worlds.json) |
 | Alien X | 171579 | [171579-alien-x.json](./171579-alien-x.json) |
