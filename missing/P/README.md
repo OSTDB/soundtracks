@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
 | Poké Everworld Online | 389447 | [389447-poke-everworld-online.json](./389447-poke-everworld-online.json) |
+| Poke646: Anniversary Edition | 136386 | [136386-poke646-anniversary-edition.json](./136386-poke646-anniversary-edition.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
 | Pokémath! | 291987 | [291987-pokemath.json](./291987-pokemath.json) |
 | Pokémblem | 257412 | [257412-pokemblem.json](./257412-pokemblem.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ephemerald | 206144 | [206144-pokemon-ephemerald.json](./206144-pokemon-ephemerald.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
 | Pokemon FireRed and LeafGreen+ | 288206 | [288206-pokemon-firered-and-leafgreen.json](./288206-pokemon-firered-and-leafgreen.json) |
+| Pokémon FR Advanced Challenge | 136412 | [136412-pokemon-fr-advanced-challenge.json](./136412-pokemon-fr-advanced-challenge.json) |
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Mezase! Hikari no Boukendan | 103513 | [103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json](./103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Susume! Honoo no Boukendan | 103511 | [103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json](./103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json) |
@@ -2117,6 +2119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Companion Collection | 191406 | [191406-portal-companion-collection.json](./191406-portal-companion-collection.json) |
 | Portal: Forever Testing | 208407 | [208407-portal-forever-testing.json](./208407-portal-forever-testing.json) |
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
+| Portal: Prelude | 136390 | [136390-portal-prelude.json](./136390-portal-prelude.json) |
+| Portal: Still Alive For PC | 136389 | [136389-portal-still-alive-for-pc.json](./136389-portal-still-alive-for-pc.json) |
 | Portal: The Flash Version | 11280 | [11280-portal-the-flash-version.json](./11280-portal-the-flash-version.json) |
 | Portalnauts | 60589 | [60589-portalnauts.json](./60589-portalnauts.json) |
 | PortalOne Arcade | 181305 | [181305-portalone-arcade.json](./181305-portalone-arcade.json) |
