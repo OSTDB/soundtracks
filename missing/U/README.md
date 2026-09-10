@@ -96,13 +96,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Fishing Simulator VR: Kariba Dam | 161340 | [161340-ultimate-fishing-simulator-vr-kariba-dam.json](./161340-ultimate-fishing-simulator-vr-kariba-dam.json) |
 | Ultimate Fishing Simulator VR: Moraine Lake | 161339 | [161339-ultimate-fishing-simulator-vr-moraine-lake.json](./161339-ultimate-fishing-simulator-vr-moraine-lake.json) |
 | Ultimate Fishing Simulator VR: Thailand | 161338 | [161338-ultimate-fishing-simulator-vr-thailand.json](./161338-ultimate-fishing-simulator-vr-thailand.json) |
+| Ultimate Fishing Simulator: Amazon River | 154488 | [154488-ultimate-fishing-simulator-amazon-river.json](./154488-ultimate-fishing-simulator-amazon-river.json) |
 | Ultimate Fishing Simulator: Amazon River DLC | 164525 | [164525-ultimate-fishing-simulator-amazon-river-dlc.json](./164525-ultimate-fishing-simulator-amazon-river-dlc.json) |
 | Ultimate Fishing Simulator: Greenland DLC | 164524 | [164524-ultimate-fishing-simulator-greenland-dlc.json](./164524-ultimate-fishing-simulator-greenland-dlc.json) |
+| Ultimate Fishing Simulator: Japan | 154483 | [154483-ultimate-fishing-simulator-japan.json](./154483-ultimate-fishing-simulator-japan.json) |
 | Ultimate Fishing Simulator: Japan DLC | 164526 | [164526-ultimate-fishing-simulator-japan-dlc.json](./164526-ultimate-fishing-simulator-japan-dlc.json) |
+| Ultimate Fishing Simulator: Kariba Dam | 154486 | [154486-ultimate-fishing-simulator-kariba-dam.json](./154486-ultimate-fishing-simulator-kariba-dam.json) |
 | Ultimate Fishing Simulator: Kariba Dam DLC | 164527 | [164527-ultimate-fishing-simulator-kariba-dam-dlc.json](./164527-ultimate-fishing-simulator-kariba-dam-dlc.json) |
 | Ultimate Fishing Simulator: Moraine Lake | 124821 | [124821-ultimate-fishing-simulator-moraine-lake.json](./124821-ultimate-fishing-simulator-moraine-lake.json) |
 | Ultimate Fishing Simulator: Sakura Lures DLC | 164522 | [164522-ultimate-fishing-simulator-sakura-lures-dlc.json](./164522-ultimate-fishing-simulator-sakura-lures-dlc.json) |
 | Ultimate Fishing Simulator: Taupo Lake | 213991 | [213991-ultimate-fishing-simulator-taupo-lake.json](./213991-ultimate-fishing-simulator-taupo-lake.json) |
+| Ultimate Fishing Simulator: Thailand | 154484 | [154484-ultimate-fishing-simulator-thailand.json](./154484-ultimate-fishing-simulator-thailand.json) |
 | Ultimate Fishing Simulator: Thailand DLC | 164521 | [164521-ultimate-fishing-simulator-thailand-dlc.json](./164521-ultimate-fishing-simulator-thailand-dlc.json) |
 | Ultimate Fishing Simulator: VR DLC | 164523 | [164523-ultimate-fishing-simulator-vr-dlc.json](./164523-ultimate-fishing-simulator-vr-dlc.json) |
 | Ultimate Flying Cars | 215401 | [215401-ultimate-flying-cars.json](./215401-ultimate-flying-cars.json) |
