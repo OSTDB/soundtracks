@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
 | Darkblade Ascent | 249201 | [249201-darkblade-ascent.json](./249201-darkblade-ascent.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
+| DarkCoating | 163397 | [163397-darkcoating.json](./163397-darkcoating.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
 | Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
@@ -2841,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Adventure | 344358 | [344358-dungeon-adventure.json](./344358-dungeon-adventure.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
 | Dungeon Apollonios | 391579 | [391579-dungeon-apollonios.json](./391579-dungeon-apollonios.json) |
+| Dungeon Arena | 163396 | [163396-dungeon-arena.json](./163396-dungeon-arena.json) |
 | Dungeon Arena: Arena Alien planet | 167843 | [167843-dungeon-arena-arena-alien-planet.json](./167843-dungeon-arena-arena-alien-planet.json) |
 | Dungeon Arena: Arena King's palace | 167842 | [167842-dungeon-arena-arena-kings-palace.json](./167842-dungeon-arena-arena-kings-palace.json) |
 | Dungeon Arena: Arena Pirates | 167840 | [167840-dungeon-arena-arena-pirates.json](./167840-dungeon-arena-arena-pirates.json) |
