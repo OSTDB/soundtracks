@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
 | Folly Of The Wizards | 253946 | [253946-folly-of-the-wizards.json](./253946-folly-of-the-wizards.json) |
+| Fono | 161336 | [161336-fono.json](./161336-fono.json) |
 | Fooaaahh! | 182451 | [182451-fooaaahh.json](./182451-fooaaahh.json) |
 | Food And Hotel Simulator Bundle: Road Cafe & Motel Business & Street Food | 399634 | [399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json](./399634-food-and-hotel-simulator-bundle-road-cafe-and-motel-business-and-street-food.json) |
 | Food Chain | 209464 | [209464-food-chain.json](./209464-food-chain.json) |
@@ -1993,6 +1994,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': VS. Starlight Glimmer & Trixie | 202416 | [202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json](./202416-friday-night-funkin-vs-starlight-glimmer-and-trixie.json) |
 | Friday Night Pixtor | 343820 | [343820-friday-night-pixtor.json](./343820-friday-night-pixtor.json) |
 | Friday the 13th RPG: A Fan Game | 270660 | [270660-friday-the-13th-rpg-a-fan-game.json](./270660-friday-the-13th-rpg-a-fan-game.json) |
+| Friday the 13th: Killer Puzzle - Cyber Jason | 163476 | [163476-friday-the-13th-killer-puzzle-cyber-jason.json](./163476-friday-the-13th-killer-puzzle-cyber-jason.json) |
+| Friday the 13th: Killer Puzzle - Episode 11: Knightmare | 163472 | [163472-friday-the-13th-killer-puzzle-episode-11-knightmare.json](./163472-friday-the-13th-killer-puzzle-episode-11-knightmare.json) |
+| Friday the 13th: Killer Puzzle - Episode 3: Winter Kills | 163471 | [163471-friday-the-13th-killer-puzzle-episode-3-winter-kills.json](./163471-friday-the-13th-killer-puzzle-episode-3-winter-kills.json) |
+| Friday the 13th: Killer Puzzle - Episode 4: Imaskny | 163475 | [163475-friday-the-13th-killer-puzzle-episode-4-imaskny.json](./163475-friday-the-13th-killer-puzzle-episode-4-imaskny.json) |
+| Friday the 13th: Killer Puzzle - Flaming Jason | 163474 | [163474-friday-the-13th-killer-puzzle-flaming-jason.json](./163474-friday-the-13th-killer-puzzle-flaming-jason.json) |
+| Friday the 13th: Killer Puzzle - Retro Jason | 163470 | [163470-friday-the-13th-killer-puzzle-retro-jason.json](./163470-friday-the-13th-killer-puzzle-retro-jason.json) |
+| Friday the 13th: Killer Puzzle - Toxic Jason | 163473 | [163473-friday-the-13th-killer-puzzle-toxic-jason.json](./163473-friday-the-13th-killer-puzzle-toxic-jason.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
