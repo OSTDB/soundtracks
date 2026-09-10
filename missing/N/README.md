@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoirNet: The Neon Enigma | 249188 | [249188-noirnet-the-neon-enigma.json](./249188-noirnet-the-neon-enigma.json) |
 | Noise | 327192 | [327192-noise.json](./327192-noise.json) |
 | Noise City Osaka | 140020 | [140020-noise-city-osaka.json](./140020-noise-city-osaka.json) |
+| Noise Hunters | 158141 | [158141-noise-hunters.json](./158141-noise-hunters.json) |
 | Noise Snke | 183538 | [183538-noise-snke.json](./183538-noise-snke.json) |
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
