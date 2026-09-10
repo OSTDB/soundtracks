@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice of Flowers | 274503 | [274503-voice-of-flowers.json](./274503-voice-of-flowers.json) |
 | Voice of God | 181349 | [181349-voice-of-god.json](./181349-voice-of-god.json) |
 | Voice of Nature | 386708 | [386708-voice-of-nature.json](./386708-voice-of-nature.json) |
+| Voice of the Killer | 150094 | [150094-voice-of-the-killer.json](./150094-voice-of-the-killer.json) |
 | Voice of the Wizard by Brett Farkas | 221179 | [221179-voice-of-the-wizard-by-brett-farkas.json](./221179-voice-of-the-wizard-by-brett-farkas.json) |
 | Voice over | 224746 | [224746-voice-over.json](./224746-voice-over.json) |
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
