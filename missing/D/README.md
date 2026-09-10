@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
+| Debris | 150097 | [150097-debris.json](./150097-debris.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
 | Decay: The Mare - Episode 2 | 79949 | [79949-decay-the-mare-episode-2.json](./79949-decay-the-mare-episode-2.json) |
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
@@ -866,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
 | Defend Your Nuts | 315522 | [315522-defend-your-nuts.json](./315522-defend-your-nuts.json) |
 | Defenda | 45350 | [45350-defenda.json](./45350-defenda.json) |
+| Defender | 150104 | [150104-defender.json](./150104-defender.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender | 287077 | [287077-defender.json](./287077-defender.json) |
 | Defender 2000 | 40817 | [40817-defender-2000.json](./40817-defender-2000.json) |
@@ -1498,12 +1500,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
+| Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
 | Dino Fighters | 241975 | [241975-dino-fighters.json](./241975-dino-fighters.json) |
 | Dino Gaïa | 326060 | [326060-dino-gaia.json](./326060-dino-gaia.json) |
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Genesis | 336533 | [336533-dino-genesis.json](./336533-dino-genesis.json) |
+| Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Lost | 120406 | [120406-dino-lost.json](./120406-dino-lost.json) |
 | Dino Merge Wars | 237631 | [237631-dino-merge-wars.json](./237631-dino-merge-wars.json) |
 | Dino Precision Platformer | 303476 | [303476-dino-precision-platformer.json](./303476-dino-precision-platformer.json) |
