@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Swansong: Primogen Edition | 196806 | [196806-vampire-the-masquerade-swansong-primogen-edition.json](./196806-vampire-the-masquerade-swansong-primogen-edition.json) |
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
 | VampireBlaze | 402935 | [402935-vampireblaze.json](./402935-vampireblaze.json) |
+| Vampirem | 136411 | [136411-vampirem.json](./136411-vampirem.json) |
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
 | Vampires and Werewolves | 226739 | [226739-vampires-and-werewolves.json](./226739-vampires-and-werewolves.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
