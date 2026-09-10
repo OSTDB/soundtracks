@@ -1082,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bee Hive | 378786 | [378786-the-bee-hive.json](./378786-the-bee-hive.json) |
 | The Beginning of the End | 58853 | [58853-the-beginning-of-the-end.json](./58853-the-beginning-of-the-end.json) |
 | The Bend | 172719 | [172719-the-bend.json](./172719-the-bend.json) |
+| The Benjamins | 169382 | [169382-the-benjamins.json](./169382-the-benjamins.json) |
 | The Berenstain Bears: Learning At Home, Volume One | 71548 | [71548-the-berenstain-bears-learning-at-home-volume-one.json](./71548-the-berenstain-bears-learning-at-home-volume-one.json) |
 | The Berlin Wall | 97910 | [97910-the-berlin-wall.json](./97910-the-berlin-wall.json) |
 | The Bermuda Triangle | 58843 | [58843-the-bermuda-triangle.json](./58843-the-bermuda-triangle.json) |
@@ -1241,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
+| The Chronicles of Hercules: The 12 Labours | 169366 | [169366-the-chronicles-of-hercules-the-12-labours.json](./169366-the-chronicles-of-hercules-the-12-labours.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
 | The Chronicles of Riddick: Assault on Dark Athena | 433 | [433-the-chronicles-of-riddick-assault-on-dark-athena.json](./433-the-chronicles-of-riddick-assault-on-dark-athena.json) |
 | The Chronicles of Rovania: Darkest Bridge | 244266 | [244266-the-chronicles-of-rovania-darkest-bridge.json](./244266-the-chronicles-of-rovania-darkest-bridge.json) |
@@ -2053,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
 | The Last Opening | 396902 | [396902-the-last-opening.json](./396902-the-last-opening.json) |
 | The Last Photon | 33050 | [33050-the-last-photon.json](./33050-the-last-photon.json) |
+| The Last Pirate Adventure: Drake's Treasure | 169404 | [169404-the-last-pirate-adventure-drakes-treasure.json](./169404-the-last-pirate-adventure-drakes-treasure.json) |
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
 | The Last Quest | 185158 | [185158-the-last-quest.json](./185158-the-last-quest.json) |
@@ -2683,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
+| The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
 | The Search | 30193 | [30193-the-search.json](./30193-the-search.json) |
 | The Search For Sonic Mania 2 | 352175 | [352175-the-search-for-sonic-mania-2.json](./352175-the-search-for-sonic-mania-2.json) |
 | The Search for Tikiman | 265679 | [265679-the-search-for-tikiman.json](./265679-the-search-for-tikiman.json) |
@@ -3473,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through Space | 414297 | [414297-through-space.json](./414297-through-space.json) |
 | Through the Abyss | 217314 | [217314-through-the-abyss.json](./217314-through-the-abyss.json) |
 | Through the Ages | 87726 | [87726-through-the-ages.json](./87726-through-the-ages.json) |
+| Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
 | Through the World | 189118 | [189118-through-the-world.json](./189118-through-the-world.json) |
