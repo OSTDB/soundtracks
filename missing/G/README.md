@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxity | 113747 | [113747-galaxity.json](./113747-galaxity.json) |
 | GalaxIverse | 31881 | [31881-galaxiverse.json](./31881-galaxiverse.json) |
 | GalaxIverse II | 304895 | [304895-galaxiverse-ii.json](./304895-galaxiverse-ii.json) |
+| Galaxy | 154578 | [154578-galaxy.json](./154578-galaxy.json) |
 | Galaxy | 381043 | [381043-galaxy.json](./381043-galaxy.json) |
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
@@ -334,7 +335,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garuda Emblem | 327176 | [327176-garuda-emblem.json](./327176-garuda-emblem.json) |
 | Garukilla | 92508 | [92508-garukilla.json](./92508-garukilla.json) |
 | Gary Grigsby's Pacific War | 72106 | [72106-gary-grigsbys-pacific-war.json](./72106-gary-grigsbys-pacific-war.json) |
+| Gary Grigsby's War in the East: Don to the Danube | 154491 | [154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json](./154491-gary-grigsbys-war-in-the-east-don-to-the-danube.json) |
 | Gary Grigsby's War in the Pacific | 69846 | [69846-gary-grigsbys-war-in-the-pacific.json](./69846-gary-grigsbys-war-in-the-pacific.json) |
+| Gary Grigsby's War in the West: Operation Torch | 154492 | [154492-gary-grigsbys-war-in-the-west-operation-torch.json](./154492-gary-grigsbys-war-in-the-west-operation-torch.json) |
 | Gary the Gull | 33169 | [33169-gary-the-gull.json](./33169-gary-the-gull.json) |
 | Gas Station Inc. | 255753 | [255753-gas-station-inc.json](./255753-gas-station-inc.json) |
 | Gas Station Manager 2026 | 393475 | [393475-gas-station-manager-2026.json](./393475-gas-station-manager-2026.json) |
