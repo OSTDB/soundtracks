@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchi wo Kurau: Sangokushi Gunyuuden | 37790 | [37790-tenchi-wo-kurau-sangokushi-gunyuuden.json](./37790-tenchi-wo-kurau-sangokushi-gunyuuden.json) |
 | Tender | 179112 | [179112-tender.json](./179112-tender.json) |
 | Tender Frame Cocoon: //Rhapsody of Cross-Pollination | 306683 | [306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json](./306683-tender-frame-cocoon-rhapsody-of-cross-pollination.json) |
+| Tender Frog House | 144240 | [144240-tender-frog-house.json](./144240-tender-frog-house.json) |
 | Tender Root | 235213 | [235213-tender-root.json](./235213-tender-root.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
 | Tendryll | 211232 | [211232-tendryll.json](./211232-tendryll.json) |
@@ -1521,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
 | The Doll Beneath | 192428 | [192428-the-doll-beneath.json](./192428-the-doll-beneath.json) |
 | The Doll Shop | 123627 | [123627-the-doll-shop.json](./123627-the-doll-shop.json) |
+| The Donald Trump Simulator | 144237 | [144237-the-donald-trump-simulator.json](./144237-the-donald-trump-simulator.json) |
 | The Donut Gallery | 386735 | [386735-the-donut-gallery.json](./386735-the-donut-gallery.json) |
 | The Doom Beneath | 175429 | [175429-the-doom-beneath.json](./175429-the-doom-beneath.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
@@ -3039,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stone Ship | 408790 | [408790-the-stone-ship.json](./408790-the-stone-ship.json) |
 | The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
+| The Story of the Revolutionary Watermelon That Wanted to Live Free as a Bird and Learned How to Escape | 144241 | [144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json](./144241-the-story-of-the-revolutionary-watermelon-that-wanted-to-live-free-as-a-bird-and-learned-how-to-escape.json) |
 | The Storyteller | 302369 | [302369-the-storyteller.json](./302369-the-storyteller.json) |
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
@@ -3408,6 +3411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way of Wine | 255983 | [255983-the-way-of-wine.json](./255983-the-way-of-wine.json) |
 | The Way Remastered | 96202 | [96202-the-way-remastered.json](./96202-the-way-remastered.json) |
 | The Way To Life | 329971 | [329971-the-way-to-life.json](./329971-the-way-to-life.json) |
+| The Wayfarer | 144261 | [144261-the-wayfarer.json](./144261-the-wayfarer.json) |
 | The Wayward Tower | 329031 | [329031-the-wayward-tower.json](./329031-the-wayward-tower.json) |
 | The Weakest Link & Friends | 86100 | [86100-the-weakest-link-and-friends.json](./86100-the-weakest-link-and-friends.json) |
 | The Wedding | 286531 | [286531-the-wedding.json](./286531-the-wedding.json) |
@@ -3599,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
 | Thirty Flights of Loving | 9013 | [9013-thirty-flights-of-loving.json](./9013-thirty-flights-of-loving.json) |
+| This Box Conveys People | 144239 | [144239-this-box-conveys-people.json](./144239-this-box-conveys-people.json) |
 | This Company of Mine | 309355 | [309355-this-company-of-mine.json](./309355-this-company-of-mine.json) |
 | This Game | 357815 | [357815-this-game.json](./357815-this-game.json) |
 | This Grand Life 2 | 253572 | [253572-this-grand-life-2.json](./253572-this-grand-life-2.json) |
@@ -4417,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade Collection 4 | 325236 | [325236-toaplan-arcade-collection-4.json](./325236-toaplan-arcade-collection-4.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
+| Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
 | Tobal 2 | 1662 | [1662-tobal-2.json](./1662-tobal-2.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
@@ -5305,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transmissions | 213412 | [213412-transmissions.json](./213412-transmissions.json) |
 | Transparent Black: Wish | 337100 | [337100-transparent-black-wish.json](./337100-transparent-black-wish.json) |
 | Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
+| Transpire | 144269 | [144269-transpire.json](./144269-transpire.json) |
 | Transport Fever 2 | 117820 | [117820-transport-fever-2.json](./117820-transport-fever-2.json) |
 | Transport Fever 2: Console Edition - Deluxe Edition | 241357 | [241357-transport-fever-2-console-edition-deluxe-edition.json](./241357-transport-fever-2-console-edition-deluxe-edition.json) |
 | Transport Fever 2: Deluxe Edition | 241359 | [241359-transport-fever-2-deluxe-edition.json](./241359-transport-fever-2-deluxe-edition.json) |
