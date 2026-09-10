@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
 | Far Far Away From Here | 186836 | [186836-far-far-away-from-here.json](./186836-far-far-away-from-here.json) |
 | Far Far West | 348263 | [348263-far-far-west.json](./348263-far-far-west.json) |
+| Far Fetched | 150622 | [150622-far-fetched.json](./150622-far-fetched.json) |
 | Far Future Tourism | 133994 | [133994-far-future-tourism.json](./133994-far-future-tourism.json) |
 | Far Lands | 411567 | [411567-far-lands.json](./411567-far-lands.json) |
 | Far light | 166775 | [166775-far-light.json](./166775-far-light.json) |
@@ -1975,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeing Quency | 179192 | [179192-freeing-quency.json](./179192-freeing-quency.json) |
 | FreeJack | 51276 | [51276-freejack.json](./51276-freejack.json) |
 | Freelance Simulator: Game Developer Edition | 100874 | [100874-freelance-simulator-game-developer-edition.json](./100874-freelance-simulator-game-developer-edition.json) |
+| Freelance Trucker: Insurance Fraud Edition | 150644 | [150644-freelance-trucker-insurance-fraud-edition.json](./150644-freelance-trucker-insurance-fraud-edition.json) |
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
@@ -2182,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Adventure | 214487 | [214487-fruit-adventure.json](./214487-fruit-adventure.json) |
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Bonanza | 195698 | [195698-fruit-bonanza.json](./195698-fruit-bonanza.json) |
+| Fruit Clicker | 150646 | [150646-fruit-clicker.json](./150646-fruit-clicker.json) |
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
 | Fruit Farmer | 199603 | [199603-fruit-farmer.json](./199603-fruit-farmer.json) |
 | Fruit Golf | 34363 | [34363-fruit-golf.json](./34363-fruit-golf.json) |
