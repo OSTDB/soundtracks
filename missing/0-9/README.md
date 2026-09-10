@@ -261,7 +261,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
-| 3x3x3: A Mermaid's Tale | 128611 | [128611-3x3x3-a-mermaids-tale.json](./128611-3x3x3-a-mermaids-tale.json) |
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
 | 4 Giga Boss Fights | 181904 | [181904-4-giga-boss-fights.json](./181904-4-giga-boss-fights.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
