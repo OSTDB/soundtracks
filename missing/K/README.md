@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
+| Kingdom Ka | 134601 | [134601-kingdom-ka.json](./134601-kingdom-ka.json) |
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
 | Kingdom of Atham: Crown of the Champions | 166715 | [166715-kingdom-of-atham-crown-of-the-champions.json](./166715-kingdom-of-atham-crown-of-the-champions.json) |
@@ -778,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Light | 335278 | [335278-knight-light.json](./335278-knight-light.json) |
 | Knight Lore | 309338 | [309338-knight-lore.json](./309338-knight-lore.json) |
 | Knight of the Living Dead | 191885 | [191885-knight-of-the-living-dead.json](./191885-knight-of-the-living-dead.json) |
+| Knight of the Lust Temple | 134625 | [134625-knight-of-the-lust-temple.json](./134625-knight-of-the-lust-temple.json) |
 | Knight Shooter | 319943 | [319943-knight-shooter.json](./319943-knight-shooter.json) |
 | Knight-Blade: Howling of Kerberos | 324886 | [324886-knight-blade-howling-of-kerberos.json](./324886-knight-blade-howling-of-kerberos.json) |
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
@@ -1052,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
 | Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
 | Kurenai no Homura Sanada Ninpouchou | 136472 | [136472-kurenai-no-homura-sanada-ninpouchou.json](./136472-kurenai-no-homura-sanada-ninpouchou.json) |
+| Kurenkisho Quolta Amadeus EG | 134626 | [134626-kurenkisho-quolta-amadeus-eg.json](./134626-kurenkisho-quolta-amadeus-eg.json) |
 | Kuro Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396941 | [396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Kuro Neko | 153407 | [153407-kuro-neko.json](./153407-kuro-neko.json) |
 | Kuroba: Oghuz | 409581 | [409581-kuroba-oghuz.json](./409581-kuroba-oghuz.json) |
