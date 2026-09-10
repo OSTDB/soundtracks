@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dann Fox & the Time Machine | 192383 | [192383-dann-fox-and-the-time-machine.json](./192383-dann-fox-and-the-time-machine.json) |
 | Danny Phantom: Ghost Frenzy | 257386 | [257386-danny-phantom-ghost-frenzy.json](./257386-danny-phantom-ghost-frenzy.json) |
 | Danny Phantom: Ghost Sweep | 313686 | [313686-danny-phantom-ghost-sweep.json](./313686-danny-phantom-ghost-sweep.json) |
+| Danny's Mirror Magic | 159272 | [159272-dannys-mirror-magic.json](./159272-dannys-mirror-magic.json) |
 | Danse Macabre: Crimson Cabaret HD | 101580 | [101580-danse-macabre-crimson-cabaret-hd.json](./101580-danse-macabre-crimson-cabaret-hd.json) |
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
@@ -356,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
 | Dartford Street | 183593 | [183593-dartford-street.json](./183593-dartford-street.json) |
 | Darthy | 34374 | [34374-darthy.json](./34374-darthy.json) |
+| Darts | 159273 | [159273-darts.json](./159273-darts.json) |
 | Darts and Friends | 96627 | [96627-darts-and-friends.json](./96627-darts-and-friends.json) |
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
@@ -1888,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Dolor's Dwelling | 390006 | [390006-dolors-dwelling.json](./390006-dolors-dwelling.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
+| Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
@@ -2133,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dororo: Jigoku Emaki no Shou | 353899 | [353899-dororo-jigoku-emaki-no-shou.json](./353899-dororo-jigoku-emaki-no-shou.json) |
 | Dorothy's Magical Journey in Oz | 410213 | [410213-dorothys-magical-journey-in-oz.json](./410213-dorothys-magical-journey-in-oz.json) |
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
+| Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
@@ -2285,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins Collector's Edition | 21765 | [21765-dragon-age-origins-collectors-edition.json](./21765-dragon-age-origins-collectors-edition.json) |
 | Dragon Ball 3: Goku-den | 48679 | [48679-dragon-ball-3-goku-den.json](./48679-dragon-ball-3-goku-den.json) |
 | Dragon Ball Budokai AF | 180246 | [180246-dragon-ball-budokai-af.json](./180246-dragon-ball-budokai-af.json) |
+| Dragon Ball Devolution | 159246 | [159246-dragon-ball-devolution.json](./159246-dragon-ball-devolution.json) |
 | Dragon Ball FighterZ | 36911 | [36911-dragon-ball-fighterz.json](./36911-dragon-ball-fighterz.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack | 366823 | [366823-dragon-ball-fighterz-commentator-voice-pack.json](./366823-dragon-ball-fighterz-commentator-voice-pack.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 2 | 366820 | [366820-dragon-ball-fighterz-commentator-voice-pack-2.json](./366820-dragon-ball-fighterz-commentator-voice-pack-2.json) |
@@ -2331,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
 | Dragon Dragon Fire Fire Deluxe | 384497 | [384497-dragon-dragon-fire-fire-deluxe.json](./384497-dragon-dragon-fire-fire-deluxe.json) |
 | Dragon Drill | 294691 | [294691-dragon-drill.json](./294691-dragon-drill.json) |
+| Dragon Drop | 159251 | [159251-dragon-drop.json](./159251-dragon-drop.json) |
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Finga | 403614 | [403614-dragon-finga.json](./403614-dragon-finga.json) |
