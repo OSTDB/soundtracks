@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Hell | 415093 | [415093-g-hell.json](./415093-g-hell.json) |
 | G-man Invasion | 222304 | [222304-g-man-invasion.json](./222304-g-man-invasion.json) |
 | G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
+| G-Mode Archives 17: Flyhight Cloudia III | 170501 | [170501-g-mode-archives-17-flyhight-cloudia-iii.json](./170501-g-mode-archives-17-flyhight-cloudia-iii.json) |
 | G-Mode Archives 43: Izumi Jiken File Vol. 3 - Yujuku-hen | 221732 | [221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json](./221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
 | G-Mode Archives+: Idol Janshi Suchie-Pai | 256268 | [256268-g-mode-archives-idol-janshi-suchie-pai.json](./256268-g-mode-archives-idol-janshi-suchie-pai.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
 | Game of Hearts | 348766 | [348766-game-of-hearts.json](./348766-game-of-hearts.json) |
 | Game of Legends: Rise of Champions | 194023 | [194023-game-of-legends-rise-of-champions.json](./194023-game-of-legends-rise-of-champions.json) |
+| Game of Mafia | 169415 | [169415-game-of-mafia.json](./169415-game-of-mafia.json) |
 | Game of Puzzles: Animals | 163428 | [163428-game-of-puzzles-animals.json](./163428-game-of-puzzles-animals.json) |
 | Game of Puzzles: Animals - Expansion Pack | 163429 | [163429-game-of-puzzles-animals-expansion-pack.json](./163429-game-of-puzzles-animals-expansion-pack.json) |
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
@@ -559,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get the Glass | 272848 | [272848-get-the-glass.json](./272848-get-the-glass.json) |
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
+| Get to Work, Succubus-Chan! | 169356 | [169356-get-to-work-succubus-chan.json](./169356-get-to-work-succubus-chan.json) |
 | Get Your Sheep Together | 195160 | [195160-get-your-sheep-together.json](./195160-get-your-sheep-together.json) |
 | Get Your Tentacles Off My Waifu | 244765 | [244765-get-your-tentacles-off-my-waifu.json](./244765-get-your-tentacles-off-my-waifu.json) |
 | Getaway Entertainment 6 Pack | 201851 | [201851-getaway-entertainment-6-pack.json](./201851-getaway-entertainment-6-pack.json) |
@@ -704,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
 | Girl Nail Art | 87708 | [87708-girl-nail-art.json](./87708-girl-nail-art.json) |
+| Girl Next Door | 169406 | [169406-girl-next-door.json](./169406-girl-next-door.json) |
 | Girl Raid | 195172 | [195172-girl-raid.json](./195172-girl-raid.json) |
 | Girl Terminal | 410241 | [410241-girl-terminal.json](./410241-girl-terminal.json) |
 | Girl Who Cried Wolf | 298891 | [298891-girl-who-cried-wolf.json](./298891-girl-who-cried-wolf.json) |
@@ -1802,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Girl Volume III | 252375 | [252375-gunslinger-girl-volume-iii.json](./252375-gunslinger-girl-volume-iii.json) |
 | Gunslinger Trainer | 33158 | [33158-gunslinger-trainer.json](./33158-gunslinger-trainer.json) |
 | Gunslinger: Zombie Survival | 226762 | [226762-gunslinger-zombie-survival.json](./226762-gunslinger-zombie-survival.json) |
+| Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
 | GunSoul Girl 2 | 213000 | [213000-gunsoul-girl-2.json](./213000-gunsoul-girl-2.json) |
 | Gunspell: Steam Edition | 36221 | [36221-gunspell-steam-edition.json](./36221-gunspell-steam-edition.json) |
 | Gunstable | 180800 | [180800-gunstable.json](./180800-gunstable.json) |
