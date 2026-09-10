@@ -269,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capital | 311489 | [311489-capital.json](./311489-capital.json) |
 | Capital Fire | 284885 | [284885-capital-fire.json](./284885-capital-fire.json) |
 | Capital Kings | 342635 | [342635-capital-kings.json](./342635-capital-kings.json) |
+| Capital Simulator | 148483 | [148483-capital-simulator.json](./148483-capital-simulator.json) |
 | Capitalist Misadventures | 358290 | [358290-capitalist-misadventures.json](./358290-capitalist-misadventures.json) |
 | CapoeiRogue: Dandara Cordão de Ouro | 215919 | [215919-capoeirogue-dandara-cordao-de-ouro.json](./215919-capoeirogue-dandara-cordao-de-ouro.json) |
 | Cappuchino Spoontforce Deluxe VI: Girl of the Boiling Fury | 181872 | [181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json](./181872-cappuchino-spoontforce-deluxe-vi-girl-of-the-boiling-fury.json) |
@@ -410,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
 | Cargo | 312566 | [312566-cargo.json](./312566-cargo.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
+| Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
 | Cargo-Bot | 318204 | [318204-cargo-bot.json](./318204-cargo-bot.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
@@ -1371,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromb | 316398 | [316398-chromb.json](./316398-chromb.json) |
 | Chrome Carnage | 398345 | [398345-chrome-carnage.json](./398345-chrome-carnage.json) |
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
+| Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
@@ -1706,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clinton vs. Trump: Head Soccer Challenge | 261526 | [261526-clinton-vs-trump-head-soccer-challenge.json](./261526-clinton-vs-trump-head-soccer-challenge.json) |
 | Clione's Bomb-Bomb Sweeper | 369050 | [369050-cliones-bomb-bomb-sweeper.json](./369050-cliones-bomb-bomb-sweeper.json) |
 | Clive vs. Hives 2 | 188685 | [188685-clive-vs-hives-2.json](./188685-clive-vs-hives-2.json) |
+| Cloaks and Capes | 148471 | [148471-cloaks-and-capes.json](./148471-cloaks-and-capes.json) |
 | Clock of Atonement | 240491 | [240491-clock-of-atonement.json](./240491-clock-of-atonement.json) |
 | Clock Out | 312922 | [312922-clock-out.json](./312922-clock-out.json) |
 | clock out. | 310963 | [310963-clock-out.json](./310963-clock-out.json) |
@@ -2777,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
+| CrazyDoc | 148503 | [148503-crazydoc.json](./148503-crazydoc.json) |
 | CrazyDriving | 107853 | [107853-crazydriving.json](./107853-crazydriving.json) |
 | CrazyHousePlanes | 99607 | [99607-crazyhouseplanes.json](./99607-crazyhouseplanes.json) |
 | CrazyKart | 117720 | [117720-crazykart.json](./117720-crazykart.json) |
