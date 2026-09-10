@@ -564,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patou | 253376 | [253376-patou.json](./253376-patou.json) |
 | Patrician III | 287 | [287-patrician-iii.json](./287-patrician-iii.json) |
 | Patricide | 366246 | [366246-patricide.json](./366246-patricide.json) |
+| Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patrol no Gunji Hakubutsukan 3: Chouzetsu Muteki Kyuukyoku Heiki | 284347 | [284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json](./284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json) |
 | Patrol Police: Job Simulator | 223984 | [223984-patrol-police-job-simulator.json](./223984-patrol-police-job-simulator.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playboy: The Mansion - Private Party | 68037 | [68037-playboy-the-mansion-private-party.json](./68037-playboy-the-mansion-private-party.json) |
 | Playdate Bunny Bundle | 245320 | [245320-playdate-bunny-bundle.json](./245320-playdate-bunny-bundle.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
+| PlayerUnknown's Battlegrounds: Season 8 | 135824 | [135824-playerunknowns-battlegrounds-season-8.json](./135824-playerunknowns-battlegrounds-season-8.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
 | Playground VR | 143690 | [143690-playground-vr.json](./143690-playground-vr.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
@@ -2088,6 +2090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopSlinger Vol. 1 & 2: Loveless Series Bundle | 328492 | [328492-popslinger-vol-1-and-2-loveless-series-bundle.json](./328492-popslinger-vol-1-and-2-loveless-series-bundle.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
+| Population: Tire | 135850 | [135850-population-tire.json](./135850-population-tire.json) |
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
