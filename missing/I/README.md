@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISS Simulator | 326411 | [326411-iss-simulator.json](./326411-iss-simulator.json) |
 | ISS: International Superstar Soccer | 220859 | [220859-iss-international-superstar-soccer.json](./220859-iss-international-superstar-soccer.json) |
 | Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
+| Issunboushi no Donnamondai | 146261 | [146261-issunboushi-no-donnamondai.json](./146261-issunboushi-no-donnamondai.json) |
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
 | Istaria: Chronicles of the Gifted | 9578 | [9578-istaria-chronicles-of-the-gifted.json](./9578-istaria-chronicles-of-the-gifted.json) |
 | iSwinging 2 | 101611 | [101611-iswinging-2.json](./101611-iswinging-2.json) |
