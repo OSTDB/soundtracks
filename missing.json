@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T11:21:26.483Z",
-  "total_missing": 53592,
+  "generated_at": "2026-09-10T11:33:29.134Z",
+  "total_missing": 53641,
   "games": [
     {
       "igdb_id": 306086,
@@ -1401,11 +1401,6 @@
       "igdb_id": 135864,
       "game_name": "50K Racewalker",
       "file": "missing/0-9/135864-50k-racewalker.json"
-    },
-    {
-      "igdb_id": 301035,
-      "game_name": "5525",
-      "file": "missing/0-9/301035-5525.json"
     },
     {
       "igdb_id": 191163,
@@ -31223,6 +31218,16 @@
       "file": "missing/B/241613-brick-crossy-road.json"
     },
     {
+      "igdb_id": 155573,
+      "game_name": "Brick Force: Black Knight",
+      "file": "missing/B/155573-brick-force-black-knight.json"
+    },
+    {
+      "igdb_id": 155572,
+      "game_name": "Brick Force: Navy Soldier",
+      "file": "missing/B/155572-brick-force-navy-soldier.json"
+    },
+    {
       "igdb_id": 297249,
       "game_name": "Brick Mini Golf",
       "file": "missing/B/297249-brick-mini-golf.json"
@@ -39436,6 +39441,11 @@
       "igdb_id": 89285,
       "game_name": "Chicken Invaders 3 Xmas",
       "file": "missing/C/89285-chicken-invaders-3-xmas.json"
+    },
+    {
+      "igdb_id": 155576,
+      "game_name": "Chicken Invaders 3: Easter Edition",
+      "file": "missing/C/155576-chicken-invaders-3-easter-edition.json"
     },
     {
       "igdb_id": 108464,
@@ -50318,6 +50328,11 @@
       "file": "missing/C/336523-cyber-rats.json"
     },
     {
+      "igdb_id": 155671,
+      "game_name": "Cyber Rider",
+      "file": "missing/C/155671-cyber-rider.json"
+    },
+    {
       "igdb_id": 192393,
       "game_name": "Cyber Runner 2048",
       "file": "missing/C/192393-cyber-runner-2048.json"
@@ -52581,6 +52596,11 @@
       "igdb_id": 245845,
       "game_name": "Dash & Swing",
       "file": "missing/D/245845-dash-and-swing.json"
+    },
+    {
+      "igdb_id": 155668,
+      "game_name": "Dash and Fire",
+      "file": "missing/D/155668-dash-and-fire.json"
     },
     {
       "igdb_id": 199587,
@@ -64783,6 +64803,11 @@
       "file": "missing/D/227834-duels-kings.json"
     },
     {
+      "igdb_id": 155574,
+      "game_name": "DuelVox",
+      "file": "missing/D/155574-duelvox.json"
+    },
+    {
       "igdb_id": 232452,
       "game_name": "Duelyst GG",
       "file": "missing/D/232452-duelyst-gg.json"
@@ -69723,6 +69748,11 @@
       "file": "missing/E/135858-enkan-no-memo-ria-kakera-tomoshi.json"
     },
     {
+      "igdb_id": 155667,
+      "game_name": "Enlightened Sentinel",
+      "file": "missing/E/155667-enlightened-sentinel.json"
+    },
+    {
       "igdb_id": 175880,
       "game_name": "Ennuigi",
       "file": "missing/E/175880-ennuigi.json"
@@ -73666,6 +73696,11 @@
       "igdb_id": 216800,
       "game_name": "Fairy 2",
       "file": "missing/F/216800-fairy-2.json"
+    },
+    {
+      "igdb_id": 155577,
+      "game_name": "Fairy and Devil",
+      "file": "missing/F/155577-fairy-and-devil.json"
     },
     {
       "igdb_id": 182456,
@@ -118533,6 +118568,11 @@
       "file": "missing/K/287657-kittenrock-cats-a-hidden-object-game.json"
     },
     {
+      "igdb_id": 155664,
+      "game_name": "Kittens of Fear",
+      "file": "missing/K/155664-kittens-of-fear.json"
+    },
+    {
       "igdb_id": 179122,
       "game_name": "Kittens with Cannons",
       "file": "missing/K/179122-kittens-with-cannons.json"
@@ -119051,6 +119091,11 @@
       "igdb_id": 119027,
       "game_name": "Knighty Night",
       "file": "missing/K/119027-knighty-night.json"
+    },
+    {
+      "igdb_id": 155666,
+      "game_name": "Knitted and Inflatable",
+      "file": "missing/K/155666-knitted-and-inflatable.json"
     },
     {
       "igdb_id": 178013,
@@ -120556,6 +120601,11 @@
       "igdb_id": 78506,
       "game_name": "Labyrinth",
       "file": "missing/L/78506-labyrinth.json"
+    },
+    {
+      "igdb_id": 155663,
+      "game_name": "Labyrinth 2",
+      "file": "missing/L/155663-labyrinth-2.json"
     },
     {
       "igdb_id": 171066,
@@ -127811,6 +127861,11 @@
       "igdb_id": 239871,
       "game_name": "Love My Pegasus",
       "file": "missing/L/239871-love-my-pegasus.json"
+    },
+    {
+      "igdb_id": 155669,
+      "game_name": "Love Mystery Club",
+      "file": "missing/L/155669-love-mystery-club.json"
     },
     {
       "igdb_id": 172713,
@@ -188973,6 +189028,11 @@
       "file": "missing/S/149571-samurai-chess.json"
     },
     {
+      "igdb_id": 155665,
+      "game_name": "Samurai Cooking",
+      "file": "missing/S/155665-samurai-cooking.json"
+    },
+    {
       "igdb_id": 233502,
       "game_name": "Samurai Daisuke",
       "file": "missing/S/233502-samurai-daisuke.json"
@@ -209593,6 +209653,11 @@
       "file": "missing/S/163421-starlight-x-2-galactic-puzzles.json"
     },
     {
+      "igdb_id": 155670,
+      "game_name": "Starlight: Eye of the Storm",
+      "file": "missing/S/155670-starlight-eye-of-the-storm.json"
+    },
+    {
       "igdb_id": 215153,
       "game_name": "Starlit Kart Racing",
       "file": "missing/S/215153-starlit-kart-racing.json"
@@ -214843,9 +214908,39 @@
       "file": "missing/S/155615-super-jigsaw-puzzle-generations-anime-puzzles-2.json"
     },
     {
+      "igdb_id": 155579,
+      "game_name": "Super Jigsaw Puzzle: Generations - Anime Puzzles 3",
+      "file": "missing/S/155579-super-jigsaw-puzzle-generations-anime-puzzles-3.json"
+    },
+    {
+      "igdb_id": 155612,
+      "game_name": "Super Jigsaw Puzzle: Generations - Australia Puzzles",
+      "file": "missing/S/155612-super-jigsaw-puzzle-generations-australia-puzzles.json"
+    },
+    {
+      "igdb_id": 155601,
+      "game_name": "Super Jigsaw Puzzle: Generations - Autumn Puzzles",
+      "file": "missing/S/155601-super-jigsaw-puzzle-generations-autumn-puzzles.json"
+    },
+    {
+      "igdb_id": 155582,
+      "game_name": "Super Jigsaw Puzzle: Generations - Baby Animals",
+      "file": "missing/S/155582-super-jigsaw-puzzle-generations-baby-animals.json"
+    },
+    {
       "igdb_id": 263751,
       "game_name": "Super Jigsaw Puzzle: Generations - Baby Animals 2",
       "file": "missing/S/263751-super-jigsaw-puzzle-generations-baby-animals-2.json"
+    },
+    {
+      "igdb_id": 155581,
+      "game_name": "Super Jigsaw Puzzle: Generations - Beaches 2",
+      "file": "missing/S/155581-super-jigsaw-puzzle-generations-beaches-2.json"
+    },
+    {
+      "igdb_id": 155599,
+      "game_name": "Super Jigsaw Puzzle: Generations - Beaches Puzzles",
+      "file": "missing/S/155599-super-jigsaw-puzzle-generations-beaches-puzzles.json"
     },
     {
       "igdb_id": 155637,
@@ -214868,9 +214963,39 @@
       "file": "missing/S/155628-super-jigsaw-puzzle-generations-birds-puzzles.json"
     },
     {
+      "igdb_id": 155607,
+      "game_name": "Super Jigsaw Puzzle: Generations - Boats Puzzles",
+      "file": "missing/S/155607-super-jigsaw-puzzle-generations-boats-puzzles.json"
+    },
+    {
+      "igdb_id": 155596,
+      "game_name": "Super Jigsaw Puzzle: Generations - Brazil Puzzles",
+      "file": "missing/S/155596-super-jigsaw-puzzle-generations-brazil-puzzles.json"
+    },
+    {
+      "igdb_id": 155593,
+      "game_name": "Super Jigsaw Puzzle: Generations - Bugs Puzzles",
+      "file": "missing/S/155593-super-jigsaw-puzzle-generations-bugs-puzzles.json"
+    },
+    {
       "igdb_id": 195279,
       "game_name": "Super Jigsaw Puzzle: Generations - Canada",
       "file": "missing/S/195279-super-jigsaw-puzzle-generations-canada.json"
+    },
+    {
+      "igdb_id": 155592,
+      "game_name": "Super Jigsaw Puzzle: Generations - Cars Puzzles",
+      "file": "missing/S/155592-super-jigsaw-puzzle-generations-cars-puzzles.json"
+    },
+    {
+      "igdb_id": 155595,
+      "game_name": "Super Jigsaw Puzzle: Generations - Castles Puzzles",
+      "file": "missing/S/155595-super-jigsaw-puzzle-generations-castles-puzzles.json"
+    },
+    {
+      "igdb_id": 155587,
+      "game_name": "Super Jigsaw Puzzle: Generations - Cats Puzzles",
+      "file": "missing/S/155587-super-jigsaw-puzzle-generations-cats-puzzles.json"
     },
     {
       "igdb_id": 155621,
@@ -214878,9 +215003,19 @@
       "file": "missing/S/155621-super-jigsaw-puzzle-generations-china-puzzles.json"
     },
     {
+      "igdb_id": 155585,
+      "game_name": "Super Jigsaw Puzzle: Generations - Christmas Puzzles",
+      "file": "missing/S/155585-super-jigsaw-puzzle-generations-christmas-puzzles.json"
+    },
+    {
       "igdb_id": 235728,
       "game_name": "Super Jigsaw Puzzle: Generations - Cities 2",
       "file": "missing/S/235728-super-jigsaw-puzzle-generations-cities-2.json"
+    },
+    {
+      "igdb_id": 155580,
+      "game_name": "Super Jigsaw Puzzle: Generations - Colorful",
+      "file": "missing/S/155580-super-jigsaw-puzzle-generations-colorful.json"
     },
     {
       "igdb_id": 293064,
@@ -214903,6 +215038,16 @@
       "file": "missing/S/155613-super-jigsaw-puzzle-generations-fantasy.json"
     },
     {
+      "igdb_id": 155598,
+      "game_name": "Super Jigsaw Puzzle: Generations - First Anniversary",
+      "file": "missing/S/155598-super-jigsaw-puzzle-generations-first-anniversary.json"
+    },
+    {
+      "igdb_id": 155609,
+      "game_name": "Super Jigsaw Puzzle: Generations - Flowers Puzzles",
+      "file": "missing/S/155609-super-jigsaw-puzzle-generations-flowers-puzzles.json"
+    },
+    {
       "igdb_id": 219578,
       "game_name": "Super Jigsaw Puzzle: Generations - Food",
       "file": "missing/S/219578-super-jigsaw-puzzle-generations-food.json"
@@ -214911,6 +215056,11 @@
       "igdb_id": 155632,
       "game_name": "Super Jigsaw Puzzle: Generations - France Puzzles",
       "file": "missing/S/155632-super-jigsaw-puzzle-generations-france-puzzles.json"
+    },
+    {
+      "igdb_id": 155589,
+      "game_name": "Super Jigsaw Puzzle: Generations - Germany Puzzles",
+      "file": "missing/S/155589-super-jigsaw-puzzle-generations-germany-puzzles.json"
     },
     {
       "igdb_id": 195257,
@@ -214933,6 +215083,11 @@
       "file": "missing/S/155614-super-jigsaw-puzzle-generations-iceland.json"
     },
     {
+      "igdb_id": 155594,
+      "game_name": "Super Jigsaw Puzzle: Generations - Italy Puzzles",
+      "file": "missing/S/155594-super-jigsaw-puzzle-generations-italy-puzzles.json"
+    },
+    {
       "igdb_id": 155641,
       "game_name": "Super Jigsaw Puzzle: Generations - Japan Puzzles",
       "file": "missing/S/155641-super-jigsaw-puzzle-generations-japan-puzzles.json"
@@ -214941,6 +215096,11 @@
       "igdb_id": 195278,
       "game_name": "Super Jigsaw Puzzle: Generations - Kittens 2",
       "file": "missing/S/195278-super-jigsaw-puzzle-generations-kittens-2.json"
+    },
+    {
+      "igdb_id": 155590,
+      "game_name": "Super Jigsaw Puzzle: Generations - Kittens Puzzles",
+      "file": "missing/S/155590-super-jigsaw-puzzle-generations-kittens-puzzles.json"
     },
     {
       "igdb_id": 155624,
@@ -214961,6 +215121,16 @@
       "igdb_id": 155622,
       "game_name": "Super Jigsaw Puzzle: Generations - Motorbikes Puzzles",
       "file": "missing/S/155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json"
+    },
+    {
+      "igdb_id": 155602,
+      "game_name": "Super Jigsaw Puzzle: Generations - New York Puzzles",
+      "file": "missing/S/155602-super-jigsaw-puzzle-generations-new-york-puzzles.json"
+    },
+    {
+      "igdb_id": 155578,
+      "game_name": "Super Jigsaw Puzzle: Generations - New Zealand",
+      "file": "missing/S/155578-super-jigsaw-puzzle-generations-new-zealand.json"
     },
     {
       "igdb_id": 155618,
@@ -214988,6 +215158,11 @@
       "file": "missing/S/155633-super-jigsaw-puzzle-generations-puppies-puzzles.json"
     },
     {
+      "igdb_id": 155604,
+      "game_name": "Super Jigsaw Puzzle: Generations - Random Animals Puzzles",
+      "file": "missing/S/155604-super-jigsaw-puzzle-generations-random-animals-puzzles.json"
+    },
+    {
       "igdb_id": 155636,
       "game_name": "Super Jigsaw Puzzle: Generations - Random Puzzles 2",
       "file": "missing/S/155636-super-jigsaw-puzzle-generations-random-puzzles-2.json"
@@ -215013,6 +215188,16 @@
       "file": "missing/S/155639-super-jigsaw-puzzle-generations-rodents.json"
     },
     {
+      "igdb_id": 155591,
+      "game_name": "Super Jigsaw Puzzle: Generations - Russia Puzzles",
+      "file": "missing/S/155591-super-jigsaw-puzzle-generations-russia-puzzles.json"
+    },
+    {
+      "igdb_id": 155605,
+      "game_name": "Super Jigsaw Puzzle: Generations - Sealife Puzzles",
+      "file": "missing/S/155605-super-jigsaw-puzzle-generations-sealife-puzzles.json"
+    },
+    {
       "igdb_id": 155616,
       "game_name": "Super Jigsaw Puzzle: Generations - Second Anniversary",
       "file": "missing/S/155616-super-jigsaw-puzzle-generations-second-anniversary.json"
@@ -215023,9 +215208,24 @@
       "file": "missing/S/155627-super-jigsaw-puzzle-generations-sjp-anime-reloaded-puzzles.json"
     },
     {
+      "igdb_id": 155603,
+      "game_name": "Super Jigsaw Puzzle: Generations - SJP Cities Puzzles",
+      "file": "missing/S/155603-super-jigsaw-puzzle-generations-sjp-cities-puzzles.json"
+    },
+    {
       "igdb_id": 155640,
       "game_name": "Super Jigsaw Puzzle: Generations - SJP Monuments Puzzles",
       "file": "missing/S/155640-super-jigsaw-puzzle-generations-sjp-monuments-puzzles.json"
+    },
+    {
+      "igdb_id": 155584,
+      "game_name": "Super Jigsaw Puzzle: Generations - SJP Space Puzzles",
+      "file": "missing/S/155584-super-jigsaw-puzzle-generations-sjp-space-puzzles.json"
+    },
+    {
+      "igdb_id": 155583,
+      "game_name": "Super Jigsaw Puzzle: Generations - Snakes Puzzles",
+      "file": "missing/S/155583-super-jigsaw-puzzle-generations-snakes-puzzles.json"
     },
     {
       "igdb_id": 293063,
@@ -215043,9 +215243,19 @@
       "file": "missing/S/155644-super-jigsaw-puzzle-generations-sports-puzzles.json"
     },
     {
+      "igdb_id": 155586,
+      "game_name": "Super Jigsaw Puzzle: Generations - Spring Puzzles",
+      "file": "missing/S/155586-super-jigsaw-puzzle-generations-spring-puzzles.json"
+    },
+    {
       "igdb_id": 155646,
       "game_name": "Super Jigsaw Puzzle: Generations - Streets Puzzles",
       "file": "missing/S/155646-super-jigsaw-puzzle-generations-streets-puzzles.json"
+    },
+    {
+      "igdb_id": 155606,
+      "game_name": "Super Jigsaw Puzzle: Generations - Summer 2020",
+      "file": "missing/S/155606-super-jigsaw-puzzle-generations-summer-2020.json"
     },
     {
       "igdb_id": 155630,
@@ -215053,9 +215263,29 @@
       "file": "missing/S/155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json"
     },
     {
+      "igdb_id": 155608,
+      "game_name": "Super Jigsaw Puzzle: Generations - Sweets Puzzles",
+      "file": "missing/S/155608-super-jigsaw-puzzle-generations-sweets-puzzles.json"
+    },
+    {
+      "igdb_id": 155610,
+      "game_name": "Super Jigsaw Puzzle: Generations - Trains Puzzles",
+      "file": "missing/S/155610-super-jigsaw-puzzle-generations-trains-puzzles.json"
+    },
+    {
+      "igdb_id": 155597,
+      "game_name": "Super Jigsaw Puzzle: Generations - United Kingdom",
+      "file": "missing/S/155597-super-jigsaw-puzzle-generations-united-kingdom.json"
+    },
+    {
       "igdb_id": 155634,
       "game_name": "Super Jigsaw Puzzle: Generations - USA Puzzles",
       "file": "missing/S/155634-super-jigsaw-puzzle-generations-usa-puzzles.json"
+    },
+    {
+      "igdb_id": 155588,
+      "game_name": "Super Jigsaw Puzzle: Generations - Vegetables",
+      "file": "missing/S/155588-super-jigsaw-puzzle-generations-vegetables.json"
     },
     {
       "igdb_id": 396204,
@@ -215068,9 +215298,19 @@
       "file": "missing/S/285471-super-jigsaw-puzzle-generations-waterfalls-2.json"
     },
     {
+      "igdb_id": 155600,
+      "game_name": "Super Jigsaw Puzzle: Generations - Waterfalls Puzzles",
+      "file": "missing/S/155600-super-jigsaw-puzzle-generations-waterfalls-puzzles.json"
+    },
+    {
       "igdb_id": 273631,
       "game_name": "Super Jigsaw Puzzle: Generations - Winter 2023",
       "file": "missing/S/273631-super-jigsaw-puzzle-generations-winter-2023.json"
+    },
+    {
+      "igdb_id": 155611,
+      "game_name": "Super Jigsaw Puzzle: Generations - Winter Puzzles",
+      "file": "missing/S/155611-super-jigsaw-puzzle-generations-winter-puzzles.json"
     },
     {
       "igdb_id": 267683,
@@ -218211,6 +218451,11 @@
       "igdb_id": 280236,
       "game_name": "Sweet Time",
       "file": "missing/S/280236-sweet-time.json"
+    },
+    {
+      "igdb_id": 155575,
+      "game_name": "Sweet Tooth",
+      "file": "missing/S/155575-sweet-tooth.json"
     },
     {
       "igdb_id": 208349,
