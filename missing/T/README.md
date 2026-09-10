@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
 | The Computer Spiele Museum's Museum Guide | 254510 | [254510-the-computer-spiele-museums-museum-guide.json](./254510-the-computer-spiele-museums-museum-guide.json) |
 | The Condition | 373548 | [373548-the-condition.json](./373548-the-condition.json) |
+| The Confession | 133365 | [133365-the-confession.json](./133365-the-confession.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
@@ -2025,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Initial | 44187 | [44187-the-initial.json](./44187-the-initial.json) |
 | The Initiate | 44181 | [44181-the-initiate.json](./44181-the-initiate.json) |
 | The Inlaws | 25004 | [25004-the-inlaws.json](./25004-the-inlaws.json) |
+| The Inn | 133384 | [133384-the-inn.json](./133384-the-inn.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
 | The Inquisitor 3D | 202846 | [202846-the-inquisitor-3d.json](./202846-the-inquisitor-3d.json) |
@@ -2034,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
 | The Interactive Adventures of Dog Mendonça and Pizzaboy | 17976 | [17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json](./17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
+| The Investigation Files of Assistant Arimura | 133387 | [133387-the-investigation-files-of-assistant-arimura.json](./133387-the-investigation-files-of-assistant-arimura.json) |
 | The Invincible | 138906 | [138906-the-invincible.json](./138906-the-invincible.json) |
 | The Invincible Run-Gun-Bot | 179653 | [179653-the-invincible-run-gun-bot.json](./179653-the-invincible-run-gun-bot.json) |
 | The Invincible: Deluxe Edition | 275594 | [275594-the-invincible-deluxe-edition.json](./275594-the-invincible-deluxe-edition.json) |
@@ -3114,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Mario Bros. Super Literature Club! | 294438 | [294438-the-super-mario-bros-super-literature-club.json](./294438-the-super-mario-bros-super-literature-club.json) |
 | The Super Mario Bros. Super Show! 64 | 135268 | [135268-the-super-mario-bros-super-show-64.json](./135268-the-super-mario-bros-super-show-64.json) |
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
+| The Superfluous Sand | 133398 | [133398-the-superfluous-sand.json](./133398-the-superfluous-sand.json) |
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
 | The Surge 2: Premium Edition | 154535 | [154535-the-surge-2-premium-edition.json](./154535-the-surge-2-premium-edition.json) |
