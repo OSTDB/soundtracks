@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
+| Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
 | Rabi to Navi no Daibouken | 206179 | [206179-rabi-to-navi-no-daibouken.json](./206179-rabi-to-navi-no-daibouken.json) |
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
@@ -126,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
+| Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
@@ -647,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Solstice 2: Survivors - Condatis Group | 193437 | [193437-red-solstice-2-survivors-condatis-group.json](./193437-red-solstice-2-survivors-condatis-group.json) |
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
 | Red Spider Anecdote: The Longest Nite | 324318 | [324318-red-spider-anecdote-the-longest-nite.json](./324318-red-spider-anecdote-the-longest-nite.json) |
+| Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
@@ -1335,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
+| Rising: Hungry Lizard | 165638 | [165638-rising-hungry-lizard.json](./165638-rising-hungry-lizard.json) |
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
 | Risk of Rain Returns | 229794 | [229794-risk-of-rain-returns.json](./229794-risk-of-rain-returns.json) |
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
@@ -1442,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robman | 178614 | [178614-robman.json](./178614-robman.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
+| Robo Go | 165715 | [165715-robo-go.json](./165715-robo-go.json) |
 | Robo Panic | 307599 | [307599-robo-panic.json](./307599-robo-panic.json) |
 | Robo Pose | 296354 | [296354-robo-pose.json](./296354-robo-pose.json) |
 | Robo Quest | 171545 | [171545-robo-quest.json](./171545-robo-quest.json) |
