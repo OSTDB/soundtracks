@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
 | The Battle Cats | 59746 | [59746-the-battle-cats.json](./59746-the-battle-cats.json) |
+| The Battle of Angels | 156603 | [156603-the-battle-of-angels.json](./156603-the-battle-of-angels.json) |
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
 | The Battle of Polytopia | 57153 | [57153-the-battle-of-polytopia.json](./57153-the-battle-of-polytopia.json) |
 | The Battle of Polytopia: Anzala | 366863 | [366863-the-battle-of-polytopia-anzala.json](./366863-the-battle-of-polytopia-anzala.json) |
@@ -3662,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
 | Tichi3D | 236830 | [236830-tichi3d.json](./236830-tichi3d.json) |
+| Tichu | 156643 | [156643-tichu.json](./156643-tichu.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
 | Ticket to Ride: Nordic Expansion | 298025 | [298025-ticket-to-ride-nordic-expansion.json](./298025-ticket-to-ride-nordic-expansion.json) |
 | Ticket to Ride: USA 1910 Ticket Pack | 311992 | [311992-ticket-to-ride-usa-1910-ticket-pack.json](./311992-ticket-to-ride-usa-1910-ticket-pack.json) |
@@ -4541,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
+| Top Truck Driver | 156642 | [156642-top-truck-driver.json](./156642-top-truck-driver.json) |
 | Top Trumps Turbo | 35897 | [35897-top-trumps-turbo.json](./35897-top-trumps-turbo.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
