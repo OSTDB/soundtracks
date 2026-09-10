@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T17:34:02.974Z",
-  "total_missing": 54623,
+  "generated_at": "2026-09-10T17:41:10.109Z",
+  "total_missing": 54622,
   "games": [
     {
       "igdb_id": 306086,
@@ -1586,11 +1586,6 @@
       "igdb_id": 54444,
       "game_name": "80.08",
       "file": "missing/0-9/54444-80-08.json"
-    },
-    {
-      "igdb_id": 132231,
-      "game_name": "80S escape",
-      "file": "missing/0-9/132231-80s-escape.json"
     },
     {
       "igdb_id": 269321,
