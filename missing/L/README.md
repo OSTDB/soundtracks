@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
 | Loot or Die | 31403 | [31403-loot-or-die.json](./31403-loot-or-die.json) |
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
+| Loot Train | 166154 | [166154-loot-train.json](./166154-loot-train.json) |
 | Lootale Slash | 398330 | [398330-lootale-slash.json](./398330-lootale-slash.json) |
 | Lootbag Tactics | 409527 | [409527-lootbag-tactics.json](./409527-lootbag-tactics.json) |
 | Lootbane | 370125 | [370125-lootbane.json](./370125-lootbane.json) |
