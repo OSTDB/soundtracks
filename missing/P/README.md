@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Alliance | 401515 | [401515-paw-alliance.json](./401515-paw-alliance.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
+| Paw Patrol the Movie: Adventure City Calls | 152302 | [152302-paw-patrol-the-movie-adventure-city-calls.json](./152302-paw-patrol-the-movie-adventure-city-calls.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | Pawapuro Stadium | 63285 | [63285-pawapuro-stadium.json](./63285-pawapuro-stadium.json) |
 | Pawapuro-kun Pocket 12 | 229923 | [229923-pawapuro-kun-pocket-12.json](./229923-pawapuro-kun-pocket-12.json) |
@@ -709,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
 | Peppered: An Existential Platformer | 170018 | [170018-peppered-an-existential-platformer.json](./170018-peppered-an-existential-platformer.json) |
 | Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
+| Peppy's Adventure | 152303 | [152303-peppys-adventure.json](./152303-peppys-adventure.json) |
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
 | Per Aspera: Home | 232963 | [232963-per-aspera-home.json](./232963-per-aspera-home.json) |
 | Perceptio | 195167 | [195167-perceptio.json](./195167-perceptio.json) |
@@ -1889,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
 | Police Tactical Training | 57657 | [57657-police-tactical-training.json](./57657-police-tactical-training.json) |
 | Police Transporter Simulator | 220650 | [220650-police-transporter-simulator.json](./220650-police-transporter-simulator.json) |
+| Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu! | 152332 | [152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json](./152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json) |
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
 | Polidog Patrol | 365703 | [365703-polidog-patrol.json](./365703-polidog-patrol.json) |
 | PoligonVR | 258481 | [258481-poligonvr.json](./258481-poligonvr.json) |
@@ -2608,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Unknown Designation | 309881 | [309881-project-unknown-designation.json](./309881-project-unknown-designation.json) |
 | Project Volition | 270123 | [270123-project-volition.json](./270123-project-volition.json) |
 | Project Vostok | 258985 | [258985-project-vostok.json](./258985-project-vostok.json) |
+| Project Warlock II | 152272 | [152272-project-warlock-ii.json](./152272-project-warlock-ii.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
 | Project Windless | 389432 | [389432-project-windless.json](./389432-project-windless.json) |
 | Project Wingman | 56859 | [56859-project-wingman.json](./56859-project-wingman.json) |
@@ -2783,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull the Beer | 406109 | [406109-pull-the-beer.json](./406109-pull-the-beer.json) |
 | Pull the Pin | 227513 | [227513-pull-the-pin.json](./227513-pull-the-pin.json) |
 | Pull'em All! | 208964 | [208964-pullem-all.json](./208964-pullem-all.json) |
+| Pullfrog | 152277 | [152277-pullfrog.json](./152277-pullfrog.json) |
 | Pulling Pin: Pull the Pin | 231910 | [231910-pulling-pin-pull-the-pin.json](./231910-pulling-pin-pull-the-pin.json) |
 | Pulp Race: Daft Enigma Fighter | 382780 | [382780-pulp-race-daft-enigma-fighter.json](./382780-pulp-race-daft-enigma-fighter.json) |
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
@@ -2885,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push the square | 375846 | [375846-push-the-square.json](./375846-push-the-square.json) |
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
+| Pushamo | 152281 | [152281-pushamo.json](./152281-pushamo.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
