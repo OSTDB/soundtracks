@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi Commits Tax Fraud 64 | 294710 | [294710-yoshi-commits-tax-fraud-64.json](./294710-yoshi-commits-tax-fraud-64.json) |
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
+| Yoshi vs. Windows Platinum | 142404 | [142404-yoshi-vs-windows-platinum.json](./142404-yoshi-vs-windows-platinum.json) |
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
 | Yoshida Koumuten | 265650 | [265650-yoshida-koumuten.json](./265650-yoshida-koumuten.json) |
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
