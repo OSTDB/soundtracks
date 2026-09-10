@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oldowan | 211222 | [211222-oldowan.json](./211222-oldowan.json) |
 | oldTail | 98990 | [98990-oldtail.json](./98990-oldtail.json) |
 | Ole! | 93045 | [93045-ole.json](./93045-ole.json) |
+| Oleg Mongol | 161331 | [161331-oleg-mongol.json](./161331-oleg-mongol.json) |
 | Olinda Fighters | 415941 | [415941-olinda-fighters.json](./415941-olinda-fighters.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Olivia | 402267 | [402267-olivia.json](./402267-olivia.json) |
