@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatHotel | 256531 | [256531-cathotel.json](./256531-cathotel.json) |
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
+| Catmageddon | 152882 | [152882-catmageddon.json](./152882-catmageddon.json) |
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
 | CatMxn: Chapter 1 | 196788 | [196788-catmxn-chapter-1.json](./196788-catmxn-chapter-1.json) |
 | Catnight | 188582 | [188582-catnight.json](./188582-catnight.json) |
@@ -1090,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
 | Chess Master | 245540 | [245540-chess-master.json](./245540-chess-master.json) |
+| Chess Mega Bundle | 152872 | [152872-chess-mega-bundle.json](./152872-chess-mega-bundle.json) |
 | Chess Minimal | 147955 | [147955-chess-minimal.json](./147955-chess-minimal.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
