@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
+| Namco Museum | 131507 | [131507-namco-museum.json](./131507-namco-museum.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
 | Namco Museum Mini Player | 220134 | [220134-namco-museum-mini-player.json](./220134-namco-museum-mini-player.json) |
@@ -589,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
 | New Athens | 179148 | [179148-new-athens.json](./179148-new-athens.json) |
+| New Chaos Code (tentative title) | 131549 | [131549-new-chaos-code-tentative-title.json](./131549-new-chaos-code-tentative-title.json) |
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
 | New English Training: Learning with Tempo - Advanced Edition | 260942 | [260942-new-english-training-learning-with-tempo-advanced-edition.json](./260942-new-english-training-learning-with-tempo-advanced-edition.json) |
@@ -1118,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobody's Home | 179732 | [179732-nobodys-home.json](./179732-nobodys-home.json) |
 | Nobody's Left | 250949 | [250949-nobodys-left.json](./250949-nobodys-left.json) |
 | Nobu Jump | 383934 | [383934-nobu-jump.json](./383934-nobu-jump.json) |
+| Nobunaga no Yabou | 131537 | [131537-nobunaga-no-yabou.json](./131537-nobunaga-no-yabou.json) |
 | Nobunaga no Yabou 201X | 61101 | [61101-nobunaga-no-yabou-201x.json](./61101-nobunaga-no-yabou-201x.json) |
 | Nobunaga no Yabou: Oretachi no Sengoku | 208626 | [208626-nobunaga-no-yabou-oretachi-no-sengoku.json](./208626-nobunaga-no-yabou-oretachi-no-sengoku.json) |
 | Nobunaga's Ambition: Hishou | 405470 | [405470-nobunagas-ambition-hishou.json](./405470-nobunagas-ambition-hishou.json) |
@@ -1400,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurse Call: Koi no Nurse Call | 324135 | [324135-nurse-call-koi-no-nurse-call.json](./324135-nurse-call-koi-no-nurse-call.json) |
 | Nurse Enjoy Gyaru Pack | 186233 | [186233-nurse-enjoy-gyaru-pack.json](./186233-nurse-enjoy-gyaru-pack.json) |
 | Nurse Love Addiction | 32511 | [32511-nurse-love-addiction.json](./32511-nurse-love-addiction.json) |
+| Nurse Love Obsession | 131557 | [131557-nurse-love-obsession.json](./131557-nurse-love-obsession.json) |
 | Nursery Rhyme | 69306 | [69306-nursery-rhyme.json](./69306-nursery-rhyme.json) |
 | Nusantara | 240772 | [240772-nusantara.json](./240772-nusantara.json) |
 | Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
