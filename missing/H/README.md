@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Mouse | 241373 | [241373-happy-mouse.json](./241373-happy-mouse.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
 | Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
+| Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
 | Happy Salvage | 143128 | [143128-happy-salvage.json](./143128-happy-salvage.json) |
@@ -558,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
+| HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headquarters: World War II - Ardennes | 324926 | [324926-headquarters-world-war-ii-ardennes.json](./324926-headquarters-world-war-ii-ardennes.json) |
 | Headrooms | 334472 | [334472-headrooms.json](./334472-headrooms.json) |
 | Heads Run | 82128 | [82128-heads-run.json](./82128-heads-run.json) |
@@ -2052,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter: The Reckoning - The Beast of Glenkildove | 250960 | [250960-hunter-the-reckoning-the-beast-of-glenkildove.json](./250960-hunter-the-reckoning-the-beast-of-glenkildove.json) |
 | Hunter's Arena: Revolution | 367978 | [367978-hunters-arena-revolution.json](./367978-hunters-arena-revolution.json) |
 | Hunter's Journey: Tears of the Lake - Collector's Edition | 362844 | [362844-hunters-journey-tears-of-the-lake-collectors-edition.json](./362844-hunters-journey-tears-of-the-lake-collectors-edition.json) |
+| Hunter's Moon | 144939 | [144939-hunters-moon.json](./144939-hunters-moon.json) |
 | Hunter's Seal | 365681 | [365681-hunters-seal.json](./365681-hunters-seal.json) |
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
