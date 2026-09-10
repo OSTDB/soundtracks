@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T06:33:55.655Z",
-  "total_missing": 53300,
+  "generated_at": "2026-09-10T06:41:18.711Z",
+  "total_missing": 53299,
   "games": [
     {
       "igdb_id": 306086,
@@ -1351,11 +1351,6 @@
       "igdb_id": 139436,
       "game_name": "4x4 Mania",
       "file": "missing/0-9/139436-4x4-mania.json"
-    },
-    {
-      "igdb_id": 148563,
-      "game_name": "4X4 Masters",
-      "file": "missing/0-9/148563-4x4-masters.json"
     },
     {
       "igdb_id": 264899,
