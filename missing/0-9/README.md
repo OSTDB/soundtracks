@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
+| 3D MiniGolf | 143059 | [143059-3d-minigolf.json](./143059-3d-minigolf.json) |
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Pool Game | 88273 | [88273-3d-pool-game.json](./88273-3d-pool-game.json) |
 | 3D Puyo Puyo 2: Tsuu | 87195 | [87195-3d-puyo-puyo-2-tsuu.json](./87195-3d-puyo-puyo-2-tsuu.json) |
