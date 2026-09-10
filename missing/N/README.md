@@ -524,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netspectre | 211225 | [211225-netspectre.json](./211225-netspectre.json) |
 | NetWalk | 283745 | [283745-netwalk.json](./283745-netwalk.json) |
 | NetWits | 57655 | [57655-netwits.json](./57655-netwits.json) |
+| Network | 147404 | [147404-network.json](./147404-network.json) |
 | Network | 95442 | [95442-network.json](./95442-network.json) |
 | Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
 | Network Nodes | 344949 | [344949-network-nodes.json](./344949-network-nodes.json) |
