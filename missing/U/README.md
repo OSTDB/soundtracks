@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultracore | 107188 | [107188-ultracore.json](./107188-ultracore.json) |
 | Ultradian | 265132 | [265132-ultradian.json](./265132-ultradian.json) |
 | Ultraflow 2 | 129790 | [129790-ultraflow-2.json](./129790-ultraflow-2.json) |
+| Ultragun Dreamland | 138728 | [138728-ultragun-dreamland.json](./138728-ultragun-dreamland.json) |
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
 | Ultrakill | 124333 | [124333-ultrakill.json](./124333-ultrakill.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
