@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: The Evasion | 222287 | [222287-half-life-the-evasion.json](./222287-half-life-the-evasion.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
 | Half-Life: VR Mod | 221166 | [221166-half-life-vr-mod.json](./221166-half-life-vr-mod.json) |
+| Halley's Dream | 169372 | [169372-halleys-dream.json](./169372-halleys-dream.json) |
 | Hallow Maze | 336525 | [336525-hallow-maze.json](./336525-hallow-maze.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
@@ -258,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
+| Happy Bones | 169394 | [169394-happy-bones.json](./169394-happy-bones.json) |
 | Happy Brain Puzzle | 208982 | [208982-happy-brain-puzzle.json](./208982-happy-brain-puzzle.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
 | Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
@@ -550,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heads-Up: Action Soccer | 208364 | [208364-heads-up-action-soccer.json](./208364-heads-up-action-soccer.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
+| Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Healthy Hero: Tower Defense | 284921 | [284921-healthy-hero-tower-defense.json](./284921-healthy-hero-tower-defense.json) |
