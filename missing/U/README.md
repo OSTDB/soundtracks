@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncompromising Mode | 294684 | [294684-uncompromising-mode.json](./294684-uncompromising-mode.json) |
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
+| Uncrashed: FPV Drone Simulator | 165627 | [165627-uncrashed-fpv-drone-simulator.json](./165627-uncrashed-fpv-drone-simulator.json) |
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
 | Undead Blackout | 34425 | [34425-undead-blackout.json](./34425-undead-blackout.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
