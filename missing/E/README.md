@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebullition LBVR | 121769 | [121769-ebullition-lbvr.json](./121769-ebullition-lbvr.json) |
 | Ecchi Beauties | 173821 | [173821-ecchi-beauties.json](./173821-ecchi-beauties.json) |
 | Ecchi Breaker | 378797 | [378797-ecchi-breaker.json](./378797-ecchi-breaker.json) |
+| Ecchi Jack | 169389 | [169389-ecchi-jack.json](./169389-ecchi-jack.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Ecchi Memories: Complete Edition | 317259 | [317259-ecchi-memories-complete-edition.json](./317259-ecchi-memories-complete-edition.json) |
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Hata | 285466 | [285466-escape-from-hata.json](./285466-escape-from-hata.json) |
 | Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
 | Escape from here | 68666 | [68666-escape-from-here.json](./68666-escape-from-here.json) |
+| Escape from hospital | 169392 | [169392-escape-from-hospital.json](./169392-escape-from-hospital.json) |
 | Escape from Irene | 329565 | [329565-escape-from-irene.json](./329565-escape-from-irene.json) |
 | Escape from Island | 313502 | [313502-escape-from-island.json](./313502-escape-from-island.json) |
 | Escape From Ithara | 224559 | [224559-escape-from-ithara.json](./224559-escape-from-ithara.json) |
@@ -1149,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Apples: Dirty as ____. | 86996 | [86996-evil-apples-dirty-as.json](./86996-evil-apples-dirty-as.json) |
 | Evil Castle & Princess | 258193 | [258193-evil-castle-and-princess.json](./258193-evil-castle-and-princess.json) |
 | Evil Crown | 45328 | [45328-evil-crown.json](./45328-evil-crown.json) |
+| Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
 | Evil Dead: The Game | 66308 | [66308-evil-dead-the-game.json](./66308-evil-dead-the-game.json) |
 | Evil Dead: The Game - Game of the Year Edition | 244790 | [244790-evil-dead-the-game-game-of-the-year-edition.json](./244790-evil-dead-the-game-game-of-the-year-edition.json) |
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
