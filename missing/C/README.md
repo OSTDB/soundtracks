@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
+| Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.6 | 375180 | [375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json](./375180-cardfight-vanguard-dear-days-2-card-unlock-vol-6.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
 | Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
 | Chicken Assassin: Reloaded | 100501 | [100501-chicken-assassin-reloaded.json](./100501-chicken-assassin-reloaded.json) |
+| Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
 | Chicken Coop Invaders | 388753 | [388753-chicken-coop-invaders.json](./388753-chicken-coop-invaders.json) |
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
@@ -1272,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiralmori | 287634 | [287634-chiralmori.json](./287634-chiralmori.json) |
 | Chirashiiru | 325444 | [325444-chirashiiru.json](./325444-chirashiiru.json) |
 | ChiroTerra | 278168 | [278168-chiroterra.json](./278168-chiroterra.json) |
+| Chitei Kekkadou: The Blood Flower Dungeon | 137616 | [137616-chitei-kekkadou-the-blood-flower-dungeon.json](./137616-chitei-kekkadou-the-blood-flower-dungeon.json) |
 | Chitei Tairiku Orudoora | 41379 | [41379-chitei-tairiku-orudoora.json](./41379-chitei-tairiku-orudoora.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
@@ -1500,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
+| Circle of Football | 137614 | [137614-circle-of-football.json](./137614-circle-of-football.json) |
 | Circle of Orion | 257930 | [257930-circle-of-orion.json](./257930-circle-of-orion.json) |
 | Circle of Sumo: Online Rumble! | 126661 | [126661-circle-of-sumo-online-rumble.json](./126661-circle-of-sumo-online-rumble.json) |
 | Circle the Fish | 214168 | [214168-circle-the-fish.json](./214168-circle-the-fish.json) |
@@ -1882,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
+| Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
 | CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
@@ -3188,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Cube! | 234324 | [234324-cube-cube.json](./234324-cube-cube.json) |
 | Cube Fight | 213613 | [213613-cube-fight.json](./213613-cube-fight.json) |
 | Cube Foundry | 349876 | [349876-cube-foundry.json](./349876-cube-foundry.json) |
+| Cube Game | 137605 | [137605-cube-game.json](./137605-cube-game.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
