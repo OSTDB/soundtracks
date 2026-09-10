@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Bringer | 192434 | [192434-samurai-bringer.json](./192434-samurai-bringer.json) |
 | Samurai Champloo: Sidetracked | 19625 | [19625-samurai-champloo-sidetracked.json](./19625-samurai-champloo-sidetracked.json) |
 | Samurai Chess | 149571 | [149571-samurai-chess.json](./149571-samurai-chess.json) |
+| Samurai Cooking | 155665 | [155665-samurai-cooking.json](./155665-samurai-cooking.json) |
 | Samurai Daisuke | 233502 | [233502-samurai-daisuke.json](./233502-samurai-daisuke.json) |
 | Samurai Defender | 84903 | [84903-samurai-defender.json](./84903-samurai-defender.json) |
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
@@ -4355,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Idol: Colorful Top Stage! | 194586 | [194586-starlight-idol-colorful-top-stage.json](./194586-starlight-idol-colorful-top-stage.json) |
 | Starlight Mining Company | 372998 | [372998-starlight-mining-company.json](./372998-starlight-mining-company.json) |
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
+| Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | Starlit Kart Racing | 215153 | [215153-starlit-kart-racing.json](./215153-starlit-kart-racing.json) |
 | Starlite | 137057 | [137057-starlite.json](./137057-starlite.json) |
 | Starlite: Defender of Justice | 156687 | [156687-starlite-defender-of-justice.json](./156687-starlite-defender-of-justice.json) |
@@ -5405,52 +5407,87 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Airplanes Puzzles | 155629 | [155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json](./155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Amusements | 262939 | [262939-super-jigsaw-puzzle-generations-amusements.json](./262939-super-jigsaw-puzzle-generations-amusements.json) |
 | Super Jigsaw Puzzle: Generations - Anime Puzzles 2 | 155615 | [155615-super-jigsaw-puzzle-generations-anime-puzzles-2.json](./155615-super-jigsaw-puzzle-generations-anime-puzzles-2.json) |
+| Super Jigsaw Puzzle: Generations - Anime Puzzles 3 | 155579 | [155579-super-jigsaw-puzzle-generations-anime-puzzles-3.json](./155579-super-jigsaw-puzzle-generations-anime-puzzles-3.json) |
+| Super Jigsaw Puzzle: Generations - Australia Puzzles | 155612 | [155612-super-jigsaw-puzzle-generations-australia-puzzles.json](./155612-super-jigsaw-puzzle-generations-australia-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Autumn Puzzles | 155601 | [155601-super-jigsaw-puzzle-generations-autumn-puzzles.json](./155601-super-jigsaw-puzzle-generations-autumn-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Baby Animals | 155582 | [155582-super-jigsaw-puzzle-generations-baby-animals.json](./155582-super-jigsaw-puzzle-generations-baby-animals.json) |
 | Super Jigsaw Puzzle: Generations - Baby Animals 2 | 263751 | [263751-super-jigsaw-puzzle-generations-baby-animals-2.json](./263751-super-jigsaw-puzzle-generations-baby-animals-2.json) |
+| Super Jigsaw Puzzle: Generations - Beaches 2 | 155581 | [155581-super-jigsaw-puzzle-generations-beaches-2.json](./155581-super-jigsaw-puzzle-generations-beaches-2.json) |
+| Super Jigsaw Puzzle: Generations - Beaches Puzzles | 155599 | [155599-super-jigsaw-puzzle-generations-beaches-puzzles.json](./155599-super-jigsaw-puzzle-generations-beaches-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Bears Puzzles | 155637 | [155637-super-jigsaw-puzzle-generations-bears-puzzles.json](./155637-super-jigsaw-puzzle-generations-bears-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Big Cats Puzzles | 155620 | [155620-super-jigsaw-puzzle-generations-big-cats-puzzles.json](./155620-super-jigsaw-puzzle-generations-big-cats-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Bikes Puzzles | 155631 | [155631-super-jigsaw-puzzle-generations-bikes-puzzles.json](./155631-super-jigsaw-puzzle-generations-bikes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Birds Puzzles | 155628 | [155628-super-jigsaw-puzzle-generations-birds-puzzles.json](./155628-super-jigsaw-puzzle-generations-birds-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Boats Puzzles | 155607 | [155607-super-jigsaw-puzzle-generations-boats-puzzles.json](./155607-super-jigsaw-puzzle-generations-boats-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Brazil Puzzles | 155596 | [155596-super-jigsaw-puzzle-generations-brazil-puzzles.json](./155596-super-jigsaw-puzzle-generations-brazil-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Bugs Puzzles | 155593 | [155593-super-jigsaw-puzzle-generations-bugs-puzzles.json](./155593-super-jigsaw-puzzle-generations-bugs-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Canada | 195279 | [195279-super-jigsaw-puzzle-generations-canada.json](./195279-super-jigsaw-puzzle-generations-canada.json) |
+| Super Jigsaw Puzzle: Generations - Cars Puzzles | 155592 | [155592-super-jigsaw-puzzle-generations-cars-puzzles.json](./155592-super-jigsaw-puzzle-generations-cars-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Castles Puzzles | 155595 | [155595-super-jigsaw-puzzle-generations-castles-puzzles.json](./155595-super-jigsaw-puzzle-generations-castles-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Cats Puzzles | 155587 | [155587-super-jigsaw-puzzle-generations-cats-puzzles.json](./155587-super-jigsaw-puzzle-generations-cats-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - China Puzzles | 155621 | [155621-super-jigsaw-puzzle-generations-china-puzzles.json](./155621-super-jigsaw-puzzle-generations-china-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Christmas Puzzles | 155585 | [155585-super-jigsaw-puzzle-generations-christmas-puzzles.json](./155585-super-jigsaw-puzzle-generations-christmas-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Cities 2 | 235728 | [235728-super-jigsaw-puzzle-generations-cities-2.json](./235728-super-jigsaw-puzzle-generations-cities-2.json) |
+| Super Jigsaw Puzzle: Generations - Colorful | 155580 | [155580-super-jigsaw-puzzle-generations-colorful.json](./155580-super-jigsaw-puzzle-generations-colorful.json) |
 | Super Jigsaw Puzzle: Generations - Dogs 2 | 293064 | [293064-super-jigsaw-puzzle-generations-dogs-2.json](./293064-super-jigsaw-puzzle-generations-dogs-2.json) |
 | Super Jigsaw Puzzle: Generations - Dogs Puzzles | 155619 | [155619-super-jigsaw-puzzle-generations-dogs-puzzles.json](./155619-super-jigsaw-puzzle-generations-dogs-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Egypt | 258993 | [258993-super-jigsaw-puzzle-generations-egypt.json](./258993-super-jigsaw-puzzle-generations-egypt.json) |
 | Super Jigsaw Puzzle: Generations - Fantasy | 155613 | [155613-super-jigsaw-puzzle-generations-fantasy.json](./155613-super-jigsaw-puzzle-generations-fantasy.json) |
+| Super Jigsaw Puzzle: Generations - First Anniversary | 155598 | [155598-super-jigsaw-puzzle-generations-first-anniversary.json](./155598-super-jigsaw-puzzle-generations-first-anniversary.json) |
+| Super Jigsaw Puzzle: Generations - Flowers Puzzles | 155609 | [155609-super-jigsaw-puzzle-generations-flowers-puzzles.json](./155609-super-jigsaw-puzzle-generations-flowers-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Food | 219578 | [219578-super-jigsaw-puzzle-generations-food.json](./219578-super-jigsaw-puzzle-generations-food.json) |
 | Super Jigsaw Puzzle: Generations - France Puzzles | 155632 | [155632-super-jigsaw-puzzle-generations-france-puzzles.json](./155632-super-jigsaw-puzzle-generations-france-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Germany Puzzles | 155589 | [155589-super-jigsaw-puzzle-generations-germany-puzzles.json](./155589-super-jigsaw-puzzle-generations-germany-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Greece | 195257 | [195257-super-jigsaw-puzzle-generations-greece.json](./195257-super-jigsaw-puzzle-generations-greece.json) |
 | Super Jigsaw Puzzle: Generations - Halloween Puzzles | 155635 | [155635-super-jigsaw-puzzle-generations-halloween-puzzles.json](./155635-super-jigsaw-puzzle-generations-halloween-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Horses Puzzles | 155626 | [155626-super-jigsaw-puzzle-generations-horses-puzzles.json](./155626-super-jigsaw-puzzle-generations-horses-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Iceland | 155614 | [155614-super-jigsaw-puzzle-generations-iceland.json](./155614-super-jigsaw-puzzle-generations-iceland.json) |
+| Super Jigsaw Puzzle: Generations - Italy Puzzles | 155594 | [155594-super-jigsaw-puzzle-generations-italy-puzzles.json](./155594-super-jigsaw-puzzle-generations-italy-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Japan Puzzles | 155641 | [155641-super-jigsaw-puzzle-generations-japan-puzzles.json](./155641-super-jigsaw-puzzle-generations-japan-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Kittens 2 | 195278 | [195278-super-jigsaw-puzzle-generations-kittens-2.json](./195278-super-jigsaw-puzzle-generations-kittens-2.json) |
+| Super Jigsaw Puzzle: Generations - Kittens Puzzles | 155590 | [155590-super-jigsaw-puzzle-generations-kittens-puzzles.json](./155590-super-jigsaw-puzzle-generations-kittens-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Landscapes Puzzles | 155624 | [155624-super-jigsaw-puzzle-generations-landscapes-puzzles.json](./155624-super-jigsaw-puzzle-generations-landscapes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Love | 195277 | [195277-super-jigsaw-puzzle-generations-love.json](./195277-super-jigsaw-puzzle-generations-love.json) |
 | Super Jigsaw Puzzle: Generations - Mexico Puzzles | 155642 | [155642-super-jigsaw-puzzle-generations-mexico-puzzles.json](./155642-super-jigsaw-puzzle-generations-mexico-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Motorbikes Puzzles | 155622 | [155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json](./155622-super-jigsaw-puzzle-generations-motorbikes-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - New York Puzzles | 155602 | [155602-super-jigsaw-puzzle-generations-new-york-puzzles.json](./155602-super-jigsaw-puzzle-generations-new-york-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - New Zealand | 155578 | [155578-super-jigsaw-puzzle-generations-new-zealand.json](./155578-super-jigsaw-puzzle-generations-new-zealand.json) |
 | Super Jigsaw Puzzle: Generations - Original SJP | 155618 | [155618-super-jigsaw-puzzle-generations-original-sjp.json](./155618-super-jigsaw-puzzle-generations-original-sjp.json) |
 | Super Jigsaw Puzzle: Generations - Paintings Puzzles | 155623 | [155623-super-jigsaw-puzzle-generations-paintings-puzzles.json](./155623-super-jigsaw-puzzle-generations-paintings-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Paris | 212239 | [212239-super-jigsaw-puzzle-generations-paris.json](./212239-super-jigsaw-puzzle-generations-paris.json) |
 | Super Jigsaw Puzzle: Generations - Portugal | 266808 | [266808-super-jigsaw-puzzle-generations-portugal.json](./266808-super-jigsaw-puzzle-generations-portugal.json) |
 | Super Jigsaw Puzzle: Generations - Puppies Puzzles | 155633 | [155633-super-jigsaw-puzzle-generations-puppies-puzzles.json](./155633-super-jigsaw-puzzle-generations-puppies-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Random Animals Puzzles | 155604 | [155604-super-jigsaw-puzzle-generations-random-animals-puzzles.json](./155604-super-jigsaw-puzzle-generations-random-animals-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 2 | 155636 | [155636-super-jigsaw-puzzle-generations-random-puzzles-2.json](./155636-super-jigsaw-puzzle-generations-random-puzzles-2.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 3 | 155645 | [155645-super-jigsaw-puzzle-generations-random-puzzles-3.json](./155645-super-jigsaw-puzzle-generations-random-puzzles-3.json) |
 | Super Jigsaw Puzzle: Generations - Random Puzzles 4 | 195276 | [195276-super-jigsaw-puzzle-generations-random-puzzles-4.json](./195276-super-jigsaw-puzzle-generations-random-puzzles-4.json) |
 | Super Jigsaw Puzzle: Generations - Reptiles | 155638 | [155638-super-jigsaw-puzzle-generations-reptiles.json](./155638-super-jigsaw-puzzle-generations-reptiles.json) |
 | Super Jigsaw Puzzle: Generations - Rodents | 155639 | [155639-super-jigsaw-puzzle-generations-rodents.json](./155639-super-jigsaw-puzzle-generations-rodents.json) |
+| Super Jigsaw Puzzle: Generations - Russia Puzzles | 155591 | [155591-super-jigsaw-puzzle-generations-russia-puzzles.json](./155591-super-jigsaw-puzzle-generations-russia-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Sealife Puzzles | 155605 | [155605-super-jigsaw-puzzle-generations-sealife-puzzles.json](./155605-super-jigsaw-puzzle-generations-sealife-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Second Anniversary | 155616 | [155616-super-jigsaw-puzzle-generations-second-anniversary.json](./155616-super-jigsaw-puzzle-generations-second-anniversary.json) |
 | Super Jigsaw Puzzle: Generations - SJP Anime Reloaded Puzzles | 155627 | [155627-super-jigsaw-puzzle-generations-sjp-anime-reloaded-puzzles.json](./155627-super-jigsaw-puzzle-generations-sjp-anime-reloaded-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - SJP Cities Puzzles | 155603 | [155603-super-jigsaw-puzzle-generations-sjp-cities-puzzles.json](./155603-super-jigsaw-puzzle-generations-sjp-cities-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - SJP Monuments Puzzles | 155640 | [155640-super-jigsaw-puzzle-generations-sjp-monuments-puzzles.json](./155640-super-jigsaw-puzzle-generations-sjp-monuments-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - SJP Space Puzzles | 155584 | [155584-super-jigsaw-puzzle-generations-sjp-space-puzzles.json](./155584-super-jigsaw-puzzle-generations-sjp-space-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Snakes Puzzles | 155583 | [155583-super-jigsaw-puzzle-generations-snakes-puzzles.json](./155583-super-jigsaw-puzzle-generations-snakes-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - South Korea | 293063 | [293063-super-jigsaw-puzzle-generations-south-korea.json](./293063-super-jigsaw-puzzle-generations-south-korea.json) |
 | Super Jigsaw Puzzle: Generations - Spain Puzzles | 155617 | [155617-super-jigsaw-puzzle-generations-spain-puzzles.json](./155617-super-jigsaw-puzzle-generations-spain-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Sports Puzzles | 155644 | [155644-super-jigsaw-puzzle-generations-sports-puzzles.json](./155644-super-jigsaw-puzzle-generations-sports-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Spring Puzzles | 155586 | [155586-super-jigsaw-puzzle-generations-spring-puzzles.json](./155586-super-jigsaw-puzzle-generations-spring-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Streets Puzzles | 155646 | [155646-super-jigsaw-puzzle-generations-streets-puzzles.json](./155646-super-jigsaw-puzzle-generations-streets-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Summer 2020 | 155606 | [155606-super-jigsaw-puzzle-generations-summer-2020.json](./155606-super-jigsaw-puzzle-generations-summer-2020.json) |
 | Super Jigsaw Puzzle: Generations - Sunsets Puzzles | 155630 | [155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json](./155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Sweets Puzzles | 155608 | [155608-super-jigsaw-puzzle-generations-sweets-puzzles.json](./155608-super-jigsaw-puzzle-generations-sweets-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Trains Puzzles | 155610 | [155610-super-jigsaw-puzzle-generations-trains-puzzles.json](./155610-super-jigsaw-puzzle-generations-trains-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - United Kingdom | 155597 | [155597-super-jigsaw-puzzle-generations-united-kingdom.json](./155597-super-jigsaw-puzzle-generations-united-kingdom.json) |
 | Super Jigsaw Puzzle: Generations - USA Puzzles | 155634 | [155634-super-jigsaw-puzzle-generations-usa-puzzles.json](./155634-super-jigsaw-puzzle-generations-usa-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Vegetables | 155588 | [155588-super-jigsaw-puzzle-generations-vegetables.json](./155588-super-jigsaw-puzzle-generations-vegetables.json) |
 | Super Jigsaw Puzzle: Generations - Vegetables 2 | 396204 | [396204-super-jigsaw-puzzle-generations-vegetables-2.json](./396204-super-jigsaw-puzzle-generations-vegetables-2.json) |
 | Super Jigsaw Puzzle: Generations - Waterfalls 2 | 285471 | [285471-super-jigsaw-puzzle-generations-waterfalls-2.json](./285471-super-jigsaw-puzzle-generations-waterfalls-2.json) |
+| Super Jigsaw Puzzle: Generations - Waterfalls Puzzles | 155600 | [155600-super-jigsaw-puzzle-generations-waterfalls-puzzles.json](./155600-super-jigsaw-puzzle-generations-waterfalls-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Winter 2023 | 273631 | [273631-super-jigsaw-puzzle-generations-winter-2023.json](./273631-super-jigsaw-puzzle-generations-winter-2023.json) |
+| Super Jigsaw Puzzle: Generations - Winter Puzzles | 155611 | [155611-super-jigsaw-puzzle-generations-winter-puzzles.json](./155611-super-jigsaw-puzzle-generations-winter-puzzles.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Kart Racer | 267954 | [267954-super-kart-racer.json](./267954-super-kart-racer.json) |
 | Super Karts | 50614 | [50614-super-karts.json](./50614-super-karts.json) |
@@ -6079,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Thomas | 126645 | [126645-sweet-thomas.json](./126645-sweet-thomas.json) |
 | Sweet Time | 156611 | [156611-sweet-time.json](./156611-sweet-time.json) |
 | Sweet Time | 280236 | [280236-sweet-time.json](./280236-sweet-time.json) |
+| Sweet Tooth | 155575 | [155575-sweet-tooth.json](./155575-sweet-tooth.json) |
 | Sweet Tooth to Go | 208349 | [208349-sweet-tooth-to-go.json](./208349-sweet-tooth-to-go.json) |
 | Sweet Tooth Town | 355003 | [355003-sweet-tooth-town.json](./355003-sweet-tooth-town.json) |
 | Sweet Treat Solitaire | 386150 | [386150-sweet-treat-solitaire.json](./386150-sweet-treat-solitaire.json) |
