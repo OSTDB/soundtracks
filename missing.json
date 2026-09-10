@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T00:41:13.246Z",
-  "total_missing": 52395,
+  "generated_at": "2026-09-10T00:48:32.706Z",
+  "total_missing": 52445,
   "games": [
     {
       "igdb_id": 306086,
@@ -13803,6 +13803,11 @@
       "file": "missing/A/334663-arctis.json"
     },
     {
+      "igdb_id": 168331,
+      "game_name": "Ardarium",
+      "file": "missing/A/168331-ardarium.json"
+    },
+    {
       "igdb_id": 260389,
       "game_name": "Ardem",
       "file": "missing/A/260389-ardem.json"
@@ -17738,6 +17743,11 @@
       "file": "missing/A/175679-awaken-astral-blade.json"
     },
     {
+      "igdb_id": 168327,
+      "game_name": "Awaken: Chaos Era",
+      "file": "missing/A/168327-awaken-chaos-era.json"
+    },
+    {
       "igdb_id": 99010,
       "game_name": "Awaken: Gunpowder Adventurer Daydream",
       "file": "missing/A/99010-awaken-gunpowder-adventurer-daydream.json"
@@ -21603,6 +21613,56 @@
       "file": "missing/B/339114-battle-of-emperor-tian.json"
     },
     {
+      "igdb_id": 168302,
+      "game_name": "Battle of Empires: 1914-1918 - Battle of Cambrai",
+      "file": "missing/B/168302-battle-of-empires-1914-1918-battle-of-cambrai.json"
+    },
+    {
+      "igdb_id": 168303,
+      "game_name": "Battle of Empires: 1914-1918 - British Empire",
+      "file": "missing/B/168303-battle-of-empires-1914-1918-british-empire.json"
+    },
+    {
+      "igdb_id": 168300,
+      "game_name": "Battle of Empires: 1914-1918 - French Campaign",
+      "file": "missing/B/168300-battle-of-empires-1914-1918-french-campaign.json"
+    },
+    {
+      "igdb_id": 168301,
+      "game_name": "Battle of Empires: 1914-1918 - German Campaign",
+      "file": "missing/B/168301-battle-of-empires-1914-1918-german-campaign.json"
+    },
+    {
+      "igdb_id": 168297,
+      "game_name": "Battle of Empires: 1914-1918 - Honor of the Empire",
+      "file": "missing/B/168297-battle-of-empires-1914-1918-honor-of-the-empire.json"
+    },
+    {
+      "igdb_id": 168298,
+      "game_name": "Battle of Empires: 1914-1918 - MP Pack 1",
+      "file": "missing/B/168298-battle-of-empires-1914-1918-mp-pack-1.json"
+    },
+    {
+      "igdb_id": 168295,
+      "game_name": "Battle of Empires: 1914-1918 - MP Pack 2",
+      "file": "missing/B/168295-battle-of-empires-1914-1918-mp-pack-2.json"
+    },
+    {
+      "igdb_id": 168299,
+      "game_name": "Battle of Empires: 1914-1918 - Real War",
+      "file": "missing/B/168299-battle-of-empires-1914-1918-real-war.json"
+    },
+    {
+      "igdb_id": 168304,
+      "game_name": "Battle of Empires: 1914-1918 - Russian Empire",
+      "file": "missing/B/168304-battle-of-empires-1914-1918-russian-empire.json"
+    },
+    {
+      "igdb_id": 168296,
+      "game_name": "Battle of Empires: 1914-1918 - Skirmish Pack",
+      "file": "missing/B/168296-battle-of-empires-1914-1918-skirmish-pack.json"
+    },
+    {
       "igdb_id": 279010,
       "game_name": "Battle of Fate",
       "file": "missing/B/279010-battle-of-fate.json"
@@ -24381,6 +24441,11 @@
       "igdb_id": 329021,
       "game_name": "Big Hunt",
       "file": "missing/B/329021-big-hunt.json"
+    },
+    {
+      "igdb_id": 168335,
+      "game_name": "Big Klondike: Classic Solitaire",
+      "file": "missing/B/168335-big-klondike-classic-solitaire.json"
     },
     {
       "igdb_id": 289855,
@@ -30208,6 +30273,11 @@
       "file": "missing/B/5366-bram-stokers-dracula.json"
     },
     {
+      "igdb_id": 168338,
+      "game_name": "Brambles in the Mist",
+      "file": "missing/B/168338-brambles-in-the-mist.json"
+    },
+    {
       "igdb_id": 80614,
       "game_name": "Braminar",
       "file": "missing/B/80614-braminar.json"
@@ -31761,6 +31831,11 @@
       "igdb_id": 332248,
       "game_name": "Bubble Bobble Classic",
       "file": "missing/B/332248-bubble-bobble-classic.json"
+    },
+    {
+      "igdb_id": 168337,
+      "game_name": "Bubble Breaking",
+      "file": "missing/B/168337-bubble-breaking.json"
     },
     {
       "igdb_id": 76633,
@@ -43798,6 +43873,31 @@
       "file": "missing/C/145682-company-of-heroes-2-complete-collection.json"
     },
     {
+      "igdb_id": 168294,
+      "game_name": "Company of Heroes 2: German Commander - Spearhead Doctrine",
+      "file": "missing/C/168294-company-of-heroes-2-german-commander-spearhead-doctrine.json"
+    },
+    {
+      "igdb_id": 168291,
+      "game_name": "Company of Heroes 2: Soviet Commander - Partisan Tactics",
+      "file": "missing/C/168291-company-of-heroes-2-soviet-commander-partisan-tactics.json"
+    },
+    {
+      "igdb_id": 168292,
+      "game_name": "Company of Heroes 2: Soviet Commander - Tank Hunter Tactics",
+      "file": "missing/C/168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json"
+    },
+    {
+      "igdb_id": 168293,
+      "game_name": "Company of Heroes 2: Soviet Commander - Terror Tactics",
+      "file": "missing/C/168293-company-of-heroes-2-soviet-commander-terror-tactics.json"
+    },
+    {
+      "igdb_id": 168290,
+      "game_name": "Company of Heroes 2: US Forces Commander - Rifle Company",
+      "file": "missing/C/168290-company-of-heroes-2-us-forces-commander-rifle-company.json"
+    },
+    {
       "igdb_id": 228537,
       "game_name": "Company of Heroes 3: Console Edition",
       "file": "missing/C/228537-company-of-heroes-3-console-edition.json"
@@ -48013,6 +48113,11 @@
       "file": "missing/C/25415-crusader-kings-complete.json"
     },
     {
+      "igdb_id": 168339,
+      "game_name": "Crusader Kings II: Finno-Ugric Unit Pack",
+      "file": "missing/C/168339-crusader-kings-ii-finno-ugric-unit-pack.json"
+    },
+    {
       "igdb_id": 164510,
       "game_name": "Crusader Kings III: Northern Lords",
       "file": "missing/C/164510-crusader-kings-iii-northern-lords.json"
@@ -50648,6 +50753,11 @@
       "file": "missing/D/408059-dan-marinos-powerplay-football.json"
     },
     {
+      "igdb_id": 168305,
+      "game_name": "Dan Sisal's 501 Darts Trainer",
+      "file": "missing/D/168305-dan-sisals-501-darts-trainer.json"
+    },
+    {
       "igdb_id": 63879,
       "game_name": "Dan Vs. This Game",
       "file": "missing/D/63879-dan-vs-this-game.json"
@@ -50741,6 +50851,11 @@
       "igdb_id": 412278,
       "game_name": "Dance of the Butterflies",
       "file": "missing/D/412278-dance-of-the-butterflies.json"
+    },
+    {
+      "igdb_id": 168323,
+      "game_name": "Dance of the Vampires",
+      "file": "missing/D/168323-dance-of-the-vampires.json"
     },
     {
       "igdb_id": 178595,
@@ -51321,6 +51436,11 @@
       "igdb_id": 260412,
       "game_name": "Dark Desire Mute 6",
       "file": "missing/D/260412-dark-desire-mute-6.json"
+    },
+    {
+      "igdb_id": 168324,
+      "game_name": "Dark Disciples II",
+      "file": "missing/D/168324-dark-disciples-ii.json"
     },
     {
       "igdb_id": 277021,
@@ -57908,6 +58028,11 @@
       "file": "missing/D/302344-dish-up-fruit.json"
     },
     {
+      "igdb_id": 168325,
+      "game_name": "Disharmony",
+      "file": "missing/D/168325-disharmony.json"
+    },
+    {
       "igdb_id": 389968,
       "game_name": "DishDash",
       "file": "missing/D/389968-dishdash.json"
@@ -61136,6 +61261,11 @@
       "igdb_id": 9094,
       "game_name": "Dracula 5: The Blood Legacy",
       "file": "missing/D/9094-dracula-5-the-blood-legacy.json"
+    },
+    {
+      "igdb_id": 168320,
+      "game_name": "Dracula Frames",
+      "file": "missing/D/168320-dracula-frames.json"
     },
     {
       "igdb_id": 66111,
@@ -68058,6 +68188,11 @@
       "file": "missing/E/170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json"
     },
     {
+      "igdb_id": 168306,
+      "game_name": "Enchanted Kingdom: The Secret of the Golden Lamp - Collector's Edition",
+      "file": "missing/E/168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json"
+    },
+    {
       "igdb_id": 386148,
       "game_name": "Enchanted Memories",
       "file": "missing/E/386148-enchanted-memories.json"
@@ -72406,6 +72541,11 @@
       "igdb_id": 173306,
       "game_name": "Facteroids",
       "file": "missing/F/173306-facteroids.json"
+    },
+    {
+      "igdb_id": 168317,
+      "game_name": "Faction Wars",
+      "file": "missing/F/168317-faction-wars.json"
     },
     {
       "igdb_id": 200171,
@@ -83713,6 +83853,11 @@
       "file": "missing/F/327580-futari-ha-pretty-cure-splash-star.json"
     },
     {
+      "igdb_id": 168329,
+      "game_name": "Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou!",
+      "file": "missing/F/168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json"
+    },
+    {
       "igdb_id": 310210,
       "game_name": "Futariuum's Gate",
       "file": "missing/F/310210-futariuums-gate.json"
@@ -92511,6 +92656,11 @@
       "igdb_id": 374589,
       "game_name": "Gunblade Ranger",
       "file": "missing/G/374589-gunblade-ranger.json"
+    },
+    {
+      "igdb_id": 168315,
+      "game_name": "GunBlocks",
+      "file": "missing/G/168315-gunblocks.json"
     },
     {
       "igdb_id": 305189,
@@ -128873,6 +129023,11 @@
       "file": "missing/M/105382-malfortune.json"
     },
     {
+      "igdb_id": 168326,
+      "game_name": "Malfunction FPS",
+      "file": "missing/M/168326-malfunction-fps.json"
+    },
+    {
       "igdb_id": 208608,
       "game_name": "Malice",
       "file": "missing/M/208608-malice.json"
@@ -131771,6 +131926,11 @@
       "igdb_id": 262965,
       "game_name": "Max Twist",
       "file": "missing/M/262965-max-twist.json"
+    },
+    {
+      "igdb_id": 168321,
+      "game_name": "Max, an Autistic Journey: Max's Birthday",
+      "file": "missing/M/168321-max-an-autistic-journey-maxs-birthday.json"
     },
     {
       "igdb_id": 140626,
@@ -147461,6 +147621,11 @@
       "igdb_id": 200156,
       "game_name": "Neon Defenders Premium Defense",
       "file": "missing/N/200156-neon-defenders-premium-defense.json"
+    },
+    {
+      "igdb_id": 168333,
+      "game_name": "Neon Depth",
+      "file": "missing/N/168333-neon-depth.json"
     },
     {
       "igdb_id": 412997,
@@ -173558,6 +173723,11 @@
       "file": "missing/R/233229-racers-islands.json"
     },
     {
+      "igdb_id": 168316,
+      "game_name": "Raceway: Drag & Stock Racing",
+      "file": "missing/R/168316-raceway-drag-and-stock-racing.json"
+    },
+    {
       "igdb_id": 367394,
       "game_name": "RaceXXL Space",
       "file": "missing/R/367394-racexxl-space.json"
@@ -177361,6 +177531,11 @@
       "igdb_id": 236496,
       "game_name": "Remnant Protocol",
       "file": "missing/R/236496-remnant-protocol.json"
+    },
+    {
+      "igdb_id": 168318,
+      "game_name": "Remnants",
+      "file": "missing/R/168318-remnants.json"
     },
     {
       "igdb_id": 322608,
@@ -191588,6 +191763,11 @@
       "file": "missing/S/320147-shine-on-my-little-sun.json"
     },
     {
+      "igdb_id": 168334,
+      "game_name": "Shine Within",
+      "file": "missing/S/168334-shine-within.json"
+    },
+    {
       "igdb_id": 120372,
       "game_name": "Shine's Adventures 2 (Zombie Attack)",
       "file": "missing/S/120372-shines-adventures-2-zombie-attack.json"
@@ -196281,6 +196461,11 @@
       "igdb_id": 220667,
       "game_name": "Smash Hyper Drive",
       "file": "missing/S/220667-smash-hyper-drive.json"
+    },
+    {
+      "igdb_id": 168336,
+      "game_name": "Smash MAGA! Trump Zombie Apocalypse",
+      "file": "missing/S/168336-smash-maga-trump-zombie-apocalypse.json"
     },
     {
       "igdb_id": 367455,
@@ -222253,6 +222438,11 @@
       "file": "missing/T/189207-the-dawn-snipers-way.json"
     },
     {
+      "igdb_id": 168332,
+      "game_name": "The Dawning Clocks of Time",
+      "file": "missing/T/168332-the-dawning-clocks-of-time.json"
+    },
+    {
       "igdb_id": 70379,
       "game_name": "The Day Nothing Happened",
       "file": "missing/T/70379-the-day-nothing-happened.json"
@@ -247013,6 +247203,46 @@
       "file": "missing/V/34384-veer.json"
     },
     {
+      "igdb_id": 168309,
+      "game_name": "Vega Conflict: Bastion Cruiser Pack",
+      "file": "missing/V/168309-vega-conflict-bastion-cruiser-pack.json"
+    },
+    {
+      "igdb_id": 168313,
+      "game_name": "Vega Conflict: Cavalier Cutter Pack",
+      "file": "missing/V/168313-vega-conflict-cavalier-cutter-pack.json"
+    },
+    {
+      "igdb_id": 168310,
+      "game_name": "Vega Conflict: Dread Battleship Pack",
+      "file": "missing/V/168310-vega-conflict-dread-battleship-pack.json"
+    },
+    {
+      "igdb_id": 168312,
+      "game_name": "Vega Conflict: Exodus Pack",
+      "file": "missing/V/168312-vega-conflict-exodus-pack.json"
+    },
+    {
+      "igdb_id": 168311,
+      "game_name": "Vega Conflict: Exterminator Pack",
+      "file": "missing/V/168311-vega-conflict-exterminator-pack.json"
+    },
+    {
+      "igdb_id": 168307,
+      "game_name": "Vega Conflict: Paladin Pack",
+      "file": "missing/V/168307-vega-conflict-paladin-pack.json"
+    },
+    {
+      "igdb_id": 168308,
+      "game_name": "Vega Conflict: Paragon Battleship Pack",
+      "file": "missing/V/168308-vega-conflict-paragon-battleship-pack.json"
+    },
+    {
+      "igdb_id": 168314,
+      "game_name": "Vega Conflict: Punisher Cruiser Pack",
+      "file": "missing/V/168314-vega-conflict-punisher-cruiser-pack.json"
+    },
+    {
       "igdb_id": 364505,
       "game_name": "Vegas Casino & Slots: Slottist",
       "file": "missing/V/364505-vegas-casino-and-slots-slottist.json"
@@ -249551,6 +249781,11 @@
       "igdb_id": 169999,
       "game_name": "Vs. Hogan's Alley",
       "file": "missing/V/169999-vs-hogans-alley.json"
+    },
+    {
+      "igdb_id": 168330,
+      "game_name": "Vs. Ladies Golf",
+      "file": "missing/V/168330-vs-ladies-golf.json"
     },
     {
       "igdb_id": 378156,
@@ -255628,6 +255863,11 @@
       "file": "missing/W/373531-wonka-block-party.json"
     },
     {
+      "igdb_id": 168322,
+      "game_name": "Wonky Ship: Black Hole Down",
+      "file": "missing/W/168322-wonky-ship-black-hole-down.json"
+    },
+    {
       "igdb_id": 212817,
       "game_name": "Wood & Weather",
       "file": "missing/W/212817-wood-and-weather.json"
@@ -257398,6 +257638,11 @@
       "file": "missing/W/168353-wwe-2k17-accelerator.json"
     },
     {
+      "igdb_id": 168340,
+      "game_name": "WWE 2K17: Future Stars Pack",
+      "file": "missing/W/168340-wwe-2k17-future-stars-pack.json"
+    },
+    {
       "igdb_id": 168352,
       "game_name": "WWE 2K17: Hall of Fame Showcase",
       "file": "missing/W/168352-wwe-2k17-hall-of-fame-showcase.json"
@@ -258661,6 +258906,11 @@
       "igdb_id": 199090,
       "game_name": "Yes My Lord",
       "file": "missing/Y/199090-yes-my-lord.json"
+    },
+    {
+      "igdb_id": 168328,
+      "game_name": "Yes! PreCure 5",
+      "file": "missing/Y/168328-yes-precure-5.json"
     },
     {
       "igdb_id": 327604,
