@@ -1611,6 +1611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoodwink | 20820 | [20820-hoodwink.json](./20820-hoodwink.json) |
 | Hook | 78145 | [78145-hook.json](./78145-hook.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
+| Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
 | Hook Worlds | 91941 | [91941-hook-worlds.json](./91941-hook-worlds.json) |
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
@@ -2081,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Drone X | 195731 | [195731-hyper-drone-x.json](./195731-hyper-drone-x.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
 | Hyper Force | 40811 | [40811-hyper-force.json](./40811-hyper-force.json) |
+| Hyper Frenzy | 152828 | [152828-hyper-frenzy.json](./152828-hyper-frenzy.json) |
 | Hyper Front | 187492 | [187492-hyper-front.json](./187492-hyper-front.json) |
 | Hyper Gauntlet: Legacy of Nozzlethruster III | 134697 | [134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json](./134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
