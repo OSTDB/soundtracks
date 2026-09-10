@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch the Red Bubble | 174330 | [174330-dont-touch-the-red-bubble.json](./174330-dont-touch-the-red-bubble.json) |
 | Don't Touch the Snail | 394829 | [394829-dont-touch-the-snail.json](./394829-dont-touch-the-snail.json) |
 | Don't Touch the Spikes | 225291 | [225291-dont-touch-the-spikes.json](./225291-dont-touch-the-spikes.json) |
+| Don't Touch this Button! | 158161 | [158161-dont-touch-this-button.json](./158161-dont-touch-this-button.json) |
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
 | Don't Wake Up My Dream | 369588 | [369588-dont-wake-up-my-dream.json](./369588-dont-wake-up-my-dream.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
