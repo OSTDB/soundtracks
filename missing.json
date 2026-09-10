@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T05:11:17.198Z",
-  "total_missing": 53007,
+  "generated_at": "2026-09-10T05:18:03.391Z",
+  "total_missing": 53057,
   "games": [
     {
       "igdb_id": 306086,
@@ -98888,14 +98888,34 @@
       "file": "missing/H/161911-heroes-and-generals-ge-giga-pack.json"
     },
     {
+      "igdb_id": 161916,
+      "game_name": "Heroes & Generals: GE Mega Pack",
+      "file": "missing/H/161916-heroes-and-generals-ge-mega-pack.json"
+    },
+    {
       "igdb_id": 161910,
       "game_name": "Heroes & Generals: GE Soldier Pack - Light Tanker",
       "file": "missing/H/161910-heroes-and-generals-ge-soldier-pack-light-tanker.json"
     },
     {
+      "igdb_id": 161919,
+      "game_name": "Heroes & Generals: GE Soldier Pack - Medium Tanker",
+      "file": "missing/H/161919-heroes-and-generals-ge-soldier-pack-medium-tanker.json"
+    },
+    {
       "igdb_id": 156172,
       "game_name": "Heroes & Generals: GE Super Pack",
       "file": "missing/H/156172-heroes-and-generals-ge-super-pack.json"
+    },
+    {
+      "igdb_id": 161918,
+      "game_name": "Heroes & Generals: SU Mega Pack",
+      "file": "missing/H/161918-heroes-and-generals-su-mega-pack.json"
+    },
+    {
+      "igdb_id": 161915,
+      "game_name": "Heroes & Generals: SU Soldier Pack - Heavy Tanker",
+      "file": "missing/H/161915-heroes-and-generals-su-soldier-pack-heavy-tanker.json"
     },
     {
       "igdb_id": 161922,
@@ -98913,9 +98933,19 @@
       "file": "missing/H/161920-heroes-and-generals-su-soldier-pack-medium-tanker.json"
     },
     {
+      "igdb_id": 161913,
+      "game_name": "Heroes & Generals: SU Super Pack",
+      "file": "missing/H/161913-heroes-and-generals-su-super-pack.json"
+    },
+    {
       "igdb_id": 161912,
       "game_name": "Heroes & Generals: US Giga Pack",
       "file": "missing/H/161912-heroes-and-generals-us-giga-pack.json"
+    },
+    {
+      "igdb_id": 161914,
+      "game_name": "Heroes & Generals: US Mega Pack",
+      "file": "missing/H/161914-heroes-and-generals-us-mega-pack.json"
     },
     {
       "igdb_id": 161907,
@@ -98936,6 +98966,11 @@
       "igdb_id": 161906,
       "game_name": "Heroes & Generals: US Soldier Pack - Medium Tanker",
       "file": "missing/H/161906-heroes-and-generals-us-soldier-pack-medium-tanker.json"
+    },
+    {
+      "igdb_id": 161917,
+      "game_name": "Heroes & Generals: US Super Pack",
+      "file": "missing/H/161917-heroes-and-generals-us-super-pack.json"
     },
     {
       "igdb_id": 17531,
@@ -136813,9 +136848,24 @@
       "file": "missing/M/161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json"
     },
     {
+      "igdb_id": 161820,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - 737 Extreme Sound",
+      "file": "missing/M/161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json"
+    },
+    {
+      "igdb_id": 161847,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Albatros D.III (Oef) 253",
+      "file": "missing/M/161847-microsoft-flight-simulator-x-steam-edition-albatros-d-iii-oef-253.json"
+    },
+    {
       "igdb_id": 161868,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Around the World in 80 Flights",
       "file": "missing/M/161868-microsoft-flight-simulator-x-steam-edition-around-the-world-in-80-flights.json"
+    },
+    {
+      "igdb_id": 161854,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Augusta Airport (KAGS)",
+      "file": "missing/M/161854-microsoft-flight-simulator-x-steam-edition-augusta-airport-kags.json"
     },
     {
       "igdb_id": 161877,
@@ -136843,9 +136893,64 @@
       "file": "missing/M/161872-microsoft-flight-simulator-x-steam-edition-catalina-airport-kavx.json"
     },
     {
+      "igdb_id": 161822,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Cessna C185F Skywagon",
+      "file": "missing/M/161822-microsoft-flight-simulator-x-steam-edition-cessna-c185f-skywagon.json"
+    },
+    {
+      "igdb_id": 161841,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Diamond DA40",
+      "file": "missing/M/161841-microsoft-flight-simulator-x-steam-edition-diamond-da40.json"
+    },
+    {
       "igdb_id": 161869,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Early Years of Flight",
       "file": "missing/M/161869-microsoft-flight-simulator-x-steam-edition-early-years-of-flight.json"
+    },
+    {
+      "igdb_id": 161840,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Embraer E-Jets 175 & 195",
+      "file": "missing/M/161840-microsoft-flight-simulator-x-steam-edition-embraer-e-jets-175-and-195.json"
+    },
+    {
+      "igdb_id": 161823,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Embraer ERJ 135LR & 145XR",
+      "file": "missing/M/161823-microsoft-flight-simulator-x-steam-edition-embraer-erj-135lr-and-145xr.json"
+    },
+    {
+      "igdb_id": 161829,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Embraer ERJ 145LR",
+      "file": "missing/M/161829-microsoft-flight-simulator-x-steam-edition-embraer-erj-145lr.json"
+    },
+    {
+      "igdb_id": 161848,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Embraer Phenom 100",
+      "file": "missing/M/161848-microsoft-flight-simulator-x-steam-edition-embraer-phenom-100.json"
+    },
+    {
+      "igdb_id": 161851,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - ERCO Ercoupe 415C",
+      "file": "missing/M/161851-microsoft-flight-simulator-x-steam-edition-erco-ercoupe-415c.json"
+    },
+    {
+      "igdb_id": 161827,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Eurofighter",
+      "file": "missing/M/161827-microsoft-flight-simulator-x-steam-edition-eurofighter.json"
+    },
+    {
+      "igdb_id": 161836,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Extra 300S",
+      "file": "missing/M/161836-microsoft-flight-simulator-x-steam-edition-extra-300s.json"
+    },
+    {
+      "igdb_id": 161852,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Fairchild PT-26 Cornell",
+      "file": "missing/M/161852-microsoft-flight-simulator-x-steam-edition-fairchild-pt-26-cornell.json"
+    },
+    {
+      "igdb_id": 161838,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Farm Strips Volume 1: South East England",
+      "file": "missing/M/161838-microsoft-flight-simulator-x-steam-edition-farm-strips-volume-1-south-east-england.json"
     },
     {
       "igdb_id": 161865,
@@ -136853,9 +136958,29 @@
       "file": "missing/M/161865-microsoft-flight-simulator-x-steam-edition-flight-tales-ii-adrenaline.json"
     },
     {
+      "igdb_id": 161856,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Friday Harbor (KFHR)",
+      "file": "missing/M/161856-microsoft-flight-simulator-x-steam-edition-friday-harbor-kfhr.json"
+    },
+    {
+      "igdb_id": 161844,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - FS Academy: In Command",
+      "file": "missing/M/161844-microsoft-flight-simulator-x-steam-edition-fs-academy-in-command.json"
+    },
+    {
+      "igdb_id": 161834,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - FS Academy: On Instruments",
+      "file": "missing/M/161834-microsoft-flight-simulator-x-steam-edition-fs-academy-on-instruments.json"
+    },
+    {
       "igdb_id": 161870,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - FS Academy: Pushing the Envelope",
       "file": "missing/M/161870-microsoft-flight-simulator-x-steam-edition-fs-academy-pushing-the-envelope.json"
+    },
+    {
+      "igdb_id": 161830,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - FS2Crew Airbus Tools",
+      "file": "missing/M/161830-microsoft-flight-simulator-x-steam-edition-fs2crew-airbus-tools.json"
     },
     {
       "igdb_id": 161887,
@@ -136873,9 +136998,19 @@
       "file": "missing/M/161883-microsoft-flight-simulator-x-steam-edition-greenland-nuuk.json"
     },
     {
+      "igdb_id": 161842,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Grumman A-6E Intruder",
+      "file": "missing/M/161842-microsoft-flight-simulator-x-steam-edition-grumman-a-6e-intruder.json"
+    },
+    {
       "igdb_id": 161875,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Grumman E-2C Hawkeye",
       "file": "missing/M/161875-microsoft-flight-simulator-x-steam-edition-grumman-e-2c-hawkeye.json"
+    },
+    {
+      "igdb_id": 161824,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Grumman F11F-1 Tiger",
+      "file": "missing/M/161824-microsoft-flight-simulator-x-steam-edition-grumman-f11f-1-tiger.json"
     },
     {
       "igdb_id": 161873,
@@ -136886,6 +137021,11 @@
       "igdb_id": 161885,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - HD Airport Graphics",
       "file": "missing/M/161885-microsoft-flight-simulator-x-steam-edition-hd-airport-graphics.json"
+    },
+    {
+      "igdb_id": 161845,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Heinkel He219 Uhu (Owl)",
+      "file": "missing/M/161845-microsoft-flight-simulator-x-steam-edition-heinkel-he219-uhu-owl.json"
     },
     {
       "igdb_id": 161880,
@@ -136908,9 +137048,24 @@
       "file": "missing/M/161861-microsoft-flight-simulator-x-steam-edition-kilimanjaro-airport-htkj.json"
     },
     {
+      "igdb_id": 161853,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Lukla Airport (VNLK)",
+      "file": "missing/M/161853-microsoft-flight-simulator-x-steam-edition-lukla-airport-vnlk.json"
+    },
+    {
+      "igdb_id": 161846,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Messerschmitt Bf 109",
+      "file": "missing/M/161846-microsoft-flight-simulator-x-steam-edition-messerschmitt-bf-109.json"
+    },
+    {
       "igdb_id": 161888,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Natural Tree Environment X",
       "file": "missing/M/161888-microsoft-flight-simulator-x-steam-edition-natural-tree-environment-x.json"
+    },
+    {
+      "igdb_id": 161843,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Northrop F-5E Tiger II",
+      "file": "missing/M/161843-microsoft-flight-simulator-x-steam-edition-northrop-f-5e-tiger-ii.json"
     },
     {
       "igdb_id": 161860,
@@ -136918,9 +137073,49 @@
       "file": "missing/M/161860-microsoft-flight-simulator-x-steam-edition-oban-airport-egeo.json"
     },
     {
+      "igdb_id": 161859,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Palo Alto Airport",
+      "file": "missing/M/161859-microsoft-flight-simulator-x-steam-edition-palo-alto-airport.json"
+    },
+    {
       "igdb_id": 161871,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - Piper Aztec",
       "file": "missing/M/161871-microsoft-flight-simulator-x-steam-edition-piper-aztec.json"
+    },
+    {
+      "igdb_id": 161821,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Piper J-3 Cub",
+      "file": "missing/M/161821-microsoft-flight-simulator-x-steam-edition-piper-j-3-cub.json"
+    },
+    {
+      "igdb_id": 161825,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Piper PA-28-181 Archer II",
+      "file": "missing/M/161825-microsoft-flight-simulator-x-steam-edition-piper-pa-28-181-archer-ii.json"
+    },
+    {
+      "igdb_id": 161828,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Piper PA-28RT-201 Arrow IV",
+      "file": "missing/M/161828-microsoft-flight-simulator-x-steam-edition-piper-pa-28rt-201-arrow-iv.json"
+    },
+    {
+      "igdb_id": 161831,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Piper PA-32R-301 Saratoga SP",
+      "file": "missing/M/161831-microsoft-flight-simulator-x-steam-edition-piper-pa-32r-301-saratoga-sp.json"
+    },
+    {
+      "igdb_id": 161857,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Piper PA-36 Pawnee Brave 375",
+      "file": "missing/M/161857-microsoft-flight-simulator-x-steam-edition-piper-pa-36-pawnee-brave-375.json"
+    },
+    {
+      "igdb_id": 161826,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Piper PA28 Cherokee 180F",
+      "file": "missing/M/161826-microsoft-flight-simulator-x-steam-edition-piper-pa28-cherokee-180f.json"
+    },
+    {
+      "igdb_id": 161855,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Piper Pacer 180",
+      "file": "missing/M/161855-microsoft-flight-simulator-x-steam-edition-piper-pacer-180.json"
     },
     {
       "igdb_id": 161867,
@@ -136928,9 +137123,44 @@
       "file": "missing/M/161867-microsoft-flight-simulator-x-steam-edition-r66-turbine.json"
     },
     {
+      "igdb_id": 161818,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - RAAS Professional",
+      "file": "missing/M/161818-microsoft-flight-simulator-x-steam-edition-raas-professional.json"
+    },
+    {
       "igdb_id": 161886,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - REX 4 Texture Direct Enhanced Edition",
       "file": "missing/M/161886-microsoft-flight-simulator-x-steam-edition-rex-4-texture-direct-enhanced-edition.json"
+    },
+    {
+      "igdb_id": 161835,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Rutan 61 Long EZ",
+      "file": "missing/M/161835-microsoft-flight-simulator-x-steam-edition-rutan-61-long-ez.json"
+    },
+    {
+      "igdb_id": 161832,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Santa Barbara Airport (KSBA)",
+      "file": "missing/M/161832-microsoft-flight-simulator-x-steam-edition-santa-barbara-airport-ksba.json"
+    },
+    {
+      "igdb_id": 161837,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Skychaser",
+      "file": "missing/M/161837-microsoft-flight-simulator-x-steam-edition-skychaser.json"
+    },
+    {
+      "igdb_id": 161817,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Treasure Hunt",
+      "file": "missing/M/161817-microsoft-flight-simulator-x-steam-edition-treasure-hunt.json"
+    },
+    {
+      "igdb_id": 161858,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Twentynine Palms Airport",
+      "file": "missing/M/161858-microsoft-flight-simulator-x-steam-edition-twentynine-palms-airport.json"
+    },
+    {
+      "igdb_id": 161849,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Ultimate VFR Guam",
+      "file": "missing/M/161849-microsoft-flight-simulator-x-steam-edition-ultimate-vfr-guam.json"
     },
     {
       "igdb_id": 161862,
@@ -136948,9 +137178,29 @@
       "file": "missing/M/161866-microsoft-flight-simulator-x-steam-edition-vfr-poland-region-nw.json"
     },
     {
+      "igdb_id": 161839,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - VFR Poland Region SW",
+      "file": "missing/M/161839-microsoft-flight-simulator-x-steam-edition-vfr-poland-region-sw.json"
+    },
+    {
+      "igdb_id": 161819,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Wittman Tailwind",
+      "file": "missing/M/161819-microsoft-flight-simulator-x-steam-edition-wittman-tailwind.json"
+    },
+    {
+      "igdb_id": 161833,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - World Environment 2012",
+      "file": "missing/M/161833-microsoft-flight-simulator-x-steam-edition-world-environment-2012.json"
+    },
+    {
       "igdb_id": 161876,
       "game_name": "Microsoft Flight Simulator X: Steam Edition - WWI Fighters",
       "file": "missing/M/161876-microsoft-flight-simulator-x-steam-edition-wwi-fighters.json"
+    },
+    {
+      "igdb_id": 161850,
+      "game_name": "Microsoft Flight Simulator X: Steam Edition - Zurich Airport",
+      "file": "missing/M/161850-microsoft-flight-simulator-x-steam-edition-zurich-airport.json"
     },
     {
       "igdb_id": 293926,
