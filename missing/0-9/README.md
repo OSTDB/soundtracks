@@ -313,7 +313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
-| 7Days: Backer | 262057 | [262057-7days-backer.json](./262057-7days-backer.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
 | 7n7 | 169446 | [169446-7n7.json](./169446-7n7.json) |
 | 7Rhythm | 124268 | [124268-7rhythm.json](./124268-7rhythm.json) |
