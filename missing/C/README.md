@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
 | Chymicalia | 294180 | [294180-chymicalia.json](./294180-chymicalia.json) |
+| Chyrza | 142395 | [142395-chyrza.json](./142395-chyrza.json) |
 | Cì Shā | 158675 | [158675-ci-sha.json](./158675-ci-sha.json) |
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
@@ -1684,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Painter | 309852 | [309852-click-painter.json](./309852-click-painter.json) |
 | Click the Ball! | 365716 | [365716-click-the-ball.json](./365716-click-the-ball.json) |
 | Click the Business | 111007 | [111007-click-the-business.json](./111007-click-the-business.json) |
+| Click the Clown 2020 | 142437 | [142437-click-the-clown-2020.json](./142437-click-the-clown-2020.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
 | Click: Commute Control | 199036 | [199036-click-commute-control.json](./199036-click-commute-control.json) |
 | Click: Control Your Game | 199037 | [199037-click-control-your-game.json](./199037-click-control-your-game.json) |
@@ -2150,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Common Loot | 400254 | [400254-common-loot.json](./400254-common-loot.json) |
 | Commonplace | 205594 | [205594-commonplace.json](./205594-commonplace.json) |
 | Commonwealth Games | 13705 | [13705-commonwealth-games.json](./13705-commonwealth-games.json) |
+| Commune Corvidae | 142399 | [142399-commune-corvidae.json](./142399-commune-corvidae.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
 | Commute | 135279 | [135279-commute.json](./135279-commute.json) |
