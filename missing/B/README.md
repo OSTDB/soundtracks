@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
 | Blood Card | 109850 | [109850-blood-card.json](./109850-blood-card.json) |
 | Blood Code: Complete Edition | 52647 | [52647-blood-code-complete-edition.json](./52647-blood-code-complete-edition.json) |
+| Blood Field | 153932 | [153932-blood-field.json](./153932-blood-field.json) |
 | Blood Gazm | 248672 | [248672-blood-gazm.json](./248672-blood-gazm.json) |
 | Blood Gear | 42020 | [42020-blood-gear.json](./42020-blood-gear.json) |
 | Blood II: The Chosen | 11265 | [11265-blood-ii-the-chosen.json](./11265-blood-ii-the-chosen.json) |
@@ -2968,6 +2969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Box Breakout | 221192 | [221192-bunny-box-breakout.json](./221192-bunny-box-breakout.json) |
 | Bunny Bundle 2 | 196280 | [196280-bunny-bundle-2.json](./196280-bunny-bundle-2.json) |
 | Bunny Eureka | 221162 | [221162-bunny-eureka.json](./221162-bunny-eureka.json) |
+| Bunny Flush | 153923 | [153923-bunny-flush.json](./153923-bunny-flush.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
 | Bunny Hopper | 377049 | [377049-bunny-hopper.json](./377049-bunny-hopper.json) |
 | Bunny Hurling | 335286 | [335286-bunny-hurling.json](./335286-bunny-hurling.json) |
