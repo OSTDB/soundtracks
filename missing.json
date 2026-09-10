@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T16:18:56.820Z",
-  "total_missing": 54420,
+  "generated_at": "2026-09-10T16:21:12.355Z",
+  "total_missing": 54419,
   "games": [
     {
       "igdb_id": 306086,
@@ -1546,11 +1546,6 @@
       "igdb_id": 295780,
       "game_name": "7Groves",
       "file": "missing/0-9/295780-7groves.json"
-    },
-    {
-      "igdb_id": 124268,
-      "game_name": "7Rhythm",
-      "file": "missing/0-9/124268-7rhythm.json"
     },
     {
       "igdb_id": 197394,
