@@ -1453,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
 | Shiba Cafe | 177516 | [177516-shiba-cafe.json](./177516-shiba-cafe.json) |
 | Shiba Eternity | 221385 | [221385-shiba-eternity.json](./221385-shiba-eternity.json) |
+| Shiba Inu Rescue | 147381 | [147381-shiba-inu-rescue.json](./147381-shiba-inu-rescue.json) |
 | Shiba Mekuri | 158726 | [158726-shiba-mekuri.json](./158726-shiba-mekuri.json) |
 | Shibainu: VR Katana Simulator | 197408 | [197408-shibainu-vr-katana-simulator.json](./197408-shibainu-vr-katana-simulator.json) |
 | Shibui Coliseum | 120985 | [120985-shibui-coliseum.json](./120985-shibui-coliseum.json) |
@@ -3303,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Song | 202333 | [202333-soul-song.json](./202333-soul-song.json) |
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
+| Soul Survivor | 147413 | [147413-soul-survivor.json](./147413-soul-survivor.json) |
 | Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
@@ -3443,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Firebird | 22432 | [22432-space-firebird.json](./22432-space-firebird.json) |
 | Space Fishermen | 64948 | [64948-space-fishermen.json](./64948-space-fishermen.json) |
 | Space Fist | 29681 | [29681-space-fist.json](./29681-space-fist.json) |
+| Space Flex | 147399 | [147399-space-flex.json](./147399-space-flex.json) |
 | Space Food Truck | 34588 | [34588-space-food-truck.json](./34588-space-food-truck.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
@@ -3582,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
+| Spacegirl | 147367 | [147367-spacegirl.json](./147367-spacegirl.json) |
 | Spacegirl 2038 | 159836 | [159836-spacegirl-2038.json](./159836-spacegirl-2038.json) |
 | Spaceguy III | 109749 | [109749-spaceguy-iii.json](./109749-spaceguy-iii.json) |
 | SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
@@ -4990,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
 | Strip n Play with Valerie | 221205 | [221205-strip-n-play-with-valerie.json](./221205-strip-n-play-with-valerie.json) |
+| Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
 | Strive: A Path Forward | 334496 | [334496-strive-a-path-forward.json](./334496-strive-a-path-forward.json) |
 | Strix STG | 228077 | [228077-strix-stg.json](./228077-strix-stg.json) |
@@ -5025,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck? | 176967 | [176967-stuck.json](./176967-stuck.json) |
 | Student Council Leader Auriel | 247524 | [247524-student-council-leader-auriel.json](./247524-student-council-leader-auriel.json) |
 | Student Transfer | 191892 | [191892-student-transfer.json](./191892-student-transfer.json) |
+| Students' Horrible Stories: FIN | 147417 | [147417-students-horrible-stories-fin.json](./147417-students-horrible-stories-fin.json) |
 | Study Time Anomaly | 369597 | [369597-study-time-anomaly.json](./369597-study-time-anomaly.json) |
 | Stuff'd | 228472 | [228472-stuffd.json](./228472-stuffd.json) |
 | Stuffo the Puzzle Bot | 236848 | [236848-stuffo-the-puzzle-bot.json](./236848-stuffo-the-puzzle-bot.json) |
@@ -5091,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subwords | 173801 | [173801-subwords.json](./173801-subwords.json) |
 | Successor of the Moon | 115578 | [115578-successor-of-the-moon.json](./115578-successor-of-the-moon.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
+| Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
 | Succubus Girl Story | 192443 | [192443-succubus-girl-story.json](./192443-succubus-girl-story.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
@@ -5864,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
 | Super Sushi Roll | 219575 | [219575-super-sushi-roll.json](./219575-super-sushi-roll.json) |
 | Super Swap! | 54414 | [54414-super-swap.json](./54414-super-swap.json) |
+| Super Swarm Smash | 147398 | [147398-super-swarm-smash.json](./147398-super-swarm-smash.json) |
 | Super Swing Golf: Season 2 | 5203 | [5203-super-swing-golf-season-2.json](./5203-super-swing-golf-season-2.json) |
 | Super Swunsh World | 214775 | [214775-super-swunsh-world.json](./214775-super-swunsh-world.json) |
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
@@ -6159,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Cafe | 239881 | [239881-sweet-cafe.json](./239881-sweet-cafe.json) |
 | Sweet Camping | 368521 | [368521-sweet-camping.json](./368521-sweet-camping.json) |
 | Sweet Clown: Gozen San-ji no Okashi na Doukeshi | 59989 | [59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json](./59989-sweet-clown-gozen-san-ji-no-okashi-na-doukeshi.json) |
+| Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
 | Sweet Dream | 172106 | [172106-sweet-dream.json](./172106-sweet-dream.json) |
 | Sweet Dreams Alex: Full Moon Edition | 273931 | [273931-sweet-dreams-alex-full-moon-edition.json](./273931-sweet-dreams-alex-full-moon-edition.json) |
 | Sweet Dreams on Christmas Eve | 334697 | [334697-sweet-dreams-on-christmas-eve.json](./334697-sweet-dreams-on-christmas-eve.json) |
