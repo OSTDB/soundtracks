@@ -2435,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
+| Draw From Earth | 163914 | [163914-draw-from-earth.json](./163914-draw-from-earth.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw No More | 177523 | [177523-draw-no-more.json](./177523-draw-no-more.json) |
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
