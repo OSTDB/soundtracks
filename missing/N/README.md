@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Wither | 386675 | [386675-never-wither.json](./386675-never-wither.json) |
 | NeverAwake Flashback | 369062 | [369062-neverawake-flashback.json](./369062-neverawake-flashback.json) |
 | Neverball | 51247 | [51247-neverball.json](./51247-neverball.json) |
+| NeverDeath | 166701 | [166701-neverdeath.json](./166701-neverdeath.json) |
 | NeverEnd | 29873 | [29873-neverend.json](./29873-neverend.json) |
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
 | NeverGoingHome | 298064 | [298064-nevergoinghome.json](./298064-nevergoinghome.json) |
