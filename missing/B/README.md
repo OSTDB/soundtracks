@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Returns | 200153 | [200153-batman-returns.json](./200153-batman-returns.json) |
 | Batman Returns | 4379 | [4379-batman-returns.json](./4379-batman-returns.json) |
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
+| Batman: Arkham City - Ultimate Edition | 138185 | [138185-batman-arkham-city-ultimate-edition.json](./138185-batman-arkham-city-ultimate-edition.json) |
 | Batman: Arkham Knight - 2008 Tumbler Batmobile Pack | 15524 | [15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json](./15524-batman-arkham-knight-2008-tumbler-batmobile-pack.json) |
 | Batman: Arkham Knight - Batman Classic TV Series Batmobile Pack | 15527 | [15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json](./15527-batman-arkham-knight-batman-classic-tv-series-batmobile-pack.json) |
 | Batman: Arkham Knight - Crime Fighter Challenge Pack 2 | 15526 | [15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json](./15526-batman-arkham-knight-crime-fighter-challenge-pack-2.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batting Champ | 287623 | [287623-batting-champ.json](./287623-batting-champ.json) |
 | Battington Manor | 393481 | [393481-battington-manor.json](./393481-battington-manor.json) |
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
+| Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
 | Battle Academy: Operation Market Garden | 167801 | [167801-battle-academy-operation-market-garden.json](./167801-battle-academy-operation-market-garden.json) |
 | Battle Air Hockey Break Beats! | 338203 | [338203-battle-air-hockey-break-beats.json](./338203-battle-air-hockey-break-beats.json) |
