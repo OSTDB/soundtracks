@@ -984,13 +984,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
 | Herobotix | 55204 | [55204-herobotix.json](./55204-herobotix.json) |
 | Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
+| Heroes & Generals: GE Mega Pack | 161916 | [161916-heroes-and-generals-ge-mega-pack.json](./161916-heroes-and-generals-ge-mega-pack.json) |
 | Heroes & Generals: GE Soldier Pack - Light Tanker | 161910 | [161910-heroes-and-generals-ge-soldier-pack-light-tanker.json](./161910-heroes-and-generals-ge-soldier-pack-light-tanker.json) |
+| Heroes & Generals: GE Soldier Pack - Medium Tanker | 161919 | [161919-heroes-and-generals-ge-soldier-pack-medium-tanker.json](./161919-heroes-and-generals-ge-soldier-pack-medium-tanker.json) |
 | Heroes & Generals: GE Super Pack | 156172 | [156172-heroes-and-generals-ge-super-pack.json](./156172-heroes-and-generals-ge-super-pack.json) |
+| Heroes & Generals: SU Mega Pack | 161918 | [161918-heroes-and-generals-su-mega-pack.json](./161918-heroes-and-generals-su-mega-pack.json) |
+| Heroes & Generals: SU Soldier Pack - Heavy Tanker | 161915 | [161915-heroes-and-generals-su-soldier-pack-heavy-tanker.json](./161915-heroes-and-generals-su-soldier-pack-heavy-tanker.json) |
+| Heroes & Generals: SU Soldier Pack - Infantry Assault | 161922 | [161922-heroes-and-generals-su-soldier-pack-infantry-assault.json](./161922-heroes-and-generals-su-soldier-pack-infantry-assault.json) |
 | Heroes & Generals: SU Soldier Pack - Light Tanker | 161909 | [161909-heroes-and-generals-su-soldier-pack-light-tanker.json](./161909-heroes-and-generals-su-soldier-pack-light-tanker.json) |
+| Heroes & Generals: SU Soldier Pack - Medium Tanker | 161920 | [161920-heroes-and-generals-su-soldier-pack-medium-tanker.json](./161920-heroes-and-generals-su-soldier-pack-medium-tanker.json) |
+| Heroes & Generals: SU Super Pack | 161913 | [161913-heroes-and-generals-su-super-pack.json](./161913-heroes-and-generals-su-super-pack.json) |
 | Heroes & Generals: US Giga Pack | 161912 | [161912-heroes-and-generals-us-giga-pack.json](./161912-heroes-and-generals-us-giga-pack.json) |
+| Heroes & Generals: US Mega Pack | 161914 | [161914-heroes-and-generals-us-mega-pack.json](./161914-heroes-and-generals-us-mega-pack.json) |
 | Heroes & Generals: US Soldier Pack - Heavy Tanker | 161907 | [161907-heroes-and-generals-us-soldier-pack-heavy-tanker.json](./161907-heroes-and-generals-us-soldier-pack-heavy-tanker.json) |
+| Heroes & Generals: US Soldier Pack - Infantry Assault | 161921 | [161921-heroes-and-generals-us-soldier-pack-infantry-assault.json](./161921-heroes-and-generals-us-soldier-pack-infantry-assault.json) |
 | Heroes & Generals: US Soldier Pack - Light Tanker | 161908 | [161908-heroes-and-generals-us-soldier-pack-light-tanker.json](./161908-heroes-and-generals-us-soldier-pack-light-tanker.json) |
 | Heroes & Generals: US Soldier Pack - Medium Tanker | 161906 | [161906-heroes-and-generals-us-soldier-pack-medium-tanker.json](./161906-heroes-and-generals-us-soldier-pack-medium-tanker.json) |
+| Heroes & Generals: US Super Pack | 161917 | [161917-heroes-and-generals-us-super-pack.json](./161917-heroes-and-generals-us-super-pack.json) |
 | Heroes & Legends: Conquerors of Kolhar | 17531 | [17531-heroes-and-legends-conquerors-of-kolhar.json](./17531-heroes-and-legends-conquerors-of-kolhar.json) |
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
