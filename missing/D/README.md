@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
 | Darkest Rogue: Slingshot RPG | 174312 | [174312-darkest-rogue-slingshot-rpg.json](./174312-darkest-rogue-slingshot-rpg.json) |
+| Darkest Valley | 139397 | [139397-darkest-valley.json](./139397-darkest-valley.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
 | Darkheart: Flight of the Harpies - Collector's Edition | 339840 | [339840-darkheart-flight-of-the-harpies-collectors-edition.json](./339840-darkheart-flight-of-the-harpies-collectors-edition.json) |
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
@@ -2725,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
+| Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
 | Drive Drift X | 187487 | [187487-drive-drift-x.json](./187487-drive-drift-x.json) |
