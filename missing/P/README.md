@@ -1123,8 +1123,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2: Nightmare Mansion | 354447 | [354447-pinball-fx2-nightmare-mansion.json](./354447-pinball-fx2-nightmare-mansion.json) |
 | Pinball FX2: Pinball FX Classics | 354446 | [354446-pinball-fx2-pinball-fx-classics.json](./354446-pinball-fx2-pinball-fx-classics.json) |
 | Pinball FX2: Rocky and Bullwinkle | 354448 | [354448-pinball-fx2-rocky-and-bullwinkle.json](./354448-pinball-fx2-rocky-and-bullwinkle.json) |
+| Pinball FX3: Balls of Glory Pinball | 163997 | [163997-pinball-fx3-balls-of-glory-pinball.json](./163997-pinball-fx3-balls-of-glory-pinball.json) |
+| Pinball FX3: Bethesda Pinball | 164002 | [164002-pinball-fx3-bethesda-pinball.json](./164002-pinball-fx3-bethesda-pinball.json) |
+| Pinball FX3: Carnivals and Legends | 163996 | [163996-pinball-fx3-carnivals-and-legends.json](./163996-pinball-fx3-carnivals-and-legends.json) |
 | Pinball FX3: Carnivals and Legends Demo | 325864 | [325864-pinball-fx3-carnivals-and-legends-demo.json](./325864-pinball-fx3-carnivals-and-legends-demo.json) |
+| Pinball FX3: Core Collection | 164005 | [164005-pinball-fx3-core-collection.json](./164005-pinball-fx3-core-collection.json) |
 | Pinball FX3: Indiana Jones - The Pinball Adventure | 193394 | [193394-pinball-fx3-indiana-jones-the-pinball-adventure.json](./193394-pinball-fx3-indiana-jones-the-pinball-adventure.json) |
+| Pinball FX3: Marvel Pinball - Avengers Chronicles | 163998 | [163998-pinball-fx3-marvel-pinball-avengers-chronicles.json](./163998-pinball-fx3-marvel-pinball-avengers-chronicles.json) |
+| Pinball FX3: Marvel Pinball Original Pack | 164003 | [164003-pinball-fx3-marvel-pinball-original-pack.json](./164003-pinball-fx3-marvel-pinball-original-pack.json) |
+| Pinball FX3: Marvel Pinball Vengeance and Virtue Pack | 163999 | [163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json](./163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json) |
+| Pinball FX3: Marvel's Women of Power | 164006 | [164006-pinball-fx3-marvels-women-of-power.json](./164006-pinball-fx3-marvels-women-of-power.json) |
+| Pinball FX3: The Walking Dead Pinball | 164001 | [164001-pinball-fx3-the-walking-dead-pinball.json](./164001-pinball-fx3-the-walking-dead-pinball.json) |
+| Pinball FX3: Williams Pinball - Volume 2 | 164000 | [164000-pinball-fx3-williams-pinball-volume-2.json](./164000-pinball-fx3-williams-pinball-volume-2.json) |
+| Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
 | Pinball HD | 175348 | [175348-pinball-hd.json](./175348-pinball-hd.json) |
 | Pinball HD | 88282 | [88282-pinball-hd.json](./88282-pinball-hd.json) |
 | Pinball Heroes: Wipeout HD Fury | 52655 | [52655-pinball-heroes-wipeout-hd-fury.json](./52655-pinball-heroes-wipeout-hd-fury.json) |
@@ -2866,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Freak | 196795 | [196795-puzzle-freak.json](./196795-puzzle-freak.json) |
 | Puzzle Galaxies | 32936 | [32936-puzzle-galaxies.json](./32936-puzzle-galaxies.json) |
 | Puzzle Game | 263775 | [263775-puzzle-game.json](./263775-puzzle-game.json) |
+| Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
 | Puzzle Islands: Ancient & Modern - Bundle | 340743 | [340743-puzzle-islands-ancient-and-modern-bundle.json](./340743-puzzle-islands-ancient-and-modern-bundle.json) |
 | Puzzle Kana? | 312354 | [312354-puzzle-kana.json](./312354-puzzle-kana.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
@@ -2955,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrus: Alle Tiders Familiespil | 129813 | [129813-pyrus-alle-tiders-familiespil.json](./129813-pyrus-alle-tiders-familiespil.json) |
 | Pyrus: Alletiders Jul | 129780 | [129780-pyrus-alletiders-jul.json](./129780-pyrus-alletiders-jul.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
+| Pythian | 163922 | [163922-pythian.json](./163922-pythian.json) |
 | Pytho's Mask | 60016 | [60016-pythos-mask.json](./60016-pythos-mask.json) |
 | PyWright Tutorial | 303767 | [303767-pywright-tutorial.json](./303767-pywright-tutorial.json) |
 | Pyxel Knight | 159850 | [159850-pyxel-knight.json](./159850-pyxel-knight.json) |
