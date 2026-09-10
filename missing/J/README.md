@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigten: Mandala of Shadows | 376449 | [376449-jigten-mandala-of-shadows.json](./376449-jigten-mandala-of-shadows.json) |
 | Jiguland | 164964 | [164964-jiguland.json](./164964-jiguland.json) |
 | Jikkyou GI Stable | 3524 | [3524-jikkyou-gi-stable.json](./3524-jikkyou-gi-stable.json) |
+| Jikkyou Golf Master 2000 | 143661 | [143661-jikkyou-golf-master-2000.json](./143661-jikkyou-golf-master-2000.json) |
 | Jikkyou J.League 1999 Perfect Striker | 220858 | [220858-jikkyou-j-league-1999-perfect-striker.json](./220858-jikkyou-j-league-1999-perfect-striker.json) |
 | Jikkyou J.League Perfect Striker 5 | 220863 | [220863-jikkyou-j-league-perfect-striker-5.json](./220863-jikkyou-j-league-perfect-striker-5.json) |
 | Jikkyou Oshaberi Parodius | 38390 | [38390-jikkyou-oshaberi-parodius.json](./38390-jikkyou-oshaberi-parodius.json) |
@@ -370,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
 | Job Hunter 202X | 375822 | [375822-job-hunter-202x.json](./375822-job-hunter-202x.json) |
 | Jobifai | 340774 | [340774-jobifai.json](./340774-jobifai.json) |
+| Jockey Zero | 143662 | [143662-jockey-zero.json](./143662-jockey-zero.json) |
 | Jockey's Road | 62228 | [62228-jockeys-road.json](./62228-jockeys-road.json) |
 | Jocky Wilson's Compendium of Darts | 45352 | [45352-jocky-wilsons-compendium-of-darts.json](./45352-jocky-wilsons-compendium-of-darts.json) |
 | Joe Biden For The PS2 2: Re-elected | 268202 | [268202-joe-biden-for-the-ps2-2-re-elected.json](./268202-joe-biden-for-the-ps2-2-re-elected.json) |
