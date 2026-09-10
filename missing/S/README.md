@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
 | Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
 | Sebevrah | 377067 | [377067-sebevrah.json](./377067-sebevrah.json) |
+| Seblen: Battle! | 169391 | [169391-seblen-battle.json](./169391-seblen-battle.json) |
 | Second Chance | 182971 | [182971-second-chance.json](./182971-second-chance.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
@@ -1177,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Overlord: The Beginning | 272264 | [272264-shadow-overlord-the-beginning.json](./272264-shadow-overlord-the-beginning.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
+| Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
 | Shadow Saw Us | 408072 | [408072-shadow-saw-us.json](./408072-shadow-saw-us.json) |
 | Shadow Seeker | 150140 | [150140-shadow-seeker.json](./150140-shadow-seeker.json) |
 | Shadow Shoot | 261279 | [261279-shadow-shoot.json](./261279-shadow-shoot.json) |
@@ -2358,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
 | Sludge & Sorcery | 183005 | [183005-sludge-and-sorcery.json](./183005-sludge-and-sorcery.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
+| Sluggy Jean Takes a Hike | 169365 | [169365-sluggy-jean-takes-a-hike.json](./169365-sluggy-jean-takes-a-hike.json) |
 | Slugmania | 225098 | [225098-slugmania.json](./225098-slugmania.json) |
 | Slugterra: Dark Waters | 327630 | [327630-slugterra-dark-waters.json](./327630-slugterra-dark-waters.json) |
 | Slumber | 191202 | [191202-slumber.json](./191202-slumber.json) |
@@ -2461,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMW The Princess Rescue | 222890 | [222890-smw-the-princess-rescue.json](./222890-smw-the-princess-rescue.json) |
 | SMW The Princess Rescue 2: Luigi's Journey! | 222889 | [222889-smw-the-princess-rescue-2-luigis-journey.json](./222889-smw-the-princess-rescue-2-luigis-journey.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
+| Snaaker & Friends | 169393 | [169393-snaaker-and-friends.json](./169393-snaaker-and-friends.json) |
 | Snaccoon | 214496 | [214496-snaccoon.json](./214496-snaccoon.json) |
 | Snack and Quack | 366221 | [366221-snack-and-quack.json](./366221-snack-and-quack.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
@@ -3436,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
+| Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
@@ -3776,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiritual Bond: Breaking the Curse, Intertwining Fates | 316635 | [316635-spiritual-bond-breaking-the-curse-intertwining-fates.json](./316635-spiritual-bond-breaking-the-curse-intertwining-fates.json) |
 | Spiritually Unemployed | 375832 | [375832-spiritually-unemployed.json](./375832-spiritually-unemployed.json) |
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
+| Spish | 169421 | [169421-spish.json](./169421-spish.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
 | Spitfire: Moonpies Mission | 307950 | [307950-spitfire-moonpies-mission.json](./307950-spitfire-moonpies-mission.json) |
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
@@ -4124,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Jolt | 127960 | [127960-star-jolt.json](./127960-star-jolt.json) |
 | Star Legacy VR | 261782 | [261782-star-legacy-vr.json](./261782-star-legacy-vr.json) |
 | Star Loot | 348259 | [348259-star-loot.json](./348259-star-loot.json) |
+| Star Maidens Chronicle: Definitive Edition | 169368 | [169368-star-maidens-chronicle-definitive-edition.json](./169368-star-maidens-chronicle-definitive-edition.json) |
 | Star Man 2: Reupgraded | 333958 | [333958-star-man-2-reupgraded.json](./333958-star-man-2-reupgraded.json) |
 | Star Matter | 148524 | [148524-star-matter.json](./148524-star-matter.json) |
 | Star Melody: Yumemi Dreamer | 172717 | [172717-star-melody-yumemi-dreamer.json](./172717-star-melody-yumemi-dreamer.json) |
@@ -4969,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
 | Succubus Waifu | 127998 | [127998-succubus-waifu.json](./127998-succubus-waifu.json) |
 | Succubus War | 186830 | [186830-succubus-war.json](./186830-succubus-war.json) |
+| Succubuses Love Creampie | 169424 | [169424-succubuses-love-creampie.json](./169424-succubuses-love-creampie.json) |
 | Succulent Studio | 400224 | [400224-succulent-studio.json](./400224-succulent-studio.json) |
 | Such Ninja | 254154 | [254154-such-ninja.json](./254154-such-ninja.json) |
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
@@ -5965,6 +5973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
+| Sweet and Cute | 169381 | [169381-sweet-and-cute.json](./169381-sweet-and-cute.json) |
 | Sweet Baby Girl Christmas 2 | 227474 | [227474-sweet-baby-girl-christmas-2.json](./227474-sweet-baby-girl-christmas-2.json) |
 | Sweet Bakery Tycoon: Complete Edition | 284931 | [284931-sweet-bakery-tycoon-complete-edition.json](./284931-sweet-bakery-tycoon-complete-edition.json) |
 | Sweet Bakery Tycoon: Super Edition | 315851 | [315851-sweet-bakery-tycoon-super-edition.json](./315851-sweet-bakery-tycoon-super-edition.json) |
@@ -6187,6 +6196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
 | System Escape | 237067 | [237067-system-escape.json](./237067-system-escape.json) |
 | System Goose Overload | 90651 | [90651-system-goose-overload.json](./90651-system-goose-overload.json) |
+| System Intrusion | 169367 | [169367-system-intrusion.json](./169367-system-intrusion.json) |
 | System Mania | 54423 | [54423-system-mania.json](./54423-system-mania.json) |
 | System Override | 277604 | [277604-system-override.json](./277604-system-override.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
