@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #1 | 294733 | [294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json](./294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
+| Hatsune Miku: Tap Wonder | 138178 | [138178-hatsune-miku-tap-wonder.json](./138178-hatsune-miku-tap-wonder.json) |
 | Hattrick | 270408 | [270408-hattrick.json](./270408-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
 | Haunt Monster | 237040 | [237040-haunt-monster.json](./237040-haunt-monster.json) |
@@ -2147,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
+| Hyper Team Recon | 138209 | [138209-hyper-team-recon.json](./138209-hyper-team-recon.json) |
 | Hyper Thruster | 409534 | [409534-hyper-thruster.json](./409534-hyper-thruster.json) |
 | Hyper Thunder Run 198X | 395575 | [395575-hyper-thunder-run-198x.json](./395575-hyper-thunder-run-198x.json) |
 | Hyper Torque Racing | 259545 | [259545-hyper-torque-racing.json](./259545-hyper-torque-racing.json) |
