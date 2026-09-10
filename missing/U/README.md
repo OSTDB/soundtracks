@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
 | Unruly Tennis | 228121 | [228121-unruly-tennis.json](./228121-unruly-tennis.json) |
 | Unsafe Express | 173282 | [173282-unsafe-express.json](./173282-unsafe-express.json) |
+| Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
 | Unsighted | 111815 | [111815-unsighted.json](./111815-unsighted.json) |
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
 | Unsolved Case: Ash and Secrets - Collector's Edition | 338584 | [338584-unsolved-case-ash-and-secrets-collectors-edition.json](./338584-unsolved-case-ash-and-secrets-collectors-edition.json) |
