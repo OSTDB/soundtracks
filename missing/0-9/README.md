@@ -321,7 +321,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball Pool | 39185 | [39185-8-ball-pool.json](./39185-8-ball-pool.json) |
 | 8 Bit Fighters | 233495 | [233495-8-bit-fighters.json](./233495-8-bit-fighters.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
-| 8 Queens | 112358 | [112358-8-queens.json](./112358-8-queens.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 8-Hour Workday | 399003 | [399003-8-hour-workday.json](./399003-8-hour-workday.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
