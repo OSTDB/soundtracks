@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T05:48:03.819Z",
-  "total_missing": 53155,
+  "generated_at": "2026-09-10T05:51:19.844Z",
+  "total_missing": 53154,
   "games": [
     {
       "igdb_id": 306086,
@@ -746,11 +746,6 @@
       "igdb_id": 9771,
       "game_name": "1953: KGB Unleashed",
       "file": "missing/0-9/9771-1953-kgb-unleashed.json"
-    },
-    {
-      "igdb_id": 7169,
-      "game_name": "1954 Alcatraz",
-      "file": "missing/0-9/7169-1954-alcatraz.json"
     },
     {
       "igdb_id": 406096,
