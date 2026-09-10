@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
 | Nairo High School: Seishun Hakusho | 52611 | [52611-nairo-high-school-seishun-hakusho.json](./52611-nairo-high-school-seishun-hakusho.json) |
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
+| Nak Sim: Fallen Warriors | 153380 | [153380-nak-sim-fallen-warriors.json](./153380-nak-sim-fallen-warriors.json) |
 | Nakadashi Banzai 4 | 163920 | [163920-nakadashi-banzai-4.json](./163920-nakadashi-banzai-4.json) |
 | Nakamon | 392129 | [392129-nakamon.json](./392129-nakamon.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
