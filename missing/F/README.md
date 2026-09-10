@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figureheads | 24931 | [24931-figureheads.json](./24931-figureheads.json) |
 | Figures of Shadows | 374068 | [374068-figures-of-shadows.json](./374068-figures-of-shadows.json) |
 | Figurine Shop Simulator | 346592 | [346592-figurine-shop-simulator.json](./346592-figurine-shop-simulator.json) |
+| Filament | 146233 | [146233-filament.json](./146233-filament.json) |
 | Filament: Marmalade Edition | 154517 | [154517-filament-marmalade-edition.json](./154517-filament-marmalade-edition.json) |
 | File 47 | 337124 | [337124-file-47.json](./337124-file-47.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
@@ -936,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Deity Device | 270674 | [270674-fire-emblem-deity-device.json](./270674-fire-emblem-deity-device.json) |
 | Fire Emblem: Dream of Five - Definitive Edition | 316621 | [316621-fire-emblem-dream-of-five-definitive-edition.json](./316621-fire-emblem-dream-of-five-definitive-edition.json) |
 | Fire Emblem: Four Kings - Deposition | 214495 | [214495-fire-emblem-four-kings-deposition.json](./214495-fire-emblem-four-kings-deposition.json) |
+| Fire Emblem: Gilmore Girls | 146274 | [146274-fire-emblem-gilmore-girls.json](./146274-fire-emblem-gilmore-girls.json) |
 | Fire Emblem: Host of the Dark | 296106 | [296106-fire-emblem-host-of-the-dark.json](./296106-fire-emblem-host-of-the-dark.json) |
 | Fire Emblem: Illuminated | 341470 | [341470-fire-emblem-illuminated.json](./341470-fire-emblem-illuminated.json) |
 | Fire Emblem: Immortal Sword | 322378 | [322378-fire-emblem-immortal-sword.json](./322378-fire-emblem-immortal-sword.json) |
