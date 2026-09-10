@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | ADG Episode | 270696 | [270696-adg-episode.json](./270696-adg-episode.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
+| Adiasis | 133948 | [133948-adiasis.json](./133948-adiasis.json) |
 | Adibou | 200672 | [200672-adibou.json](./200672-adibou.json) |
 | Adibou d'chou au cirque | 242534 | [242534-adibou-dchou-au-cirque.json](./242534-adibou-dchou-au-cirque.json) |
 | Adibou d'chou au Pays des Bonbons | 242532 | [242532-adibou-dchou-au-pays-des-bonbons.json](./242532-adibou-dchou-au-pays-des-bonbons.json) |
@@ -1202,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aldoria | 322382 | [322382-aldoria.json](./322382-aldoria.json) |
 | Aldriak: The Advent of a New World | 149569 | [149569-aldriak-the-advent-of-a-new-world.json](./149569-aldriak-the-advent-of-a-new-world.json) |
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
+| Aldroy: Chapter 1 | 133959 | [133959-aldroy-chapter-1.json](./133959-aldroy-chapter-1.json) |
 | Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
@@ -3243,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken: Astral Blade | 175679 | [175679-awaken-astral-blade.json](./175679-awaken-astral-blade.json) |
 | Awaken: Chaos Era | 168327 | [168327-awaken-chaos-era.json](./168327-awaken-chaos-era.json) |
 | Awaken: Gunpowder Adventurer Daydream | 99010 | [99010-awaken-gunpowder-adventurer-daydream.json](./99010-awaken-gunpowder-adventurer-daydream.json) |
+| Awaken: Underwater Odyssey | 133951 | [133951-awaken-underwater-odyssey.json](./133951-awaken-underwater-odyssey.json) |
 | Awakened: Dark Space | 141178 | [141178-awakened-dark-space.json](./141178-awakened-dark-space.json) |
 | Awakening | 264059 | [264059-awakening.json](./264059-awakening.json) |
 | Awakening Sarah | 255727 | [255727-awakening-sarah.json](./255727-awakening-sarah.json) |
