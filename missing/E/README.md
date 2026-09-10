@@ -1278,6 +1278,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
 | Excitebike-e | 169997 | [169997-excitebike-e.json](./169997-excitebike-e.json) |
 | Exciting Golf | 91962 | [91962-exciting-golf.json](./91962-exciting-golf.json) |
+| Exclusion Zone: Hunting Ground | 134616 | [134616-exclusion-zone-hunting-ground.json](./134616-exclusion-zone-hunting-ground.json) |
+| Exclusion Zone: Shadow Island | 134615 | [134615-exclusion-zone-shadow-island.json](./134615-exclusion-zone-shadow-island.json) |
 | Exclusive Memory | 319938 | [319938-exclusive-memory.json](./319938-exclusive-memory.json) |
 | Excubitor | 19332 | [19332-excubitor.json](./19332-excubitor.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
