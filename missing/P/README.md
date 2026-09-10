@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
 | Path to Warband | 215692 | [215692-path-to-warband.json](./215692-path-to-warband.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
+| Pathfinder Puzzle | 158182 | [158182-pathfinder-puzzle.json](./158182-pathfinder-puzzle.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
 | Pathfinder: Wrath of the Righteous - Game of the Year Edition | 331855 | [331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json](./331855-pathfinder-wrath-of-the-righteous-game-of-the-year-edition.json) |
 | Pathfinder: Wrath of the Righteous - Love Beyond Death | 186869 | [186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json](./186869-pathfinder-wrath-of-the-righteous-love-beyond-death.json) |
@@ -960,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
 | Physical Train: Chamland National Railway | 374625 | [374625-physical-train-chamland-national-railway.json](./374625-physical-train-chamland-national-railway.json) |
 | Physicality | 202361 | [202361-physicality.json](./202361-physicality.json) |
+| Physics World | 158144 | [158144-physics-world.json](./158144-physics-world.json) |
 | Physics! Fun | 297236 | [297236-physics-fun.json](./297236-physics-fun.json) |
 | Phytomancer | 175886 | [175886-phytomancer.json](./175886-phytomancer.json) |
 | Pi.exe | 192463 | [192463-pi-exe.json](./192463-pi-exe.json) |
@@ -1486,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
 | Planetary Field Team | 406125 | [406125-planetary-field-team.json](./406125-planetary-field-team.json) |
+| Planetary Gravity | 158174 | [158174-planetary-gravity.json](./158174-planetary-gravity.json) |
 | Planetes | 184628 | [184628-planetes.json](./184628-planetes.json) |
 | PlanetExplorerVR | 101566 | [101566-planetexplorervr.json](./101566-planetexplorervr.json) |
 | Planetfall | 12620 | [12620-planetfall.json](./12620-planetfall.json) |
@@ -2703,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
+| Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
@@ -2772,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump Press | 277299 | [277299-pump-press.json](./277299-pump-press.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumpkin Delivery | 242234 | [242234-pumpkin-delivery.json](./242234-pumpkin-delivery.json) |
+| Pumpkin Farmer | 158177 | [158177-pumpkin-farmer.json](./158177-pumpkin-farmer.json) |
 | Pumpkin Ghost | 272269 | [272269-pumpkin-ghost.json](./272269-pumpkin-ghost.json) |
 | Pumpkin Jam | 269562 | [269562-pumpkin-jam.json](./269562-pumpkin-jam.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
@@ -2894,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
+| Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
