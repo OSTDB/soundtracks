@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
+| Majong | 138732 | [138732-majong.json](./138732-majong.json) |
 | MaJong13 | 246419 | [246419-majong13.json](./246419-majong13.json) |
 | MaJong16 | 246420 | [246420-majong16.json](./246420-majong16.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
@@ -1344,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
 | MegaMod | 287075 | [287075-megamod.json](./287075-megamod.json) |
 | MegaMorph | 97354 | [97354-megamorph.json](./97354-megamorph.json) |
+| MegaPak 1 | 138754 | [138754-megapak-1.json](./138754-megapak-1.json) |
 | Megapolis | 196320 | [196320-megapolis.json](./196320-megapolis.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
 | MegaRace 3 | 46634 | [46634-megarace-3.json](./46634-megarace-3.json) |
