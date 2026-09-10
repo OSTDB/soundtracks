@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
 | Baron Baldric: A Grave Adventure | 14287 | [14287-baron-baldric-a-grave-adventure.json](./14287-baron-baldric-a-grave-adventure.json) |
 | Barony: Legends & Pariahs | 154520 | [154520-barony-legends-and-pariahs.json](./154520-barony-legends-and-pariahs.json) |
+| Barrage | 146228 | [146228-barrage.json](./146228-barrage.json) |
 | Barrage | 196818 | [196818-barrage.json](./196818-barrage.json) |
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
 | Barrage Musical: Basic Danmaku Tutorial | 127463 | [127463-barrage-musical-basic-danmaku-tutorial.json](./127463-barrage-musical-basic-danmaku-tutorial.json) |
@@ -1522,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
+| Bitten! | 146235 | [146235-bitten.json](./146235-bitten.json) |
 | Bitter | 217336 | [217336-bitter.json](./217336-bitter.json) |
 | Bitter-Sweet Cohabitation | 241372 | [241372-bitter-sweet-cohabitation.json](./241372-bitter-sweet-cohabitation.json) |
 | Bitterroot | 181857 | [181857-bitterroot.json](./181857-bitterroot.json) |
@@ -1893,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood II: The Chosen | 11265 | [11265-blood-ii-the-chosen.json](./11265-blood-ii-the-chosen.json) |
 | Blood II: The Chosen - The Nightmare Levels | 95451 | [95451-blood-ii-the-chosen-the-nightmare-levels.json](./95451-blood-ii-the-chosen-the-nightmare-levels.json) |
 | Blood in the Panopticon | 395552 | [395552-blood-in-the-panopticon.json](./395552-blood-in-the-panopticon.json) |
+| Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Midnight Blossom | 258221 | [258221-blood-midnight-blossom.json](./258221-blood-midnight-blossom.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
@@ -1920,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Ties | 78714 | [78714-blood-ties.json](./78714-blood-ties.json) |
 | Blood Ties: A Hidden Object Game with a Bite | 206143 | [206143-blood-ties-a-hidden-object-game-with-a-bite.json](./206143-blood-ties-a-hidden-object-game-with-a-bite.json) |
 | Blood to Bone | 281382 | [281382-blood-to-bone.json](./281382-blood-to-bone.json) |
+| Blood Void Mass | 146237 | [146237-blood-void-mass.json](./146237-blood-void-mass.json) |
 | Blood-over- | 93069 | [93069-blood-over.json](./93069-blood-over.json) |
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
@@ -1996,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Dragon: Shuffle Dungeon | 259863 | [259863-blue-dragon-shuffle-dungeon.json](./259863-blue-dragon-shuffle-dungeon.json) |
 | Blue Epic | 249795 | [249795-blue-epic.json](./249795-blue-epic.json) |
 | Blue fencer Resurrection | 159860 | [159860-blue-fencer-resurrection.json](./159860-blue-fencer-resurrection.json) |
+| Blue Fish and Underwater Worlds | 146275 | [146275-blue-fish-and-underwater-worlds.json](./146275-blue-fish-and-underwater-worlds.json) |
 | Blue Fish Yokohama | 212824 | [212824-blue-fish-yokohama.json](./212824-blue-fish-yokohama.json) |
 | Blue Forest Story: Kaze no Fuuin | 37204 | [37204-blue-forest-story-kaze-no-fuuin.json](./37204-blue-forest-story-kaze-no-fuuin.json) |
 | Blue Horizon | 23930 | [23930-blue-horizon.json](./23930-blue-horizon.json) |
@@ -2204,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
+| Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
