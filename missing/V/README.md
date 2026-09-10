@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
 | Valhyre: The Aftermath | 67293 | [67293-valhyre-the-aftermath.json](./67293-valhyre-the-aftermath.json) |
+| Vali Victorian | 150618 | [150618-vali-victorian.json](./150618-vali-victorian.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
 | Valient Worlds: Adventure of Falken | 338578 | [338578-valient-worlds-adventure-of-falken.json](./338578-valient-worlds-adventure-of-falken.json) |
 | Valis | 262085 | [262085-valis.json](./262085-valis.json) |
@@ -707,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Kayaking Game | 186255 | [186255-vr-kayaking-game.json](./186255-vr-kayaking-game.json) |
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
+| VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
 | VR PingPong Sweetie | 384518 | [384518-vr-pingpong-sweetie.json](./384518-vr-pingpong-sweetie.json) |
 | VR Plane Crash | 156676 | [156676-vr-plane-crash.json](./156676-vr-plane-crash.json) |
 | VR Roller Coaster at Global Wonders | 166195 | [166195-vr-roller-coaster-at-global-wonders.json](./166195-vr-roller-coaster-at-global-wonders.json) |
@@ -717,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Smash Park | 111716 | [111716-vr-smash-park.json](./111716-vr-smash-park.json) |
 | VR Sweet Heart | 193450 | [193450-vr-sweet-heart.json](./193450-vr-sweet-heart.json) |
 | VR The Diner Duo | 25118 | [25118-vr-the-diner-duo.json](./25118-vr-the-diner-duo.json) |
+| VR Time Machine Travelling in History: Visit ancient Egypt, Babylon and Greece in B.C. 400 | 150648 | [150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json](./150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json) |
 | VR Tractor Farming | 248032 | [248032-vr-tractor-farming.json](./248032-vr-tractor-farming.json) |
 | VR Traffic Safety with Polly | 338564 | [338564-vr-traffic-safety-with-polly.json](./338564-vr-traffic-safety-with-polly.json) |
 | VR Treasure Raider | 153383 | [153383-vr-treasure-raider.json](./153383-vr-treasure-raider.json) |
