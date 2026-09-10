@@ -117,6 +117,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
 | Dance Around | 210279 | [210279-dance-around.json](./210279-dance-around.json) |
+| Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
+| Dance Dance Revolution Best Hits | 132809 | [132809-dance-dance-revolution-best-hits.json](./132809-dance-dance-revolution-best-hits.json) |
 | Dance Dance Revolution ExtraMix | 93034 | [93034-dance-dance-revolution-extramix.json](./93034-dance-dance-revolution-extramix.json) |
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
 | Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
@@ -137,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance to the Finish | 178595 | [178595-dance-to-the-finish.json](./178595-dance-to-the-finish.json) |
 | Dance With Zombies | 127319 | [127319-dance-with-zombies.json](./127319-dance-with-zombies.json) |
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
+| Dance! Dance! Dance! | 132806 | [132806-dance-dance-dance.json](./132806-dance-dance-dance.json) |
 | Dance! Dance! Dance! | 339794 | [339794-dance-dance-dance.json](./339794-dance-dance-dance.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
 | DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
@@ -145,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
 | Dancing Hut | 26632 | [26632-dancing-hut.json](./26632-dancing-hut.json) |
 | Dancing Line | 87048 | [87048-dancing-line.json](./87048-dancing-line.json) |
+| Dancing Stage featuring True Kiss Destination | 132805 | [132805-dancing-stage-featuring-true-kiss-destination.json](./132805-dancing-stage-featuring-true-kiss-destination.json) |
 | Dancing Stage Unleashed | 5803 | [5803-dancing-stage-unleashed.json](./5803-dancing-stage-unleashed.json) |
 | Dancing Stage Unleashed 2 | 5804 | [5804-dancing-stage-unleashed-2.json](./5804-dancing-stage-unleashed-2.json) |
 | Dancing Stage Unleashed 3 | 5806 | [5806-dancing-stage-unleashed-3.json](./5806-dancing-stage-unleashed-3.json) |
@@ -753,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
+| Death Upon An Austrian Sonata: A Dana Knightstone Novel | 132803 | [132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json](./132803-death-upon-an-austrian-sonata-a-dana-knightstone-novel.json) |
 | Death Upon Us | 150615 | [150615-death-upon-us.json](./150615-death-upon-us.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
 | Death Walk | 217295 | [217295-death-walk.json](./217295-death-walk.json) |
@@ -1803,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
 | DJ Simulator | 303479 | [303479-dj-simulator.json](./303479-dj-simulator.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
+| Djinni & Thaco: Trial By Spire | 132779 | [132779-djinni-and-thaco-trial-by-spire.json](./132779-djinni-and-thaco-trial-by-spire.json) |
 | DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
 | DJMax Respect | 28192 | [28192-djmax-respect.json](./28192-djmax-respect.json) |
@@ -1900,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Life Simulator | 214166 | [214166-dog-life-simulator.json](./214166-dog-life-simulator.json) |
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
+| Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
 | Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
@@ -2671,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming in the Mountains | 262372 | [262372-dreaming-in-the-mountains.json](./262372-dreaming-in-the-mountains.json) |
 | Dreaming Rainbow | 191824 | [191824-dreaming-rainbow.json](./191824-dreaming-rainbow.json) |
 | Dreaming Seal Simulator | 325288 | [325288-dreaming-seal-simulator.json](./325288-dreaming-seal-simulator.json) |
+| Dreamjob: Programmer | 132801 | [132801-dreamjob-programmer.json](./132801-dreamjob-programmer.json) |
 | Dreamland | 207308 | [207308-dreamland.json](./207308-dreamland.json) |
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
 | Dreamless | 320135 | [320135-dreamless.json](./320135-dreamless.json) |
