@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T04:18:33.279Z",
-  "total_missing": 52910,
+  "generated_at": "2026-09-10T04:21:13.951Z",
+  "total_missing": 52909,
   "games": [
     {
       "igdb_id": 306086,
@@ -1281,11 +1281,6 @@
       "igdb_id": 262058,
       "game_name": "4 Colours",
       "file": "missing/0-9/262058-4-colours.json"
-    },
-    {
-      "igdb_id": 181904,
-      "game_name": "4 Giga Boss Fights",
-      "file": "missing/0-9/181904-4-giga-boss-fights.json"
     },
     {
       "igdb_id": 271481,
