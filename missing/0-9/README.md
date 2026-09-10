@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules II: The Cretan Bull | 35493 | [35493-12-labours-of-hercules-ii-the-cretan-bull.json](./35493-12-labours-of-hercules-ii-the-cretan-bull.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
+| 12 MiniBattles | 139356 | [139356-12-minibattles.json](./139356-12-minibattles.json) |
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
@@ -134,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
+| 1378km | 139389 | [139389-1378km.json](./139389-1378km.json) |
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
