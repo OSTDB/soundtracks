@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
 | Jacob's Quest | 226731 | [226731-jacobs-quest.json](./226731-jacobs-quest.json) |
 | Jacqueline White: Bad Trouble in the Red Desert | 169991 | [169991-jacqueline-white-bad-trouble-in-the-red-desert.json](./169991-jacqueline-white-bad-trouble-in-the-red-desert.json) |
+| Jad | 151133 | [151133-jad.json](./151133-jad.json) |
 | JaDa Fishin' | 222948 | [222948-jada-fishin.json](./222948-jada-fishin.json) |
 | Jade Earth | 141255 | [141255-jade-earth.json](./141255-jade-earth.json) |
 | Jade Empire: Limited Edition | 47318 | [47318-jade-empire-limited-edition.json](./47318-jade-empire-limited-edition.json) |
