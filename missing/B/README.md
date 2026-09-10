@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
 | Bascatball Coach | 174299 | [174299-bascatball-coach.json](./174299-bascatball-coach.json) |
+| BasCatball Saturn: Basketball & Cat | 169396 | [169396-bascatball-saturn-basketball-and-cat.json](./169396-bascatball-saturn-basketball-and-cat.json) |
 | Base Blitz | 327854 | [327854-base-blitz.json](./327854-base-blitz.json) |
 | Base Commander | 211425 | [211425-base-commander.json](./211425-base-commander.json) |
 | Base Craft: Desolate Survival | 196239 | [196239-base-craft-desolate-survival.json](./196239-base-craft-desolate-survival.json) |
@@ -1294,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
+| Bikini Girls | 169418 | [169418-bikini-girls.json](./169418-bikini-girls.json) |
 | Bikini Hunter Attack on Bikini Army | 297807 | [297807-bikini-hunter-attack-on-bikini-army.json](./297807-bikini-hunter-attack-on-bikini-army.json) |
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
 | Bikkuriman 2000: Viva! Pocket Festival! | 43971 | [43971-bikkuriman-2000-viva-pocket-festival.json](./43971-bikkuriman-2000-viva-pocket-festival.json) |
@@ -2075,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
+| Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
 | Bomber-Mario | 248288 | [248288-bomber-mario.json](./248288-bomber-mario.json) |
