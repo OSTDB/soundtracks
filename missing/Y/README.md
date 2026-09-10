@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
 | Yin-Yang Ping-Pong | 309883 | [309883-yin-yang-ping-pong.json](./309883-yin-yang-ping-pong.json) |
 | Yin-Yang Ping-Pong: Supporter Pack | 312029 | [312029-yin-yang-ping-pong-supporter-pack.json](./312029-yin-yang-ping-pong-supporter-pack.json) |
+| Yīngxióng Tánshuō X: Guīlái | 156641 | [156641-yingxiong-tanshuo-x-guilai.json](./156641-yingxiong-tanshuo-x-guilai.json) |
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
 | Yni^ | 339804 | [339804-yni.json](./339804-yni.json) |
