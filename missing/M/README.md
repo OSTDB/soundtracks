@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 2000 | 3537 | [3537-madden-nfl-2000.json](./3537-madden-nfl-2000.json) |
 | Madden NFL 2002 | 3539 | [3539-madden-nfl-2002.json](./3539-madden-nfl-2002.json) |
 | Madden NFL 2004 | 777 | [777-madden-nfl-2004.json](./777-madden-nfl-2004.json) |
+| Madden NFL 21: NXT LVL Edition | 141182 | [141182-madden-nfl-21-nxt-lvl-edition.json](./141182-madden-nfl-21-nxt-lvl-edition.json) |
 | Madden NFL 21: Ultimate Team Starter Pack | 140010 | [140010-madden-nfl-21-ultimate-team-starter-pack.json](./140010-madden-nfl-21-ultimate-team-starter-pack.json) |
 | Madden NFL 22 | 243665 | [243665-madden-nfl-22.json](./243665-madden-nfl-22.json) |
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
@@ -555,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Bloomers | 127962 | [127962-marble-bloomers.json](./127962-marble-bloomers.json) |
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
+| Marble Knights | 141143 | [141143-marble-knights.json](./141143-marble-knights.json) |
 | Marble Machine | 58221 | [58221-marble-machine.json](./58221-marble-machine.json) |
 | Marble Madness | 301853 | [301853-marble-madness.json](./301853-marble-madness.json) |
 | Marble Mage | 166709 | [166709-marble-mage.json](./166709-marble-mage.json) |
@@ -3151,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motteke Tamago Ganbare Kamonohashi | 62206 | [62206-motteke-tamago-ganbare-kamonohashi.json](./62206-motteke-tamago-ganbare-kamonohashi.json) |
 | Mottia: The Gem Hunters | 215914 | [215914-mottia-the-gem-hunters.json](./215914-mottia-the-gem-hunters.json) |
 | Motto Immortal | 411564 | [411564-motto-immortal.json](./411564-motto-immortal.json) |
+| Motto Me de Unou o Kitaeru: Sokudoku Jutsu 3 | 141146 | [141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json](./141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Motto! SoniComi | 93600 | [93600-motto-sonicomi.json](./93600-motto-sonicomi.json) |
 | Motto!? Fushigi no Gensoukyou Plus: The Dungeon of Dreams and Magic | 206938 | [206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json](./206938-motto-fushigi-no-gensoukyou-plus-the-dungeon-of-dreams-and-magic.json) |
@@ -3258,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Meaty: Treasures of the Deep (Fryer, That Is!) | 320750 | [320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json](./320750-mr-meaty-treasures-of-the-deep-fryer-that-is.json) |
 | Mr. Mueller's Grand Experiment | 284894 | [284894-mr-muellers-grand-experiment.json](./284894-mr-muellers-grand-experiment.json) |
 | Mr. Nutz: Hoppin' Mad | 39030 | [39030-mr-nutz-hoppin-mad.json](./39030-mr-nutz-hoppin-mad.json) |
+| Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
 | Mr. Pogo | 341340 | [341340-mr-pogo.json](./341340-mr-pogo.json) |
 | Mr. Postman | 40786 | [40786-mr-postman.json](./40786-mr-postman.json) |
 | Mr. Potato Head | 218446 | [218446-mr-potato-head.json](./218446-mr-potato-head.json) |
