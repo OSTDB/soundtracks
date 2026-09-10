@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
+| Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
@@ -602,9 +603,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
 | Teenage Mutant Ninja Turtles: Brothers Unite | 61238 | [61238-teenage-mutant-ninja-turtles-brothers-unite.json](./61238-teenage-mutant-ninja-turtles-brothers-unite.json) |
+| Teenage Mutant Ninja Turtles: Mutants & Monsters Mayhem | 146239 | [146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json](./146239-teenage-mutant-ninja-turtles-mutants-and-monsters-mayhem.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teenage Mutant Ninja Turtles: The HyperStone Heist | 4404 | [4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json](./4404-teenage-mutant-ninja-turtles-the-hyperstone-heist.json) |
+| Teenage Mutant Ninja Turtles: The Ninja Tribunal | 146242 | [146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json](./146242-teenage-mutant-ninja-turtles-the-ninja-tribunal.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
+| Teenage Mutant Ninja Turtles: Way of the Warrior | 146240 | [146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json](./146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json) |
 | Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
 | Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
@@ -1285,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
+| The Chosen RPG | 146264 | [146264-the-chosen-rpg.json](./146264-the-chosen-rpg.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
@@ -2194,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Baboo | 320143 | [320143-the-legend-of-baboo.json](./320143-the-legend-of-baboo.json) |
 | The Legend of Banjo-Kazooie: Gruntilda's Mask | 201769 | [201769-the-legend-of-banjo-kazooie-gruntildas-mask.json](./201769-the-legend-of-banjo-kazooie-gruntildas-mask.json) |
 | The Legend of Banjo-Kazooie: The Bear Waker | 135261 | [135261-the-legend-of-banjo-kazooie-the-bear-waker.json](./135261-the-legend-of-banjo-kazooie-the-bear-waker.json) |
+| The Legend of Banjo-Kazooie: The Jiggies of Time | 146272 | [146272-the-legend-of-banjo-kazooie-the-jiggies-of-time.json](./146272-the-legend-of-banjo-kazooie-the-jiggies-of-time.json) |
 | The Legend of Bear: Truck Trucker | 158179 | [158179-the-legend-of-bear-truck-trucker.json](./158179-the-legend-of-bear-truck-trucker.json) |
 | The Legend of Beowulf | 267391 | [267391-the-legend-of-beowulf.json](./267391-the-legend-of-beowulf.json) |
 | The Legend of Chalkvania | 395570 | [395570-the-legend-of-chalkvania.json](./395570-the-legend-of-chalkvania.json) |
@@ -3543,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They That Feast | 113036 | [113036-they-that-feast.json](./113036-they-that-feast.json) |
 | They Watch From the Walls | 181930 | [181930-they-watch-from-the-walls.json](./181930-they-watch-from-the-walls.json) |
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
+| TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
 | Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
 | Thickety Creek | 229049 | [229049-thickety-creek.json](./229049-thickety-creek.json) |
 | Thief | 362857 | [362857-thief.json](./362857-thief.json) |
@@ -4341,6 +4348,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes Vol. 2 | 240520 | [240520-tlicolity-eyes-vol-2.json](./240520-tlicolity-eyes-vol-2.json) |
 | Tlicolity Eyes Vol. 3 | 240521 | [240521-tlicolity-eyes-vol-3.json](./240521-tlicolity-eyes-vol-3.json) |
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
+| TMNT | 146283 | [146283-tmnt.json](./146283-tmnt.json) |
+| TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
 | TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
 | TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
 | TNT: Evilution | 46616 | [46616-tnt-evilution.json](./46616-tnt-evilution.json) |
