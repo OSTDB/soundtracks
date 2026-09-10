@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Iron Man Gagaga-In | 234088 | [234088-invincible-iron-man-gagaga-in.json](./234088-invincible-iron-man-gagaga-in.json) |
 | Invincible Medusa | 231359 | [231359-invincible-medusa.json](./231359-invincible-medusa.json) |
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
+| Invisible | 131556 | [131556-invisible.json](./131556-invisible.json) |
 | Invisible | 178671 | [178671-invisible.json](./178671-invisible.json) |
 | Invisible Apartment 2 | 336913 | [336913-invisible-apartment-2.json](./336913-invisible-apartment-2.json) |
 | Invisible Apartment 2 | 34492 | [34492-invisible-apartment-2.json](./34492-invisible-apartment-2.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironclads 2: Caroline Islands War 1885 | 51941 | [51941-ironclads-2-caroline-islands-war-1885.json](./51941-ironclads-2-caroline-islands-war-1885.json) |
 | IronFall: Invasion | 8610 | [8610-ironfall-invasion.json](./8610-ironfall-invasion.json) |
 | Ironheart: Cardia | 291466 | [291466-ironheart-cardia.json](./291466-ironheart-cardia.json) |
+| Ironlights | 131560 | [131560-ironlights.json](./131560-ironlights.json) |
 | Ironmarked | 301281 | [301281-ironmarked.json](./301281-ironmarked.json) |
 | Ironpants | 62198 | [62198-ironpants.json](./62198-ironpants.json) |
 | IronSaga | 23904 | [23904-ironsaga.json](./23904-ironsaga.json) |
