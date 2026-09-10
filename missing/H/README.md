@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana: One in a Million | 220093 | [220093-hannah-montana-one-in-a-million.json](./220093-hannah-montana-one-in-a-million.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
 | Hanno | 289870 | [289870-hanno.json](./289870-hanno.json) |
+| Hanoi Puzzles: Flip Match | 159810 | [159810-hanoi-puzzles-flip-match.json](./159810-hanoi-puzzles-flip-match.json) |
 | Hansel and Gretel | 215350 | [215350-hansel-and-gretel.json](./215350-hansel-and-gretel.json) |
 | Hansel and Gretel and the Enchanted Castle | 46641 | [46641-hansel-and-gretel-and-the-enchanted-castle.json](./46641-hansel-and-gretel-and-the-enchanted-castle.json) |
 | Hanski's Burlap of Chaos! | 174272 | [174272-hanskis-burlap-of-chaos.json](./174272-hanskis-burlap-of-chaos.json) |
@@ -793,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
+| Hello Puppets: Midnight Show | 159805 | [159805-hello-puppets-midnight-show.json](./159805-hello-puppets-midnight-show.json) |
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
 | Hello World | 367420 | [367420-hello-world.json](./367420-hello-world.json) |
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
