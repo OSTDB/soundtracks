@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
 | The Corn Maze: Rebirth | 362289 | [362289-the-corn-maze-rebirth.json](./362289-the-corn-maze-rebirth.json) |
 | The Corrupted Turnabout | 308529 | [308529-the-corrupted-turnabout.json](./308529-the-corrupted-turnabout.json) |
+| The Corruption Within | 153387 | [153387-the-corruption-within.json](./153387-the-corruption-within.json) |
 | The Cosmic Tunnels | 62760 | [62760-the-cosmic-tunnels.json](./62760-the-cosmic-tunnels.json) |
 | The Cosmic Wheel Sisterhood | 247578 | [247578-the-cosmic-wheel-sisterhood.json](./247578-the-cosmic-wheel-sisterhood.json) |
 | The Cosmos is Mine! | 35800 | [35800-the-cosmos-is-mine.json](./35800-the-cosmos-is-mine.json) |
@@ -2097,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Journey | 267924 | [267924-the-last-journey.json](./267924-the-last-journey.json) |
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
+| The Last King's Archer | 153371 | [153371-the-last-kings-archer.json](./153371-the-last-kings-archer.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
@@ -2164,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Eldridge Scrolls: Woop | 130921 | [130921-the-legend-of-eldridge-scrolls-woop.json](./130921-the-legend-of-eldridge-scrolls-woop.json) |
 | The Legend of Eratus: Dragonlord | 167268 | [167268-the-legend-of-eratus-dragonlord.json](./167268-the-legend-of-eratus-dragonlord.json) |
 | The Legend of Excalipurr | 28892 | [28892-the-legend-of-excalipurr.json](./28892-the-legend-of-excalipurr.json) |
+| The Legend of Fjarri | 153369 | [153369-the-legend-of-fjarri.json](./153369-the-legend-of-fjarri.json) |
 | The Legend of GEML: Awakening | 307589 | [307589-the-legend-of-geml-awakening.json](./307589-the-legend-of-geml-awakening.json) |
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
 | The Legend of Heavenly Mist | 183031 | [183031-the-legend-of-heavenly-mist.json](./183031-the-legend-of-heavenly-mist.json) |
@@ -3261,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
 | The Unknown | 336516 | [336516-the-unknown.json](./336516-the-unknown.json) |
 | The Unknown Planet | 270684 | [270684-the-unknown-planet.json](./270684-the-unknown-planet.json) |
+| The Unmarked | 153353 | [153353-the-unmarked.json](./153353-the-unmarked.json) |
 | The Unrest Age | 197852 | [197852-the-unrest-age.json](./197852-the-unrest-age.json) |
 | The Unseen Awakening | 347148 | [347148-the-unseen-awakening.json](./347148-the-unseen-awakening.json) |
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
@@ -4072,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
 | Tightrope | 388706 | [388706-tightrope.json](./388706-tightrope.json) |
 | Tightrope Walking | 178076 | [178076-tightrope-walking.json](./178076-tightrope-walking.json) |
+| Tiime | 153386 | [153386-tiime.json](./153386-tiime.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
 | Tik Werlen | 396194 | [396194-tik-werlen.json](./396194-tik-werlen.json) |
 | Tikal & Chaos | 331716 | [331716-tikal-and-chaos.json](./331716-tikal-and-chaos.json) |
@@ -4487,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
 | Tomb Raider: Underworld - Lara's Shadow | 23021 | [23021-tomb-raider-underworld-laras-shadow.json](./23021-tomb-raider-underworld-laras-shadow.json) |
 | Tomb Robber | 90655 | [90655-tomb-robber.json](./90655-tomb-robber.json) |
+| Tomb Rumble | 153408 | [153408-tomb-rumble.json](./153408-tomb-rumble.json) |
 | Tomb Rumble: Cursed Sorcerer | 170559 | [170559-tomb-rumble-cursed-sorcerer.json](./170559-tomb-rumble-cursed-sorcerer.json) |
 | Tomb Rumble: Cursed Vampire | 170558 | [170558-tomb-rumble-cursed-vampire.json](./170558-tomb-rumble-cursed-vampire.json) |
 | Tomb Slider | 262358 | [262358-tomb-slider.json](./262358-tomb-slider.json) |
@@ -5322,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Rangers | 153445 | [153445-treasure-rangers.json](./153445-treasure-rangers.json) |
 | Treasure Seekers: The Time Has Come | 226208 | [226208-treasure-seekers-the-time-has-come.json](./226208-treasure-seekers-the-time-has-come.json) |
 | Treasure Star | 247746 | [247746-treasure-star.json](./247746-treasure-star.json) |
+| Treasure Tomb VR | 153375 | [153375-treasure-tomb-vr.json](./153375-treasure-tomb-vr.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | Treasures of the Aegean | 146900 | [146900-treasures-of-the-aegean.json](./146900-treasures-of-the-aegean.json) |
 | Treasures of the Aegean: Collector's Edition | 170031 | [170031-treasures-of-the-aegean-collectors-edition.json](./170031-treasures-of-the-aegean-collectors-edition.json) |
@@ -5511,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
+| Troublemaker | 153398 | [153398-troublemaker.json](./153398-troublemaker.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
 | Trouserheart | 61113 | [61113-trouserheart.json](./61113-trouserheart.json) |
