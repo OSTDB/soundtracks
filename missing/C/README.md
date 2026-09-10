@@ -40,6 +40,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cache-Cache | 176428 | [176428-cache-cache.json](./176428-cache-cache.json) |
 | Cacildes Adventure | 269040 | [269040-cacildes-adventure.json](./269040-cacildes-adventure.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
+| Cactus Arcade | 141791 | [141791-cactus-arcade.json](./141791-cactus-arcade.json) |
+| Cactus Arcade II | 141792 | [141792-cactus-arcade-ii.json](./141792-cactus-arcade-ii.json) |
 | Cactus Cowboy 3: Fully Loaded | 152901 | [152901-cactus-cowboy-3-fully-loaded.json](./152901-cactus-cowboy-3-fully-loaded.json) |
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
 | Cactus McCoy 2: The Ruins of Calavera | 98117 | [98117-cactus-mccoy-2-the-ruins-of-calavera.json](./98117-cactus-mccoy-2-the-ruins-of-calavera.json) |
@@ -243,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
+| CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
 | Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
 | Canvas of Kings | 259576 | [259576-canvas-of-kings.json](./259576-canvas-of-kings.json) |
@@ -520,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casenology | 382778 | [382778-casenology.json](./382778-casenology.json) |
 | Casey Powell Lacrosse 18 | 96477 | [96477-casey-powell-lacrosse-18.json](./96477-casey-powell-lacrosse-18.json) |
 | Cash Dash | 384544 | [384544-cash-dash.json](./384544-cash-dash.json) |
+| Cash Horse - Match 3 Puzzle Adventure | 141793 | [141793-cash-horse-match-3-puzzle-adventure.json](./141793-cash-horse-match-3-puzzle-adventure.json) |
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
 | Casino Boss Simulator | 278701 | [278701-casino-boss-simulator.json](./278701-casino-boss-simulator.json) |
 | Casino Casualty | 365099 | [365099-casino-casualty.json](./365099-casino-casualty.json) |
@@ -777,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caution Ahead: Part 2 | 305142 | [305142-caution-ahead-part-2.json](./305142-caution-ahead-part-2.json) |
 | Cautionary Tale | 176453 | [176453-cautionary-tale.json](./176453-cautionary-tale.json) |
 | Cavalry Battle 3000 | 353896 | [353896-cavalry-battle-3000.json](./353896-cavalry-battle-3000.json) |
+| Cave | 141816 | [141816-cave.json](./141816-cave.json) |
 | Cave Bowling | 87262 | [87262-cave-bowling.json](./87262-cave-bowling.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
@@ -857,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestial Force: Magical Mayhem | 238495 | [238495-celestial-force-magical-mayhem.json](./238495-celestial-force-magical-mayhem.json) |
 | Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
+| Celestial Hearts | 141817 | [141817-celestial-hearts.json](./141817-celestial-hearts.json) |
 | Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
 | Celestial Links | 186251 | [186251-celestial-links.json](./186251-celestial-links.json) |
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
@@ -1879,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee VendoR | 113685 | [113685-coffee-vendor.json](./113685-coffee-vendor.json) |
 | Coffee with Prescilla | 169428 | [169428-coffee-with-prescilla.json](./169428-coffee-with-prescilla.json) |
 | Coffee, Plis | 257964 | [257964-coffee-plis.json](./257964-coffee-plis.json) |
+| Coffee/Break: Ocean Grey | 141796 | [141796-coffee-break-ocean-grey.json](./141796-coffee-break-ocean-grey.json) |
 | Coffeetime Crosswords | 74409 | [74409-coffeetime-crosswords.json](./74409-coffeetime-crosswords.json) |
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
@@ -2594,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboys n' Stuff | 169386 | [169386-cowboys-n-stuff.json](./169386-cowboys-n-stuff.json) |
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
 | Cowculanes | 175377 | [175377-cowculanes.json](./175377-cowculanes.json) |
+| Cowgirl Boots | 141808 | [141808-cowgirl-boots.json](./141808-cowgirl-boots.json) |
 | Cowgirl Trainer | 331299 | [331299-cowgirl-trainer.json](./331299-cowgirl-trainer.json) |
 | Cowhop | 239631 | [239631-cowhop.json](./239631-cowhop.json) |
 | Cowpocalypse | 118382 | [118382-cowpocalypse.json](./118382-cowpocalypse.json) |
@@ -3059,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
+| Cryoloop | 141809 | [141809-cryoloop.json](./141809-cryoloop.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
 | Crypt Architect | 236269 | [236269-crypt-architect.json](./236269-crypt-architect.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
