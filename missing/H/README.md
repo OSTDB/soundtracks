@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: The Master Chief Collection Season 6 - Raven | 205052 | [205052-halo-the-master-chief-collection-season-6-raven.json](./205052-halo-the-master-chief-collection-season-6-raven.json) |
 | Halo: The Master Chief Collection Season 7 - Elite | 205053 | [205053-halo-the-master-chief-collection-season-7-elite.json](./205053-halo-the-master-chief-collection-season-7-elite.json) |
 | Halo: The Master Chief Collection Season 8 - Mythic | 205054 | [205054-halo-the-master-chief-collection-season-8-mythic.json](./205054-halo-the-master-chief-collection-season-8-mythic.json) |
+| HaloMD | 141820 | [141820-halomd.json](./141820-halomd.json) |
 | HalOpe | 281399 | [281399-halope.json](./281399-halope.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
