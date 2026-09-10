@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | Capiophobia | 179115 | [179115-capiophobia.json](./179115-capiophobia.json) |
+| Capital | 164431 | [164431-capital.json](./164431-capital.json) |
 | Capital | 311489 | [311489-capital.json](./311489-capital.json) |
 | Capital Fire | 284885 | [284885-capital-fire.json](./284885-capital-fire.json) |
 | Capital Kings | 342635 | [342635-capital-kings.json](./342635-capital-kings.json) |
