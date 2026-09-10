@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Catgirl | 162846 | [162846-vr-catgirl.json](./162846-vr-catgirl.json) |
 | VR Cops | 253019 | [253019-vr-cops.json](./253019-vr-cops.json) |
 | VR Cops: Pack 1 | 253020 | [253020-vr-cops-pack-1.json](./253020-vr-cops-pack-1.json) |
+| VR Cute Tanks: Girls and Dinosaurs | 148474 | [148474-vr-cute-tanks-girls-and-dinosaurs.json](./148474-vr-cute-tanks-girls-and-dinosaurs.json) |
 | VR Dart Zone | 54459 | [54459-vr-dart-zone.json](./54459-vr-dart-zone.json) |
 | VR Dinosaur Invasion | 235730 | [235730-vr-dinosaur-invasion.json](./235730-vr-dinosaur-invasion.json) |
 | VR Dinosaur Pingpong | 235188 | [235188-vr-dinosaur-pingpong.json](./235188-vr-dinosaur-pingpong.json) |
