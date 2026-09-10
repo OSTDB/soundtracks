@@ -199,6 +199,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora | 238499 | [238499-pandora.json](./238499-pandora.json) |
 | Pandora | 249207 | [249207-pandora.json](./249207-pandora.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
+| Panel de Pon | 150107 | [150107-panel-de-pon.json](./150107-panel-de-pon.json) |
+| Panel de Pon GB | 150108 | [150108-panel-de-pon-gb.json](./150108-panel-de-pon-gb.json) |
+| Panel de Pon: Event Version | 150105 | [150105-panel-de-pon-event-version.json](./150105-panel-de-pon-event-version.json) |
+| Panel de Pon: Event Version 2 | 150106 | [150106-panel-de-pon-event-version-2.json](./150106-panel-de-pon-event-version-2.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
 | Pang: Magical Michael | 66524 | [66524-pang-magical-michael.json](./66524-pang-magical-michael.json) |
@@ -1453,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PJ Masks: Moonlight Heroes | 237649 | [237649-pj-masks-moonlight-heroes.json](./237649-pj-masks-moonlight-heroes.json) |
 | Place & Learn 19×19 Mental Math | 409550 | [409550-place-and-learn-19-19-mental-math.json](./409550-place-and-learn-19-19-mental-math.json) |
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
+| Placebo Love | 150074 | [150074-placebo-love.json](./150074-placebo-love.json) |
 | Placeless | 291755 | [291755-placeless.json](./291755-placeless.json) |
 | Placid Plastic Deck: A Quiet Quest | 320718 | [320718-placid-plastic-deck-a-quiet-quest.json](./320718-placid-plastic-deck-a-quiet-quest.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
@@ -2840,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punishment Darkness Online: Grand Moun | 171079 | [171079-punishment-darkness-online-grand-moun.json](./171079-punishment-darkness-online-grand-moun.json) |
 | Punji VR | 192962 | [192962-punji-vr.json](./192962-punji-vr.json) |
 | Punk Racer | 411619 | [411619-punk-racer.json](./411619-punk-racer.json) |
+| Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
 | Punk-o-Matic | 243144 | [243144-punk-o-matic.json](./243144-punk-o-matic.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Punt | 239675 | [239675-punt.json](./239675-punt.json) |
