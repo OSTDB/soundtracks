@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
 | Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
 | Oddworld: Munch's Oddysee | 134025 | [134025-oddworld-munchs-oddysee.json](./134025-oddworld-munchs-oddysee.json) |
+| Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Ode of Resurrection | 315489 | [315489-ode-of-resurrection.json](./315489-ode-of-resurrection.json) |
 | Ode to a Moon | 111059 | [111059-ode-to-a-moon.json](./111059-ode-to-a-moon.json) |
@@ -329,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Pattern | 28908 | [28908-omega-pattern.json](./28908-omega-pattern.json) |
 | Omega Protocol | 374633 | [374633-omega-protocol.json](./374633-omega-protocol.json) |
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
+| Omega Rally Championship | 132162 | [132162-omega-rally-championship.json](./132162-omega-rally-championship.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | Omega-Altro | 156117 | [156117-omega-altro.json](./156117-omega-altro.json) |
 | OmegaBot | 154001 | [154001-omegabot.json](./154001-omegabot.json) |
