@@ -253,7 +253,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Sonic the Hedgehog | 84656 | [84656-3d-sonic-the-hedgehog.json](./84656-3d-sonic-the-hedgehog.json) |
 | 3D Space Ranger | 15578 | [15578-3d-space-ranger.json](./15578-3d-space-ranger.json) |
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
-| 3D Thunder Force III | 202924 | [202924-3d-thunder-force-iii.json](./202924-3d-thunder-force-iii.json) |
 | 3D Turbo OutRun | 202923 | [202923-3d-turbo-outrun.json](./202923-3d-turbo-outrun.json) |
 | 3DO Action Pak | 37196 | [37196-3do-action-pak.json](./37196-3do-action-pak.json) |
 | 3DO Maniac Pack | 37195 | [37195-3do-maniac-pack.json](./37195-3do-maniac-pack.json) |
