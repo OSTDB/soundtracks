@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | FeastTower | 277298 | [277298-feasttower.json](./277298-feasttower.json) |
+| Fech the Ferret | 156607 | [156607-fech-the-ferret.json](./156607-fech-the-ferret.json) |
 | Fedanheim | 415921 | [415921-fedanheim.json](./415921-fedanheim.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
@@ -1959,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
+| FreeRunners | 156617 | [156617-freerunners.json](./156617-freerunners.json) |
 | Freestead Castle Defense | 292553 | [292553-freestead-castle-defense.json](./292553-freestead-castle-defense.json) |
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
