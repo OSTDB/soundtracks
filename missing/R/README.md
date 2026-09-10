@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
+| Reborn Online | 135807 | [135807-reborn-online.json](./135807-reborn-online.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
 | Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
