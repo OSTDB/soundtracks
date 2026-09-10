@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
 | Iga Ninden Ga-ou | 55899 | [55899-iga-ninden-ga-ou.json](./55899-iga-ninden-ga-ou.json) |
 | IGKnight | 238720 | [238720-igknight.json](./238720-igknight.json) |
+| Ignatius | 169375 | [169375-ignatius.json](./169375-ignatius.json) |
 | Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
 | Ignis Corruption | 196241 | [196241-ignis-corruption.json](./196241-ignis-corruption.json) |
 | Ignisia | 328239 | [328239-ignisia.json](./328239-ignisia.json) |
@@ -751,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
 | Innocence or Money: Season 2 - Episode 1 | 340754 | [340754-innocence-or-money-season-2-episode-1.json](./340754-innocence-or-money-season-2-episode-1.json) |
 | Innocent Critters | 238723 | [238723-innocent-critters.json](./238723-innocent-critters.json) |
+| Innocent Girl | 169369 | [169369-innocent-girl.json](./169369-innocent-girl.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
