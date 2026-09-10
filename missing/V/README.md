@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vilmonic | 33104 | [33104-vilmonic.json](./33104-vilmonic.json) |
 | Vilomah | 215672 | [215672-vilomah.json](./215672-vilomah.json) |
 | Vilovejets | 413657 | [413657-vilovejets.json](./413657-vilovejets.json) |
+| Vilset | 137607 | [137607-vilset.json](./137607-vilset.json) |
 | Vilzam: Cosmic Struggle | 265649 | [265649-vilzam-cosmic-struggle.json](./265649-vilzam-cosmic-struggle.json) |
 | Vincemus: Air Combat | 195259 | [195259-vincemus-air-combat.json](./195259-vincemus-air-combat.json) |
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
@@ -753,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRetired | 111702 | [111702-vretired.json](./111702-vretired.json) |
 | VRiking | 261506 | [261506-vriking.json](./261506-vriking.json) |
 | Vritra: Complete Edition | 107917 | [107917-vritra-complete-edition.json](./107917-vritra-complete-edition.json) |
+| Vrkshop | 137621 | [137621-vrkshop.json](./137621-vrkshop.json) |
 | VRLab Academy: Anatomy VR | 115011 | [115011-vrlab-academy-anatomy-vr.json](./115011-vrlab-academy-anatomy-vr.json) |
 | VRock | 187439 | [187439-vrock.json](./187439-vrock.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
