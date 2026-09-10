@@ -315,8 +315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
-| 7n7 | 169446 | [169446-7n7.json](./169446-7n7.json) |
-| 7Rhythm | 124268 | [124268-7rhythm.json](./124268-7rhythm.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
 | 7th Chance | 152897 | [152897-7th-chance.json](./152897-7th-chance.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
