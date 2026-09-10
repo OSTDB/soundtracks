@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | Panco's Journey | 109680 | [109680-pancos-journey.json](./109680-pancos-journey.json) |
 | Panda Choice Mahjong | 263502 | [263502-panda-choice-mahjong.json](./263502-panda-choice-mahjong.json) |
+| Panda Hero: Remastered | 143054 | [143054-panda-hero-remastered.json](./143054-panda-hero-remastered.json) |
 | Panda in the clouds | 165645 | [165645-panda-in-the-clouds.json](./165645-panda-in-the-clouds.json) |
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
@@ -257,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
+| Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
@@ -372,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Archives | 294166 | [294166-paranormal-archives.json](./294166-paranormal-archives.json) |
 | Paranormal Capture Investigation | 276187 | [276187-paranormal-capture-investigation.json](./276187-paranormal-capture-investigation.json) |
 | Paranormal Files: Fatal Flaw - Collector's Edition | 355018 | [355018-paranormal-files-fatal-flaw-collectors-edition.json](./355018-paranormal-files-fatal-flaw-collectors-edition.json) |
+| Paranormal Files: Fellow Traveler | 143017 | [143017-paranormal-files-fellow-traveler.json](./143017-paranormal-files-fellow-traveler.json) |
 | Paranormal Files: Ghost Chapter - Collector's Edition | 168857 | [168857-paranormal-files-ghost-chapter-collectors-edition.json](./168857-paranormal-files-ghost-chapter-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
@@ -1860,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
+| Pokémon: Blossom of the Soul | 143023 | [143023-pokemon-blossom-of-the-soul.json](./143023-pokemon-blossom-of-the-soul.json) |
 | Pokémon: Cave Escape | 342676 | [342676-pokemon-cave-escape.json](./342676-pokemon-cave-escape.json) |
 | Pokémon: Desert Bus | 313114 | [313114-pokemon-desert-bus.json](./313114-pokemon-desert-bus.json) |
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
