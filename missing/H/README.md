@@ -407,6 +407,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Harukanaru Toki no Naka de 3 Ultimate | 136461 | [136461-harukanaru-toki-no-naka-de-3-ultimate.json](./136461-harukanaru-toki-no-naka-de-3-ultimate.json) |
+| Harukanaru Toki no Naka de: Banjyou Yuugi | 137002 | [137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json](./137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json) |
+| Harukanaru Toki no Naka de: Hachiyoushou | 137003 | [137003-harukanaru-toki-no-naka-de-hachiyoushou.json](./137003-harukanaru-toki-no-naka-de-hachiyoushou.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
@@ -1382,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himemiya-san wa Kamaitai: Limited Edition | 205264 | [205264-himemiya-san-wa-kamaitai-limited-edition.json](./205264-himemiya-san-wa-kamaitai-limited-edition.json) |
 | HimeYoku: A Sacrifice of Lust and Grace | 215685 | [215685-himeyoku-a-sacrifice-of-lust-and-grace.json](./215685-himeyoku-a-sacrifice-of-lust-and-grace.json) |
 | Himi Nikki | 202359 | [202359-himi-nikki.json](./202359-himi-nikki.json) |
+| Himig | 136989 | [136989-himig.json](./136989-himig.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
 | Hina-chan Breaker: 2nd Break | 212293 | [212293-hina-chan-breaker-2nd-break.json](./212293-hina-chan-breaker-2nd-break.json) |
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
