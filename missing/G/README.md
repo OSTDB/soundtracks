@@ -1185,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Girl | 107880 | [107880-good-girl.json](./107880-good-girl.json) |
 | Good Girls: Angels With Dirty Intentions | 399638 | [399638-good-girls-angels-with-dirty-intentions.json](./399638-good-girls-angels-with-dirty-intentions.json) |
 | Good God! | 400882 | [400882-good-god.json](./400882-good-god.json) |
+| Good Goliath | 132187 | [132187-good-goliath.json](./132187-good-goliath.json) |
 | Good Heavens! | 204463 | [204463-good-heavens.json](./204463-good-heavens.json) |
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
 | Good Job! | 261259 | [261259-good-job.json](./261259-good-job.json) |
