@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
 | Tangled | 230552 | [230552-tangled.json](./230552-tangled.json) |
 | Tangled | 62187 | [62187-tangled.json](./62187-tangled.json) |
+| Tangledeep: Dawn of Dragons | 154499 | [154499-tangledeep-dawn-of-dragons.json](./154499-tangledeep-dawn-of-dragons.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tangoo & Ullashong | 374087 | [374087-tangoo-and-ullashong.json](./374087-tangoo-and-ullashong.json) |
 | Tangram | 208373 | [208373-tangram.json](./208373-tangram.json) |
@@ -1304,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
 | The Colour Beyond: A Zeroth Kind | 409590 | [409590-the-colour-beyond-a-zeroth-kind.json](./409590-the-colour-beyond-a-zeroth-kind.json) |
+| The Coma 2: Vicious Sisters - Deluxe Edition | 154510 | [154510-the-coma-2-vicious-sisters-deluxe-edition.json](./154510-the-coma-2-vicious-sisters-deluxe-edition.json) |
 | The Coma: Recut - Limited Edition | 166241 | [166241-the-coma-recut-limited-edition.json](./166241-the-coma-recut-limited-edition.json) |
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Commander of Steel | 262063 | [262063-the-commander-of-steel.json](./262063-the-commander-of-steel.json) |
@@ -2643,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest Keeper | 344939 | [344939-the-quest-keeper.json](./344939-the-quest-keeper.json) |
 | The Quest of Merravid | 12961 | [12961-the-quest-of-merravid.json](./12961-the-quest-of-merravid.json) |
 | The Quest: Hero of Lukomorye V | 200205 | [200205-the-quest-hero-of-lukomorye-v.json](./200205-the-quest-hero-of-lukomorye-v.json) |
+| The Quest: Islands of Ice and Fire | 154509 | [154509-the-quest-islands-of-ice-and-fire.json](./154509-the-quest-islands-of-ice-and-fire.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
@@ -3673,7 +3676,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tichi3D | 236830 | [236830-tichi3d.json](./236830-tichi3d.json) |
 | Tichu | 156643 | [156643-tichu.json](./156643-tichu.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
+| Ticket to Ride: France | 154475 | [154475-ticket-to-ride-france.json](./154475-ticket-to-ride-france.json) |
+| Ticket to Ride: Germany | 154470 | [154470-ticket-to-ride-germany.json](./154470-ticket-to-ride-germany.json) |
+| Ticket to Ride: India | 154472 | [154472-ticket-to-ride-india.json](./154472-ticket-to-ride-india.json) |
+| Ticket to Ride: Nordic Countries | 154471 | [154471-ticket-to-ride-nordic-countries.json](./154471-ticket-to-ride-nordic-countries.json) |
 | Ticket to Ride: Nordic Expansion | 298025 | [298025-ticket-to-ride-nordic-expansion.json](./298025-ticket-to-ride-nordic-expansion.json) |
+| Ticket to Ride: Pennsylvania | 154468 | [154468-ticket-to-ride-pennsylvania.json](./154468-ticket-to-ride-pennsylvania.json) |
+| Ticket to Ride: United Kingdom | 154469 | [154469-ticket-to-ride-united-kingdom.json](./154469-ticket-to-ride-united-kingdom.json) |
+| Ticket to Ride: USA 1910 | 154473 | [154473-ticket-to-ride-usa-1910.json](./154473-ticket-to-ride-usa-1910.json) |
 | Ticket to Ride: USA 1910 Ticket Pack | 311992 | [311992-ticket-to-ride-usa-1910-ticket-pack.json](./311992-ticket-to-ride-usa-1910-ticket-pack.json) |
 | Ticket to Ride: Winter | 375176 | [375176-ticket-to-ride-winter.json](./375176-ticket-to-ride-winter.json) |
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
@@ -4478,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
 | Tombed | 242820 | [242820-tombed.json](./242820-tombed.json) |
 | Tombo Survivor | 157167 | [157167-tombo-survivor.json](./157167-tombo-survivor.json) |
+| Tomboy Adventure | 154577 | [154577-tomboy-adventure.json](./154577-tomboy-adventure.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
 | Tomcat | 74428 | [74428-tomcat.json](./74428-tomcat.json) |
@@ -5059,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
+| Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
