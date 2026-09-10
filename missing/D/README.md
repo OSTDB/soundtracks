@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death End Re;Quest 2 | 120302 | [120302-death-end-re-quest-2.json](./120302-death-end-re-quest-2.json) |
 | Death End Re;Quest 2: Complete Deluxe Edition | 186871 | [186871-death-end-re-quest-2-complete-deluxe-edition.json](./186871-death-end-re-quest-2-complete-deluxe-edition.json) |
 | Death End Re;Quest 2: Limited Edition | 166236 | [166236-death-end-re-quest-2-limited-edition.json](./166236-death-end-re-quest-2-limited-edition.json) |
+| Death Escape | 148495 | [148495-death-escape.json](./148495-death-escape.json) |
 | Death Field: The Battle Royale of Disaster | 96234 | [96234-death-field-the-battle-royale-of-disaster.json](./96234-death-field-the-battle-royale-of-disaster.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
@@ -992,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Dust | 327819 | [327819-demon-dust.json](./327819-demon-dust.json) |
 | Demon Gate: Crown Defense | 114412 | [114412-demon-gate-crown-defense.json](./114412-demon-gate-crown-defense.json) |
 | Demon Gaze Extra | 148525 | [148525-demon-gaze-extra.json](./148525-demon-gaze-extra.json) |
+| Demon Gaze Extra: Memorial Edition | 148520 | [148520-demon-gaze-extra-memorial-edition.json](./148520-demon-gaze-extra-memorial-edition.json) |
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
 | Demon Hunt | 319555 | [319555-demon-hunt.json](./319555-demon-hunt.json) |
@@ -1251,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
+| Dethcube | 148487 | [148487-dethcube.json](./148487-dethcube.json) |
 | DethKarz | 51252 | [51252-dethkarz.json](./51252-dethkarz.json) |
 | Dethrone | 182977 | [182977-dethrone.json](./182977-dethrone.json) |
 | Dethroned | 240813 | [240813-dethroned.json](./240813-dethroned.json) |
@@ -1266,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: The Conspiracy | 347125 | [347125-deus-ex-the-conspiracy.json](./347125-deus-ex-the-conspiracy.json) |
 | Deuteros: The Next Millennium | 9575 | [9575-deuteros-the-next-millennium.json](./9575-deuteros-the-next-millennium.json) |
 | Dev Inc | 152835 | [152835-dev-inc.json](./152835-dev-inc.json) |
+| Deva: The Haunted Game | 148513 | [148513-deva-the-haunted-game.json](./148513-deva-the-haunted-game.json) |
 | Devastated | 129211 | [129211-devastated.json](./129211-devastated.json) |
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
@@ -1578,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
+| Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
 | Disc Golf Rival | 221377 | [221377-disc-golf-rival.json](./221377-disc-golf-rival.json) |
 | Disc Golf to Go | 175399 | [175399-disc-golf-to-go.json](./175399-disc-golf-to-go.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
