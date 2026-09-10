@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
 | Rebel Pirates | 371238 | [371238-rebel-pirates.json](./371238-rebel-pirates.json) |
+| Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebels & Redcoats | 122394 | [122394-rebels-and-redcoats.json](./122394-rebels-and-redcoats.json) |
 | Rebirth | 345525 | [345525-rebirth.json](./345525-rebirth.json) |
@@ -1348,11 +1349,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
 | Risk: Factions | 3693 | [3693-risk-factions.json](./3693-risk-factions.json) |
 | Risk: Global Domination - Advanced Map Pack | 226941 | [226941-risk-global-domination-advanced-map-pack.json](./226941-risk-global-domination-advanced-map-pack.json) |
+| Risk: Global Domination - Countries & Continents 2 Map Pack | 164455 | [164455-risk-global-domination-countries-and-continents-2-map-pack.json](./164455-risk-global-domination-countries-and-continents-2-map-pack.json) |
+| Risk: Global Domination - Countries & Continents Map Pack | 164456 | [164456-risk-global-domination-countries-and-continents-map-pack.json](./164456-risk-global-domination-countries-and-continents-map-pack.json) |
 | Risk: Global Domination - Dawn of the Dinos Map Pack | 226942 | [226942-risk-global-domination-dawn-of-the-dinos-map-pack.json](./226942-risk-global-domination-dawn-of-the-dinos-map-pack.json) |
+| Risk: Global Domination - Empires Map Pack | 164460 | [164460-risk-global-domination-empires-map-pack.json](./164460-risk-global-domination-empires-map-pack.json) |
 | Risk: Global Domination - Enchanted Realms Map Pack | 226943 | [226943-risk-global-domination-enchanted-realms-map-pack.json](./226943-risk-global-domination-enchanted-realms-map-pack.json) |
+| Risk: Global Domination - European Conquest | 164461 | [164461-risk-global-domination-european-conquest.json](./164461-risk-global-domination-european-conquest.json) |
 | Risk: Global Domination - Fantasy Map Pack 2 | 226944 | [226944-risk-global-domination-fantasy-map-pack-2.json](./226944-risk-global-domination-fantasy-map-pack-2.json) |
+| Risk: Global Domination - Fantasy Pack | 164459 | [164459-risk-global-domination-fantasy-pack.json](./164459-risk-global-domination-fantasy-pack.json) |
+| Risk: Global Domination - New World Views Map Pack | 164454 | [164454-risk-global-domination-new-world-views-map-pack.json](./164454-risk-global-domination-new-world-views-map-pack.json) |
+| Risk: Global Domination - Northern Map Pack | 164462 | [164462-risk-global-domination-northern-map-pack.json](./164462-risk-global-domination-northern-map-pack.json) |
+| Risk: Global Domination - Pirate Pack | 164458 | [164458-risk-global-domination-pirate-pack.json](./164458-risk-global-domination-pirate-pack.json) |
 | Risk: Global Domination - Sci-Fi Map Pack | 226945 | [226945-risk-global-domination-sci-fi-map-pack.json](./226945-risk-global-domination-sci-fi-map-pack.json) |
 | Risk: Global Domination - Strongholds & Castles Map Pack | 226947 | [226947-risk-global-domination-strongholds-and-castles-map-pack.json](./226947-risk-global-domination-strongholds-and-castles-map-pack.json) |
+| Risk: Global Domination - US City Map Pack | 164457 | [164457-risk-global-domination-us-city-map-pack.json](./164457-risk-global-domination-us-city-map-pack.json) |
 | Risk: Global Domination - Zombie Pack | 226946 | [226946-risk-global-domination-zombie-pack.json](./226946-risk-global-domination-zombie-pack.json) |
 | Risk: Pogo Domination | 354995 | [354995-risk-pogo-domination.json](./354995-risk-pogo-domination.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
