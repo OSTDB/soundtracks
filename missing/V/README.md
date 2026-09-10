@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkie 64 | 224788 | [224788-valkie-64.json](./224788-valkie-64.json) |
 | Valkyria Chronicles 2: DLC Pack 2 | 138838 | [138838-valkyria-chronicles-2-dlc-pack-2.json](./138838-valkyria-chronicles-2-dlc-pack-2.json) |
 | Valkyria Chronicles 4 | 75848 | [75848-valkyria-chronicles-4.json](./75848-valkyria-chronicles-4.json) |
+| Valkyria Chronicles 4: Memoirs From Battle Edition | 132179 | [132179-valkyria-chronicles-4-memoirs-from-battle-edition.json](./132179-valkyria-chronicles-4-memoirs-from-battle-edition.json) |
 | Valkyria Chronicles Bundle | 138811 | [138811-valkyria-chronicles-bundle.json](./138811-valkyria-chronicles-bundle.json) |
 | Valkyria Chronicles: Challenge of the Edy Detachment | 138837 | [138837-valkyria-chronicles-challenge-of-the-edy-detachment.json](./138837-valkyria-chronicles-challenge-of-the-edy-detachment.json) |
 | Valkyria Chronicles: Edy's Mission "Enter the Edy Detachment" | 138834 | [138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json](./138834-valkyria-chronicles-edys-mission-enter-the-edy-detachment.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Revolution Scenario: The Ring of Contract DLC | 138820 | [138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json](./138820-valkyria-revolution-scenario-the-ring-of-contract-dlc.json) |
 | Valkyria Revolution: Limited Edition | 138813 | [138813-valkyria-revolution-limited-edition.json](./138813-valkyria-revolution-limited-edition.json) |
 | Valkyria Revolution: Scenario Pack - The Circle of Five | 138816 | [138816-valkyria-revolution-scenario-pack-the-circle-of-five.json](./138816-valkyria-revolution-scenario-pack-the-circle-of-five.json) |
+| Valkyria Revolution: Vanargand Edition | 132180 | [132180-valkyria-revolution-vanargand-edition.json](./132180-valkyria-revolution-vanargand-edition.json) |
 | Valkyria Soul | 200145 | [200145-valkyria-soul.json](./200145-valkyria-soul.json) |
 | Valkyrie Blade VR | 28891 | [28891-valkyrie-blade-vr.json](./28891-valkyrie-blade-vr.json) |
 | Valkyrie Champions | 215675 | [215675-valkyrie-champions.json](./215675-valkyrie-champions.json) |
