@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
+| Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Capybara Quest | 310942 | [310942-capybara-quest.json](./310942-capybara-quest.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Good Work | 309686 | [309686-cat-good-work.json](./309686-cat-good-work.json) |
 | Cat got Lost | 260670 | [260670-cat-got-lost.json](./260670-cat-got-lost.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
+| Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 1 | 263200 | [263200-cat-jigsaw-puzzle-games-expansion-pack-1.json](./263200-cat-jigsaw-puzzle-games-expansion-pack-1.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 3 | 263207 | [263207-cat-jigsaw-puzzle-games-expansion-pack-3.json](./263207-cat-jigsaw-puzzle-games-expansion-pack-3.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 4 | 263211 | [263211-cat-jigsaw-puzzle-games-expansion-pack-4.json](./263211-cat-jigsaw-puzzle-games-expansion-pack-4.json) |
@@ -2444,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
+| Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
@@ -2453,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corg of the Dead | 133383 | [133383-corg-of-the-dead.json](./133383-corg-of-the-dead.json) |
 | Corgi in the Box | 273372 | [273372-corgi-in-the-box.json](./273372-corgi-in-the-box.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
+| Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
