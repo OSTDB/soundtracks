@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Question of Scruples: The Computer Edition | 133441 | [133441-a-question-of-scruples-the-computer-edition.json](./133441-a-question-of-scruples-the-computer-edition.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Red Sky at Dawn | 183584 | [183584-a-red-sky-at-dawn.json](./183584-a-red-sky-at-dawn.json) |
+| A Ride to Love | 140536 | [140536-a-ride-to-love.json](./140536-a-ride-to-love.json) |
 | A Roaming Wildebeest In Spain | 271244 | [271244-a-roaming-wildebeest-in-spain.json](./271244-a-roaming-wildebeest-in-spain.json) |
 | A Robot's Conundrum | 67988 | [67988-a-robots-conundrum.json](./67988-a-robots-conundrum.json) |
 | A Robot's Journey | 151171 | [151171-a-robots-journey.json](./151171-a-robots-journey.json) |
@@ -1544,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
 | Ambermoon.net | 217853 | [217853-ambermoon-net.json](./217853-ambermoon-net.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
+| Ambitions: Birth of a President | 140568 | [140568-ambitions-birth-of-a-president.json](./140568-ambitions-birth-of-a-president.json) |
 | Ambitious Mission | 293897 | [293897-ambitious-mission.json](./293897-ambitious-mission.json) |
 | Ambrosia's | 185613 | [185613-ambrosias.json](./185613-ambrosias.json) |
 | Ambulance Driver | 311816 | [311816-ambulance-driver.json](./311816-ambulance-driver.json) |
