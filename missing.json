@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T02:48:44.771Z",
-  "total_missing": 52703,
+  "generated_at": "2026-09-10T02:51:14.670Z",
+  "total_missing": 52702,
   "games": [
     {
       "igdb_id": 306086,
@@ -1236,11 +1236,6 @@
       "igdb_id": 96073,
       "game_name": "3D Super Chess",
       "file": "missing/0-9/96073-3d-super-chess.json"
-    },
-    {
-      "igdb_id": 202924,
-      "game_name": "3D Thunder Force III",
-      "file": "missing/0-9/202924-3d-thunder-force-iii.json"
     },
     {
       "igdb_id": 202923,
