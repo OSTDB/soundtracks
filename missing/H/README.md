@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
 | Her Love, Like Poison | 332442 | [332442-her-love-like-poison.json](./332442-her-love-like-poison.json) |
+| Her New Memory | 152295 | [152295-her-new-memory.json](./152295-her-new-memory.json) |
 | Her New Memory: BDSM | 217541 | [217541-her-new-memory-bdsm.json](./217541-her-new-memory-bdsm.json) |
 | Her Nightmares: Redacted | 212265 | [212265-her-nightmares-redacted.json](./212265-her-nightmares-redacted.json) |
 | Her Shoes | 301822 | [301822-her-shoes.json](./301822-her-shoes.json) |
@@ -2010,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - Law of Salvage | 276197 | [276197-hunt-showdown-1896-law-of-salvage.json](./276197-hunt-showdown-1896-law-of-salvage.json) |
 | Hunt: Showdown 1896 - Myth of the Moors | 253930 | [253930-hunt-showdown-1896-myth-of-the-moors.json](./253930-hunt-showdown-1896-myth-of-the-moors.json) |
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
+| Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
