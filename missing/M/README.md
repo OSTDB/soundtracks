@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
 | MageRun | 192361 | [192361-magerun.json](./192361-magerun.json) |
 | Maggie's Apartment | 50504 | [50504-maggies-apartment.json](./50504-maggies-apartment.json) |
+| Maggie's Movies: Second Shot | 132789 | [132789-maggies-movies-second-shot.json](./132789-maggies-movies-second-shot.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
 | Magia Para Todos | 86111 | [86111-magia-para-todos.json](./86111-magia-para-todos.json) |
@@ -455,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamono Hunter Youko: Makai Kara no Tenkousei | 292862 | [292862-mamono-hunter-youko-makai-kara-no-tenkousei.json](./292862-mamono-hunter-youko-makai-kara-no-tenkousei.json) |
 | Mamono Hunter Youko: Tooki Yobigoe | 292863 | [292863-mamono-hunter-youko-tooki-yobigoe.json](./292863-mamono-hunter-youko-tooki-yobigoe.json) |
 | Man and Dog: Small Game Hunt | 337651 | [337651-man-and-dog-small-game-hunt.json](./337651-man-and-dog-small-game-hunt.json) |
+| Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
 | Man in a Maze | 62219 | [62219-man-in-a-maze.json](./62219-man-in-a-maze.json) |
 | Man O' War: Corsair - Warhammer Naval Battles | 25058 | [25058-man-o-war-corsair-warhammer-naval-battles.json](./25058-man-o-war-corsair-warhammer-naval-battles.json) |
 | Man of Steel | 63305 | [63305-man-of-steel.json](./63305-man-of-steel.json) |
@@ -1634,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gunner | 137655 | [137655-metal-gunner.json](./137655-metal-gunner.json) |
 | Metal Hunter | 189202 | [189202-metal-hunter.json](./189202-metal-hunter.json) |
 | Metal Hunter | 392783 | [392783-metal-hunter.json](./392783-metal-hunter.json) |
+| Metal Knight | 132753 | [132753-metal-knight.json](./132753-metal-knight.json) |
 | Metal Knights | 237344 | [237344-metal-knights.json](./237344-metal-knights.json) |
 | Metal March | 228088 | [228088-metal-march.json](./228088-metal-march.json) |
 | Metal Max 3 | 66922 | [66922-metal-max-3.json](./66922-metal-max-3.json) |
@@ -2069,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindcell | 166159 | [166159-mindcell.json](./166159-mindcell.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
+| Mindframe: The Secret Design - Collector's Edition | 132778 | [132778-mindframe-the-secret-design-collectors-edition.json](./132778-mindframe-the-secret-design-collectors-edition.json) |
 | MindGym | 172145 | [172145-mindgym.json](./172145-mindgym.json) |
 | Mindhack | 151735 | [151735-mindhack.json](./151735-mindhack.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
@@ -2320,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
 | Mirai Shounen Conan | 42021 | [42021-mirai-shounen-conan.json](./42021-mirai-shounen-conan.json) |
 | Mírame | 271728 | [271728-mirame.json](./271728-mirame.json) |
+| Mirastell | 132782 | [132782-mirastell.json](./132782-mirastell.json) |
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
 | Mircea | 320739 | [320739-mircea.json](./320739-mircea.json) |
 | Mire | 339823 | [339823-mire.json](./339823-mire.json) |
@@ -2490,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
+| Mobile Suit Gundam | 132794 | [132794-mobile-suit-gundam.json](./132794-mobile-suit-gundam.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
 | Mobile Suit Gundam: A Year of War | 222899 | [222899-mobile-suit-gundam-a-year-of-war.json](./222899-mobile-suit-gundam-a-year-of-war.json) |
