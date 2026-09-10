@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TavernHold | 361685 | [361685-tavernhold.json](./361685-tavernhold.json) |
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
+| Taxi 3 | 138156 | [138156-taxi-3.json](./138156-taxi-3.json) |
 | Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
 | Taxi Driver Simulation 2025 | 328476 | [328476-taxi-driver-simulation-2025.json](./328476-taxi-driver-simulation-2025.json) |
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
@@ -1637,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escape Room Chronicles ep1: The Mysterious KumaDonald's | 324119 | [324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json](./324119-the-escape-room-chronicles-ep1-the-mysterious-kumadonalds.json) |
 | The Escape Room Chronicles ep2: The Old School Building | 324120 | [324120-the-escape-room-chronicles-ep2-the-old-school-building.json](./324120-the-escape-room-chronicles-ep2-the-old-school-building.json) |
 | The Escape Room Chronicles ep3: The Southern Resort | 324121 | [324121-the-escape-room-chronicles-ep3-the-southern-resort.json](./324121-the-escape-room-chronicles-ep3-the-southern-resort.json) |
+| The Escapists + The Escapists 2 | 138193 | [138193-the-escapists-the-escapists-2.json](./138193-the-escapists-the-escapists-2.json) |
 | The Essence of Luna | 323509 | [323509-the-essence-of-luna.json](./323509-the-essence-of-luna.json) |
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
 | The Eternal Mines | 379379 | [379379-the-eternal-mines.json](./379379-the-eternal-mines.json) |
@@ -1943,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
+| The Horizon | 138184 | [138184-the-horizon.json](./138184-the-horizon.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Horror Within | 255712 | [255712-the-horror-within.json](./255712-the-horror-within.json) |
 | The Horrorscope: Fatal Awakening | 166773 | [166773-the-horrorscope-fatal-awakening.json](./166773-the-horrorscope-fatal-awakening.json) |
@@ -1958,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
 | The House of Da Vinci | 39749 | [39749-the-house-of-da-vinci.json](./39749-the-house-of-da-vinci.json) |
+| The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
 | The House of the Dead 2: Remake | 327808 | [327808-the-house-of-the-dead-2-remake.json](./327808-the-house-of-the-dead-2-remake.json) |
@@ -2312,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
 | The Lighthouse of São Bento do Oeste | 192894 | [192894-the-lighthouse-of-sao-bento-do-oeste.json](./192894-the-lighthouse-of-sao-bento-do-oeste.json) |
+| The Lightning Over Pear Acre Road | 138186 | [138186-the-lightning-over-pear-acre-road.json](./138186-the-lightning-over-pear-acre-road.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
 | The Lilliput Workshop | 205249 | [205249-the-lilliput-workshop.json](./205249-the-lilliput-workshop.json) |
 | The Lilows 2 | 239888 | [239888-the-lilows-2.json](./239888-the-lilows-2.json) |
@@ -2460,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
 | The Maze Contract | 276157 | [276157-the-maze-contract.json](./276157-the-maze-contract.json) |
 | The Maze Escaper | 150700 | [150700-the-maze-escaper.json](./150700-the-maze-escaper.json) |
+| The Maze Runner | 138159 | [138159-the-maze-runner.json](./138159-the-maze-runner.json) |
 | The Meaning of Auri | 349310 | [349310-the-meaning-of-auri.json](./349310-the-meaning-of-auri.json) |
 | The Medium + Observer: System Redux + Darq: Complete Edition Bundle | 166687 | [166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json](./166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json) |
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
@@ -3185,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
 | The Tour | 282029 | [282029-the-tour.json](./282029-the-tour.json) |
 | The Tour of Duty | 145618 | [145618-the-tour-of-duty.json](./145618-the-tour-of-duty.json) |
+| The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
 | The Tower of TigerQiuQiu 2: 1942-J20 | 157690 | [157690-the-tower-of-tigerqiuqiu-2-1942-j20.json](./157690-the-tower-of-tigerqiuqiu-2-1942-j20.json) |
 | The Tower of TigerQiuQiu 2: 1952 M0 | 173714 | [173714-the-tower-of-tigerqiuqiu-2-1952-m0.json](./173714-the-tower-of-tigerqiuqiu-2-1952-m0.json) |
 | The Tower of TigerQiuQiu 2: 1952 M1 | 173734 | [173734-the-tower-of-tigerqiuqiu-2-1952-m1.json](./173734-the-tower-of-tigerqiuqiu-2-1952-m1.json) |
