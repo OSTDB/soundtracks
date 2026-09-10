@@ -342,7 +342,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
-| 9.03m | 16837 | [16837-9-03m.json](./16837-9-03m.json) |
 | 90 Minutes European Prime Goal | 42663 | [42663-90-minutes-european-prime-goal.json](./42663-90-minutes-european-prime-goal.json) |
 | 90 Second Portraits | 51220 | [51220-90-second-portraits.json](./51220-90-second-portraits.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
