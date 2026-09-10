@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yenght | 94258 | [94258-yenght.json](./94258-yenght.json) |
 | Yeoubul | 166754 | [166754-yeoubul.json](./166754-yeoubul.json) |
 | Yes My Lord | 199090 | [199090-yes-my-lord.json](./199090-yes-my-lord.json) |
+| Yes! PreCure 5 | 168328 | [168328-yes-precure-5.json](./168328-yes-precure-5.json) |
 | Yes! PreCure 5 GoGo!: LoveLove Hiragana Lesson | 327604 | [327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json](./327604-yes-precure-5-gogo-lovelove-hiragana-lesson.json) |
 | Yes! PreCure 5: Asonde Oboeyou Hiragana! | 327605 | [327605-yes-precure-5-asonde-oboeyou-hiragana.json](./327605-yes-precure-5-asonde-oboeyou-hiragana.json) |
 | Yesterday | 7647 | [7647-yesterday.json](./7647-yesterday.json) |
