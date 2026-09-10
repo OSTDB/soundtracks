@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Opened the Walls and Found Something Beautiful | 177498 | [177498-i-opened-the-walls-and-found-something-beautiful.json](./177498-i-opened-the-walls-and-found-something-beautiful.json) |
 | I Picked Up a Mysterious Smartphone That You Can Change Everything as You Like | 98462 | [98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json](./98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json) |
 | I R Teh More Amazzzzing! | 330515 | [330515-i-r-teh-more-amazzzzing.json](./330515-i-r-teh-more-amazzzzing.json) |
+| I Remember the Light | 152864 | [152864-i-remember-the-light.json](./152864-i-remember-the-light.json) |
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
 | I Remember This Dream | 314905 | [314905-i-remember-this-dream.json](./314905-i-remember-this-dream.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
@@ -809,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Out at The Top of the World | 318790 | [318790-inside-out-at-the-top-of-the-world.json](./318790-inside-out-at-the-top-of-the-world.json) |
 | Inside Pete Premium | 245323 | [245323-inside-pete-premium.json](./245323-inside-pete-premium.json) |
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
+| Inside the Memories | 152862 | [152862-inside-the-memories.json](./152862-inside-the-memories.json) |
 | Inside Trader: The Authentic Stock Trading Game | 94246 | [94246-inside-trader-the-authentic-stock-trading-game.json](./94246-inside-trader-the-authentic-stock-trading-game.json) |
 | Inside Us | 236846 | [236846-inside-us.json](./236846-inside-us.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
