@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan Wars | 188089 | [188089-clan-wars.json](./188089-clan-wars.json) |
 | Clannad | 9607 | [9607-clannad.json](./9607-clannad.json) |
+| Clannad: The Past Path | 138157 | [138157-clannad-the-past-path.json](./138157-clannad-the-past-path.json) |
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
 | Clans | 17121 | [17121-clans.json](./17121-clans.json) |
 | Clanswoman | 264598 | [264598-clanswoman.json](./264598-clanswoman.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning Redville | 217873 | [217873-cleaning-redville.json](./217873-cleaning-redville.json) |
 | Cleaning Robot Match: Scatter Battlers | 151672 | [151672-cleaning-robot-match-scatter-battlers.json](./151672-cleaning-robot-match-scatter-battlers.json) |
 | Cleaning Service | 183544 | [183544-cleaning-service.json](./183544-cleaning-service.json) |
+| Cleaning Simulator | 138183 | [138183-cleaning-simulator.json](./138183-cleaning-simulator.json) |
 | Cleaning Simulator | 374584 | [374584-cleaning-simulator.json](./374584-cleaning-simulator.json) |
 | Cleaning Simulator: Ultimate Mess | 407359 | [407359-cleaning-simulator-ultimate-mess.json](./407359-cleaning-simulator-ultimate-mess.json) |
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
@@ -2113,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
+| Combat Wings | 138170 | [138170-combat-wings.json](./138170-combat-wings.json) |
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
@@ -2603,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
 | Covert Front | 213617 | [213617-covert-front.json](./213617-covert-front.json) |
+| Covetous | 138188 | [138188-covetous.json](./138188-covetous.json) |
 | Covid '99 | 140514 | [140514-covid-99.json](./140514-covid-99.json) |
 | Covid 2069 | 167758 | [167758-covid-2069.json](./167758-covid-2069.json) |
 | Covid 23: Test Labs | 255975 | [255975-covid-23-test-labs.json](./255975-covid-23-test-labs.json) |
@@ -2732,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Forts 2 | 205273 | [205273-crash-forts-2.json](./205273-crash-forts-2.json) |
 | Crash Metal: Cyber Racing Punk Cars | 269858 | [269858-crash-metal-cyber-racing-punk-cars.json](./269858-crash-metal-cyber-racing-punk-cars.json) |
 | Crash N Dash | 246986 | [246986-crash-n-dash.json](./246986-crash-n-dash.json) |
+| Crash N. Tense Adventure | 138154 | [138154-crash-n-tense-adventure.json](./138154-crash-n-tense-adventure.json) |
 | Crash Nitro Kart | 210237 | [210237-crash-nitro-kart.json](./210237-crash-nitro-kart.json) |
 | Crash Nitro Kart | 210238 | [210238-crash-nitro-kart.json](./210238-crash-nitro-kart.json) |
 | Crash Nitro Kart | 222884 | [222884-crash-nitro-kart.json](./222884-crash-nitro-kart.json) |
@@ -2852,6 +2857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Keeper | 127563 | [127563-creature-keeper.json](./127563-creature-keeper.json) |
 | Creature Kitchen | 363954 | [363954-creature-kitchen.json](./363954-creature-kitchen.json) |
 | Creature Lab | 156674 | [156674-creature-lab.json](./156674-creature-lab.json) |
+| Creature Quest | 138166 | [138166-creature-quest.json](./138166-creature-quest.json) |
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
 | Creatures by Candlelight | 262952 | [262952-creatures-by-candlelight.json](./262952-creatures-by-candlelight.json) |
