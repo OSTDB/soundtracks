@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T01:41:12.678Z",
-  "total_missing": 52500,
+  "generated_at": "2026-09-10T01:48:41.480Z",
+  "total_missing": 52550,
   "games": [
     {
       "igdb_id": 306086,
@@ -2381,6 +2381,11 @@
       "igdb_id": 176500,
       "game_name": "A Day in the Office",
       "file": "missing/A/176500-a-day-in-the-office.json"
+    },
+    {
+      "igdb_id": 167225,
+      "game_name": "A Day in the Park",
+      "file": "missing/A/167225-a-day-in-the-park.json"
     },
     {
       "igdb_id": 326582,
@@ -11783,6 +11788,11 @@
       "file": "missing/A/191915-another-prince-a-lost-tale.json"
     },
     {
+      "igdb_id": 167243,
+      "game_name": "Another road",
+      "file": "missing/A/167243-another-road.json"
+    },
+    {
       "igdb_id": 55214,
       "game_name": "Another Runner",
       "file": "missing/A/55214-another-runner.json"
@@ -15548,9 +15558,19 @@
       "file": "missing/A/360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json"
     },
     {
+      "igdb_id": 167242,
+      "game_name": "Assassin's Creed Revelations: Mediterranean Traveler Map Pack",
+      "file": "missing/A/167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json"
+    },
+    {
       "igdb_id": 268735,
       "game_name": "Assassin's Creed Revelations: Special Edition",
       "file": "missing/A/268735-assassins-creed-revelations-special-edition.json"
+    },
+    {
+      "igdb_id": 167241,
+      "game_name": "Assassin's Creed Revelations: The Ancestors Character Pack",
+      "file": "missing/A/167241-assassins-creed-revelations-the-ancestors-character-pack.json"
     },
     {
       "igdb_id": 228706,
@@ -33813,6 +33833,11 @@
       "file": "missing/C/105922-calculation-castle-grecos-ghostly-challenge-multiplication.json"
     },
     {
+      "igdb_id": 167258,
+      "game_name": "Calculator and Monsters",
+      "file": "missing/C/167258-calculator-and-monsters.json"
+    },
+    {
       "igdb_id": 289850,
       "game_name": "California Swingers Club: Season 1 - Sea Swap",
       "file": "missing/C/289850-california-swingers-club-season-1-sea-swap.json"
@@ -44403,6 +44428,11 @@
       "file": "missing/C/191178-constellation-tango.json"
     },
     {
+      "igdb_id": 167256,
+      "game_name": "Constellations: Beyond the Edges",
+      "file": "missing/C/167256-constellations-beyond-the-edges.json"
+    },
+    {
       "igdb_id": 315484,
       "game_name": "Constriction: 1024",
       "file": "missing/C/315484-constriction-1024.json"
@@ -51378,6 +51408,11 @@
       "file": "missing/D/197372-dark-days-zombie-survival.json"
     },
     {
+      "igdb_id": 167252,
+      "game_name": "Dark Dealings",
+      "file": "missing/D/167252-dark-dealings.json"
+    },
+    {
       "igdb_id": 168826,
       "game_name": "Dark Deception: Chapter 2",
       "file": "missing/D/168826-dark-deception-chapter-2.json"
@@ -54086,6 +54121,11 @@
       "igdb_id": 262950,
       "game_name": "Deep Nest",
       "file": "missing/D/262950-deep-nest.json"
+    },
+    {
+      "igdb_id": 167263,
+      "game_name": "Deep Night Detective: Chapter One",
+      "file": "missing/D/167263-deep-night-detective-chapter-one.json"
     },
     {
       "igdb_id": 402271,
@@ -79438,6 +79478,11 @@
       "file": "missing/F/337991-flying-sushi.json"
     },
     {
+      "igdb_id": 167208,
+      "game_name": "Flying Tigers: Shadows Over China - Paradise Island",
+      "file": "missing/F/167208-flying-tigers-shadows-over-china-paradise-island.json"
+    },
+    {
       "igdb_id": 256532,
       "game_name": "Flying Unicorn",
       "file": "missing/F/256532-flying-unicorn.json"
@@ -79861,6 +79906,11 @@
       "igdb_id": 199023,
       "game_name": "Football",
       "file": "missing/F/199023-football.json"
+    },
+    {
+      "igdb_id": 167246,
+      "game_name": "Football Betting",
+      "file": "missing/F/167246-football-betting.json"
     },
     {
       "igdb_id": 346582,
@@ -81416,6 +81466,11 @@
       "igdb_id": 102871,
       "game_name": "Fractured Lands",
       "file": "missing/F/102871-fractured-lands.json"
+    },
+    {
+      "igdb_id": 167251,
+      "game_name": "Frag",
+      "file": "missing/F/167251-frag.json"
     },
     {
       "igdb_id": 292010,
@@ -103578,6 +103633,76 @@
       "file": "missing/H/383979-hypercycle-league.json"
     },
     {
+      "igdb_id": 167238,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Additional Content 1",
+      "file": "missing/H/167238-hyperdimension-neptunia-re-birth1-additional-content-1.json"
+    },
+    {
+      "igdb_id": 167240,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Additional Content 2",
+      "file": "missing/H/167240-hyperdimension-neptunia-re-birth1-additional-content-2.json"
+    },
+    {
+      "igdb_id": 167234,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Additional Content 3",
+      "file": "missing/H/167234-hyperdimension-neptunia-re-birth1-additional-content-3.json"
+    },
+    {
+      "igdb_id": 167237,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Colosseum + Characters DLC",
+      "file": "missing/H/167237-hyperdimension-neptunia-re-birth1-colosseum-characters-dlc.json"
+    },
+    {
+      "igdb_id": 167232,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Fairy Fencer F Collaboration",
+      "file": "missing/H/167232-hyperdimension-neptunia-re-birth1-fairy-fencer-f-collaboration.json"
+    },
+    {
+      "igdb_id": 167229,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Giant Island Dungeon",
+      "file": "missing/H/167229-hyperdimension-neptunia-re-birth1-giant-island-dungeon.json"
+    },
+    {
+      "igdb_id": 167233,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Histoire Battle Entry",
+      "file": "missing/H/167233-hyperdimension-neptunia-re-birth1-histoire-battle-entry.json"
+    },
+    {
+      "igdb_id": 167231,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Lily-ad Dungeon",
+      "file": "missing/H/167231-hyperdimension-neptunia-re-birth1-lily-ad-dungeon.json"
+    },
+    {
+      "igdb_id": 167228,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Mini Island",
+      "file": "missing/H/167228-hyperdimension-neptunia-re-birth1-mini-island.json"
+    },
+    {
+      "igdb_id": 167227,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Pain Terrain",
+      "file": "missing/H/167227-hyperdimension-neptunia-re-birth1-pain-terrain.json"
+    },
+    {
+      "igdb_id": 167236,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Plutia Battle Entry",
+      "file": "missing/H/167236-hyperdimension-neptunia-re-birth1-plutia-battle-entry.json"
+    },
+    {
+      "igdb_id": 167235,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Shares Quests",
+      "file": "missing/H/167235-hyperdimension-neptunia-re-birth1-shares-quests.json"
+    },
+    {
+      "igdb_id": 167230,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Tag Along DLC",
+      "file": "missing/H/167230-hyperdimension-neptunia-re-birth1-tag-along-dlc.json"
+    },
+    {
+      "igdb_id": 167239,
+      "game_name": "Hyperdimension Neptunia Re;Birth1: Uzume Battle Entry",
+      "file": "missing/H/167239-hyperdimension-neptunia-re-birth1-uzume-battle-entry.json"
+    },
+    {
       "igdb_id": 224216,
       "game_name": "Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 1",
       "file": "missing/H/224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json"
@@ -109753,6 +109878,11 @@
       "file": "missing/I/210675-its-literally-just-mowing.json"
     },
     {
+      "igdb_id": 167247,
+      "game_name": "It's Mealtime!",
+      "file": "missing/I/167247-its-mealtime.json"
+    },
+    {
       "igdb_id": 176514,
       "game_name": "It's Not Me, It's My Basement",
       "file": "missing/I/176514-its-not-me-its-my-basement.json"
@@ -114301,6 +114431,11 @@
       "igdb_id": 76650,
       "game_name": "Karate Krab",
       "file": "missing/K/76650-karate-krab.json"
+    },
+    {
+      "igdb_id": 167248,
+      "game_name": "Karate Krab: Red Sea",
+      "file": "missing/K/167248-karate-krab-red-sea.json"
     },
     {
       "igdb_id": 307796,
@@ -125241,6 +125376,11 @@
       "igdb_id": 235450,
       "game_name": "Lost Abroad Café",
       "file": "missing/L/235450-lost-abroad-cafe.json"
+    },
+    {
+      "igdb_id": 167223,
+      "game_name": "Lost Alone",
+      "file": "missing/L/167223-lost-alone.json"
     },
     {
       "igdb_id": 185649,
@@ -140661,6 +140801,11 @@
       "igdb_id": 215122,
       "game_name": "Monsterstone: Prelude",
       "file": "missing/M/215122-monsterstone-prelude.json"
+    },
+    {
+      "igdb_id": 167250,
+      "game_name": "MonsterTerritory",
+      "file": "missing/M/167250-monsterterritory.json"
     },
     {
       "igdb_id": 39005,
@@ -169123,6 +169268,46 @@
       "file": "missing/P/148526-prison-architect-psych-ward-wardens-edition.json"
     },
     {
+      "igdb_id": 167214,
+      "game_name": "Prison Ball: Full Blown",
+      "file": "missing/P/167214-prison-ball-full-blown.json"
+    },
+    {
+      "igdb_id": 167221,
+      "game_name": "Prison Ball: Full Blown - Cheyenne Storm",
+      "file": "missing/P/167221-prison-ball-full-blown-cheyenne-storm.json"
+    },
+    {
+      "igdb_id": 167220,
+      "game_name": "Prison Ball: Full Blown - Deborah Fire",
+      "file": "missing/P/167220-prison-ball-full-blown-deborah-fire.json"
+    },
+    {
+      "igdb_id": 167219,
+      "game_name": "Prison Ball: Full Blown - Naughty Ice Formations",
+      "file": "missing/P/167219-prison-ball-full-blown-naughty-ice-formations.json"
+    },
+    {
+      "igdb_id": 167216,
+      "game_name": "Prison Ball: Full Blown - PWN'ong! Duel of Balls!",
+      "file": "missing/P/167216-prison-ball-full-blown-pwnong-duel-of-balls.json"
+    },
+    {
+      "igdb_id": 167215,
+      "game_name": "Prison Ball: Full Blown - Solo Reflection!",
+      "file": "missing/P/167215-prison-ball-full-blown-solo-reflection.json"
+    },
+    {
+      "igdb_id": 167222,
+      "game_name": "Prison Ball: Full Blown - Toxik Karess",
+      "file": "missing/P/167222-prison-ball-full-blown-toxik-karess.json"
+    },
+    {
+      "igdb_id": 167217,
+      "game_name": "Prison Ball: Full Blown - Vast Shadows",
+      "file": "missing/P/167217-prison-ball-full-blown-vast-shadows.json"
+    },
+    {
       "igdb_id": 75170,
       "game_name": "Prison Chainball Massacre",
       "file": "missing/P/75170-prison-chainball-massacre.json"
@@ -171706,6 +171891,11 @@
       "igdb_id": 133445,
       "game_name": "Push Back",
       "file": "missing/P/133445-push-back.json"
+    },
+    {
+      "igdb_id": 167261,
+      "game_name": "Push Box",
+      "file": "missing/P/167261-push-box.json"
     },
     {
       "igdb_id": 234333,
@@ -176123,6 +176313,11 @@
       "file": "missing/R/169397-realm-of-alters.json"
     },
     {
+      "igdb_id": 167257,
+      "game_name": "Realm of Heroes",
+      "file": "missing/R/167257-realm-of-heroes.json"
+    },
+    {
       "igdb_id": 197324,
       "game_name": "Realm of Mecha",
       "file": "missing/R/197324-realm-of-mecha.json"
@@ -177136,6 +177331,11 @@
       "igdb_id": 63699,
       "game_name": "Reef Shot",
       "file": "missing/R/63699-reef-shot.json"
+    },
+    {
+      "igdb_id": 167254,
+      "game_name": "Reek N' Havok",
+      "file": "missing/R/167254-reek-n-havok.json"
     },
     {
       "igdb_id": 77387,
@@ -184291,6 +184491,11 @@
       "igdb_id": 184657,
       "game_name": "Rush Troopers",
       "file": "missing/R/184657-rush-troopers.json"
+    },
+    {
+      "igdb_id": 167260,
+      "game_name": "Rush!!!",
+      "file": "missing/R/167260-rush.json"
     },
     {
       "igdb_id": 90990,
@@ -201768,6 +201973,11 @@
       "file": "missing/S/310961-space-on-the-case.json"
     },
     {
+      "igdb_id": 167226,
+      "game_name": "Space One: Ascendant",
+      "file": "missing/S/167226-space-one-ascendant.json"
+    },
+    {
       "igdb_id": 273661,
       "game_name": "Space Operation",
       "file": "missing/S/273661-space-operation.json"
@@ -208016,6 +208226,11 @@
       "igdb_id": 335240,
       "game_name": "Stopping Santa",
       "file": "missing/S/335240-stopping-santa.json"
+    },
+    {
+      "igdb_id": 167253,
+      "game_name": "StopSign",
+      "file": "missing/S/167253-stopsign.json"
     },
     {
       "igdb_id": 325821,
@@ -229343,6 +229558,11 @@
       "file": "missing/T/225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json"
     },
     {
+      "igdb_id": 167245,
+      "game_name": "The Settlers 7: Paths to a Kingdom - Uncharted Land Map Pack",
+      "file": "missing/T/167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json"
+    },
+    {
       "igdb_id": 11334,
       "game_name": "The Settlers III: Quest of the Amazons",
       "file": "missing/T/11334-the-settlers-iii-quest-of-the-amazons.json"
@@ -234128,6 +234348,11 @@
       "file": "missing/T/68695-tiger-hunt.json"
     },
     {
+      "igdb_id": 167209,
+      "game_name": "Tiger Knight: Battle Royale",
+      "file": "missing/T/167209-tiger-knight-battle-royale.json"
+    },
+    {
       "igdb_id": 37170,
       "game_name": "Tiger Mission",
       "file": "missing/T/37170-tiger-mission.json"
@@ -237378,9 +237603,19 @@
       "file": "missing/T/402920-torima-headbang.json"
     },
     {
+      "igdb_id": 167255,
+      "game_name": "Torins Towers: Rise of Heroes",
+      "file": "missing/T/167255-torins-towers-rise-of-heroes.json"
+    },
+    {
       "igdb_id": 271730,
       "game_name": "Tormentarium",
       "file": "missing/T/271730-tormentarium.json"
+    },
+    {
+      "igdb_id": 167259,
+      "game_name": "Tormentor",
+      "file": "missing/T/167259-tormentor.json"
     },
     {
       "igdb_id": 283161,
@@ -240811,6 +241046,11 @@
       "igdb_id": 303802,
       "game_name": "Treepury",
       "file": "missing/T/303802-treepury.json"
+    },
+    {
+      "igdb_id": 167262,
+      "game_name": "Trekking and Camping",
+      "file": "missing/T/167262-trekking-and-camping.json"
     },
     {
       "igdb_id": 128620,
@@ -244438,6 +244678,11 @@
       "file": "missing/U/329033-unbothered.json"
     },
     {
+      "igdb_id": 167249,
+      "game_name": "Unbound",
+      "file": "missing/U/167249-unbound.json"
+    },
+    {
       "igdb_id": 334104,
       "game_name": "Unboxing: Cozy Home Simulator",
       "file": "missing/U/334104-unboxing-cozy-home-simulator.json"
@@ -247251,6 +247496,11 @@
       "igdb_id": 221718,
       "game_name": "Vanilla: Made to Order",
       "file": "missing/V/221718-vanilla-made-to-order.json"
+    },
+    {
+      "igdb_id": 167244,
+      "game_name": "Vanishing Realms: The Sundered Rift",
+      "file": "missing/V/167244-vanishing-realms-the-sundered-rift.json"
     },
     {
       "igdb_id": 273650,
