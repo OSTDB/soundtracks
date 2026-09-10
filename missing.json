@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:18:51.319Z",
-  "total_missing": 54262,
+  "generated_at": "2026-09-10T15:21:06.382Z",
+  "total_missing": 54261,
   "games": [
     {
       "igdb_id": 306086,
@@ -1516,11 +1516,6 @@
       "igdb_id": 15582,
       "game_name": "747 Flight Simulator",
       "file": "missing/0-9/15582-747-flight-simulator.json"
-    },
-    {
-      "igdb_id": 15583,
-      "game_name": "767 Advanced Flight Simulator",
-      "file": "missing/0-9/15583-767-advanced-flight-simulator.json"
     },
     {
       "igdb_id": 271238,
