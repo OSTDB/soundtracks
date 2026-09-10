@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara Wild Hearts | 333020 | [333020-sayonara-wild-hearts.json](./333020-sayonara-wild-hearts.json) |
 | Sayonara, Utsutsu. | 260977 | [260977-sayonara-utsutsu.json](./260977-sayonara-utsutsu.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
+| SBX 5K | 132214 | [132214-sbx-5k.json](./132214-sbx-5k.json) |
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
@@ -3407,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
 | Soul's Spectrum: Awakening | 267110 | [267110-souls-spectrum-awakening.json](./267110-souls-spectrum-awakening.json) |
 | Soulash 2 | 249194 | [249194-soulash-2.json](./249194-soulash-2.json) |
+| Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
 | SoulCalibur II | 1565 | [1565-soulcalibur-ii.json](./1565-soulcalibur-ii.json) |
 | SoulCalibur V | 1013 | [1013-soulcalibur-v.json](./1013-soulcalibur-v.json) |
@@ -4780,6 +4782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
 | StellarEchoes: Terrain Explorer | 264619 | [264619-stellarechoes-terrain-explorer.json](./264619-stellarechoes-terrain-explorer.json) |
+| Stellaren | 132202 | [132202-stellaren.json](./132202-stellaren.json) |
 | Stellaren: Acrux | 132223 | [132223-stellaren-acrux.json](./132223-stellaren-acrux.json) |
 | StellarFish | 349312 | [349312-stellarfish.json](./349312-stellarfish.json) |
 | Stellario | 265150 | [265150-stellario.json](./265150-stellario.json) |
@@ -6425,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Fractured Daydream | 287852 | [287852-sword-art-online-fractured-daydream.json](./287852-sword-art-online-fractured-daydream.json) |
 | Sword Art Online: Fractured Daydream - Deluxe Edition | 308792 | [308792-sword-art-online-fractured-daydream-deluxe-edition.json](./308792-sword-art-online-fractured-daydream-deluxe-edition.json) |
 | Sword Art Online: Fractured Daydream - Premium Edition | 308793 | [308793-sword-art-online-fractured-daydream-premium-edition.json](./308793-sword-art-online-fractured-daydream-premium-edition.json) |
+| Sword Art Online: Hollow Realization Collector's Edition | 132182 | [132182-sword-art-online-hollow-realization-collectors-edition.json](./132182-sword-art-online-hollow-realization-collectors-edition.json) |
 | Sword Art Online: Integral Factor | 68441 | [68441-sword-art-online-integral-factor.json](./68441-sword-art-online-integral-factor.json) |
 | Sword Art Online: Last Recollection - Digital Premium Edition | 271473 | [271473-sword-art-online-last-recollection-digital-premium-edition.json](./271473-sword-art-online-last-recollection-digital-premium-edition.json) |
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
