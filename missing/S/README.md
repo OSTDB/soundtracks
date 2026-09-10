@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro Enkai | 379873 | [379873-shiro-enkai.json](./379873-shiro-enkai.json) |
 | Shiro Neko Tennis | 216216 | [216216-shiro-neko-tennis.json](./216216-shiro-neko-tennis.json) |
 | Shiro Project | 138171 | [138171-shiro-project.json](./138171-shiro-project.json) |
+| Shiro Project: Re Castle Defense | 133386 | [133386-shiro-project-re-castle-defense.json](./133386-shiro-project-re-castle-defense.json) |
 | Shiro to Kuro no Alice: Twilight Line | 136471 | [136471-shiro-to-kuro-no-alice-twilight-line.json](./136471-shiro-to-kuro-no-alice-twilight-line.json) |
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
@@ -4216,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
+| SRX | 133368 | [133368-srx.json](./133368-srx.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
 | SSX 3 | 186239 | [186239-ssx-3.json](./186239-ssx-3.json) |
 | SSX 3 | 4174 | [4174-ssx-3.json](./4174-ssx-3.json) |
@@ -4874,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
+| Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stomper | 182990 | [182990-stomper.json](./182990-stomper.json) |
 | StompyBoy | 329382 | [329382-stompyboy.json](./329382-stompyboy.json) |
 | Stone Age | 278664 | [278664-stone-age.json](./278664-stone-age.json) |
@@ -5584,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hero Fight Club: Reloaded | 112984 | [112984-super-hero-fight-club-reloaded.json](./112984-super-hero-fight-club-reloaded.json) |
 | Super Hero VR | 99637 | [99637-super-hero-vr.json](./99637-super-hero-vr.json) |
 | Super Heroine Chronicle | 63311 | [63311-super-heroine-chronicle.json](./63311-super-heroine-chronicle.json) |
+| Super High Ball: Pinball Platformer | 133372 | [133372-super-high-ball-pinball-platformer.json](./133372-super-high-ball-pinball-platformer.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
 | Super Hiking Simulator 2020: Puzzles | 163422 | [163422-super-hiking-simulator-2020-puzzles.json](./163422-super-hiking-simulator-2020-puzzles.json) |
 | Super Hockey Ball | 109642 | [109642-super-hockey-ball.json](./109642-super-hockey-ball.json) |
