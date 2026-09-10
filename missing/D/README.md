@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
 | Dash & Roll | 285981 | [285981-dash-and-roll.json](./285981-dash-and-roll.json) |
 | Dash & Swing | 245845 | [245845-dash-and-swing.json](./245845-dash-and-swing.json) |
+| Dash and Fire | 155668 | [155668-dash-and-fire.json](./155668-dash-and-fire.json) |
 | Dash and Slash | 199587 | [199587-dash-and-slash.json](./199587-dash-and-slash.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
@@ -2810,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dueling Drums | 341466 | [341466-dueling-drums.json](./341466-dueling-drums.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | Duels Kings | 227834 | [227834-duels-kings.json](./227834-duels-kings.json) |
+| DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
 | Duelyst GG | 232452 | [232452-duelyst-gg.json](./232452-duelyst-gg.json) |
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
