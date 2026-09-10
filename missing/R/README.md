@@ -1009,11 +1009,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrieving the Past: Steam Edition | 195241 | [195241-retrieving-the-past-steam-edition.json](./195241-retrieving-the-past-steam-edition.json) |
 | Retro Arcade: Space Invaders | 220106 | [220106-retro-arcade-space-invaders.json](./220106-retro-arcade-space-invaders.json) |
 | Retro Asylum | 409559 | [409559-retro-asylum.json](./409559-retro-asylum.json) |
+| Retro Classix 2-in-1 Pack: Gate of Doom & Wizard Fire | 147913 | [147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json](./147913-retro-classix-2-in-1-pack-gate-of-doom-and-wizard-fire.json) |
+| Retro Classix 2-in-1 Pack: Heavy Barrel & Super Burger Time | 147896 | [147896-retro-classix-2-in-1-pack-heavy-barrel-and-super-burger-time.json](./147896-retro-classix-2-in-1-pack-heavy-barrel-and-super-burger-time.json) |
+| Retro Classix 2in1 pack: Bad Dudes & Two Crude Dudes | 147897 | [147897-retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes.json](./147897-retro-classix-2in1-pack-bad-dudes-and-two-crude-dudes.json) |
+| Retro Classix 4in1 Pack: Sly Spy, Shootout, Wizard Fire & Super Real Darwin | 147904 | [147904-retro-classix-4in1-pack-sly-spy-shootout-wizard-fire-and-super-real-darwin.json](./147904-retro-classix-4in1-pack-sly-spy-shootout-wizard-fire-and-super-real-darwin.json) |
+| Retro Classix Collection #1: Data East | 147905 | [147905-retro-classix-collection-1-data-east.json](./147905-retro-classix-collection-1-data-east.json) |
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
 | Retro First Friday Collection #4 | 186296 | [186296-retro-first-friday-collection-4.json](./186296-retro-first-friday-collection-4.json) |
+| Retro Game Pack | 147902 | [147902-retro-game-pack.json](./147902-retro-game-pack.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
 | Retro Horror Story | 318213 | [318213-retro-horror-story.json](./318213-retro-horror-story.json) |
 | Retro II | 199082 | [199082-retro-ii.json](./199082-retro-ii.json) |
@@ -1567,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots, Death & Venice | 172127 | [172127-robots-death-and-venice.json](./172127-robots-death-and-venice.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
+| Robox | 147916 | [147916-robox.json](./147916-robox.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
 | Roc 'N Rope | 25727 | [25727-roc-n-rope.json](./25727-roc-n-rope.json) |
 | Rocco | 78015 | [78015-rocco.json](./78015-rocco.json) |
@@ -1955,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rouge.exe | 274986 | [274986-rouge-exe.json](./274986-rouge-exe.json) |
 | Rougelight | 86094 | [86094-rougelight.json](./86094-rougelight.json) |
 | Rough Justice: '84 | 133154 | [133154-rough-justice-84.json](./133154-rough-justice-84.json) |
+| Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
