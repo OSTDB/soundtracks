@@ -264,7 +264,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Colours | 262058 | [262058-4-colours.json](./262058-4-colours.json) |
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
-| 4 of Clubs | 308270 | [308270-4-of-clubs.json](./308270-4-of-clubs.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
 | 4 Queens Computer Casino | 143721 | [143721-4-queens-computer-casino.json](./143721-4-queens-computer-casino.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
