@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T04:31:18.072Z",
-  "total_missing": 52912,
+  "generated_at": "2026-09-10T04:33:35.807Z",
+  "total_missing": 52958,
   "games": [
     {
       "igdb_id": 306086,
@@ -43618,6 +43618,11 @@
       "file": "missing/C/182988-colors-of-your-world.json"
     },
     {
+      "igdb_id": 162848,
+      "game_name": "Colors!",
+      "file": "missing/C/162848-colors.json"
+    },
+    {
       "igdb_id": 193486,
       "game_name": "Colors! Maze",
       "file": "missing/C/193486-colors-maze.json"
@@ -52873,6 +52878,16 @@
       "file": "missing/D/325253-dcs-world-f-14-speed-and-angels-campaign-by-reflected-simulations.json"
     },
     {
+      "igdb_id": 162863,
+      "game_name": "DCS World: F-14A Fear the Bones Campaign",
+      "file": "missing/D/162863-dcs-world-f-14a-fear-the-bones-campaign.json"
+    },
+    {
+      "igdb_id": 162860,
+      "game_name": "DCS World: F-15C",
+      "file": "missing/D/162860-dcs-world-f-15c.json"
+    },
+    {
       "igdb_id": 254774,
       "game_name": "DCS World: F-15E",
       "file": "missing/D/254774-dcs-world-f-15e.json"
@@ -52908,6 +52923,26 @@
       "file": "missing/D/325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json"
     },
     {
+      "igdb_id": 162862,
+      "game_name": "DCS World: F/A-18C Rise of the Persian Lion Campaign",
+      "file": "missing/D/162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json"
+    },
+    {
+      "igdb_id": 162864,
+      "game_name": "DCS World: Hawk",
+      "file": "missing/D/162864-dcs-world-hawk.json"
+    },
+    {
+      "igdb_id": 162859,
+      "game_name": "DCS World: Marianas",
+      "file": "missing/D/162859-dcs-world-marianas.json"
+    },
+    {
+      "igdb_id": 162861,
+      "game_name": "DCS World: MiG-29",
+      "file": "missing/D/162861-dcs-world-mig-29.json"
+    },
+    {
       "igdb_id": 325251,
       "game_name": "DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations",
       "file": "missing/D/325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json"
@@ -52916,6 +52951,26 @@
       "igdb_id": 304372,
       "game_name": "DCS World: OH-58D Kiowa Warrior",
       "file": "missing/D/304372-dcs-world-oh-58d-kiowa-warrior.json"
+    },
+    {
+      "igdb_id": 162865,
+      "game_name": "DCS World: Su-25",
+      "file": "missing/D/162865-dcs-world-su-25.json"
+    },
+    {
+      "igdb_id": 162867,
+      "game_name": "DCS World: Su-27",
+      "file": "missing/D/162867-dcs-world-su-27.json"
+    },
+    {
+      "igdb_id": 162866,
+      "game_name": "DCS World: Su-33",
+      "file": "missing/D/162866-dcs-world-su-33.json"
+    },
+    {
+      "igdb_id": 162856,
+      "game_name": "DCS World: The Museum Relic Campaign",
+      "file": "missing/D/162856-dcs-world-the-museum-relic-campaign.json"
     },
     {
       "igdb_id": 324908,
@@ -72443,6 +72498,11 @@
       "file": "missing/E/369578-extra-extra-poison.json"
     },
     {
+      "igdb_id": 162853,
+      "game_name": "Extra Story of God's One Day World",
+      "file": "missing/E/162853-extra-story-of-gods-one-day-world.json"
+    },
+    {
       "igdb_id": 44615,
       "game_name": "Extra Terrestrial Perception",
       "file": "missing/E/44615-extra-terrestrial-perception.json"
@@ -85563,6 +85623,11 @@
       "file": "missing/G/152361-game-and-watch-the-legend-of-zelda.json"
     },
     {
+      "igdb_id": 162844,
+      "game_name": "Game About Games",
+      "file": "missing/G/162844-game-about-games.json"
+    },
+    {
       "igdb_id": 320537,
       "game_name": "Game About Jetpack Fly",
       "file": "missing/G/320537-game-about-jetpack-fly.json"
@@ -85821,6 +85886,11 @@
       "igdb_id": 348239,
       "game_name": "GameOn!",
       "file": "missing/G/348239-gameon.json"
+    },
+    {
+      "igdb_id": 162842,
+      "game_name": "Gamer Girls 2",
+      "file": "missing/G/162842-gamer-girls-2.json"
     },
     {
       "igdb_id": 210858,
@@ -140078,6 +140148,11 @@
       "file": "missing/M/162915-moe-jigsaw-hhg-the-end-of-the-goddess-pack.json"
     },
     {
+      "igdb_id": 162932,
+      "game_name": "Moe Jigsaw: Hyper-Highspeed-Genius Pack",
+      "file": "missing/M/162932-moe-jigsaw-hyper-highspeed-genius-pack.json"
+    },
+    {
       "igdb_id": 162912,
       "game_name": "Moe Jigsaw: Hyper-Highspeed-Genius vol.2 Pack",
       "file": "missing/M/162912-moe-jigsaw-hyper-highspeed-genius-vol-2-pack.json"
@@ -140133,6 +140208,11 @@
       "file": "missing/M/162920-moe-jigsaw-special-prices-pack.json"
     },
     {
+      "igdb_id": 162931,
+      "game_name": "Moe Jigsaw: Special prices Pack",
+      "file": "missing/M/162931-moe-jigsaw-special-prices-pack.json"
+    },
+    {
       "igdb_id": 162927,
       "game_name": "Moe Jigsaw: Tsunagaru Bangle Pack",
       "file": "missing/M/162927-moe-jigsaw-tsunagaru-bangle-pack.json"
@@ -140151,6 +140231,11 @@
       "igdb_id": 162917,
       "game_name": "Moe Jigsaw: Witch's Garden vol.2 Pack",
       "file": "missing/M/162917-moe-jigsaw-witchs-garden-vol-2-pack.json"
+    },
+    {
+      "igdb_id": 162930,
+      "game_name": "Moe Jigsaw: Wizards Complex Pack",
+      "file": "missing/M/162930-moe-jigsaw-wizards-complex-pack.json"
     },
     {
       "igdb_id": 288207,
@@ -142676,6 +142761,11 @@
       "igdb_id": 18929,
       "game_name": "Mosaic",
       "file": "missing/M/18929-mosaic.json"
+    },
+    {
+      "igdb_id": 162850,
+      "game_name": "Mosaic Chronicles",
+      "file": "missing/M/162850-mosaic-chronicles.json"
     },
     {
       "igdb_id": 328837,
@@ -148086,6 +148176,16 @@
       "igdb_id": 271734,
       "game_name": "Necromanicide",
       "file": "missing/N/271734-necromanicide.json"
+    },
+    {
+      "igdb_id": 162858,
+      "game_name": "Necromunda: Underhive Wars - Cawdor Gang",
+      "file": "missing/N/162858-necromunda-underhive-wars-cawdor-gang.json"
+    },
+    {
+      "igdb_id": 162857,
+      "game_name": "Necromunda: Underhive Wars - Van Saar Gang",
+      "file": "missing/N/162857-necromunda-underhive-wars-van-saar-gang.json"
     },
     {
       "igdb_id": 304048,
@@ -157353,6 +157453,11 @@
       "file": "missing/O/270961-order-of-the-elements.json"
     },
     {
+      "igdb_id": 162849,
+      "game_name": "Order Road",
+      "file": "missing/O/162849-order-road.json"
+    },
+    {
       "igdb_id": 264031,
       "game_name": "Order Us!",
       "file": "missing/O/264031-order-us.json"
@@ -159848,6 +159953,11 @@
       "file": "missing/P/227472-panda-lu-baby-bear-care-2.json"
     },
     {
+      "igdb_id": 162868,
+      "game_name": "Panda Push",
+      "file": "missing/P/162868-panda-push.json"
+    },
+    {
       "igdb_id": 345520,
       "game_name": "Pandamonium",
       "file": "missing/P/345520-pandamonium.json"
@@ -160911,6 +161021,11 @@
       "igdb_id": 254751,
       "game_name": "Park Master",
       "file": "missing/P/254751-park-master.json"
+    },
+    {
+      "igdb_id": 162843,
+      "game_name": "Park Rangers of the Undead",
+      "file": "missing/P/162843-park-rangers-of-the-undead.json"
     },
     {
       "igdb_id": 166711,
@@ -165148,6 +165263,11 @@
       "file": "missing/P/115058-pirates-pinball.json"
     },
     {
+      "igdb_id": 162851,
+      "game_name": "Pirates vs monkeys",
+      "file": "missing/P/162851-pirates-vs-monkeys.json"
+    },
+    {
       "igdb_id": 133425,
       "game_name": "Pirates: Mystery of the Skeletons Island",
       "file": "missing/P/133425-pirates-mystery-of-the-skeletons-island.json"
@@ -165598,6 +165718,11 @@
       "file": "missing/P/267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json"
     },
     {
+      "igdb_id": 162933,
+      "game_name": "Pixel Puzzles: Illustrations & Anime",
+      "file": "missing/P/162933-pixel-puzzles-illustrations-and-anime.json"
+    },
+    {
       "igdb_id": 162940,
       "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dark Sided",
       "file": "missing/P/162940-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dark-sided.json"
@@ -165608,9 +165733,24 @@
       "file": "missing/P/163410-pixel-puzzles-illustrations-and-anime-jigsaw-pack-distant-worlds.json"
     },
     {
+      "igdb_id": 162935,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Dragons",
+      "file": "missing/P/162935-pixel-puzzles-illustrations-and-anime-jigsaw-pack-dragons.json"
+    },
+    {
       "igdb_id": 163407,
       "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Fairies",
       "file": "missing/P/163407-pixel-puzzles-illustrations-and-anime-jigsaw-pack-fairies.json"
+    },
+    {
+      "igdb_id": 162934,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Gun Girls",
+      "file": "missing/P/162934-pixel-puzzles-illustrations-and-anime-jigsaw-pack-gun-girls.json"
+    },
+    {
+      "igdb_id": 162936,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Little Dogs",
+      "file": "missing/P/162936-pixel-puzzles-illustrations-and-anime-jigsaw-pack-little-dogs.json"
     },
     {
       "igdb_id": 163409,
@@ -165628,9 +165768,19 @@
       "file": "missing/P/162939-pixel-puzzles-illustrations-and-anime-jigsaw-pack-samurai.json"
     },
     {
+      "igdb_id": 162937,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Soul of Giga",
+      "file": "missing/P/162937-pixel-puzzles-illustrations-and-anime-jigsaw-pack-soul-of-giga.json"
+    },
+    {
       "igdb_id": 162942,
       "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Space",
       "file": "missing/P/162942-pixel-puzzles-illustrations-and-anime-jigsaw-pack-space.json"
+    },
+    {
+      "igdb_id": 162938,
+      "game_name": "Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack 1",
+      "file": "missing/P/162938-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-1.json"
     },
     {
       "igdb_id": 162941,
@@ -203838,6 +203988,16 @@
       "file": "missing/S/23869-spare-change.json"
     },
     {
+      "igdb_id": 162854,
+      "game_name": "Spare Parts: Episode 1",
+      "file": "missing/S/162854-spare-parts-episode-1.json"
+    },
+    {
+      "igdb_id": 162855,
+      "game_name": "Spare Parts: Episode 2",
+      "file": "missing/S/162855-spare-parts-episode-2.json"
+    },
+    {
       "igdb_id": 212450,
       "game_name": "Spark",
       "file": "missing/S/212450-spark.json"
@@ -205191,6 +205351,11 @@
       "igdb_id": 264025,
       "game_name": "Spleef Game",
       "file": "missing/S/264025-spleef-game.json"
+    },
+    {
+      "igdb_id": 162870,
+      "game_name": "Splendor: The Cities",
+      "file": "missing/S/162870-splendor-the-cities.json"
     },
     {
       "igdb_id": 172174,
@@ -217403,6 +217568,11 @@
       "file": "missing/T/339092-tablesoccer.json"
     },
     {
+      "igdb_id": 162874,
+      "game_name": "Tabletopia: Altiplano",
+      "file": "missing/T/162874-tabletopia-altiplano.json"
+    },
+    {
       "igdb_id": 162891,
       "game_name": "Tabletopia: Aquanauts",
       "file": "missing/T/162891-tabletopia-aquanauts.json"
@@ -217411,6 +217581,11 @@
       "igdb_id": 162882,
       "game_name": "Tabletopia: Argent - the Consortium",
       "file": "missing/T/162882-tabletopia-argent-the-consortium.json"
+    },
+    {
+      "igdb_id": 162873,
+      "game_name": "Tabletopia: Between Two Castles of Mad King Ludwig",
+      "file": "missing/T/162873-tabletopia-between-two-castles-of-mad-king-ludwig.json"
     },
     {
       "igdb_id": 162896,
@@ -217438,9 +217613,19 @@
       "file": "missing/T/162888-tabletopia-eight-minute-empire-legends.json"
     },
     {
+      "igdb_id": 162876,
+      "game_name": "Tabletopia: Euphoria - Build a Better Dystopia",
+      "file": "missing/T/162876-tabletopia-euphoria-build-a-better-dystopia.json"
+    },
+    {
       "igdb_id": 162895,
       "game_name": "Tabletopia: Feudum + Expansions",
       "file": "missing/T/162895-tabletopia-feudum-expansions.json"
+    },
+    {
+      "igdb_id": 162877,
+      "game_name": "Tabletopia: Food Truck Champion",
+      "file": "missing/T/162877-tabletopia-food-truck-champion.json"
     },
     {
       "igdb_id": 162899,
@@ -217448,9 +217633,19 @@
       "file": "missing/T/162899-tabletopia-guards-of-atlantis-ii.json"
     },
     {
+      "igdb_id": 162871,
+      "game_name": "Tabletopia: Hansa Teutonica + Expansions",
+      "file": "missing/T/162871-tabletopia-hansa-teutonica-expansions.json"
+    },
+    {
       "igdb_id": 162881,
       "game_name": "Tabletopia: Maximum Apocalypse",
       "file": "missing/T/162881-tabletopia-maximum-apocalypse.json"
+    },
+    {
+      "igdb_id": 162872,
+      "game_name": "Tabletopia: Millennium Blades",
+      "file": "missing/T/162872-tabletopia-millennium-blades.json"
     },
     {
       "igdb_id": 162884,
@@ -217463,9 +217658,19 @@
       "file": "missing/T/162904-tabletopia-orleans.json"
     },
     {
+      "igdb_id": 162875,
+      "game_name": "Tabletopia: Pocket Investigations",
+      "file": "missing/T/162875-tabletopia-pocket-investigations.json"
+    },
+    {
       "igdb_id": 162885,
       "game_name": "Tabletopia: Raiders of the North Sea",
       "file": "missing/T/162885-tabletopia-raiders-of-the-north-sea.json"
+    },
+    {
+      "igdb_id": 162879,
+      "game_name": "Tabletopia: Scythe",
+      "file": "missing/T/162879-tabletopia-scythe.json"
     },
     {
       "igdb_id": 162880,
@@ -217498,9 +217703,19 @@
       "file": "missing/T/162886-tabletopia-tapestry.json"
     },
     {
+      "igdb_id": 162878,
+      "game_name": "Tabletopia: The Isle of Cats",
+      "file": "missing/T/162878-tabletopia-the-isle-of-cats.json"
+    },
+    {
       "igdb_id": 162902,
       "game_name": "Tabletopia: The Networks",
       "file": "missing/T/162902-tabletopia-the-networks.json"
+    },
+    {
+      "igdb_id": 162869,
+      "game_name": "Tabletopia: Tuscany - Essential Edition",
+      "file": "missing/T/162869-tabletopia-tuscany-essential-edition.json"
     },
     {
       "igdb_id": 162900,
@@ -225246,6 +225461,11 @@
       "igdb_id": 332836,
       "game_name": "The Fairly OddParents: Shadow Showdown",
       "file": "missing/T/332836-the-fairly-oddparents-shadow-showdown.json"
+    },
+    {
+      "igdb_id": 162852,
+      "game_name": "The Falconeer: Edge of the World",
+      "file": "missing/T/162852-the-falconeer-edge-of-the-world.json"
     },
     {
       "igdb_id": 335280,
@@ -251718,6 +251938,11 @@
       "file": "missing/V/196337-vr-boyfriend.json"
     },
     {
+      "igdb_id": 162846,
+      "game_name": "VR Catgirl",
+      "file": "missing/V/162846-vr-catgirl.json"
+    },
+    {
       "igdb_id": 253019,
       "game_name": "VR Cops",
       "file": "missing/V/253019-vr-cops.json"
@@ -251881,6 +252106,11 @@
       "igdb_id": 199017,
       "game_name": "VR Troopers",
       "file": "missing/V/199017-vr-troopers.json"
+    },
+    {
+      "igdb_id": 162847,
+      "game_name": "VR UAV Attack",
+      "file": "missing/V/162847-vr-uav-attack.json"
     },
     {
       "igdb_id": 277843,
