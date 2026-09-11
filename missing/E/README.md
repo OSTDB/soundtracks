@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Bunny | 278154 | [278154-easter-bunny.json](./278154-easter-bunny.json) |
 | Easter Bunny on Speed | 186270 | [186270-easter-bunny-on-speed.json](./186270-easter-bunny-on-speed.json) |
 | Easter Day Solitaire | 339789 | [339789-easter-day-solitaire.json](./339789-easter-day-solitaire.json) |
+| Easter Egg | 127225 | [127225-easter-egg.json](./127225-easter-egg.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Eastern Europe Bus Sim | 232454 | [232454-eastern-europe-bus-sim.json](./232454-eastern-europe-bus-sim.json) |
 | Eastern Market Murder | 174372 | [174372-eastern-market-murder.json](./174372-eastern-market-murder.json) |
@@ -297,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ego Holic | 225297 | [225297-ego-holic.json](./225297-ego-holic.json) |
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
+| Egypt Solitaire: Match 2 Cards | 127237 | [127237-egypt-solitaire-match-2-cards.json](./127237-egypt-solitaire-match-2-cards.json) |
 | Egypt: Old Kingdom - Master of History | 124796 | [124796-egypt-old-kingdom-master-of-history.json](./124796-egypt-old-kingdom-master-of-history.json) |
 | Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko - Game de Asobou! Eiga no Sekai | 171550 | [171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json](./171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json) |
 | Eigen Space | 192427 | [192427-eigen-space.json](./192427-eigen-space.json) |
@@ -778,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Epejsodion Dodgeball Defense | 166748 | [166748-epejsodion-dodgeball-defense.json](./166748-epejsodion-dodgeball-defense.json) |
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
+| Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
 | Epic Ape Madness | 255758 | [255758-epic-ape-madness.json](./255758-epic-ape-madness.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
