@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
+| Lapis x Labyrinth: Limited Edition | 107260 | [107260-lapis-x-labyrinth-limited-edition.json](./107260-lapis-x-labyrinth-limited-edition.json) |
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
 | Laplace M | 126047 | [126047-laplace-m.json](./126047-laplace-m.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
@@ -490,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Power Z | 106597 | [106597-legend-of-power-z.json](./106597-legend-of-power-z.json) |
 | Legend of Radiance | 192946 | [192946-legend-of-radiance.json](./192946-legend-of-radiance.json) |
 | Legend of Red | 334507 | [334507-legend-of-red.json](./334507-legend-of-red.json) |
+| Legend of Solgard | 107153 | [107153-legend-of-solgard.json](./107153-legend-of-solgard.json) |
 | Legend of Star Arthur II: Dark Nebula | 62767 | [62767-legend-of-star-arthur-ii-dark-nebula.json](./62767-legend-of-star-arthur-ii-dark-nebula.json) |
 | Legend of Star Arthur III: Terra 4001 | 62769 | [62769-legend-of-star-arthur-iii-terra-4001.json](./62769-legend-of-star-arthur-iii-terra-4001.json) |
 | Legend of Stars | 295013 | [295013-legend-of-stars.json](./295013-legend-of-stars.json) |
@@ -1000,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
+| Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
 | Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Linework | 385590 | [385590-linework.json](./385590-linework.json) |
