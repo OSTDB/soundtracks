@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
+| Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
 | Lanterns | 89967 | [89967-lanterns.json](./89967-lanterns.json) |
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
@@ -497,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
 | Legend of the Wonderfish | 383961 | [383961-legend-of-the-wonderfish.json](./383961-legend-of-the-wonderfish.json) |
+| Legend of Traveller | 116307 | [116307-legend-of-traveller.json](./116307-legend-of-traveller.json) |
 | Legend of Vengeancev | 156685 | [156685-legend-of-vengeancev.json](./156685-legend-of-vengeancev.json) |
 | Legend of Yashiyu | 173772 | [173772-legend-of-yashiyu.json](./173772-legend-of-yashiyu.json) |
 | Legend of Yashiyu 2 | 172773 | [172773-legend-of-yashiyu-2.json](./172773-legend-of-yashiyu-2.json) |
@@ -1394,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorch: Abducted | 270682 | [270682-lorch-abducted.json](./270682-lorch-abducted.json) |
 | Lord and Maiden | 404869 | [404869-lord-and-maiden.json](./404869-lord-and-maiden.json) |
 | Lord Clicker | 183555 | [183555-lord-clicker.json](./183555-lord-clicker.json) |
+| Lord Democrat Strikes Out! | 116314 | [116314-lord-democrat-strikes-out.json](./116314-lord-democrat-strikes-out.json) |
 | Lord of Bones | 236265 | [236265-lord-of-bones.json](./236265-lord-of-bones.json) |
 | Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
@@ -1594,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Meeting | 165032 | [165032-love-meeting.json](./165032-love-meeting.json) |
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love Mystery Club | 155669 | [155669-love-mystery-club.json](./155669-love-mystery-club.json) |
+| Love Mythos: Sanctuary Island | 116309 | [116309-love-mythos-sanctuary-island.json](./116309-love-mythos-sanctuary-island.json) |
 | Love of Renai Koutei of Love! | 172713 | [172713-love-of-renai-koutei-of-love.json](./172713-love-of-renai-koutei-of-love.json) |
 | Love on Leave | 247495 | [247495-love-on-leave.json](./247495-love-on-leave.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
