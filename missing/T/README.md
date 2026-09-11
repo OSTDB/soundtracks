@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
 | Taxi 3 | 138156 | [138156-taxi-3.json](./138156-taxi-3.json) |
 | Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
+| Taxi Challenge: London | 116972 | [116972-taxi-challenge-london.json](./116972-taxi-challenge-london.json) |
 | Taxi City | 127917 | [127917-taxi-city.json](./127917-taxi-city.json) |
 | Taxi Driver Simulation 2025 | 328476 | [328476-taxi-driver-simulation-2025.json](./328476-taxi-driver-simulation-2025.json) |
 | Taxi Driver Simulator | 366222 | [366222-taxi-driver-simulator.json](./366222-taxi-driver-simulator.json) |
@@ -1897,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl Who Sees | 149576 | [149576-the-girl-who-sees.json](./149576-the-girl-who-sees.json) |
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
+| The Glass Staircase | 116968 | [116968-the-glass-staircase.json](./116968-the-glass-staircase.json) |
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Goblins are Coming | 246949 | [246949-the-goblins-are-coming.json](./246949-the-goblins-are-coming.json) |
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
@@ -3774,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | This Is Love | 370673 | [370673-this-is-love.json](./370673-this-is-love.json) |
+| This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
 | This is Timmy | 189171 | [189171-this-is-timmy.json](./189171-this-is-timmy.json) |
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
 | This Is Where I Want To Die | 378205 | [378205-this-is-where-i-want-to-die.json](./378205-this-is-where-i-want-to-die.json) |
@@ -4837,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
 | Top Bike: Racing & Moto Drag | 187455 | [187455-top-bike-racing-and-moto-drag.json](./187455-top-bike-racing-and-moto-drag.json) |
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
+| Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
@@ -4887,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
+| Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
 | Tormentarium | 271730 | [271730-tormentarium.json](./271730-tormentarium.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
@@ -5120,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
 | Towerlands | 227271 | [227271-towerlands.json](./227271-towerlands.json) |
 | Towerø | 318427 | [318427-tower.json](./318427-tower.json) |
+| Towers | 116967 | [116967-towers.json](./116967-towers.json) |
 | Towers | 271222 | [271222-towers.json](./271222-towers.json) |
 | Towers & Goblins: The Last Stand | 290912 | [290912-towers-and-goblins-the-last-stand.json](./290912-towers-and-goblins-the-last-stand.json) |
 | Towers Heritage | 372465 | [372465-towers-heritage.json](./372465-towers-heritage.json) |
@@ -5161,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 2: Buzz Lightyear to the Rescue! | 305791 | [305791-toy-story-2-buzz-lightyear-to-the-rescue.json](./305791-toy-story-2-buzz-lightyear-to-the-rescue.json) |
 | Toy Story 2: Woody Sousaku Daisakusen!! | 58850 | [58850-toy-story-2-woody-sousaku-daisakusen.json](./58850-toy-story-2-woody-sousaku-daisakusen.json) |
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
+| Toy Story Drop! | 116973 | [116973-toy-story-drop.json](./116973-toy-story-drop.json) |
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
@@ -6159,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | Tycoon Legends | 245855 | [245855-tycoon-legends.json](./245855-tycoon-legends.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
+| Type Dreams | 116969 | [116969-type-dreams.json](./116969-type-dreams.json) |
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
