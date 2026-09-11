@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagged Alliance: Back in Action | 1008 | [1008-jagged-alliance-back-in-action.json](./1008-jagged-alliance-back-in-action.json) |
 | Jaghund Armoured Organ Delivery Service | 329941 | [329941-jaghund-armoured-organ-delivery-service.json](./329941-jaghund-armoured-organ-delivery-service.json) |
 | Jagot | 267393 | [267393-jagot.json](./267393-jagot.json) |
+| Jaguar Drift Simulator | 104589 | [104589-jaguar-drift-simulator.json](./104589-jaguar-drift-simulator.json) |
 | Jaguar Suns | 333403 | [333403-jaguar-suns.json](./333403-jaguar-suns.json) |
 | Jagun: Clash of Kingdoms | 120350 | [120350-jagun-clash-of-kingdoms.json](./120350-jagun-clash-of-kingdoms.json) |
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
