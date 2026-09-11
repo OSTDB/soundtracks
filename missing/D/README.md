@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Neighbors | 351612 | [351612-dark-neighbors.json](./351612-dark-neighbors.json) |
 | Dark Nights | 138769 | [138769-dark-nights.json](./138769-dark-nights.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
+| Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
 | Dark Parables: Ballad of Rapunzel - Collector's Edition | 36466 | [36466-dark-parables-ballad-of-rapunzel-collectors-edition.json](./36466-dark-parables-ballad-of-rapunzel-collectors-edition.json) |
 | Dark Parables: Curse of Briar Rose | 63303 | [63303-dark-parables-curse-of-briar-rose.json](./63303-dark-parables-curse-of-briar-rose.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
@@ -2011,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollhouse | 11668 | [11668-dollhouse.json](./11668-dollhouse.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
+| Dolmenia : Chroniques Gauloises | 125369 | [125369-dolmenia-chroniques-gauloises.json](./125369-dolmenia-chroniques-gauloises.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
 | Dolor's Dwelling | 390006 | [390006-dolors-dwelling.json](./390006-dolors-dwelling.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
