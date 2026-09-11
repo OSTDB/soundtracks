@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T04:18:56.575Z",
-  "total_missing": 56540,
+  "generated_at": "2026-09-11T04:21:04.100Z",
+  "total_missing": 56539,
   "games": [
     {
       "igdb_id": 306086,
@@ -1906,11 +1906,6 @@
       "igdb_id": 326582,
       "game_name": "A Day on the Farm",
       "file": "missing/A/326582-a-day-on-the-farm.json"
-    },
-    {
-      "igdb_id": 314042,
-      "game_name": "A Day to Bring Them Happiness",
-      "file": "missing/A/314042-a-day-to-bring-them-happiness.json"
     },
     {
       "igdb_id": 323717,
