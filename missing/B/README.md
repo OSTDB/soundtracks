@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
 | Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
+| Banana | 95469 | [95469-banana.json](./95469-banana.json) |
 | Banana 3D | 338190 | [338190-banana-3d.json](./338190-banana-3d.json) |
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
 | Banana Bugs | 230534 | [230534-banana-bugs.json](./230534-banana-bugs.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Spirits: Kiseki no Hasha | 56516 | [56516-battle-spirits-kiseki-no-hasha.json](./56516-battle-spirits-kiseki-no-hasha.json) |
 | Battle Squares | 322008 | [322008-battle-squares.json](./322008-battle-squares.json) |
 | Battle Star | 157129 | [157129-battle-star.json](./157129-battle-star.json) |
+| Battle Stations | 95473 | [95473-battle-stations.json](./95473-battle-stations.json) |
 | Battle Steed: Gunma | 165642 | [165642-battle-steed-gunma.json](./165642-battle-steed-gunma.json) |
 | Battle Talent | 163454 | [163454-battle-talent.json](./163454-battle-talent.json) |
 | Battle Talent: Multiplayer Update | 306952 | [306952-battle-talent-multiplayer-update.json](./306952-battle-talent-multiplayer-update.json) |
@@ -1295,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better With A Friend | 301255 | [301255-better-with-a-friend.json](./301255-better-with-a-friend.json) |
 | Betty & Earl | 163977 | [163977-betty-and-earl.json](./163977-betty-and-earl.json) |
 | Between | 398980 | [398980-between.json](./398980-between.json) |
+| Between | 95369 | [95369-between.json](./95369-between.json) |
 | Between Adventures Idle | 365079 | [365079-between-adventures-idle.json](./365079-between-adventures-idle.json) |
 | Between Planets | 121005 | [121005-between-planets.json](./121005-between-planets.json) |
 | Between them | 149536 | [149536-between-them.json](./149536-between-them.json) |
@@ -2271,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bohemian Yard | 217866 | [217866-bohemian-yard.json](./217866-bohemian-yard.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
+| Boing! | 95472 | [95472-boing.json](./95472-boing.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
@@ -2292,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
 | Boll's Journey | 365065 | [365065-bolls-journey.json](./365065-bolls-journey.json) |
+| Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
@@ -2629,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOX: Space Station | 147383 | [147383-box-space-station.json](./147383-box-space-station.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
 | Boxcorp Employee Training | 179137 | [179137-boxcorp-employee-training.json](./179137-boxcorp-employee-training.json) |
+| Boxed In | 95394 | [95394-boxed-in.json](./95394-boxed-in.json) |
 | Boxer | 13699 | [13699-boxer.json](./13699-boxer.json) |
 | Boxguy Adventure | 358322 | [358322-boxguy-adventure.json](./358322-boxguy-adventure.json) |
 | Boxguy Adventure 2 | 358292 | [358292-boxguy-adventure-2.json](./358292-boxguy-adventure-2.json) |
