@@ -901,6 +901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Integer | 178030 | [178030-integer.json](./178030-integer.json) |
 | Integrifix | 335845 | [335845-integrifix.json](./335845-integrifix.json) |
 | Intelligence: 314th Clash | 58809 | [58809-intelligence-314th-clash.json](./58809-intelligence-314th-clash.json) |
+| Intelligence: Underwater Kingdom | 110955 | [110955-intelligence-underwater-kingdom.json](./110955-intelligence-underwater-kingdom.json) |
 | Intelligent Design: An Evolutionary Sandbox | 36478 | [36478-intelligent-design-an-evolutionary-sandbox.json](./36478-intelligent-design-an-evolutionary-sandbox.json) |
 | Intellivision Greatest Hits: 20th Anniversary Edition | 210044 | [210044-intellivision-greatest-hits-20th-anniversary-edition.json](./210044-intellivision-greatest-hits-20th-anniversary-edition.json) |
 | Intellivision Rocks | 73321 | [73321-intellivision-rocks.json](./73321-intellivision-rocks.json) |
@@ -1091,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
 | Iris | 223674 | [223674-iris.json](./223674-iris.json) |
 | Iris Dissolution | 337116 | [337116-iris-dissolution.json](./337116-iris-dissolution.json) |
+| Iris School of Wizardry: Vinculum Hearts | 110982 | [110982-iris-school-of-wizardry-vinculum-hearts.json](./110982-iris-school-of-wizardry-vinculum-hearts.json) |
 | Iris's Adventure: Time Travel | 231941 | [231941-iriss-adventure-time-travel.json](./231941-iriss-adventure-time-travel.json) |
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
 | Irmão Grande & Brasileiro 2 | 163461 | [163461-irmao-grande-and-brasileiro-2.json](./163461-irmao-grande-and-brasileiro-2.json) |
