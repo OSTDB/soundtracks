@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Somnio | 130382 | [130382-in-somnio.json](./130382-in-somnio.json) |
 | In Sync: 2 Fun Balls | 208028 | [208028-in-sync-2-fun-balls.json](./208028-in-sync-2-fun-balls.json) |
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
+| In the Black | 125370 | [125370-in-the-black.json](./125370-in-the-black.json) |
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
 | In the Bush | 173843 | [173843-in-the-bush.json](./173843-in-the-bush.json) |
 | In The Dark | 353904 | [353904-in-the-dark.json](./353904-in-the-dark.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Incantation | 236854 | [236854-infinite-incantation.json](./236854-infinite-incantation.json) |
 | Infinite Jigsaw Puzzle | 94222 | [94222-infinite-jigsaw-puzzle.json](./94222-infinite-jigsaw-puzzle.json) |
+| Infinite Jonathans | 125416 | [125416-infinite-jonathans.json](./125416-infinite-jonathans.json) |
 | Infinite Knights | 256523 | [256523-infinite-knights.json](./256523-infinite-knights.json) |
 | Infinite Library | 318186 | [318186-infinite-library.json](./318186-infinite-library.json) |
 | Infinite Links | 194185 | [194185-infinite-links.json](./194185-infinite-links.json) |
@@ -715,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
 | Infinite Robotics | 279000 | [279000-infinite-robotics.json](./279000-infinite-robotics.json) |
 | Infinite Shooter | 33103 | [33103-infinite-shooter.json](./33103-infinite-shooter.json) |
+| Infinite Sparkles | 125415 | [125415-infinite-sparkles.json](./125415-infinite-sparkles.json) |
 | Infinite Stairs | 231940 | [231940-infinite-stairs.json](./231940-infinite-stairs.json) |
 | Infinite Sunshine Dust | 96731 | [96731-infinite-sunshine-dust.json](./96731-infinite-sunshine-dust.json) |
 | Infinite Veil | 379874 | [379874-infinite-veil.json](./379874-infinite-veil.json) |
