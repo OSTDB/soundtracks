@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laplace | 109651 | [109651-laplace.json](./109651-laplace.json) |
 | Laplace M | 126047 | [126047-laplace-m.json](./126047-laplace-m.json) |
 | Lapse | 111699 | [111699-lapse.json](./111699-lapse.json) |
+| Lapsi | 120337 | [120337-lapsi.json](./120337-lapsi.json) |
 | Lapso | 126618 | [126618-lapso.json](./126618-lapso.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
 | Laranja! | 391059 | [391059-laranja.json](./391059-laranja.json) |
@@ -653,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
 | Let It Flow | 144279 | [144279-let-it-flow.json](./144279-let-it-flow.json) |
+| Let me go | 120336 | [120336-let-me-go.json](./120336-let-me-go.json) |
 | Let Me In | 379885 | [379885-let-me-in.json](./379885-let-me-in.json) |
 | Let Me Inside | 376486 | [376486-let-me-inside.json](./376486-let-me-inside.json) |
 | Let Them Come: Onslaught | 257928 | [257928-let-them-come-onslaught.json](./257928-let-them-come-onslaught.json) |
@@ -1502,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
 | Lost Oasis | 334099 | [334099-lost-oasis.json](./334099-lost-oasis.json) |
+| Lost Odyssey: Seeker of the Deep! | 120313 | [120313-lost-odyssey-seeker-of-the-deep.json](./120313-lost-odyssey-seeker-of-the-deep.json) |
 | Lost Pages: The First Cycle | 226755 | [226755-lost-pages-the-first-cycle.json](./226755-lost-pages-the-first-cycle.json) |
 | Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
 | Lost Perspective | 137602 | [137602-lost-perspective.json](./137602-lost-perspective.json) |
