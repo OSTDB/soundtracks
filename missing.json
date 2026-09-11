@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T22:30:58.093Z",
-  "total_missing": 59539,
+  "generated_at": "2026-09-11T22:40:52.683Z",
+  "total_missing": 59538,
   "games": [
     {
       "igdb_id": 306086,
@@ -2476,11 +2476,6 @@
       "igdb_id": 226228,
       "game_name": "A Steak Temple Panic: Chapter 2 - Welcome to Sanglinours",
       "file": "missing/A/226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json"
-    },
-    {
-      "igdb_id": 362283,
-      "game_name": "A Storied Life: Tabitha",
-      "file": "missing/A/362283-a-storied-life-tabitha.json"
     },
     {
       "igdb_id": 320523,
