@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T04:03:38.349Z",
-  "total_missing": 56491,
+  "generated_at": "2026-09-11T04:11:11.303Z",
+  "total_missing": 56490,
   "games": [
     {
       "igdb_id": 306086,
@@ -1901,11 +1901,6 @@
       "igdb_id": 78681,
       "game_name": "A Day In the Life",
       "file": "missing/A/78681-a-day-in-the-life.json"
-    },
-    {
-      "igdb_id": 167225,
-      "game_name": "A Day in the Park",
-      "file": "missing/A/167225-a-day-in-the-park.json"
     },
     {
       "igdb_id": 326582,
