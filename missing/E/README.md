@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eros Fantasy | 199606 | [199606-eros-fantasy.json](./199606-eros-fantasy.json) |
 | Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
+| Erotic Dungeon Survival | 82829 | [82829-erotic-dungeon-survival.json](./82829-erotic-dungeon-survival.json) |
 | Erotic Jigsaw Challenge Vol 2 | 106541 | [106541-erotic-jigsaw-challenge-vol-2.json](./106541-erotic-jigsaw-challenge-vol-2.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
@@ -1271,6 +1272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
 | Everyone Goes Home | 120926 | [120926-everyone-goes-home.json](./120926-everyone-goes-home.json) |
+| Everyone's Idol Yumeru-chan! Escape from the Uninvited Pervert | 82772 | [82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json](./82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json) |
 | Everything Else | 177575 | [177575-everything-else.json](./177575-everything-else.json) |
 | Everything Explosive | 137594 | [137594-everything-explosive.json](./137594-everything-explosive.json) |
 | Everything I Do is Art, But Nothing I Do Makes Any Difference, Part II Or: How I Learned to Stop Worrying and Love the Gallery | 180254 | [180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json](./180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json) |
