@@ -2221,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf 3D | 117753 | [117753-mini-golf-3d.json](./117753-mini-golf-3d.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
+| Mini Golf King | 125936 | [125936-mini-golf-king.json](./125936-mini-golf-king.json) |
 | Mini Golf King - Multiplayer | 87011 | [87011-mini-golf-king-multiplayer.json](./87011-mini-golf-king-multiplayer.json) |
 | Mini Golf Mania | 146893 | [146893-mini-golf-mania.json](./146893-mini-golf-mania.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
@@ -2519,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
+| Mobile Suit Gundam | 125966 | [125966-mobile-suit-gundam.json](./125966-mobile-suit-gundam.json) |
 | Mobile Suit Gundam | 132794 | [132794-mobile-suit-gundam.json](./132794-mobile-suit-gundam.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
@@ -2534,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
 | Mobo Hide and Seek | 200128 | [200128-mobo-hide-and-seek.json](./200128-mobo-hide-and-seek.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
+| Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
 | Mocap Boxing | 61667 | [61667-mocap-boxing.json](./61667-mocap-boxing.json) |
@@ -2703,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
+| Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica no Castelo do Dragão | 9557 | [9557-monica-no-castelo-do-dragao.json](./9557-monica-no-castelo-do-dragao.json) |
 | Monishiri Quiz Taiko no Kyouryuu | 276466 | [276466-monishiri-quiz-taiko-no-kyouryuu.json](./276466-monishiri-quiz-taiko-no-kyouryuu.json) |
