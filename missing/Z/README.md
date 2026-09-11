@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhmyshenko Valery Albertovich | 99018 | [99018-zhmyshenko-valery-albertovich.json](./99018-zhmyshenko-valery-albertovich.json) |
 | Zhombre, the Undead Hombre | 23878 | [23878-zhombre-the-undead-hombre.json](./23878-zhombre-the-undead-hombre.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
+| Zig | 96695 | [96695-zig.json](./96695-zig.json) |
 | Ziggurat | 11646 | [11646-ziggurat.json](./11646-ziggurat.json) |
 | Ziggurat | 23876 | [23876-ziggurat.json](./23876-ziggurat.json) |
 | Ziggy Kids Racing | 246971 | [246971-ziggy-kids-racing.json](./246971-ziggy-kids-racing.json) |
