@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
+| Take Care of the Paperwork | 103455 | [103455-take-care-of-the-paperwork.json](./103455-take-care-of-the-paperwork.json) |
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
 | Take Down | 125962 | [125962-take-down.json](./125962-take-down.json) |
 | Take It Racing 2 | 287105 | [287105-take-it-racing-2.json](./287105-take-it-racing-2.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
 | Tentacuddle | 294159 | [294159-tentacuddle.json](./294159-tentacuddle.json) |
 | Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
+| Tentlan | 103434 | [103434-tentlan.json](./103434-tentlan.json) |
 | Teocalli | 134698 | [134698-teocalli.json](./134698-teocalli.json) |
 | TEOM | 236013 | [236013-teom.json](./236013-teom.json) |
 | Teppen Banchou Take 1: Saikou no Yankee Ikusei Game | 220305 | [220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json](./220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json) |
@@ -1362,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chalk | 244775 | [244775-the-chalk.json](./244775-the-chalk.json) |
 | The Champ | 78689 | [78689-the-champ.json](./78689-the-champ.json) |
 | The Champions of Lootheim | 382759 | [382759-the-champions-of-lootheim.json](./382759-the-champions-of-lootheim.json) |
+| The change | 103429 | [103429-the-change.json](./103429-the-change.json) |
 | The Charity Shop | 333942 | [333942-the-charity-shop.json](./333942-the-charity-shop.json) |
 | The Charm of Love | 157158 | [157158-the-charm-of-love.json](./157158-the-charm-of-love.json) |
 | The Chaste Full-Metal Maiden - Leiria | 124262 | [124262-the-chaste-full-metal-maiden-leiria.json](./124262-the-chaste-full-metal-maiden-leiria.json) |
@@ -2462,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Uni | 330731 | [330731-the-little-uni.json](./330731-the-little-uni.json) |
 | The Little Witch Shop: New in Town | 240794 | [240794-the-little-witch-shop-new-in-town.json](./240794-the-little-witch-shop-new-in-town.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
+| The Living Remain | 103536 | [103536-the-living-remain.json](./103536-the-living-remain.json) |
 | The Llama | 387343 | [387343-the-llama.json](./387343-the-llama.json) |
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
@@ -3904,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold of Judgement | 378159 | [378159-threshold-of-judgement.json](./378159-threshold-of-judgement.json) |
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
+| Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
 | Thrills & Chills - Roller Coasters | 31538 | [31538-thrills-and-chills-roller-coasters.json](./31538-thrills-and-chills-roller-coasters.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
@@ -4398,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiime | 153386 | [153386-tiime.json](./153386-tiime.json) |
 | Tik Tak Caro | 239328 | [239328-tik-tak-caro.json](./239328-tik-tak-caro.json) |
 | Tik Werlen | 396194 | [396194-tik-werlen.json](./396194-tik-werlen.json) |
+| Tikal | 103541 | [103541-tikal.json](./103541-tikal.json) |
 | Tikal & Chaos | 331716 | [331716-tikal-and-chaos.json](./331716-tikal-and-chaos.json) |
 | Tiki Ombo | 105914 | [105914-tiki-ombo.json](./105914-tiki-ombo.json) |
 | Tiki Taka Soccer | 58219 | [58219-tiki-taka-soccer.json](./58219-tiki-taka-soccer.json) |
@@ -5461,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Zacens Wagon Pack | 293394 | [293394-train-simulator-classic-zacens-wagon-pack.json](./293394-train-simulator-classic-zacens-wagon-pack.json) |
 | Train Simulator Classic: Zcs VTG Wagon Pack | 293395 | [293395-train-simulator-classic-zcs-vtg-wagon-pack.json](./293395-train-simulator-classic-zcs-vtg-wagon-pack.json) |
 | Train Simulator: EA-692 | 306071 | [306071-train-simulator-ea-692.json](./306071-train-simulator-ea-692.json) |
+| Train Simulator: London Subway | 103448 | [103448-train-simulator-london-subway.json](./103448-train-simulator-london-subway.json) |
 | Train Simulator: London Subway | 103488 | [103488-train-simulator-london-subway.json](./103488-train-simulator-london-subway.json) |
 | Train Simulator: ÖBB 4748 | 306074 | [306074-train-simulator-obb-4748.json](./306074-train-simulator-obb-4748.json) |
 | Train Simulator: Payerbach - Wien Hbf Route Add-On | 306073 | [306073-train-simulator-payerbach-wien-hbf-route-add-on.json](./306073-train-simulator-payerbach-wien-hbf-route-add-on.json) |
