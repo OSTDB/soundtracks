@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuchisake Onna | 110496 | [110496-kuchisake-onna.json](./110496-kuchisake-onna.json) |
 | Kudamono Party | 288780 | [288780-kudamono-party.json](./288780-kudamono-party.json) |
 | Kuentame | 383377 | [383377-kuentame.json](./383377-kuentame.json) |
+| Kuento: Wasureenu Hibi ni | 97384 | [97384-kuento-wasureenu-hibi-ni.json](./97384-kuento-wasureenu-hibi-ni.json) |
 | Kuizu! Batounea! | 411565 | [411565-kuizu-batounea.json](./411565-kuizu-batounea.json) |
 | Kukoo Kitchen | 112349 | [112349-kukoo-kitchen.json](./112349-kukoo-kitchen.json) |
 | Kukuevo | 280764 | [280764-kukuevo.json](./280764-kukuevo.json) |
@@ -1110,10 +1111,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
+| Kurumi-chan A-so-bo | 97385 | [97385-kurumi-chan-a-so-bo.json](./97385-kurumi-chan-a-so-bo.json) |
 | Kururin Donuts: Okashi Recipe | 228453 | [228453-kururin-donuts-okashi-recipe.json](./228453-kururin-donuts-okashi-recipe.json) |
 | Kururin Sushi | 222321 | [222321-kururin-sushi.json](./222321-kururin-sushi.json) |
 | Kururuga | 412967 | [412967-kururuga.json](./412967-kururuga.json) |
 | Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
+| Kuruwa: Yuukyou Kan Yoiyamizakura Dai Ni Shou | 97287 | [97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json](./97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
