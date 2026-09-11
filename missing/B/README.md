@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Escape | 99619 | [99619-ball-escape.json](./99619-ball-escape.json) |
 | Ball Game | 75197 | [75197-ball-game.json](./75197-ball-game.json) |
 | Ball Game Remix | 217510 | [217510-ball-game-remix.json](./217510-ball-game-remix.json) |
+| Ball Gates | 102105 | [102105-ball-gates.json](./102105-ball-gates.json) |
 | Ball Hit! | 106529 | [106529-ball-hit.json](./106529-ball-hit.json) |
 | Ball Hunter | 201801 | [201801-ball-hunter.json](./201801-ball-hunter.json) |
 | Ball Jumper | 272854 | [272854-ball-jumper.json](./272854-ball-jumper.json) |
@@ -2648,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
 | Brain Bait | 186814 | [186814-brain-bait.json](./186814-brain-bait.json) |
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
+| Brain Box on Physics Truck | 102109 | [102109-brain-box-on-physics-truck.json](./102109-brain-box-on-physics-truck.json) |
 | Brain Dots: Draw and Solve | 104701 | [104701-brain-dots-draw-and-solve.json](./104701-brain-dots-draw-and-solve.json) |
 | Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
