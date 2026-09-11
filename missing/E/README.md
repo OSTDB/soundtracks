@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exposure | 362267 | [362267-exposure.json](./362267-exposure.json) |
 | Exposure Office Simulator | 309892 | [309892-exposure-office-simulator.json](./309892-exposure-office-simulator.json) |
 | EXS1 EthnologySister: Cultural functionalism | 166171 | [166171-exs1-ethnologysister-cultural-functionalism.json](./166171-exs1-ethnologysister-cultural-functionalism.json) |
+| Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exterminate Zombies: Get Paid | 215930 | [215930-exterminate-zombies-get-paid.json](./215930-exterminate-zombies-get-paid.json) |
 | Extermination | 271997 | [271997-extermination.json](./271997-extermination.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
