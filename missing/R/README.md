@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rg-ft | 176997 | [176997-rg-ft.json](./176997-rg-ft.json) |
 | RGB | 251216 | [251216-rgb.json](./251216-rgb.json) |
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
+| RGX Showdown | 109588 | [109588-rgx-showdown.json](./109588-rgx-showdown.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
 | Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
@@ -1935,6 +1936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancing Flesh | 199074 | [199074-romancing-flesh.json](./199074-romancing-flesh.json) |
 | Romancing SaGa | 11311 | [11311-romancing-saga.json](./11311-romancing-saga.json) |
 | Romancing SaGa 3 | 109592 | [109592-romancing-saga-3.json](./109592-romancing-saga-3.json) |
+| Romancing SaGa Re;UniverSe | 109593 | [109593-romancing-saga-re-universe.json](./109593-romancing-saga-re-universe.json) |
 | Romancing the Kingdom | 224775 | [224775-romancing-the-kingdom.json](./224775-romancing-the-kingdom.json) |
 | Romania Prop Hunt | 324291 | [324291-romania-prop-hunt.json](./324291-romania-prop-hunt.json) |
 | Romanizer | 304569 | [304569-romanizer.json](./304569-romanizer.json) |
