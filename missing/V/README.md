@@ -213,8 +213,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vavio | 181923 | [181923-vavio.json](./181923-vavio.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
 | VB Mario Land | 175949 | [175949-vb-mario-land.json](./175949-vb-mario-land.json) |
+| vCoder Hero | 127268 | [127268-vcoder-hero.json](./127268-vcoder-hero.json) |
 | Vec-Man | 273908 | [273908-vec-man.json](./273908-vec-man.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
+| Vector Light | 126589 | [126589-vector-light.json](./126589-vector-light.json) |
 | Vector Pinball | 207825 | [207825-vector-pinball.json](./207825-vector-pinball.json) |
 | Vector Prospector | 141144 | [141144-vector-prospector.json](./141144-vector-prospector.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
