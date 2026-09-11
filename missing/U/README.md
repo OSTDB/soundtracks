@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.N. Defense Force: Earth Joker | 40246 | [40246-u-n-defense-force-earth-joker.json](./40246-u-n-defense-force-earth-joker.json) |
 | U.N.P.O.C. Vessel of Opportunity | 335706 | [335706-u-n-p-o-c-vessel-of-opportunity.json](./335706-u-n-p-o-c-vessel-of-opportunity.json) |
 | U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
+| U.S. Navy Fighters | 79890 | [79890-u-s-navy-fighters.json](./79890-u-s-navy-fighters.json) |
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
@@ -220,6 +221,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
 | Umihara Kawase: Shun - Second Edition | 78719 | [78719-umihara-kawase-shun-second-edition.json](./78719-umihara-kawase-shun-second-edition.json) |
 | Umineko no Naku Koro ni Chiru | 51267 | [51267-umineko-no-naku-koro-ni-chiru.json](./51267-umineko-no-naku-koro-ni-chiru.json) |
+| Umineko no Naku Koro ni Chiru: Episode 6 - Dawn of the Golden Witch | 79846 | [79846-umineko-no-naku-koro-ni-chiru-episode-6-dawn-of-the-golden-witch.json](./79846-umineko-no-naku-koro-ni-chiru-episode-6-dawn-of-the-golden-witch.json) |
+| Umineko no Naku Koro ni Chiru: Episode 7 - Requiem of the Golden Witch | 79848 | [79848-umineko-no-naku-koro-ni-chiru-episode-7-requiem-of-the-golden-witch.json](./79848-umineko-no-naku-koro-ni-chiru-episode-7-requiem-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni Chiru: Shinjitsu to Gensou no Nocturne | 138162 | [138162-umineko-no-naku-koro-ni-chiru-shinjitsu-to-gensou-no-nocturne.json](./138162-umineko-no-naku-koro-ni-chiru-shinjitsu-to-gensou-no-nocturne.json) |
 | Umineko no Naku Koro ni Hane | 146817 | [146817-umineko-no-naku-koro-ni-hane.json](./146817-umineko-no-naku-koro-ni-hane.json) |
 | Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku | 139987 | [139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json](./139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json) |
@@ -227,6 +230,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni Tsubasa | 125996 | [125996-umineko-no-naku-koro-ni-tsubasa.json](./125996-umineko-no-naku-koro-ni-tsubasa.json) |
 | Umineko no Naku Koro ni: Aru Ryourinin no Zakki | 272533 | [272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json](./272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json) |
 | Umineko no Naku Koro ni: Dare no Ochakai? | 272540 | [272540-umineko-no-naku-koro-ni-dare-no-ochakai.json](./272540-umineko-no-naku-koro-ni-dare-no-ochakai.json) |
+| Umineko no Naku Koro ni: Episode 1 - Legend of the Golden Witch | 79847 | [79847-umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch.json](./79847-umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch.json) |
+| Umineko no Naku Koro ni: Episode 2 - Turn of the Golden Witch | 79845 | [79845-umineko-no-naku-koro-ni-episode-2-turn-of-the-golden-witch.json](./79845-umineko-no-naku-koro-ni-episode-2-turn-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Episode 4 - Alliance of the Golden Witch | 67170 | [67170-umineko-no-naku-koro-ni-episode-4-alliance-of-the-golden-witch.json](./67170-umineko-no-naku-koro-ni-episode-4-alliance-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Majo-tachi no Tanabata ha Amakunai | 272542 | [272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json](./272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json) |
 | Umineko no Naku Koro ni: Memoirs of the ΛΔ | 272532 | [272532-umineko-no-naku-koro-ni-memoirs-of-the.json](./272532-umineko-no-naku-koro-ni-memoirs-of-the.json) |
@@ -243,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko When They Cry: Episode 6 - Dawn of the Golden Witch | 272314 | [272314-umineko-when-they-cry-episode-6-dawn-of-the-golden-witch.json](./272314-umineko-when-they-cry-episode-6-dawn-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 7 - Requiem of the Golden Witch | 272316 | [272316-umineko-when-they-cry-episode-7-requiem-of-the-golden-witch.json](./272316-umineko-when-they-cry-episode-7-requiem-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 8 - Twilight of the Golden Witch | 272318 | [272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json](./272318-umineko-when-they-cry-episode-8-twilight-of-the-golden-witch.json) |
+| Umineko: Ougon Musou Kyoku - Cross | 79850 | [79850-umineko-ougon-musou-kyoku-cross.json](./79850-umineko-ougon-musou-kyoku-cross.json) |
 | Umokay 64DS 6: Wrath of the Blood Eye | 270372 | [270372-umokay-64ds-6-wrath-of-the-blood-eye.json](./270372-umokay-64ds-6-wrath-of-the-blood-eye.json) |
 | Umokay 64DS 7: The Rise of a God! | 270373 | [270373-umokay-64ds-7-the-rise-of-a-god.json](./270373-umokay-64ds-7-the-rise-of-a-god.json) |
 | Umokay 64DS 8: The End is Near... | 270374 | [270374-umokay-64ds-8-the-end-is-near.json](./270374-umokay-64ds-8-the-end-is-near.json) |
