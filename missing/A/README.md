@@ -3246,6 +3246,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatars Saga | 243704 | [243704-avatars-saga.json](./243704-avatars-saga.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
+| Avenger | 109598 | [109598-avenger.json](./109598-avenger.json) |
+| Avenger | 109599 | [109599-avenger.json](./109599-avenger.json) |
 | Avenir Tower | 332414 | [332414-avenir-tower.json](./332414-avenir-tower.json) |
 | Aventador Drift Simulator 2 | 104649 | [104649-aventador-drift-simulator-2.json](./104649-aventador-drift-simulator-2.json) |
 | Aventura de Luigi | 322003 | [322003-aventura-de-luigi.json](./322003-aventura-de-luigi.json) |
@@ -3306,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
 | Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
+| Awkward Date Hero | 109621 | [109621-awkward-date-hero.json](./109621-awkward-date-hero.json) |
 | Awkward Goalie | 246962 | [246962-awkward-goalie.json](./246962-awkward-goalie.json) |
 | Awoken Madness | 271201 | [271201-awoken-madness.json](./271201-awoken-madness.json) |
 | Awoken: Chapter One of Reverie | 168849 | [168849-awoken-chapter-one-of-reverie.json](./168849-awoken-chapter-one-of-reverie.json) |
