@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
 | DJMax Respect V: Groove Coaster Pack | 225059 | [225059-djmax-respect-v-groove-coaster-pack.json](./225059-djmax-respect-v-groove-coaster-pack.json) |
 | DJMax Respect V: Technika Pack | 225058 | [225058-djmax-respect-v-technika-pack.json](./225058-djmax-respect-v-technika-pack.json) |
+| DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
@@ -2575,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Stamps Girls Pack | 366819 | [366819-dragon-ball-fighterz-stamps-girls-pack.json](./366819-dragon-ball-fighterz-stamps-girls-pack.json) |
 | Dragon Ball FighterZ: Super Edition | 200680 | [200680-dragon-ball-fighterz-super-edition.json](./200680-dragon-ball-fighterz-super-edition.json) |
 | Dragon Ball Fusions | 19314 | [19314-dragon-ball-fusions.json](./19314-dragon-ball-fusions.json) |
+| Dragon Ball Heroes: Ultimate Mission - Lalabit Market Luxury Edition | 89875 | [89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json](./89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json) |
 | Dragon Ball Kart 64 | 172711 | [172711-dragon-ball-kart-64.json](./172711-dragon-ball-kart-64.json) |
 | Dragon Ball Legends | 95014 | [95014-dragon-ball-legends.json](./95014-dragon-ball-legends.json) |
 | Dragon Ball Sparking Zero: Shallot (Dragon Ball Legends) | 366817 | [366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json](./366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json) |
