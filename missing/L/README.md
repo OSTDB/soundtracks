@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Helion | 317863 | [317863-last-helion.json](./317863-last-helion.json) |
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Holiday | 224568 | [224568-last-holiday.json](./224568-last-holiday.json) |
+| Last Home: Battle of Island | 124186 | [124186-last-home-battle-of-island.json](./124186-last-home-battle-of-island.json) |
 | Last Hope 3: Sniper Zombie War | 208931 | [208931-last-hope-3-sniper-zombie-war.json](./208931-last-hope-3-sniper-zombie-war.json) |
 | Last Hope on Earth | 145586 | [145586-last-hope-on-earth.json](./145586-last-hope-on-earth.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
@@ -1151,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
 | Live Portrait Maker | 101497 | [101497-live-portrait-maker.json](./101497-live-portrait-maker.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
+| Lives so Sweet | 124199 | [124199-lives-so-sweet.json](./124199-lives-so-sweet.json) |
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
