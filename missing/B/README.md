@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2008 | 72673 | [72673-baseball-mogul-2008.json](./72673-baseball-mogul-2008.json) |
 | Baseball Mogul 2013 | 60000 | [60000-baseball-mogul-2013.json](./60000-baseball-mogul-2013.json) |
 | Baseball Mogul 2014 | 60011 | [60011-baseball-mogul-2014.json](./60011-baseball-mogul-2014.json) |
+| Baseball Mogul 2018 | 99042 | [99042-baseball-mogul-2018.json](./99042-baseball-mogul-2018.json) |
 | Baseball Mogul 2021 | 144946 | [144946-baseball-mogul-2021.json](./144946-baseball-mogul-2021.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
 | Baseball Superstars 2024 | 318399 | [318399-baseball-superstars-2024.json](./318399-baseball-superstars-2024.json) |
@@ -1373,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Buck Deer Hunting | 101469 | [101469-big-buck-deer-hunting.json](./101469-big-buck-deer-hunting.json) |
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
 | Big Bucks: Trivia Quest | 312355 | [312355-big-bucks-trivia-quest.json](./312355-big-bucks-trivia-quest.json) |
+| Big Bug Bang: Le Retour de Commander Blood | 98921 | [98921-big-bug-bang-le-retour-de-commander-blood.json](./98921-big-bug-bang-le-retour-de-commander-blood.json) |
 | Big Bumpin' | 2731 | [2731-big-bumpin.json](./2731-big-bumpin.json) |
 | Big Burger | 246393 | [246393-big-burger.json](./246393-big-burger.json) |
 | Big Burger | 256294 | [256294-big-burger.json](./256294-big-burger.json) |
@@ -1682,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
+| Black Jack Story | 99029 | [99029-black-jack-story.json](./99029-black-jack-story.json) |
 | Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
 | Black Light Kills | 332444 | [332444-black-light-kills.json](./332444-black-light-kills.json) |
 | Black Lily Inmortal | 408083 | [408083-black-lily-inmortal.json](./408083-black-lily-inmortal.json) |
@@ -3363,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
+| ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
 | Butterfly Bundle | 218489 | [218489-butterfly-bundle.json](./218489-butterfly-bundle.json) |
 | Butterfly Collector | 183536 | [183536-butterfly-collector.json](./183536-butterfly-collector.json) |
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
