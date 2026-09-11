@@ -818,7 +818,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
+| Order of Battle: Blitzkrieg | 118966 | [118966-order-of-battle-blitzkrieg.json](./118966-order-of-battle-blitzkrieg.json) |
+| Order of Battle: Burma Road | 118968 | [118968-order-of-battle-burma-road.json](./118968-order-of-battle-burma-road.json) |
+| Order of Battle: Endsieg | 118971 | [118971-order-of-battle-endsieg.json](./118971-order-of-battle-endsieg.json) |
+| Order of Battle: Kriegsmarine | 118967 | [118967-order-of-battle-kriegsmarine.json](./118967-order-of-battle-kriegsmarine.json) |
+| Order of Battle: Morning Sun | 118961 | [118961-order-of-battle-morning-sun.json](./118961-order-of-battle-morning-sun.json) |
+| Order of Battle: Panzerkrieg | 118969 | [118969-order-of-battle-panzerkrieg.json](./118969-order-of-battle-panzerkrieg.json) |
 | Order of Battle: Red Steel | 154512 | [154512-order-of-battle-red-steel.json](./154512-order-of-battle-red-steel.json) |
+| Order of Battle: Rising Sun | 118964 | [118964-order-of-battle-rising-sun.json](./118964-order-of-battle-rising-sun.json) |
+| Order of Battle: Sandstorm | 118970 | [118970-order-of-battle-sandstorm.json](./118970-order-of-battle-sandstorm.json) |
+| Order of Battle: U.S. Marines | 118962 | [118962-order-of-battle-u-s-marines.json](./118962-order-of-battle-u-s-marines.json) |
+| Order of Battle: U.S. Pacific | 118963 | [118963-order-of-battle-u-s-pacific.json](./118963-order-of-battle-u-s-pacific.json) |
+| Order of Battle: Winter War | 118965 | [118965-order-of-battle-winter-war.json](./118965-order-of-battle-winter-war.json) |
 | Order of Battle: World War II - Allies Resurgent | 171073 | [171073-order-of-battle-world-war-ii-allies-resurgent.json](./171073-order-of-battle-world-war-ii-allies-resurgent.json) |
 | Order of Battle: World War II - Order of Battle: Allies Victorious | 219793 | [219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json](./219793-order-of-battle-world-war-ii-order-of-battle-allies-victorious.json) |
 | Order of Renewal | 337647 | [337647-order-of-renewal.json](./337647-order-of-renewal.json) |
