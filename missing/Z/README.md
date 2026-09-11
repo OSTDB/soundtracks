@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Degrees | 258702 | [258702-zero-degrees.json](./258702-zero-degrees.json) |
 | Zero Divide | 20709 | [20709-zero-divide.json](./20709-zero-divide.json) |
 | Zero Escape: Nine Hours, Nine Persons, Nine Doors | 319754 | [319754-zero-escape-nine-hours-nine-persons-nine-doors.json](./319754-zero-escape-nine-hours-nine-persons-nine-doors.json) |
+| Zero Escape: Zero Time Dilemma - Limited Watch Bonus Edition | 89890 | [89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json](./89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json) |
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
 | Zero Hour | 151730 | [151730-zero-hour.json](./151730-zero-hour.json) |
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
