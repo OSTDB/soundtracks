@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
 | Homeward | 188126 | [188126-homeward.json](./188126-homeward.json) |
 | Homewords | 153947 | [153947-homewords.json](./153947-homewords.json) |
+| Homework is Crazy | 118334 | [118334-homework-is-crazy.json](./118334-homework-is-crazy.json) |
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
 | Homeworld: Vast Reaches | 301250 | [301250-homeworld-vast-reaches.json](./301250-homeworld-vast-reaches.json) |
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
