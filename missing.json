@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T09:49:36.444Z",
-  "total_missing": 57485,
+  "generated_at": "2026-09-11T09:51:09.070Z",
+  "total_missing": 57484,
   "games": [
     {
       "igdb_id": 306086,
@@ -2071,11 +2071,6 @@
       "igdb_id": 137072,
       "game_name": "A Hero and a Garden",
       "file": "missing/A/137072-a-hero-and-a-garden.json"
-    },
-    {
-      "igdb_id": 206356,
-      "game_name": "A Hero's Rest: An RPG Town Simulator",
-      "file": "missing/A/206356-a-heros-rest-an-rpg-town-simulator.json"
     },
     {
       "igdb_id": 94785,
