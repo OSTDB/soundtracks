@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Cosa Nostra | 389976 | [389976-la-cosa-nostra.json](./389976-la-cosa-nostra.json) |
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
 | La Espada Sagrada | 141821 | [141821-la-espada-sagrada.json](./141821-la-espada-sagrada.json) |
+| La Fuga | 115603 | [115603-la-fuga.json](./115603-la-fuga.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
 | La Libertad Arrasa: Milei | 323725 | [323725-la-libertad-arrasa-milei.json](./323725-la-libertad-arrasa-milei.json) |
 | La Llorona Wants Your Soul | 291737 | [291737-la-llorona-wants-your-soul.json](./291737-la-llorona-wants-your-soul.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
 | Land of Zombies | 302387 | [302387-land-of-zombies.json](./302387-land-of-zombies.json) |
 | Land of Zympaia | 132761 | [132761-land-of-zympaia.json](./132761-land-of-zympaia.json) |
+| Land War | 115639 | [115639-land-war.json](./115639-land-war.json) |
 | Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
@@ -867,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
 | Light Of Chaos | 304361 | [304361-light-of-chaos.json](./304361-light-of-chaos.json) |
+| Light of Gallery | 115596 | [115596-light-of-gallery.json](./115596-light-of-gallery.json) |
 | Light of Motiram | 323536 | [323536-light-of-motiram.json](./323536-light-of-motiram.json) |
 | Light of Reversing Destiny | 344362 | [344362-light-of-reversing-destiny.json](./344362-light-of-reversing-destiny.json) |
 | Light of the Locked World | 119762 | [119762-light-of-the-locked-world.json](./119762-light-of-the-locked-world.json) |
@@ -1654,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveR Kiss: Endless Memories | 355544 | [355544-lover-kiss-endless-memories.json](./355544-lover-kiss-endless-memories.json) |
 | Lover Pretend | 193536 | [193536-lover-pretend.json](./193536-lover-pretend.json) |
 | Loveressive | 194598 | [194598-loveressive.json](./194598-loveressive.json) |
+| Lovers ' Smiles 2 | 115637 | [115637-lovers-smiles-2.json](./115637-lovers-smiles-2.json) |
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
 | Loving You Fully | 159873 | [159873-loving-you-fully.json](./159873-loving-you-fully.json) |
