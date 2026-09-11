@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:33:38.953Z",
-  "total_missing": 58452,
+  "generated_at": "2026-09-11T15:41:01.283Z",
+  "total_missing": 58451,
   "games": [
     {
       "igdb_id": 306086,
@@ -2261,11 +2261,6 @@
       "igdb_id": 273664,
       "game_name": "A Mermaid's Paradoxical Tale",
       "file": "missing/A/273664-a-mermaids-paradoxical-tale.json"
-    },
-    {
-      "igdb_id": 226221,
-      "game_name": "A Midnight Village Story",
-      "file": "missing/A/226221-a-midnight-village-story.json"
     },
     {
       "igdb_id": 135237,
