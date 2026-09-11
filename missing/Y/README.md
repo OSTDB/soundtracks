@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
 | Yellow or Red? | 174308 | [174308-yellow-or-red.json](./174308-yellow-or-red.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
+| Yemon | 107928 | [107928-yemon.json](./107928-yemon.json) |
 | Yenght | 94258 | [94258-yenght.json](./94258-yenght.json) |
 | Yeoubul | 166754 | [166754-yeoubul.json](./166754-yeoubul.json) |
 | Yes My Lord | 199090 | [199090-yes-my-lord.json](./199090-yes-my-lord.json) |
@@ -338,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki: Mod(ified) Project | 229682 | [229682-yume-nikki-mod-ified-project.json](./229682-yume-nikki-mod-ified-project.json) |
 | Yume Nikki: Solitude | 202349 | [202349-yume-nikki-solitude.json](./202349-yume-nikki-solitude.json) |
 | Yume Nisshi | 145033 | [145033-yume-nisshi.json](./145033-yume-nisshi.json) |
+| Yume Oukoku to Nemureru 100-nin no Ouji-sama | 109062 | [109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json](./109062-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json) |
 | Yume Puzzle | 367953 | [367953-yume-puzzle.json](./367953-yume-puzzle.json) |
 | Yume Shikki | 201848 | [201848-yume-shikki.json](./201848-yume-shikki.json) |
 | Yume Shoko | 202351 | [202351-yume-shoko.json](./202351-yume-shoko.json) |
