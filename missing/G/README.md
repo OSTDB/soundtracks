@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geas | 228695 | [228695-geas.json](./228695-geas.json) |
 | Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
+| Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
 | Gehena | 192459 | [192459-gehena.json](./192459-gehena.json) |
@@ -1110,6 +1111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoKart: New Mexico | 193449 | [193449-gokart-new-mexico.json](./193449-gokart-new-mexico.json) |
 | Gokujou!! Mecha Mote Iinchou: MM My Best Friend! | 130390 | [130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json](./130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json) |
 | Gokuraku Yuugi: Game Tengoku | 41376 | [41376-gokuraku-yuugi-game-tengoku.json](./41376-gokuraku-yuugi-game-tengoku.json) |
+| GOL:Legend | 99581 | [99581-gol-legend.json](./99581-gol-legend.json) |
 | Golazo! | 122408 | [122408-golazo.json](./122408-golazo.json) |
 | Gold | 315301 | [315301-gold.json](./315301-gold.json) |
 | Gold & Ship Bundle: Gold Mining & Ship Graveyard Simulator | 340951 | [340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json](./340951-gold-and-ship-bundle-gold-mining-and-ship-graveyard-simulator.json) |
@@ -1684,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
 | Grinded Meat | 237068 | [237068-grinded-meat.json](./237068-grinded-meat.json) |
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
+| Grip Games Anthology | 99557 | [99557-grip-games-anthology.json](./99557-grip-games-anthology.json) |
 | Grip: Digital Deluxe | 118945 | [118945-grip-digital-deluxe.json](./118945-grip-digital-deluxe.json) |
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
 | Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
