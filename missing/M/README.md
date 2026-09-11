@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melon Sandbox | 231934 | [231934-melon-sandbox.json](./231934-melon-sandbox.json) |
 | Melon's Sokoban Walk | 386103 | [386103-melons-sokoban-walk.json](./386103-melons-sokoban-walk.json) |
 | Melt Abyss | 353902 | [353902-melt-abyss.json](./353902-melt-abyss.json) |
+| Meltdown | 80511 | [80511-meltdown.json](./80511-meltdown.json) |
 | Melted Time | 336526 | [336526-melted-time.json](./336526-melted-time.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
@@ -2447,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
 | Minna no Othello | 217925 | [217925-minna-no-othello.json](./217925-minna-no-othello.json) |
+| Minna to Capcom All-Stars | 80494 | [80494-minna-to-capcom-all-stars.json](./80494-minna-to-capcom-all-stars.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
@@ -3649,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
+| Muppet Studios Presents: You're the Director | 80528 | [80528-muppet-studios-presents-youre-the-director.json](./80528-muppet-studios-presents-youre-the-director.json) |
 | Muppet Treasure Island | 71543 | [71543-muppet-treasure-island.json](./71543-muppet-treasure-island.json) |
 | Mura World | 267912 | [267912-mura-world.json](./267912-mura-world.json) |
 | Mura World 2 | 267913 | [267913-mura-world-2.json](./267913-mura-world-2.json) |
@@ -4140,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Time and Space | 78675 | [78675-mystery-of-time-and-space.json](./78675-mystery-of-time-and-space.json) |
 | Mystery P.I. - Lost in Los Angeles | 14816 | [14816-mystery-p-i-lost-in-los-angeles.json](./14816-mystery-p-i-lost-in-los-angeles.json) |
 | Mystery P.I. - The New York Fortune | 14814 | [14814-mystery-p-i-the-new-york-fortune.json](./14814-mystery-p-i-the-new-york-fortune.json) |
+| Mystery P.I.: Stolen in San Francisco | 80548 | [80548-mystery-p-i-stolen-in-san-francisco.json](./80548-mystery-p-i-stolen-in-san-francisco.json) |
 | Mystery P.I.: Stolen in San Francisco | 80549 | [80549-mystery-p-i-stolen-in-san-francisco.json](./80549-mystery-p-i-stolen-in-san-francisco.json) |
 | Mystery P.I.: The Lottery Ticket | 14811 | [14811-mystery-p-i-the-lottery-ticket.json](./14811-mystery-p-i-the-lottery-ticket.json) |
 | Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
