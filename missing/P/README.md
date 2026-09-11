@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pia Carrot he Youkoso!! | 45955 | [45955-pia-carrot-he-youkoso.json](./45955-pia-carrot-he-youkoso.json) |
 | Pia Carrot he Youkoso!! 2 | 62748 | [62748-pia-carrot-he-youkoso-2.json](./62748-pia-carrot-he-youkoso-2.json) |
 | Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
+| Piano Game X | 101521 | [101521-piano-game-x.json](./101521-piano-game-x.json) |
 | Piano Game: Classic Music Song | 223987 | [223987-piano-game-classic-music-song.json](./223987-piano-game-classic-music-song.json) |
 | Piano Monsters | 175373 | [175373-piano-monsters.json](./175373-piano-monsters.json) |
 | Piano: Learn and Play - Complete + | 328827 | [328827-piano-learn-and-play-complete.json](./328827-piano-learn-and-play-complete.json) |
@@ -2140,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Star Debut | 324684 | [324684-pop-star-debut.json](./324684-pop-star-debut.json) |
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
+| Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
 | Pop'n Music 3 Append Disc | 280791 | [280791-popn-music-3-append-disc.json](./280791-popn-music-3-append-disc.json) |
 | Pop'n Music 4: Append Disc | 283737 | [283737-popn-music-4-append-disc.json](./283737-popn-music-4-append-disc.json) |
