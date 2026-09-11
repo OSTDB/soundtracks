@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T03:33:42.692Z",
-  "total_missing": 56394,
+  "generated_at": "2026-09-11T03:41:10.666Z",
+  "total_missing": 56393,
   "games": [
     {
       "igdb_id": 306086,
@@ -1886,11 +1886,6 @@
       "igdb_id": 301587,
       "game_name": "A Dark Place",
       "file": "missing/A/301587-a-dark-place.json"
-    },
-    {
-      "igdb_id": 255977,
-      "game_name": "A Dark Room",
-      "file": "missing/A/255977-a-dark-room.json"
     },
     {
       "igdb_id": 260648,
