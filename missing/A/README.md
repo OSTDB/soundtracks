@@ -410,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Achtung Banditen?! | 188577 | [188577-achtung-banditen.json](./188577-achtung-banditen.json) |
+| Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Acid Bunny 2 | 394888 | [394888-acid-bunny-2.json](./394888-acid-bunny-2.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Factory | 316099 | [316099-acid-factory.json](./316099-acid-factory.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
 | AH-3: ThunderStrike | 156159 | [156159-ah-3-thunderstrike.json](./156159-ah-3-thunderstrike.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
+| Aha! | 86026 | [86026-aha.json](./86026-aha.json) |
 | Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
 | Aha! Shashin de Machigai-sagashi | 251626 | [251626-aha-shashin-de-machigai-sagashi.json](./251626-aha-shashin-de-machigai-sagashi.json) |
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
@@ -2218,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ar Nosurge: Ode to an Unborn Star DX | 139979 | [139979-ar-nosurge-ode-to-an-unborn-star-dx.json](./139979-ar-nosurge-ode-to-an-unborn-star-dx.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
 | Ar-K: End Game | 110962 | [110962-ar-k-end-game.json](./110962-ar-k-end-game.json) |
+| Ar'Kritz the Intruder | 86028 | [86028-arkritz-the-intruder.json](./86028-arkritz-the-intruder.json) |
 | Ar3na | 257937 | [257937-ar3na.json](./257937-ar3na.json) |
 | Ara Ngc 6397 | 206130 | [206130-ara-ngc-6397.json](./206130-ara-ngc-6397.json) |
 | Arab Drift Cars | 221746 | [221746-arab-drift-cars.json](./221746-arab-drift-cars.json) |
