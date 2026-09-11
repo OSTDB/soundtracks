@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarter Five | 355561 | [355561-quarter-five.json](./355561-quarter-five.json) |
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
 | Quartermaster | 368478 | [368478-quartermaster.json](./368478-quartermaster.json) |
+| Quartermaster General | 110295 | [110295-quartermaster-general.json](./110295-quartermaster-general.json) |
 | Quarterstaff: The Tomb of Setmoth | 47300 | [47300-quarterstaff-the-tomb-of-setmoth.json](./47300-quarterstaff-the-tomb-of-setmoth.json) |
 | Quartet | 314674 | [314674-quartet.json](./314674-quartet.json) |
 | Quarth | 239297 | [239297-quarth.json](./239297-quarth.json) |
@@ -208,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
 | Quiz It | 102758 | [102758-quiz-it.json](./102758-quiz-it.json) |
 | Quiz Kidou Senshi Gundam: Toi Senshi DX | 62758 | [62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json](./62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json) |
+| Quiz Master Zero and the Silky Road | 110313 | [110313-quiz-master-zero-and-the-silky-road.json](./110313-quiz-master-zero-and-the-silky-road.json) |
 | Quiz Minister | 208029 | [208029-quiz-minister.json](./208029-quiz-minister.json) |
 | Quiz Planet | 317007 | [317007-quiz-planet.json](./317007-quiz-planet.json) |
 | Quiz Quest | 246097 | [246097-quiz-quest.json](./246097-quiz-quest.json) |
