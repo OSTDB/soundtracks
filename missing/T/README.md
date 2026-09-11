@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
+| Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
 | Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
@@ -397,10 +398,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: East Front 1941 | 197886 | [197886-tank-battle-east-front-1941.json](./197886-tank-battle-east-front-1941.json) |
 | Tank Battle: East Front 1943 | 175335 | [175335-tank-battle-east-front-1943.json](./175335-tank-battle-east-front-1943.json) |
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
+| Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
+| Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
 | Tank Legend Online: League of Tanks | 237961 | [237961-tank-legend-online-league-of-tanks.json](./237961-tank-legend-online-league-of-tanks.json) |
@@ -1415,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coagula Contest | 271497 | [271497-the-coagula-contest.json](./271497-the-coagula-contest.json) |
 | The Cobalt Palace | 271457 | [271457-the-cobalt-palace.json](./271457-the-cobalt-palace.json) |
 | The Code Zone Retro Pack | 198521 | [198521-the-code-zone-retro-pack.json](./198521-the-code-zone-retro-pack.json) |
+| The Code: Room Escape | 101502 | [101502-the-code-room-escape.json](./101502-the-code-room-escape.json) |
 | The Cold Case | 302140 | [302140-the-cold-case.json](./302140-the-cold-case.json) |
 | The Cold Forest | 211946 | [211946-the-cold-forest.json](./211946-the-cold-forest.json) |
 | The Cold Hand Reef | 326980 | [326980-the-cold-hand-reef.json](./326980-the-cold-hand-reef.json) |
@@ -1519,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cyclop | 301814 | [301814-the-cyclop.json](./301814-the-cyclop.json) |
 | The Czech Run | 208384 | [208384-the-czech-run.json](./208384-the-czech-run.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
+| The Dama | 101503 | [101503-the-dama.json](./101503-the-dama.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
 | The Dark | 140576 | [140576-the-dark.json](./140576-the-dark.json) |
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
@@ -5876,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Take | 173277 | [173277-triple-take.json](./173277-triple-take.json) |
 | Triple Tiles | 178548 | [178548-triple-tiles.json](./178548-triple-tiles.json) |
 | Triple Tournament | 313098 | [313098-triple-tournament.json](./313098-triple-tournament.json) |
+| Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
@@ -5889,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
+| Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivial Pursuit Online | 355006 | [355006-trivial-pursuit-online.json](./355006-trivial-pursuit-online.json) |
 | Trivial Pursuit Tap | 108957 | [108957-trivial-pursuit-tap.json](./108957-trivial-pursuit-tap.json) |
