@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T00:33:35.133Z",
-  "total_missing": 55873,
+  "generated_at": "2026-09-11T00:41:06.642Z",
+  "total_missing": 55872,
   "games": [
     {
       "igdb_id": 306086,
@@ -1796,11 +1796,6 @@
       "igdb_id": 68025,
       "game_name": "A Business Tycoon",
       "file": "missing/A/68025-a-business-tycoon.json"
-    },
-    {
-      "igdb_id": 135226,
-      "game_name": "A Buttload of Free Games",
-      "file": "missing/A/135226-a-buttload-of-free-games.json"
     },
     {
       "igdb_id": 343239,
