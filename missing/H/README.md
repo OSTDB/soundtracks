@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Sandwich Cafe | 159276 | [159276-happy-sandwich-cafe.json](./159276-happy-sandwich-cafe.json) |
 | Happy Seasons | 98443 | [98443-happy-seasons.json](./98443-happy-seasons.json) |
 | Happy Sisters Life | 354442 | [354442-happy-sisters-life.json](./354442-happy-sisters-life.json) |
+| Happy Soccer Physics | 97311 | [97311-happy-soccer-physics.json](./97311-happy-soccer-physics.json) |
 | Happy Time | 362282 | [362282-happy-time.json](./362282-happy-time.json) |
 | Happy Trap House | 224552 | [224552-happy-trap-house.json](./224552-happy-trap-house.json) |
 | Happy Vikings | 61106 | [61106-happy-vikings.json](./61106-happy-vikings.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Dragon: Legend | 45095 | [45095-hidden-dragon-legend.json](./45095-hidden-dragon-legend.json) |
 | Hidden Dungeon Top-Down 3D | 222935 | [222935-hidden-dungeon-top-down-3d.json](./222935-hidden-dungeon-top-down-3d.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
+| Hidden Expedition: The Curse of Mithridates | 97312 | [97312-hidden-expedition-the-curse-of-mithridates.json](./97312-hidden-expedition-the-curse-of-mithridates.json) |
 | Hidden Expedition: The Eternal Emperor | 140035 | [140035-hidden-expedition-the-eternal-emperor.json](./140035-hidden-expedition-the-eternal-emperor.json) |
 | Hidden Expedition: The Pearl of Discord | 140037 | [140037-hidden-expedition-the-pearl-of-discord.json](./140037-hidden-expedition-the-pearl-of-discord.json) |
 | Hidden Farm 2 Top-Down 3D | 208593 | [208593-hidden-farm-2-top-down-3d.json](./208593-hidden-farm-2-top-down-3d.json) |
@@ -1503,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiscores! Gold | 118999 | [118999-hiscores-gold.json](./118999-hiscores-gold.json) |
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
+| Hisshou Pachinko: Pachi-Slot Kouryoku Series Vol. 9: CR Fever Captain Harlock | 97315 | [97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json](./97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json) |
 | Histoire de Lune | 322590 | [322590-histoire-de-lune.json](./322590-histoire-de-lune.json) |
 | Historia Battles Crusade | 134004 | [134004-historia-battles-crusade.json](./134004-historia-battles-crusade.json) |
 | Historia Battles Napoleon | 134005 | [134005-historia-battles-napoleon.json](./134005-historia-battles-napoleon.json) |
