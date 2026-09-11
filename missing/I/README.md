@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ines | 340925 | [340925-ines.json](./340925-ines.json) |
 | Inescapable: No Rules, No Rescue | 244764 | [244764-inescapable-no-rules-no-rescue.json](./244764-inescapable-no-rules-no-rescue.json) |
 | Inexplicable Geeks: RestoreTheMillerCut | 253924 | [253924-inexplicable-geeks-restorethemillercut.json](./253924-inexplicable-geeks-restorethemillercut.json) |
+| Infamous Second Son - Special Edition | 89873 | [89873-infamous-second-son-special-edition.json](./89873-infamous-second-son-special-edition.json) |
 | Infamous: First Light | 7328 | [7328-infamous-first-light.json](./7328-infamous-first-light.json) |
 | Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
