@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T00:18:32.927Z",
-  "total_missing": 55825,
+  "generated_at": "2026-09-11T00:21:02.130Z",
+  "total_missing": 55824,
   "games": [
     {
       "igdb_id": 306086,
@@ -1786,11 +1786,6 @@
       "igdb_id": 225283,
       "game_name": "A Bonte Escape",
       "file": "missing/A/225283-a-bonte-escape.json"
-    },
-    {
-      "igdb_id": 182551,
-      "game_name": "A Bright Light in the Middle of the Ocean",
-      "file": "missing/A/182551-a-bright-light-in-the-middle-of-the-ocean.json"
     },
     {
       "igdb_id": 301592,
