@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancerush Stardom | 108988 | [108988-dancerush-stardom.json](./108988-dancerush-stardom.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
 | DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
+| Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
 | Dancing Dreamer | 148566 | [148566-dancing-dreamer.json](./148566-dancing-dreamer.json) |
 | Dancing Hair: Music Race 3D | 212455 | [212455-dancing-hair-music-race-3d.json](./212455-dancing-hair-music-race-3d.json) |
@@ -1620,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
+| Dino Dan: Dino Dig Site | 105897 | [105897-dino-dan-dino-dig-site.json](./105897-dino-dan-dino-dig-site.json) |
 | Dino Dave in Sokoman | 150084 | [150084-dino-dave-in-sokoman.json](./150084-dino-dave-in-sokoman.json) |
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
@@ -1654,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Battlegrounds | 57127 | [57127-dinosaur-battlegrounds.json](./57127-dinosaur-battlegrounds.json) |
 | Dinosaur Games Simulator 2018 | 105967 | [105967-dinosaur-games-simulator-2018.json](./105967-dinosaur-games-simulator-2018.json) |
 | Dinosaur Hunter | 98984 | [98984-dinosaur-hunter.json](./98984-dinosaur-hunter.json) |
+| Dinosaur Hunter 2018 | 105858 | [105858-dinosaur-hunter-2018.json](./105858-dinosaur-hunter-2018.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
 | Dinosaur Museum | 378176 | [378176-dinosaur-museum.json](./378176-dinosaur-museum.json) |
@@ -2224,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Dood's Big Adventure | 18255 | [18255-doods-big-adventure.json](./18255-doods-big-adventure.json) |
 | Doodle Army | 61655 | [61655-doodle-army.json](./61655-doodle-army.json) |
+| Doodle Biker | 105901 | [105901-doodle-biker.json](./105901-doodle-biker.json) |
 | Doodle Cat | 343797 | [343797-doodle-cat.json](./343797-doodle-cat.json) |
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
