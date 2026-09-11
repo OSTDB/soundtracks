@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T23:03:51.606Z",
-  "total_missing": 59636,
+  "generated_at": "2026-09-11T23:10:54.662Z",
+  "total_missing": 59635,
   "games": [
     {
       "igdb_id": 306086,
@@ -2491,11 +2491,6 @@
       "igdb_id": 320523,
       "game_name": "A Story About Birds",
       "file": "missing/A/320523-a-story-about-birds.json"
-    },
-    {
-      "igdb_id": 200740,
-      "game_name": "A Story of a Company!",
-      "file": "missing/A/200740-a-story-of-a-company.json"
     },
     {
       "igdb_id": 348271,
