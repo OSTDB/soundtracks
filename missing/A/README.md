@@ -13,7 +13,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bewitching Revolution | 124258 | [124258-a-bewitching-revolution.json](./124258-a-bewitching-revolution.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Bright Light in the Middle of the Ocean | 182551 | [182551-a-bright-light-in-the-middle-of-the-ocean.json](./182551-a-bright-light-in-the-middle-of-the-ocean.json) |
-| A Broken City | 183537 | [183537-a-broken-city.json](./183537-a-broken-city.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Burned Man Walks Down The Desolate Corridor | 303251 | [303251-a-burned-man-walks-down-the-desolate-corridor.json](./303251-a-burned-man-walks-down-the-desolate-corridor.json) |
@@ -591,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adaptr | 110574 | [110574-adaptr.json](./110574-adaptr.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Add Astra | 292305 | [292305-add-astra.json](./292305-add-astra.json) |
+| Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
 | Addmath | 239075 | [239075-addmath.json](./239075-addmath.json) |
@@ -2523,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arlyeh Center for Heart Diseases | 271218 | [271218-arlyeh-center-for-heart-diseases.json](./271218-arlyeh-center-for-heart-diseases.json) |
+| Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
 | Arma 3: Jets | 168910 | [168910-arma-3-jets.json](./168910-arma-3-jets.json) |
