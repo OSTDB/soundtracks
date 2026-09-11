@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impostor | 179698 | [179698-impostor.json](./179698-impostor.json) |
 | Impostor but Huggy Wuggy | 270669 | [270669-impostor-but-huggy-wuggy.json](./270669-impostor-but-huggy-wuggy.json) |
 | Impostor Hide Online | 179727 | [179727-impostor-hide-online.json](./179727-impostor-hide-online.json) |
+| Impostor syndrome | 110385 | [110385-impostor-syndrome.json](./110385-impostor-syndrome.json) |
 | Impping! | 350400 | [350400-impping.json](./350400-impping.json) |
 | Impractical Spells | 295525 | [295525-impractical-spells.json](./295525-impractical-spells.json) |
 | Impresja | 47992 | [47992-impresja.json](./47992-impresja.json) |
@@ -1081,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IPS 13: All Signals Lost | 369012 | [369012-ips-13-all-signals-lost.json](./369012-ips-13-all-signals-lost.json) |
 | Ipuppet Presents: Colin's Classic Cards | 210022 | [210022-ipuppet-presents-colins-classic-cards.json](./210022-ipuppet-presents-colins-classic-cards.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
+| Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
 | iRagdoll | 90672 | [90672-iragdoll.json](./90672-iragdoll.json) |
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
 | Irang: The Last Hope | 257395 | [257395-irang-the-last-hope.json](./257395-irang-the-last-hope.json) |
@@ -1280,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's a Giant! | 185102 | [185102-its-a-giant.json](./185102-its-a-giant.json) |
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's all in your mind | 181394 | [181394-its-all-in-your-mind.json](./181394-its-all-in-your-mind.json) |
+| It's Always Sunny: The Gang Goes Mobile | 110286 | [110286-its-always-sunny-the-gang-goes-mobile.json](./110286-its-always-sunny-the-gang-goes-mobile.json) |
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
 | It's Dungeon Time! | 172748 | [172748-its-dungeon-time.json](./172748-its-dungeon-time.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
