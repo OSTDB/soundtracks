@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TappyLoop | 307612 | [307612-tappyloop.json](./307612-tappyloop.json) |
 | TapRPG: The Second One | 107888 | [107888-taprpg-the-second-one.json](./107888-taprpg-the-second-one.json) |
 | TapTapBadger | 262353 | [262353-taptapbadger.json](./262353-taptapbadger.json) |
+| Taptiles | 79856 | [79856-taptiles.json](./79856-taptiles.json) |
 | Taptron 1999 | 372992 | [372992-taptron-1999.json](./372992-taptron-1999.json) |
 | Tapybara | 311250 | [311250-tapybara.json](./311250-tapybara.json) |
 | Taquero Simulator | 301806 | [301806-taquero-simulator.json](./301806-taquero-simulator.json) |
@@ -864,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teraphobia | 159250 | [159250-teraphobia.json](./159250-teraphobia.json) |
 | Terasene The Light of Her Life | 273102 | [273102-terasene-the-light-of-her-life.json](./273102-terasene-the-light-of-her-life.json) |
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
+| Teratoma: The Last Rebellion | 79867 | [79867-teratoma-the-last-rebellion.json](./79867-teratoma-the-last-rebellion.json) |
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
 | Terebron | 165681 | [165681-terebron.json](./165681-terebron.json) |
 | Terezi Pyrope: Ace Attorney | 304032 | [304032-terezi-pyrope-ace-attorney.json](./304032-terezi-pyrope-ace-attorney.json) |
@@ -2610,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: The Scout - Act 3 | 171612 | [171612-the-lost-legends-of-redwall-the-scout-act-3.json](./171612-the-lost-legends-of-redwall-the-scout-act-3.json) |
 | The Lost Levels | 271772 | [271772-the-lost-levels.json](./271772-the-lost-levels.json) |
 | The Lost Marble | 161390 | [161390-the-lost-marble.json](./161390-the-lost-marble.json) |
+| The Lost Mind of Dr. Brain | 79885 | [79885-the-lost-mind-of-dr-brain.json](./79885-the-lost-mind-of-dr-brain.json) |
 | The Lost Mines | 199103 | [199103-the-lost-mines.json](./199103-the-lost-mines.json) |
 | The Lost Moonbase | 270697 | [270697-the-lost-moonbase.json](./270697-the-lost-moonbase.json) |
 | The Lost Mythologies | 17022 | [17022-the-lost-mythologies.json](./17022-the-lost-mythologies.json) |
@@ -3707,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
+| The War Engine | 79886 | [79886-the-war-engine.json](./79886-the-war-engine.json) |
 | The War of Genesis: Battle of Antaria | 110293 | [110293-the-war-of-genesis-battle-of-antaria.json](./110293-the-war-of-genesis-battle-of-antaria.json) |
 | The War of Genesis: Remnants of Gray | 137626 | [137626-the-war-of-genesis-remnants-of-gray.json](./137626-the-war-of-genesis-remnants-of-gray.json) |
 | The War of the Worlds | 25730 | [25730-the-war-of-the-worlds.json](./25730-the-war-of-the-worlds.json) |
@@ -4959,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Splinter Cell: Pandora Tomorrow | 874 | [874-tom-clancys-splinter-cell-pandora-tomorrow.json](./874-tom-clancys-splinter-cell-pandora-tomorrow.json) |
 | Tom Clancy's SSN | 57686 | [57686-tom-clancys-ssn.json](./57686-tom-clancys-ssn.json) |
 | Tom Clancy’s The Division - Definitive Edition | 394852 | [394852-tom-clancy-s-the-division-definitive-edition.json](./394852-tom-clancy-s-the-division-definitive-edition.json) |
+| Tom Clancy's The Division 2: Gold Steelbook Edition | 79862 | [79862-tom-clancys-the-division-2-gold-steelbook-edition.json](./79862-tom-clancys-the-division-2-gold-steelbook-edition.json) |
 | Tom Clancy's The Division 2: Warlord of New York - Season 1: Shadow Tide | 217527 | [217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json](./217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 10: Price of Power | 217537 | [217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json](./217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 11 | 217529 | [217529-tom-clancys-the-division-2-warlords-of-new-york-season-11.json](./217529-tom-clancys-the-division-2-warlords-of-new-york-season-11.json) |
@@ -5430,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story 2: Buzz Lightyear to the Rescue! | 305791 | [305791-toy-story-2-buzz-lightyear-to-the-rescue.json](./305791-toy-story-2-buzz-lightyear-to-the-rescue.json) |
 | Toy Story 2: Woody Sousaku Daisakusen!! | 58850 | [58850-toy-story-2-woody-sousaku-daisakusen.json](./58850-toy-story-2-woody-sousaku-daisakusen.json) |
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
+| Toy Story Activity Center | 79896 | [79896-toy-story-activity-center.json](./79896-toy-story-activity-center.json) |
 | Toy Story Drop! | 116973 | [116973-toy-story-drop.json](./116973-toy-story-drop.json) |
 | Toy Story Racer | 18944 | [18944-toy-story-racer.json](./18944-toy-story-racer.json) |
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
