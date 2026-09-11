@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
 | Tactics & Strategy Master 2: Princess of Holy Light | 110992 | [110992-tactics-and-strategy-master-2-princess-of-holy-light.json](./110992-tactics-and-strategy-master-2-princess-of-holy-light.json) |
 | Tactics & Strategy Master 3: Gemini Strategy | 284350 | [284350-tactics-and-strategy-master-3-gemini-strategy.json](./284350-tactics-and-strategy-master-3-gemini-strategy.json) |
+| Tactics & Strategy Master: Joan of Arc | 96670 | [96670-tactics-and-strategy-master-joan-of-arc.json](./96670-tactics-and-strategy-master-joan-of-arc.json) |
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
 | Tactics Formula | 141163 | [141163-tactics-formula.json](./141163-tactics-formula.json) |
 | Tactics Maiden | 207856 | [207856-tactics-maiden.json](./207856-tactics-maiden.json) |
