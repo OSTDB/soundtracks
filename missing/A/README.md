@@ -73,7 +73,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
-| A Mall Near You | 229968 | [229968-a-mall-near-you.json](./229968-a-mall-near-you.json) |
 | A man outside | 176501 | [176501-a-man-outside.json](./176501-a-man-outside.json) |
 | A Man with a Monocle | 25005 | [25005-a-man-with-a-monocle.json](./25005-a-man-with-a-monocle.json) |
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
