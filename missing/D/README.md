@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Train | 25298 | [25298-dark-train.json](./25298-dark-train.json) |
 | Dark Traveller | 241952 | [241952-dark-traveller.json](./241952-dark-traveller.json) |
 | Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
+| Dark Visit | 103446 | [103446-dark-visit.json](./103446-dark-visit.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
@@ -385,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
+| Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
@@ -596,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Hungry Diner | 8442 | [8442-dead-hungry-diner.json](./8442-dead-hungry-diner.json) |
 | Dead Hunter | 119760 | [119760-dead-hunter.json](./119760-dead-hunter.json) |
 | Dead In Bermuda | 18440 | [18440-dead-in-bermuda.json](./18440-dead-in-bermuda.json) |
+| Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
 | Dead In Vinland: The Battle of the Heodenings | 114430 | [114430-dead-in-vinland-the-battle-of-the-heodenings.json](./114430-dead-in-vinland-the-battle-of-the-heodenings.json) |
 | Dead In Vinland: The Vallhund | 114431 | [114431-dead-in-vinland-the-vallhund.json](./114431-dead-in-vinland-the-vallhund.json) |
 | Dead Inside | 377576 | [377576-dead-inside.json](./377576-dead-inside.json) |
@@ -973,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
 | Deformed | 244248 | [244248-deformed.json](./244248-deformed.json) |
+| Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
@@ -1293,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
+| Destiny of Altrais | 103427 | [103427-destiny-of-altrais.json](./103427-destiny-of-altrais.json) |
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
@@ -1769,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Dishonored: Death of the Outsider | 37030 | [37030-dishonored-death-of-the-outsider.json](./37030-dishonored-death-of-the-outsider.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
+| Dishwasher | 103436 | [103436-dishwasher.json](./103436-dishwasher.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
 | Dislyte | 172684 | [172684-dislyte.json](./172684-dislyte.json) |
@@ -2007,7 +2013,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
 | Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
+| Dog's Quest | 103454 | [103454-dogs-quest.json](./103454-dogs-quest.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
+| Doge and the Lost Kitten | 103409 | [103409-doge-and-the-lost-kitten.json](./103409-doge-and-the-lost-kitten.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
@@ -2963,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Empire | 376459 | [376459-drug-empire.json](./376459-drug-empire.json) |
 | Drug Grower Simulator | 217508 | [217508-drug-grower-simulator.json](./217508-drug-grower-simulator.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
+| Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
 | Drugz: 2D Drug Empire Simulator | 253398 | [253398-drugz-2d-drug-empire-simulator.json](./253398-drugz-2d-drug-empire-simulator.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
