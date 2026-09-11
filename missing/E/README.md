@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle Simulator | 186817 | [186817-eagle-simulator.json](./186817-eagle-simulator.json) |
 | Eagle Simulator | 86727 | [86727-eagle-simulator.json](./86727-eagle-simulator.json) |
 | Eagle: Special Forces | 333383 | [333383-eagle-special-forces.json](./333383-eagle-special-forces.json) |
+| Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
 | Eared Hero | 68194 | [68194-eared-hero.json](./68194-eared-hero.json) |
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
@@ -1008,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Mystery: Alien Impact | 174311 | [174311-escape-mystery-alien-impact.json](./174311-escape-mystery-alien-impact.json) |
 | Escape or Imprison | 227253 | [227253-escape-or-imprison.json](./227253-escape-or-imprison.json) |
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
+| Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
