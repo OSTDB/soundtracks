@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Collector | 207503 | [207503-energy-collector.json](./207503-energy-collector.json) |
 | Energy Crush | 325445 | [325445-energy-crush.json](./325445-energy-crush.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
+| Energy Hunter Boy | 119709 | [119709-energy-hunter-boy.json](./119709-energy-hunter-boy.json) |
 | Energy Survivors | 224785 | [224785-energy-survivors.json](./224785-energy-survivors.json) |
 | Energy Tail | 215924 | [215924-energy-tail.json](./215924-energy-tail.json) |
 | Energy Tanks | 269270 | [269270-energy-tanks.json](./269270-energy-tanks.json) |
@@ -1332,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
+| Exit From | 119692 | [119692-exit-from.json](./119692-exit-from.json) |
 | Exit Lab 15 Rooms | 390525 | [390525-exit-lab-15-rooms.json](./390525-exit-lab-15-rooms.json) |
 | Exit Lab Beginner Level | 390494 | [390494-exit-lab-beginner-level.json](./390494-exit-lab-beginner-level.json) |
 | Exit Lab Expert Level | 390493 | [390493-exit-lab-expert-level.json](./390493-exit-lab-expert-level.json) |
