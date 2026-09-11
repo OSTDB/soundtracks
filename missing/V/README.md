@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vallen | 241955 | [241955-vallen.json](./241955-vallen.json) |
 | Valletine against Darkne | 159811 | [159811-valletine-against-darkne.json](./159811-valletine-against-darkne.json) |
 | Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
+| Valley of Decay | 119677 | [119677-valley-of-decay.json](./119677-valley-of-decay.json) |
 | Valley of Shadow | 164970 | [164970-valley-of-shadow.json](./164970-valley-of-shadow.json) |
 | Valley of Stars | 338576 | [338576-valley-of-stars.json](./338576-valley-of-stars.json) |
 | Valley of Tribes | 338575 | [338575-valley-of-tribes.json](./338575-valley-of-tribes.json) |
@@ -246,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Games 2000 | 46639 | [46639-vegas-games-2000.json](./46639-vegas-games-2000.json) |
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
+| Vegetarian Alliance | 119683 | [119683-vegetarian-alliance.json](./119683-vegetarian-alliance.json) |
 | Veggie Eggs | 373561 | [373561-veggie-eggs.json](./373561-veggie-eggs.json) |
 | Veggie Killer | 86334 | [86334-veggie-killer.json](./86334-veggie-killer.json) |
 | Veggie Menace | 203926 | [203926-veggie-menace.json](./203926-veggie-menace.json) |
