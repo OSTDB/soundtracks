@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expand | 18474 | [18474-expand.json](./18474-expand.json) |
 | Expand & Exterminate: Terrytorial Disputes - Endless Base Defense | 367935 | [367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json](./367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json) |
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
+| Expedia Cenote Experience | 109626 | [109626-expedia-cenote-experience.json](./109626-expedia-cenote-experience.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
 | Expedition Agartha: Supporter Pack | 241987 | [241987-expedition-agartha-supporter-pack.json](./241987-expedition-agartha-supporter-pack.json) |
 | Expedition Amazon | 23898 | [23898-expedition-amazon.json](./23898-expedition-amazon.json) |
