@@ -774,10 +774,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
 | Catching | 117654 | [117654-catching.json](./117654-catching.json) |
+| Catchy Tunes | 96772 | [96772-catchy-tunes.json](./96772-catchy-tunes.json) |
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
+| Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
 | Catfishing Cuties | 181854 | [181854-catfishing-cuties.json](./181854-catfishing-cuties.json) |
@@ -1965,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coast Defender | 269038 | [269038-coast-defender.json](./269038-coast-defender.json) |
 | Coast team | 118438 | [118438-coast-team.json](./118438-coast-team.json) |
 | Coastal Kitchen Simulator | 347721 | [347721-coastal-kitchen-simulator.json](./347721-coastal-kitchen-simulator.json) |
+| Coastiality | 96668 | [96668-coastiality.json](./96668-coastiality.json) |
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
 | Coastline Flight Simulator | 154006 | [154006-coastline-flight-simulator.json](./154006-coastline-flight-simulator.json) |
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
