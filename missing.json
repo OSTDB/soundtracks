@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T16:18:34.322Z",
-  "total_missing": 58598,
+  "generated_at": "2026-09-11T16:21:03.347Z",
+  "total_missing": 58597,
   "games": [
     {
       "igdb_id": 306086,
@@ -2281,11 +2281,6 @@
       "igdb_id": 338711,
       "game_name": "A Moderately Uncomfortable Night with Tux",
       "file": "missing/A/338711-a-moderately-uncomfortable-night-with-tux.json"
-    },
-    {
-      "igdb_id": 67990,
-      "game_name": "A Morons Challenge",
-      "file": "missing/A/67990-a-morons-challenge.json"
     },
     {
       "igdb_id": 135835,
