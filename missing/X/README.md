@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xezi: Story Mode | 23861 | [23861-xezi-story-mode.json](./23861-xezi-story-mode.json) |
 | Xi | 335683 | [335683-xi.json](./335683-xi.json) |
 | XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
+| Xiákè Yīngxióng Zhuán | 86019 | [86019-xiake-yingxiong-zhuan.json](./86019-xiake-yingxiong-zhuan.json) |
 | Xián Shàng Huíyīn | 304027 | [304027-xian-shang-huiyin.json](./304027-xian-shang-huiyin.json) |
 | Xiāngshān 31 Hào | 120938 | [120938-xiangshan-31-hao.json](./120938-xiangshan-31-hao.json) |
 | Xiàngsù Nányǒu Yǔyīn: Wánzhěng Bǎn | 161382 | [161382-xiangsu-nanyou-yuyin-wanzheng-ban.json](./161382-xiangsu-nanyou-yuyin-wanzheng-ban.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
 | Xilost | 118354 | [118354-xilost.json](./118354-xilost.json) |
+| Xin Jianxia Qingyuan | 86014 | [86014-xin-jianxia-qingyuan.json](./86014-xin-jianxia-qingyuan.json) |
 | Xin Juedai Shuangjiao 2 | 78051 | [78051-xin-juedai-shuangjiao-2.json](./78051-xin-juedai-shuangjiao-2.json) |
 | Xin Juedai Shuangjiao 3 | 68688 | [68688-xin-juedai-shuangjiao-3.json](./68688-xin-juedai-shuangjiao-3.json) |
 | Xīn Shéndiāo Xiálǚ zhī Wánjiépiān | 295240 | [295240-xin-shendiao-xialu-zhi-wanjiepian.json](./295240-xin-shendiao-xialu-zhi-wanjiepian.json) |
@@ -166,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xuan Dou Zhi Wang | 93555 | [93555-xuan-dou-zhi-wang.json](./93555-xuan-dou-zhi-wang.json) |
 | Xuan Yuan Sword Luminary | 196321 | [196321-xuan-yuan-sword-luminary.json](./196321-xuan-yuan-sword-luminary.json) |
 | Xuan Yuan Sword: The Gate of Firmament | 90974 | [90974-xuan-yuan-sword-the-gate-of-firmament.json](./90974-xuan-yuan-sword-the-gate-of-firmament.json) |
+| Xuan-Yuan Jiàn Wàizhuàn: Cāng zhī Tāo | 86029 | [86029-xuan-yuan-jian-waizhuan-cang-zhi-tao.json](./86029-xuan-yuan-jian-waizhuan-cang-zhi-tao.json) |
 | Xuan-Yuan Sword | 93064 | [93064-xuan-yuan-sword.json](./93064-xuan-yuan-sword.json) |
 | Xuan-Yuan Sword 5: A Sword Above the Clouds and the Sentiments of the World of Shanhai | 78050 | [78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json](./78050-xuan-yuan-sword-5-a-sword-above-the-clouds-and-the-sentiments-of-the-world-of-shanhai.json) |
 | Xuan-Yuan Sword 6: The Phoenix Soars in the Sky among Millennial Clouds | 126039 | [126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json](./126039-xuan-yuan-sword-6-the-phoenix-soars-in-the-sky-among-millennial-clouds.json) |
