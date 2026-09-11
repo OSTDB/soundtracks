@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warshift | 14075 | [14075-warshift.json](./14075-warshift.json) |
 | Warside | 230528 | [230528-warside.json](./230528-warside.json) |
 | Warspace 2 | 158652 | [158652-warspace-2.json](./158652-warspace-2.json) |
+| Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
@@ -1005,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park 3: Alaska | 156153 | [156153-wildlife-park-3-alaska.json](./156153-wildlife-park-3-alaska.json) |
 | Wildlife Park 3: Dino Invasion | 171071 | [171071-wildlife-park-3-dino-invasion.json](./171071-wildlife-park-3-dino-invasion.json) |
 | Wildlife Park: 15 Years Anniversary Trilogy | 136379 | [136379-wildlife-park-15-years-anniversary-trilogy.json](./136379-wildlife-park-15-years-anniversary-trilogy.json) |
+| Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
@@ -1437,6 +1439,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
 | Word Search Coffee Break | 415952 | [415952-word-search-coffee-break.json](./415952-word-search-coffee-break.json) |
 | Word Search Daily HD | 355011 | [355011-word-search-daily-hd.json](./355011-word-search-daily-hd.json) |
+| Word Search Fun | 87165 | [87165-word-search-fun.json](./87165-word-search-fun.json) |
+| Word Search Game | 86915 | [86915-word-search-game.json](./86915-word-search-game.json) |
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
@@ -1457,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Worm | 229344 | [229344-word-worm.json](./229344-word-worm.json) |
 | Word Worm | 361732 | [361732-word-worm.json](./361732-word-worm.json) |
 | Word Wow Around the World | 87298 | [87298-word-wow-around-the-world.json](./87298-word-wow-around-the-world.json) |
+| Word Wow Big City | 87127 | [87127-word-wow-big-city.json](./87127-word-wow-big-city.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
