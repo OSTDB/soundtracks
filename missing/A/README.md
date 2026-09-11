@@ -98,7 +98,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
-| A Spaceship Accident | 372446 | [372446-a-spaceship-accident.json](./372446-a-spaceship-accident.json) |
 | A Spooky Teaparty | 221172 | [221172-a-spooky-teaparty.json](./221172-a-spooky-teaparty.json) |
 | A Squire's Tale | 131616 | [131616-a-squires-tale.json](./131616-a-squires-tale.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
