@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
 | Mahluk: Dark demon | 31988 | [31988-mahluk-dark-demon.json](./31988-mahluk-dark-demon.json) |
 | Mahoroba Stories: Library of Fortune | 146244 | [146244-mahoroba-stories-library-of-fortune.json](./146244-mahoroba-stories-library-of-fortune.json) |
+| Mahou Arms | 96114 | [96114-mahou-arms.json](./96114-mahou-arms.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
@@ -2295,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Crafty | 147392 | [147392-mini-crafty.json](./147392-mini-crafty.json) |
 | Mini Crawler | 326077 | [326077-mini-crawler.json](./326077-mini-crawler.json) |
 | Mini Doom | 241983 | [241983-mini-doom.json](./241983-mini-doom.json) |
+| Mini Doom 2 | 95994 | [95994-mini-doom-2.json](./95994-mini-doom-2.json) |
 | Mini Drift Car | 337460 | [337460-mini-drift-car.json](./337460-mini-drift-car.json) |
 | Mini Drift Car: All Cars Key | 337461 | [337461-mini-drift-car-all-cars-key.json](./337461-mini-drift-car-all-cars-key.json) |
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
@@ -3322,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Grand Edition | 315869 | [315869-moto-rush-gt-grand-edition.json](./315869-moto-rush-gt-grand-edition.json) |
 | Moto Rush GT: Hyper Edition | 338005 | [338005-moto-rush-gt-hyper-edition.json](./338005-moto-rush-gt-hyper-edition.json) |
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
+| Moto X3M 2 | 95990 | [95990-moto-x3m-2.json](./95990-moto-x3m-2.json) |
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
