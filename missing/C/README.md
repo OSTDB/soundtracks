@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
+| Cartooners | 94685 | [94685-cartooners.json](./94685-cartooners.json) |
 | Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
 | Carvalho: Los Pájaros de Bangkok | 138790 | [138790-carvalho-los-pajaros-de-bangkok.json](./138790-carvalho-los-pajaros-de-bangkok.json) |
 | Carved In Stone | 321351 | [321351-carved-in-stone.json](./321351-carved-in-stone.json) |
@@ -1027,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
+| Champ Asterocks | 94689 | [94689-champ-asterocks.json](./94689-champ-asterocks.json) |
 | Champ at Dawn | 231349 | [231349-champ-at-dawn.json](./231349-champ-at-dawn.json) |
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
 | Champion Base Ball Part-2 | 125958 | [125958-champion-base-ball-part-2.json](./125958-champion-base-ball-part-2.json) |
@@ -1267,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
+| Chicken | 94716 | [94716-chicken.json](./94716-chicken.json) |
 | Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
 | Chicken Assassin: Reloaded | 100501 | [100501-chicken-assassin-reloaded.json](./100501-chicken-assassin-reloaded.json) |
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
@@ -1275,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Defense | 181398 | [181398-chicken-defense.json](./181398-chicken-defense.json) |
 | Chicken Done | 273374 | [273374-chicken-done.json](./273374-chicken-done.json) |
 | Chicken Flight | 354426 | [354426-chicken-flight.json](./354426-chicken-flight.json) |
+| Chicken Fraction | 94687 | [94687-chicken-fraction.json](./94687-chicken-fraction.json) |
 | Chicken Freeze! | 206968 | [206968-chicken-freeze.json](./206968-chicken-freeze.json) |
 | Chicken Fries | 377072 | [377072-chicken-fries.json](./377072-chicken-fries.json) |
 | Chicken Gun | 413002 | [413002-chicken-gun.json](./413002-chicken-gun.json) |
@@ -2402,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conception II: Children of the Seven Stars - Limited Edition | 42669 | [42669-conception-ii-children-of-the-seven-stars-limited-edition.json](./42669-conception-ii-children-of-the-seven-stars-limited-edition.json) |
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concert | 247542 | [247542-concert.json](./247542-concert.json) |
+| Concerto Gate | 94709 | [94709-concerto-gate.json](./94709-concerto-gate.json) |
 | Concourse X-Ray | 179172 | [179172-concourse-x-ray.json](./179172-concourse-x-ray.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
 | Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
@@ -2617,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
+| Corncob Deluxe | 94704 | [94704-corncob-deluxe.json](./94704-corncob-deluxe.json) |
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
@@ -3105,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
 | Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
 | Cribbage: Classic Card Game | 87704 | [87704-cribbage-classic-card-game.json](./87704-cribbage-classic-card-game.json) |
+| Cricket 96 | 94684 | [94684-cricket-96.json](./94684-cricket-96.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
 | Cricket Captain 2025 | 351614 | [351614-cricket-captain-2025.json](./351614-cricket-captain-2025.json) |
 | Cricket Heroes: VR | 295785 | [295785-cricket-heroes-vr.json](./295785-cricket-heroes-vr.json) |
