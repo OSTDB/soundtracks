@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yacht Mechanic Simulator | 133364 | [133364-yacht-mechanic-simulator.json](./133364-yacht-mechanic-simulator.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
 | YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
+| Yahrit! | 105291 | [105291-yahrit.json](./105291-yahrit.json) |
 | Yahtzee Party | 205809 | [205809-yahtzee-party.json](./205809-yahtzee-party.json) |
 | Yahtzee! Wild | 355013 | [355013-yahtzee-wild.json](./355013-yahtzee-wild.json) |
 | Yaken Rodem | 333543 | [333543-yaken-rodem.json](./333543-yaken-rodem.json) |
