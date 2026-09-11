@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
+| Wallenda | 111627 | [111627-wallenda.json](./111627-wallenda.json) |
 | Wallrun Dot Love | 185068 | [185068-wallrun-dot-love.json](./185068-wallrun-dot-love.json) |
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
 | Wally wo Sagase! Ehon no Kuni no Daibouken! | 37769 | [37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json](./37769-wally-wo-sagase-ehon-no-kuni-no-daibouken.json) |
@@ -233,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbot Engineer | 337458 | [337458-warbot-engineer.json](./337458-warbot-engineer.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
+| Warcraft III: Reforged - Spoils of War Edition | 111652 | [111652-warcraft-iii-reforged-spoils-of-war-edition.json](./111652-warcraft-iii-reforged-spoils-of-war-edition.json) |
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
@@ -288,6 +290,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Mechanicus | 88461 | [88461-warhammer-40-000-mechanicus.json](./88461-warhammer-40-000-mechanicus.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Pack | 280170 | [280170-warhammer-40-000-rogue-trader-voidfarer-pack.json](./280170-warhammer-40-000-rogue-trader-voidfarer-pack.json) |
+| Warhammer 40,000: Sanctus Reach - Horrors of the Warp | 111746 | [111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json](./111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json) |
+| Warhammer 40,000: Sanctus Reach - Legacy of the Weirdboy | 111745 | [111745-warhammer-40-000-sanctus-reach-legacy-of-the-weirdboy.json](./111745-warhammer-40-000-sanctus-reach-legacy-of-the-weirdboy.json) |
 | Warhammer 40,000: Sanctus Reach - Sons of Cadia | 111744 | [111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json](./111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json) |
 | Warhammer 40,000: Space Marine - Chaos Unleashed Map Pack | 163390 | [163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json](./163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json) |
 | Warhammer 40,000: Space Marine - Death Guard Champion Chapter Pack DLC | 225870 | [225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json](./225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json) |
@@ -532,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
+| WebbVR: The James Webb Space Telescope Virtual Experience | 111631 | [111631-webbvr-the-james-webb-space-telescope-virtual-experience.json](./111631-webbvr-the-james-webb-space-telescope-virtual-experience.json) |
 | WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
@@ -1465,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
 | World Cup USA 94 | 365669 | [365669-world-cup-usa-94.json](./365669-world-cup-usa-94.json) |
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
+| World Enduro Rally | 111671 | [111671-world-enduro-rally.json](./111671-world-enduro-rally.json) |
 | World Escape | 68667 | [68667-world-escape.json](./68667-world-escape.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
