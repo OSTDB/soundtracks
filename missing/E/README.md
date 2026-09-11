@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape War | 153960 | [153960-escape-war.json](./153960-escape-war.json) |
 | Escape Whisper Valley | 61673 | [61673-escape-whisper-valley.json](./61673-escape-whisper-valley.json) |
 | Escape With Bombs | 179134 | [179134-escape-with-bombs.json](./179134-escape-with-bombs.json) |
+| Escape Zolstar | 121633 | [121633-escape-zolstar.json](./121633-escape-zolstar.json) |
 | Escape Zombie Land | 75898 | [75898-escape-zombie-land.json](./75898-escape-zombie-land.json) |
 | Escape: Lia | 195173 | [195173-escape-lia.json](./195173-escape-lia.json) |
 | Escapee GO! | 67059 | [67059-escapee-go.json](./67059-escapee-go.json) |
