@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T17:04:16.299Z",
-  "total_missing": 58705,
+  "generated_at": "2026-09-11T17:10:56.028Z",
+  "total_missing": 58704,
   "games": [
     {
       "igdb_id": 306086,
@@ -2306,11 +2306,6 @@
       "igdb_id": 334702,
       "game_name": "A Night Out.",
       "file": "missing/A/334702-a-night-out.json"
-    },
-    {
-      "igdb_id": 331294,
-      "game_name": "A Night With: Emily",
-      "file": "missing/A/331294-a-night-with-emily.json"
     },
     {
       "igdb_id": 318180,
