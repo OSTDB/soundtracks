@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out There Chronicles - Ep. 1 | 58224 | [58224-out-there-chronicles-ep-1.json](./58224-out-there-chronicles-ep-1.json) |
 | Out There Chronicles - Ep. 2 | 200185 | [200185-out-there-chronicles-ep-2.json](./200185-out-there-chronicles-ep-2.json) |
 | Out There: Ω The Alliance | 147433 | [147433-out-there-the-alliance.json](./147433-out-there-the-alliance.json) |
+| Out Zone | 93519 | [93519-out-zone.json](./93519-out-zone.json) |
 | Out, Damned Spot! | 112321 | [112321-out-damned-spot.json](./112321-out-damned-spot.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
 | Outbound: School Bus Adventures | 401492 | [401492-outbound-school-bus-adventures.json](./401492-outbound-school-bus-adventures.json) |
