@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
 | Infernax | 122386 | [122386-infernax.json](./122386-infernax.json) |
 | Infernium | 86337 | [86337-infernium.json](./86337-infernium.json) |
+| Inferno | 121614 | [121614-inferno.json](./121614-inferno.json) |
 | Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
