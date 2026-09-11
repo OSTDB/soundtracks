@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T06:51:04.408Z",
-  "total_missing": 56984,
+  "generated_at": "2026-09-11T07:01:16.086Z",
+  "total_missing": 56986,
   "games": [
     {
       "igdb_id": 306086,
@@ -1986,11 +1986,6 @@
       "igdb_id": 211396,
       "game_name": "A Forever Solitude",
       "file": "missing/A/211396-a-forever-solitude.json"
-    },
-    {
-      "igdb_id": 150611,
-      "game_name": "A Fox and His Robot",
-      "file": "missing/A/150611-a-fox-and-his-robot.json"
     },
     {
       "igdb_id": 142477,
@@ -69403,6 +69398,11 @@
       "file": "missing/D/57038-dungeons-of-kremlin-remastered.json"
     },
     {
+      "igdb_id": 115073,
+      "game_name": "Dungeons of Legend: Cast Within",
+      "file": "missing/D/115073-dungeons-of-legend-cast-within.json"
+    },
+    {
       "igdb_id": 133989,
       "game_name": "Dungeons of Loot",
       "file": "missing/D/133989-dungeons-of-loot.json"
@@ -122921,6 +122921,11 @@
       "igdb_id": 297223,
       "game_name": "Katana Of Rin",
       "file": "missing/K/297223-katana-of-rin.json"
+    },
+    {
+      "igdb_id": 115074,
+      "game_name": "Katana Soul",
+      "file": "missing/K/115074-katana-soul.json"
     },
     {
       "igdb_id": 339625,
@@ -210026,6 +210031,11 @@
       "igdb_id": 310975,
       "game_name": "Sirène",
       "file": "missing/S/310975-sirene.json"
+    },
+    {
+      "igdb_id": 115075,
+      "game_name": "Sirius: Age of the Free Agents",
+      "file": "missing/S/115075-sirius-age-of-the-free-agents.json"
     },
     {
       "igdb_id": 306336,
