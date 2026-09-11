@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Frankl: Puzzle no Tou | 254499 | [254499-peter-frankl-puzzle-no-tou.json](./254499-peter-frankl-puzzle-no-tou.json) |
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
+| Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
 | Peter's Journey | 306096 | [306096-peters-journey.json](./306096-peters-journey.json) |
@@ -2106,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyBoost | 172681 | [172681-polyboost.json](./172681-polyboost.json) |
 | Polybot-7 | 97849 | [97849-polybot-7.json](./97849-polybot-7.json) |
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
+| PolyCube | 88232 | [88232-polycube.json](./88232-polycube.json) |
 | PolyDrift | 309878 | [309878-polydrift.json](./309878-polydrift.json) |
 | Polyemisokos | 205572 | [205572-polyemisokos.json](./205572-polyemisokos.json) |
 | Polyfield WW2 | 102148 | [102148-polyfield-ww2.json](./102148-polyfield-ww2.json) |
@@ -2444,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President | 93038 | [93038-president.json](./93038-president.json) |
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
 | President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
+| PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
@@ -3205,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle & Dragons | 8590 | [8590-puzzle-and-dragons.json](./8590-puzzle-and-dragons.json) |
 | Puzzle & Dragons Z + Puzzle & Dragons: Super Mario Bros. Edition | 85357 | [85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json](./85357-puzzle-and-dragons-z-puzzle-and-dragons-super-mario-bros-edition.json) |
 | Puzzle & Maze | 152870 | [152870-puzzle-and-maze.json](./152870-puzzle-and-maze.json) |
+| Puzzle 3D | 88180 | [88180-puzzle-3d.json](./88180-puzzle-3d.json) |
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
@@ -3291,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
 | Puzzled Heroes | 116294 | [116294-puzzled-heroes.json](./116294-puzzled-heroes.json) |
 | Puzzled Love | 180813 | [180813-puzzled-love.json](./180813-puzzled-love.json) |
+| Puzzlelicious | 88260 | [88260-puzzlelicious.json](./88260-puzzlelicious.json) |
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
