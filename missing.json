@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T11:18:36.208Z",
-  "total_missing": 57690,
+  "generated_at": "2026-09-11T11:21:12.500Z",
+  "total_missing": 57689,
   "games": [
     {
       "igdb_id": 306086,
@@ -2116,11 +2116,6 @@
       "igdb_id": 261814,
       "game_name": "A Koopa's Revenge",
       "file": "missing/A/261814-a-koopas-revenge.json"
-    },
-    {
-      "igdb_id": 138215,
-      "game_name": "A Landlord's Dream",
-      "file": "missing/A/138215-a-landlords-dream.json"
     },
     {
       "igdb_id": 184082,
