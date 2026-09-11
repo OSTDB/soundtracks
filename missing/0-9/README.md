@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0Hz Zero Hertz | 216771 | [216771-0hz-zero-hertz.json](./216771-0hz-zero-hertz.json) |
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
+| 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
 | 1 Screen Platformer 2 | 133473 | [133473-1-screen-platformer-2.json](./133473-1-screen-platformer-2.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
