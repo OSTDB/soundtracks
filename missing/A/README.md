@@ -18,7 +18,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
 | A Certain Incremental Exoplanet | 389999 | [389999-a-certain-incremental-exoplanet.json](./389999-a-certain-incremental-exoplanet.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
-| A Clever Label | 152849 | [152849-a-clever-label.json](./152849-a-clever-label.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Coloring Break: Expansion pack 3 | 357769 | [357769-a-coloring-break-expansion-pack-3.json](./357769-a-coloring-break-expansion-pack-3.json) |
 | A Coloring Break: Expansion pack 4 | 357770 | [357770-a-coloring-break-expansion-pack-4.json](./357770-a-coloring-break-expansion-pack-4.json) |
