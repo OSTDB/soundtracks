@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahluk: Dark demon | 31988 | [31988-mahluk-dark-demon.json](./31988-mahluk-dark-demon.json) |
 | Mahoroba Stories: Library of Fortune | 146244 | [146244-mahoroba-stories-library-of-fortune.json](./146244-mahoroba-stories-library-of-fortune.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
+| Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
 | Mahoutsukai ni Naru Houhou | 97338 | [97338-mahoutsukai-ni-naru-houhou.json](./97338-mahoutsukai-ni-naru-houhou.json) |
 | Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
@@ -390,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
+| Majestic: The Card Game | 109071 | [109071-majestic-the-card-game.json](./109071-majestic-the-card-game.json) |
 | Majesty 2 Collection | 30147 | [30147-majesty-2-collection.json](./30147-majesty-2-collection.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Maji de Watashi ni Koishinasai! A Plus Disk | 112295 | [112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json](./112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json) |
@@ -441,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
 | MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
+| Making Lovers: Geki Icha After Story Vol.01 | 108975 | [108975-making-lovers-geki-icha-after-story-vol-01.json](./108975-making-lovers-geki-icha-after-story-vol-01.json) |
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
@@ -467,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malvin`s Prehistoric Adventures | 129228 | [129228-malvin-s-prehistoric-adventures.json](./129228-malvin-s-prehistoric-adventures.json) |
 | Malvirta Station | 271459 | [271459-malvirta-station.json](./271459-malvirta-station.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
+| Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
 | Māmā, Bié Zǒu | 130930 | [130930-mama-bie-zou.json](./130930-mama-bie-zou.json) |
 | Mama's 2-Pack | 86075 | [86075-mamas-2-pack.json](./86075-mamas-2-pack.json) |
 | Mama's Farm: Match ‪3‬ | 144995 | [144995-mamas-farm-match-3.json](./144995-mamas-farm-match-3.json) |
@@ -1165,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meal Quest | 376460 | [376460-meal-quest.json](./376460-meal-quest.json) |
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Mean Beans | 236289 | [236289-mean-beans.json](./236289-mean-beans.json) |
+| Meander | 108986 | [108986-meander.json](./108986-meander.json) |
 | Meander Land | 265703 | [265703-meander-land.json](./265703-meander-land.json) |
 | Meaning | 82891 | [82891-meaning.json](./82891-meaning.json) |
 | Meaningful Adventures | 218479 | [218479-meaningful-adventures.json](./218479-meaningful-adventures.json) |
@@ -1397,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
 | Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
 | Megamaze | 208393 | [208393-megamaze.json](./208393-megamaze.json) |
+| MegaMek | 108982 | [108982-megamek.json](./108982-megamek.json) |
 | Megami Ibunroku Persona | 240506 | [240506-megami-ibunroku-persona.json](./240506-megami-ibunroku-persona.json) |
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
@@ -2300,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
 | MiniBotz | 31929 | [31929-minibotz.json](./31929-minibotz.json) |
 | Minibuilder | 352182 | [352182-minibuilder.json](./352182-minibuilder.json) |
+| Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
 | Minifiend | 253034 | [253034-minifiend.json](./253034-minifiend.json) |
 | Minigame Party | 257648 | [257648-minigame-party.json](./257648-minigame-party.json) |
 | Minigame Party VR | 33146 | [33146-minigame-party-vr.json](./33146-minigame-party-vr.json) |
@@ -2937,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Retsuden Oreca Battle | 365701 | [365701-monster-retsuden-oreca-battle.json](./365701-monster-retsuden-oreca-battle.json) |
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
+| Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
 | Monster Slayer: Motion Edition | 363413 | [363413-monster-slayer-motion-edition.json](./363413-monster-slayer-motion-edition.json) |
 | Monster Smoosh | 412307 | [412307-monster-smoosh.json](./412307-monster-smoosh.json) |
@@ -3071,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
 | Mopar Drag N Brag | 246965 | [246965-mopar-drag-n-brag.json](./246965-mopar-drag-n-brag.json) |
+| Mope.io | 108987 | [108987-mope-io.json](./108987-mope-io.json) |
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
