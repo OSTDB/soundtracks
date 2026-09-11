@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
 | Ghostwinter | 148558 | [148558-ghostwinter.json](./148558-ghostwinter.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
+| Ghoul Britannia: Land of Hope and Gorey | 116979 | [116979-ghoul-britannia-land-of-hope-and-gorey.json](./116979-ghoul-britannia-land-of-hope-and-gorey.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
 | Ghouls | 13721 | [13721-ghouls.json](./13721-ghouls.json) |
 | Ghouls 'n Ghosts Remix | 191269 | [191269-ghouls-n-ghosts-remix.json](./191269-ghouls-n-ghosts-remix.json) |
@@ -1321,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
 | Gracia | 301844 | [301844-gracia.json](./301844-gracia.json) |
+| Grackon's Curse | 117020 | [117020-grackons-curse.json](./117020-grackons-curse.json) |
 | Grade Sword | 245883 | [245883-grade-sword.json](./245883-grade-sword.json) |
 | Grader Simulator: Road Work | 231948 | [231948-grader-simulator-road-work.json](./231948-grader-simulator-road-work.json) |
 | Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
