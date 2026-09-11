@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
+| Manhole | 100229 | [100229-manhole.json](./100229-manhole.json) |
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
 | Mani Mouse | 239327 | [239327-mani-mouse.json](./239327-mani-mouse.json) |
 | Mani Yugi Tokoyo | 96106 | [96106-mani-yugi-tokoyo.json](./96106-mani-yugi-tokoyo.json) |
@@ -569,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
+| Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
 | Manufactoria 2022 | 150616 | [150616-manufactoria-2022.json](./150616-manufactoria-2022.json) |
 | Manufactur'inc. | 265956 | [265956-manufacturinc.json](./265956-manufacturinc.json) |
 | Manuganu | 175908 | [175908-manuganu.json](./175908-manuganu.json) |
@@ -2985,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
 | Monster Tavern | 382776 | [382776-monster-tavern.json](./382776-monster-tavern.json) |
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
+| Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Truck Madness | 146887 | [146887-monster-truck-madness.json](./146887-monster-truck-madness.json) |
 | Monster Truck Madness 64 | 10615 | [10615-monster-truck-madness-64.json](./10615-monster-truck-madness-64.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
