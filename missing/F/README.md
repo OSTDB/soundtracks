@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Kingdom | 120421 | [120421-fantastic-kingdom.json](./120421-fantastic-kingdom.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
+| Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
 | Fantasy Cascade: Episode 1 - Overspill | 218166 | [218166-fantasy-cascade-episode-1-overspill.json](./218166-fantasy-cascade-episode-1-overspill.json) |
@@ -1146,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Face | 353895 | [353895-fish-face.json](./353895-fish-face.json) |
 | Fish Fight! | 332998 | [332998-fish-fight.json](./332998-fish-fight.json) |
 | Fish Fly Fever | 134685 | [134685-fish-fly-fever.json](./134685-fish-fly-fever.json) |
+| Fish For Reel | 87185 | [87185-fish-for-reel.json](./87185-fish-for-reel.json) |
 | Fish Game | 269021 | [269021-fish-game.json](./269021-fish-game.json) |
 | Fish Game | 381020 | [381020-fish-game.json](./381020-fish-game.json) |
 | Fish Heroes | 237367 | [237367-fish-heroes.json](./237367-fish-heroes.json) |
@@ -1433,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Time | 347681 | [347681-flight-time.json](./347681-flight-time.json) |
 | Flight Unlimited 2K17 | 87550 | [87550-flight-unlimited-2k17.json](./87550-flight-unlimited-2k17.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
+| Flikken Game: De Achtervolging | 86032 | [86032-flikken-game-de-achtervolging.json](./86032-flikken-game-de-achtervolging.json) |
 | Flimbo's Quest | 12103 | [12103-flimbos-quest.json](./12103-flimbos-quest.json) |
 | Fling | 93541 | [93541-fling.json](./93541-fling.json) |
 | Fling with a Tiefling | 322001 | [322001-fling-with-a-tiefling.json](./322001-fling-with-a-tiefling.json) |
@@ -2563,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Further Beyond Fighting | 61121 | [61121-further-beyond-fighting.json](./61121-further-beyond-fighting.json) |
 | Further Skies | 321388 | [321388-further-skies.json](./321388-further-skies.json) |
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
+| FurtherTime 1.0 | 86038 | [86038-furthertime-1-0.json](./86038-furthertime-1-0.json) |
 | Furtive | 173259 | [173259-furtive.json](./173259-furtive.json) |
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
 | Furusato wo Sagasu Sanshimai | 119682 | [119682-furusato-wo-sagasu-sanshimai.json](./119682-furusato-wo-sagasu-sanshimai.json) |
@@ -2611,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
+| Fútbol | 86007 | [86007-futbol.json](./86007-futbol.json) |
 | Futebol | 92984 | [92984-futebol.json](./92984-futebol.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
 | Futuclass: Hydrogen & Oxygen | 170492 | [170492-futuclass-hydrogen-and-oxygen.json](./170492-futuclass-hydrogen-and-oxygen.json) |
