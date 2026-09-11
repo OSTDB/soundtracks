@@ -87,7 +87,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night Out. | 334702 | [334702-a-night-out.json](./334702-a-night-out.json) |
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
-| A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
 | A Paper Mario Puzzle Game | 323741 | [323741-a-paper-mario-puzzle-game.json](./323741-a-paper-mario-puzzle-game.json) |
 | A Passive Boy at the Huntress Clinic | 232425 | [232425-a-passive-boy-at-the-huntress-clinic.json](./232425-a-passive-boy-at-the-huntress-clinic.json) |
 | A Passive Boy at the Huntress Clinic | 240215 | [240215-a-passive-boy-at-the-huntress-clinic.json](./240215-a-passive-boy-at-the-huntress-clinic.json) |
