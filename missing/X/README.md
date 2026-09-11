@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| X Japan - Virtual Shock 001 | 94710 | [94710-x-japan-virtual-shock-001.json](./94710-x-japan-virtual-shock-001.json) |
 | X Multiply | 12271 | [12271-x-multiply.json](./12271-x-multiply.json) |
 | X Mushrooms | 89649 | [89649-x-mushrooms.json](./89649-x-mushrooms.json) |
 | X Mutation | 290924 | [290924-x-mutation.json](./290924-x-mutation.json) |
