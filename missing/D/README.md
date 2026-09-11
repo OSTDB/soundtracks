@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
+| Data East's Arcade Alley | 84185 | [84185-data-easts-arcade-alley.json](./84185-data-easts-arcade-alley.json) |
 | Data East's Hoops | 97330 | [97330-data-easts-hoops.json](./97330-data-easts-hoops.json) |
 | Data Fantasy | 392127 | [392127-data-fantasy.json](./392127-data-fantasy.json) |
 | Data Link: Cyberpunk Racing | 234328 | [234328-data-link-cyberpunk-racing.json](./234328-data-link-cyberpunk-racing.json) |
@@ -469,11 +470,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughter of Essence | 158654 | [158654-daughter-of-essence.json](./158654-daughter-of-essence.json) |
 | Daughter of Shadows: An SCP Breach Event - Friend and Foe Expansion | 167317 | [167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json](./167317-daughter-of-shadows-an-scp-breach-event-friend-and-foe-expansion.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
+| Dave Mirra Freestyle BMX: Maximum Remix | 84166 | [84166-dave-mirra-freestyle-bmx-maximum-remix.json](./84166-dave-mirra-freestyle-bmx-maximum-remix.json) |
 | Dave the Diver | 203722 | [203722-dave-the-diver.json](./203722-dave-the-diver.json) |
 | Dave the Diver: Balatro | 314280 | [314280-dave-the-diver-balatro.json](./314280-dave-the-diver-balatro.json) |
 | Dave the Diver: Mxmtoon | 314281 | [314281-dave-the-diver-mxmtoon.json](./314281-dave-the-diver-mxmtoon.json) |
 | Dave the Diver: Potion Craft | 314279 | [314279-dave-the-diver-potion-craft.json](./314279-dave-the-diver-potion-craft.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
+| Davidic Matchup | 84178 | [84178-davidic-matchup.json](./84178-davidic-matchup.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
 | Dawgs: The Revenge | 400905 | [400905-dawgs-the-revenge.json](./400905-dawgs-the-revenge.json) |
@@ -1358,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
 | Detective Conan: Kiganshima Hihou Densetsu | 209495 | [209495-detective-conan-kiganshima-hihou-densetsu.json](./209495-detective-conan-kiganshima-hihou-densetsu.json) |
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
+| Detective Conan: Trick Trick Vol. 1 | 84172 | [84172-detective-conan-trick-trick-vol-1.json](./84172-detective-conan-trick-trick-vol-1.json) |
 | Detective Corgi and the Mysterious Mansion | 179753 | [179753-detective-corgi-and-the-mysterious-mansion.json](./179753-detective-corgi-and-the-mysterious-mansion.json) |
 | Detective Dave | 277290 | [277290-detective-dave.json](./277290-detective-dave.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
@@ -2031,6 +2035,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodgy Rocks | 133988 | [133988-dodgy-rocks.json](./133988-dodgy-rocks.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DodoGo! | 66709 | [66709-dodogo.json](./66709-dodogo.json) |
+| DoDonPachi Dai-Ou-Jou V101 | 84158 | [84158-dodonpachi-dai-ou-jou-v101.json](./84158-dodonpachi-dai-ou-jou-v101.json) |
+| DoDonPachi DaiFukkatsu Ver 1.5 | 84160 | [84160-dodonpachi-daifukkatsu-ver-1-5.json](./84160-dodonpachi-daifukkatsu-ver-1-5.json) |
 | DoDonPachi DaiOuJou DX | 214719 | [214719-dodonpachi-daioujou-dx.json](./214719-dodonpachi-daioujou-dx.json) |
 | DoDonPachi Resurrection | 152402 | [152402-dodonpachi-resurrection.json](./152402-dodonpachi-resurrection.json) |
 | DoDonPachi Resurrection: Deluxe Edition | 22933 | [22933-dodonpachi-resurrection-deluxe-edition.json](./22933-dodonpachi-resurrection-deluxe-edition.json) |
@@ -2173,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domo Jump | 63307 | [63307-domo-jump.json](./63307-domo-jump.json) |
 | Domo-kun no Card-e: Domo-kun no Fushigi Terebi - Meisou Domo | 220851 | [220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json](./220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json) |
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
+| Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
 | Don Doko Don 2 | 48696 | [48696-don-doko-don-2.json](./48696-don-doko-don-2.json) |
 | Don Duality | 234640 | [234640-don-duality.json](./234640-don-duality.json) |
