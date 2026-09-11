@@ -1091,6 +1091,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beerman | 31904 | [31904-beerman.json](./31904-beerman.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
+| Beetle Ju | 117668 | [117668-beetle-ju.json](./117668-beetle-ju.json) |
+| Beetle Ju 3 | 117669 | [117669-beetle-ju-3.json](./117669-beetle-ju-3.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before the Needle Lifts | 303754 | [303754-before-the-needle-lifts.json](./303754-before-the-needle-lifts.json) |
@@ -3199,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnin' Rubber Shift | 237965 | [237965-burnin-rubber-shift.json](./237965-burnin-rubber-shift.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
 | Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
+| Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
 | Burning Monkey Casino | 352743 | [352743-burning-monkey-casino.json](./352743-burning-monkey-casino.json) |
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
