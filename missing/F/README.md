@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 22 | 198200 | [198200-f1-22.json](./198200-f1-22.json) |
 | F1 25: 2026 Season Edition | 408775 | [408775-f1-25-2026-season-edition.json](./408775-f1-25-2026-season-edition.json) |
 | F1 25: 2026 Season Pack | 408774 | [408774-f1-25-2026-season-pack.json](./408774-f1-25-2026-season-pack.json) |
+| F1 Challenge | 95383 | [95383-f1-challenge.json](./95383-f1-challenge.json) |
 | F1 Championship Season 2000 | 690 | [690-f1-championship-season-2000.json](./690-f1-championship-season-2000.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 Manager 2023 | 247383 | [247383-f1-manager-2023.json](./247383-f1-manager-2023.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
 | Famista 2 | 86101 | [86101-famista-2.json](./86101-famista-2.json) |
+| Famista 3 | 95372 | [95372-famista-3.json](./95372-famista-3.json) |
 | Famory | 252158 | [252158-famory.json](./252158-famory.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
