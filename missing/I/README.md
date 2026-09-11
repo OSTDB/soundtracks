@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
 | Industrial Annihilation | 324902 | [324902-industrial-annihilation.json](./324902-industrial-annihilation.json) |
 | Industrial Combat | 271750 | [271750-industrial-combat.json](./271750-industrial-combat.json) |
+| Industrial Infection! | 107810 | [107810-industrial-infection.json](./107810-industrial-infection.json) |
 | Industriality | 190159 | [190159-industriality.json](./190159-industriality.json) |
 | Industrious | 146813 | [146813-industrious.json](./146813-industrious.json) |
 | Industriworks | 126603 | [126603-industriworks.json](./126603-industriworks.json) |
@@ -1030,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders | 271990 | [271990-invaders.json](./271990-invaders.json) |
 | Invaders | 374044 | [374044-invaders.json](./374044-invaders.json) |
 | Invaders 1978 | 72081 | [72081-invaders-1978.json](./72081-invaders-1978.json) |
+| Invaders! From Outer Space | 107930 | [107930-invaders-from-outer-space.json](./107930-invaders-from-outer-space.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
 | Invasion Force | 85518 | [85518-invasion-force.json](./85518-invasion-force.json) |
