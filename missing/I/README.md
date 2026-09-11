@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Giant 2 - Gold 2012 | 53228 | [53228-industry-giant-2-gold-2012.json](./53228-industry-giant-2-gold-2012.json) |
 | Industry Giant 2 HD | 53229 | [53229-industry-giant-2-hd.json](./53229-industry-giant-2-hd.json) |
 | Industry Giant 4.0 | 284886 | [284886-industry-giant-4-0.json](./284886-industry-giant-4-0.json) |
+| Industry Giant: Expansion Set | 100137 | [100137-industry-giant-expansion-set.json](./100137-industry-giant-expansion-set.json) |
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
 | IndyCar Racing II | 71514 | [71514-indycar-racing-ii.json](./71514-indycar-racing-ii.json) |
 | IndyCar Series | 5866 | [5866-indycar-series.json](./5866-indycar-series.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
+| Inv | 100134 | [100134-inv.json](./100134-inv.json) |
 | Invadead | 209486 | [209486-invadead.json](./209486-invadead.json) |
 | Invaded | 121698 | [121698-invaded.json](./121698-invaded.json) |
 | Invader Simulator | 351616 | [351616-invader-simulator.json](./351616-invader-simulator.json) |
@@ -1252,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Silence | 309684 | [309684-isles-of-silence.json](./309684-isles-of-silence.json) |
 | iSnake | 87703 | [87703-isnake.json](./87703-isnake.json) |
+| Iso | 100225 | [100225-iso.json](./100225-iso.json) |
 | Iso | 201763 | [201763-iso.json](./201763-iso.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
 | Isolani | 22394 | [22394-isolani.json](./22394-isolani.json) |
