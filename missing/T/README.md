@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Xtreme: Operation Weather Disaster | 70983 | [70983-team-xtreme-operation-weather-disaster.json](./70983-team-xtreme-operation-weather-disaster.json) |
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
 | Team17 Collection 1 | 241979 | [241979-team17-collection-1.json](./241979-team17-collection-1.json) |
+| Teamchef | 93006 | [93006-teamchef.json](./93006-teamchef.json) |
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
 | Teaparty in Candyworld | 357226 | [357226-teaparty-in-candyworld.json](./357226-teaparty-in-candyworld.json) |
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
@@ -4065,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tiebreak+ | 334667 | [334667-tiebreak.json](./334667-tiebreak.json) |
+| Tiebreaker | 93017 | [93017-tiebreaker.json](./93017-tiebreaker.json) |
 | Tied By Numbers | 386153 | [386153-tied-by-numbers.json](./386153-tied-by-numbers.json) |
 | Tied to the Beat | 391039 | [391039-tied-to-the-beat.json](./391039-tied-to-the-beat.json) |
 | Tien Len: Killer 13 | 175422 | [175422-tien-len-killer-13.json](./175422-tien-len-killer-13.json) |
@@ -5043,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
+| Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
 | Torture | 268464 | [268464-torture.json](./268464-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
@@ -5925,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Yatzy for iPad | 101494 | [101494-triple-yatzy-for-ipad.json](./101494-triple-yatzy-for-ipad.json) |
 | Triple Zoo | 232185 | [232185-triple-zoo.json](./232185-triple-zoo.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
+| Triptych | 93001 | [93001-triptych.json](./93001-triptych.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
 | Triuno Ascend | 398334 | [398334-triuno-ascend.json](./398334-triuno-ascend.json) |
