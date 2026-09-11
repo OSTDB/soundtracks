@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
 | Nanika Game Online | 342086 | [342086-nanika-game-online.json](./342086-nanika-game-online.json) |
 | Naniwa Wangan Battle | 143672 | [143672-naniwa-wangan-battle.json](./143672-naniwa-wangan-battle.json) |
+| Nankin | 95374 | [95374-nankin.json](./95374-nankin.json) |
 | Nankin no Adventure | 41401 | [41401-nankin-no-adventure.json](./41401-nankin-no-adventure.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
