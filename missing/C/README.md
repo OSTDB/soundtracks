@@ -3033,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
 | Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
+| Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
 | Crimson Moon | 389428 | [389428-crimson-moon.json](./389428-crimson-moon.json) |
