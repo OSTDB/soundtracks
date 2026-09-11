@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Down, Stalin VR | 286535 | [286535-calm-down-stalin-vr.json](./286535-calm-down-stalin-vr.json) |
 | Calm Down, Stalin: The First Person | 161351 | [161351-calm-down-stalin-the-first-person.json](./161351-calm-down-stalin-the-first-person.json) |
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
+| Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
 | Calvin's Gallery | 377043 | [377043-calvins-gallery.json](./377043-calvins-gallery.json) |
 | Calvino Noir | 17713 | [17713-calvino-noir.json](./17713-calvino-noir.json) |
@@ -599,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
 | Castle of White Night | 197853 | [197853-castle-of-white-night.json](./197853-castle-of-white-night.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
+| Castle Red | 123000 | [123000-castle-red.json](./123000-castle-red.json) |
 | Castle Rush | 185145 | [185145-castle-rush.json](./185145-castle-rush.json) |
 | Castle Rush | 234046 | [234046-castle-rush.json](./234046-castle-rush.json) |
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
@@ -890,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
+| Celestial Crusade | 122983 | [122983-celestial-crusade.json](./122983-celestial-crusade.json) |
 | Celestial Force: Magical Mayhem | 238495 | [238495-celestial-force-magical-mayhem.json](./238495-celestial-force-magical-mayhem.json) |
 | Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
 | Celestial Hearts | 141817 | [141817-celestial-hearts.json](./141817-celestial-hearts.json) |
@@ -2441,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
+| Cookin' Idol I! My! Main! Game de Hirameki! Kirameki Cooking | 123019 | [123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json](./123019-cookin-idol-i-my-main-game-de-hirameki-kirameki-cooking.json) |
 | Cooking | 314874 | [314874-cooking.json](./314874-cooking.json) |
 | Cooking Arena | 259586 | [259586-cooking-arena.json](./259586-cooking-arena.json) |
 | Cooking Arena: 3 in 1 Edition | 283176 | [283176-cooking-arena-3-in-1-edition.json](./283176-cooking-arena-3-in-1-edition.json) |
@@ -3090,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
+| Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
 | crossbeats REV. | 126033 | [126033-crossbeats-rev.json](./126033-crossbeats-rev.json) |
 | Crossbow Crusade | 148568 | [148568-crossbow-crusade.json](./148568-crossbow-crusade.json) |
