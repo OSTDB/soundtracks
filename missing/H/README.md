@@ -1281,15 +1281,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
 | Hidden Object Wedding Day | 100741 | [100741-hidden-object-wedding-day.json](./100741-hidden-object-wedding-day.json) |
+| Hidden Object: Aliens - The Arrival | 98401 | [98401-hidden-object-aliens-the-arrival.json](./98401-hidden-object-aliens-the-arrival.json) |
+| Hidden Object: Angels and Fairies | 98402 | [98402-hidden-object-angels-and-fairies.json](./98402-hidden-object-angels-and-fairies.json) |
+| Hidden Object: Animal Royalties | 98399 | [98399-hidden-object-animal-royalties.json](./98399-hidden-object-animal-royalties.json) |
+| Hidden Object: Animal Seasons | 98400 | [98400-hidden-object-animal-seasons.json](./98400-hidden-object-animal-seasons.json) |
+| Hidden Object: Classic Fables | 98391 | [98391-hidden-object-classic-fables.json](./98391-hidden-object-classic-fables.json) |
+| Hidden Object: Crazy Hearts | 98390 | [98390-hidden-object-crazy-hearts.json](./98390-hidden-object-crazy-hearts.json) |
+| Hidden Object: Deck the Halls | 98385 | [98385-hidden-object-deck-the-halls.json](./98385-hidden-object-deck-the-halls.json) |
 | Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
 | Hidden Object: Dog Happy Life | 82160 | [82160-hidden-object-dog-happy-life.json](./82160-hidden-object-dog-happy-life.json) |
+| Hidden Object: Elemental Guardians | 98386 | [98386-hidden-object-elemental-guardians.json](./98386-hidden-object-elemental-guardians.json) |
+| Hidden Object: Fairy Princess | 98384 | [98384-hidden-object-fairy-princess.json](./98384-hidden-object-fairy-princess.json) |
+| Hidden Object: Fairy Tale | 98388 | [98388-hidden-object-fairy-tale.json](./98388-hidden-object-fairy-tale.json) |
+| Hidden Object: Faries Trail | 98387 | [98387-hidden-object-faries-trail.json](./98387-hidden-object-faries-trail.json) |
 | Hidden Object: Ghost of King Black Magic | 200196 | [200196-hidden-object-ghost-of-king-black-magic.json](./200196-hidden-object-ghost-of-king-black-magic.json) |
 | Hidden Object: Golden Trails - Secret of the Princess | 240197 | [240197-hidden-object-golden-trails-secret-of-the-princess.json](./240197-hidden-object-golden-trails-secret-of-the-princess.json) |
 | Hidden Object: Hunter Secrets of Aztec and Mayan Tribes | 233248 | [233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json](./233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json) |
 | Hidden Object: Hunters for the Secret | 208008 | [208008-hidden-object-hunters-for-the-secret.json](./208008-hidden-object-hunters-for-the-secret.json) |
 | Hidden Object: Missing Violin - Amazing Adventures | 200198 | [200198-hidden-object-missing-violin-amazing-adventures.json](./200198-hidden-object-missing-violin-amazing-adventures.json) |
 | Hidden Object: Missing Violins! - Premium | 213644 | [213644-hidden-object-missing-violins-premium.json](./213644-hidden-object-missing-violins-premium.json) |
+| Hidden Object: My Best Memories | 98394 | [98394-hidden-object-my-best-memories.json](./98394-hidden-object-my-best-memories.json) |
 | Hidden Object: Mystery of Mysteries of the Aztecs | 242570 | [242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json](./242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json) |
+| Hidden Object: Princess Cinderella | 98389 | [98389-hidden-object-princess-cinderella.json](./98389-hidden-object-princess-cinderella.json) |
+| Hidden Object: The Birds from Aviary | 98395 | [98395-hidden-object-the-birds-from-aviary.json](./98395-hidden-object-the-birds-from-aviary.json) |
 | Hidden Object: Travel to Future - Ancient Portals | 261529 | [261529-hidden-object-travel-to-future-ancient-portals.json](./261529-hidden-object-travel-to-future-ancient-portals.json) |
 | Hidden Object: Underground Treasures Gold | 233224 | [233224-hidden-object-underground-treasures-gold.json](./233224-hidden-object-underground-treasures-gold.json) |
 | Hidden Objects - Forest Fairies | 89286 | [89286-hidden-objects-forest-fairies.json](./89286-hidden-objects-forest-fairies.json) |
