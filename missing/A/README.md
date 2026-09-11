@@ -36,7 +36,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
-| A Faerie's Tale | 299783 | [299783-a-faeries-tale.json](./299783-a-faeries-tale.json) |
 | A Familiar Fairytale: Dyslexic Text Based Adventure | 124174 | [124174-a-familiar-fairytale-dyslexic-text-based-adventure.json](./124174-a-familiar-fairytale-dyslexic-text-based-adventure.json) |
 | A Farewell to Dragons | 20667 | [20667-a-farewell-to-dragons.json](./20667-a-farewell-to-dragons.json) |
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
@@ -825,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterworld | 288746 | [288746-afterworld.json](./288746-afterworld.json) |
 | AfterZoom | 84884 | [84884-afterzoom.json](./84884-afterzoom.json) |
 | AftLife: Girl and Cats, and Lost World | 284326 | [284326-aftlife-girl-and-cats-and-lost-world.json](./284326-aftlife-girl-and-cats-and-lost-world.json) |
+| Again | 117019 | [117019-again.json](./117019-again.json) |
 | Again | 117713 | [117713-again.json](./117713-again.json) |
 | Again | 177548 | [177548-again.json](./177548-again.json) |
 | Against All Odds | 228719 | [228719-against-all-odds.json](./228719-against-all-odds.json) |
@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
 | Alphabet Solitaire Z: Russian | 101576 | [101576-alphabet-solitaire-z-russian.json](./101576-alphabet-solitaire-z-russian.json) |
 | Alphabet: Play with the ABCs | 206109 | [206109-alphabet-play-with-the-abcs.json](./206109-alphabet-play-with-the-abcs.json) |
+| Alphabetty Saga | 116974 | [116974-alphabetty-saga.json](./116974-alphabetty-saga.json) |
 | AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
 | Alphadia Genesis | 17849 | [17849-alphadia-genesis.json](./17849-alphadia-genesis.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
@@ -1891,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
 | Animated StoryBook: Winnie the Pooh and the Honey Tree | 342669 | [342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json](./342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json) |
+| Animation Hangman | 117024 | [117024-animation-hangman.json](./117024-animation-hangman.json) |
 | Animdle | 337097 | [337097-animdle.json](./337097-animdle.json) |
 | Anime Artist | 280177 | [280177-anime-artist.json](./280177-anime-artist.json) |
 | Anime Artist 3: Harem | 158160 | [158160-anime-artist-3-harem.json](./158160-anime-artist-3-harem.json) |
@@ -2264,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Bravoman | 252393 | [252393-arcade-archives-bravoman.json](./252393-arcade-archives-bravoman.json) |
 | Arcade Archives: Burning Force | 273958 | [273958-arcade-archives-burning-force.json](./273958-arcade-archives-burning-force.json) |
 | Arcade Archives: Champion Wrestler | 216226 | [216226-arcade-archives-champion-wrestler.json](./216226-arcade-archives-champion-wrestler.json) |
+| Arcade Archives: Donkey Kong 3 | 117018 | [117018-arcade-archives-donkey-kong-3.json](./117018-arcade-archives-donkey-kong-3.json) |
 | Arcade Archives: Dragon Saber | 209646 | [209646-arcade-archives-dragon-saber.json](./209646-arcade-archives-dragon-saber.json) |
 | Arcade Archives: Dragon Spirit | 192950 | [192950-arcade-archives-dragon-spirit.json](./192950-arcade-archives-dragon-spirit.json) |
 | Arcade Archives: Earth Defense Force | 146843 | [146843-arcade-archives-earth-defense-force.json](./146843-arcade-archives-earth-defense-force.json) |
@@ -2406,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archetype Arcadia | 155082 | [155082-archetype-arcadia.json](./155082-archetype-arcadia.json) |
 | Archetypes: The Rite of Passage | 211439 | [211439-archetypes-the-rite-of-passage.json](./211439-archetypes-the-rite-of-passage.json) |
 | ArcheWorld | 217002 | [217002-archeworld.json](./217002-archeworld.json) |
+| Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
 | Archipelago: Island Survival | 297787 | [297787-archipelago-island-survival.json](./297787-archipelago-island-survival.json) |
 | Architect | 326623 | [326623-architect.json](./326623-architect.json) |
