@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Lovers in the House | 371912 | [371912-seven-lovers-in-the-house.json](./371912-seven-lovers-in-the-house.json) |
 | Seven Nexus | 381639 | [381639-seven-nexus.json](./381639-seven-nexus.json) |
 | Seven of Heart | 176989 | [176989-seven-of-heart.json](./176989-seven-of-heart.json) |
+| Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven Wonders of St. Clementine | 120944 | [120944-seven-wonders-of-st-clementine.json](./120944-seven-wonders-of-st-clementine.json) |
 | Seven: Enhanced - Collector's Edition | 154529 | [154529-seven-enhanced-collectors-edition.json](./154529-seven-enhanced-collectors-edition.json) |
@@ -1450,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shaun the Sheep: Shear Speed | 207861 | [207861-shaun-the-sheep-shear-speed.json](./207861-shaun-the-sheep-shear-speed.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
+| Shaverma: Ravshan Edition | 112943 | [112943-shaverma-ravshan-edition.json](./112943-shaverma-ravshan-edition.json) |
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
@@ -1479,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Kingdom | 185087 | [185087-shell-kingdom.json](./185087-shell-kingdom.json) |
 | Shell of a King | 250961 | [250961-shell-of-a-king.json](./250961-shell-of-a-king.json) |
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
+| Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | Shelldom | 330101 | [330101-shelldom.json](./330101-shelldom.json) |
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
@@ -2616,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
 | Smashbreak | 208959 | [208959-smashbreak.json](./208959-smashbreak.json) |
+| Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
 | Smashing Drive | 2743 | [2743-smashing-drive.json](./2743-smashing-drive.json) |
 | Smashing Healthy VR | 132248 | [132248-smashing-healthy-vr.json](./132248-smashing-healthy-vr.json) |
@@ -5651,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Catscape | 116308 | [116308-super-catscape.json](./116308-super-catscape.json) |
 | Super Cauldron | 39028 | [39028-super-cauldron.json](./39028-super-cauldron.json) |
 | Super Cave Boy | 224589 | [224589-super-cave-boy.json](./224589-super-cave-boy.json) |
+| Super Chains | 112941 | [112941-super-chains.json](./112941-super-chains.json) |
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chick Sisters | 140535 | [140535-super-chick-sisters.json](./140535-super-chick-sisters.json) |
 | Super Choppy Orc | 219581 | [219581-super-choppy-orc.json](./219581-super-choppy-orc.json) |
