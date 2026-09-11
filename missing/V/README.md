@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
 | Vind | 115721 | [115721-vind.json](./115721-vind.json) |
 | Vindefiant | 296366 | [296366-vindefiant.json](./296366-vindefiant.json) |
+| Vindicta Arcade | 88229 | [88229-vindicta-arcade.json](./88229-vindicta-arcade.json) |
 | Vindictive Drive | 31913 | [31913-vindictive-drive.json](./31913-vindictive-drive.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
@@ -737,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
 | Voxel World | 312559 | [312559-voxel-world.json](./312559-voxel-world.json) |
+| Voxel World | 88247 | [88247-voxel-world.json](./88247-voxel-world.json) |
 | Voxelaxy | 51967 | [51967-voxelaxy.json](./51967-voxelaxy.json) |
 | Voxeldom | 62180 | [62180-voxeldom.json](./62180-voxeldom.json) |
 | Voxelgram 2 | 335067 | [335067-voxelgram-2.json](./335067-voxelgram-2.json) |
