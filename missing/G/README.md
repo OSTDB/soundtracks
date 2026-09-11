@@ -402,6 +402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
 | GB Rober | 152875 | [152875-gb-rober.json](./152875-gb-rober.json) |
+| Gear Puzzle: the inheritance of grandpa | 120943 | [120943-gear-puzzle-the-inheritance-of-grandpa.json](./120943-gear-puzzle-the-inheritance-of-grandpa.json) |
 | Gear Senshi Dendoh | 19595 | [19595-gear-senshi-dendoh.json](./19595-gear-senshi-dendoh.json) |
 | Gear Slots | 389972 | [389972-gear-slots.json](./389972-gear-slots.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
@@ -1040,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Almagest | 214514 | [214514-gods-of-almagest.json](./214514-gods-of-almagest.json) |
 | Gods of Angling | 396215 | [396215-gods-of-angling.json](./396215-gods-of-angling.json) |
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
+| Gods of Havoc: Fall to Earth | 120967 | [120967-gods-of-havoc-fall-to-earth.json](./120967-gods-of-havoc-fall-to-earth.json) |
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
