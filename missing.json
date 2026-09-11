@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T02:48:31.052Z",
-  "total_missing": 56284,
+  "generated_at": "2026-09-11T02:51:01.668Z",
+  "total_missing": 56283,
   "games": [
     {
       "igdb_id": 306086,
@@ -1861,11 +1861,6 @@
       "igdb_id": 102155,
       "game_name": "A Compendium of Ghosts",
       "file": "missing/A/102155-a-compendium-of-ghosts.json"
-    },
-    {
-      "igdb_id": 320562,
-      "game_name": "A Conversation With a Magical Deer",
-      "file": "missing/A/320562-a-conversation-with-a-magical-deer.json"
     },
     {
       "igdb_id": 145672,
