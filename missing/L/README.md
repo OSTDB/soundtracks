@@ -1605,6 +1605,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Lodgings: Autumn Edition | 402310 | [402310-lovely-lodgings-autumn-edition.json](./402310-lovely-lodgings-autumn-edition.json) |
 | Lovely Magicals! | 364486 | [364486-lovely-magicals.json](./364486-lovely-magicals.json) |
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
+| Lovely Pop 2-in-1: Jan Jan Koi Shimasho | 130300 | [130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json](./130300-lovely-pop-2-in-1-jan-jan-koi-shimasho.json) |
+| Lovely Pop Mahjong: JangJang Shimasho | 130298 | [130298-lovely-pop-mahjong-jangjang-shimasho.json](./130298-lovely-pop-mahjong-jangjang-shimasho.json) |
 | Lovely Sweet Dream | 172766 | [172766-lovely-sweet-dream.json](./172766-lovely-sweet-dream.json) |
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
