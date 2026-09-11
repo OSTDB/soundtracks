@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ānquán Jiàoyù | 102177 | [102177-anquan-jiaoyu.json](./102177-anquan-jiaoyu.json) |
 | Ànyán no Shénzú Ove: Fēng zhī Zhāng | 394202 | [394202-anyan-no-shenzu-ove-feng-zhi-zhang.json](./394202-anyan-no-shenzu-ove-feng-zhi-zhang.json) |
 | Ảo Mộng Tru Tiên | 380388 | [380388-ao-mong-tru-tien.json](./380388-ao-mong-tru-tien.json) |
+| Àohuáng Yì Jiànjué | 114337 | [114337-aohuang-yi-jianjue.json](./114337-aohuang-yi-jianjue.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
