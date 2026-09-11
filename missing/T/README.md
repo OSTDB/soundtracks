@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
+| The Elder Scrolls Online: Summerset - Collector's Editions | 96024 | [96024-the-elder-scrolls-online-summerset-collectors-editions.json](./96024-the-elder-scrolls-online-summerset-collectors-editions.json) |
 | The Elder Scrolls Renewal: Skywind | 143732 | [143732-the-elder-scrolls-renewal-skywind.json](./143732-the-elder-scrolls-renewal-skywind.json) |
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
@@ -4173,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Knight | 137043 | [137043-tiger-knight.json](./137043-tiger-knight.json) |
 | Tiger Knight: Battle Royale | 167209 | [167209-tiger-knight-battle-royale.json](./167209-tiger-knight-battle-royale.json) |
 | Tiger Mission | 37170 | [37170-tiger-mission.json](./37170-tiger-mission.json) |
+| Tiger Simulator 3D | 96013 | [96013-tiger-simulator-3d.json](./96013-tiger-simulator-3d.json) |
 | Tiger Soldier I: MP007 | 173707 | [173707-tiger-soldier-i-mp007.json](./173707-tiger-soldier-i-mp007.json) |
 | Tiger Soldier I: MP023 | 173712 | [173712-tiger-soldier-i-mp023.json](./173712-tiger-soldier-i-mp023.json) |
 | Tiger Soldier I: MP047 | 173708 | [173708-tiger-soldier-i-mp047.json](./173708-tiger-soldier-i-mp047.json) |
@@ -6246,6 +6248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Ruin | 119729 | [119729-twin-ruin.json](./119729-twin-ruin.json) |
 | Twin Shot 2: Good & Evil | 180291 | [180291-twin-shot-2-good-and-evil.json](./180291-twin-shot-2-good-and-evil.json) |
 | Twin Soul | 356067 | [356067-twin-soul.json](./356067-twin-soul.json) |
+| Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | TwinBee | 282650 | [282650-twinbee.json](./282650-twinbee.json) |
