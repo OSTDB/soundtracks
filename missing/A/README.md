@@ -24,7 +24,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
-| A Dark Place | 274228 | [274228-a-dark-place.json](./274228-a-dark-place.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Dark Room | 255977 | [255977-a-dark-room.json](./255977-a-dark-room.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
@@ -478,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Aces | 11863 | [11863-ace-of-aces.json](./11863-ace-of-aces.json) |
 | Ace of Rope | 177475 | [177475-ace-of-rope.json](./177475-ace-of-rope.json) |
 | Ace of Seafood | 33309 | [33309-ace-of-seafood.json](./33309-ace-of-seafood.json) |
+| Ace of Space | 123544 | [123544-ace-of-space.json](./123544-ace-of-space.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
 | Ace Strategy Mecha Nova | 335857 | [335857-ace-strategy-mecha-nova.json](./335857-ace-strategy-mecha-nova.json) |
 | Ace Thunder: Aircraft Wingman Simulator | 399610 | [399610-ace-thunder-aircraft-wingman-simulator.json](./399610-ace-thunder-aircraft-wingman-simulator.json) |
@@ -3104,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
 | Attack Only | 410224 | [410224-attack-only.json](./410224-attack-only.json) |
+| Attack Pla Rail | 123584 | [123584-attack-pla-rail.json](./123584-attack-pla-rail.json) |
 | Attack Tactic | 226224 | [226224-attack-tactic.json](./226224-attack-tactic.json) |
 | Attack: Helicopter Simulator 2020 | 171077 | [171077-attack-helicopter-simulator-2020.json](./171077-attack-helicopter-simulator-2020.json) |
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
