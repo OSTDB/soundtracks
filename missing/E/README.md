@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
+| Escape from Fools | 112968 | [112968-escape-from-fools.json](./112968-escape-from-fools.json) |
 | Escape from Frankenstein's Castle | 213598 | [213598-escape-from-frankensteins-castle.json](./213598-escape-from-frankensteins-castle.json) |
 | Escape From Hata | 285466 | [285466-escape-from-hata.json](./285466-escape-from-hata.json) |
 | Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
@@ -1117,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Modern Lines Paint Jobs Pack | 266243 | [266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json](./266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json) |
 | Euro Truck Simulator 2: Renault Trucks E-Tech T | 311995 | [311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json](./311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json) |
 | Euro-Man | 71554 | [71554-euro-man.json](./71554-euro-man.json) |
+| Eurobi Racing | 112940 | [112940-eurobi-racing.json](./112940-eurobi-racing.json) |
 | EuroGoal 2012 | 343818 | [343818-eurogoal-2012.json](./343818-eurogoal-2012.json) |
 | Europa 1400: The Guild | 681 | [681-europa-1400-the-guild.json](./681-europa-1400-the-guild.json) |
 | Europa Barbarorum | 137059 | [137059-europa-barbarorum.json](./137059-europa-barbarorum.json) |
@@ -1343,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
 | Exist | 212488 | [212488-exist.json](./212488-exist.json) |
+| Existence | 113056 | [113056-existence.json](./113056-existence.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
