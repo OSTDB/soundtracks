@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja TD | 200189 | [200189-ninja-td.json](./200189-ninja-td.json) |
 | Ninja Throw HD | 20647 | [20647-ninja-throw-hd.json](./20647-ninja-throw-hd.json) |
 | Ninja Torappu | 62192 | [62192-ninja-torappu.json](./62192-ninja-torappu.json) |
+| Ninja Toy Warrior - Legendary Ninja Fight | 100935 | [100935-ninja-toy-warrior-legendary-ninja-fight.json](./100935-ninja-toy-warrior-legendary-ninja-fight.json) |
 | Ninja Trip | 102726 | [102726-ninja-trip.json](./102726-ninja-trip.json) |
 | Ninja Village | 61080 | [61080-ninja-village.json](./61080-ninja-village.json) |
 | Ninja vs. Zombies 3 | 335275 | [335275-ninja-vs-zombies-3.json](./335275-ninja-vs-zombies-3.json) |
