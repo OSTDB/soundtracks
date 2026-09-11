@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
+| RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
 | Root After and Another | 72720 | [72720-root-after-and-another.json](./72720-root-after-and-another.json) |
 | Root Bear | 235214 | [235214-root-bear.json](./235214-root-bear.json) |
@@ -2232,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
 | RuffHousin | 178592 | [178592-ruffhousin.json](./178592-ruffhousin.json) |
+| Rugby | 94199 | [94199-rugby.json](./94199-rugby.json) |
 | Rugby 18: The British and Irish Lions 2017 Team | 169953 | [169953-rugby-18-the-british-and-irish-lions-2017-team.json](./169953-rugby-18-the-british-and-irish-lions-2017-team.json) |
 | Rugby 20 | 122704 | [122704-rugby-20.json](./122704-rugby-20.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
@@ -2250,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
+| Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
 | Ruins of Majika | 211747 | [211747-ruins-of-majika.json](./211747-ruins-of-majika.json) |
 | Ruins of Mitriom | 186320 | [186320-ruins-of-mitriom.json](./186320-ruins-of-mitriom.json) |
