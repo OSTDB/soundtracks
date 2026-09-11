@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnus Imago | 188683 | [188683-magnus-imago.json](./188683-magnus-imago.json) |
+| Mago | 120365 | [120365-mago.json](./120365-mago.json) |
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
 | Maguntsche: Chapter One Remastered | 168859 | [168859-maguntsche-chapter-one-remastered.json](./168859-maguntsche-chapter-one-remastered.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
