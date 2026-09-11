@@ -1731,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of the Demon Valley | 172685 | [172685-guardian-of-the-demon-valley.json](./172685-guardian-of-the-demon-valley.json) |
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
 | Guardian of the Grave | 340402 | [340402-guardian-of-the-grave.json](./340402-guardian-of-the-grave.json) |
+| Guardian Recall | 123006 | [123006-guardian-recall.json](./123006-guardian-recall.json) |
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
