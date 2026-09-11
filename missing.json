@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:18:38.047Z",
-  "total_missing": 58404,
+  "generated_at": "2026-09-11T15:20:57.541Z",
+  "total_missing": 58403,
   "games": [
     {
       "igdb_id": 306086,
@@ -2251,11 +2251,6 @@
       "igdb_id": 54470,
       "game_name": "A Mazeing Tower Defense",
       "file": "missing/A/54470-a-mazeing-tower-defense.json"
-    },
-    {
-      "igdb_id": 114377,
-      "game_name": "A meadow Piece",
-      "file": "missing/A/114377-a-meadow-piece.json"
     },
     {
       "igdb_id": 223486,
