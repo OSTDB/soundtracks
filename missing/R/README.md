@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
+| Resident Evil | 102722 | [102722-resident-evil.json](./102722-resident-evil.json) |
 | Resident Evil 0 | 15108 | [15108-resident-evil-0.json](./15108-resident-evil-0.json) |
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
@@ -1576,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip | 202425 | [202425-road-trip.json](./202425-road-trip.json) |
 | Road Trip | 310967 | [310967-road-trip.json](./310967-road-trip.json) |
 | Road Trip Europe | 229944 | [229944-road-trip-europe.json](./229944-road-trip-europe.json) |
+| Road Trip Games App (Classics) | 102741 | [102741-road-trip-games-app-classics.json](./102741-road-trip-games-app-classics.json) |
 | Road Trip to the End of the World | 350446 | [350446-road-trip-to-the-end-of-the-world.json](./350446-road-trip-to-the-end-of-the-world.json) |
 | Road Trip: Arcade Edition | 78292 | [78292-road-trip-arcade-edition.json](./78292-road-trip-arcade-edition.json) |
 | Road Warrior | 223974 | [223974-road-warrior.json](./223974-road-warrior.json) |
