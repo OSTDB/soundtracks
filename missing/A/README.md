@@ -41,7 +41,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
-| A Fox and His Robot | 150611 | [150611-a-fox-and-his-robot.json](./150611-a-fox-and-his-robot.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Frog's Job | 211397 | [211397-a-frogs-job.json](./211397-a-frogs-job.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
