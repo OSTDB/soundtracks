@@ -1080,6 +1080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
 | Airstrife: Assault of the Aviators | 143691 | [143691-airstrife-assault-of-the-aviators.json](./143691-airstrife-assault-of-the-aviators.json) |
 | Airstrip DLC and Can Touch This DLC Bundle | 305497 | [305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./305497-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
+| Airtight City 1.0 | 119724 | [119724-airtight-city-1-0.json](./119724-airtight-city-1-0.json) |
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
 | Airwave: I Fought the Law and the Law One | 169988 | [169988-airwave-i-fought-the-law-and-the-law-one.json](./169988-airwave-i-fought-the-law-and-the-law-one.json) |
 | Aislin's Story: The Bloodbath Trials | 177534 | [177534-aislins-story-the-bloodbath-trials.json](./177534-aislins-story-the-bloodbath-trials.json) |
@@ -1716,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
 | Ancient Sacrifice | 236297 | [236297-ancient-sacrifice.json](./236297-ancient-sacrifice.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
+| Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
 | Ancient Wars: Medieval Crusades | 211401 | [211401-ancient-wars-medieval-crusades.json](./211401-ancient-wars-medieval-crusades.json) |
@@ -1849,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
 | Animal Life: North America | 269554 | [269554-animal-life-north-america.json](./269554-animal-life-north-america.json) |
+| Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
 | Animal Planet: Vet Life | 50635 | [50635-animal-planet-vet-life.json](./50635-animal-planet-vet-life.json) |
 | Animal Planner | 254767 | [254767-animal-planner.json](./254767-animal-planner.json) |
@@ -2899,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
 | Astonia 3 | 57661 | [57661-astonia-3.json](./57661-astonia-3.json) |
 | Astonishing Baseball 20 | 133470 | [133470-astonishing-baseball-20.json](./133470-astonishing-baseball-20.json) |
+| Astonishing Baseball 2019 | 119695 | [119695-astonishing-baseball-2019.json](./119695-astonishing-baseball-2019.json) |
 | Astonishing Baseball 2019 for Windows | 125988 | [125988-astonishing-baseball-2019-for-windows.json](./125988-astonishing-baseball-2019-for-windows.json) |
 | Astonishing Baseball 22 | 262081 | [262081-astonishing-baseball-22.json](./262081-astonishing-baseball-22.json) |
 | Astoria VR | 201250 | [201250-astoria-vr.json](./201250-astoria-vr.json) |
@@ -3095,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack Force | 143056 | [143056-attack-force.json](./143056-attack-force.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
+| Attack of the Evil Poop | 119733 | [119733-attack-of-the-evil-poop.json](./119733-attack-of-the-evil-poop.json) |
 | Attack of the Evil Poop VR | 166738 | [166738-attack-of-the-evil-poop-vr.json](./166738-attack-of-the-evil-poop-vr.json) |
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
