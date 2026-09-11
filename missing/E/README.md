@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
+| Earth Defense Force 5: Deluxe Edition | 118953 | [118953-earth-defense-force-5-deluxe-edition.json](./118953-earth-defense-force-5-deluxe-edition.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
 | Earth Defense Force: World Brothers - Deluxe Edition | 222503 | [222503-earth-defense-force-world-brothers-deluxe-edition.json](./222503-earth-defense-force-world-brothers-deluxe-edition.json) |
 | Earth Defense Force: World Brothers 2 - Don't Bring Civilians Into This: Special Appearance by The Captain from EDF6 | 325435 | [325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json](./325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json) |
