@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happi Basudei | 197323 | [197323-happi-basudei.json](./197323-happi-basudei.json) |
 | Happily Ever After | 48024 | [48024-happily-ever-after.json](./48024-happily-ever-after.json) |
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
+| Happiness! De:Lucks | 94724 | [94724-happiness-de-lucks.json](./94724-happiness-de-lucks.json) |
 | Happy Aquarium | 250638 | [250638-happy-aquarium.json](./250638-happy-aquarium.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
 | Happy Bones | 169394 | [169394-happy-bones.json](./169394-happy-bones.json) |
@@ -2300,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
+| Hyper Tank | 94672 | [94672-hyper-tank.json](./94672-hyper-tank.json) |
 | Hyper Team Recon | 138209 | [138209-hyper-team-recon.json](./138209-hyper-team-recon.json) |
 | Hyper Thruster | 409534 | [409534-hyper-thruster.json](./409534-hyper-thruster.json) |
 | Hyper Thunder Run 198X | 395575 | [395575-hyper-thunder-run-198x.json](./395575-hyper-thunder-run-198x.json) |
