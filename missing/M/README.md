@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Simulator | 304570 | [304570-mafia-simulator.json](./304570-mafia-simulator.json) |
 | Mafia: Sex Noir | 192435 | [192435-mafia-sex-noir.json](./192435-mafia-sex-noir.json) |
 | Mafia: The Old Country - Soldato Pack | 413630 | [413630-mafia-the-old-country-soldato-pack.json](./413630-mafia-the-old-country-soldato-pack.json) |
+| Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
@@ -387,6 +388,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
 | Majesty 2 Collection | 30147 | [30147-majesty-2-collection.json](./30147-majesty-2-collection.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
+| Maji de Watashi ni Koishinasai! A Plus Disk | 112295 | [112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json](./112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json) |
+| Maji de Watashi ni Koishinasai! A-1 | 112291 | [112291-maji-de-watashi-ni-koishinasai-a-1.json](./112291-maji-de-watashi-ni-koishinasai-a-1.json) |
+| Maji de Watashi ni Koishinasai! A-2 | 112292 | [112292-maji-de-watashi-ni-koishinasai-a-2.json](./112292-maji-de-watashi-ni-koishinasai-a-2.json) |
+| Maji de Watashi ni Koishinasai! A-3 | 112293 | [112293-maji-de-watashi-ni-koishinasai-a-3.json](./112293-maji-de-watashi-ni-koishinasai-a-3.json) |
+| Maji de Watashi ni Koishinasai! A-4 | 112294 | [112294-maji-de-watashi-ni-koishinasai-a-4.json](./112294-maji-de-watashi-ni-koishinasai-a-4.json) |
+| Maji de Watashi ni Koishinasai! A-5 | 112297 | [112297-maji-de-watashi-ni-koishinasai-a-5.json](./112297-maji-de-watashi-ni-koishinasai-a-5.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
 | Majin Tensei: Blind Thinker II | 129140 | [129140-majin-tensei-blind-thinker-ii.json](./129140-majin-tensei-blind-thinker-ii.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
@@ -1533,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Shake | 341465 | [341465-memory-shake.json](./341465-memory-shake.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
+| Men at Work! 2: Hunter Academy he Youkoso | 112298 | [112298-men-at-work-2-hunter-academy-he-youkoso.json](./112298-men-at-work-2-hunter-academy-he-youkoso.json) |
 | Men in Black | 270678 | [270678-men-in-black.json](./270678-men-in-black.json) |
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
 | Menace | 262664 | [262664-menace.json](./262664-menace.json) |
