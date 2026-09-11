@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoodFighters | 286010 | [286010-foodfighters.json](./286010-foodfighters.json) |
 | Foodguessr | 293936 | [293936-foodguessr.json](./293936-foodguessr.json) |
 | Foodie Avenue | 250368 | [250368-foodie-avenue.json](./250368-foodie-avenue.json) |
+| Foodie Bear | 121608 | [121608-foodie-bear.json](./121608-foodie-bear.json) |
 | Fool's Frontier | 291221 | [291221-fools-frontier.json](./291221-fools-frontier.json) |
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreman Frenzy! | 343284 | [343284-foreman-frenzy.json](./343284-foreman-frenzy.json) |
 | Forensic Science Mystery | 399633 | [399633-forensic-science-mystery.json](./399633-forensic-science-mystery.json) |
 | Forensics: Crime Scene Detective | 406712 | [406712-forensics-crime-scene-detective.json](./406712-forensics-crime-scene-detective.json) |
+| Forep Man | 121628 | [121628-forep-man.json](./121628-forep-man.json) |
 | Forest | 185166 | [185166-forest.json](./185166-forest.json) |
 | Forest | 187538 | [187538-forest.json](./187538-forest.json) |
 | Forest Adventure | 195727 | [195727-forest-adventure.json](./195727-forest-adventure.json) |
