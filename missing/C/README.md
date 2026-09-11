@@ -1151,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobylite: Season 2 - Red Trees | 222933 | [222933-chernobylite-season-2-red-trees.json](./222933-chernobylite-season-2-red-trees.json) |
 | Chernobylite: Season 3 - Green Walls | 222939 | [222939-chernobylite-season-3-green-walls.json](./222939-chernobylite-season-3-green-walls.json) |
 | Chernobylite: Season 4 - Black Smoke | 222942 | [222942-chernobylite-season-4-black-smoke.json](./222942-chernobylite-season-4-black-smoke.json) |
+| Chernomeat Survival Game | 118442 | [118442-chernomeat-survival-game.json](./118442-chernomeat-survival-game.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
 | Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
 | Cherry Island | 126552 | [126552-cherry-island.json](./126552-cherry-island.json) |
@@ -2055,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
 | CoLoBot | 80574 | [80574-colobot.json](./80574-colobot.json) |
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
+| Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
 | Colonist | 130901 | [130901-colonist.json](./130901-colonist.json) |
 | Colonizer | 244468 | [244468-colonizer.json](./244468-colonizer.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
@@ -2176,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colourise | 29897 | [29897-colourise.json](./29897-colourise.json) |
 | ColourS | 229381 | [229381-colours.json](./229381-colours.json) |
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
+| Colum and His Friends | 118346 | [118346-colum-and-his-friends.json](./118346-colum-and-his-friends.json) |
 | Columbo's Mystery Capers | 343251 | [343251-columbos-mystery-capers.json](./343251-columbos-mystery-capers.json) |
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
@@ -3586,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberHoney | 310171 | [310171-cyberhoney.json](./310171-cyberhoney.json) |
 | Cyberhunk | 211191 | [211191-cyberhunk.json](./211191-cyberhunk.json) |
 | Cyberia | 4331 | [4331-cyberia.json](./4331-cyberia.json) |
+| CyberMedic Simulator | 118365 | [118365-cybermedic-simulator.json](./118365-cybermedic-simulator.json) |
 | Cybermercs: The Soldiers of the 22nd Century | 70386 | [70386-cybermercs-the-soldiers-of-the-22nd-century.json](./70386-cybermercs-the-soldiers-of-the-22nd-century.json) |
 | Cybernated | 313681 | [313681-cybernated.json](./313681-cybernated.json) |
 | Cybernetic Fault | 161369 | [161369-cybernetic-fault.json](./161369-cybernetic-fault.json) |
