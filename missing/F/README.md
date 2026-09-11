@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
+| Fitzzle: Vicious Alligators | 108412 | [108412-fitzzle-vicious-alligators.json](./108412-fitzzle-vicious-alligators.json) |
 | Five a Side Football 2024 | 267413 | [267413-five-a-side-football-2024.json](./267413-five-a-side-football-2024.json) |
 | Five Dates | 141088 | [141088-five-dates.json](./141088-five-dates.json) |
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
@@ -1486,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower Garden | 346057 | [346057-flower-garden.json](./346057-flower-garden.json) |
 | Flower in the Snow: Resurrection | 164998 | [164998-flower-in-the-snow-resurrection.json](./164998-flower-in-the-snow-resurrection.json) |
 | Flower Lines | 69880 | [69880-flower-lines.json](./69880-flower-lines.json) |
+| Flower Magic | 108457 | [108457-flower-magic.json](./108457-flower-magic.json) |
 | Flower of Ice Blossoming Under the Moon | 82918 | [82918-flower-of-ice-blossoming-under-the-moon.json](./82918-flower-of-ice-blossoming-under-the-moon.json) |
 | Flower Shop of Broken Wonders | 299174 | [299174-flower-shop-of-broken-wonders.json](./299174-flower-shop-of-broken-wonders.json) |
 | Flower Shop: Big City Break | 209457 | [209457-flower-shop-big-city-break.json](./209457-flower-shop-big-city-break.json) |
