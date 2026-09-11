@@ -70,7 +70,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
-| A Mafia Escape | 351034 | [351034-a-mafia-escape.json](./351034-a-mafia-escape.json) |
 | A Mage Reborn | 207342 | [207342-a-mage-reborn.json](./207342-a-mage-reborn.json) |
 | A Magical Friday Night: Vs. Holy Quintet | 327857 | [327857-a-magical-friday-night-vs-holy-quintet.json](./327857-a-magical-friday-night-vs-holy-quintet.json) |
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
