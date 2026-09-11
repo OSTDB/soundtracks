@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Light | 149534 | [149534-adventure-light.json](./149534-adventure-light.json) |
 | Adventure Mosaics: Autumn Journey | 246958 | [246958-adventure-mosaics-autumn-journey.json](./246958-adventure-mosaics-autumn-journey.json) |
 | Adventure Mosaics: Brazilian Carnival | 338700 | [338700-adventure-mosaics-brazilian-carnival.json](./338700-adventure-mosaics-brazilian-carnival.json) |
+| Adventure of a Digger | 103425 | [103425-adventure-of-a-digger.json](./103425-adventure-of-a-digger.json) |
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Priestess | 200125 | [200125-adventure-of-priestess.json](./200125-adventure-of-priestess.json) |
@@ -1442,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altdeus: Beyond Chronos - Limited Edition | 166229 | [166229-altdeus-beyond-chronos-limited-edition.json](./166229-altdeus-beyond-chronos-limited-edition.json) |
 | Alter | 264033 | [264033-alter.json](./264033-alter.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
+| Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
 | Alter Ego Complex | 174307 | [174307-alter-ego-complex.json](./174307-alter-ego-complex.json) |
 | Alteration | 180803 | [180803-alteration.json](./180803-alteration.json) |
