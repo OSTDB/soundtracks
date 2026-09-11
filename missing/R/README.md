@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
 | Red Algorithm: Fernando | 172095 | [172095-red-algorithm-fernando.json](./172095-red-algorithm-fernando.json) |
 | Red and Blue: Cycles of Existence | 109739 | [109739-red-and-blue-cycles-of-existence.json](./109739-red-and-blue-cycles-of-existence.json) |
+| Red and the Deadly Sins | 106636 | [106636-red-and-the-deadly-sins.json](./106636-red-and-the-deadly-sins.json) |
 | Red and the Whispering Woods | 181357 | [181357-red-and-the-whispering-woods.json](./181357-red-and-the-whispering-woods.json) |
 | Red and White | 154018 | [154018-red-and-white.json](./154018-red-and-white.json) |
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repeat the Ending | 275602 | [275602-repeat-the-ending.json](./275602-repeat-the-ending.json) |
 | Repent | 270938 | [270938-repent.json](./270938-repent.json) |
 | Repentance | 202326 | [202326-repentance.json](./202326-repentance.json) |
+| Repentant | 106564 | [106564-repentant.json](./106564-repentant.json) |
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
@@ -2166,6 +2168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
 | RTL Winter Games 2007 | 152301 | [152301-rtl-winter-games-2007.json](./152301-rtl-winter-games-2007.json) |
+| RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
