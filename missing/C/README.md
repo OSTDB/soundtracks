@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Devi! | 222291 | [222291-chibi-devi.json](./222291-chibi-devi.json) |
 | Chibi Escape | 301285 | [301285-chibi-escape.json](./301285-chibi-escape.json) |
 | Chibi Fighters 2.0 | 130375 | [130375-chibi-fighters-2-0.json](./130375-chibi-fighters-2-0.json) |
+| Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
 | Chic Baby | 97342 | [97342-chic-baby.json](./97342-chic-baby.json) |
@@ -1501,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Yarn 2 | 278699 | [278699-christmas-yarn-2.json](./278699-christmas-yarn-2.json) |
 | Christmas: Dark Side | 286006 | [286006-christmas-dark-side.json](./286006-christmas-dark-side.json) |
 | Christmasdius | 63887 | [63887-christmasdius.json](./63887-christmasdius.json) |
+| Christmasville: The Missing Santa Adventures | 89195 | [89195-christmasville-the-missing-santa-adventures.json](./89195-christmasville-the-missing-santa-adventures.json) |
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
 | Chroam | 349858 | [349858-chroam.json](./349858-chroam.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
@@ -3048,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
 | Crazy Market | 62750 | [62750-crazy-market.json](./62750-crazy-market.json) |
+| Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
