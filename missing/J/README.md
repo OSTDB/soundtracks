@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy's Soccer Manager | 77377 | [77377-jimmys-soccer-manager.json](./77377-jimmys-soccer-manager.json) |
 | JimmyQuest | 299146 | [299146-jimmyquest.json](./299146-jimmyquest.json) |
 | Jin & Jan | 318182 | [318182-jin-and-jan.json](./318182-jin-and-jan.json) |
+| Jin Lin Love Story | 106563 | [106563-jin-lin-love-story.json](./106563-jin-lin-love-story.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jingle Cats | 63293 | [63293-jingle-cats.json](./63293-jingle-cats.json) |
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
