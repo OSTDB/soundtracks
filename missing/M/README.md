@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
+| Mage VR -Mini Version- | 114344 | [114344-mage-vr-mini-version.json](./114344-mage-vr-mini-version.json) |
 | Mage VR: The Lost Memories | 115619 | [115619-mage-vr-the-lost-memories.json](./115619-mage-vr-the-lost-memories.json) |
 | Mage vs. Castle | 301819 | [301819-mage-vs-castle.json](./301819-mage-vs-castle.json) |
 | Mage World: The Wizard's Stone | 169419 | [169419-mage-world-the-wizards-stone.json](./169419-mage-world-the-wizards-stone.json) |
@@ -3048,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn in Südafrika | 282543 | [282543-moorhuhn-in-sudafrika.json](./282543-moorhuhn-in-sudafrika.json) |
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
+| Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
 | Mopar Drag N Brag | 246965 | [246965-mopar-drag-n-brag.json](./246965-mopar-drag-n-brag.json) |
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
@@ -3352,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
+| Mr Twigs | 114435 | [114435-mr-twigs.json](./114435-mr-twigs.json) |
 | Mr White | 262073 | [262073-mr-white.json](./262073-mr-white.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
