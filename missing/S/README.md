@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sig | 103460 | [103460-sig.json](./103460-sig.json) |
 | Sig | 231087 | [231087-sig.json](./231087-sig.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
+| SightWords Pro | 89157 | [89157-sightwords-pro.json](./89157-sightwords-pro.json) |
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
 | Sigma Harmonics | 24946 | [24946-sigma-harmonics.json](./24946-sigma-harmonics.json) |
@@ -3124,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 243701 | [243701-solitaire.json](./243701-solitaire.json) |
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
 | Solitaire - Smart Moves | 102725 | [102725-solitaire-smart-moves.json](./102725-solitaire-smart-moves.json) |
+| Solitaire (Klondike) | 89221 | [89221-solitaire-klondike.json](./89221-solitaire-klondike.json) |
 | Solitaire & Mahjong | 117660 | [117660-solitaire-and-mahjong.json](./117660-solitaire-and-mahjong.json) |
 | Solitaire After Hours | 386147 | [386147-solitaire-after-hours.json](./386147-solitaire-after-hours.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
@@ -3148,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Story 3 | 205024 | [205024-solitaire-story-3.json](./205024-solitaire-story-3.json) |
 | Solitaire Superstars | 96764 | [96764-solitaire-superstars.json](./96764-solitaire-superstars.json) |
 | Solitaire Twin Pack | 122310 | [122310-solitaire-twin-pack.json](./122310-solitaire-twin-pack.json) |
+| Solitaire Ultimate | 89162 | [89162-solitaire-ultimate.json](./89162-solitaire-ultimate.json) |
 | Solitaire Valentine's Day 2 | 89237 | [89237-solitaire-valentines-day-2.json](./89237-solitaire-valentines-day-2.json) |
 | Solitaire: Beautiful Garden Season | 199579 | [199579-solitaire-beautiful-garden-season.json](./199579-solitaire-beautiful-garden-season.json) |
 | Solitaire: Classic Klondike Card Game | 88289 | [88289-solitaire-classic-klondike-card-game.json](./88289-solitaire-classic-klondike-card-game.json) |
@@ -4138,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
+| Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Ultimate | 100738 | [100738-spider-ultimate.json](./100738-spider-ultimate.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spider-Man | 220109 | [220109-spider-man.json](./220109-spider-man.json) |
@@ -5438,6 +5442,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
+| Stronghold Crusader II: The Emperor and The Hermit | 89218 | [89218-stronghold-crusader-ii-the-emperor-and-the-hermit.json](./89218-stronghold-crusader-ii-the-emperor-and-the-hermit.json) |
+| Stronghold Crusader II: The Princess and The Pig | 89217 | [89217-stronghold-crusader-ii-the-princess-and-the-pig.json](./89217-stronghold-crusader-ii-the-princess-and-the-pig.json) |
+| Stronghold Crusader II: The Templar &The Duke | 89219 | [89219-stronghold-crusader-ii-the-templar-and-the-duke.json](./89219-stronghold-crusader-ii-the-templar-and-the-duke.json) |
 | Stronghold Crusader: Definitive Edition - The Canary & The Trader | 371879 | [371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json](./371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json) |
 | Stronghold Defender | 18321 | [18321-stronghold-defender.json](./18321-stronghold-defender.json) |
 | Stronghold Deluxe | 98961 | [98961-stronghold-deluxe.json](./98961-stronghold-deluxe.json) |
@@ -5905,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Frog's Quest | 108410 | [108410-super-frogs-quest.json](./108410-super-frogs-quest.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
+| Super Gerball | 89179 | [89179-super-gerball.json](./89179-super-gerball.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Granny Collection | 27855 | [27855-super-granny-collection.json](./27855-super-granny-collection.json) |
