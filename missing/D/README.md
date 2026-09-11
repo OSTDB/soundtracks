@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Upon Us | 150615 | [150615-death-upon-us.json](./150615-death-upon-us.json) |
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
 | Death Walk | 217295 | [217295-death-walk.json](./217295-death-walk.json) |
+| Death Waves | 114978 | [114978-death-waves.json](./114978-death-waves.json) |
 | Death Wore Endless Feathers | 168383 | [168383-death-wore-endless-feathers.json](./168383-death-wore-endless-feathers.json) |
 | Death, Soul & Robots | 245854 | [245854-death-soul-and-robots.json](./245854-death-soul-and-robots.json) |
 | Death? Preposterous! | 133985 | [133985-death-preposterous.json](./133985-death-preposterous.json) |
@@ -1029,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
 | DEM_Stage_Zero | 127369 | [127369-dem-stage-zero.json](./127369-dem-stage-zero.json) |
+| DeMagnete VR | 115066 | [115066-demagnete-vr.json](./115066-demagnete-vr.json) |
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
@@ -1637,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
+| DinoVR | 114981 | [114981-dinovr.json](./114981-dinovr.json) |
 | Dio Simulator Remastered | 201841 | [201841-dio-simulator-remastered.json](./201841-dio-simulator-remastered.json) |
 | Diode Arena | 207336 | [207336-diode-arena.json](./207336-diode-arena.json) |
 | Diorama Builder | 161403 | [161403-diorama-builder.json](./161403-diorama-builder.json) |
@@ -3091,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
 | Dungeon Board | 311800 | [311800-dungeon-board.json](./311800-dungeon-board.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
+| Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
 | Dungeon Conqueror | 166172 | [166172-dungeon-conqueror.json](./166172-dungeon-conqueror.json) |
 | Dungeon Core Master | 274770 | [274770-dungeon-core-master.json](./274770-dungeon-core-master.json) |
@@ -3193,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Dusk | 380425 | [380425-dungeons-of-dusk.json](./380425-dungeons-of-dusk.json) |
 | Dungeons of Honor | 191193 | [191193-dungeons-of-honor.json](./191193-dungeons-of-honor.json) |
 | Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
+| Dungeons of Legend: Cast Within | 115073 | [115073-dungeons-of-legend-cast-within.json](./115073-dungeons-of-legend-cast-within.json) |
 | Dungeons of Loot | 133989 | [133989-dungeons-of-loot.json](./133989-dungeons-of-loot.json) |
 | Dungeons of Paint | 351002 | [351002-dungeons-of-paint.json](./351002-dungeons-of-paint.json) |
 | Dungeons of Shalnor | 187480 | [187480-dungeons-of-shalnor.json](./187480-dungeons-of-shalnor.json) |
