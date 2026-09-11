@@ -4111,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
 | Splash Jumper | 220837 | [220837-splash-jumper.json](./220837-splash-jumper.json) |
 | Splash Ship | 214176 | [214176-splash-ship.json](./214176-splash-ship.json) |
+| Splash Wars | 113676 | [113676-splash-wars.json](./113676-splash-wars.json) |
 | Splashy Cube | 147937 | [147937-splashy-cube.json](./147937-splashy-cube.json) |
 | Splashy Duck | 84893 | [84893-splashy-duck.json](./84893-splashy-duck.json) |
 | Splat Renegade Paintball | 47312 | [47312-splat-renegade-paintball.json](./47312-splat-renegade-paintball.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
+| Squish Machine | 113635 | [113635-squish-machine.json](./113635-squish-machine.json) |
 | Squish Run | 251204 | [251204-squish-run.json](./251204-squish-run.json) |
 | Squish the Zombies | 257367 | [257367-squish-the-zombies.json](./257367-squish-the-zombies.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
@@ -4772,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
+| Stary | 113644 | [113644-stary.json](./113644-stary.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
 | Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
@@ -5716,6 +5719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
+| Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Granny Collection | 27855 | [27855-super-granny-collection.json](./27855-super-granny-collection.json) |
 | Super Gravitron | 207834 | [207834-super-gravitron.json](./207834-super-gravitron.json) |
@@ -6345,6 +6349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
+| SurReal Subway | 113762 | [113762-surreal-subway.json](./113762-surreal-subway.json) |
 | Surrealidade: Definitive Edition | 235770 | [235770-surrealidade-definitive-edition.json](./235770-surrealidade-definitive-edition.json) |
 | Surreality | 71008 | [71008-surreality.json](./71008-surreality.json) |
 | Surreality Check | 387376 | [387376-surreality-check.json](./387376-surreality-check.json) |
