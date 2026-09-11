@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
+| Danmaku Unlimited | 124756 | [124756-danmaku-unlimited.json](./124756-danmaku-unlimited.json) |
 | Danmaku Unlimited 2 | 17107 | [17107-danmaku-unlimited-2.json](./17107-danmaku-unlimited-2.json) |
 | Dann Fox & the Time Machine | 192383 | [192383-dann-fox-and-the-time-machine.json](./192383-dann-fox-and-the-time-machine.json) |
 | Danny Phantom: Ghost Frenzy | 257386 | [257386-danny-phantom-ghost-frenzy.json](./257386-danny-phantom-ghost-frenzy.json) |
@@ -466,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
 | Dawn of Warriors | 30956 | [30956-dawn-of-warriors.json](./30956-dawn-of-warriors.json) |
 | Dawn of Yokai | 236299 | [236299-dawn-of-yokai.json](./236299-dawn-of-yokai.json) |
+| Dawn of Zombies: Survival | 124755 | [124755-dawn-of-zombies-survival.json](./124755-dawn-of-zombies-survival.json) |
 | Dawn One | 235750 | [235750-dawn-one.json](./235750-dawn-one.json) |
 | Day at the Counter | 178596 | [178596-day-at-the-counter.json](./178596-day-at-the-counter.json) |
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
@@ -2036,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino VR | 31894 | [31894-domino-vr.json](./31894-domino-vr.json) |
 | Dominoes Colors | 264599 | [264599-dominoes-colors.json](./264599-dominoes-colors.json) |
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
+| Dominus Galaxia | 124744 | [124744-dominus-galaxia.json](./124744-dominus-galaxia.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
 | Domo Jump | 63307 | [63307-domo-jump.json](./63307-domo-jump.json) |
@@ -2599,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
+| Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
 | Draw and Color: Kawaii - Director's Cut | 250361 | [250361-draw-and-color-kawaii-directors-cut.json](./250361-draw-and-color-kawaii-directors-cut.json) |
 | Draw and Lie | 147973 | [147973-draw-and-lie.json](./147973-draw-and-lie.json) |
@@ -2821,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Escape | 192930 | [192930-droid-escape.json](./192930-droid-escape.json) |
 | Droid Wars | 302100 | [302100-droid-wars.json](./302100-droid-wars.json) |
 | Droids | 84276 | [84276-droids.json](./84276-droids.json) |
+| Droids & Wizards | 124769 | [124769-droids-and-wizards.json](./124769-droids-and-wizards.json) |
 | Drömmar | 314631 | [314631-drommar.json](./314631-drommar.json) |
 | Drone Academy | 369576 | [369576-drone-academy.json](./369576-drone-academy.json) |
 | Drone Adventure | 301836 | [301836-drone-adventure.json](./301836-drone-adventure.json) |
