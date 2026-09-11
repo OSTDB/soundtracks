@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T07:18:43.467Z",
-  "total_missing": 57035,
+  "generated_at": "2026-09-11T07:21:04.556Z",
+  "total_missing": 57034,
   "games": [
     {
       "igdb_id": 306086,
@@ -1996,11 +1996,6 @@
       "igdb_id": 364521,
       "game_name": "A Future With You",
       "file": "missing/A/364521-a-future-with-you.json"
-    },
-    {
-      "igdb_id": 335270,
-      "game_name": "A Game About Mowing Your Lawn",
-      "file": "missing/A/335270-a-game-about-mowing-your-lawn.json"
     },
     {
       "igdb_id": 303749,
