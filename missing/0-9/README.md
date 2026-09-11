@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//G.U. Vol. 2: Reminisce HD | 182462 | [182462-hack-g-u-vol-2-reminisce-hd.json](./182462-hack-g-u-vol-2-reminisce-hd.json) |
 | .Hack//G.U. Vol. 3: Redemption HD | 182461 | [182461-hack-g-u-vol-3-redemption-hd.json](./182461-hack-g-u-vol-3-redemption-hd.json) |
 | .Hack//Z.E.R.O. | 390544 | [390544-hack-z-e-r-o.json](./390544-hack-z-e-r-o.json) |
+| .kkrieger: Chapter 1 | 94683 | [94683-kkrieger-chapter-1.json](./94683-kkrieger-chapter-1.json) |
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
 | 'Round The Mind | 265687 | [265687-round-the-mind.json](./265687-round-the-mind.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
+| 20 em 1 | 94700 | [94700-20-em-1.json](./94700-20-em-1.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 20 Words // 20 Seconds | 280751 | [280751-20-words-20-seconds.json](./280751-20-words-20-seconds.json) |
