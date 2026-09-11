@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
+| MazeFinger | 79863 | [79863-mazefinger.json](./79863-mazefinger.json) |
 | Mazeing | 306384 | [306384-mazeing.json](./306384-mazeing.json) |
 | Mazeman | 174276 | [174276-mazeman.json](./174276-mazeman.json) |
 | Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
@@ -2678,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Area Wars | 196338 | [196338-mobile-suit-gundam-area-wars.json](./196338-mobile-suit-gundam-area-wars.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy | 178045 | [178045-mobile-suit-gundam-battle-operation-code-fairy.json](./178045-mobile-suit-gundam-battle-operation-code-fairy.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
+| Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
 | Mobile Suit Gundam: Extreme Vs.2 XBoost | 196283 | [196283-mobile-suit-gundam-extreme-vs-2-xboost.json](./196283-mobile-suit-gundam-extreme-vs-2-xboost.json) |
 | Mobile Suit Gundam: Return of Zion | 222898 | [222898-mobile-suit-gundam-return-of-zion.json](./222898-mobile-suit-gundam-return-of-zion.json) |
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
@@ -3745,6 +3747,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Drive: Chase the Beat | 351004 | [351004-music-drive-chase-the-beat.json](./351004-music-drive-chase-the-beat.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music Intro Pro 68K | 265972 | [265972-music-intro-pro-68k.json](./265972-music-intro-pro-68k.json) |
+| Music on: Acoustic Guitar | 79882 | [79882-music-on-acoustic-guitar.json](./79882-music-on-acoustic-guitar.json) |
+| Music on: Electric Guitar | 79881 | [79881-music-on-electric-guitar.json](./79881-music-on-electric-guitar.json) |
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Music Sim Empire | 298031 | [298031-music-sim-empire.json](./298031-music-sim-empire.json) |
