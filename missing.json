@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T04:48:37.584Z",
-  "total_missing": 56637,
+  "generated_at": "2026-09-11T04:51:03.415Z",
+  "total_missing": 56636,
   "games": [
     {
       "igdb_id": 306086,
@@ -1921,11 +1921,6 @@
       "igdb_id": 235974,
       "game_name": "A Desert Christmas Story",
       "file": "missing/A/235974-a-desert-christmas-story.json"
-    },
-    {
-      "igdb_id": 217850,
-      "game_name": "A Devilish Nightmare",
-      "file": "missing/A/217850-a-devilish-nightmare.json"
     },
     {
       "igdb_id": 278426,
