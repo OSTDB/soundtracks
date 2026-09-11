@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Luck Cat | 183024 | [183024-bad-luck-cat.json](./183024-bad-luck-cat.json) |
 | Bad Mojo | 604 | [604-bad-mojo.json](./604-bad-mojo.json) |
 | Bad Mojo: Redux | 10020 | [10020-bad-mojo-redux.json](./10020-bad-mojo-redux.json) |
+| Bad Mojos | 119717 | [119717-bad-mojos.json](./119717-bad-mojos.json) |
 | Bad Mothafucka | 281368 | [281368-bad-mothafucka.json](./281368-bad-mothafucka.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
@@ -1196,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bepuzzled Jigsaw Puzzle: Nature | 241659 | [241659-bepuzzled-jigsaw-puzzle-nature.json](./241659-bepuzzled-jigsaw-puzzle-nature.json) |
 | Bepuzzled Jigsaw Puzzle: Paradise | 241661 | [241661-bepuzzled-jigsaw-puzzle-paradise.json](./241661-bepuzzled-jigsaw-puzzle-paradise.json) |
 | Bepuzzled Jigsaw Puzzle: Sweets | 241660 | [241660-bepuzzled-jigsaw-puzzle-sweets.json](./241660-bepuzzled-jigsaw-puzzle-sweets.json) |
+| Bepuzzled Kittens Jigsaw Puzzle | 119727 | [119727-bepuzzled-kittens-jigsaw-puzzle.json](./119727-bepuzzled-kittens-jigsaw-puzzle.json) |
 | Bepuzzled Puppy Dog Jigsaw Puzzle | 241656 | [241656-bepuzzled-puppy-dog-jigsaw-puzzle.json](./241656-bepuzzled-puppy-dog-jigsaw-puzzle.json) |
 | BER Bausimulator | 137651 | [137651-ber-bausimulator.json](./137651-ber-bausimulator.json) |
 | Beraboh Man | 40264 | [40264-beraboh-man.json](./40264-beraboh-man.json) |
@@ -1205,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berenstain Bears in Big Paw's Cave | 273082 | [273082-berenstain-bears-in-big-paws-cave.json](./273082-berenstain-bears-in-big-paws-cave.json) |
 | Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
 | Berkeley's Maid: Remake Edition | 298059 | [298059-berkeleys-maid-remake-edition.json](./298059-berkeleys-maid-remake-edition.json) |
+| Berlin 1936 | 119699 | [119699-berlin-1936.json](./119699-berlin-1936.json) |
 | Bermuda: Lost Survival | 43365 | [43365-bermuda-lost-survival.json](./43365-bermuda-lost-survival.json) |
 | Bermudes | 185089 | [185089-bermudes.json](./185089-bermudes.json) |
 | Bernard Arnault Sauve La France | 144238 | [144238-bernard-arnault-sauve-la-france.json](./144238-bernard-arnault-sauve-la-france.json) |
@@ -1289,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Kingdom | 294736 | [294736-beyond-the-kingdom.json](./294736-beyond-the-kingdom.json) |
 | Beyond the Kingdom 2 | 294737 | [294737-beyond-the-kingdom-2.json](./294737-beyond-the-kingdom-2.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
+| Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
 | Beyond the Thaw | 170433 | [170433-beyond-the-thaw.json](./170433-beyond-the-thaw.json) |
 | Beyond the Underworld | 133371 | [133371-beyond-the-underworld.json](./133371-beyond-the-underworld.json) |
@@ -2351,6 +2355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
 | BoomSweeper VR | 232970 | [232970-boomsweeper-vr.json](./232970-boomsweeper-vr.json) |
 | BoomTris | 120963 | [120963-boomtris.json](./120963-boomtris.json) |
+| Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boopie Island | 406732 | [406732-boopie-island.json](./406732-boopie-island.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
@@ -2880,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
+| Brutal Scales | 119704 | [119704-brutal-scales.json](./119704-brutal-scales.json) |
 | Brutal Sports Football | 40814 | [40814-brutal-sports-football.json](./40814-brutal-sports-football.json) |
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
 | Brutal Unreal 99 | 202848 | [202848-brutal-unreal-99.json](./202848-brutal-unreal-99.json) |
@@ -3020,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
+| Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
@@ -3262,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly Dream | 322974 | [322974-butterfly-dream.json](./322974-butterfly-dream.json) |
 | Butterfly Garden | 69285 | [69285-butterfly-garden.json](./69285-butterfly-garden.json) |
 | Butterfly Sky | 233519 | [233519-butterfly-sky.json](./233519-butterfly-sky.json) |
+| Butterfly: Rin | 119728 | [119728-butterfly-rin.json](./119728-butterfly-rin.json) |
 | Butterfly's Poison: Blood Chains - Fantasy Night Stories | 226207 | [226207-butterflys-poison-blood-chains-fantasy-night-stories.json](./226207-butterflys-poison-blood-chains-fantasy-night-stories.json) |
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
 | Button City: Soccer Days | 252771 | [252771-button-city-soccer-days.json](./252771-button-city-soccer-days.json) |
