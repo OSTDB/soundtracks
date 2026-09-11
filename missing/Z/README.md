@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zinnia | 145595 | [145595-zinnia.json](./145595-zinnia.json) |
 | Zinuru the Great | 157213 | [157213-zinuru-the-great.json](./157213-zinuru-the-great.json) |
 | Zion Survivors | 199091 | [199091-zion-survivors.json](./199091-zion-survivors.json) |
+| Zip A Doo | 91377 | [91377-zip-a-doo.json](./91377-zip-a-doo.json) |
 | Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
