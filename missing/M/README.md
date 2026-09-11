@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machine Heart | 248897 | [248897-machine-heart.json](./248897-machine-heart.json) |
 | Machine Hell | 94256 | [94256-machine-hell.json](./94256-machine-hell.json) |
 | Machine Knight | 39006 | [39006-machine-knight.json](./39006-machine-knight.json) |
+| Machine Learning: Episode I | 90571 | [90571-machine-learning-episode-i.json](./90571-machine-learning-episode-i.json) |
 | Machine Love 2069 | 247739 | [247739-machine-love-2069.json](./247739-machine-love-2069.json) |
 | Machine Men | 299448 | [299448-machine-men.json](./299448-machine-men.json) |
 | Machine of Madness | 409547 | [409547-machine-of-madness.json](./409547-machine-of-madness.json) |
@@ -1848,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolitan Mayhem | 270667 | [270667-metropolitan-mayhem.json](./270667-metropolitan-mayhem.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
 | Meu Primeiro Laptop da Xuxa | 255339 | [255339-meu-primeiro-laptop-da-xuxa.json](./255339-meu-primeiro-laptop-da-xuxa.json) |
+| Mew Mew Chamber for Steam | 90543 | [90543-mew-mew-chamber-for-steam.json](./90543-mew-mew-chamber-for-steam.json) |
 | Mew's Under The Truck | 276486 | [276486-mews-under-the-truck.json](./276486-mews-under-the-truck.json) |
 | Mewing Simulator | 312024 | [312024-mewing-simulator.json](./312024-mewing-simulator.json) |
 | MewMew PewPew | 201225 | [201225-mewmew-pewpew.json](./201225-mewmew-pewpew.json) |
@@ -2637,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Control: Complete Edition | 283169 | [283169-mob-control-complete-edition.json](./283169-mob-control-complete-edition.json) |
 | Mob Drop Castle | 406078 | [406078-mob-drop-castle.json](./406078-mob-drop-castle.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
+| Mob War | 90546 | [90546-mob-war.json](./90546-mob-war.json) |
 | Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
