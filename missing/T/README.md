@@ -5814,6 +5814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
 | Trials of the Illuminati: Amazing Wildlife Jigsaws | 68201 | [68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json](./68201-trials-of-the-illuminati-amazing-wildlife-jigsaws.json) |
 | Trials of the Illuminati: Snack Time Jigsaw Puzzles | 109660 | [109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json](./109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json) |
+| Trials of Topaq | 99582 | [99582-trials-of-topaq.json](./99582-trials-of-topaq.json) |
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
@@ -5907,6 +5908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Vault: Fashion Trivia | 101615 | [101615-trivia-vault-fashion-trivia.json](./101615-trivia-vault-fashion-trivia.json) |
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
+| Trivia Vault: Movie Trivia | 99663 | [99663-trivia-vault-movie-trivia.json](./99663-trivia-vault-movie-trivia.json) |
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivia Vault: TV Trivia | 100150 | [100150-trivia-vault-tv-trivia.json](./100150-trivia-vault-tv-trivia.json) |
 | Trivial Pursuit Online | 355006 | [355006-trivial-pursuit-online.json](./355006-trivial-pursuit-online.json) |
@@ -6162,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turmoil: The Heat Is On | 124826 | [124826-turmoil-the-heat-is-on.json](./124826-turmoil-the-heat-is-on.json) |
 | Turn on the Lights Carefully | 238750 | [238750-turn-on-the-lights-carefully.json](./238750-turn-on-the-lights-carefully.json) |
 | Turn Tack | 197919 | [197919-turn-tack.json](./197919-turn-tack.json) |
+| Turn-Based Champion | 99664 | [99664-turn-based-champion.json](./99664-turn-based-champion.json) |
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
 | Turnabout Bakeshop | 303245 | [303245-turnabout-bakeshop.json](./303245-turnabout-bakeshop.json) |
 | Turnabout Divergence | 318785 | [318785-turnabout-divergence.json](./318785-turnabout-divergence.json) |
