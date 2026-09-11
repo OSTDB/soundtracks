@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Vacas | 138729 | [138729-100-vacas.json](./138729-100-vacas.json) |
 | 100 Wars | 316430 | [316430-100-wars.json](./316430-100-wars.json) |
 | 100 Women: Guess the Name of 100 Famous Women | 369054 | [369054-100-women-guess-the-name-of-100-famous-women.json](./369054-100-women-guess-the-name-of-100-famous-women.json) |
+| 100 Years' War | 96687 | [96687-100-years-war.json](./96687-100-years-war.json) |
 | 100% Complete | 413678 | [413678-100-complete.json](./413678-100-complete.json) |
 | 100% Orange Juice | 11426 | [11426-100-orange-juice.json](./11426-100-orange-juice.json) |
 | 100% Orange Juice: Alicianrone & Teotoratta | 164469 | [164469-100-orange-juice-alicianrone-and-teotoratta.json](./164469-100-orange-juice-alicianrone-and-teotoratta.json) |
