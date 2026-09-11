@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | DarkCoating | 163397 | [163397-darkcoating.json](./163397-darkcoating.json) |
 | Darkdire | 112954 | [112954-darkdire.json](./112954-darkdire.json) |
+| DarkEdeNight | 86050 | [86050-darkedenight.json](./86050-darkedenight.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
 | Darkest Corners | 404867 | [404867-darkest-corners.json](./404867-darkest-corners.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwin's Legacy | 184596 | [184596-darwins-legacy.json](./184596-darwins-legacy.json) |
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
+| Das Erbe | 86037 | [86037-das-erbe.json](./86037-das-erbe.json) |
 | Das Rätsel in Ägypten | 81399 | [81399-das-ratsel-in-agypten.json](./81399-das-ratsel-in-agypten.json) |
 | Das Tier | 141155 | [141155-das-tier.json](./141155-das-tier.json) |
 | Dasaku | 137041 | [137041-dasaku.json](./137041-dasaku.json) |
@@ -1209,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
 | Der Gesundheits Coach: Wohlfuhlen jeden Tag | 269579 | [269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json](./269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json) |
 | Der Große Preis von Raddorf | 98955 | [98955-der-gro-e-preis-von-raddorf.json](./98955-der-gro-e-preis-von-raddorf.json) |
+| Der Planer | 86048 | [86048-der-planer.json](./86048-der-planer.json) |
 | Der Planer 3 | 92964 | [92964-der-planer-3.json](./92964-der-planer-3.json) |
 | Der Wanderer über dem Säuremeer | 271231 | [271231-der-wanderer-uber-dem-sauremeer.json](./271231-der-wanderer-uber-dem-sauremeer.json) |
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
@@ -1537,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die drei???: Plan der Chamäleonbande | 302665 | [302665-die-drei-plan-der-chamaleonbande.json](./302665-die-drei-plan-der-chamaleonbande.json) |
 | Die Erdnussbutter | 285978 | [285978-die-erdnussbutter.json](./285978-die-erdnussbutter.json) |
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
+| Die Fugger | 86040 | [86040-die-fugger.json](./86040-die-fugger.json) |
 | Die goldene Maske | 141154 | [141154-die-goldene-maske.json](./141154-die-goldene-maske.json) |
 | Die Hard Trilogy | 8234 | [8234-die-hard-trilogy.json](./8234-die-hard-trilogy.json) |
 | Die Hard with a Vengeance | 245292 | [245292-die-hard-with-a-vengeance.json](./245292-die-hard-with-a-vengeance.json) |
