@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
 | Tales of Arise: Premium Edition | 146339 | [146339-tales-of-arise-premium-edition.json](./146339-tales-of-arise-premium-edition.json) |
 | Tales of Arise: SAO Collaboration Pack | 259813 | [259813-tales-of-arise-sao-collaboration-pack.json](./259813-tales-of-arise-sao-collaboration-pack.json) |
+| Tales of Beasteria | 127249 | [127249-tales-of-beasteria.json](./127249-tales-of-beasteria.json) |
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
@@ -374,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
 | Tangy TD | 236534 | [236534-tangy-td.json](./236534-tangy-td.json) |
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
+| TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
 | Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
@@ -1590,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
+| The Dreamwalkers | 127221 | [127221-the-dreamwalkers.json](./127221-the-dreamwalkers.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Drugstore: Matsumoto Kiyoshi de Okaimono! | 280792 | [280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json](./280792-the-drugstore-matsumoto-kiyoshi-de-okaimono.json) |
 | The Duck Pond | 310220 | [310220-the-duck-pond.json](./310220-the-duck-pond.json) |
@@ -2388,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loneliest Summer | 159827 | [159827-the-loneliest-summer.json](./159827-the-loneliest-summer.json) |
 | The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
 | The Lonely League | 245004 | [245004-the-lonely-league.json](./245004-the-lonely-league.json) |
+| The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
@@ -2449,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
 | The Lost Skywhales | 182976 | [182976-the-lost-skywhales.json](./182976-the-lost-skywhales.json) |
 | The Lost Tetekoa | 327202 | [327202-the-lost-tetekoa.json](./327202-the-lost-tetekoa.json) |
+| The Lost Throne | 127199 | [127199-the-lost-throne.json](./127199-the-lost-throne.json) |
 | The Lost Town: The Dust | 65872 | [65872-the-lost-town-the-dust.json](./65872-the-lost-town-the-dust.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Vikings | 454 | [454-the-lost-vikings.json](./454-the-lost-vikings.json) |
@@ -2620,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
 | The Normal Turnabout | 310410 | [310410-the-normal-turnabout.json](./310410-the-normal-turnabout.json) |
 | The North | 299771 | [299771-the-north.json](./299771-the-north.json) |
+| The North Pole | 127227 | [127227-the-north-pole.json](./127227-the-north-pole.json) |
 | The Not-Deer Stew | 382797 | [382797-the-not-deer-stew.json](./382797-the-not-deer-stew.json) |
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
@@ -2768,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
+| The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
 | The Quarry | 194404 | [194404-the-quarry.json](./194404-the-quarry.json) |
 | The Queen of Battlers 2 | 324923 | [324923-the-queen-of-battlers-2.json](./324923-the-queen-of-battlers-2.json) |
 | The Queen TV-Game 2 | 147931 | [147931-the-queen-tv-game-2.json](./147931-the-queen-tv-game-2.json) |
@@ -2907,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
 | The Secret of Varonis | 244780 | [244780-the-secret-of-varonis.json](./244780-the-secret-of-varonis.json) |
+| The Secret Order 8: Return to the Buried Kingdom | 127205 | [127205-the-secret-order-8-return-to-the-buried-kingdom.json](./127205-the-secret-order-8-return-to-the-buried-kingdom.json) |
 | The Secret Story 1996 | 396191 | [396191-the-secret-story-1996.json](./396191-the-secret-story-1996.json) |
 | The Secret Workshop of Wishes | 385073 | [385073-the-secret-workshop-of-wishes.json](./385073-the-secret-workshop-of-wishes.json) |
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
@@ -3822,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderdawn | 342615 | [342615-thunderdawn.json](./342615-thunderdawn.json) |
 | Thunderday | 249220 | [249220-thunderday.json](./249220-thunderday.json) |
 | ThunderDome | 132170 | [132170-thunderdome.json](./132170-thunderdome.json) |
+| Thunderflash | 127230 | [127230-thunderflash.json](./127230-thunderflash.json) |
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
 | Thunderstrike 2 | 24991 | [24991-thunderstrike-2.json](./24991-thunderstrike-2.json) |
@@ -3835,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
 | Thysiastery | 334695 | [334695-thysiastery.json](./334695-thysiastery.json) |
 | Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
+| Tiamat's Drink | 127198 | [127198-tiamats-drink.json](./127198-tiamats-drink.json) |
 | Tiān Yuán Chuánshuō | 407320 | [407320-tian-yuan-chuanshuo.json](./407320-tian-yuan-chuanshuo.json) |
 | Tiānqì | 167820 | [167820-tianqi.json](./167820-tianqi.json) |
 | Tiānrén zhī Xuè: Ancient Relic | 394213 | [394213-tianren-zhi-xue-ancient-relic.json](./394213-tianren-zhi-xue-ancient-relic.json) |
