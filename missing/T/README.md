@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History of Fruit | 268471 | [268471-the-history-of-fruit.json](./268471-the-history-of-fruit.json) |
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
+| The Hobbit : Gold Miner | 105873 | [105873-the-hobbit-gold-miner.json](./105873-the-hobbit-gold-miner.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
@@ -2867,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
+| The Q - Live Trivia Network | 105863 | [105863-the-q-live-trivia-network.json](./105863-the-q-live-trivia-network.json) |
 | The Quarry | 194404 | [194404-the-quarry.json](./194404-the-quarry.json) |
 | The Queen of Battlers 2 | 324923 | [324923-the-queen-of-battlers-2.json](./324923-the-queen-of-battlers-2.json) |
 | The Queen TV-Game 2 | 147931 | [147931-the-queen-tv-game-2.json](./147931-the-queen-tv-game-2.json) |
@@ -3529,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
 | The Unknown | 336516 | [336516-the-unknown.json](./336516-the-unknown.json) |
+| The Unknown City (Episode 1) | 105987 | [105987-the-unknown-city-episode-1.json](./105987-the-unknown-city-episode-1.json) |
 | The Unknown Planet | 270684 | [270684-the-unknown-planet.json](./270684-the-unknown-planet.json) |
 | The Unmarked | 153353 | [153353-the-unmarked.json](./153353-the-unmarked.json) |
 | The Unrest Age | 197852 | [197852-the-unrest-age.json](./197852-the-unrest-age.json) |
@@ -5319,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
 | Train No. 7 | 163960 | [163960-train-no-7.json](./163960-train-no-7.json) |
 | Train of Afterlife | 35939 | [35939-train-of-afterlife.json](./35939-train-of-afterlife.json) |
+| Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
 | Train Sim World 2: BR Class 313 | 205574 | [205574-train-sim-world-2-br-class-313.json](./205574-train-sim-world-2-br-class-313.json) |
 | Train Sim World 2: Collector's Edition | 139931 | [139931-train-sim-world-2-collectors-edition.json](./139931-train-sim-world-2-collectors-edition.json) |
 | Train Sim World 2: DB BR 182 Loco Add-On | 167301 | [167301-train-sim-world-2-db-br-182-loco-add-on.json](./167301-train-sim-world-2-db-br-182-loco-add-on.json) |
@@ -5878,6 +5882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
 | Trojan | 236835 | [236835-trojan.json](./236835-trojan.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
+| Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
