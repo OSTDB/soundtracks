@@ -1758,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growth | 331885 | [331885-growth.json](./331885-growth.json) |
 | Gru Dash Play | 384538 | [384538-gru-dash-play.json](./384538-gru-dash-play.json) |
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
+| Grumpy Cat's Worst Game Ever | 98930 | [98930-grumpy-cats-worst-game-ever.json](./98930-grumpy-cats-worst-game-ever.json) |
 | Grumpy Witch | 115015 | [115015-grumpy-witch.json](./115015-grumpy-witch.json) |
 | GrundHeim | 235969 | [235969-grundheim.json](./235969-grundheim.json) |
 | Gruniożerca Trilogy | 371253 | [371253-gruniozerca-trilogy.json](./371253-gruniozerca-trilogy.json) |
