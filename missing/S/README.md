@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Paravia and Fiumaccio | 93011 | [93011-santa-paravia-and-fiumaccio.json](./93011-santa-paravia-and-fiumaccio.json) |
 | Santa Present Defense | 183510 | [183510-santa-present-defense.json](./183510-santa-present-defense.json) |
 | Santa Protects the Christmas Tree | 190133 | [190133-santa-protects-the-christmas-tree.json](./190133-santa-protects-the-christmas-tree.json) |
+| Santa Rockstar: Steam Edition | 90562 | [90562-santa-rockstar-steam-edition.json](./90562-santa-rockstar-steam-edition.json) |
 | Santa Runner | 111687 | [111687-santa-runner.json](./111687-santa-runner.json) |
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
 | Santa Simulator | 112993 | [112993-santa-simulator.json](./112993-santa-simulator.json) |
@@ -3644,6 +3645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Voltex: Vivid Wave | 126031 | [126031-sound-voltex-vivid-wave.json](./126031-sound-voltex-vivid-wave.json) |
 | Soundboxing | 31625 | [31625-soundboxing.json](./31625-soundboxing.json) |
 | Soundbusting | 177996 | [177996-soundbusting.json](./177996-soundbusting.json) |
+| SoundLites | 90594 | [90594-soundlites.json](./90594-soundlites.json) |
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
 | Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
@@ -4715,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
+| Star-Rocket Strike | 90616 | [90616-star-rocket-strike.json](./90616-star-rocket-strike.json) |
 | Star-Wired | 310939 | [310939-star-wired.json](./310939-star-wired.json) |
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
 | Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
@@ -6860,6 +6863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
 | Symbiotic Love | 159361 | [159361-symbiotic-love.json](./159361-symbiotic-love.json) |
 | Symbol | 229930 | [229930-symbol.json](./229930-symbol.json) |
+| symeCu8e | 90620 | [90620-symecu8e.json](./90620-symecu8e.json) |
 | Symmetrain | 123074 | [123074-symmetrain.json](./123074-symmetrain.json) |
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
