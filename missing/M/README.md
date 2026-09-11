@@ -2562,6 +2562,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Sisters | 414310 | [414310-model-sisters.json](./414310-model-sisters.json) |
 | Model Style: Dress Up! | 314878 | [314878-model-style-dress-up.json](./314878-model-style-dress-up.json) |
 | Moderium | 127214 | [127214-moderium.json](./127214-moderium.json) |
+| Modern Campaigns: Danube Front '85 | 124738 | [124738-modern-campaigns-danube-front-85.json](./124738-modern-campaigns-danube-front-85.json) |
+| Modern Campaigns: Middle East '67 | 124737 | [124737-modern-campaigns-middle-east-67.json](./124737-modern-campaigns-middle-east-67.json) |
 | Modern Campaigns: Quang Tri '72 | 229964 | [229964-modern-campaigns-quang-tri-72.json](./229964-modern-campaigns-quang-tri-72.json) |
 | Modern Cannon Strike | 239041 | [239041-modern-cannon-strike.json](./239041-modern-cannon-strike.json) |
 | Modern Combat | 166216 | [166216-modern-combat.json](./166216-modern-combat.json) |
@@ -3714,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
 | My Little Pony Hair Salon | 287085 | [287085-my-little-pony-hair-salon.json](./287085-my-little-pony-hair-salon.json) |
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
+| My Little Pony: Best Friends Ball | 124742 | [124742-my-little-pony-best-friends-ball.json](./124742-my-little-pony-best-friends-ball.json) |
 | My Little Pony: Fighting is Magic | 137023 | [137023-my-little-pony-fighting-is-magic.json](./137023-my-little-pony-fighting-is-magic.json) |
 | My Little Pony: Fighting is Magic - Tribute Edition | 146263 | [146263-my-little-pony-fighting-is-magic-tribute-edition.json](./146263-my-little-pony-fighting-is-magic-tribute-edition.json) |
 | My Little Pony: Grand Puzzleventure | 220097 | [220097-my-little-pony-grand-puzzleventure.json](./220097-my-little-pony-grand-puzzleventure.json) |
@@ -3880,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystereet: Yasogami Kaoru no Chousen! | 137025 | [137025-mystereet-yasogami-kaoru-no-chousen.json](./137025-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
+| Mysteries of Magic Island | 124741 | [124741-mysteries-of-magic-island.json](./124741-mysteries-of-magic-island.json) |
 | Mysteries of Peak Valley: Case 1 - The Lost Sonata | 171536 | [171536-mysteries-of-peak-valley-case-1-the-lost-sonata.json](./171536-mysteries-of-peak-valley-case-1-the-lost-sonata.json) |
 | Mysteries of Peak Valley: Case 2 - The White Lady | 171537 | [171537-mysteries-of-peak-valley-case-2-the-white-lady.json](./171537-mysteries-of-peak-valley-case-2-the-white-lady.json) |
 | Mysteries of Peak Valley: Case 3 - The Ruin of Souls | 171538 | [171538-mysteries-of-peak-valley-case-3-the-ruin-of-souls.json](./171538-mysteries-of-peak-valley-case-3-the-ruin-of-souls.json) |
@@ -3900,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Dire Grove, Sacred Grove - Collector's Edition | 135809 | [135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json](./135809-mystery-case-files-dire-grove-sacred-grove-collectors-edition.json) |
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
+| Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
