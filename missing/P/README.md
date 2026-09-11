@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
+| Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
@@ -940,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2: Vivienne Pack | 225862 | [225862-phantasy-star-online-2-vivienne-pack.json](./225862-phantasy-star-online-2-vivienne-pack.json) |
 | PhantazmA | 125429 | [125429-phantazma.json](./125429-phantazma.json) |
 | Phantom | 258994 | [258994-phantom.json](./258994-phantom.json) |
+| Phantom Astronaut Lucid VR | 122340 | [122340-phantom-astronaut-lucid-vr.json](./122340-phantom-astronaut-lucid-vr.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
@@ -1602,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Therapy: Queens | 266802 | [266802-plant-therapy-queens.json](./266802-plant-therapy-queens.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
+| Plantgotchi | 122321 | [122321-plantgotchi.json](./122321-plantgotchi.json) |
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
 | Plants vs. Zombies | 275575 | [275575-plants-vs-zombies.json](./275575-plants-vs-zombies.json) |
@@ -2635,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Demigod | 153945 | [153945-project-demigod.json](./153945-project-demigod.json) |
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
+| Project Dunk | 122328 | [122328-project-dunk.json](./122328-project-dunk.json) |
 | Project DX | 174821 | [174821-project-dx.json](./174821-project-dx.json) |
 | Project Eagle | 344958 | [344958-project-eagle.json](./344958-project-eagle.json) |
 | Project Earth | 180790 | [180790-project-earth.json](./180790-project-earth.json) |
