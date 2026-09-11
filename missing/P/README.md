@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perman World | 346040 | [346040-perman-world.json](./346040-perman-world.json) |
 | Permanence TD | 195256 | [195256-permanence-td.json](./195256-permanence-td.json) |
 | Permanent Daylight | 62194 | [62194-permanent-daylight.json](./62194-permanent-daylight.json) |
+| Permission VR | 108425 | [108425-permission-vr.json](./108425-permission-vr.json) |
 | Peropero Candy: You no Shou | 373030 | [373030-peropero-candy-you-no-shou.json](./373030-peropero-candy-you-no-shou.json) |
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
@@ -1066,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piàozhě! Xiǎohuì de Dǎgōng Dàzuòzhàn | 156626 | [156626-piaozhe-xiaohui-de-dagong-dazuozhan.json](./156626-piaozhe-xiaohui-de-dagong-dazuozhan.json) |
 | Pic-Man | 279611 | [279611-pic-man.json](./279611-pic-man.json) |
 | Picaboo Star | 175330 | [175330-picaboo-star.json](./175330-picaboo-star.json) |
+| PicaSim - Flight Simulator | 108517 | [108517-picasim-flight-simulator.json](./108517-picasim-flight-simulator.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Pichenette | 384530 | [384530-pichenette.json](./384530-pichenette.json) |
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
@@ -1421,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Mage Quest RPG | 145050 | [145050-pixel-mage-quest-rpg.json](./145050-pixel-mage-quest-rpg.json) |
 | Pixel of War | 294424 | [294424-pixel-of-war.json](./294424-pixel-of-war.json) |
 | Pixel Origin | 104654 | [104654-pixel-origin.json](./104654-pixel-origin.json) |
+| Pixel Paint - Coloring games | 108520 | [108520-pixel-paint-coloring-games.json](./108520-pixel-paint-coloring-games.json) |
 | Pixel Paint 2: Definitive Edition | 275031 | [275031-pixel-paint-2-definitive-edition.json](./275031-pixel-paint-2-definitive-edition.json) |
 | Pixel Paint 2: Deluxe Edition | 256267 | [256267-pixel-paint-2-deluxe-edition.json](./256267-pixel-paint-2-deluxe-edition.json) |
 | Pixel Paint 2: Platinum Edition | 283166 | [283166-pixel-paint-2-platinum-edition.json](./283166-pixel-paint-2-platinum-edition.json) |
@@ -2684,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Genom | 24907 | [24907-project-genom.json](./24907-project-genom.json) |
 | Project GGG | 273623 | [273623-project-ggg.json](./273623-project-ggg.json) |
 | Project Glasloc | 253577 | [253577-project-glasloc.json](./253577-project-glasloc.json) |
+| Project GR-5LYR: Galactic Relocation | 108422 | [108422-project-gr-5lyr-galactic-relocation.json](./108422-project-gr-5lyr-galactic-relocation.json) |
 | Project Gravity | 139385 | [139385-project-gravity.json](./139385-project-gravity.json) |
 | Project H.A.Z.A.R.D | 216218 | [216218-project-h-a-z-a-r-d.json](./216218-project-h-a-z-a-r-d.json) |
 | Project Hailstorm | 331144 | [331144-project-hailstorm.json](./331144-project-hailstorm.json) |
