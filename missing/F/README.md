@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Princess | 55909 | [55909-fallen-princess.json](./55909-fallen-princess.json) |
 | Fallen Relics | 360570 | [360570-fallen-relics.json](./360570-fallen-relics.json) |
 | Fallen Seeds | 270112 | [270112-fallen-seeds.json](./270112-fallen-seeds.json) |
+| Fallen: Town of Heritage and Makina the Blazing Hair | 82831 | [82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json](./82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json) |
 | Fallen's Challenge | 285467 | [285467-fallens-challenge.json](./285467-fallens-challenge.json) |
 | Falling Apart | 402261 | [402261-falling-apart.json](./402261-falling-apart.json) |
 | Falling Ball Blue | 107128 | [107128-falling-ball-blue.json](./107128-falling-ball-blue.json) |
