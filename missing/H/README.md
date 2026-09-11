@@ -210,7 +210,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Clicker! | 340410 | [340410-hamster-clicker.json](./340410-hamster-clicker.json) |
 | Hamster Club-i | 143657 | [143657-hamster-club-i.json](./143657-hamster-club-i.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
+| Hamster Monogatari 3, 4, Special | 97817 | [97817-hamster-monogatari-3-4-special.json](./97817-hamster-monogatari-3-4-special.json) |
 | Hamster Monogatari 64 | 3509 | [3509-hamster-monogatari-64.json](./3509-hamster-monogatari-64.json) |
+| Hamster Monogatari GB + Magi Ham Mahou no Shoujo | 97853 | [97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json](./97853-hamster-monogatari-gb-magi-ham-mahou-no-shoujo.json) |
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hana | 178033 | [178033-hana.json](./178033-hana.json) |
@@ -218,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
+| Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
@@ -227,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
+| Hand Maid Mahjong 2 | 97823 | [97823-hand-maid-mahjong-2.json](./97823-hand-maid-mahjong-2.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
 | Hand Simulator: Shooter | 326407 | [326407-hand-simulator-shooter.json](./326407-hand-simulator-shooter.json) |
@@ -356,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
+| Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
 | Hardcore Parkour | 119765 | [119765-hardcore-parkour.json](./119765-hardcore-parkour.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
@@ -1578,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
 | Hocus Pocus Prince | 183563 | [183563-hocus-pocus-prince.json](./183563-hocus-pocus-prince.json) |
 | HocusDOOM | 201232 | [201232-hocusdoom.json](./201232-hocusdoom.json) |
+| Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
 | Hoggy 2 | 28916 | [28916-hoggy-2.json](./28916-hoggy-2.json) |
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
@@ -1745,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai: Star Rail - Unraveled for Daybreak | 394848 | [394848-honkai-star-rail-unraveled-for-daybreak.json](./394848-honkai-star-rail-unraveled-for-daybreak.json) |
 | Honkaku AI Tousai Daifugo | 144999 | [144999-honkaku-ai-tousai-daifugo.json](./144999-honkaku-ai-tousai-daifugo.json) |
 | Honkaku AI Tousai Ginsei Mahjong | 145000 | [145000-honkaku-ai-tousai-ginsei-mahjong.json](./145000-honkaku-ai-tousai-ginsei-mahjong.json) |
+| Honkaku Taisen Shogi Ayumu | 97856 | [97856-honkaku-taisen-shogi-ayumu.json](./97856-honkaku-taisen-shogi-ayumu.json) |
 | Honker | 291476 | [291476-honker.json](./291476-honker.json) |
 | Honki de Manabu LEC de Goukakuru: Hishou Boki 3-Kyuu Portable | 67324 | [67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json](./67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json) |
 | Honki de Manabu LEC de Goukakuru: Takuchi Tatemono Torihiki Shuninsha Portable | 67325 | [67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json](./67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json) |
