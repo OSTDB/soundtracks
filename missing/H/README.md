@@ -1552,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokkaido Hatsu!! Dosanko Wide ga DS ni Narimashita! Hoshizawa Sachiko no Temanashi Raku Raku Gohan | 269584 | [269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json](./269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json) |
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206134 | [206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
+| Hokusai | 106540 | [106540-hokusai.json](./106540-hokusai.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Hold the Mine | 362284 | [362284-hold-the-mine.json](./362284-hold-the-mine.json) |
