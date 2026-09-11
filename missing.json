@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:03:30.780Z",
-  "total_missing": 58355,
+  "generated_at": "2026-09-11T15:10:59.933Z",
+  "total_missing": 58354,
   "games": [
     {
       "igdb_id": 306086,
@@ -2246,11 +2246,6 @@
       "igdb_id": 182517,
       "game_name": "A Maze for Owls",
       "file": "missing/A/182517-a-maze-for-owls.json"
-    },
-    {
-      "igdb_id": 291459,
-      "game_name": "A Maze-ing Runner",
-      "file": "missing/A/291459-a-maze-ing-runner.json"
     },
     {
       "igdb_id": 54470,
