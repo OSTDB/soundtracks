@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kajko i Kokosz | 93588 | [93588-kajko-i-kokosz.json](./93588-kajko-i-kokosz.json) |
 | Kajko i Kokosz: Twierdza Czarnoksiężnika | 135172 | [135172-kajko-i-kokosz-twierdza-czarnoksieznika.json](./135172-kajko-i-kokosz-twierdza-czarnoksieznika.json) |
 | Kajko i Kokosz: W Krainie Borostworów | 93587 | [93587-kajko-i-kokosz-w-krainie-borostworow.json](./93587-kajko-i-kokosz-w-krainie-borostworow.json) |
+| Kakapo-Go! | 112277 | [112277-kakapo-go.json](./112277-kakapo-go.json) |
 | Kakatte Koi Yo! | 127671 | [127671-kakatte-koi-yo.json](./127671-kakatte-koi-yo.json) |
 | Kakefu-kun no Jump Tengoku Speed Jigoku | 215129 | [215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json](./215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json) |
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
@@ -209,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Action | 57132 | [57132-katana-action.json](./57132-katana-action.json) |
 | Katana Dragon | 326631 | [326631-katana-dragon.json](./326631-katana-dragon.json) |
 | Katana Of Rin | 297223 | [297223-katana-of-rin.json](./297223-katana-of-rin.json) |
+| Katana Soul | 115074 | [115074-katana-soul.json](./115074-katana-soul.json) |
 | Katana Zero DLC | 339625 | [339625-katana-zero-dlc.json](./339625-katana-zero-dlc.json) |
 | Katana's Path | 289307 | [289307-katanas-path.json](./289307-katanas-path.json) |
 | Katanirvana | 253028 | [253028-katanirvana.json](./253028-katanirvana.json) |
@@ -907,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokohore! Pukka: Dig-a-Dig Pukka | 138825 | [138825-kokohore-pukka-dig-a-dig-pukka.json](./138825-kokohore-pukka-dig-a-dig-pukka.json) |
 | Kokomando | 299719 | [299719-kokomando.json](./299719-kokomando.json) |
 | Kokontouzai Eto Monogatari | 40229 | [40229-kokontouzai-eto-monogatari.json](./40229-kokontouzai-eto-monogatari.json) |
+| Kokoro Connect: Yochi Random | 112296 | [112296-kokoro-connect-yochi-random.json](./112296-kokoro-connect-yochi-random.json) |
 | Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
 | Kokoro Talkers | 325446 | [325446-kokoro-talkers.json](./325446-kokoro-talkers.json) |
 | Kokoro: Baka-Monogatari | 150134 | [150134-kokoro-baka-monogatari.json](./150134-kokoro-baka-monogatari.json) |
@@ -943,6 +946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kono Aozora ni Yakusoku wo: Te no Hira no Rakuen | 324676 | [324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json](./324676-kono-aozora-ni-yakusoku-wo-te-no-hira-no-rakuen.json) |
 | Kono Koi, Seishun ni Yori. | 194585 | [194585-kono-koi-seishun-ni-yori.json](./194585-kono-koi-seishun-ni-yori.json) |
 | Kono Subarashii Sekai ni Shukufuku o! Fantasutikku Deizu | 131568 | [131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json](./131568-kono-subarashii-sekai-ni-shukufuku-o-fantasutikku-deizu.json) |
+| Kono Subarashii Sekai ni Shukufuku wo!: Kono Yokubukai Game ni Shinpan wo! | 112301 | [112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json](./112301-kono-subarashii-sekai-ni-shukufuku-wo-kono-yokubukai-game-ni-shinpan-wo.json) |
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
