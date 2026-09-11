@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il Dule | 396201 | [396201-il-dule.json](./396201-il-dule.json) |
 | Il Filo Conduttore | 134699 | [134699-il-filo-conduttore.json](./134699-il-filo-conduttore.json) |
 | Il Fiore di Moretti | 331141 | [331141-il-fiore-di-moretti.json](./331141-il-fiore-di-moretti.json) |
+| Il Sole e la Luna | 118989 | [118989-il-sole-e-la-luna.json](./118989-il-sole-e-la-luna.json) |
 | Il Sole e la Luna 2 | 393456 | [393456-il-sole-e-la-luna-2.json](./393456-il-sole-e-la-luna-2.json) |
 | IL-2 Sturmovik: 1946 | 5563 | [5563-il-2-sturmovik-1946.json](./5563-il-2-sturmovik-1946.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Flying Circus - Volume II | 243161 | [243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json](./243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json) |
@@ -623,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie All Star Vol. 2 | 320759 | [320759-indie-all-star-vol-2.json](./320759-indie-all-star-vol-2.json) |
 | Indie Arena Booth Online | 138721 | [138721-indie-arena-booth-online.json](./138721-indie-arena-booth-online.json) |
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
+| Indie Dream | 118975 | [118975-indie-dream.json](./118975-indie-dream.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
 | Indie Jane and the Snake Tower | 240198 | [240198-indie-jane-and-the-snake-tower.json](./240198-indie-jane-and-the-snake-tower.json) |
 | Indie Nights | 274481 | [274481-indie-nights.json](./274481-indie-nights.json) |
@@ -1235,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isonzo: Expedition Units | 303277 | [303277-isonzo-expedition-units.json](./303277-isonzo-expedition-units.json) |
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
 | Isorropia | 133451 | [133451-isorropia.json](./133451-isorropia.json) |
+| Isotiles 2 | 118983 | [118983-isotiles-2.json](./118983-isotiles-2.json) |
 | IsoWords | 254170 | [254170-isowords.json](./254170-isowords.json) |
 | Israel vs. Iran: Iron Dome | 377080 | [377080-israel-vs-iran-iron-dome.json](./377080-israel-vs-iran-iron-dome.json) |
 | ISS Simulator | 326411 | [326411-iss-simulator.json](./326411-iss-simulator.json) |
