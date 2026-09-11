@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | _Turing | 306086 | [306086-turing.json](./306086-turing.json) |
+| !BurnToDie! | 109760 | [109760-burntodie.json](./109760-burntodie.json) |
 | ¡Shin Chan: Flipa en colores! | 93591 | [93591-shin-chan-flipa-en-colores.json](./93591-shin-chan-flipa-en-colores.json) |
 | ?? Movie Theater | 343834 | [343834-movie-theater.json](./343834-movie-theater.json) |
 | ...Iru! | 93548 | [93548-iru.json](./93548-iru.json) |
