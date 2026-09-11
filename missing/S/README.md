@@ -234,6 +234,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samedi Manor | 260672 | [260672-samedi-manor.json](./260672-samedi-manor.json) |
 | SameGame | 339279 | [339279-samegame.json](./339279-samegame.json) |
 | SameGame | 64430 | [64430-samegame.json](./64430-samegame.json) |
+| SameGame - Colors | 86068 | [86068-samegame-colors.json](./86068-samegame-colors.json) |
+| SameGame - Shapes | 86069 | [86069-samegame-shapes.json](./86069-samegame-shapes.json) |
 | SameGame Fighter | 64436 | [64436-samegame-fighter.json](./64436-samegame-fighter.json) |
 | SameGame HD | 64432 | [64432-samegame-hd.json](./64432-samegame-hd.json) |
 | Samhain | 179687 | [179687-samhain.json](./179687-samhain.json) |
@@ -578,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk 2 | 100127 | [100127-scenery-disk-2.json](./100127-scenery-disk-2.json) |
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
+| Scenery Disk 6 | 86024 | [86024-scenery-disk-6.json](./86024-scenery-disk-6.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
 | Scent of Sorrow | 362290 | [362290-scent-of-sorrow.json](./362290-scent-of-sorrow.json) |
 | Schar: Blue Shield Alliance | 35941 | [35941-schar-blue-shield-alliance.json](./35941-schar-blue-shield-alliance.json) |
@@ -610,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrodinger's Cat Burglar | 270929 | [270929-schrodingers-cat-burglar.json](./270929-schrodingers-cat-burglar.json) |
 | Schrodinger's Code | 224757 | [224757-schrodingers-code.json](./224757-schrodingers-code.json) |
 | Schrödinger's Rat | 21776 | [21776-schrodingers-rat.json](./21776-schrodingers-rat.json) |
+| Schwarzenberg | 86063 | [86063-schwarzenberg.json](./86063-schwarzenberg.json) |
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
@@ -2051,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity Creator | 343813 | [343813-simcity-creator.json](./343813-simcity-creator.json) |
 | SimCity DS | 1494 | [1494-simcity-ds.json](./1494-simcity-ds.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
+| SimClassics: 3 in 1 Pack | 86030 | [86030-simclassics-3-in-1-pack.json](./86030-simclassics-3-in-1-pack.json) |
 | SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
 | Sime Is Back: 3D Old School | 340370 | [340370-sime-is-back-3d-old-school.json](./340370-sime-is-back-3d-old-school.json) |
 | SimEarth: The Living Planet | 42017 | [42017-simearth-the-living-planet.json](./42017-simearth-the-living-planet.json) |
@@ -5304,6 +5309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
+| Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
