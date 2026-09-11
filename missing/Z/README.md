@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
 | Zombie Sniper : Evil Hunter | 96396 | [96396-zombie-sniper-evil-hunter.json](./96396-zombie-sniper-evil-hunter.json) |
 | Zombie Sniper 2 | 103525 | [103525-zombie-sniper-2.json](./103525-zombie-sniper-2.json) |
+| Zombie Soldier | 110999 | [110999-zombie-soldier.json](./110999-zombie-soldier.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
 | Zombie Spree: The Dawn | 211957 | [211957-zombie-spree-the-dawn.json](./211957-zombie-spree-the-dawn.json) |
 | Zombie Squad | 235460 | [235460-zombie-squad.json](./235460-zombie-squad.json) |
