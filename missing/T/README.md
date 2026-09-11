@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inquisitor: Book 2 - The Village | 10972 | [10972-the-inquisitor-book-2-the-village.json](./10972-the-inquisitor-book-2-the-village.json) |
 | The Inseparables | 410209 | [410209-the-inseparables.json](./410209-the-inseparables.json) |
 | The Inspector | 175911 | [175911-the-inspector.json](./175911-the-inspector.json) |
+| The Institute: A Becky Brogan Adventure | 125380 | [125380-the-institute-a-becky-brogan-adventure.json](./125380-the-institute-a-becky-brogan-adventure.json) |
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
 | The Interactive Adventures of Dog Mendonça and Pizzaboy | 17976 | [17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json](./17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
@@ -3476,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voyager's Trail | 180757 | [180757-the-voyagers-trail.json](./180757-the-voyagers-trail.json) |
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The Wagadu Chronicles | 241973 | [241973-the-wagadu-chronicles.json](./241973-the-wagadu-chronicles.json) |
+| The Wager | 125414 | [125414-the-wager.json](./125414-the-wager.json) |
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
 | The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
