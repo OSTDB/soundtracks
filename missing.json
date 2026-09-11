@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T01:18:29.923Z",
-  "total_missing": 56019,
+  "generated_at": "2026-09-11T01:31:27.800Z",
+  "total_missing": 56018,
   "games": [
     {
       "igdb_id": 306086,
@@ -1821,11 +1821,6 @@
       "igdb_id": 389999,
       "game_name": "A Certain Incremental Exoplanet",
       "file": "missing/A/389999-a-certain-incremental-exoplanet.json"
-    },
-    {
-      "igdb_id": 138254,
-      "game_name": "A Chat with Charon",
-      "file": "missing/A/138254-a-chat-with-charon.json"
     },
     {
       "igdb_id": 312366,
