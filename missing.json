@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T18:18:39.565Z",
-  "total_missing": 58908,
+  "generated_at": "2026-09-11T18:20:59.436Z",
+  "total_missing": 58907,
   "games": [
     {
       "igdb_id": 306086,
@@ -2346,11 +2346,6 @@
       "igdb_id": 82150,
       "game_name": "A Platformer for Ants",
       "file": "missing/A/82150-a-platformer-for-ants.json"
-    },
-    {
-      "igdb_id": 204718,
-      "game_name": "A Plumber for All Seasons",
-      "file": "missing/A/204718-a-plumber-for-all-seasons.json"
     },
     {
       "igdb_id": 196859,
