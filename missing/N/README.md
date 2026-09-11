@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu no Hi no Resonance | 201810 | [201810-natsu-no-hi-no-resonance.json](./201810-natsu-no-hi-no-resonance.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natsuiro High School: Seishun Hakusho | 52602 | [52602-natsuiro-high-school-seishun-hakusho.json](./52602-natsuiro-high-school-seishun-hakusho.json) |
+| Natsuiro Ramune | 97316 | [97316-natsuiro-ramune.json](./97316-natsuiro-ramune.json) |
 | Natsumi & Fuyuko: All That's Inbetween | 212802 | [212802-natsumi-and-fuyuko-all-thats-inbetween.json](./212802-natsumi-and-fuyuko-all-thats-inbetween.json) |
 | Natsuyume Yawa | 408093 | [408093-natsuyume-yawa.json](./408093-natsuyume-yawa.json) |
 | Natural Born Soldier | 82123 | [82123-natural-born-soldier.json](./82123-natural-born-soldier.json) |
@@ -617,6 +618,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
 | Nevsky Run | 110389 | [110389-nevsky-run.json](./110389-nevsky-run.json) |
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
+| New 3D Golf Simulation: Eight Lakes G.C. | 97292 | [97292-new-3d-golf-simulation-eight-lakes-g-c.json](./97292-new-3d-golf-simulation-eight-lakes-g-c.json) |
+| New 3D Golf Simulation: T&E Selection | 97291 | [97291-new-3d-golf-simulation-t-and-e-selection.json](./97291-new-3d-golf-simulation-t-and-e-selection.json) |
 | New Adventure Island | 28521 | [28521-new-adventure-island.json](./28521-new-adventure-island.json) |
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
@@ -1091,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Thrash | 408082 | [408082-nitro-thrash.json](./408082-nitro-thrash.json) |
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
 | Niva | 341480 | [341480-niva.json](./341480-niva.json) |
+| Niva | 97303 | [97303-niva.json](./97303-niva.json) |
 | Nivoz Running Canned | 244249 | [244249-nivoz-running-canned.json](./244249-nivoz-running-canned.json) |
 | Nixie | 267690 | [267690-nixie.json](./267690-nixie.json) |
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
@@ -1125,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
 | No Offence, But | 126581 | [126581-no-offence-but.json](./126581-no-offence-but.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
+| No Pantsu!! | 97378 | [97378-no-pantsu.json](./97378-no-pantsu.json) |
 | No Paper! | 240224 | [240224-no-paper.json](./240224-no-paper.json) |
 | No Place for the Dissident | 141136 | [141136-no-place-for-the-dissident.json](./141136-no-place-for-the-dissident.json) |
 | No Prey, No Pay | 176458 | [176458-no-prey-no-pay.json](./176458-no-prey-no-pay.json) |
