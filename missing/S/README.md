@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
 | Shift Em Mania | 27906 | [27906-shift-em-mania.json](./27906-shift-em-mania.json) |
+| Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
 | Shiftlings | 9215 | [9215-shiftlings.json](./9215-shiftlings.json) |
@@ -4388,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
 | Stand O'Food | 66976 | [66976-stand-ofood.json](./66976-stand-ofood.json) |
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
+| Stand Out: VR Battle Royale | 115729 | [115729-stand-out-vr-battle-royale.json](./115729-stand-out-vr-battle-royale.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standby | 248069 | [248069-standby.json](./248069-standby.json) |
 | Standoff Multiplayer | 138172 | [138172-standoff-multiplayer.json](./138172-standoff-multiplayer.json) |
@@ -6159,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sonic in Sonic 3D | 198546 | [198546-super-sonic-in-sonic-3d.json](./198546-super-sonic-in-sonic-3d.json) |
 | Super Sonic in Sonic the Hedgehog | 198527 | [198527-super-sonic-in-sonic-the-hedgehog.json](./198527-super-sonic-in-sonic-the-hedgehog.json) |
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
+| Super Space Jump Man | 115628 | [115628-super-space-jump-man.json](./115628-super-space-jump-man.json) |
 | Super Space Serpent SE + Perpetuum: Mobile Bundle | 212789 | [212789-super-space-serpent-se-perpetuum-mobile-bundle.json](./212789-super-space-serpent-se-perpetuum-mobile-bundle.json) |
 | Super Space Shooter Arena | 127204 | [127204-super-space-shooter-arena.json](./127204-super-space-shooter-arena.json) |
 | Super Spike V'Ball | 48073 | [48073-super-spike-vball.json](./48073-super-spike-vball.json) |
@@ -6225,6 +6228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
 | Super-Bikes: Riding Challenge | 43310 | [43310-super-bikes-riding-challenge.json](./43310-super-bikes-riding-challenge.json) |
 | Superball | 117000 | [117000-superball.json](./117000-superball.json) |
+| SuperBeam | 115608 | [115608-superbeam.json](./115608-superbeam.json) |
 | Superbike GP | 43328 | [43328-superbike-gp.json](./43328-superbike-gp.json) |
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
