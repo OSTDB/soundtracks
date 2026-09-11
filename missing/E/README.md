@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Fighter Zero: Bad Moon Edition | 234639 | [234639-eternal-fighter-zero-bad-moon-edition.json](./234639-eternal-fighter-zero-bad-moon-edition.json) |
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
+| Eternal Home Floristry | 123587 | [123587-eternal-home-floristry.json](./123587-eternal-home-floristry.json) |
 | Eternal Hope | 124198 | [124198-eternal-hope.json](./124198-eternal-hope.json) |
 | Eternal King | 269012 | [269012-eternal-king.json](./269012-eternal-king.json) |
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
