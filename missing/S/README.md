@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishoujo Kantai Virgin Fleet | 290423 | [290423-seishoujo-kantai-virgin-fleet.json](./290423-seishoujo-kantai-virgin-fleet.json) |
 | Seishun Quiz Colorful High School | 247541 | [247541-seishun-quiz-colorful-high-school.json](./247541-seishun-quiz-colorful-high-school.json) |
 | Seiya Online | 144251 | [144251-seiya-online.json](./144251-seiya-online.json) |
+| Seize the Clay | 118957 | [118957-seize-the-clay.json](./118957-seize-the-clay.json) |
 | Seizure of Territories | 240802 | [240802-seizure-of-territories.json](./240802-seizure-of-territories.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
@@ -2159,6 +2160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six | 60012 | [60012-six.json](./60012-six.json) |
 | Six & Six | 392759 | [392759-six-and-six.json](./392759-six-and-six.json) |
 | Six Ages 2: Lights Going Out | 245860 | [245860-six-ages-2-lights-going-out.json](./245860-six-ages-2-lights-going-out.json) |
+| Six Degrees of Damnation | 118981 | [118981-six-degrees-of-damnation.json](./118981-six-degrees-of-damnation.json) |
 | Six F and Six 0 | 151660 | [151660-six-f-and-six-0.json](./151660-six-f-and-six-0.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
 | Six Match | 82156 | [82156-six-match.json](./82156-six-match.json) |
@@ -2727,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap the Sentinel | 141867 | [141867-snap-the-sentinel.json](./141867-snap-the-sentinel.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
+| Snapdragon | 118947 | [118947-snapdragon.json](./118947-snapdragon.json) |
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
 | Snappy Elf | 261516 | [261516-snappy-elf.json](./261516-snappy-elf.json) |
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
@@ -6467,6 +6470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Dreams Alex: Full Moon Edition | 273931 | [273931-sweet-dreams-alex-full-moon-edition.json](./273931-sweet-dreams-alex-full-moon-edition.json) |
 | Sweet Dreams on Christmas Eve | 334697 | [334697-sweet-dreams-on-christmas-eve.json](./334697-sweet-dreams-on-christmas-eve.json) |
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
+| Sweet Fruitcake | 118974 | [118974-sweet-fruitcake.json](./118974-sweet-fruitcake.json) |
 | Sweet Fruits from the Magical Tree | 185104 | [185104-sweet-fruits-from-the-magical-tree.json](./185104-sweet-fruits-from-the-magical-tree.json) |
 | Sweet Girl Gurumelo | 258992 | [258992-sweet-girl-gurumelo.json](./258992-sweet-girl-gurumelo.json) |
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
