@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamori no Picross 7/14 | 369033 | [369033-tamori-no-picross-7-14.json](./369033-tamori-no-picross-7-14.json) |
 | Tamori no Picross 8/1 | 345504 | [345504-tamori-no-picross-8-1.json](./345504-tamori-no-picross-8-1.json) |
 | Tamori no Picross 8/13 | 345502 | [345502-tamori-no-picross-8-13.json](./345502-tamori-no-picross-8-13.json) |
+| Tampon Run | 128574 | [128574-tampon-run.json](./128574-tampon-run.json) |
 | Tampon Trawl | 184123 | [184123-tampon-trawl.json](./184123-tampon-trawl.json) |
 | Tampopo | 317004 | [317004-tampopo.json](./317004-tampopo.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
@@ -1349,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cleaner | 198503 | [198503-the-cleaner.json](./198503-the-cleaner.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
 | The Clockwork Labyrinth | 166704 | [166704-the-clockwork-labyrinth.json](./166704-the-clockwork-labyrinth.json) |
+| The Clotted Island | 128591 | [128591-the-clotted-island.json](./128591-the-clotted-island.json) |
 | The Clown | 260975 | [260975-the-clown.json](./260975-the-clown.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
@@ -1479,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Stone of Mebara | 9398 | [9398-the-dark-stone-of-mebara.json](./9398-the-dark-stone-of-mebara.json) |
 | The Dark Survivors | 273647 | [273647-the-dark-survivors.json](./273647-the-dark-survivors.json) |
 | The Dark Tales of Katarina | 28871 | [28871-the-dark-tales-of-katarina.json](./28871-the-dark-tales-of-katarina.json) |
+| The Dark Third | 128597 | [128597-the-dark-third.json](./128597-the-dark-third.json) |
 | The Dark Tide | 312035 | [312035-the-dark-tide.json](./312035-the-dark-tide.json) |
 | The Dark Tower | 264047 | [264047-the-dark-tower.json](./264047-the-dark-tower.json) |
 | The Dark Triad | 271225 | [271225-the-dark-triad.json](./271225-the-dark-triad.json) |
@@ -1692,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faces of Evil Remastered | 206133 | [206133-the-faces-of-evil-remastered.json](./206133-the-faces-of-evil-remastered.json) |
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
+| The Fairies' Curse | 128601 | [128601-the-fairies-curse.json](./128601-the-fairies-curse.json) |
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
 | The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
@@ -3457,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The VR Canyon | 126660 | [126660-the-vr-canyon.json](./126660-the-vr-canyon.json) |
 | The Wagadu Chronicles | 241973 | [241973-the-wagadu-chronicles.json](./241973-the-wagadu-chronicles.json) |
 | The Wailing of the Forest | 385062 | [385062-the-wailing-of-the-forest.json](./385062-the-wailing-of-the-forest.json) |
+| The Wait | 128605 | [128605-the-wait.json](./128605-the-wait.json) |
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
@@ -5847,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Be Continued | 272569 | [272569-tube-be-continued.json](./272569-tube-be-continued.json) |
 | Tube Rolling | 159794 | [159794-tube-rolling.json](./159794-tube-rolling.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
+| Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
