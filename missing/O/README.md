@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omikron: The Nomad Soul | 1982 | [1982-omikron-the-nomad-soul.json](./1982-omikron-the-nomad-soul.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
 | Ominous Horizons: A Paladin's Calling | 69877 | [69877-ominous-horizons-a-paladins-calling.json](./69877-ominous-horizons-a-paladins-calling.json) |
+| Ominous Objects: Lumina Camera HD | 106645 | [106645-ominous-objects-lumina-camera-hd.json](./106645-ominous-objects-lumina-camera-hd.json) |
 | Ominous Objects: Phantom Reflection HD | 102793 | [102793-ominous-objects-phantom-reflection-hd.json](./102793-ominous-objects-phantom-reflection-hd.json) |
 | Ominous Presence | 252725 | [252725-ominous-presence.json](./252725-ominous-presence.json) |
 | Omise de Tensyu | 138249 | [138249-omise-de-tensyu.json](./138249-omise-de-tensyu.json) |
@@ -597,6 +598,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way Heroics Plus | 147990 | [147990-one-way-heroics-plus.json](./147990-one-way-heroics-plus.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
 | One Week By Car | 209675 | [209675-one-week-by-car.json](./209675-one-week-by-car.json) |
+| One Word 2 by Powgi | 104620 | [104620-one-word-2-by-powgi.json](./104620-one-word-2-by-powgi.json) |
+| One Word by Powgi | 104621 | [104621-one-word-by-powgi.json](./104621-one-word-by-powgi.json) |
 | One-armed Cook: Ships and Oceans | 247784 | [247784-one-armed-cook-ships-and-oceans.json](./247784-one-armed-cook-ships-and-oceans.json) |
 | One-Eyed Lee and the Dinner Party | 127382 | [127382-one-eyed-lee-and-the-dinner-party.json](./127382-one-eyed-lee-and-the-dinner-party.json) |
 | One-Eyed Likho | 250955 | [250955-one-eyed-likho.json](./250955-one-eyed-likho.json) |
