@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Rondo of the Night | 394858 | [394858-castlevania-rondo-of-the-night.json](./394858-castlevania-rondo-of-the-night.json) |
 | Castlevania: Symphony of the Night Randomizer | 218152 | [218152-castlevania-symphony-of-the-night-randomizer.json](./218152-castlevania-symphony-of-the-night-randomizer.json) |
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
+| Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
 | Casual Crusade | 267355 | [267355-casual-crusade.json](./267355-casual-crusade.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
 | CCTV | 264863 | [264863-cctv.json](./264863-cctv.json) |
 | CD Battle: Hikari no Yuushi-tachi | 267948 | [267948-cd-battle-hikari-no-yuushi-tachi.json](./267948-cd-battle-hikari-no-yuushi-tachi.json) |
+| CD-Run | 127226 | [127226-cd-run.json](./127226-cd-run.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
 | Ceci and the Gnomes | 207812 | [207812-ceci-and-the-gnomes.json](./207812-ceci-and-the-gnomes.json) |
 | Cecil Hollow | 253613 | [253613-cecil-hollow.json](./253613-cecil-hollow.json) |
@@ -932,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
 | Century: Age of Ashes - Valkurian Prelude Edition | 218491 | [218491-century-age-of-ashes-valkurian-prelude-edition.json](./218491-century-age-of-ashes-valkurian-prelude-edition.json) |
+| Cepheus Protocol | 127246 | [127246-cepheus-protocol.json](./127246-cepheus-protocol.json) |
 | Cepheus Protocol: Project Fenrir | 281986 | [281986-cepheus-protocol-project-fenrir.json](./281986-cepheus-protocol-project-fenrir.json) |
 | Ceradin | 126041 | [126041-ceradin.json](./126041-ceradin.json) |
 | Ceramic Soul | 198556 | [198556-ceramic-soul.json](./198556-ceramic-soul.json) |
@@ -2026,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Battle | 145686 | [145686-colony-battle.json](./145686-colony-battle.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
 | Colony Ship: A Post-Earth Role Playing Game | 129128 | [129128-colony-ship-a-post-earth-role-playing-game.json](./129128-colony-ship-a-post-earth-role-playing-game.json) |
+| Colony Siege | 127192 | [127192-colony-siege.json](./127192-colony-siege.json) |
 | Colony Strikes Back | 175893 | [175893-colony-strikes-back.json](./175893-colony-strikes-back.json) |
 | Colony Wars 2494 | 19585 | [19585-colony-wars-2494.json](./19585-colony-wars-2494.json) |
 | Colony: A Space RPG | 208025 | [208025-colony-a-space-rpg.json](./208025-colony-a-space-rpg.json) |
@@ -2275,9 +2279,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
+| Conan Exiles: Riders of Hyboria | 127253 | [127253-conan-exiles-riders-of-hyboria.json](./127253-conan-exiles-riders-of-hyboria.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
+| Concept 20 | 127224 | [127224-concept-20.json](./127224-concept-20.json) |
 | Conception II: Children of the Seven Stars - Limited Edition | 42669 | [42669-conception-ii-children-of-the-seven-stars-limited-edition.json](./42669-conception-ii-children-of-the-seven-stars-limited-edition.json) |
 | ConcernedApe's Haunted Chocolatier | 178101 | [178101-concernedapes-haunted-chocolatier.json](./178101-concernedapes-haunted-chocolatier.json) |
 | Concert | 247542 | [247542-concert.json](./247542-concert.json) |
@@ -2631,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counterglass | 276729 | [276729-counterglass.json](./276729-counterglass.json) |
 | Counterhero: Chapter 1 | 178002 | [178002-counterhero-chapter-1.json](./178002-counterhero-chapter-1.json) |
 | Counterpact | 221155 | [221155-counterpact.json](./221155-counterpact.json) |
+| Countersnipe | 127186 | [127186-countersnipe.json](./127186-countersnipe.json) |
 | Countess in Crimson | 169458 | [169458-countess-in-crimson.json](./169458-countess-in-crimson.json) |
 | Counties Work | 207836 | [207836-counties-work.json](./207836-counties-work.json) |
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
