@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:06:21.816Z",
-  "total_missing": 57494,
+  "generated_at": "2026-09-11T10:11:09.570Z",
+  "total_missing": 57493,
   "games": [
     {
       "igdb_id": 306086,
@@ -2081,11 +2081,6 @@
       "igdb_id": 198561,
       "game_name": "A Housewife's Healing Touch",
       "file": "missing/A/198561-a-housewifes-healing-touch.json"
-    },
-    {
-      "igdb_id": 198461,
-      "game_name": "A Joke that's Worth $0.99",
-      "file": "missing/A/198461-a-joke-thats-worth-0-99.json"
     },
     {
       "igdb_id": 299469,
