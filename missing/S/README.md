@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
+| Screen VR | 121596 | [121596-screen-vr.json](./121596-screen-vr.json) |
 | Screen Wonders | 297211 | [297211-screen-wonders.json](./297211-screen-wonders.json) |
 | ScreenPlay | 188603 | [188603-screenplay.json](./188603-screenplay.json) |
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
 | Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
+| Settlers of the Deep | 121607 | [121607-settlers-of-the-deep.json](./121607-settlers-of-the-deep.json) |
 | Setup Savior | 350448 | [350448-setup-savior.json](./350448-setup-savior.json) |
 | Seul (Alone): The entrée | 107863 | [107863-seul-alone-the-entree.json](./107863-seul-alone-the-entree.json) |
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
@@ -1487,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue III: Deluxe Edition | 154513 | [154513-shenmue-iii-deluxe-edition.json](./154513-shenmue-iii-deluxe-edition.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
+| Shepherd of Light | 121594 | [121594-shepherd-of-light.json](./121594-shepherd-of-light.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
@@ -2033,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Characters 2000 Series Vol. 11: Detective Conan - The Board Game | 78706 | [78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json](./78706-simple-characters-2000-series-vol-11-detective-conan-the-board-game.json) |
 | Simple DS Series Vol. 1: The Mahjong | 82134 | [82134-simple-ds-series-vol-1-the-mahjong.json](./82134-simple-ds-series-vol-1-the-mahjong.json) |
 | Simple FPS Aim Trainer | 182502 | [182502-simple-fps-aim-trainer.json](./182502-simple-fps-aim-trainer.json) |
+| Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
 | Simple Mini Golf | 192406 | [192406-simple-mini-golf.json](./192406-simple-mini-golf.json) |
 | Simple Monster Hunter | 265421 | [265421-simple-monster-hunter.json](./265421-simple-monster-hunter.json) |
@@ -2780,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snood Towers | 246389 | [246389-snood-towers.json](./246389-snood-towers.json) |
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
 | Snooker Fever: Discovery Edition | 396930 | [396930-snooker-fever-discovery-edition.json](./396930-snooker-fever-discovery-edition.json) |
+| Snooker Stars | 121613 | [121613-snooker-stars.json](./121613-snooker-stars.json) |
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
