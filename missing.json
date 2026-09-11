@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T02:18:23.812Z",
-  "total_missing": 56187,
+  "generated_at": "2026-09-11T02:21:04.393Z",
+  "total_missing": 56186,
   "games": [
     {
       "igdb_id": 306086,
@@ -1846,11 +1846,6 @@
       "igdb_id": 195795,
       "game_name": "A Clockwork Ley-Line: Daybreak of Remnants Shadow",
       "file": "missing/A/195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json"
-    },
-    {
-      "igdb_id": 357771,
-      "game_name": "A Coloring Break: Expansion pack 5",
-      "file": "missing/A/357771-a-coloring-break-expansion-pack-5.json"
     },
     {
       "igdb_id": 357772,
