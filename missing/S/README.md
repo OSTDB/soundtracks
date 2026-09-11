@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
+| Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
 | Saber Punks | 152309 | [152309-saber-punks.json](./152309-saber-punks.json) |
@@ -1396,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
+| Shark Castle | 123556 | [123556-shark-castle.json](./123556-shark-castle.json) |
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
 | Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
@@ -1525,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shijie Xiuxian | 295003 | [295003-shijie-xiuxian.json](./295003-shijie-xiuxian.json) |
 | Shikhondo: Youkai Rampage | 283772 | [283772-shikhondo-youkai-rampage.json](./283772-shikhondo-youkai-rampage.json) |
 | Shiki-Tei | 93616 | [93616-shiki-tei.json](./93616-shiki-tei.json) |
+| Shiki: The Four Seasons | 123554 | [123554-shiki-the-four-seasons.json](./123554-shiki-the-four-seasons.json) |
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
 | Shikkoku no Sharnoth: What a beautiful tomorrow | 186285 | [186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json](./186285-shikkoku-no-sharnoth-what-a-beautiful-tomorrow.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
@@ -1686,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter Game | 107871 | [107871-shooter-game.json](./107871-shooter-game.json) |
 | Shooter of the Arcana | 319948 | [319948-shooter-of-the-arcana.json](./319948-shooter-of-the-arcana.json) |
 | Shooters, Ready! | 335670 | [335670-shooters-ready.json](./335670-shooters-ready.json) |
+| ShootersPool | 123540 | [123540-shooterspool.json](./123540-shooterspool.json) |
 | Shooterspool: Billiards Simulation | 127333 | [127333-shooterspool-billiards-simulation.json](./127333-shooterspool-billiards-simulation.json) |
 | Shooterwave | 186344 | [186344-shooterwave.json](./186344-shooterwave.json) |
 | Shootin' Gallery VR | 217293 | [217293-shootin-gallery-vr.json](./217293-shootin-gallery-vr.json) |
@@ -3826,6 +3830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Tee Shot | 60587 | [60587-special-tee-shot.json](./60587-special-tee-shot.json) |
 | Specimen #08 | 262963 | [262963-specimen-08.json](./262963-specimen-08.json) |
 | Spectacular Sparky | 165613 | [165613-spectacular-sparky.json](./165613-spectacular-sparky.json) |
+| Spectating Simulator the Racing | 123564 | [123564-spectating-simulator-the-racing.json](./123564-spectating-simulator-the-racing.json) |
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
@@ -6470,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Solver | 277293 | [277293-swing-solver.json](./277293-swing-solver.json) |
 | Swing Striker | 133471 | [133471-swing-striker.json](./133471-swing-striker.json) |
 | Swing the Universe | 191814 | [191814-swing-the-universe.json](./191814-swing-the-universe.json) |
+| Swinger-Man | 123548 | [123548-swinger-man.json](./123548-swinger-man.json) |
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
 | Swingin' Beats | 338204 | [338204-swingin-beats.json](./338204-swingin-beats.json) |
 | Swingmania | 304039 | [304039-swingmania.json](./304039-swingmania.json) |
