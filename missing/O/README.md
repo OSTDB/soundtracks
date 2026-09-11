@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh, to Bee in Love | 178659 | [178659-oh-to-bee-in-love.json](./178659-oh-to-bee-in-love.json) |
 | Oh! Edo Towns | 65526 | [65526-oh-edo-towns.json](./65526-oh-edo-towns.json) |
 | OH! My Office | 223992 | [223992-oh-my-office.json](./223992-oh-my-office.json) |
+| Oh! My Sister's Slit Is... | 97839 | [97839-oh-my-sisters-slit-is.json](./97839-oh-my-sisters-slit-is.json) |
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
 | Ohanabatake no Flore | 332418 | [332418-ohanabatake-no-flore.json](./332418-ohanabatake-no-flore.json) |
