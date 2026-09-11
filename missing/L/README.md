@@ -1455,6 +1455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Blood: Vampire RPG | 323156 | [323156-lords-of-blood-vampire-rpg.json](./323156-lords-of-blood-vampire-rpg.json) |
 | Lords of Exile | 133970 | [133970-lords-of-exile.json](./133970-lords-of-exile.json) |
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
+| Lords of Strife | 99648 | [99648-lords-of-strife.json](./99648-lords-of-strife.json) |
 | Lords of the Chaos | 263478 | [263478-lords-of-the-chaos.json](./263478-lords-of-the-chaos.json) |
 | Lords of the Fallen: Master of Fate Update | 299144 | [299144-lords-of-the-fallen-master-of-fate-update.json](./299144-lords-of-the-fallen-master-of-fate-update.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
