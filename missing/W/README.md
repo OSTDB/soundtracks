@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiffel Ball | 205806 | [205806-wiffel-ball.json](./205806-wiffel-ball.json) |
 | Wiggly Boy | 139424 | [139424-wiggly-boy.json](./139424-wiggly-boy.json) |
 | Wii Chess | 5280 | [5280-wii-chess.json](./5280-wii-chess.json) |
+| Wii Sports + Wii Sports Resort | 130310 | [130310-wii-sports-wii-sports-resort.json](./130310-wii-sports-wii-sports-resort.json) |
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
 | Wild | 257947 | [257947-wild.json](./257947-wild.json) |
