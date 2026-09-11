@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint Seiya Awakening: Knights of the Zodiac | 129144 | [129144-saint-seiya-awakening-knights-of-the-zodiac.json](./129144-saint-seiya-awakening-knights-of-the-zodiac.json) |
 | Saint Seiya Shining Soldiers | 129130 | [129130-saint-seiya-shining-soldiers.json](./129130-saint-seiya-shining-soldiers.json) |
+| Saint Seiya: Brave Soldiers + Aries Shion | 99553 | [99553-saint-seiya-brave-soldiers-aries-shion.json](./99553-saint-seiya-brave-soldiers-aries-shion.json) |
 | Saint Seiya: Galaxy Spirits | 139406 | [139406-saint-seiya-galaxy-spirits.json](./139406-saint-seiya-galaxy-spirits.json) |
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
 | Saint Seiya: Ougon Densetsu | 48655 | [48655-saint-seiya-ougon-densetsu.json](./48655-saint-seiya-ougon-densetsu.json) |
@@ -2849,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Master: City Hunter | 227482 | [227482-sniper-master-city-hunter.json](./227482-sniper-master-city-hunter.json) |
 | Sniper Ops 3D | 88297 | [88297-sniper-ops-3d.json](./88297-sniper-ops-3d.json) |
 | Sniper Shooter 3D: SWAT Missions Pro | 86719 | [86719-sniper-shooter-3d-swat-missions-pro.json](./86719-sniper-shooter-3d-swat-missions-pro.json) |
+| Sniper Squad Mission | 99659 | [99659-sniper-squad-mission.json](./99659-sniper-squad-mission.json) |
 | Sniper Strike 3D | 237365 | [237365-sniper-strike-3d.json](./237365-sniper-strike-3d.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
@@ -3758,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mages | 381644 | [381644-space-mages.json](./381644-space-mages.json) |
 | Space Mages: Dimension 33 | 153417 | [153417-space-mages-dimension-33.json](./153417-space-mages-dimension-33.json) |
 | Space Major Miner | 207324 | [207324-space-major-miner.json](./207324-space-major-miner.json) |
+| Space man adventure dash | 99662 | [99662-space-man-adventure-dash.json](./99662-space-man-adventure-dash.json) |
 | Space Marauder | 49968 | [49968-space-marauder.json](./49968-space-marauder.json) |
 | Space Marshals 3 | 205223 | [205223-space-marshals-3.json](./205223-space-marshals-3.json) |
 | Space Marshals Collection | 327207 | [327207-space-marshals-collection.json](./327207-space-marshals-collection.json) |
@@ -5143,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
+| Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
 | Storm of Darkness | 233500 | [233500-storm-of-darkness.json](./233500-storm-of-darkness.json) |
 | Storm of Jigsaw Puzzles | 109654 | [109654-storm-of-jigsaw-puzzles.json](./109654-storm-of-jigsaw-puzzles.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
