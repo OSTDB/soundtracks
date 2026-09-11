@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Hunter | 201801 | [201801-ball-hunter.json](./201801-ball-hunter.json) |
 | Ball Jumper | 272854 | [272854-ball-jumper.json](./272854-ball-jumper.json) |
 | Ball Kicker | 109640 | [109640-ball-kicker.json](./109640-ball-kicker.json) |
+| Ball League | 107119 | [107119-ball-league.json](./107119-ball-league.json) |
 | Ball Match Quest | 108481 | [108481-ball-match-quest.json](./108481-ball-match-quest.json) |
 | Ball of Wonder | 31897 | [31897-ball-of-wonder.json](./31897-ball-of-wonder.json) |
 | Ball Out | 262962 | [262962-ball-out.json](./262962-ball-out.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
 | Balloons | 257936 | [257936-balloons.json](./257936-balloons.json) |
+| Balloons Jump | 107110 | [107110-balloons-jump.json](./107110-balloons-jump.json) |
 | Balloony | 290439 | [290439-balloony.json](./290439-balloony.json) |
 | Ballotron Oceans | 231345 | [231345-ballotron-oceans.json](./231345-ballotron-oceans.json) |
 | Ballpoint Universe: Infinite | 16770 | [16770-ballpoint-universe-infinite.json](./16770-ballpoint-universe-infinite.json) |
@@ -586,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bashing Brutal | 348251 | [348251-bashing-brutal.json](./348251-bashing-brutal.json) |
 | Bashtronaut | 263203 | [263203-bashtronaut.json](./263203-bashtronaut.json) |
 | BASIC Computer Games | 408061 | [408061-basic-computer-games.json](./408061-basic-computer-games.json) |
+| Basics in Airport: Education & Learning | 107127 | [107127-basics-in-airport-education-and-learning.json](./107127-basics-in-airport-education-and-learning.json) |
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
 | Bask: The Alchemist Frog | 338195 | [338195-bask-the-alchemist-frog.json](./338195-bask-the-alchemist-frog.json) |
@@ -884,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
 | Battletank: L.O.B.A. | 52635 | [52635-battletank-l-o-b-a.json](./52635-battletank-l-o-b-a.json) |
 | BattleTanx | 3421 | [3421-battletanx.json](./3421-battletanx.json) |
+| BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
 | BattleTech: Heavy Metal | 155087 | [155087-battletech-heavy-metal.json](./155087-battletech-heavy-metal.json) |
 | BattleTubers | 280794 | [280794-battletubers.json](./280794-battletubers.json) |
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
