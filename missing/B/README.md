@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banished Monsters | 248676 | [248676-banished-monsters.json](./248676-banished-monsters.json) |
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
 | Banishing Racer | 7763 | [7763-banishing-racer.json](./7763-banishing-racer.json) |
+| Banja | 93537 | [93537-banja.json](./93537-banja.json) |
 | Banjo X | 194643 | [194643-banjo-x.json](./194643-banjo-x.json) |
 | Banjo-Kazooie & The Quest for Cake | 294713 | [294713-banjo-kazooie-and-the-quest-for-cake.json](./294713-banjo-kazooie-and-the-quest-for-cake.json) |
 | Banjo-Kazooie New Horizons | 135260 | [135260-banjo-kazooie-new-horizons.json](./135260-banjo-kazooie-new-horizons.json) |
@@ -1730,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Werewolf | 293099 | [293099-black-werewolf.json](./293099-black-werewolf.json) |
 | Black Widow: Looking for Love | 220874 | [220874-black-widow-looking-for-love.json](./220874-black-widow-looking-for-love.json) |
 | Black Zen White | 344938 | [344938-black-zen-white.json](./344938-black-zen-white.json) |
+| Black/Matrix + | 93534 | [93534-black-matrix.json](./93534-black-matrix.json) |
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
 | Black/Matrix II | 229355 | [229355-black-matrix-ii.json](./229355-black-matrix-ii.json) |
 | BlackberryNova: Sports Club | 221759 | [221759-blackberrynova-sports-club.json](./221759-blackberrynova-sports-club.json) |
@@ -2448,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoomTris | 120963 | [120963-boomtris.json](./120963-boomtris.json) |
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
+| Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
 | Boopie Island | 406732 | [406732-boopie-island.json](./406732-boopie-island.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
@@ -3206,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet'n Tunes | 97358 | [97358-bulletn-tunes.json](./97358-bulletn-tunes.json) |
 | Bullet'n Wall | 97360 | [97360-bulletn-wall.json](./97360-bulletn-wall.json) |
 | Bullet'nTunes | 175342 | [175342-bulletntunes.json](./175342-bulletntunes.json) |
+| BulletAsylum | 93506 | [93506-bulletasylum.json](./93506-bulletasylum.json) |
 | BulletHeart | 181910 | [181910-bulletheart.json](./181910-bulletheart.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
