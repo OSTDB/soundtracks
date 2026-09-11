@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cross | 40242 | [40242-battle-cross.json](./40242-battle-cross.json) |
 | Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
 | Battle Cruiser M-12 | 40241 | [40241-battle-cruiser-m-12.json](./40241-battle-cruiser-m-12.json) |
+| Battle Cube | 128598 | [128598-battle-cube.json](./128598-battle-cube.json) |
 | Battle Dawn | 139433 | [139433-battle-dawn.json](./139433-battle-dawn.json) |
 | Battle Dex | 93581 | [93581-battle-dex.json](./93581-battle-dex.json) |
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
@@ -1553,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
 | Bitcoin highway | 83587 | [83587-bitcoin-highway.json](./83587-bitcoin-highway.json) |
 | Bitcoin Miner | 89602 | [89602-bitcoin-miner.json](./89602-bitcoin-miner.json) |
+| Bitcoin Mining Profit Calculator: Gaiden | 128566 | [128566-bitcoin-mining-profit-calculator-gaiden.json](./128566-bitcoin-mining-profit-calculator-gaiden.json) |
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
 | Bitcoin VR | 28932 | [28932-bitcoin-vr.json](./28932-bitcoin-vr.json) |
@@ -2535,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxworld | 287649 | [287649-boxworld.json](./287649-boxworld.json) |
 | Boxzum | 84283 | [84283-boxzum.json](./84283-boxzum.json) |
 | Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
+| Boy Goes to Space | 128584 | [128584-boy-goes-to-space.json](./128584-boy-goes-to-space.json) |
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend or Cake?? | 364508 | [364508-boyfriend-or-cake.json](./364508-boyfriend-or-cake.json) |
@@ -2743,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
 | Brick Thru | 89932 | [89932-brick-thru.json](./89932-brick-thru.json) |
+| Brick[BrickSmash]Smash | 128596 | [128596-brick-bricksmash-smash.json](./128596-brick-bricksmash-smash.json) |
 | Brickade | 371899 | [371899-brickade.json](./371899-brickade.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
