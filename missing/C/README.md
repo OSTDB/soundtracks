@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Quest 3D: The Brother Lady Saga | 234896 | [234896-cheese-quest-3d-the-brother-lady-saga.json](./234896-cheese-quest-3d-the-brother-lady-saga.json) |
 | Cheese Runner | 209474 | [209474-cheese-runner.json](./209474-cheese-runner.json) |
+| Cheese Terminator | 105404 | [105404-cheese-terminator.json](./105404-cheese-terminator.json) |
 | Cheesecake Cult: Unholy Feast | 275579 | [275579-cheesecake-cult-unholy-feast.json](./275579-cheesecake-cult-unholy-feast.json) |
 | Cheesequest | 213022 | [213022-cheesequest.json](./213022-cheesequest.json) |
 | Cheestrings Quiz | 313120 | [313120-cheestrings-quiz.json](./313120-cheestrings-quiz.json) |
@@ -1761,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claustrophobia 1024 | 260947 | [260947-claustrophobia-1024.json](./260947-claustrophobia-1024.json) |
 | Claustrophobia 1024 2: The Mystery of Too Many Maps | 260949 | [260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json](./260949-claustrophobia-1024-2-the-mystery-of-too-many-maps.json) |
 | ClaustrophobicCrypt | 311504 | [311504-claustrophobiccrypt.json](./311504-claustrophobiccrypt.json) |
+| Claw Breaker | 105290 | [105290-claw-breaker.json](./105290-claw-breaker.json) |
 | Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
 | Claw Machine Sim | 259013 | [259013-claw-machine-sim.json](./259013-claw-machine-sim.json) |
