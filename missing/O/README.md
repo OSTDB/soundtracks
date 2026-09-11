@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Trust | 257402 | [257402-operation-trust.json](./257402-operation-trust.json) |
 | Operation Wolf Returns: First Mission | 218213 | [218213-operation-wolf-returns-first-mission.json](./218213-operation-wolf-returns-first-mission.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
+| Operation: Cheek Clapper | 123551 | [123551-operation-cheek-clapper.json](./123551-operation-cheek-clapper.json) |
 | Operation: Get Bike Back | 270705 | [270705-operation-get-bike-back.json](./270705-operation-get-bike-back.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
