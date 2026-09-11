@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T01:48:30.715Z",
-  "total_missing": 56090,
+  "generated_at": "2026-09-11T01:51:04.873Z",
+  "total_missing": 56089,
   "games": [
     {
       "igdb_id": 306086,
@@ -1831,11 +1831,6 @@
       "igdb_id": 245879,
       "game_name": "Ａ Class",
       "file": "missing/0-9/245879-a-class.json"
-    },
-    {
-      "igdb_id": 152849,
-      "game_name": "A Clever Label",
-      "file": "missing/A/152849-a-clever-label.json"
     },
     {
       "igdb_id": 195795,
