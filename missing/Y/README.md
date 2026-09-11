@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | Y-Tiles | 58248 | [58248-y-tiles.json](./58248-y-tiles.json) |
+| Y2K: The Game | 84208 | [84208-y2k-the-game.json](./84208-y2k-the-game.json) |
 | Y2Kthulhu | 185072 | [185072-y2kthulhu.json](./185072-y2kthulhu.json) |
 | Yaad | 289879 | [289879-yaad.json](./289879-yaad.json) |
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
