@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Road | 327579 | [327579-off-road.json](./327579-off-road.json) |
 | Off Shore | 223164 | [223164-off-shore.json](./223164-off-shore.json) |
 | Off Target | 379893 | [379893-off-target.json](./379893-off-target.json) |
+| Off the Grid | 89216 | [89216-off-the-grid.json](./89216-off-the-grid.json) |
 | Off The Rails | 281989 | [281989-off-the-rails.json](./281989-off-the-rails.json) |
 | Off the Record: Liberty Stone | 82141 | [82141-off-the-record-liberty-stone.json](./82141-off-the-record-liberty-stone.json) |
 | Off The Record: The Art of Deception | 98411 | [98411-off-the-record-the-art-of-deception.json](./98411-off-the-record-the-art-of-deception.json) |
