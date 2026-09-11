@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunny | 117721 | [117721-gunny.json](./117721-gunny.json) |
 | Gunpoint Gambit | 391036 | [391036-gunpoint-gambit.json](./391036-gunpoint-gambit.json) |
 | Gunpowder Massacre | 301259 | [301259-gunpowder-massacre.json](./301259-gunpowder-massacre.json) |
+| Gunpowder on the Teeth: Arcade | 113764 | [113764-gunpowder-on-the-teeth-arcade.json](./113764-gunpowder-on-the-teeth-arcade.json) |
 | Gunpunk VR | 280207 | [280207-gunpunk-vr.json](./280207-gunpunk-vr.json) |
 | Gunpyre | 340404 | [340404-gunpyre.json](./340404-gunpyre.json) |
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
