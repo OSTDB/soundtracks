@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Vegas Killer | 281367 | [281367-new-vegas-killer.json](./281367-new-vegas-killer.json) |
 | New Witch in Town | 143694 | [143694-new-witch-in-town.json](./143694-new-witch-in-town.json) |
 | New World | 263768 | [263768-new-world.json](./263768-new-world.json) |
+| New World Horizon | 114955 | [114955-new-world-horizon.json](./114955-new-world-horizon.json) |
 | New World Order | 19215 | [19215-new-world-order.json](./19215-new-world-order.json) |
 | New World: Rise of the Angry Earth | 266781 | [266781-new-world-rise-of-the-angry-earth.json](./266781-new-world-rise-of-the-angry-earth.json) |
 | New Yankee 6: In Pharaoh's Court | 117096 | [117096-new-yankee-6-in-pharaohs-court.json](./117096-new-yankee-6-in-pharaohs-court.json) |
