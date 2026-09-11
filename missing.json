@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T11:49:24.994Z",
-  "total_missing": 57788,
+  "generated_at": "2026-09-11T11:50:59.816Z",
+  "total_missing": 57787,
   "games": [
     {
       "igdb_id": 306086,
@@ -2136,11 +2136,6 @@
       "igdb_id": 87686,
       "game_name": "A Light in the Dark",
       "file": "missing/A/87686-a-light-in-the-dark.json"
-    },
-    {
-      "igdb_id": 193468,
-      "game_name": "A List of People Who Went Missing in the Scheleirland National Forest",
-      "file": "missing/A/193468-a-list-of-people-who-went-missing-in-the-scheleirland-national-forest.json"
     },
     {
       "igdb_id": 33333,
