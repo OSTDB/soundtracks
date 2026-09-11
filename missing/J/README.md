@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
 | Jane's Hotel | 20549 | [20549-janes-hotel.json](./20549-janes-hotel.json) |
+| Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
 | Jangou | 123078 | [123078-jangou.json](./123078-jangou.json) |
@@ -270,6 +271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jezzball Classic Deluxe Edition | 371891 | [371891-jezzball-classic-deluxe-edition.json](./371891-jezzball-classic-deluxe-edition.json) |
 | JFCBP1 | 273114 | [273114-jfcbp1.json](./273114-jfcbp1.json) |
 | JFCBP2 | 273115 | [273115-jfcbp2.json](./273115-jfcbp2.json) |
+| Ji Tan Nohua | 121648 | [121648-ji-tan-nohua.json](./121648-ji-tan-nohua.json) |
 | Jiàndào Xiānyǔ | 147387 | [147387-jiandao-xianyu.json](./147387-jiandao-xianyu.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
@@ -728,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice Sucks: Tactical Vacuum Action | 138203 | [138203-justice-sucks-tactical-vacuum-action.json](./138203-justice-sucks-tactical-vacuum-action.json) |
 | Justice Xwar Online 2 | 117712 | [117712-justice-xwar-online-2.json](./117712-justice-xwar-online-2.json) |
 | Justice.exe | 132238 | [132238-justice-exe.json](./132238-justice-exe.json) |
+| Justin Wack and the Big Time Hack | 121639 | [121639-justin-wack-and-the-big-time-hack.json](./121639-justin-wack-and-the-big-time-hack.json) |
 | Justin Wack and the Big Time Hack: Deluxe Edition | 230819 | [230819-justin-wack-and-the-big-time-hack-deluxe-edition.json](./230819-justin-wack-and-the-big-time-hack-deluxe-edition.json) |
 | JustWatchMyCat | 257380 | [257380-justwatchmycat.json](./257380-justwatchmycat.json) |
 | Juuden Youshuugi: Crimson Paraselene | 253929 | [253929-juuden-youshuugi-crimson-paraselene.json](./253929-juuden-youshuugi-crimson-paraselene.json) |
