@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T14:48:51.731Z",
-  "total_missing": 58307,
+  "generated_at": "2026-09-11T14:50:58.416Z",
+  "total_missing": 58306,
   "games": [
     {
       "igdb_id": 306086,
@@ -2236,11 +2236,6 @@
       "igdb_id": 153414,
       "game_name": "A Matter of Time",
       "file": "missing/A/153414-a-matter-of-time.json"
-    },
-    {
-      "igdb_id": 293073,
-      "game_name": "A Maze Dream: The Puzzle Journey",
-      "file": "missing/A/293073-a-maze-dream-the-puzzle-journey.json"
     },
     {
       "igdb_id": 182517,
