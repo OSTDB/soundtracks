@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Da Beat | 24207 | [24207-beat-da-beat.json](./24207-beat-da-beat.json) |
 | Beat Down: Fists of Vengeance | 5745 | [5745-beat-down-fists-of-vengeance.json](./5745-beat-down-fists-of-vengeance.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
+| Beat Monsters | 119003 | [119003-beat-monsters.json](./119003-beat-monsters.json) |
 | Beat MP3 for YouTube | 213380 | [213380-beat-mp3-for-youtube.json](./213380-beat-mp3-for-youtube.json) |
 | Beat of Rebellion | 373532 | [373532-beat-of-rebellion.json](./373532-beat-of-rebellion.json) |
 | Beat or Die: The MiniGames | 127368 | [127368-beat-or-die-the-minigames.json](./127368-beat-or-die-the-minigames.json) |
@@ -1569,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
 | Bitcoin highway | 83587 | [83587-bitcoin-highway.json](./83587-bitcoin-highway.json) |
 | Bitcoin Miner | 89602 | [89602-bitcoin-miner.json](./89602-bitcoin-miner.json) |
+| Bitcoin Miner Farm: Clicker Game | 118960 | [118960-bitcoin-miner-farm-clicker-game.json](./118960-bitcoin-miner-farm-clicker-game.json) |
 | Bitcoin Mining Profit Calculator: Gaiden | 128566 | [128566-bitcoin-mining-profit-calculator-gaiden.json](./128566-bitcoin-mining-profit-calculator-gaiden.json) |
 | Bitcoin Mining Tycoon | 103469 | [103469-bitcoin-mining-tycoon.json](./103469-bitcoin-mining-tycoon.json) |
 | Bitcoin Trading Master: Simulator | 125433 | [125433-bitcoin-trading-master-simulator.json](./125433-bitcoin-trading-master-simulator.json) |
@@ -1815,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleak Sword DX | 235203 | [235203-bleak-sword-dx.json](./235203-bleak-sword-dx.json) |
 | Bleaklight Falls | 362270 | [362270-bleaklight-falls.json](./362270-bleaklight-falls.json) |
 | Bleakwood | 304574 | [304574-bleakwood.json](./304574-bleakwood.json) |
+| Bleed: Deluxe Edition | 118954 | [118954-bleed-deluxe-edition.json](./118954-bleed-deluxe-edition.json) |
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
@@ -2242,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 270399 | [270399-bomber.json](./270399-bomber.json) |
 | Bomber Bob | 14331 | [14331-bomber-bob.json](./14331-bomber-bob.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
+| Bomber Crew: Deluxe Edition | 118956 | [118956-bomber-crew-deluxe-edition.json](./118956-bomber-crew-deluxe-edition.json) |
 | Bomber Dudes | 169373 | [169373-bomber-dudes.json](./169373-bomber-dudes.json) |
 | Bomber Festival | 332840 | [332840-bomber-festival.json](./332840-bomber-festival.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
