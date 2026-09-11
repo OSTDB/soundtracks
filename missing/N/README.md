@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi - The Battle of Nagashino Scenario | 150664 | [150664-nobunagas-ambition-taishi-the-battle-of-nagashino-scenario.json](./150664-nobunagas-ambition-taishi-the-battle-of-nagashino-scenario.json) |
 | Nobunaga's Ambition: Taishi - The Battle of Okitanawate Scenario | 150665 | [150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json](./150665-nobunagas-ambition-taishi-the-battle-of-okitanawate-scenario.json) |
 | Nobunaga's Ambition: Taishi - The Dutiful Lord of Echigo Scenario | 150663 | [150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json](./150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json) |
+| Nobunaga's Ambition: Taishi Deluxe Edition | 122363 | [122363-nobunagas-ambition-taishi-deluxe-edition.json](./122363-nobunagas-ambition-taishi-deluxe-edition.json) |
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
 | Nociception: Simple Outlook From Hell | 142414 | [142414-nociception-simple-outlook-from-hell.json](./142414-nociception-simple-outlook-from-hell.json) |
 | Nock & Load | 341482 | [341482-nock-and-load.json](./341482-nock-and-load.json) |
@@ -1332,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now Boarding | 138190 | [138190-now-boarding.json](./138190-now-boarding.json) |
 | Now Games 2 | 98969 | [98969-now-games-2.json](./98969-now-games-2.json) |
 | Now It's My Turn | 158687 | [158687-now-its-my-turn.json](./158687-now-its-my-turn.json) |
+| Now Streaming | 122351 | [122351-now-streaming.json](./122351-now-streaming.json) |
 | Now That's What I Call Sing 2 | 24961 | [24961-now-thats-what-i-call-sing-2.json](./24961-now-thats-what-i-call-sing-2.json) |
 | Now You Are the Persecuted | 236520 | [236520-now-you-are-the-persecuted.json](./236520-now-you-are-the-persecuted.json) |
 | Now You See | 117439 | [117439-now-you-see.json](./117439-now-you-see.json) |
