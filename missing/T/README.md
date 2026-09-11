@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails' Nightmare 2 | 307584 | [307584-tails-nightmare-2.json](./307584-tails-nightmare-2.json) |
 | TailScape: The corgi’s Advendture | 325836 | [325836-tailscape-the-corgi-s-advendture.json](./325836-tailscape-the-corgi-s-advendture.json) |
 | Tailwind | 90648 | [90648-tailwind.json](./90648-tailwind.json) |
+| TailzFromTheGrave | 108434 | [108434-tailzfromthegrave.json](./108434-tailzfromthegrave.json) |
 | Taimanin Asagi | 259866 | [259866-taimanin-asagi.json](./259866-taimanin-asagi.json) |
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
 | Tainted Grail: Conquest | 146424 | [146424-tainted-grail-conquest.json](./146424-tainted-grail-conquest.json) |
@@ -645,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Way of the Warrior | 146240 | [146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json](./146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json) |
 | Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
+| Teenager vs.Tropical Mutants | 108414 | [108414-teenager-vs-tropical-mutants.json](./108414-teenager-vs-tropical-mutants.json) |
 | Teeny Heist | 83556 | [83556-teeny-heist.json](./83556-teeny-heist.json) |
 | Teeny Tiny Trains | 297228 | [297228-teeny-tiny-trains.json](./297228-teeny-tiny-trains.json) |
 | Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
@@ -685,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teku | 274499 | [274499-teku.json](./274499-teku.json) |
 | Tele-Doodle | 220125 | [220125-tele-doodle.json](./220125-tele-doodle.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
+| TeleBlast | 108420 | [108420-teleblast.json](./108420-teleblast.json) |
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
@@ -1430,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consumist Journey | 270099 | [270099-the-consumist-journey.json](./270099-the-consumist-journey.json) |
+| The Contender: Fight of the Century | 108519 | [108519-the-contender-fight-of-the-century.json](./108519-the-contender-fight-of-the-century.json) |
 | The Contract | 177530 | [177530-the-contract.json](./177530-the-contract.json) |
 | The Contract | 271756 | [271756-the-contract.json](./271756-the-contract.json) |
 | The Conveni: Ano Machi wo Dokusen Seyo | 178558 | [178558-the-conveni-ano-machi-wo-dokusen-seyo.json](./178558-the-conveni-ano-machi-wo-dokusen-seyo.json) |
@@ -1659,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Durka: You will (not) die | 154010 | [154010-the-durka-you-will-not-die.json](./154010-the-durka-you-will-not-die.json) |
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
 | The Dust Below | 183542 | [183542-the-dust-below.json](./183542-the-dust-below.json) |
+| The E Ball | 108416 | [108416-the-e-ball.json](./108416-the-e-ball.json) |
 | The Earl Street Massacre | 302709 | [302709-the-earl-street-massacre.json](./302709-the-earl-street-massacre.json) |
 | The Earth Defend | 46674 | [46674-the-earth-defend.json](./46674-the-earth-defend.json) |
 | The Eastern Edge | 341897 | [341897-the-eastern-edge.json](./341897-the-eastern-edge.json) |
@@ -3871,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms Heroes | 324871 | [324871-three-kingdoms-heroes.json](./324871-three-kingdoms-heroes.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
+| Three Kingdoms: Legends of Heroes | 108406 | [108406-three-kingdoms-legends-of-heroes.json](./108406-three-kingdoms-legends-of-heroes.json) |
 | Three Kingdoms: The Last Warlord - The Age of Turbulence | 171574 | [171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json](./171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json) |
 | Three Legions: Erosion of the Abyss | 346569 | [346569-three-legions-erosion-of-the-abyss.json](./346569-three-legions-erosion-of-the-abyss.json) |
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
@@ -4392,6 +4398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tilefinder | 196857 | [196857-tilefinder.json](./196857-tilefinder.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
+| Tiles Hop: Forever Dancing Ball | 108439 | [108439-tiles-hop-forever-dancing-ball.json](./108439-tiles-hop-forever-dancing-ball.json) |
 | Tiles in Time | 336547 | [336547-tiles-in-time.json](./336547-tiles-in-time.json) |
 | Tiles Match | 314876 | [314876-tiles-match.json](./314876-tiles-match.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
@@ -5222,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
+| Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
 | Toy Robot | 126582 | [126582-toy-robot.json](./126582-toy-robot.json) |
 | Toy Scrappers | 333549 | [333549-toy-scrappers.json](./333549-toy-scrappers.json) |
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
@@ -6129,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
 | TVs: The Illusion Channel | 209480 | [209480-tvs-the-illusion-channel.json](./209480-tvs-the-illusion-channel.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
+| Tweet Star | 108518 | [108518-tweet-star.json](./108518-tweet-star.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
