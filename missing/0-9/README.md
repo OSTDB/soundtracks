@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
+| 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
 | 360: Three Sixty | 45318 | [45318-360-three-sixty.json](./45318-360-three-sixty.json) |
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
