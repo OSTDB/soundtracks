@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Mouse | 241373 | [241373-happy-mouse.json](./241373-happy-mouse.json) |
 | Happy Night | 280767 | [280767-happy-night.json](./280767-happy-night.json) |
 | Happy Pets | 200631 | [200631-happy-pets.json](./200631-happy-pets.json) |
+| Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Room: Robo | 194035 | [194035-happy-room-robo.json](./194035-happy-room-robo.json) |
@@ -1601,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
 | Hocus Pocus Prince | 183563 | [183563-hocus-pocus-prince.json](./183563-hocus-pocus-prince.json) |
 | HocusDOOM | 201232 | [201232-hocusdoom.json](./201232-hocusdoom.json) |
+| HoD: On open seas | 90612 | [90612-hod-on-open-seas.json](./90612-hod-on-open-seas.json) |
 | Hodl: The God of Crypto | 97922 | [97922-hodl-the-god-of-crypto.json](./97922-hodl-the-god-of-crypto.json) |
 | HodlGod | 175895 | [175895-hodlgod.json](./175895-hodlgod.json) |
 | Hoggy 2 | 28916 | [28916-hoggy-2.json](./28916-hoggy-2.json) |
@@ -1641,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
 | Hollow | 186257 | [186257-hollow.json](./186257-hollow.json) |
 | Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
+| Hollow Bliss | 90569 | [90569-hollow-bliss.json](./90569-hollow-bliss.json) |
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
 | Hollow Hills National Park | 402287 | [402287-hollow-hills-national-park.json](./402287-hollow-hills-national-park.json) |
 | Hollow Hometown | 339812 | [339812-hollow-hometown.json](./339812-hollow-hometown.json) |
@@ -1699,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Safety Hotline | 244303 | [244303-home-safety-hotline.json](./244303-home-safety-hotline.json) |
 | Home Safety Hotline: Seasonal Worker | 317001 | [317001-home-safety-hotline-seasonal-worker.json](./317001-home-safety-hotline-seasonal-worker.json) |
 | Home Snatch | 311791 | [311791-home-snatch.json](./311791-home-snatch.json) |
+| Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
 | Home Sweet Home: Online | 249814 | [249814-home-sweet-home-online.json](./249814-home-sweet-home-online.json) |
 | Home Sweet Homecoming | 135306 | [135306-home-sweet-homecoming.json](./135306-home-sweet-homecoming.json) |
 | Home Tech VR | 29891 | [29891-home-tech-vr.json](./29891-home-tech-vr.json) |
