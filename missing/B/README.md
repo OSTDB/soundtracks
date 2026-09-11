@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Trendaria | 75138 | [75138-battle-trendaria.json](./75138-battle-trendaria.json) |
 | Battle Trendaria | 75191 | [75191-battle-trendaria.json](./75191-battle-trendaria.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
+| Battle X Arcade | 110961 | [110961-battle-x-arcade.json](./110961-battle-x-arcade.json) |
 | Battle X Death | 223690 | [223690-battle-x-death.json](./223690-battle-x-death.json) |
 | Battle XXL | 208595 | [208595-battle-xxl.json](./208595-battle-xxl.json) |
 | Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
@@ -978,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Ball | 340954 | [340954-beat-ball.json](./340954-beat-ball.json) |
 | Beat Banger | 253039 | [253039-beat-banger.json](./253039-beat-banger.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
+| Beat Boxers | 110997 | [110997-beat-boxers.json](./110997-beat-boxers.json) |
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
 | Beat Cop | 18860 | [18860-beat-cop.json](./18860-beat-cop.json) |
 | Beat Craft | 320151 | [320151-beat-craft.json](./320151-beat-craft.json) |
@@ -2437,6 +2439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borrowed Time | 12259 | [12259-borrowed-time.json](./12259-borrowed-time.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
 | Bosorka | 223445 | [223445-bosorka.json](./223445-bosorka.json) |
+| Boss Barrage | 110986 | [110986-boss-barrage.json](./110986-boss-barrage.json) |
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
 | Boss Simulator | 293109 | [293109-boss-simulator.json](./293109-boss-simulator.json) |
