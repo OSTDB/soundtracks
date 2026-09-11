@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberation | 249813 | [249813-liberation.json](./249813-liberation.json) |
 | Liberation Circuit | 185085 | [185085-liberation-circuit.json](./185085-liberation-circuit.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
+| Liberogrande International | 81231 | [81231-liberogrande-international.json](./81231-liberogrande-international.json) |
 | Liberta: Rise of Freedom | 250963 | [250963-liberta-rise-of-freedom.json](./250963-liberta-rise-of-freedom.json) |
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
 | Liberty City Preservation Project | 334671 | [334671-liberty-city-preservation-project.json](./334671-liberty-city-preservation-project.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mage | 116355 | [116355-little-mage.json](./116355-little-mage.json) |
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
 | Little Magic | 38383 | [38383-little-magic.json](./38383-little-magic.json) |
+| Little Magic | 81331 | [81331-little-magic.json](./81331-little-magic.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
 | Little Monkey King's Big Quest | 265137 | [265137-little-monkey-kings-big-quest.json](./265137-little-monkey-kings-big-quest.json) |
