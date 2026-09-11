@@ -1928,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 2000 | 788 | [788-microsoft-flight-simulator-2000.json](./788-microsoft-flight-simulator-2000.json) |
 | Microsoft Flight Simulator 2004: A Century of Flight | 712 | [712-microsoft-flight-simulator-2004-a-century-of-flight.json](./712-microsoft-flight-simulator-2004-a-century-of-flight.json) |
 | Microsoft Flight Simulator 2024: World Update 20 - Japan | 370133 | [370133-microsoft-flight-simulator-2024-world-update-20-japan.json](./370133-microsoft-flight-simulator-2024-world-update-20-japan.json) |
+| Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - 737 Extreme Sound | 161820 | [161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json](./161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json) |
@@ -2008,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator: Premium Deluxe 40th Anniversary Edition | 293927 | [293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json](./293927-microsoft-flight-simulator-premium-deluxe-40th-anniversary-edition.json) |
 | Microsoft Flight Simulator: Top Gun - Maverick | 152312 | [152312-microsoft-flight-simulator-top-gun-maverick.json](./152312-microsoft-flight-simulator-top-gun-maverick.json) |
 | Microsoft Return of Arcade | 22620 | [22620-microsoft-return-of-arcade.json](./22620-microsoft-return-of-arcade.json) |
+| Microsoft Revenge of Arcade | 84228 | [84228-microsoft-revenge-of-arcade.json](./84228-microsoft-revenge-of-arcade.json) |
 | Microsoft Soccer | 93003 | [93003-microsoft-soccer.json](./93003-microsoft-soccer.json) |
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
 | Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
@@ -2102,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike V: Skateboard Party HD | 87709 | [87709-mike-v-skateboard-party-hd.json](./87709-mike-v-skateboard-party-hd.json) |
 | Mike's Paper Mario Adventure | 324110 | [324110-mikes-paper-mario-adventure.json](./324110-mikes-paper-mario-adventure.json) |
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
+| Mikie: High School Graffiti | 84164 | [84164-mikie-high-school-graffiti.json](./84164-mikie-high-school-graffiti.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Miku Miku Hockey | 62780 | [62780-miku-miku-hockey.json](./62780-miku-miku-hockey.json) |
@@ -2995,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Jam Showdown: Yeti | 332228 | [332228-monster-jam-showdown-yeti.json](./332228-monster-jam-showdown-yeti.json) |
 | Monster Knockout | 224755 | [224755-monster-knockout.json](./224755-monster-knockout.json) |
 | Monster Lair | 42019 | [42019-monster-lair.json](./42019-monster-lair.json) |
+| Monster Land | 84186 | [84186-monster-land.json](./84186-monster-land.json) |
 | Monster League | 110497 | [110497-monster-league.json](./110497-monster-league.json) |
 | Monster Legend | 158134 | [158134-monster-legend.json](./158134-monster-legend.json) |
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
