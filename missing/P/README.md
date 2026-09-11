@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
+| Pac-Man World | 84190 | [84190-pac-man-world.json](./84190-pac-man-world.json) |
 | Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
 | Pac-Man: Ralph Breaks the Maze | 112300 | [112300-pac-man-ralph-breaks-the-maze.json](./112300-pac-man-ralph-breaks-the-maze.json) |
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
@@ -90,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain | 7387 | [7387-pain.json](./7387-pain.json) |
 | Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
 | Pain Train | 29911 | [29911-pain-train.json](./29911-pain-train.json) |
+| Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
 | Painkiller: Redemption | 1838 | [1838-painkiller-redemption.json](./1838-painkiller-redemption.json) |
@@ -608,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patricide | 366246 | [366246-patricide.json](./366246-patricide.json) |
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
+| Patriots by John Dondzila | 84155 | [84155-patriots-by-john-dondzila.json](./84155-patriots-by-john-dondzila.json) |
 | Patrol no Gunji Hakubutsukan 3: Chouzetsu Muteki Kyuukyoku Heiki | 284347 | [284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json](./284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json) |
 | Patrol Police: Job Simulator | 223984 | [223984-patrol-police-job-simulator.json](./223984-patrol-police-job-simulator.json) |
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
@@ -679,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Fútbol Edición Oro | 86018 | [86018-pc-futbol-edicion-oro.json](./86018-pc-futbol-edicion-oro.json) |
 | PC Fútbol Selección Española Europa 2000 | 98953 | [98953-pc-futbol-seleccion-espanola-europa-2000.json](./98953-pc-futbol-seleccion-espanola-europa-2000.json) |
 | PC Pool | 86039 | [86039-pc-pool.json](./86039-pc-pool.json) |
+| PC Selección Española de Fútbol Eurocopa '96 | 84224 | [84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json](./84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
@@ -2546,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Lost Crown - Complete Edition | 317240 | [317240-prince-of-persia-the-lost-crown-complete-edition.json](./317240-prince-of-persia-the-lost-crown-complete-edition.json) |
 | Prince of Persia: The Lost Crown - Deluxe Edition | 252992 | [252992-prince-of-persia-the-lost-crown-deluxe-edition.json](./252992-prince-of-persia-the-lost-crown-deluxe-edition.json) |
 | Prince of Persia: The Sands of Time | 213051 | [213051-prince-of-persia-the-sands-of-time.json](./213051-prince-of-persia-the-sands-of-time.json) |
+| Prince of Persia: The Sands of Time & Lara Croft Tomb Raider: The Prophecy | 84173 | [84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json](./84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json) |
 | Prince of Persia: The Sands of Time HD | 99585 | [99585-prince-of-persia-the-sands-of-time-hd.json](./99585-prince-of-persia-the-sands-of-time-hd.json) |
 | Prince of Persia: Warrior Within HD | 99586 | [99586-prince-of-persia-warrior-within-hd.json](./99586-prince-of-persia-warrior-within-hd.json) |
 | Princess | 187431 | [187431-princess.json](./187431-princess.json) |
