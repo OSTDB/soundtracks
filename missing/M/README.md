@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect: Genesis 2 | 202313 | [202313-mass-effect-genesis-2.json](./202313-mass-effect-genesis-2.json) |
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
 | Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
+| Mass Plus | 126576 | [126576-mass-plus.json](./126576-mass-plus.json) |
 | Massacre Tower | 161359 | [161359-massacre-tower.json](./161359-massacre-tower.json) |
 | Massira | 116369 | [116369-massira.json](./116369-massira.json) |
 | Massive Air Combat: Puzzles | 163423 | [163423-massive-air-combat-puzzles.json](./163423-massive-air-combat-puzzles.json) |
@@ -2642,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Molly and the Gunmids | 185687 | [185687-molly-and-the-gunmids.json](./185687-molly-and-the-gunmids.json) |
+| Molly: fear of clowns | 126613 | [126613-molly-fear-of-clowns.json](./126613-molly-fear-of-clowns.json) |
 | Moloch Kombinat | 410886 | [410886-moloch-kombinat.json](./410886-moloch-kombinat.json) |
 | Moloch's Priest | 144244 | [144244-molochs-priest.json](./144244-molochs-priest.json) |
 | Mom | 159247 | [159247-mom.json](./159247-mom.json) |
@@ -2697,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
 | Monet - The Mystery of the Orangery | 129764 | [129764-monet-the-mystery-of-the-orangery.json](./129764-monet-the-mystery-of-the-orangery.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
+| Money Loves Silence | 126608 | [126608-money-loves-silence.json](./126608-money-loves-silence.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
@@ -3863,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
 | Myst Mobile | 237366 | [237366-myst-mobile.json](./237366-myst-mobile.json) |
 | Myst: Through the Ages Collection | 230816 | [230816-myst-through-the-ages-collection.json](./230816-myst-through-the-ages-collection.json) |
+| MyStar | 126595 | [126595-mystar.json](./126595-mystar.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 137025 | [137025-mystereet-yasogami-kaoru-no-chousen.json](./137025-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mystereet: Yasogami Kaoru no Chousen! | 326951 | [326951-mystereet-yasogami-kaoru-no-chousen.json](./326951-mystereet-yasogami-kaoru-no-chousen.json) |
 | Mysteria ~Occult Shadows~ | 108626 | [108626-mysteria-occult-shadows.json](./108626-mysteria-occult-shadows.json) |
