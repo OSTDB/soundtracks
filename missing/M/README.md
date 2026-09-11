@@ -3304,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Prime Edition | 271503 | [271503-moto-rush-gt-prime-edition.json](./271503-moto-rush-gt-prime-edition.json) |
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
+| Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
 | MotoGP 13: MotoGP Champions | 168355 | [168355-motogp-13-motogp-champions.json](./168355-motogp-13-motogp-champions.json) |
 | MotoGP 13:Red Bull Rookies Cup | 168356 | [168356-motogp-13-red-bull-rookies-cup.json](./168356-motogp-13-red-bull-rookies-cup.json) |
@@ -4054,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
+| Mystery Tiles Premium | 100958 | [100958-mystery-tiles-premium.json](./100958-mystery-tiles-premium.json) |
 | Mystery Town - Fun Seek and Find Hidden Object Puzzles | 104122 | [104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json](./104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json) |
 | Mystery Trackers: Black Isle - Collector's Edition | 107859 | [107859-mystery-trackers-black-isle-collectors-edition.json](./107859-mystery-trackers-black-isle-collectors-edition.json) |
 | Mystery Trackers: Blackrow's Secret | 201830 | [201830-mystery-trackers-blackrows-secret.json](./201830-mystery-trackers-blackrows-secret.json) |
