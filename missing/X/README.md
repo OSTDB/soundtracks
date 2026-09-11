@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XType Plus | 61248 | [61248-xtype-plus.json](./61248-xtype-plus.json) |
 | xTypeVersus | 154016 | [154016-xtypeversus.json](./154016-xtypeversus.json) |
 | Xuán Chén Xiāntú | 130928 | [130928-xuan-chen-xiantu.json](./130928-xuan-chen-xiantu.json) |
+| Xuan Dou Zhi Wang | 93555 | [93555-xuan-dou-zhi-wang.json](./93555-xuan-dou-zhi-wang.json) |
 | Xuan Yuan Sword Luminary | 196321 | [196321-xuan-yuan-sword-luminary.json](./196321-xuan-yuan-sword-luminary.json) |
 | Xuan Yuan Sword: The Gate of Firmament | 90974 | [90974-xuan-yuan-sword-the-gate-of-firmament.json](./90974-xuan-yuan-sword-the-gate-of-firmament.json) |
 | Xuan-Yuan Sword | 93064 | [93064-xuan-yuan-sword.json](./93064-xuan-yuan-sword.json) |
