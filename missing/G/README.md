@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geppaku: Monogatari | 342664 | [342664-geppaku-monogatari.json](./342664-geppaku-monogatari.json) |
 | Gerbil Mech Program | 363908 | [363908-gerbil-mech-program.json](./363908-gerbil-mech-program.json) |
 | Germ Blasters | 353910 | [353910-germ-blasters.json](./353910-germ-blasters.json) |
+| Germ Crazy | 94669 | [94669-germ-crazy.json](./94669-germ-crazy.json) |
 | Gërman Boy | 331889 | [331889-german-boy.json](./331889-german-boy.json) |
 | German Road Racer Pro | 100731 | [100731-german-road-racer-pro.json](./100731-german-road-racer-pro.json) |
 | German Tantei-dan Maringumi: Himitsu Kichi wo Mamore! | 346031 | [346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json](./346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json) |
