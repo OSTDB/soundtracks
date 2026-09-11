@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T21:48:30.390Z",
-  "total_missing": 59440,
+  "generated_at": "2026-09-11T21:50:53.902Z",
+  "total_missing": 59439,
   "games": [
     {
       "igdb_id": 306086,
@@ -2451,11 +2451,6 @@
       "igdb_id": 243418,
       "game_name": "A Shard of Mine",
       "file": "missing/A/243418-a-shard-of-mine.json"
-    },
-    {
-      "igdb_id": 58800,
-      "game_name": "A Skyrocket Story",
-      "file": "missing/A/58800-a-skyrocket-story.json"
     },
     {
       "igdb_id": 236502,
