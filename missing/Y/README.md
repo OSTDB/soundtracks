@@ -401,4 +401,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuurei Station | 179669 | [179669-yuurei-station.json](./179669-yuurei-station.json) |
 | Yuurei-kun | 141848 | [141848-yuurei-kun.json](./141848-yuurei-kun.json) |
 | Yuusha | 22480 | [22480-yuusha.json](./22480-yuusha.json) |
+| Yuusha to Maou to, Majo no Cafe | 97377 | [97377-yuusha-to-maou-to-majo-no-cafe.json](./97377-yuusha-to-maou-to-majo-no-cafe.json) |
 | YuYu Hakusho Dai-yon-dan: Makai Touitsu-hen | 60559 | [60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json](./60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json) |
