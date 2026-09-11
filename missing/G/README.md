@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo-Political Simulator | 79943 | [79943-geo-political-simulator.json](./79943-geo-political-simulator.json) |
 | Geobeast | 386706 | [386706-geobeast.json](./386706-geobeast.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
+| Geodessey | 111753 | [111753-geodessey.json](./111753-geodessey.json) |
 | GeoEmpires | 342644 | [342644-geoempires.json](./342644-geoempires.json) |
 | GeoExpert - USA Geography | 98998 | [98998-geoexpert-usa-geography.json](./98998-geoexpert-usa-geography.json) |
 | Geography Champion | 105933 | [105933-geography-champion.json](./105933-geography-champion.json) |
