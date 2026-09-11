@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O-Bot The Robot 2 | 266225 | [266225-o-bot-the-robot-2.json](./266225-o-bot-the-robot-2.json) |
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
+| O.T.D | 130330 | [130330-o-t-d.json](./130330-o-t-d.json) |
 | O2Jam | 200163 | [200163-o2jam.json](./200163-o2jam.json) |
 | O2Jam | 72126 | [72126-o2jam.json](./72126-o2jam.json) |
 | O2Jam: The Beginning | 390546 | [390546-o2jam-the-beginning.json](./390546-o2jam-the-beginning.json) |
@@ -983,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Sight | 312565 | [312565-out-of-sight.json](./312565-out-of-sight.json) |
 | Out of Stock! | 346588 | [346588-out-of-stock.json](./346588-out-of-stock.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
+| Out of the Park Baseball 21 | 130326 | [130326-out-of-the-park-baseball-21.json](./130326-out-of-the-park-baseball-21.json) |
 | Out of the Park Baseball 25 | 287086 | [287086-out-of-the-park-baseball-25.json](./287086-out-of-the-park-baseball-25.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
 | Out the Window: a car trip sim | 134691 | [134691-out-the-window-a-car-trip-sim.json](./134691-out-the-window-a-car-trip-sim.json) |
