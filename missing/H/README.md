@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony | 260660 | [260660-harmony.json](./260660-harmony.json) |
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
+| Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
 | Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
@@ -1631,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
+| Höllische Nachbarn | 92979 | [92979-hollische-nachbarn.json](./92979-hollische-nachbarn.json) |
 | Hollow | 186257 | [186257-hollow.json](./186257-hollow.json) |
 | Hollow Bequest | 386714 | [386714-hollow-bequest.json](./386714-hollow-bequest.json) |
 | Hollow Halls | 29905 | [29905-hollow-halls.json](./29905-hollow-halls.json) |
@@ -2167,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
+| Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
 | Hundred Chances | 171585 | [171585-hundred-chances.json](./171585-hundred-chances.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
