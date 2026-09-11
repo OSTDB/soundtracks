@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
 | Hippo: Little Red Riding Hood | 233007 | [233007-hippo-little-red-riding-hood.json](./233007-hippo-little-red-riding-hood.json) |
 | Hippodrome | 39680 | [39680-hippodrome.json](./39680-hippodrome.json) |
+| Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
 | Hired Team: Trial Gold | 73849 | [73849-hired-team-trial-gold.json](./73849-hired-team-trial-gold.json) |
@@ -2149,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Humphrey: Eat The World | 275612 | [275612-hungry-humphrey-eat-the-world.json](./275612-hungry-humphrey-eat-the-world.json) |
 | Hungry Knight! | 128651 | [128651-hungry-knight.json](./128651-hungry-knight.json) |
 | Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
+| Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
 | Hungry Shark Arena | 300683 | [300683-hungry-shark-arena.json](./300683-hungry-shark-arena.json) |
 | Hungry Shark Arena: Horror Night | 221713 | [221713-hungry-shark-arena-horror-night.json](./221713-hungry-shark-arena-horror-night.json) |
