@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveArena | 385051 | [385051-lovearena.json](./385051-lovearena.json) |
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
 | Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
+| Lovecraft Tales | 103394 | [103394-lovecraft-tales.json](./103394-lovecraft-tales.json) |
 | Lovecraft's Mythos Run | 248055 | [248055-lovecrafts-mythos-run.json](./248055-lovecrafts-mythos-run.json) |
 | LoveCrafting | 180797 | [180797-lovecrafting.json](./180797-lovecrafting.json) |
 | Lovefield General: Back to Work | 105351 | [105351-lovefield-general-back-to-work.json](./105351-lovefield-general-back-to-work.json) |
