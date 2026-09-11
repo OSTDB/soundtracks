@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupitron Game Collection Vol. 4: Middleware | 198481 | [198481-jupitron-game-collection-vol-4-middleware.json](./198481-jupitron-game-collection-vol-4-middleware.json) |
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
+| Jurassic City Walk | 99030 | [99030-jurassic-city-walk.json](./99030-jurassic-city-walk.json) |
 | Jurassic Craft: Dino Hunter | 175350 | [175350-jurassic-craft-dino-hunter.json](./175350-jurassic-craft-dino-hunter.json) |
 | Jurassic Dinosaur | 252148 | [252148-jurassic-dinosaur.json](./252148-jurassic-dinosaur.json) |
 | Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
