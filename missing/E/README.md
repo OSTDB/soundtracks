@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epsilon wars | 167296 | [167296-epsilon-wars.json](./167296-epsilon-wars.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
 | Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
+| Equilibrium 3D | 102212 | [102212-equilibrium-3d.json](./102212-equilibrium-3d.json) |
 | Equilibrium Ocean | 107161 | [107161-equilibrium-ocean.json](./107161-equilibrium-ocean.json) |
 | Equilibrium Point | 388742 | [388742-equilibrium-point.json](./388742-equilibrium-point.json) |
 | Equilibrium VR | 29941 | [29941-equilibrium-vr.json](./29941-equilibrium-vr.json) |
