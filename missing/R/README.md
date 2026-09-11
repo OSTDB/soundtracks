@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reunion | 135873 | [135873-reunion.json](./135873-reunion.json) |
 | Reunion | 388703 | [388703-reunion.json](./388703-reunion.json) |
 | Reunited in the Mist | 364484 | [364484-reunited-in-the-mist.json](./364484-reunited-in-the-mist.json) |
+| Reunition | 89208 | [89208-reunition.json](./89208-reunition.json) |
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
 | Rev. Noir | 389436 | [389436-rev-noir.json](./389436-rev-noir.json) |
 | Revealed | 388705 | [388705-revealed.json](./388705-revealed.json) |
