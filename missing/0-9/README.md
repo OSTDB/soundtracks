@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
+| 1st Core | 103444 | [103444-1st-core.json](./103444-1st-core.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2 Fast 4 Gnomz | 8618 | [8618-2-fast-4-gnomz.json](./8618-2-fast-4-gnomz.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
