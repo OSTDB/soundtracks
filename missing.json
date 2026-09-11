@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T08:04:31.045Z",
-  "total_missing": 57181,
+  "generated_at": "2026-09-11T08:11:14.544Z",
+  "total_missing": 57180,
   "games": [
     {
       "igdb_id": 306086,
@@ -2021,11 +2021,6 @@
       "igdb_id": 311503,
       "game_name": "A Gentlemen's Dispute",
       "file": "missing/A/311503-a-gentlemens-dispute.json"
-    },
-    {
-      "igdb_id": 29266,
-      "game_name": "A Girls Fabric Face",
-      "file": "missing/A/29266-a-girls-fabric-face.json"
     },
     {
       "igdb_id": 144367,
