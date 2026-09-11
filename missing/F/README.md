@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Time Warped | 66114 | [66114-family-guy-time-warped.json](./66114-family-guy-time-warped.json) |
+| Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
 | Family Reunion | 381629 | [381629-family-reunion.json](./381629-family-reunion.json) |
 | Family Road Trips | 215402 | [215402-family-road-trips.json](./215402-family-road-trips.json) |
