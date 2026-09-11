@@ -1552,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diets and Deities | 244268 | [244268-diets-and-deities.json](./244268-diets-and-deities.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
+| Dig & Spike Volleyball | 94194 | [94194-dig-and-spike-volleyball.json](./94194-dig-and-spike-volleyball.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disturbed 2 | 28904 | [28904-disturbed-2.json](./28904-disturbed-2.json) |
 | Ditch Whit #1: Shield Night | 202922 | [202922-ditch-whit-1-shield-night.json](./202922-ditch-whit-1-shield-night.json) |
 | Dithered | 122411 | [122411-dithered.json](./122411-dithered.json) |
+| Ditto Leapfrog | 94206 | [94206-ditto-leapfrog.json](./94206-ditto-leapfrog.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
 | Divan Chronicles: Battle for Dancig - Episode 3 | 172096 | [172096-divan-chronicles-battle-for-dancig-episode-3.json](./172096-divan-chronicles-battle-for-dancig-episode-3.json) |
 | Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
@@ -2398,6 +2400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
 | Dot Tanki | 222940 | [222940-dot-tanki.json](./222940-dot-tanki.json) |
+| Dot. | 94201 | [94201-dot.json](./94201-dot.json) |
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
@@ -3104,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducks in Disguise | 411621 | [411621-ducks-in-disguise.json](./411621-ducks-in-disguise.json) |
 | Duckside | 295239 | [295239-duckside.json](./295239-duckside.json) |
 | Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
+| Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
 | Dude Cops | 107195 | [107195-dude-cops.json](./107195-dude-cops.json) |
 | Dude Simulator 3 | 144297 | [144297-dude-simulator-3.json](./144297-dude-simulator-3.json) |
