@@ -1818,10 +1818,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
 | Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
+| Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
+| Rogue Agent | 99655 | [99655-rogue-agent.json](./99655-rogue-agent.json) |
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
