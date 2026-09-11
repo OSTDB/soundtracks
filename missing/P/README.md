@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
+| Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
 | Pain | 7387 | [7387-pain.json](./7387-pain.json) |
 | Pain is the Best Medicine | 292007 | [292007-pain-is-the-best-medicine.json](./292007-pain-is-the-best-medicine.json) |
@@ -181,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
+| Pamp Quest | 124181 | [124181-pamp-quest.json](./124181-pamp-quest.json) |
 | PamPam Kana Students | 390547 | [390547-pampam-kana-students.json](./390547-pampam-kana-students.json) |
 | Pampas & Selene: The Maze of Demons | 261813 | [261813-pampas-and-selene-the-maze-of-demons.json](./261813-pampas-and-selene-the-maze-of-demons.json) |
 | Pan'orama | 211935 | [211935-panorama.json](./211935-panorama.json) |
