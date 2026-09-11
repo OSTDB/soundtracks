@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
 | Kemco: 50 RPGs Celebratory Bundle | 259865 | [259865-kemco-50-rpgs-celebratory-bundle.json](./259865-kemco-50-rpgs-celebratory-bundle.json) |
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
+| Kemono Friends | 109605 | [109605-kemono-friends.json](./109605-kemono-friends.json) |
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends: Neko to Wakai se yo | 254533 | [254533-kemono-friends-neko-to-wakai-se-yo.json](./254533-kemono-friends-neko-to-wakai-se-yo.json) |
 | Kemono Friends: Opening Day | 247776 | [247776-kemono-friends-opening-day.json](./247776-kemono-friends-opening-day.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
+| Kenka Banchou Otome 2nd Rumble!! | 109571 | [109571-kenka-banchou-otome-2nd-rumble.json](./109571-kenka-banchou-otome-2nd-rumble.json) |
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
 | Kenoma: Action Without Action | 301252 | [301252-kenoma-action-without-action.json](./301252-kenoma-action-without-action.json) |
@@ -554,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Snatchers | 306338 | [306338-king-of-snatchers.json](./306338-king-of-snatchers.json) |
 | King of Space | 345515 | [345515-king-of-space.json](./345515-king-of-space.json) |
 | King of Spin VR | 31980 | [31980-king-of-spin-vr.json](./31980-king-of-spin-vr.json) |
+| King of Sports: New Japan Pro-Wrestling | 109574 | [109574-king-of-sports-new-japan-pro-wrestling.json](./109574-king-of-sports-new-japan-pro-wrestling.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
@@ -647,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Corda 2: Encore | 57704 | [57704-kiniro-no-corda-2-encore.json](./57704-kiniro-no-corda-2-encore.json) |
 | Kiniro no Corda 3 | 79928 | [79928-kiniro-no-corda-3.json](./79928-kiniro-no-corda-3.json) |
 | Kiniro no Corda 4 | 57702 | [57702-kiniro-no-corda-4.json](./57702-kiniro-no-corda-4.json) |
+| Kiniro no Corda Octave | 109570 | [109570-kiniro-no-corda-octave.json](./109570-kiniro-no-corda-octave.json) |
 | Kiniro no Corda: La Corda d'Oro | 57705 | [57705-kiniro-no-corda-la-corda-doro.json](./57705-kiniro-no-corda-la-corda-doro.json) |
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
 | Kinnikuman | 138764 | [138764-kinnikuman.json](./138764-kinnikuman.json) |
@@ -923,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokurase: Episode 3 | 167799 | [167799-kokurase-episode-3.json](./167799-kokurase-episode-3.json) |
 | Kokuriko | 296922 | [296922-kokuriko.json](./296922-kokuriko.json) |
 | Koliquest | 146243 | [146243-koliquest.json](./146243-koliquest.json) |
+| Kolkhoz: The Red Wedge | 109755 | [109755-kolkhoz-the-red-wedge.json](./109755-kolkhoz-the-red-wedge.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
