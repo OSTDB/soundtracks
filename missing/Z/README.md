@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies War | 118341 | [118341-zombies-war.json](./118341-zombies-war.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
 | Zombies!!! Board Game: NotDeadYet | 289340 | [289340-zombies-board-game-notdeadyet.json](./289340-zombies-board-game-notdeadyet.json) |
+| Zombies. | 95370 | [95370-zombies.json](./95370-zombies.json) |
 | Zombies.io | 130359 | [130359-zombies-io.json](./130359-zombies-io.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
 | ZombieZoid Zenith | 34435 | [34435-zombiezoid-zenith.json](./34435-zombiezoid-zenith.json) |
