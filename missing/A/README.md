@@ -38,7 +38,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
 | A Familiar Fairytale: Dyslexic Text Based Adventure | 124174 | [124174-a-familiar-fairytale-dyslexic-text-based-adventure.json](./124174-a-familiar-fairytale-dyslexic-text-based-adventure.json) |
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
-| A Feeble Saga | 126043 | [126043-a-feeble-saga.json](./126043-a-feeble-saga.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
 | A Field of Flowers | 357795 | [357795-a-field-of-flowers.json](./357795-a-field-of-flowers.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
