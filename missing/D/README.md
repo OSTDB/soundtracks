@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monster Super Light | 80598 | [80598-dragon-quest-monster-super-light.json](./80598-dragon-quest-monster-super-light.json) |
 | Dragon Quest Monsters: Joker 3 Professional | 79296 | [79296-dragon-quest-monsters-joker-3-professional.json](./79296-dragon-quest-monsters-joker-3-professional.json) |
 | Dragon Quest Monsters: Terry no Wonderland 3D | 80596 | [80596-dragon-quest-monsters-terry-no-wonderland-3d.json](./80596-dragon-quest-monsters-terry-no-wonderland-3d.json) |
+| Dragon Quest Monsters: Terry no Wonderland SP | 111757 | [111757-dragon-quest-monsters-terry-no-wonderland-sp.json](./111757-dragon-quest-monsters-terry-no-wonderland-sp.json) |
 | Dragon Quest VII Reimagined | 366884 | [366884-dragon-quest-vii-reimagined.json](./366884-dragon-quest-vii-reimagined.json) |
 | Dragon Quest VII Reimagined: Jam-Packed Swag Bag | 375183 | [375183-dragon-quest-vii-reimagined-jam-packed-swag-bag.json](./375183-dragon-quest-vii-reimagined-jam-packed-swag-bag.json) |
 | Dragon Quest VII Reimagined: Luminary's Livery | 375189 | [375189-dragon-quest-vii-reimagined-luminarys-livery.json](./375189-dragon-quest-vii-reimagined-luminarys-livery.json) |
@@ -3030,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duet Night Abyss: Paradise Prelude | 413601 | [413601-duet-night-abyss-paradise-prelude.json](./413601-duet-night-abyss-paradise-prelude.json) |
 | Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
 | Dufe: Masquerade | 179749 | [179749-dufe-masquerade.json](./179749-dufe-masquerade.json) |
+| Duga | 111752 | [111752-duga.json](./111752-duga.json) |
 | Duil | 161348 | [161348-duil.json](./161348-duil.json) |
 | Duilius: The Ancient Duel | 294152 | [294152-duilius-the-ancient-duel.json](./294152-duilius-the-ancient-duel.json) |
 | Dukai | 271984 | [271984-dukai.json](./271984-dukai.json) |
