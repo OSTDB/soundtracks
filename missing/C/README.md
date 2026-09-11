@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candle Under Water | 124173 | [124173-candle-under-water.json](./124173-candle-under-water.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candles of the Damned | 271491 | [271491-candles-of-the-damned.json](./271491-candles-of-the-damned.json) |
+| Candy | 104011 | [104011-candy.json](./104011-candy.json) |
 | Candy Bandit | 19697 | [19697-candy-bandit.json](./19697-candy-bandit.json) |
 | Candy Box | 3269 | [3269-candy-box.json](./3269-candy-box.json) |
 | Candy Box 2 | 62779 | [62779-candy-box-2.json](./62779-candy-box-2.json) |
@@ -2034,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Jar | 291742 | [291742-coin-jar.json](./291742-coin-jar.json) |
 | Coin Toss Rainbow Simulator | 272871 | [272871-coin-toss-rainbow-simulator.json](./272871-coin-toss-rainbow-simulator.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
+| Coinon | 104014 | [104014-coinon.json](./104014-coinon.json) |
 | Coins | 312027 | [312027-coins.json](./312027-coins.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
@@ -2544,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Pizza | 172700 | [172700-cool-pizza.json](./172700-cool-pizza.json) |
 | Cool Spot | 2621 | [2621-cool-spot.json](./2621-cool-spot.json) |
 | Cool Thief Guy | 398316 | [398316-cool-thief-guy.json](./398316-cool-thief-guy.json) |
+| CoolPaintr VR | 104022 | [104022-coolpaintr-vr.json](./104022-coolpaintr-vr.json) |
 | CoolPaintr VR: Voxel | 270143 | [270143-coolpaintr-vr-voxel.json](./270143-coolpaintr-vr-voxel.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
