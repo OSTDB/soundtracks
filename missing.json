@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:31:22.510Z",
+  "generated_at": "2026-09-11T16:41:04.111Z",
   "total_missing": 58607,
   "games": [
     {
@@ -2291,11 +2291,6 @@
       "igdb_id": 303770,
       "game_name": "A New World Of Turnabouts",
       "file": "missing/A/303770-a-new-world-of-turnabouts.json"
-    },
-    {
-      "igdb_id": 184620,
-      "game_name": "A Night At Andy's",
-      "file": "missing/A/184620-a-night-at-andys.json"
     },
     {
       "igdb_id": 145625,
@@ -226581,6 +226576,11 @@
       "igdb_id": 114330,
       "game_name": "Spot Girls Difference",
       "file": "missing/S/114330-spot-girls-difference.json"
+    },
+    {
+      "igdb_id": 94717,
+      "game_name": "Spot Pool",
+      "file": "missing/S/94717-spot-pool.json"
     },
     {
       "igdb_id": 324123,
