@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu | 294999 | [294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json](./294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json) |
 | Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
 | Naruto: Ninja Council 2 - European Version | 79297 | [79297-naruto-ninja-council-2-european-version.json](./79297-naruto-ninja-council-2-european-version.json) |
+| Naruto: Slugfest | 130874 | [130874-naruto-slugfest.json](./130874-naruto-slugfest.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
 | NASCAR 26 | 412990 | [412990-nascar-26.json](./412990-nascar-26.json) |
 | Nascar Arcade Rush: Project-X Pack | 267081 | [267081-nascar-arcade-rush-project-x-pack.json](./267081-nascar-arcade-rush-project-x-pack.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New English Training: Learning with Tempo - Advanced Edition | 260942 | [260942-new-english-training-learning-with-tempo-advanced-edition.json](./260942-new-english-training-learning-with-tempo-advanced-edition.json) |
 | New English Training: Learning with Tempo - Beginners Edition | 260944 | [260944-new-english-training-learning-with-tempo-beginners-edition.json](./260944-new-english-training-learning-with-tempo-beginners-edition.json) |
 | New Era | 135862 | [135862-new-era.json](./135862-new-era.json) |
+| New Fortress | 130875 | [130875-new-fortress.json](./130875-new-fortress.json) |
 | New Ganymede | 266783 | [266783-new-ganymede.json](./266783-new-ganymede.json) |
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
@@ -1308,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novastrike | 52614 | [52614-novastrike.json](./52614-novastrike.json) |
 | Novel Simulator | 392130 | [392130-novel-simulator.json](./392130-novel-simulator.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
+| Novovu | 130879 | [130879-novovu.json](./130879-novovu.json) |
 | Novus Conquest | 248881 | [248881-novus-conquest.json](./248881-novus-conquest.json) |
 | Novus Orbis | 253583 | [253583-novus-orbis.json](./253583-novus-orbis.json) |
 | Now & Then: A Tale of the End | 255097 | [255097-now-and-then-a-tale-of-the-end.json](./255097-now-and-then-a-tale-of-the-end.json) |
