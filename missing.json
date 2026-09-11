@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T23:48:16.164Z",
-  "total_missing": 59782,
+  "generated_at": "2026-09-11T23:50:57.742Z",
+  "total_missing": 59781,
   "games": [
     {
       "igdb_id": 306086,
@@ -2511,11 +2511,6 @@
       "igdb_id": 115043,
       "game_name": "A Story of Us: Ep. 1 - First Memories",
       "file": "missing/A/115043-a-story-of-us-ep-1-first-memories.json"
-    },
-    {
-      "igdb_id": 338171,
-      "game_name": "A Summer in Our Hearts",
-      "file": "missing/A/338171-a-summer-in-our-hearts.json"
     },
     {
       "igdb_id": 185079,
