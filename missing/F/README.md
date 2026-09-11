@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Tale | 133381 | [133381-flip-tale.json](./133381-flip-tale.json) |
 | Flip Words | 77381 | [77381-flip-words.json](./77381-flip-words.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
+| Fliplomacy | 103399 | [103399-fliplomacy.json](./103399-fliplomacy.json) |
 | Flipnote Studio | 85636 | [85636-flipnote-studio.json](./85636-flipnote-studio.json) |
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
 | Football Star Life 23/24 | 260152 | [260152-football-star-life-23-24.json](./260152-football-star-life-23-24.json) |
+| Football Story | 103391 | [103391-football-story.json](./103391-football-story.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
 | Football: The Hardest Job | 123574 | [123574-football-the-hardest-job.json](./123574-football-the-hardest-job.json) |
@@ -1882,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
 | Fort Valen | 238501 | [238501-fort-valen.json](./238501-fort-valen.json) |
 | Fortissimo FA//Akkord:Nachsten Phase | 101597 | [101597-fortissimo-fa-akkord-nachsten-phase.json](./101597-fortissimo-fa-akkord-nachsten-phase.json) |
+| Fortnight: Elite Commando Action 2 | 103396 | [103396-fortnight-elite-commando-action-2.json](./103396-fortnight-elite-commando-action-2.json) |
 | Fortnite Ballistic | 325281 | [325281-fortnite-ballistic.json](./325281-fortnite-ballistic.json) |
 | Fortnite Festival: Season 1 | 383943 | [383943-fortnite-festival-season-1.json](./383943-fortnite-festival-season-1.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
