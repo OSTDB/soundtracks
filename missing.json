@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T18:03:54.078Z",
-  "total_missing": 58859,
+  "generated_at": "2026-09-11T18:11:02.280Z",
+  "total_missing": 58858,
   "games": [
     {
       "igdb_id": 306086,
@@ -2341,11 +2341,6 @@
       "igdb_id": 245025,
       "game_name": "A Phone Found in Tall Grass",
       "file": "missing/A/245025-a-phone-found-in-tall-grass.json"
-    },
-    {
-      "igdb_id": 223447,
-      "game_name": "A Plague Tale: Requiem - Protector Pack",
-      "file": "missing/A/223447-a-plague-tale-requiem-protector-pack.json"
     },
     {
       "igdb_id": 82150,
