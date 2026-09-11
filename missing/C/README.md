@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Scabs | 177508 | [177508-candy-scabs.json](./177508-candy-scabs.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
 | Candy Star Break | 96009 | [96009-candy-star-break.json](./96009-candy-star-break.json) |
+| Candy Thieves: Tale of Gnomes | 90577 | [90577-candy-thieves-tale-of-gnomes.json](./90577-candy-thieves-tale-of-gnomes.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese mother in law | 158166 | [158166-chinese-mother-in-law.json](./158166-chinese-mother-in-law.json) |
 | Chinese New Year 2013 | 233779 | [233779-chinese-new-year-2013.json](./233779-chinese-new-year-2013.json) |
 | Chinese Paladin 5 Prequel | 68175 | [68175-chinese-paladin-5-prequel.json](./68175-chinese-paladin-5-prequel.json) |
+| Chinese Souls: Hua Garden | 90614 | [90614-chinese-souls-hua-garden.json](./90614-chinese-souls-hua-garden.json) |
 | Chinese Train Trip | 195190 | [195190-chinese-train-trip.json](./195190-chinese-train-trip.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
@@ -1776,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
 | Classic Dungeon Sengoku | 137013 | [137013-classic-dungeon-sengoku.json](./137013-classic-dungeon-sengoku.json) |
 | Classic FreeCell HD | 88281 | [88281-classic-freecell-hd.json](./88281-classic-freecell-hd.json) |
+| Classic Fun Collection 5 in 1 | 90588 | [90588-classic-fun-collection-5-in-1.json](./90588-classic-fun-collection-5-in-1.json) |
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
@@ -1932,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
+| Clown House | 90599 | [90599-clown-house.json](./90599-clown-house.json) |
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
@@ -2157,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony: Part I The Moon Castle | 302937 | [302937-colony-part-i-the-moon-castle.json](./302937-colony-part-i-the-moon-castle.json) |
 | ColonyShip-4: Survivors | 110378 | [110378-colonyship-4-survivors.json](./110378-colonyship-4-survivors.json) |
 | colopl Cyberpong VR | 110303 | [110303-colopl-cyberpong-vr.json](./110303-colopl-cyberpong-vr.json) |
+| Color | 90638 | [90638-color.json](./90638-color.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
@@ -2604,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
 | Cop Duty Police Car Simulator | 102761 | [102761-cop-duty-police-car-simulator.json](./102761-cop-duty-police-car-simulator.json) |
 | Copa City | 305177 | [305177-copa-city.json](./305177-copa-city.json) |
+| Copa Petrobras de Marcas | 90609 | [90609-copa-petrobras-de-marcas.json](./90609-copa-petrobras-de-marcas.json) |
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
