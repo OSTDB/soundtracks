@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QL Pawn | 203377 | [203377-ql-pawn.json](./203377-ql-pawn.json) |
 | Qlanet | 206376 | [206376-qlanet.json](./206376-qlanet.json) |
 | Qliphah in Providence's Shadow | 408068 | [408068-qliphah-in-providences-shadow.json](./408068-qliphah-in-providences-shadow.json) |
+| Qlorb 2 | 88241 | [88241-qlorb-2.json](./88241-qlorb-2.json) |
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
 | Qop 3 | 102389 | [102389-qop-3.json](./102389-qop-3.json) |
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
@@ -120,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qublyne Dungeons | 226435 | [226435-qublyne-dungeons.json](./226435-qublyne-dungeons.json) |
 | QUByte Classics: Gourmet Warriors | 263495 | [263495-qubyte-classics-gourmet-warriors.json](./263495-qubyte-classics-gourmet-warriors.json) |
 | QUByte Classics: The Samurai Collection | 223156 | [223156-qubyte-classics-the-samurai-collection.json](./223156-qubyte-classics-the-samurai-collection.json) |
+| Que Pasa Perro? | 86043 | [86043-que-pasa-perro.json](./86043-que-pasa-perro.json) |
 | Quecksilber | 245872 | [245872-quecksilber.json](./245872-quecksilber.json) |
 | Queen Ant Perfume Episode 0: The Mad Love of Jack the Ripper | 339111 | [339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json](./339111-queen-ant-perfume-episode-0-the-mad-love-of-jack-the-ripper.json) |
 | Queen Elsa and Her Horse Girl Games | 107862 | [107862-queen-elsa-and-her-horse-girl-games.json](./107862-queen-elsa-and-her-horse-girl-games.json) |
