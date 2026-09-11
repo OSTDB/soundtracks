@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
 | DaiPyooon | 252155 | [252155-daipyooon.json](./252155-daipyooon.json) |
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
+| Daisenryaku Daitoua Kouboushi DX: Dai-ni-ji Sekai Taisen | 123011 | [123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json](./123011-daisenryaku-daitoua-kouboushi-dx-dai-ni-ji-sekai-taisen.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
 | Daiz | 239901 | [239901-daiz.json](./239901-daiz.json) |
@@ -1864,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DnD Dice | 105951 | [105951-dnd-dice.json](./105951-dnd-dice.json) |
 | Do Crimes! | 380413 | [380413-do-crimes.json](./380413-do-crimes.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
+| Do It for Me | 122997 | [122997-do-it-for-me.json](./122997-do-it-for-me.json) |
 | Do No Harm | 324687 | [324687-do-no-harm.json](./324687-do-no-harm.json) |
 | Do Not Crash | 252391 | [252391-do-not-crash.json](./252391-do-not-crash.json) |
 | Do Not Enter | 393492 | [393492-do-not-enter.json](./393492-do-not-enter.json) |
@@ -2535,7 +2537,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Raja L: The Classic | 267353 | [267353-dragon-raja-l-the-classic.json](./267353-dragon-raja-l-the-classic.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Ruins II | 328277 | [328277-dragon-ruins-ii.json](./328277-dragon-ruins-ii.json) |
+| Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
 | Dragon Slayer I | 344961 | [344961-dragon-slayer-i.json](./344961-dragon-slayer-i.json) |
+| Dragon Slayers | 123012 | [123012-dragon-slayers.json](./123012-dragon-slayers.json) |
 | Dragon Snack: From Ice to Ember | 399624 | [399624-dragon-snack-from-ice-to-ember.json](./399624-dragon-snack-from-ice-to-ember.json) |
 | Dragon Song Tavern | 334471 | [334471-dragon-song-tavern.json](./334471-dragon-song-tavern.json) |
 | Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
@@ -2689,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Mirror | 164966 | [164966-dream-mirror.json](./164966-dream-mirror.json) |
 | Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
+| Dream of the Blood Moon | 122998 | [122998-dream-of-the-blood-moon.json](./122998-dream-of-the-blood-moon.json) |
 | Dream of Tiny Snow | 244786 | [244786-dream-of-tiny-snow.json](./244786-dream-of-tiny-snow.json) |
 | Dream of Tomorrow | 161354 | [161354-dream-of-tomorrow.json](./161354-dream-of-tomorrow.json) |
 | Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
@@ -2708,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
+| Dreamfarer | 123001 | [123001-dreamfarer.json](./123001-dreamfarer.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreamin' Cat | 276714 | [276714-dreamin-cat.json](./276714-dreamin-cat.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
@@ -2905,6 +2911,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
+| DTXMania | 123018 | [123018-dtxmania.json](./123018-dtxmania.json) |
+| DTXMania AL | 123015 | [123015-dtxmania-al.json](./123015-dtxmania-al.json) |
+| DTXMania GR | 123016 | [123016-dtxmania-gr.json](./123016-dtxmania-gr.json) |
+| DTXMania2 | 123017 | [123017-dtxmania2.json](./123017-dtxmania2.json) |
 | DTXPlayer | 130948 | [130948-dtxplayer.json](./130948-dtxplayer.json) |
 | Dual Bus Simulator | 269028 | [269028-dual-bus-simulator.json](./269028-dual-bus-simulator.json) |
 | Dual Chroma: Haereticus | 259563 | [259563-dual-chroma-haereticus.json](./259563-dual-chroma-haereticus.json) |
