@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scanner Force | 402269 | [402269-scanner-force.json](./402269-scanner-force.json) |
 | Scanner Sombre Pack | 154462 | [154462-scanner-sombre-pack.json](./154462-scanner-sombre-pack.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
+| Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
@@ -1337,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShadowLight Siblings | 314300 | [314300-shadowlight-siblings.json](./314300-shadowlight-siblings.json) |
 | Shadownest | 158199 | [158199-shadownest.json](./158199-shadownest.json) |
 | Shadoworld: The Impossible Escape Game | 204082 | [204082-shadoworld-the-impossible-escape-game.json](./204082-shadoworld-the-impossible-escape-game.json) |
+| Shadoworlds | 84205 | [84205-shadoworlds.json](./84205-shadoworlds.json) |
 | Shadowpiercer | 383964 | [383964-shadowpiercer.json](./383964-shadowpiercer.json) |
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
@@ -1629,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShineG Has Nightmares | 68675 | [68675-shineg-has-nightmares.json](./68675-shineg-has-nightmares.json) |
 | Shines Over | 184589 | [184589-shines-over.json](./184589-shines-over.json) |
 | Shingata Kururin Pa! | 228065 | [228065-shingata-kururin-pa.json](./228065-shingata-kururin-pa.json) |
+| Shingeki no Kyojin: Jiyuu he no Houkou | 84196 | [84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json](./84196-shingeki-no-kyojin-jiyuu-he-no-houkou.json) |
 | Shingen the Ruler | 48085 | [48085-shingen-the-ruler.json](./48085-shingen-the-ruler.json) |
 | Shinies: Call of Light | 200167 | [200167-shinies-call-of-light.json](./200167-shinies-call-of-light.json) |
 | Shinigami no Testament ~menuet of epistula~ | 137085 | [137085-shinigami-no-testament-menuet-of-epistula.json](./137085-shinigami-no-testament-menuet-of-epistula.json) |
@@ -2054,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
 | SimCity Creator | 343813 | [343813-simcity-creator.json](./343813-simcity-creator.json) |
 | SimCity DS | 1494 | [1494-simcity-ds.json](./1494-simcity-ds.json) |
+| SimCity Graphics Set 1: Ancient Cities | 84170 | [84170-simcity-graphics-set-1-ancient-cities.json](./84170-simcity-graphics-set-1-ancient-cities.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
 | SimClassics: 3 in 1 Pack | 86030 | [86030-simclassics-3-in-1-pack.json](./86030-simclassics-3-in-1-pack.json) |
 | SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
@@ -2181,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar Starter Pack | 268746 | [268746-singstar-starter-pack.json](./268746-singstar-starter-pack.json) |
 | SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
 | SingStar: Chartbreaker | 136395 | [136395-singstar-chartbreaker.json](./136395-singstar-chartbreaker.json) |
+| SingStar: Die Toten Hosen | 84215 | [84215-singstar-die-toten-hosen.json](./84215-singstar-die-toten-hosen.json) |
 | SingStar: Frozen | 86080 | [86080-singstar-frozen.json](./86080-singstar-frozen.json) |
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
@@ -3793,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
 | Space Interceptor | 262369 | [262369-space-interceptor.json](./262369-space-interceptor.json) |
@@ -3851,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
+| Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
 | Space Quiz | 74456 | [74456-space-quiz.json](./74456-space-quiz.json) |
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
@@ -4086,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spektakl: Banned Edition | 206954 | [206954-spektakl-banned-edition.json](./206954-spektakl-banned-edition.json) |
 | SpelBrawl | 374630 | [374630-spelbrawl.json](./374630-spelbrawl.json) |
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
+| Spell Castle | 84181 | [84181-spell-castle.json](./84181-spell-castle.json) |
 | Spell Dash | 174320 | [174320-spell-dash.json](./174320-spell-dash.json) |
 | Spell Defender | 215715 | [215715-spell-defender.json](./215715-spell-defender.json) |
 | Spell Disk | 240803 | [240803-spell-disk.json](./240803-spell-disk.json) |
@@ -4350,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Car Track Racers - Real Sports Car Driving Racing With Amazing Tracks | 87529 | [87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json](./87529-sports-car-track-racers-real-sports-car-driving-racing-with-amazing-tracks.json) |
 | Sports Champions | 18237 | [18237-sports-champions.json](./18237-sports-champions.json) |
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
+| Sports Game Pack (Manager Edition) | 84231 | [84231-sports-game-pack-manager-edition.json](./84231-sports-game-pack-manager-edition.json) |
 | Sports Hero | 142411 | [142411-sports-hero.json](./142411-sports-hero.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
@@ -4689,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Klingon Academy | 19627 | [19627-star-trek-klingon-academy.json](./19627-star-trek-klingon-academy.json) |
 | Star Trek: Legends - Complete Edition | 331851 | [331851-star-trek-legends-complete-edition.json](./331851-star-trek-legends-complete-edition.json) |
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
+| Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
 | Star Troopers: Combat Force | 411568 | [411568-star-troopers-combat-force.json](./411568-star-troopers-combat-force.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
@@ -5309,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
+| Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
@@ -6691,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
+| Svea Rike 2 | 84179 | [84179-svea-rike-2.json](./84179-svea-rike-2.json) |
 | Sveerz | 201280 | [201280-sveerz.json](./201280-sveerz.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
