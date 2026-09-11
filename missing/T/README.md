@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
+| Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
@@ -1438,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Choreographist | 140564 | [140564-the-choreographist.json](./140564-the-choreographist.json) |
 | The Chosen RPG | 146264 | [146264-the-chosen-rpg.json](./146264-the-chosen-rpg.json) |
+| The Chosen Warriors | 81229 | [81229-the-chosen-warriors.json](./81229-the-chosen-warriors.json) |
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
 | The Chronicles of Ezra Blackwell: Episode 1 - Pappi's Peril | 277281 | [277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json](./277281-the-chronicles-of-ezra-blackwell-episode-1-pappis-peril.json) |
@@ -1757,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
 | The Elder Scrolls Online: Summerset - Collector's Editions | 96024 | [96024-the-elder-scrolls-online-summerset-collectors-editions.json](./96024-the-elder-scrolls-online-summerset-collectors-editions.json) |
 | The Elder Scrolls Renewal: Skywind | 143732 | [143732-the-elder-scrolls-renewal-skywind.json](./143732-the-elder-scrolls-renewal-skywind.json) |
+| The Elder Scrolls VI | 81249 | [81249-the-elder-scrolls-vi.json](./81249-the-elder-scrolls-vi.json) |
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
 | The Election Game | 12951 | [12951-the-election-game.json](./12951-the-election-game.json) |
@@ -4515,6 +4518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP100 | 173763 | [173763-tiger-tank-59-i-winter-assault-mp100.json](./173763-tiger-tank-59-i-winter-assault-mp100.json) |
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
 | Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
+| Tiger Woods PGA Tour 09 All-Play | 81327 | [81327-tiger-woods-pga-tour-09-all-play.json](./81327-tiger-woods-pga-tour-09-all-play.json) |
 | Tiger Woods PGA Tour 2004 | 905 | [905-tiger-woods-pga-tour-2004.json](./905-tiger-woods-pga-tour-2004.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tight Man | 393457 | [393457-tight-man.json](./393457-tight-man.json) |
@@ -4751,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tlicolity Eyes: Twinkle Showtime | 240522 | [240522-tlicolity-eyes-twinkle-showtime.json](./240522-tlicolity-eyes-twinkle-showtime.json) |
 | TMNT | 146283 | [146283-tmnt.json](./146283-tmnt.json) |
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
+| TNA Wrestling | 81239 | [81239-tna-wrestling.json](./81239-tna-wrestling.json) |
 | TNM | 100227 | [100227-tnm.json](./100227-tnm.json) |
 | TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
 | TNT Racers | 20555 | [20555-tnt-racers.json](./20555-tnt-racers.json) |
@@ -5174,9 +5179,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Shogun 2 - Sengoku Jidai Unit Pack | 83515 | [83515-total-war-shogun-2-sengoku-jidai-unit-pack.json](./83515-total-war-shogun-2-sengoku-jidai-unit-pack.json) |
 | Total War: Shogun 2 - The Hattori Clan Pack | 83514 | [83514-total-war-shogun-2-the-hattori-clan-pack.json](./83514-total-war-shogun-2-the-hattori-clan-pack.json) |
 | Total War: Shogun 2 - The Ikko Ikki Clan Pack | 83516 | [83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json](./83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json) |
+| Total War: Warhammer - Bretonnia | 81293 | [81293-total-war-warhammer-bretonnia.json](./81293-total-war-warhammer-bretonnia.json) |
 | Total War: Warhammer - Dark Gods Edition | 170027 | [170027-total-war-warhammer-dark-gods-edition.json](./170027-total-war-warhammer-dark-gods-edition.json) |
 | Total War: Warhammer - Grey Wizard | 81349 | [81349-total-war-warhammer-grey-wizard.json](./81349-total-war-warhammer-grey-wizard.json) |
+| Total War: Warhammer - Grombrindal the White Dwarf | 81291 | [81291-total-war-warhammer-grombrindal-the-white-dwarf.json](./81291-total-war-warhammer-grombrindal-the-white-dwarf.json) |
+| Total War: Warhammer - Isabella von Carstein | 81292 | [81292-total-war-warhammer-isabella-von-carstein.json](./81292-total-war-warhammer-isabella-von-carstein.json) |
+| Total War: Warhammer - Jade Wizard | 81294 | [81294-total-war-warhammer-jade-wizard.json](./81294-total-war-warhammer-jade-wizard.json) |
 | Total War: Warhammer - Norsca | 53833 | [53833-total-war-warhammer-norsca.json](./53833-total-war-warhammer-norsca.json) |
+| Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
 | Total War: Warhammer II - Tretch Craventail | 167825 | [167825-total-war-warhammer-ii-tretch-craventail.json](./167825-total-war-warhammer-ii-tretch-craventail.json) |
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
 | Total War: Warhammer III - Thrones of Decay | 251224 | [251224-total-war-warhammer-iii-thrones-of-decay.json](./251224-total-war-warhammer-iii-thrones-of-decay.json) |
@@ -5875,6 +5885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treason | 190229 | [190229-treason.json](./190229-treason.json) |
 | Treasure 'n Trio | 320773 | [320773-treasure-n-trio.json](./320773-treasure-n-trio.json) |
 | Treasure Action: Threatened, Violated & Sacrificed Sherry | 82923 | [82923-treasure-action-threatened-violated-and-sacrificed-sherry.json](./82923-treasure-action-threatened-violated-and-sacrificed-sherry.json) |
+| Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
@@ -6356,6 +6367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
 | Tux, of Math Command | 242812 | [242812-tux-of-math-command.json](./242812-tux-of-math-command.json) |
+| TV Calibration | 81233 | [81233-tv-calibration.json](./81233-tv-calibration.json) |
 | TV Farm | 355530 | [355530-tv-farm.json](./355530-tv-farm.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
