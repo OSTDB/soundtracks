@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T00:48:32.629Z",
-  "total_missing": 55922,
+  "generated_at": "2026-09-11T00:51:02.486Z",
+  "total_missing": 55921,
   "games": [
     {
       "igdb_id": 306086,
@@ -1801,11 +1801,6 @@
       "igdb_id": 343239,
       "game_name": "A Café Couple's Joyful Life of Resistance",
       "file": "missing/A/343239-a-cafe-couples-joyful-life-of-resistance.json"
-    },
-    {
-      "igdb_id": 309325,
-      "game_name": "A Candle to the Unknown",
-      "file": "missing/A/309325-a-candle-to-the-unknown.json"
     },
     {
       "igdb_id": 183047,
