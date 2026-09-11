@@ -2709,6 +2709,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
+| Cosmos Quest II: To Find a Sun | 98471 | [98471-cosmos-quest-ii-to-find-a-sun.json](./98471-cosmos-quest-ii-to-find-a-sun.json) |
+| Cosmos Quest III: The Mines of Isagor | 98474 | [98474-cosmos-quest-iii-the-mines-of-isagor.json](./98474-cosmos-quest-iii-the-mines-of-isagor.json) |
+| Cosmos Quest IV: The Ayatolian March | 98473 | [98473-cosmos-quest-iv-the-ayatolian-march.json](./98473-cosmos-quest-iv-the-ayatolian-march.json) |
+| Cosmos Quest V: The New Beginning | 98472 | [98472-cosmos-quest-v-the-new-beginning.json](./98472-cosmos-quest-v-the-new-beginning.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
