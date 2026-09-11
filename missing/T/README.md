@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank-O-Box | 78682 | [78682-tank-o-box.json](./78682-tank-o-box.json) |
 | Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
+| Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
 | Tankitos | 201788 | [201788-tankitos.json](./201788-tankitos.json) |
 | Tankman | 121635 | [121635-tankman.json](./121635-tankman.json) |
 | Tankomatron War Robots: Transform Tanks into Bots | 104634 | [104634-tankomatron-war-robots-transform-tanks-into-bots.json](./104634-tankomatron-war-robots-transform-tanks-into-bots.json) |
@@ -1015,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Abyssal Zone | 12246 | [12246-the-abyssal-zone.json](./12246-the-abyssal-zone.json) |
 | The Academy | 302947 | [302947-the-academy.json](./302947-the-academy.json) |
+| The Academy: Love Potions | 112282 | [112282-the-academy-love-potions.json](./112282-the-academy-love-potions.json) |
 | The Aching Aversion: Blood Orange Dreams | 312589 | [312589-the-aching-aversion-blood-orange-dreams.json](./312589-the-aching-aversion-blood-orange-dreams.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
@@ -1772,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
 | The Fear 2: Creepy Scream House | 96745 | [96745-the-fear-2-creepy-scream-house.json](./96745-the-fear-2-creepy-scream-house.json) |
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
+| The Feral Child | 112304 | [112304-the-feral-child.json](./112304-the-feral-child.json) |
 | The Ferry | 319378 | [319378-the-ferry.json](./319378-the-ferry.json) |
 | The Ferryman | 201760 | [201760-the-ferryman.json](./201760-the-ferryman.json) |
 | The Few | 211932 | [211932-the-few.json](./211932-the-few.json) |
@@ -4648,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
 | TOCA Touring Car Championship | 201751 | [201751-toca-touring-car-championship.json](./201751-toca-touring-car-championship.json) |
 | TOCA World Touring Cars | 234899 | [234899-toca-world-touring-cars.json](./234899-toca-world-touring-cars.json) |
+| Today is my Birthday | 112266 | [112266-today-is-my-birthday.json](./112266-today-is-my-birthday.json) |
 | Todd's Spider Dream | 154567 | [154567-todds-spider-dream.json](./154567-todds-spider-dream.json) |
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
@@ -4961,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
 | Total Reload | 248661 | [248661-total-reload.json](./248661-total-reload.json) |
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
+| Total Vice | 112278 | [112278-total-vice.json](./112278-total-vice.json) |
 | Total War: Attila | 8200 | [8200-total-war-attila.json](./8200-total-war-attila.json) |
 | Total War: Rome II - Hannibal at the Gates Campaign Pack | 167824 | [167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json](./167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json) |
 | Total War: Rome II - Imperator Augustus Campaign Pack | 167822 | [167822-total-war-rome-ii-imperator-augustus-campaign-pack.json](./167822-total-war-rome-ii-imperator-augustus-campaign-pack.json) |
