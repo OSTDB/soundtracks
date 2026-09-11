@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take Care Of The Dog | 402917 | [402917-take-care-of-the-dog.json](./402917-take-care-of-the-dog.json) |
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
+| Take Down | 125962 | [125962-take-down.json](./125962-take-down.json) |
 | Take It Racing 2 | 287105 | [287105-take-it-racing-2.json](./287105-take-it-racing-2.json) |
 | Take Me Home | 181890 | [181890-take-me-home.json](./181890-take-me-home.json) |
 | Take Me Home | 362292 | [362292-take-me-home.json](./362292-take-me-home.json) |
@@ -370,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangled | 62187 | [62187-tangled.json](./62187-tangled.json) |
 | Tangledeep: Dawn of Dragons | 154499 | [154499-tangledeep-dawn-of-dragons.json](./154499-tangledeep-dawn-of-dragons.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
+| Tangol | 125945 | [125945-tangol.json](./125945-tangol.json) |
 | Tangoo & Ullashong | 374087 | [374087-tangoo-and-ullashong.json](./374087-tangoo-and-ullashong.json) |
 | Tangram | 208373 | [208373-tangram.json](./208373-tangram.json) |
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
@@ -918,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Chainsaw Dodge | 307613 | [307613-texas-chainsaw-dodge.json](./307613-texas-chainsaw-dodge.json) |
 | Texas Hold 'Em Poker | 131511 | [131511-texas-hold-em-poker.json](./131511-texas-hold-em-poker.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
+| Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
 | Text | 110635 | [110635-text.json](./110635-text.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
@@ -3096,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
 | The Sovereign | 350447 | [350447-the-sovereign.json](./350447-the-sovereign.json) |
+| The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
 | The Specialists | 138772 | [138772-the-specialists.json](./138772-the-specialists.json) |
 | The Specter's Desire | 301824 | [301824-the-specters-desire.json](./301824-the-specters-desire.json) |
 | The Spectrum Retreat | 96065 | [96065-the-spectrum-retreat.json](./96065-the-spectrum-retreat.json) |
@@ -3575,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
 | The World of Marius | 369581 | [369581-the-world-of-marius.json](./369581-the-world-of-marius.json) |
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
+| The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The Worm | 34419 | [34419-the-worm.json](./34419-the-worm.json) |
 | The Wrestling Game | 368474 | [368474-the-wrestling-game.json](./368474-the-wrestling-game.json) |
@@ -3611,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Sundarpatan Cosmetic Pack | 318441 | [318441-thehunter-call-of-the-wild-sundarpatan-cosmetic-pack.json](./318441-thehunter-call-of-the-wild-sundarpatan-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve | 305517 | [305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json](./305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json) |
 | TheHunter: Call of the Wild - Traveler's Cosmetic Bundle | 280231 | [280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json](./280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json) |
+| TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
@@ -3886,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidewrack | 413673 | [413673-tidewrack.json](./413673-tidewrack.json) |
 | Tidy Backpack | 309874 | [309874-tidy-backpack.json](./309874-tidy-backpack.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
+| Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
 | Tiebreak+ | 334667 | [334667-tiebreak.json](./334667-tiebreak.json) |
 | Tied By Numbers | 386153 | [386153-tied-by-numbers.json](./386153-tied-by-numbers.json) |
@@ -4532,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
 | Toaplan Arcade Collection 4 | 325236 | [325236-toaplan-arcade-collection-4.json](./325236-toaplan-arcade-collection-4.json) |
+| Toaplan Shooting Battle 1 | 125986 | [125986-toaplan-shooting-battle-1.json](./125986-toaplan-shooting-battle-1.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
@@ -4577,6 +4585,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Taisen | 191861 | [191861-tokimeki-taisen.json](./191861-tokimeki-taisen.json) |
 | Tokimeter | 322951 | [322951-tokimeter.json](./322951-tokimeter.json) |
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
+| Tokoro no Ma-Mahjong 2: Tokoro's Cup | 125973 | [125973-tokoro-no-ma-mahjong-2-tokoros-cup.json](./125973-tokoro-no-ma-mahjong-2-tokoros-cup.json) |
+| Tokoro-san no Daifugou | 125975 | [125975-tokoro-san-no-daifugou.json](./125975-tokoro-san-no-daifugou.json) |
+| Tokoro-san no Mah-Mahjong | 125974 | [125974-tokoro-san-no-mah-mahjong.json](./125974-tokoro-san-no-mah-mahjong.json) |
 | Tokoro's Mahjong | 37786 | [37786-tokoros-mahjong.json](./37786-tokoros-mahjong.json) |
 | Tokoro's Mahjong Jr. | 126011 | [126011-tokoros-mahjong-jr.json](./126011-tokoros-mahjong-jr.json) |
 | Tokoyo ni Ochiru Hana | 163358 | [163358-tokoyo-ni-ochiru-hana.json](./163358-tokoyo-ni-ochiru-hana.json) |
@@ -4762,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Car: The Great Race | 206758 | [206758-toon-car-the-great-race.json](./206758-toon-car-the-great-race.json) |
 | Toon Puzzle Quest | 108480 | [108480-toon-puzzle-quest.json](./108480-toon-puzzle-quest.json) |
 | Toontown: The Grindworks | 333930 | [333930-toontown-the-grindworks.json](./333930-toontown-the-grindworks.json) |
+| Tootuff | 125952 | [125952-tootuff.json](./125952-tootuff.json) |
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
 | Top Bike: Racing & Moto Drag | 187455 | [187455-top-bike-racing-and-moto-drag.json](./187455-top-bike-racing-and-moto-drag.json) |
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
