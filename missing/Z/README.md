@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
 | Zentris | 229052 | [229052-zentris.json](./229052-zentris.json) |
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
+| Zeon 25 | 103459 | [103459-zeon-25.json](./103459-zeon-25.json) |
 | Zeppelin | 23871 | [23871-zeppelin.json](./23871-zeppelin.json) |
 | Zera: Myths Awaken | 115069 | [115069-zera-myths-awaken.json](./115069-zera-myths-awaken.json) |
 | Zeriliah Chronicles | 153924 | [153924-zeriliah-chronicles.json](./153924-zeriliah-chronicles.json) |
@@ -236,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Attack: Zombies Survival Shooter | 317235 | [317235-zombie-attack-zombies-survival-shooter.json](./317235-zombie-attack-zombies-survival-shooter.json) |
 | Zombie Ballz | 29709 | [29709-zombie-ballz.json](./29709-zombie-ballz.json) |
 | Zombie Bar Simulator VR | 300718 | [300718-zombie-bar-simulator-vr.json](./300718-zombie-bar-simulator-vr.json) |
+| Zombie Barricades | 103424 | [103424-zombie-barricades.json](./103424-zombie-barricades.json) |
 | Zombie Beyond Terror: FPS Survival | 196829 | [196829-zombie-beyond-terror-fps-survival.json](./196829-zombie-beyond-terror-fps-survival.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
 | Zombie Buster VR | 28886 | [28886-zombie-buster-vr.json](./28886-zombie-buster-vr.json) |
