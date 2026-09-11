@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerds Rope: Follow the Leader Game | 373535 | [373535-nerds-rope-follow-the-leader-game.json](./373535-nerds-rope-follow-the-leader-game.json) |
 | Nerf Jr. Foam Balster: Attack of The Kleptons | 210037 | [210037-nerf-jr-foam-balster-attack-of-the-kleptons.json](./210037-nerf-jr-foam-balster-attack-of-the-kleptons.json) |
 | Nerf: Battle Arena | 197329 | [197329-nerf-battle-arena.json](./197329-nerf-battle-arena.json) |
+| Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
 | Nessa no Hoshi | 123585 | [123585-nessa-no-hoshi.json](./123585-nessa-no-hoshi.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
