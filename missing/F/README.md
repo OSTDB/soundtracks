@@ -2568,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusionist | 250945 | [250945-fusionist.json](./250945-fusionist.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
 | Futa University | 209487 | [209487-futa-university.json](./209487-futa-university.json) |
+| Futanari Fantasy XX | 97840 | [97840-futanari-fantasy-xx.json](./97840-futanari-fantasy-xx.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex: The Gym | 203539 | [203539-futanari-sex-the-gym.json](./203539-futanari-sex-the-gym.json) |
 | Futanari Sex: Unexpected Roomate | 222288 | [222288-futanari-sex-unexpected-roomate.json](./222288-futanari-sex-unexpected-roomate.json) |
