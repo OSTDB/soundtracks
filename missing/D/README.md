@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Rising Dead | 349885 | [349885-day-of-the-rising-dead.json](./349885-day-of-the-rising-dead.json) |
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
+| DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
 | Daydam Knight | 295794 | [295794-daydam-knight.json](./295794-daydam-knight.json) |
 | Daydream | 192955 | [192955-daydream.json](./192955-daydream.json) |
 | Daydream Drifters | 395543 | [395543-daydream-drifters.json](./395543-daydream-drifters.json) |
@@ -607,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Fault | 228082 | [228082-dead-mans-fault.json](./228082-dead-mans-fault.json) |
 | Dead Man's Hand | 5809 | [5809-dead-mans-hand.json](./5809-dead-mans-hand.json) |
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
+| Dead Mayhem | 105305 | [105305-dead-mayhem.json](./105305-dead-mayhem.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
@@ -1505,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Hard with a Vengeance | 245292 | [245292-die-hard-with-a-vengeance.json](./245292-die-hard-with-a-vengeance.json) |
 | Die Hard: Nakatomi Plaza | 18219 | [18219-die-hard-nakatomi-plaza.json](./18219-die-hard-nakatomi-plaza.json) |
 | Die Hard: Vendetta | 3876 | [3876-die-hard-vendetta.json](./3876-die-hard-vendetta.json) |
+| Die in the Dark | 105284 | [105284-die-in-the-dark.json](./105284-die-in-the-dark.json) |
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
@@ -2155,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Mess With Your Ex | 414309 | [414309-dont-mess-with-your-ex.json](./414309-dont-mess-with-your-ex.json) |
 | Don't Open This Book | 336524 | [336524-dont-open-this-book.json](./336524-dont-open-this-book.json) |
 | Don't Pause Game! | 389988 | [389988-dont-pause-game.json](./389988-dont-pause-game.json) |
+| Don't Play With Dolls | 105282 | [105282-dont-play-with-dolls.json](./105282-dont-play-with-dolls.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
@@ -2478,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Football 2023 | 213984 | [213984-draft-day-sports-college-football-2023.json](./213984-draft-day-sports-college-football-2023.json) |
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
+| Draft Day Sports: Pro Golf | 105388 | [105388-draft-day-sports-pro-golf.json](./105388-draft-day-sports-pro-golf.json) |
 | Draftycar | 254775 | [254775-draftycar.json](./254775-draftycar.json) |
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
 | Drag Battle Top Fuel | 192870 | [192870-drag-battle-top-fuel.json](./192870-drag-battle-top-fuel.json) |
@@ -3204,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rollers | 184623 | [184623-dungeon-rollers.json](./184623-dungeon-rollers.json) |
 | Dungeon RPG Pikudan 2 | 222324 | [222324-dungeon-rpg-pikudan-2.json](./222324-dungeon-rpg-pikudan-2.json) |
 | Dungeon Rummage: Tiqee's Escape | 195248 | [195248-dungeon-rummage-tiqees-escape.json](./195248-dungeon-rummage-tiqees-escape.json) |
+| Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
 | Dungeon Scroll | 174314 | [174314-dungeon-scroll.json](./174314-dungeon-scroll.json) |
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
