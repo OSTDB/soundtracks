@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T22:10:54.778Z",
-  "total_missing": 59487,
+  "generated_at": "2026-09-11T22:18:21.321Z",
+  "total_missing": 59537,
   "games": [
     {
       "igdb_id": 306086,
@@ -10648,6 +10648,11 @@
       "file": "missing/A/312331-angelian-trigger.json"
     },
     {
+      "igdb_id": 82817,
+      "game_name": "Angelic Force Yuki",
+      "file": "missing/A/82817-angelic-force-yuki.json"
+    },
+    {
       "igdb_id": 202376,
       "game_name": "Angelic Vale",
       "file": "missing/A/202376-angelic-vale.json"
@@ -14701,6 +14706,11 @@
       "igdb_id": 314036,
       "game_name": "Arla Milkout!",
       "file": "missing/A/314036-arla-milkout.json"
+    },
+    {
+      "igdb_id": 82774,
+      "game_name": "Arlcoco: The One Winged Princess Pet",
+      "file": "missing/A/82774-arlcoco-the-one-winged-princess-pet.json"
     },
     {
       "igdb_id": 271218,
@@ -24511,6 +24521,11 @@
       "igdb_id": 246112,
       "game_name": "Beautiful Indie Worlds Bundle",
       "file": "missing/B/246112-beautiful-indie-worlds-bundle.json"
+    },
+    {
+      "igdb_id": 82828,
+      "game_name": "Beautiful Warrior Hibiki's Captive Violation Days",
+      "file": "missing/B/82828-beautiful-warrior-hibikis-captive-violation-days.json"
     },
     {
       "igdb_id": 211430,
@@ -35533,6 +35548,11 @@
       "file": "missing/B/38995-bunny-madness-anarchy.json"
     },
     {
+      "igdb_id": 82777,
+      "game_name": "Bunny Maid's Estrus Diary",
+      "file": "missing/B/82777-bunny-maids-estrus-diary.json"
+    },
+    {
       "igdb_id": 106579,
       "game_name": "Bunny Minesweeper",
       "file": "missing/B/106579-bunny-minesweeper.json"
@@ -44453,6 +44473,11 @@
       "file": "missing/C/139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json"
     },
     {
+      "igdb_id": 82864,
+      "game_name": "Cielcrosia: Seal of the Lewd Curse",
+      "file": "missing/C/82864-cielcrosia-seal-of-the-lewd-curse.json"
+    },
+    {
       "igdb_id": 402277,
       "game_name": "Cielle Is Not Happy",
       "file": "missing/C/402277-cielle-is-not-happy.json"
@@ -52728,6 +52753,11 @@
       "file": "missing/C/354427-crossing-acheron.json"
     },
     {
+      "igdb_id": 82839,
+      "game_name": "Crossing Brothel: Tales of an Interspecies Bordello",
+      "file": "missing/C/82839-crossing-brothel-tales-of-an-interspecies-bordello.json"
+    },
+    {
       "igdb_id": 250944,
       "game_name": "Crossing Damaged Bridge",
       "file": "missing/C/250944-crossing-damaged-bridge.json"
@@ -57938,6 +57968,11 @@
       "file": "missing/D/3046-day-one-garrys-incident.json"
     },
     {
+      "igdb_id": 82855,
+      "game_name": "Day R",
+      "file": "missing/D/82855-day-r.json"
+    },
+    {
       "igdb_id": 105300,
       "game_name": "DayD: Through Time",
       "file": "missing/D/105300-dayd-through-time.json"
@@ -62766,6 +62801,11 @@
       "igdb_id": 195718,
       "game_name": "Dial-In",
       "file": "missing/D/195718-dial-in.json"
+    },
+    {
+      "igdb_id": 82854,
+      "game_name": "Dialed In",
+      "file": "missing/D/82854-dialed-in.json"
     },
     {
       "igdb_id": 26706,
@@ -77228,6 +77268,11 @@
       "file": "missing/E/110356-erotic-colouring-book.json"
     },
     {
+      "igdb_id": 82829,
+      "game_name": "Erotic Dungeon Survival",
+      "file": "missing/E/82829-erotic-dungeon-survival.json"
+    },
+    {
       "igdb_id": 106541,
       "game_name": "Erotic Jigsaw Challenge Vol 2",
       "file": "missing/E/106541-erotic-jigsaw-challenge-vol-2.json"
@@ -79041,6 +79086,11 @@
       "igdb_id": 120926,
       "game_name": "Everyone Goes Home",
       "file": "missing/E/120926-everyone-goes-home.json"
+    },
+    {
+      "igdb_id": 82772,
+      "game_name": "Everyone's Idol Yumeru-chan! Escape from the Uninvited Pervert",
+      "file": "missing/E/82772-everyones-idol-yumeru-chan-escape-from-the-uninvited-pervert.json"
     },
     {
       "igdb_id": 177575,
@@ -81531,6 +81581,11 @@
       "igdb_id": 270112,
       "game_name": "Fallen Seeds",
       "file": "missing/F/270112-fallen-seeds.json"
+    },
+    {
+      "igdb_id": 82831,
+      "game_name": "Fallen: Town of Heritage and Makina the Blazing Hair",
+      "file": "missing/F/82831-fallen-town-of-heritage-and-makina-the-blazing-hair.json"
     },
     {
       "igdb_id": 285467,
@@ -97713,6 +97768,11 @@
       "file": "missing/G/303787-girl-in-the-b-l.json"
     },
     {
+      "igdb_id": 82841,
+      "game_name": "Girl Meets Princess",
+      "file": "missing/G/82841-girl-meets-princess.json"
+    },
+    {
       "igdb_id": 87708,
       "game_name": "Girl Nail Art",
       "file": "missing/G/87708-girl-nail-art.json"
@@ -98971,6 +99031,11 @@
       "igdb_id": 182473,
       "game_name": "God Killer Aria",
       "file": "missing/G/182473-god-killer-aria.json"
+    },
+    {
+      "igdb_id": 82868,
+      "game_name": "God Marionette",
+      "file": "missing/G/82868-god-marionette.json"
     },
     {
       "igdb_id": 412963,
@@ -111633,6 +111698,11 @@
       "file": "missing/H/136989-himig.json"
     },
     {
+      "igdb_id": 82790,
+      "game_name": "Himiko: I Must Kill Chikushoumaru",
+      "file": "missing/H/82790-himiko-i-must-kill-chikushoumaru.json"
+    },
+    {
       "igdb_id": 284918,
       "game_name": "Himitsu no AiPri",
       "file": "missing/H/284918-himitsu-no-aipri.json"
@@ -116068,6 +116138,11 @@
       "file": "missing/H/140537-hypnos-lullaby.json"
     },
     {
+      "igdb_id": 82779,
+      "game_name": "HypnoQuest: Do as you please with MC Power",
+      "file": "missing/H/82779-hypnoquest-do-as-you-please-with-mc-power.json"
+    },
+    {
       "igdb_id": 296917,
       "game_name": "Hypnosis Card 2",
       "file": "missing/H/296917-hypnosis-card-2.json"
@@ -116883,6 +116958,11 @@
       "file": "missing/I/278990-ill-do-it-tomorrow.json"
     },
     {
+      "igdb_id": 82856,
+      "game_name": "I'll Put You In Debt",
+      "file": "missing/I/82856-ill-put-you-in-debt.json"
+    },
+    {
       "igdb_id": 173226,
       "game_name": "I'm a cowboy: Western Shooter",
       "file": "missing/I/173226-im-a-cowboy-western-shooter.json"
@@ -117146,6 +117226,11 @@
       "igdb_id": 300725,
       "game_name": "Ice Crush 10.000 BC",
       "file": "missing/I/300725-ice-crush-10-000-bc.json"
+    },
+    {
+      "igdb_id": 82812,
+      "game_name": "Ice Crystal Labyrinth",
+      "file": "missing/I/82812-ice-crystal-labyrinth.json"
     },
     {
       "igdb_id": 339824,
@@ -125133,6 +125218,11 @@
       "file": "missing/J/178648-jk-assassins.json"
     },
     {
+      "igdb_id": 82781,
+      "game_name": "JK Resistance: Dark Side",
+      "file": "missing/J/82781-jk-resistance-dark-side.json"
+    },
+    {
       "igdb_id": 164969,
       "game_name": "JMPR",
       "file": "missing/J/164969-jmpr.json"
@@ -126806,6 +126896,11 @@
       "igdb_id": 217516,
       "game_name": "Just Drive a Lil: It's a Mini Racing Game!",
       "file": "missing/J/217516-just-drive-a-lil-its-a-mini-racing-game.json"
+    },
+    {
+      "igdb_id": 82791,
+      "game_name": "Just For Killing Time",
+      "file": "missing/J/82791-just-for-killing-time.json"
     },
     {
       "igdb_id": 158677,
@@ -129586,6 +129681,11 @@
       "igdb_id": 360593,
       "game_name": "Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+",
       "file": "missing/K/360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json"
+    },
+    {
+      "igdb_id": 82803,
+      "game_name": "Kimi no Hitomi ni Hit Me",
+      "file": "missing/K/82803-kimi-no-hitomi-ni-hit-me.json"
     },
     {
       "igdb_id": 194548,
@@ -143733,6 +143833,11 @@
       "file": "missing/M/58810-magical-girl-leaky-sara.json"
     },
     {
+      "igdb_id": 82820,
+      "game_name": "Magical Girl Momo",
+      "file": "missing/M/82820-magical-girl-momo.json"
+    },
+    {
       "igdb_id": 173817,
       "game_name": "Magical Girl Noble Rose",
       "file": "missing/M/173817-magical-girl-noble-rose.json"
@@ -143741,6 +143846,11 @@
       "igdb_id": 354444,
       "game_name": "Magical Girl Opal",
       "file": "missing/M/354444-magical-girl-opal.json"
+    },
+    {
+      "igdb_id": 82794,
+      "game_name": "Magical Girl Sarah: Her Dark Skin Clouded White With Cum",
+      "file": "missing/M/82794-magical-girl-sarah-her-dark-skin-clouded-white-with-cum.json"
     },
     {
       "igdb_id": 406694,
@@ -143836,6 +143946,11 @@
       "igdb_id": 94209,
       "game_name": "Magician",
       "file": "missing/M/94209-magician.json"
+    },
+    {
+      "igdb_id": 82768,
+      "game_name": "Magician of Fallen",
+      "file": "missing/M/82768-magician-of-fallen.json"
     },
     {
       "igdb_id": 172716,
@@ -146546,6 +146661,11 @@
       "igdb_id": 82909,
       "game_name": "Marriage or Pervert: The Small Penis Warrior & The Perverted Magician",
       "file": "missing/M/82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json"
+    },
+    {
+      "igdb_id": 82852,
+      "game_name": "Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy",
+      "file": "missing/M/82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json"
     },
     {
       "igdb_id": 269569,
@@ -153296,6 +153416,11 @@
       "igdb_id": 103392,
       "game_name": "Minaurs",
       "file": "missing/M/103392-minaurs.json"
+    },
+    {
+      "igdb_id": 82848,
+      "game_name": "Minazuki-tan: InfiltraTitty Lewd Beast Academy",
+      "file": "missing/M/82848-minazuki-tan-infiltratitty-lewd-beast-academy.json"
     },
     {
       "igdb_id": 270693,
@@ -167163,6 +167288,11 @@
       "file": "missing/N/47337-nfl-blitz-pro.json"
     },
     {
+      "igdb_id": 82801,
+      "game_name": "NFL Coaches Club Football",
+      "file": "missing/N/82801-nfl-coaches-club-football.json"
+    },
+    {
       "igdb_id": 175899,
       "game_name": "NFL Football",
       "file": "missing/N/175899-nfl-football.json"
@@ -171098,6 +171228,11 @@
       "file": "missing/N/184646-nykrig.json"
     },
     {
+      "igdb_id": 82784,
+      "game_name": "Nymphomania Paradox",
+      "file": "missing/N/82784-nymphomania-paradox.json"
+    },
+    {
       "igdb_id": 280218,
       "game_name": "NYT Games",
       "file": "missing/N/280218-nyt-games.json"
@@ -172206,6 +172341,11 @@
       "igdb_id": 349332,
       "game_name": "Ogantto",
       "file": "missing/O/349332-ogantto.json"
+    },
+    {
+      "igdb_id": 82775,
+      "game_name": "Ogre's Ambition 2",
+      "file": "missing/O/82775-ogres-ambition-2.json"
     },
     {
       "igdb_id": 200923,
@@ -186208,6 +186348,11 @@
       "file": "missing/P/337110-please-stop-crying-terrible-twos.json"
     },
     {
+      "igdb_id": 82824,
+      "game_name": "Please!! I want to Beg the Voluptuous Koume-chan into Consent!",
+      "file": "missing/P/82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json"
+    },
+    {
       "igdb_id": 163468,
       "game_name": "Pleasure Puzzle:Workshop - Part 1",
       "file": "missing/P/163468-pleasure-puzzle-workshop-part-1.json"
@@ -188451,6 +188596,11 @@
       "igdb_id": 307602,
       "game_name": "Popmundo",
       "file": "missing/P/307602-popmundo.json"
+    },
+    {
+      "igdb_id": 82802,
+      "game_name": "PoPoLoCrois Monogatari: Narcia no Namida to Yousei no Fue",
+      "file": "missing/P/82802-popolocrois-monogatari-narcia-no-namida-to-yousei-no-fue.json"
     },
     {
       "igdb_id": 329555,
@@ -193011,6 +193161,11 @@
       "igdb_id": 310221,
       "game_name": "Pupa",
       "file": "missing/P/310221-pupa.json"
+    },
+    {
+      "igdb_id": 82853,
+      "game_name": "Puppet Kings",
+      "file": "missing/P/82853-puppet-kings.json"
     },
     {
       "igdb_id": 94786,
@@ -201833,6 +201988,11 @@
       "file": "missing/R/305748-rex-run.json"
     },
     {
+      "igdb_id": 82785,
+      "game_name": "Rex Sedes",
+      "file": "missing/R/82785-rex-sedes.json"
+    },
+    {
       "igdb_id": 174318,
       "game_name": "Rex Verbi",
       "file": "missing/R/174318-rex-verbi.json"
@@ -208018,6 +208178,11 @@
       "file": "missing/S/150073-s-c-out.json"
     },
     {
+      "igdb_id": 82800,
+      "game_name": "S.C.A: Sexually Customized Android in This Renewing World",
+      "file": "missing/S/82800-s-c-a-sexually-customized-android-in-this-renewing-world.json"
+    },
+    {
       "igdb_id": 169437,
       "game_name": "S.C.A.R",
       "file": "missing/S/169437-s-c-a-r.json"
@@ -213888,6 +214053,11 @@
       "file": "missing/S/82938-sex-battle-interacademy-ntr-gangbang-game.json"
     },
     {
+      "igdb_id": 82799,
+      "game_name": "Sex Care Magical Girl",
+      "file": "missing/S/82799-sex-care-magical-girl.json"
+    },
+    {
       "igdb_id": 297214,
       "game_name": "Sex College",
       "file": "missing/S/297214-sex-college.json"
@@ -214051,6 +214221,11 @@
       "igdb_id": 140575,
       "game_name": "Sexual Nudity",
       "file": "missing/S/140575-sexual-nudity.json"
+    },
+    {
+      "igdb_id": 82840,
+      "game_name": "Sexual Slave Ayaka",
+      "file": "missing/S/82840-sexual-slave-ayaka.json"
     },
     {
       "igdb_id": 259854,
@@ -236443,6 +236618,11 @@
       "file": "missing/S/276165-suika-shapes.json"
     },
     {
+      "igdb_id": 82857,
+      "game_name": "Suikan Quest",
+      "file": "missing/S/82857-suikan-quest.json"
+    },
+    {
       "igdb_id": 280766,
       "game_name": "Suikarad Gold",
       "file": "missing/S/280766-suikarad-gold.json"
@@ -243453,6 +243633,11 @@
       "file": "missing/T/280210-tactical-assassin-2.json"
     },
     {
+      "igdb_id": 82788,
+      "game_name": "Tactical Mind",
+      "file": "missing/T/82788-tactical-mind.json"
+    },
+    {
       "igdb_id": 275332,
       "game_name": "Tactical Rampart",
       "file": "missing/T/275332-tactical-rampart.json"
@@ -243491,6 +243676,11 @@
       "igdb_id": 69301,
       "game_name": "Tactics Arena Online",
       "file": "missing/T/69301-tactics-arena-online.json"
+    },
+    {
+      "igdb_id": 82846,
+      "game_name": "Tactics Despair: Falling Fellows",
+      "file": "missing/T/82846-tactics-despair-falling-fellows.json"
     },
     {
       "igdb_id": 141163,
@@ -245886,6 +246076,11 @@
       "igdb_id": 353917,
       "game_name": "Tatsunami, let's clean up!",
       "file": "missing/T/353917-tatsunami-lets-clean-up.json"
+    },
+    {
+      "igdb_id": 82767,
+      "game_name": "Tatsuno Quest",
+      "file": "missing/T/82767-tatsuno-quest.json"
     },
     {
       "igdb_id": 89156,
@@ -260878,6 +261073,11 @@
       "file": "missing/T/353915-the-train-cant-escape-without-xxx.json"
     },
     {
+      "igdb_id": 82810,
+      "game_name": "The Training Diary of a Novice Magician Shin",
+      "file": "missing/T/82810-the-training-diary-of-a-novice-magician-shin.json"
+    },
+    {
       "igdb_id": 152836,
       "game_name": "The tram of wishes",
       "file": "missing/T/152836-the-tram-of-wishes.json"
@@ -261066,6 +261266,11 @@
       "igdb_id": 213046,
       "game_name": "The Ultimate FMV Bundle 2",
       "file": "missing/T/213046-the-ultimate-fmv-bundle-2.json"
+    },
+    {
+      "igdb_id": 82811,
+      "game_name": "The Ultimate Hunter Falls Prey to a Monster Girl Level Draining Reverse R*P*G",
+      "file": "missing/T/82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json"
     },
     {
       "igdb_id": 169922,
@@ -261608,6 +261813,11 @@
       "file": "missing/T/329031-the-wayward-tower.json"
     },
     {
+      "igdb_id": 82769,
+      "game_name": "The Weakened Demon Lord and His Servant's Business: Please Give Me Your White Fluid",
+      "file": "missing/T/82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json"
+    },
+    {
       "igdb_id": 86100,
       "game_name": "The Weakest Link & Friends",
       "file": "missing/T/86100-the-weakest-link-and-friends.json"
@@ -261906,6 +262116,11 @@
       "igdb_id": 91965,
       "game_name": "The World 3: Rise of Demon",
       "file": "missing/T/91965-the-world-3-rise-of-demon.json"
+    },
+    {
+      "igdb_id": 82871,
+      "game_name": "The World A Robot Girl Dream Of",
+      "file": "missing/T/82871-the-world-a-robot-girl-dream-of.json"
     },
     {
       "igdb_id": 184618,
@@ -262306,6 +262521,11 @@
       "igdb_id": 191798,
       "game_name": "There's No Such Thing As Bad Publicity",
       "file": "missing/T/191798-theres-no-such-thing-as-bad-publicity.json"
+    },
+    {
+      "igdb_id": 82832,
+      "game_name": "There's No Way A Pastry Chef Could Be This Strong!",
+      "file": "missing/T/82832-theres-no-way-a-pastry-chef-could-be-this-strong.json"
     },
     {
       "igdb_id": 331290,
@@ -263441,6 +263661,11 @@
       "igdb_id": 334695,
       "game_name": "Thysiastery",
       "file": "missing/T/334695-thysiastery.json"
+    },
+    {
+      "igdb_id": 82845,
+      "game_name": "Tialucy and the Underground Labyrinth",
+      "file": "missing/T/82845-tialucy-and-the-underground-labyrinth.json"
     },
     {
       "igdb_id": 35900,
@@ -268013,6 +268238,11 @@
       "file": "missing/T/188628-tomotoru-hello-kitty-happy-life.json"
     },
     {
+      "igdb_id": 82851,
+      "game_name": "TomTom Adventures",
+      "file": "missing/T/82851-tomtom-adventures.json"
+    },
+    {
       "igdb_id": 79319,
       "game_name": "Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen",
       "file": "missing/T/79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json"
@@ -270066,6 +270296,11 @@
       "igdb_id": 403575,
       "game_name": "Toypunk",
       "file": "missing/T/403575-toypunk.json"
+    },
+    {
+      "igdb_id": 82822,
+      "game_name": "Toys Dream",
+      "file": "missing/T/82822-toys-dream.json"
     },
     {
       "igdb_id": 100748,
@@ -284113,6 +284348,11 @@
       "file": "missing/W/125982-war-by-grow-games.json"
     },
     {
+      "igdb_id": 82815,
+      "game_name": "War crime",
+      "file": "missing/W/82815-war-crime.json"
+    },
+    {
       "igdb_id": 24999,
       "game_name": "War Doves",
       "file": "missing/W/24999-war-doves.json"
@@ -285936,6 +286176,11 @@
       "igdb_id": 323517,
       "game_name": "Weaveborn Heroes",
       "file": "missing/W/323517-weaveborn-heroes.json"
+    },
+    {
+      "igdb_id": 82834,
+      "game_name": "Web City 1",
+      "file": "missing/W/82834-web-city-1.json"
     },
     {
       "igdb_id": 236523,
@@ -289131,6 +289376,11 @@
       "igdb_id": 218158,
       "game_name": "Witch Hunter",
       "file": "missing/W/218158-witch-hunter.json"
+    },
+    {
+      "igdb_id": 82835,
+      "game_name": "Witch Isis",
+      "file": "missing/W/82835-witch-isis.json"
     },
     {
       "igdb_id": 179670,
