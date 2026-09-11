@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaGa: Scarlet Grace - Ambitions | 119373 | [119373-saga-scarlet-grace-ambitions.json](./119373-saga-scarlet-grace-ambitions.json) |
 | SaGa: Scarlet Grace - Hiiro no Yabou | 97908 | [97908-saga-scarlet-grace-hiiro-no-yabou.json](./97908-saga-scarlet-grace-hiiro-no-yabou.json) |
 | Sagashimono ha, Natsu desuka. | 263237 | [263237-sagashimono-ha-natsu-desuka.json](./263237-sagashimono-ha-natsu-desuka.json) |
+| Sage Mountain | 118331 | [118331-sage-mountain.json](./118331-sage-mountain.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
@@ -197,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally's Spa HD | 87725 | [87725-sallys-spa-hd.json](./87725-sallys-spa-hd.json) |
 | Sally's Studio | 65321 | [65321-sallys-studio.json](./65321-sallys-studio.json) |
 | Sally's Studio HD | 107861 | [107861-sallys-studio-hd.json](./107861-sallys-studio-hd.json) |
+| Saloon VR | 118356 | [118356-saloon-vr.json](./118356-saloon-vr.json) |
 | Salt | 171556 | [171556-salt.json](./171556-salt.json) |
 | Salt 2: Shores of Gold | 151169 | [151169-salt-2-shores-of-gold.json](./151169-salt-2-shores-of-gold.json) |
 | SALT: Super Awesome Laser Tag | 379869 | [379869-salt-super-awesome-laser-tag.json](./379869-salt-super-awesome-laser-tag.json) |
@@ -402,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
 | Sapphire Moon: Forever Memories | 215669 | [215669-sapphire-moon-forever-memories.json](./215669-sapphire-moon-forever-memories.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
+| Sarah, you are way too heavy | 118364 | [118364-sarah-you-are-way-too-heavy.json](./118364-sarah-you-are-way-too-heavy.json) |
 | Sarah: Story of a Young Thief | 302967 | [302967-sarah-story-of-a-young-thief.json](./302967-sarah-story-of-a-young-thief.json) |
 | Sarah's Adventure: Time Travel | 304862 | [304862-sarahs-adventure-time-travel.json](./304862-sarahs-adventure-time-travel.json) |
 | Sarah's Great Adventure | 371898 | [371898-sarahs-great-adventure.json](./371898-sarahs-great-adventure.json) |
@@ -2301,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky of Tides | 122389 | [122389-sky-of-tides.json](./122389-sky-of-tides.json) |
 | Sky Patrol | 40793 | [40793-sky-patrol.json](./40793-sky-patrol.json) |
 | Sky Races | 186909 | [186909-sky-races.json](./186909-sky-races.json) |
+| Sky Realm: Essences | 118332 | [118332-sky-realm-essences.json](./118332-sky-realm-essences.json) |
 | Sky Reclaimers | 348247 | [348247-sky-reclaimers.json](./348247-sky-reclaimers.json) |
 | Sky Roller Coaster | 298045 | [298045-sky-roller-coaster.json](./298045-sky-roller-coaster.json) |
 | Sky Scaffold | 392131 | [392131-sky-scaffold.json](./392131-sky-scaffold.json) |
@@ -2675,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
 | Snailboy: Rise of Hermitron | 120353 | [120353-snailboy-rise-of-hermitron.json](./120353-snailboy-rise-of-hermitron.json) |
+| Snailiad | 118309 | [118309-snailiad.json](./118309-snailiad.json) |
 | SnailQuest | 207306 | [207306-snailquest.json](./207306-snailquest.json) |
 | Snails | 299126 | [299126-snails.json](./299126-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
@@ -3550,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign Reign | 276171 | [276171-sovereign-reign.json](./276171-sovereign-reign.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
+| Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
 | Sovietpunk: Chapter one | 168852 | [168852-sovietpunk-chapter-one.json](./168852-sovietpunk-chapter-one.json) |
 | SOVL: Ratkin Clans | 305773 | [305773-sovl-ratkin-clans.json](./305773-sovl-ratkin-clans.json) |
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
@@ -3974,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
 | Sphereout | 250382 | [250382-sphereout.json](./250382-sphereout.json) |
 | Spheres Episode 1: Nalong | 145609 | [145609-spheres-episode-1-nalong.json](./145609-spheres-episode-1-nalong.json) |
+| Spheres: The Ancient Fuses | 118335 | [118335-spheres-the-ancient-fuses.json](./118335-spheres-the-ancient-fuses.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
@@ -5524,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
 | Sundown | 86071 | [86071-sundown.json](./86071-sundown.json) |
+| Sundown Refusal | 118351 | [118351-sundown-refusal.json](./118351-sundown-refusal.json) |
 | Sundowner | 154022 | [154022-sundowner.json](./154022-sundowner.json) |
 | Sune och Hans Värld: Pussjakten | 129781 | [129781-sune-och-hans-varld-pussjakten.json](./129781-sune-och-hans-varld-pussjakten.json) |
 | Sunes Sportlov | 316081 | [316081-sunes-sportlov.json](./316081-sunes-sportlov.json) |
