@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Madagascar Mini-Mayhem | 137609 | [137609-madagascar-mini-mayhem.json](./137609-madagascar-mini-mayhem.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
+| Madballs Arcade | 98925 | [98925-madballs-arcade.json](./98925-madballs-arcade.json) |
 | Madden genesis | 178024 | [178024-madden-genesis.json](./178024-madden-genesis.json) |
 | Madden NFL 07 | 243011 | [243011-madden-nfl-07.json](./243011-madden-nfl-07.json) |
 | Madden NFL 07 | 4983 | [4983-madden-nfl-07.json](./4983-madden-nfl-07.json) |
@@ -1754,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetälBörn | 209490 | [209490-metalborn.json](./209490-metalborn.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
 | Metalstorm | 196031 | [196031-metalstorm.json](./196031-metalstorm.json) |
+| Metaltech: Earthsiege Speech Pack | 98937 | [98937-metaltech-earthsiege-speech-pack.json](./98937-metaltech-earthsiege-speech-pack.json) |
 | Metamon | 227835 | [227835-metamon.json](./227835-metamon.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
@@ -1875,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Plutonia | 312898 | [312898-micro-plutonia.json](./312898-micro-plutonia.json) |
 | Micro Quest | 307593 | [307593-micro-quest.json](./307593-micro-quest.json) |
 | Micro-Breakout | 320150 | [320150-micro-breakout.json](./320150-micro-breakout.json) |
+| Micro$oft Simulaattori | 98940 | [98940-micro-oft-simulaattori.json](./98940-micro-oft-simulaattori.json) |
 | MicroCity | 144375 | [144375-microcity.json](./144375-microcity.json) |
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
 | MicroCrawl | 238489 | [238489-microcrawl.json](./238489-microcrawl.json) |
@@ -2964,6 +2967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
+| Monster Pack Volume 2 | 98947 | [98947-monster-pack-volume-2.json](./98947-monster-pack-volume-2.json) |
 | Monster Parlor | 375858 | [375858-monster-parlor.json](./375858-monster-parlor.json) |
 | Monster Pet Shop | 242787 | [242787-monster-pet-shop.json](./242787-monster-pet-shop.json) |
 | Monster Phenomenon | 192982 | [192982-monster-phenomenon.json](./192982-monster-phenomenon.json) |
@@ -3547,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
 | Multilytheus | 186271 | [186271-multilytheus.json](./186271-multilytheus.json) |
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
+| Multimedia Dinosaurs | 98941 | [98941-multimedia-dinosaurs.json](./98941-multimedia-dinosaurs.json) |
 | Multiplayer Knights | 235193 | [235193-multiplayer-knights.json](./235193-multiplayer-knights.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
 | Multiplayer Spiders | 296362 | [296362-multiplayer-spiders.json](./296362-multiplayer-spiders.json) |
