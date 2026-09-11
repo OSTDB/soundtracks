@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobylite: Season 4 - Black Smoke | 222942 | [222942-chernobylite-season-4-black-smoke.json](./222942-chernobylite-season-4-black-smoke.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
 | Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
+| Cherry Island | 126552 | [126552-cherry-island.json](./126552-cherry-island.json) |
 | Cherry Kisses | 198466 | [198466-cherry-kisses.json](./198466-cherry-kisses.json) |
 | Cherry Rescue! | 181852 | [181852-cherry-rescue.json](./181852-cherry-rescue.json) |
 | Cherry Tree High Girls' Fight | 33094 | [33094-cherry-tree-high-girls-fight.json](./33094-cherry-tree-high-girls-fight.json) |
@@ -2751,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
 | Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
 | Craft Control HD | 107223 | [107223-craft-control-hd.json](./107223-craft-control-hd.json) |
+| Craft Elements | 126577 | [126577-craft-elements.json](./126577-craft-elements.json) |
 | Craft Jam | 176416 | [176416-craft-jam.json](./176416-craft-jam.json) |
 | Craft the Mapcrafter: Gathering Magic Words | 151676 | [151676-craft-the-mapcrafter-gathering-magic-words.json](./151676-craft-the-mapcrafter-gathering-magic-words.json) |
 | Craft The World: Invasion | 286536 | [286536-craft-the-world-invasion.json](./286536-craft-the-world-invasion.json) |
@@ -3385,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
 | Curse of the Draugr Kings | 244767 | [244767-curse-of-the-draugr-kings.json](./244767-curse-of-the-draugr-kings.json) |
+| Curse of the Dungeon | 126580 | [126580-curse-of-the-dungeon.json](./126580-curse-of-the-dungeon.json) |
 | Curse of the Lich King | 178005 | [178005-curse-of-the-lich-king.json](./178005-curse-of-the-lich-king.json) |
 | Curse of The Lineage | 375835 | [375835-curse-of-the-lineage.json](./375835-curse-of-the-lineage.json) |
 | Curse of the Sea Rats | 121712 | [121712-curse-of-the-sea-rats.json](./121712-curse-of-the-sea-rats.json) |
