@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
 | Pearl Rising | 314054 | [314054-pearl-rising.json](./314054-pearl-rising.json) |
 | Pearls of the Oceans | 164974 | [164974-pearls-of-the-oceans.json](./164974-pearls-of-the-oceans.json) |
+| Peas Adventure | 117034 | [117034-peas-adventure.json](./117034-peas-adventure.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
 | Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | Penroses | 181880 | [181880-penroses.json](./181880-penroses.json) |
+| Pensate | 117025 | [117025-pensate.json](./117025-pensate.json) |
 | Pent's Wacky, Zany Road Trip to Adulthood | 412953 | [412953-pents-wacky-zany-road-trip-to-adulthood.json](./412953-pents-wacky-zany-road-trip-to-adulthood.json) |
 | Pent's Zacky, Zany Road Trip to Adulthood | 326611 | [326611-pents-zacky-zany-road-trip-to-adulthood.json](./326611-pents-zacky-zany-road-trip-to-adulthood.json) |
 | PentaBlox | 188581 | [188581-pentablox.json](./188581-pentablox.json) |
