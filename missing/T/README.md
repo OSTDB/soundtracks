@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep Ones | 246118 | [246118-the-deep-ones.json](./246118-the-deep-ones.json) |
 | The Deep: Ushinawareta Shinkai | 410223 | [410223-the-deep-ushinawareta-shinkai.json](./410223-the-deep-ushinawareta-shinkai.json) |
 | The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
+| The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
@@ -2209,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land: Elf no Mori | 302963 | [302963-the-land-elf-no-mori.json](./302963-the-land-elf-no-mori.json) |
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
+| The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
 | The Last Cosmonaut | 413594 | [413594-the-last-cosmonaut.json](./413594-the-last-cosmonaut.json) |
@@ -2672,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
+| The Oblivion Asylum | 117676 | [117676-the-oblivion-asylum.json](./117676-the-oblivion-asylum.json) |
 | The Obscura Experiment | 239652 | [239652-the-obscura-experiment.json](./239652-the-obscura-experiment.json) |
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
@@ -3411,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu: Warp Tiger | 157633 | [157633-the-tower-of-tigerqiuqiu-warp-tiger.json](./157633-the-tower-of-tigerqiuqiu-warp-tiger.json) |
 | The Tower of Wowers | 150068 | [150068-the-tower-of-wowers.json](./150068-the-tower-of-wowers.json) |
 | The Tower SP | 6639 | [6639-the-tower-sp.json](./6639-the-tower-sp.json) |
+| The Tower: The Order of XII | 117694 | [117694-the-tower-the-order-of-xii.json](./117694-the-tower-the-order-of-xii.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
@@ -3528,6 +3532,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
+| The Walking Dead: The Telltale Definitive Series - Guardian Pack | 117678 | [117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json](./117678-the-walking-dead-the-telltale-definitive-series-guardian-pack.json) |
+| The Walking Dead: The Telltale Definitive Series - Protector Pack | 117677 | [117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json](./117677-the-walking-dead-the-telltale-definitive-series-protector-pack.json) |
+| The Walking Dead: The Telltale Definitive Series - Signature Pack | 117679 | [117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json](./117679-the-walking-dead-the-telltale-definitive-series-signature-pack.json) |
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
 | The Wand of Gamelon Remastered | 206135 | [206135-the-wand-of-gamelon-remastered.json](./206135-the-wand-of-gamelon-remastered.json) |
@@ -3647,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of The Absurd | 17367 | [17367-theatre-of-the-absurd.json](./17367-theatre-of-the-absurd.json) |
 | Theatre of War 2: Africa 1943 - Centauro | 10954 | [10954-theatre-of-war-2-africa-1943-centauro.json](./10954-theatre-of-war-2-africa-1943-centauro.json) |
 | Theatre of War 2: Battle for Caen | 10955 | [10955-theatre-of-war-2-battle-for-caen.json](./10955-theatre-of-war-2-battle-for-caen.json) |
+| Theatre Tales | 117666 | [117666-theatre-tales.json](./117666-theatre-tales.json) |
 | Theatrics | 260678 | [260678-theatrics.json](./260678-theatrics.json) |
 | TheBestiary | 196894 | [196894-thebestiary.json](./196894-thebestiary.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
@@ -6117,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
 | Two Faced | 300719 | [300719-two-faced.json](./300719-two-faced.json) |
+| Two Guns | 117680 | [117680-two-guns.json](./117680-two-guns.json) |
 | Two Heads of the Coin | 86082 | [86082-two-heads-of-the-coin.json](./86082-two-heads-of-the-coin.json) |
 | Two Hoops | 234317 | [234317-two-hoops.json](./234317-two-hoops.json) |
 | Two Kiss with Two Men | 303272 | [303272-two-kiss-with-two-men.json](./303272-two-kiss-with-two-men.json) |
