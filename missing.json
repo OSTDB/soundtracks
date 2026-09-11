@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T13:04:04.577Z",
-  "total_missing": 57994,
+  "generated_at": "2026-09-11T13:11:00.523Z",
+  "total_missing": 57993,
   "games": [
     {
       "igdb_id": 306086,
@@ -2181,11 +2181,6 @@
       "igdb_id": 33077,
       "game_name": "A Long Way Home",
       "file": "missing/A/33077-a-long-way-home.json"
-    },
-    {
-      "igdb_id": 138252,
-      "game_name": "A Lozenge",
-      "file": "missing/A/138252-a-lozenge.json"
     },
     {
       "igdb_id": 308550,
