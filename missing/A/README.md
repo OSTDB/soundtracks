@@ -82,7 +82,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Milky Way | 135237 | [135237-a-milky-way.json](./135237-a-milky-way.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Moderately Uncomfortable Night with Tux | 338711 | [338711-a-moderately-uncomfortable-night-with-tux.json](./338711-a-moderately-uncomfortable-night-with-tux.json) |
-| A Morons Challenge | 67990 | [67990-a-morons-challenge.json](./67990-a-morons-challenge.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Murmur in the Trees | 148561 | [148561-a-murmur-in-the-trees.json](./148561-a-murmur-in-the-trees.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
