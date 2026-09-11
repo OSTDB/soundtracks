@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Stella Deus - The Spirit of Darkness | 374605 | [374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json](./374605-g-mode-archives-stella-deus-the-spirit-of-darkness.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
 | G-Zilla | 196271 | [196271-g-zilla.json](./196271-g-zilla.json) |
+| G:nom | 125389 | [125389-g-nom.json](./125389-g-nom.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
