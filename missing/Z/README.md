@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Page | 216812 | [216812-zero-page.json](./216812-zero-page.json) |
 | Zero Parades: For Dead Spies | 361880 | [361880-zero-parades-for-dead-spies.json](./361880-zero-parades-for-dead-spies.json) |
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
+| Zero Six: Behind Enemy Lines | 129131 | [129131-zero-six-behind-enemy-lines.json](./129131-zero-six-behind-enemy-lines.json) |
 | Zero Velocity | 176984 | [176984-zero-velocity.json](./176984-zero-velocity.json) |
 | Zero Volt X | 176960 | [176960-zero-volt-x.json](./176960-zero-volt-x.json) |
 | Zero World | 211216 | [211216-zero-world.json](./211216-zero-world.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
 | Zgirls II: Last One | 174892 | [174892-zgirls-ii-last-one.json](./174892-zgirls-ii-last-one.json) |
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
+| Zhànshén Qīpò | 130915 | [130915-zhanshen-qipo.json](./130915-zhanshen-qipo.json) |
 | Zhèngzōng Taiwan Shíliù Zhāng Mahjong | 149591 | [149591-zhengzong-taiwan-shiliu-zhang-mahjong.json](./149591-zhengzong-taiwan-shiliu-zhang-mahjong.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
 | Zhiel's Mystery | 237390 | [237390-zhiels-mystery.json](./237390-zhiels-mystery.json) |
