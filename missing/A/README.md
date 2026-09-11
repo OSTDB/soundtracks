@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
+| Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
