@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valentines Otome | 125411 | [125411-valentines-otome.json](./125411-valentines-otome.json) |
 | Valentino Rossi: The Game - MotoGP Legendary Bikes | 167849 | [167849-valentino-rossi-the-game-motogp-legendary-bikes.json](./167849-valentino-rossi-the-game-motogp-legendary-bikes.json) |
 | Valentino Rossi: The Game - Real Events: 2015 MotoGP Season | 168360 | [168360-valentino-rossi-the-game-real-events-2015-motogp-season.json](./168360-valentino-rossi-the-game-real-events-2015-motogp-season.json) |
+| Valerian Tales | 104038 | [104038-valerian-tales.json](./104038-valerian-tales.json) |
 | Valerie | 337109 | [337109-valerie.json](./337109-valerie.json) |
 | Valerie Porter and the Scarlet Scandal | 27881 | [27881-valerie-porter-and-the-scarlet-scandal.json](./27881-valerie-porter-and-the-scarlet-scandal.json) |
 | Valet Parking 1989 | 85472 | [85472-valet-parking-1989.json](./85472-valet-parking-1989.json) |
