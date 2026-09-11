@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
 | Echoes of the Hive | 373523 | [373523-echoes-of-the-hive.json](./373523-echoes-of-the-hive.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
+| Echoes of the Past: The Citadels of Time - Collector's Edition | 114346 | [114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json](./114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
 | Echoes of the Woods | 303512 | [303512-echoes-of-the-woods.json](./303512-echoes-of-the-woods.json) |
 | Echoes of Undeath | 355019 | [355019-echoes-of-undeath.json](./355019-echoes-of-undeath.json) |
@@ -442,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
 | Eleven Beat World Tournament | 299780 | [299780-eleven-beat-world-tournament.json](./299780-eleven-beat-world-tournament.json) |
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
+| Elf Epizode One | 114356 | [114356-elf-epizode-one.json](./114356-elf-epizode-one.json) |
 | Elfie | 304867 | [304867-elfie.json](./304867-elfie.json) |
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfland | 246394 | [246394-elfland.json](./246394-elfland.json) |
@@ -791,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
 | Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
+| Epic Adventures: La Jangada | 114353 | [114353-epic-adventures-la-jangada.json](./114353-epic-adventures-la-jangada.json) |
 | Epic Ape Madness | 255758 | [255758-epic-ape-madness.json](./255758-epic-ape-madness.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
