@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Master VR | 113735 | [113735-guardian-master-vr.json](./113735-guardian-master-vr.json) |
 | Guardian of Hidden Land | 352171 | [352171-guardian-of-hidden-land.json](./352171-guardian-of-hidden-land.json) |
 | Guardian of Immortal Mountain | 97904 | [97904-guardian-of-immortal-mountain.json](./97904-guardian-of-immortal-mountain.json) |
+| Guardian of Paradise | 123581 | [123581-guardian-of-paradise.json](./123581-guardian-of-paradise.json) |
 | Guardian of the Code | 202369 | [202369-guardian-of-the-code.json](./202369-guardian-of-the-code.json) |
 | Guardian of the Demon Valley | 172685 | [172685-guardian-of-the-demon-valley.json](./172685-guardian-of-the-demon-valley.json) |
 | Guardian of the Future | 119773 | [119773-guardian-of-the-future.json](./119773-guardian-of-the-future.json) |
