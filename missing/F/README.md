@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy of Expedition | 113648 | [113648-fantasy-of-expedition.json](./113648-fantasy-of-expedition.json) |
 | Fantasy Office | 226445 | [226445-fantasy-office.json](./226445-fantasy-office.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
+| Fantasy Raiders | 104009 | [104009-fantasy-raiders.json](./104009-fantasy-raiders.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Travel: Loot Delivery Service | 117050 | [117050-fast-travel-loot-delivery-service.json](./117050-fast-travel-loot-delivery-service.json) |
 | FastBall 2 | 257370 | [257370-fastball-2.json](./257370-fastball-2.json) |
 | Faster Harder More Challenging Q*bert | 39671 | [39671-faster-harder-more-challenging-q-bert.json](./39671-faster-harder-more-challenging-q-bert.json) |
+| FastGo Running | 104021 | [104021-fastgo-running.json](./104021-fastgo-running.json) |
 | Fastidious | 381013 | [381013-fastidious.json](./381013-fastidious.json) |
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
@@ -1271,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FiveM | 146553 | [146553-fivem.json](./146553-fivem.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
+| Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
 | Fix My Car: Garage Wars - Furious Street Mechanics! | 70406 | [70406-fix-my-car-garage-wars-furious-street-mechanics.json](./70406-fix-my-car-garage-wars-furious-street-mechanics.json) |
 | Fix My Hand Doc | 219789 | [219789-fix-my-hand-doc.json](./219789-fix-my-hand-doc.json) |
 | Fix My Truck: Offroad Pickup | 104670 | [104670-fix-my-truck-offroad-pickup.json](./104670-fix-my-truck-offroad-pickup.json) |
@@ -1705,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
 | FootRock 2 | 29902 | [29902-footrock-2.json](./29902-footrock-2.json) |
 | Footsies Rollback Edition | 139359 | [139359-footsies-rollback-edition.json](./139359-footsies-rollback-edition.json) |
+| Footy Ball Tournament 2018 | 104050 | [104050-footy-ball-tournament-2018.json](./104050-footy-ball-tournament-2018.json) |
 | For a Vast Future: Definitive Edition | 283148 | [283148-for-a-vast-future-definitive-edition.json](./283148-for-a-vast-future-definitive-edition.json) |
 | For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
@@ -1785,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest's Secret | 138716 | [138716-forests-secret.json](./138716-forests-secret.json) |
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
+| Forests of Augusta | 104035 | [104035-forests-of-augusta.json](./104035-forests-of-augusta.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
@@ -2242,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froglin Friend and the White Tower: Pt1 | 210692 | [210692-froglin-friend-and-the-white-tower-pt1.json](./210692-froglin-friend-and-the-white-tower-pt1.json) |
 | Frogman Magmaborn | 190144 | [190144-frogman-magmaborn.json](./190144-frogman-magmaborn.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
+| FrogStatue | 104046 | [104046-frogstatue.json](./104046-frogstatue.json) |
 | Frogstool | 337479 | [337479-frogstool.json](./337479-frogstool.json) |
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
