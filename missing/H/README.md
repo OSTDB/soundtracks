@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallo Spaceboy | 102217 | [102217-hallo-spaceboy.json](./102217-hallo-spaceboy.json) |
 | Hallow Maze | 336525 | [336525-hallow-maze.json](./336525-hallow-maze.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
+| Halloween | 80499 | [80499-halloween.json](./80499-halloween.json) |
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
 | Halloween Chronicles: Evil Behind a Mask - Collector's Edition | 126665 | [126665-halloween-chronicles-evil-behind-a-mask-collectors-edition.json](./126665-halloween-chronicles-evil-behind-a-mask-collectors-edition.json) |
 | Halloween Decoration Sandbox | 148548 | [148548-halloween-decoration-sandbox.json](./148548-halloween-decoration-sandbox.json) |
@@ -1605,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobo with a Shotgun | 63872 | [63872-hobo-with-a-shotgun.json](./63872-hobo-with-a-shotgun.json) |
 | Hobo: Prison Brawl | 294146 | [294146-hobo-prison-brawl.json](./294146-hobo-prison-brawl.json) |
 | Hoboman | 255965 | [255965-hoboman.json](./255965-hoboman.json) |
+| Hobonichi Rozenzu | 80543 | [80543-hobonichi-rozenzu.json](./80543-hobonichi-rozenzu.json) |
 | Hobs | 121630 | [121630-hobs.json](./121630-hobs.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
