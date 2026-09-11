@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild | 257947 | [257947-wild.json](./257947-wild.json) |
 | Wild Adventure | 208032 | [208032-wild-adventure.json](./208032-wild-adventure.json) |
 | Wild Adventures: Ultimate Deer Hunt 3D | 85491 | [85491-wild-adventures-ultimate-deer-hunt-3d.json](./85491-wild-adventures-ultimate-deer-hunt-3d.json) |
+| Wild Africa Mahjong | 102735 | [102735-wild-africa-mahjong.json](./102735-wild-africa-mahjong.json) |
 | Wild Arms | 205593 | [205593-wild-arms.json](./205593-wild-arms.json) |
 | Wild Arms 3 | 1679 | [1679-wild-arms-3.json](./1679-wild-arms-3.json) |
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
@@ -1507,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Claudecraft | 408050 | [408050-world-of-claudecraft.json](./408050-world-of-claudecraft.json) |
 | World of Conquerors: Origins | 126602 | [126602-world-of-conquerors-origins.json](./126602-world-of-conquerors-origins.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
+| World of Ender | 102749 | [102749-world-of-ender.json](./102749-world-of-ender.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
 | World of Football | 230297 | [230297-world-of-football.json](./230297-world-of-football.json) |
 | World of Goo Remastered | 250935 | [250935-world-of-goo-remastered.json](./250935-world-of-goo-remastered.json) |
@@ -1712,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wukong Survivors: Begin | 387379 | [387379-wukong-survivors-begin.json](./387379-wukong-survivors-begin.json) |
 | Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
 | Wǔlín Zhìzūn Zhuàn | 367434 | [367434-wulin-zhizun-zhuan.json](./367434-wulin-zhizun-zhuan.json) |
+| Wumbo's Adventure | 102750 | [102750-wumbos-adventure.json](./102750-wumbos-adventure.json) |
 | Wummsen Village | 361118 | [361118-wummsen-village.json](./361118-wummsen-village.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
