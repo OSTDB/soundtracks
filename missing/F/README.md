@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famista 2 | 86101 | [86101-famista-2.json](./86101-famista-2.json) |
 | Famista 3 | 95372 | [95372-famista-3.json](./95372-famista-3.json) |
 | Famory | 252158 | [252158-famory.json](./252158-famory.json) |
+| Famous | 91389 | [91389-famous.json](./91389-famous.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
 | Fan Zhuan 21 Ke | 277316 | [277316-fan-zhuan-21-ke.json](./277316-fan-zhuan-21-ke.json) |
@@ -2232,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Warfare | 211938 | [211938-friendly-warfare.json](./211938-friendly-warfare.json) |
 | FriendOS | 374604 | [374604-friendos.json](./374604-friendos.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
+| Friends Marble | 91337 | [91337-friends-marble.json](./91337-friends-marble.json) |
 | Friends of Little Yus | 191158 | [191158-friends-of-little-yus.json](./191158-friends-of-little-yus.json) |
 | Friends Racing Duo | 212456 | [212456-friends-racing-duo.json](./212456-friends-racing-duo.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
@@ -2345,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontiers.io: Expansion Pack 4 | 167312 | [167312-frontiers-io-expansion-pack-4.json](./167312-frontiers-io-expansion-pack-4.json) |
 | Frontiers.io: Expansion Pack 5 | 167313 | [167313-frontiers-io-expansion-pack-5.json](./167313-frontiers-io-expansion-pack-5.json) |
 | Frontiers.io: Expansion Pack 6 | 167314 | [167314-frontiers-io-expansion-pack-6.json](./167314-frontiers-io-expansion-pack-6.json) |
+| Frontiersman | 91360 | [91360-frontiersman.json](./91360-frontiersman.json) |
 | Frontline Berlin 1945 | 25003 | [25003-frontline-berlin-1945.json](./25003-frontline-berlin-1945.json) |
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
