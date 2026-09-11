@@ -97,7 +97,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Robot's Conundrum | 67988 | [67988-a-robots-conundrum.json](./67988-a-robots-conundrum.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
-| A Secret Bitsy Game | 138258 | [138258-a-secret-bitsy-game.json](./138258-a-secret-bitsy-game.json) |
 | A Sensei's Story | 276503 | [276503-a-senseis-story.json](./276503-a-senseis-story.json) |
 | A Shadow Cast on Water | 253582 | [253582-a-shadow-cast-on-water.json](./253582-a-shadow-cast-on-water.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
