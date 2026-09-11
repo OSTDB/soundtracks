@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unplug | 249205 | [249205-unplug.json](./249205-unplug.json) |
 | Unpredictable Storyline Twists 2 | 128632 | [128632-unpredictable-storyline-twists-2.json](./128632-unpredictable-storyline-twists-2.json) |
 | Unprotected | 323515 | [323515-unprotected.json](./323515-unprotected.json) |
+| Unravel Cyndy | 114949 | [114949-unravel-cyndy.json](./114949-unravel-cyndy.json) |
 | Unravel Lines Puzzle | 234049 | [234049-unravel-lines-puzzle.json](./234049-unravel-lines-puzzle.json) |
 | Unravel: Yarny Bundle | 115025 | [115025-unravel-yarny-bundle.json](./115025-unravel-yarny-bundle.json) |
 | Unread Messages | 262935 | [262935-unread-messages.json](./262935-unread-messages.json) |
