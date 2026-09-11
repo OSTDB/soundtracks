@@ -781,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Tank | 207317 | [207317-level-tank.json](./207317-level-tank.json) |
 | Level Up Boxing VR | 270115 | [270115-level-up-boxing-vr.json](./270115-level-up-boxing-vr.json) |
 | Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
+| Level Up! | 95373 | [95373-level-up.json](./95373-level-up.json) |
 | Level Zero: Extraction | 223473 | [223473-level-zero-extraction.json](./223473-level-zero-extraction.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
 | Levi's Garden | 142503 | [142503-levis-garden.json](./142503-levis-garden.json) |
@@ -1286,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock 5 | 70429 | [70429-lock-5.json](./70429-lock-5.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
+| Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
