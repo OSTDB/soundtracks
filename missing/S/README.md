@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
 | Simply Rotate | 285482 | [285482-simply-rotate.json](./285482-simply-rotate.json) |
 | Simply Sudoku | 266241 | [266241-simply-sudoku.json](./266241-simply-sudoku.json) |
+| Simsig | 125969 | [125969-simsig.json](./125969-simsig.json) |
 | Simstory: Live As You Wish | 101573 | [101573-simstory-live-as-you-wish.json](./101573-simstory-live-as-you-wish.json) |
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
@@ -2719,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Sniper 3D | 311780 | [311780-sniper-3d.json](./311780-sniper-3d.json) |
+| Sniper and Spotter Climbing a Tower | 125950 | [125950-sniper-and-spotter-climbing-a-tower.json](./125950-sniper-and-spotter-climbing-a-tower.json) |
 | Sniper Assassin 3 | 316087 | [316087-sniper-assassin-3.json](./316087-sniper-assassin-3.json) |
 | Sniper Assassin 3D | 94782 | [94782-sniper-assassin-3d.json](./94782-sniper-assassin-3d.json) |
 | Sniper Assassin 3D Shooter 2 | 104101 | [104101-sniper-assassin-3d-shooter-2.json](./104101-sniper-assassin-3d-shooter-2.json) |
@@ -3401,6 +3403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul | 199577 | [199577-soul.json](./199577-soul.json) |
 | Soul Awakening Adventure | 273093 | [273093-soul-awakening-adventure.json](./273093-soul-awakening-adventure.json) |
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
+| Soul Destiny | 125967 | [125967-soul-destiny.json](./125967-soul-destiny.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
 | Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
@@ -4576,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlite: Defender of Justice | 156687 | [156687-starlite-defender-of-justice.json](./156687-starlite-defender-of-justice.json) |
 | Starlite: Defender of Justice Ultimate HD Edition | 232982 | [232982-starlite-defender-of-justice-ultimate-hd-edition.json](./232982-starlite-defender-of-justice-ultimate-hd-edition.json) |
 | Starloom | 382769 | [382769-starloom.json](./382769-starloom.json) |
+| StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | Starona | 142386 | [142386-starona.json](./142386-starona.json) |
 | StarOS | 255961 | [255961-staros.json](./255961-staros.json) |
@@ -6119,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
 | Super Vadimka III: Enter ALJ | 202324 | [202324-super-vadimka-iii-enter-alj.json](./202324-super-vadimka-iii-enter-alj.json) |
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
+| Super Visual Soccer | 125980 | [125980-super-visual-soccer.json](./125980-super-visual-soccer.json) |
 | Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
 | Super Voxel World | 176443 | [176443-super-voxel-world.json](./176443-super-voxel-world.json) |
 | Super Wakana Land | 275567 | [275567-super-wakana-land.json](./275567-super-wakana-land.json) |
@@ -6542,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
 | Sybil's Tail | 179657 | [179657-sybils-tail.json](./179657-sybils-tail.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
+| SyLestia | 125957 | [125957-sylestia.json](./125957-sylestia.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
 | Sylvan Tale | 19691 | [19691-sylvan-tale.json](./19691-sylvan-tale.json) |
 | Sylvana's Chronicles | 259016 | [259016-sylvanas-chronicles.json](./259016-sylvanas-chronicles.json) |
