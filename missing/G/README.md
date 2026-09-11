@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas Station Simulator, Airstrip DLC and Can Touch This DLC Bundle | 297455 | [297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json](./297455-gas-station-simulator-airstrip-dlc-and-can-touch-this-dlc-bundle.json) |
 | Gas Station Simulator: Can Touch This DLC | 298596 | [298596-gas-station-simulator-can-touch-this-dlc.json](./298596-gas-station-simulator-can-touch-this-dlc.json) |
 | Gas Station Sketch | 131553 | [131553-gas-station-sketch.json](./131553-gas-station-sketch.json) |
+| Gas Station: Car Parking Sim | 89186 | [89186-gas-station-car-parking-sim.json](./89186-gas-station-car-parking-sim.json) |
 | Gas Station: Highway Services | 148001 | [148001-gas-station-highway-services.json](./148001-gas-station-highway-services.json) |
 | Gas Station: Trucker Parking | 231950 | [231950-gas-station-trucker-parking.json](./231950-gas-station-trucker-parking.json) |
 | Gas vs. Dwarves | 185112 | [185112-gas-vs-dwarves.json](./185112-gas-vs-dwarves.json) |
