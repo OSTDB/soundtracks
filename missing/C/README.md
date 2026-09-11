@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
+| Chain World | 92484 | [92484-chain-world.json](./92484-chain-world.json) |
 | Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
@@ -1028,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
+| Chameleon Gems | 92483 | [92483-chameleon-gems.json](./92483-chameleon-gems.json) |
 | Chameleon: To Dye For! | 72713 | [72713-chameleon-to-dye-for.json](./72713-chameleon-to-dye-for.json) |
 | Champ Asterocks | 94689 | [94689-champ-asterocks.json](./94689-champ-asterocks.json) |
 | Champ at Dawn | 231349 | [231349-champ-at-dawn.json](./231349-champ-at-dawn.json) |
