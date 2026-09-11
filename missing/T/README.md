@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
 | TacticalDuty.io | 234036 | [234036-tacticalduty-io.json](./234036-tacticalduty-io.json) |
+| Tactics & Strategy Master 2: Princess of Holy Light | 110992 | [110992-tactics-and-strategy-master-2-princess-of-holy-light.json](./110992-tactics-and-strategy-master-2-princess-of-holy-light.json) |
 | Tactics & Strategy Master 3: Gemini Strategy | 284350 | [284350-tactics-and-strategy-master-3-gemini-strategy.json](./284350-tactics-and-strategy-master-3-gemini-strategy.json) |
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
 | Tactics Formula | 141163 | [141163-tactics-formula.json](./141163-tactics-formula.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle: East Front 1941 | 197886 | [197886-tank-battle-east-front-1941.json](./197886-tank-battle-east-front-1941.json) |
 | Tank Battle: East Front 1943 | 175335 | [175335-tank-battle-east-front-1943.json](./175335-tank-battle-east-front-1943.json) |
 | Tank Brigade | 391599 | [391599-tank-brigade.json](./391599-tank-brigade.json) |
+| Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
 | Tank Elite | 82130 | [82130-tank-elite.json](./82130-tank-elite.json) |
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
@@ -406,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Storage | 258448 | [258448-tank-storage.json](./258448-tank-storage.json) |
 | Tank Strike | 76609 | [76609-tank-strike.json](./76609-tank-strike.json) |
 | Tank Sudoku | 190734 | [190734-tank-sudoku.json](./190734-tank-sudoku.json) |
+| Tank survival Game | 110985 | [110985-tank-survival-game.json](./110985-tank-survival-game.json) |
 | Tank Trouble 3D | 338701 | [338701-tank-trouble-3d.json](./338701-tank-trouble-3d.json) |
 | Tank Tyranny | 289346 | [289346-tank-tyranny.json](./289346-tank-tyranny.json) |
 | Tank Universal: Challenger Eight | 72708 | [72708-tank-universal-challenger-eight.json](./72708-tank-universal-challenger-eight.json) |
@@ -1345,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
 | The Cell | 307965 | [307965-the-cell.json](./307965-the-cell.json) |
 | The Cell | 326947 | [326947-the-cell.json](./326947-the-cell.json) |
+| The Cells | 110998 | [110998-the-cells.json](./110998-the-cells.json) |
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
@@ -4122,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I Rainstorm | 118371 | [118371-tiger-tank-59-i-rainstorm.json](./118371-tiger-tank-59-i-rainstorm.json) |
 | Tiger Tank 59 I Super Tank | 119725 | [119725-tiger-tank-59-i-super-tank.json](./119725-tiger-tank-59-i-super-tank.json) |
 | Tiger Tank 59 I Volcano | 118410 | [118410-tiger-tank-59-i-volcano.json](./118410-tiger-tank-59-i-volcano.json) |
+| Tiger Tank 59 I: A-Gun | 110980 | [110980-tiger-tank-59-i-a-gun.json](./110980-tiger-tank-59-i-a-gun.json) |
 | Tiger Tank 59 I: A-Gun MP001 | 160329 | [160329-tiger-tank-59-i-a-gun-mp001.json](./160329-tiger-tank-59-i-a-gun-mp001.json) |
 | Tiger Tank 59 I: A-Gun MP023 | 160331 | [160331-tiger-tank-59-i-a-gun-mp023.json](./160331-tiger-tank-59-i-a-gun-mp023.json) |
 | Tiger Tank 59 I: A-Gun MP028 | 160362 | [160362-tiger-tank-59-i-a-gun-mp028.json](./160362-tiger-tank-59-i-a-gun-mp028.json) |
