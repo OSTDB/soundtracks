@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T14:19:13.288Z",
-  "total_missing": 58209,
+  "generated_at": "2026-09-11T14:20:59.658Z",
+  "total_missing": 58208,
   "games": [
     {
       "igdb_id": 306086,
@@ -2216,11 +2216,6 @@
       "igdb_id": 82878,
       "game_name": "A Male Me Dressed up and Was Loved",
       "file": "missing/A/82878-a-male-me-dressed-up-and-was-loved.json"
-    },
-    {
-      "igdb_id": 176501,
-      "game_name": "A man outside",
-      "file": "missing/A/176501-a-man-outside.json"
     },
     {
       "igdb_id": 306997,
