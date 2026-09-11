@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T11:01:05.899Z",
-  "total_missing": 57641,
+  "generated_at": "2026-09-11T11:10:59.579Z",
+  "total_missing": 57640,
   "games": [
     {
       "igdb_id": 306086,
@@ -2111,11 +2111,6 @@
       "igdb_id": 261814,
       "game_name": "A Koopa's Revenge",
       "file": "missing/A/261814-a-koopas-revenge.json"
-    },
-    {
-      "igdb_id": 238733,
-      "game_name": "A Land Goo's Crazy",
-      "file": "missing/A/238733-a-land-goos-crazy.json"
     },
     {
       "igdb_id": 138215,
