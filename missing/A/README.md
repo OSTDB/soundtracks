@@ -30,7 +30,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
-| A Devilish Nightmare | 217850 | [217850-a-devilish-nightmare.json](./217850-a-devilish-nightmare.json) |
 | A different summer | 278426 | [278426-a-different-summer.json](./278426-a-different-summer.json) |
 | A Dino Date | 260401 | [260401-a-dino-date.json](./260401-a-dino-date.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
