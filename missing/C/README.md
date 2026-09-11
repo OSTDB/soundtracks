@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
 | Chou Hatsumei Boy Kani Pan: Bousou Roboto no Nazo!? | 97335 | [97335-chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo.json](./97335-chou-hatsumei-boy-kani-pan-bousou-roboto-no-nazo.json) |
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
+| Chou Manin: Joshi Seido Shanai Choukyou | 97389 | [97389-chou-manin-joshi-seido-shanai-choukyou.json](./97389-chou-manin-joshi-seido-shanai-choukyou.json) |
 | Chou Meisaku Suiri Adventure DS: Raymond Chandler Gensaku - Saraba Itoshiki Hito yo | 269583 | [269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json](./269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json) |
 | Choujin Heiki Zeroigar | 45960 | [45960-choujin-heiki-zeroigar.json](./45960-choujin-heiki-zeroigar.json) |
 | Chousenshi Densetsu: Assault from the Sea | 62189 | [62189-chousenshi-densetsu-assault-from-the-sea.json](./62189-chousenshi-densetsu-assault-from-the-sea.json) |
@@ -2120,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
 | CoLoBot | 80574 | [80574-colobot.json](./80574-colobot.json) |
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
+| Colonial Conquest | 97307 | [97307-colonial-conquest.json](./97307-colonial-conquest.json) |
 | Colonies | 118353 | [118353-colonies.json](./118353-colonies.json) |
 | Colonist | 130901 | [130901-colonist.json](./130901-colonist.json) |
 | Colonizer | 244468 | [244468-colonizer.json](./244468-colonizer.json) |
@@ -2292,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet Tycoon | 349881 | [349881-comet-tycoon.json](./349881-comet-tycoon.json) |
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
+| Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
 | Coming Back | 183545 | [183545-coming-back.json](./183545-coming-back.json) |
 | Coming Home | 347152 | [347152-coming-home.json](./347152-coming-home.json) |
 | Coming home absolutely twisted with a load of swords | 178034 | [178034-coming-home-absolutely-twisted-with-a-load-of-swords.json](./178034-coming-home-absolutely-twisted-with-a-load-of-swords.json) |
@@ -2589,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
 | Cordelia | 248044 | [248044-cordelia.json](./248044-cordelia.json) |
+| Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
@@ -3236,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
 | Crossword Dungeon | 208017 | [208017-crossword-dungeon.json](./208017-crossword-dungeon.json) |
 | Crossword Explorer | 406089 | [406089-crossword-explorer.json](./406089-crossword-explorer.json) |
+| Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
