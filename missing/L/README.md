@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
 | Lingua Franca | 371920 | [371920-lingua-franca.json](./371920-lingua-franca.json) |
+| Língwén Xīyóu | 106558 | [106558-lingwen-xiyou.json](./106558-lingwen-xiyou.json) |
 | Lingword | 307591 | [307591-lingword.json](./307591-lingword.json) |
 | Língxià Jìyì | 130924 | [130924-lingxia-jiyi.json](./130924-lingxia-jiyi.json) |
 | Linia Stripes | 221745 | [221745-linia-stripes.json](./221745-linia-stripes.json) |
@@ -1186,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
 | Live Labyrinth | 149530 | [149530-live-labyrinth.json](./149530-live-labyrinth.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
+| Live or Die: Survival | 106527 | [106527-live-or-die-survival.json](./106527-live-or-die-survival.json) |
 | LIve Pict | 278724 | [278724-live-pict.json](./278724-live-pict.json) |
 | Live Portrait Maker | 101497 | [101497-live-portrait-maker.json](./101497-live-portrait-maker.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
