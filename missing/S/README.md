@@ -1199,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex with Maids | 248669 | [248669-sex-with-maids.json](./248669-sex-with-maids.json) |
 | Sex With Toys | 267686 | [267686-sex-with-toys.json](./267686-sex-with-toys.json) |
 | Sex x Hex | 243381 | [243381-sex-x-hex.json](./243381-sex-x-hex.json) |
+| Sex-Slave Doctor | 97845 | [97845-sex-slave-doctor.json](./97845-sex-slave-doctor.json) |
 | Sex, Beach & Girls | 311818 | [311818-sex-beach-and-girls.json](./311818-sex-beach-and-girls.json) |
 | Sex, Drugs, and Beer Can | 247553 | [247553-sex-drugs-and-beer-can.json](./247553-sex-drugs-and-beer-can.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
@@ -1715,6 +1716,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
 | Shokugeki no Soma: Yuujou to Kizuna no Hitosara | 222523 | [222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json](./222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json) |
 | Shokuo Shoujo | 158152 | [158152-shokuo-shoujo.json](./158152-shokuo-shoujo.json) |
+| Shokutama | 97828 | [97828-shokutama.json](./97828-shokutama.json) |
+| Shokutte Night | 97844 | [97844-shokutte-night.json](./97844-shokutte-night.json) |
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
 | Shoot 8 Ball: Billiards Pool8 | 231902 | [231902-shoot-8-ball-billiards-pool8.json](./231902-shoot-8-ball-billiards-pool8.json) |
 | Shoot Ball Fruit Splash | 105895 | [105895-shoot-ball-fruit-splash.json](./105895-shoot-ball-fruit-splash.json) |
@@ -3643,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sowon : The Toy Wonderland | 298579 | [298579-sowon-the-toy-wonderland.json](./298579-sowon-the-toy-wonderland.json) |
 | SP-Light | 291452 | [291452-sp-light.json](./291452-sp-light.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
+| Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
 | Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
@@ -3651,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure: Escape from Siphilus 1b | 219587 | [219587-space-adventure-escape-from-siphilus-1b.json](./219587-space-adventure-escape-from-siphilus-1b.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space and Lazers | 324320 | [324320-space-and-lazers.json](./324320-space-and-lazers.json) |
+| Space Angel Boin Boin! | 97832 | [97832-space-angel-boin-boin.json](./97832-space-angel-boin-boin.json) |
 | Space Arcade | 237374 | [237374-space-arcade.json](./237374-space-arcade.json) |
 | Space Badminton VR | 29853 | [29853-space-badminton-vr.json](./29853-space-badminton-vr.json) |
 | Space Baller | 133431 | [133431-space-baller.json](./133431-space-baller.json) |
@@ -4334,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
 | Sprites at Play | 196880 | [196880-sprites-at-play.json](./196880-sprites-at-play.json) |
+| Sprnkls | 97938 | [97938-sprnkls.json](./97938-sprnkls.json) |
 | Sprocket Rocket Rumble | 123028 | [123028-sprocket-rocket-rumble.json](./123028-sprocket-rocket-rumble.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
