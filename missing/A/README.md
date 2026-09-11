@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
 | Airport Security Sucks! | 397694 | [397694-airport-security-sucks.json](./397694-airport-security-sucks.json) |
+| Airport Simulator 2013 | 100124 | [100124-airport-simulator-2013.json](./100124-airport-simulator-2013.json) |
 | Airport Tycoon 2 | 78040 | [78040-airport-tycoon-2.json](./78040-airport-tycoon-2.json) |
 | Airranger | 122978 | [122978-airranger.json](./122978-airranger.json) |
 | AirRevo | 187453 | [187453-airrevo.json](./187453-airrevo.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Dog | 120429 | [120429-alpha-dog.json](./120429-alpha-dog.json) |
 | Alpha Guns | 137675 | [137675-alpha-guns.json](./137675-alpha-guns.json) |
 | Alpha Lyrae Discovery | 120958 | [120958-alpha-lyrae-discovery.json](./120958-alpha-lyrae-discovery.json) |
+| Alpha Man | 100221 | [100221-alpha-man.json](./100221-alpha-man.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
 | Alpha Squirrel | 183517 | [183517-alpha-squirrel.json](./183517-alpha-squirrel.json) |
@@ -1422,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
+| Alphabet Park Adventure | 100121 | [100121-alphabet-park-adventure.json](./100121-alphabet-park-adventure.json) |
 | Alphabet Solitaire Z: Russian | 101576 | [101576-alphabet-solitaire-z-russian.json](./101576-alphabet-solitaire-z-russian.json) |
 | Alphabet: Play with the ABCs | 206109 | [206109-alphabet-play-with-the-abcs.json](./206109-alphabet-play-with-the-abcs.json) |
 | Alphabetty Saga | 116974 | [116974-alphabetty-saga.json](./116974-alphabetty-saga.json) |
@@ -3158,6 +3161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
+| Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
