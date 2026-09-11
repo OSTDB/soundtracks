@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T13:50:58.784Z",
-  "total_missing": 58102,
+  "generated_at": "2026-09-11T14:01:25.120Z",
+  "total_missing": 58105,
   "games": [
     {
       "igdb_id": 306086,
@@ -2206,11 +2206,6 @@
       "igdb_id": 82878,
       "game_name": "A Male Me Dressed up and Was Loved",
       "file": "missing/A/82878-a-male-me-dressed-up-and-was-loved.json"
-    },
-    {
-      "igdb_id": 229968,
-      "game_name": "A Mall Near You",
-      "file": "missing/A/229968-a-mall-near-you.json"
     },
     {
       "igdb_id": 176501,
@@ -44451,6 +44446,11 @@
       "igdb_id": 130395,
       "game_name": "Classic Snake Adventures",
       "file": "missing/C/130395-classic-snake-adventures.json"
+    },
+    {
+      "igdb_id": 100962,
+      "game_name": "Classic Snake Game Gold",
+      "file": "missing/C/100962-classic-snake-game-gold.json"
     },
     {
       "igdb_id": 323511,
@@ -114601,6 +114601,11 @@
       "igdb_id": 25947,
       "game_name": "Icarus.1",
       "file": "missing/I/25947-icarus-1.json"
+    },
+    {
+      "igdb_id": 100963,
+      "game_name": "Ice Age Hunter: Evolution-U",
+      "file": "missing/I/100963-ice-age-hunter-evolution-u.json"
     },
     {
       "igdb_id": 105986,
@@ -232053,6 +232058,11 @@
       "file": "missing/S/100851-super-craft-building-game.json"
     },
     {
+      "igdb_id": 100961,
+      "game_name": "Super Craft: Exploration Survival",
+      "file": "missing/S/100961-super-craft-exploration-survival.json"
+    },
+    {
       "igdb_id": 214764,
       "game_name": "Super Cream 64: The Grand Finale",
       "file": "missing/S/214764-super-cream-64-the-grand-finale.json"
@@ -272346,6 +272356,11 @@
       "igdb_id": 86702,
       "game_name": "US Coin",
       "file": "missing/U/86702-us-coin.json"
+    },
+    {
+      "igdb_id": 100964,
+      "game_name": "US Police ATV Quad Bike Plane Transport Game",
+      "file": "missing/U/100964-us-police-atv-quad-bike-plane-transport-game.json"
     },
     {
       "igdb_id": 338580,
