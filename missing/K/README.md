@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
+| Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
 | Kal | 391591 | [391591-kal.json](./391591-kal.json) |
 | Kalah | 121727 | [121727-kalah.json](./121727-kalah.json) |
@@ -839,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
+| Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
 | Knock on the Coffin Lid | 131645 | [131645-knock-on-the-coffin-lid.json](./131645-knock-on-the-coffin-lid.json) |
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
@@ -1041,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
 | Kumitate Battle: Kuttu Ketto | 70995 | [70995-kumitate-battle-kuttu-ketto.json](./70995-kumitate-battle-kuttu-ketto.json) |
+| Kumo | 120930 | [120930-kumo.json](./120930-kumo.json) |
 | Kumoon: Ballistic Physics Puzzle | 19029 | [19029-kumoon-ballistic-physics-puzzle.json](./19029-kumoon-ballistic-physics-puzzle.json) |
 | Kunai Master | 224024 | [224024-kunai-master.json](./224024-kunai-master.json) |
 | Kunai Strike | 203557 | [203557-kunai-strike.json](./203557-kunai-strike.json) |
