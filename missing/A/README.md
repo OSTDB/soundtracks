@@ -49,7 +49,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gentlemen's Dispute | 311503 | [311503-a-gentlemens-dispute.json](./311503-a-gentlemens-dispute.json) |
-| A Good Gardener | 59423 | [59423-a-good-gardener.json](./59423-a-good-gardener.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
 | A Goomba's Walk | 268187 | [268187-a-goombas-walk.json](./268187-a-goombas-walk.json) |
 | A group of beauties surrounded me | 278176 | [278176-a-group-of-beauties-surrounded-me.json](./278176-a-group-of-beauties-surrounded-me.json) |
