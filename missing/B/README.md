@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
 | BlazBlue: Chrono Phantasma | 5643 | [5643-blazblue-chrono-phantasma.json](./5643-blazblue-chrono-phantasma.json) |
 | BlazBlue: Continuum Shift II | 11611 | [11611-blazblue-continuum-shift-ii.json](./11611-blazblue-continuum-shift-ii.json) |
+| BlazBlue: Continuum Shift II - Manga Edition | 89902 | [89902-blazblue-continuum-shift-ii-manga-edition.json](./89902-blazblue-continuum-shift-ii-manga-edition.json) |
 | BlazBlue: Cross Tag Battle | 51448 | [51448-blazblue-cross-tag-battle.json](./51448-blazblue-cross-tag-battle.json) |
 | BlazBlue: Cross Tag Battle - Additional Character Pack Vol.1 to Vol.7 | 238224 | [238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json](./238224-blazblue-cross-tag-battle-additional-character-pack-vol-1-to-vol-7.json) |
 | BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack | 167318 | [167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json](./167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json) |
@@ -2775,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braveland Heroes | 110344 | [110344-braveland-heroes.json](./110344-braveland-heroes.json) |
 | Bravely Default: Brilliant Lights | 174855 | [174855-bravely-default-brilliant-lights.json](./174855-bravely-default-brilliant-lights.json) |
 | Bravely Default: Fairy's Effect | 25739 | [25739-bravely-default-fairys-effect.json](./25739-bravely-default-fairys-effect.json) |
+| Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
 | Bravery | 391078 | [391078-bravery.json](./391078-bravery.json) |
 | Bravest Burden | 173291 | [173291-bravest-burden.json](./173291-bravest-burden.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
