@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
 | Idle Tap Zoo: Tap, Build & Upg | 245345 | [245345-idle-tap-zoo-tap-build-and-upg.json](./245345-idle-tap-zoo-tap-build-and-upg.json) |
 | Idle Tiers | 369577 | [369577-idle-tiers.json](./369577-idle-tiers.json) |
+| Idle Tower Tycoon | 101522 | [101522-idle-tower-tycoon.json](./101522-idle-tower-tycoon.json) |
 | Idle Traffic Tycoon Game | 227263 | [227263-idle-traffic-tycoon-game.json](./227263-idle-traffic-tycoon-game.json) |
 | Idle Trillionaire | 294137 | [294137-idle-trillionaire.json](./294137-idle-trillionaire.json) |
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
@@ -912,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Integer | 178030 | [178030-integer.json](./178030-integer.json) |
 | Integrifix | 335845 | [335845-integrifix.json](./335845-integrifix.json) |
 | Intelligence: 314th Clash | 58809 | [58809-intelligence-314th-clash.json](./58809-intelligence-314th-clash.json) |
+| Intelligence: Anime Girls | 101638 | [101638-intelligence-anime-girls.json](./101638-intelligence-anime-girls.json) |
 | Intelligence: Dinosaurs | 105277 | [105277-intelligence-dinosaurs.json](./105277-intelligence-dinosaurs.json) |
 | Intelligence: Underwater Kingdom | 110955 | [110955-intelligence-underwater-kingdom.json](./110955-intelligence-underwater-kingdom.json) |
 | Intelligent Design: An Evolutionary Sandbox | 36478 | [36478-intelligent-design-an-evolutionary-sandbox.json](./36478-intelligent-design-an-evolutionary-sandbox.json) |
@@ -1142,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Sky: Invasion - Ultimate Edition | 53256 | [53256-iron-sky-invasion-ultimate-edition.json](./53256-iron-sky-invasion-ultimate-edition.json) |
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
+| Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Works | 383350 | [383350-iron-works.json](./383350-iron-works.json) |
 | IronBorn | 109585 | [109585-ironborn.json](./109585-ironborn.json) |
 | Ironborne | 391038 | [391038-ironborne.json](./391038-ironborne.json) |
