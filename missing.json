@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T20:18:25.599Z",
-  "total_missing": 59222,
+  "generated_at": "2026-09-11T20:20:53.480Z",
+  "total_missing": 59221,
   "games": [
     {
       "igdb_id": 306086,
@@ -2406,11 +2406,6 @@
       "igdb_id": 243418,
       "game_name": "A Shard of Mine",
       "file": "missing/A/243418-a-shard-of-mine.json"
-    },
-    {
-      "igdb_id": 332977,
-      "game_name": "A Short Death",
-      "file": "missing/A/332977-a-short-death.json"
     },
     {
       "igdb_id": 294128,
