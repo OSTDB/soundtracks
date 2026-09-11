@@ -199,7 +199,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games in 1 I Finding Nemo + Finding Nemo: The Continuing Adventures | 130301 | [130301-2-games-in-1-i-finding-nemo-finding-nemo-the-continuing-adventures.json](./130301-2-games-in-1-i-finding-nemo-finding-nemo-the-continuing-adventures.json) |
 | 2 Games in 1: Columns Crown + ChuChu Rocket! | 86052 | [86052-2-games-in-1-columns-crown-chuchu-rocket.json](./86052-2-games-in-1-columns-crown-chuchu-rocket.json) |
 | 2 Games in 1: Disney Princess + Disney's The Lion King | 86045 | [86045-2-games-in-1-disney-princess-disneys-the-lion-king.json](./86045-2-games-in-1-disney-princess-disneys-the-lion-king.json) |
+| 2 Games In 1: Disney's Brother Bear + Disney Princess | 79840 | [79840-2-games-in-1-disneys-brother-bear-disney-princess.json](./79840-2-games-in-1-disneys-brother-bear-disney-princess.json) |
 | 2 Games in 1: Sonic Advance + ChuChu Rocket! | 86053 | [86053-2-games-in-1-sonic-advance-chuchu-rocket.json](./86053-2-games-in-1-sonic-advance-chuchu-rocket.json) |
+| 2 Games in 1: Sonic Pinball Party + Sonic Battle | 79839 | [79839-2-games-in-1-sonic-pinball-party-sonic-battle.json](./79839-2-games-in-1-sonic-pinball-party-sonic-battle.json) |
 | 2 Games in 1: SpongeBob SquarePants: SuperSponge + Rugrats Go Wild! | 82100 | [82100-2-games-in-1-spongebob-squarepants-supersponge-rugrats-go-wild.json](./82100-2-games-in-1-spongebob-squarepants-supersponge-rugrats-go-wild.json) |
 | 2 Games In 1: The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy | 86055 | [86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json](./86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json) |
 | 2 Games in One Double Pack \| Dora the Explorer: Pirate Pig's Treasure & Dora the Explorer: Super Star Adventures | 91427 | [91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json](./91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json) |
@@ -343,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
+| 5 in 1 Mahjong | 79874 | [79874-5-in-1-mahjong.json](./79874-5-in-1-mahjong.json) |
 | 5 In One Fun Pak | 93568 | [93568-5-in-one-fun-pak.json](./93568-5-in-one-fun-pak.json) |
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
 | 5:48AM | 277038 | [277038-5-48am.json](./277038-5-48am.json) |
