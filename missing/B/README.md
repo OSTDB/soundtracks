@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
 | Bin Weevils | 126020 | [126020-bin-weevils.json](./126020-bin-weevils.json) |
 | Binary | 172678 | [172678-binary.json](./172678-binary.json) |
+| Binary Boy | 125407 | [125407-binary-boy.json](./125407-binary-boy.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Binary Quest | 178616 | [178616-binary-quest.json](./178616-binary-quest.json) |
 | Binary Run | 203906 | [203906-binary-run.json](./203906-binary-run.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: Gulliver Syndrome | 188031 | [188031-bridge-to-another-world-gulliver-syndrome.json](./188031-bridge-to-another-world-gulliver-syndrome.json) |
 | Bridge to Another World: Secrets of the Nutcracker | 236819 | [236819-bridge-to-another-world-secrets-of-the-nutcracker.json](./236819-bridge-to-another-world-secrets-of-the-nutcracker.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
+| Bridge! 3: The Construction Game | 125372 | [125372-bridge-3-the-construction-game.json](./125372-bridge-3-the-construction-game.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
@@ -3075,6 +3077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
 | Bulorgus | 149559 | [149559-bulorgus.json](./149559-bulorgus.json) |
 | Bultaneun Yeonghon | 145596 | [145596-bultaneun-yeonghon.json](./145596-bultaneun-yeonghon.json) |
+| Buluk: Mayan Warfare | 125420 | [125420-buluk-mayan-warfare.json](./125420-buluk-mayan-warfare.json) |
 | Bulwark Evolution: Falconeer Chronicles | 214486 | [214486-bulwark-evolution-falconeer-chronicles.json](./214486-bulwark-evolution-falconeer-chronicles.json) |
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bumbledore | 16348 | [16348-bumbledore.json](./16348-bumbledore.json) |
