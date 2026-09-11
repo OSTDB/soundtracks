@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
 | Science Sleuths Vol. 1: Mysteries of the Blob and the Exploding Lawnmowers | 319017 | [319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json](./319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json) |
 | Scientific Shutdown | 156123 | [156123-scientific-shutdown.json](./156123-scientific-shutdown.json) |
+| Scientific Terms Extreme | 107125 | [107125-scientific-terms-extreme.json](./107125-scientific-terms-extreme.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
@@ -707,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
 | Scribble | 290697 | [290697-scribble.json](./290697-scribble.json) |
+| Scribble Adventure Unlimited | 107126 | [107126-scribble-adventure-unlimited.json](./107126-scribble-adventure-unlimited.json) |
 | Scribble Hero | 382203 | [382203-scribble-hero.json](./382203-scribble-hero.json) |
 | Scribble Shooter | 21152 | [21152-scribble-shooter.json](./21152-scribble-shooter.json) |
 | Scribbleman Army | 217026 | [217026-scribbleman-army.json](./217026-scribbleman-army.json) |
@@ -976,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
 | Sekai no Chuushin de Mawaru | 260687 | [260687-sekai-no-chuushin-de-mawaru.json](./260687-sekai-no-chuushin-de-mawaru.json) |
+| Sekai Saikyou Ginsei Igo | 107136 | [107136-sekai-saikyou-ginsei-igo.json](./107136-sekai-saikyou-ginsei-igo.json) |
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
@@ -2484,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
+| Sliding Puzzle Blue | 107132 | [107132-sliding-puzzle-blue.json](./107132-sliding-puzzle-blue.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
@@ -3881,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan X | 214523 | [214523-spartan-x.json](./214523-spartan-x.json) |
 | Spartan X 2 | 48650 | [48650-spartan-x-2.json](./48650-spartan-x-2.json) |
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
+| Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
 | Spatial Ops | 324913 | [324913-spatial-ops.json](./324913-spatial-ops.json) |
 | Spatium Locus | 139361 | [139361-spatium-locus.json](./139361-spatium-locus.json) |
 | Spattle Cats | 115045 | [115045-spattle-cats.json](./115045-spattle-cats.json) |
@@ -4968,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve Reich’s Clapping Music | 312322 | [312322-steve-reich-s-clapping-music.json](./312322-steve-reich-s-clapping-music.json) |
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
 | Steve's HardCore WorldTour | 153973 | [153973-steves-hardcore-worldtour.json](./153973-steves-hardcore-worldtour.json) |
+| Steven Universe: Save the Light & OK K.O.! Let's Play Heroes Combo Pack | 107150 | [107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json](./107150-steven-universe-save-the-light-and-ok-k-o-lets-play-heroes-combo-pack.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
