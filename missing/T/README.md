@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Bell: Tasty Temple Challenge | 11008 | [11008-taco-bell-tasty-temple-challenge.json](./11008-taco-bell-tasty-temple-challenge.json) |
 | Taco Break | 187510 | [187510-taco-break.json](./187510-taco-break.json) |
 | Taco Break: Head to Head | 214527 | [214527-taco-break-head-to-head.json](./214527-taco-break-head-to-head.json) |
+| Taco Cat Taco | 100759 | [100759-taco-cat-taco.json](./100759-taco-cat-taco.json) |
 | Taco Joe: Endless Taco Tosser | 268451 | [268451-taco-joe-endless-taco-tosser.json](./268451-taco-joe-endless-taco-tosser.json) |
 | Taco Tom 2 | 113047 | [113047-taco-tom-2.json](./113047-taco-tom-2.json) |
 | Taco: Princess from the Moon | 166162 | [166162-taco-princess-from-the-moon.json](./166162-taco-princess-from-the-moon.json) |
@@ -2663,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
+| The Most Addicting Sheep Game | 100730 | [100730-the-most-addicting-sheep-game.json](./100730-the-most-addicting-sheep-game.json) |
 | The Most Awesome Game Ever Made | 221758 | [221758-the-most-awesome-game-ever-made.json](./221758-the-most-awesome-game-ever-made.json) |
 | The Most Beautiful Room in the World | 273413 | [273413-the-most-beautiful-room-in-the-world.json](./273413-the-most-beautiful-room-in-the-world.json) |
 | The Most Searched Playground | 280229 | [280229-the-most-searched-playground.json](./280229-the-most-searched-playground.json) |
@@ -5282,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
 | Toymaker | 10941 | [10941-toymaker.json](./10941-toymaker.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
+| Toys Jigsaw Puzzle | 100748 | [100748-toys-jigsaw-puzzle.json](./100748-toys-jigsaw-puzzle.json) |
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
