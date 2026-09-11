@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Snails | 68696 | [68696-epic-snails.json](./68696-epic-snails.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
 | Epic Walk | 324881 | [324881-epic-walk.json](./324881-epic-walk.json) |
+| Epic War 1 | 86057 | [86057-epic-war-1.json](./86057-epic-war-1.json) |
 | Epic Zombies | 293620 | [293620-epic-zombies.json](./293620-epic-zombies.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
