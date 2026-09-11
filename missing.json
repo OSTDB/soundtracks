@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T07:34:52.720Z",
-  "total_missing": 57083,
+  "generated_at": "2026-09-11T07:41:07.149Z",
+  "total_missing": 57082,
   "games": [
     {
       "igdb_id": 306086,
@@ -2006,11 +2006,6 @@
       "igdb_id": 171034,
       "game_name": "A Game of Dwarves: Star Dwarves",
       "file": "missing/A/171034-a-game-of-dwarves-star-dwarves.json"
-    },
-    {
-      "igdb_id": 308544,
-      "game_name": "A Game of Turnabouts",
-      "file": "missing/A/308544-a-game-of-turnabouts.json"
     },
     {
       "igdb_id": 298889,
