@@ -3036,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Brawl: Ahlman Edition | 253354 | [253354-bucket-brawl-ahlman-edition.json](./253354-bucket-brawl-ahlman-edition.json) |
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
 | Bud Farm: Munchie Match | 245347 | [245347-bud-farm-munchie-match.json](./245347-bud-farm-munchie-match.json) |
+| Bud of Frenzy and Instinct | 108946 | [108946-bud-of-frenzy-and-instinct.json](./108946-bud-of-frenzy-and-instinct.json) |
 | Bud Redhead: The Time Chase | 71558 | [71558-bud-redhead-the-time-chase.json](./71558-bud-redhead-the-time-chase.json) |
 | Buddi Bot: Your Machine Learning AI Helper With Advanced Neural Networking! | 166720 | [166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json](./166720-buddi-bot-your-machine-learning-ai-helper-with-advanced-neural-networking.json) |
 | Budding Destiny | 316649 | [316649-budding-destiny.json](./316649-budding-destiny.json) |
@@ -3252,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
 | Burst Planet | 161393 | [161393-burst-planet.json](./161393-burst-planet.json) |
 | Burst the Game | 28929 | [28929-burst-the-game.json](./28929-burst-the-game.json) |
+| Burujiru | 108997 | [108997-burujiru.json](./108997-burujiru.json) |
 | Bury Your Gays | 269864 | [269864-bury-your-gays.json](./269864-bury-your-gays.json) |
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
 | Bus Driving Sim 22 | 203890 | [203890-bus-driving-sim-22.json](./203890-bus-driving-sim-22.json) |
