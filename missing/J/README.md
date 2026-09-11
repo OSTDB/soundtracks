@@ -588,7 +588,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpOut | 300987 | [300987-jumpout.json](./300987-jumpout.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
 | JumpStart 3D Virtual World: Trouble in Town | 200191 | [200191-jumpstart-3d-virtual-world-trouble-in-town.json](./200191-jumpstart-3d-virtual-world-trouble-in-town.json) |
+| JumpStart Adventures 4th Grade: Haunted Island | 129146 | [129146-jumpstart-adventures-4th-grade-haunted-island.json](./129146-jumpstart-adventures-4th-grade-haunted-island.json) |
+| JumpStart Explorers | 129149 | [129149-jumpstart-explorers.json](./129149-jumpstart-explorers.json) |
 | JumpStart Math for Kindergarteners | 300415 | [300415-jumpstart-math-for-kindergarteners.json](./300415-jumpstart-math-for-kindergarteners.json) |
+| JumpStart Math for Second Graders | 129147 | [129147-jumpstart-math-for-second-graders.json](./129147-jumpstart-math-for-second-graders.json) |
 | JumpStart Preschool | 315521 | [315521-jumpstart-preschool.json](./315521-jumpstart-preschool.json) |
 | JumpStart Reading for Second Graders | 144929 | [144929-jumpstart-reading-for-second-graders.json](./144929-jumpstart-reading-for-second-graders.json) |
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
