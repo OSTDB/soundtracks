@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: A MudRunner Game - The Great Don 71 | 289860 | [289860-expeditions-a-mudrunner-game-the-great-don-71.json](./289860-expeditions-a-mudrunner-game-the-great-don-71.json) |
 | Expeditions: Conquistador | 16523 | [16523-expeditions-conquistador.json](./16523-expeditions-conquistador.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
+| Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
 | Expert on Domestication | 152850 | [152850-expert-on-domestication.json](./152850-expert-on-domestication.json) |
