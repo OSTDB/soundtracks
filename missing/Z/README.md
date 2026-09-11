@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies TD | 213404 | [213404-zombies-td.json](./213404-zombies-td.json) |
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
 | Zombies vs. You | 289339 | [289339-zombies-vs-you.json](./289339-zombies-vs-you.json) |
+| Zombies War | 118341 | [118341-zombies-war.json](./118341-zombies-war.json) |
 | Zombies! | 335649 | [335649-zombies.json](./335649-zombies.json) |
 | Zombies!!! Board Game: NotDeadYet | 289340 | [289340-zombies-board-game-notdeadyet.json](./289340-zombies-board-game-notdeadyet.json) |
 | Zombies.io | 130359 | [130359-zombies-io.json](./130359-zombies-io.json) |
