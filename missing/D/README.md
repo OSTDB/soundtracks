@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
 | Der Gesundheits Coach: Wohlfuhlen jeden Tag | 269579 | [269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json](./269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json) |
 | Der Große Preis von Raddorf | 98955 | [98955-der-gro-e-preis-von-raddorf.json](./98955-der-gro-e-preis-von-raddorf.json) |
+| Der Planer 3 | 92964 | [92964-der-planer-3.json](./92964-der-planer-3.json) |
 | Der Wanderer über dem Säuremeer | 271231 | [271231-der-wanderer-uber-dem-sauremeer.json](./271231-der-wanderer-uber-dem-sauremeer.json) |
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
 | Der Zorn Gottes | 308241 | [308241-der-zorn-gottes.json](./308241-der-zorn-gottes.json) |
@@ -1695,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
 | Dinosaur Museum | 378176 | [378176-dinosaur-museum.json](./378176-dinosaur-museum.json) |
 | Dinosaur Rampage - Trex | 87716 | [87716-dinosaur-rampage-trex.json](./87716-dinosaur-rampage-trex.json) |
+| Dinosaur Resurrection | 92988 | [92988-dinosaur-resurrection.json](./92988-dinosaur-resurrection.json) |
 | Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
