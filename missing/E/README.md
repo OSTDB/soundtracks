@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Tactics | 171571 | [171571-eastern-tactics.json](./171571-eastern-tactics.json) |
 | Eastwind Adventures: Chapter 1 | 311792 | [311792-eastwind-adventures-chapter-1.json](./311792-eastwind-adventures-chapter-1.json) |
 | Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
+| Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy puzzle: Bridges | 248921 | [248921-easy-puzzle-bridges.json](./248921-easy-puzzle-bridges.json) |
 | Easy puzzle: Landscape | 248928 | [248928-easy-puzzle-landscape.json](./248928-easy-puzzle-landscape.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
@@ -975,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: The Talos Principle DLC | 321346 | [321346-escape-simulator-the-talos-principle-dlc.json](./321346-escape-simulator-the-talos-principle-dlc.json) |
 | Escape The Aquarium | 294132 | [294132-escape-the-aquarium.json](./294132-escape-the-aquarium.json) |
 | Escape the Backrooms Bodycam | 360006 | [360006-escape-the-backrooms-bodycam.json](./360006-escape-the-backrooms-bodycam.json) |
+| Escape the Challenge | 120973 | [120973-escape-the-challenge.json](./120973-escape-the-challenge.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
 | Escape the Farm | 274486 | [274486-escape-the-farm.json](./274486-escape-the-farm.json) |
 | Escape the Floor | 329011 | [329011-escape-the-floor.json](./329011-escape-the-floor.json) |
@@ -1209,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
+| Everyone Goes Home | 120926 | [120926-everyone-goes-home.json](./120926-everyone-goes-home.json) |
 | Everything Else | 177575 | [177575-everything-else.json](./177575-everything-else.json) |
 | Everything Explosive | 137594 | [137594-everything-explosive.json](./137594-everything-explosive.json) |
 | Everything I Do is Art, But Nothing I Do Makes Any Difference, Part II Or: How I Learned to Stop Worrying and Love the Gallery | 180254 | [180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json](./180254-everything-i-do-is-art-but-nothing-i-do-makes-any-difference-part-ii-or-how-i-learned-to-stop-worrying-and-love-the-gallery.json) |
