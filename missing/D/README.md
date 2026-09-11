@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C.K.: Dock Chess King | 244251 | [244251-d-c-k-dock-chess-king.json](./244251-d-c-k-dock-chess-king.json) |
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
+| D.H.Zombie Zone | 117693 | [117693-d-h-zombie-zone.json](./117693-d-h-zombie-zone.json) |
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
 | D.O.A.S.: Department of Applied Science | 184601 | [184601-d-o-a-s-department-of-applied-science.json](./184601-d-o-a-s-department-of-applied-science.json) |
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
@@ -784,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
+| DeathMatch | 117685 | [117685-deathmatch.json](./117685-deathmatch.json) |
 | Deathmatch Classic | 9073 | [9073-deathmatch-classic.json](./9073-deathmatch-classic.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
@@ -1821,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
 | Divine Business: Fantasy Trading Simulator | 113744 | [113744-divine-business-fantasy-trading-simulator.json](./113744-divine-business-fantasy-trading-simulator.json) |
+| Divine D.I.V.A. | 117684 | [117684-divine-d-i-v-a.json](./117684-divine-d-i-v-a.json) |
 | Divine Doubt | 278707 | [278707-divine-doubt.json](./278707-divine-doubt.json) |
 | Divine Dynamo Flamefrit | 309095 | [309095-divine-dynamo-flamefrit.json](./309095-divine-dynamo-flamefrit.json) |
 | Divine Gate Zero | 227486 | [227486-divine-gate-zero.json](./227486-divine-gate-zero.json) |
@@ -2483,7 +2486,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Sparking! Zero - Season Pass Bonus | 375181 | [375181-dragon-ball-sparking-zero-season-pass-bonus.json](./375181-dragon-ball-sparking-zero-season-pass-bonus.json) |
 | Dragon Ball: Sparking! Zero - Super Limit-Breaking NEO | 375182 | [375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json](./375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json) |
 | Dragon Ball: Strongest Warrior | 174895 | [174895-dragon-ball-strongest-warrior.json](./174895-dragon-ball-strongest-warrior.json) |
+| Dragon Ball: Xenoverse 2 - Extra Pass | 117657 | [117657-dragon-ball-xenoverse-2-extra-pass.json](./117657-dragon-ball-xenoverse-2-extra-pass.json) |
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
+| Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
