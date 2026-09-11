@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laf the game | 226204 | [226204-laf-the-game.json](./226204-laf-the-game.json) |
 | Laffy Taffy Long-Lasting 3D Pyramid Challenge | 373555 | [373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json](./373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json) |
 | Lafuma Unlimit 2 | 94694 | [94694-lafuma-unlimit-2.json](./94694-lafuma-unlimit-2.json) |
+| Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
 | Lagoon Lounge: The Poisonous Fountain | 102437 | [102437-lagoon-lounge-the-poisonous-fountain.json](./102437-lagoon-lounge-the-poisonous-fountain.json) |
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
