@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chousoku Shoujo: Hypersonic Speed Girl | 97906 | [97906-chousoku-shoujo-hypersonic-speed-girl.json](./97906-chousoku-shoujo-hypersonic-speed-girl.json) |
 | Chowdown Kitty | 301284 | [301284-chowdown-kitty.json](./301284-chowdown-kitty.json) |
 | Chozetsu Rinjin Berabo Man | 42038 | [42038-chozetsu-rinjin-berabo-man.json](./42038-chozetsu-rinjin-berabo-man.json) |
+| Chris Brackett's Kamikaze Karp | 101490 | [101490-chris-bracketts-kamikaze-karp.json](./101490-chris-bracketts-kamikaze-karp.json) |
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
 | Christmas Adventures: A Winter Night's Dream | 163921 | [163921-christmas-adventures-a-winter-nights-dream.json](./163921-christmas-adventures-a-winter-nights-dream.json) |
@@ -1672,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
+| City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
 | City of Cards | 171555 | [171555-city-of-cards.json](./171555-city-of-cards.json) |
 | City of Chains | 34177 | [34177-city-of-chains.json](./34177-city-of-chains.json) |
 | City of Corals | 257970 | [257970-city-of-corals.json](./257970-city-of-corals.json) |
@@ -3361,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Realms | 32510 | [32510-cthulhu-realms.json](./32510-cthulhu-realms.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
+| Ctrl CV | 101514 | [101514-ctrl-cv.json](./101514-ctrl-cv.json) |
 | Ctrl-U | 272863 | [272863-ctrl-u.json](./272863-ctrl-u.json) |
 | Ctrl.Alt.Deal | 291738 | [291738-ctrl-alt-deal.json](./291738-ctrl-alt-deal.json) |
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
