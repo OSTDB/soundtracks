@@ -101,7 +101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
-| A Stray Line | 388733 | [388733-a-stray-line.json](./388733-a-stray-line.json) |
 | A Summer in Our Hearts | 338171 | [338171-a-summer-in-our-hearts.json](./338171-a-summer-in-our-hearts.json) |
 | A Tale about Tail | 185079 | [185079-a-tale-about-tail.json](./185079-a-tale-about-tail.json) |
 | A Tale In The Garden | 332404 | [332404-a-tale-in-the-garden.json](./332404-a-tale-in-the-garden.json) |
@@ -649,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Dancing I | 267380 | [267380-aero-dancing-i.json](./267380-aero-dancing-i.json) |
 | Aero Dancing I: Jikai Saku made Matemasen | 267382 | [267382-aero-dancing-i-jikai-saku-made-matemasen.json](./267382-aero-dancing-i-jikai-saku-made-matemasen.json) |
 | Aero Fighters | 306980 | [306980-aero-fighters.json](./306980-aero-fighters.json) |
+| Aero Style | 79884 | [79884-aero-style.json](./79884-aero-style.json) |
 | Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | AeroChopper | 99034 | [99034-aerochopper.json](./99034-aerochopper.json) |
