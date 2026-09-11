@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
 | Rancid | 124234 | [124234-rancid.json](./124234-rancid.json) |
 | Rand-O-mazE | 110359 | [110359-rand-o-maze.json](./110359-rand-o-maze.json) |
+| Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Random Deck | 341309 | [341309-random-deck.json](./341309-random-deck.json) |
 | Random Dice | 137650 | [137650-random-dice.json](./137650-random-dice.json) |
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
+| Rising Lands | 94667 | [94667-rising-lands.json](./94667-rising-lands.json) |
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
@@ -1893,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roka Blocks Game - Fun & Hexagon Puzzle | 57690 | [57690-roka-blocks-game-fun-and-hexagon-puzzle.json](./57690-roka-blocks-game-fun-and-hexagon-puzzle.json) |
 | Roko-Loko no Castelo do Ratozinger Remix | 78042 | [78042-roko-loko-no-castelo-do-ratozinger-remix.json](./78042-roko-loko-no-castelo-do-ratozinger-remix.json) |
 | Rokumon Tengai Mon Colle Knight GB | 282584 | [282584-rokumon-tengai-mon-colle-knight-gb.json](./282584-rokumon-tengai-mon-colle-knight-gb.json) |
+| Rolaball | 94693 | [94693-rolaball.json](./94693-rolaball.json) |
 | Rolando | 23029 | [23029-rolando.json](./23029-rolando.json) |
 | Rolando: Deluxe Edition | 236539 | [236539-rolando-deluxe-edition.json](./236539-rolando-deluxe-edition.json) |
 | Role in the Hole | 20595 | [20595-role-in-the-hole.json](./20595-role-in-the-hole.json) |
