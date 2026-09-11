@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made Marion | 148518 | [148518-made-marion.json](./148518-made-marion.json) |
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
 | Madievals | 120378 | [120378-madievals.json](./120378-madievals.json) |
+| Madland | 121598 | [121598-madland.json](./121598-madland.json) |
 | Madman | 272280 | [272280-madman.json](./272280-madman.json) |
 | Madness | 309846 | [309846-madness.json](./309846-madness.json) |
 | Madness Below | 326619 | [326619-madness-below.json](./326619-madness-below.json) |
@@ -1525,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mend Arcade Battle | 169959 | [169959-mend-arcade-battle.json](./169959-mend-arcade-battle.json) |
 | Mendalos | 191835 | [191835-mendalos.json](./191835-mendalos.json) |
 | Mendel Palace | 48052 | [48052-mendel-palace.json](./48052-mendel-palace.json) |
+| Mendel's Garden | 121691 | [121691-mendels-garden.json](./121691-mendels-garden.json) |
 | Méng Chǒng Xīyóu | 367432 | [367432-meng-chong-xiyou.json](./367432-meng-chong-xiyou.json) |
 | Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
@@ -2238,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
 | Mini Leap | 209707 | [209707-mini-leap.json](./209707-mini-leap.json) |
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
+| Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Motor Racing X | 126194 | [126194-mini-motor-racing-x.json](./126194-mini-motor-racing-x.json) |
 | Mini Motor Racing X: Digital Deluxe Edition | 132167 | [132167-mini-motor-racing-x-digital-deluxe-edition.json](./132167-mini-motor-racing-x-digital-deluxe-edition.json) |
