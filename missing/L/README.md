@@ -1547,6 +1547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotto Fun | 312352 | [312352-lotto-fun.json](./312352-lotto-fun.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus Minigames: Berlin Traffic | 120420 | [120420-lotus-minigames-berlin-traffic.json](./120420-lotus-minigames-berlin-traffic.json) |
+| Lotus Minigames: United Nations | 114355 | [114355-lotus-minigames-united-nations.json](./114355-lotus-minigames-united-nations.json) |
 | Lotus Simulator: Addon - Düsseldorf 1981 | 167754 | [167754-lotus-simulator-addon-dusseldorf-1981.json](./167754-lotus-simulator-addon-dusseldorf-1981.json) |
 | Lotus Simulator: Module - Rails of Lotus | 167757 | [167757-lotus-simulator-module-rails-of-lotus.json](./167757-lotus-simulator-module-rails-of-lotus.json) |
 | Lotus Simulator: Module - Streets of Lotus | 167756 | [167756-lotus-simulator-module-streets-of-lotus.json](./167756-lotus-simulator-module-streets-of-lotus.json) |
