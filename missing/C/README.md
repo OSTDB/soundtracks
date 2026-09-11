@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafting in Berxley | 412982 | [412982-crafting-in-berxley.json](./412982-crafting-in-berxley.json) |
 | Crafting Story | 175326 | [175326-crafting-story.json](./175326-crafting-story.json) |
 | Crafting Town | 199660 | [199660-crafting-town.json](./199660-crafting-town.json) |
+| Craftmas | 105981 | [105981-craftmas.json](./105981-craftmas.json) |
 | CraftOut | 149016 | [149016-craftout.json](./149016-craftout.json) |
 | Craftsman Story | 384524 | [384524-craftsman-story.json](./384524-craftsman-story.json) |
 | Crafty | 157157 | [157157-crafty.json](./157157-crafty.json) |
@@ -2961,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
 | Crazy Flasher Series 2021 | 157146 | [157146-crazy-flasher-series-2021.json](./157146-crazy-flasher-series-2021.json) |
+| Crazy for Speed 2 | 105872 | [105872-crazy-for-speed-2.json](./105872-crazy-for-speed-2.json) |
 | Crazy Forest 2 | 111684 | [111684-crazy-forest-2.json](./111684-crazy-forest-2.json) |
 | Crazy Frog Collectables: Art School | 140549 | [140549-crazy-frog-collectables-art-school.json](./140549-crazy-frog-collectables-art-school.json) |
 | Crazy Frog Racer | 20483 | [20483-crazy-frog-racer.json](./20483-crazy-frog-racer.json) |
