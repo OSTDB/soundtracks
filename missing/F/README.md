@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud | 320767 | [320767-family-feud.json](./320767-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
+| Family Games Compendium | 79241 | [79241-family-games-compendium.json](./79241-family-games-compendium.json) |
 | Family Guy Pinball | 81362 | [81362-family-guy-pinball.json](./81362-family-guy-pinball.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
@@ -1172,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
+| Fish Tank | 79228 | [79228-fish-tank.json](./79228-fish-tank.json) |
 | Fish Tank Live | 230849 | [230849-fish-tank-live.json](./230849-fish-tank-live.json) |
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
@@ -1417,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
 | Flick Arena | 104094 | [104094-flick-arena.json](./104094-flick-arena.json) |
 | Flick Erasers Battle Royale | 315834 | [315834-flick-erasers-battle-royale.json](./315834-flick-erasers-battle-royale.json) |
+| Flick Fishing | 79238 | [79238-flick-fishing.json](./79238-flick-fishing.json) |
 | Flick Home Run ! HD | 89537 | [89537-flick-home-run-hd.json](./89537-flick-home-run-hd.json) |
 | Flick Kick Football Legends | 305151 | [305151-flick-kick-football-legends.json](./305151-flick-kick-football-legends.json) |
 | Flick Shoot | 117727 | [117727-flick-shoot.json](./117727-flick-shoot.json) |
@@ -2343,6 +2346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fromage | 222913 | [222913-fromage.json](./222913-fromage.json) |
 | Fromage | 326059 | [326059-fromage.json](./326059-fromage.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
+| Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
 | Front Office Card Games: Up and Down the River | 67995 | [67995-front-office-card-games-up-and-down-the-river.json](./67995-front-office-card-games-up-and-down-the-river.json) |
 | Front Office Football 2 | 68051 | [68051-front-office-football-2.json](./68051-front-office-football-2.json) |
