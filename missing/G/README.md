@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowgrass | 221941 | [221941-glowgrass.json](./221941-glowgrass.json) |
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
 | Glowkeeper | 337078 | [337078-glowkeeper.json](./337078-glowkeeper.json) |
+| GlowyJump | 129732 | [129732-glowyjump.json](./129732-glowyjump.json) |
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
@@ -965,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Survivors | 261783 | [261783-goblin-survivors.json](./261783-goblin-survivors.json) |
 | Goblin Takes No Argument[s] | 172163 | [172163-goblin-takes-no-argument-s.json](./172163-goblin-takes-no-argument-s.json) |
 | Goblin Times | 127378 | [127378-goblin-times.json](./127378-goblin-times.json) |
+| Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
 | Goblin.Life | 172190 | [172190-goblin-life.json](./172190-goblin-life.json) |
 | Goblin's Bizarre Adventure | 273644 | [273644-goblins-bizarre-adventure.json](./273644-goblins-bizarre-adventure.json) |
 | Goblin's Expedition | 217014 | [217014-goblins-expedition.json](./217014-goblins-expedition.json) |
@@ -1899,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
+| Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
 | Guns'n'Glory Zombies | 296073 | [296073-gunsnglory-zombies.json](./296073-gunsnglory-zombies.json) |
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
