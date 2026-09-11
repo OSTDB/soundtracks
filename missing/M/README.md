@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana Valley | 211189 | [211189-mana-valley.json](./211189-mana-valley.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
+| Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
 | Manascape | 257933 | [257933-manascape.json](./257933-manascape.json) |
@@ -2233,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Tennis | 242560 | [242560-mini-tennis.json](./242560-mini-tennis.json) |
 | Mini Tennis Club | 298308 | [298308-mini-tennis-club.json](./298308-mini-tennis-club.json) |
 | Mini Toss | 323159 | [323159-mini-toss.json](./323159-mini-toss.json) |
+| Mini Transport | 129742 | [129742-mini-transport.json](./129742-mini-transport.json) |
 | Mini Warrior Defense | 404217 | [404217-mini-warrior-defense.json](./404217-mini-warrior-defense.json) |
 | Mini Warriors: Three Kingdoms | 196305 | [196305-mini-warriors-three-kingdoms.json](./196305-mini-warriors-three-kingdoms.json) |
 | Mini Wheels | 83591 | [83591-mini-wheels.json](./83591-mini-wheels.json) |
@@ -2424,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
+| Mistaker | 129713 | [129713-mistaker.json](./129713-mistaker.json) |
 | Mistbound | 370667 | [370667-mistbound.json](./370667-mistbound.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
