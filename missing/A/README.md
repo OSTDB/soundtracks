@@ -63,9 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Light in the Dark | 87686 | [87686-a-light-in-the-dark.json](./87686-a-light-in-the-dark.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
-| A Little Physics Roguelike | 389960 | [389960-a-little-physics-roguelike.json](./389960-a-little-physics-roguelike.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
-| A Little to the Left: Trick or Tidy | 321177 | [321177-a-little-to-the-left-trick-or-tidy.json](./321177-a-little-to-the-left-trick-or-tidy.json) |
 | A Living Room | 293082 | [293082-a-living-room.json](./293082-a-living-room.json) |
 | A Lone Piece | 235979 | [235979-a-lone-piece.json](./235979-a-lone-piece.json) |
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
