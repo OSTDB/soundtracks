@@ -3015,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solitaire | 243701 | [243701-solitaire.json](./243701-solitaire.json) |
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
+| Solitaire & Mahjong | 117660 | [117660-solitaire-and-mahjong.json](./117660-solitaire-and-mahjong.json) |
 | Solitaire After Hours | 386147 | [386147-solitaire-after-hours.json](./386147-solitaire-after-hours.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
 | Solitaire Classic | 277564 | [277564-solitaire-classic.json](./277564-solitaire-classic.json) |
@@ -3882,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed & Precision Collection | 328484 | [328484-speed-and-precision-collection.json](./328484-speed-and-precision-collection.json) |
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
+| Speed Builder | 117672 | [117672-speed-builder.json](./117672-speed-builder.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
 | Speed Dating for Ghosts | 75799 | [75799-speed-dating-for-ghosts.json](./75799-speed-dating-for-ghosts.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
@@ -5510,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
 | Summon Night Ex-These: Yoake no Tsubasa | 69844 | [69844-summon-night-ex-these-yoake-no-tsubasa.json](./69844-summon-night-ex-these-yoake-no-tsubasa.json) |
 | Summon Night: Swordcraft Story 2 | 6616 | [6616-summon-night-swordcraft-story-2.json](./6616-summon-night-swordcraft-story-2.json) |
+| Summon of Asmodeus | 117652 | [117652-summon-of-asmodeus.json](./117652-summon-of-asmodeus.json) |
 | Summon Quest | 291980 | [291980-summon-quest.json](./291980-summon-quest.json) |
 | Summoned by a Magic Goddess | 206152 | [206152-summoned-by-a-magic-goddess.json](./206152-summoned-by-a-magic-goddess.json) |
 | Summoner's Gambit | 353894 | [353894-summoners-gambit.json](./353894-summoners-gambit.json) |
@@ -6359,6 +6362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
 | Survive and Revenge | 236285 | [236285-survive-and-revenge.json](./236285-survive-and-revenge.json) |
 | Survive Avalon | 158709 | [158709-survive-avalon.json](./158709-survive-avalon.json) |
+| Survive in a little bit | 117698 | [117698-survive-in-a-little-bit.json](./117698-survive-in-a-little-bit.json) |
 | Survive or Thrive | 148521 | [148521-survive-or-thrive.json](./148521-survive-or-thrive.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
@@ -6567,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Unleash Blading | 318998 | [318998-sword-art-online-unleash-blading.json](./318998-sword-art-online-unleash-blading.json) |
 | Sword Chronicles: Awaken | 262378 | [262378-sword-chronicles-awaken.json](./262378-sword-chronicles-awaken.json) |
 | Sword Coast Legends: Digital Deluxe Edition | 54422 | [54422-sword-coast-legends-digital-deluxe-edition.json](./54422-sword-coast-legends-digital-deluxe-edition.json) |
+| Sword Dancer | 117673 | [117673-sword-dancer.json](./117673-sword-dancer.json) |
 | Sword Daughter | 35937 | [35937-sword-daughter.json](./35937-sword-daughter.json) |
 | Sword Fight | 289876 | [289876-sword-fight.json](./289876-sword-fight.json) |
 | Sword of Atlas | 188565 | [188565-sword-of-atlas.json](./188565-sword-of-atlas.json) |
