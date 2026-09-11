@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T07:01:16.086Z",
-  "total_missing": 56986,
+  "generated_at": "2026-09-11T07:11:06.606Z",
+  "total_missing": 56985,
   "games": [
     {
       "igdb_id": 306086,
@@ -1991,11 +1991,6 @@
       "igdb_id": 142477,
       "game_name": "A Fox Tale",
       "file": "missing/A/142477-a-fox-tale.json"
-    },
-    {
-      "igdb_id": 211397,
-      "game_name": "A Frog's Job",
-      "file": "missing/A/211397-a-frogs-job.json"
     },
     {
       "igdb_id": 364521,
