@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of the Wasteland | 157137 | [157137-rage-of-the-wasteland.json](./157137-rage-of-the-wasteland.json) |
+| Rage Quest: The Worst Game | 81254 | [81254-rage-quest-the-worst-game.json](./81254-rage-quest-the-worst-game.json) |
 | Rage Racer | 18698 | [18698-rage-racer.json](./18698-rage-racer.json) |
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
@@ -708,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
+| Red Flu | 81217 | [81217-red-flu.json](./81217-red-flu.json) |
 | Red Fox and the Four Seasons | 148529 | [148529-red-fox-and-the-four-seasons.json](./148529-red-fox-and-the-four-seasons.json) |
 | Red Fox and the Four Seasons: Design My Forest 2 | 215895 | [215895-red-fox-and-the-four-seasons-design-my-forest-2.json](./215895-red-fox-and-the-four-seasons-design-my-forest-2.json) |
 | Red Fox: Exploration on the the Red Fox Island | 358886 | [358886-red-fox-exploration-on-the-the-red-fox-island.json](./358886-red-fox-exploration-on-the-the-red-fox-island.json) |
@@ -1478,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise & Reign | 277277 | [277277-rise-and-reign.json](./277277-rise-and-reign.json) |
 | Rise & Shine | 6732 | [6732-rise-and-shine.json](./6732-rise-and-shine.json) |
 | Rise Again | 248885 | [248885-rise-again.json](./248885-rise-again.json) |
+| Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
 | Rise of Chi | 384506 | [384506-rise-of-chi.json](./384506-rise-of-chi.json) |
 | Rise of Cyber | 237628 | [237628-rise-of-cyber.json](./237628-rise-of-cyber.json) |
