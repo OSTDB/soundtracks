@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Light in the Dark | 87686 | [87686-a-light-in-the-dark.json](./87686-a-light-in-the-dark.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
+| A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Living Room | 293082 | [293082-a-living-room.json](./293082-a-living-room.json) |
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
@@ -474,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Fundum | 273626 | [273626-ad-fundum.json](./273626-ad-fundum.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ada and Cal | 165676 | [165676-ada-and-cal.json](./165676-ada-and-cal.json) |
+| Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
@@ -2223,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
 | Arabian Nights | 111656 | [111656-arabian-nights.json](./111656-arabian-nights.json) |
 | Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
+| Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
 | Arachnoid | 23886 | [23886-arachnoid.json](./23886-arachnoid.json) |
 | Aracnidium | 193462 | [193462-aracnidium.json](./193462-aracnidium.json) |
 | Aragami | 18853 | [18853-aragami.json](./18853-aragami.json) |
