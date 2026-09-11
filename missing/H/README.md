@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handball Action Total | 76617 | [76617-handball-action-total.json](./76617-handball-action-total.json) |
 | Handball Manager 2022 | 193497 | [193497-handball-manager-2022.json](./193497-handball-manager-2022.json) |
 | Handdogg | 185154 | [185154-handdogg.json](./185154-handdogg.json) |
+| Handheld Pinball - Robot, Pirate, & Holiday Themes | 108452 | [108452-handheld-pinball-robot-pirate-and-holiday-themes.json](./108452-handheld-pinball-robot-pirate-and-holiday-themes.json) |
 | Hands of the Killer | 150096 | [150096-hands-of-the-killer.json](./150096-hands-of-the-killer.json) |
 | Hands of Time | 49927 | [49927-hands-of-time.json](./49927-hands-of-time.json) |
 | Hands On! Tangrams | 48043 | [48043-hands-on-tangrams.json](./48043-hands-on-tangrams.json) |
@@ -875,6 +876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help | 30931 | [30931-help.json](./30931-help.json) |
 | Help Bipboop | 275330 | [275330-help-bipboop.json](./275330-help-bipboop.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
+| Help Me Escape! The Puzzle Maker's Office | 108438 | [108438-help-me-escape-the-puzzle-makers-office.json](./108438-help-me-escape-the-puzzle-makers-office.json) |
 | Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
 | Help Yourself | 153993 | [153993-help-yourself.json](./153993-help-yourself.json) |
 | Help, I cast the wrong spell! | 180802 | [180802-help-i-cast-the-wrong-spell.json](./180802-help-i-cast-the-wrong-spell.json) |
@@ -1151,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagon Hamlet | 183529 | [183529-hexagon-hamlet.json](./183529-hexagon-hamlet.json) |
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
+| Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
 | Hexameron: Phase One | 271773 | [271773-hexameron-phase-one.json](./271773-hexameron-phase-one.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
@@ -1359,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
+| Highway Driving Simulator | 108449 | [108449-highway-driving-simulator.json](./108449-highway-driving-simulator.json) |
 | Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
