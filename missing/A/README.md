@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Champions: Gun Shooter Simulator | 205025 | [205025-aim-champions-gun-shooter-simulator.json](./205025-aim-champions-gun-shooter-simulator.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
+| Aimbeast | 124750 | [124750-aimbeast.json](./124750-aimbeast.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | AInder | 239682 | [239682-ainder.json](./239682-ainder.json) |
@@ -1847,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Farm Jigsaw Games for Toddlers, Babys and Kids | 295265 | [295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json](./295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json) |
 | Animal Farm Parking: Extended Edition | 283156 | [283156-animal-farm-parking-extended-edition.json](./283156-animal-farm-parking-extended-edition.json) |
 | Animal Football | 208375 | [208375-animal-football.json](./208375-animal-football.json) |
+| Animal Inspector | 124753 | [124753-animal-inspector.json](./124753-animal-inspector.json) |
 | Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
 | Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
@@ -3293,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
 | Axe Prime | 115046 | [115046-axe-prime.json](./115046-axe-prime.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
+| Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
 | Axia | 46637 | [46637-axia.json](./46637-axia.json) |
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
 | Axiom | 234347 | [234347-axiom.json](./234347-axiom.json) |
