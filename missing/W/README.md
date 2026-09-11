@@ -1627,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: Reinforcements | 24938 | [24938-worms-reinforcements.json](./24938-worms-reinforcements.json) |
 | Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
+| WormWar | 107121 | [107121-wormwar.json](./107121-wormwar.json) |
 | Wormwood | 216819 | [216819-wormwood.json](./216819-wormwood.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
