@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
+| WinPlex | 94723 | [94723-winplex.json](./94723-winplex.json) |
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
 | Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
 | Winter Cometh | 122400 | [122400-winter-cometh.json](./122400-winter-cometh.json) |
@@ -1685,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
+| Wreckers | 94670 | [94670-wreckers.json](./94670-wreckers.json) |
 | Wreckfest: American All-Stars Car Pack | 223692 | [223692-wreckfest-american-all-stars-car-pack.json](./223692-wreckfest-american-all-stars-car-pack.json) |
 | Wreckfest: Backwoods Bangers Car Pack | 223693 | [223693-wreckfest-backwoods-bangers-car-pack.json](./223693-wreckfest-backwoods-bangers-car-pack.json) |
 | Wreckfest: Banger Racing Car Pack | 223694 | [223694-wreckfest-banger-racing-car-pack.json](./223694-wreckfest-banger-racing-car-pack.json) |
