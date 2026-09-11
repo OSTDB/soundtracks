@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onside Soccer | 37125 | [37125-onside-soccer.json](./37125-onside-soccer.json) |
 | Onslaught | 341510 | [341510-onslaught.json](./341510-onslaught.json) |
 | Onslaught on the Solar Frontier | 306369 | [306369-onslaught-on-the-solar-frontier.json](./306369-onslaught-on-the-solar-frontier.json) |
+| OnSpace | 111076 | [111076-onspace.json](./111076-onspace.json) |
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
 | Ooga Booga Battle | 341512 | [341512-ooga-booga-battle.json](./341512-ooga-booga-battle.json) |
 | Ookibloks | 34516 | [34516-ookibloks.json](./34516-ookibloks.json) |
