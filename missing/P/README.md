@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise | 210019 | [210019-paradise.json](./210019-paradise.json) |
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Architect | 274464 | [274464-paradise-architect.json](./274464-paradise-architect.json) |
+| Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
 | Paradise Cleaning!: Married Woman Cosplay Life | 235479 | [235479-paradise-cleaning-married-woman-cosplay-life.json](./235479-paradise-cleaning-married-woman-cosplay-life.json) |
 | Paradise Corner | 413668 | [413668-paradise-corner.json](./413668-paradise-corner.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
@@ -1635,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
+| Plat4mer | 112972 | [112972-plat4mer.json](./112972-plat4mer.json) |
 | Platdude in Swamp Golf | 61087 | [61087-platdude-in-swamp-golf.json](./61087-platdude-in-swamp-golf.json) |
 | Plate | 339280 | [339280-plate.json](./339280-plate.json) |
 | Plateman | 240776 | [240776-plateman.json](./240776-plateman.json) |
@@ -2401,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
 | Prime World: Alchemy | 63306 | [63306-prime-world-alchemy.json](./63306-prime-world-alchemy.json) |
 | Prime World: Defenders | 16507 | [16507-prime-world-defenders.json](./16507-prime-world-defenders.json) |
+| Prime World: Defenders 2 | 112944 | [112944-prime-world-defenders-2.json](./112944-prime-world-defenders-2.json) |
 | Primeval | 158688 | [158688-primeval.json](./158688-primeval.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
 | Primit Shooter 2 | 270950 | [270950-primit-shooter-2.json](./270950-primit-shooter-2.json) |
@@ -2657,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project DT | 143098 | [143098-project-dt.json](./143098-project-dt.json) |
 | Project Dunk | 122328 | [122328-project-dunk.json](./122328-project-dunk.json) |
 | Project DX | 174821 | [174821-project-dx.json](./174821-project-dx.json) |
+| Project Eagle | 112960 | [112960-project-eagle.json](./112960-project-eagle.json) |
 | Project Eagle | 344958 | [344958-project-eagle.json](./344958-project-eagle.json) |
 | Project Earth | 180790 | [180790-project-earth.json](./180790-project-earth.json) |
 | Project EBHack | 331360 | [331360-project-ebhack.json](./331360-project-ebhack.json) |
