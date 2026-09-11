@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Night Detective: Chapter One | 167263 | [167263-deep-night-detective-chapter-one.json](./167263-deep-night-detective-chapter-one.json) |
 | Deep Panic | 402271 | [402271-deep-panic.json](./402271-deep-panic.json) |
 | Deep Pixel Melancholy | 347185 | [347185-deep-pixel-melancholy.json](./347185-deep-pixel-melancholy.json) |
+| Deep Realms | 92442 | [92442-deep-realms.json](./92442-deep-realms.json) |
 | Deep Research | 271493 | [271493-deep-research.json](./271493-deep-research.json) |
 | Deep Rock Galactic: Deluxe Edition | 188021 | [188021-deep-rock-galactic-deluxe-edition.json](./188021-deep-rock-galactic-deluxe-edition.json) |
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflect Boy | 290942 | [290942-deflect-boy.json](./290942-deflect-boy.json) |
 | Deflector | 179190 | [179190-deflector.json](./179190-deflector.json) |
 | Deflector | 93563 | [93563-deflector.json](./93563-deflector.json) |
+| Deflex | 92476 | [92476-deflex.json](./92476-deflex.json) |
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
 | Deformed | 244248 | [244248-deformed.json](./244248-deformed.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
@@ -2477,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
+| Dr. Dude | 92441 | [92441-dr-dude.json](./92441-dr-dude.json) |
 | Dr. Finklestein's Marvelous Room | 275560 | [275560-dr-finklesteins-marvelous-room.json](./275560-dr-finklesteins-marvelous-room.json) |
 | Dr. Franken | 369599 | [369599-dr-franken.json](./369599-dr-franken.json) |
 | Dr. Jekyll and Mr. Hyde | 7961 | [7961-dr-jekyll-and-mr-hyde.json](./7961-dr-jekyll-and-mr-hyde.json) |
@@ -2711,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfall | 296937 | [296937-dragonfall.json](./296937-dragonfall.json) |
 | Dragonfire | 5671 | [5671-dragonfire.json](./5671-dragonfire.json) |
 | DragonFishing | 70392 | [70392-dragonfishing.json](./70392-dragonfishing.json) |
+| Dragonfist | 92448 | [92448-dragonfist.json](./92448-dragonfist.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
 | DragonMirrored with Hyoga & Magma | 305769 | [305769-dragonmirrored-with-hyoga-and-magma.json](./305769-dragonmirrored-with-hyoga-and-magma.json) |
 | Dragonnet Havoc | 361725 | [361725-dragonnet-havoc.json](./361725-dragonnet-havoc.json) |
@@ -2836,6 +2840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Soccer '94 | 39627 | [39627-dream-soccer-94.json](./39627-dream-soccer-94.json) |
 | Dream Syndrome | 138269 | [138269-dream-syndrome.json](./138269-dream-syndrome.json) |
 | Dream Time | 152928 | [152928-dream-time.json](./152928-dream-time.json) |
+| Dream Track Nation | 92482 | [92482-dream-track-nation.json](./92482-dream-track-nation.json) |
 | Dream TV | 93573 | [93573-dream-tv.json](./93573-dream-tv.json) |
 | Dream Undercity | 248065 | [248065-dream-undercity.json](./248065-dream-undercity.json) |
 | Dream Warrior | 307899 | [307899-dream-warrior.json](./307899-dream-warrior.json) |
@@ -3346,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuoDuo | 234057 | [234057-duoduo.json](./234057-duoduo.json) |
 | Duotrigordle | 228718 | [228718-duotrigordle.json](./228718-duotrigordle.json) |
 | DuoTris Online | 104120 | [104120-duotris-online.json](./104120-duotris-online.json) |
+| Duotron | 92474 | [92474-duotron.json](./92474-duotron.json) |
 | DuoXBall | 233242 | [233242-duoxball.json](./233242-duoxball.json) |
 | DuoZuplixo | 369025 | [369025-duozuplixo.json](./369025-duozuplixo.json) |
 | Duppy Detective Tashia | 215885 | [215885-duppy-detective-tashia.json](./215885-duppy-detective-tashia.json) |
