@@ -69,7 +69,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
-| A Lot Like Love | 102175 | [102175-a-lot-like-love.json](./102175-a-lot-like-love.json) |
 | A Lozenge | 138252 | [138252-a-lozenge.json](./138252-a-lozenge.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Mafia Escape | 351034 | [351034-a-mafia-escape.json](./351034-a-mafia-escape.json) |
