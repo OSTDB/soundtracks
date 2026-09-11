@@ -34,7 +34,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V696 | 186819 | [186819-v696.json](./186819-v696.json) |
 | V8 Challenge | 69886 | [69886-v8-challenge.json](./69886-v8-challenge.json) |
 | Vacancy Unlimited | 153956 | [153956-vacancy-unlimited.json](./153956-vacancy-unlimited.json) |
+| Vacation Adventures: Park Ranger | 85464 | [85464-vacation-adventures-park-ranger.json](./85464-vacation-adventures-park-ranger.json) |
 | Vacation Adventures: Park Ranger 11 | 147421 | [147421-vacation-adventures-park-ranger-11.json](./147421-vacation-adventures-park-ranger-11.json) |
+| Vacation Adventures: Park Ranger 2 | 85465 | [85465-vacation-adventures-park-ranger-2.json](./85465-vacation-adventures-park-ranger-2.json) |
 | Vacation Isle Beach Party | 50601 | [50601-vacation-isle-beach-party.json](./50601-vacation-isle-beach-party.json) |
 | Vacation Paradise: Florida - Collector's Edition | 254785 | [254785-vacation-paradise-florida-collectors-edition.json](./254785-vacation-paradise-florida-collectors-edition.json) |
 | Vacation Parking Collection | 328462 | [328462-vacation-parking-collection.json](./328462-vacation-parking-collection.json) |
