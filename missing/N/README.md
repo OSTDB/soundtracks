@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
 | Neko Miko Onryou Toubatsu Emaki | 244997 | [244997-neko-miko-onryou-toubatsu-emaki.json](./244997-neko-miko-onryou-toubatsu-emaki.json) |
+| Neko Navy: Daydream Edition | 110318 | [110318-neko-navy-daydream-edition.json](./110318-neko-navy-daydream-edition.json) |
 | Neko Neko | 219036 | [219036-neko-neko.json](./219036-neko-neko.json) |
 | Neko Neko Nihonshi: Rekishi Hakken Puzzle! | 222536 | [222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json](./222536-neko-neko-nihonshi-rekishi-hakken-puzzle.json) |
 | Neko Night | 222912 | [222912-neko-night.json](./222912-neko-night.json) |
@@ -392,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nelli the Seer | 353898 | [353898-nelli-the-seer.json](./353898-nelli-the-seer.json) |
 | Nelly Cootalot: Spoonbeaks Ahoy! HD | 90001 | [90001-nelly-cootalot-spoonbeaks-ahoy-hd.json](./90001-nelly-cootalot-spoonbeaks-ahoy-hd.json) |
 | Nelo | 25534 | [25534-nelo.json](./25534-nelo.json) |
+| Nelson and the Magic Cauldron | 110283 | [110283-nelson-and-the-magic-cauldron.json](./110283-nelson-and-the-magic-cauldron.json) |
 | Nemac IV | 138259 | [138259-nemac-iv.json](./138259-nemac-iv.json) |
 | Nemesis | 210282 | [210282-nemesis.json](./210282-nemesis.json) |
 | Nemesis | 262390 | [262390-nemesis.json](./262390-nemesis.json) |
@@ -602,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights: Dark Dreams of Furiae | 155077 | [155077-neverwinter-nights-dark-dreams-of-furiae.json](./155077-neverwinter-nights-dark-dreams-of-furiae.json) |
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
 | Nevrosa: Escape | 68172 | [68172-nevrosa-escape.json](./68172-nevrosa-escape.json) |
+| Nevsky Run | 110389 | [110389-nevsky-run.json](./110389-nevsky-run.json) |
 | Nevsky Titbit | 250597 | [250597-nevsky-titbit.json](./250597-nevsky-titbit.json) |
 | New Adventure Island | 28521 | [28521-new-adventure-island.json](./28521-new-adventure-island.json) |
 | NEW Again Beauty | 106596 | [106596-new-again-beauty.json](./106596-new-again-beauty.json) |
