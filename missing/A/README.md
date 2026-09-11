@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
 | A Worker's Guide to Espionage | 144245 | [144245-a-workers-guide-to-espionage.json](./144245-a-workers-guide-to-espionage.json) |
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
+| A-10 Attack! | 93014 | [93014-a-10-attack.json](./93014-a-10-attack.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
 | A-Force: Armour Force | 62182 | [62182-a-force-armour-force.json](./62182-a-force-armour-force.json) |
 | A-Men 2 | 8624 | [8624-a-men-2.json](./8624-a-men-2.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Pack | 399614 | [399614-arcade-pack.json](./399614-arcade-pack.json) |
 | Arcade Paradise VR | 279379 | [279379-arcade-paradise-vr.json](./279379-arcade-paradise-vr.json) |
 | Arcade Party | 241076 | [241076-arcade-party.json](./241076-arcade-party.json) |
+| Arcade Party Pak | 92977 | [92977-arcade-party-pak.json](./92977-arcade-party-pak.json) |
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
 | Arcade Racer Evolution | 237380 | [237380-arcade-racer-evolution.json](./237380-arcade-racer-evolution.json) |
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
