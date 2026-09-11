@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
 | #Blud | 117500 | [117500-blud.json](./117500-blud.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
+| #OneRoom | 106639 | [106639-oneroom.json](./106639-oneroom.json) |
 | #Wish travel, Super Puzzles Dream | 147423 | [147423-wish-travel-super-puzzles-dream.json](./147423-wish-travel-super-puzzles-dream.json) |
 | #womenUp, Super Puzzles Dream | 147437 | [147437-womenup-super-puzzles-dream.json](./147437-womenup-super-puzzles-dream.json) |
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
