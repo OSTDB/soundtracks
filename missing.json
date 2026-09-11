@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T03:01:17.131Z",
-  "total_missing": 56282,
+  "generated_at": "2026-09-11T03:11:11.427Z",
+  "total_missing": 56296,
   "games": [
     {
       "igdb_id": 306086,
@@ -776,6 +776,11 @@
       "igdb_id": 265966,
       "game_name": "1939",
       "file": "missing/0-9/265966-1939.json"
+    },
+    {
+      "igdb_id": 124213,
+      "game_name": "1942: The Henan Famine",
+      "file": "missing/0-9/124213-1942-the-henan-famine.json"
     },
     {
       "igdb_id": 6076,
@@ -1871,11 +1876,6 @@
       "igdb_id": 382212,
       "game_name": "A Cup of Eternity",
       "file": "missing/A/382212-a-cup-of-eternity.json"
-    },
-    {
-      "igdb_id": 73278,
-      "game_name": "A Dark and Deadly Path",
-      "file": "missing/A/73278-a-dark-and-deadly-path.json"
     },
     {
       "igdb_id": 158223,
@@ -50908,6 +50908,11 @@
       "file": "missing/C/69319-crystal-confines.json"
     },
     {
+      "igdb_id": 124212,
+      "game_name": "Crystal core",
+      "file": "missing/C/124212-crystal-core.json"
+    },
+    {
       "igdb_id": 21126,
       "game_name": "Crystal Defenders R1",
       "file": "missing/C/21126-crystal-defenders-r1.json"
@@ -68713,6 +68718,11 @@
       "file": "missing/D/154009-dunnigans-trail.json"
     },
     {
+      "igdb_id": 124203,
+      "game_name": "Dunrog",
+      "file": "missing/D/124203-dunrog.json"
+    },
+    {
       "igdb_id": 133990,
       "game_name": "Dunwell",
       "file": "missing/D/133990-dunwell.json"
@@ -74341,6 +74351,11 @@
       "igdb_id": 336552,
       "game_name": "Eternal Guardian Rubine: The First Fight",
       "file": "missing/E/336552-eternal-guardian-rubine-the-first-fight.json"
+    },
+    {
+      "igdb_id": 124198,
+      "game_name": "Eternal Hope",
+      "file": "missing/E/124198-eternal-hope.json"
     },
     {
       "igdb_id": 269012,
@@ -81031,6 +81046,11 @@
       "igdb_id": 176454,
       "game_name": "Find Yer Treasure!",
       "file": "missing/F/176454-find-yer-treasure.json"
+    },
+    {
+      "igdb_id": 124210,
+      "game_name": "Finders Reapers",
+      "file": "missing/F/124210-finders-reapers.json"
     },
     {
       "igdb_id": 139457,
@@ -116453,6 +116473,11 @@
       "file": "missing/I/333019-it-was-you.json"
     },
     {
+      "igdb_id": 124207,
+      "game_name": "It Will Find You",
+      "file": "missing/I/124207-it-will-find-you.json"
+    },
+    {
       "igdb_id": 177526,
       "game_name": "It's a Beautiful Day",
       "file": "missing/I/177526-its-a-beautiful-day.json"
@@ -116531,6 +116556,11 @@
       "igdb_id": 62216,
       "game_name": "It's Raining Cats' & Dogs' Poop 2",
       "file": "missing/I/62216-its-raining-cats-and-dogs-poop-2.json"
+    },
+    {
+      "igdb_id": 124202,
+      "game_name": "It's Raining Fists and Metal",
+      "file": "missing/I/124202-its-raining-fists-and-metal.json"
     },
     {
       "igdb_id": 230843,
@@ -131756,6 +131786,11 @@
       "igdb_id": 273118,
       "game_name": "Lively Chair Simulator",
       "file": "missing/L/273118-lively-chair-simulator.json"
+    },
+    {
+      "igdb_id": 124199,
+      "game_name": "Lives so Sweet",
+      "file": "missing/L/124199-lives-so-sweet.json"
     },
     {
       "igdb_id": 394170,
@@ -149703,6 +149738,11 @@
       "file": "missing/M/63852-monsters-love-candy.json"
     },
     {
+      "igdb_id": 124205,
+      "game_name": "Monsters of Kanji 2",
+      "file": "missing/M/124205-monsters-of-kanji-2.json"
+    },
+    {
       "igdb_id": 159831,
       "game_name": "Monsters, Briefcase and Road",
       "file": "missing/M/159831-monsters-briefcase-and-road.json"
@@ -150256,6 +150296,11 @@
       "igdb_id": 305495,
       "game_name": "Mordhau: Platinum Edition",
       "file": "missing/M/305495-mordhau-platinum-edition.json"
+    },
+    {
+      "igdb_id": 124195,
+      "game_name": "More Dark",
+      "file": "missing/M/124195-more-dark.json"
     },
     {
       "igdb_id": 96051,
@@ -157296,6 +157341,11 @@
       "igdb_id": 168333,
       "game_name": "Neon Depth",
       "file": "missing/N/168333-neon-depth.json"
+    },
+    {
+      "igdb_id": 124201,
+      "game_name": "Neon District",
+      "file": "missing/N/124201-neon-district.json"
     },
     {
       "igdb_id": 412997,
@@ -203171,6 +203221,11 @@
       "igdb_id": 317229,
       "game_name": "Shadow of the Ninja Reborn: Deluxe Edition",
       "file": "missing/S/317229-shadow-of-the-ninja-reborn-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 124209,
+      "game_name": "Shadow of the Road",
+      "file": "missing/S/124209-shadow-of-the-road.json"
     },
     {
       "igdb_id": 117711,
@@ -254248,6 +254303,11 @@
       "file": "missing/T/272547-topple-tactics.json"
     },
     {
+      "igdb_id": 124211,
+      "game_name": "TopplePop: Bungee Blockbusters",
+      "file": "missing/T/124211-topplepop-bungee-blockbusters.json"
+    },
+    {
       "igdb_id": 137686,
       "game_name": "Topps Kick",
       "file": "missing/T/137686-topps-kick.json"
@@ -255786,6 +255846,11 @@
       "igdb_id": 112982,
       "game_name": "ToyShot VR",
       "file": "missing/T/112982-toyshot-vr.json"
+    },
+    {
+      "igdb_id": 124200,
+      "game_name": "Toz",
+      "file": "missing/T/124200-toz.json"
     },
     {
       "igdb_id": 284337,
@@ -280266,6 +280331,11 @@
       "igdb_id": 304008,
       "game_name": "Zlin City: Arch Moderna",
       "file": "missing/Z/304008-zlin-city-arch-moderna.json"
+    },
+    {
+      "igdb_id": 124206,
+      "game_name": "ZLM Crafter",
+      "file": "missing/Z/124206-zlm-crafter.json"
     },
     {
       "igdb_id": 328999,
