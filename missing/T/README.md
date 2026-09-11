@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
 | The Isle | 25838 | [25838-the-isle.json](./25838-the-isle.json) |
 | The Isle of Elanor | 152845 | [152845-the-isle-of-elanor.json](./152845-the-isle-of-elanor.json) |
+| The Isle of the Dead | 118320 | [118320-the-isle-of-the-dead.json](./118320-the-isle-of-the-dead.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
@@ -2887,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
 | The Rise of Tianling Sect | 369584 | [369584-the-rise-of-tianling-sect.json](./369584-the-rise-of-tianling-sect.json) |
 | The Rising | 284907 | [284907-the-rising.json](./284907-the-rising.json) |
+| The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
