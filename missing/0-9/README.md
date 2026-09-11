@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Games | 319563 | [319563-10-games.json](./319563-10-games.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
+| 10 Seconds | 105287 | [105287-10-seconds.json](./105287-10-seconds.json) |
 | 10 Talismans | 205801 | [205801-10-talismans.json](./205801-10-talismans.json) |
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10,000 Feet Below | 271729 | [271729-10-000-feet-below.json](./271729-10-000-feet-below.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Hidden Snails | 203391 | [203391-1000-hidden-snails.json](./203391-1000-hidden-snails.json) |
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
 | 1000 Score: 2D Platformer | 389990 | [389990-1000-score-2d-platformer.json](./389990-1000-score-2d-platformer.json) |
+| 1000 Stages | 105308 | [105308-1000-stages.json](./105308-1000-stages.json) |
 | 1000: The All-Mother's Embrace | 326044 | [326044-1000-the-all-mothers-embrace.json](./326044-1000-the-all-mothers-embrace.json) |
 | 1000xResist | 218282 | [218282-1000xresist.json](./218282-1000xresist.json) |
 | 1001 Jigsaw: Earth Chronicles 4 | 87252 | [87252-1001-jigsaw-earth-chronicles-4.json](./87252-1001-jigsaw-earth-chronicles-4.json) |
