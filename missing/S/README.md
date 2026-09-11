@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Cooking | 155665 | [155665-samurai-cooking.json](./155665-samurai-cooking.json) |
 | Samurai Daisuke | 233502 | [233502-samurai-daisuke.json](./233502-samurai-daisuke.json) |
 | Samurai Defender | 84903 | [84903-samurai-defender.json](./84903-samurai-defender.json) |
+| Samurai Defender: Ninja Warfare | 104127 | [104127-samurai-defender-ninja-warfare.json](./104127-samurai-defender-ninja-warfare.json) |
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
@@ -727,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll of Life | 192391 | [192391-scroll-of-life.json](./192391-scroll-of-life.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
+| Scrunk | 104027 | [104027-scrunk.json](./104027-scrunk.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
 | Scud Frenzy | 102395 | [102395-scud-frenzy.json](./102395-scud-frenzy.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
@@ -3486,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
 | Sorted! | 219586 | [219586-sorted.json](./219586-sorted.json) |
 | Sortik Systems | 338218 | [338218-sortik-systems.json](./338218-sortik-systems.json) |
+| Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
 | SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
@@ -4376,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squillamorph | 126652 | [126652-squillamorph.json](./126652-squillamorph.json) |
 | Squirdle | 194654 | [194654-squirdle.json](./194654-squirdle.json) |
 | Squire of Time | 271224 | [271224-squire-of-time.json](./271224-squire-of-time.json) |
+| Squirgle | 104033 | [104033-squirgle.json](./104033-squirgle.json) |
 | Squirix | 175353 | [175353-squirix.json](./175353-squirix.json) |
 | Squirm 16 | 313498 | [313498-squirm-16.json](./313498-squirm-16.json) |
 | Squirrel and Nuts | 239645 | [239645-squirrel-and-nuts.json](./239645-squirrel-and-nuts.json) |
@@ -5251,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Gang Football | 331343 | [331343-street-gang-football.json](./331343-street-gang-football.json) |
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
+| Street Karate | 104026 | [104026-street-karate.json](./104026-street-karate.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
 | Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
 | Street Lamp Lover | 336530 | [336530-street-lamp-lover.json](./336530-street-lamp-lover.json) |
@@ -5554,6 +5559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sulkyland | 214529 | [214529-sulkyland.json](./214529-sulkyland.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
+| Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
 | Sumeru | 32210 | [32210-sumeru.json](./32210-sumeru.json) |
 | Sumi Sumi | 108511 | [108511-sumi-sumi.json](./108511-sumi-sumi.json) |
 | Sumiii | 219585 | [219585-sumiii.json](./219585-sumiii.json) |
@@ -6604,6 +6610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Tooth to Go | 208349 | [208349-sweet-tooth-to-go.json](./208349-sweet-tooth-to-go.json) |
 | Sweet Tooth Town | 355003 | [355003-sweet-tooth-town.json](./355003-sweet-tooth-town.json) |
 | Sweet Treat Solitaire | 386150 | [386150-sweet-treat-solitaire.json](./386150-sweet-treat-solitaire.json) |
+| Sweet Treats | 104043 | [104043-sweet-treats.json](./104043-sweet-treats.json) |
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
