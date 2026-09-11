@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damnation City of Death | 35837 | [35837-damnation-city-of-death.json](./35837-damnation-city-of-death.json) |
 | Damned 2 | 253375 | [253375-damned-2.json](./253375-damned-2.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
+| Damnview: Built From Nothing | 107269 | [107269-damnview-built-from-nothing.json](./107269-damnview-built-from-nothing.json) |
 | Damocles Gaze | 172666 | [172666-damocles-gaze.json](./172666-damocles-gaze.json) |
 | Damon and Baby: Deluxe Edition | 390527 | [390527-damon-and-baby-deluxe-edition.json](./390527-damon-and-baby-deluxe-edition.json) |
 | Damoria | 196273 | [196273-damoria.json](./196273-damoria.json) |
@@ -812,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
+| Decay Z : Space Survival | 107152 | [107152-decay-z-space-survival.json](./107152-decay-z-space-survival.json) |
 | Decay: The Mare - Episode 2 | 79949 | [79949-decay-the-mare-episode-2.json](./79949-decay-the-mare-episode-2.json) |
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
@@ -1654,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
 | Dinosaur Museum | 378176 | [378176-dinosaur-museum.json](./378176-dinosaur-museum.json) |
 | Dinosaur Rampage - Trex | 87716 | [87716-dinosaur-rampage-trex.json](./87716-dinosaur-rampage-trex.json) |
+| Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
 | Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
@@ -2346,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotAge | 111045 | [111045-dotage.json](./111045-dotage.json) |
 | DotAge: Folkways | 336527 | [336527-dotage-folkways.json](./336527-dotage-folkways.json) |
 | Dots | 76631 | [76631-dots.json](./76631-dots.json) |
+| Dots and Boxes - Dino Fury Edition | 107117 | [107117-dots-and-boxes-dino-fury-edition.json](./107117-dots-and-boxes-dino-fury-edition.json) |
 | Dots and Dashes | 188674 | [188674-dots-and-dashes.json](./188674-dots-and-dashes.json) |
 | Dots in line | 223180 | [223180-dots-in-line.json](./223180-dots-in-line.json) |
 | Dots of War | 241051 | [241051-dots-of-war.json](./241051-dots-of-war.json) |
