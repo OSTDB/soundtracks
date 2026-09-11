@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
 | Fashion Space | 212493 | [212493-fashion-space.json](./212493-fashion-space.json) |
 | Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
+| Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
 | Fashion World: Premium Edition | 308804 | [308804-fashion-world-premium-edition.json](./308804-fashion-world-premium-edition.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
@@ -1183,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishes and Barrels | 244797 | [244797-fishes-and-barrels.json](./244797-fishes-and-barrels.json) |
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
+| Fishie Fishie | 79878 | [79878-fishie-fishie.json](./79878-fishie-fishie.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | Fishing Clash 2020: Fish Catching Games | 135263 | [135263-fishing-clash-2020-fish-catching-games.json](./135263-fishing-clash-2020-fish-catching-games.json) |
 | Fishing Craze | 294739 | [294739-fishing-craze.json](./294739-fishing-craze.json) |
@@ -1483,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips: Enid Blyton - Faraway Tree Stories | 66665 | [66665-flips-enid-blyton-faraway-tree-stories.json](./66665-flips-enid-blyton-faraway-tree-stories.json) |
 | Flips: Enid Blyton - The Adventure Series | 66666 | [66666-flips-enid-blyton-the-adventure-series.json](./66666-flips-enid-blyton-the-adventure-series.json) |
 | Flips: Mr. Gum | 66664 | [66664-flips-mr-gum.json](./66664-flips-mr-gum.json) |
+| Flips: The Folk of the Faraway Tree | 79866 | [79866-flips-the-folk-of-the-faraway-tree.json](./79866-flips-the-folk-of-the-faraway-tree.json) |
 | Flips: Too Ghoul for School | 66663 | [66663-flips-too-ghoul-for-school.json](./66663-flips-too-ghoul-for-school.json) |
 | Flips! | 237383 | [237383-flips.json](./237383-flips.json) |
 | FlipScapes | 224249 | [224249-flipscapes.json](./224249-flipscapes.json) |
