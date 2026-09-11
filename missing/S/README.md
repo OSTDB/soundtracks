@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
+| Safari Hunt 2018 | 108513 | [108513-safari-hunt-2018.json](./108513-safari-hunt-2018.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safari Quest | 84904 | [84904-safari-quest.json](./84904-safari-quest.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
@@ -1480,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Legion - turn-based tactical RPG game | 174321 | [174321-sheep-legion-turn-based-tactical-rpg-game.json](./174321-sheep-legion-turn-based-tactical-rpg-game.json) |
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
+| Sheepageddon | 108429 | [108429-sheepageddon.json](./108429-sheepageddon.json) |
 | Sheepers | 315287 | [315287-sheepers.json](./315287-sheepers.json) |
 | Sheepherds! | 334710 | [334710-sheepherds.json](./334710-sheepherds.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
@@ -2069,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Monster Hunter | 265421 | [265421-simple-monster-hunter.json](./265421-simple-monster-hunter.json) |
 | Simple Multipliers | 243677 | [243677-simple-multipliers.json](./243677-simple-multipliers.json) |
 | Simple Number-Based Color Sense IQ Test | 290424 | [290424-simple-number-based-color-sense-iq-test.json](./290424-simple-number-based-color-sense-iq-test.json) |
+| Simple Racing | 108404 | [108404-simple-racing.json](./108404-simple-racing.json) |
 | Simple Ray tracing Mini Game 10 | 152899 | [152899-simple-ray-tracing-mini-game-10.json](./152899-simple-ray-tracing-mini-game-10.json) |
 | Simple Sandwich | 118376 | [118376-simple-sandwich.json](./118376-simple-sandwich.json) |
 | Simple Series for Nintendo 3DS Vol. 1: The Mahjong | 82133 | [82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json](./82133-simple-series-for-nintendo-3ds-vol-1-the-mahjong.json) |
@@ -2484,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
 | Sliiide! | 221757 | [221757-sliiide.json](./221757-sliiide.json) |
 | Sliko | 156141 | [156141-sliko.json](./156141-sliko.json) |
+| Slime Age: Parody MMORPG Clicker | 108411 | [108411-slime-age-parody-mmorpg-clicker.json](./108411-slime-age-parody-mmorpg-clicker.json) |
 | Slime Castle | 314634 | [314634-slime-castle.json](./314634-slime-castle.json) |
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
@@ -2730,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake Roy | 210642 | [210642-snake-roy.json](./210642-snake-roy.json) |
+| Snake Vs Colours | 108446 | [108446-snake-vs-colours.json](./108446-snake-vs-colours.json) |
 | Snake-O-Tron | 288239 | [288239-snake-o-tron.json](./288239-snake-o-tron.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
@@ -3463,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorted! | 219586 | [219586-sorted.json](./219586-sorted.json) |
 | Sortik Systems | 338218 | [338218-sortik-systems.json](./338218-sortik-systems.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
+| SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
@@ -5279,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
+| String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
 | Strip n Play with Valerie | 221205 | [221205-strip-n-play-with-valerie.json](./221205-strip-n-play-with-valerie.json) |
@@ -5335,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
 | Stunt Paradise 2 | 389435 | [389435-stunt-paradise-2.json](./389435-stunt-paradise-2.json) |
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
+| StuntCopter! | 108515 | [108515-stuntcopter.json](./108515-stuntcopter.json) |
 | Stuntman | 197884 | [197884-stuntman.json](./197884-stuntman.json) |
 | Stunts Contest: Beach Edition | 215710 | [215710-stunts-contest-beach-edition.json](./215710-stunts-contest-beach-edition.json) |
 | Stunts Contest: Super Bike | 215709 | [215709-stunts-contest-super-bike.json](./215709-stunts-contest-super-bike.json) |
@@ -5516,6 +5524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sumeru | 32210 | [32210-sumeru.json](./32210-sumeru.json) |
+| Sumi Sumi | 108511 | [108511-sumi-sumi.json](./108511-sumi-sumi.json) |
 | Sumiii | 219585 | [219585-sumiii.json](./219585-sumiii.json) |
 | SumiKen: Ink Blade Samurai | 208951 | [208951-sumiken-ink-blade-samurai.json](./208951-sumiken-ink-blade-samurai.json) |
 | Sumikkogurashi the Movie Block Puzzle Game | 213635 | [213635-sumikkogurashi-the-movie-block-puzzle-game.json](./213635-sumikkogurashi-the-movie-block-puzzle-game.json) |
@@ -5746,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
+| Super Frog's Quest | 108410 | [108410-super-frogs-quest.json](./108410-super-frogs-quest.json) |
 | Super Galaxy Ball | 219579 | [219579-super-galaxy-ball.json](./219579-super-galaxy-ball.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
@@ -6674,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Destiny | 23007 | [23007-swords-of-destiny.json](./23007-swords-of-destiny.json) |
 | Swords of Legends 3 | 107205 | [107205-swords-of-legends-3.json](./107205-swords-of-legends-3.json) |
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
+| Swords with spice | 108437 | [108437-swords-with-spice.json](./108437-swords-with-spice.json) |
 | Swordshot | 132755 | [132755-swordshot.json](./132755-swordshot.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
