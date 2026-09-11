@@ -1627,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Shi Agent Pack | 89869 | [89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json](./89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX | 139995 | [139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json](./139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json) |
+| Cielcrosia: Seal of the Lewd Curse | 82864 | [82864-cielcrosia-seal-of-the-lewd-curse.json](./82864-cielcrosia-seal-of-the-lewd-curse.json) |
 | Cielle Is Not Happy | 402277 | [402277-cielle-is-not-happy.json](./402277-cielle-is-not-happy.json) |
 | Cielo | 181292 | [181292-cielo.json](./181292-cielo.json) |
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
@@ -3282,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosshatch | 125946 | [125946-crosshatch.json](./125946-crosshatch.json) |
 | Crosshollow Foundations | 182508 | [182508-crosshollow-foundations.json](./182508-crosshollow-foundations.json) |
 | Crossing Acheron | 354427 | [354427-crossing-acheron.json](./354427-crossing-acheron.json) |
+| Crossing Brothel: Tales of an Interspecies Bordello | 82839 | [82839-crossing-brothel-tales-of-an-interspecies-bordello.json](./82839-crossing-brothel-tales-of-an-interspecies-bordello.json) |
 | Crossing Damaged Bridge | 250944 | [250944-crossing-damaged-bridge.json](./250944-crossing-damaged-bridge.json) |
 | Crossing Miracles | 316647 | [316647-crossing-miracles.json](./316647-crossing-miracles.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
