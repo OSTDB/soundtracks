@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T06:18:30.018Z",
-  "total_missing": 56928,
+  "generated_at": "2026-09-11T06:21:20.311Z",
+  "total_missing": 56927,
   "games": [
     {
       "igdb_id": 306086,
@@ -1966,11 +1966,6 @@
       "igdb_id": 357791,
       "game_name": "A Father's Tale",
       "file": "missing/A/357791-a-fathers-tale.json"
-    },
-    {
-      "igdb_id": 126043,
-      "game_name": "A Feeble Saga",
-      "file": "missing/A/126043-a-feeble-saga.json"
     },
     {
       "igdb_id": 104687,
