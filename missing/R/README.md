@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Fall | 202811 | [202811-radio-fall.json](./202811-radio-fall.json) |
 | Radio Flyer | 264317 | [264317-radio-flyer.json](./264317-radio-flyer.json) |
 | Radio Station | 132772 | [132772-radio-station.json](./132772-radio-station.json) |
+| Radio Violence | 110987 | [110987-radio-violence.json](./110987-radio-violence.json) |
 | Radio Viscera | 153438 | [153438-radio-viscera.json](./153438-radio-viscera.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
@@ -588,6 +589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboot | 171611 | [171611-reboot.json](./171611-reboot.json) |
 | ReBoot | 51953 | [51953-reboot.json](./51953-reboot.json) |
 | Reboot Heroes | 292020 | [292020-reboot-heroes.json](./292020-reboot-heroes.json) |
+| Reborn in Wild City | 111073 | [111073-reborn-in-wild-city.json](./111073-reborn-in-wild-city.json) |
 | Reborn Online | 135807 | [135807-reborn-online.json](./135807-reborn-online.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
 | Rebound Ball | 127222 | [127222-rebound-ball.json](./127222-rebound-ball.json) |
@@ -761,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redout: V.E.R.T.E.X. Pack | 226974 | [226974-redout-v-e-r-t-e-x-pack.json](./226974-redout-v-e-r-t-e-x-pack.json) |
 | ReDraft: The Fantasy Football Simulator | 414361 | [414361-redraft-the-fantasy-football-simulator.json](./414361-redraft-the-fantasy-football-simulator.json) |
 | ReDrawn: The Painted Tower | 188035 | [188035-redrawn-the-painted-tower.json](./188035-redrawn-the-painted-tower.json) |
+| Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
 | Redviil | 114970 | [114970-redviil.json](./114970-redviil.json) |
@@ -1936,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romans From Mars | 62224 | [62224-romans-from-mars.json](./62224-romans-from-mars.json) |
 | Romantic Emperor | 404858 | [404858-romantic-emperor.json](./404858-romantic-emperor.json) |
 | Romantic Escapades | 297207 | [297207-romantic-escapades.json](./297207-romantic-escapades.json) |
+| Romantic Journey | 110979 | [110979-romantic-journey.json](./110979-romantic-journey.json) |
 | Romantic Rainbow Delights | 184064 | [184064-romantic-rainbow-delights.json](./184064-romantic-rainbow-delights.json) |
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
