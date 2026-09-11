@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiāngshān 31 Hào | 120938 | [120938-xiangshan-31-hao.json](./120938-xiangshan-31-hao.json) |
 | Xiàngsù Nányǒu Yǔyīn: Wánzhěng Bǎn | 161382 | [161382-xiangsu-nanyou-yuyin-wanzheng-ban.json](./161382-xiangsu-nanyou-yuyin-wanzheng-ban.json) |
 | Xiānjiànjué Wǎngluòbǎn | 161328 | [161328-xianjianjue-wangluoban.json](./161328-xianjianjue-wangluoban.json) |
+| Xiānyù | 113647 | [113647-xianyu.json](./113647-xianyu.json) |
 | Xiào Ào Jiānghú 2 Wàizhuàn: Dōngfāng Zàiqǐ | 184095 | [184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json](./184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json) |
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XS Junior League Soccer | 43945 | [43945-xs-junior-league-soccer.json](./43945-xs-junior-league-soccer.json) |
 | XS Moto | 205811 | [205811-xs-moto.json](./205811-xs-moto.json) |
 | Xtom 3D | 45978 | [45978-xtom-3d.json](./45978-xtom-3d.json) |
+| Xtraction Royale | 115728 | [115728-xtraction-royale.json](./115728-xtraction-royale.json) |
 | Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
 | Xtreme Garage: Drifter | 234329 | [234329-xtreme-garage-drifter.json](./234329-xtreme-garage-drifter.json) |
 | Xtreme Sports Arcade: Summer Edition | 205808 | [205808-xtreme-sports-arcade-summer-edition.json](./205808-xtreme-sports-arcade-summer-edition.json) |
