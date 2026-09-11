@@ -809,6 +809,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
 | Epicure | 133363 | [133363-epicure.json](./133363-epicure.json) |
+| Epido | 127947 | [127947-epido.json](./127947-epido.json) |
+| Epido: Second Move | 127946 | [127946-epido-second-move.json](./127946-epido-second-move.json) |
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
 | Episode XOXO | 291981 | [291981-episode-xoxo.json](./291981-episode-xoxo.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
