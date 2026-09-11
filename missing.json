@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T18:48:26.608Z",
-  "total_missing": 59005,
+  "generated_at": "2026-09-11T18:51:04.373Z",
+  "total_missing": 59004,
   "games": [
     {
       "igdb_id": 306086,
@@ -2361,11 +2361,6 @@
       "igdb_id": 217294,
       "game_name": "A Quest That Became Legend",
       "file": "missing/A/217294-a-quest-that-became-legend.json"
-    },
-    {
-      "igdb_id": 133441,
-      "game_name": "A Question of Scruples: The Computer Edition",
-      "file": "missing/A/133441-a-question-of-scruples-the-computer-edition.json"
     },
     {
       "igdb_id": 229918,
