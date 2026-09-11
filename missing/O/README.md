@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | Octofight Escape | 180250 | [180250-octofight-escape.json](./180250-octofight-escape.json) |
 | Octogram | 265686 | [265686-octogram.json](./265686-octogram.json) |
+| Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
 | Octopie | 204723 | [204723-octopie.json](./204723-octopie.json) |
 | Octopus | 287659 | [287659-octopus.json](./287659-octopus.json) |
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
 | OpenSpades | 98371 | [98371-openspades.json](./98371-openspades.json) |
 | Opera Omnia | 77359 | [77359-opera-omnia.json](./77359-opera-omnia.json) |
+| Operation | 94216 | [94216-operation.json](./94216-operation.json) |
 | Operation Abyss: New Tokyo Legacy - Launch Edition | 89917 | [89917-operation-abyss-new-tokyo-legacy-launch-edition.json](./89917-operation-abyss-new-tokyo-legacy-launch-edition.json) |
 | Operation Abyss: New Tokyo Legacy - Limited Edition | 89916 | [89916-operation-abyss-new-tokyo-legacy-limited-edition.json](./89916-operation-abyss-new-tokyo-legacy-limited-edition.json) |
 | Operation Babel: New Tokyo Legacy | 25593 | [25593-operation-babel-new-tokyo-legacy.json](./25593-operation-babel-new-tokyo-legacy.json) |
@@ -1183,6 +1185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overserved: Food Fighters! | 398995 | [398995-overserved-food-fighters.json](./398995-overserved-food-fighters.json) |
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
 | OverSoul | 109067 | [109067-oversoul.json](./109067-oversoul.json) |
+| Overtake | 94193 | [94193-overtake.json](./94193-overtake.json) |
 | OverTheCloud_Global | 117100 | [117100-overthecloud-global.json](./117100-overthecloud-global.json) |
 | Overtime | 136483 | [136483-overtime.json](./136483-overtime.json) |
 | Overtime | 272006 | [272006-overtime.json](./272006-overtime.json) |
