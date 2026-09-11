@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
+| Vampirdzhija Vjedogonia | 130309 | [130309-vampirdzhija-vjedogonia.json](./130309-vampirdzhija-vjedogonia.json) |
 | Vampire Awakening: Elven Sword Chronicles Survival | 373020 | [373020-vampire-awakening-elven-sword-chronicles-survival.json](./373020-vampire-awakening-elven-sword-chronicles-survival.json) |
 | Vampire Circus | 297481 | [297481-vampire-circus.json](./297481-vampire-circus.json) |
 | Vampire Clans | 216493 | [216493-vampire-clans.json](./216493-vampire-clans.json) |
@@ -273,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocity Rush | 338574 | [338574-velocity-rush.json](./338574-velocity-rush.json) |
 | Velocity Uncapped | 411614 | [411614-velocity-uncapped.json](./411614-velocity-uncapped.json) |
 | Velucity | 155656 | [155656-velucity.json](./155656-velucity.json) |
+| Velvet Dark | 130336 | [130336-velvet-dark.json](./130336-velvet-dark.json) |
 | Velvet Hammer | 392149 | [392149-velvet-hammer.json](./392149-velvet-hammer.json) |
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
 | Venandi In Silva | 124217 | [124217-venandi-in-silva.json](./124217-venandi-in-silva.json) |
@@ -625,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
+| void.Resign | 130329 | [130329-void-resign.json](./130329-void-resign.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
 | Voidblade Shadows of The Realm | 374064 | [374064-voidblade-shadows-of-the-realm.json](./374064-voidblade-shadows-of-the-realm.json) |
 | Voidbloom | 410248 | [410248-voidbloom.json](./410248-voidbloom.json) |
