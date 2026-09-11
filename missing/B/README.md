@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boatgator | 253359 | [253359-boatgator.json](./253359-boatgator.json) |
 | Boaty McBoatwad | 260662 | [260662-boaty-mcboatwad.json](./260662-boaty-mcboatwad.json) |
 | Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
+| Bob & Bernard Against the Nazis | 120361 | [120361-bob-and-bernard-against-the-nazis.json](./120361-bob-and-bernard-against-the-nazis.json) |
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
 | BTank | 203898 | [203898-btank.json](./203898-btank.json) |
 | BTS Island: In the Seom | 206740 | [206740-bts-island-in-the-seom.json](./206740-bts-island-in-the-seom.json) |
+| Buba | 120348 | [120348-buba.json](./120348-buba.json) |
 | Bubbits | 319971 | [319971-bubbits.json](./319971-bubbits.json) |
 | Bubble | 287650 | [287650-bubble.json](./287650-bubble.json) |
 | Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
