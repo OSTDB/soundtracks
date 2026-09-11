@@ -15,7 +15,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Building Full of Cats 2 | 301592 | [301592-a-building-full-of-cats-2.json](./301592-a-building-full-of-cats-2.json) |
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
-| A Candle to the Unknown | 309325 | [309325-a-candle-to-the-unknown.json](./309325-a-candle-to-the-unknown.json) |
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
 | A Cat in Dungeons | 149573 | [149573-a-cat-in-dungeons.json](./149573-a-cat-in-dungeons.json) |
 | A Certain Erotic Daily Scenes | 82930 | [82930-a-certain-erotic-daily-scenes.json](./82930-a-certain-erotic-daily-scenes.json) |
