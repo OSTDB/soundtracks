@@ -276,6 +276,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamitate the Meditation Game | 147374 | [147374-gamitate-the-meditation-game.json](./147374-gamitate-the-meditation-game.json) |
 | Gamma Bros | 33675 | [33675-gamma-bros.json](./33675-gamma-bros.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
+| Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou! | 129173 | [129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json](./129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json) |
+| Ganbare Goemon: Tengu-tou no Gyakushuu! | 129172 | [129172-ganbare-goemon-tengu-tou-no-gyakushuu.json](./129172-ganbare-goemon-tengu-tou-no-gyakushuu.json) |
 | Ganbare Natsuki-san | 270676 | [270676-ganbare-natsuki-san.json](./270676-ganbare-natsuki-san.json) |
 | Ganbare Neo Poke-Kun | 43970 | [43970-ganbare-neo-poke-kun.json](./43970-ganbare-neo-poke-kun.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
