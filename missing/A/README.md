@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
 | Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
+| Arch Virtual HQ | 105888 | [105888-arch-virtual-hq.json](./105888-arch-virtual-hq.json) |
 | Archaeogem | 219060 | [219060-archaeogem.json](./219060-archaeogem.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
@@ -3116,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Lothal | 359445 | [359445-attack-on-lothal.json](./359445-attack-on-lothal.json) |
 | Attack on Reality | 231612 | [231612-attack-on-reality.json](./231612-attack-on-reality.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
+| Attack on Titan: Assault | 105884 | [105884-attack-on-titan-assault.json](./105884-attack-on-titan-assault.json) |
 | Attack Only | 410224 | [410224-attack-only.json](./410224-attack-only.json) |
 | Attack Pla Rail | 123584 | [123584-attack-pla-rail.json](./123584-attack-pla-rail.json) |
 | Attack Tactic | 226224 | [226224-attack-tactic.json](./226224-attack-tactic.json) |
