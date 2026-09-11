@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellrooms | 324322 | [324322-hellrooms.json](./324322-hellrooms.json) |
 | Hells Bend on Wounded Knee | 248679 | [248679-hells-bend-on-wounded-knee.json](./248679-hells-bend-on-wounded-knee.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
+| Hellver | 129692 | [129692-hellver.json](./129692-hellver.json) |
 | Hellvivors | 217317 | [217317-hellvivors.json](./217317-hellvivors.json) |
 | Hellwomb | 150138 | [150138-hellwomb.json](./150138-hellwomb.json) |
 | HelmetRoyale.io | 125991 | [125991-helmetroyale-io.json](./125991-helmetroyale-io.json) |
