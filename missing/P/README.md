@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayerUnknown's Battlegrounds: Season 8 | 135824 | [135824-playerunknowns-battlegrounds-season-8.json](./135824-playerunknowns-battlegrounds-season-8.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
 | Playground AR: Physics Sandbox | 89172 | [89172-playground-ar-physics-sandbox.json](./89172-playground-ar-physics-sandbox.json) |
+| Playground Battle World | 83483 | [83483-playground-battle-world.json](./83483-playground-battle-world.json) |
 | Playground VR | 143690 | [143690-playground-vr.json](./143690-playground-vr.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
@@ -2053,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Dungeon: Joker's Madness | 310747 | [310747-poker-dungeon-jokers-madness.json](./310747-poker-dungeon-jokers-madness.json) |
 | Poker for Dummies | 64983 | [64983-poker-for-dummies.json](./64983-poker-for-dummies.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
+| Poker Patience | 83481 | [83481-poker-patience.json](./83481-poker-patience.json) |
 | Poker Pop! | 209145 | [209145-poker-pop.json](./209145-poker-pop.json) |
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
