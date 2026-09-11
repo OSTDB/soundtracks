@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallagant | 287652 | [287652-gallagant.json](./287652-gallagant.json) |
 | Galleon | 5843 | [5843-galleon.json](./5843-galleon.json) |
 | Gallerie | 392169 | [392169-gallerie.json](./392169-gallerie.json) |
+| Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
@@ -239,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Throne | 179199 | [179199-game-of-throne.json](./179199-game-of-throne.json) |
 | Game of Thrones: A Telltale Games Series - Episode 1: Iron From Ice | 127067 | [127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json](./127067-game-of-thrones-a-telltale-games-series-episode-1-iron-from-ice.json) |
 | Game of Thrones: Beyond the Wall - Blood Bound | 171636 | [171636-game-of-thrones-beyond-the-wall-blood-bound.json](./171636-game-of-thrones-beyond-the-wall-blood-bound.json) |
+| Game of Thrones: Seven Kingdoms | 110315 | [110315-game-of-thrones-seven-kingdoms.json](./110315-game-of-thrones-seven-kingdoms.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
 | Game Over II | 46658 | [46658-game-over-ii.json](./46658-game-over-ii.json) |
 | Game Over Quest | 122330 | [122330-game-over-quest.json](./122330-game-over-quest.json) |
@@ -1514,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
 | Graytail | 292298 | [292298-graytail.json](./292298-graytail.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
+| GRE Words Puzzle | 110300 | [110300-gre-words-puzzle.json](./110300-gre-words-puzzle.json) |
 | Grease Monkey Grand Prix | 343238 | [343238-grease-monkey-grand-prix.json](./343238-grease-monkey-grand-prix.json) |
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
 | Great Adventures: Pirate Ship | 63892 | [63892-great-adventures-pirate-ship.json](./63892-great-adventures-pirate-ship.json) |
@@ -1791,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
+| Guild Masters | 110317 | [110317-guild-masters.json](./110317-guild-masters.json) |
 | Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild Receptionist: Good Luck | 339103 | [339103-guild-receptionist-good-luck.json](./339103-guild-receptionist-good-luck.json) |
