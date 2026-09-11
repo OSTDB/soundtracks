@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despair 3 | 57684 | [57684-despair-3.json](./57684-despair-3.json) |
 | Despair: Blood Curse | 153951 | [153951-despair-blood-curse.json](./153951-despair-blood-curse.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
+| Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Desperate: Vladivostok | 206720 | [206720-desperate-vladivostok.json](./206720-desperate-vladivostok.json) |
 | Desperation | 147415 | [147415-desperation.json](./147415-desperation.json) |
@@ -1539,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
 | Didi & Ditto: Kindergarten | 73832 | [73832-didi-and-ditto-kindergarten.json](./73832-didi-and-ditto-kindergarten.json) |
 | Didnapper | 295249 | [295249-didnapper.json](./295249-didnapper.json) |
+| Die Bahnwelt | 82035 | [82035-die-bahnwelt.json](./82035-die-bahnwelt.json) |
 | Die CD-ROM mit der Maus 1 | 250609 | [250609-die-cd-rom-mit-der-maus-1.json](./250609-die-cd-rom-mit-der-maus-1.json) |
 | Die CD-ROM mit der Maus 2 | 250610 | [250610-die-cd-rom-mit-der-maus-2.json](./250610-die-cd-rom-mit-der-maus-2.json) |
 | Die CD-ROM mit der Maus 3 | 250611 | [250611-die-cd-rom-mit-der-maus-3.json](./250611-die-cd-rom-mit-der-maus-3.json) |
@@ -1876,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
+| Disney's Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 | 82097 | [82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json](./82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json) |
 | Disobedient Sheep | 115623 | [115623-disobedient-sheep.json](./115623-disobedient-sheep.json) |
 | Disonante | 118432 | [118432-disonante.json](./118432-disonante.json) |
 | Disorder | 229692 | [229692-disorder.json](./229692-disorder.json) |
