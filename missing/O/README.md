@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oculus Arcade | 213949 | [213949-oculus-arcade.json](./213949-oculus-arcade.json) |
 | Oculux | 157126 | [157126-oculux.json](./157126-oculux.json) |
 | OD: Knock | 279637 | [279637-od-knock.json](./279637-od-knock.json) |
+| Oda | 122324 | [122324-oda.json](./122324-oda.json) |
 | Odd Adventure of Chub, Color, 23 and You | 169973 | [169973-odd-adventure-of-chub-color-23-and-you.json](./169973-odd-adventure-of-chub-color-23-and-you.json) |
 | Odd Ball | 60588 | [60588-odd-ball.json](./60588-odd-ball.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
