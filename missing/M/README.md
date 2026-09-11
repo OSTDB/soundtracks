@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Mania | 120408 | [120408-mage-mania.json](./120408-mage-mania.json) |
 | Mage March | 185155 | [185155-mage-march.json](./185155-mage-march.json) |
 | Mage Recall | 402284 | [402284-mage-recall.json](./402284-mage-recall.json) |
+| Mage VR: The Lost Memories | 115619 | [115619-mage-vr-the-lost-memories.json](./115619-mage-vr-the-lost-memories.json) |
 | Mage vs. Castle | 301819 | [301819-mage-vs-castle.json](./301819-mage-vs-castle.json) |
 | Mage World: The Wizard's Stone | 169419 | [169419-mage-world-the-wizards-stone.json](./169419-mage-world-the-wizards-stone.json) |
 | Mage: Enchanted | 169946 | [169946-mage-enchanted.json](./169946-mage-enchanted.json) |
@@ -435,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
+| Malevolence | 115635 | [115635-malevolence.json](./115635-malevolence.json) |
 | Malfortune | 105382 | [105382-malfortune.json](./105382-malfortune.json) |
 | Malfunction FPS | 168326 | [168326-malfunction-fps.json](./168326-malfunction-fps.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
@@ -2339,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur Maze | 150639 | [150639-minotaur-maze.json](./150639-minotaur-maze.json) |
 | Minotaur Rescue | 94757 | [94757-minotaur-rescue.json](./94757-minotaur-rescue.json) |
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
+| Minskies | 115631 | [115631-minskies.json](./115631-minskies.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
 | Mintroid | 188619 | [188619-mintroid.json](./188619-mintroid.json) |
@@ -2473,6 +2476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistfall | 239042 | [239042-mistfall.json](./239042-mistfall.json) |
 | Mistful Crimson Morning | 341911 | [341911-mistful-crimson-morning.json](./341911-mistful-crimson-morning.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
+| Mistress of Maids: First Castle | 115627 | [115627-mistress-of-maids-first-castle.json](./115627-mistress-of-maids-first-castle.json) |
 | Mistrogue: Mist and the Living Dungeons | 217313 | [217313-mistrogue-mist-and-the-living-dungeons.json](./217313-mistrogue-mist-and-the-living-dungeons.json) |
 | Mists of Aiden | 135840 | [135840-mists-of-aiden.json](./135840-mists-of-aiden.json) |
 | MistsBook | 296371 | [296371-mistsbook.json](./296371-mistsbook.json) |
@@ -3098,6 +3102,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morse vs. Horse | 344340 | [344340-morse-vs-horse.json](./344340-morse-vs-horse.json) |
 | Mortadelo y Filemón II: Safari Callejero | 98975 | [98975-mortadelo-y-filemon-ii-safari-callejero.json](./98975-mortadelo-y-filemon-ii-safari-callejero.json) |
 | Mortadelo y Filemón: El Escarabajo de Cleopatra | 78038 | [78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json](./78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json) |
+| Mortadelo y Filemón: La Banda de Corvino | 115598 | [115598-mortadelo-y-filemon-la-banda-de-corvino.json](./115598-mortadelo-y-filemon-la-banda-de-corvino.json) |
+| Mortadelo y Filemón: Una aventura de cine - Edición especial | 115607 | [115607-mortadelo-y-filemon-una-aventura-de-cine-edicion-especial.json](./115607-mortadelo-y-filemon-una-aventura-de-cine-edicion-especial.json) |
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
 | Mortal Fighter | 251837 | [251837-mortal-fighter.json](./251837-mortal-fighter.json) |
 | Mortal Glory | 119763 | [119763-mortal-glory.json](./119763-mortal-glory.json) |
