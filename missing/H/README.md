@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartLinks: A Puzzle Called Love | 153940 | [153940-heartlinks-a-puzzle-called-love.json](./153940-heartlinks-a-puzzle-called-love.json) |
 | Heartomics: Nokori | 33152 | [33152-heartomics-nokori.json](./33152-heartomics-nokori.json) |
 | Heartomics: Slime & Friends | 33163 | [33163-heartomics-slime-and-friends.json](./33163-heartomics-slime-and-friends.json) |
+| Heartomics: Valkyries | 109610 | [109610-heartomics-valkyries.json](./109610-heartomics-valkyries.json) |
 | Heartreasure | 175945 | [175945-heartreasure.json](./175945-heartreasure.json) |
 | Heartreasure 2: Underground | 175946 | [175946-heartreasure-2-underground.json](./175946-heartreasure-2-underground.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
@@ -792,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
 | Hell's Eventide | 263487 | [263487-hells-eventide.json](./263487-hells-eventide.json) |
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
+| Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
 | Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
