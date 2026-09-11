@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokai Tamer | 193936 | [193936-yokai-tamer.json](./193936-yokai-tamer.json) |
 | Yokai's Secret | 138265 | [138265-yokais-secret.json](./138265-yokais-secret.json) |
 | Yokaiware | 186313 | [186313-yokaiware.json](./186313-yokaiware.json) |
+| YokeLight | 103421 | [103421-yokelight.json](./103421-yokelight.json) |
 | Yoko Redux: Dreams of a Blue Planet | 191240 | [191240-yoko-redux-dreams-of-a-blue-planet.json](./191240-yoko-redux-dreams-of-a-blue-planet.json) |
 | Yokoi-san Warp | 183022 | [183022-yokoi-san-warp.json](./183022-yokoi-san-warp.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
