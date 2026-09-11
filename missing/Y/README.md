@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
 | Yo-Kai Watch 3: Tempura | 222295 | [222295-yo-kai-watch-3-tempura.json](./222295-yo-kai-watch-3-tempura.json) |
+| Yo-kai Watch 4++ | 127255 | [127255-yo-kai-watch-4.json](./127255-yo-kai-watch-4.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
 | Yodobongingi | 234635 | [234635-yodobongingi.json](./234635-yodobongingi.json) |
@@ -143,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomi 2: Renegades | 289877 | [289877-yomi-2-renegades.json](./289877-yomi-2-renegades.json) |
 | Yonesawara Hospital | 203887 | [203887-yonesawara-hospital.json](./203887-yonesawara-hospital.json) |
 | Yongbi M | 208061 | [208061-yongbi-m.json](./208061-yongbi-m.json) |
+| Yōngbīng Zhàngē | 127232 | [127232-yongbing-zhange.json](./127232-yongbing-zhange.json) |
 | Yooca: Next Horizon | 369058 | [369058-yooca-next-horizon.json](./369058-yooca-next-horizon.json) |
 | Yooca: Your Life | 390516 | [390516-yooca-your-life.json](./390516-yooca-your-life.json) |
 | Yooka-Laylee and the Impossible Lair: Digital Deluxe Edition | 154557 | [154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json](./154557-yooka-laylee-and-the-impossible-lair-digital-deluxe-edition.json) |
