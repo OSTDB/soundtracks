@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:01:07.564Z",
-  "total_missing": 57487,
+  "generated_at": "2026-09-11T10:06:21.816Z",
+  "total_missing": 57494,
   "games": [
     {
       "igdb_id": 306086,
@@ -1638,11 +1638,6 @@
       "file": "missing/0-9/115641-7-little-words.json"
     },
     {
-      "igdb_id": 316436,
-      "game_name": "7 Nights Keeper",
-      "file": "missing/0-9/316436-7-nights-keeper.json"
-    },
-    {
       "igdb_id": 175396,
       "game_name": "7 Planets",
       "file": "missing/0-9/175396-7-planets.json"
@@ -1883,11 +1878,6 @@
       "file": "missing/A/183047-a-cat-cafe-story.json"
     },
     {
-      "igdb_id": 389999,
-      "game_name": "A Certain Incremental Exoplanet",
-      "file": "missing/A/389999-a-certain-incremental-exoplanet.json"
-    },
-    {
       "igdb_id": 312366,
       "game_name": "A Christmas Gift: Timmy's Final Gift",
       "file": "missing/A/312366-a-christmas-gift-timmys-final-gift.json"
@@ -2046,11 +2036,6 @@
       "igdb_id": 158674,
       "game_name": "A Gay Love Story About Gay Love",
       "file": "missing/A/158674-a-gay-love-story-about-gay-love.json"
-    },
-    {
-      "igdb_id": 311503,
-      "game_name": "A Gentlemen's Dispute",
-      "file": "missing/A/311503-a-gentlemens-dispute.json"
     },
     {
       "igdb_id": 106621,
@@ -42588,6 +42573,11 @@
       "file": "missing/C/336538-christmas-horror-land.json"
     },
     {
+      "igdb_id": 108458,
+      "game_name": "Christmas Jigsaw Puzzle Pango",
+      "file": "missing/C/108458-christmas-jigsaw-puzzle-pango.json"
+    },
+    {
       "igdb_id": 326981,
       "game_name": "Christmas Jumper Jam",
       "file": "missing/C/326981-christmas-jumper-jam.json"
@@ -64236,6 +64226,11 @@
       "igdb_id": 116371,
       "game_name": "Dominance",
       "file": "missing/D/116371-dominance.json"
+    },
+    {
+      "igdb_id": 108516,
+      "game_name": "Dominant Species for iPad",
+      "file": "missing/D/108516-dominant-species-for-ipad.json"
     },
     {
       "igdb_id": 147971,
@@ -120588,6 +120583,11 @@
       "file": "missing/J/108478-jewels-deluxe.json"
     },
     {
+      "igdb_id": 108512,
+      "game_name": "Jewels Mania Adventure Star",
+      "file": "missing/J/108512-jewels-mania-adventure-star.json"
+    },
+    {
       "igdb_id": 130308,
       "game_name": "Jewels of the Ages",
       "file": "missing/J/130308-jewels-of-the-ages.json"
@@ -120596,6 +120596,11 @@
       "igdb_id": 171596,
       "game_name": "Jewels of the Mysterious Woodland: Fairies Magical Jewel Match Quest",
       "file": "missing/J/171596-jewels-of-the-mysterious-woodland-fairies-magical-jewel-match-quest.json"
+    },
+    {
+      "igdb_id": 108510,
+      "game_name": "Jewels Time : Endless match",
+      "file": "missing/J/108510-jewels-time-endless-match.json"
     },
     {
       "igdb_id": 186254,
@@ -161308,6 +161313,11 @@
       "file": "missing/N/225878-neversynth.json"
     },
     {
+      "igdb_id": 108459,
+      "game_name": "Nevertales: Smoke and Mirrors HD",
+      "file": "missing/N/108459-nevertales-smoke-and-mirrors-hd.json"
+    },
+    {
       "igdb_id": 28972,
       "game_name": "Neverwinter Nights 2: Platinum",
       "file": "missing/N/28972-neverwinter-nights-2-platinum.json"
@@ -176936,6 +176946,11 @@
       "igdb_id": 175330,
       "game_name": "Picaboo Star",
       "file": "missing/P/175330-picaboo-star.json"
+    },
+    {
+      "igdb_id": 108517,
+      "game_name": "PicaSim - Flight Simulator",
+      "file": "missing/P/108517-picasim-flight-simulator.json"
     },
     {
       "igdb_id": 126015,
@@ -197748,6 +197763,11 @@
       "file": "missing/R/127975-rocketpods.json"
     },
     {
+      "igdb_id": 108514,
+      "game_name": "Rockets",
+      "file": "missing/R/108514-rockets.json"
+    },
+    {
       "igdb_id": 178638,
       "game_name": "Rocketship Rescue",
       "file": "missing/R/178638-rocketship-rescue.json"
@@ -201451,6 +201471,11 @@
       "igdb_id": 205836,
       "game_name": "Safari Adventures",
       "file": "missing/S/205836-safari-adventures.json"
+    },
+    {
+      "igdb_id": 108513,
+      "game_name": "Safari Hunt 2018",
+      "file": "missing/S/108513-safari-hunt-2018.json"
     },
     {
       "igdb_id": 319952,
@@ -227733,6 +227758,11 @@
       "file": "missing/S/246985-stunt-rush-3d-buggy-racing.json"
     },
     {
+      "igdb_id": 108515,
+      "game_name": "StuntCopter!",
+      "file": "missing/S/108515-stuntcopter.json"
+    },
+    {
       "igdb_id": 197884,
       "game_name": "Stuntman",
       "file": "missing/S/197884-stuntman.json"
@@ -228636,6 +228666,11 @@
       "igdb_id": 32210,
       "game_name": "Sumeru",
       "file": "missing/S/32210-sumeru.json"
+    },
+    {
+      "igdb_id": 108511,
+      "game_name": "Sumi Sumi",
+      "file": "missing/S/108511-sumi-sumi.json"
     },
     {
       "igdb_id": 219585,
