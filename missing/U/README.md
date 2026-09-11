@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
 | Unmemory | 131565 | [131565-unmemory.json](./131565-unmemory.json) |
 | Unnamed Arcade | 338586 | [338586-unnamed-arcade.json](./338586-unnamed-arcade.json) |
+| Unnamed El Shaddai Project | 93535 | [93535-unnamed-el-shaddai-project.json](./93535-unnamed-el-shaddai-project.json) |
 | Unnamed Experiment | 265145 | [265145-unnamed-experiment.json](./265145-unnamed-experiment.json) |
 | Unnamed Project | 286012 | [286012-unnamed-project.json](./286012-unnamed-project.json) |
 | Unnamed Shovel Knight Sequel | 305758 | [305758-unnamed-shovel-knight-sequel.json](./305758-unnamed-shovel-knight-sequel.json) |
