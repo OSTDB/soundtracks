@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chequred Flag | 45335 | [45335-chequred-flag.json](./45335-chequred-flag.json) |
 | Cheri La Bete | 246091 | [246091-cheri-la-bete.json](./246091-cheri-la-bete.json) |
 | Chernobyl | 228687 | [228687-chernobyl.json](./228687-chernobyl.json) |
+| Chernobyl 1986 | 120929 | [120929-chernobyl-1986.json](./120929-chernobyl-1986.json) |
 | Chernobyl: Escape from Pripyat | 335952 | [335952-chernobyl-escape-from-pripyat.json](./335952-chernobyl-escape-from-pripyat.json) |
 | Chernobyl: Road of Death | 122380 | [122380-chernobyl-road-of-death.json](./122380-chernobyl-road-of-death.json) |
 | Chernobylite: Season 1 - Blue Flames | 222932 | [222932-chernobylite-season-1-blue-flames.json](./222932-chernobylite-season-1-blue-flames.json) |
@@ -1904,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Cochonnet | 382750 | [382750-cochonnet.json](./382750-cochonnet.json) |
+| Cockatrice Attacking the city | 120970 | [120970-cockatrice-attacking-the-city.json](./120970-cockatrice-attacking-the-city.json) |
 | Cocked and Loaded | 278671 | [278671-cocked-and-loaded.json](./278671-cocked-and-loaded.json) |
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
 | Cockroach VR | 31361 | [31361-cockroach-vr.json](./31361-cockroach-vr.json) |
@@ -1938,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
 | Code: X | 174798 | [174798-code-x.json](./174798-code-x.json) |
+| Code/The Werewolf Party | 120927 | [120927-code-the-werewolf-party.json](./120927-code-the-werewolf-party.json) |
 | Code5erpent | 281998 | [281998-code5erpent.json](./281998-code5erpent.json) |
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
 | Codebreakers VR | 318181 | [318181-codebreakers-vr.json](./318181-codebreakers-vr.json) |
@@ -2691,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courageous Reasoning Nori 9 Reasoning Tournament Sticking Nori | 330129 | [330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json](./330129-courageous-reasoning-nori-9-reasoning-tournament-sticking-nori.json) |
 | Courier Beware | 399597 | [399597-courier-beware.json](./399597-courier-beware.json) |
 | Courier Chief Tycoon | 237086 | [237086-courier-chief-tycoon.json](./237086-courier-chief-tycoon.json) |
+| Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
 | Courting Death | 318791 | [318791-courting-death.json](./318791-courting-death.json) |
 | Courtroom Chaos: Starring Snoop Dogg | 371262 | [371262-courtroom-chaos-starring-snoop-dogg.json](./371262-courtroom-chaos-starring-snoop-dogg.json) |
