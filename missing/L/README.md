@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
 | LBX: Little Battlers eXperience | 11257 | [11257-lbx-little-battlers-experience.json](./11257-lbx-little-battlers-experience.json) |
 | LCD Dream Escalator | 180784 | [180784-lcd-dream-escalator.json](./180784-lcd-dream-escalator.json) |
+| LDS Articles of Faith | 102738 | [102738-lds-articles-of-faith.json](./102738-lds-articles-of-faith.json) |
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
