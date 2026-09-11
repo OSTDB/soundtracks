@@ -121,15 +121,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I See You | 113642 | [113642-i-see-you.json](./113642-i-see-you.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
+| I Spy | 80520 | [80520-i-spy.json](./80520-i-spy.json) |
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
 | I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
+| I Wanna Be the Guy: Gaiden | 80531 | [80531-i-wanna-be-the-guy-gaiden.json](./80531-i-wanna-be-the-guy-gaiden.json) |
 | I Wanna Be the King! | 367960 | [367960-i-wanna-be-the-king.json](./367960-i-wanna-be-the-king.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
 | I Wanna How Many Bottles of Coke Zero Can Badlands Chug in 3 Minutes? Watch & See! | 210657 | [210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json](./210657-i-wanna-how-many-bottles-of-coke-zero-can-badlands-chug-in-3-minutes-watch-and-see.json) |
+| I Wanna Kill the Guy | 80532 | [80532-i-wanna-kill-the-guy.json](./80532-i-wanna-kill-the-guy.json) |
 | I Wanna Make a Dragon Game | 349291 | [349291-i-wanna-make-a-dragon-game.json](./349291-i-wanna-make-a-dragon-game.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
