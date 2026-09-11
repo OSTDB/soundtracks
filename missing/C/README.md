@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can You Come In? | 144235 | [144235-can-you-come-in.json](./144235-can-you-come-in.json) |
 | Can You Eat by Yourself | 76660 | [76660-can-you-eat-by-yourself.json](./76660-can-you-eat-by-yourself.json) |
 | Can You Escape Modern Office | 167290 | [167290-can-you-escape-modern-office.json](./167290-can-you-escape-modern-office.json) |
+| Can You Escape- Jail Break | 106550 | [106550-can-you-escape-jail-break.json](./106550-can-you-escape-jail-break.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
 | Can't Stop Running | 391080 | [391080-cant-stop-running.json](./391080-cant-stop-running.json) |
 | Canada Break | 208582 | [208582-canada-break.json](./208582-canada-break.json) |
@@ -3567,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute animal jigsaw puzzle | 159856 | [159856-cute-animal-jigsaw-puzzle.json](./159856-cute-animal-jigsaw-puzzle.json) |
 | Cute Animals Memory Card Game | 153455 | [153455-cute-animals-memory-card-game.json](./153455-cute-animals-memory-card-game.json) |
 | Cute Army: A Cat Story | 176448 | [176448-cute-army-a-cat-story.json](./176448-cute-army-a-cat-story.json) |
+| Cute Bendy and Projectionist | 106520 | [106520-cute-bendy-and-projectionist.json](./106520-cute-bendy-and-projectionist.json) |
 | Cute Bite | 152325 | [152325-cute-bite.json](./152325-cute-bite.json) |
 | Cute Blocks | 264329 | [264329-cute-blocks.json](./264329-cute-blocks.json) |
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
