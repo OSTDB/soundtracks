@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campgrounds IV | 139392 | [139392-campgrounds-iv.json](./139392-campgrounds-iv.json) |
 | Campgrounds: The Endorus Expedition | 139393 | [139393-campgrounds-the-endorus-expedition.json](./139393-campgrounds-the-endorus-expedition.json) |
 | Camphor | 237352 | [237352-camphor.json](./237352-camphor.json) |
+| Campido | 111756 | [111756-campido.json](./111756-campido.json) |
 | Camping Simulator: The Squad | 150072 | [150072-camping-simulator-the-squad.json](./150072-camping-simulator-the-squad.json) |
 | Campire of Oasis: The Story | 397659 | [397659-campire-of-oasis-the-story.json](./397659-campire-of-oasis-the-story.json) |
 | CampNight | 223502 | [223502-campnight.json](./223502-campnight.json) |
@@ -1019,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
 | Champion ProWres Special | 125978 | [125978-champion-prowres-special.json](./125978-champion-prowres-special.json) |
 | Champions of Breakfast | 33423 | [33423-champions-of-breakfast.json](./33423-champions-of-breakfast.json) |
+| Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
 | Champions of Quortz | 249215 | [249215-champions-of-quortz.json](./249215-champions-of-quortz.json) |
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
@@ -1094,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm Studies | 243409 | [243409-charm-studies.json](./243409-charm-studies.json) |
 | Charm Studies | 400215 | [400215-charm-studies.json](./400215-charm-studies.json) |
+| Charm Tale 2: Mermaid Lagoon | 111626 | [111626-charm-tale-2-mermaid-lagoon.json](./111626-charm-tale-2-mermaid-lagoon.json) |
 | Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
 | Charmy Bee in Sonic the Hedgehog | 129181 | [129181-charmy-bee-in-sonic-the-hedgehog.json](./129181-charmy-bee-in-sonic-the-hedgehog.json) |
@@ -1535,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
 | Chuckie Egg | 10235 | [10235-chuckie-egg.json](./10235-chuckie-egg.json) |
+| Chuckie Egg 2017 Challenges | 111642 | [111642-chuckie-egg-2017-challenges.json](./111642-chuckie-egg-2017-challenges.json) |
 | Chucky | 113717 | [113717-chucky.json](./113717-chucky.json) |
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
