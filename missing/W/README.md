@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Williams Pinball: The Getaway - High Speed II | 354453 | [354453-williams-pinball-the-getaway-high-speed-ii.json](./354453-williams-pinball-the-getaway-high-speed-ii.json) |
 | Williams Pinball: Theatre of Magic | 354458 | [354458-williams-pinball-theatre-of-magic.json](./354458-williams-pinball-theatre-of-magic.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
+| Wills test game | 82079 | [82079-wills-test-game.json](./82079-wills-test-game.json) |
 | Willy and Rosie: Bust Out of the Big House | 273387 | [273387-willy-and-rosie-bust-out-of-the-big-house.json](./273387-willy-and-rosie-bust-out-of-the-big-house.json) |
 | Willy Crash | 225626 | [225626-willy-crash.json](./225626-willy-crash.json) |
 | Willy Crash Mini | 225627 | [225627-willy-crash-mini.json](./225627-willy-crash-mini.json) |
