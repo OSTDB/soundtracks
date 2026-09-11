@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warno: Nemesis #3 - Homefront | 403589 | [403589-warno-nemesis-3-homefront.json](./403589-warno-nemesis-3-homefront.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Warp 7 | 231062 | [231062-warp-7.json](./231062-warp-7.json) |
+| Warp League Basketball | 81238 | [81238-warp-league-basketball.json](./81238-warp-league-basketball.json) |
 | Warp Mania | 382761 | [382761-warp-mania.json](./382761-warp-mania.json) |
 | Warp Rush | 413007 | [413007-warp-rush.json](./413007-warp-rush.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
@@ -1149,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
 | Winx Club: Winx Fairy School | 96728 | [96728-winx-club-winx-fairy-school.json](./96728-winx-club-winx-fairy-school.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
+| Wipe Out VR | 81248 | [81248-wipe-out-vr.json](./81248-wipe-out-vr.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
@@ -1283,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
 | WizUp! | 290917 | [290917-wizup.json](./290917-wizup.json) |
 | Wizwag | 304014 | [304014-wizwag.json](./304014-wizwag.json) |
+| WizzBall | 81221 | [81221-wizzball.json](./81221-wizzball.json) |
 | Wloku | 307617 | [307617-wloku.json](./307617-wloku.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
 | Woahler Coaster! | 373513 | [373513-woahler-coaster.json](./373513-woahler-coaster.json) |
