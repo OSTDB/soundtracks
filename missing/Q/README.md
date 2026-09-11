@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q.U.B.E. 2: Ultimate Edition | 233013 | [233013-q-u-b-e-2-ultimate-edition.json](./233013-q-u-b-e-2-ultimate-edition.json) |
 | Q.u.q. | 238527 | [238527-q-u-q.json](./238527-q-u-q.json) |
 | Q*bert | 218444 | [218444-q-bert.json](./218444-q-bert.json) |
+| Q&Q Answers | 130889 | [130889-q-and-q-answers.json](./130889-q-and-q-answers.json) |
 | QAD: Quintessential Art of Destruction | 72102 | [72102-qad-quintessential-art-of-destruction.json](./72102-qad-quintessential-art-of-destruction.json) |
 | QamaQ | 178575 | [178575-qamaq.json](./178575-qamaq.json) |
 | Qanga | 97909 | [97909-qanga.json](./97909-qanga.json) |
