@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon: Total War - The Peninsular Campaign | 82109 | [82109-napoleon-total-war-the-peninsular-campaign.json](./82109-napoleon-total-war-the-peninsular-campaign.json) |
 | Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
+| Narborion by Night | 98479 | [98479-narborion-by-night.json](./98479-narborion-by-night.json) |
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
 | Narcis Crosswords | 304028 | [304028-narcis-crosswords.json](./304028-narcis-crosswords.json) |
@@ -1276,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
 | Normal Diner | 177495 | [177495-normal-diner.json](./177495-normal-diner.json) |
+| Normal Fastfood Fantasy | 98480 | [98480-normal-fastfood-fantasy.json](./98480-normal-fastfood-fantasy.json) |
 | Normal Golf Game | 355571 | [355571-normal-golf-game.json](./355571-normal-golf-game.json) |
 | Normal Person | 285977 | [285977-normal-person.json](./285977-normal-person.json) |
 | Normal Shmup | 250378 | [250378-normal-shmup.json](./250378-normal-shmup.json) |
@@ -1357,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Battles | 205584 | [205584-nova-battles.json](./205584-nova-battles.json) |
 | Nova City Original | 230270 | [230270-nova-city-original.json](./230270-nova-city-original.json) |
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
+| Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Impact | 405521 | [405521-nova-impact.json](./405521-nova-impact.json) |
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
