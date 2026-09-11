@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected World | 412279 | [412279-infected-world.json](./412279-infected-world.json) |
 | Infection | 142474 | [142474-infection.json](./142474-infection.json) |
 | Infection Crisis: Fight For Life | 270134 | [270134-infection-crisis-fight-for-life.json](./270134-infection-crisis-fight-for-life.json) |
+| Infection of the dead | 107274 | [107274-infection-of-the-dead.json](./107274-infection-of-the-dead.json) |
 | Infection X | 260417 | [260417-infection-x.json](./260417-infection-x.json) |
 | Infection: Board Game | 147906 | [147906-infection-board-game.json](./147906-infection-board-game.json) |
 | Infecto | 89934 | [89934-infecto.json](./89934-infecto.json) |
