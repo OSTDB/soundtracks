@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
+| Magic Paint | 88224 | [88224-magic-paint.json](./88224-magic-paint.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
@@ -455,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make the Burger | 143663 | [143663-make-the-burger.json](./143663-make-the-burger.json) |
 | Make the World a Better Place | 248326 | [248326-make-the-world-a-better-place.json](./248326-make-the-world-a-better-place.json) |
 | Make Them Stop | 240791 | [240791-make-them-stop.json](./240791-make-them-stop.json) |
+| Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
 | Make Words or Die | 174317 | [174317-make-words-or-die.json](./174317-make-words-or-die.json) |
 | MakeNumber | 94243 | [94243-makenumber.json](./94243-makenumber.json) |
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
@@ -1130,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya's Dream | 236508 | [236508-mayas-dream.json](./236508-mayas-dream.json) |
 | Maya's Mission | 388755 | [388755-mayas-mission.json](./388755-mayas-mission.json) |
 | Mayan Mishap | 256820 | [256820-mayan-mishap.json](./256820-mayan-mishap.json) |
+| Mayan Prophecies: Blood Moon - Collector's Edition | 88199 | [88199-mayan-prophecies-blood-moon-collectors-edition.json](./88199-mayan-prophecies-blood-moon-collectors-edition.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
@@ -3637,6 +3640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
+| Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
 | Murder Is Game Over: Deal Killer | 255750 | [255750-murder-is-game-over-deal-killer.json](./255750-murder-is-game-over-deal-killer.json) |
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
