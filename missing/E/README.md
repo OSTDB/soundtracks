@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eschalism | 385574 | [385574-eschalism.json](./385574-eschalism.json) |
 | Escoba Broom Cards Game | 331690 | [331690-escoba-broom-cards-game.json](./331690-escoba-broom-cards-game.json) |
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
+| Eskimo Games | 80527 | [80527-eskimo-games.json](./80527-eskimo-games.json) |
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
 | ESP Ra.De. | 91379 | [91379-esp-ra-de.json](./91379-esp-ra-de.json) |
