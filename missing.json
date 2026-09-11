@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T13:31:09.375Z",
-  "total_missing": 58046,
+  "generated_at": "2026-09-11T13:41:00.301Z",
+  "total_missing": 58053,
   "games": [
     {
       "igdb_id": 306086,
@@ -2196,11 +2196,6 @@
       "igdb_id": 381603,
       "game_name": "A Magical Tale: Revoke DX",
       "file": "missing/A/381603-a-magical-tale-revoke-dx.json"
-    },
-    {
-      "igdb_id": 229349,
-      "game_name": "A Maiden Astrologer Divines the Future",
-      "file": "missing/A/229349-a-maiden-astrologer-divines-the-future.json"
     },
     {
       "igdb_id": 302680,
@@ -30188,6 +30183,11 @@
       "file": "missing/B/188032-bomb-them-all.json"
     },
     {
+      "igdb_id": 101628,
+      "game_name": "Bomb-Bomb",
+      "file": "missing/B/101628-bomb-bomb.json"
+    },
+    {
       "igdb_id": 17403,
       "game_name": "Bomb: Who let the dogfight?",
       "file": "missing/B/17403-bomb-who-let-the-dogfight.json"
@@ -35051,6 +35051,11 @@
       "igdb_id": 246390,
       "game_name": "BurgerTime",
       "file": "missing/B/246390-burgertime.json"
+    },
+    {
+      "igdb_id": 101618,
+      "game_name": "Burgerwise the Clown",
+      "file": "missing/B/101618-burgerwise-the-clown.json"
     },
     {
       "igdb_id": 302962,
@@ -91743,6 +91748,11 @@
       "file": "missing/G/278666-g-warrior.json"
     },
     {
+      "igdb_id": 101630,
+      "game_name": "G-Dino's Jungle Adventure",
+      "file": "missing/G/101630-g-dinos-jungle-adventure.json"
+    },
+    {
       "igdb_id": 243938,
       "game_name": "G-Force Fighters",
       "file": "missing/G/243938-g-force-fighters.json"
@@ -93741,6 +93751,11 @@
       "igdb_id": 183034,
       "game_name": "Gay Zodiac",
       "file": "missing/G/183034-gay-zodiac.json"
+    },
+    {
+      "igdb_id": 101620,
+      "game_name": "Gaze At Maze",
+      "file": "missing/G/101620-gaze-at-maze.json"
     },
     {
       "igdb_id": 393476,
@@ -135756,6 +135771,11 @@
       "igdb_id": 194642,
       "game_name": "LittleBigPlanet: Pirates of the Caribbean Level Kit",
       "file": "missing/L/194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json"
+    },
+    {
+      "igdb_id": 101621,
+      "game_name": "LittleBigSoko",
+      "file": "missing/L/101621-littlebigsoko.json"
     },
     {
       "igdb_id": 353919,
@@ -192428,6 +192448,11 @@
       "file": "missing/R/224740-ranger-danger.json"
     },
     {
+      "igdb_id": 101623,
+      "game_name": "Ranger vs. Space Mutants",
+      "file": "missing/R/101623-ranger-vs-space-mutants.json"
+    },
+    {
       "igdb_id": 138744,
       "game_name": "Rangers",
       "file": "missing/R/138744-rangers.json"
@@ -229391,6 +229416,11 @@
       "igdb_id": 77346,
       "game_name": "Street Legal Racing: Redline",
       "file": "missing/S/77346-street-legal-racing-redline.json"
+    },
+    {
+      "igdb_id": 101624,
+      "game_name": "Street Level: Windows Edition",
+      "file": "missing/S/101624-street-level-windows-edition.json"
     },
     {
       "igdb_id": 45987,
@@ -266726,6 +266756,11 @@
       "igdb_id": 101615,
       "game_name": "Trivia Vault: Fashion Trivia",
       "file": "missing/T/101615-trivia-vault-fashion-trivia.json"
+    },
+    {
+      "igdb_id": 101626,
+      "game_name": "Trivia Vault: Literature Trivia",
+      "file": "missing/T/101626-trivia-vault-literature-trivia.json"
     },
     {
       "igdb_id": 101614,
