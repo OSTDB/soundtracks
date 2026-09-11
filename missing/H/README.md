@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| h 4 in a Row | 89155 | [89155-h-4-in-a-row.json](./89155-h-4-in-a-row.json) |
 | H Girl 2 | 244271 | [244271-h-girl-2.json](./244271-h-girl-2.json) |
 | H Girl 4 | 301810 | [301810-h-girl-4.json](./301810-h-girl-4.json) |
 | h Simply Go | 91338 | [91338-h-simply-go.json](./91338-h-simply-go.json) |
@@ -140,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
 | Halloween in Hollywood | 234043 | [234043-halloween-in-hollywood.json](./234043-halloween-in-hollywood.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
+| Halloween Pinball | 89159 | [89159-halloween-pinball.json](./89159-halloween-pinball.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
 | Halloween Stories: Inspiration's Spark - Collector's Edition | 362849 | [362849-halloween-stories-inspirations-spark-collectors-edition.json](./362849-halloween-stories-inspirations-spark-collectors-edition.json) |
@@ -1152,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
 | HeroField: Game Craft | 368514 | [368514-herofield-game-craft.json](./368514-herofield-game-craft.json) |
 | Herogrinder: Tactical Combat Arenas | 122397 | [122397-herogrinder-tactical-combat-arenas.json](./122397-herogrinder-tactical-combat-arenas.json) |
+| Heroic Battle | 89178 | [89178-heroic-battle.json](./89178-heroic-battle.json) |
 | Heroic City | 235776 | [235776-heroic-city.json](./235776-heroic-city.json) |
 | Heroic Defender GoFalcon | 363913 | [363913-heroic-defender-gofalcon.json](./363913-heroic-defender-gofalcon.json) |
 | Heroic Kingdom: Origins | 293642 | [293642-heroic-kingdom-origins.json](./293642-heroic-kingdom-origins.json) |
