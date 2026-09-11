@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
 | Jack the Ripper | 169989 | [169989-jack-the-ripper.json](./169989-jack-the-ripper.json) |
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
+| Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
