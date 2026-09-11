@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
 | Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
 | Nonentity Galaxy | 311490 | [311490-nonentity-galaxy.json](./311490-nonentity-galaxy.json) |
+| Nonet Sympathia | 124761 | [124761-nonet-sympathia.json](./124761-nonet-sympathia.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
 | Nono Adventure | 240218 | [240218-nono-adventure.json](./240218-nono-adventure.json) |
 | Nono Islands | 57111 | [57111-nono-islands.json](./57111-nono-islands.json) |
