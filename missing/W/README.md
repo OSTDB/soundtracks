@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaponry Dealer VR | 110464 | [110464-weaponry-dealer-vr.json](./110464-weaponry-dealer-vr.json) |
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
 | Weasel Words | 180823 | [180823-weasel-words.json](./180823-weasel-words.json) |
+| Weather Lord: Following the Princess | 96770 | [96770-weather-lord-following-the-princess.json](./96770-weather-lord-following-the-princess.json) |
 | Weather Lord: Following the Princess - Collector's Edition | 33164 | [33164-weather-lord-following-the-princess-collectors-edition.json](./33164-weather-lord-following-the-princess-collectors-edition.json) |
 | Weaveborn Heroes | 323517 | [323517-weaveborn-heroes.json](./323517-weaveborn-heroes.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
