@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
 | Elven Dreams | 277835 | [277835-elven-dreams.json](./277835-elven-dreams.json) |
+| Elven Magic: The Witch, The Elf & The Fairy | 107798 | [107798-elven-magic-the-witch-the-elf-and-the-fairy.json](./107798-elven-magic-the-witch-the-elf-and-the-fairy.json) |
 | Elven Rivers II: New Horizons - Collector's Edition | 250355 | [250355-elven-rivers-ii-new-horizons-collectors-edition.json](./250355-elven-rivers-ii-new-horizons-collectors-edition.json) |
 | Elven Rivers: The Forgotten Lands - Collector's Edition | 239643 | [239643-elven-rivers-the-forgotten-lands-collectors-edition.json](./239643-elven-rivers-the-forgotten-lands-collectors-edition.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
@@ -878,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erix | 274743 | [274743-erix.json](./274743-erix.json) |
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
+| Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
 | Ero Zemi: Ecchi ni Yaru-ki ni ABC | 194579 | [194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json](./194579-ero-zemi-ecchi-ni-yaru-ki-ni-abc.json) |
 | Eroblast: Playful Edition | 259572 | [259572-eroblast-playful-edition.json](./259572-eroblast-playful-edition.json) |
 | Erobos Heaven | 247514 | [247514-erobos-heaven.json](./247514-erobos-heaven.json) |
@@ -1288,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evo Defense | 395564 | [395564-evo-defense.json](./395564-evo-defense.json) |
 | Evo Explores | 32731 | [32731-evo-explores.json](./32731-evo-explores.json) |
 | Evo Island | 290415 | [290415-evo-island.json](./290415-evo-island.json) |
+| Evocation | 107817 | [107817-evocation.json](./107817-evocation.json) |
 | Evocation | 270116 | [270116-evocation.json](./270116-evocation.json) |
 | Evocation: Oltre il Sogno | 242533 | [242533-evocation-oltre-il-sogno.json](./242533-evocation-oltre-il-sogno.json) |
 | EvoGene | 248314 | [248314-evogene.json](./248314-evogene.json) |
