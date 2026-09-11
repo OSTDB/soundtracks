@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dataclysm | 327855 | [327855-dataclysm.json](./327855-dataclysm.json) |
 | DataFall | 393464 | [393464-datafall.json](./393464-datafall.json) |
 | Dataflow | 112353 | [112353-dataflow.json](./112353-dataflow.json) |
+| Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
 | Date A Live: Rio Reincarnation | 87742 | [87742-date-a-live-rio-reincarnation.json](./87742-date-a-live-rio-reincarnation.json) |
 | Date A Live: Rio Reincarnation HD - Limited Edition | 96104 | [96104-date-a-live-rio-reincarnation-hd-limited-edition.json](./96104-date-a-live-rio-reincarnation-hd-limited-edition.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
@@ -578,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Old Wounds Pack | 283185 | [283185-dead-by-daylight-old-wounds-pack.json](./283185-dead-by-daylight-old-wounds-pack.json) |
 | Dead by Daylight: Silent Hill Edition | 139976 | [139976-dead-by-daylight-silent-hill-edition.json](./139976-dead-by-daylight-silent-hill-edition.json) |
 | Dead by Wheel: Battle Royal | 109718 | [109718-dead-by-wheel-battle-royal.json](./109718-dead-by-wheel-battle-royal.json) |
+| Dead by zero | 95996 | [95996-dead-by-zero.json](./95996-dead-by-zero.json) |
 | Dead Cells: Everyone is Here! | 221962 | [221962-dead-cells-everyone-is-here.json](./221962-dead-cells-everyone-is-here.json) |
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: The Queen and the Sea | 183128 | [183128-dead-cells-the-queen-and-the-sea.json](./183128-dead-cells-the-queen-and-the-sea.json) |
@@ -897,6 +899,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
 | Deep Sea | 124155 | [124155-deep-sea.json](./124155-deep-sea.json) |
 | Deep Sea Arena | 344350 | [344350-deep-sea-arena.json](./344350-deep-sea-arena.json) |
+| Deep Sea Hunter | 95988 | [95988-deep-sea-hunter.json](./95988-deep-sea-hunter.json) |
+| Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
 | Deep Soup | 406707 | [406707-deep-soup.json](./406707-deep-soup.json) |
@@ -2895,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dresden Files Cooperative Card Game: Wardens Attack | 170489 | [170489-dresden-files-cooperative-card-game-wardens-attack.json](./170489-dresden-files-cooperative-card-game-wardens-attack.json) |
 | Dresden Files Cooperative Card Game: Winter Schemes | 266503 | [266503-dresden-files-cooperative-card-game-winter-schemes.json](./266503-dresden-files-cooperative-card-game-winter-schemes.json) |
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
+| Dress Up Bear | 96029 | [96029-dress-up-bear.json](./96029-dress-up-bear.json) |
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
 | Drevepsina | 256005 | [256005-drevepsina.json](./256005-drevepsina.json) |
 | Drew and the Floating Labyrinth | 35867 | [35867-drew-and-the-floating-labyrinth.json](./35867-drew-and-the-floating-labyrinth.json) |
