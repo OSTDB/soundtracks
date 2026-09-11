@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
+| Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
 | Healthy Breakfast | 117674 | [117674-healthy-breakfast.json](./117674-healthy-breakfast.json) |
 | Healthy Hero: Tower Defense | 284921 | [284921-healthy-hero-tower-defense.json](./284921-healthy-hero-tower-defense.json) |
 | Healthy Hospital | 233508 | [233508-healthy-hospital.json](./233508-healthy-hospital.json) |
@@ -632,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Gold | 402263 | [402263-heart-of-gold.json](./402263-heart-of-gold.json) |
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
+| Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
 | Heart-S-Truck | 278136 | [278136-heart-s-truck.json](./278136-heart-s-truck.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Heart&Slash | 17911 | [17911-heart-and-slash.json](./17911-heart-and-slash.json) |
@@ -1380,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Rise | 330538 | [330538-high-rise.json](./330538-high-rise.json) |
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
+| High School Escape 2 | 96702 | [96702-high-school-escape-2.json](./96702-high-school-escape-2.json) |
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Musical: All Together Now | 220094 | [220094-high-school-musical-all-together-now.json](./220094-high-school-musical-all-together-now.json) |
