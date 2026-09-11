@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
 | Genso Manège | 306084 | [306084-genso-manege.json](./306084-genso-manege.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
+| Gensokyo Rolling Force | 105313 | [105313-gensokyo-rolling-force.json](./105313-gensokyo-rolling-force.json) |
 | Gensou Makyou Kitan | 388734 | [388734-gensou-makyou-kitan.json](./388734-gensou-makyou-kitan.json) |
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
 | Gensou no Idea: Oratorio Phantasm Historia | 137081 | [137081-gensou-no-idea-oratorio-phantasm-historia.json](./137081-gensou-no-idea-oratorio-phantasm-historia.json) |
@@ -1538,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
 | Great Naval Battles Vol. II: Guadalcanal 1942-43 | 73821 | [73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json](./73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json) |
 | Great North Shelter 2 | 238491 | [238491-great-north-shelter-2.json](./238491-great-north-shelter-2.json) |
+| Great Old One - Arrival | 105303 | [105303-great-old-one-arrival.json](./105303-great-old-one-arrival.json) |
 | Great Paintings VR | 156103 | [156103-great-paintings-vr.json](./156103-great-paintings-vr.json) |
 | Great Powers | 291482 | [291482-great-powers.json](./291482-great-powers.json) |
 | Great Time Trio Remake | 306684 | [306684-great-time-trio-remake.json](./306684-great-time-trio-remake.json) |
