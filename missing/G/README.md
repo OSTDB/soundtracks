@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf-e | 170015 | [170015-golf-e.json](./170015-golf-e.json) |
 | Golf: Hole in One | 253579 | [253579-golf-hole-in-one.json](./253579-golf-hole-in-one.json) |
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
+| Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
 | Golfinite | 219801 | [219801-golfinite.json](./219801-golfinite.json) |
