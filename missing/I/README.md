@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
+| I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the King! | 367960 | [367960-i-wanna-be-the-king.json](./367960-i-wanna-be-the-king.json) |
@@ -484,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
 | Immortality | 152288 | [152288-immortality.json](./152288-immortality.json) |
+| Immortals | 103462 | [103462-immortals.json](./103462-immortals.json) |
 | Immortals: Muv-Luv Alternative | 194560 | [194560-immortals-muv-luv-alternative.json](./194560-immortals-muv-luv-alternative.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortelle | 212825 | [212825-immortelle.json](./212825-immortelle.json) |
@@ -575,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Pines | 341875 | [341875-in-the-pines.json](./341875-in-the-pines.json) |
 | In the pines, in the pines, where the sun never shines | 177514 | [177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json](./177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json) |
 | In the Raven Shadow – Ve stínu havrana | 44247 | [44247-in-the-raven-shadow-ve-stinu-havrana.json](./44247-in-the-raven-shadow-ve-stinu-havrana.json) |
+| In the Rim | 103398 | [103398-in-the-rim.json](./103398-in-the-rim.json) |
 | In The Ruined Courtyard | 260420 | [260420-in-the-ruined-courtyard.json](./260420-in-the-ruined-courtyard.json) |
 | In the Space: Escape Room | 195800 | [195800-in-the-space-escape-room.json](./195800-in-the-space-escape-room.json) |
 | In the Valley of Death | 172673 | [172673-in-the-valley-of-death.json](./172673-in-the-valley-of-death.json) |
