@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garbage Scow Captain | 317813 | [317813-garbage-scow-captain.json](./317813-garbage-scow-captain.json) |
 | Garbage Truck Driving Simulator | 256561 | [256561-garbage-truck-driving-simulator.json](./256561-garbage-truck-driving-simulator.json) |
 | Garbage Truck: Brushy Pick Up | 87273 | [87273-garbage-truck-brushy-pick-up.json](./87273-garbage-truck-brushy-pick-up.json) |
+| Garbage Truck: Bulky Trash Pick Up | 97289 | [97289-garbage-truck-bulky-trash-pick-up.json](./97289-garbage-truck-bulky-trash-pick-up.json) |
 | Garden | 185675 | [185675-garden.json](./185675-garden.json) |
 | Garden Box | 314675 | [314675-garden-box.json](./314675-garden-box.json) |
 | Garden Business | 215902 | [215902-garden-business.json](./215902-garden-business.json) |
@@ -545,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genocide 2 | 38334 | [38334-genocide-2.json](./38334-genocide-2.json) |
 | Genokids | 141137 | [141137-genokids.json](./141137-genokids.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
+| Gensei Suikoden | 97282 | [97282-gensei-suikoden.json](./97282-gensei-suikoden.json) |
 | Genshin Impact: As Light Rain Falls Without Reason | 259867 | [259867-genshin-impact-as-light-rain-falls-without-reason.json](./259867-genshin-impact-as-light-rain-falls-without-reason.json) |
 | Genshin Impact: Incandescent Ode of Resurrection | 326604 | [326604-genshin-impact-incandescent-ode-of-resurrection.json](./326604-genshin-impact-incandescent-ode-of-resurrection.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
