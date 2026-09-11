@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T02:33:37.117Z",
-  "total_missing": 56235,
+  "generated_at": "2026-09-11T02:41:06.997Z",
+  "total_missing": 56234,
   "games": [
     {
       "igdb_id": 306086,
@@ -1856,11 +1856,6 @@
       "igdb_id": 357774,
       "game_name": "A Coloring Break: Expansion pack 8",
       "file": "missing/A/357774-a-coloring-break-expansion-pack-8.json"
-    },
-    {
-      "igdb_id": 357775,
-      "game_name": "A Coloring Break: Expansion pack 9",
-      "file": "missing/A/357775-a-coloring-break-expansion-pack-9.json"
     },
     {
       "igdb_id": 102155,
