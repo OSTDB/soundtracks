@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T19:18:40.897Z",
-  "total_missing": 59102,
+  "generated_at": "2026-09-11T19:21:00.039Z",
+  "total_missing": 59101,
   "games": [
     {
       "igdb_id": 306086,
@@ -2376,11 +2376,6 @@
       "igdb_id": 229918,
       "game_name": "A Red Boat",
       "file": "missing/A/229918-a-red-boat.json"
-    },
-    {
-      "igdb_id": 140536,
-      "game_name": "A Ride to Love",
-      "file": "missing/A/140536-a-ride-to-love.json"
     },
     {
       "igdb_id": 67988,
