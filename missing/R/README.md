@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
 | Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
+| Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
