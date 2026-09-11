@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | Skullchef | 408786 | [408786-skullchef.json](./408786-skullchef.json) |
 | Skulldash Expanded Edition | 142416 | [142416-skulldash-expanded-edition.json](./142416-skulldash-expanded-edition.json) |
+| Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullhammer | 181862 | [181862-skullhammer.json](./181862-skullhammer.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
@@ -2563,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
 | Smash Realm | 402941 | [402941-smash-realm.json](./402941-smash-realm.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
+| Smash Rush | 127183 | [127183-smash-rush.json](./127183-smash-rush.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
@@ -3527,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
 | Space Berserker | 82929 | [82929-space-berserker.json](./82929-space-berserker.json) |
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
+| Space Blaze | 127182 | [127182-space-blaze.json](./127182-space-blaze.json) |
 | Space BloX | 119042 | [119042-space-blox.json](./119042-space-blox.json) |
 | Space Bomb | 120417 | [120417-space-bomb.json](./120417-space-bomb.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
@@ -4872,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
+| Stickman League | 127194 | [127194-stickman-league.json](./127194-stickman-league.json) |
 | Stickman Legends | 323197 | [323197-stickman-legends.json](./323197-stickman-legends.json) |
 | Stickman Monster Battle 3D | 401561 | [401561-stickman-monster-battle-3d.json](./401561-stickman-monster-battle-3d.json) |
 | Stickman Odyssey | 329578 | [329578-stickman-odyssey.json](./329578-stickman-odyssey.json) |
@@ -6001,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Retro Retry | 273399 | [273399-super-retro-retry.json](./273399-super-retro-retry.json) |
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
+| Super Rhythm Duel | 127213 | [127213-super-rhythm-duel.json](./127213-super-rhythm-duel.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
 | Super Robot Taisen OG: Dark Prison | 144283 | [144283-super-robot-taisen-og-dark-prison.json](./144283-super-robot-taisen-og-dark-prison.json) |
@@ -6063,6 +6068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sonic in Sonic the Hedgehog | 198527 | [198527-super-sonic-in-sonic-the-hedgehog.json](./198527-super-sonic-in-sonic-the-hedgehog.json) |
 | Super Sonic Speed Course | 321115 | [321115-super-sonic-speed-course.json](./321115-super-sonic-speed-course.json) |
 | Super Space Serpent SE + Perpetuum: Mobile Bundle | 212789 | [212789-super-space-serpent-se-perpetuum-mobile-bundle.json](./212789-super-space-serpent-se-perpetuum-mobile-bundle.json) |
+| Super Space Shooter Arena | 127204 | [127204-super-space-shooter-arena.json](./127204-super-space-shooter-arena.json) |
 | Super Spike V'Ball | 48073 | [48073-super-spike-vball.json](./48073-super-spike-vball.json) |
 | Super Spike V'Ball/Nintendo World Cup | 93582 | [93582-super-spike-vball-nintendo-world-cup.json](./93582-super-spike-vball-nintendo-world-cup.json) |
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
@@ -6174,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural Visual Novel: The Fourteenth Guzai Vol. 1 & 2 | 373524 | [373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json](./373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json) |
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
+| Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
 | SuperPro Snowboarding | 233525 | [233525-superpro-snowboarding.json](./233525-superpro-snowboarding.json) |
 | SuperQuest | 342636 | [342636-superquest.json](./342636-superquest.json) |
 | Supershot Golf Robot | 206714 | [206714-supershot-golf-robot.json](./206714-supershot-golf-robot.json) |
@@ -6443,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
 | Swipepi | 267363 | [267363-swipepi.json](./267363-swipepi.json) |
+| Swiper | 127231 | [127231-swiper.json](./127231-swiper.json) |
 | Swiss Family Robinson | 7732 | [7732-swiss-family-robinson.json](./7732-swiss-family-robinson.json) |
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
 | Switch Blasters | 402902 | [402902-switch-blasters.json](./402902-switch-blasters.json) |
