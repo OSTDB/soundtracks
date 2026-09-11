@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguine Melancholia | 138730 | [138730-sanguine-melancholia.json](./138730-sanguine-melancholia.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
 | Sānguó Qúnyīng Lù | 407319 | [407319-sanguo-qunying-lu.json](./407319-sanguo-qunying-lu.json) |
+| Sanguo Qunyingzhuan VII | 81260 | [81260-sanguo-qunyingzhuan-vii.json](./81260-sanguo-qunyingzhuan-vii.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
@@ -1003,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
 | Sekai no Chuushin de Mawaru | 260687 | [260687-sekai-no-chuushin-de-mawaru.json](./260687-sekai-no-chuushin-de-mawaru.json) |
+| Sekai no Gohan Shaberu! DS O-Ryouri Navi | 81255 | [81255-sekai-no-gohan-shaberu-ds-o-ryouri-navi.json](./81255-sekai-no-gohan-shaberu-ds-o-ryouri-navi.json) |
 | Sekai Saikyou Ginsei Igo | 107136 | [107136-sekai-saikyou-ginsei-igo.json](./107136-sekai-saikyou-ginsei-igo.json) |
 | Sekai Saikyou Ginsei Igo 3 | 347157 | [347157-sekai-saikyou-ginsei-igo-3.json](./347157-sekai-saikyou-ginsei-igo-3.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
@@ -1841,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
 | Show do Milho Grande | 359981 | [359981-show-do-milho-grande.json](./359981-show-do-milho-grande.json) |
+| Show It 2 Me | 81216 | [81216-show-it-2-me.json](./81216-show-it-2-me.json) |
 | Showdown at Willow Creek | 83599 | [83599-showdown-at-willow-creek.json](./83599-showdown-at-willow-creek.json) |
 | Showdown Bandit | 121497 | [121497-showdown-bandit.json](./121497-showdown-bandit.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
@@ -2296,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skaza | 141159 | [141159-skaza.json](./141159-skaza.json) |
 | Skeal | 185682 | [185682-skeal.json](./185682-skeal.json) |
 | Skedaddling In Egypt | 244244 | [244244-skedaddling-in-egypt.json](./244244-skedaddling-in-egypt.json) |
+| Skeetshoot | 81284 | [81284-skeetshoot.json](./81284-skeetshoot.json) |
 | Skelemania | 183059 | [183059-skelemania.json](./183059-skelemania.json) |
 | Skelerun | 198513 | [198513-skelerun.json](./198513-skelerun.json) |
 | Skelet_666 | 306380 | [306380-skelet-666.json](./306380-skelet-666.json) |
@@ -2461,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
+| Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
 | Slap-Shot! Hockey | 95424 | [95424-slap-shot-hockey.json](./95424-slap-shot-hockey.json) |
 | SlapGains | 413671 | [413671-slapgains.json](./413671-slapgains.json) |
@@ -5135,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Fight: Endless Battle | 245338 | [245338-stick-fight-endless-battle.json](./245338-stick-fight-endless-battle.json) |
 | Stick Fight: Shadow Warrior | 323193 | [323193-stick-fight-shadow-warrior.json](./323193-stick-fight-shadow-warrior.json) |
 | Stick Fight: The Game | 65832 | [65832-stick-fight-the-game.json](./65832-stick-fight-the-game.json) |
+| Stick Fighter II | 81332 | [81332-stick-fighter-ii.json](./81332-stick-fighter-ii.json) |
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
 | Stick Infinite Kingdom | 310934 | [310934-stick-infinite-kingdom.json](./310934-stick-infinite-kingdom.json) |
 | Stick or Stone? | 176457 | [176457-stick-or-stone.json](./176457-stick-or-stone.json) |
@@ -5852,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Auto Pets | 146641 | [146641-super-auto-pets.json](./146641-super-auto-pets.json) |
 | Super Auto Racing | 245581 | [245581-super-auto-racing.json](./245581-super-auto-racing.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
+| Super Baseball | 81283 | [81283-super-baseball.json](./81283-super-baseball.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
@@ -6450,6 +6457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Terrible Project | 222914 | [222914-super-terrible-project.json](./222914-super-terrible-project.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
 | Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
+| Super Tony Land | 81210 | [81210-super-tony-land.json](./81210-super-tony-land.json) |
 | Super Toss the Turtle | 57104 | [57104-super-toss-the-turtle.json](./57104-super-toss-the-turtle.json) |
 | Super Toy Cars 1 & 2 Bundle | 208579 | [208579-super-toy-cars-1-and-2-bundle.json](./208579-super-toy-cars-1-and-2-bundle.json) |
 | Super Toy Cars Collection | 204083 | [204083-super-toy-cars-collection.json](./204083-super-toy-cars-collection.json) |
