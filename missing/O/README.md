@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
 | Osawari Hockey Enko-chan | 235769 | [235769-osawari-hockey-enko-chan.json](./235769-osawari-hockey-enko-chan.json) |
+| Oscar der Ballonfahrer taucht unter | 86031 | [86031-oscar-der-ballonfahrer-taucht-unter.json](./86031-oscar-der-ballonfahrer-taucht-unter.json) |
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
 | Oshare Beena: o-Mise de Kisekae Make Haircut | 300424 | [300424-oshare-beena-o-mise-de-kisekae-make-haircut.json](./300424-oshare-beena-o-mise-de-kisekae-make-haircut.json) |
@@ -1158,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Shooter | 339284 | [339284-over-shooter.json](./339284-over-shooter.json) |
 | Over the Alps: King of the Mountain | 135802 | [135802-over-the-alps-king-of-the-mountain.json](./135802-over-the-alps-king-of-the-mountain.json) |
 | Over the Counter | 186813 | [186813-over-the-counter.json](./186813-over-the-counter.json) |
+| Over the Net | 87181 | [87181-over-the-net.json](./87181-over-the-net.json) |
 | Over The Top: WWI | 291749 | [291749-over-the-top-wwi.json](./291749-over-the-top-wwi.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
