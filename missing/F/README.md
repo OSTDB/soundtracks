@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Deities | 316654 | [316654-fallen-deities.json](./316654-fallen-deities.json) |
 | Fallen Devotion | 333964 | [333964-fallen-devotion.json](./333964-fallen-devotion.json) |
 | Fallen Echo | 311501 | [311501-fallen-echo.json](./311501-fallen-echo.json) |
+| Fallen Emiya | 106544 | [106544-fallen-emiya.json](./106544-fallen-emiya.json) |
 | Fallen Enchantress: Legendary Heroes - Battlegrounds DLC | 168378 | [168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json](./168378-fallen-enchantress-legendary-heroes-battlegrounds-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - Leader Pack DLC | 168370 | [168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json](./168370-fallen-enchantress-legendary-heroes-leader-pack-dlc.json) |
 | Fallen Enchantress: Legendary Heroes - Quest Pack DLC | 168379 | [168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json](./168379-fallen-enchantress-legendary-heroes-quest-pack-dlc.json) |
@@ -1293,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
 | Flame of Valhalla | 329022 | [329022-flame-of-valhalla.json](./329022-flame-of-valhalla.json) |
+| Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
