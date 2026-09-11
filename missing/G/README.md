@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
 | Goremon | 249224 | [249224-goremon.json](./249224-goremon.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
+| Gorgeous Princess Dressup | 104605 | [104605-gorgeous-princess-dressup.json](./104605-gorgeous-princess-dressup.json) |
 | Gorgon | 22411 | [22411-gorgon.json](./22411-gorgon.json) |
 | Gorgon Shield | 259018 | [259018-gorgon-shield.json](./259018-gorgon-shield.json) |
 | Gorgonia: A Gorgon's Tragedy | 326975 | [326975-gorgonia-a-gorgons-tragedy.json](./326975-gorgonia-a-gorgons-tragedy.json) |
@@ -1793,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Da Meme | 104067 | [104067-guess-da-meme.json](./104067-guess-da-meme.json) |
 | Guess Game | 115068 | [115068-guess-game.json](./115068-guess-game.json) |
 | Guess it not | 79346 | [79346-guess-it-not.json](./79346-guess-it-not.json) |
+| Guess Logo Game | 104697 | [104697-guess-logo-game.json](./104697-guess-logo-game.json) |
 | Guess Me If You Can | 339829 | [339829-guess-me-if-you-can.json](./339829-guess-me-if-you-can.json) |
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
@@ -1846,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero World Tour: Definitive Edition | 187448 | [187448-guitar-hero-world-tour-definitive-edition.json](./187448-guitar-hero-world-tour-definitive-edition.json) |
 | Guitar Hero: Van Halen | 2675 | [2675-guitar-hero-van-halen.json](./2675-guitar-hero-van-halen.json) |
 | Guitar Star | 267958 | [267958-guitar-star.json](./267958-guitar-star.json) |
+| GuitarFreaks 3rdMix & DrumMania 2ndMix | 104591 | [104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json](./104591-guitarfreaks-3rdmix-and-drummania-2ndmix.json) |
 | GuitarFreaks 4thMix & DrumMania 3rdMix | 188659 | [188659-guitarfreaks-4thmix-and-drummania-3rdmix.json](./188659-guitarfreaks-4thmix-and-drummania-3rdmix.json) |
 | GuitarFreaks V & DrumMania V | 78691 | [78691-guitarfreaks-v-and-drummania-v.json](./78691-guitarfreaks-v-and-drummania-v.json) |
 | Guītú | 156699 | [156699-guitu.json](./156699-guitu.json) |
