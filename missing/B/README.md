@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
 | Ball | 231388 | [231388-ball.json](./231388-ball.json) |
+| Ball and Trap | 100739 | [100739-ball-and-trap.json](./100739-ball-and-trap.json) |
 | Ball at Work: The Ultimate Speedrun Platformer! | 171570 | [171570-ball-at-work-the-ultimate-speedrun-platformer.json](./171570-ball-at-work-the-ultimate-speedrun-platformer.json) |
 | Ball Breaker 3D | 78036 | [78036-ball-breaker-3d.json](./78036-ball-breaker-3d.json) |
 | Ball Drop | 243703 | [243703-ball-drop.json](./243703-ball-drop.json) |
@@ -263,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Gates | 102105 | [102105-ball-gates.json](./102105-ball-gates.json) |
 | Ball Hit! | 106529 | [106529-ball-hit.json](./106529-ball-hit.json) |
 | Ball Hunter | 201801 | [201801-ball-hunter.json](./201801-ball-hunter.json) |
+| Ball Jump | 100740 | [100740-ball-jump.json](./100740-ball-jump.json) |
 | Ball Jumper | 272854 | [272854-ball-jumper.json](./272854-ball-jumper.json) |
 | Ball Kicker | 109640 | [109640-ball-kicker.json](./109640-ball-kicker.json) |
 | Ball League | 107119 | [107119-ball-league.json](./107119-ball-league.json) |
@@ -398,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
+| Bank Robbery Royale: Battle Simulator | 100937 | [100937-bank-robbery-royale-battle-simulator.json](./100937-bank-robbery-royale-battle-simulator.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
 | Banner of the Maid: Miss Elisa's Journal | 169950 | [169950-banner-of-the-maid-miss-elisas-journal.json](./169950-banner-of-the-maid-miss-elisas-journal.json) |
@@ -524,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrage | 146228 | [146228-barrage.json](./146228-barrage.json) |
 | Barrage | 196818 | [196818-barrage.json](./196818-barrage.json) |
 | Barrage Fantasia | 144356 | [144356-barrage-fantasia.json](./144356-barrage-fantasia.json) |
+| Barrage Girl | 100754 | [100754-barrage-girl.json](./100754-barrage-girl.json) |
 | Barrage Musical: Basic Danmaku Tutorial | 127463 | [127463-barrage-musical-basic-danmaku-tutorial.json](./127463-barrage-musical-basic-danmaku-tutorial.json) |
 | Barrel Blast | 172186 | [172186-barrel-blast.json](./172186-barrel-blast.json) |
 | Barrel Full of Monkeys | 223496 | [223496-barrel-full-of-monkeys.json](./223496-barrel-full-of-monkeys.json) |
@@ -865,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleHeights | 327220 | [327220-battleheights.json](./327220-battleheights.json) |
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
 | Battlemals | 26695 | [26695-battlemals.json](./26695-battlemals.json) |
+| Battlemon League | 100933 | [100933-battlemon-league.json](./100933-battlemon-league.json) |
 | BattleMore | 111689 | [111689-battlemore.json](./111689-battlemore.json) |
 | Battlenauts | 323727 | [323727-battlenauts.json](./323727-battlenauts.json) |
 | BattlePets | 300983 | [300983-battlepets.json](./300983-battlepets.json) |
@@ -2181,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
+| Board Game Collection | 100743 | [100743-board-game-collection.json](./100743-board-game-collection.json) |
 | Board Games Gallery (10 Games) | 100168 | [100168-board-games-gallery-10-games.json](./100168-board-games-gallery-10-games.json) |
 | Board Games Live | 86121 | [86121-board-games-live.json](./86121-board-games-live.json) |
 | Board Games VR | 74457 | [74457-board-games-vr.json](./74457-board-games-vr.json) |
@@ -3110,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
+| Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
