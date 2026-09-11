@@ -39,7 +39,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Familiar Fairytale: Dyslexic Text Based Adventure | 124174 | [124174-a-familiar-fairytale-dyslexic-text-based-adventure.json](./124174-a-familiar-fairytale-dyslexic-text-based-adventure.json) |
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
-| A Field of Flowers | 357795 | [357795-a-field-of-flowers.json](./357795-a-field-of-flowers.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
 | A Fistful of Doom | 140047 | [140047-a-fistful-of-doom.json](./140047-a-fistful-of-doom.json) |
 | A Floof's Adventure | 200666 | [200666-a-floofs-adventure.json](./200666-a-floofs-adventure.json) |
