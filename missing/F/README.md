@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
 | Fairune: Fragment Isles | 276195 | [276195-fairune-fragment-isles.json](./276195-fairune-fragment-isles.json) |
 | Fairvalley VR | 116401 | [116401-fairvalley-vr.json](./116401-fairvalley-vr.json) |
+| Fairy | 94681 | [94681-fairy.json](./94681-fairy.json) |
 | Fairy 2 | 216800 | [216800-fairy-2.json](./216800-fairy-2.json) |
 | Fairy and Devil | 155577 | [155577-fairy-and-devil.json](./155577-fairy-and-devil.json) |
 | Fairy Bakery Workshop | 182456 | [182456-fairy-bakery-workshop.json](./182456-fairy-bakery-workshop.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding summer | 114396 | [114396-finding-summer.json](./114396-finding-summer.json) |
 | FindIt | 303797 | [303797-findit.json](./303797-findit.json) |
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
+| Findola | 94677 | [94677-findola.json](./94677-findola.json) |
 | Fine Artist Color Pixel Number | 267412 | [267412-fine-artist-color-pixel-number.json](./267412-fine-artist-color-pixel-number.json) |
 | Fine Work Act I | 285980 | [285980-fine-work-act-i.json](./285980-fine-work-act-i.json) |
 | Finger Champion | 245326 | [245326-finger-champion.json](./245326-finger-champion.json) |
@@ -1990,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
 | Foundlings | 350439 | [350439-foundlings.json](./350439-foundlings.json) |
+| Four Card Solitaire | 94675 | [94675-four-card-solitaire.json](./94675-four-card-solitaire.json) |
 | Four color jumps | 152905 | [152905-four-color-jumps.json](./152905-four-color-jumps.json) |
 | Four Course Combat | 149535 | [149535-four-course-combat.json](./149535-four-course-combat.json) |
 | Four Gods M | 200749 | [200749-four-gods-m.json](./200749-four-gods-m.json) |
@@ -1997,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Lights | 406727 | [406727-four-lights.json](./406727-four-lights.json) |
 | Four Lights: Erie Ever route | 278131 | [278131-four-lights-erie-ever-route.json](./278131-four-lights-erie-ever-route.json) |
+| Four Million B.C. | 94719 | [94719-four-million-b-c.json](./94719-four-million-b-c.json) |
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
 | Four Realms | 19568 | [19568-four-realms.json](./19568-four-realms.json) |
 | Four Seasons - A fan-created Avatar Game | 143730 | [143730-four-seasons-a-fan-created-avatar-game.json](./143730-four-seasons-a-fan-created-avatar-game.json) |
