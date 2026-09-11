@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newer: Summer Sun | 132847 | [132847-newer-summer-sun.json](./132847-newer-summer-sun.json) |
 | Newgothic Movement 2 | 275571 | [275571-newgothic-movement-2.json](./275571-newgothic-movement-2.json) |
 | Newly-wedded Woman Stealing Life | 279603 | [279603-newly-wedded-woman-stealing-life.json](./279603-newly-wedded-woman-stealing-life.json) |
+| NewPark Simon XL | 101507 | [101507-newpark-simon-xl.json](./101507-newpark-simon-xl.json) |
 | Newspaper Puzzle Challenge: Sudoku Edition | 210035 | [210035-newspaper-puzzle-challenge-sudoku-edition.json](./210035-newspaper-puzzle-challenge-sudoku-edition.json) |
 | Newton's House of Forces | 163948 | [163948-newtons-house-of-forces.json](./163948-newtons-house-of-forces.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
