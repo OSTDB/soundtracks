@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Unatxi Kamala | 294704 | [294704-the-curse-of-unatxi-kamala.json](./294704-the-curse-of-unatxi-kamala.json) |
 | The Cursed Hotel | 398325 | [398325-the-cursed-hotel.json](./398325-the-cursed-hotel.json) |
 | The Cursed Land | 306093 | [306093-the-cursed-land.json](./306093-the-cursed-land.json) |
+| The Cursed love | 105297 | [105297-the-cursed-love.json](./105297-the-cursed-love.json) |
 | The Cursed Oasis | 253607 | [253607-the-cursed-oasis.json](./253607-the-cursed-oasis.json) |
 | The Cursed Tape | 302677 | [302677-the-cursed-tape.json](./302677-the-cursed-tape.json) |
 | The Cursed Underground Parking Lot | 344351 | [344351-the-cursed-underground-parking-lot.json](./344351-the-cursed-underground-parking-lot.json) |
@@ -1594,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
+| The Devil's Garden | 105280 | [105280-the-devils-garden.json](./105280-the-devils-garden.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
 | The Devils: A Visual Novel of WWII | 192381 | [192381-the-devils-a-visual-novel-of-wwii.json](./192381-the-devils-a-visual-novel-of-wwii.json) |
 | The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
@@ -4490,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Turned | 291469 | [291469-time-turned.json](./291469-time-turned.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
+| TimeCluster | 105295 | [105295-timecluster.json](./105295-timecluster.json) |
 | Timelake: Time Travel Tactics | 327841 | [327841-timelake-time-travel-tactics.json](./327841-timelake-time-travel-tactics.json) |
 | Timeless | 119751 | [119751-timeless.json](./119751-timeless.json) |
 | Timeless Solitaire Collection | 372476 | [372476-timeless-solitaire-collection.json](./372476-timeless-solitaire-collection.json) |
@@ -5205,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towering Rescue | 47263 | [47263-towering-rescue.json](./47263-towering-rescue.json) |
 | Towerlands | 227271 | [227271-towerlands.json](./227271-towerlands.json) |
 | Towerø | 318427 | [318427-tower.json](./318427-tower.json) |
+| Towers | 105286 | [105286-towers.json](./105286-towers.json) |
 | Towers | 116967 | [116967-towers.json](./116967-towers.json) |
 | Towers | 271222 | [271222-towers.json](./271222-towers.json) |
 | Towers & Goblins: The Last Stand | 290912 | [290912-towers-and-goblins-the-last-stand.json](./290912-towers-and-goblins-the-last-stand.json) |
@@ -5477,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Training Hero | 239917 | [239917-training-hero.json](./239917-training-hero.json) |
 | Training Mode | 180276 | [180276-training-mode.json](./180276-training-mode.json) |
 | Trains | 95443 | [95443-trains.json](./95443-trains.json) |
+| Trains & Things | 105314 | [105314-trains-and-things.json](./105314-trains-and-things.json) |
 | Trains: Through Electric Storms. | 221156 | [221156-trains-through-electric-storms.json](./221156-trains-through-electric-storms.json) |
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
 | Trainz Plus: Amtrak F40PH 2 pack | 205558 | [205558-trainz-plus-amtrak-f40ph-2-pack.json](./205558-trainz-plus-amtrak-f40ph-2-pack.json) |
