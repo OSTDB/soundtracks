@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
 | Penny Arcade Adventures: On the Rain-Slick | 144932 | [144932-penny-arcade-adventures-on-the-rain-slick.json](./144932-penny-arcade-adventures-on-the-rain-slick.json) |
 | Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness - Episode Two | 14917 | [14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json](./14917-penny-arcade-adventures-on-the-rain-slick-precipice-of-darkness-episode-two.json) |
+| Penny Dell Jumbo Crosswords | 89199 | [89199-penny-dell-jumbo-crosswords.json](./89199-penny-dell-jumbo-crosswords.json) |
 | Penny Dell Jumbo Crosswords 2 | 204494 | [204494-penny-dell-jumbo-crosswords-2.json](./204494-penny-dell-jumbo-crosswords-2.json) |
 | Penny RPG: Shadows of the Lost - A Blood City Tale | 149611 | [149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json](./149611-penny-rpg-shadows-of-the-lost-a-blood-city-tale.json) |
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
@@ -1131,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
+| Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
 | Picross S Capcom Classics Edition | 378164 | [378164-picross-s-capcom-classics-edition.json](./378164-picross-s-capcom-classics-edition.json) |
@@ -1740,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
 | PlayerUnknown's Battlegrounds: Season 8 | 135824 | [135824-playerunknowns-battlegrounds-season-8.json](./135824-playerunknowns-battlegrounds-season-8.json) |
 | PlayFortress | 33102 | [33102-playfortress.json](./33102-playfortress.json) |
+| Playground AR: Physics Sandbox | 89172 | [89172-playground-ar-physics-sandbox.json](./89172-playground-ar-physics-sandbox.json) |
 | Playground VR | 143690 | [143690-playground-vr.json](./143690-playground-vr.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
@@ -2229,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
 | Porcuball | 96122 | [96122-porcuball.json](./96122-porcuball.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
+| Porkerpillar | 89209 | [89209-porkerpillar.json](./89209-porkerpillar.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
 | Porrasturvat: Stair Dismount | 93059 | [93059-porrasturvat-stair-dismount.json](./93059-porrasturvat-stair-dismount.json) |
