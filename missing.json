@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T18:51:04.373Z",
-  "total_missing": 59004,
+  "generated_at": "2026-09-11T19:03:34.806Z",
+  "total_missing": 59053,
   "games": [
     {
       "igdb_id": 306086,
@@ -2366,11 +2366,6 @@
       "igdb_id": 229918,
       "game_name": "A Red Boat",
       "file": "missing/A/229918-a-red-boat.json"
-    },
-    {
-      "igdb_id": 183584,
-      "game_name": "A Red Sky at Dawn",
-      "file": "missing/A/183584-a-red-sky-at-dawn.json"
     },
     {
       "igdb_id": 140536,
@@ -4913,6 +4908,11 @@
       "file": "missing/A/11320-adventure-time-finn-and-jake-investigations.json"
     },
     {
+      "igdb_id": 89898,
+      "game_name": "Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! - Collector's Edition",
+      "file": "missing/A/89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json"
+    },
+    {
       "igdb_id": 64970,
       "game_name": "Adventure Time: Legends of Ooo - Big Hollow Princess",
       "file": "missing/A/64970-adventure-time-legends-of-ooo-big-hollow-princess.json"
@@ -7233,6 +7233,11 @@
       "file": "missing/A/150154-akazukin-dark-side.json"
     },
     {
+      "igdb_id": 89867,
+      "game_name": "AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box",
+      "file": "missing/A/89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json"
+    },
+    {
       "igdb_id": 391053,
       "game_name": "Akcionář II",
       "file": "missing/A/391053-akcionar-ii.json"
@@ -8956,6 +8961,11 @@
       "igdb_id": 100121,
       "game_name": "Alphabet Park Adventure",
       "file": "missing/A/100121-alphabet-park-adventure.json"
+    },
+    {
+      "igdb_id": 89859,
+      "game_name": "Alphabet Solitaire Z",
+      "file": "missing/A/89859-alphabet-solitaire-z.json"
     },
     {
       "igdb_id": 101576,
@@ -10981,6 +10991,11 @@
       "igdb_id": 341895,
       "game_name": "Animal Crossing: City Folk Deluxe",
       "file": "missing/A/341895-animal-crossing-city-folk-deluxe.json"
+    },
+    {
+      "igdb_id": 89900,
+      "game_name": "Animal Crossing: New Leaf - Premium Edition",
+      "file": "missing/A/89900-animal-crossing-new-leaf-premium-edition.json"
     },
     {
       "igdb_id": 219296,
@@ -16051,6 +16066,11 @@
       "igdb_id": 26095,
       "game_name": "Assassin's Creed IV Black Flag: Aveline",
       "file": "missing/A/26095-assassins-creed-iv-black-flag-aveline.json"
+    },
+    {
+      "igdb_id": 89872,
+      "game_name": "Assassin's Creed IV: Black Flag - Buccaneer Edition",
+      "file": "missing/A/89872-assassins-creed-iv-black-flag-buccaneer-edition.json"
     },
     {
       "igdb_id": 271474,
@@ -28273,6 +28293,11 @@
       "file": "missing/B/11611-blazblue-continuum-shift-ii.json"
     },
     {
+      "igdb_id": 89902,
+      "game_name": "BlazBlue: Continuum Shift II - Manga Edition",
+      "file": "missing/B/89902-blazblue-continuum-shift-ii-manga-edition.json"
+    },
+    {
       "igdb_id": 51448,
       "game_name": "BlazBlue: Cross Tag Battle",
       "file": "missing/B/51448-blazblue-cross-tag-battle.json"
@@ -32801,6 +32826,11 @@
       "igdb_id": 25739,
       "game_name": "Bravely Default: Fairy's Effect",
       "file": "missing/B/25739-bravely-default-fairys-effect.json"
+    },
+    {
+      "igdb_id": 89878,
+      "game_name": "Bravely Default: Flying Fairy Collector's Pack",
+      "file": "missing/B/89878-bravely-default-flying-fairy-collectors-pack.json"
     },
     {
       "igdb_id": 391078,
@@ -44203,6 +44233,11 @@
       "file": "missing/C/24929-ciel-nosurge.json"
     },
     {
+      "igdb_id": 89869,
+      "game_name": "Ciel Nosurge: Ushinawareta Hoshi e Sasagu Shi Agent Pack",
+      "file": "missing/C/89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json"
+    },
+    {
       "igdb_id": 139995,
       "game_name": "Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX",
       "file": "missing/C/139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json"
@@ -49451,6 +49486,11 @@
       "igdb_id": 170023,
       "game_name": "Corpse Party D2: Depths of Despair",
       "file": "missing/C/170023-corpse-party-d2-depths-of-despair.json"
+    },
+    {
+      "igdb_id": 89891,
+      "game_name": "Corpse Party: Back to School Edition - Limited Edition",
+      "file": "missing/C/89891-corpse-party-back-to-school-edition-limited-edition.json"
     },
     {
       "igdb_id": 135889,
@@ -64778,6 +64818,11 @@
       "file": "missing/D/225058-djmax-respect-v-technika-pack.json"
     },
     {
+      "igdb_id": 89906,
+      "game_name": "DJMax Technika Tune: Limited Edition",
+      "file": "missing/D/89906-djmax-technika-tune-limited-edition.json"
+    },
+    {
       "igdb_id": 231633,
       "game_name": "DK: King of Swing - Hurling for Distance",
       "file": "missing/D/231633-dk-king-of-swing-hurling-for-distance.json"
@@ -67926,6 +67971,11 @@
       "igdb_id": 19314,
       "game_name": "Dragon Ball Fusions",
       "file": "missing/D/19314-dragon-ball-fusions.json"
+    },
+    {
+      "igdb_id": 89875,
+      "game_name": "Dragon Ball Heroes: Ultimate Mission - Lalabit Market Luxury Edition",
+      "file": "missing/D/89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json"
     },
     {
       "igdb_id": 172711,
@@ -82788,6 +82838,11 @@
       "file": "missing/F/348261-fatal-unleashed-darkness.json"
     },
     {
+      "igdb_id": 89862,
+      "game_name": "Fate / Hollow Ataraxia: Limited Edition",
+      "file": "missing/F/89862-fate-hollow-ataraxia-limited-edition.json"
+    },
+    {
       "igdb_id": 273095,
       "game_name": "Fate Commander: Fighting",
       "file": "missing/F/273095-fate-commander-fighting.json"
@@ -84331,6 +84386,11 @@
       "igdb_id": 93629,
       "game_name": "Final Failure",
       "file": "missing/F/93629-final-failure.json"
+    },
+    {
+      "igdb_id": 89874,
+      "game_name": "Final Fantasy Anthology Collector's Package",
+      "file": "missing/F/89874-final-fantasy-anthology-collectors-package.json"
     },
     {
       "igdb_id": 323153,
@@ -93503,6 +93563,11 @@
       "file": "missing/G/314025-gal-metal-encore-pack.json"
     },
     {
+      "igdb_id": 89910,
+      "game_name": "Gal*Gun: Double Peace - Mr. Happiness Edition",
+      "file": "missing/G/89910-gal-gun-double-peace-mr-happiness-edition.json"
+    },
+    {
       "igdb_id": 310973,
       "game_name": "Galactea",
       "file": "missing/G/310973-galactea.json"
@@ -98333,6 +98398,16 @@
       "file": "missing/G/11853-god-eater-2.json"
     },
     {
+      "igdb_id": 89864,
+      "game_name": "God Eater 2: Famitsu DX Pack",
+      "file": "missing/G/89864-god-eater-2-famitsu-dx-pack.json"
+    },
+    {
+      "igdb_id": 89863,
+      "game_name": "God Eater 2: LaLaBitMarket Special Edition",
+      "file": "missing/G/89863-god-eater-2-lalabitmarket-special-edition.json"
+    },
+    {
       "igdb_id": 294702,
       "game_name": "God Eater 3: Collector's Edition",
       "file": "missing/G/294702-god-eater-3-collectors-edition.json"
@@ -100246,6 +100321,16 @@
       "igdb_id": 120317,
       "game_name": "Grand Heist",
       "file": "missing/G/120317-grand-heist.json"
+    },
+    {
+      "igdb_id": 89908,
+      "game_name": "Grand Kingdom: Grand Edition",
+      "file": "missing/G/89908-grand-kingdom-grand-edition.json"
+    },
+    {
+      "igdb_id": 89909,
+      "game_name": "Grand Kingdom: Limited Edition",
+      "file": "missing/G/89909-grand-kingdom-limited-edition.json"
     },
     {
       "igdb_id": 148485,
@@ -118828,6 +118913,11 @@
       "file": "missing/I/253924-inexplicable-geeks-restorethemillercut.json"
     },
     {
+      "igdb_id": 89873,
+      "game_name": "Infamous Second Son - Special Edition",
+      "file": "missing/I/89873-infamous-second-son-special-edition.json"
+    },
+    {
       "igdb_id": 7328,
       "game_name": "Infamous: First Light",
       "file": "missing/I/7328-infamous-first-light.json"
@@ -129273,6 +129363,16 @@
       "file": "missing/K/360609-kingdom-death-simulator.json"
     },
     {
+      "igdb_id": 89879,
+      "game_name": "Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box",
+      "file": "missing/K/89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json"
+    },
+    {
+      "igdb_id": 89897,
+      "game_name": "Kingdom Hearts 3D: Dream Drop Distance - Mark of Mastery Edition",
+      "file": "missing/K/89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json"
+    },
+    {
       "igdb_id": 117525,
       "game_name": "Kingdom Hearts Dream Drop Distance HD",
       "file": "missing/K/117525-kingdom-hearts-dream-drop-distance-hd.json"
@@ -134941,6 +135041,11 @@
       "igdb_id": 168368,
       "game_name": "LEGO Marvel Super Heroes 2: Champions Character Pack",
       "file": "missing/L/168368-lego-marvel-super-heroes-2-champions-character-pack.json"
+    },
+    {
+      "igdb_id": 89899,
+      "game_name": "LEGO Marvel Super Heroes: Iron Patriot Minifigure - Limited Edition",
+      "file": "missing/L/89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json"
     },
     {
       "igdb_id": 137663,
@@ -151728,6 +151833,11 @@
       "file": "missing/M/311278-midnight-memories-sonata-of-the-soul.json"
     },
     {
+      "igdb_id": 89860,
+      "game_name": "Midnight Mysteries: Devil on the Mississippi - Collector's Edition",
+      "file": "missing/M/89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json"
+    },
+    {
       "igdb_id": 176481,
       "game_name": "Midnight Scenes Ep.2: The Goodbye Note - Special Edition",
       "file": "missing/M/176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json"
@@ -165711,6 +165821,51 @@
       "igdb_id": 311796,
       "game_name": "New Life",
       "file": "missing/N/311796-new-life.json"
+    },
+    {
+      "igdb_id": 89886,
+      "game_name": "New LovePlus: Manaka Complete Set",
+      "file": "missing/N/89886-new-loveplus-manaka-complete-set.json"
+    },
+    {
+      "igdb_id": 89885,
+      "game_name": "New LovePlus: Nene Complete Set",
+      "file": "missing/N/89885-new-loveplus-nene-complete-set.json"
+    },
+    {
+      "igdb_id": 89884,
+      "game_name": "New LovePlus: New Manaka Deluxe",
+      "file": "missing/N/89884-new-loveplus-new-manaka-deluxe.json"
+    },
+    {
+      "igdb_id": 89883,
+      "game_name": "New LovePlus: New Nene Deluxe",
+      "file": "missing/N/89883-new-loveplus-new-nene-deluxe.json"
+    },
+    {
+      "igdb_id": 89882,
+      "game_name": "New LovePlus: New Rinko Deluxe",
+      "file": "missing/N/89882-new-loveplus-new-rinko-deluxe.json"
+    },
+    {
+      "igdb_id": 89880,
+      "game_name": "New LovePlus: Rinko Complete Set",
+      "file": "missing/N/89880-new-loveplus-rinko-complete-set.json"
+    },
+    {
+      "igdb_id": 89887,
+      "game_name": "New LovePlus+: Manaka Artbook Limited Edition",
+      "file": "missing/N/89887-new-loveplus-manaka-artbook-limited-edition.json"
+    },
+    {
+      "igdb_id": 89888,
+      "game_name": "New LovePlus+: Nene Artbook Limited Edition",
+      "file": "missing/N/89888-new-loveplus-nene-artbook-limited-edition.json"
+    },
+    {
+      "igdb_id": 89881,
+      "game_name": "New LovePlus+: Rinko Artbook Limited Edition",
+      "file": "missing/N/89881-new-loveplus-rinko-artbook-limited-edition.json"
     },
     {
       "igdb_id": 329030,
@@ -190488,6 +190643,11 @@
       "file": "missing/P/377577-project-x.json"
     },
     {
+      "igdb_id": 89877,
+      "game_name": "Project X Zone: Limited Edition",
+      "file": "missing/P/89877-project-x-zone-limited-edition.json"
+    },
+    {
       "igdb_id": 218729,
       "game_name": "Project X: Love Potion Disaster",
       "file": "missing/P/218729-project-x-love-potion-disaster.json"
@@ -199358,6 +199518,11 @@
       "file": "missing/R/143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json"
     },
     {
+      "igdb_id": 89903,
+      "game_name": "Resident Evil: Revelations - Circle Pad Pro Bundle",
+      "file": "missing/R/89903-resident-evil-revelations-circle-pad-pro-bundle.json"
+    },
+    {
       "igdb_id": 89927,
       "game_name": "Resident Evil: Revelations - Unveiled Edition (Limited Edition)",
       "file": "missing/R/89927-resident-evil-revelations-unveiled-edition-limited-edition.json"
@@ -203281,6 +203446,11 @@
       "igdb_id": 138792,
       "game_name": "Rodea the Sky Soldier",
       "file": "missing/R/138792-rodea-the-sky-soldier.json"
+    },
+    {
+      "igdb_id": 89892,
+      "game_name": "Rodea the Sky Soldier: Launch Day Edition",
+      "file": "missing/R/89892-rodea-the-sky-soldier-launch-day-edition.json"
     },
     {
       "igdb_id": 319554,
@@ -222173,6 +222343,11 @@
       "file": "missing/S/212271-solitaire-master-vs.json"
     },
     {
+      "igdb_id": 89858,
+      "game_name": "Solitaire Match 2 Cards",
+      "file": "missing/S/89858-solitaire-match-2-cards.json"
+    },
+    {
       "igdb_id": 199574,
       "game_name": "Solitaire Match 2 Cards. Thanksgiving Day",
       "file": "missing/S/199574-solitaire-match-2-cards-thanksgiving-day.json"
@@ -223071,6 +223246,11 @@
       "igdb_id": 133938,
       "game_name": "Sonic Generations: Casino Night DLC",
       "file": "missing/S/133938-sonic-generations-casino-night-dlc.json"
+    },
+    {
+      "igdb_id": 89889,
+      "game_name": "Sonic Generations: White Time and Space 20th Anniversary Set",
+      "file": "missing/S/89889-sonic-generations-white-time-and-space-20th-anniversary-set.json"
     },
     {
       "igdb_id": 331714,
@@ -231578,6 +231758,11 @@
       "file": "missing/S/141877-steins-gate-double-pack.json"
     },
     {
+      "igdb_id": 89914,
+      "game_name": "Steins;Gate: El Psy Kongroo Edition",
+      "file": "missing/S/89914-steins-gate-el-psy-kongroo-edition.json"
+    },
+    {
       "igdb_id": 42680,
       "game_name": "Steins;Gate: Limited Edition",
       "file": "missing/S/42680-steins-gate-limited-edition.json"
@@ -238613,6 +238798,16 @@
       "file": "missing/S/115608-superbeam.json"
     },
     {
+      "igdb_id": 89913,
+      "game_name": "Superbeat: Xonic - The X-Clusive Limited Edition",
+      "file": "missing/S/89913-superbeat-xonic-the-x-clusive-limited-edition.json"
+    },
+    {
+      "igdb_id": 89912,
+      "game_name": "Superbeat: Xonic - The X-Otic Limited Edition",
+      "file": "missing/S/89912-superbeat-xonic-the-x-otic-limited-edition.json"
+    },
+    {
       "igdb_id": 43328,
       "game_name": "Superbike GP",
       "file": "missing/S/43328-superbike-gp.json"
@@ -242468,6 +242663,16 @@
       "file": "missing/T/215701-tales-of-guards-elves.json"
     },
     {
+      "igdb_id": 89866,
+      "game_name": "Tales of Hearts R: LaLaBitMarket Edition",
+      "file": "missing/T/89866-tales-of-hearts-r-lalabitmarket-edition.json"
+    },
+    {
+      "igdb_id": 89865,
+      "game_name": "Tales of Hearts R: Link Edition",
+      "file": "missing/T/89865-tales-of-hearts-r-link-edition.json"
+    },
+    {
       "igdb_id": 222922,
       "game_name": "Tales of Hearts: CG Movie Edition",
       "file": "missing/T/222922-tales-of-hearts-cg-movie-edition.json"
@@ -242476,6 +242681,11 @@
       "igdb_id": 42673,
       "game_name": "Tales of Innocence R",
       "file": "missing/T/42673-tales-of-innocence-r.json"
+    },
+    {
+      "igdb_id": 89870,
+      "game_name": "Tales of Innocence R: Limited Edition",
+      "file": "missing/T/89870-tales-of-innocence-r-limited-edition.json"
     },
     {
       "igdb_id": 349328,
@@ -244701,6 +244911,11 @@
       "igdb_id": 143749,
       "game_name": "Tekken Tag Tournament 2: Prologue",
       "file": "missing/T/143749-tekken-tag-tournament-2-prologue.json"
+    },
+    {
+      "igdb_id": 89871,
+      "game_name": "Tekken Tag Tournament 2: We Are Tekken Edition",
+      "file": "missing/T/89871-tekken-tag-tournament-2-we-are-tekken-edition.json"
     },
     {
       "igdb_id": 143748,
@@ -253188,6 +253403,11 @@
       "file": "missing/T/256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json"
     },
     {
+      "igdb_id": 89911,
+      "game_name": "The Legend of Heroes: Trails of Cold Steel - Lionheart Edition",
+      "file": "missing/T/89911-the-legend-of-heroes-trails-of-cold-steel-lionheart-edition.json"
+    },
+    {
       "igdb_id": 13558,
       "game_name": "The Legend of Heroes: Trails of Cold Steel II",
       "file": "missing/T/13558-the-legend-of-heroes-trails-of-cold-steel-ii.json"
@@ -253281,6 +253501,11 @@
       "igdb_id": 73824,
       "game_name": "The Legend of Xanadu",
       "file": "missing/T/73824-the-legend-of-xanadu.json"
+    },
+    {
+      "igdb_id": 89904,
+      "game_name": "The Legend of Zelda Ocarina of Time 3D: First Edition",
+      "file": "missing/T/89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json"
     },
     {
       "igdb_id": 243666,
@@ -260036,6 +260261,16 @@
       "igdb_id": 117666,
       "game_name": "Theatre Tales",
       "file": "missing/T/117666-theatre-tales.json"
+    },
+    {
+      "igdb_id": 89895,
+      "game_name": "Theatrhythm Final Fantasy: Curtain Call - Collector's Edition",
+      "file": "missing/T/89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json"
+    },
+    {
+      "igdb_id": 89894,
+      "game_name": "Theatrhythm Final Fantasy: Curtain Call - Limited Edition",
+      "file": "missing/T/89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json"
     },
     {
       "igdb_id": 260678,
@@ -292133,6 +292368,11 @@
       "file": "missing/Y/15457-ys-memories-of-celceta.json"
     },
     {
+      "igdb_id": 89868,
+      "game_name": "Ys: Memories of Celceta - 25th Anniversary Edition",
+      "file": "missing/Y/89868-ys-memories-of-celceta-25th-anniversary-edition.json"
+    },
+    {
       "igdb_id": 42679,
       "game_name": "Ys: Memories of Celceta - Silver Anniversary Edition",
       "file": "missing/Y/42679-ys-memories-of-celceta-silver-anniversary-edition.json"
@@ -293401,6 +293641,11 @@
       "igdb_id": 319754,
       "game_name": "Zero Escape: Nine Hours, Nine Persons, Nine Doors",
       "file": "missing/Z/319754-zero-escape-nine-hours-nine-persons-nine-doors.json"
+    },
+    {
+      "igdb_id": 89890,
+      "game_name": "Zero Escape: Zero Time Dilemma - Limited Watch Bonus Edition",
+      "file": "missing/Z/89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json"
     },
     {
       "igdb_id": 246668,
