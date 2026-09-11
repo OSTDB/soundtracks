@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf King | 125936 | [125936-mini-golf-king.json](./125936-mini-golf-king.json) |
 | Mini Golf King - Multiplayer | 87011 | [87011-mini-golf-king-multiplayer.json](./87011-mini-golf-king-multiplayer.json) |
 | Mini Golf Mania | 146893 | [146893-mini-golf-mania.json](./146893-mini-golf-mania.json) |
+| Mini Golf Star Retro Golf Game | 104695 | [104695-mini-golf-star-retro-golf-game.json](./104695-mini-golf-star-retro-golf-game.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
 | Mini Island Challenge Bundle | 147426 | [147426-mini-island-challenge-bundle.json](./147426-mini-island-challenge-bundle.json) |
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
@@ -2604,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
 | Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
+| MoBu 2 - Race with Friends | 104627 | [104627-mobu-2-race-with-friends.json](./104627-mobu-2-race-with-friends.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
 | Mocap Boxing | 61667 | [61667-mocap-boxing.json](./61667-mocap-boxing.json) |
 | Mocaverse | 244773 | [244773-mocaverse.json](./244773-mocaverse.json) |
@@ -3692,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
+| My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
 | My Car My Life | 373542 | [373542-my-car-my-life.json](./373542-my-car-my-life.json) |
 | My Car Salon Pro | 323166 | [323166-my-car-salon-pro.json](./323166-my-car-salon-pro.json) |
 | My Cat | 222880 | [222880-my-cat.json](./222880-my-cat.json) |
@@ -3927,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time at Sandrock: Super Furniture Pack | 275899 | [275899-my-time-at-sandrock-super-furniture-pack.json](./275899-my-time-at-sandrock-super-furniture-pack.json) |
 | My Time Traveling Girlfriend | 208368 | [208368-my-time-traveling-girlfriend.json](./208368-my-time-traveling-girlfriend.json) |
 | My Time With Dee Dee volume 0 | 347135 | [347135-my-time-with-dee-dee-volume-0.json](./347135-my-time-with-dee-dee-volume-0.json) |
+| My Town : Hotel | 104615 | [104615-my-town-hotel.json](./104615-my-town-hotel.json) |
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
