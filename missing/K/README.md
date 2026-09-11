@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kivi, Toilet and Shotgun | 16308 | [16308-kivi-toilet-and-shotgun.json](./16308-kivi-toilet-and-shotgun.json) |
 | Kiwi | 186256 | [186256-kiwi.json](./186256-kiwi.json) |
 | Kiwi | 306688 | [306688-kiwi.json](./306688-kiwi.json) |
+| Kiwi 64 | 128579 | [128579-kiwi-64.json](./128579-kiwi-64.json) |
 | Kiwi Farm | 246101 | [246101-kiwi-farm.json](./246101-kiwi-farm.json) |
 | Kiwi Game | 306689 | [306689-kiwi-game.json](./306689-kiwi-game.json) |
 | Kiwi: Airborne | 306690 | [306690-kiwi-airborne.json](./306690-kiwi-airborne.json) |
