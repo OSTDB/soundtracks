@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Hard: Vendetta | 3876 | [3876-die-hard-vendetta.json](./3876-die-hard-vendetta.json) |
 | Die in the Dark | 105284 | [105284-die-in-the-dark.json](./105284-die-in-the-dark.json) |
 | Die kleine Lokomotive und ihre Freunde | 81401 | [81401-die-kleine-lokomotive-und-ihre-freunde.json](./81401-die-kleine-lokomotive-und-ihre-freunde.json) |
+| Die Legende der Wikinger | 91397 | [91397-die-legende-der-wikinger.json](./91397-die-legende-der-wikinger.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
 | Die Reise ins All | 127916 | [127916-die-reise-ins-all.json](./127916-die-reise-ins-all.json) |
