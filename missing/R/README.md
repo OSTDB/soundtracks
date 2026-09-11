@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Estate Tycoon | 89224 | [89224-real-estate-tycoon.json](./89224-real-estate-tycoon.json) |
 | Real Farm | 227480 | [227480-real-farm.json](./227480-real-farm.json) |
 | Real Farm: Premium Edition | 155097 | [155097-real-farm-premium-edition.json](./155097-real-farm-premium-edition.json) |
+| Real Fast Race - Furious Sports | 96006 | [96006-real-fast-race-furious-sports.json](./96006-real-fast-race-furious-sports.json) |
 | Real Fighter | 267951 | [267951-real-fighter.json](./267951-real-fighter.json) |
 | Real Fishing VR | 115634 | [115634-real-fishing-vr.json](./115634-real-fishing-vr.json) |
 | Real Football | 174812 | [174812-real-football.json](./174812-real-football.json) |
@@ -727,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Spider Anecdote: The Longest Nite | 324318 | [324318-red-spider-anecdote-the-longest-nite.json](./324318-red-spider-anecdote-the-longest-nite.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
+| Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
 | Red Wings: Coloring Planes | 192405 | [192405-red-wings-coloring-planes.json](./192405-red-wings-coloring-planes.json) |
