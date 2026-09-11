@@ -98,7 +98,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
-| A Spooky Teaparty | 221172 | [221172-a-spooky-teaparty.json](./221172-a-spooky-teaparty.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
 | A Steak Temple Panic: Chapter 2 - Welcome to Sanglinours | 226228 | [226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json](./226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json) |
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
