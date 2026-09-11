@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMod | 287075 | [287075-megamod.json](./287075-megamod.json) |
 | MegaMorph | 97354 | [97354-megamorph.json](./97354-megamorph.json) |
 | MegaPak 1 | 138754 | [138754-megapak-1.json](./138754-megapak-1.json) |
+| Megaplex Manager | 102116 | [102116-megaplex-manager.json](./102116-megaplex-manager.json) |
 | Megapolis | 196320 | [196320-megapolis.json](./196320-megapolis.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
 | MegaRace 3 | 46634 | [46634-megarace-3.json](./46634-megarace-3.json) |
@@ -1608,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
+| Merch Tycoon | 102138 | [102138-merch-tycoon.json](./102138-merch-tycoon.json) |
 | Merchant | 7714 | [7714-merchant.json](./7714-merchant.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
@@ -3424,6 +3426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Blob's Honey-Do List | 342639 | [342639-mr-blobs-honey-do-list.json](./342639-mr-blobs-honey-do-list.json) |
 | Mr. Bloopy Saves the World | 42659 | [42659-mr-bloopy-saves-the-world.json](./42659-mr-bloopy-saves-the-world.json) |
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
+| Mr. Bree: Returning Home | 102124 | [102124-mr-bree-returning-home.json](./102124-mr-bree-returning-home.json) |
 | Mr. Catfish's Singles Retreat Event Extravaganza!!! | 122353 | [122353-mr-catfishs-singles-retreat-event-extravaganza.json](./122353-mr-catfishs-singles-retreat-event-extravaganza.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
 | Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
@@ -3803,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
+| My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
 | My Lady | 33134 | [33134-my-lady.json](./33134-my-lady.json) |
 | My Last Friday | 320730 | [320730-my-last-friday.json](./320730-my-last-friday.json) |
