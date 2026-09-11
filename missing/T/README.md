@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
 | Tarot Mystery | 37793 | [37793-tarot-mystery.json](./37793-tarot-mystery.json) |
+| Tartapolis | 120954 | [120954-tartapolis.json](./120954-tartapolis.json) |
 | Tartarus | 256845 | [256845-tartarus.json](./256845-tartarus.json) |
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
@@ -1551,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Derailed: Devour the Harvest | 413675 | [413675-the-derailed-devour-the-harvest.json](./413675-the-derailed-devour-the-harvest.json) |
 | The Descent | 278996 | [278996-the-descent.json](./278996-the-descent.json) |
 | The Desert's Rose | 109710 | [109710-the-deserts-rose.json](./109710-the-deserts-rose.json) |
+| The Designer's Curse | 120971 | [120971-the-designers-curse.json](./120971-the-designers-curse.json) |
 | The Desire of the Amazons | 272279 | [272279-the-desire-of-the-amazons.json](./272279-the-desire-of-the-amazons.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
 | The Detail: Episode 3 - Devil in the Detail | 171613 | [171613-the-detail-episode-3-devil-in-the-detail.json](./171613-the-detail-episode-3-devil-in-the-detail.json) |
@@ -2487,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost World: Jurassic Park | 147443 | [147443-the-lost-world-jurassic-park.json](./147443-the-lost-world-jurassic-park.json) |
 | The Lotus Eater | 184610 | [184610-the-lotus-eater.json](./184610-the-lotus-eater.json) |
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
+| The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
 | The Machinery | 271747 | [271747-the-machinery.json](./271747-the-machinery.json) |
 | The Madman | 205274 | [205274-the-madman.json](./205274-the-madman.json) |
@@ -2558,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mirror Circle | 382746 | [382746-the-mirror-circle.json](./382746-the-mirror-circle.json) |
 | The Mirror Dimension | 260655 | [260655-the-mirror-dimension.json](./260655-the-mirror-dimension.json) |
 | The Mirst | 206707 | [206707-the-mirst.json](./206707-the-mirst.json) |
+| The Misadventure of Melon | 120946 | [120946-the-misadventure-of-melon.json](./120946-the-misadventure-of-melon.json) |
 | The Misadventures of Sir Randolph Doogleberry, British Explorer | 91429 | [91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json](./91429-the-misadventures-of-sir-randolph-doogleberry-british-explorer.json) |
 | The Misadventures of Tron Bonne | 1753 | [1753-the-misadventures-of-tron-bonne.json](./1753-the-misadventures-of-tron-bonne.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
@@ -3282,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tour | 282029 | [282029-the-tour.json](./282029-the-tour.json) |
 | The Tour of Duty | 145618 | [145618-the-tour-of-duty.json](./145618-the-tour-of-duty.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
+| The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
 | The Tower of TigerQiuQiu 2: 1942-J20 | 157690 | [157690-the-tower-of-tigerqiuqiu-2-1942-j20.json](./157690-the-tower-of-tigerqiuqiu-2-1942-j20.json) |
 | The Tower of TigerQiuQiu 2: 1952 M0 | 173714 | [173714-the-tower-of-tigerqiuqiu-2-1952-m0.json](./173714-the-tower-of-tigerqiuqiu-2-1952-m0.json) |
 | The Tower of TigerQiuQiu 2: 1952 M1 | 173734 | [173734-the-tower-of-tigerqiuqiu-2-1952-m1.json](./173734-the-tower-of-tigerqiuqiu-2-1952-m1.json) |
@@ -3803,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Sons | 192968 | [192968-three-sons.json](./192968-three-sons.json) |
 | Three Verses | 298289 | [298289-three-verses.json](./298289-three-verses.json) |
 | Three's A Crowd | 256841 | [256841-threes-a-crowd.json](./256841-threes-a-crowd.json) |
+| ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
 | Threshold | 202336 | [202336-threshold.json](./202336-threshold.json) |
 | Threshold | 288609 | [288609-threshold.json](./288609-threshold.json) |
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
@@ -5630,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trench Warfare WW1: RTS Battle | 303792 | [303792-trench-warfare-ww1-rts-battle.json](./303792-trench-warfare-ww1-rts-battle.json) |
 | Trenches 2 | 23926 | [23926-trenches-2.json](./23926-trenches-2.json) |
 | Trenches Generals | 85521 | [85521-trenches-generals.json](./85521-trenches-generals.json) |
+| TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
