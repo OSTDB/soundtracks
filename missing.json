@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T17:20:57.449Z",
-  "total_missing": 58753,
+  "generated_at": "2026-09-11T17:31:06.347Z",
+  "total_missing": 58761,
   "games": [
     {
       "igdb_id": 306086,
@@ -2316,11 +2316,6 @@
       "igdb_id": 331291,
       "game_name": "A Night With: Succubus",
       "file": "missing/A/331291-a-night-with-succubus.json"
-    },
-    {
-      "igdb_id": 232413,
-      "game_name": "A Noite dos Patriotas",
-      "file": "missing/A/232413-a-noite-dos-patriotas.json"
     },
     {
       "igdb_id": 271725,
@@ -47953,6 +47948,11 @@
       "file": "missing/C/151207-compilation-assassins-creed-brotherhood-revelations.json"
     },
     {
+      "igdb_id": 93021,
+      "game_name": "Complete Onside Soccer",
+      "file": "missing/C/93021-complete-onside-soccer.json"
+    },
+    {
       "igdb_id": 216454,
       "game_name": "Completion LawnCare",
       "file": "missing/C/216454-completion-lawncare.json"
@@ -90988,6 +90988,11 @@
       "file": "missing/F/278418-frogenlav-skyward-bound.json"
     },
     {
+      "igdb_id": 93020,
+      "game_name": "Froggee",
+      "file": "missing/F/93020-froggee.json"
+    },
+    {
       "igdb_id": 218439,
       "game_name": "Frogger",
       "file": "missing/F/218439-frogger.json"
@@ -95666,6 +95671,11 @@
       "igdb_id": 232457,
       "game_name": "GeoJelly",
       "file": "missing/G/232457-geojelly.json"
+    },
+    {
+      "igdb_id": 93023,
+      "game_name": "Geom",
+      "file": "missing/G/93023-geom.json"
     },
     {
       "igdb_id": 298344,
@@ -137148,6 +137158,11 @@
       "file": "missing/L/109741-little-memories.json"
     },
     {
+      "igdb_id": 93025,
+      "game_name": "Little Memory",
+      "file": "missing/L/93025-little-memory.json"
+    },
+    {
       "igdb_id": 265137,
       "game_name": "Little Monkey King's Big Quest",
       "file": "missing/L/265137-little-monkey-kings-big-quest.json"
@@ -163203,6 +163218,11 @@
       "file": "missing/N/5958-ncaa-march-madness-06.json"
     },
     {
+      "igdb_id": 93022,
+      "game_name": "NCAA: Road to the Final Four",
+      "file": "missing/N/93022-ncaa-road-to-the-final-four.json"
+    },
+    {
       "igdb_id": 330133,
       "game_name": "NCORE",
       "file": "missing/N/330133-ncore.json"
@@ -174126,6 +174146,11 @@
       "igdb_id": 25159,
       "game_name": "Othello",
       "file": "missing/O/25159-othello.json"
+    },
+    {
+      "igdb_id": 93019,
+      "game_name": "Othello 3",
+      "file": "missing/O/93019-othello-3.json"
     },
     {
       "igdb_id": 222309,
@@ -187716,6 +187741,11 @@
       "igdb_id": 91426,
       "game_name": "Prey with Gun",
       "file": "missing/P/91426-prey-with-gun.json"
+    },
+    {
+      "igdb_id": 93026,
+      "game_name": "Prezzemolo in una Giornata da Incubo",
+      "file": "missing/P/93026-prezzemolo-in-una-giornata-da-incubo.json"
     },
     {
       "igdb_id": 394860,
@@ -277371,6 +277401,16 @@
       "igdb_id": 193940,
       "game_name": "Vestria Story",
       "file": "missing/V/193940-vestria-story.json"
+    },
+    {
+      "igdb_id": 93018,
+      "game_name": "Vestron",
+      "file": "missing/V/93018-vestron.json"
+    },
+    {
+      "igdb_id": 93024,
+      "game_name": "Vet Emergency",
+      "file": "missing/V/93024-vet-emergency.json"
     },
     {
       "igdb_id": 94192,
