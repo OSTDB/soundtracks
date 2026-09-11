@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qui Veut Gagner Des Millions | 313505 | [313505-qui-veut-gagner-des-millions.json](./313505-qui-veut-gagner-des-millions.json) |
 | Quible Sphere | 105281 | [105281-quible-sphere.json](./105281-quible-sphere.json) |
 | Quick Draw | 260150 | [260150-quick-draw.json](./260150-quick-draw.json) |
+| Quick Fill Q | 84836 | [84836-quick-fill-q.json](./84836-quick-fill-q.json) |
 | Quick Fire | 241046 | [241046-quick-fire.json](./241046-quick-fire.json) |
 | Quick Majik Adventure | 171539 | [171539-quick-majik-adventure.json](./171539-quick-majik-adventure.json) |
 | Quick Scrap | 185111 | [185111-quick-scrap.json](./185111-quick-scrap.json) |
@@ -221,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Kidou Senshi Gundam: Toi Senshi DX | 62758 | [62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json](./62758-quiz-kidou-senshi-gundam-toi-senshi-dx.json) |
 | Quiz Master Zero and the Silky Road | 110313 | [110313-quiz-master-zero-and-the-silky-road.json](./110313-quiz-master-zero-and-the-silky-road.json) |
 | Quiz Minister | 208029 | [208029-quiz-minister.json](./208029-quiz-minister.json) |
+| Quiz Party | 84835 | [84835-quiz-party.json](./84835-quiz-party.json) |
 | Quiz Planet | 317007 | [317007-quiz-planet.json](./317007-quiz-planet.json) |
 | Quiz Quest | 246097 | [246097-quiz-quest.json](./246097-quiz-quest.json) |
 | Quiz Taxi | 124743 | [124743-quiz-taxi.json](./124743-quiz-taxi.json) |
