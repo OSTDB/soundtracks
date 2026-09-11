@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
 | Reign of Guilds | 112329 | [112329-reign-of-guilds.json](./112329-reign-of-guilds.json) |
+| Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reigns: Game of Thrones | 107237 | [107237-reigns-game-of-thrones.json](./107237-reigns-game-of-thrones.json) |
 | Reijou Tantei: Office Love Jikenbo | 203342 | [203342-reijou-tantei-office-love-jikenbo.json](./203342-reijou-tantei-office-love-jikenbo.json) |
@@ -2401,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
+| RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
 | RWBY: Vale of Darkness | 236806 | [236806-rwby-vale-of-darkness.json](./236806-rwby-vale-of-darkness.json) |
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
