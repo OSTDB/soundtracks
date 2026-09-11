@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Listen to the Wind | 172709 | [172709-listen-to-the-wind.json](./172709-listen-to-the-wind.json) |
 | Listen, Think, Meow! | 304596 | [304596-listen-think-meow.json](./304596-listen-think-meow.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
+| Liteboxer | 125949 | [125949-liteboxer.json](./125949-liteboxer.json) |
 | LiteracyPlanet: Word Mania | 203372 | [203372-literacyplanet-word-mania.json](./203372-literacyplanet-word-mania.json) |
 | Literally Free Will (From Prison) | 180750 | [180750-literally-free-will-from-prison.json](./180750-literally-free-will-from-prison.json) |
 | Literally Just Pixels On A Screen | 340922 | [340922-literally-just-pixels-on-a-screen.json](./340922-literally-just-pixels-on-a-screen.json) |
