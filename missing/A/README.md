@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
+| Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
 | Artists of Fortune: Paint by Numbers! - Aquaris Planet | 191235 | [191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json](./191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json) |
 | Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 1 | 191230 | [191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json](./191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json) |
 | Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 2 | 191229 | [191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json](./191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json) |
@@ -3106,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Robo-Kid | 11921 | [11921-atomic-robo-kid.json](./11921-atomic-robo-kid.json) |
 | Atomic Rock Paper Scissors | 180830 | [180830-atomic-rock-paper-scissors.json](./180830-atomic-rock-paper-scissors.json) |
 | Atomicrops: Deluxe Edition | 154542 | [154542-atomicrops-deluxe-edition.json](./154542-atomicrops-deluxe-edition.json) |
+| Atomind | 93547 | [93547-atomind.json](./93547-atomind.json) |
 | Atominous | 257383 | [257383-atominous.json](./257383-atominous.json) |
 | Atomix | 308566 | [308566-atomix.json](./308566-atomix.json) |
 | Atomograd | 249222 | [249222-atomograd.json](./249222-atomograd.json) |
