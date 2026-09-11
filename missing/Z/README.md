@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zgirls II: Last One | 174892 | [174892-zgirls-ii-last-one.json](./174892-zgirls-ii-last-one.json) |
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
 | Zhànshén Qīpò | 130915 | [130915-zhanshen-qipo.json](./130915-zhanshen-qipo.json) |
+| Zhēngtiān Fēngwǔ Zhuán | 84225 | [84225-zhengtian-fengwu-zhuan.json](./84225-zhengtian-fengwu-zhuan.json) |
 | Zhèngzōng Taiwan Shíliù Zhāng Mahjong | 149591 | [149591-zhengzong-taiwan-shiliu-zhang-mahjong.json](./149591-zhengzong-taiwan-shiliu-zhang-mahjong.json) |
 | Zhi Huan Wang: Shou Bu Qu | 321765 | [321765-zhi-huan-wang-shou-bu-qu.json](./321765-zhi-huan-wang-shou-bu-qu.json) |
 | Zhiel's Mystery | 237390 | [237390-zhiels-mystery.json](./237390-zhiels-mystery.json) |
@@ -275,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
 | Zombie Graveyard Simulator | 333007 | [333007-zombie-graveyard-simulator.json](./333007-zombie-graveyard-simulator.json) |
 | Zombie Gunship Revenant AR | 87281 | [87281-zombie-gunship-revenant-ar.json](./87281-zombie-gunship-revenant-ar.json) |
+| Zombie Harvest | 87158 | [87158-zombie-harvest.json](./87158-zombie-harvest.json) |
 | Zombie Hazard | 166776 | [166776-zombie-hazard.json](./166776-zombie-hazard.json) |
 | Zombie Hell: Infected City | 216814 | [216814-zombie-hell-infected-city.json](./216814-zombie-hell-infected-city.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
@@ -449,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZX Asteroids | 319602 | [319602-zx-asteroids.json](./319602-zx-asteroids.json) |
 | ZXC | 266803 | [266803-zxc.json](./266803-zxc.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
+| Zyconix | 84210 | [84210-zyconix.json](./84210-zyconix.json) |
 | Zyrcon | 413623 | [413623-zyrcon.json](./413623-zyrcon.json) |
 | Zythum | 30954 | [30954-zythum.json](./30954-zythum.json) |
 | ZYX Story | 105343 | [105343-zyx-story.json](./105343-zyx-story.json) |
