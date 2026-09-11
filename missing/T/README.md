@@ -1002,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
+| The Adventures of 00 Dilly | 124136 | [124136-the-adventures-of-00-dilly.json](./124136-the-adventures-of-00-dilly.json) |
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bog's Heart | 176963 | [176963-the-bogs-heart.json](./176963-the-bogs-heart.json) |
 | The Boggy Region | 260940 | [260940-the-boggy-region.json](./260940-the-boggy-region.json) |
 | The Bogtavern | 236259 | [236259-the-bogtavern.json](./236259-the-bogtavern.json) |
+| The Bomb Project | 124139 | [124139-the-bomb-project.json](./124139-the-bomb-project.json) |
 | The Bombing Islands | 3457 | [3457-the-bombing-islands.json](./3457-the-bombing-islands.json) |
 | The Bones of Rosalinda | 290394 | [290394-the-bones-of-rosalinda.json](./290394-the-bones-of-rosalinda.json) |
 | The Boo Croo | 381619 | [381619-the-boo-croo.json](./381619-the-boo-croo.json) |
@@ -2190,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Cowboy | 119784 | [119784-the-last-cowboy.json](./119784-the-last-cowboy.json) |
 | The Last Craftsman | 229937 | [229937-the-last-craftsman.json](./229937-the-last-craftsman.json) |
 | The Last Crown: Midnight Horror | 17206 | [17206-the-last-crown-midnight-horror.json](./17206-the-last-crown-midnight-horror.json) |
+| The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
 | The Last Delivery Man on Earth | 374593 | [374593-the-last-delivery-man-on-earth.json](./374593-the-last-delivery-man-on-earth.json) |
 | The Last Door | 235984 | [235984-the-last-door.json](./235984-the-last-door.json) |
 | The Last Driver | 343791 | [343791-the-last-driver.json](./343791-the-last-driver.json) |
@@ -2405,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
 | The Longing Ribbon | 151694 | [151694-the-longing-ribbon.json](./151694-the-longing-ribbon.json) |
 | The Loop | 170528 | [170528-the-loop.json](./170528-the-loop.json) |
+| The Loopholes Chronicles | 124185 | [124185-the-loopholes-chronicles.json](./124185-the-loopholes-chronicles.json) |
 | The Loopler | 377087 | [377087-the-loopler.json](./377087-the-loopler.json) |
 | The Lord of the Creatures | 137641 | [137641-the-lord-of-the-creatures.json](./137641-the-lord-of-the-creatures.json) |
 | The Lord of the Parties x Amane Momo | 220627 | [220627-the-lord-of-the-parties-x-amane-momo.json](./220627-the-lord-of-the-parties-x-amane-momo.json) |
@@ -2744,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
 | The Play's the Thing | 154017 | [154017-the-plays-the-thing.json](./154017-the-plays-the-thing.json) |
+| The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
 | The Plug | 175436 | [175436-the-plug.json](./175436-the-plug.json) |
 | The Plus Point | 89950 | [89950-the-plus-point.json](./89950-the-plus-point.json) |
 | The Plutonia Experiment | 46615 | [46615-the-plutonia-experiment.json](./46615-the-plutonia-experiment.json) |
@@ -3432,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
+| The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
 | The Unknown | 336516 | [336516-the-unknown.json](./336516-the-unknown.json) |
 | The Unknown Planet | 270684 | [270684-the-unknown-planet.json](./270684-the-unknown-planet.json) |
@@ -4807,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
 | Topple Adventure | 214490 | [214490-topple-adventure.json](./214490-topple-adventure.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
+| TopplePop: Bungee Blockbusters | 124211 | [124211-topplepop-bungee-blockbusters.json](./124211-topplepop-bungee-blockbusters.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
 | Topspace | 274468 | [274468-topspace.json](./274468-topspace.json) |
@@ -5115,6 +5122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
+| Toz | 124200 | [124200-toz.json](./124200-toz.json) |
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
@@ -5787,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver: USA Paint Jobs | 241070 | [241070-truck-driver-usa-paint-jobs.json](./241070-truck-driver-usa-paint-jobs.json) |
 | Truck Job | 292294 | [292294-truck-job.json](./292294-truck-job.json) |
 | Truck Journey: Nitro | 223142 | [223142-truck-journey-nitro.json](./223142-truck-journey-nitro.json) |
+| Truck Life | 124166 | [124166-truck-life.json](./124166-truck-life.json) |
 | Truck Mechanic: Dangerous Paths | 134668 | [134668-truck-mechanic-dangerous-paths.json](./134668-truck-mechanic-dangerous-paths.json) |
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
