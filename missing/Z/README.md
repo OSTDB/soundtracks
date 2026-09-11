@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Freaks | 163963 | [163963-zombie-freaks.json](./163963-zombie-freaks.json) |
 | Zombie frenzy | 191255 | [191255-zombie-frenzy.json](./191255-zombie-frenzy.json) |
 | Zombie Girl | 270094 | [270094-zombie-girl.json](./270094-zombie-girl.json) |
+| Zombie Go | 117031 | [117031-zombie-go.json](./117031-zombie-go.json) |
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
 | Zombie Graveyard Simulator | 333007 | [333007-zombie-graveyard-simulator.json](./333007-zombie-graveyard-simulator.json) |
 | Zombie Gunship Revenant AR | 87281 | [87281-zombie-gunship-revenant-ar.json](./87281-zombie-gunship-revenant-ar.json) |
