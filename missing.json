@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T08:18:41.198Z",
-  "total_missing": 57230,
+  "generated_at": "2026-09-11T08:21:03.193Z",
+  "total_missing": 57229,
   "games": [
     {
       "igdb_id": 306086,
@@ -2026,11 +2026,6 @@
       "igdb_id": 311503,
       "game_name": "A Gentlemen's Dispute",
       "file": "missing/A/311503-a-gentlemens-dispute.json"
-    },
-    {
-      "igdb_id": 144367,
-      "game_name": "A Glass Room",
-      "file": "missing/A/144367-a-glass-room.json"
     },
     {
       "igdb_id": 59423,
