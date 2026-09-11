@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
 | Baku Maru | 369039 | [369039-baku-maru.json](./369039-baku-maru.json) |
+| Bakugan Battle Brawlers: Arcade Battlers | 122989 | [122989-bakugan-battle-brawlers-arcade-battlers.json](./122989-bakugan-battle-brawlers-arcade-battlers.json) |
 | Bakugan: Rise of the Resistance | 26690 | [26690-bakugan-rise-of-the-resistance.json](./26690-bakugan-rise-of-the-resistance.json) |
 | Bakumatsu Roman: Gekka no Kenshi 1+2 | 84253 | [84253-bakumatsu-roman-gekka-no-kenshi-1-2.json](./84253-bakumatsu-roman-gekka-no-kenshi-1-2.json) |
 | Bakuretsu Breaker | 40269 | [40269-bakuretsu-breaker.json](./40269-bakuretsu-breaker.json) |
@@ -2851,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
 | Bronk's Jungle Adventure | 143679 | [143679-bronks-jungle-adventure.json](./143679-bronks-jungle-adventure.json) |
 | Bronkie the Bronchiasaurus | 42624 | [42624-bronkie-the-bronchiasaurus.json](./42624-bronkie-the-bronchiasaurus.json) |
+| Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
 | Brood | 116514 | [116514-brood.json](./116514-brood.json) |
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
