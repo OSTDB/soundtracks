@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
 | Cannon Flight | 57112 | [57112-cannon-flight.json](./57112-cannon-flight.json) |
 | Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
+| Cannon Strike | 94171 | [94171-cannon-strike.json](./94171-cannon-strike.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
 | CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chkn | 34021 | [34021-chkn.json](./34021-chkn.json) |
 | ChloroLink | 374061 | [374061-chlorolink.json](./374061-chlorolink.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
+| Cho Chabudai Gaeshi | 94174 | [94174-cho-chabudai-gaeshi.json](./94174-cho-chabudai-gaeshi.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
 | Cho-Nazo-Oh | 146276 | [146276-cho-nazo-oh.json](./146276-cho-nazo-oh.json) |
 | Cho-ricchi! Tamagotchi no Puchi Puchi Omisecchi de Violin Lesson | 222310 | [222310-cho-ricchi-tamagotchi-no-puchi-puchi-omisecchi-de-violin-lesson.json](./222310-cho-ricchi-tamagotchi-no-puchi-puchi-omisecchi-de-violin-lesson.json) |
@@ -1622,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
+| Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | CircL | 185080 | [185080-circl.json](./185080-circl.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
@@ -2268,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
 | Combat Choro Q | 97362 | [97362-combat-choro-q.json](./97362-combat-choro-q.json) |
 | Combat Command | 139426 | [139426-combat-command.json](./139426-combat-command.json) |
+| Combat Crazy | 94179 | [94179-combat-crazy.json](./94179-combat-crazy.json) |
 | Combat Dungeon | 294163 | [294163-combat-dungeon.json](./294163-combat-dungeon.json) |
 | Combat Elite: WWII Paratroopers | 5784 | [5784-combat-elite-wwii-paratroopers.json](./5784-combat-elite-wwii-paratroopers.json) |
 | Combat Jam 1 | 300418 | [300418-combat-jam-1.json](./300418-combat-jam-1.json) |
