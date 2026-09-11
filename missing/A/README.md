@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
 | A Firefighter's Boxing Matches | 179136 | [179136-a-firefighters-boxing-matches.json](./179136-a-firefighters-boxing-matches.json) |
+| A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
@@ -587,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift | 331880 | [331880-adrift.json](./331880-adrift.json) |
 | Adrift | 377088 | [377088-adrift.json](./377088-adrift.json) |
 | Adrorium | 133447 | [133447-adrorium.json](./133447-adrorium.json) |
+| Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
 | Adv770 | 305203 | [305203-adv770.json](./305203-adv770.json) |
@@ -1292,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Swirl | 15594 | [15594-alien-swirl.json](./15594-alien-swirl.json) |
 | Alien Tower | 259543 | [259543-alien-tower.json](./259543-alien-tower.json) |
 | Alien Virus | 147371 | [147371-alien-virus.json](./147371-alien-virus.json) |
+| Alien War Girl | 111072 | [111072-alien-war-girl.json](./111072-alien-war-girl.json) |
 | Alien Weapon Test Grounds | 310209 | [310209-alien-weapon-test-grounds.json](./310209-alien-weapon-test-grounds.json) |
 | Alien Worlds | 93075 | [93075-alien-worlds.json](./93075-alien-worlds.json) |
 | Alien X | 171579 | [171579-alien-x.json](./171579-alien-x.json) |
@@ -2003,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
 | Another Day of Chikan! Vol7 Cool Beauty Schoolgirl in a Band | 82931 | [82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json](./82931-another-day-of-chikan-vol7-cool-beauty-schoolgirl-in-a-band.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
+| Another Hardcore Game | 110995 | [110995-another-hardcore-game.json](./110995-another-hardcore-game.json) |
 | Another Head | 323759 | [323759-another-head.json](./323759-another-head.json) |
 | Another Hour Another Planet | 293093 | [293093-another-hour-another-planet.json](./293093-another-hour-another-planet.json) |
 | Another Moon Whistle: Kuzureteku Nyuudougumo | 166143 | [166143-another-moon-whistle-kuzureteku-nyuudougumo.json](./166143-another-moon-whistle-kuzureteku-nyuudougumo.json) |
@@ -2232,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
 | Ar Nosurge: Ode to an Unborn Star DX | 139979 | [139979-ar-nosurge-ode-to-an-unborn-star-dx.json](./139979-ar-nosurge-ode-to-an-unborn-star-dx.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
+| Ar-K: End Game | 110962 | [110962-ar-k-end-game.json](./110962-ar-k-end-game.json) |
 | Ar3na | 257937 | [257937-ar3na.json](./257937-ar3na.json) |
 | Ara Ngc 6397 | 206130 | [206130-ara-ngc-6397.json](./206130-ara-ngc-6397.json) |
 | Arab Drift Cars | 221746 | [221746-arab-drift-cars.json](./221746-arab-drift-cars.json) |
@@ -3193,6 +3198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automaton Heart | 317850 | [317850-automaton-heart.json](./317850-automaton-heart.json) |
 | Automatonics | 244263 | [244263-automatonics.json](./244263-automatonics.json) |
 | Automatrain | 217329 | [217329-automatrain.json](./217329-automatrain.json) |
+| Automobiles and the Eisenhower Hiway System the Game | 111070 | [111070-automobiles-and-the-eisenhower-hiway-system-the-game.json](./111070-automobiles-and-the-eisenhower-hiway-system-the-game.json) |
 | Automobilista | 19442 | [19442-automobilista.json](./19442-automobilista.json) |
 | Automobilista 2: Adrenaline Pack Pt2 | 352745 | [352745-automobilista-2-adrenaline-pack-pt2.json](./352745-automobilista-2-adrenaline-pack-pt2.json) |
 | Automobilista 2: Endurance Pack Pt2 | 352739 | [352739-automobilista-2-endurance-pack-pt2.json](./352739-automobilista-2-endurance-pack-pt2.json) |
