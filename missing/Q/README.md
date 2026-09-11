@@ -247,5 +247,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qwess | 276192 | [276192-qwess.json](./276192-qwess.json) |
 | QwikWits | 314866 | [314866-qwikwits.json](./314866-qwikwits.json) |
 | Qwilight | 203526 | [203526-qwilight.json](./203526-qwilight.json) |
+| Qwirkle | 97290 | [97290-qwirkle.json](./97290-qwirkle.json) |
 | Qwixx | 175421 | [175421-qwixx.json](./175421-qwixx.json) |
 | Qybe | 102961 | [102961-qybe.json](./102961-qybe.json) |
