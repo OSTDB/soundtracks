@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon 3D | 146896 | [146896-backgammon-3d.json](./146896-backgammon-3d.json) |
 | Backgammon Blitz | 8660 | [8660-backgammon-blitz.json](./8660-backgammon-blitz.json) |
 | Backgammon Live | 245322 | [245322-backgammon-live.json](./245322-backgammon-live.json) |
+| Backgammon Online | 104123 | [104123-backgammon-online.json](./104123-backgammon-online.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
 | Backpacker | 28352 | [28352-backpacker.json](./28352-backpacker.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
@@ -1934,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
 | Block Cat Jam | 297502 | [297502-block-cat-jam.json](./297502-block-cat-jam.json) |
+| Block Cat Space Golf | 104029 | [104029-block-cat-space-golf.json](./104029-block-cat-space-golf.json) |
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
@@ -2449,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boring Movies: Friends of Stolen Jewelry | 362310 | [362310-boring-movies-friends-of-stolen-jewelry.json](./362310-boring-movies-friends-of-stolen-jewelry.json) |
 | Boring Movies: Groovy Chainsaw Man | 362309 | [362309-boring-movies-groovy-chainsaw-man.json](./362309-boring-movies-groovy-chainsaw-man.json) |
 | Boring Movies: Spooky Bunny | 362308 | [362308-boring-movies-spooky-bunny.json](./362308-boring-movies-spooky-bunny.json) |
+| Boris the Mutant Bear with a Gun | 104024 | [104024-boris-the-mutant-bear-with-a-gun.json](./104024-boris-the-mutant-bear-with-a-gun.json) |
 | Born in Blood | 224784 | [224784-born-in-blood.json](./224784-born-in-blood.json) |
 | Born Into Fear | 164980 | [164980-born-into-fear.json](./164980-born-into-fear.json) |
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
@@ -2470,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Crafter | 253584 | [253584-bot-crafter.json](./253584-bot-crafter.json) |
 | Bot Hunt | 293110 | [293110-bot-hunt.json](./293110-bot-hunt.json) |
 | Bot Hunter | 330147 | [330147-bot-hunter.json](./330147-bot-hunter.json) |
+| Bot Tales: The Crashed | 104048 | [104048-bot-tales-the-crashed.json](./104048-bot-tales-the-crashed.json) |
 | Bot Vice | 22751 | [22751-bot-vice.json](./22751-bot-vice.json) |
 | Bot World | 226193 | [226193-bot-world.json](./226193-bot-world.json) |
 | Bot-Net | 120384 | [120384-bot-net.json](./120384-bot-net.json) |
@@ -2636,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bradley Trainer | 40272 | [40272-bradley-trainer.json](./40272-bradley-trainer.json) |
 | Bragger's Run | 150610 | [150610-braggers-run.json](./150610-braggers-run.json) |
 | Brahma Force: The Assault on Beltlogger 9 | 20816 | [20816-brahma-force-the-assault-on-beltlogger-9.json](./20816-brahma-force-the-assault-on-beltlogger-9.json) |
+| Brain 43°C | 104051 | [104051-brain-43-c.json](./104051-brain-43-c.json) |
 | Brain Age Express: Arts & Letters | 67792 | [67792-brain-age-express-arts-and-letters.json](./67792-brain-age-express-arts-and-letters.json) |
 | Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
 | Brain Bait | 186814 | [186814-brain-bait.json](./186814-brain-bait.json) |
