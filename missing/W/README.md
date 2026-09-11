@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Cities | 386698 | [386698-weird-cities.json](./386698-weird-cities.json) |
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
+| Weird Rituals in the Ancient Temples | 98403 | [98403-weird-rituals-in-the-ancient-temples.json](./98403-weird-rituals-in-the-ancient-temples.json) |
 | Weird Store | 252135 | [252135-weird-store.json](./252135-weird-store.json) |
 | Weirdlands | 144978 | [144978-weirdlands.json](./144978-weirdlands.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
