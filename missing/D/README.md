@@ -1970,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
 | DJMax Respect V: Groove Coaster Pack | 225059 | [225059-djmax-respect-v-groove-coaster-pack.json](./225059-djmax-respect-v-groove-coaster-pack.json) |
 | DJMax Respect V: Technika Pack | 225058 | [225058-djmax-respect-v-technika-pack.json](./225058-djmax-respect-v-technika-pack.json) |
+| DJMax Technika | 79271 | [79271-djmax-technika.json](./79271-djmax-technika.json) |
 | DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
