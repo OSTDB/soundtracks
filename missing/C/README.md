@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Death | 259247 | [259247-chrome-death.json](./259247-chrome-death.json) |
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
 | Chromocide: Prism of Sin | 294171 | [294171-chromocide-prism-of-sin.json](./294171-chromocide-prism-of-sin.json) |
+| Chromosome Evil | 116334 | [116334-chromosome-evil.json](./116334-chromosome-evil.json) |
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
 | Chronautical | 253598 | [253598-chronautical.json](./253598-chronautical.json) |
 | Chronescher | 203929 | [203929-chronescher.json](./203929-chronescher.json) |
