@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tesla's Best Friend | 30861 | [30861-teslas-best-friend.json](./30861-teslas-best-friend.json) |
 | Tesla's Tower: The Wardenclyffe Mystery | 31954 | [31954-teslas-tower-the-wardenclyffe-mystery.json](./31954-teslas-tower-the-wardenclyffe-mystery.json) |
 | Teslagrad Remastered | 246407 | [246407-teslagrad-remastered.json](./246407-teslagrad-remastered.json) |
+| Tess Elated | 114951 | [114951-tess-elated.json](./114951-tess-elated.json) |
 | Tessa's Fate | 140583 | [140583-tessas-fate.json](./140583-tessas-fate.json) |
 | Tesseract VR | 99602 | [99602-tesseract-vr.json](./99602-tesseract-vr.json) |
 | Test Drive 4 | 78297 | [78297-test-drive-4.json](./78297-test-drive-4.json) |
@@ -924,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TetroMosaic, Unicorn | 378785 | [378785-tetromosaic-unicorn.json](./378785-tetromosaic-unicorn.json) |
 | Tetron | 153411 | [153411-tetron.json](./153411-tetron.json) |
 | Tetroon | 234594 | [234594-tetroon.json](./234594-tetroon.json) |
+| TetrotronVR | 114971 | [114971-tetrotronvr.json](./114971-tetrotronvr.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Akechi Tetsudou-hen | 241971 | [241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json](./241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json) |
@@ -3426,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
+| The Toymaker's Apprentice | 114980 | [114980-the-toymakers-apprentice.json](./114980-the-toymakers-apprentice.json) |
 | The Track Star | 241995 | [241995-the-track-star.json](./241995-the-track-star.json) |
 | The Traded Groom | 321352 | [321352-the-traded-groom.json](./321352-the-traded-groom.json) |
 | The Trader | 159881 | [159881-the-trader.json](./159881-the-trader.json) |
@@ -3627,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wonder Sword | 327585 | [327585-the-wonder-sword.json](./327585-the-wonder-sword.json) |
 | The Wonderful 101 | 264890 | [264890-the-wonderful-101.json](./264890-the-wonderful-101.json) |
 | The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 1 | 250349 | [250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json](./250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json) |
+| The Woods: VR Escape the Room | 114975 | [114975-the-woods-vr-escape-the-room.json](./114975-the-woods-vr-escape-the-room.json) |
 | The Word is Not the Thing | 74468 | [74468-the-word-is-not-the-thing.json](./74468-the-word-is-not-the-thing.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
@@ -3681,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
 | Theme Hotel | 185634 | [185634-theme-hotel.json](./185634-theme-hotel.json) |
+| Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
 | Themis | 327856 | [327856-themis.json](./327856-themis.json) |
 | TheMist | 116335 | [116335-themist.json](./116335-themist.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
@@ -5160,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Townville, the Show | 132178 | [132178-townville-the-show.json](./132178-townville-the-show.json) |
 | Toxic Toads | 322973 | [322973-toxic-toads.json](./322973-toxic-toads.json) |
 | Toxicity | 300417 | [300417-toxicity.json](./300417-toxicity.json) |
+| Toxin the Game | 114984 | [114984-toxin-the-game.json](./114984-toxin-the-game.json) |
 | Toxtli & The Moon Jar | 349834 | [349834-toxtli-and-the-moon-jar.json](./349834-toxtli-and-the-moon-jar.json) |
 | Toy Bot Diaries 2 | 79909 | [79909-toy-bot-diaries-2.json](./79909-toy-bot-diaries-2.json) |
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
@@ -5502,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tralalero Tralala: Escape Backrooms | 367977 | [367977-tralalero-tralala-escape-backrooms.json](./367977-tralalero-tralala-escape-backrooms.json) |
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
+| Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | TransBot | 29136 | [29136-transbot.json](./29136-transbot.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
@@ -5867,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
+| Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
 | Trucks and Things That Go Puzzle Game | 109022 | [109022-trucks-and-things-that-go-puzzle-game.json](./109022-trucks-and-things-that-go-puzzle-game.json) |
 | Truco | 193408 | [193408-truco.json](./193408-truco.json) |
 | Truco! | 259840 | [259840-truco.json](./259840-truco.json) |
