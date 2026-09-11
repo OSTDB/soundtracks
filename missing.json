@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T20:20:53.480Z",
-  "total_missing": 59221,
+  "generated_at": "2026-09-11T20:30:59.323Z",
+  "total_missing": 59229,
   "games": [
     {
       "igdb_id": 306086,
@@ -1658,6 +1658,11 @@
       "file": "missing/0-9/166212-6-in-1-iq-scale-bundle-lost-starships.json"
     },
     {
+      "igdb_id": 86067,
+      "game_name": "6-Pak",
+      "file": "missing/0-9/86067-6-pak.json"
+    },
+    {
       "igdb_id": 314628,
       "game_name": "60 Minute Marathon 2",
       "file": "missing/0-9/314628-60-minute-marathon-2.json"
@@ -2411,11 +2416,6 @@
       "igdb_id": 294128,
       "game_name": "A Short Odyssey",
       "file": "missing/A/294128-a-short-odyssey.json"
-    },
-    {
-      "igdb_id": 314269,
-      "game_name": "A Shrimpful Adventure",
-      "file": "missing/A/314269-a-shrimpful-adventure.json"
     },
     {
       "igdb_id": 195228,
@@ -26506,6 +26506,11 @@
       "igdb_id": 206142,
       "game_name": "Bingo",
       "file": "missing/B/206142-bingo.json"
+    },
+    {
+      "igdb_id": 86064,
+      "game_name": "Bingo",
+      "file": "missing/B/86064-bingo.json"
     },
     {
       "igdb_id": 22429,
@@ -150028,6 +150033,11 @@
       "file": "missing/M/367432-meng-chong-xiyou.json"
     },
     {
+      "igdb_id": 86066,
+      "game_name": "Mènghuàn Shuǐguǒ Pán: 777 Casino",
+      "file": "missing/M/86066-menghuan-shuiguo-pan-777-casino.json"
+    },
+    {
       "igdb_id": 208936,
       "game_name": "Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo",
       "file": "missing/M/208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json"
@@ -160441,6 +160451,11 @@
       "igdb_id": 65491,
       "game_name": "Murkon's Vengeance",
       "file": "missing/M/65491-murkons-vengeance.json"
+    },
+    {
+      "igdb_id": 86061,
+      "game_name": "Murmeln und mehr ...",
+      "file": "missing/M/86061-murmeln-und-mehr.json"
     },
     {
       "igdb_id": 239333,
@@ -186878,6 +186893,11 @@
       "file": "missing/P/201764-pokequest-vr.json"
     },
     {
+      "igdb_id": 86065,
+      "game_name": "Poker 1",
+      "file": "missing/P/86065-poker-1.json"
+    },
+    {
       "igdb_id": 166141,
       "game_name": "Poker Chase",
       "file": "missing/P/166141-poker-chase.json"
@@ -208333,6 +208353,16 @@
       "file": "missing/S/64430-samegame.json"
     },
     {
+      "igdb_id": 86068,
+      "game_name": "SameGame - Colors",
+      "file": "missing/S/86068-samegame-colors.json"
+    },
+    {
+      "igdb_id": 86069,
+      "game_name": "SameGame - Shapes",
+      "file": "missing/S/86069-samegame-shapes.json"
+    },
+    {
       "igdb_id": 64436,
       "game_name": "SameGame Fighter",
       "file": "missing/S/64436-samegame-fighter.json"
@@ -210211,6 +210241,11 @@
       "igdb_id": 21776,
       "game_name": "Schrödinger's Rat",
       "file": "missing/S/21776-schrodingers-rat.json"
+    },
+    {
+      "igdb_id": 86063,
+      "game_name": "Schwarzenberg",
+      "file": "missing/S/86063-schwarzenberg.json"
     },
     {
       "igdb_id": 86089,
@@ -286671,6 +286706,11 @@
       "igdb_id": 130310,
       "game_name": "Wii Sports + Wii Sports Resort",
       "file": "missing/W/130310-wii-sports-wii-sports-resort.json"
+    },
+    {
+      "igdb_id": 86062,
+      "game_name": "Wiki Hunt",
+      "file": "missing/W/86062-wiki-hunt.json"
     },
     {
       "igdb_id": 394176,
