@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scene It? Harry Potter | 66155 | [66155-scene-it-harry-potter.json](./66155-scene-it-harry-potter.json) |
 | Scene It? Movie Night: Mega Movies | 65511 | [65511-scene-it-movie-night-mega-movies.json](./65511-scene-it-movie-night-mega-movies.json) |
 | Scene It? Twilight | 5142 | [5142-scene-it-twilight.json](./5142-scene-it-twilight.json) |
+| Scenery Disk 2 | 100127 | [100127-scenery-disk-2.json](./100127-scenery-disk-2.json) |
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
@@ -2804,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snatch Squad | 365686 | [365686-snatch-squad.json](./365686-snatch-squad.json) |
 | Snatched | 395585 | [395585-snatched.json](./395585-snatched.json) |
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
+| Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
@@ -3637,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SP-Light | 291452 | [291452-sp-light.json](./291452-sp-light.json) |
 | Sp:In | 242788 | [242788-sp-in.json](./242788-sp-in.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
+| Space Ace | 100161 | [100161-space-ace.json](./100161-space-ace.json) |
 | Space Adventure | 100187 | [100187-space-adventure.json](./100187-space-adventure.json) |
 | Space Adventure | 297239 | [297239-space-adventure.json](./297239-space-adventure.json) |
 | Space Adventure Laika | 128634 | [128634-space-adventure-laika.json](./128634-space-adventure-laika.json) |
@@ -3763,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner: Idle Adventures | 276173 | [276173-space-miner-idle-adventures.json](./276173-space-miner-idle-adventures.json) |
+| Space Miner: Platinum Edition | 100155 | [100155-space-miner-platinum-edition.json](./100155-space-miner-platinum-edition.json) |
 | Space Misfits | 123040 | [123040-space-misfits.json](./123040-space-misfits.json) |
 | Space Mission SM-11 | 235219 | [235219-space-mission-sm-11.json](./235219-space-mission-sm-11.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
@@ -3966,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Bike Racing | 250657 | [250657-speed-bike-racing.json](./250657-speed-bike-racing.json) |
 | Speed Blazers | 38989 | [38989-speed-blazers.json](./38989-speed-blazers.json) |
 | Speed Builder | 117672 | [117672-speed-builder.json](./117672-speed-builder.json) |
+| Speed Car Fighter 3D 2015 | 100115 | [100115-speed-car-fighter-3d-2015.json](./100115-speed-car-fighter-3d-2015.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
 | Speed Dating for Ghosts | 75799 | [75799-speed-dating-for-ghosts.json](./75799-speed-dating-for-ghosts.json) |
 | Speed Demons 2 | 330564 | [330564-speed-demons-2.json](./330564-speed-demons-2.json) |
@@ -4066,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheres Episode 1: Nalong | 145609 | [145609-spheres-episode-1-nalong.json](./145609-spheres-episode-1-nalong.json) |
 | Spheres: The Ancient Fuses | 118335 | [118335-spheres-the-ancient-fuses.json](./118335-spheres-the-ancient-fuses.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
+| Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
@@ -6516,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive The Unknown | 246623 | [246623-survive-the-unknown.json](./246623-survive-the-unknown.json) |
 | Survive Till 100 Years Old | 339117 | [339117-survive-till-100-years-old.json](./339117-survive-till-100-years-old.json) |
 | Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
+| Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars: Below and Beyond | 165620 | [165620-surviving-mars-below-and-beyond.json](./165620-surviving-mars-below-and-beyond.json) |
