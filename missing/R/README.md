@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
+| Rainbow Cult | 104125 | [104125-rainbow-cult.json](./104125-rainbow-cult.json) |
 | Rainbow Dash Tylenol | 213934 | [213934-rainbow-dash-tylenol.json](./213934-rainbow-dash-tylenol.json) |
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Dreams | 115016 | [115016-rainbow-dreams.json](./115016-rainbow-dreams.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
+| Retro Snake | 104012 | [104012-retro-snake.json](./104012-retro-snake.json) |
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
 | Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
 | Retro Space Shooter | 75186 | [75186-retro-space-shooter.json](./75186-retro-space-shooter.json) |
