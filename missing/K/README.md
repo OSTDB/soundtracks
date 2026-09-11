@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kilubu Magic Potions 2 | 213397 | [213397-kilubu-magic-potions-2.json](./213397-kilubu-magic-potions-2.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
 | Kim and Prostitute | 102410 | [102410-kim-and-prostitute.json](./102410-kim-and-prostitute.json) |
+| Kim Shooter | 116319 | [116319-kim-shooter.json](./116319-kim-shooter.json) |
 | Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
 | Kimi ga Mita Hikari 2 | 329968 | [329968-kimi-ga-mita-hikari-2.json](./329968-kimi-ga-mita-hikari-2.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
