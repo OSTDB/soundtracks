@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
+| Battle of Britain | 82058 | [82058-battle-of-britain.json](./82058-battle-of-britain.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
 | Battle of Elemental Reboost | 97305 | [97305-battle-of-elemental-reboost.json](./97305-battle-of-elemental-reboost.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
