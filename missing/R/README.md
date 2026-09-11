@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
+| Rance 5D: The Lonely Girl + Rance VI: Collapse of Zeth | 129133 | [129133-rance-5d-the-lonely-girl-rance-vi-collapse-of-zeth.json](./129133-rance-5d-the-lonely-girl-rance-vi-collapse-of-zeth.json) |
 | Rance III: Leazas Kanraku | 41406 | [41406-rance-iii-leazas-kanraku.json](./41406-rance-iii-leazas-kanraku.json) |
 | Rance IV: Kyoudan no Isan | 41405 | [41405-rance-iv-kyoudan-no-isan.json](./41405-rance-iv-kyoudan-no-isan.json) |
 | Rance Quest Magnum | 137669 | [137669-rance-quest-magnum.json](./137669-rance-quest-magnum.json) |
@@ -678,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
+| Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
 | Red Moon: Lost Days | 192893 | [192893-red-moon-lost-days.json](./192893-red-moon-lost-days.json) |
 | Red points | 111735 | [111735-red-points.json](./111735-red-points.json) |
 | Red Rebellion | 224554 | [224554-red-rebellion.json](./224554-red-rebellion.json) |
@@ -2203,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
 | Run!!! | 148492 | [148492-run.json](./148492-run.json) |
 | Run!!! | 87729 | [87729-run.json](./87729-run.json) |
+| Runa | 129162 | [129162-runa.json](./129162-runa.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
