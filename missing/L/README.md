@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Rhythm | 126420 | [126420-love-rhythm.json](./126420-love-rhythm.json) |
 | Love Root Zero Kiss Kiss Labyrinth | 221733 | [221733-love-root-zero-kiss-kiss-labyrinth.json](./221733-love-root-zero-kiss-kiss-labyrinth.json) |
 | Love Shore | 131561 | [131561-love-shore.json](./131561-love-shore.json) |
+| Love Simulation | 99039 | [99039-love-simulation.json](./99039-love-simulation.json) |
 | Love Spell: The Starlight Update | 254503 | [254503-love-spell-the-starlight-update.json](./254503-love-spell-the-starlight-update.json) |
 | Love Stitch | 412297 | [412297-love-stitch.json](./412297-love-stitch.json) |
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
