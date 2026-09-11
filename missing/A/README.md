@@ -1649,6 +1649,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
+| Amy Rose in Sonic the Hedgehog | 129176 | [129176-amy-rose-in-sonic-the-hedgehog.json](./129176-amy-rose-in-sonic-the-hedgehog.json) |
+| Amy Rose in Sonic the Hedgehog 2 | 129177 | [129177-amy-rose-in-sonic-the-hedgehog-2.json](./129177-amy-rose-in-sonic-the-hedgehog-2.json) |
 | Amy's American Page One | 261277 | [261277-amys-american-page-one.json](./261277-amys-american-page-one.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
@@ -1668,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Island Away | 293090 | [293090-an-island-away.json](./293090-an-island-away.json) |
 | An Ocean Game | 360588 | [360588-an-ocean-game.json](./360588-an-ocean-game.json) |
 | An Ode to Todd the Toad: Frogcare! | 185628 | [185628-an-ode-to-todd-the-toad-frogcare.json](./185628-an-ode-to-todd-the-toad-frogcare.json) |
+| An Ordinary Sonic ROM Hack | 129178 | [129178-an-ordinary-sonic-rom-hack.json](./129178-an-ordinary-sonic-rom-hack.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
 | Anachroma | 211404 | [211404-anachroma.json](./211404-anachroma.json) |
 | Anachron | 377084 | [377084-anachron.json](./377084-anachron.json) |
@@ -1706,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Farm | 226223 | [226223-ancient-farm.json](./226223-ancient-farm.json) |
 | Ancient Frontier: Quests & Events | 170510 | [170510-ancient-frontier-quests-and-events.json](./170510-ancient-frontier-quests-and-events.json) |
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
+| Ancient Glory | 129129 | [129129-ancient-glory.json](./129129-ancient-glory.json) |
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
@@ -2674,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 4 | 191227 | [191227-artists-of-fortune-paint-by-numbers-spooky-rush-ep-4.json](./191227-artists-of-fortune-paint-by-numbers-spooky-rush-ep-4.json) |
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 5 | 191232 | [191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json](./191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json) |
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 6 | 191238 | [191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json](./191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json) |
+| ArtPulse | 129123 | [129123-artpulse.json](./129123-artpulse.json) |
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
 | Artsy Pixel | 212278 | [212278-artsy-pixel.json](./212278-artsy-pixel.json) |
 | Aru Kanrinin no Koi: Autumn + Winter | 246942 | [246942-aru-kanrinin-no-koi-autumn-winter.json](./246942-aru-kanrinin-no-koi-autumn-winter.json) |
