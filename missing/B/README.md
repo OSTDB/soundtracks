@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Mothafucka | 281368 | [281368-bad-mothafucka.json](./281368-bad-mothafucka.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
 | Bad Sector 3 | 371265 | [371265-bad-sector-3.json](./371265-bad-sector-3.json) |
+| Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
 | Bad Way | 189204 | [189204-bad-way.json](./189204-bad-way.json) |
 | Bad Weekend | 273135 | [273135-bad-weekend.json](./273135-bad-weekend.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Chaos Clicker | 389961 | [389961-banana-chaos-clicker.json](./389961-banana-chaos-clicker.json) |
 | Banana Co. | 275881 | [275881-banana-co.json](./275881-banana-co.json) |
 | Banana Dash | 97325 | [97325-banana-dash.json](./97325-banana-dash.json) |
+| Banana for Scale | 130341 | [130341-banana-for-scale.json](./130341-banana-for-scale.json) |
 | Banana girl | 106606 | [106606-banana-girl.json](./106606-banana-girl.json) |
 | Banana Girls | 338192 | [338192-banana-girls.json](./338192-banana-girls.json) |
 | Banana Grab | 231626 | [231626-banana-grab.json](./231626-banana-grab.json) |
@@ -881,6 +883,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka Boy | 227498 | [227498-bazooka-boy.json](./227498-bazooka-boy.json) |
 | Bazzle | 231080 | [231080-bazzle.json](./231080-bazzle.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
+| BBOnline | 130327 | [130327-bbonline.json](./130327-bbonline.json) |
+| BBOnline 2017 | 130318 | [130318-bbonline-2017.json](./130318-bbonline-2017.json) |
+| BBOnline Manager | 130316 | [130316-bbonline-manager.json](./130316-bbonline-manager.json) |
+| BBOnline Remastered | 130315 | [130315-bbonline-remastered.json](./130315-bbonline-remastered.json) |
+| BBOnline the Real | 130314 | [130314-bbonline-the-real.json](./130314-bbonline-the-real.json) |
 | BBQ Eater | 175352 | [175352-bbq-eater.json](./175352-bbq-eater.json) |
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
 | Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
