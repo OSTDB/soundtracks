@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
+| fullybroKen#4 | 115640 | [115640-fullybroken-4.json](./115640-fullybroken-4.json) |
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
@@ -2431,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
 | Furry Came-a-Lot | 374050 | [374050-furry-came-a-lot.json](./374050-furry-came-a-lot.json) |
+| Furry Chronicles | 115612 | [115612-furry-chronicles.json](./115612-furry-chronicles.json) |
 | Furry Fetishists | 286501 | [286501-furry-fetishists.json](./286501-furry-fetishists.json) |
 | Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
