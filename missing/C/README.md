@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: The Care Quests | 49368 | [49368-care-bears-the-care-quests.json](./49368-care-bears-the-care-quests.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
+| Cargasm | 79256 | [79256-cargasm.json](./79256-cargasm.json) |
 | Cargo | 312566 | [312566-cargo.json](./312566-cargo.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
@@ -845,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
+| Catz: Your Computer Petz | 79286 | [79286-catz-your-computer-petz.json](./79286-catz-your-computer-petz.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
 | Cauldron I & II | 126012 | [126012-cauldron-i-and-ii.json](./126012-cauldron-i-and-ii.json) |
@@ -1437,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cholo | 12984 | [12984-cholo.json](./12984-cholo.json) |
 | Chomp | 79888 | [79888-chomp.json](./79888-chomp.json) |
 | Chomp! | 137067 | [137067-chomp.json](./137067-chomp.json) |
+| Chomper Man | 79264 | [79264-chomper-man.json](./79264-chomper-man.json) |
 | Chomper's Adventure | 59451 | [59451-chompers-adventure.json](./59451-chompers-adventure.json) |
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
@@ -2493,6 +2496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connection | 100859 | [100859-connection.json](./100859-connection.json) |
 | Connection | 322574 | [322574-connection.json](./322574-connection.json) |
 | Connection reHaunted | 146822 | [146822-connection-rehaunted.json](./146822-connection-rehaunted.json) |
+| Connectris | 79232 | [79232-connectris.json](./79232-connectris.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
 | Conquer Lands | 372464 | [372464-conquer-lands.json](./372464-conquer-lands.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
