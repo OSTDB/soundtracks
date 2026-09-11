@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
 | Magin: The Rat Project Stories - Essence Edition | 396920 | [396920-magin-the-rat-project-stories-essence-edition.json](./396920-magin-the-rat-project-stories-essence-edition.json) |
 | Magin: The Rat Project Stories - Supporter Pack | 396912 | [396912-magin-the-rat-project-stories-supporter-pack.json](./396912-magin-the-rat-project-stories-supporter-pack.json) |
+| Maginary | 129163 | [129163-maginary.json](./129163-maginary.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
@@ -380,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majesty 2 Collection | 30147 | [30147-majesty-2-collection.json](./30147-majesty-2-collection.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Majin Tensei: Blind Thinker | 112319 | [112319-majin-tensei-blind-thinker.json](./112319-majin-tensei-blind-thinker.json) |
+| Majin Tensei: Blind Thinker II | 129140 | [129140-majin-tensei-blind-thinker-ii.json](./129140-majin-tensei-blind-thinker-ii.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Majong | 138732 | [138732-majong.json](./138732-majong.json) |
 | MaJong13 | 246419 | [246419-majong13.json](./246419-majong13.json) |
@@ -1164,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
 | Mechanic Miner | 77754 | [77754-mechanic-miner.json](./77754-mechanic-miner.json) |
+| Mechanica | 129155 | [129155-mechanica.json](./129155-mechanica.json) |
 | Mechanical Gods | 245881 | [245881-mechanical-gods.json](./245881-mechanical-gods.json) |
 | Mechanical Tralp | 278665 | [278665-mechanical-tralp.json](./278665-mechanical-tralp.json) |
 | Mechanical Violator Hakaider: Last Judgement | 66147 | [66147-mechanical-violator-hakaider-last-judgement.json](./66147-mechanical-violator-hakaider-last-judgement.json) |
@@ -1674,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Sonic in Sonic 3 & Knuckles | 129187 | [129187-metal-sonic-in-sonic-3-and-knuckles.json](./129187-metal-sonic-in-sonic-3-and-knuckles.json) |
 | Metal Sonic in Sonic the Hedgehog | 198525 | [198525-metal-sonic-in-sonic-the-hedgehog.json](./198525-metal-sonic-in-sonic-the-hedgehog.json) |
 | Metal Sonic in Sonic the Hedgehog 2 | 129186 | [129186-metal-sonic-in-sonic-the-hedgehog-2.json](./129186-metal-sonic-in-sonic-the-hedgehog-2.json) |
+| Metal Sonic Rebooted | 129168 | [129168-metal-sonic-rebooted.json](./129168-metal-sonic-rebooted.json) |
 | Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
 | Metal Torrent | 67703 | [67703-metal-torrent.json](./67703-metal-torrent.json) |
 | Metal: Hellsinger | 134560 | [134560-metal-hellsinger.json](./134560-metal-hellsinger.json) |
@@ -1960,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Knight Legacy | 275339 | [275339-mighty-knight-legacy.json](./275339-mighty-knight-legacy.json) |
 | Mighty Mahjong | 406111 | [406111-mighty-mahjong.json](./406111-mighty-mahjong.json) |
 | Mighty Marbles | 258441 | [258441-mighty-marbles.json](./258441-mighty-marbles.json) |
+| Mighty Math Carnival Countdown | 129156 | [129156-mighty-math-carnival-countdown.json](./129156-mighty-math-carnival-countdown.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
