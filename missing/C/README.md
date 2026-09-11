@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
+| Catching | 117654 | [117654-catching.json](./117654-catching.json) |
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
@@ -2524,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
 | Core Masters | 62771 | [62771-core-masters.json](./62771-core-masters.json) |
+| Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
 | Corepunk | 127513 | [127513-corepunk.json](./127513-corepunk.json) |
 | Coreupt | 130328 | [130328-coreupt.json](./130328-coreupt.json) |
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
@@ -2590,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
 | Cosmic Break | 80556 | [80556-cosmic-break.json](./80556-cosmic-break.json) |
 | Cosmic Cannon | 327195 | [327195-cosmic-cannon.json](./327195-cosmic-cannon.json) |
+| Cosmic Cash | 117782 | [117782-cosmic-cash.json](./117782-cosmic-cash.json) |
 | Cosmic Cat | 361677 | [361677-cosmic-cat.json](./361677-cosmic-cat.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
 | Cosmic Collapse | 275327 | [275327-cosmic-collapse.json](./275327-cosmic-collapse.json) |
