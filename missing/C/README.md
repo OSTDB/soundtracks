@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiku Chiku Beach | 22462 | [22462-chiku-chiku-beach.json](./22462-chiku-chiku-beach.json) |
 | Chikudenya Toubee | 42039 | [42039-chikudenya-toubee.json](./42039-chikudenya-toubee.json) |
 | Chiky Poky | 221184 | [221184-chiky-poky.json](./221184-chiky-poky.json) |
+| Chikyuu Kaihou Gun ZAS | 91883 | [91883-chikyuu-kaihou-gun-zas.json](./91883-chikyuu-kaihou-gun-zas.json) |
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Light: Limited Edition | 166238 | [166238-child-of-light-limited-edition.json](./166238-child-of-light-limited-edition.json) |
@@ -2185,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
+| ColorBox | 91917 | [91917-colorbox.json](./91917-colorbox.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
 | Colorful Critter | 218144 | [218144-colorful-critter.json](./218144-colorful-critter.json) |
