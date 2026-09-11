@@ -1051,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Mortal Night | 185684 | [185684-resident-evil-mortal-night.json](./185684-resident-evil-mortal-night.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 1 | 143001 | [143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json](./143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 2 | 143002 | [143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json](./143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json) |
+| Resident Evil: Revelations - Circle Pad Pro Bundle | 89903 | [89903-resident-evil-revelations-circle-pad-pro-bundle.json](./89903-resident-evil-revelations-circle-pad-pro-bundle.json) |
 | Resident Evil: Revelations - Unveiled Edition (Limited Edition) | 89927 | [89927-resident-evil-revelations-unveiled-edition-limited-edition.json](./89927-resident-evil-revelations-unveiled-edition-limited-edition.json) |
 | Resident Evil: Revelations - Unveiled Edition BSAA Watch Set | 89925 | [89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json](./89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json) |
 | Resident Evil: Revelations 2 | 7725 | [7725-resident-evil-revelations-2.json](./7725-resident-evil-revelations-2.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roda a Roda | 254788 | [254788-roda-a-roda.json](./254788-roda-a-roda.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
 | Rodea the Sky Soldier | 138792 | [138792-rodea-the-sky-soldier.json](./138792-rodea-the-sky-soldier.json) |
+| Rodea the Sky Soldier: Launch Day Edition | 89892 | [89892-rodea-the-sky-soldier-launch-day-edition.json](./89892-rodea-the-sky-soldier-launch-day-edition.json) |
 | Rodeo Clown | 319554 | [319554-rodeo-clown.json](./319554-rodeo-clown.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
