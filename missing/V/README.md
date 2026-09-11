@@ -359,6 +359,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vessels of Decay | 143715 | [143715-vessels-of-decay.json](./143715-vessels-of-decay.json) |
 | Vestaria Saga II: The Sacred Sword of Silvanister | 186886 | [186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json](./186886-vestaria-saga-ii-the-sacred-sword-of-silvanister.json) |
 | Vestria Story | 193940 | [193940-vestria-story.json](./193940-vestria-story.json) |
+| Vestron | 93018 | [93018-vestron.json](./93018-vestron.json) |
+| Vet Emergency | 93024 | [93024-vet-emergency.json](./93024-vet-emergency.json) |
 | Vetica | 94192 | [94192-vetica.json](./94192-vetica.json) |
 | VEV: Viva Ex Vivo - VR Edition | 187513 | [187513-vev-viva-ex-vivo-vr-edition.json](./187513-vev-viva-ex-vivo-vr-edition.json) |
 | Vex | 402253 | [402253-vex.json](./402253-vex.json) |
@@ -370,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VFR Real Scenery: South East England | 68680 | [68680-vfr-real-scenery-south-east-england.json](./68680-vfr-real-scenery-south-east-england.json) |
 | VG Trivia Challenge | 334650 | [334650-vg-trivia-challenge.json](./334650-vg-trivia-challenge.json) |
 | VGA Planets | 135285 | [135285-vga-planets.json](./135285-vga-planets.json) |
+| VGA Sharks | 92965 | [92965-vga-sharks.json](./92965-vga-sharks.json) |
 | VGM Quiz | 219270 | [219270-vgm-quiz.json](./219270-vgm-quiz.json) |
 | VHHS: Backrooms | 282017 | [282017-vhhs-backrooms.json](./282017-vhhs-backrooms.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
@@ -413,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videomation | 18309 | [18309-videomation.json](./18309-videomation.json) |
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
+| Vier op een rij | 92991 | [92991-vier-op-een-rij.json](./92991-vier-op-een-rij.json) |
 | Vietcong | 101613 | [101613-vietcong.json](./101613-vietcong.json) |
 | Vietnam War Platoon | 214746 | [214746-vietnam-war-platoon.json](./214746-vietnam-war-platoon.json) |
 | Vietnam: Black Ops | 78703 | [78703-vietnam-black-ops.json](./78703-vietnam-black-ops.json) |
@@ -525,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Job Shop Simulator | 107273 | [107273-virtual-job-shop-simulator.json](./107273-virtual-job-shop-simulator.json) |
 | Virtual Karting | 15567 | [15567-virtual-karting.json](./15567-virtual-karting.json) |
+| Virtual Karts | 92982 | [92982-virtual-karts.json](./92982-virtual-karts.json) |
 | Virtual League Baseball 2 | 201263 | [201263-virtual-league-baseball-2.json](./201263-virtual-league-baseball-2.json) |
 | Virtual Love Secrets | 266785 | [266785-virtual-love-secrets.json](./266785-virtual-love-secrets.json) |
 | Virtual Maid Streamer Ramie | 187437 | [187437-virtual-maid-streamer-ramie.json](./187437-virtual-maid-streamer-ramie.json) |
@@ -565,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viscera Cleanup Detail: The Vulcan Affair | 167765 | [167765-viscera-cleanup-detail-the-vulcan-affair.json](./167765-viscera-cleanup-detail-the-vulcan-affair.json) |
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Vision | 88326 | [88326-vision.json](./88326-vision.json) |
+| Vision 2 | 92997 | [92997-vision-2.json](./92997-vision-2.json) |
 | Visionarium 2: The Descent | 197379 | [197379-visionarium-2-the-descent.json](./197379-visionarium-2-the-descent.json) |
 | Visions of Aftermath: Boomtown | 9526 | [9526-visions-of-aftermath-boomtown.json](./9526-visions-of-aftermath-boomtown.json) |
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
