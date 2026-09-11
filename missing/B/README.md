@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
 | Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
 | Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
+| Blob King | 124762 | [124762-blob-king.json](./124762-blob-king.json) |
 | Blob Quest | 213391 | [213391-blob-quest.json](./213391-blob-quest.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
 | Blob Wars: Metal Blob Solid | 178552 | [178552-blob-wars-metal-blob-solid.json](./178552-blob-wars-metal-blob-solid.json) |
