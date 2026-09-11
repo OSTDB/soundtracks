@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
+| Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
 | Game with Car | 192895 | [192895-game-with-car.json](./192895-game-with-car.json) |
@@ -817,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator | 194615 | [194615-gladiator.json](./194615-gladiator.json) |
 | Gladiator of sparta | 173275 | [173275-gladiator-of-sparta.json](./173275-gladiator-of-sparta.json) |
 | Gladiator School | 284329 | [284329-gladiator-school.json](./284329-gladiator-school.json) |
+| Gladiator: Blades of Fury | 115586 | [115586-gladiator-blades-of-fury.json](./115586-gladiator-blades-of-fury.json) |
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
@@ -978,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Attack | 161324 | [161324-goblin-attack.json](./161324-goblin-attack.json) |
 | Goblin Dice and Cleave | 370140 | [370140-goblin-dice-and-cleave.json](./370140-goblin-dice-and-cleave.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
+| Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
 | Goblin Slayer Another Adventurer: Nightmare Feast | 230618 | [230618-goblin-slayer-another-adventurer-nightmare-feast.json](./230618-goblin-slayer-another-adventurer-nightmare-feast.json) |
 | Goblin Squad - Total Division | 116293 | [116293-goblin-squad-total-division.json](./116293-goblin-squad-total-division.json) |
@@ -1244,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
 | Googass | 165667 | [165667-googass.json](./165667-googass.json) |
+| Google Blocks | 115730 | [115730-google-blocks.json](./115730-google-blocks.json) |
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
@@ -1436,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
 | Grasshoping | 257670 | [257670-grasshoping.json](./257670-grasshoping.json) |
 | Grasshopper Farm | 134026 | [134026-grasshopper-farm.json](./134026-grasshopper-farm.json) |
+| Grater | 115629 | [115629-grater.json](./115629-grater.json) |
 | Gratia | 183021 | [183021-gratia.json](./183021-gratia.json) |
 | Gratuitous Animal Massacre | 119748 | [119748-gratuitous-animal-massacre.json](./119748-gratuitous-animal-massacre.json) |
 | Gratuitous Tank Battles | 16334 | [16334-gratuitous-tank-battles.json](./16334-gratuitous-tank-battles.json) |
