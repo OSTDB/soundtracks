@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Remember the Rain | 223669 | [223669-i-remember-the-rain.json](./223669-i-remember-the-rain.json) |
 | I Remember This Dream | 314905 | [314905-i-remember-this-dream.json](./314905-i-remember-this-dream.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
+| I See You | 113642 | [113642-i-see-you.json](./113642-i-see-you.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
@@ -476,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Realms: Vampire Wars - Fangs and Bones | 238480 | [238480-immortal-realms-vampire-wars-fangs-and-bones.json](./238480-immortal-realms-vampire-wars-fangs-and-bones.json) |
 | Immortal Rebirth | 382764 | [382764-immortal-rebirth.json](./382764-immortal-rebirth.json) |
 | Immortal Redneck | 23188 | [23188-immortal-redneck.json](./23188-immortal-redneck.json) |
+| Immortal Rogue | 113638 | [113638-immortal-rogue.json](./113638-immortal-rogue.json) |
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
 | Immortality | 152288 | [152288-immortality.json](./152288-immortality.json) |
@@ -769,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
+| Initen | 115720 | [115720-initen.json](./115720-initen.json) |
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
