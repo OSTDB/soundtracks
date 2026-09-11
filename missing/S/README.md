@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
+| Sacred Sword Princesses | 112286 | [112286-sacred-sword-princesses.json](./112286-sacred-sword-princesses.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Sacrifices | 330126 | [330126-sacrifices.json](./330126-sacrifices.json) |
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SDST: Deluxe | 168904 | [168904-sdst-deluxe.json](./168904-sdst-deluxe.json) |
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
+| Sea Creatures | 112373 | [112373-sea-creatures.json](./112373-sea-creatures.json) |
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
 | Sea Fishing Simulator | 129741 | [129741-sea-fishing-simulator.json](./129741-sea-fishing-simulator.json) |
 | Sea Hawk | 23911 | [23911-sea-hawk.json](./23911-sea-hawk.json) |
@@ -1413,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
+| Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
 | Shark Castle | 123556 | [123556-shark-castle.json](./123556-shark-castle.json) |
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
 | Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
@@ -5267,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroke the Cat | 217915 | [217915-stroke-the-cat.json](./217915-stroke-the-cat.json) |
 | Stroke the Fish | 220342 | [220342-stroke-the-fish.json](./220342-stroke-the-fish.json) |
 | Stroke the Tortoise | 220344 | [220344-stroke-the-tortoise.json](./220344-stroke-the-tortoise.json) |
+| Stromberg: Büro ist Krieg | 112274 | [112274-stromberg-buro-ist-krieg.json](./112274-stromberg-buro-ist-krieg.json) |
 | Strong Bad's Cool Game for Attractive People | 9463 | [9463-strong-bads-cool-game-for-attractive-people.json](./9463-strong-bads-cool-game-for-attractive-people.json) |
 | Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner | 28984 | [28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json](./28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json) |
 | Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands | 50175 | [50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json](./50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json) |
