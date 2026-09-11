@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
 | R2 Online: Reign of Revolution | 91269 | [91269-r2-online-reign-of-revolution.json](./91269-r2-online-reign-of-revolution.json) |
+| R42 | 130900 | [130900-r42.json](./130900-r42.json) |
 | Ra.One: The Game | 18295 | [18295-ra-one-the-game.json](./18295-ra-one-the-game.json) |
 | Raanaa: The Shaman Girl | 321137 | [321137-raanaa-the-shaman-girl.json](./321137-raanaa-the-shaman-girl.json) |
 | Raanaa: The Shaman Girl - The Windman's Land | 321148 | [321148-raanaa-the-shaman-girl-the-windmans-land.json](./321148-raanaa-the-shaman-girl-the-windmans-land.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rack Attack! | 342613 | [342613-rack-attack.json](./342613-rack-attack.json) |
 | RackJacker | 163981 | [163981-rackjacker.json](./163981-rackjacker.json) |
 | Racoonfeast | 326971 | [326971-racoonfeast.json](./326971-racoonfeast.json) |
+| Rad Blaster | 130883 | [130883-rad-blaster.json](./130883-rad-blaster.json) |
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
@@ -213,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Hero | 35906 | [35906-rainbow-hero.json](./35906-rainbow-hero.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
 | Rainbow Jigsaw | 241664 | [241664-rainbow-jigsaw.json](./241664-rainbow-jigsaw.json) |
+| Rainbow Keys Plus | 130890 | [130890-rainbow-keys-plus.json](./130890-rainbow-keys-plus.json) |
 | Rainbow Laser Disco Dungeon | 169469 | [169469-rainbow-laser-disco-dungeon.json](./169469-rainbow-laser-disco-dungeon.json) |
 | Rainbow Lines HD | 174362 | [174362-rainbow-lines-hd.json](./174362-rainbow-lines-hd.json) |
 | Rainbow Monster: Blue Survivor | 223976 | [223976-rainbow-monster-blue-survivor.json](./223976-rainbow-monster-blue-survivor.json) |
@@ -1370,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
+| Ripper Ribbit | 130899 | [130899-ripper-ribbit.json](./130899-ripper-ribbit.json) |
 | Ripple | 198510 | [198510-ripple.json](./198510-ripple.json) |
 | Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
