@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:51:00.070Z",
-  "total_missing": 57639,
+  "generated_at": "2026-09-11T11:01:05.899Z",
+  "total_missing": 57641,
   "games": [
     {
       "igdb_id": 306086,
@@ -2106,11 +2106,6 @@
       "igdb_id": 134688,
       "game_name": "A Kishoutenketsu in the Countryside",
       "file": "missing/A/134688-a-kishoutenketsu-in-the-countryside.json"
-    },
-    {
-      "igdb_id": 148486,
-      "game_name": "A Knight Never Yields",
-      "file": "missing/A/148486-a-knight-never-yields.json"
     },
     {
       "igdb_id": 261814,
@@ -158718,6 +158713,11 @@
       "file": "missing/M/214170-myths-of-moonrise.json"
     },
     {
+      "igdb_id": 106644,
+      "game_name": "Myths of the World: Of Fiends and Fairies HD",
+      "file": "missing/M/106644-myths-of-the-world-of-fiends-and-fairies-hd.json"
+    },
+    {
       "igdb_id": 83555,
       "game_name": "Myths of the World: Spirit Wolf - Collector's Edition",
       "file": "missing/M/83555-myths-of-the-world-spirit-wolf-collectors-edition.json"
@@ -167886,6 +167886,11 @@
       "igdb_id": 69877,
       "game_name": "Ominous Horizons: A Paladin's Calling",
       "file": "missing/O/69877-ominous-horizons-a-paladins-calling.json"
+    },
+    {
+      "igdb_id": 106645,
+      "game_name": "Ominous Objects: Lumina Camera HD",
+      "file": "missing/O/106645-ominous-objects-lumina-camera-hd.json"
     },
     {
       "igdb_id": 102793,
@@ -185186,6 +185191,11 @@
       "igdb_id": 106603,
       "game_name": "Professor Watts Memory Match: Cute Animals",
       "file": "missing/P/106603-professor-watts-memory-match-cute-animals.json"
+    },
+    {
+      "igdb_id": 106643,
+      "game_name": "Professor Watts Memory Match: Yummy Cupcakes",
+      "file": "missing/P/106643-professor-watts-memory-match-yummy-cupcakes.json"
     },
     {
       "igdb_id": 103467,
