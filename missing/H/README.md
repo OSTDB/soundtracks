@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
 | Him | 258482 | [258482-him.json](./258482-him.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
+| Him & I | 123545 | [123545-him-and-i.json](./123545-him-and-i.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
 | Himawari to Koi no Kioku | 194574 | [194574-himawari-to-koi-no-kioku.json](./194574-himawari-to-koi-no-kioku.json) |
@@ -2004,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSNU Academy 79th Anniversary | 396207 | [396207-hsnu-academy-79th-anniversary.json](./396207-hsnu-academy-79th-anniversary.json) |
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
+| Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
 | Hudson Hawk | 365689 | [365689-hudson-hawk.json](./365689-hudson-hawk.json) |
