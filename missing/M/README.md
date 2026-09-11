@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melo's Cat Cafe | 307568 | [307568-melos-cat-cafe.json](./307568-melos-cat-cafe.json) |
 | Melodive | 125465 | [125465-melodive.json](./125465-melodive.json) |
 | Melodramatica | 158665 | [158665-melodramatica.json](./158665-melodramatica.json) |
+| Melody | 127902 | [127902-melody.json](./127902-melody.json) |
 | Melody | 414285 | [414285-melody.json](./414285-melody.json) |
 | Melody before the Dawn | 367404 | [367404-melody-before-the-dawn.json](./367404-melody-before-the-dawn.json) |
 | Melody Friends | 389980 | [389980-melody-friends.json](./389980-melody-friends.json) |
@@ -1692,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metanoia | 322564 | [322564-metanoia.json](./322564-metanoia.json) |
 | MetaOps | 186241 | [186241-metaops.json](./186241-metaops.json) |
+| Metaphobia | 127907 | [127907-metaphobia.json](./127907-metaphobia.json) |
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
@@ -2377,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss It! | 283707 | [283707-miss-it.json](./283707-miss-it.json) |
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
+| Miss Neko | 127915 | [127915-miss-neko.json](./127915-miss-neko.json) |
 | Miss Peach | 264593 | [264593-miss-peach.json](./264593-miss-peach.json) |
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
