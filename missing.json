@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:33:40.839Z",
-  "total_missing": 57591,
+  "generated_at": "2026-09-11T10:41:01.460Z",
+  "total_missing": 57590,
   "games": [
     {
       "igdb_id": 306086,
@@ -2096,11 +2096,6 @@
       "igdb_id": 261810,
       "game_name": "A Journey Together",
       "file": "missing/A/261810-a-journey-together.json"
-    },
-    {
-      "igdb_id": 186874,
-      "game_name": "A Juggler's Tale: Collector's Edition",
-      "file": "missing/A/186874-a-jugglers-tale-collectors-edition.json"
     },
     {
       "igdb_id": 66681,
