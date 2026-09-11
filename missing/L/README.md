@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
+| Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
 | Light House Puzzle | 110969 | [110969-light-house-puzzle.json](./110969-light-house-puzzle.json) |
@@ -920,6 +921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
 | Lightrock | 205065 | [205065-lightrock.json](./205065-lightrock.json) |
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
+| Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
 | Lightstream Racer | 100163 | [100163-lightstream-racer.json](./100163-lightstream-racer.json) |
