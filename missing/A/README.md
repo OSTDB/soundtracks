@@ -66,7 +66,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Living Room | 293082 | [293082-a-living-room.json](./293082-a-living-room.json) |
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
-| A Long Long Night | 335687 | [335687-a-long-long-night.json](./335687-a-long-long-night.json) |
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
