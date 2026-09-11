@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barrel River 2 | 196809 | [196809-barrel-river-2.json](./196809-barrel-river-2.json) |
 | Barrel-Blastapalooza | 231643 | [231643-barrel-blastapalooza.json](./231643-barrel-blastapalooza.json) |
 | Barrels Up | 75181 | [75181-barrels-up.json](./75181-barrels-up.json) |
+| Barren Realms Elite | 97310 | [97310-barren-realms-elite.json](./97310-barren-realms-elite.json) |
 | Barren Roads | 35954 | [35954-barren-roads.json](./35954-barren-roads.json) |
 | Barrhell | 276702 | [276702-barrhell.json](./276702-barrhell.json) |
 | Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
@@ -764,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
+| Battle of Elemental Reboost | 97305 | [97305-battle-of-elemental-reboost.json](./97305-battle-of-elemental-reboost.json) |
 | Battle of Emperor Tian | 339114 | [339114-battle-of-emperor-tian.json](./339114-battle-of-emperor-tian.json) |
 | Battle of Empires: 1914-1918 - Battle of Cambrai | 168302 | [168302-battle-of-empires-1914-1918-battle-of-cambrai.json](./168302-battle-of-empires-1914-1918-battle-of-cambrai.json) |
 | Battle of Empires: 1914-1918 - British Empire | 168303 | [168303-battle-of-empires-1914-1918-british-empire.json](./168303-battle-of-empires-1914-1918-british-empire.json) |
@@ -978,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Boxing 3D | 175381 | [175381-beast-boxing-3d.json](./175381-beast-boxing-3d.json) |
 | Beast Boxing Turbo | 14837 | [14837-beast-boxing-turbo.json](./14837-beast-boxing-turbo.json) |
 | Beast Brawl | 338200 | [338200-beast-brawl.json](./338200-beast-brawl.json) |
+| Beast Brawlers | 97293 | [97293-beast-brawlers.json](./97293-beast-brawlers.json) |
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
 | Beast League | 251206 | [251206-beast-league.json](./251206-beast-league.json) |
 | Beast Lord: The New Land | 297500 | [297500-beast-lord-the-new-land.json](./297500-beast-lord-the-new-land.json) |
