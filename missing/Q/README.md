@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
 | Quantum Apex | 195151 | [195151-quantum-apex.json](./195151-quantum-apex.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
+| Quantum Break: Timeless Collector's Edition | 103387 | [103387-quantum-break-timeless-collectors-edition.json](./103387-quantum-break-timeless-collectors-edition.json) |
 | Quantum Coherence | 215901 | [215901-quantum-coherence.json](./215901-quantum-coherence.json) |
 | Quantum Contours | 278394 | [278394-quantum-contours.json](./278394-quantum-contours.json) |
 | Quantum Conundrum: The Desmond Debacle | 172125 | [172125-quantum-conundrum-the-desmond-debacle.json](./172125-quantum-conundrum-the-desmond-debacle.json) |
