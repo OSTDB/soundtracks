@@ -2905,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
+| Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
 | Psytron | 25749 | [25749-psytron.json](./25749-psytron.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
