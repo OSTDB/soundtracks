@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Tower Puzzle | 330728 | [330728-word-tower-puzzle.json](./330728-word-tower-puzzle.json) |
 | Word Town: New Crossword Games | 101541 | [101541-word-town-new-crossword-games.json](./101541-word-town-new-crossword-games.json) |
 | Word Training Camp | 130929 | [130929-word-training-camp.json](./130929-word-training-camp.json) |
+| Word U | 104600 | [104600-word-u.json](./104600-word-u.json) |
 | Word Warp: Animal Edition | 396222 | [396222-word-warp-animal-edition.json](./396222-word-warp-animal-edition.json) |
 | Word Warrior: Zombie Typocalypse | 278727 | [278727-word-warrior-zombie-typocalypse.json](./278727-word-warrior-zombie-typocalypse.json) |
 | Word Weasel | 200157 | [200157-word-weasel.json](./200157-word-weasel.json) |
