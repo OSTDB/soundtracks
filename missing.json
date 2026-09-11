@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T09:21:09.964Z",
-  "total_missing": 57424,
+  "generated_at": "2026-09-11T09:31:08.085Z",
+  "total_missing": 57428,
   "games": [
     {
       "igdb_id": 306086,
@@ -2061,11 +2061,6 @@
       "igdb_id": 149085,
       "game_name": "A Guidebook of Babel",
       "file": "missing/A/149085-a-guidebook-of-babel.json"
-    },
-    {
-      "igdb_id": 23883,
-      "game_name": "A Haunting: Witching Hour",
-      "file": "missing/A/23883-a-haunting-witching-hour.json"
     },
     {
       "igdb_id": 397692,
@@ -51718,6 +51713,11 @@
       "file": "missing/C/308796-crypt-stalker-extended-edition.json"
     },
     {
+      "igdb_id": 109072,
+      "game_name": "Crypt Underworld",
+      "file": "missing/C/109072-crypt-underworld.json"
+    },
+    {
       "igdb_id": 122425,
       "game_name": "Cryptic",
       "file": "missing/C/122425-cryptic.json"
@@ -60861,6 +60861,11 @@
       "igdb_id": 352223,
       "game_name": "DHTML Lemmings",
       "file": "missing/D/352223-dhtml-lemmings.json"
+    },
+    {
+      "igdb_id": 109070,
+      "game_name": "Di Gi Charat Fantasy",
+      "file": "missing/D/109070-di-gi-charat-fantasy.json"
     },
     {
       "igdb_id": 182440,
@@ -139728,6 +139733,11 @@
       "file": "missing/M/240523-majestic-majolical-vol-1.json"
     },
     {
+      "igdb_id": 109071,
+      "game_name": "Majestic: The Card Game",
+      "file": "missing/M/109071-majestic-the-card-game.json"
+    },
+    {
       "igdb_id": 30147,
       "game_name": "Majesty 2 Collection",
       "file": "missing/M/30147-majesty-2-collection.json"
@@ -171266,6 +171276,11 @@
       "igdb_id": 196856,
       "game_name": "Overshift",
       "file": "missing/O/196856-overshift.json"
+    },
+    {
+      "igdb_id": 109067,
+      "game_name": "OverSoul",
+      "file": "missing/O/109067-oversoul.json"
     },
     {
       "igdb_id": 117100,
@@ -264391,6 +264406,11 @@
       "igdb_id": 249193,
       "game_name": "Trust Your Ears",
       "file": "missing/T/249193-trust-your-ears.json"
+    },
+    {
+      "igdb_id": 109069,
+      "game_name": "Truth & Trolls [Episode 1: Broken Promises]",
+      "file": "missing/T/109069-truth-and-trolls-episode-1-broken-promises.json"
     },
     {
       "igdb_id": 218735,
