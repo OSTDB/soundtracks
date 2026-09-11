@@ -60,7 +60,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
-| A Landlord's Dream | 138215 | [138215-a-landlords-dream.json](./138215-a-landlords-dream.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Light in the Dark | 87686 | [87686-a-light-in-the-dark.json](./87686-a-light-in-the-dark.json) |
 | A Line Held Tight | 404819 | [404819-a-line-held-tight.json](./404819-a-line-held-tight.json) |
