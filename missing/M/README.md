@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master the Sky | 257693 | [257693-master-the-sky.json](./257693-master-the-sky.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
+| Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
 | Masterpack for Doom II | 300701 | [300701-masterpack-for-doom-ii.json](./300701-masterpack-for-doom-ii.json) |
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
 | MasterQ | 207536 | [207536-masterq.json](./207536-masterq.json) |
@@ -1268,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
 | Medicinal Herbs: Cannabis Grow Simulator | 172149 | [172149-medicinal-herbs-cannabis-grow-simulator.json](./172149-medicinal-herbs-cannabis-grow-simulator.json) |
+| Medieval 2 | 95476 | [95476-medieval-2.json](./95476-medieval-2.json) |
 | Medieval Adventure | 366264 | [366264-medieval-adventure.json](./366264-medieval-adventure.json) |
 | Medieval and Secrets | 232439 | [232439-medieval-and-secrets.json](./232439-medieval-and-secrets.json) |
 | Medieval Archer Simulator | 348240 | [348240-medieval-archer-simulator.json](./348240-medieval-archer-simulator.json) |
