@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
+| European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
 | Eva | 185099 | [185099-eva.json](./185099-eva.json) |
