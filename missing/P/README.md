@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Traffic: Highway Racing | 102216 | [102216-pixel-traffic-highway-racing.json](./102216-pixel-traffic-highway-racing.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
+| PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
 | Pixelegend | 346615 | [346615-pixelegend.json](./346615-pixelegend.json) |
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
 | Pixeline: Syng, Leg og Lær | 143751 | [143751-pixeline-syng-leg-og-l-r.json](./143751-pixeline-syng-leg-og-l-r.json) |
@@ -2390,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presents to the Metal | 307601 | [307601-presents-to-the-metal.json](./307601-presents-to-the-metal.json) |
 | President | 93038 | [93038-president.json](./93038-president.json) |
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
+| President Pig | 100726 | [100726-president-pig.json](./100726-president-pig.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
@@ -3148,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Balls | 268478 | [268478-puzzle-balls.json](./268478-puzzle-balls.json) |
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
+| Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
 | Puzzle Bonsai | 259558 | [259558-puzzle-bonsai.json](./259558-puzzle-bonsai.json) |
 | Puzzle Book: Adventure Pack | 237980 | [237980-puzzle-book-adventure-pack.json](./237980-puzzle-book-adventure-pack.json) |
 | Puzzle Bowling | 158143 | [158143-puzzle-bowling.json](./158143-puzzle-bowling.json) |
