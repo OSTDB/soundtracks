@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
 | Ray Attack | 148470 | [148470-ray-attack.json](./148470-ray-attack.json) |
 | Ray Eager | 126593 | [126593-ray-eager.json](./126593-ray-eager.json) |
+| Ray of Light | 105384 | [105384-ray-of-light.json](./105384-ray-of-light.json) |
 | Ray the Flying Squirrel in Sonic the Hedgehog | 198536 | [198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json](./198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json) |
 | Ray-Gun | 64969 | [64969-ray-gun.json](./64969-ray-gun.json) |
 | Ray-Hound | 78702 | [78702-ray-hound.json](./78702-ray-hound.json) |
