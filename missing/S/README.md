@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Dungeon | 237659 | [237659-shadows-of-dungeon.json](./237659-shadows-of-dungeon.json) |
 | Shadows of Empires | 227268 | [227268-shadows-of-empires.json](./227268-shadows-of-empires.json) |
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
+| Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
 | Shadows of the Damned | 264883 | [264883-shadows-of-the-damned.json](./264883-shadows-of-the-damned.json) |
@@ -3543,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
 | Space Bunny Explorers | 208596 | [208596-space-bunny-explorers.json](./208596-space-bunny-explorers.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
+| Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
 | Space Captain McCallery Episode 3: The Weaponmaster's Challenge | 142381 | [142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json](./142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json) |
 | Space Casual | 220625 | [220625-space-casual.json](./220625-space-casual.json) |
@@ -3714,6 +3716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Voyage: The Puzzle Game | 220668 | [220668-space-voyage-the-puzzle-game.json](./220668-space-voyage-the-puzzle-game.json) |
 | Space Walk | 170527 | [170527-space-walk.json](./170527-space-walk.json) |
 | Space Warlord Baby Trading Simulator | 380432 | [380432-space-warlord-baby-trading-simulator.json](./380432-space-warlord-baby-trading-simulator.json) |
+| Space Wars | 125377 | [125377-space-wars.json](./125377-space-wars.json) |
 | Space Wars | 187507 | [187507-space-wars.json](./187507-space-wars.json) |
 | Space Wave | 181912 | [181912-space-wave.json](./181912-space-wave.json) |
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
@@ -4392,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 64 3D | 6890 | [6890-star-fox-64-3d.json](./6890-star-fox-64-3d.json) |
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox Zero | 11196 | [11196-star-fox-zero.json](./11196-star-fox-zero.json) |
+| Star Gods | 125417 | [125417-star-gods.json](./125417-star-gods.json) |
 | Star Guard | 185136 | [185136-star-guard.json](./185136-star-guard.json) |
 | Star Gun | 348780 | [348780-star-gun.json](./348780-star-gun.json) |
 | Star gunner | 40795 | [40795-star-gunner.json](./40795-star-gunner.json) |
