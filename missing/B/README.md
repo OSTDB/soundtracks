@@ -787,6 +787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
 | Battle of the Lexicon Lords | 294720 | [294720-battle-of-the-lexicon-lords.json](./294720-battle-of-the-lexicon-lords.json) |
+| Battle of Tiles Ex | 99552 | [99552-battle-of-tiles-ex.json](./99552-battle-of-tiles-ex.json) |
 | Battle of Warplanes: Air War | 87531 | [87531-battle-of-warplanes-air-war.json](./87531-battle-of-warplanes-air-war.json) |
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
 | Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
