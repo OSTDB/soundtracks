@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
 | Ella Stars | 334127 | [334127-ella-stars.json](./334127-ella-stars.json) |
 | Ellada Games RPG Bundle | 187500 | [187500-ellada-games-rpg-bundle.json](./187500-ellada-games-rpg-bundle.json) |
+| Ellie | 113681 | [113681-ellie.json](./113681-ellie.json) |
 | Ellie & Max | 175426 | [175426-ellie-and-max.json](./175426-ellie-and-max.json) |
 | Ellie's Farm 2: African Adventures - Collector's Edition | 356106 | [356106-ellies-farm-2-african-adventures-collectors-edition.json](./356106-ellies-farm-2-african-adventures-collectors-edition.json) |
 | Ellie's Farm 3: Flood Proofing - Collector's Edition | 356103 | [356103-ellies-farm-3-flood-proofing-collectors-edition.json](./356103-ellies-farm-3-flood-proofing-collectors-edition.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From This Planet | 224550 | [224550-escape-from-this-planet.json](./224550-escape-from-this-planet.json) |
 | Escape from Vacov | 412993 | [412993-escape-from-vacov.json](./412993-escape-from-vacov.json) |
 | Escape from Voyna | 96738 | [96738-escape-from-voyna.json](./96738-escape-from-voyna.json) |
+| Escape From Voyna: Dead Forest | 113754 | [113754-escape-from-voyna-dead-forest.json](./113754-escape-from-voyna-dead-forest.json) |
 | Escape From Woomera | 172108 | [172108-escape-from-woomera.json](./172108-escape-from-woomera.json) |
 | Escape From Yandere | 388741 | [388741-escape-from-yandere.json](./388741-escape-from-yandere.json) |
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
@@ -1221,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
+| Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
 | Everyone Goes Home | 120926 | [120926-everyone-goes-home.json](./120926-everyone-goes-home.json) |
