@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tacti-Cat | 265926 | [265926-tacti-cat.json](./265926-tacti-cat.json) |
 | Tactic Force | 123542 | [123542-tactic-force.json](./123542-tactic-force.json) |
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
+| Tactical | 83530 | [83530-tactical.json](./83530-tactical.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
@@ -1095,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Eggbert | 146814 | [146814-the-adventures-of-eggbert.json](./146814-the-adventures-of-eggbert.json) |
 | The Adventures of Graham | 398329 | [398329-the-adventures-of-graham.json](./398329-the-adventures-of-graham.json) |
 | The Adventures of Hyperman | 71556 | [71556-the-adventures-of-hyperman.json](./71556-the-adventures-of-hyperman.json) |
+| The Adventures of Kusoge | 83529 | [83529-the-adventures-of-kusoge.json](./83529-the-adventures-of-kusoge.json) |
 | The Adventures of Liam | 264605 | [264605-the-adventures-of-liam.json](./264605-the-adventures-of-liam.json) |
 | The Adventures of LinShanHai | 234311 | [234311-the-adventures-of-linshanhai.json](./234311-the-adventures-of-linshanhai.json) |
 | The Adventures of LinShanHai: Chapter3 - The Headless Woman | 243154 | [243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json](./243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json) |
@@ -2527,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Match Girl, by Hans Christian Andersen | 290401 | [290401-the-little-match-girl-by-hans-christian-andersen.json](./290401-the-little-match-girl-by-hans-christian-andersen.json) |
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
+| The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
 | The Little Trashmaid Puzzletime | 147428 | [147428-the-little-trashmaid-puzzletime.json](./147428-the-little-trashmaid-puzzletime.json) |
 | The Little Uni | 330731 | [330731-the-little-uni.json](./330731-the-little-uni.json) |
 | The Little Witch Shop: New in Town | 240794 | [240794-the-little-witch-shop-new-in-town.json](./240794-the-little-witch-shop-new-in-town.json) |
@@ -2831,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Origin Theory: Episode One | 304589 | [304589-the-origin-theory-episode-one.json](./304589-the-origin-theory-episode-one.json) |
 | The Original Mobile Games | 130882 | [130882-the-original-mobile-games.json](./130882-the-original-mobile-games.json) |
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
+| The Orion Suns | 83534 | [83534-the-orion-suns.json](./83534-the-orion-suns.json) |
 | The Orphan | 243153 | [243153-the-orphan.json](./243153-the-orphan.json) |
 | The Orphan Dreams | 33160 | [33160-the-orphan-dreams.json](./33160-the-orphan-dreams.json) |
 | The Othello | 91958 | [91958-the-othello.json](./91958-the-othello.json) |
@@ -3717,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wedding | 286531 | [286531-the-wedding.json](./286531-the-wedding.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Werehouse | 337107 | [337107-the-werehouse.json](./337107-the-werehouse.json) |
+| The Werewolf of Kitakyushu -Beast- | 83478 | [83478-the-werewolf-of-kitakyushu-beast.json](./83478-the-werewolf-of-kitakyushu-beast.json) |
 | The Whiskey Story | 208383 | [208383-the-whiskey-story.json](./208383-the-whiskey-story.json) |
 | The Whisper of the Abyss: Echo of Eden | 311256 | [311256-the-whisper-of-the-abyss-echo-of-eden.json](./311256-the-whisper-of-the-abyss-echo-of-eden.json) |
 | The Whisper Soul | 232966 | [232966-the-whisper-soul.json](./232966-the-whisper-soul.json) |
@@ -3822,6 +3827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve | 305517 | [305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json](./305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json) |
 | TheHunter: Call of the Wild - Traveler's Cosmetic Bundle | 280231 | [280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json](./280231-thehunter-call-of-the-wild-travelers-cosmetic-bundle.json) |
 | TheLast.io | 125984 | [125984-thelast-io.json](./125984-thelast-io.json) |
+| TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
@@ -4042,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
 | Thunder Blade | 12862 | [12862-thunder-blade.json](./12862-thunder-blade.json) |
 | Thunder Boy | 55186 | [55186-thunder-boy.json](./55186-thunder-boy.json) |
+| Thunder Chase | 83503 | [83503-thunder-chase.json](./83503-thunder-chase.json) |
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
 | Thunder Force: Gold Pack 1 | 100138 | [100138-thunder-force-gold-pack-1.json](./100138-thunder-force-gold-pack-1.json) |
@@ -5142,6 +5149,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Attila | 8200 | [8200-total-war-attila.json](./8200-total-war-attila.json) |
 | Total War: Rome II - Hannibal at the Gates Campaign Pack | 167824 | [167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json](./167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json) |
 | Total War: Rome II - Imperator Augustus Campaign Pack | 167822 | [167822-total-war-rome-ii-imperator-augustus-campaign-pack.json](./167822-total-war-rome-ii-imperator-augustus-campaign-pack.json) |
+| Total War: Shogun 2 - Blood Pack DLC | 83513 | [83513-total-war-shogun-2-blood-pack-dlc.json](./83513-total-war-shogun-2-blood-pack-dlc.json) |
+| Total War: Shogun 2 - Dragon War Battle Pack | 83517 | [83517-total-war-shogun-2-dragon-war-battle-pack.json](./83517-total-war-shogun-2-dragon-war-battle-pack.json) |
+| Total War: Shogun 2 - Otomo Clan Pack DLC | 83512 | [83512-total-war-shogun-2-otomo-clan-pack-dlc.json](./83512-total-war-shogun-2-otomo-clan-pack-dlc.json) |
+| Total War: Shogun 2 - Saints and Heroes Unit Pack | 83518 | [83518-total-war-shogun-2-saints-and-heroes-unit-pack.json](./83518-total-war-shogun-2-saints-and-heroes-unit-pack.json) |
+| Total War: Shogun 2 - Sengoku Jidai Unit Pack | 83515 | [83515-total-war-shogun-2-sengoku-jidai-unit-pack.json](./83515-total-war-shogun-2-sengoku-jidai-unit-pack.json) |
+| Total War: Shogun 2 - The Hattori Clan Pack | 83514 | [83514-total-war-shogun-2-the-hattori-clan-pack.json](./83514-total-war-shogun-2-the-hattori-clan-pack.json) |
+| Total War: Shogun 2 - The Ikko Ikki Clan Pack | 83516 | [83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json](./83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json) |
 | Total War: Warhammer - Dark Gods Edition | 170027 | [170027-total-war-warhammer-dark-gods-edition.json](./170027-total-war-warhammer-dark-gods-edition.json) |
 | Total War: Warhammer - Grey Wizard | 81349 | [81349-total-war-warhammer-grey-wizard.json](./81349-total-war-warhammer-grey-wizard.json) |
 | Total War: Warhammer - Norsca | 53833 | [53833-total-war-warhammer-norsca.json](./53833-total-war-warhammer-norsca.json) |
