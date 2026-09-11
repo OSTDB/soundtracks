@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reckless Drive | 335266 | [335266-reckless-drive.json](./335266-reckless-drive.json) |
 | Reckless Driver | 204067 | [204067-reckless-driver.json](./204067-reckless-driver.json) |
 | Reckless Getaway 2 | 237666 | [237666-reckless-getaway-2.json](./237666-reckless-getaway-2.json) |
+| Reckless Racing HD | 90542 | [90542-reckless-racing-hd.json](./90542-reckless-racing-hd.json) |
 | Reclamation | 268463 | [268463-reclamation.json](./268463-reclamation.json) |
 | Recognition Test 23 | 246676 | [246676-recognition-test-23.json](./246676-recognition-test-23.json) |
 | Recoil Cluck | 290962 | [290962-recoil-cluck.json](./290962-recoil-cluck.json) |
@@ -1548,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
 | RitualSummon | 201253 | [201253-ritualsummon.json](./201253-ritualsummon.json) |
 | Rivage | 380416 | [380416-rivage.json](./380416-rivage.json) |
+| Rivais Em Batalha | 90579 | [90579-rivais-em-batalha.json](./90579-rivais-em-batalha.json) |
 | Rival Fury | 188648 | [188648-rival-fury.json](./188648-rival-fury.json) |
 | Rival Kingdoms | 126044 | [126044-rival-kingdoms.json](./126044-rival-kingdoms.json) |
 | Rival Knights | 22393 | [22393-rival-knights.json](./22393-rival-knights.json) |
@@ -2138,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roundscape Adorevia | 82881 | [82881-roundscape-adorevia.json](./82881-roundscape-adorevia.json) |
 | RoundUrbs | 350413 | [350413-roundurbs.json](./350413-roundurbs.json) |
 | RoundZ | 371910 | [371910-roundz.json](./371910-roundz.json) |
+| Route Candle for Steam | 90560 | [90560-route-candle-for-steam.json](./90560-route-candle-for-steam.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
 | Rova | 297209 | [297209-rova.json](./297209-rova.json) |
 | Rover Builder | 65829 | [65829-rover-builder.json](./65829-rover-builder.json) |
