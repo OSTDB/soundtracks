@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:05:33.602Z",
-  "total_soundtracks": 1439,
+  "generated_at": "2026-09-11T10:05:44.021Z",
+  "total_soundtracks": 1440,
   "games": [
     {
       "igdb_id": 7522,
@@ -147,6 +147,20 @@
         {
           "album_name": "A Certain Incremental Exoplanet (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/20RfU61YP13reEutn8CVgM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 311503,
+      "game_name": "A Gentlemen's Dispute",
+      "game_url": "https://ostdb.net/games/a-gentlemens-dispute",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bc592615e775dde7b9a69992",
+      "albums": [
+        {
+          "album_name": "A Gentlemen's Dispute (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1iuM0SGDod0QHlLr4Ewhso",
           "apple_music_url": "",
           "album_link_url": ""
         }
