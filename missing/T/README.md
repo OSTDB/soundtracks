@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Signal | 299434 | [299434-terror-signal.json](./299434-terror-signal.json) |
 | Terror Spikys | 268227 | [268227-terror-spikys.json](./268227-terror-spikys.json) |
 | Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
+| Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
 | Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
@@ -3594,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
+| The Warrior of Treasures 2: Skull Hunter | 107804 | [107804-the-warrior-of-treasures-2-skull-hunter.json](./107804-the-warrior-of-treasures-2-skull-hunter.json) |
 | The Warrior of Wisdom | 173784 | [173784-the-warrior-of-wisdom.json](./173784-the-warrior-of-wisdom.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wasted Knight | 207325 | [207325-the-wasted-knight.json](./207325-the-wasted-knight.json) |
@@ -3968,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiamat X | 35900 | [35900-tiamat-x.json](./35900-tiamat-x.json) |
 | Tiamat's Drink | 127198 | [127198-tiamats-drink.json](./127198-tiamats-drink.json) |
 | Tiān Yuán Chuánshuō | 407320 | [407320-tian-yuan-chuanshuo.json](./407320-tian-yuan-chuanshuo.json) |
+| Tianlao Sokoban | 107820 | [107820-tianlao-sokoban.json](./107820-tianlao-sokoban.json) |
 | Tiānqì | 167820 | [167820-tianqi.json](./167820-tianqi.json) |
 | Tiānrén zhī Xuè: Ancient Relic | 394213 | [394213-tianren-zhi-xue-ancient-relic.json](./394213-tianren-zhi-xue-ancient-relic.json) |
 | Tiāntiān Tuōlājī | 96041 | [96041-tiantian-tuolaji.json](./96041-tiantian-tuolaji.json) |
@@ -5825,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trios | 129220 | [129220-trios.json](./129220-trios.json) |
+| Trip in Hell | 107813 | [107813-trip-in-hell.json](./107813-trip-in-hell.json) |
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
 | Trip Time Collection | 328467 | [328467-trip-time-collection.json](./328467-trip-time-collection.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
