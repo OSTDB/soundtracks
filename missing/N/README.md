@@ -1216,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
 | Nomia | 338730 | [338730-nomia.json](./338730-nomia.json) |
 | Nomolos: Storming the Catsle | 48699 | [48699-nomolos-storming-the-catsle.json](./48699-nomolos-storming-the-catsle.json) |
+| Noms the Fish | 112367 | [112367-noms-the-fish.json](./112367-noms-the-fish.json) |
 | Non Stop Driver | 305200 | [305200-non-stop-driver.json](./305200-non-stop-driver.json) |
 | Non-Compliant | 126575 | [126575-non-compliant.json](./126575-non-compliant.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
