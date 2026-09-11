@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Football: Bundesliga Edition | 152342 | [152342-we-are-football-bundesliga-edition.json](./152342-we-are-football-bundesliga-edition.json) |
 | We Are Gladiators | 258445 | [258445-we-are-gladiators.json](./258445-we-are-gladiators.json) |
 | We Are Gum | 374054 | [374054-we-are-gum.json](./374054-we-are-gum.json) |
+| We Are Illuminati | 120333 | [120333-we-are-illuminati.json](./120333-we-are-illuminati.json) |
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
 | We Are Stardust | 299162 | [299162-we-are-stardust.json](./299162-we-are-stardust.json) |
