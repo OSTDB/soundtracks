@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T14:50:58.416Z",
-  "total_missing": 58306,
+  "generated_at": "2026-09-11T15:03:30.780Z",
+  "total_missing": 58355,
   "games": [
     {
       "igdb_id": 306086,
@@ -1713,6 +1713,11 @@
       "file": "missing/0-9/84284-7-zwerge-das-brettspiel.json"
     },
     {
+      "igdb_id": 98372,
+      "game_name": "7,62 Hard Life",
+      "file": "missing/0-9/98372-7-62-hard-life.json"
+    },
+    {
       "igdb_id": 121777,
       "game_name": "70 Seconds! Adventure",
       "file": "missing/0-9/121777-70-seconds-adventure.json"
@@ -2241,11 +2246,6 @@
       "igdb_id": 182517,
       "game_name": "A Maze for Owls",
       "file": "missing/A/182517-a-maze-for-owls.json"
-    },
-    {
-      "igdb_id": 187535,
-      "game_name": "A Maze Fox",
-      "file": "missing/A/187535-a-maze-fox.json"
     },
     {
       "igdb_id": 291459,
@@ -49388,6 +49388,26 @@
       "file": "missing/C/332843-cosmos-kitten.json"
     },
     {
+      "igdb_id": 98471,
+      "game_name": "Cosmos Quest II: To Find a Sun",
+      "file": "missing/C/98471-cosmos-quest-ii-to-find-a-sun.json"
+    },
+    {
+      "igdb_id": 98474,
+      "game_name": "Cosmos Quest III: The Mines of Isagor",
+      "file": "missing/C/98474-cosmos-quest-iii-the-mines-of-isagor.json"
+    },
+    {
+      "igdb_id": 98473,
+      "game_name": "Cosmos Quest IV: The Ayatolian March",
+      "file": "missing/C/98473-cosmos-quest-iv-the-ayatolian-march.json"
+    },
+    {
+      "igdb_id": 98472,
+      "game_name": "Cosmos Quest V: The New Beginning",
+      "file": "missing/C/98472-cosmos-quest-v-the-new-beginning.json"
+    },
+    {
       "igdb_id": 158200,
       "game_name": "Cosmoscope",
       "file": "missing/C/158200-cosmoscope.json"
@@ -79703,6 +79723,11 @@
       "file": "missing/F/356064-fail-world.json"
     },
     {
+      "igdb_id": 98375,
+      "game_name": "Failed State",
+      "file": "missing/F/98375-failed-state.json"
+    },
+    {
       "igdb_id": 174310,
       "game_name": "Faily Brakes Classic",
       "file": "missing/F/174310-faily-brakes-classic.json"
@@ -80623,6 +80648,11 @@
       "file": "missing/F/252158-famory.json"
     },
     {
+      "igdb_id": 98398,
+      "game_name": "Famousity Game",
+      "file": "missing/F/98398-famousity-game.json"
+    },
+    {
       "igdb_id": 91441,
       "game_name": "Fan Tas Tic",
       "file": "missing/F/91441-fan-tas-tic.json"
@@ -81096,6 +81126,11 @@
       "igdb_id": 406101,
       "game_name": "FantômeRapport: Intermezzo",
       "file": "missing/F/406101-fantomerapport-intermezzo.json"
+    },
+    {
+      "igdb_id": 98475,
+      "game_name": "Fap Titans",
+      "file": "missing/F/98475-fap-titans.json"
     },
     {
       "igdb_id": 331100,
@@ -83073,6 +83108,11 @@
       "file": "missing/F/234313-fight-and-crush.json"
     },
     {
+      "igdb_id": 98468,
+      "game_name": "Fight 4 Flight",
+      "file": "missing/F/98468-fight-4-flight.json"
+    },
+    {
       "igdb_id": 125977,
       "game_name": "Fight Angels",
       "file": "missing/F/125977-fight-angels.json"
@@ -83441,6 +83481,26 @@
       "igdb_id": 29899,
       "game_name": "Final Bravely",
       "file": "missing/F/29899-final-bravely.json"
+    },
+    {
+      "igdb_id": 98383,
+      "game_name": "Final Cut: Death on the Silver Screen",
+      "file": "missing/F/98383-final-cut-death-on-the-silver-screen.json"
+    },
+    {
+      "igdb_id": 98381,
+      "game_name": "Final Cut: Encore",
+      "file": "missing/F/98381-final-cut-encore.json"
+    },
+    {
+      "igdb_id": 98382,
+      "game_name": "Final Cut: Homage",
+      "file": "missing/F/98382-final-cut-homage.json"
+    },
+    {
+      "igdb_id": 98380,
+      "game_name": "Final Cut: The True Escapade",
+      "file": "missing/F/98380-final-cut-the-true-escapade.json"
     },
     {
       "igdb_id": 227259,
@@ -108788,6 +108848,41 @@
       "file": "missing/H/100741-hidden-object-wedding-day.json"
     },
     {
+      "igdb_id": 98401,
+      "game_name": "Hidden Object: Aliens - The Arrival",
+      "file": "missing/H/98401-hidden-object-aliens-the-arrival.json"
+    },
+    {
+      "igdb_id": 98402,
+      "game_name": "Hidden Object: Angels and Fairies",
+      "file": "missing/H/98402-hidden-object-angels-and-fairies.json"
+    },
+    {
+      "igdb_id": 98399,
+      "game_name": "Hidden Object: Animal Royalties",
+      "file": "missing/H/98399-hidden-object-animal-royalties.json"
+    },
+    {
+      "igdb_id": 98400,
+      "game_name": "Hidden Object: Animal Seasons",
+      "file": "missing/H/98400-hidden-object-animal-seasons.json"
+    },
+    {
+      "igdb_id": 98391,
+      "game_name": "Hidden Object: Classic Fables",
+      "file": "missing/H/98391-hidden-object-classic-fables.json"
+    },
+    {
+      "igdb_id": 98390,
+      "game_name": "Hidden Object: Crazy Hearts",
+      "file": "missing/H/98390-hidden-object-crazy-hearts.json"
+    },
+    {
+      "igdb_id": 98385,
+      "game_name": "Hidden Object: Deck the Halls",
+      "file": "missing/H/98385-hidden-object-deck-the-halls.json"
+    },
+    {
       "igdb_id": 200199,
       "game_name": "Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight",
       "file": "missing/H/200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json"
@@ -108796,6 +108891,26 @@
       "igdb_id": 82160,
       "game_name": "Hidden Object: Dog Happy Life",
       "file": "missing/H/82160-hidden-object-dog-happy-life.json"
+    },
+    {
+      "igdb_id": 98386,
+      "game_name": "Hidden Object: Elemental Guardians",
+      "file": "missing/H/98386-hidden-object-elemental-guardians.json"
+    },
+    {
+      "igdb_id": 98384,
+      "game_name": "Hidden Object: Fairy Princess",
+      "file": "missing/H/98384-hidden-object-fairy-princess.json"
+    },
+    {
+      "igdb_id": 98388,
+      "game_name": "Hidden Object: Fairy Tale",
+      "file": "missing/H/98388-hidden-object-fairy-tale.json"
+    },
+    {
+      "igdb_id": 98387,
+      "game_name": "Hidden Object: Faries Trail",
+      "file": "missing/H/98387-hidden-object-faries-trail.json"
     },
     {
       "igdb_id": 200196,
@@ -108828,9 +108943,24 @@
       "file": "missing/H/213644-hidden-object-missing-violins-premium.json"
     },
     {
+      "igdb_id": 98394,
+      "game_name": "Hidden Object: My Best Memories",
+      "file": "missing/H/98394-hidden-object-my-best-memories.json"
+    },
+    {
       "igdb_id": 242570,
       "game_name": "Hidden Object: Mystery of Mysteries of the Aztecs",
       "file": "missing/H/242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json"
+    },
+    {
+      "igdb_id": 98389,
+      "game_name": "Hidden Object: Princess Cinderella",
+      "file": "missing/H/98389-hidden-object-princess-cinderella.json"
+    },
+    {
+      "igdb_id": 98395,
+      "game_name": "Hidden Object: The Birds from Aviary",
+      "file": "missing/H/98395-hidden-object-the-birds-from-aviary.json"
     },
     {
       "igdb_id": 261529,
@@ -118473,6 +118603,11 @@
       "file": "missing/I/247190-inspector-gadget-mad-time-party.json"
     },
     {
+      "igdb_id": 98470,
+      "game_name": "Inspector Ooh: The Great Monkey Detective",
+      "file": "missing/I/98470-inspector-ooh-the-great-monkey-detective.json"
+    },
+    {
       "igdb_id": 154522,
       "game_name": "Inspector Waffles: Purrluxe Edition",
       "file": "missing/I/154522-inspector-waffles-purrluxe-edition.json"
@@ -121388,6 +121523,11 @@
       "file": "missing/J/274775-jailbreaker.json"
     },
     {
+      "igdb_id": 98478,
+      "game_name": "JailBreaker",
+      "file": "missing/J/98478-jailbreaker.json"
+    },
+    {
       "igdb_id": 302690,
       "game_name": "Jak and Daxter: The Precursor Legacy",
       "file": "missing/J/302690-jak-and-daxter-the-precursor-legacy.json"
@@ -124161,6 +124301,11 @@
       "igdb_id": 242566,
       "game_name": "Jumpy Rooftop",
       "file": "missing/J/242566-jumpy-rooftop.json"
+    },
+    {
+      "igdb_id": 98393,
+      "game_name": "Jumpy Truck",
+      "file": "missing/J/98393-jumpy-truck.json"
     },
     {
       "igdb_id": 109032,
@@ -132036,6 +132181,11 @@
       "igdb_id": 225267,
       "game_name": "Late Night Talks",
       "file": "missing/L/225267-late-night-talks.json"
+    },
+    {
+      "igdb_id": 98476,
+      "game_name": "Late Night Wanderer",
+      "file": "missing/L/98476-late-night-wanderer.json"
     },
     {
       "igdb_id": 199567,
@@ -142718,6 +142868,11 @@
       "file": "missing/M/260659-mankind.json"
     },
     {
+      "igdb_id": 98406,
+      "game_name": "Mankind Reborn",
+      "file": "missing/M/98406-mankind-reborn.json"
+    },
+    {
       "igdb_id": 253905,
       "game_name": "Mankind's Last Stand",
       "file": "missing/M/253905-mankinds-last-stand.json"
@@ -150748,6 +150903,11 @@
       "file": "missing/M/310175-mind-the-abyss.json"
     },
     {
+      "igdb_id": 98378,
+      "game_name": "Mind Trap",
+      "file": "missing/M/98378-mind-trap.json"
+    },
+    {
       "igdb_id": 344384,
       "game_name": "Mind Within",
       "file": "missing/M/344384-mind-within.json"
@@ -152221,6 +152381,11 @@
       "igdb_id": 98465,
       "game_name": "Miscrits: Volcano Island",
       "file": "missing/M/98465-miscrits-volcano-island.json"
+    },
+    {
+      "igdb_id": 98466,
+      "game_name": "Miscrits: World of Creatures",
+      "file": "missing/M/98466-miscrits-world-of-creatures.json"
     },
     {
       "igdb_id": 375847,
@@ -161163,6 +161328,11 @@
       "file": "missing/N/145599-narara-superboard-hwansang-seoyugi.json"
     },
     {
+      "igdb_id": 98479,
+      "game_name": "Narborion by Night",
+      "file": "missing/N/98479-narborion-by-night.json"
+    },
+    {
       "igdb_id": 307956,
       "game_name": "Narc",
       "file": "missing/N/307956-narc.json"
@@ -166993,6 +167163,11 @@
       "file": "missing/N/177495-normal-diner.json"
     },
     {
+      "igdb_id": 98480,
+      "game_name": "Normal Fastfood Fantasy",
+      "file": "missing/N/98480-normal-fastfood-fantasy.json"
+    },
+    {
       "igdb_id": 355571,
       "game_name": "Normal Golf Game",
       "file": "missing/N/355571-normal-golf-game.json"
@@ -167396,6 +167571,11 @@
       "igdb_id": 256530,
       "game_name": "Nova Dash",
       "file": "missing/N/256530-nova-dash.json"
+    },
+    {
+      "igdb_id": 98467,
+      "game_name": "Nova Empire",
+      "file": "missing/N/98467-nova-empire.json"
     },
     {
       "igdb_id": 60583,
@@ -168803,14 +168983,34 @@
       "file": "missing/O/82141-off-the-record-liberty-stone.json"
     },
     {
+      "igdb_id": 98411,
+      "game_name": "Off The Record: The Art of Deception",
+      "file": "missing/O/98411-off-the-record-the-art-of-deception.json"
+    },
+    {
       "igdb_id": 100214,
       "game_name": "Off The Record: The Art of Deception HD",
       "file": "missing/O/100214-off-the-record-the-art-of-deception-hd.json"
     },
     {
+      "igdb_id": 98409,
+      "game_name": "Off the Record: The Final Interview",
+      "file": "missing/O/98409-off-the-record-the-final-interview.json"
+    },
+    {
       "igdb_id": 102186,
       "game_name": "Off the Record: The Final Interview Collector's Edition",
       "file": "missing/O/102186-off-the-record-the-final-interview-collectors-edition.json"
+    },
+    {
+      "igdb_id": 98408,
+      "game_name": "Off the Record: The Italian Affair",
+      "file": "missing/O/98408-off-the-record-the-italian-affair.json"
+    },
+    {
+      "igdb_id": 98410,
+      "game_name": "Off the Record: The Linden Shades",
+      "file": "missing/O/98410-off-the-record-the-linden-shades.json"
     },
     {
       "igdb_id": 339649,
@@ -171691,6 +171891,11 @@
       "igdb_id": 246110,
       "game_name": "OpenQuiz",
       "file": "missing/O/246110-openquiz.json"
+    },
+    {
+      "igdb_id": 98371,
+      "game_name": "OpenSpades",
+      "file": "missing/O/98371-openspades.json"
     },
     {
       "igdb_id": 77359,
@@ -194333,6 +194538,11 @@
       "file": "missing/R/68026-real-robots-final-attack.json"
     },
     {
+      "igdb_id": 98477,
+      "game_name": "Real Shot VR",
+      "file": "missing/R/98477-real-shot-vr.json"
+    },
+    {
       "igdb_id": 116347,
       "game_name": "Real Soccer 2007",
       "file": "missing/R/116347-real-soccer-2007.json"
@@ -199296,6 +199506,11 @@
       "igdb_id": 194636,
       "game_name": "Rite of Passage: Heart of the Storm - Collector's Edition",
       "file": "missing/R/194636-rite-of-passage-heart-of-the-storm-collectors-edition.json"
+    },
+    {
+      "igdb_id": 98377,
+      "game_name": "Rite of Passage: Hide and Seek",
+      "file": "missing/R/98377-rite-of-passage-hide-and-seek.json"
     },
     {
       "igdb_id": 100231,
@@ -218951,6 +219166,11 @@
       "igdb_id": 355020,
       "game_name": "Sohee",
       "file": "missing/S/355020-sohee.json"
+    },
+    {
+      "igdb_id": 98376,
+      "game_name": "Soi Kano: Gyutto Dakishimete",
+      "file": "missing/S/98376-soi-kano-gyutto-dakishimete.json"
     },
     {
       "igdb_id": 291473,
@@ -262753,6 +262973,11 @@
       "file": "missing/T/48675-tome-of-heroes.json"
     },
     {
+      "igdb_id": 98397,
+      "game_name": "TomeNet",
+      "file": "missing/T/98397-tomenet.json"
+    },
+    {
       "igdb_id": 241665,
       "game_name": "Tomes and Quests: Nemesis Campaign",
       "file": "missing/T/241665-tomes-and-quests-nemesis-campaign.json"
@@ -264851,6 +265076,11 @@
       "igdb_id": 11172,
       "game_name": "TrackMania Turbo",
       "file": "missing/T/11172-trackmania-turbo.json"
+    },
+    {
+      "igdb_id": 98396,
+      "game_name": "TrackRacing Online",
+      "file": "missing/T/98396-trackracing-online.json"
     },
     {
       "igdb_id": 29886,
@@ -267706,6 +267936,11 @@
       "igdb_id": 116366,
       "game_name": "Trinoline",
       "file": "missing/T/116366-trinoline.json"
+    },
+    {
+      "igdb_id": 98374,
+      "game_name": "Trinoline: Genesis",
+      "file": "missing/T/98374-trinoline-genesis.json"
     },
     {
       "igdb_id": 292851,
@@ -280468,6 +280703,11 @@
       "file": "missing/W/201804-weird-hat-fight.json"
     },
     {
+      "igdb_id": 98403,
+      "game_name": "Weird Rituals in the Ancient Temples",
+      "file": "missing/W/98403-weird-rituals-in-the-ancient-temples.json"
+    },
+    {
       "igdb_id": 252135,
       "game_name": "Weird Store",
       "file": "missing/W/252135-weird-store.json"
@@ -288496,6 +288736,11 @@
       "igdb_id": 134643,
       "game_name": "Young Wife Elf's Netorase RPG: Irena",
       "file": "missing/Y/134643-young-wife-elfs-netorase-rpg-irena.json"
+    },
+    {
+      "igdb_id": 98404,
+      "game_name": "Young Wife Yuka's Good Day to Cheat",
+      "file": "missing/Y/98404-young-wife-yukas-good-day-to-cheat.json"
     },
     {
       "igdb_id": 202395,
