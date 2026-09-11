@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
 | Dance! Dance! Dance! | 132806 | [132806-dance-dance-dance.json](./132806-dance-dance-dance.json) |
 | Dance! Dance! Dance! | 339794 | [339794-dance-dance-dance.json](./339794-dance-dance-dance.json) |
+| Dancerush Stardom | 108988 | [108988-dancerush-stardom.json](./108988-dancerush-stardom.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
 | DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
@@ -337,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's Lenore - Collector's Edition | 370676 | [370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json](./370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Morella - Collector's Edition | 370677 | [370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json](./370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget HD | 108964 | [108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json](./108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json) |
 | Dark Tales: Edgar Allan Poe's The Oval Portrait - Collector's Edition | 370681 | [370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json](./370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Raven - Collector's Edition | 222282 | [222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json](./222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json) |
@@ -432,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Man | 310187 | [310187-data-man.json](./310187-data-man.json) |
 | Data mining | 106584 | [106584-data-mining.json](./106584-data-mining.json) |
 | Data mining 2 | 110974 | [110974-data-mining-2.json](./110974-data-mining-2.json) |
+| Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
 | Data.Expand | 260146 | [260146-data-expand.json](./260146-data-expand.json) |
 | Dataclysm | 327855 | [327855-dataclysm.json](./327855-dataclysm.json) |
@@ -1411,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
 | Dharma Dojo | 79948 | [79948-dharma-dojo.json](./79948-dharma-dojo.json) |
 | DHTML Lemmings | 352223 | [352223-dhtml-lemmings.json](./352223-dhtml-lemmings.json) |
+| Di Gi Charat Fantasy | 109070 | [109070-di-gi-charat-fantasy.json](./109070-di-gi-charat-fantasy.json) |
 | Dia | 182440 | [182440-dia.json](./182440-dia.json) |
 | Diaball | 176485 | [176485-diaball.json](./176485-diaball.json) |
 | Diabetor & The Sugar Monsters | 278736 | [278736-diabetor-and-the-sugar-monsters.json](./278736-diabetor-and-the-sugar-monsters.json) |
@@ -1448,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dib's Nanochase | 191879 | [191879-dibs-nanochase.json](./191879-dibs-nanochase.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
 | Dice Battle | 279007 | [279007-dice-battle.json](./279007-dice-battle.json) |
+| Dice Brawl: Captain's League | 108960 | [108960-dice-brawl-captains-league.json](./108960-dice-brawl-captains-league.json) |
 | Dice Craft | 252156 | [252156-dice-craft.json](./252156-dice-craft.json) |
 | Dice Deluge | 414294 | [414294-dice-deluge.json](./414294-dice-deluge.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
@@ -1523,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digdig | 316611 | [316611-digdig.json](./316611-digdig.json) |
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
+| Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
@@ -1530,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging Down | 384532 | [384532-digging-down.json](./384532-digging-down.json) |
 | Digging for Dinosaurs | 48045 | [48045-digging-for-dinosaurs.json](./48045-digging-for-dinosaurs.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
+| Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
 | Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
 | Digimon Fusion Fighters | 327211 | [327211-digimon-fusion-fighters.json](./327211-digimon-fusion-fighters.json) |
@@ -2069,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
 | DomiCard | 107904 | [107904-domicard.json](./107904-domicard.json) |
+| Dominacy | 109058 | [109058-dominacy.json](./109058-dominacy.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | Dominate: Board Game | 147971 | [147971-dominate-board-game.json](./147971-dominate-board-game.json) |
 | Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
@@ -2520,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
+| Dragon Boy | 108995 | [108995-dragon-boy.json](./108995-dragon-boy.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Champions | 125473 | [125473-dragon-champions.json](./125473-dragon-champions.json) |
 | Dragon Chase | 113659 | [113659-dragon-chase.json](./113659-dragon-chase.json) |
@@ -2854,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
+| Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
 | Drink Bar Maid | 134608 | [134608-drink-bar-maid.json](./134608-drink-bar-maid.json) |
 | Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
