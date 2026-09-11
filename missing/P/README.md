@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partivity! | 115655 | [115655-partivity.json](./115655-partivity.json) |
 | Partner In TV!!! O-Uchi ni Wan-chan ga Yattekita | 327623 | [327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json](./327623-partner-in-tv-o-uchi-ni-wan-chan-ga-yattekita.json) |
 | Party Arcade: Enhanced Edition | 330186 | [330186-party-arcade-enhanced-edition.json](./330186-party-arcade-enhanced-edition.json) |
+| Party Business | 128594 | [128594-party-business.json](./128594-party-business.json) |
 | Party Cemetery | 178594 | [178594-party-cemetery.json](./178594-party-cemetery.json) |
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Friends | 215693 | [215693-party-friends.json](./215693-party-friends.json) |
@@ -2538,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
+| Probe Team | 128600 | [128600-probe-team.json](./128600-probe-team.json) |
 | ProBee | 208376 | [208376-probee.json](./208376-probee.json) |
 | Problem Animals | 193488 | [193488-problem-animals.json](./193488-problem-animals.json) |
 | Probotector | 186202 | [186202-probotector.json](./186202-probotector.json) |
