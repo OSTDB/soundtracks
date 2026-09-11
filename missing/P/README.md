@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Point: Festering Skies | 149592 | [149592-phoenix-point-festering-skies.json](./149592-phoenix-point-festering-skies.json) |
 | Phoenix Point: Legacy of the Ancients | 149585 | [149585-phoenix-point-legacy-of-the-ancients.json](./149585-phoenix-point-legacy-of-the-ancients.json) |
 | Phoenix Springs | 223363 | [223363-phoenix-springs.json](./223363-phoenix-springs.json) |
+| Phoenix Strike | 129743 | [129743-phoenix-strike.json](./129743-phoenix-strike.json) |
 | Phoenix Wright: Ace Attorney - Dual Destinies | 253012 | [253012-phoenix-wright-ace-attorney-dual-destinies.json](./253012-phoenix-wright-ace-attorney-dual-destinies.json) |
 | Phoenix Wright: Ace Attorney - Justice for All | 1427 | [1427-phoenix-wright-ace-attorney-justice-for-all.json](./1427-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Justice For All | 221286 | [221286-phoenix-wright-ace-attorney-justice-for-all.json](./221286-phoenix-wright-ace-attorney-justice-for-all.json) |
