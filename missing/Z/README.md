@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zavix Tower | 25104 | [25104-zavix-tower.json](./25104-zavix-tower.json) |
 | Zaxxon | 309341 | [309341-zaxxon.json](./309341-zaxxon.json) |
+| Zayed the Leader | 100140 | [100140-zayed-the-leader.json](./100140-zayed-the-leader.json) |
 | Zball II | 149519 | [149519-zball-ii.json](./149519-zball-ii.json) |
 | Zday Survival Simulator | 202840 | [202840-zday-survival-simulator.json](./202840-zday-survival-simulator.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
@@ -373,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Simulator | 216802 | [216802-zoo-simulator.json](./216802-zoo-simulator.json) |
 | Zoo Squad | 192394 | [192394-zoo-squad.json](./192394-zoo-squad.json) |
 | Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
+| Zoo Tycoon 2: Marine Mania | 100132 | [100132-zoo-tycoon-2-marine-mania.json](./100132-zoo-tycoon-2-marine-mania.json) |
 | Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
 | Zoo-phonics 10: The Zoo Kitchen | 101477 | [101477-zoo-phonics-10-the-zoo-kitchen.json](./101477-zoo-phonics-10-the-zoo-kitchen.json) |
