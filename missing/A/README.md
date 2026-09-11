@@ -97,7 +97,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
-| A Slightly Different Backrooms | 295537 | [295537-a-slightly-different-backrooms.json](./295537-a-slightly-different-backrooms.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Space for the Unbound: Collector's Edition | 261538 | [261538-a-space-for-the-unbound-collectors-edition.json](./261538-a-space-for-the-unbound-collectors-edition.json) |
 | A Spaceship Accident | 372446 | [372446-a-spaceship-accident.json](./372446-a-spaceship-accident.json) |
