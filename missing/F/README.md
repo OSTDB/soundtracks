@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
+| Fruits Blast - Match Cube | 108953 | [108953-fruits-blast-match-cube.json](./108953-fruits-blast-match-cube.json) |
 | Fruits Inc. Deluxe Pack | 35750 | [35750-fruits-inc-deluxe-pack.json](./35750-fruits-inc-deluxe-pack.json) |
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
