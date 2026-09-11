@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Shell | 193943 | [193943-dead-shell.json](./193943-dead-shell.json) |
 | Dead Shits | 129690 | [129690-dead-shits.json](./129690-dead-shits.json) |
+| Dead Simple 21 | 123565 | [123565-dead-simple-21.json](./123565-dead-simple-21.json) |
 | Dead Some Day | 33155 | [33155-dead-some-day.json](./33155-dead-some-day.json) |
 | Dead Space | 131931 | [131931-dead-space.json](./131931-dead-space.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
@@ -702,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
+| Death | 123553 | [123553-death.json](./123553-death.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
 | Death and Taxes | 126835 | [126835-death-and-taxes.json](./126835-death-and-taxes.json) |
