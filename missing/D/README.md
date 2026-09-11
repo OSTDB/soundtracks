@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Dummy | 114351 | [114351-dodge-dummy.json](./114351-dodge-dummy.json) |
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
+| Dodgeball Dino Duel | 112281 | [112281-dodgeball-dino-duel.json](./112281-dodgeball-dino-duel.json) |
 | DodgeKing | 213989 | [213989-dodgeking.json](./213989-dodgeking.json) |
 | DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
 | Dodgerman | 113645 | [113645-dodgerman.json](./113645-dodgerman.json) |
@@ -1996,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
 | Dogz: Fashion | 49403 | [49403-dogz-fashion.json](./49403-dogz-fashion.json) |
 | Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
+| Dojagi: The Korean Pottery | 112371 | [112371-dojagi-the-korean-pottery.json](./112371-dojagi-the-korean-pottery.json) |
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
 | Doka-chan no Onigokko | 234039 | [234039-doka-chan-no-onigokko.json](./234039-doka-chan-no-onigokko.json) |
 | Dokapon! Ikari no Tetsuken | 81411 | [81411-dokapon-ikari-no-tetsuken.json](./81411-dokapon-ikari-no-tetsuken.json) |
@@ -2834,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
+| Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drill Keeper | 253370 | [253370-drill-keeper.json](./253370-drill-keeper.json) |
