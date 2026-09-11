@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist Hour: Escape Room | 357797 | [357797-dentist-hour-escape-room.json](./357797-dentist-hour-escape-room.json) |
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
+| Departure | 96681 | [96681-departure.json](./96681-departure.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
 | Dependium | 411617 | [411617-dependium.json](./411617-dependium.json) |
 | Depict the City | 212462 | [212462-depict-the-city.json](./212462-depict-the-city.json) |
@@ -1662,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Rampage 3D | 106627 | [106627-dino-rampage-3d.json](./106627-dino-rampage-3d.json) |
 | Dino Rex | 39630 | [39630-dino-rex.json](./39630-dino-rex.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
+| Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
 | Dino Safari: Evolution-U | 100927 | [100927-dino-safari-evolution-u.json](./100927-dino-safari-evolution-u.json) |
 | Dino Surf | 239895 | [239895-dino-surf.json](./239895-dino-surf.json) |
 | Dino Tamers | 146333 | [146333-dino-tamers.json](./146333-dino-tamers.json) |
