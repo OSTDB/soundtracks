@@ -1638,6 +1638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wǔlín Zhìzūn Zhuàn | 367434 | [367434-wulin-zhizun-zhuan.json](./367434-wulin-zhizun-zhuan.json) |
 | Wummsen Village | 361118 | [361118-wummsen-village.json](./361118-wummsen-village.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
+| Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
