@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T20:00:59.134Z",
-  "total_missing": 59171,
+  "generated_at": "2026-09-11T20:10:53.075Z",
+  "total_missing": 59172,
   "games": [
     {
       "igdb_id": 306086,
@@ -2401,11 +2401,6 @@
       "igdb_id": 276503,
       "game_name": "A Sensei's Story",
       "file": "missing/A/276503-a-senseis-story.json"
-    },
-    {
-      "igdb_id": 253582,
-      "game_name": "A Shadow Cast on Water",
-      "file": "missing/A/253582-a-shadow-cast-on-water.json"
     },
     {
       "igdb_id": 243418,
@@ -27801,6 +27796,11 @@
       "igdb_id": 372984,
       "game_name": "Blackjack Wars",
       "file": "missing/B/372984-blackjack-wars.json"
+    },
+    {
+      "igdb_id": 87143,
+      "game_name": "BlackJack: Daily 21 Points",
+      "file": "missing/B/87143-blackjack-daily-21-points.json"
     },
     {
       "igdb_id": 100176,
@@ -119496,6 +119496,11 @@
       "igdb_id": 120415,
       "game_name": "Infinity Attackers",
       "file": "missing/I/120415-infinity-attackers.json"
+    },
+    {
+      "igdb_id": 87150,
+      "game_name": "Infinity Beats Song Edition",
+      "file": "missing/I/87150-infinity-beats-song-edition.json"
     },
     {
       "igdb_id": 20644,
