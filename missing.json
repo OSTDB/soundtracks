@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T13:18:47.522Z",
-  "total_missing": 58043,
+  "generated_at": "2026-09-11T13:20:57.230Z",
+  "total_missing": 58042,
   "games": [
     {
       "igdb_id": 306086,
@@ -2186,11 +2186,6 @@
       "igdb_id": 308550,
       "game_name": "A Lucky First Turnabout: A Klavier Gavin Story",
       "file": "missing/A/308550-a-lucky-first-turnabout-a-klavier-gavin-story.json"
-    },
-    {
-      "igdb_id": 351034,
-      "game_name": "A Mafia Escape",
-      "file": "missing/A/351034-a-mafia-escape.json"
     },
     {
       "igdb_id": 207342,
