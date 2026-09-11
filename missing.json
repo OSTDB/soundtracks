@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T00:03:43.778Z",
-  "total_missing": 55776,
+  "generated_at": "2026-09-11T00:11:02.980Z",
+  "total_missing": 55775,
   "games": [
     {
       "igdb_id": 306086,
@@ -1781,11 +1781,6 @@
       "igdb_id": 182551,
       "game_name": "A Bright Light in the Middle of the Ocean",
       "file": "missing/A/182551-a-bright-light-in-the-middle-of-the-ocean.json"
-    },
-    {
-      "igdb_id": 216776,
-      "game_name": "A Broken Halo",
-      "file": "missing/A/216776-a-broken-halo.json"
     },
     {
       "igdb_id": 301592,
