@@ -482,6 +482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: US Weapons Pack 2 | 234925 | [234925-generation-zero-us-weapons-pack-2.json](./234925-generation-zero-us-weapons-pack-2.json) |
 | Generative Quest | 267414 | [267414-generative-quest.json](./267414-generative-quest.json) |
 | Generic Brazilian Favela Game with Generic Enemies 2003 | 264894 | [264894-generic-brazilian-favela-game-with-generic-enemies-2003.json](./264894-generic-brazilian-favela-game-with-generic-enemies-2003.json) |
+| Genesis | 127265 | [127265-genesis.json](./127265-genesis.json) |
 | Genesis | 381046 | [381046-genesis.json](./381046-genesis.json) |
 | Genesis | 381047 | [381047-genesis.json](./381047-genesis.json) |
 | Genesis Alpha One: Deluxe Edition | 154543 | [154543-genesis-alpha-one-deluxe-edition.json](./154543-genesis-alpha-one-deluxe-edition.json) |
@@ -1316,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
 | GraFi 2 | 119013 | [119013-grafi-2.json](./119013-grafi-2.json) |
+| GraFi Halloween | 127309 | [127309-grafi-halloween.json](./127309-grafi-halloween.json) |
 | Gragyriss, Captor of Princesses | 304354 | [304354-gragyriss-captor-of-princesses.json](./304354-gragyriss-captor-of-princesses.json) |
 | Grail Tale | 231945 | [231945-grail-tale.json](./231945-grail-tale.json) |
 | Grain Sling | 273916 | [273916-grain-sling.json](./273916-grain-sling.json) |
@@ -1538,6 +1540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenlander | 236838 | [236838-greenlander.json](./236838-greenlander.json) |
 | GreenWood Defense | 309858 | [309858-greenwood-defense.json](./309858-greenwood-defense.json) |
 | Greetings | 178562 | [178562-greetings.json](./178562-greetings.json) |
+| Greetings From Krampus! | 127229 | [127229-greetings-from-krampus.json](./127229-greetings-from-krampus.json) |
 | Greg Hastings' Tournament Paintball MAX'D | 5855 | [5855-greg-hastings-tournament-paintball-maxd.json](./5855-greg-hastings-tournament-paintball-maxd.json) |
 | Greg Norman's Golf Power | 48701 | [48701-greg-normans-golf-power.json](./48701-greg-normans-golf-power.json) |
 | Greg Norman's Ultimate Golf | 98979 | [98979-greg-normans-ultimate-golf.json](./98979-greg-normans-ultimate-golf.json) |
