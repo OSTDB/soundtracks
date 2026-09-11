@@ -3008,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | Sogo Vego | 161353 | [161353-sogo-vego.json](./161353-sogo-vego.json) |
 | Sohee | 355020 | [355020-sohee.json](./355020-sohee.json) |
+| Soi Kano: Gyutto Dakishimete | 98376 | [98376-soi-kano-gyutto-dakishimete.json](./98376-soi-kano-gyutto-dakishimete.json) |
 | Sojourn Past | 291473 | [291473-sojourn-past.json](./291473-sojourn-past.json) |
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
