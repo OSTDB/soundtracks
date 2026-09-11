@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacksepticeye's 1 Million Subscriber YouTube Party Massacre | 252770 | [252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json](./252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json) |
 | Jacksmith: Weapons and Warriors | 337075 | [337075-jacksmith-weapons-and-warriors.json](./337075-jacksmith-weapons-and-warriors.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
+| Jacob Jones and the Bigfoot Mystery: Episode One - A Bump in the Night | 84153 | [84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json](./84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json) |
 | Jacob's Quest | 226731 | [226731-jacobs-quest.json](./226731-jacobs-quest.json) |
 | Jacqueline White: Bad Trouble in the Red Desert | 169991 | [169991-jacqueline-white-bad-trouble-in-the-red-desert.json](./169991-jacqueline-white-bad-trouble-in-the-red-desert.json) |
 | Jad | 151133 | [151133-jad.json](./151133-jad.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jampack: Volume 15 | 43317 | [43317-jampack-volume-15.json](./43317-jampack-volume-15.json) |
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
 | Jamster Allstars | 333561 | [333561-jamster-allstars.json](./333561-jamster-allstars.json) |
+| Jan Friend | 84230 | [84230-jan-friend.json](./84230-jan-friend.json) |
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
