@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
 | 20 em 1 | 94700 | [94700-20-em-1.json](./94700-20-em-1.json) |
 | 20 Minute Metropolis | 124263 | [124263-20-minute-metropolis.json](./124263-20-minute-metropolis.json) |
+| 20 Squares | 92974 | [92974-20-squares.json](./92974-20-squares.json) |
 | 20 Useless Apps | 243962 | [243962-20-useless-apps.json](./243962-20-useless-apps.json) |
 | 20 Words // 20 Seconds | 280751 | [280751-20-words-20-seconds.json](./280751-20-words-20-seconds.json) |
 | 2003 AtariAge Holiday Cart | 70419 | [70419-2003-atariage-holiday-cart.json](./70419-2003-atariage-holiday-cart.json) |
