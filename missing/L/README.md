@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Heroes | 64953 | [64953-lost-heroes.json](./64953-lost-heroes.json) |
 | Lost Hope: Backrooms | 266786 | [266786-lost-hope-backrooms.json](./266786-lost-hope-backrooms.json) |
 | Lost Horizon | 200193 | [200193-lost-horizon.json](./200193-lost-horizon.json) |
+| Lost Impressions | 125381 | [125381-lost-impressions.json](./125381-lost-impressions.json) |
 | Lost in a Forest | 35895 | [35895-lost-in-a-forest.json](./35895-lost-in-a-forest.json) |
 | Lost in Art | 407328 | [407328-lost-in-art.json](./407328-lost-in-art.json) |
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
@@ -1634,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low G Man: The Low Gravity Man | 48028 | [48028-low-g-man-the-low-gravity-man.json](./48028-low-g-man-the-low-gravity-man.json) |
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
 | Low_Signal | 353278 | [353278-low-signal.json](./353278-low-signal.json) |
+| Low-Fi | 125401 | [125401-low-fi.json](./125401-low-fi.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
