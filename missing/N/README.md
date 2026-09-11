@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Code | 110362 | [110362-ninja-code.json](./110362-ninja-code.json) |
 | Ninja Cop Saizou | 215137 | [215137-ninja-cop-saizou.json](./215137-ninja-cop-saizou.json) |
 | Ninja Dash - Ronin Jump RPG | 104648 | [104648-ninja-dash-ronin-jump-rpg.json](./104648-ninja-dash-ronin-jump-rpg.json) |
+| Ninja Dude vs. Zombies 2 | 117030 | [117030-ninja-dude-vs-zombies-2.json](./117030-ninja-dude-vs-zombies-2.json) |
 | Ninja Epic Adventure | 147458 | [147458-ninja-epic-adventure.json](./147458-ninja-epic-adventure.json) |
 | Ninja Fight | 336374 | [336374-ninja-fight.json](./336374-ninja-fight.json) |
 | Ninja Fishing | 228412 | [228412-ninja-fishing.json](./228412-ninja-fishing.json) |
@@ -1118,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
 | No Wave | 128583 | [128583-no-wave.json](./128583-no-wave.json) |
+| No Way Home | 117007 | [117007-no-way-home.json](./117007-no-way-home.json) |
 | No Way Out | 239677 | [239677-no-way-out.json](./239677-no-way-out.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
