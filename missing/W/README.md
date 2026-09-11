@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanna Sleep All Day, But | 389459 | [389459-wanna-sleep-all-day-but.json](./389459-wanna-sleep-all-day-but.json) |
 | Wanna Wake Up? | 405466 | [405466-wanna-wake-up.json](./405466-wanna-wake-up.json) |
 | Wannabe Galgame God!!! | 389964 | [389964-wannabe-galgame-god.json](./389964-wannabe-galgame-god.json) |
+| WannaMine | 88196 | [88196-wannamine.json](./88196-wannamine.json) |
 | Wanpaku Kokkun no Gourmet World | 215131 | [215131-wanpaku-kokkun-no-gourmet-world.json](./215131-wanpaku-kokkun-no-gourmet-world.json) |
 | Wanted 3D: Dead or Alive | 335858 | [335858-wanted-3d-dead-or-alive.json](./335858-wanted-3d-dead-or-alive.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
@@ -544,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Earth Online | 392155 | [392155-web-earth-online.json](./392155-web-earth-online.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
+| Web Spice | 88230 | [88230-web-spice.json](./88230-web-spice.json) |
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
 | WebbVR: The James Webb Space Telescope Virtual Experience | 111631 | [111631-webbvr-the-james-webb-space-telescope-virtual-experience.json](./111631-webbvr-the-james-webb-space-telescope-virtual-experience.json) |
