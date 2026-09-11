@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T11:33:38.250Z",
-  "total_missing": 57739,
+  "generated_at": "2026-09-11T11:40:59.488Z",
+  "total_missing": 57738,
   "games": [
     {
       "igdb_id": 306086,
@@ -2126,11 +2126,6 @@
       "igdb_id": 87686,
       "game_name": "A Light in the Dark",
       "file": "missing/A/87686-a-light-in-the-dark.json"
-    },
-    {
-      "igdb_id": 404819,
-      "game_name": "A Line Held Tight",
-      "file": "missing/A/404819-a-line-held-tight.json"
     },
     {
       "igdb_id": 193468,
