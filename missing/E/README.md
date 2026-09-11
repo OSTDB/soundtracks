@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Ensemble: Wind of Moon | 125438 | [125438-element-ensemble-wind-of-moon.json](./125438-element-ensemble-wind-of-moon.json) |
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
 | Elemental | 351639 | [351639-elemental.json](./351639-elemental.json) |
+| Elemental | 95377 | [95377-elemental.json](./95377-elemental.json) |
 | Elemental Adventure | 226451 | [226451-elemental-adventure.json](./226451-elemental-adventure.json) |
 | Elemental Angel II | 192420 | [192420-elemental-angel-ii.json](./192420-elemental-angel-ii.json) |
 | Elemental Angel III | 198492 | [198492-elemental-angel-iii.json](./198492-elemental-angel-iii.json) |
