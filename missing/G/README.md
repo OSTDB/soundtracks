@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy | 154578 | [154578-galaxy.json](./154578-galaxy.json) |
 | Galaxy | 381043 | [381043-galaxy.json](./381043-galaxy.json) |
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
+| Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
 | Galaxy Ballerina | 293415 | [293415-galaxy-ballerina.json](./293415-galaxy-ballerina.json) |
 | Galaxy Boom - Defend Planet | 108487 | [108487-galaxy-boom-defend-planet.json](./108487-galaxy-boom-defend-planet.json) |
 | Galaxy Bowling | 101540 | [101540-galaxy-bowling.json](./101540-galaxy-bowling.json) |
@@ -463,6 +464,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem's Hentai: Ultimate Puzzle | 296674 | [296674-gems-hentai-ultimate-puzzle.json](./296674-gems-hentai-ultimate-puzzle.json) |
 | GemaBoy: Zero Origins | 208041 | [208041-gemaboy-zero-origins.json](./208041-gemaboy-zero-origins.json) |
 | GemCore | 214157 | [214157-gemcore.json](./214157-gemcore.json) |
+| GemCraft Chapter One: The Forgotten | 79289 | [79289-gemcraft-chapter-one-the-forgotten.json](./79289-gemcraft-chapter-one-the-forgotten.json) |
+| GemCraft Lost Chapter: Labyrinth | 79288 | [79288-gemcraft-lost-chapter-labyrinth.json](./79288-gemcraft-lost-chapter-labyrinth.json) |
 | Gemini | 139404 | [139404-gemini.json](./139404-gemini.json) |
 | Gemini | 86115 | [86115-gemini.json](./86115-gemini.json) |
 | Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
@@ -1322,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goose Simulator | 199063 | [199063-goose-simulator.json](./199063-goose-simulator.json) |
 | Goose.io | 130858 | [130858-goose-io.json](./130858-goose-io.json) |
 | Goosebumps: Attack of the Mutant | 19667 | [19667-goosebumps-attack-of-the-mutant.json](./19667-goosebumps-attack-of-the-mutant.json) |
+| Goosebumps: Escape from Horrorland | 79276 | [79276-goosebumps-escape-from-horrorland.json](./79276-goosebumps-escape-from-horrorland.json) |
 | Goosebumps: HorrorLand | 43301 | [43301-goosebumps-horrorland.json](./43301-goosebumps-horrorland.json) |
 | Goospace | 240812 | [240812-goospace.json](./240812-goospace.json) |
 | Gophy | 234325 | [234325-gophy.json](./234325-gophy.json) |
@@ -1982,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
 | Gundam Breaker 4: Diorama Pack Set | 328995 | [328995-gundam-breaker-4-diorama-pack-set.json](./328995-gundam-breaker-4-diorama-pack-set.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
+| Gundam Online Wars | 79279 | [79279-gundam-online-wars.json](./79279-gundam-online-wars.json) |
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
 | Gundam VR: Daiba Assault | 52001 | [52001-gundam-vr-daiba-assault.json](./52001-gundam-vr-daiba-assault.json) |
@@ -2033,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
+| Guns GirlZ | 79282 | [79282-guns-girlz.json](./79282-guns-girlz.json) |
 | Guns N' Boxes | 24064 | [24064-guns-n-boxes.json](./24064-guns-n-boxes.json) |
 | Guns of Bullshit | 129723 | [129723-guns-of-bullshit.json](./129723-guns-of-bullshit.json) |
 | Guns of Fury | 312358 | [312358-guns-of-fury.json](./312358-guns-of-fury.json) |
