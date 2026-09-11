@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
 | La Vuelta al Mundo con Vascolet | 347111 | [347111-la-vuelta-al-mundo-con-vascolet.json](./347111-la-vuelta-al-mundo-con-vascolet.json) |
 | La-Mulana | 7936 | [7936-la-mulana.json](./7936-la-mulana.json) |
+| La-Mulana & La-Mulana 2 | 130905 | [130905-la-mulana-and-la-mulana-2.json](./130905-la-mulana-and-la-mulana-2.json) |
 | La-Mulana 2: The Tower of Oannes | 188630 | [188630-la-mulana-2-the-tower-of-oannes.json](./188630-la-mulana-2-the-tower-of-oannes.json) |
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lastbane | 348773 | [348773-lastbane.json](./348773-lastbane.json) |
 | Lastfight | 19250 | [19250-lastfight.json](./19250-lastfight.json) |
 | Lasting Moonlight | 245866 | [245866-lasting-moonlight.json](./245866-lasting-moonlight.json) |
+| Lasting Solstice | 130918 | [130918-lasting-solstice.json](./130918-lasting-solstice.json) |
 | Lastronaut | 344933 | [344933-lastronaut.json](./344933-lastronaut.json) |
 | LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
 | Late Fee Girls | 366241 | [366241-late-fee-girls.json](./366241-late-fee-girls.json) |
@@ -604,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Lent: The Easter Bunny - Lent's Adventure: Story One | 215123 | [215123-lent-the-easter-bunny-lents-adventure-story-one.json](./215123-lent-the-easter-bunny-lents-adventure-story-one.json) |
 | Léo | 386726 | [386726-leo.json](./386726-leo.json) |
+| Leo & Leah | 130884 | [130884-leo-and-leah.json](./130884-leo-and-leah.json) |
 | Leo the Lion | 124823 | [124823-leo-the-lion.json](./124823-leo-the-lion.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
 | Leonardo | 133430 | [133430-leonardo.json](./133430-leonardo.json) |
@@ -1722,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiva Legacy | 265697 | [265697-lumiva-legacy.json](./265697-lumiva-legacy.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
+| Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
 | Luna Blaze | 353870 | [353870-luna-blaze.json](./353870-luna-blaze.json) |
 | Luna Child no Saishuu Bouei Line 3 | 202971 | [202971-luna-child-no-saishuu-bouei-line-3.json](./202971-luna-child-no-saishuu-bouei-line-3.json) |
 | Luna de Selene | 383349 | [383349-luna-de-selene.json](./383349-luna-de-selene.json) |
