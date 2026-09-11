@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T06:48:54.795Z",
-  "total_missing": 56985,
+  "generated_at": "2026-09-11T06:51:04.408Z",
+  "total_missing": 56984,
   "games": [
     {
       "igdb_id": 306086,
@@ -1981,11 +1981,6 @@
       "igdb_id": 179136,
       "game_name": "A Firefighter's Boxing Matches",
       "file": "missing/A/179136-a-firefighters-boxing-matches.json"
-    },
-    {
-      "igdb_id": 200666,
-      "game_name": "A Floof's Adventure",
-      "file": "missing/A/200666-a-floofs-adventure.json"
     },
     {
       "igdb_id": 211396,
