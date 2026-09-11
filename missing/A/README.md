@@ -20,7 +20,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Coloring Break: Expansion pack 6 | 357772 | [357772-a-coloring-break-expansion-pack-6.json](./357772-a-coloring-break-expansion-pack-6.json) |
-| A Coloring Break: Expansion pack 7 | 357773 | [357773-a-coloring-break-expansion-pack-7.json](./357773-a-coloring-break-expansion-pack-7.json) |
 | A Coloring Break: Expansion pack 8 | 357774 | [357774-a-coloring-break-expansion-pack-8.json](./357774-a-coloring-break-expansion-pack-8.json) |
 | A Coloring Break: Expansion pack 9 | 357775 | [357775-a-coloring-break-expansion-pack-9.json](./357775-a-coloring-break-expansion-pack-9.json) |
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
