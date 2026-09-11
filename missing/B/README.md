@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze and the Monster Machines | 101564 | [101564-blaze-and-the-monster-machines.json](./101564-blaze-and-the-monster-machines.json) |
 | Blaze and the Monster Machines: Axle City Racers | 148547 | [148547-blaze-and-the-monster-machines-axle-city-racers.json](./148547-blaze-and-the-monster-machines-axle-city-racers.json) |
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
+| Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
 | BlazePunk | 415092 | [415092-blazepunk.json](./415092-blazepunk.json) |
 | BlazeSky | 131611 | [131611-blazesky.json](./131611-blazesky.json) |
 | Blazin' Aces | 61107 | [61107-blazin-aces.json](./61107-blazin-aces.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Creator 2015 | 35857 | [35857-bridge-creator-2015.json](./35857-bridge-creator-2015.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
+| Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Escape From Oz Collector's Edition | 104108 | [104108-bridge-to-another-world-escape-from-oz-collectors-edition.json](./104108-bridge-to-another-world-escape-from-oz-collectors-edition.json) |
 | Bridge to Another World: Gulliver Syndrome | 188031 | [188031-bridge-to-another-world-gulliver-syndrome.json](./188031-bridge-to-another-world-gulliver-syndrome.json) |
