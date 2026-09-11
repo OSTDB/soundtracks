@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathologic 3 | 319087 | [319087-pathologic-3.json](./319087-pathologic-3.json) |
 | Pathologic 3: Quarantine | 326595 | [326595-pathologic-3-quarantine.json](./326595-pathologic-3-quarantine.json) |
 | PathPix Bubble | 96533 | [96533-pathpix-bubble.json](./96533-pathpix-bubble.json) |
+| PathPix Color | 106552 | [106552-pathpix-color.json](./106552-pathpix-color.json) |
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
 | Paths Taken | 119039 | [119039-paths-taken.json](./119039-paths-taken.json) |
 | Pathstorm | 71512 | [71512-pathstorm.json](./71512-pathstorm.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Trick Shot Evolution | 115059 | [115059-ping-pong-trick-shot-evolution.json](./115059-ping-pong-trick-shot-evolution.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
 | Ping! | 79906 | [79906-ping.json](./79906-ping.json) |
+| Pingball Ultra | 106537 | [106537-pingball-ultra.json](./106537-pingball-ultra.json) |
 | Pingcheng Chronicles | 316650 | [316650-pingcheng-chronicles.json](./316650-pingcheng-chronicles.json) |
 | Pinging | 255976 | [255976-pinging.json](./255976-pinging.json) |
 | PingPong Kings VR | 89256 | [89256-pingpong-kings-vr.json](./89256-pingpong-kings-vr.json) |
@@ -1388,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Builder | 105962 | [105962-pixel-builder.json](./105962-pixel-builder.json) |
 | Pixel Cafe: Definitive Edition | 400200 | [400200-pixel-cafe-definitive-edition.json](./400200-pixel-cafe-definitive-edition.json) |
 | Pixel Caveman | 118435 | [118435-pixel-caveman.json](./118435-pixel-caveman.json) |
+| Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
 | Pixel Cross Stitch Color by Number: Miniatures | 409552 | [409552-pixel-cross-stitch-color-by-number-miniatures.json](./409552-pixel-cross-stitch-color-by-number-miniatures.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Miniatures Pack | 377602 | [377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json](./377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json) |
@@ -2628,6 +2631,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Layton Royale | 300386 | [300386-professor-layton-royale.json](./300386-professor-layton-royale.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
 | Professor Watts Memory Match: Cute Animals | 106603 | [106603-professor-watts-memory-match-cute-animals.json](./106603-professor-watts-memory-match-cute-animals.json) |
+| Professor Watts Memory Match: Fresh Fruit | 106634 | [106634-professor-watts-memory-match-fresh-fruit.json](./106634-professor-watts-memory-match-fresh-fruit.json) |
+| Professor Watts Memory Match: Yummy Cupcakes | 106643 | [106643-professor-watts-memory-match-yummy-cupcakes.json](./106643-professor-watts-memory-match-yummy-cupcakes.json) |
 | Professor Watts Word Search: Pirates Life | 103467 | [103467-professor-watts-word-search-pirates-life.json](./103467-professor-watts-word-search-pirates-life.json) |
 | Professor Watts Word Search: Yummy Foods | 103468 | [103468-professor-watts-word-search-yummy-foods.json](./103468-professor-watts-word-search-yummy-foods.json) |
 | Professor Watts: Memory Match | 50760 | [50760-professor-watts-memory-match.json](./50760-professor-watts-memory-match.json) |
