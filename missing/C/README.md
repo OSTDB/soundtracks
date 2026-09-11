@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CandyVenture | 113008 | [113008-candyventure.json](./113008-candyventure.json) |
 | Candyz | 206703 | [206703-candyz.json](./206703-candyz.json) |
 | CandyZoo 2 Electric Boogaloo | 133976 | [133976-candyzoo-2-electric-boogaloo.json](./133976-candyzoo-2-electric-boogaloo.json) |
+| Canfield | 83476 | [83476-canfield.json](./83476-canfield.json) |
 | Cānghóng Lèi: Nì Tiān Shénhuà | 394183 | [394183-canghong-lei-ni-tian-shenhua.json](./394183-canghong-lei-ni-tian-shenhua.json) |
 | Canidae | 336517 | [336517-canidae.json](./336517-canidae.json) |
 | Cannibal | 299444 | [299444-cannibal.json](./299444-cannibal.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Eternity: The Wheel of Time | 321147 | [321147-cards-of-eternity-the-wheel-of-time.json](./321147-cards-of-eternity-the-wheel-of-time.json) |
 | Cards of the Dreaming Dragons | 207531 | [207531-cards-of-the-dreaming-dragons.json](./207531-cards-of-the-dreaming-dragons.json) |
 | Cards! MonkeyBox 2 | 174300 | [174300-cards-monkeybox-2.json](./174300-cards-monkeybox-2.json) |
+| CardShark Hearts | 83479 | [83479-cardshark-hearts.json](./83479-cardshark-hearts.json) |
 | CardWarden | 175409 | [175409-cardwarden.json](./175409-cardwarden.json) |
 | CardWirth | 172774 | [172774-cardwirth.json](./172774-cardwirth.json) |
 | Care Bears: A Lesson in Caring | 65501 | [65501-care-bears-a-lesson-in-caring.json](./65501-care-bears-a-lesson-in-caring.json) |
@@ -472,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carl's Alien Shooting | 324327 | [324327-carls-alien-shooting.json](./324327-carls-alien-shooting.json) |
 | Carlos Haunted House | 343835 | [343835-carlos-haunted-house.json](./343835-carlos-haunted-house.json) |
 | Carlos Klauss: Episode Zero | 258701 | [258701-carlos-klauss-episode-zero.json](./258701-carlos-klauss-episode-zero.json) |
+| Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
@@ -1419,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
+| Choices, the Game | 83531 | [83531-choices-the-game.json](./83531-choices-the-game.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
 | Chokkan Crash Bandicoot | 210241 | [210241-chokkan-crash-bandicoot.json](./210241-chokkan-crash-bandicoot.json) |
 | Choko Loco 2 | 321179 | [321179-choko-loco-2.json](./321179-choko-loco-2.json) |
@@ -2510,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
 | Constellation Tango | 191178 | [191178-constellation-tango.json](./191178-constellation-tango.json) |
 | Constellations: Beyond the Edges | 167256 | [167256-constellations-beyond-the-edges.json](./167256-constellations-beyond-the-edges.json) |
+| Constitution | 83491 | [83491-constitution.json](./83491-constitution.json) |
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
 | Construct.AI | 172128 | [172128-construct-ai.json](./172128-construct-ai.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
@@ -3147,6 +3152,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crewmember Pigeon and the Case of the Burgled Buttons | 188593 | [188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json](./188593-crewmember-pigeon-and-the-case-of-the-burgled-buttons.json) |
 | Crey | 126030 | [126030-crey.json](./126030-crey.json) |
 | Criaturas de la Noche | 272011 | [272011-criaturas-de-la-noche.json](./272011-criaturas-de-la-noche.json) |
+| Cribbage | 83490 | [83490-cribbage.json](./83490-cribbage.json) |
+| Cribbage | 83492 | [83492-cribbage.json](./83492-cribbage.json) |
 | Cribbage Blitz | 125940 | [125940-cribbage-blitz.json](./125940-cribbage-blitz.json) |
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
 | Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
@@ -3511,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubin II | 368485 | [368485-cubin-ii.json](./368485-cubin-ii.json) |
 | Cubinko | 234066 | [234066-cubinko.json](./234066-cubinko.json) |
 | Cubio | 321152 | [321152-cubio.json](./321152-cubio.json) |
+| Cubiques | 83541 | [83541-cubiques.json](./83541-cubiques.json) |
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
 | Cubiscape | 207824 | [207824-cubiscape.json](./207824-cubiscape.json) |
 | Cubit | 204472 | [204472-cubit.json](./204472-cubit.json) |
@@ -3558,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cumming Hotel: A Gay Furry Slice of Life | 225636 | [225636-cumming-hotel-a-gay-furry-slice-of-life.json](./225636-cumming-hotel-a-gay-furry-slice-of-life.json) |
 | Cumulater | 241347 | [241347-cumulater.json](./241347-cumulater.json) |
 | Cumulative Pack 2 | 323709 | [323709-cumulative-pack-2.json](./323709-cumulative-pack-2.json) |
+| Cunning Fox | 83527 | [83527-cunning-fox.json](./83527-cunning-fox.json) |
 | Cunsus Kart | 143003 | [143003-cunsus-kart.json](./143003-cunsus-kart.json) |
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
