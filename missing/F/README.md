@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final War | 368510 | [368510-final-war.json](./368510-final-war.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
+| Financial Football | 91919 | [91919-financial-football.json](./91919-financial-football.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
 | Finch & Archie | 306095 | [306095-finch-and-archie.json](./306095-finch-and-archie.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
@@ -2074,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
 | FragPunk: Toys Awaken - Season 2: Chapter 2 | 362276 | [362276-fragpunk-toys-awaken-season-2-chapter-2.json](./362276-fragpunk-toys-awaken-season-2-chapter-2.json) |
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
+| Frak! | 91894 | [91894-frak.json](./91894-frak.json) |
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
 | Frame of Suffering | 403555 | [403555-frame-of-suffering.json](./403555-frame-of-suffering.json) |
 | Framed | 131508 | [131508-framed.json](./131508-framed.json) |
