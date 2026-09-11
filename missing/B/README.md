@@ -1997,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood II: The Chosen - The Nightmare Levels | 95451 | [95451-blood-ii-the-chosen-the-nightmare-levels.json](./95451-blood-ii-the-chosen-the-nightmare-levels.json) |
 | Blood in the Panopticon | 395552 | [395552-blood-in-the-panopticon.json](./395552-blood-in-the-panopticon.json) |
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
+| Blood Memery | 114948 | [114948-blood-memery.json](./114948-blood-memery.json) |
 | Blood Midnight Blossom | 258221 | [258221-blood-midnight-blossom.json](./258221-blood-midnight-blossom.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
@@ -3314,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzzy's World Tour | 336545 | [336545-buzzys-world-tour.json](./336545-buzzys-world-tour.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
+| By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
