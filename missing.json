@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T09:19:00.573Z",
-  "total_missing": 57425,
+  "generated_at": "2026-09-11T09:21:09.964Z",
+  "total_missing": 57424,
   "games": [
     {
       "igdb_id": 306086,
@@ -2056,11 +2056,6 @@
       "igdb_id": 106621,
       "game_name": "A Good Librarian Like a Good Shepherd",
       "file": "missing/A/106621-a-good-librarian-like-a-good-shepherd.json"
-    },
-    {
-      "igdb_id": 293930,
-      "game_name": "A Gruta de Maquiné",
-      "file": "missing/A/293930-a-gruta-de-maquine.json"
     },
     {
       "igdb_id": 149085,
