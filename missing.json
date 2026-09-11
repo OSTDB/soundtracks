@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T15:48:43.897Z",
-  "total_missing": 58501,
+  "generated_at": "2026-09-11T15:50:58.903Z",
+  "total_missing": 58500,
   "games": [
     {
       "igdb_id": 306086,
@@ -2266,11 +2266,6 @@
       "igdb_id": 223486,
       "game_name": "A Meeting of Dreams",
       "file": "missing/A/223486-a-meeting-of-dreams.json"
-    },
-    {
-      "igdb_id": 273664,
-      "game_name": "A Mermaid's Paradoxical Tale",
-      "file": "missing/A/273664-a-mermaids-paradoxical-tale.json"
     },
     {
       "igdb_id": 135237,
