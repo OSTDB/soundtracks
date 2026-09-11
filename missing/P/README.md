@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parfait Remake: Complete Limited Edition | 159813 | [159813-parfait-remake-complete-limited-edition.json](./159813-parfait-remake-complete-limited-edition.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
+| Paris Craft: Exploration of City of Love & Art | 96012 | [96012-paris-craft-exploration-of-city-of-love-and-art.json](./96012-paris-craft-exploration-of-city-of-love-and-art.json) |
 | Paris Saint-Germain Club Football 2005 | 267911 | [267911-paris-saint-germain-club-football-2005.json](./267911-paris-saint-germain-club-football-2005.json) |
 | Paris Transylvania | 258189 | [258189-paris-transylvania.json](./258189-paris-transylvania.json) |
 | Paris-Marseille Racing | 249771 | [249771-paris-marseille-racing.json](./249771-paris-marseille-racing.json) |
@@ -488,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
 | Parse Ally | 114442 | [114442-parse-ally.json](./114442-parse-ally.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
+| Parsnip | 96108 | [96108-parsnip.json](./96108-parsnip.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
 | Partial Control | 118358 | [118358-partial-control.json](./118358-partial-control.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
@@ -1393,10 +1395,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pity Pit | 132769 | [132769-pity-pit.json](./132769-pity-pit.json) |
 | Pivot of Hearts | 191165 | [191165-pivot-of-hearts.json](./191165-pivot-of-hearts.json) |
 | Pivoting People | 105942 | [105942-pivoting-people.json](./105942-pivoting-people.json) |
+| Pivross | 96125 | [96125-pivross.json](./96125-pivross.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
 | Pixapple Adventure | 388011 | [388011-pixapple-adventure.json](./388011-pixapple-adventure.json) |
 | Pixasso 2 | 165703 | [165703-pixasso-2.json](./165703-pixasso-2.json) |
+| Pixel Adventure: Exploration | 96005 | [96005-pixel-adventure-exploration.json](./96005-pixel-adventure-exploration.json) |
 | Pixel Art Bundle Vol. 1 | 132864 | [132864-pixel-art-bundle-vol-1.json](./132864-pixel-art-bundle-vol-1.json) |
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
@@ -1761,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
 | Pluk van de Petteflet | 269556 | [269556-pluk-van-de-petteflet.json](./269556-pluk-van-de-petteflet.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
+| Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumbers Creed | 178667 | [178667-plumbers-creed.json](./178667-plumbers-creed.json) |
 | Plumbers Don't Wear Ties | 4251 | [4251-plumbers-dont-wear-ties.json](./4251-plumbers-dont-wear-ties.json) |
@@ -2109,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
 | Pong Kombat | 73326 | [73326-pong-kombat.json](./73326-pong-kombat.json) |
+| Pong Like | 96123 | [96123-pong-like.json](./96123-pong-like.json) |
 | Pong Pong's Learning Adventure: Back to the Future | 188078 | [188078-pong-pongs-learning-adventure-back-to-the-future.json](./188078-pong-pongs-learning-adventure-back-to-the-future.json) |
 | Pong Pong's Learning Adventure: Mysteries of Human Body | 188076 | [188076-pong-pongs-learning-adventure-mysteries-of-human-body.json](./188076-pong-pongs-learning-adventure-mysteries-of-human-body.json) |
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
@@ -2198,6 +2204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
+| Porcuball | 96122 | [96122-porcuball.json](./96122-porcuball.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
 | Porntris | 299467 | [299467-porntris.json](./299467-porntris.json) |
 | Porradaria Upgrade | 91973 | [91973-porradaria-upgrade.json](./91973-porradaria-upgrade.json) |
@@ -2384,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predefined | 253585 | [253585-predefined.json](./253585-predefined.json) |
 | Predictile | 304890 | [304890-predictile.json](./304890-predictile.json) |
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
+| Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
 | Pregnant Talking Cat Emma | 250018 | [250018-pregnant-talking-cat-emma.json](./250018-pregnant-talking-cat-emma.json) |
 | Prehistoric Dude | 138774 | [138774-prehistoric-dude.json](./138774-prehistoric-dude.json) |
 | Prehistoric Gal | 293656 | [293656-prehistoric-gal.json](./293656-prehistoric-gal.json) |
