@@ -3210,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulldozer Bob | 146921 | [146921-bulldozer-bob.json](./146921-bulldozer-bob.json) |
 | Bulldozer Crash | 227466 | [227466-bulldozer-crash.json](./227466-bulldozer-crash.json) |
 | Bulle | 178590 | [178590-bulle.json](./178590-bulle.json) |
+| Bullet | 84189 | [84189-bullet.json](./84189-bullet.json) |
 | Bullet Angel | 143101 | [143101-bullet-angel.json](./143101-bullet-angel.json) |
 | Bullet Art | 156680 | [156680-bullet-art.json](./156680-bullet-art.json) |
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
