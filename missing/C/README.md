@@ -1447,6 +1447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Adventures: A Winter Night's Dream | 163921 | [163921-christmas-adventures-a-winter-nights-dream.json](./163921-christmas-adventures-a-winter-nights-dream.json) |
 | Christmas at Marisol Bay | 184047 | [184047-christmas-at-marisol-bay.json](./184047-christmas-at-marisol-bay.json) |
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
+| Christmas Break - Breakout Game | 99571 | [99571-christmas-break-breakout-game.json](./99571-christmas-break-breakout-game.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
 | Christmas Clash | 277601 | [277601-christmas-clash.json](./277601-christmas-clash.json) |
 | Christmas Clicker: Idle Gift Builder | 113001 | [113001-christmas-clicker-idle-gift-builder.json](./113001-christmas-clicker-idle-gift-builder.json) |
@@ -2474,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Simulator: Spaceport Bundle | 277569 | [277569-construction-simulator-spaceport-bundle.json](./277569-construction-simulator-spaceport-bundle.json) |
 | Construction Simulator: Year 1 Season Pass | 246401 | [246401-construction-simulator-year-1-season-pass.json](./246401-construction-simulator-year-1-season-pass.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
+| Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
 | Containment Zone | 235749 | [235749-containment-zone.json](./235749-containment-zone.json) |
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
@@ -3628,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuttlemania! | 159270 | [159270-cuttlemania.json](./159270-cuttlemania.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
+| Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
 | Cyan Avenger | 278999 | [278999-cyan-avenger.json](./278999-cyan-avenger.json) |
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
