@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T17:48:41.862Z",
-  "total_missing": 58811,
+  "generated_at": "2026-09-11T17:50:54.853Z",
+  "total_missing": 58810,
   "games": [
     {
       "igdb_id": 306086,
@@ -2331,11 +2331,6 @@
       "igdb_id": 232425,
       "game_name": "A Passive Boy at the Huntress Clinic",
       "file": "missing/A/232425-a-passive-boy-at-the-huntress-clinic.json"
-    },
-    {
-      "igdb_id": 240215,
-      "game_name": "A Passive Boy at the Huntress Clinic",
-      "file": "missing/A/240215-a-passive-boy-at-the-huntress-clinic.json"
     },
     {
       "igdb_id": 271200,
