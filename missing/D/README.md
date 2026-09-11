@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Paper Boy | 259017 | [259017-da-paper-boy.json](./259017-da-paper-boy.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
+| Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
 | DachStudio Puzzle Box:: Illumarie's Fantastic Characters | 296683 | [296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json](./296683-dachstudio-puzzle-box-illumaries-fantastic-characters.json) |
@@ -483,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
+| Dawn of the killer zombies | 90626 | [90626-dawn-of-the-killer-zombies.json](./90626-dawn-of-the-killer-zombies.json) |
 | Dawn of the Mexica | 143739 | [143739-dawn-of-the-mexica.json](./143739-dawn-of-the-mexica.json) |
 | Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
@@ -2043,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
+| Dog-a-Boo | 90623 | [90623-dog-a-boo.json](./90623-dog-a-boo.json) |
 | Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
 | Dog's Quest | 103454 | [103454-dogs-quest.json](./103454-dogs-quest.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
@@ -3391,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf Land | 284905 | [284905-dwarf-land.json](./284905-dwarf-land.json) |
 | Dwarf Tower | 24563 | [24563-dwarf-tower.json](./24563-dwarf-tower.json) |
 | Dwarfs Descent | 350420 | [350420-dwarfs-descent.json](./350420-dwarfs-descent.json) |
+| Dwarfs F2P | 90631 | [90631-dwarfs-f2p.json](./90631-dwarfs-f2p.json) |
 | Dwarrows | 25229 | [25229-dwarrows.json](./25229-dwarrows.json) |
 | Dwarven Destiny | 206148 | [206148-dwarven-destiny.json](./206148-dwarven-destiny.json) |
 | Dwarven Forge | 149554 | [149554-dwarven-forge.json](./149554-dwarven-forge.json) |
