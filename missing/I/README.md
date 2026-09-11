@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islanders: VR Edition | 260703 | [260703-islanders-vr-edition.json](./260703-islanders-vr-edition.json) |
 | Islands of Insight | 212652 | [212652-islands-of-insight.json](./212652-islands-of-insight.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
+| ISlash Dojo | 108448 | [108448-islash-dojo.json](./108448-islash-dojo.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
 | Isle o' Little Men | 310409 | [310409-isle-o-little-men.json](./310409-isle-o-little-men.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
