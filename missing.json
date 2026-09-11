@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T19:21:00.039Z",
-  "total_missing": 59101,
+  "generated_at": "2026-09-11T19:31:00.510Z",
+  "total_missing": 59112,
   "games": [
     {
       "igdb_id": 306086,
@@ -2381,11 +2381,6 @@
       "igdb_id": 67988,
       "game_name": "A Robot's Conundrum",
       "file": "missing/A/67988-a-robots-conundrum.json"
-    },
-    {
-      "igdb_id": 151171,
-      "game_name": "A Robot's Journey",
-      "file": "missing/A/151171-a-robots-journey.json"
     },
     {
       "igdb_id": 247777,
@@ -5001,6 +4996,11 @@
       "igdb_id": 141228,
       "game_name": "Adventures of Bruce",
       "file": "missing/A/141228-adventures-of-bruce.json"
+    },
+    {
+      "igdb_id": 88252,
+      "game_name": "Adventures of Hendri",
+      "file": "missing/A/88252-adventures-of-hendri.json"
     },
     {
       "igdb_id": 58245,
@@ -188693,6 +188693,11 @@
       "file": "missing/P/100726-president-pig.json"
     },
     {
+      "igdb_id": 88242,
+      "game_name": "PreSim",
+      "file": "missing/P/88242-presim.json"
+    },
+    {
       "igdb_id": 143596,
       "game_name": "Press Any Button",
       "file": "missing/P/143596-press-any-button.json"
@@ -192928,6 +192933,11 @@
       "file": "missing/P/180813-puzzled-love.json"
     },
     {
+      "igdb_id": 88260,
+      "game_name": "Puzzlelicious",
+      "file": "missing/P/88260-puzzlelicious.json"
+    },
+    {
       "igdb_id": 69300,
       "game_name": "Puzzler Clover",
       "file": "missing/P/69300-puzzler-clover.json"
@@ -193306,6 +193316,11 @@
       "igdb_id": 408068,
       "game_name": "Qliphah in Providence's Shadow",
       "file": "missing/Q/408068-qliphah-in-providences-shadow.json"
+    },
+    {
+      "igdb_id": 88241,
+      "game_name": "Qlorb 2",
+      "file": "missing/Q/88241-qlorb-2.json"
     },
     {
       "igdb_id": 142475,
@@ -217413,6 +217428,11 @@
       "file": "missing/S/253586-simply-cubic.json"
     },
     {
+      "igdb_id": 88261,
+      "game_name": "Simply Mahjong puzzle game",
+      "file": "missing/S/88261-simply-mahjong-puzzle-game.json"
+    },
+    {
       "igdb_id": 163424,
       "game_name": "Simply Puzzles: Codewords",
       "file": "missing/S/163424-simply-puzzles-codewords.json"
@@ -226288,6 +226308,11 @@
       "file": "missing/S/37185-space-zero.json"
     },
     {
+      "igdb_id": 88243,
+      "game_name": "Space Zombies Invasion",
+      "file": "missing/S/88243-space-zombies-invasion.json"
+    },
+    {
       "igdb_id": 130856,
       "game_name": "Space zone defender",
       "file": "missing/S/130856-space-zone-defender.json"
@@ -230806,6 +230831,11 @@
       "igdb_id": 125965,
       "game_name": "StarMaker",
       "file": "missing/S/125965-starmaker.json"
+    },
+    {
+      "igdb_id": 88240,
+      "game_name": "Starman in space",
+      "file": "missing/S/88240-starman-in-space.json"
     },
     {
       "igdb_id": 104681,
@@ -254828,6 +254858,11 @@
       "file": "missing/T/145622-the-mercer-slough-and-you.json"
     },
     {
+      "igdb_id": 88259,
+      "game_name": "The Mesh",
+      "file": "missing/T/88259-the-mesh.json"
+    },
+    {
       "igdb_id": 170458,
       "game_name": "The Message",
       "file": "missing/T/170458-the-message.json"
@@ -261708,6 +261743,11 @@
       "file": "missing/T/277589-thunderblade-saga.json"
     },
     {
+      "igdb_id": 88236,
+      "game_name": "Thunderbolt",
+      "file": "missing/T/88236-thunderbolt.json"
+    },
+    {
       "igdb_id": 227875,
       "game_name": "Thunderbolt Poker",
       "file": "missing/T/227875-thunderbolt-poker.json"
@@ -266261,6 +266301,11 @@
       "igdb_id": 242820,
       "game_name": "Tombed",
       "file": "missing/T/242820-tombed.json"
+    },
+    {
+      "igdb_id": 88254,
+      "game_name": "Tombo Breaker VR",
+      "file": "missing/T/88254-tombo-breaker-vr.json"
     },
     {
       "igdb_id": 157167,
@@ -270901,6 +270946,11 @@
       "igdb_id": 246673,
       "game_name": "Tri Focuser: Outside the Traditional World",
       "file": "missing/T/246673-tri-focuser-outside-the-traditional-world.json"
+    },
+    {
+      "igdb_id": 88248,
+      "game_name": "Tri Wing",
+      "file": "missing/T/88248-tri-wing.json"
     },
     {
       "igdb_id": 130869,
@@ -280881,6 +280931,11 @@
       "igdb_id": 312559,
       "game_name": "Voxel World",
       "file": "missing/V/312559-voxel-world.json"
+    },
+    {
+      "igdb_id": 88247,
+      "game_name": "Voxel World",
+      "file": "missing/V/88247-voxel-world.json"
     },
     {
       "igdb_id": 51967,
