@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death | 123553 | [123553-death.json](./123553-death.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
+| Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
 | Death and Taxes | 126835 | [126835-death-and-taxes.json](./126835-death-and-taxes.json) |
 | Death Angel Trial | 284334 | [284334-death-angel-trial.json](./284334-death-angel-trial.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
@@ -1639,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
 | Dinofurie | 332417 | [332417-dinofurie.json](./332417-dinofurie.json) |
 | Dinogotchi | 173311 | [173311-dinogotchi.json](./173311-dinogotchi.json) |
+| DinoKnights | 107802 | [107802-dinoknights.json](./107802-dinoknights.json) |
 | Dinoland | 165672 | [165672-dinoland.json](./165672-dinoland.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
