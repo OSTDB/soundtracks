@@ -2938,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sofia the First Royal Learning Tablet | 213378 | [213378-sofia-the-first-royal-learning-tablet.json](./213378-sofia-the-first-royal-learning-tablet.json) |
 | Sofia's Debt | 196794 | [196794-sofias-debt.json](./196794-sofias-debt.json) |
 | Sofiya and the Ancient Clan | 209648 | [209648-sofiya-and-the-ancient-clan.json](./209648-sofiya-and-the-ancient-clan.json) |
+| Soft cookie | 114438 | [114438-soft-cookie.json](./114438-soft-cookie.json) |
 | Soft Drizzle | 177527 | [177527-soft-drizzle.json](./177527-soft-drizzle.json) |
 | Soft(A)ware | 370123 | [370123-soft-a-ware.json](./370123-soft-a-ware.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
@@ -3789,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceguy III | 109749 | [109749-spaceguy-iii.json](./109749-spaceguy-iii.json) |
 | SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
+| Spacelair | 114444 | [114444-spacelair.json](./114444-spacelair.json) |
 | Spaceland: Cooperative | 170524 | [170524-spaceland-cooperative.json](./170524-spaceland-cooperative.json) |
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
 | Spacelords: the unofficial visual novel | 183054 | [183054-spacelords-the-unofficial-visual-novel.json](./183054-spacelords-the-unofficial-visual-novel.json) |
@@ -4196,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
+| Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
 | Spot The Differences 2020 | 284338 | [284338-spot-the-differences-2020.json](./284338-spot-the-differences-2020.json) |
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
@@ -5595,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
 | Super Alice Dolls! | 294717 | [294717-super-alice-dolls.json](./294717-super-alice-dolls.json) |
 | Super Alien | 146294 | [146294-super-alien.json](./146294-super-alien.json) |
+| Super Alpaca Bros. | 114336 | [114336-super-alpaca-bros.json](./114336-super-alpaca-bros.json) |
 | Super Among Us 64 DS | 270379 | [270379-super-among-us-64-ds.json](./270379-super-among-us-64-ds.json) |
 | Super Angling | 126629 | [126629-super-angling.json](./126629-super-angling.json) |
 | Super Animal Royale: Season 0 | 204696 | [204696-super-animal-royale-season-0.json](./204696-super-animal-royale-season-0.json) |
