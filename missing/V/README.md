@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
 | Verminator | 55202 | [55202-verminator.json](./55202-verminator.json) |
+| Vermintide Collection | 107265 | [107265-vermintide-collection.json](./107265-vermintide-collection.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Veronica | 343792 | [343792-veronica.json](./343792-veronica.json) |
 | Versailles II | 53873 | [53873-versailles-ii.json](./53873-versailles-ii.json) |
@@ -513,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
 | Virtual Hero VR | 118995 | [118995-virtual-hero-vr.json](./118995-virtual-hero-vr.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
+| Virtual Job Shop Simulator | 107273 | [107273-virtual-job-shop-simulator.json](./107273-virtual-job-shop-simulator.json) |
 | Virtual Karting | 15567 | [15567-virtual-karting.json](./15567-virtual-karting.json) |
 | Virtual League Baseball 2 | 201263 | [201263-virtual-league-baseball-2.json](./201263-virtual-league-baseball-2.json) |
 | Virtual Love Secrets | 266785 | [266785-virtual-love-secrets.json](./266785-virtual-love-secrets.json) |
@@ -534,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Walk English 3: Travel-hen | 230524 | [230524-virtual-walk-english-3-travel-hen.json](./230524-virtual-walk-english-3-travel-hen.json) |
 | Virtual Warfighter | 31621 | [31621-virtual-warfighter.json](./31621-virtual-warfighter.json) |
 | Virtual World Primus | 172105 | [172105-virtual-world-primus.json](./172105-virtual-world-primus.json) |
+| VirtualAbbey | 107131 | [107131-virtualabbey.json](./107131-virtualabbey.json) |
 | VirtualCast | 180212 | [180212-virtualcast.json](./180212-virtualcast.json) |
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
