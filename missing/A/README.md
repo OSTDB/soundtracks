@@ -96,7 +96,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Robot's Conundrum | 67988 | [67988-a-robots-conundrum.json](./67988-a-robots-conundrum.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
-| A Sad Journey | 172196 | [172196-a-sad-journey.json](./172196-a-sad-journey.json) |
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Secret Bitsy Game | 138258 | [138258-a-secret-bitsy-game.json](./138258-a-secret-bitsy-game.json) |
 | A Sensei's Story | 276503 | [276503-a-senseis-story.json](./276503-a-senseis-story.json) |
