@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
 | Hats Are Not Allowed | 159892 | [159892-hats-are-not-allowed.json](./159892-hats-are-not-allowed.json) |
+| Hatsujou Sprinkle | 107270 | [107270-hatsujou-sprinkle.json](./107270-hatsujou-sprinkle.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
@@ -492,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted Jail: Alcatas | 116980 | [116980-haunted-jail-alcatas.json](./116980-haunted-jail-alcatas.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
+| Haunted Legends: Cursed Gift | 107115 | [107115-haunted-legends-cursed-gift.json](./107115-haunted-legends-cursed-gift.json) |
 | Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
 | Haunted Legends: The Undertaker | 140028 | [140028-haunted-legends-the-undertaker.json](./140028-haunted-legends-the-undertaker.json) |
 | Haunted Manor 2 | 109018 | [109018-haunted-manor-2.json](./109018-haunted-manor-2.json) |
@@ -1287,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Pass | 253352 | [253352-hidden-pass.json](./253352-hidden-pass.json) |
 | Hidden Paws Mystery | 109412 | [109412-hidden-paws-mystery.json](./109412-hidden-paws-mystery.json) |
 | Hidden Pleasure: Closer and Closer | 409531 | [409531-hidden-pleasure-closer-and-closer.json](./409531-hidden-pleasure-closer-and-closer.json) |
+| Hidden Pointsman | 107124 | [107124-hidden-pointsman.json](./107124-hidden-pointsman.json) |
 | Hidden Robo Cats | 287074 | [287074-hidden-robo-cats.json](./287074-hidden-robo-cats.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
@@ -1366,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
+| Highway Insanity | 107135 | [107135-highway-insanity.json](./107135-highway-insanity.json) |
 | Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
 | Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
 | Highway Patrol Simulator | 258451 | [258451-highway-patrol-simulator.json](./258451-highway-patrol-simulator.json) |
@@ -1936,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
 | House Designer | 171625 | [171625-house-designer.json](./171625-house-designer.json) |
+| House Designer: Fix & Flip | 107134 | [107134-house-designer-fix-and-flip.json](./107134-house-designer-fix-and-flip.json) |
 | House Flipper 2: Pets | 370700 | [370700-house-flipper-2-pets.json](./370700-house-flipper-2-pets.json) |
 | House Flipper VR | 129209 | [129209-house-flipper-vr.json](./129209-house-flipper-vr.json) |
 | House Flipper: Cyberpunk | 171638 | [171638-house-flipper-cyberpunk.json](./171638-house-flipper-cyberpunk.json) |
