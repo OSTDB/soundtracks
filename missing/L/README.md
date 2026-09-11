@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lesbian Vampire Simulator | 177531 | [177531-lesbian-vampire-simulator.json](./177531-lesbian-vampire-simulator.json) |
 | Leshy Prelude | 321117 | [321117-leshy-prelude.json](./321117-leshy-prelude.json) |
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
+| Lesson | 111658 | [111658-lesson.json](./111658-lesson.json) |
 | Lessons in Love | 182472 | [182472-lessons-in-love.json](./182472-lessons-in-love.json) |
 | Let Bions be Bygones | 202860 | [202860-let-bions-be-bygones.json](./202860-let-bions-be-bygones.json) |
 | Let Him Cook | 265138 | [265138-let-him-cook.json](./265138-let-him-cook.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
 | Lonely People Potion Shop | 152279 | [152279-lonely-people-potion-shop.json](./152279-lonely-people-potion-shop.json) |
+| Lonely shooter | 111680 | [111680-lonely-shooter.json](./111680-lonely-shooter.json) |
 | Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
 | Lonely Things | 181887 | [181887-lonely-things.json](./181887-lonely-things.json) |
 | Lonely Tribes | 192372 | [192372-lonely-tribes.json](./192372-lonely-tribes.json) |
