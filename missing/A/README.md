@@ -28,7 +28,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
-| A Day to Bring Them Happiness | 314042 | [314042-a-day-to-bring-them-happiness.json](./314042-a-day-to-bring-them-happiness.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Deep Dive | 349872 | [349872-a-deep-dive.json](./349872-a-deep-dive.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
