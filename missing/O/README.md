@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Shadow | 232438 | [232438-old-shadow.json](./232438-old-shadow.json) |
 | Old Skool Classics | 93569 | [93569-old-skool-classics.json](./93569-old-skool-classics.json) |
 | Old Skool Racer | 156609 | [156609-old-skool-racer.json](./156609-old-skool-racer.json) |
+| Old Time Baseball | 94671 | [94671-old-time-baseball.json](./94671-old-time-baseball.json) |
 | Old Times | 294169 | [294169-old-times.json](./294169-old-times.json) |
 | Old Towers | 126017 | [126017-old-towers.json](./126017-old-towers.json) |
 | Old Town Bus Simulator | 250959 | [250959-old-town-bus-simulator.json](./250959-old-town-bus-simulator.json) |
