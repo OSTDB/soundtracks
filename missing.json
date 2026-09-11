@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T21:17:40.804Z",
-  "total_missing": 59378,
+  "generated_at": "2026-09-11T21:20:51.450Z",
+  "total_missing": 59377,
   "games": [
     {
       "igdb_id": 306086,
@@ -2436,11 +2436,6 @@
       "igdb_id": 201290,
       "game_name": "A Second Chance",
       "file": "missing/A/201290-a-second-chance.json"
-    },
-    {
-      "igdb_id": 276503,
-      "game_name": "A Sensei's Story",
-      "file": "missing/A/276503-a-senseis-story.json"
     },
     {
       "igdb_id": 243418,
