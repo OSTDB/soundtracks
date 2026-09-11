@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
+| From Earth | 127928 | [127928-from-earth.json](./127928-from-earth.json) |
 | From Fire Emergence | 302928 | [302928-from-fire-emergence.json](./302928-from-fire-emergence.json) |
 | From Flames | 127977 | [127977-from-flames.json](./127977-from-flames.json) |
 | From Four Sides | 296090 | [296090-from-four-sides.json](./296090-from-four-sides.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Times at Homer's | 383384 | [383384-fun-times-at-homers.json](./383384-fun-times-at-homers.json) |
 | Fun With the Fitzgeralds | 262946 | [262946-fun-with-the-fitzgeralds.json](./262946-fun-with-the-fitzgeralds.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
+| Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
 | Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
 | Funeral Toll | 272837 | [272837-funeral-toll.json](./272837-funeral-toll.json) |
