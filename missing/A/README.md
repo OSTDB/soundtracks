@@ -16,7 +16,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Business Tycoon | 68025 | [68025-a-business-tycoon.json](./68025-a-business-tycoon.json) |
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
-| A Cat in Dungeons | 149573 | [149573-a-cat-in-dungeons.json](./149573-a-cat-in-dungeons.json) |
 | A Certain Erotic Daily Scenes | 82930 | [82930-a-certain-erotic-daily-scenes.json](./82930-a-certain-erotic-daily-scenes.json) |
 | A Certain Incremental Exoplanet | 389999 | [389999-a-certain-incremental-exoplanet.json](./389999-a-certain-incremental-exoplanet.json) |
 | A Chat with Charon | 138254 | [138254-a-chat-with-charon.json](./138254-a-chat-with-charon.json) |
@@ -554,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Hero | 66714 | [66714-action-hero.json](./66714-action-hero.json) |
 | Action Mahjong | 29871 | [29871-action-mahjong.json](./29871-action-mahjong.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
+| Action Painting Pro | 128587 | [128587-action-painting-pro.json](./128587-action-painting-pro.json) |
 | Action Replay Max | 43302 | [43302-action-replay-max.json](./43302-action-replay-max.json) |
 | Action Toys | 193953 | [193953-action-toys.json](./193953-action-toys.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
