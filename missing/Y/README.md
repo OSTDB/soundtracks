@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Will Select a Decision | 60015 | [60015-you-will-select-a-decision.json](./60015-you-will-select-a-decision.json) |
 | You You N Music | 159800 | [159800-you-you-n-music.json](./159800-you-you-n-music.json) |
 | You, Me and Empty Words | 150153 | [150153-you-me-and-empty-words.json](./150153-you-me-and-empty-words.json) |
+| You: The Untold Stories | 106543 | [106543-you-the-untold-stories.json](./106543-you-the-untold-stories.json) |
 | You... and who else? | 33098 | [33098-you-and-who-else.json](./33098-you-and-who-else.json) |
 | You'll Stay Here Forever | 250346 | [250346-youll-stay-here-forever.json](./250346-youll-stay-here-forever.json) |
 | You're Boned | 287672 | [287672-youre-boned.json](./287672-youre-boned.json) |
