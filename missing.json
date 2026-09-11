@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T05:19:06.123Z",
-  "total_missing": 56734,
+  "generated_at": "2026-09-11T05:21:05.333Z",
+  "total_missing": 56733,
   "games": [
     {
       "igdb_id": 306086,
@@ -1936,11 +1936,6 @@
       "igdb_id": 341469,
       "game_name": "A Dog Called Buddy",
       "file": "missing/A/341469-a-dog-called-buddy.json"
-    },
-    {
-      "igdb_id": 241045,
-      "game_name": "A Doodle Fly",
-      "file": "missing/A/241045-a-doodle-fly.json"
     },
     {
       "igdb_id": 236808,
