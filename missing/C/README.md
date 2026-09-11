@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl | 344943 | [344943-catgirl.json](./344943-catgirl.json) |
 | Catgirl & Doggirl Cafe | 199057 | [199057-catgirl-and-doggirl-cafe.json](./199057-catgirl-and-doggirl-cafe.json) |
 | Catgirl Aim Trainer | 310213 | [310213-catgirl-aim-trainer.json](./310213-catgirl-aim-trainer.json) |
+| Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
 | Catherine | 2151 | [2151-catherine.json](./2151-catherine.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations Live - Kuril Sunrise | 167867 | [167867-command-modern-operations-live-kuril-sunrise.json](./167867-command-modern-operations-live-kuril-sunrise.json) |
 | Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
 | Command: Showcase - Operation Desert Falcon | 266793 | [266793-command-showcase-operation-desert-falcon.json](./266793-command-showcase-operation-desert-falcon.json) |
+| Commander Babes | 127930 | [127930-commander-babes.json](./127930-commander-babes.json) |
 | Commander in Chief: Geo-Political Simulator 2009 | 135166 | [135166-commander-in-chief-geo-political-simulator-2009.json](./135166-commander-in-chief-geo-political-simulator-2009.json) |
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
@@ -2239,9 +2241,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3: Console Edition | 228537 | [228537-company-of-heroes-3-console-edition.json](./228537-company-of-heroes-3-console-edition.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
+| Company of Heroes: Battle of Crete | 127909 | [127909-company-of-heroes-battle-of-crete.json](./127909-company-of-heroes-battle-of-crete.json) |
+| Company of Heroes: Blitzkrieg Mod | 127910 | [127910-company-of-heroes-blitzkrieg-mod.json](./127910-company-of-heroes-blitzkrieg-mod.json) |
+| Company of Heroes: Eastern Front | 127898 | [127898-company-of-heroes-eastern-front.json](./127898-company-of-heroes-eastern-front.json) |
+| Company of Heroes: Europe at War | 127899 | [127899-company-of-heroes-europe-at-war.json](./127899-company-of-heroes-europe-at-war.json) |
+| Company of Heroes: Far East War | 127897 | [127897-company-of-heroes-far-east-war.json](./127897-company-of-heroes-far-east-war.json) |
 | Company of Heroes: Gold Edition | 21804 | [21804-company-of-heroes-gold-edition.json](./21804-company-of-heroes-gold-edition.json) |
 | Company of Heroes: Legacy Edition | 84532 | [84532-company-of-heroes-legacy-edition.json](./84532-company-of-heroes-legacy-edition.json) |
 | Company of Heroes: Limited Edition | 24189 | [24189-company-of-heroes-limited-edition.json](./24189-company-of-heroes-limited-edition.json) |
+| Company of Heroes: Modern Combat | 127895 | [127895-company-of-heroes-modern-combat.json](./127895-company-of-heroes-modern-combat.json) |
 | Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
 | Compassion | 179680 | [179680-compassion.json](./179680-compassion.json) |
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
@@ -2525,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
+| CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
 | Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
