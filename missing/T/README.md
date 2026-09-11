@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
 | Tamagotchi Angel | 320176 | [320176-tamagotchi-angel.json](./320176-tamagotchi-angel.json) |
+| Tamagotchi CD-ROM | 98933 | [98933-tamagotchi-cd-rom.json](./98933-tamagotchi-cd-rom.json) |
 | Tamagotchi Connection | 229942 | [229942-tamagotchi-connection.json](./229942-tamagotchi-connection.json) |
 | Tamagotchi Connection V2 | 229943 | [229943-tamagotchi-connection-v2.json](./229943-tamagotchi-connection-v2.json) |
 | Tamagotchi Connection V3 | 229945 | [229945-tamagotchi-connection-v3.json](./229945-tamagotchi-connection-v3.json) |
@@ -6157,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
 | Turma da Mônica em O Resgate | 246679 | [246679-turma-da-monica-em-o-resgate.json](./246679-turma-da-monica-em-o-resgate.json) |
+| Turma da Mônica na Terra dos Monstros | 98931 | [98931-turma-da-monica-na-terra-dos-monstros.json](./98931-turma-da-monica-na-terra-dos-monstros.json) |
 | Turma do Arrepio: Grand Prix | 249456 | [249456-turma-do-arrepio-grand-prix.json](./249456-turma-do-arrepio-grand-prix.json) |
 | Turma do Chico Bento | 251580 | [251580-turma-do-chico-bento.json](./251580-turma-do-chico-bento.json) |
 | Turmoil | 19438 | [19438-turmoil.json](./19438-turmoil.json) |
