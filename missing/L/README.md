@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings & Oh No! More Lemmings | 242242 | [242242-lemmings-and-oh-no-more-lemmings.json](./242242-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243377 | [243377-lemmings-and-oh-no-more-lemmings.json](./243377-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings & Oh No! More Lemmings | 243686 | [243686-lemmings-and-oh-no-more-lemmings.json](./243686-lemmings-and-oh-no-more-lemmings.json) |
+| Lemmings & Oh No! More Lemmings | 80535 | [80535-lemmings-and-oh-no-more-lemmings.json](./80535-lemmings-and-oh-no-more-lemmings.json) |
 | Lemmings 2: The Tribes | 243941 | [243941-lemmings-2-the-tribes.json](./243941-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 245307 | [245307-lemmings-2-the-tribes.json](./245307-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 8307 | [8307-lemmings-2-the-tribes.json](./8307-lemmings-2-the-tribes.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In The Store | 408064 | [408064-lost-in-the-store.json](./408064-lost-in-the-store.json) |
 | Lost in the tomb | 74473 | [74473-lost-in-the-tomb.json](./74473-lost-in-the-tomb.json) |
 | Lost In Time | 171602 | [171602-lost-in-time.json](./171602-lost-in-time.json) |
+| Lost in Time: Parts 1 & 2 | 80536 | [80536-lost-in-time-parts-1-and-2.json](./80536-lost-in-time-parts-1-and-2.json) |
 | Lost In Transit | 375867 | [375867-lost-in-transit.json](./375867-lost-in-transit.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
 | Lost Inside: Act 1 | 291751 | [291751-lost-inside-act-1.json](./291751-lost-inside-act-1.json) |
