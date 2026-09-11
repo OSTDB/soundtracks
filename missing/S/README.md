@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
 | Shatter | 358281 | [358281-shatter.json](./358281-shatter.json) |
 | Shatter and Spin | 293383 | [293383-shatter-and-spin.json](./293383-shatter-and-spin.json) |
+| Shatter Everything | 96692 | [96692-shatter-everything.json](./96692-shatter-everything.json) |
 | Shatter Keep | 146826 | [146826-shatter-keep.json](./146826-shatter-keep.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
 | Shattered Hourglass | 133422 | [133422-shattered-hourglass.json](./133422-shattered-hourglass.json) |
@@ -2480,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | Sleepthrough | 230264 | [230264-sleepthrough.json](./230264-sleepthrough.json) |
+| Sleepwalker | 96686 | [96686-sleepwalker.json](./96686-sleepwalker.json) |
 | SleepWalker | 117718 | [117718-sleepwalker.json](./117718-sleepwalker.json) |
 | Sleepwalking | 318388 | [318388-sleepwalking.json](./318388-sleepwalking.json) |
 | Sleepy Girl | 343801 | [343801-sleepy-girl.json](./343801-sleepy-girl.json) |
@@ -2635,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smackitball | 33036 | [33036-smackitball.json](./33036-smackitball.json) |
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
+| Small Buttons | 96768 | [96768-small-buttons.json](./96768-small-buttons.json) |
 | Small Kingdoms | 262959 | [262959-small-kingdoms.json](./262959-small-kingdoms.json) |
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small Rockets Mahjongg | 208956 | [208956-small-rockets-mahjongg.json](./208956-small-rockets-mahjongg.json) |
@@ -3976,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
+| Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum Valley | 184132 | [184132-spectrum-valley.json](./184132-spectrum-valley.json) |
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
@@ -4509,6 +4513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
 | Star Birds | 305171 | [305171-star-birds.json](./305171-star-birds.json) |
 | Star Blues | 216795 | [216795-star-blues.json](./216795-star-blues.json) |
+| Star Boy | 96676 | [96676-star-boy.json](./96676-star-boy.json) |
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Castle PC | 95420 | [95420-star-castle-pc.json](./95420-star-castle-pc.json) |
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
@@ -5232,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strania: The Stella Machina - EX | 328477 | [328477-strania-the-stella-machina-ex.json](./328477-strania-the-stella-machina-ex.json) |
 | Stratagem | 289311 | [289311-stratagem.json](./289311-stratagem.json) |
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
+| Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
@@ -5788,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Choppy Orc | 219581 | [219581-super-choppy-orc.json](./219581-super-choppy-orc.json) |
 | Super Chroma Bots: Season One | 283682 | [283682-super-chroma-bots-season-one.json](./283682-super-chroma-bots-season-one.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
+| Super Chuckie Egg | 96709 | [96709-super-chuckie-egg.json](./96709-super-chuckie-egg.json) |
 | Super Clash Crossover | 120413 | [120413-super-clash-crossover.json](./120413-super-clash-crossover.json) |
 | Super Climb Up!! | 377053 | [377053-super-climb-up.json](./377053-super-climb-up.json) |
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
@@ -6219,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Over! | 244799 | [244799-super-over.json](./244799-super-over.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
+| Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
 | Super Panic Monsters | 71510 | [71510-super-panic-monsters.json](./71510-super-panic-monsters.json) |
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
