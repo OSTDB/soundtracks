@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece of Mind | 143649 | [143649-piece-of-mind.json](./143649-piece-of-mind.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
 | Pieces of Beauty 2 | 190173 | [190173-pieces-of-beauty-2.json](./190173-pieces-of-beauty-2.json) |
+| Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Pierhead Arcade 2 | 188081 | [188081-pierhead-arcade-2.json](./188081-pierhead-arcade-2.json) |
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
@@ -2122,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
+| Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poodle Kick | 391608 | [391608-poodle-kick.json](./391608-poodle-kick.json) |
 | Poogers | 223131 | [223131-poogers.json](./223131-poogers.json) |
