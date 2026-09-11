@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T09:03:50.861Z",
-  "total_missing": 57376,
+  "generated_at": "2026-09-11T09:11:07.659Z",
+  "total_missing": 57375,
   "games": [
     {
       "igdb_id": 306086,
@@ -2051,11 +2051,6 @@
       "igdb_id": 106621,
       "game_name": "A Good Librarian Like a Good Shepherd",
       "file": "missing/A/106621-a-good-librarian-like-a-good-shepherd.json"
-    },
-    {
-      "igdb_id": 278176,
-      "game_name": "A group of beauties surrounded me",
-      "file": "missing/A/278176-a-group-of-beauties-surrounded-me.json"
     },
     {
       "igdb_id": 293930,
