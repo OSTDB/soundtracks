@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heidelberg 1693 | 135841 | [135841-heidelberg-1693.json](./135841-heidelberg-1693.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
+| Heir of Darkness | 127250 | [127250-heir-of-darkness.json](./127250-heir-of-darkness.json) |
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
 | Heisei Kyouiku Iinkai Jr. Mezase Yuutousei | 303758 | [303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json](./303758-heisei-kyouiku-iinkai-jr-mezase-yuutousei.json) |
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
@@ -1152,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
+| Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
 | Hexpand | 410909 | [410909-hexpand.json](./410909-hexpand.json) |
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
@@ -1333,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
 | Highway Drifter: Hajwala Simulator | 284927 | [284927-highway-drifter-hajwala-simulator.json](./284927-highway-drifter-hajwala-simulator.json) |
+| Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
 | Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
