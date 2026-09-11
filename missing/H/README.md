@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
 | Hello Puppets: Midnight Show | 159805 | [159805-hello-puppets-midnight-show.json](./159805-hello-puppets-midnight-show.json) |
+| Hello Racoon Neighbor | 102723 | [102723-hello-racoon-neighbor.json](./102723-hello-racoon-neighbor.json) |
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
 | Hello World | 367420 | [367420-hello-world.json](./367420-hello-world.json) |
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
@@ -1270,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object Ancient Dragons | 104624 | [104624-hidden-object-ancient-dragons.json](./104624-hidden-object-ancient-dragons.json) |
+| Hidden Object Bachelorette | 102733 | [102733-hidden-object-bachelorette.json](./102733-hidden-object-bachelorette.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
 | Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
@@ -1351,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Daze: Afterschool Stories | 264349 | [264349-high-school-daze-afterschool-stories.json](./264349-high-school-daze-afterschool-stories.json) |
 | High School Daze: Junior Year | 264348 | [264348-high-school-daze-junior-year.json](./264348-high-school-daze-junior-year.json) |
 | High School Girl Life Sim 3D | 297504 | [297504-high-school-girl-life-sim-3d.json](./297504-high-school-girl-life-sim-3d.json) |
+| High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Musical: All Together Now | 220094 | [220094-high-school-musical-all-together-now.json](./220094-high-school-musical-all-together-now.json) |
 | High School Musical: DVD Game | 228419 | [228419-high-school-musical-dvd-game.json](./228419-high-school-musical-dvd-game.json) |
 | High School of Blitz | 166207 | [166207-high-school-of-blitz.json](./166207-high-school-of-blitz.json) |
