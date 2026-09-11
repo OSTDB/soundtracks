@@ -1742,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hontou ni Atta Real Otogi-banashi | 251611 | [251611-hontou-ni-atta-real-otogi-banashi.json](./251611-hontou-ni-atta-real-otogi-banashi.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
 | Hoodwink | 20820 | [20820-hoodwink.json](./20820-hoodwink.json) |
+| Hoofdrekenen | 98950 | [98950-hoofdrekenen.json](./98950-hoofdrekenen.json) |
 | Hook | 78145 | [78145-hook.json](./78145-hook.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
 | Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
