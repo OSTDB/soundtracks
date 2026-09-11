@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
+| Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
 | College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
 | College Bound: Episode 4 | 207504 | [207504-college-bound-episode-4.json](./207504-college-bound-episode-4.json) |
 | College Bowl | 249183 | [249183-college-bowl.json](./249183-college-bowl.json) |
@@ -2100,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony: A Space RPG | 208025 | [208025-colony-a-space-rpg.json](./208025-colony-a-space-rpg.json) |
 | Colony: Part I The Moon Castle | 302937 | [302937-colony-part-i-the-moon-castle.json](./302937-colony-part-i-the-moon-castle.json) |
 | ColonyShip-4: Survivors | 110378 | [110378-colonyship-4-survivors.json](./110378-colonyship-4-survivors.json) |
+| colopl Cyberpong VR | 110303 | [110303-colopl-cyberpong-vr.json](./110303-colopl-cyberpong-vr.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
 | Color Blind: The Game | 231397 | [231397-color-blind-the-game.json](./231397-color-blind-the-game.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
@@ -3403,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
 | Cuby Bop | 39675 | [39675-cuby-bop.json](./39675-cuby-bop.json) |
+| CubyJump | 110308 | [110308-cubyjump.json](./110308-cubyjump.json) |
 | Cubytet | 191188 | [191188-cubytet.json](./191188-cubytet.json) |
 | Cubzh | 250020 | [250020-cubzh.json](./250020-cubzh.json) |
 | Cucina Stellata: Starred Cuisine | 341891 | [341891-cucina-stellata-starred-cuisine.json](./341891-cucina-stellata-starred-cuisine.json) |
