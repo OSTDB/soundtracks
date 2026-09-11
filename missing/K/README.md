@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Bot Classic | 137089 | [137089-kick-bot-classic.json](./137089-kick-bot-classic.json) |
 | Kick Buds | 401544 | [401544-kick-buds.json](./401544-kick-buds.json) |
 | Kick Buttowski: Loco Launcho | 234895 | [234895-kick-buttowski-loco-launcho.json](./234895-kick-buttowski-loco-launcho.json) |
+| Kick It | 94198 | [94198-kick-it.json](./94198-kick-it.json) |
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
