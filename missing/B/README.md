@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bardarts | 141222 | [141222-bardarts.json](./141222-bardarts.json) |
 | Bardic: Quest for Love | 270100 | [270100-bardic-quest-for-love.json](./270100-bardic-quest-for-love.json) |
 | Bardo | 109727 | [109727-bardo.json](./109727-bardo.json) |
+| Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Barf Royale | 401510 | [401510-barf-royale.json](./401510-barf-royale.json) |
@@ -3027,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Building our Futature | 223500 | [223500-building-our-futature.json](./223500-building-our-futature.json) |
 | Building Relationships | 152275 | [152275-building-relationships.json](./152275-building-relationships.json) |
 | Built by Force | 372457 | [372457-built-by-force.json](./372457-built-by-force.json) |
+| Buissons | 123543 | [123543-buissons.json](./123543-buissons.json) |
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bulb Boy 2: Jar of Despair | 172747 | [172747-bulb-boy-2-jar-of-despair.json](./172747-bulb-boy-2-jar-of-despair.json) |
