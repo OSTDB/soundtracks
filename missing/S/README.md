@@ -3046,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solasta: Crown of the Magister - Lost Valley | 195735 | [195735-solasta-crown-of-the-magister-lost-valley.json](./195735-solasta-crown-of-the-magister-lost-valley.json) |
 | Solasta: Crown of the Magister - Primal Calling | 186870 | [186870-solasta-crown-of-the-magister-primal-calling.json](./186870-solasta-crown-of-the-magister-primal-calling.json) |
 | Solasta: Lightbringers Edition | 251208 | [251208-solasta-lightbringers-edition.json](./251208-solasta-lightbringers-edition.json) |
+| Solbot Energy Rush | 105401 | [105401-solbot-energy-rush.json](./105401-solbot-energy-rush.json) |
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
@@ -5776,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
 | Super Final Strike | 255736 | [255736-super-final-strike.json](./255736-super-final-strike.json) |
+| Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
@@ -5794,6 +5796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
 | Super Head Esploder X | 87263 | [87263-super-head-esploder-x.json](./87263-super-head-esploder-x.json) |
+| Super Helpful Man | 105288 | [105288-super-helpful-man.json](./105288-super-helpful-man.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
 | Super Hero Boy: A Platform Adventure | 248281 | [248281-super-hero-boy-a-platform-adventure.json](./248281-super-hero-boy-a-platform-adventure.json) |
 | Super Hero Demolition | 251595 | [251595-super-hero-demolition.json](./251595-super-hero-demolition.json) |
