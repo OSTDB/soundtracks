@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Grand Edition | 315860 | [315860-knights-and-guns-grand-edition.json](./315860-knights-and-guns-grand-edition.json) |
 | Knights & Guns: Platinum Edition | 274494 | [274494-knights-and-guns-platinum-edition.json](./274494-knights-and-guns-platinum-edition.json) |
 | Knights & Guns: Ultimate Edition | 283142 | [283142-knights-and-guns-ultimate-edition.json](./283142-knights-and-guns-ultimate-edition.json) |
+| Knights & Slimes | 115649 | [115649-knights-and-slimes.json](./115649-knights-and-slimes.json) |
 | Knights and Bikes | 25584 | [25584-knights-and-bikes.json](./25584-knights-and-bikes.json) |
 | Knights and Craftsmen | 223689 | [223689-knights-and-craftsmen.json](./223689-knights-and-craftsmen.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
