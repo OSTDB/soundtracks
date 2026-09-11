@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 17 | 377062 | [377062-laruaville-17.json](./377062-laruaville-17.json) |
 | Laruaville 4 Christmas Match 3 Puzzle | 227874 | [227874-laruaville-4-christmas-match-3-puzzle.json](./227874-laruaville-4-christmas-match-3-puzzle.json) |
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
+| Las Vegas | 91384 | [91384-las-vegas.json](./91384-las-vegas.json) |
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
 | Laser | 322581 | [322581-laser.json](./322581-laser.json) |
@@ -1016,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
 | Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
 | Lineoff | 181913 | [181913-lineoff.json](./181913-lineoff.json) |
+| Lines | 91339 | [91339-lines.json](./91339-lines.json) |
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
@@ -1781,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludicrium | 312924 | [312924-ludicrium.json](./312924-ludicrium.json) |
 | Ludicrous Speed | 102162 | [102162-ludicrous-speed.json](./102162-ludicrous-speed.json) |
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
+| Ludo Ultimate Online Dice Game | 91343 | [91343-ludo-ultimate-online-dice-game.json](./91343-ludo-ultimate-online-dice-game.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
