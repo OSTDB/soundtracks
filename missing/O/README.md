@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oib.io | 86079 | [86079-oib-io.json](./86079-oib-io.json) |
 | Oide Rascal | 125422 | [125422-oide-rascal.json](./125422-oide-rascal.json) |
 | Oik 5: DLC | 171626 | [171626-oik-5-dlc.json](./171626-oik-5-dlc.json) |
+| Oik Memory 3 | 114976 | [114976-oik-memory-3.json](./114976-oik-memory-3.json) |
 | Oil Baron | 366254 | [366254-oil-baron.json](./366254-oil-baron.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
