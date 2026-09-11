@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
+| 123 Kids Fun Puzzle Red | 89166 | [89166-123-kids-fun-puzzle-red.json](./89166-123-kids-fun-puzzle-red.json) |
 | 123Babycount | 89724 | [89724-123babycount.json](./89724-123babycount.json) |
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
@@ -322,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Islands | 124190 | [124190-4islands.json](./124190-4islands.json) |
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
 | 4th Era: The RuneChild | 120320 | [120320-4th-era-the-runechild.json](./120320-4th-era-the-runechild.json) |
+| 4x4 Dirt Track Forest Driving | 89197 | [89197-4x4-dirt-track-forest-driving.json](./89197-4x4-dirt-track-forest-driving.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
