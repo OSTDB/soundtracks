@@ -5566,6 +5566,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | Subwords | 173801 | [173801-subwords.json](./173801-subwords.json) |
+| Successfully Learning German: Year 3 | 85407 | [85407-successfully-learning-german-year-3.json](./85407-successfully-learning-german-year-3.json) |
+| Successfully Learning German: Year 4 | 85406 | [85406-successfully-learning-german-year-4.json](./85406-successfully-learning-german-year-4.json) |
 | Successor of the Moon | 115578 | [115578-successor-of-the-moon.json](./115578-successor-of-the-moon.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
@@ -5602,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku 9X16X25 | 119771 | [119771-sudoku-9x16x25.json](./119771-sudoku-9x16x25.json) |
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
 | Sudoku Baron | 86914 | [86914-sudoku-baron.json](./86914-sudoku-baron.json) |
+| Sudoku by Nikoli | 85409 | [85409-sudoku-by-nikoli.json](./85409-sudoku-by-nikoli.json) |
 | Sudoku Candy Witch | 246969 | [246969-sudoku-candy-witch.json](./246969-sudoku-candy-witch.json) |
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Classic 2 | 328479 | [328479-sudoku-classic-2.json](./328479-sudoku-classic-2.json) |
@@ -6436,6 +6439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
 | Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
+| Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
 | Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
 | Super Vadimka III: Enter ALJ | 202324 | [202324-super-vadimka-iii-enter-alj.json](./202324-super-vadimka-iii-enter-alj.json) |
@@ -6561,6 +6565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: The Noise She Couldn't Make | 139919 | [139919-surface-the-noise-she-couldnt-make.json](./139919-surface-the-noise-she-couldnt-make.json) |
 | Surfacer+ | 85529 | [85529-surfacer.json](./85529-surfacer.json) |
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
+| Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
 | Surfing H3O | 43344 | [43344-surfing-h3o.json](./43344-surfing-h3o.json) |
 | Surfingers | 33613 | [33613-surfingers.json](./33613-surfingers.json) |
 | Surfwords | 219573 | [219573-surfwords.json](./219573-surfwords.json) |
@@ -6652,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
 | Survivor Warrior-Vampire.io | 245342 | [245342-survivor-warrior-vampire-io.json](./245342-survivor-warrior-vampire-io.json) |
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
+| Survivor: Heroes | 85415 | [85415-survivor-heroes.json](./85415-survivor-heroes.json) |
 | Survivor: Stay in the Light | 232980 | [232980-survivor-stay-in-the-light.json](./232980-survivor-stay-in-the-light.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
@@ -6671,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
+| Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
 | Suspicious Person Information | 275904 | [275904-suspicious-person-information.json](./275904-suspicious-person-information.json) |
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
@@ -6762,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Treats | 104043 | [104043-sweet-treats.json](./104043-sweet-treats.json) |
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
+| Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
 | Sweetie Candy Maze: Brown Chocolate | 398322 | [398322-sweetie-candy-maze-brown-chocolate.json](./398322-sweetie-candy-maze-brown-chocolate.json) |
 | Sweets and Swipes | 259555 | [259555-sweets-and-swipes.json](./259555-sweets-and-swipes.json) |
 | Sweets Drop | 283721 | [283721-sweets-drop.json](./283721-sweets-drop.json) |
@@ -6868,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Bones 4 | 296359 | [296359-swords-and-bones-4.json](./296359-swords-and-bones-4.json) |
 | Swords & Bones 5 | 360592 | [360592-swords-and-bones-5.json](./360592-swords-and-bones-5.json) |
 | Swords & Bones: Complete Edition | 250365 | [250365-swords-and-bones-complete-edition.json](./250365-swords-and-bones-complete-edition.json) |
+| Swords & Darkness | 85411 | [85411-swords-and-darkness.json](./85411-swords-and-darkness.json) |
 | Swords & Soldiers | 210258 | [210258-swords-and-soldiers.json](./210258-swords-and-soldiers.json) |
 | Swords & Soldiers | 210261 | [210261-swords-and-soldiers.json](./210261-swords-and-soldiers.json) |
 | Swords & Soldiers | 210262 | [210262-swords-and-soldiers.json](./210262-swords-and-soldiers.json) |
