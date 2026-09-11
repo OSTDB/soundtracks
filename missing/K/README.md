@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
 | Karaoke Revolution Presents: American Idol Encore 2 | 47432 | [47432-karaoke-revolution-presents-american-idol-encore-2.json](./47432-karaoke-revolution-presents-american-idol-encore-2.json) |
 | Karaoke Revolution: Glee | 50618 | [50618-karaoke-revolution-glee.json](./50618-karaoke-revolution-glee.json) |
+| Karaoke Studio | 79252 | [79252-karaoke-studio.json](./79252-karaoke-studio.json) |
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
 | Karate Krab | 76650 | [76650-karate-krab.json](./76650-karate-krab.json) |
