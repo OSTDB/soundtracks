@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Dreamscape | 103442 | [103442-welcome-to-the-dreamscape.json](./103442-welcome-to-the-dreamscape.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
+| Welcome to the Kawai | 97837 | [97837-welcome-to-the-kawai.json](./97837-welcome-to-the-kawai.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
 | Welcome To... Chicheser OVN 3 : The Mysterious Affair At The Violet Hotel | 131587 | [131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome To... Chichester 3: Original Episode | 169960 | [169960-welcome-to-chichester-3-original-episode.json](./169960-welcome-to-chichester-3-original-episode.json) |
@@ -643,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westurn | 209460 | [209460-westurn.json](./209460-westurn.json) |
 | Westward III: Gold Rush | 59436 | [59436-westward-iii-gold-rush.json](./59436-westward-iii-gold-rush.json) |
 | Westward Journey Online | 62181 | [62181-westward-journey-online.json](./62181-westward-journey-online.json) |
+| Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
