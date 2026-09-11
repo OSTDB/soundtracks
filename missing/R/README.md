@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
 | Reksio i Kretes: Tajemnica Trzeciego Wymiaru | 218499 | [218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json](./218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json) |
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
+| Reky | 122329 | [122329-reky.json](./122329-reky.json) |
 | Relapse | 208585 | [208585-relapse.json](./208585-relapse.json) |
 | Related | 133380 | [133380-related.json](./133380-related.json) |
 | Relativity | 31637 | [31637-relativity.json](./31637-relativity.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant: In Memory Of The Day | 334494 | [334494-revenant-in-memory-of-the-day.json](./334494-revenant-in-memory-of-the-day.json) |
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
+| Revenge of Justice | 122349 | [122349-revenge-of-justice.json](./122349-revenge-of-justice.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
 | Revenge of Noxi | 254148 | [254148-revenge-of-noxi.json](./254148-revenge-of-noxi.json) |
 | Revenge of the 'Gator: Gold | 257393 | [257393-revenge-of-the-gator-gold.json](./257393-revenge-of-the-gator-gold.json) |
@@ -2210,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
 | Run TavernQuest | 132835 | [132835-run-tavernquest.json](./132835-run-tavernquest.json) |
+| Run the Fan | 122361 | [122361-run-the-fan.json](./122361-run-the-fan.json) |
 | Run the Rings | 323520 | [323520-run-the-rings.json](./323520-run-the-rings.json) |
 | Run Think Shoot | 253041 | [253041-run-think-shoot.json](./253041-run-think-shoot.json) |
 | Run to Infinity | 227841 | [227841-run-to-infinity.json](./227841-run-to-infinity.json) |
