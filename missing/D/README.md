@@ -855,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
+| Deep Sea | 124155 | [124155-deep-sea.json](./124155-deep-sea.json) |
 | Deep Sea Arena | 344350 | [344350-deep-sea-arena.json](./344350-deep-sea-arena.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
@@ -3172,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Dunkehr | 141181 | [141181-dunkehr.json](./141181-dunkehr.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
+| Dunrog | 124203 | [124203-dunrog.json](./124203-dunrog.json) |
 | Dunwell | 133990 | [133990-dunwell.json](./133990-dunwell.json) |
 | Duo Defenders | 172157 | [172157-duo-defenders.json](./172157-duo-defenders.json) |
 | Duo Quest | 335274 | [335274-duo-quest.json](./335274-duo-quest.json) |
@@ -3184,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durga: The Lionhearted | 352203 | [352203-durga-the-lionhearted.json](./352203-durga-the-lionhearted.json) |
 | Duriano | 311483 | [311483-duriano.json](./311483-duriano.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
+| Dusk Golem's Anthology of Horror | 124193 | [124193-dusk-golems-anthology-of-horror.json](./124193-dusk-golems-anthology-of-horror.json) |
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
