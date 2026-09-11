@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
+| Catan: Das Kartenspiel | 98936 | [98936-catan-das-kartenspiel.json](./98936-catan-das-kartenspiel.json) |
 | catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
 | Cataplexy | 186826 | [186826-cataplexy.json](./186826-cataplexy.json) |
 | Catapult Battle Simulator! | 122399 | [122399-catapult-battle-simulator.json](./122399-catapult-battle-simulator.json) |
@@ -1747,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
 | Clash of Evil: The Comeback | 272815 | [272815-clash-of-evil-the-comeback.json](./272815-clash-of-evil-the-comeback.json) |
 | Clash of Fingers | 237958 | [237958-clash-of-fingers.json](./237958-clash-of-fingers.json) |
+| Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
@@ -2984,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Climber 2000 | 77399 | [77399-crazy-climber-2000.json](./77399-crazy-climber-2000.json) |
 | Crazy Cop | 39676 | [39676-crazy-cop.json](./39676-crazy-cop.json) |
 | Crazy Counting | 231622 | [231622-crazy-counting.json](./231622-crazy-counting.json) |
+| Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
 | Crazy Flasher Series 2021 | 157146 | [157146-crazy-flasher-series-2021.json](./157146-crazy-flasher-series-2021.json) |
 | Crazy for Speed 2 | 105872 | [105872-crazy-for-speed-2.json](./105872-crazy-for-speed-2.json) |
@@ -3187,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croquet Pro | 111727 | [111727-croquet-pro.json](./111727-croquet-pro.json) |
 | Croquet Pro 2 | 111728 | [111728-croquet-pro-2.json](./111728-croquet-pro-2.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
+| Cross Country Skiing VR | 99035 | [99035-cross-country-skiing-vr.json](./99035-cross-country-skiing-vr.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross or Crash | 241993 | [241993-cross-or-crash.json](./241993-cross-or-crash.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
