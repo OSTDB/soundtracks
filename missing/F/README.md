@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fieldrunners | 9839 | [9839-fieldrunners.json](./9839-fieldrunners.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
 | Fiend Hunter | 55897 | [55897-fiend-hunter.json](./55897-fiend-hunter.json) |
+| Fiend Legion | 110393 | [110393-fiend-legion.json](./110393-fiend-legion.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
 | Fierce Dragon Godzilla: Metropolis Destruction!! | 75885 | [75885-fierce-dragon-godzilla-metropolis-destruction.json](./75885-fierce-dragon-godzilla-metropolis-destruction.json) |
 | Fierce Tales: Feline Sight | 123637 | [123637-fierce-tales-feline-sight.json](./123637-fierce-tales-feline-sight.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
+| Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
 | final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
@@ -941,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
 | Finding Fern | 239659 | [239659-finding-fern.json](./239659-finding-fern.json) |
 | Finding Hannah | 237954 | [237954-finding-hannah.json](./237954-finding-hannah.json) |
+| Finding Light | 110390 | [110390-finding-light.json](./110390-finding-light.json) |
 | Finding Mosey | 214158 | [214158-finding-mosey.json](./214158-finding-mosey.json) |
 | Finding Nemo: Nemo's Underwater World of Fun | 18258 | [18258-finding-nemo-nemos-underwater-world-of-fun.json](./18258-finding-nemo-nemos-underwater-world-of-fun.json) |
 | Finding Santa Christmas Special | 175440 | [175440-finding-santa-christmas-special.json](./175440-finding-santa-christmas-special.json) |
@@ -1689,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
 | For Elise | 257070 | [257070-for-elise.json](./257070-for-elise.json) |
 | For Enigma | 258450 | [258450-for-enigma.json](./258450-for-enigma.json) |
+| For Eternity | 110309 | [110309-for-eternity.json](./110309-for-eternity.json) |
 | For Honor: Ezio Auditore – Peacekeeper Hero Skin | 305765 | [305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json](./305765-for-honor-ezio-auditore-peacekeeper-hero-skin.json) |
 | For Honor: Gold Heroes Pack | 305766 | [305766-for-honor-gold-heroes-pack.json](./305766-for-honor-gold-heroes-pack.json) |
 | For Honor: Gryphon Hero | 170438 | [170438-for-honor-gryphon-hero.json](./170438-for-honor-gryphon-hero.json) |
@@ -1986,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracture In Space | 217291 | [217291-fracture-in-space.json](./217291-fracture-in-space.json) |
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
+| Frag | 110296 | [110296-frag.json](./110296-frag.json) |
 | Frag | 167251 | [167251-frag.json](./167251-frag.json) |
 | Fragile Ascent | 292010 | [292010-fragile-ascent.json](./292010-fragile-ascent.json) |
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
