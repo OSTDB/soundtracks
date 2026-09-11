@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Turb | 246940 | [246940-sengoku-turb.json](./246940-sengoku-turb.json) |
 | Sengoku Turb: Fanfan I Heart Me Dunce-Doublentendre | 142401 | [142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json](./142401-sengoku-turb-fanfan-i-heart-me-dunce-doublentendre.json) |
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
+| Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
@@ -1267,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
 | Shadow Racer | 120344 | [120344-shadow-racer.json](./120344-shadow-racer.json) |
 | Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
+| Shadow Runner | 116287 | [116287-shadow-runner.json](./116287-shadow-runner.json) |
 | Shadow Saw Us | 408072 | [408072-shadow-saw-us.json](./408072-shadow-saw-us.json) |
 | Shadow Seeker | 150140 | [150140-shadow-seeker.json](./150140-shadow-seeker.json) |
 | Shadow Shoot | 261279 | [261279-shadow-shoot.json](./261279-shadow-shoot.json) |
@@ -3829,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
 | Sparkle 2 | 20069 | [20069-sparkle-2.json](./20069-sparkle-2.json) |
+| Sparkle 4 Tales | 116326 | [116326-sparkle-4-tales.json](./116326-sparkle-4-tales.json) |
 | Sparkle Piglet | 212795 | [212795-sparkle-piglet.json](./212795-sparkle-piglet.json) |
 | Sparkle Snapshots | 67332 | [67332-sparkle-snapshots.json](./67332-sparkle-snapshots.json) |
 | SparkleWand Puzzle | 239056 | [239056-sparklewand-puzzle.json](./239056-sparklewand-puzzle.json) |
@@ -4038,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiky | 144281 | [144281-spiky.json](./144281-spiky.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
 | Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
+| Spin Evolution | 116288 | [116288-spin-evolution.json](./116288-spin-evolution.json) |
 | Spin or Die | 311247 | [311247-spin-or-die.json](./311247-spin-or-die.json) |
 | Spin Quest: A Slot Adventure | 220670 | [220670-spin-quest-a-slot-adventure.json](./220670-spin-quest-a-slot-adventure.json) |
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
@@ -5104,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangers Awaken | 262377 | [262377-strangers-awaken.json](./262377-strangers-awaken.json) |
 | Strangers In The Land Of Turnabouts | 303247 | [303247-strangers-in-the-land-of-turnabouts.json](./303247-strangers-in-the-land-of-turnabouts.json) |
 | Strangers Lurk | 335263 | [335263-strangers-lurk.json](./335263-strangers-lurk.json) |
+| Strangers of the Power 3 | 116323 | [116323-strangers-of-the-power-3.json](./116323-strangers-of-the-power-3.json) |
 | Strangest.io's My Megamix '21 | 195798 | [195798-strangest-ios-my-megamix-21.json](./195798-strangest-ios-my-megamix-21.json) |
 | Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
 | Strania: The Stella Machina - EX | 328477 | [328477-strania-the-stella-machina-ex.json](./328477-strania-the-stella-machina-ex.json) |
@@ -5633,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cat Herding: Totally Awesome Edition | 33084 | [33084-super-cat-herding-totally-awesome-edition.json](./33084-super-cat-herding-totally-awesome-edition.json) |
 | Super Cat Tales | 96155 | [96155-super-cat-tales.json](./96155-super-cat-tales.json) |
 | Super Cats | 111058 | [111058-super-cats.json](./111058-super-cats.json) |
+| Super Catscape | 116308 | [116308-super-catscape.json](./116308-super-catscape.json) |
 | Super Cauldron | 39028 | [39028-super-cauldron.json](./39028-super-cauldron.json) |
 | Super Cave Boy | 224589 | [224589-super-cave-boy.json](./224589-super-cave-boy.json) |
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
@@ -5736,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
 | Super Jigsaw Puzzle | 86304 | [86304-super-jigsaw-puzzle.json](./86304-super-jigsaw-puzzle.json) |
 | Super Jigsaw Puzzle: Cities | 102368 | [102368-super-jigsaw-puzzle-cities.json](./102368-super-jigsaw-puzzle-cities.json) |
+| Super Jigsaw Puzzle: Generations | 116330 | [116330-super-jigsaw-puzzle-generations.json](./116330-super-jigsaw-puzzle-generations.json) |
 | Super Jigsaw Puzzle: Generations - Abandoned Places 2 | 155625 | [155625-super-jigsaw-puzzle-generations-abandoned-places-2.json](./155625-super-jigsaw-puzzle-generations-abandoned-places-2.json) |
 | Super Jigsaw Puzzle: Generations - Abandoned Places Puzzles | 155643 | [155643-super-jigsaw-puzzle-generations-abandoned-places-puzzles.json](./155643-super-jigsaw-puzzle-generations-abandoned-places-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Airplanes Puzzles | 155629 | [155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json](./155629-super-jigsaw-puzzle-generations-airplanes-puzzles.json) |
