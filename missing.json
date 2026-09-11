@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T07:48:44.185Z",
-  "total_missing": 57132,
+  "generated_at": "2026-09-11T07:51:23.581Z",
+  "total_missing": 57131,
   "games": [
     {
       "igdb_id": 306086,
@@ -2011,11 +2011,6 @@
       "igdb_id": 298889,
       "game_name": "A Game's Tale",
       "file": "missing/A/298889-a-games-tale.json"
-    },
-    {
-      "igdb_id": 299124,
-      "game_name": "A Gang of Weirdos",
-      "file": "missing/A/299124-a-gang-of-weirdos.json"
     },
     {
       "igdb_id": 158674,
