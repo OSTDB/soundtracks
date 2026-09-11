@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T18:33:54.866Z",
-  "total_missing": 58956,
+  "generated_at": "2026-09-11T18:41:06.667Z",
+  "total_missing": 58955,
   "games": [
     {
       "igdb_id": 306086,
@@ -2356,11 +2356,6 @@
       "igdb_id": 196859,
       "game_name": "A Potion For Chamomile",
       "file": "missing/A/196859-a-potion-for-chamomile.json"
-    },
-    {
-      "igdb_id": 322343,
-      "game_name": "A Punk with Wheels 2",
-      "file": "missing/A/322343-a-punk-with-wheels-2.json"
     },
     {
       "igdb_id": 217294,
