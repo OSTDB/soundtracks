@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Balls | 166160 | [166160-battle-balls.json](./166160-battle-balls.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
 | Battle Bears Pro | 61668 | [61668-battle-bears-pro.json](./61668-battle-bears-pro.json) |
+| Battle Bears: Zombies AR | 89200 | [89200-battle-bears-zombies-ar.json](./89200-battle-bears-zombies-ar.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
 | Battle Blocks | 137660 | [137660-battle-blocks.json](./137660-battle-blocks.json) |
 | Battle Bloodlines | 338197 | [338197-battle-bloodlines.json](./338197-battle-bloodlines.json) |
@@ -2587,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
 | Bouncy Goal | 242219 | [242219-bouncy-goal.json](./242219-bouncy-goal.json) |
+| Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
 | Bouncy! Trampoline | 233520 | [233520-bouncy-trampoline.json](./233520-bouncy-trampoline.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
 | Bound By Blood | 140545 | [140545-bound-by-blood.json](./140545-bound-by-blood.json) |
