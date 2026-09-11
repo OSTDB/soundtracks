@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
+| Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
 | Collage | 177037 | [177037-collage.json](./177037-collage.json) |
@@ -2794,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Space | 260426 | [260426-cozy-space.json](./260426-cozy-space.json) |
 | Cozyrama | 360004 | [360004-cozyrama.json](./360004-cozyrama.json) |
 | CozyTyper | 209678 | [209678-cozytyper.json](./209678-cozytyper.json) |
+| CP3D | 109581 | [109581-cp3d.json](./109581-cp3d.json) |
 | CPU Invaders: Aim Hero | 413665 | [413665-cpu-invaders-aim-hero.json](./413665-cpu-invaders-aim-hero.json) |
 | CPU Invaders: Micro Spheres | 413658 | [413658-cpu-invaders-micro-spheres.json](./413658-cpu-invaders-micro-spheres.json) |
 | CPU Invaders: Movie Attack | 396210 | [396210-cpu-invaders-movie-attack.json](./396210-cpu-invaders-movie-attack.json) |
@@ -2900,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Twinsanity 3D | 210232 | [210232-crash-twinsanity-3d.json](./210232-crash-twinsanity-3d.json) |
 | Crash-San | 238482 | [238482-crash-san.json](./238482-crash-san.json) |
 | Crash: Mind Over Mutant | 210229 | [210229-crash-mind-over-mutant.json](./210229-crash-mind-over-mutant.json) |
+| Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
