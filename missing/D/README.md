@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dante's Inferno: Dark Forest Pack | 172772 | [172772-dantes-inferno-dark-forest-pack.json](./172772-dantes-inferno-dark-forest-pack.json) |
 | Dante's Inferno: Divine Edition | 44610 | [44610-dantes-inferno-divine-edition.json](./44610-dantes-inferno-divine-edition.json) |
 | Dante's Inferno: Trials of St. Lucia | 21747 | [21747-dantes-inferno-trials-of-st-lucia.json](./21747-dantes-inferno-trials-of-st-lucia.json) |
+| Dantes Bullet Inferno | 129749 | [129749-dantes-bullet-inferno.json](./129749-dantes-bullet-inferno.json) |
 | Dāo Qūqū | 374621 | [374621-dao-ququ.json](./374621-dao-ququ.json) |
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
@@ -610,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Sector | 222316 | [222316-dead-sector.json](./222316-dead-sector.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Shell | 193943 | [193943-dead-shell.json](./193943-dead-shell.json) |
+| Dead Shits | 129690 | [129690-dead-shits.json](./129690-dead-shits.json) |
 | Dead Some Day | 33155 | [33155-dead-some-day.json](./33155-dead-some-day.json) |
 | Dead Space | 131931 | [131931-dead-space.json](./131931-dead-space.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
@@ -1290,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
 | Detective Worden | 358876 | [358876-detective-worden.json](./358876-detective-worden.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
+| Detectives United III: Timeless Voyage - Collector's Edition | 129708 | [129708-detectives-united-iii-timeless-voyage-collectors-edition.json](./129708-detectives-united-iii-timeless-voyage-collectors-edition.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
 | Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
