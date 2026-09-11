@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T08:33:50.288Z",
-  "total_missing": 57279,
+  "generated_at": "2026-09-11T08:41:04.743Z",
+  "total_missing": 57278,
   "games": [
     {
       "igdb_id": 306086,
@@ -2036,11 +2036,6 @@
       "igdb_id": 106621,
       "game_name": "A Good Librarian Like a Good Shepherd",
       "file": "missing/A/106621-a-good-librarian-like-a-good-shepherd.json"
-    },
-    {
-      "igdb_id": 292315,
-      "game_name": "A Good Night's Rest",
-      "file": "missing/A/292315-a-good-nights-rest.json"
     },
     {
       "igdb_id": 268187,
