@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:05:22.298Z",
-  "total_soundtracks": 1438,
+  "generated_at": "2026-09-11T10:05:33.602Z",
+  "total_soundtracks": 1439,
   "games": [
     {
       "igdb_id": 7522,
@@ -133,6 +133,20 @@
         {
           "album_name": "7 Nights Keeper (The Original Videogame Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6q0DnoA2CGXfnSaC2Unc43",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 389999,
+      "game_name": "A Certain Incremental Exoplanet",
+      "game_url": "https://ostdb.net/games/a-certain-incremental-exoplanet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27321510a1e5ae26e315cd695a1",
+      "albums": [
+        {
+          "album_name": "A Certain Incremental Exoplanet (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/20RfU61YP13reEutn8CVgM",
           "apple_music_url": "",
           "album_link_url": ""
         }
