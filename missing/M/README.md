@@ -815,6 +815,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martial Arts Tycoon: Brazil | 253906 | [253906-martial-arts-tycoon-brazil.json](./253906-martial-arts-tycoon-brazil.json) |
 | Martial Fire | 232440 | [232440-martial-fire.json](./232440-martial-fire.json) |
 | Martian Space Blaster | 186261 | [186261-martian-space-blaster.json](./186261-martian-space-blaster.json) |
+| Martian Successor Nadesico ~Yappari Saigo ha [Ai ga Katsu] ?~ | 125375 | [125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json](./125375-martian-successor-nadesico-yappari-saigo-ha-ai-ga-katsu.json) |
+| Martian Successor Nadesico: Nadesico the Mission | 125366 | [125366-martian-successor-nadesico-nadesico-the-mission.json](./125366-martian-successor-nadesico-nadesico-the-mission.json) |
 | Martian Wars | 137692 | [137692-martian-wars.json](./137692-martian-wars.json) |
 | Martin Mystery: Monster Invasion | 194613 | [194613-martin-mystery-monster-invasion.json](./194613-martin-mystery-monster-invasion.json) |
 | Martin The Let's Player | 257083 | [257083-martin-the-lets-player.json](./257083-martin-the-lets-player.json) |
@@ -958,6 +960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
 | Mat Hoffman's Pro BMX | 3994 | [3994-mat-hoffmans-pro-bmx.json](./3994-mat-hoffmans-pro-bmx.json) |
 | Mata Hari | 27853 | [27853-mata-hari.json](./27853-mata-hari.json) |
+| Mata Nui Online Game II: The Final Chronicle | 125378 | [125378-mata-nui-online-game-ii-the-final-chronicle.json](./125378-mata-nui-online-game-ii-the-final-chronicle.json) |
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
@@ -1601,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
 | Merry Go Wrong | 181323 | [181323-merry-go-wrong.json](./181323-merry-go-wrong.json) |
+| Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
 | Mesa | 233214 | [233214-mesa.json](./233214-mesa.json) |
 | Meseugaki Yeong-ae-nim! | 232426 | [232426-meseugaki-yeong-ae-nim.json](./232426-meseugaki-yeong-ae-nim.json) |
 | Mesh Replica | 296684 | [296684-mesh-replica.json](./296684-mesh-replica.json) |
@@ -2398,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missiles Away | 254149 | [254149-missiles-away.json](./254149-missiles-away.json) |
 | Missing | 213634 | [213634-missing.json](./213634-missing.json) |
 | Missing | 260677 | [260677-missing.json](./260677-missing.json) |
+| Missing Blue | 125405 | [125405-missing-blue.json](./125405-missing-blue.json) |
 | Missing Cat | 208377 | [208377-missing-cat.json](./208377-missing-cat.json) |
 | Missing Children | 137590 | [137590-missing-children.json](./137590-missing-children.json) |
 | Missing Children of Ann Siang Hill | 179113 | [179113-missing-children-of-ann-siang-hill.json](./179113-missing-children-of-ann-siang-hill.json) |
@@ -2517,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Control: Complete Edition | 283169 | [283169-mob-control-complete-edition.json](./283169-mob-control-complete-edition.json) |
 | Mob Drop Castle | 406078 | [406078-mob-drop-castle.json](./406078-mob-drop-castle.json) |
 | MOB the Robot | 330514 | [330514-mob-the-robot.json](./330514-mob-the-robot.json) |
+| Mob Wars: La Cosa Nostra | 125364 | [125364-mob-wars-la-cosa-nostra.json](./125364-mob-wars-la-cosa-nostra.json) |
 | Mobil 1 Rally Championship | 793 | [793-mobil-1-rally-championship.json](./793-mobil-1-rally-championship.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
