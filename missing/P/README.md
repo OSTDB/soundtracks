@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patterns | 131534 | [131534-patterns.json](./131534-patterns.json) |
 | Patterns | 8441 | [8441-patterns.json](./8441-patterns.json) |
 | Patterns of the Oak | 358850 | [358850-patterns-of-the-oak.json](./358850-patterns-of-the-oak.json) |
+| Paulo | 86056 | [86056-paulo.json](./86056-paulo.json) |
 | Pavor | 116378 | [116378-pavor.json](./116378-pavor.json) |
 | Pavor | 215690 | [215690-pavor.json](./215690-pavor.json) |
 | Paw Alliance | 401515 | [401515-paw-alliance.json](./401515-paw-alliance.json) |
@@ -675,7 +676,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
 | PC Fútbol 2000 | 78034 | [78034-pc-futbol-2000.json](./78034-pc-futbol-2000.json) |
 | PC Fútbol 7 | 98942 | [98942-pc-futbol-7.json](./98942-pc-futbol-7.json) |
+| PC Fútbol Edición Oro | 86018 | [86018-pc-futbol-edicion-oro.json](./86018-pc-futbol-edicion-oro.json) |
 | PC Fútbol Selección Española Europa 2000 | 98953 | [98953-pc-futbol-seleccion-espanola-europa-2000.json](./98953-pc-futbol-seleccion-espanola-europa-2000.json) |
+| PC Pool | 86039 | [86039-pc-pool.json](./86039-pc-pool.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
 | PC_001 | 170535 | [170535-pc-001.json](./170535-pc-001.json) |
 | PC-Sherlock: A Game of Logic & Deduction | 98920 | [98920-pc-sherlock-a-game-of-logic-and-deduction.json](./98920-pc-sherlock-a-game-of-logic-and-deduction.json) |
@@ -1264,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Street Fighter II Tribute | 395551 | [395551-pinball-fx-street-fighter-ii-tribute.json](./395551-pinball-fx-street-fighter-ii-tribute.json) |
 | Pinball FX2 | 79328 | [79328-pinball-fx2.json](./79328-pinball-fx2.json) |
 | Pinball FX2: Mars Table | 20544 | [20544-pinball-fx2-mars-table.json](./20544-pinball-fx2-mars-table.json) |
+| Pinball FX2: Marvel Pinball | 86004 | [86004-pinball-fx2-marvel-pinball.json](./86004-pinball-fx2-marvel-pinball.json) |
 | Pinball FX2: Ms. Splosion Man | 320183 | [320183-pinball-fx2-ms-splosion-man.json](./320183-pinball-fx2-ms-splosion-man.json) |
 | Pinball FX2: Nightmare Mansion | 354447 | [354447-pinball-fx2-nightmare-mansion.json](./354447-pinball-fx2-nightmare-mansion.json) |
 | Pinball FX2: Pinball FX Classics | 354446 | [354446-pinball-fx2-pinball-fx-classics.json](./354446-pinball-fx2-pinball-fx-classics.json) |
@@ -1870,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket-Run Pool | 102094 | [102094-pocket-run-pool.json](./102094-pocket-run-pool.json) |
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
+| Pod | 86049 | [86049-pod.json](./86049-pod.json) |
 | Poda Wants a Statue | 260699 | [260699-poda-wants-a-statue.json](./260699-poda-wants-a-statue.json) |
 | Podd | 66704 | [66704-podd.json](./66704-podd.json) |
 | Podnabu | 291256 | [291256-podnabu.json](./291256-podnabu.json) |
@@ -2024,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: National History Museum | 340212 | [340212-pokemon-national-history-museum.json](./340212-pokemon-national-history-museum.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
 | PokeQuest VR | 201764 | [201764-pokequest-vr.json](./201764-pokequest-vr.json) |
+| Poker 1 | 86065 | [86065-poker-1.json](./86065-poker-1.json) |
 | Poker Chase | 166141 | [166141-poker-chase.json](./166141-poker-chase.json) |
 | Poker Club | 138204 | [138204-poker-club.json](./138204-poker-club.json) |
 | Poker Club: Gold Edition | 277568 | [277568-poker-club-gold-edition.json](./277568-poker-club-gold-edition.json) |
