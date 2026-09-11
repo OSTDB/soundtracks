@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reknum DX | 182475 | [182475-reknum-dx.json](./182475-reknum-dx.json) |
 | Reknum: Origins Collection | 182476 | [182476-reknum-origins-collection.json](./182476-reknum-origins-collection.json) |
 | Reknum: Origins Collection - Limited Edition | 182477 | [182477-reknum-origins-collection-limited-edition.json](./182477-reknum-origins-collection-limited-edition.json) |
+| Reksio i Czarodzieje | 82038 | [82038-reksio-i-czarodzieje.json](./82038-reksio-i-czarodzieje.json) |
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
 | Reksio i Kretes: Tajemnica Trzeciego Wymiaru | 218499 | [218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json](./218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json) |
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
 | Rome 2077: Tactics | 187526 | [187526-rome-2077-tactics.json](./187526-rome-2077-tactics.json) |
 | Rome Pathway to Power | 171554 | [171554-rome-pathway-to-power.json](./171554-rome-pathway-to-power.json) |
+| Rome: Total War - Collection | 82069 | [82069-rome-total-war-collection.json](./82069-rome-total-war-collection.json) |
 | Rome: Total War - Gold Edition | 24146 | [24146-rome-total-war-gold-edition.json](./24146-rome-total-war-gold-edition.json) |
 | Romeo | 71527 | [71527-romeo.json](./71527-romeo.json) |
 | Romeo & Juliet | 145667 | [145667-romeo-and-juliet.json](./145667-romeo-and-juliet.json) |
@@ -2072,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
+| Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
 | Roomba Rail Rider | 302144 | [302144-roomba-rail-rider.json](./302144-roomba-rail-rider.json) |
