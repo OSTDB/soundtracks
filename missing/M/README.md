@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
+| Mahjong by Dogmelon | 101489 | [101489-mahjong-by-dogmelon.json](./101489-mahjong-by-dogmelon.json) |
 | Mahjong Cards - Play classic mahjong solitaire with playing cards | 102830 | [102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json](./102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Connect Onet Puzzle | 215120 | [215120-mahjong-connect-onet-puzzle.json](./215120-mahjong-connect-onet-puzzle.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Odyssey | 113699 | [113699-marble-odyssey.json](./113699-marble-odyssey.json) |
 | Marble Partner | 119756 | [119756-marble-partner.json](./119756-marble-partner.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
+| Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
 | Marcella Moon: Killer at the Cove | 264024 | [264024-marcella-moon-killer-at-the-cove.json](./264024-marcella-moon-killer-at-the-cove.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
@@ -2079,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
 | Military Merge | 402307 | [402307-military-merge.json](./402307-military-merge.json) |
 | Military Transporter Sim | 293646 | [293646-military-transporter-sim.json](./293646-military-transporter-sim.json) |
+| Military:Run | 101463 | [101463-military-run.json](./101463-military-run.json) |
 | Military.io | 197362 | [197362-military-io.json](./197362-military-io.json) |
 | Milites Fortunae | 249210 | [249210-milites-fortunae.json](./249210-milites-fortunae.json) |
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
@@ -3062,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Runner | 199125 | [199125-moon-runner.json](./199125-moon-runner.json) |
 | Moon Slasher | 185108 | [185108-moon-slasher.json](./185108-moon-slasher.json) |
 | Moon Split Island: Dungeon Adventure | 220639 | [220639-moon-split-island-dungeon-adventure.json](./220639-moon-split-island-dungeon-adventure.json) |
+| Moon Surfing | 101519 | [101519-moon-surfing.json](./101519-moon-surfing.json) |
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
 | Moon Waltz | 201291 | [201291-moon-waltz.json](./201291-moon-waltz.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
