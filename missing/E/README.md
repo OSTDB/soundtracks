@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Ecchi Memories: Complete Edition | 317259 | [317259-ecchi-memories-complete-edition.json](./317259-ecchi-memories-complete-edition.json) |
 | Ecchi Memory Game | 110966 | [110966-ecchi-memory-game.json](./110966-ecchi-memory-game.json) |
+| Ecchi na Seed | 97831 | [97831-ecchi-na-seed.json](./97831-ecchi-na-seed.json) |
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
 | Ecchi Spirit | 147393 | [147393-ecchi-spirit.json](./147393-ecchi-spirit.json) |
 | Ecchi: Time to Oppai | 349303 | [349303-ecchi-time-to-oppai.json](./349303-ecchi-time-to-oppai.json) |
