@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Rangers | 138744 | [138744-rangers.json](./138744-rangers.json) |
+| Rangers of Oblivion | 113636 | [113636-rangers-of-oblivion.json](./113636-rangers-of-oblivion.json) |
 | Ranita Fishing | 178078 | [178078-ranita-fishing.json](./178078-ranita-fishing.json) |
 | Rank Boss Bullets | 278396 | [278396-rank-boss-bullets.json](./278396-rank-boss-bullets.json) |
 | Rank Insignia Super Explosion | 231913 | [231913-rank-insignia-super-explosion.json](./231913-rank-insignia-super-explosion.json) |
@@ -1638,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Reckoning | 406695 | [406695-robot-reckoning.json](./406695-robot-reckoning.json) |
 | Robot Rejects | 220630 | [220630-robot-rejects.json](./220630-robot-rejects.json) |
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
+| Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
 | Robot Squad Simulator X | 134013 | [134013-robot-squad-simulator-x.json](./134013-robot-squad-simulator-x.json) |
 | Robot Start: Puzzle Game | 149605 | [149605-robot-start-puzzle-game.json](./149605-robot-start-puzzle-game.json) |
