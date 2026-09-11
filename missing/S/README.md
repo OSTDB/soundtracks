@@ -2895,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
 | Snow Battle Princess Sayuki | 191180 | [191180-snow-battle-princess-sayuki.json](./191180-snow-battle-princess-sayuki.json) |
+| Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
+| Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
 | Sorcery! | 88541 | [88541-sorcery.json](./88541-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
