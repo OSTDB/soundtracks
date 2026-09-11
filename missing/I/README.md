@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Creations | 149528 | [149528-insane-creations.json](./149528-insane-creations.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
+| Insanity X | 105400 | [105400-insanity-x.json](./105400-insanity-x.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Insanus Express | 114368 | [114368-insanus-express.json](./114368-insanus-express.json) |
 | Insatiable Creatures | 184594 | [184594-insatiable-creatures.json](./184594-insatiable-creatures.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Integer | 178030 | [178030-integer.json](./178030-integer.json) |
 | Integrifix | 335845 | [335845-integrifix.json](./335845-integrifix.json) |
 | Intelligence: 314th Clash | 58809 | [58809-intelligence-314th-clash.json](./58809-intelligence-314th-clash.json) |
+| Intelligence: Dinosaurs | 105277 | [105277-intelligence-dinosaurs.json](./105277-intelligence-dinosaurs.json) |
 | Intelligence: Underwater Kingdom | 110955 | [110955-intelligence-underwater-kingdom.json](./110955-intelligence-underwater-kingdom.json) |
 | Intelligent Design: An Evolutionary Sandbox | 36478 | [36478-intelligent-design-an-evolutionary-sandbox.json](./36478-intelligent-design-an-evolutionary-sandbox.json) |
 | Intellivision Greatest Hits: 20th Anniversary Edition | 210044 | [210044-intellivision-greatest-hits-20th-anniversary-edition.json](./210044-intellivision-greatest-hits-20th-anniversary-edition.json) |
