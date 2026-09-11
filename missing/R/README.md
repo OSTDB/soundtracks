@@ -47,6 +47,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
+| Rabi Laby 2 | 84834 | [84834-rabi-laby-2.json](./84834-rabi-laby-2.json) |
+| Rabi Laby 3 | 84833 | [84833-rabi-laby-3.json](./84833-rabi-laby-3.json) |
 | Rabi to Navi no Daibouken | 206179 | [206179-rabi-to-navi-no-daibouken.json](./206179-rabi-to-navi-no-daibouken.json) |
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
@@ -804,6 +806,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Card Games 2011 | 77389 | [77389-reel-deal-card-games-2011.json](./77389-reel-deal-card-games-2011.json) |
 | Reel Deal Casino: Championship Edition | 77391 | [77391-reel-deal-casino-championship-edition.json](./77391-reel-deal-casino-championship-edition.json) |
 | Reel Deal Casino: Shuffle Master Edition | 77390 | [77390-reel-deal-casino-shuffle-master-edition.json](./77390-reel-deal-casino-shuffle-master-edition.json) |
+| Reel Fishing 3D Paradise | 84832 | [84832-reel-fishing-3d-paradise.json](./84832-reel-fishing-3d-paradise.json) |
+| Reel Fishing 3D Paradise Mini | 84831 | [84831-reel-fishing-3d-paradise-mini.json](./84831-reel-fishing-3d-paradise-mini.json) |
 | Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
@@ -839,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
 | Regalia: Of Men and Monarchs | 30205 | [30205-regalia-of-men-and-monarchs.json](./30205-regalia-of-men-and-monarchs.json) |
 | Regalia: Of Men and Monarchs - Paragons and Pajamas | 172162 | [172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json](./172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json) |
+| Regalia: Of Men and Monarchs - The Unending Grimoire | 84829 | [84829-regalia-of-men-and-monarchs-the-unending-grimoire.json](./84829-regalia-of-men-and-monarchs-the-unending-grimoire.json) |
 | Regalia: Royal Edition | 78118 | [78118-regalia-royal-edition.json](./78118-regalia-royal-edition.json) |
 | Regency Solitaire II | 237089 | [237089-regency-solitaire-ii.json](./237089-regency-solitaire-ii.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
@@ -942,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of Yore | 342654 | [342654-remnants-of-yore.json](./342654-remnants-of-yore.json) |
 | Remote Knights Online | 153401 | [153401-remote-knights-online.json](./153401-remote-knights-online.json) |
 | Remote Planets | 224766 | [224766-remote-planets.json](./224766-remote-planets.json) |
+| Remote Racers | 84830 | [84830-remote-racers.json](./84830-remote-racers.json) |
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
 | Remothered: Tormented Fathers & Broken Porcelain - Double Pack | 139977 | [139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json](./139977-remothered-tormented-fathers-and-broken-porcelain-double-pack.json) |
 | Removed | 128631 | [128631-removed.json](./128631-removed.json) |
@@ -1122,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
+| Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
 | Retro Snake | 104012 | [104012-retro-snake.json](./104012-retro-snake.json) |
@@ -1289,6 +1296,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm 'n Notes: Improve Your Music Skills | 79176 | [79176-rhythm-n-notes-improve-your-music-skills.json](./79176-rhythm-n-notes-improve-your-music-skills.json) |
 | Rhythm & Beats | 292282 | [292282-rhythm-and-beats.json](./292282-rhythm-and-beats.json) |
 | Rhythm Cat Pro | 86707 | [86707-rhythm-cat-pro.json](./86707-rhythm-cat-pro.json) |
+| Rhythm Core Alpha | 84842 | [84842-rhythm-core-alpha.json](./84842-rhythm-core-alpha.json) |
+| Rhythm Core Alpha 2 | 84841 | [84841-rhythm-core-alpha-2.json](./84841-rhythm-core-alpha-2.json) |
 | Rhythm Heaven Groove | 337031 | [337031-rhythm-heaven-groove.json](./337031-rhythm-heaven-groove.json) |
 | Rhythm Hell | 257080 | [257080-rhythm-hell.json](./257080-rhythm-hell.json) |
 | Rhythm Hero | 152869 | [152869-rhythm-hero.json](./152869-rhythm-hero.json) |
@@ -1395,6 +1404,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
 | Ridiculous Shipping | 331317 | [331317-ridiculous-shipping.json](./331317-ridiculous-shipping.json) |
 | Riding Club Championships | 31882 | [31882-riding-club-championships.json](./31882-riding-club-championships.json) |
+| Riding Stables 3D | 84840 | [84840-riding-stables-3d.json](./84840-riding-stables-3d.json) |
+| Riding Star 3D: Champion in Sattle | 84839 | [84839-riding-star-3d-champion-in-sattle.json](./84839-riding-star-3d-champion-in-sattle.json) |
 | Riding the Wave | 318387 | [318387-riding-the-wave.json](./318387-riding-the-wave.json) |
 | Riding to Bounce City | 215922 | [215922-riding-to-bounce-city.json](./215922-riding-to-bounce-city.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
@@ -1577,6 +1588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
 | River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
+| Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
@@ -1693,6 +1705,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
 | Robot Reckoning | 406695 | [406695-robot-reckoning.json](./406695-robot-reckoning.json) |
 | Robot Rejects | 220630 | [220630-robot-rejects.json](./220630-robot-rejects.json) |
+| Robot Rescue | 84844 | [84844-robot-rescue.json](./84844-robot-rescue.json) |
+| Robot Rescue 2 | 84845 | [84845-robot-rescue-2.json](./84845-robot-rescue-2.json) |
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
@@ -1819,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman X3 | 256302 | [256302-rockman-x3.json](./256302-rockman-x3.json) |
 | Rockman X3 Buster Battle | 225258 | [225258-rockman-x3-buster-battle.json](./225258-rockman-x3-buster-battle.json) |
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
+| Rocks N' Rockets | 84849 | [84849-rocks-n-rockets.json](./84849-rocks-n-rockets.json) |
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
 | Rocks'n'Gems | 169451 | [169451-rocksngems.json](./169451-rocksngems.json) |
 | RockSlide | 212798 | [212798-rockslide.json](./212798-rockslide.json) |
@@ -1926,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll+Heart | 119718 | [119718-roll-heart.json](./119718-roll-heart.json) |
 | Rolla | 374635 | [374635-rolla.json](./374635-rolla.json) |
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
+| Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
 | Roller Stars | 149017 | [149017-roller-stars.json](./149017-roller-stars.json) |
@@ -2087,6 +2103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roppongi Sadistic Night | 395566 | [395566-roppongi-sadistic-night.json](./395566-roppongi-sadistic-night.json) |
 | Ropuka | 386712 | [386712-ropuka.json](./386712-ropuka.json) |
 | Rorke's Drift | 72107 | [72107-rorkes-drift.json](./72107-rorkes-drift.json) |
+| Rorrim | 84852 | [84852-rorrim.json](./84852-rorrim.json) |
 | Rorry's Race | 335110 | [335110-rorrys-race.json](./335110-rorrys-race.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
@@ -2226,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
 | RTL Winter Games 2007 | 152301 | [152301-rtl-winter-games-2007.json](./152301-rtl-winter-games-2007.json) |
+| RTO | 84851 | [84851-rto.json](./84851-rto.json) |
 | RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
