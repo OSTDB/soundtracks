@@ -5593,6 +5593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribal Wars | 148522 | [148522-tribal-wars.json](./148522-tribal-wars.json) |
 | Tribe Explorer | 213413 | [213413-tribe-explorer.json](./213413-tribe-explorer.json) |
+| Tribe Nine | 130317 | [130317-tribe-nine.json](./130317-tribe-nine.json) |
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
 | Tribe of the Accord | 268221 | [268221-tribe-of-the-accord.json](./268221-tribe-of-the-accord.json) |
 | Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
