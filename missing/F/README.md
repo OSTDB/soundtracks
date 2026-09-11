@@ -300,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fant Kids Animated Puzzle | 116982 | [116982-fant-kids-animated-puzzle.json](./116982-fant-kids-animated-puzzle.json) |
 | Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
 | Fantashooting 2 | 208977 | [208977-fantashooting-2.json](./208977-fantashooting-2.json) |
+| Fantasia of the Wind 2 | 113654 | [113654-fantasia-of-the-wind-2.json](./113654-fantasia-of-the-wind-2.json) |
 | Fantasia Sango 1 | 188656 | [188656-fantasia-sango-1.json](./188656-fantasia-sango-1.json) |
 | Fantasia Sango 3 | 188658 | [188658-fantasia-sango-3.json](./188658-fantasia-sango-3.json) |
 | Fantasia Sango 4 | 188657 | [188657-fantasia-sango-4.json](./188657-fantasia-sango-4.json) |
@@ -349,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 44: Winter Holiday | 296063 | [296063-fantasy-mosaics-44-winter-holiday.json](./296063-fantasy-mosaics-44-winter-holiday.json) |
 | Fantasy Mosaics 45: Amusement Park | 296064 | [296064-fantasy-mosaics-45-amusement-park.json](./296064-fantasy-mosaics-45-amusement-park.json) |
 | Fantasy Mosaics 5 | 300375 | [300375-fantasy-mosaics-5.json](./300375-fantasy-mosaics-5.json) |
+| Fantasy of Expedition | 113648 | [113648-fantasy-of-expedition.json](./113648-fantasy-of-expedition.json) |
 | Fantasy Office | 226445 | [226445-fantasy-office.json](./226445-fantasy-office.json) |
 | Fantasy Online 2 | 327624 | [327624-fantasy-online-2.json](./327624-fantasy-online-2.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
@@ -403,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell of Life | 329569 | [329569-farewell-of-life.json](./329569-farewell-of-life.json) |
 | Farewell Sen | 213983 | [213983-farewell-sen.json](./213983-farewell-sen.json) |
+| Farewell to Arms | 113634 | [113634-farewell-to-arms.json](./113634-farewell-to-arms.json) |
 | Farewell to the Universe | 177497 | [177497-farewell-to-the-universe.json](./177497-farewell-to-the-universe.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
@@ -879,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
+| final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
 | Final Nation | 251823 | [251823-final-nation.json](./251823-final-nation.json) |
@@ -1978,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
 | Frag | 167251 | [167251-frag.json](./167251-frag.json) |
 | Fragile Ascent | 292010 | [292010-fragile-ascent.json](./292010-fragile-ascent.json) |
+| Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
 | Fragment Hunters | 213009 | [213009-fragment-hunters.json](./213009-fragment-hunters.json) |
 | Fragment of Humanity | 224246 | [224246-fragment-of-humanity.json](./224246-fragment-of-humanity.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
@@ -2013,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
+| Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
 | Frantic Flea | 42620 | [42620-frantic-flea.json](./42620-frantic-flea.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
@@ -2374,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Run 3 | 57120 | [57120-fun-run-3.json](./57120-fun-run-3.json) |
 | Fun Run 4 | 257400 | [257400-fun-run-4.json](./257400-fun-run-4.json) |
 | Fun Times at Homer's | 383384 | [383384-fun-times-at-homers.json](./383384-fun-times-at-homers.json) |
+| Fun VR Farm | 113675 | [113675-fun-vr-farm.json](./113675-fun-vr-farm.json) |
 | Fun With the Fitzgeralds | 262946 | [262946-fun-with-the-fitzgeralds.json](./262946-fun-with-the-fitzgeralds.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
