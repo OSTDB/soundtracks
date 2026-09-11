@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Aqua Driller | 407342 | [407342-idle-aqua-driller.json](./407342-idle-aqua-driller.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
 | Idle Bank | 193987 | [193987-idle-bank.json](./193987-idle-bank.json) |
+| Idle Battle Royale | 124760 | [124760-idle-battle-royale.json](./124760-idle-battle-royale.json) |
 | Idle Battle RPG | 295767 | [295767-idle-battle-rpg.json](./295767-idle-battle-rpg.json) |
 | Idle Bear Island | 174859 | [174859-idle-bear-island.json](./174859-idle-bear-island.json) |
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
