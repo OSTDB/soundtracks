@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
 | Magicalic Sky High: Soratobu Houki ni Omoi wo Nosete | 194554 | [194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json](./194554-magicalic-sky-high-soratobu-houki-ni-omoi-wo-nosete.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
+| Magician | 94209 | [94209-magician.json](./94209-magician.json) |
 | Magicians Dead: Force of the Soul | 172716 | [172716-magicians-dead-force-of-the-soul.json](./172716-magicians-dead-force-of-the-soul.json) |
 | Magicians' Chase: Missing Curry Recipe | 219286 | [219286-magicians-chase-missing-curry-recipe.json](./219286-magicians-chase-missing-curry-recipe.json) |
 | MagicJam | 113020 | [113020-magicjam.json](./113020-magicjam.json) |
@@ -1111,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Football | 66690 | [66690-maximum-football.json](./66690-maximum-football.json) |
 | Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
 | Maximum Rescue | 93027 | [93027-maximum-rescue.json](./93027-maximum-rescue.json) |
+| Maximum Surge | 94175 | [94175-maximum-surge.json](./94175-maximum-surge.json) |
 | MaxRacer | 143670 | [143670-maxracer.json](./143670-maxracer.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
@@ -1250,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | MechWarrior 3 | 19190 | [19190-mechwarrior-3.json](./19190-mechwarrior-3.json) |
 | MechWarrior Online: Black Hawk-Ku Mech Pack | 305533 | [305533-mechwarrior-online-black-hawk-ku-mech-pack.json](./305533-mechwarrior-online-black-hawk-ku-mech-pack.json) |
+| MechWarrior Tactics | 94184 | [94184-mechwarrior-tactics.json](./94184-mechwarrior-tactics.json) |
 | MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
 | Medabots 5: Susutake Mura no Tenkousei | 55142 | [55142-medabots-5-susutake-mura-no-tenkousei.json](./55142-medabots-5-susutake-mura-no-tenkousei.json) |
 | Medabots Classic Collection | 55143 | [55143-medabots-classic-collection.json](./55143-medabots-classic-collection.json) |
@@ -1902,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
 | Microscope Madness | 127211 | [127211-microscope-madness.json](./127211-microscope-madness.json) |
 | MicroSoccer | 234062 | [234062-microsoccer.json](./234062-microsoccer.json) |
+| Microsoft Arcade | 94214 | [94214-microsoft-arcade.json](./94214-microsoft-arcade.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
@@ -2999,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom 3: Monster Roadtrip x Cult of the Lamb | 272830 | [272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json](./272830-monster-prom-3-monster-roadtrip-x-cult-of-the-lamb.json) |
 | Monster Prom 4: Monster Con | 307329 | [307329-monster-prom-4-monster-con.json](./307329-monster-prom-4-monster-con.json) |
 | Monster Prom: Second Term | 155070 | [155070-monster-prom-second-term.json](./155070-monster-prom-second-term.json) |
+| Monster Radar | 94189 | [94189-monster-radar.json](./94189-monster-radar.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Retsuden Oreca Battle | 365701 | [365701-monster-retsuden-oreca-battle.json](./365701-monster-retsuden-oreca-battle.json) |
