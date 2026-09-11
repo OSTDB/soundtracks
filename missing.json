@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T23:33:24.236Z",
-  "total_missing": 59733,
+  "generated_at": "2026-09-11T23:40:59.323Z",
+  "total_missing": 59732,
   "games": [
     {
       "igdb_id": 306086,
@@ -2506,11 +2506,6 @@
       "igdb_id": 217332,
       "game_name": "A Star of Chrome",
       "file": "missing/A/217332-a-star-of-chrome.json"
-    },
-    {
-      "igdb_id": 320523,
-      "game_name": "A Story About Birds",
-      "file": "missing/A/320523-a-story-about-birds.json"
     },
     {
       "igdb_id": 115043,
