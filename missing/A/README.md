@@ -94,7 +94,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
 | A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
-| A Ride to Love | 140536 | [140536-a-ride-to-love.json](./140536-a-ride-to-love.json) |
 | A Robot's Conundrum | 67988 | [67988-a-robots-conundrum.json](./67988-a-robots-conundrum.json) |
 | A Robot's Journey | 151171 | [151171-a-robots-journey.json](./151171-a-robots-journey.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
