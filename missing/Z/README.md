@@ -375,6 +375,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon | 18538 | [18538-zoo-tycoon.json](./18538-zoo-tycoon.json) |
 | Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
+| Zoo-phonics 10: The Zoo Kitchen | 101477 | [101477-zoo-phonics-10-the-zoo-kitchen.json](./101477-zoo-phonics-10-the-zoo-kitchen.json) |
+| Zoo-phonics 11: The A-B-C Pool | 101476 | [101476-zoo-phonics-11-the-a-b-c-pool.json](./101476-zoo-phonics-11-the-a-b-c-pool.json) |
+| Zoo-phonics 12: The Secret Code Desert | 101475 | [101475-zoo-phonics-12-the-secret-code-desert.json](./101475-zoo-phonics-12-the-secret-code-desert.json) |
+| Zoo-phonics 13: The Word Search Beehive | 101478 | [101478-zoo-phonics-13-the-word-search-beehive.json](./101478-zoo-phonics-13-the-word-search-beehive.json) |
+| Zoo-phonics 14: The Penguin Pond Word Order Game | 101474 | [101474-zoo-phonics-14-the-penguin-pond-word-order-game.json](./101474-zoo-phonics-14-the-penguin-pond-word-order-game.json) |
+| Zoo-phonics 3: The Zoo Train Mix-Up | 101479 | [101479-zoo-phonics-3-the-zoo-train-mix-up.json](./101479-zoo-phonics-3-the-zoo-train-mix-up.json) |
+| Zoo-phonics 4: Robby Rabbit's Matching Pairs | 101480 | [101480-zoo-phonics-4-robby-rabbits-matching-pairs.json](./101480-zoo-phonics-4-robby-rabbits-matching-pairs.json) |
+| Zoo-phonics 6: The Refreshment Stand | 101481 | [101481-zoo-phonics-6-the-refreshment-stand.json](./101481-zoo-phonics-6-the-refreshment-stand.json) |
+| Zoo-phonics 7: The Shipwreck Fishpond | 101482 | [101482-zoo-phonics-7-the-shipwreck-fishpond.json](./101482-zoo-phonics-7-the-shipwreck-fishpond.json) |
+| Zoo-phonics 8. Make It Say with Inny Inchworm | 101483 | [101483-zoo-phonics-8-make-it-say-with-inny-inchworm.json](./101483-zoo-phonics-8-make-it-say-with-inny-inchworm.json) |
+| Zoo-phonics 9: The Zoo Billboard Mix-up | 101484 | [101484-zoo-phonics-9-the-zoo-billboard-mix-up.json](./101484-zoo-phonics-9-the-zoo-billboard-mix-up.json) |
 | Zoo-pocalypse | 396899 | [396899-zoo-pocalypse.json](./396899-zoo-pocalypse.json) |
 | Zookaa Fruits | 395583 | [395583-zookaa-fruits.json](./395583-zookaa-fruits.json) |
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
