@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno | 121614 | [121614-inferno.json](./121614-inferno.json) |
 | Inferno | 274190 | [274190-inferno.json](./274190-inferno.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
+| Inferno: Deathfield | 82051 | [82051-inferno-deathfield.json](./82051-inferno-deathfield.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
 | Infestation | 9486 | [9486-infestation.json](./9486-infestation.json) |
