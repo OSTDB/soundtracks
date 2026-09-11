@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
+| Magic Light | 94727 | [94727-magic-light.json](./94727-magic-light.json) |
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
@@ -398,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
 | Maize | 19518 | [19518-maize.json](./19518-maize.json) |
 | Maize Mace Maze | 293075 | [293075-maize-mace-maze.json](./293075-maize-mace-maze.json) |
+| Majestic | 94676 | [94676-majestic.json](./94676-majestic.json) |
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
 | Majestic Majolical vol. 1 | 240523 | [240523-majestic-majolical-vol-1.json](./240523-majestic-majolical-vol-1.json) |
 | Majestic: The Card Game | 109071 | [109071-majestic-the-card-game.json](./109071-majestic-the-card-game.json) |
@@ -1163,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
+| Mazera | 94679 | [94679-mazera.json](./94679-mazera.json) |
 | Mazes and Mages | 102721 | [102721-mazes-and-mages.json](./102721-mazes-and-mages.json) |
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
@@ -1436,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMod | 287075 | [287075-megamod.json](./287075-megamod.json) |
 | MegaMorph | 97354 | [97354-megamorph.json](./97354-megamorph.json) |
 | MegaPak 1 | 138754 | [138754-megapak-1.json](./138754-megapak-1.json) |
+| Megaplex | 94722 | [94722-megaplex.json](./94722-megaplex.json) |
 | Megaplex Manager | 102116 | [102116-megaplex-manager.json](./102116-megaplex-manager.json) |
 | Megapolis | 196320 | [196320-megapolis.json](./196320-megapolis.json) |
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
@@ -2500,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Children | 137590 | [137590-missing-children.json](./137590-missing-children.json) |
 | Missing Children of Ann Siang Hill | 179113 | [179113-missing-children-of-ann-siang-hill.json](./179113-missing-children-of-ann-siang-hill.json) |
 | Missing Coordinates | 308272 | [308272-missing-coordinates.json](./308272-missing-coordinates.json) |
+| Missing Dots Matrix | 94702 | [94702-missing-dots-matrix.json](./94702-missing-dots-matrix.json) |
 | Missing Heroes | 224003 | [224003-missing-heroes.json](./224003-missing-heroes.json) |
 | Missing In Action | 40806 | [40806-missing-in-action.json](./40806-missing-in-action.json) |
 | Missing Kitty | 258724 | [258724-missing-kitty.json](./258724-missing-kitty.json) |
@@ -3520,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Msoids | 199081 | [199081-msoids.json](./199081-msoids.json) |
 | MSSP 9: New Pietniemi | 308263 | [308263-mssp-9-new-pietniemi.json](./308263-mssp-9-new-pietniemi.json) |
 | MSSP8 | 308262 | [308262-mssp8.json](./308262-mssp8.json) |
+| MSX Soccer | 94680 | [94680-msx-soccer.json](./94680-msx-soccer.json) |
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
@@ -3563,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Maze 3D: Complete Edition | 298574 | [298574-multi-maze-3d-complete-edition.json](./298574-multi-maze-3d-complete-edition.json) |
 | Multi Play Volleyball | 38363 | [38363-multi-play-volleyball.json](./38363-multi-play-volleyball.json) |
 | Multi Sandbox | 102751 | [102751-multi-sandbox.json](./102751-multi-sandbox.json) |
+| Multi Sports | 94688 | [94688-multi-sports.json](./94688-multi-sports.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
@@ -3756,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Chemical Romance: Helena | 328268 | [328268-my-chemical-romance-helena.json](./328268-my-chemical-romance-helena.json) |
 | My Chemical Romance: Sweet Revenge!!! | 328267 | [328267-my-chemical-romance-sweet-revenge.json](./328267-my-chemical-romance-sweet-revenge.json) |
 | My Child New Beginnings | 151702 | [151702-my-child-new-beginnings.json](./151702-my-child-new-beginnings.json) |
+| My Chinese Coach | 94712 | [94712-my-chinese-coach.json](./94712-my-chinese-coach.json) |
 | My City - Entertainment Tycoon | 105926 | [105926-my-city-entertainment-tycoon.json](./105926-my-city-entertainment-tycoon.json) |
 | My Clone Army: Me, Myself & I | 224010 | [224010-my-clone-army-me-myself-and-i.json](./224010-my-clone-army-me-myself-and-i.json) |
 | My College Picture with Them | 316652 | [316652-my-college-picture-with-them.json](./316652-my-college-picture-with-them.json) |
