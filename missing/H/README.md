@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
+| Haunted Jail: Alcatas | 116980 | [116980-haunted-jail-alcatas.json](./116980-haunted-jail-alcatas.json) |
 | Haunted Lands: Burial Grounds | 240502 | [240502-haunted-lands-burial-grounds.json](./240502-haunted-lands-burial-grounds.json) |
 | Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
 | Haunted Legends: The Undertaker | 140028 | [140028-haunted-legends-the-undertaker.json](./140028-haunted-legends-the-undertaker.json) |
@@ -1907,6 +1908,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houkago Girls Tribe | 55928 | [55928-houkago-girls-tribe.json](./55928-houkago-girls-tribe.json) |
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
 | Houkago wa Gin no Shirabe | 218475 | [218475-houkago-wa-gin-no-shirabe.json](./218475-houkago-wa-gin-no-shirabe.json) |
+| Houma Hunter Lime | 117027 | [117027-houma-hunter-lime.json](./117027-houma-hunter-lime.json) |
+| Houma Hunter Lime Dai 02 Wa | 117028 | [117028-houma-hunter-lime-dai-02-wa.json](./117028-houma-hunter-lime-dai-02-wa.json) |
+| Houma Hunter Lime Dai 03 Wa | 117029 | [117029-houma-hunter-lime-dai-03-wa.json](./117029-houma-hunter-lime-dai-03-wa.json) |
+| Houma Hunter Lime: Special Collection Vol. 1 | 117026 | [117026-houma-hunter-lime-special-collection-vol-1.json](./117026-houma-hunter-lime-special-collection-vol-1.json) |
 | Hound: Automaton | 320145 | [320145-hound-automaton.json](./320145-hound-automaton.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
@@ -2061,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human.exe | 391074 | [391074-human-exe.json](./391074-human-exe.json) |
 | Human's Red Destiny | 410266 | [410266-humans-red-destiny.json](./410266-humans-red-destiny.json) |
 | HumanBloodSandwich | 389406 | [389406-humanbloodsandwich.json](./389406-humanbloodsandwich.json) |
+| Humanitas | 117001 | [117001-humanitas.json](./117001-humanitas.json) |
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
 | Humankind: Cultures of Africa | 188046 | [188046-humankind-cultures-of-africa.json](./188046-humankind-cultures-of-africa.json) |
