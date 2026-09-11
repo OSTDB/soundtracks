@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Scabs | 177508 | [177508-candy-scabs.json](./177508-candy-scabs.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
+| Candy Star Break | 96009 | [96009-candy-star-break.json](./96009-candy-star-break.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | CandyMouse | 241349 | [241349-candymouse.json](./241349-candymouse.json) |
 | Candypink | 176496 | [176496-candypink.json](./176496-candypink.json) |
@@ -2181,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
 | Colorim | 261525 | [261525-colorim.json](./261525-colorim.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
+| Coloring Book for Ladybug & Cat Noir | 96011 | [96011-coloring-book-for-ladybug-and-cat-noir.json](./96011-coloring-book-for-ladybug-and-cat-noir.json) |
 | Coloring Book: Complete Bundle - 410 drawings | 283191 | [283191-coloring-book-complete-bundle-410-drawings.json](./283191-coloring-book-complete-bundle-410-drawings.json) |
 | Coloring Bundle | 317237 | [317237-coloring-bundle.json](./317237-coloring-bundle.json) |
 | Coloring Game 3: Art Museum | 252759 | [252759-coloring-game-3-art-museum.json](./252759-coloring-game-3-art-museum.json) |
@@ -3112,6 +3114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
 | Crime Cities | 7872 | [7872-crime-cities.json](./7872-crime-cities.json) |
 | Crime Coast - Mob versus Mafia | 87665 | [87665-crime-coast-mob-versus-mafia.json](./87665-crime-coast-mob-versus-mafia.json) |
+| Crime Code | 96022 | [96022-crime-code.json](./96022-crime-code.json) |
 | Crime Corporation | 174829 | [174829-crime-corporation.json](./174829-crime-corporation.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
 | Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
@@ -3338,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
 | Cryptonaut | 190132 | [190132-cryptonaut.json](./190132-cryptonaut.json) |
 | CryptoQuiz | 108443 | [108443-cryptoquiz.json](./108443-cryptoquiz.json) |
+| CryptoQuote | 96031 | [96031-cryptoquote.json](./96031-cryptoquote.json) |
 | Cryptoria | 406128 | [406128-cryptoria.json](./406128-cryptoria.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
 | Crysis 3 Remastered | 165127 | [165127-crysis-3-remastered.json](./165127-crysis-3-remastered.json) |
