@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
 | Namco Museum Mini Player | 220134 | [220134-namco-museum-mini-player.json](./220134-namco-museum-mini-player.json) |
+| namCollection | 94721 | [94721-namcollection.json](./94721-namcollection.json) |
 | Name that Sonic Tune | 326960 | [326960-name-that-sonic-tune.json](./326960-name-that-sonic-tune.json) |
 | Nameless | 256829 | [256829-nameless.json](./256829-nameless.json) |
 | Nameless Dreams: Endless Nightmares | 327186 | [327186-nameless-dreams-endless-nightmares.json](./327186-nameless-dreams-endless-nightmares.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
 | Noel's Hope | 113703 | [113703-noels-hope.json](./113703-noels-hope.json) |
 | Nofland Story | 220304 | [220304-nofland-story.json](./220304-nofland-story.json) |
+| Nogard | 94729 | [94729-nogard.json](./94729-nogard.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
 | Nohzdyve | 123624 | [123624-nohzdyve.json](./123624-nohzdyve.json) |
 | Noir Crime Bundle: Mafia, Mystery & Investigation | 402297 | [402297-noir-crime-bundle-mafia-mystery-and-investigation.json](./402297-noir-crime-bundle-mafia-mystery-and-investigation.json) |
@@ -1494,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyakori's Rabbit Doll | 130403 | [130403-nyakoris-rabbit-doll.json](./130403-nyakoris-rabbit-doll.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
 | Nyan to Wonderful | 143674 | [143674-nyan-to-wonderful.json](./143674-nyan-to-wonderful.json) |
+| Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
 | Nyanco Dream | 126557 | [126557-nyanco-dream.json](./126557-nyanco-dream.json) |
 | Nyanco Project | 120984 | [120984-nyanco-project.json](./120984-nyanco-project.json) |
 | Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
