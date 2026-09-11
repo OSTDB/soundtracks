@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WebbVR: The James Webb Space Telescope Virtual Experience | 111631 | [111631-webbvr-the-james-webb-space-telescope-virtual-experience.json](./111631-webbvr-the-james-webb-space-telescope-virtual-experience.json) |
 | WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
+| WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
@@ -853,6 +854,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisperstring | 329970 | [329970-whisperstring.json](./329970-whisperstring.json) |
 | Whistle Pig | 350451 | [350451-whistle-pig.json](./350451-whistle-pig.json) |
 | WhiTaers | 113663 | [113663-whitaers.json](./113663-whitaers.json) |
+| White Album 2: Closing Chapter | 79869 | [79869-white-album-2-closing-chapter.json](./79869-white-album-2-closing-chapter.json) |
+| White Album 2: Shiawase no Mukougawa | 79871 | [79871-white-album-2-shiawase-no-mukougawa.json](./79871-white-album-2-shiawase-no-mukougawa.json) |
+| White Album: Memories Like Falling Snow | 79870 | [79870-white-album-memories-like-falling-snow.json](./79870-white-album-memories-like-falling-snow.json) |
 | White City Dating Sim | 394164 | [394164-white-city-dating-sim.json](./394164-white-city-dating-sim.json) |
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
@@ -1013,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
 | Wildlife Simulator: Crocodile | 96723 | [96723-wildlife-simulator-crocodile.json](./96723-wildlife-simulator-crocodile.json) |
 | Wildmagic Wizardry | 270106 | [270106-wildmagic-wizardry.json](./270106-wildmagic-wizardry.json) |
+| Wilds.io | 79877 | [79877-wilds-io.json](./79877-wilds-io.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
