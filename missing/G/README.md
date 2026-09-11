@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowie Shooter | 316404 | [316404-glowie-shooter.json](./316404-glowie-shooter.json) |
 | Glowkeeper | 337078 | [337078-glowkeeper.json](./337078-glowkeeper.json) |
 | GlowyJump | 129732 | [129732-glowyjump.json](./129732-glowyjump.json) |
+| Glozzle | 107122 | [107122-glozzle.json](./107122-glozzle.json) |
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
@@ -1505,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Range | 175333 | [175333-gravity-range.json](./175333-gravity-range.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
+| Gravity Shots | 107112 | [107112-gravity-shots.json](./107112-gravity-shots.json) |
 | Gravity Sphere | 309870 | [309870-gravity-sphere.json](./309870-gravity-sphere.json) |
 | Gravity Still Sucks! | 251210 | [251210-gravity-still-sucks.json](./251210-gravity-still-sucks.json) |
 | Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
