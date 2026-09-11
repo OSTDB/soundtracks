@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nahi's Winter Holidate | 386736 | [386736-nahis-winter-holidate.json](./386736-nahis-winter-holidate.json) |
 | Naiad | 180277 | [180277-naiad.json](./180277-naiad.json) |
 | Naïca | 118959 | [118959-naica.json](./118959-naica.json) |
+| Nail Salon | 89198 | [89198-nail-salon.json](./89198-nail-salon.json) |
 | Nailed It | 189111 | [189111-nailed-it.json](./189111-nailed-it.json) |
 | Nailed It! Baking Bash | 204457 | [204457-nailed-it-baking-bash.json](./204457-nailed-it-baking-bash.json) |
 | Naima's Melody | 122407 | [122407-naimas-melody.json](./122407-naimas-melody.json) |
@@ -962,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nimble Quest | 16780 | [16780-nimble-quest.json](./16780-nimble-quest.json) |
+| Nimian Legends: BrightRidge | 89183 | [89183-nimian-legends-brightridge.json](./89183-nimian-legends-brightridge.json) |
 | Nimpize Adventure | 135170 | [135170-nimpize-adventure.json](./135170-nimpize-adventure.json) |
 | Nin Online | 96688 | [96688-nin-online.json](./96688-nin-online.json) |
 | Nina Aquila: Legal Eagle | 134657 | [134657-nina-aquila-legal-eagle.json](./134657-nina-aquila-legal-eagle.json) |
