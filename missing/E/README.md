@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Cannibal Family | 301246 | [301246-escape-from-the-cannibal-family.json](./301246-escape-from-the-cannibal-family.json) |
 | Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
+| Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
 | Escape from the Snow Lodge: Escape after Sex3 | 82959 | [82959-escape-from-the-snow-lodge-escape-after-sex3.json](./82959-escape-from-the-snow-lodge-escape-after-sex3.json) |
 | Escape from the Squirrel Park | 185161 | [185161-escape-from-the-squirrel-park.json](./185161-escape-from-the-squirrel-park.json) |
@@ -1013,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape The Forest | 301828 | [301828-escape-the-forest.json](./301828-escape-the-forest.json) |
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
 | Escape the Museum | 6668 | [6668-escape-the-museum.json](./6668-escape-the-museum.json) |
+| Escape the Office | 100729 | [100729-escape-the-office.json](./100729-escape-the-office.json) |
 | Escape the past Collection | 177053 | [177053-escape-the-past-collection.json](./177053-escape-the-past-collection.json) |
 | Escape the Prison: 3 Days to Freedom | 248657 | [248657-escape-the-prison-3-days-to-freedom.json](./248657-escape-the-prison-3-days-to-freedom.json) |
 | Escape the Quack | 332986 | [332986-escape-the-quack.json](./332986-escape-the-quack.json) |
