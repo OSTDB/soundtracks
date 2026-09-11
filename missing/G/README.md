@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangstar New York | 211210 | [211210-gangstar-new-york.json](./211210-gangstar-new-york.json) |
 | Gangstar: Miami Vindication | 152331 | [152331-gangstar-miami-vindication.json](./152331-gangstar-miami-vindication.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
+| Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
@@ -1891,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Bros 2 | 343798 | [343798-gun-bros-2.json](./343798-gun-bros-2.json) |
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
+| Gun Done: Who is Awesome | 97923 | [97923-gun-done-who-is-awesome.json](./97923-gun-done-who-is-awesome.json) |
 | Gun Duel | 164987 | [164987-gun-duel.json](./164987-gun-duel.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Fighting | 279008 | [279008-gun-fighting.json](./279008-gun-fighting.json) |
