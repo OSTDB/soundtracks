@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
 | Devil Stone | 110329 | [110329-devil-stone.json](./110329-devil-stone.json) |
+| Devil Under Sun | 113653 | [113653-devil-under-sun.json](./113653-devil-under-sun.json) |
 | Devil World | 4612 | [4612-devil-world.json](./4612-devil-world.json) |
 | Devil World | 55212 | [55212-devil-world.json](./55212-devil-world.json) |
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge the Creeps | 344390 | [344390-dodge-the-creeps.json](./344390-dodge-the-creeps.json) |
 | DodgeKing | 213989 | [213989-dodgeking.json](./213989-dodgeking.json) |
 | DodgerBall | 59415 | [59415-dodgerball.json](./59415-dodgerball.json) |
+| Dodgerman | 113645 | [113645-dodgerman.json](./113645-dodgerman.json) |
 | Dodgy Deliveries | 295796 | [295796-dodgy-deliveries.json](./295796-dodgy-deliveries.json) |
 | Dodgy Rocks | 133988 | [133988-dodgy-rocks.json](./133988-dodgy-rocks.json) |
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
@@ -2505,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Champions | 125473 | [125473-dragon-champions.json](./125473-dragon-champions.json) |
+| Dragon Chase | 113659 | [113659-dragon-chase.json](./113659-dragon-chase.json) |
 | Dragon City | 38877 | [38877-dragon-city.json](./38877-dragon-city.json) |
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
 | Dragon Court | 281384 | [281384-dragon-court.json](./281384-dragon-court.json) |
@@ -3219,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk Hit | 87360 | [87360-dunk-hit.json](./87360-dunk-hit.json) |
 | Dunk Tower | 242801 | [242801-dunk-tower.json](./242801-dunk-tower.json) |
 | Dunkehr | 141181 | [141181-dunkehr.json](./141181-dunkehr.json) |
+| Dunkypung | 113637 | [113637-dunkypung.json](./113637-dunkypung.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
 | Dunrog | 124203 | [124203-dunrog.json](./124203-dunrog.json) |
 | Dunwell | 133990 | [133990-dunwell.json](./133990-dunwell.json) |
