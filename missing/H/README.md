@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana | 178033 | [178033-hana.json](./178033-hana.json) |
 | Hana | 369565 | [369565-hana.json](./369565-hana.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
+| Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
@@ -1370,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263493 | [263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263493-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
+| Higurashi no Naku Koro ni Kizuna Volume II: Sou | 111749 | [111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json](./111749-higurashi-no-naku-koro-ni-kizuna-volume-ii-sou.json) |
 | Higurashi no Naku Koro ni Kizuna: Alternative Hirukowashi-hen | 262970 | [262970-higurashi-no-naku-koro-ni-kizuna-alternative-hirukowashi-hen.json](./262970-higurashi-no-naku-koro-ni-kizuna-alternative-hirukowashi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Himatsubushi-hen | 262960 | [262960-higurashi-no-naku-koro-ni-kizuna-himatsubushi-hen.json](./262960-higurashi-no-naku-koro-ni-kizuna-himatsubushi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Kageboushi-hen | 262971 | [262971-higurashi-no-naku-koro-ni-kizuna-kageboushi-hen.json](./262971-higurashi-no-naku-koro-ni-kizuna-kageboushi-hen.json) |
