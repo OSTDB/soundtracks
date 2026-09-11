@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia Record | 231933 | [231933-magia-record.json](./231933-magia-record.json) |
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
+| Magic & Empire | 97380 | [97380-magic-and-empire.json](./97380-magic-and-empire.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
@@ -937,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Assault Network | 9379 | [9379-massive-assault-network.json](./9379-massive-assault-network.json) |
 | Massive Assault Network 2 | 9381 | [9381-massive-assault-network-2.json](./9381-massive-assault-network-2.json) |
 | Massive Decks | 146833 | [146833-massive-decks.json](./146833-massive-decks.json) |
+| Master Arena | 97280 | [97280-master-arena.json](./97280-master-arena.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
 | Master Break | 177553 | [177553-master-break.json](./177553-master-break.json) |
 | Master Chess Ultimate | 193459 | [193459-master-chess-ultimate.json](./193459-master-chess-ultimate.json) |
@@ -2821,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Forward | 295553 | [295553-monkey-forward.json](./295553-monkey-forward.json) |
 | Monkey Fright | 257405 | [257405-monkey-fright.json](./257405-monkey-fright.json) |
 | Monkey Gang | 351007 | [351007-monkey-gang.json](./351007-monkey-gang.json) |
+| Monkey GO Happy | 97313 | [97313-monkey-go-happy.json](./97313-monkey-go-happy.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
 | Monkey King vs Transformers | 156160 | [156160-monkey-king-vs-transformers.json](./156160-monkey-king-vs-transformers.json) |
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
