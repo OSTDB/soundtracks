@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
 | Hameln no Violin Hiki | 38365 | [38365-hameln-no-violin-hiki.json](./38365-hameln-no-violin-hiki.json) |
+| HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
 | Hammer climber - Hard Get Over | 105944 | [105944-hammer-climber-hard-get-over.json](./105944-hammer-climber-hard-get-over.json) |
@@ -1918,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houkago Cinderella: Complete Limited Edition | 182479 | [182479-houkago-cinderella-complete-limited-edition.json](./182479-houkago-cinderella-complete-limited-edition.json) |
 | Houkago Girls Tribe | 55928 | [55928-houkago-girls-tribe.json](./55928-houkago-girls-tribe.json) |
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
+| Houkago Shounen | 109060 | [109060-houkago-shounen.json](./109060-houkago-shounen.json) |
 | Houkago wa Gin no Shirabe | 218475 | [218475-houkago-wa-gin-no-shirabe.json](./218475-houkago-wa-gin-no-shirabe.json) |
 | Houma Hunter Lime | 117027 | [117027-houma-hunter-lime.json](./117027-houma-hunter-lime.json) |
 | Houma Hunter Lime Dai 02 Wa | 117028 | [117028-houma-hunter-lime-dai-02-wa.json](./117028-houma-hunter-lime-dai-02-wa.json) |
