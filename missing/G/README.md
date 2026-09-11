@@ -1893,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun & Girls.io | 200754 | [200754-gun-and-girls-io.json](./200754-gun-and-girls-io.json) |
 | Gun Blood Cowboy Duel | 103506 | [103506-gun-blood-cowboy-duel.json](./103506-gun-blood-cowboy-duel.json) |
 | Gun Breaker | 227258 | [227258-gun-breaker.json](./227258-gun-breaker.json) |
+| Gun Bros | 94169 | [94169-gun-bros.json](./94169-gun-bros.json) |
 | Gun Bros 2 | 343798 | [343798-gun-bros-2.json](./343798-gun-bros-2.json) |
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
@@ -2034,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guro Dere | 108971 | [108971-guro-dere.json](./108971-guro-dere.json) |
 | Guroku Rainbow | 237373 | [237373-guroku-rainbow.json](./237373-guroku-rainbow.json) |
 | Guru Guru | 309884 | [309884-guru-guru.json](./309884-guru-guru.json) |
+| Guru Guru | 94165 | [94165-guru-guru.json](./94165-guru-guru.json) |
 | Guru Logic | 84233 | [84233-guru-logic.json](./84233-guru-logic.json) |
 | Guru Meditation | 178091 | [178091-guru-meditation.json](./178091-guru-meditation.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
