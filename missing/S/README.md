@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
+| Sky Kingdoms - Castle Siege | 100747 | [100747-sky-kingdoms-castle-siege.json](./100747-sky-kingdoms-castle-siege.json) |
 | Sky Mad | 310184 | [310184-sky-mad.json](./310184-sky-mad.json) |
 | Sky Mercenaries Redux | 147901 | [147901-sky-mercenaries-redux.json](./147901-sky-mercenaries-redux.json) |
 | Sky Oceans: Wings for Hire | 238559 | [238559-sky-oceans-wings-for-hire.json](./238559-sky-oceans-wings-for-hire.json) |
@@ -3077,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SolForge | 16487 | [16487-solforge.json](./16487-solforge.json) |
 | Solid Void Art Nonograms | 378770 | [378770-solid-void-art-nonograms.json](./378770-solid-void-art-nonograms.json) |
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
+| Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solitaire | 243701 | [243701-solitaire.json](./243701-solitaire.json) |
 | Solitaire | 246627 | [246627-solitaire.json](./246627-solitaire.json) |
@@ -4076,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
+| Spider Ultimate | 100738 | [100738-spider-ultimate.json](./100738-spider-ultimate.json) |
 | Spider-Guy: Trapped in the Cheese Place | 291773 | [291773-spider-guy-trapped-in-the-cheese-place.json](./291773-spider-guy-trapped-in-the-cheese-place.json) |
 | Spider-Man | 220109 | [220109-spider-man.json](./220109-spider-man.json) |
 | Spider-Man | 248203 | [248203-spider-man.json](./248203-spider-man.json) |
@@ -5050,6 +5053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Revenge: Demon Slayer | 323201 | [323201-stickman-revenge-demon-slayer.json](./323201-stickman-revenge-demon-slayer.json) |
 | Stickman Skater | 174341 | [174341-stickman-skater.json](./174341-stickman-skater.json) |
 | Stickman Strikes: Conquer Fantasy World | 317870 | [317870-stickman-strikes-conquer-fantasy-world.json](./317870-stickman-strikes-conquer-fantasy-world.json) |
+| Stickman War Lightsaber Games | 100746 | [100746-stickman-war-lightsaber-games.json](./100746-stickman-war-lightsaber-games.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
@@ -5070,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
 | Still Heroes | 197963 | [197963-still-heroes.json](./197963-still-heroes.json) |
 | Still Joking | 221425 | [221425-still-joking.json](./221425-still-joking.json) |
+| Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
@@ -5278,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Karate Fighter 2 Online | 102827 | [102827-street-karate-fighter-2-online.json](./102827-street-karate-fighter-2-online.json) |
 | Street Lamp Lover | 336530 | [336530-street-lamp-lover.json](./336530-street-lamp-lover.json) |
 | Street Legal Racing: Redline | 77346 | [77346-street-legal-racing-redline.json](./77346-street-legal-racing-redline.json) |
+| Street Level: Android Edition | 100752 | [100752-street-level-android-edition.json](./100752-street-level-android-edition.json) |
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street of the Cats | 293631 | [293631-street-of-the-cats.json](./293631-street-of-the-cats.json) |
@@ -5775,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Corners | 100776 | [100776-super-corners.json](./100776-super-corners.json) |
 | Super Cosplay War Ultra | 66117 | [66117-super-cosplay-war-ultra.json](./66117-super-cosplay-war-ultra.json) |
 | Super Craft: Building Game | 100851 | [100851-super-craft-building-game.json](./100851-super-craft-building-game.json) |
+| Super Craft: Exploration Survival | 100961 | [100961-super-craft-exploration-survival.json](./100961-super-craft-exploration-survival.json) |
 | Super Cream 64: The Grand Finale | 214764 | [214764-super-cream-64-the-grand-finale.json](./214764-super-cream-64-the-grand-finale.json) |
 | Super Creme World | 267920 | [267920-super-creme-world.json](./267920-super-creme-world.json) |
 | Super Crypto Kart | 138748 | [138748-super-crypto-kart.json](./138748-super-crypto-kart.json) |
