@@ -185,6 +185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxystrife | 177018 | [177018-galaxystrife.json](./177018-galaxystrife.json) |
 | Galdia | 343250 | [343250-galdia.json](./343250-galdia.json) |
 | GALDR | 307585 | [307585-galdr.json](./307585-galdr.json) |
+| Galdur | 103461 | [103461-galdur.json](./103461-galdur.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
 | Galerians: Limited Edition | 146856 | [146856-galerians-limited-edition.json](./146856-galerians-limited-edition.json) |
 | Galga | 227882 | [227882-galga.json](./227882-galga.json) |
@@ -895,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Chess | 106583 | [106583-glow-chess.json](./106583-glow-chess.json) |
 | Glow Hockey 2 | 228068 | [228068-glow-hockey-2.json](./228068-glow-hockey-2.json) |
 | Glow Hockey 2 HD | 91984 | [91984-glow-hockey-2-hd.json](./91984-glow-hockey-2-hd.json) |
+| Glow Hockey HD - 2 Player Neon Light Air Hockey | 103546 | [103546-glow-hockey-hd-2-player-neon-light-air-hockey.json](./103546-glow-hockey-hd-2-player-neon-light-air-hockey.json) |
 | Glow Puzzle by Glosculptor | 94787 | [94787-glow-puzzle-by-glosculptor.json](./94787-glow-puzzle-by-glosculptor.json) |
 | Glow Stairs | 174358 | [174358-glow-stairs.json](./174358-glow-stairs.json) |
 | Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
