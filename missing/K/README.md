@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Pilot | 375866 | [375866-kid-pilot.json](./375866-kid-pilot.json) |
 | Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
 | Kid's Activity Center | 87688 | [87688-kids-activity-center.json](./87688-kids-activity-center.json) |
+| Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
