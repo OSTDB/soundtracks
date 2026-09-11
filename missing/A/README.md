@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Escape Jetpack | 235225 | [235225-adventure-escape-jetpack.json](./235225-adventure-escape-jetpack.json) |
 | Adventure Escape Room Bundle | 247492 | [247492-adventure-escape-room-bundle.json](./247492-adventure-escape-room-bundle.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
+| Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure II | 40783 | [40783-adventure-ii.json](./40783-adventure-ii.json) |
 | Adventure In Aellion | 117691 | [117691-adventure-in-aellion.json](./117691-adventure-in-aellion.json) |
@@ -706,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronaut | 124175 | [124175-aeronaut.json](./124175-aeronaut.json) |
 | Aeronautica Imperialis: Flight Command | 132207 | [132207-aeronautica-imperialis-flight-command.json](./132207-aeronautica-imperialis-flight-command.json) |
 | Aeroplanes | 249483 | [249483-aeroplanes.json](./249483-aeroplanes.json) |
+| Aeroplanoui | 105296 | [105296-aeroplanoui.json](./105296-aeroplanoui.json) |
 | AeroWave OS | 397713 | [397713-aerowave-os.json](./397713-aerowave-os.json) |
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
 | Aery Series Bundle | 173794 | [173794-aery-series-bundle.json](./173794-aery-series-bundle.json) |
@@ -1363,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
+| All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
@@ -1495,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
 | Amaze: Halloween | 110183 | [110183-amaze-halloween.json](./110183-amaze-halloween.json) |
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
+| Amaze'd | 105299 | [105299-amazed.json](./105299-amazed.json) |
 | AmazeBowl | 104070 | [104070-amazebowl.json](./104070-amazebowl.json) |
 | Amazed | 171573 | [171573-amazed.json](./171573-amazed.json) |
 | Amazeing Lemons | 75901 | [75901-amazeing-lemons.json](./75901-amazeing-lemons.json) |
@@ -2596,6 +2600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
 | Armored Warfare | 15853 | [15853-armored-warfare.json](./15853-armored-warfare.json) |
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
+| Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
 | Arms Race: TCWE | 29691 | [29691-arms-race-tcwe.json](./29691-arms-race-tcwe.json) |
@@ -3196,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automaton Heart | 317850 | [317850-automaton-heart.json](./317850-automaton-heart.json) |
 | Automatonics | 244263 | [244263-automatonics.json](./244263-automatonics.json) |
 | Automatrain | 217329 | [217329-automatrain.json](./217329-automatrain.json) |
+| Automatum | 105302 | [105302-automatum.json](./105302-automatum.json) |
 | Automobiles and the Eisenhower Hiway System the Game | 111070 | [111070-automobiles-and-the-eisenhower-hiway-system-the-game.json](./111070-automobiles-and-the-eisenhower-hiway-system-the-game.json) |
 | Automobilista | 19442 | [19442-automobilista.json](./19442-automobilista.json) |
 | Automobilista 2: Adrenaline Pack Pt2 | 352745 | [352745-automobilista-2-adrenaline-pack-pt2.json](./352745-automobilista-2-adrenaline-pack-pt2.json) |
