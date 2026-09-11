@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost World: Jurassic Park | 147441 | [147441-the-lost-world-jurassic-park.json](./147441-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147442 | [147442-the-lost-world-jurassic-park.json](./147442-the-lost-world-jurassic-park.json) |
 | The Lost World: Jurassic Park | 147443 | [147443-the-lost-world-jurassic-park.json](./147443-the-lost-world-jurassic-park.json) |
+| The Lot | 116317 | [116317-the-lot.json](./116317-the-lot.json) |
 | The Lotus Eater | 184610 | [184610-the-lotus-eater.json](./184610-the-lotus-eater.json) |
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
@@ -2887,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rewinder: Root of Evil | 267364 | [267364-the-rewinder-root-of-evil.json](./267364-the-rewinder-root-of-evil.json) |
 | The Rhythm of Fighters: SNK Original Sound Collection | 80562 | [80562-the-rhythm-of-fighters-snk-original-sound-collection.json](./80562-the-rhythm-of-fighters-snk-original-sound-collection.json) |
 | The Riflemen | 207311 | [207311-the-riflemen.json](./207311-the-riflemen.json) |
+| The Rift | 116300 | [116300-the-rift.json](./116300-the-rift.json) |
 | The Rift | 343276 | [343276-the-rift.json](./343276-the-rift.json) |
 | The Right Turn | 183060 | [183060-the-right-turn.json](./183060-the-right-turn.json) |
 | The Rings of Powder: The Weird World of the Elves | 285469 | [285469-the-rings-of-powder-the-weird-world-of-the-elves.json](./285469-the-rings-of-powder-the-weird-world-of-the-elves.json) |
