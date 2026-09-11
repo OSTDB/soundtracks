@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qorena | 211931 | [211931-qorena.json](./211931-qorena.json) |
 | QotU | 308538 | [308538-qotu.json](./308538-qotu.json) |
 | QP Kiss | 188576 | [188576-qp-kiss.json](./188576-qp-kiss.json) |
+| Qrank | 94181 | [94181-qrank.json](./94181-qrank.json) |
 | QS Asteroids | 319593 | [319593-qs-asteroids.json](./319593-qs-asteroids.json) |
 | QS Defender | 319594 | [319594-qs-defender.json](./319594-qs-defender.json) |
 | QS Scramble | 319595 | [319595-qs-scramble.json](./319595-qs-scramble.json) |
@@ -74,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
 | Quán Zhàn Tiānxià | 156616 | [156616-quan-zhan-tianxia.json](./156616-quan-zhan-tianxia.json) |
+| Quandaries | 94166 | [94166-quandaries.json](./94166-quandaries.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
 | Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
 | Quantum Apex | 195151 | [195151-quantum-apex.json](./195151-quantum-apex.json) |
@@ -229,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Thiz Spain: Silver Edition | 232716 | [232716-quiz-thiz-spain-silver-edition.json](./232716-quiz-thiz-spain-silver-edition.json) |
 | Quiz Thiz USA: Gold Edition | 227881 | [227881-quiz-thiz-usa-gold-edition.json](./227881-quiz-thiz-usa-gold-edition.json) |
 | Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
+| Quizball Goal | 94167 | [94167-quizball-goal.json](./94167-quizball-goal.json) |
 | QuizFizz | 255140 | [255140-quizfizz.json](./255140-quizfizz.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
 | QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
