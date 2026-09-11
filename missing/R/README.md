@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raceway: Drag & Stock Racing | 168316 | [168316-raceway-drag-and-stock-racing.json](./168316-raceway-drag-and-stock-racing.json) |
 | RaceXXL Space | 367394 | [367394-racexxl-space.json](./367394-racexxl-space.json) |
 | Rachel and Ariane | 255101 | [255101-rachel-and-ariane.json](./255101-rachel-and-ariane.json) |
+| Racing | 91357 | [91357-racing.json](./91357-racing.json) |
 | Racing 2020 | 129204 | [129204-racing-2020.json](./129204-racing-2020.json) |
 | Racing City | 104588 | [104588-racing-city.json](./104588-racing-city.json) |
 | Racing Clash Club | 174816 | [174816-racing-clash-club.json](./174816-racing-clash-club.json) |
@@ -1865,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue of the Seven Seas | 180761 | [180761-rogue-of-the-seven-seas.json](./180761-rogue-of-the-seven-seas.json) |
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
 | Rogue Planet | 197343 | [197343-rogue-planet.json](./197343-rogue-planet.json) |
+| Rogue Planet | 91355 | [91355-rogue-planet.json](./91355-rogue-planet.json) |
 | Rogue Princess | 211750 | [211750-rogue-princess.json](./211750-rogue-princess.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
@@ -1874,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Slash | 117647 | [117647-rogue-slash.json](./117647-rogue-slash.json) |
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
+| Rogue Star ACE | 91334 | [91334-rogue-star-ace.json](./91334-rogue-star-ace.json) |
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
