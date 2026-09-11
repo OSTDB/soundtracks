@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panta Rhei | 204090 | [204090-panta-rhei.json](./204090-panta-rhei.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
+| Panties of Rage | 109604 | [109604-panties-of-rage.json](./109604-panties-of-rage.json) |
 | Pants | 179678 | [179678-pants.json](./179678-pants.json) |
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
 | Pixels Defense | 60003 | [60003-pixels-defense.json](./60003-pixels-defense.json) |
+| Pixels Guide to Staying Dead | 109771 | [109771-pixels-guide-to-staying-dead.json](./109771-pixels-guide-to-staying-dead.json) |
 | Pixels N Pistols | 246950 | [246950-pixels-n-pistols.json](./246950-pixels-n-pistols.json) |
 | Pixels Out of Space | 186253 | [186253-pixels-out-of-space.json](./186253-pixels-out-of-space.json) |
 | Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
@@ -2583,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu GG League | 141191 | [141191-pro-yakyuu-gg-league.json](./141191-pro-yakyuu-gg-league.json) |
 | Pro Yakyuu Greatest Nine 97 | 231611 | [231611-pro-yakyuu-greatest-nine-97.json](./231611-pro-yakyuu-greatest-nine-97.json) |
 | Pro Yakyuu Spirits 2013 | 63903 | [63903-pro-yakyuu-spirits-2013.json](./63903-pro-yakyuu-spirits-2013.json) |
+| Pro Yakyuu Spirits 2019 | 109606 | [109606-pro-yakyuu-spirits-2019.json](./109606-pro-yakyuu-spirits-2019.json) |
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
