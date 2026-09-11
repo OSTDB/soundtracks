@@ -2631,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mighty Eighth VR | 224786 | [224786-the-mighty-eighth-vr.json](./224786-the-mighty-eighth-vr.json) |
 | The Migrant | 199080 | [199080-the-migrant.json](./199080-the-migrant.json) |
 | The Mildew Children | 253605 | [253605-the-mildew-children.json](./253605-the-mildew-children.json) |
+| The Mims 5 | 97294 | [97294-the-mims-5.json](./97294-the-mims-5.json) |
 | The Mind Snare | 363881 | [363881-the-mind-snare.json](./363881-the-mind-snare.json) |
 | The Mind's Eclipse | 76579 | [76579-the-minds-eclipse.json](./76579-the-minds-eclipse.json) |
 | The Mindwarp | 206169 | [206169-the-mindwarp.json](./206169-the-mindwarp.json) |
@@ -2970,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
+| The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
@@ -4673,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Last | 258452 | [258452-to-last.json](./258452-to-last.json) |
 | To Libertad | 212287 | [212287-to-libertad.json](./212287-to-libertad.json) |
 | To Light: Ex Umbra | 102370 | [102370-to-light-ex-umbra.json](./102370-to-light-ex-umbra.json) |
+| To Love Ru x 2 | 97376 | [97376-to-love-ru-x-2.json](./97376-to-love-ru-x-2.json) |
 | To Make a Game | 192889 | [192889-to-make-a-game.json](./192889-to-make-a-game.json) |
 | To My Best Friend | 149545 | [149545-to-my-best-friend.json](./149545-to-my-best-friend.json) |
 | To My Darling | 393512 | [393512-to-my-darling.json](./393512-to-my-darling.json) |
@@ -4986,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topsy Turvy | 147414 | [147414-topsy-turvy.json](./147414-topsy-turvy.json) |
 | Tor Eternum | 148496 | [148496-tor-eternum.json](./148496-tor-eternum.json) |
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
+| Toraware no Palm | 97297 | [97297-toraware-no-palm.json](./97297-toraware-no-palm.json) |
 | Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
