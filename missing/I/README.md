@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Blade | 244753 | [244753-inner-blade.json](./244753-inner-blade.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
 | Inner Life | 185081 | [185081-inner-life.json](./185081-inner-life.json) |
+| Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
 | Inner silence | 29869 | [29869-inner-silence.json](./29869-inner-silence.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
