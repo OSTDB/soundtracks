@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrative Nightmares: Trilogy of Terror | 282594 | [282594-narrative-nightmares-trilogy-of-terror.json](./282594-narrative-nightmares-trilogy-of-terror.json) |
 | Narrow Path | 203380 | [203380-narrow-path.json](./203380-narrow-path.json) |
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
+| Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
 | Naruto Shippuden: Ninja Destiny 2 | 47935 | [47935-naruto-shippuden-ninja-destiny-2.json](./47935-naruto-shippuden-ninja-destiny-2.json) |
 | Naruto Shippuden: Ultimate Ninja Blazing | 79298 | [79298-naruto-shippuden-ultimate-ninja-blazing.json](./79298-naruto-shippuden-ultimate-ninja-blazing.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Travelers: Hero of Elocea | 278980 | [278980-nexus-travelers-hero-of-elocea.json](./278980-nexus-travelers-hero-of-elocea.json) |
 | Nexus: The Kingdom of the Winds | 80550 | [80550-nexus-the-kingdom-of-the-winds.json](./80550-nexus-the-kingdom-of-the-winds.json) |
 | Nexzr | 42016 | [42016-nexzr.json](./42016-nexzr.json) |
+| Neybers | 79265 | [79265-neybers.json](./79265-neybers.json) |
 | Neyyah | 133474 | [133474-neyyah.json](./133474-neyyah.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
