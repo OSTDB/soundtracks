@@ -651,6 +651,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Lands 1 | 252390 | [252390-new-lands-1.json](./252390-new-lands-1.json) |
 | New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
 | New Life | 311796 | [311796-new-life.json](./311796-new-life.json) |
+| New LovePlus: Manaka Complete Set | 89886 | [89886-new-loveplus-manaka-complete-set.json](./89886-new-loveplus-manaka-complete-set.json) |
+| New LovePlus: Nene Complete Set | 89885 | [89885-new-loveplus-nene-complete-set.json](./89885-new-loveplus-nene-complete-set.json) |
+| New LovePlus: New Manaka Deluxe | 89884 | [89884-new-loveplus-new-manaka-deluxe.json](./89884-new-loveplus-new-manaka-deluxe.json) |
+| New LovePlus: New Nene Deluxe | 89883 | [89883-new-loveplus-new-nene-deluxe.json](./89883-new-loveplus-new-nene-deluxe.json) |
+| New LovePlus: New Rinko Deluxe | 89882 | [89882-new-loveplus-new-rinko-deluxe.json](./89882-new-loveplus-new-rinko-deluxe.json) |
+| New LovePlus: Rinko Complete Set | 89880 | [89880-new-loveplus-rinko-complete-set.json](./89880-new-loveplus-rinko-complete-set.json) |
+| New LovePlus+: Manaka Artbook Limited Edition | 89887 | [89887-new-loveplus-manaka-artbook-limited-edition.json](./89887-new-loveplus-manaka-artbook-limited-edition.json) |
+| New LovePlus+: Nene Artbook Limited Edition | 89888 | [89888-new-loveplus-nene-artbook-limited-edition.json](./89888-new-loveplus-nene-artbook-limited-edition.json) |
+| New LovePlus+: Rinko Artbook Limited Edition | 89881 | [89881-new-loveplus-rinko-artbook-limited-edition.json](./89881-new-loveplus-rinko-artbook-limited-edition.json) |
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
 | New Nintendo 3DS Internet Browser: Breakout | 251587 | [251587-new-nintendo-3ds-internet-browser-breakout.json](./251587-new-nintendo-3ds-internet-browser-breakout.json) |
 | New Path 1: Adventure or Normality? | 124237 | [124237-new-path-1-adventure-or-normality.json](./124237-new-path-1-adventure-or-normality.json) |
