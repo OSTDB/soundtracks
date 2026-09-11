@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League Star | 100870 | [100870-league-star.json](./100870-league-star.json) |
 | Leak Elite | 136385 | [136385-leak-elite.json](./136385-leak-elite.json) |
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
+| Leap Frog | 89158 | [89158-leap-frog.json](./89158-leap-frog.json) |
 | Leap in Bootstrap | 254530 | [254530-leap-in-bootstrap.json](./254530-leap-in-bootstrap.json) |
 | Leap Tactics | 357817 | [357817-leap-tactics.json](./357817-leap-tactics.json) |
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
