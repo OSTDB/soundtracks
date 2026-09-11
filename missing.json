@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T03:48:44.190Z",
-  "total_missing": 56443,
+  "generated_at": "2026-09-11T03:51:03.041Z",
+  "total_missing": 56442,
   "games": [
     {
       "igdb_id": 306086,
@@ -1891,11 +1891,6 @@
       "igdb_id": 260648,
       "game_name": "A Date for the Ages",
       "file": "missing/A/260648-a-date-for-the-ages.json"
-    },
-    {
-      "igdb_id": 243399,
-      "game_name": "A Day At the Track",
-      "file": "missing/A/243399-a-day-at-the-track.json"
     },
     {
       "igdb_id": 78681,
