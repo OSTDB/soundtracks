@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
 | Hiryuu no Ken II: Dragon no Tsubasa | 64447 | [64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json](./64447-hiryuu-no-ken-ii-dragon-no-tsubasa.json) |
 | HIS: Heroes in the Sky | 35933 | [35933-his-heroes-in-the-sky.json](./35933-his-heroes-in-the-sky.json) |
+| Hiscores! Gold | 118999 | [118999-hiscores-gold.json](./118999-hiscores-gold.json) |
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
 | Histoire de Lune | 322590 | [322590-histoire-de-lune.json](./322590-histoire-de-lune.json) |
