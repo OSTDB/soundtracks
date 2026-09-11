@@ -287,6 +287,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
 | Kelvin and The Chateau | 162432 | [162432-kelvin-and-the-chateau.json](./162432-kelvin-and-the-chateau.json) |
+| Kemco RPG Omnibus | 130304 | [130304-kemco-rpg-omnibus.json](./130304-kemco-rpg-omnibus.json) |
+| Kemco RPG Selection Vol. 3 | 130312 | [130312-kemco-rpg-selection-vol-3.json](./130312-kemco-rpg-selection-vol-3.json) |
 | Kemco: 50 RPGs Celebratory Bundle | 259865 | [259865-kemco-50-rpgs-celebratory-bundle.json](./259865-kemco-50-rpgs-celebratory-bundle.json) |
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
@@ -370,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick the Buddy: Forever | 331673 | [331673-kick-the-buddy-forever.json](./331673-kick-the-buddy-forever.json) |
 | Kick the Buddy: Remastered | 212447 | [212447-kick-the-buddy-remastered.json](./212447-kick-the-buddy-remastered.json) |
 | Kick-Ass 2 | 17488 | [17488-kick-ass-2.json](./17488-kick-ass-2.json) |
+| Kick-Flight | 130350 | [130350-kick-flight.json](./130350-kick-flight.json) |
 | Kick-the-Can | 296101 | [296101-kick-the-can.json](./296101-kick-the-can.json) |
 | Kickabit | 319966 | [319966-kickabit.json](./319966-kickabit.json) |
 | Kickback | 108491 | [108491-kickback.json](./108491-kickback.json) |
