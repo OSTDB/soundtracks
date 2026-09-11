@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
 | Paint Rider | 179187 | [179187-paint-rider.json](./179187-paint-rider.json) |
 | Paint School | 139374 | [139374-paint-school.json](./139374-paint-school.json) |
+| Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
 | Paintball Champs | 237386 | [237386-paintball-champs.json](./237386-paintball-champs.json) |
@@ -337,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
+| Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
 | PapiCatch | 87241 | [87241-papicatch.json](./87241-papicatch.json) |
 | PapiFlap | 87249 | [87249-papiflap.json](./87249-papiflap.json) |
 | PapiJump | 72701 | [72701-papijump.json](./72701-papijump.json) |
@@ -786,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
+| Peppa Pig: Seasons | 86879 | [86879-peppa-pig-seasons.json](./86879-peppa-pig-seasons.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
 | Peppered: An Existential Platformer | 170018 | [170018-peppered-an-existential-platformer.json](./170018-peppered-an-existential-platformer.json) |
 | Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
@@ -1175,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
 | Piggy Only Up | 408835 | [408835-piggy-only-up.json](./408835-piggy-only-up.json) |
 | Piggy Peter's Adventure | 118979 | [118979-piggy-peters-adventure.json](./118979-piggy-peters-adventure.json) |
+| Piggy Pile! | 87359 | [87359-piggy-pile.json](./87359-piggy-pile.json) |
 | Piggy Run Escape | 226746 | [226746-piggy-run-escape.json](./226746-piggy-run-escape.json) |
 | Piggy: Chapter 1 | 246093 | [246093-piggy-chapter-1.json](./246093-piggy-chapter-1.json) |
 | Piglet's Big Game | 314629 | [314629-piglets-big-game.json](./314629-piglets-big-game.json) |
@@ -1885,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
 | Point Gakushuu: Kakijun | 327620 | [327620-point-gakushuu-kakijun.json](./327620-point-gakushuu-kakijun.json) |
 | Point Gakushuu: Tokei | 327619 | [327619-point-gakushuu-tokei.json](./327619-point-gakushuu-tokei.json) |
+| Point of No Return | 86815 | [86815-point-of-no-return.json](./86815-point-of-no-return.json) |
 | Point of View | 140512 | [140512-point-of-view.json](./140512-point-of-view.json) |
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
 | Pointy Ends | 149520 | [149520-pointy-ends.json](./149520-pointy-ends.json) |
@@ -2524,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess | 187431 | [187431-princess.json](./187431-princess.json) |
 | Princess & Conquest | 128008 | [128008-princess-and-conquest.json](./128008-princess-and-conquest.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
+| Princess Coloring Book + | 87326 | [87326-princess-coloring-book.json](./87326-princess-coloring-book.json) |
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Isabella | 36318 | [36318-princess-isabella.json](./36318-princess-isabella.json) |
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
