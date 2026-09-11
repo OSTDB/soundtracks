@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle X Arcade | 110961 | [110961-battle-x-arcade.json](./110961-battle-x-arcade.json) |
 | Battle X Death | 223690 | [223690-battle-x-death.json](./223690-battle-x-death.json) |
+| Battle X: Birth of the Alliance | 110297 | [110297-battle-x-birth-of-the-alliance.json](./110297-battle-x-birth-of-the-alliance.json) |
 | Battle XXL | 208595 | [208595-battle-xxl.json](./208595-battle-xxl.json) |
 | Battle Zone | 245551 | [245551-battle-zone.json](./245551-battle-zone.json) |
 | Battle Zone: Clicker | 183521 | [183521-battle-zone-clicker.json](./183521-battle-zone-clicker.json) |
