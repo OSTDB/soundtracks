@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technocide | 262937 | [262937-technocide.json](./262937-technocide.json) |
+| Technolites: Episode 1 | 109616 | [109616-technolites-episode-1.json](./109616-technolites-episode-1.json) |
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
 | Techwars Global Conflict: Demigod Legacy Edition | 188028 | [188028-techwars-global-conflict-demigod-legacy-edition.json](./188028-techwars-global-conflict-demigod-legacy-edition.json) |
@@ -2301,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sacrifice: Forbidden Ties | 225680 | [225680-the-last-sacrifice-forbidden-ties.json](./225680-the-last-sacrifice-forbidden-ties.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
+| The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
 | The Last Stand | 344396 | [344396-the-last-stand.json](./344396-the-last-stand.json) |
 | The Last Stand at Camp Zombie | 251812 | [251812-the-last-stand-at-camp-zombie.json](./251812-the-last-stand-at-camp-zombie.json) |
@@ -2308,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sunshine: Rekindled | 150612 | [150612-the-last-sunshine-rekindled.json](./150612-the-last-sunshine-rekindled.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
+| The Last Train | 109625 | [109625-the-last-train.json](./109625-the-last-train.json) |
 | The Last Train: Baquedano | 343255 | [343255-the-last-train-baquedano.json](./343255-the-last-train-baquedano.json) |
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
 | The Last Vampire Hunter | 301279 | [301279-the-last-vampire-hunter.json](./301279-the-last-vampire-hunter.json) |
@@ -2839,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
+| The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
 | The Protectorate | 284914 | [284914-the-protectorate.json](./284914-the-protectorate.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
 | The Psychologist | 319934 | [319934-the-psychologist.json](./319934-the-psychologist.json) |
@@ -3744,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Doomed Isles: The First God | 244276 | [244276-these-doomed-isles-the-first-god.json](./244276-these-doomed-isles-the-first-god.json) |
 | These Robotic Hearts of Mine | 22920 | [22920-these-robotic-hearts-of-mine.json](./22920-these-robotic-hearts-of-mine.json) |
 | Theta | 67736 | [67736-theta.json](./67736-theta.json) |
+| TheTruth.exe | 109623 | [109623-thetruth-exe.json](./109623-thetruth-exe.json) |
 | Theurgy Architect | 333365 | [333365-theurgy-architect.json](./333365-theurgy-architect.json) |
 | TheWaveVR | 25014 | [25014-thewavevr.json](./25014-thewavevr.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
@@ -3765,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thickety Creek | 229049 | [229049-thickety-creek.json](./229049-thickety-creek.json) |
 | Thief | 362857 | [362857-thief.json](./362857-thief.json) |
 | Thief 2X: Shadows of the Metal Age | 159252 | [159252-thief-2x-shadows-of-the-metal-age.json](./159252-thief-2x-shadows-of-the-metal-age.json) |
+| Thief Bird | 109614 | [109614-thief-bird.json](./109614-thief-bird.json) |
 | Thief City | 221424 | [221424-thief-city.json](./221424-thief-city.json) |
 | Thief of Hearts | 179697 | [179697-thief-of-hearts.json](./179697-thief-of-hearts.json) |
 | Thief of Thieves: Season One | 95116 | [95116-thief-of-thieves-season-one.json](./95116-thief-of-thieves-season-one.json) |
@@ -3814,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
 | This Is How U Look Saying This Shit | 277597 | [277597-this-is-how-u-look-saying-this-shit.json](./277597-this-is-how-u-look-saying-this-shit.json) |
 | This Is Love | 370673 | [370673-this-is-love.json](./370673-this-is-love.json) |
+| This is Pool | 109584 | [109584-this-is-pool.json](./109584-this-is-pool.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
 | This is Timmy | 189171 | [189171-this-is-timmy.json](./189171-this-is-timmy.json) |
 | This is Vegas | 14521 | [14521-this-is-vegas.json](./14521-this-is-vegas.json) |
@@ -4922,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topsy Turvy | 147414 | [147414-topsy-turvy.json](./147414-topsy-turvy.json) |
 | Tor Eternum | 148496 | [148496-tor-eternum.json](./148496-tor-eternum.json) |
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
+| Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
 | Torbaci Oyunu | 274769 | [274769-torbaci-oyunu.json](./274769-torbaci-oyunu.json) |
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
@@ -5285,6 +5293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails of Illusion | 197951 | [197951-trails-of-illusion.json](./197951-trails-of-illusion.json) |
 | Trails of Sunder | 241077 | [241077-trails-of-sunder.json](./241077-trails-of-sunder.json) |
 | Trails of the Ancestors | 212828 | [212828-trails-of-the-ancestors.json](./212828-trails-of-the-ancestors.json) |
+| Train Conductor World | 109578 | [109578-train-conductor-world.json](./109578-train-conductor-world.json) |
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
 | Train Merger | 108472 | [108472-train-merger.json](./108472-train-merger.json) |
