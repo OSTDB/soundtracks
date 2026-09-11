@@ -94,7 +94,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
 | A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
-| A Red Sky at Dawn | 183584 | [183584-a-red-sky-at-dawn.json](./183584-a-red-sky-at-dawn.json) |
 | A Ride to Love | 140536 | [140536-a-ride-to-love.json](./140536-a-ride-to-love.json) |
 | A Roaming Wildebeest In Spain | 271244 | [271244-a-roaming-wildebeest-in-spain.json](./271244-a-roaming-wildebeest-in-spain.json) |
 | A Robot's Conundrum | 67988 | [67988-a-robots-conundrum.json](./67988-a-robots-conundrum.json) |
@@ -603,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Rock | 293939 | [293939-adventure-rock.json](./293939-adventure-rock.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
+| Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! - Collector's Edition | 89898 | [89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json](./89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Magic Man's Head Games | 19053 | [19053-adventure-time-magic-mans-head-games.json](./19053-adventure-time-magic-mans-head-games.json) |
 | Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
 | Akazukin Cha-cha | 228473 | [228473-akazukin-cha-cha.json](./228473-akazukin-cha-cha.json) |
 | Akazukin Dark Side | 150154 | [150154-akazukin-dark-side.json](./150154-akazukin-dark-side.json) |
+| AKB1/153: Renai Sousenkyo - Ultra Luxury Limited Box | 89867 | [89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json](./89867-akb1-153-renai-sousenkyo-ultra-luxury-limited-box.json) |
 | Akcionář II | 391053 | [391053-akcionar-ii.json](./391053-akcionar-ii.json) |
 | Akechi to Iu Otoko: A Danshaku-tei Satsujin Jiken | 340395 | [340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json](./340395-akechi-to-iu-otoko-a-danshaku-tei-satsujin-jiken.json) |
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
@@ -1410,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
 | Alphabet Park Adventure | 100121 | [100121-alphabet-park-adventure.json](./100121-alphabet-park-adventure.json) |
+| Alphabet Solitaire Z | 89859 | [89859-alphabet-solitaire-z.json](./89859-alphabet-solitaire-z.json) |
 | Alphabet Solitaire Z: Russian | 101576 | [101576-alphabet-solitaire-z-russian.json](./101576-alphabet-solitaire-z-russian.json) |
 | Alphabet: Play with the ABCs | 206109 | [206109-alphabet-play-with-the-abcs.json](./206109-alphabet-play-with-the-abcs.json) |
 | Alphabetty Saga | 116974 | [116974-alphabetty-saga.json](./116974-alphabetty-saga.json) |
@@ -1815,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing-e: Animal Crossing | 354415 | [354415-animal-crossing-e-animal-crossing.json](./354415-animal-crossing-e-animal-crossing.json) |
 | Animal Crossing-e: PR - Design Card: NES Link | 354416 | [354416-animal-crossing-e-pr-design-card-nes-link.json](./354416-animal-crossing-e-pr-design-card-nes-link.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
+| Animal Crossing: New Leaf - Premium Edition | 89900 | [89900-animal-crossing-new-leaf-premium-edition.json](./89900-animal-crossing-new-leaf-premium-edition.json) |
 | Animal Drifters | 219296 | [219296-animal-drifters.json](./219296-animal-drifters.json) |
 | Animal Express | 152883 | [152883-animal-express.json](./152883-animal-express.json) |
 | Animal Falling | 293089 | [293089-animal-falling.json](./293089-animal-falling.json) |
@@ -2823,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III: Benedict Arnold | 261996 | [261996-assassins-creed-iii-benedict-arnold.json](./261996-assassins-creed-iii-benedict-arnold.json) |
 | Assassin's Creed III: Liberation | 3195 | [3195-assassins-creed-iii-liberation.json](./3195-assassins-creed-iii-liberation.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
+| Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
 | Assassin's Creed Mirage & Assassin's Creed Valhalla Bundle | 271474 | [271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json](./271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json) |
 | Assassin's Creed Mirage Master Assassin Upgrade Bundle 2 | 360574 | [360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json](./360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
