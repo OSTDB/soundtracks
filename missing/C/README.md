@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculation Castle: Greco's Ghostly Challenge "Division" | 105923 | [105923-calculation-castle-grecos-ghostly-challenge-division.json](./105923-calculation-castle-grecos-ghostly-challenge-division.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Multiplication" | 105922 | [105922-calculation-castle-grecos-ghostly-challenge-multiplication.json](./105922-calculation-castle-grecos-ghostly-challenge-multiplication.json) |
 | Calculator and Monsters | 167258 | [167258-calculator-and-monsters.json](./167258-calculator-and-monsters.json) |
+| Calculator: The Game | 129167 | [129167-calculator-the-game.json](./129167-calculator-the-game.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
@@ -1055,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charm Studies | 400215 | [400215-charm-studies.json](./400215-charm-studies.json) |
 | Charmareians | 203932 | [203932-charmareians.json](./203932-charmareians.json) |
 | Charming Hearts | 302345 | [302345-charming-hearts.json](./302345-charming-hearts.json) |
+| Charmy Bee in Sonic the Hedgehog | 129181 | [129181-charmy-bee-in-sonic-the-hedgehog.json](./129181-charmy-bee-in-sonic-the-hedgehog.json) |
 | Charmy Maze | 332220 | [332220-charmy-maze.json](./332220-charmy-maze.json) |
 | Charon's Staircase | 201775 | [201775-charons-staircase.json](./201775-charons-staircase.json) |
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
@@ -1900,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Tracer | 124227 | [124227-code-tracer.json](./124227-code-tracer.json) |
+| Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Zero | 161896 | [161896-code-zero.json](./161896-code-zero.json) |
 | Code Zodiac | 251853 | [251853-code-zodiac.json](./251853-code-zodiac.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
@@ -2019,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony Assault | 34554 | [34554-colony-assault.json](./34554-colony-assault.json) |
 | Colony Battle | 145686 | [145686-colony-battle.json](./145686-colony-battle.json) |
 | Colony Defense | 273627 | [273627-colony-defense.json](./273627-colony-defense.json) |
+| Colony Ship: A Post-Earth Role Playing Game | 129128 | [129128-colony-ship-a-post-earth-role-playing-game.json](./129128-colony-ship-a-post-earth-role-playing-game.json) |
 | Colony Strikes Back | 175893 | [175893-colony-strikes-back.json](./175893-colony-strikes-back.json) |
 | Colony Wars 2494 | 19585 | [19585-colony-wars-2494.json](./19585-colony-wars-2494.json) |
 | Colony: A Space RPG | 208025 | [208025-colony-a-space-rpg.json](./208025-colony-a-space-rpg.json) |
@@ -2874,6 +2878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Taxi: Fare Wars | 1809 | [1809-crazy-taxi-fare-wars.json](./1809-crazy-taxi-fare-wars.json) |
 | Crazy Taxi: World Tour | 279633 | [279633-crazy-taxi-world-tour.json](./279633-crazy-taxi-world-tour.json) |
 | Crazy Teacher of Math in School Education Learning | 303259 | [303259-crazy-teacher-of-math-in-school-education-learning.json](./303259-crazy-teacher-of-math-in-school-education-learning.json) |
+| Crazy the Hedgehog | 129182 | [129182-crazy-the-hedgehog.json](./129182-crazy-the-hedgehog.json) |
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
