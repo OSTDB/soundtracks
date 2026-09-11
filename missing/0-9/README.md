@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Little Words | 115641 | [115641-7-little-words.json](./115641-7-little-words.json) |
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
 | 7 Sexy Sins | 127921 | [127921-7-sexy-sins.json](./127921-7-sexy-sins.json) |
+| 7 Soccer: a sci-fi soccer tale | 88178 | [88178-7-soccer-a-sci-fi-soccer-tale.json](./88178-7-soccer-a-sci-fi-soccer-tale.json) |
 | 7 Zwerge: Das Brettspiel | 84284 | [84284-7-zwerge-das-brettspiel.json](./84284-7-zwerge-das-brettspiel.json) |
 | 7,62 Hard Life | 98372 | [98372-7-62-hard-life.json](./98372-7-62-hard-life.json) |
 | 70 Seconds! Adventure | 121777 | [121777-70-seconds-adventure.json](./121777-70-seconds-adventure.json) |
