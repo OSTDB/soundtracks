@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
 | Enbody | 176999 | [176999-enbody.json](./176999-enbody.json) |
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
+| Encaved | 92981 | [92981-encaved.json](./92981-encaved.json) |
 | Enceladus | 261819 | [261819-enceladus.json](./261819-enceladus.json) |
 | Enchantasy: The Quest for the Eternal Grimoire | 356657 | [356657-enchantasy-the-quest-for-the-eternal-grimoire.json](./356657-enchantasy-the-quest-for-the-eternal-grimoire.json) |
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
@@ -743,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Survivors | 224785 | [224785-energy-survivors.json](./224785-energy-survivors.json) |
 | Energy Tail | 215924 | [215924-energy-tail.json](./215924-energy-tail.json) |
 | Energy Tanks | 269270 | [269270-energy-tanks.json](./269270-energy-tanks.json) |
+| Energy Warrior + Molecule Man | 92999 | [92999-energy-warrior-molecule-man.json](./92999-energy-warrior-molecule-man.json) |
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | Engare | 34110 | [34110-engare.json](./34110-engare.json) |
