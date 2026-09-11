@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Overlord: The Beginning | 272264 | [272264-shadow-overlord-the-beginning.json](./272264-shadow-overlord-the-beginning.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
+| Shadow Racer | 120344 | [120344-shadow-racer.json](./120344-shadow-racer.json) |
 | Shadow Redemption | 169398 | [169398-shadow-redemption.json](./169398-shadow-redemption.json) |
 | Shadow Saw Us | 408072 | [408072-shadow-saw-us.json](./408072-shadow-saw-us.json) |
 | Shadow Seeker | 150140 | [150140-shadow-seeker.json](./150140-shadow-seeker.json) |
@@ -1391,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeShift for Cheese! | 326618 | [326618-shapeshift-for-cheese.json](./326618-shapeshift-for-cheese.json) |
 | Shapeshifter: Endless Run | 392787 | [392787-shapeshifter-endless-run.json](./392787-shapeshifter-endless-run.json) |
 | Shapeu | 215108 | [215108-shapeu.json](./215108-shapeu.json) |
+| Shapey Heads | 120351 | [120351-shapey-heads.json](./120351-shapey-heads.json) |
 | Shapey Heads | 241989 | [241989-shapey-heads.json](./241989-shapey-heads.json) |
 | Shapik: The Quest | 211742 | [211742-shapik-the-quest.json](./211742-shapik-the-quest.json) |
 | Shapo | 84898 | [84898-shapo.json](./84898-shapo.json) |
@@ -2447,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
+| SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
 | Sligga Trigger | 272580 | [272580-sligga-trigger.json](./272580-sligga-trigger.json) |
@@ -2668,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Trainer | 282541 | [282541-snail-trainer.json](./282541-snail-trainer.json) |
 | Snail Trek: Chapter 4 - The Final Fondue | 89664 | [89664-snail-trek-chapter-4-the-final-fondue.json](./89664-snail-trek-chapter-4-the-final-fondue.json) |
 | Snail's Knock Out! | 301021 | [301021-snails-knock-out.json](./301021-snails-knock-out.json) |
+| Snailboy: Rise of Hermitron | 120353 | [120353-snailboy-rise-of-hermitron.json](./120353-snailboy-rise-of-hermitron.json) |
 | SnailQuest | 207306 | [207306-snailquest.json](./207306-snailquest.json) |
 | Snails | 299126 | [299126-snails.json](./299126-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
@@ -3768,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceland: Frontier | 195785 | [195785-spaceland-frontier.json](./195785-spaceland-frontier.json) |
 | Spacelords: the unofficial visual novel | 183054 | [183054-spacelords-the-unofficial-visual-novel.json](./183054-spacelords-the-unofficial-visual-novel.json) |
 | Spaceman | 309854 | [309854-spaceman.json](./309854-spaceman.json) |
+| Spaceman Defender | 120371 | [120371-spaceman-defender.json](./120371-spaceman-defender.json) |
 | Spaceman Memories | 250972 | [250972-spaceman-memories.json](./250972-spaceman-memories.json) |
 | Spacemancer | 200716 | [200716-spacemancer.json](./200716-spacemancer.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
@@ -3968,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider Bounce | 263745 | [263745-spider-bounce.json](./263745-spider-bounce.json) |
 | Spider Canyon | 332990 | [332990-spider-canyon.json](./332990-spider-canyon.json) |
+| Spider Derby | 120370 | [120370-spider-derby.json](./120370-spider-derby.json) |
 | Spider Fear | 130914 | [130914-spider-fear.json](./130914-spider-fear.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
 | Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
@@ -4235,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
+| Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
 | Spy Vs. Spy: Volumes I & II | 77397 | [77397-spy-vs-spy-volumes-i-and-ii.json](./77397-spy-vs-spy-volumes-i-and-ii.json) |
 | Spy x Anya: Operation Memories - Deluxe Outing Pack | 308814 | [308814-spy-x-anya-operation-memories-deluxe-outing-pack.json](./308814-spy-x-anya-operation-memories-deluxe-outing-pack.json) |
 | Spy x Anya: Operation Memories - Excited Outifit Pack | 308815 | [308815-spy-x-anya-operation-memories-excited-outifit-pack.json](./308815-spy-x-anya-operation-memories-excited-outifit-pack.json) |
