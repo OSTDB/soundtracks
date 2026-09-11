@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
+| Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
 | Heli Golf | 150602 | [150602-heli-golf.json](./150602-heli-golf.json) |
 | Heli Mission | 277865 | [277865-heli-mission.json](./277865-heli-mission.json) |
 | Heli War | 243934 | [243934-heli-war.json](./243934-heli-war.json) |
