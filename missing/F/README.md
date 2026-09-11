@@ -571,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
+| Fate / Hollow Ataraxia: Limited Edition | 89862 | [89862-fate-hollow-ataraxia-limited-edition.json](./89862-fate-hollow-ataraxia-limited-edition.json) |
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate Dealer | 378160 | [378160-fate-dealer.json](./378160-fate-dealer.json) |
 | Fate in the Darkness | 169385 | [169385-fate-in-the-darkness.json](./169385-fate-in-the-darkness.json) |
@@ -880,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
+| Final Fantasy Anthology Collector's Package | 89874 | [89874-final-fantasy-anthology-collectors-package.json](./89874-final-fantasy-anthology-collectors-package.json) |
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
 | Final Fantasy II | 145817 | [145817-final-fantasy-ii.json](./145817-final-fantasy-ii.json) |
 | Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
