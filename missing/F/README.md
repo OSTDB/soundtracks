@@ -1354,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
 | Flight Path 737 | 12952 | [12952-flight-path-737.json](./12952-flight-path-737.json) |
+| Flight Rising | 123023 | [123023-flight-rising.json](./123023-flight-rising.json) |
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
 | Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
 | Flight Simulator 2025 VR | 335088 | [335088-flight-simulator-2025-vr.json](./335088-flight-simulator-2025-vr.json) |
