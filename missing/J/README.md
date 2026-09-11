@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jett Rider | 260657 | [260657-jett-rider.json](./260657-jett-rider.json) |
 | Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
+| JetX: Space Edition | 118333 | [118333-jetx-space-edition.json](./118333-jetx-space-edition.json) |
 | Jewel Diamonds | 215396 | [215396-jewel-diamonds.json](./215396-jewel-diamonds.json) |
 | Jewel Match | 53251 | [53251-jewel-match.json](./53251-jewel-match.json) |
 | Jewel Match Atlantis Solitaire 2 | 153397 | [153397-jewel-match-atlantis-solitaire-2.json](./153397-jewel-match-atlantis-solitaire-2.json) |
