@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
 | Galaxy Warrior | 152319 | [152319-galaxy-warrior.json](./152319-galaxy-warrior.json) |
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
+| Galaxy Wars: Ice Empire | 102820 | [102820-galaxy-wars-ice-empire.json](./102820-galaxy-wars-ice-empire.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
 | GalaxyMotoCrossHD | 246967 | [246967-galaxymotocrosshd.json](./246967-galaxymotocrosshd.json) |
 | GalaxySpace VR | 149553 | [149553-galaxyspace-vr.json](./149553-galaxyspace-vr.json) |
