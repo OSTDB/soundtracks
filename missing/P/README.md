@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda in the clouds | 165645 | [165645-panda-in-the-clouds.json](./165645-panda-in-the-clouds.json) |
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
+| Panda Man | 115600 | [115600-panda-man.json](./115600-panda-man.json) |
 | Panda Push | 162868 | [162868-panda-push.json](./162868-panda-push.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
 | Pokémon Starwish | 394849 | [394849-pokemon-starwish.json](./394849-pokemon-starwish.json) |
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
+| Pokémon Sword & Pokémon Shield Double Pack | 115652 | [115652-pokemon-sword-and-pokemon-shield-double-pack.json](./115652-pokemon-sword-and-pokemon-shield-double-pack.json) |
 | Pokémon Sword and Shield | 294432 | [294432-pokemon-sword-and-shield.json](./294432-pokemon-sword-and-shield.json) |
 | Pokémon TCG Pocket: Everyday Wonders | 410895 | [410895-pokemon-tcg-pocket-everyday-wonders.json](./410895-pokemon-tcg-pocket-everyday-wonders.json) |
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
