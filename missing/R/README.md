@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
 | Resistance | 172166 | [172166-resistance.json](./172166-resistance.json) |
 | Resistance and Liberation | 46657 | [46657-resistance-and-liberation.json](./46657-resistance-and-liberation.json) |
+| Resistance Element | 127923 | [127923-resistance-element.json](./127923-resistance-element.json) |
 | Resistance Forces | 235445 | [235445-resistance-forces.json](./235445-resistance-forces.json) |
 | Resistance Is Brutal | 403572 | [403572-resistance-is-brutal.json](./403572-resistance-is-brutal.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
@@ -1065,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
+| Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
 | Retro Space Shooter | 75186 | [75186-retro-space-shooter.json](./75186-retro-space-shooter.json) |
 | Retro Style: Pixel Art Jigsaw Puzzles | 239063 | [239063-retro-style-pixel-art-jigsaw-puzzles.json](./239063-retro-style-pixel-art-jigsaw-puzzles.json) |
 | Retro Synthesis | 109715 | [109715-retro-synthesis.json](./109715-retro-synthesis.json) |
@@ -1652,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Paper Everything | 312010 | [312010-rock-paper-everything.json](./312010-rock-paper-everything.json) |
 | Rock Paper Scissors 2! | 178621 | [178621-rock-paper-scissors-2.json](./178621-rock-paper-scissors-2.json) |
 | Rock Paper Scissors: The Roguelike Puzzle Game | 410207 | [410207-rock-paper-scissors-the-roguelike-puzzle-game.json](./410207-rock-paper-scissors-the-roguelike-puzzle-game.json) |
+| Rock Simulator | 127932 | [127932-rock-simulator.json](./127932-rock-simulator.json) |
 | Rock Star Life Simulator | 260409 | [260409-rock-star-life-simulator.json](./260409-rock-star-life-simulator.json) |
 | Rock the Islands | 310218 | [310218-rock-the-islands.json](./310218-rock-the-islands.json) |
 | Rock Tris | 229064 | [229064-rock-tris.json](./229064-rock-tris.json) |
