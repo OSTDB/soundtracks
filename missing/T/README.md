@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taern | 55929 | [55929-taern.json](./55929-taern.json) |
 | Tag Hop | 153413 | [153413-tag-hop.json](./153413-tag-hop.json) |
 | Tag War VR | 336904 | [336904-tag-war-vr.json](./336904-tag-war-vr.json) |
+| Tag.Io | 129726 | [129726-tag-io.json](./129726-tag-io.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
 | Tahl: Uncover the Evil Within | 145617 | [145617-tahl-uncover-the-evil-within.json](./145617-tahl-uncover-the-evil-within.json) |
 | Tahn | 126046 | [126046-tahn.json](./126046-tahn.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big City | 270702 | [270702-the-big-city.json](./270702-the-big-city.json) |
 | The Big Con: Grift of the Year Edition | 201255 | [201255-the-big-con-grift-of-the-year-edition.json](./201255-the-big-con-grift-of-the-year-edition.json) |
 | The Big Fear of Heights Experience | 52002 | [52002-the-big-fear-of-heights-experience.json](./52002-the-big-fear-of-heights-experience.json) |
+| The Big Heap | 129720 | [129720-the-big-heap.json](./129720-the-big-heap.json) |
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
 | The Big One | 239081 | [239081-the-big-one.json](./239081-the-big-one.json) |
 | The Big Picture | 206346 | [206346-the-big-picture.json](./206346-the-big-picture.json) |
@@ -1412,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Criminal | 383398 | [383398-the-criminal.json](./383398-the-criminal.json) |
 | The Crimson Crown | 15532 | [15532-the-crimson-crown.json](./15532-the-crimson-crown.json) |
 | The Crimson Debt | 290408 | [290408-the-crimson-debt.json](./290408-the-crimson-debt.json) |
+| The Crimson Diamond: Chapter 1 | 129722 | [129722-the-crimson-diamond-chapter-1.json](./129722-the-crimson-diamond-chapter-1.json) |
 | The Crimson Maid | 279002 | [279002-the-crimson-maid.json](./279002-the-crimson-maid.json) |
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
 | The Croaker: The Ice | 306058 | [306058-the-croaker-the-ice.json](./306058-the-croaker-the-ice.json) |
@@ -1982,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hotel: Floor 13 | 272576 | [272576-the-hotel-floor-13.json](./272576-the-hotel-floor-13.json) |
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
+| The House in the Forest | 129746 | [129746-the-house-in-the-forest.json](./129746-the-house-in-the-forest.json) |
 | The House in the Woods | 176505 | [176505-the-house-in-the-woods.json](./176505-the-house-in-the-woods.json) |
 | The House of Big people | 188677 | [188677-the-house-of-big-people.json](./188677-the-house-of-big-people.json) |
 | The House of Da Vinci | 39749 | [39749-the-house-of-da-vinci.json](./39749-the-house-of-da-vinci.json) |
