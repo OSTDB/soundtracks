@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
+| Waking Violet | 103415 | [103415-waking-violet.json](./103415-waking-violet.json) |
 | Waktunya Kerja! | 385599 | [385599-waktunya-kerja.json](./385599-waktunya-kerja.json) |
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
 | Waku Waku Sweets: Happy Sweets Making | 96093 | [96093-waku-waku-sweets-happy-sweets-making.json](./96093-waku-waku-sweets-happy-sweets-making.json) |
@@ -244,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardrum | 380420 | [380420-wardrum.json](./380420-wardrum.json) |
 | Wardwell House VR | 163966 | [163966-wardwell-house-vr.json](./163966-wardwell-house-vr.json) |
 | Warface: Global Operations | 172778 | [172778-warface-global-operations.json](./172778-warface-global-operations.json) |
+| Warfare 1944 | 103393 | [103393-warfare-1944.json](./103393-warfare-1944.json) |
 | Warfield | 144232 | [144232-warfield.json](./144232-warfield.json) |
 | WarFire: Deluxe Edition | 53886 | [53886-warfire-deluxe-edition.json](./53886-warfire-deluxe-edition.json) |
 | Warframe: Angels of the Zariman - Chrysalith Pack | 223706 | [223706-warframe-angels-of-the-zariman-chrysalith-pack.json](./223706-warframe-angels-of-the-zariman-chrysalith-pack.json) |
@@ -602,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Chop House | 337087 | [337087-welcome-to-the-chop-house.json](./337087-welcome-to-the-chop-house.json) |
 | Welcome to the Colony | 184033 | [184033-welcome-to-the-colony.json](./184033-welcome-to-the-colony.json) |
 | Welcome to the Dark Place | 121599 | [121599-welcome-to-the-dark-place.json](./121599-welcome-to-the-dark-place.json) |
+| Welcome to the Dreamscape | 103442 | [103442-welcome-to-the-dreamscape.json](./103442-welcome-to-the-dreamscape.json) |
 | Welcome to the Galaxy | 178639 | [178639-welcome-to-the-galaxy.json](./178639-welcome-to-the-galaxy.json) |
 | Welcome to the Game 2+ | 265928 | [265928-welcome-to-the-game-2.json](./265928-welcome-to-the-game-2.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
