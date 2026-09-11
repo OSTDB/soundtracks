@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Robots Final Attack | 68026 | [68026-real-robots-final-attack.json](./68026-real-robots-final-attack.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
+| Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
 | Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
 | Real Time Attack | 290698 | [290698-real-time-attack.json](./290698-real-time-attack.json) |
