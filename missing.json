@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T03:18:31.452Z",
-  "total_missing": 56346,
+  "generated_at": "2026-09-11T03:21:13.973Z",
+  "total_missing": 56345,
   "games": [
     {
       "igdb_id": 306086,
@@ -1876,11 +1876,6 @@
       "igdb_id": 145672,
       "game_name": "A Cosmic Forest",
       "file": "missing/A/145672-a-cosmic-forest.json"
-    },
-    {
-      "igdb_id": 382212,
-      "game_name": "A Cup of Eternity",
-      "file": "missing/A/382212-a-cup-of-eternity.json"
     },
     {
       "igdb_id": 158223,
