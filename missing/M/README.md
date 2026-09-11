@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces: Jigsaw Puzzle - Paper Art | 293066 | [293066-master-of-pieces-jigsaw-puzzle-paper-art.json](./293066-master-of-pieces-jigsaw-puzzle-paper-art.json) |
 | Master of Pieces: Jigsaw Puzzles - Cat Family Christmas | 284890 | [284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json](./284890-master-of-pieces-jigsaw-puzzles-cat-family-christmas.json) |
 | Master of Pottery: Suzhou Garden | 199600 | [199600-master-of-pottery-suzhou-garden.json](./199600-master-of-pottery-suzhou-garden.json) |
+| Master of Rogues - The Seven Artifacts | 107847 | [107847-master-of-rogues-the-seven-artifacts.json](./107847-master-of-rogues-the-seven-artifacts.json) |
 | Master of Ski | 226728 | [226728-master-of-ski.json](./226728-master-of-ski.json) |
 | Master of Tactics | 142393 | [142393-master-of-tactics.json](./142393-master-of-tactics.json) |
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
@@ -3999,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
 | Mystery of Munroe Manor | 298865 | [298865-mystery-of-munroe-manor.json](./298865-mystery-of-munroe-manor.json) |
+| Mystery of the Ancients: Curse of the Black Water - Collector's Edition | 107837 | [107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json](./107837-mystery-of-the-ancients-curse-of-the-black-water-collectors-edition.json) |
 | Mystery of the Ancients: Mudwater Creek | 74415 | [74415-mystery-of-the-ancients-mudwater-creek.json](./74415-mystery-of-the-ancients-mudwater-creek.json) |
 | Mystery of the Lost Temples | 61103 | [61103-mystery-of-the-lost-temples.json](./61103-mystery-of-the-lost-temples.json) |
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
