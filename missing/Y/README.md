@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
 | You Are Sick | 239671 | [239671-you-are-sick.json](./239671-you-are-sick.json) |
+| You are the Apple of My Eye | 99028 | [99028-you-are-the-apple-of-my-eye.json](./99028-you-are-the-apple-of-my-eye.json) |
 | You Are the Loading Screen | 407355 | [407355-you-are-the-loading-screen.json](./407355-you-are-the-loading-screen.json) |
 | You are the Weapon | 230309 | [230309-you-are-the-weapon.json](./230309-you-are-the-weapon.json) |
 | You Are the Wormhole | 128621 | [128621-you-are-the-wormhole.json](./128621-you-are-the-wormhole.json) |
