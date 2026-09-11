@@ -4807,6 +4807,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Highway Battle | 20797 | [20797-tokyo-highway-battle.json](./20797-tokyo-highway-battle.json) |
 | Tokyo Hosto | 35767 | [35767-tokyo-hosto.json](./35767-tokyo-hosto.json) |
 | Tokyo Love Hustle | 239872 | [239872-tokyo-love-hustle.json](./239872-tokyo-love-hustle.json) |
+| Tokyo Majin Gakuen | 91924 | [91924-tokyo-majin-gakuen.json](./91924-tokyo-majin-gakuen.json) |
+| Tokyo Majin Gakuen: Gehoujou | 91926 | [91926-tokyo-majin-gakuen-gehoujou.json](./91926-tokyo-majin-gakuen-gehoujou.json) |
+| Tokyo Majin Gakuen: Kenfuuchou | 91923 | [91923-tokyo-majin-gakuen-kenfuuchou.json](./91923-tokyo-majin-gakuen-kenfuuchou.json) |
+| Tokyo Majin Gakuen: Kenpuu Chou Emaki | 91927 | [91927-tokyo-majin-gakuen-kenpuu-chou-emaki.json](./91927-tokyo-majin-gakuen-kenpuu-chou-emaki.json) |
+| Tokyo Majin Gakuen: Kenpuu-chou | 91925 | [91925-tokyo-majin-gakuen-kenpuu-chou.json](./91925-tokyo-majin-gakuen-kenpuu-chou.json) |
 | Tokyo Mew Mew: Toujou Shin Mew Mew! - Minna Issho ni Gohoushi Suru Nyan | 56483 | [56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json](./56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json) |
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
 | Tokyo Mono Hara Shi: Karasu no Mori Gakuen Kitan | 67287 | [67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json](./67287-tokyo-mono-hara-shi-karasu-no-mori-gakuen-kitan.json) |
@@ -4980,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Bike: Racing & Moto Drag | 187455 | [187455-top-bike-racing-and-moto-drag.json](./187455-top-bike-racing-and-moto-drag.json) |
 | Top Bowler | 172654 | [172654-top-bowler.json](./172654-top-bowler.json) |
 | Top Burger | 117102 | [117102-top-burger.json](./117102-top-burger.json) |
+| Top Darts | 91918 | [91918-top-darts.json](./91918-top-darts.json) |
 | Top Dog | 213411 | [213411-top-dog.json](./213411-top-dog.json) |
 | Top Down Battlegrounds | 292850 | [292850-top-down-battlegrounds.json](./292850-top-down-battlegrounds.json) |
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
@@ -5871,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
+| Tribes Universe | 91893 | [91893-tribes-universe.json](./91893-tribes-universe.json) |
 | Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
 | Tribio puzzle: Strategic Spot | 253022 | [253022-tribio-puzzle-strategic-spot.json](./253022-tribio-puzzle-strategic-spot.json) |
