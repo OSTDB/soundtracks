@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T20:48:32.295Z",
-  "total_missing": 59280,
+  "generated_at": "2026-09-11T20:50:56.628Z",
+  "total_missing": 59279,
   "games": [
     {
       "igdb_id": 306086,
@@ -2421,11 +2421,6 @@
       "igdb_id": 196859,
       "game_name": "A Potion For Chamomile",
       "file": "missing/A/196859-a-potion-for-chamomile.json"
-    },
-    {
-      "igdb_id": 217294,
-      "game_name": "A Quest That Became Legend",
-      "file": "missing/A/217294-a-quest-that-became-legend.json"
     },
     {
       "igdb_id": 229918,
