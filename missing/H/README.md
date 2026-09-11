@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
 | Hannah Montana: DVD Game | 228444 | [228444-hannah-montana-dvd-game.json](./228444-hannah-montana-dvd-game.json) |
 | Hannah Montana: One in a Million | 220093 | [220093-hannah-montana-one-in-a-million.json](./220093-hannah-montana-one-in-a-million.json) |
+| Hannah Montana: Pop Star Exclusive | 79855 | [79855-hannah-montana-pop-star-exclusive.json](./79855-hannah-montana-pop-star-exclusive.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
 | Hanno | 289870 | [289870-hanno.json](./289870-hanno.json) |
 | Hannya Bullet Hell | 151671 | [151671-hannya-bullet-hell.json](./151671-hannya-bullet-hell.json) |
@@ -1394,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hifuu Nightmare Diary: Violet Detector. | 107253 | [107253-hifuu-nightmare-diary-violet-detector.json](./107253-hifuu-nightmare-diary-violet-detector.json) |
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
 | Higgs Boson: Timed Puzzle | 173238 | [173238-higgs-boson-timed-puzzle.json](./173238-higgs-boson-timed-puzzle.json) |
+| High $take$ by Dick Francis | 79887 | [79887-high-take-by-dick-francis.json](./79887-high-take-by-dick-francis.json) |
 | High Burger | 256257 | [256257-high-burger.json](./256257-high-burger.json) |
 | High Clouds | 372995 | [372995-high-clouds.json](./372995-high-clouds.json) |
 | High Dive | 233747 | [233747-high-dive.json](./233747-high-dive.json) |
