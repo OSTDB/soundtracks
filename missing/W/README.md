@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
+| Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
@@ -187,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War In Zone | 408053 | [408053-war-in-zone.json](./408053-war-in-zone.json) |
 | War is Heck Collection | 53883 | [53883-war-is-heck-collection.json](./53883-war-is-heck-collection.json) |
 | War Islands | 133376 | [133376-war-islands.json](./133376-war-islands.json) |
+| War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
 | War Of Celestials | 253389 | [253389-war-of-celestials.json](./253389-war-of-celestials.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
 | War of Criminals | 89969 | [89969-war-of-criminals.json](./89969-war-of-criminals.json) |
