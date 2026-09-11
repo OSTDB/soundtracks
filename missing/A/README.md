@@ -101,7 +101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Spooky Teaparty | 221172 | [221172-a-spooky-teaparty.json](./221172-a-spooky-teaparty.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
 | A Steak Temple Panic: Chapter 2 - Welcome to Sanglinours | 226228 | [226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json](./226228-a-steak-temple-panic-chapter-2-welcome-to-sanglinours.json) |
-| A Storied Life: Tabitha | 362283 | [362283-a-storied-life-tabitha.json](./362283-a-storied-life-tabitha.json) |
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
 | A Story of a Company! | 200740 | [200740-a-story-of-a-company.json](./200740-a-story-of-a-company.json) |
 | A Story of Questions | 348271 | [348271-a-story-of-questions.json](./348271-a-story-of-questions.json) |
