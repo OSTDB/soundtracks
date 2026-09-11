@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
 | Alligori | 272866 | [272866-alligori.json](./272866-alligori.json) |
+| Allora and the Broken Portal | 125382 | [125382-allora-and-the-broken-portal.json](./125382-allora-and-the-broken-portal.json) |
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
 | Alluna and Brie | 117033 | [117033-alluna-and-brie.json](./117033-alluna-and-brie.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
@@ -2473,10 +2474,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena: Maze of Death | 19694 | [19694-arena-maze-of-death.json](./19694-arena-maze-of-death.json) |
+| Arena.Xlsm | 125394 | [125394-arena-xlsm.json](./125394-arena-xlsm.json) |
 | Arena66 | 132195 | [132195-arena66.json](./132195-arena66.json) |
 | Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
+| Aretisia: Tenebris Dominus | 125391 | [125391-aretisia-tenebris-dominus.json](./125391-aretisia-tenebris-dominus.json) |
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
@@ -3208,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
+| Avarice | 125408 | [125408-avarice.json](./125408-avarice.json) |
 | Avarice | 217859 | [217859-avarice.json](./217859-avarice.json) |
 | Avatar 2 Way of Watter: Porn Game | 287101 | [287101-avatar-2-way-of-watter-porn-game.json](./287101-avatar-2-way-of-watter-porn-game.json) |
 | Avatar Farm! | 94737 | [94737-avatar-farm.json](./94737-avatar-farm.json) |
