@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrawings Flat | 113038 | [113038-ultrawings-flat.json](./113038-ultrawings-flat.json) |
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
 | Ultron | 57133 | [57133-ultron.json](./57133-ultron.json) |
+| Ultrono Arena | 94211 | [94211-ultrono-arena.json](./94211-ultrono-arena.json) |
 | Um Jammer Lammy Now | 243420 | [243420-um-jammer-lammy-now.json](./243420-um-jammer-lammy-now.json) |
 | Uma Casa Que Não é Sua | 178625 | [178625-uma-casa-que-nao-e-sua.json](./178625-uma-casa-que-nao-e-sua.json) |
 | Umadle | 369045 | [369045-umadle.json](./369045-umadle.json) |
@@ -499,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnamed Experiment | 265145 | [265145-unnamed-experiment.json](./265145-unnamed-experiment.json) |
 | Unnamed Project | 286012 | [286012-unnamed-project.json](./286012-unnamed-project.json) |
 | Unnamed Shovel Knight Sequel | 305758 | [305758-unnamed-shovel-knight-sequel.json](./305758-unnamed-shovel-knight-sequel.json) |
+| Unnatural Selection | 94207 | [94207-unnatural-selection.json](./94207-unnatural-selection.json) |
 | Unnatural: Season Two | 247760 | [247760-unnatural-season-two.json](./247760-unnatural-season-two.json) |
 | UnNecessary | 316983 | [316983-unnecessary.json](./316983-unnecessary.json) |
 | Unno | 235227 | [235227-unno.json](./235227-unno.json) |
@@ -696,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utter Inverse | 213415 | [213415-utter-inverse.json](./213415-utter-inverse.json) |
 | UvsU | 258704 | [258704-uvsu.json](./258704-uvsu.json) |
 | UWAR | 338579 | [338579-uwar.json](./338579-uwar.json) |
+| Uwis Shooting Gallery | 94196 | [94196-uwis-shooting-gallery.json](./94196-uwis-shooting-gallery.json) |
 | Uwol 2 | 299168 | [299168-uwol-2.json](./299168-uwol-2.json) |
 | Uwol: Quest for Money | 46675 | [46675-uwol-quest-for-money.json](./46675-uwol-quest-for-money.json) |
 | UzeMaze | 270418 | [270418-uzemaze.json](./270418-uzemaze.json) |
