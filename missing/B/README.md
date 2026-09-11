@@ -2915,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Sports Football | 40814 | [40814-brutal-sports-football.json](./40814-brutal-sports-football.json) |
 | Brutal Strike | 235459 | [235459-brutal-strike.json](./235459-brutal-strike.json) |
 | Brutal Unreal 99 | 202848 | [202848-brutal-unreal-99.json](./202848-brutal-unreal-99.json) |
+| Brutal Warrior | 114439 | [114439-brutal-warrior.json](./114439-brutal-warrior.json) |
 | Brutal Wizardry | 159869 | [159869-brutal-wizardry.json](./159869-brutal-wizardry.json) |
 | BrutalAliens | 107903 | [107903-brutalaliens.json](./107903-brutalaliens.json) |
 | Brutalism | 89979 | [89979-brutalism.json](./89979-brutalism.json) |
