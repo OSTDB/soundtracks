@@ -80,7 +80,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mazeing Tower Defense | 54470 | [54470-a-mazeing-tower-defense.json](./54470-a-mazeing-tower-defense.json) |
 | A Meeting of Dreams | 223486 | [223486-a-meeting-of-dreams.json](./223486-a-meeting-of-dreams.json) |
 | A Milky Way | 135237 | [135237-a-milky-way.json](./135237-a-milky-way.json) |
-| A Million Minions | 206118 | [206118-a-million-minions.json](./206118-a-million-minions.json) |
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Mirror, Darkly | 340948 | [340948-a-mirror-darkly.json](./340948-a-mirror-darkly.json) |
 | A Moderately Uncomfortable Night with Tux | 338711 | [338711-a-moderately-uncomfortable-night-with-tux.json](./338711-a-moderately-uncomfortable-night-with-tux.json) |
