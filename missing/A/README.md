@@ -57,7 +57,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
-| A Journey to Omega Station | 295245 | [295245-a-journey-to-omega-station.json](./295245-a-journey-to-omega-station.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Juggler's Tale: Collector's Edition | 186874 | [186874-a-jugglers-tale-collectors-edition.json](./186874-a-jugglers-tale-collectors-edition.json) |
 | A Kappa's Trail | 66681 | [66681-a-kappas-trail.json](./66681-a-kappas-trail.json) |
@@ -320,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absented Age: Squarebound | 150161 | [150161-absented-age-squarebound.json](./150161-absented-age-squarebound.json) |
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
+| Absolute Adventure Zero | 107919 | [107919-absolute-adventure-zero.json](./107919-absolute-adventure-zero.json) |
 | Absolute Baseball | 84863 | [84863-absolute-baseball.json](./84863-absolute-baseball.json) |
 | Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Toys | 193953 | [193953-action-toys.json](./193953-action-toys.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Actionloop Twist | 23044 | [23044-actionloop-twist.json](./23044-actionloop-twist.json) |
+| Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
 | Active Arcade | 382223 | [382223-active-arcade.json](./382223-active-arcade.json) |
 | Active Color | 241354 | [241354-active-color.json](./241354-active-color.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
@@ -2123,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
 | Ape Escape: Million Monkeys | 68008 | [68008-ape-escape-million-monkeys.json](./68008-ape-escape-million-monkeys.json) |
 | Ape Escape: On the Loose | 44530 | [44530-ape-escape-on-the-loose.json](./44530-ape-escape-on-the-loose.json) |
+| Ape Hit | 107824 | [107824-ape-hit.json](./107824-ape-hit.json) |
 | Aperture Ireland | 284363 | [284363-aperture-ireland.json](./284363-aperture-ireland.json) |
 | Aperture: Salt Mines | 284366 | [284366-aperture-salt-mines.json](./284366-aperture-salt-mines.json) |
 | Apex | 5728 | [5728-apex.json](./5728-apex.json) |
@@ -3058,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athos | 265413 | [265413-athos.json](./265413-athos.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlantic '41 | 296049 | [296049-atlantic-41.json](./296049-atlantic-41.json) |
+| Atlantic Edge | 107935 | [107935-atlantic-edge.json](./107935-atlantic-edge.json) |
 | Atlantic Quest | 85504 | [85504-atlantic-quest.json](./85504-atlantic-quest.json) |
 | Atlantic Rim | 180827 | [180827-atlantic-rim.json](./180827-atlantic-rim.json) |
 | Atlantica Online | 9522 | [9522-atlantica-online.json](./9522-atlantica-online.json) |
@@ -3318,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
 | Axe Prime | 115046 | [115046-axe-prime.json](./115046-axe-prime.json) |
+| Axe Throw VR | 107850 | [107850-axe-throw-vr.json](./107850-axe-throw-vr.json) |
 | Axegend | 131596 | [131596-axegend.json](./131596-axegend.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
 | Axia | 46637 | [46637-axia.json](./46637-axia.json) |
