@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discrete Orange | 312348 | [312348-discrete-orange.json](./312348-discrete-orange.json) |
 | Discworld | 8291 | [8291-discworld.json](./8291-discworld.json) |
 | Discworld II: Mortality Bytes! | 8292 | [8292-discworld-ii-mortality-bytes.json](./8292-discworld-ii-mortality-bytes.json) |
+| Disdoored | 102093 | [102093-disdoored.json](./102093-disdoored.json) |
 | Disease Z | 245842 | [245842-disease-z.json](./245842-disease-z.json) |
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
@@ -2924,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
 | Driving Quest | 209691 | [209691-driving-quest.json](./209691-driving-quest.json) |
 | Driving School 2016 | 89273 | [89273-driving-school-2016.json](./89273-driving-school-2016.json) |
+| Driving School 3D | 102104 | [102104-driving-school-3d.json](./102104-driving-school-3d.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
 | Driving Zone: Germany | 89287 | [89287-driving-zone-germany.json](./89287-driving-zone-germany.json) |
