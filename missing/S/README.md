@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scraps: Hellmouth Creek | 391580 | [391580-scraps-hellmouth-creek.json](./391580-scraps-hellmouth-creek.json) |
 | Scrapvival | 190150 | [190150-scrapvival.json](./190150-scrapvival.json) |
 | Scrapyard Robot Rampage | 115010 | [115010-scrapyard-robot-rampage.json](./115010-scrapyard-robot-rampage.json) |
+| Scrash | 103395 | [103395-scrash.json](./103395-scrash.json) |
 | Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
@@ -1751,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Simulator: Supermarket | 320721 | [320721-shop-simulator-supermarket.json](./320721-shop-simulator-supermarket.json) |
 | Shop Town Dooter | 310182 | [310182-shop-town-dooter.json](./310182-shop-town-dooter.json) |
 | Shop Tycoon | 284891 | [284891-shop-tycoon.json](./284891-shop-tycoon.json) |
+| Shop Tycoon the Boss | 103537 | [103537-shop-tycoon-the-boss.json](./103537-shop-tycoon-the-boss.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
 | Shopkins: Top Trumps | 82140 | [82140-shopkins-top-trumps.json](./82140-shopkins-top-trumps.json) |
@@ -1920,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads: Legendary Pack | 311993 | [311993-sift-heads-legendary-pack.json](./311993-sift-heads-legendary-pack.json) |
 | Sifu's Quest | 371901 | [371901-sifus-quest.json](./371901-sifus-quest.json) |
 | Sifunight Fighters | 221711 | [221711-sifunight-fighters.json](./221711-sifunight-fighters.json) |
+| Sig | 103460 | [103460-sig.json](./103460-sig.json) |
 | Sig | 231087 | [231087-sig.json](./231087-sig.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
@@ -2770,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snaker 64 | 244757 | [244757-snaker-64.json](./244757-snaker-64.json) |
 | Snakes & Ladders | 147984 | [147984-snakes-and-ladders.json](./147984-snakes-and-ladders.json) |
 | Snakes and Ladders | 106570 | [106570-snakes-and-ladders.json](./106570-snakes-and-ladders.json) |
+| Snakes and Ladders 3D | 103542 | [103542-snakes-and-ladders-3d.json](./103542-snakes-and-ladders-3d.json) |
 | Snakes in Hibernation | 396205 | [396205-snakes-in-hibernation.json](./396205-snakes-in-hibernation.json) |
 | Snakes LTD | 265921 | [265921-snakes-ltd.json](./265921-snakes-ltd.json) |
 | Snakes On A Cartesian Plane | 272307 | [272307-snakes-on-a-cartesian-plane.json](./272307-snakes-on-a-cartesian-plane.json) |
@@ -3687,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fishermen | 64948 | [64948-space-fishermen.json](./64948-space-fishermen.json) |
 | Space Fist | 29681 | [29681-space-fist.json](./29681-space-fist.json) |
 | Space Flex | 147399 | [147399-space-flex.json](./147399-space-flex.json) |
+| Space Flight - VR Showcase | 103432 | [103432-space-flight-vr-showcase.json](./103432-space-flight-vr-showcase.json) |
 | Space Food Truck | 34588 | [34588-space-food-truck.json](./34588-space-food-truck.json) |
 | Space Force | 336915 | [336915-space-force.json](./336915-space-force.json) |
 | Space Fox Kimi | 107843 | [107843-space-fox-kimi.json](./107843-space-fox-kimi.json) |
@@ -5435,6 +5440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
 | Subway Rider - Train Rush | 106567 | [106567-subway-rider-train-rush.json](./106567-subway-rider-train-rush.json) |
 | Subway Surfers | 251589 | [251589-subway-surfers.json](./251589-subway-surfers.json) |
+| Subway Surfers 2018 - Pet vs Police | 103450 | [103450-subway-surfers-2018-pet-vs-police.json](./103450-subway-surfers-2018-pet-vs-police.json) |
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | Subwords | 173801 | [173801-subwords.json](./173801-subwords.json) |
@@ -5474,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Candy Witch | 246969 | [246969-sudoku-candy-witch.json](./246969-sudoku-candy-witch.json) |
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Classic 2 | 328479 | [328479-sudoku-classic-2.json](./328479-sudoku-classic-2.json) |
+| Sudoku Companion | 103543 | [103543-sudoku-companion.json](./103543-sudoku-companion.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
 | Sudoku Deluxe | 86733 | [86733-sudoku-deluxe.json](./86733-sudoku-deluxe.json) |
 | Sudoku for Kids | 268481 | [268481-sudoku-for-kids.json](./268481-sudoku-for-kids.json) |
@@ -5487,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Master | 84914 | [84914-sudoku-master.json](./84914-sudoku-master.json) |
 | Sudoku Masters Club | 385077 | [385077-sudoku-masters-club.json](./385077-sudoku-masters-club.json) |
 | Sudoku Office Style | 58254 | [58254-sudoku-office-style.json](./58254-sudoku-office-style.json) |
+| Sudoku Original | 103458 | [103458-sudoku-original.json](./103458-sudoku-original.json) |
 | Sudoku Party | 84915 | [84915-sudoku-party.json](./84915-sudoku-party.json) |
 | Sudoku Puzzle | 258466 | [258466-sudoku-puzzle.json](./258466-sudoku-puzzle.json) |
 | Sudoku Puzzle Blast | 208354 | [208354-sudoku-puzzle-blast.json](./208354-sudoku-puzzle-blast.json) |
@@ -6246,6 +6254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash the Office | 174839 | [174839-super-smash-the-office.json](./174839-super-smash-the-office.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
 | Super Soccer Champ | 38394 | [38394-super-soccer-champ.json](./38394-super-soccer-champ.json) |
+| Super Soccer Jump | 103410 | [103410-super-soccer-jump.json](./103410-super-soccer-jump.json) |
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
 | Super Solvers: Midnight Rescue! | 46646 | [46646-super-solvers-midnight-rescue.json](./46646-super-solvers-midnight-rescue.json) |
 | Super Sonic Cooking | 336357 | [336357-super-sonic-cooking.json](./336357-super-sonic-cooking.json) |
@@ -6388,6 +6397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
 | SuperWeird | 353883 | [353883-superweird.json](./353883-superweird.json) |
+| Supesu | 103445 | [103445-supesu.json](./103445-supesu.json) |
 | Supipara: Chapter 1 | 32232 | [32232-supipara-chapter-1.json](./32232-supipara-chapter-1.json) |
 | Supplice | 165070 | [165070-supplice.json](./165070-supplice.json) |
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
