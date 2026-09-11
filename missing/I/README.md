@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Creations | 149528 | [149528-insane-creations.json](./149528-insane-creations.json) |
 | Insanias | 250950 | [250950-insanias.json](./250950-insanias.json) |
 | Insaniquarium! | 334696 | [334696-insaniquarium.json](./334696-insaniquarium.json) |
+| Insanity | 94703 | [94703-insanity.json](./94703-insanity.json) |
 | Insanity X | 105400 | [105400-insanity-x.json](./105400-insanity-x.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Insanus Express | 114368 | [114368-insanus-express.json](./114368-insanus-express.json) |
