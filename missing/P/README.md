@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poor Lucas and the Evil Duke | 190206 | [190206-poor-lucas-and-the-evil-duke.json](./190206-poor-lucas-and-the-evil-duke.json) |
 | Pooyan | 297493 | [297493-pooyan.json](./297493-pooyan.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
+| Pop Frenzy! | 108983 | [108983-pop-frenzy.json](./108983-pop-frenzy.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
 | Pop Journey | 220651 | [220651-pop-journey.json](./220651-pop-journey.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
