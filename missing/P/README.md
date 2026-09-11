@@ -246,7 +246,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pants | 179678 | [179678-pants.json](./179678-pants.json) |
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
+| Panzer Campaigns: El Alamein '42 Gold | 124733 | [124733-panzer-campaigns-el-alamein-42-gold.json](./124733-panzer-campaigns-el-alamein-42-gold.json) |
+| Panzer Campaigns: Japan '45 | 124730 | [124730-panzer-campaigns-japan-45.json](./124730-panzer-campaigns-japan-45.json) |
+| Panzer Campaigns: Market-Garden '44 Gold | 124729 | [124729-panzer-campaigns-market-garden-44-gold.json](./124729-panzer-campaigns-market-garden-44-gold.json) |
 | Panzer Campaigns: Rumyantsev '43 | 226408 | [226408-panzer-campaigns-rumyantsev-43.json](./226408-panzer-campaigns-rumyantsev-43.json) |
+| Panzer Campaigns: Salerno '43 Gold | 124735 | [124735-panzer-campaigns-salerno-43-gold.json](./124735-panzer-campaigns-salerno-43-gold.json) |
+| Panzer Campaigns: Sicily '43 Gold | 124732 | [124732-panzer-campaigns-sicily-43-gold.json](./124732-panzer-campaigns-sicily-43-gold.json) |
+| Panzer Campaigns: Tobruk '41 Gold | 124731 | [124731-panzer-campaigns-tobruk-41-gold.json](./124731-panzer-campaigns-tobruk-41-gold.json) |
+| Panzer Campaigns: Tunisia '43 Gold | 124734 | [124734-panzer-campaigns-tunisia-43-gold.json](./124734-panzer-campaigns-tunisia-43-gold.json) |
 | Panzer Corps 2: Axis Operations - 1939 | 155048 | [155048-panzer-corps-2-axis-operations-1939.json](./155048-panzer-corps-2-axis-operations-1939.json) |
 | Panzer Corps 2: Axis Operations - 1940 | 155050 | [155050-panzer-corps-2-axis-operations-1940.json](./155050-panzer-corps-2-axis-operations-1940.json) |
 | Panzer Corps 2: Axis Operations - 1941 | 155081 | [155081-panzer-corps-2-axis-operations-1941.json](./155081-panzer-corps-2-axis-operations-1941.json) |
@@ -635,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
 | PButtons | 356640 | [356640-pbuttons.json](./356640-pbuttons.json) |
+| PC Building Simulator: Deadstick Case | 124783 | [124783-pc-building-simulator-deadstick-case.json](./124783-pc-building-simulator-deadstick-case.json) |
 | PC Building Simulator: Good Company Case | 124811 | [124811-pc-building-simulator-good-company-case.json](./124811-pc-building-simulator-good-company-case.json) |
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
@@ -2559,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Prodigy Tactics | 77360 | [77360-prodigy-tactics.json](./77360-prodigy-tactics.json) |
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
+| Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
 | Professional Farmer 2017: Cattle & Cultivation | 172103 | [172103-professional-farmer-2017-cattle-and-cultivation.json](./172103-professional-farmer-2017-cattle-and-cultivation.json) |
@@ -2872,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pub Sim | 311277 | [311277-pub-sim.json](./311277-pub-sim.json) |
 | Pub Toilet Simulator 25 | 339798 | [339798-pub-toilet-simulator-25.json](./339798-pub-toilet-simulator-25.json) |
 | PUBG Lite | 124036 | [124036-pubg-lite.json](./124036-pubg-lite.json) |
+| PUBG Mobile Lite | 124773 | [124773-pubg-mobile-lite.json](./124773-pubg-mobile-lite.json) |
 | PUBG Mobile: Season 12 | 135152 | [135152-pubg-mobile-season-12.json](./135152-pubg-mobile-season-12.json) |
 | PUBG Mobile: Season 13 | 135154 | [135154-pubg-mobile-season-13.json](./135154-pubg-mobile-season-13.json) |
 | PUBG Mobile: Season 16 | 141193 | [141193-pubg-mobile-season-16.json](./141193-pubg-mobile-season-16.json) |
