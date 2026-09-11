@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maqiupai | 92993 | [92993-maqiupai.json](./92993-maqiupai.json) |
 | Mär Heaven: Karudea no Akuma | 353317 | [353317-mar-heaven-karudea-no-akuma.json](./353317-mar-heaven-karudea-no-akuma.json) |
 | Mar Koochooloo | 276719 | [276719-mar-koochooloo.json](./276719-mar-koochooloo.json) |
+| MAR WAR: The Evil Awakens | 83519 | [83519-mar-war-the-evil-awakens.json](./83519-mar-war-the-evil-awakens.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
@@ -1046,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchsticks | 252146 | [252146-matchsticks.json](./252146-matchsticks.json) |
 | Matchsticks: Coffee Break Club | 169459 | [169459-matchsticks-coffee-break-club.json](./169459-matchsticks-coffee-break-club.json) |
 | MatchVentures | 251818 | [251818-matchventures.json](./251818-matchventures.json) |
+| Matchy Star | 83498 | [83498-matchy-star.json](./83498-matchy-star.json) |
 | MatchyGotchy Z | 109661 | [109661-matchygotchy-z.json](./109661-matchygotchy-z.json) |
 | Mate-in-Two | 347703 | [347703-mate-in-two.json](./347703-mate-in-two.json) |
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
@@ -2111,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miku Runner | 289890 | [289890-miku-runner.json](./289890-miku-runner.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
 | Mila & Zug | 390496 | [390496-mila-and-zug.json](./390496-mila-and-zug.json) |
+| Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
 | Miles of Cubes | 148537 | [148537-miles-of-cubes.json](./148537-miles-of-cubes.json) |
 | Milf Hunter | 192444 | [192444-milf-hunter.json](./192444-milf-hunter.json) |
 | Milf Love: Spa Date | 385054 | [385054-milf-love-spa-date.json](./385054-milf-love-spa-date.json) |
