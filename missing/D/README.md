@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon Detective Gaiden II | 133983 | [133983-daemon-detective-gaiden-ii.json](./133983-daemon-detective-gaiden-ii.json) |
 | Daemon Masquerade | 242546 | [242546-daemon-masquerade.json](./242546-daemon-masquerade.json) |
 | Daemon Summoner | 44628 | [44628-daemon-summoner.json](./44628-daemon-summoner.json) |
+| Daemon X Machina: Orbital Limited Edition | 120324 | [120324-daemon-x-machina-orbital-limited-edition.json](./120324-daemon-x-machina-orbital-limited-edition.json) |
 | Daemon x Machina: Titanic Scion - Into the Abyss | 375177 | [375177-daemon-x-machina-titanic-scion-into-the-abyss.json](./375177-daemon-x-machina-titanic-scion-into-the-abyss.json) |
 | Daemonical | 96233 | [96233-daemonical.json](./96233-daemonical.json) |
 | Daemonologie | 179677 | [179677-daemonologie.json](./179677-daemonologie.json) |
@@ -551,6 +552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Abyss | 321336 | [321336-dead-abyss.json](./321336-dead-abyss.json) |
 | Dead Blood: Survival FPS | 251234 | [251234-dead-blood-survival-fps.json](./251234-dead-blood-survival-fps.json) |
 | Dead Blue Rose | 304881 | [304881-dead-blue-rose.json](./304881-dead-blue-rose.json) |
+| Dead Body Falls | 120331 | [120331-dead-body-falls.json](./120331-dead-body-falls.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: Chucky Chapter | 278424 | [278424-dead-by-daylight-chucky-chapter.json](./278424-dead-by-daylight-chucky-chapter.json) |
 | Dead by Daylight: Hellraiser Chapter | 167819 | [167819-dead-by-daylight-hellraiser-chapter.json](./167819-dead-by-daylight-hellraiser-chapter.json) |
@@ -2382,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
 | Dr. Seuss': The Cat in the Hat | 5814 | [5814-dr-seuss-the-cat-in-the-hat.json](./5814-dr-seuss-the-cat-in-the-hat.json) |
+| Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
 | Dr.Pumpkin | 210678 | [210678-dr-pumpkin.json](./210678-dr-pumpkin.json) |
 | Dr.Tool Gehirn Sport | 81395 | [81395-dr-tool-gehirn-sport.json](./81395-dr-tool-gehirn-sport.json) |
@@ -2878,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
+| Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
 | Drums Rock: Campaign+ | 306950 | [306950-drums-rock-campaign.json](./306950-drums-rock-campaign.json) |
 | Drums Rock: Disturbed - 'Down with the Sickness' | 310378 | [310378-drums-rock-disturbed-down-with-the-sickness.json](./310378-drums-rock-disturbed-down-with-the-sickness.json) |
 | Drums Rock: Disturbed - 'Stricken' | 310374 | [310374-drums-rock-disturbed-stricken.json](./310374-drums-rock-disturbed-stricken.json) |
