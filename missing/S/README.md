@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
 | Safari Arena: Wildlife Arcade Fighter | 102821 | [102821-safari-arena-wildlife-arcade-fighter.json](./102821-safari-arena-wildlife-arcade-fighter.json) |
+| Safari Central | 95387 | [95387-safari-central.json](./95387-safari-central.json) |
 | Safari Hunt 2018 | 108513 | [108513-safari-hunt-2018.json](./108513-safari-hunt-2018.json) |
 | Safari Puzzle Match | 319952 | [319952-safari-puzzle-match.json](./319952-safari-puzzle-match.json) |
 | Safari Quest | 84904 | [84904-safari-quest.json](./84904-safari-quest.json) |
@@ -2118,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
 | Simply Rotate | 285482 | [285482-simply-rotate.json](./285482-simply-rotate.json) |
 | Simply Sudoku | 266241 | [266241-simply-sudoku.json](./266241-simply-sudoku.json) |
+| SimSafari | 95477 | [95477-simsafari.json](./95477-simsafari.json) |
 | Simsig | 125969 | [125969-simsig.json](./125969-simsig.json) |
 | Simson Tuningwerkstatt 3D | 111634 | [111634-simson-tuningwerkstatt-3d.json](./111634-simson-tuningwerkstatt-3d.json) |
 | Simstory: Live As You Wish | 101573 | [101573-simstory-live-as-you-wish.json](./101573-simstory-live-as-you-wish.json) |
@@ -2768,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
+| Snake Game | 95375 | [95375-snake-game.json](./95375-snake-game.json) |
 | Snake Game Ultra Core | 368476 | [368476-snake-game-ultra-core.json](./368476-snake-game-ultra-core.json) |
 | Snake Infinity Lite | 26680 | [26680-snake-infinity-lite.json](./26680-snake-infinity-lite.json) |
 | Snake Jump | 259579 | [259579-snake-jump.json](./259579-snake-jump.json) |
@@ -3875,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
 | SpaceBones | 353865 | [353865-spacebones.json](./353865-spacebones.json) |
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
+| Spacebound | 95397 | [95397-spacebound.json](./95397-spacebound.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | Spaceforce: Captains | 20783 | [20783-spaceforce-captains.json](./20783-spaceforce-captains.json) |
 | Spacegirl | 147367 | [147367-spacegirl.json](./147367-spacegirl.json) |
@@ -4515,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
 | Star Birds | 305171 | [305171-star-birds.json](./305171-star-birds.json) |
+| Star Blaze | 95389 | [95389-star-blaze.json](./95389-star-blaze.json) |
 | Star Blues | 216795 | [216795-star-blues.json](./216795-star-blues.json) |
 | Star Boy | 96676 | [96676-star-boy.json](./96676-star-boy.json) |
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
@@ -4654,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Dark Forces Remaster | 262973 | [262973-star-wars-dark-forces-remaster.json](./262973-star-wars-dark-forces-remaster.json) |
 | Star Wars: Demolition | 143 | [143-star-wars-demolition.json](./143-star-wars-demolition.json) |
+| Star Wars: DroidWorks | 95480 | [95480-star-wars-droidworks.json](./95480-star-wars-droidworks.json) |
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
 | Star Wars: Heritage Pack | 200175 | [200175-star-wars-heritage-pack.json](./200175-star-wars-heritage-pack.json) |
