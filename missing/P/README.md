@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Wingman | 56859 | [56859-project-wingman.json](./56859-project-wingman.json) |
 | Project Winter | 111033 | [111033-project-winter.json](./111033-project-winter.json) |
 | Project X | 377577 | [377577-project-x.json](./377577-project-x.json) |
+| Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
 | Project Xsting | 278987 | [278987-project-xsting.json](./278987-project-xsting.json) |
