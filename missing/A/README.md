@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Goodyear Tires Pack | 223687 | [223687-american-truck-simulator-goodyear-tires-pack.json](./223687-american-truck-simulator-goodyear-tires-pack.json) |
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
+| American Truck Simulator: Utah | 120325 | [120325-american-truck-simulator-utah.json](./120325-american-truck-simulator-utah.json) |
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
 | American Zombie: Election Year | 130325 | [130325-american-zombie-election-year.json](./130325-american-zombie-election-year.json) |
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
@@ -2105,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoki Ookami to Shiroki Mejika | 30922 | [30922-aoki-ookami-to-shiroki-mejika.json](./30922-aoki-ookami-to-shiroki-mejika.json) |
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
 | Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
+| AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
@@ -2282,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Master of Weapon | 287109 | [287109-arcade-archives-master-of-weapon.json](./287109-arcade-archives-master-of-weapon.json) |
 | Arcade Archives: Mazinger Z | 249490 | [249490-arcade-archives-mazinger-z.json](./249490-arcade-archives-mazinger-z.json) |
 | Arcade Archives: Metal Black | 225889 | [225889-arcade-archives-metal-black.json](./225889-arcade-archives-metal-black.json) |
+| Arcade Archives: Ninja Spirit | 120330 | [120330-arcade-archives-ninja-spirit.json](./120330-arcade-archives-ninja-spirit.json) |
 | Arcade Archives: Ordyne | 223153 | [223153-arcade-archives-ordyne.json](./223153-arcade-archives-ordyne.json) |
 | Arcade Archives: Pac & Pal | 215109 | [215109-arcade-archives-pac-and-pal.json](./215109-arcade-archives-pac-and-pal.json) |
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
