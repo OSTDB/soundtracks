@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Minister | 208029 | [208029-quiz-minister.json](./208029-quiz-minister.json) |
 | Quiz Planet | 317007 | [317007-quiz-planet.json](./317007-quiz-planet.json) |
 | Quiz Quest | 246097 | [246097-quiz-quest.json](./246097-quiz-quest.json) |
+| Quiz Taxi | 124743 | [124743-quiz-taxi.json](./124743-quiz-taxi.json) |
 | Quiz Thiz Croatia: Bronze Edition | 249487 | [249487-quiz-thiz-croatia-bronze-edition.json](./249487-quiz-thiz-croatia-bronze-edition.json) |
 | Quiz Thiz France | 230518 | [230518-quiz-thiz-france.json](./230518-quiz-thiz-france.json) |
 | Quiz Thiz Germany: Bronze Edition | 242549 | [242549-quiz-thiz-germany-bronze-edition.json](./242549-quiz-thiz-germany-bronze-edition.json) |
