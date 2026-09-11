@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T06:03:41.087Z",
-  "total_missing": 56879,
+  "generated_at": "2026-09-11T06:11:20.219Z",
+  "total_missing": 56878,
   "games": [
     {
       "igdb_id": 306086,
@@ -1961,11 +1961,6 @@
       "igdb_id": 124174,
       "game_name": "A Familiar Fairytale: Dyslexic Text Based Adventure",
       "file": "missing/A/124174-a-familiar-fairytale-dyslexic-text-based-adventure.json"
-    },
-    {
-      "igdb_id": 20667,
-      "game_name": "A Farewell to Dragons",
-      "file": "missing/A/20667-a-farewell-to-dragons.json"
     },
     {
       "igdb_id": 357791,
