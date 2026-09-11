@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
 | Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
 | Pico Park 2 | 314933 | [314933-pico-park-2.json](./314933-pico-park-2.json) |
+| Pico Pico | 118991 | [118991-pico-pico.json](./118991-pico-pico.json) |
 | Pico Pico Dungeon! | 329006 | [329006-pico-pico-dungeon.json](./329006-pico-pico-dungeon.json) |
 | Pico Pico MicroMix | 182992 | [182992-pico-pico-micromix.json](./182992-pico-pico-micromix.json) |
 | Pico Pirates | 184068 | [184068-pico-pirates.json](./184068-pico-pirates.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon West: El Diablo | 340393 | [340393-pigeon-west-el-diablo.json](./340393-pigeon-west-el-diablo.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
 | Piggy Only Up | 408835 | [408835-piggy-only-up.json](./408835-piggy-only-up.json) |
+| Piggy Peter's Adventure | 118979 | [118979-piggy-peters-adventure.json](./118979-piggy-peters-adventure.json) |
 | Piggy Run Escape | 226746 | [226746-piggy-run-escape.json](./226746-piggy-run-escape.json) |
 | Piggy: Chapter 1 | 246093 | [246093-piggy-chapter-1.json](./246093-piggy-chapter-1.json) |
 | Piglet's Big Game | 314629 | [314629-piglets-big-game.json](./314629-piglets-big-game.json) |
@@ -3036,6 +3038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push the square | 375846 | [375846-push-the-square.json](./375846-push-the-square.json) |
 | Push The Squares | 262076 | [262076-push-the-squares.json](./262076-push-the-squares.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
+| Push:Block | 118951 | [118951-push-block.json](./118951-push-block.json) |
 | Pushamo | 152281 | [152281-pushamo.json](./152281-pushamo.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
