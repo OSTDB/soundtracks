@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uniracers | 16743 | [16743-uniracers.json](./16743-uniracers.json) |
 | Uniseas | 131555 | [131555-uniseas.json](./131555-uniseas.json) |
 | Unishroom | 116816 | [116816-unishroom.json](./116816-unishroom.json) |
+| Unislot | 128572 | [128572-unislot.json](./128572-unislot.json) |
 | Unit 4: Clash of Agents | 170561 | [170561-unit-4-clash-of-agents.json](./170561-unit-4-clash-of-agents.json) |
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
 | United Assault: Final Stand | 334105 | [334105-united-assault-final-stand.json](./334105-united-assault-final-stand.json) |
