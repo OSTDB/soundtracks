@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T13:20:57.230Z",
-  "total_missing": 58042,
+  "generated_at": "2026-09-11T13:31:09.375Z",
+  "total_missing": 58046,
   "games": [
     {
       "igdb_id": 306086,
@@ -2191,11 +2191,6 @@
       "igdb_id": 207342,
       "game_name": "A Mage Reborn",
       "file": "missing/A/207342-a-mage-reborn.json"
-    },
-    {
-      "igdb_id": 327857,
-      "game_name": "A Magical Friday Night: Vs. Holy Quintet",
-      "file": "missing/A/327857-a-magical-friday-night-vs-holy-quintet.json"
     },
     {
       "igdb_id": 381603,
@@ -16466,6 +16461,11 @@
       "igdb_id": 302349,
       "game_name": "Astraea",
       "file": "missing/A/302349-astraea.json"
+    },
+    {
+      "igdb_id": 101636,
+      "game_name": "Astraeus",
+      "file": "missing/A/101636-astraeus.json"
     },
     {
       "igdb_id": 336546,
@@ -75248,6 +75248,11 @@
       "file": "missing/E/180185-epic-blood-quest.json"
     },
     {
+      "igdb_id": 101632,
+      "game_name": "Epic Drag Puzools",
+      "file": "missing/E/101632-epic-drag-puzools.json"
+    },
+    {
       "igdb_id": 316063,
       "game_name": "Epic Dragons",
       "file": "missing/E/316063-epic-dragons.json"
@@ -118073,6 +118078,11 @@
       "file": "missing/I/58809-intelligence-314th-clash.json"
     },
     {
+      "igdb_id": 101638,
+      "game_name": "Intelligence: Anime Girls",
+      "file": "missing/I/101638-intelligence-anime-girls.json"
+    },
+    {
       "igdb_id": 105277,
       "game_name": "Intelligence: Dinosaurs",
       "file": "missing/I/105277-intelligence-dinosaurs.json"
@@ -121656,6 +121666,11 @@
       "igdb_id": 215396,
       "game_name": "Jewel Diamonds",
       "file": "missing/J/215396-jewel-diamonds.json"
+    },
+    {
+      "igdb_id": 101637,
+      "game_name": "Jewel Drops 2 - Match three puzzle",
+      "file": "missing/J/101637-jewel-drops-2-match-three-puzzle.json"
     },
     {
       "igdb_id": 53251,
@@ -201051,6 +201066,11 @@
       "igdb_id": 335110,
       "game_name": "Rorry's Race",
       "file": "missing/R/335110-rorrys-race.json"
+    },
+    {
+      "igdb_id": 101631,
+      "game_name": "Ros",
+      "file": "missing/R/101631-ros.json"
     },
     {
       "igdb_id": 214765,
