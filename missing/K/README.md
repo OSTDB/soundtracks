@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
 | King of Wildlings | 27810 | [27810-king-of-wildlings.json](./27810-king-of-wildlings.json) |
+| King Randall's Party | 107800 | [107800-king-randalls-party.json](./107800-king-randalls-party.json) |
 | King Safety | 197320 | [197320-king-safety.json](./197320-king-safety.json) |
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
