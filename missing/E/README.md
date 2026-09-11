@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EarthKart | 269029 | [269029-earthkart.json](./269029-earthkart.json) |
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
+| Earthworm Jim 1 & 2: The Whole Can 'O Worms | 125989 | [125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json](./125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json) |
 | Earthworm Jim Collection | 237402 | [237402-earthworm-jim-collection.json](./237402-earthworm-jim-collection.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emmy's Lab Escape | 364483 | [364483-emmys-lab-escape.json](./364483-emmys-lab-escape.json) |
 | Emo Neccky | 229666 | [229666-emo-neccky.json](./229666-emo-neccky.json) |
 | Emoceans | 180783 | [180783-emoceans.json](./180783-emoceans.json) |
+| Emoji Arena | 125941 | [125941-emoji-arena.json](./125941-emoji-arena.json) |
 | Emoji Battlefield: Summer Vacation | 399636 | [399636-emoji-battlefield-summer-vacation.json](./399636-emoji-battlefield-summer-vacation.json) |
 | Emoji Bomb | 398978 | [398978-emoji-bomb.json](./398978-emoji-bomb.json) |
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
