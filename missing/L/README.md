@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
 | Little Cheese Works | 263193 | [263193-little-cheese-works.json](./263193-little-cheese-works.json) |
 | Little Chick | 157165 | [157165-little-chick.json](./157165-little-chick.json) |
+| Little Children's Educational Swanky Puzzles Game | 97308 | [97308-little-childrens-educational-swanky-puzzles-game.json](./97308-little-childrens-educational-swanky-puzzles-game.json) |
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
