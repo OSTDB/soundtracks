@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Made A Contract with 3 Cute Devils?! | 206949 | [206949-i-made-a-contract-with-3-cute-devils.json](./206949-i-made-a-contract-with-3-cute-devils.json) |
 | I Made this Game in 3 Days | 263505 | [263505-i-made-this-game-in-3-days.json](./263505-i-made-this-game-in-3-days.json) |
 | I Make Saints | 206926 | [206926-i-make-saints.json](./206926-i-make-saints.json) |
+| I Miss the Sunrise | 130895 | [130895-i-miss-the-sunrise.json](./130895-i-miss-the-sunrise.json) |
 | I Mother | 339629 | [339629-i-mother.json](./339629-i-mother.json) |
 | I Need a Name | 192971 | [192971-i-need-a-name.json](./192971-i-need-a-name.json) |
 | I Need Space | 241369 | [241369-i-need-space.json](./241369-i-need-space.json) |
@@ -213,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Star: Chapter 2 | 168842 | [168842-ice-star-chapter-2.json](./168842-ice-star-chapter-2.json) |
 | Ice Sugar | 189119 | [189119-ice-sugar.json](./189119-ice-sugar.json) |
 | Ice World: The Frozen Age | 314882 | [314882-ice-world-the-frozen-age.json](./314882-ice-world-the-frozen-age.json) |
+| Ice-Story | 130886 | [130886-ice-story.json](./130886-ice-story.json) |
 | Iceblox | 94254 | [94254-iceblox.json](./94254-iceblox.json) |
 | Icebound Secrets: The Frostwood Bane | 378812 | [378812-icebound-secrets-the-frostwood-bane.json](./378812-icebound-secrets-the-frostwood-bane.json) |
 | Iceburg | 373525 | [373525-iceburg.json](./373525-iceburg.json) |
