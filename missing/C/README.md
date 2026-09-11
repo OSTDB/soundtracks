@@ -1756,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Pool and Cyber Pool Bundle | 251804 | [251804-classic-pool-and-cyber-pool-bundle.json](./251804-classic-pool-and-cyber-pool-bundle.json) |
 | Classic Racing Pack: Moto Roader MC + Rider's Spirits | 317238 | [317238-classic-racing-pack-moto-roader-mc-riders-spirits.json](./317238-classic-racing-pack-moto-roader-mc-riders-spirits.json) |
 | Classic Snake Adventures | 130395 | [130395-classic-snake-adventures.json](./130395-classic-snake-adventures.json) |
+| Classic Snake Game Gold | 100962 | [100962-classic-snake-game-gold.json](./100962-classic-snake-game-gold.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
 | Classic Sudoku | 206973 | [206973-classic-sudoku.json](./206973-classic-sudoku.json) |
@@ -3590,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute & Cozy 5-in-1 | 390510 | [390510-cute-and-cozy-5-in-1.json](./390510-cute-and-cozy-5-in-1.json) |
 | Cute Adventure | 114323 | [114323-cute-adventure.json](./114323-cute-adventure.json) |
 | Cute animal jigsaw puzzle | 159856 | [159856-cute-animal-jigsaw-puzzle.json](./159856-cute-animal-jigsaw-puzzle.json) |
+| Cute Animal Match | 100721 | [100721-cute-animal-match.json](./100721-cute-animal-match.json) |
 | Cute Animals Memory Card Game | 153455 | [153455-cute-animals-memory-card-game.json](./153455-cute-animals-memory-card-game.json) |
 | Cute Army: A Cat Story | 176448 | [176448-cute-army-a-cat-story.json](./176448-cute-army-a-cat-story.json) |
 | Cute Bendy and Projectionist | 106520 | [106520-cute-bendy-and-projectionist.json](./106520-cute-bendy-and-projectionist.json) |
