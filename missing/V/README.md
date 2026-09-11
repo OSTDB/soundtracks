@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet | 265152 | [265152-violet.json](./265152-violet.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
+| Vip Em Up - The action movies stars beat em up Ep.0 ( beta ) | 114348 | [114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json](./114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
