@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiào Ào Jiānghú 2 Wàizhuàn: Dōngfāng Zàiqǐ | 184095 | [184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json](./184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json) |
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
+| Xilost | 118354 | [118354-xilost.json](./118354-xilost.json) |
 | Xin Juedai Shuangjiao 2 | 78051 | [78051-xin-juedai-shuangjiao-2.json](./78051-xin-juedai-shuangjiao-2.json) |
 | Xin Juedai Shuangjiao 3 | 68688 | [68688-xin-juedai-shuangjiao-3.json](./68688-xin-juedai-shuangjiao-3.json) |
 | Xīn Shéndiāo Xiálǚ zhī Wánjiépiān | 295240 | [295240-xin-shendiao-xialu-zhi-wanjiepian.json](./295240-xin-shendiao-xialu-zhi-wanjiepian.json) |
