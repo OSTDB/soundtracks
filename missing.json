@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T22:20:53.427Z",
-  "total_missing": 59536,
+  "generated_at": "2026-09-11T22:30:58.093Z",
+  "total_missing": 59539,
   "games": [
     {
       "igdb_id": 306086,
@@ -2471,11 +2471,6 @@
       "igdb_id": 217332,
       "game_name": "A Star of Chrome",
       "file": "missing/A/217332-a-star-of-chrome.json"
-    },
-    {
-      "igdb_id": 179189,
-      "game_name": "A Starspangled Zephyr",
-      "file": "missing/A/179189-a-starspangled-zephyr.json"
     },
     {
       "igdb_id": 226228,
@@ -110743,6 +110738,16 @@
       "file": "missing/H/98400-hidden-object-animal-seasons.json"
     },
     {
+      "igdb_id": 82164,
+      "game_name": "Hidden Object: Cat Tailz",
+      "file": "missing/H/82164-hidden-object-cat-tailz.json"
+    },
+    {
+      "igdb_id": 82163,
+      "game_name": "Hidden Object: Christmas Tree",
+      "file": "missing/H/82163-hidden-object-christmas-tree.json"
+    },
+    {
       "igdb_id": 98391,
       "game_name": "Hidden Object: Classic Fables",
       "file": "missing/H/98391-hidden-object-classic-fables.json"
@@ -110811,6 +110816,11 @@
       "igdb_id": 208008,
       "game_name": "Hidden Object: Hunters for the Secret",
       "file": "missing/H/208008-hidden-object-hunters-for-the-secret.json"
+    },
+    {
+      "igdb_id": 82162,
+      "game_name": "Hidden Object: Land of Dreams",
+      "file": "missing/H/82162-hidden-object-land-of-dreams.json"
     },
     {
       "igdb_id": 200198,
@@ -230096,6 +230106,11 @@
       "igdb_id": 359401,
       "game_name": "Spring a Line",
       "file": "missing/S/359401-spring-a-line.json"
+    },
+    {
+      "igdb_id": 82165,
+      "game_name": "Spring Babies",
+      "file": "missing/S/82165-spring-babies.json"
     },
     {
       "igdb_id": 246652,
