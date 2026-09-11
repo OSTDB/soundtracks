@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Hotel: Ancient Bane - Collector's Edition | 180302 | [180302-haunted-hotel-ancient-bane-collectors-edition.json](./180302-haunted-hotel-ancient-bane-collectors-edition.json) |
 | Haunted Hotel: Charles Dexter Ward - Collector's Edition | 102188 | [102188-haunted-hotel-charles-dexter-ward-collectors-edition.json](./102188-haunted-hotel-charles-dexter-ward-collectors-edition.json) |
 | Haunted Hotel: Death Sentence & Eternity | 201825 | [201825-haunted-hotel-death-sentence-and-eternity.json](./201825-haunted-hotel-death-sentence-and-eternity.json) |
+| Haunted Hotel: Eclipse - Collector's Edition | 114345 | [114345-haunted-hotel-eclipse-collectors-edition.json](./114345-haunted-hotel-eclipse-collectors-edition.json) |
 | Haunted Hotel: Lonely Dream | 83552 | [83552-haunted-hotel-lonely-dream.json](./83552-haunted-hotel-lonely-dream.json) |
 | Haunted Hotel: Phoenix - Collector's Edition | 151191 | [151191-haunted-hotel-phoenix-collectors-edition.json](./151191-haunted-hotel-phoenix-collectors-edition.json) |
 | Haunted Hour | 200120 | [200120-haunted-hour.json](./200120-haunted-hour.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of War | 227471 | [227471-heroes-of-war.json](./227471-heroes-of-war.json) |
 | Heroes Origins | 266205 | [266205-heroes-origins.json](./266205-heroes-origins.json) |
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
+| Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
 | Heroes Sky Legends | 336371 | [336371-heroes-sky-legends.json](./336371-heroes-sky-legends.json) |
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
 | Heroes United | 327209 | [327209-heroes-united.json](./327209-heroes-united.json) |
@@ -2214,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Pixel Man | 413684 | [413684-hyper-pixel-man.json](./413684-hyper-pixel-man.json) |
 | Hyper Reverthion | 97327 | [97327-hyper-reverthion.json](./97327-hyper-reverthion.json) |
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
+| Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
 | Hyper Shapes | 232443 | [232443-hyper-shapes.json](./232443-hyper-shapes.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Strike | 151179 | [151179-hyper-strike.json](./151179-hyper-strike.json) |
