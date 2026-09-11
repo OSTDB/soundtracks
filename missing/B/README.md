@@ -2549,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxTheTop | 113730 | [113730-boxthetop.json](./113730-boxthetop.json) |
 | Boxville | 190160 | [190160-boxville.json](./190160-boxville.json) |
 | Boxworld | 287649 | [287649-boxworld.json](./287649-boxworld.json) |
+| Boxy Trial | 122334 | [122334-boxy-trial.json](./122334-boxy-trial.json) |
 | Boxzum | 84283 | [84283-boxzum.json](./84283-boxzum.json) |
 | Boy Beats World | 127337 | [127337-boy-beats-world.json](./127337-boy-beats-world.json) |
 | Boy Goes to Space | 128584 | [128584-boy-goes-to-space.json](./128584-boy-goes-to-space.json) |
