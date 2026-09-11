@@ -77,7 +77,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Matter of Time | 153414 | [153414-a-matter-of-time.json](./153414-a-matter-of-time.json) |
 | A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
 | A Mazeing Tower Defense | 54470 | [54470-a-mazeing-tower-defense.json](./54470-a-mazeing-tower-defense.json) |
-| A meadow Piece | 114377 | [114377-a-meadow-piece.json](./114377-a-meadow-piece.json) |
 | A Meeting of Dreams | 223486 | [223486-a-meeting-of-dreams.json](./223486-a-meeting-of-dreams.json) |
 | A Memorable Time | 264347 | [264347-a-memorable-time.json](./264347-a-memorable-time.json) |
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
