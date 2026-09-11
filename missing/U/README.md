@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchi Tore: Saitan 4-fun Kin Tore & Yuusansou Undou | 276469 | [276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json](./276469-uchi-tore-saitan-4-fun-kin-tore-and-yuusansou-undou.json) |
 | Uchu Mega Fight | 196791 | [196791-uchu-mega-fight.json](./196791-uchu-mega-fight.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
+| UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
 | UDAA | 329940 | [329940-udaa.json](./329940-udaa.json) |
 | Udderly Tickets | 66689 | [66689-udderly-tickets.json](./66689-udderly-tickets.json) |
@@ -260,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unawake | 173247 | [173247-unawake.json](./173247-unawake.json) |
 | UNB | 335890 | [335890-unb.json](./335890-unb.json) |
 | Unblock Car : Puzzles Game | 104629 | [104629-unblock-car-puzzles-game.json](./104629-unblock-car-puzzles-game.json) |
+| Unblock Me | 87174 | [87174-unblock-me.json](./87174-unblock-me.json) |
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
 | Unblocking | 195200 | [195200-unblocking.json](./195200-unblocking.json) |
 | Unbodied | 311496 | [311496-unbodied.json](./311496-unbodied.json) |
@@ -495,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
 | Unlog | 370705 | [370705-unlog.json](./370705-unlog.json) |
 | Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
+| Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
@@ -707,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uwis Shooting Gallery | 94196 | [94196-uwis-shooting-gallery.json](./94196-uwis-shooting-gallery.json) |
 | Uwol 2 | 299168 | [299168-uwol-2.json](./299168-uwol-2.json) |
 | Uwol: Quest for Money | 46675 | [46675-uwol-quest-for-money.json](./46675-uwol-quest-for-money.json) |
+| uWordsmith | 85466 | [85466-uwordsmith.json](./85466-uwordsmith.json) |
 | UzeMaze | 270418 | [270418-uzemaze.json](./270418-uzemaze.json) |
 | UzeMaze RA | 270419 | [270419-uzemaze-ra.json](./270419-uzemaze-ra.json) |
 | Uzo | 195761 | [195761-uzo.json](./195761-uzo.json) |
