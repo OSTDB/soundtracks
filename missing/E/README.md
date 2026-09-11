@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
 | Enter the Backrooms | 157710 | [157710-enter-the-backrooms.json](./157710-enter-the-backrooms.json) |
+| Enter the Construct | 117016 | [117016-enter-the-construct.json](./117016-enter-the-construct.json) |
 | Enter the Nemesis: Blood Portal | 346574 | [346574-enter-the-nemesis-blood-portal.json](./346574-enter-the-nemesis-blood-portal.json) |
 | Enter the Skinja | 183082 | [183082-enter-the-skinja.json](./183082-enter-the-skinja.json) |
 | Enter the Void to the Holy Mountain | 306970 | [306970-enter-the-void-to-the-holy-mountain.json](./306970-enter-the-void-to-the-holy-mountain.json) |
@@ -1002,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Zolstar | 121633 | [121633-escape-zolstar.json](./121633-escape-zolstar.json) |
 | Escape Zombie Land | 75898 | [75898-escape-zombie-land.json](./75898-escape-zombie-land.json) |
 | Escape: Lia | 195173 | [195173-escape-lia.json](./195173-escape-lia.json) |
+| Escaped Chasm | 116988 | [116988-escaped-chasm.json](./116988-escaped-chasm.json) |
 | Escapee GO! | 67059 | [67059-escapee-go.json](./67059-escapee-go.json) |
 | EscapeeZ | 117783 | [117783-escapeez.json](./117783-escapeez.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
