@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
+| GrabBag | 107936 | [107936-grabbag.json](./107936-grabbag.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grace Online | 248302 | [248302-grace-online.json](./248302-grace-online.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
 | Grix | 384501 | [384501-grix.json](./384501-grix.json) |
+| Grizzly Adventure | 107829 | [107829-grizzly-adventure.json](./107829-grizzly-adventure.json) |
 | Groaning Steel | 170541 | [170541-groaning-steel.json](./170541-groaning-steel.json) |
 | Grobnopolis \| Last Days | 363914 | [363914-grobnopolis-last-days.json](./363914-grobnopolis-last-days.json) |
 | Grocery Grab | 253937 | [253937-grocery-grab.json](./253937-grocery-grab.json) |
