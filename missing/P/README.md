@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Memo | 246385 | [246385-pair-memo.json](./246385-pair-memo.json) |
 | Pair of Stamps | 227870 | [227870-pair-of-stamps.json](./227870-pair-of-stamps.json) |
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
+| Pairs | 91372 | [91372-pairs.json](./91372-pairs.json) |
 | Paisible Après-midi au Fil des Toiles | 178023 | [178023-paisible-apres-midi-au-fil-des-toiles.json](./178023-paisible-apres-midi-au-fil-des-toiles.json) |
 | Paitan Small Town | 159804 | [159804-paitan-small-town.json](./159804-paitan-small-town.json) |
 | Paiteo: Yeongung-eul Gidalimyeo | 98430 | [98430-paiteo-yeongung-eul-gidalimyeo.json](./98430-paiteo-yeongung-eul-gidalimyeo.json) |
@@ -715,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
+| Peh Pai | 91361 | [91361-peh-pai.json](./91361-peh-pai.json) |
 | Pèi'ěrluó Dàlù Jìshì: -Being | 394191 | [394191-peierluo-dalu-jishi-being.json](./394191-peierluo-dalu-jishi-being.json) |
 | Peki Manor | 212464 | [212464-peki-manor.json](./212464-peki-manor.json) |
 | Pekin Express - La Route de l'Himalaya | 145698 | [145698-pekin-express-la-route-de-lhimalaya.json](./145698-pekin-express-la-route-de-lhimalaya.json) |
@@ -3161,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
 | Push:Block | 118951 | [118951-push-block.json](./118951-push-block.json) |
 | Pushamo | 152281 | [152281-pushamo.json](./152281-pushamo.json) |
+| PushBoy - a Sokoban style puzzle game | 91332 | [91332-pushboy-a-sokoban-style-puzzle-game.json](./91332-pushboy-a-sokoban-style-puzzle-game.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
