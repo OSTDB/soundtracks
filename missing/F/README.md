@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
+| Fiddle | 80534 | [80534-fiddle.json](./80534-fiddle.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
 | Fidelity | 116549 | [116549-fidelity.json](./116549-fidelity.json) |
 | Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
@@ -1801,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Force Reboot | 173302 | [173302-force-reboot.json](./173302-force-reboot.json) |
 | Forced Abroad | 193976 | [193976-forced-abroad.json](./193976-forced-abroad.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
+| Forced: Eternal Arenas | 80540 | [80540-forced-eternal-arenas.json](./80540-forced-eternal-arenas.json) |
 | Ford Mustang: The Legend Lives | 43306 | [43306-ford-mustang-the-legend-lives.json](./43306-ford-mustang-the-legend-lives.json) |
 | Ford vs. Chevy | 5838 | [5838-ford-vs-chevy.json](./5838-ford-vs-chevy.json) |
 | Forebears | 211934 | [211934-forebears.json](./211934-forebears.json) |
@@ -2153,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Bees | 224245 | [224245-free-bees.json](./224245-free-bees.json) |
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
+| Free D.C! | 80526 | [80526-free-d-c.json](./80526-free-d-c.json) |
 | Free Dunk | 339087 | [339087-free-dunk.json](./339087-free-dunk.json) |
 | Free Enterprise | 84229 | [84229-free-enterprise.json](./84229-free-enterprise.json) |
 | Free Fall | 13716 | [13716-free-fall.json](./13716-free-fall.json) |
@@ -2595,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Dungeon 2: Fuurai no Shiren | 103496 | [103496-fushigi-no-dungeon-2-fuurai-no-shiren.json](./103496-fushigi-no-dungeon-2-fuurai-no-shiren.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 4 Plus - Kami no Hitomi to Akuma no Heso | 103507 | [103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json](./103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json) |
 | Fushigi no Dungeon: Fuurai no Shiren DS2 - Sabaku no Majou | 103508 | [103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json](./103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json) |
+| Fushigi no Dungeon: Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! | 80485 | [80485-fushigi-no-dungeon-fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan.json](./80485-fushigi-no-dungeon-fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Mega | 311289 | [311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json](./311289-fushigi-no-dungeon-fuurai-no-shiren-mega.json) |
 | Fushigi no Gensoukyou | 206927 | [206927-fushigi-no-gensoukyou.json](./206927-fushigi-no-gensoukyou.json) |
 | Fushigi no Gensoukyou 3 | 206946 | [206946-fushigi-no-gensoukyou-3.json](./206946-fushigi-no-gensoukyou-3.json) |
