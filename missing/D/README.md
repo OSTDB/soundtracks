@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinofurie | 332417 | [332417-dinofurie.json](./332417-dinofurie.json) |
 | Dinogotchi | 173311 | [173311-dinogotchi.json](./173311-dinogotchi.json) |
 | DinoKnights | 107802 | [107802-dinoknights.json](./107802-dinoknights.json) |
+| Dinoku | 83533 | [83533-dinoku.json](./83533-dinoku.json) |
 | Dinoland | 165672 | [165672-dinoland.json](./165672-dinoland.json) |
 | Dinopunk: The Cacops Adventure | 273648 | [273648-dinopunk-the-cacops-adventure.json](./273648-dinopunk-the-cacops-adventure.json) |
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
