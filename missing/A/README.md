@@ -50,7 +50,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gentlemen's Dispute | 311503 | [311503-a-gentlemens-dispute.json](./311503-a-gentlemens-dispute.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
-| A Gruta de Maquiné | 293930 | [293930-a-gruta-de-maquine.json](./293930-a-gruta-de-maquine.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
 | A Haunting: Witching Hour | 23883 | [23883-a-haunting-witching-hour.json](./23883-a-haunting-witching-hour.json) |
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
