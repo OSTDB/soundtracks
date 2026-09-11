@@ -4011,6 +4011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket to Ride: USA 1910 Ticket Pack | 311992 | [311992-ticket-to-ride-usa-1910-ticket-pack.json](./311992-ticket-to-ride-usa-1910-ticket-pack.json) |
 | Ticket to Ride: Winter | 375176 | [375176-ticket-to-ride-winter.json](./375176-ticket-to-ride-winter.json) |
 | Ticking Tea Time | 327184 | [327184-ticking-tea-time.json](./327184-ticking-tea-time.json) |
+| Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
 | Tidal Towns | 341863 | [341863-tidal-towns.json](./341863-tidal-towns.json) |
 | Tidal Tribe | 116582 | [116582-tidal-tribe.json](./116582-tidal-tribe.json) |
 | Tide of Thieves | 216501 | [216501-tide-of-thieves.json](./216501-tide-of-thieves.json) |
@@ -5258,6 +5259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Tactics | 204089 | [204089-toy-tactics.json](./204089-toy-tactics.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
 | Toy's Brawl | 340947 | [340947-toys-brawl.json](./340947-toys-brawl.json) |
+| Toybit Quest | 104039 | [104039-toybit-quest.json](./104039-toybit-quest.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
 | Toymaker | 10941 | [10941-toymaker.json](./10941-toymaker.json) |
@@ -5828,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
+| Trigger | 104044 | [104044-trigger.json](./104044-trigger.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
@@ -6162,6 +6165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tweet Star | 108518 | [108518-tweet-star.json](./108518-tweet-star.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
+| Twelve Sky 2 | 104129 | [104129-twelve-sky-2.json](./104129-twelve-sky-2.json) |
 | Twelve Sky M | 221390 | [221390-twelve-sky-m.json](./221390-twelve-sky-m.json) |
 | Twelve Sky2 World | 325269 | [325269-twelve-sky2-world.json](./325269-twelve-sky2-world.json) |
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
