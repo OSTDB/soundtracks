@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA March Madness 06 | 5958 | [5958-ncaa-march-madness-06.json](./5958-ncaa-march-madness-06.json) |
 | NCAA: Road to the Final Four | 93022 | [93022-ncaa-road-to-the-final-four.json](./93022-ncaa-road-to-the-final-four.json) |
 | NCORE | 330133 | [330133-ncore.json](./330133-ncore.json) |
+| NCradle | 83522 | [83522-ncradle.json](./83522-ncradle.json) |
 | NE_01 | 109025 | [109025-ne-01.json](./109025-ne-01.json) |
 | Nea Edem | 193418 | [193418-nea-edem.json](./193418-nea-edem.json) |
 | Neanderthal Man | 13742 | [13742-neanderthal-man.json](./13742-neanderthal-man.json) |
@@ -1360,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgic Train | 102089 | [102089-nostalgic-train.json](./102089-nostalgic-train.json) |
 | Nostos | 107252 | [107252-nostos.json](./107252-nostos.json) |
 | Nostradamus | 40257 | [40257-nostradamus.json](./40257-nostradamus.json) |
+| Nostradamus - The Four Horsemen of the Apocalypse | 83508 | [83508-nostradamus-the-four-horsemen-of-the-apocalypse.json](./83508-nostradamus-the-four-horsemen-of-the-apocalypse.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Not a Customer | 406711 | [406711-not-a-customer.json](./406711-not-a-customer.json) |
 | Not A Fake Game | 366868 | [366868-not-a-fake-game.json](./366868-not-a-fake-game.json) |
