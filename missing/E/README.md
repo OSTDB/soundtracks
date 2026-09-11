@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ETA: Unknown | 389437 | [389437-eta-unknown.json](./389437-eta-unknown.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
 | Etched Memories | 382765 | [382765-etched-memories.json](./382765-etched-memories.json) |
+| Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Doom | 140521 | [140521-eternal-doom.json](./140521-eternal-doom.json) |
@@ -1258,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
 | Evolution | 178006 | [178006-evolution.json](./178006-evolution.json) |
 | Evolution | 370144 | [370144-evolution.json](./370144-evolution.json) |
+| Evolution Battle Simulator | 126610 | [126610-evolution-battle-simulator.json](./126610-evolution-battle-simulator.json) |
 | Evolution Board Game: Climate Expansion | 238214 | [238214-evolution-board-game-climate-expansion.json](./238214-evolution-board-game-climate-expansion.json) |
 | Evolution Merge: Eat and Grow | 221378 | [221378-evolution-merge-eat-and-grow.json](./221378-evolution-merge-eat-and-grow.json) |
 | Evolution of a Mini World: Physics Wonderland | 153429 | [153429-evolution-of-a-mini-world-physics-wonderland.json](./153429-evolution-of-a-mini-world-physics-wonderland.json) |
