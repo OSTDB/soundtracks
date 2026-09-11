@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Kingdom | 31395 | [31395-candy-kingdom.json](./31395-candy-kingdom.json) |
 | Candy Land / Chutes & Ladders / Original Memory Game | 91423 | [91423-candy-land-chutes-and-ladders-original-memory-game.json](./91423-candy-land-chutes-and-ladders-original-memory-game.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
+| Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Scabs | 177508 | [177508-candy-scabs.json](./177508-candy-scabs.json) |
@@ -326,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
+| Captain StarOne | 114939 | [114939-captain-starone.json](./114939-captain-starone.json) |
 | Captain Toad Treasure Tracker | 162427 | [162427-captain-toad-treasure-tracker.json](./162427-captain-toad-treasure-tracker.json) |
 | Captain Toad: Treasure Tracker - Special Edition | 51139 | [51139-captain-toad-treasure-tracker-special-edition.json](./51139-captain-toad-treasure-tracker-special-edition.json) |
 | Captain Toad: Treasure Tracker + Special Episode | 136381 | [136381-captain-toad-treasure-tracker-special-episode.json](./136381-captain-toad-treasure-tracker-special-episode.json) |
@@ -1326,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip's Challenge | 282560 | [282560-chips-challenge.json](./282560-chips-challenge.json) |
 | Chip's Challenge | 282561 | [282561-chips-challenge.json](./282561-chips-challenge.json) |
 | Chipmatic | 355037 | [355037-chipmatic.json](./355037-chipmatic.json) |
+| Chipmonk! | 114947 | [114947-chipmonk.json](./114947-chipmonk.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chiral | 309855 | [309855-chiral.json](./309855-chiral.json) |
@@ -2185,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colours and Symbols | 173240 | [173240-colours-and-symbols.json](./173240-colours-and-symbols.json) |
 | Colum and His Friends | 118346 | [118346-colum-and-his-friends.json](./118346-colum-and-his-friends.json) |
 | Columbo's Mystery Capers | 343251 | [343251-columbos-mystery-capers.json](./343251-columbos-mystery-capers.json) |
+| Column Taker | 114962 | [114962-column-taker.json](./114962-column-taker.json) |
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
@@ -3349,6 +3353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeLines | 191251 | [191251-cubelines.json](./191251-cubelines.json) |
 | CubeMator - Mine the MC World | 102203 | [102203-cubemator-mine-the-mc-world.json](./102203-cubemator-mine-the-mc-world.json) |
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
+| CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
