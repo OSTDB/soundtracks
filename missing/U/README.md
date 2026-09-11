@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate Board Game Collection | 20553 | [20553-ultimate-board-game-collection.json](./20553-ultimate-board-game-collection.json) |
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
+| Ultimate Car Driving: Classics | 96775 | [96775-ultimate-car-driving-classics.json](./96775-ultimate-car-driving-classics.json) |
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
 | Ultimate Chicken Horse | 18158 | [18158-ultimate-chicken-horse.json](./18158-ultimate-chicken-horse.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Heroes Idle | 174809 | [174809-unknown-heroes-idle.json](./174809-unknown-heroes-idle.json) |
 | Unknown Horizons | 121622 | [121622-unknown-horizons.json](./121622-unknown-horizons.json) |
 | Unknown Kadath | 271456 | [271456-unknown-kadath.json](./271456-unknown-kadath.json) |
+| Unknown Pain: Hardcore | 96694 | [96694-unknown-pain-hardcore.json](./96694-unknown-pain-hardcore.json) |
 | Unknown Presence | 274508 | [274508-unknown-presence.json](./274508-unknown-presence.json) |
 | Unknown Scrolls | 113719 | [113719-unknown-scrolls.json](./113719-unknown-scrolls.json) |
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
