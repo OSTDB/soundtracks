@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
 | Terminal Machine | 54427 | [54427-terminal-machine.json](./54427-terminal-machine.json) |
+| Terminal Sickness | 110396 | [110396-terminal-sickness.json](./110396-terminal-sickness.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
 | Terminal V | 273403 | [273403-terminal-v.json](./273403-terminal-v.json) |
 | Terminal VR | 127362 | [127362-terminal-vr.json](./127362-terminal-vr.json) |
@@ -3028,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
 | The Seven Years War (1756-1763) | 13666 | [13666-the-seven-years-war-1756-1763.json](./13666-the-seven-years-war-1756-1763.json) |
 | The Seven Years War (1756-1763): Pomeranian War | 171610 | [171610-the-seven-years-war-1756-1763-pomeranian-war.json](./171610-the-seven-years-war-1756-1763-pomeranian-war.json) |
+| The Several Journeys of Reemus Chapter 2: The All-Knowing Parasite | 110311 | [110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json](./110311-the-several-journeys-of-reemus-chapter-2-the-all-knowing-parasite.json) |
 | The Sewers of D'Sparil | 268467 | [268467-the-sewers-of-dsparil.json](./268467-the-sewers-of-dsparil.json) |
 | The Sexorcist | 211723 | [211723-the-sexorcist.json](./211723-the-sexorcist.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
@@ -3576,6 +3578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
+| The War of Genesis: Battle of Antaria | 110293 | [110293-the-war-of-genesis-battle-of-antaria.json](./110293-the-war-of-genesis-battle-of-antaria.json) |
 | The War of Genesis: Remnants of Gray | 137626 | [137626-the-war-of-genesis-remnants-of-gray.json](./137626-the-war-of-genesis-remnants-of-gray.json) |
 | The War of the Worlds | 25730 | [25730-the-war-of-the-worlds.json](./25730-the-war-of-the-worlds.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
@@ -5918,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
+| True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
