@@ -73,6 +73,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
+| Zeebo F.C. Foot Camp | 91898 | [91898-zeebo-f-c-foot-camp.json](./91898-zeebo-f-c-foot-camp.json) |
+| Zeebo F.C. Super League | 91899 | [91899-zeebo-f-c-super-league.json](./91899-zeebo-f-c-super-league.json) |
+| Zeebo Sports Peteca | 91902 | [91902-zeebo-sports-peteca.json](./91902-zeebo-sports-peteca.json) |
+| Zeebo Sports Tênis | 91901 | [91901-zeebo-sports-tenis.json](./91901-zeebo-sports-tenis.json) |
 | Zefira | 119000 | [119000-zefira.json](./119000-zefira.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
 | Zegapain XOR | 68017 | [68017-zegapain-xor.json](./68017-zegapain-xor.json) |
