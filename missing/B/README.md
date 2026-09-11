@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
 | Blox | 18322 | [18322-blox.json](./18322-blox.json) |
+| Blox 3D | 100146 | [100146-blox-3d.json](./100146-blox-3d.json) |
 | Bloxicus | 122428 | [122428-bloxicus.json](./122428-bloxicus.json) |
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
 | Bloxter | 84267 | [84267-bloxter.json](./84267-bloxter.json) |
@@ -3115,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugz | 270400 | [270400-bugz.json](./270400-bugz.json) |
 | Bugz Bows & Curses | 214192 | [214192-bugz-bows-and-curses.json](./214192-bugz-bows-and-curses.json) |
 | Buhei | 265397 | [265397-buhei.json](./265397-buhei.json) |
+| Buick PGA Tour Courses | 100136 | [100136-buick-pga-tour-courses.json](./100136-buick-pga-tour-courses.json) |
 | Build & Battle | 166694 | [166694-build-and-battle.json](./166694-build-and-battle.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
