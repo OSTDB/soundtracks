@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Collector: Dog | 114352 | [114352-achievement-collector-dog.json](./114352-achievement-collector-dog.json) |
 | Achievement Collector: Zombie | 114370 | [114370-achievement-collector-zombie.json](./114370-achievement-collector-zombie.json) |
 | Achievement Display Cabinet | 258207 | [258207-achievement-display-cabinet.json](./258207-achievement-display-cabinet.json) |
+| Achievement Dummy | 110387 | [110387-achievement-dummy.json](./110387-achievement-dummy.json) |
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
 | Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
@@ -2476,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
+| Arena Renovation | 110384 | [110384-arena-renovation.json](./110384-arena-renovation.json) |
 | Arena Titans | 94789 | [94789-arena-titans.json](./94789-arena-titans.json) |
 | Arena: Maze of Death | 19694 | [19694-arena-maze-of-death.json](./19694-arena-maze-of-death.json) |
 | Arena.Xlsm | 125394 | [125394-arena-xlsm.json](./125394-arena-xlsm.json) |
