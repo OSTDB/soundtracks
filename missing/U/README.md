@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
+| Unknown Castle | 119702 | [119702-unknown-castle.json](./119702-unknown-castle.json) |
 | Unknown Exist | 202339 | [202339-unknown-exist.json](./202339-unknown-exist.json) |
 | Unknown Fluffy Object | 380450 | [380450-unknown-fluffy-object.json](./380450-unknown-fluffy-object.json) |
 | Unknown Heroes Idle | 174809 | [174809-unknown-heroes-idle.json](./174809-unknown-heroes-idle.json) |
