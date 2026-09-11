@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa in search of toys | 113691 | [113691-santa-in-search-of-toys.json](./113691-santa-in-search-of-toys.json) |
 | Santa Jump | 186840 | [186840-santa-jump.json](./186840-santa-jump.json) |
 | Santa Olympics | 175400 | [175400-santa-olympics.json](./175400-santa-olympics.json) |
+| Santa Paravia and Fiumaccio | 93011 | [93011-santa-paravia-and-fiumaccio.json](./93011-santa-paravia-and-fiumaccio.json) |
 | Santa Present Defense | 183510 | [183510-santa-present-defense.json](./183510-santa-present-defense.json) |
 | Santa Protects the Christmas Tree | 190133 | [190133-santa-protects-the-christmas-tree.json](./190133-santa-protects-the-christmas-tree.json) |
 | Santa Runner | 111687 | [111687-santa-runner.json](./111687-santa-runner.json) |
@@ -1818,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shovel Knight: Shovel of Hope DX | 305757 | [305757-shovel-knight-shovel-of-hope-dx.json](./305757-shovel-knight-shovel-of-hope-dx.json) |
 | Shovel Knight: Treasure Trove | 26848 | [26848-shovel-knight-treasure-trove.json](./26848-shovel-knight-treasure-trove.json) |
 | Show do Milhão | 122331 | [122331-show-do-milhao.json](./122331-show-do-milhao.json) |
+| Show do Milhão | 93008 | [93008-show-do-milhao.json](./93008-show-do-milhao.json) |
 | Show do Milhão Volume 2 | 122333 | [122333-show-do-milhao-volume-2.json](./122333-show-do-milhao-volume-2.json) |
 | Show do Milhão Volume 3 | 122362 | [122362-show-do-milhao-volume-3.json](./122362-show-do-milhao-volume-3.json) |
 | Show do Milho Grande | 359981 | [359981-show-do-milho-grande.json](./359981-show-do-milho-grande.json) |
@@ -2248,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skapp | 140596 | [140596-skapp.json](./140596-skapp.json) |
 | Skara: The Blade Remains | 14379 | [14379-skara-the-blade-remains.json](./14379-skara-the-blade-remains.json) |
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
+| Skarbnik | 92968 | [92968-skarbnik.json](./92968-skarbnik.json) |
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skate City: New York | 324872 | [324872-skate-city-new-york.json](./324872-skate-city-new-york.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
@@ -2425,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam 'N Jam | 20708 | [20708-slam-n-jam.json](./20708-slam-n-jam.json) |
 | Slam 'n Jam 95 | 39017 | [39017-slam-n-jam-95.json](./39017-slam-n-jam-95.json) |
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
+| Slam Dunk | 92986 | [92986-slam-dunk.json](./92986-slam-dunk.json) |
 | Slam Dunk - The best basketball game 2018 | 106631 | [106631-slam-dunk-the-best-basketball-game-2018.json](./106631-slam-dunk-the-best-basketball-game-2018.json) |
 | Slam! | 94696 | [94696-slam.json](./94696-slam.json) |
 | Slammer Caps Xtreme | 358854 | [358854-slammer-caps-xtreme.json](./358854-slammer-caps-xtreme.json) |
@@ -3080,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solares | 291990 | [291990-solares.json](./291990-solares.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
 | Solaright | 28934 | [28934-solaright.json](./28934-solaright.json) |
+| Solaris 1.0.4. | 93000 | [93000-solaris-1-0-4.json](./93000-solaris-1-0-4.json) |
 | Solaris Assault Tech | 93536 | [93536-solaris-assault-tech.json](./93536-solaris-assault-tech.json) |
 | Solaris Rift | 191198 | [191198-solaris-rift.json](./191198-solaris-rift.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
@@ -4066,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcaster University: Gears and Gobelins | 347676 | [347676-spellcaster-university-gears-and-gobelins.json](./347676-spellcaster-university-gears-and-gobelins.json) |
 | Spellcaster's Assistant | 96733 | [96733-spellcasters-assistant.json](./96733-spellcasters-assistant.json) |
 | Spellcasting 1+2+3 | 124795 | [124795-spellcasting-1-2-3.json](./124795-spellcasting-1-2-3.json) |
+| Spellcasting 101: Sorcerers get all the Girls | 92973 | [92973-spellcasting-101-sorcerers-get-all-the-girls.json](./92973-spellcasting-101-sorcerers-get-all-the-girls.json) |
 | Spellcasting Collection | 115708 | [115708-spellcasting-collection.json](./115708-spellcasting-collection.json) |
 | Spellcats: Auto Card Tactics | 236288 | [236288-spellcats-auto-card-tactics.json](./236288-spellcats-auto-card-tactics.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
@@ -4922,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Zeta | 304003 | [304003-station-zeta.json](./304003-station-zeta.json) |
 | Stationflow | 127462 | [127462-stationflow.json](./127462-stationflow.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
+| StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
 | StaudSoft's Synthetic World | 35899 | [35899-staudsofts-synthetic-world.json](./35899-staudsofts-synthetic-world.json) |
 | Stay | 348238 | [348238-stay.json](./348238-stay.json) |
 | Stay Alive | 197373 | [197373-stay-alive.json](./197373-stay-alive.json) |
