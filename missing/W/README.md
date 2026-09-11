@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westurn | 209460 | [209460-westurn.json](./209460-westurn.json) |
 | Westward III: Gold Rush | 59436 | [59436-westward-iii-gold-rush.json](./59436-westward-iii-gold-rush.json) |
 | Westward Journey Online | 62181 | [62181-westward-journey-online.json](./62181-westward-journey-online.json) |
+| Westworld | 90565 | [90565-westworld.json](./90565-westworld.json) |
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
