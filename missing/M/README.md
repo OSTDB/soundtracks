@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Connect Onet Puzzle | 215120 | [215120-mahjong-connect-onet-puzzle.json](./215120-mahjong-connect-onet-puzzle.json) |
+| Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
 | Mahjong Elements HD | 174371 | [174371-mahjong-elements-hd.json](./174371-mahjong-elements-hd.json) |
 | Mahjong Gakuen Touma Soushirou Toujou | 59429 | [59429-mahjong-gakuen-touma-soushirou-toujou.json](./59429-mahjong-gakuen-touma-soushirou-toujou.json) |
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
@@ -1221,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechatronika | 166737 | [166737-mechatronika.json](./166737-mechatronika.json) |
 | MechaWing! | 244782 | [244782-mechawing.json](./244782-mechawing.json) |
 | MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
+| MechCom 2 | 105984 | [105984-mechcom-2.json](./105984-mechcom-2.json) |
 | MechCorp | 102886 | [102886-mechcorp.json](./102886-mechcorp.json) |
 | MechCube: Dark Stories | 174283 | [174283-mechcube-dark-stories.json](./174283-mechcube-dark-stories.json) |
 | Mechjestic | 293653 | [293653-mechjestic.json](./293653-mechjestic.json) |
@@ -1852,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
 | Micro Mayhem | 115040 | [115040-micro-mayhem.json](./115040-micro-mayhem.json) |
 | Micro Maze | 252731 | [252731-micro-maze.json](./252731-micro-maze.json) |
+| Micro Monster Park | 105874 | [105874-micro-monster-park.json](./105874-micro-monster-park.json) |
 | Micro Mouse Game | 91957 | [91957-micro-mouse-game.json](./91957-micro-mouse-game.json) |
 | Micro Ninja | 314647 | [314647-micro-ninja.json](./314647-micro-ninja.json) |
 | Micro Pico Racers | 96665 | [96665-micro-pico-racers.json](./96665-micro-pico-racers.json) |
@@ -1865,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroFactory | 145627 | [145627-microfactory.json](./145627-microfactory.json) |
 | Microjob | 149564 | [149564-microjob.json](./149564-microjob.json) |
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
+| Micromon Adventures | 105865 | [105865-micromon-adventures.json](./105865-micromon-adventures.json) |
 | Micropolis | 46622 | [46622-micropolis.json](./46622-micropolis.json) |
 | MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys | 98962 | [98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json](./98962-microprose-entertainment-pack-vol-1-dr-floyds-desktop-toys.json) |
 | Microscope Madness | 127211 | [127211-microscope-madness.json](./127211-microscope-madness.json) |
