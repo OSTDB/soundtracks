@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Beyond Me | 166718 | [166718-zombies-beyond-me.json](./166718-zombies-beyond-me.json) |
 | Zombies Crusher | 319960 | [319960-zombies-crusher.json](./319960-zombies-crusher.json) |
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
+| Zombies Inc | 104617 | [104617-zombies-inc.json](./104617-zombies-inc.json) |
 | Zombies TD | 213404 | [213404-zombies-td.json](./213404-zombies-td.json) |
 | Zombies vs. Sheep | 67294 | [67294-zombies-vs-sheep.json](./67294-zombies-vs-sheep.json) |
 | Zombies vs. You | 289339 | [289339-zombies-vs-you.json](./289339-zombies-vs-you.json) |
