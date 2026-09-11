@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
+| F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
 | F1 22 | 198200 | [198200-f1-22.json](./198200-f1-22.json) |
 | F1 25: 2026 Season Edition | 408775 | [408775-f1-25-2026-season-edition.json](./408775-f1-25-2026-season-edition.json) |
