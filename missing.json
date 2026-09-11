@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:30:58.066Z",
+  "generated_at": "2026-09-11T21:40:56.231Z",
   "total_missing": 59390,
   "games": [
     {
@@ -2446,11 +2446,6 @@
       "igdb_id": 58800,
       "game_name": "A Skyrocket Story",
       "file": "missing/A/58800-a-skyrocket-story.json"
-    },
-    {
-      "igdb_id": 295537,
-      "game_name": "A Slightly Different Backrooms",
-      "file": "missing/A/295537-a-slightly-different-backrooms.json"
     },
     {
       "igdb_id": 236502,
@@ -231111,6 +231106,11 @@
       "igdb_id": 365694,
       "game_name": "Star Trek: The Next Generation",
       "file": "missing/S/365694-star-trek-the-next-generation.json"
+    },
+    {
+      "igdb_id": 84216,
+      "game_name": "Star Trek: The Next Generation - Klingon Honor Guard",
+      "file": "missing/S/84216-star-trek-the-next-generation-klingon-honor-guard.json"
     },
     {
       "igdb_id": 326580,
