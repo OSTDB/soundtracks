@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Slide Puzzle | 228106 | [228106-number-slide-puzzle.json](./228106-number-slide-puzzle.json) |
 | Number Tower | 341490 | [341490-number-tower.json](./341490-number-tower.json) |
 | Number Wars | 193474 | [193474-number-wars.json](./193474-number-wars.json) |
+| Numberic Puzzle Blue | 107133 | [107133-numberic-puzzle-blue.json](./107133-numberic-puzzle-blue.json) |
 | Numberic Puzzle Ocean | 107168 | [107168-numberic-puzzle-ocean.json](./107168-numberic-puzzle-ocean.json) |
 | Numberline | 29724 | [29724-numberline.json](./29724-numberline.json) |
 | Numberline 3 | 106580 | [106580-numberline-3.json](./106580-numberline-3.json) |
