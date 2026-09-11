@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Mushrooms | 89649 | [89649-x-mushrooms.json](./89649-x-mushrooms.json) |
 | X Mutation | 290924 | [290924-x-mutation.json](./290924-x-mutation.json) |
 | X Rebirth | 3347 | [3347-x-rebirth.json](./3347-x-rebirth.json) |
+| X Rock | 95380 | [95380-x-rock.json](./95380-x-rock.json) |
 | X Virus | 190742 | [190742-x-virus.json](./190742-x-virus.json) |
 | X-Blades HD Gold | 230814 | [230814-x-blades-hd-gold.json](./230814-x-blades-hd-gold.json) |
 | X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
