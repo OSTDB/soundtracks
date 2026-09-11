@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T13:48:40.431Z",
-  "total_missing": 58103,
+  "generated_at": "2026-09-11T13:50:58.784Z",
+  "total_missing": 58102,
   "games": [
     {
       "igdb_id": 306086,
@@ -2201,11 +2201,6 @@
       "igdb_id": 381603,
       "game_name": "A Magical Tale: Revoke DX",
       "file": "missing/A/381603-a-magical-tale-revoke-dx.json"
-    },
-    {
-      "igdb_id": 302680,
-      "game_name": "A Maiden's Serenade",
-      "file": "missing/A/302680-a-maidens-serenade.json"
     },
     {
       "igdb_id": 82878,
