@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
 | Walk in the Rain | 185092 | [185092-walk-in-the-rain.json](./185092-walk-in-the-rain.json) |
 | Walk on the Ground Simulator | 120945 | [120945-walk-on-the-ground-simulator.json](./120945-walk-on-the-ground-simulator.json) |
+| Walk the Fort | 115605 | [115605-walk-the-fort.json](./115605-walk-the-fort.json) |
 | Walk With Me | 128002 | [128002-walk-with-me.json](./128002-walk-with-me.json) |
 | Walk Zero1 | 329364 | [329364-walk-zero1.json](./329364-walk-zero1.json) |
 | Walkabout Mini Golf: Mars Gardens | 360019 | [360019-walkabout-mini-golf-mars-gardens.json](./360019-walkabout-mini-golf-mars-gardens.json) |
@@ -602,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
+| Wénzìyù | 115626 | [115626-wenziyu.json](./115626-wenziyu.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
 | Werewolf: The Gloaming Malice | 408095 | [408095-werewolf-the-gloaming-malice.json](./408095-werewolf-the-gloaming-malice.json) |
