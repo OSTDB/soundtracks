@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koihana Bakumeiroku | 229034 | [229034-koihana-bakumeiroku.json](./229034-koihana-bakumeiroku.json) |
 | Koihime Enbu RyoRaiRai: Jokou and Kakuka | 159307 | [159307-koihime-enbu-ryorairai-jokou-and-kakuka.json](./159307-koihime-enbu-ryorairai-jokou-and-kakuka.json) |
 | Koikoi | 105266 | [105266-koikoi.json](./105266-koikoi.json) |
+| KoiKoi Revolution RX | 97850 | [97850-koikoi-revolution-rx.json](./97850-koikoi-revolution-rx.json) |
 | Koinori | 415117 | [415117-koinori.json](./415117-koinori.json) |
 | Koinu de Kururin | 412988 | [412988-koinu-de-kururin.json](./412988-koinu-de-kururin.json) |
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
