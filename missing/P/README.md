@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacmaga 2 | 217916 | [217916-pacmaga-2.json](./217916-pacmaga-2.json) |
 | Pacman Club | 289882 | [289882-pacman-club.json](./289882-pacman-club.json) |
 | Pacman Cube | 230500 | [230500-pacman-cube.json](./230500-pacman-cube.json) |
+| Pact With a Witch | 118350 | [118350-pact-with-a-witch.json](./118350-pact-with-a-witch.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
 | Paddle Cats | 411573 | [411573-paddle-cats.json](./411573-paddle-cats.json) |
 | Paddle Combat | 164441 | [164441-paddle-combat.json](./164441-paddle-combat.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
+| Partial Control | 118358 | [118358-partial-control.json](./118358-partial-control.json) |
 | Particle Fleet: Emergence | 24821 | [24821-particle-fleet-emergence.json](./24821-particle-fleet-emergence.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Particulate | 127244 | [127244-particulate.json](./127244-particulate.json) |
@@ -1531,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
 | Plague M.D. | 140631 | [140631-plague-m-d.json](./140631-plague-m-d.json) |
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
+| Plague of Days | 118322 | [118322-plague-of-days.json](./118322-plague-of-days.json) |
 | Plagueworld: Expansion Pack | 167316 | [167316-plagueworld-expansion-pack.json](./167316-plagueworld-expansion-pack.json) |
 | Plain Sight | 8585 | [8585-plain-sight.json](./8585-plain-sight.json) |
 | Plain Song | 368501 | [368501-plain-song.json](./368501-plain-song.json) |
@@ -1559,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Hotpot | 173241 | [173241-planet-hotpot.json](./173241-planet-hotpot.json) |
 | Planet Iridium | 260172 | [260172-planet-iridium.json](./260172-planet-iridium.json) |
 | Planet Joker | 91954 | [91954-planet-joker.json](./91954-planet-joker.json) |
+| Planet Jump 2 | 118441 | [118441-planet-jump-2.json](./118441-planet-jump-2.json) |
 | Planet Lust | 333573 | [333573-planet-lust.json](./333573-planet-lust.json) |
 | Planet Modular Tower Defense. Sci-Fi TD Strategy | 126597 | [126597-planet-modular-tower-defense-sci-fi-td-strategy.json](./126597-planet-modular-tower-defense-sci-fi-td-strategy.json) |
 | Planet Monsters | 49359 | [49359-planet-monsters.json](./49359-planet-monsters.json) |
@@ -2433,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess War | 39000 | [39000-princess-war.json](./39000-princess-war.json) |
 | Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
 | Princesses Lylop: Royal Puzzle Challenge | 328495 | [328495-princesses-lylop-royal-puzzle-challenge.json](./328495-princesses-lylop-royal-puzzle-challenge.json) |
+| PrincessGuardiansParodyH | 118343 | [118343-princessguardiansparodyh.json](./118343-princessguardiansparodyh.json) |
 | Prinny Presents NIS Classics Volumes 1-3 Bundle | 234638 | [234638-prinny-presents-nis-classics-volumes-1-3-bundle.json](./234638-prinny-presents-nis-classics-volumes-1-3-bundle.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
@@ -2694,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Noah | 223981 | [223981-project-noah.json](./223981-project-noah.json) |
 | Project of the Gods | 156118 | [156118-project-of-the-gods.json](./156118-project-of-the-gods.json) |
 | Project Omega | 70397 | [70397-project-omega.json](./70397-project-omega.json) |
+| Project One | 118347 | [118347-project-one.json](./118347-project-one.json) |
 | Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
 | Project P.I.T.T. | 379356 | [379356-project-p-i-t-t.json](./379356-project-p-i-t-t.json) |
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
@@ -2842,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype Mint B | 332403 | [332403-prototype-mint-b.json](./332403-prototype-mint-b.json) |
 | Prototype TD 2 | 195796 | [195796-prototype-td-2.json](./195796-prototype-td-2.json) |
 | Prototype Textures II | 300703 | [300703-prototype-textures-ii.json](./300703-prototype-textures-ii.json) |
+| Prototype-Cube | 118330 | [118330-prototype-cube.json](./118330-prototype-cube.json) |
 | Protozoa | 211728 | [211728-protozoa.json](./211728-protozoa.json) |
 | Proud To Love | 385052 | [385052-proud-to-love.json](./385052-proud-to-love.json) |
 | Proun | 80558 | [80558-proun.json](./80558-proun.json) |
