@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equinox | 100180 | [100180-equinox.json](./100180-equinox.json) |
 | Equinox | 197403 | [197403-equinox.json](./197403-equinox.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
+| Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
@@ -1041,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Fighter Zero: Bad Moon Edition | 234639 | [234639-eternal-fighter-zero-bad-moon-edition.json](./234639-eternal-fighter-zero-bad-moon-edition.json) |
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
+| Eternal Hope | 124198 | [124198-eternal-hope.json](./124198-eternal-hope.json) |
 | Eternal King | 269012 | [269012-eternal-king.json](./269012-eternal-king.json) |
 | Eternal Liiivie: EP1 Liiivie - Isolated From the World | 284348 | [284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json](./284348-eternal-liiivie-ep1-liiivie-isolated-from-the-world.json) |
 | Eternal Magic: Keeper | 171013 | [171013-eternal-magic-keeper.json](./171013-eternal-magic-keeper.json) |
