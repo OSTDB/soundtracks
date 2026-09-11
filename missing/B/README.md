@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Jumper | 299741 | [299741-bird-jumper.json](./299741-bird-jumper.json) |
 | Bird Mania 3D | 65254 | [65254-bird-mania-3d.json](./65254-bird-mania-3d.json) |
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
+| Bird Memory | 112374 | [112374-bird-memory.json](./112374-bird-memory.json) |
 | Bird Shooter | 229974 | [229974-bird-shooter.json](./229974-bird-shooter.json) |
 | Bird Simulator | 127330 | [127330-bird-simulator.json](./127330-bird-simulator.json) |
 | Bird Sort: Color Puzzle | 245332 | [245332-bird-sort-color-puzzle.json](./245332-bird-sort-color-puzzle.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
 | Booty Barrage | 292530 | [292530-booty-barrage.json](./292530-booty-barrage.json) |
+| Booty Hunt | 112289 | [112289-booty-hunt.json](./112289-booty-hunt.json) |
 | Bootybuns 2 | 127925 | [127925-bootybuns-2.json](./127925-bootybuns-2.json) |
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
@@ -2547,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowmen | 129731 | [129731-bowmen.json](./129731-bowmen.json) |
 | Bows Space | 359396 | [359396-bows-space.json](./359396-bows-space.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
+| Box A Chocolate | 112285 | [112285-box-a-chocolate.json](./112285-box-a-chocolate.json) |
 | Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
 | Box Critters | 146293 | [146293-box-critters.json](./146293-box-critters.json) |
 | Box Dash | 196272 | [196272-box-dash.json](./196272-box-dash.json) |
@@ -3063,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build buildings | 105316 | [105316-build-buildings.json](./105316-build-buildings.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
 | Build Lands | 201239 | [201239-build-lands.json](./201239-build-lands.json) |
+| Build Royale | 112275 | [112275-build-royale.json](./112275-build-royale.json) |
 | BuildCraft | 232655 | [232655-buildcraft.json](./232655-buildcraft.json) |
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
