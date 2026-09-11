@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
+| EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
@@ -523,6 +524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
+| Emergence | 130878 | [130878-emergence.json](./130878-emergence.json) |
 | Emergency 3 | 46457 | [46457-emergency-3.json](./46457-emergency-3.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 | 144936 | [144936-emergency-call-112-the-fire-fighting-simulation-2.json](./144936-emergency-call-112-the-fire-fighting-simulation-2.json) |
 | Emergency in Space | 310744 | [310744-emergency-in-space.json](./310744-emergency-in-space.json) |
@@ -863,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Errasaga | 381599 | [381599-errasaga.json](./381599-errasaga.json) |
 | Error 0: New World Found | 178685 | [178685-error-0-new-world-found.json](./178685-error-0-new-world-found.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
+| Erst Kerf | 130906 | [130906-erst-kerf.json](./130906-erst-kerf.json) |
 | Erth | 134673 | [134673-erth.json](./134673-erth.json) |
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | Eruptle | 320769 | [320769-eruptle.json](./320769-eruptle.json) |
