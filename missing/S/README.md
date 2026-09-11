@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvador | 241645 | [241645-salvador.json](./241645-salvador.json) |
 | Salvador Dali painting match | 103529 | [103529-salvador-dali-painting-match.json](./103529-salvador-dali-painting-match.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
+| Salvation | 79851 | [79851-salvation.json](./79851-salvation.json) |
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
 | Sam & Max Save the World + Beyond Time and Space Bundle | 219053 | [219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json](./219053-sam-and-max-save-the-world-beyond-time-and-space-bundle.json) |
@@ -1457,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
+| Sharin no Kuni, Yuukyuu no Shounenshoujo | 79858 | [79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json](./79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json) |
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
@@ -6369,6 +6371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro World | 157172 | [157172-super-retro-world.json](./157172-super-retro-world.json) |
 | Super Rhythm Duel | 127213 | [127213-super-rhythm-duel.json](./127213-super-rhythm-duel.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
+| Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
 | Super Robot Taisen OG: Dark Prison | 144283 | [144283-super-robot-taisen-og-dark-prison.json](./144283-super-robot-taisen-og-dark-prison.json) |
@@ -7024,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Clues | 373000 | [373000-system-clues.json](./373000-system-clues.json) |
 | System Control | 157184 | [157184-system-control.json](./157184-system-control.json) |
 | System Escape | 237067 | [237067-system-escape.json](./237067-system-escape.json) |
+| System Flaw Recruit | 79880 | [79880-system-flaw-recruit.json](./79880-system-flaw-recruit.json) |
 | System Goose Overload | 90651 | [90651-system-goose-overload.json](./90651-system-goose-overload.json) |
 | System Intrusion | 169367 | [169367-system-intrusion.json](./169367-system-intrusion.json) |
 | System Mania | 54423 | [54423-system-mania.json](./54423-system-mania.json) |
