@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T12:04:57.289Z",
-  "total_missing": 57836,
+  "generated_at": "2026-09-11T12:11:01.776Z",
+  "total_missing": 57835,
   "games": [
     {
       "igdb_id": 306086,
@@ -2146,11 +2146,6 @@
       "igdb_id": 264334,
       "game_name": "A Little to the Left: Deep Clean",
       "file": "missing/A/264334-a-little-to-the-left-deep-clean.json"
-    },
-    {
-      "igdb_id": 321177,
-      "game_name": "A Little to the Left: Trick or Tidy",
-      "file": "missing/A/321177-a-little-to-the-left-trick-or-tidy.json"
     },
     {
       "igdb_id": 293082,
