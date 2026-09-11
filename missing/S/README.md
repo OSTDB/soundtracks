@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She From The Future | 309364 | [309364-she-from-the-future.json](./309364-she-from-the-future.json) |
 | She Hungers | 397665 | [397665-she-hungers.json](./397665-she-hungers.json) |
 | She is Home Alone | 310373 | [310373-she-is-home-alone.json](./310373-she-is-home-alone.json) |
+| She is Mermaid | 102086 | [102086-she-is-mermaid.json](./102086-she-is-mermaid.json) |
 | She Save | 50511 | [50511-she-save.json](./50511-she-save.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
@@ -3174,6 +3175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
 | Son of a Glitch | 340202 | [340202-son-of-a-glitch.json](./340202-son-of-a-glitch.json) |
 | Son of a Gun | 244250 | [244250-son-of-a-gun.json](./244250-son-of-a-gun.json) |
+| Son of a Witch | 102107 | [102107-son-of-a-witch.json](./102107-son-of-a-witch.json) |
 | Son of Nor | 16848 | [16848-son-of-nor.json](./16848-son-of-nor.json) |
 | Son of Perun Kharkiv | 264626 | [264626-son-of-perun-kharkiv.json](./264626-son-of-perun-kharkiv.json) |
 | Son of the Dragon | 264884 | [264884-son-of-the-dragon.json](./264884-son-of-the-dragon.json) |
@@ -4893,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Slug | 51262 | [51262-steam-slug.json](./51262-steam-slug.json) |
 | Steam Tactics | 61606 | [61606-steam-tactics.json](./61606-steam-tactics.json) |
 | Steam-Heart's | 45973 | [45973-steam-hearts.json](./45973-steam-hearts.json) |
+| Steamboat Billy: The Curse of the Leviathan | 102090 | [102090-steamboat-billy-the-curse-of-the-leviathan.json](./102090-steamboat-billy-the-curse-of-the-leviathan.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
 | Steamed Hams: The Graphic Adventure | 188591 | [188591-steamed-hams-the-graphic-adventure.json](./188591-steamed-hams-the-graphic-adventure.json) |
@@ -4988,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Plantoids Species Pack | 215399 | [215399-stellaris-plantoids-species-pack.json](./215399-stellaris-plantoids-species-pack.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
 | Stellifier | 317018 | [317018-stellifier.json](./317018-stellifier.json) |
+| Stellights | 102102 | [102102-stellights.json](./102102-stellights.json) |
 | Stellona | 152861 | [152861-stellona.json](./152861-stellona.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
 | Step Away | 369037 | [369037-step-away.json](./369037-step-away.json) |
@@ -5217,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straya | 149516 | [149516-straya.json](./149516-straya.json) |
 | Strayed | 248912 | [248912-strayed.json](./248912-strayed.json) |
 | Strayed Lights: Deluxe Edition | 244793 | [244793-strayed-lights-deluxe-edition.json](./244793-strayed-lights-deluxe-edition.json) |
+| Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
 | Stream Draws | 139448 | [139448-stream-draws.json](./139448-stream-draws.json) |
 | Stream Fighters | 126578 | [126578-stream-fighters.json](./126578-stream-fighters.json) |
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
@@ -6688,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Fairy 3 Ex | 369568 | [369568-sword-and-fairy-3-ex.json](./369568-sword-and-fairy-3-ex.json) |
 | Sword and Fairy Inn | 78048 | [78048-sword-and-fairy-inn.json](./78048-sword-and-fairy-inn.json) |
 | Sword and Spirit | 158175 | [158175-sword-and-spirit.json](./158175-sword-and-spirit.json) |
+| Sword Art Online VR: Lovely Honey Days | 102088 | [102088-sword-art-online-vr-lovely-honey-days.json](./102088-sword-art-online-vr-lovely-honey-days.json) |
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
 | Sword Art Online: Fractured Daydream | 287852 | [287852-sword-art-online-fractured-daydream.json](./287852-sword-art-online-fractured-daydream.json) |
