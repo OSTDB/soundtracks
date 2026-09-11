@@ -95,7 +95,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Robot's Conundrum | 67988 | [67988-a-robots-conundrum.json](./67988-a-robots-conundrum.json) |
-| A Robot's Journey | 151171 | [151171-a-robots-journey.json](./151171-a-robots-journey.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Rose in the Twilight: Limited Edition | 42671 | [42671-a-rose-in-the-twilight-limited-edition.json](./42671-a-rose-in-the-twilight-limited-edition.json) |
 | A Sad Journey | 172196 | [172196-a-sad-journey.json](./172196-a-sad-journey.json) |
@@ -619,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
 | Adventures of Bruce | 141228 | [141228-adventures-of-bruce.json](./141228-adventures-of-bruce.json) |
+| Adventures of Hendri | 88252 | [88252-adventures-of-hendri.json](./88252-adventures-of-hendri.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
 | Adventures of musical tones and their notes | 130934 | [130934-adventures-of-musical-tones-and-their-notes.json](./130934-adventures-of-musical-tones-and-their-notes.json) |
