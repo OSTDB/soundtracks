@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Eventide | 263487 | [263487-hells-eventide.json](./263487-hells-eventide.json) |
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
 | Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
+| Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
 | Helldivers II: Super Citizen Edition | 267925 | [267925-helldivers-ii-super-citizen-edition.json](./267925-helldivers-ii-super-citizen-edition.json) |
@@ -2076,6 +2077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How long can human beings exist | 109657 | [109657-how-long-can-human-beings-exist.json](./109657-how-long-can-human-beings-exist.json) |
 | How Many Bugs in a Box | 380444 | [380444-how-many-bugs-in-a-box.json](./380444-how-many-bugs-in-a-box.json) |
 | How Many Deaths to Clear? | 250353 | [250353-how-many-deaths-to-clear.json](./250353-how-many-deaths-to-clear.json) |
+| How The Grinch Stole Christmas!: Dr. Seuss Mobile | 84195 | [84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json](./84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json) |
 | How the Little Match Girl Got Her Colt Paterson Revolver, and Taught a Virtue to a Goblin | 290403 | [290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json](./290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json) |
 | How the Little Match Girl Met the Queen of Vampires | 290404 | [290404-how-the-little-match-girl-met-the-queen-of-vampires.json](./290404-how-the-little-match-girl-met-the-queen-of-vampires.json) |
 | How They Found Silence | 169987 | [169987-how-they-found-silence.json](./169987-how-they-found-silence.json) |
