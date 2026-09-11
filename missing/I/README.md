@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I’ve Transmigrated as the Supreme Villainess... But I Have No Idea WTF I’m Supposed to Do! | 177511 | [177511-i-ve-transmigrated-as-the-supreme-villainess-but-i-have-no-idea-wtf-i-m-supposed-to-do.json](./177511-i-ve-transmigrated-as-the-supreme-villainess-but-i-have-no-idea-wtf-i-m-supposed-to-do.json) |
 | I/O | 64950 | [64950-i-o.json](./64950-i-o.json) |
 | I`m Isekai Hero | 296935 | [296935-i-m-isekai-hero.json](./296935-i-m-isekai-hero.json) |
+| i3Peaks - Tri Peaks Solitaire | 87084 | [87084-i3peaks-tri-peaks-solitaire.json](./87084-i3peaks-tri-peaks-solitaire.json) |
 | IAH: Internet War | 371911 | [371911-iah-internet-war.json](./371911-iah-internet-war.json) |
 | Iai | 196885 | [196885-iai.json](./196885-iai.json) |
 | Iaidoka_Interlude | 273922 | [273922-iaidoka-interlude.json](./273922-iaidoka-interlude.json) |
@@ -212,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
+| Ice Queen Wedding Salon: Frost Bridal Game | 86832 | [86832-ice-queen-wedding-salon-frost-bridal-game.json](./86832-ice-queen-wedding-salon-frost-bridal-game.json) |
 | Ice Scream 4: Rod's Factory | 275007 | [275007-ice-scream-4-rods-factory.json](./275007-ice-scream-4-rods-factory.json) |
 | Ice Scream 6 Friends: Charlie | 273947 | [273947-ice-scream-6-friends-charlie.json](./273947-ice-scream-6-friends-charlie.json) |
 | Ice Scream 7 Friends: Lis | 275009 | [275009-ice-scream-7-friends-lis.json](./275009-ice-scream-7-friends-lis.json) |
@@ -467,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imi ga Wakaru to Kowai Shashin | 251604 | [251604-imi-ga-wakaru-to-kowai-shashin.json](./251604-imi-ga-wakaru-to-kowai-shashin.json) |
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
 | Imitating Zombies | 189191 | [189191-imitating-zombies.json](./189191-imitating-zombies.json) |
+| IMM Defense | 86769 | [86769-imm-defense.json](./86769-imm-defense.json) |
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
 | Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
@@ -761,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitum: The Backrooms Story | 258179 | [258179-infinitum-the-backrooms-story.json](./258179-infinitum-the-backrooms-story.json) |
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
+| Infinity Beats Song Edition | 87150 | [87150-infinity-beats-song-edition.json](./87150-infinity-beats-song-edition.json) |
 | Infinity Blade II | 20644 | [20644-infinity-blade-ii.json](./20644-infinity-blade-ii.json) |
 | Infinity Blade PC | 342045 | [342045-infinity-blade-pc.json](./342045-infinity-blade-pc.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
@@ -824,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inn The Dark | 255985 | [255985-inn-the-dark.json](./255985-inn-the-dark.json) |
 | Innadreem | 383938 | [383938-innadreem.json](./383938-innadreem.json) |
 | Innchanted | 138239 | [138239-innchanted.json](./138239-innchanted.json) |
+| Innecto | 87097 | [87097-innecto.json](./87097-innecto.json) |
 | Inner Ashes | 217007 | [217007-inner-ashes.json](./217007-inner-ashes.json) |
 | Inner Blade | 244753 | [244753-inner-blade.json](./244753-inner-blade.json) |
 | Inner Fire | 97341 | [97341-inner-fire.json](./97341-inner-fire.json) |
