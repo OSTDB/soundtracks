@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simpler Times | 308240 | [308240-simpler-times.json](./308240-simpler-times.json) |
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
+| Simply Mahjong puzzle game | 88261 | [88261-simply-mahjong-puzzle-game.json](./88261-simply-mahjong-puzzle-game.json) |
 | Simply Puzzles: Codewords | 163424 | [163424-simply-puzzles-codewords.json](./163424-simply-puzzles-codewords.json) |
 | Simply Rotate | 285482 | [285482-simply-rotate.json](./285482-simply-rotate.json) |
 | Simply Sudoku | 266241 | [266241-simply-sudoku.json](./266241-simply-sudoku.json) |
@@ -2535,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
 | SlideRow | 120355 | [120355-sliderow.json](./120355-sliderow.json) |
+| SlideWords | 88207 | [88207-slidewords.json](./88207-slidewords.json) |
 | Sliding Puzzle 2018 | 104645 | [104645-sliding-puzzle-2018.json](./104645-sliding-puzzle-2018.json) |
 | Sliding Puzzle Blue | 107132 | [107132-sliding-puzzle-blue.json](./107132-sliding-puzzle-blue.json) |
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
@@ -2935,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
 | Snowboard Madness | 325274 | [325274-snowboard-madness.json](./325274-snowboard-madness.json) |
+| Snowboard Party World Tour Pro | 88189 | [88189-snowboard-party-world-tour-pro.json](./88189-snowboard-party-world-tour-pro.json) |
 | Snowboarder MP | 247189 | [247189-snowboarder-mp.json](./247189-snowboarder-mp.json) |
 | Snowboarder XS | 325285 | [325285-snowboarder-xs.json](./325285-snowboarder-xs.json) |
 | Snowboarding | 152929 | [152929-snowboarding.json](./152929-snowboarding.json) |
@@ -3899,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space X Collector | 166168 | [166168-space-x-collector.json](./166168-space-x-collector.json) |
 | Space X: Sky War of Air Force | 98929 | [98929-space-x-sky-war-of-air-force.json](./98929-space-x-sky-war-of-air-force.json) |
 | Space Zero | 37185 | [37185-space-zero.json](./37185-space-zero.json) |
+| Space Zombies Invasion | 88243 | [88243-space-zombies-invasion.json](./88243-space-zombies-invasion.json) |
 | Space zone defender | 130856 | [130856-space-zone-defender.json](./130856-space-zone-defender.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
@@ -4803,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlite: Defender of Justice Ultimate HD Edition | 232982 | [232982-starlite-defender-of-justice-ultimate-hd-edition.json](./232982-starlite-defender-of-justice-ultimate-hd-edition.json) |
 | Starloom | 382769 | [382769-starloom.json](./382769-starloom.json) |
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
+| Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | Starona | 142386 | [142386-starona.json](./142386-starona.json) |
 | StarOS | 255961 | [255961-staros.json](./255961-staros.json) |
@@ -4983,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamle | 353897 | [353897-steamle.json](./353897-steamle.json) |
 | Steampunch | 335075 | [335075-steampunch.json](./335075-steampunch.json) |
 | Steampunk Racing 3D | 252141 | [252141-steampunk-racing-3d.json](./252141-steampunk-racing-3d.json) |
+| SteamPunk Sky | 88169 | [88169-steampunk-sky.json](./88169-steampunk-sky.json) |
 | Steampunk Syndicate | 29666 | [29666-steampunk-syndicate.json](./29666-steampunk-syndicate.json) |
 | SteamRush | 295278 | [295278-steamrush.json](./295278-steamrush.json) |
 | Steamry | 365678 | [365678-steamry.json](./365678-steamry.json) |
@@ -5687,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
+| Summer Games 3D | 88164 | [88164-summer-games-3d.json](./88164-summer-games-3d.json) |
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
