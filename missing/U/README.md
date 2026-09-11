@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
+| UBeat | 91921 | [91921-ubeat.json](./91921-ubeat.json) |
 | Ubel | 195142 | [195142-ubel.json](./195142-ubel.json) |
 | Uber Squad | 179132 | [179132-uber-squad.json](./179132-uber-squad.json) |
 | Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
@@ -88,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
 | Ultimate Car Driving: Classics | 96775 | [96775-ultimate-car-driving-classics.json](./96775-ultimate-car-driving-classics.json) |
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
+| Ultimate Chess 3D | 91895 | [91895-ultimate-chess-3d.json](./91895-ultimate-chess-3d.json) |
 | Ultimate Chicken Horse | 18158 | [18158-ultimate-chicken-horse.json](./18158-ultimate-chicken-horse.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
 | Ultimate Custom Night VR | 220139 | [220139-ultimate-custom-night-vr.json](./220139-ultimate-custom-night-vr.json) |
