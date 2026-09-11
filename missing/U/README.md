@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
 | Uncommon Valor: Campaign for the South Pacific | 69881 | [69881-uncommon-valor-campaign-for-the-south-pacific.json](./69881-uncommon-valor-campaign-for-the-south-pacific.json) |
 | Uncompromising Mode | 294684 | [294684-uncompromising-mode.json](./294684-uncompromising-mode.json) |
+| Unconquered Castle | 109632 | [109632-unconquered-castle.json](./109632-unconquered-castle.json) |
 | Uncover | 273390 | [273390-uncover.json](./273390-uncover.json) |
 | Uncover | 316427 | [316427-uncover.json](./316427-uncover.json) |
 | Uncrashed: FPV Drone Simulator | 165627 | [165627-uncrashed-fpv-drone-simulator.json](./165627-uncrashed-fpv-drone-simulator.json) |
@@ -665,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
 | USD Clicker | 371916 | [371916-usd-clicker.json](./371916-usd-clicker.json) |
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
+| Useless Box | 109608 | [109608-useless-box.json](./109608-useless-box.json) |
 | Useless Box: The Game | 126615 | [126615-useless-box-the-game.json](./126615-useless-box-the-game.json) |
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
 | Useless Healer | 411595 | [411595-useless-healer.json](./411595-useless-healer.json) |
