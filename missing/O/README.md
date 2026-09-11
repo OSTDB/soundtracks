@@ -152,8 +152,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Target | 379893 | [379893-off-target.json](./379893-off-target.json) |
 | Off The Rails | 281989 | [281989-off-the-rails.json](./281989-off-the-rails.json) |
 | Off the Record: Liberty Stone | 82141 | [82141-off-the-record-liberty-stone.json](./82141-off-the-record-liberty-stone.json) |
+| Off The Record: The Art of Deception | 98411 | [98411-off-the-record-the-art-of-deception.json](./98411-off-the-record-the-art-of-deception.json) |
 | Off The Record: The Art of Deception HD | 100214 | [100214-off-the-record-the-art-of-deception-hd.json](./100214-off-the-record-the-art-of-deception-hd.json) |
+| Off the Record: The Final Interview | 98409 | [98409-off-the-record-the-final-interview.json](./98409-off-the-record-the-final-interview.json) |
 | Off the Record: The Final Interview Collector's Edition | 102186 | [102186-off-the-record-the-final-interview-collectors-edition.json](./102186-off-the-record-the-final-interview-collectors-edition.json) |
+| Off the Record: The Italian Affair | 98408 | [98408-off-the-record-the-italian-affair.json](./98408-off-the-record-the-italian-affair.json) |
+| Off the Record: The Linden Shades | 98410 | [98410-off-the-record-the-linden-shades.json](./98410-off-the-record-the-linden-shades.json) |
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
 | Off the Table | 174327 | [174327-off-the-table.json](./174327-off-the-table.json) |
 | Off the Wall | 333931 | [333931-off-the-wall.json](./333931-off-the-wall.json) |
@@ -729,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
 | OpenMMO | 410878 | [410878-openmmo.json](./410878-openmmo.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
+| OpenSpades | 98371 | [98371-openspades.json](./98371-openspades.json) |
 | Opera Omnia | 77359 | [77359-opera-omnia.json](./77359-opera-omnia.json) |
 | Operation Abyss: New Tokyo Legacy - Launch Edition | 89917 | [89917-operation-abyss-new-tokyo-legacy-launch-edition.json](./89917-operation-abyss-new-tokyo-legacy-launch-edition.json) |
 | Operation Abyss: New Tokyo Legacy - Limited Edition | 89916 | [89916-operation-abyss-new-tokyo-legacy-limited-edition.json](./89916-operation-abyss-new-tokyo-legacy-limited-edition.json) |
