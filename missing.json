@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T21:20:51.450Z",
-  "total_missing": 59377,
+  "generated_at": "2026-09-11T21:30:58.066Z",
+  "total_missing": 59390,
   "games": [
     {
       "igdb_id": 306086,
@@ -2443,11 +2443,6 @@
       "file": "missing/A/243418-a-shard-of-mine.json"
     },
     {
-      "igdb_id": 294128,
-      "game_name": "A Short Odyssey",
-      "file": "missing/A/294128-a-short-odyssey.json"
-    },
-    {
       "igdb_id": 58800,
       "game_name": "A Skyrocket Story",
       "file": "missing/A/58800-a-skyrocket-story.json"
@@ -4636,6 +4631,11 @@
       "igdb_id": 84251,
       "game_name": "Advanced Dungeons & Dragons Cartridge",
       "file": "missing/A/84251-advanced-dungeons-and-dragons-cartridge.json"
+    },
+    {
+      "igdb_id": 84218,
+      "game_name": "Advanced Dungeons & Dragons Masterpiece Collection",
+      "file": "missing/A/84218-advanced-dungeons-and-dragons-masterpiece-collection.json"
     },
     {
       "igdb_id": 8602,
@@ -46863,6 +46863,11 @@
       "file": "missing/C/175916-colin-mcrae-rally-2005.json"
     },
     {
+      "igdb_id": 84232,
+      "game_name": "Colin the Cleaner",
+      "file": "missing/C/84232-colin-the-cleaner.json"
+    },
+    {
       "igdb_id": 177037,
       "game_name": "Collage",
       "file": "missing/C/177037-collage.json"
@@ -66131,6 +66136,11 @@
       "igdb_id": 211965,
       "game_name": "Domum",
       "file": "missing/D/211965-domum.json"
+    },
+    {
+      "igdb_id": 84222,
+      "game_name": "Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition",
+      "file": "missing/D/84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json"
     },
     {
       "igdb_id": 248899,
@@ -90963,6 +90973,11 @@
       "file": "missing/F/339087-free-dunk.json"
     },
     {
+      "igdb_id": 84229,
+      "game_name": "Free Enterprise",
+      "file": "missing/F/84229-free-enterprise.json"
+    },
+    {
       "igdb_id": 13716,
       "game_name": "Free Fall",
       "file": "missing/F/13716-free-fall.json"
@@ -95676,6 +95691,11 @@
       "igdb_id": 303242,
       "game_name": "Geg 2: Nazad v Budushchee",
       "file": "missing/G/303242-geg-2-nazad-v-budushchee.json"
+    },
+    {
+      "igdb_id": 84227,
+      "game_name": "Geheimprojekt DMSO",
+      "file": "missing/G/84227-geheimprojekt-dmso.json"
     },
     {
       "igdb_id": 192459,
@@ -101786,6 +101806,11 @@
       "igdb_id": 242208,
       "game_name": "Griddler",
       "file": "missing/G/242208-griddler.json"
+    },
+    {
+      "igdb_id": 84226,
+      "game_name": "Gridfire",
+      "file": "missing/G/84226-gridfire.json"
     },
     {
       "igdb_id": 130407,
@@ -123441,6 +123466,11 @@
       "igdb_id": 333561,
       "game_name": "Jamster Allstars",
       "file": "missing/J/333561-jamster-allstars.json"
+    },
+    {
+      "igdb_id": 84230,
+      "game_name": "Jan Friend",
+      "file": "missing/J/84230-jan-friend.json"
     },
     {
       "igdb_id": 247493,
@@ -152158,6 +152188,11 @@
       "file": "missing/M/22620-microsoft-return-of-arcade.json"
     },
     {
+      "igdb_id": 84228,
+      "game_name": "Microsoft Revenge of Arcade",
+      "file": "missing/M/84228-microsoft-revenge-of-arcade.json"
+    },
+    {
       "igdb_id": 93003,
       "game_name": "Microsoft Soccer",
       "file": "missing/M/93003-microsoft-soccer.json"
@@ -177373,6 +177408,11 @@
       "file": "missing/P/29911-pain-train.json"
     },
     {
+      "igdb_id": 84220,
+      "game_name": "Painajainen",
+      "file": "missing/P/84220-painajainen.json"
+    },
+    {
       "igdb_id": 177022,
       "game_name": "Paincult",
       "file": "missing/P/177022-paincult.json"
@@ -180316,6 +180356,11 @@
       "igdb_id": 86039,
       "game_name": "PC Pool",
       "file": "missing/P/86039-pc-pool.json"
+    },
+    {
+      "igdb_id": 84224,
+      "game_name": "PC Selección Española de Fútbol Eurocopa '96",
+      "file": "missing/P/84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json"
     },
     {
       "igdb_id": 391571,
@@ -210248,6 +210293,11 @@
       "file": "missing/S/12208-scapeghost.json"
     },
     {
+      "igdb_id": 84223,
+      "game_name": "Scarab",
+      "file": "missing/S/84223-scarab.json"
+    },
+    {
       "igdb_id": 296389,
       "game_name": "Scarecrow vs. Big Butt Birds",
       "file": "missing/S/296389-scarecrow-vs-big-butt-birds.json"
@@ -229361,6 +229411,11 @@
       "igdb_id": 268744,
       "game_name": "Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack",
       "file": "missing/S/268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json"
+    },
+    {
+      "igdb_id": 84231,
+      "game_name": "Sports Game Pack (Manager Edition)",
+      "file": "missing/S/84231-sports-game-pack-manager-edition.json"
     },
     {
       "igdb_id": 142411,
@@ -256321,6 +256376,11 @@
       "igdb_id": 147945,
       "game_name": "The Mysterious Case of Dr.Jekyll and Mr.Hyde",
       "file": "missing/T/147945-the-mysterious-case-of-dr-jekyll-and-mr-hyde.json"
+    },
+    {
+      "igdb_id": 84217,
+      "game_name": "The Mystery at Greveholm",
+      "file": "missing/T/84217-the-mystery-at-greveholm.json"
     },
     {
       "igdb_id": 204690,
@@ -295456,6 +295516,11 @@
       "igdb_id": 130915,
       "game_name": "Zhànshén Qīpò",
       "file": "missing/Z/130915-zhanshen-qipo.json"
+    },
+    {
+      "igdb_id": 84225,
+      "game_name": "Zhēngtiān Fēngwǔ Zhuán",
+      "file": "missing/Z/84225-zhengtian-fengwu-zhuan.json"
     },
     {
       "igdb_id": 149591,
