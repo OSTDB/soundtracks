@@ -35,7 +35,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
-| A Dudley Dilemma | 135853 | [135853-a-dudley-dilemma.json](./135853-a-dudley-dilemma.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
 | A Faerie's Tale | 299783 | [299783-a-faeries-tale.json](./299783-a-faeries-tale.json) |
 | A Familiar Fairytale: Dyslexic Text Based Adventure | 124174 | [124174-a-familiar-fairytale-dyslexic-text-based-adventure.json](./124174-a-familiar-fairytale-dyslexic-text-based-adventure.json) |
