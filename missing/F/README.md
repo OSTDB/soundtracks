@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flee the Backrooms | 238744 | [238744-flee-the-backrooms.json](./238744-flee-the-backrooms.json) |
 | Fleece Lightning | 175392 | [175392-fleece-lightning.json](./175392-fleece-lightning.json) |
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
+| Fleet Force | 102098 | [102098-fleet-force.json](./102098-fleet-force.json) |
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
@@ -1559,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Hard | 306372 | [306372-fly-hard.json](./306372-fly-hard.json) |
 | Fly Hard | 381027 | [381027-fly-hard.json](./381027-fly-hard.json) |
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
+| Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
 | Fly Logic: Fly Fishing - The Green River | 209463 | [209463-fly-logic-fly-fishing-the-green-river.json](./209463-fly-logic-fly-fishing-the-green-river.json) |
 | Fly Punch Boom: First Impact! | 132201 | [132201-fly-punch-boom-first-impact.json](./132201-fly-punch-boom-first-impact.json) |
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
