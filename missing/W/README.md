@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War 3010: The Revolution | 38397 | [38397-war-3010-the-revolution.json](./38397-war-3010-the-revolution.json) |
 | War Angels | 385609 | [385609-war-angels.json](./385609-war-angels.json) |
 | War Ashes | 214488 | [214488-war-ashes.json](./214488-war-ashes.json) |
+| War by Grow Games | 125982 | [125982-war-by-grow-games.json](./125982-war-by-grow-games.json) |
 | War Doves | 24999 | [24999-war-doves.json](./24999-war-doves.json) |
 | War Eternal | 172670 | [172670-war-eternal.json](./172670-war-eternal.json) |
 | War for Magincia | 129711 | [129711-war-for-magincia.json](./129711-war-for-magincia.json) |
@@ -1190,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry I & II | 123080 | [123080-wizardry-i-and-ii.json](./123080-wizardry-i-and-ii.json) |
 | Wizardry III & IV | 123081 | [123081-wizardry-iii-and-iv.json](./123081-wizardry-iii-and-iv.json) |
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
+| Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
 | Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
