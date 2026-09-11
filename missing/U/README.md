@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Power | 276154 | [276154-universal-power.json](./276154-universal-power.json) |
 | Universal Slot Street | 220297 | [220297-universal-slot-street.json](./220297-universal-slot-street.json) |
 | Universal Space Station | 116989 | [116989-universal-space-station.json](./116989-universal-space-station.json) |
+| Universally Loved | 106561 | [106561-universally-loved.json](./106561-universally-loved.json) |
 | Universe | 130867 | [130867-universe.json](./130867-universe.json) |
 | Universe 24 | 116301 | [116301-universe-24.json](./116301-universe-24.json) |
 | Universe 25: The Loop | 171072 | [171072-universe-25-the-loop.json](./171072-universe-25-the-loop.json) |
