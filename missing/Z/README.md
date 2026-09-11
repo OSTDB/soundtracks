@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhījiāng Xiǎozhèn | 369570 | [369570-zhijiang-xiaozhen.json](./369570-zhijiang-xiaozhen.json) |
 | Zhmyshenko Valery Albertovich | 99018 | [99018-zhmyshenko-valery-albertovich.json](./99018-zhmyshenko-valery-albertovich.json) |
 | Zhombre, the Undead Hombre | 23878 | [23878-zhombre-the-undead-hombre.json](./23878-zhombre-the-undead-hombre.json) |
+| Zhōngguó Xiàngqí | 82099 | [82099-zhongguo-xiangqi.json](./82099-zhongguo-xiangqi.json) |
 | Zhōngguó Xiàngqí Zàixiàn | 88208 | [88208-zhongguo-xiangqi-zaixian.json](./88208-zhongguo-xiangqi-zaixian.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
