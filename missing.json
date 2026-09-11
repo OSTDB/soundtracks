@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:48:38.386Z",
-  "total_missing": 57640,
+  "generated_at": "2026-09-11T10:51:00.070Z",
+  "total_missing": 57639,
   "games": [
     {
       "igdb_id": 306086,
@@ -2101,11 +2101,6 @@
       "igdb_id": 261810,
       "game_name": "A Journey Together",
       "file": "missing/A/261810-a-journey-together.json"
-    },
-    {
-      "igdb_id": 66681,
-      "game_name": "A Kappa's Trail",
-      "file": "missing/A/66681-a-kappas-trail.json"
     },
     {
       "igdb_id": 134688,
