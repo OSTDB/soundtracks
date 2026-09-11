@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation CrossCounter | 94755 | [94755-operation-crosscounter.json](./94755-operation-crosscounter.json) |
 | Operation Crusader | 51278 | [51278-operation-crusader.json](./51278-operation-crusader.json) |
 | Operation Dartness | 378187 | [378187-operation-dartness.json](./378187-operation-dartness.json) |
+| Operation DogFight | 95396 | [95396-operation-dogfight.json](./95396-operation-dogfight.json) |
 | Operation Eco-Nightmare | 210686 | [210686-operation-eco-nightmare.json](./210686-operation-eco-nightmare.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
 | Operation F.A.T.E. | 152865 | [152865-operation-f-a-t-e.json](./152865-operation-f-a-t-e.json) |
@@ -1165,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overheat: Kitchen Chaos | 324134 | [324134-overheat-kitchen-chaos.json](./324134-overheat-kitchen-chaos.json) |
 | Overhours | 253599 | [253599-overhours.json](./253599-overhours.json) |
 | Overkill | 272013 | [272013-overkill.json](./272013-overkill.json) |
+| Overkill | 95402 | [95402-overkill.json](./95402-overkill.json) |
 | Overknight Dungeon | 223980 | [223980-overknight-dungeon.json](./223980-overknight-dungeon.json) |
 | Overlapping World | 284342 | [284342-overlapping-world.json](./284342-overlapping-world.json) |
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
