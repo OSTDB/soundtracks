@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Tatlone | 415066 | [415066-tatlone.json](./415066-tatlone.json) |
 | Tatsunami, let's clean up! | 353917 | [353917-tatsunami-lets-clean-up.json](./353917-tatsunami-lets-clean-up.json) |
+| Tattoo Design Studio: Fun Game | 89156 | [89156-tattoo-design-studio-fun-game.json](./89156-tattoo-design-studio-fun-game.json) |
 | Tattoo Punk | 146824 | [146824-tattoo-punk.json](./146824-tattoo-punk.json) |
 | TauCeti Unknown Origin | 130911 | [130911-tauceti-unknown-origin.json](./130911-tauceti-unknown-origin.json) |
 | Tauriel Teaches Typing | 181883 | [181883-tauriel-teaches-typing.json](./181883-tauriel-teaches-typing.json) |
@@ -1038,6 +1039,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 64 kb challenge: Limitless | 260140 | [260140-the-64-kb-challenge-limitless.json](./260140-the-64-kb-challenge-limitless.json) |
 | The 64 kb challenge: Vanilla | 260139 | [260139-the-64-kb-challenge-vanilla.json](./260139-the-64-kb-challenge-vanilla.json) |
 | The 7 Cents Deal | 183558 | [183558-the-7-cents-deal.json](./183558-the-7-cents-deal.json) |
+| The 7 Second Challenge | 89175 | [89175-the-7-second-challenge.json](./89175-the-7-second-challenge.json) |
+| The 7D Mine Train | 89163 | [89163-the-7d-mine-train.json](./89163-the-7d-mine-train.json) |
 | The 7th Melee: Sonic's Heroes | 330719 | [330719-the-7th-melee-sonics-heroes.json](./330719-the-7th-melee-sonics-heroes.json) |
 | The 8th Day | 106605 | [106605-the-8th-day.json](./106605-the-8th-day.json) |
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
@@ -3028,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The S.H.O.W. | 412964 | [412964-the-s-h-o-w.json](./412964-the-s-h-o-w.json) |
 | The Saboteur | 3171 | [3171-the-saboteur.json](./3171-the-saboteur.json) |
 | The Sacred Acorn | 141175 | [141175-the-sacred-acorn.json](./141175-the-sacred-acorn.json) |
+| The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
 | The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
@@ -5225,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
+| Tourist | 89206 | [89206-tourist.json](./89206-tourist.json) |
 | Tourist Bus Simulator: BB40 | 168891 | [168891-tourist-bus-simulator-bb40.json](./168891-tourist-bus-simulator-bb40.json) |
 | Tourist Bus Simulator: Comfort Class HD | 168888 | [168888-tourist-bus-simulator-comfort-class-hd.json](./168888-tourist-bus-simulator-comfort-class-hd.json) |
 | Tourist Bus Simulator: Man Lion's Coach 3rd Gen | 168890 | [168890-tourist-bus-simulator-man-lions-coach-3rd-gen.json](./168890-tourist-bus-simulator-man-lions-coach-3rd-gen.json) |
@@ -5746,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Collector Simulator: Survive Edition | 351029 | [351029-trash-collector-simulator-survive-edition.json](./351029-trash-collector-simulator-survive-edition.json) |
 | Trash defense | 114397 | [114397-trash-defense.json](./114397-trash-defense.json) |
+| Trash Diver | 89212 | [89212-trash-diver.json](./89212-trash-diver.json) |
 | Trash Goblin: The Artist of Brimhaven | 402318 | [402318-trash-goblin-the-artist-of-brimhaven.json](./402318-trash-goblin-the-artist-of-brimhaven.json) |
 | Trash Heart | 329008 | [329008-trash-heart.json](./329008-trash-heart.json) |
 | Trash Horror Collection | 204091 | [204091-trash-horror-collection.json](./204091-trash-horror-collection.json) |
@@ -5947,6 +5953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
 | Trip Time Collection | 328467 | [328467-trip-time-collection.json](./328467-trip-time-collection.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
+| TriPeaks Solitaire: Card Game | 89185 | [89185-tripeaks-solitaire-card-game.json](./89185-tripeaks-solitaire-card-game.json) |
 | Triple | 277861 | [277861-triple.json](./277861-triple.json) |
 | Triple Action | 5709 | [5709-triple-action.json](./5709-triple-action.json) |
 | Triple Agent! | 75144 | [75144-triple-agent.json](./75144-triple-agent.json) |
