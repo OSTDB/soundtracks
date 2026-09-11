@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Manager | 34569 | [34569-car-mechanic-manager.json](./34569-car-mechanic-manager.json) |
 | Car Mechanic Pinball | 219301 | [219301-car-mechanic-pinball.json](./219301-car-mechanic-pinball.json) |
 | Car Mechanic Simulator 2014 | 7571 | [7571-car-mechanic-simulator-2014.json](./7571-car-mechanic-simulator-2014.json) |
+| Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
 | Car Mechanic Simulator: Pocket Edition 2 | 196825 | [196825-car-mechanic-simulator-pocket-edition-2.json](./196825-car-mechanic-simulator-pocket-edition-2.json) |
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
@@ -400,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Shuffle Sort | 251237 | [251237-card-shuffle-sort.json](./251237-card-shuffle-sort.json) |
 | Card Survival: Fantasy Forest | 290925 | [290925-card-survival-fantasy-forest.json](./290925-card-survival-fantasy-forest.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
+| Card Throw VR | 119716 | [119716-card-throw-vr.json](./119716-card-throw-vr.json) |
 | Card Tower Defence | 153458 | [153458-card-tower-defence.json](./153458-card-tower-defence.json) |
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card Trainer | 400869 | [400869-card-trainer.json](./400869-card-trainer.json) |
@@ -409,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CardBoard | 395558 | [395558-cardboard.json](./395558-cardboard.json) |
 | Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
+| Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
 | Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | Cardfight!! Vanguard EX | 115018 | [115018-cardfight-vanguard-ex.json](./115018-cardfight-vanguard-ex.json) |
@@ -708,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
+| Cat&rooms | 119711 | [119711-cat-and-rooms.json](./119711-cat-and-rooms.json) |
 | Cataclismo | 250162 | [250162-cataclismo.json](./250162-cataclismo.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm | 308268 | [308268-cataclysm.json](./308268-cataclysm.json) |
@@ -1758,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
+| Click Defense | 119722 | [119722-click-defense.json](./119722-click-defense.json) |
 | Click Deity | 246660 | [246660-click-deity.json](./246660-click-deity.json) |
 | Click For Cash: Cashed Out | 265944 | [265944-click-for-cash-cashed-out.json](./265944-click-for-cash-cashed-out.json) |
 | Click Lovers | 203927 | [203927-click-lovers.json](./203927-click-lovers.json) |
@@ -2648,6 +2653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
 | Couch Installation Service | 158679 | [158679-couch-installation-service.json](./158679-couch-installation-service.json) |
 | Couch Party Game Night | 109655 | [109655-couch-party-game-night.json](./109655-couch-party-game-night.json) |
+| Couch Storm: Battle Royale | 119735 | [119735-couch-storm-battle-royale.json](./119735-couch-storm-battle-royale.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
 | Count on Me | 176511 | [176511-count-on-me.json](./176511-count-on-me.json) |
