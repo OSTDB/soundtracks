@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
 | Kernmantle | 139408 | [139408-kernmantle.json](./139408-kernmantle.json) |
 | Kero Kero Keroppi no Issho ni Asobou | 40239 | [40239-kero-kero-keroppi-no-issho-ni-asobou.json](./40239-kero-kero-keroppi-no-issho-ni-asobou.json) |
+| Kero Kero Keroppi to Origami no Tabibito | 125960 | [125960-kero-kero-keroppi-to-origami-no-tabibito.json](./125960-kero-kero-keroppi-to-origami-no-tabibito.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
 | Keroro RPG: Kishi to Busha to Densetsu no Kaizoku | 67306 | [67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json](./67306-keroro-rpg-kishi-to-busha-to-densetsu-no-kaizoku.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
