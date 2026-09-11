@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fista Retro Horror Pack | 309323 | [309323-fista-retro-horror-pack.json](./309323-fista-retro-horror-pack.json) |
 | Fistagon | 264065 | [264065-fistagon.json](./264065-fistagon.json) |
 | Fists of Stone | 219786 | [219786-fists-of-stone.json](./219786-fists-of-stone.json) |
+| Fit | 102731 | [102731-fit.json](./102731-fit.json) |
 | Fit & Fun | 50604 | [50604-fit-and-fun.json](./50604-fit-and-fun.json) |
 | Fit Cats | 382188 | [382188-fit-cats.json](./382188-fit-cats.json) |
 | Fit Fantasy | 144268 | [144268-fit-fantasy.json](./144268-fit-fantasy.json) |
@@ -2005,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy's Adventure | 159893 | [159893-foxys-adventure.json](./159893-foxys-adventure.json) |
 | FP Racer | 340242 | [340242-fp-racer.json](./340242-fp-racer.json) |
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
+| FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPV Air 2: Bando Freestyler | 172099 | [172099-fpv-air-2-bando-freestyler.json](./172099-fpv-air-2-bando-freestyler.json) |
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
