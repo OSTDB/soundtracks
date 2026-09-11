@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagun: Clash of Kingdoms | 120350 | [120350-jagun-clash-of-kingdoms.json](./120350-jagun-clash-of-kingdoms.json) |
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
 | Jailbird Nocturne | 364530 | [364530-jailbird-nocturne.json](./364530-jailbird-nocturne.json) |
+| Jailbreak Russia | 104023 | [104023-jailbreak-russia.json](./104023-jailbreak-russia.json) |
 | Jailbreak: The Ultimate Escape | 256260 | [256260-jailbreak-the-ultimate-escape.json](./256260-jailbreak-the-ultimate-escape.json) |
 | JailBreaker | 274775 | [274775-jailbreaker.json](./274775-jailbreaker.json) |
 | Jak and Daxter: The Precursor Legacy | 302690 | [302690-jak-and-daxter-the-precursor-legacy.json](./302690-jak-and-daxter-the-precursor-legacy.json) |
