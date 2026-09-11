@@ -19,7 +19,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Certain Incremental Exoplanet | 389999 | [389999-a-certain-incremental-exoplanet.json](./389999-a-certain-incremental-exoplanet.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
-| A Coloring Break: Expansion pack 4 | 357770 | [357770-a-coloring-break-expansion-pack-4.json](./357770-a-coloring-break-expansion-pack-4.json) |
 | A Coloring Break: Expansion pack 5 | 357771 | [357771-a-coloring-break-expansion-pack-5.json](./357771-a-coloring-break-expansion-pack-5.json) |
 | A Coloring Break: Expansion pack 6 | 357772 | [357772-a-coloring-break-expansion-pack-6.json](./357772-a-coloring-break-expansion-pack-6.json) |
 | A Coloring Break: Expansion pack 7 | 357773 | [357773-a-coloring-break-expansion-pack-7.json](./357773-a-coloring-break-expansion-pack-7.json) |
