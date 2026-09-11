@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Puzzlers: Synthwave Vampires | 341502 | [341502-og-puzzlers-synthwave-vampires.json](./341502-og-puzzlers-synthwave-vampires.json) |
 | OGame | 17257 | [17257-ogame.json](./17257-ogame.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
+| Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
 | Ogu and the Secret Forest | 200923 | [200923-ogu-and-the-secret-forest.json](./200923-ogu-and-the-secret-forest.json) |
 | Oh Baby! Kart | 278139 | [278139-oh-baby-kart.json](./278139-oh-baby-kart.json) |
 | Oh Balls 2 | 103527 | [103527-oh-balls-2.json](./103527-oh-balls-2.json) |
