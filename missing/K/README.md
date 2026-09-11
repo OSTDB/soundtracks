@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Koi Mahjong | 43964 | [43964-koi-koi-mahjong.json](./43964-koi-koi-mahjong.json) |
 | Koi No Hotrock | 40230 | [40230-koi-no-hotrock.json](./40230-koi-no-hotrock.json) |
 | Koi Shiyo? | 194535 | [194535-koi-shiyo.json](./194535-koi-shiyo.json) |
+| Koi Solitaire | 108415 | [108415-koi-solitaire.json](./108415-koi-solitaire.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
 | Koi wa Sotto Saku Hana no you ni | 194533 | [194533-koi-wa-sotto-saku-hana-no-you-ni.json](./194533-koi-wa-sotto-saku-hana-no-you-ni.json) |
 | Koi wa Sotto Saku Hana no you ni: Futari wa Eien ni Yorisotte Iku | 194534 | [194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json](./194534-koi-wa-sotto-saku-hana-no-you-ni-futari-wa-eien-ni-yorisotte-iku.json) |
