@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar Moto | 123057 | [123057-dakar-moto.json](./123057-dakar-moto.json) |
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
+| Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
 | Dalo | 207514 | [207514-dalo.json](./207514-dalo.json) |
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
@@ -1134,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
+| Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
 | Der Gesundheits Coach: Wohlfuhlen jeden Tag | 269579 | [269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json](./269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json) |
 | Der Wanderer über dem Säuremeer | 271231 | [271231-der-wanderer-uber-dem-sauremeer.json](./271231-der-wanderer-uber-dem-sauremeer.json) |
 | Der Weichensteller: Odyssey Live | 309108 | [309108-der-weichensteller-odyssey-live.json](./309108-der-weichensteller-odyssey-live.json) |
@@ -1368,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dewdrop Dynasty | 144260 | [144260-dewdrop-dynasty.json](./144260-dewdrop-dynasty.json) |
 | DEX : Speed Run - Level Maker - World Records | 380430 | [380430-dex-speed-run-level-maker-world-records.json](./380430-dex-speed-run-level-maker-world-records.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
+| Dexlinhale | 125963 | [125963-dexlinhale.json](./125963-dexlinhale.json) |
 | Dexterity Ball 3D | 34445 | [34445-dexterity-ball-3d.json](./34445-dexterity-ball-3d.json) |
 | Dexterous: Time to Steal | 278159 | [278159-dexterous-time-to-steal.json](./278159-dexterous-time-to-steal.json) |
 | Dezaemon | 56533 | [56533-dezaemon.json](./56533-dezaemon.json) |
