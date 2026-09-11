@@ -99,7 +99,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Sensei's Story | 276503 | [276503-a-senseis-story.json](./276503-a-senseis-story.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
-| A Short Death | 332977 | [332977-a-short-death.json](./332977-a-short-death.json) |
 | A Short Odyssey | 294128 | [294128-a-short-odyssey.json](./294128-a-short-odyssey.json) |
 | A Shrimpful Adventure | 314269 | [314269-a-shrimpful-adventure.json](./314269-a-shrimpful-adventure.json) |
 | A Siren's Call VR: Death Comes At Night | 195228 | [195228-a-sirens-call-vr-death-comes-at-night.json](./195228-a-sirens-call-vr-death-comes-at-night.json) |
