@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: DEDSEC Edition | 103379 | [103379-watch-dogs-dedsec-edition.json](./103379-watch-dogs-dedsec-edition.json) |
 | Watch Dogs: Legion - Bloodline | 139395 | [139395-watch-dogs-legion-bloodline.json](./139395-watch-dogs-legion-bloodline.json) |
 | Watch Dogs: Legion - Golden King Pack | 334114 | [334114-watch-dogs-legion-golden-king-pack.json](./334114-watch-dogs-legion-golden-king-pack.json) |
+| Watch Out! | 100220 | [100220-watch-out.json](./100220-watch-out.json) |
 | Watch This! | 33129 | [33129-watch-this.json](./33129-watch-this.json) |
 | Watch_Dogs 1985 | 179119 | [179119-watch-dogs-1985.json](./179119-watch-dogs-1985.json) |
 | Watching Delusion | 105386 | [105386-watching-delusion.json](./105386-watching-delusion.json) |
@@ -962,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
 | Wild West Fights: Girls Fighting World | 100751 | [100751-wild-west-fights-girls-fighting-world.json](./100751-wild-west-fights-girls-fighting-world.json) |
+| Wild West Quest: Gold Rush | 100223 | [100223-wild-west-quest-gold-rush.json](./100223-wild-west-quest-gold-rush.json) |
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
