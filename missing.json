@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T19:03:34.806Z",
-  "total_missing": 59053,
+  "generated_at": "2026-09-11T19:10:54.480Z",
+  "total_missing": 59052,
   "games": [
     {
       "igdb_id": 306086,
@@ -2371,11 +2371,6 @@
       "igdb_id": 140536,
       "game_name": "A Ride to Love",
       "file": "missing/A/140536-a-ride-to-love.json"
-    },
-    {
-      "igdb_id": 271244,
-      "game_name": "A Roaming Wildebeest In Spain",
-      "file": "missing/A/271244-a-roaming-wildebeest-in-spain.json"
     },
     {
       "igdb_id": 67988,
