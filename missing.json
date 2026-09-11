@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T01:03:49.309Z",
-  "total_missing": 55970,
+  "generated_at": "2026-09-11T01:11:04.378Z",
+  "total_missing": 55969,
   "games": [
     {
       "igdb_id": 306086,
@@ -1811,11 +1811,6 @@
       "igdb_id": 183047,
       "game_name": "A Cat Cafe Story",
       "file": "missing/A/183047-a-cat-cafe-story.json"
-    },
-    {
-      "igdb_id": 82930,
-      "game_name": "A Certain Erotic Daily Scenes",
-      "file": "missing/A/82930-a-certain-erotic-daily-scenes.json"
     },
     {
       "igdb_id": 389999,
