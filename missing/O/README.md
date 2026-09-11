@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osseous and Swordy | 263220 | [263220-osseous-and-swordy.json](./263220-osseous-and-swordy.json) |
 | Ostalgie: The Berlin Wall - Legacy of Hoxha | 172165 | [172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json](./172165-ostalgie-the-berlin-wall-legacy-of-hoxha.json) |
 | Ostekrigen på Mælkevejen | 91455 | [91455-ostekrigen-pa-m-lkevejen.json](./91455-ostekrigen-pa-m-lkevejen.json) |
+| Osterballerei | 92972 | [92972-osterballerei.json](./92972-osterballerei.json) |
 | Osterity | 308276 | [308276-osterity.json](./308276-osterity.json) |
 | Osteya: Adventures | 102096 | [102096-osteya-adventures.json](./102096-osteya-adventures.json) |
 | Osu!! Karate Bu | 38382 | [38382-osu-karate-bu.json](./38382-osu-karate-bu.json) |
@@ -952,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otaku's Adventure: The World Just Keeps Turning | 299119 | [299119-otakus-adventure-the-world-just-keeps-turning.json](./299119-otakus-adventure-the-world-just-keeps-turning.json) |
 | Otaku's Rage: Waifu Strikes Back | 144368 | [144368-otakus-rage-waifu-strikes-back.json](./144368-otakus-rage-waifu-strikes-back.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
+| Othello 3 | 93019 | [93019-othello-3.json](./93019-othello-3.json) |
 | Othello 3D | 222309 | [222309-othello-3d.json](./222309-othello-3d.json) |
 | Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
