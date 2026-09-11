@@ -2541,6 +2541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
 | Smash Hit | 39239 | [39239-smash-hit.json](./39239-smash-hit.json) |
 | Smash Hyper Drive | 220667 | [220667-smash-hyper-drive.json](./220667-smash-hyper-drive.json) |
+| Smash Karts | 130348 | [130348-smash-karts.json](./130348-smash-karts.json) |
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
 | Smash MAGA! Trump Zombie Apocalypse | 168336 | [168336-smash-maga-trump-zombie-apocalypse.json](./168336-smash-maga-trump-zombie-apocalypse.json) |
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
@@ -4176,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyrazoid | 227833 | [227833-spyrazoid.json](./227833-spyrazoid.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
+| Spyro Superpack | 130303 | [130303-spyro-superpack.json](./130303-spyro-superpack.json) |
 | Spyro the Dragon | 280768 | [280768-spyro-the-dragon.json](./280768-spyro-the-dragon.json) |
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
 | Spyro the Dragon 8 | 253357 | [253357-spyro-the-dragon-8.json](./253357-spyro-the-dragon-8.json) |
@@ -5200,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Style Lab: Jewelry Design | 208359 | [208359-style-lab-jewelry-design.json](./208359-style-lab-jewelry-design.json) |
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
 | Stylist Girl: Sunny Edition | 317242 | [317242-stylist-girl-sunny-edition.json](./317242-stylist-girl-sunny-edition.json) |
+| Styx VR DrumSim | 130296 | [130296-styx-vr-drumsim.json](./130296-styx-vr-drumsim.json) |
 | Su Hack | 111002 | [111002-su-hack.json](./111002-su-hack.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
 | Sub Battle Simulator | 37162 | [37162-sub-battle-simulator.json](./37162-sub-battle-simulator.json) |
@@ -5968,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
+| Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
 | Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori | 138826 | [138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json](./138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json) |
 | Super Realistic Autocross | 123046 | [123046-super-realistic-autocross.json](./123046-super-realistic-autocross.json) |
