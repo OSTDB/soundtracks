@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T06:31:09.759Z",
-  "total_missing": 56929,
+  "generated_at": "2026-09-11T06:41:06.300Z",
+  "total_missing": 56935,
   "games": [
     {
       "igdb_id": 306086,
@@ -1976,11 +1976,6 @@
       "igdb_id": 179136,
       "game_name": "A Firefighter's Boxing Matches",
       "file": "missing/A/179136-a-firefighters-boxing-matches.json"
-    },
-    {
-      "igdb_id": 140047,
-      "game_name": "A Fistful of Doom",
-      "file": "missing/A/140047-a-fistful-of-doom.json"
     },
     {
       "igdb_id": 200666,
@@ -26368,6 +26363,26 @@
       "file": "missing/B/45047-bishi-bashi-special.json"
     },
     {
+      "igdb_id": 115725,
+      "game_name": "Bishoujo Mangekyou: Kami ga Tsukuritamouta Shoujo-tachi",
+      "file": "missing/B/115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json"
+    },
+    {
+      "igdb_id": 115724,
+      "game_name": "Bishoujo Mangekyou: Katsute Shoujo Datta Kimi he",
+      "file": "missing/B/115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json"
+    },
+    {
+      "igdb_id": 115722,
+      "game_name": "Bishoujo Mangekyou: Norowareshi Densetsu no Shoujo",
+      "file": "missing/B/115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json"
+    },
+    {
+      "igdb_id": 115723,
+      "game_name": "Bishoujo Mangekyou: Wasurenagusa to Eien no Shoujo",
+      "file": "missing/B/115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json"
+    },
+    {
       "igdb_id": 225257,
       "game_name": "Bishoujo Senshi Sailor Moon Super S: Illustration Club",
       "file": "missing/B/225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json"
@@ -34351,6 +34366,11 @@
       "igdb_id": 147918,
       "game_name": "Bunny Adventure",
       "file": "missing/B/147918-bunny-adventure.json"
+    },
+    {
+      "igdb_id": 115727,
+      "game_name": "Bunny Black",
+      "file": "missing/B/115727-bunny-black.json"
     },
     {
       "igdb_id": 265395,
@@ -115161,6 +115181,11 @@
       "igdb_id": 350421,
       "game_name": "Inhuman",
       "file": "missing/I/350421-inhuman.json"
+    },
+    {
+      "igdb_id": 115720,
+      "game_name": "Initen",
+      "file": "missing/I/115720-initen.json"
     },
     {
       "igdb_id": 201776,
@@ -269381,6 +269406,11 @@
       "igdb_id": 310751,
       "game_name": "Vincent",
       "file": "missing/V/310751-vincent.json"
+    },
+    {
+      "igdb_id": 115721,
+      "game_name": "Vind",
+      "file": "missing/V/115721-vind.json"
     },
     {
       "igdb_id": 296366,
