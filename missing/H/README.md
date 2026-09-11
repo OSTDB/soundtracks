@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
 | Hair Salon: Cool Stories | 237376 | [237376-hair-salon-cool-stories.json](./237376-hair-salon-cool-stories.json) |
+| Hairstyle | 104597 | [104597-hairstyle.json](./104597-hairstyle.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Haitenai RPG | 211725 | [211725-haitenai-rpg.json](./211725-haitenai-rpg.json) |
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
@@ -1264,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
 | Hidden Mysteries: Return to Titanic | 206730 | [206730-hidden-mysteries-return-to-titanic.json](./206730-hidden-mysteries-return-to-titanic.json) |
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
+| Hidden Object Ancient Dragons | 104624 | [104624-hidden-object-ancient-dragons.json](./104624-hidden-object-ancient-dragons.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
 | Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
