@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZLM Crafter | 124206 | [124206-zlm-crafter.json](./124206-zlm-crafter.json) |
 | Zlorp Adventures | 328999 | [328999-zlorp-adventures.json](./328999-zlorp-adventures.json) |
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
+| Zodiac Faeries Astrology Adventure | 102818 | [102818-zodiac-faeries-astrology-adventure.json](./102818-zodiac-faeries-astrology-adventure.json) |
 | Zodiac Fantasy 2 | 220142 | [220142-zodiac-fantasy-2.json](./220142-zodiac-fantasy-2.json) |
 | Zodiac Legion | 150077 | [150077-zodiac-legion.json](./150077-zodiac-legion.json) |
 | Zodiac Online | 93558 | [93558-zodiac-online.json](./93558-zodiac-online.json) |
