@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island - Ethereal | 58833 | [58833-the-island-ethereal.json](./58833-the-island-ethereal.json) |
 | The Island 2 | 274189 | [274189-the-island-2.json](./274189-the-island-2.json) |
 | The Island Castaway 2 | 89547 | [89547-the-island-castaway-2.json](./89547-the-island-castaway-2.json) |
+| The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
 | The Island Rescue | 236005 | [236005-the-island-rescue.json](./236005-the-island-rescue.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
 | The Isle | 25838 | [25838-the-isle.json](./25838-the-isle.json) |
@@ -2586,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Match Golf | 402918 | [402918-the-match-golf.json](./402918-the-match-golf.json) |
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
+| The Maze | 107158 | [107158-the-maze.json](./107158-the-maze.json) |
 | The Maze Contract | 276157 | [276157-the-maze-contract.json](./276157-the-maze-contract.json) |
 | The Maze Escaper | 150700 | [150700-the-maze-escaper.json](./150700-the-maze-escaper.json) |
 | The Maze Runner | 138159 | [138159-the-maze-runner.json](./138159-the-maze-runner.json) |
