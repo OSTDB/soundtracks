@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
+| F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
@@ -65,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fables of Talumos | 119007 | [119007-fables-of-talumos.json](./119007-fables-of-talumos.json) |
 | Fabulous Angela: New York to LA | 124171 | [124171-fabulous-angela-new-york-to-la.json](./124171-fabulous-angela-new-york-to-la.json) |
 | Face 2 Face | 299730 | [299730-face-2-face.json](./299730-face-2-face.json) |
+| Face-Off | 84180 | [84180-face-off.json](./84180-face-off.json) |
 | Faceball 2000 | 19701 | [19701-faceball-2000.json](./19701-faceball-2000.json) |
 | Faceball 2000 | 299462 | [299462-faceball-2000.json](./299462-faceball-2000.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
@@ -884,6 +886,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
 | Final Fantasy Anthology Collector's Package | 89874 | [89874-final-fantasy-anthology-collectors-package.json](./89874-final-fantasy-anthology-collectors-package.json) |
+| Final Fantasy for Android | 84188 | [84188-final-fantasy-for-android.json](./84188-final-fantasy-for-android.json) |
+| Final Fantasy Grandmasters | 84174 | [84174-final-fantasy-grandmasters.json](./84174-final-fantasy-grandmasters.json) |
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
 | Final Fantasy II | 145817 | [145817-final-fantasy-ii.json](./145817-final-fantasy-ii.json) |
 | Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
@@ -1488,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flirting with Yasmine | 238479 | [238479-flirting-with-yasmine.json](./238479-flirting-with-yasmine.json) |
 | Flixy Cats | 165034 | [165034-flixy-cats.json](./165034-flixy-cats.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
+| Floating Cloud God Saves the Pilgrims in HD! | 84154 | [84154-floating-cloud-god-saves-the-pilgrims-in-hd.json](./84154-floating-cloud-god-saves-the-pilgrims-in-hd.json) |
 | Floating Cloud God: Anniversary Edition | 225881 | [225881-floating-cloud-god-anniversary-edition.json](./225881-floating-cloud-god-anniversary-edition.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
 | Floating Life 2 | 216788 | [216788-floating-life-2.json](./216788-floating-life-2.json) |
@@ -2146,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
 | Free Dunk | 339087 | [339087-free-dunk.json](./339087-free-dunk.json) |
+| Free Enterprise | 84229 | [84229-free-enterprise.json](./84229-free-enterprise.json) |
 | Free Fall | 13716 | [13716-free-fall.json](./13716-free-fall.json) |
 | Free Fall | 267940 | [267940-free-fall.json](./267940-free-fall.json) |
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
@@ -2263,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friquiz | 135812 | [135812-friquiz.json](./135812-friquiz.json) |
 | Frisbee Fumbling | 322553 | [322553-frisbee-fumbling.json](./322553-frisbee-fumbling.json) |
 | Frisson | 288793 | [288793-frisson.json](./288793-frisson.json) |
+| Fritz & Chesster's Chess for Winners | 84182 | [84182-fritz-and-chessters-chess-for-winners.json](./84182-fritz-and-chessters-chess-for-winners.json) |
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
