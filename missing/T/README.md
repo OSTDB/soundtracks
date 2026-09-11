@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
 | The Airs | 144951 | [144951-the-airs.json](./144951-the-airs.json) |
+| The Airship Designer | 126606 | [126606-the-airship-designer.json](./126606-the-airship-designer.json) |
 | The Akuma Hunters: Exorsister | 45993 | [45993-the-akuma-hunters-exorsister.json](./45993-the-akuma-hunters-exorsister.json) |
 | The Alchemist | 306992 | [306992-the-alchemist.json](./306992-the-alchemist.json) |
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
@@ -1155,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
 | The Battles for Abunka | 210900 | [210900-the-battles-for-abunka.json](./210900-the-battles-for-abunka.json) |
 | The Battles of Napoleon | 54436 | [54436-the-battles-of-napoleon.json](./54436-the-battles-of-napoleon.json) |
+| The Battles of Spwak 3 | 126601 | [126601-the-battles-of-spwak-3.json](./126601-the-battles-of-spwak-3.json) |
 | The Baumman Box | 372452 | [372452-the-baumman-box.json](./372452-the-baumman-box.json) |
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
@@ -2550,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
 | The Monkey's Paw | 415911 | [415911-the-monkeys-paw.json](./415911-the-monkeys-paw.json) |
 | The Monster | 111019 | [111019-the-monster.json](./111019-the-monster.json) |
+| The Monster Breeder | 126558 | [126558-the-monster-breeder.json](./126558-the-monster-breeder.json) |
 | The Monster Within | 174346 | [174346-the-monster-within.json](./174346-the-monster-within.json) |
 | The Monstrous Horror Show | 213421 | [213421-the-monstrous-horror-show.json](./213421-the-monstrous-horror-show.json) |
 | The Moodsters: Memory Match Game | 326627 | [326627-the-moodsters-memory-match-game.json](./326627-the-moodsters-memory-match-game.json) |
@@ -5078,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
+| Toy Robot | 126582 | [126582-toy-robot.json](./126582-toy-robot.json) |
 | Toy Scrappers | 333549 | [333549-toy-scrappers.json](./333549-toy-scrappers.json) |
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Story | 220099 | [220099-toy-story.json](./220099-toy-story.json) |
