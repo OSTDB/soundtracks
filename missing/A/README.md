@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A different summer | 278426 | [278426-a-different-summer.json](./278426-a-different-summer.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
+| A Divided Light | 96766 | [96766-a-divided-light.json](./96766-a-divided-light.json) |
 | A Dog Called Buddy | 341469 | [341469-a-dog-called-buddy.json](./341469-a-dog-called-buddy.json) |
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
 | A Dual Ascent | 327839 | [327839-a-dual-ascent.json](./327839-a-dual-ascent.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter 2: New Era | 203883 | [203883-alien-shooter-2-new-era.json](./203883-alien-shooter-2-new-era.json) |
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
 | Alien Space Bastards | 188688 | [188688-alien-space-bastards.json](./188688-alien-space-bastards.json) |
+| Alien SpaceCraft | 96773 | [96773-alien-spacecraft.json](./96773-alien-spacecraft.json) |
 | Alien Swirl | 15594 | [15594-alien-swirl.json](./15594-alien-swirl.json) |
 | Alien Tower | 259543 | [259543-alien-tower.json](./259543-alien-tower.json) |
 | Alien Tribe 2 | 97309 | [97309-alien-tribe-2.json](./97309-alien-tribe-2.json) |
@@ -2587,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
 | Armor Command | 73843 | [73843-armor-command.json](./73843-armor-command.json) |
+| Armor Contest | 96667 | [96667-armor-contest.json](./96667-armor-contest.json) |
 | Armor Heroes | 196793 | [196793-armor-heroes.json](./196793-armor-heroes.json) |
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
 | Armor of Heroes | 140015 | [140015-armor-of-heroes.json](./140015-armor-of-heroes.json) |
@@ -2736,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendants: Power Rising | 52610 | [52610-ascendants-power-rising.json](./52610-ascendants-power-rising.json) |
 | Ascended Gods: Realm of Origins | 270104 | [270104-ascended-gods-realm-of-origins.json](./270104-ascended-gods-realm-of-origins.json) |
 | Ascended Realms | 137683 | [137683-ascended-realms.json](./137683-ascended-realms.json) |
+| Ascending Madness | 96706 | [96706-ascending-madness.json](./96706-ascending-madness.json) |
 | Ascending Pinball | 26684 | [26684-ascending-pinball.json](./26684-ascending-pinball.json) |
 | Ascending: Dojo | 170523 | [170523-ascending-dojo.json](./170523-ascending-dojo.json) |
 | Ascension: The Immortal Alchemist | 318973 | [318973-ascension-the-immortal-alchemist.json](./318973-ascension-the-immortal-alchemist.json) |
@@ -3094,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
 | Atom-X | 111755 | [111755-atom-x.json](./111755-atom-x.json) |
 | Atomaders | 94264 | [94264-atomaders.json](./94264-atomaders.json) |
+| Atomic Bomber | 96671 | [96671-atomic-bomber.json](./96671-atomic-bomber.json) |
 | Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
 | Atomic Heart: Enchantment Under the Sea | 325107 | [325107-atomic-heart-enchantment-under-the-sea.json](./325107-atomic-heart-enchantment-under-the-sea.json) |
