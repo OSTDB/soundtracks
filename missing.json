@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T08:49:30.879Z",
-  "total_missing": 57328,
+  "generated_at": "2026-09-11T08:51:04.225Z",
+  "total_missing": 57327,
   "games": [
     {
       "igdb_id": 306086,
@@ -2041,11 +2041,6 @@
       "igdb_id": 311503,
       "game_name": "A Gentlemen's Dispute",
       "file": "missing/A/311503-a-gentlemens-dispute.json"
-    },
-    {
-      "igdb_id": 59423,
-      "game_name": "A Good Gardener",
-      "file": "missing/A/59423-a-good-gardener.json"
     },
     {
       "igdb_id": 106621,
