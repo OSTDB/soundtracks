@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciconia When They Cry: Phase 2 | 273097 | [273097-ciconia-when-they-cry-phase-2.json](./273097-ciconia-when-they-cry-phase-2.json) |
 | Cidadão de SP Simulator | 317576 | [317576-cidadao-de-sp-simulator.json](./317576-cidadao-de-sp-simulator.json) |
 | Ciel Nosurge | 24929 | [24929-ciel-nosurge.json](./24929-ciel-nosurge.json) |
+| Ciel Nosurge: Ushinawareta Hoshi e Sasagu Shi Agent Pack | 89869 | [89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json](./89869-ciel-nosurge-ushinawareta-hoshi-e-sasagu-shi-agent-pack.json) |
 | Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta DX | 139995 | [139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json](./139995-ciel-nosurge-ushinawareta-hoshi-e-sasagu-uta-dx.json) |
 | Cielle Is Not Happy | 402277 | [402277-cielle-is-not-happy.json](./402277-cielle-is-not-happy.json) |
 | Cielo | 181292 | [181292-cielo.json](./181292-cielo.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
 | Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
+| Corpse Party: Back to School Edition - Limited Edition | 89891 | [89891-corpse-party-back-to-school-edition-limited-edition.json](./89891-corpse-party-back-to-school-edition-limited-edition.json) |
 | Corpse Party: Cross Fear | 135889 | [135889-corpse-party-cross-fear.json](./135889-corpse-party-cross-fear.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
