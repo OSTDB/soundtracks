@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:31:06.347Z",
+  "generated_at": "2026-09-11T17:41:37.233Z",
   "total_missing": 58761,
   "games": [
     {
@@ -2321,16 +2321,6 @@
       "igdb_id": 271725,
       "game_name": "A Once Glorious City",
       "file": "missing/A/271725-a-once-glorious-city.json"
-    },
-    {
-      "igdb_id": 209704,
-      "game_name": "A Pact With Me",
-      "file": "missing/A/209704-a-pact-with-me.json"
-    },
-    {
-      "igdb_id": 323741,
-      "game_name": "A Paper Mario Puzzle Game",
-      "file": "missing/A/323741-a-paper-mario-puzzle-game.json"
     },
     {
       "igdb_id": 232425,
@@ -260578,6 +260568,11 @@
       "file": "missing/T/334667-tiebreak.json"
     },
     {
+      "igdb_id": 93017,
+      "game_name": "Tiebreaker",
+      "file": "missing/T/93017-tiebreaker.json"
+    },
+    {
       "igdb_id": 386153,
       "game_name": "Tied By Numbers",
       "file": "missing/T/386153-tied-by-numbers.json"
@@ -280711,6 +280706,11 @@
       "igdb_id": 133376,
       "game_name": "War Islands",
       "file": "missing/W/133376-war-islands.json"
+    },
+    {
+      "igdb_id": 93015,
+      "game_name": "War Machine",
+      "file": "missing/W/93015-war-machine.json"
     },
     {
       "igdb_id": 253389,
