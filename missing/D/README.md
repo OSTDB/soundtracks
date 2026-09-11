@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
 | Day D: Through Time - Collector's Edition | 355556 | [355556-day-d-through-time-collectors-edition.json](./355556-day-d-through-time-collectors-edition.json) |
 | Day of Defeat | 7551 | [7551-day-of-defeat.json](./7551-day-of-defeat.json) |
+| Day of Destruction | 81328 | [81328-day-of-destruction.json](./81328-day-of-destruction.json) |
 | Day of Light | 383383 | [383383-day-of-light.json](./383383-day-of-light.json) |
 | Day of Red Letter | 253031 | [253031-day-of-red-letter.json](./253031-day-of-red-letter.json) |
 | Day of the dead | 243675 | [243675-day-of-the-dead.json](./243675-day-of-the-dead.json) |
@@ -1995,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
 | Do-Konjou Shougakusei: Bon Bita - Hadaka no Choujou Ketsusen!! Bita vs. Dokuro Dei! | 269574 | [269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json](./269574-do-konjou-shougakusei-bon-bita-hadaka-no-choujou-ketsusen-bita-vs-dokuro-dei.json) |
+| Doala de Wii | 81237 | [81237-doala-de-wii.json](./81237-doala-de-wii.json) |
 | Doblons.io | 126023 | [126023-doblons-io.json](./126023-doblons-io.json) |
 | Dobo's Heroes | 147420 | [147420-dobos-heroes.json](./147420-dobos-heroes.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
@@ -2181,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
 | Dominus Galaxia | 124744 | [124744-dominus-galaxia.json](./124744-dominus-galaxia.json) |
 | Dominus Rage | 199615 | [199615-dominus-rage.json](./199615-dominus-rage.json) |
+| Domiverse | 81246 | [81246-domiverse.json](./81246-domiverse.json) |
 | DommeGer's Plane | 215373 | [215373-dommegers-plane.json](./215373-dommegers-plane.json) |
 | Domo Jump | 63307 | [63307-domo-jump.json](./63307-domo-jump.json) |
 | Domo-kun no Card-e: Domo-kun no Fushigi Terebi - Meisou Domo | 220851 | [220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json](./220851-domo-kun-no-card-e-domo-kun-no-fushigi-terebi-meisou-domo.json) |
