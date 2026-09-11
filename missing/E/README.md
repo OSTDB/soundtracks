@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eros Fantasy | 199606 | [199606-eros-fantasy.json](./199606-eros-fantasy.json) |
 | Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
+| Erotic Jigsaw Challenge Vol 2 | 106541 | [106541-erotic-jigsaw-challenge-vol-2.json](./106541-erotic-jigsaw-challenge-vol-2.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
 | Erovoice! Sexy Voices Lead to a Successful Love Life | 204498 | [204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json](./204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json) |
