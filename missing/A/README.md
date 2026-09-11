@@ -25,7 +25,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
-| A Dark Room | 255977 | [255977-a-dark-room.json](./255977-a-dark-room.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
 | A Day At the Track | 243399 | [243399-a-day-at-the-track.json](./243399-a-day-at-the-track.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
