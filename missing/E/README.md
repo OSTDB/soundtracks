@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encode | 159861 | [159861-encode.json](./159861-encode.json) |
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
 | Encore | 403601 | [403601-encore.json](./403601-encore.json) |
+| EnCore | 94678 | [94678-encore.json](./94678-encore.json) |
 | Encore! | 380428 | [380428-encore.json](./380428-encore.json) |
 | Encounter | 81445 | [81445-encounter.json](./81445-encounter.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
@@ -1137,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
 | Eureka | 322573 | [322573-eureka.json](./322573-eureka.json) |
 | Eureka Seven Vol.1: The New Wave | 19641 | [19641-eureka-seven-vol-1-the-new-wave.json](./19641-eureka-seven-vol-1-the-new-wave.json) |
+| Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
 | Euro Truck Life & Logistics Simulators | 221709 | [221709-euro-truck-life-and-logistics-simulators.json](./221709-euro-truck-life-and-logistics-simulators.json) |
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
@@ -1283,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
 | Evil Maze 2 | 111637 | [111637-evil-maze-2.json](./111637-evil-maze-2.json) |
+| Evil Night | 94718 | [94718-evil-night.json](./94718-evil-night.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
