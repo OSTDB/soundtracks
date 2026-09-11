@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
 | Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
 | Warplanes: WW1 Sky Aces | 123569 | [123569-warplanes-ww1-sky-aces.json](./123569-warplanes-ww1-sky-aces.json) |
+| Warplanes: WW2 Dogfight | 112929 | [112929-warplanes-ww2-dogfight.json](./112929-warplanes-ww2-dogfight.json) |
 | WarPods | 107865 | [107865-warpods.json](./107865-warpods.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
