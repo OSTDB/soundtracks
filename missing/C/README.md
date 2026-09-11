@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
+| Caveman HD | 102744 | [102744-caveman-hd.json](./102744-caveman-hd.json) |
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess: Clash of Kings | 187475 | [187475-chess-clash-of-kings.json](./187475-chess-clash-of-kings.json) |
 | Chess: Secrets of the Grandmasters | 206967 | [206967-chess-secrets-of-the-grandmasters.json](./206967-chess-secrets-of-the-grandmasters.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
+| Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chesskoban Bishop | 189106 | [189106-chesskoban-bishop.json](./189106-chesskoban-bishop.json) |
 | Chesskoban Cyber | 195144 | [195144-chesskoban-cyber.json](./195144-chesskoban-cyber.json) |
@@ -1446,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
 | Christmas Fables: Nutcracker's Tale - Collector's Edition | 382194 | [382194-christmas-fables-nutcrackers-tale-collectors-edition.json](./382194-christmas-fables-nutcrackers-tale-collectors-edition.json) |
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
+| Christmas Hidden Objects | 102729 | [102729-christmas-hidden-objects.json](./102729-christmas-hidden-objects.json) |
 | Christmas Horror Land | 336538 | [336538-christmas-horror-land.json](./336538-christmas-horror-land.json) |
 | Christmas Jigsaw Puzzle Pango | 108458 | [108458-christmas-jigsaw-puzzle-pango.json](./108458-christmas-jigsaw-puzzle-pango.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
@@ -1473,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christminster | 60021 | [60021-christminster.json](./60021-christminster.json) |
 | Chroam | 349858 | [349858-chroam.json](./349858-chroam.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
+| Chroma Match | 102822 | [102822-chroma-match.json](./102822-chroma-match.json) |
 | Chroma Quaternion: Experience & RP x2 | 171029 | [171029-chroma-quaternion-experience-and-rp-x2.json](./171029-chroma-quaternion-experience-and-rp-x2.json) |
 | Chroma Quaternion: Experience x3 | 171030 | [171030-chroma-quaternion-experience-x3.json](./171030-chroma-quaternion-experience-x3.json) |
 | Chroma Zero | 319356 | [319356-chroma-zero.json](./319356-chroma-zero.json) |
