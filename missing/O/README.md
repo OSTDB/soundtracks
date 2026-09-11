@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsession | 184056 | [184056-obsession.json](./184056-obsession.json) |
 | Obsessive Love Adventure Utsuro's Diary | 151680 | [151680-obsessive-love-adventure-utsuros-diary.json](./151680-obsessive-love-adventure-utsuros-diary.json) |
 | Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
+| Obsidian Crown | 124164 | [124164-obsidian-crown.json](./124164-obsidian-crown.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
@@ -902,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello 3D | 222309 | [222309-othello-3d.json](./222309-othello-3d.json) |
 | Othello de Othello DS | 131567 | [131567-othello-de-othello-ds.json](./131567-othello-de-othello-ds.json) |
 | Other Minds | 183051 | [183051-other-minds.json](./183051-other-minds.json) |
+| Other Submarine | 124143 | [124143-other-submarine.json](./124143-other-submarine.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
 | Otherside | 209129 | [209129-otherside.json](./209129-otherside.json) |
 | OtherSide | 179157 | [179157-otherside.json](./179157-otherside.json) |
