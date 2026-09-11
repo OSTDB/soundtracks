@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
+| Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
 | Harbinger | 51230 | [51230-harbinger.json](./51230-harbinger.json) |
@@ -1136,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexa's Gone | 393499 | [393499-hexas-gone.json](./393499-hexas-gone.json) |
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
+| HexaCycle | 115643 | [115643-hexacycle.json](./115643-hexacycle.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
 | Hexagon Hamlet | 183529 | [183529-hexagon-hamlet.json](./183529-hexagon-hamlet.json) |
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
