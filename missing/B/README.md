@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallRoll | 189184 | [189184-ballroll.json](./189184-ballroll.json) |
 | Balls 'n Ropes | 233507 | [233507-balls-n-ropes.json](./233507-balls-n-ropes.json) |
 | Balls and Dungeons | 189127 | [189127-balls-and-dungeons.json](./189127-balls-and-dungeons.json) |
+| Balls and Magnets | 83538 | [83538-balls-and-magnets.json](./83538-balls-and-magnets.json) |
 | Balls Bombs | 300733 | [300733-balls-bombs.json](./300733-balls-bombs.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Steel Community Project | 229708 | [229708-balls-of-steel-community-project.json](./229708-balls-of-steel-community-project.json) |
@@ -1415,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Farm Story: Pet Paradise Pack | 225068 | [225068-big-farm-story-pet-paradise-pack.json](./225068-big-farm-story-pet-paradise-pack.json) |
 | Big Farm Story: Shiver Night Pack | 225066 | [225066-big-farm-story-shiver-night-pack.json](./225066-big-farm-story-shiver-night-pack.json) |
 | Big Fat Battle | 244771 | [244771-big-fat-battle.json](./244771-big-fat-battle.json) |
+| Big Fat Neighbor | 83532 | [83532-big-fat-neighbor.json](./83532-big-fat-neighbor.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Game Trophy Hunter | 94208 | [94208-big-game-trophy-hunter.json](./94208-big-game-trophy-hunter.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
@@ -2028,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
 | Blocks Stacking | 153352 | [153352-blocks-stacking.json](./153352-blocks-stacking.json) |
 | Blocks! | 295521 | [295521-blocks.json](./295521-blocks.json) |
+| Blockshock | 83482 | [83482-blockshock.json](./83482-blockshock.json) |
 | BlockStarPlanet | 55168 | [55168-blockstarplanet.json](./55168-blockstarplanet.json) |
 | Blockstory | 137030 | [137030-blockstory.json](./137030-blockstory.json) |
 | Blocksworld | 68685 | [68685-blocksworld.json](./68685-blocksworld.json) |
@@ -2930,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Constructor: Playground | 17098 | [17098-bridge-constructor-playground.json](./17098-bridge-constructor-playground.json) |
 | Bridge Constructor: Ultimate Edition | 129195 | [129195-bridge-constructor-ultimate-edition.json](./129195-bridge-constructor-ultimate-edition.json) |
 | Bridge Creator 2015 | 35857 | [35857-bridge-creator-2015.json](./35857-bridge-creator-2015.json) |
+| Bridge for Windows | 83475 | [83475-bridge-for-windows.json](./83475-bridge-for-windows.json) |
 | Bridge hand Composer | 87317 | [87317-bridge-hand-composer.json](./87317-bridge-hand-composer.json) |
 | Bridge Hunter | 260167 | [260167-bridge-hunter.json](./260167-bridge-hunter.json) |
 | Bridge Master | 94682 | [94682-bridge-master.json](./94682-bridge-master.json) |
@@ -2944,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Briganty: The Roots of Darkness | 73820 | [73820-briganty-the-roots-of-darkness.json](./73820-briganty-the-roots-of-darkness.json) |
+| Bright Bob | 83523 | [83523-bright-bob.json](./83523-bright-bob.json) |
 | Bright Lancer | 141881 | [141881-bright-lancer.json](./141881-bright-lancer.json) |
 | Bright Memory: Infinite - Platinum Edition | 212286 | [212286-bright-memory-infinite-platinum-edition.json](./212286-bright-memory-infinite-platinum-edition.json) |
 | Bright Oak | 277016 | [277016-bright-oak.json](./277016-bright-oak.json) |
