@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
 | 1912 Titanic w/ Neptunia | 205802 | [205802-1912-titanic-w-neptunia.json](./205802-1912-titanic-w-neptunia.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
+| 1942: The Henan Famine | 124213 | [124213-1942-the-henan-famine.json](./124213-1942-the-henan-famine.json) |
 | 1943: The Battle of Midway | 6076 | [6076-1943-the-battle-of-midway.json](./6076-1943-the-battle-of-midway.json) |
 | 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
@@ -294,6 +295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
 | 46 Okunen Monogatari: The Shinka Ron | 26675 | [26675-46-okunen-monogatari-the-shinka-ron.json](./26675-46-okunen-monogatari-the-shinka-ron.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
+| 4Islands | 124190 | [124190-4islands.json](./124190-4islands.json) |
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
 | 4x4 Mania | 139436 | [139436-4x4-mania.json](./139436-4x4-mania.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
