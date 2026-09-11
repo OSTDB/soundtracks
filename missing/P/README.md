@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
 | Pipeline VR | 173253 | [173253-pipeline-vr.json](./173253-pipeline-vr.json) |
 | Pipelurker | 314297 | [314297-pipelurker.json](./314297-pipelurker.json) |
+| PipeMan | 80538 | [80538-pipeman.json](./80538-pipeman.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
@@ -1908,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo-Rocket | 154030 | [154030-pogo-rocket.json](./154030-pogo-rocket.json) |
 | Pogo3D | 259015 | [259015-pogo3d.json](./259015-pogo3d.json) |
 | Pogoduck | 243965 | [243965-pogoduck.json](./243965-pogoduck.json) |
+| Pogoman GO! | 80514 | [80514-pogoman-go.json](./80514-pogoman-go.json) |
 | Poibos Part 1: Dasshutsu | 298547 | [298547-poibos-part-1-dasshutsu.json](./298547-poibos-part-1-dasshutsu.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
@@ -2733,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Lumberjack 2016 | 84807 | [84807-professional-lumberjack-2016.json](./84807-professional-lumberjack-2016.json) |
 | Professional Mahjong Gokuu | 41394 | [41394-professional-mahjong-gokuu.json](./41394-professional-mahjong-gokuu.json) |
 | Professional Mahjong Kiwame | 97871 | [97871-professional-mahjong-kiwame.json](./97871-professional-mahjong-kiwame.json) |
+| Professional Ski Simulator | 80530 | [80530-professional-ski-simulator.json](./80530-professional-ski-simulator.json) |
 | Professional Soldier | 153928 | [153928-professional-soldier.json](./153928-professional-soldier.json) |
 | Professor Bubbles | 280790 | [280790-professor-bubbles.json](./280790-professor-bubbles.json) |
 | Professor Chuckenhope | 109682 | [109682-professor-chuckenhope.json](./109682-professor-chuckenhope.json) |
