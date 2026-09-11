@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | PolyPine | 278973 | [278973-polypine.json](./278973-polypine.json) |
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
+| Polyrun | 120960 | [120960-polyrun.json](./120960-polyrun.json) |
 | Polyslime | 173230 | [173230-polyslime.json](./173230-polyslime.json) |
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
 | Polytone | 174831 | [174831-polytone.json](./174831-polytone.json) |
