@@ -100,7 +100,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
 | A Story About Birds | 320523 | [320523-a-story-about-birds.json](./320523-a-story-about-birds.json) |
-| A Story of Questions | 348271 | [348271-a-story-of-questions.json](./348271-a-story-of-questions.json) |
 | A Story of Us: Ep. 1 - First Memories | 115043 | [115043-a-story-of-us-ep-1-first-memories.json](./115043-a-story-of-us-ep-1-first-memories.json) |
 | A Stray Line | 388733 | [388733-a-stray-line.json](./388733-a-stray-line.json) |
 | A Summer in Our Hearts | 338171 | [338171-a-summer-in-our-hearts.json](./338171-a-summer-in-our-hearts.json) |
