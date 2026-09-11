@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
 | After-H: Moon of the Dead | 362257 | [362257-after-h-moon-of-the-dead.json](./362257-after-h-moon-of-the-dead.json) |
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
+| After-school Maihime Club: Girl's Holiday | 97940 | [97940-after-school-maihime-club-girls-holiday.json](./97940-after-school-maihime-club-girls-holiday.json) |
 | Afterblast | 164434 | [164434-afterblast.json](./164434-afterblast.json) |
 | Afterblast | 357792 | [357792-afterblast.json](./357792-afterblast.json) |
 | Afterbright | 357794 | [357794-afterbright.json](./357794-afterbright.json) |
@@ -833,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
+| Age of Gladiators II: Death League | 97851 | [97851-age-of-gladiators-ii-death-league.json](./97851-age-of-gladiators-ii-death-league.json) |
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
 | Age of Mythology: Retold - Immortal Pillars | 317873 | [317873-age-of-mythology-retold-immortal-pillars.json](./317873-age-of-mythology-retold-immortal-pillars.json) |
@@ -1680,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
 | Ancient Conquest: The Golden Fleece | 7713 | [7713-ancient-conquest-the-golden-fleece.json](./7713-ancient-conquest-the-golden-fleece.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
+| Ancient Erotic Monster in the Labyrinth | 97833 | [97833-ancient-erotic-monster-in-the-labyrinth.json](./97833-ancient-erotic-monster-in-the-labyrinth.json) |
 | Ancient Evil | 170504 | [170504-ancient-evil.json](./170504-ancient-evil.json) |
 | Ancient Evil | 217854 | [217854-ancient-evil.json](./217854-ancient-evil.json) |
 | Ancient Farm | 226223 | [226223-ancient-farm.json](./226223-ancient-farm.json) |
