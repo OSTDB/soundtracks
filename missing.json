@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:19:25.087Z",
-  "total_missing": 57543,
+  "generated_at": "2026-09-11T10:21:01.588Z",
+  "total_missing": 57542,
   "games": [
     {
       "igdb_id": 306086,
@@ -2086,11 +2086,6 @@
       "igdb_id": 198561,
       "game_name": "A Housewife's Healing Touch",
       "file": "missing/A/198561-a-housewifes-healing-touch.json"
-    },
-    {
-      "igdb_id": 299469,
-      "game_name": "A Jornada",
-      "file": "missing/A/299469-a-jornada.json"
     },
     {
       "igdb_id": 165677,
