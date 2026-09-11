@@ -193,8 +193,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Fast 4 Gnomz | 8618 | [8618-2-fast-4-gnomz.json](./8618-2-fast-4-gnomz.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
+| 2 Games in 1 Double Pack: Power Rangers Ninja Storm + Power Rangers Time Force | 86044 | [86044-2-games-in-1-double-pack-power-rangers-ninja-storm-power-rangers-time-force.json](./86044-2-games-in-1-double-pack-power-rangers-ninja-storm-power-rangers-time-force.json) |
 | 2 Games in 1 Double Pack: Scooby-Doo and the Cyber Chase + Scooby-Doo! Mystery Mayhem | 84265 | [84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json](./84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json) |
 | 2 Games in 1 I Finding Nemo + Finding Nemo: The Continuing Adventures | 130301 | [130301-2-games-in-1-i-finding-nemo-finding-nemo-the-continuing-adventures.json](./130301-2-games-in-1-i-finding-nemo-finding-nemo-the-continuing-adventures.json) |
+| 2 Games in 1: Columns Crown + ChuChu Rocket! | 86052 | [86052-2-games-in-1-columns-crown-chuchu-rocket.json](./86052-2-games-in-1-columns-crown-chuchu-rocket.json) |
+| 2 Games in 1: Disney Princess + Disney's The Lion King | 86045 | [86045-2-games-in-1-disney-princess-disneys-the-lion-king.json](./86045-2-games-in-1-disney-princess-disneys-the-lion-king.json) |
+| 2 Games in 1: Sonic Advance + ChuChu Rocket! | 86053 | [86053-2-games-in-1-sonic-advance-chuchu-rocket.json](./86053-2-games-in-1-sonic-advance-chuchu-rocket.json) |
+| 2 Games In 1: The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy | 86055 | [86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json](./86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json) |
 | 2 Games in One Double Pack \| Dora the Explorer: Pirate Pig's Treasure & Dora the Explorer: Super Star Adventures | 91427 | [91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json](./91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json) |
 | 2 in 1: Monumental Bundle | 208044 | [208044-2-in-1-monumental-bundle.json](./208044-2-in-1-monumental-bundle.json) |
 | 2 in 1: V-Rally 3 + Stuntman | 84266 | [84266-2-in-1-v-rally-3-stuntman.json](./84266-2-in-1-v-rally-3-stuntman.json) |
@@ -204,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
 | 2-Finger Heroes | 66692 | [66692-2-finger-heroes.json](./66692-2-finger-heroes.json) |
+| 2-in-1 Fun Pack I Dreamworks Madagascar: Operation Penguin + Shrek 2 | 86054 | [86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json](./86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
 | 20 All-Time Favorites | 91382 | [91382-20-all-time-favorites.json](./91382-20-all-time-favorites.json) |
 | 20 Challenges: Episode 2 - Witchcraft | 339249 | [339249-20-challenges-episode-2-witchcraft.json](./339249-20-challenges-episode-2-witchcraft.json) |
@@ -254,9 +260,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 BigEggs | 99572 | [99572-3-bigeggs.json](./99572-3-bigeggs.json) |
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Days to Live | 379898 | [379898-3-days-to-live.json](./379898-3-days-to-live.json) |
+| 3 In Three | 86059 | [86059-3-in-three.json](./86059-3-in-three.json) |
 | 3 Little Pigs & Bad Wolf | 124267 | [124267-3-little-pigs-and-bad-wolf.json](./124267-3-little-pigs-and-bad-wolf.json) |
 | 3 Missing, 4am | 128589 | [128589-3-missing-4am.json](./128589-3-missing-4am.json) |
 | 3 Ninjas Kick Back | 5337 | [5337-3-ninjas-kick-back.json](./5337-3-ninjas-kick-back.json) |
+| 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
 | 3 Seasons | 221208 | [221208-3-seasons.json](./221208-3-seasons.json) |
 | 3 Tiles: Tile Matching Games | 331356 | [331356-3-tiles-tile-matching-games.json](./331356-3-tiles-tile-matching-games.json) |
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
@@ -314,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-4-2 Soccer | 45317 | [45317-4-4-2-soccer.json](./45317-4-4-2-soccer.json) |
 | 4-Block Dungeon | 122347 | [122347-4-block-dungeon.json](./122347-4-block-dungeon.json) |
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
+| 4-Play Action Pack (Volume 1) | 86046 | [86046-4-play-action-pack-volume-1.json](./86046-4-play-action-pack-volume-1.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
@@ -337,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5200 Menu | 93539 | [93539-5200-menu.json](./93539-5200-menu.json) |
 | 5G VR Football | 191163 | [191163-5g-vr-football.json](./191163-5g-vr-football.json) |
 | 6-in-1 IQ Scale Bundle: Lost Starships | 166212 | [166212-6-in-1-iq-scale-bundle-lost-starships.json](./166212-6-in-1-iq-scale-bundle-lost-starships.json) |
+| 6-Pak | 86067 | [86067-6-pak.json](./86067-6-pak.json) |
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
 | 64 Oozumou | 3433 | [3433-64-oozumou.json](./3433-64-oozumou.json) |
@@ -394,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
 | 9th Sentinel Sisters | 266819 | [266819-9th-sentinel-sisters.json](./266819-9th-sentinel-sisters.json) |
 | Ａ Class | 245879 | [245879-a-class.json](./245879-a-class.json) |
+| Àishén Cānguǎn Max | 86058 | [86058-aishen-canguan-max.json](./86058-aishen-canguan-max.json) |
 | Ājīn | 116291 | [116291-ajin.json](./116291-ajin.json) |
 | Álom | 229689 | [229689-alom.json](./229689-alom.json) |
 | Ānquán Jiàoyù | 102177 | [102177-anquan-jiaoyu.json](./102177-anquan-jiaoyu.json) |
