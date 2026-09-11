@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
+| Harambe Kong | 82032 | [82032-harambe-kong.json](./82032-harambe-kong.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
 | Harbinger | 51230 | [51230-harbinger.json](./51230-harbinger.json) |
@@ -1311,6 +1312,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Angels and Fairies | 98402 | [98402-hidden-object-angels-and-fairies.json](./98402-hidden-object-angels-and-fairies.json) |
 | Hidden Object: Animal Royalties | 98399 | [98399-hidden-object-animal-royalties.json](./98399-hidden-object-animal-royalties.json) |
 | Hidden Object: Animal Seasons | 98400 | [98400-hidden-object-animal-seasons.json](./98400-hidden-object-animal-seasons.json) |
+| Hidden Object: Cat Tailz | 82164 | [82164-hidden-object-cat-tailz.json](./82164-hidden-object-cat-tailz.json) |
+| Hidden Object: Christmas Tree | 82163 | [82163-hidden-object-christmas-tree.json](./82163-hidden-object-christmas-tree.json) |
 | Hidden Object: Classic Fables | 98391 | [98391-hidden-object-classic-fables.json](./98391-hidden-object-classic-fables.json) |
 | Hidden Object: Coyote the Outlander | 96007 | [96007-hidden-object-coyote-the-outlander.json](./96007-hidden-object-coyote-the-outlander.json) |
 | Hidden Object: Crazy Hearts | 98390 | [98390-hidden-object-crazy-hearts.json](./98390-hidden-object-crazy-hearts.json) |
@@ -1325,10 +1328,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Golden Trails - Secret of the Princess | 240197 | [240197-hidden-object-golden-trails-secret-of-the-princess.json](./240197-hidden-object-golden-trails-secret-of-the-princess.json) |
 | Hidden Object: Hunter Secrets of Aztec and Mayan Tribes | 233248 | [233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json](./233248-hidden-object-hunter-secrets-of-aztec-and-mayan-tribes.json) |
 | Hidden Object: Hunters for the Secret | 208008 | [208008-hidden-object-hunters-for-the-secret.json](./208008-hidden-object-hunters-for-the-secret.json) |
+| Hidden Object: Land of Dreams | 82162 | [82162-hidden-object-land-of-dreams.json](./82162-hidden-object-land-of-dreams.json) |
 | Hidden Object: Missing Violin - Amazing Adventures | 200198 | [200198-hidden-object-missing-violin-amazing-adventures.json](./200198-hidden-object-missing-violin-amazing-adventures.json) |
 | Hidden Object: Missing Violins! - Premium | 213644 | [213644-hidden-object-missing-violins-premium.json](./213644-hidden-object-missing-violins-premium.json) |
 | Hidden Object: My Best Memories | 98394 | [98394-hidden-object-my-best-memories.json](./98394-hidden-object-my-best-memories.json) |
 | Hidden Object: Mystery of Mysteries of the Aztecs | 242570 | [242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json](./242570-hidden-object-mystery-of-mysteries-of-the-aztecs.json) |
+| Hidden Object: Mystery of the Haunted Mansion | 82161 | [82161-hidden-object-mystery-of-the-haunted-mansion.json](./82161-hidden-object-mystery-of-the-haunted-mansion.json) |
 | Hidden Object: Princess Cinderella | 98389 | [98389-hidden-object-princess-cinderella.json](./98389-hidden-object-princess-cinderella.json) |
 | Hidden Object: The Birds from Aviary | 98395 | [98395-hidden-object-the-birds-from-aviary.json](./98395-hidden-object-the-birds-from-aviary.json) |
 | Hidden Object: Travel to Future - Ancient Portals | 261529 | [261529-hidden-object-travel-to-future-ancient-portals.json](./261529-hidden-object-travel-to-future-ancient-portals.json) |
