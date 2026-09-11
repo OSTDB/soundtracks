@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrine Raider | 377052 | [377052-shrine-raider.json](./377052-shrine-raider.json) |
 | Shrine: Circus Tycoon | 206970 | [206970-shrine-circus-tycoon.json](./206970-shrine-circus-tycoon.json) |
 | Shrines of Power | 278682 | [278682-shrines-of-power.json](./278682-shrines-of-power.json) |
+| Shrines of Sacred Essenсe | 110991 | [110991-shrines-of-sacred-essen-e.json](./110991-shrines-of-sacred-essen-e.json) |
 | Shrinking Pains | 99624 | [99624-shrinking-pains.json](./99624-shrinking-pains.json) |
 | Shrinking Professor | 262094 | [262094-shrinking-professor.json](./262094-shrinking-professor.json) |
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
@@ -2302,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Dancer: Free Falling | 87498 | [87498-sky-dancer-free-falling.json](./87498-sky-dancer-free-falling.json) |
 | Sky Dancers: They Magically Fly! | 49401 | [49401-sky-dancers-they-magically-fly.json](./49401-sky-dancers-they-magically-fly.json) |
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
+| Sky Flight | 110968 | [110968-sky-flight.json](./110968-sky-flight.json) |
 | Sky Fortress: Odyssey | 277033 | [277033-sky-fortress-odyssey.json](./277033-sky-fortress-odyssey.json) |
 | Sky Fury | 274469 | [274469-sky-fury.json](./274469-sky-fury.json) |
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
@@ -4074,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiny & Chilly | 355034 | [355034-spiny-and-chilly.json](./355034-spiny-and-chilly.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
+| Spiral Clicker | 110994 | [110994-spiral-clicker.json](./110994-spiral-clicker.json) |
 | Spiral House | 178015 | [178015-spiral-house.json](./178015-spiral-house.json) |
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
@@ -6223,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Trucks Racing | 43352 | [43352-super-trucks-racing.json](./43352-super-trucks-racing.json) |
 | Super Trux | 74431 | [74431-super-trux.json](./74431-super-trux.json) |
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
+| Super Turbo Sudoku | 110960 | [110960-super-turbo-sudoku.json](./110960-super-turbo-sudoku.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
 | Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
