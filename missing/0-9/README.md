@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Earth Chronicles 4 | 87252 | [87252-1001-jigsaw-earth-chronicles-4.json](./87252-1001-jigsaw-earth-chronicles-4.json) |
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
 | 1001 Jigsaw: Legends of Mystery 4 | 200701 | [200701-1001-jigsaw-legends-of-mystery-4.json](./200701-1001-jigsaw-legends-of-mystery-4.json) |
+| 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
 | 1001-Kai-me no Aoi Tsuki | 98429 | [98429-1001-kai-me-no-aoi-tsuki.json](./98429-1001-kai-me-no-aoi-tsuki.json) |
 | 101 Cats in Hanoi | 400875 | [400875-101-cats-in-hanoi.json](./400875-101-cats-in-hanoi.json) |
 | 101 Cats in Madrid | 326082 | [326082-101-cats-in-madrid.json](./326082-101-cats-in-madrid.json) |
