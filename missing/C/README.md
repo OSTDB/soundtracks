@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Kid II | 48101 | [48101-casino-kid-ii.json](./48101-casino-kid-ii.json) |
 | Casino Pokies-CPC | 360590 | [360590-casino-pokies-cpc.json](./360590-casino-pokies-cpc.json) |
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
+| CasinoRPG | 82057 | [82057-casinorpg.json](./82057-casinorpg.json) |
 | Cassette Boy | 248898 | [248898-cassette-boy.json](./248898-cassette-boy.json) |
 | Cassidy | 145032 | [145032-cassidy.json](./145032-cassidy.json) |
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavalry Battle 3000 | 353896 | [353896-cavalry-battle-3000.json](./353896-cavalry-battle-3000.json) |
 | Cave | 141816 | [141816-cave.json](./141816-cave.json) |
 | Cave Bowling | 87262 | [87262-cave-bowling.json](./87262-cave-bowling.json) |
+| Cave Brawlers | 82034 | [82034-cave-brawlers.json](./82034-cave-brawlers.json) |
 | Cave Chaos | 250612 | [250612-cave-chaos.json](./250612-cave-chaos.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Cave Crusade | 343244 | [343244-cave-crusade.json](./343244-cave-crusade.json) |
@@ -1779,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarence Goes to the F%ing Store | 166700 | [166700-clarence-goes-to-the-f-ing-store.json](./166700-clarence-goes-to-the-f-ing-store.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
+| Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
