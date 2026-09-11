@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend Creatures 2 | 257382 | [257382-legend-creatures-2.json](./257382-legend-creatures-2.json) |
 | Legend of Ahssûn | 127941 | [127941-legend-of-ahssun.json](./127941-legend-of-ahssun.json) |
 | Legend of Aladdin | 70969 | [70969-legend-of-aladdin.json](./70969-legend-of-aladdin.json) |
+| Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
 | Legend of Dungeon: Masters | 34394 | [34394-legend-of-dungeon-masters.json](./34394-legend-of-dungeon-masters.json) |
@@ -1556,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
 | Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
+| Lot'zAmonsters | 107825 | [107825-lotzamonsters.json](./107825-lotzamonsters.json) |
 | Lotan | 185143 | [185143-lotan.json](./185143-lotan.json) |
 | Lotion Samurai | 161400 | [161400-lotion-samurai.json](./161400-lotion-samurai.json) |
 | Lotion Samurai for Nintendo Switch | 249785 | [249785-lotion-samurai-for-nintendo-switch.json](./249785-lotion-samurai-for-nintendo-switch.json) |
