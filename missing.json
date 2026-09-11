@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T04:33:38.845Z",
-  "total_missing": 56588,
+  "generated_at": "2026-09-11T04:41:04.528Z",
+  "total_missing": 56587,
   "games": [
     {
       "igdb_id": 306086,
@@ -1916,11 +1916,6 @@
       "igdb_id": 235974,
       "game_name": "A Desert Christmas Story",
       "file": "missing/A/235974-a-desert-christmas-story.json"
-    },
-    {
-      "igdb_id": 280226,
-      "game_name": "A Desert Dusk",
-      "file": "missing/A/280226-a-desert-dusk.json"
     },
     {
       "igdb_id": 217850,
