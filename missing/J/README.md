@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jar | 340768 | [340768-jar.json](./340768-jar.json) |
 | Jarinko Chie | 346029 | [346029-jarinko-chie.json](./346029-jarinko-chie.json) |
 | Jarpug | 259012 | [259012-jarpug.json](./259012-jarpug.json) |
+| Jarrett & Labonte Stock Car Racing | 80496 | [80496-jarrett-and-labonte-stock-car-racing.json](./80496-jarrett-and-labonte-stock-car-racing.json) |
 | Jash | 187443 | [187443-jash.json](./187443-jash.json) |
 | Jasmine | 321735 | [321735-jasmine.json](./321735-jasmine.json) |
 | Jasmine Summer | 113761 | [113761-jasmine-summer.json](./113761-jasmine-summer.json) |
