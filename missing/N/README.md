@@ -470,6 +470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Girls | 140563 | [140563-neon-girls.json](./140563-neon-girls.json) |
 | Neon Goddess | 278967 | [278967-neon-goddess.json](./278967-neon-goddess.json) |
 | Neon Heights | 278144 | [278144-neon-heights.json](./278144-neon-heights.json) |
+| Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
 | Neon Ladder | 311803 | [311803-neon-ladder.json](./311803-neon-ladder.json) |
 | Neon Man | 234611 | [234611-neon-man.json](./234611-neon-man.json) |
 | Neon Nights | 159821 | [159821-neon-nights.json](./159821-neon-nights.json) |
