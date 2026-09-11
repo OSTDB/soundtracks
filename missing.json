@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T05:03:57.424Z",
-  "total_missing": 56685,
+  "generated_at": "2026-09-11T05:11:03.377Z",
+  "total_missing": 56684,
   "games": [
     {
       "igdb_id": 306086,
@@ -1931,11 +1931,6 @@
       "igdb_id": 319388,
       "game_name": "A Dino's Journey",
       "file": "missing/A/319388-a-dinos-journey.json"
-    },
-    {
-      "igdb_id": 190131,
-      "game_name": "A Distant Stabbing",
-      "file": "missing/A/190131-a-distant-stabbing.json"
     },
     {
       "igdb_id": 341469,
