@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race to Kyiv | 392804 | [392804-race-to-kyiv.json](./392804-race-to-kyiv.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
+| Racer | 79859 | [79859-racer.json](./79859-racer.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
 | Racers Islands | 233229 | [233229-racers-islands.json](./233229-racers-islands.json) |
 | Raceway: Drag & Stock Racing | 168316 | [168316-raceway-drag-and-stock-racing.json](./168316-raceway-drag-and-stock-racing.json) |
