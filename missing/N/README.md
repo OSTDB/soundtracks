@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noisz: DM Ashura Level Pack | 317032 | [317032-noisz-dm-ashura-level-pack.json](./317032-noisz-dm-ashura-level-pack.json) |
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
+| Noiz2sa | 86033 | [86033-noiz2sa.json](./86033-noiz2sa.json) |
 | NokNok | 341484 | [341484-noknok.json](./341484-noknok.json) |
 | NokNok Invasion! | 183505 | [183505-noknok-invasion.json](./183505-noknok-invasion.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
