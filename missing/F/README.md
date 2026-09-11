@@ -2448,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Further Still: Survivors | 213006 | [213006-further-still-survivors.json](./213006-further-still-survivors.json) |
 | Furtive | 173259 | [173259-furtive.json](./173259-furtive.json) |
 | Fururu Project : Ruby | 114366 | [114366-fururu-project-ruby.json](./114366-fururu-project-ruby.json) |
+| Furusato wo Sagasu Sanshimai | 119682 | [119682-furusato-wo-sagasu-sanshimai.json](./119682-furusato-wo-sagasu-sanshimai.json) |
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
 | Fury Cross Road | 235222 | [235222-fury-cross-road.json](./235222-fury-cross-road.json) |
 | Fury of Dracula | 175327 | [175327-fury-of-dracula.json](./175327-fury-of-dracula.json) |
