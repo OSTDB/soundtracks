@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T19:31:00.510Z",
-  "total_missing": 59112,
+  "generated_at": "2026-09-11T19:40:53.417Z",
+  "total_missing": 59113,
   "games": [
     {
       "igdb_id": 306086,
@@ -2386,11 +2386,6 @@
       "igdb_id": 247777,
       "game_name": "A Rocket's Intensity",
       "file": "missing/A/247777-a-rockets-intensity.json"
-    },
-    {
-      "igdb_id": 42671,
-      "game_name": "A Rose in the Twilight: Limited Edition",
-      "file": "missing/A/42671-a-rose-in-the-twilight-limited-edition.json"
     },
     {
       "igdb_id": 172196,
@@ -111903,6 +111898,11 @@
       "file": "missing/H/297792-hollow-stem.json"
     },
     {
+      "igdb_id": 88235,
+      "game_name": "Hollow Steps",
+      "file": "missing/H/88235-hollow-steps.json"
+    },
+    {
       "igdb_id": 378207,
       "game_name": "Hollow Treats",
       "file": "missing/H/378207-hollow-treats.json"
@@ -144021,6 +144021,11 @@
       "igdb_id": 240791,
       "game_name": "Make Them Stop",
       "file": "missing/M/240791-make-them-stop.json"
+    },
+    {
+      "igdb_id": 88234,
+      "game_name": "Make War Not Love 5",
+      "file": "missing/M/88234-make-war-not-love-5.json"
     },
     {
       "igdb_id": 174317,
