@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleClysmic | 179153 | [179153-castleclysmic.json](./179153-castleclysmic.json) |
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
 | Castles & Castellans | 406688 | [406688-castles-and-castellans.json](./406688-castles-and-castellans.json) |
+| Castles & Krakens | 112280 | [112280-castles-and-krakens.json](./112280-castles-and-krakens.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
@@ -1363,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate makes you happy 7 | 105376 | [105376-chocolate-makes-you-happy-7.json](./105376-chocolate-makes-you-happy-7.json) |
 | Chocolate makes you happy: Halloween | 109746 | [109746-chocolate-makes-you-happy-halloween.json](./109746-chocolate-makes-you-happy-halloween.json) |
 | Chocolate makes you happy: Lunar New Year | 115615 | [115615-chocolate-makes-you-happy-lunar-new-year.json](./115615-chocolate-makes-you-happy-lunar-new-year.json) |
+| Chocolate makes you happy: New Year | 112372 | [112372-chocolate-makes-you-happy-new-year.json](./112372-chocolate-makes-you-happy-new-year.json) |
 | Chocolate makes you happy: Valentine's Day | 114362 | [114362-chocolate-makes-you-happy-valentines-day.json](./114362-chocolate-makes-you-happy-valentines-day.json) |
 | Chocolate Roll For Two | 178602 | [178602-chocolate-roll-for-two.json](./178602-chocolate-roll-for-two.json) |
 | Chocolatio | 281996 | [281996-chocolatio.json](./281996-chocolatio.json) |
@@ -1574,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella: Interactive Book | 260673 | [260673-cinderella-interactive-book.json](./260673-cinderella-interactive-book.json) |
 | Cinderella's Spark | 184037 | [184037-cinderellas-spark.json](./184037-cinderellas-spark.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
+| Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
 | Cinema Quest | 107249 | [107249-cinema-quest.json](./107249-cinema-quest.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
