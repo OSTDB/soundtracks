@@ -22,7 +22,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Coloring Break: Expansion pack 6 | 357772 | [357772-a-coloring-break-expansion-pack-6.json](./357772-a-coloring-break-expansion-pack-6.json) |
 | A Coloring Break: Expansion pack 8 | 357774 | [357774-a-coloring-break-expansion-pack-8.json](./357774-a-coloring-break-expansion-pack-8.json) |
 | A Compendium of Ghosts | 102155 | [102155-a-compendium-of-ghosts.json](./102155-a-compendium-of-ghosts.json) |
-| A Conversation With a Magical Deer | 320562 | [320562-a-conversation-with-a-magical-deer.json](./320562-a-conversation-with-a-magical-deer.json) |
 | A Cosmic Forest | 145672 | [145672-a-cosmic-forest.json](./145672-a-cosmic-forest.json) |
 | A Couple of Cubes | 153409 | [153409-a-couple-of-cubes.json](./153409-a-couple-of-cubes.json) |
 | A Cup of Eternity | 382212 | [382212-a-cup-of-eternity.json](./382212-a-cup-of-eternity.json) |
