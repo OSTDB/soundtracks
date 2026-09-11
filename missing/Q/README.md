@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quán Zhàn Tiānxià | 156616 | [156616-quan-zhan-tianxia.json](./156616-quan-zhan-tianxia.json) |
 | Quandaries | 94166 | [94166-quandaries.json](./94166-quandaries.json) |
 | Quandino | 275911 | [275911-quandino.json](./275911-quandino.json) |
+| Quánmín Wángzhě | 82037 | [82037-quanmin-wangzhe.json](./82037-quanmin-wangzhe.json) |
 | Quantaar | 159884 | [159884-quantaar.json](./159884-quantaar.json) |
 | Quantum Apex | 195151 | [195151-quantum-apex.json](./195151-quantum-apex.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
