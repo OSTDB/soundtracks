@@ -3336,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Blob's Honey-Do List | 342639 | [342639-mr-blobs-honey-do-list.json](./342639-mr-blobs-honey-do-list.json) |
 | Mr. Bloopy Saves the World | 42659 | [42659-mr-bloopy-saves-the-world.json](./42659-mr-bloopy-saves-the-world.json) |
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
+| Mr. Catfish's Singles Retreat Event Extravaganza!!! | 122353 | [122353-mr-catfishs-singles-retreat-event-extravaganza.json](./122353-mr-catfishs-singles-retreat-event-extravaganza.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
 | Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
 | Mr. Do! | 297491 | [297491-mr-do.json](./297491-mr-do.json) |
@@ -3466,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mura World | 267912 | [267912-mura-world.json](./267912-mura-world.json) |
 | Mura World 2 | 267913 | [267913-mura-world-2.json](./267913-mura-world-2.json) |
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
+| Muramasa Rebirth Complete Collection | 122359 | [122359-muramasa-rebirth-complete-collection.json](./122359-muramasa-rebirth-complete-collection.json) |
 | Muramasa Rebirth: Blessing of Amitabha Collector's Edition | 89921 | [89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json](./89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json) |
 | Murasaki7 | 127306 | [127306-murasaki7.json](./127306-murasaki7.json) |
 | Murasame | 195164 | [195164-murasame.json](./195164-murasame.json) |
@@ -3525,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murkon's Vengeance | 65491 | [65491-murkons-vengeance.json](./65491-murkons-vengeance.json) |
 | MurMur | 239333 | [239333-murmur.json](./239333-murmur.json) |
 | Murphy's Minerals | 330157 | [330157-murphys-minerals.json](./330157-murphys-minerals.json) |
+| Musasabi | 122375 | [122375-musasabi.json](./122375-musasabi.json) |
 | Musashi no Bouken | 48688 | [48688-musashi-no-bouken.json](./48688-musashi-no-bouken.json) |
 | Musashi vs. Cthulhu | 127465 | [127465-musashi-vs-cthulhu.json](./127465-musashi-vs-cthulhu.json) |
 | Muscle Ninja VR | 266475 | [266475-muscle-ninja-vr.json](./266475-muscle-ninja-vr.json) |
@@ -3941,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Society 2: Hidden Puzzles | 250954 | [250954-mystery-society-2-hidden-puzzles.json](./250954-mystery-society-2-hidden-puzzles.json) |
 | Mystery Solitaire: Cthulhu Mythos 2 | 251852 | [251852-mystery-solitaire-cthulhu-mythos-2.json](./251852-mystery-solitaire-cthulhu-mythos-2.json) |
 | Mystery Solitaire: Cthulhu Mythos 3 | 270966 | [270966-mystery-solitaire-cthulhu-mythos-3.json](./270966-mystery-solitaire-cthulhu-mythos-3.json) |
+| Mystery Solitaire: Grimm's Tales 2 | 122367 | [122367-mystery-solitaire-grimms-tales-2.json](./122367-mystery-solitaire-grimms-tales-2.json) |
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
 | Mystery Trackers: Black Isle - Collector's Edition | 107859 | [107859-mystery-trackers-black-isle-collectors-edition.json](./107859-mystery-trackers-black-isle-collectors-edition.json) |
