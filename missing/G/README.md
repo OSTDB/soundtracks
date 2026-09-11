@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Puzzle: the inheritance of grandpa | 120943 | [120943-gear-puzzle-the-inheritance-of-grandpa.json](./120943-gear-puzzle-the-inheritance-of-grandpa.json) |
 | Gear Senshi Dendoh | 19595 | [19595-gear-senshi-dendoh.json](./19595-gear-senshi-dendoh.json) |
 | Gear Slots | 389972 | [389972-gear-slots.json](./389972-gear-slots.json) |
+| Gear Up: Premium | 90552 | [90552-gear-up-premium.json](./90552-gear-up-premium.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited: Super Cars Pack | 238212 | [238212-gear-club-unlimited-super-cars-pack.json](./238212-gear-club-unlimited-super-cars-pack.json) |
 | Gearbits | 258457 | [258457-gearbits.json](./258457-gearbits.json) |
@@ -927,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlowyJump | 129732 | [129732-glowyjump.json](./129732-glowyjump.json) |
 | Glozzle | 107122 | [107122-glozzle.json](./107122-glozzle.json) |
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
+| Glück Auf | 90598 | [90598-gluck-auf.json](./90598-gluck-auf.json) |
 | Glusiverse | 304599 | [304599-glusiverse.json](./304599-glusiverse.json) |
 | Glyder: Adventure Worlds | 66110 | [66110-glyder-adventure-worlds.json](./66110-glyder-adventure-worlds.json) |
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
@@ -1006,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobblemen | 152346 | [152346-gobblemen.json](./152346-gobblemen.json) |
 | Gobbo Goes Adventures | 251834 | [251834-gobbo-goes-adventures.json](./251834-gobbo-goes-adventures.json) |
 | Gobbo's Gambit | 253952 | [253952-gobbos-gambit.json](./253952-gobbos-gambit.json) |
+| Gobernators: Parodia Política Peruana | 90570 | [90570-gobernators-parodia-politica-peruana.json](./90570-gobernators-parodia-politica-peruana.json) |
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
@@ -1503,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
 | Graveyard Shift | 216230 | [216230-graveyard-shift.json](./216230-graveyard-shift.json) |
 | Graveyard Shift | 292517 | [292517-graveyard-shift.json](./292517-graveyard-shift.json) |
+| Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
 | Gravi Dot | 91909 | [91909-gravi-dot.json](./91909-gravi-dot.json) |
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
