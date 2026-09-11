@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Life | 148514 | [148514-underwater-life.json](./148514-underwater-life.json) |
 | Underworld | 349298 | [349298-underworld.json](./349298-underworld.json) |
 | Underworld Capital Incident | 146232 | [146232-underworld-capital-incident.json](./146232-underworld-capital-incident.json) |
+| Underworld Dreams | 127209 | [127209-underworld-dreams.json](./127209-underworld-dreams.json) |
 | Underworld Dreams: The False King | 192360 | [192360-underworld-dreams-the-false-king.json](./192360-underworld-dreams-the-false-king.json) |
 | Underworld Football Manager | 233739 | [233739-underworld-football-manager.json](./233739-underworld-football-manager.json) |
 | Underworld Island | 223455 | [223455-underworld-island.json](./223455-underworld-island.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicorn Overlord: Monarch Edition | 283162 | [283162-unicorn-overlord-monarch-edition.json](./283162-unicorn-overlord-monarch-edition.json) |
 | Unicorn Shake | 177473 | [177473-unicorn-shake.json](./177473-unicorn-shake.json) |
 | Unicorn Smash | 248644 | [248644-unicorn-smash.json](./248644-unicorn-smash.json) |
+| Unicorn Tails | 127228 | [127228-unicorn-tails.json](./127228-unicorn-tails.json) |
 | Unicorn Wars | 338588 | [338588-unicorn-wars.json](./338588-unicorn-wars.json) |
 | Unicycle Giraffe | 318984 | [318984-unicycle-giraffe.json](./318984-unicycle-giraffe.json) |
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
