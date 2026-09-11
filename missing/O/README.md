@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O.T.D | 130330 | [130330-o-t-d.json](./130330-o-t-d.json) |
 | O2Jam | 200163 | [200163-o2jam.json](./200163-o2jam.json) |
 | O2Jam | 72126 | [72126-o2jam.json](./72126-o2jam.json) |
+| O2Jam x DancingParty | 107799 | [107799-o2jam-x-dancingparty.json](./107799-o2jam-x-dancingparty.json) |
 | O2Jam: The Beginning | 390546 | [390546-o2jam-the-beginning.json](./390546-o2jam-the-beginning.json) |
 | Oak Adventure the Maze | 235473 | [235473-oak-adventure-the-maze.json](./235473-oak-adventure-the-maze.json) |
 | Oak Defenders | 183514 | [183514-oak-defenders.json](./183514-oak-defenders.json) |
@@ -1160,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overrun: Zombie Base Defense | 208024 | [208024-overrun-zombie-base-defense.json](./208024-overrun-zombie-base-defense.json) |
 | Overserved: Food Fighters! | 398995 | [398995-overserved-food-fighters.json](./398995-overserved-food-fighters.json) |
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
+| OverSoul | 109067 | [109067-oversoul.json](./109067-oversoul.json) |
 | OverTheCloud_Global | 117100 | [117100-overthecloud-global.json](./117100-overthecloud-global.json) |
 | Overtime | 136483 | [136483-overtime.json](./136483-overtime.json) |
 | Overtime | 272006 | [272006-overtime.json](./272006-overtime.json) |
