@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckfest: Steel & Wheels Pack | 223703 | [223703-wreckfest-steel-and-wheels-pack.json](./223703-wreckfest-steel-and-wheels-pack.json) |
 | Wreckfest: Vehicle Bundle 1 | 208051 | [208051-wreckfest-vehicle-bundle-1.json](./208051-wreckfest-vehicle-bundle-1.json) |
 | Wreckfest: Vehicle Bundle 2 | 208052 | [208052-wreckfest-vehicle-bundle-2.json](./208052-wreckfest-vehicle-bundle-2.json) |
+| Wreckin Ball Adventure | 112364 | [112364-wreckin-ball-adventure.json](./112364-wreckin-ball-adventure.json) |
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
