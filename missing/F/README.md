@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fail Factory! | 196314 | [196314-fail-factory.json](./196314-fail-factory.json) |
 | Fail to Win: Chapter 1 | 114988 | [114988-fail-to-win-chapter-1.json](./114988-fail-to-win-chapter-1.json) |
 | Fail World | 356064 | [356064-fail-world.json](./356064-fail-world.json) |
+| Failed State | 98375 | [98375-failed-state.json](./98375-failed-state.json) |
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
@@ -292,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famine in Wonderland | 410272 | [410272-famine-in-wonderland.json](./410272-famine-in-wonderland.json) |
 | Famista 2 | 86101 | [86101-famista-2.json](./86101-famista-2.json) |
 | Famory | 252158 | [252158-famory.json](./252158-famory.json) |
+| Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
 | Fan Zhuan 21 Ke | 277316 | [277316-fan-zhuan-21-ke.json](./277316-fan-zhuan-21-ke.json) |
 | Fan'cie Veer! (Fish Are Nasty, Cake Is Excellent Vektor Evading Emblazed Rapture) | 105375 | [105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json](./105375-fancie-veer-fish-are-nasty-cake-is-excellent-vektor-evading-emblazed-rapture.json) |
@@ -387,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantaventura | 129717 | [129717-fantaventura.json](./129717-fantaventura.json) |
 | Fantom Feast | 112928 | [112928-fantom-feast.json](./112928-fantom-feast.json) |
 | FantômeRapport: Intermezzo | 406101 | [406101-fantomerapport-intermezzo.json](./406101-fantomerapport-intermezzo.json) |
+| Fap Titans | 98475 | [98475-fap-titans.json](./98475-fap-titans.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
 | Far Cry 6: Gold Edition | 136403 | [136403-far-cry-6-gold-edition.json](./136403-far-cry-6-gold-edition.json) |
@@ -782,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight | 147425 | [147425-fight.json](./147425-fight.json) |
 | Fight | 150650 | [150650-fight.json](./150650-fight.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
+| Fight 4 Flight | 98468 | [98468-fight-4-flight.json](./98468-fight-4-flight.json) |
 | Fight Angels | 125977 | [125977-fight-angels.json](./125977-fight-angels.json) |
 | Fight Ball VR | 120924 | [120924-fight-ball-vr.json](./120924-fight-ball-vr.json) |
 | Fight Buddy Mobile | 200738 | [200738-fight-buddy-mobile.json](./200738-fight-buddy-mobile.json) |
@@ -856,6 +860,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
+| Final Cut: Death on the Silver Screen | 98383 | [98383-final-cut-death-on-the-silver-screen.json](./98383-final-cut-death-on-the-silver-screen.json) |
+| Final Cut: Encore | 98381 | [98381-final-cut-encore.json](./98381-final-cut-encore.json) |
+| Final Cut: Homage | 98382 | [98382-final-cut-homage.json](./98382-final-cut-homage.json) |
+| Final Cut: The True Escapade | 98380 | [98380-final-cut-the-true-escapade.json](./98380-final-cut-the-true-escapade.json) |
 | Final Dawn | 227259 | [227259-final-dawn.json](./227259-final-dawn.json) |
 | Final Days | 33101 | [33101-final-days.json](./33101-final-days.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
