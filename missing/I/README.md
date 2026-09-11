@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industrial Combat | 271750 | [271750-industrial-combat.json](./271750-industrial-combat.json) |
 | Industriality | 190159 | [190159-industriality.json](./190159-industriality.json) |
 | Industrious | 146813 | [146813-industrious.json](./146813-industrious.json) |
+| Industriworks | 126603 | [126603-industriworks.json](./126603-industriworks.json) |
 | Industry Giant 2 - Gold 2012 | 53228 | [53228-industry-giant-2-gold-2012.json](./53228-industry-giant-2-gold-2012.json) |
 | Industry Giant 2 HD | 53229 | [53229-industry-giant-2-hd.json](./53229-industry-giant-2-hd.json) |
 | Industry Giant 4.0 | 284886 | [284886-industry-giant-4-0.json](./284886-industry-giant-4-0.json) |
@@ -981,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
 | Into the Mine | 333024 | [333024-into-the-mine.json](./333024-into-the-mine.json) |
 | Into The Mist 2: The Cult | 134010 | [134010-into-the-mist-2-the-cult.json](./134010-into-the-mist-2-the-cult.json) |
+| Into the Soup | 126554 | [126554-into-the-soup.json](./126554-into-the-soup.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
 | Into the War | 35825 | [35825-into-the-war.json](./35825-into-the-war.json) |
