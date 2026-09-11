@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T05:35:40.356Z",
-  "total_missing": 56782,
+  "generated_at": "2026-09-11T05:41:05.388Z",
+  "total_missing": 56781,
   "games": [
     {
       "igdb_id": 306086,
@@ -1946,11 +1946,6 @@
       "igdb_id": 236808,
       "game_name": "A Dragon Named Coal",
       "file": "missing/A/236808-a-dragon-named-coal.json"
-    },
-    {
-      "igdb_id": 176957,
-      "game_name": "A Dream of Wargs",
-      "file": "missing/A/176957-a-dream-of-wargs.json"
     },
     {
       "igdb_id": 327839,
