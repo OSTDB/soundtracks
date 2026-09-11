@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
 | Beneath the Mountain | 173299 | [173299-beneath-the-mountain.json](./173299-beneath-the-mountain.json) |
+| Beneath the Surface | 111630 | [111630-beneath-the-surface.json](./111630-beneath-the-surface.json) |
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
 | Beneath the Woods | 236290 | [236290-beneath-the-woods.json](./236290-beneath-the-woods.json) |
 | Beneath their Names | 406689 | [406689-beneath-their-names.json](./406689-beneath-their-names.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Masters Was Right | 139402 | [139402-billy-masters-was-right.json](./139402-billy-masters-was-right.json) |
 | Billy Meets World | 121605 | [121605-billy-meets-world.json](./121605-billy-meets-world.json) |
 | Bilspel | 79334 | [79334-bilspel.json](./79334-bilspel.json) |
+| Biluo Story | 111674 | [111674-biluo-story.json](./111674-biluo-story.json) |
 | Bimbo Sequencer 2 | 185697 | [185697-bimbo-sequencer-2.json](./185697-bimbo-sequencer-2.json) |
 | Bîme | 251828 | [251828-bime.json](./251828-bime.json) |
 | Bimous | 186845 | [186845-bimous.json](./186845-bimous.json) |
@@ -1965,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
+| Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
 | Blokker: Orange | 163909 | [163909-blokker-orange.json](./163909-blokker-orange.json) |
 | Blokoto | 346585 | [346585-blokoto.json](./346585-blokoto.json) |
 | Bloku! | 259541 | [259541-bloku.json](./259541-bloku.json) |
@@ -3237,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
 | Burnout Mobile | 342038 | [342038-burnout-mobile.json](./342038-burnout-mobile.json) |
 | Burnout Paradise: The Ultimate Box | 10067 | [10067-burnout-paradise-the-ultimate-box.json](./10067-burnout-paradise-the-ultimate-box.json) |
+| Burnouts | 111640 | [111640-burnouts.json](./111640-burnouts.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
