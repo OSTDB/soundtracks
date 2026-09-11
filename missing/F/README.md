@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
 | FarmVille 3 | 204459 | [204459-farmville-3.json](./204459-farmville-3.json) |
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
+| Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
 | Farol del Diablo (Devil's Lantern) | 347136 | [347136-farol-del-diablo-devils-lantern.json](./347136-farol-del-diablo-devils-lantern.json) |
 | Farrealm: The Prince of Winds | 120427 | [120427-farrealm-the-prince-of-winds.json](./120427-farrealm-the-prince-of-winds.json) |
 | Fart Hotel | 243967 | [243967-fart-hotel.json](./243967-fart-hotel.json) |
@@ -746,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidget Spinner | 100888 | [100888-fidget-spinner.json](./100888-fidget-spinner.json) |
 | Fido | 315275 | [315275-fido.json](./315275-fido.json) |
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
+| Fido Dido | 93010 | [93010-fido-dido.json](./93010-fido-dido.json) |
 | Field & Stream: Total Outdoorsman Challenge | 67081 | [67081-field-and-stream-total-outdoorsman-challenge.json](./67081-field-and-stream-total-outdoorsman-challenge.json) |
 | Field and Stream Fishing | 99003 | [99003-field-and-stream-fishing.json](./99003-field-and-stream-fishing.json) |
 | Field Goal | 172656 | [172656-field-goal.json](./172656-field-goal.json) |
@@ -1599,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
 | Flyhight Cloudia II | 288189 | [288189-flyhight-cloudia-ii.json](./288189-flyhight-cloudia-ii.json) |
+| Flyin' High Data Disk 1 | 93009 | [93009-flyin-high-data-disk-1.json](./93009-flyin-high-data-disk-1.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
@@ -2010,6 +2013,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Second Frenzy | 196796 | [196796-four-second-frenzy.json](./196796-four-second-frenzy.json) |
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
 | Four Ways: Block Puzzle | 131554 | [131554-four-ways-block-puzzle.json](./131554-four-ways-block-puzzle.json) |
+| Four Winds Mah Jong | 92985 | [92985-four-winds-mah-jong.json](./92985-four-winds-mah-jong.json) |
+| Fourfit | 92983 | [92983-fourfit.json](./92983-fourfit.json) |
 | FourFourTwo Touchline Passion | 68711 | [68711-fourfourtwo-touchline-passion.json](./68711-fourfourtwo-touchline-passion.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
@@ -2264,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
 | Frogenlav: Skyward Bound | 278418 | [278418-frogenlav-skyward-bound.json](./278418-frogenlav-skyward-bound.json) |
+| Froggee | 93020 | [93020-froggee.json](./93020-froggee.json) |
 | Frogger | 218439 | [218439-frogger.json](./218439-frogger.json) |
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
 | Frogger | 246398 | [246398-frogger.json](./246398-frogger.json) |
@@ -2593,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futari ha Pretty Cure Splash Star | 327580 | [327580-futari-ha-pretty-cure-splash-star.json](./327580-futari-ha-pretty-cure-splash-star.json) |
 | Futari ha Pretty Cure Splash Star: Panpaka Game de Zekkou-chou! | 168329 | [168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json](./168329-futari-ha-pretty-cure-splash-star-panpaka-game-de-zekkou-chou.json) |
 | Futariuum's Gate | 310210 | [310210-futariuums-gate.json](./310210-futariuums-gate.json) |
+| Futebol | 92984 | [92984-futebol.json](./92984-futebol.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
 | Futuclass: Hydrogen & Oxygen | 170492 | [170492-futuclass-hydrogen-and-oxygen.json](./170492-futuclass-hydrogen-and-oxygen.json) |
 | Futuclass: Oxygen Escape Room | 170493 | [170493-futuclass-oxygen-escape-room.json](./170493-futuclass-oxygen-escape-room.json) |
