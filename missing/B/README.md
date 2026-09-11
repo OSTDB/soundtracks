@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballistic Tanks | 32327 | [32327-ballistic-tanks.json](./32327-ballistic-tanks.json) |
 | BallisticNG | 32640 | [32640-ballisticng.json](./32640-ballisticng.json) |
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
+| Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
 | Balloon Chess | 339097 | [339097-balloon-chess.json](./339097-balloon-chess.json) |
 | Balloon Fast Run | 330185 | [330185-balloon-fast-run.json](./330185-balloon-fast-run.json) |
 | Balloon Fight | 269842 | [269842-balloon-fight.json](./269842-balloon-fight.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builder Simulator VR | 237080 | [237080-builder-simulator-vr.json](./237080-builder-simulator-vr.json) |
 | Builder: Don't Let me Fall | 137643 | [137643-builder-dont-let-me-fall.json](./137643-builder-dont-let-me-fall.json) |
 | Builders of Greece | 217337 | [217337-builders-of-greece.json](./217337-builders-of-greece.json) |
+| Building & Co | 79285 | [79285-building-and-co.json](./79285-building-and-co.json) |
 | Building 37 | 185603 | [185603-building-37.json](./185603-building-37.json) |
 | Building Block: Castle & City Craft Simulator | 89277 | [89277-building-block-castle-and-city-craft-simulator.json](./89277-building-block-castle-and-city-craft-simulator.json) |
 | Building Blocks / Master Builder of Egypt | 81219 | [81219-building-blocks-master-builder-of-egypt.json](./81219-building-blocks-master-builder-of-egypt.json) |
