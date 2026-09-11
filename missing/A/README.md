@@ -17,7 +17,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Café Couple's Joyful Life of Resistance | 343239 | [343239-a-cafe-couples-joyful-life-of-resistance.json](./343239-a-cafe-couples-joyful-life-of-resistance.json) |
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
 | A Certain Incremental Exoplanet | 389999 | [389999-a-certain-incremental-exoplanet.json](./389999-a-certain-incremental-exoplanet.json) |
-| A Chat with Charon | 138254 | [138254-a-chat-with-charon.json](./138254-a-chat-with-charon.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Christmas Story From Hell VR | 189163 | [189163-a-christmas-story-from-hell-vr.json](./189163-a-christmas-story-from-hell-vr.json) |
 | A Clever Label | 152849 | [152849-a-clever-label.json](./152849-a-clever-label.json) |
