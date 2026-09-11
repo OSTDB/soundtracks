@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Stars Super Starcade | 48038 | [48038-shining-stars-super-starcade.json](./48038-shining-stars-super-starcade.json) |
 | Shining Symbol | 250965 | [250965-shining-symbol.json](./250965-shining-symbol.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
+| Shinkan Senshi Eris no Bouken | 97379 | [97379-shinkan-senshi-eris-no-bouken.json](./97379-shinkan-senshi-eris-no-bouken.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
 | Shoku Iku Series 1: Soreike! Anpanman: Sukikirai Nai Ko Genki na Ko! | 327607 | [327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json](./327607-shoku-iku-series-1-soreike-anpanman-sukikirai-nai-ko-genki-na-ko.json) |
 | Shokugeki no Soma: Yuujou to Kizuna no Hitosara | 222523 | [222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json](./222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json) |
+| Shokuma Gaiden 3 | 97375 | [97375-shokuma-gaiden-3.json](./97375-shokuma-gaiden-3.json) |
 | Shokuo Shoujo | 158152 | [158152-shokuo-shoujo.json](./158152-shokuo-shoujo.json) |
 | Shokutama | 97828 | [97828-shokutama.json](./97828-shokutama.json) |
 | Shokutte Night | 97844 | [97844-shokutte-night.json](./97844-shokutte-night.json) |
@@ -4469,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staff Runner | 273409 | [273409-staff-runner.json](./273409-staff-runner.json) |
 | Staffer Case: A Supernatural Mystery Adventure | 215713 | [215713-staffer-case-a-supernatural-mystery-adventure.json](./215713-staffer-case-a-supernatural-mystery-adventure.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
+| Stagehand: A Reverse Platformer | 97306 | [97306-stagehand-a-reverse-platformer.json](./97306-stagehand-a-reverse-platformer.json) |
 | Stages of Life | 250397 | [250397-stages-of-life.json](./250397-stages-of-life.json) |
 | Stagger 1 | 40250 | [40250-stagger-1.json](./40250-stagger-1.json) |
 | Stagnated In Slumber | 212250 | [212250-stagnated-in-slumber.json](./212250-stagnated-in-slumber.json) |
@@ -6399,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
 | SuperLite 2000: Oekaki Puzzle | 386127 | [386127-superlite-2000-oekaki-puzzle.json](./386127-superlite-2000-oekaki-puzzle.json) |
+| SuperLite 3in1: Arcade Game Shuu | 97299 | [97299-superlite-3in1-arcade-game-shuu.json](./97299-superlite-3in1-arcade-game-shuu.json) |
 | Superman | 131546 | [131546-superman.json](./131546-superman.json) |
 | Superman | 361718 | [361718-superman.json](./361718-superman.json) |
 | Superman in Supervillain Showdown | 220123 | [220123-superman-in-supervillain-showdown.json](./220123-superman-in-supervillain-showdown.json) |
@@ -6793,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | SyLestia | 125957 | [125957-sylestia.json](./125957-sylestia.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
+| Sylvan Idyll | 97284 | [97284-sylvan-idyll.json](./97284-sylvan-idyll.json) |
 | Sylvan Tale | 19691 | [19691-sylvan-tale.json](./19691-sylvan-tale.json) |
 | Sylvana's Chronicles | 259016 | [259016-sylvanas-chronicles.json](./259016-sylvanas-chronicles.json) |
 | Sylvarcon 2049: A Cybersecurity Aventure | 213966 | [213966-sylvarcon-2049-a-cybersecurity-aventure.json](./213966-sylvarcon-2049-a-cybersecurity-aventure.json) |
