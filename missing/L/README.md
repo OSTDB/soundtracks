@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Thalia and the Rose of Rocroi | 290395 | [290395-lady-thalia-and-the-rose-of-rocroi.json](./290395-lady-thalia-and-the-rose-of-rocroi.json) |
 | Lady's Hentai Mosaic | 112981 | [112981-ladys-hentai-mosaic.json](./112981-ladys-hentai-mosaic.json) |
 | Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
+| Ladybug Quest | 113753 | [113753-ladybug-quest.json](./113753-ladybug-quest.json) |
 | Laf the game | 226204 | [226204-laf-the-game.json](./226204-laf-the-game.json) |
 | Laffy Taffy Long-Lasting 3D Pyramid Challenge | 373555 | [373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json](./373555-laffy-taffy-long-lasting-3d-pyramid-challenge.json) |
 | Lagoon | 276473 | [276473-lagoon.json](./276473-lagoon.json) |
