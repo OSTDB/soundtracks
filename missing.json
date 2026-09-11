@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T01:31:27.800Z",
-  "total_missing": 56018,
+  "generated_at": "2026-09-11T01:41:04.036Z",
+  "total_missing": 56040,
   "games": [
     {
       "igdb_id": 306086,
@@ -1826,11 +1826,6 @@
       "igdb_id": 312366,
       "game_name": "A Christmas Gift: Timmy's Final Gift",
       "file": "missing/A/312366-a-christmas-gift-timmys-final-gift.json"
-    },
-    {
-      "igdb_id": 189163,
-      "game_name": "A Christmas Story From Hell VR",
-      "file": "missing/A/189163-a-christmas-story-from-hell-vr.json"
     },
     {
       "igdb_id": 245879,
@@ -15421,6 +15416,11 @@
       "igdb_id": 115031,
       "game_name": "Asgard's Wrath",
       "file": "missing/A/115031-asgards-wrath.json"
+    },
+    {
+      "igdb_id": 127264,
+      "game_name": "Ash",
+      "file": "missing/A/127264-ash.json"
     },
     {
       "igdb_id": 408828,
@@ -37868,6 +37868,11 @@
       "file": "missing/C/1146-castlevania-the-adventure-rebirth.json"
     },
     {
+      "igdb_id": 127263,
+      "game_name": "Castlevania: The Holy Relics",
+      "file": "missing/C/127263-castlevania-the-holy-relics.json"
+    },
+    {
       "igdb_id": 317630,
       "game_name": "Castlevania: The Seal Of The Curse X",
       "file": "missing/C/317630-castlevania-the-seal-of-the-curse-x.json"
@@ -39411,6 +39416,11 @@
       "igdb_id": 218491,
       "game_name": "Century: Age of Ashes - Valkurian Prelude Edition",
       "file": "missing/C/218491-century-age-of-ashes-valkurian-prelude-edition.json"
+    },
+    {
+      "igdb_id": 127246,
+      "game_name": "Cepheus Protocol",
+      "file": "missing/C/127246-cepheus-protocol.json"
     },
     {
       "igdb_id": 281986,
@@ -46126,6 +46136,11 @@
       "igdb_id": 167762,
       "game_name": "Conan Exiles: Isle of Siptah",
       "file": "missing/C/167762-conan-exiles-isle-of-siptah.json"
+    },
+    {
+      "igdb_id": 127253,
+      "game_name": "Conan Exiles: Riders of Hyboria",
+      "file": "missing/C/127253-conan-exiles-riders-of-hyboria.json"
     },
     {
       "igdb_id": 32411,
@@ -52961,6 +52976,11 @@
       "igdb_id": 333016,
       "game_name": "Dagger Woods VR",
       "file": "missing/D/333016-dagger-woods-vr.json"
+    },
+    {
+      "igdb_id": 127252,
+      "game_name": "Dahalo",
+      "file": "missing/D/127252-dahalo.json"
     },
     {
       "igdb_id": 58839,
@@ -61843,6 +61863,11 @@
       "file": "missing/D/174338-dmbx-2-5-mountain-bike-and-bmx.json"
     },
     {
+      "igdb_id": 127260,
+      "game_name": "DMCA's Sky",
+      "file": "missing/D/127260-dmcas-sky.json"
+    },
+    {
       "igdb_id": 275917,
       "game_name": "Dmod",
       "file": "missing/D/275917-dmod.json"
@@ -65216,6 +65241,11 @@
       "igdb_id": 300697,
       "game_name": "Dragon Quest: Legacy of the Lost",
       "file": "missing/D/300697-dragon-quest-legacy-of-the-lost.json"
+    },
+    {
+      "igdb_id": 127270,
+      "game_name": "Dragon Quest: Monster Battle Road Victory - V Navigator",
+      "file": "missing/D/127270-dragon-quest-monster-battle-road-victory-v-navigator.json"
     },
     {
       "igdb_id": 32159,
@@ -72731,6 +72761,11 @@
       "igdb_id": 274979,
       "game_name": "Ephemeral Legend",
       "file": "missing/E/274979-ephemeral-legend.json"
+    },
+    {
+      "igdb_id": 127247,
+      "game_name": "Ephemeral Tale",
+      "file": "missing/E/127247-ephemeral-tale.json"
     },
     {
       "igdb_id": 372481,
@@ -91033,6 +91068,11 @@
       "file": "missing/G/264894-generic-brazilian-favela-game-with-generic-enemies-2003.json"
     },
     {
+      "igdb_id": 127265,
+      "game_name": "Genesis",
+      "file": "missing/G/127265-genesis.json"
+    },
+    {
       "igdb_id": 381046,
       "game_name": "Genesis",
       "file": "missing/G/381046-genesis.json"
@@ -95201,6 +95241,11 @@
       "igdb_id": 119013,
       "game_name": "GraFi 2",
       "file": "missing/G/119013-grafi-2.json"
+    },
+    {
+      "igdb_id": 127309,
+      "game_name": "GraFi Halloween",
+      "file": "missing/G/127309-grafi-halloween.json"
     },
     {
       "igdb_id": 304354,
@@ -101988,6 +102033,11 @@
       "file": "missing/H/174871-heimdallr.json"
     },
     {
+      "igdb_id": 127250,
+      "game_name": "Heir of Darkness",
+      "file": "missing/H/127250-heir-of-darkness.json"
+    },
+    {
       "igdb_id": 69893,
       "game_name": "Heirs to the Throne",
       "file": "missing/H/69893-heirs-to-the-throne.json"
@@ -104221,6 +104271,11 @@
       "igdb_id": 96216,
       "game_name": "Hexion",
       "file": "missing/H/96216-hexion.json"
+    },
+    {
+      "igdb_id": 127310,
+      "game_name": "Hexon",
+      "file": "missing/H/127310-hexon.json"
     },
     {
       "igdb_id": 55947,
@@ -139963,6 +140018,11 @@
       "file": "missing/M/253907-maze-girl.json"
     },
     {
+      "igdb_id": 127267,
+      "game_name": "Maze Gold Run",
+      "file": "missing/M/127267-maze-gold-run.json"
+    },
+    {
       "igdb_id": 351598,
       "game_name": "Maze in Your Mind",
       "file": "missing/M/351598-maze-in-your-mind.json"
@@ -151723,6 +151783,11 @@
       "file": "missing/M/89921-muramasa-rebirth-blessing-of-amitabha-collectors-edition.json"
     },
     {
+      "igdb_id": 127306,
+      "game_name": "Murasaki7",
+      "file": "missing/M/127306-murasaki7.json"
+    },
+    {
       "igdb_id": 195164,
       "game_name": "Murasame",
       "file": "missing/M/195164-murasame.json"
@@ -155816,6 +155881,11 @@
       "igdb_id": 113687,
       "game_name": "Necro Defense",
       "file": "missing/N/113687-necro-defense.json"
+    },
+    {
+      "igdb_id": 127261,
+      "game_name": "Necro Wars",
+      "file": "missing/N/127261-necro-wars.json"
     },
     {
       "igdb_id": 333542,
@@ -167576,6 +167646,11 @@
       "igdb_id": 315523,
       "game_name": "Pachislot Akumajou Dracula",
       "file": "missing/P/315523-pachislot-akumajou-dracula.json"
+    },
+    {
+      "igdb_id": 127259,
+      "game_name": "Pacific Fire",
+      "file": "missing/P/127259-pacific-fire.json"
     },
     {
       "igdb_id": 254748,
@@ -207233,6 +207308,11 @@
       "file": "missing/S/142416-skulldash-expanded-edition.json"
     },
     {
+      "igdb_id": 127262,
+      "game_name": "Skullgirls Encore: Beowulf",
+      "file": "missing/S/127262-skullgirls-encore-beowulf.json"
+    },
+    {
       "igdb_id": 181862,
       "game_name": "Skullhammer",
       "file": "missing/S/181862-skullhammer.json"
@@ -226928,6 +227008,11 @@
       "file": "missing/S/87475-superola-and-the-lost-burgers.json"
     },
     {
+      "igdb_id": 127308,
+      "game_name": "Superpopular",
+      "file": "missing/S/127308-superpopular.json"
+    },
+    {
       "igdb_id": 233525,
       "game_name": "SuperPro Snowboarding",
       "file": "missing/S/233525-superpro-snowboarding.json"
@@ -230311,6 +230396,11 @@
       "igdb_id": 259813,
       "game_name": "Tales of Arise: SAO Collaboration Pack",
       "file": "missing/T/259813-tales-of-arise-sao-collaboration-pack.json"
+    },
+    {
+      "igdb_id": 127249,
+      "game_name": "Tales of Beasteria",
+      "file": "missing/T/127249-tales-of-beasteria.json"
     },
     {
       "igdb_id": 172119,
@@ -264023,6 +264113,11 @@
       "file": "missing/V/175949-vb-mario-land.json"
     },
     {
+      "igdb_id": 127268,
+      "game_name": "vCoder Hero",
+      "file": "missing/V/127268-vcoder-hero.json"
+    },
+    {
       "igdb_id": 273908,
       "game_name": "Vec-Man",
       "file": "missing/V/273908-vec-man.json"
@@ -272518,6 +272613,11 @@
       "file": "missing/W/155652-witchcraft-u.json"
     },
     {
+      "igdb_id": 127248,
+      "game_name": "Witchcraft: Pandoras Box",
+      "file": "missing/W/127248-witchcraft-pandoras-box.json"
+    },
+    {
       "igdb_id": 275595,
       "game_name": "Witches & Woodlands",
       "file": "missing/W/275595-witches-and-woodlands.json"
@@ -274156,6 +274256,11 @@
       "igdb_id": 45995,
       "game_name": "World of Pool",
       "file": "missing/W/45995-world-of-pool.json"
+    },
+    {
+      "igdb_id": 127251,
+      "game_name": "World of relish",
+      "file": "missing/W/127251-world-of-relish.json"
     },
     {
       "igdb_id": 193472,
@@ -276706,6 +276811,11 @@
       "igdb_id": 222295,
       "game_name": "Yo-Kai Watch 3: Tempura",
       "file": "missing/Y/222295-yo-kai-watch-3-tempura.json"
+    },
+    {
+      "igdb_id": 127255,
+      "game_name": "Yo-kai Watch 4++",
+      "file": "missing/Y/127255-yo-kai-watch-4.json"
     },
     {
       "igdb_id": 234321,
