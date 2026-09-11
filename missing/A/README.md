@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amant | 258183 | [258183-amant.json](./258183-amant.json) |
 | Amanthi | 141853 | [141853-amanthi.json](./141853-amanthi.json) |
 | Amaranthine Voyage: The Obsidian Book - Collector's Edition | 105338 | [105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json](./105338-amaranthine-voyage-the-obsidian-book-collectors-edition.json) |
+| Amaranthine Voyage: The Sky | 89143 | [89143-amaranthine-voyage-the-sky.json](./89143-amaranthine-voyage-the-sky.json) |
 | Amarantus | 201324 | [201324-amarantus.json](./201324-amarantus.json) |
 | Amateur Surgeon 2 | 182501 | [182501-amateur-surgeon-2.json](./182501-amateur-surgeon-2.json) |
 | Amateur Surgeon 4: Re-Generations | 57116 | [57116-amateur-surgeon-4-re-generations.json](./57116-amateur-surgeon-4-re-generations.json) |
