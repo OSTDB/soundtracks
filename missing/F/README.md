@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
+| Final Light: The Prison | 105892 | [105892-final-light-the-prison.json](./105892-final-light-the-prison.json) |
 | final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
 | Final Mission VR | 124191 | [124191-final-mission-vr.json](./124191-final-mission-vr.json) |
@@ -2001,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
+| Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
 | Fractium | 217512 | [217512-fractium.json](./217512-fractium.json) |
 | Fracture In Space | 217291 | [217291-fracture-in-space.json](./217291-fracture-in-space.json) |
 | Fracture Point | 335257 | [335257-fracture-point.json](./335257-fracture-point.json) |
@@ -2455,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
 | Furious Golf | 180768 | [180768-furious-golf.json](./180768-furious-golf.json) |
 | Furious Karting | 47310 | [47310-furious-karting.json](./47310-furious-karting.json) |
+| Furious Race | 105985 | [105985-furious-race.json](./105985-furious-race.json) |
 | Furistas Cat Cafe | 106594 | [106594-furistas-cat-cafe.json](./106594-furistas-cat-cafe.json) |
 | Furistas Cat Cafe | 106629 | [106629-furistas-cat-cafe.json](./106629-furistas-cat-cafe.json) |
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
