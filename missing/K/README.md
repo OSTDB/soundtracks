@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box | 89879 | [89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json](./89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json) |
 | Kingdom Hearts 3D: Dream Drop Distance - Mark of Mastery Edition | 89897 | [89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json](./89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json) |
 | Kingdom Hearts Dream Drop Distance HD | 117525 | [117525-kingdom-hearts-dream-drop-distance-hd.json](./117525-kingdom-hearts-dream-drop-distance-hd.json) |
+| Kingdom Hearts HD 1.5 Remix: Limited Edition | 81206 | [81206-kingdom-hearts-hd-1-5-remix-limited-edition.json](./81206-kingdom-hearts-hd-1-5-remix-limited-edition.json) |
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
 | Kingdom Hearts Integrum Masterpiece for Cloud | 187460 | [187460-kingdom-hearts-integrum-masterpiece-for-cloud.json](./187460-kingdom-hearts-integrum-masterpiece-for-cloud.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Death Room | 221408 | [221408-kitty-death-room.json](./221408-kitty-death-room.json) |
 | Kitty Farm Island | 409536 | [409536-kitty-farm-island.json](./409536-kitty-farm-island.json) |
 | Kitty Hates Water | 105900 | [105900-kitty-hates-water.json](./105900-kitty-hates-water.json) |
+| Kitty Hawk | 81208 | [81208-kitty-hawk.json](./81208-kitty-hawk.json) |
 | Kitty in the Box 2 | 231929 | [231929-kitty-in-the-box-2.json](./231929-kitty-in-the-box-2.json) |
 | Kitty in the Crowd | 243970 | [243970-kitty-in-the-crowd.json](./243970-kitty-in-the-crowd.json) |
 | Kitty Keeper: Cat Collector | 105881 | [105881-kitty-keeper-cat-collector.json](./105881-kitty-keeper-cat-collector.json) |
@@ -1135,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kusok | 261533 | [261533-kusok.json](./261533-kusok.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
+| Kuusou Kagaku Sekai Gulliver Boy | 81278 | [81278-kuusou-kagaku-sekai-gulliver-boy.json](./81278-kuusou-kagaku-sekai-gulliver-boy.json) |
 | Kwalasha | 349870 | [349870-kwalasha.json](./349870-kwalasha.json) |
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
