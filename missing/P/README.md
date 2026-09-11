@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
+| Pac-Man: Ralph Breaks the Maze | 112300 | [112300-pac-man-ralph-breaks-the-maze.json](./112300-pac-man-ralph-breaks-the-maze.json) |
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
@@ -1593,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoldath | 318409 | [318409-planet-zoldath.json](./318409-planet-zoldath.json) |
 | Planet Zoo: Barnyard Animal Pack | 308275 | [308275-planet-zoo-barnyard-animal-pack.json](./308275-planet-zoo-barnyard-animal-pack.json) |
 | Planet Zoo: Europe Pack | 191245 | [191245-planet-zoo-europe-pack.json](./191245-planet-zoo-europe-pack.json) |
+| Planet's Core | 112302 | [112302-planets-core.json](./112302-planets-core.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Escape: An Audiogame | 181380 | [181380-planetary-escape-an-audiogame.json](./181380-planetary-escape-an-audiogame.json) |
 | Planetary Field Team | 406125 | [406125-planetary-field-team.json](./406125-planetary-field-team.json) |
@@ -1652,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformer of Death | 185121 | [185121-platformer-of-death.json](./185121-platformer-of-death.json) |
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
+| Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Platwormer | 181325 | [181325-platwormer.json](./181325-platwormer.json) |
 | Platypus Evolution | 268491 | [268491-platypus-evolution.json](./268491-platypus-evolution.json) |
@@ -2838,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proto Mecha Game | 363906 | [363906-proto-mecha-game.json](./363906-proto-mecha-game.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
 | Protocol Endfall | 159834 | [159834-protocol-endfall.json](./159834-protocol-endfall.json) |
+| Protocol Last Life | 112369 | [112369-protocol-last-life.json](./112369-protocol-last-life.json) |
 | Protocol Nadir | 367940 | [367940-protocol-nadir.json](./367940-protocol-nadir.json) |
 | Protocol Paradox | 373512 | [373512-protocol-paradox.json](./373512-protocol-paradox.json) |
 | Protocol VR | 116289 | [116289-protocol-vr.json](./116289-protocol-vr.json) |
@@ -2880,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
+| Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
 | Psikyo Shooting Stars Bravo | 121652 | [121652-psikyo-shooting-stars-bravo.json](./121652-psikyo-shooting-stars-bravo.json) |
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | PSXFunkin' | 279587 | [279587-psxfunkin.json](./279587-psxfunkin.json) |
