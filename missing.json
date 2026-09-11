@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T02:51:01.668Z",
-  "total_missing": 56283,
+  "generated_at": "2026-09-11T03:01:17.131Z",
+  "total_missing": 56282,
   "games": [
     {
       "igdb_id": 306086,
@@ -1866,11 +1866,6 @@
       "igdb_id": 145672,
       "game_name": "A Cosmic Forest",
       "file": "missing/A/145672-a-cosmic-forest.json"
-    },
-    {
-      "igdb_id": 153409,
-      "game_name": "A Couple of Cubes",
-      "file": "missing/A/153409-a-couple-of-cubes.json"
     },
     {
       "igdb_id": 382212,
