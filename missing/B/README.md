@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
 | Big Screen Games: Pack 1 | 197383 | [197383-big-screen-games-pack-1.json](./197383-big-screen-games-pack-1.json) |
 | Big Sea | 14301 | [14301-big-sea.json](./14301-big-sea.json) |
+| Big Sister's Ass | 97834 | [97834-big-sisters-ass.json](./97834-big-sisters-ass.json) |
 | Big Sky Country: Book 1 | 313717 | [313717-big-sky-country-book-1.json](./313717-big-sky-country-book-1.json) |
 | Big Sky Country: Book 2 | 313718 | [313718-big-sky-country-book-2.json](./313718-big-sky-country-book-2.json) |
 | Big Sky Trooper | 42640 | [42640-big-sky-trooper.json](./42640-big-sky-trooper.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Orchard: Animal Valley - Ultimate Edition | 208618 | [208618-bit-orchard-animal-valley-ultimate-edition.json](./208618-bit-orchard-animal-valley-ultimate-edition.json) |
 | Bit Orchard: Animal Valley - Ultra Ultimate | 271500 | [271500-bit-orchard-animal-valley-ultra-ultimate.json](./271500-bit-orchard-animal-valley-ultra-ultimate.json) |
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
+| BitBreaker | 97927 | [97927-bitbreaker.json](./97927-bitbreaker.json) |
 | BitBug | 181315 | [181315-bitbug.json](./181315-bitbug.json) |
 | Bitch Hell | 197891 | [197891-bitch-hell.json](./197891-bitch-hell.json) |
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
@@ -1820,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Pulser | 179121 | [179121-blast-pulser.json](./179121-blast-pulser.json) |
 | Blast Radius | 270662 | [270662-blast-radius.json](./270662-blast-radius.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
+| Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
 | Blastar | 14317 | [14317-blastar.json](./14317-blastar.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
@@ -2271,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku to Wanko | 58819 | [58819-boku-to-wanko.json](./58819-boku-to-wanko.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
 | Boku, Doraemon | 66134 | [66134-boku-doraemon.json](./66134-boku-doraemon.json) |
+| Bokuaso2 | 97826 | [97826-bokuaso2.json](./97826-bokuaso2.json) |
 | Bokura no Gakkou Sensou: Tsuukai Adventure | 222534 | [222534-bokura-no-gakkou-sensou-tsuukai-adventure.json](./222534-bokura-no-gakkou-sensou-tsuukai-adventure.json) |
 | Bokura no Keshigomu Otoshi Shin Gakki | 208628 | [208628-bokura-no-keshigomu-otoshi-shin-gakki.json](./208628-bokura-no-keshigomu-otoshi-shin-gakki.json) |
 | Bokura no Keshigomu Otoshi Shingakki 3 | 247744 | [247744-bokura-no-keshigomu-otoshi-shingakki-3.json](./247744-bokura-no-keshigomu-otoshi-shingakki-3.json) |
