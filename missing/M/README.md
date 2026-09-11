@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mah-jongg Puzzle Pai-Sen | 124787 | [124787-mah-jongg-puzzle-pai-sen.json](./124787-mah-jongg-puzzle-pai-sen.json) |
 | Mahjick: The Realm Taker | 265129 | [265129-mahjick-the-realm-taker.json](./265129-mahjick-the-realm-taker.json) |
 | Mahjong | 90692 | [90692-mahjong.json](./90692-mahjong.json) |
+| Mahjong Cards - Play classic mahjong solitaire with playing cards | 102830 | [102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json](./102830-mahjong-cards-play-classic-mahjong-solitaire-with-playing-cards.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Connect Onet Puzzle | 215120 | [215120-mahjong-connect-onet-puzzle.json](./215120-mahjong-connect-onet-puzzle.json) |
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
@@ -1150,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazemerizzz II | 389997 | [389997-mazemerizzz-ii.json](./389997-mazemerizzz-ii.json) |
 | MazeQuest 2 | 109641 | [109641-mazequest-2.json](./109641-mazequest-2.json) |
 | Mazer Laser | 319341 | [319341-mazer-laser.json](./319341-mazer-laser.json) |
+| Mazes and Mages | 102721 | [102721-mazes-and-mages.json](./102721-mazes-and-mages.json) |
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
@@ -1208,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech_Romancer | 134590 | [134590-mech-romancer.json](./134590-mech-romancer.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
+| Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
 | Mecha's Negotiations | 363915 | [363915-mechas-negotiations.json](./363915-mechas-negotiations.json) |
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
@@ -3258,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Fucker Galaxy | 254523 | [254523-mother-fucker-galaxy.json](./254523-mother-fucker-galaxy.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
 | Mother May I | 291455 | [291455-mother-may-i.json](./291455-mother-may-i.json) |
+| Mother of All Battles | 102823 | [102823-mother-of-all-battles.json](./102823-mother-of-all-battles.json) |
 | Mother of All Battles! | 338001 | [338001-mother-of-all-battles.json](./338001-mother-of-all-battles.json) |
 | Mother of Myth | 19643 | [19643-mother-of-myth.json](./19643-mother-of-myth.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
@@ -3277,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motioning Monument | 314679 | [314679-motioning-monument.json](./314679-motioning-monument.json) |
 | Moto Championship 26 | 385089 | [385089-moto-championship-26.json](./385089-moto-championship-26.json) |
 | Moto GP: Ultimate racing technology | 8268 | [8268-moto-gp-ultimate-racing-technology.json](./8268-moto-gp-ultimate-racing-technology.json) |
+| Moto Mania Dirt Bike Challenge | 102829 | [102829-moto-mania-dirt-bike-challenge.json](./102829-moto-mania-dirt-bike-challenge.json) |
 | Moto Mouse Stunt Mania | 193475 | [193475-moto-mouse-stunt-mania.json](./193475-moto-mouse-stunt-mania.json) |
 | Moto Parkour | 293640 | [293640-moto-parkour.json](./293640-moto-parkour.json) |
 | Moto Race | 197888 | [197888-moto-race.json](./197888-moto-race.json) |
@@ -3395,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
 | Mr Anchry's Divine Intervention | 124271 | [124271-mr-anchrys-divine-intervention.json](./124271-mr-anchrys-divine-intervention.json) |
 | Mr Bea Boy Kart Dash Race | 247206 | [247206-mr-bea-boy-kart-dash-race.json](./247206-mr-bea-boy-kart-dash-race.json) |
+| Mr Burt | 102824 | [102824-mr-burt.json](./102824-mr-burt.json) |
 | Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
 | Mr Flippers Out For Vengeance | 278668 | [278668-mr-flippers-out-for-vengeance.json](./278668-mr-flippers-out-for-vengeance.json) |
 | Mr Giggle | 138201 | [138201-mr-giggle.json](./138201-mr-giggle.json) |
@@ -3522,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Maze 3D | 221380 | [221380-multi-maze-3d.json](./221380-multi-maze-3d.json) |
 | Multi Maze 3D: Complete Edition | 298574 | [298574-multi-maze-3d-complete-edition.json](./298574-multi-maze-3d-complete-edition.json) |
 | Multi Play Volleyball | 38363 | [38363-multi-play-volleyball.json](./38363-multi-play-volleyball.json) |
+| Multi Sandbox | 102751 | [102751-multi-sandbox.json](./102751-multi-sandbox.json) |
 | Multi Sports II | 301579 | [301579-multi-sports-ii.json](./301579-multi-sports-ii.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicrash! | 290712 | [290712-multicrash.json](./290712-multicrash.json) |
