@@ -2855,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
+| Psikyo Shooting Stars Bravo | 121652 | [121652-psikyo-shooting-stars-bravo.json](./121652-psikyo-shooting-stars-bravo.json) |
 | Psionic Sentry: Infinite | 276191 | [276191-psionic-sentry-infinite.json](./276191-psionic-sentry-infinite.json) |
 | PSXFunkin' | 279587 | [279587-psxfunkin.json](./279587-psxfunkin.json) |
 | Psy High 2: High Summer | 121702 | [121702-psy-high-2-high-summer.json](./121702-psy-high-2-high-summer.json) |
