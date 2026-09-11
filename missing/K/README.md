@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
 | Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
+| Kazu Corp: The Math Challenge | 107120 | [107120-kazu-corp-the-math-challenge.json](./107120-kazu-corp-the-math-challenge.json) |
 | Kazuma Kaneko's Tsukuyomi: Digital Deluxe Edition | 390532 | [390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json](./390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json) |
 | KC Returns! II | 208374 | [208374-kc-returns-ii.json](./208374-kc-returns-ii.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
