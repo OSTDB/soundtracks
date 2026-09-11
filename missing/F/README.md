@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Time In Paris: Collector's Edition | 209143 | [209143-first-time-in-paris-collectors-edition.json](./209143-first-time-in-paris-collectors-edition.json) |
 | First Time in Rome | 207323 | [207323-first-time-in-rome.json](./207323-first-time-in-rome.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
+| First, Breathe | 124751 | [124751-first-breathe.json](./124751-first-breathe.json) |
 | Fiscal Jesters | 176509 | [176509-fiscal-jesters.json](./176509-fiscal-jesters.json) |
 | Fish | 309869 | [309869-fish.json](./309869-fish.json) |
 | Fish | 314298 | [314298-fish.json](./314298-fish.json) |
