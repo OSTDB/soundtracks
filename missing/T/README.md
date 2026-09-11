@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Darkness | 247529 | [247529-temple-of-darkness.json](./247529-temple-of-darkness.json) |
 | Temple of Hue | 149533 | [149533-temple-of-hue.json](./149533-temple-of-hue.json) |
 | Temple of Lily | 304873 | [304873-temple-of-lily.json](./304873-temple-of-lily.json) |
+| Temple of Pizza | 113763 | [113763-temple-of-pizza.json](./113763-temple-of-pizza.json) |
 | Temple of Rubbo | 191913 | [191913-temple-of-rubbo.json](./191913-temple-of-rubbo.json) |
 | Temple of Sandur | 376454 | [376454-temple-of-sandur.json](./376454-temple-of-sandur.json) |
 | Temple of Spider | 316982 | [316982-temple-of-spider.json](./316982-temple-of-spider.json) |
@@ -1638,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dukes of Hazzard: Racing for Home | 144950 | [144950-the-dukes-of-hazzard-racing-for-home.json](./144950-the-dukes-of-hazzard-racing-for-home.json) |
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
 | The Dungeon Beneath | 139354 | [139354-the-dungeon-beneath.json](./139354-the-dungeon-beneath.json) |
+| The Dungeon Experience | 113668 | [113668-the-dungeon-experience.json](./113668-the-dungeon-experience.json) |
 | The Dungeon of Doom | 229374 | [229374-the-dungeon-of-doom.json](./229374-the-dungeon-of-doom.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition | 154540 | [154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json](./154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json) |
@@ -2747,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
+| The Pack | 113678 | [113678-the-pack.json](./113678-the-pack.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Panel DC | 119720 | [119720-the-panel-dc.json](./119720-the-panel-dc.json) |
@@ -3890,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust Legend | 158151 | [158151-thrust-legend.json](./158151-thrust-legend.json) |
 | Thrust Master Deluxe | 258220 | [258220-thrust-master-deluxe.json](./258220-thrust-master-deluxe.json) |
 | ThrustMe Too | 333373 | [333373-thrustme-too.json](./333373-thrustme-too.json) |
+| Thrusty Ship | 113660 | [113660-thrusty-ship.json](./113660-thrusty-ship.json) |
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
 | Thukothea Defender | 159855 | [159855-thukothea-defender.json](./159855-thukothea-defender.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
@@ -4414,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
+| Time of the Zombies | 113657 | [113657-time-of-the-zombies.json](./113657-time-of-the-zombies.json) |
 | Time on Frog Island: Prologue | 209641 | [209641-time-on-frog-island-prologue.json](./209641-time-on-frog-island-prologue.json) |
 | Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
