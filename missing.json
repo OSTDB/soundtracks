@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T12:18:30.831Z",
-  "total_missing": 57885,
+  "generated_at": "2026-09-11T12:21:01.606Z",
+  "total_missing": 57884,
   "games": [
     {
       "igdb_id": 306086,
@@ -2151,11 +2151,6 @@
       "igdb_id": 293082,
       "game_name": "A Living Room",
       "file": "missing/A/293082-a-living-room.json"
-    },
-    {
-      "igdb_id": 235979,
-      "game_name": "A Lone Piece",
-      "file": "missing/A/235979-a-lone-piece.json"
     },
     {
       "igdb_id": 237065,
