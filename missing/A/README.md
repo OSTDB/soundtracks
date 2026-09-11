@@ -27,7 +27,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
-| A Day in the Office | 176500 | [176500-a-day-in-the-office.json](./176500-a-day-in-the-office.json) |
 | A Day in the Park | 167225 | [167225-a-day-in-the-park.json](./167225-a-day-in-the-park.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day to Bring Them Happiness | 314042 | [314042-a-day-to-bring-them-happiness.json](./314042-a-day-to-bring-them-happiness.json) |
@@ -1652,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy's American Page One | 261277 | [261277-amys-american-page-one.json](./261277-amys-american-page-one.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
+| An Afternoon Rippling | 122337 | [122337-an-afternoon-rippling.json](./122337-an-afternoon-rippling.json) |
 | An Alien with a Magnet HD | 90682 | [90682-an-alien-with-a-magnet-hd.json](./90682-an-alien-with-a-magnet-hd.json) |
 | An Alt Girl for Skoof | 298835 | [298835-an-alt-girl-for-skoof.json](./298835-an-alt-girl-for-skoof.json) |
 | An Altered State | 400881 | [400881-an-altered-state.json](./400881-an-altered-state.json) |
