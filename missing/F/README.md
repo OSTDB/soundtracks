@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
 | Flip Tale | 133381 | [133381-flip-tale.json](./133381-flip-tale.json) |
+| Flip Trickster | 89215 | [89215-flip-trickster.json](./89215-flip-trickster.json) |
 | Flip Trickster: Parkour Simulator | 96708 | [96708-flip-trickster-parkour-simulator.json](./96708-flip-trickster-parkour-simulator.json) |
 | Flip Words | 77381 | [77381-flip-words.json](./77381-flip-words.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
