@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeter | 205067 | [205067-teeter.json](./205067-teeter.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
+| Tehodoki Koukan: Gibo & Tomohaha Harem-Hen | 91374 | [91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json](./91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json) |
 | Teikoku Kaigun Koibojou: Meiji Yokosuka Koushinkyoku | 136433 | [136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json](./136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json) |
 | Teikoku Kareido -Kakumei no Rondo- | 136434 | [136434-teikoku-kareido-kakumei-no-rondo.json](./136434-teikoku-kareido-kakumei-no-rondo.json) |
 | Teikoku Sensenki | 204483 | [204483-teikoku-sensenki.json](./204483-teikoku-sensenki.json) |
@@ -1135,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Armardisp | 260376 | [260376-the-armardisp.json](./260376-the-armardisp.json) |
 | The Arrogant Kaiju Princess and The Detective Servant | 267060 | [267060-the-arrogant-kaiju-princess-and-the-detective-servant.json](./267060-the-arrogant-kaiju-princess-and-the-detective-servant.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
+| The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
 | The Ascot | 298061 | [298061-the-ascot.json](./298061-the-ascot.json) |
@@ -1518,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cult: Marduk's Longest Night | 121742 | [121742-the-cult-marduks-longest-night.json](./121742-the-cult-marduks-longest-night.json) |
 | The Curator | 137668 | [137668-the-curator.json](./137668-the-curator.json) |
 | The Cure | 184647 | [184647-the-cure.json](./184647-the-cure.json) |
+| The Curio Society: New Order HD | 91336 | [91336-the-curio-society-new-order-hd.json](./91336-the-curio-society-new-order-hd.json) |
 | The Curiosity | 311801 | [311801-the-curiosity.json](./311801-the-curiosity.json) |
 | The Curse of Aristotle | 251241 | [251241-the-curse-of-aristotle.json](./251241-the-curse-of-aristotle.json) |
 | The Curse of Azriel | 317821 | [317821-the-curse-of-azriel.json](./317821-the-curse-of-azriel.json) |
@@ -2950,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Moon | 105320 | [105320-the-red-moon.json](./105320-the-red-moon.json) |
 | The Red One: Occultation | 408734 | [408734-the-red-one-occultation.json](./408734-the-red-one-occultation.json) |
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
+| The Red Square | 91344 | [91344-the-red-square.json](./91344-the-red-square.json) |
 | The Red Sun | 252396 | [252396-the-red-sun.json](./252396-the-red-sun.json) |
 | The Red Sun Sets Over the Fields of Grain | 237618 | [237618-the-red-sun-sets-over-the-fields-of-grain.json](./237618-the-red-sun-sets-over-the-fields-of-grain.json) |
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
@@ -6312,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
+| Twister | 91394 | [91394-twister.json](./91394-twister.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
 | Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
 | Twisty Arrow! | 100880 | [100880-twisty-arrow.json](./100880-twisty-arrow.json) |
