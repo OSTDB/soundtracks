@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleido Stella | 113745 | [113745-kaleido-stella.json](./113745-kaleido-stella.json) |
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
 | Kaleidoscope of Phantasm Prison 2 | 320772 | [320772-kaleidoscope-of-phantasm-prison-2.json](./320772-kaleidoscope-of-phantasm-prison-2.json) |
+| Kaleidoscope of Phantasm Prison: Limited Edition | 121611 | [121611-kaleidoscope-of-phantasm-prison-limited-edition.json](./121611-kaleidoscope-of-phantasm-prison-limited-edition.json) |
 | Kaleidoscope: 7 Man Kounen no Houshi-tachi | 66149 | [66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json](./66149-kaleidoscope-7-man-kounen-no-houshi-tachi.json) |
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
 | Kalia | 334138 | [334138-kalia.json](./334138-kalia.json) |
