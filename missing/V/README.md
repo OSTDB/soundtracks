@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
+| Video Strip Poker HD | 109636 | [109636-video-strip-poker-hd.json](./109636-video-strip-poker-hd.json) |
 | Video Time Machine | 40770 | [40770-video-time-machine.json](./40770-video-time-machine.json) |
 | Video's Revenge | 178065 | [178065-videos-revenge.json](./178065-videos-revenge.json) |
 | Videoclub Simulator | 339093 | [339093-videoclub-simulator.json](./339093-videoclub-simulator.json) |
