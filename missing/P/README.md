@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payout: Shop Simulator | 309336 | [309336-payout-shop-simulator.json](./309336-payout-shop-simulator.json) |
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
+| PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
 | PButtons | 356640 | [356640-pbuttons.json](./356640-pbuttons.json) |
 | PC Building Simulator: Deadstick Case | 124783 | [124783-pc-building-simulator-deadstick-case.json](./124783-pc-building-simulator-deadstick-case.json) |
@@ -3293,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrami Head | 250967 | [250967-pyrami-head.json](./250967-pyrami-head.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
+| Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
 | Pyramid Plunder | 105399 | [105399-pyramid-plunder.json](./105399-pyramid-plunder.json) |
 | Pyramid Power | 71535 | [71535-pyramid-power.json](./71535-pyramid-power.json) |
 | Pyramid Solitaire Cards | 87315 | [87315-pyramid-solitaire-cards.json](./87315-pyramid-solitaire-cards.json) |
