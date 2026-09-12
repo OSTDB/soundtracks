@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ketsugou Danshi: Elements with Emotions - Zenshi Konkan Pack | 260691 | [260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json](./260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json) |
 | Ketsui: Kizuna Jigoku Tachi Extra | 79853 | [79853-ketsui-kizuna-jigoku-tachi-extra.json](./79853-ketsui-kizuna-jigoku-tachi-extra.json) |
 | Ketsui: Kizuna Jigoku-tachi | 214717 | [214717-ketsui-kizuna-jigoku-tachi.json](./214717-ketsui-kizuna-jigoku-tachi.json) |
+| Kevin Keegan's Player Manager | 42618 | [42618-kevin-keegans-player-manager.json](./42618-kevin-keegans-player-manager.json) |
 | Kevin's Playing In Berlin | 383397 | [383397-kevins-playing-in-berlin.json](./383397-kevins-playing-in-berlin.json) |
 | Kevtris | 68719 | [68719-kevtris.json](./68719-kevtris.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
