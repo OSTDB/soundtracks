@@ -200,7 +200,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
-| Abyss: The Wraiths of Eden | 17136 | [17136-abyss-the-wraiths-of-eden.json](./17136-abyss-the-wraiths-of-eden.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
