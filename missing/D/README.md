@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
 | Dead or Alive 2 Ultimate | 47302 | [47302-dead-or-alive-2-ultimate.json](./47302-dead-or-alive-2-ultimate.json) |
+| Dead or Alive 2: Hardcore | 77986 | [77986-dead-or-alive-2-hardcore.json](./77986-dead-or-alive-2-hardcore.json) |
 | Dead or Alive 3++ | 182485 | [182485-dead-or-alive-3.json](./182485-dead-or-alive-3.json) |
 | Dead or Alive 5 Last Round: Core Fighters - Samurai Warriors Mashup Set | 225905 | [225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json](./225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json) |
 | Dead or Alive 5: Last Round - Character: Mai Shiranui | 246628 | [246628-dead-or-alive-5-last-round-character-mai-shiranui.json](./246628-dead-or-alive-5-last-round-character-mai-shiranui.json) |
@@ -1733,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
 | Dinosaurs: Mission Dino Camp | 252172 | [252172-dinosaurs-mission-dino-camp.json](./252172-dinosaurs-mission-dino-camp.json) |
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
+| DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinovaporate | 256562 | [256562-dinovaporate.json](./256562-dinovaporate.json) |
 | DinoVR | 114981 | [114981-dinovr.json](./114981-dinovr.json) |
@@ -1863,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Aladdin | 2473 | [2473-disneys-aladdin.json](./2473-disneys-aladdin.json) |
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
 | Disney's American Dragon Jake Long: Rise of the Huntsclan! | 49410 | [49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json](./49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json) |
+| Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
 | Disney's Brother Bear | 248637 | [248637-disneys-brother-bear.json](./248637-disneys-brother-bear.json) |
 | Disney's Chip 'n Dale Rescue Rangers: The Adventure in Nimnul's Castle | 78641 | [78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json](./78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json) |
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
@@ -2052,8 +2055,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDodge2020 | 209674 | [209674-dododge2020.json](./209674-dododge2020.json) |
 | DodoGo! | 66709 | [66709-dodogo.json](./66709-dodogo.json) |
 | DoDonPachi Dai-Ou-Jou V101 | 84158 | [84158-dodonpachi-dai-ou-jou-v101.json](./84158-dodonpachi-dai-ou-jou-v101.json) |
+| DoDonPachi Daifukkatsu Black Label | 77997 | [77997-dodonpachi-daifukkatsu-black-label.json](./77997-dodonpachi-daifukkatsu-black-label.json) |
 | DoDonPachi DaiFukkatsu Ver 1.5 | 84160 | [84160-dodonpachi-daifukkatsu-ver-1-5.json](./84160-dodonpachi-daifukkatsu-ver-1-5.json) |
 | DoDonPachi DaiOuJou DX | 214719 | [214719-dodonpachi-daioujou-dx.json](./214719-dodonpachi-daioujou-dx.json) |
+| DoDonPachi DaiOuJou: Black Label Extra | 77998 | [77998-dodonpachi-daioujou-black-label-extra.json](./77998-dodonpachi-daioujou-black-label-extra.json) |
+| DoDonPachi Maximum | 77999 | [77999-dodonpachi-maximum.json](./77999-dodonpachi-maximum.json) |
 | DoDonPachi Resurrection | 152402 | [152402-dodonpachi-resurrection.json](./152402-dodonpachi-resurrection.json) |
 | DoDonPachi Resurrection: Deluxe Edition | 22933 | [22933-dodonpachi-resurrection-deluxe-edition.json](./22933-dodonpachi-resurrection-deluxe-edition.json) |
 | Does It Shoot? | 88174 | [88174-does-it-shoot.json](./88174-does-it-shoot.json) |
@@ -2281,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 84555 | [84555-donkey-kong-jr.json](./84555-donkey-kong-jr.json) |
+| Donkey Kong Jr. + Jr. Sansuu Lesson | 77964 | [77964-donkey-kong-jr-jr-sansuu-lesson.json](./77964-donkey-kong-jr-jr-sansuu-lesson.json) |
 | Donkey Kong Jr.-e | 170008 | [170008-donkey-kong-jr-e.json](./170008-donkey-kong-jr-e.json) |
 | Donkey Kong Junior | 192910 | [192910-donkey-kong-junior.json](./192910-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192911 | [192911-donkey-kong-junior.json](./192911-donkey-kong-junior.json) |
