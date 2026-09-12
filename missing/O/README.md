@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddsparks: An Automation Adventure - Deluxe Edition | 403586 | [403586-oddsparks-an-automation-adventure-deluxe-edition.json](./403586-oddsparks-an-automation-adventure-deluxe-edition.json) |
 | Oddsparks: An Automation Adventure - Deluxe Upgrade | 403587 | [403587-oddsparks-an-automation-adventure-deluxe-upgrade.json](./403587-oddsparks-an-automation-adventure-deluxe-upgrade.json) |
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
+| Oddworld Adventures 2 | 49865 | [49865-oddworld-adventures-2.json](./49865-oddworld-adventures-2.json) |
 | Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
 | Oddworld: Munch's Oddysee | 134025 | [134025-oddworld-munchs-oddysee.json](./134025-oddworld-munchs-oddysee.json) |
 | Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
