@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seblen: Battle! | 169391 | [169391-seblen-battle.json](./169391-seblen-battle.json) |
 | Second Chance | 111668 | [111668-second-chance.json](./111668-second-chance.json) |
 | Second Chance | 182971 | [182971-second-chance.json](./182971-second-chance.json) |
+| Second Coming: Tactical Training | 35641 | [35641-second-coming-tactical-training.json](./35641-second-coming-tactical-training.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
 | Second Novel: Kanojo no Natsu, 15fun no Kioku | 138805 | [138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json](./138805-second-novel-kanojo-no-natsu-15fun-no-kioku.json) |
 | Second Person: Secret Laboratory | 158657 | [158657-second-person-secret-laboratory.json](./158657-second-person-secret-laboratory.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
 | Slingshot: The Bump Challenge | 108470 | [108470-slingshot-the-bump-challenge.json](./108470-slingshot-the-bump-challenge.json) |
 | Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
+| Slinki | 35633 | [35633-slinki.json](./35633-slinki.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
 | Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
@@ -3020,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snailiad | 118309 | [118309-snailiad.json](./118309-snailiad.json) |
 | SnailQuest | 207306 | [207306-snailquest.json](./207306-snailquest.json) |
 | Snails | 299126 | [299126-snails.json](./299126-snails.json) |
+| Snails | 35694 | [35694-snails.json](./35694-snails.json) |
 | Snails vs. Humans | 326076 | [326076-snails-vs-humans.json](./326076-snails-vs-humans.json) |
 | Snake | 100202 | [100202-snake.json](./100202-snake.json) |
 | Snake | 170467 | [170467-snake.json](./170467-snake.json) |
@@ -3264,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Goal Run | 329577 | [329577-soccer-goal-run.json](./329577-soccer-goal-run.json) |
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
+| Soccer Manager 2015 | 35594 | [35594-soccer-manager-2015.json](./35594-soccer-manager-2015.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
@@ -4412,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
+| Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
 | SpellBlast | 58837 | [58837-spellblast.json](./58837-spellblast.json) |
 | Spellbound | 179683 | [179683-spellbound.json](./179683-spellbound.json) |
@@ -4760,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
 | Sprunki Block Puzzle | 326982 | [326982-sprunki-block-puzzle.json](./326982-sprunki-block-puzzle.json) |
 | Spud Customs | 324090 | [324090-spud-customs.json](./324090-spud-customs.json) |
+| Spud! | 35649 | [35649-spud.json](./35649-spud.json) |
 | Spuds | 54421 | [54421-spuds.json](./54421-spuds.json) |
 | Spunk and Moxie | 25041 | [25041-spunk-and-moxie.json](./25041-spunk-and-moxie.json) |
 | Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
