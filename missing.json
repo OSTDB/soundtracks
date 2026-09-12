@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T16:49:03.165Z",
-  "total_missing": 62642,
+  "generated_at": "2026-09-12T16:51:30.160Z",
+  "total_missing": 62641,
   "games": [
     {
       "igdb_id": 306086,
@@ -3036,11 +3036,6 @@
       "igdb_id": 52555,
       "game_name": "Absolver: Deluxe Edition",
       "file": "missing/A/52555-absolver-deluxe-edition.json"
-    },
-    {
-      "igdb_id": 74318,
-      "game_name": "Absolver: Special Reserve edition",
-      "file": "missing/A/74318-absolver-special-reserve-edition.json"
     },
     {
       "igdb_id": 52554,
