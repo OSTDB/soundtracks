@@ -7,6 +7,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | L for Logic | 259235 | [259235-l-for-logic.json](./259235-l-for-logic.json) |
+| L no Kisetsu 2: Invisible Memories | 62174 | [62174-l-no-kisetsu-2-invisible-memories.json](./62174-l-no-kisetsu-2-invisible-memories.json) |
+| L no Kisetsu: A Piece of Memories | 62175 | [62175-l-no-kisetsu-a-piece-of-memories.json](./62175-l-no-kisetsu-a-piece-of-memories.json) |
+| L no Kisetsu: W Pocket | 62173 | [62173-l-no-kisetsu-w-pocket.json](./62173-l-no-kisetsu-w-pocket.json) |
 | L the Prologue to Death Note -Spiraling Trap- | 22390 | [22390-l-the-prologue-to-death-note-spiraling-trap.json](./22390-l-the-prologue-to-death-note-spiraling-trap.json) |
 | L-Room | 262936 | [262936-l-room.json](./262936-l-room.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
