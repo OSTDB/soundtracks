@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Jam 1 | 271217 | [271217-retro-jam-1.json](./271217-retro-jam-1.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
+| Retro Revolution 2 | 63230 | [63230-retro-revolution-2.json](./63230-retro-revolution-2.json) |
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
