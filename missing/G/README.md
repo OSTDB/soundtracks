@@ -659,6 +659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | Get it Hard | 215935 | [215935-get-it-hard.json](./215935-get-it-hard.json) |
 | Get Me Outta Here: Deluxe/Remastered Edition | 126574 | [126574-get-me-outta-here-deluxe-remastered-edition.json](./126574-get-me-outta-here-deluxe-remastered-edition.json) |
+| Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
 | Get Order! | 274465 | [274465-get-order.json](./274465-get-order.json) |
 | Get Out | 287099 | [287099-get-out.json](./287099-get-out.json) |
 | Get Out | 395537 | [395537-get-out.json](./395537-get-out.json) |
@@ -1125,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Connect | 310203 | [310203-goddess-connect.json](./310203-goddess-connect.json) |
 | Goddess Detective 2 | 255125 | [255125-goddess-detective-2.json](./255125-goddess-detective-2.json) |
 | Goddess Detective 3 | 269001 | [269001-goddess-detective-3.json](./269001-goddess-detective-3.json) |
+| Goddess Kiss | 57066 | [57066-goddess-kiss.json](./57066-goddess-kiss.json) |
 | Goddess Of Swing | 329353 | [329353-goddess-of-swing.json](./329353-goddess-of-swing.json) |
 | Goddess of War Essa | 195179 | [195179-goddess-of-war-essa.json](./195179-goddess-of-war-essa.json) |
 | Goddess Scroll: Brave Star | 396211 | [396211-goddess-scroll-brave-star.json](./396211-goddess-scroll-brave-star.json) |
@@ -1756,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Reaper RPG | 134617 | [134617-grim-reaper-rpg.json](./134617-grim-reaper-rpg.json) |
 | Grim Repair | 176986 | [176986-grim-repair.json](./176986-grim-repair.json) |
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
+| Grim Tales 5: Bloody Mary | 57071 | [57071-grim-tales-5-bloody-mary.json](./57071-grim-tales-5-bloody-mary.json) |
 | Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
 | Grim Tales: Echo of the Past | 188002 | [188002-grim-tales-echo-of-the-past.json](./188002-grim-tales-echo-of-the-past.json) |
