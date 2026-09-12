@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
 | Daichikun Crisis: Do Natural | 42029 | [42029-daichikun-crisis-do-natural.json](./42029-daichikun-crisis-do-natural.json) |
+| Daigasso! Band Brothers Request Selection | 69240 | [69240-daigasso-band-brothers-request-selection.json](./69240-daigasso-band-brothers-request-selection.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
 | Daikoukai Jidai V | 56530 | [56530-daikoukai-jidai-v.json](./56530-daikoukai-jidai-v.json) |
 | Daiku no Gen-san: Kachi-kachi no Tonkachi ga Kachi | 50563 | [50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json](./50563-daiku-no-gen-san-kachi-kachi-no-tonkachi-ga-kachi.json) |
@@ -1914,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Treasure Planet: Broadside Blast | 213035 | [213035-disneys-treasure-planet-broadside-blast.json](./213035-disneys-treasure-planet-broadside-blast.json) |
 | Disney's Treasure Planet: Etherium Rescue | 213037 | [213037-disneys-treasure-planet-etherium-rescue.json](./213037-disneys-treasure-planet-etherium-rescue.json) |
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
+| Disney's Winnie the Pooh Preschool | 69231 | [69231-disneys-winnie-the-pooh-preschool.json](./69231-disneys-winnie-the-pooh-preschool.json) |
 | Disney's Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 | 82097 | [82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json](./82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json) |
 | Disobedient Sheep | 115623 | [115623-disobedient-sheep.json](./115623-disobedient-sheep.json) |
 | Disonante | 118432 | [118432-disonante.json](./118432-disonante.json) |
@@ -3240,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Forever 2013 | 153446 | [153446-duke-nukem-forever-2013.json](./153446-duke-nukem-forever-2013.json) |
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
+| Duke Nukem Trilogy: Proving Grounds | 69263 | [69263-duke-nukem-trilogy-proving-grounds.json](./69263-duke-nukem-trilogy-proving-grounds.json) |
 | Duke Nukem Xmas 2014 | 291979 | [291979-duke-nukem-xmas-2014.json](./291979-duke-nukem-xmas-2014.json) |
 | Duke Nukem's Penthouse Paradise | 218117 | [218117-duke-nukems-penthouse-paradise.json](./218117-duke-nukems-penthouse-paradise.json) |
 | Duke Tournament | 308260 | [308260-duke-tournament.json](./308260-duke-tournament.json) |
