@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
 | Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
+| Game de Hakken!! Tamagotchi: Osutchi & Mesutchi | 69250 | [69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json](./69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json) |
 | Game Dev Fantasy | 245877 | [245877-game-dev-fantasy.json](./245877-game-dev-fantasy.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
 | Game Dev Story 2 | 91915 | [91915-game-dev-story-2.json](./91915-game-dev-story-2.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangstar New York | 211210 | [211210-gangstar-new-york.json](./211210-gangstar-new-york.json) |
 | Gangstar: Miami Vindication | 152331 | [152331-gangstar-miami-vindication.json](./152331-gangstar-miami-vindication.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
+| Gangsters | 69233 | [69233-gangsters.json](./69233-gangsters.json) |
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
 | Gantz: The Game | 78046 | [78046-gantz-the-game.json](./78046-gantz-the-game.json) |
 | Ganz Schön Clever | 105957 | [105957-ganz-schon-clever.json](./105957-ganz-schon-clever.json) |
