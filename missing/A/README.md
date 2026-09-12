@@ -139,7 +139,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
-| Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
 | Aarik: and the Ruined Kingdom | 276707 | [276707-aarik-and-the-ruined-kingdom.json](./276707-aarik-and-the-ruined-kingdom.json) |
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
@@ -803,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agelast | 223484 | [223484-agelast.json](./223484-agelast.json) |
 | Agency 13 | 357800 | [357800-agency-13.json](./357800-agency-13.json) |
 | Agent 9 | 113742 | [113742-agent-9.json](./113742-agent-9.json) |
+| Agent Angels | 63274 | [63274-agent-angels.json](./63274-agent-angels.json) |
 | Agent B0rk | 27914 | [27914-agent-b0rk.json](./27914-agent-b0rk.json) |
 | Agent Bob | 357799 | [357799-agent-bob.json](./357799-agent-bob.json) |
 | Agent Brain: Tricky Puzzles | 293079 | [293079-agent-brain-tricky-puzzles.json](./293079-agent-brain-tricky-puzzles.json) |
