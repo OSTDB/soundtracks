@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Tyria | 135808 | [135808-tales-of-tyria.json](./135808-tales-of-tyria.json) |
 | Tales Of Wedding Rings VR | 110075 | [110075-tales-of-wedding-rings-vr.json](./110075-tales-of-wedding-rings-vr.json) |
 | Tales of Wild | 152376 | [152376-tales-of-wild.json](./152376-tales-of-wild.json) |
+| Tales of Windy Land | 66046 | [66046-tales-of-windy-land.json](./66046-tales-of-windy-land.json) |
 | Tales of Xillia Remastered: Super Growth Support Herb Set | 375173 | [375173-tales-of-xillia-remastered-super-growth-support-herb-set.json](./375173-tales-of-xillia-remastered-super-growth-support-herb-set.json) |
 | Tales to Enjoy! Little Red Riding Hood | 85428 | [85428-tales-to-enjoy-little-red-riding-hood.json](./85428-tales-to-enjoy-little-red-riding-hood.json) |
 | Tales to Enjoy! Puss In Boots | 85427 | [85427-tales-to-enjoy-puss-in-boots.json](./85427-tales-to-enjoy-puss-in-boots.json) |
@@ -520,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Radiation | 66156 | [66156-tap-tap-radiation.json](./66156-tap-tap-radiation.json) |
 | Tap Tap Reloaded | 280223 | [280223-tap-tap-reloaded.json](./280223-tap-tap-reloaded.json) |
 | Tap Tap Revenge 3 | 67263 | [67263-tap-tap-revenge-3.json](./67263-tap-tap-revenge-3.json) |
+| Tap Tap Revenge: Metallica | 66049 | [66049-tap-tap-revenge-metallica.json](./66049-tap-tap-revenge-metallica.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | Tap to Build | 245337 | [245337-tap-to-build.json](./245337-tap-to-build.json) |
@@ -533,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapeworm Disco Puzzle | 153952 | [153952-tapeworm-disco-puzzle.json](./153952-tapeworm-disco-puzzle.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
+| Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappy Dig: Virtual Pet Fox Game | 265423 | [265423-tappy-dig-virtual-pet-fox-game.json](./265423-tappy-dig-virtual-pet-fox-game.json) |
 | Tappy Golf | 264905 | [264905-tappy-golf.json](./264905-tappy-golf.json) |
@@ -639,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
 | Team 47 GoMan | 180229 | [180229-team-47-goman.json](./180229-team-47-goman.json) |
+| Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
@@ -4662,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Avarice | 295267 | [295267-time-avarice.json](./295267-time-avarice.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Crisis | 389440 | [389440-time-crisis.json](./389440-time-crisis.json) |
+| Time Cruise | 66089 | [66089-time-cruise.json](./66089-time-cruise.json) |
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
@@ -5220,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torii Path | 112932 | [112932-torii-path.json](./112932-torii-path.json) |
 | Torikago no Marriage | 202818 | [202818-torikago-no-marriage.json](./202818-torikago-no-marriage.json) |
 | Toriko: Gourmet Monsters! | 79277 | [79277-toriko-gourmet-monsters.json](./79277-toriko-gourmet-monsters.json) |
+| Toriko: Gourmet Survival | 66080 | [66080-toriko-gourmet-survival.json](./66080-toriko-gourmet-survival.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
@@ -5935,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
 | Trapped Within | 28918 | [28918-trapped-within.json](./28918-trapped-within.json) |
+| Trapped: The Abduction | 66096 | [66096-trapped-the-abduction.json](./66096-trapped-the-abduction.json) |
 | Trapper Simulator | 122369 | [122369-trapper-simulator.json](./122369-trapper-simulator.json) |
 | Trapper's Delight | 32701 | [32701-trappers-delight.json](./32701-trappers-delight.json) |
 | Trappuzzler | 158173 | [158173-trappuzzler.json](./158173-trappuzzler.json) |
