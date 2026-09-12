@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T20:33:55.891Z",
-  "total_missing": 63261,
+  "generated_at": "2026-09-12T20:41:36.305Z",
+  "total_missing": 63260,
   "games": [
     {
       "igdb_id": 306086,
@@ -3151,11 +3151,6 @@
       "igdb_id": 52553,
       "game_name": "Abzu: Deluxe Edition",
       "file": "missing/A/52553-abzu-deluxe-edition.json"
-    },
-    {
-      "igdb_id": 216779,
-      "game_name": "AC-130 Gunship Operator",
-      "file": "missing/A/216779-ac-130-gunship-operator.json"
     },
     {
       "igdb_id": 6467,
