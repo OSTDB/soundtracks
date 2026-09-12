@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
 | Youko to Anata | 66056 | [66056-youko-to-anata.json](./66056-youko-to-anata.json) |
 | Yōulì: Yasashii Lìxiǎn | 394186 | [394186-youli-yasashii-lixian.json](./394186-youli-yasashii-lixian.json) |
+| Youmais | 64341 | [64341-youmais.json](./64341-youmais.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
 | Young Dilbert Hi-Tech Hijinks | 70332 | [70332-young-dilbert-hi-tech-hijinks.json](./70332-young-dilbert-hi-tech-hijinks.json) |
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
