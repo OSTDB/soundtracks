@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
 | Way of Heroes | 159839 | [159839-way-of-heroes.json](./159839-way-of-heroes.json) |
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
+| Way of Redemption | 58744 | [58744-way-of-redemption.json](./58744-way-of-redemption.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
 | Way of the Red | 25963 | [25963-way-of-the-red.json](./25963-way-of-the-red.json) |
 | Way of the Samurai Portable 2 | 59371 | [59371-way-of-the-samurai-portable-2.json](./59371-way-of-the-samurai-portable-2.json) |
