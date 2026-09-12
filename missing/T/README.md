@@ -5349,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tournament of Tamers | 157168 | [157168-tournament-of-tamers.json](./157168-tournament-of-tamers.json) |
 | Tournament Tower | 273412 | [273412-tournament-tower.json](./273412-tournament-tower.json) |
 | Tournament: Blood & Steel | 119051 | [119051-tournament-blood-and-steel.json](./119051-tournament-blood-and-steel.json) |
+| Touryuu Densetsu: Elan Doree | 77295 | [77295-touryuu-densetsu-elan-doree.json](./77295-touryuu-densetsu-elan-doree.json) |
 | Toushin Toshi Girls Gift RPG | 175943 | [175943-toushin-toshi-girls-gift-rpg.json](./175943-toushin-toshi-girls-gift-rpg.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
@@ -5449,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Story | 220099 | [220099-toy-story.json](./220099-toy-story.json) |
 | Toy Story 2: Buzz Lightyear to the Rescue! | 305791 | [305791-toy-story-2-buzz-lightyear-to-the-rescue.json](./305791-toy-story-2-buzz-lightyear-to-the-rescue.json) |
+| Toy Story 2: Operation Rescue Woody | 77330 | [77330-toy-story-2-operation-rescue-woody.json](./77330-toy-story-2-operation-rescue-woody.json) |
 | Toy Story 2: Woody Sousaku Daisakusen!! | 58850 | [58850-toy-story-2-woody-sousaku-daisakusen.json](./58850-toy-story-2-woody-sousaku-daisakusen.json) |
 | Toy Story 3 | 230554 | [230554-toy-story-3.json](./230554-toy-story-3.json) |
 | Toy Story Activity Center | 79896 | [79896-toy-story-activity-center.json](./79896-toy-story-activity-center.json) |
