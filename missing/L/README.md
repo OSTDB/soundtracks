@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Spanish! Easy Vocabulary | 371919 | [371919-learn-spanish-easy-vocabulary.json](./371919-learn-spanish-easy-vocabulary.json) |
 | Learn the Letters | 242554 | [242554-learn-the-letters.json](./242554-learn-the-letters.json) |
 | Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
+| Learn to Play Chess with Fritz and Chesster 2: Chess in the Black Castle | 77972 | [77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json](./77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json) |
 | Learn to Play Vol. 3: Mice Love Cheese | 305786 | [305786-learn-to-play-vol-3-mice-love-cheese.json](./305786-learn-to-play-vol-3-mice-love-cheese.json) |
 | Learning Ladder: Years 1 & 2 | 326983 | [326983-learning-ladder-years-1-and-2.json](./326983-learning-ladder-years-1-and-2.json) |
 | Learning Life: Mysteeri 24/7 | 193434 | [193434-learning-life-mysteeri-24-7.json](./193434-learning-life-mysteeri-24-7.json) |
@@ -1058,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link: The Unleashed Nexus - Restructured Heaven | 151756 | [151756-link-the-unleashed-nexus-restructured-heaven.json](./151756-link-the-unleashed-nexus-restructured-heaven.json) |
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
 | Linkin Hero | 234620 | [234620-linkin-hero.json](./234620-linkin-hero.json) |
+| Linkin Park Revenge | 77965 | [77965-linkin-park-revenge.json](./77965-linkin-park-revenge.json) |
 | Linkrealms | 34467 | [34467-linkrealms.json](./34467-linkrealms.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
