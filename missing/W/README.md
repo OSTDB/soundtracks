@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Rush | 413007 | [413007-warp-rush.json](./413007-warp-rush.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
 | Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
+| Warpath 97 | 77306 | [77306-warpath-97.json](./77306-warpath-97.json) |
 | Warpath Ace Shooter | 172683 | [172683-warpath-ace-shooter.json](./172683-warpath-ace-shooter.json) |
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarpBall | 34482 | [34482-warpball.json](./34482-warpball.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
 | Wing Breakers | 180305 | [180305-wing-breakers.json](./180305-wing-breakers.json) |
 | Wing Chun: Pak Sung Bo Legends | 165702 | [165702-wing-chun-pak-sung-bo-legends.json](./165702-wing-chun-pak-sung-bo-legends.json) |
+| Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
 | Wing Commander: Armada | 8824 | [8824-wing-commander-armada.json](./8824-wing-commander-armada.json) |
 | Wing Commander: Privateer | 794 | [794-wing-commander-privateer.json](./794-wing-commander-privateer.json) |
 | Wing Commander: Prophecy | 935 | [935-wing-commander-prophecy.json](./935-wing-commander-prophecy.json) |
@@ -1326,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein 3D: Second Encounter | 306961 | [306961-wolfenstein-3d-second-encounter.json](./306961-wolfenstein-3d-second-encounter.json) |
 | Wolfenstein 3D: Third Encounter | 306963 | [306963-wolfenstein-3d-third-encounter.json](./306963-wolfenstein-3d-third-encounter.json) |
 | Wolfenstein II: The Freedom Chronicles - Season Pass | 75847 | [75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json](./75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json) |
+| Wolfenstein VCS: The Next Mission | 77284 | [77284-wolfenstein-vcs-the-next-mission.json](./77284-wolfenstein-vcs-the-next-mission.json) |
 | Wolfenstein X: Hearts of Liberty | 143081 | [143081-wolfenstein-x-hearts-of-liberty.json](./143081-wolfenstein-x-hearts-of-liberty.json) |
 | Wolfenstein: Alt History Collection | 139958 | [139958-wolfenstein-alt-history-collection.json](./139958-wolfenstein-alt-history-collection.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
@@ -1615,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer Strikers '91 | 139423 | [139423-world-soccer-strikers-91.json](./139423-world-soccer-strikers-91.json) |
 | World Soccer: Winning Eleven | 68693 | [68693-world-soccer-winning-eleven.json](./68693-world-soccer-winning-eleven.json) |
 | World Soccer: Winning Eleven 2010 - Arcade Championship | 64960 | [64960-world-soccer-winning-eleven-2010-arcade-championship.json](./64960-world-soccer-winning-eleven-2010-arcade-championship.json) |
+| World Soccer: Winning Eleven 7 | 77321 | [77321-world-soccer-winning-eleven-7.json](./77321-world-soccer-winning-eleven-7.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
 | World Sweeper | 415917 | [415917-world-sweeper.json](./415917-world-sweeper.json) |
 | World to the West | 27518 | [27518-world-to-the-west.json](./27518-world-to-the-west.json) |
