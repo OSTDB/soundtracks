@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
 | Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
 | Metal Mission 2015: Dino Island | 259567 | [259567-metal-mission-2015-dino-island.json](./259567-metal-mission-2015-dino-island.json) |
+| Metal Morph | 42556 | [42556-metal-morph.json](./42556-metal-morph.json) |
 | Metal Mutation | 194077 | [194077-metal-mutation.json](./194077-metal-mutation.json) |
 | Metal Pear | 302703 | [302703-metal-pear.json](./302703-metal-pear.json) |
 | Metal Queen Dungeon | 304601 | [304601-metal-queen-dungeon.json](./304601-metal-queen-dungeon.json) |
