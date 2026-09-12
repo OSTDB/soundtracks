@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestie Walzer | 98435 | [98435-bestie-walzer.json](./98435-bestie-walzer.json) |
 | Bestowers of Eternity | 73763 | [73763-bestowers-of-eternity.json](./73763-bestowers-of-eternity.json) |
 | Bet on Beta | 415119 | [415119-bet-on-beta.json](./415119-bet-on-beta.json) |
+| Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
 | Beta Runner | 47989 | [47989-beta-runner.json](./47989-beta-runner.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
@@ -1411,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
 | Beyond the Evil | 161365 | [161365-beyond-the-evil.json](./161365-beyond-the-evil.json) |
+| Beyond the Future: Fix the Time Arrows | 44588 | [44588-beyond-the-future-fix-the-time-arrows.json](./44588-beyond-the-future-fix-the-time-arrows.json) |
 | Beyond the Grove | 341905 | [341905-beyond-the-grove.json](./341905-beyond-the-grove.json) |
 | Beyond the Harbor: R | 212251 | [212251-beyond-the-harbor-r.json](./212251-beyond-the-harbor-r.json) |
 | Beyond the Horizon | 51984 | [51984-beyond-the-horizon.json](./51984-beyond-the-horizon.json) |
@@ -1631,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioGloom | 207835 | [207835-biogloom.json](./207835-biogloom.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
+| Biohazard Revival Selection | 44553 | [44553-biohazard-revival-selection.json](./44553-biohazard-revival-selection.json) |
 | Biohazard Village: Z Version - Winters' Expansion | 241065 | [241065-biohazard-village-z-version-winters-expansion.json](./241065-biohazard-village-z-version-winters-expansion.json) |
 | Biohazard: 5th Anniversary Special Package | 145009 | [145009-biohazard-5th-anniversary-special-package.json](./145009-biohazard-5th-anniversary-special-package.json) |
 | Biohazard: Escape Room | 258461 | [258461-biohazard-escape-room.json](./258461-biohazard-escape-room.json) |
@@ -1654,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | Bioshock & Borderlands: The Shooter Collection | 150642 | [150642-bioshock-and-borderlands-the-shooter-collection.json](./150642-bioshock-and-borderlands-the-shooter-collection.json) |
+| Bioshock 2: Rapture Edition | 44571 | [44571-bioshock-2-rapture-edition.json](./44571-bioshock-2-rapture-edition.json) |
 | BioShock Infinite: Industrial Revolution | 64441 | [64441-bioshock-infinite-industrial-revolution.json](./64441-bioshock-infinite-industrial-revolution.json) |
 | BioSwarm | 297472 | [297472-bioswarm.json](./297472-bioswarm.json) |
 | BioSynth: Rising | 336892 | [336892-biosynth-rising.json](./336892-biosynth-rising.json) |
@@ -2222,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodbaths Terrible Vacation | 274748 | [274748-bloodbaths-terrible-vacation.json](./274748-bloodbaths-terrible-vacation.json) |
 | BloodBlast VR | 134648 | [134648-bloodblast-vr.json](./134648-bloodblast-vr.json) |
 | Bloodborne PSX | 179685 | [179685-bloodborne-psx.json](./179685-bloodborne-psx.json) |
+| Bloodborne: Collector's Edition | 44542 | [44542-bloodborne-collectors-edition.json](./44542-bloodborne-collectors-edition.json) |
 | Bloodborne: Limited Hunter Edition | 166180 | [166180-bloodborne-limited-hunter-edition.json](./166180-bloodborne-limited-hunter-edition.json) |
 | Bloodborne: Nightmare Edition | 44651 | [44651-bloodborne-nightmare-edition.json](./44651-bloodborne-nightmare-edition.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
@@ -2863,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Bait | 186814 | [186814-brain-bait.json](./186814-brain-bait.json) |
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
 | Brain Box on Physics Truck | 102109 | [102109-brain-box-on-physics-truck.json](./102109-brain-box-on-physics-truck.json) |
+| Brain Challenge Deluxe | 44587 | [44587-brain-challenge-deluxe.json](./44587-brain-challenge-deluxe.json) |
 | Brain Deluxe | 68641 | [68641-brain-deluxe.json](./68641-brain-deluxe.json) |
 | Brain Dots: Draw and Solve | 104701 | [104701-brain-dots-draw-and-solve.json](./104701-brain-dots-draw-and-solve.json) |
 | Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
@@ -3626,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz or Die | 295233 | [295233-buzz-or-die.json](./295233-buzz-or-die.json) |
 | Buzz! De slimste van Nederland | 77281 | [77281-buzz-de-slimste-van-nederland.json](./77281-buzz-de-slimste-van-nederland.json) |
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
+| Buzz! The Ultimate Music Quiz | 44586 | [44586-buzz-the-ultimate-music-quiz.json](./44586-buzz-the-ultimate-music-quiz.json) |
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | Buzzy's World Tour | 336545 | [336545-buzzys-world-tour.json](./336545-buzzys-world-tour.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
