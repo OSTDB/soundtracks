@@ -2362,6 +2362,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Zodiac Pack | 351625 | [351625-coloring-pixels-zodiac-pack.json](./351625-coloring-pixels-zodiac-pack.json) |
 | Coloris | 335115 | [335115-coloris.json](./335115-coloris.json) |
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
+| Colorless Life | 50525 | [50525-colorless-life.json](./50525-colorless-life.json) |
+| Colorless Life | 50528 | [50528-colorless-life.json](./50528-colorless-life.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | Colors of Your World | 182988 | [182988-colors-of-your-world.json](./182988-colors-of-your-world.json) |
