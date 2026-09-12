@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Dark Shadows | 57665 | [57665-death-by-dark-shadows.json](./57665-death-by-dark-shadows.json) |
 | Death by Degrees | 1241 | [1241-death-by-degrees.json](./1241-death-by-degrees.json) |
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
+| Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
 | Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
 | Death Crimson 2: Meranito no Saidan | 60497 | [60497-death-crimson-2-meranito-no-saidan.json](./60497-death-crimson-2-meranito-no-saidan.json) |
@@ -1270,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
 | Depth Loop | 317854 | [317854-depth-loop.json](./317854-depth-loop.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
+| Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
 | Dequivsia | 326603 | [326603-dequivsia.json](./326603-dequivsia.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
