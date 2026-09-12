@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go-Jin Senki | 80525 | [80525-go-jin-senki.json](./80525-go-jin-senki.json) |
 | Go-Kart Racing | 96470 | [96470-go-kart-racing.json](./96470-go-kart-racing.json) |
 | Go-Kart Simulator | 326417 | [326417-go-kart-simulator.json](./326417-go-kart-simulator.json) |
+| Go, Diego, Go! Great Dinosaur Rescue | 47978 | [47978-go-diego-go-great-dinosaur-rescue.json](./47978-go-diego-go-great-dinosaur-rescue.json) |
 | Go! Birdie | 146859 | [146859-go-birdie.json](./146859-go-birdie.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
@@ -1221,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Axed: A Cancelled Prototype | 140044 | [140044-golden-axed-a-cancelled-prototype.json](./140044-golden-axed-a-cancelled-prototype.json) |
 | Golden Dungeons | 88193 | [88193-golden-dungeons.json](./88193-golden-dungeons.json) |
 | Golden Egg | 219800 | [219800-golden-egg.json](./219800-golden-egg.json) |
+| Golden Fever | 48009 | [48009-golden-fever.json](./48009-golden-fever.json) |
 | Golden Galaxy | 243956 | [243956-golden-galaxy.json](./243956-golden-galaxy.json) |
 | Golden Gate | 81335 | [81335-golden-gate.json](./81335-golden-gate.json) |
 | Golden Gloves VR | 235191 | [235191-golden-gloves-vr.json](./235191-golden-gloves-vr.json) |
@@ -2004,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
 | Gulman 3D | 199059 | [199059-gulman-3d.json](./199059-gulman-3d.json) |
 | Gǔlóng Fēngyún Lù | 413005 | [413005-gulong-fengyun-lu.json](./413005-gulong-fengyun-lu.json) |
+| Gulu | 48011 | [48011-gulu.json](./48011-gulu.json) |
 | Gulu: A Tail's Journey | 215354 | [215354-gulu-a-tails-journey.json](./215354-gulu-a-tails-journey.json) |
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
