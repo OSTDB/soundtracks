@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Quiz OP | 241968 | [241968-genius-quiz-op.json](./241968-genius-quiz-op.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
+| Genji: Time Suspense Adventure | 66634 | [66634-genji-time-suspense-adventure.json](./66634-genji-time-suspense-adventure.json) |
 | Genjin Show: Tobidase! VB Genjin | 234086 | [234086-genjin-show-tobidase-vb-genjin.json](./234086-genjin-show-tobidase-vb-genjin.json) |
 | Genjiro: Samurai Defense | 285973 | [285973-genjiro-samurai-defense.json](./285973-genjiro-samurai-defense.json) |
 | Genkai Tokki: Castle Panzers | 27761 | [27761-genkai-tokki-castle-panzers.json](./27761-genkai-tokki-castle-panzers.json) |
@@ -582,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou Tairiku Aurelia | 79293 | [79293-gensou-tairiku-aurelia.json](./79293-gensou-tairiku-aurelia.json) |
 | Gensouband | 252734 | [252734-gensouband.json](./252734-gensouband.json) |
 | Gent Stickman vs Evil Meat Hand | 290409 | [290409-gent-stickman-vs-evil-meat-hand.json](./290409-gent-stickman-vs-evil-meat-hand.json) |
+| Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Genzai: Serialization | 223428 | [223428-genzai-serialization.json](./223428-genzai-serialization.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Mythica | 264315 | [264315-geo-mythica.json](./264315-geo-mythica.json) |
@@ -768,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
 | Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
 | Giant Rabbit Run | 208973 | [208973-giant-rabbit-run.json](./208973-giant-rabbit-run.json) |
+| Giant Robo: The Animation | 66654 | [66654-giant-robo-the-animation.json](./66654-giant-robo-the-animation.json) |
 | Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
@@ -789,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaBash: GAMERA -Rebirth- DLC | 404834 | [404834-gigabash-gamera-rebirth-dlc.json](./404834-gigabash-gamera-rebirth-dlc.json) |
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
+| Gigablast | 66603 | [66603-gigablast.json](./66603-gigablast.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
 | Gigant | 212830 | [212830-gigant.json](./212830-gigant.json) |
 | Gigantic Gear | 299729 | [299729-gigantic-gear.json](./299729-gigantic-gear.json) |
