@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T06:49:04.436Z",
-  "total_missing": 60962,
+  "generated_at": "2026-09-12T06:51:32.323Z",
+  "total_missing": 60961,
   "games": [
     {
       "igdb_id": 306086,
@@ -2726,11 +2726,6 @@
       "igdb_id": 99614,
       "game_name": "A.S.H.",
       "file": "missing/A/99614-a-s-h.json"
-    },
-    {
-      "igdb_id": 48669,
-      "game_name": "Aa Yakyuu Jinsei Icchokusen",
-      "file": "missing/A/48669-aa-yakyuu-jinsei-icchokusen.json"
     },
     {
       "igdb_id": 5339,
