@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
 | Joust | 287078 | [287078-joust.json](./287078-joust.json) |
 | Joust Legend | 60567 | [60567-joust-legend.json](./60567-joust-legend.json) |
+| Joust Pong | 40762 | [40762-joust-pong.json](./40762-joust-pong.json) |
 | Joust X | 297469 | [297469-joust-x.json](./297469-joust-x.json) |
 | Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
