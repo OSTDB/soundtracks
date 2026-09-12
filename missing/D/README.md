@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
 | Defying Fate | 205233 | [205233-defying-fate.json](./205233-defying-fate.json) |
 | Defying Heaven's Will | 183050 | [183050-defying-heavens-will.json](./183050-defying-heavens-will.json) |
+| Degauss | 75045 | [75045-degauss.json](./75045-degauss.json) |
 | Degen Royale | 223430 | [223430-degen-royale.json](./223430-degen-royale.json) |
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
@@ -2187,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominacy | 109058 | [109058-dominacy.json](./109058-dominacy.json) |
 | Dominance | 116371 | [116371-dominance.json](./116371-dominance.json) |
 | Dominant Species for iPad | 108516 | [108516-dominant-species-for-ipad.json](./108516-dominant-species-for-ipad.json) |
+| Dominari | 75099 | [75099-dominari.json](./75099-dominari.json) |
 | Dominate: Board Game | 147971 | [147971-dominate-board-game.json](./147971-dominate-board-game.json) |
 | Dominating the Skies | 162412 | [162412-dominating-the-skies.json](./162412-dominating-the-skies.json) |
 | Domination: War of Nations | 232981 | [232981-domination-war-of-nations.json](./232981-domination-war-of-nations.json) |
@@ -3061,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
+| Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
 | Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
 | Drowning Song of the Stagnant Sea | 370694 | [370694-drowning-song-of-the-stagnant-sea.json](./370694-drowning-song-of-the-stagnant-sea.json) |
@@ -3251,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
 | Dunebound Tactics | 320131 | [320131-dunebound-tactics.json](./320131-dunebound-tactics.json) |
 | Dunes of Valor | 303498 | [303498-dunes-of-valor.json](./303498-dunes-of-valor.json) |
+| Dung Beetle | 75116 | [75116-dung-beetle.json](./75116-dung-beetle.json) |
 | Dungen | 169436 | [169436-dungen.json](./169436-dungen.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
 | Dungeon & Burglar | 195149 | [195149-dungeon-and-burglar.json](./195149-dungeon-and-burglar.json) |
