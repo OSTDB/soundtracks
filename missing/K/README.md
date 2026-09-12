@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaikyuu no Eshi | 239678 | [239678-kaikyuu-no-eshi.json](./239678-kaikyuu-no-eshi.json) |
 | Kaire | 344388 | [344388-kaire.json](./344388-kaire.json) |
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
+| Kairobotica | 61069 | [61069-kairobotica.json](./61069-kairobotica.json) |
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaite Oboeru Doragana | 66034 | [66034-kaite-oboeru-doragana.json](./66034-kaite-oboeru-doragana.json) |
@@ -632,6 +633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Throne: Royal Delights | 208592 | [208592-kings-throne-royal-delights.json](./208592-kings-throne-royal-delights.json) |
 | KingAndSlaves | 122401 | [122401-kingandslaves.json](./122401-kingandslaves.json) |
 | Kingdom at War | 84254 | [84254-kingdom-at-war.json](./84254-kingdom-at-war.json) |
+| Kingdom Builder | 61049 | [61049-kingdom-builder.json](./61049-kingdom-builder.json) |
 | Kingdom Chronicles | 89714 | [89714-kingdom-chronicles.json](./89714-kingdom-chronicles.json) |
 | Kingdom Come: Deliverance - Limited Edition | 166176 | [166176-kingdom-come-deliverance-limited-edition.json](./166176-kingdom-come-deliverance-limited-edition.json) |
 | Kingdom Come: Deliverance - Royal DLC Package | 155078 | [155078-kingdom-come-deliverance-royal-dlc-package.json](./155078-kingdom-come-deliverance-royal-dlc-package.json) |
