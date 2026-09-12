@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic 64 | 130373 | [130373-panic-64.json](./130373-panic-64.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
+| Panic in the Park | 69251 | [69251-panic-in-the-park.json](./69251-panic-in-the-park.json) |
 | Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
 | Panic Invaders | 70957 | [70957-panic-invaders.json](./70957-panic-invaders.json) |
 | Panic Lane | 247767 | [247767-panic-lane.json](./247767-panic-lane.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pass the Pigs | 18271 | [18271-pass-the-pigs.json](./18271-pass-the-pigs.json) |
 | Pass the Sphero | 200110 | [200110-pass-the-sphero.json](./200110-pass-the-sphero.json) |
 | Pass Tiger Cage | 374599 | [374599-pass-tiger-cage.json](./374599-pass-tiger-cage.json) |
+| Pass Your Driving Theory Test | 69205 | [69205-pass-your-driving-theory-test.json](./69205-pass-your-driving-theory-test.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
 | Passage 3 | 210017 | [210017-passage-3.json](./210017-passage-3.json) |
@@ -2487,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
 | Pregnant Talking Cat Emma | 250018 | [250018-pregnant-talking-cat-emma.json](./250018-pregnant-talking-cat-emma.json) |
+| Prehistoric Animals | 69223 | [69223-prehistoric-animals.json](./69223-prehistoric-animals.json) |
 | Prehistoric Dude | 138774 | [138774-prehistoric-dude.json](./138774-prehistoric-dude.json) |
 | Prehistoric Gal | 293656 | [293656-prehistoric-gal.json](./293656-prehistoric-gal.json) |
 | Prehistorik Man | 159266 | [159266-prehistorik-man.json](./159266-prehistorik-man.json) |
