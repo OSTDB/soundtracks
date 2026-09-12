@@ -136,9 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
-| Aaero 2: Black Razor Edition | 366211 | [366211-aaero-2-black-razor-edition.json](./366211-aaero-2-black-razor-edition.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
-| Aahh! Spot the Difference | 84864 | [84864-aahh-spot-the-difference.json](./84864-aahh-spot-the-difference.json) |
 | Aard and Wyzz: The rise of minions | 309102 | [309102-aard-and-wyzz-the-rise-of-minions.json](./309102-aard-and-wyzz-the-rise-of-minions.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aargon Deluxe | 70984 | [70984-aargon-deluxe.json](./70984-aargon-deluxe.json) |
