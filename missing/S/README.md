@@ -68,6 +68,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacred Earth: Promise | 109766 | [109766-sacred-earth-promise.json](./109766-sacred-earth-promise.json) |
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
+| Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
+| Sacred Line Genesis | 60523 | [60523-sacred-line-genesis.json](./60523-sacred-line-genesis.json) |
 | Sacred Sword Princesses | 112286 | [112286-sacred-sword-princesses.json](./112286-sacred-sword-princesses.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
 | Sacrifices | 330126 | [330126-sacrifices.json](./330126-sacrifices.json) |
@@ -6701,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super X Chess | 111044 | [111044-super-x-chess.json](./111044-super-x-chess.json) |
 | Super XYX | 140036 | [140036-super-xyx.json](./140036-super-xyx.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
+| Super Zugan: Hakotenjou kara no Shoutai | 60498 | [60498-super-zugan-hakotenjou-kara-no-shoutai.json](./60498-super-zugan-hakotenjou-kara-no-shoutai.json) |
 | Super ZZT | 46656 | [46656-super-zzt.json](./46656-super-zzt.json) |
 | Super-Bikes: Riding Challenge | 43310 | [43310-super-bikes-riding-challenge.json](./43310-super-bikes-riding-challenge.json) |
 | Superball | 117000 | [117000-superball.json](./117000-superball.json) |
