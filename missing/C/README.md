@@ -1557,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Jinrou Senki Warwolf | 48590 | [48590-chou-jinrou-senki-warwolf.json](./48590-chou-jinrou-senki-warwolf.json) |
 | Chou Jinsei Enjoi! Tamagotchi Plus | 229952 | [229952-chou-jinsei-enjoi-tamagotchi-plus.json](./229952-chou-jinsei-enjoi-tamagotchi-plus.json) |
 | Chou Manin: Joshi Seido Shanai Choukyou | 97389 | [97389-chou-manin-joshi-seido-shanai-choukyou.json](./97389-chou-manin-joshi-seido-shanai-choukyou.json) |
+| Chou Mashin Eiyuuden Wataru: Another Step | 37726 | [37726-chou-mashin-eiyuuden-wataru-another-step.json](./37726-chou-mashin-eiyuuden-wataru-another-step.json) |
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster | 66064 | [66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json](./66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json) |
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster 2 | 66065 | [66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json](./66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json) |
 | Chou Meisaku Suiri Adventure DS: Raymond Chandler Gensaku - Saraba Itoshiki Hito yo | 269583 | [269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json](./269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json) |
@@ -1777,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus | 12944 | [12944-circus.json](./12944-circus.json) |
 | Circus | 206349 | [206349-circus.json](./206349-circus.json) |
 | Circus Caper | 48099 | [48099-circus-caper.json](./48099-circus-caper.json) |
+| Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
 | Cirno's Perfect Punchout!! | 219035 | [219035-cirnos-perfect-punchout.json](./219035-cirnos-perfect-punchout.json) |
@@ -1816,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Explorer: Seattle | 88166 | [88166-city-explorer-seattle.json](./88166-city-explorer-seattle.json) |
 | City Fighter: Vertical Limit | 237626 | [237626-city-fighter-vertical-limit.json](./237626-city-fighter-vertical-limit.json) |
 | City Full Of Alien Scum | 272025 | [272025-city-full-of-alien-scum.json](./272025-city-full-of-alien-scum.json) |
+| City Hunter | 37718 | [37718-city-hunter.json](./37718-city-hunter.json) |
 | City Island 2: Building Sim | 103544 | [103544-city-island-2-building-sim.json](./103544-city-island-2-building-sim.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
@@ -2878,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
+| Coryoon | 37717 | [37717-coryoon.json](./37717-coryoon.json) |
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
