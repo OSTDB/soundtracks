@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitality | 133369 | [133369-vitality.json](./133369-vitality.json) |
 | Vitality | 213040 | [213040-vitality.json](./213040-vitality.json) |
 | Vitality Girl | 147409 | [147409-vitality-girl.json](./147409-vitality-girl.json) |
+| Vitamin R | 59360 | [59360-vitamin-r.json](./59360-vitamin-r.json) |
 | Vitamin X | 69288 | [69288-vitamin-x.json](./69288-vitamin-x.json) |
 | Viticulture | 200132 | [200132-viticulture.json](./200132-viticulture.json) |
 | Vitreous | 179717 | [179717-vitreous.json](./179717-vitreous.json) |
