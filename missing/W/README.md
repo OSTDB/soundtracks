@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
 | World of Subways: Volume 1 - The Path | 36284 | [36284-world-of-subways-volume-1-the-path.json](./36284-world-of-subways-volume-1-the-path.json) |
 | World of Tanks - Panther/M10 Pack (VII German Medium Tank) | 398326 | [398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json](./398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json) |
+| World of Tanks Generals | 77961 | [77961-world-of-tanks-generals.json](./77961-world-of-tanks-generals.json) |
 | World of Tanks: Blitz - Free Pack | 171010 | [171010-world-of-tanks-blitz-free-pack.json](./171010-world-of-tanks-blitz-free-pack.json) |
 | World of Tanks: Blitz - Grand Pack | 171009 | [171009-world-of-tanks-blitz-grand-pack.json](./171009-world-of-tanks-blitz-grand-pack.json) |
 | World of Tanks: Blitz - Mega Pack | 171008 | [171008-world-of-tanks-blitz-mega-pack.json](./171008-world-of-tanks-blitz-mega-pack.json) |
