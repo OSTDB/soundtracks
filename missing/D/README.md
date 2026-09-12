@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Zone Defense | 304897 | [304897-dead-zone-defense.json](./304897-dead-zone-defense.json) |
 | Dead Zone: Rebirth of Survivors | 270103 | [270103-dead-zone-rebirth-of-survivors.json](./270103-dead-zone-rebirth-of-survivors.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
+| Deadball Specialist | 58191 | [58191-deadball-specialist.json](./58191-deadball-specialist.json) |
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
