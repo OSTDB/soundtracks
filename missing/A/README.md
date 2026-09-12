@@ -205,7 +205,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
-| Abzu: Deluxe Edition | 52553 | [52553-abzu-deluxe-edition.json](./52553-abzu-deluxe-edition.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Sengoku | 85478 | [85478-aca-neo-geo-sengoku.json](./85478-aca-neo-geo-sengoku.json) |
 | ACA Neo Geo: Sengoku 2 | 89982 | [89982-aca-neo-geo-sengoku-2.json](./89982-aca-neo-geo-sengoku-2.json) |
