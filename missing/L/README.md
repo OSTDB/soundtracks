@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lem-Amaze! | 126570 | [126570-lem-amaze.json](./126570-lem-amaze.json) |
 | Lema Sabachthani | 323721 | [323721-lema-sabachthani.json](./323721-lema-sabachthani.json) |
 | Lemegeton | 402262 | [402262-lemegeton.json](./402262-lemegeton.json) |
+| Lemming Dynasty | 60489 | [60489-lemming-dynasty.json](./60489-lemming-dynasty.json) |
 | Lemmings | 239057 | [239057-lemmings.json](./239057-lemmings.json) |
 | Lemmings | 239058 | [239058-lemmings.json](./239058-lemmings.json) |
 | Lemmings | 239059 | [239059-lemmings.json](./239059-lemmings.json) |
