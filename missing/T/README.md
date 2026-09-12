@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Of Robbers | 117773 | [117773-team-of-robbers.json](./117773-team-of-robbers.json) |
 | Team of Titans | 302376 | [302376-team-of-titans.json](./302376-team-of-titans.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
+| Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
 | Team Xtreme: Operation Weather Disaster | 70983 | [70983-team-xtreme-operation-weather-disaster.json](./70983-team-xtreme-operation-weather-disaster.json) |
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
 | Team17 Collection 1 | 241979 | [241979-team17-collection-1.json](./241979-team17-collection-1.json) |
@@ -1106,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's Not How it Happened | 209131 | [209131-thats-not-how-it-happened.json](./209131-thats-not-how-it-happened.json) |
 | That's So Raven | 49407 | [49407-thats-so-raven.json](./49407-thats-so-raven.json) |
 | That's So Raven 2: Supernatural Style | 49406 | [49406-thats-so-raven-2-supernatural-style.json](./49406-thats-so-raven-2-supernatural-style.json) |
+| That's So Raven: Psychic on the Scene | 47951 | [47951-thats-so-raven-psychic-on-the-scene.json](./47951-thats-so-raven-psychic-on-the-scene.json) |
 | The 13th Floor | 298323 | [298323-the-13th-floor.json](./298323-the-13th-floor.json) |
 | The 13th Month | 166148 | [166148-the-13th-month.json](./166148-the-13th-month.json) |
 | The 2020 Trail | 157151 | [157151-the-2020-trail.json](./157151-the-2020-trail.json) |
@@ -2905,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of Whiterock Castle | 67229 | [67229-the-mystery-of-whiterock-castle.json](./67229-the-mystery-of-whiterock-castle.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
+| The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
 | The Narrator Says We're Meant to Be! | 394816 | [394816-the-narrator-says-were-meant-to-be.json](./394816-the-narrator-says-were-meant-to-be.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
@@ -3853,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitor Effect | 348249 | [348249-the-visitor-effect.json](./348249-the-visitor-effect.json) |
 | The Visitor: Ep.1 - Kitty Cat Carnage | 196326 | [196326-the-visitor-ep-1-kitty-cat-carnage.json](./196326-the-visitor-ep-1-kitty-cat-carnage.json) |
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
+| The Voice in the Void | 48005 | [48005-the-voice-in-the-void.json](./48005-the-voice-in-the-void.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
 | The Void | 3273 | [3273-the-void.json](./3273-the-void.json) |
@@ -6073,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Robots in Disguise | 70990 | [70990-transformers-robots-in-disguise.json](./70990-transformers-robots-in-disguise.json) |
 | Transformers: Ultimate Autobots Edition | 61090 | [61090-transformers-ultimate-autobots-edition.json](./61090-transformers-ultimate-autobots-edition.json) |
 | Transformers: War for Cybertron - Autobots | 159310 | [159310-transformers-war-for-cybertron-autobots.json](./159310-transformers-war-for-cybertron-autobots.json) |
+| Transformers: War for Cybertron - Decepticons | 47945 | [47945-transformers-war-for-cybertron-decepticons.json](./47945-transformers-war-for-cybertron-decepticons.json) |
 | TransGenDeer | 327847 | [327847-transgendeer.json](./327847-transgendeer.json) |
 | Transgression | 93511 | [93511-transgression.json](./93511-transgression.json) |
 | Transient Station | 184078 | [184078-transient-station.json](./184078-transient-station.json) |
