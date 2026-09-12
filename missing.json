@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T11:18:51.544Z",
-  "total_missing": 61767,
+  "generated_at": "2026-09-12T11:21:29.982Z",
+  "total_missing": 61766,
   "games": [
     {
       "igdb_id": 306086,
@@ -2866,11 +2866,6 @@
       "igdb_id": 111036,
       "game_name": "Abha",
       "file": "missing/A/111036-abha.json"
-    },
-    {
-      "igdb_id": 210899,
-      "game_name": "Abigor",
-      "file": "missing/A/210899-abigor.json"
     },
     {
       "igdb_id": 109031,
