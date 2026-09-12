@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T13:33:17.494Z",
-  "total_missing": 62041,
+  "generated_at": "2026-09-12T13:41:34.971Z",
+  "total_missing": 62040,
   "games": [
     {
       "igdb_id": 306086,
@@ -2941,11 +2941,6 @@
       "igdb_id": 355575,
       "game_name": "Abomination Ops",
       "file": "missing/A/355575-abomination-ops.json"
-    },
-    {
-      "igdb_id": 277282,
-      "game_name": "Abondoned Village",
-      "file": "missing/A/277282-abondoned-village.json"
     },
     {
       "igdb_id": 201227,
