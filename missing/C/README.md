@@ -3812,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
+| Cyber City Oedo 808: Kemono no Zokusei | 64382 | [64382-cyber-city-oedo-808-kemono-no-zokusei.json](./64382-cyber-city-oedo-808-kemono-no-zokusei.json) |
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
