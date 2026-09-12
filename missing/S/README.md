@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
 | Sebevrah | 377067 | [377067-sebevrah.json](./377067-sebevrah.json) |
 | Seblen: Battle! | 169391 | [169391-seblen-battle.json](./169391-seblen-battle.json) |
+| Seclusion | 29817 | [29817-seclusion.json](./29817-seclusion.json) |
 | Second Chance | 111668 | [111668-second-chance.json](./111668-second-chance.json) |
 | Second Chance | 182971 | [182971-second-chance.json](./182971-second-chance.json) |
 | Second Coming: Tactical Training | 35641 | [35641-second-coming-tactical-training.json](./35641-second-coming-tactical-training.json) |
@@ -1100,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
 | Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
+| Selatria: Advent of the Dakk'rian Empire | 29774 | [29774-selatria-advent-of-the-dakkrian-empire.json](./29774-selatria-advent-of-the-dakkrian-empire.json) |
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
@@ -2097,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewinder 2 | 66656 | [66656-sidewinder-2.json](./66656-sidewinder-2.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
+| Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
@@ -2324,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Cards: Welcome to the Netherworld | 337084 | [337084-sin-cards-welcome-to-the-netherworld.json](./337084-sin-cards-welcome-to-the-netherworld.json) |
+| Sin Castle | 29820 | [29820-sin-castle.json](./29820-sin-castle.json) |
 | Sin Chronicle | 172765 | [172765-sin-chronicle.json](./172765-sin-chronicle.json) |
 | Sin City | 77967 | [77967-sin-city.json](./77967-sin-city.json) |
 | SiN Episodes: Emergence | 14788 | [14788-sin-episodes-emergence.json](./14788-sin-episodes-emergence.json) |
@@ -2595,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Taxi 4: Top Secret | 54371 | [54371-sky-taxi-4-top-secret.json](./54371-sky-taxi-4-top-secret.json) |
 | Sky Taxi: GMO Armageddon | 54370 | [54370-sky-taxi-gmo-armageddon.json](./54370-sky-taxi-gmo-armageddon.json) |
 | Sky Track | 54372 | [54372-sky-track.json](./54372-sky-track.json) |
+| Sky Trader | 29789 | [29789-sky-trader.json](./29789-sky-trader.json) |
 | Sky Whale | 100852 | [100852-sky-whale.json](./100852-sky-whale.json) |
 | Skybase: Space Station Simulator | 208952 | [208952-skybase-space-station-simulator.json](./208952-skybase-space-station-simulator.json) |
 | Skyblocker | 340388 | [340388-skyblocker.json](./340388-skyblocker.json) |
@@ -3183,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
+| Snow Games VR | 29782 | [29782-snow-games-vr.json](./29782-snow-games-vr.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
