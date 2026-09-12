@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Transporter Simulator | 220650 | [220650-police-transporter-simulator.json](./220650-police-transporter-simulator.json) |
 | Police X Heroine Lovepatrina! Love na Rhythm de Taiho Shimasu! | 152332 | [152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json](./152332-police-x-heroine-lovepatrina-love-na-rhythm-de-taiho-shimasu.json) |
 | Police: Chase Down | 82131 | [82131-police-chase-down.json](./82131-police-chase-down.json) |
+| Policenauts Pilot Disk | 37116 | [37116-policenauts-pilot-disk.json](./37116-policenauts-pilot-disk.json) |
 | Polidog Patrol | 365703 | [365703-polidog-patrol.json](./365703-polidog-patrol.json) |
 | PoligonVR | 258481 | [258481-poligonvr.json](./258481-poligonvr.json) |
 | Polilaser | 238493 | [238493-polilaser.json](./238493-polilaser.json) |
