@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin Master | 123063 | [123063-shaolin-master.json](./123063-shaolin-master.json) |
 | Shaolin Master Plus | 123062 | [123062-shaolin-master-plus.json](./123062-shaolin-master-plus.json) |
 | Shaolin Sudoku | 180218 | [180218-shaolin-sudoku.json](./180218-shaolin-sudoku.json) |
+| Shaolin's Road | 45909 | [45909-shaolins-road.json](./45909-shaolins-road.json) |
 | Shape Cascade | 126579 | [126579-shape-cascade.json](./126579-shape-cascade.json) |
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
@@ -3303,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Conqueror | 170532 | [170532-solar-conqueror.json](./170532-solar-conqueror.json) |
 | Solar Core | 68683 | [68683-solar-core.json](./68683-solar-core.json) |
 | Solar Cram School | 122393 | [122393-solar-cram-school.json](./122393-solar-cram-school.json) |
+| Solar Crusade | 45908 | [45908-solar-crusade.json](./45908-solar-crusade.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
 | Solar Kingdoms: Human Survival | 295568 | [295568-solar-kingdoms-human-survival.json](./295568-solar-kingdoms-human-survival.json) |
@@ -4093,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Race | 361117 | [361117-space-race.json](./361117-space-race.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
+| Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
@@ -4614,6 +4617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Ultra Premium | 328831 | [328831-sport-and-fun-swimming-ultra-premium.json](./328831-sport-and-fun-swimming-ultra-premium.json) |
 | Sport & Fun: Swimming - Ultra Special | 328830 | [328830-sport-and-fun-swimming-ultra-special.json](./328830-sport-and-fun-swimming-ultra-special.json) |
 | Sport & Fun: Swimming - Ultra Ultimate | 328829 | [328829-sport-and-fun-swimming-ultra-ultimate.json](./328829-sport-and-fun-swimming-ultra-ultimate.json) |
+| Sport Freaks | 45906 | [45906-sport-freaks.json](./45906-sport-freaks.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
 | Sportball Challenge | 54394 | [54394-sportball-challenge.json](./54394-sportball-challenge.json) |
 | Sportfischen Professional | 130851 | [130851-sportfischen-professional.json](./130851-sportfischen-professional.json) |
