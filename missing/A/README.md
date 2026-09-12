@@ -151,7 +151,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
-| Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
@@ -162,7 +161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
-| Abodtion | 344375 | [344375-abodtion.json](./344375-abodtion.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Abondoned Village | 277282 | [277282-abondoned-village.json](./277282-abondoned-village.json) |
 | Abort | 291211 | [291211-abort.json](./291211-abort.json) |
