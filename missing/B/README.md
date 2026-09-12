@@ -1488,6 +1488,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Business | 14300 | [14300-big-business.json](./14300-big-business.json) |
 | Big Cat Rescue VR | 157142 | [157142-big-cat-rescue-vr.json](./157142-big-cat-rescue-vr.json) |
 | Big Catch Bass Fishing | 197944 | [197944-big-catch-bass-fishing.json](./197944-big-catch-bass-fishing.json) |
+| Big Challenge! Dogfight Spirit | 41331 | [41331-big-challenge-dogfight-spirit.json](./41331-big-challenge-dogfight-spirit.json) |
+| Big Challenge! Go! Go! Bowling | 41330 | [41330-big-challenge-go-go-bowling.json](./41330-big-challenge-go-go-bowling.json) |
 | Big Chief | 96342 | [96342-big-chief.json](./96342-big-chief.json) |
 | Big City Adventure: Istanbul | 294743 | [294743-big-city-adventure-istanbul.json](./294743-big-city-adventure-istanbul.json) |
 | Big City Adventure: Tokyo | 294742 | [294742-big-city-adventure-tokyo.json](./294742-big-city-adventure-tokyo.json) |
@@ -1717,12 +1719,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishi Bachi Special 3 | 43866 | [43866-bishi-bachi-special-3.json](./43866-bishi-bachi-special-3.json) |
 | Bishi Bashi Special | 45047 | [45047-bishi-bashi-special.json](./45047-bishi-bashi-special.json) |
 | Bishi Bashi Special 3: Step Champ | 55867 | [55867-bishi-bashi-special-3-step-champ.json](./55867-bishi-bashi-special-3-step-champ.json) |
+| Bishojou Mahjong Club | 41339 | [41339-bishojou-mahjong-club.json](./41339-bishojou-mahjong-club.json) |
 | Bishoujo Mangekyou: Kami ga Tsukuritamouta Shoujo-tachi | 115725 | [115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json](./115725-bishoujo-mangekyou-kami-ga-tsukuritamouta-shoujo-tachi.json) |
 | Bishoujo Mangekyou: Katsute Shoujo Datta Kimi he | 115724 | [115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json](./115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json) |
 | Bishoujo Mangekyou: Norowareshi Densetsu no Shoujo | 115722 | [115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json](./115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json) |
 | Bishoujo Mangekyou: Wasurenagusa to Eien no Shoujo | 115723 | [115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json](./115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json) |
 | Bishoujo Senshi Sailor Moon Super S: Illustration Club | 225257 | [225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json](./225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json) |
 | Bishoujo Senshi Sailor V | 234339 | [234339-bishoujo-senshi-sailor-v.json](./234339-bishoujo-senshi-sailor-v.json) |
+| Bishoujo Sexy Derby | 41358 | [41358-bishoujo-sexy-derby.json](./41358-bishoujo-sexy-derby.json) |
+| Bishoujo Sexy Slot | 41357 | [41357-bishoujo-sexy-slot.json](./41357-bishoujo-sexy-slot.json) |
+| Bishoujo SF Alien Battle | 41356 | [41356-bishoujo-sf-alien-battle.json](./41356-bishoujo-sf-alien-battle.json) |
 | Bishoujo Shashinkan I: Studio Cut | 41377 | [41377-bishoujo-shashinkan-i-studio-cut.json](./41377-bishoujo-shashinkan-i-studio-cut.json) |
 | Bishoujo Shashinkan II: Moving School | 41378 | [41378-bishoujo-shashinkan-ii-moving-school.json](./41378-bishoujo-shashinkan-ii-moving-school.json) |
 | Bismarck: The North Sea Chase | 14308 | [14308-bismarck-the-north-sea-chase.json](./14308-bismarck-the-north-sea-chase.json) |
@@ -3056,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
 | Breathless | 14346 | [14346-breathless.json](./14346-breathless.json) |
 | Breed Master | 268484 | [268484-breed-master.json](./268484-breed-master.json) |
+| Breeder | 41329 | [41329-breeder.json](./41329-breeder.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
 | Breeze of Ashes | 332251 | [332251-breeze-of-ashes.json](./332251-breeze-of-ashes.json) |
 | Breezy Paws | 274735 | [274735-breezy-paws.json](./274735-breezy-paws.json) |
