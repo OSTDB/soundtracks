@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T01:31:36.913Z",
-  "total_missing": 60045,
+  "generated_at": "2026-09-12T01:41:32.127Z",
+  "total_missing": 60046,
   "games": [
     {
       "igdb_id": 306086,
@@ -2566,11 +2566,6 @@
       "igdb_id": 58803,
       "game_name": "A Tofu Tail",
       "file": "missing/A/58803-a-tofu-tail.json"
-    },
-    {
-      "igdb_id": 122649,
-      "game_name": "A Total War Saga: Troy",
-      "file": "missing/A/122649-a-total-war-saga-troy.json"
     },
     {
       "igdb_id": 139940,
@@ -9511,6 +9506,11 @@
       "igdb_id": 119767,
       "game_name": "Amazing: A House In Kansas VR",
       "file": "missing/A/119767-amazing-a-house-in-kansas-vr.json"
+    },
+    {
+      "igdb_id": 75111,
+      "game_name": "Amazon Odyssey",
+      "file": "missing/A/75111-amazon-odyssey.json"
     },
     {
       "igdb_id": 89271,
@@ -235761,6 +235761,11 @@
       "igdb_id": 101575,
       "game_name": "Stickman Archers: Archery Rampage",
       "file": "missing/S/101575-stickman-archers-archery-rampage.json"
+    },
+    {
+      "igdb_id": 75112,
+      "game_name": "Stickman Destruction",
+      "file": "missing/S/75112-stickman-destruction.json"
     },
     {
       "igdb_id": 117758,
