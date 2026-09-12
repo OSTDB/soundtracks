@@ -1486,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Kingdom | 323170 | [323170-pirates-kingdom.json](./323170-pirates-kingdom.json) |
 | Pirates Odyssey | 270122 | [270122-pirates-odyssey.json](./270122-pirates-odyssey.json) |
 | Pirates of First Star | 115668 | [115668-pirates-of-first-star.json](./115668-pirates-of-first-star.json) |
+| Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
 | Pirates of the Caribbean: Dead Man's Chest | 20542 | [20542-pirates-of-the-caribbean-dead-mans-chest.json](./20542-pirates-of-the-caribbean-dead-mans-chest.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
@@ -1972,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
 | Pocket Love: If | 43973 | [43973-pocket-love-if.json](./43973-pocket-love-if.json) |
+| Pocket Mine | 38909 | [38909-pocket-mine.json](./38909-pocket-mine.json) |
 | Pocket Monsters RPG | 130335 | [130335-pocket-monsters-rpg.json](./130335-pocket-monsters-rpg.json) |
 | Pocket Monsters: Suuji wo Tsukamaeyou! | 63849 | [63849-pocket-monsters-suuji-wo-tsukamaeyou.json](./63849-pocket-monsters-suuji-wo-tsukamaeyou.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
@@ -2310,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Fever: Superior Edition | 396925 | [396925-pool-fever-superior-edition.json](./396925-pool-fever-superior-edition.json) |
 | Pool Fiction | 402910 | [402910-pool-fiction.json](./402910-pool-fiction.json) |
 | Pool Glow | 413629 | [413629-pool-glow.json](./413629-pool-glow.json) |
+| Pool Live Pro | 38947 | [38947-pool-live-pro.json](./38947-pool-live-pro.json) |
 | Pool Master | 43257 | [43257-pool-master.json](./43257-pool-master.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Pro | 246384 | [246384-pool-pro.json](./246384-pool-pro.json) |
