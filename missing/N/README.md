@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Dynasty | 92443 | [92443-nba-dynasty.json](./92443-nba-dynasty.json) |
 | NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
 | NBA in the Zone | 20639 | [20639-nba-in-the-zone.json](./20639-nba-in-the-zone.json) |
+| NBA in the Zone '99 | 72053 | [72053-nba-in-the-zone-99.json](./72053-nba-in-the-zone-99.json) |
 | NBA In the Zone 2 | 20729 | [20729-nba-in-the-zone-2.json](./20729-nba-in-the-zone-2.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
 | NBA Live 09 All-Play | 67745 | [67745-nba-live-09-all-play.json](./67745-nba-live-09-all-play.json) |
