@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kandra the Moonwalker | 186842 | [186842-kandra-the-moonwalker.json](./186842-kandra-the-moonwalker.json) |
 | Kane & Lynch Collection | 53243 | [53243-kane-and-lynch-collection.json](./53243-kane-and-lynch-collection.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
+| Kang Fu | 37109 | [37109-kang-fu.json](./37109-kang-fu.json) |
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
 | Kangoorun: Fly to the Moon | 37181 | [37181-kangoorun-fly-to-the-moon.json](./37181-kangoorun-fly-to-the-moon.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
+| Kingpin: Arcade Sports Bowling | 37110 | [37110-kingpin-arcade-sports-bowling.json](./37110-kingpin-arcade-sports-bowling.json) |
 | Kings Age | 62717 | [62717-kings-age.json](./62717-kings-age.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
