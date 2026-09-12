@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Sushi | 18252 | [18252-chop-sushi.json](./18252-chop-sushi.json) |
 | Chopcremental | 349329 | [349329-chopcremental.json](./349329-chopcremental.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
+| Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
@@ -2778,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
 | Cosmic Tank | 141200 | [141200-cosmic-tank.json](./141200-cosmic-tank.json) |
 | Cosmic Tankinator | 292548 | [292548-cosmic-tankinator.json](./292548-cosmic-tankinator.json) |
+| Cosmic Trail | 75818 | [75818-cosmic-trail.json](./75818-cosmic-trail.json) |
 | Cosmic Tunnels | 23899 | [23899-cosmic-tunnels.json](./23899-cosmic-tunnels.json) |
 | Cosmic Wars | 48646 | [48646-cosmic-wars.json](./48646-cosmic-wars.json) |
 | Cosmic Waves | 244235 | [244235-cosmic-waves.json](./244235-cosmic-waves.json) |
@@ -3386,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
+| Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
 | Crush Beats: Club Candy | 96763 | [96763-crush-beats-club-candy.json](./96763-crush-beats-club-candy.json) |
 | Crush Link TD | 272865 | [272865-crush-link-td.json](./272865-crush-link-td.json) |
 | Crush Online | 24953 | [24953-crush-online.json](./24953-crush-online.json) |
