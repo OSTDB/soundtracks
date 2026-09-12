@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gastronomie | 220319 | [220319-gastronomie.json](./220319-gastronomie.json) |
 | Gasu: The Hugging Dragon | 177486 | [177486-gasu-the-hugging-dragon.json](./177486-gasu-the-hugging-dragon.json) |
 | Gatari: Sand on Teeth | 78584 | [78584-gatari-sand-on-teeth.json](./78584-gatari-sand-on-teeth.json) |
+| Gate 88 | 77982 | [77982-gate-88.json](./77982-gate-88.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
 | Gate of Mobius | 200751 | [200751-gate-of-mobius.json](./200751-gate-of-mobius.json) |
@@ -665,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getsuei no Kusari: Kyouran Moratoriamu | 136449 | [136449-getsuei-no-kusari-kyouran-moratoriamu.json](./136449-getsuei-no-kusari-kyouran-moratoriamu.json) |
 | Getsuei no Kusari: Sakuran Paranoia | 136448 | [136448-getsuei-no-kusari-sakuran-paranoia.json](./136448-getsuei-no-kusari-sakuran-paranoia.json) |
 | Getter Love!!: Chou Renai Party Game Tanjou | 3504 | [3504-getter-love-chou-renai-party-game-tanjou.json](./3504-getter-love-chou-renai-party-game-tanjou.json) |
+| Getter Robo Daikessen! | 77981 | [77981-getter-robo-daikessen.json](./77981-getter-robo-daikessen.json) |
 | Getting a Bottle of Water Simulator | 334664 | [334664-getting-a-bottle-of-water-simulator.json](./334664-getting-a-bottle-of-water-simulator.json) |
 | Getting Over It with Your Body | 381035 | [381035-getting-over-it-with-your-body.json](./381035-getting-over-it-with-your-body.json) |
 | Geunyeoneun Baekseolgongju | 234636 | [234636-geunyeoneun-baekseolgongju.json](./234636-geunyeoneun-baekseolgongju.json) |
@@ -1401,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius | 262393 | [262393-gradius.json](./262393-gradius.json) |
 | Gradius | 262394 | [262394-gradius.json](./262394-gradius.json) |
 | Gradius | 262395 | [262395-gradius.json](./262395-gradius.json) |
+| Gradius Galaxies | 77990 | [77990-gradius-galaxies.json](./77990-gradius-galaxies.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
 | Graffiti Groovin' | 228465 | [228465-graffiti-groovin.json](./228465-graffiti-groovin.json) |
 | Graffiti Simulator | 326418 | [326418-graffiti-simulator.json](./326418-graffiti-simulator.json) |
@@ -1415,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
+| Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
 | Gran Turismo Sport: Collector's Edition | 138775 | [138775-gran-turismo-sport-collectors-edition.json](./138775-gran-turismo-sport-collectors-edition.json) |
 | Gran Turismo Sport: Day One Edition | 138770 | [138770-gran-turismo-sport-day-one-edition.json](./138770-gran-turismo-sport-day-one-edition.json) |
 | Gran Turismo Sport: Digital Deluxe Edition | 138776 | [138776-gran-turismo-sport-digital-deluxe-edition.json](./138776-gran-turismo-sport-digital-deluxe-edition.json) |
