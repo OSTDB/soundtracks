@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Symphony | 330166 | [330166-fairytale-symphony.json](./330166-fairytale-symphony.json) |
 | Fairytale Thief: The Goldfish | 259568 | [259568-fairytale-thief-the-goldfish.json](./259568-fairytale-thief-the-goldfish.json) |
 | Faith & Shield: Tower Defense - Space Wars Game 2022 | 209694 | [209694-faith-and-shield-tower-defense-space-wars-game-2022.json](./209694-faith-and-shield-tower-defense-space-wars-game-2022.json) |
+| Faith Fighter 2 | 64375 | [64375-faith-fighter-2.json](./64375-faith-fighter-2.json) |
 | Fake Block | 96711 | [96711-fake-block.json](./96711-fake-block.json) |
 | Fake Ducks: Spooky Chronicles | 322398 | [322398-fake-ducks-spooky-chronicles.json](./322398-fake-ducks-spooky-chronicles.json) |
 | Fake Emperors | 264060 | [264060-fake-emperors.json](./264060-fake-emperors.json) |
