@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X Operations | 67954 | [67954-x-operations.json](./67954-x-operations.json) |
 | X Rebirth | 3347 | [3347-x-rebirth.json](./3347-x-rebirth.json) |
 | X Rock | 95380 | [95380-x-rock.json](./95380-x-rock.json) |
+| X S.E.E.D. | 62716 | [62716-x-s-e-e-d.json](./62716-x-s-e-e-d.json) |
 | X Virus | 190742 | [190742-x-virus.json](./190742-x-virus.json) |
 | X-Blades HD Gold | 230814 | [230814-x-blades-hd-gold.json](./230814-x-blades-hd-gold.json) |
 | X-Bladez: Inline Skater | 43941 | [43941-x-bladez-inline-skater.json](./43941-x-bladez-inline-skater.json) |
@@ -49,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane: Starship | 255743 | [255743-x-plane-starship.json](./255743-x-plane-starship.json) |
 | X-Racing | 220633 | [220633-x-racing.json](./220633-x-racing.json) |
 | X-Ray & Dilligas | 144319 | [144319-x-ray-and-dilligas.json](./144319-x-ray-and-dilligas.json) |
+| X-Ray Ball: Winter Storm | 62159 | [62159-x-ray-ball-winter-storm.json](./62159-x-ray-ball-winter-storm.json) |
 | X-Scape | 67155 | [67155-x-scape.json](./67155-x-scape.json) |
 | X-Town 3D game | 96124 | [96124-x-town-3d-game.json](./96124-x-town-3d-game.json) |
 | X-YZE | 370672 | [370672-x-yze.json](./370672-x-yze.json) |
@@ -97,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
 | Xenogears | 1346 | [1346-xenogears.json](./1346-xenogears.json) |
 | Xenoids | 191203 | [191203-xenoids.json](./191203-xenoids.json) |
+| XenoMiner | 62728 | [62728-xenominer.json](./62728-xenominer.json) |
 | Xenomorph | 83494 | [83494-xenomorph.json](./83494-xenomorph.json) |
 | Xenon Valkyrie | 29949 | [29949-xenon-valkyrie.json](./29949-xenon-valkyrie.json) |
 | Xenonauts 2 | 19408 | [19408-xenonauts-2.json](./19408-xenonauts-2.json) |
