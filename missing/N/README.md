@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year's Eve 2020 | 127187 | [127187-new-years-eve-2020.json](./127187-new-years-eve-2020.json) |
 | New Year's Jam | 325263 | [325263-new-years-jam.json](./325263-new-years-jam.json) |
+| New York City | 25698 | [25698-new-york-city.json](./25698-new-york-city.json) |
 | New York City Driver | 243696 | [243696-new-york-city-driver.json](./243696-new-york-city-driver.json) |
 | New York Mysteries | 378774 | [378774-new-york-mysteries.json](./378774-new-york-mysteries.json) |
 | New York Mysteries 3: The Lantern of Souls | 87664 | [87664-new-york-mysteries-3-the-lantern-of-souls.json](./87664-new-york-mysteries-3-the-lantern-of-souls.json) |
