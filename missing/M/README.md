@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Extinction | 261817 | [261817-mass-extinction.json](./261817-mass-extinction.json) |
 | Mass Harvest | 211183 | [211183-mass-harvest.json](./211183-mass-harvest.json) |
 | Mass Plus | 126576 | [126576-mass-plus.json](./126576-mass-plus.json) |
+| Mass Vector | 34260 | [34260-mass-vector.json](./34260-mass-vector.json) |
 | Massacre Tower | 161359 | [161359-massacre-tower.json](./161359-massacre-tower.json) |
 | Massira | 116369 | [116369-massira.json](./116369-massira.json) |
 | Massive Air Combat: Puzzles | 163423 | [163423-massive-air-combat-puzzles.json](./163423-massive-air-combat-puzzles.json) |
@@ -3227,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher Explorer | 49860 | [49860-monster-rancher-explorer.json](./49860-monster-rancher-explorer.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
 | Monster Retsuden Oreca Battle | 365701 | [365701-monster-retsuden-oreca-battle.json](./365701-monster-retsuden-oreca-battle.json) |
+| Monster RPG 2 | 34312 | [34312-monster-rpg-2.json](./34312-monster-rpg-2.json) |
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
 | Monster shooter | 108951 | [108951-monster-shooter.json](./108951-monster-shooter.json) |
 | Monster Shooter | 290700 | [290700-monster-shooter.json](./290700-monster-shooter.json) |
@@ -3389,6 +3391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordeth | 316605 | [316605-mordeth.json](./316605-mordeth.json) |
 | Mordfield Command | 304874 | [304874-mordfield-command.json](./304874-mordfield-command.json) |
 | Mordhau: Platinum Edition | 305495 | [305495-mordhau-platinum-edition.json](./305495-mordhau-platinum-edition.json) |
+| Mordheim: Warband Skirmish | 34295 | [34295-mordheim-warband-skirmish.json](./34295-mordheim-warband-skirmish.json) |
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
 | More Dark | 124195 | [124195-more-dark.json](./124195-more-dark.json) |
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
