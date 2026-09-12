@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacterial Takeover - Idle game | 257373 | [257373-bacterial-takeover-idle-game.json](./257373-bacterial-takeover-idle-game.json) |
 | Bacteriophage | 197948 | [197948-bacteriophage.json](./197948-bacteriophage.json) |
 | Bactory | 413612 | [413612-bactory.json](./413612-bactory.json) |
+| Bactron | 37076 | [37076-bactron.json](./37076-bactron.json) |
 | Baculus | 140599 | [140599-baculus.json](./140599-baculus.json) |
 | Bad 2 Bad: Apocalypse | 239913 | [239913-bad-2-bad-apocalypse.json](./239913-bad-2-bad-apocalypse.json) |
 | Bad 2 Bad: Delta | 96000 | [96000-bad-2-bad-delta.json](./96000-bad-2-bad-delta.json) |
@@ -1879,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackberryNova: Sports Club | 221759 | [221759-blackberrynova-sports-club.json](./221759-blackberrynova-sports-club.json) |
 | Blackblade Revenant | 327178 | [327178-blackblade-revenant.json](./327178-blackblade-revenant.json) |
 | Blackbox | 328240 | [328240-blackbox.json](./328240-blackbox.json) |
+| Blackbox | 37056 | [37056-blackbox.json](./37056-blackbox.json) |
 | BlackBox | 130951 | [130951-blackbox.json](./130951-blackbox.json) |
 | Blackbox: Infamous Puzzles | 101543 | [101543-blackbox-infamous-puzzles.json](./101543-blackbox-infamous-puzzles.json) |
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
@@ -2199,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blonde Driver | 96435 | [96435-blonde-driver.json](./96435-blonde-driver.json) |
 | Blonde Justice | 37198 | [37198-blonde-justice.json](./37198-blonde-justice.json) |
 | Blonsters | 304877 | [304877-blonsters.json](./304877-blonsters.json) |
+| Blood 'n Guts | 37070 | [37070-blood-n-guts.json](./37070-blood-n-guts.json) |
 | Blood & Bacon | 33720 | [33720-blood-and-bacon.json](./33720-blood-and-bacon.json) |
 | Blood & Bananas | 367947 | [367947-blood-and-bananas.json](./367947-blood-and-bananas.json) |
 | Blood & Dungeon | 292545 | [292545-blood-and-dungeon.json](./292545-blood-and-dungeon.json) |
