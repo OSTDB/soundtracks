@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Racer | 18698 | [18698-rage-racer.json](./18698-rage-racer.json) |
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Rage Tower | 355033 | [355033-rage-tower.json](./355033-rage-tower.json) |
+| Rageball | 43894 | [43894-rageball.json](./43894-rageball.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
@@ -176,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
 | Ragnarok Crush | 353877 | [353877-ragnarok-crush.json](./353877-ragnarok-crush.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
+| Ragnarok Journey | 43890 | [43890-ragnarok-journey.json](./43890-ragnarok-journey.json) |
 | Ragnarok Odyssey ACE: Launch Edition | 42668 | [42668-ragnarok-odyssey-ace-launch-edition.json](./42668-ragnarok-odyssey-ace-launch-edition.json) |
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Rush | 110282 | [110282-ragnarok-rush.json](./110282-ragnarok-rush.json) |
@@ -537,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Al's Humanity Academy | 115009 | [115009-real-als-humanity-academy.json](./115009-real-als-humanity-academy.json) |
 | Real Bird Fake Bird | 325241 | [325241-real-bird-fake-bird.json](./325241-real-bird-fake-bird.json) |
 | Real Bout Fatal Fury Best Collection | 70941 | [70941-real-bout-fatal-fury-best-collection.json](./70941-real-bout-fatal-fury-best-collection.json) |
+| Real Bout Garou Densetsu Special: Dominated Mind | 43874 | [43874-real-bout-garou-densetsu-special-dominated-mind.json](./43874-real-bout-garou-densetsu-special-dominated-mind.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Boxing 2: Remastered - DeathShroud Edition | 400203 | [400203-real-boxing-2-remastered-deathshroud-edition.json](./400203-real-boxing-2-remastered-deathshroud-edition.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
