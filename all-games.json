@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T11:46:00.010Z",
-  "total_soundtracks": 1442,
+  "generated_at": "2026-09-12T11:50:56.545Z",
+  "total_soundtracks": 1443,
   "games": [
     {
       "igdb_id": 7522,
@@ -264,6 +264,20 @@
     },
     {
       "igdb_id": 17376,
+      "game_name": "Abducted",
+      "game_url": "https://ostdb.net/games/abducted",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27315563c7bd91f2176f067adc4",
+      "albums": [
+        {
+          "album_name": "Abducted (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2stqYSnNRhg2pdDtQejTiK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 316440,
       "game_name": "Abducted",
       "game_url": "https://ostdb.net/games/abducted",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b27315563c7bd91f2176f067adc4",
