@@ -1632,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
 | Hokusai | 106540 | [106540-hokusai.json](./106540-hokusai.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
+| Hokuto no Ken: Shinpan no Sousousei Kengo Retsuden | 77991 | [77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json](./77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json) |
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
 | Hold the Mine | 362284 | [362284-hold-the-mine.json](./362284-hold-the-mine.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
@@ -2008,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
+| Hotline Miami: Collected Edition | 77985 | [77985-hotline-miami-collected-edition.json](./77985-hotline-miami-collected-edition.json) |
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | Hotshot Racing | 131888 | [131888-hotshot-racing.json](./131888-hotshot-racing.json) |
