@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-Road Kings | 98993 | [98993-off-road-kings.json](./98993-off-road-kings.json) |
 | Off-Road: Redneck Racing - Off-Road | 289319 | [289319-off-road-redneck-racing-off-road.json](./289319-off-road-redneck-racing-off-road.json) |
 | Off-World Relocation | 253361 | [253361-off-world-relocation.json](./253361-off-world-relocation.json) |
+| Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
 | Office Anomaly | 413596 | [413596-office-anomaly.json](./413596-office-anomaly.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
@@ -575,8 +576,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Burning Blood - Platinum Luffy | 171051 | [171051-one-piece-burning-blood-platinum-luffy.json](./171051-one-piece-burning-blood-platinum-luffy.json) |
 | One Piece: Burning Blood - Wanted | 171048 | [171048-one-piece-burning-blood-wanted.json](./171048-one-piece-burning-blood-wanted.json) |
 | One Piece: Burning Blood - Wanted 2 | 171050 | [171050-one-piece-burning-blood-wanted-2.json](./171050-one-piece-burning-blood-wanted-2.json) |
+| One Piece: Chopper no Daibouken | 75751 | [75751-one-piece-chopper-no-daibouken.json](./75751-one-piece-chopper-no-daibouken.json) |
+| One Piece: Dai Kaizoku Colosseum | 75835 | [75835-one-piece-dai-kaizoku-colosseum.json](./75835-one-piece-dai-kaizoku-colosseum.json) |
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
+| One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 1 | 171049 | [171049-one-piece-pirate-warriors-3-dlc-pack-1.json](./171049-one-piece-pirate-warriors-3-dlc-pack-1.json) |
 | One Piece: Pirate Warriors 3 - DLC Pack 2 | 171052 | [171052-one-piece-pirate-warriors-3-dlc-pack-2.json](./171052-one-piece-pirate-warriors-3-dlc-pack-2.json) |
 | One Piece: Pirate Warriors 4 - Character Pack 7 | 375163 | [375163-one-piece-pirate-warriors-4-character-pack-7.json](./375163-one-piece-pirate-warriors-4-character-pack-7.json) |
@@ -703,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
 | Onsento | 399591 | [399591-onsento.json](./399591-onsento.json) |
+| OnsenVR | 75804 | [75804-onsenvr.json](./75804-onsenvr.json) |
 | Onside Soccer | 37125 | [37125-onside-soccer.json](./37125-onside-soccer.json) |
 | Onslaught | 341510 | [341510-onslaught.json](./341510-onslaught.json) |
 | Onslaught on the Solar Frontier | 306369 | [306369-onslaught-on-the-solar-frontier.json](./306369-onslaught-on-the-solar-frontier.json) |
