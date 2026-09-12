@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firework | 399603 | [399603-firework.json](./399603-firework.json) |
 | Firework Syndrome | 310756 | [310756-firework-syndrome.json](./310756-firework-syndrome.json) |
 | Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
+| Firezone | 74397 | [74397-firezone.json](./74397-firezone.json) |
 | Firon | 114979 | [114979-firon.json](./114979-firon.json) |
 | First | 377569 | [377569-first.json](./377569-first.json) |
 | First Bite: Bad Blood | 221167 | [221167-first-bite-bad-blood.json](./221167-first-bite-bad-blood.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly a Kite | 365070 | [365070-fly-a-kite.json](./365070-fly-a-kite.json) |
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
 | Fly Catbug Fly! | 175434 | [175434-fly-catbug-fly.json](./175434-fly-catbug-fly.json) |
+| Fly Destroyer | 74344 | [74344-fly-destroyer.json](./74344-fly-destroyer.json) |
 | Fly Fly Dragon! | 255123 | [255123-fly-fly-dragon.json](./255123-fly-fly-dragon.json) |
 | Fly Fly Tank | 129735 | [129735-fly-fly-tank.json](./129735-fly-fly-tank.json) |
 | Fly for Fly | 380403 | [380403-fly-for-fly.json](./380403-fly-for-fly.json) |
@@ -2495,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle 2 | 327805 | [327805-full-throttle-2.json](./327805-full-throttle-2.json) |
 | Full Throttle Parking | 388010 | [388010-full-throttle-parking.json](./388010-full-throttle-parking.json) |
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
+| Full Tilt! Pinball 2 | 74316 | [74316-full-tilt-pinball-2.json](./74316-full-tilt-pinball-2.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
 | Fully Dogomatic | 301289 | [301289-fully-dogomatic.json](./301289-fully-dogomatic.json) |
