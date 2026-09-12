@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Dread 2 | 126955 | [126955-eternal-dread-2.json](./126955-eternal-dread-2.json) |
 | Eternal Dreamers | 140609 | [140609-eternal-dreamers.json](./140609-eternal-dreamers.json) |
 | Eternal Dungeon | 140589 | [140589-eternal-dungeon.json](./140589-eternal-dungeon.json) |
+| Eternal Empires | 74388 | [74388-eternal-empires.json](./74388-eternal-empires.json) |
 | Eternal Evolution | 197358 | [197358-eternal-evolution.json](./197358-eternal-evolution.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
 | Eternal Fighter Zero: Bad Moon Edition | 234639 | [234639-eternal-fighter-zero-bad-moon-edition.json](./234639-eternal-fighter-zero-bad-moon-edition.json) |
