@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
 | Eureka | 322573 | [322573-eureka.json](./322573-eureka.json) |
 | Eureka Seven Vol.1: The New Wave | 19641 | [19641-eureka-seven-vol-1-the-new-wave.json](./19641-eureka-seven-vol-1-the-new-wave.json) |
+| Eureka Seven: AO - The Flowers of Jungfrau | 64905 | [64905-eureka-seven-ao-the-flowers-of-jungfrau.json](./64905-eureka-seven-ao-the-flowers-of-jungfrau.json) |
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
 | Euro Rally Champion | 43298 | [43298-euro-rally-champion.json](./43298-euro-rally-champion.json) |
 | Euro Truck Life & Logistics Simulators | 221709 | [221709-euro-truck-life-and-logistics-simulators.json](./221709-euro-truck-life-and-logistics-simulators.json) |
