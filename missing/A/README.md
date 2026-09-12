@@ -174,7 +174,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
-| Absented Age: Squarebound | 150161 | [150161-absented-age-squarebound.json](./150161-absented-age-squarebound.json) |
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolute Adventure Zero | 107919 | [107919-absolute-adventure-zero.json](./107919-absolute-adventure-zero.json) |
@@ -1016,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
 | Aka | 159823 | [159823-aka.json](./159823-aka.json) |
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
+| Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akai Katana Shin | 78617 | [78617-akai-katana-shin.json](./78617-akai-katana-shin.json) |
 | Akairo Kimi to, Shiawase ni | 285995 | [285995-akairo-kimi-to-shiawase-ni.json](./285995-akairo-kimi-to-shiawase-ni.json) |
 | Akairu: A Day Adventure! | 386709 | [386709-akairu-a-day-adventure.json](./386709-akairu-a-day-adventure.json) |
@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akui | 184584 | [184584-akui.json](./184584-akui.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
+| Akuma-kun: Makai no Wana | 48605 | [48605-akuma-kun-makai-no-wana.json](./48605-akuma-kun-makai-no-wana.json) |
 | Akumajou Densetsu | 151162 | [151162-akumajou-densetsu.json](./151162-akumajou-densetsu.json) |
 | Akumajou Densetsu | 353301 | [353301-akumajou-densetsu.json](./353301-akumajou-densetsu.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
@@ -1535,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America Adventure | 206111 | [206111-america-adventure.json](./206111-america-adventure.json) |
 | America is Doing Great | 136486 | [136486-america-is-doing-great.json](./136486-america-is-doing-great.json) |
 | America Oudan Ultra Quiz: Part 3 | 300695 | [300695-america-oudan-ultra-quiz-part-3.json](./300695-america-oudan-ultra-quiz-part-3.json) |
+| America Oudan Ultra Quiz: Shijou Saidai no Tatakai | 48603 | [48603-america-oudan-ultra-quiz-shijou-saidai-no-tatakai.json](./48603-america-oudan-ultra-quiz-shijou-saidai-no-tatakai.json) |
 | America Rising 2: Legacy of the Enclave | 299131 | [299131-america-rising-2-legacy-of-the-enclave.json](./299131-america-rising-2-legacy-of-the-enclave.json) |
 | America: Expansion Pack | 166693 | [166693-america-expansion-pack.json](./166693-america-expansion-pack.json) |
 | America's Army | 597 | [597-americas-army.json](./597-americas-army.json) |
@@ -1551,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Deer Hunter | 206112 | [206112-american-deer-hunter.json](./206112-american-deer-hunter.json) |
 | American Diesel Trains | 96053 | [96053-american-diesel-trains.json](./96053-american-diesel-trains.json) |
 | American Dream | 137017 | [137017-american-dream.json](./137017-american-dream.json) |
+| American Dream | 48634 | [48634-american-dream.json](./48634-american-dream.json) |
 | American Girl: Dress Designer | 18244 | [18244-american-girl-dress-designer.json](./18244-american-girl-dress-designer.json) |
 | American Girl: Julie Finds a Way | 18241 | [18241-american-girl-julie-finds-a-way.json](./18241-american-girl-julie-finds-a-way.json) |
 | American Girl: Julie Saves the Eagles | 18242 | [18242-american-girl-julie-saves-the-eagles.json](./18242-american-girl-julie-saves-the-eagles.json) |
@@ -1948,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
+| Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
 | Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
@@ -2870,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
 | Asleep in the Deep | 337102 | [337102-asleep-in-the-deep.json](./337102-asleep-in-the-deep.json) |
 | Asleep: Act 1 | 209702 | [209702-asleep-act-1.json](./209702-asleep-act-1.json) |
+| Asmik-kun Land | 48616 | [48616-asmik-kun-land.json](./48616-asmik-kun-land.json) |
 | Asmik-kun World 2 | 7798 | [7798-asmik-kun-world-2.json](./7798-asmik-kun-world-2.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
@@ -3032,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
 | Astro Engineers | 249798 | [249798-astro-engineers.json](./249798-astro-engineers.json) |
+| Astro Fang: Super Machine | 48608 | [48608-astro-fang-super-machine.json](./48608-astro-fang-super-machine.json) |
 | Astro Fighter | 23049 | [23049-astro-fighter.json](./23049-astro-fighter.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
@@ -3200,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atrocity | 113011 | [113011-atrocity.json](./113011-atrocity.json) |
 | Atrocity: Field of Hands | 75137 | [75137-atrocity-field-of-hands.json](./75137-atrocity-field-of-hands.json) |
 | Atrofil: The Key | 127243 | [127243-atrofil-the-key.json](./127243-atrofil-the-key.json) |
+| Attack Animal Gakuen | 48601 | [48601-attack-animal-gakuen.json](./48601-attack-animal-gakuen.json) |
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack Force | 143056 | [143056-attack-force.json](./143056-attack-force.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
@@ -3327,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn with the Shiba Inu | 236292 | [236292-autumn-with-the-shiba-inu.json](./236292-autumn-with-the-shiba-inu.json) |
 | Autumn's Chorus | 114952 | [114952-autumns-chorus.json](./114952-autumns-chorus.json) |
 | Auxworld | 272306 | [272306-auxworld.json](./272306-auxworld.json) |
+| AV Bishoujo Senshi Girl Fighting | 48591 | [48591-av-bishoujo-senshi-girl-fighting.json](./48591-av-bishoujo-senshi-girl-fighting.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
