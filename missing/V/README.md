@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Val d'Isère Ski Park Manager: Edition 2003 | 64919 | [64919-val-disere-ski-park-manager-edition-2003.json](./64919-val-disere-ski-park-manager-edition-2003.json) |
 | Val d'Isère Skiing and Snowboarding | 175892 | [175892-val-disere-skiing-and-snowboarding.json](./175892-val-disere-skiing-and-snowboarding.json) |
 | Valakas Story | 122824 | [122824-valakas-story.json](./122824-valakas-story.json) |
+| Valcarta: Rise of the Demon | 32887 | [32887-valcarta-rise-of-the-demon.json](./32887-valcarta-rise-of-the-demon.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
 | Valentine's Day Bikini Femdom | 400903 | [400903-valentines-day-bikini-femdom.json](./400903-valentines-day-bikini-femdom.json) |
 | Valentines Cafe | 114977 | [114977-valentines-cafe.json](./114977-valentines-cafe.json) |
@@ -836,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Run | 224546 | [224546-vr-run.json](./224546-vr-run.json) |
 | VR Sailing | 338561 | [338561-vr-sailing.json](./338561-vr-sailing.json) |
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
+| VR Shooter Guns | 32867 | [32867-vr-shooter-guns.json](./32867-vr-shooter-guns.json) |
 | VR Skater | 146829 | [146829-vr-skater.json](./146829-vr-skater.json) |
 | VR Sky Walk | 189114 | [189114-vr-sky-walk.json](./189114-vr-sky-walk.json) |
 | VR Smash Park | 111716 | [111716-vr-smash-park.json](./111716-vr-smash-park.json) |
@@ -855,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Waifu: MuChan | 277843 | [277843-vr-waifu-muchan.json](./277843-vr-waifu-muchan.json) |
 | VR Walking Simulator | 150688 | [150688-vr-walking-simulator.json](./150688-vr-walking-simulator.json) |
 | VR War Lab | 216488 | [216488-vr-war-lab.json](./216488-vr-war-lab.json) |
+| VR-Xterminator | 32992 | [32992-vr-xterminator.json](./32992-vr-xterminator.json) |
 | VR: Killing Town | 94767 | [94767-vr-killing-town.json](./94767-vr-killing-town.json) |
 | VR: The Puzzle Room | 29909 | [29909-vr-the-puzzle-room.json](./29909-vr-the-puzzle-room.json) |
 | VR: Vacate the Room | 32281 | [32281-vr-vacate-the-room.json](./32281-vr-vacate-the-room.json) |
