@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari: Hanamaru Daiyouchienji | 110397 | [110397-madou-monogatari-hanamaru-daiyouchienji.json](./110397-madou-monogatari-hanamaru-daiyouchienji.json) |
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
+| Madrobot X | 31793 | [31793-madrobot-x.json](./31793-madrobot-x.json) |
 | Mads, Morfar og Miljøstrup | 59950 | [59950-mads-morfar-og-milj-strup.json](./59950-mads-morfar-og-milj-strup.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
@@ -516,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
 | Makoto Wakaido's Case Files: Executioner's Wedge | 245045 | [245045-makoto-wakaidos-case-files-executioners-wedge.json](./245045-makoto-wakaidos-case-files-executioners-wedge.json) |
 | Malacadabra | 229037 | [229037-malacadabra.json](./229037-malacadabra.json) |
+| Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
 | Maldita Castilla EX: Collector's Edition | 182480 | [182480-maldita-castilla-ex-collectors-edition.json](./182480-maldita-castilla-ex-collectors-edition.json) |
 | Maldrin Journey | 123037 | [123037-maldrin-journey.json](./123037-maldrin-journey.json) |
 | Maleficent Free Fall | 61680 | [61680-maleficent-free-fall.json](./61680-maleficent-free-fall.json) |
@@ -613,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
 | Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
+| Manic Miners | 31839 | [31839-manic-miners.json](./31839-manic-miners.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
@@ -1924,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
+| MetaWorld | 31841 | [31841-metaworld.json](./31841-metaworld.json) |
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
 | Meteor | 127321 | [127321-meteor.json](./127321-meteor.json) |
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
@@ -2007,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Horizon 2077 | 238735 | [238735-miami-horizon-2077.json](./238735-miami-horizon-2077.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
 | Miamo.fun | 267368 | [267368-miamo-fun.json](./267368-miamo-fun.json) |
+| Miaou Moon | 31790 | [31790-miaou-moon.json](./31790-miaou-moon.json) |
 | MiaouVSRG | 351047 | [351047-miaouvsrg.json](./351047-miaouvsrg.json) |
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
 | Miazma or the Devil's Stone | 99012 | [99012-miazma-or-the-devils-stone.json](./99012-miazma-or-the-devils-stone.json) |
@@ -4454,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Origin | 227265 | [227265-mythic-origin.json](./227265-mythic-origin.json) |
 | Mythic Origins | 207321 | [207321-mythic-origins.json](./207321-mythic-origins.json) |
 | Mythic Pearls: The Legend of Tirnanog | 73803 | [73803-mythic-pearls-the-legend-of-tirnanog.json](./73803-mythic-pearls-the-legend-of-tirnanog.json) |
+| Mythic Victory Arena | 31795 | [31795-mythic-victory-arena.json](./31795-mythic-victory-arena.json) |
 | Mythic Writer | 165654 | [165654-mythic-writer.json](./165654-mythic-writer.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
 | Mything | 381597 | [381597-mything.json](./381597-mything.json) |
