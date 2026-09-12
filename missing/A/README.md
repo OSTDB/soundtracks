@@ -122,7 +122,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
-| A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
 | A way up! | 115617 | [115617-a-way-up.json](./115617-a-way-up.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A Werewolf Opportunity, Obviously | 225265 | [225265-a-werewolf-opportunity-obviously.json](./225265-a-werewolf-opportunity-obviously.json) |
