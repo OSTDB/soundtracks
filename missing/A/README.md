@@ -111,7 +111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
-| A True History of the Adamant Gambit | 188586 | [188586-a-true-history-of-the-adamant-gambit.json](./188586-a-true-history-of-the-adamant-gambit.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
