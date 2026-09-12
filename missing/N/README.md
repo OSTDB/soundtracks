@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
 | Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
+| Neo Steam: The Shattered Continent | 51198 | [51198-neo-steam-the-shattered-continent.json](./51198-neo-steam-the-shattered-continent.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
@@ -1192,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Afraid Of Battle | 341481 | [341481-no-afraid-of-battle.json](./341481-no-afraid-of-battle.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
+| No Brakes Valet | 51169 | [51169-no-brakes-valet.json](./51169-no-brakes-valet.json) |
 | No Chance | 146866 | [146866-no-chance.json](./146866-no-chance.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
