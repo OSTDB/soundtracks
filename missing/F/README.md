@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappatron: Episode 2 (Chapters 4-7) | 168847 | [168847-flappatron-episode-2-chapters-4-7.json](./168847-flappatron-episode-2-chapters-4-7.json) |
 | Flappatron: Episode 3 (Chapters 8 - 10) | 168846 | [168846-flappatron-episode-3-chapters-8-10.json](./168846-flappatron-episode-3-chapters-8-10.json) |
 | Flappatron: Episode 4 (Chapters 11 - 13) | 168845 | [168845-flappatron-episode-4-chapters-11-13.json](./168845-flappatron-episode-4-chapters-11-13.json) |
+| FlapPing | 40718 | [40718-flapping.json](./40718-flapping.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
 | Flappy Bird | 298312 | [298312-flappy-bird.json](./298312-flappy-bird.json) |
@@ -2152,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
+| Fox & Goat | 40740 | [40740-fox-and-goat.json](./40740-fox-and-goat.json) |
 | Fox and Bunny | 117780 | [117780-fox-and-bunny.json](./117780-fox-and-bunny.json) |
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
