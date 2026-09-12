@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
 | Dance Dance Revolution Ultramix 3 | 5801 | [5801-dance-dance-revolution-ultramix-3.json](./5801-dance-dance-revolution-ultramix-3.json) |
 | Dance Dance Revolution Ultramix 4 | 5802 | [5802-dance-dance-revolution-ultramix-4.json](./5802-dance-dance-revolution-ultramix-4.json) |
+| Dance Dance Revolution USA | 66659 | [66659-dance-dance-revolution-usa.json](./66659-dance-dance-revolution-usa.json) |
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
 | Dance Dance Revolution: Hottest Party 4 | 50733 | [50733-dance-dance-revolution-hottest-party-4.json](./50733-dance-dance-revolution-hottest-party-4.json) |
 | Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
@@ -1219,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de D: Rising Stage | 55924 | [55924-densha-de-d-rising-stage.json](./55924-densha-de-d-rising-stage.json) |
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Densha de GO! 64 | 3469 | [3469-densha-de-go-64.json](./3469-densha-de-go-64.json) |
+| Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
 | Densha Unten Shirei! Tokaido-hen | 221739 | [221739-densha-unten-shirei-tokaido-hen.json](./221739-densha-unten-shirei-tokaido-hen.json) |
 | Densha Unten Shirei! Tokyo-wan-hen | 221738 | [221738-densha-unten-shirei-tokyo-wan-hen.json](./221738-densha-unten-shirei-tokyo-wan-hen.json) |
 | Denshi Life 2 | 331876 | [331876-denshi-life-2.json](./331876-denshi-life-2.json) |
@@ -2478,6 +2480,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai | 60545 | [60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json](./60545-doraemon-shin-nobita-no-daimakyou-peko-to-5-nin-no-tankentai.json) |
 | Dorc | 415087 | [415087-dorc.json](./415087-dorc.json) |
 | Dord | 223668 | [223668-dord.json](./223668-dord.json) |
+| Dorei Toushi Battle Slave | 66651 | [66651-dorei-toushi-battle-slave.json](./66651-dorei-toushi-battle-slave.json) |
+| Dorei Toushi F: Battle Slave Fantasia | 66649 | [66649-dorei-toushi-f-battle-slave-fantasia.json](./66649-dorei-toushi-f-battle-slave-fantasia.json) |
 | DoReMi Fantasy: Milon's DokiDoki Adventure | 15908 | [15908-doremi-fantasy-milons-dokidoki-adventure.json](./15908-doremi-fantasy-milons-dokidoki-adventure.json) |
 | Dorf the Dwarf | 309378 | [309378-dorf-the-dwarf.json](./309378-dorf-the-dwarf.json) |
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
