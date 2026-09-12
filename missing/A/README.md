@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery VR: Little Bird Adventure | 356072 | [356072-aery-vr-little-bird-adventure.json](./356072-aery-vr-little-bird-adventure.json) |
 | Aery: Sky Castle | 145645 | [145645-aery-sky-castle.json](./145645-aery-sky-castle.json) |
 | Aery: Vikings | 199650 | [199650-aery-vikings.json](./199650-aery-vikings.json) |
+| Aesculap OrthoPilot Elite VR Palpation | 57031 | [57031-aesculap-orthopilot-elite-vr-palpation.json](./57031-aesculap-orthopilot-elite-vr-palpation.json) |
 | Aesop Rock's Black Hole Superette Experience | 346605 | [346605-aesop-rocks-black-hole-superette-experience.json](./346605-aesop-rocks-black-hole-superette-experience.json) |
 | Aestha: The runner game | 232153 | [232153-aestha-the-runner-game.json](./232153-aestha-the-runner-game.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
@@ -3045,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
+| Asyula | 57030 | [57030-asyula.json](./57030-asyula.json) |
 | ASZG Project | 236296 | [236296-aszg-project.json](./236296-aszg-project.json) |
 | ASZG Project: Director's Cut | 338175 | [338175-aszg-project-directors-cut.json](./338175-aszg-project-directors-cut.json) |
 | At a Distance | 65496 | [65496-at-a-distance.json](./65496-at-a-distance.json) |
@@ -3344,6 +3346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Monsters | 54450 | [54450-avoid-the-monsters.json](./54450-avoid-the-monsters.json) |
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
+| Avoider | 57056 | [57056-avoider.json](./57056-avoider.json) |
 | Avoidvania | 159802 | [159802-avoidvania.json](./159802-avoidvania.json) |
 | Avoidy Virus | 338183 | [338183-avoidy-virus.json](./338183-avoidy-virus.json) |
 | Avolteha | 208022 | [208022-avolteha.json](./208022-avolteha.json) |
