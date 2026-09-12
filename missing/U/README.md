@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uh Oh Calico! | 273411 | [273411-uh-oh-calico.json](./273411-uh-oh-calico.json) |
 | Uin | 125993 | [125993-uin.json](./125993-uin.json) |
 | Uju Jeonsa Dooly | 93589 | [93589-uju-jeonsa-dooly.json](./93589-uju-jeonsa-dooly.json) |
+| UK Truck Simulator | 27641 | [27641-uk-truck-simulator.json](./27641-uk-truck-simulator.json) |
 | Ukik | 246103 | [246103-ukik.json](./246103-ukik.json) |
 | Uknon Jones & Guynelk 2 | 293625 | [293625-uknon-jones-and-guynelk-2.json](./293625-uknon-jones-and-guynelk-2.json) |
 | Uknon Jones & Guynelk: Awesome! | 275338 | [275338-uknon-jones-and-guynelk-awesome.json](./275338-uknon-jones-and-guynelk-awesome.json) |
