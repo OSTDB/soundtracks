@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananarun | 157698 | [157698-bananarun.json](./157698-bananarun.json) |
 | Bananas in Pajamas: It's Fun Time | 221980 | [221980-bananas-in-pajamas-its-fun-time.json](./221980-bananas-in-pajamas-its-fun-time.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
+| Band of Monsters | 38950 | [38950-band-of-monsters.json](./38950-band-of-monsters.json) |
 | Band Saga | 60563 | [60563-band-saga.json](./60563-band-saga.json) |
 | Band Space | 223432 | [223432-band-space.json](./223432-band-space.json) |
 | Band Wagon | 91435 | [91435-band-wagon.json](./91435-band-wagon.json) |
@@ -778,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
 | Battle Drones: Red Rock Resistance | 226237 | [226237-battle-drones-red-rock-resistance.json](./226237-battle-drones-red-rock-resistance.json) |
+| Battle Ducks | 38979 | [38979-battle-ducks.json](./38979-battle-ducks.json) |
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
 | Battle Fighter | 55861 | [55861-battle-fighter.json](./55861-battle-fighter.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
@@ -1997,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
+| BlazBlue Revolution Reburning | 38977 | [38977-blazblue-revolution-reburning.json](./38977-blazblue-revolution-reburning.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
 | BlazBlue: Chrono Phantasma | 5643 | [5643-blazblue-chrono-phantasma.json](./5643-blazblue-chrono-phantasma.json) |
 | BlazBlue: Continuum Shift II | 11611 | [11611-blazblue-continuum-shift-ii.json](./11611-blazblue-continuum-shift-ii.json) |
@@ -2035,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
+| Blendoku | 38914 | [38914-blendoku.json](./38914-blendoku.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
 | Bless You Again | 334133 | [334133-bless-you-again.json](./334133-bless-you-again.json) |
 | Blessed Redux | 382201 | [382201-blessed-redux.json](./382201-blessed-redux.json) |
@@ -2651,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
 | Booox | 410222 | [410222-booox.json](./410222-booox.json) |
 | Boopa Zap | 93550 | [93550-boopa-zap.json](./93550-boopa-zap.json) |
+| Booper, Get Home! | 38949 | [38949-booper-get-home.json](./38949-booper-get-home.json) |
 | Boopie Island | 406732 | [406732-boopie-island.json](./406732-boopie-island.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
@@ -2786,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound by Love | 186837 | [186837-bound-by-love.json](./186837-bound-by-love.json) |
 | Bound High | 50596 | [50596-bound-high.json](./50596-bound-high.json) |
 | Bound in Time | 199602 | [199602-bound-in-time.json](./199602-bound-in-time.json) |
+| Bound of the Skies | 38976 | [38976-bound-of-the-skies.json](./38976-bound-of-the-skies.json) |
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
 | Boundary | 22395 | [22395-boundary.json](./22395-boundary.json) |
 | Boundary Gate: Daughter of Kingdom | 45949 | [45949-boundary-gate-daughter-of-kingdom.json](./45949-boundary-gate-daughter-of-kingdom.json) |
@@ -2946,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Branchbound: Launch of the Logs | 377064 | [377064-branchbound-launch-of-the-logs.json](./377064-branchbound-launch-of-the-logs.json) |
 | Brand! New! Friends! | 372477 | [372477-brand-new-friends.json](./372477-brand-new-friends.json) |
 | Brandins Buttons | 151176 | [151176-brandins-buttons.json](./151176-brandins-buttons.json) |
+| Brandnew Boy | 38975 | [38975-brandnew-boy.json](./38975-brandnew-boy.json) |
 | Branmarker 2 | 64977 | [64977-branmarker-2.json](./64977-branmarker-2.json) |
 | Bras | 353918 | [353918-bras.json](./353918-bras.json) |
 | BrasFoot 2003 | 249466 | [249466-brasfoot-2003.json](./249466-brasfoot-2003.json) |
@@ -2966,6 +2973,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Doggy Quest | 190156 | [190156-brave-doggy-quest.json](./190156-brave-doggy-quest.json) |
 | Brave Dwarves | 188558 | [188558-brave-dwarves.json](./188558-brave-dwarves.json) |
 | Brave Dwarves 2 | 144265 | [144265-brave-dwarves-2.json](./144265-brave-dwarves-2.json) |
+| Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
+| Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
 | Brave Kaka | 246422 | [246422-brave-kaka.json](./246422-brave-kaka.json) |
@@ -2985,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravery | 391078 | [391078-bravery.json](./391078-bravery.json) |
 | Bravest Burden | 173291 | [173291-bravest-burden.json](./173291-bravest-burden.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
+| Bravium: Hero Defense | 38974 | [38974-bravium-hero-defense.json](./38974-bravium-hero-defense.json) |
 | Bravo Air Race | 18250 | [18250-bravo-air-race.json](./18250-bravo-air-race.json) |
 | Bravo Music: Christmas Edition | 86009 | [86009-bravo-music-christmas-edition.json](./86009-bravo-music-christmas-edition.json) |
 | Bravo Romeo Delta | 14344 | [14344-bravo-romeo-delta.json](./14344-bravo-romeo-delta.json) |
