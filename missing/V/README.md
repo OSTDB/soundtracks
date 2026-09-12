@@ -717,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voltron | 95400 | [95400-voltron.json](./95400-voltron.json) |
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
 | Volvalis | 200702 | [200702-volvalis.json](./200702-volvalis.json) |
+| Voodoo Nights | 77329 | [77329-voodoo-nights.json](./77329-voodoo-nights.json) |
 | Voodoo Vince | 5466 | [5466-voodoo-vince.json](./5466-voodoo-vince.json) |
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
 | Vorago | 312560 | [312560-vorago.json](./312560-vorago.json) |
