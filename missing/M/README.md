@@ -3841,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mumu Boukenki Amusing Dream | 264311 | [264311-mumu-boukenki-amusing-dream.json](./264311-mumu-boukenki-amusing-dream.json) |
 | MuMuMu: Mist of Six Dreams | 312590 | [312590-mumumu-mist-of-six-dreams.json](./312590-mumumu-mist-of-six-dreams.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
+| Munch Mobile | 40204 | [40204-munch-mobile.json](./40204-munch-mobile.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
