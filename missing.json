@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T02:19:01.128Z",
-  "total_missing": 60162,
+  "generated_at": "2026-09-12T02:21:29.646Z",
+  "total_missing": 60161,
   "games": [
     {
       "igdb_id": 306086,
@@ -2586,11 +2586,6 @@
       "igdb_id": 295241,
       "game_name": "A Turnabout to El Dorado",
       "file": "missing/A/295241-a-turnabout-to-el-dorado.json"
-    },
-    {
-      "igdb_id": 303250,
-      "game_name": "A Turnabout With Too Many Faces",
-      "file": "missing/A/303250-a-turnabout-with-too-many-faces.json"
     },
     {
       "igdb_id": 246102,
