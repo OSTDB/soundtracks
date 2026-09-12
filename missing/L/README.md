@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light on Earth | 383971 | [383971-light-on-earth.json](./383971-light-on-earth.json) |
 | Light Rider | 108427 | [108427-light-rider.json](./108427-light-rider.json) |
 | Light Speed Adventures | 330518 | [330518-light-speed-adventures.json](./330518-light-speed-adventures.json) |
+| Light Strike Array | 76583 | [76583-light-strike-array.json](./76583-light-strike-array.json) |
 | Light Switch Simulator | 317591 | [317591-light-switch-simulator.json](./317591-light-switch-simulator.json) |
 | Light the Backrooms | 232441 | [232441-light-the-backrooms.json](./232441-light-the-backrooms.json) |
 | Light the Candles in Hell | 340920 | [340920-light-the-candles-in-hell.json](./340920-light-the-candles-in-hell.json) |
