@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
 | Embrace of Ocean: Story of Hope | 51956 | [51956-embrace-of-ocean-story-of-hope.json](./51956-embrace-of-ocean-story-of-hope.json) |
+| Embrace the Fear | 29773 | [29773-embrace-the-fear.json](./29773-embrace-the-fear.json) |
 | Embraced | 299429 | [299429-embraced.json](./299429-embraced.json) |
 | Embraced by Autumn | 154032 | [154032-embraced-by-autumn.json](./154032-embraced-by-autumn.json) |
 | Embracing Darkness | 235483 | [235483-embracing-darkness.json](./235483-embracing-darkness.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
 | European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
+| European Mystery: Scent of Desire - Collector's Edition | 29749 | [29749-european-mystery-scent-of-desire-collectors-edition.json](./29749-european-mystery-scent-of-desire-collectors-edition.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
 | Eva | 185099 | [185099-eva.json](./185099-eva.json) |
