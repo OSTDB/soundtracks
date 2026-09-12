@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T19:31:45.671Z",
-  "total_missing": 63062,
+  "generated_at": "2026-09-12T19:41:30.268Z",
+  "total_missing": 63065,
   "games": [
     {
       "igdb_id": 306086,
@@ -1813,6 +1813,11 @@
       "file": "missing/0-9/304004-5-minute-raid.json"
     },
     {
+      "igdb_id": 38959,
+      "game_name": "5 Star Rio Resort",
+      "file": "missing/0-9/38959-5-star-rio-resort.json"
+    },
+    {
       "igdb_id": 277038,
       "game_name": "5:48AM",
       "file": "missing/0-9/277038-5-48am.json"
@@ -3121,11 +3126,6 @@
       "igdb_id": 331349,
       "game_name": "Abyss Unchained",
       "file": "missing/A/331349-abyss-unchained.json"
-    },
-    {
-      "igdb_id": 193972,
-      "game_name": "Abyss Walker",
-      "file": "missing/A/193972-abyss-walker.json"
     },
     {
       "igdb_id": 235746,
@@ -59866,6 +59866,11 @@
       "igdb_id": 311784,
       "game_name": "Dark Hunter",
       "file": "missing/D/311784-dark-hunter.json"
+    },
+    {
+      "igdb_id": 38958,
+      "game_name": "Dark Incursion",
+      "file": "missing/D/38958-dark-incursion.json"
     },
     {
       "igdb_id": 278162,
@@ -265928,6 +265933,11 @@
       "file": "missing/T/23920-the-dark-matter.json"
     },
     {
+      "igdb_id": 38957,
+      "game_name": "The Dark Meadow",
+      "file": "missing/T/38957-the-dark-meadow.json"
+    },
+    {
       "igdb_id": 320529,
       "game_name": "The Dark Mind",
       "file": "missing/T/320529-the-dark-mind.json"
@@ -305751,6 +305761,11 @@
       "igdb_id": 312001,
       "game_name": "Wind Rider: Hero Outfit",
       "file": "missing/W/312001-wind-rider-hero-outfit.json"
+    },
+    {
+      "igdb_id": 38960,
+      "game_name": "Wind Runner Adventure",
+      "file": "missing/W/38960-wind-runner-adventure.json"
     },
     {
       "igdb_id": 312540,
