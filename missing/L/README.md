@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
+| Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
 | Lightstream Racer | 100163 | [100163-lightstream-racer.json](./100163-lightstream-racer.json) |
 | LightSup! | 259021 | [259021-lightsup.json](./259021-lightsup.json) |
@@ -1117,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Robots | 231931 | [231931-little-big-robots.json](./231931-little-big-robots.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
+| Little Caesars Fractions Pizza | 77302 | [77302-little-caesars-fractions-pizza.json](./77302-little-caesars-fractions-pizza.json) |
 | Little Cheese Works | 263193 | [263193-little-cheese-works.json](./263193-little-cheese-works.json) |
 | Little Chick | 157165 | [157165-little-chick.json](./157165-little-chick.json) |
 | Little Children's Educational Swanky Puzzles Game | 97308 | [97308-little-childrens-educational-swanky-puzzles-game.json](./97308-little-childrens-educational-swanky-puzzles-game.json) |
