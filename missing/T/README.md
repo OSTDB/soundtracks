@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
 | Test Your Mind | 85432 | [85432-test-your-mind.json](./85432-test-your-mind.json) |
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
+| Testbed Terror | 50541 | [50541-testbed-terror.json](./50541-testbed-terror.json) |
 | Tested With Robots! | 85433 | [85433-tested-with-robots.json](./85433-tested-with-robots.json) |
 | Tester | 397704 | [397704-tester.json](./397704-tester.json) |
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
@@ -3055,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Power | 137071 | [137071-the-power.json](./137071-the-power.json) |
 | The power of chaos | 118369 | [118369-the-power-of-chaos.json](./118369-the-power-of-chaos.json) |
 | The Powerpuff Girls | 217930 | [217930-the-powerpuff-girls.json](./217930-the-powerpuff-girls.json) |
+| The Powerpuff Girls: Defenders of Townsville | 50484 | [50484-the-powerpuff-girls-defenders-of-townsville.json](./50484-the-powerpuff-girls-defenders-of-townsville.json) |
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
 | The Powerpuff Girls: Princess Snorebucks | 59381 | [59381-the-powerpuff-girls-princess-snorebucks.json](./59381-the-powerpuff-girls-princess-snorebucks.json) |
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
@@ -3872,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wandering Village: The Last Leviathan | 404854 | [404854-the-wandering-village-the-last-leviathan.json](./404854-the-wandering-village-the-last-leviathan.json) |
 | The Wanted Man's House | 313485 | [313485-the-wanted-mans-house.json](./313485-the-wanted-mans-house.json) |
 | The War Engine | 79886 | [79886-the-war-engine.json](./79886-the-war-engine.json) |
+| The war god : The artifact | 50516 | [50516-the-war-god-the-artifact.json](./50516-the-war-god-the-artifact.json) |
 | The War of Genesis IV: Spiral Genesis | 58763 | [58763-the-war-of-genesis-iv-spiral-genesis.json](./58763-the-war-of-genesis-iv-spiral-genesis.json) |
 | The War of Genesis: Battle of Antaria | 110293 | [110293-the-war-of-genesis-battle-of-antaria.json](./110293-the-war-of-genesis-battle-of-antaria.json) |
 | The War of Genesis: Remnants of Gray | 137626 | [137626-the-war-of-genesis-remnants-of-gray.json](./137626-the-war-of-genesis-remnants-of-gray.json) |
@@ -4162,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | THO Simulator | 188086 | [188086-tho-simulator.json](./188086-tho-simulator.json) |
 | Thomas & Friends: Let's Roll | 370116 | [370116-thomas-and-friends-lets-roll.json](./370116-thomas-and-friends-lets-roll.json) |
 | Thomas & Friends: Right on Time | 220126 | [220126-thomas-and-friends-right-on-time.json](./220126-thomas-and-friends-right-on-time.json) |
+| Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Thomas Was Alone | 2291 | [2291-thomas-was-alone.json](./2291-thomas-was-alone.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
@@ -6203,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree of Ashes | 272823 | [272823-tree-of-ashes.json](./272823-tree-of-ashes.json) |
 | Tree of Knowledge | 392138 | [392138-tree-of-knowledge.json](./392138-tree-of-knowledge.json) |
 | Tree of Life: Yggdrasil | 82159 | [82159-tree-of-life-yggdrasil.json](./82159-tree-of-life-yggdrasil.json) |
+| Tree of Savior DB | 50483 | [50483-tree-of-savior-db.json](./50483-tree-of-savior-db.json) |
 | Tree of Savior: Neo | 349296 | [349296-tree-of-savior-neo.json](./349296-tree-of-savior-neo.json) |
 | Tree Simulator 2022 | 152372 | [152372-tree-simulator-2022.json](./152372-tree-simulator-2022.json) |
 | Tree Spade Truck | 90670 | [90670-tree-spade-truck.json](./90670-tree-spade-truck.json) |
