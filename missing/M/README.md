@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
+| Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
 | Magical Prisma | 130404 | [130404-magical-prisma.json](./130404-magical-prisma.json) |
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
@@ -1841,7 +1842,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Rising: Revengeance - Limited Edition | 44557 | [44557-metal-gear-rising-revengeance-limited-edition.json](./44557-metal-gear-rising-revengeance-limited-edition.json) |
 | Metal Gear Solid 2: Sons of Liberty - Master Collection Version | 383389 | [383389-metal-gear-solid-2-sons-of-liberty-master-collection-version.json](./383389-metal-gear-solid-2-sons-of-liberty-master-collection-version.json) |
 | Metal Gear Solid 3: Snake Eater - HD Edition | 99821 | [99821-metal-gear-solid-3-snake-eater-hd-edition.json](./99821-metal-gear-solid-3-snake-eater-hd-edition.json) |
+| Metal Gear Solid 3: Snake Eater - Limited Metal Edition | 43264 | [43264-metal-gear-solid-3-snake-eater-limited-metal-edition.json](./43264-metal-gear-solid-3-snake-eater-limited-metal-edition.json) |
 | Metal Gear Solid 3: Snake Eater - Master Collection Version | 383391 | [383391-metal-gear-solid-3-snake-eater-master-collection-version.json](./383391-metal-gear-solid-3-snake-eater-master-collection-version.json) |
+| Metal Gear Solid 3: Snake Eater - Slipcase Edition | 43262 | [43262-metal-gear-solid-3-snake-eater-slipcase-edition.json](./43262-metal-gear-solid-3-snake-eater-slipcase-edition.json) |
 | Metal Gear Solid 4: 25th Anniversary Edition | 44569 | [44569-metal-gear-solid-4-25th-anniversary-edition.json](./44569-metal-gear-solid-4-25th-anniversary-edition.json) |
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
 | Metal Gear Solid V: The Phantom Pain - Special Edition | 298021 | [298021-metal-gear-solid-v-the-phantom-pain-special-edition.json](./298021-metal-gear-solid-v-the-phantom-pain-special-edition.json) |
@@ -2768,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
 | MLB The Show 26: Digital Deluxe Edition | 390533 | [390533-mlb-the-show-26-digital-deluxe-edition.json](./390533-mlb-the-show-26-digital-deluxe-edition.json) |
+| MLF 2 | 43242 | [43242-mlf-2.json](./43242-mlf-2.json) |
 | MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
 | MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
@@ -2810,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: One Year War | 66612 | [66612-mobile-suit-gundam-one-year-war.json](./66612-mobile-suit-gundam-one-year-war.json) |
 | Mobile Suit Gundam: Return of Zion | 222898 | [222898-mobile-suit-gundam-return-of-zion.json](./222898-mobile-suit-gundam-return-of-zion.json) |
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
+| Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
@@ -3446,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat HD Arcade Kollection | 44618 | [44618-mortal-kombat-hd-arcade-kollection.json](./44618-mortal-kombat-hd-arcade-kollection.json) |
 | Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
 | Mortal Kombat II | 299167 | [299167-mortal-kombat-ii.json](./299167-mortal-kombat-ii.json) |
+| Mortal Kombat Kollection | 43251 | [43251-mortal-kombat-kollection.json](./43251-mortal-kombat-kollection.json) |
 | Mortal Kombat Kollection Online | 133950 | [133950-mortal-kombat-kollection-online.json](./133950-mortal-kombat-kollection-online.json) |
 | Mortal Kombat Mobile | 305553 | [305553-mortal-kombat-mobile.json](./305553-mortal-kombat-mobile.json) |
 | Mortal Kombat Trilogy | 199010 | [199010-mortal-kombat-trilogy.json](./199010-mortal-kombat-trilogy.json) |
