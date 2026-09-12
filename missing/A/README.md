@@ -166,7 +166,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abondoned Village | 277282 | [277282-abondoned-village.json](./277282-abondoned-village.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
-| About Love and Hate 2 | 173805 | [173805-about-love-and-hate-2.json](./173805-about-love-and-hate-2.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Above Below | 216462 | [216462-above-below.json](./216462-above-below.json) |
 | Above the Stars | 148555 | [148555-above-the-stars.json](./148555-above-the-stars.json) |
