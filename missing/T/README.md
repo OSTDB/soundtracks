@@ -4311,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Force V: Perfect System | 43913 | [43913-thunder-force-v-perfect-system.json](./43913-thunder-force-v-perfect-system.json) |
 | Thunder Force: Gold Pack 1 | 100138 | [100138-thunder-force-gold-pack-1.json](./100138-thunder-force-gold-pack-1.json) |
 | Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
+| Thunder Hoop | 40213 | [40213-thunder-hoop.json](./40213-thunder-hoop.json) |
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
@@ -6622,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tu cara me suena: El videojuego | 332817 | [332817-tu-cara-me-suena-el-videojuego.json](./332817-tu-cara-me-suena-el-videojuego.json) |
 | Tubby's Wonderful Town | 382751 | [382751-tubbys-wonderful-town.json](./382751-tubbys-wonderful-town.json) |
 | Tube Be Continued | 272569 | [272569-tube-be-continued.json](./272569-tube-be-continued.json) |
+| Tube Panic | 40163 | [40163-tube-panic.json](./40163-tube-panic.json) |
 | Tube Rolling | 159794 | [159794-tube-rolling.json](./159794-tube-rolling.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
