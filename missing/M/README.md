@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
 | Magician | 94209 | [94209-magician.json](./94209-magician.json) |
 | Magician of Fallen | 82768 | [82768-magician-of-fallen.json](./82768-magician-of-fallen.json) |
+| Magicians Dead | 76544 | [76544-magicians-dead.json](./76544-magicians-dead.json) |
 | Magicians Dead: Force of the Soul | 172716 | [172716-magicians-dead-force-of-the-soul.json](./172716-magicians-dead-force-of-the-soul.json) |
 | Magicians' Chase: Missing Curry Recipe | 219286 | [219286-magicians-chase-missing-curry-recipe.json](./219286-magicians-chase-missing-curry-recipe.json) |
 | MagicJam | 113020 | [113020-magicjam.json](./113020-magicjam.json) |
@@ -1086,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathematician | 377078 | [377078-mathematician.json](./377078-mathematician.json) |
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
 | Mathooze - The Math Puzzle Game! | 24964 | [24964-mathooze-the-math-puzzle-game.json](./24964-mathooze-the-math-puzzle-game.json) |
+| Maths Circus Act 6 | 76592 | [76592-maths-circus-act-6.json](./76592-maths-circus-act-6.json) |
 | Maths Planets | 105932 | [105932-maths-planets.json](./105932-maths-planets.json) |
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
 | Matolek the Goat the Inventor | 334659 | [334659-matolek-the-goat-the-inventor.json](./334659-matolek-the-goat-the-inventor.json) |
@@ -1284,6 +1286,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
 | MedArc | 70391 | [70391-medarc.json](./70391-medarc.json) |
 | Medarot 2 Parts Collection | 92535 | [92535-medarot-2-parts-collection.json](./92535-medarot-2-parts-collection.json) |
+| Medarot 2: Kuwagata Version | 76574 | [76574-medarot-2-kuwagata-version.json](./76574-medarot-2-kuwagata-version.json) |
+| Medarot 3 Kuwagata Version | 76575 | [76575-medarot-3-kuwagata-version.json](./76575-medarot-3-kuwagata-version.json) |
 | Medarot 3 Parts Collection: Z Kara no Chousenjou | 92536 | [92536-medarot-3-parts-collection-z-kara-no-chousenjou.json](./92536-medarot-3-parts-collection-z-kara-no-chousenjou.json) |
 | Medarot G: Kabuto Version | 188653 | [188653-medarot-g-kabuto-version.json](./188653-medarot-g-kabuto-version.json) |
 | Medarot Kabuto Version | 55145 | [55145-medarot-kabuto-version.json](./55145-medarot-kabuto-version.json) |
@@ -2561,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Texture | 396242 | [396242-missing-texture.json](./396242-missing-texture.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
+| Mission 1545 | 76561 | [76561-mission-1545.json](./76561-mission-1545.json) |
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
