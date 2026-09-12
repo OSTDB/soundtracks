@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
 | Savage Lands | 17548 | [17548-savage-lands.json](./17548-savage-lands.json) |
 | Savage Pond | 299436 | [299436-savage-pond.json](./299436-savage-pond.json) |
+| Savage Reign | 39565 | [39565-savage-reign.json](./39565-savage-reign.json) |
 | Savage Skies | 47314 | [47314-savage-skies.json](./47314-savage-skies.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
 | Savage Turret | 248074 | [248074-savage-turret.json](./248074-savage-turret.json) |
@@ -814,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
+| SD Fighters | 39564 | [39564-sd-fighters.json](./39564-sd-fighters.json) |
 | SD Gundam Battle Alliance | 191403 | [191403-sd-gundam-battle-alliance.json](./191403-sd-gundam-battle-alliance.json) |
 | SD Gundam Battle Alliance: Limited Edition | 205271 | [205271-sd-gundam-battle-alliance-limited-edition.json](./205271-sd-gundam-battle-alliance-limited-edition.json) |
 | SD Gundam Battle Alliance: Ultimate Edition | 218498 | [218498-sd-gundam-battle-alliance-ultimate-edition.json](./218498-sd-gundam-battle-alliance-ultimate-edition.json) |
@@ -1850,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi Shodan Icchokusen | 42032 | [42032-shogi-shodan-icchokusen.json](./42032-shogi-shodan-icchokusen.json) |
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
+| Shogun Warriors | 39584 | [39584-shogun-warriors.json](./39584-shogun-warriors.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
 | Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
@@ -4871,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stairway | 301845 | [301845-stairway.json](./301845-stairway.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
+| Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
 | Stalcraft | 321393 | [321393-stalcraft.json](./321393-stalcraft.json) |
 | Stale Nation | 235762 | [235762-stale-nation.json](./235762-stale-nation.json) |
 | Stalin vs. Martians | 8543 | [8543-stalin-vs-martians.json](./8543-stalin-vs-martians.json) |
@@ -5575,6 +5579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age | 278664 | [278664-stone-age.json](./278664-stone-age.json) |
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
+| Stone Ball | 39587 | [39587-stone-ball.json](./39587-stone-ball.json) |
 | Stone Breaker | 226757 | [226757-stone-breaker.json](./226757-stone-breaker.json) |
 | Stone Cold Sexy | 182999 | [182999-stone-cold-sexy.json](./182999-stone-cold-sexy.json) |
 | Stone Defence | 113032 | [113032-stone-defence.json](./113032-stone-defence.json) |
@@ -7077,6 +7082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
+| Survival Arts | 39586 | [39586-survival-arts.json](./39586-survival-arts.json) |
 | Survival Camp | 127662 | [127662-survival-camp.json](./127662-survival-camp.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Crisis Z | 94707 | [94707-survival-crisis-z.json](./94707-survival-crisis-z.json) |
