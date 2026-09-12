@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xi | 335683 | [335683-xi.json](./335683-xi.json) |
 | XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
 | Xiákè Yīngxióng Zhuán | 86019 | [86019-xiake-yingxiong-zhuan.json](./86019-xiake-yingxiong-zhuan.json) |
+| Xiama | 69813 | [69813-xiama.json](./69813-xiama.json) |
 | Xián Shàng Huíyīn | 304027 | [304027-xian-shang-huiyin.json](./304027-xian-shang-huiyin.json) |
 | Xiāngshān 31 Hào | 120938 | [120938-xiangshan-31-hao.json](./120938-xiangshan-31-hao.json) |
 | Xiàngsù Nányǒu Yǔyīn: Wánzhěng Bǎn | 161382 | [161382-xiangsu-nanyou-yuyin-wanzheng-ban.json](./161382-xiangsu-nanyou-yuyin-wanzheng-ban.json) |
