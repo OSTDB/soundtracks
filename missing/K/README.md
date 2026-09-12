@@ -232,7 +232,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kate Plus Ten | 112324 | [112324-kate-plus-ten.json](./112324-kate-plus-ten.json) |
 | Katei de Dekiru! Chomeijin Yuumei Ryourinin no Original Recipe - Shokusai Roman | 269824 | [269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json](./269824-katei-de-dekiru-chomeijin-yuumei-ryourinin-no-original-recipe-shokusai-roman.json) |
 | Katei no Igaku: DS de Kitaeru Shokuzai Kenkou Training | 269586 | [269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json](./269586-katei-no-igaku-ds-de-kitaeru-shokuzai-kenkou-training.json) |
+| Katekyou Hitman Reborn! DS: Flame Rumble - Kaien Ring Soudatsuen! | 64380 | [64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json](./64380-katekyou-hitman-reborn-ds-flame-rumble-kaien-ring-soudatsuen.json) |
+| Katekyou Hitman Reborn! DS: Flame Rumble - Mukuro Kyoshu | 64385 | [64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json](./64385-katekyou-hitman-reborn-ds-flame-rumble-mukuro-kyoshu.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble Hyper - Moeyo Mirai | 78713 | [78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json](./78713-katekyou-hitman-reborn-ds-flame-rumble-hyper-moeyo-mirai.json) |
+| Katekyou Hitman Reborn! DS: Flame Rumble X - Mirai Chou Bakuhatsu!! | 64379 | [64379-katekyou-hitman-reborn-ds-flame-rumble-x-mirai-chou-bakuhatsu.json](./64379-katekyou-hitman-reborn-ds-flame-rumble-x-mirai-chou-bakuhatsu.json) |
+| Katekyou Hitman Reborn! DS: Flame Rumble XX - Kessen! Real 6 Chouka | 64381 | [64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json](./64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json) |
 | Katekyou Hitman Reborn!: Ore ga Boss! Saikyou Family Taisen | 269823 | [269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json](./269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json) |
 | Katin Svět | 223679 | [223679-katin-svet.json](./223679-katin-svet.json) |
 | Katjepult | 182536 | [182536-katjepult.json](./182536-katjepult.json) |
