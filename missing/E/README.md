@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emmensity | 356639 | [356639-emmensity.json](./356639-emmensity.json) |
+| Emmitt Smith Football | 42559 | [42559-emmitt-smith-football.json](./42559-emmitt-smith-football.json) |
 | Emmy II | 62195 | [62195-emmy-ii.json](./62195-emmy-ii.json) |
 | Emmy: The Funny Game | 62196 | [62196-emmy-the-funny-game.json](./62196-emmy-the-funny-game.json) |
 | Emmy's Lab Escape | 364483 | [364483-emmys-lab-escape.json](./364483-emmys-lab-escape.json) |
@@ -1234,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
+| European Football Champ | 42573 | [42573-european-football-champ.json](./42573-european-football-champ.json) |
 | European Games | 100112 | [100112-european-games.json](./100112-european-games.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
@@ -1561,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction-MiniJeux | 394883 | [394883-extinction-minijeux.json](./394883-extinction-minijeux.json) |
 | Extinction: Deluxe Edition | 85473 | [85473-extinction-deluxe-edition.json](./85473-extinction-deluxe-edition.json) |
 | Extra Extra Poison | 369578 | [369578-extra-extra-poison.json](./369578-extra-extra-poison.json) |
+| Extra Innings | 42558 | [42558-extra-innings.json](./42558-extra-innings.json) |
 | Extra Story of God's One Day World | 162853 | [162853-extra-story-of-gods-one-day-world.json](./162853-extra-story-of-gods-one-day-world.json) |
 | Extra Terrestrial Perception | 44615 | [44615-extra-terrestrial-perception.json](./44615-extra-terrestrial-perception.json) |
 | Extra Terrestrials | 40778 | [40778-extra-terrestrials.json](./40778-extra-terrestrials.json) |
