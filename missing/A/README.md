@@ -141,7 +141,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
-| Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
 | Abandoned City | 316439 | [316439-abandoned-city.json](./316439-abandoned-city.json) |
