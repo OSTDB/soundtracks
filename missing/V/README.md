@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
 | Veronica | 343792 | [343792-veronica.json](./343792-veronica.json) |
 | Versailles II | 53873 | [53873-versailles-ii.json](./53873-versailles-ii.json) |
+| Versailles II: Testament of the King | 73252 | [73252-versailles-ii-testament-of-the-king.json](./73252-versailles-ii-testament-of-the-king.json) |
 | Versailles Mysteries 2: The Royal Spy | 11033 | [11033-versailles-mysteries-2-the-royal-spy.json](./11033-versailles-mysteries-2-the-royal-spy.json) |
 | Versailles Mysteries: Oscar and the Athanor | 11034 | [11034-versailles-mysteries-oscar-and-the-athanor.json](./11034-versailles-mysteries-oscar-and-the-athanor.json) |
 | Versalis | 365095 | [365095-versalis.json](./365095-versalis.json) |
@@ -425,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Videoverse | 213618 | [213618-videoverse.json](./213618-videoverse.json) |
 | Vier op een rij | 92991 | [92991-vier-op-een-rij.json](./92991-vier-op-een-rij.json) |
 | Vietcong | 101613 | [101613-vietcong.json](./101613-vietcong.json) |
+| Vietnam 2: Special Assignment | 73247 | [73247-vietnam-2-special-assignment.json](./73247-vietnam-2-special-assignment.json) |
 | Vietnam War Platoon | 214746 | [214746-vietnam-war-platoon.json](./214746-vietnam-war-platoon.json) |
 | Vietnam: Black Ops | 78703 | [78703-vietnam-black-ops.json](./78703-vietnam-black-ops.json) |
 | Viewpoint 2064 | 225296 | [225296-viewpoint-2064.json](./225296-viewpoint-2064.json) |
@@ -537,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
 | Virtual Grand Prix 2 | 79281 | [79281-virtual-grand-prix-2.json](./79281-virtual-grand-prix-2.json) |
 | Virtual Hero VR | 118995 | [118995-virtual-hero-vr.json](./118995-virtual-hero-vr.json) |
+| Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Job Shop Simulator | 107273 | [107273-virtual-job-shop-simulator.json](./107273-virtual-job-shop-simulator.json) |
 | Virtual Karting | 15567 | [15567-virtual-karting.json](./15567-virtual-karting.json) |
