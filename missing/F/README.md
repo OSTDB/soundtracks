@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry: Delta Sector | 51227 | [51227-far-cry-delta-sector.json](./51227-far-cry-delta-sector.json) |
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
 | Far East of Eden: Jipang Seven | 62119 | [62119-far-east-of-eden-jipang-seven.json](./62119-far-east-of-eden-jipang-seven.json) |
+| Far East of Eden: Ziria | 42002 | [42002-far-east-of-eden-ziria.json](./42002-far-east-of-eden-ziria.json) |
 | Far Far Away From Here | 186836 | [186836-far-far-away-from-here.json](./186836-far-far-away-from-here.json) |
 | Far Far West | 348263 | [348263-far-far-west.json](./348263-far-far-west.json) |
 | Far Fetched | 150622 | [150622-far-fetched.json](./150622-far-fetched.json) |
@@ -810,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fieldrunners | 9839 | [9839-fieldrunners.json](./9839-fieldrunners.json) |
 | Fields - Soldier of Time | 77278 | [77278-fields-soldier-of-time.json](./77278-fields-soldier-of-time.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
+| Fiend Hunter | 42000 | [42000-fiend-hunter.json](./42000-fiend-hunter.json) |
 | Fiend Hunter | 55897 | [55897-fiend-hunter.json](./55897-fiend-hunter.json) |
 | Fiend Legion | 110393 | [110393-fiend-legion.json](./110393-fiend-legion.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
@@ -869,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight or Flight VR | 272266 | [272266-fight-or-flight-vr.json](./272266-fight-or-flight-vr.json) |
 | Fight Plane | 235471 | [235471-fight-plane.json](./235471-fight-plane.json) |
 | Fight Poker | 404832 | [404832-fight-poker.json](./404832-fight-poker.json) |
+| Fight Sparring VR | 41951 | [41951-fight-sparring-vr.json](./41951-fight-sparring-vr.json) |
 | Fight Tennis | 321769 | [321769-fight-tennis.json](./321769-fight-tennis.json) |
 | Fight the Dracula! | 229357 | [229357-fight-the-dracula.json](./229357-fight-the-dracula.json) |
 | Fight the Landlord | 165017 | [165017-fight-the-landlord.json](./165017-fight-the-landlord.json) |
