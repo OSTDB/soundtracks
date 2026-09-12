@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Building Simulator: Good Company Case | 124811 | [124811-pc-building-simulator-good-company-case.json](./124811-pc-building-simulator-good-company-case.json) |
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
+| PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
 | PC Fútbol 2000 | 78034 | [78034-pc-futbol-2000.json](./78034-pc-futbol-2000.json) |
 | PC Fútbol 7 | 98942 | [98942-pc-futbol-7.json](./98942-pc-futbol-7.json) |
 | PC Fútbol Edición Oro | 86018 | [86018-pc-futbol-edicion-oro.json](./86018-pc-futbol-edicion-oro.json) |
@@ -2998,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
 | Project: R.E.B.O.O.T 2 | 29868 | [29868-project-r-e-b-o-o-t-2.json](./29868-project-r-e-b-o-o-t-2.json) |
 | Project: Run | 393466 | [393466-project-run.json](./393466-project-run.json) |
+| Project: Starfighter | 62147 | [62147-project-starfighter.json](./62147-project-starfighter.json) |
 | Project: Station | 380434 | [380434-project-station.json](./380434-project-station.json) |
 | Project: Summer Ice - Bowling: Online | 221975 | [221975-project-summer-ice-bowling-online.json](./221975-project-summer-ice-bowling-online.json) |
 | Project: Summer Ice - Bowling: Story Four - Jane Version | 215106 | [215106-project-summer-ice-bowling-story-four-jane-version.json](./215106-project-summer-ice-bowling-story-four-jane-version.json) |
