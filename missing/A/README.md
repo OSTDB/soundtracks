@@ -202,7 +202,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
-| Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
 | Abzu: Deluxe Edition | 52553 | [52553-abzu-deluxe-edition.json](./52553-abzu-deluxe-edition.json) |
 | AC-130 Gunship Operator | 216779 | [216779-ac-130-gunship-operator.json](./216779-ac-130-gunship-operator.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
@@ -2136,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Napoli no Otoko-tachi in Gakkou de Atta Kowai Hanashi | 212260 | [212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json](./212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json) |
 | Apathy: Narugami Gakuen Nana Fushigi | 206171 | [206171-apathy-narugami-gakuen-nana-fushigi.json](./206171-apathy-narugami-gakuen-nana-fushigi.json) |
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
+| APB | 37097 | [37097-apb.json](./37097-apb.json) |
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
 | Ape Escape Academy | 272555 | [272555-ape-escape-academy.json](./272555-ape-escape-academy.json) |
 | Ape Escape: Million Monkeys | 68008 | [68008-ape-escape-million-monkeys.json](./68008-ape-escape-million-monkeys.json) |
