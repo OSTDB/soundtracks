@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T10:48:53.532Z",
-  "total_missing": 61668,
+  "generated_at": "2026-09-12T10:51:30.632Z",
+  "total_missing": 61667,
   "games": [
     {
       "igdb_id": 306086,
@@ -2846,11 +2846,6 @@
       "igdb_id": 210899,
       "game_name": "Abigor",
       "file": "missing/A/210899-abigor.json"
-    },
-    {
-      "igdb_id": 161360,
-      "game_name": "Abiko the Miko 2",
-      "file": "missing/A/161360-abiko-the-miko-2.json"
     },
     {
       "igdb_id": 109031,
