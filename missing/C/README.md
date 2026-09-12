@@ -3624,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupcake Clicker 4 | 231381 | [231381-cupcake-clicker-4.json](./231381-cupcake-clicker-4.json) |
 | Cuphead | 237497 | [237497-cuphead.json](./237497-cuphead.json) |
 | Cupid | 253362 | [253362-cupid.json](./253362-cupid.json) |
+| Cupid Bistro!! | 72659 | [72659-cupid-bistro.json](./72659-cupid-bistro.json) |
 | Cupid Bistro!! 2 | 264338 | [264338-cupid-bistro-2.json](./264338-cupid-bistro-2.json) |
 | Cupid Bistro!! Max | 264333 | [264333-cupid-bistro-max.json](./264333-cupid-bistro-max.json) |
 | Cupid Date | 225264 | [225264-cupid-date.json](./225264-cupid-date.json) |
