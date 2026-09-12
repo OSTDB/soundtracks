@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireboy & Watergirl 2: The Forest Temple | 246976 | [246976-fireboy-and-watergirl-2-the-forest-temple.json](./246976-fireboy-and-watergirl-2-the-forest-temple.json) |
 | Fireboy and Watergirl: Online | 88769 | [88769-fireboy-and-watergirl-online.json](./88769-fireboy-and-watergirl-online.json) |
 | Firebug | 13714 | [13714-firebug.json](./13714-firebug.json) |
+| Firebugs | 43859 | [43859-firebugs.json](./43859-firebugs.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighters Code Red | 410889 | [410889-firefighters-code-red.json](./410889-firefighters-code-red.json) |
@@ -1716,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Motorcycle Simulator Pro | 87258 | [87258-flying-motorcycle-simulator-pro.json](./87258-flying-motorcycle-simulator-pro.json) |
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
+| Flying Squadron | 43889 | [43889-flying-squadron.json](./43889-flying-squadron.json) |
 | Flying Stunt Simulator | 278156 | [278156-flying-stunt-simulator.json](./278156-flying-stunt-simulator.json) |
 | Flying Sushi | 337991 | [337991-flying-sushi.json](./337991-flying-sushi.json) |
 | Flying Tickets | 130873 | [130873-flying-tickets.json](./130873-flying-tickets.json) |
@@ -2781,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FuuGaku: Hisshuu Kamoku wa Sei Jitsugi! H na Jugyou de One Two Step | 194589 | [194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json](./194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json) |
 | Fuuka σ Taisen | 294694 | [294694-fuuka-taisen.json](./294694-fuuka-taisen.json) |
 | Fuuraiki 4 | 142398 | [142398-fuuraiki-4.json](./142398-fuuraiki-4.json) |
+| Fuuun Gokuu Ninjin | 43865 | [43865-fuuun-gokuu-ninjin.json](./43865-fuuun-gokuu-ninjin.json) |
 | Fuwa! Fuwa! Omurice Simulator Roguelite | 415083 | [415083-fuwa-fuwa-omurice-simulator-roguelite.json](./415083-fuwa-fuwa-omurice-simulator-roguelite.json) |
 | Fuyu Kiss | 159292 | [159292-fuyu-kiss.json](./159292-fuyu-kiss.json) |
 | Fuyu Kiss: Complete Limited Edition | 159822 | [159822-fuyu-kiss-complete-limited-edition.json](./159822-fuyu-kiss-complete-limited-edition.json) |
