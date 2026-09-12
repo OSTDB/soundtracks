@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guncrafter | 343805 | [343805-guncrafter.json](./343805-guncrafter.json) |
 | GunCrank | 414292 | [414292-guncrank.json](./414292-guncrank.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
+| Gundam Breaker | 45290 | [45290-gundam-breaker.json](./45290-gundam-breaker.json) |
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
 | Gundam Breaker 4: Diorama Pack Set | 328995 | [328995-gundam-breaker-4-diorama-pack-set.json](./328995-gundam-breaker-4-diorama-pack-set.json) |
 | Gundam Fights for Human Rights | 183567 | [183567-gundam-fights-for-human-rights.json](./183567-gundam-fights-for-human-rights.json) |
