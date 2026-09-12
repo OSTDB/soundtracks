@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enchanted Kingdom: Elisa's Adventure | 54440 | [54440-the-enchanted-kingdom-elisas-adventure.json](./54440-the-enchanted-kingdom-elisas-adventure.json) |
 | The Enchanting Islands | 54441 | [54441-the-enchanting-islands.json](./54441-the-enchanting-islands.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
+| The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
 | The End of Labyronia: Nerubis | 158695 | [158695-the-end-of-labyronia-nerubis.json](./158695-the-end-of-labyronia-nerubis.json) |
 | The End of Solace | 271751 | [271751-the-end-of-solace.json](./271751-the-end-of-solace.json) |
@@ -2478,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Land of the Scurvy Dog | 176447 | [176447-the-land-of-the-scurvy-dog.json](./176447-the-land-of-the-scurvy-dog.json) |
 | The Land: Elf no Mori | 302963 | [302963-the-land-elf-no-mori.json](./302963-the-land-elf-no-mori.json) |
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
+| The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
@@ -3575,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
 | The Sun Never Sets | 38962 | [38962-the-sun-never-sets.json](./38962-the-sun-never-sets.json) |
+| The Sun Will Rise | 31833 | [31833-the-sun-will-rise.json](./31833-the-sun-will-rise.json) |
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
 | The Sundew | 151150 | [151150-the-sundew.json](./151150-the-sundew.json) |
 | The Sunset that day | 132763 | [132763-the-sunset-that-day.json](./132763-the-sunset-that-day.json) |
@@ -4320,6 +4323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the World | 189118 | [189118-through-the-world.json](./189118-through-the-world.json) |
 | Through the Years | 232989 | [232989-through-the-years.json](./232989-through-the-years.json) |
 | Through Time the Girl Puzzle | 262933 | [262933-through-time-the-girl-puzzle.json](./262933-through-time-the-girl-puzzle.json) |
+| ThrounnelVR | 31877 | [31877-throunnelvr.json](./31877-throunnelvr.json) |
 | Throw Bro | 302350 | [302350-throw-bro.json](./302350-throw-bro.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
@@ -4874,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
 | Time Gal & Ninja Hayate | 55871 | [55871-time-gal-and-ninja-hayate.json](./55871-time-gal-and-ninja-hayate.json) |
 | Time Gentlemen, Please! and Ben There, Dan That! Special Edition Double Pack | 27846 | [27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json](./27846-time-gentlemen-please-and-ben-there-dan-that-special-edition-double-pack.json) |
+| Time Golf Squad | 31863 | [31863-time-golf-squad.json](./31863-time-golf-squad.json) |
 | Time Handlers | 253388 | [253388-time-handlers.json](./253388-time-handlers.json) |
 | Time Heist | 180753 | [180753-time-heist.json](./180753-time-heist.json) |
 | Time Hoppers: The Silk Road | 231374 | [231374-time-hoppers-the-silk-road.json](./231374-time-hoppers-the-silk-road.json) |
