@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Was You | 333019 | [333019-it-was-you.json](./333019-it-was-you.json) |
 | It Will Find You | 124207 | [124207-it-will-find-you.json](./124207-it-will-find-you.json) |
 | It's a Beautiful Day | 177526 | [177526-its-a-beautiful-day.json](./177526-its-a-beautiful-day.json) |
+| It's a Funny Old Game | 73790 | [73790-its-a-funny-old-game.json](./73790-its-a-funny-old-game.json) |
 | It's a Giant! | 185102 | [185102-its-a-giant.json](./185102-its-a-giant.json) |
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
 | It's all in your mind | 181394 | [181394-its-all-in-your-mind.json](./181394-its-all-in-your-mind.json) |
