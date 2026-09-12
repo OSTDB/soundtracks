@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | J-Jump Arena | 263483 | [263483-j-jump-arena.json](./263483-j-jump-arena.json) |
+| J. J. Squawkers | 40193 | [40193-j-j-squawkers.json](./40193-j-j-squawkers.json) |
 | J. Lo: Fur Bully from the Block | 257407 | [257407-j-lo-fur-bully-from-the-block.json](./257407-j-lo-fur-bully-from-the-block.json) |
 | J.D. Arcades | 319584 | [319584-j-d-arcades.json](./319584-j-d-arcades.json) |
 | J.League Dynamite Soccer 64 | 3519 | [3519-j-league-dynamite-soccer-64.json](./3519-j-league-dynamite-soccer-64.json) |
@@ -60,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackroid | 367967 | [367967-jackroid.json](./367967-jackroid.json) |
 | Jacksepticeye's 1 Million Subscriber YouTube Party Massacre | 252770 | [252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json](./252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json) |
 | Jacksmith: Weapons and Warriors | 337075 | [337075-jacksmith-weapons-and-warriors.json](./337075-jacksmith-weapons-and-warriors.json) |
+| Jackson | 40192 | [40192-jackson.json](./40192-jackson.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode One - A Bump in the Night | 84153 | [84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json](./84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json) |
 | Jacob's Quest | 226731 | [226731-jacobs-quest.json](./226731-jacobs-quest.json) |
@@ -117,6 +119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jams | 340765 | [340765-jams.json](./340765-jams.json) |
 | Jamster Allstars | 333561 | [333561-jamster-allstars.json](./333561-jamster-allstars.json) |
 | Jan Friend | 84230 | [84230-jan-friend.json](./84230-jan-friend.json) |
+| Jan Jan Paradise | 40191 | [40191-jan-jan-paradise.json](./40191-jan-jan-paradise.json) |
+| Jan Jan Paradise 2 | 40190 | [40190-jan-jan-paradise-2.json](./40190-jan-jan-paradise-2.json) |
 | Jan Sangoku Musou | 64360 | [64360-jan-sangoku-musou.json](./64360-jan-sangoku-musou.json) |
 | JanduSoft Games Bundle Vol. 1 | 247493 | [247493-jandusoft-games-bundle-vol-1.json](./247493-jandusoft-games-bundle-vol-1.json) |
 | Jane Angel 2: Fallen Heaven | 156606 | [156606-jane-angel-2-fallen-heaven.json](./156606-jane-angel-2-fallen-heaven.json) |
@@ -434,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachinko Hisshouhou! 2 | 42646 | [42646-jissen-pachinko-hisshouhou-2.json](./42646-jissen-pachinko-hisshouhou-2.json) |
 | Jissen Pachinko Hisshouhou! CR Sakura Taisen | 62126 | [62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json](./62126-jissen-pachinko-hisshouhou-cr-sakura-taisen.json) |
 | Jitaku Keibin | 316645 | [316645-jitaku-keibin.json](./316645-jitaku-keibin.json) |
+| Jitsuryoku!! Pro Yakyuu | 40211 | [40211-jitsuryoku-pro-yakyuu.json](./40211-jitsuryoku-pro-yakyuu.json) |
 | Jitsuwa Kaidan: Shinmimi Bokuro - Ichi no Shou | 59370 | [59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json](./59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json) |
 | Jītuì Guàishòu | 114957 | [114957-jitui-guaishou.json](./114957-jitui-guaishou.json) |
 | Jiǔlóng Mófǎzhèn | 394200 | [394200-jiulong-mofazhen.json](./394200-jiulong-mofazhen.json) |
@@ -493,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Super Real Darwin | 146861 | [146861-johnny-turbos-arcade-super-real-darwin.json](./146861-johnny-turbos-arcade-super-real-darwin.json) |
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
+| Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
 | Joint Venture | 410221 | [410221-joint-venture.json](./410221-joint-venture.json) |
 | JoJo Siwa: Worldwide Party | 218722 | [218722-jojo-siwa-worldwide-party.json](./218722-jojo-siwa-worldwide-party.json) |
 | JoJo the Sheep | 233487 | [233487-jojo-the-sheep.json](./233487-jojo-the-sheep.json) |
@@ -573,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joustish | 251193 | [251193-joustish.json](./251193-joustish.json) |
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
 | Joy of Ping Pong | 230844 | [230844-joy-of-ping-pong.json](./230844-joy-of-ping-pong.json) |
+| Joyman | 40203 | [40203-joyman.json](./40203-joyman.json) |
 | Joyo Kanji Quiz | 99646 | [99646-joyo-kanji-quiz.json](./99646-joyo-kanji-quiz.json) |
 | Joyquarium | 337072 | [337072-joyquarium.json](./337072-joyquarium.json) |
 | Joyride: Lowpoly World | 259010 | [259010-joyride-lowpoly-world.json](./259010-joyride-lowpoly-world.json) |
@@ -585,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR East Train Simulator: Senseki Line (Aobadori to Ishinomaki) 205-3100 series | 253926 | [253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json](./253926-jr-east-train-simulator-senseki-line-aobadori-to-ishinomaki-205-3100-series.json) |
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
+| Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
 | Jubeat Ripples | 91903 | [91903-jubeat-ripples.json](./91903-jubeat-ripples.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
 | Judas | 29714 | [29714-judas.json](./29714-judas.json) |
@@ -666,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumphobia XL | 57047 | [57047-jumphobia-xl.json](./57047-jumphobia-xl.json) |
 | Jumphobia: Homeward Bound | 190170 | [190170-jumphobia-homeward-bound.json](./190170-jumphobia-homeward-bound.json) |
 | Jumping Challenge | 296927 | [296927-jumping-challenge.json](./296927-jumping-challenge.json) |
+| Jumping Cross | 40200 | [40200-jumping-cross.json](./40200-jumping-cross.json) |
 | Jumping Doduo | 69834 | [69834-jumping-doduo.json](./69834-jumping-doduo.json) |
 | Jumping Finn | 254524 | [254524-jumping-finn.json](./254524-jumping-finn.json) |
 | Jumping Fish | 348236 | [348236-jumping-fish.json](./348236-jumping-fish.json) |
