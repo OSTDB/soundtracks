@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
 | Knock on the Coffin Lid | 131645 | [131645-knock-on-the-coffin-lid.json](./131645-knock-on-the-coffin-lid.json) |
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
+| Knock-a-Block | 58171 | [58171-knock-a-block.json](./58171-knock-a-block.json) |
 | Knock-knock | 13153 | [13153-knock-knock.json](./13153-knock-knock.json) |
 | Knockback Knockout | 226452 | [226452-knockback-knockout.json](./226452-knockback-knockout.json) |
 | Knockbots | 212291 | [212291-knockbots.json](./212291-knockbots.json) |
