@@ -2756,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bouhou Koumakyou 2 | 204075 | [204075-bouhou-koumakyou-2.json](./204075-bouhou-koumakyou-2.json) |
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
+| Bouken Danshaku Don: The Lost Sunheart | 37720 | [37720-bouken-danshaku-don-the-lost-sunheart.json](./37720-bouken-danshaku-don-the-lost-sunheart.json) |
 | Boulder Boy | 61639 | [61639-boulder-boy.json](./61639-boulder-boy.json) |
 | Boulder Dash | 12942 | [12942-boulder-dash.json](./12942-boulder-dash.json) |
 | Boulder Dash | 283712 | [283712-boulder-dash.json](./283712-boulder-dash.json) |
@@ -3583,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnin' Rubber 6 | 320749 | [320749-burnin-rubber-6.json](./320749-burnin-rubber-6.json) |
 | Burnin' Rubber Shift | 237965 | [237965-burnin-rubber-shift.json](./237965-burnin-rubber-shift.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
+| Burning Angels | 37719 | [37719-burning-angels.json](./37719-burning-angels.json) |
 | Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
 | Burning Dragon | 61555 | [61555-burning-dragon.json](./61555-burning-dragon.json) |
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
