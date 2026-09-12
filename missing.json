@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T03:18:53.102Z",
-  "total_missing": 60356,
+  "generated_at": "2026-09-12T03:21:30.988Z",
+  "total_missing": 60355,
   "games": [
     {
       "igdb_id": 306086,
@@ -2616,11 +2616,6 @@
       "igdb_id": 276740,
       "game_name": "A Voz do Operário",
       "file": "missing/A/276740-a-voz-do-operario.json"
-    },
-    {
-      "igdb_id": 143698,
-      "game_name": "A Wake Inn",
-      "file": "missing/A/143698-a-wake-inn.json"
     },
     {
       "igdb_id": 179656,
