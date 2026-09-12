@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Essence: Nil - MaidxMan / Chapel | 340750 | [340750-in-essence-nil-maidxman-chapel.json](./340750-in-essence-nil-maidxman-chapel.json) |
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
 | In Search of Light | 182522 | [182522-in-search-of-light.json](./182522-in-search-of-light.json) |
+| In Search of the Most Amazing Thing | 69820 | [69820-in-search-of-the-most-amazing-thing.json](./69820-in-search-of-the-most-amazing-thing.json) |
 | In Season | 340755 | [340755-in-season.json](./340755-in-season.json) |
 | In Silico | 348241 | [348241-in-silico.json](./348241-in-silico.json) |
 | In Somnio | 130382 | [130382-in-somnio.json](./130382-in-somnio.json) |
@@ -869,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Input Chaos | 215926 | [215926-input-chaos.json](./215926-input-chaos.json) |
 | Inquiry Counsel | 389985 | [389985-inquiry-counsel.json](./389985-inquiry-counsel.json) |
 | Inquiry for Justice | 241404 | [241404-inquiry-for-justice.json](./241404-inquiry-for-justice.json) |
+| Inquisition | 69840 | [69840-inquisition.json](./69840-inquisition.json) |
 | Inquisitor | 287642 | [287642-inquisitor.json](./287642-inquisitor.json) |
 | Inquisitor | 9100 | [9100-inquisitor.json](./9100-inquisitor.json) |
 | Inquisitor Simulator | 398365 | [398365-inquisitor-simulator.json](./398365-inquisitor-simulator.json) |
@@ -983,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
 | International Athletics | 272847 | [272847-international-athletics.json](./272847-international-athletics.json) |
 | International Basketball Manager 23 | 224551 | [224551-international-basketball-manager-23.json](./224551-international-basketball-manager-23.json) |
+| International Bridge Contractors | 69797 | [69797-international-bridge-contractors.json](./69797-international-bridge-contractors.json) |
 | International Championship Wrestling | 137618 | [137618-international-championship-wrestling.json](./137618-international-championship-wrestling.json) |
 | International Cricket 2010 | 22961 | [22961-international-cricket-2010.json](./22961-international-cricket-2010.json) |
 | International Cricket Captain 2 | 63317 | [63317-international-cricket-captain-2.json](./63317-international-cricket-captain-2.json) |
