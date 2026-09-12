@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Birdie | 146859 | [146859-go-birdie.json](./146859-go-birdie.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
+| Go! Go! Mile Smile | 40178 | [40178-go-go-mile-smile.json](./40178-go-go-mile-smile.json) |
 | Go! Go! PogoGirl | 188125 | [188125-go-go-pogogirl.json](./188125-go-go-pogogirl.json) |
 | Go! Go! Shurihito | 181341 | [181341-go-go-shurihito.json](./181341-go-go-shurihito.json) |
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
@@ -2195,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gurugedara | 61620 | [61620-gurugedara.json](./61620-gurugedara.json) |
 | Gütertrennung | 86017 | [86017-gutertrennung.json](./86017-gutertrennung.json) |
 | Guts and Syringes | 94766 | [94766-guts-and-syringes.json](./94766-guts-and-syringes.json) |
+| Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
 | Gutter: The Perished | 296902 | [296902-gutter-the-perished.json](./296902-gutter-the-perished.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
 | Guuguuthropus | 143656 | [143656-guuguuthropus.json](./143656-guuguuthropus.json) |
