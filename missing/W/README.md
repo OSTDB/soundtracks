@@ -760,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 70959 | [70959-wheel-of-fortune.json](./70959-wheel-of-fortune.json) |
 | Wheel of Fortune Cookie | 100898 | [100898-wheel-of-fortune-cookie.json](./100898-wheel-of-fortune-cookie.json) |
 | Wheel of Fortune Daily | 321140 | [321140-wheel-of-fortune-daily.json](./321140-wheel-of-fortune-daily.json) |
+| Wheel of Fortune: 2nd Edition | 43910 | [43910-wheel-of-fortune-2nd-edition.json](./43910-wheel-of-fortune-2nd-edition.json) |
 | Wheel of Fortune: Junior Edition | 48094 | [48094-wheel-of-fortune-junior-edition.json](./48094-wheel-of-fortune-junior-edition.json) |
 | Wheel of Fortune: New Second Edition | 209617 | [209617-wheel-of-fortune-new-second-edition.json](./209617-wheel-of-fortune-new-second-edition.json) |
 | Wheel of Fortune: Pogo Edition | 355010 | [355010-wheel-of-fortune-pogo-edition.json](./355010-wheel-of-fortune-pogo-edition.json) |
@@ -1763,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms: Battle Islands | 5291 | [5291-worms-battle-islands.json](./5291-worms-battle-islands.json) |
 | Worms: Open Warfare 2 | 18314 | [18314-worms-open-warfare-2.json](./18314-worms-open-warfare-2.json) |
 | Worms: Reinforcements | 24938 | [24938-worms-reinforcements.json](./24938-worms-reinforcements.json) |
+| Worms: The Revolution Collection | 44577 | [44577-worms-the-revolution-collection.json](./44577-worms-the-revolution-collection.json) |
 | Worms: Ultimate Mayhem - Customization Pack | 225090 | [225090-worms-ultimate-mayhem-customization-pack.json](./225090-worms-ultimate-mayhem-customization-pack.json) |
 | Wormswarm | 275344 | [275344-wormswarm.json](./275344-wormswarm.json) |
 | WormWar | 107121 | [107121-wormwar.json](./107121-wormwar.json) |
