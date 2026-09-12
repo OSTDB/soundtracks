@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Orders Tactics | 216811 | [216811-zero-orders-tactics.json](./216811-zero-orders-tactics.json) |
 | Zero Page | 216812 | [216812-zero-page.json](./216812-zero-page.json) |
 | Zero Parades: For Dead Spies | 361880 | [361880-zero-parades-for-dead-spies.json](./361880-zero-parades-for-dead-spies.json) |
+| Zero Pilot: Dai-san-ji Sekai Taisen 1946 | 59359 | [59359-zero-pilot-dai-san-ji-sekai-taisen-1946.json](./59359-zero-pilot-dai-san-ji-sekai-taisen-1946.json) |
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
 | Zero Six: Behind Enemy Lines | 129131 | [129131-zero-six-behind-enemy-lines.json](./129131-zero-six-behind-enemy-lines.json) |
 | Zero spring episode 2 | 112370 | [112370-zero-spring-episode-2.json](./112370-zero-spring-episode-2.json) |
