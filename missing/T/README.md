@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraGenesis - Space Settlers | 102730 | [102730-terragenesis-space-settlers.json](./102730-terragenesis-space-settlers.json) |
 | Terrapins | 185141 | [185141-terrapins.json](./185141-terrapins.json) |
 | Terraria: Calamity Mod | 141229 | [141229-terraria-calamity-mod.json](./141229-terraria-calamity-mod.json) |
+| Terraria: Otherworld | 25677 | [25677-terraria-otherworld.json](./25677-terraria-otherworld.json) |
 | TerrariaCraft | 300699 | [300699-terrariacraft.json](./300699-terrariacraft.json) |
 | TerraScape | 239642 | [239642-terrascape.json](./239642-terrascape.json) |
 | TerraStorm | 289314 | [289314-terrastorm.json](./289314-terrastorm.json) |
@@ -3699,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three Decoders 1 - Riddle of the Ring | 58777 | [58777-the-three-decoders-1-riddle-of-the-ring.json](./58777-the-three-decoders-1-riddle-of-the-ring.json) |
 | The Three Musketeers | 186262 | [186262-the-three-musketeers.json](./186262-the-three-musketeers.json) |
 | The Three Musketeers: One For All! | 20486 | [20486-the-three-musketeers-one-for-all.json](./20486-the-three-musketeers-one-for-all.json) |
+| The Three Stooges | 25690 | [25690-the-three-stooges.json](./25690-the-three-stooges.json) |
 | The Three Stooges | 264852 | [264852-the-three-stooges.json](./264852-the-three-stooges.json) |
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
@@ -3961,6 +3963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wake of the Wyrm | 415904 | [415904-the-wake-of-the-wyrm.json](./415904-the-wake-of-the-wyrm.json) |
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
+| The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
@@ -5297,6 +5300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Red Crow | 25641 | [25641-tom-clancys-rainbow-six-siege-operation-red-crow.json](./25641-tom-clancys-rainbow-six-siege-operation-red-crow.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Steel Wave | 135157 | [135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json](./135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Void Edge | 135155 | [135155-tom-clancys-rainbow-six-siege-operation-void-edge.json](./135155-tom-clancys-rainbow-six-siege-operation-void-edge.json) |
@@ -5568,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Shogun 2 - Sengoku Jidai Unit Pack | 83515 | [83515-total-war-shogun-2-sengoku-jidai-unit-pack.json](./83515-total-war-shogun-2-sengoku-jidai-unit-pack.json) |
 | Total War: Shogun 2 - The Hattori Clan Pack | 83514 | [83514-total-war-shogun-2-the-hattori-clan-pack.json](./83514-total-war-shogun-2-the-hattori-clan-pack.json) |
 | Total War: Shogun 2 - The Ikko Ikki Clan Pack | 83516 | [83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json](./83516-total-war-shogun-2-the-ikko-ikki-clan-pack.json) |
+| Total War: Warhammer - Blood For the Blood God | 25660 | [25660-total-war-warhammer-blood-for-the-blood-god.json](./25660-total-war-warhammer-blood-for-the-blood-god.json) |
 | Total War: Warhammer - Bretonnia | 81293 | [81293-total-war-warhammer-bretonnia.json](./81293-total-war-warhammer-bretonnia.json) |
 | Total War: Warhammer - Chaos Warriors | 53832 | [53832-total-war-warhammer-chaos-warriors.json](./53832-total-war-warhammer-chaos-warriors.json) |
 | Total War: Warhammer - Dark Gods Edition | 170027 | [170027-total-war-warhammer-dark-gods-edition.json](./170027-total-war-warhammer-dark-gods-edition.json) |
@@ -6933,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
 | Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
 | Two Tamarind Seeds | 179106 | [179106-two-tamarind-seeds.json](./179106-two-tamarind-seeds.json) |
+| Two Tigers | 25667 | [25667-two-tigers.json](./25667-two-tigers.json) |
 | Two Worlds | 177549 | [177549-two-worlds.json](./177549-two-worlds.json) |
 | Two Worlds Connected | 181359 | [181359-two-worlds-connected.json](./181359-two-worlds-connected.json) |
 | Two Worlds II Castle Defense | 28986 | [28986-two-worlds-ii-castle-defense.json](./28986-two-worlds-ii-castle-defense.json) |
