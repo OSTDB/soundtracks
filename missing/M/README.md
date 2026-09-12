@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mato Anomalies: Day One Edition | 228732 | [228732-mato-anomalies-day-one-edition.json](./228732-mato-anomalies-day-one-edition.json) |
 | Matolek the Goat the Inventor | 334659 | [334659-matolek-the-goat-the-inventor.json](./334659-matolek-the-goat-the-inventor.json) |
 | Matolek the Goat's School | 334651 | [334651-matolek-the-goats-school.json](./334651-matolek-the-goats-school.json) |
+| Matou no Houkai: The Hero of Babel | 64352 | [64352-matou-no-houkai-the-hero-of-babel.json](./64352-matou-no-houkai-the-hero-of-babel.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matsudaira's Myoshu: A Sengoku Village Simulator | 291470 | [291470-matsudairas-myoshu-a-sengoku-village-simulator.json](./291470-matsudairas-myoshu-a-sengoku-village-simulator.json) |
 | Matsurikki | 202314 | [202314-matsurikki.json](./202314-matsurikki.json) |
@@ -2654,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistwilds | 349306 | [349306-mistwilds.json](./349306-mistwilds.json) |
 | Mistwood Heroes | 29936 | [29936-mistwood-heroes.json](./29936-mistwood-heroes.json) |
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
+| Misty Blue | 64387 | [64387-misty-blue.json](./64387-misty-blue.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
