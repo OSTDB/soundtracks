@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
 | Heal Plz | 121741 | [121741-heal-plz.json](./121741-heal-plz.json) |
+| Heal Them All | 34299 | [34299-heal-them-all.json](./34299-heal-them-all.json) |
 | Heal: Pocket Edition | 208010 | [208010-heal-pocket-edition.json](./208010-heal-pocket-edition.json) |
 | Healer Simulator | 96675 | [96675-healer-simulator.json](./96675-healer-simulator.json) |
 | Healthy Breakfast | 117674 | [117674-healthy-breakfast.json](./117674-healthy-breakfast.json) |
@@ -1118,6 +1119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
+| Heresy | 34240 | [34240-heresy.json](./34240-heresy.json) |
 | Heretic Amplified | 268775 | [268775-heretic-amplified.json](./268775-heretic-amplified.json) |
 | Heretic II | 20752 | [20752-heretic-ii.json](./20752-heretic-ii.json) |
 | Heretic Invades Doom | 316984 | [316984-heretic-invades-doom.json](./316984-heretic-invades-doom.json) |
@@ -1958,6 +1960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
 | Hope Deferred | 337992 | [337992-hope-deferred.json](./337992-hope-deferred.json) |
 | Hope for Village | 116813 | [116813-hope-for-village.json](./116813-hope-for-village.json) |
+| Hope in Hell | 34277 | [34277-hope-in-hell.json](./34277-hope-in-hell.json) |
 | Hope Lake | 32445 | [32445-hope-lake.json](./32445-hope-lake.json) |
 | Hope Left Me | 228417 | [228417-hope-left-me.json](./228417-hope-left-me.json) |
 | Hope of humanity | 102963 | [102963-hope-of-humanity.json](./102963-hope-of-humanity.json) |
@@ -2293,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hudson Selection Vol. 3: PC Genjin - Pithecanthropus Computerurus | 50580 | [50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json](./50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json) |
 | Hudson Selection Vol. 4: Takahashi Meijin no Bouken-jima | 50574 | [50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json](./50574-hudson-selection-vol-4-takahashi-meijin-no-bouken-jima.json) |
 | HueBots | 34589 | [34589-huebots.json](./34589-huebots.json) |
+| Huenison | 34253 | [34253-huenison.json](./34253-huenison.json) |
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
 | Hues | 289853 | [289853-hues.json](./289853-hues.json) |
 | Hues: Moon Sea | 289854 | [289854-hues-moon-sea.json](./289854-hues-moon-sea.json) |
