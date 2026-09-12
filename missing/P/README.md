@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity II: Deadfire - Rum Runner’s Pack | 154457 | [154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json](./154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json) |
 | Pillars of Eternity II: Deadfire - Scalawags Pack | 154456 | [154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json](./154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json) |
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
+| Pilli Adventure | 76534 | [76534-pilli-adventure.json](./76534-pilli-adventure.json) |
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
 | Poker Train | 320148 | [320148-poker-train.json](./320148-poker-train.json) |
 | Poker World: Casino Game | 219292 | [219292-poker-world-casino-game.json](./219292-poker-world-casino-game.json) |
+| PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
 | Pokerrrr 2 | 320179 | [320179-pokerrrr-2.json](./320179-pokerrrr-2.json) |
 | PokerTH | 250379 | [250379-pokerth.json](./250379-pokerth.json) |
@@ -2393,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
 | Power Plays | 60548 | [60548-power-plays.json](./60548-power-plays.json) |
 | Power Pointer | 335080 | [335080-power-pointer.json](./335080-power-pointer.json) |
+| Power Politics | 76590 | [76590-power-politics.json](./76590-power-politics.json) |
 | Power Quest Survivors | 295558 | [295558-power-quest-survivors.json](./295558-power-quest-survivors.json) |
 | Power Racing Bundle 3 | 152353 | [152353-power-racing-bundle-3.json](./152353-power-racing-bundle-3.json) |
 | Power Racing Bundle 4 | 409549 | [409549-power-racing-bundle-4.json](./409549-power-racing-bundle-4.json) |
@@ -2540,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime World: Alchemy | 63306 | [63306-prime-world-alchemy.json](./63306-prime-world-alchemy.json) |
 | Prime World: Defenders | 16507 | [16507-prime-world-defenders.json](./16507-prime-world-defenders.json) |
 | Prime World: Defenders 2 | 112944 | [112944-prime-world-defenders-2.json](./112944-prime-world-defenders-2.json) |
+| Primedice | 76563 | [76563-primedice.json](./76563-primedice.json) |
 | Primeval | 158688 | [158688-primeval.json](./158688-primeval.json) |
 | Primeval Horizon | 295527 | [295527-primeval-horizon.json](./295527-primeval-horizon.json) |
 | Primit Shooter 2 | 270950 | [270950-primit-shooter-2.json](./270950-primit-shooter-2.json) |
