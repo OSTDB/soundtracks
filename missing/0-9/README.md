@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
 | 1998 | 178550 | [178550-1998.json](./178550-1998.json) |
+| 1999: Hore, Mita Koto ka! Seikimatsu | 48607 | [48607-1999-hore-mita-koto-ka-seikimatsu.json](./48607-1999-hore-mita-koto-ka-seikimatsu.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
 | 1D Game | 332265 | [332265-1d-game.json](./332265-1d-game.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
