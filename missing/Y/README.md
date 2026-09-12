@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza Kiwami 3 & Dark Ties: Legendary Lads & Gals Set | 375195 | [375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json](./375195-yakuza-kiwami-3-and-dark-ties-legendary-lads-and-gals-set.json) |
 | Yakuza Kiwami 3 & Dark Ties: Legendary Outfit Pack | 375196 | [375196-yakuza-kiwami-3-and-dark-ties-legendary-outfit-pack.json](./375196-yakuza-kiwami-3-and-dark-ties-legendary-outfit-pack.json) |
 | Yakuza Kiwami 3 & Dark Ties: Ryukyu Gal Gang Customization Pack | 375197 | [375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json](./375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json) |
+| Yakuza Online | 55111 | [55111-yakuza-online.json](./55111-yakuza-online.json) |
 | Yakuza Shadows of New York | 322399 | [322399-yakuza-shadows-of-new-york.json](./322399-yakuza-shadows-of-new-york.json) |
 | Yakuza: Dead Souls | 7489 | [7489-yakuza-dead-souls.json](./7489-yakuza-dead-souls.json) |
 | Yakuza: Like a Dragon | 36550 | [36550-yakuza-like-a-dragon.json](./36550-yakuza-like-a-dragon.json) |
@@ -137,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yoga Therapy | 235220 | [235220-yoga-therapy.json](./235220-yoga-therapy.json) |
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
+| Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
 | Yogoe Hunter | 320178 | [320178-yogoe-hunter.json](./320178-yogoe-hunter.json) |
 | Yogurt Commercial 3 | 146850 | [146850-yogurt-commercial-3.json](./146850-yogurt-commercial-3.json) |
 | Yogurt Royale | 177010 | [177010-yogurt-royale.json](./177010-yogurt-royale.json) |
