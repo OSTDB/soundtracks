@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Realm: Online | 102934 | [102934-magic-realm-online.json](./102934-magic-realm-online.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
+| Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
 | Magic Shot | 18235 | [18235-magic-shot.json](./18235-magic-shot.json) |
 | Magic Snake II | 71517 | [71517-magic-snake-ii.json](./71517-magic-snake-ii.json) |
@@ -626,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mär Heaven: Karudea no Akuma | 353317 | [353317-mar-heaven-karudea-no-akuma.json](./353317-mar-heaven-karudea-no-akuma.json) |
 | Mar Koochooloo | 276719 | [276719-mar-koochooloo.json](./276719-mar-koochooloo.json) |
 | MAR WAR: The Evil Awakens | 83519 | [83519-mar-war-the-evil-awakens.json](./83519-mar-war-the-evil-awakens.json) |
+| Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
@@ -3237,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mope.io | 108987 | [108987-mope-io.json](./108987-mope-io.json) |
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
+| Moraff's Entrap | 69815 | [69815-moraffs-entrap.json](./69815-moraffs-entrap.json) |
 | Morbid | 145591 | [145591-morbid.json](./145591-morbid.json) |
 | Morbid Catastrophe | 248313 | [248313-morbid-catastrophe.json](./248313-morbid-catastrophe.json) |
 | Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
