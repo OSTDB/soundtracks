@@ -287,10 +287,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Girls: Futanari | 210858 | [210858-gamer-girls-futanari.json](./210858-gamer-girls-futanari.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamers Choice | 86083 | [86083-gamers-choice.json](./86083-gamers-choice.json) |
+| Gamers Pack | 72043 | [72043-gamers-pack.json](./72043-gamers-pack.json) |
 | Games 1 | 319581 | [319581-games-1.json](./319581-games-1.json) |
 | Games Advent Calendar: 25 Days - 25 Surprises | 265160 | [265160-games-advent-calendar-25-days-25-surprises.json](./265160-games-advent-calendar-25-days-25-surprises.json) |
 | Games Explosion | 18260 | [18260-games-explosion.json](./18260-games-explosion.json) |
 | Games for Toddlers 2 | 147977 | [147977-games-for-toddlers-2.json](./147977-games-for-toddlers-2.json) |
+| Gametrak: Dark Wind | 72072 | [72072-gametrak-dark-wind.json](./72072-gametrak-dark-wind.json) |
 | Gaming Burnout Treatment Center | 408063 | [408063-gaming-burnout-treatment-center.json](./408063-gaming-burnout-treatment-center.json) |
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
 | Gaming Constructor Simulator | 121002 | [121002-gaming-constructor-simulator.json](./121002-gaming-constructor-simulator.json) |
