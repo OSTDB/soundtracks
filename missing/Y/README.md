@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
 | Yōulì: Yasashii Lìxiǎn | 394186 | [394186-youli-yasashii-lixian.json](./394186-youli-yasashii-lixian.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
+| Young Dilbert Hi-Tech Hijinks | 70332 | [70332-young-dilbert-hi-tech-hijinks.json](./70332-young-dilbert-hi-tech-hijinks.json) |
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
 | Young Warriors | 174834 | [174834-young-warriors.json](./174834-young-warriors.json) |
