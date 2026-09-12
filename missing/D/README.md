@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkroom 2 | 75769 | [75769-darkroom-2.json](./75769-darkroom-2.json) |
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
+| Darkside | 60515 | [60515-darkside.json](./60515-darkside.json) |
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
@@ -794,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death By Hamster | 262666 | [262666-death-by-hamster.json](./262666-death-by-hamster.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
 | Death Corridor | 230862 | [230862-death-corridor.json](./230862-death-corridor.json) |
+| Death Crimson 2: Meranito no Saidan | 60497 | [60497-death-crimson-2-meranito-no-saidan.json](./60497-death-crimson-2-meranito-no-saidan.json) |
 | Death Crown | 90270 | [90270-death-crown.json](./90270-death-crown.json) |
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
@@ -1399,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Hexons | 156129 | [156129-destroy-the-hexons.json](./156129-destroy-the-hexons.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
+| Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destruction Derby 64 | 10686 | [10686-destruction-derby-64.json](./10686-destruction-derby-64.json) |
 | Destruction of Planets | 193498 | [193498-destruction-of-planets.json](./193498-destruction-of-planets.json) |
 | Destruction Simulator | 311455 | [311455-destruction-simulator.json](./311455-destruction-simulator.json) |
@@ -2592,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downpour Dash! | 303485 | [303485-downpour-dash.json](./303485-downpour-dash.json) |
 | Downroll | 191161 | [191161-downroll.json](./191161-downroll.json) |
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
+| Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
@@ -2881,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakensang: The River of Time | 8769 | [8769-drakensang-the-river-of-time.json](./8769-drakensang-the-river-of-time.json) |
 | Drakheir | 279389 | [279389-drakheir.json](./279389-drakheir.json) |
 | Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
+| DraKoI | 60505 | [60505-drakoi.json](./60505-drakoi.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
@@ -2902,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing Evolution | 181314 | [181314-drawing-evolution.json](./181314-drawing-evolution.json) |
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
+| Drawn to Kill | 60512 | [60512-drawn-to-kill.json](./60512-drawn-to-kill.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
@@ -3477,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Dragons: Daggerdale | 15127 | [15127-dungeons-and-dragons-daggerdale.json](./15127-dungeons-and-dragons-daggerdale.json) |
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
+| Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
 | Dungeons of Chaos | 68203 | [68203-dungeons-of-chaos.json](./68203-dungeons-of-chaos.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
 | Dungeons of Dreadrock | 194009 | [194009-dungeons-of-dreadrock.json](./194009-dungeons-of-dreadrock.json) |
