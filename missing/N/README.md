@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N O Nb | 127980 | [127980-n-o-nb.json](./127980-n-o-nb.json) |
 | N Step Steve: Part 2 | 280780 | [280780-n-step-steve-part-2.json](./280780-n-step-steve-part-2.json) |
 | N v2.0 | 77297 | [77297-n-v2-0.json](./77297-n-v2-0.json) |
+| N-Cube | 63243 | [63243-n-cube.json](./63243-n-cube.json) |
 | N.a.N Industry VR | 123559 | [123559-n-a-n-industry-vr.json](./123559-n-a-n-industry-vr.json) |
 | N.E.O.N.: Never-Ending Onslaught of Nerds | 152922 | [152922-n-e-o-n-never-ending-onslaught-of-nerds.json](./152922-n-e-o-n-never-ending-onslaught-of-nerds.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
@@ -355,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nedra | 324297 | [324297-nedra.json](./324297-nedra.json) |
 | Need For Conquest | 157203 | [157203-need-for-conquest.json](./157203-need-for-conquest.json) |
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
+| Need For Madness 2 | 63232 | [63232-need-for-madness-2.json](./63232-need-for-madness-2.json) |
 | Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed: Carbon | 248118 | [248118-need-for-speed-carbon.json](./248118-need-for-speed-carbon.json) |
