@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
 | Dark Arcana: The Carnival | 10137 | [10137-dark-arcana-the-carnival.json](./10137-dark-arcana-the-carnival.json) |
+| Dark Break | 64887 | [64887-dark-break.json](./64887-dark-break.json) |
 | Dark Canvas Collection | 146305 | [146305-dark-canvas-collection.json](./146305-dark-canvas-collection.json) |
 | Dark Castle | 12034 | [12034-dark-castle.json](./12034-dark-castle.json) |
 | Dark Castle | 334682 | [334682-dark-castle.json](./334682-dark-castle.json) |
@@ -1049,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
 | Deja Vu II: MacVenture Series | 35914 | [35914-deja-vu-ii-macventure-series.json](./35914-deja-vu-ii-macventure-series.json) |
 | Deja Vu: MacVenture Series | 35913 | [35913-deja-vu-macventure-series.json](./35913-deja-vu-macventure-series.json) |
+| Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
 | DekaBlox Arena | 104001 | [104001-dekablox-arena.json](./104001-dekablox-arena.json) |
 | Dekisugi Tingle Pack | 100169 | [100169-dekisugi-tingle-pack.json](./100169-dekisugi-tingle-pack.json) |
 | Dekoboko Densetsu: Hashiru Wagamanma | 145674 | [145674-dekoboko-densetsu-hashiru-wagamanma.json](./145674-dekoboko-densetsu-hashiru-wagamanma.json) |
@@ -1673,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dillo Guy | 293890 | [293890-dillo-guy.json](./293890-dillo-guy.json) |
 | Dillon's Dead-Heat Breakers | 90687 | [90687-dillons-dead-heat-breakers.json](./90687-dillons-dead-heat-breakers.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
+| Diluvium | 64890 | [64890-diluvium.json](./64890-diluvium.json) |
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
