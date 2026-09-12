@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
 | Nemo | 303778 | [303778-nemo.json](./303778-nemo.json) |
 | Nemo: Puzzle Pack II | 303779 | [303779-nemo-puzzle-pack-ii.json](./303779-nemo-puzzle-pack-ii.json) |
+| Nemo's Reef | 62168 | [62168-nemos-reef.json](./62168-nemos-reef.json) |
 | Nemorsys | 346602 | [346602-nemorsys.json](./346602-nemorsys.json) |
 | NemoSphere | 385086 | [385086-nemosphere.json](./385086-nemosphere.json) |
 | Nemurenu Yoru no Chiisana Ohanashi | 254494 | [254494-nemurenu-yoru-no-chiisana-ohanashi.json](./254494-nemurenu-yoru-no-chiisana-ohanashi.json) |
@@ -784,7 +785,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Football: San Diego Chargers/Los Angeles Raiders | 62687 | [62687-nfl-football-san-diego-chargers-los-angeles-raiders.json](./62687-nfl-football-san-diego-chargers-los-angeles-raiders.json) |
 | NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
 | NFL GameDay 2005 | 209589 | [209589-nfl-gameday-2005.json](./209589-nfl-gameday-2005.json) |
+| NFL Kicker 13 | 62170 | [62170-nfl-kicker-13.json](./62170-nfl-kicker-13.json) |
 | NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
+| NFL Quarterback 13 | 62169 | [62169-nfl-quarterback-13.json](./62169-nfl-quarterback-13.json) |
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
@@ -990,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niko Niko Pun | 42057 | [42057-niko-niko-pun.json](./42057-niko-niko-pun.json) |
 | Niko: Through the Dream | 17323 | [17323-niko-through-the-dream.json](./17323-niko-through-the-dream.json) |
 | Nikoli no Puzzle 4: Shikaku ni Kire | 219025 | [219025-nikoli-no-puzzle-4-shikaku-ni-kire.json](./219025-nikoli-no-puzzle-4-shikaku-ni-kire.json) |
+| Nikoli no Puzzle 4: Sudoku | 62164 | [62164-nikoli-no-puzzle-4-sudoku.json](./62164-nikoli-no-puzzle-4-sudoku.json) |
 | Nikoli no Puzzle V: Akari | 64934 | [64934-nikoli-no-puzzle-v-akari.json](./64934-nikoli-no-puzzle-v-akari.json) |
 | Nikoli no Puzzle V: Heyawake | 64937 | [64937-nikoli-no-puzzle-v-heyawake.json](./64937-nikoli-no-puzzle-v-heyawake.json) |
 | Nikoli no Puzzle V: Hitori ni Shitekure | 64935 | [64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json](./64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json) |
