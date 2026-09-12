@@ -134,7 +134,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
 | A.I. Invasion: Road of Rodan | 164435 | [164435-a-i-invasion-road-of-rodan.json](./164435-a-i-invasion-road-of-rodan.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
-| A.R.M: Absolutely Reliable Machine | 132259 | [132259-a-r-m-absolutely-reliable-machine.json](./132259-a-r-m-absolutely-reliable-machine.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
 | A.S.P.: Air Strike Patrol | 42662 | [42662-a-s-p-air-strike-patrol.json](./42662-a-s-p-air-strike-patrol.json) |
 | Aa Yakyuu Jinsei Icchokusen | 48669 | [48669-aa-yakyuu-jinsei-icchokusen.json](./48669-aa-yakyuu-jinsei-icchokusen.json) |
