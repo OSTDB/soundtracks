@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T04:21:33.162Z",
-  "total_missing": 60550,
+  "generated_at": "2026-09-12T04:31:34.407Z",
+  "total_missing": 60559,
   "games": [
     {
       "igdb_id": 306086,
@@ -2656,11 +2656,6 @@
       "igdb_id": 223494,
       "game_name": "A Week",
       "file": "missing/A/223494-a-week.json"
-    },
-    {
-      "igdb_id": 225265,
-      "game_name": "A Werewolf Opportunity, Obviously",
-      "file": "missing/A/225265-a-werewolf-opportunity-obviously.json"
     },
     {
       "igdb_id": 176961,
@@ -9326,6 +9321,11 @@
       "igdb_id": 141853,
       "game_name": "Amanthi",
       "file": "missing/A/141853-amanthi.json"
+    },
+    {
+      "igdb_id": 69264,
+      "game_name": "Amaranth III",
+      "file": "missing/A/69264-amaranth-iii.json"
     },
     {
       "igdb_id": 105338,
@@ -22176,6 +22176,11 @@
       "igdb_id": 72673,
       "game_name": "Baseball Mogul 2008",
       "file": "missing/B/72673-baseball-mogul-2008.json"
+    },
+    {
+      "igdb_id": 69259,
+      "game_name": "Baseball Mogul 2010",
+      "file": "missing/B/69259-baseball-mogul-2010.json"
     },
     {
       "igdb_id": 60000,
@@ -72368,6 +72373,11 @@
       "file": "missing/D/297232-duke-nukem-forever-enhanced.json"
     },
     {
+      "igdb_id": 69263,
+      "game_name": "Duke Nukem Trilogy: Proving Grounds",
+      "file": "missing/D/69263-duke-nukem-trilogy-proving-grounds.json"
+    },
+    {
       "igdb_id": 291979,
       "game_name": "Duke Nukem Xmas 2014",
       "file": "missing/D/291979-duke-nukem-xmas-2014.json"
@@ -82613,6 +82623,11 @@
       "file": "missing/F/268450-fall-ninja.json"
     },
     {
+      "igdb_id": 69257,
+      "game_name": "Fall of Imiryn",
+      "file": "missing/F/69257-fall-of-imiryn.json"
+    },
+    {
       "igdb_id": 56480,
       "game_name": "Fall of Magic: Digital Edition",
       "file": "missing/F/56480-fall-of-magic-digital-edition.json"
@@ -87121,6 +87136,11 @@
       "igdb_id": 381017,
       "game_name": "Firebird: Tale of the Stolen Light",
       "file": "missing/F/381017-firebird-tale-of-the-stolen-light.json"
+    },
+    {
+      "igdb_id": 69256,
+      "game_name": "Fireblaster",
+      "file": "missing/F/69256-fireblaster.json"
     },
     {
       "igdb_id": 246976,
@@ -126903,6 +126923,11 @@
       "file": "missing/J/38390-jikkyou-oshaberi-parodius.json"
     },
     {
+      "igdb_id": 69266,
+      "game_name": "Jikkyou Pawafuru Major League 2009",
+      "file": "missing/J/69266-jikkyou-pawafuru-major-league-2009.json"
+    },
+    {
       "igdb_id": 42644,
       "game_name": "Jikkyou Pawafuru Pro Yakyuu '96: Kaimaku-ban",
       "file": "missing/J/42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json"
@@ -156841,6 +156866,11 @@
       "igdb_id": 309377,
       "game_name": "Mini-Market Simulator VR",
       "file": "missing/M/309377-mini-market-simulator-vr.json"
+    },
+    {
+      "igdb_id": 69262,
+      "game_name": "Mini-Moni. Shakatto Tambourine! Dapyon!",
+      "file": "missing/M/69262-mini-moni-shakatto-tambourine-dapyon.json"
     },
     {
       "igdb_id": 175408,
@@ -216368,6 +216398,11 @@
       "file": "missing/S/78047-sega-ages-2500-vol-29-monster-world-complete-collection.json"
     },
     {
+      "igdb_id": 69267,
+      "game_name": "Sega Ages 2500 Vol. 32: Phantasy Star Complete Collection",
+      "file": "missing/S/69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json"
+    },
+    {
       "igdb_id": 109595,
       "game_name": "Sega Ages Lightening Force: Quest for the Darkstar",
       "file": "missing/S/109595-sega-ages-lightening-force-quest-for-the-darkstar.json"
@@ -235361,6 +235396,11 @@
       "igdb_id": 123597,
       "game_name": "Star Trek Alien Domain: Incursion",
       "file": "missing/S/123597-star-trek-alien-domain-incursion.json"
+    },
+    {
+      "igdb_id": 69258,
+      "game_name": "Star Trek III",
+      "file": "missing/S/69258-star-trek-iii.json"
     },
     {
       "igdb_id": 7584,
@@ -274706,6 +274746,11 @@
       "igdb_id": 349834,
       "game_name": "Toxtli & The Moon Jar",
       "file": "missing/T/349834-toxtli-and-the-moon-jar.json"
+    },
+    {
+      "igdb_id": 69260,
+      "game_name": "Toy Bot Diaries",
+      "file": "missing/T/69260-toy-bot-diaries.json"
     },
     {
       "igdb_id": 79909,
