@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermeer | 46659 | [46659-vermeer.json](./46659-vermeer.json) |
 | Vermilion Desert | 69316 | [69316-vermilion-desert.json](./69316-vermilion-desert.json) |
 | Vermillion Descent | 209137 | [209137-vermillion-descent.json](./209137-vermillion-descent.json) |
+| Vermillion Watch: Order Zero | 74312 | [74312-vermillion-watch-order-zero.json](./74312-vermillion-watch-order-zero.json) |
 | Vermin | 232696 | [232696-vermin.json](./232696-vermin.json) |
 | Vermin Control | 334483 | [334483-vermin-control.json](./334483-vermin-control.json) |
 | Verminator | 55202 | [55202-verminator.json](./55202-verminator.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Sky Walk | 189114 | [189114-vr-sky-walk.json](./189114-vr-sky-walk.json) |
 | VR Smash Park | 111716 | [111716-vr-smash-park.json](./111716-vr-smash-park.json) |
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
+| VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
 | VR Sweet Heart | 193450 | [193450-vr-sweet-heart.json](./193450-vr-sweet-heart.json) |
 | VR The Diner Duo | 25118 | [25118-vr-the-diner-duo.json](./25118-vr-the-diner-duo.json) |
 | VR Time Machine Travelling in History: Visit ancient Egypt, Babylon and Greece in B.C. 400 | 150648 | [150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json](./150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json) |
