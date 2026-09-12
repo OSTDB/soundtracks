@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack the Ripper: Hunter Clan | 346568 | [346568-jack-the-ripper-hunter-clan.json](./346568-jack-the-ripper-hunter-clan.json) |
 | Jack Vs Ninjas | 96769 | [96769-jack-vs-ninjas.json](./96769-jack-vs-ninjas.json) |
 | Jack: Snake Attack | 124739 | [124739-jack-snake-attack.json](./124739-jack-snake-attack.json) |
+| Jack's Game | 50527 | [50527-jacks-game.json](./50527-jacks-game.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
@@ -258,7 +259,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetBall Arena | 113697 | [113697-jetball-arena.json](./113697-jetball-arena.json) |
 | Jetboy | 119775 | [119775-jetboy.json](./119775-jetboy.json) |
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
+| JetFighter II: Advanced Tactical Fighter | 50489 | [50489-jetfighter-ii-advanced-tactical-fighter.json](./50489-jetfighter-ii-advanced-tactical-fighter.json) |
 | JetFighter III Classic | 78053 | [78053-jetfighter-iii-classic.json](./78053-jetfighter-iii-classic.json) |
+| JetFighter: The Adventure | 50490 | [50490-jetfighter-the-adventure.json](./50490-jetfighter-the-adventure.json) |
 | Jetpac Too | 239653 | [239653-jetpac-too.json](./239653-jetpac-too.json) |
 | Jetpack Astronaut | 171564 | [171564-jetpack-astronaut.json](./171564-jetpack-astronaut.json) |
 | Jetpack Cat | 72694 | [72694-jetpack-cat.json](./72694-jetpack-cat.json) |
