@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiepocalypse #70 | 382207 | [382207-indiepocalypse-70.json](./382207-indiepocalypse-70.json) |
 | Indiepocalypse #71 | 382206 | [382206-indiepocalypse-71.json](./382206-indiepocalypse-71.json) |
 | Indiepocalypse #75 | 402283 | [402283-indiepocalypse-75.json](./402283-indiepocalypse-75.json) |
+| Indigenous | 26555 | [26555-indigenous.json](./26555-indigenous.json) |
 | Indignum | 397664 | [397664-indignum.json](./397664-indignum.json) |
 | Indigo | 388713 | [388713-indigo.json](./388713-indigo.json) |
 | Indigo Horizon | 336528 | [336528-indigo-horizon.json](./336528-indigo-horizon.json) |
