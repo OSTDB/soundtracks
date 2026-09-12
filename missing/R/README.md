@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Fantasy Legend 2 | 174795 | [174795-reverse-fantasy-legend-2.json](./174795-reverse-fantasy-legend-2.json) |
 | Reverse it, board game | 88262 | [88262-reverse-it-board-game.json](./88262-reverse-it-board-game.json) |
 | Reverse Momories | 115622 | [115622-reverse-momories.json](./115622-reverse-momories.json) |
+| Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
 | ReverseRoom | 238511 | [238511-reverseroom.json](./238511-reverseroom.json) |
 | Reversi | 319596 | [319596-reversi.json](./319596-reversi.json) |
 | Reversi 32 | 197920 | [197920-reversi-32.json](./197920-reversi-32.json) |
@@ -1383,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
 | Rich Girls | 286499 | [286499-rich-girls.json](./286499-rich-girls.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
+| Rich Life Simulator VR | 50520 | [50520-rich-life-simulator-vr.json](./50520-rich-life-simulator-vr.json) |
 | Rich Mahogany and Human Leather-Bound Books | 271749 | [271749-rich-mahogany-and-human-leather-bound-books.json](./271749-rich-mahogany-and-human-leather-bound-books.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
@@ -1559,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Kingdoms: Conquer War | 199634 | [199634-rise-of-kingdoms-conquer-war.json](./199634-rise-of-kingdoms-conquer-war.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
 | Rise of Lost Empires | 68027 | [68027-rise-of-lost-empires.json](./68027-rise-of-lost-empires.json) |
+| Rise of Man | 50526 | [50526-rise-of-man.json](./50526-rise-of-man.json) |
 | Rise of Man | 50529 | [50529-rise-of-man.json](./50529-rise-of-man.json) |
 | Rise of Mavros | 149541 | [149541-rise-of-mavros.json](./149541-rise-of-mavros.json) |
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
@@ -1778,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Odyssey | 73313 | [73313-robot-odyssey.json](./73313-robot-odyssey.json) |
 | Robot Paradise VR | 133453 | [133453-robot-paradise-vr.json](./133453-robot-paradise-vr.json) |
 | Robot Planet | 232663 | [232663-robot-planet.json](./232663-robot-planet.json) |
+| Robot Ponkottsu Star Version | 50551 | [50551-robot-ponkottsu-star-version.json](./50551-robot-ponkottsu-star-version.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
 | Robot Reckoning | 406695 | [406695-robot-reckoning.json](./406695-robot-reckoning.json) |
