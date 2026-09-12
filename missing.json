@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T00:03:31.388Z",
-  "total_missing": 59830,
+  "generated_at": "2026-09-12T00:10:57.601Z",
+  "total_missing": 59829,
   "games": [
     {
       "igdb_id": 306086,
@@ -2521,11 +2521,6 @@
       "igdb_id": 331142,
       "game_name": "A Tale of Body Limbs",
       "file": "missing/A/331142-a-tale-of-body-limbs.json"
-    },
-    {
-      "igdb_id": 358879,
-      "game_name": "A Tale of Brothers",
-      "file": "missing/A/358879-a-tale-of-brothers.json"
     },
     {
       "igdb_id": 32116,
