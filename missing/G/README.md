@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaming Cafe Simulator | 318807 | [318807-gaming-cafe-simulator.json](./318807-gaming-cafe-simulator.json) |
 | Gaming Constructor Simulator | 121002 | [121002-gaming-constructor-simulator.json](./121002-gaming-constructor-simulator.json) |
 | Gamitate the Meditation Game | 147374 | [147374-gamitate-the-meditation-game.json](./147374-gamitate-the-meditation-game.json) |
+| Gamius Type IV | 51175 | [51175-gamius-type-iv.json](./51175-gamius-type-iv.json) |
 | Gamma Bros | 33675 | [33675-gamma-bros.json](./33675-gamma-bros.json) |
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Ganbare Goemon: Mononoke Douchuu Tobidase Nabe-Bugyou! | 129173 | [129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json](./129173-ganbare-goemon-mononoke-douchuu-tobidase-nabe-bugyou.json) |
@@ -1675,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
+| Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
 | Greedy Maze | 136459 | [136459-greedy-maze.json](./136459-greedy-maze.json) |
 | Greedy Penguins | 20715 | [20715-greedy-penguins.json](./20715-greedy-penguins.json) |
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
@@ -1743,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridfire | 84226 | [84226-gridfire.json](./84226-gridfire.json) |
 | Gridiron Champions | 130407 | [130407-gridiron-champions.json](./130407-gridiron-champions.json) |
 | Gridiron Masters '98 | 401535 | [401535-gridiron-masters-98.json](./401535-gridiron-masters-98.json) |
+| Gridiron Thunder | 51171 | [51171-gridiron-thunder.json](./51171-gridiron-thunder.json) |
 | Gridiron! | 137091 | [137091-gridiron.json](./137091-gridiron.json) |
 | Gridkeeper | 355002 | [355002-gridkeeper.json](./355002-gridkeeper.json) |
 | Gridle | 372494 | [372494-gridle.json](./372494-gridle.json) |
@@ -1896,6 +1899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
 | Guardian | 15542 | [15542-guardian.json](./15542-guardian.json) |
+| Guardian | 55133 | [55133-guardian.json](./55133-guardian.json) |
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
@@ -1933,6 +1937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Logo Game | 104697 | [104697-guess-logo-game.json](./104697-guess-logo-game.json) |
 | Guess Me If You Can | 339829 | [339829-guess-me-if-you-can.json](./339829-guess-me-if-you-can.json) |
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
+| Guess the Flags: A Fun Quiz | 55136 | [55136-guess-the-flags-a-fun-quiz.json](./55136-guess-the-flags-a-fun-quiz.json) |
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
 | Guess Where You Are | 320164 | [320164-guess-where-you-are.json](./320164-guess-where-you-are.json) |
