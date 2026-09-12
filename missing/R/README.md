@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Spider Anecdote: The Longest Nite | 324318 | [324318-red-spider-anecdote-the-longest-nite.json](./324318-red-spider-anecdote-the-longest-nite.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
+| Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
 | Red Tag Rendezvous | 180769 | [180769-red-tag-rendezvous.json](./180769-red-tag-rendezvous.json) |
 | Red Tape | 226968 | [226968-red-tape.json](./226968-red-tape.json) |
@@ -1735,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Warrior | 223974 | [223974-road-warrior.json](./223974-road-warrior.json) |
 | Road Warrior | 364536 | [364536-road-warrior.json](./364536-road-warrior.json) |
 | Road Wars | 265943 | [265943-road-wars.json](./265943-road-wars.json) |
+| Road Works | 35687 | [35687-road-works.json](./35687-road-works.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
 | Roadwars | 95398 | [95398-roadwars.json](./95398-roadwars.json) |
@@ -2183,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roofbot | 30897 | [30897-roofbot.json](./30897-roofbot.json) |
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
 | Rooftop | 229706 | [229706-rooftop.json](./229706-rooftop.json) |
+| Rooftop Cop | 35696 | [35696-rooftop-cop.json](./35696-rooftop-cop.json) |
 | Rooftop Rascal: The Claus Cat | 328386 | [328386-rooftop-rascal-the-claus-cat.json](./328386-rooftop-rascal-the-claus-cat.json) |
 | Rooftop Rascal: The Glitch Cat | 324996 | [324996-rooftop-rascal-the-glitch-cat.json](./324996-rooftop-rascal-the-glitch-cat.json) |
 | Rooftop Rascal: The Spooky Cat | 320373 | [320373-rooftop-rascal-the-spooky-cat.json](./320373-rooftop-rascal-the-spooky-cat.json) |
@@ -2622,6 +2625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust Onslaught | 341511 | [341511-rust-onslaught.json](./341511-rust-onslaught.json) |
 | Rust Racers 2D | 126026 | [126026-rust-racers-2d.json](./126026-rust-racers-2d.json) |
 | Rust Rails | 267063 | [267063-rust-rails.json](./267063-rust-rails.json) |
+| Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
 | Rusted Sea | 296376 | [296376-rusted-sea.json](./296376-rusted-sea.json) |
 | Rustic Defense | 332994 | [332994-rustic-defense.json](./332994-rustic-defense.json) |
