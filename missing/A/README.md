@@ -210,7 +210,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: World Heroes | 76578 | [76578-aca-neo-geo-world-heroes.json](./76578-aca-neo-geo-world-heroes.json) |
-| ACA Neo Geo: World Heroes 2 Jet | 76576 | [76576-aca-neo-geo-world-heroes-2-jet.json](./76576-aca-neo-geo-world-heroes-2-jet.json) |
 | ACA NeoGeo Selection Vol. 10 | 376475 | [376475-aca-neogeo-selection-vol-10.json](./376475-aca-neogeo-selection-vol-10.json) |
 | ACA NeoGeo Selection Vol. 3 | 342070 | [342070-aca-neogeo-selection-vol-3.json](./342070-aca-neogeo-selection-vol-3.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
