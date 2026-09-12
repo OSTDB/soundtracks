@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooo | 260979 | [260979-wooo.json](./260979-wooo.json) |
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
 | Wor Games | 335847 | [335847-wor-games.json](./335847-wor-games.json) |
+| Word Ace | 61032 | [61032-word-ace.json](./61032-word-ace.json) |
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
 | Word Beach: Word Games for Fun | 87733 | [87733-word-beach-word-games-for-fun.json](./87733-word-beach-word-games-for-fun.json) |
 | Word Bird Supreme | 415954 | [415954-word-bird-supreme.json](./415954-word-bird-supreme.json) |
@@ -1647,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series 1964 | 130864 | [130864-world-series-1964.json](./130864-world-series-1964.json) |
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
 | World Series Major League Baseball | 5711 | [5711-world-series-major-league-baseball.json](./5711-world-series-major-league-baseball.json) |
+| World Series of Poker Hold'em Legend | 61028 | [61028-world-series-of-poker-holdem-legend.json](./61028-world-series-of-poker-holdem-legend.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
 | World Soccer Challenge | 255739 | [255739-world-soccer-challenge.json](./255739-world-soccer-challenge.json) |
 | World Soccer Kid | 196827 | [196827-world-soccer-kid.json](./196827-world-soccer-kid.json) |
@@ -1809,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wǔlín Zhìzūn Zhuàn | 367434 | [367434-wulin-zhizun-zhuan.json](./367434-wulin-zhizun-zhuan.json) |
 | Wumbo's Adventure | 102750 | [102750-wumbos-adventure.json](./102750-wumbos-adventure.json) |
 | Wummsen Village | 361118 | [361118-wummsen-village.json](./361118-wummsen-village.json) |
+| Wumpus | 61029 | [61029-wumpus.json](./61029-wumpus.json) |
 | Wunderhaven | 166763 | [166763-wunderhaven.json](./166763-wunderhaven.json) |
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
 | Wurd Torn | 58230 | [58230-wurd-torn.json](./58230-wurd-torn.json) |
