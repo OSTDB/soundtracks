@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Planet: First Sales | 306351 | [306351-pawn-planet-first-sales.json](./306351-pawn-planet-first-sales.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
+| Pawn Tactics | 26487 | [26487-pawn-tactics.json](./26487-pawn-tactics.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Pawns Survival | 390002 | [390002-pawns-survival.json](./390002-pawns-survival.json) |
 | Pawprints Match | 359410 | [359410-pawprints-match.json](./359410-pawprints-match.json) |
@@ -2355,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Star Debut | 324684 | [324684-pop-star-debut.json](./324684-pop-star-debut.json) |
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
+| Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop-up Fox | 101471 | [101471-pop-up-fox.json](./101471-pop-up-fox.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
 | Pop'n Music 3 Append Disc | 280791 | [280791-popn-music-3-append-disc.json](./280791-popn-music-3-append-disc.json) |
@@ -3210,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psi Chess | 58251 | [58251-psi-chess.json](./58251-psi-chess.json) |
 | PSI Masquerade | 204064 | [204064-psi-masquerade.json](./204064-psi-masquerade.json) |
 | Psi Project: Legacy | 75907 | [75907-psi-project-legacy.json](./75907-psi-project-legacy.json) |
+| Psi-Warrior | 26466 | [26466-psi-warrior.json](./26466-psi-warrior.json) |
 | Psicose? | 129235 | [129235-psicose.json](./129235-psicose.json) |
 | Psikyo Collection Vol. 2 | 112290 | [112290-psikyo-collection-vol-2.json](./112290-psikyo-collection-vol-2.json) |
 | Psikyo Shooting Stars Bravo | 121652 | [121652-psikyo-shooting-stars-bravo.json](./121652-psikyo-shooting-stars-bravo.json) |
@@ -3340,6 +3343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punishment | 57647 | [57647-punishment.json](./57647-punishment.json) |
 | Punishment Darkness Online: Centre Ville | 171080 | [171080-punishment-darkness-online-centre-ville.json](./171080-punishment-darkness-online-centre-ville.json) |
 | Punishment Darkness Online: Grand Moun | 171079 | [171079-punishment-darkness-online-grand-moun.json](./171079-punishment-darkness-online-grand-moun.json) |
+| PuniTy | 26508 | [26508-punity.json](./26508-punity.json) |
 | Punji VR | 192962 | [192962-punji-vr.json](./192962-punji-vr.json) |
 | Punk Racer | 411619 | [411619-punk-racer.json](./411619-punk-racer.json) |
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
