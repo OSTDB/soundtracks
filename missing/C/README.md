@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmen Sandiego's Think Quick Challenge | 66607 | [66607-carmen-sandiegos-think-quick-challenge.json](./66607-carmen-sandiegos-think-quick-challenge.json) |
 | Carminia | 153385 | [153385-carminia.json](./153385-carminia.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
+| Carnage Heart EXA | 46589 | [46589-carnage-heart-exa.json](./46589-carnage-heart-exa.json) |
 | Carnage Kart X | 318977 | [318977-carnage-kart-x.json](./318977-carnage-kart-x.json) |
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
@@ -1061,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chairs | 281987 | [281987-chairs.json](./281987-chairs.json) |
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
+| Challange of the Five Realms | 46576 | [46576-challange-of-the-five-realms.json](./46576-challange-of-the-five-realms.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
 | Challenge Party | 149518 | [149518-challenge-party.json](./149518-challenge-party.json) |
@@ -2001,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Clicker | 278431 | [278431-clone-clicker.json](./278431-clone-clicker.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
+| Clonk 3: Radikal | 46580 | [46580-clonk-3-radikal.json](./46580-clonk-3-radikal.json) |
 | Clonk A.P.E. | 79332 | [79332-clonk-a-p-e.json](./79332-clonk-a-p-e.json) |
 | Clonk Endeavour | 57644 | [57644-clonk-endeavour.json](./57644-clonk-endeavour.json) |
 | Close for the Night | 359989 | [359989-close-for-the-night.json](./359989-close-for-the-night.json) |
@@ -2895,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoDrive:Infinity | 147932 | [147932-cosmodrive-infinity.json](./147932-cosmodrive-infinity.json) |
 | CosmoDrive:Zero | 111688 | [111688-cosmodrive-zero.json](./111688-cosmodrive-zero.json) |
 | Cosmogelica | 265674 | [265674-cosmogelica.json](./265674-cosmogelica.json) |
+| Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
 | Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
 | Cosmophage | 148552 | [148552-cosmophage.json](./148552-cosmophage.json) |
 | Cosmorbit | 384537 | [384537-cosmorbit.json](./384537-cosmorbit.json) |
