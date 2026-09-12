@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
+| Bam 'N Jam | 61547 | [61547-bam-n-jam.json](./61547-bam-n-jam.json) |
 | Bam Boom Blade | 289344 | [289344-bam-boom-blade.json](./289344-bam-boom-blade.json) |
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
 | Bamboo Forest | 161397 | [161397-bamboo-forest.json](./161397-bamboo-forest.json) |
@@ -2048,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
 | Block Puzzle | 248639 | [248639-block-puzzle.json](./248639-block-puzzle.json) |
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
+| Block Quest V | 61556 | [61556-block-quest-v.json](./61556-block-quest-v.json) |
 | Block Rush 3 | 369015 | [369015-block-rush-3.json](./369015-block-rush-3.json) |
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Slender-Man 3D: Lucky Survivor - Worldwide Multiplayer Edition | 327592 | [327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json](./327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json) |
@@ -2210,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom Blast | 392809 | [392809-bloom-blast.json](./392809-bloom-blast.json) |
 | Bloom for Me | 358327 | [358327-bloom-for-me.json](./358327-bloom-for-me.json) |
 | Bloom Runner | 258175 | [258175-bloom-runner.json](./258175-bloom-runner.json) |
+| Bloom: Memories | 61558 | [61558-bloom-memories.json](./61558-bloom-memories.json) |
 | Bloomblebee | 175989 | [175989-bloomblebee.json](./175989-bloomblebee.json) |
 | Bloomers 2000 | 270690 | [270690-bloomers-2000.json](./270690-bloomers-2000.json) |
 | Bloomies | 175427 | [175427-bloomies.json](./175427-bloomies.json) |
@@ -3438,6 +3441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnin' Rubber Shift | 237965 | [237965-burnin-rubber-shift.json](./237965-burnin-rubber-shift.json) |
 | Burninate the Barnyard | 231613 | [231613-burninate-the-barnyard.json](./231613-burninate-the-barnyard.json) |
 | Burning Dead | 226777 | [226777-burning-dead.json](./226777-burning-dead.json) |
+| Burning Dragon | 61555 | [61555-burning-dragon.json](./61555-burning-dragon.json) |
 | Burning Knight | 117702 | [117702-burning-knight.json](./117702-burning-knight.json) |
 | Burning Love | 287082 | [287082-burning-love.json](./287082-burning-love.json) |
 | Burning Monkey Casino | 352743 | [352743-burning-monkey-casino.json](./352743-burning-monkey-casino.json) |
