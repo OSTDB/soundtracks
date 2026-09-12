@@ -157,7 +157,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abigor | 210899 | [210899-abigor.json](./210899-abigor.json) |
-| Abiko the Miko 2 | 161360 | [161360-abiko-the-miko-2.json](./161360-abiko-the-miko-2.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
 | Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
