@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
 | Dora and the Three Little Pigs | 231378 | [231378-dora-and-the-three-little-pigs.json](./231378-dora-and-the-three-little-pigs.json) |
 | Dora the Explorer: Adventures 3-Pack | 100113 | [100113-dora-the-explorer-adventures-3-pack.json](./100113-dora-the-explorer-adventures-3-pack.json) |
+| Dora the Explorer: Animal Adventures | 77328 | [77328-dora-the-explorer-animal-adventures.json](./77328-dora-the-explorer-animal-adventures.json) |
 | Dora the Explorer: Candy Land | 206702 | [206702-dora-the-explorer-candy-land.json](./206702-dora-the-explorer-candy-land.json) |
 | Dora the Explorer: Carnival 2 - Boardwalk Adventure | 209123 | [209123-dora-the-explorer-carnival-2-boardwalk-adventure.json](./209123-dora-the-explorer-carnival-2-boardwalk-adventure.json) |
 | Dora the Explorer: Dora's Big Birthday Adventure | 50624 | [50624-dora-the-explorer-doras-big-birthday-adventure.json](./50624-dora-the-explorer-doras-big-birthday-adventure.json) |
