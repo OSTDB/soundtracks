@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T21:21:28.250Z",
-  "total_missing": 63372,
+  "generated_at": "2026-09-12T21:31:37.648Z",
+  "total_missing": 63382,
   "games": [
     {
       "igdb_id": 306086,
@@ -3053,6 +3053,11 @@
       "file": "missing/A/25751-abribus.json"
     },
     {
+      "igdb_id": 33018,
+      "game_name": "Abrix the robot",
+      "file": "missing/A/33018-abrix-the-robot.json"
+    },
+    {
       "igdb_id": 76618,
       "game_name": "Absence Request",
       "file": "missing/A/76618-absence-request.json"
@@ -3176,11 +3181,6 @@
       "igdb_id": 85538,
       "game_name": "ACA Neo Geo: Burning Fight",
       "file": "missing/A/85538-aca-neo-geo-burning-fight.json"
-    },
-    {
-      "igdb_id": 111644,
-      "game_name": "ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer",
-      "file": "missing/A/111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json"
     },
     {
       "igdb_id": 78127,
@@ -4446,6 +4446,11 @@
       "igdb_id": 45364,
       "game_name": "Adventure A: Planet of Death",
       "file": "missing/A/45364-adventure-a-planet-of-death.json"
+    },
+    {
+      "igdb_id": 33017,
+      "game_name": "Adventure Apes and the Mayan Mystery",
+      "file": "missing/A/33017-adventure-apes-and-the-mayan-mystery.json"
     },
     {
       "igdb_id": 45354,
@@ -22756,6 +22761,11 @@
       "igdb_id": 199114,
       "game_name": "Base Jump: Wing Suit Flying",
       "file": "missing/B/199114-base-jump-wing-suit-flying.json"
+    },
+    {
+      "igdb_id": 33026,
+      "game_name": "Base Squad 49",
+      "file": "missing/B/33026-base-squad-49.json"
     },
     {
       "igdb_id": 131527,
@@ -68548,6 +68558,11 @@
       "file": "missing/D/115623-disobedient-sheep.json"
     },
     {
+      "igdb_id": 33031,
+      "game_name": "Disobey - Revolt Simulator",
+      "file": "missing/D/33031-disobey-revolt-simulator.json"
+    },
+    {
       "igdb_id": 118432,
       "game_name": "Disonante",
       "file": "missing/D/118432-disonante.json"
@@ -103196,6 +103211,11 @@
       "igdb_id": 116979,
       "game_name": "Ghoul Britannia: Land of Hope and Gorey",
       "file": "missing/G/116979-ghoul-britannia-land-of-hope-and-gorey.json"
+    },
+    {
+      "igdb_id": 33012,
+      "game_name": "Ghoul Kid",
+      "file": "missing/G/33012-ghoul-kid.json"
     },
     {
       "igdb_id": 166234,
@@ -144228,6 +144248,11 @@
       "file": "missing/L/37085-legions-of-death.json"
     },
     {
+      "igdb_id": 33016,
+      "game_name": "Legionwood: Tale of the Two Swords",
+      "file": "missing/L/33016-legionwood-tale-of-the-two-swords.json"
+    },
+    {
       "igdb_id": 26666,
       "game_name": "Legna Tactica",
       "file": "missing/L/26666-legna-tactica.json"
@@ -164703,6 +164728,11 @@
       "file": "missing/M/131586-missileman-clone-commandos.json"
     },
     {
+      "igdb_id": 33034,
+      "game_name": "Missileman Origins",
+      "file": "missing/M/33034-missileman-origins.json"
+    },
+    {
       "igdb_id": 131603,
       "game_name": "Missileman Spy Strike 2",
       "file": "missing/M/131603-missileman-spy-strike-2.json"
@@ -185021,6 +185051,11 @@
       "igdb_id": 184039,
       "game_name": "One Vacancy",
       "file": "missing/O/184039-one-vacancy.json"
+    },
+    {
+      "igdb_id": 33002,
+      "game_name": "One Way Flight",
+      "file": "missing/O/33002-one-way-flight.json"
     },
     {
       "igdb_id": 147990,
@@ -234093,6 +234128,11 @@
       "file": "missing/S/323750-skypop-scramble.json"
     },
     {
+      "igdb_id": 33023,
+      "game_name": "Skyreach",
+      "file": "missing/S/33023-skyreach.json"
+    },
+    {
       "igdb_id": 90696,
       "game_name": "SkyRider ADV",
       "file": "missing/S/90696-skyrider-adv.json"
@@ -247938,6 +247978,11 @@
       "file": "missing/S/296655-steambots.json"
     },
     {
+      "igdb_id": 33028,
+      "game_name": "SteamDolls",
+      "file": "missing/S/33028-steamdolls.json"
+    },
+    {
       "igdb_id": 124261,
       "game_name": "SteamDolls: Order of Chaos",
       "file": "missing/S/124261-steamdolls-order-of-chaos.json"
@@ -256556,6 +256601,11 @@
       "igdb_id": 387376,
       "game_name": "Surreality Check",
       "file": "missing/S/387376-surreality-check.json"
+    },
+    {
+      "igdb_id": 33030,
+      "game_name": "SurrealVR",
+      "file": "missing/S/33030-surrealvr.json"
     },
     {
       "igdb_id": 51986,
