@@ -146,7 +146,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
-| AbbleDabble | 174319 | [174319-abbledabble.json](./174319-abbledabble.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
 | ABC Kids Bundle | 231079 | [231079-abc-kids-bundle.json](./231079-abc-kids-bundle.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
