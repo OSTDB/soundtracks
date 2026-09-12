@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
 | Hotline Miami: Collected Edition | 77985 | [77985-hotline-miami-collected-edition.json](./77985-hotline-miami-collected-edition.json) |
+| Hototogisu | 64355 | [64355-hototogisu.json](./64355-hototogisu.json) |
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | Hotshot Racing | 131888 | [131888-hotshot-racing.json](./131888-hotshot-racing.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Moon | 144939 | [144939-hunters-moon.json](./144939-hunters-moon.json) |
 | Hunter's Seal | 365681 | [365681-hunters-seal.json](./365681-hunters-seal.json) |
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
+| Hunter's Trophy 2: Europa | 64376 | [64376-hunters-trophy-2-europa.json](./64376-hunters-trophy-2-europa.json) |
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
 | HunterX | 196262 | [196262-hunterx.json](./196262-hunterx.json) |
