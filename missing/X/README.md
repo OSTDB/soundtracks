@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xango Tango | 205820 | [205820-xango-tango.json](./205820-xango-tango.json) |
 | Xanthaphobia | 266789 | [266789-xanthaphobia.json](./266789-xanthaphobia.json) |
 | Xanthiom Zero | 240815 | [240815-xanthiom-zero.json](./240815-xanthiom-zero.json) |
+| Xark | 30840 | [30840-xark.json](./30840-xark.json) |
 | Xavix Bowling | 267372 | [267372-xavix-bowling.json](./267372-xavix-bowling.json) |
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
 | Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
