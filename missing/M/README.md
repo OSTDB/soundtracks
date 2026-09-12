@@ -375,7 +375,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahoutsukai no Yoru | 65487 | [65487-mahoutsukai-no-yoru.json](./65487-mahoutsukai-no-yoru.json) |
 | Mai In The Mysterious Castle | 277595 | [277595-mai-in-the-mysterious-castle.json](./277595-mai-in-the-mysterious-castle.json) |
 | Mai-Chan's Sweet Buns | 142448 | [142448-mai-chans-sweet-buns.json](./142448-mai-chans-sweet-buns.json) |
+| Mai-Hime Bakuretsu! Fuuka Gakuen Gekitoushi?! | 72651 | [72651-mai-hime-bakuretsu-fuuka-gakuen-gekitoushi.json](./72651-mai-hime-bakuretsu-fuuka-gakuen-gekitoushi.json) |
+| Mai-Hime Senretsu! Shin Fuuka Gakuen Gekitoushi!! | 72652 | [72652-mai-hime-senretsu-shin-fuuka-gakuen-gekitoushi.json](./72652-mai-hime-senretsu-shin-fuuka-gakuen-gekitoushi.json) |
 | Mai-Hime: Unmei no Keitouju | 79258 | [79258-mai-hime-unmei-no-keitouju.json](./79258-mai-hime-unmei-no-keitouju.json) |
+| Mai-Otome: Otome Butou Shi | 72650 | [72650-mai-otome-otome-butou-shi.json](./72650-mai-otome-otome-butou-shi.json) |
 | Maia | 188641 | [188641-maia.json](./188641-maia.json) |
 | Maid Cafe | 265435 | [265435-maid-cafe.json](./265435-maid-cafe.json) |
 | Maid Cafe Coop | 381636 | [381636-maid-cafe-coop.json](./381636-maid-cafe-coop.json) |
@@ -2110,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Mahjong | 406111 | [406111-mighty-mahjong.json](./406111-mighty-mahjong.json) |
 | Mighty Marbles | 258441 | [258441-mighty-marbles.json](./258441-mighty-marbles.json) |
 | Mighty Math Carnival Countdown | 129156 | [129156-mighty-math-carnival-countdown.json](./129156-mighty-math-carnival-countdown.json) |
+| Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
@@ -3552,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Blob's Honey-Do List | 342639 | [342639-mr-blobs-honey-do-list.json](./342639-mr-blobs-honey-do-list.json) |
 | Mr. Bloopy Saves the World | 42659 | [42659-mr-bloopy-saves-the-world.json](./42659-mr-bloopy-saves-the-world.json) |
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
+| Mr. Boston Clean Sweep | 72611 | [72611-mr-boston-clean-sweep.json](./72611-mr-boston-clean-sweep.json) |
 | Mr. Bree: Returning Home | 102124 | [102124-mr-bree-returning-home.json](./102124-mr-bree-returning-home.json) |
 | Mr. Catfish's Singles Retreat Event Extravaganza!!! | 122353 | [122353-mr-catfishs-singles-retreat-event-extravaganza.json](./122353-mr-catfishs-singles-retreat-event-extravaganza.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
