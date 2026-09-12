@@ -641,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onee-san ga Tabetai no ha Kimi no... | 251617 | [251617-onee-san-ga-tabetai-no-ha-kimi-no.json](./251617-onee-san-ga-tabetai-no-ha-kimi-no.json) |
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
+| OneHit | 75104 | [75104-onehit.json](./75104-onehit.json) |
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
 | Oneiros | 102965 | [102965-oneiros.json](./102965-oneiros.json) |
 | OneJump | 131619 | [131619-onejump.json](./131619-onejump.json) |
@@ -1195,12 +1196,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overknight Dungeon | 223980 | [223980-overknight-dungeon.json](./223980-overknight-dungeon.json) |
 | Overlapping World | 284342 | [284342-overlapping-world.json](./284342-overlapping-world.json) |
 | Overlook: Local multiplayer game up to 16 players | 78112 | [78112-overlook-local-multiplayer-game-up-to-16-players.json](./78112-overlook-local-multiplayer-game-up-to-16-players.json) |
+| Overloop | 75025 | [75025-overloop.json](./75025-overloop.json) |
 | Overlord's Odyssey | 223979 | [223979-overlords-odyssey.json](./223979-overlords-odyssey.json) |
 | Overly Qualified Ms. Mary | 219061 | [219061-overly-qualified-ms-mary.json](./219061-overly-qualified-ms-mary.json) |
 | Overmind | 327180 | [327180-overmind.json](./327180-overmind.json) |
 | OverNight | 207512 | [207512-overnight.json](./207512-overnight.json) |
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
 | OverPowered | 146257 | [146257-overpowered.json](./146257-overpowered.json) |
+| OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
 | Overrun: Zombie Base Defense | 208024 | [208024-overrun-zombie-base-defense.json](./208024-overrun-zombie-base-defense.json) |
