@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray the Flying Squirrel in Sonic the Hedgehog | 198536 | [198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json](./198536-ray-the-flying-squirrel-in-sonic-the-hedgehog.json) |
 | Ray-Gun | 64969 | [64969-ray-gun.json](./64969-ray-gun.json) |
 | Ray-Hound | 78702 | [78702-ray-hound.json](./78702-ray-hound.json) |
+| Ray-Thunder | 64909 | [64909-ray-thunder.json](./64909-ray-thunder.json) |
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
 | Raybound | 145683 | [145683-raybound.json](./145683-raybound.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
@@ -861,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflectron | 42048 | [42048-reflectron.json](./42048-reflectron.json) |
 | Reflex | 86345 | [86345-reflex.json](./86345-reflex.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
+| Refrain Love: Anata ni Aitai | 64892 | [64892-refrain-love-anata-ni-aitai.json](./64892-refrain-love-anata-ni-aitai.json) |
 | Refuge | 226969 | [226969-refuge.json](./226969-refuge.json) |
 | Refuge For Troubles: Episode 1 - Dear Stranger | 171566 | [171566-refuge-for-troubles-episode-1-dear-stranger.json](./171566-refuge-for-troubles-episode-1-dear-stranger.json) |
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
@@ -1596,6 +1598,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: Hide and Seek | 98377 | [98377-rite-of-passage-hide-and-seek.json](./98377-rite-of-passage-hide-and-seek.json) |
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
+| Rittai Ninja Katsugeki Tenchu: Shinobi Gaisen | 64910 | [64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json](./64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json) |
+| Rittai Ninja Katsugeki Tenchu: Shinobi Hyakusen | 64911 | [64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json](./64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json) |
 | Rittai-ban: Yuugeki-oh | 333952 | [333952-rittai-ban-yuugeki-oh.json](./333952-rittai-ban-yuugeki-oh.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
