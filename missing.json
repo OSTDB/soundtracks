@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T01:00:57.581Z",
-  "total_missing": 59985,
+  "generated_at": "2026-09-12T01:11:04.493Z",
+  "total_missing": 59986,
   "games": [
     {
       "igdb_id": 306086,
@@ -2551,11 +2551,6 @@
       "igdb_id": 338179,
       "game_name": "A Thousand Mouths to Scream",
       "file": "missing/A/338179-a-thousand-mouths-to-scream.json"
-    },
-    {
-      "igdb_id": 112305,
-      "game_name": "A Timeless Carol",
-      "file": "missing/A/112305-a-timeless-carol.json"
     },
     {
       "igdb_id": 318177,
@@ -36516,6 +36511,11 @@
       "igdb_id": 74446,
       "game_name": "Bygone Worlds: Jerusalem",
       "file": "missing/B/74446-bygone-worlds-jerusalem.json"
+    },
+    {
+      "igdb_id": 75827,
+      "game_name": "Bystander",
+      "file": "missing/B/75827-bystander.json"
     },
     {
       "igdb_id": 203889,
@@ -126526,6 +126526,11 @@
       "igdb_id": 178589,
       "game_name": "Joulumato",
       "file": "missing/J/178589-joulumato.json"
+    },
+    {
+      "igdb_id": 75828,
+      "game_name": "Joumee the Hedgehog",
+      "file": "missing/J/75828-joumee-the-hedgehog.json"
     },
     {
       "igdb_id": 186906,
