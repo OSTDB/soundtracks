@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
 | Blaster Simulator | 9387 | [9387-blaster-simulator.json](./9387-blaster-simulator.json) |
 | Blaster Squad | 132215 | [132215-blaster-squad.json](./132215-blaster-squad.json) |
+| Blaster! | 26483 | [26483-blaster.json](./26483-blaster.json) |
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
 | Blasteroids | 11967 | [11967-blasteroids.json](./11967-blasteroids.json) |
 | Blasteron | 75176 | [75176-blasteron.json](./75176-blasteron.json) |
@@ -2401,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluff: Fun Family Card Game | 227852 | [227852-bluff-fun-family-card-game.json](./227852-bluff-fun-family-card-game.json) |
 | Blukaty | 291241 | [291241-blukaty.json](./291241-blukaty.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
+| Blunt Force | 26566 | [26566-blunt-force.json](./26566-blunt-force.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
 | Blurred Weird Night | 150647 | [150647-blurred-weird-night.json](./150647-blurred-weird-night.json) |
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
@@ -2770,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boti: Byteland Overclocked - Bitosaurus | 327813 | [327813-boti-byteland-overclocked-bitosaurus.json](./327813-boti-byteland-overclocked-bitosaurus.json) |
 | Botics | 14336 | [14336-botics.json](./14336-botics.json) |
 | BotMobile | 293111 | [293111-botmobile.json](./293111-botmobile.json) |
+| Botolo | 26572 | [26572-botolo.json](./26572-botolo.json) |
 | Bots | 58817 | [58817-bots.json](./58817-bots.json) |
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
 | Bots Crusher Arena | 203895 | [203895-bots-crusher-arena.json](./203895-bots-crusher-arena.json) |
