@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
+| Path of War | 31783 | [31783-path-of-war.json](./31783-path-of-war.json) |
 | Path of Wuxia | 138747 | [138747-path-of-wuxia.json](./138747-path-of-wuxia.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
@@ -1415,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong Trick Shot Evolution | 115059 | [115059-ping-pong-trick-shot-evolution.json](./115059-ping-pong-trick-shot-evolution.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
 | Ping! | 79906 | [79906-ping.json](./79906-ping.json) |
+| Pinga Ponga | 31850 | [31850-pinga-ponga.json](./31850-pinga-ponga.json) |
 | Pingball Ultra | 106537 | [106537-pingball-ultra.json](./106537-pingball-ultra.json) |
 | Pingcheng Chronicles | 316650 | [316650-pingcheng-chronicles.json](./316650-pingcheng-chronicles.json) |
 | Pinging | 255976 | [255976-pinging.json](./255976-pinging.json) |
@@ -2505,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
+| Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
 | Power of Seasons | 406717 | [406717-power-of-seasons.json](./406717-power-of-seasons.json) |
 | Power of Slide | 149041 | [149041-power-of-slide.json](./149041-power-of-slide.json) |
 | Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
@@ -3550,6 +3553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places: Cozy Rooms Bundle | 353889 | [353889-puzzling-places-cozy-rooms-bundle.json](./353889-puzzling-places-cozy-rooms-bundle.json) |
 | Puzzling Places: EuroTrip Bundle | 353885 | [353885-puzzling-places-eurotrip-bundle.json](./353885-puzzling-places-eurotrip-bundle.json) |
 | Puzzling Places: Premium Puzzles Bundle | 353887 | [353887-puzzling-places-premium-puzzles-bundle.json](./353887-puzzling-places-premium-puzzles-bundle.json) |
+| Puzzling Rooms VR | 31837 | [31837-puzzling-rooms-vr.json](./31837-puzzling-rooms-vr.json) |
 | Puzzly Game Collection | 105938 | [105938-puzzly-game-collection.json](./105938-puzzly-game-collection.json) |
 | Puzznic | 12199 | [12199-puzznic.json](./12199-puzznic.json) |
 | Puzznic | 295044 | [295044-puzznic.json](./295044-puzznic.json) |
