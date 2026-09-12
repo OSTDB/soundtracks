@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
 | Virtual Surgeon: Open Heart | 69239 | [69239-virtual-surgeon-open-heart.json](./69239-virtual-surgeon-open-heart.json) |
 | Virtual Table Tennis Ping Pong | 104622 | [104622-virtual-table-tennis-ping-pong.json](./104622-virtual-table-tennis-ping-pong.json) |
+| Virtual Temple: Order of the Golden Dawn | 51919 | [51919-virtual-temple-order-of-the-golden-dawn.json](./51919-virtual-temple-order-of-the-golden-dawn.json) |
 | Virtual Towers Online | 112273 | [112273-virtual-towers-online.json](./112273-virtual-towers-online.json) |
 | Virtual Villagers 2: The Lost Children for iPad | 108474 | [108474-virtual-villagers-2-the-lost-children-for-ipad.json](./108474-virtual-villagers-2-the-lost-children-for-ipad.json) |
 | Virtual Villagers Origins 2 | 110988 | [110988-virtual-villagers-origins-2.json](./110988-virtual-villagers-origins-2.json) |
