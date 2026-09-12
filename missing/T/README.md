@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | T H E YV | 127979 | [127979-t-h-e-yv.json](./127979-t-h-e-yv.json) |
 | T kara Hajimaru Monogatari | 172737 | [172737-t-kara-hajimaru-monogatari.json](./172737-t-kara-hajimaru-monogatari.json) |
+| T-Kara Puzzles | 34208 | [34208-t-kara-puzzles.json](./34208-t-kara-puzzles.json) |
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.E.C. 3001 | 14646 | [14646-t-e-c-3001.json](./14646-t-e-c-3001.json) |
@@ -351,6 +352,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Digital Edition - Shape Shifter | 149064 | [149064-talisman-digital-edition-shape-shifter.json](./149064-talisman-digital-edition-shape-shifter.json) |
 | Talisman: Digital Edition - Swordsman | 149059 | [149059-talisman-digital-edition-swordsman.json](./149059-talisman-digital-edition-swordsman.json) |
 | Talisman: Digital Edition - The Clockwork Kingdom | 149073 | [149073-talisman-digital-edition-the-clockwork-kingdom.json](./149073-talisman-digital-edition-the-clockwork-kingdom.json) |
+| Talisman: Digital Edition - The Dungeon | 34219 | [34219-talisman-digital-edition-the-dungeon.json](./34219-talisman-digital-edition-the-dungeon.json) |
+| Talisman: Digital Edition - The Frostmarch | 34220 | [34220-talisman-digital-edition-the-frostmarch.json](./34220-talisman-digital-edition-the-frostmarch.json) |
+| Talisman: Digital Edition - The Highland | 34207 | [34207-talisman-digital-edition-the-highland.json](./34207-talisman-digital-edition-the-highland.json) |
+| Talisman: Digital Edition - The Reaper | 34221 | [34221-talisman-digital-edition-the-reaper.json](./34221-talisman-digital-edition-the-reaper.json) |
+| Talisman: Digital Edition - The Sacred Pool | 34199 | [34199-talisman-digital-edition-the-sacred-pool.json](./34199-talisman-digital-edition-the-sacred-pool.json) |
 | Talisman: Digital Edition - Vampire | 149070 | [149070-talisman-digital-edition-vampire.json](./149070-talisman-digital-edition-vampire.json) |
 | Talisman: Digital Edition - Witch Hunter | 149077 | [149077-talisman-digital-edition-witch-hunter.json](./149077-talisman-digital-edition-witch-hunter.json) |
 | Talisman: Digital Edition - Woodsman | 149068 | [149068-talisman-digital-edition-woodsman.json](./149068-talisman-digital-edition-woodsman.json) |
@@ -2045,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fog | 305143 | [305143-the-fog.json](./305143-the-fog.json) |
 | The Fog | 391047 | [391047-the-fog.json](./391047-the-fog.json) |
 | The Fog Fall | 383351 | [383351-the-fog-fall.json](./383351-the-fog-fall.json) |
+| The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forest Cries | 185101 | [185101-the-forest-cries.json](./185101-the-forest-cries.json) |
@@ -2055,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
 | The Forgotten Empire | 191164 | [191164-the-forgotten-empire.json](./191164-the-forgotten-empire.json) |
 | The Forgotten Fairy Tales: The Spectra World | 100153 | [100153-the-forgotten-fairy-tales-the-spectra-world.json](./100153-the-forgotten-fairy-tales-the-spectra-world.json) |
+| The Forgotten Forest | 34276 | [34276-the-forgotten-forest.json](./34276-the-forgotten-forest.json) |
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
 | The Forgotten Phobia | 170547 | [170547-the-forgotten-phobia.json](./170547-the-forgotten-phobia.json) |
@@ -2664,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
 | The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
+| The Light Empire | 34245 | [34245-the-light-empire.json](./34245-the-light-empire.json) |
 | The Light Inside Us | 55922 | [55922-the-light-inside-us.json](./55922-the-light-inside-us.json) |
 | The Light of Celestia | 335268 | [335268-the-light-of-celestia.json](./335268-the-light-of-celestia.json) |
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
@@ -2757,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Game | 119734 | [119734-the-lost-game.json](./119734-the-lost-game.json) |
 | The Lost Hotel | 253395 | [253395-the-lost-hotel.json](./253395-the-lost-hotel.json) |
 | The Lost Island | 329582 | [329582-the-lost-island.json](./329582-the-lost-island.json) |
+| The Lost Island | 34248 | [34248-the-lost-island.json](./34248-the-lost-island.json) |
 | The Lost Island of Alanna | 71496 | [71496-the-lost-island-of-alanna.json](./71496-the-lost-island-of-alanna.json) |
 | The Lost Labyrinth | 166712 | [166712-the-lost-labyrinth.json](./166712-the-lost-labyrinth.json) |
 | The Lost Legends of Redwall: Feasts & Friends | 280511 | [280511-the-lost-legends-of-redwall-feasts-and-friends.json](./280511-the-lost-legends-of-redwall-feasts-and-friends.json) |
@@ -3241,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
 | The Rolling Room | 309893 | [309893-the-rolling-room.json](./309893-the-rolling-room.json) |
+| The Rollingball's Melody | 34308 | [34308-the-rollingballs-melody.json](./34308-the-rollingballs-melody.json) |
 | The Room | 11625 | [11625-the-room.json](./11625-the-room.json) |
 | The Room of Black & White | 34455 | [34455-the-room-of-black-and-white.json](./34455-the-room-of-black-and-white.json) |
 | The Room Syndrome | 124218 | [124218-the-room-syndrome.json](./124218-the-room-syndrome.json) |
@@ -6187,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
+| Trap Them: Sniper Edition | 34336 | [34336-trap-them-sniper-edition.json](./34336-trap-them-sniper-edition.json) |
 | Trap Trek: Ultimate Other Me | 293619 | [293619-trap-trek-ultimate-other-me.json](./293619-trap-trek-ultimate-other-me.json) |
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
@@ -6749,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | Turochamp | 232670 | [232670-turochamp.json](./232670-turochamp.json) |
 | Turok 3: Shadow of Oblivion | 1328 | [1328-turok-3-shadow-of-oblivion.json](./1328-turok-3-shadow-of-oblivion.json) |
+| TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | Turrican III | 37098 | [37098-turrican-iii.json](./37098-turrican-iii.json) |
 | Turte | 309885 | [309885-turte.json](./309885-turte.json) |
 | Turtle | 340391 | [340391-turtle.json](./340391-turtle.json) |
