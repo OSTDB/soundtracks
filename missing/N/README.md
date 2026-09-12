@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.E.O.N.: Never-Ending Onslaught of Nerds | 152922 | [152922-n-e-o-n-never-ending-onslaught-of-nerds.json](./152922-n-e-o-n-never-ending-onslaught-of-nerds.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
 | N.O.R.E.D: The War on Christmas | 181330 | [181330-n-o-r-e-d-the-war-on-christmas.json](./181330-n-o-r-e-d-the-war-on-christmas.json) |
+| N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
 | N0-Exit | 31987 | [31987-n0-exit.json](./31987-n0-exit.json) |
 | N1RV Ann-A: Cyberpunk Bartender Action | 109582 | [109582-n1rv-ann-a-cyberpunk-bartender-action.json](./109582-n1rv-ann-a-cyberpunk-bartender-action.json) |
@@ -1602,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
 | NumWorlds | 335846 | [335846-numworlds.json](./335846-numworlds.json) |
 | NumX | 341491 | [341491-numx.json](./341491-numx.json) |
+| Nun Attack | 38956 | [38956-nun-attack.json](./38956-nun-attack.json) |
 | Nun Attack: Run & Gun | 38993 | [38993-nun-attack-run-and-gun.json](./38993-nun-attack-run-and-gun.json) |
 | Nun&Gun | 278386 | [278386-nun-and-gun.json](./278386-nun-and-gun.json) |
 | Nuns With Guns | 115642 | [115642-nuns-with-guns.json](./115642-nuns-with-guns.json) |
