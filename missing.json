@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T07:18:51.785Z",
-  "total_missing": 61059,
+  "generated_at": "2026-09-12T07:21:31.916Z",
+  "total_missing": 61058,
   "games": [
     {
       "igdb_id": 306086,
@@ -2741,11 +2741,6 @@
       "igdb_id": 91911,
       "game_name": "Aah Little Atlantis",
       "file": "missing/A/91911-aah-little-atlantis.json"
-    },
-    {
-      "igdb_id": 309102,
-      "game_name": "Aard and Wyzz: The rise of minions",
-      "file": "missing/A/309102-aard-and-wyzz-the-rise-of-minions.json"
     },
     {
       "igdb_id": 228684,
