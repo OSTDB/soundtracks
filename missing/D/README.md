@@ -677,6 +677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
+| Dead or Alive 2 Millennium | 39623 | [39623-dead-or-alive-2-millennium.json](./39623-dead-or-alive-2-millennium.json) |
 | Dead or Alive 2 Ultimate | 47302 | [47302-dead-or-alive-2-ultimate.json](./47302-dead-or-alive-2-ultimate.json) |
 | Dead or Alive 2: Hardcore | 77986 | [77986-dead-or-alive-2-hardcore.json](./77986-dead-or-alive-2-hardcore.json) |
 | Dead or Alive 3++ | 182485 | [182485-dead-or-alive-3.json](./182485-dead-or-alive-3.json) |
@@ -2926,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
 | Dragoon Armor for Adult | 67259 | [67259-dragoon-armor-for-adult.json](./67259-dragoon-armor-for-adult.json) |
+| Dragoon Might | 39555 | [39555-dragoon-might.json](./39555-dragoon-might.json) |
 | Dragoon X Omega | 48685 | [48685-dragoon-x-omega.json](./48685-dragoon-x-omega.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Dragu's Puzzle Adventure | 155648 | [155648-dragus-puzzle-adventure.json](./155648-dragus-puzzle-adventure.json) |
