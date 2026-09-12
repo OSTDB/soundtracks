@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T14:19:03.444Z",
-  "total_missing": 62187,
+  "generated_at": "2026-09-12T14:21:34.186Z",
+  "total_missing": 62186,
   "games": [
     {
       "igdb_id": 306086,
@@ -2961,11 +2961,6 @@
       "igdb_id": 383355,
       "game_name": "Abracadabra",
       "file": "missing/A/383355-abracadabra.json"
-    },
-    {
-      "igdb_id": 301593,
-      "game_name": "AbraTabia Kingdom",
-      "file": "missing/A/301593-abratabia-kingdom.json"
     },
     {
       "igdb_id": 25751,
