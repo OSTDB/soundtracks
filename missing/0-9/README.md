@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 2 Days to Vegas | 27751 | [27751-2-days-to-vegas.json](./27751-2-days-to-vegas.json) |
 | 2 Fast 4 Gnomz | 8618 | [8618-2-fast-4-gnomz.json](./8618-2-fast-4-gnomz.json) |
+| 2 Fast 4 You | 25700 | [25700-2-fast-4-you.json](./25700-2-fast-4-you.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
 | 2 Games In 1 Double Pack I Hot Wheels: World Race + Hot Wheels: Velocity X | 82101 | [82101-2-games-in-1-double-pack-i-hot-wheels-world-race-hot-wheels-velocity-x.json](./82101-2-games-in-1-double-pack-i-hot-wheels-world-race-hot-wheels-velocity-x.json) |
