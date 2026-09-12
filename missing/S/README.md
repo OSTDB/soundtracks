@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
 | SkyFactory 3 | 360610 | [360610-skyfactory-3.json](./360610-skyfactory-3.json) |
 | SkyFactory 4 | 204695 | [204695-skyfactory-4.json](./204695-skyfactory-4.json) |
+| Skyfall | 50514 | [50514-skyfall.json](./50514-skyfall.json) |
 | Skyfall Chasers | 219811 | [219811-skyfall-chasers.json](./219811-skyfall-chasers.json) |
 | Skyfarm | 316602 | [316602-skyfarm.json](./316602-skyfarm.json) |
 | Skyfear | 116976 | [116976-skyfear.json](./116976-skyfear.json) |
@@ -2762,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingo 15th Anniversary Edition | 208976 | [208976-slingo-15th-anniversary-edition.json](./208976-slingo-15th-anniversary-edition.json) |
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
 | Slingshot | 60577 | [60577-slingshot.json](./60577-slingshot.json) |
+| Slingshot Hero VR | 50546 | [50546-slingshot-hero-vr.json](./50546-slingshot-hero-vr.json) |
 | Slingshot Rush | 253008 | [253008-slingshot-rush.json](./253008-slingshot-rush.json) |
 | Slingshot Stunt Driver & Sports | 188102 | [188102-slingshot-stunt-driver-and-sports.json](./188102-slingshot-stunt-driver-and-sports.json) |
 | Slingshot: The Bump Challenge | 108470 | [108470-slingshot-the-bump-challenge.json](./108470-slingshot-the-bump-challenge.json) |
@@ -4238,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
 | Special Force | 62682 | [62682-special-force.json](./62682-special-force.json) |
 | Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
+| Special Force VR | 50535 | [50535-special-force-vr.json](./50535-special-force-vr.json) |
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
@@ -6224,6 +6227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chains | 112941 | [112941-super-chains.json](./112941-super-chains.json) |
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
 | Super Chick Sisters | 140535 | [140535-super-chick-sisters.json](./140535-super-chick-sisters.json) |
+| Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
 | Super Choppy Orc | 219581 | [219581-super-choppy-orc.json](./219581-super-choppy-orc.json) |
 | Super Chroma Bots: Season One | 283682 | [283682-super-chroma-bots-season-one.json](./283682-super-chroma-bots-season-one.json) |
 | Super Chuck Norris Bros | 294428 | [294428-super-chuck-norris-bros.json](./294428-super-chuck-norris-bros.json) |
@@ -6675,6 +6679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
+| Super Pika Land | 50554 | [50554-super-pika-land.json](./50554-super-pika-land.json) |
 | Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
@@ -7296,6 +7301,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvan Idyll | 97284 | [97284-sylvan-idyll.json](./97284-sylvan-idyll.json) |
 | Sylvan Tale | 19691 | [19691-sylvan-tale.json](./19691-sylvan-tale.json) |
 | Sylvana's Chronicles | 259016 | [259016-sylvanas-chronicles.json](./259016-sylvanas-chronicles.json) |
+| Sylvania Melody | 50555 | [50555-sylvania-melody.json](./50555-sylvania-melody.json) |
+| Sylvanian Families: Otogi no Kuni no Pendant | 50556 | [50556-sylvanian-families-otogi-no-kuni-no-pendant.json](./50556-sylvanian-families-otogi-no-kuni-no-pendant.json) |
 | Sylvarcon 2049: A Cybersecurity Aventure | 213966 | [213966-sylvarcon-2049-a-cybersecurity-aventure.json](./213966-sylvarcon-2049-a-cybersecurity-aventure.json) |
 | Sylviana: Ai Ippai no Boukensha | 299761 | [299761-sylviana-ai-ippai-no-boukensha.json](./299761-sylviana-ai-ippai-no-boukensha.json) |
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
