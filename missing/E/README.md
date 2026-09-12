@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth and Sky 2: Another Earth, Another Sky | 9504 | [9504-earth-and-sky-2-another-earth-another-sky.json](./9504-earth-and-sky-2-another-earth-another-sky.json) |
 | Earth and Sky 3: Luminous Horizon | 9505 | [9505-earth-and-sky-3-luminous-horizon.json](./9505-earth-and-sky-3-luminous-horizon.json) |
 | Earth Brigades | 204085 | [204085-earth-brigades.json](./204085-earth-brigades.json) |
+| Earth Command | 45933 | [45933-earth-command.json](./45933-earth-command.json) |
 | Earth Defender | 112318 | [112318-earth-defender.json](./112318-earth-defender.json) |
 | Earth Defender One | 144273 | [144273-earth-defender-one.json](./144273-earth-defender-one.json) |
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
@@ -273,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | EF-12: Fighting Game Maker | 57074 | [57074-ef-12-fighting-game-maker.json](./57074-ef-12-fighting-game-maker.json) |
+| Effacer: Hangman from the 25th Century | 45932 | [45932-effacer-hangman-from-the-25th-century.json](./45932-effacer-hangman-from-the-25th-century.json) |
 | Effective Immediately | 310180 | [310180-effective-immediately.json](./310180-effective-immediately.json) |
 | Effie: Galand's Edition | 155147 | [155147-effie-galands-edition.json](./155147-effie-galands-edition.json) |
 | Effigy | 218715 | [218715-effigy.json](./218715-effigy.json) |
@@ -999,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Boykisser | 278420 | [278420-escape-from-boykisser.json](./278420-escape-from-boykisser.json) |
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
 | Escape from Castle Chezcrea | 256851 | [256851-escape-from-castle-chezcrea.json](./256851-escape-from-castle-chezcrea.json) |
+| Escape from Cyber City | 45931 | [45931-escape-from-cyber-city.json](./45931-escape-from-cyber-city.json) |
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
 | Escape From Exit 7 of the Theater | 315281 | [315281-escape-from-exit-7-of-the-theater.json](./315281-escape-from-exit-7-of-the-theater.json) |
