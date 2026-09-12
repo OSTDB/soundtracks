@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
 | Mechastrike: Red War | 384505 | [384505-mechastrike-red-war.json](./384505-mechastrike-red-war.json) |
 | Mechatronika | 166737 | [166737-mechatronika.json](./166737-mechatronika.json) |
+| Mechatroniks Attack | 30850 | [30850-mechatroniks-attack.json](./30850-mechatroniks-attack.json) |
 | MechaWing! | 244782 | [244782-mechawing.json](./244782-mechawing.json) |
 | MechCom | 101549 | [101549-mechcom.json](./101549-mechcom.json) |
 | MechCom 2 | 105984 | [105984-mechcom-2.json](./105984-mechcom-2.json) |
@@ -1768,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant | 7714 | [7714-merchant.json](./7714-merchant.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
+| Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
 | Merciless Podium | 86897 | [86897-merciless-podium.json](./86897-merciless-podium.json) |
 | Mercs | 105329 | [105329-mercs.json](./105329-mercs.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
@@ -3984,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
 | Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
+| Musical Range | 30819 | [30819-musical-range.json](./30819-musical-range.json) |
 | Musical Vibes | 257971 | [257971-musical-vibes.json](./257971-musical-vibes.json) |
 | Musical Zoo | 79934 | [79934-musical-zoo.json](./79934-musical-zoo.json) |
 | Musicus! | 125432 | [125432-musicus.json](./125432-musicus.json) |
