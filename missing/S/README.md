@@ -831,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seafox | 22416 | [22416-seafox.json](./22416-seafox.json) |
 | Seal of Shadows | 410237 | [410237-seal-of-shadows.json](./410237-seal-of-shadows.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
+| Sealark | 64393 | [64393-sealark.json](./64393-sealark.json) |
 | Sealbreakers | 387360 | [387360-sealbreakers.json](./387360-sealbreakers.json) |
 | Sealed | 306661 | [306661-sealed.json](./306661-sealed.json) |
 | Sealed Bite: Extended | 291228 | [291228-sealed-bite-extended.json](./291228-sealed-bite-extended.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Fables | 152846 | [152846-sketchy-fables.json](./152846-sketchy-fables.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
+| Ski Race | 64365 | [64365-ski-race.json](./64365-ski-race.json) |
 | Ski Rodeo | 52004 | [52004-ski-rodeo.json](./52004-ski-rodeo.json) |
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
 | Skibidi Mahr Simulator 64 | 339822 | [339822-skibidi-mahr-simulator-64.json](./339822-skibidi-mahr-simulator-64.json) |
@@ -2602,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
+| Slendr | 64361 | [64361-slendr.json](./64361-slendr.json) |
 | Slendrina | 233774 | [233774-slendrina.json](./233774-slendrina.json) |
 | Slendrina Must Die: The Asylum | 321384 | [321384-slendrina-must-die-the-asylum.json](./321384-slendrina-must-die-the-asylum.json) |
 | Slendrina Must Die: The House | 321382 | [321382-slendrina-must-die-the-house.json](./321382-slendrina-must-die-the-house.json) |
@@ -6504,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Paper Mario: Hard Mode - Rubies & Magic | 344918 | [344918-super-paper-mario-hard-mode-rubies-and-magic.json](./344918-super-paper-mario-hard-mode-rubies-and-magic.json) |
 | Super Party Games Online | 306098 | [306098-super-party-games-online.json](./306098-super-party-games-online.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
+| Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
