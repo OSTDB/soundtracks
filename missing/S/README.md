@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Sweetheart | 135893 | [135893-sakura-sweetheart.json](./135893-sakura-sweetheart.json) |
 | Sakura Swim Club | 34461 | [34461-sakura-swim-club.json](./34461-sakura-swim-club.json) |
 | Sakura Taisen | 71399 | [71399-sakura-taisen.json](./71399-sakura-taisen.json) |
+| Sakura Taisen Monogatari: Mysterious Paris | 73236 | [73236-sakura-taisen-monogatari-mysterious-paris.json](./73236-sakura-taisen-monogatari-mysterious-paris.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
 | Sakura-iro Tetra Prism | 325451 | [325451-sakura-iro-tetra-prism.json](./325451-sakura-iro-tetra-prism.json) |
@@ -1507,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter Everything | 96692 | [96692-shatter-everything.json](./96692-shatter-everything.json) |
 | Shatter Keep | 146826 | [146826-shatter-keep.json](./146826-shatter-keep.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
+| Shattered Galaxy | 73258 | [73258-shattered-galaxy.json](./73258-shattered-galaxy.json) |
 | Shattered Hourglass | 133422 | [133422-shattered-hourglass.json](./133422-shattered-hourglass.json) |
 | Shattered Palace | 312902 | [312902-shattered-palace.json](./312902-shattered-palace.json) |
 | Shattered Planet | 17510 | [17510-shattered-planet.json](./17510-shattered-planet.json) |
@@ -1978,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
+| Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
 | Sierra Ridge Technologies | 349315 | [349315-sierra-ridge-technologies.json](./349315-sierra-ridge-technologies.json) |
 | Sierra's 3-D Helicopter Simulator | 72087 | [72087-sierras-3-d-helicopter-simulator.json](./72087-sierras-3-d-helicopter-simulator.json) |
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
@@ -2678,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slobbish Dragon Princess 3 | 240480 | [240480-slobbish-dragon-princess-3.json](./240480-slobbish-dragon-princess-3.json) |
 | Slobbish Dragon Princess Love + Plus | 153460 | [153460-slobbish-dragon-princess-love-plus.json](./153460-slobbish-dragon-princess-love-plus.json) |
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
+| Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
 | Slot & Learn Hangul | 409555 | [409555-slot-and-learn-hangul.json](./409555-slot-and-learn-hangul.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
@@ -2731,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
+| Smart Games Puzzle Challenge 2 | 73256 | [73256-smart-games-puzzle-challenge-2.json](./73256-smart-games-puzzle-challenge-2.json) |
 | Smart Girl's Playhouse Mini | 21011 | [21011-smart-girls-playhouse-mini.json](./21011-smart-girls-playhouse-mini.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
 | Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
@@ -3592,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophia and the Mansion of Doubt | 82897 | [82897-sophia-and-the-mansion-of-doubt.json](./82897-sophia-and-the-mansion-of-doubt.json) |
 | Sophias Pizza Restaurant | 293636 | [293636-sophias-pizza-restaurant.json](./293636-sophias-pizza-restaurant.json) |
 | Sophie's Safecracking Simulator | 152924 | [152924-sophies-safecracking-simulator.json](./152924-sophies-safecracking-simulator.json) |
+| Sophie's World | 73234 | [73234-sophies-world.json](./73234-sophies-world.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Soraja Towers | 300721 | [300721-soraja-towers.json](./300721-soraja-towers.json) |
@@ -4781,6 +4787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
 | Star Wars Chess | 11289 | [11289-star-wars-chess.json](./11289-star-wars-chess.json) |
 | Star Wars Episode I: The Phantom Menace | 158 | [158-star-wars-episode-i-the-phantom-menace.json](./158-star-wars-episode-i-the-phantom-menace.json) |
+| Star Wars Math: Jabba's Game Galaxy | 73254 | [73254-star-wars-math-jabbas-game-galaxy.json](./73254-star-wars-math-jabbas-game-galaxy.json) |
 | Star Wars Mod: Galactic Warfare | 299135 | [299135-star-wars-mod-galactic-warfare.json](./299135-star-wars-mod-galactic-warfare.json) |
 | Star Wars Outlaws: Cartel Ronin Bundle | 325857 | [325857-star-wars-outlaws-cartel-ronin-bundle.json](./325857-star-wars-outlaws-cartel-ronin-bundle.json) |
 | Star Wars Outlaws: Forest Commando Pack | 325856 | [325856-star-wars-outlaws-forest-commando-pack.json](./325856-star-wars-outlaws-forest-commando-pack.json) |
@@ -5600,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
 | Stunt Paradise 2 | 389435 | [389435-stunt-paradise-2.json](./389435-stunt-paradise-2.json) |
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
+| Stuntcar Extreme | 73246 | [73246-stuntcar-extreme.json](./73246-stuntcar-extreme.json) |
 | StuntCopter! | 108515 | [108515-stuntcopter.json](./108515-stuntcopter.json) |
 | Stuntman | 197884 | [197884-stuntman.json](./197884-stuntman.json) |
 | Stunts Contest: Beach Edition | 215710 | [215710-stunts-contest-beach-edition.json](./215710-stunts-contest-beach-edition.json) |
@@ -6403,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ninja Noodle Chef | 185598 | [185598-super-ninja-noodle-chef.json](./185598-super-ninja-noodle-chef.json) |
 | Super Ninja Square Attack | 87695 | [87695-super-ninja-square-attack.json](./87695-super-ninja-square-attack.json) |
 | Super Ninji Land Reawakened | 373554 | [373554-super-ninji-land-reawakened.json](./373554-super-ninji-land-reawakened.json) |
+| Super Nisqually | 73273 | [73273-super-nisqually.json](./73273-super-nisqually.json) |
 | Super Nitrous Zoomer | 114982 | [114982-super-nitrous-zoomer.json](./114982-super-nitrous-zoomer.json) |
 | Super Nova | 414296 | [414296-super-nova.json](./414296-super-nova.json) |
 | Super Nova Party | 219576 | [219576-super-nova-party.json](./219576-super-nova-party.json) |
@@ -6657,6 +6666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
+| Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
 | Supreme Ruler 2020 Gold | 25062 | [25062-supreme-ruler-2020-gold.json](./25062-supreme-ruler-2020-gold.json) |
 | Supreme Ruler 2030 | 219574 | [219574-supreme-ruler-2030.json](./219574-supreme-ruler-2030.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
