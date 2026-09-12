@@ -138,7 +138,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Gakuin R | 46613 | [46613-madou-gakuin-r.json](./46613-madou-gakuin-r.json) |
 | Madou Monogatari | 252164 | [252164-madou-monogatari.json](./252164-madou-monogatari.json) |
 | Madou Monogatari | 57675 | [57675-madou-monogatari.json](./57675-madou-monogatari.json) |
+| Madou Monogatari A: Doki-doki Vacation | 45269 | [45269-madou-monogatari-a-doki-doki-vacation.json](./45269-madou-monogatari-a-doki-doki-vacation.json) |
+| Madou Monogatari I: 3tsu no Madoukyuu | 45268 | [45268-madou-monogatari-i-3tsu-no-madoukyuu.json](./45268-madou-monogatari-i-3tsu-no-madoukyuu.json) |
 | Madou Monogatari I: Honoo no Sotsuenji | 141807 | [141807-madou-monogatari-i-honoo-no-sotsuenji.json](./141807-madou-monogatari-i-honoo-no-sotsuenji.json) |
+| Madou Monogatari II: Arle 16-Sai | 45267 | [45267-madou-monogatari-ii-arle-16-sai.json](./45267-madou-monogatari-ii-arle-16-sai.json) |
+| Madou Monogatari III: Kyuukyoku Joou-sama | 45266 | [45266-madou-monogatari-iii-kyuukyoku-joou-sama.json](./45266-madou-monogatari-iii-kyuukyoku-joou-sama.json) |
 | Madou Monogatari: Hanamaru Daiyouchienji | 110397 | [110397-madou-monogatari-hanamaru-daiyouchienji.json](./110397-madou-monogatari-hanamaru-daiyouchienji.json) |
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
@@ -232,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic John | 215143 | [215143-magic-john.json](./215143-magic-john.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Knight Rayearth | 38375 | [38375-magic-knight-rayearth.json](./38375-magic-knight-rayearth.json) |
+| Magic Knight Rayearth 2: Making of Magic Knight | 45265 | [45265-magic-knight-rayearth-2-making-of-magic-knight.json](./45265-magic-knight-rayearth-2-making-of-magic-knight.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
 | Magic Light | 94727 | [94727-magic-light.json](./94727-magic-light.json) |
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
@@ -1533,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMek | 108982 | [108982-megamek.json](./108982-megamek.json) |
 | Megami Ibunroku Persona | 240506 | [240506-megami-ibunroku-persona.json](./240506-megami-ibunroku-persona.json) |
 | Megami Meguri | 222529 | [222529-megami-meguri.json](./222529-megami-meguri.json) |
+| Megami Tensei Gaiden: Last Bible Special | 45263 | [45263-megami-tensei-gaiden-last-bible-special.json](./45263-megami-tensei-gaiden-last-bible-special.json) |
 | Megami Tensei Gaiden: Shinyaku Last Bible | 202957 | [202957-megami-tensei-gaiden-shinyaku-last-bible.json](./202957-megami-tensei-gaiden-shinyaku-last-bible.json) |
 | MegaMod | 287075 | [287075-megamod.json](./287075-megamod.json) |
 | MegaMorph | 97354 | [97354-megamorph.json](./97354-megamorph.json) |
@@ -2912,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mokoko | 127005 | [127005-mokoko.json](./127005-mokoko.json) |
 | Mokoko X Deluxe | 246636 | [246636-mokoko-x-deluxe.json](./246636-mokoko-x-deluxe.json) |
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
+| Moldorian: Hikari to Yami no Sister | 45261 | [45261-moldorian-hikari-to-yami-no-sister.json](./45261-moldorian-hikari-to-yami-no-sister.json) |
 | Moldy Tower | 271479 | [271479-moldy-tower.json](./271479-moldy-tower.json) |
 | Möle | 93549 | [93549-mole.json](./93549-mole.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
