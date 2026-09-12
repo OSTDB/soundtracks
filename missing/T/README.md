@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Maze | 293076 | [293076-tank-maze.json](./293076-tank-maze.json) |
 | Tank Nova | 119790 | [119790-tank-nova.json](./119790-tank-nova.json) |
+| Tank Riders | 61065 | [61065-tank-riders.json](./61065-tank-riders.json) |
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
 | Tank Stars | 104105 | [104105-tank-stars.json](./104105-tank-stars.json) |
 | Tank Storage | 258448 | [258448-tank-storage.json](./258448-tank-storage.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoroughbred Breeder | 37789 | [37789-thoroughbred-breeder.json](./37789-thoroughbred-breeder.json) |
 | Thoroughbred Breeder II | 37788 | [37788-thoroughbred-breeder-ii.json](./37788-thoroughbred-breeder-ii.json) |
 | Thoroughbred Breeder III | 37787 | [37787-thoroughbred-breeder-iii.json](./37787-thoroughbred-breeder-iii.json) |
+| Thoroughbred Breeder: Sekai Seiha-hen | 61023 | [61023-thoroughbred-breeder-sekai-seiha-hen.json](./61023-thoroughbred-breeder-sekai-seiha-hen.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
 | Those Nights at Ring's 2 | 336360 | [336360-those-nights-at-rings-2.json](./336360-those-nights-at-rings-2.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
@@ -6008,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Troopers: Earth Reclaim | 273933 | [273933-trash-troopers-earth-reclaim.json](./273933-trash-troopers-earth-reclaim.json) |
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
+| Trashmania Trilogy | 61060 | [61060-trashmania-trilogy.json](./61060-trashmania-trilogy.json) |
 | Trashmorfers | 241986 | [241986-trashmorfers.json](./241986-trashmorfers.json) |
 | Traulian: O Ultimo General | 293900 | [293900-traulian-o-ultimo-general.json](./293900-traulian-o-ultimo-general.json) |
 | Trauma | 180787 | [180787-trauma.json](./180787-trauma.json) |
