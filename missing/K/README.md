@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Tonari de Koishiteru! | 194548 | [194548-kimi-no-tonari-de-koishiteru.json](./194548-kimi-no-tonari-de-koishiteru.json) |
 | Kimi no Tonari de Koishiteru!: The Respective Happiness | 194549 | [194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json](./194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json) |
+| Kimi no Yusha | 59401 | [59401-kimi-no-yusha.json](./59401-kimi-no-yusha.json) |
 | Kimi sae Ireba: Episode Sutelz | 311494 | [311494-kimi-sae-ireba-episode-sutelz.json](./311494-kimi-sae-ireba-episode-sutelz.json) |
 | Kimi to Boku to no Kishi no Hibi: Rakuen no Chevalier | 194583 | [194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json](./194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
@@ -670,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
+| Kingdom: Ikkitousen no Tsurugi | 59367 | [59367-kingdom-ikkitousen-no-tsurugi.json](./59367-kingdom-ikkitousen-no-tsurugi.json) |
 | Kingdom: New Lands | 24881 | [24881-kingdom-new-lands.json](./24881-kingdom-new-lands.json) |
 | Kingdom: The Blood | 174852 | [174852-kingdom-the-blood.json](./174852-kingdom-the-blood.json) |
 | Kingdom: The Blood Pledge | 226759 | [226759-kingdom-the-blood-pledge.json](./226759-kingdom-the-blood-pledge.json) |
