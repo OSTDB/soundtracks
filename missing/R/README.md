@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Clash Club | 174816 | [174816-racing-clash-club.json](./174816-racing-clash-club.json) |
 | Racing Classics Pro: Drag Race & Real Speed | 187476 | [187476-racing-classics-pro-drag-race-and-real-speed.json](./187476-racing-classics-pro-drag-race-and-real-speed.json) |
 | Racing Empires | 245016 | [245016-racing-empires.json](./245016-racing-empires.json) |
+| Racing Fever | 49352 | [49352-racing-fever.json](./49352-racing-fever.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
