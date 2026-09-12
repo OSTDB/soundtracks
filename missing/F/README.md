@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fine Artist Color Pixel Number | 267412 | [267412-fine-artist-color-pixel-number.json](./267412-fine-artist-color-pixel-number.json) |
 | Fine Work Act I | 285980 | [285980-fine-work-act-i.json](./285980-fine-work-act-i.json) |
 | Finger Champion | 245326 | [245326-finger-champion.json](./245326-finger-champion.json) |
+| Finger Connection | 66619 | [66619-finger-connection.json](./66619-finger-connection.json) |
 | Finger Cuts | 315830 | [315830-finger-cuts.json](./315830-finger-cuts.json) |
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
 | Finger Punch | 378802 | [378802-finger-punch.json](./378802-finger-punch.json) |
@@ -1511,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flips: Enid Blyton - Faraway Tree Stories | 66665 | [66665-flips-enid-blyton-faraway-tree-stories.json](./66665-flips-enid-blyton-faraway-tree-stories.json) |
 | Flips: Enid Blyton - The Adventure Series | 66666 | [66666-flips-enid-blyton-the-adventure-series.json](./66666-flips-enid-blyton-the-adventure-series.json) |
 | Flips: Mr. Gum | 66664 | [66664-flips-mr-gum.json](./66664-flips-mr-gum.json) |
+| Flips: The Enchanted Wood | 66604 | [66604-flips-the-enchanted-wood.json](./66604-flips-the-enchanted-wood.json) |
 | Flips: The Folk of the Faraway Tree | 79866 | [79866-flips-the-folk-of-the-faraway-tree.json](./79866-flips-the-folk-of-the-faraway-tree.json) |
 | Flips: Too Ghoul for School | 66663 | [66663-flips-too-ghoul-for-school.json](./66663-flips-too-ghoul-for-school.json) |
 | Flips! | 237383 | [237383-flips.json](./237383-flips.json) |
