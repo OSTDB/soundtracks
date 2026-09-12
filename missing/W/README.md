@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
 | Wordslop | 402911 | [402911-wordslop.json](./402911-wordslop.json) |
 | Wordspionage | 175391 | [175391-wordspionage.json](./175391-wordspionage.json) |
+| Wordsplash! | 28814 | [28814-wordsplash.json](./28814-wordsplash.json) |
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
 | Work Beasts | 304023 | [304023-work-beasts.json](./304023-work-beasts.json) |
 | Work from Home | 218717 | [218717-work-from-home.json](./218717-work-from-home.json) |
@@ -1817,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
+| Wrecked: Get Your Ship Together | 28805 | [28805-wrecked-get-your-ship-together.json](./28805-wrecked-get-your-ship-together.json) |
 | Wreckers | 94670 | [94670-wreckers.json](./94670-wreckers.json) |
 | Wreckfest: American All-Stars Car Pack | 223692 | [223692-wreckfest-american-all-stars-car-pack.json](./223692-wreckfest-american-all-stars-car-pack.json) |
 | Wreckfest: Backwoods Bangers Car Pack | 223693 | [223693-wreckfest-backwoods-bangers-car-pack.json](./223693-wreckfest-backwoods-bangers-car-pack.json) |
