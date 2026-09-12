@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
 | Robot Vacuum Simulator 2013 | 61629 | [61629-robot-vacuum-simulator-2013.json](./61629-robot-vacuum-simulator-2013.json) |
 | Robot Vacuum Simulator X | 130370 | [130370-robot-vacuum-simulator-x.json](./130370-robot-vacuum-simulator-x.json) |
+| Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
@@ -1825,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
 | Rocking on Heaven's Door | 176479 | [176479-rocking-on-heavens-door.json](./176479-rocking-on-heavens-door.json) |
+| RockinRoll | 78649 | [78649-rockinroll.json](./78649-rockinroll.json) |
 | Rockman 2: Basic Master | 269878 | [269878-rockman-2-basic-master.json](./269878-rockman-2-basic-master.json) |
 | Rockman 2: Gray Zone | 269879 | [269879-rockman-2-gray-zone.json](./269879-rockman-2-gray-zone.json) |
 | Rockman 3: Claw | 269880 | [269880-rockman-3-claw.json](./269880-rockman-3-claw.json) |
