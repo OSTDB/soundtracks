@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguo Qunyingzhuan VII | 81260 | [81260-sanguo-qunyingzhuan-vii.json](./81260-sanguo-qunyingzhuan-vii.json) |
 | Sānguó Yóuxiá Zhì | 83569 | [83569-sanguo-youxia-zhi.json](./83569-sanguo-youxia-zhi.json) |
 | Sānguó: 223 | 257678 | [257678-sanguo-223.json](./257678-sanguo-223.json) |
+| Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
 | Sanity Protocol | 355029 | [355029-sanity-protocol.json](./355029-sanity-protocol.json) |
@@ -4139,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spec | 304575 | [304575-spec.json](./304575-spec.json) |
 | Special Edition 4 Pack: Volume One | 98951 | [98951-special-edition-4-pack-volume-one.json](./98951-special-edition-4-pack-volume-one.json) |
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
+| Special Force | 62682 | [62682-special-force.json](./62682-special-force.json) |
 | Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
@@ -4878,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Hunters - Season 4: Survival Instinct | 347673 | [347673-star-wars-hunters-season-4-survival-instinct.json](./347673-star-wars-hunters-season-4-survival-instinct.json) |
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
+| Star Wars: Jedi Adventure | 62669 | [62669-star-wars-jedi-adventure.json](./62669-star-wars-jedi-adventure.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
 | Star Wars: Project Stardust | 137006 | [137006-star-wars-project-stardust.json](./137006-star-wars-project-stardust.json) |
@@ -6550,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen OG: Dark Prison | 144283 | [144283-super-robot-taisen-og-dark-prison.json](./144283-super-robot-taisen-og-dark-prison.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Taisen Z: Special Disc | 182490 | [182490-super-robot-taisen-z-special-disc.json](./182490-super-robot-taisen-z-special-disc.json) |
+| Super Robot Taisen: Scramble Commander | 62710 | [62710-super-robot-taisen-scramble-commander.json](./62710-super-robot-taisen-scramble-commander.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
 | Super Robot Wars X | 87796 | [87796-super-robot-wars-x.json](./87796-super-robot-wars-x.json) |
