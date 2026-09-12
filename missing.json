@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T20:18:52.518Z",
-  "total_missing": 63213,
+  "generated_at": "2026-09-12T20:21:39.233Z",
+  "total_missing": 63212,
   "games": [
     {
       "igdb_id": 306086,
@@ -3141,11 +3141,6 @@
       "igdb_id": 385571,
       "game_name": "Abyssal",
       "file": "missing/A/385571-abyssal.json"
-    },
-    {
-      "igdb_id": 232418,
-      "game_name": "AbyssalCraft",
-      "file": "missing/A/232418-abyssalcraft.json"
     },
     {
       "igdb_id": 309322,
