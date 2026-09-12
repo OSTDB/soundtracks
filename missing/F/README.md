@@ -46,6 +46,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 25: 2026 Season Pack | 408774 | [408774-f1-25-2026-season-pack.json](./408774-f1-25-2026-season-pack.json) |
 | F1 Challenge | 95383 | [95383-f1-challenge.json](./95383-f1-challenge.json) |
 | F1 Championship Season 2000 | 690 | [690-f1-championship-season-2000.json](./690-f1-championship-season-2000.json) |
+| F1 Circus | 37715 | [37715-f1-circus.json](./37715-f1-circus.json) |
+| F1 Circus '92 | 37714 | [37714-f1-circus-92.json](./37714-f1-circus-92.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Manager 2023 | 247383 | [247383-f1-manager-2023.json](./247383-f1-manager-2023.json) |
@@ -931,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fina | 127981 | [127981-fina.json](./127981-fina.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
+| Final Blaster | 37713 | [37713-final-blaster.json](./37713-final-blaster.json) |
 | Final Blockade | 203567 | [203567-final-blockade.json](./203567-final-blockade.json) |
 | Final Bravely | 29899 | [29899-final-bravely.json](./29899-final-bravely.json) |
 | Final Cut: Death on the Silver Screen | 98383 | [98383-final-cut-death-on-the-silver-screen.json](./98383-final-cut-death-on-the-silver-screen.json) |
@@ -1002,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Sanctuary | 326993 | [326993-final-sanctuary.json](./326993-final-sanctuary.json) |
 | Final Shot | 177554 | [177554-final-shot.json](./177554-final-shot.json) |
 | Final Slam 2 | 8868 | [8868-final-slam-2.json](./8868-final-slam-2.json) |
+| Final Soldier | 37712 | [37712-final-soldier.json](./37712-final-soldier.json) |
 | Final Soldier: Special Version | 42026 | [42026-final-soldier-special-version.json](./42026-final-soldier-special-version.json) |
 | Final Soul | 57634 | [57634-final-soul.json](./57634-final-soul.json) |
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
