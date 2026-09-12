@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamakawa Shuppansha Kanshuu: Shousetsu Nihonshi DS | 124153 | [124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json](./124153-yamakawa-shuppansha-kanshuu-shousetsu-nihonshi-ds.json) |
 | Yamakawa Shuppansha Kanshuu: Shousetsu Sekaishi DS | 124152 | [124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json](./124152-yamakawa-shuppansha-kanshuu-shousetsu-sekaishi-ds.json) |
 | Yamame Climb | 335688 | [335688-yamame-climb.json](./335688-yamame-climb.json) |
+| Yamamura Misa Suspense: Kyoto Ryuu no Tera Satsujin Jiken | 65474 | [65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json](./65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json) |
 | Yami Fuku Natsu: Teito Monogatari Futatabi | 147956 | [147956-yami-fuku-natsu-teito-monogatari-futatabi.json](./147956-yami-fuku-natsu-teito-monogatari-futatabi.json) |
 | Yami no Koe | 275312 | [275312-yami-no-koe.json](./275312-yami-no-koe.json) |
 | Yami no Koe II | 308248 | [308248-yami-no-koe-ii.json](./308248-yami-no-koe-ii.json) |
@@ -128,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Watch 4++ | 127255 | [127255-yo-kai-watch-4.json](./127255-yo-kai-watch-4.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
+| Yoake no Mariko | 65455 | [65455-yoake-no-mariko.json](./65455-yoake-no-mariko.json) |
 | Yodobongingi | 234635 | [234635-yodobongingi.json](./234635-yodobongingi.json) |
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yoga Therapy | 235220 | [235220-yoga-therapy.json](./235220-yoga-therapy.json) |
