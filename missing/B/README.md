@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
 | Billiards Simulator | 14304 | [14304-billiards-simulator.json](./14304-billiards-simulator.json) |
+| Billiards Xciting | 78000 | [78000-billiards-xciting.json](./78000-billiards-xciting.json) |
 | Billion Road | 109474 | [109474-billion-road.json](./109474-billion-road.json) |
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
