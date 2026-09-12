@@ -1333,6 +1333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner | 166708 | [166708-lode-runner.json](./166708-lode-runner.json) |
 | Lode Runner | 197939 | [197939-lode-runner.json](./197939-lode-runner.json) |
 | Lode Runner | 282565 | [282565-lode-runner.json](./282565-lode-runner.json) |
+| Lode Runner 2 | 73760 | [73760-lode-runner-2.json](./73760-lode-runner-2.json) |
 | Lode Runner Clone for Commodore PET | 302948 | [302948-lode-runner-clone-for-commodore-pet.json](./302948-lode-runner-clone-for-commodore-pet.json) |
 | Lode Runner Extra | 109027 | [109027-lode-runner-extra.json](./109027-lode-runner-extra.json) |
 | Lode Runner: Domdom Dan no Yabou! | 109026 | [109026-lode-runner-domdom-dan-no-yabou.json](./109026-lode-runner-domdom-dan-no-yabou.json) |
@@ -1377,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London Crazy Taxi | 235217 | [235217-london-crazy-taxi.json](./235217-london-crazy-taxi.json) |
 | London Rush | 234602 | [234602-london-rush.json](./234602-london-rush.json) |
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
+| Lone Eagle: Colombian Encounter | 73762 | [73762-lone-eagle-colombian-encounter.json](./73762-lone-eagle-colombian-encounter.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
 | Lone Wolf Saga | 273956 | [273956-lone-wolf-saga.json](./273956-lone-wolf-saga.json) |
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
