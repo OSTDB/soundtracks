@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
+| Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
 | Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
 | FalseGod's Gambit | 373007 | [373007-falsegods-gambit.json](./373007-falsegods-gambit.json) |
@@ -1422,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Worlds | 75055 | [75055-flat-worlds.json](./75055-flat-worlds.json) |
 | Flat Zombies: Cleanup & Defense | 174890 | [174890-flat-zombies-cleanup-and-defense.json](./174890-flat-zombies-cleanup-and-defense.json) |
+| Flatdog | 56429 | [56429-flatdog.json](./56429-flatdog.json) |
 | Flatland Vol.2 | 140612 | [140612-flatland-vol-2.json](./140612-flatland-vol-2.json) |
 | FlatOut | 2667 | [2667-flatout.json](./2667-flatout.json) |
 | FlatOut 4: Total Insanity Workshop Tools | 90606 | [90606-flatout-4-total-insanity-workshop-tools.json](./90606-flatout-4-total-insanity-workshop-tools.json) |
