@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probotector | 186202 | [186202-probotector.json](./186202-probotector.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
 | Procedural Soccer | 173228 | [173228-procedural-soccer.json](./173228-procedural-soccer.json) |
+| Process | 60528 | [60528-process.json](./60528-process.json) |
 | Procrastinaut | 270951 | [270951-procrastinaut.json](./270951-procrastinaut.json) |
 | ProcrastiTyper | 202805 | [202805-procrastityper.json](./202805-procrastityper.json) |
 | Procyon | 218130 | [218130-procyon.json](./218130-procyon.json) |
