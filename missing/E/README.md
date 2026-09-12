@@ -575,6 +575,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
 | Emerald Bathhouse | 268776 | [268776-emerald-bathhouse.json](./268776-emerald-bathhouse.json) |
 | Emerald Isle | 318995 | [318995-emerald-isle.json](./318995-emerald-isle.json) |
+| Emerald Mine | 37100 | [37100-emerald-mine.json](./37100-emerald-mine.json) |
+| Emerald Mine II | 37105 | [37105-emerald-mine-ii.json](./37105-emerald-mine-ii.json) |
 | Emerald Ties | 324698 | [324698-emerald-ties.json](./324698-emerald-ties.json) |
 | Emerge | 342631 | [342631-emerge.json](./342631-emerge.json) |
 | Emerge: Cities of the Apocalypse | 33136 | [33136-emerge-cities-of-the-apocalypse.json](./33136-emerge-cities-of-the-apocalypse.json) |
@@ -1127,6 +1129,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Baseball 2K4 | 43249 | [43249-espn-baseball-2k4.json](./43249-espn-baseball-2k4.json) |
 | ESPN College Hoops | 5823 | [5823-espn-college-hoops.json](./5823-espn-college-hoops.json) |
 | ESPN College Hoops 2K5 | 5824 | [5824-espn-college-hoops-2k5.json](./5824-espn-college-hoops-2k5.json) |
+| ESPN Let's Play Beach Volleyball | 37117 | [37117-espn-lets-play-beach-volleyball.json](./37117-espn-lets-play-beach-volleyball.json) |
+| ESPN Let's Play Soccer | 37119 | [37119-espn-lets-play-soccer.json](./37119-espn-lets-play-soccer.json) |
+| ESPN Let's Play Tennis | 37118 | [37118-espn-lets-play-tennis.json](./37118-espn-lets-play-tennis.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
 | ESPN NHL 2K5 | 5826 | [5826-espn-nhl-2k5.json](./5826-espn-nhl-2k5.json) |
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
@@ -1284,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Planet | 67290 | [67290-ever-planet.json](./67290-ever-planet.json) |
 | Everbee | 270130 | [270130-everbee.json](./270130-everbee.json) |
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
+| Everblue | 37082 | [37082-everblue.json](./37082-everblue.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
 | Everdine: A Lost Girl's Tale | 189142 | [189142-everdine-a-lost-girls-tale.json](./189142-everdine-a-lost-girls-tale.json) |
@@ -1412,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution: Dino Dudes | 40801 | [40801-evolution-dino-dudes.json](./40801-evolution-dino-dudes.json) |
 | Evolution: Dragon X | 267354 | [267354-evolution-dragon-x.json](./267354-evolution-dragon-x.json) |
 | Evolution: Indian Hunter - Unlimited Edition | 201261 | [201261-evolution-indian-hunter-unlimited-edition.json](./201261-evolution-indian-hunter-unlimited-edition.json) |
+| Evolution: The Game of Intelligent Life | 37049 | [37049-evolution-the-game-of-intelligent-life.json](./37049-evolution-the-game-of-intelligent-life.json) |
 | Evolutis: Duality | 129170 | [129170-evolutis-duality.json](./129170-evolutis-duality.json) |
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
 | Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
