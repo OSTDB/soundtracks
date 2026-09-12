@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
 | Dark Hours | 251843 | [251843-dark-hours.json](./251843-dark-hours.json) |
 | Dark Hunter | 311784 | [311784-dark-hunter.json](./311784-dark-hunter.json) |
+| Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
 | Dark Island | 147961 | [147961-dark-island.json](./147961-dark-island.json) |
 | Dark Legacy | 314034 | [314034-dark-legacy.json](./314034-dark-legacy.json) |
@@ -367,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
+| Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
 | Dark Swords | 119044 | [119044-dark-swords.json](./119044-dark-swords.json) |
@@ -525,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
+| Dawn of the Immortals | 38917 | [38917-dawn-of-the-immortals.json](./38917-dawn-of-the-immortals.json) |
 | Dawn of the killer zombies | 90626 | [90626-dawn-of-the-killer-zombies.json](./90626-dawn-of-the-killer-zombies.json) |
 | Dawn of the Mexica | 143739 | [143739-dawn-of-the-mexica.json](./143739-dawn-of-the-mexica.json) |
 | Dawn of the Monsters: Arcade Edition | 252364 | [252364-dawn-of-the-monsters-arcade-edition.json](./252364-dawn-of-the-monsters-arcade-edition.json) |
@@ -1193,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Kill Demon: Yomi 1984 | 394158 | [394158-demon-kill-demon-yomi-1984.json](./394158-demon-kill-demon-yomi-1984.json) |
 | Demon Killer | 349847 | [349847-demon-killer.json](./349847-demon-killer.json) |
 | Demon Kingdom | 303470 | [303470-demon-kingdom.json](./303470-demon-kingdom.json) |
+| Demon Knight | 38922 | [38922-demon-knight.json](./38922-demon-knight.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
@@ -2872,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Spirits | 127202 | [127202-dragon-spirits.json](./127202-dragon-spirits.json) |
 | Dragon Star Varnir: Complete Deluxe Edition | 186884 | [186884-dragon-star-varnir-complete-deluxe-edition.json](./186884-dragon-star-varnir-complete-deluxe-edition.json) |
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
+| Dragon Story | 38899 | [38899-dragon-story.json](./38899-dragon-story.json) |
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
 | Dragon Tales: Dragon Wings | 49939 | [49939-dragon-tales-dragon-wings.json](./49939-dragon-tales-dragon-wings.json) |
 | Dragon Tales: Learn & Fly With Dragons | 72127 | [72127-dragon-tales-learn-and-fly-with-dragons.json](./72127-dragon-tales-learn-and-fly-with-dragons.json) |
@@ -2919,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
+| Dragonsbane | 38921 | [38921-dragonsbane.json](./38921-dragonsbane.json) |
 | Dragonscale Monastery | 260170 | [260170-dragonscale-monastery.json](./260170-dragonscale-monastery.json) |
 | DragonScales 3: Eternal Prophecy of Darkness | 70388 | [70388-dragonscales-3-eternal-prophecy-of-darkness.json](./70388-dragonscales-3-eternal-prophecy-of-darkness.json) |
 | DragonScales 7: A Heart of Dark Flames | 197416 | [197416-dragonscales-7-a-heart-of-dark-flames.json](./197416-dragonscales-7-a-heart-of-dark-flames.json) |
@@ -2956,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Puzzle | 46479 | [46479-draw-puzzle.json](./46479-draw-puzzle.json) |
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
+| Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
 | Draw Two Save: Save the man | 197363 | [197363-draw-two-save-save-the-man.json](./197363-draw-two-save-save-the-man.json) |
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Draw-A-Mountain | 185098 | [185098-draw-a-mountain.json](./185098-draw-a-mountain.json) |
@@ -3132,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
 | Drift Mania | 161412 | [161412-drift-mania.json](./161412-drift-mania.json) |
+| Drift Mania: Street Outlaws | 38938 | [38938-drift-mania-street-outlaws.json](./38938-drift-mania-street-outlaws.json) |
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
 | Drift Out | 39674 | [39674-drift-out.json](./39674-drift-out.json) |
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
