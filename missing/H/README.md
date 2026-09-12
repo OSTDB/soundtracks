@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hills in the Moonlight | 307587 | [307587-hills-in-the-moonlight.json](./307587-hills-in-the-moonlight.json) |
+| Hillsea Lido | 70326 | [70326-hillsea-lido.json](./70326-hillsea-lido.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
 | Him | 258482 | [258482-him.json](./258482-him.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
@@ -1738,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Street: Dream House Sim | 90555 | [90555-home-street-dream-house-sim.json](./90555-home-street-dream-house-sim.json) |
 | Home Sweet Home: Online | 249814 | [249814-home-sweet-home-online.json](./249814-home-sweet-home-online.json) |
 | Home Sweet Homecoming | 135306 | [135306-home-sweet-homecoming.json](./135306-home-sweet-homecoming.json) |
+| Home Sweet RoN | 70370 | [70370-home-sweet-ron.json](./70370-home-sweet-ron.json) |
 | Home Tech VR | 29891 | [29891-home-tech-vr.json](./29891-home-tech-vr.json) |
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
@@ -1812,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honker | 291476 | [291476-honker.json](./291476-honker.json) |
 | Honki de Manabu LEC de Goukakuru: Hishou Boki 3-Kyuu Portable | 67324 | [67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json](./67324-honki-de-manabu-lec-de-goukakuru-hishou-boki-3-kyuu-portable.json) |
 | Honki de Manabu LEC de Goukakuru: Takuchi Tatemono Torihiki Shuninsha Portable | 67325 | [67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json](./67325-honki-de-manabu-lec-de-goukakuru-takuchi-tatemono-torihiki-shuninsha-portable.json) |
+| Honoo no Ryourijin: Cooking Fighter Hao | 70338 | [70338-honoo-no-ryourijin-cooking-fighter-hao.json](./70338-honoo-no-ryourijin-cooking-fighter-hao.json) |
 | Honoo no Takkyubin | 138839 | [138839-honoo-no-takkyubin.json](./138839-honoo-no-takkyubin.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 267660 | [267660-honoo-no-toukyuuji-dodge-danpei.json](./267660-honoo-no-toukyuuji-dodge-danpei.json) |
 | Honoo no Toukyuuji: Dodge Danpei | 42053 | [42053-honoo-no-toukyuuji-dodge-danpei.json](./42053-honoo-no-toukyuuji-dodge-danpei.json) |
@@ -1962,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
 | Hot Dodge! | 158721 | [158721-hot-dodge.json](./158721-hot-dodge.json) |
 | Hot Dog Bush | 159351 | [159351-hot-dog-bush.json](./159351-hot-dog-bush.json) |
+| Hot Dog King: A Fast Food Empire | 70328 | [70328-hot-dog-king-a-fast-food-empire.json](./70328-hot-dog-king-a-fast-food-empire.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
 | Hot Dog Stand: The Works | 228685 | [228685-hot-dog-stand-the-works.json](./228685-hot-dog-stand-the-works.json) |
 | Hot Foot | 318408 | [318408-hot-foot.json](./318408-hot-foot.json) |
