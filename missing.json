@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T16:31:39.037Z",
-  "total_missing": 62590,
+  "generated_at": "2026-09-12T16:41:45.576Z",
+  "total_missing": 62592,
   "games": [
     {
       "igdb_id": 306086,
@@ -3031,11 +3031,6 @@
       "igdb_id": 257098,
       "game_name": "Absolutely Perfect Specimen",
       "file": "missing/A/257098-absolutely-perfect-specimen.json"
-    },
-    {
-      "igdb_id": 84861,
-      "game_name": "Absolutely Unstoppable MineRun",
-      "file": "missing/A/84861-absolutely-unstoppable-minerun.json"
     },
     {
       "igdb_id": 52555,
@@ -158618,6 +158613,11 @@
       "file": "missing/M/383391-metal-gear-solid-3-snake-eater-master-collection-version.json"
     },
     {
+      "igdb_id": 44569,
+      "game_name": "Metal Gear Solid 4: 25th Anniversary Edition",
+      "file": "missing/M/44569-metal-gear-solid-4-25th-anniversary-edition.json"
+    },
+    {
       "igdb_id": 298015,
       "game_name": "Metal Gear Solid HD Edition - Premium Package",
       "file": "missing/M/298015-metal-gear-solid-hd-edition-premium-package.json"
@@ -246903,6 +246903,11 @@
       "file": "missing/S/77952-street-fighter-iv-champion-edition.json"
     },
     {
+      "igdb_id": 44570,
+      "game_name": "Street Fighter IV: Collector's Edition",
+      "file": "missing/S/44570-street-fighter-iv-collectors-edition.json"
+    },
+    {
       "igdb_id": 55061,
       "game_name": "Street Fighter Online: Mouse Generation",
       "file": "missing/S/55061-street-fighter-online-mouse-generation.json"
@@ -281536,6 +281541,11 @@
       "igdb_id": 53821,
       "game_name": "Tom Clancy's Splinter Cell Collection",
       "file": "missing/T/53821-tom-clancys-splinter-cell-collection.json"
+    },
+    {
+      "igdb_id": 44568,
+      "game_name": "Tom Clancy's Splinter Cell: Blacklist - 5th Freedom Edition",
+      "file": "missing/T/44568-tom-clancys-splinter-cell-blacklist-5th-freedom-edition.json"
     },
     {
       "igdb_id": 11010,
