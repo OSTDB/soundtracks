@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Pie: End Roll | 298024 | [298024-secret-pie-end-roll.json](./298024-secret-pie-end-roll.json) |
 | Secret Reflections Collection | 201864 | [201864-secret-reflections-collection.json](./201864-secret-reflections-collection.json) |
 | Secret Savings | 114383 | [114383-secret-savings.json](./114383-secret-savings.json) |
+| Secret Service: In Harm's Way | 73800 | [73800-secret-service-in-harms-way.json](./73800-secret-service-in-harms-way.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
 | Secret Thursday | 312926 | [312926-secret-thursday.json](./312926-secret-thursday.json) |
 | Secret Trial Ground | 273625 | [273625-secret-trial-ground.json](./273625-secret-trial-ground.json) |
@@ -5397,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
+| Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
@@ -5475,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
 | Street Karate Fighter 2 Online | 102827 | [102827-street-karate-fighter-2-online.json](./102827-street-karate-fighter-2-online.json) |
 | Street Lamp Lover | 336530 | [336530-street-lamp-lover.json](./336530-street-lamp-lover.json) |
+| Street Legal | 73757 | [73757-street-legal.json](./73757-street-legal.json) |
 | Street Legal Racing: Redline | 77346 | [77346-street-legal-racing-redline.json](./77346-street-legal-racing-redline.json) |
 | Street Level: Android Edition | 100752 | [100752-street-level-android-edition.json](./100752-street-level-android-edition.json) |
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
@@ -5633,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
 | Submachine Extended Version | 259844 | [259844-submachine-extended-version.json](./259844-submachine-extended-version.json) |
+| Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
