@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Da Beat | 24207 | [24207-beat-da-beat.json](./24207-beat-da-beat.json) |
 | Beat Down: Fists of Vengeance | 5745 | [5745-beat-down-fists-of-vengeance.json](./5745-beat-down-fists-of-vengeance.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
+| Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
 | Beat Monsters | 119003 | [119003-beat-monsters.json](./119003-beat-monsters.json) |
 | Beat MP3 for YouTube | 213380 | [213380-beat-mp3-for-youtube.json](./213380-beat-mp3-for-youtube.json) |
 | Beat of Rebellion | 373532 | [373532-beat-of-rebellion.json](./373532-beat-of-rebellion.json) |
@@ -1093,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Them Up: Street Fight Band Simulator | 251598 | [251598-beat-them-up-street-fight-band-simulator.json](./251598-beat-them-up-street-fight-band-simulator.json) |
 | Beat Time | 91439 | [91439-beat-time.json](./91439-beat-time.json) |
 | Beat Vector | 393465 | [393465-beat-vector.json](./393465-beat-vector.json) |
+| BeatBlox | 68648 | [68648-beatblox.json](./68648-beatblox.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
@@ -1742,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
+| Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Gold | 136436 | [136436-black-gold.json](./136436-black-gold.json) |
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
@@ -2050,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
 | Blockage | 306966 | [306966-blockage.json](./306966-blockage.json) |
 | BlockBawks | 293102 | [293102-blockbawks.json](./293102-blockbawks.json) |
+| BlockBuster | 68647 | [68647-blockbuster.json](./68647-blockbuster.json) |
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
 | Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
@@ -2250,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | BlueGlow | 116283 | [116283-blueglow.json](./116283-blueglow.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
+| BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
@@ -2372,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Bowling | 307307 | [307307-bomb-bowling.json](./307307-bomb-bowling.json) |
 | Bomb Bowling 2 | 124189 | [124189-bomb-bowling-2.json](./124189-bomb-bowling-2.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
+| Bomb Disposal Expert | 68644 | [68644-bomb-disposal-expert.json](./68644-bomb-disposal-expert.json) |
 | Bomb Disposer | 210638 | [210638-bomb-disposer.json](./210638-bomb-disposer.json) |
 | Bomb Jack Twin | 39652 | [39652-bomb-jack-twin.json](./39652-bomb-jack-twin.json) |
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
@@ -2626,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce Zone | 84241 | [84241-bounce-zone.json](./84241-bounce-zone.json) |
 | Bounceables | 217548 | [217548-bounceables.json](./217548-bounceables.json) |
 | BounceBash | 248059 | [248059-bouncebash.json](./248059-bouncebash.json) |
+| BounceCrazy | 68645 | [68645-bouncecrazy.json](./68645-bouncecrazy.json) |
 | Bounced | 295027 | [295027-bounced.json](./295027-bounced.json) |
 | Bouncemasters | 370674 | [370674-bouncemasters.json](./370674-bouncemasters.json) |
 | Bouncemasters: Aiming Assist | 379378 | [379378-bouncemasters-aiming-assist.json](./379378-bouncemasters-aiming-assist.json) |
@@ -2682,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Grand Edition | 396914 | [396914-bowling-fever-grand-edition.json](./396914-bowling-fever-grand-edition.json) |
 | Bowling Islands | 234616 | [234616-bowling-islands.json](./234616-bowling-islands.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
+| Bowling X | 68642 | [68642-bowling-x.json](./68642-bowling-x.json) |
 | Bowls | 14337 | [14337-bowls.json](./14337-bowls.json) |
 | Bowman | 357273 | [357273-bowman.json](./357273-bowman.json) |
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
@@ -2756,6 +2764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Bait | 186814 | [186814-brain-bait.json](./186814-brain-bait.json) |
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
 | Brain Box on Physics Truck | 102109 | [102109-brain-box-on-physics-truck.json](./102109-brain-box-on-physics-truck.json) |
+| Brain Deluxe | 68641 | [68641-brain-deluxe.json](./68641-brain-deluxe.json) |
 | Brain Dots: Draw and Solve | 104701 | [104701-brain-dots-draw-and-solve.json](./104701-brain-dots-draw-and-solve.json) |
 | Brain Drain | 210267 | [210267-brain-drain.json](./210267-brain-drain.json) |
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
@@ -3286,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Time | 158164 | [158164-bullet-time.json](./158164-bullet-time.json) |
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
 | Bullet Train Simulator: Euro Train Driver | 104611 | [104611-bullet-train-simulator-euro-train-driver.json](./104611-bullet-train-simulator-euro-train-driver.json) |
+| Bullet Trap | 68640 | [68640-bullet-trap.json](./68640-bullet-trap.json) |
 | Bullet Waltz | 223658 | [223658-bullet-waltz.json](./223658-bullet-waltz.json) |
 | Bullet'n Surf | 97359 | [97359-bulletn-surf.json](./97359-bulletn-surf.json) |
 | Bullet'n Tunes | 97358 | [97358-bulletn-tunes.json](./97358-bulletn-tunes.json) |
