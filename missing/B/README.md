@@ -1736,6 +1736,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo Mangekyou: Katsute Shoujo Datta Kimi he | 115724 | [115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json](./115724-bishoujo-mangekyou-katsute-shoujo-datta-kimi-he.json) |
 | Bishoujo Mangekyou: Norowareshi Densetsu no Shoujo | 115722 | [115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json](./115722-bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.json) |
 | Bishoujo Mangekyou: Wasurenagusa to Eien no Shoujo | 115723 | [115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json](./115723-bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.json) |
+| Bishoujo Senshi Sailor Moon | 38279 | [38279-bishoujo-senshi-sailor-moon.json](./38279-bishoujo-senshi-sailor-moon.json) |
+| Bishoujo Senshi Sailor Moon S: Kondo ha Puzzle de Oshioki yo!! | 38274 | [38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json](./38274-bishoujo-senshi-sailor-moon-s-kondo-ha-puzzle-de-oshioki-yo.json) |
 | Bishoujo Senshi Sailor Moon Super S: Illustration Club | 225257 | [225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json](./225257-bishoujo-senshi-sailor-moon-super-s-illustration-club.json) |
 | Bishoujo Senshi Sailor V | 234339 | [234339-bishoujo-senshi-sailor-v.json](./234339-bishoujo-senshi-sailor-v.json) |
 | Bishoujo Sexy Derby | 41358 | [41358-bishoujo-sexy-derby.json](./41358-bishoujo-sexy-derby.json) |
@@ -1743,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishoujo SF Alien Battle | 41356 | [41356-bishoujo-sf-alien-battle.json](./41356-bishoujo-sf-alien-battle.json) |
 | Bishoujo Shashinkan I: Studio Cut | 41377 | [41377-bishoujo-shashinkan-i-studio-cut.json](./41377-bishoujo-shashinkan-i-studio-cut.json) |
 | Bishoujo Shashinkan II: Moving School | 41378 | [41378-bishoujo-shashinkan-ii-moving-school.json](./41378-bishoujo-shashinkan-ii-moving-school.json) |
+| Bishoujo Wrestler Retsuden: Blizzard Yuki Rannyuu!! | 38275 | [38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json](./38275-bishoujo-wrestler-retsuden-blizzard-yuki-rannyuu.json) |
 | Bismarck: The North Sea Chase | 14308 | [14308-bismarck-the-north-sea-chase.json](./14308-bismarck-the-north-sea-chase.json) |
 | Bistro Blitz | 278709 | [278709-bistro-blitz.json](./278709-bistro-blitz.json) |
 | Bistro Days | 139481 | [139481-bistro-days.json](./139481-bistro-days.json) |
@@ -2125,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Champ | 229936 | [229936-block-champ.json](./229936-block-champ.json) |
 | Block Corsair | 236000 | [236000-block-corsair.json](./236000-block-corsair.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
+| Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block N Load 2 | 204443 | [204443-block-n-load-2.json](./204443-block-n-load-2.json) |
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
@@ -3274,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS The Legend of Zelda "MottZilla Patch" | 150080 | [150080-bs-the-legend-of-zelda-mottzilla-patch.json](./150080-bs-the-legend-of-zelda-mottzilla-patch.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets | 322560 | [322560-bs-the-legend-of-zelda-ancient-stone-tablets.json](./322560-bs-the-legend-of-zelda-ancient-stone-tablets.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets - Master Quest | 150082 | [150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json](./150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json) |
+| BS Zelda no Densetsu | 38319 | [38319-bs-zelda-no-densetsu.json](./38319-bs-zelda-no-densetsu.json) |
 | BS Zelda no Densetsu Map 2: Dai-1-wa | 178054 | [178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json](./178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json) |
 | BS Zelda no Densetsu Map 2: Dai-2-wa | 178056 | [178056-bs-zelda-no-densetsu-map-2-dai-2-wa.json](./178056-bs-zelda-no-densetsu-map-2-dai-2-wa.json) |
 | BS Zelda no Densetsu Map 2: Dai-3-wa | 178058 | [178058-bs-zelda-no-densetsu-map-2-dai-3-wa.json](./178058-bs-zelda-no-densetsu-map-2-dai-3-wa.json) |
