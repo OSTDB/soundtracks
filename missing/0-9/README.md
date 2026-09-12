@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 365 Days | 29917 | [29917-365-days.json](./29917-365-days.json) |
 | 38 Man Kilo no Kokuu File 1: A Day in the Life of 2049 | 84171 | [84171-38-man-kilo-no-kokuu-file-1-a-day-in-the-life-of-2049.json](./84171-38-man-kilo-no-kokuu-file-1-a-day-in-the-life-of-2049.json) |
 | 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
+| 3918 | 63235 | [63235-3918.json](./63235-3918.json) |
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3C Wonderland Coaster | 111071 | [111071-3c-wonderland-coaster.json](./111071-3c-wonderland-coaster.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
