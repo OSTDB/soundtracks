@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T12:19:07.879Z",
-  "total_missing": 61838,
+  "generated_at": "2026-09-12T12:21:34.293Z",
+  "total_missing": 61837,
   "games": [
     {
       "igdb_id": 306086,
@@ -2901,11 +2901,6 @@
       "igdb_id": 201227,
       "game_name": "Abort, Retry, Fail",
       "file": "missing/A/201227-abort-retry-fail.json"
-    },
-    {
-      "igdb_id": 380410,
-      "game_name": "About Fishing",
-      "file": "missing/A/380410-about-fishing.json"
     },
     {
       "igdb_id": 156672,
