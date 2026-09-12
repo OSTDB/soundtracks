@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleOn | 353881 | [353881-castleon.json](./353881-castleon.json) |
 | Castles & Castellans | 406688 | [406688-castles-and-castellans.json](./406688-castles-and-castellans.json) |
 | Castles & Krakens | 112280 | [112280-castles-and-krakens.json](./112280-castles-and-krakens.json) |
+| Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
@@ -964,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
 | Celestial Hearts | 141817 | [141817-celestial-hearts.json](./141817-celestial-hearts.json) |
 | Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
+| Celestial Impact | 62665 | [62665-celestial-impact.json](./62665-celestial-impact.json) |
 | Celestial Links | 186251 | [186251-celestial-links.json](./186251-celestial-links.json) |
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
 | Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
@@ -1214,6 +1216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
 | Chelsea Club Football 2005 | 267908 | [267908-chelsea-club-football-2005.json](./267908-chelsea-club-football-2005.json) |
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
+| Chemical Cubes | 62698 | [62698-chemical-cubes.json](./62698-chemical-cubes.json) |
 | Chemical Existence | 222305 | [222305-chemical-existence.json](./222305-chemical-existence.json) |
 | Chemistry World | 207333 | [207333-chemistry-world.json](./207333-chemistry-world.json) |
 | Cheollang Yeoljeon | 145657 | [145657-cheollang-yeoljeon.json](./145657-cheollang-yeoljeon.json) |
@@ -2061,6 +2064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastline Flight Simulator | 154006 | [154006-coastline-flight-simulator.json](./154006-coastline-flight-simulator.json) |
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
+| CoBots | 62707 | [62707-cobots.json](./62707-cobots.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Cochonnet | 382750 | [382750-cochonnet.json](./382750-cochonnet.json) |
@@ -2732,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoreVR | 291214 | [291214-corevr.json](./291214-corevr.json) |
 | Corg of the Dead | 133383 | [133383-corg-of-the-dead.json](./133383-corg-of-the-dead.json) |
 | Corgi in the Box | 273372 | [273372-corgi-in-the-box.json](./273372-corgi-in-the-box.json) |
+| Corgi Memory | 62694 | [62694-corgi-memory.json](./62694-corgi-memory.json) |
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
