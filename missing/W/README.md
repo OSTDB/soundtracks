@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WebCum Empire Tycoon | 243151 | [243151-webcum-empire-tycoon.json](./243151-webcum-empire-tycoon.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
+| WEC Le Mans 24 | 55088 | [55088-wec-le-mans-24.json](./55088-wec-le-mans-24.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
@@ -889,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Album: Memories Like Falling Snow | 79870 | [79870-white-album-memories-like-falling-snow.json](./79870-white-album-memories-like-falling-snow.json) |
 | White City Dating Sim | 394164 | [394164-white-city-dating-sim.json](./394164-white-city-dating-sim.json) |
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
+| White Day 2: Swan Song | 55020 | [55020-white-day-2-swan-song.json](./55020-white-day-2-swan-song.json) |
 | White Day 2: The Flower That Tells Lies - Ep.2 | 248335 | [248335-white-day-2-the-flower-that-tells-lies-ep-2.json](./248335-white-day-2-the-flower-that-tells-lies-ep-2.json) |
 | White Eternal | 314870 | [314870-white-eternal.json](./314870-white-eternal.json) |
 | White Eyes | 166719 | [166719-white-eyes.json](./166719-white-eyes.json) |
@@ -1145,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
 | Wingsuit: Gudvangen | 123024 | [123024-wingsuit-gudvangen.json](./123024-wingsuit-gudvangen.json) |
 | WingWhiz | 350454 | [350454-wingwhiz.json](./350454-wingwhiz.json) |
+| Wingy Pop | 55070 | [55070-wingy-pop.json](./55070-wingy-pop.json) |
 | Wink and the Broken Robot | 179667 | [179667-wink-and-the-broken-robot.json](./179667-wink-and-the-broken-robot.json) |
 | Winkeltje: Cat Companion | 273939 | [273939-winkeltje-cat-companion.json](./273939-winkeltje-cat-companion.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
@@ -1643,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
 | World of Warcraft: Shadowlands - Chains of Domination | 363919 | [363919-world-of-warcraft-shadowlands-chains-of-domination.json](./363919-world-of-warcraft-shadowlands-chains-of-domination.json) |
 | World of Warcraft: Shadowlands - Collector's Edition | 136998 | [136998-world-of-warcraft-shadowlands-collectors-edition.json](./136998-world-of-warcraft-shadowlands-collectors-edition.json) |
+| World of Warcraft: Shadows of Argus | 55075 | [55075-world-of-warcraft-shadows-of-argus.json](./55075-world-of-warcraft-shadows-of-argus.json) |
 | World of Warcraft: The Burning Crusade - Collector's Edition | 136995 | [136995-world-of-warcraft-the-burning-crusade-collectors-edition.json](./136995-world-of-warcraft-the-burning-crusade-collectors-edition.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
 | World of Warplanes: Potez 540 Pack | 289894 | [289894-world-of-warplanes-potez-540-pack.json](./289894-world-of-warplanes-potez-540-pack.json) |
