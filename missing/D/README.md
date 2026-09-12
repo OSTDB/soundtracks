@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Doko Don 2 | 48696 | [48696-don-doko-don-2.json](./48696-don-doko-don-2.json) |
 | Don Duality | 234640 | [234640-don-duality.json](./234640-don-duality.json) |
 | Don Memo | 388704 | [388704-don-memo.json](./388704-don-memo.json) |
+| Don Pan | 55860 | [55860-don-pan.json](./55860-don-pan.json) |
 | Don Quixote: A Dream in Seven Crystals | 273124 | [273124-don-quixote-a-dream-in-seven-crystals.json](./273124-don-quixote-a-dream-in-seven-crystals.json) |
 | Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
 | Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
@@ -2881,11 +2882,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonology | 21095 | [21095-dragonology.json](./21095-dragonology.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
+| Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
 | Dragonscale Monastery | 260170 | [260170-dragonscale-monastery.json](./260170-dragonscale-monastery.json) |
 | DragonScales 3: Eternal Prophecy of Darkness | 70388 | [70388-dragonscales-3-eternal-prophecy-of-darkness.json](./70388-dragonscales-3-eternal-prophecy-of-darkness.json) |
 | DragonScales 7: A Heart of Dark Flames | 197416 | [197416-dragonscales-7-a-heart-of-dark-flames.json](./197416-dragonscales-7-a-heart-of-dark-flames.json) |
+| DragonScales: Chambers of The Dragon Whisperer | 55854 | [55854-dragonscales-chambers-of-the-dragon-whisperer.json](./55854-dragonscales-chambers-of-the-dragon-whisperer.json) |
 | Dragonscapes Adventure | 219830 | [219830-dragonscapes-adventure.json](./219830-dragonscapes-adventure.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
