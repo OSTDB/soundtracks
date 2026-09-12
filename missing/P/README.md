@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Party | 329016 | [329016-pachinko-party.json](./329016-pachinko-party.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
 | Pachio-kun Game Gallery | 86125 | [86125-pachio-kun-game-gallery.json](./86125-pachio-kun-game-gallery.json) |
+| PachiPara 13: Super Umi to Pachipro Fuuunroku | 77996 | [77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json](./77996-pachipara-13-super-umi-to-pachipro-fuuunroku.json) |
 | PachiPara 3D: Ooumi Monogatari 2 with Agnes Lum - Pachi-Pro Fuuunroku Hana Kesareta License | 141149 | [141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json](./141149-pachipara-3d-ooumi-monogatari-2-with-agnes-lum-pachi-pro-fuuunroku-hana-kesareta-license.json) |
 | PachiPara 3D: Taikai Monogatari 2 - Pachi Pro Fuuunroku Hana: Kibou to Uragiri no Gakuen Seikatsu | 222330 | [222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json](./222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json) |
 | Pachisi | 93556 | [93556-pachisi.json](./93556-pachisi.json) |
@@ -1718,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies 2: Garden Rush | 272845 | [272845-plants-vs-zombies-2-garden-rush.json](./272845-plants-vs-zombies-2-garden-rush.json) |
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
 | Plants vs. Zombies 2: Odyssey | 272295 | [272295-plants-vs-zombies-2-odyssey.json](./272295-plants-vs-zombies-2-odyssey.json) |
+| Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
