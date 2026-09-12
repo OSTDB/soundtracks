@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Line : Single Stroke Drawing | 106628 | [106628-one-line-single-stroke-drawing.json](./106628-one-line-single-stroke-drawing.json) |
 | One Line: Connect the Dots | 207811 | [207811-one-line-connect-the-dots.json](./207811-one-line-connect-the-dots.json) |
 | One Man and His Droid | 12958 | [12958-one-man-and-his-droid.json](./12958-one-man-and-his-droid.json) |
+| One Man Army | 65462 | [65462-one-man-army.json](./65462-one-man-army.json) |
 | One Man's Shit: An Interactive Trash Adventure | 128638 | [128638-one-mans-shit-an-interactive-trash-adventure.json](./128638-one-mans-shit-an-interactive-trash-adventure.json) |
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
 | One minute of death | 112936 | [112936-one-minute-of-death.json](./112936-one-minute-of-death.json) |
@@ -660,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onet 3D | 231921 | [231921-onet-3d.json](./231921-onet-3d.json) |
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oneteam Soccer | 153358 | [153358-oneteam-soccer.json](./153358-oneteam-soccer.json) |
+| Ong-Bak: The Video Game | 65443 | [65443-ong-bak-the-video-game.json](./65443-ong-bak-the-video-game.json) |
 | Ongaku Tsukuuru: Kanadeeru - Convert Data | 234892 | [234892-ongaku-tsukuuru-kanadeeru-convert-data.json](./234892-ongaku-tsukuuru-kanadeeru-convert-data.json) |
 | Ongeki Bright | 206150 | [206150-ongeki-bright.json](./206150-ongeki-bright.json) |
 | Ongeki Bright Memory Act.2 | 335953 | [335953-ongeki-bright-memory-act-2.json](./335953-ongeki-bright-memory-act-2.json) |
@@ -1081,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Sight | 312565 | [312565-out-of-sight.json](./312565-out-of-sight.json) |
 | Out of Stock! | 346588 | [346588-out-of-stock.json](./346588-out-of-stock.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
+| Out of the Park Baseball 12 | 65480 | [65480-out-of-the-park-baseball-12.json](./65480-out-of-the-park-baseball-12.json) |
 | Out of the Park Baseball 21 | 130326 | [130326-out-of-the-park-baseball-21.json](./130326-out-of-the-park-baseball-21.json) |
 | Out of the Park Baseball 25 | 287086 | [287086-out-of-the-park-baseball-25.json](./287086-out-of-the-park-baseball-25.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
