@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Instinct | 254517 | [254517-killer-instinct.json](./254517-killer-instinct.json) |
 | Killer Instinct 2 | 264309 | [264309-killer-instinct-2.json](./264309-killer-instinct-2.json) |
 | Killer Instinct 2 | 2930 | [2930-killer-instinct-2.json](./2930-killer-instinct-2.json) |
+| Killer Instinct: Definitive Edition | 25662 | [25662-killer-instinct-definitive-edition.json](./25662-killer-instinct-definitive-edition.json) |
 | Killer Karaoke: el juego | 245308 | [245308-killer-karaoke-el-juego.json](./245308-killer-karaoke-el-juego.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
 | Killer7 | 3966 | [3966-killer7.json](./3966-killer7.json) |
