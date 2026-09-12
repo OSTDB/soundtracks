@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Mega Xtra Party Challenge | 201784 | [201784-ultra-mega-xtra-party-challenge.json](./201784-ultra-mega-xtra-party-challenge.json) |
 | Ultra Ninja Soul | 151755 | [151755-ultra-ninja-soul.json](./151755-ultra-ninja-soul.json) |
 | Ultra Rhythm | 227876 | [227876-ultra-rhythm.json](./227876-ultra-rhythm.json) |
+| Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
 | Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
@@ -486,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity-chan's Action Shooting | 362813 | [362813-unity-chans-action-shooting.json](./362813-unity-chans-action-shooting.json) |
 | Univers 11: Under the Sky | 195721 | [195721-univers-11-under-the-sky.json](./195721-univers-11-under-the-sky.json) |
 | Universal Boxing Manager | 70942 | [70942-universal-boxing-manager.json](./70942-universal-boxing-manager.json) |
+| Universal Chaos | 40726 | [40726-universal-chaos.json](./40726-universal-chaos.json) |
 | Universal Combat | 70975 | [70975-universal-combat.json](./70975-universal-combat.json) |
 | Universal Conquest | 258741 | [258741-universal-conquest.json](./258741-universal-conquest.json) |
 | Universal Nuts | 91955 | [91955-universal-nuts.json](./91955-universal-nuts.json) |
