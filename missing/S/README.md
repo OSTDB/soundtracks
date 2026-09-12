@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
 | Scoober Splat! | 151165 | [151165-scoober-splat.json](./151165-scoober-splat.json) |
 | Scooby Doo: Horror of the High Seas - Episode 3: Reef Relief | 337126 | [337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json](./337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json) |
+| Scooby Doo: The Motion Picture | 57641 | [57641-scooby-doo-the-motion-picture.json](./57641-scooby-doo-the-motion-picture.json) |
 | Scooby-Doo 2: Monsters Unleashed - Escape from the Coolsonian | 327821 | [327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json](./327821-scooby-doo-2-monsters-unleashed-escape-from-the-coolsonian.json) |
 | Scooby-Doo and the Mystery of the Castle | 220107 | [220107-scooby-doo-and-the-mystery-of-the-castle.json](./220107-scooby-doo-and-the-mystery-of-the-castle.json) |
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
@@ -4159,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spebo | 259830 | [259830-spebo.json](./259830-spebo.json) |
 | Spec | 304575 | [304575-spec.json](./304575-spec.json) |
+| Special Delivery: Santa's Christmas Chaos | 57621 | [57621-special-delivery-santas-christmas-chaos.json](./57621-special-delivery-santas-christmas-chaos.json) |
 | Special Edition 4 Pack: Volume One | 98951 | [98951-special-edition-4-pack-volume-one.json](./98951-special-edition-4-pack-volume-one.json) |
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
 | Special Force | 62682 | [62682-special-force.json](./62682-special-force.json) |
@@ -4581,6 +4583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spunk and Moxie | 25041 | [25041-spunk-and-moxie.json](./25041-spunk-and-moxie.json) |
 | Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
 | Spunky: Gangster Simulator | 164993 | [164993-spunky-gangster-simulator.json](./164993-spunky-gangster-simulator.json) |
+| Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
@@ -5122,6 +5125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
 | Start the Party! Save the World! | 20731 | [20731-start-the-party-save-the-world.json](./20731-start-the-party-save-the-world.json) |
 | Start Your Engines Bundle | 173789 | [173789-start-your-engines-bundle.json](./173789-start-your-engines-bundle.json) |
+| Start-Up | 57654 | [57654-start-up.json](./57654-start-up.json) |
 | Start! Heart Thief | 165011 | [165011-start-heart-thief.json](./165011-start-heart-thief.json) |
 | Startenders: Intergalactic Bartending | 187509 | [187509-startenders-intergalactic-bartending.json](./187509-startenders-intergalactic-bartending.json) |
 | Starters Orders 7 | 137628 | [137628-starters-orders-7.json](./137628-starters-orders-7.json) |
@@ -5508,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
 | Strania: The Stella Machina - EX | 328477 | [328477-strania-the-stella-machina-ex.json](./328477-strania-the-stella-machina-ex.json) |
 | Stratagem | 289311 | [289311-stratagem.json](./289311-stratagem.json) |
+| Stratajong | 57653 | [57653-stratajong.json](./57653-stratajong.json) |
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
@@ -6208,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Impostor Bros. | 202379 | [202379-super-impostor-bros.json](./202379-super-impostor-bros.json) |
 | Super Jack | 265965 | [265965-super-jack.json](./265965-super-jack.json) |
 | Super Jack The Ripper | 336895 | [336895-super-jack-the-ripper.json](./336895-super-jack-the-ripper.json) |
+| Super Jazz Man | 57626 | [57626-super-jazz-man.json](./57626-super-jazz-man.json) |
 | Super Jeopardy! | 48698 | [48698-super-jeopardy.json](./48698-super-jeopardy.json) |
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
 | Super Jigsaw Puzzle | 86304 | [86304-super-jigsaw-puzzle.json](./86304-super-jigsaw-puzzle.json) |
