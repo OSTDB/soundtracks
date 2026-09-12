@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Of Celestials | 253389 | [253389-war-of-celestials.json](./253389-war-of-celestials.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
 | War of Criminals | 89969 | [89969-war-of-criminals.json](./89969-war-of-criminals.json) |
+| War of Crown | 76567 | [76567-war-of-crown.json](./76567-war-of-crown.json) |
 | War of Genesis III | 76613 | [76613-war-of-genesis-iii.json](./76613-war-of-genesis-iii.json) |
 | War of Gods Athena | 273640 | [273640-war-of-gods-athena.json](./273640-war-of-gods-athena.json) |
 | War of Legends | 306644 | [306644-war-of-legends.json](./306644-war-of-legends.json) |
@@ -444,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water City | 268472 | [268472-water-city.json](./268472-water-city.json) |
 | Water Clock | 106620 | [106620-water-clock.json](./106620-water-clock.json) |
 | Water Connect Puzzle | 213379 | [213379-water-connect-puzzle.json](./213379-water-connect-puzzle.json) |
+| Water Density | 76530 | [76530-water-density.json](./76530-water-density.json) |
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
 | Water Pipes | 104092 | [104092-water-pipes.json](./104092-water-pipes.json) |
