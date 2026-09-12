@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KC Returns! II | 208374 | [208374-kc-returns-ii.json](./208374-kc-returns-ii.json) |
 | KDice | 56512 | [56512-kdice.json](./56512-kdice.json) |
 | Ke Rulen Los Petas | 141849 | [141849-ke-rulen-los-petas.json](./141849-ke-rulen-los-petas.json) |
+| Keatz: The Lonely Bird | 57042 | [57042-keatz-the-lonely-bird.json](./57042-keatz-the-lonely-bird.json) |
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Keep Defending | 31350 | [31350-keep-defending.json](./31350-keep-defending.json) |
