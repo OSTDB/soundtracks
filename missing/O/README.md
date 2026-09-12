@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olivia Takes Ballet | 231377 | [231377-olivia-takes-ballet.json](./231377-olivia-takes-ballet.json) |
 | OliVR | 240769 | [240769-olivr.json](./240769-olivr.json) |
 | Ollam House | 128628 | [128628-ollam-house.json](./128628-ollam-house.json) |
+| Olli & Lissa 3: The Candlelight Adventure | 70920 | [70920-olli-and-lissa-3-the-candlelight-adventure.json](./70920-olli-and-lissa-3-the-candlelight-adventure.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
 | OlliOlli World: Close Encounter Skate Deck | 353282 | [353282-olliolli-world-close-encounter-skate-deck.json](./353282-olliolli-world-close-encounter-skate-deck.json) |
 | OlliOlli: Epic Combo Edition | 46025 | [46025-olliolli-epic-combo-edition.json](./46025-olliolli-epic-combo-edition.json) |
@@ -1009,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ottopunks: Gangs of Bosphorus | 250943 | [250943-ottopunks-gangs-of-bosphorus.json](./250943-ottopunks-gangs-of-bosphorus.json) |
 | Ou | 151666 | [151666-ou.json](./151666-ou.json) |
 | Ou Dorobou Jing: Devil Version | 146341 | [146341-ou-dorobou-jing-devil-version.json](./146341-ou-dorobou-jing-devil-version.json) |
+| Ou-sama Game | 70906 | [70906-ou-sama-game.json](./70906-ou-sama-game.json) |
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
 | Ouch! So Many Beauties! | 298602 | [298602-ouch-so-many-beauties.json](./298602-ouch-so-many-beauties.json) |
 | Ouchi Otofuda | 206371 | [206371-ouchi-otofuda.json](./206371-ouchi-otofuda.json) |
