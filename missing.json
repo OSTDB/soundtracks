@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T04:31:34.407Z",
-  "total_missing": 60559,
+  "generated_at": "2026-09-12T04:41:30.896Z",
+  "total_missing": 60561,
   "games": [
     {
       "igdb_id": 306086,
@@ -2661,11 +2661,6 @@
       "igdb_id": 176961,
       "game_name": "A western love story but with no horse",
       "file": "missing/A/176961-a-western-love-story-but-with-no-horse.json"
-    },
-    {
-      "igdb_id": 371248,
-      "game_name": "A Wild Last Boss Appeared!: Black-Winged Survivor",
-      "file": "missing/A/371248-a-wild-last-boss-appeared-black-winged-survivor.json"
     },
     {
       "igdb_id": 157709,
@@ -213178,6 +213173,11 @@
       "file": "missing/S/132863-sandy-and-junior-aventura-virtual.json"
     },
     {
+      "igdb_id": 69253,
+      "game_name": "Sangoku Heroes",
+      "file": "missing/S/69253-sangoku-heroes.json"
+    },
+    {
       "igdb_id": 63301,
       "game_name": "Sangoku Hime 2",
       "file": "missing/S/63301-sangoku-hime-2.json"
@@ -250593,6 +250593,11 @@
       "file": "missing/T/84242-technician-ted.json"
     },
     {
+      "igdb_id": 69252,
+      "game_name": "Technictix",
+      "file": "missing/T/69252-technictix.json"
+    },
+    {
       "igdb_id": 146223,
       "game_name": "Techno Tanks",
       "file": "missing/T/146223-techno-tanks.json"
@@ -256771,6 +256776,11 @@
       "igdb_id": 238507,
       "game_name": "The Final Bastion",
       "file": "missing/T/238507-the-final-bastion.json"
+    },
+    {
+      "igdb_id": 69254,
+      "game_name": "The Final Battle",
+      "file": "missing/T/69254-the-final-battle.json"
     },
     {
       "igdb_id": 216224,
