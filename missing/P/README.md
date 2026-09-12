@@ -2345,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
 | Porzellanhaus | 367407 | [367407-porzellanhaus.json](./367407-porzellanhaus.json) |
 | Poseidon | 301831 | [301831-poseidon.json](./301831-poseidon.json) |
+| Poseidon: Planet Eleven | 67276 | [67276-poseidon-planet-eleven.json](./67276-poseidon-planet-eleven.json) |
 | Posh Boutique 2 | 294454 | [294454-posh-boutique-2.json](./294454-posh-boutique-2.json) |
 | Posibility | 127367 | [127367-posibility.json](./127367-posibility.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
