@@ -113,7 +113,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
-| A Turnabout With Too Many Faces | 303250 | [303250-a-turnabout-with-too-many-faces.json](./303250-a-turnabout-with-too-many-faces.json) |
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Turtle Motorcycle Bike Race v. Mutant Ninja Warriors | 62211 | [62211-a-turtle-motorcycle-bike-race-v-mutant-ninja-warriors.json](./62211-a-turtle-motorcycle-bike-race-v-mutant-ninja-warriors.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
