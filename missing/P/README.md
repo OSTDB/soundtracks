@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Meowbolt | 337986 | [337986-pixicharm-meowbolt.json](./337986-pixicharm-meowbolt.json) |
 | Pixicharm: Spartunex | 361698 | [361698-pixicharm-spartunex.json](./361698-pixicharm-spartunex.json) |
 | Pixicharm: Speedy Squire | 335964 | [335964-pixicharm-speedy-squire.json](./335964-pixicharm-speedy-squire.json) |
+| PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixtights | 97286 | [97286-pixtights.json](./97286-pixtights.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
