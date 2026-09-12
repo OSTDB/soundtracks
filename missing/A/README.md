@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
+| A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of Dwarves: Star Dwarves | 171034 | [171034-a-game-of-dwarves-star-dwarves.json](./171034-a-game-of-dwarves-star-dwarves.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
@@ -2973,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Breaker: Avoid the DizAsteroid | 105955 | [105955-asteroid-breaker-avoid-the-dizasteroid.json](./105955-asteroid-breaker-avoid-the-dizasteroid.json) |
 | Asteroid Challenge | 85505 | [85505-asteroid-challenge.json](./85505-asteroid-challenge.json) |
 | Asteroid Evader | 178624 | [178624-asteroid-evader.json](./178624-asteroid-evader.json) |
+| Asteroid Fire | 40722 | [40722-asteroid-fire.json](./40722-asteroid-fire.json) |
 | Asteroid Hunter | 67932 | [67932-asteroid-hunter.json](./67932-asteroid-hunter.json) |
 | Asteroid Invaders | 120375 | [120375-asteroid-invaders.json](./120375-asteroid-invaders.json) |
 | Asteroid Jungle | 297790 | [297790-asteroid-jungle.json](./297790-asteroid-jungle.json) |
