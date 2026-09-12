@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T20:03:45.123Z",
-  "total_missing": 63164,
+  "generated_at": "2026-09-12T20:11:30.393Z",
+  "total_missing": 63163,
   "games": [
     {
       "igdb_id": 306086,
@@ -3136,11 +3136,6 @@
       "igdb_id": 356070,
       "game_name": "Abyss: House",
       "file": "missing/A/356070-abyss-house.json"
-    },
-    {
-      "igdb_id": 17136,
-      "game_name": "Abyss: The Wraiths of Eden",
-      "file": "missing/A/17136-abyss-the-wraiths-of-eden.json"
     },
     {
       "igdb_id": 385571,
