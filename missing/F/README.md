@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Angel: Hell Survival | 258185 | [258185-fallen-angel-hell-survival.json](./258185-fallen-angel-hell-survival.json) |
 | Fallen Bride Mege | 215933 | [215933-fallen-bride-mege.json](./215933-fallen-bride-mege.json) |
 | Fallen Cage | 326055 | [326055-fallen-cage.json](./326055-fallen-cage.json) |
+| Fallen Cube | 48006 | [48006-fallen-cube.json](./48006-fallen-cube.json) |
 | Fallen Deities | 316654 | [316654-fallen-deities.json](./316654-fallen-deities.json) |
 | Fallen Devotion | 333964 | [333964-fallen-devotion.json](./333964-fallen-devotion.json) |
 | Fallen Echo | 311501 | [311501-fallen-echo.json](./311501-fallen-echo.json) |
@@ -313,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famista 3 | 95372 | [95372-famista-3.json](./95372-famista-3.json) |
 | Famory | 252158 | [252158-famory.json](./252158-famory.json) |
 | Famous | 91389 | [91389-famous.json](./91389-famous.json) |
+| Famous - The Road to Glory! | 47971 | [47971-famous-the-road-to-glory.json](./47971-famous-the-road-to-glory.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
 | Fan Tas Tic | 91441 | [91441-fan-tas-tic.json](./91441-fan-tas-tic.json) |
 | Fan Zhuan 21 Ke | 277316 | [277316-fan-zhuan-21-ke.json](./277316-fan-zhuan-21-ke.json) |
@@ -1944,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Depths | 381034 | [381034-forgotten-depths.json](./381034-forgotten-depths.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
 | Forgotten Eras | 368499 | [368499-forgotten-eras.json](./368499-forgotten-eras.json) |
+| Forgotten Faces | 47998 | [47998-forgotten-faces.json](./47998-forgotten-faces.json) |
 | Forgotten Gifts | 114349 | [114349-forgotten-gifts.json](./114349-forgotten-gifts.json) |
 | Forgotten Hill Disillusion | 121472 | [121472-forgotten-hill-disillusion.json](./121472-forgotten-hill-disillusion.json) |
 | Forgotten Hill Mementoes | 87980 | [87980-forgotten-hill-mementoes.json](./87980-forgotten-hill-mementoes.json) |
