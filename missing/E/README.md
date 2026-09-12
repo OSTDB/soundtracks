@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Crush | 325445 | [325445-energy-crush.json](./325445-energy-crush.json) |
 | Energy Fighters | 235452 | [235452-energy-fighters.json](./235452-energy-fighters.json) |
 | Energy Hunter Boy | 119709 | [119709-energy-hunter-boy.json](./119709-energy-hunter-boy.json) |
+| Energy Invasion | 31792 | [31792-energy-invasion.json](./31792-energy-invasion.json) |
 | Energy Survivors | 224785 | [224785-energy-survivors.json](./224785-energy-survivors.json) |
 | Energy Tail | 215924 | [215924-energy-tail.json](./215924-energy-tail.json) |
 | Energy Tanks | 269270 | [269270-energy-tanks.json](./269270-energy-tanks.json) |
@@ -979,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ertugrul | 274772 | [274772-ertugrul.json](./274772-ertugrul.json) |
 | Eruptle | 320769 | [320769-eruptle.json](./320769-eruptle.json) |
 | EruruAdventure | 97281 | [97281-eruruadventure.json](./97281-eruruadventure.json) |
+| Erusal | 31872 | [31872-erusal.json](./31872-erusal.json) |
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | Esau's World | 294150 | [294150-esaus-world.json](./294150-esaus-world.json) |
@@ -1382,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
 | Evil Returns | 299768 | [299768-evil-returns.json](./299768-evil-returns.json) |
 | Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
+| Evil Robots From N1M | 31844 | [31844-evil-robots-from-n1m.json](./31844-evil-robots-from-n1m.json) |
 | Evil Snowmen 2 | 265140 | [265140-evil-snowmen-2.json](./265140-evil-snowmen-2.json) |
 | Evil Soul | 165709 | [165709-evil-soul.json](./165709-evil-soul.json) |
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
@@ -1423,6 +1426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution: Indian Hunter - Unlimited Edition | 201261 | [201261-evolution-indian-hunter-unlimited-edition.json](./201261-evolution-indian-hunter-unlimited-edition.json) |
 | Evolution: The Game of Intelligent Life | 37049 | [37049-evolution-the-game-of-intelligent-life.json](./37049-evolution-the-game-of-intelligent-life.json) |
 | Evolutis: Duality | 129170 | [129170-evolutis-duality.json](./129170-evolutis-duality.json) |
+| Evolvation | 31834 | [31834-evolvation.json](./31834-evolvation.json) |
 | Evolve Incremental | 255342 | [255342-evolve-incremental.json](./255342-evolve-incremental.json) |
 | Evolve or Die | 373526 | [373526-evolve-or-die.json](./373526-evolve-or-die.json) |
 | Evolve: Mecha Squad | 309691 | [309691-evolve-mecha-squad.json](./309691-evolve-mecha-squad.json) |
