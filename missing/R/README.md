@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Reckoning: Subterranean Odyssey | 254766 | [254766-radiant-reckoning-subterranean-odyssey.json](./254766-radiant-reckoning-subterranean-odyssey.json) |
 | Radiant Sea | 316631 | [316631-radiant-sea.json](./316631-radiant-sea.json) |
 | Radiant Sky | 381616 | [381616-radiant-sky.json](./381616-radiant-sky.json) |
+| RadianVR | 41979 | [41979-radianvr.json](./41979-radianvr.json) |
 | Radiation Caterpillar | 410229 | [410229-radiation-caterpillar.json](./410229-radiation-caterpillar.json) |
 | Radical Bomber!! Jirai-kun | 41392 | [41392-radical-bomber-jirai-kun.json](./41392-radical-bomber-jirai-kun.json) |
 | Radical Dreamers: Le Trésor Interdit | 1803 | [1803-radical-dreamers-le-tresor-interdit.json](./1803-radical-dreamers-le-tresor-interdit.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Salvation of the Lost | 61077 | [61077-redemption-cemetery-salvation-of-the-lost.json](./61077-redemption-cemetery-salvation-of-the-lost.json) |
 | Redemption Cemetery: Terrors | 94776 | [94776-redemption-cemetery-terrors.json](./94776-redemption-cemetery-terrors.json) |
 | RedEx | 163956 | [163956-redex.json](./163956-redex.json) |
+| Redfoot Bluefoot Dancing | 41965 | [41965-redfoot-bluefoot-dancing.json](./41965-redfoot-bluefoot-dancing.json) |
 | Redie | 25954 | [25954-redie.json](./25954-redie.json) |
 | Reditus: Ashes of Heremus | 230535 | [230535-reditus-ashes-of-heremus.json](./230535-reditus-ashes-of-heremus.json) |
 | Redjack: Revenge of the Brethren | 18297 | [18297-redjack-revenge-of-the-brethren.json](./18297-redjack-revenge-of-the-brethren.json) |
@@ -1693,10 +1695,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Homeward 3: Underwater World | 120951 | [120951-road-homeward-3-underwater-world.json](./120951-road-homeward-3-underwater-world.json) |
 | Road Homeward 4: Last Step | 123557 | [123557-road-homeward-4-last-step.json](./123557-road-homeward-4-last-step.json) |
 | Road Homeward: Open World | 127312 | [127312-road-homeward-open-world.json](./127312-road-homeward-open-world.json) |
+| Road of Danger | 41936 | [41936-road-of-danger.json](./41936-road-of-danger.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Road Rash 64 | 3589 | [3589-road-rash-64.json](./3589-road-rash-64.json) |
 | Road Rash III | 199014 | [199014-road-rash-iii.json](./199014-road-rash-iii.json) |
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
+| Road Spirits | 41998 | [41998-road-spirits.json](./41998-road-spirits.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
