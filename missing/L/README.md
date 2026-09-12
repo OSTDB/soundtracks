@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
 | Langrisser I & II | 62775 | [62775-langrisser-i-and-ii.json](./62775-langrisser-i-and-ii.json) |
+| Langrisser IV | 69226 | [69226-langrisser-iv.json](./69226-langrisser-iv.json) |
 | Langrisser V: The End of Legend | 78665 | [78665-langrisser-v-the-end-of-legend.json](./78665-langrisser-v-the-end-of-legend.json) |
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
@@ -951,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
+| Lightspire: Fortunes Web | 69202 | [69202-lightspire-fortunes-web.json](./69202-lightspire-fortunes-web.json) |
 | Lightstream Racer | 100163 | [100163-lightstream-racer.json](./100163-lightstream-racer.json) |
 | LightSup! | 259021 | [259021-lightsup.json](./259021-lightsup.json) |
 | LightUp! | 186248 | [186248-lightup.json](./186248-lightup.json) |
@@ -1043,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | Lines X Free | 107263 | [107263-lines-x-free.json](./107263-lines-x-free.json) |
 | Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
+| LineWars II | 69230 | [69230-linewars-ii.json](./69230-linewars-ii.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Linework | 385590 | [385590-linework.json](./385590-linework.json) |
 | Ling and the Corrupted Hollow | 391073 | [391073-ling-and-the-corrupted-hollow.json](./391073-ling-and-the-corrupted-hollow.json) |
