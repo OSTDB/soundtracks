@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.E.C. 3001 | 14646 | [14646-t-e-c-3001.json](./14646-t-e-c-3001.json) |
+| T.R.A.G.: Tactical Rescue Assault Group - Mission of Mercy | 76599 | [76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./76599-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
 | T3 - Take the Turn | 109728 | [109728-t3-take-the-turn.json](./109728-t3-take-the-turn.json) |
 | Ta ga Tame ni Oni wa Naku | 163357 | [163357-ta-ga-tame-ni-oni-wa-naku.json](./163357-ta-ga-tame-ni-oni-wa-naku.json) |
@@ -102,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
+| Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
 | Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
@@ -186,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
 | Takahashi Meijin no Bug-tte Honey | 48662 | [48662-takahashi-meijin-no-bug-tte-honey.json](./48662-takahashi-meijin-no-bug-tte-honey.json) |
 | Takamori Puzzle | 264328 | [264328-takamori-puzzle.json](./264328-takamori-puzzle.json) |
+| Take a Break! Crosswords | 76557 | [76557-take-a-break-crosswords.json](./76557-take-a-break-crosswords.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
@@ -805,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai Makyou: Fuun Kabuki-den | 71530 | [71530-tengai-makyou-fuun-kabuki-den.json](./71530-tengai-makyou-fuun-kabuki-den.json) |
 | Tengu no Kassha: Shoot and Embodiment! | 342037 | [342037-tengu-no-kassha-shoot-and-embodiment.json](./342037-tengu-no-kassha-shoot-and-embodiment.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
+| Tenka Hyakken: Zan | 76569 | [76569-tenka-hyakken-zan.json](./76569-tenka-hyakken-zan.json) |
 | Tennis | 131513 | [131513-tennis.json](./131513-tennis.json) |
 | Tennis | 131517 | [131517-tennis.json](./131517-tennis.json) |
 | Tennis | 131530 | [131530-tennis.json](./131530-tennis.json) |
@@ -2163,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunger Games Adventures | 57708 | [57708-the-hunger-games-adventures.json](./57708-the-hunger-games-adventures.json) |
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
 | The Hunt Begins | 323720 | [323720-the-hunt-begins.json](./323720-the-hunt-begins.json) |
+| The Hunt for Red October | 76577 | [76577-the-hunt-for-red-october.json](./76577-the-hunt-for-red-october.json) |
 | The Hunt for the Chocolate Egg | 215376 | [215376-the-hunt-for-the-chocolate-egg.json](./215376-the-hunt-for-the-chocolate-egg.json) |
 | The Hunt for the Lost Treasure | 88284 | [88284-the-hunt-for-the-lost-treasure.json](./88284-the-hunt-for-the-lost-treasure.json) |
 | The Hunters Journals; Pale Harbour | 119680 | [119680-the-hunters-journals-pale-harbour.json](./119680-the-hunters-journals-pale-harbour.json) |
