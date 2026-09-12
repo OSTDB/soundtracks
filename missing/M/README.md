@@ -1764,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Town! | 87347 | [87347-merge-town.json](./87347-merge-town.json) |
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Meridian: Age of Invention | 34578 | [34578-meridian-age-of-invention.json](./34578-meridian-age-of-invention.json) |
+| Merlin Racing | 51184 | [51184-merlin-racing.json](./51184-merlin-racing.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
 | Mermaid Prism | 203341 | [203341-mermaid-prism.json](./203341-mermaid-prism.json) |
 | Mermaid Story | 219289 | [219289-mermaid-story.json](./219289-mermaid-story.json) |
@@ -3278,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Princess | 145566 | [145566-moonlight-princess.json](./145566-moonlight-princess.json) |
 | Moonlight Rabbits | 302366 | [302366-moonlight-rabbits.json](./302366-moonlight-rabbits.json) |
 | Moonlight Syndrome | 65450 | [65450-moonlight-syndrome.json](./65450-moonlight-syndrome.json) |
+| Moonlight Walks | 51178 | [51178-moonlight-walks.json](./51178-moonlight-walks.json) |
 | Moonlight Warrior | 117107 | [117107-moonlight-warrior.json](./117107-moonlight-warrior.json) |
 | Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
