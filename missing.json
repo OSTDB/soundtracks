@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T06:19:01.455Z",
-  "total_missing": 60865,
+  "generated_at": "2026-09-12T06:21:32.569Z",
+  "total_missing": 60864,
   "games": [
     {
       "igdb_id": 306086,
@@ -2711,11 +2711,6 @@
       "igdb_id": 164435,
       "game_name": "A.I. Invasion: Road of Rodan",
       "file": "missing/A/164435-a-i-invasion-road-of-rodan.json"
-    },
-    {
-      "igdb_id": 18960,
-      "game_name": "A.I.M.2 Clan Wars",
-      "file": "missing/A/18960-a-i-m-2-clan-wars.json"
     },
     {
       "igdb_id": 165707,
