@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodWarrior | 47982 | [47982-bloodwarrior.json](./47982-bloodwarrior.json) |
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
+| Bloodwood Reload | 35742 | [35742-bloodwood-reload.json](./35742-bloodwood-reload.json) |
 | Bloodworks | 76533 | [76533-bloodworks.json](./76533-bloodworks.json) |
 | Bloodwych: Data Disks Vol. 1 | 57618 | [57618-bloodwych-data-disks-vol-1.json](./57618-bloodwych-data-disks-vol-1.json) |
 | Bloody Aria | 322000 | [322000-bloody-aria.json](./322000-bloody-aria.json) |
@@ -2515,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Labyrinth | 99623 | [99623-bomb-labyrinth.json](./99623-bomb-labyrinth.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
 | Bomb the City | 57669 | [57669-bomb-the-city.json](./57669-bomb-the-city.json) |
+| Bomb the Monsters! | 35638 | [35638-bomb-the-monsters.json](./35638-bomb-the-monsters.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
 | Bomb Them All | 188032 | [188032-bomb-them-all.json](./188032-bomb-them-all.json) |
 | Bomb Threat | 77323 | [77323-bomb-threat.json](./77323-bomb-threat.json) |
@@ -2593,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonesy | 143074 | [143074-bonesy.json](./143074-bonesy.json) |
 | Bonetale | 229380 | [229380-bonetale.json](./229380-bonetale.json) |
 | BoneTown | 145047 | [145047-bonetown.json](./145047-bonetown.json) |
+| Bonetown: The Power of Death | 35741 | [35741-bonetown-the-power-of-death.json](./35741-bonetown-the-power-of-death.json) |
 | BoneTown: The Second Coming Edition | 173828 | [173828-bonetown-the-second-coming-edition.json](./173828-bonetown-the-second-coming-edition.json) |
 | Bonfire Kingdom | 260413 | [260413-bonfire-kingdom.json](./260413-bonfire-kingdom.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
@@ -2856,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box It Up! Inc. | 306634 | [306634-box-it-up-inc.json](./306634-box-it-up-inc.json) |
 | Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
+| Box Out! | 35622 | [35622-box-out.json](./35622-box-out.json) |
 | Box Roulette Simulator | 234629 | [234629-box-roulette-simulator.json](./234629-box-roulette-simulator.json) |
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
@@ -2983,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Dwarves 2 | 144265 | [144265-brave-dwarves-2.json](./144265-brave-dwarves-2.json) |
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
 | Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
+| Brave Furries | 35603 | [35603-brave-furries.json](./35603-brave-furries.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
 | Brave Kaka | 246422 | [246422-brave-kaka.json](./246422-brave-kaka.json) |
