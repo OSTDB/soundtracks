@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultim@te Race Pro | 131542 | [131542-ultim-te-race-pro.json](./131542-ultim-te-race-pro.json) |
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
 | Ultima Chess VR | 346587 | [346587-ultima-chess-vr.json](./346587-ultima-chess-vr.json) |
+| Ultima Forever: Quest for the Avatar | 64923 | [64923-ultima-forever-quest-for-the-avatar.json](./64923-ultima-forever-quest-for-the-avatar.json) |
 | Ultima Online: Age of Shadows | 69219 | [69219-ultima-online-age-of-shadows.json](./69219-ultima-online-age-of-shadows.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
 | Ultima: Escape from Mt. Drash | 24951 | [24951-ultima-escape-from-mt-drash.json](./24951-ultima-escape-from-mt-drash.json) |
