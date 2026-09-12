@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T02:48:55.754Z",
-  "total_missing": 60259,
+  "generated_at": "2026-09-12T02:51:29.466Z",
+  "total_missing": 60258,
   "games": [
     {
       "igdb_id": 306086,
@@ -2601,11 +2601,6 @@
       "igdb_id": 146325,
       "game_name": "A Vacation in Nebula",
       "file": "missing/A/146325-a-vacation-in-nebula.json"
-    },
-    {
-      "igdb_id": 338182,
-      "game_name": "A Very Merry Nightmare",
-      "file": "missing/A/338182-a-very-merry-nightmare.json"
     },
     {
       "igdb_id": 280752,
