@@ -1542,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HimeYoku: A Sacrifice of Lust and Grace | 215685 | [215685-himeyoku-a-sacrifice-of-lust-and-grace.json](./215685-himeyoku-a-sacrifice-of-lust-and-grace.json) |
 | Himi Nikki | 202359 | [202359-himi-nikki.json](./202359-himi-nikki.json) |
 | Himig | 136989 | [136989-himig.json](./136989-himig.json) |
+| Himiko-Den Renge | 58779 | [58779-himiko-den-renge.json](./58779-himiko-den-renge.json) |
 | Himiko: I Must Kill Chikushoumaru | 82790 | [82790-himiko-i-must-kill-chikushoumaru.json](./82790-himiko-i-must-kill-chikushoumaru.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan II | 66055 | [66055-himitsu-chouhou-buin-00nanako-chan-ii.json](./66055-himitsu-chouhou-buin-00nanako-chan-ii.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
