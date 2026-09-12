@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridkeeper | 355002 | [355002-gridkeeper.json](./355002-gridkeeper.json) |
 | Gridle | 372494 | [372494-gridle.json](./372494-gridle.json) |
 | Gridlock Dungeon | 297221 | [297221-gridlock-dungeon.json](./297221-gridlock-dungeon.json) |
+| Gridrunner++ | 61033 | [61033-gridrunner.json](./61033-gridrunner.json) |
 | Grids of Thermometers | 296076 | [296076-grids-of-thermometers.json](./296076-grids-of-thermometers.json) |
 | Grids of World | 132269 | [132269-grids-of-world.json](./132269-grids-of-world.json) |
 | Gridtrap | 297246 | [297246-gridtrap.json](./297246-gridtrap.json) |
