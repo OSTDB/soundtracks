@@ -4750,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Shared | 276720 | [276720-time-shared.json](./276720-time-shared.json) |
 | Time Splatter | 110360 | [110360-time-splatter.json](./110360-time-splatter.json) |
 | Time Stand Still | 10992 | [10992-time-stand-still.json](./10992-time-stand-still.json) |
+| Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
 | Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
 | Time to Fight | 114319 | [114319-time-to-fight.json](./114319-time-to-fight.json) |
 | Time to Golf | 143711 | [143711-time-to-golf.json](./143711-time-to-golf.json) |
