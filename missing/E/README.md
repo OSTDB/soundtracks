@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo of Prypiat | 303508 | [303508-echo-of-prypiat.json](./303508-echo-of-prypiat.json) |
 | Echo Point Nova | 243932 | [243932-echo-point-nova.json](./243932-echo-point-nova.json) |
 | Echo Punk | 381634 | [381634-echo-punk.json](./381634-echo-punk.json) |
+| Echo Tokyo: Reaper | 75757 | [75757-echo-tokyo-reaper.json](./75757-echo-tokyo-reaper.json) |
 | Echo Wars: Road Rage | 215896 | [215896-echo-wars-road-rage.json](./215896-echo-wars-road-rage.json) |
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
@@ -634,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
 | Encaved | 92981 | [92981-encaved.json](./92981-encaved.json) |
 | Enceladus | 261819 | [261819-enceladus.json](./261819-enceladus.json) |
+| Enceladus | 75049 | [75049-enceladus.json](./75049-enceladus.json) |
 | Enchantasy: The Quest for the Eternal Grimoire | 356657 | [356657-enchantasy-the-quest-for-the-eternal-grimoire.json](./356657-enchantasy-the-quest-for-the-eternal-grimoire.json) |
 | Enchanted Fairy Friends: Secret of the Fairy Queen | 68031 | [68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json](./68031-enchanted-fairy-friends-secret-of-the-fairy-queen.json) |
 | Enchanted Hearts | 298901 | [298901-enchanted-hearts.json](./298901-enchanted-hearts.json) |
@@ -724,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless War 5 | 234922 | [234922-endless-war-5.json](./234922-endless-war-5.json) |
 | Endless War 6 | 234924 | [234924-endless-war-6.json](./234924-endless-war-6.json) |
 | Endless War 7 | 234926 | [234926-endless-war-7.json](./234926-endless-war-7.json) |
+| Endless Wave | 75068 | [75068-endless-wave.json](./75068-endless-wave.json) |
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
 | EndlessHell | 117046 | [117046-endlesshell.json](./117046-endlesshell.json) |
@@ -1453,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
+| Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
 | Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
 | Expand | 18474 | [18474-expand.json](./18474-expand.json) |
 | Expand & Exterminate: Terrytorial Disputes - Endless Base Defense | 367935 | [367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json](./367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json) |
