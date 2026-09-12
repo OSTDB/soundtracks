@@ -1837,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lover | 299149 | [299149-lover.json](./299149-lover.json) |
 | LoveR Kiss: Endless Memories | 355544 | [355544-lover-kiss-endless-memories.json](./355544-lover-kiss-endless-memories.json) |
 | Lover Pretend | 193536 | [193536-lover-pretend.json](./193536-lover-pretend.json) |
+| Loverboy | 24906 | [24906-loverboy.json](./24906-loverboy.json) |
 | Loveressive | 194598 | [194598-loveressive.json](./194598-loveressive.json) |
 | Lovers ' Smiles 2 | 115637 | [115637-lovers-smiles-2.json](./115637-lovers-smiles-2.json) |
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
