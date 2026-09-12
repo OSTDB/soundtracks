@@ -1989,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
 | Sidewinder | 159249 | [159249-sidewinder.json](./159249-sidewinder.json) |
+| Sidewinder 2 | 66656 | [66656-sidewinder-2.json](./66656-sidewinder-2.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
@@ -4088,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
+| Spartacus: Blood and Sand | 66648 | [66648-spartacus-blood-and-sand.json](./66648-spartacus-blood-and-sand.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
 | Spartan Wars: Blood and Fire | 323185 | [323185-spartan-wars-blood-and-fire.json](./323185-spartan-wars-blood-and-fire.json) |
 | Spartan X | 214523 | [214523-spartan-x.json](./214523-spartan-x.json) |
@@ -5395,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
+| Story Maker | 66615 | [66615-story-maker.json](./66615-story-maker.json) |
 | Story of a Gladiator | 125747 | [125747-story-of-a-gladiator.json](./125747-story-of-a-gladiator.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
@@ -5604,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
 | Strip Breaker: Hentai Girls | 109695 | [109695-strip-breaker-hentai-girls.json](./109695-strip-breaker-hentai-girls.json) |
 | Strip Fighter 5: Chimpocon Edition | 185648 | [185648-strip-fighter-5-chimpocon-edition.json](./185648-strip-fighter-5-chimpocon-edition.json) |
+| Strip Fighter IV | 66652 | [66652-strip-fighter-iv.json](./66652-strip-fighter-iv.json) |
 | Strip n Play with Valerie | 221205 | [221205-strip-n-play-with-valerie.json](./221205-strip-n-play-with-valerie.json) |
 | Striping Fruits | 147410 | [147410-striping-fruits.json](./147410-striping-fruits.json) |
 | Stripper Anya 2: X-MiGuFighters | 75168 | [75168-stripper-anya-2-x-migufighters.json](./75168-stripper-anya-2-x-migufighters.json) |
@@ -5658,6 +5662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stump Simulator | 272284 | [272284-stump-simulator.json](./272284-stump-simulator.json) |
 | Stunt Destroyer | 204086 | [204086-stunt-destroyer.json](./204086-stunt-destroyer.json) |
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
+| Stunt Flyer | 66617 | [66617-stunt-flyer.json](./66617-stunt-flyer.json) |
 | Stunt Legends | 219583 | [219583-stunt-legends.json](./219583-stunt-legends.json) |
 | Stunt Paradise 2 | 389435 | [389435-stunt-paradise-2.json](./389435-stunt-paradise-2.json) |
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
@@ -6410,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Markup Man | 32037 | [32037-super-markup-man.json](./32037-super-markup-man.json) |
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Maura Bros. 3 | 267386 | [267386-super-maura-bros-3.json](./267386-super-maura-bros-3.json) |
+| Super Maze Wars | 66647 | [66647-super-maze-wars.json](./66647-super-maze-wars.json) |
 | Super Meat Boy Handheld! | 77317 | [77317-super-meat-boy-handheld.json](./77317-super-meat-boy-handheld.json) |
 | Super Meat Boy: The Game | 77316 | [77316-super-meat-boy-the-game.json](./77316-super-meat-boy-the-game.json) |
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
@@ -6587,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
+| Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
 | Super Strong Hero | 188005 | [188005-super-strong-hero.json](./188005-super-strong-hero.json) |
 | Super Stunt Spectacular | 208350 | [208350-super-stunt-spectacular.json](./208350-super-stunt-spectacular.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
