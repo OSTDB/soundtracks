@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Edge of Time | 118784 | [118784-doctor-who-the-edge-of-time.json](./118784-doctor-who-the-edge-of-time.json) |
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
+| Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
 | Dodge 'Em | 222892 | [222892-dodge-em.json](./222892-dodge-em.json) |
 | Dodge Barrage | 296369 | [296369-dodge-barrage.json](./296369-dodge-barrage.json) |
@@ -2565,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DownSouth | 391048 | [391048-downsouth.json](./391048-downsouth.json) |
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
+| Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
@@ -2685,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Final Bout | 229063 | [229063-dragon-ball-z-final-bout.json](./229063-dragon-ball-z-final-bout.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
 | Dragon Ball Z: Shin Budokai Another Road Revisited | 353308 | [353308-dragon-ball-z-shin-budokai-another-road-revisited.json](./353308-dragon-ball-z-shin-budokai-another-road-revisited.json) |
+| Dragon Ball Z: Shin Saiya-jin Zetsumetsu Keikaku - Chikyuu-hen | 66082 | [66082-dragon-ball-z-shin-saiya-jin-zetsumetsu-keikaku-chikyuu-hen.json](./66082-dragon-ball-z-shin-saiya-jin-zetsumetsu-keikaku-chikyuu-hen.json) |
 | Dragon Ball Z: Super Butouden | 2545 | [2545-dragon-ball-z-super-butouden.json](./2545-dragon-ball-z-super-butouden.json) |
 | Dragon Ball Z: Super Goku-den - Totsugeki-hen | 38396 | [38396-dragon-ball-z-super-goku-den-totsugeki-hen.json](./38396-dragon-ball-z-super-goku-den-totsugeki-hen.json) |
 | Dragon Ball Z: Taiketsu | 2580 | [2580-dragon-ball-z-taiketsu.json](./2580-dragon-ball-z-taiketsu.json) |
@@ -3358,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
+| Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
 | Dungeon Lord | 134610 | [134610-dungeon-lord.json](./134610-dungeon-lord.json) |
 | Dungeon Lords: The Orb and the Oracle | 72614 | [72614-dungeon-lords-the-orb-and-the-oracle.json](./72614-dungeon-lords-the-orb-and-the-oracle.json) |
