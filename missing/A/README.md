@@ -140,7 +140,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
-| Aba Daba | 84237 | [84237-aba-daba.json](./84237-aba-daba.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
