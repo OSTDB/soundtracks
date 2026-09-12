@@ -119,7 +119,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
-| A Walk in the Silent Street | 179114 | [179114-a-walk-in-the-silent-street.json](./179114-a-walk-in-the-silent-street.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A War On Christmas 3: World War C | 326632 | [326632-a-war-on-christmas-3-world-war-c.json](./326632-a-war-on-christmas-3-world-war-c.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
