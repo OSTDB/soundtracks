@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman No Constancy: Hard Mode | 269870 | [269870-rockman-no-constancy-hard-mode.json](./269870-rockman-no-constancy-hard-mode.json) |
 | Rockman Online | 66610 | [66610-rockman-online.json](./66610-rockman-online.json) |
 | Rockman The Puzzle Battle | 290956 | [290956-rockman-the-puzzle-battle.json](./290956-rockman-the-puzzle-battle.json) |
+| RockMan VII: Showdown of Destiny! | 42550 | [42550-rockman-vii-showdown-of-destiny.json](./42550-rockman-vii-showdown-of-destiny.json) |
 | Rockman X3 | 256302 | [256302-rockman-x3.json](./256302-rockman-x3.json) |
 | Rockman X3 Buster Battle | 225258 | [225258-rockman-x3-buster-battle.json](./225258-rockman-x3-buster-battle.json) |
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
