@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Shift | 338559 | [338559-v-shift.json](./338559-v-shift.json) |
 | V-Tennis | 20711 | [20711-v-tennis.json](./20711-v-tennis.json) |
 | V-Tennis 2 | 57712 | [57712-v-tennis-2.json](./57712-v-tennis-2.json) |
+| V-VR | 27739 | [27739-v-vr.json](./27739-v-vr.json) |
 | V-Ware | 250052 | [250052-v-ware.json](./250052-v-ware.json) |
 | V: The Video Game | 45313 | [45313-v-the-video-game.json](./45313-v-the-video-game.json) |
 | V.D.O | 201774 | [201774-v-d-o.json](./201774-v-d-o.json) |
@@ -153,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Family | 236837 | [236837-vampire-family.json](./236837-vampire-family.json) |
 | Vampire Girls | 243152 | [243152-vampire-girls.json](./243152-vampire-girls.json) |
 | Vampire Hunters | 244759 | [244759-vampire-hunters.json](./244759-vampire-hunters.json) |
+| Vampire Hunters | 27642 | [27642-vampire-hunters.json](./27642-vampire-hunters.json) |
 | Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
 | Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
 | Vampire Legends: Power of Three | 18308 | [18308-vampire-legends-power-of-three.json](./18308-vampire-legends-power-of-three.json) |
