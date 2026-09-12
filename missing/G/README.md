@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
 | Galaga Wave Mixer | 339253 | [339253-galaga-wave-mixer.json](./339253-galaga-wave-mixer.json) |
 | Galagi Shooter | 197342 | [197342-galagi-shooter.json](./197342-galagi-shooter.json) |
+| Galahad | 46595 | [46595-galahad.json](./46595-galahad.json) |
 | Galak-Z: The Virtual | 111039 | [111039-galak-z-the-virtual.json](./111039-galak-z-the-virtual.json) |
 | Galak-Z: The Void - Deluxe Edition | 115666 | [115666-galak-z-the-void-deluxe-edition.json](./115666-galak-z-the-void-deluxe-edition.json) |
 | Galak-Z: The Void / Skulls of the Shogun: Bone-A-Fide Edition - Platinum Pack | 173777 | [173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json](./173777-galak-z-the-void-skulls-of-the-shogun-bone-a-fide-edition-platinum-pack.json) |
@@ -448,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear Puzzle: the inheritance of grandpa | 120943 | [120943-gear-puzzle-the-inheritance-of-grandpa.json](./120943-gear-puzzle-the-inheritance-of-grandpa.json) |
 | Gear Senshi Dendoh | 19595 | [19595-gear-senshi-dendoh.json](./19595-gear-senshi-dendoh.json) |
 | Gear Slots | 389972 | [389972-gear-slots.json](./389972-gear-slots.json) |
+| Gear Stadium Heisei-ban | 46605 | [46605-gear-stadium-heisei-ban.json](./46605-gear-stadium-heisei-ban.json) |
 | Gear Up: Premium | 90552 | [90552-gear-up-premium.json](./90552-gear-up-premium.json) |
 | Gear.Club Unlimited 2: Tracks Edition | 139963 | [139963-gear-club-unlimited-2-tracks-edition.json](./139963-gear-club-unlimited-2-tracks-edition.json) |
 | Gear.Club Unlimited: Super Cars Pack | 238212 | [238212-gear-club-unlimited-super-cars-pack.json](./238212-gear-club-unlimited-super-cars-pack.json) |
@@ -702,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex 3: Deep Pocket Gecko | 49929 | [49929-gex-3-deep-pocket-gecko.json](./49929-gex-3-deep-pocket-gecko.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | GG Date Me | 178567 | [178567-gg-date-me.json](./178567-gg-date-me.json) |
+| GG Portrait: Pai-chan | 46602 | [46602-gg-portrait-pai-chan.json](./46602-gg-portrait-pai-chan.json) |
 | GGX: Great Grandma Escape | 200124 | [200124-ggx-great-grandma-escape.json](./200124-ggx-great-grandma-escape.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
@@ -829,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimme Five | 56468 | [56468-gimme-five.json](./56468-gimme-five.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
+| Gin Champion | 46581 | [46581-gin-champion.json](./46581-gin-champion.json) |
 | Gin's Gunstore | 355546 | [355546-gins-gunstore.json](./355546-gins-gunstore.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
 | Ginger Shroom Journey | 307914 | [307914-ginger-shroom-journey.json](./307914-ginger-shroom-journey.json) |
