@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
 | Make Candy | 175368 | [175368-make-candy.json](./175368-make-candy.json) |
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
+| Make It as an Artist | 29834 | [29834-make-it-as-an-artist.json](./29834-make-it-as-an-artist.json) |
 | Make It Cozy! | 409546 | [409546-make-it-cozy.json](./409546-make-it-cozy.json) |
 | Make It Fly! | 224014 | [224014-make-it-fly.json](./224014-make-it-fly.json) |
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
@@ -3069,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
 | MonkeyKing Chaos: VR | 286007 | [286007-monkeyking-chaos-vr.json](./286007-monkeyking-chaos-vr.json) |
+| MonkeyKing VR | 29748 | [29748-monkeyking-vr.json](./29748-monkeyking-vr.json) |
 | Monkeys | 314290 | [314290-monkeys.json](./314290-monkeys.json) |
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
