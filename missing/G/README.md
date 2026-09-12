@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
+| Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
 | Gekko and Luna Girl's Moths | 359430 | [359430-gekko-and-luna-girls-moths.json](./359430-gekko-and-luna-girls-moths.json) |
 | Gekko's Super Strength | 359431 | [359431-gekkos-super-strength.json](./359431-gekkos-super-strength.json) |
 | Gekkou no Carnevale | 137102 | [137102-gekkou-no-carnevale.json](./137102-gekkou-no-carnevale.json) |
@@ -1445,8 +1446,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
 | Gourgarion Incubus | 398348 | [398348-gourgarion-incubus.json](./398348-gourgarion-incubus.json) |
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
+| Gourmet Warriors | 42592 | [42592-gourmet-warriors.json](./42592-gourmet-warriors.json) |
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
+| GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
 | Grab | 202813 | [202813-grab.json](./202813-grab.json) |
@@ -2117,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunny | 117721 | [117721-gunny.json](./117721-gunny.json) |
 | Gunparade March | 64893 | [64893-gunparade-march.json](./64893-gunparade-march.json) |
 | Gunparade Orchestra: Ao no Shou | 64891 | [64891-gunparade-orchestra-ao-no-shou.json](./64891-gunparade-orchestra-ao-no-shou.json) |
+| Gunple: Gunman's Proof | 42590 | [42590-gunple-gunmans-proof.json](./42590-gunple-gunmans-proof.json) |
 | Gunpoint Gambit | 391036 | [391036-gunpoint-gambit.json](./391036-gunpoint-gambit.json) |
 | Gunpowder Massacre | 301259 | [301259-gunpowder-massacre.json](./301259-gunpowder-massacre.json) |
 | Gunpowder on the Teeth: Arcade | 113764 | [113764-gunpowder-on-the-teeth-arcade.json](./113764-gunpowder-on-the-teeth-arcade.json) |
