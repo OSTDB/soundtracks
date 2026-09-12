@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderLang French | 312549 | [312549-wonderlang-french.json](./312549-wonderlang-french.json) |
 | Wonders of Waldwea | 355557 | [355557-wonders-of-waldwea.json](./355557-wonders-of-waldwea.json) |
 | Wonderstries | 365059 | [365059-wonderstries.json](./365059-wonderstries.json) |
+| Wonderworld Amusement Park | 47968 | [47968-wonderworld-amusement-park.json](./47968-wonderworld-amusement-park.json) |
 | Wongo | 57073 | [57073-wongo.json](./57073-wongo.json) |
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
 | Wonka Block Party | 373531 | [373531-wonka-block-party.json](./373531-wonka-block-party.json) |
@@ -1590,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
 | World Cruise Story | 65518 | [65518-world-cruise-story.json](./65518-world-cruise-story.json) |
 | World Cup Carnival | 69817 | [69817-world-cup-carnival.json](./69817-world-cup-carnival.json) |
+| World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
 | World Cup USA 94 | 365669 | [365669-world-cup-usa-94.json](./365669-world-cup-usa-94.json) |
 | World Cup Year 94 | 57620 | [57620-world-cup-year-94.json](./57620-world-cup-year-94.json) |
