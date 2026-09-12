@@ -270,6 +270,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Half of Darkness | 80604 | [80604-last-half-of-darkness.json](./80604-last-half-of-darkness.json) |
 | Last Half of Darkness 3 | 65483 | [65483-last-half-of-darkness-3.json](./65483-last-half-of-darkness-3.json) |
 | Last Half of Darkness II | 65484 | [65484-last-half-of-darkness-ii.json](./65484-last-half-of-darkness-ii.json) |
+| Last Half of Darkness: Beyond the Spirit's Eye | 59957 | [59957-last-half-of-darkness-beyond-the-spirits-eye.json](./59957-last-half-of-darkness-beyond-the-spirits-eye.json) |
+| Last Half of Darkness: Shadows of the Servants | 59956 | [59956-last-half-of-darkness-shadows-of-the-servants.json](./59956-last-half-of-darkness-shadows-of-the-servants.json) |
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Helion | 317863 | [317863-last-helion.json](./317863-last-helion.json) |
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
@@ -498,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Sin: Ill-Boding | 301243 | [301243-legacy-of-sin-ill-boding.json](./301243-legacy-of-sin-ill-boding.json) |
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
 | Legacy of the Stones | 117730 | [117730-legacy-of-the-stones.json](./117730-legacy-of-the-stones.json) |
+| Legacy of the Times | 59964 | [59964-legacy-of-the-times.json](./59964-legacy-of-the-times.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
 | Legal Speed Racing | 90557 | [90557-legal-speed-racing.json](./90557-legal-speed-racing.json) |
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
