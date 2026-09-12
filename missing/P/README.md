@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancake House | 156698 | [156698-pancake-house.json](./156698-pancake-house.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | Panco's Journey | 109680 | [109680-pancos-journey.json](./109680-pancos-journey.json) |
+| Panda Chase | 40738 | [40738-panda-chase.json](./40738-panda-chase.json) |
 | Panda Choice Mahjong | 263502 | [263502-panda-choice-mahjong.json](./263502-panda-choice-mahjong.json) |
 | Panda Hero: Remastered | 143054 | [143054-panda-hero-remastered.json](./143054-panda-hero-remastered.json) |
 | Panda in the clouds | 165645 | [165645-panda-in-the-clouds.json](./165645-panda-in-the-clouds.json) |
@@ -464,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parfait Fan Box | 332428 | [332428-parfait-fan-box.json](./332428-parfait-fan-box.json) |
 | Parfait Remake: Complete Limited Edition | 159813 | [159813-parfait-remake-complete-limited-edition.json](./159813-parfait-remake-complete-limited-edition.json) |
 | Pari Delicto | 384531 | [384531-pari-delicto.json](./384531-pari-delicto.json) |
+| Paris Attack | 40764 | [40764-paris-attack.json](./40764-paris-attack.json) |
 | Paris Belle Epoque | 303270 | [303270-paris-belle-epoque.json](./303270-paris-belle-epoque.json) |
 | Paris Craft: Exploration of City of Love & Art | 96012 | [96012-paris-craft-exploration-of-city-of-love-and-art.json](./96012-paris-craft-exploration-of-city-of-love-and-art.json) |
 | Paris Saint-Germain Club Football 2005 | 267911 | [267911-paris-saint-germain-club-football-2005.json](./267911-paris-saint-germain-club-football-2005.json) |
@@ -839,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppered: An Existential Platformer | 170018 | [170018-peppered-an-existential-platformer.json](./170018-peppered-an-existential-platformer.json) |
 | Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
 | Peppy's Adventure | 152303 | [152303-peppys-adventure.json](./152303-peppys-adventure.json) |
+| Pepsi Invaders | 40715 | [40715-pepsi-invaders.json](./40715-pepsi-invaders.json) |
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
 | Per Aspera: Home | 232963 | [232963-per-aspera-home.json](./232963-per-aspera-home.json) |
 | Perceptio | 195167 | [195167-perceptio.json](./195167-perceptio.json) |
@@ -1169,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Piccross Adventure House | 102819 | [102819-piccross-adventure-house.json](./102819-piccross-adventure-house.json) |
 | Pichenette | 384530 | [384530-pichenette.json](./384530-pichenette.json) |
+| Pick 'n Pile | 40765 | [40765-pick-n-pile.json](./40765-pick-n-pile.json) |
 | Pick & Match | 87223 | [87223-pick-and-match.json](./87223-pick-and-match.json) |
 | Pick & Place | 402298 | [402298-pick-and-place.json](./402298-pick-and-place.json) |
 | Pick a Boo | 406116 | [406116-pick-a-boo.json](./406116-pick-a-boo.json) |
@@ -1669,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Bar Tycoon: Expansion Pack 1 | 237977 | [237977-pizza-bar-tycoon-expansion-pack-1.json](./237977-pizza-bar-tycoon-expansion-pack-1.json) |
 | Pizza Bar Tycoon: Expansion Pack 2 | 237978 | [237978-pizza-bar-tycoon-expansion-pack-2.json](./237978-pizza-bar-tycoon-expansion-pack-2.json) |
 | Pizza Boy | 94182 | [94182-pizza-boy.json](./94182-pizza-boy.json) |
+| Pizza Chef | 40758 | [40758-pizza-chef.json](./40758-pizza-chef.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Delivery Bagel | 209676 | [209676-pizza-delivery-bagel.json](./209676-pizza-delivery-bagel.json) |
@@ -2607,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
 | Pressure Cooker | 25732 | [25732-pressure-cooker.json](./25732-pressure-cooker.json) |
+| Pressure Gauge | 40756 | [40756-pressure-gauge.json](./40756-pressure-gauge.json) |
 | Prestigious School Story | 92461 | [92461-prestigious-school-story.json](./92461-prestigious-school-story.json) |
 | Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
