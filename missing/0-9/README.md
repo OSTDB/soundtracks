@@ -257,11 +257,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 28 Babes Later | 278676 | [278676-28-babes-later.json](./278676-28-babes-later.json) |
+| 28 Robots Later | 52546 | [52546-28-robots-later.json](./52546-28-robots-later.json) |
 | 280 Zzzap/Dodgem 2001 | 139471 | [139471-280-zzzap-dodgem-2001.json](./139471-280-zzzap-dodgem-2001.json) |
 | 2BBee | 261789 | [261789-2bbee.json](./261789-2bbee.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
+| 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
 | 2K Games Pack | 319564 | [319564-2k-games-pack.json](./319564-2k-games-pack.json) |
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
@@ -306,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
 | 3D Creation Station | 64907 | [64907-3d-creation-station.json](./64907-3d-creation-station.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
+| 3D Driving School | 52544 | [52544-3d-driving-school.json](./52544-3d-driving-school.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
@@ -385,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Days to Die: The Marauder Armor Set | 353299 | [353299-7-days-to-die-the-marauder-armor-set.json](./353299-7-days-to-die-the-marauder-armor-set.json) |
 | 7 Horizons | 210898 | [210898-7-horizons.json](./210898-7-horizons.json) |
 | 7 Little Words | 115641 | [115641-7-little-words.json](./115641-7-little-words.json) |
+| 7 Mages Complete | 52541 | [52541-7-mages-complete.json](./52541-7-mages-complete.json) |
 | 7 Planets | 175396 | [175396-7-planets.json](./175396-7-planets.json) |
 | 7 Sexy Sins | 127921 | [127921-7-sexy-sins.json](./127921-7-sexy-sins.json) |
 | 7 Soccer: a sci-fi soccer tale | 88178 | [88178-7-soccer-a-sci-fi-soccer-tale.json](./88178-7-soccer-a-sci-fi-soccer-tale.json) |
@@ -402,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Ball Pool | 39185 | [39185-8-ball-pool.json](./39185-8-ball-pool.json) |
 | 8 Bit Fighters | 233495 | [233495-8-bit-fighters.json](./233495-8-bit-fighters.json) |
 | 8 Bit Son-of-a-Bitch | 186235 | [186235-8-bit-son-of-a-bitch.json](./186235-8-bit-son-of-a-bitch.json) |
+| 8-Bit Complete Collection | 52540 | [52540-8-bit-complete-collection.json](./52540-8-bit-complete-collection.json) |
 | 8-Bit Slasher 4-in-1 Horror Demakes | 255083 | [255083-8-bit-slasher-4-in-1-horror-demakes.json](./255083-8-bit-slasher-4-in-1-horror-demakes.json) |
 | 80.08 | 54444 | [54444-80-08.json](./54444-80-08.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
