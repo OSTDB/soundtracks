@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
 | Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
 | Rapid Retort | 211186 | [211186-rapid-retort.json](./211186-rapid-retort.json) |
+| Rapid River | 65471 | [65471-rapid-river.json](./65471-rapid-river.json) |
 | Rapid Roll | 274733 | [274733-rapid-roll.json](./274733-rapid-roll.json) |
 | Rapid Stream 2 | 358846 | [358846-rapid-stream-2.json](./358846-rapid-stream-2.json) |
 | Rapid the Hedgehog | 330517 | [330517-rapid-the-hedgehog.json](./330517-rapid-the-hedgehog.json) |
@@ -1853,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
 | Rocketship Rescue | 178638 | [178638-rocketship-rescue.json](./178638-rocketship-rescue.json) |
 | RocketsRocketsRockets | 36342 | [36342-rocketsrocketsrockets.json](./36342-rocketsrocketsrockets.json) |
+| Rockett's New School | 65479 | [65479-rocketts-new-school.json](./65479-rocketts-new-school.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
 | Rocking on Heaven's Door | 176479 | [176479-rocking-on-heavens-door.json](./176479-rocking-on-heavens-door.json) |
 | RockinRoll | 78649 | [78649-rockinroll.json](./78649-rockinroll.json) |
@@ -2489,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
+| Rushing Heroes | 65472 | [65472-rushing-heroes.json](./65472-rushing-heroes.json) |
 | Rushing Punch | 270675 | [270675-rushing-punch.json](./270675-rushing-punch.json) |
 | RushLane | 243679 | [243679-rushlane.json](./243679-rushlane.json) |
 | Rushmith | 331877 | [331877-rushmith.json](./331877-rushmith.json) |
