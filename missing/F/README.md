@@ -2333,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
+| Frog Minutes | 66061 | [66061-frog-minutes.json](./66061-frog-minutes.json) |
 | Frog on Ice | 100884 | [100884-frog-on-ice.json](./100884-frog-on-ice.json) |
 | Frog Quest | 240235 | [240235-frog-quest.json](./240235-frog-quest.json) |
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
