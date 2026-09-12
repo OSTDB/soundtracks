@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Flesh Metal | 303511 | [303511-echo-flesh-metal.json](./303511-echo-flesh-metal.json) |
 | Echo Glass | 58215 | [58215-echo-glass.json](./58215-echo-glass.json) |
 | Echo in Capistrano | 303510 | [303510-echo-in-capistrano.json](./303510-echo-in-capistrano.json) |
+| Echo Night 2: Nemuri no Shihaisha | 43882 | [43882-echo-night-2-nemuri-no-shihaisha.json](./43882-echo-night-2-nemuri-no-shihaisha.json) |
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
 | Echo of Mobius | 303509 | [303509-echo-of-mobius.json](./303509-echo-of-mobius.json) |
 | Echo of Prypiat | 303508 | [303508-echo-of-prypiat.json](./303508-echo-of-prypiat.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euplectella | 339100 | [339100-euplectella.json](./339100-euplectella.json) |
 | Eureka | 298318 | [298318-eureka.json](./298318-eureka.json) |
 | Eureka | 322573 | [322573-eureka.json](./322573-eureka.json) |
+| Eureka Seven AO: Jungfrau no Hanabanatachi | 44590 | [44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json](./44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json) |
 | Eureka Seven Vol.1: The New Wave | 19641 | [19641-eureka-seven-vol-1-the-new-wave.json](./19641-eureka-seven-vol-1-the-new-wave.json) |
 | Eureka Seven: AO - The Flowers of Jungfrau | 64905 | [64905-eureka-seven-ao-the-flowers-of-jungfrau.json](./64905-eureka-seven-ao-the-flowers-of-jungfrau.json) |
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
