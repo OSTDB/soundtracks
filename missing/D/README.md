@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Desire Mute 5 | 250029 | [250029-dark-desire-mute-5.json](./250029-dark-desire-mute-5.json) |
 | Dark Desire Mute 6 | 260412 | [260412-dark-desire-mute-6.json](./260412-dark-desire-mute-6.json) |
 | Dark Dimensions: City of Ash - Collector's Edition | 74352 | [74352-dark-dimensions-city-of-ash-collectors-edition.json](./74352-dark-dimensions-city-of-ash-collectors-edition.json) |
+| Dark Dimensions: City of Fog - Collector's Edition | 29811 | [29811-dark-dimensions-city-of-fog-collectors-edition.json](./29811-dark-dimensions-city-of-fog-collectors-edition.json) |
 | Dark Disciples II | 168324 | [168324-dark-disciples-ii.json](./168324-dark-disciples-ii.json) |
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Egg | 213974 | [213974-dark-egg.json](./213974-dark-egg.json) |
@@ -338,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Ballad of Rapunzel - Collector's Edition | 36466 | [36466-dark-parables-ballad-of-rapunzel-collectors-edition.json](./36466-dark-parables-ballad-of-rapunzel-collectors-edition.json) |
 | Dark Parables: Curse of Briar Rose | 63303 | [63303-dark-parables-curse-of-briar-rose.json](./63303-dark-parables-curse-of-briar-rose.json) |
 | Dark Parables: Goldilocks and the Fallen Star - Collector's Edition | 61593 | [61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json](./61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json) |
+| Dark Parables: Jack and the Sky Kingdom - Collector's Edition | 29809 | [29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json](./29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
 | Dark Parables: The Match Girl's Lost Paradise | 123635 | [123635-dark-parables-the-match-girls-lost-paradise.json](./123635-dark-parables-the-match-girls-lost-paradise.json) |
 | Dark Parables: The Match Girl's Lost Paradise - Collector's Edition | 111694 | [111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json](./111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json) |
@@ -1206,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Killer | 349847 | [349847-demon-killer.json](./349847-demon-killer.json) |
 | Demon Kingdom | 303470 | [303470-demon-kingdom.json](./303470-demon-kingdom.json) |
 | Demon Knight | 38922 | [38922-demon-knight.json](./38922-demon-knight.json) |
+| Demon Lord | 29776 | [29776-demon-lord.json](./29776-demon-lord.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
@@ -1672,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
 | Diesel Express VR | 41968 | [41968-diesel-express-vr.json](./41968-diesel-express-vr.json) |
+| Diesel Power | 29805 | [29805-diesel-power.json](./29805-diesel-power.json) |
 | Diet Family | 267649 | [267649-diet-family.json](./267649-diet-family.json) |
 | Diet GoGo | 145604 | [145604-diet-gogo.json](./145604-diet-gogo.json) |
 | Diets and Deities | 244268 | [244268-diets-and-deities.json](./244268-diets-and-deities.json) |
@@ -1750,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Dexterity | 252179 | [252179-dimensional-dexterity.json](./252179-dimensional-dexterity.json) |
 | Dimensional Double Shift | 317856 | [317856-dimensional-double-shift.json](./317856-dimensional-double-shift.json) |
 | Dimensional Illusion | 324879 | [324879-dimensional-illusion.json](./324879-dimensional-illusion.json) |
+| Dimensional Rift | 29746 | [29746-dimensional-rift.json](./29746-dimensional-rift.json) |
 | Dimensional Shift Awakening | 277268 | [277268-dimensional-shift-awakening.json](./277268-dimensional-shift-awakening.json) |
 | Dimensional Slaughter | 209696 | [209696-dimensional-slaughter.json](./209696-dimensional-slaughter.json) |
 | DimensionalDoors | 232666 | [232666-dimensionaldoors.json](./232666-dimensionaldoors.json) |
@@ -2981,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
+| Draw the Way | 29833 | [29833-draw-the-way.json](./29833-draw-the-way.json) |
 | Draw Two Save: Save the man | 197363 | [197363-draw-two-save-save-the-man.json](./197363-draw-two-save-save-the-man.json) |
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Draw-A-Mountain | 185098 | [185098-draw-a-mountain.json](./185098-draw-a-mountain.json) |
