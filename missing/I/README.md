@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incline | 67935 | [67935-incline.json](./67935-incline.json) |
 | Incognito | 35782 | [35782-incognito.json](./35782-incognito.json) |
 | Incompatible Fusion Machine | 312585 | [312585-incompatible-fusion-machine.json](./312585-incompatible-fusion-machine.json) |
+| Incompatible Species | 55129 | [55129-incompatible-species.json](./55129-incompatible-species.json) |
 | Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
 | Incredible Dracula II: The Last Call - Collector's Edition | 29924 | [29924-incredible-dracula-ii-the-last-call-collectors-edition.json](./29924-incredible-dracula-ii-the-last-call-collectors-edition.json) |
 | Incredible Dracula: Academy of Shadows | 340749 | [340749-incredible-dracula-academy-of-shadows.json](./340749-incredible-dracula-academy-of-shadows.json) |
@@ -837,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 2: Brainiac | 165042 | [165042-injustice-2-brainiac.json](./165042-injustice-2-brainiac.json) |
 | Injustice 2: Darkseid | 165043 | [165043-injustice-2-darkseid.json](./165043-injustice-2-darkseid.json) |
 | Injustice 2: Enchantress | 165036 | [165036-injustice-2-enchantress.json](./165036-injustice-2-enchantress.json) |
+| Injustice 2: Fighter Pack 2 | 55046 | [55046-injustice-2-fighter-pack-2.json](./55046-injustice-2-fighter-pack-2.json) |
 | Injustice 2: Red Hood | 165037 | [165037-injustice-2-red-hood.json](./165037-injustice-2-red-hood.json) |
 | Injustice 2: Starfire | 165038 | [165038-injustice-2-starfire.json](./165038-injustice-2-starfire.json) |
 | Injustice 2: The Atom | 165044 | [165044-injustice-2-the-atom.json](./165044-injustice-2-the-atom.json) |
