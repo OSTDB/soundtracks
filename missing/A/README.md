@@ -629,6 +629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
+| Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
 | AereA: Collector's Edition | 166237 | [166237-aerea-collectors-edition.json](./166237-aerea-collectors-edition.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Austen | 232175 | [232175-aerial-austen.json](./232175-aerial-austen.json) |
@@ -1055,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aker Fern | 143726 | [143726-aker-fern.json](./143726-aker-fern.json) |
 | Aker Fern: Rdzeń Szatrisa - The Shatris Core. | 248671 | [248671-aker-fern-rdzen-szatrisa-the-shatris-core.json](./248671-aker-fern-rdzen-szatrisa-the-shatris-core.json) |
 | AkeriaTD | 288749 | [288749-akeriatd.json](./288749-akeriatd.json) |
+| Akhenaten: Rule as Pharaoh | 75027 | [75027-akhenaten-rule-as-pharaoh.json](./75027-akhenaten-rule-as-pharaoh.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
@@ -3349,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awkward Goalie | 246962 | [246962-awkward-goalie.json](./246962-awkward-goalie.json) |
 | Awoken Madness | 271201 | [271201-awoken-madness.json](./271201-awoken-madness.json) |
 | Awoken: Chapter One of Reverie | 168849 | [168849-awoken-chapter-one-of-reverie.json](./168849-awoken-chapter-one-of-reverie.json) |
+| AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
 | AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
