@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
 | Dark Parables: Ballad of Rapunzel - Collector's Edition | 36466 | [36466-dark-parables-ballad-of-rapunzel-collectors-edition.json](./36466-dark-parables-ballad-of-rapunzel-collectors-edition.json) |
 | Dark Parables: Curse of Briar Rose | 63303 | [63303-dark-parables-curse-of-briar-rose.json](./63303-dark-parables-curse-of-briar-rose.json) |
+| Dark Parables: Goldilocks and the Fallen Star - Collector's Edition | 61593 | [61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json](./61593-dark-parables-goldilocks-and-the-fallen-star-collectors-edition.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
 | Dark Parables: The Match Girl's Lost Paradise | 123635 | [123635-dark-parables-the-match-girls-lost-paradise.json](./123635-dark-parables-the-match-girls-lost-paradise.json) |
 | Dark Parables: The Match Girl's Lost Paradise - Collector's Edition | 111694 | [111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json](./111694-dark-parables-the-match-girls-lost-paradise-collectors-edition.json) |
