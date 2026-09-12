@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
 | Tap to Build | 245337 | [245337-tap-to-build.json](./245337-tap-to-build.json) |
 | Tap Tricks | 176962 | [176962-tap-tricks.json](./176962-tap-tricks.json) |
+| Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
 | Tap-Tap Shots | 287090 | [287090-tap-tap-shots.json](./287090-tap-tap-shots.json) |
 | Tap! Dig! My Museum! | 197353 | [197353-tap-dig-my-museum.json](./197353-tap-dig-my-museum.json) |
 | TapColors | 89712 | [89712-tapcolors.json](./89712-tapcolors.json) |
@@ -4669,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Ombo | 105914 | [105914-tiki-ombo.json](./105914-tiki-ombo.json) |
 | Tiki Resort | 92444 | [92444-tiki-resort.json](./92444-tiki-resort.json) |
 | Tiki Taka Soccer | 58219 | [58219-tiki-taka-soccer.json](./58219-tiki-taka-soccer.json) |
+| Tiki Taka World Soccer | 58217 | [58217-tiki-taka-world-soccer.json](./58217-tiki-taka-world-soccer.json) |
 | Tiki Tandems | 272263 | [272263-tiki-tandems.json](./272263-tiki-tandems.json) |
 | Tiki Tiki Hop | 209672 | [209672-tiki-tiki-hop.json](./209672-tiki-tiki-hop.json) |
 | Tiki Towers | 79912 | [79912-tiki-towers.json](./79912-tiki-towers.json) |
@@ -5379,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Battle Tank 3D-3 | 58832 | [58832-touch-battle-tank-3d-3.json](./58832-touch-battle-tank-3d-3.json) |
 | Touch Battle Tank SP | 55908 | [55908-touch-battle-tank-sp.json](./55908-touch-battle-tank-sp.json) |
 | Touch Carrom: Striker Edition | 239887 | [239887-touch-carrom-striker-edition.json](./239887-touch-carrom-striker-edition.json) |
+| Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
 | Touch Fish | 348258 | [348258-touch-fish.json](./348258-touch-fish.json) |
 | Touch Me | 400211 | [400211-touch-me.json](./400211-touch-me.json) |
 | Touch Melo | 312904 | [312904-touch-melo.json](./312904-touch-melo.json) |
@@ -6199,6 +6202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
+| Tricolore Crise | 58170 | [58170-tricolore-crise.json](./58170-tricolore-crise.json) |
 | TriDefense | 63229 | [63229-tridefense.json](./63229-tridefense.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
