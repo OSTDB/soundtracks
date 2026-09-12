@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory of Sweets | 151129 | [151129-factory-of-sweets.json](./151129-factory-of-sweets.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
+| Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Faded Grey | 166729 | [166729-faded-grey.json](./166729-faded-grey.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
 | Faded Memories | 130321 | [130321-faded-memories.json](./130321-faded-memories.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
+| Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
 | Frog And Roll | 266810 | [266810-frog-and-roll.json](./266810-frog-and-roll.json) |
@@ -2549,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Funbag Fantasy 2 | 127948 | [127948-funbag-fantasy-2.json](./127948-funbag-fantasy-2.json) |
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
+| Function.Repair | 63827 | [63827-function-repair.json](./63827-function-repair.json) |
 | Funeral for the Sun | 385063 | [385063-funeral-for-the-sun.json](./385063-funeral-for-the-sun.json) |
 | Funeral Toll | 272837 | [272837-funeral-toll.json](./272837-funeral-toll.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
