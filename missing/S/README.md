@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Halloween | 135891 | [135891-sakura-halloween.json](./135891-sakura-halloween.json) |
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
 | Sakura Knight 2 | 137622 | [137622-sakura-knight-2.json](./137622-sakura-knight-2.json) |
+| Sakura Machizaka Stories Vol. 1 | 77946 | [77946-sakura-machizaka-stories-vol-1.json](./77946-sakura-machizaka-stories-vol-1.json) |
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
@@ -1632,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei V: Vengeance - Mitama Dance of Wealth | 315482 | [315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json](./315482-shin-megami-tensei-v-vengeance-mitama-dance-of-wealth.json) |
 | Shin Megami Tensei Vertex | 142491 | [142491-shin-megami-tensei-vertex.json](./142491-shin-megami-tensei-vertex.json) |
 | Shin Megami Tensei: 20XX Devil's Colosseum | 137685 | [137685-shin-megami-tensei-20xx-devils-colosseum.json](./137685-shin-megami-tensei-20xx-devils-colosseum.json) |
+| Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
 | Shin Megami Tensei: Devil Summoner - Soul Hackers | 281414 | [281414-shin-megami-tensei-devil-summoner-soul-hackers.json](./281414-shin-megami-tensei-devil-summoner-soul-hackers.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
@@ -2038,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silhouette of Fear | 358889 | [358889-silhouette-of-fear.json](./358889-silhouette-of-fear.json) |
 | Silhouette Stories | 198550 | [198550-silhouette-stories.json](./198550-silhouette-stories.json) |
 | SilhouetteGirl Zan | 233219 | [233219-silhouettegirl-zan.json](./233219-silhouettegirl-zan.json) |
+| Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon War: Blitz | 295520 | [295520-silicon-war-blitz.json](./295520-silicon-war-blitz.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Silky Road | 355565 | [355565-silky-road.json](./355565-silky-road.json) |
@@ -2077,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity Creator | 343813 | [343813-simcity-creator.json](./343813-simcity-creator.json) |
 | SimCity DS | 1494 | [1494-simcity-ds.json](./1494-simcity-ds.json) |
 | SimCity Graphics Set 1: Ancient Cities | 84170 | [84170-simcity-graphics-set-1-ancient-cities.json](./84170-simcity-graphics-set-1-ancient-cities.json) |
+| SimCity Graphics Set 2: Future Cities | 77969 | [77969-simcity-graphics-set-2-future-cities.json](./77969-simcity-graphics-set-2-future-cities.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
 | SimClassics: 3 in 1 Pack | 86030 | [86030-simclassics-3-in-1-pack.json](./86030-simclassics-3-in-1-pack.json) |
 | SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
@@ -2174,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Breaker Rig | 238736 | [238736-sin-breaker-rig.json](./238736-sin-breaker-rig.json) |
 | Sin Cards: Welcome to the Netherworld | 337084 | [337084-sin-cards-welcome-to-the-netherworld.json](./337084-sin-cards-welcome-to-the-netherworld.json) |
 | Sin Chronicle | 172765 | [172765-sin-chronicle.json](./172765-sin-chronicle.json) |
+| Sin City | 77967 | [77967-sin-city.json](./77967-sin-city.json) |
 | SiN Episodes: Emergence | 14788 | [14788-sin-episodes-emergence.json](./14788-sin-episodes-emergence.json) |
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
 | Sin Slayers: Pharmacist | 155061 | [155061-sin-slayers-pharmacist.json](./155061-sin-slayers-pharmacist.json) |
@@ -2529,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
 | Sleeping Flowers: Thread Curse | 233490 | [233490-sleeping-flowers-thread-curse.json](./233490-sleeping-flowers-thread-curse.json) |
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
+| Sleeping Prince | 77966 | [77966-sleeping-prince.json](./77966-sleeping-prince.json) |
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
@@ -5414,6 +5420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
 | Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
 | Street Fighter IV | 884 | [884-street-fighter-iv.json](./884-street-fighter-iv.json) |
+| Street Fighter IV: Champion Edition | 77952 | [77952-street-fighter-iv-champion-edition.json](./77952-street-fighter-iv-champion-edition.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
