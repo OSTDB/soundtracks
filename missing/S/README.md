@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
 | September is Halfway Over | 131552 | [131552-september-is-halfway-over.json](./131552-september-is-halfway-over.json) |
 | Septic | 324321 | [324321-septic.json](./324321-septic.json) |
+| Septic Savages | 30853 | [30853-septic-savages.json](./30853-septic-savages.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
 | Sequoia | 185595 | [185595-sequoia.json](./185595-sequoia.json) |
@@ -2872,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slowly Fighter | 333926 | [333926-slowly-fighter.json](./333926-slowly-fighter.json) |
 | Sludge & Sorcery | 183005 | [183005-sludge-and-sorcery.json](./183005-sludge-and-sorcery.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
+| Sluggish Morss: Days of the Purple Sun | 30831 | [30831-sluggish-morss-days-of-the-purple-sun.json](./30831-sluggish-morss-days-of-the-purple-sun.json) |
 | Sluggy Jean Takes a Hike | 169365 | [169365-sluggy-jean-takes-a-hike.json](./169365-sluggy-jean-takes-a-hike.json) |
 | Slugmania | 225098 | [225098-slugmania.json](./225098-slugmania.json) |
 | Slugterra: Dark Waters | 327630 | [327630-slugterra-dark-waters.json](./327630-slugterra-dark-waters.json) |
@@ -3824,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer of Revenge | 134636 | [134636-sorcerer-of-revenge.json](./134636-sorcerer-of-revenge.json) |
 | Sorcerer Standoff | 219590 | [219590-sorcerer-standoff.json](./219590-sorcerer-standoff.json) |
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
+| Sorcerers of Kinetics | 30824 | [30824-sorcerers-of-kinetics.json](./30824-sorcerers-of-kinetics.json) |
 | Sorceress Elisha's Hypnotized & Lent-Out Log | 98452 | [98452-sorceress-elishas-hypnotized-and-lent-out-log.json](./98452-sorceress-elishas-hypnotized-and-lent-out-log.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
@@ -4013,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bar at the End of the Galaxy | 171005 | [171005-space-bar-at-the-end-of-the-galaxy.json](./171005-space-bar-at-the-end-of-the-galaxy.json) |
 | Space Battle | 328486 | [328486-space-battle.json](./328486-space-battle.json) |
 | Space Battle: Sea Battle | 264906 | [264906-space-battle-sea-battle.json](./264906-space-battle-sea-battle.json) |
+| Space Beret | 30794 | [30794-space-beret.json](./30794-space-beret.json) |
 | Space Berserker | 82929 | [82929-space-berserker.json](./82929-space-berserker.json) |
 | Space Betrayers | 188068 | [188068-space-betrayers.json](./188068-space-betrayers.json) |
 | Space Blaze | 127182 | [127182-space-blaze.json](./127182-space-blaze.json) |
@@ -5146,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
 | Star-Rocket Strike | 90616 | [90616-star-rocket-strike.json](./90616-star-rocket-strike.json) |
+| Star-Twine | 30800 | [30800-star-twine.json](./30800-star-twine.json) |
 | Star-Wired | 310939 | [310939-star-wired.json](./310939-star-wired.json) |
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
 | Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
@@ -6182,6 +6187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sulfur | 261285 | [261285-sulfur.json](./261285-sulfur.json) |
 | Sulfur Ignition | 352224 | [352224-sulfur-ignition.json](./352224-sulfur-ignition.json) |
 | Sulkyland | 214529 | [214529-sulkyland.json](./214529-sulkyland.json) |
+| Sullen | 30809 | [30809-sullen.json](./30809-sullen.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
@@ -7062,6 +7068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
 | SuperMash | 127307 | [127307-supermash.json](./127307-supermash.json) |
 | Supermodel Gail McKenna | 254502 | [254502-supermodel-gail-mckenna.json](./254502-supermodel-gail-mckenna.json) |
+| SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
 | Supermoves: World of Parkour | 280450 | [280450-supermoves-world-of-parkour.json](./280450-supermoves-world-of-parkour.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
 | Supernatural Story | 129714 | [129714-supernatural-story.json](./129714-supernatural-story.json) |
