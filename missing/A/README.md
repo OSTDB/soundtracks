@@ -172,7 +172,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
-| AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
 | Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
 | Abrix for kids | 32440 | [32440-abrix-for-kids.json](./32440-abrix-for-kids.json) |
