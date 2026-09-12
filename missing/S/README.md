@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
 | Save The Babies | 335260 | [335260-save-the-babies.json](./335260-save-the-babies.json) |
 | Save the City | 359440 | [359440-save-the-city.json](./359440-save-the-city.json) |
+| Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
@@ -2778,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Experiments | 265148 | [265148-slime-experiments.json](./265148-slime-experiments.json) |
 | Slime Factory | 367980 | [367980-slime-factory.json](./367980-slime-factory.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
+| Slime Jumper | 34316 | [34316-slime-jumper.json](./34316-slime-jumper.json) |
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
 | Slime Legion | 242238 | [242238-slime-legion.json](./242238-slime-legion.json) |
@@ -3268,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Hero! | 103526 | [103526-soccer-hero.json](./103526-soccer-hero.json) |
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
 | Soccer Manager 2015 | 35594 | [35594-soccer-manager-2015.json](./35594-soccer-manager-2015.json) |
+| Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
@@ -5325,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshot | 151181 | [151181-starshot.json](./151181-starshot.json) |
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
 | Starsiege: Tribes | 881 | [881-starsiege-tribes.json](./881-starsiege-tribes.json) |
+| Starsphere | 34321 | [34321-starsphere.json](./34321-starsphere.json) |
 | Starstride | 264622 | [264622-starstride.json](./264622-starstride.json) |
 | Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
 | Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
@@ -7020,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
+| Superku | 34343 | [34343-superku.json](./34343-superku.json) |
 | SuperLandlady | 237657 | [237657-superlandlady.json](./237657-superlandlady.json) |
 | SuperLite 1500 Series: Qix 2000 | 97320 | [97320-superlite-1500-series-qix-2000.json](./97320-superlite-1500-series-qix-2000.json) |
 | SuperLite 1500: Crazy Balloon 2000 | 97323 | [97323-superlite-1500-crazy-balloon-2000.json](./97323-superlite-1500-crazy-balloon-2000.json) |
