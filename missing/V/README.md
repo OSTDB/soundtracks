@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
 | VR Sweet Heart | 193450 | [193450-vr-sweet-heart.json](./193450-vr-sweet-heart.json) |
+| VR Table Sports | 50548 | [50548-vr-table-sports.json](./50548-vr-table-sports.json) |
 | VR The Diner Duo | 25118 | [25118-vr-the-diner-duo.json](./25118-vr-the-diner-duo.json) |
 | VR Time Machine Travelling in History: Visit ancient Egypt, Babylon and Greece in B.C. 400 | 150648 | [150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json](./150648-vr-time-machine-travelling-in-history-visit-ancient-egypt-babylon-and-greece-in-b-c-400.json) |
 | VR Tractor Farming | 248032 | [248032-vr-tractor-farming.json](./248032-vr-tractor-farming.json) |
