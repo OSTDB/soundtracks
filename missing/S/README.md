@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
+| Sand Scorpion | 40184 | [40184-sand-scorpion.json](./40184-sand-scorpion.json) |
 | Sand Seeker | 390504 | [390504-sand-seeker.json](./390504-sand-seeker.json) |
 | Sand Storm | 81422 | [81422-sand-storm.json](./81422-sand-storm.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
@@ -449,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapper: Defuse the Bomb Simulator | 118439 | [118439-sapper-defuse-the-bomb-simulator.json](./118439-sapper-defuse-the-bomb-simulator.json) |
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
 | Sapphire Moon: Forever Memories | 215669 | [215669-sapphire-moon-forever-memories.json](./215669-sapphire-moon-forever-memories.json) |
+| SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
 | Sarah, you are way too heavy | 118364 | [118364-sarah-you-are-way-too-heavy.json](./118364-sarah-you-are-way-too-heavy.json) |
 | Sarah: Story of a Young Thief | 302967 | [302967-sarah-story-of-a-young-thief.json](./302967-sarah-story-of-a-young-thief.json) |
@@ -681,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoop Kick! | 190175 | [190175-scoop-kick.json](./190175-scoop-kick.json) |
 | Scoop'n Birds | 86076 | [86076-scoopn-birds.json](./86076-scoopn-birds.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
+| Scooter Shooter | 40199 | [40199-scooter-shooter.json](./40199-scooter-shooter.json) |
 | Scooter Slayer | 358885 | [358885-scooter-slayer.json](./358885-scooter-slayer.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scopophobia | 361678 | [361678-scopophobia.json](./361678-scopophobia.json) |
@@ -743,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
 | Scramble Up! | 324316 | [324316-scramble-up.json](./324316-scramble-up.json) |
 | Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
+| Scrambled Egg | 40198 | [40198-scrambled-egg.json](./40198-scrambled-egg.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
 | Scrap Dealer Simulator | 334136 | [334136-scrap-dealer-simulator.json](./334136-scrap-dealer-simulator.json) |
@@ -3356,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
 | Soldier Front 2 | 63308 | [63308-soldier-front-2.json](./63308-soldier-front-2.json) |
+| Soldier Girl Amazon | 40170 | [40170-soldier-girl-amazon.json](./40170-soldier-girl-amazon.json) |
 | Soldier of Failure 2 | 74356 | [74356-soldier-of-failure-2.json](./74356-soldier-of-failure-2.json) |
 | Soldier of Fortune II: Double Helix - Gold Edition | 154525 | [154525-soldier-of-fortune-ii-double-helix-gold-edition.json](./154525-soldier-of-fortune-ii-double-helix-gold-edition.json) |
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
@@ -4243,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
 | Spark in the Dark | 140616 | [140616-spark-in-the-dark.json](./140616-spark-in-the-dark.json) |
+| Spark Man | 40169 | [40169-spark-man.json](./40169-spark-man.json) |
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
 | Sparked | 382199 | [382199-sparked.json](./382199-sparked.json) |
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
@@ -4266,6 +4272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
 | Spatial Ops | 324913 | [324913-spatial-ops.json](./324913-spatial-ops.json) |
 | Spatium Locus | 139361 | [139361-spatium-locus.json](./139361-spatium-locus.json) |
+| Spatter | 40168 | [40168-spatter.json](./40168-spatter.json) |
 | Spattle Cats | 115045 | [115045-spattle-cats.json](./115045-spattle-cats.json) |
 | Spawn | 49969 | [49969-spawn.json](./49969-spawn.json) |
 | Spawn of Evil | 45310 | [45310-spawn-of-evil.json](./45310-spawn-of-evil.json) |
@@ -4575,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatterhouse | 6929 | [6929-splatterhouse.json](./6929-splatterhouse.json) |
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
+| Splendor Blast | 40164 | [40164-splendor-blast.json](./40164-splendor-blast.json) |
 | Splendor: The Cities | 162870 | [162870-splendor-the-cities.json](./162870-splendor-the-cities.json) |
 | Splendor: The Strongholds | 172174 | [172174-splendor-the-strongholds.json](./172174-splendor-the-strongholds.json) |
 | Splett | 342660 | [342660-splett.json](./342660-splett.json) |
