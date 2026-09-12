@@ -38,13 +38,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zagan Must Be Rescued | 163907 | [163907-zagan-must-be-rescued.json](./163907-zagan-must-be-rescued.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
 | Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kyouryoku: Kanken DS Training | 123032 | [123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json](./123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json) |
+| Zaitaku Touhyou System: Spat4-Wide | 37749 | [37749-zaitaku-touhyou-system-spat4-wide.json](./37749-zaitaku-touhyou-system-spat4-wide.json) |
 | Zak's Son | 94673 | [94673-zaks-son.json](./94673-zaks-son.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
+| Zakuro no Aji | 37748 | [37748-zakuro-no-aji.json](./37748-zakuro-no-aji.json) |
 | Zalera Spark | 310935 | [310935-zalera-spark.json](./310935-zalera-spark.json) |
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | ZampanioSimulator | 260135 | [260135-zampaniosimulator.json](./260135-zampaniosimulator.json) |
 | Zamzara | 74429 | [74429-zamzara.json](./74429-zamzara.json) |
 | Zan Gear | 46553 | [46553-zan-gear.json](./46553-zan-gear.json) |
+| Zan II: Spirits | 37747 | [37747-zan-ii-spirits.json](./37747-zan-ii-spirits.json) |
+| Zan III Spirits | 37746 | [37746-zan-iii-spirits.json](./37746-zan-iii-spirits.json) |
 | Zanac | 292025 | [292025-zanac.json](./292025-zanac.json) |
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
 | Zanfium Tower | 173838 | [173838-zanfium-tower.json](./173838-zanfium-tower.json) |
@@ -110,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZenBlade | 58268 | [58268-zenblade.json](./58268-zenblade.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
+| Zengoku Juudan Ultra Shinri Game | 37745 | [37745-zengoku-juudan-ultra-shinri-game.json](./37745-zengoku-juudan-ultra-shinri-game.json) |
 | Zenith Heroes | 306371 | [306371-zenith-heroes.json](./306371-zenith-heroes.json) |
 | Zenith Hunter | 107816 | [107816-zenith-hunter.json](./107816-zenith-hunter.json) |
 | Zenith Trace | 379879 | [379879-zenith-trace.json](./379879-zenith-trace.json) |
@@ -444,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoomalia | 376443 | [376443-zoomalia.json](./376443-zoomalia.json) |
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
+| Zootto Mahjong! | 37744 | [37744-zootto-mahjong.json](./37744-zootto-mahjong.json) |
 | ZooZooGo! | 64396 | [64396-zoozoogo.json](./64396-zoozoogo.json) |
 | Zoria: Age of Shattering - Ancestors' Weapon Pack | 402944 | [402944-zoria-age-of-shattering-ancestors-weapon-pack.json](./402944-zoria-age-of-shattering-ancestors-weapon-pack.json) |
 | Zorpon | 208413 | [208413-zorpon.json](./208413-zorpon.json) |
