@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Paravia and Fiumaccio | 93011 | [93011-santa-paravia-and-fiumaccio.json](./93011-santa-paravia-and-fiumaccio.json) |
 | Santa Present Defense | 183510 | [183510-santa-present-defense.json](./183510-santa-present-defense.json) |
 | Santa Protects the Christmas Tree | 190133 | [190133-santa-protects-the-christmas-tree.json](./190133-santa-protects-the-christmas-tree.json) |
+| Santa Rockstar HD | 57060 | [57060-santa-rockstar-hd.json](./57060-santa-rockstar-hd.json) |
 | Santa Rockstar: Steam Edition | 90562 | [90562-santa-rockstar-steam-edition.json](./90562-santa-rockstar-steam-edition.json) |
 | Santa Runner | 111687 | [111687-santa-runner.json](./111687-santa-runner.json) |
 | Santa Showdown | 141898 | [141898-santa-showdown.json](./141898-santa-showdown.json) |
@@ -5105,6 +5106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
 | Starship | 271761 | [271761-starship.json](./271761-starship.json) |
+| Starship Assassin | 57061 | [57061-starship-assassin.json](./57061-starship-assassin.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
 | Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
