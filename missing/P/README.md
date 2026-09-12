@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periphery Synthetic | 215696 | [215696-periphery-synthetic.json](./215696-periphery-synthetic.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
 | Perk Up | 372990 | [372990-perk-up.json](./372990-perk-up.json) |
+| Perkele! Suomi 100 vuotta | 74390 | [74390-perkele-suomi-100-vuotta.json](./74390-perkele-suomi-100-vuotta.json) |
 | Perky Little Things | 90825 | [90825-perky-little-things.json](./90825-perky-little-things.json) |
 | Permadeath | 337442 | [337442-permadeath.json](./337442-permadeath.json) |
 | Permafrost | 202319 | [202319-permafrost.json](./202319-permafrost.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phyakh | 221168 | [221168-phyakh.json](./221168-phyakh.json) |
 | Phylomortis: Avant-Garde | 356636 | [356636-phylomortis-avant-garde.json](./356636-phylomortis-avant-garde.json) |
 | Phyrexia | 208055 | [208055-phyrexia.json](./208055-phyrexia.json) |
+| Physical Contact: Picture Place | 74348 | [74348-physical-contact-picture-place.json](./74348-physical-contact-picture-place.json) |
 | Physical Spheres | 305519 | [305519-physical-spheres.json](./305519-physical-spheres.json) |
 | Physical Train: Chamland National Railway | 374625 | [374625-physical-train-chamland-national-railway.json](./374625-physical-train-chamland-national-railway.json) |
 | Physicality | 202361 | [202361-physicality.json](./202361-physicality.json) |
@@ -1221,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilapa Boom | 186325 | [186325-pilapa-boom.json](./186325-pilapa-boom.json) |
 | Pilapila | 296109 | [296109-pilapila.json](./296109-pilapila.json) |
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
+| Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
 | Pillars of Eternity II: Deadfire | 26951 | [26951-pillars-of-eternity-ii-deadfire.json](./26951-pillars-of-eternity-ii-deadfire.json) |
@@ -1300,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: The Walking Dead Pinball | 164001 | [164001-pinball-fx3-the-walking-dead-pinball.json](./164001-pinball-fx3-the-walking-dead-pinball.json) |
 | Pinball FX3: Williams Pinball - Volume 2 | 164000 | [164000-pinball-fx3-williams-pinball-volume-2.json](./164000-pinball-fx3-williams-pinball-volume-2.json) |
 | Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
+| Pinball Hazard | 74336 | [74336-pinball-hazard.json](./74336-pinball-hazard.json) |
 | Pinball HD | 175348 | [175348-pinball-hd.json](./175348-pinball-hd.json) |
 | Pinball HD | 88282 | [88282-pinball-hd.json](./88282-pinball-hd.json) |
 | Pinball Heroes Bundle 2 | 99584 | [99584-pinball-heroes-bundle-2.json](./99584-pinball-heroes-bundle-2.json) |
@@ -2391,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
 | Power of Seasons | 406717 | [406717-power-of-seasons.json](./406717-power-of-seasons.json) |
 | Power of Slide | 149041 | [149041-power-of-slide.json](./149041-power-of-slide.json) |
+| Power of The Void | 74364 | [74364-power-of-the-void.json](./74364-power-of-the-void.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Pete | 47272 | [47272-power-pete.json](./47272-power-pete.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
