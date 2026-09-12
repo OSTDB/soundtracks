@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
 | Shift Em Mania | 27906 | [27906-shift-em-mania.json](./27906-shift-em-mania.json) |
+| Shift Extended | 44531 | [44531-shift-extended.json](./44531-shift-extended.json) |
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifting Sand Land | 308232 | [308232-shifting-sand-land.json](./308232-shifting-sand-land.json) |
@@ -1751,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force: The Sword of Hajya | 46360 | [46360-shining-force-the-sword-of-hajya.json](./46360-shining-force-the-sword-of-hajya.json) |
 | Shining Hotel: Lost in Nowhere | 102364 | [102364-shining-hotel-lost-in-nowhere.json](./102364-shining-hotel-lost-in-nowhere.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
+| Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
 | Shining Stars 2: Mirror Madness | 132860 | [132860-shining-stars-2-mirror-madness.json](./132860-shining-stars-2-mirror-madness.json) |
 | Shining Stars 3: Sanctuary of the Star Comet | 132861 | [132861-shining-stars-3-sanctuary-of-the-star-comet.json](./132861-shining-stars-3-sanctuary-of-the-star-comet.json) |
 | Shining Stars Super Starcade | 48038 | [48038-shining-stars-super-starcade.json](./48038-shining-stars-super-starcade.json) |
@@ -3812,6 +3814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Destiny | 125967 | [125967-soul-destiny.json](./125967-soul-destiny.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
+| Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
 | Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
 | Soul Fjord | 51174 | [51174-soul-fjord.json](./51174-soul-fjord.json) |
@@ -4288,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Shades: Fragments | 191199 | [191199-spectral-shades-fragments.json](./191199-spectral-shades-fragments.json) |
+| Spectral Souls: Resurrection of the Ethereal Empires | 44519 | [44519-spectral-souls-resurrection-of-the-ethereal-empires.json](./44519-spectral-souls-resurrection-of-the-ethereal-empires.json) |
 | Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
 | Spectre's Library | 235971 | [235971-spectres-library.json](./235971-spectres-library.json) |
@@ -4647,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
+| Spot the Differences | 44502 | [44502-spot-the-differences.json](./44502-spot-the-differences.json) |
 | Spot The Differences 2020 | 284338 | [284338-spot-the-differences-2020.json](./284338-spot-the-differences-2020.json) |
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
 | Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
@@ -5461,6 +5466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
 | Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
 | Stick Infinite Kingdom | 310934 | [310934-stick-infinite-kingdom.json](./310934-stick-infinite-kingdom.json) |
+| Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
 | Stick or Stone? | 176457 | [176457-stick-or-stone.json](./176457-stick-or-stone.json) |
 | Stick Out! | 386696 | [386696-stick-out.json](./386696-stick-out.json) |
 | Stick Slasher | 264615 | [264615-stick-slasher.json](./264615-stick-slasher.json) |
@@ -5732,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter IV | 884 | [884-street-fighter-iv.json](./884-street-fighter-iv.json) |
 | Street Fighter IV Volt: Battle Protocol | 77315 | [77315-street-fighter-iv-volt-battle-protocol.json](./77315-street-fighter-iv-volt-battle-protocol.json) |
 | Street Fighter IV: Champion Edition | 77952 | [77952-street-fighter-iv-champion-edition.json](./77952-street-fighter-iv-champion-edition.json) |
+| Street Fighter IV: Collector's Edition | 44570 | [44570-street-fighter-iv-collectors-edition.json](./44570-street-fighter-iv-collectors-edition.json) |
 | Street Fighter Online: Mouse Generation | 55061 | [55061-street-fighter-online-mouse-generation.json](./55061-street-fighter-online-mouse-generation.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
@@ -6729,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
 | Super Pixelander | 124757 | [124757-super-pixelander.json](./124757-super-pixelander.json) |
 | Super Planet Life | 225101 | [225101-super-planet-life.json](./225101-super-planet-life.json) |
+| Super Pocket Tennis | 44500 | [44500-super-pocket-tennis.json](./44500-super-pocket-tennis.json) |
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
 | Super Pool III | 172679 | [172679-super-pool-iii.json](./172679-super-pool-iii.json) |
