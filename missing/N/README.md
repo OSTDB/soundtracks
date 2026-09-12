@@ -803,6 +803,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Football: San Diego Chargers/Los Angeles Raiders | 62687 | [62687-nfl-football-san-diego-chargers-los-angeles-raiders.json](./62687-nfl-football-san-diego-chargers-los-angeles-raiders.json) |
 | NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
 | NFL GameDay 2005 | 209589 | [209589-nfl-gameday-2005.json](./209589-nfl-gameday-2005.json) |
+| NFL Hall of Fame Football | 46607 | [46607-nfl-hall-of-fame-football.json](./46607-nfl-hall-of-fame-football.json) |
+| NFL Instant Replay | 46574 | [46574-nfl-instant-replay.json](./46574-nfl-instant-replay.json) |
 | NFL Kicker 13 | 62170 | [62170-nfl-kicker-13.json](./62170-nfl-kicker-13.json) |
 | NFL Kicker 15 | 58179 | [58179-nfl-kicker-15.json](./58179-nfl-kicker-15.json) |
 | NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
