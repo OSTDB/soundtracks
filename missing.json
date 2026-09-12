@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T23:33:45.009Z",
-  "total_missing": 63776,
+  "generated_at": "2026-09-12T23:41:29.871Z",
+  "total_missing": 63775,
   "games": [
     {
       "igdb_id": 306086,
@@ -3241,11 +3241,6 @@
       "igdb_id": 342071,
       "game_name": "ACA NeoGeo Selection Vol. 4",
       "file": "missing/A/342071-aca-neogeo-selection-vol-4.json"
-    },
-    {
-      "igdb_id": 333539,
-      "game_name": "ACA2 Neo Geo: The King of Fighters '98",
-      "file": "missing/A/333539-aca2-neo-geo-the-king-of-fighters-98.json"
     },
     {
       "igdb_id": 185077,
