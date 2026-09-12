@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unending Dawn | 298846 | [298846-unending-dawn.json](./298846-unending-dawn.json) |
 | UnEpic: Collector's Edition | 166178 | [166178-unepic-collectors-edition.json](./166178-unepic-collectors-edition.json) |
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
+| Unexpected End | 75807 | [75807-unexpected-end.json](./75807-unexpected-end.json) |
 | Unexpected Visitors | 265128 | [265128-unexpected-visitors.json](./265128-unexpected-visitors.json) |
 | UnExplored: Unlocked Edition | 98837 | [98837-unexplored-unlocked-edition.json](./98837-unexplored-unlocked-edition.json) |
 | Unexposed: The Ghost Archives | 188014 | [188014-unexposed-the-ghost-archives.json](./188014-unexposed-the-ghost-archives.json) |
