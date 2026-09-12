@@ -45,12 +45,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
 | Kaiju Cracking Corp | 286009 | [286009-kaiju-cracking-corp.json](./286009-kaiju-cracking-corp.json) |
 | Kaiju Wars + Legend of Keepers: Monsters & Demons Bundle | 287111 | [287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json](./287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json) |
+| Kaiketsu Yanchamaru 3: Taiketsu! Zouringen | 66050 | [66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json](./66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json) |
 | Kaikyuu Karane Kotoba | 206381 | [206381-kaikyuu-karane-kotoba.json](./206381-kaikyuu-karane-kotoba.json) |
 | Kaikyuu no Eshi | 239678 | [239678-kaikyuu-no-eshi.json](./239678-kaikyuu-no-eshi.json) |
 | Kaire | 344388 | [344388-kaire.json](./344388-kaire.json) |
 | Kairo Land | 208037 | [208037-kairo-land.json](./208037-kairo-land.json) |
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
+| Kaite Oboeru Doragana | 66034 | [66034-kaite-oboeru-doragana.json](./66034-kaite-oboeru-doragana.json) |
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
 | Kaitou Tantei Blonde Lady | 236834 | [236834-kaitou-tantei-blonde-lady.json](./236834-kaitou-tantei-blonde-lady.json) |
 | Kaiv | 23874 | [23874-kaiv.json](./23874-kaiv.json) |
@@ -238,6 +240,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
 | Kattobi! Warabe Ji | 63296 | [63296-kattobi-warabe-ji.json](./63296-kattobi-warabe-ji.json) |
 | Kattonauten | 180844 | [180844-kattonauten.json](./180844-kattonauten.json) |
+| Katy Perry Revenge | 66038 | [66038-katy-perry-revenge.json](./66038-katy-perry-revenge.json) |
+| Katy Perry Revenge 2 | 66036 | [66036-katy-perry-revenge-2.json](./66036-katy-perry-revenge-2.json) |
 | Katyusha | 75917 | [75917-katyusha.json](./75917-katyusha.json) |
 | Katzala | 296926 | [296926-katzala.json](./296926-katzala.json) |
 | Katze Stuck in the Toilet 64 | 361717 | [361717-katze-stuck-in-the-toilet-64.json](./361717-katze-stuck-in-the-toilet-64.json) |
@@ -433,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid's Activity Center | 87688 | [87688-kids-activity-center.json](./87688-kids-activity-center.json) |
 | Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
+| Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
 | Kiddies Party Pack | 100174 | [100174-kiddies-party-pack.json](./100174-kiddies-party-pack.json) |
 | Kidnappers | 301610 | [301610-kidnappers.json](./301610-kidnappers.json) |
 | Kido Keisatstsu Patlabor: Griffon-hen | 75897 | [75897-kido-keisatstsu-patlabor-griffon-hen.json](./75897-kido-keisatstsu-patlabor-griffon-hen.json) |
@@ -675,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
 | Kings of Battleground | 231928 | [231928-kings-of-battleground.json](./231928-kings-of-battleground.json) |
 | Kings of Chaos | 402314 | [402314-kings-of-chaos.json](./402314-kings-of-chaos.json) |
+| Kings of Leon Revenge | 66041 | [66041-kings-of-leon-revenge.json](./66041-kings-of-leon-revenge.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
 | Kings under the hill | 31390 | [31390-kings-under-the-hill.json](./31390-kings-under-the-hill.json) |
@@ -894,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
 | Knights Vault | 300984 | [300984-knights-vault.json](./300984-knights-vault.json) |
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
+| Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
 | Knighty Night | 119027 | [119027-knighty-night.json](./119027-knighty-night.json) |
 | Knitted and Inflatable | 155666 | [155666-knitted-and-inflatable.json](./155666-knitted-and-inflatable.json) |
 | Knock Harder | 120953 | [120953-knock-harder.json](./120953-knock-harder.json) |
