@@ -105,6 +105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Mind: The Lost Souls of Tong Nou | 73752 | [73752-eastern-mind-the-lost-souls-of-tong-nou.json](./73752-eastern-mind-the-lost-souls-of-tong-nou.json) |
 | Eastern Tactics | 171571 | [171571-eastern-tactics.json](./171571-eastern-tactics.json) |
 | Eastwind Adventures: Chapter 1 | 311792 | [311792-eastwind-adventures-chapter-1.json](./311792-eastwind-adventures-chapter-1.json) |
+| EastwoodVR | 28868 | [28868-eastwoodvr.json](./28868-eastwoodvr.json) |
 | Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
@@ -290,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
 | Egg Hunt 2026: The Grand Eggspress | 412312 | [412312-egg-hunt-2026-the-grand-eggspress.json](./412312-egg-hunt-2026-the-grand-eggspress.json) |
+| Egg Hunt VR | 28784 | [28784-egg-hunt-vr.json](./28784-egg-hunt-vr.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
 | Egg Tales | 58749 | [58749-egg-tales.json](./58749-egg-tales.json) |
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
@@ -1376,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dungeons 2 | 323160 | [323160-evil-dungeons-2.json](./323160-evil-dungeons-2.json) |
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil Genius 2: World Domination - Deluxe Edition | 188025 | [188025-evil-genius-2-world-domination-deluxe-edition.json](./188025-evil-genius-2-world-domination-deluxe-edition.json) |
+| Evil Glitch | 28803 | [28803-evil-glitch.json](./28803-evil-glitch.json) |
 | Evil Hand | 176435 | [176435-evil-hand.json](./176435-evil-hand.json) |
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
