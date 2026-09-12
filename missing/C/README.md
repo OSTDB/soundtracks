@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Meow | 239672 | [239672-captain-meow.json](./239672-captain-meow.json) |
 | Captain Morgane and the Golden Turtle | 6654 | [6654-captain-morgane-and-the-golden-turtle.json](./6654-captain-morgane-and-the-golden-turtle.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
+| Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
@@ -1476,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
+| Choro Q | 69796 | [69796-choro-q.json](./69796-choro-q.json) |
 | Choro Q 3 | 97364 | [97364-choro-q-3.json](./97364-choro-q-3.json) |
 | Choro Q HG 3 | 196257 | [196257-choro-q-hg-3.json](./196257-choro-q-hg-3.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
@@ -2537,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer the World | 71532 | [71532-conquer-the-world.json](./71532-conquer-the-world.json) |
 | Conquer-Strike 2 | 273370 | [273370-conquer-strike-2.json](./273370-conquer-strike-2.json) |
 | Conquer: Napoleonic Wars | 235447 | [235447-conquer-napoleonic-wars.json](./235447-conquer-napoleonic-wars.json) |
+| Conquered Kingdoms | 69804 | [69804-conquered-kingdoms.json](./69804-conquered-kingdoms.json) |
 | Conquering Everest | 262399 | [262399-conquering-everest.json](./262399-conquering-everest.json) |
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
 | Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
@@ -2908,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
 | Covert Front | 213617 | [213617-covert-front.json](./213617-covert-front.json) |
+| Covert Front: Episode 2 - Station on the Horizon | 69823 | [69823-covert-front-episode-2-station-on-the-horizon.json](./69823-covert-front-episode-2-station-on-the-horizon.json) |
 | Covetous | 138188 | [138188-covetous.json](./138188-covetous.json) |
 | Covid '99 | 140514 | [140514-covid-99.json](./140514-covid-99.json) |
 | Covid 2069 | 167758 | [167758-covid-2069.json](./167758-covid-2069.json) |
