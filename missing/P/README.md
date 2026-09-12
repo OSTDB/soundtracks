@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws | 94253 | [94253-paws.json](./94253-paws.json) |
 | Paws & Circuits: Reboot Earth | 412961 | [412961-paws-and-circuits-reboot-earth.json](./412961-paws-and-circuits-reboot-earth.json) |
 | Paws & Claws Pampered Pets | 288196 | [288196-paws-and-claws-pampered-pets.json](./288196-paws-and-claws-pampered-pets.json) |
+| Paws & Claws Pet Vet: Australian Adventures | 47977 | [47977-paws-and-claws-pet-vet-australian-adventures.json](./47977-paws-and-claws-pet-vet-australian-adventures.json) |
 | Paws & Claws: Pet Resort | 18272 | [18272-paws-and-claws-pet-resort.json](./18272-paws-and-claws-pet-resort.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
@@ -1003,6 +1004,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettan Pyuu | 151160 | [151160-pettan-pyuu.json](./151160-pettan-pyuu.json) |
 | PetVille | 309123 | [309123-petville.json](./309123-petville.json) |
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
+| Petz Fantasy: Sunshine Magic | 47962 | [47962-petz-fantasy-sunshine-magic.json](./47962-petz-fantasy-sunshine-magic.json) |
+| Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
 | Pew Pew Zombies | 88300 | [88300-pew-pew-zombies.json](./88300-pew-pew-zombies.json) |
 | PewDiePie: Legend of the Brofist | 15182 | [15182-pewdiepie-legend-of-the-brofist.json](./15182-pewdiepie-legend-of-the-brofist.json) |
 | PewDiePie's Paradise Island | 200637 | [200637-pewdiepies-paradise-island.json](./200637-pewdiepies-paradise-island.json) |
@@ -1112,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
 | Phoots and the Pineapple Throne | 304015 | [304015-phoots-and-the-pineapple-throne.json](./304015-phoots-and-the-pineapple-throne.json) |
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
+| Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photogeist Albums: Case 1 | 307337 | [307337-photogeist-albums-case-1.json](./307337-photogeist-albums-case-1.json) |
 | Photon Cube | 104057 | [104057-photon-cube.json](./104057-photon-cube.json) |
 | Photon Flux | 68703 | [68703-photon-flux.json](./68703-photon-flux.json) |
@@ -1217,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
 | Piece O'Cake | 40785 | [40785-piece-ocake.json](./40785-piece-ocake.json) |
+| Piece of Memory 2: Prologue | 48010 | [48010-piece-of-memory-2-prologue.json](./48010-piece-of-memory-2-prologue.json) |
 | Piece of Mind | 143649 | [143649-piece-of-mind.json](./143649-piece-of-mind.json) |
 | Piece of Wonder | 72669 | [72669-piece-of-wonder.json](./72669-piece-of-wonder.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
@@ -2271,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongu | 24565 | [24565-pongu.json](./24565-pongu.json) |
 | PonPonTown | 372986 | [372986-ponpontown.json](./372986-ponpontown.json) |
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
+| Pony Friends | 47974 | [47974-pony-friends.json](./47974-pony-friends.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
 | Pony Sisters Pet Hospital | 101584 | [101584-pony-sisters-pet-hospital.json](./101584-pony-sisters-pet-hospital.json) |
 | Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
