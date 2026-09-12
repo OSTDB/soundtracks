@@ -1357,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Shoot 2 | 248634 | [248634-chicken-shoot-2.json](./248634-chicken-shoot-2.json) |
 | Chicken Shoot 2 | 49307 | [49307-chicken-shoot-2.json](./49307-chicken-shoot-2.json) |
 | Chicken Tale | 288792 | [288792-chicken-tale.json](./288792-chicken-tale.json) |
+| Chicken Wars | 48001 | [48001-chicken-wars.json](./48001-chicken-wars.json) |
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
 | Chicken's Run | 181922 | [181922-chickens-run.json](./181922-chickens-run.json) |
 | Chickenality | 255138 | [255138-chickenality.json](./255138-chickenality.json) |
@@ -1477,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of Life: Wild Islands | 253576 | [253576-choice-of-life-wild-islands.json](./253576-choice-of-life-wild-islands.json) |
 | Choice of Rebels: Stormwright | 253383 | [253383-choice-of-rebels-stormwright.json](./253383-choice-of-rebels-stormwright.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
+| Choice of Zombies | 48012 | [48012-choice-of-zombies.json](./48012-choice-of-zombies.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
 | Choices, the Game | 83531 | [83531-choices-the-game.json](./83531-choices-the-game.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
@@ -2712,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Champions | 119017 | [119017-cooking-champions.json](./119017-cooking-champions.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Fever | 87046 | [87046-cooking-fever.json](./87046-cooking-fever.json) |
+| Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
@@ -3949,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
 | Cyclanoid | 57679 | [57679-cyclanoid.json](./57679-cyclanoid.json) |
 | Cycle | 202381 | [202381-cycle.json](./202381-cycle.json) |
+| Cycle | 47997 | [47997-cycle.json](./47997-cycle.json) |
 | Cycle Chaser H-5 | 231369 | [231369-cycle-chaser-h-5.json](./231369-cycle-chaser-h-5.json) |
 | Cycle of Eternity: Space Anomaly | 90686 | [90686-cycle-of-eternity-space-anomaly.json](./90686-cycle-of-eternity-space-anomaly.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
