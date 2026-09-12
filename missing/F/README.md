@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field Goal | 172656 | [172656-field-goal.json](./172656-field-goal.json) |
 | Field of Enemies | 374058 | [374058-field-of-enemies.json](./374058-field-of-enemies.json) |
 | Field of Fate | 184622 | [184622-field-of-fate.json](./184622-field-of-fate.json) |
+| Field of Fire | 25616 | [25616-field-of-fire.json](./25616-field-of-fire.json) |
 | Field of Glory II | 65835 | [65835-field-of-glory-ii.json](./65835-field-of-glory-ii.json) |
 | Field of Glory II: Age of Belisarius | 124785 | [124785-field-of-glory-ii-age-of-belisarius.json](./124785-field-of-glory-ii-age-of-belisarius.json) |
 | Field of Glory II: Medieval - Storm of Arrows | 186898 | [186898-field-of-glory-ii-medieval-storm-of-arrows.json](./186898-field-of-glory-ii-medieval-storm-of-arrows.json) |
@@ -1001,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
 | Final Judgment - Damnation Day | 110302 | [110302-final-judgment-damnation-day.json](./110302-final-judgment-damnation-day.json) |
+| Final Legacy | 25697 | [25697-final-legacy.json](./25697-final-legacy.json) |
 | Final Light: The Prison | 105892 | [105892-final-light-the-prison.json](./105892-final-light-the-prison.json) |
 | final m00n - Defender of the Cubes | 113752 | [113752-final-m00n-defender-of-the-cubes.json](./113752-final-m00n-defender-of-the-cubes.json) |
 | Final Mission | 215141 | [215141-final-mission.json](./215141-final-mission.json) |
@@ -2209,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
 | FPV Simulator | 192407 | [192407-fpv-simulator.json](./192407-fpv-simulator.json) |
 | FR Legends | 126025 | [126025-fr-legends.json](./126025-fr-legends.json) |
+| Fracas | 25691 | [25691-fracas.json](./25691-fracas.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
