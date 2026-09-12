@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
 | Halloween in Hollywood | 234043 | [234043-halloween-in-hollywood.json](./234043-halloween-in-hollywood.json) |
+| Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween Pinball | 89159 | [89159-halloween-pinball.json](./89159-halloween-pinball.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
@@ -2382,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
+| Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
 | HyperLeague Heroes | 191179 | [191179-hyperleague-heroes.json](./191179-hyperleague-heroes.json) |
 | Hyperlight | 265701 | [265701-hyperlight.json](./265701-hyperlight.json) |
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
