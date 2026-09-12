@@ -189,7 +189,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
 | Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
 | Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
-| Abulia | 372445 | [372445-abulia.json](./372445-abulia.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
 | Abunka | 216777 | [216777-abunka.json](./216777-abunka.json) |
