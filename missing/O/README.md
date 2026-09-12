@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omber | 208576 | [208576-omber.json](./208576-omber.json) |
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
 | Omega Enforcer X | 181905 | [181905-omega-enforcer-x.json](./181905-omega-enforcer-x.json) |
+| Omega Extinction | 68588 | [68588-omega-extinction.json](./68588-omega-extinction.json) |
 | Omega Fighter | 40256 | [40256-omega-fighter.json](./40256-omega-fighter.json) |
 | Omega Knockout: Punch Boxing | 302115 | [302115-omega-knockout-punch-boxing.json](./302115-omega-knockout-punch-boxing.json) |
 | Omega Labyrinth Z: Limited Edition | 166184 | [166184-omega-labyrinth-z-limited-edition.json](./166184-omega-labyrinth-z-limited-edition.json) |
@@ -670,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha 2: Samurai's Destiny | 330283 | [330283-onimusha-2-samurais-destiny.json](./330283-onimusha-2-samurais-destiny.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
+| Onironauta | 68601 | [68601-onironauta.json](./68601-onironauta.json) |
 | Onironauta Desert Dream | 398341 | [398341-onironauta-desert-dream.json](./398341-onironauta-desert-dream.json) |
 | Onironautilus The Other Side | 398350 | [398350-onironautilus-the-other-side.json](./398350-onironautilus-the-other-side.json) |
 | Onironautilus: Oppression | 398352 | [398352-onironautilus-oppression.json](./398352-onironautilus-oppression.json) |
@@ -1050,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Way | 104673 | [104673-our-way.json](./104673-our-way.json) |
 | Our Way | 169977 | [169977-our-way.json](./169977-our-way.json) |
 | Our Worlds | 130877 | [130877-our-worlds.json](./130877-our-worlds.json) |
+| Ouroboros: Prelude | 68604 | [68604-ouroboros-prelude.json](./68604-ouroboros-prelude.json) |
 | Ouros | 258726 | [258726-ouros.json](./258726-ouros.json) |
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
 | Out for Blood | 50539 | [50539-out-for-blood.json](./50539-out-for-blood.json) |
