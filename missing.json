@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:41:31.309Z",
+  "generated_at": "2026-09-12T11:46:37.047Z",
   "total_missing": 61779,
   "games": [
     {
@@ -2831,11 +2831,6 @@
       "igdb_id": 182543,
       "game_name": "Abduct and Destroy!",
       "file": "missing/A/182543-abduct-and-destroy.json"
-    },
-    {
-      "igdb_id": 17376,
-      "game_name": "Abducted",
-      "file": "missing/A/17376-abducted.json"
     },
     {
       "igdb_id": 316440,
@@ -225831,6 +225826,11 @@
       "igdb_id": 115032,
       "game_name": "Sid Meier's Civilization II: Conflicts in Civilization",
       "file": "missing/S/115032-sid-meiers-civilization-ii-conflicts-in-civilization.json"
+    },
+    {
+      "igdb_id": 55119,
+      "game_name": "Sid Meier's Civilization III: Gold Edition",
+      "file": "missing/S/55119-sid-meiers-civilization-iii-gold-edition.json"
     },
     {
       "igdb_id": 264864,
