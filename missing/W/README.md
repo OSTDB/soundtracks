@@ -1472,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Quest Space | 378773 | [378773-word-quest-space.json](./378773-word-quest-space.json) |
 | Word Quest: Horror | 402932 | [402932-word-quest-horror.json](./402932-word-quest-horror.json) |
 | Word Quiz - Funny | 104686 | [104686-word-quiz-funny.json](./104686-word-quiz-funny.json) |
+| Word Realms | 64912 | [64912-word-realms.json](./64912-word-realms.json) |
 | Word Scores | 344355 | [344355-word-scores.json](./344355-word-scores.json) |
 | Word Search - Puzzle Game For Kids | 108507 | [108507-word-search-puzzle-game-for-kids.json](./108507-word-search-puzzle-game-for-kids.json) |
 | Word Search & Learn | 233741 | [233741-word-search-and-learn.json](./233741-word-search-and-learn.json) |
