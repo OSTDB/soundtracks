@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Boco | 313464 | [313464-magical-boco.json](./313464-magical-boco.json) |
 | Magical Circle Guru-Guru: Stardust Adventure | 302653 | [302653-magical-circle-guru-guru-stardust-adventure.json](./302653-magical-circle-guru-guru-stardust-adventure.json) |
 | Magical Crystals | 39687 | [39687-magical-crystals.json](./39687-magical-crystals.json) |
+| Magical Date EX: Sotsugyou Kokuhaku Daisakusen | 69211 | [69211-magical-date-ex-sotsugyou-kokuhaku-daisakusen.json](./69211-magical-date-ex-sotsugyou-kokuhaku-daisakusen.json) |
 | Magical Days: The Brats' Parade | 358326 | [358326-magical-days-the-brats-parade.json](./358326-magical-days-the-brats-parade.json) |
 | Magical Dice Kids | 130337 | [130337-magical-dice-kids.json](./130337-magical-dice-kids.json) |
 | Magical Dinosaur Tour | 42014 | [42014-magical-dinosaur-tour.json](./42014-magical-dinosaur-tour.json) |
@@ -503,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malta Storm | 72083 | [72083-malta-storm.json](./72083-malta-storm.json) |
 | Malum Escape | 311500 | [311500-malum-escape.json](./311500-malum-escape.json) |
 | Malvin`s Prehistoric Adventures | 129228 | [129228-malvin-s-prehistoric-adventures.json](./129228-malvin-s-prehistoric-adventures.json) |
+| Malvinas 2032 | 69243 | [69243-malvinas-2032.json](./69243-malvinas-2032.json) |
 | Malvirta Station | 271459 | [271459-malvirta-station.json](./271459-malvirta-station.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
 | Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
@@ -574,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Path 2 | 169387 | [169387-maniac-path-2.json](./169387-maniac-path-2.json) |
 | Maniac Path 3 | 327824 | [327824-maniac-path-3.json](./327824-maniac-path-3.json) |
+| Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
 | Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
@@ -2425,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
 | Mini-Market Simulator VR | 309377 | [309377-mini-market-simulator-vr.json](./309377-mini-market-simulator-vr.json) |
+| Mini-Moni. Shakatto Tambourine! Dapyon! | 69262 | [69262-mini-moni-shakatto-tambourine-dapyon.json](./69262-mini-moni-shakatto-tambourine-dapyon.json) |
 | Mini-U: Mosaic | 175408 | [175408-mini-u-mosaic.json](./175408-mini-u-mosaic.json) |
 | Miniacs: Steering Madness | 382227 | [382227-miniacs-steering-madness.json](./382227-miniacs-steering-madness.json) |
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
@@ -2986,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Collector | 143647 | [143647-monster-collector.json](./143647-monster-collector.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Dunk | 130333 | [130333-monster-dunk.json](./130333-monster-dunk.json) |
+| Monster Eggs | 69197 | [69197-monster-eggs.json](./69197-monster-eggs.json) |
 | Monster Energy Supercross 5: The Official Videogame - Legends Pack Vol. 2 | 199575 | [199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json](./199575-monster-energy-supercross-5-the-official-videogame-legends-pack-vol-2.json) |
 | Monster Energy Supercross: The Official Videogame 2 - Los Angeles Memorial Coliseum | 154461 | [154461-monster-energy-supercross-the-official-videogame-2-los-angeles-memorial-coliseum.json](./154461-monster-energy-supercross-the-official-videogame-2-los-angeles-memorial-coliseum.json) |
 | Monster Energy Supercross: The Official Videogame 2 - Monster Energy Cup | 154459 | [154459-monster-energy-supercross-the-official-videogame-2-monster-energy-cup.json](./154459-monster-energy-supercross-the-official-videogame-2-monster-energy-cup.json) |
@@ -3578,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Do! | 365697 | [365697-mr-do.json](./365697-mr-do.json) |
 | Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
 | Mr. Driller | 254519 | [254519-mr-driller.json](./254519-mr-driller.json) |
+| Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
