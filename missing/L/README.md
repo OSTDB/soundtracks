@@ -85,6 +85,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacerta | 323542 | [323542-lacerta.json](./323542-lacerta.json) |
 | Lacey's Flash Games | 334698 | [334698-laceys-flash-games.json](./334698-laceys-flash-games.json) |
 | Lackgirl II: De Docta Ignorantia | 314282 | [314282-lackgirl-ii-de-docta-ignorantia.json](./314282-lackgirl-ii-de-docta-ignorantia.json) |
+| Lacrosse Arcade | 61040 | [61040-lacrosse-arcade.json](./61040-lacrosse-arcade.json) |
+| Lacrosse Dodge | 61038 | [61038-lacrosse-dodge.json](./61038-lacrosse-dodge.json) |
+| Lacrosse Shot | 61041 | [61041-lacrosse-shot.json](./61041-lacrosse-shot.json) |
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
 | Ladders by Powgi | 146927 | [146927-ladders-by-powgi.json](./146927-ladders-by-powgi.json) |
@@ -372,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
 | Lawnpocalypse | 379370 | [379370-lawnpocalypse.json](./379370-lawnpocalypse.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
+| Laxy Bro | 61037 | [61037-laxy-bro.json](./61037-laxy-bro.json) |
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
