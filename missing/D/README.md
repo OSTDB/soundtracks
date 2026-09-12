@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daffy Duck, P.I.: The Case of the Missing Letters | 63814 | [63814-daffy-duck-p-i-the-case-of-the-missing-letters.json](./63814-daffy-duck-p-i-the-case-of-the-missing-letters.json) |
 | Daft Disputes | 180220 | [180220-daft-disputes.json](./180220-daft-disputes.json) |
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
+| Dagat-i Kal Kal Kal | 63262 | [63262-dagat-i-kal-kal-kal.json](./63262-dagat-i-kal-kal-kal.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
 | Dear Diary | 370715 | [370715-dear-diary.json](./370715-dear-diary.json) |
 | Dear Drops Distortion | 59421 | [59421-dear-drops-distortion.json](./59421-dear-drops-distortion.json) |
+| Dear Esteban | 63266 | [63266-dear-esteban.json](./63266-dear-esteban.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
@@ -1923,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Chip 'n Dale Rescue Rangers: The Adventure in Nimnul's Castle | 78641 | [78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json](./78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json) |
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
 | Disney's Dinosaur Activity Center | 72123 | [72123-disneys-dinosaur-activity-center.json](./72123-disneys-dinosaur-activity-center.json) |
+| Disney's Donald Duck Advance | 63272 | [63272-disneys-donald-duck-advance.json](./63272-disneys-donald-duck-advance.json) |
 | Disney's Doug: Doug's Big Game | 49942 | [49942-disneys-doug-dougs-big-game.json](./49942-disneys-doug-dougs-big-game.json) |
 | Disney's DuckTales | 145268 | [145268-disneys-ducktales.json](./145268-disneys-ducktales.json) |
 | Disney's DuckTales 2 | 6488 | [6488-disneys-ducktales-2.json](./6488-disneys-ducktales-2.json) |
@@ -1986,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
 | Dive or Die: Children of Rain | 391055 | [391055-dive-or-die-children-of-rain.json](./391055-dive-or-die-children-of-rain.json) |
 | Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
+| Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
 | Diver's | 373028 | [373028-divers.json](./373028-divers.json) |
 | Diver's Dream | 180281 | [180281-divers-dream.json](./180281-divers-dream.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
@@ -2613,6 +2617,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik Turns Everybody into Frogs | 188087 | [188087-dr-robotnik-turns-everybody-into-frogs.json](./188087-dr-robotnik-turns-everybody-into-frogs.json) |
 | Dr. Robotnik's Mean Bean Tetris | 264896 | [264896-dr-robotniks-mean-bean-tetris.json](./264896-dr-robotniks-mean-bean-tetris.json) |
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
+| Dr. Seuss Preschool | 63273 | [63273-dr-seuss-preschool.json](./63273-dr-seuss-preschool.json) |
+| Dr. Seuss Toddler | 63271 | [63271-dr-seuss-toddler.json](./63271-dr-seuss-toddler.json) |
 | Dr. Seuss': The Cat in the Hat | 5814 | [5814-dr-seuss-the-cat-in-the-hat.json](./5814-dr-seuss-the-cat-in-the-hat.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
@@ -2657,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Journey | 215113 | [215113-drag-journey.json](./215113-drag-journey.json) |
 | Drag Me Home | 67273 | [67273-drag-me-home.json](./67273-drag-me-home.json) |
 | Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
+| Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
 | Dragenas | 297804 | [297804-dragenas.json](./297804-dragenas.json) |
 | DragKnockFight | 218124 | [218124-dragknockfight.json](./218124-dragknockfight.json) |
@@ -3422,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
 | Dungeon Solitaire | 178000 | [178000-dungeon-solitaire.json](./178000-dungeon-solitaire.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
+| Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
 | Dungeon Survival | 261827 | [261827-dungeon-survival.json](./261827-dungeon-survival.json) |
 | Dungeon Survivor II | 126007 | [126007-dungeon-survivor-ii.json](./126007-dungeon-survivor-ii.json) |
 | Dungeon Survivor.io | 260706 | [260706-dungeon-survivor-io.json](./260706-dungeon-survivor-io.json) |
