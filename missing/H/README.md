@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heva Clonia Online | 62744 | [62744-heva-clonia-online.json](./62744-heva-clonia-online.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
 | Hex | 322575 | [322575-hex.json](./322575-hex.json) |
+| Hex | 72028 | [72028-hex.json](./72028-hex.json) |
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
