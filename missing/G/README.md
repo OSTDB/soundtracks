@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Hero's Beard | 109867 | [109867-great-heros-beard.json](./109867-great-heros-beard.json) |
 | Great Hits | 94734 | [94734-great-hits.json](./94734-great-hits.json) |
 | Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
+| Great Napoleonic Battles | 73267 | [73267-great-napoleonic-battles.json](./73267-great-napoleonic-battles.json) |
 | Great Naval Battles Vol. II: Guadalcanal 1942-43 | 73821 | [73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json](./73821-great-naval-battles-vol-ii-guadalcanal-1942-43.json) |
 | Great North Shelter 2 | 238491 | [238491-great-north-shelter-2.json](./238491-great-north-shelter-2.json) |
 | Great Old One - Arrival | 105303 | [105303-great-old-one-arrival.json](./105303-great-old-one-arrival.json) |
