@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
 | Road Avenger | 93049 | [93049-road-avenger.json](./93049-road-avenger.json) |
 | Road Cafe Simulator | 351028 | [351028-road-cafe-simulator.json](./351028-road-cafe-simulator.json) |
+| Road Champs: BXS Stunt Biking | 49907 | [49907-road-champs-bxs-stunt-biking.json](./49907-road-champs-bxs-stunt-biking.json) |
 | Road Chase | 105894 | [105894-road-chase.json](./105894-road-chase.json) |
 | Road Dealer Simulator | 253571 | [253571-road-dealer-simulator.json](./253571-road-dealer-simulator.json) |
 | Road Hog! | 84245 | [84245-road-hog.json](./84245-road-hog.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ron 13:13^2: The Thickening | 71003 | [71003-ron-13-13-2-the-thickening.json](./71003-ron-13-13-2-the-thickening.json) |
 | Ronald McDonalds | 255715 | [255715-ronald-mcdonalds.json](./255715-ronald-mcdonalds.json) |
 | Ronaldo V-Football | 44836 | [44836-ronaldo-v-football.json](./44836-ronaldo-v-football.json) |
+| Ronaldo V-Soccer | 49885 | [49885-ronaldo-v-soccer.json](./49885-ronaldo-v-soccer.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
 | Róngshēn zhī Dìtiě | 117649 | [117649-rongshen-zhi-ditie.json](./117649-rongshen-zhi-ditie.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
@@ -2217,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
 | Rosie's Inn | 183526 | [183526-rosies-inn.json](./183526-rosies-inn.json) |
+| Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell's 66th Anniversary | 225900 | [225900-roswells-66th-anniversary.json](./225900-roswells-66th-anniversary.json) |
 | Rosy Rubicunda | 299433 | [299433-rosy-rubicunda.json](./299433-rosy-rubicunda.json) |
