@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Raider | 127398 | [127398-dark-raider.json](./127398-dark-raider.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
+| Dark Reign: The Future of War - Battles of the Outer Rim | 73771 | [73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json](./73771-dark-reign-the-future-of-war-battles-of-the-outer-rim.json) |
 | Dark Romance: Monster Within | 101486 | [101486-dark-romance-monster-within.json](./101486-dark-romance-monster-within.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
@@ -772,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Cube | 199096 | [199096-death-cube.json](./199096-death-cube.json) |
 | Death Delivery | 371237 | [371237-death-delivery.json](./371237-death-delivery.json) |
 | Death Dojo | 30913 | [30913-death-dojo.json](./30913-death-dojo.json) |
+| Death Drome | 73755 | [73755-death-drome.json](./73755-death-drome.json) |
 | Death Dungeon | 193995 | [193995-death-dungeon.json](./193995-death-dungeon.json) |
 | Death Education | 301263 | [301263-death-education.json](./301263-death-education.json) |
 | Death Elevator | 255717 | [255717-death-elevator.json](./255717-death-elevator.json) |
@@ -1769,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
+| Dirt Track Racing 2 | 73758 | [73758-dirt-track-racing-2.json](./73758-dirt-track-racing-2.json) |
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
 | Dirty House | 278158 | [278158-dirty-house.json](./278158-dirty-house.json) |
@@ -2518,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downfall Hearts | 258487 | [258487-downfall-hearts.json](./258487-downfall-hearts.json) |
 | Downfall MMORPG | 351043 | [351043-downfall-mmorpg.json](./351043-downfall-mmorpg.json) |
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
+| Downhill Challenge | 73798 | [73798-downhill-challenge.json](./73798-downhill-challenge.json) |
 | Downhill Jam | 181303 | [181303-downhill-jam.json](./181303-downhill-jam.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
 | Download RAM Idle | 400222 | [400222-download-ram-idle.json](./400222-download-ram-idle.json) |
@@ -2657,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Super Edition | 200692 | [200692-dragon-ball-xenoverse-2-super-edition.json](./200692-dragon-ball-xenoverse-2-super-edition.json) |
 | Dragon Ball: Xenoverse 2 - Super Pass | 117656 | [117656-dragon-ball-xenoverse-2-super-pass.json](./117656-dragon-ball-xenoverse-2-super-pass.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
+| Dragon Beat: Legend of Pinball | 73754 | [73754-dragon-beat-legend-of-pinball.json](./73754-dragon-beat-legend-of-pinball.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
 | Dragon Boy | 108995 | [108995-dragon-boy.json](./108995-dragon-boy.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
