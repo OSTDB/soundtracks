@@ -197,7 +197,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Dungeons | 306976 | [306976-abyss-of-dungeons.json](./306976-abyss-of-dungeons.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
-| Abyss Survivors | 311261 | [311261-abyss-survivors.json](./311261-abyss-survivors.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss Walker | 193972 | [193972-abyss-walker.json](./193972-abyss-walker.json) |
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
@@ -1402,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet: Play with the ABCs | 206109 | [206109-alphabet-play-with-the-abcs.json](./206109-alphabet-play-with-the-abcs.json) |
 | Alphabetty Saga | 116974 | [116974-alphabetty-saga.json](./116974-alphabetty-saga.json) |
 | AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
+| Alphadia 2 | 38964 | [38964-alphadia-2.json](./38964-alphadia-2.json) |
 | Alphadia Genesis | 17849 | [17849-alphadia-genesis.json](./17849-alphadia-genesis.json) |
 | Alphageddon | 293086 | [293086-alphageddon.json](./293086-alphageddon.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
+| ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
 | Arc Style: Happy Ocean | 200678 | [200678-arc-style-happy-ocean.json](./200678-arc-style-happy-ocean.json) |
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
@@ -2810,7 +2811,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asciill | 192976 | [192976-asciill.json](./192976-asciill.json) |
 | Ascribe | 235990 | [235990-ascribe.json](./235990-ascribe.json) |
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
+| Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
 | Asdivine Hearts I & II | 196276 | [196276-asdivine-hearts-i-and-ii.json](./196276-asdivine-hearts-i-and-ii.json) |
+| Asdivine Menace | 38980 | [38980-asdivine-menace.json](./38980-asdivine-menace.json) |
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
