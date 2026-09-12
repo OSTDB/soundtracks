@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Magic Man's Head Games | 19053 | [19053-adventure-time-magic-mans-head-games.json](./19053-adventure-time-magic-mans-head-games.json) |
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
+| Adventure Town | 38907 | [38907-adventure-town.json](./38907-adventure-town.json) |
 | Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
 | Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
 | Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
@@ -1195,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Defense Unit | 216464 | [216464-alien-defense-unit.json](./216464-alien-defense-unit.json) |
 | Alien Disaster | 135272 | [135272-alien-disaster.json](./135272-alien-disaster.json) |
 | Alien Disco Safari | 63846 | [63846-alien-disco-safari.json](./63846-alien-disco-safari.json) |
+| Alien Dogfight | 38942 | [38942-alien-dogfight.json](./38942-alien-dogfight.json) |
 | Alien Dropout | 15593 | [15593-alien-dropout.json](./15593-alien-dropout.json) |
 | Alien Egg: Ascent | 137671 | [137671-alien-egg-ascent.json](./137671-alien-egg-ascent.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
@@ -1868,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Unite | 212472 | [212472-animal-unite.json](./212472-animal-unite.json) |
 | Animal Up! | 121703 | [121703-animal-up.json](./121703-animal-up.json) |
 | Animal Village Rescue | 232170 | [232170-animal-village-rescue.json](./232170-animal-village-rescue.json) |
+| Animal Voyage: Island Adventure | 38901 | [38901-animal-voyage-island-adventure.json](./38901-animal-voyage-island-adventure.json) |
 | Animal Wars | 270138 | [270138-animal-wars.json](./270138-animal-wars.json) |
 | Animal Water Pang! | 314857 | [314857-animal-water-pang.json](./314857-animal-water-pang.json) |
 | Animal Way | 295552 | [295552-animal-way.json](./295552-animal-way.json) |
@@ -2008,6 +2011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Attack: Woudrichem War | 270685 | [270685-another-attack-woudrichem-war.json](./270685-another-attack-woudrichem-war.json) |
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
+| Another Case Solved | 38915 | [38915-another-case-solved.json](./38915-another-case-solved.json) |
 | Another Century's Episode | 9566 | [9566-another-centurys-episode.json](./9566-another-centurys-episode.json) |
 | Another Christmas Game | 326043 | [326043-another-christmas-game.json](./326043-another-christmas-game.json) |
 | Another Day | 254143 | [254143-another-day.json](./254143-another-day.json) |
@@ -2882,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
 | Asphalt Street Storm Racing | 55883 | [55883-asphalt-street-storm-racing.json](./55883-asphalt-street-storm-racing.json) |
+| Asphalt Xtreme: Offroad Racing | 38940 | [38940-asphalt-xtreme-offroad-racing.json](./38940-asphalt-xtreme-offroad-racing.json) |
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
 | Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
@@ -3344,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV Bishoujo Senshi Girl Fighting | 48591 | [48591-av-bishoujo-senshi-girl-fighting.json](./48591-av-bishoujo-senshi-girl-fighting.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
+| Avabel Online | 38918 | [38918-avabel-online.json](./38918-avabel-online.json) |
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
