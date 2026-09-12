@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave the Diver: Balatro | 314280 | [314280-dave-the-diver-balatro.json](./314280-dave-the-diver-balatro.json) |
 | Dave the Diver: Mxmtoon | 314281 | [314281-dave-the-diver-mxmtoon.json](./314281-dave-the-diver-mxmtoon.json) |
 | Dave the Diver: Potion Craft | 314279 | [314279-dave-the-diver-potion-craft.json](./314279-dave-the-diver-potion-craft.json) |
+| David Douillet Judo | 57609 | [57609-david-douillet-judo.json](./57609-david-douillet-judo.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
 | Davidic Matchup | 84178 | [84178-davidic-matchup.json](./84178-davidic-matchup.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
@@ -989,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepHook | 181350 | [181350-deephook.json](./181350-deephook.json) |
 | Deeplanders | 319344 | [319344-deeplanders.json](./319344-deeplanders.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
+| DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
 | Deer Avenger | 73851 | [73851-deer-avenger.json](./73851-deer-avenger.json) |
 | Deer Avenger 2 | 316617 | [316617-deer-avenger-2.json](./316617-deer-avenger-2.json) |
@@ -1937,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
 | Disney's American Dragon Jake Long: Rise of the Huntsclan! | 49410 | [49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json](./49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
+| Disney's Bonkers: Wax Up! | 57622 | [57622-disneys-bonkers-wax-up.json](./57622-disneys-bonkers-wax-up.json) |
 | Disney's Brother Bear | 248637 | [248637-disneys-brother-bear.json](./248637-disneys-brother-bear.json) |
 | Disney's Chip 'n Dale Rescue Rangers: The Adventure in Nimnul's Castle | 78641 | [78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json](./78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json) |
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
@@ -2348,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
 | Donald no Magical World GG2SMS | 369596 | [369596-donald-no-magical-world-gg2sms.json](./369596-donald-no-magical-world-gg2sms.json) |
+| Donald's Alphabet Chase | 57631 | [57631-donalds-alphabet-chase.json](./57631-donalds-alphabet-chase.json) |
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
 | Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
