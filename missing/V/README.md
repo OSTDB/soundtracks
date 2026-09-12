@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van Van Up! | 188067 | [188067-van-van-up.json](./188067-van-van-up.json) |
 | Van-Gale: The War of Neo-Century | 246410 | [246410-van-gale-the-war-of-neo-century.json](./246410-van-gale-the-war-of-neo-century.json) |
 | Vandalhalla | 153934 | [153934-vandalhalla.json](./153934-vandalhalla.json) |
+| Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
 | Vanguard Princess | 9433 | [9433-vanguard-princess.json](./9433-vanguard-princess.json) |
 | Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
@@ -489,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
+| Vinyl Goddess from Mars | 70953 | [70953-vinyl-goddess-from-mars.json](./70953-vinyl-goddess-from-mars.json) |
 | Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
 | Violated By Other World Monster Girls | 82915 | [82915-violated-by-other-world-monster-girls.json](./82915-violated-by-other-world-monster-girls.json) |
 | Violator | 80616 | [80616-violator.json](./80616-violator.json) |
