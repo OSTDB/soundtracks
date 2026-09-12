@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daymare Town 3 | 257644 | [257644-daymare-town-3.json](./257644-daymare-town-3.json) |
 | Daymare Town 3 | 257645 | [257645-daymare-town-3.json](./257645-daymare-town-3.json) |
 | Daymare Town 4 | 257646 | [257646-daymare-town-4.json](./257646-daymare-town-4.json) |
+| Daymare Town 4 | 62702 | [62702-daymare-town-4.json](./62702-daymare-town-4.json) |
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
@@ -2153,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Doge and the Lost Kitten | 103409 | [103409-doge-and-the-lost-kitten.json](./103409-doge-and-the-lost-kitten.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
+| Doge Jump | 62678 | [62678-doge-jump.json](./62678-doge-jump.json) |
 | Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
@@ -2536,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotsubo-chan | 166146 | [166146-dotsubo-chan.json](./166146-dotsubo-chan.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
+| Double Bloob | 62680 | [62680-double-bloob.json](./62680-double-bloob.json) |
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
 | Double Damnation | 213981 | [213981-double-damnation.json](./213981-double-damnation.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
@@ -2699,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Heroes: Ultimate Mission - Lalabit Market Luxury Edition | 89875 | [89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json](./89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json) |
 | Dragon Ball Kart 64 | 172711 | [172711-dragon-ball-kart-64.json](./172711-dragon-ball-kart-64.json) |
 | Dragon Ball Legends | 95014 | [95014-dragon-ball-legends.json](./95014-dragon-ball-legends.json) |
+| Dragon Ball RPG: Shounen-hen | 62726 | [62726-dragon-ball-rpg-shounen-hen.json](./62726-dragon-ball-rpg-shounen-hen.json) |
 | Dragon Ball Sparking Zero: Shallot (Dragon Ball Legends) | 366817 | [366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json](./366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
@@ -2811,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Swarm | 87240 | [87240-dragon-swarm.json](./87240-dragon-swarm.json) |
 | Dragon Tales: Dragon Wings | 49939 | [49939-dragon-tales-dragon-wings.json](./49939-dragon-tales-dragon-wings.json) |
 | Dragon Tales: Learn & Fly With Dragons | 72127 | [72127-dragon-tales-learn-and-fly-with-dragons.json](./72127-dragon-tales-learn-and-fly-with-dragons.json) |
+| Dragon Tavern | 62715 | [62715-dragon-tavern.json](./62715-dragon-tavern.json) |
 | Dragon Tax Return Simulator 2015 | 182973 | [182973-dragon-tax-return-simulator-2015.json](./182973-dragon-tax-return-simulator-2015.json) |
 | Dragon Title | 295804 | [295804-dragon-title.json](./295804-dragon-title.json) |
 | Dragon Trails | 173289 | [173289-dragon-trails.json](./173289-dragon-trails.json) |
@@ -2864,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Dragu's Puzzle Adventure | 155648 | [155648-dragus-puzzle-adventure.json](./155648-dragus-puzzle-adventure.json) |
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
+| Drains | 62662 | [62662-drains.json](./62662-drains.json) |
 | DrainSim | 303490 | [303490-drainsim.json](./303490-drainsim.json) |
 | Drak | 168390 | [168390-drak.json](./168390-drak.json) |
 | Drakan: Order of the Flame | 7576 | [7576-drakan-order-of-the-flame.json](./7576-drakan-order-of-the-flame.json) |
@@ -2919,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Adventure | 264068 | [264068-dream-adventure.json](./264068-dream-adventure.json) |
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
+| Dream C Club: Host Girls on Stage | 62711 | [62711-dream-c-club-host-girls-on-stage.json](./62711-dream-c-club-host-girls-on-stage.json) |
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
