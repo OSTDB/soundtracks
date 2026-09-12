@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I-Chu | 220879 | [220879-i-chu.json](./220879-i-chu.json) |
 | I-N-K | 229665 | [229665-i-n-k.json](./229665-i-n-k.json) |
 | I-War | 40820 | [40820-i-war.json](./40820-i-war.json) |
+| I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
 | I.C.O. | 178660 | [178660-i-c-o.json](./178660-i-c-o.json) |
 | I.G.I.-2: Covert Strike | 8559 | [8559-i-g-i-2-covert-strike.json](./8559-i-g-i-2-covert-strike.json) |
 | I.H.A.S | 224773 | [224773-i-h-a-s.json](./224773-i-h-a-s.json) |
@@ -1114,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders! From Outer Space | 107930 | [107930-invaders-from-outer-space.json](./107930-invaders-from-outer-space.json) |
 | Invasão | 299473 | [299473-invasao.json](./299473-invasao.json) |
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
+| Invasion - The Abductors | 39624 | [39624-invasion-the-abductors.json](./39624-invasion-the-abductors.json) |
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
 | Invasion Force | 85518 | [85518-invasion-force.json](./85518-invasion-force.json) |
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
