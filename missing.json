@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T19:21:32.538Z",
-  "total_missing": 63047,
+  "generated_at": "2026-09-12T19:31:45.671Z",
+  "total_missing": 63062,
   "games": [
     {
       "igdb_id": 306086,
@@ -3116,11 +3116,6 @@
       "igdb_id": 216799,
       "game_name": "Abyss Soul Lotus",
       "file": "missing/A/216799-abyss-soul-lotus.json"
-    },
-    {
-      "igdb_id": 311261,
-      "game_name": "Abyss Survivors",
-      "file": "missing/A/311261-abyss-survivors.json"
     },
     {
       "igdb_id": 331349,
@@ -9158,6 +9153,11 @@
       "file": "missing/A/66781-alphabounce.json"
     },
     {
+      "igdb_id": 38964,
+      "game_name": "Alphadia 2",
+      "file": "missing/A/38964-alphadia-2.json"
+    },
+    {
       "igdb_id": 17849,
       "game_name": "Alphadia Genesis",
       "file": "missing/A/17849-alphadia-genesis.json"
@@ -13563,6 +13563,11 @@
       "file": "missing/A/244485-arc-seed.json"
     },
     {
+      "igdb_id": 38984,
+      "game_name": "ARC Squadron: Redux",
+      "file": "missing/A/38984-arc-squadron-redux.json"
+    },
+    {
       "igdb_id": 62222,
       "game_name": "Arc Style Solitaire",
       "file": "missing/A/62222-arc-style-solitaire.json"
@@ -16223,9 +16228,19 @@
       "file": "missing/A/172729-asdivine-collection.json"
     },
     {
+      "igdb_id": 38981,
+      "game_name": "Asdivine Dios",
+      "file": "missing/A/38981-asdivine-dios.json"
+    },
+    {
       "igdb_id": 196276,
       "game_name": "Asdivine Hearts I & II",
       "file": "missing/A/196276-asdivine-hearts-i-and-ii.json"
+    },
+    {
+      "igdb_id": 38980,
+      "game_name": "Asdivine Menace",
+      "file": "missing/A/38980-asdivine-menace.json"
     },
     {
       "igdb_id": 379349,
@@ -23608,6 +23623,11 @@
       "file": "missing/B/226237-battle-drones-red-rock-resistance.json"
     },
     {
+      "igdb_id": 38979,
+      "game_name": "Battle Ducks",
+      "file": "missing/B/38979-battle-ducks.json"
+    },
+    {
       "igdb_id": 175438,
       "game_name": "Battle Dungeon: Risen",
       "file": "missing/B/175438-battle-dungeon-risen.json"
@@ -29703,6 +29723,11 @@
       "file": "missing/B/332826-blazblue-cross-tag-battle-additional-color-set-3.json"
     },
     {
+      "igdb_id": 38977,
+      "game_name": "BlazBlue Revolution Reburning",
+      "file": "missing/B/38977-blazblue-revolution-reburning.json"
+    },
+    {
       "igdb_id": 46018,
       "game_name": "BlazBlue: Calamity Trigger Portable",
       "file": "missing/B/46018-blazblue-calamity-trigger-portable.json"
@@ -33648,6 +33673,11 @@
       "file": "missing/B/199602-bound-in-time.json"
     },
     {
+      "igdb_id": 38976,
+      "game_name": "Bound of the Skies",
+      "file": "missing/B/38976-bound-of-the-skies.json"
+    },
+    {
       "igdb_id": 410267,
       "game_name": "Bound to Defend",
       "file": "missing/B/410267-bound-to-defend.json"
@@ -34448,6 +34478,11 @@
       "file": "missing/B/151176-brandins-buttons.json"
     },
     {
+      "igdb_id": 38975,
+      "game_name": "Brandnew Boy",
+      "file": "missing/B/38975-brandnew-boy.json"
+    },
+    {
       "igdb_id": 64977,
       "game_name": "Branmarker 2",
       "file": "missing/B/64977-branmarker-2.json"
@@ -34641,6 +34676,11 @@
       "igdb_id": 275878,
       "game_name": "Bravest Chicken",
       "file": "missing/B/275878-bravest-chicken.json"
+    },
+    {
+      "igdb_id": 38974,
+      "game_name": "Bravium: Hero Defense",
+      "file": "missing/B/38974-bravium-hero-defense.json"
     },
     {
       "igdb_id": 18250,
@@ -38731,6 +38771,11 @@
       "igdb_id": 221961,
       "game_name": "Call Me Emperor",
       "file": "missing/C/221961-call-me-emperor.json"
+    },
+    {
+      "igdb_id": 38963,
+      "game_name": "Call of Agents",
+      "file": "missing/C/38963-call-of-agents.json"
     },
     {
       "igdb_id": 200141,
@@ -110843,6 +110888,11 @@
       "file": "missing/H/187490-hammer-kid.json"
     },
     {
+      "igdb_id": 38971,
+      "game_name": "Hammer of Fury",
+      "file": "missing/H/38971-hammer-of-fury.json"
+    },
+    {
       "igdb_id": 178089,
       "game_name": "Hammer time!",
       "file": "missing/H/178089-hammer-time.json"
@@ -138193,6 +138243,11 @@
       "file": "missing/K/166686-kitaria-fables-deluxe-edition.json"
     },
     {
+      "igdb_id": 38961,
+      "game_name": "Kitaria Heroes: Force Bender",
+      "file": "missing/K/38961-kitaria-heroes-force-bender.json"
+    },
+    {
       "igdb_id": 218719,
       "game_name": "Kitchen",
       "file": "missing/K/218719-kitchen.json"
@@ -161516,6 +161571,11 @@
       "igdb_id": 52586,
       "game_name": "Might & Magic: Duel of Champions - Forgotten Wars",
       "file": "missing/M/52586-might-and-magic-duel-of-champions-forgotten-wars.json"
+    },
+    {
+      "igdb_id": 38970,
+      "game_name": "Might & Mayhem",
+      "file": "missing/M/38970-might-and-mayhem.json"
     },
     {
       "igdb_id": 7733,
@@ -214941,6 +215001,11 @@
       "igdb_id": 90579,
       "game_name": "Rivais Em Batalha",
       "file": "missing/R/90579-rivais-em-batalha.json"
+    },
+    {
+      "igdb_id": 38965,
+      "game_name": "Rival Books of Aster",
+      "file": "missing/R/38965-rival-books-of-aster.json"
     },
     {
       "igdb_id": 188648,
@@ -275128,6 +275193,11 @@
       "file": "missing/T/17811-the-sun-and-moon.json"
     },
     {
+      "igdb_id": 38962,
+      "game_name": "The Sun Never Sets",
+      "file": "missing/T/38962-the-sun-never-sets.json"
+    },
+    {
       "igdb_id": 102763,
       "game_name": "The Sun: Origin",
       "file": "missing/T/102763-the-sun-origin.json"
@@ -287981,6 +288051,11 @@
       "igdb_id": 328281,
       "game_name": "Transcontinental",
       "file": "missing/T/328281-transcontinental.json"
+    },
+    {
+      "igdb_id": 38969,
+      "game_name": "Transformers Age of Extinction",
+      "file": "missing/T/38969-transformers-age-of-extinction.json"
     },
     {
       "igdb_id": 137611,
