@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
 | Tap Sonic | 92492 | [92492-tap-sonic.json](./92492-tap-sonic.json) |
 | Tap Sports Baseball 2016 | 58263 | [58263-tap-sports-baseball-2016.json](./58263-tap-sports-baseball-2016.json) |
+| Tap Sports Football | 59953 | [59953-tap-sports-football.json](./59953-tap-sports-football.json) |
 | Tap Sports Football 2016 | 58260 | [58260-tap-sports-football-2016.json](./58260-tap-sports-football-2016.json) |
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TetraLogical | 115531 | [115531-tetralogical.json](./115531-tetralogical.json) |
 | Tetraminis Deffect | 284352 | [284352-tetraminis-deffect.json](./284352-tetraminis-deffect.json) |
 | Tetraphobia | 124740 | [124740-tetraphobia.json](./124740-tetraphobia.json) |
+| Tetraspace | 59929 | [59929-tetraspace.json](./59929-tetraspace.json) |
 | TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
 | Tetriller | 84247 | [84247-tetriller.json](./84247-tetriller.json) |
 | TetriMatch | 339273 | [339273-tetrimatch.json](./339273-tetrimatch.json) |
@@ -1565,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cosmic Wheel Sisterhood | 247578 | [247578-the-cosmic-wheel-sisterhood.json](./247578-the-cosmic-wheel-sisterhood.json) |
 | The Cosmos is Mine! | 35800 | [35800-the-cosmos-is-mine.json](./35800-the-cosmos-is-mine.json) |
 | The Cost Of Seeds | 292857 | [292857-the-cost-of-seeds.json](./292857-the-cost-of-seeds.json) |
+| The Cottage | 59966 | [59966-the-cottage.json](./59966-the-cottage.json) |
 | The Count of Monte Carlo | 151696 | [151696-the-count-of-monte-carlo.json](./151696-the-count-of-monte-carlo.json) |
 | The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
@@ -3928,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X Factor Sing | 84261 | [84261-the-x-factor-sing.json](./84261-the-x-factor-sing.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
+| The You Testament | 59920 | [59920-the-you-testament.json](./59920-the-you-testament.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
 | The Yukon Trail | 73782 | [73782-the-yukon-trail.json](./73782-the-yukon-trail.json) |
 | The Zodiac Mystery | 392122 | [392122-the-zodiac-mystery.json](./392122-the-zodiac-mystery.json) |
