@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
+| Naruto Shippuden: Dairansen! Kage Bunshin Emaki | 61026 | [61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json](./61026-naruto-shippuden-dairansen-kage-bunshin-emaki.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX | 75838 | [75838-naruto-shippuden-gekitou-ninja-taisen-ex.json](./75838-naruto-shippuden-gekitou-ninja-taisen-ex.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX 2 | 75839 | [75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json](./75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json) |
 | Naruto Shippuden: Gekitou Ninja Taisen! EX 3 | 75840 | [75840-naruto-shippuden-gekitou-ninja-taisen-ex-3.json](./75840-naruto-shippuden-gekitou-ninja-taisen-ex-3.json) |
@@ -176,6 +177,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
 | National Geographic Challenge! | 52603 | [52603-national-geographic-challenge.json](./52603-national-geographic-challenge.json) |
 | National Geographic Lilly Wu and the Terra Cotta Mystery | 209148 | [209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json](./209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json) |
+| National Lacrosse League 2010 | 61034 | [61034-national-lacrosse-league-2010.json](./61034-national-lacrosse-league-2010.json) |
+| National Lacrosse League 2011 | 61035 | [61035-national-lacrosse-league-2011.json](./61035-national-lacrosse-league-2011.json) |
 | National Park Girls: Episode 2 - Happy Trails | 164444 | [164444-national-park-girls-episode-2-happy-trails.json](./164444-national-park-girls-episode-2-happy-trails.json) |
 | National Park Girls: Episode 3 - Daughter of Zion | 164445 | [164445-national-park-girls-episode-3-daughter-of-zion.json](./164445-national-park-girls-episode-3-daughter-of-zion.json) |
 | National Park Girls: Episode 4 - Eternal Evergreen Part 1 | 164446 | [164446-national-park-girls-episode-4-eternal-evergreen-part-1.json](./164446-national-park-girls-episode-4-eternal-evergreen-part-1.json) |
@@ -1550,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numenclature | 357249 | [357249-numenclature.json](./357249-numenclature.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
 | Numina | 141250 | [141250-numina.json](./141250-numina.json) |
+| Numinous | 61044 | [61044-numinous.json](./61044-numinous.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
 | Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
 | NumWorlds | 335846 | [335846-numworlds.json](./335846-numworlds.json) |
