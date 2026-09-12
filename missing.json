@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T12:21:34.293Z",
-  "total_missing": 61837,
+  "generated_at": "2026-09-12T12:31:52.647Z",
+  "total_missing": 61847,
   "games": [
     {
       "igdb_id": 306086,
@@ -2906,11 +2906,6 @@
       "igdb_id": 156672,
       "game_name": "About Gretel",
       "file": "missing/A/156672-about-gretel.json"
-    },
-    {
-      "igdb_id": 173805,
-      "game_name": "About Love and Hate 2",
-      "file": "missing/A/173805-about-love-and-hate-2.json"
     },
     {
       "igdb_id": 276725,
@@ -240523,6 +240518,11 @@
       "file": "missing/S/11289-star-wars-chess.json"
     },
     {
+      "igdb_id": 54400,
+      "game_name": "Star Wars Collection",
+      "file": "missing/S/54400-star-wars-collection.json"
+    },
+    {
       "igdb_id": 158,
       "game_name": "Star Wars Episode I: The Phantom Menace",
       "file": "missing/S/158-star-wars-episode-i-the-phantom-menace.json"
@@ -240646,6 +240646,11 @@
       "igdb_id": 62669,
       "game_name": "Star Wars: Jedi Adventure",
       "file": "missing/S/62669-star-wars-jedi-adventure.json"
+    },
+    {
+      "igdb_id": 54401,
+      "game_name": "Star Wars: Jedi Knight Collection",
+      "file": "missing/S/54401-star-wars-jedi-knight-collection.json"
     },
     {
       "igdb_id": 200677,
@@ -244308,6 +244313,11 @@
       "file": "missing/S/332983-streetsync.json"
     },
     {
+      "igdb_id": 54404,
+      "game_name": "Strength & Honour 2",
+      "file": "missing/S/54404-strength-and-honour-2.json"
+    },
+    {
       "igdb_id": 283734,
       "game_name": "Strength & Skill: Guiness Book of Records",
       "file": "missing/S/283734-strength-and-skill-guiness-book-of-records.json"
@@ -244378,6 +244388,11 @@
       "file": "missing/S/349835-strike-at-night.json"
     },
     {
+      "igdb_id": 54405,
+      "game_name": "Strike Ball 3",
+      "file": "missing/S/54405-strike-ball-3.json"
+    },
+    {
       "igdb_id": 339656,
       "game_name": "Strike Buster",
       "file": "missing/S/339656-strike-buster.json"
@@ -244403,9 +244418,19 @@
       "file": "missing/S/56465-strike-of-kings.json"
     },
     {
+      "igdb_id": 54406,
+      "game_name": "Strike Solitaire",
+      "file": "missing/S/54406-strike-solitaire.json"
+    },
+    {
       "igdb_id": 31958,
       "game_name": "Strike Squadron: Caracará",
       "file": "missing/S/31958-strike-squadron-caracara.json"
+    },
+    {
+      "igdb_id": 54407,
+      "game_name": "Strike Suit Zero: Collectors Edition",
+      "file": "missing/S/54407-strike-suit-zero-collectors-edition.json"
     },
     {
       "igdb_id": 174838,
@@ -244441,6 +244466,11 @@
       "igdb_id": 212270,
       "game_name": "Strikers 1945 III for Nintendo Switch",
       "file": "missing/S/212270-strikers-1945-iii-for-nintendo-switch.json"
+    },
+    {
+      "igdb_id": 54408,
+      "game_name": "Strimko",
+      "file": "missing/S/54408-strimko.json"
     },
     {
       "igdb_id": 173236,
@@ -244503,6 +244533,16 @@
       "file": "missing/S/139460-strobophagia-rave-horror.json"
     },
     {
+      "igdb_id": 54409,
+      "game_name": "Stroke of Midnight",
+      "file": "missing/S/54409-stroke-of-midnight.json"
+    },
+    {
+      "igdb_id": 54410,
+      "game_name": "Stroke of Midnight: Collector's Edition",
+      "file": "missing/S/54410-stroke-of-midnight-collectors-edition.json"
+    },
+    {
       "igdb_id": 217915,
       "game_name": "Stroke the Cat",
       "file": "missing/S/217915-stroke-the-cat.json"
@@ -244556,6 +244596,11 @@
       "igdb_id": 135863,
       "game_name": "StrongBadZone",
       "file": "missing/S/135863-strongbadzone.json"
+    },
+    {
+      "igdb_id": 54411,
+      "game_name": "Stronghold 3 Gold",
+      "file": "missing/S/54411-stronghold-3-gold.json"
     },
     {
       "igdb_id": 21771,
@@ -246816,6 +246861,11 @@
       "igdb_id": 267920,
       "game_name": "Super Creme World",
       "file": "missing/S/267920-super-creme-world.json"
+    },
+    {
+      "igdb_id": 54412,
+      "game_name": "Super Cross Kings",
+      "file": "missing/S/54412-super-cross-kings.json"
     },
     {
       "igdb_id": 65448,
