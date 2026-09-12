@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Gang | 142998 | [142998-golf-gang.json](./142998-golf-gang.json) |
 | Golf Guys: Complete Edition | 283174 | [283174-golf-guys-complete-edition.json](./283174-golf-guys-complete-edition.json) |
 | Golf is Hard | 237963 | [237963-golf-is-hard.json](./237963-golf-is-hard.json) |
+| Golf Island | 58211 | [58211-golf-island.json](./58211-golf-island.json) |
 | Golf Keeper | 130954 | [130954-golf-keeper.json](./130954-golf-keeper.json) |
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
