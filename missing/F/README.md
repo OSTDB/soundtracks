@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagdashers | 289871 | [289871-flagdashers.json](./289871-flagdashers.json) |
 | Flagdoku | 333550 | [333550-flagdoku.json](./333550-flagdoku.json) |
 | Flaghead | 400219 | [400219-flaghead.json](./400219-flaghead.json) |
+| Flagship | 61563 | [61563-flagship.json](./61563-flagship.json) |
 | Flailing Limbs Bundle | 107266 | [107266-flailing-limbs-bundle.json](./107266-flailing-limbs-bundle.json) |
 | Flain: Tao force & Cubes | 153433 | [153433-flain-tao-force-and-cubes.json](./153433-flain-tao-force-and-cubes.json) |
 | Flairtender | 29635 | [29635-flairtender.json](./29635-flairtender.json) |
