@@ -2550,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
 | Double Elf Fantasy | 241663 | [241663-double-elf-fantasy.json](./241663-double-elf-fantasy.json) |
 | Double Essence | 98440 | [98440-double-essence.json](./98440-double-essence.json) |
+| Double Happy vs. The Infinite Sadness: Pharos | 61055 | [61055-double-happy-vs-the-infinite-sadness-pharos.json](./61055-double-happy-vs-the-infinite-sadness-pharos.json) |
 | Double Hits | 130302 | [130302-double-hits.json](./130302-double-hits.json) |
 | Double Impact | 135886 | [135886-double-impact.json](./135886-double-impact.json) |
 | Double Jump 2 | 151714 | [151714-double-jump-2.json](./151714-double-jump-2.json) |
@@ -2612,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mary | 268447 | [268447-dr-mary.json](./268447-dr-mary.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
 | Dr. P | 278398 | [278398-dr-p.json](./278398-dr-p.json) |
+| Dr. Panda & Toto's Treehouse | 61050 | [61050-dr-panda-and-totos-treehouse.json](./61050-dr-panda-and-totos-treehouse.json) |
 | Dr. Panda Restaurant 2 | 344927 | [344927-dr-panda-restaurant-2.json](./344927-dr-panda-restaurant-2.json) |
 | Dr. Panda's Restaurant | 87345 | [87345-dr-pandas-restaurant.json](./87345-dr-pandas-restaurant.json) |
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
@@ -3146,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop: System Breach | 202862 | [202862-drop-system-breach.json](./202862-drop-system-breach.json) |
 | Droplet | 176483 | [176483-droplet.json](./176483-droplet.json) |
 | Droplet | 314678 | [314678-droplet.json](./314678-droplet.json) |
+| Droplet Shuffle | 61057 | [61057-droplet-shuffle.json](./61057-droplet-shuffle.json) |
 | Dropoff | 410269 | [410269-dropoff.json](./410269-dropoff.json) |
 | DropZone | 19546 | [19546-dropzone.json](./19546-dropzone.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
