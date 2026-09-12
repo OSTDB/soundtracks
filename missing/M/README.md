@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machinicide | 196962 | [196962-machinicide.json](./196962-machinicide.json) |
 | Machiteba Tengoku! Makereba Jigoku! Ryoutsuryuu Ikkakusenkin Daisakusen! | 269588 | [269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json](./269588-machiteba-tengoku-makereba-jigoku-ryoutsuryuu-ikkakusenkin-daisakusen.json) |
 | Machizzle | 139478 | [139478-machizzle.json](./139478-machizzle.json) |
+| MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
 | Macrocosm | 200180 | [200180-macrocosm.json](./200180-macrocosm.json) |
 | Macross - Eternal Love Song | 41994 | [41994-macross-eternal-love-song.json](./41994-macross-eternal-love-song.json) |
 | Macross 30: Voices across the Galaxy | 79292 | [79292-macross-30-voices-across-the-galaxy.json](./79292-macross-30-voices-across-the-galaxy.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
+| Magma Chamber | 32968 | [32968-magma-chamber.json](./32968-magma-chamber.json) |
 | Magma Project Hacker | 41313 | [41313-magma-project-hacker.json](./41313-magma-project-hacker.json) |
 | Magman | 311271 | [311271-magman.json](./311271-magman.json) |
 | MagMaze | 240214 | [240214-magmaze.json](./240214-magmaze.json) |
@@ -2680,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Command | 280782 | [280782-missile-command.json](./280782-missile-command.json) |
 | Missile Command 3D | 40810 | [40810-missile-command-3d.json](./40810-missile-command-3d.json) |
 | Missileman Clone Commandos! | 131586 | [131586-missileman-clone-commandos.json](./131586-missileman-clone-commandos.json) |
+| Missileman Origins | 33034 | [33034-missileman-origins.json](./33034-missileman-origins.json) |
 | Missileman Spy Strike 2 | 131603 | [131603-missileman-spy-strike-2.json](./131603-missileman-spy-strike-2.json) |
 | Missiles Away | 254149 | [254149-missiles-away.json](./254149-missiles-away.json) |
 | Missing | 213634 | [213634-missing.json](./213634-missing.json) |
@@ -3378,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
+| MOP Operation Cleanup | 32961 | [32961-mop-operation-cleanup.json](./32961-mop-operation-cleanup.json) |
 | Mopar Drag N Brag | 246965 | [246965-mopar-drag-n-brag.json](./246965-mopar-drag-n-brag.json) |
 | Mope.io | 108987 | [108987-mope-io.json](./108987-mope-io.json) |
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
