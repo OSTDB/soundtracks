@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heiwa Pachinko World 64 | 3510 | [3510-heiwa-pachinko-world-64.json](./3510-heiwa-pachinko-world-64.json) |
+| Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
@@ -1545,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinterhalt 3 | 132211 | [132211-hinterhalt-3.json](./132211-hinterhalt-3.json) |
 | Hinterland: Orc Lords | 24996 | [24996-hinterland-orc-lords.json](./24996-hinterland-orc-lords.json) |
 | Hiouden | 38384 | [38384-hiouden.json](./38384-hiouden.json) |
+| Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
 | Hippo Doctor: Hospital Laboratory | 105946 | [105946-hippo-doctor-hospital-laboratory.json](./105946-hippo-doctor-hospital-laboratory.json) |
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
 | Hippo Teeth | 41422 | [41422-hippo-teeth.json](./41422-hippo-teeth.json) |
