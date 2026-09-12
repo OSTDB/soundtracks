@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
+| Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
 | Scott Pilgrim vs. the World: The Game | 7448 | [7448-scott-pilgrim-vs-the-world-the-game.json](./7448-scott-pilgrim-vs-the-world-the-game.json) |
 | Scotty Goes to Centrelink | 202350 | [202350-scotty-goes-to-centrelink.json](./202350-scotty-goes-to-centrelink.json) |
@@ -1435,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai II: Dragon's Eye | 406086 | [406086-shanghai-ii-dragons-eye.json](./406086-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406087 | [406087-shanghai-ii-dragons-eye.json](./406087-shanghai-ii-dragons-eye.json) |
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
+| Shanghai: Dynasty | 71448 | [71448-shanghai-dynasty.json](./71448-shanghai-dynasty.json) |
 | Shanghai: Great Moments | 73316 | [73316-shanghai-great-moments.json](./73316-shanghai-great-moments.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
@@ -2991,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Battle Princess Sayuki | 191180 | [191180-snow-battle-princess-sayuki.json](./191180-snow-battle-princess-sayuki.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
+| Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
@@ -3264,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solus | 137016 | [137016-solus.json](./137016-solus.json) |
 | Solve & Roll | 259552 | [259552-solve-and-roll.json](./259552-solve-and-roll.json) |
 | Solve This! Emoji Puzzle | 213596 | [213596-solve-this-emoji-puzzle.json](./213596-solve-this-emoji-puzzle.json) |
+| Solver: The Bank Quest | 71450 | [71450-solver-the-bank-quest.json](./71450-solver-the-bank-quest.json) |
 | Solvimus | 370138 | [370138-solvimus.json](./370138-solvimus.json) |
 | Soma Spirits | 400893 | [400893-soma-spirits.json](./400893-soma-spirits.json) |
 | Somari Insanity | 331871 | [331871-somari-insanity.json](./331871-somari-insanity.json) |
@@ -3949,6 +3953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shells | 204100 | [204100-space-shells.json](./204100-space-shells.json) |
 | Space ships | 104696 | [104696-space-ships.json](./104696-space-ships.json) |
 | Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
+| Space Shooter: Alpha Impact | 71482 | [71482-space-shooter-alpha-impact.json](./71482-space-shooter-alpha-impact.json) |
 | Space Shooter: Fun Arcade Game | 87535 | [87535-space-shooter-fun-arcade-game.json](./87535-space-shooter-fun-arcade-game.json) |
 | Space shooter: Galaxy Attack | 256526 | [256526-space-shooter-galaxy-attack.json](./256526-space-shooter-galaxy-attack.json) |
 | Space Shot Game | 346047 | [346047-space-shot-game.json](./346047-space-shot-game.json) |
@@ -4793,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
 | Star Voyage: Treasure Hunting | 301240 | [301240-star-voyage-treasure-hunting.json](./301240-star-voyage-treasure-hunting.json) |
+| Star Warped | 71483 | [71483-star-warped.json](./71483-star-warped.json) |
 | Star Warrior | 94241 | [94241-star-warrior.json](./94241-star-warrior.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
@@ -5462,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Boy | 220646 | [220646-street-boy.json](./220646-street-boy.json) |
 | Street Cat | 78041 | [78041-street-cat.json](./78041-street-cat.json) |
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
+| Street Cred Football | 71471 | [71471-street-cred-football.json](./71471-street-cred-football.json) |
 | Street Defenders | 357270 | [357270-street-defenders.json](./357270-street-defenders.json) |
 | Street Drag Racing Car Driving Simulator 2022 Games | 231066 | [231066-street-drag-racing-car-driving-simulator-2022-games.json](./231066-street-drag-racing-car-driving-simulator-2022-games.json) |
 | Street Drag Racing Car Driving Simulator: Premium Edition | 315852 | [315852-street-drag-racing-car-driving-simulator-premium-edition.json](./315852-street-drag-racing-car-driving-simulator-premium-edition.json) |
