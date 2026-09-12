@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T07:46:39.513Z",
-  "total_missing": 61115,
+  "generated_at": "2026-09-12T07:51:31.882Z",
+  "total_missing": 61119,
   "games": [
     {
       "igdb_id": 306086,
@@ -2756,11 +2756,6 @@
       "igdb_id": 232969,
       "game_name": "Aashaa",
       "file": "missing/A/232969-aashaa.json"
-    },
-    {
-      "igdb_id": 84237,
-      "game_name": "Aba Daba",
-      "file": "missing/A/84237-aba-daba.json"
     },
     {
       "igdb_id": 311802,
@@ -70673,6 +70668,11 @@
       "file": "missing/D/72127-dragon-tales-learn-and-fly-with-dragons.json"
     },
     {
+      "igdb_id": 62715,
+      "game_name": "Dragon Tavern",
+      "file": "missing/D/62715-dragon-tavern.json"
+    },
+    {
       "igdb_id": 182973,
       "game_name": "Dragon Tax Return Simulator 2015",
       "file": "missing/D/182973-dragon-tax-return-simulator-2015.json"
@@ -111893,6 +111893,11 @@
       "file": "missing/H/296945-hentai-nurse.json"
     },
     {
+      "igdb_id": 62719,
+      "game_name": "Hentai Ouji to Warawanai Neko.",
+      "file": "missing/H/62719-hentai-ouji-to-warawanai-neko.json"
+    },
+    {
       "igdb_id": 313153,
       "game_name": "Hentai Paradise Vol. 2",
       "file": "missing/H/313153-hentai-paradise-vol-2.json"
@@ -133751,6 +133756,11 @@
       "igdb_id": 287671,
       "game_name": "Kingmakers",
       "file": "missing/K/287671-kingmakers.json"
+    },
+    {
+      "igdb_id": 62717,
+      "game_name": "Kings Age",
+      "file": "missing/K/62717-kings-age.json"
     },
     {
       "igdb_id": 152937,
@@ -165196,6 +165206,11 @@
       "igdb_id": 239333,
       "game_name": "MurMur",
       "file": "missing/M/239333-murmur.json"
+    },
+    {
+      "igdb_id": 62718,
+      "game_name": "Murnatan",
+      "file": "missing/M/62718-murnatan.json"
     },
     {
       "igdb_id": 330157,
@@ -300271,6 +300286,11 @@
       "igdb_id": 95380,
       "game_name": "X Rock",
       "file": "missing/X/95380-x-rock.json"
+    },
+    {
+      "igdb_id": 62716,
+      "game_name": "X S.E.E.D.",
+      "file": "missing/X/62716-x-s-e-e-d.json"
     },
     {
       "igdb_id": 190742,
