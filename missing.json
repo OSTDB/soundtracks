@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T09:48:59.910Z",
-  "total_missing": 61474,
+  "generated_at": "2026-09-12T09:51:30.888Z",
+  "total_missing": 61473,
   "games": [
     {
       "igdb_id": 306086,
@@ -2816,11 +2816,6 @@
       "igdb_id": 180759,
       "game_name": "Abducting Mjolnir",
       "file": "missing/A/180759-abducting-mjolnir.json"
-    },
-    {
-      "igdb_id": 312919,
-      "game_name": "Abduction",
-      "file": "missing/A/312919-abduction.json"
     },
     {
       "igdb_id": 337117,
