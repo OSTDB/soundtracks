@@ -1842,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Mist | 112328 | [112328-city-of-mist.json](./112328-city-of-mist.json) |
 | City of Mist 2 | 123536 | [123536-city-of-mist-2.json](./123536-city-of-mist-2.json) |
 | City of Rampage | 217025 | [217025-city-of-rampage.json](./217025-city-of-rampage.json) |
+| City of Rott: Streets of Rott | 29766 | [29766-city-of-rott-streets-of-rott.json](./29766-city-of-rott-streets-of-rott.json) |
 | City of Scrap | 183575 | [183575-city-of-scrap.json](./183575-city-of-scrap.json) |
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
 | City of Stories: Stephan's Journey - Collector's Edition | 362835 | [362835-city-of-stories-stephans-journey-collectors-edition.json](./362835-city-of-stories-stephans-journey-collectors-edition.json) |
@@ -1851,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Racing 2 | 181309 | [181309-city-racing-2.json](./181309-city-racing-2.json) |
 | City Rhapsody! | 212808 | [212808-city-rhapsody.json](./212808-city-rhapsody.json) |
 | City Rush | 246428 | [246428-city-rush.json](./246428-city-rush.json) |
+| City Siege: Faction Island | 29814 | [29814-city-siege-faction-island.json](./29814-city-siege-faction-island.json) |
 | City Sights: Hello Seattle! | 206350 | [206350-city-sights-hello-seattle.json](./206350-city-sights-hello-seattle.json) |
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
@@ -2220,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cognition Method | 211219 | [211219-cognition-method.json](./211219-cognition-method.json) |
 | Cognitive Dissonance: A SiIvaGunner Christmas Comeback Crisis Side Story | 326956 | [326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json](./326956-cognitive-dissonance-a-siivagunner-christmas-comeback-crisis-side-story.json) |
 | Cogs and Carnage | 291215 | [291215-cogs-and-carnage.json](./291215-cogs-and-carnage.json) |
+| CogVR | 29827 | [29827-cogvr.json](./29827-cogvr.json) |
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
 | Coin | 314310 | [314310-coin.json](./314310-coin.json) |
@@ -3896,6 +3899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Town | 31597 | [31597-custom-town.json](./31597-custom-town.json) |
 | Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
+| Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
 | Cut Off From The World | 245318 | [245318-cut-off-from-the-world.json](./245318-cut-off-from-the-world.json) |
 | Cut Short | 179693 | [179693-cut-short.json](./179693-cut-short.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
