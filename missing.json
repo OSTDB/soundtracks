@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T22:33:53.998Z",
-  "total_missing": 63582,
+  "generated_at": "2026-09-12T22:41:27.061Z",
+  "total_missing": 63581,
   "games": [
     {
       "igdb_id": 306086,
@@ -3211,11 +3211,6 @@
       "igdb_id": 85538,
       "game_name": "ACA Neo Geo: Burning Fight",
       "file": "missing/A/85538-aca-neo-geo-burning-fight.json"
-    },
-    {
-      "igdb_id": 83769,
-      "game_name": "ACA Neo Geo: The King of Fighters '97",
-      "file": "missing/A/83769-aca-neo-geo-the-king-of-fighters-97.json"
     },
     {
       "igdb_id": 76578,
