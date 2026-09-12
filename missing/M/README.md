@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MarksmanVR | 28878 | [28878-marksmanvr.json](./28878-marksmanvr.json) |
 | Marl de Jigsaw | 165610 | [165610-marl-de-jigsaw.json](./165610-marl-de-jigsaw.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
+| Marlene | 25634 | [25634-marlene.json](./25634-marlene.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
 | Marooned | 151651 | [151651-marooned.json](./151651-marooned.json) |
@@ -1183,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matts Project Z Endless | 149581 | [149581-matts-project-z-endless.json](./149581-matts-project-z-endless.json) |
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
+| Mausoleum of the Medusa | 25604 | [25604-mausoleum-of-the-medusa.json](./25604-mausoleum-of-the-medusa.json) |
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
 | Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
@@ -1587,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meiji Tokyo Renka Full Moon | 136447 | [136447-meiji-tokyo-renka-full-moon.json](./136447-meiji-tokyo-renka-full-moon.json) |
 | Meiji Tokyo Renka Twilight Kiss | 136446 | [136446-meiji-tokyo-renka-twilight-kiss.json](./136446-meiji-tokyo-renka-twilight-kiss.json) |
 | Meikyuu Ryuuki | 284319 | [284319-meikyuu-ryuuki.json](./284319-meikyuu-ryuuki.json) |
+| Meikyuu Xross Blood | 25664 | [25664-meikyuu-xross-blood.json](./25664-meikyuu-xross-blood.json) |
 | Meine Tierarztpraxis: SOS am Ozean | 204688 | [204688-meine-tierarztpraxis-sos-am-ozean.json](./204688-meine-tierarztpraxis-sos-am-ozean.json) |
 | Meine Tierpension | 179201 | [179201-meine-tierpension.json](./179201-meine-tierpension.json) |
 | Meine Tiersprechstunde | 179202 | [179202-meine-tiersprechstunde.json](./179202-meine-tiersprechstunde.json) |
