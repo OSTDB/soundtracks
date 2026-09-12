@@ -1925,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pochard Jamie | 351632 | [351632-pochard-jamie.json](./351632-pochard-jamie.json) |
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
+| Pocket Billiard Funk: The 9 Ball | 50558 | [50558-pocket-billiard-funk-the-9-ball.json](./50558-pocket-billiard-funk-the-9-ball.json) |
 | Pocket Bite d20 | 184616 | [184616-pocket-bite-d20.json](./184616-pocket-bite-d20.json) |
 | Pocket Bomberman | 2980 | [2980-pocket-bomberman.json](./2980-pocket-bomberman.json) |
 | Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
@@ -2613,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Hearts | 159312 | [159312-primal-hearts.json](./159312-primal-hearts.json) |
 | Primal Hearts 2 | 159313 | [159313-primal-hearts-2.json](./159313-primal-hearts-2.json) |
 | Primal Image Vol.1 | 67313 | [67313-primal-image-vol-1.json](./67313-primal-image-vol-1.json) |
+| Primal Lands | 50517 | [50517-primal-lands.json](./50517-primal-lands.json) |
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
 | Primal Rage | 199013 | [199013-primal-rage.json](./199013-primal-rage.json) |
