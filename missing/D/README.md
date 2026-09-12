@@ -2650,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Mafia: Gang Wars | 105348 | [105348-downtown-mafia-gang-wars.json](./105348-downtown-mafia-gang-wars.json) |
 | Downtown Nekketsu Jidaigeki | 60562 | [60562-downtown-nekketsu-jidaigeki.json](./60562-downtown-nekketsu-jidaigeki.json) |
 | Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
+| Downtown River City Baseball Story: Play Ball, Kunio! | 38277 | [38277-downtown-river-city-baseball-story-play-ball-kunio.json](./38277-downtown-river-city-baseball-story-play-ball-kunio.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
