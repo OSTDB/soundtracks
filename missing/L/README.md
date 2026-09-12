@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Push | 176430 | [176430-laser-push.json](./176430-laser-push.json) |
 | Laser Puzzle | 270413 | [270413-laser-puzzle.json](./270413-laser-puzzle.json) |
 | Laser Quest | 296069 | [296069-laser-quest.json](./296069-laser-quest.json) |
+| Laser Robot | 66605 | [66605-laser-robot.json](./66605-laser-robot.json) |
 | Laser Skirmish | 205059 | [205059-laser-skirmish.json](./205059-laser-skirmish.json) |
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
 | Laser Tag Massacre | 329376 | [329376-laser-tag-massacre.json](./329376-laser-tag-massacre.json) |
@@ -592,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
+| LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO DC Super-Villains: DC TV Series Super-Villains Character Pack | 214484 | [214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json](./214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json) |
 | LEGO DC Super-Villains: Deluxe Edition | 118955 | [118955-lego-dc-super-villains-deluxe-edition.json](./118955-lego-dc-super-villains-deluxe-edition.json) |
 | LEGO Dimensions | 11077 | [11077-lego-dimensions.json](./11077-lego-dimensions.json) |
