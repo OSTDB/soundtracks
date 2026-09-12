@@ -1149,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
 | Sentinel of Innocence | 301827 | [301827-sentinel-of-innocence.json](./301827-sentinel-of-innocence.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
+| Sentinel Returns | 45303 | [45303-sentinel-returns.json](./45303-sentinel-returns.json) |
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
 | Sentinel: Cursed Knight | 153354 | [153354-sentinel-cursed-knight.json](./153354-sentinel-cursed-knight.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
@@ -1497,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Wii | 84853 | [84853-shanghai-wii.json](./84853-shanghai-wii.json) |
 | Shanghai: Dynasty | 71448 | [71448-shanghai-dynasty.json](./71448-shanghai-dynasty.json) |
 | Shanghai: Great Moments | 73316 | [73316-shanghai-great-moments.json](./73316-shanghai-great-moments.json) |
+| Shanghai: True Valor | 45304 | [45304-shanghai-true-valor.json](./45304-shanghai-true-valor.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
@@ -2323,7 +2325,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
 | Singstar: Portugal Hits | 91953 | [91953-singstar-portugal-hits.json](./91953-singstar-portugal-hits.json) |
+| SingStar: Studio 100 | 45301 | [45301-singstar-studio-100.json](./45301-singstar-studio-100.json) |
 | Singstar: SuomiHitit | 91884 | [91884-singstar-suomihitit.json](./91884-singstar-suomihitit.json) |
+| SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
@@ -2866,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
+| Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
 | Smash Arrow | 56421 | [56421-smash-arrow.json](./56421-smash-arrow.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Bowling 3D | 84881 | [84881-smash-bowling-3d.json](./84881-smash-bowling-3d.json) |
@@ -3249,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
 | Soda Story: Brewing Tycoon | 119016 | [119016-soda-story-brewing-tycoon.json](./119016-soda-story-brewing-tycoon.json) |
+| Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
 | Sofi Origins | 277607 | [277607-sofi-origins.json](./277607-sofi-origins.json) |
 | Sofia | 218734 | [218734-sofia.json](./218734-sofia.json) |
 | Sofia the First Royal Learning Tablet | 213378 | [213378-sofia-the-first-royal-learning-tablet.json](./213378-sofia-the-first-royal-learning-tablet.json) |
@@ -4243,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spatium Locus | 139361 | [139361-spatium-locus.json](./139361-spatium-locus.json) |
 | Spattle Cats | 115045 | [115045-spattle-cats.json](./115045-spattle-cats.json) |
 | Spawn | 49969 | [49969-spawn.json](./49969-spawn.json) |
+| Spawn of Evil | 45310 | [45310-spawn-of-evil.json](./45310-spawn-of-evil.json) |
 | Spawn: Armageddon | 4160 | [4160-spawn-armageddon.json](./4160-spawn-armageddon.json) |
 | Spawn: In the Demon's Hand | 4358 | [4358-spawn-in-the-demons-hand.json](./4358-spawn-in-the-demons-hand.json) |
 | Speak Lies | 127360 | [127360-speak-lies.json](./127360-speak-lies.json) |
@@ -4279,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
+| Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Shades: Fragments | 191199 | [191199-spectral-shades-fragments.json](./191199-spectral-shades-fragments.json) |
 | Spectral Survivor | 307581 | [307581-spectral-survivor.json](./307581-spectral-survivor.json) |
 | Spectre of Eternity | 210865 | [210865-spectre-of-eternity.json](./210865-spectre-of-eternity.json) |
@@ -4390,6 +4398,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellwheel | 322968 | [322968-spellwheel.json](./322968-spellwheel.json) |
 | Spellz: Mastery or Death | 278680 | [278680-spellz-mastery-or-death.json](./278680-spellz-mastery-or-death.json) |
 | Spelp | 232711 | [232711-spelp.json](./232711-spelp.json) |
+| Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
+| Spelunker: Collection | 45280 | [45280-spelunker-collection.json](./45280-spelunker-collection.json) |
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
@@ -5568,6 +5578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
+| Storm | 45275 | [45275-storm.json](./45275-storm.json) |
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
