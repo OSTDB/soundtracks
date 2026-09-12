@@ -206,7 +206,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
-| ACA Neo Geo: Puzzle Bobble 2 | 115050 | [115050-aca-neo-geo-puzzle-bobble-2.json](./115050-aca-neo-geo-puzzle-bobble-2.json) |
 | ACA Neo Geo: Real Bout Fatal Fury Special | 78127 | [78127-aca-neo-geo-real-bout-fatal-fury-special.json](./78127-aca-neo-geo-real-bout-fatal-fury-special.json) |
 | ACA Neo Geo: Sengoku | 85478 | [85478-aca-neo-geo-sengoku.json](./85478-aca-neo-geo-sengoku.json) |
 | ACA Neo Geo: Sengoku 2 | 89982 | [89982-aca-neo-geo-sengoku-2.json](./89982-aca-neo-geo-sengoku-2.json) |
