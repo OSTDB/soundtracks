@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Strikers 1945 Plus | 111065 | [111065-aca-neo-geo-strikers-1945-plus.json](./111065-aca-neo-geo-strikers-1945-plus.json) |
 | ACA Neo Geo: The King of Fighters '97 | 83769 | [83769-aca-neo-geo-the-king-of-fighters-97.json](./83769-aca-neo-geo-the-king-of-fighters-97.json) |
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
+| ACA Neo Geo: World Heroes | 76578 | [76578-aca-neo-geo-world-heroes.json](./76578-aca-neo-geo-world-heroes.json) |
 | ACA Neo Geo: World Heroes 2 Jet | 76576 | [76576-aca-neo-geo-world-heroes-2-jet.json](./76576-aca-neo-geo-world-heroes-2-jet.json) |
 | ACA NeoGeo Selection Vol. 10 | 376475 | [376475-aca-neogeo-selection-vol-10.json](./376475-aca-neogeo-selection-vol-10.json) |
 | ACA NeoGeo Selection Vol. 3 | 342070 | [342070-aca-neogeo-selection-vol-3.json](./342070-aca-neogeo-selection-vol-3.json) |
@@ -404,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
 | Acme Bricks | 97351 | [97351-acme-bricks.json](./97351-acme-bricks.json) |
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
+| Acorn Tactics | 76573 | [76573-acorn-tactics.json](./76573-acorn-tactics.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
@@ -1362,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AllFive XP | 307280 | [307280-allfive-xp.json](./307280-allfive-xp.json) |
 | Alliance at War | 193992 | [193992-alliance-at-war.json](./193992-alliance-at-war.json) |
 | Alliance: Future Combat | 61681 | [61681-alliance-future-combat.json](./61681-alliance-future-combat.json) |
+| Alliance: Heroes of the Spire | 76545 | [76545-alliance-heroes-of-the-spire.json](./76545-alliance-heroes-of-the-spire.json) |
 | Alligori | 272866 | [272866-alligori.json](./272866-alligori.json) |
 | Allora and the Broken Portal | 125382 | [125382-allora-and-the-broken-portal.json](./125382-allora-and-the-broken-portal.json) |
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
@@ -1728,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Wings | 102168 | [102168-angel-wings.json](./102168-angel-wings.json) |
 | Angel's Feather | 72737 | [72737-angels-feather.json](./72737-angels-feather.json) |
 | Angel's Feather: Kohaku no Hitomi | 44649 | [44649-angels-feather-kohaku-no-hitomi.json](./44649-angels-feather-kohaku-no-hitomi.json) |
+| Angel's Present: A Marl Kingdom Story | 76591 | [76591-angels-present-a-marl-kingdom-story.json](./76591-angels-present-a-marl-kingdom-story.json) |
 | Angel's Return | 401524 | [401524-angels-return.json](./401524-angels-return.json) |
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
