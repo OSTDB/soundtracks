@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
 | Ad Fundum | 273626 | [273626-ad-fundum.json](./273626-ad-fundum.json) |
+| Ad Infinitum | 47222 | [47222-ad-infinitum.json](./47222-ad-infinitum.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ada and Cal | 165676 | [165676-ada-and-cal.json](./165676-ada-and-cal.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
