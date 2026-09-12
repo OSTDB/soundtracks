@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
 | Daichikun Crisis: Do Natural | 42029 | [42029-daichikun-crisis-do-natural.json](./42029-daichikun-crisis-do-natural.json) |
+| Daigasso! Band Brothers P | 64394 | [64394-daigasso-band-brothers-p.json](./64394-daigasso-band-brothers-p.json) |
 | Daigasso! Band Brothers Request Selection | 69240 | [69240-daigasso-band-brothers-request-selection.json](./69240-daigasso-band-brothers-request-selection.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
 | Daikoukai Jidai V | 56530 | [56530-daikoukai-jidai-v.json](./56530-daikoukai-jidai-v.json) |
@@ -159,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancerush Stardom | 108988 | [108988-dancerush-stardom.json](./108988-dancerush-stardom.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
 | DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
+| Danchi de Hanafuda | 64347 | [64347-danchi-de-hanafuda.json](./64347-danchi-de-hanafuda.json) |
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
 | Dancing Cats | 332805 | [332805-dancing-cats.json](./332805-dancing-cats.json) |
@@ -561,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days With Girlfriends Ⅲ | 391601 | [391601-days-with-girlfriends-iii.json](./391601-days-with-girlfriends-iii.json) |
 | Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
+| Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
 | DC Battle Arena | 137600 | [137600-dc-battle-arena.json](./137600-dc-battle-arena.json) |
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
@@ -982,8 +985,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
 | Deer Hunter - Big Buck Hunter | 101470 | [101470-deer-hunter-big-buck-hunter.json](./101470-deer-hunter-big-buck-hunter.json) |
 | Deer Hunter Classic | 86940 | [86940-deer-hunter-classic.json](./86940-deer-hunter-classic.json) |
+| Deer Hunter Companion | 64371 | [64371-deer-hunter-companion.json](./64371-deer-hunter-companion.json) |
+| Deer Hunter II: Extended Season | 64366 | [64366-deer-hunter-ii-extended-season.json](./64366-deer-hunter-ii-extended-season.json) |
+| Deer Hunter Online | 64364 | [64364-deer-hunter-online.json](./64364-deer-hunter-online.json) |
 | Deer Hunter Reloaded | 136399 | [136399-deer-hunter-reloaded.json](./136399-deer-hunter-reloaded.json) |
 | Deer Hunter x Treme Focal Plane | 169420 | [169420-deer-hunter-x-treme-focal-plane.json](./169420-deer-hunter-x-treme-focal-plane.json) |
+| Deer Hunter: African Safari | 64372 | [64372-deer-hunter-african-safari.json](./64372-deer-hunter-african-safari.json) |
 | Deer Man | 19045 | [19045-deer-man.json](./19045-deer-man.json) |
 | Deez | 114340 | [114340-deez.json](./114340-deez.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
@@ -1349,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
 | Desperate: Vladivostok | 206720 | [206720-desperate-vladivostok.json](./206720-desperate-vladivostok.json) |
 | Desperation | 147415 | [147415-desperation.json](./147415-desperation.json) |
+| Despicable Me: Minion Mania | 64383 | [64383-despicable-me-minion-mania.json](./64383-despicable-me-minion-mania.json) |
 | Despicable Me: The Game | 19652 | [19652-despicable-me-the-game.json](./19652-despicable-me-the-game.json) |
 | Despot's Game: Collector's Edition | 219052 | [219052-despots-game-collectors-edition.json](./219052-despots-game-collectors-edition.json) |
 | Desstroke | 207505 | [207505-desstroke.json](./207505-desstroke.json) |
