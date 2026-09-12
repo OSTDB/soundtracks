@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Mansion | 26726 | [26726-panic-mansion.json](./26726-panic-mansion.json) |
 | Panic Party | 134631 | [134631-panic-party.json](./134631-panic-party.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
+| Panic Space | 41371 | [41371-panic-space.json](./41371-panic-space.json) |
 | Panic Station | 172113 | [172113-panic-station.json](./172113-panic-station.json) |
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
 | Panik | 289300 | [289300-panik.json](./289300-panik.json) |
@@ -3387,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
 | Putrefier | 256824 | [256824-putrefier.json](./256824-putrefier.json) |
 | Putt Nutz | 59458 | [59458-putt-nutz.json](./59458-putt-nutz.json) |
+| Putt Putt Golf | 41311 | [41311-putt-putt-golf.json](./41311-putt-putt-golf.json) |
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
 | Putt Putt World - AR Mini Golf | 105898 | [105898-putt-putt-world-ar-mini-golf.json](./105898-putt-putt-world-ar-mini-golf.json) |
 | Putt-Putt Enters the Race | 3738 | [3738-putt-putt-enters-the-race.json](./3738-putt-putt-enters-the-race.json) |
