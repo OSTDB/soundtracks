@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T03:04:05.540Z",
-  "total_missing": 60307,
+  "generated_at": "2026-09-12T03:11:29.039Z",
+  "total_missing": 60306,
   "games": [
     {
       "igdb_id": 306086,
@@ -2611,11 +2611,6 @@
       "igdb_id": 276740,
       "game_name": "A Voz do Operário",
       "file": "missing/A/276740-a-voz-do-operario.json"
-    },
-    {
-      "igdb_id": 350415,
-      "game_name": "A Wake Between Worlds",
-      "file": "missing/A/350415-a-wake-between-worlds.json"
     },
     {
       "igdb_id": 143698,
