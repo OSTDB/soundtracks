@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Shooter | 167275 | [167275-cave-shooter.json](./167275-cave-shooter.json) |
 | Cave Shooting Collection | 159258 | [159258-cave-shooting-collection.json](./159258-cave-shooting-collection.json) |
 | Cave Swing | 242564 | [242564-cave-swing.json](./242564-cave-swing.json) |
+| Cave Walker | 73226 | [73226-cave-walker.json](./73226-cave-walker.json) |
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
@@ -2530,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
 | Conqueror's Blade: Helheim | 217525 | [217525-conquerors-blade-helheim.json](./217525-conquerors-blade-helheim.json) |
 | Conquest | 86011 | [86011-conquest.json](./86011-conquest.json) |
+| Conquest of Chesterwoode | 73222 | [73222-conquest-of-chesterwoode.json](./73222-conquest-of-chesterwoode.json) |
 | Conquest of Elysium 4 | 24605 | [24605-conquest-of-elysium-4.json](./24605-conquest-of-elysium-4.json) |
 | Conquest of Japan | 73770 | [73770-conquest-of-japan.json](./73770-conquest-of-japan.json) |
 | Conquest of Kings | 295566 | [295566-conquest-of-kings.json](./295566-conquest-of-kings.json) |
