@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
+| Carnival Massacre | 25701 | [25701-carnival-massacre.json](./25701-carnival-massacre.json) |
 | Carnivores: Cityscape | 20568 | [20568-carnivores-cityscape.json](./20568-carnivores-cityscape.json) |
 | Carnivores: Dinosaur Hunter | 20569 | [20569-carnivores-dinosaur-hunter.json](./20569-carnivores-dinosaur-hunter.json) |
 | Carnivores: Dinosaur Hunter HD | 20570 | [20570-carnivores-dinosaur-hunter-hd.json](./20570-carnivores-dinosaur-hunter-hd.json) |
@@ -547,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrier Landings | 87163 | [87163-carrier-landings.json](./87163-carrier-landings.json) |
+| Carriers at War 1941-1945: Fleet Carrier Operations in the Pacific | 25615 | [25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json](./25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json) |
 | Carrion Fields | 228692 | [228692-carrion-fields.json](./228692-carrion-fields.json) |
 | Carrom Friends | 240205 | [240205-carrom-friends.json](./240205-carrom-friends.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
@@ -948,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
 | Caverns of Darkness | 256819 | [256819-caverns-of-darkness.json](./256819-caverns-of-darkness.json) |
 | Caverns of Karvella | 114324 | [114324-caverns-of-karvella.json](./114324-caverns-of-karvella.json) |
+| Caverns of Khafka | 25674 | [25674-caverns-of-khafka.json](./25674-caverns-of-khafka.json) |
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caverns of Toros | 226750 | [226750-caverns-of-toros.json](./226750-caverns-of-toros.json) |
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
@@ -1542,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
+| Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Choro Q | 245031 | [245031-choro-q.json](./245031-choro-q.json) |
 | Choro Q | 69796 | [69796-choro-q.json](./69796-choro-q.json) |
