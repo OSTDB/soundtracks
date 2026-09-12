@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhold | 407330 | [407330-unhold.json](./407330-unhold.json) |
 | Unholy Arts | 135882 | [135882-unholy-arts.json](./135882-unholy-arts.json) |
 | Unholy Legacy | 306361 | [306361-unholy-legacy.json](./306361-unholy-legacy.json) |
+| Unholy Night: The Darkness Hunter | 26502 | [26502-unholy-night-the-darkness-hunter.json](./26502-unholy-night-the-darkness-hunter.json) |
 | UnHolY ToRturEr | 127912 | [127912-unholy-torturer.json](./127912-unholy-torturer.json) |
 | Unhost | 400251 | [400251-unhost.json](./400251-unhost.json) |
 | UnHumanize | 319011 | [319011-unhumanize.json](./319011-unhumanize.json) |
