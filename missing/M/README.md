@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Box | 29867 | [29867-magic-box.json](./29867-magic-box.json) |
 | Magic Bubble | 246100 | [246100-magic-bubble.json](./246100-magic-bubble.json) |
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
+| Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Castle | 317812 | [317812-magic-castle.json](./317812-magic-castle.json) |
 | Magic Cauldron: Dungeons | 289310 | [289310-magic-cauldron-dungeons.json](./289310-magic-cauldron-dungeons.json) |
 | Magic Chaos | 206383 | [206383-magic-chaos.json](./206383-magic-chaos.json) |
@@ -4154,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Island: A Hidden Object Adventure | 195758 | [195758-mysterious-island-a-hidden-object-adventure.json](./195758-mysterious-island-a-hidden-object-adventure.json) |
 | Mysterious Island: A Race Against Time and Hot Lava | 200136 | [200136-mysterious-island-a-race-against-time-and-hot-lava.json](./200136-mysterious-island-a-race-against-time-and-hot-lava.json) |
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
+| Mysterious Journey II | 72063 | [72063-mysterious-journey-ii.json](./72063-mysterious-journey-ii.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
 | Mysterious Unnamed Space Game | 184092 | [184092-mysterious-unnamed-space-game.json](./184092-mysterious-unnamed-space-game.json) |
@@ -4240,12 +4242,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth | 252374 | [252374-myth.json](./252374-myth.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
 | Myth Finders | 364510 | [364510-myth-finders.json](./364510-myth-finders.json) |
+| Myth II: Chimera | 72070 | [72070-myth-ii-chimera.json](./72070-myth-ii-chimera.json) |
 | Myth II: Soulblighter | 799 | [799-myth-ii-soulblighter.json](./799-myth-ii-soulblighter.json) |
 | Myth of Empires | 143628 | [143628-myth-of-empires.json](./143628-myth-of-empires.json) |
 | Myth of Empires: Musical Instruments Pack | 293413 | [293413-myth-of-empires-musical-instruments-pack.json](./293413-myth-of-empires-musical-instruments-pack.json) |
 | Myth of Mirka | 209670 | [209670-myth-of-mirka.json](./209670-myth-of-mirka.json) |
 | Myth of Mist: Legacy | 167766 | [167766-myth-of-mist-legacy.json](./167766-myth-of-mist-legacy.json) |
 | Myth Survivor | 337642 | [337642-myth-survivor.json](./337642-myth-survivor.json) |
+| Myth: Anthology | 72025 | [72025-myth-anthology.json](./72025-myth-anthology.json) |
 | Myth: Make Your True Hero | 143702 | [143702-myth-make-your-true-hero.json](./143702-myth-make-your-true-hero.json) |
 | Myth: The Fallen Lords | 800 | [800-myth-the-fallen-lords.json](./800-myth-the-fallen-lords.json) |
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
