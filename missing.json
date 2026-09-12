@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T15:34:07.717Z",
-  "total_missing": 62431,
+  "generated_at": "2026-09-12T15:41:48.023Z",
+  "total_missing": 62430,
   "games": [
     {
       "igdb_id": 306086,
@@ -3001,11 +3001,6 @@
       "igdb_id": 209687,
       "game_name": "Absolute Deduction Bundle",
       "file": "missing/A/209687-absolute-deduction-bundle.json"
-    },
-    {
-      "igdb_id": 52556,
-      "game_name": "Absolute Despair Collection",
-      "file": "missing/A/52556-absolute-despair-collection.json"
     },
     {
       "igdb_id": 119004,
