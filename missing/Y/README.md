@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack: Mock 2 | 77326 | [77326-you-dont-know-jack-mock-2.json](./77326-you-dont-know-jack-mock-2.json) |
 | You Don't Know Jack: The Irreverent Collection | 205803 | [205803-you-dont-know-jack-the-irreverent-collection.json](./205803-you-dont-know-jack-the-irreverent-collection.json) |
 | You Don't Know Jack: The NetShow | 391588 | [391588-you-dont-know-jack-the-netshow.json](./391588-you-dont-know-jack-the-netshow.json) |
+| You Don't Know Richard | 73253 | [73253-you-dont-know-richard.json](./73253-you-dont-know-richard.json) |
 | You Experience 365 Days of Being a Girl in This Simulator Game | 98449 | [98449-you-experience-365-days-of-being-a-girl-in-this-simulator-game.json](./98449-you-experience-365-days-of-being-a-girl-in-this-simulator-game.json) |
 | You Feel Normal. | 293655 | [293655-you-feel-normal.json](./293655-you-feel-normal.json) |
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
