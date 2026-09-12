@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T18:18:55.151Z",
-  "total_missing": 62886,
+  "generated_at": "2026-09-12T18:21:35.938Z",
+  "total_missing": 62885,
   "games": [
     {
       "igdb_id": 306086,
@@ -3081,11 +3081,6 @@
       "igdb_id": 299786,
       "game_name": "Abunai Tengu Densetsu",
       "file": "missing/A/299786-abunai-tengu-densetsu.json"
-    },
-    {
-      "igdb_id": 201229,
-      "game_name": "Abysm 2: Pharaoh's Judgement",
-      "file": "missing/A/201229-abysm-2-pharaohs-judgement.json"
     },
     {
       "igdb_id": 201230,
