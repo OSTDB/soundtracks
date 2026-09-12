@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Dreamy Night | 312587 | [312587-one-dreamy-night.json](./312587-one-dreamy-night.json) |
 | One Epic Game | 52641 | [52641-one-epic-game.json](./52641-one-epic-game.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
+| One Final Chaos | 34286 | [34286-one-final-chaos.json](./34286-one-final-chaos.json) |
 | One Giant Hole | 371869 | [371869-one-giant-hole.json](./371869-one-giant-hole.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
