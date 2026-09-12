@@ -182,7 +182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
-| Absolutely Goode Championship | 161358 | [161358-absolutely-goode-championship.json](./161358-absolutely-goode-championship.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absolutely Unstoppable MineRun | 84861 | [84861-absolutely-unstoppable-minerun.json](./84861-absolutely-unstoppable-minerun.json) |
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
@@ -3238,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attic | 157148 | [157148-attic.json](./157148-attic.json) |
 | Attorney of the Arcane | 241048 | [241048-attorney-of-the-arcane.json](./241048-attorney-of-the-arcane.json) |
 | Attorney Online | 290388 | [290388-attorney-online.json](./290388-attorney-online.json) |
+| Attouteki Yuugi: Mugen Souls Z | 44589 | [44589-attouteki-yuugi-mugen-souls-z.json](./44589-attouteki-yuugi-mugen-souls-z.json) |
 | Attract Fragments 5 | 119747 | [119747-attract-fragments-5.json](./119747-attract-fragments-5.json) |
 | Attrition | 378197 | [378197-attrition.json](./378197-attrition.json) |
 | Atum | 128624 | [128624-atum.json](./128624-atum.json) |
