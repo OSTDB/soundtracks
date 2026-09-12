@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettai Meikyuu Himitsu no Oyayubi-hime | 59959 | [59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json](./59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json) |
 | Zeus + Poseidon | 90554 | [90554-zeus-poseidon.json](./90554-zeus-poseidon.json) |
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
+| Zeus Quest Remastered | 32893 | [32893-zeus-quest-remastered.json](./32893-zeus-quest-remastered.json) |
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
 | Zgirls II: Last One | 174892 | [174892-zgirls-ii-last-one.json](./174892-zgirls-ii-last-one.json) |
 | Zgr3d | 241657 | [241657-zgr3d.json](./241657-zgr3d.json) |
