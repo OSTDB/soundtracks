@@ -130,7 +130,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
-| A-Force: Armour Force | 62182 | [62182-a-force-armour-force.json](./62182-a-force-armour-force.json) |
 | A-Men 2 | 8624 | [8624-a-men-2.json](./8624-a-men-2.json) |
 | A-Red Walking Robot | 276712 | [276712-a-red-walking-robot.json](./276712-a-red-walking-robot.json) |
 | A-Ressha de Ikou | 272827 | [272827-a-ressha-de-ikou.json](./272827-a-ressha-de-ikou.json) |
