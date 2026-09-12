@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie All Star Bundle | 317216 | [317216-indie-all-star-bundle.json](./317216-indie-all-star-bundle.json) |
 | Indie All Star Vol. 2 | 320759 | [320759-indie-all-star-vol-2.json](./320759-indie-all-star-vol-2.json) |
 | Indie Arena Booth Online | 138721 | [138721-indie-arena-booth-online.json](./138721-indie-arena-booth-online.json) |
+| Indie Assault | 35631 | [35631-indie-assault.json](./35631-indie-assault.json) |
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
 | Indie Dream | 118975 | [118975-indie-dream.json](./118975-indie-dream.json) |
 | Indie Gems Bundle: JRPG Edition | 129805 | [129805-indie-gems-bundle-jrpg-edition.json](./129805-indie-gems-bundle-jrpg-edition.json) |
@@ -842,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inherent Evil - The Haunted Hotel | 114408 | [114408-inherent-evil-the-haunted-hotel.json](./114408-inherent-evil-the-haunted-hotel.json) |
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
+| Init. | 35749 | [35749-init.json](./35749-init.json) |
 | Initen | 115720 | [115720-initen.json](./115720-initen.json) |
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
@@ -1151,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
 | Invisible | 131556 | [131556-invisible.json](./131556-invisible.json) |
 | Invisible | 178671 | [178671-invisible.json](./178671-invisible.json) |
+| Invisible Apartment | 35719 | [35719-invisible-apartment.json](./35719-invisible-apartment.json) |
 | Invisible Apartment 2 | 336913 | [336913-invisible-apartment-2.json](./336913-invisible-apartment-2.json) |
 | Invisible Apartment 2 | 34492 | [34492-invisible-apartment-2.json](./34492-invisible-apartment-2.json) |
 | Invisible Beasts | 183040 | [183040-invisible-beasts.json](./183040-invisible-beasts.json) |
