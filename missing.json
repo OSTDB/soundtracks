@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T22:48:58.758Z",
-  "total_missing": 63631,
+  "generated_at": "2026-09-12T22:51:26.534Z",
+  "total_missing": 63630,
   "games": [
     {
       "igdb_id": 306086,
@@ -3216,11 +3216,6 @@
       "igdb_id": 76578,
       "game_name": "ACA Neo Geo: World Heroes",
       "file": "missing/A/76578-aca-neo-geo-world-heroes.json"
-    },
-    {
-      "igdb_id": 76576,
-      "game_name": "ACA Neo Geo: World Heroes 2 Jet",
-      "file": "missing/A/76576-aca-neo-geo-world-heroes-2-jet.json"
     },
     {
       "igdb_id": 376475,
