@@ -3466,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Plunder | 105399 | [105399-pyramid-plunder.json](./105399-pyramid-plunder.json) |
 | Pyramid Power | 71535 | [71535-pyramid-power.json](./71535-pyramid-power.json) |
 | Pyramid Solitaire Cards | 87315 | [87315-pyramid-solitaire-cards.json](./87315-pyramid-solitaire-cards.json) |
+| Pyramid Solitaire Mummy Curse | 61046 | [61046-pyramid-solitaire-mummy-curse.json](./61046-pyramid-solitaire-mummy-curse.json) |
 | Pyramid Solitaire Saga | 89248 | [89248-pyramid-solitaire-saga.json](./89248-pyramid-solitaire-saga.json) |
 | Pyramid: Challenge of the Pharaoh's Dream | 266201 | [266201-pyramid-challenge-of-the-pharaohs-dream.json](./266201-pyramid-challenge-of-the-pharaohs-dream.json) |
 | Pyramida | 136491 | [136491-pyramida.json](./136491-pyramida.json) |
