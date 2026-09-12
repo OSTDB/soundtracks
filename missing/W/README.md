@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
+| Waking the Glares - Chapter I and II | 56430 | [56430-waking-the-glares-chapter-i-and-ii.json](./56430-waking-the-glares-chapter-i-and-ii.json) |
 | Waking Violet | 103415 | [103415-waking-violet.json](./103415-waking-violet.json) |
 | Waktunya Kerja! | 385599 | [385599-waktunya-kerja.json](./385599-waktunya-kerja.json) |
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
