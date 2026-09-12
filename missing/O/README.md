@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
 | OG Puzzlers: Synthwave Vampires | 341502 | [341502-og-puzzlers-synthwave-vampires.json](./341502-og-puzzlers-synthwave-vampires.json) |
 | OGame | 17257 | [17257-ogame.json](./17257-ogame.json) |
+| Ogami Ichiro Funtouki: Sakura Taisen Kayou Show - Benitokage Yori | 62127 | [62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json](./62127-ogami-ichiro-funtouki-sakura-taisen-kayou-show-benitokage-yori.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
 | Ogre Battle Gaiden | 66085 | [66085-ogre-battle-gaiden.json](./66085-ogre-battle-gaiden.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
@@ -586,6 +587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Burning Blood - Wanted 2 | 171050 | [171050-one-piece-burning-blood-wanted-2.json](./171050-one-piece-burning-blood-wanted-2.json) |
 | One Piece: Chopper no Daibouken | 75751 | [75751-one-piece-chopper-no-daibouken.json](./75751-one-piece-chopper-no-daibouken.json) |
 | One Piece: Dai Kaizoku Colosseum | 75835 | [75835-one-piece-dai-kaizoku-colosseum.json](./75835-one-piece-dai-kaizoku-colosseum.json) |
+| One Piece: Dance Battle | 62120 | [62120-one-piece-dance-battle.json](./62120-one-piece-dance-battle.json) |
 | One Piece: Gigant Battle! | 47818 | [47818-one-piece-gigant-battle.json](./47818-one-piece-gigant-battle.json) |
 | One Piece: Grand Adventure | 4053 | [4053-one-piece-grand-adventure.json](./4053-one-piece-grand-adventure.json) |
 | One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
@@ -1083,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
 | Out of Sight | 312565 | [312565-out-of-sight.json](./312565-out-of-sight.json) |
 | Out of Stock! | 346588 | [346588-out-of-stock.json](./346588-out-of-stock.json) |
+| Out of the Blocks | 62723 | [62723-out-of-the-blocks.json](./62723-out-of-the-blocks.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
 | Out of the Park Baseball 12 | 65480 | [65480-out-of-the-park-baseball-12.json](./65480-out-of-the-park-baseball-12.json) |
 | Out of the Park Baseball 13 | 64368 | [64368-out-of-the-park-baseball-13.json](./64368-out-of-the-park-baseball-13.json) |
