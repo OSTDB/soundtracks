@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratatouille | 281843 | [281843-ratatouille.json](./281843-ratatouille.json) |
 | Ratatouille: Food Frenzy | 18296 | [18296-ratatouille-food-frenzy.json](./18296-ratatouille-food-frenzy.json) |
 | Ratchet & Clank Collection | 19994 | [19994-ratchet-and-clank-collection.json](./19994-ratchet-and-clank-collection.json) |
+| Ratchet & Clank: A Crack in Time - Collector's Edition | 45276 | [45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json](./45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json) |
 | Ratchet & Clank: Clone Home | 225652 | [225652-ratchet-and-clank-clone-home.json](./225652-ratchet-and-clank-clone-home.json) |
 | Ratchet & Clank: Going Mobile | 134656 | [134656-ratchet-and-clank-going-mobile.json](./134656-ratchet-and-clank-going-mobile.json) |
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
@@ -1121,6 +1122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
 | Resistance | 172166 | [172166-resistance.json](./172166-resistance.json) |
 | Resistance and Liberation | 46657 | [46657-resistance-and-liberation.json](./46657-resistance-and-liberation.json) |
+| Resistance Collection | 45291 | [45291-resistance-collection.json](./45291-resistance-collection.json) |
 | Resistance Element | 127923 | [127923-resistance-element.json](./127923-resistance-element.json) |
 | Resistance Forces | 235445 | [235445-resistance-forces.json](./235445-resistance-forces.json) |
 | Resistance Is Brutal | 403572 | [403572-resistance-is-brutal.json](./403572-resistance-is-brutal.json) |
