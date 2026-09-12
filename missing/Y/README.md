@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yang2020: Path to Presidency | 127468 | [127468-yang2020-path-to-presidency.json](./127468-yang2020-path-to-presidency.json) |
 | Yangshuo Invasion | 321368 | [321368-yangshuo-invasion.json](./321368-yangshuo-invasion.json) |
 | Yankai's Peak. | 43515 | [43515-yankais-peak.json](./43515-yankais-peak.json) |
+| Yanone: Letter Splatter | 75781 | [75781-yanone-letter-splatter.json](./75781-yanone-letter-splatter.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yareba de Kiru! The Micro Step: Gijutsu de Oboeru Eitango | 124151 | [124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json](./124151-yareba-de-kiru-the-micro-step-gijutsu-de-oboeru-eitango.json) |
 | YARG | 245335 | [245335-yarg.json](./245335-yarg.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yin-Yang Ping-Pong | 309883 | [309883-yin-yang-ping-pong.json](./309883-yin-yang-ping-pong.json) |
 | Yin-Yang Ping-Pong: Supporter Pack | 312029 | [312029-yin-yang-ping-pong-supporter-pack.json](./312029-yin-yang-ping-pong-supporter-pack.json) |
 | Yīngxióng Tánshuō X: Guīlái | 156641 | [156641-yingxiong-tanshuo-x-guilai.json](./156641-yingxiong-tanshuo-x-guilai.json) |
+| Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
 | Yni^ | 339804 | [339804-yni.json](./339804-yni.json) |
@@ -185,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
 | Yotsunoha ~A Journey of Sincerity~ | 140528 | [140528-yotsunoha-a-journey-of-sincerity.json](./140528-yotsunoha-a-journey-of-sincerity.json) |
 | You Are A Pilot | 189148 | [189148-you-are-a-pilot.json](./189148-you-are-a-pilot.json) |
+| You Are a Torpedo AI | 75777 | [75777-you-are-a-torpedo-ai.json](./75777-you-are-a-torpedo-ai.json) |
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
 | You Are Peter Shorts | 248919 | [248919-you-are-peter-shorts.json](./248919-you-are-peter-shorts.json) |
 | You Are Sick | 239671 | [239671-you-are-sick.json](./239671-you-are-sick.json) |
