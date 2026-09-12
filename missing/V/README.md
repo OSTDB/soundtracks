@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vecter | 124183 | [124183-vecter.json](./124183-vecter.json) |
 | Vector 2 | 101939 | [101939-vector-2.json](./101939-vector-2.json) |
 | Vector Light | 126589 | [126589-vector-light.json](./126589-vector-light.json) |
+| Vector Madness | 62167 | [62167-vector-madness.json](./62167-vector-madness.json) |
 | Vector Pinball | 207825 | [207825-vector-pinball.json](./207825-vector-pinball.json) |
 | Vector Prospector | 141144 | [141144-vector-prospector.json](./141144-vector-prospector.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
