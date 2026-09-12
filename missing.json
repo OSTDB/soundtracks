@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T22:04:01.221Z",
-  "total_missing": 63485,
+  "generated_at": "2026-09-12T22:11:28.791Z",
+  "total_missing": 63484,
   "games": [
     {
       "igdb_id": 306086,
@@ -3196,11 +3196,6 @@
       "igdb_id": 85538,
       "game_name": "ACA Neo Geo: Burning Fight",
       "file": "missing/A/85538-aca-neo-geo-burning-fight.json"
-    },
-    {
-      "igdb_id": 89982,
-      "game_name": "ACA Neo Geo: Sengoku 2",
-      "file": "missing/A/89982-aca-neo-geo-sengoku-2.json"
     },
     {
       "igdb_id": 111065,
