@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
 | Teahouse of the Gods | 226192 | [226192-teahouse-of-the-gods.json](./226192-teahouse-of-the-gods.json) |
+| Teal'c's Revenge | 62673 | [62673-tealcs-revenge.json](./62673-tealcs-revenge.json) |
 | Team 47 GoMan | 180229 | [180229-team-47-goman.json](./180229-team-47-goman.json) |
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Text | 110635 | [110635-text.json](./110635-text.json) |
 | Text Wall | 339272 | [339272-text-wall.json](./339272-text-wall.json) |
 | Text Your Life | 339270 | [339270-text-your-life.json](./339270-text-your-life.json) |
+| Textris | 62713 | [62713-textris.json](./62713-textris.json) |
 | TextTwist 2 | 92504 | [92504-texttwist-2.json](./92504-texttwist-2.json) |
 | Textures Not Found | 405524 | [405524-textures-not-found.json](./405524-textures-not-found.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
@@ -1457,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cave of Magic | 413648 | [413648-the-cave-of-magic.json](./413648-the-cave-of-magic.json) |
 | The Cell | 307965 | [307965-the-cell.json](./307965-the-cell.json) |
 | The Cell | 326947 | [326947-the-cell.json](./326947-the-cell.json) |
+| The Cellar Door | 62708 | [62708-the-cellar-door.json](./62708-the-cellar-door.json) |
 | The Cells | 110998 | [110998-the-cells.json](./110998-the-cells.json) |
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
@@ -1885,6 +1888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
 | The Fall of Elements | 264607 | [264607-the-fall-of-elements.json](./264607-the-fall-of-elements.json) |
 | The Fall of Eskaria | 137630 | [137630-the-fall-of-eskaria.json](./137630-the-fall-of-eskaria.json) |
+| The Fall of Nemesis: Clash of the Kaijujin | 62681 | [62681-the-fall-of-nemesis-clash-of-the-kaijujin.json](./62681-the-fall-of-nemesis-clash-of-the-kaijujin.json) |
 | The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
 | The Fall of Rome | 262401 | [262401-the-fall-of-rome.json](./262401-the-fall-of-rome.json) |
 | The Fall of the Dungeon Guardians: Enhanced Edition | 269289 | [269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json](./269289-the-fall-of-the-dungeon-guardians-enhanced-edition.json) |
@@ -2168,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
 | The Hobbit : Gold Miner | 105873 | [105873-the-hobbit-gold-miner.json](./105873-the-hobbit-gold-miner.json) |
+| The Hockey Experiment | 62725 | [62725-the-hockey-experiment.json](./62725-the-hockey-experiment.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
@@ -2279,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
+| The Jelly Bean Factory | 62672 | [62672-the-jelly-bean-factory.json](./62672-the-jelly-bean-factory.json) |
 | The Jellyfish Girl's Absolute Abnormal Adventure | 194656 | [194656-the-jellyfish-girls-absolute-abnormal-adventure.json](./194656-the-jellyfish-girls-absolute-abnormal-adventure.json) |
 | The Jhonson Parable | 229670 | [229670-the-jhonson-parable.json](./229670-the-jhonson-parable.json) |
 | The Jianghu | 216790 | [216790-the-jianghu.json](./216790-the-jianghu.json) |
@@ -2906,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
 | The Orc Invasion | 237950 | [237950-the-orc-invasion.json](./237950-the-orc-invasion.json) |
 | The Orchid's Edge | 231373 | [231373-the-orchids-edge.json](./231373-the-orchids-edge.json) |
+| The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Oregon Trail: Classic Edition | 82073 | [82073-the-oregon-trail-classic-edition.json](./82073-the-oregon-trail-classic-edition.json) |
@@ -3033,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
+| The Pyramids of Egypt | 62671 | [62671-the-pyramids-of-egypt.json](./62671-the-pyramids-of-egypt.json) |
 | The Q - Live Trivia Network | 105863 | [105863-the-q-live-trivia-network.json](./105863-the-q-live-trivia-network.json) |
 | The Quarry | 194404 | [194404-the-quarry.json](./194404-the-quarry.json) |
 | The Queen of Battlers 2 | 324923 | [324923-the-queen-of-battlers-2.json](./324923-the-queen-of-battlers-2.json) |
@@ -3197,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
 | The Secrets of Atlantis: The Sacred Legacy | 19458 | [19458-the-secrets-of-atlantis-the-sacred-legacy.json](./19458-the-secrets-of-atlantis-the-sacred-legacy.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
+| The Secrets of Hosea Freeman | 62691 | [62691-the-secrets-of-hosea-freeman.json](./62691-the-secrets-of-hosea-freeman.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
@@ -6463,6 +6472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
 | Turkey Fling | 261542 | [261542-turkey-fling.json](./261542-turkey-fling.json) |
+| Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
 | Turma da Mônica em O Resgate | 246679 | [246679-turma-da-monica-em-o-resgate.json](./246679-turma-da-monica-em-o-resgate.json) |
 | Turma da Mônica na Terra dos Monstros | 98931 | [98931-turma-da-monica-na-terra-dos-monstros.json](./98931-turma-da-monica-na-terra-dos-monstros.json) |
