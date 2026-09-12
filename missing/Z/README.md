@@ -234,11 +234,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoe and the Cursed Dreamer | 402282 | [402282-zoe-and-the-cursed-dreamer.json](./402282-zoe-and-the-cursed-dreamer.json) |
 | Zoey 101 | 18325 | [18325-zoey-101.json](./18325-zoey-101.json) |
 | Zoey 101: Field Trip Fiasco | 18326 | [18326-zoey-101-field-trip-fiasco.json](./18326-zoey-101-field-trip-fiasco.json) |
+| Zoids 2: Zenebasu no Gyakushuu | 48594 | [48594-zoids-2-zenebasu-no-gyakushuu.json](./48594-zoids-2-zenebasu-no-gyakushuu.json) |
 | Zoids VS | 50586 | [50586-zoids-vs.json](./50586-zoids-vs.json) |
 | Zoids VS II | 50585 | [50585-zoids-vs-ii.json](./50585-zoids-vs-ii.json) |
 | Zoids VS III | 50576 | [50576-zoids-vs-iii.json](./50576-zoids-vs-iii.json) |
 | Zoids Wild: Infinity Blast | 146832 | [146832-zoids-wild-infinity-blast.json](./146832-zoids-wild-infinity-blast.json) |
 | Zoids: Full Metal Crash | 50584 | [50584-zoids-full-metal-crash.json](./50584-zoids-full-metal-crash.json) |
+| Zoids: Mokushiroku | 48595 | [48595-zoids-mokushiroku.json](./48595-zoids-mokushiroku.json) |
 | Zoids: The Battle Begins | 75873 | [75873-zoids-the-battle-begins.json](./75873-zoids-the-battle-begins.json) |
 | Zoidtrip | 344908 | [344908-zoidtrip.json](./344908-zoidtrip.json) |
 | Zoinho in the Garden of Fools | 217922 | [217922-zoinho-in-the-garden-of-fools.json](./217922-zoinho-in-the-garden-of-fools.json) |
@@ -296,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hazard | 166776 | [166776-zombie-hazard.json](./166776-zombie-hazard.json) |
 | Zombie Hell: Infected City | 216814 | [216814-zombie-hell-infected-city.json](./216814-zombie-hell-infected-city.json) |
 | Zombie Highway | 201839 | [201839-zombie-highway.json](./201839-zombie-highway.json) |
+| Zombie Hunter | 48623 | [48623-zombie-hunter.json](./48623-zombie-hunter.json) |
 | Zombie Hunter King | 105867 | [105867-zombie-hunter-king.json](./105867-zombie-hunter-king.json) |
 | Zombie Hunter Video Game | 220128 | [220128-zombie-hunter-video-game.json](./220128-zombie-hunter-video-game.json) |
 | Zombie Hunter: Mobile Shooting Game | 159239 | [159239-zombie-hunter-mobile-shooting-game.json](./159239-zombie-hunter-mobile-shooting-game.json) |
