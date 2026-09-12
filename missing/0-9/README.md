@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Chess: Nocca Nocca | 151674 | [151674-3d-chess-nocca-nocca.json](./151674-3d-chess-nocca-nocca.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
+| 3D Creation Station | 64907 | [64907-3d-creation-station.json](./64907-3d-creation-station.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
