@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Magic | 81331 | [81331-little-magic.json](./81331-little-magic.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
+| Little Miss Lonely | 43885 | [43885-little-miss-lonely.json](./43885-little-miss-lonely.json) |
 | Little Monkey King's Big Quest | 265137 | [265137-little-monkey-kings-big-quest.json](./265137-little-monkey-kings-big-quest.json) |
 | Little Monster Games | 87243 | [87243-little-monster-games.json](./87243-little-monster-games.json) |
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
@@ -1238,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
 | Little Princess | 70945 | [70945-little-princess.json](./70945-little-princess.json) |
+| Little Princess: Marl Oukoku no Ningyou Hime 2 | 43903 | [43903-little-princess-marl-oukoku-no-ningyou-hime-2.json](./43903-little-princess-marl-oukoku-no-ningyou-hime-2.json) |
 | Little Rats' Big Top | 180804 | [180804-little-rats-big-top.json](./180804-little-rats-big-top.json) |
 | Little Re-collector | 369059 | [369059-little-re-collector.json](./369059-little-re-collector.json) |
 | Little Red in the Woods | 364493 | [364493-little-red-in-the-woods.json](./364493-little-red-in-the-woods.json) |
@@ -1848,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
 | Lucid9: Inciting Incident | 80553 | [80553-lucid9-inciting-incident.json](./80553-lucid9-inciting-incident.json) |
 | Luciel Angel Mission | 314060 | [314060-luciel-angel-mission.json](./314060-luciel-angel-mission.json) |
+| Lucifer Ring | 43873 | [43873-lucifer-ring.json](./43873-lucifer-ring.json) |
 | Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
 | Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
 | Lucius II | 17329 | [17329-lucius-ii.json](./17329-lucius-ii.json) |
@@ -1861,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
 | Lucky Luke Shoot & Hit | 197849 | [197849-lucky-luke-shoot-and-hit.json](./197849-lucky-luke-shoot-and-hit.json) |
 | Lucky Luke: Wanted! | 49331 | [49331-lucky-luke-wanted.json](./49331-lucky-luke-wanted.json) |
+| Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
 | Lucky Luna | 204452 | [204452-lucky-luna.json](./204452-lucky-luna.json) |
 | Lucky Morolian | 259827 | [259827-lucky-morolian.json](./259827-lucky-morolian.json) |
 | Lucky Paradox | 239300 | [239300-lucky-paradox.json](./239300-lucky-paradox.json) |
