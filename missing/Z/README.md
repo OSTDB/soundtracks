@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhōngguó Xiàngqí | 82099 | [82099-zhongguo-xiangqi.json](./82099-zhongguo-xiangqi.json) |
 | Zhōngguó Xiàngqí Zàixiàn | 88208 | [88208-zhongguo-xiangqi-zaixian.json](./88208-zhongguo-xiangqi-zaixian.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
+| Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
 | Ziggurat | 11646 | [11646-ziggurat.json](./11646-ziggurat.json) |
 | Ziggurat | 23876 | [23876-ziggurat.json](./23876-ziggurat.json) |
