@@ -1107,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
 | Wind Rider: Hero Outfit | 312001 | [312001-wind-rider-hero-outfit.json](./312001-wind-rider-hero-outfit.json) |
+| Wind Runner Adventure | 38960 | [38960-wind-runner-adventure.json](./38960-wind-runner-adventure.json) |
 | Wind Story | 312540 | [312540-wind-story.json](./312540-wind-story.json) |
 | Wind Traveler | 324311 | [324311-wind-traveler.json](./324311-wind-traveler.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winds Rhapsody | 142479 | [142479-winds-rhapsody.json](./142479-winds-rhapsody.json) |
 | WindShift | 116362 | [116362-windshift.json](./116362-windshift.json) |
 | Windsor | 209701 | [209701-windsor.json](./209701-windsor.json) |
+| WindSoul | 38951 | [38951-windsoul.json](./38951-windsoul.json) |
 | Windsquire: Race From Dragon Castle | 241054 | [241054-windsquire-race-from-dragon-castle.json](./241054-windsquire-race-from-dragon-castle.json) |
 | WindStop Strategy | 385567 | [385567-windstop-strategy.json](./385567-windstop-strategy.json) |
 | Windstorm: Double Pack | 259539 | [259539-windstorm-double-pack.json](./259539-windstorm-double-pack.json) |
