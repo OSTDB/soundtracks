@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Vibes | 336890 | [336890-galactic-vibes.json](./336890-galactic-vibes.json) |
 | Galactic Warp | 178637 | [178637-galactic-warp.json](./178637-galactic-warp.json) |
+| Galactic Warrior | 28817 | [28817-galactic-warrior.json](./28817-galactic-warrior.json) |
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
 | Galactic-A-Tactic: The Most Diplomatic Solution | 367975 | [367975-galactic-a-tactic-the-most-diplomatic-solution.json](./367975-galactic-a-tactic-the-most-diplomatic-solution.json) |
 | Galactic: The Xmas Edition | 327803 | [327803-galactic-the-xmas-edition.json](./327803-galactic-the-xmas-edition.json) |
