@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal*Gun: Double Peace - Mr. Happiness Edition | 89910 | [89910-gal-gun-double-peace-mr-happiness-edition.json](./89910-gal-gun-double-peace-mr-happiness-edition.json) |
 | Galacatraz: Eject Equip Escape | 82044 | [82044-galacatraz-eject-equip-escape.json](./82044-galacatraz-eject-equip-escape.json) |
+| GalaCollider | 58770 | [58770-galacollider.json](./58770-galacollider.json) |
 | Galactea | 310973 | [310973-galactea.json](./310973-galactea.json) |
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
 | Galactic Attack | 81439 | [81439-galactic-attack.json](./81439-galactic-attack.json) |
@@ -242,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
+| Game of Dice | 58793 | [58793-game-of-dice.json](./58793-game-of-dice.json) |
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
 | Game of Hearts | 348766 | [348766-game-of-hearts.json](./348766-game-of-hearts.json) |
 | Game of Legends: Rise of Champions | 194023 | [194023-game-of-legends-rise-of-champions.json](./194023-game-of-legends-rise-of-champions.json) |
@@ -1239,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
 | Goldspace | 184643 | [184643-goldspace.json](./184643-goldspace.json) |
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
+| Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
 | Golf | 131528 | [131528-golf.json](./131528-golf.json) |
 | Golf Around! | 126509 | [126509-golf-around.json](./126509-golf-around.json) |
 | Golf Cart Race | 105919 | [105919-golf-cart-race.json](./105919-golf-cart-race.json) |
