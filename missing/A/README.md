@@ -3171,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of the Mutant Penguins | 40819 | [40819-attack-of-the-mutant-penguins.json](./40819-attack-of-the-mutant-penguins.json) |
+| Attack of the Zolgear | 58775 | [58775-attack-of-the-zolgear.json](./58775-attack-of-the-zolgear.json) |
 | Attack of Undo Zai | 191242 | [191242-attack-of-undo-zai.json](./191242-attack-of-undo-zai.json) |
 | Attack on Altair | 69848 | [69848-attack-on-altair.json](./69848-attack-on-altair.json) |
 | Attack on Beetle | 187467 | [187467-attack-on-beetle.json](./187467-attack-on-beetle.json) |
