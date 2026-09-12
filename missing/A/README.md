@@ -180,7 +180,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
-| Absolute Baseball | 84863 | [84863-absolute-baseball.json](./84863-absolute-baseball.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
