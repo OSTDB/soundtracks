@@ -53,9 +53,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Manager 2024: Deluxe Upgrade Pack | 328996 | [328996-f1-manager-2024-deluxe-upgrade-pack.json](./328996-f1-manager-2024-deluxe-upgrade-pack.json) |
 | F1 Manager 2024: Historical Livery Pack | 339293 | [339293-f1-manager-2024-historical-livery-pack.json](./339293-f1-manager-2024-historical-livery-pack.json) |
 | F1 Online: The Game | 92512 | [92512-f1-online-the-game.json](./92512-f1-online-the-game.json) |
+| F1 Pole Position 2 | 42557 | [42557-f1-pole-position-2.json](./42557-f1-pole-position-2.json) |
 | F1 Pole Position 64 | 3494 | [3494-f1-pole-position-64.json](./3494-f1-pole-position-64.json) |
 | F1 Racing Championship | 3495 | [3495-f1-racing-championship.json](./3495-f1-racing-championship.json) |
 | F1 Racing Championship 2 | 137653 | [137653-f1-racing-championship-2.json](./137653-f1-racing-championship-2.json) |
+| F1 ROC II: Race of Champions | 42572 | [42572-f1-roc-ii-race-of-champions.json](./42572-f1-roc-ii-race-of-champions.json) |
 | F15 Flight Simulator VR | 107129 | [107129-f15-flight-simulator-vr.json](./107129-f15-flight-simulator-vr.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
@@ -688,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FeastTower | 277298 | [277298-feasttower.json](./277298-feasttower.json) |
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
 | Fech the Ferret | 156607 | [156607-fech-the-ferret.json](./156607-fech-the-ferret.json) |
+| Feda: The Emblem of Justice | 42555 | [42555-feda-the-emblem-of-justice.json](./42555-feda-the-emblem-of-justice.json) |
 | Fedanheim | 415921 | [415921-fedanheim.json](./415921-fedanheim.json) |
 | Fedora Spade: Prologue | 57678 | [57678-fedora-spade-prologue.json](./57678-fedora-spade-prologue.json) |
 | Feed | 296397 | [296397-feed.json](./296397-feed.json) |
@@ -1110,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Fly | 23855 | [23855-fire-fly.json](./23855-fire-fly.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
 | Fire in the Hole | 381019 | [381019-fire-in-the-hole.json](./381019-fire-in-the-hole.json) |
+| Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
 | Fire Pro Wrestling World: Entrance Craft | 170445 | [170445-fire-pro-wrestling-world-entrance-craft.json](./170445-fire-pro-wrestling-world-entrance-craft.json) |
 | Fire Pro Wrestling World: Fighting Road - 2017 NJPW Junior Heavyweight Championship | 170447 | [170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json](./170447-fire-pro-wrestling-world-fighting-road-2017-njpw-junior-heavyweight-championship.json) |
 | Fire Pro Wrestling World: Fighting Road - Champion Road Beyond | 170444 | [170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json](./170444-fire-pro-wrestling-world-fighting-road-champion-road-beyond.json) |
@@ -1156,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
 | Firestorm | 239088 | [239088-firestorm.json](./239088-firestorm.json) |
 | Firestorm Deadland | 253365 | [253365-firestorm-deadland.json](./253365-firestorm-deadland.json) |
+| Firestriker | 42553 | [42553-firestriker.json](./42553-firestriker.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | Firewall Zero Hour | 76966 | [76966-firewall-zero-hour.json](./76966-firewall-zero-hour.json) |
 | Firewall: Man vs. Machine | 217880 | [217880-firewall-man-vs-machine.json](./217880-firewall-man-vs-machine.json) |
@@ -1822,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
 | Football Frenzy | 39649 | [39649-football-frenzy.json](./39649-football-frenzy.json) |
+| Football Fury | 42551 | [42551-football-fury.json](./42551-football-fury.json) |
 | Football girl | 161366 | [161366-football-girl.json](./161366-football-girl.json) |
 | Football Granny | 107160 | [107160-football-granny.json](./107160-football-granny.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
@@ -2595,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Throttle | 180 | [180-full-throttle.json](./180-full-throttle.json) |
 | Full Throttle 2 | 327805 | [327805-full-throttle-2.json](./327805-full-throttle-2.json) |
 | Full Throttle Parking | 388010 | [388010-full-throttle-parking.json](./388010-full-throttle-parking.json) |
+| Full Throttle Racing | 42594 | [42594-full-throttle-racing.json](./42594-full-throttle-racing.json) |
 | Full Throttle: Hell on Wheels | 72722 | [72722-full-throttle-hell-on-wheels.json](./72722-full-throttle-hell-on-wheels.json) |
 | Full Tilt! Pinball 2 | 74316 | [74316-full-tilt-pinball-2.json](./74316-full-tilt-pinball-2.json) |
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
