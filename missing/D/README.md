@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Story Time Stranger: Ultimate Edition | 390529 | [390529-digimon-story-time-stranger-ultimate-edition.json](./390529-digimon-story-time-stranger-ultimate-edition.json) |
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
 | Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
+| Digimon Tamer Frontier | 56444 | [56444-digimon-tamer-frontier.json](./56444-digimon-tamer-frontier.json) |
 | Digimon Up | 395561 | [395561-digimon-up.json](./395561-digimon-up.json) |
 | Digimon World | 8614 | [8614-digimon-world.json](./8614-digimon-world.json) |
 | Digimon World DS | 20609 | [20609-digimon-world-ds.json](./20609-digimon-world-ds.json) |
@@ -1793,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Jigsaw Puzzles - Kids Games for Toddlers | 86831 | [86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json](./86831-dinosaur-jigsaw-puzzles-kids-games-for-toddlers.json) |
 | Dinosaur King | 48042 | [48042-dinosaur-king.json](./48042-dinosaur-king.json) |
 | Dinosaur Museum | 378176 | [378176-dinosaur-museum.json](./378176-dinosaur-museum.json) |
+| Dinosaur Park | 56458 | [56458-dinosaur-park.json](./56458-dinosaur-park.json) |
 | Dinosaur Rampage - Trex | 87716 | [87716-dinosaur-rampage-trex.json](./87716-dinosaur-rampage-trex.json) |
 | Dinosaur Resurrection | 92988 | [92988-dinosaur-resurrection.json](./92988-dinosaur-resurrection.json) |
 | Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
