@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Arcade Stadium: Tatakai no Banka | 150655 | [150655-capcom-arcade-stadium-tatakai-no-banka.json](./150655-capcom-arcade-stadium-tatakai-no-banka.json) |
 | Capcom Classics Collection Remixed | 23005 | [23005-capcom-classics-collection-remixed.json](./23005-capcom-classics-collection-remixed.json) |
 | Capcom Coin-Op Collection Volume 1 | 206704 | [206704-capcom-coin-op-collection-volume-1.json](./206704-capcom-coin-op-collection-volume-1.json) |
+| Capcom Generations | 43897 | [43897-capcom-generations.json](./43897-capcom-generations.json) |
 | Capcom Generations 1: Wings of Destiny | 66122 | [66122-capcom-generations-1-wings-of-destiny.json](./66122-capcom-generations-1-wings-of-destiny.json) |
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
@@ -2919,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Quest IV: The Ayatolian March | 98473 | [98473-cosmos-quest-iv-the-ayatolian-march.json](./98473-cosmos-quest-iv-the-ayatolian-march.json) |
 | Cosmos Quest V: The New Beginning | 98472 | [98472-cosmos-quest-v-the-new-beginning.json](./98472-cosmos-quest-v-the-new-beginning.json) |
 | Cosmoscope | 158200 | [158200-cosmoscope.json](./158200-cosmoscope.json) |
+| CosmoWarrior Zero | 43875 | [43875-cosmowarrior-zero.json](./43875-cosmowarrior-zero.json) |
 | Cosmula | 306348 | [306348-cosmula.json](./306348-cosmula.json) |
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
 | Cossacks 3: The Golden Age | 144963 | [144963-cossacks-3-the-golden-age.json](./144963-cossacks-3-the-golden-age.json) |
@@ -3608,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSI: Slots | 79913 | [79913-csi-slots.json](./79913-csi-slots.json) |
 | CSOL | 258488 | [258488-csol.json](./258488-csol.json) |
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
+| CT Special Forces 3: BioTerror | 43898 | [43898-ct-special-forces-3-bioterror.json](./43898-ct-special-forces-3-bioterror.json) |
 | Cthulhu Kitan: Ryuuguu no Shi The Game - Insuma Machi-hen | 355534 | [355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json](./355534-cthulhu-kitan-ryuuguu-no-shi-the-game-insuma-machi-hen.json) |
 | Cthulhu Mythos ADV Lunatic Whispers | 213033 | [213033-cthulhu-mythos-adv-lunatic-whispers.json](./213033-cthulhu-mythos-adv-lunatic-whispers.json) |
 | Cthulhu Mythos RPG -The Sleeping Girl of the Miasma Sea- | 110154 | [110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json](./110154-cthulhu-mythos-rpg-the-sleeping-girl-of-the-miasma-sea.json) |
