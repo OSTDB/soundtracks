@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpoon II: Admiral's Edition | 73780 | [73780-harpoon-ii-admirals-edition.json](./73780-harpoon-ii-admirals-edition.json) |
 | Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
+| Harpoons & Balls | 57083 | [57083-harpoons-and-balls.json](./57083-harpoons-and-balls.json) |
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
 | Harpy's Curse | 332393 | [332393-harpys-curse.json](./332393-harpys-curse.json) |
 | Harrier Attack! | 13004 | [13004-harrier-attack.json](./13004-harrier-attack.json) |
@@ -1210,6 +1211,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
+| Hexa Faction | 57044 | [57044-hexa-faction.json](./57044-hexa-faction.json) |
+| Hexa Faction 2 | 57043 | [57043-hexa-faction-2.json](./57043-hexa-faction-2.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexa's Gone | 393499 | [393499-hexas-gone.json](./393499-hexas-gone.json) |
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
