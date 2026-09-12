@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T06:34:04.820Z",
-  "total_missing": 60913,
+  "generated_at": "2026-09-12T06:41:37.153Z",
+  "total_missing": 60912,
   "games": [
     {
       "igdb_id": 306086,
@@ -2721,11 +2721,6 @@
       "igdb_id": 99614,
       "game_name": "A.S.H.",
       "file": "missing/A/99614-a-s-h.json"
-    },
-    {
-      "igdb_id": 42662,
-      "game_name": "A.S.P.: Air Strike Patrol",
-      "file": "missing/A/42662-a-s-p-air-strike-patrol.json"
     },
     {
       "igdb_id": 48669,
