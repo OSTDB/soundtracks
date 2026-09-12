@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield Mobile | 174893 | [174893-battlefield-mobile.json](./174893-battlefield-mobile.json) |
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
 | Battlefield REDSEC | 371393 | [371393-battlefield-redsec.json](./371393-battlefield-redsec.json) |
+| Battlefield: Bad Company 2 - Specact Kit Upgrade | 27654 | [27654-battlefield-bad-company-2-specact-kit-upgrade.json](./27654-battlefield-bad-company-2-specact-kit-upgrade.json) |
 | Battlefleet Gothic: Armada - Deluxe Edition | 186341 | [186341-battlefleet-gothic-armada-deluxe-edition.json](./186341-battlefleet-gothic-armada-deluxe-edition.json) |
 | Battlefleet Gothic: Armada - Space Marines | 52637 | [52637-battlefleet-gothic-armada-space-marines.json](./52637-battlefleet-gothic-armada-space-marines.json) |
 | Battlefleet Gothic: Armada - Tau Empire | 52636 | [52636-battlefleet-gothic-armada-tau-empire.json](./52636-battlefleet-gothic-armada-tau-empire.json) |
@@ -2292,6 +2293,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodgeon | 125444 | [125444-bloodgeon.json](./125444-bloodgeon.json) |
 | Bloodia | 118394 | [118394-bloodia.json](./118394-bloodia.json) |
 | BloodKeeper | 143037 | [143037-bloodkeeper.json](./143037-bloodkeeper.json) |
+| Bloodline Champions: Huntress Pack | 27657 | [27657-bloodline-champions-huntress-pack.json](./27657-bloodline-champions-huntress-pack.json) |
+| Bloodline Champions: Warchief Pack | 27655 | [27655-bloodline-champions-warchief-pack.json](./27655-bloodline-champions-warchief-pack.json) |
+| Bloodline Champions: Warrior Pack | 27656 | [27656-bloodline-champions-warrior-pack.json](./27656-bloodline-champions-warrior-pack.json) |
 | Bloodlines: The Alexa Holmes Chronicles | 65529 | [65529-bloodlines-the-alexa-holmes-chronicles.json](./65529-bloodlines-the-alexa-holmes-chronicles.json) |
 | Bloodpath | 329922 | [329922-bloodpath.json](./329922-bloodpath.json) |
 | BloodRayne: The Shroud | 77344 | [77344-bloodrayne-the-shroud.json](./77344-bloodrayne-the-shroud.json) |
@@ -2421,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boatgator | 253359 | [253359-boatgator.json](./253359-boatgator.json) |
 | Boaty McBoatwad | 260662 | [260662-boaty-mcboatwad.json](./260662-boaty-mcboatwad.json) |
 | Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
+| Bob | 27700 | [27700-bob.json](./27700-bob.json) |
 | Bob & Bernard Against the Nazis | 120361 | [120361-bob-and-bernard-against-the-nazis.json](./120361-bob-and-bernard-against-the-nazis.json) |
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
@@ -3088,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfast Bar Tycoon: Super Edition | 315875 | [315875-breakfast-bar-tycoon-super-edition.json](./315875-breakfast-bar-tycoon-super-edition.json) |
 | Breakfast Bar Tycoon: Ultimate Edition | 298569 | [298569-breakfast-bar-tycoon-ultimate-edition.json](./298569-breakfast-bar-tycoon-ultimate-edition.json) |
 | Breakfast Cooking Mania | 28855 | [28855-breakfast-cooking-mania.json](./28855-breakfast-cooking-mania.json) |
+| Breakforcist | 27678 | [27678-breakforcist.json](./27678-breakforcist.json) |
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
