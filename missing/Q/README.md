@@ -246,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
 | Quizania | 62704 | [62704-quizania.json](./62704-quizania.json) |
 | Quizball Goal | 94167 | [94167-quizball-goal.json](./94167-quizball-goal.json) |
+| QuizCross | 58213 | [58213-quizcross.json](./58213-quizcross.json) |
 | QuizFizz | 255140 | [255140-quizfizz.json](./255140-quizfizz.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
 | QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
