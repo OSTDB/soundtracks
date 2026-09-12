@@ -2957,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
 | The Promised Land | 17318 | [17318-the-promised-land.json](./17318-the-promised-land.json) |
+| The Promised Land | 78648 | [78648-the-promised-land.json](./78648-the-promised-land.json) |
 | The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
 | The Protectorate | 284914 | [284914-the-protectorate.json](./284914-the-protectorate.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
@@ -3307,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Source of the Nightmare Storms | 126625 | [126625-the-source-of-the-nightmare-storms.json](./126625-the-source-of-the-nightmare-storms.json) |
 | The South Island | 304381 | [304381-the-south-island.json](./304381-the-south-island.json) |
 | The Sovereign | 350447 | [350447-the-sovereign.json](./350447-the-sovereign.json) |
+| The Space Ark | 78614 | [78614-the-space-ark.json](./78614-the-space-ark.json) |
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
 | The Specialists | 138772 | [138772-the-specialists.json](./138772-the-specialists.json) |
 | The Specter's Desire | 301824 | [301824-the-specters-desire.json](./301824-the-specters-desire.json) |
@@ -4643,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless: The Forgotten Town | 44597 | [44597-timeless-the-forgotten-town.json](./44597-timeless-the-forgotten-town.json) |
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
+| Timelord | 78615 | [78615-timelord.json](./78615-timelord.json) |
 | TimeMelters | 210869 | [210869-timemelters.json](./210869-timemelters.json) |
 | TimeOut | 385582 | [385582-timeout.json](./385582-timeout.json) |
 | Timepiece Ensemble | 216242 | [216242-timepiece-ensemble.json](./216242-timepiece-ensemble.json) |
@@ -5102,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
 | Top Truck Driver | 156642 | [156642-top-truck-driver.json](./156642-top-truck-driver.json) |
+| Top Trumps Adventures Vol. 1: Horror & Predators | 78667 | [78667-top-trumps-adventures-vol-1-horror-and-predators.json](./78667-top-trumps-adventures-vol-1-horror-and-predators.json) |
 | Top Trumps Turbo | 35897 | [35897-top-trumps-turbo.json](./35897-top-trumps-turbo.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
@@ -6190,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
+| Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
 | Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
