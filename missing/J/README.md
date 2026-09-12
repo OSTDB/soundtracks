@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigdoku | 404203 | [404203-jigdoku.json](./404203-jigdoku.json) |
 | Jigoku Gokurakumaru | 215128 | [215128-jigoku-gokurakumaru.json](./215128-jigoku-gokurakumaru.json) |
 | Jigoku Hell | 178025 | [178025-jigoku-hell.json](./178025-jigoku-hell.json) |
+| Jigoku Meguri | 37709 | [37709-jigoku-meguri.json](./37709-jigoku-meguri.json) |
 | Jigoku Nagashi | 229695 | [229695-jigoku-nagashi.json](./229695-jigoku-nagashi.json) |
 | Jigoku Seek | 308251 | [308251-jigoku-seek.json](./308251-jigoku-seek.json) |
 | Jigoku Shoujo: Akekazura | 72615 | [72615-jigoku-shoujo-akekazura.json](./72615-jigoku-shoujo-akekazura.json) |
