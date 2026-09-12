@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Greatest Cities Mosaics 4 | 415944 | [415944-worlds-greatest-cities-mosaics-4.json](./415944-worlds-greatest-cities-mosaics-4.json) |
 | World's Greatest Cities Mosaics 7 | 415945 | [415945-worlds-greatest-cities-mosaics-7.json](./415945-worlds-greatest-cities-mosaics-7.json) |
 | World's Greatest Cities Mosaics 9 | 415942 | [415942-worlds-greatest-cities-mosaics-9.json](./415942-worlds-greatest-cities-mosaics-9.json) |
+| World's Greatest Coasters | 73230 | [73230-worlds-greatest-coasters.json](./73230-worlds-greatest-coasters.json) |
 | World's Greatest Places Mosaics 2 | 415936 | [415936-worlds-greatest-places-mosaics-2.json](./415936-worlds-greatest-places-mosaics-2.json) |
 | World's Greatest Places Mosaics 3 | 415934 | [415934-worlds-greatest-places-mosaics-3.json](./415934-worlds-greatest-places-mosaics-3.json) |
 | World's Greatest Temples 2 | 415932 | [415932-worlds-greatest-temples-2.json](./415932-worlds-greatest-temples-2.json) |
