@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T19:18:49.790Z",
-  "total_missing": 63048,
+  "generated_at": "2026-09-12T19:21:32.538Z",
+  "total_missing": 63047,
   "games": [
     {
       "igdb_id": 306086,
@@ -3111,11 +3111,6 @@
       "igdb_id": 339129,
       "game_name": "Abyss Pact",
       "file": "missing/A/339129-abyss-pact.json"
-    },
-    {
-      "igdb_id": 324893,
-      "game_name": "Abyss Seeker: What Do You See Deep in The Abyss",
-      "file": "missing/A/324893-abyss-seeker-what-do-you-see-deep-in-the-abyss.json"
     },
     {
       "igdb_id": 216799,
