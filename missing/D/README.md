@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down in the Depths Blind | 219263 | [219263-down-in-the-depths-blind.json](./219263-down-in-the-depths-blind.json) |
 | Down in the Dungeon | 175937 | [175937-down-in-the-dungeon.json](./175937-down-in-the-dungeon.json) |
+| Down Load | 37716 | [37716-down-load.json](./37716-down-load.json) |
 | Down the Drain | 256830 | [256830-down-the-drain.json](./256830-down-the-drain.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down the Shaft | 305176 | [305176-down-the-shaft.json](./305176-down-the-shaft.json) |
@@ -2808,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Dragon Fire Fire Deluxe | 384497 | [384497-dragon-dragon-fire-fire-deluxe.json](./384497-dragon-dragon-fire-fire-deluxe.json) |
 | Dragon Drill | 294691 | [294691-dragon-drill.json](./294691-dragon-drill.json) |
 | Dragon Drop | 159251 | [159251-dragon-drop.json](./159251-dragon-drop.json) |
+| Dragon Egg! | 37722 | [37722-dragon-egg.json](./37722-dragon-egg.json) |
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
