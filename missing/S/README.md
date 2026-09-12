@@ -1390,8 +1390,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Vamp | 102737 | [102737-shadow-vamp.json](./102737-shadow-vamp.json) |
 | Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
 | Shadow Warren | 356631 | [356631-shadow-warren.json](./356631-shadow-warren.json) |
+| Shadow Warrior 2 Deluxe | 51915 | [51915-shadow-warrior-2-deluxe.json](./51915-shadow-warrior-2-deluxe.json) |
 | Shadow Warrior 2: Bounty Hunt Part 1 | 27876 | [27876-shadow-warrior-2-bounty-hunt-part-1.json](./27876-shadow-warrior-2-bounty-hunt-part-1.json) |
 | Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
+| Shadow Warrior Classic Complete | 51914 | [51914-shadow-warrior-classic-complete.json](./51914-shadow-warrior-classic-complete.json) |
 | Shadow Wolf Mysteries: Cursed Wedding - Collector's Edition | 99620 | [99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json](./99620-shadow-wolf-mysteries-cursed-wedding-collectors-edition.json) |
 | Shadow Wolf Mysteries: Cursed Wedding & Shadow Wolf Mysteries: Under the Crimson Moon | 201811 | [201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json](./201811-shadow-wolf-mysteries-cursed-wedding-and-shadow-wolf-mysteries-under-the-crimson-moon.json) |
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
@@ -1404,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
+| Shadowgate: Special Edition | 51913 | [51913-shadowgate-special-edition.json](./51913-shadowgate-special-edition.json) |
 | Shadowhand Solitaire | 322568 | [322568-shadowhand-solitaire.json](./322568-shadowhand-solitaire.json) |
 | Shadowkin | 244515 | [244515-shadowkin.json](./244515-shadowkin.json) |
 | Shadowland | 119020 | [119020-shadowland.json](./119020-shadowland.json) |
@@ -1519,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
+| Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
@@ -1613,6 +1617,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shells Shooter | 340378 | [340378-shells-shooter.json](./340378-shells-shooter.json) |
 | Shellshock | 20635 | [20635-shellshock.json](./20635-shellshock.json) |
 | ShellShot Arena | 249808 | [249808-shellshot-arena.json](./249808-shellshot-arena.json) |
+| Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
+| Shelter 2: Special Edition | 51911 | [51911-shelter-2-special-edition.json](./51911-shelter-2-special-edition.json) |
 | Shelter from the Storm | 340377 | [340377-shelter-from-the-storm.json](./340377-shelter-from-the-storm.json) |
 | Sheltered 2 | 152285 | [152285-sheltered-2.json](./152285-sheltered-2.json) |
 | Sheltered Double Pack | 186885 | [186885-sheltered-double-pack.json](./186885-sheltered-double-pack.json) |
@@ -2319,6 +2325,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
+| Sins of a Solar Empire: Rebellion - Outlaw Sectors | 51908 | [51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json](./51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json) |
+| Sins of a Solar Empire: Rebellion Ultimate Edition | 51907 | [51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json](./51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json) |
 | Sins Of Kaleido | 276733 | [276733-sins-of-kaleido.json](./276733-sins-of-kaleido.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
 | SinsFromGod | 139422 | [139422-sinsfromgod.json](./139422-sinsfromgod.json) |
@@ -2473,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulldash Expanded Edition | 142416 | [142416-skulldash-expanded-edition.json](./142416-skulldash-expanded-edition.json) |
 | Skullgirls Encore: Beowulf | 127262 | [127262-skullgirls-encore-beowulf.json](./127262-skullgirls-encore-beowulf.json) |
 | Skullhammer | 181862 | [181862-skullhammer.json](./181862-skullhammer.json) |
+| Skulls of the Shogun: Bone-A-Fide Edition | 51906 | [51906-skulls-of-the-shogun-bone-a-fide-edition.json](./51906-skulls-of-the-shogun-bone-a-fide-edition.json) |
 | SkullSP | 329973 | [329973-skullsp.json](./329973-skullsp.json) |
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
@@ -2567,6 +2576,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
+| Skyshine's Bedlam Redux! | 51904 | [51904-skyshines-bedlam-redux.json](./51904-skyshines-bedlam-redux.json) |
+| Skyshine's Bedlam: Deluxe Edition | 51905 | [51905-skyshines-bedlam-deluxe-edition.json](./51905-skyshines-bedlam-deluxe-edition.json) |
 | SkySouls | 262947 | [262947-skysouls.json](./262947-skysouls.json) |
 | Skystead Christmas | 327864 | [327864-skystead-christmas.json](./327864-skystead-christmas.json) |
 | Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
@@ -2915,6 +2926,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
 | Smuggler's Cove | 294730 | [294730-smugglers-cove.json](./294730-smugglers-cove.json) |
 | Smugglers IV: Doomsday | 54377 | [54377-smugglers-iv-doomsday.json](./54377-smugglers-iv-doomsday.json) |
+| Smugglers V | 51903 | [51903-smugglers-v.json](./51903-smugglers-v.json) |
+| Smugglers V: Invasion - Warrior Within | 51902 | [51902-smugglers-v-invasion-warrior-within.json](./51902-smugglers-v-invasion-warrior-within.json) |
 | Smurfen | 366256 | [366256-smurfen.json](./366256-smurfen.json) |
 | Smurfette's Magic Match | 108977 | [108977-smurfettes-magic-match.json](./108977-smurfettes-magic-match.json) |
 | Smurfs Balls Adventure | 343825 | [343825-smurfs-balls-adventure.json](./343825-smurfs-balls-adventure.json) |
@@ -3926,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Chimps | 5172 | [5172-space-chimps.json](./5172-space-chimps.json) |
 | Space City: Build Your Empire | 199662 | [199662-space-city-build-your-empire.json](./199662-space-city-build-your-empire.json) |
 | Space Cobra RetPixMod | 178647 | [178647-space-cobra-retpixmod.json](./178647-space-cobra-retpixmod.json) |
+| Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
 | Space Combat: Galaxy Wars | 255726 | [255726-space-combat-galaxy-wars.json](./255726-space-combat-galaxy-wars.json) |
 | Space Command Battleship | 262071 | [262071-space-command-battleship.json](./262071-space-command-battleship.json) |
 | Space Commander: War and Trade | 146222 | [146222-space-commander-war-and-trade.json](./146222-space-commander-war-and-trade.json) |
@@ -4557,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoons III | 70369 | [70369-spoons-iii.json](./70369-spoons-iii.json) |
 | Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
+| Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
 | Sport & Fun: Swimming - Complete + | 328836 | [328836-sport-and-fun-swimming-complete.json](./328836-sport-and-fun-swimming-complete.json) |
@@ -4941,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
 | Star Troopers: Combat Force | 411568 | [411568-star-troopers-combat-force.json](./411568-star-troopers-combat-force.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
+| Star Vikings Forever | 51899 | [51899-star-vikings-forever.json](./51899-star-vikings-forever.json) |
 | Star Vortex | 154021 | [154021-star-vortex.json](./154021-star-vortex.json) |
 | Star Voyage: Treasure Hunting | 301240 | [301240-star-voyage-treasure-hunting.json](./301240-star-voyage-treasure-hunting.json) |
 | Star Warped | 71483 | [71483-star-warped.json](./71483-star-warped.json) |
@@ -5090,8 +5106,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
 | StarPilot W | 307610 | [307610-starpilot-w.json](./307610-starpilot-w.json) |
 | Starpoint Gemini 2 Gold Pack | 308575 | [308575-starpoint-gemini-2-gold-pack.json](./308575-starpoint-gemini-2-gold-pack.json) |
+| Starpoint Gemini 2: Secrets of Aethera | 51898 | [51898-starpoint-gemini-2-secrets-of-aethera.json](./51898-starpoint-gemini-2-secrets-of-aethera.json) |
+| Starpoint Gemini 2: Titans | 51897 | [51897-starpoint-gemini-2-titans.json](./51897-starpoint-gemini-2-titans.json) |
 | Starpoint Gemini 3 | 115458 | [115458-starpoint-gemini-3.json](./115458-starpoint-gemini-3.json) |
 | Starpoint Gemini Warlords - Cycle of Warfare | 124829 | [124829-starpoint-gemini-warlords-cycle-of-warfare.json](./124829-starpoint-gemini-warlords-cycle-of-warfare.json) |
+| Starpoint Gemini Warlords - Deadly Dozen | 51896 | [51896-starpoint-gemini-warlords-deadly-dozen.json](./51896-starpoint-gemini-warlords-deadly-dozen.json) |
+| Starpoint Gemini Warlords: Digital Deluxe Edition | 51895 | [51895-starpoint-gemini-warlords-digital-deluxe-edition.json](./51895-starpoint-gemini-warlords-digital-deluxe-edition.json) |
 | Starpoint Gemini Warlords: Endpoint | 124780 | [124780-starpoint-gemini-warlords-endpoint.json](./124780-starpoint-gemini-warlords-endpoint.json) |
 | StarPrey | 143027 | [143027-starprey.json](./143027-starprey.json) |
 | Starquake Academy | 113029 | [113029-starquake-academy.json](./113029-starquake-academy.json) |
@@ -5211,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stary | 113644 | [113644-stary.json](./113644-stary.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
 | Stasis: Bone Totem | 140866 | [140866-stasis-bone-totem.json](./140866-stasis-bone-totem.json) |
+| Stasis: Deluxe Edition | 51894 | [51894-stasis-deluxe-edition.json](./51894-stasis-deluxe-edition.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
@@ -5249,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
 | Stealth Bastard: Tactical Espionage Arsehole | 65531 | [65531-stealth-bastard-tactical-espionage-arsehole.json](./65531-stealth-bastard-tactical-espionage-arsehole.json) |
 | Stealth Blade | 278402 | [278402-stealth-blade.json](./278402-stealth-blade.json) |
+| Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
 | Stealth Raider | 399006 | [399006-stealth-raider.json](./399006-stealth-raider.json) |
 | Stealth Strike | 333577 | [333577-stealth-strike.json](./333577-stealth-strike.json) |
 | Stealthscape | 96732 | [96732-stealthscape.json](./96732-stealthscape.json) |
@@ -5585,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
+| Strategic Command: European Theater | 51892 | [51892-strategic-command-european-theater.json](./51892-strategic-command-european-theater.json) |
 | Strategic Command: World War I - Empires in Turmoil | 262929 | [262929-strategic-command-world-war-i-empires-in-turmoil.json](./262929-strategic-command-world-war-i-empires-in-turmoil.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
@@ -5864,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterranean Siege | 271495 | [271495-subterranean-siege.json](./271495-subterranean-siege.json) |
 | Suburban Commando | 73811 | [73811-suburban-commando.json](./73811-suburban-commando.json) |
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
+| Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
@@ -6897,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Duo | 227269 | [227269-supreme-duo.json](./227269-supreme-duo.json) |
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
 | Supreme Ruler 2020 Gold | 25062 | [25062-supreme-ruler-2020-gold.json](./25062-supreme-ruler-2020-gold.json) |
+| Supreme Ruler 2020: Gold Edition | 51934 | [51934-supreme-ruler-2020-gold-edition.json](./51934-supreme-ruler-2020-gold-edition.json) |
 | Supreme Ruler 2030 | 219574 | [219574-supreme-ruler-2030.json](./219574-supreme-ruler-2030.json) |
 | Supreme Snowboarding | 9277 | [9277-supreme-snowboarding.json](./9277-supreme-snowboarding.json) |
 | Supreme Summoner | 257101 | [257101-supreme-summoner.json](./257101-supreme-summoner.json) |
@@ -7214,6 +7239,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: Argos Naval Yard | 10936 | [10936-sword-of-the-stars-argos-naval-yard.json](./10936-sword-of-the-stars-argos-naval-yard.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
+| Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
+| Sword of the Stars: The Pit Gold Edition - Necromancer | 51931 | [51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json](./51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json) |
 | Sword Phantom | 305761 | [305761-sword-phantom.json](./305761-sword-phantom.json) |
 | Sword Princess Cistina - The Chosen Saint | 146312 | [146312-sword-princess-cistina-the-chosen-saint.json](./146312-sword-princess-cistina-the-chosen-saint.json) |
 | Sword Princess Sistina | 292523 | [292523-sword-princess-sistina.json](./292523-sword-princess-sistina.json) |
