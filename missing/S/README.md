@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
 | Saikyou Todai Shogi 2 | 203549 | [203549-saikyou-todai-shogi-2.json](./203549-saikyou-todai-shogi-2.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
+| Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
 | Sailing the Winds & New Tanks | 375160 | [375160-sailing-the-winds-and-new-tanks.json](./375160-sailing-the-winds-and-new-tanks.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 1 | 41389 | [41389-sailor-fuku-bishoujo-zukan-vol-1.json](./41389-sailor-fuku-bishoujo-zukan-vol-1.json) |
 | Sailor Fuku Bishoujo Zukan Vol. 2 | 41388 | [41388-sailor-fuku-bishoujo-zukan-vol-2.json](./41388-sailor-fuku-bishoujo-zukan-vol-2.json) |
@@ -1308,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Council: The Puppeteers | 102949 | [102949-shadow-council-the-puppeteers.json](./102949-shadow-council-the-puppeteers.json) |
 | Shadow Eclipse | 166766 | [166766-shadow-eclipse.json](./166766-shadow-eclipse.json) |
 | Shadow Empire: Oceania | 225088 | [225088-shadow-empire-oceania.json](./225088-shadow-empire-oceania.json) |
+| Shadow Escaper | 63805 | [63805-shadow-escaper.json](./63805-shadow-escaper.json) |
 | Shadow Falls | 311258 | [311258-shadow-falls.json](./311258-shadow-falls.json) |
 | Shadow Fate | 191264 | [191264-shadow-fate.json](./191264-shadow-fate.json) |
 | Shadow Fear: Chapter 0 | 168856 | [168856-shadow-fear-chapter-0.json](./168856-shadow-fear-chapter-0.json) |
@@ -2599,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
+| Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
@@ -3025,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
 | Snow Moon Flower | 235748 | [235748-snow-moon-flower.json](./235748-snow-moon-flower.json) |
+| Snow Moto Racing | 63837 | [63837-snow-moto-racing.json](./63837-snow-moto-racing.json) |
 | Snow Plow | 192872 | [192872-snow-plow.json](./192872-snow-plow.json) |
 | Snow Plow Train Simulator 3D - Russia | 87104 | [87104-snow-plow-train-simulator-3d-russia.json](./87104-snow-plow-train-simulator-3d-russia.json) |
 | Snow Plow Truck | 101488 | [101488-snow-plow-truck.json](./101488-snow-plow-truck.json) |
@@ -3230,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
 | Sole Saga | 211940 | [211940-sole-saga.json](./211940-sole-saga.json) |
 | Sole Salvation | 415920 | [415920-sole-salvation.json](./415920-sole-salvation.json) |
+| Solebon | 63806 | [63806-solebon.json](./63806-solebon.json) |
 | Solebon Solitaire | 87541 | [87541-solebon-solitaire.json](./87541-solebon-solitaire.json) |
 | Solemn Warriors | 330187 | [330187-solemn-warriors.json](./330187-solemn-warriors.json) |
 | Soletrando: Nova Ortografia | 181940 | [181940-soletrando-nova-ortografia.json](./181940-soletrando-nova-ortografia.json) |
@@ -5130,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Home | 184055 | [184055-stay-home.json](./184055-stay-home.json) |
 | Stay Home It Rains Outside | 316406 | [316406-stay-home-it-rains-outside.json](./316406-stay-home-it-rains-outside.json) |
 | Stay in | 237056 | [237056-stay-in.json](./237056-stay-in.json) |
+| Stay Out | 63813 | [63813-stay-out.json](./63813-stay-out.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
 | Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
