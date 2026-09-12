@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
 | A Platformer for Ants | 82150 | [82150-a-platformer-for-ants.json](./82150-a-platformer-for-ants.json) |
 | A Potion For Chamomile | 196859 | [196859-a-potion-for-chamomile.json](./196859-a-potion-for-chamomile.json) |
+| A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
