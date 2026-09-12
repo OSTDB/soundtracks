@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land, Sea and Air 2! | 70362 | [70362-land-sea-and-air-2.json](./70362-land-sea-and-air-2.json) |
 | Landborne | 250036 | [250036-landborne.json](./250036-landborne.json) |
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
+| Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
 | Landing Hero: Haneda x 787 | 199108 | [199108-landing-hero-haneda-x-787.json](./199108-landing-hero-haneda-x-787.json) |
 | Landing High Japan | 129142 | [129142-landing-high-japan.json](./129142-landing-high-japan.json) |
@@ -615,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
 | Legion Was Here | 347168 | [347168-legion-was-here.json](./347168-legion-was-here.json) |
 | Legion: Dead Metal | 249214 | [249214-legion-dead-metal.json](./249214-legion-dead-metal.json) |
+| Legions of Death | 37085 | [37085-legions-of-death.json](./37085-legions-of-death.json) |
 | Legna Tactica | 26666 | [26666-legna-tactica.json](./26666-legna-tactica.json) |
 | LEGO Agents: Mission X | 314853 | [314853-lego-agents-mission-x.json](./314853-lego-agents-mission-x.json) |
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
@@ -926,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Simulator | 169945 | [169945-life-simulator.json](./169945-life-simulator.json) |
 | Life Simulator | 231930 | [231930-life-simulator.json](./231930-life-simulator.json) |
 | Life source | 117093 | [117093-life-source.json](./117093-life-source.json) |
+| Life Stage, Virtual House | 37122 | [37122-life-stage-virtual-house.json](./37122-life-stage-virtual-house.json) |
 | Life: The Game | 332839 | [332839-life-the-game.json](./332839-life-the-game.json) |
 | Life's Too Short: A Christmas Spirit | 228095 | [228095-lifes-too-short-a-christmas-spirit.json](./228095-lifes-too-short-a-christmas-spirit.json) |
 | Life's Too Short: On Reflection | 329912 | [329912-lifes-too-short-on-reflection.json](./329912-lifes-too-short-on-reflection.json) |
@@ -949,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
+| Light Gravity Cube | 37042 | [37042-light-gravity-cube.json](./37042-light-gravity-cube.json) |
 | Light House Puzzle | 110969 | [110969-light-house-puzzle.json](./110969-light-house-puzzle.json) |
 | Light In Blood | 277003 | [277003-light-in-blood.json](./277003-light-in-blood.json) |
 | Light Instinct | 357818 | [357818-light-instinct.json](./357818-light-instinct.json) |
@@ -1315,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
 | Living World Racing | 174792 | [174792-living-world-racing.json](./174792-living-world-racing.json) |
 | LivingForest | 306374 | [306374-livingforest.json](./306374-livingforest.json) |
+| Livingstone Supongo | 37079 | [37079-livingstone-supongo.json](./37079-livingstone-supongo.json) |
 | Livli: A Sámi Story | 293894 | [293894-livli-a-sami-story.json](./293894-livli-a-sami-story.json) |
 | Lix | 97896 | [97896-lix.json](./97896-lix.json) |
 | Liyf | 275349 | [275349-liyf.json](./275349-liyf.json) |
