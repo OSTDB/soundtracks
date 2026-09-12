@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
+| 7D Game | 30816 | [30816-7d-game.json](./30816-7d-game.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
