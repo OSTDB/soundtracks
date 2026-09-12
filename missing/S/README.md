@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sign of the Sun | 69878 | [69878-sign-of-the-sun.json](./69878-sign-of-the-sun.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
+| Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
 | SiIvaGunner: King for a Day Tournament - Playable Credits Minigame!! | 326974 | [326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json](./326974-siivagunner-king-for-a-day-tournament-playable-credits-minigame.json) |
 | Sikhl | 308266 | [308266-sikhl.json](./308266-sikhl.json) |
@@ -2668,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot or Not | 373519 | [373519-slot-or-not.json](./373519-slot-or-not.json) |
 | Slot Waste | 306706 | [306706-slot-waste.json](./306706-slot-waste.json) |
+| Slot! | 76551 | [76551-slot.json](./76551-slot.json) |
 | Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
 | Slots of the Season | 147975 | [147975-slots-of-the-season.json](./147975-slots-of-the-season.json) |
 | Slots Royale: 777 Casino Games | 231072 | [231072-slots-royale-777-casino-games.json](./231072-slots-royale-777-casino-games.json) |
@@ -3956,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Warlord Baby Trading Simulator | 380432 | [380432-space-warlord-baby-trading-simulator.json](./380432-space-warlord-baby-trading-simulator.json) |
 | Space Wars | 125377 | [125377-space-wars.json](./125377-space-wars.json) |
 | Space Wars | 187507 | [187507-space-wars.json](./187507-space-wars.json) |
+| Space Wars: Interstellar Empires | 76586 | [76586-space-wars-interstellar-empires.json](./76586-space-wars-interstellar-empires.json) |
 | Space Wave | 181912 | [181912-space-wave.json](./181912-space-wave.json) |
 | Space Waves | 189170 | [189170-space-waves.json](./189170-space-waves.json) |
 | Space Worm | 337468 | [337468-space-worm.json](./337468-space-worm.json) |
@@ -4699,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer - Chapter 10 | 195782 | [195782-star-melody-yumemi-dreamer-chapter-10.json](./195782-star-melody-yumemi-dreamer-chapter-10.json) |
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
+| Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
 | Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
@@ -6667,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
 | Survirus | 345527 | [345527-survirus.json](./345527-survirus.json) |
 | Survival & Horror: Hangman's Rope | 244273 | [244273-survival-and-horror-hangmans-rope.json](./244273-survival-and-horror-hangmans-rope.json) |
+| Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
 | Survival Camp | 127662 | [127662-survival-camp.json](./127662-survival-camp.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Crisis Z | 94707 | [94707-survival-crisis-z.json](./94707-survival-crisis-z.json) |
