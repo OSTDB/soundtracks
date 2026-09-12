@@ -1914,6 +1914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Racing 1980 | 371885 | [371885-gt-racing-1980.json](./371885-gt-racing-1980.json) |
+| GT Racing 2: The Real Car Experience | 38939 | [38939-gt-racing-2-the-real-car-experience.json](./38939-gt-racing-2-the-real-car-experience.json) |
 | GT Racing 97 | 84212 | [84212-gt-racing-97.json](./84212-gt-racing-97.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
 | GTH 3033: Grand Theft Hunter 3033 | 285486 | [285486-gth-3033-grand-theft-hunter-3033.json](./285486-gth-3033-grand-theft-hunter-3033.json) |
