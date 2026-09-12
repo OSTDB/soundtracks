@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Second | 363873 | [363873-1second.json](./363873-1second.json) |
 | 1st Core | 103444 | [103444-1st-core.json](./103444-1st-core.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
+| 2 Days to Vegas | 27751 | [27751-2-days-to-vegas.json](./27751-2-days-to-vegas.json) |
 | 2 Fast 4 Gnomz | 8618 | [8618-2-fast-4-gnomz.json](./8618-2-fast-4-gnomz.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
@@ -238,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2005 Minigame Multicart | 40792 | [40792-2005-minigame-multicart.json](./40792-2005-minigame-multicart.json) |
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
+| 2029 Online | 27733 | [27733-2029-online.json](./27733-2029-online.json) |
 | 2033: Das Erschwachen der Macht | 166165 | [166165-2033-das-erschwachen-der-macht.json](./166165-2033-das-erschwachen-der-macht.json) |
 | 2047 CCG | 205587 | [205587-2047-ccg.json](./205587-2047-ccg.json) |
 | 2048 | 270395 | [270395-2048.json](./270395-2048.json) |
@@ -432,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8th Avenue | 333576 | [333576-8th-avenue.json](./333576-8th-avenue.json) |
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
+| 9 Empires | 27735 | [27735-9-empires.json](./27735-9-empires.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
 | 90 Minutes European Prime Goal | 42663 | [42663-90-minutes-european-prime-goal.json](./42663-90-minutes-european-prime-goal.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
