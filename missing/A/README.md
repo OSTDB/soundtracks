@@ -211,7 +211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
-| ACA NeoGeo Selection Vol. 9 | 376474 | [376474-aca-neogeo-selection-vol-9.json](./376474-aca-neogeo-selection-vol-9.json) |
 | ACA2 Neo Geo: The King of Fighters '98 | 333539 | [333539-aca2-neo-geo-the-king-of-fighters-98.json](./333539-aca2-neo-geo-the-king-of-fighters-98.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Academy34 | 200684 | [200684-academy34.json](./200684-academy34.json) |
@@ -545,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures to Go! | 46016 | [46016-adventures-to-go.json](./46016-adventures-to-go.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Adventures With Oslo: World of Water | 262400 | [262400-adventures-with-oslo-world-of-water.json](./262400-adventures-with-oslo-world-of-water.json) |
+| Adventuring Gentleman | 25663 | [25663-adventuring-gentleman.json](./25663-adventuring-gentleman.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
 | Adversator | 180289 | [180289-adversator.json](./180289-adversator.json) |
 | Adverse | 132254 | [132254-adverse.json](./132254-adverse.json) |
@@ -2996,6 +2996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Jungle | 297790 | [297790-asteroid-jungle.json](./297790-asteroid-jungle.json) |
 | Asteroid King | 276700 | [276700-asteroid-king.json](./276700-asteroid-king.json) |
 | Asteroid Must Die! 2 | 178629 | [178629-asteroid-must-die-2.json](./178629-asteroid-must-die-2.json) |
+| Asteroid Next | 25705 | [25705-asteroid-next.json](./25705-asteroid-next.json) |
 | AsteRoid Rage | 211409 | [211409-asteroid-rage.json](./211409-asteroid-rage.json) |
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
