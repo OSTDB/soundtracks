@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
 | Neo Mystery Bonus | 43979 | [43979-neo-mystery-bonus.json](./43979-neo-mystery-bonus.json) |
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
+| Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
 | Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
 | Neo Testament | 270969 | [270969-neo-testament.json](./270969-neo-testament.json) |
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
