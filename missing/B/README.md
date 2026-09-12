@@ -1182,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Magic | 314254 | [314254-bee-magic.json](./314254-bee-magic.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
+| Bee-Ball | 40720 | [40720-bee-ball.json](./40720-bee-ball.json) |
 | BeeBop II | 336888 | [336888-beebop-ii.json](./336888-beebop-ii.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
@@ -1440,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bhard | 401525 | [401525-bhard.json](./401525-bhard.json) |
 | BHB: BioHazard Bot | 75047 | [75047-bhb-biohazard-bot.json](./75047-bhb-biohazard-bot.json) |
 | Bhop PRO | 144294 | [144294-bhop-pro.json](./144294-bhop-pro.json) |
+| Bi! Bi! | 40742 | [40742-bi-bi.json](./40742-bi-bi.json) |
 | Bibi & Tina: Das große Unwetter | 216453 | [216453-bibi-and-tina-das-gro-e-unwetter.json](./216453-bibi-and-tina-das-gro-e-unwetter.json) |
 | Bibi & Tina: Mikoschs großer Auftritt | 151206 | [151206-bibi-and-tina-mikoschs-gro-er-auftritt.json](./151206-bibi-and-tina-mikoschs-gro-er-auftritt.json) |
 | Bibi Blocksberg: Der Magische Hexenkreis | 199069 | [199069-bibi-blocksberg-der-magische-hexenkreis.json](./199069-bibi-blocksberg-der-magische-hexenkreis.json) |
@@ -1567,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
 | Bill Nye the Science Guy: Stop the Rock | 67957 | [67957-bill-nye-the-science-guy-stop-the-rock.json](./67957-bill-nye-the-science-guy-stop-the-rock.json) |
 | Bill's Tomato Game | 14306 | [14306-bills-tomato-game.json](./14306-bills-tomato-game.json) |
+| Billard | 40763 | [40763-billard.json](./40763-billard.json) |
 | Bille & Trille: Klæder sig ud | 91448 | [91448-bille-and-trille-kl-der-sig-ud.json](./91448-bille-and-trille-kl-der-sig-ud.json) |
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
 | Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
@@ -3089,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Crossy Road | 241613 | [241613-brick-crossy-road.json](./241613-brick-crossy-road.json) |
 | Brick Force: Black Knight | 155573 | [155573-brick-force-black-knight.json](./155573-brick-force-black-knight.json) |
 | Brick Force: Navy Soldier | 155572 | [155572-brick-force-navy-soldier.json](./155572-brick-force-navy-soldier.json) |
+| Brick Kick | 40757 | [40757-brick-kick.json](./40757-brick-kick.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
