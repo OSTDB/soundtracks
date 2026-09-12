@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T05:18:50.550Z",
-  "total_missing": 60709,
+  "generated_at": "2026-09-12T05:21:36.903Z",
+  "total_missing": 60708,
   "games": [
     {
       "igdb_id": 306086,
@@ -2681,11 +2681,6 @@
       "igdb_id": 75164,
       "game_name": "A Wonder",
       "file": "missing/A/75164-a-wonder.json"
-    },
-    {
-      "igdb_id": 144245,
-      "game_name": "A Worker's Guide to Espionage",
-      "file": "missing/A/144245-a-workers-guide-to-espionage.json"
     },
     {
       "igdb_id": 290919,
