@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rucida's Dream | 202328 | [202328-rucidas-dream.json](./202328-rucidas-dream.json) |
 | Ruck | 232422 | [232422-ruck.json](./232422-ruck.json) |
 | Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
+| Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
