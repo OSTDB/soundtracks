@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
 | Làngjì Sānguó | 150636 | [150636-langji-sanguo.json](./150636-langji-sanguo.json) |
+| Langoth | 29756 | [29756-langoth.json](./29756-langoth.json) |
 | Langrisser I & II | 62775 | [62775-langrisser-i-and-ii.json](./62775-langrisser-i-and-ii.json) |
 | Langrisser IV | 69226 | [69226-langrisser-iv.json](./69226-langrisser-iv.json) |
 | Langrisser V: The End of Legend | 78665 | [78665-langrisser-v-the-end-of-legend.json](./78665-langrisser-v-the-end-of-legend.json) |
@@ -1004,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
 | Lightspire: Fortunes Web | 69202 | [69202-lightspire-fortunes-web.json](./69202-lightspire-fortunes-web.json) |
 | Lightstream Racer | 100163 | [100163-lightstream-racer.json](./100163-lightstream-racer.json) |
+| LightStrike | 29784 | [29784-lightstrike.json](./29784-lightstrike.json) |
 | LightSup! | 259021 | [259021-lightsup.json](./259021-lightsup.json) |
 | LightUp! | 186248 | [186248-lightup.json](./186248-lightup.json) |
 | LightWalk | 33096 | [33096-lightwalk.json](./33096-lightwalk.json) |
@@ -1190,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
+| Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
 | Little Dragons Café | 88887 | [88887-little-dragons-cafe.json](./88887-little-dragons-cafe.json) |
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
