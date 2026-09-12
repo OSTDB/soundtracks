@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
 | The Case of the Cautious Condor | 70968 | [70968-the-case-of-the-cautious-condor.json](./70968-the-case-of-the-cautious-condor.json) |
+| The Case of the Muffin Diver | 70371 | [70371-the-case-of-the-muffin-diver.json](./70371-the-case-of-the-muffin-diver.json) |
 | The Case of the Mysterious Maulings | 306959 | [306959-the-case-of-the-mysterious-maulings.json](./306959-the-case-of-the-mysterious-maulings.json) |
 | The Case of the Serialized Killer | 209720 | [209720-the-case-of-the-serialized-killer.json](./209720-the-case-of-the-serialized-killer.json) |
 | The Cases of the Thousands Shogi Records | 122350 | [122350-the-cases-of-the-thousands-shogi-records.json](./122350-the-cases-of-the-thousands-shogi-records.json) |
@@ -3768,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War of the Worlds | 25730 | [25730-the-war-of-the-worlds.json](./25730-the-war-of-the-worlds.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
 | The War: Black Stone | 221388 | [221388-the-war-black-stone.json](./221388-the-war-black-stone.json) |
+| The Ward | 70348 | [70348-the-ward.json](./70348-the-ward.json) |
 | The Warfstache Clicker | 239539 | [239539-the-warfstache-clicker.json](./239539-the-warfstache-clicker.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrior of Treasures 2: Skull Hunter | 107804 | [107804-the-warrior-of-treasures-2-skull-hunter.json](./107804-the-warrior-of-treasures-2-skull-hunter.json) |
