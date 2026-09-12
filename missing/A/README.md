@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area 51 | 316990 | [316990-area-51.json](./316990-area-51.json) |
 | Area 51: Defence | 391044 | [391044-area-51-defence.json](./391044-area-51-defence.json) |
 | Area 51: Running Ninja Raid | 184087 | [184087-area-51-running-ninja-raid.json](./184087-area-51-running-ninja-raid.json) |
+| Area 51/Maximum Force Duo | 39597 | [39597-area-51-maximum-force-duo.json](./39597-area-51-maximum-force-duo.json) |
 | Area Radar Controller | 15600 | [15600-area-radar-controller.json](./15600-area-radar-controller.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
@@ -2853,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashgard: Tone Break | 199618 | [199618-ashgard-tone-break.json](./199618-ashgard-tone-break.json) |
 | Ashi Wash | 91967 | [91967-ashi-wash.json](./91967-ashi-wash.json) |
 | Ashina: The Red Witch | 132762 | [132762-ashina-the-red-witch.json](./132762-ashina-the-red-witch.json) |
+| Ashita no Joe | 39578 | [39578-ashita-no-joe.json](./39578-ashita-no-joe.json) |
 | Ashland | 124216 | [124216-ashland.json](./124216-ashland.json) |
 | Ashland Dossier | 126569 | [126569-ashland-dossier.json](./126569-ashland-dossier.json) |
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
@@ -3003,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra Protocol 2: Audio Pack | 309660 | [309660-astra-protocol-2-audio-pack.json](./309660-astra-protocol-2-audio-pack.json) |
 | Astra Quest | 347718 | [347718-astra-quest.json](./347718-astra-quest.json) |
 | Astra Sentinel | 392126 | [392126-astra-sentinel.json](./392126-astra-sentinel.json) |
+| Astra Superstars | 39603 | [39603-astra-superstars.json](./39603-astra-superstars.json) |
 | Astra: Fading Stars | 143124 | [143124-astra-fading-stars.json](./143124-astra-fading-stars.json) |
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
