@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
+| Dai-2-ji Super Robot Taisen | 48636 | [48636-dai-2-ji-super-robot-taisen.json](./48636-dai-2-ji-super-robot-taisen.json) |
 | Dai-2-ji Super Robot Taisen G | 221400 | [221400-dai-2-ji-super-robot-taisen-g.json](./221400-dai-2-ji-super-robot-taisen-g.json) |
 | Dai-3-ji Super Robot Taisen Alpha: Shuuen no Ginga he | 79338 | [79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json](./79338-dai-3-ji-super-robot-taisen-alpha-shuuen-no-ginga-he.json) |
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
@@ -2797,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Jumpers | 382228 | [382228-dragon-jumpers.json](./382228-dragon-jumpers.json) |
 | Dragon King: The Fighting Game | 184099 | [184099-dragon-king-the-fighting-game.json](./184099-dragon-king-the-fighting-game.json) |
 | Dragon Kings | 269027 | [269027-dragon-kings.json](./269027-dragon-kings.json) |
+| Dragon Knife | 48587 | [48587-dragon-knife.json](./48587-dragon-knife.json) |
 | Dragon Knight | 31918 | [31918-dragon-knight.json](./31918-dragon-knight.json) |
 | Dragon Knight | 39628 | [39628-dragon-knight.json](./39628-dragon-knight.json) |
 | Dragon Knight 4 | 45959 | [45959-dragon-knight-4.json](./45959-dragon-knight-4.json) |
@@ -3005,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream League Soccer 2016 | 403613 | [403613-dream-league-soccer-2016.json](./403613-dream-league-soccer-2016.json) |
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
 | Dream Management Company | 339127 | [339127-dream-management-company.json](./339127-dream-management-company.json) |
+| Dream Master | 48611 | [48611-dream-master.json](./48611-dream-master.json) |
 | Dream Mirror | 164966 | [164966-dream-mirror.json](./164966-dream-mirror.json) |
 | Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
