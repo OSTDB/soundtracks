@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T07:33:55.533Z",
-  "total_missing": 61107,
+  "generated_at": "2026-09-12T07:41:31.876Z",
+  "total_missing": 61106,
   "games": [
     {
       "igdb_id": 306086,
@@ -2751,11 +2751,6 @@
       "igdb_id": 228684,
       "game_name": "Aardwolf MUD",
       "file": "missing/A/228684-aardwolf-mud.json"
-    },
-    {
-      "igdb_id": 276707,
-      "game_name": "Aarik: and the Ruined Kingdom",
-      "file": "missing/A/276707-aarik-and-the-ruined-kingdom.json"
     },
     {
       "igdb_id": 69280,
