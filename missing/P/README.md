@@ -2454,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pragma Twice | 347714 | [347714-pragma-twice.json](./347714-pragma-twice.json) |
 | Pragmatics | 326068 | [326068-pragmatics.json](./326068-pragmatics.json) |
 | Prague Metro Simulator: Passenger Transport | 207813 | [207813-prague-metro-simulator-passenger-transport.json](./207813-prague-metro-simulator-passenger-transport.json) |
+| Prana | 75113 | [75113-prana.json](./75113-prana.json) |
 | Pranksters: Treasure of the Indians | 322570 | [322570-pranksters-treasure-of-the-indians.json](./322570-pranksters-treasure-of-the-indians.json) |
 | Prawngeon | 266234 | [266234-prawngeon.json](./266234-prawngeon.json) |
 | Pray Game | 167306 | [167306-pray-game.json](./167306-pray-game.json) |
@@ -2685,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2019 | 240471 | [240471-pro-evolution-soccer-2019.json](./240471-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer 2019 | 240473 | [240473-pro-evolution-soccer-2019.json](./240473-pro-evolution-soccer-2019.json) |
 | Pro Evolution Soccer Collection | 261262 | [261262-pro-evolution-soccer-collection.json](./261262-pro-evolution-soccer-collection.json) |
+| Pro Farm Manager | 75108 | [75108-pro-farm-manager.json](./75108-pro-farm-manager.json) |
 | Pro Fishing Challenge | 78688 | [78688-pro-fishing-challenge.json](./78688-pro-fishing-challenge.json) |
 | Pro Fishing Simulator: Predator Edition | 115022 | [115022-pro-fishing-simulator-predator-edition.json](./115022-pro-fishing-simulator-predator-edition.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
@@ -2878,6 +2880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Prison | 157190 | [157190-project-prison.json](./157190-project-prison.json) |
 | Project R | 220661 | [220661-project-r.json](./220661-project-r.json) |
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
+| Project Ragtag | 75120 | [75120-project-ragtag.json](./75120-project-ragtag.json) |
 | Project Ravensdale | 63335 | [63335-project-ravensdale.json](./63335-project-ravensdale.json) |
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
