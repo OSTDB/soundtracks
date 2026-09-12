@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 19 Companion | 108456 | [108456-nba-live-19-companion.json](./108456-nba-live-19-companion.json) |
 | NBA Live 19: The One Edition | 118944 | [118944-nba-live-19-the-one-edition.json](./118944-nba-live-19-the-one-edition.json) |
 | NBA Live 2000 | 264855 | [264855-nba-live-2000.json](./264855-nba-live-2000.json) |
+| NBA Maximum Hangtime | 39596 | [39596-nba-maximum-hangtime.json](./39596-nba-maximum-hangtime.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
 | NBA Now 23 | 239884 | [239884-nba-now-23.json](./239884-nba-now-23.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Ha_Bits | 311493 | [311493-neo-ha-bits.json](./311493-neo-ha-bits.json) |
 | Neo Heiankyo Alien | 215371 | [215371-neo-heiankyo-alien.json](./215371-neo-heiankyo-alien.json) |
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
+| Neo Mr. Do! | 39540 | [39540-neo-mr-do.json](./39540-neo-mr-do.json) |
 | Neo Mystery Bonus | 43979 | [43979-neo-mystery-bonus.json](./43979-neo-mystery-bonus.json) |
 | Neo Nectaris | 42009 | [42009-neo-nectaris.json](./42009-neo-nectaris.json) |
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
@@ -807,6 +809,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neyyah | 133474 | [133474-neyyah.json](./133474-neyyah.json) |
 | Nezumi Man | 276480 | [276480-nezumi-man.json](./276480-nezumi-man.json) |
 | NFL 2 Minute Drill | 130949 | [130949-nfl-2-minute-drill.json](./130949-nfl-2-minute-drill.json) |
+| NFL Blitz 2000: Gold Edition | 39598 | [39598-nfl-blitz-2000-gold-edition.json](./39598-nfl-blitz-2000-gold-edition.json) |
+| NFL Blitz 99 | 39599 | [39599-nfl-blitz-99.json](./39599-nfl-blitz-99.json) |
 | NFL Blitz Pro | 47337 | [47337-nfl-blitz-pro.json](./47337-nfl-blitz-pro.json) |
 | NFL Coaches Club Football | 82801 | [82801-nfl-coaches-club-football.json](./82801-nfl-coaches-club-football.json) |
 | NFL Flick Quarterback | 58189 | [58189-nfl-flick-quarterback.json](./58189-nfl-flick-quarterback.json) |
