@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
 | TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
+| Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
 | TeaChess | 188036 | [188036-teachess.json](./188036-teachess.json) |
@@ -3163,6 +3164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Senpai | 230521 | [230521-the-senpai.json](./230521-the-senpai.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
+| The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
 | The Serial Adventures of Dick Jack BB! | 176441 | [176441-the-serial-adventures-of-dick-jack-bb.json](./176441-the-serial-adventures-of-dick-jack-bb.json) |
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
@@ -4169,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Toc Shoc for Playdate | 276727 | [276727-tic-toc-shoc-for-playdate.json](./276727-tic-toc-shoc-for-playdate.json) |
 | Tic-Tac-Matrix | 180748 | [180748-tic-tac-matrix.json](./180748-tic-tac-matrix.json) |
 | Tic-Tac-Tanks | 195214 | [195214-tic-tac-tanks.json](./195214-tic-tac-tanks.json) |
+| Tic-Tac-Touch: FS5 | 72628 | [72628-tic-tac-touch-fs5.json](./72628-tic-tac-touch-fs5.json) |
 | Tic-Toc-Tower: Teslagrad | 171063 | [171063-tic-toc-tower-teslagrad.json](./171063-tic-toc-tower-teslagrad.json) |
 | TIC's Revenge | 332243 | [332243-tics-revenge.json](./332243-tics-revenge.json) |
 | Tichi3D | 236830 | [236830-tichi3d.json](./236830-tichi3d.json) |
