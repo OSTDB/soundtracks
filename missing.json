@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T01:49:03.165Z",
-  "total_missing": 60096,
+  "generated_at": "2026-09-12T02:01:46.885Z",
+  "total_missing": 60112,
   "games": [
     {
       "igdb_id": 306086,
@@ -2576,11 +2576,6 @@
       "igdb_id": 338718,
       "game_name": "A Tower",
       "file": "missing/A/338718-a-tower.json"
-    },
-    {
-      "igdb_id": 188586,
-      "game_name": "A True History of the Adamant Gambit",
-      "file": "missing/A/188586-a-true-history-of-the-adamant-gambit.json"
     },
     {
       "igdb_id": 89975,
@@ -35253,6 +35248,11 @@
       "file": "missing/B/96028-buka.json"
     },
     {
+      "igdb_id": 74407,
+      "game_name": "Buku Sudoku",
+      "file": "missing/B/74407-buku-sudoku.json"
+    },
+    {
       "igdb_id": 267668,
       "game_name": "Bulanci: Hero Factory",
       "file": "missing/B/267668-bulanci-hero-factory.json"
@@ -41456,6 +41456,11 @@
       "igdb_id": 64399,
       "game_name": "Centipede & Battlezone",
       "file": "missing/C/64399-centipede-and-battlezone.json"
+    },
+    {
+      "igdb_id": 74408,
+      "game_name": "Centipede & Millipede",
+      "file": "missing/C/74408-centipede-and-millipede.json"
     },
     {
       "igdb_id": 281985,
@@ -54356,6 +54361,11 @@
       "igdb_id": 253017,
       "game_name": "Cubis Creatures",
       "file": "missing/C/253017-cubis-creatures.json"
+    },
+    {
+      "igdb_id": 74403,
+      "game_name": "Cubis Kingdoms",
+      "file": "missing/C/74403-cubis-kingdoms.json"
     },
     {
       "igdb_id": 207824,
@@ -86708,6 +86718,11 @@
       "file": "missing/F/169400-fireworks-simulator-realistic.json"
     },
     {
+      "igdb_id": 74397,
+      "game_name": "Firezone",
+      "file": "missing/F/74397-firezone.json"
+    },
+    {
       "igdb_id": 114979,
       "game_name": "Firon",
       "file": "missing/F/114979-firon.json"
@@ -101133,6 +101148,11 @@
       "file": "missing/G/229336-google-santa-tracker.json"
     },
     {
+      "igdb_id": 74401,
+      "game_name": "Google Spotlight Stories: Pearl",
+      "file": "missing/G/74401-google-spotlight-stories-pearl.json"
+    },
+    {
       "igdb_id": 75041,
       "game_name": "Google Spotlight Stories: Son of Jaguar",
       "file": "missing/G/75041-google-spotlight-stories-son-of-jaguar.json"
@@ -110433,6 +110453,11 @@
       "file": "missing/H/410923-here-again.json"
     },
     {
+      "igdb_id": 74392,
+      "game_name": "Here and There Along the Echo",
+      "file": "missing/H/74392-here-and-there-along-the-echo.json"
+    },
+    {
       "igdb_id": 110355,
       "game_name": "Here Be Dragons",
       "file": "missing/H/110355-here-be-dragons.json"
@@ -113411,6 +113436,11 @@
       "igdb_id": 215683,
       "game_name": "Holiday Jigsaw: Thanksgiving Day 3",
       "file": "missing/H/215683-holiday-jigsaw-thanksgiving-day-3.json"
+    },
+    {
+      "igdb_id": 74396,
+      "game_name": "Holiday Maker",
+      "file": "missing/H/74396-holiday-maker.json"
     },
     {
       "igdb_id": 157183,
@@ -183178,6 +183208,11 @@
       "file": "missing/P/372990-perk-up.json"
     },
     {
+      "igdb_id": 74390,
+      "game_name": "Perkele! Suomi 100 vuotta",
+      "file": "missing/P/74390-perkele-suomi-100-vuotta.json"
+    },
+    {
       "igdb_id": 90825,
       "game_name": "Perky Little Things",
       "file": "missing/P/90825-perky-little-things.json"
@@ -211658,6 +211693,11 @@
       "file": "missing/S/63301-sangoku-hime-2.json"
     },
     {
+      "igdb_id": 74402,
+      "game_name": "Sangoku Justice",
+      "file": "missing/S/74402-sangoku-justice.json"
+    },
+    {
       "igdb_id": 135856,
       "game_name": "Sangoku Rensenki ~Omoidegaeshi~ CS Edition",
       "file": "missing/S/135856-sangoku-rensenki-omoidegaeshi-cs-edition.json"
@@ -215116,6 +215156,11 @@
       "igdb_id": 272301,
       "game_name": "Senda Salvaje",
       "file": "missing/S/272301-senda-salvaje.json"
+    },
+    {
+      "igdb_id": 74404,
+      "game_name": "Sender Unknown: The Woods",
+      "file": "missing/S/74404-sender-unknown-the-woods.json"
     },
     {
       "igdb_id": 326606,
@@ -223136,6 +223181,11 @@
       "igdb_id": 236020,
       "game_name": "Sling Kings: Supercharged Chess",
       "file": "missing/S/236020-sling-kings-supercharged-chess.json"
+    },
+    {
+      "igdb_id": 74400,
+      "game_name": "Sling Ming",
+      "file": "missing/S/74400-sling-ming.json"
     },
     {
       "igdb_id": 255955,
@@ -231271,6 +231321,11 @@
       "igdb_id": 199054,
       "game_name": "SpinOff",
       "file": "missing/S/199054-spinoff.json"
+    },
+    {
+      "igdb_id": 74405,
+      "game_name": "SpinSling",
+      "file": "missing/S/74405-spinsling.json"
     },
     {
       "igdb_id": 301277,
@@ -254098,6 +254153,11 @@
       "file": "missing/T/113668-the-dungeon-experience.json"
     },
     {
+      "igdb_id": 74399,
+      "game_name": "The Dungeon of Destiny",
+      "file": "missing/T/74399-the-dungeon-of-destiny.json"
+    },
+    {
       "igdb_id": 229374,
       "game_name": "The Dungeon of Doom",
       "file": "missing/T/229374-the-dungeon-of-doom.json"
@@ -262113,6 +262173,11 @@
       "file": "missing/T/358305-the-squirrel-and-sea.json"
     },
     {
+      "igdb_id": 74393,
+      "game_name": "The St Christopher's School Lockdown",
+      "file": "missing/T/74393-the-st-christophers-school-lockdown.json"
+    },
+    {
       "igdb_id": 62177,
       "game_name": "The Stadium Project",
       "file": "missing/T/62177-the-stadium-project.json"
@@ -263841,6 +263906,11 @@
       "igdb_id": 37188,
       "game_name": "The Vikings",
       "file": "missing/T/37188-the-vikings.json"
+    },
+    {
+      "igdb_id": 74391,
+      "game_name": "The Village",
+      "file": "missing/T/74391-the-village.json"
     },
     {
       "igdb_id": 268725,
@@ -285828,6 +285898,11 @@
       "file": "missing/V/116304-vr-sport-and-cycling.json"
     },
     {
+      "igdb_id": 74398,
+      "game_name": "VR Squash 2017",
+      "file": "missing/V/74398-vr-squash-2017.json"
+    },
+    {
       "igdb_id": 193450,
       "game_name": "VR Sweet Heart",
       "file": "missing/V/193450-vr-sweet-heart.json"
@@ -291281,6 +291356,11 @@
       "igdb_id": 179746,
       "game_name": "Willo",
       "file": "missing/W/179746-willo.json"
+    },
+    {
+      "igdb_id": 74395,
+      "game_name": "Willow",
+      "file": "missing/W/74395-willow.json"
     },
     {
       "igdb_id": 82079,
