@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bonk | 110285 | [110285-james-bonk.json](./110285-james-bonk.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
+| Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
 | Jammin' | 126016 | [126016-jammin.json](./126016-jammin.json) |
 | Jampack Summer 2K | 43318 | [43318-jampack-summer-2k.json](./43318-jampack-summer-2k.json) |
 | Jampack: Volume 12 | 43316 | [43316-jampack-volume-12.json](./43316-jampack-volume-12.json) |
@@ -669,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | june 18 2024 (White people in China) | 318232 | [318232-june-18-2024-white-people-in-china.json](./318232-june-18-2024-white-people-in-china.json) |
 | June Bride Nightmare | 356620 | [356620-june-bride-nightmare.json](./356620-june-bride-nightmare.json) |
 | Jung's Labyrinth | 149562 | [149562-jungs-labyrinth.json](./149562-jungs-labyrinth.json) |
+| Jungle Blocks | 67967 | [67967-jungle-blocks.json](./67967-jungle-blocks.json) |
 | Jungle Book | 131532 | [131532-jungle-book.json](./131532-jungle-book.json) |
 | Jungle Catz | 291786 | [291786-jungle-catz.json](./291786-jungle-catz.json) |
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
