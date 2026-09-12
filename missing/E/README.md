@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo 9 | 410936 | [410936-echo-9.json](./410936-echo-9.json) |
 | Echo Chess | 316998 | [316998-echo-chess.json](./316998-echo-chess.json) |
 | Echo Flesh Metal | 303511 | [303511-echo-flesh-metal.json](./303511-echo-flesh-metal.json) |
+| Echo Glass | 58215 | [58215-echo-glass.json](./58215-echo-glass.json) |
 | Echo in Capistrano | 303510 | [303510-echo-in-capistrano.json](./303510-echo-in-capistrano.json) |
 | Echo Night: The First Voyage | 213604 | [213604-echo-night-the-first-voyage.json](./213604-echo-night-the-first-voyage.json) |
 | Echo of Mobius | 303509 | [303509-echo-of-mobius.json](./303509-echo-of-mobius.json) |
