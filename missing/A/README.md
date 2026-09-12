@@ -171,7 +171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
-| Above: Colonies of the Mist | 388001 | [388001-above-colonies-of-the-mist.json](./388001-above-colonies-of-the-mist.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
