@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverending Check-in: The Hotel Stories | 253566 | [253566-neverending-check-in-the-hotel-stories.json](./253566-neverending-check-in-the-hotel-stories.json) |
 | NeverGoingHome | 298064 | [298064-nevergoinghome.json](./298064-nevergoinghome.json) |
 | NeverGone | 39003 | [39003-nevergone.json](./39003-nevergone.json) |
+| Nevergrind | 60487 | [60487-nevergrind.json](./60487-nevergrind.json) |
 | NeverHome: Tower of Vanity | 349838 | [349838-neverhome-tower-of-vanity.json](./349838-neverhome-tower-of-vanity.json) |
 | Neverland | 216990 | [216990-neverland.json](./216990-neverland.json) |
 | Neverland: Aeterna Chronicles | 353288 | [353288-neverland-aeterna-chronicles.json](./353288-neverland-aeterna-chronicles.json) |
@@ -1108,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjatown: Trees of Doom! | 21755 | [21755-ninjatown-trees-of-doom.json](./21755-ninjatown-trees-of-doom.json) |
 | NinJump Rush | 220828 | [220828-ninjump-rush.json](./220828-ninjump-rush.json) |
 | Ninku Dai-ni-Tama: Ninku Sensou-hen | 60537 | [60537-ninku-dai-ni-tama-ninku-sensou-hen.json](./60537-ninku-dai-ni-tama-ninku-sensou-hen.json) |
+| Ninku: Tsuyokina Yatsura no Daigekitotsu! | 60536 | [60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json](./60536-ninku-tsuyokina-yatsura-no-daigekitotsu.json) |
 | NinNinDays2 | 192399 | [192399-ninnindays2.json](./192399-ninnindays2.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpen Manmaru | 62714 | [62714-ninpen-manmaru.json](./62714-ninpen-manmaru.json) |
