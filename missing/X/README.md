@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Battle of the Atom | 62782 | [62782-x-men-battle-of-the-atom.json](./62782-x-men-battle-of-the-atom.json) |
 | X-Men: Mind Games | 268483 | [268483-x-men-mind-games.json](./268483-x-men-mind-games.json) |
 | X-Men: The Official Game | 4578 | [4578-x-men-the-official-game.json](./4578-x-men-the-official-game.json) |
+| X-Men: Wolverine's Rage | 49899 | [49899-x-men-wolverines-rage.json](./49899-x-men-wolverines-rage.json) |
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
 | X-Plane 10 | 79940 | [79940-x-plane-10.json](./79940-x-plane-10.json) |
@@ -170,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtractor Defender | 111672 | [111672-xtractor-defender.json](./111672-xtractor-defender.json) |
 | Xtreme Boarders: Precision Skating | 205813 | [205813-xtreme-boarders-precision-skating.json](./205813-xtreme-boarders-precision-skating.json) |
 | Xtreme Garage: Drifter | 234329 | [234329-xtreme-garage-drifter.json](./234329-xtreme-garage-drifter.json) |
+| Xtreme Sports | 49869 | [49869-xtreme-sports.json](./49869-xtreme-sports.json) |
 | Xtreme Sports Arcade: Summer Edition | 205808 | [205808-xtreme-sports-arcade-summer-edition.json](./205808-xtreme-sports-arcade-summer-edition.json) |
 | Xtreme Typing | 150660 | [150660-xtreme-typing.json](./150660-xtreme-typing.json) |
 | XType Plus | 61248 | [61248-xtype-plus.json](./61248-xtype-plus.json) |
