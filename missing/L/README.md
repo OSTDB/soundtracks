@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loppi Puzzle Magazine: Kangaeru Dai-2-gou | 226399 | [226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json](./226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Puzzle Soukangou | 226401 | [226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json](./226401-loppi-puzzle-magazine-kangaeru-puzzle-soukangou.json) |
+| Loptice | 41939 | [41939-loptice.json](./41939-loptice.json) |
 | Lorcan the Leprechaun | 149550 | [149550-lorcan-the-leprechaun.json](./149550-lorcan-the-leprechaun.json) |
 | Lorch 2 | 270681 | [270681-lorch-2.json](./270681-lorch-2.json) |
 | Lorch 3 | 270655 | [270655-lorch-3.json](./270655-lorch-3.json) |
