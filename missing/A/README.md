@@ -194,7 +194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss Chaser | 332446 | [332446-abyss-chaser.json](./332446-abyss-chaser.json) |
-| Abyss Infection | 157152 | [157152-abyss-infection.json](./157152-abyss-infection.json) |
 | Abyss of Dungeons | 306976 | [306976-abyss-of-dungeons.json](./306976-abyss-of-dungeons.json) |
 | Abyss of Fire | 239301 | [239301-abyss-of-fire.json](./239301-abyss-of-fire.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
@@ -2278,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
+| Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
 | Atomic Heart: Enchantment Under the Sea | 325107 | [325107-atomic-heart-enchantment-under-the-sea.json](./325107-atomic-heart-enchantment-under-the-sea.json) |
 | Atomic Owl | 283949 | [283949-atomic-owl.json](./283949-atomic-owl.json) |
+| Atomic Point | 39619 | [39619-atomic-point.json](./39619-atomic-point.json) |
 | Atomic Pursuit | 234069 | [234069-atomic-pursuit.json](./234069-atomic-pursuit.json) |
 | Atomic Robo-Kid | 11921 | [11921-atomic-robo-kid.json](./11921-atomic-robo-kid.json) |
 | Atomic Rock Paper Scissors | 180830 | [180830-atomic-rock-paper-scissors.json](./180830-atomic-rock-paper-scissors.json) |
@@ -3262,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura Kingdom | 8746 | [8746-aura-kingdom.json](./8746-aura-kingdom.json) |
 | Aura Kingdom: Impact | 353913 | [353913-aura-kingdom-impact.json](./353913-aura-kingdom-impact.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
+| Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
 | Aural to Hikari no Ryuu: Gathering Light | 327602 | [327602-aural-to-hikari-no-ryuu-gathering-light.json](./327602-aural-to-hikari-no-ryuu-gathering-light.json) |
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
