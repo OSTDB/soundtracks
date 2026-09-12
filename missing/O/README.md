@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Superb Edition | 317246 | [317246-one-night-burlesque-superb-edition.json](./317246-one-night-burlesque-superb-edition.json) |
 | One Night: Burlesque - Ultimate Edition | 283168 | [283168-one-night-burlesque-ultimate-edition.json](./283168-one-night-burlesque-ultimate-edition.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
+| One on One: Dr. J vs. Larry Bird | 69833 | [69833-one-on-one-dr-j-vs-larry-bird.json](./69833-one-on-one-dr-j-vs-larry-bird.json) |
 | One Paradox | 341507 | [341507-one-paradox.json](./341507-one-paradox.json) |
 | One Perfect Day | 264061 | [264061-one-perfect-day.json](./264061-one-perfect-day.json) |
 | One Piece Clicker | 212282 | [212282-one-piece-clicker.json](./212282-one-piece-clicker.json) |
