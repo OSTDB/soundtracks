@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T11:46:37.047Z",
-  "total_missing": 61779,
+  "generated_at": "2026-09-12T11:51:31.726Z",
+  "total_missing": 61777,
   "games": [
     {
       "igdb_id": 306086,
@@ -2833,11 +2833,6 @@
       "file": "missing/A/182543-abduct-and-destroy.json"
     },
     {
-      "igdb_id": 316440,
-      "game_name": "Abducted",
-      "file": "missing/A/316440-abducted.json"
-    },
-    {
       "igdb_id": 180759,
       "game_name": "Abducting Mjolnir",
       "file": "missing/A/180759-abducting-mjolnir.json"
@@ -2886,11 +2881,6 @@
       "igdb_id": 226213,
       "game_name": "Abnormal Status: Tattoo, Prohibited Books, Parasites",
       "file": "missing/A/226213-abnormal-status-tattoo-prohibited-books-parasites.json"
-    },
-    {
-      "igdb_id": 344375,
-      "game_name": "Abodtion",
-      "file": "missing/A/344375-abodtion.json"
     },
     {
       "igdb_id": 355575,
