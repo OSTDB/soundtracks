@@ -2327,7 +2327,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Master: Season 1 | 318437 | [318437-combat-master-season-1.json](./318437-combat-master-season-1.json) |
 | Combat Mission Anthology | 78011 | [78011-combat-mission-anthology.json](./78011-combat-mission-anthology.json) |
 | Combat Mission Shock Force 2 | 138217 | [138217-combat-mission-shock-force-2.json](./138217-combat-mission-shock-force-2.json) |
+| Combat Mission: Black Sea | 77292 | [77292-combat-mission-black-sea.json](./77292-combat-mission-black-sea.json) |
 | Combat Mission: Final Blitzkrieg - Downfall | 288220 | [288220-combat-mission-final-blitzkrieg-downfall.json](./288220-combat-mission-final-blitzkrieg-downfall.json) |
+| Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
 | Combat rush | 108403 | [108403-combat-rush.json](./108403-combat-rush.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
 | Combat Wings | 138170 | [138170-combat-wings.json](./138170-combat-wings.json) |
@@ -2414,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 3: Console Edition | 228537 | [228537-company-of-heroes-3-console-edition.json](./228537-company-of-heroes-3-console-edition.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Hammer & Shield | 277019 | [277019-company-of-heroes-3-hammer-and-shield.json](./277019-company-of-heroes-3-hammer-and-shield.json) |
+| Company of Heroes Online | 77294 | [77294-company-of-heroes-online.json](./77294-company-of-heroes-online.json) |
 | Company of Heroes: Battle of Crete | 127909 | [127909-company-of-heroes-battle-of-crete.json](./127909-company-of-heroes-battle-of-crete.json) |
 | Company of Heroes: Blitzkrieg Mod | 127910 | [127910-company-of-heroes-blitzkrieg-mod.json](./127910-company-of-heroes-blitzkrieg-mod.json) |
 | Company of Heroes: Eastern Front | 127898 | [127898-company-of-heroes-eastern-front.json](./127898-company-of-heroes-eastern-front.json) |
@@ -2480,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
 | Conflict: Global Terror | 5785 | [5785-conflict-global-terror.json](./5785-conflict-global-terror.json) |
+| Conflict: Korea the First Year 1950-1951 | 77318 | [77318-conflict-korea-the-first-year-1950-1951.json](./77318-conflict-korea-the-first-year-1950-1951.json) |
 | Conflict: Middle East | 69884 | [69884-conflict-middle-east.json](./69884-conflict-middle-east.json) |
 | Conflux | 320520 | [320520-conflux.json](./320520-conflux.json) |
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
