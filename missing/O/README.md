@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okhotsk ni Kiyu: Hokkaido Rensa Satsujin | 206132 | [206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json](./206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json) |
 | Okie Dokie | 40776 | [40776-okie-dokie.json](./40776-okie-dokie.json) |
 | Okinawa Journal | 372458 | [372458-okinawa-journal.json](./372458-okinawa-journal.json) |
+| OkioGo! | 61061 | [61061-okiogo.json](./61061-okiogo.json) |
 | Okiraku Daifugou 3D | 222326 | [222326-okiraku-daifugou-3d.json](./222326-okiraku-daifugou-3d.json) |
 | Okiraku Golf 3D | 222293 | [222293-okiraku-golf-3d.json](./222293-okiraku-golf-3d.json) |
 | Okiraku Ping Pong 3D | 222329 | [222329-okiraku-ping-pong-3d.json](./222329-okiraku-ping-pong-3d.json) |
