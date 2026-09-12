@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T05:33:54.617Z",
-  "total_missing": 60757,
+  "generated_at": "2026-09-12T05:41:35.628Z",
+  "total_missing": 60756,
   "games": [
     {
       "igdb_id": 306086,
@@ -2691,11 +2691,6 @@
       "igdb_id": 15570,
       "game_name": "A-10 Tank Killer Version 1.5",
       "file": "missing/A/15570-a-10-tank-killer-version-1-5.json"
-    },
-    {
-      "igdb_id": 62182,
-      "game_name": "A-Force: Armour Force",
-      "file": "missing/A/62182-a-force-armour-force.json"
     },
     {
       "igdb_id": 8624,
