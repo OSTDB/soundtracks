@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T21:48:49.593Z",
-  "total_missing": 63437,
+  "generated_at": "2026-09-12T21:51:29.903Z",
+  "total_missing": 63436,
   "games": [
     {
       "igdb_id": 306086,
@@ -3186,11 +3186,6 @@
       "igdb_id": 309322,
       "game_name": "Abyssus Deep Under",
       "file": "missing/A/309322-abyssus-deep-under.json"
-    },
-    {
-      "igdb_id": 52553,
-      "game_name": "Abzu: Deluxe Edition",
-      "file": "missing/A/52553-abzu-deluxe-edition.json"
     },
     {
       "igdb_id": 85538,
