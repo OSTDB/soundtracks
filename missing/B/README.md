@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
 | Bonzala | 269595 | [269595-bonzala.json](./269595-bonzala.json) |
+| Boo Breakers: The Ghostening | 30808 | [30808-boo-breakers-the-ghostening.json](./30808-boo-breakers-the-ghostening.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
 | Boogaloopers | 62752 | [62752-boogaloopers.json](./62752-boogaloopers.json) |
