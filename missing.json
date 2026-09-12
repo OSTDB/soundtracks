@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T10:04:10.103Z",
-  "total_missing": 61522,
+  "generated_at": "2026-09-12T10:11:31.274Z",
+  "total_missing": 61521,
   "games": [
     {
       "igdb_id": 306086,
@@ -2826,11 +2826,6 @@
       "igdb_id": 33117,
       "game_name": "Abe VR",
       "file": "missing/A/33117-abe-vr.json"
-    },
-    {
-      "igdb_id": 299785,
-      "game_name": "Abel: Shin Mokushiroku Taisen",
-      "file": "missing/A/299785-abel-shin-mokushiroku-taisen.json"
     },
     {
       "igdb_id": 191621,
