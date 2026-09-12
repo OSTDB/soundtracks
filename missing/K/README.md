@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
 | Kaite Oboeru Doragana | 66034 | [66034-kaite-oboeru-doragana.json](./66034-kaite-oboeru-doragana.json) |
 | Kaitou Elf Liely | 246107 | [246107-kaitou-elf-liely.json](./246107-kaitou-elf-liely.json) |
+| Kaitou Saint Tail | 45273 | [45273-kaitou-saint-tail.json](./45273-kaitou-saint-tail.json) |
 | Kaitou Tantei Blonde Lady | 236834 | [236834-kaitou-tantei-blonde-lady.json](./236834-kaitou-tantei-blonde-lady.json) |
 | Kaiv | 23874 | [23874-kaiv.json](./23874-kaiv.json) |
 | Kaiwa | 290681 | [290681-kaiwa.json](./290681-kaiwa.json) |
@@ -581,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
 | Kinesis | 141783 | [141783-kinesis.json](./141783-kinesis.json) |
 | Kinesis | 276713 | [276713-kinesis.json](./276713-kinesis.json) |
+| Kinetic Connection | 45272 | [45272-kinetic-connection.json](./45272-kinetic-connection.json) |
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
 | King 'n Knight | 153944 | [153944-king-n-knight.json](./153944-king-n-knight.json) |
 | King and Country | 151148 | [151148-king-and-country.json](./151148-king-and-country.json) |
@@ -1174,6 +1176,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kungfu Beggar | 75795 | [75795-kungfu-beggar.json](./75795-kungfu-beggar.json) |
 | Kungfu Football Captain | 153931 | [153931-kungfu-football-captain.json](./153931-kungfu-football-captain.json) |
 | KungFu Kickball | 121713 | [121713-kungfu-kickball.json](./121713-kungfu-kickball.json) |
+| Kuni Chan no Game Tengoku | 45271 | [45271-kuni-chan-no-game-tengoku.json](./45271-kuni-chan-no-game-tengoku.json) |
+| Kuni Chan no Game Tengoku Part 2 | 45270 | [45270-kuni-chan-no-game-tengoku-part-2.json](./45270-kuni-chan-no-game-tengoku-part-2.json) |
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
 | Kunio-kun no Nekketsu Dodgeball Allstars!! | 60502 | [60502-kunio-kun-no-nekketsu-dodgeball-allstars.json](./60502-kunio-kun-no-nekketsu-dodgeball-allstars.json) |
 | Kunio-kun's Nekketsu Soccer League | 16603 | [16603-kunio-kuns-nekketsu-soccer-league.json](./16603-kunio-kuns-nekketsu-soccer-league.json) |
