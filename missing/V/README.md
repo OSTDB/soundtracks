@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector Prospector | 141144 | [141144-vector-prospector.json](./141144-vector-prospector.json) |
 | Vector Runners | 179128 | [179128-vector-runners.json](./179128-vector-runners.json) |
 | Vector the Crocodile in Sonic the Hedgehog | 198530 | [198530-vector-the-crocodile-in-sonic-the-hedgehog.json](./198530-vector-the-crocodile-in-sonic-the-hedgehog.json) |
+| Vector Velocity | 75771 | [75771-vector-velocity.json](./75771-vector-velocity.json) |
 | Vector Vendetta | 57100 | [57100-vector-vendetta.json](./57100-vector-vendetta.json) |
 | Vector Zone | 278687 | [278687-vector-zone.json](./278687-vector-zone.json) |
 | Vectorio: Frosted Defenses Pack | 222897 | [222897-vectorio-frosted-defenses-pack.json](./222897-vectorio-frosted-defenses-pack.json) |
