@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God is Watching | 336922 | [336922-god-is-watching.json](./336922-god-is-watching.json) |
 | God Killer Aria | 182473 | [182473-god-killer-aria.json](./182473-god-killer-aria.json) |
 | God Marionette | 82868 | [82868-god-marionette.json](./82868-god-marionette.json) |
+| God of Light: Remastered | 75048 | [75048-god-of-light-remastered.json](./75048-god-of-light-remastered.json) |
 | God of Stocks | 412963 | [412963-god-of-stocks.json](./412963-god-of-stocks.json) |
 | God of War II Remake | 389451 | [389451-god-of-war-ii-remake.json](./389451-god-of-war-ii-remake.json) |
 | God of War III Remake | 389452 | [389452-god-of-war-iii-remake.json](./389452-god-of-war-iii-remake.json) |
@@ -1318,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Blocks | 115730 | [115730-google-blocks.json](./115730-google-blocks.json) |
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
+| Google Spotlight Stories: Son of Jaguar | 75041 | [75041-google-spotlight-stories-son-of-jaguar.json](./75041-google-spotlight-stories-son-of-jaguar.json) |
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
 | Google: Squid Game | 327862 | [327862-google-squid-game.json](./327862-google-squid-game.json) |
 | Gooing Up! | 321340 | [321340-gooing-up.json](./321340-gooing-up.json) |
