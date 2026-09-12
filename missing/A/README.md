@@ -152,7 +152,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducted | 17376 | [17376-abducted.json](./17376-abducted.json) |
 | Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
-| Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abduction Prologue: The Story Of Jonathan Blake | 82096 | [82096-abduction-prologue-the-story-of-jonathan-blake.json](./82096-abduction-prologue-the-story-of-jonathan-blake.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
