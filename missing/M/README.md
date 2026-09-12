@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Island Escape 7 | 315525 | [315525-magic-island-escape-7.json](./315525-magic-island-escape-7.json) |
 | Magic Island Escape 8 | 315527 | [315527-magic-island-escape-8.json](./315527-magic-island-escape-8.json) |
 | Magic Island Escape 9 | 315529 | [315529-magic-island-escape-9.json](./315529-magic-island-escape-9.json) |
+| Magic Island: The Secret of Stones | 73261 | [73261-magic-island-the-secret-of-stones.json](./73261-magic-island-the-secret-of-stones.json) |
 | Magic Jewel | 359394 | [359394-magic-jewel.json](./359394-magic-jewel.json) |
 | Magic John | 215143 | [215143-magic-john.json](./215143-magic-john.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
