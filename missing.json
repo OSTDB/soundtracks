@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T23:03:47.658Z",
-  "total_missing": 63679,
+  "generated_at": "2026-09-12T23:11:31.498Z",
+  "total_missing": 63678,
   "games": [
     {
       "igdb_id": 306086,
@@ -3226,11 +3226,6 @@
       "igdb_id": 85538,
       "game_name": "ACA Neo Geo: Burning Fight",
       "file": "missing/A/85538-aca-neo-geo-burning-fight.json"
-    },
-    {
-      "igdb_id": 76578,
-      "game_name": "ACA Neo Geo: World Heroes",
-      "file": "missing/A/76578-aca-neo-geo-world-heroes.json"
     },
     {
       "igdb_id": 376475,
