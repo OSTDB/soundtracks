@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
 | Liberation | 249813 | [249813-liberation.json](./249813-liberation.json) |
 | Liberation Circuit | 185085 | [185085-liberation-circuit.json](./185085-liberation-circuit.json) |
+| Liberation Maiden: SIN | 52548 | [52548-liberation-maiden-sin.json](./52548-liberation-maiden-sin.json) |
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
 | Liberogrande International | 81231 | [81231-liberogrande-international.json](./81231-liberogrande-international.json) |
 | Liberta: Rise of Freedom | 250963 | [250963-liberta-rise-of-freedom.json](./250963-liberta-rise-of-freedom.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
+| Lights, Camera, Party! | 52543 | [52543-lights-camera-party.json](./52543-lights-camera-party.json) |
 | Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
 | Lightspire: Fortunes Web | 69202 | [69202-lightspire-fortunes-web.json](./69202-lightspire-fortunes-web.json) |
@@ -1019,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilly Knight and the Three Cities of Lust | 127999 | [127999-lilly-knight-and-the-three-cities-of-lust.json](./127999-lilly-knight-and-the-three-cities-of-lust.json) |
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
+| Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
 | Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
 | Lily of the Hollow | 115038 | [115038-lily-of-the-hollow.json](./115038-lily-of-the-hollow.json) |
 | Lily Story | 338543 | [338543-lily-story.json](./338543-lily-story.json) |
