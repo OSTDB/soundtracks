@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Challenge | 95383 | [95383-f1-challenge.json](./95383-f1-challenge.json) |
 | F1 Championship Season 2000 | 690 | [690-f1-championship-season-2000.json](./690-f1-championship-season-2000.json) |
 | F1 Circus MD | 125458 | [125458-f1-circus-md.json](./125458-f1-circus-md.json) |
+| F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Manager 2023 | 247383 | [247383-f1-manager-2023.json](./247383-f1-manager-2023.json) |
 | F1 Manager 2024: Abstract Livery Pack | 339292 | [339292-f1-manager-2024-abstract-livery-pack.json](./339292-f1-manager-2024-abstract-livery-pack.json) |
 | F1 Manager 2024: Deluxe Upgrade Pack | 328996 | [328996-f1-manager-2024-deluxe-upgrade-pack.json](./328996-f1-manager-2024-deluxe-upgrade-pack.json) |
@@ -57,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F15 Flight Simulator VR | 107129 | [107129-f15-flight-simulator-vr.json](./107129-f15-flight-simulator-vr.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
+| F40 Pursuit Simulator | 47217 | [47217-f40-pursuit-simulator.json](./47217-f40-pursuit-simulator.json) |
 | FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
@@ -153,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tower Defense | 107812 | [107812-fairy-tower-defense.json](./107812-fairy-tower-defense.json) |
 | Fairyland: Power Dice | 103473 | [103473-fairyland-power-dice.json](./103473-fairyland-power-dice.json) |
 | Fairyside | 223480 | [223480-fairyside.json](./223480-fairyside.json) |
+| Fairytale | 47246 | [47246-fairytale.json](./47246-fairytale.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
 | Fairytale Mosaics: Beauty and the Beast 2 | 99574 | [99574-fairytale-mosaics-beauty-and-the-beast-2.json](./99574-fairytale-mosaics-beauty-and-the-beast-2.json) |
 | Fairytale Mosaics: Cinderella 2 | 155649 | [155649-fairytale-mosaics-cinderella-2.json](./155649-fairytale-mosaics-cinderella-2.json) |
@@ -277,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Zenpen | 41417 | [41417-famicom-mukashibanashi-shin-onigashima-zenpen.json](./41417-famicom-mukashibanashi-shin-onigashima-zenpen.json) |
 | Famicom Shogi: Ryuu-Ou-Sen | 48713 | [48713-famicom-shogi-ryuu-ou-sen.json](./48713-famicom-shogi-ryuu-ou-sen.json) |
+| Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Kouhen | 47249 | [47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json](./47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Zenpen | 41415 | [41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json](./41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Kouhen | 41381 | [41381-famicom-tantei-club-kieta-koukeisha-kouhen.json](./41381-famicom-tantei-club-kieta-koukeisha-kouhen.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Zenpen | 41380 | [41380-famicom-tantei-club-kieta-koukeisha-zenpen.json](./41380-famicom-tantei-club-kieta-koukeisha-zenpen.json) |
@@ -985,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
 | Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
 | Final Tank | 316405 | [316405-final-tank.json](./316405-final-tank.json) |
+| Final Test Cartridge | 47200 | [47200-final-test-cartridge.json](./47200-final-test-cartridge.json) |
 | Final Theosis | 29882 | [29882-final-theosis.json](./29882-final-theosis.json) |
 | Final Three Kingdoms 2 | 242236 | [242236-final-three-kingdoms-2.json](./242236-final-three-kingdoms-2.json) |
 | Final Vendetta | 191756 | [191756-final-vendetta.json](./191756-final-vendetta.json) |
@@ -1877,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden World | 219794 | [219794-forbidden-world.json](./219794-forbidden-world.json) |
 | Force of Nature 2: Ghost Keeper | 150124 | [150124-force-of-nature-2-ghost-keeper.json](./150124-force-of-nature-2-ghost-keeper.json) |
 | Force Reboot | 173302 | [173302-force-reboot.json](./173302-force-reboot.json) |
+| Force Seven | 47232 | [47232-force-seven.json](./47232-force-seven.json) |
 | Forced Abroad | 193976 | [193976-forced-abroad.json](./193976-forced-abroad.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
 | Forced: Eternal Arenas | 80540 | [80540-forced-eternal-arenas.json](./80540-forced-eternal-arenas.json) |
@@ -2009,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
+| Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
 | Fort Solis: Limited Edition | 261540 | [261540-fort-solis-limited-edition.json](./261540-fort-solis-limited-edition.json) |
