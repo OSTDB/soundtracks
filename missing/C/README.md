@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Catch A Star! | 65505 | [65505-care-bears-catch-a-star.json](./65505-care-bears-catch-a-star.json) |
 | Care Bears: The Care Quests | 49368 | [49368-care-bears-the-care-quests.json](./49368-care-bears-the-care-quests.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
+| Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
 | Cargasm | 79256 | [79256-cargasm.json](./79256-cargasm.json) |
 | Cargo | 312566 | [312566-cargo.json](./312566-cargo.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
 | Challenge! | 68608 | [68608-challenge.json](./68608-challenge.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
+| Chalo Chalo | 34292 | [34292-chalo-chalo.json](./34292-chalo-chalo.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
@@ -2083,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
 | Club Drive | 40804 | [40804-club-drive.json](./40804-club-drive.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
+| Club Manager 2016 | 34337 | [34337-club-manager-2016.json](./34337-club-manager-2016.json) |
 | Club Manager 2017 | 31957 | [31957-club-manager-2017.json](./31957-club-manager-2017.json) |
 | Club Penguin Brasil | 194619 | [194619-club-penguin-brasil.json](./194619-club-penguin-brasil.json) |
 | Club Penguin Demake Project | 181860 | [181860-club-penguin-demake-project.json](./181860-club-penguin-demake-project.json) |
@@ -3477,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | crossbeats REV. | 126033 | [126033-crossbeats-rev.json](./126033-crossbeats-rev.json) |
 | Crossbow Crusade | 148568 | [148568-crossbow-crusade.json](./148568-crossbow-crusade.json) |
 | Crossbow Potato | 112311 | [112311-crossbow-potato.json](./112311-crossbow-potato.json) |
+| Crossbow Warrior: The Legend of William Tell | 34196 | [34196-crossbow-warrior-the-legend-of-william-tell.json](./34196-crossbow-warrior-the-legend-of-william-tell.json) |
 | Crossclimb | 321118 | [321118-crossclimb.json](./321118-crossclimb.json) |
 | Crosscountry USA 2 | 71484 | [71484-crosscountry-usa-2.json](./71484-crosscountry-usa-2.json) |
 | Crossed Paths | 183045 | [183045-crossed-paths.json](./183045-crossed-paths.json) |
