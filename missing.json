@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T00:18:19.662Z",
-  "total_missing": 59879,
+  "generated_at": "2026-09-12T00:21:09.412Z",
+  "total_missing": 59878,
   "games": [
     {
       "igdb_id": 306086,
@@ -2526,11 +2526,6 @@
       "igdb_id": 32116,
       "game_name": "A Tale of Caos: Overture",
       "file": "missing/A/32116-a-tale-of-caos-overture.json"
-    },
-    {
-      "igdb_id": 401531,
-      "game_name": "A Tale of Fortunate Lust",
-      "file": "missing/A/401531-a-tale-of-fortunate-lust.json"
     },
     {
       "igdb_id": 102803,
