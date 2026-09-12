@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Force | 223659 | [223659-elite-force.json](./223659-elite-force.json) |
 | Elite Forces: Navy SEALs | 84183 | [84183-elite-forces-navy-seals.json](./84183-elite-forces-navy-seals.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
+| Elite Starfighter | 59932 | [59932-elite-starfighter.json](./59932-elite-starfighter.json) |
 | Elite Tanks | 139414 | [139414-elite-tanks.json](./139414-elite-tanks.json) |
 | Elite Trials | 96778 | [96778-elite-trials.json](./96778-elite-trials.json) |
 | Elixir | 145607 | [145607-elixir.json](./145607-elixir.json) |
@@ -1265,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everest Truck Simulator | 367981 | [367981-everest-truck-simulator.json](./367981-everest-truck-simulator.json) |
 | Everfall: Idle Dungeon RPG | 377083 | [377083-everfall-idle-dungeon-rpg.json](./377083-everfall-idle-dungeon-rpg.json) |
 | Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
+| Evergreen | 59933 | [59933-evergreen.json](./59933-evergreen.json) |
 | Evergreen Meadow | 390495 | [390495-evergreen-meadow.json](./390495-evergreen-meadow.json) |
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Pines Expansion | 298325 | [298325-evergreen-pines-expansion.json](./298325-evergreen-pines-expansion.json) |
