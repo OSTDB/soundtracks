@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Dash Deluxe | 96724 | [96724-hotel-dash-deluxe.json](./96724-hotel-dash-deluxe.json) |
 | Hotel Dash Suite Success | 16171 | [16171-hotel-dash-suite-success.json](./16171-hotel-dash-suite-success.json) |
+| Hotel Detective | 71468 | [71468-hotel-detective.json](./71468-hotel-detective.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
 | Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
 | Hotel Mario | 8535 | [8535-hotel-mario.json](./8535-hotel-mario.json) |
