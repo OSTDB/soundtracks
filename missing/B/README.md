@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
+| Buboids: The 3D Action Puzzle Game | 70937 | [70937-buboids-the-3d-action-puzzle-game.json](./70937-buboids-the-3d-action-puzzle-game.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
@@ -3271,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Sorceress: Shooting Action Carnage | 146865 | [146865-bullet-sorceress-shooting-action-carnage.json](./146865-bullet-sorceress-shooting-action-carnage.json) |
 | Bullet Soul: Tama Tamashii | 43952 | [43952-bullet-soul-tama-tamashii.json](./43952-bullet-soul-tama-tamashii.json) |
 | Bullet Speed | 291227 | [291227-bullet-speed.json](./291227-bullet-speed.json) |
+| Bullet Strike: Battlegrounds | 70910 | [70910-bullet-strike-battlegrounds.json](./70910-bullet-strike-battlegrounds.json) |
 | Bullet Time | 158164 | [158164-bullet-time.json](./158164-bullet-time.json) |
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
 | Bullet Train Simulator: Euro Train Driver | 104611 | [104611-bullet-train-simulator-euro-train-driver.json](./104611-bullet-train-simulator-euro-train-driver.json) |
