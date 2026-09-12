@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T08:49:09.432Z",
-  "total_missing": 61278,
+  "generated_at": "2026-09-12T08:51:35.988Z",
+  "total_missing": 61277,
   "games": [
     {
       "igdb_id": 306086,
@@ -2786,11 +2786,6 @@
       "igdb_id": 147459,
       "game_name": "Abbie's Farm",
       "file": "missing/A/147459-abbies-farm.json"
-    },
-    {
-      "igdb_id": 174319,
-      "game_name": "AbbleDabble",
-      "file": "missing/A/174319-abbledabble.json"
     },
     {
       "igdb_id": 96753,
