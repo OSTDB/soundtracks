@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T12:48:28.632Z",
-  "total_missing": 61896,
+  "generated_at": "2026-09-12T12:51:31.601Z",
+  "total_missing": 61895,
   "games": [
     {
       "igdb_id": 306086,
@@ -2916,11 +2916,6 @@
       "igdb_id": 148555,
       "game_name": "Above the Stars",
       "file": "missing/A/148555-above-the-stars.json"
-    },
-    {
-      "igdb_id": 51996,
-      "game_name": "Above Top Secret",
-      "file": "missing/A/51996-above-top-secret.json"
     },
     {
       "igdb_id": 388001,
