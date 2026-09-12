@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasization | 68593 | [68593-fantasization.json](./68593-fantasization.json) |
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
+| Fantastic Fossils | 62148 | [62148-fantastic-fossils.json](./62148-fantastic-fossils.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
 | Fantastic Frolic | 301260 | [301260-fantastic-frolic.json](./301260-fantastic-frolic.json) |
 | Fantastic Journey | 38391 | [38391-fantastic-journey.json](./38391-fantastic-journey.json) |
@@ -417,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry VR | 138767 | [138767-far-cry-vr.json](./138767-far-cry-vr.json) |
 | Far Cry: Delta Sector | 51227 | [51227-far-cry-delta-sector.json](./51227-far-cry-delta-sector.json) |
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
+| Far East of Eden: Jipang Seven | 62119 | [62119-far-east-of-eden-jipang-seven.json](./62119-far-east-of-eden-jipang-seven.json) |
 | Far Far Away From Here | 186836 | [186836-far-far-away-from-here.json](./186836-far-far-away-from-here.json) |
 | Far Far West | 348263 | [348263-far-far-west.json](./348263-far-far-west.json) |
 | Far Fetched | 150622 | [150622-far-fetched.json](./150622-far-fetched.json) |
@@ -1882,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forests of Augusta | 104035 | [104035-forests-of-augusta.json](./104035-forests-of-augusta.json) |
 | Foretales: Deluxe Edition | 218690 | [218690-foretales-deluxe-edition.json](./218690-foretales-deluxe-edition.json) |
 | Forever Drive | 246964 | [246964-forever-drive.json](./246964-forever-drive.json) |
+| Forever Growing Garden | 62158 | [62158-forever-growing-garden.json](./62158-forever-growing-garden.json) |
 | Forever Quester | 243957 | [243957-forever-quester.json](./243957-forever-quester.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Forever With You | 381033 | [381033-forever-with-you.json](./381033-forever-with-you.json) |
@@ -2288,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday the 13th: Killer Puzzle - Retro Jason | 163470 | [163470-friday-the-13th-killer-puzzle-retro-jason.json](./163470-friday-the-13th-killer-puzzle-retro-jason.json) |
 | Friday the 13th: Killer Puzzle - Toxic Jason | 163473 | [163473-friday-the-13th-killer-puzzle-toxic-jason.json](./163473-friday-the-13th-killer-puzzle-toxic-jason.json) |
 | Friday the 13th: The Game - Spring Break 1984 Clothing Pack | 224244 | [224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json](./224244-friday-the-13th-the-game-spring-break-1984-clothing-pack.json) |
+| Friday: Death to Arthur Yahtzee | 62155 | [62155-friday-death-to-arthur-yahtzee.json](./62155-friday-death-to-arthur-yahtzee.json) |
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
 | Frieda is Changing | 357272 | [357272-frieda-is-changing.json](./357272-frieda-is-changing.json) |
