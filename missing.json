@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T12:31:52.647Z",
-  "total_missing": 61847,
+  "generated_at": "2026-09-12T12:41:35.798Z",
+  "total_missing": 61846,
   "games": [
     {
       "igdb_id": 306086,
@@ -2911,11 +2911,6 @@
       "igdb_id": 276725,
       "game_name": "About Time",
       "file": "missing/A/276725-about-time.json"
-    },
-    {
-      "igdb_id": 216462,
-      "game_name": "Above Below",
-      "file": "missing/A/216462-above-below.json"
     },
     {
       "igdb_id": 148555,
