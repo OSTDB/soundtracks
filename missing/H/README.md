@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Harukanaru Toki no Naka de 3 Ultimate | 136461 | [136461-harukanaru-toki-no-naka-de-3-ultimate.json](./136461-harukanaru-toki-no-naka-de-3-ultimate.json) |
+| Harukanaru Toki no Naka de 5 | 60503 | [60503-harukanaru-toki-no-naka-de-5.json](./60503-harukanaru-toki-no-naka-de-5.json) |
 | Harukanaru Toki no Naka de: Banjyou Yuugi | 137002 | [137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json](./137002-harukanaru-toki-no-naka-de-banjyou-yuugi.json) |
 | Harukanaru Toki no Naka de: Hachiyoushou | 137003 | [137003-harukanaru-toki-no-naka-de-hachiyoushou.json](./137003-harukanaru-toki-no-naka-de-hachiyoushou.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
@@ -1521,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
 | Hill Climbing 2 | 213385 | [213385-hill-climbing-2.json](./213385-hill-climbing-2.json) |
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
+| Hillbilly Organ Grinder | 60527 | [60527-hillbilly-organ-grinder.json](./60527-hillbilly-organ-grinder.json) |
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hills in the Moonlight | 307587 | [307587-hills-in-the-moonlight.json](./307587-hills-in-the-moonlight.json) |
 | Hillsea Lido | 70326 | [70326-hillsea-lido.json](./70326-hillsea-lido.json) |
@@ -1552,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hinterhalt 3 | 132211 | [132211-hinterhalt-3.json](./132211-hinterhalt-3.json) |
 | Hinterland: Orc Lords | 24996 | [24996-hinterland-orc-lords.json](./24996-hinterland-orc-lords.json) |
 | Hiouden | 38384 | [38384-hiouden.json](./38384-hiouden.json) |
+| Hiouden: Mamono-tachi to no Chikai | 60499 | [60499-hiouden-mamono-tachi-to-no-chikai.json](./60499-hiouden-mamono-tachi-to-no-chikai.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
 | Hippo Doctor: Hospital Laboratory | 105946 | [105946-hippo-doctor-hospital-laboratory.json](./105946-hippo-doctor-hospital-laboratory.json) |
 | Hippo Eating Banana | 220835 | [220835-hippo-eating-banana.json](./220835-hippo-eating-banana.json) |
@@ -1569,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiscores! Gold | 118999 | [118999-hiscores-gold.json](./118999-hiscores-gold.json) |
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
+| Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 3: CR Marilyn Monroe | 61580 | [61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json](./61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 4: CR Ashita ga Arusa, Yoshimoto World | 61579 | [61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json](./61579-hisshou-pachinko-pachi-slot-kouryoku-series-vol-4-cr-ashita-ga-arusa-yoshimoto-world.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series Vol.14: CR Shinseiki Evangelion - Saigo no Mono | 61581 | [61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json](./61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json) |
@@ -1949,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Royale | 153965 | [153965-horror-royale.json](./153965-horror-royale.json) |
 | Horror Run | 201237 | [201237-horror-run.json](./201237-horror-run.json) |
 | Horror Scary Granny Pink Barby | 231936 | [231936-horror-scary-granny-pink-barby.json](./231936-horror-scary-granny-pink-barby.json) |
+| Horror Stories | 60496 | [60496-horror-stories.json](./60496-horror-stories.json) |
 | Horror Tale 1: Kidnapper | 239049 | [239049-horror-tale-1-kidnapper.json](./239049-horror-tale-1-kidnapper.json) |
 | Horror Tale 2: Remaster | 390498 | [390498-horror-tale-2-remaster.json](./390498-horror-tale-2-remaster.json) |
 | Horror Tales: The Beggar | 149523 | [149523-horror-tales-the-beggar.json](./149523-horror-tales-the-beggar.json) |
