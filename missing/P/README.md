@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
 | Pro-Mahjong Kiwame Next | 97873 | [97873-pro-mahjong-kiwame-next.json](./97873-pro-mahjong-kiwame-next.json) |
+| Probe One: The Transmitter | 24899 | [24899-probe-one-the-transmitter.json](./24899-probe-one-the-transmitter.json) |
 | Probe Team | 128600 | [128600-probe-team.json](./128600-probe-team.json) |
 | ProBee | 208376 | [208376-probee.json](./208376-probee.json) |
 | Problem Animals | 193488 | [193488-problem-animals.json](./193488-problem-animals.json) |
