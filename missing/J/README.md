@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Monsters | 60573 | [60573-jelly-monsters.json](./60573-jelly-monsters.json) |
 | Jelly no Puzzle | 141197 | [141197-jelly-no-puzzle.json](./141197-jelly-no-puzzle.json) |
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
+| Jellyboom | 73239 | [73239-jellyboom.json](./73239-jellyboom.json) |
 | JellyCar | 95422 | [95422-jellycar.json](./95422-jellycar.json) |
 | Jellyfish Archipelago | 272019 | [272019-jellyfish-archipelago.json](./272019-jellyfish-archipelago.json) |
 | Jellyfish Season | 109726 | [109726-jellyfish-season.json](./109726-jellyfish-season.json) |
@@ -443,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Chainsaw | 154466 | [154466-johnny-chainsaw.json](./154466-johnny-chainsaw.json) |
 | Johnny Hotshot | 21006 | [21006-johnny-hotshot.json](./21006-johnny-hotshot.json) |
 | Johnny Impossible | 21013 | [21013-johnny-impossible.json](./21013-johnny-impossible.json) |
+| Johnny Mnemonic | 73241 | [73241-johnny-mnemonic.json](./73241-johnny-mnemonic.json) |
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
 | Johnny Trigger: Gold Edition | 396919 | [396919-johnny-trigger-gold-edition.json](./396919-johnny-trigger-gold-edition.json) |
 | Johnny Trigger: Hotshot Edition | 283171 | [283171-johnny-trigger-hotshot-edition.json](./283171-johnny-trigger-hotshot-edition.json) |
