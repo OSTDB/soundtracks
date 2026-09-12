@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
 | Wings 1941 | 203571 | [203571-wings-1941.json](./203571-wings-1941.json) |
 | Wings 2 | 95474 | [95474-wings-2.json](./95474-wings-2.json) |
+| Wings 2: Aces High | 42577 | [42577-wings-2-aces-high.json](./42577-wings-2-aces-high.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
