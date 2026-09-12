@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Dinza | 190179 | [190179-kingdom-of-dinza.json](./190179-kingdom-of-dinza.json) |
 | Kingdom of Force | 164430 | [164430-kingdom-of-force.json](./164430-kingdom-of-force.json) |
 | Kingdom of Hamil | 13734 | [13734-kingdom-of-hamil.json](./13734-kingdom-of-hamil.json) |
+| Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
 | Kingdom of Nyabur: The Shattered Realm | 217501 | [217501-kingdom-of-nyabur-the-shattered-realm.json](./217501-kingdom-of-nyabur-the-shattered-realm.json) |
 | Kingdom Of Peace | 295775 | [295775-kingdom-of-peace.json](./295775-kingdom-of-peace.json) |
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
@@ -730,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss My Camera | 227262 | [227262-kiss-my-camera.json](./227262-kiss-my-camera.json) |
 | Kiss Pinball | 43917 | [43917-kiss-pinball.json](./43917-kiss-pinball.json) |
 | Kiss Rock City: Be A Rockstar | 265419 | [265419-kiss-rock-city-be-a-rockstar.json](./265419-kiss-rock-city-be-a-rockstar.json) |
+| Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
 | Kissed by the Baddest Bidder: Happy Birthday Ota | 238196 | [238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json](./238196-kissed-by-the-baddest-bidder-happy-birthday-ota.json) |
 | Kissed by the Baddest Bidder: Living Together - Shuichi | 238184 | [238184-kissed-by-the-baddest-bidder-living-together-shuichi.json](./238184-kissed-by-the-baddest-bidder-living-together-shuichi.json) |
