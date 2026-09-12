@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T07:41:31.876Z",
-  "total_missing": 61106,
+  "generated_at": "2026-09-12T07:46:39.513Z",
+  "total_missing": 61115,
   "games": [
     {
       "igdb_id": 306086,
@@ -2376,11 +2376,6 @@
       "igdb_id": 184082,
       "game_name": "A Letter For You!",
       "file": "missing/A/184082-a-letter-for-you.json"
-    },
-    {
-      "igdb_id": 87686,
-      "game_name": "A Light in the Dark",
-      "file": "missing/A/87686-a-light-in-the-dark.json"
     },
     {
       "igdb_id": 33333,
@@ -70113,6 +70108,11 @@
       "file": "missing/D/95014-dragon-ball-legends.json"
     },
     {
+      "igdb_id": 62726,
+      "game_name": "Dragon Ball RPG: Shounen-hen",
+      "file": "missing/D/62726-dragon-ball-rpg-shounen-hen.json"
+    },
+    {
       "igdb_id": 366817,
       "game_name": "Dragon Ball Sparking Zero: Shallot (Dragon Ball Legends)",
       "file": "missing/D/366817-dragon-ball-sparking-zero-shallot-dragon-ball-legends.json"
@@ -78791,6 +78791,11 @@
       "igdb_id": 65482,
       "game_name": "Epic Astro Story",
       "file": "missing/E/65482-epic-astro-story.json"
+    },
+    {
+      "igdb_id": 62724,
+      "game_name": "Epic Battle Dude",
+      "file": "missing/E/62724-epic-battle-dude.json"
     },
     {
       "igdb_id": 199653,
@@ -122453,6 +122458,16 @@
       "file": "missing/I/277289-indie-nights-nightmare-in-yellow-pine.json"
     },
     {
+      "igdb_id": 62720,
+      "game_name": "Indiemon Card Adventure",
+      "file": "missing/I/62720-indiemon-card-adventure.json"
+    },
+    {
+      "igdb_id": 62721,
+      "game_name": "Indiemon: Earth Nation - Villain Version",
+      "file": "missing/I/62721-indiemon-earth-nation-villain-version.json"
+    },
+    {
       "igdb_id": 336536,
       "game_name": "Indiepocalypse #61",
       "file": "missing/I/336536-indiepocalypse-61.json"
@@ -149481,6 +149496,11 @@
       "igdb_id": 62756,
       "game_name": "Mardek RPG: Chapter 1",
       "file": "missing/M/62756-mardek-rpg-chapter-1.json"
+    },
+    {
+      "igdb_id": 62729,
+      "game_name": "Mardek RPG: Chapter 2",
+      "file": "missing/M/62729-mardek-rpg-chapter-2.json"
     },
     {
       "igdb_id": 137077,
@@ -181083,6 +181103,11 @@
       "file": "missing/O/346588-out-of-stock.json"
     },
     {
+      "igdb_id": 62723,
+      "game_name": "Out of the Blocks",
+      "file": "missing/O/62723-out-of-the-blocks.json"
+    },
+    {
       "igdb_id": 226202,
       "game_name": "Out of the ground",
       "file": "missing/O/226202-out-of-the-ground.json"
@@ -189066,6 +189091,11 @@
       "igdb_id": 115675,
       "game_name": "Pirate Cannons Ahoy!",
       "file": "missing/P/115675-pirate-cannons-ahoy.json"
+    },
+    {
+      "igdb_id": 62727,
+      "game_name": "Pirate Code",
+      "file": "missing/P/62727-pirate-code.json"
     },
     {
       "igdb_id": 326381,
@@ -211271,6 +211301,11 @@
       "igdb_id": 94190,
       "game_name": "RoomRental",
       "file": "missing/R/94190-roomrental.json"
+    },
+    {
+      "igdb_id": 62722,
+      "game_name": "Rooster",
+      "file": "missing/R/62722-rooster.json"
     },
     {
       "igdb_id": 409558,
@@ -260403,6 +260438,11 @@
       "file": "missing/T/105873-the-hobbit-gold-miner.json"
     },
     {
+      "igdb_id": 62725,
+      "game_name": "The Hockey Experiment",
+      "file": "missing/T/62725-the-hockey-experiment.json"
+    },
+    {
       "igdb_id": 371257,
       "game_name": "The Hollow Alchemist",
       "file": "missing/T/371257-the-hollow-alchemist.json"
@@ -300651,6 +300691,11 @@
       "igdb_id": 191203,
       "game_name": "Xenoids",
       "file": "missing/X/191203-xenoids.json"
+    },
+    {
+      "igdb_id": 62728,
+      "game_name": "XenoMiner",
+      "file": "missing/X/62728-xenominer.json"
     },
     {
       "igdb_id": 83494,
