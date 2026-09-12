@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
 | GoKart: New Mexico | 193449 | [193449-gokart-new-mexico.json](./193449-gokart-new-mexico.json) |
 | Gokujou!! Mecha Mote Iinchou: MM My Best Friend! | 130390 | [130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json](./130390-gokujou-mecha-mote-iinchou-mm-my-best-friend.json) |
+| Gokuraku Chuka Taisen | 37711 | [37711-gokuraku-chuka-taisen.json](./37711-gokuraku-chuka-taisen.json) |
 | Gokuraku Yuugi: Game Tengoku | 41376 | [41376-gokuraku-yuugi-game-tengoku.json](./41376-gokuraku-yuugi-game-tengoku.json) |
 | GOL:Legend | 99581 | [99581-gol-legend.json](./99581-gol-legend.json) |
 | Golazo! | 122408 | [122408-golazo.json](./122408-golazo.json) |
@@ -2111,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
+| Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
