@@ -1447,4 +1447,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iz and Auggie: Escape from Dimension Q | 64378 | [64378-iz-and-auggie-escape-from-dimension-q.json](./64378-iz-and-auggie-escape-from-dimension-q.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
+| Izumo | 58168 | [58168-izumo.json](./58168-izumo.json) |
 | Izurana's Walk | 357248 | [357248-izuranas-walk.json](./357248-izuranas-walk.json) |
