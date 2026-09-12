@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T11:51:31.726Z",
-  "total_missing": 61777,
+  "generated_at": "2026-09-12T12:01:39.725Z",
+  "total_missing": 61786,
   "games": [
     {
       "igdb_id": 306086,
@@ -2891,11 +2891,6 @@
       "igdb_id": 277282,
       "game_name": "Abondoned Village",
       "file": "missing/A/277282-abondoned-village.json"
-    },
-    {
-      "igdb_id": 291211,
-      "game_name": "Abort",
-      "file": "missing/A/291211-abort.json"
     },
     {
       "igdb_id": 201227,
@@ -34646,6 +34641,11 @@
       "igdb_id": 273378,
       "game_name": "Bride into the Cave",
       "file": "missing/B/273378-bride-into-the-cave.json"
+    },
+    {
+      "igdb_id": 55105,
+      "game_name": "Bridge",
+      "file": "missing/B/55105-bridge.json"
     },
     {
       "igdb_id": 85515,
@@ -88311,6 +88311,11 @@
       "igdb_id": 331123,
       "game_name": "Find HQ: Police Station",
       "file": "missing/F/331123-find-hq-police-station.json"
+    },
+    {
+      "igdb_id": 55102,
+      "game_name": "Find It - Tap the Different",
+      "file": "missing/F/55102-find-it-tap-the-different.json"
     },
     {
       "igdb_id": 379381,
@@ -185838,6 +185843,11 @@
       "file": "missing/P/7388-papo-and-yo.json"
     },
     {
+      "igdb_id": 55107,
+      "game_name": "Paprium",
+      "file": "missing/P/55107-paprium.json"
+    },
+    {
       "igdb_id": 200103,
       "game_name": "Par 1 Golf",
       "file": "missing/P/200103-par-1-golf.json"
@@ -207223,6 +207233,11 @@
       "file": "missing/R/224749-reflexia-prototype-ver.json"
     },
     {
+      "igdb_id": 55116,
+      "game_name": "Refrain Love 2",
+      "file": "missing/R/55116-refrain-love-2.json"
+    },
+    {
       "igdb_id": 64892,
       "game_name": "Refrain Love: Anata ni Aitai",
       "file": "missing/R/64892-refrain-love-anata-ni-aitai.json"
@@ -215951,6 +215966,11 @@
       "igdb_id": 86092,
       "game_name": "S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station",
       "file": "missing/S/86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json"
+    },
+    {
+      "igdb_id": 55108,
+      "game_name": "S.M.A.S.H.E.D.",
+      "file": "missing/S/55108-s-m-a-s-h-e-d.json"
     },
     {
       "igdb_id": 396929,
@@ -227038,6 +227058,11 @@
       "file": "missing/S/101573-simstory-live-as-you-wish.json"
     },
     {
+      "igdb_id": 55118,
+      "game_name": "SIMT Simulator",
+      "file": "missing/S/55118-simt-simulator.json"
+    },
+    {
       "igdb_id": 20194,
       "game_name": "SimTown",
       "file": "missing/S/20194-simtown.json"
@@ -236356,6 +236381,11 @@
       "igdb_id": 227493,
       "game_name": "Spaceruler",
       "file": "missing/S/227493-spaceruler.json"
+    },
+    {
+      "igdb_id": 55101,
+      "game_name": "SpacerX: Dome Survivals",
+      "file": "missing/S/55101-spacerx-dome-survivals.json"
     },
     {
       "igdb_id": 166705,
@@ -253553,6 +253583,11 @@
       "file": "missing/T/298566-tales-from-the-under-realm-hazel.json"
     },
     {
+      "igdb_id": 55114,
+      "game_name": "Tales From Windy Meadow",
+      "file": "missing/T/55114-tales-from-windy-meadow.json"
+    },
+    {
       "igdb_id": 131550,
       "game_name": "Tales of (Working Title)",
       "file": "missing/T/131550-tales-of-working-title.json"
@@ -254266,6 +254301,11 @@
       "igdb_id": 229958,
       "game_name": "TamaTown Tama-Go",
       "file": "missing/T/229958-tamatown-tama-go.json"
+    },
+    {
+      "igdb_id": 55113,
+      "game_name": "Tamaya",
+      "file": "missing/T/55113-tamaya.json"
     },
     {
       "igdb_id": 240818,
@@ -304566,6 +304606,11 @@
       "igdb_id": 375197,
       "game_name": "Yakuza Kiwami 3 & Dark Ties: Ryukyu Gal Gang Customization Pack",
       "file": "missing/Y/375197-yakuza-kiwami-3-and-dark-ties-ryukyu-gal-gang-customization-pack.json"
+    },
+    {
+      "igdb_id": 55111,
+      "game_name": "Yakuza Online",
+      "file": "missing/Y/55111-yakuza-online.json"
     },
     {
       "igdb_id": 322399,
