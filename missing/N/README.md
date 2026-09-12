@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negative Space | 128590 | [128590-negative-space.json](./128590-negative-space.json) |
 | Negative Type | 107910 | [107910-negative-type.json](./107910-negative-type.json) |
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
+| Negima!? Magister Negi Magi: Neo-Pactio Fight!! | 72653 | [72653-negima-magister-negi-magi-neo-pactio-fight.json](./72653-negima-magister-negi-magi-neo-pactio-fight.json) |
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
 | Nehonobasa | 306676 | [306676-nehonobasa.json](./306676-nehonobasa.json) |
 | Neighbor | 144366 | [144366-neighbor.json](./144366-neighbor.json) |
@@ -1132,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitori Dungeon | 216460 | [216460-nitori-dungeon.json](./216460-nitori-dungeon.json) |
 | Nitori-chan Dash | 208396 | [208396-nitori-chan-dash.json](./208396-nitori-chan-dash.json) |
 | Nitro Back | 216985 | [216985-nitro-back.json](./216985-nitro-back.json) |
+| Nitro Boost Challenge | 72624 | [72624-nitro-boost-challenge.json](./72624-nitro-boost-challenge.json) |
 | Nitro Derby | 280786 | [280786-nitro-derby.json](./280786-nitro-derby.json) |
 | Nitro Express | 313096 | [313096-nitro-express.json](./313096-nitro-express.json) |
 | Nitro Kid | 204438 | [204438-nitro-kid.json](./204438-nitro-kid.json) |
