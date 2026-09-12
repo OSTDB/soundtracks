@@ -1268,6 +1268,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity II: Deadfire - Deck of Many Things | 124822 | [124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json](./124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json) |
 | Pillars of Eternity II: Deadfire - Rum Runner’s Pack | 154457 | [154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json](./154457-pillars-of-eternity-ii-deadfire-rum-runner-s-pack.json) |
 | Pillars of Eternity II: Deadfire - Scalawags Pack | 154456 | [154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json](./154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json) |
+| Pillars of Eternity: Champion Edition | 51890 | [51890-pillars-of-eternity-champion-edition.json](./51890-pillars-of-eternity-champion-edition.json) |
+| Pillars of Eternity: Hero Edition | 51889 | [51889-pillars-of-eternity-hero-edition.json](./51889-pillars-of-eternity-hero-edition.json) |
+| Pillars of Eternity: Royal Edition | 51888 | [51888-pillars-of-eternity-royal-edition.json](./51888-pillars-of-eternity-royal-edition.json) |
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
 | Pilli Adventure | 76534 | [76534-pilli-adventure.json](./76534-pilli-adventure.json) |
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
@@ -1359,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Sniper | 344963 | [344963-pinball-sniper.json](./344963-pinball-sniper.json) |
 | Pinball Wicked | 43121 | [43121-pinball-wicked.json](./43121-pinball-wicked.json) |
 | Pinball Wizard | 12959 | [12959-pinball-wizard.json](./12959-pinball-wizard.json) |
+| Pinball World | 51887 | [51887-pinball-world.json](./51887-pinball-world.json) |
 | Pinball-e | 170009 | [170009-pinball-e.json](./170009-pinball-e.json) |
 | Pinball: Our Church and Halloween RPG - Machine #1 | 208619 | [208619-pinball-our-church-and-halloween-rpg-machine-1.json](./208619-pinball-our-church-and-halloween-rpg-machine-1.json) |
 | Pinball: Our Church and Halloween RPG - Machine #2 | 213631 | [213631-pinball-our-church-and-halloween-rpg-machine-2.json](./213631-pinball-our-church-and-halloween-rpg-machine-2.json) |
@@ -1657,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Simulator Together | 326382 | [326382-pizza-simulator-together.json](./326382-pizza-simulator-together.json) |
 | Pizza the Pie | 175357 | [175357-pizza-the-pie.json](./175357-pizza-the-pie.json) |
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
+| Pizza Tycoon 2 | 51885 | [51885-pizza-tycoon-2.json](./51885-pizza-tycoon-2.json) |
 | Pizza Western | 318191 | [318191-pizza-western.json](./318191-pizza-western.json) |
 | PizzaBoy | 319955 | [319955-pizzaboy.json](./319955-pizzaboy.json) |
 | Pizzaïolo-Ninja | 374603 | [374603-pizzaiolo-ninja.json](./374603-pizzaiolo-ninja.json) |
@@ -2918,7 +2923,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hardline | 253366 | [253366-project-hardline.json](./253366-project-hardline.json) |
 | Project Heartbeat | 130920 | [130920-project-heartbeat.json](./130920-project-heartbeat.json) |
 | Project Helix | 317608 | [317608-project-helix.json](./317608-project-helix.json) |
+| Project Highrise: Las Vegas | 51884 | [51884-project-highrise-las-vegas.json](./51884-project-highrise-las-vegas.json) |
 | Project Highrise: London Life | 124801 | [124801-project-highrise-london-life.json](./124801-project-highrise-london-life.json) |
+| Project Highrise: Miami Malls | 51883 | [51883-project-highrise-miami-malls.json](./51883-project-highrise-miami-malls.json) |
 | Project Highrise: Tokyo Towers | 124798 | [124798-project-highrise-tokyo-towers.json](./124798-project-highrise-tokyo-towers.json) |
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
 | Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
@@ -3245,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
+| Punch Club: Deluxe Edition | 51882 | [51882-punch-club-deluxe-edition.json](./51882-punch-club-deluxe-edition.json) |
 | Punch Hero | 38999 | [38999-punch-hero.json](./38999-punch-hero.json) |
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
@@ -3291,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
 | Pure Mini Golf | 188100 | [188100-pure-mini-golf.json](./188100-pure-mini-golf.json) |
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
+| Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
 | Pure Song Garden! | 194575 | [194575-pure-song-garden.json](./194575-pure-song-garden.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
