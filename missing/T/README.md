@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battles of Spwak 3 | 126601 | [126601-the-battles-of-spwak-3.json](./126601-the-battles-of-spwak-3.json) |
 | The Baumman Box | 372452 | [372452-the-baumman-box.json](./372452-the-baumman-box.json) |
 | The Beanstalk | 82041 | [82041-the-beanstalk.json](./82041-the-beanstalk.json) |
+| The Bear Essentials | 47240 | [47240-the-bear-essentials.json](./47240-the-bear-essentials.json) |
 | The Bear Kick | 102114 | [102114-the-bear-kick.json](./102114-the-bear-kick.json) |
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
@@ -1656,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cyclop | 301814 | [301814-the-cyclop.json](./301814-the-cyclop.json) |
 | The Czech Run | 208384 | [208384-the-czech-run.json](./208384-the-czech-run.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
+| The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
 | The Dama | 101503 | [101503-the-dama.json](./101503-the-dama.json) |
 | The Damned Forest | 69200 | [69200-the-damned-forest.json](./69200-the-damned-forest.json) |
 | The Dance of the Little Water Drops | 104669 | [104669-the-dance-of-the-little-water-drops.json](./104669-the-dance-of-the-little-water-drops.json) |
@@ -2002,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flea Evolution | 188103 | [188103-the-flea-evolution.json](./188103-the-flea-evolution.json) |
 | The Flea Evolution: Bugaboo | 189151 | [189151-the-flea-evolution-bugaboo.json](./189151-the-flea-evolution-bugaboo.json) |
 | The Flight of Dowran | 75038 | [75038-the-flight-of-dowran.json](./75038-the-flight-of-dowran.json) |
+| The Flintstones | 47227 | [47227-the-flintstones.json](./47227-the-flintstones.json) |
 | The Flintstones in Viva Rock Vegas | 78017 | [78017-the-flintstones-in-viva-rock-vegas.json](./78017-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
 | The Flintstones: Dino - Lost in Bedrock | 71541 | [71541-the-flintstones-dino-lost-in-bedrock.json](./71541-the-flintstones-dino-lost-in-bedrock.json) |
@@ -3838,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
+| The Vice Squad | 47252 | [47252-the-vice-squad.json](./47252-the-vice-squad.json) |
 | The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
 | The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
@@ -4883,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
 | Tinker's Ascent | 355564 | [355564-tinkers-ascent.json](./355564-tinkers-ascent.json) |
 | Tinkernest | 404846 | [404846-tinkernest.json](./404846-tinkernest.json) |
+| TinkerQuarry | 47231 | [47231-tinkerquarry.json](./47231-tinkerquarry.json) |
 | TinkerTech | 310929 | [310929-tinkertech.json](./310929-tinkertech.json) |
 | Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
@@ -5160,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toll Booth Simulator | 357260 | [357260-toll-booth-simulator.json](./357260-toll-booth-simulator.json) |
 | Tollway Tycoon | 400258 | [400258-tollway-tycoon.json](./400258-tollway-tycoon.json) |
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
+| Tom & Jerry Popper | 47255 | [47255-tom-and-jerry-popper.json](./47255-tom-and-jerry-popper.json) |
 | Tom & Jerry: Yankee Doodle’s Cat-astrophe | 57689 | [57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json](./57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json) |
 | Tom Clancy's Ghost Recon 2: 2007 - First Contact | 77977 | [77977-tom-clancys-ghost-recon-2-2007-first-contact.json](./77977-tom-clancys-ghost-recon-2-2007-first-contact.json) |
 | Tom Clancy's Ghost Recon 2: 2011 - Final Assault | 77979 | [77979-tom-clancys-ghost-recon-2-2011-final-assault.json](./77979-tom-clancys-ghost-recon-2-2011-final-assault.json) |
