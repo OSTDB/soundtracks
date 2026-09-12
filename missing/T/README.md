@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark House | 267949 | [267949-the-dark-house.json](./267949-the-dark-house.json) |
 | The Dark Kingdom | 356670 | [356670-the-dark-kingdom.json](./356670-the-dark-kingdom.json) |
 | The Dark Matter | 23920 | [23920-the-dark-matter.json](./23920-the-dark-matter.json) |
+| The Dark Meadow | 38957 | [38957-the-dark-meadow.json](./38957-the-dark-meadow.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
 | The Dark Pictures Anthology: Intercession | 257076 | [257076-the-dark-pictures-anthology-intercession.json](./257076-the-dark-pictures-anthology-intercession.json) |
 | The Dark Pictures Anthology: The Craven Man | 257078 | [257078-the-dark-pictures-anthology-the-craven-man.json](./257078-the-dark-pictures-anthology-the-craven-man.json) |
@@ -2238,6 +2239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
 | The Hobbit : Gold Miner | 105873 | [105873-the-hobbit-gold-miner.json](./105873-the-hobbit-gold-miner.json) |
+| The Hobbit: Kingdoms of Middle Earth | 38905 | [38905-the-hobbit-kingdoms-of-middle-earth.json](./38905-the-hobbit-kingdoms-of-middle-earth.json) |
 | The Hockey Experiment | 62725 | [62725-the-hockey-experiment.json](./62725-the-hockey-experiment.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
@@ -3546,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sumerian Game | 231395 | [231395-the-sumerian-game.json](./231395-the-sumerian-game.json) |
 | The Summit High | 178666 | [178666-the-summit-high.json](./178666-the-summit-high.json) |
 | The Sun and Moon | 17811 | [17811-the-sun-and-moon.json](./17811-the-sun-and-moon.json) |
+| The Sun Never Sets | 38962 | [38962-the-sun-never-sets.json](./38962-the-sun-never-sets.json) |
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
 | The Sundew | 151150 | [151150-the-sundew.json](./151150-the-sundew.json) |
 | The Sunset that day | 132763 | [132763-the-sunset-that-day.json](./132763-the-sunset-that-day.json) |
@@ -6117,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | TransBot | 29136 | [29136-transbot.json](./29136-transbot.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
+| Transformers Age of Extinction | 38969 | [38969-transformers-age-of-extinction.json](./38969-transformers-age-of-extinction.json) |
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
 | Transformers Tatakai | 70938 | [70938-transformers-tatakai.json](./70938-transformers-tatakai.json) |
 | Transformers: Battle Masters | 70993 | [70993-transformers-battle-masters.json](./70993-transformers-battle-masters.json) |
