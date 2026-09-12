@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Solitaire: Threads of Fate | 195694 | [195694-samurai-solitaire-threads-of-fate.json](./195694-samurai-solitaire-threads-of-fate.json) |
+| Samurai Spirits: Kenkaku Yubinan Pack | 56455 | [56455-samurai-spirits-kenkaku-yubinan-pack.json](./56455-samurai-spirits-kenkaku-yubinan-pack.json) |
 | Samurai Stratagem | 379342 | [379342-samurai-stratagem.json](./379342-samurai-stratagem.json) |
 | Samurai Survivors | 244247 | [244247-samurai-survivors.json](./244247-samurai-survivors.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
@@ -2799,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Technology | 230266 | [230266-smart-technology.json](./230266-smart-technology.json) |
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
+| Smash Arrow | 56421 | [56421-smash-arrow.json](./56421-smash-arrow.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Bowling 3D | 84881 | [84881-smash-bowling-3d.json](./84881-smash-bowling-3d.json) |
 | Smash Boy Ver.KZ | 106547 | [106547-smash-boy-ver-kz.json](./106547-smash-boy-ver-kz.json) |
@@ -2810,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Drums: Pop Rock Legends | 306954 | [306954-smash-drums-pop-rock-legends.json](./306954-smash-drums-pop-rock-legends.json) |
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
 | Smash Hit | 39239 | [39239-smash-hit.json](./39239-smash-hit.json) |
+| Smash Hit Pak | 56457 | [56457-smash-hit-pak.json](./56457-smash-hit-pak.json) |
 | Smash Hyper Drive | 220667 | [220667-smash-hyper-drive.json](./220667-smash-hyper-drive.json) |
 | Smash Karts | 130348 | [130348-smash-karts.json](./130348-smash-karts.json) |
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
@@ -3358,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere inside | 125085 | [125085-somewhere-inside.json](./125085-somewhere-inside.json) |
 | Somewhere Near Romance | 179108 | [179108-somewhere-near-romance.json](./179108-somewhere-near-romance.json) |
 | Somewhere Strange | 184091 | [184091-somewhere-strange.json](./184091-somewhere-strange.json) |
+| Somewhere: Sect of Relic | 56440 | [56440-somewhere-sect-of-relic.json](./56440-somewhere-sect-of-relic.json) |
 | Sommad | 51957 | [51957-sommad.json](./51957-sommad.json) |
 | SomnaBuster | 281378 | [281378-somnabuster.json](./281378-somnabuster.json) |
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
@@ -3655,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonority | 137045 | [137045-sonority.json](./137045-sonority.json) |
 | Sons of Odin | 346570 | [346570-sons-of-odin.json](./346570-sons-of-odin.json) |
 | Sons of Saturn | 256546 | [256546-sons-of-saturn.json](./256546-sons-of-saturn.json) |
+| Sons of Sol | 56446 | [56446-sons-of-sol.json](./56446-sons-of-sol.json) |
 | Sons Of The Dream Forest | 315283 | [315283-sons-of-the-dream-forest.json](./315283-sons-of-the-dream-forest.json) |
 | Sons of Tyr | 176424 | [176424-sons-of-tyr.json](./176424-sons-of-tyr.json) |
 | Sonzai | 138210 | [138210-sonzai.json](./138210-sonzai.json) |
@@ -4512,6 +4517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
 | Sportfischen Professional | 130851 | [130851-sportfischen-professional.json](./130851-sportfischen-professional.json) |
 | Sporting Triangles | 72062 | [72062-sporting-triangles.json](./72062-sporting-triangles.json) |
+| Sports Action Pak | 56456 | [56456-sports-action-pak.json](./56456-sports-action-pak.json) |
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
@@ -5655,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Buster Prototype | 149010 | [149010-strike-buster-prototype.json](./149010-strike-buster-prototype.json) |
 | Strike Commander: Tactical Operations | 70914 | [70914-strike-commander-tactical-operations.json](./70914-strike-commander-tactical-operations.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
+| Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike Squadron: Caracará | 31958 | [31958-strike-squadron-caracara.json](./31958-strike-squadron-caracara.json) |
 | Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
@@ -6050,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
 | Super "Mario" World 2 | 297496 | [297496-super-mario-world-2.json](./297496-super-mario-world-2.json) |
+| Super Action Pak | 56452 | [56452-super-action-pak.json](./56452-super-action-pak.json) |
 | Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
 | Super Alice Dolls! | 294717 | [294717-super-alice-dolls.json](./294717-super-alice-dolls.json) |
@@ -6684,6 +6692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
 | Super Tanooki Goomba | 323180 | [323180-super-tanooki-goomba.json](./323180-super-tanooki-goomba.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
+| Super Tennis Champs | 56442 | [56442-super-tennis-champs.json](./56442-super-tennis-champs.json) |
 | Super Terrible Project | 222914 | [222914-super-terrible-project.json](./222914-super-terrible-project.json) |
 | Super Tits Rush | 86752 | [86752-super-tits-rush.json](./86752-super-tits-rush.json) |
 | Super Toboggan 3D | 410883 | [410883-super-toboggan-3d.json](./410883-super-toboggan-3d.json) |
