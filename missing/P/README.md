@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
 | Pina Colada 2 | 321367 | [321367-pina-colada-2.json](./321367-pina-colada-2.json) |
+| Piñata | 32885 | [32885-pinata.json](./32885-pinata.json) |
 | Pinata Hunter | 267387 | [267387-pinata-hunter.json](./267387-pinata-hunter.json) |
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
@@ -1883,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playroom Tracks: Hill Climb Adventure | 385083 | [385083-playroom-tracks-hill-climb-adventure.json](./385083-playroom-tracks-hill-climb-adventure.json) |
 | PlayStation Move Ape Escape | 20630 | [20630-playstation-move-ape-escape.json](./20630-playstation-move-ape-escape.json) |
 | PlayStation Move Heroes | 19664 | [19664-playstation-move-heroes.json](./19664-playstation-move-heroes.json) |
+| Playthings: VR Music Vacation | 32881 | [32881-playthings-vr-music-vacation.json](./32881-playthings-vr-music-vacation.json) |
 | Playtown 2 | 281396 | [281396-playtown-2.json](./281396-playtown-2.json) |
 | Playtown Genesis | 319376 | [319376-playtown-genesis.json](./319376-playtown-genesis.json) |
 | Playtown Remake | 332807 | [332807-playtown-remake.json](./332807-playtown-remake.json) |
