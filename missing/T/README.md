@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
 | Tactical | 83530 | [83530-tactical.json](./83530-tactical.json) |
 | Tactical AR | 74366 | [74366-tactical-ar.json](./74366-tactical-ar.json) |
+| Tactical Armor Custom Gasaraki | 43904 | [43904-tactical-armor-custom-gasaraki.json](./43904-tactical-armor-custom-gasaraki.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
@@ -680,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
 | Teaparty in Candyworld | 357226 | [357226-teaparty-in-candyworld.json](./357226-teaparty-in-candyworld.json) |
 | Teapot Poppers | 146915 | [146915-teapot-poppers.json](./146915-teapot-poppers.json) |
+| Tear Ring Saga | 43872 | [43872-tear-ring-saga.json](./43872-tear-ring-saga.json) |
 | Tear Ring Saga Series: Berwick Saga: Lazberia Chronicle Chapter 174 | 80578 | [80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json](./80578-tear-ring-saga-series-berwick-saga-lazberia-chronicle-chapter-174.json) |
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
 | Tears of Magic | 224574 | [224574-tears-of-magic.json](./224574-tears-of-magic.json) |
@@ -2410,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
 | The King of Fighters XV: Team Garou | 195801 | [195801-the-king-of-fighters-xv-team-garou.json](./195801-the-king-of-fighters-xv-team-garou.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
+| The King of Figthers 99 | 43912 | [43912-the-king-of-figthers-99.json](./43912-the-king-of-figthers-99.json) |
 | The King's Bird | 11840 | [11840-the-kings-bird.json](./11840-the-kings-bird.json) |
 | The King's Courier | 335242 | [335242-the-kings-courier.json](./335242-the-kings-courier.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
@@ -4296,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
 | Thunder Force | 55055 | [55055-thunder-force.json](./55055-thunder-force.json) |
+| Thunder Force V: Perfect System | 43913 | [43913-thunder-force-v-perfect-system.json](./43913-thunder-force-v-perfect-system.json) |
 | Thunder Force: Gold Pack 1 | 100138 | [100138-thunder-force-gold-pack-1.json](./100138-thunder-force-gold-pack-1.json) |
 | Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
@@ -4905,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinkerQuarry | 47231 | [47231-tinkerquarry.json](./47231-tinkerquarry.json) |
 | TinkerTech | 310929 | [310929-tinkertech.json](./310929-tinkertech.json) |
 | Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
+| TinTin: Destination Adventure | 43902 | [43902-tintin-destination-adventure.json](./43902-tintin-destination-adventure.json) |
 | Tinting Time | 216500 | [216500-tinting-time.json](./216500-tinting-time.json) |
 | Tiny Animal War | 193933 | [193933-tiny-animal-war.json](./193933-tiny-animal-war.json) |
 | Tiny Arcade Racers | 201241 | [201241-tiny-arcade-racers.json](./201241-tiny-arcade-racers.json) |
@@ -6620,6 +6625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
+| Tunguska: Legend of Faith | 43901 | [43901-tunguska-legend-of-faith.json](./43901-tunguska-legend-of-faith.json) |
 | Tunguska: The Visitation | 152320 | [152320-tunguska-the-visitation.json](./152320-tunguska-the-visitation.json) |
 | Tunguska: The Visitation - Complete Edition | 338030 | [338030-tunguska-the-visitation-complete-edition.json](./338030-tunguska-the-visitation-complete-edition.json) |
 | Tunguska: The Visitation - Way of The Hunter | 227863 | [227863-tunguska-the-visitation-way-of-the-hunter.json](./227863-tunguska-the-visitation-way-of-the-hunter.json) |
