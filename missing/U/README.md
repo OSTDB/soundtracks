@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | US Coin | 86702 | [86702-us-coin.json](./86702-us-coin.json) |
 | US Police ATV Quad Bike Plane Transport Game | 100964 | [100964-us-police-atv-quad-bike-plane-transport-game.json](./100964-us-police-atv-quad-bike-plane-transport-game.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
+| USA Racer | 62146 | [62146-usa-racer.json](./62146-usa-racer.json) |
 | Usagi | 202342 | [202342-usagi.json](./202342-usagi.json) |
 | Usagi Health Club | 207339 | [207339-usagi-health-club.json](./207339-usagi-health-club.json) |
 | Usagi Sekai: Bunny Shaman | 338581 | [338581-usagi-sekai-bunny-shaman.json](./338581-usagi-sekai-bunny-shaman.json) |
