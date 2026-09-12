@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | N O Nb | 127980 | [127980-n-o-nb.json](./127980-n-o-nb.json) |
 | N Step Steve: Part 2 | 280780 | [280780-n-step-steve-part-2.json](./280780-n-step-steve-part-2.json) |
+| N v2.0 | 77297 | [77297-n-v2-0.json](./77297-n-v2-0.json) |
 | N.a.N Industry VR | 123559 | [123559-n-a-n-industry-vr.json](./123559-n-a-n-industry-vr.json) |
 | N.E.O.N.: Never-Ending Onslaught of Nerds | 152922 | [152922-n-e-o-n-never-ending-onslaught-of-nerds.json](./152922-n-e-o-n-never-ending-onslaught-of-nerds.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
