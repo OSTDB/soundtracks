@@ -2845,6 +2845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fantasy Book I and II Bundle | 99554 | [99554-dragon-fantasy-book-i-and-ii-bundle.json](./99554-dragon-fantasy-book-i-and-ii-bundle.json) |
 | Dragon Fight VR | 133389 | [133389-dragon-fight-vr.json](./133389-dragon-fight-vr.json) |
 | Dragon Finga | 403614 | [403614-dragon-finga.json](./403614-dragon-finga.json) |
+| Dragon Fire | 24844 | [24844-dragon-fire.json](./24844-dragon-fire.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
@@ -2880,6 +2881,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest IV: Michibikareshi Mono-tachi | 271211 | [271211-dragon-quest-iv-michibikareshi-mono-tachi.json](./271211-dragon-quest-iv-michibikareshi-mono-tachi.json) |
 | Dragon Quest Keshi Keshi | 194015 | [194015-dragon-quest-keshi-keshi.json](./194015-dragon-quest-keshi-keshi.json) |
 | Dragon Quest Monster Super Light | 80598 | [80598-dragon-quest-monster-super-light.json](./80598-dragon-quest-monster-super-light.json) |
+| Dragon Quest Monsters 1+2 | 24853 | [24853-dragon-quest-monsters-1-2.json](./24853-dragon-quest-monsters-1-2.json) |
+| Dragon Quest Monsters 2: Iru and Luca's Marvelous Mysterious Key | 24854 | [24854-dragon-quest-monsters-2-iru-and-lucas-marvelous-mysterious-key.json](./24854-dragon-quest-monsters-2-iru-and-lucas-marvelous-mysterious-key.json) |
 | Dragon Quest Monsters: Joker 3 Professional | 79296 | [79296-dragon-quest-monsters-joker-3-professional.json](./79296-dragon-quest-monsters-joker-3-professional.json) |
 | Dragon Quest Monsters: Terry no Wonderland 3D | 80596 | [80596-dragon-quest-monsters-terry-no-wonderland-3d.json](./80596-dragon-quest-monsters-terry-no-wonderland-3d.json) |
 | Dragon Quest Monsters: Terry no Wonderland SP | 111757 | [111757-dragon-quest-monsters-terry-no-wonderland-sp.json](./111757-dragon-quest-monsters-terry-no-wonderland-sp.json) |
