@@ -121,7 +121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
-| A Way Home Uzy's Journey | 339258 | [339258-a-way-home-uzys-journey.json](./339258-a-way-home-uzys-journey.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Way Up | 303234 | [303234-a-way-up.json](./303234-a-way-up.json) |
 | A way up! | 115617 | [115617-a-way-up.json](./115617-a-way-up.json) |
@@ -3044,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atama wo Kitaete Asobu Taisen Yajirushi Puzzle: Puppy Inu Vector One | 122991 | [122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json](./122991-atama-wo-kitaete-asobu-taisen-yajirushi-puzzle-puppy-inu-vector-one.json) |
 | Atari Classics: Evolved | 46023 | [46023-atari-classics-evolved.json](./46023-atari-classics-evolved.json) |
 | Atari Climber | 40769 | [40769-atari-climber.json](./40769-atari-climber.json) |
+| Atari Collection: Brettspiele | 70357 | [70357-atari-collection-brettspiele.json](./70357-atari-collection-brettspiele.json) |
 | Atari Flashback 2+ | 277035 | [277035-atari-flashback-2.json](./277035-atari-flashback-2.json) |
 | Atari Flashback 3 | 277037 | [277037-atari-flashback-3.json](./277037-atari-flashback-3.json) |
 | Atari Flashback 4 | 277039 | [277039-atari-flashback-4.json](./277039-atari-flashback-4.json) |
