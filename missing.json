@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T13:21:35.329Z",
-  "total_missing": 61992,
+  "generated_at": "2026-09-12T13:33:17.494Z",
+  "total_missing": 62041,
   "games": [
     {
       "igdb_id": 306086,
@@ -1258,6 +1258,11 @@
       "file": "missing/0-9/278676-28-babes-later.json"
     },
     {
+      "igdb_id": 52546,
+      "game_name": "28 Robots Later",
+      "file": "missing/0-9/52546-28-robots-later.json"
+    },
+    {
       "igdb_id": 139471,
       "game_name": "280 Zzzap/Dodgem 2001",
       "file": "missing/0-9/139471-280-zzzap-dodgem-2001.json"
@@ -1281,6 +1286,11 @@
       "igdb_id": 115044,
       "game_name": "2D Zombie Survival",
       "file": "missing/0-9/115044-2d-zombie-survival.json"
+    },
+    {
+      "igdb_id": 52545,
+      "game_name": "2Dark: Deluxe Edition",
+      "file": "missing/0-9/52545-2dark-deluxe-edition.json"
     },
     {
       "igdb_id": 319564,
@@ -1501,6 +1511,11 @@
       "igdb_id": 205837,
       "game_name": "3D Dragon Castle",
       "file": "missing/0-9/205837-3d-dragon-castle.json"
+    },
+    {
+      "igdb_id": 52544,
+      "game_name": "3D Driving School",
+      "file": "missing/0-9/52544-3d-driving-school.json"
     },
     {
       "igdb_id": 410226,
@@ -1898,6 +1913,11 @@
       "file": "missing/0-9/115641-7-little-words.json"
     },
     {
+      "igdb_id": 52541,
+      "game_name": "7 Mages Complete",
+      "file": "missing/0-9/52541-7-mages-complete.json"
+    },
+    {
       "igdb_id": 175396,
       "game_name": "7 Planets",
       "file": "missing/0-9/175396-7-planets.json"
@@ -1981,6 +2001,11 @@
       "igdb_id": 186235,
       "game_name": "8 Bit Son-of-a-Bitch",
       "file": "missing/0-9/186235-8-bit-son-of-a-bitch.json"
+    },
+    {
+      "igdb_id": 52540,
+      "game_name": "8-Bit Complete Collection",
+      "file": "missing/0-9/52540-8-bit-complete-collection.json"
     },
     {
       "igdb_id": 255083,
@@ -2578,6 +2603,11 @@
       "file": "missing/A/247777-a-rockets-intensity.json"
     },
     {
+      "igdb_id": 52564,
+      "game_name": "A Rose in the Twilight: Digital Bloodlust Edition",
+      "file": "missing/A/52564-a-rose-in-the-twilight-digital-bloodlust-edition.json"
+    },
+    {
       "igdb_id": 201290,
       "game_name": "A Second Chance",
       "file": "missing/A/201290-a-second-chance.json"
@@ -2586,6 +2616,11 @@
       "igdb_id": 243418,
       "game_name": "A Shard of Mine",
       "file": "missing/A/243418-a-shard-of-mine.json"
+    },
+    {
+      "igdb_id": 52563,
+      "game_name": "A Show of Hands",
+      "file": "missing/A/52563-a-show-of-hands.json"
     },
     {
       "igdb_id": 236502,
@@ -2626,6 +2661,11 @@
       "igdb_id": 152341,
       "game_name": "A Tale of Synapse: The Chaos Theories - Collector's Edition",
       "file": "missing/A/152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json"
+    },
+    {
+      "igdb_id": 52562,
+      "game_name": "A Thief's Legacy",
+      "file": "missing/A/52562-a-thiefs-legacy.json"
     },
     {
       "igdb_id": 338179,
@@ -2743,9 +2783,19 @@
       "file": "missing/A/15570-a-10-tank-killer-version-1-5.json"
     },
     {
+      "igdb_id": 52561,
+      "game_name": "A-mazing Ants",
+      "file": "missing/A/52561-a-mazing-ants.json"
+    },
+    {
       "igdb_id": 276712,
       "game_name": "A-Red Walking Robot",
       "file": "missing/A/276712-a-red-walking-robot.json"
+    },
+    {
+      "igdb_id": 52560,
+      "game_name": "A-Train 9 V3.0: Railway Simulator",
+      "file": "missing/A/52560-a-train-9-v3-0-railway-simulator.json"
     },
     {
       "igdb_id": 357776,
@@ -2938,11 +2988,6 @@
       "file": "missing/A/25751-abribus.json"
     },
     {
-      "igdb_id": 188600,
-      "game_name": "Abridge",
-      "file": "missing/A/188600-abridge.json"
-    },
-    {
       "igdb_id": 307324,
       "game_name": "Abrix 2: Diamond Version",
       "file": "missing/A/307324-abrix-2-diamond-version.json"
@@ -2993,6 +3038,11 @@
       "file": "missing/A/209687-absolute-deduction-bundle.json"
     },
     {
+      "igdb_id": 52556,
+      "game_name": "Absolute Despair Collection",
+      "file": "missing/A/52556-absolute-despair-collection.json"
+    },
+    {
       "igdb_id": 119004,
       "game_name": "Absolute Fall",
       "file": "missing/A/119004-absolute-fall.json"
@@ -3028,9 +3078,19 @@
       "file": "missing/A/84861-absolutely-unstoppable-minerun.json"
     },
     {
+      "igdb_id": 52555,
+      "game_name": "Absolver: Deluxe Edition",
+      "file": "missing/A/52555-absolver-deluxe-edition.json"
+    },
+    {
       "igdb_id": 74318,
       "game_name": "Absolver: Special Reserve edition",
       "file": "missing/A/74318-absolver-special-reserve-edition.json"
+    },
+    {
+      "igdb_id": 52554,
+      "game_name": "Absorb Reality Collection",
+      "file": "missing/A/52554-absorb-reality-collection.json"
     },
     {
       "igdb_id": 79911,
@@ -3211,6 +3271,11 @@
       "igdb_id": 303751,
       "game_name": "Abysus Arena",
       "file": "missing/A/303751-abysus-arena.json"
+    },
+    {
+      "igdb_id": 52553,
+      "game_name": "Abzu: Deluxe Edition",
+      "file": "missing/A/52553-abzu-deluxe-edition.json"
     },
     {
       "igdb_id": 216779,
@@ -3918,6 +3983,11 @@
       "file": "missing/A/301595-act-casual.json"
     },
     {
+      "igdb_id": 52552,
+      "game_name": "Act of Aggression: Reboot Edition",
+      "file": "missing/A/52552-act-of-aggression-reboot-edition.json"
+    },
+    {
       "igdb_id": 204681,
       "game_name": "Actias",
       "file": "missing/A/204681-actias.json"
@@ -4618,6 +4688,11 @@
       "file": "missing/A/314076-adventure-in-wachirawit-world.json"
     },
     {
+      "igdb_id": 52550,
+      "game_name": "Adventure Inlay: Safari Edition",
+      "file": "missing/A/52550-adventure-inlay-safari-edition.json"
+    },
+    {
       "igdb_id": 73272,
       "game_name": "Adventure Interpreter",
       "file": "missing/A/73272-adventure-interpreter.json"
@@ -5018,6 +5093,11 @@
       "file": "missing/A/166237-aerea-collectors-edition.json"
     },
     {
+      "igdb_id": 52576,
+      "game_name": "AereA: Deluxe Edition",
+      "file": "missing/A/52576-aerea-deluxe-edition.json"
+    },
+    {
       "igdb_id": 18233,
       "game_name": "Aerial Assault",
       "file": "missing/A/18233-aerial-assault.json"
@@ -5183,6 +5263,11 @@
       "file": "missing/A/232153-aestha-the-runner-game.json"
     },
     {
+      "igdb_id": 52575,
+      "game_name": "Aesthetic Melody: Digital Deluxe Edition",
+      "file": "missing/A/52575-aesthetic-melody-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 218138,
       "game_name": "Aestik",
       "file": "missing/A/218138-aestik.json"
@@ -5271,6 +5356,11 @@
       "igdb_id": 32355,
       "game_name": "Affairs of the Court: Choice of Romance",
       "file": "missing/A/32355-affairs-of-the-court-choice-of-romance.json"
+    },
+    {
+      "igdb_id": 52574,
+      "game_name": "Affairs of the Court: Deluxe Edition",
+      "file": "missing/A/52574-affairs-of-the-court-deluxe-edition.json"
     },
     {
       "igdb_id": 146347,
@@ -6218,6 +6308,11 @@
       "file": "missing/A/9537-agricultural-simulator-2011.json"
     },
     {
+      "igdb_id": 52573,
+      "game_name": "Agricultural Simulator 2012",
+      "file": "missing/A/52573-agricultural-simulator-2012.json"
+    },
+    {
       "igdb_id": 252389,
       "game_name": "Agriculture",
       "file": "missing/A/252389-agriculture.json"
@@ -6638,6 +6733,11 @@
       "file": "missing/A/61062-air-combat-revolution.json"
     },
     {
+      "igdb_id": 52572,
+      "game_name": "Air Conflicts Collection",
+      "file": "missing/A/52572-air-conflicts-collection.json"
+    },
+    {
       "igdb_id": 27783,
       "game_name": "Air Conflicts: Secret Wars - Ultimate Edition",
       "file": "missing/A/27783-air-conflicts-secret-wars-ultimate-edition.json"
@@ -6843,6 +6943,11 @@
       "file": "missing/A/5718-airforce-delta-storm.json"
     },
     {
+      "igdb_id": 52570,
+      "game_name": "Airheart: The Deluxe Edition",
+      "file": "missing/A/52570-airheart-the-deluxe-edition.json"
+    },
+    {
       "igdb_id": 268480,
       "game_name": "AirJet Fighter Sky Dominators: Aerial Assault",
       "file": "missing/A/268480-airjet-fighter-sky-dominators-aerial-assault.json"
@@ -6876,6 +6981,16 @@
       "igdb_id": 236016,
       "game_name": "Airline Flight Attendant Simulator VR",
       "file": "missing/A/236016-airline-flight-attendant-simulator-vr.json"
+    },
+    {
+      "igdb_id": 52568,
+      "game_name": "Airline Tycoon 2: Falcon Lines",
+      "file": "missing/A/52568-airline-tycoon-2-falcon-lines.json"
+    },
+    {
+      "igdb_id": 52569,
+      "game_name": "Airline Tycoon 2: Gold Edition",
+      "file": "missing/A/52569-airline-tycoon-2-gold-edition.json"
     },
     {
       "igdb_id": 11086,
@@ -6968,6 +7083,11 @@
       "file": "missing/A/220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json"
     },
     {
+      "igdb_id": 52566,
+      "game_name": "Airport Madness Collection",
+      "file": "missing/A/52566-airport-madness-collection.json"
+    },
+    {
       "igdb_id": 29649,
       "game_name": "Airport Master",
       "file": "missing/A/29649-airport-master.json"
@@ -6991,6 +7111,11 @@
       "igdb_id": 69843,
       "game_name": "Airport Tycoon 3",
       "file": "missing/A/69843-airport-tycoon-3.json"
+    },
+    {
+      "igdb_id": 52565,
+      "game_name": "Airport Wars ll",
+      "file": "missing/A/52565-airport-wars-ll.json"
     },
     {
       "igdb_id": 122978,
@@ -7423,6 +7548,11 @@
       "file": "missing/A/350429-alaska-an-endless-night.json"
     },
     {
+      "igdb_id": 52591,
+      "game_name": "Alawar Adventure Collection",
+      "file": "missing/A/52591-alawar-adventure-collection.json"
+    },
+    {
       "igdb_id": 135919,
       "game_name": "Alba: A Wildlife Adventure",
       "file": "missing/A/135919-alba-a-wildlife-adventure.json"
@@ -7841,6 +7971,11 @@
       "igdb_id": 270382,
       "game_name": "Alice & Marisa",
       "file": "missing/A/270382-alice-and-marisa.json"
+    },
+    {
+      "igdb_id": 52589,
+      "game_name": "Alice and Smith: Complete Library",
+      "file": "missing/A/52589-alice-and-smith-complete-library.json"
     },
     {
       "igdb_id": 159283,
@@ -8276,6 +8411,11 @@
       "igdb_id": 248037,
       "game_name": "Aliens Tower Defense",
       "file": "missing/A/248037-aliens-tower-defense.json"
+    },
+    {
+      "igdb_id": 52587,
+      "game_name": "Aliens vs. Predator Collection",
+      "file": "missing/A/52587-aliens-vs-predator-collection.json"
     },
     {
       "igdb_id": 1021,
@@ -8913,6 +9053,11 @@
       "file": "missing/A/280175-alpaca-wonders-why.json"
     },
     {
+      "igdb_id": 52585,
+      "game_name": "AlpenCross",
+      "file": "missing/A/52585-alpencross.json"
+    },
+    {
       "igdb_id": 261818,
       "game_name": "Alpha Centauri",
       "file": "missing/A/261818-alpha-centauri.json"
@@ -9398,6 +9543,11 @@
       "file": "missing/A/212279-amazin-george-2-digital-deluxe.json"
     },
     {
+      "igdb_id": 52584,
+      "game_name": "Amazing Adventures Riddle of the Two Knights",
+      "file": "missing/A/52584-amazing-adventures-riddle-of-the-two-knights.json"
+    },
+    {
       "igdb_id": 61675,
       "game_name": "Amazing Adventures: The Forgotten Dynasty",
       "file": "missing/A/61675-amazing-adventures-the-forgotten-dynasty.json"
@@ -9693,6 +9843,11 @@
       "file": "missing/A/234316-american-basketball-guns-and-balls.json"
     },
     {
+      "igdb_id": 52582,
+      "game_name": "American Civil War",
+      "file": "missing/A/52582-american-civil-war.json"
+    },
+    {
       "igdb_id": 324664,
       "game_name": "American Conquest: Anthology",
       "file": "missing/A/324664-american-conquest-anthology.json"
@@ -9806,6 +9961,11 @@
       "igdb_id": 211406,
       "game_name": "American Truck Simulator: Western Star 57X",
       "file": "missing/A/211406-american-truck-simulator-western-star-57x.json"
+    },
+    {
+      "igdb_id": 52581,
+      "game_name": "American Trucker: The Simulation",
+      "file": "missing/A/52581-american-trucker-the-simulation.json"
     },
     {
       "igdb_id": 130325,
@@ -10548,6 +10708,11 @@
       "file": "missing/A/63874-andrew-lloyd-webber-musicals-sing-and-dance.json"
     },
     {
+      "igdb_id": 52580,
+      "game_name": "Andrii's Horror",
+      "file": "missing/A/52580-andriis-horror.json"
+    },
+    {
       "igdb_id": 120987,
       "game_name": "Android Amazones",
       "file": "missing/A/120987-android-amazones.json"
@@ -10791,6 +10956,11 @@
       "igdb_id": 246124,
       "game_name": "Angels",
       "file": "missing/A/246124-angels.json"
+    },
+    {
+      "igdb_id": 52579,
+      "game_name": "Angels Blue Collection",
+      "file": "missing/A/52579-angels-blue-collection.json"
     },
     {
       "igdb_id": 223488,
@@ -12913,6 +13083,11 @@
       "file": "missing/A/337449-aporia-in-the-dark.json"
     },
     {
+      "igdb_id": 52596,
+      "game_name": "Aporia: Beyond the Valley - Deluxe Edition",
+      "file": "missing/A/52596-aporia-beyond-the-valley-deluxe-edition.json"
+    },
+    {
       "igdb_id": 333544,
       "game_name": "Aporkalypse: Pigs of Doom",
       "file": "missing/A/333544-aporkalypse-pigs-of-doom.json"
@@ -14066,6 +14241,16 @@
       "igdb_id": 373538,
       "game_name": "Arcane Plunder",
       "file": "missing/A/373538-arcane-plunder.json"
+    },
+    {
+      "igdb_id": 52595,
+      "game_name": "Arcane Raise: Deluxe Edition",
+      "file": "missing/A/52595-arcane-raise-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 52594,
+      "game_name": "Arcane ReRaise: Deluxe Edition",
+      "file": "missing/A/52594-arcane-reraise-deluxe-edition.json"
     },
     {
       "igdb_id": 352167,
@@ -142453,6 +142638,11 @@
       "file": "missing/L/185085-liberation-circuit.json"
     },
     {
+      "igdb_id": 52548,
+      "game_name": "Liberation Maiden: SIN",
+      "file": "missing/L/52548-liberation-maiden-sin.json"
+    },
+    {
       "igdb_id": 266779,
       "game_name": "Liberators' Chronicles",
       "file": "missing/L/266779-liberators-chronicles.json"
@@ -143023,6 +143213,11 @@
       "file": "missing/L/300989-lights-out.json"
     },
     {
+      "igdb_id": 52543,
+      "game_name": "Lights, Camera, Party!",
+      "file": "missing/L/52543-lights-camera-party.json"
+    },
+    {
       "igdb_id": 77325,
       "game_name": "Lightspeed",
       "file": "missing/L/77325-lightspeed.json"
@@ -143206,6 +143401,11 @@
       "igdb_id": 195690,
       "game_name": "Lilly Monster",
       "file": "missing/L/195690-lilly-monster.json"
+    },
+    {
+      "igdb_id": 52542,
+      "game_name": "Lily Bergamo",
+      "file": "missing/L/52542-lily-bergamo.json"
     },
     {
       "igdb_id": 278975,
@@ -148423,6 +148623,11 @@
       "file": "missing/M/50536-mad-arkanoid.json"
     },
     {
+      "igdb_id": 52558,
+      "game_name": "Mad Blocker HD",
+      "file": "missing/M/52558-mad-blocker-hd.json"
+    },
+    {
       "igdb_id": 156101,
       "game_name": "Mad Bus",
       "file": "missing/M/156101-mad-bus.json"
@@ -149488,6 +149693,11 @@
       "file": "missing/M/299127-magicafe.json"
     },
     {
+      "igdb_id": 52549,
+      "game_name": "Magical Beat",
+      "file": "missing/M/52549-magical-beat.json"
+    },
+    {
       "igdb_id": 151741,
       "game_name": "Magical Blaster",
       "file": "missing/M/151741-magical-blaster.json"
@@ -149976,6 +150186,11 @@
       "igdb_id": 66091,
       "game_name": "Mahjong Taikai IV",
       "file": "missing/M/66091-mahjong-taikai-iv.json"
+    },
+    {
+      "igdb_id": 52577,
+      "game_name": "Mahjong Tales: Ancient Wisdom",
+      "file": "missing/M/52577-mahjong-tales-ancient-wisdom.json"
     },
     {
       "igdb_id": 115717,
@@ -153873,6 +154088,11 @@
       "file": "missing/M/382210-mawthorne-2.json"
     },
     {
+      "igdb_id": 52571,
+      "game_name": "Max and the Magic Marker: Gold Edition",
+      "file": "missing/M/52571-max-and-the-magic-marker-gold-edition.json"
+    },
+    {
       "igdb_id": 96703,
       "game_name": "Max Craft 2: New World HD",
       "file": "missing/M/96703-max-craft-2-new-world-hd.json"
@@ -154696,6 +154916,11 @@
       "igdb_id": 293653,
       "game_name": "Mechjestic",
       "file": "missing/M/293653-mechjestic.json"
+    },
+    {
+      "igdb_id": 52567,
+      "game_name": "Mecho Wars",
+      "file": "missing/M/52567-mecho-wars.json"
     },
     {
       "igdb_id": 78644,
@@ -156486,6 +156711,11 @@
       "igdb_id": 4003,
       "game_name": "Men in Black II: Alien Escape",
       "file": "missing/M/4003-men-in-black-ii-alien-escape.json"
+    },
+    {
+      "igdb_id": 52590,
+      "game_name": "Men's Room Mayhem",
+      "file": "missing/M/52590-mens-room-mayhem.json"
     },
     {
       "igdb_id": 262664,
@@ -158843,6 +159073,11 @@
       "file": "missing/M/229931-mig-29-fulcrum.json"
     },
     {
+      "igdb_id": 52586,
+      "game_name": "Might & Magic: Duel of Champions - Forgotten Wars",
+      "file": "missing/M/52586-might-and-magic-duel-of-champions-forgotten-wars.json"
+    },
+    {
       "igdb_id": 7733,
       "game_name": "Might and Magic: Book One - The Secret of the Inner Sanctum",
       "file": "missing/M/7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json"
@@ -160701,6 +160936,11 @@
       "igdb_id": 176423,
       "game_name": "Minions of Elden",
       "file": "missing/M/176423-minions-of-elden.json"
+    },
+    {
+      "igdb_id": 52583,
+      "game_name": "MiniSquadron",
+      "file": "missing/M/52583-minisquadron.json"
     },
     {
       "igdb_id": 184032,
@@ -163096,6 +163336,11 @@
       "igdb_id": 247196,
       "game_name": "Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition",
       "file": "missing/M/247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 52592,
+      "game_name": "Monochrome Racing",
+      "file": "missing/M/52592-monochrome-racing.json"
     },
     {
       "igdb_id": 152894,
