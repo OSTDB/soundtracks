@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Martina-Bloody Day 228 | 124222 | [124222-vampire-martina-bloody-day-228.json](./124222-vampire-martina-bloody-day-228.json) |
 | Vampire Night Shift | 138187 | [138187-vampire-night-shift.json](./138187-vampire-night-shift.json) |
 | Vampire on Trial | 394169 | [394169-vampire-on-trial.json](./394169-vampire-on-trial.json) |
+| Vampire Rush | 66037 | [66037-vampire-rush.json](./66037-vampire-rush.json) |
 | Vampire Slasher Hero | 208955 | [208955-vampire-slasher-hero.json](./208955-vampire-slasher-hero.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
