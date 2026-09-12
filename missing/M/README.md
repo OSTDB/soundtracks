@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Machigai-sagashi Daisousasen | 271506 | [271506-machigai-sagashi-daisousasen.json](./271506-machigai-sagashi-daisousasen.json) |
 | Machina | 184624 | [184624-machina.json](./184624-machina.json) |
 | Machina of the Planet Tree -Unity Unions- | 138175 | [138175-machina-of-the-planet-tree-unity-unions.json](./138175-machina-of-the-planet-tree-unity-unions.json) |
+| Machina of the Planet Tree: Flying Dreamer | 59940 | [59940-machina-of-the-planet-tree-flying-dreamer.json](./59940-machina-of-the-planet-tree-flying-dreamer.json) |
 | Machinarium | 264876 | [264876-machinarium.json](./264876-machinarium.json) |
 | Machine Armor Zero | 244255 | [244255-machine-armor-zero.json](./244255-machine-armor-zero.json) |
 | Machine Challenger | 301254 | [301254-machine-challenger.json](./301254-machine-challenger.json) |
@@ -135,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari: Hanamaru Daiyouchienji | 110397 | [110397-madou-monogatari-hanamaru-daiyouchienji.json](./110397-madou-monogatari-hanamaru-daiyouchienji.json) |
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
+| Mads, Morfar og Miljøstrup | 59950 | [59950-mads-morfar-og-milj-strup.json](./59950-mads-morfar-og-milj-strup.json) |
 | Madvent Calendar 3 Necrosis | 229375 | [229375-madvent-calendar-3-necrosis.json](./229375-madvent-calendar-3-necrosis.json) |
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
@@ -1390,6 +1392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
 | Meeting Myself | 275919 | [275919-meeting-myself.json](./275919-meeting-myself.json) |
 | Meeuw | 135829 | [135829-meeuw.json](./135829-meeuw.json) |
+| MEG 9: Lost Echoes | 59944 | [59944-meg-9-lost-echoes.json](./59944-meg-9-lost-echoes.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Bundle: Cats | 208046 | [208046-mega-bundle-cats.json](./208046-mega-bundle-cats.json) |
 | Mega Carrier Simulator | 392170 | [392170-mega-carrier-simulator.json](./392170-mega-carrier-simulator.json) |
