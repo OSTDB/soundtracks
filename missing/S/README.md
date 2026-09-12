@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint Seiya Awakening: Knights of the Zodiac | 129144 | [129144-saint-seiya-awakening-knights-of-the-zodiac.json](./129144-saint-seiya-awakening-knights-of-the-zodiac.json) |
 | Saint Seiya Shining Soldiers | 129130 | [129130-saint-seiya-shining-soldiers.json](./129130-saint-seiya-shining-soldiers.json) |
+| Saint Seiya Typing: Ryu Sei Ken | 63279 | [63279-saint-seiya-typing-ryu-sei-ken.json](./63279-saint-seiya-typing-ryu-sei-ken.json) |
 | Saint Seiya: Brave Soldiers + Aries Shion | 99553 | [99553-saint-seiya-brave-soldiers-aries-shion.json](./99553-saint-seiya-brave-soldiers-aries-shion.json) |
 | Saint Seiya: Galaxy Spirits | 139406 | [139406-saint-seiya-galaxy-spirits.json](./139406-saint-seiya-galaxy-spirits.json) |
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
@@ -1653,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Hisui no Shizuku: Hiiro no Kakera 2 DS | 124278 | [124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json](./124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json) |
 | Shin Kaitei Gunkan: Koutetsu no Kodoku | 400898 | [400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json](./400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json) |
 | Shin Ken to Mahou to Gakuen Mono. Toki no Gakuen | 63895 | [63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json](./63895-shin-ken-to-mahou-to-gakuen-mono-toki-no-gakuen.json) |
+| Shin Koihime Musou: Fighting Maidens of the Romance of the Three Kingdoms | 63253 | [63253-shin-koihime-musou-fighting-maidens-of-the-romance-of-the-three-kingdoms.json](./63253-shin-koihime-musou-fighting-maidens-of-the-romance-of-the-three-kingdoms.json) |
 | Shin Koihime Musou: Kakumei - Ryuuki no Taimou | 127338 | [127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json](./127338-shin-koihime-musou-kakumei-ryuuki-no-taimou.json) |
 | Shin Lucky Star Moe Drill: Tabidachi | 72619 | [72619-shin-lucky-star-moe-drill-tabidachi.json](./72619-shin-lucky-star-moe-drill-tabidachi.json) |
 | Shin Mahjong Tenka Fubu | 188085 | [188085-shin-mahjong-tenka-fubu.json](./188085-shin-mahjong-tenka-fubu.json) |
@@ -2621,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice To Meet You | 409583 | [409583-slice-to-meet-you.json](./409583-slice-to-meet-you.json) |
 | Slice&Dice | 345526 | [345526-slice-and-dice.json](./345526-slice-and-dice.json) |
 | Slices | 105870 | [105870-slices.json](./105870-slices.json) |
+| Slick | 63260 | [63260-slick.json](./63260-slick.json) |
 | Slick Slack | 277300 | [277300-slick-slack.json](./277300-slick-slack.json) |
 | Slick Tricks: Potion Persuasion! | 386101 | [386101-slick-tricks-potion-persuasion.json](./386101-slick-tricks-potion-persuasion.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
@@ -3718,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
 | Soul Sader | 285982 | [285982-soul-sader.json](./285982-soul-sader.json) |
+| Soul Saga | 63252 | [63252-soul-saga.json](./63252-soul-saga.json) |
 | Soul Saver | 134637 | [134637-soul-saver.json](./134637-soul-saver.json) |
 | Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
 | Soul Slayers | 145650 | [145650-soul-slayers.json](./145650-soul-slayers.json) |
@@ -4038,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Zero | 37185 | [37185-space-zero.json](./37185-space-zero.json) |
 | Space Zombies Invasion | 88243 | [88243-space-zombies-invasion.json](./88243-space-zombies-invasion.json) |
 | Space zone defender | 130856 | [130856-space-zone-defender.json](./130856-space-zone-defender.json) |
+| Space-Orbit | 63238 | [63238-space-orbit.json](./63238-space-orbit.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
 | Spacebar | 344361 | [344361-spacebar.json](./344361-spacebar.json) |
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
