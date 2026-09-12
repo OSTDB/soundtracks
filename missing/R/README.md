@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of the Wasteland | 157137 | [157137-rage-of-the-wasteland.json](./157137-rage-of-the-wasteland.json) |
+| Rage of Tiger 2: Blood, Money and Tears | 64350 | [64350-rage-of-tiger-2-blood-money-and-tears.json](./64350-rage-of-tiger-2-blood-money-and-tears.json) |
 | Rage Quest | 75052 | [75052-rage-quest.json](./75052-rage-quest.json) |
 | Rage Quest: The Worst Game | 81254 | [81254-rage-quest-the-worst-game.json](./81254-rage-quest-the-worst-game.json) |
 | Rage Racer | 18698 | [18698-rage-racer.json](./18698-rage-racer.json) |
@@ -2023,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollTheEarth | 103437 | [103437-rolltheearth.json](./103437-rolltheearth.json) |
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
+| Rom Rom Stadium | 64377 | [64377-rom-rom-stadium.json](./64377-rom-rom-stadium.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
 | Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
