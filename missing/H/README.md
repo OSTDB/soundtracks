@@ -92,6 +92,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
+| Hakuoki: Stories of the Shinsengumi | 44565 | [44565-hakuoki-stories-of-the-shinsengumi.json](./44565-hakuoki-stories-of-the-shinsengumi.json) |
+| Hakuoki: Warriors of the Shinsengumi | 44525 | [44525-hakuoki-warriors-of-the-shinsengumi.json](./44525-hakuoki-warriors-of-the-shinsengumi.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
