@@ -184,7 +184,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
 | Absolutely Perfect Specimen | 257098 | [257098-absolutely-perfect-specimen.json](./257098-absolutely-perfect-specimen.json) |
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
-| Absolver: Special Reserve edition | 74318 | [74318-absolver-special-reserve-edition.json](./74318-absolver-special-reserve-edition.json) |
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
 | Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
 | Abstract World | 201247 | [201247-abstract-world.json](./201247-abstract-world.json) |
