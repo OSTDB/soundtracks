@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Adventure | 14302 | [14302-bill-and-teds-excellent-adventure.json](./14302-bill-and-teds-excellent-adventure.json) |
 | Bill & Ted's Excellent Adventure | 175897 | [175897-bill-and-teds-excellent-adventure.json](./175897-bill-and-teds-excellent-adventure.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
+| Bill Nye the Science Guy: Stop the Rock | 67957 | [67957-bill-nye-the-science-guy-stop-the-rock.json](./67957-bill-nye-the-science-guy-stop-the-rock.json) |
 | Bill's Tomato Game | 14306 | [14306-bills-tomato-game.json](./14306-bills-tomato-game.json) |
 | Bille & Trille: Klæder sig ud | 91448 | [91448-bille-and-trille-kl-der-sig-ud.json](./91448-bille-and-trille-kl-der-sig-ud.json) |
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
@@ -2297,10 +2298,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba | 177569 | [177569-boba.json](./177569-boba.json) |
 | Boba Tale | 199622 | [199622-boba-tale.json](./199622-boba-tale.json) |
 | Boba Tea Shop Simulator | 244236 | [244236-boba-tea-shop-simulator.json](./244236-boba-tea-shop-simulator.json) |
+| Bobbin's Quest | 67985 | [67985-bobbins-quest.json](./67985-bobbins-quest.json) |
 | Bobble Bash | 265657 | [265657-bobble-bash.json](./265657-bobble-bash.json) |
 | Bobblehead College Football | 247171 | [247171-bobblehead-college-football.json](./247171-bobblehead-college-football.json) |
 | Bobby Carrot 3: Evolution | 66136 | [66136-bobby-carrot-3-evolution.json](./66136-bobby-carrot-3-evolution.json) |
 | Bobby Fischer Teaches Chess | 73237 | [73237-bobby-fischer-teaches-chess.json](./73237-bobby-fischer-teaches-chess.json) |
+| Bobby Says: Dance with me! | 67984 | [67984-bobby-says-dance-with-me.json](./67984-bobby-says-dance-with-me.json) |
 | Bobby Six Seven: Time Traveling Detective | 313143 | [313143-bobby-six-seven-time-traveling-detective.json](./313143-bobby-six-seven-time-traveling-detective.json) |
 | Bobby's World | 256298 | [256298-bobbys-world.json](./256298-bobbys-world.json) |
 | Bobcos | 368479 | [368479-bobcos.json](./368479-bobcos.json) |
@@ -2620,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
+| Boule & Bill: Holiday time! | 67961 | [67961-boule-and-bill-holiday-time.json](./67961-boule-and-bill-holiday-time.json) |
 | Bounce Arcade | 306945 | [306945-bounce-arcade.json](./306945-bounce-arcade.json) |
 | Bounce Ball | 68653 | [68653-bounce-ball.json](./68653-bounce-ball.json) |
 | Bounce Boing Voyage | 245006 | [245006-bounce-boing-voyage.json](./245006-bounce-boing-voyage.json) |
