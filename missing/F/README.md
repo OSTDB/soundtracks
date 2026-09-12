@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fido 2: Puppy Power | 315278 | [315278-fido-2-puppy-power.json](./315278-fido-2-puppy-power.json) |
 | Fido Dido | 93010 | [93010-fido-dido.json](./93010-fido-dido.json) |
 | Field & Stream: Total Outdoorsman Challenge | 67081 | [67081-field-and-stream-total-outdoorsman-challenge.json](./67081-field-and-stream-total-outdoorsman-challenge.json) |
+| Field & Stream: Trophy Bass 4 | 71459 | [71459-field-and-stream-trophy-bass-4.json](./71459-field-and-stream-trophy-bass-4.json) |
 | Field and Stream Fishing | 99003 | [99003-field-and-stream-fishing.json](./99003-field-and-stream-fishing.json) |
 | Field Goal | 172656 | [172656-field-goal.json](./172656-field-goal.json) |
 | Field of Enemies | 374058 | [374058-field-of-enemies.json](./374058-field-of-enemies.json) |
