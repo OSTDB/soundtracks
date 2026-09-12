@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Veg Man | 148538 | [148538-mega-veg-man.json](./148538-mega-veg-man.json) |
 | Mega Zombie | 146875 | [146875-mega-zombie.json](./146875-mega-zombie.json) |
 | Mega-Bots | 214776 | [214776-mega-bots.json](./214776-mega-bots.json) |
+| Mega-Bucks | 37068 | [37068-mega-bucks.json](./37068-mega-bucks.json) |
 | Mega-Corp | 45345 | [45345-mega-corp.json](./45345-mega-corp.json) |
 | MegaAri | 205788 | [205788-megaari.json](./205788-megaari.json) |
 | Megabat | 253913 | [253913-megabat.json](./253913-megabat.json) |
@@ -2460,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Challenge | 96705 | [96705-minesweeper-challenge.json](./96705-minesweeper-challenge.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
+| Minesweeper Materialized | 37058 | [37058-minesweeper-materialized.json](./37058-minesweeper-materialized.json) |
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
 | Minesweeper Run | 151757 | [151757-minesweeper-run.json](./151757-minesweeper-run.json) |
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
