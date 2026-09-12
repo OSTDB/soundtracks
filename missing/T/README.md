@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
 | Team Fortress Kart | 371244 | [371244-team-fortress-kart.json](./371244-team-fortress-kart.json) |
+| Team Four Star RPG | 75043 | [75043-team-four-star-rpg.json](./75043-team-four-star-rpg.json) |
 | Team Hogus: GHAMEMFAIFTH OTHIYLTIM | 185659 | [185659-team-hogus-ghamemfaifth-othiyltim.json](./185659-team-hogus-ghamemfaifth-othiyltim.json) |
 | Team Kart Fortress | 371246 | [371246-team-kart-fortress.json](./371246-team-kart-fortress.json) |
 | Team Kirby Clash Deluxe | 28126 | [28126-team-kirby-clash-deluxe.json](./28126-team-kirby-clash-deluxe.json) |
@@ -1925,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flayed Man | 329396 | [329396-the-flayed-man.json](./329396-the-flayed-man.json) |
 | The Flea Evolution | 188103 | [188103-the-flea-evolution.json](./188103-the-flea-evolution.json) |
 | The Flea Evolution: Bugaboo | 189151 | [189151-the-flea-evolution-bugaboo.json](./189151-the-flea-evolution-bugaboo.json) |
+| The Flight of Dowran | 75038 | [75038-the-flight-of-dowran.json](./75038-the-flight-of-dowran.json) |
 | The Flintstones in Viva Rock Vegas | 78017 | [78017-the-flintstones-in-viva-rock-vegas.json](./78017-the-flintstones-in-viva-rock-vegas.json) |
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
 | The Flintstones: Dino - Lost in Bedrock | 71541 | [71541-the-flintstones-dino-lost-in-bedrock.json](./71541-the-flintstones-dino-lost-in-bedrock.json) |
@@ -2612,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
+| The Lost Dimension | 75121 | [75121-the-lost-dimension.json](./75121-the-lost-dimension.json) |
 | The Lost Dog | 165631 | [165631-the-lost-dog.json](./165631-the-lost-dog.json) |
 | The Lost Dollar | 71009 | [71009-the-lost-dollar.json](./71009-the-lost-dollar.json) |
 | The Lost Fountain | 96060 | [96060-the-lost-fountain.json](./96060-the-lost-fountain.json) |
@@ -4662,6 +4665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
 | Timelord | 78615 | [78615-timelord.json](./78615-timelord.json) |
 | TimeMelters | 210869 | [210869-timemelters.json](./210869-timemelters.json) |
+| Timension | 75059 | [75059-timension.json](./75059-timension.json) |
 | TimeOut | 385582 | [385582-timeout.json](./385582-timeout.json) |
 | Timepiece Ensemble | 216242 | [216242-timepiece-ensemble.json](./216242-timepiece-ensemble.json) |
 | Timerunner | 161900 | [161900-timerunner.json](./161900-timerunner.json) |
