@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
 | TeknoKinetica | 316625 | [316625-teknokinetica.json](./316625-teknokinetica.json) |
 | Tekoha: A Tale Among the Stars | 237343 | [237343-tekoha-a-tale-among-the-stars.json](./237343-tekoha-a-tale-among-the-stars.json) |
+| Tektonik | 63234 | [63234-tektonik.json](./63234-tektonik.json) |
 | Teku | 274499 | [274499-teku.json](./274499-teku.json) |
 | Tele-Doodle | 220125 | [220125-tele-doodle.json](./220125-tele-doodle.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
@@ -6087,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri-Strip | 85456 | [85456-tri-strip.json](./85456-tri-strip.json) |
 | Tri: Of Friendship and Madness | 2998 | [2998-tri-of-friendship-and-madness.json](./2998-tri-of-friendship-and-madness.json) |
 | Tri.Defender | 30933 | [30933-tri-defender.json](./30933-tri-defender.json) |
+| Triachnid | 63255 | [63255-triachnid.json](./63255-triachnid.json) |
 | Triad | 304367 | [304367-triad.json](./304367-triad.json) |
 | Triage | 353861 | [353861-triage.json](./353861-triage.json) |
 | Trial by Chat | 414332 | [414332-trial-by-chat.json](./414332-trial-by-chat.json) |
@@ -6146,12 +6148,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
+| TriDefense | 63229 | [63229-tridefense.json](./63229-tridefense.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
 | Trigger | 104044 | [104044-trigger.json](./104044-trigger.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
+| Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
