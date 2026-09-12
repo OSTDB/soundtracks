@@ -145,7 +145,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
-| Abashment | 201766 | [201766-abashment.json](./201766-abashment.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | AbbleDabble | 174319 | [174319-abbledabble.json](./174319-abbledabble.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
@@ -1509,6 +1508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Life: A Paramedic Simulator - Bay Side Expansion | 334668 | [334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json](./334668-ambulance-life-a-paramedic-simulator-bay-side-expansion.json) |
 | Ambulance Race | 221712 | [221712-ambulance-race.json](./221712-ambulance-race.json) |
 | Ambush in Sector 9 | 311279 | [311279-ambush-in-sector-9.json](./311279-ambush-in-sector-9.json) |
+| Ambush Tactics | 61604 | [61604-ambush-tactics.json](./61604-ambush-tactics.json) |
 | Ambush: Convoy Strike | 154559 | [154559-ambush-convoy-strike.json](./154559-ambush-convoy-strike.json) |
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
