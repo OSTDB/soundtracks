@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Drive | 278395 | [278395-quantum-drive.json](./278395-quantum-drive.json) |
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
 | Quantum Legend - vr show | 115604 | [115604-quantum-legend-vr-show.json](./115604-quantum-legend-vr-show.json) |
+| Quantum Lock | 34189 | [34189-quantum-lock.json](./34189-quantum-lock.json) |
 | Quantum Phantom Basketball | 252766 | [252766-quantum-phantom-basketball.json](./252766-quantum-phantom-basketball.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
 | Quantum Rush Champions: Jump Start Tournament | 172121 | [172121-quantum-rush-champions-jump-start-tournament.json](./172121-quantum-rush-champions-jump-start-tournament.json) |
@@ -118,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quartz's Quest | 245036 | [245036-quartzs-quest.json](./245036-quartzs-quest.json) |
 | Quaterneo | 183535 | [183535-quaterneo.json](./183535-quaterneo.json) |
 | Quatris | 153350 | [153350-quatris.json](./153350-quatris.json) |
+| Quatro Luzes | 34203 | [34203-quatro-luzes.json](./34203-quatro-luzes.json) |
 | Quatro!: This is fine DLC | 253368 | [253368-quatro-this-is-fine-dlc.json](./253368-quatro-this-is-fine-dlc.json) |
 | Quattro Combat | 72124 | [72124-quattro-combat.json](./72124-quattro-combat.json) |
 | Quattro Super Hits | 57617 | [57617-quattro-super-hits.json](./57617-quattro-super-hits.json) |
