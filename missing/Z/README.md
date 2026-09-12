@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Forest 3: Underground | 251231 | [251231-zombie-forest-3-underground.json](./251231-zombie-forest-3-underground.json) |
 | Zombie Freaks | 163963 | [163963-zombie-freaks.json](./163963-zombie-freaks.json) |
 | Zombie frenzy | 191255 | [191255-zombie-frenzy.json](./191255-zombie-frenzy.json) |
+| Zombie Game | 58761 | [58761-zombie-game.json](./58761-zombie-game.json) |
 | Zombie Girl | 270094 | [270094-zombie-girl.json](./270094-zombie-girl.json) |
 | Zombie Go | 117031 | [117031-zombie-go.json](./117031-zombie-go.json) |
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
