@@ -724,6 +724,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble | 246400 | [246400-scramble.json](./246400-scramble.json) |
 | Scramble | 297494 | [297494-scramble.json](./297494-scramble.json) |
 | Scramble Up! | 324316 | [324316-scramble-up.json](./324316-scramble-up.json) |
+| Scrambled | 58163 | [58163-scrambled.json](./58163-scrambled.json) |
+| Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
 | Scrap Dealer Simulator | 334136 | [334136-scrap-dealer-simulator.json](./334136-scrap-dealer-simulator.json) |
 | Scrap Divers | 334102 | [334102-scrap-divers.json](./334102-scrap-divers.json) |
@@ -5873,6 +5875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
 | Sugar Overdrive | 332985 | [332985-sugar-overdrive.json](./332985-sugar-overdrive.json) |
+| Sugar Rush | 58209 | [58209-sugar-rush.json](./58209-sugar-rush.json) |
 | Sugar Style | 141795 | [141795-sugar-style.json](./141795-sugar-style.json) |
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
