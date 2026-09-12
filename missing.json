@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T02:01:46.885Z",
+  "generated_at": "2026-09-12T02:11:30.323Z",
   "total_missing": 60112,
   "games": [
     {
@@ -2581,11 +2581,6 @@
       "igdb_id": 89975,
       "game_name": "A Turd's Life",
       "file": "missing/A/89975-a-turds-life.json"
-    },
-    {
-      "igdb_id": 308541,
-      "game_name": "A Turnabout On Rails",
-      "file": "missing/A/308541-a-turnabout-on-rails.json"
     },
     {
       "igdb_id": 295241,
@@ -54176,6 +54171,11 @@
       "igdb_id": 113723,
       "game_name": "Cube Mission",
       "file": "missing/C/113723-cube-mission.json"
+    },
+    {
+      "igdb_id": 74389,
+      "game_name": "Cube Monster",
+      "file": "missing/C/74389-cube-monster.json"
     },
     {
       "igdb_id": 146231,
