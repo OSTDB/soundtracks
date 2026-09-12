@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
 | Mahjong Party Pack | 268203 | [268203-mahjong-party-pack.json](./268203-mahjong-party-pack.json) |
+| Mahjong Taikai IV | 66091 | [66091-mahjong-taikai-iv.json](./66091-mahjong-taikai-iv.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong Triple Wars Gaiden | 91934 | [91934-mahjong-triple-wars-gaiden.json](./91934-mahjong-triple-wars-gaiden.json) |
 | Mahjong Vanilla Syndrome | 91933 | [91933-mahjong-vanilla-syndrome.json](./91933-mahjong-vanilla-syndrome.json) |
@@ -2603,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
+| Mission Europa | 66072 | [66072-mission-europa.json](./66072-mission-europa.json) |
 | Mission Idle | 172193 | [172193-mission-idle.json](./172193-mission-idle.json) |
 | Mission in Snowdriftland | 143095 | [143095-mission-in-snowdriftland.json](./143095-mission-in-snowdriftland.json) |
 | Mission In Space | 221755 | [221755-mission-in-space.json](./221755-mission-in-space.json) |
@@ -2719,6 +2721,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam | 132794 | [132794-mobile-suit-gundam.json](./132794-mobile-suit-gundam.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
+| Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono | 66077 | [66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json](./66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json) |
+| Mobile Suit Gundam Side Story III: Sabakareshi Mono | 66076 | [66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json](./66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json) |
+| Mobile Suit Gundam Side Story: The Blue Destiny | 66078 | [66078-mobile-suit-gundam-side-story-the-blue-destiny.json](./66078-mobile-suit-gundam-side-story-the-blue-destiny.json) |
 | Mobile Suit Gundam Vol. 1 - Side 7 | 66600 | [66600-mobile-suit-gundam-vol-1-side-7.json](./66600-mobile-suit-gundam-vol-1-side-7.json) |
 | Mobile Suit Gundam: A Year of War | 222899 | [222899-mobile-suit-gundam-a-year-of-war.json](./222899-mobile-suit-gundam-a-year-of-war.json) |
 | Mobile Suit Gundam: Area Wars | 196338 | [196338-mobile-suit-gundam-area-wars.json](./196338-mobile-suit-gundam-area-wars.json) |
@@ -3660,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV Total Request Live Trivia | 57667 | [57667-mtv-total-request-live-trivia.json](./57667-mtv-total-request-live-trivia.json) |
 | MTV's Beavis and Butt-head: Bunghole in One | 8459 | [8459-mtvs-beavis-and-butt-head-bunghole-in-one.json](./8459-mtvs-beavis-and-butt-head-bunghole-in-one.json) |
 | MTV's Beavis and Butt-Head: Do U. | 8458 | [8458-mtvs-beavis-and-butt-head-do-u.json](./8458-mtvs-beavis-and-butt-head-do-u.json) |
+| MTV's Beavis and Butt-Head: Wiener Takes All | 66094 | [66094-mtvs-beavis-and-butt-head-wiener-takes-all.json](./66094-mtvs-beavis-and-butt-head-wiener-takes-all.json) |
 | MTX Mototrax | 5935 | [5935-mtx-mototrax.json](./5935-mtx-mototrax.json) |
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
