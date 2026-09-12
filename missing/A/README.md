@@ -169,7 +169,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
-| About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Above the Stars | 148555 | [148555-above-the-stars.json](./148555-above-the-stars.json) |
 | Above: Colonies of the Mist | 388001 | [388001-above-colonies-of-the-mist.json](./388001-above-colonies-of-the-mist.json) |
