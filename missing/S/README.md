@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
 | Sesame Street: Elmo's 123s | 49934 | [49934-sesame-street-elmos-123s.json](./49934-sesame-street-elmos-123s.json) |
 | Sesame Street: Elmo's ABCs | 49933 | [49933-sesame-street-elmos-abcs.json](./49933-sesame-street-elmos-abcs.json) |
+| Sesame Street: Ready, Set, Grover! With Elmo - The Videogame | 47954 | [47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json](./47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json) |
 | Sesame Street: Search & Learn Adventures | 245537 | [245537-sesame-street-search-and-learn-adventures.json](./245537-sesame-street-search-and-learn-adventures.json) |
 | Sesame Street: The Happy Scientists | 230551 | [230551-sesame-street-the-happy-scientists.json](./230551-sesame-street-the-happy-scientists.json) |
 | Sesari 1 | 321131 | [321131-sesari-1.json](./321131-sesari-1.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sojourn Through the Decade | 314056 | [314056-sojourn-through-the-decade.json](./314056-sojourn-through-the-decade.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Sokoban | 19573 | [19573-sokoban.json](./19573-sokoban.json) |
+| Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
 | Sokobear: Autumn | 219591 | [219591-sokobear-autumn.json](./219591-sokobear-autumn.json) |
@@ -4360,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce: Universe | 78728 | [78728-spellforce-universe.json](./78728-spellforce-universe.json) |
 | Spellic | 207345 | [207345-spellic.json](./207345-spellic.json) |
 | Spelling Bee | 206122 | [206122-spelling-bee.json](./206122-spelling-bee.json) |
+| Spelling Challenges | 47952 | [47952-spelling-challenges.json](./47952-spelling-challenges.json) |
 | Spellisimo | 400896 | [400896-spellisimo.json](./400896-spellisimo.json) |
 | Spellloom | 337487 | [337487-spellloom.json](./337487-spellloom.json) |
 | Spellmasons | 215714 | [215714-spellmasons.json](./215714-spellmasons.json) |
@@ -4754,6 +4757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
 | Squish 'em | 23887 | [23887-squish-em.json](./23887-squish-em.json) |
+| Squish and the Corrupted Crystal | 47996 | [47996-squish-and-the-corrupted-crystal.json](./47996-squish-and-the-corrupted-crystal.json) |
 | Squish Machine | 113635 | [113635-squish-machine.json](./113635-squish-machine.json) |
 | Squish Run | 251204 | [251204-squish-run.json](./251204-squish-run.json) |
 | Squish the Zombies | 257367 | [257367-squish-the-zombies.json](./257367-squish-the-zombies.json) |
@@ -5860,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stygia | 139412 | [139412-stygia.json](./139412-stygia.json) |
 | Stygia II: The Sisters of Stygia | 139413 | [139413-stygia-ii-the-sisters-of-stygia.json](./139413-stygia-ii-the-sisters-of-stygia.json) |
 | Stygian | 141784 | [141784-stygian.json](./141784-stygian.json) |
+| Style Lab Makeover | 47980 | [47980-style-lab-makeover.json](./47980-style-lab-makeover.json) |
 | Style Lab: Fashion Design | 208358 | [208358-style-lab-fashion-design.json](./208358-style-lab-fashion-design.json) |
 | Style Lab: Jewelry Design | 208359 | [208359-style-lab-jewelry-design.json](./208359-style-lab-jewelry-design.json) |
 | Stylish Sprint 2 | 56481 | [56481-stylish-sprint-2.json](./56481-stylish-sprint-2.json) |
@@ -5969,6 +5974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
 | Sudoku Man - Number Puzzle | 102769 | [102769-sudoku-man-number-puzzle.json](./102769-sudoku-man-number-puzzle.json) |
+| Sudoku Mania | 47950 | [47950-sudoku-mania.json](./47950-sudoku-mania.json) |
 | Sudoku Mania! | 208362 | [208362-sudoku-mania.json](./208362-sudoku-mania.json) |
 | Sudoku Mansion | 414326 | [414326-sudoku-mansion.json](./414326-sudoku-mansion.json) |
 | Sudoku Master | 147968 | [147968-sudoku-master.json](./147968-sudoku-master.json) |
@@ -6303,6 +6309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
 | Super Final Strike | 255736 | [255736-super-final-strike.json](./255736-super-final-strike.json) |
 | Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
+| Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
