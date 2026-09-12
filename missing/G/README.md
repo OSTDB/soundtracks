@@ -2167,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunShy | 229376 | [229376-gunshy.json](./229376-gunshy.json) |
 | Gunsim | 327208 | [327208-gunsim.json](./327208-gunsim.json) |
 | Gunslinger | 81337 | [81337-gunslinger.json](./81337-gunslinger.json) |
+| Gunslinger Collection | 37120 | [37120-gunslinger-collection.json](./37120-gunslinger-collection.json) |
 | Gunslinger Girl Volume I | 43268 | [43268-gunslinger-girl-volume-i.json](./43268-gunslinger-girl-volume-i.json) |
 | Gunslinger Girl Volume III | 252375 | [252375-gunslinger-girl-volume-iii.json](./252375-gunslinger-girl-volume-iii.json) |
 | Gunslinger Trainer | 33158 | [33158-gunslinger-trainer.json](./33158-gunslinger-trainer.json) |
