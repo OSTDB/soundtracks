@@ -439,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanigawa Kouji no Shogi Shinan II: Meijin he no Michi | 41382 | [41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json](./41382-tanigawa-kouji-no-shogi-shinan-ii-meijin-he-no-michi.json) |
 | TaniNani | 127185 | [127185-taninani.json](./127185-taninani.json) |
 | Tanjas Sudoku | 101508 | [101508-tanjas-sudoku.json](./101508-tanjas-sudoku.json) |
+| Tanjou Debut | 41997 | [41997-tanjou-debut.json](./41997-tanjou-debut.json) |
 | Tank Army Battle Simulator | 102734 | [102734-tank-army-battle-simulator.json](./102734-tank-army-battle-simulator.json) |
 | Tank Army: Fast Fingers Shmup | 175366 | [175366-tank-army-fast-fingers-shmup.json](./175366-tank-army-fast-fingers-shmup.json) |
 | Tank Attack | 273913 | [273913-tank-attack.json](./273913-tank-attack.json) |
@@ -1506,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cell | 326947 | [326947-the-cell.json](./326947-the-cell.json) |
 | The Cellar Door | 62708 | [62708-the-cellar-door.json](./62708-the-cellar-door.json) |
 | The Cells | 110998 | [110998-the-cells.json](./110998-the-cells.json) |
+| The Cerberus Project | 41932 | [41932-the-cerberus-project.json](./41932-the-cerberus-project.json) |
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
@@ -4506,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Fighter 1931: Tora!Tora!Tora! MP077 | 189616 | [189616-tiger-fighter-1931-tora-tora-tora-mp077.json](./189616-tiger-fighter-1931-tora-tora-tora-mp077.json) |
 | Tiger Fighter 1931: Tora!Tora!Tora! MP078 | 189619 | [189619-tiger-fighter-1931-tora-tora-tora-mp078.json](./189619-tiger-fighter-1931-tora-tora-tora-mp078.json) |
 | Tiger Fighter 1931: Tora!Tora!Tora! MP087 | 189630 | [189630-tiger-fighter-1931-tora-tora-tora-mp087.json](./189630-tiger-fighter-1931-tora-tora-tora-mp087.json) |
+| Tiger Hunt | 41977 | [41977-tiger-hunt.json](./41977-tiger-hunt.json) |
 | Tiger Hunt | 68695 | [68695-tiger-hunt.json](./68695-tiger-hunt.json) |
 | Tiger Knight | 137043 | [137043-tiger-knight.json](./137043-tiger-knight.json) |
 | Tiger Knight: Battle Royale | 167209 | [167209-tiger-knight-battle-royale.json](./167209-tiger-knight-battle-royale.json) |
@@ -6202,6 +6205,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Junction | 335859 | [335859-travel-junction.json](./335859-travel-junction.json) |
 | Travel Mosaics 3: Tokyo Animated | 134058 | [134058-travel-mosaics-3-tokyo-animated.json](./134058-travel-mosaics-3-tokyo-animated.json) |
 | Travel Riddles: Mahjong | 106588 | [106588-travel-riddles-mahjong.json](./106588-travel-riddles-mahjong.json) |
+| Travel Riddles: Trip to France | 41937 | [41937-travel-riddles-trip-to-france.json](./41937-travel-riddles-trip-to-france.json) |
+| Travel Riddles: Trip to Italy | 41938 | [41938-travel-riddles-trip-to-italy.json](./41938-travel-riddles-trip-to-italy.json) |
 | Travel to GolemPark | 199100 | [199100-travel-to-golempark.json](./199100-travel-to-golempark.json) |
 | Traveler's Bastion | 234936 | [234936-travelers-bastion.json](./234936-travelers-bastion.json) |
 | Traveler's Refrain | 287784 | [287784-travelers-refrain.json](./287784-travelers-refrain.json) |
@@ -6415,6 +6420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
 | Trivia Crack Explorer | 208369 | [208369-trivia-crack-explorer.json](./208369-trivia-crack-explorer.json) |
 | Trivia for Dummies | 187456 | [187456-trivia-for-dummies.json](./187456-trivia-for-dummies.json) |
+| Trivia Night | 41955 | [41955-trivia-night.json](./41955-trivia-night.json) |
 | Trivia Party | 195270 | [195270-trivia-party.json](./195270-trivia-party.json) |
 | Trivia Quest | 256860 | [256860-trivia-quest.json](./256860-trivia-quest.json) |
 | Trivia Replacement Questions | 87219 | [87219-trivia-replacement-questions.json](./87219-trivia-replacement-questions.json) |
@@ -6642,6 +6648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
 | Tunnel Ball 3D | 257362 | [257362-tunnel-ball-3d.json](./257362-tunnel-ball-3d.json) |
+| Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnels of Terror! | 260986 | [260986-tunnels-of-terror.json](./260986-tunnels-of-terror.json) |
 | TunnelWorm | 87108 | [87108-tunnelworm.json](./87108-tunnelworm.json) |
