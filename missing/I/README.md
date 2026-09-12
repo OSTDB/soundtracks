@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Incline | 296919 | [296919-icy-incline.json](./296919-icy-incline.json) |
 | Icy Tower | 18095 | [18095-icy-tower.json](./18095-icy-tower.json) |
 | Icy Tower 2 | 326628 | [326628-icy-tower-2.json](./326628-icy-tower-2.json) |
+| ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
 | Ideabox | 125953 | [125953-ideabox.json](./125953-ideabox.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
 | Identikit | 210062 | [210062-identikit.json](./210062-identikit.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Incantation | 236854 | [236854-infinite-incantation.json](./236854-infinite-incantation.json) |
 | Infinite Jigsaw Puzzle | 94222 | [94222-infinite-jigsaw-puzzle.json](./94222-infinite-jigsaw-puzzle.json) |
+| Infinite Jigsaw Puzzle Pack | 78010 | [78010-infinite-jigsaw-puzzle-pack.json](./78010-infinite-jigsaw-puzzle-pack.json) |
 | Infinite Jonathans | 125416 | [125416-infinite-jonathans.json](./125416-infinite-jonathans.json) |
 | Infinite Knights | 256523 | [256523-infinite-knights.json](./256523-infinite-knights.json) |
 | Infinite Legend | 102755 | [102755-infinite-legend.json](./102755-infinite-legend.json) |
