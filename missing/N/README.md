@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
 | Ngolf: Platinum Edition | 317247 | [317247-ngolf-platinum-edition.json](./317247-ngolf-platinum-edition.json) |
 | Ngolf: Premium Edition | 308791 | [308791-ngolf-premium-edition.json](./308791-ngolf-premium-edition.json) |
+| NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
 | NHK Kouhaku Quiz Kassen | 67280 | [67280-nhk-kouhaku-quiz-kassen.json](./67280-nhk-kouhaku-quiz-kassen.json) |
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
