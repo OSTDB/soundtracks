@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Simulator: Module - Rails of Lotus | 167757 | [167757-lotus-simulator-module-rails-of-lotus.json](./167757-lotus-simulator-module-rails-of-lotus.json) |
 | Lotus Simulator: Module - Streets of Lotus | 167756 | [167756-lotus-simulator-module-streets-of-lotus.json](./167756-lotus-simulator-module-streets-of-lotus.json) |
 | Lotus Simulator: München Tram | 167755 | [167755-lotus-simulator-munchen-tram.json](./167755-lotus-simulator-munchen-tram.json) |
+| Loud or Quiet | 74341 | [74341-loud-or-quiet.json](./74341-loud-or-quiet.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
 | Love 2 Torokko | 143667 | [143667-love-2-torokko.json](./143667-love-2-torokko.json) |
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
