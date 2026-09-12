@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
 | Blob Wars: Metal Blob Solid | 178552 | [178552-blob-wars-metal-blob-solid.json](./178552-blob-wars-metal-blob-solid.json) |
 | Blob's Adventure | 344389 | [344389-blobs-adventure.json](./344389-blobs-adventure.json) |
+| Blob's Boxes | 57082 | [57082-blobs-boxes.json](./57082-blobs-boxes.json) |
 | Bloba's Adventure | 251849 | [251849-blobas-adventure.json](./251849-blobas-adventure.json) |
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
+| Bonk.io | 57077 | [57077-bonk-io.json](./57077-bonk-io.json) |
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
@@ -2718,6 +2720,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | Bounty of One: Panic in the Mines | 321957 | [321957-bounty-of-one-panic-in-the-mines.json](./321957-bounty-of-one-panic-in-the-mines.json) |
 | Bounty Sword | 38351 | [38351-bounty-sword.json](./38351-bounty-sword.json) |
+| Bounty Sword First | 57059 | [57059-bounty-sword-first.json](./57059-bounty-sword-first.json) |
+| Bounty Sword: Double Edge | 57057 | [57057-bounty-sword-double-edge.json](./57057-bounty-sword-double-edge.json) |
 | Bounty Train | 11802 | [11802-bounty-train.json](./11802-bounty-train.json) |
 | BountyHeart | 213641 | [213641-bountyheart.json](./213641-bountyheart.json) |
 | Bourbon Empire | 217320 | [217320-bourbon-empire.json](./217320-bourbon-empire.json) |
