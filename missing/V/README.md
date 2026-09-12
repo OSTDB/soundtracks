@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volfoss | 66699 | [66699-volfoss.json](./66699-volfoss.json) |
 | Volley & Tennis Bundle Blast | 196812 | [196812-volley-and-tennis-bundle-blast.json](./196812-volley-and-tennis-bundle-blast.json) |
 | Volleyball Trainer: The Legend of Sports | 224211 | [224211-volleyball-trainer-the-legend-of-sports.json](./224211-volleyball-trainer-the-legend-of-sports.json) |
+| Volleyfire | 66618 | [66618-volleyfire.json](./66618-volleyfire.json) |
 | Volly | 130859 | [130859-volly.json](./130859-volly.json) |
 | Volo Airsport | 17957 | [17957-volo-airsport.json](./17957-volo-airsport.json) |
 | Volontés | 347170 | [347170-volontes.json](./347170-volontes.json) |
