@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T03:48:52.212Z",
-  "total_missing": 60454,
+  "generated_at": "2026-09-12T03:51:28.307Z",
+  "total_missing": 60453,
   "games": [
     {
       "igdb_id": 306086,
@@ -2636,11 +2636,6 @@
       "igdb_id": 151184,
       "game_name": "A Walk With Yiayia",
       "file": "missing/A/151184-a-walk-with-yiayia.json"
-    },
-    {
-      "igdb_id": 326632,
-      "game_name": "A War On Christmas 3: World War C",
-      "file": "missing/A/326632-a-war-on-christmas-3-world-war-c.json"
     },
     {
       "igdb_id": 151192,
