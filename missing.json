@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T08:18:59.293Z",
-  "total_missing": 61218,
+  "generated_at": "2026-09-12T08:21:35.868Z",
+  "total_missing": 61217,
   "games": [
     {
       "igdb_id": 306086,
@@ -2771,11 +2771,6 @@
       "igdb_id": 295781,
       "game_name": "Abandoned",
       "file": "missing/A/295781-abandoned.json"
-    },
-    {
-      "igdb_id": 316439,
-      "game_name": "Abandoned City",
-      "file": "missing/A/316439-abandoned-city.json"
     },
     {
       "igdb_id": 164513,
