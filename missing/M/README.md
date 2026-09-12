@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.S. Salmon | 211236 | [211236-m-s-salmon.json](./211236-m-s-salmon.json) |
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
+| M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
 | M00m World | 323761 | [323761-m00m-world.json](./323761-m00m-world.json) |
 | M13n: Miniaturization | 336544 | [336544-m13n-miniaturization.json](./336544-m13n-miniaturization.json) |
@@ -1084,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Ventures 2 | 234628 | [234628-match-ventures-2.json](./234628-match-ventures-2.json) |
 | Match War | 258710 | [258710-match-war.json](./258710-match-war.json) |
 | Matchbox Missions: Air, Land and Sea Rescue / Emergency Response | 137696 | [137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json](./137696-matchbox-missions-air-land-and-sea-rescue-emergency-response.json) |
+| Matchbox: Cross Town Heroes | 49329 | [49329-matchbox-cross-town-heroes.json](./49329-matchbox-cross-town-heroes.json) |
 | Matchbox: Emergency Patrol | 49963 | [49963-matchbox-emergency-patrol.json](./49963-matchbox-emergency-patrol.json) |
 | Matched | 253009 | [253009-matched.json](./253009-matched.json) |
 | Matches Puzzle Game | 117754 | [117754-matches-puzzle-game.json](./117754-matches-puzzle-game.json) |
@@ -1187,6 +1189,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
 | May I Take Your Order? | 123025 | [123025-may-i-take-your-order.json](./123025-may-i-take-your-order.json) |
 | Maya Adventure | 235232 | [235232-maya-adventure.json](./235232-maya-adventure.json) |
+| Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
+| Maya the Bee: The Great Adventure | 49327 | [49327-maya-the-bee-the-great-adventure.json](./49327-maya-the-bee-the-great-adventure.json) |
 | Maya: Cats of Istanbul | 332975 | [332975-maya-cats-of-istanbul.json](./332975-maya-cats-of-istanbul.json) |
 | Maya's Dice | 179207 | [179207-mayas-dice.json](./179207-mayas-dice.json) |
 | Maya's Dream | 236508 | [236508-mayas-dream.json](./236508-mayas-dream.json) |
@@ -2770,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam | 132794 | [132794-mobile-suit-gundam.json](./132794-mobile-suit-gundam.json) |
 | Mobile Suit Gundam Extreme Versus 2 Cross Boost | 265951 | [265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json](./265951-mobile-suit-gundam-extreme-versus-2-cross-boost.json) |
 | Mobile Suit Gundam Federation vs. Zeon | 43311 | [43311-mobile-suit-gundam-federation-vs-zeon.json](./43311-mobile-suit-gundam-federation-vs-zeon.json) |
+| Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono | 66077 | [66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json](./66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json) |
 | Mobile Suit Gundam Side Story III: Sabakareshi Mono | 66076 | [66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json](./66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json) |
 | Mobile Suit Gundam Side Story: The Blue Destiny | 66078 | [66078-mobile-suit-gundam-side-story-the-blue-destiny.json](./66078-mobile-suit-gundam-side-story-the-blue-destiny.json) |
@@ -3186,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
 | Monster: Titan's Playground | 302927 | [302927-monster-titans-playground.json](./302927-monster-titans-playground.json) |
+| Monster! Bass Fishing | 49324 | [49324-monster-bass-fishing.json](./49324-monster-bass-fishing.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
 | Monsterburg | 305790 | [305790-monsterburg.json](./305790-monsterburg.json) |
 | MonsterCrafter | 89202 | [89202-monstercrafter.json](./89202-monstercrafter.json) |
@@ -3789,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Mung Daal Odyssey | 326589 | [326589-mung-daal-odyssey.json](./326589-mung-daal-odyssey.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
+| Muppet Pinball Mayhem | 49322 | [49322-muppet-pinball-mayhem.json](./49322-muppet-pinball-mayhem.json) |
 | Muppet RaceMania | 3259 | [3259-muppet-racemania.json](./3259-muppet-racemania.json) |
 | Muppet Studios Presents: You're the Director | 80528 | [80528-muppet-studios-presents-youre-the-director.json](./80528-muppet-studios-presents-youre-the-director.json) |
 | Muppet Treasure Island | 71543 | [71543-muppet-treasure-island.json](./71543-muppet-treasure-island.json) |
