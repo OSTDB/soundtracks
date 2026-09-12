@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
 | Collect Call | 288764 | [288764-collect-call.json](./288764-collect-call.json) |
 | Collectamon | 262949 | [262949-collectamon.json](./262949-collectamon.json) |
+| Collectems | 61053 | [61053-collectems.json](./61053-collectems.json) |
 | Collection of Mana | 27916 | [27916-collection-of-mana.json](./27916-collection-of-mana.json) |
 | Collection of Most Awful Things that Could Ever Happen on St. Valentine's Day | 319985 | [319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json](./319985-collection-of-most-awful-things-that-could-ever-happen-on-st-valentines-day.json) |
 | Collector | 130936 | [130936-collector.json](./130936-collector.json) |
@@ -2217,6 +2218,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Hoops 2K6 | 5782 | [5782-college-hoops-2k6.json](./5782-college-hoops-2k6.json) |
 | College Kings 2: Episodes 4 & 5 "Moving Out" | 284908 | [284908-college-kings-2-episodes-4-and-5-moving-out.json](./284908-college-kings-2-episodes-4-and-5-moving-out.json) |
 | College Kings: The Complete Season | 328460 | [328460-college-kings-the-complete-season.json](./328460-college-kings-the-complete-season.json) |
+| College Lacrosse 2011 | 61039 | [61039-college-lacrosse-2011.json](./61039-college-lacrosse-2011.json) |
+| College Lacrosse 2012 | 61036 | [61036-college-lacrosse-2012.json](./61036-college-lacrosse-2012.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
