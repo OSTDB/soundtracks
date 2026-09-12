@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall-Breaking | 230838 | [230838-wall-breaking.json](./230838-wall-breaking.json) |
 | Wall-E | 220129 | [220129-wall-e.json](./220129-wall-e.json) |
 | Wall-E | 279597 | [279597-wall-e.json](./279597-wall-e.json) |
+| Wall$treet | 78664 | [78664-wall-treet.json](./78664-wall-treet.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels of Destruction | 20735 | [20735-wheels-of-destruction.json](./20735-wheels-of-destruction.json) |
 | Wheels on Fire | 78030 | [78030-wheels-on-fire.json](./78030-wheels-on-fire.json) |
 | Wheels on Impossible Ramp | 174887 | [174887-wheels-on-impossible-ramp.json](./174887-wheels-on-impossible-ramp.json) |
+| Wheels0 | 78628 | [78628-wheels0.json](./78628-wheels0.json) |
 | WheelTravel | 117039 | [117039-wheeltravel.json](./117039-wheeltravel.json) |
 | WheelTris | 250023 | [250023-wheeltris.json](./250023-wheeltris.json) |
 | Whelm | 296363 | [296363-whelm.json](./296363-whelm.json) |
@@ -1620,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Travel Solitaire | 415964 | [415964-world-travel-solitaire.json](./415964-world-travel-solitaire.json) |
 | World Traveler VR | 118990 | [118990-world-traveler-vr.json](./118990-world-traveler-vr.json) |
 | World Ultimate Mafia | 323546 | [323546-world-ultimate-mafia.json](./323546-world-ultimate-mafia.json) |
+| World War | 78611 | [78611-world-war.json](./78611-world-war.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War Alpha | 261288 | [261288-world-war-alpha.json](./261288-world-war-alpha.json) |
 | World War Battle Simulator | 220643 | [220643-world-war-battle-simulator.json](./220643-world-war-battle-simulator.json) |
