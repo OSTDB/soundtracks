@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
 | Fatal Bullet | 193946 | [193946-fatal-bullet.json](./193946-fatal-bullet.json) |
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
+| Fatal Escape | 60485 | [60485-fatal-escape.json](./60485-fatal-escape.json) |
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
 | Fatal Frame: Maiden of Black Water - Digital Deluxe Edition | 188050 | [188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json](./188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json) |
