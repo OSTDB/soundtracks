@@ -1096,6 +1096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
 | Beat Monsters | 119003 | [119003-beat-monsters.json](./119003-beat-monsters.json) |
 | Beat MP3 for YouTube | 213380 | [213380-beat-mp3-for-youtube.json](./213380-beat-mp3-for-youtube.json) |
+| Beat Nebula | 25609 | [25609-beat-nebula.json](./25609-beat-nebula.json) |
 | Beat of Rebellion | 373532 | [373532-beat-of-rebellion.json](./373532-beat-of-rebellion.json) |
 | Beat or Die: The MiniGames | 127368 | [127368-beat-or-die-the-minigames.json](./127368-beat-or-die-the-minigames.json) |
 | Beat Refle | 209689 | [209689-beat-refle.json](./209689-beat-refle.json) |
@@ -1849,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Friday: The Game | 68600 | [68600-black-friday-the-game.json](./68600-black-friday-the-game.json) |
 | Black Gold | 136436 | [136436-black-gold.json](./136436-black-gold.json) |
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
+| Black Hawk | 25711 | [25711-black-hawk.json](./25711-black-hawk.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
 | Black Jack Story | 99029 | [99029-black-jack-story.json](./99029-black-jack-story.json) |
@@ -3114,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Planet | 153368 | [153368-breakout-planet.json](./153368-breakout-planet.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
+| Breakthrough in the Ardennes | 25618 | [25618-breakthrough-in-the-ardennes.json](./25618-breakthrough-in-the-ardennes.json) |
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
 | Breaktory | 183552 | [183552-breaktory.json](./183552-breaktory.json) |
 | Breakup Squad | 243103 | [243103-breakup-squad.json](./243103-breakup-squad.json) |
@@ -3344,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
 | Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
+| Bubble Blowout | 25704 | [25704-bubble-blowout.json](./25704-bubble-blowout.json) |
 | Bubble Bobble | 332218 | [332218-bubble-bobble.json](./332218-bubble-bobble.json) |
 | Bubble Bobble | 332221 | [332221-bubble-bobble.json](./332221-bubble-bobble.json) |
 | Bubble Bobble | 332233 | [332233-bubble-bobble.json](./332233-bubble-bobble.json) |
@@ -3704,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt | 314259 | [314259-butt.json](./314259-butt.json) |
 | Butt Gunners | 392806 | [392806-butt-gunners.json](./392806-butt-gunners.json) |
 | Butt Naked & Big Guns | 158208 | [158208-butt-naked-and-big-guns.json](./158208-butt-naked-and-big-guns.json) |
+| Butt Sniffin Pugs | 25645 | [25645-butt-sniffin-pugs.json](./25645-butt-sniffin-pugs.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
 | Butterflies: Episode 1 - Rudies | 134666 | [134666-butterflies-episode-1-rudies.json](./134666-butterflies-episode-1-rudies.json) |
 | ButterFlight | 98934 | [98934-butterflight.json](./98934-butterflight.json) |
