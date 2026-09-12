@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeepney Frenzy | 176468 | [176468-jeepney-frenzy.json](./176468-jeepney-frenzy.json) |
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
 | Jeepney Simulator 2 | 292301 | [292301-jeepney-simulator-2.json](./292301-jeepney-simulator-2.json) |
+| Jeff Gordon XS Racing | 49888 | [49888-jeff-gordon-xs-racing.json](./49888-jeff-gordon-xs-racing.json) |
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
 | Jeff-16 | 150638 | [150638-jeff-16.json](./150638-jeff-16.json) |
 | JEFN | 256529 | [256529-jefn.json](./256529-jefn.json) |
@@ -386,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
 | Jim & Dill II: Bobson’s Revenge | 313150 | [313150-jim-and-dill-ii-bobson-s-revenge.json](./313150-jim-and-dill-ii-bobson-s-revenge.json) |
 | Jim & Dill: The Legend of Weed N' Stiff | 299147 | [299147-jim-and-dill-the-legend-of-weed-n-stiff.json](./299147-jim-and-dill-the-legend-of-weed-n-stiff.json) |
+| Jim Henson's Bear in the Big Blue House | 49914 | [49914-jim-hensons-bear-in-the-big-blue-house.json](./49914-jim-hensons-bear-in-the-big-blue-house.json) |
 | Jim Henson's The Muppets | 49958 | [49958-jim-hensons-the-muppets.json](./49958-jim-hensons-the-muppets.json) |
 | Jim is Moving Out! | 120433 | [120433-jim-is-moving-out.json](./120433-jim-is-moving-out.json) |
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
