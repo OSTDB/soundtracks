@@ -154,7 +154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
-| Abel: Shin Mokushiroku Taisen | 299785 | [299785-abel-shin-mokushiroku-taisen.json](./299785-abel-shin-mokushiroku-taisen.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Abglantz | 216775 | [216775-abglantz.json](./216775-abglantz.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
