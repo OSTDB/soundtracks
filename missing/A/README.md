@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
+| Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
@@ -206,7 +207,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
-| ACA Neo Geo: Sengoku | 85478 | [85478-aca-neo-geo-sengoku.json](./85478-aca-neo-geo-sengoku.json) |
 | ACA Neo Geo: Sengoku 2 | 89982 | [89982-aca-neo-geo-sengoku-2.json](./89982-aca-neo-geo-sengoku-2.json) |
 | ACA Neo Geo: Strikers 1945 Plus | 111065 | [111065-aca-neo-geo-strikers-1945-plus.json](./111065-aca-neo-geo-strikers-1945-plus.json) |
 | ACA Neo Geo: The King of Fighters '97 | 83769 | [83769-aca-neo-geo-the-king-of-fighters-97.json](./83769-aca-neo-geo-the-king-of-fighters-97.json) |
@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Priestess | 200125 | [200125-adventure-of-priestess.json](./200125-adventure-of-priestess.json) |
+| Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure Party: Cats and Caverns | 84866 | [84866-adventure-party-cats-and-caverns.json](./84866-adventure-party-cats-and-caverns.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
 | Adventure Playground | 102207 | [102207-adventure-playground.json](./102207-adventure-playground.json) |
@@ -1109,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleon's Nightmare 2 | 239663 | [239663-aleons-nightmare-2.json](./239663-aleons-nightmare-2.json) |
 | Aleph | 217851 | [217851-aleph.json](./217851-aleph.json) |
 | Aleph | 274755 | [274755-aleph.json](./274755-aleph.json) |
+| Aleph Null | 31809 | [31809-aleph-null.json](./31809-aleph-null.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
@@ -2637,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
+| Armor Clash VR | 31827 | [31827-armor-clash-vr.json](./31827-armor-clash-vr.json) |
 | Armor Command | 73843 | [73843-armor-command.json](./73843-armor-command.json) |
 | Armor Contest | 96667 | [96667-armor-contest.json](./96667-armor-contest.json) |
 | Armor Heroes | 196793 | [196793-armor-heroes.json](./196793-armor-heroes.json) |
