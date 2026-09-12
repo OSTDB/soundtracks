@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
 | Epic Blood Quest | 180185 | [180185-epic-blood-quest.json](./180185-epic-blood-quest.json) |
+| Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
 | Epic Drag Puzools | 101632 | [101632-epic-drag-puzools.json](./101632-epic-drag-puzools.json) |
 | Epic Dragons | 316063 | [316063-epic-dragons.json](./316063-epic-dragons.json) |
 | Epic Dumpster Bear | 19615 | [19615-epic-dumpster-bear.json](./19615-epic-dumpster-bear.json) |
@@ -1102,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eslander | 120993 | [120993-eslander.json](./120993-eslander.json) |
 | EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
 | ESP Ra.De. | 91379 | [91379-esp-ra-de.json](./91379-esp-ra-de.json) |
+| ESP Ra.De. Psi | 56433 | [56433-esp-ra-de-psi.json](./56433-esp-ra-de-psi.json) |
 | Espalion | 266487 | [266487-espalion.json](./266487-espalion.json) |
 | Esper | 23893 | [23893-esper.json](./23893-esper.json) |
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
