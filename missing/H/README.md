@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Wonderland Solitaire | 276200 | [276200-happy-wonderland-solitaire.json](./276200-happy-wonderland-solitaire.json) |
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
 | Happy Zone | 193937 | [193937-happy-zone.json](./193937-happy-zone.json) |
+| Happyface | 68623 | [68623-happyface.json](./68623-happyface.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
@@ -1221,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
 | Hexed Time | 356115 | [356115-hexed-time.json](./356115-hexed-time.json) |
 | Hexelectric | 119689 | [119689-hexelectric.json](./119689-hexelectric.json) |
+| Hexement | 68621 | [68621-hexement.json](./68621-hexement.json) |
 | Hexes | 147416 | [147416-hexes.json](./147416-hexes.json) |
 | Hexgarden | 415118 | [415118-hexgarden.json](./415118-hexgarden.json) |
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
