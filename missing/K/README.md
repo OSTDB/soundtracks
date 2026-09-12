@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
 | Karaoke Revolution Presents: American Idol Encore 2 | 47432 | [47432-karaoke-revolution-presents-american-idol-encore-2.json](./47432-karaoke-revolution-presents-american-idol-encore-2.json) |
 | Karaoke Revolution: Glee | 50618 | [50618-karaoke-revolution-glee.json](./50618-karaoke-revolution-glee.json) |
+| Karaoke Revolution: J-POP Best vol.2 | 73233 | [73233-karaoke-revolution-j-pop-best-vol-2.json](./73233-karaoke-revolution-j-pop-best-vol-2.json) |
 | Karaoke Studio | 79252 | [79252-karaoke-studio.json](./79252-karaoke-studio.json) |
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Arthur II: Dead Legions | 53239 | [53239-king-arthur-ii-dead-legions.json](./53239-king-arthur-ii-dead-legions.json) |
 | King Arthur: Legends Rise | 244483 | [244483-king-arthur-legends-rise.json](./244483-king-arthur-legends-rise.json) |
 | King Arthur: Legion IX | 285440 | [285440-king-arthur-legion-ix.json](./285440-king-arthur-legion-ix.json) |
+| King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
 | King Island 2 | 292534 | [292534-king-island-2.json](./292534-king-island-2.json) |
 | King James Bible DX | 358319 | [358319-king-james-bible-dx.json](./358319-king-james-bible-dx.json) |
 | King James Bible for Use on Game Boy | 79876 | [79876-king-james-bible-for-use-on-game-boy.json](./79876-king-james-bible-for-use-on-game-boy.json) |
