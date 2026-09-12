@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
 | Cannon Strike | 94171 | [94171-cannon-strike.json](./94171-cannon-strike.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
+| Cannondale Cup | 42600 | [42600-cannondale-cup.json](./42600-cannondale-cup.json) |
 | Cannot Contain | 278711 | [278711-cannot-contain.json](./278711-cannot-contain.json) |
 | CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
 | Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
@@ -307,6 +308,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
 | Capcom Puzzle World | 44503 | [44503-capcom-puzzle-world.json](./44503-capcom-puzzle-world.json) |
+| Capcom's MVP Football | 42597 | [42597-capcoms-mvp-football.json](./42597-capcoms-mvp-football.json) |
+| Capcom's Soccer Shootout | 42598 | [42598-capcoms-soccer-shootout.json](./42598-capcoms-soccer-shootout.json) |
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
 | Cape Hideous | 320532 | [320532-cape-hideous.json](./320532-cape-hideous.json) |
 | Cape's Escape Game 3rd Room | 165615 | [165615-capes-escape-game-3rd-room.json](./165615-capes-escape-game-3rd-room.json) |
@@ -2803,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
+| Corn Buster | 42565 | [42565-corn-buster.json](./42565-corn-buster.json) |
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
 | Corncob Deluxe | 94704 | [94704-corncob-deluxe.json](./94704-corncob-deluxe.json) |
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
@@ -3906,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dodge | 42054 | [42054-cyber-dodge.json](./42054-cyber-dodge.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Horror: Project S.Y.L.A. | 370110 | [370110-cyber-horror-project-s-y-l-a.json](./370110-cyber-horror-project-s-y-l-a.json) |
+| Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
 | Cyber Lust | 241988 | [241988-cyber-lust.json](./241988-cyber-lust.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Photographer | 68036 | [68036-cyber-photographer.json](./68036-cyber-photographer.json) |
@@ -3916,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Sensation: MicroLife | 351631 | [351631-cyber-sensation-microlife.json](./351631-cyber-sensation-microlife.json) |
 | Cyber Sled | 20626 | [20626-cyber-sled.json](./20626-cyber-sled.json) |
 | Cyber Soldier Sharaku | 45934 | [45934-cyber-soldier-sharaku.json](./45934-cyber-soldier-sharaku.json) |
+| Cyber Spin | 42615 | [42615-cyber-spin.json](./42615-cyber-spin.json) |
 | Cyber Strider | 248028 | [248028-cyber-strider.json](./248028-cyber-strider.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Strike | 282002 | [282002-cyber-strike.json](./282002-cyber-strike.json) |
