@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Room | 199565 | [199565-quest-room.json](./199565-quest-room.json) |
 | Quest room: Hanon | 110547 | [110547-quest-room-hanon.json](./110547-quest-room-hanon.json) |
 | Quest Together | 156696 | [156696-quest-together.json](./156696-quest-together.json) |
+| Quest: Brian's Journey | 49892 | [49892-quest-brians-journey.json](./49892-quest-brians-journey.json) |
 | Quest: Fantasy Challenge | 49950 | [49950-quest-fantasy-challenge.json](./49950-quest-fantasy-challenge.json) |
 | QuestBall | 245019 | [245019-questball.json](./245019-questball.json) |
 | Questboard | 333914 | [333914-questboard.json](./333914-questboard.json) |
