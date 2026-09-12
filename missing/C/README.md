@@ -4015,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
 | Cyberwinter | 158194 | [158194-cyberwinter.json](./158194-cyberwinter.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
+| Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
 | Cyborg-Prototype | 309646 | [309646-cyborg-prototype.json](./309646-cyborg-prototype.json) |
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
