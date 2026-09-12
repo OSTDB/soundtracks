@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoulder-Mounted Space Program | 373533 | [373533-shoulder-mounted-space-program.json](./373533-shoulder-mounted-space-program.json) |
 | Shouldermen | 293651 | [293651-shouldermen.json](./293651-shouldermen.json) |
 | Shoulders of Giants: Ultimate | 309111 | [309111-shoulders-of-giants-ultimate.json](./309111-shoulders-of-giants-ultimate.json) |
+| Shounen Ashibe: Goma-chan no Yuuenchi Daibouken | 42542 | [42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json](./42542-shounen-ashibe-goma-chan-no-yuuenchi-daibouken.json) |
 | Shounen Tantei-dan to Oka no Ue no Kimyou na Karakuri Yashiki | 251623 | [251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json](./251623-shounen-tantei-dan-to-oka-no-ue-no-kimyou-na-karakuri-yashiki.json) |
 | Shout Seven | 159245 | [159245-shout-seven.json](./159245-shout-seven.json) |
 | Shovel Knight: Dig - Fate and Fortune | 305754 | [305754-shovel-knight-dig-fate-and-fortune.json](./305754-shovel-knight-dig-fate-and-fortune.json) |
@@ -6261,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
 | Super Bomberman R Online: Premium Pack | 150653 | [150653-super-bomberman-r-online-premium-pack.json](./150653-super-bomberman-r-online-premium-pack.json) |
+| Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super Bowsette 64 | 240461 | [240461-super-bowsette-64.json](./240461-super-bowsette-64.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
@@ -6753,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Punch | 147959 | [147959-super-punch.json](./147959-super-punch.json) |
 | Super Punch-Out!! | 9152 | [9152-super-punch-out.json](./9152-super-punch-out.json) |
 | Super Putty | 39039 | [39039-super-putty.json](./39039-super-putty.json) |
+| Super Puyo Puyo Tsuu Remix | 42544 | [42544-super-puyo-puyo-tsuu-remix.json](./42544-super-puyo-puyo-tsuu-remix.json) |
 | Super Puzzle Cross | 236253 | [236253-super-puzzle-cross.json](./236253-super-puzzle-cross.json) |
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
@@ -6894,6 +6897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Visual Soccer | 125980 | [125980-super-visual-soccer.json](./125980-super-visual-soccer.json) |
 | Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
 | Super Voxel World | 176443 | [176443-super-voxel-world.json](./176443-super-voxel-world.json) |
+| Super Wagyan Land | 42539 | [42539-super-wagyan-land.json](./42539-super-wagyan-land.json) |
 | Super Wakana Land | 275567 | [275567-super-wakana-land.json](./275567-super-wakana-land.json) |
 | Super Walrus Entertainment System | 156630 | [156630-super-walrus-entertainment-system.json](./156630-super-walrus-entertainment-system.json) |
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
@@ -7138,6 +7142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Susume! Kaizoku: Be Pirates! | 200661 | [200661-susume-kaizoku-be-pirates.json](./200661-susume-kaizoku-be-pirates.json) |
+| Sutte Hakkun | 42541 | [42541-sutte-hakkun.json](./42541-sutte-hakkun.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
 | Suze Orman's Money Game | 208352 | [208352-suze-ormans-money-game.json](./208352-suze-ormans-money-game.json) |
