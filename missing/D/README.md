@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Cozmic Collection Arcade | 147940 | [147940-darius-cozmic-collection-arcade.json](./147940-darius-cozmic-collection-arcade.json) |
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
+| Dariusburst: Chronicle Saviours - Limited Edition | 44536 | [44536-dariusburst-chronicle-saviours-limited-edition.json](./44536-dariusburst-chronicle-saviours-limited-edition.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
@@ -569,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Reckoning: Last Battle | 402898 | [402898-days-of-reckoning-last-battle.json](./402898-days-of-reckoning-last-battle.json) |
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
+| Days of Thunder: NASCAR Edition | 44594 | [44594-days-of-thunder-nascar-edition.json](./44594-days-of-thunder-nascar-edition.json) |
 | Days With Girlfriends Ⅲ | 391601 | [391601-days-with-girlfriends-iii.json](./391601-days-with-girlfriends-iii.json) |
 | Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
@@ -1328,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Armor | 127217 | [127217-desert-armor.json](./127217-desert-armor.json) |
 | Desert Bus | 251590 | [251590-desert-bus.json](./251590-desert-bus.json) |
 | Desert Bus | 277307 | [277307-desert-bus.json](./277307-desert-bus.json) |
+| Desert Kingdom Portable: Limited Edition | 44510 | [44510-desert-kingdom-portable-limited-edition.json](./44510-desert-kingdom-portable-limited-edition.json) |
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
@@ -1550,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Sins of the Horadrim | 352222 | [352222-diablo-iv-sins-of-the-horadrim.json](./352222-diablo-iv-sins-of-the-horadrim.json) |
 | Diablo IV: Vessel of Hatred | 275171 | [275171-diablo-iv-vessel-of-hatred.json](./275171-diablo-iv-vessel-of-hatred.json) |
 | Diablo IV: Vessel of Hatred - Expansion Bundle | 305496 | [305496-diablo-iv-vessel-of-hatred-expansion-bundle.json](./305496-diablo-iv-vessel-of-hatred-expansion-bundle.json) |
+| Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
 | Diadem of Manstraut | 407349 | [407349-diadem-of-manstraut.json](./407349-diadem-of-manstraut.json) |
 | Diagnosis -Inma no Note- | 97381 | [97381-diagnosis-inma-no-note.json](./97381-diagnosis-inma-no-note.json) |
 | Dial-In | 195718 | [195718-dial-in.json](./195718-dial-in.json) |
@@ -2645,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario World Redrawn | 132854 | [132854-dr-mario-world-redrawn.json](./132854-dr-mario-world-redrawn.json) |
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
 | Dr. Mary | 268447 | [268447-dr-mary.json](./268447-dr-mary.json) |
+| Dr. Maybee and the Adventures of Scarygirl | 44514 | [44514-dr-maybee-and-the-adventures-of-scarygirl.json](./44514-dr-maybee-and-the-adventures-of-scarygirl.json) |
 | Dr. Neo Cortex: Inventor's Madness | 314661 | [314661-dr-neo-cortex-inventors-madness.json](./314661-dr-neo-cortex-inventors-madness.json) |
 | Dr. P | 278398 | [278398-dr-p.json](./278398-dr-p.json) |
 | Dr. Panda & Toto's Treehouse | 61050 | [61050-dr-panda-and-totos-treehouse.json](./61050-dr-panda-and-totos-treehouse.json) |
@@ -3482,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Scroll | 174314 | [174314-dungeon-scroll.json](./174314-dungeon-scroll.json) |
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
+| Dungeon Siege III: Limited Edition | 44551 | [44551-dungeon-siege-iii-limited-edition.json](./44551-dungeon-siege-iii-limited-edition.json) |
 | Dungeon Slave | 240814 | [240814-dungeon-slave.json](./240814-dungeon-slave.json) |
 | Dungeon Slayer | 194008 | [194008-dungeon-slayer.json](./194008-dungeon-slayer.json) |
 | Dungeon Slime Hero | 295808 | [295808-dungeon-slime-hero.json](./295808-dungeon-slime-hero.json) |
@@ -3640,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors Online | 72612 | [72612-dynasty-warriors-online.json](./72612-dynasty-warriors-online.json) |
 | Dynasty Warriors Online Z | 257658 | [257658-dynasty-warriors-online-z.json](./257658-dynasty-warriors-online-z.json) |
+| Dynasty Warriors: God Seekers | 44537 | [44537-dynasty-warriors-god-seekers.json](./44537-dynasty-warriors-god-seekers.json) |
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
