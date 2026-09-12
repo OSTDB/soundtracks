@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T23:48:46.437Z",
-  "total_missing": 63825,
+  "generated_at": "2026-09-12T23:51:26.270Z",
+  "total_missing": 63824,
   "games": [
     {
       "igdb_id": 306086,
@@ -3246,11 +3246,6 @@
       "igdb_id": 185077,
       "game_name": "Academy Romance 7",
       "file": "missing/A/185077-academy-romance-7.json"
-    },
-    {
-      "igdb_id": 200684,
-      "game_name": "Academy34",
-      "file": "missing/A/200684-academy34.json"
     },
     {
       "igdb_id": 209660,
