@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
 | Daydam Knight | 295794 | [295794-daydam-knight.json](./295794-daydam-knight.json) |
 | Daydream | 192955 | [192955-daydream.json](./192955-daydream.json) |
+| Daydream Blue | 34173 | [34173-daydream-blue.json](./34173-daydream-blue.json) |
 | Daydream Drifters | 395543 | [395543-daydream-drifters.json](./395543-daydream-drifters.json) |
 | Daydream Heartbeat Cure | 394853 | [394853-daydream-heartbeat-cure.json](./394853-daydream-heartbeat-cure.json) |
 | DayDream Mosaics 2: Juliette's Tale | 193506 | [193506-daydream-mosaics-2-juliettes-tale.json](./193506-daydream-mosaics-2-juliettes-tale.json) |
@@ -578,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
 | Days of Thunder: NASCAR Edition | 44594 | [44594-days-of-thunder-nascar-edition.json](./44594-days-of-thunder-nascar-edition.json) |
+| Days Under Custody | 34165 | [34165-days-under-custody.json](./34165-days-under-custody.json) |
 | Days With Girlfriends Ⅲ | 391601 | [391601-days-with-girlfriends-iii.json](./391601-days-with-girlfriends-iii.json) |
 | Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
 | Dayshift at Freddy's | 198465 | [198465-dayshift-at-freddys.json](./198465-dayshift-at-freddys.json) |
@@ -722,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Spin | 404215 | [404215-dead-spin.json](./404215-dead-spin.json) |
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
+| Dead Stop | 34298 | [34298-dead-stop.json](./34298-dead-stop.json) |
 | Dead Stride | 399626 | [399626-dead-stride.json](./399626-dead-stride.json) |
 | Dead Survival | 153979 | [153979-dead-survival.json](./153979-dead-survival.json) |
 | Dead Synchronicity: The Longest Night | 59947 | [59947-dead-synchronicity-the-longest-night.json](./59947-dead-synchronicity-the-longest-night.json) |
@@ -1164,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
 | Demigod Idle: Rise of a legend | 265426 | [265426-demigod-idle-rise-of-a-legend.json](./265426-demigod-idle-rise-of-a-legend.json) |
+| Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
@@ -3021,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Eater | 374056 | [374056-dream-eater.json](./374056-dream-eater.json) |
 | Dream Eaters.exe | 344353 | [344353-dream-eaters-exe.json](./344353-dream-eaters-exe.json) |
 | Dream Ending: Drama | 121033 | [121033-dream-ending-drama.json](./121033-dream-ending-drama.json) |
+| Dream Factory | 34319 | [34319-dream-factory.json](./34319-dream-factory.json) |
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
