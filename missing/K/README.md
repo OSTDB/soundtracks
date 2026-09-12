@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kasane Teto and Hatsune Miku are Lesbians | 333537 | [333537-kasane-teto-and-hatsune-miku-are-lesbians.json](./333537-kasane-teto-and-hatsune-miku-are-lesbians.json) |
 | Kashimashi Girl Meets Girl: Hajimete no Natsu Monogatari | 127900 | [127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json](./127900-kashimashi-girl-meets-girl-hajimete-no-natsu-monogatari.json) |
 | Kasplat | 258712 | [258712-kasplat.json](./258712-kasplat.json) |
+| Kat's Run: Zen-Nippon K-Car Senshuken | 38267 | [38267-kats-run-zen-nippon-k-car-senshuken.json](./38267-kats-run-zen-nippon-k-car-senshuken.json) |
 | Kata | 57094 | [57094-kata.json](./57094-kata.json) |
 | Katachi Shin Hakken! Rittai Picross 2 | 222535 | [222535-katachi-shin-hakken-rittai-picross-2.json](./222535-katachi-shin-hakken-rittai-picross-2.json) |
 | Katakoi Contrast: Way of Parting Vol.1 | 116380 | [116380-katakoi-contrast-way-of-parting-vol-1.json](./116380-katakoi-contrast-way-of-parting-vol-1.json) |
@@ -806,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kita e. Photo Memories | 239082 | [239082-kita-e-photo-memories.json](./239082-kita-e-photo-memories.json) |
 | Kitari and Kimoshi | 223431 | [223431-kitari-and-kimoshi.json](./223431-kitari-and-kimoshi.json) |
 | Kitaria Fables: Deluxe Edition | 166686 | [166686-kitaria-fables-deluxe-edition.json](./166686-kitaria-fables-deluxe-edition.json) |
+| Kitaria Heroes: Force Bender | 38961 | [38961-kitaria-heroes-force-bender.json](./38961-kitaria-heroes-force-bender.json) |
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
 | Kitchen Confidence | 236855 | [236855-kitchen-confidence.json](./236855-kitchen-confidence.json) |
 | Kitchen Gore | 355042 | [355042-kitchen-gore.json](./355042-kitchen-gore.json) |
