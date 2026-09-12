@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goalgetter | 159803 | [159803-goalgetter.json](./159803-goalgetter.json) |
 | Goalie VR | 67936 | [67936-goalie-vr.json](./67936-goalie-vr.json) |
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
+| goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grids of Thermometers | 296076 | [296076-grids-of-thermometers.json](./296076-grids-of-thermometers.json) |
 | Grids of World | 132269 | [132269-grids-of-world.json](./132269-grids-of-world.json) |
 | Gridtrap | 297246 | [297246-gridtrap.json](./297246-gridtrap.json) |
+| GridVR | 29780 | [29780-gridvr.json](./29780-gridvr.json) |
 | GridWars | 92989 | [92989-gridwars.json](./92989-gridwars.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
@@ -1845,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grip: Digital Deluxe | 118945 | [118945-grip-digital-deluxe.json](./118945-grip-digital-deluxe.json) |
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
 | Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
+| Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
 | Grisaia Phantom Trigger 01&02 | 147935 | [147935-grisaia-phantom-trigger-01-and-02.json](./147935-grisaia-phantom-trigger-01-and-02.json) |
 | Grisaia Phantom Trigger 5.5 to 08 | 251593 | [251593-grisaia-phantom-trigger-5-5-to-08.json](./251593-grisaia-phantom-trigger-5-5-to-08.json) |
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
