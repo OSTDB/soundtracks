@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenka Banchou Otome 2nd Rumble!! | 109571 | [109571-kenka-banchou-otome-2nd-rumble.json](./109571-kenka-banchou-otome-2nd-rumble.json) |
 | KenKen: Train Your Brain | 68022 | [68022-kenken-train-your-brain.json](./68022-kenken-train-your-brain.json) |
 | Kenny's Adventure | 268204 | [268204-kennys-adventure.json](./268204-kennys-adventure.json) |
+| Kenny's Adventure: In search of family treasures | 70352 | [70352-kennys-adventure-in-search-of-family-treasures.json](./70352-kennys-adventure-in-search-of-family-treasures.json) |
 | Kenoma: Action Without Action | 301252 | [301252-kenoma-action-without-action.json](./301252-kenoma-action-without-action.json) |
 | Kenophobia | 267103 | [267103-kenophobia.json](./267103-kenophobia.json) |
 | Kenopsia | 175387 | [175387-kenopsia.json](./175387-kenopsia.json) |
