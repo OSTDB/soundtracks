@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Do Boys Play Games? | 346579 | [346579-why-do-boys-play-games.json](./346579-why-do-boys-play-games.json) |
 | Why Don't They Laugh? | 312558 | [312558-why-dont-they-laugh.json](./312558-why-dont-they-laugh.json) |
 | Why So Evil | 9368 | [9368-why-so-evil.json](./9368-why-so-evil.json) |
+| Why So Evil 2: Dystopia | 35629 | [35629-why-so-evil-2-dystopia.json](./35629-why-so-evil-2-dystopia.json) |
 | Why? | 335243 | [335243-why.json](./335243-why.json) |
 | WhyImmortal | 289897 | [289897-whyimmortal.json](./289897-whyimmortal.json) |
 | Wi-Fi Taiou: Gensen Table Game Wii | 268206 | [268206-wi-fi-taiou-gensen-table-game-wii.json](./268206-wi-fi-taiou-gensen-table-game-wii.json) |
