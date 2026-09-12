@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Silence | 388720 | [388720-white-silence.json](./388720-white-silence.json) |
 | White Space | 60500 | [60500-white-space.json](./60500-white-space.json) |
 | White Tiles Master | 233743 | [233743-white-tiles-master.json](./233743-white-tiles-master.json) |
+| White Viper | 47239 | [47239-white-viper.json](./47239-white-viper.json) |
 | White Wall | 149582 | [149582-white-wall.json](./149582-white-wall.json) |
 | White Wolf: Treasure Hunter 2 | 273382 | [273382-white-wolf-treasure-hunter-2.json](./273382-white-wolf-treasure-hunter-2.json) |
 | WhiteJill | 355572 | [355572-whitejill.json](./355572-whitejill.json) |
