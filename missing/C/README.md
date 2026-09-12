@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Pixel: Close Quarters | 112948 | [112948-call-of-pixel-close-quarters.json](./112948-call-of-pixel-close-quarters.json) |
 | Call of Senpai: Waifu Warfare | 192379 | [192379-call-of-senpai-waifu-warfare.json](./192379-call-of-senpai-waifu-warfare.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
+| Call of the Ninja! | 35730 | [35730-call-of-the-ninja.json](./35730-call-of-the-ninja.json) |
 | Call of the Sea: Deluxe Edition | 154508 | [154508-call-of-the-sea-deluxe-edition.json](./154508-call-of-the-sea-deluxe-edition.json) |
 | Call of the Sea: Norah's Diary Edition | 170032 | [170032-call-of-the-sea-norahs-diary-edition.json](./170032-call-of-the-sea-norahs-diary-edition.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
@@ -1950,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
 | Clean Sweep | 301287 | [301287-clean-sweep.json](./301287-clean-sweep.json) |
 | Clean The Sea! | 284820 | [284820-clean-the-sea.json](./284820-clean-the-sea.json) |
+| Clean'Em Up | 35709 | [35709-cleanem-up.json](./35709-cleanem-up.json) |
 | Cleaner | 119761 | [119761-cleaner.json](./119761-cleaner.json) |
 | Cleaner Boy | 331133 | [331133-cleaner-boy.json](./331133-cleaner-boy.json) |
 | Cleaning Girls | 258174 | [258174-cleaning-girls.json](./258174-cleaning-girls.json) |
@@ -2131,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coastline | 209703 | [209703-coastline.json](./209703-coastline.json) |
 | Coastline Flight Simulator | 154006 | [154006-coastline-flight-simulator.json](./154006-coastline-flight-simulator.json) |
 | Coat of Many Feathers | 318780 | [318780-coat-of-many-feathers.json](./318780-coat-of-many-feathers.json) |
+| Coated | 35628 | [35628-coated.json](./35628-coated.json) |
 | Cobble and Trouble | 182986 | [182986-cobble-and-trouble.json](./182986-cobble-and-trouble.json) |
 | CoBots | 62707 | [62707-cobots.json](./62707-cobots.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
@@ -2510,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
 | Command: Showcase - Operation Desert Falcon | 266793 | [266793-command-showcase-operation-desert-falcon.json](./266793-command-showcase-operation-desert-falcon.json) |
 | Commander Babes | 127930 | [127930-commander-babes.json](./127930-commander-babes.json) |
+| Commander Cool 2 | 35620 | [35620-commander-cool-2.json](./35620-commander-cool-2.json) |
 | Commander in Chief: Geo-Political Simulator 2009 | 135166 | [135166-commander-in-chief-geo-political-simulator-2009.json](./135166-commander-in-chief-geo-political-simulator-2009.json) |
 | Commander Keen in Invasion of the Vorticons: Marooned on Mars | 2439 | [2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json](./2439-commander-keen-in-invasion-of-the-vorticons-marooned-on-mars.json) |
 | Commander of Battlefront | 333941 | [333941-commander-of-battlefront.json](./333941-commander-of-battlefront.json) |
@@ -3221,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy 8s Revamped | 26649 | [26649-crazy-8s-revamped.json](./26649-crazy-8s-revamped.json) |
 | Crazy Adventure Bundle | 231064 | [231064-crazy-adventure-bundle.json](./231064-crazy-adventure-bundle.json) |
 | Crazy Archery | 113696 | [113696-crazy-archery.json](./113696-crazy-archery.json) |
+| Crazy Belts | 35610 | [35610-crazy-belts.json](./35610-crazy-belts.json) |
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy Boom | 147386 | [147386-crazy-boom.json](./147386-crazy-boom.json) |
@@ -3271,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
 | Crazy Shooters 2 | 204475 | [204475-crazy-shooters-2.json](./204475-crazy-shooters-2.json) |
 | Crazy Snowboard | 87553 | [87553-crazy-snowboard.json](./87553-crazy-snowboard.json) |
+| Crazy Steam Bros 2 | 35640 | [35640-crazy-steam-bros-2.json](./35640-crazy-steam-bros-2.json) |
 | Crazy Tapper + | 175343 | [175343-crazy-tapper.json](./175343-crazy-tapper.json) |
 | Crazy Taxi | 1805 | [1805-crazy-taxi.json](./1805-crazy-taxi.json) |
 | Crazy Taxi: Fare Wars | 1809 | [1809-crazy-taxi-fare-wars.json](./1809-crazy-taxi-fare-wars.json) |
@@ -3810,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
 | Curse of Greed: Ultimate | 176973 | [176973-curse-of-greed-ultimate.json](./176973-curse-of-greed-ultimate.json) |
 | Curse of Issyos | 137101 | [137101-curse-of-issyos.json](./137101-curse-of-issyos.json) |
+| Curse of Mermos | 35678 | [35678-curse-of-mermos.json](./35678-curse-of-mermos.json) |
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
 | Curse of the Draugr Kings | 244767 | [244767-curse-of-the-draugr-kings.json](./244767-curse-of-the-draugr-kings.json) |
