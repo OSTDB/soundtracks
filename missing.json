@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T04:04:04.147Z",
-  "total_missing": 60502,
+  "generated_at": "2026-09-12T04:11:31.548Z",
+  "total_missing": 60501,
   "games": [
     {
       "igdb_id": 306086,
@@ -2646,11 +2646,6 @@
       "igdb_id": 159854,
       "game_name": "A Way to Die",
       "file": "missing/A/159854-a-way-to-die.json"
-    },
-    {
-      "igdb_id": 303234,
-      "game_name": "A Way Up",
-      "file": "missing/A/303234-a-way-up.json"
     },
     {
       "igdb_id": 115617,
