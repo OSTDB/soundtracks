@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P World | 332449 | [332449-p-world.json](./332449-p-world.json) |
 | P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
+| P.A.W.S.: Personal Automated Wagging System | 46573 | [46573-p-a-w-s-personal-automated-wagging-system.json](./46573-p-a-w-s-personal-automated-wagging-system.json) |
 | P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
 | P.S.Rose | 202318 | [202318-p-s-rose.json](./202318-p-s-rose.json) |
@@ -43,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man: Ticket Mania | 146284 | [146284-pac-man-ticket-mania.json](./146284-pac-man-ticket-mania.json) |
 | Pac-Mania | 284365 | [284365-pac-mania.json](./284365-pac-mania.json) |
 | Pac-Mondrian | 174791 | [174791-pac-mondrian.json](./174791-pac-mondrian.json) |
+| Pac-Panic | 46572 | [46572-pac-panic.json](./46572-pac-panic.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | PacaPomo | 310189 | [310189-pacapomo.json](./310189-pacapomo.json) |
@@ -127,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
 | Paint Rider | 179187 | [179187-paint-rider.json](./179187-paint-rider.json) |
 | Paint School | 139374 | [139374-paint-school.json](./139374-paint-school.json) |
+| Paint School II | 46571 | [46571-paint-school-ii.json](./46571-paint-school-ii.json) |
 | Paint Shape Girl | 87131 | [87131-paint-shape-girl.json](./87131-paint-shape-girl.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paintball 3: Candy Match Factory | 270960 | [270960-paintball-3-candy-match-factory.json](./270960-paintball-3-candy-match-factory.json) |
@@ -1225,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece of Mind | 143649 | [143649-piece-of-mind.json](./143649-piece-of-mind.json) |
 | Piece of Wonder | 72669 | [72669-piece-of-wonder.json](./72669-piece-of-wonder.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
+| Pieces | 46587 | [46587-pieces.json](./46587-pieces.json) |
 | Pieces of Beauty 2 | 190173 | [190173-pieces-of-beauty-2.json](./190173-pieces-of-beauty-2.json) |
 | Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
@@ -1907,6 +1911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder | 113748 | [113748-plunder.json](./113748-plunder.json) |
 | Plunder Squad | 107797 | [107797-plunder-squad.json](./107797-plunder-squad.json) |
 | Plunder: Scourge of the Sea | 260658 | [260658-plunder-scourge-of-the-sea.json](./260658-plunder-scourge-of-the-sea.json) |
+| Plunderball | 46570 | [46570-plunderball.json](./46570-plunderball.json) |
 | Plunderers Adventures: Sea of Whores | 147412 | [147412-plunderers-adventures-sea-of-whores.json](./147412-plunderers-adventures-sea-of-whores.json) |
 | Plunge | 78780 | [78780-plunge.json](./78780-plunge.json) |
 | Plunger Boyz | 190148 | [190148-plunger-boyz.json](./190148-plunger-boyz.json) |
@@ -1950,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Hero-Wars of Mini Tanks | 105906 | [105906-pocket-hero-wars-of-mini-tanks.json](./105906-pocket-hero-wars-of-mini-tanks.json) |
 | Pocket Hunter Origins | 174870 | [174870-pocket-hunter-origins.json](./174870-pocket-hunter-origins.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
+| Pocket Jansou | 46603 | [46603-pocket-jansou.json](./46603-pocket-jansou.json) |
 | Pocket Kite | 200183 | [200183-pocket-kite.json](./200183-pocket-kite.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Love | 63334 | [63334-pocket-love.json](./63334-pocket-love.json) |
@@ -3089,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
+| Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
 | Prophecy | 133435 | [133435-prophecy.json](./133435-prophecy.json) |
 | Prophecy of the Nun | 165657 | [165657-prophecy-of-the-nun.json](./165657-prophecy-of-the-nun.json) |
 | ProSoccer 2190 | 138723 | [138723-prosoccer-2190.json](./138723-prosoccer-2190.json) |
@@ -3521,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyramania | 379901 | [379901-pyramania.json](./379901-pyramania.json) |
 | Pyrami Head | 250967 | [250967-pyrami-head.json](./250967-pyrami-head.json) |
+| Pyramid Adventures | 46569 | [46569-pyramid-adventures.json](./46569-pyramid-adventures.json) |
 | Pyramid Bloxx | 194657 | [194657-pyramid-bloxx.json](./194657-pyramid-bloxx.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
