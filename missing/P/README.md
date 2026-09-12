@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Nastalgia | 277034 | [277034-pure-nastalgia.json](./277034-pure-nastalgia.json) |
 | Pure Pinball 2.0 Redux | 51881 | [51881-pure-pinball-2-0-redux.json](./51881-pure-pinball-2-0-redux.json) |
 | Pure Song Garden! | 194575 | [194575-pure-song-garden.json](./194575-pure-song-garden.json) |
+| Pure Stat College Basketball | 47212 | [47212-pure-stat-college-basketball.json](./47212-pure-stat-college-basketball.json) |
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
