@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalaCollider | 58770 | [58770-galacollider.json](./58770-galacollider.json) |
 | Galactea | 310973 | [310973-galactea.json](./310973-galactea.json) |
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
+| Galactic Attack | 24897 | [24897-galactic-attack.json](./24897-galactic-attack.json) |
 | Galactic Attack | 81439 | [81439-galactic-attack.json](./81439-galactic-attack.json) |
 | Galactic Bar Fight VR | 198447 | [198447-galactic-bar-fight-vr.json](./198447-galactic-bar-fight-vr.json) |
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
@@ -2241,6 +2242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
 | Gyossait: Deluxe Edition | 134001 | [134001-gyossait-deluxe-edition.json](./134001-gyossait-deluxe-edition.json) |
 | Gyousatsu! Spirits: Final Version | 137598 | [137598-gyousatsu-spirits-final-version.json](./137598-gyousatsu-spirits-final-version.json) |
+| Gypsy | 24900 | [24900-gypsy.json](./24900-gypsy.json) |
 | Gyras: Rogue | 305540 | [305540-gyras-rogue.json](./305540-gyras-rogue.json) |
 | Gyro Gear Tournament+ | 211733 | [211733-gyro-gear-tournament.json](./211733-gyro-gear-tournament.json) |
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
