@@ -1134,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
+| Hero Barrier | 29747 | [29747-hero-barrier.json](./29747-hero-barrier.json) |
 | Hero Battle | 33001 | [33001-hero-battle.json](./33001-hero-battle.json) |
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
