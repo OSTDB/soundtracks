@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GAI Stops Auto: Right Version Simulator | 157125 | [157125-gai-stops-auto-right-version-simulator.json](./157125-gai-stops-auto-right-version-simulator.json) |
 | Gaia 2200 | 50530 | [50530-gaia-2200.json](./50530-gaia-2200.json) |
 | Gaia Attack 4 | 64962 | [64962-gaia-attack-4.json](./64962-gaia-attack-4.json) |
+| Gaia Crusaders | 39550 | [39550-gaia-crusaders.json](./39550-gaia-crusaders.json) |
 | Gaia Trek | 248039 | [248039-gaia-trek.json](./248039-gaia-trek.json) |
 | Gaia-ttack | 330159 | [330159-gaia-ttack.json](./330159-gaia-ttack.json) |
 | Gaia's Blessing | 278735 | [278735-gaias-blessing.json](./278735-gaias-blessing.json) |
@@ -1065,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
+| Goal! Goal! Goal! | 39549 | [39549-goal-goal-goal.json](./39549-goal-goal-goal.json) |
 | Goal!! | 196270 | [196270-goal.json](./196270-goal.json) |
 | Goalgetter | 159803 | [159803-goalgetter.json](./159803-goalgetter.json) |
 | Goalie VR | 67936 | [67936-goalie-vr.json](./67936-goalie-vr.json) |
@@ -1448,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotta Protectors: Cart of Darkness | 196318 | [196318-gotta-protectors-cart-of-darkness.json](./196318-gotta-protectors-cart-of-darkness.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
+| Gouketsuji Ichizoku 2: Chottodake Saikyou Densetsu | 39573 | [39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json](./39573-gouketsuji-ichizoku-2-chottodake-saikyou-densetsu.json) |
 | Gourgarion Incubus | 398348 | [398348-gourgarion-incubus.json](./398348-gourgarion-incubus.json) |
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
 | Gourmet Warriors | 42592 | [42592-gourmet-warriors.json](./42592-gourmet-warriors.json) |
