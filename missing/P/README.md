@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patrick | 135836 | [135836-patrick.json](./135836-patrick.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
 | Patriots by John Dondzila | 84155 | [84155-patriots-by-john-dondzila.json](./84155-patriots-by-john-dondzila.json) |
+| Patriots Remix | 37704 | [37704-patriots-remix.json](./37704-patriots-remix.json) |
 | Patrol no Gunji Hakubutsukan 3: Chouzetsu Muteki Kyuukyoku Heiki | 284347 | [284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json](./284347-patrol-no-gunji-hakubutsukan-3-chouzetsu-muteki-kyuukyoku-heiki.json) |
 | Patrol Police: Job Simulator | 223984 | [223984-patrol-police-job-simulator.json](./223984-patrol-police-job-simulator.json) |
 | Patrolling the Highway | 359409 | [359409-patrolling-the-highway.json](./359409-patrolling-the-highway.json) |
@@ -718,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Fútbol 7 | 98942 | [98942-pc-futbol-7.json](./98942-pc-futbol-7.json) |
 | PC Fútbol Edición Oro | 86018 | [86018-pc-futbol-edicion-oro.json](./86018-pc-futbol-edicion-oro.json) |
 | PC Fútbol Selección Española Europa 2000 | 98953 | [98953-pc-futbol-seleccion-espanola-europa-2000.json](./98953-pc-futbol-seleccion-espanola-europa-2000.json) |
+| PC Kid 3 | 37721 | [37721-pc-kid-3.json](./37721-pc-kid-3.json) |
 | PC Pool | 86039 | [86039-pc-pool.json](./86039-pc-pool.json) |
 | PC Selección Española de Fútbol Eurocopa '96 | 84224 | [84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json](./84224-pc-seleccion-espanola-de-futbol-eurocopa-96.json) |
 | PC Versus | 391571 | [391571-pc-versus.json](./391571-pc-versus.json) |
