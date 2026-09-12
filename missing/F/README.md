@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
+| F1 2000 | 45305 | [45305-f1-2000.json](./45305-f1-2000.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
@@ -878,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
 | Fighters' Glory | 129700 | [129700-fighters-glory.json](./129700-fighters-glory.json) |
 | Fighting Box | 68657 | [68657-fighting-box.json](./68657-fighting-box.json) |
+| Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
 | Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
