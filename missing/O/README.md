@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old World: Heroes of the Aegean | 199580 | [199580-old-world-heroes-of-the-aegean.json](./199580-old-world-heroes-of-the-aegean.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
 | Oldfartenstein 3D | 255375 | [255375-oldfartenstein-3d.json](./255375-oldfartenstein-3d.json) |
+| Oldorf's Revenge | 24847 | [24847-oldorfs-revenge.json](./24847-oldorfs-revenge.json) |
 | Oldowan | 211222 | [211222-oldowan.json](./211222-oldowan.json) |
 | oldTail | 98990 | [98990-oldtail.json](./98990-oldtail.json) |
 | OldTV | 80544 | [80544-oldtv.json](./80544-oldtv.json) |
