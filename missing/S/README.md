@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidekick High | 185070 | [185070-sidekick-high.json](./185070-sidekick-high.json) |
 | Sidelined Futures | 308540 | [308540-sidelined-futures.json](./308540-sidelined-futures.json) |
 | SideQuest Hunters | 360017 | [360017-sidequest-hunters.json](./360017-sidequest-hunters.json) |
+| SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
 | Sidewinder | 159249 | [159249-sidewinder.json](./159249-sidewinder.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
@@ -2195,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simstory: Live As You Wish | 101573 | [101573-simstory-live-as-you-wish.json](./101573-simstory-live-as-you-wish.json) |
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | Simulacro | 344363 | [344363-simulacro.json](./344363-simulacro.json) |
+| Simulador Profesional de Fútbol | 70334 | [70334-simulador-profesional-de-futbol.json](./70334-simulador-profesional-de-futbol.json) |
 | SimuLadron | 381630 | [381630-simuladron.json](./381630-simuladron.json) |
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
 | Simulation 9 | 408733 | [408733-simulation-9.json](./408733-simulation-9.json) |
@@ -2794,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile For Me: Collector's Edition | 229691 | [229691-smile-for-me-collectors-edition.json](./229691-smile-for-me-collectors-edition.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
+| SmileTris 3 | 70329 | [70329-smiletris-3.json](./70329-smiletris-3.json) |
 | Smiley's Revenge | 140533 | [140533-smileys-revenge.json](./140533-smileys-revenge.json) |
 | Smileys War | 234901 | [234901-smileys-war.json](./234901-smileys-war.json) |
 | Smilinguido: Desafio na Floresta | 183610 | [183610-smilinguido-desafio-na-floresta.json](./183610-smilinguido-desafio-na-floresta.json) |
@@ -4285,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
 | Spies & Soldiers | 132796 | [132796-spies-and-soldiers.json](./132796-spies-and-soldiers.json) |
+| Spike | 70349 | [70349-spike.json](./70349-spike.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
 | Spikey Walls | 59445 | [59445-spikey-walls.json](./59445-spikey-walls.json) |
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
@@ -4426,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Typing: The Ghost Plague | 178097 | [178097-spooky-typing-the-ghost-plague.json](./178097-spooky-typing-the-ghost-plague.json) |
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spoons Card Game | 102740 | [102740-spoons-card-game.json](./102740-spoons-card-game.json) |
+| Spoons III | 70369 | [70369-spoons-iii.json](./70369-spoons-iii.json) |
 | Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
 | Spore: Galactic Edition | 46617 | [46617-spore-galactic-edition.json](./46617-spore-galactic-edition.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
@@ -4788,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
+| Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
 | Star Trek: En Territoire Alien | 110351 | [110351-star-trek-en-territoire-alien.json](./110351-star-trek-en-territoire-alien.json) |
 | Star Trek: Generations - Beyond the Nexus | 365692 | [365692-star-trek-generations-beyond-the-nexus.json](./365692-star-trek-generations-beyond-the-nexus.json) |
 | Star Trek: Judgment Rites | 2229 | [2229-star-trek-judgment-rites.json](./2229-star-trek-judgment-rites.json) |
@@ -5990,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
 | Super Breakout Ultra | 64401 | [64401-super-breakout-ultra.json](./64401-super-breakout-ultra.json) |
 | Super Brothers Escape | 213384 | [213384-super-brothers-escape.json](./213384-super-brothers-escape.json) |
+| Super Bubble Bobble | 70327 | [70327-super-bubble-bobble.json](./70327-super-bubble-bobble.json) |
 | Super Bullet Break | 196819 | [196819-super-bullet-break.json](./196819-super-bullet-break.json) |
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
 | Super Cabbage Kabumi | 352187 | [352187-super-cabbage-kabumi.json](./352187-super-cabbage-kabumi.json) |
@@ -6540,6 +6547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Soccer Jump | 103410 | [103410-super-soccer-jump.json](./103410-super-soccer-jump.json) |
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
 | Super Solvers: Midnight Rescue! | 46646 | [46646-super-solvers-midnight-rescue.json](./46646-super-solvers-midnight-rescue.json) |
+| Super Solvers: Treasure Mountain! | 70340 | [70340-super-solvers-treasure-mountain.json](./70340-super-solvers-treasure-mountain.json) |
 | Super Sonic Cooking | 336357 | [336357-super-sonic-cooking.json](./336357-super-sonic-cooking.json) |
 | Super Sonic in Sonic 3D | 198546 | [198546-super-sonic-in-sonic-3d.json](./198546-super-sonic-in-sonic-3d.json) |
 | Super Sonic in Sonic the Hedgehog | 198527 | [198527-super-sonic-in-sonic-the-hedgehog.json](./198527-super-sonic-in-sonic-the-hedgehog.json) |
