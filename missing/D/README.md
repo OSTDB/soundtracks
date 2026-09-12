@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C. II ~Da Capo II~ | 61641 | [61641-d-c-ii-da-capo-ii.json](./61641-d-c-ii-da-capo-ii.json) |
 | D.C.K.: Dock Chess King | 244251 | [244251-d-c-k-dock-chess-king.json](./244251-d-c-k-dock-chess-king.json) |
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
+| D.F.R.: The Light | 75801 | [75801-d-f-r-the-light.json](./75801-d-f-r-the-light.json) |
 | D.H.Trouble Guy | 117067 | [117067-d-h-trouble-guy.json](./117067-d-h-trouble-guy.json) |
 | D.H.Zombie Zone | 117693 | [117693-d-h-zombie-zone.json](./117693-d-h-zombie-zone.json) |
 | D.N.A. | 137022 | [137022-d-n-a.json](./137022-d-n-a.json) |
@@ -396,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
+| Darkroom 2 | 75769 | [75769-darkroom-2.json](./75769-darkroom-2.json) |
 | Darkscrolls | 137648 | [137648-darkscrolls.json](./137648-darkscrolls.json) |
 | DarkSelf: Other Mind | 203568 | [203568-darkself-other-mind.json](./203568-darkself-other-mind.json) |
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
@@ -626,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
 | Dead Like Ants | 216240 | [216240-dead-like-ants.json](./216240-dead-like-ants.json) |
+| Dead Link: Pages Torn | 75808 | [75808-dead-link-pages-torn.json](./75808-dead-link-pages-torn.json) |
 | Dead Mall | 342614 | [342614-dead-mall.json](./342614-dead-mall.json) |
 | Dead Man Shooting | 183597 | [183597-dead-man-shooting.json](./183597-dead-man-shooting.json) |
 | Dead Man's Diary | 194871 | [194871-dead-mans-diary.json](./194871-dead-mans-diary.json) |
@@ -3180,6 +3183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Due to Rain | 309343 | [309343-due-to-rain.json](./309343-due-to-rain.json) |
 | Duel | 181915 | [181915-duel.json](./181915-duel.json) |
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
+| Duel Jousting | 75770 | [75770-duel-jousting.json](./75770-duel-jousting.json) |
 | Duel Masters: Shadow of the Code | 49402 | [49402-duel-masters-shadow-of-the-code.json](./49402-duel-masters-shadow-of-the-code.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
