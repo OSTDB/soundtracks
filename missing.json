@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T06:11:31.635Z",
-  "total_missing": 60815,
+  "generated_at": "2026-09-12T06:19:01.455Z",
+  "total_missing": 60865,
   "games": [
     {
       "igdb_id": 306086,
@@ -4926,6 +4926,21 @@
       "igdb_id": 357781,
       "game_name": "Adventures in Calculon",
       "file": "missing/A/357781-adventures-in-calculon.json"
+    },
+    {
+      "igdb_id": 66067,
+      "game_name": "Adventures in Odyssey and the Great Escape",
+      "file": "missing/A/66067-adventures-in-odyssey-and-the-great-escape.json"
+    },
+    {
+      "igdb_id": 66070,
+      "game_name": "Adventures in Odyssey! Answer That!",
+      "file": "missing/A/66070-adventures-in-odyssey-answer-that.json"
+    },
+    {
+      "igdb_id": 66066,
+      "game_name": "Adventures in Odyssey! The Sword of the Spirit",
+      "file": "missing/A/66066-adventures-in-odyssey-the-sword-of-the-spirit.json"
     },
     {
       "igdb_id": 322357,
@@ -16463,6 +16478,11 @@
       "file": "missing/A/9530-assaultcube.json"
     },
     {
+      "igdb_id": 66071,
+      "game_name": "AssaultTech 1: BattleTech",
+      "file": "missing/A/66071-assaulttech-1-battletech.json"
+    },
+    {
       "igdb_id": 299123,
       "game_name": "Assemblage of Angels",
       "file": "missing/A/299123-assemblage-of-angels.json"
@@ -22968,6 +22988,11 @@
       "file": "missing/B/40241-battle-cruiser-m-12.json"
     },
     {
+      "igdb_id": 66069,
+      "game_name": "Battle Crusher",
+      "file": "missing/B/66069-battle-crusher.json"
+    },
+    {
       "igdb_id": 128598,
       "game_name": "Battle Cube",
       "file": "missing/B/128598-battle-cube.json"
@@ -26366,6 +26391,11 @@
       "igdb_id": 91440,
       "game_name": "Big Brave",
       "file": "missing/B/91440-big-brave.json"
+    },
+    {
+      "igdb_id": 66035,
+      "game_name": "Big Brother: The Game",
+      "file": "missing/B/66035-big-brother-the-game.json"
     },
     {
       "igdb_id": 101469,
@@ -30348,6 +30378,11 @@
       "file": "missing/B/18253-blue-angelo.json"
     },
     {
+      "igdb_id": 66051,
+      "game_name": "Blue Angelo: Angels from the Shrine",
+      "file": "missing/B/66051-blue-angelo-angels-from-the-shrine.json"
+    },
+    {
       "igdb_id": 275346,
       "game_name": "Blue Bird's Song",
       "file": "missing/B/275346-blue-birds-song.json"
@@ -33226,6 +33261,11 @@
       "igdb_id": 246435,
       "game_name": "Brains Diamonds",
       "file": "missing/B/246435-brains-diamonds.json"
+    },
+    {
+      "igdb_id": 66054,
+      "game_name": "Brains: Denshinou Kougeki Shirei",
+      "file": "missing/B/66054-brains-denshinou-kougeki-shirei.json"
     },
     {
       "igdb_id": 197397,
@@ -44423,6 +44463,16 @@
       "file": "missing/C/97389-chou-manin-joshi-seido-shanai-choukyou.json"
     },
     {
+      "igdb_id": 66064,
+      "game_name": "Chou Mashin Eiyuuden Wataru: Mazekko Monster",
+      "file": "missing/C/66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json"
+    },
+    {
+      "igdb_id": 66065,
+      "game_name": "Chou Mashin Eiyuuden Wataru: Mazekko Monster 2",
+      "file": "missing/C/66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json"
+    },
+    {
       "igdb_id": 269583,
       "game_name": "Chou Meisaku Suiri Adventure DS: Raymond Chandler Gensaku - Saraba Itoshiki Hito yo",
       "file": "missing/C/269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json"
@@ -44441,6 +44491,11 @@
       "igdb_id": 97906,
       "game_name": "Chousoku Shoujo: Hypersonic Speed Girl",
       "file": "missing/C/97906-chousoku-shoujo-hypersonic-speed-girl.json"
+    },
+    {
+      "igdb_id": 66073,
+      "game_name": "Chousoku Spinner",
+      "file": "missing/C/66073-chousoku-spinner.json"
     },
     {
       "igdb_id": 301284,
@@ -52926,6 +52981,11 @@
       "igdb_id": 7595,
       "game_name": "Creeper World",
       "file": "missing/C/7595-creeper-world.json"
+    },
+    {
+      "igdb_id": 66086,
+      "game_name": "Creeper World 2: Redemption",
+      "file": "missing/C/66086-creeper-world-2-redemption.json"
     },
     {
       "igdb_id": 34005,
@@ -69238,6 +69298,11 @@
       "file": "missing/D/60562-downtown-nekketsu-jidaigeki.json"
     },
     {
+      "igdb_id": 66084,
+      "game_name": "Downtown Nekketsu Monogatari 2",
+      "file": "missing/D/66084-downtown-nekketsu-monogatari-2.json"
+    },
+    {
       "igdb_id": 242783,
       "game_name": "Downtown Run",
       "file": "missing/D/242783-downtown-run.json"
@@ -69836,6 +69901,11 @@
       "igdb_id": 353308,
       "game_name": "Dragon Ball Z: Shin Budokai Another Road Revisited",
       "file": "missing/D/353308-dragon-ball-z-shin-budokai-another-road-revisited.json"
+    },
+    {
+      "igdb_id": 66082,
+      "game_name": "Dragon Ball Z: Shin Saiya-jin Zetsumetsu Keikaku - Chikyuu-hen",
+      "file": "missing/D/66082-dragon-ball-z-shin-saiya-jin-zetsumetsu-keikaku-chikyuu-hen.json"
     },
     {
       "igdb_id": 2545,
@@ -73201,6 +73271,11 @@
       "igdb_id": 20093,
       "game_name": "Dungeon Keeper",
       "file": "missing/D/20093-dungeon-keeper.json"
+    },
+    {
+      "igdb_id": 66059,
+      "game_name": "Dungeon Land",
+      "file": "missing/D/66059-dungeon-land.json"
     },
     {
       "igdb_id": 200179,
@@ -93748,6 +93823,11 @@
       "file": "missing/F/273912-frog-jump.json"
     },
     {
+      "igdb_id": 66061,
+      "game_name": "Frog Minutes",
+      "file": "missing/F/66061-frog-minutes.json"
+    },
+    {
       "igdb_id": 100884,
       "game_name": "Frog on Ice",
       "file": "missing/F/100884-frog-on-ice.json"
@@ -97098,6 +97178,11 @@
       "file": "missing/G/319951-gamer-quest.json"
     },
     {
+      "igdb_id": 66081,
+      "game_name": "Gamera: The Time Adventure",
+      "file": "missing/G/66081-gamera-the-time-adventure.json"
+    },
+    {
       "igdb_id": 86083,
       "game_name": "Gamers Choice",
       "file": "missing/G/86083-gamers-choice.json"
@@ -100346,6 +100431,11 @@
       "igdb_id": 67930,
       "game_name": "Gloria Sinica: Han Xiongnu Wars",
       "file": "missing/G/67930-gloria-sinica-han-xiongnu-wars.json"
+    },
+    {
+      "igdb_id": 66057,
+      "game_name": "Gloria Union: Twin Fates in Blue Ocean",
+      "file": "missing/G/66057-gloria-union-twin-fates-in-blue-ocean.json"
     },
     {
       "igdb_id": 74323,
@@ -103886,6 +103976,11 @@
       "igdb_id": 204701,
       "game_name": "GreedyCraft",
       "file": "missing/G/204701-greedycraft.json"
+    },
+    {
+      "igdb_id": 66074,
+      "game_name": "Green Day Revenge",
+      "file": "missing/G/66074-green-day-revenge.json"
     },
     {
       "igdb_id": 184034,
@@ -111618,6 +111713,11 @@
       "file": "missing/H/224235-her-hearts-desire-a-landlord-epic.json"
     },
     {
+      "igdb_id": 66048,
+      "game_name": "Her Knights: All for the Princess",
+      "file": "missing/H/66048-her-knights-all-for-the-princess.json"
+    },
+    {
       "igdb_id": 145614,
       "game_name": "Her Knights: Kyrie Eleison",
       "file": "missing/H/145614-her-knights-kyrie-eleison.json"
@@ -114016,6 +114116,11 @@
       "igdb_id": 82790,
       "game_name": "Himiko: I Must Kill Chikushoumaru",
       "file": "missing/H/82790-himiko-i-must-kill-chikushoumaru.json"
+    },
+    {
+      "igdb_id": 66055,
+      "game_name": "Himitsu Chouhou Buin: 00Nanako-chan II",
+      "file": "missing/H/66055-himitsu-chouhou-buin-00nanako-chan-ii.json"
     },
     {
       "igdb_id": 284918,
@@ -129988,6 +130093,11 @@
       "file": "missing/K/287111-kaiju-wars-legend-of-keepers-monsters-and-demons-bundle.json"
     },
     {
+      "igdb_id": 66050,
+      "game_name": "Kaiketsu Yanchamaru 3: Taiketsu! Zouringen",
+      "file": "missing/K/66050-kaiketsu-yanchamaru-3-taiketsu-zouringen.json"
+    },
+    {
       "igdb_id": 206381,
       "game_name": "Kaikyuu Karane Kotoba",
       "file": "missing/K/206381-kaikyuu-karane-kotoba.json"
@@ -130016,6 +130126,11 @@
       "igdb_id": 269317,
       "game_name": "Kaisen! Ika Gundan!",
       "file": "missing/K/269317-kaisen-ika-gundan.json"
+    },
+    {
+      "igdb_id": 66034,
+      "game_name": "Kaite Oboeru Doragana",
+      "file": "missing/K/66034-kaite-oboeru-doragana.json"
     },
     {
       "igdb_id": 246107,
@@ -130951,6 +131066,16 @@
       "igdb_id": 180844,
       "game_name": "Kattonauten",
       "file": "missing/K/180844-kattonauten.json"
+    },
+    {
+      "igdb_id": 66038,
+      "game_name": "Katy Perry Revenge",
+      "file": "missing/K/66038-katy-perry-revenge.json"
+    },
+    {
+      "igdb_id": 66036,
+      "game_name": "Katy Perry Revenge 2",
+      "file": "missing/K/66036-katy-perry-revenge-2.json"
     },
     {
       "igdb_id": 75917,
@@ -131926,6 +132051,11 @@
       "igdb_id": 87692,
       "game_name": "Kid's Preschool Game Box",
       "file": "missing/K/87692-kids-preschool-game-box.json"
+    },
+    {
+      "igdb_id": 66045,
+      "game_name": "Kiddie Coaster",
+      "file": "missing/K/66045-kiddie-coaster.json"
     },
     {
       "igdb_id": 100174,
@@ -133136,6 +133266,11 @@
       "igdb_id": 402314,
       "game_name": "Kings of Chaos",
       "file": "missing/K/402314-kings-of-chaos.json"
+    },
+    {
+      "igdb_id": 66041,
+      "game_name": "Kings of Leon Revenge",
+      "file": "missing/K/66041-kings-of-leon-revenge.json"
     },
     {
       "igdb_id": 344914,
@@ -136111,6 +136246,11 @@
       "igdb_id": 310761,
       "game_name": "Lady Death Demonicron",
       "file": "missing/L/310761-lady-death-demonicron.json"
+    },
+    {
+      "igdb_id": 66039,
+      "game_name": "Lady Gaga Revenge 2",
+      "file": "missing/L/66039-lady-gaga-revenge-2.json"
     },
     {
       "igdb_id": 310741,
@@ -158478,6 +158618,11 @@
       "file": "missing/M/186328-mission-critical-foresight.json"
     },
     {
+      "igdb_id": 66072,
+      "game_name": "Mission Europa",
+      "file": "missing/M/66072-mission-europa.json"
+    },
+    {
       "igdb_id": 172193,
       "game_name": "Mission Idle",
       "file": "missing/M/172193-mission-idle.json"
@@ -159056,6 +159201,21 @@
       "igdb_id": 43311,
       "game_name": "Mobile Suit Gundam Federation vs. Zeon",
       "file": "missing/M/43311-mobile-suit-gundam-federation-vs-zeon.json"
+    },
+    {
+      "igdb_id": 66077,
+      "game_name": "Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono",
+      "file": "missing/M/66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json"
+    },
+    {
+      "igdb_id": 66076,
+      "game_name": "Mobile Suit Gundam Side Story III: Sabakareshi Mono",
+      "file": "missing/M/66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json"
+    },
+    {
+      "igdb_id": 66078,
+      "game_name": "Mobile Suit Gundam Side Story: The Blue Destiny",
+      "file": "missing/M/66078-mobile-suit-gundam-side-story-the-blue-destiny.json"
     },
     {
       "igdb_id": 66600,
@@ -168213,6 +168373,11 @@
       "file": "missing/N/172743-nazo-to-kioku-no-labyrinth-somewhere-elsewhere.json"
     },
     {
+      "igdb_id": 66047,
+      "game_name": "Nazo Waku Yakata: Oto no Ma ni Ma ni",
+      "file": "missing/N/66047-nazo-waku-yakata-oto-no-ma-ni-ma-ni.json"
+    },
+    {
       "igdb_id": 41400,
       "game_name": "Nazoler Land Dai 2-gou",
       "file": "missing/N/41400-nazoler-land-dai-2-gou.json"
@@ -171103,6 +171268,11 @@
       "file": "missing/N/123052-nicks-night-out.json"
     },
     {
+      "igdb_id": 66043,
+      "game_name": "Nickelback Revenge",
+      "file": "missing/N/66043-nickelback-revenge.json"
+    },
+    {
       "igdb_id": 275617,
       "game_name": "Nickelodeon All-Star Brawl 2: Costume Pack",
       "file": "missing/N/275617-nickelodeon-all-star-brawl-2-costume-pack.json"
@@ -172661,6 +172831,11 @@
       "igdb_id": 208045,
       "game_name": "Nirvana Pilot Yume: Deluxe Edition",
       "file": "missing/N/208045-nirvana-pilot-yume-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 66044,
+      "game_name": "Nirvana Revenge",
+      "file": "missing/N/66044-nirvana-revenge.json"
     },
     {
       "igdb_id": 191261,
@@ -175951,6 +176126,11 @@
       "igdb_id": 349332,
       "game_name": "Ogantto",
       "file": "missing/O/349332-ogantto.json"
+    },
+    {
+      "igdb_id": 66085,
+      "game_name": "Ogre Battle Gaiden",
+      "file": "missing/O/66085-ogre-battle-gaiden.json"
     },
     {
       "igdb_id": 82775,
@@ -180426,6 +180606,11 @@
       "igdb_id": 143020,
       "game_name": "Outer Rat",
       "file": "missing/O/143020-outer-rat.json"
+    },
+    {
+      "igdb_id": 66058,
+      "game_name": "Outer-Rim Pod Digger",
+      "file": "missing/O/66058-outer-rim-pod-digger.json"
     },
     {
       "igdb_id": 173237,
@@ -191258,6 +191443,11 @@
       "file": "missing/P/141203-pokemon-orange.json"
     },
     {
+      "igdb_id": 66031,
+      "game_name": "Pokémon Party Mini",
+      "file": "missing/P/66031-pokemon-party-mini.json"
+    },
+    {
       "igdb_id": 288205,
       "game_name": "Pokemon Penumbra Moon",
       "file": "missing/P/288205-pokemon-penumbra-moon.json"
@@ -191271,6 +191461,11 @@
       "igdb_id": 214739,
       "game_name": "Pokémon Photonic Sun",
       "file": "missing/P/214739-pokemon-photonic-sun.json"
+    },
+    {
+      "igdb_id": 66030,
+      "game_name": "Pokémon Pinball Mini",
+      "file": "missing/P/66030-pokemon-pinball-mini.json"
     },
     {
       "igdb_id": 415074,
@@ -206563,6 +206758,11 @@
       "file": "missing/R/70421-ricochet-xtreme.json"
     },
     {
+      "igdb_id": 66040,
+      "game_name": "Riddim Ribbon",
+      "file": "missing/R/66040-riddim-ribbon.json"
+    },
+    {
       "igdb_id": 109063,
       "game_name": "Riddle Diario",
       "file": "missing/R/109063-riddle-diario.json"
@@ -217506,6 +217706,11 @@
       "igdb_id": 252176,
       "game_name": "Seijundrop",
       "file": "missing/S/252176-seijundrop.json"
+    },
+    {
+      "igdb_id": 66052,
+      "game_name": "Seiki: Ryoujoku no Kamen",
+      "file": "missing/S/66052-seiki-ryoujoku-no-kamen.json"
     },
     {
       "igdb_id": 67265,
@@ -242313,6 +242518,11 @@
       "file": "missing/S/237647-sunshine-island.json"
     },
     {
+      "igdb_id": 66062,
+      "game_name": "Sunshine Mahou no Mori",
+      "file": "missing/S/66062-sunshine-mahou-no-mori.json"
+    },
+    {
       "igdb_id": 132838,
       "game_name": "Sunshine Secret Book 64",
       "file": "missing/S/132838-sunshine-secret-book-64.json"
@@ -246808,6 +247018,11 @@
       "file": "missing/S/208352-suze-ormans-money-game.json"
     },
     {
+      "igdb_id": 66075,
+      "game_name": "Suzu Monogatari",
+      "file": "missing/S/66075-suzu-monogatari.json"
+    },
+    {
       "igdb_id": 206177,
       "game_name": "Suzu to Mari no Bouken 2: Lost Colors and Golden Bells",
       "file": "missing/S/206177-suzu-to-mari-no-bouken-2-lost-colors-and-golden-bells.json"
@@ -249883,6 +250098,11 @@
       "file": "missing/T/152376-tales-of-wild.json"
     },
     {
+      "igdb_id": 66046,
+      "game_name": "Tales of Windy Land",
+      "file": "missing/T/66046-tales-of-windy-land.json"
+    },
+    {
       "igdb_id": 375173,
       "game_name": "Tales of Xillia Remastered: Super Growth Support Herb Set",
       "file": "missing/T/375173-tales-of-xillia-remastered-super-growth-support-herb-set.json"
@@ -250973,6 +251193,11 @@
       "file": "missing/T/67263-tap-tap-revenge-3.json"
     },
     {
+      "igdb_id": 66049,
+      "game_name": "Tap Tap Revenge: Metallica",
+      "file": "missing/T/66049-tap-tap-revenge-metallica.json"
+    },
+    {
       "igdb_id": 214195,
       "game_name": "Tap the Blocks",
       "file": "missing/T/214195-tap-the-blocks.json"
@@ -251036,6 +251261,11 @@
       "igdb_id": 259829,
       "game_name": "Tapioka Panic",
       "file": "missing/T/259829-tapioka-panic.json"
+    },
+    {
+      "igdb_id": 66079,
+      "game_name": "Tapper World Tour",
+      "file": "missing/T/66079-tapper-world-tour.json"
     },
     {
       "igdb_id": 393491,
@@ -251566,6 +251796,11 @@
       "igdb_id": 180229,
       "game_name": "Team 47 GoMan",
       "file": "missing/T/180229-team-47-goman.json"
+    },
+    {
+      "igdb_id": 66032,
+      "game_name": "Team Assault: Baptism of Fire",
+      "file": "missing/T/66032-team-assault-baptism-of-fire.json"
     },
     {
       "igdb_id": 70412,
@@ -274478,6 +274713,11 @@
       "file": "missing/T/79277-toriko-gourmet-monsters.json"
     },
     {
+      "igdb_id": 66080,
+      "game_name": "Toriko: Gourmet Survival",
+      "file": "missing/T/66080-toriko-gourmet-survival.json"
+    },
+    {
       "igdb_id": 228700,
       "game_name": "Toril",
       "file": "missing/T/228700-toril.json"
@@ -285961,6 +286201,11 @@
       "igdb_id": 394169,
       "game_name": "Vampire on Trial",
       "file": "missing/V/394169-vampire-on-trial.json"
+    },
+    {
+      "igdb_id": 66037,
+      "game_name": "Vampire Rush",
+      "file": "missing/V/66037-vampire-rush.json"
     },
     {
       "igdb_id": 208955,
@@ -300851,6 +301096,11 @@
       "igdb_id": 216807,
       "game_name": "Yougen",
       "file": "missing/Y/216807-yougen.json"
+    },
+    {
+      "igdb_id": 66056,
+      "game_name": "Youko to Anata",
+      "file": "missing/Y/66056-youko-to-anata.json"
     },
     {
       "igdb_id": 394186,
