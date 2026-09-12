@@ -2828,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Crystal Portal: Beyond the Horizon | 140614 | [140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json](./140614-the-mystery-of-the-crystal-portal-beyond-the-horizon.json) |
 | The Mystery of the Planet Venus | 307619 | [307619-the-mystery-of-the-planet-venus.json](./307619-the-mystery-of-the-planet-venus.json) |
 | The Mystery of the Village's Sacred Tree | 273662 | [273662-the-mystery-of-the-villages-sacred-tree.json](./273662-the-mystery-of-the-villages-sacred-tree.json) |
+| The Mystery of the Wicked Village | 65446 | [65446-the-mystery-of-the-wicked-village.json](./65446-the-mystery-of-the-wicked-village.json) |
 | The Mystery of Whiterock Castle | 67229 | [67229-the-mystery-of-whiterock-castle.json](./67229-the-mystery-of-whiterock-castle.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
@@ -6510,9 +6511,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Gallery | 382197 | [382197-twilight-gallery.json](./382197-twilight-gallery.json) |
 | Twilight Horizon | 314073 | [314073-twilight-horizon.json](./314073-twilight-horizon.json) |
 | Twilight Host Club | 298888 | [298888-twilight-host-club.json](./298888-twilight-host-club.json) |
+| Twilight Insanity | 65485 | [65485-twilight-insanity.json](./65485-twilight-insanity.json) |
 | Twilight Mahjongg | 73225 | [73225-twilight-mahjongg.json](./73225-twilight-mahjongg.json) |
 | Twilight of the Gods | 223436 | [223436-twilight-of-the-gods.json](./223436-twilight-of-the-gods.json) |
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
+| Twilight Syndrome Kyuumei-hen | 65454 | [65454-twilight-syndrome-kyuumei-hen.json](./65454-twilight-syndrome-kyuumei-hen.json) |
+| Twilight Syndrome Saikai | 65456 | [65456-twilight-syndrome-saikai.json](./65456-twilight-syndrome-saikai.json) |
+| Twilight Syndrome Tansaku-hen | 65452 | [65452-twilight-syndrome-tansaku-hen.json](./65452-twilight-syndrome-tansaku-hen.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
