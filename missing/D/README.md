@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deity: Complete Edition | 227862 | [227862-dark-deity-complete-edition.json](./227862-dark-deity-complete-edition.json) |
 | Dark Deity: Suns Out, Swords Out | 209658 | [209658-dark-deity-suns-out-swords-out.json](./209658-dark-deity-suns-out-swords-out.json) |
 | Dark Deity's Bastion | 268761 | [268761-dark-deitys-bastion.json](./268761-dark-deitys-bastion.json) |
+| Dark Delve | 65469 | [65469-dark-delve.json](./65469-dark-delve.json) |
 | Dark Designs I: Grelminar's Staff | 72104 | [72104-dark-designs-i-grelminars-staff.json](./72104-dark-designs-i-grelminars-staff.json) |
 | Dark Designs II: Closing the Gate | 73329 | [73329-dark-designs-ii-closing-the-gate.json](./73329-dark-designs-ii-closing-the-gate.json) |
 | Dark Desire Mute 5 | 250029 | [250029-dark-desire-mute-5.json](./250029-dark-desire-mute-5.json) |
@@ -652,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Political Party | 71454 | [71454-dead-mans-political-party.json](./71454-dead-mans-political-party.json) |
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
 | Dead Mayhem | 105305 | [105305-dead-mayhem.json](./105305-dead-mayhem.json) |
+| Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
@@ -1653,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
+| Digital Combat Simulator: Black Shark 2 | 65434 | [65434-digital-combat-simulator-black-shark-2.json](./65434-digital-combat-simulator-black-shark-2.json) |
 | Digital Dance Mix Vol. 1: Namie Amuro | 96091 | [96091-digital-dance-mix-vol-1-namie-amuro.json](./96091-digital-dance-mix-vol-1-namie-amuro.json) |
 | Digital Devil Saga: Avatar Tuner - A's Test Server | 136416 | [136416-digital-devil-saga-avatar-tuner-as-test-server.json](./136416-digital-devil-saga-avatar-tuner-as-test-server.json) |
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
@@ -2075,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: Evacuation Earth | 47842 | [47842-doctor-who-evacuation-earth.json](./47842-doctor-who-evacuation-earth.json) |
 | Doctor Who: The Adventure Games | 10187 | [10187-doctor-who-the-adventure-games.json](./10187-doctor-who-the-adventure-games.json) |
 | Doctor Who: The Adventure Games - Episode 1: City of the Daleks | 26655 | [26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json](./26655-doctor-who-the-adventure-games-episode-1-city-of-the-daleks.json) |
+| Doctor Who: The Adventure Games - Episode 5: The Gunpowder Plot | 65463 | [65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json](./65463-doctor-who-the-adventure-games-episode-5-the-gunpowder-plot.json) |
 | Doctor Who: The Edge of Time | 118784 | [118784-doctor-who-the-edge-of-time.json](./118784-doctor-who-the-edge-of-time.json) |
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
@@ -2132,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Doge and the Lost Kitten | 103409 | [103409-doge-and-the-lost-kitten.json](./103409-doge-and-the-lost-kitten.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
+| Dogfight: Battle in the Skies | 65464 | [65464-dogfight-battle-in-the-skies.json](./65464-dogfight-battle-in-the-skies.json) |
 | Dogfighter: WW2 | 219033 | [219033-dogfighter-ww2.json](./219033-dogfighter-ww2.json) |
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
 | Doggo | 287098 | [287098-doggo.json](./287098-doggo.json) |
@@ -2367,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dood's Big Adventure | 18255 | [18255-doods-big-adventure.json](./18255-doods-big-adventure.json) |
 | Doodle Army | 61655 | [61655-doodle-army.json](./61655-doodle-army.json) |
 | Doodle Biker | 105901 | [105901-doodle-biker.json](./105901-doodle-biker.json) |
+| Doodle Bowling | 65451 | [65451-doodle-bowling.json](./65451-doodle-bowling.json) |
 | Doodle Cat | 343797 | [343797-doodle-cat.json](./343797-doodle-cat.json) |
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
