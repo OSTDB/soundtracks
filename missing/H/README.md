@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hephep Fever: Retold | 334476 | [334476-hephep-fever-retold.json](./334476-hephep-fever-retold.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her Heart's Desire: A Landlord Epic | 224235 | [224235-her-hearts-desire-a-landlord-epic.json](./224235-her-hearts-desire-a-landlord-epic.json) |
+| Her Knights: All for the Princess | 66048 | [66048-her-knights-all-for-the-princess.json](./66048-her-knights-all-for-the-princess.json) |
 | Her Knights: Kyrie Eleison | 145614 | [145614-her-knights-kyrie-eleison.json](./145614-her-knights-kyrie-eleison.json) |
 | Her Little Sylvietower | 316996 | [316996-her-little-sylvietower.json](./316996-her-little-sylvietower.json) |
 | Her Love, Like Poison | 332442 | [332442-her-love-like-poison.json](./332442-her-love-like-poison.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himi Nikki | 202359 | [202359-himi-nikki.json](./202359-himi-nikki.json) |
 | Himig | 136989 | [136989-himig.json](./136989-himig.json) |
 | Himiko: I Must Kill Chikushoumaru | 82790 | [82790-himiko-i-must-kill-chikushoumaru.json](./82790-himiko-i-must-kill-chikushoumaru.json) |
+| Himitsu Chouhou Buin: 00Nanako-chan II | 66055 | [66055-himitsu-chouhou-buin-00nanako-chan-ii.json](./66055-himitsu-chouhou-buin-00nanako-chan-ii.json) |
 | Himitsu no AiPri | 284918 | [284918-himitsu-no-aipri.json](./284918-himitsu-no-aipri.json) |
 | Hina-chan Breaker: 2nd Break | 212293 | [212293-hina-chan-breaker-2nd-break.json](./212293-hina-chan-breaker-2nd-break.json) |
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
