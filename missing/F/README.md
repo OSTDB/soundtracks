@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon 4.0 | 33853 | [33853-falcon-4-0.json](./33853-falcon-4-0.json) |
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
 | Falconet | 189102 | [189102-falconet.json](./189102-falconet.json) |
+| Falcons | 24884 | [24884-falcons.json](./24884-falcons.json) |
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
 | Fall Asleep | 381010 | [381010-fall-asleep.json](./381010-fall-asleep.json) |
 | Fall Ball Fall | 141852 | [141852-fall-ball-fall.json](./141852-fall-ball-fall.json) |
@@ -1158,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireboy & Watergirl 2: The Forest Temple | 246976 | [246976-fireboy-and-watergirl-2-the-forest-temple.json](./246976-fireboy-and-watergirl-2-the-forest-temple.json) |
 | Fireboy and Watergirl: Online | 88769 | [88769-fireboy-and-watergirl-online.json](./88769-fireboy-and-watergirl-online.json) |
 | Firebug | 13714 | [13714-firebug.json](./13714-firebug.json) |
+| Firebug | 24888 | [24888-firebug.json](./24888-firebug.json) |
 | Firebugs | 43859 | [43859-firebugs.json](./43859-firebugs.json) |
 | Firefight | 121746 | [121746-firefight.json](./121746-firefight.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
