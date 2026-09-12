@@ -3132,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Defense Corp: The Ambassador of Peace | 206952 | [206952-public-defense-corp-the-ambassador-of-peace.json](./206952-public-defense-corp-the-ambassador-of-peace.json) |
 | Public Enemy: The Dark Future | 248293 | [248293-public-enemy-the-dark-future.json](./248293-public-enemy-the-dark-future.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
+| Pucca's Restaurant | 65476 | [65476-puccas-restaurant.json](./65476-puccas-restaurant.json) |
 | Puchi Nikki | 201840 | [201840-puchi-nikki.json](./201840-puchi-nikki.json) |
 | Puchi Novel: Kongi No Rokugatsu | 222299 | [222299-puchi-novel-kongi-no-rokugatsu.json](./222299-puchi-novel-kongi-no-rokugatsu.json) |
 | PuchiCon Big | 222292 | [222292-puchicon-big.json](./222292-puchicon-big.json) |
