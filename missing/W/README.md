@@ -606,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
 | Welcome Demon | 397666 | [397666-welcome-demon.json](./397666-welcome-demon.json) |
 | Welcome Home | 146327 | [146327-welcome-home.json](./146327-welcome-home.json) |
+| Welcome into the Forest of Aurora !! | 70344 | [70344-welcome-into-the-forest-of-aurora.json](./70344-welcome-into-the-forest-of-aurora.json) |
 | Welcome Kokuri-san | 241976 | [241976-welcome-kokuri-san.json](./241976-welcome-kokuri-san.json) |
 | Welcome Teacher | 266798 | [266798-welcome-teacher.json](./266798-welcome-teacher.json) |
 | Welcome to a Sexy, Open World! | 194551 | [194551-welcome-to-a-sexy-open-world.json](./194551-welcome-to-a-sexy-open-world.json) |
@@ -1036,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will it Crush? | 102785 | [102785-will-it-crush.json](./102785-will-it-crush.json) |
 | Will This Bitter Night Bring Change? | 204466 | [204466-will-this-bitter-night-bring-change.json](./204466-will-this-bitter-night-bring-change.json) |
 | Will Walker | 147377 | [147377-will-walker.json](./147377-will-walker.json) |
+| Will Willis and the Temple of Hacha'Kyum | 70368 | [70368-will-willis-and-the-temple-of-hachakyum.json](./70368-will-willis-and-the-temple-of-hachakyum.json) |
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
