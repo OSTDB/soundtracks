@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemonum | 223147 | [223147-daemonum.json](./223147-daemonum.json) |
 | Daemonum | 224564 | [224564-daemonum.json](./224564-daemonum.json) |
 | Daffy Duck | 67271 | [67271-daffy-duck.json](./67271-daffy-duck.json) |
+| Daffy Duck, P.I.: The Case of the Missing Letters | 63814 | [63814-daffy-duck-p-i-the-case-of-the-missing-letters.json](./63814-daffy-duck-p-i-the-case-of-the-missing-letters.json) |
 | Daft Disputes | 180220 | [180220-daft-disputes.json](./180220-daft-disputes.json) |
 | DaGame | 146238 | [146238-dagame.json](./146238-dagame.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt 5: Wild Spirits Content Pack | 292027 | [292027-dirt-5-wild-spirits-content-pack.json](./292027-dirt-5-wild-spirits-content-pack.json) |
 | Dirt And Flo | 278691 | [278691-dirt-and-flo.json](./278691-dirt-and-flo.json) |
 | Dirt Bicycle Rider Simulator | 259816 | [259816-dirt-bicycle-rider-simulator.json](./259816-dirt-bicycle-rider-simulator.json) |
+| Dirt Moto Racing | 63840 | [63840-dirt-moto-racing.json](./63840-dirt-moto-racing.json) |
 | Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
@@ -3347,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Attack | 151655 | [151655-dungeon-attack.json](./151655-dungeon-attack.json) |
 | Dungeon Avenger | 180272 | [180272-dungeon-avenger.json](./180272-dungeon-avenger.json) |
 | Dungeon Baller | 310936 | [310936-dungeon-baller.json](./310936-dungeon-baller.json) |
+| Dungeon Bandit | 63829 | [63829-dungeon-bandit.json](./63829-dungeon-bandit.json) |
 | Dungeon Beach | 309353 | [309353-dungeon-beach.json](./309353-dungeon-beach.json) |
 | Dungeon Betwixt | 410933 | [410933-dungeon-betwixt.json](./410933-dungeon-betwixt.json) |
 | Dungeon Blocks | 192429 | [192429-dungeon-blocks.json](./192429-dungeon-blocks.json) |
@@ -3516,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustland Delivery | 302379 | [302379-dustland-delivery.json](./302379-dustland-delivery.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
+| Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
 | Dusty's Challenge | 359392 | [359392-dustys-challenge.json](./359392-dustys-challenge.json) |
 | Dutch Maximus: Out of the Toy Box | 217004 | [217004-dutch-maximus-out-of-the-toy-box.json](./217004-dutch-maximus-out-of-the-toy-box.json) |
 | Duterra | 213018 | [213018-duterra.json](./213018-duterra.json) |
