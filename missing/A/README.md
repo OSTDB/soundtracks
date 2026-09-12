@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
+| All Star Quarterback | 58210 | [58210-all-star-quarterback.json](./58210-all-star-quarterback.json) |
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
 | All Star Soccer | 81432 | [81432-all-star-soccer.json](./81432-all-star-soccer.json) |
