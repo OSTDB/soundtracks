@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
 | Half-Life 2: Collector's Edition | 237394 | [237394-half-life-2-collectors-edition.json](./237394-half-life-2-collectors-edition.json) |
 | Half-Life 2: MMod - Half-Life 2: Update | 267639 | [267639-half-life-2-mmod-half-life-2-update.json](./267639-half-life-2-mmod-half-life-2-update.json) |
+| Half-Life 2: VR Mod | 28827 | [28827-half-life-2-vr-mod.json](./28827-half-life-2-vr-mod.json) |
 | Half-Life 2: VR Mod - Episode One | 243118 | [243118-half-life-2-vr-mod-episode-one.json](./243118-half-life-2-vr-mod-episode-one.json) |
 | Half-Life 2: VR Mod - Episode Two | 243119 | [243119-half-life-2-vr-mod-episode-two.json](./243119-half-life-2-vr-mod-episode-two.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
@@ -243,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
+| Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanata-Kadaka!? | 59993 | [59993-hanata-kadaka.json](./59993-hanata-kadaka.json) |
 | Hanayaka Nari, Waga Ichizoku | 61640 | [61640-hanayaka-nari-waga-ichizoku.json](./61640-hanayaka-nari-waga-ichizoku.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
@@ -1518,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highborn: Chapter 3 | 168839 | [168839-highborn-chapter-3.json](./168839-highborn-chapter-3.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
+| Highlander | 28851 | [28851-highlander.json](./28851-highlander.json) |
 | Highlander: The Gathering | 67240 | [67240-highlander-the-gathering.json](./67240-highlander-the-gathering.json) |
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
 | Highrise | 292832 | [292832-highrise.json](./292832-highrise.json) |
@@ -2260,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Train Your Dragon | 228092 | [228092-how-to-train-your-dragon.json](./228092-how-to-train-your-dragon.json) |
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
+| Howard the Duck: Adventure on Volcano Island | 28853 | [28853-howard-the-duck-adventure-on-volcano-island.json](./28853-howard-the-duck-adventure-on-volcano-island.json) |
 | Howdy, Jacob! | 148512 | [148512-howdy-jacob.json](./148512-howdy-jacob.json) |
 | Hoyle Card Games | 77395 | [77395-hoyle-card-games.json](./77395-hoyle-card-games.json) |
 | Hoyle Card Games | 87746 | [87746-hoyle-card-games.json](./87746-hoyle-card-games.json) |
