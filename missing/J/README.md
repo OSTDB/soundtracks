@@ -22,6 +22,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.League Pro Soccer Club wo Tsukurou! 8: Euro + | 62765 | [62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json](./62765-j-league-pro-soccer-club-wo-tsukurou-8-euro.json) |
 | J.League Soccer Dream Eleven | 45274 | [45274-j-league-soccer-dream-eleven.json](./45274-j-league-soccer-dream-eleven.json) |
 | J.League Soccer Prime Goal 3 | 220831 | [220831-j-league-soccer-prime-goal-3.json](./220831-j-league-soccer-prime-goal-3.json) |
+| J.League Soccer: Prime Goal | 38330 | [38330-j-league-soccer-prime-goal.json](./38330-j-league-soccer-prime-goal.json) |
+| J.League Soccer: Prime Goal 2 | 38329 | [38329-j-league-soccer-prime-goal-2.json](./38329-j-league-soccer-prime-goal-2.json) |
 | J.League Supporter Soccer | 64980 | [64980-j-league-supporter-soccer.json](./64980-j-league-supporter-soccer.json) |
 | J.League Tactics Soccer | 3522 | [3522-j-league-tactics-soccer.json](./3522-j-league-tactics-soccer.json) |
 | J.League Virtual Stadium '95 | 37200 | [37200-j-league-virtual-stadium-95.json](./37200-j-league-virtual-stadium-95.json) |
@@ -55,6 +57,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack's Game | 50527 | [50527-jacks-game.json](./50527-jacks-game.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
 | Jackal | 212707 | [212707-jackal.json](./212707-jackal.json) |
+| Jackie Chan in Fists of Fire | 39606 | [39606-jackie-chan-in-fists-of-fire.json](./39606-jackie-chan-in-fists-of-fire.json) |
+| Jackie Chan: The Kung-Fu Master | 39607 | [39607-jackie-chan-the-kung-fu-master.json](./39607-jackie-chan-the-kung-fu-master.json) |
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
 | Jackpot | 246954 | [246954-jackpot.json](./246954-jackpot.json) |
 | Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
@@ -728,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Jinx | 355563 | [355563-jungle-jinx.json](./355563-jungle-jinx.json) |
 | Jungle Maths | 319585 | [319585-jungle-maths.json](./319585-jungle-maths.json) |
 | Jungle Monk | 78627 | [78627-jungle-monk.json](./78627-jungle-monk.json) |
+| Jungle no Ouja Tar-chan: Sekai Manyu Dai Kakutou no Maki | 38313 | [38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json](./38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json) |
 | Jungle Quest | 230283 | [230283-jungle-quest.json](./230283-jungle-quest.json) |
 | Jungle Shadow | 374082 | [374082-jungle-shadow.json](./374082-jungle-shadow.json) |
 | Jungle Taitei | 353329 | [353329-jungle-taitei.json](./353329-jungle-taitei.json) |
@@ -854,5 +859,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juuzaengi: Engetsu Sangoku Den 1 & 2 | 135859 | [135859-juuzaengi-engetsu-sangoku-den-1-and-2.json](./135859-juuzaengi-engetsu-sangoku-den-1-and-2.json) |
 | Juvenile God | 123562 | [123562-juvenile-god.json](./123562-juvenile-god.json) |
 | Juxtastat | 320740 | [320740-juxtastat.json](./320740-juxtastat.json) |
+| JWP Joshi Pro Wrestling: Pure Wrestle Queens | 38276 | [38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json](./38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json) |
 | Jyangokushi - Haoh No Saihai | 40217 | [40217-jyangokushi-haoh-no-saihai.json](./40217-jyangokushi-haoh-no-saihai.json) |
 | Jyym Pearson Adventure Tri-Pack | 100126 | [100126-jyym-pearson-adventure-tri-pack.json](./100126-jyym-pearson-adventure-tri-pack.json) |
