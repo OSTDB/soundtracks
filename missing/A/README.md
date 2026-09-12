@@ -177,7 +177,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolute Baseball | 84863 | [84863-absolute-baseball.json](./84863-absolute-baseball.json) |
-| Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
 | Absolute Despair Collection | 52556 | [52556-absolute-despair-collection.json](./52556-absolute-despair-collection.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
