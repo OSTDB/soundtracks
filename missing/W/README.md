@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Duel | 312542 | [312542-wizard-duel.json](./312542-wizard-duel.json) |
 | Wizard Golf RPG | 243711 | [243711-wizard-golf-rpg.json](./243711-wizard-golf-rpg.json) |
 | Wizard Hentai Survivors | 233782 | [233782-wizard-hentai-survivors.json](./233782-wizard-hentai-survivors.json) |
+| Wizard King | 29840 | [29840-wizard-king.json](./29840-wizard-king.json) |
 | Wizard Lady | 248929 | [248929-wizard-lady.json](./248929-wizard-lady.json) |
 | Wizard Man | 211927 | [211927-wizard-man.json](./211927-wizard-man.json) |
 | Wizard Mukbang: The Game | 289898 | [289898-wizard-mukbang-the-game.json](./289898-wizard-mukbang-the-game.json) |
