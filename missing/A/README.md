@@ -199,7 +199,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Soul Lotus | 216799 | [216799-abyss-soul-lotus.json](./216799-abyss-soul-lotus.json) |
 | Abyss Unchained | 331349 | [331349-abyss-unchained.json](./331349-abyss-unchained.json) |
 | Abyss World | 235746 | [235746-abyss-world.json](./235746-abyss-world.json) |
-| Abyss: Backrooms Pools Horror VR | 376472 | [376472-abyss-backrooms-pools-horror-vr.json](./376472-abyss-backrooms-pools-horror-vr.json) |
 | Abyss: House | 356070 | [356070-abyss-house.json](./356070-abyss-house.json) |
 | Abyss: The Wraiths of Eden | 17136 | [17136-abyss-the-wraiths-of-eden.json](./17136-abyss-the-wraiths-of-eden.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
@@ -1760,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
 | Angelique Retour | 59958 | [59958-angelique-retour.json](./59958-angelique-retour.json) |
 | Angelique Trois | 72678 | [72678-angelique-trois.json](./72678-angelique-trois.json) |
+| Angelique Voice Fantasy | 38316 | [38316-angelique-voice-fantasy.json](./38316-angelique-voice-fantasy.json) |
 | Angelique: Maren no Rokukishi | 56515 | [56515-angelique-maren-no-rokukishi.json](./56515-angelique-maren-no-rokukishi.json) |
 | Angellus: Asas do Anoitecer | 262079 | [262079-angellus-asas-do-anoitecer.json](./262079-angellus-asas-do-anoitecer.json) |
 | Angelo and Deemon 2: Too Hell of a Quest | 319368 | [319368-angelo-and-deemon-2-too-hell-of-a-quest.json](./319368-angelo-and-deemon-2-too-hell-of-a-quest.json) |
