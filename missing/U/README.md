@@ -508,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe: Unknown | 73224 | [73224-universe-unknown.json](./73224-universe-unknown.json) |
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | Unkillable Robots | 306342 | [306342-unkillable-robots.json](./306342-unkillable-robots.json) |
+| Unkilled | 28821 | [28821-unkilled.json](./28821-unkilled.json) |
 | Unknown | 210888 | [210888-unknown.json](./210888-unknown.json) |
 | Unknown at This Address | 415922 | [415922-unknown-at-this-address.json](./415922-unknown-at-this-address.json) |
 | Unknown Castle | 119702 | [119702-unknown-castle.json](./119702-unknown-castle.json) |
@@ -592,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Case: The Scarlet Hyacinth - DLC | 256274 | [256274-unsolved-case-the-scarlet-hyacinth-dlc.json](./256274-unsolved-case-the-scarlet-hyacinth-dlc.json) |
 | Unsouled | 124772 | [124772-unsouled.json](./124772-unsouled.json) |
 | Unstable | 191248 | [191248-unstable.json](./191248-unstable.json) |
+| Unstable | 28858 | [28858-unstable.json](./28858-unstable.json) |
 | Unstable Blocks | 303224 | [303224-unstable-blocks.json](./303224-unstable-blocks.json) |
 | Unstable Star | 338583 | [338583-unstable-star.json](./338583-unstable-star.json) |
 | Unstack | 166175 | [166175-unstack.json](./166175-unstack.json) |
