@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerin' Harry 2: Dan the Red Strikes Back - Collector's Edition | 306987 | [306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json](./306987-hammerin-harry-2-dan-the-red-strikes-back-collectors-edition.json) |
 | Hammerin' Harry: Collector's Edition | 306986 | [306986-hammerin-harry-collectors-edition.json](./306986-hammerin-harry-collectors-edition.json) |
 | Hammerin' Harry: Concrete Collection | 306988 | [306988-hammerin-harry-concrete-collection.json](./306988-hammerin-harry-concrete-collection.json) |
+| Hammerlock Wrestling | 42589 | [42589-hammerlock-wrestling.json](./42589-hammerlock-wrestling.json) |
 | Hammerwatch | 7891 | [7891-hammerwatch.json](./7891-hammerwatch.json) |
 | Hamos the Green Chariot | 145601 | [145601-hamos-the-green-chariot.json](./145601-hamos-the-green-chariot.json) |
 | Hampstead | 12953 | [12953-hampstead.json](./12953-hampstead.json) |
@@ -766,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavyweight Champ | 39678 | [39678-heavyweight-champ.json](./39678-heavyweight-champ.json) |
 | Heavyweight Thunder | 69875 | [69875-heavyweight-thunder.json](./69875-heavyweight-thunder.json) |
 | Heavyweight Transport Simulator 3 | 53183 | [53183-heavyweight-transport-simulator-3.json](./53183-heavyweight-transport-simulator-3.json) |
+| Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
@@ -1714,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206134 | [206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
 | Hokusai | 106540 | [106540-hokusai.json](./106540-hokusai.json) |
+| Hokuto no Ken 5: Tenma Ryuusei-den Ai Zesshou | 42552 | [42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json](./42552-hokuto-no-ken-5-tenma-ryuusei-den-ai-zesshou.json) |
 | Hokuto no Ken 7: Seiken Retsuden Denshousha he no Michi | 38337 | [38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json](./38337-hokuto-no-ken-7-seiken-retsuden-denshousha-he-no-michi.json) |
 | Hokuto no Ken: Shinpan no Sousousei Kengo Retsuden | 77991 | [77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json](./77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json) |
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
@@ -2333,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Cat Nonogram | 207862 | [207862-hungry-cat-nonogram.json](./207862-hungry-cat-nonogram.json) |
 | Hungry Chicks: Battle Farm | 402265 | [402265-hungry-chicks-battle-farm.json](./402265-hungry-chicks-battle-farm.json) |
 | Hungry Corgi | 255728 | [255728-hungry-corgi.json](./255728-hungry-corgi.json) |
+| Hungry Dinosaurs | 42587 | [42587-hungry-dinosaurs.json](./42587-hungry-dinosaurs.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Horace | 12954 | [12954-hungry-horace.json](./12954-hungry-horace.json) |
@@ -2471,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Torque Racing | 259545 | [259545-hyper-torque-racing.json](./259545-hyper-torque-racing.json) |
 | Hyper Train Corporation | 102194 | [102194-hyper-train-corporation.json](./102194-hyper-train-corporation.json) |
 | Hyper Treasure: The Legend of Macaron | 151653 | [151653-hyper-treasure-the-legend-of-macaron.json](./151653-hyper-treasure-the-legend-of-macaron.json) |
+| Hyper V-Ball | 42609 | [42609-hyper-v-ball.json](./42609-hyper-v-ball.json) |
 | Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
 | Hyperblast! | 342612 | [342612-hyperblast.json](./342612-hyperblast.json) |
 | HyperBody | 292518 | [292518-hyperbody.json](./292518-hyperbody.json) |
@@ -2524,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperwave | 207843 | [207843-hyperwave.json](./207843-hyperwave.json) |
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
 | HyperZen Training | 105330 | [105330-hyperzen-training.json](./105330-hyperzen-training.json) |
+| HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
 | Hyphen | 24566 | [24566-hyphen.json](./24566-hyphen.json) |
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
