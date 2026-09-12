@@ -205,9 +205,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
 | Ultrakill | 124333 | [124333-ultrakill.json](./124333-ultrakill.json) |
 | Ultraman | 42579 | [42579-ultraman.json](./42579-ultraman.json) |
+| Ultraman 2: Shutsugeki Katoku Tai | 41323 | [41323-ultraman-2-shutsugeki-katoku-tai.json](./41323-ultraman-2-shutsugeki-katoku-tai.json) |
 | Ultraman All-Star Chronicle | 59362 | [59362-ultraman-all-star-chronicle.json](./59362-ultraman-all-star-chronicle.json) |
 | Ultraman Ball | 76600 | [76600-ultraman-ball.json](./76600-ultraman-ball.json) |
 | Ultraman Fighting Evolution 2 | 72608 | [72608-ultraman-fighting-evolution-2.json](./72608-ultraman-fighting-evolution-2.json) |
+| Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | UltraNothing | 277832 | [277832-ultranothing.json](./277832-ultranothing.json) |
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
