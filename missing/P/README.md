@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | P World | 332449 | [332449-p-world.json](./332449-p-world.json) |
+| P-Kara | 59365 | [59365-p-kara.json](./59365-p-kara.json) |
 | P-Robots | 93029 | [93029-p-robots.json](./93029-p-robots.json) |
 | P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
