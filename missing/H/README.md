@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween Pinball | 89159 | [89159-halloween-pinball.json](./89159-halloween-pinball.json) |
+| Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
 | Halloween Secrets: The Blood Vow - Collector's Edition | 362829 | [362829-halloween-secrets-the-blood-vow-collectors-edition.json](./362829-halloween-secrets-the-blood-vow-collectors-edition.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
 | Halloween Stories: Inspiration's Spark - Collector's Edition | 362849 | [362849-halloween-stories-inspirations-spark-collectors-edition.json](./362849-halloween-stories-inspirations-spark-collectors-edition.json) |
@@ -1062,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here Again | 410923 | [410923-here-again.json](./410923-here-again.json) |
+| Here and There Along the Echo | 74392 | [74392-here-and-there-along-the-echo.json](./74392-here-and-there-along-the-echo.json) |
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
@@ -1099,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero World | 322376 | [322376-hero-world.json](./322376-hero-world.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
+| Hero's Descent | 74363 | [74363-heros-descent.json](./74363-heros-descent.json) |
 | Hero's Everyday Life | 157706 | [157706-heros-everyday-life.json](./157706-heros-everyday-life.json) |
 | Hero's Hand | 335866 | [335866-heros-hand.json](./335866-heros-hand.json) |
 | Hero's Quest: Automatic Roguelite RPG | 199663 | [199663-heros-quest-automatic-roguelite-rpg.json](./199663-heros-quest-automatic-roguelite-rpg.json) |
@@ -1658,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday in Europe: Netherlands Dreams - Collector's Edition | 362852 | [362852-holiday-in-europe-netherlands-dreams-collectors-edition.json](./362852-holiday-in-europe-netherlands-dreams-collectors-edition.json) |
 | Holiday Jigsaw: Christmas 2 | 215684 | [215684-holiday-jigsaw-christmas-2.json](./215684-holiday-jigsaw-christmas-2.json) |
 | Holiday Jigsaw: Thanksgiving Day 3 | 215683 | [215683-holiday-jigsaw-thanksgiving-day-3.json](./215683-holiday-jigsaw-thanksgiving-day-3.json) |
+| Holiday Maker | 74396 | [74396-holiday-maker.json](./74396-holiday-maker.json) |
 | Holiday Mania | 157183 | [157183-holiday-mania.json](./157183-holiday-mania.json) |
 | Holiday Racer | 144386 | [144386-holiday-racer.json](./144386-holiday-racer.json) |
 | Hollenburg: Hell Castle | 256259 | [256259-hollenburg-hell-castle.json](./256259-hollenburg-hell-castle.json) |
