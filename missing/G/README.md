@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomy Island | 278133 | [278133-gloomy-island.json](./278133-gloomy-island.json) |
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
 | Gloria Sinica: Han Xiongnu Wars | 67930 | [67930-gloria-sinica-han-xiongnu-wars.json](./67930-gloria-sinica-han-xiongnu-wars.json) |
+| Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
 | Glory Hold | 151117 | [151117-glory-hold.json](./151117-glory-hold.json) |
 | Glory of the Survivor | 200134 | [200134-glory-of-the-survivor.json](./200134-glory-of-the-survivor.json) |
@@ -1319,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Blocks | 115730 | [115730-google-blocks.json](./115730-google-blocks.json) |
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
+| Google Spotlight Stories: Pearl | 74401 | [74401-google-spotlight-stories-pearl.json](./74401-google-spotlight-stories-pearl.json) |
 | Google Spotlight Stories: Son of Jaguar | 75041 | [75041-google-spotlight-stories-son-of-jaguar.json](./75041-google-spotlight-stories-son-of-jaguar.json) |
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
 | Google: Squid Game | 327862 | [327862-google-squid-game.json](./327862-google-squid-game.json) |
