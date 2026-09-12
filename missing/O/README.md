@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Frog | 132242 | [132242-oh-frog.json](./132242-oh-frog.json) |
 | Oh Jeez, Oh No, My Rabbits Are Gone! | 127201 | [127201-oh-jeez-oh-no-my-rabbits-are-gone.json](./127201-oh-jeez-oh-no-my-rabbits-are-gone.json) |
 | Oh My Cod!!: We Mer-Made For Each Other! | 302119 | [302119-oh-my-cod-we-mer-made-for-each-other.json](./302119-oh-my-cod-we-mer-made-for-each-other.json) |
+| Oh My Goat | 51172 | [51172-oh-my-goat.json](./51172-oh-my-goat.json) |
 | Oh My God, Look At This Knight | 76640 | [76640-oh-my-god-look-at-this-knight.json](./76640-oh-my-god-look-at-this-knight.json) |
 | Oh My Gore! | 36231 | [36231-oh-my-gore.json](./36231-oh-my-gore.json) |
 | Oh My Pool! | 144970 | [144970-oh-my-pool.json](./144970-oh-my-pool.json) |
@@ -504,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Plague | 184565 | [184565-once-upon-a-plague.json](./184565-once-upon-a-plague.json) |
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
+| Once Upon A Time | 51189 | [51189-once-upon-a-time.json](./51189-once-upon-a-time.json) |
 | Once Upon a Time in Morocco | 208586 | [208586-once-upon-a-time-in-morocco.json](./208586-once-upon-a-time-in-morocco.json) |
 | Once Upon a Time in the Colony | 173233 | [173233-once-upon-a-time-in-the-colony.json](./173233-once-upon-a-time-in-the-colony.json) |
 | Once Upon an Electric Dream | 132802 | [132802-once-upon-an-electric-dream.json](./132802-once-upon-an-electric-dream.json) |
