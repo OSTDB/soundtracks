@@ -800,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
+| Hell Cab | 57625 | [57625-hell-cab.json](./57625-hell-cab.json) |
 | Hell Can Wait | 133412 | [133412-hell-can-wait.json](./133412-hell-can-wait.json) |
 | Hell Clock | 324256 | [324256-hell-clock.json](./324256-hell-clock.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
@@ -1925,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
+| Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
 | Hormiga Escape 2 | 315256 | [315256-hormiga-escape-2.json](./315256-hormiga-escape-2.json) |
@@ -2186,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Friday Night Poker | 210070 | [210070-hoyle-friday-night-poker.json](./210070-hoyle-friday-night-poker.json) |
 | Hoyle Jewels: Swap & Drop It | 210071 | [210071-hoyle-jewels-swap-and-drop-it.json](./210071-hoyle-jewels-swap-and-drop-it.json) |
 | Hoyle Kid's Card Games | 99000 | [99000-hoyle-kids-card-games.json](./99000-hoyle-kids-card-games.json) |
+| Hoyle Official Book of Games: Volume 1 | 57604 | [57604-hoyle-official-book-of-games-volume-1.json](./57604-hoyle-official-book-of-games-volume-1.json) |
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
 | Hoyle Puzzle & Board Games 2009 | 210052 | [210052-hoyle-puzzle-and-board-games-2009.json](./210052-hoyle-puzzle-and-board-games-2009.json) |
@@ -2256,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
 | Humans Vs Ghouls | 153372 | [153372-humans-vs-ghouls.json](./153372-humans-vs-ghouls.json) |
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
+| Humbug | 57637 | [57637-humbug.json](./57637-humbug.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
