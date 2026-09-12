@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jasper and the City of Lights | 211237 | [211237-jasper-and-the-city-of-lights.json](./211237-jasper-and-the-city-of-lights.json) |
 | Jasper! | 92971 | [92971-jasper.json](./92971-jasper.json) |
 | Jasper's Island | 274978 | [274978-jaspers-island.json](./274978-jaspers-island.json) |
+| Java Jim in Square Shaped Trouble | 37069 | [37069-java-jim-in-square-shaped-trouble.json](./37069-java-jim-in-square-shaped-trouble.json) |
 | Javaders | 128578 | [128578-javaders.json](./128578-javaders.json) |
 | Jawbreaker | 177551 | [177551-jawbreaker.json](./177551-jawbreaker.json) |
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
@@ -287,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
 | Jets Killer | 291472 | [291472-jets-killer.json](./291472-jets-killer.json) |
 | Jets'n'Guns Gold | 30372 | [30372-jetsnguns-gold.json](./30372-jetsnguns-gold.json) |
+| Jetstrike | 37108 | [37108-jetstrike.json](./37108-jetstrike.json) |
 | Jett Rider | 260657 | [260657-jett-rider.json](./260657-jett-rider.json) |
 | Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
@@ -511,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre Adventure: All Star Battle R - Digital Deluxe Edition | 218458 | [218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json](./218458-jojos-bizarre-adventure-all-star-battle-r-digital-deluxe-edition.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Keicho Nijimura | 242545 | [242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json](./242545-jojos-bizarre-adventure-all-star-battle-r-keicho-nijimura.json) |
 | JoJo's Bizarre Adventure: All-Star Battle R - Rudol von Stroheim | 234633 | [234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json](./234633-jojos-bizarre-adventure-all-star-battle-r-rudol-von-stroheim.json) |
+| JoJo's Bizarre Adventure: Phantom Blood | 37045 | [37045-jojos-bizarre-adventure-phantom-blood.json](./37045-jojos-bizarre-adventure-phantom-blood.json) |
 | Jojo's Bizarre Adventure: The 7th Stand User | 128606 | [128606-jojos-bizarre-adventure-the-7th-stand-user.json](./128606-jojos-bizarre-adventure-the-7th-stand-user.json) |
 | JoJo's Bizarre Hyperdodge Hell!! | 399014 | [399014-jojos-bizarre-hyperdodge-hell.json](./399014-jojos-bizarre-hyperdodge-hell.json) |
 | JoJo's Bizarre RPG: Battle Tendency | 172764 | [172764-jojos-bizarre-rpg-battle-tendency.json](./172764-jojos-bizarre-rpg-battle-tendency.json) |
