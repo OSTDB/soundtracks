@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Station | 132772 | [132772-radio-station.json](./132772-radio-station.json) |
 | Radio Violence | 110987 | [110987-radio-violence.json](./110987-radio-violence.json) |
 | Radio Viscera | 153438 | [153438-radio-viscera.json](./153438-radio-viscera.json) |
+| Radioactive | 29757 | [29757-radioactive.json](./29757-radioactive.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
