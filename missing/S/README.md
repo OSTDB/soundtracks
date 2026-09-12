@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooter Slayer | 358885 | [358885-scooter-slayer.json](./358885-scooter-slayer.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
 | Scopophobia | 361678 | [361678-scopophobia.json](./361678-scopophobia.json) |
+| Scorb VR | 75082 | [75082-scorb-vr.json](./75082-scorb-vr.json) |
 | Scorched 3D | 51249 | [51249-scorched-3d.json](./51249-scorched-3d.json) |
 | Scorched Lands | 401536 | [401536-scorched-lands.json](./401536-scorched-lands.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
@@ -2359,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
+| SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
@@ -2629,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Wars | 292544 | [292544-slime-wars.json](./292544-slime-wars.json) |
 | Slime-san | 28069 | [28069-slime-san.json](./28069-slime-san.json) |
 | Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
+| Slimebrawl | 75061 | [75061-slimebrawl.json](./75061-slimebrawl.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
@@ -3139,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
 | Solar Candy | 180849 | [180849-solar-candy.json](./180849-solar-candy.json) |
+| Solar Collector | 75034 | [75034-solar-collector.json](./75034-solar-collector.json) |
 | Solar Colonies | 191810 | [191810-solar-colonies.json](./191810-solar-colonies.json) |
 | Solar Conqueror | 170532 | [170532-solar-conqueror.json](./170532-solar-conqueror.json) |
 | Solar Core | 68683 | [68683-solar-core.json](./68683-solar-core.json) |
@@ -3868,6 +3872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
 | Space Kadet | 123598 | [123598-space-kadet.json](./123598-space-kadet.json) |
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
+| Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
 | Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
 | Space Love Delta | 134638 | [134638-space-love-delta.json](./134638-space-love-delta.json) |
@@ -4632,12 +4637,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Birds | 305171 | [305171-star-birds.json](./305171-star-birds.json) |
 | Star Blaze | 95389 | [95389-star-blaze.json](./95389-star-blaze.json) |
 | Star Blues | 216795 | [216795-star-blues.json](./216795-star-blues.json) |
+| Star Boss | 75109 | [75109-star-boss.json](./75109-star-boss.json) |
 | Star Boy | 96676 | [96676-star-boy.json](./96676-star-boy.json) |
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Castle PC | 95420 | [95420-star-castle-pc.json](./95420-star-castle-pc.json) |
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
 | Star Chef 2: Cooking Game | 153999 | [153999-star-chef-2-cooking-game.json](./153999-star-chef-2-cooking-game.json) |
 | Star Chindy | 175420 | [175420-star-chindy.json](./175420-star-chindy.json) |
+| Star Command | 75091 | [75091-star-command.json](./75091-star-command.json) |
 | Star Conflict: Bark-2 | 310391 | [310391-star-conflict-bark-2.json](./310391-star-conflict-bark-2.json) |
 | Star Conflict: Bark-2 - Deluxe Edition | 310392 | [310392-star-conflict-bark-2-deluxe-edition.json](./310392-star-conflict-bark-2-deluxe-edition.json) |
 | Star Conflict: Custodian | 354419 | [354419-star-conflict-custodian.json](./354419-star-conflict-custodian.json) |
@@ -4771,6 +4778,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Hunter's Legacy Bundle | 325858 | [325858-star-wars-outlaws-hunters-legacy-bundle.json](./325858-star-wars-outlaws-hunters-legacy-bundle.json) |
 | Star Wars Outlaws: Special Edition | 299474 | [299474-star-wars-outlaws-special-edition.json](./299474-star-wars-outlaws-special-edition.json) |
 | Star Wars Outlaws: Ultimate Edition | 299475 | [299475-star-wars-outlaws-ultimate-edition.json](./299475-star-wars-outlaws-ultimate-edition.json) |
+| Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
+| Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Dark Forces Remaster | 262973 | [262973-star-wars-dark-forces-remaster.json](./262973-star-wars-dark-forces-remaster.json) |
@@ -4785,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
+| Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
 | Star Wars: Project Stardust | 137006 | [137006-star-wars-project-stardust.json](./137006-star-wars-project-stardust.json) |
 | Star Wars: Puzzle Droids | 97355 | [97355-star-wars-puzzle-droids.json](./97355-star-wars-puzzle-droids.json) |
 | Star Wars: Rebel Assault | 161 | [161-star-wars-rebel-assault.json](./161-star-wars-rebel-assault.json) |
@@ -4793,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
+| Star Wars: The Best of PC | 75085 | [75085-star-wars-the-best-of-pc.json](./75085-star-wars-the-best-of-pc.json) |
 | Star Wars: The Clone Wars | 3760 | [3760-star-wars-the-clone-wars.json](./3760-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 78357 | [78357-star-wars-the-clone-wars.json](./78357-star-wars-the-clone-wars.json) |
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
@@ -5203,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman 3D Wingsuit: Deluxe | 406699 | [406699-stickman-3d-wingsuit-deluxe.json](./406699-stickman-3d-wingsuit-deluxe.json) |
 | Stickman Arc Hero Fight | 235234 | [235234-stickman-arc-hero-fight.json](./235234-stickman-arc-hero-fight.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
+| Stickman Destruction | 75112 | [75112-stickman-destruction.json](./75112-stickman-destruction.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
 | Stickman Flip Diving | 106523 | [106523-stickman-flip-diving.json](./106523-stickman-flip-diving.json) |
