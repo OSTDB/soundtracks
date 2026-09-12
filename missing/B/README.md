@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
+| Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
 | Bacchanalia | 227880 | [227880-bacchanalia.json](./227880-bacchanalia.json) |
 | Bacchus | 121626 | [121626-bacchus.json](./121626-bacchus.json) |
@@ -1357,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bestowers of Eternity | 73763 | [73763-bestowers-of-eternity.json](./73763-bestowers-of-eternity.json) |
 | Bet on Beta | 415119 | [415119-bet-on-beta.json](./415119-bet-on-beta.json) |
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
+| Beta Runner | 47989 | [47989-beta-runner.json](./47989-beta-runner.json) |
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | BeTrapped! | 71522 | [71522-betrapped.json](./71522-betrapped.json) |
 | Betray Me Not | 239679 | [239679-betray-me-not.json](./239679-betray-me-not.json) |
@@ -2238,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstroke | 62226 | [62226-bloodstroke.json](./62226-bloodstroke.json) |
 | BloodSworn | 267099 | [267099-bloodsworn.json](./267099-bloodsworn.json) |
 | Bloodthirsty Kingdom: Vampire War | 181308 | [181308-bloodthirsty-kingdom-vampire-war.json](./181308-bloodthirsty-kingdom-vampire-war.json) |
+| BloodWarrior | 47982 | [47982-bloodwarrior.json](./47982-bloodwarrior.json) |
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
 | Bloodworks | 76533 | [76533-bloodworks.json](./76533-bloodworks.json) |
@@ -2918,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Kaka | 246422 | [246422-brave-kaka.json](./246422-brave-kaka.json) |
 | Brave Legacy | 296379 | [296379-brave-legacy.json](./296379-brave-legacy.json) |
 | Brave Mouse Cartographer Trilogy | 139476 | [139476-brave-mouse-cartographer-trilogy.json](./139476-brave-mouse-cartographer-trilogy.json) |
+| Brave Path | 48002 | [48002-brave-path.json](./48002-brave-path.json) |
 | Brave Prove | 91891 | [91891-brave-prove.json](./91891-brave-prove.json) |
 | Brave Quest | 296378 | [296378-brave-quest.json](./296378-brave-quest.json) |
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
