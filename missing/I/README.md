@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intercity Truck Simulator | 100814 | [100814-intercity-truck-simulator.json](./100814-intercity-truck-simulator.json) |
 | Intercolonies | 319352 | [319352-intercolonies.json](./319352-intercolonies.json) |
 | Interdictor Pilot | 342035 | [342035-interdictor-pilot.json](./342035-interdictor-pilot.json) |
+| Interference | 56447 | [56447-interference.json](./56447-interference.json) |
 | Interference: Dead Air | 211199 | [211199-interference-dead-air.json](./211199-interference-dead-air.json) |
 | Intergalactic Defenders | 340757 | [340757-intergalactic-defenders.json](./340757-intergalactic-defenders.json) |
 | Intergalactic Galactic Dinosaur Banana | 85537 | [85537-intergalactic-galactic-dinosaur-banana.json](./85537-intergalactic-galactic-dinosaur-banana.json) |
