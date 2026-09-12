@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're the Boss | 415950 | [415950-youre-the-boss.json](./415950-youre-the-boss.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
+| Youko to Anata | 66056 | [66056-youko-to-anata.json](./66056-youko-to-anata.json) |
 | Yōulì: Yasashii Lìxiǎn | 394186 | [394186-youli-yasashii-lixian.json](./394186-youli-yasashii-lixian.json) |
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
 | Young Dilbert Hi-Tech Hijinks | 70332 | [70332-young-dilbert-hi-tech-hijinks.json](./70332-young-dilbert-hi-tech-hijinks.json) |
