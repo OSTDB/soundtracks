@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibbage XL | 33374 | [33374-fibbage-xl.json](./33374-fibbage-xl.json) |
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
+| Fiber Twig 2: Restoration of Magic Garden | 58183 | [58183-fiber-twig-2-restoration-of-magic-garden.json](./58183-fiber-twig-2-restoration-of-magic-garden.json) |
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
 | Fiddle | 80534 | [80534-fiddle.json](./80534-fiddle.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
@@ -1454,10 +1455,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
 | Flick Arena | 104094 | [104094-flick-arena.json](./104094-flick-arena.json) |
 | Flick Erasers Battle Royale | 315834 | [315834-flick-erasers-battle-royale.json](./315834-flick-erasers-battle-royale.json) |
+| Flick Field Goal 16 | 58208 | [58208-flick-field-goal-16.json](./58208-flick-field-goal-16.json) |
 | Flick Fishing | 79238 | [79238-flick-fishing.json](./79238-flick-fishing.json) |
+| Flick Golf Extreme | 58206 | [58206-flick-golf-extreme.json](./58206-flick-golf-extreme.json) |
 | Flick Home Run ! HD | 89537 | [89537-flick-home-run-hd.json](./89537-flick-home-run-hd.json) |
 | Flick Kick Football Legends | 305151 | [305151-flick-kick-football-legends.json](./305151-flick-kick-football-legends.json) |
+| Flick Nations Rugby | 58182 | [58182-flick-nations-rugby.json](./58182-flick-nations-rugby.json) |
+| Flick Quarterback 16 | 58207 | [58207-flick-quarterback-16.json](./58207-flick-quarterback-16.json) |
+| Flick Rugby 16 | 58197 | [58197-flick-rugby-16.json](./58197-flick-rugby-16.json) |
 | Flick Shoot | 117727 | [117727-flick-shoot.json](./117727-flick-shoot.json) |
+| Flick Soccer 15 | 58192 | [58192-flick-soccer-15.json](./58192-flick-soccer-15.json) |
+| Flick Soccer Brazil | 58193 | [58193-flick-soccer-brazil.json](./58193-flick-soccer-brazil.json) |
+| Flick Soccer France 2016 | 58204 | [58204-flick-soccer-france-2016.json](./58204-flick-soccer-france-2016.json) |
 | Flicker | 381024 | [381024-flicker.json](./381024-flicker.json) |
 | Flicklash | 259540 | [259540-flicklash.json](./259540-flicklash.json) |
 | Flickle | 383393 | [383393-flickle.json](./383393-flickle.json) |
@@ -2149,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragments of Fear | 406703 | [406703-fragments-of-fear.json](./406703-fragments-of-fear.json) |
 | Fragport | 260956 | [260956-fragport.json](./260956-fragport.json) |
 | FragPunk: Toys Awaken - Season 2: Chapter 2 | 362276 | [362276-fragpunk-toys-awaken-season-2-chapter-2.json](./362276-fragpunk-toys-awaken-season-2-chapter-2.json) |
+| Fragrance Tale | 58175 | [58175-fragrance-tale.json](./58175-fragrance-tale.json) |
 | Fragrant Story and Papaya's Path | 315832 | [315832-fragrant-story-and-papayas-path.json](./315832-fragrant-story-and-papayas-path.json) |
 | Frak! | 91894 | [91894-frak.json](./91894-frak.json) |
 | Frame Breaker | 304333 | [304333-frame-breaker.json](./304333-frame-breaker.json) |
