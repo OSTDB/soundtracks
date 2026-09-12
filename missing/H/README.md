@@ -2232,6 +2232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
 | Hoyle Puzzle & Board Games 2009 | 210052 | [210052-hoyle-puzzle-and-board-games-2009.json](./210052-hoyle-puzzle-and-board-games-2009.json) |
+| Hoyle Puzzle and Board Games 2010 | 51209 | [51209-hoyle-puzzle-and-board-games-2010.json](./51209-hoyle-puzzle-and-board-games-2010.json) |
 | Hoyle South Beach Solitaire | 210051 | [210051-hoyle-south-beach-solitaire.json](./210051-hoyle-south-beach-solitaire.json) |
 | Hoyle Table Games 2004 | 70940 | [70940-hoyle-table-games-2004.json](./70940-hoyle-table-games-2004.json) |
 | Hozy | 345443 | [345443-hozy.json](./345443-hozy.json) |
