@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren Ti Tu Pu | 130972 | [130972-ren-ti-tu-pu.json](./130972-ren-ti-tu-pu.json) |
+| Renai 0 Kilometer | 61552 | [61552-renai-0-kilometer.json](./61552-renai-0-kilometer.json) |
 | Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
 | Rencia | 120925 | [120925-rencia.json](./120925-rencia.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
 | Replica Club Route D | 404249 | [404249-replica-club-route-d.json](./404249-replica-club-route-d.json) |
+| Replica Island | 61625 | [61625-replica-island.json](./61625-replica-island.json) |
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
 | Replics | 129765 | [129765-replics.json](./129765-replics.json) |
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
