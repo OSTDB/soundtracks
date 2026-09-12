@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Frog | 327576 | [327576-legend-of-frog.json](./327576-legend-of-frog.json) |
 | Legend of Heroes: Eternal Arena | 151200 | [151200-legend-of-heroes-eternal-arena.json](./151200-legend-of-heroes-eternal-arena.json) |
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
+| Legend of Kunoichi | 59368 | [59368-legend-of-kunoichi.json](./59368-legend-of-kunoichi.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
 | Legend of Maratha Warriors | 158702 | [158702-legend-of-maratha-warriors.json](./158702-legend-of-maratha-warriors.json) |
 | Legend of Marrow | 296933 | [296933-legend-of-marrow.json](./296933-legend-of-marrow.json) |
