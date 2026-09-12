@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T02:34:06.450Z",
-  "total_missing": 60210,
+  "generated_at": "2026-09-12T02:41:33.197Z",
+  "total_missing": 60209,
   "games": [
     {
       "igdb_id": 306086,
@@ -2596,11 +2596,6 @@
       "igdb_id": 146325,
       "game_name": "A Vacation in Nebula",
       "file": "missing/A/146325-a-vacation-in-nebula.json"
-    },
-    {
-      "igdb_id": 108484,
-      "game_name": "A Valiant Story",
-      "file": "missing/A/108484-a-valiant-story.json"
     },
     {
       "igdb_id": 338182,
