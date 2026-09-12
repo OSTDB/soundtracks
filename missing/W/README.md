@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
+| War of the Lance | 50494 | [50494-war-of-the-lance.json](./50494-war-of-the-lance.json) |
 | War of the Ring | 356066 | [356066-war-of-the-ring.json](./356066-war-of-the-ring.json) |
 | War of the Roses: Kingmaker | 11040 | [11040-war-of-the-roses-kingmaker.json](./11040-war-of-the-roses-kingmaker.json) |
 | War of the Seraphim | 117056 | [117056-war-of-the-seraphim.json](./117056-war-of-the-seraphim.json) |
@@ -795,6 +796,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
+| Where in America's Past Is Carmen Sandiego? | 50495 | [50495-where-in-americas-past-is-carmen-sandiego.json](./50495-where-in-americas-past-is-carmen-sandiego.json) |
+| Where in Space Is Carmen Sandiego? | 50496 | [50496-where-in-space-is-carmen-sandiego.json](./50496-where-in-space-is-carmen-sandiego.json) |
 | Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
 | Where in the World is Carmen Sandiego? Enhanced Edition | 143640 | [143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json](./143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json) |
 | Where in Time is Carmen Sandiego? | 4376 | [4376-where-in-time-is-carmen-sandiego.json](./4376-where-in-time-is-carmen-sandiego.json) |
@@ -1079,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy Crash | 225626 | [225626-willy-crash.json](./225626-willy-crash.json) |
 | Willy Crash Mini | 225627 | [225627-willy-crash-mini.json](./225627-willy-crash-mini.json) |
 | Wilmot's Warehouse | 77494 | [77494-wilmots-warehouse.json](./77494-wilmots-warehouse.json) |
+| Wiloo | 50533 | [50533-wiloo.json](./50533-wiloo.json) |
 | Wilson's Heart | 19597 | [19597-wilsons-heart.json](./19597-wilsons-heart.json) |
 | Wily & Right no Rock Board: That's Paradise | 295041 | [295041-wily-and-right-no-rock-board-thats-paradise.json](./295041-wily-and-right-no-rock-board-thats-paradise.json) |
 | Wimbledon '88 | 121720 | [121720-wimbledon-88.json](./121720-wimbledon-88.json) |
