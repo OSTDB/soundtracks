@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
+| Order matters | 26486 | [26486-order-matters.json](./26486-order-matters.json) |
 | Order of Battle: Allies Defiant | 154565 | [154565-order-of-battle-allies-defiant.json](./154565-order-of-battle-allies-defiant.json) |
 | Order of Battle: Blitzkrieg | 118966 | [118966-order-of-battle-blitzkrieg.json](./118966-order-of-battle-blitzkrieg.json) |
 | Order of Battle: Burma Road | 118968 | [118968-order-of-battle-burma-road.json](./118968-order-of-battle-burma-road.json) |
