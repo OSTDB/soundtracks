@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.T.R.: Cross The Road | 240202 | [240202-c-t-r-cross-the-road.json](./240202-c-t-r-cross-the-road.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
+| C'est La Vie | 55882 | [55882-cest-la-vie.json](./55882-cest-la-vie.json) |
 | C&C Level-CD: Vol.3 | 122309 | [122309-c-and-c-level-cd-vol-3.json](./122309-c-and-c-level-cd-vol-3.json) |
 | C1 Circuit | 143653 | [143653-c1-circuit.json](./143653-c1-circuit.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
+| Cavernous Wastes | 55872 | [55872-cavernous-wastes.json](./55872-cavernous-wastes.json) |
 | Caverns | 235753 | [235753-caverns.json](./235753-caverns.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
 | Caverns of Darkness | 256819 | [256819-caverns-of-darkness.json](./256819-caverns-of-darkness.json) |
@@ -1446,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
 | Cho Chabudai Gaeshi | 94174 | [94174-cho-chabudai-gaeshi.json](./94174-cho-chabudai-gaeshi.json) |
 | Cho Chabudai Gaeshi! 2 | 313483 | [313483-cho-chabudai-gaeshi-2.json](./313483-cho-chabudai-gaeshi-2.json) |
+| Cho Tousouchuu Atsumare Saikyou no Tousousya Tachi | 55844 | [55844-cho-tousouchuu-atsumare-saikyou-no-tousousya-tachi.json](./55844-cho-tousouchuu-atsumare-saikyou-no-tousousya-tachi.json) |
 | Cho-Nazo-Oh | 146276 | [146276-cho-nazo-oh.json](./146276-cho-nazo-oh.json) |
 | Cho-ricchi! Tamagotchi no Puchi Puchi Omisecchi de Violin Lesson | 222310 | [222310-cho-ricchi-tamagotchi-no-puchi-puchi-omisecchi-de-violin-lesson.json](./222310-cho-ricchi-tamagotchi-no-puchi-puchi-omisecchi-de-violin-lesson.json) |
 | Chobits: Atashi Dake no Hito | 78730 | [78730-chobits-atashi-dake-no-hito.json](./78730-chobits-atashi-dake-no-hito.json) |
@@ -1653,6 +1656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Ball Idol | 178652 | [178652-chuck-ball-idol.json](./178652-chuck-ball-idol.json) |
 | Chuck Bonesteel & the Alien Apocalypse | 392143 | [392143-chuck-bonesteel-and-the-alien-apocalypse.json](./392143-chuck-bonesteel-and-the-alien-apocalypse.json) |
 | Chuck E. Cheese: Skate Universe | 202819 | [202819-chuck-e-cheese-skate-universe.json](./202819-chuck-e-cheese-skate-universe.json) |
+| Chuck E. Cheese's Alien Defense Force | 55890 | [55890-chuck-e-cheeses-alien-defense-force.json](./55890-chuck-e-cheeses-alien-defense-force.json) |
 | Chuck E. Cheese's Gameroom | 55902 | [55902-chuck-e-cheeses-gameroom.json](./55902-chuck-e-cheeses-gameroom.json) |
 | Chuck E. Cheese's Playhouse | 55904 | [55904-chuck-e-cheeses-playhouse.json](./55904-chuck-e-cheeses-playhouse.json) |
 | Chuck E. Cheese's Racing World | 103522 | [103522-chuck-e-cheeses-racing-world.json](./103522-chuck-e-cheeses-racing-world.json) |
@@ -2787,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate Hell | 391617 | [391617-corporate-hell.json](./391617-corporate-hell.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
 | Corporation | 57696 | [57696-corporation.json](./57696-corporation.json) |
+| Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
 | Corpse Clue | 176983 | [176983-corpse-clue.json](./176983-corpse-clue.json) |
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
