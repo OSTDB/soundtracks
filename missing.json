@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T16:18:55.966Z",
-  "total_missing": 62577,
+  "generated_at": "2026-09-12T16:21:39.947Z",
+  "total_missing": 62576,
   "games": [
     {
       "igdb_id": 306086,
@@ -3021,11 +3021,6 @@
       "igdb_id": 119004,
       "game_name": "Absolute Fall",
       "file": "missing/A/119004-absolute-fall.json"
-    },
-    {
-      "igdb_id": 104064,
-      "game_name": "Absolute VR Experiences",
-      "file": "missing/A/104064-absolute-vr-experiences.json"
     },
     {
       "igdb_id": 78616,
