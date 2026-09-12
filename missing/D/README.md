@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Beats: Waifus | 186237 | [186237-dj-beats-waifus.json](./186237-dj-beats-waifus.json) |
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
 | DJ Mix Tour | 68028 | [68028-dj-mix-tour.json](./68028-dj-mix-tour.json) |
+| DJ Puff's Volcanic Capers | 47215 | [47215-dj-puffs-volcanic-capers.json](./47215-dj-puffs-volcanic-capers.json) |
 | DJ Simulator | 303479 | [303479-dj-simulator.json](./303479-dj-simulator.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
 | Djinni & Thaco: Trial By Spire | 132779 | [132779-djinni-and-thaco-trial-by-spire.json](./132779-djinni-and-thaco-trial-by-spire.json) |
