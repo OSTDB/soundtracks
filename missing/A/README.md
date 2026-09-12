@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Man: Search For Base X | 49868 | [49868-action-man-search-for-base-x.json](./49868-action-man-search-for-base-x.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Painting Pro | 128587 | [128587-action-painting-pro.json](./128587-action-painting-pro.json) |
+| Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
 | Action Replay Max | 43302 | [43302-action-replay-max.json](./43302-action-replay-max.json) |
 | Action Toys | 193953 | [193953-action-toys.json](./193953-action-toys.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
@@ -1200,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Gladiator | 207529 | [207529-alien-gladiator.json](./207529-alien-gladiator.json) |
 | Alien Hallway | 16246 | [16246-alien-hallway.json](./16246-alien-hallway.json) |
 | Alien Harvest Leader | 141890 | [141890-alien-harvest-leader.json](./141890-alien-harvest-leader.json) |
+| Alien Hell | 24895 | [24895-alien-hell.json](./24895-alien-hell.json) |
 | Alien Hominid | 314892 | [314892-alien-hominid.json](./314892-alien-hominid.json) |
 | Alien Hominid 360 | 314895 | [314895-alien-hominid-360.json](./314895-alien-hominid-360.json) |
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
@@ -1968,7 +1970,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 2070: Bonus Edition | 180261 | [180261-anno-2070-bonus-edition.json](./180261-anno-2070-bonus-edition.json) |
 | Anno 2070: Royal Edition | 180263 | [180263-anno-2070-royal-edition.json](./180263-anno-2070-royal-edition.json) |
 | Anno 2205: Asteroid Miner | 180264 | [180264-anno-2205-asteroid-miner.json](./180264-anno-2205-asteroid-miner.json) |
+| Anno 2205: Frontiers | 24873 | [24873-anno-2205-frontiers.json](./24873-anno-2205-frontiers.json) |
+| Anno 2205: Orbit | 24872 | [24872-anno-2205-orbit.json](./24872-anno-2205-orbit.json) |
 | Anno 2205: Season Pass | 180200 | [180200-anno-2205-season-pass.json](./180200-anno-2205-season-pass.json) |
+| Anno 2205: Tundra | 24871 | [24871-anno-2205-tundra.json](./24871-anno-2205-tundra.json) |
+| Anno 2205: Wildwater Bay | 24870 | [24870-anno-2205-wildwater-bay.json](./24870-anno-2205-wildwater-bay.json) |
 | Anno: Build An Empire | 344911 | [344911-anno-build-an-empire.json](./344911-anno-build-an-empire.json) |
 | Annoy This Guy | 290684 | [290684-annoy-this-guy.json](./290684-annoy-this-guy.json) |
 | Annoying Ball Game | 171598 | [171598-annoying-ball-game.json](./171598-annoying-ball-game.json) |
@@ -2646,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armies of Exigo | 18855 | [18855-armies-of-exigo.json](./18855-armies-of-exigo.json) |
 | Armies of Ganivar | 130322 | [130322-armies-of-ganivar.json](./130322-armies-of-ganivar.json) |
 | Armobiles | 122976 | [122976-armobiles.json](./122976-armobiles.json) |
+| Armor Assault | 24898 | [24898-armor-assault.json](./24898-armor-assault.json) |
 | Armor Battle | 245574 | [245574-armor-battle.json](./245574-armor-battle.json) |
 | Armor Blitz | 276698 | [276698-armor-blitz.json](./276698-armor-blitz.json) |
 | Armor Clash 2022 | 188092 | [188092-armor-clash-2022.json](./188092-armor-clash-2022.json) |
