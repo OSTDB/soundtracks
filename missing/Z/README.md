@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaleste | 329972 | [329972-zaleste.json](./329972-zaleste.json) |
 | ZampanioSimulator | 260135 | [260135-zampaniosimulator.json](./260135-zampaniosimulator.json) |
 | Zamzara | 74429 | [74429-zamzara.json](./74429-zamzara.json) |
+| Zan Gear | 46553 | [46553-zan-gear.json](./46553-zan-gear.json) |
 | Zanac | 292025 | [292025-zanac.json](./292025-zanac.json) |
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
 | Zanfium Tower | 173838 | [173838-zanfium-tower.json](./173838-zanfium-tower.json) |
