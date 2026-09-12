@@ -188,8 +188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
 | Abstract World | 201247 | [201247-abstract-world.json](./201247-abstract-world.json) |
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
-| Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
-| Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
 | Abunka | 216777 | [216777-abunka.json](./216777-abunka.json) |
@@ -1321,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
 | All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
+| All One | 41370 | [41370-all-one.json](./41370-all-one.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
 | All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
