@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ae | 184042 | [184042-ae.json](./184042-ae.json) |
 | AE Mini Game Collection | 279599 | [279599-ae-mini-game-collection.json](./279599-ae-mini-game-collection.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
+| Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
 | Aefen Fall | 141252 | [141252-aefen-fall.json](./141252-aefen-fall.json) |
 | Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
@@ -921,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat Revolution | 61062 | [61062-air-combat-revolution.json](./61062-air-combat-revolution.json) |
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
 | Air Conflicts: Secret Wars - Ultimate Edition | 27783 | [27783-air-conflicts-secret-wars-ultimate-edition.json](./27783-air-conflicts-secret-wars-ultimate-edition.json) |
+| Air Conflicts: Vietnam Ultimate Edition | 44546 | [44546-air-conflicts-vietnam-ultimate-edition.json](./44546-air-conflicts-vietnam-ultimate-edition.json) |
 | Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
