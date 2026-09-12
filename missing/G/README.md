@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George Likes to Hide | 333586 | [333586-george-likes-to-hide.json](./333586-george-likes-to-hide.json) |
 | George of the Jungle and the Search for the Secret | 259265 | [259265-george-of-the-jungle-and-the-search-for-the-secret.json](./259265-george-of-the-jungle-and-the-search-for-the-secret.json) |
 | George: A Horror Story | 189182 | [189182-george-a-horror-story.json](./189182-george-a-horror-story.json) |
+| GeoSpark | 67234 | [67234-geospark.json](./67234-geospark.json) |
 | Geotastic | 142722 | [142722-geotastic.json](./142722-geotastic.json) |
 | GeoWar | 127316 | [127316-geowar.json](./127316-geowar.json) |
 | Geppaku: Monogatari | 342664 | [342664-geppaku-monogatari.json](./342664-geppaku-monogatari.json) |
