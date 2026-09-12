@@ -375,6 +375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma 1/2: Hiryuu Densetsu | 75856 | [75856-ranma-1-2-hiryuu-densetsu.json](./75856-ranma-1-2-hiryuu-densetsu.json) |
 | Ranma 1/2: Kakuren Bodesu Match | 75852 | [75852-ranma-1-2-kakuren-bodesu-match.json](./75852-ranma-1-2-kakuren-bodesu-match.json) |
 | Ranma 1/2: Toraware no Hanayome | 72691 | [72691-ranma-1-2-toraware-no-hanayome.json](./72691-ranma-1-2-toraware-no-hanayome.json) |
+| Ranma ½: Aka Neko-dan Teki Hihou | 38278 | [38278-ranma-1-2-aka-neko-dan-teki-hihou.json](./38278-ranma-1-2-aka-neko-dan-teki-hihou.json) |
 | Ranma ½: Chounai Gekitou-hen | 75857 | [75857-ranma-1-2-chounai-gekitou-hen.json](./75857-ranma-1-2-chounai-gekitou-hen.json) |
 | Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu! | 75858 | [75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json](./75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json) |
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
@@ -2162,6 +2163,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ron 13:13^2: The Thickening | 71003 | [71003-ron-13-13-2-the-thickening.json](./71003-ron-13-13-2-the-thickening.json) |
 | Ronald McDonalds | 255715 | [255715-ronald-mcdonalds.json](./255715-ronald-mcdonalds.json) |
 | Ronald Rubberduck | 47205 | [47205-ronald-rubberduck.json](./47205-ronald-rubberduck.json) |
+| Ronaldinho Campeonato Brasileiro 98 | 38302 | [38302-ronaldinho-campeonato-brasileiro-98.json](./38302-ronaldinho-campeonato-brasileiro-98.json) |
+| Ronaldinho Soccer 97 | 38293 | [38293-ronaldinho-soccer-97.json](./38293-ronaldinho-soccer-97.json) |
 | Ronaldo V-Football | 44836 | [44836-ronaldo-v-football.json](./44836-ronaldo-v-football.json) |
 | Ronaldo V-Soccer | 49885 | [49885-ronaldo-v-soccer.json](./49885-ronaldo-v-soccer.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
@@ -2433,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rúguǒ Yīshēng Zhǐ Yǒu Sān Shí Suì | 121646 | [121646-ruguo-yisheng-zhi-you-san-shi-sui.json](./121646-ruguo-yisheng-zhi-you-san-shi-sui.json) |
 | Ruh & the Glow | 178597 | [178597-ruh-and-the-glow.json](./178597-ruh-and-the-glow.json) |
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
+| Ruin Arm | 38292 | [38292-ruin-arm.json](./38292-ruin-arm.json) |
 | Ruin Raiders | 132787 | [132787-ruin-raiders.json](./132787-ruin-raiders.json) |
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
