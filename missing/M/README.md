@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf MatchUp | 99578 | [99578-mini-golf-matchup.json](./99578-mini-golf-matchup.json) |
 | Mini Golf Star Retro Golf Game | 104695 | [104695-mini-golf-star-retro-golf-game.json](./104695-mini-golf-star-retro-golf-game.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
+| Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
 | Mini Island Challenge Bundle | 147426 | [147426-mini-island-challenge-bundle.json](./147426-mini-island-challenge-bundle.json) |
 | Mini Island: Aroma | 192371 | [192371-mini-island-aroma.json](./192371-mini-island-aroma.json) |
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 24: Nolan Helmet Liveries | 309663 | [309663-motogp-24-nolan-helmet-liveries.json](./309663-motogp-24-nolan-helmet-liveries.json) |
 | MotoGP 24: Test Suits | 309662 | [309662-motogp-24-test-suits.json](./309662-motogp-24-test-suits.json) |
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
+| Motor Duels: Outcast | 55841 | [55841-motor-duels-outcast.json](./55841-motor-duels-outcast.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
 | Motor Rally | 246387 | [246387-motor-rally.json](./246387-motor-rally.json) |
 | Motor Wars | 137592 | [137592-motor-wars.json](./137592-motor-wars.json) |
@@ -4254,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
+| Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
