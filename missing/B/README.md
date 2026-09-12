@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Sea | 268479 | [268479-battle-sea.json](./268479-battle-sea.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
+| Battle Soccer: Field no Hasha | 42567 | [42567-battle-soccer-field-no-hasha.json](./42567-battle-soccer-field-no-hasha.json) |
 | Battle Species | 110339 | [110339-battle-species.json](./110339-battle-species.json) |
 | Battle Spirits CrossOver | 321743 | [321743-battle-spirits-crossover.json](./321743-battle-spirits-crossover.json) |
 | Battle Spirits Digital Starter | 137587 | [137587-battle-spirits-digital-starter.json](./137587-battle-spirits-digital-starter.json) |
@@ -2400,6 +2401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobby Says: Dance with me! | 67984 | [67984-bobby-says-dance-with-me.json](./67984-bobby-says-dance-with-me.json) |
 | Bobby Six Seven: Time Traveling Detective | 313143 | [313143-bobby-six-seven-time-traveling-detective.json](./313143-bobby-six-seven-time-traveling-detective.json) |
 | Bobby's World | 256298 | [256298-bobbys-world.json](./256298-bobbys-world.json) |
+| Bobby's World | 42566 | [42566-bobbys-world.json](./42566-bobbys-world.json) |
 | Bobcos | 368479 | [368479-bobcos.json](./368479-bobcos.json) |
 | Bober Bros: The Hole | 306350 | [306350-bober-bros-the-hole.json](./306350-bober-bros-the-hole.json) |
 | Bobls | 185156 | [185156-bobls.json](./185156-bobls.json) |
@@ -2511,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman | 162426 | [162426-bomberman.json](./162426-bomberman.json) |
 | Bomberman | 287647 | [287647-bomberman.json](./287647-bomberman.json) |
 | Bomberman '93 Special | 42056 | [42056-bomberman-93-special.json](./42056-bomberman-93-special.json) |
+| Bomberman B-Daman | 42545 | [42545-bomberman-b-daman.json](./42545-bomberman-b-daman.json) |
 | Bomberman Blitz | 67318 | [67318-bomberman-blitz.json](./67318-bomberman-blitz.json) |
 | Bomberman Chaos | 141782 | [141782-bomberman-chaos.json](./141782-bomberman-chaos.json) |
 | Bomberman GB | 135909 | [135909-bomberman-gb.json](./135909-bomberman-gb.json) |
@@ -3201,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
+| Brunswick World: Tournament of Champions | 42596 | [42596-brunswick-world-tournament-of-champions.json](./42596-brunswick-world-tournament-of-champions.json) |
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
