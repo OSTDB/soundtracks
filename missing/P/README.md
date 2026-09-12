@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paskal's Path | 213646 | [213646-paskals-path.json](./213646-paskals-path.json) |
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
+| Pass the Bomb | 67946 | [67946-pass-the-bomb.json](./67946-pass-the-bomb.json) |
 | Pass the Pigs | 18271 | [18271-pass-the-pigs.json](./18271-pass-the-pigs.json) |
 | Pass the Sphero | 200110 | [200110-pass-the-sphero.json](./200110-pass-the-sphero.json) |
 | Pass Tiger Cage | 374599 | [374599-pass-tiger-cage.json](./374599-pass-tiger-cage.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet of the Ants | 347134 | [347134-planet-of-the-ants.json](./347134-planet-of-the-ants.json) |
 | Planet Omnia | 197912 | [197912-planet-omnia.json](./197912-planet-omnia.json) |
+| Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Soccer | 57688 | [57688-planet-soccer.json](./57688-planet-soccer.json) |
@@ -1891,6 +1893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
 | Pocket Farm | 232176 | [232176-pocket-farm.json](./232176-pocket-farm.json) |
 | Pocket Farm | 245346 | [245346-pocket-farm.json](./245346-pocket-farm.json) |
+| Pocket Fish | 67942 | [67942-pocket-fish.json](./67942-pocket-fish.json) |
 | Pocket Hero-Wars of Mini Tanks | 105906 | [105906-pocket-hero-wars-of-mini-tanks.json](./105906-pocket-hero-wars-of-mini-tanks.json) |
 | Pocket Hunter Origins | 174870 | [174870-pocket-hunter-origins.json](./174870-pocket-hunter-origins.json) |
 | Pocket Idler: Fishing Pond | 298345 | [298345-pocket-idler-fishing-pond.json](./298345-pocket-idler-fishing-pond.json) |
@@ -2736,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Philosopher 2: Fan Mini Argument: Locke on Property and Labor | 394866 | [394866-pro-philosopher-2-fan-mini-argument-locke-on-property-and-labor.json](./394866-pro-philosopher-2-fan-mini-argument-locke-on-property-and-labor.json) |
 | Pro Pilkki 2 | 93597 | [93597-pro-pilkki-2.json](./93597-pro-pilkki-2.json) |
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
+| Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
 | Pro Strategy Football 2022 | 165623 | [165623-pro-strategy-football-2022.json](./165623-pro-strategy-football-2022.json) |
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
