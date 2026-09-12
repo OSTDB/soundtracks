@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Retirement: Supporter Pack | 305770 | [305770-rustys-retirement-supporter-pack.json](./305770-rustys-retirement-supporter-pack.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
+| Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
