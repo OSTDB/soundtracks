@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-ON! Houkago Rhythm Time | 269593 | [269593-k-on-houkago-rhythm-time.json](./269593-k-on-houkago-rhythm-time.json) |
 | K-ON!!: Houkago Rhythm Selection | 201262 | [201262-k-on-houkago-rhythm-selection.json](./201262-k-on-houkago-rhythm-selection.json) |
 | K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
+| K.C.'s Crazy Nightmare! | 40730 | [40730-k-c-s-crazy-nightmare.json](./40730-k-c-s-crazy-nightmare.json) |
 | K.O. The Live Boxing | 386677 | [386677-k-o-the-live-boxing.json](./386677-k-o-the-live-boxing.json) |
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
 | K11: Kommissare im Einsatz | 268183 | [268183-k11-kommissare-im-einsatz.json](./268183-k11-kommissare-im-einsatz.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikakushi | 133395 | [133395-kamikakushi.json](./133395-kamikakushi.json) |
 | Kamikaze Bros. 3 | 214771 | [214771-kamikaze-bros-3.json](./214771-kamikaze-bros-3.json) |
 | Kamikaze Lassplanes | 250011 | [250011-kamikaze-lassplanes.json](./250011-kamikaze-lassplanes.json) |
+| Kamikaze Saucers | 40733 | [40733-kamikaze-saucers.json](./40733-kamikaze-saucers.json) |
 | Kamikazo VR | 82142 | [82142-kamikazo-vr.json](./82142-kamikazo-vr.json) |
 | Kamiko | 28015 | [28015-kamiko.json](./28015-kamiko.json) |
 | Kamiori | 104647 | [104647-kamiori.json](./104647-kamiori.json) |
