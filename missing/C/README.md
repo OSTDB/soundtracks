@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpocalypse | 179123 | [179123-carpocalypse.json](./179123-carpocalypse.json) |
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
+| Carrera Power Slide | 49308 | [49308-carrera-power-slide.json](./49308-carrera-power-slide.json) |
 | Carrie the Caregiver: Episode 1 - Infancy | 95416 | [95416-carrie-the-caregiver-episode-1-infancy.json](./95416-carrie-the-caregiver-episode-1-infancy.json) |
 | Carrie's Order Up! | 24812 | [24812-carries-order-up.json](./24812-carries-order-up.json) |
 | Carrier | 55181 | [55181-carrier.json](./55181-carrier.json) |
@@ -1354,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Scratch | 256558 | [256558-chicken-scratch.json](./256558-chicken-scratch.json) |
 | Chicken Shoot 2 | 248634 | [248634-chicken-shoot-2.json](./248634-chicken-shoot-2.json) |
+| Chicken Shoot 2 | 49307 | [49307-chicken-shoot-2.json](./49307-chicken-shoot-2.json) |
 | Chicken Tale | 288792 | [288792-chicken-tale.json](./288792-chicken-tale.json) |
 | Chicken's Revenge | 206969 | [206969-chickens-revenge.json](./206969-chickens-revenge.json) |
 | Chicken's Run | 181922 | [181922-chickens-run.json](./181922-chickens-run.json) |
@@ -3507,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
 | Crushed | 141171 | [141171-crushed.json](./141171-crushed.json) |
+| Crushed Baseball | 49306 | [49306-crushed-baseball.json](./49306-crushed-baseball.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
 | Crushing on the Clock | 376461 | [376461-crushing-on-the-clock.json](./376461-crushing-on-the-clock.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
