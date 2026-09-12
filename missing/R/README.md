@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.I.P. | 77984 | [77984-r-i-p.json](./77984-r-i-p.json) |
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
+| R.U.R.U.R.: Petit Prince | 59363 | [59363-r-u-r-u-r-petit-prince.json](./59363-r-u-r-u-r-petit-prince.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
 | R2 Online: Reign of Revolution | 91269 | [91269-r2-online-reign-of-revolution.json](./91269-r2-online-reign-of-revolution.json) |
 | R2Beat | 108993 | [108993-r2beat.json](./108993-r2beat.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Ranger vs. Space Mutants | 101623 | [101623-ranger-vs-space-mutants.json](./101623-ranger-vs-space-mutants.json) |
 | Rangers | 138744 | [138744-rangers.json](./138744-rangers.json) |
+| Rangers Football Coach Season 2001-2002 | 59385 | [59385-rangers-football-coach-season-2001-2002.json](./59385-rangers-football-coach-season-2001-2002.json) |
 | Rangers of Oblivion | 113636 | [113636-rangers-of-oblivion.json](./113636-rangers-of-oblivion.json) |
 | Ranita Fishing | 178078 | [178078-ranita-fishing.json](./178078-ranita-fishing.json) |
 | Rank Boss Bullets | 278396 | [278396-rank-boss-bullets.json](./278396-rank-boss-bullets.json) |
