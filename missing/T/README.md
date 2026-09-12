@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
 | Tales of Escape: Sleepy Hollow VR | 148500 | [148500-tales-of-escape-sleepy-hollow-vr.json](./148500-tales-of-escape-sleepy-hollow-vr.json) |
 | Tales of Fandom Vol. 1: Cress Version | 100158 | [100158-tales-of-fandom-vol-1-cress-version.json](./100158-tales-of-fandom-vol-1-cress-version.json) |
+| Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
 | Tales of Graces | 1211 | [1211-tales-of-graces.json](./1211-tales-of-graces.json) |
 | Tales of Guards Elves | 215701 | [215701-tales-of-guards-elves.json](./215701-tales-of-guards-elves.json) |
 | Tales of Hearts R: LaLaBitMarket Edition | 89866 | [89866-tales-of-hearts-r-lalabitmarket-edition.json](./89866-tales-of-hearts-r-lalabitmarket-edition.json) |
@@ -1174,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Alpha Wolf | 244258 | [244258-the-alpha-wolf.json](./244258-the-alpha-wolf.json) |
 | The Alpine Encounter | 12252 | [12252-the-alpine-encounter.json](./12252-the-alpine-encounter.json) |
+| The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
@@ -1361,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blackout Club | 89562 | [89562-the-blackout-club.json](./89562-the-blackout-club.json) |
 | The Blackwell Convergence | 9039 | [9039-the-blackwell-convergence.json](./9039-the-blackwell-convergence.json) |
 | The Blackwell Legacy | 9043 | [9043-the-blackwell-legacy.json](./9043-the-blackwell-legacy.json) |
+| The Blaggers | 57081 | [57081-the-blaggers.json](./57081-the-blaggers.json) |
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
 | The Blobjob | 261797 | [261797-the-blobjob.json](./261797-the-blobjob.json) |
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
@@ -2538,6 +2541,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Snow Maiden | 298598 | [298598-the-legend-of-snow-maiden.json](./298598-the-legend-of-snow-maiden.json) |
 | The Legend of Spyro: A New Beginning | 300392 | [300392-the-legend-of-spyro-a-new-beginning.json](./300392-the-legend-of-spyro-a-new-beginning.json) |
 | The Legend of Spyro: The Eternal Night | 300393 | [300393-the-legend-of-spyro-the-eternal-night.json](./300393-the-legend-of-spyro-the-eternal-night.json) |
+| The Legend of Sword and Fairy 5 | 57033 | [57033-the-legend-of-sword-and-fairy-5.json](./57033-the-legend-of-sword-and-fairy-5.json) |
+| The Legend of Sword and Fairy 6 | 57034 | [57034-the-legend-of-sword-and-fairy-6.json](./57034-the-legend-of-sword-and-fairy-6.json) |
 | The Legend of Sword and Fairy 7: Dreamlike World | 235192 | [235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json](./235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of White Whale | 243945 | [243945-the-legend-of-white-whale.json](./243945-the-legend-of-white-whale.json) |
@@ -5389,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch My Katamari | 6462 | [6462-touch-my-katamari.json](./6462-touch-my-katamari.json) |
 | Touch My Spinner | 61618 | [61618-touch-my-spinner.json](./61618-touch-my-spinner.json) |
 | Touch Pets: Dogs | 67947 | [67947-touch-pets-dogs.json](./67947-touch-pets-dogs.json) |
+| Touch Selections | 57058 | [57058-touch-selections.json](./57058-touch-selections.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
 | Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
@@ -5592,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
+| Toy Goblins | 57035 | [57035-toy-goblins.json](./57035-toy-goblins.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
 | Toy Robot | 126582 | [126582-toy-robot.json](./126582-toy-robot.json) |
 | Toy Rush | 74321 | [74321-toy-rush.json](./74321-toy-rush.json) |
