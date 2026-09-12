@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesto: At the Checkout | 134686 | [134686-chesto-at-the-checkout.json](./134686-chesto-at-the-checkout.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
+| Chezz | 56445 | [56445-chezz.json](./56445-chezz.json) |
 | Chi Busters | 111738 | [111738-chi-busters.json](./111738-chi-busters.json) |
 | Chi Project | 324315 | [324315-chi-project.json](./324315-chi-project.json) |
 | Chiaroscuro | 138739 | [138739-chiaroscuro.json](./138739-chiaroscuro.json) |
@@ -1680,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChuSingura46+1 S | 32917 | [32917-chusingura46-1-s.json](./32917-chusingura46-1-s.json) |
 | ChuSingura46+1 S: Chapter 2 & 3 | 168851 | [168851-chusingura46-1-s-chapter-2-and-3.json](./168851-chusingura46-1-s-chapter-2-and-3.json) |
 | ChuSingura46+1 S: Chapter 4 & 5 | 168850 | [168850-chusingura46-1-s-chapter-4-and-5.json](./168850-chusingura46-1-s-chapter-4-and-5.json) |
+| Chuukana Janshi Tenhoo Painyan Remix | 56461 | [56461-chuukana-janshi-tenhoo-painyan-remix.json](./56461-chuukana-janshi-tenhoo-painyan-remix.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
@@ -1845,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarence Goes to the F%ing Store | 166700 | [166700-clarence-goes-to-the-f-ing-store.json](./166700-clarence-goes-to-the-f-ing-store.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
+| Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
@@ -1855,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Magic: Spectator Mode | 99027 | [99027-clash-of-magic-spectator-mode.json](./99027-clash-of-magic-spectator-mode.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
+| Clash of Warriors: 9 Legends | 56428 | [56428-clash-of-warriors-9-legends.json](./56428-clash-of-warriors-9-legends.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
 | Classic Cribbage | 169982 | [169982-classic-cribbage.json](./169982-classic-cribbage.json) |
