@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Attack 2 | 210045 | [210045-jack-attack-2.json](./210045-jack-attack-2.json) |
 | Jack Axe: The Trial | 165622 | [165622-jack-axe-the-trial.json](./165622-jack-axe-the-trial.json) |
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
+| Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
 | Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
 | Jack Is Missing | 108374 | [108374-jack-is-missing.json](./108374-jack-is-missing.json) |
