@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiwan Mahjong | 334658 | [334658-taiwan-mahjong.json](./334658-taiwan-mahjong.json) |
 | Taiyo No Miyako | 221422 | [221422-taiyo-no-miyako.json](./221422-taiyo-no-miyako.json) |
 | Taiyou no Tenshi Marlowe: Ohanabatake ha Dai-Panic! | 331117 | [331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json](./331117-taiyou-no-tenshi-marlowe-ohanabatake-ha-dai-panic.json) |
+| Tajemnica statuetki | 26482 | [26482-tajemnica-statuetki.json](./26482-tajemnica-statuetki.json) |
 | Tak 2: The Staff of Dreams | 243146 | [243146-tak-2-the-staff-of-dreams.json](./243146-tak-2-the-staff-of-dreams.json) |
 | Tak: The Great Juju Challenge | 210254 | [210254-tak-the-great-juju-challenge.json](./210254-tak-the-great-juju-challenge.json) |
 | Tak: The Great Juju Challenge | 210255 | [210255-tak-the-great-juju-challenge.json](./210255-tak-the-great-juju-challenge.json) |
@@ -3513,11 +3514,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Dreams - Digital Deluxe Edition | 389410 | [389410-the-smurfs-dreams-digital-deluxe-edition.json](./389410-the-smurfs-dreams-digital-deluxe-edition.json) |
 | The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
 | The Smurfs: Learn and Play - Deluxe Edition | 328798 | [328798-the-smurfs-learn-and-play-deluxe-edition.json](./328798-the-smurfs-learn-and-play-deluxe-edition.json) |
+| The Snack World: TreJarers | 26501 | [26501-the-snack-world-trejarers.json](./26501-the-snack-world-trejarers.json) |
 | The Snake Kingdom of Gennibar-Six | 337649 | [337649-the-snake-kingdom-of-gennibar-six.json](./337649-the-snake-kingdom-of-gennibar-six.json) |
 | The Sniper | 349841 | [349841-the-sniper.json](./349841-the-sniper.json) |
 | The Sniper 2 | 44625 | [44625-the-sniper-2.json](./44625-the-sniper-2.json) |
 | The Snow Fable: Mystery of the Flame | 207515 | [207515-the-snow-fable-mystery-of-the-flame.json](./207515-the-snow-fable-mystery-of-the-flame.json) |
 | The Snow of Basidia | 176504 | [176504-the-snow-of-basidia.json](./176504-the-snow-of-basidia.json) |
+| The Snow Queen | 26476 | [26476-the-snow-queen.json](./26476-the-snow-queen.json) |
 | The Snow Reach | 266805 | [266805-the-snow-reach.json](./266805-the-snow-reach.json) |
 | The Snowfield | 144323 | [144323-the-snowfield.json](./144323-the-snowfield.json) |
 | The Snowman | 299435 | [299435-the-snowman.json](./299435-the-snowman.json) |
@@ -3917,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults | 197914 | [197914-the-vaults.json](./197914-the-vaults.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
+| The Very Big Cave Adventure | 26477 | [26477-the-very-big-cave-adventure.json](./26477-the-very-big-cave-adventure.json) |
 | The Very Idle Game | 310750 | [310750-the-very-idle-game.json](./310750-the-very-idle-game.json) |
 | The Vice Squad | 47252 | [47252-the-vice-squad.json](./47252-the-vice-squad.json) |
 | The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
@@ -5324,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Landry Strategy Football: Deluxe Edition | 400255 | [400255-tom-landry-strategy-football-deluxe-edition.json](./400255-tom-landry-strategy-football-deluxe-edition.json) |
 | Tom Steal the Meal | 228100 | [228100-tom-steal-the-meal.json](./228100-tom-steal-the-meal.json) |
+| Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
 | Tomato Jones Adventures | 53819 | [53819-tomato-jones-adventures.json](./53819-tomato-jones-adventures.json) |
@@ -5498,6 +5503,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
+| Torment: Tides of Numenera - Collector's Edition | 26537 | [26537-torment-tides-of-numenera-collectors-edition.json](./26537-torment-tides-of-numenera-collectors-edition.json) |
+| Torment: Tides of Numenera - Day One Edition | 26538 | [26538-torment-tides-of-numenera-day-one-edition.json](./26538-torment-tides-of-numenera-day-one-edition.json) |
 | Tormentarium | 271730 | [271730-tormentarium.json](./271730-tormentarium.json) |
 | Tormentor | 167259 | [167259-tormentor.json](./167259-tormentor.json) |
 | Tormentor: Action Fire Counter Shooter Game Simulator - Premium Edition | 283161 | [283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json](./283161-tormentor-action-fire-counter-shooter-game-simulator-premium-edition.json) |
@@ -5947,6 +5954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World: CSX Heavy Haul | 196284 | [196284-train-sim-world-csx-heavy-haul.json](./196284-train-sim-world-csx-heavy-haul.json) |
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
+| Train Simulator 2017 | 26539 | [26539-train-simulator-2017.json](./26539-train-simulator-2017.json) |
 | Train Simulator 2019 | 111023 | [111023-train-simulator-2019.json](./111023-train-simulator-2019.json) |
 | Train Simulator 2021: 0-4-0 Saddletank Pack 1 Add-on Loco | 169924 | [169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json](./169924-train-simulator-2021-0-4-0-saddletank-pack-1-add-on-loco.json) |
 | Train Simulator 2021: Arizona Divide - Winslow: Williams Route | 162416 | [162416-train-simulator-2021-arizona-divide-winslow-williams-route.json](./162416-train-simulator-2021-arizona-divide-winslow-williams-route.json) |
