@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aces High | 91371 | [91371-aces-high.json](./91371-aces-high.json) |
 | Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
+| Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
 | Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Achievement Clicker | 248925 | [248925-achievement-clicker.json](./248925-achievement-clicker.json) |
