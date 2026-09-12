@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T15:19:09.421Z",
-  "total_missing": 62383,
+  "generated_at": "2026-09-12T15:21:51.271Z",
+  "total_missing": 62382,
   "games": [
     {
       "igdb_id": 306086,
@@ -2991,11 +2991,6 @@
       "igdb_id": 337440,
       "game_name": "Absinthe",
       "file": "missing/A/337440-absinthe.json"
-    },
-    {
-      "igdb_id": 107919,
-      "game_name": "Absolute Adventure Zero",
-      "file": "missing/A/107919-absolute-adventure-zero.json"
     },
     {
       "igdb_id": 84863,
