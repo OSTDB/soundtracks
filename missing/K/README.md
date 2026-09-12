@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakefu-kun no Jump Tengoku Speed Jigoku | 215129 | [215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json](./215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json) |
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
+| Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
 | Kakuro | 120959 | [120959-kakuro.json](./120959-kakuro.json) |
 | Kakyuusei 2 | 330548 | [330548-kakyuusei-2.json](./330548-kakyuusei-2.json) |
@@ -100,10 +101,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kame Paradise 2 | 231389 | [231389-kame-paradise-2.json](./231389-kame-paradise-2.json) |
 | Kame Paradise 3 Multiversex | 231391 | [231391-kame-paradise-3-multiversex.json](./231391-kame-paradise-3-multiversex.json) |
 | Kamek's Midnight Flight | 250035 | [250035-kameks-midnight-flight.json](./250035-kameks-midnight-flight.json) |
+| Kamen Rider Agito | 43864 | [43864-kamen-rider-agito.json](./43864-kamen-rider-agito.json) |
 | Kamen Rider Agito & Kuuga: Wild Battle | 62742 | [62742-kamen-rider-agito-and-kuuga-wild-battle.json](./62742-kamen-rider-agito-and-kuuga-wild-battle.json) |
 | Kamen Rider Battle Rush | 304337 | [304337-kamen-rider-battle-rush.json](./304337-kamen-rider-battle-rush.json) |
 | Kamen Rider Club: Gekitotsu Shocker Land | 48691 | [48691-kamen-rider-club-gekitotsu-shocker-land.json](./48691-kamen-rider-club-gekitotsu-shocker-land.json) |
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
+| Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
+| Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
 | Kamen Rider: Super Climax Heroes | 62705 | [62705-kamen-rider-super-climax-heroes.json](./62705-kamen-rider-super-climax-heroes.json) |
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
@@ -1209,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kururin Sushi | 222321 | [222321-kururin-sushi.json](./222321-kururin-sushi.json) |
 | Kururuga | 412967 | [412967-kururuga.json](./412967-kururuga.json) |
 | Kurushi Final: Mental Blocks | 272549 | [272549-kurushi-final-mental-blocks.json](./272549-kurushi-final-mental-blocks.json) |
+| Kurushi Final: Mental Blocks | 43868 | [43868-kurushi-final-mental-blocks.json](./43868-kurushi-final-mental-blocks.json) |
 | Kuruwa: Yuukyou Kan Yoiyamizakura Dai Ni Shou | 97287 | [97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json](./97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
