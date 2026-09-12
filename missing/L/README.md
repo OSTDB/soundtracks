@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightlike | 176464 | [176464-lightlike.json](./176464-lightlike.json) |
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
+| Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
 | Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
@@ -1200,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Kitten: My Favorite Cat | 200119 | [200119-little-kitten-my-favorite-cat.json](./200119-little-kitten-my-favorite-cat.json) |
 | Little Kong: Jungle Fun | 219285 | [219285-little-kong-jungle-fun.json](./219285-little-kong-jungle-fun.json) |
 | Little Laps | 349326 | [349326-little-laps.json](./349326-little-laps.json) |
+| Little League World Series Baseball 2008 | 47953 | [47953-little-league-world-series-baseball-2008.json](./47953-little-league-world-series-baseball-2008.json) |
 | Little League World Series Baseball 2010 | 66621 | [66621-little-league-world-series-baseball-2010.json](./66621-little-league-world-series-baseball-2010.json) |
 | Little Legs | 301002 | [301002-little-legs.json](./301002-little-legs.json) |
 | Little Library | 333951 | [333951-little-library.json](./333951-little-library.json) |
