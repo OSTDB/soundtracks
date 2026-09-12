@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Pilot | 375866 | [375866-kid-pilot.json](./375866-kid-pilot.json) |
 | Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
 | Kid's Activity Center | 87688 | [87688-kids-activity-center.json](./87688-kids-activity-center.json) |
+| Kid's Cards | 49335 | [49335-kids-cards.json](./49335-kids-cards.json) |
 | Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
 | Kid's Preschool Game Box | 87692 | [87692-kids-preschool-game-box.json](./87692-kids-preschool-game-box.json) |
 | Kiddie Coaster | 66045 | [66045-kiddie-coaster.json](./66045-kiddie-coaster.json) |
@@ -1024,7 +1025,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
+| Kong: King of Atlantis | 49334 | [49334-kong-king-of-atlantis.json](./49334-kong-king-of-atlantis.json) |
 | Kong: The 8th Wonder of the World | 49397 | [49397-kong-the-8th-wonder-of-the-world.json](./49397-kong-the-8th-wonder-of-the-world.json) |
+| Kong: The Animated Series | 49333 | [49333-kong-the-animated-series.json](./49333-kong-the-animated-series.json) |
 | Konk World | 267910 | [267910-konk-world.json](./267910-konk-world.json) |
 | Konkwest | 277599 | [277599-konkwest.json](./277599-konkwest.json) |
 | KonMari Spark Joy! | 174292 | [174292-konmari-spark-joy.json](./174292-konmari-spark-joy.json) |
