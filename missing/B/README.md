@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | BattleHeights | 327220 | [327220-battleheights.json](./327220-battleheights.json) |
+| Battlejack | 55074 | [55074-battlejack.json](./55074-battlejack.json) |
 | Battlejack: Blackjack RPG | 91992 | [91992-battlejack-blackjack-rpg.json](./91992-battlejack-blackjack-rpg.json) |
 | Battlemals | 26695 | [26695-battlemals.json](./26695-battlemals.json) |
 | Battlemon League | 100933 | [100933-battlemon-league.json](./100933-battlemon-league.json) |
@@ -1151,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | Bed Bounce | 313125 | [313125-bed-bounce.json](./313125-bed-bounce.json) |
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
+| Bedlam | 55098 | [55098-bedlam.json](./55098-bedlam.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
 | Bedrock Snowball Bash Game | 143682 | [143682-bedrock-snowball-bash-game.json](./143682-bedrock-snowball-bash-game.json) |
 | Bedroom Battlegrounds | 288231 | [288231-bedroom-battlegrounds.json](./288231-bedroom-battlegrounds.json) |
@@ -2336,6 +2338,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob & Dob | 177570 | [177570-bob-and-dob.json](./177570-bob-and-dob.json) |
 | Bob Does Not Care | 181903 | [181903-bob-does-not-care.json](./181903-bob-does-not-care.json) |
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
+| Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
+| Bob Morane: Jungle 1 | 55095 | [55095-bob-morane-jungle-1.json](./55095-bob-morane-jungle-1.json) |
+| Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
 | Bob the Builder: Bob Builds A Park | 72055 | [72055-bob-the-builder-bob-builds-a-park.json](./72055-bob-the-builder-bob-builds-a-park.json) |
 | Bob the Builder: Build City | 91335 | [91335-bob-the-builder-build-city.json](./91335-bob-the-builder-build-city.json) |
 | Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
@@ -2388,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
+| Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
 | Bograts: The Puzzling Misadventure | 14330 | [14330-bograts-the-puzzling-misadventure.json](./14330-bograts-the-puzzling-misadventure.json) |
@@ -3043,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bride Corruption | 225064 | [225064-bride-corruption.json](./225064-bride-corruption.json) |
 | Bride for the Princess | 158192 | [158192-bride-for-the-princess.json](./158192-bride-for-the-princess.json) |
 | Bride into the Cave | 273378 | [273378-bride-into-the-cave.json](./273378-bride-into-the-cave.json) |
+| Bridge | 55105 | [55105-bridge.json](./55105-bridge.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
 | Bridge Construction Set | 25006 | [25006-bridge-construction-set.json](./25006-bridge-construction-set.json) |
 | Bridge Constructor Bundle | 196830 | [196830-bridge-constructor-bundle.json](./196830-bridge-constructor-bundle.json) |
@@ -3385,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
+| Bullyparade: Der Spiel | 55024 | [55024-bullyparade-der-spiel.json](./55024-bullyparade-der-spiel.json) |
 | Bulorgus | 149559 | [149559-bulorgus.json](./149559-bulorgus.json) |
 | Bultaneun Yeonghon | 145596 | [145596-bultaneun-yeonghon.json](./145596-bultaneun-yeonghon.json) |
 | Buluk: Mayan Warfare | 125420 | [125420-buluk-mayan-warfare.json](./125420-buluk-mayan-warfare.json) |
@@ -3589,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz!: Quiz TV Special Edition | 268768 | [268768-buzz-quiz-tv-special-edition.json](./268768-buzz-quiz-tv-special-edition.json) |
 | Buzzy's World Tour | 336545 | [336545-buzzys-world-tour.json](./336545-buzzys-world-tour.json) |
 | BvB: Burglars vs. Brats | 275875 | [275875-bvb-burglars-vs-brats.json](./275875-bvb-burglars-vs-brats.json) |
+| BVOVB: Bruising Vengeance of the Vintage Boxer | 55125 | [55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json](./55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
 | By Moonlight | 114968 | [114968-by-moonlight.json](./114968-by-moonlight.json) |
 | By the King's Command | 399008 | [399008-by-the-kings-command.json](./399008-by-the-kings-command.json) |
