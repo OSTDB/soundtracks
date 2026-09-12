@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
+| Rapid Assault | 62137 | [62137-rapid-assault.json](./62137-rapid-assault.json) |
 | Rapid Reload | 45013 | [45013-rapid-reload.json](./45013-rapid-reload.json) |
 | Rapid Retort | 211186 | [211186-rapid-retort.json](./211186-rapid-retort.json) |
 | Rapid River | 65471 | [65471-rapid-river.json](./65471-rapid-river.json) |
@@ -1596,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Global Domination - US City Map Pack | 164457 | [164457-risk-global-domination-us-city-map-pack.json](./164457-risk-global-domination-us-city-map-pack.json) |
 | Risk: Global Domination - Zombie Pack | 226946 | [226946-risk-global-domination-zombie-pack.json](./226946-risk-global-domination-zombie-pack.json) |
 | Risk: Pogo Domination | 354995 | [354995-risk-pogo-domination.json](./354995-risk-pogo-domination.json) |
+| Risk: The Game of Global Domination | 62161 | [62161-risk-the-game-of-global-domination.json](./62161-risk-the-game-of-global-domination.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
 | Rita Hayworth Isn't In This Game | 112269 | [112269-rita-hayworth-isnt-in-this-game.json](./112269-rita-hayworth-isnt-in-this-game.json) |
 | Rite of Passage: Heart of the Storm | 104117 | [104117-rite-of-passage-heart-of-the-storm.json](./104117-rite-of-passage-heart-of-the-storm.json) |
