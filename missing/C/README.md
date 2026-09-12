@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikudenya Toubee | 42039 | [42039-chikudenya-toubee.json](./42039-chikudenya-toubee.json) |
 | Chikudenya Toubei | 59354 | [59354-chikudenya-toubei.json](./59354-chikudenya-toubei.json) |
 | Chiky Poky | 221184 | [221184-chiky-poky.json](./221184-chiky-poky.json) |
+| Chikyuu Bouei Shoujo Iko-chan: UFO Daisakusen | 58781 | [58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json](./58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json) |
 | Chikyuu Kaihou Gun ZAS | 91883 | [91883-chikyuu-kaihou-gun-zas.json](./91883-chikyuu-kaihou-gun-zas.json) |
 | CHiLD | 70908 | [70908-child.json](./70908-child.json) |
 | Child of Abyss | 167293 | [167293-child-of-abyss.json](./167293-child-of-abyss.json) |
@@ -2055,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Buster | 264305 | [264305-cluster-buster.json](./264305-cluster-buster.json) |
 | Cluster Buster | 292831 | [292831-cluster-buster.json](./292831-cluster-buster.json) |
 | Cluster Dust | 89653 | [89653-cluster-dust.json](./89653-cluster-dust.json) |
+| Cluster Six | 58756 | [58756-cluster-six.json](./58756-cluster-six.json) |
 | Clusterball Arcade | 63838 | [63838-clusterball-arcade.json](./63838-clusterball-arcade.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
 | Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
@@ -3204,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Tracer | 13707 | [13707-crazy-tracer.json](./13707-crazy-tracer.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy World of Caleb | 302946 | [302946-crazy-world-of-caleb.json](./302946-crazy-world-of-caleb.json) |
+| Crazy-Spy | 58772 | [58772-crazy-spy.json](./58772-crazy-spy.json) |
 | CrazyCar | 93612 | [93612-crazycar.json](./93612-crazycar.json) |
 | CrazyDoc | 148503 | [148503-crazydoc.json](./148503-crazydoc.json) |
 | CrazyDriving | 107853 | [107853-crazydriving.json](./107853-crazydriving.json) |
