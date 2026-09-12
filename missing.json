@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T09:33:58.191Z",
-  "total_missing": 61425,
+  "generated_at": "2026-09-12T09:41:33.013Z",
+  "total_missing": 61424,
   "games": [
     {
       "igdb_id": 306086,
@@ -2811,11 +2811,6 @@
       "igdb_id": 316440,
       "game_name": "Abducted",
       "file": "missing/A/316440-abducted.json"
-    },
-    {
-      "igdb_id": 145578,
-      "game_name": "Abducted: The Night Hunters",
-      "file": "missing/A/145578-abducted-the-night-hunters.json"
     },
     {
       "igdb_id": 180759,
