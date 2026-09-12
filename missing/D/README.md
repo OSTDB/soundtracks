@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Maze | 114341 | [114341-dungeon-maze.json](./114341-dungeon-maze.json) |
 | Dungeon Maze | 343789 | [343789-dungeon-maze.json](./343789-dungeon-maze.json) |
 | Dungeon Mori | 338000 | [338000-dungeon-mori.json](./338000-dungeon-mori.json) |
+| Dungeon Nightmares | 57070 | [57070-dungeon-nightmares.json](./57070-dungeon-nightmares.json) |
 | Dungeon No Dungeon: Blood Knight | 171023 | [171023-dungeon-no-dungeon-blood-knight.json](./171023-dungeon-no-dungeon-blood-knight.json) |
 | Dungeon No Dungeon: Reaper | 171022 | [171022-dungeon-no-dungeon-reaper.json](./171022-dungeon-no-dungeon-reaper.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
