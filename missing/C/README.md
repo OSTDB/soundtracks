@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Fishing Master | 19677 | [19677-cocoto-fishing-master.json](./19677-cocoto-fishing-master.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
+| Code Carbon | 24857 | [24857-code-carbon.json](./24857-code-carbon.json) |
 | Code Dungeon | 185592 | [185592-code-dungeon.json](./185592-code-dungeon.json) |
 | Code Eagle! | 246438 | [246438-code-eagle.json](./246438-code-eagle.json) |
 | Code Exit | 292540 | [292540-code-exit.json](./292540-code-exit.json) |
@@ -2743,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraption Maker | 9802 | [9802-contraption-maker.json](./9802-contraption-maker.json) |
 | Contraption Maker: Battling Cards - Parts & Puzzles Expansion Pack | 163427 | [163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json](./163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json) |
 | Contraption Maker: Mighty Knights Parts & Puzzles Pack | 263215 | [263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json](./263215-contraption-maker-mighty-knights-parts-and-puzzles-pack.json) |
+| Contraption Zack | 24864 | [24864-contraption-zack.json](./24864-contraption-zack.json) |
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contrition | 179748 | [179748-contrition.json](./179748-contrition.json) |
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
@@ -3343,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Quest | 138166 | [138166-creature-quest.json](./138166-creature-quest.json) |
 | Creature Resort | 136985 | [136985-creature-resort.json](./136985-creature-resort.json) |
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
+| Creature Venture | 24846 | [24846-creature-venture.json](./24846-creature-venture.json) |
 | Creatures 2 | 11371 | [11371-creatures-2.json](./11371-creatures-2.json) |
 | Creatures by Candlelight | 262952 | [262952-creatures-by-candlelight.json](./262952-creatures-by-candlelight.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
@@ -3612,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of Fear | 356662 | [356662-crypt-of-fear.json](./356662-crypt-of-fear.json) |
 | Crypt of the Fungal Lord | 179140 | [179140-crypt-of-the-fungal-lord.json](./179140-crypt-of-the-fungal-lord.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
+| Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
 | Crypt Raider | 263476 | [263476-crypt-raider.json](./263476-crypt-raider.json) |
 | Crypt Stalker: Extended Edition | 308796 | [308796-crypt-stalker-extended-edition.json](./308796-crypt-stalker-extended-edition.json) |
 | Crypt Underworld | 109072 | [109072-crypt-underworld.json](./109072-crypt-underworld.json) |
