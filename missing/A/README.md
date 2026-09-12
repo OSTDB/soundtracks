@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
 | Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
+| Arctic Adventure: Episodes | 28783 | [28783-arctic-adventure-episodes.json](./28783-arctic-adventure-episodes.json) |
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
 | Arctic Digger TCG Collection | 358873 | [358873-arctic-digger-tcg-collection.json](./358873-arctic-digger-tcg-collection.json) |
