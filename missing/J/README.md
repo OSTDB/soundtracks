@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | Jalopy: Limited Edition | 96023 | [96023-jalopy-limited-edition.json](./96023-jalopy-limited-edition.json) |
 | Jam League Basketball | 237375 | [237375-jam-league-basketball.json](./237375-jam-league-basketball.json) |
+| Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
 | James Bonk | 110285 | [110285-james-bonk.json](./110285-james-bonk.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
@@ -489,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jötunnslayer: Hordes of Hel - Tyr's Mythical Armor Pack | 403595 | [403595-jotunnslayer-hordes-of-hel-tyrs-mythical-armor-pack.json](./403595-jotunnslayer-hordes-of-hel-tyrs-mythical-armor-pack.json) |
 | Jouka no Monshou | 274223 | [274223-jouka-no-monshou.json](./274223-jouka-no-monshou.json) |
 | Joulumato | 178589 | [178589-joulumato.json](./178589-joulumato.json) |
+| Joumee the Hedgehog | 75828 | [75828-joumee-the-hedgehog.json](./75828-joumee-the-hedgehog.json) |
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
