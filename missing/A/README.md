@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
+| Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
 | Abby Monkey Musical Puzzle Games | 96753 | [96753-abby-monkey-musical-puzzle-games.json](./96753-abby-monkey-musical-puzzle-games.json) |
 | ABC Nanpure Word-a-Pix | 222514 | [222514-abc-nanpure-word-a-pix.json](./222514-abc-nanpure-word-a-pix.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
@@ -170,7 +171,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
-| Above the Stars | 148555 | [148555-above-the-stars.json](./148555-above-the-stars.json) |
 | Above: Colonies of the Mist | 388001 | [388001-above-colonies-of-the-mist.json](./388001-above-colonies-of-the-mist.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemis: Book One | 239288 | [239288-artemis-book-one.json](./239288-artemis-book-one.json) |
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
+| Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
 | Arthur Yahtzee: The Curse of Hell's Cheesecake | 217857 | [217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json](./217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json) |
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrid | 207304 | [207304-astrid.json](./207304-astrid.json) |
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
+| Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | Astro Bot: Vicious Void | 331293 | [331293-astro-bot-vicious-void.json](./331293-astro-bot-vicious-void.json) |
