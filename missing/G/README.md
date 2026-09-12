@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galax | 382229 | [382229-galax.json](./382229-galax.json) |
 | GalaX | 259836 | [259836-galax.json](./259836-galax.json) |
 | Galax Attax | 92967 | [92967-galax-attax.json](./92967-galax-attax.json) |
+| Galax-e-mail | 78663 | [78663-galax-e-mail.json](./78663-galax-e-mail.json) |
 | Galax-i-Birds | 55187 | [55187-galax-i-birds.json](./55187-galax-i-birds.json) |
 | Galaxian3 | 234085 | [234085-galaxian3.json](./234085-galaxian3.json) |
 | Galaxians & Gloops | 319580 | [319580-galaxians-and-gloops.json](./319580-galaxians-and-gloops.json) |
