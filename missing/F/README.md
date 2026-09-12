@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas - Lonesome Road | 10307 | [10307-fallout-new-vegas-lonesome-road.json](./10307-fallout-new-vegas-lonesome-road.json) |
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
+| False Shelter | 28785 | [28785-false-shelter.json](./28785-false-shelter.json) |
 | Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
 | FalseGod's Gambit | 373007 | [373007-falsegods-gambit.json](./373007-falsegods-gambit.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleece Lightning | 175392 | [175392-fleece-lightning.json](./175392-fleece-lightning.json) |
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
 | Fleet Force | 102098 | [102098-fleet-force.json](./102098-fleet-force.json) |
+| Fleet Wars | 28812 | [28812-fleet-wars.json](./28812-fleet-wars.json) |
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
@@ -1689,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flufftopia | 134696 | [134696-flufftopia.json](./134696-flufftopia.json) |
 | Fluffy | 29808 | [29808-fluffy.json](./29808-fluffy.json) |
 | Fluffy Bear | 79308 | [79308-fluffy-bear.json](./79308-fluffy-bear.json) |
+| Fluffy Creatures vs. The World | 28808 | [28808-fluffy-creatures-vs-the-world.json](./28808-fluffy-creatures-vs-the-world.json) |
 | Fluffy Doki Sunshine | 274980 | [274980-fluffy-doki-sunshine.json](./274980-fluffy-doki-sunshine.json) |
 | Fluffy Fall | 87172 | [87172-fluffy-fall.json](./87172-fluffy-fall.json) |
 | Fluffy Friends | 57040 | [57040-fluffy-friends.json](./57040-fluffy-friends.json) |
