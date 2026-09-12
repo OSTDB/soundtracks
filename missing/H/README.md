@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
 | Haxware Comgam | 219816 | [219816-haxware-comgam.json](./219816-haxware-comgam.json) |
 | Hayai | 200715 | [200715-hayai.json](./200715-hayai.json) |
+| Hayama Reiko no Date de Blackjack | 41349 | [41349-hayama-reiko-no-date-de-blackjack.json](./41349-hayama-reiko-no-date-de-blackjack.json) |
 | Hayami-Chan | 199033 | [199033-hayami-chan.json](./199033-hayami-chan.json) |
 | Hayami-Chan 2 | 199034 | [199034-hayami-chan-2.json](./199034-hayami-chan-2.json) |
 | Hayami-Chan 3 | 199035 | [199035-hayami-chan-3.json](./199035-hayami-chan-3.json) |
