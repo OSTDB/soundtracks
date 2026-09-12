@@ -1958,6 +1958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online | 20574 | [20574-shot-online.json](./20574-shot-online.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shotgun Club | 260705 | [260705-shotgun-club.json](./260705-shotgun-club.json) |
+| Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
 | Shougakusei no Uchi ni Oboetai Eitango | 260693 | [260693-shougakusei-no-uchi-ni-oboetai-eitango.json](./260693-shougakusei-no-uchi-ni-oboetai-eitango.json) |
 | Shoujo Activity | 194606 | [194606-shoujo-activity.json](./194606-shoujo-activity.json) |
@@ -3276,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Manager | 393490 | [393490-soccer-manager.json](./393490-soccer-manager.json) |
 | Soccer Manager 2015 | 35594 | [35594-soccer-manager-2015.json](./35594-soccer-manager-2015.json) |
 | Soccer Manager 2016 | 34335 | [34335-soccer-manager-2016.json](./34335-soccer-manager-2016.json) |
+| Soccer Manager 2017 | 31824 | [31824-soccer-manager-2017.json](./31824-soccer-manager-2017.json) |
 | Soccer Moves | 241059 | [241059-soccer-moves.json](./241059-soccer-moves.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Player Simulator | 116473 | [116473-soccer-player-simulator.json](./116473-soccer-player-simulator.json) |
@@ -4112,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Is Red | 379341 | [379341-space-is-red.json](./379341-space-is-red.json) |
 | Space Jam: A New Legacy - Full Court Pinball | 227827 | [227827-space-jam-a-new-legacy-full-court-pinball.json](./227827-space-jam-a-new-legacy-full-court-pinball.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
+| Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
 | Space Junkies | 37080 | [37080-space-junkies.json](./37080-space-junkies.json) |
 | Space KaBaam: Neon | 335076 | [335076-space-kabaam-neon.json](./335076-space-kabaam-neon.json) |
