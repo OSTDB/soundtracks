@@ -351,6 +351,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: Digital Edition - Shaman | 149066 | [149066-talisman-digital-edition-shaman.json](./149066-talisman-digital-edition-shaman.json) |
 | Talisman: Digital Edition - Shape Shifter | 149064 | [149064-talisman-digital-edition-shape-shifter.json](./149064-talisman-digital-edition-shape-shifter.json) |
 | Talisman: Digital Edition - Swordsman | 149059 | [149059-talisman-digital-edition-swordsman.json](./149059-talisman-digital-edition-swordsman.json) |
+| Talisman: Digital Edition - The Blood Moon | 32863 | [32863-talisman-digital-edition-the-blood-moon.json](./32863-talisman-digital-edition-the-blood-moon.json) |
+| Talisman: Digital Edition - The City | 32903 | [32903-talisman-digital-edition-the-city.json](./32903-talisman-digital-edition-the-city.json) |
 | Talisman: Digital Edition - The Clockwork Kingdom | 149073 | [149073-talisman-digital-edition-the-clockwork-kingdom.json](./149073-talisman-digital-edition-the-clockwork-kingdom.json) |
 | Talisman: Digital Edition - The Dungeon | 34219 | [34219-talisman-digital-edition-the-dungeon.json](./34219-talisman-digital-edition-the-dungeon.json) |
 | Talisman: Digital Edition - The Frostmarch | 34220 | [34220-talisman-digital-edition-the-frostmarch.json](./34220-talisman-digital-edition-the-frostmarch.json) |
@@ -1430,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boo Croo | 381619 | [381619-the-boo-croo.json](./381619-the-boo-croo.json) |
 | The Boohbah Zone | 299478 | [299478-the-boohbah-zone.json](./299478-the-boohbah-zone.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
+| The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
@@ -2510,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
 | The Last Librarian | 266816 | [266816-the-last-librarian.json](./266816-the-last-librarian.json) |
 | The Last Light | 182556 | [182556-the-last-light.json](./182556-the-last-light.json) |
+| The Last Look | 32871 | [32871-the-last-look.json](./32871-the-last-look.json) |
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
@@ -3105,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirates of Dark Water | 342059 | [342059-the-pirates-of-dark-water.json](./342059-the-pirates-of-dark-water.json) |
 | The Piratescape | 176451 | [176451-the-piratescape.json](./176451-the-piratescape.json) |
 | The Pit | 213417 | [213417-the-pit.json](./213417-the-pit.json) |
+| The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pixel has You | 327198 | [327198-the-pixel-has-you.json](./327198-the-pixel-has-you.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
 | The Planet Crafter: Planet Humble | 317867 | [317867-the-planet-crafter-planet-humble.json](./317867-the-planet-crafter-planet-humble.json) |
@@ -5695,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
+| Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
@@ -6854,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Tales: Night night Scarlett | 178653 | [178653-twisted-tales-night-night-scarlett.json](./178653-twisted-tales-night-night-scarlett.json) |
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
+| Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
