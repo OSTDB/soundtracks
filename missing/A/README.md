@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Good Librarian Like a Good Shepherd | 106621 | [106621-a-good-librarian-like-a-good-shepherd.json](./106621-a-good-librarian-like-a-good-shepherd.json) |
+| A Great Day at the Races | 45946 | [45946-a-great-day-at-the-races.json](./45946-a-great-day-at-the-races.json) |
 | A Guidebook of Babel | 149085 | [149085-a-guidebook-of-babel.json](./149085-a-guidebook-of-babel.json) |
 | A Harvesting Moon | 55089 | [55089-a-harvesting-moon.json](./55089-a-harvesting-moon.json) |
 | A Heart Of Iron | 397692 | [397692-a-heart-of-iron.json](./397692-a-heart-of-iron.json) |
@@ -123,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
+| A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
 | A Visit to Sesame Street: Numbers | 46558 | [46558-a-visit-to-sesame-street-numbers.json](./46558-a-visit-to-sesame-street-numbers.json) |
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
@@ -180,7 +182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
 | Absolute Baseball | 84863 | [84863-absolute-baseball.json](./84863-absolute-baseball.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
-| Absolute Reversi | 84862 | [84862-absolute-reversi.json](./84862-absolute-reversi.json) |
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
 | Absolute: Blazing Infinity | 78616 | [78616-absolute-blazing-infinity.json](./78616-absolute-blazing-infinity.json) |
 | Absolutely Goode Championship | 161358 | [161358-absolutely-goode-championship.json](./161358-absolutely-goode-championship.json) |
@@ -2969,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
 | Asterix Brain Trainer | 67236 | [67236-asterix-brain-trainer.json](./67236-asterix-brain-trainer.json) |
 | Astérix et la Potion Magique | 342056 | [342056-asterix-et-la-potion-magique.json](./342056-asterix-et-la-potion-magique.json) |
+| Astérix: Caesar's Challenge | 45944 | [45944-asterix-caesars-challenge.json](./45944-asterix-caesars-challenge.json) |
 | Astérix: These Romans Are Crazy! | 269567 | [269567-asterix-these-romans-are-crazy.json](./269567-asterix-these-romans-are-crazy.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
@@ -3170,6 +3172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis Fantasy: Reborn | 403610 | [403610-atlantis-fantasy-reborn.json](./403610-atlantis-fantasy-reborn.json) |
 | Atlantis II | 40779 | [40779-atlantis-ii.json](./40779-atlantis-ii.json) |
 | Atlantis-6 | 147472 | [147472-atlantis-6.json](./147472-atlantis-6.json) |
+| Atlantis: The Last Resort | 45947 | [45947-atlantis-the-last-resort.json](./45947-atlantis-the-last-resort.json) |
 | Atlantis: The Lost Empire - The Lost Games | 132153 | [132153-atlantis-the-lost-empire-the-lost-games.json](./132153-atlantis-the-lost-empire-the-lost-games.json) |
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
