@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PachiPara 3D: Taikai Monogatari 2 - Pachi Pro Fuuunroku Hana: Kibou to Uragiri no Gakuen Seikatsu | 222330 | [222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json](./222330-pachipara-3d-taikai-monogatari-2-pachi-pro-fuuunroku-hana-kibou-to-uragiri-no-gakuen-seikatsu.json) |
 | Pachisi | 93556 | [93556-pachisi.json](./93556-pachisi.json) |
 | Pachislot Akumajou Dracula | 315523 | [315523-pachislot-akumajou-dracula.json](./315523-pachislot-akumajou-dracula.json) |
+| Pachislot Sengoku Musou | 64358 | [64358-pachislot-sengoku-musou.json](./64358-pachislot-sengoku-musou.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
@@ -269,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pants | 179678 | [179678-pants.json](./179678-pants.json) |
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
+| Pantsylvania | 64373 | [64373-pantsylvania.json](./64373-pantsylvania.json) |
 | Panzer Attack/Red Baron | 95381 | [95381-panzer-attack-red-baron.json](./95381-panzer-attack-red-baron.json) |
 | Panzer Campaigns: El Alamein '42 Gold | 124733 | [124733-panzer-campaigns-el-alamein-42-gold.json](./124733-panzer-campaigns-el-alamein-42-gold.json) |
 | Panzer Campaigns: Japan '45 | 124730 | [124730-panzer-campaigns-japan-45.json](./124730-panzer-campaigns-japan-45.json) |
@@ -562,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passant: A Chess Roguelike | 323192 | [323192-passant-a-chess-roguelike.json](./323192-passant-a-chess-roguelike.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
+| Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
 | Password | 135304 | [135304-password.json](./135304-password.json) |
 | Password Manager | 401499 | [401499-password-manager.json](./401499-password-manager.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
@@ -1925,6 +1928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
 | Pocket-Run Pool | 102094 | [102094-pocket-run-pool.json](./102094-pocket-run-pool.json) |
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
+| PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
 | Poda Wants a Statue | 260699 | [260699-poda-wants-a-statue.json](./260699-poda-wants-a-statue.json) |
@@ -2517,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool & Kindergarten Games | 88268 | [88268-preschool-and-kindergarten-games.json](./88268-preschool-and-kindergarten-games.json) |
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
+| Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
 | Present Panic!: A Princess Adventure | 269877 | [269877-present-panic-a-princess-adventure.json](./269877-present-panic-a-princess-adventure.json) |
 | Presenter Slides | 213947 | [213947-presenter-slides.json](./213947-presenter-slides.json) |
 | Presentfall: Santa Defense | 384521 | [384521-presentfall-santa-defense.json](./384521-presentfall-santa-defense.json) |
