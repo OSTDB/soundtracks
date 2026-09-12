@@ -542,6 +542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scanner Sombre Pack | 154462 | [154462-scanner-sombre-pack.json](./154462-scanner-sombre-pack.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
 | Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
+| Scarab Shooter | 72065 | [72065-scarab-shooter.json](./72065-scarab-shooter.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
@@ -614,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Days | 371896 | [371896-school-days.json](./371896-school-days.json) |
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
+| School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
 | School of Talent: Suzu-Route | 29932 | [29932-school-of-talent-suzu-route.json](./29932-school-of-talent-suzu-route.json) |
 | School Race GP | 219281 | [219281-school-race-gp.json](./219281-school-race-gp.json) |
 | School Romance: Love or Lose | 250639 | [250639-school-romance-love-or-lose.json](./250639-school-romance-love-or-lose.json) |
@@ -658,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorched Lands | 401536 | [401536-scorched-lands.json](./401536-scorched-lands.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
+| Score 3020 | 72037 | [72037-score-3020.json](./72037-score-3020.json) |
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
@@ -4150,6 +4153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedmapping Pack 189: Doom / Satanic Mechanisms | 312912 | [312912-speedmapping-pack-189-doom-satanic-mechanisms.json](./312912-speedmapping-pack-189-doom-satanic-mechanisms.json) |
 | Speedollama | 263766 | [263766-speedollama.json](./263766-speedollama.json) |
 | Speedpunk | 151147 | [151147-speedpunk.json](./151147-speedpunk.json) |
+| SpeedRage | 72041 | [72041-speedrage.json](./72041-speedrage.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
 | Speedrunner's Paradise: Sky is the limit | 215716 | [215716-speedrunners-paradise-sky-is-the-limit.json](./215716-speedrunners-paradise-sky-is-the-limit.json) |
@@ -4184,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcaster's Assistant | 96733 | [96733-spellcasters-assistant.json](./96733-spellcasters-assistant.json) |
 | Spellcasting 1+2+3 | 124795 | [124795-spellcasting-1-2-3.json](./124795-spellcasting-1-2-3.json) |
 | Spellcasting 101: Sorcerers get all the Girls | 92973 | [92973-spellcasting-101-sorcerers-get-all-the-girls.json](./92973-spellcasting-101-sorcerers-get-all-the-girls.json) |
+| Spellcasting 201: The Sorcerer's Appliance | 72074 | [72074-spellcasting-201-the-sorcerers-appliance.json](./72074-spellcasting-201-the-sorcerers-appliance.json) |
 | Spellcasting Collection | 115708 | [115708-spellcasting-collection.json](./115708-spellcasting-collection.json) |
 | Spellcats: Auto Card Tactics | 236288 | [236288-spellcats-auto-card-tactics.json](./236288-spellcats-auto-card-tactics.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
@@ -4427,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport & Fun: Swimming - Ultra Ultimate | 328829 | [328829-sport-and-fun-swimming-ultra-ultimate.json](./328829-sport-and-fun-swimming-ultra-ultimate.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
 | Sportfischen Professional | 130851 | [130851-sportfischen-professional.json](./130851-sportfischen-professional.json) |
+| Sporting Triangles | 72062 | [72062-sporting-triangles.json](./72062-sporting-triangles.json) |
 | Sports Car Challenge 2 | 233243 | [233243-sports-car-challenge-2.json](./233243-sports-car-challenge-2.json) |
 | Sports Car Driver | 187493 | [187493-sports-car-driver.json](./187493-sports-car-driver.json) |
 | Sports Car Driving Simulator 2018 | 100867 | [100867-sports-car-driving-simulator-2018.json](./100867-sports-car-driving-simulator-2018.json) |
@@ -4510,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Hunter Returns | 297466 | [297466-spy-hunter-returns.json](./297466-spy-hunter-returns.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
+| Spy Kids Learning Adventures: Mission - The Underground Affair | 72075 | [72075-spy-kids-learning-adventures-mission-the-underground-affair.json](./72075-spy-kids-learning-adventures-mission-the-underground-affair.json) |
 | Spy Network | 188111 | [188111-spy-network.json](./188111-spy-network.json) |
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
@@ -5041,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
 | Starway Ateez | 315487 | [315487-starway-ateez.json](./315487-starway-ateez.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
+| Starwinder: The Ultimate Space Race | 72069 | [72069-starwinder-the-ultimate-space-race.json](./72069-starwinder-the-ultimate-space-race.json) |
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
 | Stary | 113644 | [113644-stary.json](./113644-stary.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
@@ -5414,6 +5422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
 | Strategie Spiele | 81396 | [81396-strategie-spiele.json](./81396-strategie-spiele.json) |
 | Strategist | 107808 | [107808-strategist.json](./107808-strategist.json) |
+| Stratego | 72027 | [72027-stratego.json](./72027-stratego.json) |
 | Strategy Battles​ | 221753 | [221753-strategy-battles.json](./221753-strategy-battles.json) |
 | Strategy Games | 84213 | [84213-strategy-games.json](./84213-strategy-games.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
