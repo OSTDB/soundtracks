@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majong | 138732 | [138732-majong.json](./138732-majong.json) |
 | MaJong13 | 246419 | [246419-majong13.json](./246419-majong13.json) |
 | MaJong16 | 246420 | [246420-majong16.json](./246420-majong16.json) |
+| Major Blink: Berks 2 | 60525 | [60525-major-blink-berks-2.json](./60525-major-blink-berks-2.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
 | Major League Baseball 2K5 | 8907 | [8907-major-league-baseball-2k5.json](./8907-major-league-baseball-2k5.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
