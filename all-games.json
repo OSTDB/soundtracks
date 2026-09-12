@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:05:44.021Z",
-  "total_soundtracks": 1440,
+  "generated_at": "2026-09-12T07:46:00.439Z",
+  "total_soundtracks": 1441,
   "games": [
     {
       "igdb_id": 7522,
@@ -177,6 +177,20 @@
           "spotify_url": "https://music.apple.com/us/album/a-hat-in-time-original-game-soundtrack/1299393881?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1299393881"
+        }
+      ]
+    },
+    {
+      "igdb_id": 87686,
+      "game_name": "A Light in the Dark",
+      "game_url": "https://ostdb.net/games/a-light-in-the-dark",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737d200e2511651a197679e918",
+      "albums": [
+        {
+          "album_name": "A Light in the Dark (Original Soundtracks)",
+          "spotify_url": "https://open.spotify.com/album/6WppdgWVd1encVHaEgCyxY",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
