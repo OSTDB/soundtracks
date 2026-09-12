@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waktunya Kerja! | 385599 | [385599-waktunya-kerja.json](./385599-waktunya-kerja.json) |
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
 | Waku Waku Sweets: Happy Sweets Making | 96093 | [96093-waku-waku-sweets-happy-sweets-making.json](./96093-waku-waku-sweets-happy-sweets-making.json) |
+| Waku-waku Puyo Puyo Dungeon | 70934 | [70934-waku-waku-puyo-puyo-dungeon.json](./70934-waku-waku-puyo-puyo-dungeon.json) |
 | Waku-waku Ski Wonder Spur | 37770 | [37770-waku-waku-ski-wonder-spur.json](./37770-waku-waku-ski-wonder-spur.json) |
 | Waku-waku Ultraman Racing | 252170 | [252170-waku-waku-ultraman-racing.json](./252170-waku-waku-ultraman-racing.json) |
 | Wakugumi: Monochrome Puzzle | 85479 | [85479-wakugumi-monochrome-puzzle.json](./85479-wakugumi-monochrome-puzzle.json) |
@@ -1003,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
+| Wild Wild West: The Steel Assassin | 70950 | [70950-wild-wild-west-the-steel-assassin.json](./70950-wild-wild-west-the-steel-assassin.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
 | Wild world | 150629 | [150629-wild-world.json](./150629-wild-world.json) |
