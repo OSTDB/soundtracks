@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off_Duty | 184613 | [184613-off-duty.json](./184613-off-duty.json) |
 | Off-Road Farming | 188679 | [188679-off-road-farming.json](./188679-off-road-farming.json) |
 | Off-Road Kings | 98993 | [98993-off-road-kings.json](./98993-off-road-kings.json) |
+| Off-Road Velociraptor Safari | 72644 | [72644-off-road-velociraptor-safari.json](./72644-off-road-velociraptor-safari.json) |
 | Off-Road: Redneck Racing - Off-Road | 289319 | [289319-off-road-redneck-racing-off-road.json](./289319-off-road-redneck-racing-off-road.json) |
 | Off-World Relocation | 253361 | [253361-off-world-relocation.json](./253361-off-world-relocation.json) |
 | Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
