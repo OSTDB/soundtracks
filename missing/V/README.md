@@ -65,6 +65,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vain Dream | 238483 | [238483-vain-dream.json](./238483-vain-dream.json) |
 | Vain Dream II | 238484 | [238484-vain-dream-ii.json](./238484-vain-dream-ii.json) |
 | Vain Uprising | 331322 | [331322-vain-uprising.json](./331322-vain-uprising.json) |
+| Val d'Isère Ski Park Manager | 64920 | [64920-val-disere-ski-park-manager.json](./64920-val-disere-ski-park-manager.json) |
+| Val d'Isère Ski Park Manager: Edition 2003 | 64919 | [64919-val-disere-ski-park-manager-edition-2003.json](./64919-val-disere-ski-park-manager-edition-2003.json) |
 | Val d'Isère Skiing and Snowboarding | 175892 | [175892-val-disere-skiing-and-snowboarding.json](./175892-val-disere-skiing-and-snowboarding.json) |
 | Valakas Story | 122824 | [122824-valakas-story.json](./122824-valakas-story.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
