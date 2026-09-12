@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
 | Igo Shinan | 63890 | [63890-igo-shinan.json](./63890-igo-shinan.json) |
+| iGP Manager | 59353 | [59353-igp-manager.json](./59353-igp-manager.json) |
 | IGPX: Immortal Grand Prix | 20563 | [20563-igpx-immortal-grand-prix.json](./20563-igpx-immortal-grand-prix.json) |
 | iGrow Game | 21986 | [21986-igrow-game.json](./21986-igrow-game.json) |
 | IguaRPG 2 | 314033 | [314033-iguarpg-2.json](./314033-iguarpg-2.json) |
