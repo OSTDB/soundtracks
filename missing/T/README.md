@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
 | The Atlas Mystery: PC Edition | 336567 | [336567-the-atlas-mystery-pc-edition.json](./336567-the-atlas-mystery-pc-edition.json) |
+| The Atlas: Renaissance Voyager | 38315 | [38315-the-atlas-renaissance-voyager.json](./38315-the-atlas-renaissance-voyager.json) |
 | The Atomy | 33124 | [33124-the-atomy.json](./33124-the-atomy.json) |
 | The Attack on Egg Harbor | 344357 | [344357-the-attack-on-egg-harbor.json](./344357-the-attack-on-egg-harbor.json) |
 | The Attendant | 181289 | [181289-the-attendant.json](./181289-the-attendant.json) |
@@ -5093,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
 | Toad's Soul Hopper | 301024 | [301024-toads-soul-hopper.json](./301024-toads-soul-hopper.json) |
+| Toad's World | 38306 | [38306-toads-world.json](./38306-toads-world.json) |
 | Toader | 112975 | [112975-toader.json](./112975-toader.json) |
 | Toadette Strikes | 134069 | [134069-toadette-strikes.json](./134069-toadette-strikes.json) |
 | Toadomination | 173243 | [173243-toadomination.json](./173243-toadomination.json) |
