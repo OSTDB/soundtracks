@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
 | Linkin Hero | 234620 | [234620-linkin-hero.json](./234620-linkin-hero.json) |
 | Linkin Park Revenge | 77965 | [77965-linkin-park-revenge.json](./77965-linkin-park-revenge.json) |
+| LinkIt! | 26506 | [26506-linkit.json](./26506-linkit.json) |
 | Linkrealms | 34467 | [34467-linkrealms.json](./34467-linkrealms.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Blitz | 58751 | [58751-ludo-blitz.json](./58751-ludo-blitz.json) |
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
 | Ludo Ultimate Online Dice Game | 91343 | [91343-ludo-ultimate-online-dice-game.json](./91343-ludo-ultimate-online-dice-game.json) |
+| Ludu | 26491 | [26491-ludu.json](./26491-ludu.json) |
 | Ludum Creare | 176981 | [176981-ludum-creare.json](./176981-ludum-creare.json) |
 | Luduvo | 412303 | [412303-luduvo.json](./412303-luduvo.json) |
 | Lufia: The Legend Returns | 1179 | [1179-lufia-the-legend-returns.json](./1179-lufia-the-legend-returns.json) |
