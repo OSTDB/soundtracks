@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
 | Neffy: Moonlight Labyrinth X | 369061 | [369061-neffy-moonlight-labyrinth-x.json](./369061-neffy-moonlight-labyrinth-x.json) |
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
+| Negaia | 57069 | [57069-negaia.json](./57069-negaia.json) |
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
 | Negative Nancy | 125474 | [125474-negative-nancy.json](./125474-negative-nancy.json) |
 | Negative Reverie | 321744 | [321744-negative-reverie.json](./321744-negative-reverie.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetWits | 57655 | [57655-netwits.json](./57655-netwits.json) |
 | Network | 147404 | [147404-network.json](./147404-network.json) |
 | Network | 95442 | [95442-network.json](./95442-network.json) |
+| Network Adventure Bugsite: Alpha | 57076 | [57076-network-adventure-bugsite-alpha.json](./57076-network-adventure-bugsite-alpha.json) |
 | Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
 | Network Nodes | 344949 | [344949-network-nodes.json](./344949-network-nodes.json) |
 | Neural Gear | 93545 | [93545-neural-gear.json](./93545-neural-gear.json) |
