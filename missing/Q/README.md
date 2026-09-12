@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Underdark Overbright & Copper | 199075 | [199075-quake-underdark-overbright-and-copper.json](./199075-quake-underdark-overbright-and-copper.json) |
 | Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
+| Qualia | 77279 | [77279-qualia.json](./77279-qualia.json) |
 | Qualia's Sweets Craft | 165658 | [165658-qualias-sweets-craft.json](./165658-qualias-sweets-craft.json) |
 | Quán Zhàn Tiānxià | 156616 | [156616-quan-zhan-tianxia.json](./156616-quan-zhan-tianxia.json) |
 | Quandaries | 94166 | [94166-quandaries.json](./94166-quandaries.json) |
