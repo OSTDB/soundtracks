@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
 | Galactix | 381042 | [381042-galactix.json](./381042-galactix.json) |
 | Galactose: Pastries in Space | 109047 | [109047-galactose-pastries-in-space.json](./109047-galactose-pastries-in-space.json) |
+| Galador: The Prince and the Coward | 26484 | [26484-galador-the-prince-and-the-coward.json](./26484-galador-the-prince-and-the-coward.json) |
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
 | Galaga Wave Mixer | 339253 | [339253-galaga-wave-mixer.json](./339253-galaga-wave-mixer.json) |
@@ -662,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germany's Next Top Model: Das Offizielle Spiel zur Staffel 2009 | 86128 | [86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json](./86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json) |
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
 | Germinator | 21019 | [21019-germinator.json](./21019-germinator.json) |
+| Gerry the Germ Goes Body Poppin' | 26464 | [26464-gerry-the-germ-goes-body-poppin.json](./26464-gerry-the-germ-goes-body-poppin.json) |
 | Gerrymandering: Red vs Blue | 27865 | [27865-gerrymandering-red-vs-blue.json](./27865-gerrymandering-red-vs-blue.json) |
 | Gerty: Robots In Love | 31638 | [31638-gerty-robots-in-love.json](./31638-gerty-robots-in-love.json) |
 | Gestalt_OS | 270657 | [270657-gestalt-os.json](./270657-gestalt-os.json) |
@@ -796,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls | 13721 | [13721-ghouls.json](./13721-ghouls.json) |
 | Ghouls 'n Ghosts Remix | 191269 | [191269-ghouls-n-ghosts-remix.json](./191269-ghouls-n-ghosts-remix.json) |
 | Ghouls 'n Ghosts Remix: Queen Edition | 191271 | [191271-ghouls-n-ghosts-remix-queen-edition.json](./191271-ghouls-n-ghosts-remix-queen-edition.json) |
+| Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Giana Sisters | 213394 | [213394-giana-sisters.json](./213394-giana-sisters.json) |
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
@@ -1430,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Attack | 329000 | [329000-gorilla-attack.json](./329000-gorilla-attack.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
+| Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
 | Gormiti: The Lords of Nature! | 188105 | [188105-gormiti-the-lords-of-nature.json](./188105-gormiti-the-lords-of-nature.json) |
 | Gorn | 41047 | [41047-gorn.json](./41047-gorn.json) |
 | Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
