@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T19:01:38.280Z",
-  "total_missing": 62995,
+  "generated_at": "2026-09-12T19:11:32.752Z",
+  "total_missing": 62998,
   "games": [
     {
       "igdb_id": 306086,
@@ -3106,11 +3106,6 @@
       "igdb_id": 306976,
       "game_name": "Abyss of Dungeons",
       "file": "missing/A/306976-abyss-of-dungeons.json"
-    },
-    {
-      "igdb_id": 239301,
-      "game_name": "Abyss of Fire",
-      "file": "missing/A/239301-abyss-of-fire.json"
     },
     {
       "igdb_id": 339129,
@@ -130098,6 +130093,16 @@
       "file": "missing/J/212707-jackal.json"
     },
     {
+      "igdb_id": 39606,
+      "game_name": "Jackie Chan in Fists of Fire",
+      "file": "missing/J/39606-jackie-chan-in-fists-of-fire.json"
+    },
+    {
+      "igdb_id": 39607,
+      "game_name": "Jackie Chan: The Kung-Fu Master",
+      "file": "missing/J/39607-jackie-chan-the-kung-fu-master.json"
+    },
+    {
       "igdb_id": 361689,
       "game_name": "Jackpoison",
       "file": "missing/J/361689-jackpoison.json"
@@ -186826,6 +186831,11 @@
       "igdb_id": 219267,
       "game_name": "Outspell",
       "file": "missing/O/219267-outspell.json"
+    },
+    {
+      "igdb_id": 39605,
+      "game_name": "Outtrigger",
+      "file": "missing/O/39605-outtrigger.json"
     },
     {
       "igdb_id": 291446,
@@ -297996,6 +298006,11 @@
       "igdb_id": 80616,
       "game_name": "Violator",
       "file": "missing/V/80616-violator.json"
+    },
+    {
+      "igdb_id": 39608,
+      "game_name": "Violence Fight",
+      "file": "missing/V/39608-violence-fight.json"
     },
     {
       "igdb_id": 189206,
