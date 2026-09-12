@@ -311,6 +311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy Pinball | 81362 | [81362-family-guy-pinball.json](./81362-family-guy-pinball.json) |
 | Family Guy: Back to the Multiverse | 264870 | [264870-family-guy-back-to-the-multiverse.json](./264870-family-guy-back-to-the-multiverse.json) |
 | Family Guy: Back to the Multiverse | 264871 | [264871-family-guy-back-to-the-multiverse.json](./264871-family-guy-back-to-the-multiverse.json) |
+| Family Guy: The Quest for Stuff | 38908 | [38908-family-guy-the-quest-for-stuff.json](./38908-family-guy-the-quest-for-stuff.json) |
 | Family Guy: Time Warped | 66114 | [66114-family-guy-time-warped.json](./66114-family-guy-time-warped.json) |
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
 | Family Party: 30 Great Games Obstacle Arcade | 5312 | [5312-family-party-30-great-games-obstacle-arcade.json](./5312-family-party-30-great-games-obstacle-arcade.json) |
@@ -1169,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestorm | 239088 | [239088-firestorm.json](./239088-firestorm.json) |
 | Firestorm Deadland | 253365 | [253365-firestorm-deadland.json](./253365-firestorm-deadland.json) |
 | Firestriker | 42553 | [42553-firestriker.json](./42553-firestriker.json) |
+| Firetrack | 38926 | [38926-firetrack.json](./38926-firetrack.json) |
 | FireTry: Capture the Flag | 167850 | [167850-firetry-capture-the-flag.json](./167850-firetry-capture-the-flag.json) |
 | Firewall Zero Hour | 76966 | [76966-firewall-zero-hour.json](./76966-firewall-zero-hour.json) |
 | Firewall: Man vs. Machine | 217880 | [217880-firewall-man-vs-machine.json](./217880-firewall-man-vs-machine.json) |
