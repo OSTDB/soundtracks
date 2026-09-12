@@ -1986,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunnye Devitsy | 16491 | [16491-lunnye-devitsy.json](./16491-lunnye-devitsy.json) |
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Lupin III Sansei: Cagliostro no Shiro Saikai | 302706 | [302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json](./302706-lupin-iii-sansei-cagliostro-no-shiro-saikai.json) |
+| Lupin the 3rd: The Shooting | 39594 | [39594-lupin-the-3rd-the-shooting.json](./39594-lupin-the-3rd-the-shooting.json) |
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
