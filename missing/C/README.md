@@ -36,12 +36,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter | 100218 | [100218-cabelas-big-game-hunter.json](./100218-cabelas-big-game-hunter.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
+| Cabela's Big Game Hunter: Ultimate Challenge | 45298 | [45298-cabelas-big-game-hunter-ultimate-challenge.json](./45298-cabelas-big-game-hunter-ultimate-challenge.json) |
 | Cabela's Dangerous Hunts | 5763 | [5763-cabelas-dangerous-hunts.json](./5763-cabelas-dangerous-hunts.json) |
 | Cabela's Deer Hunt: 2004 Season | 5764 | [5764-cabelas-deer-hunt-2004-season.json](./5764-cabelas-deer-hunt-2004-season.json) |
 | Cabela's Deer Hunt: 2005 Season | 5765 | [5765-cabelas-deer-hunt-2005-season.json](./5765-cabelas-deer-hunt-2005-season.json) |
 | Cabela's Grand Slam Hunting: North American 29 | 78057 | [78057-cabelas-grand-slam-hunting-north-american-29.json](./78057-cabelas-grand-slam-hunting-north-american-29.json) |
 | Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
+| Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cabins: Jigsaw Puzzles | 103465 | [103465-cabins-jigsaw-puzzles.json](./103465-cabins-jigsaw-puzzles.json) |
 | Cache-Cache | 176428 | [176428-cache-cache.json](./176428-cache-cache.json) |
@@ -65,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar's World of Gambling | 45940 | [45940-caesars-world-of-gambling.json](./45940-caesars-world-of-gambling.json) |
 | Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
 | Caesars Palace 64 | 297465 | [297465-caesars-palace-64.json](./297465-caesars-palace-64.json) |
+| Caesars Palace II | 45296 | [45296-caesars-palace-ii.json](./45296-caesars-palace-ii.json) |
 | Caesars Palace II | 49910 | [49910-caesars-palace-ii.json](./49910-caesars-palace-ii.json) |
 | Caesars Palace: Black Jack | 218438 | [218438-caesars-palace-black-jack.json](./218438-caesars-palace-black-jack.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
