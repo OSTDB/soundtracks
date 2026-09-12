@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papiny Dochki | 188598 | [188598-papiny-dochki.json](./188598-papiny-dochki.json) |
 | PapiTap | 87528 | [87528-papitap.json](./87528-papitap.json) |
 | Papo & Yo | 7388 | [7388-papo-and-yo.json](./7388-papo-and-yo.json) |
+| Paprium | 55107 | [55107-paprium.json](./55107-paprium.json) |
 | Par 1 Golf | 200103 | [200103-par-1-golf.json](./200103-par-1-golf.json) |
 | Par 1 Golf 10 | 200181 | [200181-par-1-golf-10.json](./200181-par-1-golf-10.json) |
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
@@ -1030,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
+| Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
 | Phantom Doctrine: Deluxe Edition | 107257 | [107257-phantom-doctrine-deluxe-edition.json](./107257-phantom-doctrine-deluxe-edition.json) |
 | Phantom Doctrine: Halloween Scare Tactics | 171081 | [171081-phantom-doctrine-halloween-scare-tactics.json](./171081-phantom-doctrine-halloween-scare-tactics.json) |
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
@@ -1081,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobos Vector Prime: The First Ring | 111057 | [111057-phobos-vector-prime-the-first-ring.json](./111057-phobos-vector-prime-the-first-ring.json) |
 | Phocas Island 2 | 256859 | [256859-phocas-island-2.json](./256859-phocas-island-2.json) |
 | Phoebe Flingle Finger | 183569 | [183569-phoebe-flingle-finger.json](./183569-phoebe-flingle-finger.json) |
+| Phoenix | 55015 | [55015-phoenix.json](./55015-phoenix.json) |
 | Phoenix | 71477 | [71477-phoenix.json](./71477-phoenix.json) |
 | Phoenix Contract | 322588 | [322588-phoenix-contract.json](./322588-phoenix-contract.json) |
 | Phoenix Point: Blood and Titanium | 149580 | [149580-phoenix-point-blood-and-titanium.json](./149580-phoenix-point-blood-and-titanium.json) |
@@ -1812,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Dice | 277867 | [277867-play-dice.json](./277867-play-dice.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play for Love | 292008 | [292008-play-for-love.json](./292008-play-for-love.json) |
+| Play for Your Life | 55053 | [55053-play-for-your-life.json](./55053-play-for-your-life.json) |
 | Play Outside Simulator | 189145 | [189145-play-outside-simulator.json](./189145-play-outside-simulator.json) |
 | Play Room 0g | 111017 | [111017-play-room-0g.json](./111017-play-room-0g.json) |
 | Play Something Different Vol. 1 | 173788 | [173788-play-something-different-vol-1.json](./173788-play-something-different-vol-1.json) |
@@ -2483,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Sled | 130872 | [130872-power-sled.json](./130872-power-sled.json) |
 | Power Solenoid | 251845 | [251845-power-solenoid.json](./251845-power-solenoid.json) |
 | Power Stakes: Grade 1 | 141165 | [141165-power-stakes-grade-1.json](./141165-power-stakes-grade-1.json) |
+| Power Struggle | 55031 | [55031-power-struggle.json](./55031-power-struggle.json) |
 | Power to Play: The Game | 255082 | [255082-power-to-play-the-game.json](./255082-power-to-play-the-game.json) |
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
@@ -2941,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
 | Project Nasu | 270954 | [270954-project-nasu.json](./270954-project-nasu.json) |
 | Project Neon | 330134 | [330134-project-neon.json](./330134-project-neon.json) |
+| Project Neptune | 55097 | [55097-project-neptune.json](./55097-project-neptune.json) |
 | Project Nimbus: Complete Edition | 117739 | [117739-project-nimbus-complete-edition.json](./117739-project-nimbus-complete-edition.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Noah | 223981 | [223981-project-noah.json](./223981-project-noah.json) |
@@ -3113,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proviant | 90618 | [90618-proviant.json](./90618-proviant.json) |
 | Provide Relief | 272008 | [272008-provide-relief.json](./272008-provide-relief.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
+| Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
 | Prussia's Glory | 77384 | [77384-prussias-glory.json](./77384-prussias-glory.json) |
