@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Monsters | 159324 | [159324-backyard-monsters.json](./159324-backyard-monsters.json) |
 | Backyard Parking 3D | 83579 | [83579-backyard-parking-3d.json](./83579-backyard-parking-3d.json) |
 | Backyard Skateboarding | 248633 | [248633-backyard-skateboarding.json](./248633-backyard-skateboarding.json) |
+| Backyard Skateboarding | 49312 | [49312-backyard-skateboarding.json](./49312-backyard-skateboarding.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
 | Backyard Sports: Basketball 2007 | 73785 | [73785-backyard-sports-basketball-2007.json](./73785-backyard-sports-basketball-2007.json) |
 | Backyard Sports: Sandlot Sluggers | 47383 | [47383-backyard-sports-sandlot-sluggers.json](./47383-backyard-sports-sandlot-sluggers.json) |
@@ -1763,6 +1764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Beacon: Forsaken Eternity | 349327 | [349327-black-beacon-forsaken-eternity.json](./349327-black-beacon-forsaken-eternity.json) |
 | Black Belt | 12257 | [12257-black-belt.json](./12257-black-belt.json) |
 | Black Belt | 29134 | [29134-black-belt.json](./29134-black-belt.json) |
+| Black Belt Challenge | 49310 | [49310-black-belt-challenge.json](./49310-black-belt-challenge.json) |
 | Black Bird | 312581 | [312581-black-bird.json](./312581-black-bird.json) |
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
@@ -1893,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Exile | 19579 | [19579-blades-of-exile.json](./19579-blades-of-exile.json) |
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
+| Blades of Thunder | 49309 | [49309-blades-of-thunder.json](./49309-blades-of-thunder.json) |
 | Blades of Time | 6918 | [6918-blades-of-time.json](./6918-blades-of-time.json) |
 | Blades of Time: Limited Edition | 52656 | [52656-blades-of-time-limited-edition.json](./52656-blades-of-time-limited-edition.json) |
 | Blades of Vharan | 396224 | [396224-blades-of-vharan.json](./396224-blades-of-vharan.json) |
@@ -2325,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
 | BMX Pipe | 102770 | [102770-bmx-pipe.json](./102770-bmx-pipe.json) |
 | BMX Simulator | 11973 | [11973-bmx-simulator.json](./11973-bmx-simulator.json) |
+| BMX Trick Racer | 49313 | [49313-bmx-trick-racer.json](./49313-bmx-trick-racer.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
