@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Recycle Bin | 184035 | [184035-tales-from-the-recycle-bin.json](./184035-tales-from-the-recycle-bin.json) |
 | Tales From The Under-Realm: After Midnight | 301004 | [301004-tales-from-the-under-realm-after-midnight.json](./301004-tales-from-the-under-realm-after-midnight.json) |
 | Tales From The Under-Realm: Hazel | 298566 | [298566-tales-from-the-under-realm-hazel.json](./298566-tales-from-the-under-realm-hazel.json) |
+| Tales From Windy Meadow | 55114 | [55114-tales-from-windy-meadow.json](./55114-tales-from-windy-meadow.json) |
 | Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
 | Tales of a Turnabout | 318795 | [318795-tales-of-a-turnabout.json](./318795-tales-of-a-turnabout.json) |
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
@@ -399,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi: Party On! | 5211 | [5211-tamagotchi-party-on.json](./5211-tamagotchi-party-on.json) |
 | Tamarak Trail | 240982 | [240982-tamarak-trail.json](./240982-tamarak-trail.json) |
 | TamaTown Tama-Go | 229958 | [229958-tamatown-tama-go.json](./229958-tamatown-tama-go.json) |
+| Tamaya | 55113 | [55113-tamaya.json](./55113-tamaya.json) |
 | Tamayura Mirai | 240818 | [240818-tamayura-mirai.json](./240818-tamayura-mirai.json) |
 | Tame It Too! | 310745 | [310745-tame-it-too.json](./310745-tame-it-too.json) |
 | Tamer Saga | 56489 | [56489-tamer-saga.json](./56489-tamer-saga.json) |
@@ -1727,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
+| The Devil's Eight | 55126 | [55126-the-devils-eight.json](./55126-the-devils-eight.json) |
 | The Devil's Garden | 105280 | [105280-the-devils-garden.json](./105280-the-devils-garden.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
 | The Devils: A Visual Novel of WWII | 192381 | [192381-the-devils-a-visual-novel-of-wwii.json](./192381-the-devils-a-visual-novel-of-wwii.json) |
@@ -2447,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
+| The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
 | The Last of the Summer Tank | 286014 | [286014-the-last-of-the-summer-tank.json](./286014-the-last-of-the-summer-tank.json) |
@@ -2752,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Making of Karateka | 256293 | [256293-the-making-of-karateka.json](./256293-the-making-of-karateka.json) |
 | The Mall Explodes! | 412999 | [412999-the-mall-explodes.json](./412999-the-mall-explodes.json) |
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
+| The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
@@ -4213,6 +4218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Chase | 83503 | [83503-thunder-chase.json](./83503-thunder-chase.json) |
 | Thunder Cross | 46772 | [46772-thunder-cross.json](./46772-thunder-cross.json) |
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
+| Thunder Force | 55055 | [55055-thunder-force.json](./55055-thunder-force.json) |
 | Thunder Force: Gold Pack 1 | 100138 | [100138-thunder-force-gold-pack-1.json](./100138-thunder-force-gold-pack-1.json) |
 | Thunder Fox | 39888 | [39888-thunder-fox.json](./39888-thunder-fox.json) |
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
@@ -4928,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be A Dummy Head VR: Ferris Wheel Story | 118379 | [118379-to-be-a-dummy-head-vr-ferris-wheel-story.json](./118379-to-be-a-dummy-head-vr-ferris-wheel-story.json) |
 | To Be A Dummy Head VR: Hotel Elevator Story | 118378 | [118378-to-be-a-dummy-head-vr-hotel-elevator-story.json](./118378-to-be-a-dummy-head-vr-hotel-elevator-story.json) |
 | To Be A King: Volume 1 | 254754 | [254754-to-be-a-king-volume-1.json](./254754-to-be-a-king-volume-1.json) |
+| To be on Top | 55023 | [55023-to-be-on-top.json](./55023-to-be-on-top.json) |
 | To Be With You | 152890 | [152890-to-be-with-you.json](./152890-to-be-with-you.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
 | To Die in the Shade | 281425 | [281425-to-die-in-the-shade.json](./281425-to-die-in-the-shade.json) |
@@ -4976,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toaplan Arcade Collection 3 | 325237 | [325237-toaplan-arcade-collection-3.json](./325237-toaplan-arcade-collection-3.json) |
 | Toaplan Arcade Collection 4 | 325236 | [325236-toaplan-arcade-collection-4.json](./325236-toaplan-arcade-collection-4.json) |
 | Toaplan Shooting Battle 1 | 125986 | [125986-toaplan-shooting-battle-1.json](./125986-toaplan-shooting-battle-1.json) |
+| Toaru Majutsu no Virtual-On | 55040 | [55040-toaru-majutsu-no-virtual-on.json](./55040-toaru-majutsu-no-virtual-on.json) |
 | Toasted! | 188101 | [188101-toasted.json](./188101-toasted.json) |
 | Toaster Defense | 157144 | [157144-toaster-defense.json](./157144-toaster-defense.json) |
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
