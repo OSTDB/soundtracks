@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
+| Beneath the Lighthouse | 59378 | [59378-beneath-the-lighthouse.json](./59378-beneath-the-lighthouse.json) |
 | Beneath the Mountain | 173299 | [173299-beneath-the-mountain.json](./173299-beneath-the-mountain.json) |
 | Beneath the Surface | 111630 | [111630-beneath-the-surface.json](./111630-beneath-the-surface.json) |
 | Beneath the Waves | 319393 | [319393-beneath-the-waves.json](./319393-beneath-the-waves.json) |
@@ -1733,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitzee Disney | 340222 | [340222-bitzee-disney.json](./340222-bitzee-disney.json) |
 | Bitzee Magicals | 340221 | [340221-bitzee-magicals.json](./340221-bitzee-magicals.json) |
 | Biwar: Legend of Dragon Slayer | 204713 | [204713-biwar-legend-of-dragon-slayer.json](./204713-biwar-legend-of-dragon-slayer.json) |
+| Biz Taiken Series: Kigyoudou | 59393 | [59393-biz-taiken-series-kigyoudou.json](./59393-biz-taiken-series-kigyoudou.json) |
 | Bizarre | 313139 | [313139-bizarre.json](./313139-bizarre.json) |
 | Bizarre Hunteress Rin | 82879 | [82879-bizarre-hunteress-rin.json](./82879-bizarre-hunteress-rin.json) |
 | Bizarre Tale | 76671 | [76671-bizarre-tale.json](./76671-bizarre-tale.json) |
@@ -2449,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Land Touch! | 20612 | [20612-bomberman-land-touch.json](./20612-bomberman-land-touch.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
 | Bomberman Nightmare | 142492 | [142492-bomberman-nightmare.json](./142492-bomberman-nightmare.json) |
+| Bomberman: Bakufuu Sentai Bomberman | 59395 | [59395-bomberman-bakufuu-sentai-bomberman.json](./59395-bomberman-bakufuu-sentai-bomberman.json) |
 | Bomberman: Panic Bomber | 162409 | [162409-bomberman-panic-bomber.json](./162409-bomberman-panic-bomber.json) |
 | Bomberman: Panic Bomber | 39663 | [39663-bomberman-panic-bomber.json](./39663-bomberman-panic-bomber.json) |
 | Bomberman: Users Battle | 42055 | [42055-bomberman-users-battle.json](./42055-bomberman-users-battle.json) |
@@ -3382,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker of Barzai | 271460 | [271460-bunker-of-barzai.json](./271460-bunker-of-barzai.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
 | Bunmei Kaika: Aoiza Ibunroku | 221966 | [221966-bunmei-kaika-aoiza-ibunroku.json](./221966-bunmei-kaika-aoiza-ibunroku.json) |
+| Bunmei Kaika: Aoiza Ibunroku Saien | 59391 | [59391-bunmei-kaika-aoiza-ibunroku-saien.json](./59391-bunmei-kaika-aoiza-ibunroku-saien.json) |
 | Bunni Gunni Classic | 223501 | [223501-bunni-gunni-classic.json](./223501-bunni-gunni-classic.json) |
 | Bunnie Rabbot in Sonic the Hedgehog | 129180 | [129180-bunnie-rabbot-in-sonic-the-hedgehog.json](./129180-bunnie-rabbot-in-sonic-the-hedgehog.json) |
 | Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
