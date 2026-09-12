@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agelast | 223484 | [223484-agelast.json](./223484-agelast.json) |
 | Agency 13 | 357800 | [357800-agency-13.json](./357800-agency-13.json) |
 | Agent 9 | 113742 | [113742-agent-9.json](./113742-agent-9.json) |
+| Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
 | Agent Angels | 63274 | [63274-agent-angels.json](./63274-agent-angels.json) |
 | Agent B0rk | 27914 | [27914-agent-b0rk.json](./27914-agent-b0rk.json) |
 | Agent Bob | 357799 | [357799-agent-bob.json](./357799-agent-bob.json) |
@@ -907,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Champions: Gun Shooter Simulator | 205025 | [205025-aim-champions-gun-shooter-simulator.json](./205025-aim-champions-gun-shooter-simulator.json) |
 | Aim Lab Mobile | 226768 | [226768-aim-lab-mobile.json](./226768-aim-lab-mobile.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
+| Aima | 60507 | [60507-aima.json](./60507-aima.json) |
 | Aimbeast | 124750 | [124750-aimbeast.json](./124750-aimbeast.json) |
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
@@ -2065,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antioma | 344912 | [344912-antioma.json](./344912-antioma.json) |
 | Antiphona no Seikahime: Tenshi no Score Op.A | 56523 | [56523-antiphona-no-seikahime-tenshi-no-score-op-a.json](./56523-antiphona-no-seikahime-tenshi-no-score-op-a.json) |
 | AntiPodal | 342658 | [342658-antipodal.json](./342658-antipodal.json) |
+| Antipole DX | 60519 | [60519-antipole-dx.json](./60519-antipole-dx.json) |
 | Antiquarium | 287645 | [287645-antiquarium.json](./287645-antiquarium.json) |
 | Antique Backgammon | 399621 | [399621-antique-backgammon.json](./399621-antique-backgammon.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
