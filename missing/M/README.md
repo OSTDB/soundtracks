@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario.exe | 274985 | [274985-mario-exe.json](./274985-mario-exe.json) |
 | Mario's Balls | 343829 | [343829-marios-balls.json](./343829-marios-balls.json) |
 | Mario's Carnival Quest | 307903 | [307903-marios-carnival-quest.json](./307903-marios-carnival-quest.json) |
+| Mario's Cement Factory | 67940 | [67940-marios-cement-factory.json](./67940-marios-cement-factory.json) |
 | Mario's Deadly Flight | 323183 | [323183-marios-deadly-flight.json](./323183-marios-deadly-flight.json) |
 | Mario's Deadly Flight 2 | 323184 | [323184-marios-deadly-flight-2.json](./323184-marios-deadly-flight-2.json) |
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
@@ -3232,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonstuck | 195152 | [195152-moonstuck.json](./195152-moonstuck.json) |
 | Moontales Picbook | 359999 | [359999-moontales-picbook.json](./359999-moontales-picbook.json) |
 | Moontrain | 205573 | [205573-moontrain.json](./205573-moontrain.json) |
+| Moonwalker: The Computer Game | 67952 | [67952-moonwalker-the-computer-game.json](./67952-moonwalker-the-computer-game.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
