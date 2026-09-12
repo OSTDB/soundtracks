@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregory Horror Show | 292825 | [292825-gregory-horror-show.json](./292825-gregory-horror-show.json) |
 | Gregory Horror Show Soul of Roses | 320168 | [320168-gregory-horror-show-soul-of-roses.json](./320168-gregory-horror-show-soul-of-roses.json) |
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
+| Gremlin Invasion: Survivor | 35724 | [35724-gremlin-invasion-survivor.json](./35724-gremlin-invasion-survivor.json) |
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
 | Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
