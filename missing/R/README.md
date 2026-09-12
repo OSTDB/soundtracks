@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
+| RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
 | Rabi Laby 2 | 84834 | [84834-rabi-laby-2.json](./84834-rabi-laby-2.json) |
 | Rabi Laby 3 | 84833 | [84833-rabi-laby-3.json](./84833-rabi-laby-3.json) |
@@ -161,6 +162,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
 | Ragnania HD | 109711 | [109711-ragnania-hd.json](./109711-ragnania-hd.json) |
 | Ragnar's Chinese Memory Game | 156112 | [156112-ragnars-chinese-memory-game.json](./156112-ragnars-chinese-memory-game.json) |
+| Ragnarok Battle Offline: Extra Scenario 1 | 67953 | [67953-ragnarok-battle-offline-extra-scenario-1.json](./67953-ragnarok-battle-offline-extra-scenario-1.json) |
+| Ragnarok Battle Offline: Extra Scenario 2 | 67951 | [67951-ragnarok-battle-offline-extra-scenario-2.json](./67951-ragnarok-battle-offline-extra-scenario-2.json) |
 | Ragnarok Begins | 223978 | [223978-ragnarok-begins.json](./223978-ragnarok-begins.json) |
 | Ragnarok Crush | 353877 | [353877-ragnarok-crush.json](./353877-ragnarok-crush.json) |
 | Ragnarok Idle Adventure Plus | 335646 | [335646-ragnarok-idle-adventure-plus.json](./335646-ragnarok-idle-adventure-plus.json) |
@@ -826,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Casino: Shuffle Master Edition | 77390 | [77390-reel-deal-casino-shuffle-master-edition.json](./77390-reel-deal-casino-shuffle-master-edition.json) |
 | Reel Fishing 3D Paradise | 84832 | [84832-reel-fishing-3d-paradise.json](./84832-reel-fishing-3d-paradise.json) |
 | Reel Fishing 3D Paradise Mini | 84831 | [84831-reel-fishing-3d-paradise-mini.json](./84831-reel-fishing-3d-paradise-mini.json) |
+| Reel Fishing Challenge | 67964 | [67964-reel-fishing-challenge.json](./67964-reel-fishing-challenge.json) |
 | Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
@@ -2010,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolly Cubes | 312370 | [312370-rolly-cubes.json](./312370-rolly-cubes.json) |
 | ROM Check Fail | 79311 | [79311-rom-check-fail.json](./79311-rom-check-fail.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
+| Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
 | Roman Empire vs. Barbarians | 235734 | [235734-roman-empire-vs-barbarians.json](./235734-roman-empire-vs-barbarians.json) |
 | Roman Empire Wars | 158644 | [158644-roman-empire-wars.json](./158644-roman-empire-wars.json) |
 | Roman Sacrifice in Córdoba | 74447 | [74447-roman-sacrifice-in-cordoba.json](./74447-roman-sacrifice-in-cordoba.json) |
