@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FLY: Forever Loving You | 179676 | [179676-fly-forever-loving-you.json](./179676-fly-forever-loving-you.json) |
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
 | Fly! 2K | 93065 | [93065-fly-2k.json](./93065-fly-2k.json) |
+| Fly. Die. Cry. | 26478 | [26478-fly-die-cry.json](./26478-fly-die-cry.json) |
 | Fly2k | 391578 | [391578-fly2k.json](./391578-fly2k.json) |
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
 | Flycatcher | 93528 | [93528-flycatcher.json](./93528-flycatcher.json) |
