@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
 | Caesars Palace | 365687 | [365687-caesars-palace.json](./365687-caesars-palace.json) |
 | Caesars Palace 64 | 297465 | [297465-caesars-palace-64.json](./297465-caesars-palace-64.json) |
+| Caesars Palace II | 49910 | [49910-caesars-palace-ii.json](./49910-caesars-palace-ii.json) |
 | Caesars Palace: Black Jack | 218438 | [218438-caesars-palace-black-jack.json](./218438-caesars-palace-black-jack.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
@@ -1173,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charrua Soccer: Pro Edition | 277310 | [277310-charrua-soccer-pro-edition.json](./277310-charrua-soccer-pro-edition.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
+| Chase H.Q.: Secret Police | 49898 | [49898-chase-h-q-secret-police.json](./49898-chase-h-q-secret-police.json) |
 | Chase Survivors | 244512 | [244512-chase-survivors.json](./244512-chase-survivors.json) |
 | Chase the Sun | 221981 | [221981-chase-the-sun.json](./221981-chase-the-sun.json) |
 | Chase: Animatronics | 232697 | [232697-chase-animatronics.json](./232697-chase-animatronics.json) |
@@ -3673,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubit | 204473 | [204473-cubit.json](./204473-cubit.json) |
 | Cubix Classic | 67981 | [67981-cubix-classic.json](./67981-cubix-classic.json) |
 | Cubix Robots for Everyone: Showdown | 242806 | [242806-cubix-robots-for-everyone-showdown.json](./242806-cubix-robots-for-everyone-showdown.json) |
+| Cubix: Robots For Everyone - Race 'N Robots | 49897 | [49897-cubix-robots-for-everyone-race-n-robots.json](./49897-cubix-robots-for-everyone-race-n-robots.json) |
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
 | Cuby Bop | 39675 | [39675-cuby-bop.json](./39675-cuby-bop.json) |
