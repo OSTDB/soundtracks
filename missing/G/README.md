@@ -1241,6 +1241,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 3 | 269000 | [269000-golden-leaf-jigsaw-puzzles-expansion-pack-3.json](./269000-golden-leaf-jigsaw-puzzles-expansion-pack-3.json) |
 | Golden Mine Pickaxe 2: Mummy Tombs | 195189 | [195189-golden-mine-pickaxe-2-mummy-tombs.json](./195189-golden-mine-pickaxe-2-mummy-tombs.json) |
 | Golden Moon | 158180 | [158180-golden-moon.json](./158180-golden-moon.json) |
+| Golden Oldies 1: Guardian and Invaders | 45928 | [45928-golden-oldies-1-guardian-and-invaders.json](./45928-golden-oldies-1-guardian-and-invaders.json) |
+| Golden Oldies 2: Blockbuster and Bughunt | 45927 | [45927-golden-oldies-2-blockbuster-and-bughunt.json](./45927-golden-oldies-2-blockbuster-and-bughunt.json) |
 | Golden Racing | 335958 | [335958-golden-racing.json](./335958-golden-racing.json) |
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
@@ -1659,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
 | Great Adventures: Pirate Ship | 63892 | [63892-great-adventures-pirate-ship.json](./63892-great-adventures-pirate-ship.json) |
 | Great Alhcemist | 129227 | [129227-great-alhcemist.json](./129227-great-alhcemist.json) |
+| Great American Golf | 45926 | [45926-great-american-golf.json](./45926-great-american-golf.json) |
 | Great Basketball | 46672 | [46672-great-basketball.json](./46672-great-basketball.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
 | Great Big War Game | 16399 | [16399-great-big-war-game.json](./16399-great-big-war-game.json) |
