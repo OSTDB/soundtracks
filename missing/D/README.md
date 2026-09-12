@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
+| Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
 | Dead or Alive 2 Millennium | 39623 | [39623-dead-or-alive-2-millennium.json](./39623-dead-or-alive-2-millennium.json) |
 | Dead or Alive 2 Ultimate | 47302 | [47302-dead-or-alive-2-ultimate.json](./47302-dead-or-alive-2-ultimate.json) |
@@ -2407,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Jump | 412966 | [412966-donald-jump.json](./412966-donald-jump.json) |
 | Donald no Magical World GG2SMS | 369596 | [369596-donald-no-magical-world-gg2sms.json](./369596-donald-no-magical-world-gg2sms.json) |
+| Donald Trump's Real Estate Tycoon | 25706 | [25706-donald-trumps-real-estate-tycoon.json](./25706-donald-trumps-real-estate-tycoon.json) |
 | Donald's Alphabet Chase | 57631 | [57631-donalds-alphabet-chase.json](./57631-donalds-alphabet-chase.json) |
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
@@ -2980,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakkar Crew | 107886 | [107886-drakkar-crew.json](./107886-drakkar-crew.json) |
 | DraKoI | 60505 | [60505-drakoi.json](./60505-drakoi.json) |
 | Dramaqueen | 158230 | [158230-dramaqueen.json](./158230-dramaqueen.json) |
+| Dramatic RPG Kamitsuri | 25679 | [25679-dramatic-rpg-kamitsuri.json](./25679-dramatic-rpg-kamitsuri.json) |
 | Dramatical Murder Re:connect | 22493 | [22493-dramatical-murder-re-connect.json](./22493-dramatical-murder-re-connect.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
 | Draugen: Collector's Edition | 124776 | [124776-draugen-collectors-edition.json](./124776-draugen-collectors-edition.json) |
