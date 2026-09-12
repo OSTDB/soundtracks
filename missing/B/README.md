@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2018 | 99042 | [99042-baseball-mogul-2018.json](./99042-baseball-mogul-2018.json) |
 | Baseball Mogul 2021 | 144946 | [144946-baseball-mogul-2021.json](./144946-baseball-mogul-2021.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
+| Baseball Stars Professional | 39595 | [39595-baseball-stars-professional.json](./39595-baseball-stars-professional.json) |
 | Baseball Superstars 2024 | 318399 | [318399-baseball-superstars-2024.json](./318399-baseball-superstars-2024.json) |
 | Baseball with Heads | 246974 | [246974-baseball-with-heads.json](./246974-baseball-with-heads.json) |
 | Baseball-e | 170006 | [170006-baseball-e.json](./170006-baseball-e.json) |
@@ -806,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Islands | 17502 | [17502-battle-islands.json](./17502-battle-islands.json) |
 | Battle Islands: Commanders | 33479 | [33479-battle-islands-commanders.json](./33479-battle-islands-commanders.json) |
 | Battle Isle: Platinum | 73251 | [73251-battle-isle-platinum.json](./73251-battle-isle-platinum.json) |
+| Battle K-Road | 39561 | [39561-battle-k-road.json](./39561-battle-k-road.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
 | Battle Mages | 17427 | [17427-battle-mages.json](./17427-battle-mages.json) |
@@ -976,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
 | Baumaschinen: Die Simulation | 136378 | [136378-baumaschinen-die-simulation.json](./136378-baumaschinen-die-simulation.json) |
 | Baxter's Venture | 62677 | [62677-baxters-venture.json](./62677-baxters-venture.json) |
+| Bay Route | 39616 | [39616-bay-route.json](./39616-bay-route.json) |
 | Bayala: The Game | 124134 | [124134-bayala-the-game.json](./124134-bayala-the-game.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
@@ -1352,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Hero | 377573 | [377573-best-hero.json](./377573-best-hero.json) |
 | Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
 | Best of Arcade Games DS | 197897 | [197897-best-of-arcade-games-ds.json](./197897-best-of-arcade-games-ds.json) |
+| Best of Best | 39583 | [39583-best-of-best.json](./39583-best-of-best.json) |
 | Best of Klei 2025 | 52630 | [52630-best-of-klei-2025.json](./52630-best-of-klei-2025.json) |
 | Best of Mahjong | 85509 | [85509-best-of-mahjong.json](./85509-best-of-mahjong.json) |
 | Best of Sierra Nr. 7 | 133972 | [133972-best-of-sierra-nr-7.json](./133972-best-of-sierra-nr-7.json) |
@@ -1509,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Hunt | 329021 | [329021-big-hunt.json](./329021-big-hunt.json) |
 | Big Ichigeki! Pachislot Daikouryaku: Universal Museum | 137596 | [137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json](./137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json) |
+| Big Karnak | 39614 | [39614-big-karnak.json](./39614-big-karnak.json) |
 | Big Klondike: Classic Solitaire | 168335 | [168335-big-klondike-classic-solitaire.json](./168335-big-klondike-classic-solitaire.json) |
 | Big Klondike: FreeCell Solitaire | 289855 | [289855-big-klondike-freecell-solitaire.json](./289855-big-klondike-freecell-solitaire.json) |
 | Big League Slugger Baseball | 43878 | [43878-big-league-slugger-baseball.json](./43878-big-league-slugger-baseball.json) |
@@ -1657,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biolum | 149552 | [149552-biolum.json](./149552-biolum.json) |
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
 | BioMech Vendetta | 380402 | [380402-biomech-vendetta.json](./380402-biomech-vendetta.json) |
+| Biomechanical Toy | 39613 | [39613-biomechanical-toy.json](./39613-biomechanical-toy.json) |
 | Biomeinoes | 275877 | [275877-biomeinoes.json](./275877-biomeinoes.json) |
 | BioMenace Remastered | 373528 | [373528-biomenace-remastered.json](./373528-biomenace-remastered.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
@@ -2011,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Snake | 257372 | [257372-blazing-snake.json](./257372-blazing-snake.json) |
 | Blazing Snow | 142418 | [142418-blazing-snow.json](./142418-blazing-snow.json) |
 | Blazing Strike | 193531 | [193531-blazing-strike.json](./193531-blazing-strike.json) |
+| Blazing Tornado | 39582 | [39582-blazing-tornado.json](./39582-blazing-tornado.json) |
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
@@ -2201,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl 2: Undead | 52650 | [52650-blood-bowl-2-undead.json](./52650-blood-bowl-2-undead.json) |
 | Blood Bowl 2: Wood Elves | 52648 | [52648-blood-bowl-2-wood-elves.json](./52648-blood-bowl-2-wood-elves.json) |
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
+| Blood Bros. | 39612 | [39612-blood-bros.json](./39612-blood-bros.json) |
 | Blood Brothers | 127892 | [127892-blood-brothers.json](./127892-blood-brothers.json) |
 | Blood Card | 109850 | [109850-blood-card.json](./109850-blood-card.json) |
 | Blood Code: Complete Edition | 52647 | [52647-blood-code-complete-edition.json](./52647-blood-code-complete-edition.json) |
@@ -2241,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Ties: A Hidden Object Game with a Bite | 206143 | [206143-blood-ties-a-hidden-object-game-with-a-bite.json](./206143-blood-ties-a-hidden-object-game-with-a-bite.json) |
 | Blood to Bone | 281382 | [281382-blood-to-bone.json](./281382-blood-to-bone.json) |
 | Blood Void Mass | 146237 | [146237-blood-void-mass.json](./146237-blood-void-mass.json) |
+| Blood Warrior | 39559 | [39559-blood-warrior.json](./39559-blood-warrior.json) |
 | Blood-over- | 93069 | [93069-blood-over.json](./93069-blood-over.json) |
 | Blood, Fuel, Ammo & Speed | 265406 | [265406-blood-fuel-ammo-and-speed.json](./265406-blood-fuel-ammo-and-speed.json) |
 | Blood: One Unit Whole Blood | 36299 | [36299-blood-one-unit-whole-blood.json](./36299-blood-one-unit-whole-blood.json) |
@@ -3567,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Out | 113043 | [113043-burning-out.json](./113043-burning-out.json) |
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
+| Burning Rival | 39556 | [39556-burning-rival.json](./39556-burning-rival.json) |
 | Burning Secrets: A Bara Visual Novel | 275891 | [275891-burning-secrets-a-bara-visual-novel.json](./275891-burning-secrets-a-bara-visual-novel.json) |
 | Burnit Quest | 195178 | [195178-burnit-quest.json](./195178-burnit-quest.json) |
 | Burnogue | 377090 | [377090-burnogue.json](./377090-burnogue.json) |
