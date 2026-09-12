@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagabond Inn | 284346 | [284346-vagabond-inn.json](./284346-vagabond-inn.json) |
 | Vagabond's Quest | 312379 | [312379-vagabonds-quest.json](./312379-vagabonds-quest.json) |
 | Vagabond's Quest 2 | 312380 | [312380-vagabonds-quest-2.json](./312380-vagabonds-quest-2.json) |
+| Vagan Attack | 71499 | [71499-vagan-attack.json](./71499-vagan-attack.json) |
 | Vagnerun | 324339 | [324339-vagnerun.json](./324339-vagnerun.json) |
 | Vagrant Hearts Zero | 28938 | [28938-vagrant-hearts-zero.json](./28938-vagrant-hearts-zero.json) |
 | Vagrus: The Riven Realms - At the Heart of Ruin | 375174 | [375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json](./375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json) |
@@ -376,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vex 6 | 188039 | [188039-vex-6.json](./188039-vex-6.json) |
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
+| VFR Real Scenery: Birmingham, Coventry & Wolverhampton | 71464 | [71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json](./71464-vfr-real-scenery-birmingham-coventry-and-wolverhampton.json) |
 | VFR Real Scenery: London | 70963 | [70963-vfr-real-scenery-london.json](./70963-vfr-real-scenery-london.json) |
 | VFR Real Scenery: South East England | 68680 | [68680-vfr-real-scenery-south-east-england.json](./68680-vfr-real-scenery-south-east-england.json) |
 | VG Trivia Challenge | 334650 | [334650-vg-trivia-challenge.json](./334650-vg-trivia-challenge.json) |
