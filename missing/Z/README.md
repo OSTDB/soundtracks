@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggurat | 11646 | [11646-ziggurat.json](./11646-ziggurat.json) |
 | Ziggurat | 23876 | [23876-ziggurat.json](./23876-ziggurat.json) |
 | Ziggy Kids Racing | 246971 | [246971-ziggy-kids-racing.json](./246971-ziggy-kids-racing.json) |
+| Ziggy Putts | 58188 | [58188-ziggy-putts.json](./58188-ziggy-putts.json) |
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
 | Zillions of Games | 311470 | [311470-zillions-of-games.json](./311470-zillions-of-games.json) |
 | Zim's Word Game | 216476 | [216476-zims-word-game.json](./216476-zims-word-game.json) |
@@ -278,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Exodus: Safe Haven - Part Four | 388743 | [388743-zombie-exodus-safe-haven-part-four.json](./388743-zombie-exodus-safe-haven-part-four.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
+| Zombie Flick | 58184 | [58184-zombie-flick.json](./58184-zombie-flick.json) |
 | Zombie Football Simulator | 283720 | [283720-zombie-football-simulator.json](./283720-zombie-football-simulator.json) |
 | Zombie Forest 3: Underground | 251231 | [251231-zombie-forest-3-underground.json](./251231-zombie-forest-3-underground.json) |
 | Zombie Freaks | 163963 | [163963-zombie-freaks.json](./163963-zombie-freaks.json) |
@@ -461,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZunZun Block | 172657 | [172657-zunzun-block.json](./172657-zunzun-block.json) |
 | Zupay: Shadows of Independence | 374072 | [374072-zupay-shadows-of-independence.json](./374072-zupay-shadows-of-independence.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
+| Zusar Vasar | 58167 | [58167-zusar-vasar.json](./58167-zusar-vasar.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
 | Zwaard | 235973 | [235973-zwaard.json](./235973-zwaard.json) |
 | ZX Asteroids | 319602 | [319602-zx-asteroids.json](./319602-zx-asteroids.json) |
