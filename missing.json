@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T05:51:29.848Z",
-  "total_missing": 60805,
+  "generated_at": "2026-09-12T06:01:38.767Z",
+  "total_missing": 60814,
   "games": [
     {
       "igdb_id": 306086,
@@ -2701,11 +2701,6 @@
       "igdb_id": 276712,
       "game_name": "A-Red Walking Robot",
       "file": "missing/A/276712-a-red-walking-robot.json"
-    },
-    {
-      "igdb_id": 272827,
-      "game_name": "A-Ressha de Ikou",
-      "file": "missing/A/272827-a-ressha-de-ikou.json"
     },
     {
       "igdb_id": 357776,
@@ -47003,6 +46998,11 @@
       "file": "missing/C/328997-clue-cluedo-halloween-records.json"
     },
     {
+      "igdb_id": 66092,
+      "game_name": "Cluefinders: Math Adventures - Mystery of the Himalayas",
+      "file": "missing/C/66092-cluefinders-math-adventures-mystery-of-the-himalayas.json"
+    },
+    {
       "igdb_id": 69852,
       "game_name": "Clueless: The CD-ROM",
       "file": "missing/C/69852-clueless-the-cd-rom.json"
@@ -66798,6 +66798,11 @@
       "file": "missing/D/240494-doctor-who-thirteen.json"
     },
     {
+      "igdb_id": 66095,
+      "game_name": "Doctor Who: Worlds in Time",
+      "file": "missing/D/66095-doctor-who-worlds-in-time.json"
+    },
+    {
       "igdb_id": 177542,
       "game_name": "Dodge",
       "file": "missing/D/177542-dodge.json"
@@ -74408,6 +74413,11 @@
       "file": "missing/E/78686-earl-bobby-is-looking-for-his-balls.json"
     },
     {
+      "igdb_id": 66097,
+      "game_name": "Earl Weaver Baseball II",
+      "file": "missing/E/66097-earl-weaver-baseball-ii.json"
+    },
+    {
       "igdb_id": 363411,
       "game_name": "Early Kingdom",
       "file": "missing/E/363411-early-kingdom.json"
@@ -80666,6 +80676,11 @@
       "igdb_id": 231056,
       "game_name": "Everybody's Home Run Derby",
       "file": "missing/E/231056-everybodys-home-run-derby.json"
+    },
+    {
+      "igdb_id": 66090,
+      "game_name": "Everybody's Putter Golf With Toro",
+      "file": "missing/E/66090-everybodys-putter-golf-with-toro.json"
     },
     {
       "igdb_id": 113672,
@@ -134213,6 +134228,11 @@
       "file": "missing/K/214193-knights-vs-nature.json"
     },
     {
+      "igdb_id": 66098,
+      "game_name": "Knights: Spiral Islands",
+      "file": "missing/K/66098-knights-spiral-islands.json"
+    },
+    {
       "igdb_id": 119027,
       "game_name": "Knighty Night",
       "file": "missing/K/119027-knighty-night.json"
@@ -147236,6 +147256,11 @@
       "igdb_id": 268203,
       "game_name": "Mahjong Party Pack",
       "file": "missing/M/268203-mahjong-party-pack.json"
+    },
+    {
+      "igdb_id": 66091,
+      "game_name": "Mahjong Taikai IV",
+      "file": "missing/M/66091-mahjong-taikai-iv.json"
     },
     {
       "igdb_id": 115717,
@@ -163731,6 +163756,11 @@
       "igdb_id": 8458,
       "game_name": "MTV's Beavis and Butt-Head: Do U.",
       "file": "missing/M/8458-mtvs-beavis-and-butt-head-do-u.json"
+    },
+    {
+      "igdb_id": 66094,
+      "game_name": "MTV's Beavis and Butt-Head: Wiener Takes All",
+      "file": "missing/M/66094-mtvs-beavis-and-butt-head-wiener-takes-all.json"
     },
     {
       "igdb_id": 5935,
@@ -223248,6 +223278,11 @@
       "file": "missing/S/203337-simple-2000-series-vol-116-the-neko-mura-no-hitobito-pagu-daikan-no-akugyou-san-mai.json"
     },
     {
+      "igdb_id": 66093,
+      "game_name": "Simple 500 Series Vol. 1: The Mahjong",
+      "file": "missing/S/66093-simple-500-series-vol-1-the-mahjong.json"
+    },
+    {
       "igdb_id": 79351,
       "game_name": "Simple 500 Series Vol. 2: The Misshitsu kara no Dasshutsu",
       "file": "missing/S/79351-simple-500-series-vol-2-the-misshitsu-kara-no-dasshutsu.json"
@@ -271643,6 +271678,11 @@
       "file": "missing/T/389440-time-crisis.json"
     },
     {
+      "igdb_id": 66089,
+      "game_name": "Time Cruise",
+      "file": "missing/T/66089-time-cruise.json"
+    },
+    {
       "igdb_id": 276728,
       "game_name": "Time Flies Like An Arrow",
       "file": "missing/T/276728-time-flies-like-an-arrow.json"
@@ -278006,6 +278046,11 @@
       "igdb_id": 28918,
       "game_name": "Trapped Within",
       "file": "missing/T/28918-trapped-within.json"
+    },
+    {
+      "igdb_id": 66096,
+      "game_name": "Trapped: The Abduction",
+      "file": "missing/T/66096-trapped-the-abduction.json"
     },
     {
       "igdb_id": 122369,
