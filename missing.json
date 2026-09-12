@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T01:21:36.039Z",
-  "total_missing": 60035,
+  "generated_at": "2026-09-12T01:31:36.913Z",
+  "total_missing": 60045,
   "games": [
     {
       "igdb_id": 306086,
@@ -2561,11 +2561,6 @@
       "igdb_id": 318177,
       "game_name": "A Tiny Eternity",
       "file": "missing/A/318177-a-tiny-eternity.json"
-    },
-    {
-      "igdb_id": 352758,
-      "game_name": "A todas mis memorias futuras",
-      "file": "missing/A/352758-a-todas-mis-memorias-futuras.json"
     },
     {
       "igdb_id": 58803,
@@ -9246,6 +9241,11 @@
       "igdb_id": 1176,
       "game_name": "Alundra 2: A New Legend Begins",
       "file": "missing/A/1176-alundra-2-a-new-legend-begins.json"
+    },
+    {
+      "igdb_id": 75119,
+      "game_name": "Alvo",
+      "file": "missing/A/75119-alvo.json"
     },
     {
       "igdb_id": 214532,
@@ -72028,6 +72028,11 @@
       "file": "missing/D/303498-dunes-of-valor.json"
     },
     {
+      "igdb_id": 75116,
+      "game_name": "Dung Beetle",
+      "file": "missing/D/75116-dung-beetle.json"
+    },
+    {
       "igdb_id": 169436,
       "game_name": "Dungen",
       "file": "missing/D/169436-dungen.json"
@@ -105718,6 +105723,11 @@
       "file": "missing/H/234043-halloween-in-hollywood.json"
     },
     {
+      "igdb_id": 75118,
+      "game_name": "Halloween Madness",
+      "file": "missing/H/75118-halloween-madness.json"
+    },
+    {
       "igdb_id": 274764,
       "game_name": "Halloween Online Horror Night",
       "file": "missing/H/274764-halloween-online-horror-night.json"
@@ -132446,6 +132456,11 @@
       "igdb_id": 73828,
       "game_name": "Knights of the Desert: The North African Campaign of 1941-1943",
       "file": "missing/K/73828-knights-of-the-desert-the-north-african-campaign-of-1941-1943.json"
+    },
+    {
+      "igdb_id": 75114,
+      "game_name": "Knights of the Drowned Table",
+      "file": "missing/K/75114-knights-of-the-drowned-table.json"
     },
     {
       "igdb_id": 213965,
@@ -165983,6 +165998,11 @@
       "file": "missing/N/380446-navit.json"
     },
     {
+      "igdb_id": 75117,
+      "game_name": "Navy Seal",
+      "file": "missing/N/75117-navy-seal.json"
+    },
+    {
       "igdb_id": 25150,
       "game_name": "Navy Seals",
       "file": "missing/N/25150-navy-seals.json"
@@ -178598,6 +178618,11 @@
       "file": "missing/O/146257-overpowered.json"
     },
     {
+      "igdb_id": 75133,
+      "game_name": "OverRapid",
+      "file": "missing/O/75133-overrapid.json"
+    },
+    {
       "igdb_id": 184083,
       "game_name": "Overrun",
       "file": "missing/O/184083-overrun.json"
@@ -191048,6 +191073,11 @@
       "file": "missing/P/207813-prague-metro-simulator-passenger-transport.json"
     },
     {
+      "igdb_id": 75113,
+      "game_name": "Prana",
+      "file": "missing/P/75113-prana.json"
+    },
+    {
       "igdb_id": 322570,
       "game_name": "Pranksters: Treasure of the Indians",
       "file": "missing/P/322570-pranksters-treasure-of-the-indians.json"
@@ -193166,6 +193196,11 @@
       "igdb_id": 313104,
       "game_name": "Project R",
       "file": "missing/P/313104-project-r.json"
+    },
+    {
+      "igdb_id": 75120,
+      "game_name": "Project Ragtag",
+      "file": "missing/P/75120-project-ragtag.json"
     },
     {
       "igdb_id": 63335,
@@ -203851,6 +203886,11 @@
       "igdb_id": 125453,
       "game_name": "Richman 9",
       "file": "missing/R/125453-richman-9.json"
+    },
+    {
+      "igdb_id": 75132,
+      "game_name": "Richman Fight",
+      "file": "missing/R/75132-richman-fight.json"
     },
     {
       "igdb_id": 125441,
@@ -258183,6 +258223,11 @@
       "file": "missing/T/275342-the-lost-detective.json"
     },
     {
+      "igdb_id": 75121,
+      "game_name": "The Lost Dimension",
+      "file": "missing/T/75121-the-lost-dimension.json"
+    },
+    {
       "igdb_id": 165631,
       "game_name": "The Lost Dog",
       "file": "missing/T/165631-the-lost-dog.json"
@@ -298431,6 +298476,11 @@
       "igdb_id": 75155,
       "game_name": "Zenonia 5",
       "file": "missing/Z/75155-zenonia-5.json"
+    },
+    {
+      "igdb_id": 75122,
+      "game_name": "Zenses: Zen Garden",
+      "file": "missing/Z/75122-zenses-zen-garden.json"
     },
     {
       "igdb_id": 189100,
