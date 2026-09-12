@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oct 14 | 341498 | [341498-oct-14.json](./341498-oct-14.json) |
 | Octagon - A Minimal Game with Maximum Challenge | 88290 | [88290-octagon-a-minimal-game-with-maximum-challenge.json](./88290-octagon-a-minimal-game-with-maximum-challenge.json) |
 | Octagon 2: Extreme Evolution | 175418 | [175418-octagon-2-extreme-evolution.json](./175418-octagon-2-extreme-evolution.json) |
+| Octapolis | 55030 | [55030-octapolis.json](./55030-octapolis.json) |
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | Octofight Escape | 180250 | [180250-octofight-escape.json](./180250-octofight-escape.json) |
@@ -364,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega no Shikai: Miyo Owareru Shimai Towa(●nd) | 260969 | [260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json](./260969-omega-no-shikai-miyo-owareru-shimai-towa-nd.json) |
 | Omega No Sunshine 2 | 306708 | [306708-omega-no-sunshine-2.json](./306708-omega-no-sunshine-2.json) |
 | Omega One | 29866 | [29866-omega-one.json](./29866-omega-one.json) |
+| Omega One | 55016 | [55016-omega-one.json](./55016-omega-one.json) |
 | Omega Orb | 13744 | [13744-omega-orb.json](./13744-omega-orb.json) |
 | Omega Pattern | 28908 | [28908-omega-pattern.json](./28908-omega-pattern.json) |
 | Omega Protocol | 374633 | [374633-omega-protocol.json](./374633-omega-protocol.json) |
