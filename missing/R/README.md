@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
+| Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
 | Rance 5D: The Lonely Girl + Rance VI: Collapse of Zeth | 129133 | [129133-rance-5d-the-lonely-girl-rance-vi-collapse-of-zeth.json](./129133-rance-5d-the-lonely-girl-rance-vi-collapse-of-zeth.json) |
 | Rance II: Hangyaku no Shoujo-tachi | 57642 | [57642-rance-ii-hangyaku-no-shoujo-tachi.json](./57642-rance-ii-hangyaku-no-shoujo-tachi.json) |
 | Rance III: Leazas Kanraku | 41406 | [41406-rance-iii-leazas-kanraku.json](./41406-rance-iii-leazas-kanraku.json) |
