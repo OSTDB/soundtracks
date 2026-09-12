@@ -1103,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pia Carrot e Youkoso!! 2.2 | 62747 | [62747-pia-carrot-e-youkoso-2-2.json](./62747-pia-carrot-e-youkoso-2-2.json) |
 | Pia Carrot e Youkoso!! 3 | 62746 | [62746-pia-carrot-e-youkoso-3.json](./62746-pia-carrot-e-youkoso-3.json) |
 | Pia Carrot e Youkoso!! 3.3 | 62745 | [62745-pia-carrot-e-youkoso-3-3.json](./62745-pia-carrot-e-youkoso-3-3.json) |
+| Pia Carrot e Youkoso!! G.O. | 72645 | [72645-pia-carrot-e-youkoso-g-o.json](./72645-pia-carrot-e-youkoso-g-o.json) |
 | Pia Carrot he Youkoso!! | 45955 | [45955-pia-carrot-he-youkoso.json](./45955-pia-carrot-he-youkoso.json) |
 | Pia Carrot he Youkoso!! 2 | 62748 | [62748-pia-carrot-he-youkoso-2.json](./62748-pia-carrot-he-youkoso-2.json) |
 | Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
@@ -1180,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
 | Piece O'Cake | 40785 | [40785-piece-ocake.json](./40785-piece-ocake.json) |
 | Piece of Mind | 143649 | [143649-piece-of-mind.json](./143649-piece-of-mind.json) |
+| Piece of Wonder | 72669 | [72669-piece-of-wonder.json](./72669-piece-of-wonder.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
 | Pieces of Beauty 2 | 190173 | [190173-pieces-of-beauty-2.json](./190173-pieces-of-beauty-2.json) |
 | Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
@@ -2659,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoners | 285470 | [285470-prisoners.json](./285470-prisoners.json) |
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
 | Prisseceal, the Dazzling-and-Flaring Peach Princess | 236277 | [236277-prisseceal-the-dazzling-and-flaring-peach-princess.json](./236277-prisseceal-the-dazzling-and-flaring-peach-princess.json) |
+| Pristontale II: The 2nd Enigma | 72657 | [72657-pristontale-ii-the-2nd-enigma.json](./72657-pristontale-ii-the-2nd-enigma.json) |
 | Priton | 91948 | [91948-priton.json](./91948-priton.json) |
 | Private Dance VR | 286534 | [286534-private-dance-vr.json](./286534-private-dance-vr.json) |
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
