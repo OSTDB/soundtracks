@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
+| Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
 | Dark and Light Mobile | 227497 | [227497-dark-and-light-mobile.json](./227497-dark-and-light-mobile.json) |
 | Dark and Light: Tales of Gaia | 51999 | [51999-dark-and-light-tales-of-gaia.json](./51999-dark-and-light-tales-of-gaia.json) |
 | Dark Angael | 206964 | [206964-dark-angael.json](./206964-dark-angael.json) |
@@ -1266,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent | 110983 | [110983-descent.json](./110983-descent.json) |
 | Descent | 282010 | [282010-descent.json](./282010-descent.json) |
 | Descent 3 | 667 | [667-descent-3.json](./667-descent-3.json) |
+| Descent 3: White Label Edition | 70336 | [70336-descent-3-white-label-edition.json](./70336-descent-3-white-label-edition.json) |
 | Descent Down Infinity | 411612 | [411612-descent-down-infinity.json](./411612-descent-down-infinity.json) |
 | Descent from Arkov's Tower | 277273 | [277273-descent-from-arkovs-tower.json](./277273-descent-from-arkovs-tower.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
@@ -1459,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Affliction | 26681 | [26681-devils-affliction.json](./26681-devils-affliction.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
+| Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
@@ -1614,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
 | Digging Down | 384532 | [384532-digging-down.json](./384532-digging-down.json) |
 | Digging for Dinosaurs | 48045 | [48045-digging-for-dinosaurs.json](./48045-digging-for-dinosaurs.json) |
+| Digi Pool | 70341 | [70341-digi-pool.json](./70341-digi-pool.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
