@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harp | 145597 | [145597-harp.json](./145597-harp.json) |
 | Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
+| Harpoon II: Admiral's Edition | 73780 | [73780-harpoon-ii-admirals-edition.json](./73780-harpoon-ii-admirals-edition.json) |
 | Harpoon Lagoon | 309332 | [309332-harpoon-lagoon.json](./309332-harpoon-lagoon.json) |
 | Harpoon Reef Hunter | 253570 | [253570-harpoon-reef-hunter.json](./253570-harpoon-reef-hunter.json) |
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
@@ -670,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Scholomance Academy | 138798 | [138798-hearthstone-scholomance-academy.json](./138798-hearthstone-scholomance-academy.json) |
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
+| Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
 | Heartless | 219824 | [219824-heartless.json](./219824-heartless.json) |
 | Heartless | 339834 | [339834-heartless.json](./339834-heartless.json) |
 | Heartless Angel | 181935 | [181935-heartless-angel.json](./181935-heartless-angel.json) |
@@ -1267,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
 | Hidden | 249789 | [249789-hidden.json](./249789-hidden.json) |
 | Hidden & Dangerous 2 | 107 | [107-hidden-and-dangerous-2.json](./107-hidden-and-dangerous-2.json) |
+| Hidden & Dangerous Deluxe | 73774 | [73774-hidden-and-dangerous-deluxe.json](./73774-hidden-and-dangerous-deluxe.json) |
 | Hidden & Dangerous: Action Pack | 77208 | [77208-hidden-and-dangerous-action-pack.json](./77208-hidden-and-dangerous-action-pack.json) |
 | Hidden & Dangerous: Devil's Bridge | 108 | [108-hidden-and-dangerous-devils-bridge.json](./108-hidden-and-dangerous-devils-bridge.json) |
 | Hidden Animals Find : Detective Neko | 289343 | [289343-hidden-animals-find-detective-neko.json](./289343-hidden-animals-find-detective-neko.json) |
@@ -2230,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
 | Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
+| Hungry Red Planet | 73765 | [73765-hungry-red-planet.json](./73765-hungry-red-planet.json) |
 | Hungry Shark Arena | 300683 | [300683-hungry-shark-arena.json](./300683-hungry-shark-arena.json) |
 | Hungry Shark Arena: Horror Night | 221713 | [221713-hungry-shark-arena-horror-night.json](./221713-hungry-shark-arena-horror-night.json) |
 | Hungry Shark Heroes | 300682 | [300682-hungry-shark-heroes.json](./300682-hungry-shark-heroes.json) |
