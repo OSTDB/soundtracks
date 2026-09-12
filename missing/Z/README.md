@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zefira | 119000 | [119000-zefira.json](./119000-zefira.json) |
 | Zegapain NOT | 68015 | [68015-zegapain-not.json](./68015-zegapain-not.json) |
 | Zegapain XOR | 68017 | [68017-zegapain-xor.json](./68017-zegapain-xor.json) |
+| Zekkyo Senshi Sakebrain | 72648 | [72648-zekkyo-senshi-sakebrain.json](./72648-zekkyo-senshi-sakebrain.json) |
 | Zelda | 152362 | [152362-zelda.json](./152362-zelda.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda II: Boss Endurance | 280757 | [280757-zelda-ii-boss-endurance.json](./280757-zelda-ii-boss-endurance.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 1.7 - Bury Your Tears With the Past | 339793 | [339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json](./339793-zenless-zone-zero-update-1-7-bury-your-tears-with-the-past.json) |
 | Zenomatrix | 332450 | [332450-zenomatrix.json](./332450-zenomatrix.json) |
 | Zenonia 5 | 75155 | [75155-zenonia-5.json](./75155-zenonia-5.json) |
+| Zenses: Zen Garden | 75122 | [75122-zenses-zen-garden.json](./75122-zenses-zen-garden.json) |
 | Zenteni | 189100 | [189100-zenteni.json](./189100-zenteni.json) |
 | Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
 | Zentris | 229052 | [229052-zentris.json](./229052-zentris.json) |
@@ -135,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero King | 293912 | [293912-zero-king.json](./293912-zero-king.json) |
 | Zero Lilium Bloom | 245871 | [245871-zero-lilium-bloom.json](./245871-zero-lilium-bloom.json) |
 | Zero no Tsukaima: Ko-akuma to Harukaze no Concerto | 72685 | [72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json](./72685-zero-no-tsukaima-ko-akuma-to-harukaze-no-concerto.json) |
+| Zero no Tsukaima: Muma ga Tsumugu Yokaze no Gensoukyoku | 72642 | [72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json](./72642-zero-no-tsukaima-muma-ga-tsumugu-yokaze-no-gensoukyoku.json) |
 | Zero Ops | 213626 | [213626-zero-ops.json](./213626-zero-ops.json) |
 | Zero Orders Tactics | 216811 | [216811-zero-orders-tactics.json](./216811-zero-orders-tactics.json) |
 | Zero Page | 216812 | [216812-zero-page.json](./216812-zero-page.json) |
