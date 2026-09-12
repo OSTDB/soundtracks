@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
+| Game Stock Car 2013 | 62132 | [62132-game-stock-car-2013.json](./62132-game-stock-car-2013.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
 | Game Tycoon | 127332 | [127332-game-tycoon.json](./127332-game-tycoon.json) |
@@ -457,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geheimprojekt DMSO | 84227 | [84227-geheimprojekt-dmso.json](./84227-geheimprojekt-dmso.json) |
 | Gehena | 192459 | [192459-gehena.json](./192459-gehena.json) |
 | Gehirn Sport Sammlung | 81388 | [81388-gehirn-sport-sammlung.json](./81388-gehirn-sport-sammlung.json) |
+| Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
 | Gekko and Luna Girl's Moths | 359430 | [359430-gekko-and-luna-girls-moths.json](./359430-gekko-and-luna-girls-moths.json) |
@@ -784,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giants War | 103492 | [103492-giants-war.json](./103492-giants-war.json) |
 | Gibbets 2 | 343809 | [343809-gibbets-2.json](./343809-gibbets-2.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
+| Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
 | Gift | 95440 | [95440-gift.json](./95440-gift.json) |
 | Gift for You | 290702 | [290702-gift-for-you.json](./290702-gift-for-you.json) |
@@ -1672,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Steel | 161361 | [161361-green-steel.json](./161361-green-steel.json) |
 | Green Suits | 408735 | [408735-green-suits.json](./408735-green-suits.json) |
 | Green the Planet | 344937 | [344937-green-the-planet.json](./344937-green-the-planet.json) |
+| Green Thumb Cards | 62157 | [62157-green-thumb-cards.json](./62157-green-thumb-cards.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
 | GreenChess | 87293 | [87293-greenchess.json](./87293-greenchess.json) |
