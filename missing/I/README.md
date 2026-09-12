@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
+| Imperian | 78655 | [78655-imperian.json](./78655-imperian.json) |
 | Imperium Revolution | 188564 | [188564-imperium-revolution.json](./188564-imperium-revolution.json) |
 | Impetus: Clamor in Portis | 135276 | [135276-impetus-clamor-in-portis.json](./135276-impetus-clamor-in-portis.json) |
 | Impious | 309678 | [309678-impious.json](./309678-impious.json) |
