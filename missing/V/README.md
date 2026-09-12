@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaster Claws 3: Dragon Slayer of the God World | 132243 | [132243-vaster-claws-3-dragon-slayer-of-the-god-world.json](./132243-vaster-claws-3-dragon-slayer-of-the-god-world.json) |
 | Vaster Claws 3: Dragon Slayer of the God World - Special Pack | 156116 | [156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json](./156116-vaster-claws-3-dragon-slayer-of-the-god-world-special-pack.json) |
 | VATSim | 56506 | [56506-vatsim.json](./56506-vatsim.json) |
+| Vault Assault | 40731 | [40731-vault-assault.json](./40731-vault-assault.json) |
 | Vault Cracker: The Last Safe | 61575 | [61575-vault-cracker-the-last-safe.json](./61575-vault-cracker-the-last-safe.json) |
 | Vault of Fallen | 355573 | [355573-vault-of-fallen.json](./355573-vault-of-fallen.json) |
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
@@ -314,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vending Machine Simulator 2025 | 366225 | [366225-vending-machine-simulator-2025.json](./366225-vending-machine-simulator-2025.json) |
 | Vending Mayhem | 276737 | [276737-vending-mayhem.json](./276737-vending-mayhem.json) |
 | Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
+| Venetian Blinds | 40748 | [40748-venetian-blinds.json](./40748-venetian-blinds.json) |
 | Vengeance | 368470 | [368470-vengeance.json](./368470-vengeance.json) |
 | Vengeance | 55019 | [55019-vengeance.json](./55019-vengeance.json) |
 | Vengeance of Mr. Peppermint | 250012 | [250012-vengeance-of-mr-peppermint.json](./250012-vengeance-of-mr-peppermint.json) |
@@ -882,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VTuber Battle: It’s Not About Subscribers! It’s All About Power! | 331888 | [331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json](./331888-vtuber-battle-it-s-not-about-subscribers-it-s-all-about-power.json) |
 | Vulcan 3055 | 110331 | [110331-vulcan-3055.json](./110331-vulcan-3055.json) |
 | Vulcan Sacrifice | 53880 | [53880-vulcan-sacrifice.json](./53880-vulcan-sacrifice.json) |
+| Vulture Attack | 40721 | [40721-vulture-attack.json](./40721-vulture-attack.json) |
 | Vulture: Unlimited Frontier - 0 | 255130 | [255130-vulture-unlimited-frontier-0.json](./255130-vulture-unlimited-frontier-0.json) |
 | VVVVVV | 1990 | [1990-vvvvvv.json](./1990-vvvvvv.json) |
 | Vy Worlds | 192896 | [192896-vy-worlds.json](./192896-vy-worlds.json) |
