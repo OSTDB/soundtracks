@@ -188,7 +188,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstract World | 201247 | [201247-abstract-world.json](./201247-abstract-world.json) |
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
 | Absurd | 240208 | [240208-absurd.json](./240208-absurd.json) |
-| Absurdika | 248332 | [248332-absurdika.json](./248332-absurdika.json) |
 | Absurdistan | 166671 | [166671-absurdistan.json](./166671-absurdistan.json) |
 | Abulia | 372445 | [372445-abulia.json](./372445-abulia.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
