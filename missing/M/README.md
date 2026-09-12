@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic City Detective: Wings of Revenge - Collector's Edition | 188023 | [188023-magic-city-detective-wings-of-revenge-collectors-edition.json](./188023-magic-city-detective-wings-of-revenge-collectors-edition.json) |
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
+| Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
@@ -642,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maplewood Junior High: Multimedia Rocks | 310953 | [310953-maplewood-junior-high-multimedia-rocks.json](./310953-maplewood-junior-high-multimedia-rocks.json) |
 | Maplus: Portable Navi | 59369 | [59369-maplus-portable-navi.json](./59369-maplus-portable-navi.json) |
 | Mappy | 313132 | [313132-mappy.json](./313132-mappy.json) |
+| Mappy Kids | 48625 | [48625-mappy-kids.json](./48625-mappy-kids.json) |
 | Maps 4Matt | 312897 | [312897-maps-4matt.json](./312897-maps-4matt.json) |
 | Maps 4TMD | 312911 | [312911-maps-4tmd.json](./312911-maps-4tmd.json) |
 | Maqiupai | 92993 | [92993-maqiupai.json](./92993-maqiupai.json) |
@@ -2543,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
 | Minna no Konbini | 67260 | [67260-minna-no-konbini.json](./67260-minna-no-konbini.json) |
 | Minna no Othello | 217925 | [217925-minna-no-othello.json](./217925-minna-no-othello.json) |
+| Minna no Tabou no Nakayoshi Daisakusen | 48628 | [48628-minna-no-tabou-no-nakayoshi-daisakusen.json](./48628-minna-no-tabou-no-nakayoshi-daisakusen.json) |
 | Minna to Capcom All-Stars | 80494 | [80494-minna-to-capcom-all-stars.json](./80494-minna-to-capcom-all-stars.json) |
 | Minnano Gensokyo Single | 369561 | [369561-minnano-gensokyo-single.json](./369561-minnano-gensokyo-single.json) |
 | Minnie | 228443 | [228443-minnie.json](./228443-minnie.json) |
