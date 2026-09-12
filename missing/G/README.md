@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of War Trilogy Remake | 389441 | [389441-god-of-war-trilogy-remake.json](./389441-god-of-war-trilogy-remake.json) |
 | God of War: Ascension - Special Edition | 44664 | [44664-god-of-war-ascension-special-edition.json](./44664-god-of-war-ascension-special-edition.json) |
 | God of War: Limited Edition | 115067 | [115067-god-of-war-limited-edition.json](./115067-god-of-war-limited-edition.json) |
+| God Panic: Shijou Saikyou Gundan | 55887 | [55887-god-panic-shijou-saikyou-gundan.json](./55887-god-panic-shijou-saikyou-gundan.json) |
 | God Pill | 217515 | [217515-god-pill.json](./217515-god-pill.json) |
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
@@ -1232,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
 | Golden Royal Hold'em | 67974 | [67974-golden-royal-holdem.json](./67974-golden-royal-holdem.json) |
+| Golden Tee 2017 | 55848 | [55848-golden-tee-2017.json](./55848-golden-tee-2017.json) |
 | Golden Tee 2018 | 82145 | [82145-golden-tee-2018.json](./82145-golden-tee-2018.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
 | Golden Trails 2 | 88205 | [88205-golden-trails-2.json](./88205-golden-trails-2.json) |
@@ -1430,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gourmet Chef | 67336 | [67336-gourmet-chef.json](./67336-gourmet-chef.json) |
 | GoVenture Typing | 117708 | [117708-goventure-typing.json](./117708-goventure-typing.json) |
 | Government X | 244481 | [244481-government-x.json](./244481-government-x.json) |
+| GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
 | Grab | 202813 | [202813-grab.json](./202813-grab.json) |
 | Grab 50 Coins | 400264 | [400264-grab-50-coins.json](./400264-grab-50-coins.json) |
