@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Aliens Invasion: UFO Swarm Simulator | 100193 | [100193-cartoon-aliens-invasion-ufo-swarm-simulator.json](./100193-cartoon-aliens-invasion-ufo-swarm-simulator.json) |
 | Cartoon Bash | 339096 | [339096-cartoon-bash.json](./339096-cartoon-bash.json) |
 | Cartoon Cartoon Food Bash | 296099 | [296099-cartoon-cartoon-food-bash.json](./296099-cartoon-cartoon-food-bash.json) |
+| Cartoon Collection | 53777 | [53777-cartoon-collection.json](./53777-cartoon-collection.json) |
 | Cartoon Network Collection: Limited Edition | 49362 | [49362-cartoon-network-collection-limited-edition.json](./49362-cartoon-network-collection-limited-edition.json) |
 | Cartoon Network Journeys VR | 124165 | [124165-cartoon-network-journeys-vr.json](./124165-cartoon-network-journeys-vr.json) |
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
