@@ -168,7 +168,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
-| Abondoned Village | 277282 | [277282-abondoned-village.json](./277282-abondoned-village.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
