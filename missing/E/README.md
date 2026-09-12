@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eCrew Development Program | 141196 | [141196-ecrew-development-program.json](./141196-ecrew-development-program.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
 | Ecto Portal | 163951 | [163951-ecto-portal.json](./163951-ecto-portal.json) |
+| ECW Anarchy Rulz | 72029 | [72029-ecw-anarchy-rulz.json](./72029-ecw-anarchy-rulz.json) |
 | ECW Hardcore Revolution | 3483 | [3483-ecw-hardcore-revolution.json](./3483-ecw-hardcore-revolution.json) |
 | Ed & Edda: Grand Prix – Racing Champions | 346020 | [346020-ed-and-edda-grand-prix-racing-champions.json](./346020-ed-and-edda-grand-prix-racing-champions.json) |
 | Ed Chess | 93042 | [93042-ed-chess.json](./93042-ed-chess.json) |
@@ -1521,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Terrestrials | 40778 | [40778-extra-terrestrials.json](./40778-extra-terrestrials.json) |
 | Extraordinary Detective Marshall | 299728 | [299728-extraordinary-detective-marshall.json](./299728-extraordinary-detective-marshall.json) |
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
+| Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
 | Extreme Cycling | 330189 | [330189-extreme-cycling.json](./330189-extreme-cycling.json) |
