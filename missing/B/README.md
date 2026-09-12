@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastron | 388732 | [388732-blastron.json](./388732-blastron.json) |
 | BlastZone 2 | 35756 | [35756-blastzone-2.json](./35756-blastzone-2.json) |
 | Blautopf VR: Geheimnis der Lau | 119772 | [119772-blautopf-vr-geheimnis-der-lau.json](./119772-blautopf-vr-geheimnis-der-lau.json) |
+| BlayzBloo: Super Melee Brawlers Battle Royale | 67246 | [67246-blayzbloo-super-melee-brawlers-battle-royale.json](./67246-blayzbloo-super-melee-brawlers-battle-royale.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
@@ -2638,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BounceBash | 248059 | [248059-bouncebash.json](./248059-bouncebash.json) |
 | BounceCrazy | 68645 | [68645-bouncecrazy.json](./68645-bouncecrazy.json) |
 | Bounced | 295027 | [295027-bounced.json](./295027-bounced.json) |
+| Bouncedown | 67235 | [67235-bouncedown.json](./67235-bouncedown.json) |
 | Bouncemasters | 370674 | [370674-bouncemasters.json](./370674-bouncemasters.json) |
 | Bouncemasters: Aiming Assist | 379378 | [379378-bouncemasters-aiming-assist.json](./379378-bouncemasters-aiming-assist.json) |
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
@@ -3231,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
+| Bugs Bunny: Private Eye | 67270 | [67270-bugs-bunny-private-eye.json](./67270-bugs-bunny-private-eye.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
