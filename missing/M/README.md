@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macabre no Zantou: Remnants of the Macabre | 309363 | [309363-macabre-no-zantou-remnants-of-the-macabre.json](./309363-macabre-no-zantou-remnants-of-the-macabre.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Macaroni in a Pot | 299156 | [299156-macaroni-in-a-pot.json](./299156-macaroni-in-a-pot.json) |
+| MacArthur's War: Battles for Korea | 62152 | [62152-macarthurs-war-battles-for-korea.json](./62152-macarthurs-war-battles-for-korea.json) |
 | Mace Knight | 391572 | [391572-mace-knight.json](./391572-mace-knight.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
 | Machi Knights: Blood Bagos | 115662 | [115662-machi-knights-blood-bagos.json](./115662-machi-knights-blood-bagos.json) |
@@ -998,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Chaos | 398362 | [398362-master-of-chaos.json](./398362-master-of-chaos.json) |
 | Master of Dimensions | 7695 | [7695-master-of-dimensions.json](./7695-master-of-dimensions.json) |
 | Master of Earth | 211213 | [211213-master-of-earth.json](./211213-master-of-earth.json) |
+| Master of Epic | 62116 | [62116-master-of-epic.json](./62116-master-of-epic.json) |
 | Master of Ives | 284879 | [284879-master-of-ives.json](./284879-master-of-ives.json) |
 | Master of Magic: Rise of the Soultrapped | 256261 | [256261-master-of-magic-rise-of-the-soultrapped.json](./256261-master-of-magic-rise-of-the-soultrapped.json) |
 | Master of Mutations | 109716 | [109716-master-of-mutations.json](./109716-master-of-mutations.json) |
@@ -1130,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
+| Maverick Bird | 62172 | [62172-maverick-bird.json](./62172-maverick-bird.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
 | Mawaskes | 45999 | [45999-mawaskes.json](./45999-mawaskes.json) |
 | Mawthorne 2 | 382210 | [382210-mawthorne-2.json](./382210-mawthorne-2.json) |
@@ -3758,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
+| Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder Is Game Over: Deal Killer | 255750 | [255750-murder-is-game-over-deal-killer.json](./255750-murder-is-game-over-deal-killer.json) |
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
