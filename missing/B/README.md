@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallzOut | 147941 | [147941-ballzout.json](./147941-ballzout.json) |
 | Baloo and the Big Blue | 296066 | [296066-baloo-and-the-big-blue.json](./296066-baloo-and-the-big-blue.json) |
 | Balrog | 166781 | [166781-balrog.json](./166781-balrog.json) |
+| Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
 | Bam 'N Jam | 61547 | [61547-bam-n-jam.json](./61547-bam-n-jam.json) |
 | Bam Boom Blade | 289344 | [289344-bam-boom-blade.json](./289344-bam-boom-blade.json) |
@@ -600,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
 | Baseball Bout: Otterrific Arcade | 214517 | [214517-baseball-bout-otterrific-arcade.json](./214517-baseball-bout-otterrific-arcade.json) |
 | Baseball Boy! | 87059 | [87059-baseball-boy.json](./87059-baseball-boy.json) |
+| Baseball Fighter | 48615 | [48615-baseball-fighter.json](./48615-baseball-fighter.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
 | Baseball Mogul 2000 | 72675 | [72675-baseball-mogul-2000.json](./72675-baseball-mogul-2000.json) |
 | Baseball Mogul 2004 | 72677 | [72677-baseball-mogul-2004.json](./72677-baseball-mogul-2004.json) |
@@ -716,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Enemy Within - Episode 5: Same Stitch | 96066 | [96066-batman-the-enemy-within-episode-5-same-stitch.json](./96066-batman-the-enemy-within-episode-5-same-stitch.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
+| Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
 | Batta Batta: Kejserens Gave | 129773 | [129773-batta-batta-kejserens-gave.json](./129773-batta-batta-kejserens-gave.json) |
 | Batta Batta: Skurkestreger | 129777 | [129777-batta-batta-skurkestreger.json](./129777-batta-batta-skurkestreger.json) |
@@ -771,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
 | Battle Fighter | 55861 | [55861-battle-fighter.json](./55861-battle-fighter.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
+| Battle Fleet | 48586 | [48586-battle-fleet.json](./48586-battle-fleet.json) |
 | Battle Fleet | 91333 | [91333-battle-fleet.json](./91333-battle-fleet.json) |
 | Battle Flip Shot | 39667 | [39667-battle-flip-shot.json](./39667-battle-flip-shot.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
@@ -864,9 +868,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Spirits: Connected Battlers | 146910 | [146910-battle-spirits-connected-battlers.json](./146910-battle-spirits-connected-battlers.json) |
 | Battle Spirits: Kiseki no Hasha | 56516 | [56516-battle-spirits-kiseki-no-hasha.json](./56516-battle-spirits-kiseki-no-hasha.json) |
 | Battle Squares | 322008 | [322008-battle-squares.json](./322008-battle-squares.json) |
+| Battle Stadium: Senbatsu Pro Yakyuu | 48585 | [48585-battle-stadium-senbatsu-pro-yakyuu.json](./48585-battle-stadium-senbatsu-pro-yakyuu.json) |
 | Battle Star | 157129 | [157129-battle-star.json](./157129-battle-star.json) |
 | Battle Stations | 95473 | [95473-battle-stations.json](./95473-battle-stations.json) |
 | Battle Steed: Gunma | 165642 | [165642-battle-steed-gunma.json](./165642-battle-steed-gunma.json) |
+| Battle Storm | 48583 | [48583-battle-storm.json](./48583-battle-storm.json) |
 | Battle Talent | 163454 | [163454-battle-talent.json](./163454-battle-talent.json) |
 | Battle Talent: Multiplayer Update | 306952 | [306952-battle-talent-multiplayer-update.json](./306952-battle-talent-multiplayer-update.json) |
 | Battle Tanks: Arena | 240476 | [240476-battle-tanks-arena.json](./240476-battle-tanks-arena.json) |
