@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dardeep | 232967 | [232967-dardeep.json](./232967-dardeep.json) |
 | Dare | 130352 | [130352-dare.json](./130352-dare.json) |
 | Dare Demo Shodan ni Nareru Igo Kyoushitsu | 283758 | [283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json](./283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json) |
+| Dare Devil Derby 3D | 43916 | [43916-dare-devil-derby-3d.json](./43916-dare-devil-derby-3d.json) |
 | Dare to Lucid Dream | 332416 | [332416-dare-to-lucid-dream.json](./332416-dare-to-lucid-dream.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
 | Daredevil | 18254 | [18254-daredevil.json](./18254-daredevil.json) |
@@ -1429,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
+| Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
 | Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
@@ -1521,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Way | 306358 | [306358-devils-way.json](./306358-devils-way.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
+| Devilman | 43896 | [43896-devilman.json](./43896-devilman.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
 | Devils Wind Mine | 294156 | [294156-devils-wind-mine.json](./294156-devils-wind-mine.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
