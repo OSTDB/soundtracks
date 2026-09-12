@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
 | Fairy Godmother Stories: Puss in Boots Collector's Edition | 151202 | [151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json](./151202-fairy-godmother-stories-puss-in-boots-collectors-edition.json) |
+| Fairy Godmother Tycoon | 68634 | [68634-fairy-godmother-tycoon.json](./68634-fairy-godmother-tycoon.json) |
 | Fairy Kitty no Kaiun Jiten: Yousei no Kuni no Uranai Shugyou | 65521 | [65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json](./65521-fairy-kitty-no-kaiun-jiten-yousei-no-kuni-no-uranai-shugyou.json) |
 | Fairy Knights | 105943 | [105943-fairy-knights.json](./105943-fairy-knights.json) |
 | Fairy Picturebook of Hero and Sorceress | 113698 | [113698-fairy-picturebook-of-hero-and-sorceress.json](./113698-fairy-picturebook-of-hero-and-sorceress.json) |
@@ -333,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia: Surreal Cosmic Progeny | 133391 | [133391-fantasia-surreal-cosmic-progeny.json](./133391-fantasia-surreal-cosmic-progeny.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
+| Fantasization | 68593 | [68593-fantasization.json](./68593-fantasization.json) |
 | Fantastic 4 | 3914 | [3914-fantastic-4.json](./3914-fantastic-4.json) |
 | Fantastic 4 in a Row HD | 70407 | [70407-fantastic-4-in-a-row-hd.json](./70407-fantastic-4-in-a-row-hd.json) |
 | Fantastic Four: Rise of the Silver Surfer | 197930 | [197930-fantastic-four-rise-of-the-silver-surfer.json](./197930-fantastic-four-rise-of-the-silver-surfer.json) |
@@ -1111,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firelore: Short Tales | 333391 | [333391-firelore-short-tales.json](./333391-firelore-short-tales.json) |
 | Firemakaf | 178606 | [178606-firemakaf.json](./178606-firemakaf.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
+| Fireplace | 68630 | [68630-fireplace.json](./68630-fireplace.json) |
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
@@ -1183,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Party Online | 250385 | [250385-fish-party-online.json](./250385-fish-party-online.json) |
 | Fish Person Shooter | 145636 | [145636-fish-person-shooter.json](./145636-fish-person-shooter.json) |
 | Fish Pond Park | 212819 | [212819-fish-pond-park.json](./212819-fish-pond-park.json) |
+| Fish Racer Arcade | 68628 | [68628-fish-racer-arcade.json](./68628-fish-racer-arcade.json) |
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
 | Fish Swarm: Within Inches | 383962 | [383962-fish-swarm-within-inches.json](./383962-fish-swarm-within-inches.json) |
 | Fish Tales | 358849 | [358849-fish-tales.json](./358849-fish-tales.json) |
@@ -1191,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Tank Simulator | 383958 | [383958-fish-tank-simulator.json](./383958-fish-tank-simulator.json) |
 | Fish Upon a Star | 112287 | [112287-fish-upon-a-star.json](./112287-fish-upon-a-star.json) |
 | Fishards | 152852 | [152852-fishards.json](./152852-fishards.json) |
+| Fishbowl | 68629 | [68629-fishbowl.json](./68629-fishbowl.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
 | Fisher-Price Dream Dollhouse | 228449 | [228449-fisher-price-dream-dollhouse.json](./228449-fisher-price-dream-dollhouse.json) |
 | Fisher-Price: Big Action Garage | 70360 | [70360-fisher-price-big-action-garage.json](./70360-fisher-price-big-action-garage.json) |
@@ -1273,6 +1278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit My Zoo: Zoo's Puzzle Pack 2 | 308812 | [308812-fit-my-zoo-zoos-puzzle-pack-2.json](./308812-fit-my-zoo-zoos-puzzle-pack-2.json) |
 | Fit My Zoo: Zoo's Puzzle Pack 3 | 308813 | [308813-fit-my-zoo-zoos-puzzle-pack-3.json](./308813-fit-my-zoo-zoos-puzzle-pack-3.json) |
 | Fit Puzzle Blocks: Expansion Pack | 263197 | [263197-fit-puzzle-blocks-expansion-pack.json](./263197-fit-puzzle-blocks-expansion-pack.json) |
+| Fitba | 68631 | [68631-fitba.json](./68631-fitba.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fitness Game: Romance Story | 256250 | [256250-fitness-game-romance-story.json](./256250-fitness-game-romance-story.json) |
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
@@ -1741,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Foosball Cup World | 237957 | [237957-foosball-cup-world.json](./237957-foosball-cup-world.json) |
+| Foosball For Two | 68627 | [68627-foosball-for-two.json](./68627-foosball-for-two.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Foot Clinic | 268470 | [268470-foot-clinic.json](./268470-foot-clinic.json) |
 | Foot Fashion Simulator | 258983 | [258983-foot-fashion-simulator.json](./258983-foot-fashion-simulator.json) |
@@ -2159,6 +2166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freak Factory | 265664 | [265664-freak-factory.json](./265664-freak-factory.json) |
 | Freaked Fleapit | 204437 | [204437-freaked-fleapit.json](./204437-freaked-fleapit.json) |
 | Freakfield 2042 | 195268 | [195268-freakfield-2042.json](./195268-freakfield-2042.json) |
+| FreaKick | 68626 | [68626-freakick.json](./68626-freakick.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
 | Freakshow: Anniversary | 99575 | [99575-freakshow-anniversary.json](./99575-freakshow-anniversary.json) |
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
