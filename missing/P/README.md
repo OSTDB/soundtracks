@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project-Blemmyes | 172704 | [172704-project-blemmyes.json](./172704-project-blemmyes.json) |
 | Project-X Special Edition & F17 Challenge | 71537 | [71537-project-x-special-edition-and-f17-challenge.json](./71537-project-x-special-edition-and-f17-challenge.json) |
 | Project: Another Use - Graftage | 374080 | [374080-project-another-use-graftage.json](./374080-project-another-use-graftage.json) |
+| Project: Bits | 29741 | [29741-project-bits.json](./29741-project-bits.json) |
 | Project: Catalepsy | 395571 | [395571-project-catalepsy.json](./395571-project-catalepsy.json) |
 | Project: Dream | 220658 | [220658-project-dream.json](./220658-project-dream.json) |
 | Project: Eden's Garden | 222895 | [222895-project-edens-garden.json](./222895-project-edens-garden.json) |
