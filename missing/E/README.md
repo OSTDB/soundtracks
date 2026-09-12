@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ealam Arib | 90600 | [90600-ealam-arib.json](./90600-ealam-arib.json) |
 | Eared Hero | 68194 | [68194-eared-hero.json](./68194-eared-hero.json) |
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
+| Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
 | Early-blooming Black Lily: Moshi Mo-series | 275613 | [275613-early-blooming-black-lily-moshi-mo-series.json](./275613-early-blooming-black-lily-moshi-mo-series.json) |
@@ -846,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
 | Epic Adventures: La Jangada | 114353 | [114353-epic-adventures-la-jangada.json](./114353-epic-adventures-la-jangada.json) |
 | Epic Ape Madness | 255758 | [255758-epic-ape-madness.json](./255758-epic-ape-madness.json) |
+| Epic Astro Story | 65482 | [65482-epic-astro-story.json](./65482-epic-astro-story.json) |
 | Epic Battle Fantasy Collection | 199653 | [199653-epic-battle-fantasy-collection.json](./199653-epic-battle-fantasy-collection.json) |
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
 | Epic Blood Quest | 180185 | [180185-epic-blood-quest.json](./180185-epic-blood-quest.json) |
@@ -1299,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
+| Everybody's Putter Golf With Toro | 66090 | [66090-everybodys-putter-golf-with-toro.json](./66090-everybodys-putter-golf-with-toro.json) |
 | Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
