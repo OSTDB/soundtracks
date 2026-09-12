@@ -2068,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | Hotshot Racing | 131888 | [131888-hotshot-racing.json](./131888-hotshot-racing.json) |
 | Hotshots Fire Rescue | 239903 | [239903-hotshots-fire-rescue.json](./239903-hotshots-fire-rescue.json) |
+| Hotspot Football | 58190 | [58190-hotspot-football.json](./58190-hotspot-football.json) |
 | Hottarake no Shima: Kanata to Niji-iro no Kagami | 123035 | [123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json](./123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json) |
 | Houdini Master of the Extraordinary 1: The Temple of the Serpent | 218136 | [218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json](./218136-houdini-master-of-the-extraordinary-1-the-temple-of-the-serpent.json) |
 | Houkago Cinderella | 182470 | [182470-houkago-cinderella.json](./182470-houkago-cinderella.json) |
