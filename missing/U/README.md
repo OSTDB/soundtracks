@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrakanoid | 310179 | [310179-ultrakanoid.json](./310179-ultrakanoid.json) |
 | Ultrakill | 124333 | [124333-ultrakill.json](./124333-ultrakill.json) |
 | Ultraman Ball | 76600 | [76600-ultraman-ball.json](./76600-ultraman-ball.json) |
+| Ultraman Fighting Evolution 2 | 72608 | [72608-ultraman-fighting-evolution-2.json](./72608-ultraman-fighting-evolution-2.json) |
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | UltraNothing | 277832 | [277832-ultranothing.json](./277832-ultranothing.json) |
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
