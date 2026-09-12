@@ -211,7 +211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: World Heroes | 76578 | [76578-aca-neo-geo-world-heroes.json](./76578-aca-neo-geo-world-heroes.json) |
 | ACA NeoGeo Selection Vol. 10 | 376475 | [376475-aca-neogeo-selection-vol-10.json](./376475-aca-neogeo-selection-vol-10.json) |
-| ACA NeoGeo Selection Vol. 3 | 342070 | [342070-aca-neogeo-selection-vol-3.json](./342070-aca-neogeo-selection-vol-3.json) |
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
 | ACA NeoGeo Selection Vol. 9 | 376474 | [376474-aca-neogeo-selection-vol-9.json](./376474-aca-neogeo-selection-vol-9.json) |
 | ACA2 Neo Geo: The King of Fighters '98 | 333539 | [333539-aca2-neo-geo-the-king-of-fighters-98.json](./333539-aca2-neo-geo-the-king-of-fighters-98.json) |
@@ -720,6 +719,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
+| Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
+| Age of Conan: The Savage Coast Of Turan | 27652 | [27652-age-of-conan-the-savage-coast-of-turan.json](./27652-age-of-conan-the-savage-coast-of-turan.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
@@ -1407,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
 | Altarage | 157150 | [157150-altarage.json](./157150-altarage.json) |
 | Altdeus: Beyond Chronos - Limited Edition | 166229 | [166229-altdeus-beyond-chronos-limited-edition.json](./166229-altdeus-beyond-chronos-limited-edition.json) |
+| Alteil: Horizons | 27736 | [27736-alteil-horizons.json](./27736-alteil-horizons.json) |
 | Alter | 264033 | [264033-alter.json](./264033-alter.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
@@ -2281,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
+| ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
 | Arc Seed | 244485 | [244485-arc-seed.json](./244485-arc-seed.json) |
 | ARC Squadron: Redux | 38984 | [38984-arc-squadron-redux.json](./38984-arc-squadron-redux.json) |
 | Arc Style Solitaire | 62222 | [62222-arc-style-solitaire.json](./62222-arc-style-solitaire.json) |
