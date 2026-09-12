@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanter Trilogy | 73789 | [73789-enchanter-trilogy.json](./73789-enchanter-trilogy.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclave: Shadows of Twilight | 77980 | [77980-enclave-shadows-of-twilight.json](./77980-enclave-shadows-of-twilight.json) |
+| Encleverment Experiment | 67956 | [67956-encleverment-experiment.json](./67956-encleverment-experiment.json) |
 | Enclosure 3-D | 215929 | [215929-enclosure-3-d.json](./215929-enclosure-3-d.json) |
 | Encode | 159861 | [159861-encode.json](./159861-encode.json) |
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
