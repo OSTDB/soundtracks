@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Master and the Conquest of Humor | 62186 | [62186-host-master-and-the-conquest-of-humor.json](./62186-host-master-and-the-conquest-of-humor.json) |
 | Host Master Deux: Quest for Identity | 62185 | [62185-host-master-deux-quest-for-identity.json](./62185-host-master-deux-quest-for-identity.json) |
 | Hostyle | 397700 | [397700-hostyle.json](./397700-hostyle.json) |
+| Hot Action Pak | 56454 | [56454-hot-action-pak.json](./56454-hot-action-pak.json) |
 | Hot Air | 152908 | [152908-hot-air.json](./152908-hot-air.json) |
 | Hot and Cold | 386727 | [386727-hot-and-cold.json](./386727-hot-and-cold.json) |
 | Hot and Lovely 4 | 170556 | [170556-hot-and-lovely-4.json](./170556-hot-and-lovely-4.json) |
