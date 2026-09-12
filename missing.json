@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T16:21:39.947Z",
-  "total_missing": 62576,
+  "generated_at": "2026-09-12T16:31:39.037Z",
+  "total_missing": 62590,
   "games": [
     {
       "igdb_id": 306086,
@@ -3026,11 +3026,6 @@
       "igdb_id": 78616,
       "game_name": "Absolute: Blazing Infinity",
       "file": "missing/A/78616-absolute-blazing-infinity.json"
-    },
-    {
-      "igdb_id": 161358,
-      "game_name": "Absolutely Goode Championship",
-      "file": "missing/A/161358-absolutely-goode-championship.json"
     },
     {
       "igdb_id": 257098,
@@ -18353,6 +18348,11 @@
       "file": "missing/A/290388-attorney-online.json"
     },
     {
+      "igdb_id": 44589,
+      "game_name": "Attouteki Yuugi: Mugen Souls Z",
+      "file": "missing/A/44589-attouteki-yuugi-mugen-souls-z.json"
+    },
+    {
       "igdb_id": 119747,
       "game_name": "Attract Fragments 5",
       "file": "missing/A/119747-attract-fragments-5.json"
@@ -26753,6 +26753,11 @@
       "file": "missing/B/161365-beyond-the-evil.json"
     },
     {
+      "igdb_id": 44588,
+      "game_name": "Beyond the Future: Fix the Time Arrows",
+      "file": "missing/B/44588-beyond-the-future-fix-the-time-arrows.json"
+    },
+    {
       "igdb_id": 341905,
       "game_name": "Beyond the Grove",
       "file": "missing/B/341905-beyond-the-grove.json"
@@ -27966,6 +27971,11 @@
       "igdb_id": 150642,
       "game_name": "Bioshock & Borderlands: The Shooter Collection",
       "file": "missing/B/150642-bioshock-and-borderlands-the-shooter-collection.json"
+    },
+    {
+      "igdb_id": 44571,
+      "game_name": "Bioshock 2: Rapture Edition",
+      "file": "missing/B/44571-bioshock-2-rapture-edition.json"
     },
     {
       "igdb_id": 64441,
@@ -34013,6 +34023,11 @@
       "file": "missing/B/102109-brain-box-on-physics-truck.json"
     },
     {
+      "igdb_id": 44587,
+      "game_name": "Brain Challenge Deluxe",
+      "file": "missing/B/44587-brain-challenge-deluxe.json"
+    },
+    {
       "igdb_id": 68641,
       "game_name": "Brain Deluxe",
       "file": "missing/B/68641-brain-deluxe.json"
@@ -37826,6 +37841,11 @@
       "igdb_id": 44710,
       "game_name": "Buzz! Junior: Robo Jam",
       "file": "missing/B/44710-buzz-junior-robo-jam.json"
+    },
+    {
+      "igdb_id": 44586,
+      "game_name": "Buzz! The Ultimate Music Quiz",
+      "file": "missing/B/44586-buzz-the-ultimate-music-quiz.json"
     },
     {
       "igdb_id": 268768,
@@ -82081,6 +82101,11 @@
       "igdb_id": 322573,
       "game_name": "Eureka",
       "file": "missing/E/322573-eureka.json"
+    },
+    {
+      "igdb_id": 44590,
+      "game_name": "Eureka Seven AO: Jungfrau no Hanabanatachi",
+      "file": "missing/E/44590-eureka-seven-ao-jungfrau-no-hanabanatachi.json"
     },
     {
       "igdb_id": 19641,
@@ -130923,6 +130948,16 @@
       "file": "missing/J/45285-jikkyou-pawafuru-puroyakyu-2011.json"
     },
     {
+      "igdb_id": 44584,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 2012",
+      "file": "missing/J/44584-jikkyou-pawafuru-puroyakyu-2012.json"
+    },
+    {
+      "igdb_id": 44583,
+      "game_name": "Jikkyou Pawafuru Puroyakyu 2012: Kettei-ban",
+      "file": "missing/J/44583-jikkyou-pawafuru-puroyakyu-2012-kettei-ban.json"
+    },
+    {
       "igdb_id": 42642,
       "game_name": "Jikkyou Pawafuru Puroyakyu 3",
       "file": "missing/J/42642-jikkyou-pawafuru-puroyakyu-3.json"
@@ -134846,6 +134881,11 @@
       "igdb_id": 3531,
       "game_name": "Ken Griffey Jr.'s Slugfest",
       "file": "missing/K/3531-ken-griffey-jr-s-slugfest.json"
+    },
+    {
+      "igdb_id": 44582,
+      "game_name": "Ken to Mahou to Gakuen Mono. 3",
+      "file": "missing/K/44582-ken-to-mahou-to-gakuen-mono-3.json"
     },
     {
       "igdb_id": 63896,
@@ -160063,6 +160103,11 @@
       "file": "missing/M/294462-midnight-castle.json"
     },
     {
+      "igdb_id": 44581,
+      "game_name": "Midnight Club: Los Angeles - Complete Edition",
+      "file": "missing/M/44581-midnight-club-los-angeles-complete-edition.json"
+    },
+    {
       "igdb_id": 309078,
       "game_name": "Midnight Collection",
       "file": "missing/M/309078-midnight-collection.json"
@@ -163358,6 +163403,11 @@
       "file": "missing/M/196338-mobile-suit-gundam-area-wars.json"
     },
     {
+      "igdb_id": 44580,
+      "game_name": "Mobile Suit Gundam: Battle Operation",
+      "file": "missing/M/44580-mobile-suit-gundam-battle-operation.json"
+    },
+    {
       "igdb_id": 178045,
       "game_name": "Mobile Suit Gundam: Battle Operation Code Fairy",
       "file": "missing/M/178045-mobile-suit-gundam-battle-operation-code-fairy.json"
@@ -163791,6 +163841,11 @@
       "igdb_id": 288207,
       "game_name": "Moe Moe 2-ji Daisenryaku",
       "file": "missing/M/288207-moe-moe-2-ji-daisenryaku.json"
+    },
+    {
+      "igdb_id": 44579,
+      "game_name": "Moe Moe Daisensou * Gendaiban++",
+      "file": "missing/M/44579-moe-moe-daisensou-gendaiban.json"
     },
     {
       "igdb_id": 120374,
@@ -194123,6 +194178,11 @@
       "file": "missing/P/139952-pixeljunk-monsters-encore.json"
     },
     {
+      "igdb_id": 44576,
+      "game_name": "PixelJunk Racers: 2nd Lap",
+      "file": "missing/P/44576-pixeljunk-racers-2nd-lap.json"
+    },
+    {
       "igdb_id": 213499,
       "game_name": "PixelJunk: Scrappers Deluxe",
       "file": "missing/P/213499-pixeljunk-scrappers-deluxe.json"
@@ -200126,6 +200186,11 @@
       "igdb_id": 231611,
       "game_name": "Pro Yakyuu Greatest Nine 97",
       "file": "missing/P/231611-pro-yakyuu-greatest-nine-97.json"
+    },
+    {
+      "igdb_id": 44575,
+      "game_name": "Pro Yakyuu Spirits 2012",
+      "file": "missing/P/44575-pro-yakyuu-spirits-2012.json"
     },
     {
       "igdb_id": 63903,
@@ -306681,6 +306746,11 @@
       "igdb_id": 24938,
       "game_name": "Worms: Reinforcements",
       "file": "missing/W/24938-worms-reinforcements.json"
+    },
+    {
+      "igdb_id": 44577,
+      "game_name": "Worms: The Revolution Collection",
+      "file": "missing/W/44577-worms-the-revolution-collection.json"
     },
     {
       "igdb_id": 225090,
