@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anastasia | 208394 | [208394-anastasia.json](./208394-anastasia.json) |
 | Anastasia to 7-nin no Himegami: Inmon no Rakuin | 108978 | [108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json](./108978-anastasia-to-7-nin-no-himegami-inmon-no-rakuin.json) |
 | Anata dake no Private Lesson: DS de Hajimeru Tipness no Yoga | 269550 | [269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json](./269550-anata-dake-no-private-lesson-ds-de-hajimeru-tipness-no-yoga.json) |
+| Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
@@ -2455,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcLand | 141806 | [141806-arcland.json](./141806-arcland.json) |
 | Arclands | 156147 | [156147-arclands.json](./156147-arclands.json) |
 | Arco | 263903 | [263903-arco.json](./263903-arco.json) |
+| Arcobaleno! | 59394 | [59394-arcobaleno.json](./59394-arcobaleno.json) |
 | Arcshu: Kagerou no Jidai wo Koete | 314659 | [314659-arcshu-kagerou-no-jidai-wo-koete.json](./314659-arcshu-kagerou-no-jidai-wo-koete.json) |
 | Arctic | 56479 | [56479-arctic.json](./56479-arctic.json) |
 | Arctic Adventure | 8488 | [8488-arctic-adventure.json](./8488-arctic-adventure.json) |
