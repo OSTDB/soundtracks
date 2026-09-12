@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valfaris: Signature Edition | 210634 | [210634-valfaris-signature-edition.json](./210634-valfaris-signature-edition.json) |
 | Valgrave: Immortal Plains | 122395 | [122395-valgrave-immortal-plains.json](./122395-valgrave-immortal-plains.json) |
 | Valhalla | 23053 | [23053-valhalla.json](./23053-valhalla.json) |
+| Valhalla Chronicles | 64388 | [64388-valhalla-chronicles.json](./64388-valhalla-chronicles.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
