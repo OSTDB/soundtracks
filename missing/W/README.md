@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup Carnival | 69817 | [69817-world-cup-carnival.json](./69817-world-cup-carnival.json) |
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
 | World Cup USA 94 | 365669 | [365669-world-cup-usa-94.json](./365669-world-cup-usa-94.json) |
+| World Cup Year 94 | 57620 | [57620-world-cup-year-94.json](./57620-world-cup-year-94.json) |
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
 | World Empire IV | 73753 | [73753-world-empire-iv.json](./73753-world-empire-iv.json) |
 | World Enduro Rally | 111671 | [111671-world-enduro-rally.json](./111671-world-enduro-rally.json) |
