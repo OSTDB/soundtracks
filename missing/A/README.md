@@ -161,7 +161,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
-| Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abodtion | 344375 | [344375-abodtion.json](./344375-abodtion.json) |
