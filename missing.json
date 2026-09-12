@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T22:18:51.552Z",
-  "total_missing": 63534,
+  "generated_at": "2026-09-12T22:21:36.497Z",
+  "total_missing": 63533,
   "games": [
     {
       "igdb_id": 306086,
@@ -3201,11 +3201,6 @@
       "igdb_id": 85538,
       "game_name": "ACA Neo Geo: Burning Fight",
       "file": "missing/A/85538-aca-neo-geo-burning-fight.json"
-    },
-    {
-      "igdb_id": 111065,
-      "game_name": "ACA Neo Geo: Strikers 1945 Plus",
-      "file": "missing/A/111065-aca-neo-geo-strikers-1945-plus.json"
     },
     {
       "igdb_id": 83769,
