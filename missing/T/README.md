@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactic Force | 123542 | [123542-tactic-force.json](./123542-tactic-force.json) |
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
 | Tactical | 83530 | [83530-tactical.json](./83530-tactical.json) |
+| Tactical AR | 74366 | [74366-tactical-ar.json](./74366-tactical-ar.json) |
 | Tactical Assassin 2 | 280210 | [280210-tactical-assassin-2.json](./280210-tactical-assassin-2.json) |
 | Tactical Mind | 82788 | [82788-tactical-mind.json](./82788-tactical-mind.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
@@ -282,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
 | Tales of Spark | 225103 | [225103-tales-of-spark.json](./225103-tales-of-spark.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
+| Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
 | Tales of the Death | 204112 | [204112-tales-of-the-death.json](./204112-tales-of-the-death.json) |
 | Tales of the Drunken Paladin | 191811 | [191811-tales-of-the-drunken-paladin.json](./191811-tales-of-the-drunken-paladin.json) |
@@ -408,6 +410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
 | Tangled | 230552 | [230552-tangled.json](./230552-tangled.json) |
 | Tangled | 62187 | [62187-tangled.json](./62187-tangled.json) |
+| Tangled Tales | 74328 | [74328-tangled-tales.json](./74328-tangled-tales.json) |
 | Tangledeep: Dawn of Dragons | 154499 | [154499-tangledeep-dawn-of-dragons.json](./154499-tangledeep-dawn-of-dragons.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
 | Tangol | 125945 | [125945-tangol.json](./125945-tangol.json) |
@@ -783,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temples vs. Buildings | 296353 | [296353-temples-vs-buildings.json](./296353-temples-vs-buildings.json) |
 | Templum de Malum | 118399 | [118399-templum-de-malum.json](./118399-templum-de-malum.json) |
 | Templum Dormiens Dei | 268460 | [268460-templum-dormiens-dei.json](./268460-templum-dormiens-dei.json) |
+| Tempo | 74385 | [74385-tempo.json](./74385-tempo.json) |
 | Tempo Nuts | 256542 | [256542-tempo-nuts.json](./256542-tempo-nuts.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
@@ -1742,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dukes of Hazzard: Return of the General Lee | 5818 | [5818-the-dukes-of-hazzard-return-of-the-general-lee.json](./5818-the-dukes-of-hazzard-return-of-the-general-lee.json) |
 | The Dungeon Beneath | 139354 | [139354-the-dungeon-beneath.json](./139354-the-dungeon-beneath.json) |
 | The Dungeon Experience | 113668 | [113668-the-dungeon-experience.json](./113668-the-dungeon-experience.json) |
+| The Dungeon of Destiny | 74399 | [74399-the-dungeon-of-destiny.json](./74399-the-dungeon-of-destiny.json) |
 | The Dungeon of Doom | 229374 | [229374-the-dungeon-of-doom.json](./229374-the-dungeon-of-doom.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition | 154540 | [154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json](./154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json) |
@@ -2075,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
 | The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
 | The Green Room Experiment: Episode 1 VR | 243678 | [243678-the-green-room-experiment-episode-1-vr.json](./243678-the-green-room-experiment-episode-1-vr.json) |
+| The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
 | The Growth Project | 26614 | [26614-the-growth-project.json](./26614-the-growth-project.json) |
@@ -3345,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Squeal of the Pig | 249190 | [249190-the-squeal-of-the-pig.json](./249190-the-squeal-of-the-pig.json) |
 | The Squirrel & Sea | 358305 | [358305-the-squirrel-and-sea.json](./358305-the-squirrel-and-sea.json) |
+| The St Christopher's School Lockdown | 74393 | [74393-the-st-christophers-school-lockdown.json](./74393-the-st-christophers-school-lockdown.json) |
 | The Stadium Project | 62177 | [62177-the-stadium-project.json](./62177-the-stadium-project.json) |
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
 | The Stanley Parable | 18453 | [18453-the-stanley-parable.json](./18453-the-stanley-parable.json) |
@@ -3371,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stronghold Collection | 27858 | [27858-the-stronghold-collection.json](./27858-the-stronghold-collection.json) |
 | The Studio 100: Play Island | 268210 | [268210-the-studio-100-play-island.json](./268210-the-studio-100-play-island.json) |
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
+| The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
 | The Sueño | 86088 | [86088-the-sueno.json](./86088-the-sueno.json) |
 | The Suicide Forest | 133428 | [133428-the-suicide-forest.json](./133428-the-suicide-forest.json) |
 | The Suite Life of Zack & Cody: Tipton Trouble | 72115 | [72115-the-suite-life-of-zack-and-cody-tipton-trouble.json](./72115-the-suite-life-of-zack-and-cody-tipton-trouble.json) |
@@ -3691,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
 | The Vigilante: Single Shot Justice | 179117 | [179117-the-vigilante-single-shot-justice.json](./179117-the-vigilante-single-shot-justice.json) |
 | The Vikings | 37188 | [37188-the-vikings.json](./37188-the-vikings.json) |
+| The Village | 74391 | [74391-the-village.json](./74391-the-village.json) |
 | The Village of Archensheen | 268725 | [268725-the-village-of-archensheen.json](./268725-the-village-of-archensheen.json) |
 | The Villager and the Werewolf | 221154 | [221154-the-villager-and-the-werewolf.json](./221154-the-villager-and-the-werewolf.json) |
 | The Villainess Just Wants to Eat!! | 264327 | [264327-the-villainess-just-wants-to-eat.json](./264327-the-villainess-just-wants-to-eat.json) |
@@ -5379,6 +5388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
+| Tower of Babel | 74349 | [74349-tower-of-babel.json](./74349-tower-of-babel.json) |
 | Tower of Babel: No Mercy | 129190 | [129190-tower-of-babel-no-mercy.json](./129190-tower-of-babel-no-mercy.json) |
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
@@ -5462,6 +5472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Factory | 206712 | [206712-toy-factory.json](./206712-toy-factory.json) |
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
 | Toy Robot | 126582 | [126582-toy-robot.json](./126582-toy-robot.json) |
+| Toy Rush | 74321 | [74321-toy-rush.json](./74321-toy-rush.json) |
 | Toy Scrappers | 333549 | [333549-toy-scrappers.json](./333549-toy-scrappers.json) |
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
 | Toy Story | 220099 | [220099-toy-story.json](./220099-toy-story.json) |
@@ -6410,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Rush | 122368 | [122368-turtle-rush.json](./122368-turtle-rush.json) |
 | Turtle Tale | 79280 | [79280-turtle-tale.json](./79280-turtle-tale.json) |
 | Turtle WoW: Mysteries of Azeroth | 253071 | [253071-turtle-wow-mysteries-of-azeroth.json](./253071-turtle-wow-mysteries-of-azeroth.json) |
+| Turtle: Voidrunner | 74355 | [74355-turtle-voidrunner.json](./74355-turtle-voidrunner.json) |
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
