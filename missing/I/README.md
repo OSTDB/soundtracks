@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
 | Imperial Destiny: Path of Gold | 231939 | [231939-imperial-destiny-path-of-gold.json](./231939-imperial-destiny-path-of-gold.json) |
+| Imperial Hero | 58747 | [58747-imperial-hero.json](./58747-imperial-hero.json) |
 | Imperial Storm | 249218 | [249218-imperial-storm.json](./249218-imperial-storm.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
 | Imperian | 78655 | [78655-imperian.json](./78655-imperian.json) |
@@ -1258,6 +1259,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iseran: Isekai Rantou | 257675 | [257675-iseran-isekai-rantou.json](./257675-iseran-isekai-rantou.json) |
 | Isha's Magic Book Decoding | 334701 | [334701-ishas-magic-book-decoding.json](./334701-ishas-magic-book-decoding.json) |
 | Ishara: Bane of the Seas | 133966 | [133966-ishara-bane-of-the-seas.json](./133966-ishara-bane-of-the-seas.json) |
+| Ishi | 58757 | [58757-ishi.json](./58757-ishi.json) |
+| Ishi GO | 58759 | [58759-ishi-go.json](./58759-ishi-go.json) |
 | Ishidó: The Way of Stones | 152385 | [152385-ishido-the-way-of-stones.json](./152385-ishido-the-way-of-stones.json) |
 | Ishika & Honori | 124241 | [124241-ishika-and-honori.json](./124241-ishika-and-honori.json) |
 | Ishin no Arashi | 30923 | [30923-ishin-no-arashi.json](./30923-ishin-no-arashi.json) |
