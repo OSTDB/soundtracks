@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T17:19:08.087Z",
-  "total_missing": 62739,
+  "generated_at": "2026-09-12T17:21:34.083Z",
+  "total_missing": 62738,
   "games": [
     {
       "igdb_id": 306086,
@@ -3051,11 +3051,6 @@
       "igdb_id": 154572,
       "game_name": "Abstraction",
       "file": "missing/A/154572-abstraction.json"
-    },
-    {
-      "igdb_id": 159858,
-      "game_name": "Absurbia: A Trashy Satire of Suburban Outcries",
-      "file": "missing/A/159858-absurbia-a-trashy-satire-of-suburban-outcries.json"
     },
     {
       "igdb_id": 240208,
