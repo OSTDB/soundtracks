@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
 | Hero Among Us | 143686 | [143686-hero-among-us.json](./143686-hero-among-us.json) |
+| Hero Battle | 33001 | [33001-hero-battle.json](./33001-hero-battle.json) |
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
 | Hero Bump | 184101 | [184101-hero-bump.json](./184101-hero-bump.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
@@ -1190,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
 | Heroes Clash | 226778 | [226778-heroes-clash.json](./226778-heroes-clash.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
+| Heroes Must Die | 32947 | [32947-heroes-must-die.json](./32947-heroes-must-die.json) |
 | Heroes of Abyss | 191160 | [191160-heroes-of-abyss.json](./191160-heroes-of-abyss.json) |
 | Heroes of Annihilated Empires | 14824 | [14824-heroes-of-annihilated-empires.json](./14824-heroes-of-annihilated-empires.json) |
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
@@ -1535,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Rider | 86999 | [86999-highway-rider.json](./86999-highway-rider.json) |
 | Highway Roads Racer | 390499 | [390499-highway-roads-racer.json](./390499-highway-roads-racer.json) |
 | Highway Terror | 322600 | [322600-highway-terror.json](./322600-highway-terror.json) |
+| Highway to the Moon | 32890 | [32890-highway-to-the-moon.json](./32890-highway-to-the-moon.json) |
 | Highway Trouble | 322597 | [322597-highway-trouble.json](./322597-highway-trouble.json) |
 | Highway Trouble 2 | 322599 | [322599-highway-trouble-2.json](./322599-highway-trouble-2.json) |
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
