@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L no Kisetsu: W Pocket | 62173 | [62173-l-no-kisetsu-w-pocket.json](./62173-l-no-kisetsu-w-pocket.json) |
 | L the Prologue to Death Note -Spiraling Trap- | 22390 | [22390-l-the-prologue-to-death-note-spiraling-trap.json](./22390-l-the-prologue-to-death-note-spiraling-trap.json) |
 | L-Room | 262936 | [262936-l-room.json](./262936-l-room.json) |
+| L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
 | L.A.2 | 135900 | [135900-l-a-2.json](./135900-l-a-2.json) |
 | L.O.C.K. | 144364 | [144364-l-o-c-k.json](./144364-l-o-c-k.json) |
@@ -1182,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
 | Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
+| Little Green Man | 55099 | [55099-little-green-man.json](./55099-little-green-man.json) |
 | Little Harvest | 254783 | [254783-little-harvest.json](./254783-little-harvest.json) |
 | Little Hero | 194019 | [194019-little-hero.json](./194019-little-hero.json) |
 | Little Heroine Playset | 185596 | [185596-little-heroine-playset.json](./185596-little-heroine-playset.json) |
