@@ -2517,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
 | Skylanders: Giants | 256679 | [256679-skylanders-giants.json](./256679-skylanders-giants.json) |
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
+| Skylanders: Lost Islands | 59963 | [59963-skylanders-lost-islands.json](./59963-skylanders-lost-islands.json) |
 | Skylanders: Spyro's Adventure | 256678 | [256678-skylanders-spyros-adventure.json](./256678-skylanders-spyros-adventure.json) |
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
@@ -4623,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squarena | 191829 | [191829-squarena.json](./191829-squarena.json) |
 | Squarepinski | 372994 | [372994-squarepinski.json](./372994-squarepinski.json) |
 | Squares | 101610 | [101610-squares.json](./101610-squares.json) |
+| Squares | 59961 | [59961-squares.json](./59961-squares.json) |
 | Squares of Hell | 304612 | [304612-squares-of-hell.json](./304612-squares-of-hell.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
@@ -6314,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mahjong | 37814 | [37814-super-mahjong.json](./37814-super-mahjong.json) |
 | Super Mahjong 2: Honkaku 4-nin Uchi | 37813 | [37813-super-mahjong-2-honkaku-4-nin-uchi.json](./37813-super-mahjong-2-honkaku-4-nin-uchi.json) |
 | Super Mahjong 3 | 37812 | [37812-super-mahjong-3.json](./37812-super-mahjong-3.json) |
+| Super Mahjong 3: Karakuchi | 59955 | [59955-super-mahjong-3-karakuchi.json](./59955-super-mahjong-3-karakuchi.json) |
 | Super Mahjong Taikai | 37811 | [37811-super-mahjong-taikai.json](./37811-super-mahjong-taikai.json) |
 | Super Mando | 223437 | [223437-super-mando.json](./223437-super-mando.json) |
 | Super Mansion | 72695 | [72695-super-mansion.json](./72695-super-mansion.json) |
