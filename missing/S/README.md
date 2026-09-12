@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.C.I.: Special Criminal Investigation | 11999 | [11999-s-c-i-special-criminal-investigation.json](./11999-s-c-i-special-criminal-investigation.json) |
 | S.C.I.M.M.A.R.'s | 291976 | [291976-s-c-i-m-m-a-r-s.json](./291976-s-c-i-m-m-a-r-s.json) |
 | S.E.A. | 161383 | [161383-s-e-a.json](./161383-s-e-a.json) |
+| S.E.U.I.S. | 24886 | [24886-s-e-u-i-s.json](./24886-s-e-u-i-s.json) |
 | S.E.X. Retreat: WellCum In! | 278381 | [278381-s-e-x-retreat-wellcum-in.json](./278381-s-e-x-retreat-wellcum-in.json) |
 | S.I.P. SE: Safety is Power | 302386 | [302386-s-i-p-se-safety-is-power.json](./302386-s-i-p-se-safety-is-power.json) |
 | S.M.A.C.K. | 225097 | [225097-s-m-a-c-k.json](./225097-s-m-a-c-k.json) |
@@ -1592,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Pinball | 165614 | [165614-shark-pinball.json](./165614-shark-pinball.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Slayer | 166742 | [166742-shark-slayer.json](./166742-shark-slayer.json) |
+| Shark Trap | 24901 | [24901-shark-trap.json](./24901-shark-trap.json) |
 | Shark! Shark! | 5695 | [5695-shark-shark.json](./5695-shark-shark.json) |
 | SharkDrag Episode 5: Uniting the 5 Kingdoms | 210891 | [210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json](./210891-sharkdrag-episode-5-uniting-the-5-kingdoms.json) |
 | Sharkey's Shootout | 91401 | [91401-sharkeys-shootout.json](./91401-sharkeys-shootout.json) |
@@ -3122,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snatched | 395585 | [395585-snatched.json](./395585-snatched.json) |
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
 | Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
+| Sneak Attack | 24865 | [24865-sneak-attack.json](./24865-sneak-attack.json) |
 | Sneak In | 117071 | [117071-sneak-in.json](./117071-sneak-in.json) |
 | Sneak King | 2730 | [2730-sneak-king.json](./2730-sneak-king.json) |
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
@@ -5788,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strato Supremacy | 245853 | [245853-strato-supremacy.json](./245853-strato-supremacy.json) |
+| Stratos | 24896 | [24896-stratos.json](./24896-stratos.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
 | Stratum | 74319 | [74319-stratum.json](./74319-stratum.json) |
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
