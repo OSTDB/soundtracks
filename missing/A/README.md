@@ -155,7 +155,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
-| Abglantz | 216775 | [216775-abglantz.json](./216775-abglantz.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Abi and the soul | 153988 | [153988-abi-and-the-soul.json](./153988-abi-and-the-soul.json) |
 | ABI-DOS | 293628 | [293628-abi-dos.json](./293628-abi-dos.json) |
