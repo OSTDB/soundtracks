@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic LightHouse | 147385 | [147385-magic-lighthouse.json](./147385-magic-lighthouse.json) |
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
+| Magic MixUp | 58200 | [58200-magic-mixup.json](./58200-magic-mixup.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
 | Magic Numbers 2 | 58764 | [58764-magic-numbers-2.json](./58764-magic-numbers-2.json) |
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
