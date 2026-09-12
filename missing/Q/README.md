@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarter Monkey | 233759 | [233759-quarter-monkey.json](./233759-quarter-monkey.json) |
 | Quartermaster | 368478 | [368478-quartermaster.json](./368478-quartermaster.json) |
 | Quartermaster General | 110295 | [110295-quartermaster-general.json](./110295-quartermaster-general.json) |
+| Quarterstaff | 70924 | [70924-quarterstaff.json](./70924-quarterstaff.json) |
 | Quarterstaff: The Tomb of Setmoth | 47300 | [47300-quarterstaff-the-tomb-of-setmoth.json](./47300-quarterstaff-the-tomb-of-setmoth.json) |
 | Quartet | 314674 | [314674-quartet.json](./314674-quartet.json) |
 | Quarth | 239297 | [239297-quarth.json](./239297-quarth.json) |
