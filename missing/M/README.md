@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magium | 207821 | [207821-magium.json](./207821-magium.json) |
+| Magma Project Hacker | 41313 | [41313-magma-project-hacker.json](./41313-magma-project-hacker.json) |
 | Magman | 311271 | [311271-magman.json](./311271-magman.json) |
 | MagMaze | 240214 | [240214-magmaze.json](./240214-magmaze.json) |
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
@@ -379,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
 | Mahjong Infinity | 117043 | [117043-mahjong-infinity.json](./117043-mahjong-infinity.json) |
 | Mahjong Journey: Quest for Tikal | 175921 | [175921-mahjong-journey-quest-for-tikal.json](./175921-mahjong-journey-quest-for-tikal.json) |
+| Mahjong Kazoku | 41364 | [41364-mahjong-kazoku.json](./41364-mahjong-kazoku.json) |
 | Mahjong Lemon Angel | 42004 | [42004-mahjong-lemon-angel.json](./42004-mahjong-lemon-angel.json) |
 | Mahjong Masters Club | 385090 | [385090-mahjong-masters-club.json](./385090-mahjong-masters-club.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
@@ -691,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
 | Märchen Forest | 181313 | [181313-marchen-forest.json](./181313-marchen-forest.json) |
+| Marchen Veil | 41337 | [41337-marchen-veil.json](./41337-marchen-veil.json) |
 | Marching Order | 330151 | [330151-marching-order.json](./330151-marching-order.json) |
 | Marcianito Go | 228470 | [228470-marcianito-go.json](./228470-marcianito-go.json) |
 | Marco Polo | 45916 | [45916-marco-polo.json](./45916-marco-polo.json) |
@@ -739,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Artist: Graphical Message Maker | 175952 | [175952-mario-artist-graphical-message-maker.json](./175952-mario-artist-graphical-message-maker.json) |
 | Mario Artist: Sound Maker | 175953 | [175953-mario-artist-sound-maker.json](./175953-mario-artist-sound-maker.json) |
 | Mario Artist: Video Jockey Maker | 175954 | [175954-mario-artist-video-jockey-maker.json](./175954-mario-artist-video-jockey-maker.json) |
+| Mario Bobble | 41363 | [41363-mario-bobble.json](./41363-mario-bobble.json) |
 | Mario Bros. | 172201 | [172201-mario-bros.json](./172201-mario-bros.json) |
 | Mario Bros. | 192918 | [192918-mario-bros.json](./192918-mario-bros.json) |
 | Mario Bros. | 192919 | [192919-mario-bros.json](./192919-mario-bros.json) |
@@ -3708,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
 | Mr. Fishbones | 185118 | [185118-mr-fishbones.json](./185118-mr-fishbones.json) |
+| Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
 | Mr. Hibbl | 156661 | [156661-mr-hibbl.json](./156661-mr-hibbl.json) |
 | Mr. Krussy Requires Souls of the Damned | 177491 | [177491-mr-krussy-requires-souls-of-the-damned.json](./177491-mr-krussy-requires-souls-of-the-damned.json) |
