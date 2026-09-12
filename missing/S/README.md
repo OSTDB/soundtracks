@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.G: Strike Gunner | 39692 | [39692-s-t-g-strike-gunner.json](./39692-s-t-g-strike-gunner.json) |
 | S7 Mexico | 218728 | [218728-s7-mexico.json](./218728-s7-mexico.json) |
 | Saadex: Perpetual Storm | 270933 | [270933-saadex-perpetual-storm.json](./270933-saadex-perpetual-storm.json) |
+| Saap2003 | 77319 | [77319-saap2003.json](./77319-saap2003.json) |
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
@@ -155,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saints of Virtue | 67312 | [67312-saints-of-virtue.json](./67312-saints-of-virtue.json) |
 | Saints Row 2: Ultor Exposed | 22998 | [22998-saints-row-2-ultor-exposed.json](./22998-saints-row-2-ultor-exposed.json) |
 | Saints Row IV: Super Dangerous Wad Wad Edition (aka the Million Dollar Pack) | 21862 | [21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json](./21862-saints-row-iv-super-dangerous-wad-wad-edition-aka-the-million-dollar-pack.json) |
+| Saints Row: Drive-By | 77307 | [77307-saints-row-drive-by.json](./77307-saints-row-drive-by.json) |
 | Saints Row: The Big Purple Package | 283181 | [283181-saints-row-the-big-purple-package.json](./283181-saints-row-the-big-purple-package.json) |
 | Saints Row: The Heist & The Hazardous | 249476 | [249476-saints-row-the-heist-and-the-hazardous.json](./249476-saints-row-the-heist-and-the-hazardous.json) |
 | Saints Row: The Third - The Trouble with Clones | 78452 | [78452-saints-row-the-third-the-trouble-with-clones.json](./78452-saints-row-the-third-the-trouble-with-clones.json) |
@@ -659,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoundrel | 101605 | [101605-scoundrel.json](./101605-scoundrel.json) |
 | Scoundrel's Dungeon | 399600 | [399600-scoundrels-dungeon.json](./399600-scoundrels-dungeon.json) |
 | Scourge of Scavengers | 348274 | [348274-scourge-of-scavengers.json](./348274-scourge-of-scavengers.json) |
+| Scourge of War: Gettysburg | 77312 | [77312-scourge-of-war-gettysburg.json](./77312-scourge-of-war-gettysburg.json) |
 | Scourge of War: Waterloo - Ligny | 171038 | [171038-scourge-of-war-waterloo-ligny.json](./171038-scourge-of-war-waterloo-ligny.json) |
 | Scourge of War: Waterloo - Quatre Bras | 171039 | [171039-scourge-of-war-waterloo-quatre-bras.json](./171039-scourge-of-war-waterloo-quatre-bras.json) |
 | Scourge of War: Waterloo - Wavre | 171040 | [171040-scourge-of-war-waterloo-wavre.json](./171040-scourge-of-war-waterloo-wavre.json) |
@@ -1344,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowblade Knight Symphony | 313154 | [313154-shadowblade-knight-symphony.json](./313154-shadowblade-knight-symphony.json) |
 | Shadowbound | 374076 | [374076-shadowbound.json](./374076-shadowbound.json) |
 | Shadowcaster | 268461 | [268461-shadowcaster.json](./268461-shadowcaster.json) |
+| Shadowfax | 77333 | [77333-shadowfax.json](./77333-shadowfax.json) |
 | Shadowgate 2 | 291480 | [291480-shadowgate-2.json](./291480-shadowgate-2.json) |
 | Shadowgate Classic | 8699 | [8699-shadowgate-classic.json](./8699-shadowgate-classic.json) |
 | Shadowgate: MacVenture Series | 35911 | [35911-shadowgate-macventure-series.json](./35911-shadowgate-macventure-series.json) |
@@ -2012,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
+| Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Night | 110391 | [110391-silent-night.json](./110391-silent-night.json) |
 | Silent Night: A Christmas Delivery | 158667 | [158667-silent-night-a-christmas-delivery.json](./158667-silent-night-a-christmas-delivery.json) |
@@ -2215,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
 | Singstar: Portugal Hits | 91953 | [91953-singstar-portugal-hits.json](./91953-singstar-portugal-hits.json) |
 | Singstar: SuomiHitit | 91884 | [91884-singstar-suomihitit.json](./91884-singstar-suomihitit.json) |
+| Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
 | Singulier | 413634 | [413634-singulier.json](./413634-singulier.json) |
@@ -4738,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Legends - Complete Edition | 331851 | [331851-star-trek-legends-complete-edition.json](./331851-star-trek-legends-complete-edition.json) |
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
+| Star Trek: Voyager - Elite Force Expansion Pack | 77313 | [77313-star-trek-voyager-elite-force-expansion-pack.json](./77313-star-trek-voyager-elite-force-expansion-pack.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
 | Star Troopers: Combat Force | 411568 | [411568-star-troopers-combat-force.json](./411568-star-troopers-combat-force.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
@@ -5078,6 +5085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Hunters | 301568 | [301568-steel-hunters.json](./301568-steel-hunters.json) |
 | Steel Judgment | 329589 | [329589-steel-judgment.json](./329589-steel-judgment.json) |
 | Steel Manticore | 295016 | [295016-steel-manticore.json](./295016-steel-manticore.json) |
+| Steel Panthers II: Modern Battles - Campaign Disk | 77314 | [77314-steel-panthers-ii-modern-battles-campaign-disk.json](./77314-steel-panthers-ii-modern-battles-campaign-disk.json) |
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
 | Steel Ranger | 179658 | [179658-steel-ranger.json](./179658-steel-ranger.json) |
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
@@ -5420,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
 | Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
 | Street Fighter IV | 884 | [884-street-fighter-iv.json](./884-street-fighter-iv.json) |
+| Street Fighter IV Volt: Battle Protocol | 77315 | [77315-street-fighter-iv-volt-battle-protocol.json](./77315-street-fighter-iv-volt-battle-protocol.json) |
 | Street Fighter IV: Champion Edition | 77952 | [77952-street-fighter-iv-champion-edition.json](./77952-street-fighter-iv-champion-edition.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
@@ -6299,6 +6308,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Markup Man | 32037 | [32037-super-markup-man.json](./32037-super-markup-man.json) |
 | Super Masao 2 | 165061 | [165061-super-masao-2.json](./165061-super-masao-2.json) |
 | Super Maura Bros. 3 | 267386 | [267386-super-maura-bros-3.json](./267386-super-maura-bros-3.json) |
+| Super Meat Boy Handheld! | 77317 | [77317-super-meat-boy-handheld.json](./77317-super-meat-boy-handheld.json) |
+| Super Meat Boy: The Game | 77316 | [77316-super-meat-boy-the-game.json](./77316-super-meat-boy-the-game.json) |
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
 | Super Meat Shooter: Happy Meat Winter | 172116 | [172116-super-meat-shooter-happy-meat-winter.json](./172116-super-meat-shooter-happy-meat-winter.json) |
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
@@ -6616,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
 | Surbird | 292555 | [292555-surbird.json](./292555-surbird.json) |
 | Sure Shot | 355543 | [355543-sure-shot.json](./355543-sure-shot.json) |
+| Surf 'm Up! | 77331 | [77331-surf-m-up.json](./77331-surf-m-up.json) |
 | Surf 'n Safari | 93574 | [93574-surf-n-safari.json](./93574-surf-n-safari.json) |
 | Surf & Turf Bundle | 308581 | [308581-surf-and-turf-bundle.json](./308581-surf-and-turf-bundle.json) |
 | Surf's Up | 4191 | [4191-surfs-up.json](./4191-surfs-up.json) |
