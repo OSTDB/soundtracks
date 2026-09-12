@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jayce | 177500 | [177500-jayce.json](./177500-jayce.json) |
 | Jazz and Faust | 127331 | [127331-jazz-and-faust.json](./127331-jazz-and-faust.json) |
 | Jazz It Up | 177994 | [177994-jazz-it-up.json](./177994-jazz-it-up.json) |
+| Jazz Jackrabbit 3 | 72667 | [72667-jazz-jackrabbit-3.json](./72667-jazz-jackrabbit-3.json) |
 | Jazz Lightning : Castle Dungeons | 126644 | [126644-jazz-lightning-castle-dungeons.json](./126644-jazz-lightning-castle-dungeons.json) |
 | Jazz Time | 181316 | [181316-jazz-time.json](./181316-jazz-time.json) |
 | Jazzpunk: Flavour Nexus | 124832 | [124832-jazzpunk-flavour-nexus.json](./124832-jazzpunk-flavour-nexus.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigoku Hell | 178025 | [178025-jigoku-hell.json](./178025-jigoku-hell.json) |
 | Jigoku Nagashi | 229695 | [229695-jigoku-nagashi.json](./229695-jigoku-nagashi.json) |
 | Jigoku Seek | 308251 | [308251-jigoku-seek.json](./308251-jigoku-seek.json) |
+| Jigoku Shoujo: Akekazura | 72615 | [72615-jigoku-shoujo-akekazura.json](./72615-jigoku-shoujo-akekazura.json) |
 | Jigoku Train | 314069 | [314069-jigoku-train.json](./314069-jigoku-train.json) |
 | Jigoku Unko | 151195 | [151195-jigoku-unko.json](./151195-jigoku-unko.json) |
 | Jigsaw | 7863 | [7863-jigsaw.json](./7863-jigsaw.json) |
@@ -496,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journalist | 186906 | [186906-journalist.json](./186906-journalist.json) |
 | Journey Escape | 22415 | [22415-journey-escape.json](./22415-journey-escape.json) |
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
+| Journey From Darkness: Strider Returns | 72621 | [72621-journey-from-darkness-strider-returns.json](./72621-journey-from-darkness-strider-returns.json) |
 | Journey Into Darkness | 243122 | [243122-journey-into-darkness.json](./243122-journey-into-darkness.json) |
 | Journey of Carrying Light | 369575 | [369575-journey-of-carrying-light.json](./369575-journey-of-carrying-light.json) |
 | Journey of Greed | 116510 | [116510-journey-of-greed.json](./116510-journey-of-greed.json) |
