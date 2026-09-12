@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World at War: WW2 Strategy MMO | 141899 | [141899-world-at-war-ww2-strategy-mmo.json](./141899-world-at-war-ww2-strategy-mmo.json) |
 | World Beast War | 138230 | [138230-world-beast-war.json](./138230-world-beast-war.json) |
 | World Bowling | 49005 | [49005-world-bowling.json](./49005-world-bowling.json) |
+| World Boxing | 48599 | [48599-world-boxing.json](./48599-world-boxing.json) |
 | World Boxing Challenge | 237372 | [237372-world-boxing-challenge.json](./237372-world-boxing-challenge.json) |
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
