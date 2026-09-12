@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Puzzlers: Synthwave Vampires | 341502 | [341502-og-puzzlers-synthwave-vampires.json](./341502-og-puzzlers-synthwave-vampires.json) |
 | OGame | 17257 | [17257-ogame.json](./17257-ogame.json) |
 | Ogantto | 349332 | [349332-ogantto.json](./349332-ogantto.json) |
+| Ogre Battle Gaiden | 66085 | [66085-ogre-battle-gaiden.json](./66085-ogre-battle-gaiden.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
 | Ogu and the Secret Forest | 200923 | [200923-ogu-and-the-secret-forest.json](./200923-ogu-and-the-secret-forest.json) |
 | Oh Baby! Kart | 278139 | [278139-oh-baby-kart.json](./278139-oh-baby-kart.json) |
@@ -1120,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Outage | 265964 | [265964-outer-outage.json](./265964-outer-outage.json) |
 | Outer Rat | 143020 | [143020-outer-rat.json](./143020-outer-rat.json) |
+| Outer-Rim Pod Digger | 66058 | [66058-outer-rim-pod-digger.json](./66058-outer-rim-pod-digger.json) |
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
