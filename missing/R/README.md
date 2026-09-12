@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Karts | 186913 | [186913-racing-karts.json](./186913-racing-karts.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Pitch | 70955 | [70955-racing-pitch.json](./70955-racing-pitch.json) |
+| Racing Rivals | 38904 | [38904-racing-rivals.json](./38904-racing-rivals.json) |
 | Racing Royale | 390012 | [390012-racing-royale.json](./390012-racing-royale.json) |
 | Racing Rush | 234608 | [234608-racing-rush.json](./234608-racing-rush.json) |
 | Racing Stars | 295274 | [295274-racing-stars.json](./295274-racing-stars.json) |
@@ -851,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redshift VR | 111067 | [111067-redshift-vr.json](./111067-redshift-vr.json) |
 | Redstream | 392134 | [392134-redstream.json](./392134-redstream.json) |
 | Redswood VR | 32103 | [32103-redswood-vr.json](./32103-redswood-vr.json) |
+| ReDungeon | 38943 | [38943-redungeon.json](./38943-redungeon.json) |
 | Redviil | 114970 | [114970-redviil.json](./114970-redviil.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
@@ -1505,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Adventure | 153958 | [153958-rift-adventure.json](./153958-rift-adventure.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
+| Rift Mobile | 38902 | [38902-rift-mobile.json](./38902-rift-mobile.json) |
 | Rift of the Necrodancer: Undertale - "Spider Dance" - Toby Fox | 398364 | [398364-rift-of-the-necrodancer-undertale-spider-dance-toby-fox.json](./398364-rift-of-the-necrodancer-undertale-spider-dance-toby-fox.json) |
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Runner | 143013 | [143013-rift-runner.json](./143013-rift-runner.json) |
@@ -1665,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RitualSummon | 201253 | [201253-ritualsummon.json](./201253-ritualsummon.json) |
 | Rivage | 380416 | [380416-rivage.json](./380416-rivage.json) |
 | Rivais Em Batalha | 90579 | [90579-rivais-em-batalha.json](./90579-rivais-em-batalha.json) |
+| Rival Books of Aster | 38965 | [38965-rival-books-of-aster.json](./38965-rival-books-of-aster.json) |
 | Rival Fury | 188648 | [188648-rival-fury.json](./188648-rival-fury.json) |
 | Rival Kingdoms | 126044 | [126044-rival-kingdoms.json](./126044-rival-kingdoms.json) |
 | Rival Knights | 22393 | [22393-rival-knights.json](./22393-rival-knights.json) |
@@ -2295,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoundRunners Playground | 253608 | [253608-roundrunners-playground.json](./253608-roundrunners-playground.json) |
 | Roundscape Adorevia | 82881 | [82881-roundscape-adorevia.json](./82881-roundscape-adorevia.json) |
 | RoundUrbs | 350413 | [350413-roundurbs.json](./350413-roundurbs.json) |
+| Roundy | 38919 | [38919-roundy.json](./38919-roundy.json) |
 | RoundZ | 371910 | [371910-roundz.json](./371910-roundz.json) |
 | Route Candle for Steam | 90560 | [90560-route-candle-for-steam.json](./90560-route-candle-for-steam.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
@@ -2633,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
+| Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
