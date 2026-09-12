@@ -190,7 +190,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
 | Abunai Koi no Sousashitsu | 197859 | [197859-abunai-koi-no-sousashitsu.json](./197859-abunai-koi-no-sousashitsu.json) |
 | Abunai Tengu Densetsu | 299786 | [299786-abunai-tengu-densetsu.json](./299786-abunai-tengu-densetsu.json) |
-| Abysm 2: Pharaoh's Judgement | 201229 | [201229-abysm-2-pharaohs-judgement.json](./201229-abysm-2-pharaohs-judgement.json) |
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
 | Abyss | 210669 | [210669-abyss.json](./210669-abyss.json) |
 | Abyss | 265405 | [265405-abyss.json](./265405-abyss.json) |
