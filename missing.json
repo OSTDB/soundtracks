@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T18:51:38.682Z",
-  "total_missing": 62982,
+  "generated_at": "2026-09-12T19:01:38.280Z",
+  "total_missing": 62995,
   "games": [
     {
       "igdb_id": 306086,
@@ -3101,11 +3101,6 @@
       "igdb_id": 332446,
       "game_name": "Abyss Chaser",
       "file": "missing/A/332446-abyss-chaser.json"
-    },
-    {
-      "igdb_id": 157152,
-      "game_name": "Abyss Infection",
-      "file": "missing/A/157152-abyss-infection.json"
     },
     {
       "igdb_id": 306976,
@@ -13558,6 +13553,11 @@
       "file": "missing/A/38985-aralon-sword-and-shadow.json"
     },
     {
+      "igdb_id": 39621,
+      "game_name": "Arbalester",
+      "file": "missing/A/39621-arbalester.json"
+    },
+    {
       "igdb_id": 315257,
       "game_name": "Arboneer",
       "file": "missing/A/315257-arboneer.json"
@@ -18113,6 +18113,11 @@
       "file": "missing/A/283949-atomic-owl.json"
     },
     {
+      "igdb_id": 39619,
+      "game_name": "Atomic Point",
+      "file": "missing/A/39619-atomic-point.json"
+    },
+    {
       "igdb_id": 234069,
       "game_name": "Atomic Pursuit",
       "file": "missing/A/234069-atomic-pursuit.json"
@@ -18486,6 +18491,11 @@
       "igdb_id": 181358,
       "game_name": "Auraboros",
       "file": "missing/A/181358-auraboros.json"
+    },
+    {
+      "igdb_id": 39618,
+      "game_name": "Aurail",
+      "file": "missing/A/39618-aurail.json"
     },
     {
       "igdb_id": 327602,
@@ -24583,6 +24593,11 @@
       "file": "missing/B/62677-baxters-venture.json"
     },
     {
+      "igdb_id": 39616,
+      "game_name": "Bay Route",
+      "file": "missing/B/39616-bay-route.json"
+    },
+    {
       "igdb_id": 124134,
       "game_name": "Bayala: The Game",
       "file": "missing/B/124134-bayala-the-game.json"
@@ -27248,6 +27263,11 @@
       "file": "missing/B/137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json"
     },
     {
+      "igdb_id": 39614,
+      "game_name": "Big Karnak",
+      "file": "missing/B/39614-big-karnak.json"
+    },
+    {
       "igdb_id": 168335,
       "game_name": "Big Klondike: Classic Solitaire",
       "file": "missing/B/168335-big-klondike-classic-solitaire.json"
@@ -27986,6 +28006,11 @@
       "igdb_id": 380402,
       "game_name": "BioMech Vendetta",
       "file": "missing/B/380402-biomech-vendetta.json"
+    },
+    {
+      "igdb_id": 39613,
+      "game_name": "Biomechanical Toy",
+      "file": "missing/B/39613-biomechanical-toy.json"
     },
     {
       "igdb_id": 275877,
@@ -30706,6 +30731,11 @@
       "igdb_id": 34380,
       "game_name": "Blood Bowl: Kerrunch",
       "file": "missing/B/34380-blood-bowl-kerrunch.json"
+    },
+    {
+      "igdb_id": 39612,
+      "game_name": "Blood Bros.",
+      "file": "missing/B/39612-blood-bros.json"
     },
     {
       "igdb_id": 127892,
@@ -38638,6 +38668,11 @@
       "file": "missing/C/192403-californication.json"
     },
     {
+      "igdb_id": 39610,
+      "game_name": "Calipso",
+      "file": "missing/C/39610-calipso.json"
+    },
+    {
       "igdb_id": 292311,
       "game_name": "Call Center Tycoon",
       "file": "missing/C/292311-call-center-tycoon.json"
@@ -44111,6 +44146,11 @@
       "igdb_id": 196918,
       "game_name": "Check it Out!",
       "file": "missing/C/196918-check-it-out.json"
+    },
+    {
+      "igdb_id": 39609,
+      "game_name": "Check Man",
+      "file": "missing/C/39609-check-man.json"
     },
     {
       "igdb_id": 40815,
@@ -61546,6 +61586,11 @@
       "igdb_id": 1391,
       "game_name": "Dead or Alive 1 Ultimate",
       "file": "missing/D/1391-dead-or-alive-1-ultimate.json"
+    },
+    {
+      "igdb_id": 39623,
+      "game_name": "Dead or Alive 2 Millennium",
+      "file": "missing/D/39623-dead-or-alive-2-millennium.json"
     },
     {
       "igdb_id": 47302,
@@ -128041,6 +128086,11 @@
       "igdb_id": 95388,
       "game_name": "Invasion",
       "file": "missing/I/95388-invasion.json"
+    },
+    {
+      "igdb_id": 39624,
+      "game_name": "Invasion - The Abductors",
+      "file": "missing/I/39624-invasion-the-abductors.json"
     },
     {
       "igdb_id": 258218,
@@ -243978,6 +244028,11 @@
       "file": "missing/S/39626-stakes-winner.json"
     },
     {
+      "igdb_id": 39625,
+      "game_name": "Stakes Winner 2",
+      "file": "missing/S/39625-stakes-winner-2.json"
+    },
+    {
       "igdb_id": 321393,
       "game_name": "Stalcraft",
       "file": "missing/S/321393-stalcraft.json"
@@ -263773,6 +263828,11 @@
       "file": "missing/T/366859-the-battle-of-polytopia-yorthwober.json"
     },
     {
+      "igdb_id": 39617,
+      "game_name": "The Battle Road",
+      "file": "missing/T/39617-the-battle-road.json"
+    },
+    {
       "igdb_id": 210900,
       "game_name": "The Battles for Abunka",
       "file": "missing/T/210900-the-battles-for-abunka.json"
@@ -263861,6 +263921,11 @@
       "igdb_id": 60517,
       "game_name": "The Berks Trilogy",
       "file": "missing/T/60517-the-berks-trilogy.json"
+    },
+    {
+      "igdb_id": 39615,
+      "game_name": "The Berlin Wall",
+      "file": "missing/T/39615-the-berlin-wall.json"
     },
     {
       "igdb_id": 97910,
