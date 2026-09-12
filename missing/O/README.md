@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Otter Climb | 341495 | [341495-ocean-otter-climb.json](./341495-ocean-otter-climb.json) |
 | Ocean Planet | 301811 | [301811-ocean-planet.json](./301811-ocean-planet.json) |
 | Ocean Playground | 341496 | [341496-ocean-playground.json](./341496-ocean-playground.json) |
+| Ocean's Crabellum | 74372 | [74372-oceans-crabellum.json](./74372-oceans-crabellum.json) |
 | Oceanhorn: Monster of Uncharted Seas | 18975 | [18975-oceanhorn-monster-of-uncharted-seas.json](./18975-oceanhorn-monster-of-uncharted-seas.json) |
 | Oceanopolis 2000 | 398361 | [398361-oceanopolis-2000.json](./398361-oceanopolis-2000.json) |
 | Oceans | 224563 | [224563-oceans.json](./224563-oceans.json) |
