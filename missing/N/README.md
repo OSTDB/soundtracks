@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuralimina | 382215 | [382215-neuralimina.json](./382215-neuralimina.json) |
 | Neuro | 141857 | [141857-neuro.json](./141857-neuro.json) |
 | Neuro Hacker | 278733 | [278733-neuro-hacker.json](./278733-neuro-hacker.json) |
+| Neuro Hunter | 71491 | [71491-neuro-hunter.json](./71491-neuro-hunter.json) |
 | Neuro Nightmare | 340949 | [340949-neuro-nightmare.json](./340949-neuro-nightmare.json) |
 | Neurocracy | 172662 | [172662-neurocracy.json](./172662-neurocracy.json) |
 | Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
