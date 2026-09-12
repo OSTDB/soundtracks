@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talon City: Death from Above | 214173 | [214173-talon-city-death-from-above.json](./214173-talon-city-death-from-above.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
+| Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
 | Tamagotchi Angel | 320176 | [320176-tamagotchi-angel.json](./320176-tamagotchi-angel.json) |
@@ -2122,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
+| The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
 | The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
@@ -4877,6 +4879,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Tripper | 209128 | [209128-time-tripper.json](./209128-time-tripper.json) |
 | Time Tunnel | 12968 | [12968-time-tunnel.json](./12968-time-tunnel.json) |
 | Time Turned | 291469 | [291469-time-turned.json](./291469-time-turned.json) |
+| Time Twist: Rekishi no Katasumi de... - Kouhen | 41360 | [41360-time-twist-rekishi-no-katasumi-de-kouhen.json](./41360-time-twist-rekishi-no-katasumi-de-kouhen.json) |
+| Time Twist: Rekishi no Katasumi de... - Zenpen | 41361 | [41361-time-twist-rekishi-no-katasumi-de-zenpen.json](./41361-time-twist-rekishi-no-katasumi-de-zenpen.json) |
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
@@ -5000,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic | 74430 | [74430-titanic.json](./74430-titanic.json) |
 | Titanic Escape Simulator | 411584 | [411584-titanic-escape-simulator.json](./411584-titanic-escape-simulator.json) |
 | Titanic II: Orchestra for Dying at Sea | 204471 | [204471-titanic-ii-orchestra-for-dying-at-sea.json](./204471-titanic-ii-orchestra-for-dying-at-sea.json) |
+| Titanic Mystery: Ao no Senritsu | 41312 | [41312-titanic-mystery-ao-no-senritsu.json](./41312-titanic-mystery-ao-no-senritsu.json) |
 | Titanic: Iceberg Ahead | 91966 | [91966-titanic-iceberg-ahead.json](./91966-titanic-iceberg-ahead.json) |
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
@@ -5395,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topper Carrier | 152830 | [152830-topper-carrier.json](./152830-topper-carrier.json) |
 | Topple Adventure | 214490 | [214490-topple-adventure.json](./214490-topple-adventure.json) |
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
+| Topple Zip | 41316 | [41316-topple-zip.json](./41316-topple-zip.json) |
 | TopplePop: Bungee Blockbusters | 124211 | [124211-topplepop-bungee-blockbusters.json](./124211-topplepop-bungee-blockbusters.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
