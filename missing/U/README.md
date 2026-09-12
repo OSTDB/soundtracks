@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultim@te Race Pro | 131542 | [131542-ultim-te-race-pro.json](./131542-ultim-te-race-pro.json) |
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
 | Ultima Chess VR | 346587 | [346587-ultima-chess-vr.json](./346587-ultima-chess-vr.json) |
+| Ultima Online: Age of Shadows | 69219 | [69219-ultima-online-age-of-shadows.json](./69219-ultima-online-age-of-shadows.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
 | Ultima: Escape from Mt. Drash | 24951 | [24951-ultima-escape-from-mt-drash.json](./24951-ultima-escape-from-mt-drash.json) |
 | Ultima: Exodus | 48049 | [48049-ultima-exodus.json](./48049-ultima-exodus.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Bomb Squad | 142465 | [142465-ultimate-bomb-squad.json](./142465-ultimate-bomb-squad.json) |
 | Ultimate Car Driving: Classics | 96775 | [96775-ultimate-car-driving-classics.json](./96775-ultimate-car-driving-classics.json) |
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
+| Ultimate Casino 3 Pack | 69246 | [69246-ultimate-casino-3-pack.json](./69246-ultimate-casino-3-pack.json) |
 | Ultimate Chess 3D | 91895 | [91895-ultimate-chess-3d.json](./91895-ultimate-chess-3d.json) |
 | Ultimate Chicken Horse | 18158 | [18158-ultimate-chicken-horse.json](./18158-ultimate-chicken-horse.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
@@ -164,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Under Water | 155658 | [155658-ultimate-under-water.json](./155658-ultimate-under-water.json) |
 | Ultimate Vitality of Imagination | 210685 | [210685-ultimate-vitality-of-imagination.json](./210685-ultimate-vitality-of-imagination.json) |
 | Ultimate Wall Defense Force | 149566 | [149566-ultimate-wall-defense-force.json](./149566-ultimate-wall-defense-force.json) |
+| Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
 | Ultimaze | 206716 | [206716-ultimaze.json](./206716-ultimaze.json) |
 | Ultionus: A Tale of Petty Revenge | 36408 | [36408-ultionus-a-tale-of-petty-revenge.json](./36408-ultionus-a-tale-of-petty-revenge.json) |
 | Ultire: Balls Out | 124259 | [124259-ultire-balls-out.json](./124259-ultire-balls-out.json) |
