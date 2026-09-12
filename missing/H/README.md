@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
 | Halloween in Hollywood | 234043 | [234043-halloween-in-hollywood.json](./234043-halloween-in-hollywood.json) |
 | Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
+| Halloween Mysteries | 30806 | [30806-halloween-mysteries.json](./30806-halloween-mysteries.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween Pinball | 89159 | [89159-halloween-pinball.json](./89159-halloween-pinball.json) |
 | Halloween Pumpkin Story | 74380 | [74380-halloween-pumpkin-story.json](./74380-halloween-pumpkin-story.json) |
@@ -2003,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
+| Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizons Light | 376466 | [376466-horizons-light.json](./376466-horizons-light.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
