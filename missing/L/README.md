@@ -1803,6 +1803,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Slots | 242551 | [242551-lucky-slots.json](./242551-lucky-slots.json) |
 | Lucky Spider Solitaire | 87141 | [87141-lucky-spider-solitaire.json](./87141-lucky-spider-solitaire.json) |
 | Lucky Stamina | 213992 | [213992-lucky-stamina.json](./213992-lucky-stamina.json) |
+| Lucky Star: Moe Drill | 72618 | [72618-lucky-star-moe-drill.json](./72618-lucky-star-moe-drill.json) |
+| Lucky Star: Ryouou Gakuen Outousai | 72617 | [72617-lucky-star-ryouou-gakuen-outousai.json](./72617-lucky-star-ryouou-gakuen-outousai.json) |
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
