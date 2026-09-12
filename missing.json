@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T08:31:38.863Z",
-  "total_missing": 61226,
+  "generated_at": "2026-09-12T08:41:33.254Z",
+  "total_missing": 61228,
   "games": [
     {
       "igdb_id": 306086,
@@ -2781,11 +2781,6 @@
       "igdb_id": 215127,
       "game_name": "Abarenbou Tengu",
       "file": "missing/A/215127-abarenbou-tengu.json"
-    },
-    {
-      "igdb_id": 201766,
-      "game_name": "Abashment",
-      "file": "missing/A/201766-abashment.json"
     },
     {
       "igdb_id": 147459,
@@ -9616,6 +9611,11 @@
       "igdb_id": 311279,
       "game_name": "Ambush in Sector 9",
       "file": "missing/A/311279-ambush-in-sector-9.json"
+    },
+    {
+      "igdb_id": 61604,
+      "game_name": "Ambush Tactics",
+      "file": "missing/A/61604-ambush-tactics.json"
     },
     {
       "igdb_id": 154559,
@@ -142163,6 +142163,11 @@
       "file": "missing/L/98464-little-adventurer.json"
     },
     {
+      "igdb_id": 61607,
+      "game_name": "Little Adventurer II",
+      "file": "missing/L/61607-little-adventurer-ii.json"
+    },
+    {
       "igdb_id": 83547,
       "game_name": "Little Adventurer III",
       "file": "missing/L/83547-little-adventurer-iii.json"
@@ -252366,6 +252371,11 @@
       "igdb_id": 155088,
       "game_name": "Tank Warfare: Operation Pugilist",
       "file": "missing/T/155088-tank-warfare-operation-pugilist.json"
+    },
+    {
+      "igdb_id": 61609,
+      "game_name": "Tank Warz!",
+      "file": "missing/T/61609-tank-warz.json"
     },
     {
       "igdb_id": 78682,
