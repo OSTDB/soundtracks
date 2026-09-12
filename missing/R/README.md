@@ -1810,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock'n'Roll: Card Wargame | 163957 | [163957-rocknroll-card-wargame.json](./163957-rocknroll-card-wargame.json) |
 | Rocka Feller | 100122 | [100122-rocka-feller.json](./100122-rocka-feller.json) |
 | Rockabilly Kid | 171549 | [171549-rockabilly-kid.json](./171549-rockabilly-kid.json) |
+| Rockaroids | 63808 | [63808-rockaroids.json](./63808-rockaroids.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
 | Rocket Bits | 196311 | [196311-rocket-bits.json](./196311-rocket-bits.json) |
 | Rocket Bunnies | 208387 | [208387-rocket-bunnies.json](./208387-rocket-bunnies.json) |
