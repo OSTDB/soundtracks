@@ -163,7 +163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Abondoned Village | 277282 | [277282-abondoned-village.json](./277282-abondoned-village.json) |
-| Abort | 291211 | [291211-abort.json](./291211-abort.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About Cannons & Sparrows | 258181 | [258181-about-cannons-and-sparrows.json](./258181-about-cannons-and-sparrows.json) |
 | About Fishing | 380410 | [380410-about-fishing.json](./380410-about-fishing.json) |
