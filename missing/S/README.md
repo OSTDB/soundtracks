@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Mysteries in London | 84900 | [84900-secret-mysteries-in-london.json](./84900-secret-mysteries-in-london.json) |
 | Secret Mysteries in New York | 84899 | [84899-secret-mysteries-in-new-york.json](./84899-secret-mysteries-in-new-york.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
+| Secret of the Royal Throne | 32913 | [32913-secret-of-the-royal-throne.json](./32913-secret-of-the-royal-throne.json) |
 | Secret of the Solstice | 307331 | [307331-secret-of-the-solstice.json](./307331-secret-of-the-solstice.json) |
 | Secret Paths to the Sea | 70382 | [70382-secret-paths-to-the-sea.json](./70382-secret-paths-to-the-sea.json) |
 | Secret Paws: Cozy Apartments | 363887 | [363887-secret-paws-cozy-apartments.json](./363887-secret-paws-cozy-apartments.json) |
@@ -1404,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Road | 124209 | [124209-shadow-of-the-road.json](./124209-shadow-of-the-road.json) |
 | Shadow of the Tomb Raider: The Path Home | 117711 | [117711-shadow-of-the-tomb-raider-the-path-home.json](./117711-shadow-of-the-tomb-raider-the-path-home.json) |
 | Shadow of Winter | 374067 | [374067-shadow-of-winter.json](./374067-shadow-of-winter.json) |
+| Shadow Over Isolation | 32944 | [32944-shadow-over-isolation.json](./32944-shadow-over-isolation.json) |
 | Shadow Over Normoth | 183057 | [183057-shadow-over-normoth.json](./183057-shadow-over-normoth.json) |
 | Shadow Overlord: The Beginning | 272264 | [272264-shadow-overlord-the-beginning.json](./272264-shadow-overlord-the-beginning.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
@@ -2490,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketch Doom | 247518 | [247518-sketch-doom.json](./247518-sketch-doom.json) |
 | Sketch of a job that you had | 184090 | [184090-sketch-of-a-job-that-you-had.json](./184090-sketch-of-a-job-that-you-had.json) |
 | Sketch! Run! | 105886 | [105886-sketch-run.json](./105886-sketch-run.json) |
+| Sketchfab VR | 32920 | [32920-sketchfab-vr.json](./32920-sketchfab-vr.json) |
 | Sketchful.io | 122975 | [122975-sketchful-io.json](./122975-sketchful-io.json) |
 | Sketchy | 54461 | [54461-sketchy.json](./54461-sketchy.json) |
 | Sketchy 2 | 54460 | [54460-sketchy-2.json](./54460-sketchy-2.json) |
@@ -2634,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
 | SkyOfSteel | 177017 | [177017-skyofsteel.json](./177017-skyofsteel.json) |
 | Skypop Scramble | 323750 | [323750-skypop-scramble.json](./323750-skypop-scramble.json) |
+| Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
 | Skyshine's Bedlam Redux! | 51904 | [51904-skyshines-bedlam-redux.json](./51904-skyshines-bedlam-redux.json) |
@@ -2754,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
+| Slide Ride Arcade | 32985 | [32985-slide-ride-arcade.json](./32985-slide-ride-arcade.json) |
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
 | SlideNSlip | 166774 | [166774-slidenslip.json](./166774-slidenslip.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
@@ -4189,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Stella: The Unknown Planet | 187468 | [187468-space-stella-the-unknown-planet.json](./187468-space-stella-the-unknown-planet.json) |
 | Space Stranger | 252730 | [252730-space-stranger.json](./252730-space-stranger.json) |
 | Space Subtraction | 310971 | [310971-space-subtraction.json](./310971-space-subtraction.json) |
+| Space Survival | 32932 | [32932-space-survival.json](./32932-space-survival.json) |
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
 | Space Tail: Every Journey Leads Home - Deluxe Edition | 241400 | [241400-space-tail-every-journey-leads-home-deluxe-edition.json](./241400-space-tail-every-journey-leads-home-deluxe-edition.json) |
 | Space Tail: Homecoming | 230820 | [230820-space-tail-homecoming.json](./230820-space-tail-homecoming.json) |
@@ -4446,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellForce 3: Versus | 144290 | [144290-spellforce-3-versus.json](./144290-spellforce-3-versus.json) |
 | SpellForce: Heroes & Magic | 118373 | [118373-spellforce-heroes-and-magic.json](./118373-spellforce-heroes-and-magic.json) |
 | SpellForce: Universe | 78728 | [78728-spellforce-universe.json](./78728-spellforce-universe.json) |
+| Spellforge | 32864 | [32864-spellforge.json](./32864-spellforge.json) |
 | Spellic | 207345 | [207345-spellic.json](./207345-spellic.json) |
 | Spelling Bee | 206122 | [206122-spelling-bee.json](./206122-spelling-bee.json) |
 | Spelling Challenges | 47952 | [47952-spelling-challenges.json](./47952-spelling-challenges.json) |
@@ -5403,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam-Heart's | 45973 | [45973-steam-hearts.json](./45973-steam-hearts.json) |
 | Steamboat Billy: The Curse of the Leviathan | 102090 | [102090-steamboat-billy-the-curse-of-the-leviathan.json](./102090-steamboat-billy-the-curse-of-the-leviathan.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
+| SteamDolls | 33028 | [33028-steamdolls.json](./33028-steamdolls.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
 | Steamed Hams: The Graphic Adventure | 188591 | [188591-steamed-hams-the-graphic-adventure.json](./188591-steamed-hams-the-graphic-adventure.json) |
 | SteamForge | 339666 | [339666-steamforge.json](./339666-steamforge.json) |
@@ -5845,6 +5853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Warrior | 44621 | [44621-street-warrior.json](./44621-street-warrior.json) |
 | Street-food Tycoon Chef Fever: World Cook-ing Star | 248067 | [248067-street-food-tycoon-chef-fever-world-cook-ing-star.json](./248067-street-food-tycoon-chef-fever-world-cook-ing-star.json) |
 | Streetbike: Full Blast | 20722 | [20722-streetbike-full-blast.json](./20722-streetbike-full-blast.json) |
+| StreetCraft | 32933 | [32933-streetcraft.json](./32933-streetcraft.json) |
 | StreetCricket | 105902 | [105902-streetcricket.json](./105902-streetcricket.json) |
 | Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
 | Streets of Fortuna | 305186 | [305186-streets-of-fortuna.json](./305186-streets-of-fortuna.json) |
@@ -6172,6 +6181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sulkyland | 214529 | [214529-sulkyland.json](./214529-sulkyland.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
+| Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
 | Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
 | Sumeru | 32210 | [32210-sumeru.json](./32210-sumeru.json) |
 | Sumi Sumi | 108511 | [108511-sumi-sumi.json](./108511-sumi-sumi.json) |
@@ -6324,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
 | Super Bloo Kid Adventure | 219582 | [219582-super-bloo-kid-adventure.json](./219582-super-bloo-kid-adventure.json) |
 | Super Blood Hockey | 31160 | [31160-super-blood-hockey.json](./31160-super-blood-hockey.json) |
+| Super Blue Fighter | 32965 | [32965-super-blue-fighter.json](./32965-super-blue-fighter.json) |
 | Super Bo Noise | 316988 | [316988-super-bo-noise.json](./316988-super-bo-noise.json) |
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
@@ -7127,6 +7138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surrealidade: Definitive Edition | 235770 | [235770-surrealidade-definitive-edition.json](./235770-surrealidade-definitive-edition.json) |
 | Surreality | 71008 | [71008-surreality.json](./71008-surreality.json) |
 | Surreality Check | 387376 | [387376-surreality-check.json](./387376-surreality-check.json) |
+| SurrealVR | 33030 | [33030-surrealvr.json](./33030-surrealvr.json) |
 | Surv | 51986 | [51986-surv.json](./51986-surv.json) |
 | Survarium: Vepr 'Molot' | 171054 | [171054-survarium-vepr-molot.json](./171054-survarium-vepr-molot.json) |
 | Surveillance | 267684 | [267684-surveillance.json](./267684-surveillance.json) |
