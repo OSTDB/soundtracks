@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Densetsu Pretty Fighter X | 64982 | [64982-seifuku-densetsu-pretty-fighter-x.json](./64982-seifuku-densetsu-pretty-fighter-x.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
+| Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seinarukana -The Spirit of Eternity Sword 2- | 24971 | [24971-seinarukana-the-spirit-of-eternity-sword-2.json](./24971-seinarukana-the-spirit-of-eternity-sword-2.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
@@ -5314,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Life 2 - Director's Cut | 100723 | [100723-still-life-2-directors-cut.json](./100723-still-life-2-directors-cut.json) |
 | Still Light | 339663 | [339663-still-light.json](./339663-still-light.json) |
 | Still Rooms | 415924 | [415924-still-rooms.json](./415924-still-rooms.json) |
+| Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
@@ -5357,6 +5359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
+| Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
 | Stop the Blight | 338748 | [338748-stop-the-blight.json](./338748-stop-the-blight.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
@@ -5771,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
 | Sudoku Deluxe | 86733 | [86733-sudoku-deluxe.json](./86733-sudoku-deluxe.json) |
 | Sudoku for Kids | 268481 | [268481-sudoku-for-kids.json](./268481-sudoku-for-kids.json) |
+| Sudoku for Kids | 67237 | [67237-sudoku-for-kids.json](./67237-sudoku-for-kids.json) |
 | Sudoku Gridmaster | 20538 | [20538-sudoku-gridmaster.json](./20538-sudoku-gridmaster.json) |
 | Sudoku HD | 97911 | [97911-sudoku-hd.json](./97911-sudoku-hd.json) |
 | Sudoku Jigsaw | 103418 | [103418-sudoku-jigsaw.json](./103418-sudoku-jigsaw.json) |
