@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus Magnum | 74545 | [74545-opus-magnum.json](./74545-opus-magnum.json) |
 | Opus: Collector's Edition | 186904 | [186904-opus-collectors-edition.json](./186904-opus-collectors-edition.json) |
 | Opus: Rocket of Whispers | 77569 | [77569-opus-rocket-of-whispers.json](./77569-opus-rocket-of-whispers.json) |
+| Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
 | Oracle: Threads of Fate | 89260 | [89260-oracle-threads-of-fate.json](./89260-oracle-threads-of-fate.json) |
 | Oracles Cave | 45365 | [45365-oracles-cave.json](./45365-oracles-cave.json) |
@@ -941,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orixo Hex | 232165 | [232165-orixo-hex.json](./232165-orixo-hex.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
+| Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
 | Orphan Feast | 306962 | [306962-orphan-feast.json](./306962-orphan-feast.json) |
 | Orphan of the Petal | 113766 | [113766-orphan-of-the-petal.json](./113766-orphan-of-the-petal.json) |
 | Orphans | 280206 | [280206-orphans.json](./280206-orphans.json) |
