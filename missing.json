@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T10:34:12.040Z",
-  "total_missing": 61619,
+  "generated_at": "2026-09-12T10:41:31.665Z",
+  "total_missing": 61618,
   "games": [
     {
       "igdb_id": 306086,
@@ -2841,11 +2841,6 @@
       "igdb_id": 111036,
       "game_name": "Abha",
       "file": "missing/A/111036-abha.json"
-    },
-    {
-      "igdb_id": 293628,
-      "game_name": "ABI-DOS",
-      "file": "missing/A/293628-abi-dos.json"
     },
     {
       "igdb_id": 210899,
