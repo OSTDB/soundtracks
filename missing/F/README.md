@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FightBit | 250956 | [250956-fightbit.json](./250956-fightbit.json) |
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
+| Fighter Wing | 73784 | [73784-fighter-wing.json](./73784-fighter-wing.json) |
 | Fighter X Fighter | 211947 | [211947-fighter-x-fighter.json](./211947-fighter-x-fighter.json) |
 | Fighter's Fury | 72082 | [72082-fighters-fury.json](./72082-fighters-fury.json) |
 | Fighters Wizards | 131595 | [131595-fighters-wizards.json](./131595-fighters-wizards.json) |
@@ -893,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Dawn | 227259 | [227259-final-dawn.json](./227259-final-dawn.json) |
 | Final Days | 33101 | [33101-final-days.json](./33101-final-days.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
+| Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
 | Final Factory | 236524 | [236524-final-factory.json](./236524-final-factory.json) |
 | Final Failure | 93629 | [93629-final-failure.json](./93629-final-failure.json) |
@@ -2034,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
 | Foundlings | 350439 | [350439-foundlings.json](./350439-foundlings.json) |
+| Fountain of Dreams | 73799 | [73799-fountain-of-dreams.json](./73799-fountain-of-dreams.json) |
 | Four Card Solitaire | 94675 | [94675-four-card-solitaire.json](./94675-four-card-solitaire.json) |
 | Four color jumps | 152905 | [152905-four-color-jumps.json](./152905-four-color-jumps.json) |
 | Four Course Combat | 149535 | [149535-four-course-combat.json](./149535-four-course-combat.json) |
