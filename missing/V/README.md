@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valorbound | 222900 | [222900-valorbound.json](./222900-valorbound.json) |
+| Valve Complete Pack | 55025 | [55025-valve-complete-pack.json](./55025-valve-complete-pack.json) |
 | Valyria Tear | 60586 | [60586-valyria-tear.json](./60586-valyria-tear.json) |
 | Valzar | 34391 | [34391-valzar.json](./34391-valzar.json) |
 | Vampirdzhija Vjedogonia | 130309 | [130309-vampirdzhija-vjedogonia.json](./130309-vampirdzhija-vjedogonia.json) |
@@ -311,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vending Mayhem | 276737 | [276737-vending-mayhem.json](./276737-vending-mayhem.json) |
 | Vendir: Plague of Lies | 190212 | [190212-vendir-plague-of-lies.json](./190212-vendir-plague-of-lies.json) |
 | Vengeance | 368470 | [368470-vengeance.json](./368470-vengeance.json) |
+| Vengeance | 55019 | [55019-vengeance.json](./55019-vengeance.json) |
 | Vengeance of Mr. Peppermint | 250012 | [250012-vengeance-of-mr-peppermint.json](./250012-vengeance-of-mr-peppermint.json) |
 | Vengeance/Justification | 395573 | [395573-vengeance-justification.json](./395573-vengeance-justification.json) |
 | VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
