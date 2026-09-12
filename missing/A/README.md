@@ -120,7 +120,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
-| A War On Christmas 3: World War C | 326632 | [326632-a-war-on-christmas-3-world-war-c.json](./326632-a-war-on-christmas-3-world-war-c.json) |
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
 | A Way Home Uzy's Journey | 339258 | [339258-a-way-home-uzys-journey.json](./339258-a-way-home-uzys-journey.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
