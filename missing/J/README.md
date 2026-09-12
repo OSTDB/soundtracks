@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam League Basketball | 237375 | [237375-jam-league-basketball.json](./237375-jam-league-basketball.json) |
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
+| Jamdat Word Craft | 71486 | [71486-jamdat-word-craft.json](./71486-jamdat-word-craft.json) |
 | James Bonk | 110285 | [110285-james-bonk.json](./110285-james-bonk.json) |
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
