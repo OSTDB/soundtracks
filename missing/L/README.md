@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
 | Laser Fortress | 318757 | [318757-laser-fortress.json](./318757-laser-fortress.json) |
 | Laser Harp VR | 357218 | [357218-laser-harp-vr.json](./357218-laser-harp-vr.json) |
+| Laser Lords | 45919 | [45919-laser-lords.json](./45919-laser-lords.json) |
 | Laser Push | 176430 | [176430-laser-push.json](./176430-laser-push.json) |
 | Laser Puzzle | 270413 | [270413-laser-puzzle.json](./270413-laser-puzzle.json) |
 | Laser Quest | 296069 | [296069-laser-quest.json](./296069-laser-quest.json) |
@@ -820,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letteral | 242795 | [242795-letteral.json](./242795-letteral.json) |
 | Letterally | 400861 | [400861-letterally.json](./400861-letterally.json) |
 | LetterBound | 151185 | [151185-letterbound.json](./151185-letterbound.json) |
+| Lettergreep | 45918 | [45918-lettergreep.json](./45918-lettergreep.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
 | Letters | 314307 | [314307-letters.json](./314307-letters.json) |
 | Letters & Legends | 292319 | [292319-letters-and-legends.json](./292319-letters-and-legends.json) |
@@ -1292,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
 | Livid Meadow | 271209 | [271209-livid-meadow.json](./271209-livid-meadow.json) |
+| Living Books: Little Monster at School | 45917 | [45917-living-books-little-monster-at-school.json](./45917-living-books-little-monster-at-school.json) |
 | Living Books: Stellaluna | 229068 | [229068-living-books-stellaluna.json](./229068-living-books-stellaluna.json) |
 | Living Cell | 253399 | [253399-living-cell.json](./253399-living-cell.json) |
 | Living Dark | 77355 | [77355-living-dark.json](./77355-living-dark.json) |
