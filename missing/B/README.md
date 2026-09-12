@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Defense | 127943 | [127943-base-defense.json](./127943-base-defense.json) |
 | Base Defense VR | 167804 | [167804-base-defense-vr.json](./167804-base-defense-vr.json) |
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
+| Base Squad 49 | 33026 | [33026-base-squad-49.json](./33026-base-squad-49.json) |
 | Baseball | 131527 | [131527-baseball.json](./131527-baseball.json) |
 | Baseball | 245560 | [245560-baseball.json](./245560-baseball.json) |
 | Baseball | 245561 | [245561-baseball.json](./245561-baseball.json) |
@@ -796,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Sun | 24338 | [24338-battle-for-the-sun.json](./24338-battle-for-the-sun.json) |
 | Battle for the Void | 248901 | [248901-battle-for-the-void.json](./248901-battle-for-the-void.json) |
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
+| Battle Forever | 32879 | [32879-battle-forever.json](./32879-battle-forever.json) |
 | Battle Fortress Defence | 200114 | [200114-battle-fortress-defence.json](./200114-battle-fortress-defence.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
@@ -1693,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BipBop II | 73829 | [73829-bipbop-ii.json](./73829-bipbop-ii.json) |
 | Biphase | 148549 | [148549-biphase.json](./148549-biphase.json) |
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
+| Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
 | Bird | 159829 | [159829-bird.json](./159829-bird.json) |
 | Bird | 170496 | [170496-bird.json](./170496-bird.json) |
@@ -2160,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
 | Blockage | 306966 | [306966-blockage.json](./306966-blockage.json) |
+| BlockAid | 32882 | [32882-blockaid.json](./32882-blockaid.json) |
 | BlockBawks | 293102 | [293102-blockbawks.json](./293102-blockbawks.json) |
 | BlockBuster | 68647 | [68647-blockbuster.json](./68647-blockbuster.json) |
 | Blockbuster Inc. | 189965 | [189965-blockbuster-inc.json](./189965-blockbuster-inc.json) |
@@ -3390,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Dolls: Soviet Project | 203900 | [203900-bug-dolls-soviet-project.json](./203900-bug-dolls-soviet-project.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
 | Bug Killers | 51958 | [51958-bug-killers.json](./51958-bug-killers.json) |
+| Bug N Out | 32962 | [32962-bug-n-out.json](./32962-bug-n-out.json) |
 | Bug Off! | 55884 | [55884-bug-off.json](./55884-bug-off.json) |
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
 | Bug Village | 94203 | [94203-bug-village.json](./94203-bug-village.json) |
