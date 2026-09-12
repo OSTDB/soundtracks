@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 2030 Proto-Interfacer's Guide to House-Oriented Emotional Exploration | 283711 | [283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json](./283711-the-2030-proto-interfacers-guide-to-house-oriented-emotional-exploration.json) |
 | The 2048 | 48015 | [48015-the-2048.json](./48015-the-2048.json) |
 | The 3 Little Princesses | 357253 | [357253-the-3-little-princesses.json](./357253-the-3-little-princesses.json) |
+| The 37th Week | 75823 | [75823-the-37th-week.json](./75823-the-37th-week.json) |
 | The 39 Steps | 10985 | [10985-the-39-steps.json](./10985-the-39-steps.json) |
 | The 3D Gamemaker | 270689 | [270689-the-3d-gamemaker.json](./270689-the-3d-gamemaker.json) |
 | The 3D Machine | 196817 | [196817-the-3d-machine.json](./196817-the-3d-machine.json) |
@@ -1230,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ballad of Bellum | 336539 | [336539-the-ballad-of-bellum.json](./336539-the-ballad-of-bellum.json) |
 | The Ballad Singer | 78156 | [78156-the-ballad-singer.json](./78156-the-ballad-singer.json) |
 | The Balldragon | 335265 | [335265-the-balldragon.json](./335265-the-balldragon.json) |
+| The Balloonist: Beyond the Clouds | 75831 | [75831-the-balloonist-beyond-the-clouds.json](./75831-the-balloonist-beyond-the-clouds.json) |
 | The Banker Tycoon | 379340 | [379340-the-banker-tycoon.json](./379340-the-banker-tycoon.json) |
 | The Banner Saga 3 | 26940 | [26940-the-banner-saga-3.json](./26940-the-banner-saga-3.json) |
 | The Banner Saga 3: Legendary Edition | 124774 | [124774-the-banner-saga-3-legendary-edition.json](./124774-the-banner-saga-3-legendary-edition.json) |
@@ -1353,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bouncing Ball | 195207 | [195207-the-bouncing-ball.json](./195207-the-bouncing-ball.json) |
 | The Bound of Time | 316084 | [316084-the-bound-of-time.json](./316084-the-bound-of-time.json) |
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
+| The Bounty V2 | 75832 | [75832-the-bounty-v2.json](./75832-the-bounty-v2.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
@@ -2667,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Making of a Prophet | 214524 | [214524-the-making-of-a-prophet.json](./214524-the-making-of-a-prophet.json) |
 | The Making of Karateka | 256293 | [256293-the-making-of-karateka.json](./256293-the-making-of-karateka.json) |
 | The Mall Explodes! | 412999 | [412999-the-mall-explodes.json](./412999-the-mall-explodes.json) |
+| The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
 | The Man Who Walked | 374051 | [374051-the-man-who-walked.json](./374051-the-man-who-walked.json) |
 | The Manhole: New and Enhanced | 73310 | [73310-the-manhole-new-and-enhanced.json](./73310-the-manhole-new-and-enhanced.json) |
 | The Mannequin | 179740 | [179740-the-mannequin.json](./179740-the-mannequin.json) |
@@ -3039,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Repossessor | 81338 | [81338-the-repossessor.json](./81338-the-repossessor.json) |
 | The Research Facility No.507 | 90576 | [90576-the-research-facility-no-507.json](./90576-the-research-facility-no-507.json) |
 | The Reshaping of Googol 1B: The Tower | 299157 | [299157-the-reshaping-of-googol-1b-the-tower.json](./299157-the-reshaping-of-googol-1b-the-tower.json) |
+| The Resistance | 75764 | [75764-the-resistance.json](./75764-the-resistance.json) |
 | The Rest is Silence | 271770 | [271770-the-rest-is-silence.json](./271770-the-rest-is-silence.json) |
 | The Restless Dead | 87304 | [87304-the-restless-dead.json](./87304-the-restless-dead.json) |
 | The Restless Resort | 271987 | [271987-the-restless-resort.json](./271987-the-restless-resort.json) |
@@ -3821,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
 | The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
+| The World of Legend VR | 75824 | [75824-the-world-of-legend-vr.json](./75824-the-world-of-legend-vr.json) |
 | The World of Marius | 369581 | [369581-the-world-of-marius.json](./369581-the-world-of-marius.json) |
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
@@ -4028,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms 21 | 149094 | [149094-three-kingdoms-21.json](./149094-three-kingdoms-21.json) |
 | Three Kingdoms Front | 339098 | [339098-three-kingdoms-front.json](./339098-three-kingdoms-front.json) |
 | Three Kingdoms Heroes | 324871 | [324871-three-kingdoms-heroes.json](./324871-three-kingdoms-heroes.json) |
+| Three Kingdoms VR - Jade Knight | 75820 | [75820-three-kingdoms-vr-jade-knight.json](./75820-three-kingdoms-vr-jade-knight.json) |
 | Three Kingdoms: Hero Wars | 208053 | [208053-three-kingdoms-hero-wars.json](./208053-three-kingdoms-hero-wars.json) |
 | Three Kingdoms: Legends of Heroes | 108406 | [108406-three-kingdoms-legends-of-heroes.json](./108406-three-kingdoms-legends-of-heroes.json) |
 | Three Kingdoms: The Last Warlord - The Age of Turbulence | 171574 | [171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json](./171574-three-kingdoms-the-last-warlord-the-age-of-turbulence.json) |
@@ -6060,6 +6067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
 | Trigonal | 188097 | [188097-trigonal.json](./188097-trigonal.json) |
+| Trigonometry | 75792 | [75792-trigonometry.json](./75792-trigonometry.json) |
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
 | Trillionia | 106632 | [106632-trillionia.json](./106632-trillionia.json) |
