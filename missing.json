@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T11:21:29.982Z",
-  "total_missing": 61766,
+  "generated_at": "2026-09-12T11:31:34.822Z",
+  "total_missing": 61777,
   "games": [
     {
       "igdb_id": 306086,
@@ -2878,11 +2878,6 @@
       "file": "missing/A/380389-abismo.json"
     },
     {
-      "igdb_id": 260403,
-      "game_name": "Ablaze",
-      "file": "missing/A/260403-ablaze.json"
-    },
-    {
       "igdb_id": 67912,
       "game_name": "Ablepsia",
       "file": "missing/A/67912-ablepsia.json"
@@ -4011,6 +4006,16 @@
       "igdb_id": 109662,
       "game_name": "Action Card Football",
       "file": "missing/A/109662-action-card-football.json"
+    },
+    {
+      "igdb_id": 55134,
+      "game_name": "Action Doom",
+      "file": "missing/A/55134-action-doom.json"
+    },
+    {
+      "igdb_id": 55135,
+      "game_name": "Action Doom 2: Urban Brawl",
+      "file": "missing/A/55135-action-doom-2-urban-brawl.json"
     },
     {
       "igdb_id": 73255,
@@ -61228,6 +61233,11 @@
       "file": "missing/D/262666-death-by-hamster.json"
     },
     {
+      "igdb_id": 55130,
+      "game_name": "Death Cargo",
+      "file": "missing/D/55130-death-cargo.json"
+    },
+    {
       "igdb_id": 332981,
       "game_name": "Death Climbing",
       "file": "missing/D/332981-death-climbing.json"
@@ -106623,6 +106633,11 @@
       "file": "missing/G/15542-guardian.json"
     },
     {
+      "igdb_id": 55133,
+      "game_name": "Guardian",
+      "file": "missing/G/55133-guardian.json"
+    },
+    {
       "igdb_id": 178585,
       "game_name": "Guardian Angel for Hire",
       "file": "missing/G/178585-guardian-angel-for-hire.json"
@@ -106806,6 +106821,11 @@
       "igdb_id": 202387,
       "game_name": "Guess Pony Cartoon",
       "file": "missing/G/202387-guess-pony-cartoon.json"
+    },
+    {
+      "igdb_id": 55136,
+      "game_name": "Guess the Flags: A Fun Quiz",
+      "file": "missing/G/55136-guess-the-flags-a-fun-quiz.json"
     },
     {
       "igdb_id": 273111,
@@ -123621,6 +123641,11 @@
       "igdb_id": 312585,
       "game_name": "Incompatible Fusion Machine",
       "file": "missing/I/312585-incompatible-fusion-machine.json"
+    },
+    {
+      "igdb_id": 55129,
+      "game_name": "Incompatible Species",
+      "file": "missing/I/55129-incompatible-species.json"
     },
     {
       "igdb_id": 119746,
@@ -154413,6 +154438,11 @@
       "file": "missing/M/51237-mechwarrior-living-legends.json"
     },
     {
+      "igdb_id": 55141,
+      "game_name": "Medabots 4",
+      "file": "missing/M/55141-medabots-4.json"
+    },
+    {
       "igdb_id": 55142,
       "game_name": "Medabots 5: Susutake Mura no Tenkousei",
       "file": "missing/M/55142-medabots-5-susutake-mura-no-tenkousei.json"
@@ -154458,9 +154488,19 @@
       "file": "missing/M/92535-medarot-2-parts-collection.json"
     },
     {
+      "igdb_id": 55139,
+      "game_name": "Medarot 2: Kabuto Version",
+      "file": "missing/M/55139-medarot-2-kabuto-version.json"
+    },
+    {
       "igdb_id": 76574,
       "game_name": "Medarot 2: Kuwagata Version",
       "file": "missing/M/76574-medarot-2-kuwagata-version.json"
+    },
+    {
+      "igdb_id": 55140,
+      "game_name": "Medarot 3 Kabuto Version",
+      "file": "missing/M/55140-medarot-3-kabuto-version.json"
     },
     {
       "igdb_id": 76575,
@@ -214118,6 +214158,11 @@
       "file": "missing/R/128656-rovonaut-comrade.json"
     },
     {
+      "igdb_id": 55127,
+      "game_name": "RoVR",
+      "file": "missing/R/55127-rovr.json"
+    },
+    {
       "igdb_id": 73818,
       "game_name": "Rowan's Battle of Britain",
       "file": "missing/R/73818-rowans-battle-of-britain.json"
@@ -245553,6 +245598,11 @@
       "file": "missing/S/208951-sumiken-ink-blade-samurai.json"
     },
     {
+      "igdb_id": 55138,
+      "game_name": "Sumikko Gurashi: Sumikko Park he Youkoso",
+      "file": "missing/S/55138-sumikko-gurashi-sumikko-park-he-youkoso.json"
+    },
+    {
       "igdb_id": 213635,
       "game_name": "Sumikkogurashi the Movie Block Puzzle Game",
       "file": "missing/S/213635-sumikkogurashi-the-movie-block-puzzle-game.json"
@@ -260856,6 +260906,11 @@
       "igdb_id": 314049,
       "game_name": "The Devil Within",
       "file": "missing/T/314049-the-devil-within.json"
+    },
+    {
+      "igdb_id": 55126,
+      "game_name": "The Devil's Eight",
+      "file": "missing/T/55126-the-devils-eight.json"
     },
     {
       "igdb_id": 105280,
