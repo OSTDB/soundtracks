@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T12:51:31.601Z",
-  "total_missing": 61895,
+  "generated_at": "2026-09-12T13:03:27.903Z",
+  "total_missing": 61944,
   "games": [
     {
       "igdb_id": 306086,
@@ -2921,11 +2921,6 @@
       "igdb_id": 388001,
       "game_name": "Above: Colonies of the Mist",
       "file": "missing/A/388001-above-colonies-of-the-mist.json"
-    },
-    {
-      "igdb_id": 415113,
-      "game_name": "Abraca Drunk",
-      "file": "missing/A/415113-abraca-drunk.json"
     },
     {
       "igdb_id": 383355,
@@ -40231,6 +40226,11 @@
       "igdb_id": 296099,
       "game_name": "Cartoon Cartoon Food Bash",
       "file": "missing/C/296099-cartoon-cartoon-food-bash.json"
+    },
+    {
+      "igdb_id": 53777,
+      "game_name": "Cartoon Collection",
+      "file": "missing/C/53777-cartoon-collection.json"
     },
     {
       "igdb_id": 49362,
@@ -268358,6 +268358,11 @@
       "file": "missing/T/271489-the-rats-in-the-walls.json"
     },
     {
+      "igdb_id": 53771,
+      "game_name": "The Raven: Legacy of a Master Thief - Digital Deluxe Edition",
+      "file": "missing/T/53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json"
+    },
+    {
       "igdb_id": 130849,
       "game_name": "The Real Deal 2",
       "file": "missing/T/130849-the-real-deal-2.json"
@@ -268533,9 +268538,24 @@
       "file": "missing/T/267364-the-rewinder-root-of-evil.json"
     },
     {
+      "igdb_id": 53783,
+      "game_name": "The Rhine Railway: Mannheim - Karlsruhe Collection",
+      "file": "missing/T/53783-the-rhine-railway-mannheim-karlsruhe-collection.json"
+    },
+    {
       "igdb_id": 80562,
       "game_name": "The Rhythm of Fighters: SNK Original Sound Collection",
       "file": "missing/T/80562-the-rhythm-of-fighters-snk-original-sound-collection.json"
+    },
+    {
+      "igdb_id": 53782,
+      "game_name": "The Riddle Room",
+      "file": "missing/T/53782-the-riddle-room.json"
+    },
+    {
+      "igdb_id": 53781,
+      "game_name": "The Riddle Room 2",
+      "file": "missing/T/53781-the-riddle-room-2.json"
     },
     {
       "igdb_id": 207311,
@@ -268978,6 +268998,11 @@
       "file": "missing/T/127205-the-secret-order-8-return-to-the-buried-kingdom.json"
     },
     {
+      "igdb_id": 53780,
+      "game_name": "The Secret Order Collection",
+      "file": "missing/T/53780-the-secret-order-collection.json"
+    },
+    {
       "igdb_id": 124747,
       "game_name": "The Secret Society - Hidden Objects Mystery",
       "file": "missing/T/124747-the-secret-society-hidden-objects-mystery.json"
@@ -269261,6 +269286,11 @@
       "igdb_id": 272577,
       "game_name": "The Show is Over It",
       "file": "missing/T/272577-the-show-is-over-it.json"
+    },
+    {
+      "igdb_id": 53779,
+      "game_name": "The Showdown Effect: Deluxe Edition",
+      "file": "missing/T/53779-the-showdown-effect-deluxe-edition.json"
     },
     {
       "igdb_id": 231394,
@@ -269918,6 +269948,11 @@
       "file": "missing/T/125954-the-space-opera-dragon-eyes.json"
     },
     {
+      "igdb_id": 53775,
+      "game_name": "The Spatials Collection",
+      "file": "missing/T/53775-the-spatials-collection.json"
+    },
+    {
       "igdb_id": 138772,
       "game_name": "The Specialists",
       "file": "missing/T/138772-the-specialists.json"
@@ -270406,6 +270441,11 @@
       "igdb_id": 401496,
       "game_name": "The Talos Principle III",
       "file": "missing/T/401496-the-talos-principle-iii.json"
+    },
+    {
+      "igdb_id": 53774,
+      "game_name": "The Talos Principle: Gold Edition",
+      "file": "missing/T/53774-the-talos-principle-gold-edition.json"
     },
     {
       "igdb_id": 231370,
@@ -271408,6 +271448,11 @@
       "file": "missing/T/96071-the-treasures-of-hotei.json"
     },
     {
+      "igdb_id": 53772,
+      "game_name": "The Treasures of Mystery Island: The Ghost Ship",
+      "file": "missing/T/53772-the-treasures-of-mystery-island-the-ghost-ship.json"
+    },
+    {
       "igdb_id": 295248,
       "game_name": "The Tree Of Life",
       "file": "missing/T/295248-the-tree-of-life.json"
@@ -271493,6 +271538,11 @@
       "file": "missing/T/222885-the-turgenev-study.json"
     },
     {
+      "igdb_id": 53784,
+      "game_name": "The Turing Test: Collector's Edition",
+      "file": "missing/T/53784-the-turing-test-collectors-edition.json"
+    },
+    {
       "igdb_id": 318786,
       "game_name": "The Turnabout that Shouldn't Exist",
       "file": "missing/T/318786-the-turnabout-that-shouldnt-exist.json"
@@ -271533,6 +271583,16 @@
       "file": "missing/T/185944-the-two-of-us.json"
     },
     {
+      "igdb_id": 53785,
+      "game_name": "The Typing of the Dead: Overkill - Dancing with the Dead DLC",
+      "file": "missing/T/53785-the-typing-of-the-dead-overkill-dancing-with-the-dead-dlc.json"
+    },
+    {
+      "igdb_id": 53786,
+      "game_name": "The Typing of the Dead: Overkill - Filth DLC",
+      "file": "missing/T/53786-the-typing-of-the-dead-overkill-filth-dlc.json"
+    },
+    {
       "igdb_id": 53867,
       "game_name": "The Typing of the Dead: Overkill - Love at First Bite DLC",
       "file": "missing/T/53867-the-typing-of-the-dead-overkill-love-at-first-bite-dlc.json"
@@ -271546,6 +271606,11 @@
       "igdb_id": 53868,
       "game_name": "The Typing of the Dead: Overkill - Silver Screen DLC",
       "file": "missing/T/53868-the-typing-of-the-dead-overkill-silver-screen-dlc.json"
+    },
+    {
+      "igdb_id": 53787,
+      "game_name": "The Typing of The Dead: Overkill Collection",
+      "file": "missing/T/53787-the-typing-of-the-dead-overkill-collection.json"
     },
     {
       "igdb_id": 228078,
@@ -271656,6 +271721,11 @@
       "igdb_id": 336516,
       "game_name": "The Unknown",
       "file": "missing/T/336516-the-unknown.json"
+    },
+    {
+      "igdb_id": 53789,
+      "game_name": "The Unknown",
+      "file": "missing/T/53789-the-unknown.json"
     },
     {
       "igdb_id": 105987,
@@ -272488,6 +272558,11 @@
       "file": "missing/T/70989-the-world-of-cars-online.json"
     },
     {
+      "igdb_id": 53791,
+      "game_name": "The World of Decadence",
+      "file": "missing/T/53791-the-world-of-decadence.json"
+    },
+    {
       "igdb_id": 268205,
       "game_name": "The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version",
       "file": "missing/T/268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json"
@@ -272633,6 +272708,11 @@
       "file": "missing/T/17367-theatre-of-the-absurd.json"
     },
     {
+      "igdb_id": 53792,
+      "game_name": "Theatre of the Absurd: A Scarlet Frost Mystery",
+      "file": "missing/T/53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json"
+    },
+    {
       "igdb_id": 10954,
       "game_name": "Theatre of War 2: Africa 1943 - Centauro",
       "file": "missing/T/10954-theatre-of-war-2-africa-1943-centauro.json"
@@ -272703,6 +272783,11 @@
       "file": "missing/T/272290-thehunter-call-of-the-wild-ambusher-pack.json"
     },
     {
+      "igdb_id": 53794,
+      "game_name": "TheHunter: Call of the Wild - ATV Saber 4X4",
+      "file": "missing/T/53794-thehunter-call-of-the-wild-atv-saber-4x4.json"
+    },
+    {
       "igdb_id": 271466,
       "game_name": "TheHunter: Call of the Wild - Reserve Cosmetics Bundle 1",
       "file": "missing/T/271466-thehunter-call-of-the-wild-reserve-cosmetics-bundle-1.json"
@@ -272716,6 +272801,11 @@
       "igdb_id": 305517,
       "game_name": "TheHunter: Call of the Wild - Sundarpatan Nepal Hunting Reserve",
       "file": "missing/T/305517-thehunter-call-of-the-wild-sundarpatan-nepal-hunting-reserve.json"
+    },
+    {
+      "igdb_id": 53793,
+      "game_name": "TheHunter: Call of the Wild - Tents & Ground Blinds",
+      "file": "missing/T/53793-thehunter-call-of-the-wild-tents-and-ground-blinds.json"
     },
     {
       "igdb_id": 280231,
@@ -273003,6 +273093,11 @@
       "file": "missing/T/121636-theyll-find-you.json"
     },
     {
+      "igdb_id": 53795,
+      "game_name": "They're Alive!",
+      "file": "missing/T/53795-theyre-alive.json"
+    },
+    {
       "igdb_id": 146225,
       "game_name": "TheZone",
       "file": "missing/T/146225-thezone.json"
@@ -273036,6 +273131,11 @@
       "igdb_id": 221424,
       "game_name": "Thief City",
       "file": "missing/T/221424-thief-city.json"
+    },
+    {
+      "igdb_id": 53796,
+      "game_name": "Thief Collection",
+      "file": "missing/T/53796-thief-collection.json"
     },
     {
       "igdb_id": 179697,
@@ -273076,6 +273176,11 @@
       "igdb_id": 347124,
       "game_name": "Thief VR: Legacy of Shadow",
       "file": "missing/T/347124-thief-vr-legacy-of-shadow.json"
+    },
+    {
+      "igdb_id": 53797,
+      "game_name": "Thief: Master Thief Edition",
+      "file": "missing/T/53797-thief-master-thief-edition.json"
     },
     {
       "igdb_id": 268465,
@@ -273763,6 +273868,11 @@
       "file": "missing/T/339294-through-the-wall.json"
     },
     {
+      "igdb_id": 53798,
+      "game_name": "Through the Woods: Digital Collector's Edition",
+      "file": "missing/T/53798-through-the-woods-digital-collectors-edition.json"
+    },
+    {
       "igdb_id": 189118,
       "game_name": "Through the World",
       "file": "missing/T/189118-through-the-world.json"
@@ -274193,6 +274303,11 @@
       "file": "missing/T/154472-ticket-to-ride-india.json"
     },
     {
+      "igdb_id": 53799,
+      "game_name": "Ticket to Ride: Legendary Asia",
+      "file": "missing/T/53799-ticket-to-ride-legendary-asia.json"
+    },
+    {
       "igdb_id": 154471,
       "game_name": "Ticket to Ride: Nordic Countries",
       "file": "missing/T/154471-ticket-to-ride-nordic-countries.json"
@@ -274206,6 +274321,11 @@
       "igdb_id": 154468,
       "game_name": "Ticket to Ride: Pennsylvania",
       "file": "missing/T/154468-ticket-to-ride-pennsylvania.json"
+    },
+    {
+      "igdb_id": 53800,
+      "game_name": "Ticket to Ride: Switzerland",
+      "file": "missing/T/53800-ticket-to-ride-switzerland.json"
     },
     {
       "igdb_id": 154469,
@@ -276558,6 +276678,11 @@
       "file": "missing/T/19048-time-machine-vr.json"
     },
     {
+      "igdb_id": 53801,
+      "game_name": "Time Mysteries Collection",
+      "file": "missing/T/53801-time-mysteries-collection.json"
+    },
+    {
       "igdb_id": 244467,
       "game_name": "Time Ocean",
       "file": "missing/T/244467-time-ocean.json"
@@ -276626,6 +276751,11 @@
       "igdb_id": 96616,
       "game_name": "Time Tenshi Paradox: Episode 2",
       "file": "missing/T/96616-time-tenshi-paradox-episode-2.json"
+    },
+    {
+      "igdb_id": 53810,
+      "game_name": "Time to Die: Adventures",
+      "file": "missing/T/53810-time-to-die-adventures.json"
     },
     {
       "igdb_id": 114319,
@@ -277248,6 +277378,11 @@
       "file": "missing/T/193956-titan-slayer.json"
     },
     {
+      "igdb_id": 53807,
+      "game_name": "Titan Souls: Digital Special Edition",
+      "file": "missing/T/53807-titan-souls-digital-special-edition.json"
+    },
+    {
       "igdb_id": 267676,
       "game_name": "Titan Survival",
       "file": "missing/T/267676-titan-survival.json"
@@ -277258,9 +277393,19 @@
       "file": "missing/T/85442-titan-tank-rumble.json"
     },
     {
+      "igdb_id": 53806,
+      "game_name": "Titan-3D",
+      "file": "missing/T/53806-titan-3d.json"
+    },
+    {
       "igdb_id": 190147,
       "game_name": "Titan78",
       "file": "missing/T/190147-titan78.json"
+    },
+    {
+      "igdb_id": 53805,
+      "game_name": "Titanfall 2: Deluxe Edition",
+      "file": "missing/T/53805-titanfall-2-deluxe-edition.json"
     },
     {
       "igdb_id": 83876,
@@ -278328,9 +278473,19 @@
       "file": "missing/T/341328-tom-clancys-h-a-w-x-2.json"
     },
     {
+      "igdb_id": 53803,
+      "game_name": "Tom Clancy's Origin Collection",
+      "file": "missing/T/53803-tom-clancys-origin-collection.json"
+    },
+    {
       "igdb_id": 1848,
       "game_name": "Tom Clancy's Rainbow Six 3: Athena Sword",
       "file": "missing/T/1848-tom-clancys-rainbow-six-3-athena-sword.json"
+    },
+    {
+      "igdb_id": 53802,
+      "game_name": "Tom Clancy's Rainbow Six Collection",
+      "file": "missing/T/53802-tom-clancys-rainbow-six-collection.json"
     },
     {
       "igdb_id": 119262,
@@ -278346,6 +278501,11 @@
       "igdb_id": 152336,
       "game_name": "Tom Clancy's Rainbow Six Extraction: Limited Edition",
       "file": "missing/T/152336-tom-clancys-rainbow-six-extraction-limited-edition.json"
+    },
+    {
+      "igdb_id": 53820,
+      "game_name": "Tom Clancy's Rainbow Six Siege: Complete Edition",
+      "file": "missing/T/53820-tom-clancys-rainbow-six-siege-complete-edition.json"
     },
     {
       "igdb_id": 55167,
@@ -278388,6 +278548,11 @@
       "file": "missing/T/295251-tom-clancys-rainbow-six-vegas-collection.json"
     },
     {
+      "igdb_id": 53823,
+      "game_name": "Tom Clancy's Signature Collection",
+      "file": "missing/T/53823-tom-clancys-signature-collection.json"
+    },
+    {
       "igdb_id": 134350,
       "game_name": "Tom Clancy's Splinter Cell",
       "file": "missing/T/134350-tom-clancys-splinter-cell.json"
@@ -278396,6 +278561,11 @@
       "igdb_id": 90689,
       "game_name": "Tom Clancy's Splinter Cell",
       "file": "missing/T/90689-tom-clancys-splinter-cell.json"
+    },
+    {
+      "igdb_id": 53821,
+      "game_name": "Tom Clancy's Splinter Cell Collection",
+      "file": "missing/T/53821-tom-clancys-splinter-cell-collection.json"
     },
     {
       "igdb_id": 11010,
@@ -278468,6 +278638,11 @@
       "file": "missing/T/217536-tom-clancys-the-division-2-warlords-of-new-york-season-9-hidden-alliance.json"
     },
     {
+      "igdb_id": 53822,
+      "game_name": "Tom Clancy's The Division: Gold Edition",
+      "file": "missing/T/53822-tom-clancys-the-division-gold-edition.json"
+    },
+    {
       "igdb_id": 146881,
       "game_name": "Tom Clancy's The Division: Heartland",
       "file": "missing/T/146881-tom-clancys-the-division-heartland.json"
@@ -278506,6 +278681,11 @@
       "igdb_id": 83542,
       "game_name": "Tomato Jones - Episode 3",
       "file": "missing/T/83542-tomato-jones-episode-3.json"
+    },
+    {
+      "igdb_id": 53819,
+      "game_name": "Tomato Jones Adventures",
+      "file": "missing/T/53819-tomato-jones-adventures.json"
     },
     {
       "igdb_id": 366232,
@@ -278586,6 +278766,11 @@
       "igdb_id": 172133,
       "game_name": "Tomb Raider: Shanty Town",
       "file": "missing/T/172133-tomb-raider-shanty-town.json"
+    },
+    {
+      "igdb_id": 53817,
+      "game_name": "Tomb Raider: Survival Edition",
+      "file": "missing/T/53817-tomb-raider-survival-edition.json"
     },
     {
       "igdb_id": 123009,
@@ -279538,9 +279723,59 @@
       "file": "missing/T/112278-total-vice.json"
     },
     {
+      "igdb_id": 53814,
+      "game_name": "Total War Grand Master Collection",
+      "file": "missing/T/53814-total-war-grand-master-collection.json"
+    },
+    {
+      "igdb_id": 53813,
+      "game_name": "Total War Master Collection",
+      "file": "missing/T/53813-total-war-master-collection.json"
+    },
+    {
       "igdb_id": 8200,
       "game_name": "Total War: Attila",
       "file": "missing/T/8200-total-war-attila.json"
+    },
+    {
+      "igdb_id": 53816,
+      "game_name": "Total War: Attila - Empires of Sand Culture Pack",
+      "file": "missing/T/53816-total-war-attila-empires-of-sand-culture-pack.json"
+    },
+    {
+      "igdb_id": 53815,
+      "game_name": "Total War: Attila - The Last Roman Campaign Pack",
+      "file": "missing/T/53815-total-war-attila-the-last-roman-campaign-pack.json"
+    },
+    {
+      "igdb_id": 53824,
+      "game_name": "Total War: Rome II - Black Sea Colonies",
+      "file": "missing/T/53824-total-war-rome-ii-black-sea-colonies.json"
+    },
+    {
+      "igdb_id": 53826,
+      "game_name": "Total War: Rome II - Blood & Gore",
+      "file": "missing/T/53826-total-war-rome-ii-blood-and-gore.json"
+    },
+    {
+      "igdb_id": 53830,
+      "game_name": "Total War: Rome II - Campaign Pack: Wrath of Sparta",
+      "file": "missing/T/53830-total-war-rome-ii-campaign-pack-wrath-of-sparta.json"
+    },
+    {
+      "igdb_id": 53831,
+      "game_name": "Total War: Rome II - Culture Pack: Black Seas Colonies",
+      "file": "missing/T/53831-total-war-rome-ii-culture-pack-black-seas-colonies.json"
+    },
+    {
+      "igdb_id": 53825,
+      "game_name": "Total War: Rome II - Culture Pack: Greek States",
+      "file": "missing/T/53825-total-war-rome-ii-culture-pack-greek-states.json"
+    },
+    {
+      "igdb_id": 53829,
+      "game_name": "Total War: Rome II - Culture Pack: Pirates and Raiders",
+      "file": "missing/T/53829-total-war-rome-ii-culture-pack-pirates-and-raiders.json"
     },
     {
       "igdb_id": 167824,
@@ -279551,6 +279786,11 @@
       "igdb_id": 167822,
       "game_name": "Total War: Rome II - Imperator Augustus Campaign Pack",
       "file": "missing/T/167822-total-war-rome-ii-imperator-augustus-campaign-pack.json"
+    },
+    {
+      "igdb_id": 53827,
+      "game_name": "Total War: Rome II - Unit Pack: Daughters of Mars",
+      "file": "missing/T/53827-total-war-rome-ii-unit-pack-daughters-of-mars.json"
     },
     {
       "igdb_id": 83513,
@@ -279591,6 +279831,11 @@
       "igdb_id": 81293,
       "game_name": "Total War: Warhammer - Bretonnia",
       "file": "missing/T/81293-total-war-warhammer-bretonnia.json"
+    },
+    {
+      "igdb_id": 53832,
+      "game_name": "Total War: Warhammer - Chaos Warriors",
+      "file": "missing/T/53832-total-war-warhammer-chaos-warriors.json"
     },
     {
       "igdb_id": 170027,
