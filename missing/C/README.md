@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Toad: Treasure Tracker + Special Episode | 136381 | [136381-captain-toad-treasure-tracker-special-episode.json](./136381-captain-toad-treasure-tracker-special-episode.json) |
 | Captain Tsubasa | 213601 | [213601-captain-tsubasa.json](./213601-captain-tsubasa.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
+| Captain Tsubasa V: Hasha no Shougou Campione | 38268 | [38268-captain-tsubasa-v-hasha-no-shougou-campione.json](./38268-captain-tsubasa-v-hasha-no-shougou-campione.json) |
 | Captain Tsubasa Vol. II: Super Striker | 102254 | [102254-captain-tsubasa-vol-ii-super-striker.json](./102254-captain-tsubasa-vol-ii-super-striker.json) |
 | Captain Tsubasa Zero: Miracle Shot | 124759 | [124759-captain-tsubasa-zero-miracle-shot.json](./124759-captain-tsubasa-zero-miracle-shot.json) |
 | Captain Tsubasa: Dream Team | 76738 | [76738-captain-tsubasa-dream-team.json](./76738-captain-tsubasa-dream-team.json) |
@@ -2618,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
+| Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
 | Conker's Other Bad Fur Day | 77970 | [77970-conkers-other-bad-fur-day.json](./77970-conkers-other-bad-fur-day.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
 | Connect 4 | 79945 | [79945-connect-4.json](./79945-connect-4.json) |
