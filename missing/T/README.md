@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scourge Project: Episodes 1 and 2 | 51294 | [51294-the-scourge-project-episodes-1-and-2.json](./51294-the-scourge-project-episodes-1-and-2.json) |
 | The Scramble Vice | 266468 | [266468-the-scramble-vice.json](./266468-the-scramble-vice.json) |
 | The Scrapper | 306645 | [306645-the-scrapper.json](./306645-the-scrapper.json) |
+| The Scruffs | 73776 | [73776-the-scruffs.json](./73776-the-scruffs.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
@@ -3851,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
 | The You Testament: The 2D Coming | 234312 | [234312-the-you-testament-the-2d-coming.json](./234312-the-you-testament-the-2d-coming.json) |
+| The Yukon Trail | 73782 | [73782-the-yukon-trail.json](./73782-the-yukon-trail.json) |
 | The Zodiac Mystery | 392122 | [392122-the-zodiac-mystery.json](./392122-the-zodiac-mystery.json) |
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
 | The Zombie Slayers | 329958 | [329958-the-zombie-slayers.json](./329958-the-zombie-slayers.json) |
@@ -5080,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonic Trouble | 3614 | [3614-tonic-trouble.json](./3614-tonic-trouble.json) |
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
 | Tonka Search & Rescue 2 | 137029 | [137029-tonka-search-and-rescue-2.json](./137029-tonka-search-and-rescue-2.json) |
+| Tonka Town | 73786 | [73786-tonka-town.json](./73786-tonka-town.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
 | Tonko 4 | 159256 | [159256-tonko-4.json](./159256-tonko-4.json) |
 | TonpaQuest | 178043 | [178043-tonpaquest.json](./178043-tonpaquest.json) |
@@ -5489,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybit Quest | 104039 | [104039-toybit-quest.json](./104039-toybit-quest.json) |
 | Toybox | 184645 | [184645-toybox.json](./184645-toybox.json) |
 | ToyCamp | 384507 | [384507-toycamp.json](./384507-toycamp.json) |
+| Toyland Racing | 73764 | [73764-toyland-racing.json](./73764-toyland-racing.json) |
 | Toymaker | 10941 | [10941-toymaker.json](./10941-toymaker.json) |
 | Toypunk | 403575 | [403575-toypunk.json](./403575-toypunk.json) |
 | Toys Dream | 82822 | [82822-toys-dream.json](./82822-toys-dream.json) |
