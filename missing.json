@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T13:41:34.971Z",
-  "total_missing": 62040,
+  "generated_at": "2026-09-12T13:48:40.699Z",
+  "total_missing": 62090,
   "games": [
     {
       "igdb_id": 306086,
@@ -190918,6 +190918,21 @@
       "file": "missing/P/154456-pillars-of-eternity-ii-deadfire-scalawags-pack.json"
     },
     {
+      "igdb_id": 51890,
+      "game_name": "Pillars of Eternity: Champion Edition",
+      "file": "missing/P/51890-pillars-of-eternity-champion-edition.json"
+    },
+    {
+      "igdb_id": 51889,
+      "game_name": "Pillars of Eternity: Hero Edition",
+      "file": "missing/P/51889-pillars-of-eternity-hero-edition.json"
+    },
+    {
+      "igdb_id": 51888,
+      "game_name": "Pillars of Eternity: Royal Edition",
+      "file": "missing/P/51888-pillars-of-eternity-royal-edition.json"
+    },
+    {
       "igdb_id": 69873,
       "game_name": "Pillars of Garendall",
       "file": "missing/P/69873-pillars-of-garendall.json"
@@ -191371,6 +191386,11 @@
       "igdb_id": 12959,
       "game_name": "Pinball Wizard",
       "file": "missing/P/12959-pinball-wizard.json"
+    },
+    {
+      "igdb_id": 51887,
+      "game_name": "Pinball World",
+      "file": "missing/P/51887-pinball-world.json"
     },
     {
       "igdb_id": 170009,
@@ -192861,6 +192881,11 @@
       "igdb_id": 125445,
       "game_name": "Pizza Time Explosion",
       "file": "missing/P/125445-pizza-time-explosion.json"
+    },
+    {
+      "igdb_id": 51885,
+      "game_name": "Pizza Tycoon 2",
+      "file": "missing/P/51885-pizza-tycoon-2.json"
     },
     {
       "igdb_id": 318191,
@@ -199168,9 +199193,19 @@
       "file": "missing/P/317608-project-helix.json"
     },
     {
+      "igdb_id": 51884,
+      "game_name": "Project Highrise: Las Vegas",
+      "file": "missing/P/51884-project-highrise-las-vegas.json"
+    },
+    {
       "igdb_id": 124801,
       "game_name": "Project Highrise: London Life",
       "file": "missing/P/124801-project-highrise-london-life.json"
+    },
+    {
+      "igdb_id": 51883,
+      "game_name": "Project Highrise: Miami Malls",
+      "file": "missing/P/51883-project-highrise-miami-malls.json"
     },
     {
       "igdb_id": 124798,
@@ -200803,6 +200838,11 @@
       "file": "missing/P/332237-punch-chess.json"
     },
     {
+      "igdb_id": 51882,
+      "game_name": "Punch Club: Deluxe Edition",
+      "file": "missing/P/51882-punch-club-deluxe-edition.json"
+    },
+    {
       "igdb_id": 38999,
       "game_name": "Punch Hero",
       "file": "missing/P/38999-punch-hero.json"
@@ -201031,6 +201071,11 @@
       "igdb_id": 277034,
       "game_name": "Pure Nastalgia",
       "file": "missing/P/277034-pure-nastalgia.json"
+    },
+    {
+      "igdb_id": 51881,
+      "game_name": "Pure Pinball 2.0 Redux",
+      "file": "missing/P/51881-pure-pinball-2-0-redux.json"
     },
     {
       "igdb_id": 194575,
@@ -223438,6 +223483,11 @@
       "file": "missing/S/356631-shadow-warren.json"
     },
     {
+      "igdb_id": 51915,
+      "game_name": "Shadow Warrior 2 Deluxe",
+      "file": "missing/S/51915-shadow-warrior-2-deluxe.json"
+    },
+    {
       "igdb_id": 27876,
       "game_name": "Shadow Warrior 2: Bounty Hunt Part 1",
       "file": "missing/S/27876-shadow-warrior-2-bounty-hunt-part-1.json"
@@ -223446,6 +223496,11 @@
       "igdb_id": 25772,
       "game_name": "Shadow Warrior 2: Special Reserve Collector's Edition",
       "file": "missing/S/25772-shadow-warrior-2-special-reserve-collectors-edition.json"
+    },
+    {
+      "igdb_id": 51914,
+      "game_name": "Shadow Warrior Classic Complete",
+      "file": "missing/S/51914-shadow-warrior-classic-complete.json"
     },
     {
       "igdb_id": 99620,
@@ -223506,6 +223561,11 @@
       "igdb_id": 35911,
       "game_name": "Shadowgate: MacVenture Series",
       "file": "missing/S/35911-shadowgate-macventure-series.json"
+    },
+    {
+      "igdb_id": 51913,
+      "game_name": "Shadowgate: Special Edition",
+      "file": "missing/S/51913-shadowgate-special-edition.json"
     },
     {
       "igdb_id": 322568,
@@ -224083,6 +224143,11 @@
       "file": "missing/S/323529-shard-squad.json"
     },
     {
+      "igdb_id": 51912,
+      "game_name": "Shardlight: Special Edition",
+      "file": "missing/S/51912-shardlight-special-edition.json"
+    },
+    {
       "igdb_id": 184044,
       "game_name": "Shards of Hope",
       "file": "missing/S/184044-shards-of-hope.json"
@@ -224551,6 +224616,16 @@
       "igdb_id": 249808,
       "game_name": "ShellShot Arena",
       "file": "missing/S/249808-shellshot-arena.json"
+    },
+    {
+      "igdb_id": 51910,
+      "game_name": "Shelter 2 Mountains",
+      "file": "missing/S/51910-shelter-2-mountains.json"
+    },
+    {
+      "igdb_id": 51911,
+      "game_name": "Shelter 2: Special Edition",
+      "file": "missing/S/51911-shelter-2-special-edition.json"
     },
     {
       "igdb_id": 340377,
@@ -228083,6 +228158,16 @@
       "file": "missing/S/183078-sins.json"
     },
     {
+      "igdb_id": 51908,
+      "game_name": "Sins of a Solar Empire: Rebellion - Outlaw Sectors",
+      "file": "missing/S/51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json"
+    },
+    {
+      "igdb_id": 51907,
+      "game_name": "Sins of a Solar Empire: Rebellion Ultimate Edition",
+      "file": "missing/S/51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json"
+    },
+    {
       "igdb_id": 276733,
       "game_name": "Sins Of Kaleido",
       "file": "missing/S/276733-sins-of-kaleido.json"
@@ -228853,6 +228938,11 @@
       "file": "missing/S/181862-skullhammer.json"
     },
     {
+      "igdb_id": 51906,
+      "game_name": "Skulls of the Shogun: Bone-A-Fide Edition",
+      "file": "missing/S/51906-skulls-of-the-shogun-bone-a-fide-edition.json"
+    },
+    {
       "igdb_id": 329973,
       "game_name": "SkullSP",
       "file": "missing/S/329973-skullsp.json"
@@ -229321,6 +229411,16 @@
       "igdb_id": 9422,
       "game_name": "Skyscraper",
       "file": "missing/S/9422-skyscraper.json"
+    },
+    {
+      "igdb_id": 51904,
+      "game_name": "Skyshine's Bedlam Redux!",
+      "file": "missing/S/51904-skyshines-bedlam-redux.json"
+    },
+    {
+      "igdb_id": 51905,
+      "game_name": "Skyshine's Bedlam: Deluxe Edition",
+      "file": "missing/S/51905-skyshines-bedlam-deluxe-edition.json"
     },
     {
       "igdb_id": 262947,
@@ -231061,6 +231161,16 @@
       "igdb_id": 54377,
       "game_name": "Smugglers IV: Doomsday",
       "file": "missing/S/54377-smugglers-iv-doomsday.json"
+    },
+    {
+      "igdb_id": 51903,
+      "game_name": "Smugglers V",
+      "file": "missing/S/51903-smugglers-v.json"
+    },
+    {
+      "igdb_id": 51902,
+      "game_name": "Smugglers V: Invasion - Warrior Within",
+      "file": "missing/S/51902-smugglers-v-invasion-warrior-within.json"
     },
     {
       "igdb_id": 366256,
@@ -236118,6 +236228,11 @@
       "file": "missing/S/178647-space-cobra-retpixmod.json"
     },
     {
+      "igdb_id": 51901,
+      "game_name": "Space Colony HD",
+      "file": "missing/S/51901-space-colony-hd.json"
+    },
+    {
       "igdb_id": 255726,
       "game_name": "Space Combat: Galaxy Wars",
       "file": "missing/S/255726-space-combat-galaxy-wars.json"
@@ -239273,6 +239388,11 @@
       "file": "missing/S/55043-spore.json"
     },
     {
+      "igdb_id": 51900,
+      "game_name": "Spore Collection",
+      "file": "missing/S/51900-spore-collection.json"
+    },
+    {
       "igdb_id": 46617,
       "game_name": "Spore: Galactic Edition",
       "file": "missing/S/46617-spore-galactic-edition.json"
@@ -241193,6 +241313,11 @@
       "file": "missing/S/100418-star-valor.json"
     },
     {
+      "igdb_id": 51899,
+      "game_name": "Star Vikings Forever",
+      "file": "missing/S/51899-star-vikings-forever.json"
+    },
+    {
       "igdb_id": 154021,
       "game_name": "Star Vortex",
       "file": "missing/S/154021-star-vortex.json"
@@ -241938,6 +242063,16 @@
       "file": "missing/S/308575-starpoint-gemini-2-gold-pack.json"
     },
     {
+      "igdb_id": 51898,
+      "game_name": "Starpoint Gemini 2: Secrets of Aethera",
+      "file": "missing/S/51898-starpoint-gemini-2-secrets-of-aethera.json"
+    },
+    {
+      "igdb_id": 51897,
+      "game_name": "Starpoint Gemini 2: Titans",
+      "file": "missing/S/51897-starpoint-gemini-2-titans.json"
+    },
+    {
       "igdb_id": 115458,
       "game_name": "Starpoint Gemini 3",
       "file": "missing/S/115458-starpoint-gemini-3.json"
@@ -241946,6 +242081,16 @@
       "igdb_id": 124829,
       "game_name": "Starpoint Gemini Warlords - Cycle of Warfare",
       "file": "missing/S/124829-starpoint-gemini-warlords-cycle-of-warfare.json"
+    },
+    {
+      "igdb_id": 51896,
+      "game_name": "Starpoint Gemini Warlords - Deadly Dozen",
+      "file": "missing/S/51896-starpoint-gemini-warlords-deadly-dozen.json"
+    },
+    {
+      "igdb_id": 51895,
+      "game_name": "Starpoint Gemini Warlords: Digital Deluxe Edition",
+      "file": "missing/S/51895-starpoint-gemini-warlords-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 124780,
@@ -242543,6 +242688,11 @@
       "file": "missing/S/140866-stasis-bone-totem.json"
     },
     {
+      "igdb_id": 51894,
+      "game_name": "Stasis: Deluxe Edition",
+      "file": "missing/S/51894-stasis-deluxe-edition.json"
+    },
+    {
       "igdb_id": 194647,
       "game_name": "State of Decay 2: Daybreak Pack",
       "file": "missing/S/194647-state-of-decay-2-daybreak-pack.json"
@@ -242731,6 +242881,11 @@
       "igdb_id": 278402,
       "game_name": "Stealth Blade",
       "file": "missing/S/278402-stealth-blade.json"
+    },
+    {
+      "igdb_id": 51893,
+      "game_name": "Stealth Inc. 2: A Game of Clones Deluxe",
+      "file": "missing/S/51893-stealth-inc-2-a-game-of-clones-deluxe.json"
     },
     {
       "igdb_id": 399006,
@@ -244413,6 +244568,11 @@
       "file": "missing/S/292538-strategic-command-wwii-war-in-the-pacific.json"
     },
     {
+      "igdb_id": 51892,
+      "game_name": "Strategic Command: European Theater",
+      "file": "missing/S/51892-strategic-command-european-theater.json"
+    },
+    {
       "igdb_id": 262929,
       "game_name": "Strategic Command: World War I - Empires in Turmoil",
       "file": "missing/S/262929-strategic-command-world-war-i-empires-in-turmoil.json"
@@ -245806,6 +245966,11 @@
       "igdb_id": 39038,
       "game_name": "Subwar 2050",
       "file": "missing/S/39038-subwar-2050.json"
+    },
+    {
+      "igdb_id": 51935,
+      "game_name": "Subwar 2050 Complete",
+      "file": "missing/S/51935-subwar-2050-complete.json"
     },
     {
       "igdb_id": 135861,
@@ -250973,6 +251138,11 @@
       "file": "missing/S/25062-supreme-ruler-2020-gold.json"
     },
     {
+      "igdb_id": 51934,
+      "game_name": "Supreme Ruler 2020: Gold Edition",
+      "file": "missing/S/51934-supreme-ruler-2020-gold-edition.json"
+    },
+    {
       "igdb_id": 219574,
       "game_name": "Supreme Ruler 2030",
       "file": "missing/S/219574-supreme-ruler-2030.json"
@@ -252556,6 +252726,16 @@
       "igdb_id": 178077,
       "game_name": "Sword of the Stars: The Pit 2",
       "file": "missing/S/178077-sword-of-the-stars-the-pit-2.json"
+    },
+    {
+      "igdb_id": 51932,
+      "game_name": "Sword of the Stars: The Pit Gold Edition - Juggernaut",
+      "file": "missing/S/51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json"
+    },
+    {
+      "igdb_id": 51931,
+      "game_name": "Sword of the Stars: The Pit Gold Edition - Necromancer",
+      "file": "missing/S/51931-sword-of-the-stars-the-pit-gold-edition-necromancer.json"
     },
     {
       "igdb_id": 305761,
@@ -254678,6 +254858,11 @@
       "file": "missing/T/298057-tales-of-lost-ages-vol-1.json"
     },
     {
+      "igdb_id": 51930,
+      "game_name": "Tales of Maj'Eyal: Embers of Rage",
+      "file": "missing/T/51930-tales-of-majeyal-embers-of-rage.json"
+    },
+    {
       "igdb_id": 389982,
       "game_name": "Tales of Medieval Duelists",
       "file": "missing/T/389982-tales-of-medieval-duelists.json"
@@ -256723,6 +256908,11 @@
       "file": "missing/T/146223-techno-tanks.json"
     },
     {
+      "igdb_id": 51929,
+      "game_name": "Technobabylon: Deluxe Edition",
+      "file": "missing/T/51929-technobabylon-deluxe-edition.json"
+    },
+    {
       "igdb_id": 337634,
       "game_name": "Technoblade The Quest Of L'Manburg",
       "file": "missing/T/337634-technoblade-the-quest-of-lmanburg.json"
@@ -258011,6 +258201,11 @@
       "igdb_id": 289314,
       "game_name": "TerraStorm",
       "file": "missing/T/289314-terrastorm.json"
+    },
+    {
+      "igdb_id": 51928,
+      "game_name": "TerraTech: Deluxe Edition",
+      "file": "missing/T/51928-terratech-deluxe-edition.json"
     },
     {
       "igdb_id": 260427,
@@ -262628,6 +262823,21 @@
       "file": "missing/T/138193-the-escapists-the-escapists-2.json"
     },
     {
+      "igdb_id": 51927,
+      "game_name": "The Escapists: Duct Tapes Are Forever",
+      "file": "missing/T/51927-the-escapists-duct-tapes-are-forever.json"
+    },
+    {
+      "igdb_id": 51926,
+      "game_name": "The Escapists: Escape Team",
+      "file": "missing/T/51926-the-escapists-escape-team.json"
+    },
+    {
+      "igdb_id": 51925,
+      "game_name": "The Escapists: Fhurst Peak Correctional Facility",
+      "file": "missing/T/51925-the-escapists-fhurst-peak-correctional-facility.json"
+    },
+    {
       "igdb_id": 323509,
       "game_name": "The Essence of Luna",
       "file": "missing/T/323509-the-essence-of-luna.json"
@@ -265411,6 +265621,11 @@
       "igdb_id": 30235,
       "game_name": "The Last Express: Gold Edition",
       "file": "missing/T/30235-the-last-express-gold-edition.json"
+    },
+    {
+      "igdb_id": 51924,
+      "game_name": "The Last Federation Collection",
+      "file": "missing/T/51924-the-last-federation-collection.json"
     },
     {
       "igdb_id": 209662,
@@ -268283,6 +268498,11 @@
       "file": "missing/T/231385-the-penguins-of-madagascar-mission-madness.json"
     },
     {
+      "igdb_id": 51891,
+      "game_name": "The Penumbra Collection",
+      "file": "missing/T/51891-the-penumbra-collection.json"
+    },
+    {
       "igdb_id": 396900,
       "game_name": "The People's House",
       "file": "missing/T/396900-the-peoples-house.json"
@@ -268846,6 +269066,16 @@
       "igdb_id": 130849,
       "game_name": "The Real Deal 2",
       "file": "missing/T/130849-the-real-deal-2.json"
+    },
+    {
+      "igdb_id": 51923,
+      "game_name": "The Real Texas: Cellpop Goes Out At Night",
+      "file": "missing/T/51923-the-real-texas-cellpop-goes-out-at-night.json"
+    },
+    {
+      "igdb_id": 51922,
+      "game_name": "The Real Texas: Dusty Skies Edition",
+      "file": "missing/T/51922-the-real-texas-dusty-skies-edition.json"
     },
     {
       "igdb_id": 292558,
@@ -269801,6 +270031,11 @@
       "igdb_id": 211939,
       "game_name": "The Silent Islands",
       "file": "missing/T/211939-the-silent-islands.json"
+    },
+    {
+      "igdb_id": 51921,
+      "game_name": "The Silver Case: Deluxe Edition",
+      "file": "missing/T/51921-the-silver-case-deluxe-edition.json"
     },
     {
       "igdb_id": 307953,
@@ -274346,6 +274581,11 @@
       "igdb_id": 339294,
       "game_name": "Through the Wall",
       "file": "missing/T/339294-through-the-wall.json"
+    },
+    {
+      "igdb_id": 51920,
+      "game_name": "Through the Woods: Collector's Edition",
+      "file": "missing/T/51920-through-the-woods-collectors-edition.json"
     },
     {
       "igdb_id": 53798,
@@ -289463,6 +289703,11 @@
       "file": "missing/U/199029-unikitty-save-the-kingdom.json"
     },
     {
+      "igdb_id": 51918,
+      "game_name": "Unimersiv",
+      "file": "missing/U/51918-unimersiv.json"
+    },
+    {
       "igdb_id": 251594,
       "game_name": "Unimime: Unicycle Madness",
       "file": "missing/U/251594-unimime-unicycle-madness.json"
@@ -293826,6 +294071,11 @@
       "igdb_id": 104622,
       "game_name": "Virtual Table Tennis Ping Pong",
       "file": "missing/V/104622-virtual-table-tennis-ping-pong.json"
+    },
+    {
+      "igdb_id": 51919,
+      "game_name": "Virtual Temple: Order of the Golden Dawn",
+      "file": "missing/V/51919-virtual-temple-order-of-the-golden-dawn.json"
     },
     {
       "igdb_id": 112273,
