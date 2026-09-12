@@ -3741,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Do! | 297491 | [297491-mr-do.json](./297491-mr-do.json) |
 | Mr. Do! | 365697 | [365697-mr-do.json](./365697-mr-do.json) |
 | Mr. Do!'s Castle | 24408 | [24408-mr-do-s-castle.json](./24408-mr-do-s-castle.json) |
+| Mr. Donovan | 28769 | [28769-mr-donovan.json](./28769-mr-donovan.json) |
 | Mr. Driller | 254519 | [254519-mr-driller.json](./254519-mr-driller.json) |
 | Mr. Drumstix' Music Studio | 69232 | [69232-mr-drumstix-music-studio.json](./69232-mr-drumstix-music-studio.json) |
 | Mr. Elevator | 337088 | [337088-mr-elevator.json](./337088-mr-elevator.json) |
