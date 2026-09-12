@@ -124,7 +124,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
-| A Wild Last Boss Appeared!: Black-Winged Survivor | 371248 | [371248-a-wild-last-boss-appeared-black-winged-survivor.json](./371248-a-wild-last-boss-appeared-black-winged-survivor.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
 | A Witch in Time: Yamada-kun to Nananin no Majo | 292009 | [292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json](./292009-a-witch-in-time-yamada-kun-to-nananin-no-majo.json) |
 | A woman goes to a private games industry party | 135282 | [135282-a-woman-goes-to-a-private-games-industry-party.json](./135282-a-woman-goes-to-a-private-games-industry-party.json) |
