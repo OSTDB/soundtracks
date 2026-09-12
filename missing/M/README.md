@@ -10,6 +10,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M Hold'em | 247198 | [247198-m-holdem.json](./247198-m-holdem.json) |
 | M-79 Ambush | 123021 | [123021-m-79-ambush.json](./123021-m-79-ambush.json) |
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
+| M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
@@ -1837,9 +1838,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Fury 3000 | 124179 | [124179-metal-fury-3000.json](./124179-metal-fury-3000.json) |
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
+| Metal Gear Rising: Revengeance - Limited Edition | 44557 | [44557-metal-gear-rising-revengeance-limited-edition.json](./44557-metal-gear-rising-revengeance-limited-edition.json) |
 | Metal Gear Solid 2: Sons of Liberty - Master Collection Version | 383389 | [383389-metal-gear-solid-2-sons-of-liberty-master-collection-version.json](./383389-metal-gear-solid-2-sons-of-liberty-master-collection-version.json) |
 | Metal Gear Solid 3: Snake Eater - HD Edition | 99821 | [99821-metal-gear-solid-3-snake-eater-hd-edition.json](./99821-metal-gear-solid-3-snake-eater-hd-edition.json) |
 | Metal Gear Solid 3: Snake Eater - Master Collection Version | 383391 | [383391-metal-gear-solid-3-snake-eater-master-collection-version.json](./383391-metal-gear-solid-3-snake-eater-master-collection-version.json) |
+| Metal Gear Solid 4: 25th Anniversary Edition | 44569 | [44569-metal-gear-solid-4-25th-anniversary-edition.json](./44569-metal-gear-solid-4-25th-anniversary-edition.json) |
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
 | Metal Gear Solid V: The Phantom Pain - Special Edition | 298021 | [298021-metal-gear-solid-v-the-phantom-pain-special-edition.json](./298021-metal-gear-solid-v-the-phantom-pain-special-edition.json) |
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
@@ -2137,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
+| Midnight Club: Los Angeles - Complete Edition | 44581 | [44581-midnight-club-los-angeles-complete-edition.json](./44581-midnight-club-los-angeles-complete-edition.json) |
 | Midnight Collection | 309078 | [309078-midnight-collection.json](./309078-midnight-collection.json) |
 | Midnight Commander | 91963 | [91963-midnight-commander.json](./91963-midnight-commander.json) |
 | Midnight Cruise | 296377 | [296377-midnight-cruise.json](./296377-midnight-cruise.json) |
@@ -2179,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
 | Might of Fate | 406130 | [406130-might-of-fate.json](./406130-might-of-fate.json) |
 | Mighty Aphid | 135156 | [135156-mighty-aphid.json](./135156-mighty-aphid.json) |
+| Mighty Flip Champs! DX | 44522 | [44522-mighty-flip-champs-dx.json](./44522-mighty-flip-champs-dx.json) |
 | Mighty forest | 139364 | [139364-mighty-forest.json](./139364-mighty-forest.json) |
 | Mighty Gunvolt | 28950 | [28950-mighty-gunvolt.json](./28950-mighty-gunvolt.json) |
 | Mighty Gunvolt Burst | 29143 | [29143-mighty-gunvolt-burst.json](./29143-mighty-gunvolt-burst.json) |
@@ -2796,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Vol. 1 - Side 7 | 66600 | [66600-mobile-suit-gundam-vol-1-side-7.json](./66600-mobile-suit-gundam-vol-1-side-7.json) |
 | Mobile Suit Gundam: A Year of War | 222899 | [222899-mobile-suit-gundam-a-year-of-war.json](./222899-mobile-suit-gundam-a-year-of-war.json) |
 | Mobile Suit Gundam: Area Wars | 196338 | [196338-mobile-suit-gundam-area-wars.json](./196338-mobile-suit-gundam-area-wars.json) |
+| Mobile Suit Gundam: Battle Operation | 44580 | [44580-mobile-suit-gundam-battle-operation.json](./44580-mobile-suit-gundam-battle-operation.json) |
 | Mobile Suit Gundam: Battle Operation Code Fairy | 178045 | [178045-mobile-suit-gundam-battle-operation-code-fairy.json](./178045-mobile-suit-gundam-battle-operation-code-fairy.json) |
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
 | Mobile Suit Gundam: Extreme vs. Maxi Boost | 79865 | [79865-mobile-suit-gundam-extreme-vs-maxi-boost.json](./79865-mobile-suit-gundam-extreme-vs-maxi-boost.json) |
@@ -2883,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Jigsaw: Witch's Garden vol.2 Pack | 162917 | [162917-moe-jigsaw-witchs-garden-vol-2-pack.json](./162917-moe-jigsaw-witchs-garden-vol-2-pack.json) |
 | Moe Jigsaw: Wizards Complex Pack | 162930 | [162930-moe-jigsaw-wizards-complex-pack.json](./162930-moe-jigsaw-wizards-complex-pack.json) |
 | Moe Moe 2-ji Daisenryaku | 288207 | [288207-moe-moe-2-ji-daisenryaku.json](./288207-moe-moe-2-ji-daisenryaku.json) |
+| Moe Moe Daisensou * Gendaiban++ | 44579 | [44579-moe-moe-daisensou-gendaiban.json](./44579-moe-moe-daisensou-gendaiban.json) |
 | Moe Moe World War II-3 | 120374 | [120374-moe-moe-world-war-ii-3.json](./120374-moe-moe-world-war-ii-3.json) |
 | Moe Waifu H: BlockBlast | 317213 | [317213-moe-waifu-h-blockblast.json](./317213-moe-waifu-h-blockblast.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
@@ -3447,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
 | Mortal Kombat X: Brazil Pack | 304366 | [304366-mortal-kombat-x-brazil-pack.json](./304366-mortal-kombat-x-brazil-pack.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
+| Mortal Kombat: Kollector's Edition | 44559 | [44559-mortal-kombat-kollectors-edition.json](./44559-mortal-kombat-kollectors-edition.json) |
 | Mortal Kombat: Komplete Edition | 2977 | [2977-mortal-kombat-komplete-edition.json](./2977-mortal-kombat-komplete-edition.json) |
 | Mortal Kombat: Legacy Kollection | 347122 | [347122-mortal-kombat-legacy-kollection.json](./347122-mortal-kombat-legacy-kollection.json) |
 | Mortal Kombat: Legacy Kollection - Deluxe Edition | 398998 | [398998-mortal-kombat-legacy-kollection-deluxe-edition.json](./398998-mortal-kombat-legacy-kollection-deluxe-edition.json) |
