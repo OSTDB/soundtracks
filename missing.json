@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T20:51:27.752Z",
-  "total_missing": 63309,
+  "generated_at": "2026-09-12T21:01:45.709Z",
+  "total_missing": 63319,
   "games": [
     {
       "igdb_id": 306086,
@@ -3161,11 +3161,6 @@
       "igdb_id": 85538,
       "game_name": "ACA Neo Geo: Burning Fight",
       "file": "missing/A/85538-aca-neo-geo-burning-fight.json"
-    },
-    {
-      "igdb_id": 396881,
-      "game_name": "ACA Neo Geo: Master of Syougi",
-      "file": "missing/A/396881-aca-neo-geo-master-of-syougi.json"
     },
     {
       "igdb_id": 111644,
@@ -19476,6 +19471,11 @@
       "igdb_id": 124767,
       "game_name": "Axel City",
       "file": "missing/A/124767-axel-city.json"
+    },
+    {
+      "igdb_id": 34355,
+      "game_name": "Axes and Arrows",
+      "file": "missing/A/34355-axes-and-arrows.json"
     },
     {
       "igdb_id": 46637,
@@ -48713,6 +48713,11 @@
       "file": "missing/C/184642-club-goblin.json"
     },
     {
+      "igdb_id": 34337,
+      "game_name": "Club Manager 2016",
+      "file": "missing/C/34337-club-manager-2016.json"
+    },
+    {
       "igdb_id": 31957,
       "game_name": "Club Manager 2017",
       "file": "missing/C/31957-club-manager-2017.json"
@@ -73601,6 +73606,11 @@
       "igdb_id": 121033,
       "game_name": "Dream Ending: Drama",
       "file": "missing/D/121033-dream-ending-drama.json"
+    },
+    {
+      "igdb_id": 34319,
+      "game_name": "Dream Factory",
+      "file": "missing/D/34319-dream-factory.json"
     },
     {
       "igdb_id": 188082,
@@ -145908,6 +145918,11 @@
       "file": "missing/L/16271-lightfish.json"
     },
     {
+      "igdb_id": 34352,
+      "game_name": "Lighthockey",
+      "file": "missing/L/34352-lighthockey.json"
+    },
+    {
       "igdb_id": 120933,
       "game_name": "Lighthouse of Guiding Flames",
       "file": "missing/L/120933-lighthouse-of-guiding-flames.json"
@@ -167293,6 +167308,11 @@
       "file": "missing/M/365701-monster-retsuden-oreca-battle.json"
     },
     {
+      "igdb_id": 34312,
+      "game_name": "Monster RPG 2",
+      "file": "missing/M/34312-monster-rpg-2.json"
+    },
+    {
       "igdb_id": 362269,
       "game_name": "Monster Saga",
       "file": "missing/M/362269-monster-saga.json"
@@ -176586,6 +176606,11 @@
       "igdb_id": 344949,
       "game_name": "Network Nodes",
       "file": "missing/N/344949-network-nodes.json"
+    },
+    {
+      "igdb_id": 34333,
+      "game_name": "Networm",
+      "file": "missing/N/34333-networm.json"
     },
     {
       "igdb_id": 93545,
@@ -234608,6 +234633,11 @@
       "file": "missing/S/104661-slime-garden.json"
     },
     {
+      "igdb_id": 34316,
+      "game_name": "Slime Jumper",
+      "file": "missing/S/34316-slime-jumper.json"
+    },
+    {
       "igdb_id": 163910,
       "game_name": "Slime Killer",
       "file": "missing/S/163910-slime-killer.json"
@@ -237056,6 +237086,11 @@
       "igdb_id": 35594,
       "game_name": "Soccer Manager 2015",
       "file": "missing/S/35594-soccer-manager-2015.json"
+    },
+    {
+      "igdb_id": 34335,
+      "game_name": "Soccer Manager 2016",
+      "file": "missing/S/34335-soccer-manager-2016.json"
     },
     {
       "igdb_id": 241059,
@@ -247343,6 +247378,11 @@
       "file": "missing/S/881-starsiege-tribes.json"
     },
     {
+      "igdb_id": 34321,
+      "game_name": "Starsphere",
+      "file": "missing/S/34321-starsphere.json"
+    },
+    {
       "igdb_id": 264622,
       "game_name": "Starstride",
       "file": "missing/S/264622-starstride.json"
@@ -255816,6 +255856,11 @@
       "igdb_id": 123064,
       "game_name": "Superkid",
       "file": "missing/S/123064-superkid.json"
+    },
+    {
+      "igdb_id": 34343,
+      "game_name": "Superku",
+      "file": "missing/S/34343-superku.json"
     },
     {
       "igdb_id": 237657,
@@ -289391,6 +289436,11 @@
       "igdb_id": 245299,
       "game_name": "Trap Shooting",
       "file": "missing/T/245299-trap-shooting.json"
+    },
+    {
+      "igdb_id": 34336,
+      "game_name": "Trap Them: Sniper Edition",
+      "file": "missing/T/34336-trap-them-sniper-edition.json"
     },
     {
       "igdb_id": 293619,
