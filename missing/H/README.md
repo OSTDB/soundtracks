@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ha/ck | 113710 | [113710-ha-ck.json](./113710-ha-ck.json) |
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
+| Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
@@ -202,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
+| Hammer Away | 40181 | [40181-hammer-away.json](./40181-hammer-away.json) |
 | Hammer climber - Hard Get Over | 105944 | [105944-hammer-climber-hard-get-over.json](./105944-hammer-climber-hard-get-over.json) |
 | Hammer Joe | 307586 | [307586-hammer-joe.json](./307586-hammer-joe.json) |
 | Hammer Keep | 180796 | [180796-hammer-keep.json](./180796-hammer-keep.json) |
@@ -366,6 +368,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
 | Hard Hat Willy | 67244 | [67244-hard-hat-willy.json](./67244-hard-hat-willy.json) |
+| Hard Head | 40179 | [40179-hard-head.json](./40179-hard-head.json) |
+| Hard Head 2 | 40180 | [40180-hard-head-2.json](./40180-hard-head-2.json) |
 | Hard Helmets | 99596 | [99596-hard-helmets.json](./99596-hard-helmets.json) |
 | Hard Hero | 263504 | [263504-hard-hero.json](./263504-hard-hero.json) |
 | Hard Knock High | 43350 | [43350-hard-knock-high.json](./43350-hard-knock-high.json) |
@@ -483,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Village | 340417 | [340417-harvest-village.json](./340417-harvest-village.json) |
 | Harvestella | 206818 | [206818-harvestella.json](./206818-harvestella.json) |
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
+| Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
 | Hasbro Family Game Night 3 | 47434 | [47434-hasbro-family-game-night-3.json](./47434-hasbro-family-game-night-3.json) |
 | Hasbro Game Night for Nintendo Switch | 110394 | [110394-hasbro-game-night-for-nintendo-switch.json](./110394-hasbro-game-night-for-nintendo-switch.json) |
@@ -495,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hat Hunters | 103428 | [103428-hat-hunters.json](./103428-hat-hunters.json) |
 | Hat Trick Hero 2 | 38332 | [38332-hat-trick-hero-2.json](./38332-hat-trick-hero-2.json) |
 | Hat Tricks: Hare in Box | 229054 | [229054-hat-tricks-hare-in-box.json](./229054-hat-tricks-hare-in-box.json) |
+| Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
 | Hatchling | 182511 | [182511-hatchling.json](./182511-hatchling.json) |
 | Hatchling's Adventure | 180785 | [180785-hatchlings-adventure.json](./180785-hatchlings-adventure.json) |
 | Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
@@ -1100,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herb Garden Tycoon | 237669 | [237669-herb-garden-tycoon.json](./237669-herb-garden-tycoon.json) |
 | Herbal Remedies | 266203 | [266203-herbal-remedies.json](./266203-herbal-remedies.json) |
 | Herbheim's Mine | 188689 | [188689-herbheims-mine.json](./188689-herbheims-mine.json) |
+| Herbie at The Olympics | 40174 | [40174-herbie-at-the-olympics.json](./40174-herbie-at-the-olympics.json) |
 | Herbis | 158216 | [158216-herbis.json](./158216-herbis.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
@@ -1128,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
 | Hero Great Wars | 252131 | [252131-hero-great-wars.json](./252131-hero-great-wars.json) |
 | Hero Hunters: Jurassic Shooting Sniper | 104069 | [104069-hero-hunters-jurassic-shooting-sniper.json](./104069-hero-hunters-jurassic-shooting-sniper.json) |
+| Hero in the Castle of Doom | 40173 | [40173-hero-in-the-castle-of-doom.json](./40173-hero-in-the-castle-of-doom.json) |
 | Hero Like | 396188 | [396188-hero-like.json](./396188-hero-like.json) |
 | Hero Lodge | 186815 | [186815-hero-lodge.json](./186815-hero-lodge.json) |
 | Hero Mania | 211714 | [211714-hero-mania.json](./211714-hero-mania.json) |
@@ -1241,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex | 72028 | [72028-hex.json](./72028-hex.json) |
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
+| Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
 | Hex Two | 102218 | [102218-hex-two.json](./102218-hex-two.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
@@ -1281,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
 | Hexin : Space Chess Game | 102211 | [102211-hexin-space-chess-game.json](./102211-hexin-space-chess-game.json) |
+| Hexion | 40197 | [40197-hexion.json](./40197-hexion.json) |
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexon | 127310 | [127310-hexon.json](./127310-hexon.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
@@ -1583,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himehibi: New Princess Days Zoku! Nigakki Portable | 218485 | [218485-himehibi-new-princess-days-zoku-nigakki-portable.json](./218485-himehibi-new-princess-days-zoku-nigakki-portable.json) |
 | Himei Dam | 324703 | [324703-himei-dam.json](./324703-himei-dam.json) |
 | Himemiya-san wa Kamaitai: Limited Edition | 205264 | [205264-himemiya-san-wa-kamaitai-limited-edition.json](./205264-himemiya-san-wa-kamaitai-limited-edition.json) |
+| Himeshikibu | 40196 | [40196-himeshikibu.json](./40196-himeshikibu.json) |
 | HimeYoku: A Sacrifice of Lust and Grace | 215685 | [215685-himeyoku-a-sacrifice-of-lust-and-grace.json](./215685-himeyoku-a-sacrifice-of-lust-and-grace.json) |
 | Himi Nikki | 202359 | [202359-himi-nikki.json](./202359-himi-nikki.json) |
 | Himig | 136989 | [136989-himig.json](./136989-himig.json) |
@@ -1618,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HIS: Heroes in the Sky | 35933 | [35933-his-heroes-in-the-sky.json](./35933-his-heroes-in-the-sky.json) |
 | Hiscores! Gold | 118999 | [118999-hiscores-gold.json](./118999-hiscores-gold.json) |
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
+| Hissatsu Buraiken | 40195 | [40195-hissatsu-buraiken.json](./40195-hissatsu-buraiken.json) |
 | Hissatsu Pachinko Station V2 | 137100 | [137100-hissatsu-pachinko-station-v2.json](./137100-hissatsu-pachinko-station-v2.json) |
 | Hisshou 777 Fighter: Pachi-Slot Ryuuguu Densetsu | 60509 | [60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json](./60509-hisshou-777-fighter-pachi-slot-ryuuguu-densetsu.json) |
 | Hisshou Pachinko * Pachi-Slot Kouryoku Series Vol. 3: CR Marilyn Monroe | 61580 | [61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json](./61580-hisshou-pachinko-pachi-slot-kouryoku-series-vol-3-cr-marilyn-monroe.json) |
@@ -2053,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
 | Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
+| Hot Bubble | 40194 | [40194-hot-bubble.json](./40194-hot-bubble.json) |
 | Hot Candy Land | 262955 | [262955-hot-candy-land.json](./262955-hot-candy-land.json) |
 | Hot Cleopatra | 221196 | [221196-hot-cleopatra.json](./221196-hot-cleopatra.json) |
 | Hot Cocoa Magic! | 249469 | [249469-hot-cocoa-magic.json](./249469-hot-cocoa-magic.json) |
