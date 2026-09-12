@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock & Key: A Hunter's Legacy | 253920 | [253920-lock-and-key-a-hunters-legacy.json](./253920-lock-and-key-a-hunters-legacy.json) |
 | Lock 5 | 70429 | [70429-lock-5.json](./70429-lock-5.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
+| Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
 | Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
@@ -1393,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
 | London Crazy Taxi | 235217 | [235217-london-crazy-taxi.json](./235217-london-crazy-taxi.json) |
 | London Rush | 234602 | [234602-london-rush.json](./234602-london-rush.json) |
+| London-Faversham High Speed | 63799 | [63799-london-faversham-high-speed.json](./63799-london-faversham-high-speed.json) |
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
 | Lone Eagle: Colombian Encounter | 73762 | [73762-lone-eagle-colombian-encounter.json](./73762-lone-eagle-colombian-encounter.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
