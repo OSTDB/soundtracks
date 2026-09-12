@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazarian | 23917 | [23917-lazarian.json](./23917-lazarian.json) |
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
+| Lazer Wheel | 38920 | [38920-lazer-wheel.json](./38920-lazer-wheel.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
 | Lazy Caverns | 57080 | [57080-lazy-caverns.json](./57080-lazy-caverns.json) |
