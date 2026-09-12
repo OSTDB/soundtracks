@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's 4X4 Off-Road Adventure 3 | 23702 | [23702-cabelas-4x4-off-road-adventure-3.json](./23702-cabelas-4x4-off-road-adventure-3.json) |
 | Cabela's Adventure Camp | 6648 | [6648-cabelas-adventure-camp.json](./6648-cabelas-adventure-camp.json) |
 | Cabela's Big Game Hunter | 100218 | [100218-cabelas-big-game-hunter.json](./100218-cabelas-big-game-hunter.json) |
+| Cabela's Big Game Hunter | 43250 | [43250-cabelas-big-game-hunter.json](./43250-cabelas-big-game-hunter.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
 | Cabela's Big Game Hunter: 2004 Season | 69861 | [69861-cabelas-big-game-hunter-2004-season.json](./69861-cabelas-big-game-hunter-2004-season.json) |
 | Cabela's Big Game Hunter: Ultimate Challenge | 45298 | [45298-cabelas-big-game-hunter-ultimate-challenge.json](./45298-cabelas-big-game-hunter-ultimate-challenge.json) |
@@ -406,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
+| Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tycoon | 362291 | [362291-car-tycoon.json](./362291-car-tycoon.json) |
@@ -458,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.7 | 375179 | [375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json](./375179-cardfight-vanguard-dear-days-2-card-unlock-vol-7.json) |
 | Cardfight!! Vanguard: Dear Days 2 - Card Unlock Vol.8 | 375178 | [375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json](./375178-cardfight-vanguard-dear-days-2-card-unlock-vol-8.json) |
 | Cardfight!!: Additional Card Set Vol.6 [D-BT09] - Dragontree Invasion | 267666 | [267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json](./267666-cardfight-additional-card-set-vol-6-d-bt09-dragontree-invasion.json) |
+| Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
 | Cardlock | 184582 | [184582-cardlock.json](./184582-cardlock.json) |
 | Cardnarok: Raid with Gods | 132232 | [132232-cardnarok-raid-with-gods.json](./132232-cardnarok-raid-with-gods.json) |
@@ -556,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carsick Carventure | 276692 | [276692-carsick-carventure.json](./276692-carsick-carventure.json) |
 | Cart by Cart | 406723 | [406723-cart-by-cart.json](./406723-cart-by-cart.json) |
 | Cart Crawlers | 184637 | [184637-cart-crawlers.json](./184637-cart-crawlers.json) |
+| Cart Fury | 43275 | [43275-cart-fury.json](./43275-cart-fury.json) |
 | Cart Fury: Championship Racing | 78637 | [78637-cart-fury-championship-racing.json](./78637-cart-fury-championship-racing.json) |
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Carte Blanche | 333559 | [333559-carte-blanche.json](./333559-carte-blanche.json) |
@@ -2415,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comanche: Maximum Overkill - Mission Disk 1 | 94240 | [94240-comanche-maximum-overkill-mission-disk-1.json](./94240-comanche-maximum-overkill-mission-disk-1.json) |
 | Comando Tracer | 138800 | [138800-comando-tracer.json](./138800-comando-tracer.json) |
 | Combat | 131545 | [131545-combat.json](./131545-combat.json) |
+| Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
 | Combat Champions | 244510 | [244510-combat-champions.json](./244510-combat-champions.json) |
 | Combat Choro Q | 97362 | [97362-combat-choro-q.json](./97362-combat-choro-q.json) |
 | Combat Command | 139426 | [139426-combat-command.json](./139426-combat-command.json) |
