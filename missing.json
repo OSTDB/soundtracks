@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T18:48:49.668Z",
-  "total_missing": 62983,
+  "generated_at": "2026-09-12T18:51:38.682Z",
+  "total_missing": 62982,
   "games": [
     {
       "igdb_id": 306086,
@@ -3096,11 +3096,6 @@
       "igdb_id": 8524,
       "game_name": "Abyss",
       "file": "missing/A/8524-abyss.json"
-    },
-    {
-      "igdb_id": 35789,
-      "game_name": "Abyss Cave",
-      "file": "missing/A/35789-abyss-cave.json"
     },
     {
       "igdb_id": 332446,
