@@ -1752,6 +1752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Escape | 70912 | [70912-hollywood-escape.json](./70912-hollywood-escape.json) |
 | Hollywood Monsters | 71516 | [71516-hollywood-monsters.json](./71516-hollywood-monsters.json) |
 | Hollywood Pictures II | 53208 | [53208-hollywood-pictures-ii.json](./53208-hollywood-pictures-ii.json) |
+| Hollywood Pinball | 49862 | [49862-hollywood-pinball.json](./49862-hollywood-pinball.json) |
 | Hollywood Squares | 48056 | [48056-hollywood-squares.json](./48056-hollywood-squares.json) |
 | Hollywood Tycoon | 67958 | [67958-hollywood-tycoon.json](./67958-hollywood-tycoon.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
