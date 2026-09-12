@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T17:33:49.410Z",
-  "total_missing": 62787,
+  "generated_at": "2026-09-12T17:41:33.189Z",
+  "total_missing": 62786,
   "games": [
     {
       "igdb_id": 306086,
@@ -3061,11 +3061,6 @@
       "igdb_id": 166671,
       "game_name": "Absurdistan",
       "file": "missing/A/166671-absurdistan.json"
-    },
-    {
-      "igdb_id": 372445,
-      "game_name": "Abulia",
-      "file": "missing/A/372445-abulia.json"
     },
     {
       "igdb_id": 197859,
