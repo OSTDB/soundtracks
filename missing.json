@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T08:21:35.868Z",
-  "total_missing": 61217,
+  "generated_at": "2026-09-12T08:31:38.863Z",
+  "total_missing": 61226,
   "games": [
     {
       "igdb_id": 306086,
@@ -2776,11 +2776,6 @@
       "igdb_id": 164513,
       "game_name": "Abandoned Life",
       "file": "missing/A/164513-abandoned-life.json"
-    },
-    {
-      "igdb_id": 178084,
-      "game_name": "Abandoned Nursery",
-      "file": "missing/A/178084-abandoned-nursery.json"
     },
     {
       "igdb_id": 215127,
@@ -12851,6 +12846,11 @@
       "igdb_id": 129803,
       "game_name": "Apocalypse Z: Survival",
       "file": "missing/A/129803-apocalypse-z-survival.json"
+    },
+    {
+      "igdb_id": 61615,
+      "game_name": "Apocalypse: The Game",
+      "file": "missing/A/61615-apocalypse-the-game.json"
     },
     {
       "igdb_id": 189189,
@@ -106893,6 +106893,11 @@
       "file": "missing/G/178091-guru-meditation.json"
     },
     {
+      "igdb_id": 61620,
+      "game_name": "Gurugedara",
+      "file": "missing/G/61620-gurugedara.json"
+    },
+    {
       "igdb_id": 86017,
       "game_name": "Gütertrennung",
       "file": "missing/G/86017-gutertrennung.json"
@@ -139513,6 +139518,16 @@
       "file": "missing/L/259254-lego-batman-the-videogame.json"
     },
     {
+      "igdb_id": 61624,
+      "game_name": "LEGO City Fire Hose Frenzy",
+      "file": "missing/L/61624-lego-city-fire-hose-frenzy.json"
+    },
+    {
+      "igdb_id": 61623,
+      "game_name": "LEGO City Spotlight Robbery",
+      "file": "missing/L/61623-lego-city-spotlight-robbery.json"
+    },
+    {
       "igdb_id": 66631,
       "game_name": "LEGO Creator: Harry Potter",
       "file": "missing/L/66631-lego-creator-harry-potter.json"
@@ -161936,6 +161951,11 @@
       "igdb_id": 375858,
       "game_name": "Monster Parlor",
       "file": "missing/M/375858-monster-parlor.json"
+    },
+    {
+      "igdb_id": 61619,
+      "game_name": "Monster partner",
+      "file": "missing/M/61619-monster-partner.json"
     },
     {
       "igdb_id": 242787,
@@ -206076,6 +206096,11 @@
       "igdb_id": 404249,
       "game_name": "Replica Club Route D",
       "file": "missing/R/404249-replica-club-route-d.json"
+    },
+    {
+      "igdb_id": 61625,
+      "game_name": "Replica Island",
+      "file": "missing/R/61625-replica-island.json"
     },
     {
       "igdb_id": 41390,
@@ -250508,6 +250533,11 @@
       "file": "missing/T/96670-tactics-and-strategy-master-joan-of-arc.json"
     },
     {
+      "igdb_id": 61610,
+      "game_name": "Tactics 2: War",
+      "file": "missing/T/61610-tactics-2-war.json"
+    },
+    {
       "igdb_id": 69301,
       "game_name": "Tactics Arena Online",
       "file": "missing/T/69301-tactics-arena-online.json"
@@ -276233,6 +276263,11 @@
       "file": "missing/T/308530-torees-panic-pack.json"
     },
     {
+      "igdb_id": 61611,
+      "game_name": "Torej: Red Cubes",
+      "file": "missing/T/61611-torej-red-cubes.json"
+    },
+    {
       "igdb_id": 151650,
       "game_name": "Toricky S",
       "file": "missing/T/151650-toricky-s.json"
@@ -276756,6 +276791,11 @@
       "igdb_id": 6462,
       "game_name": "Touch My Katamari",
       "file": "missing/T/6462-touch-my-katamari.json"
+    },
+    {
+      "igdb_id": 61618,
+      "game_name": "Touch My Spinner",
+      "file": "missing/T/61618-touch-my-spinner.json"
     },
     {
       "igdb_id": 67947,
@@ -293541,6 +293581,11 @@
       "igdb_id": 200703,
       "game_name": "Waste",
       "file": "missing/W/200703-waste.json"
+    },
+    {
+      "igdb_id": 61614,
+      "game_name": "Waste Cleaner",
+      "file": "missing/W/61614-waste-cleaner.json"
     },
     {
       "igdb_id": 248651,
