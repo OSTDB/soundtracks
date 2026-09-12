@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | AInder | 239682 | [239682-ainder.json](./239682-ainder.json) |
 | Ainmora: The Impending Disaster | 241949 | [241949-ainmora-the-impending-disaster.json](./241949-ainmora-the-impending-disaster.json) |
+| Aion: Dark Betrayal | 62683 | [62683-aion-dark-betrayal.json](./62683-aion-dark-betrayal.json) |
 | Aion: Echoes of Eternity | 77274 | [77274-aion-echoes-of-eternity.json](./77274-aion-echoes-of-eternity.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
@@ -1487,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Superhero Squad | 159862 | [159862-amazing-superhero-squad.json](./159862-amazing-superhero-squad.json) |
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
+| Amazing Zombie Defense | 62663 | [62663-amazing-zombie-defense.json](./62663-amazing-zombie-defense.json) |
 | Amazing: A House In Kansas VR | 119767 | [119767-amazing-a-house-in-kansas-vr.json](./119767-amazing-a-house-in-kansas-vr.json) |
 | Amazon Odyssey | 75111 | [75111-amazon-odyssey.json](./75111-amazon-odyssey.json) |
 | Amazon Rush | 89271 | [89271-amazon-rush.json](./89271-amazon-rush.json) |
