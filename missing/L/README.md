@@ -361,6 +361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Game: 2024 | 340904 | [340904-lawnmower-game-2024.json](./340904-lawnmower-game-2024.json) |
 | LawnMower: Mortal Race | 219284 | [219284-lawnmower-mortal-race.json](./219284-lawnmower-mortal-race.json) |
 | Lawnpocalypse | 379370 | [379370-lawnpocalypse.json](./379370-lawnpocalypse.json) |
+| Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
@@ -438,6 +439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Vol. 3: Mice Love Cheese | 305786 | [305786-learn-to-play-vol-3-mice-love-cheese.json](./305786-learn-to-play-vol-3-mice-love-cheese.json) |
 | Learning Ladder: Years 1 & 2 | 326983 | [326983-learning-ladder-years-1-and-2.json](./326983-learning-ladder-years-1-and-2.json) |
 | Learning Life: Mysteeri 24/7 | 193434 | [193434-learning-life-mysteeri-24-7.json](./193434-learning-life-mysteeri-24-7.json) |
+| Learning with FuzzyWomp | 72030 | [72030-learning-with-fuzzywomp.json](./72030-learning-with-fuzzywomp.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
 | Leather Goddesses of Phobos | 12174 | [12174-leather-goddesses-of-phobos.json](./12174-leather-goddesses-of-phobos.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
@@ -1251,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
 | Living Legends: Wrath of the Beast Collector's Edition | 107860 | [107860-living-legends-wrath-of-the-beast-collectors-edition.json](./107860-living-legends-wrath-of-the-beast-collectors-edition.json) |
+| Living Puzzles: Triazzle | 72023 | [72023-living-puzzles-triazzle.json](./72023-living-puzzles-triazzle.json) |
 | Living the Nightmare | 151144 | [151144-living-the-nightmare.json](./151144-living-the-nightmare.json) |
 | Living with an Elf: A Cozy Forest Retreat | 263195 | [263195-living-with-an-elf-a-cozy-forest-retreat.json](./263195-living-with-an-elf-a-cozy-forest-retreat.json) |
 | Living With It | 329394 | [329394-living-with-it.json](./329394-living-with-it.json) |
@@ -1483,6 +1486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
 | Lord of the Other World | 174815 | [174815-lord-of-the-other-world.json](./174815-lord-of-the-other-world.json) |
 | Lord of the Race | 260656 | [260656-lord-of-the-race.json](./260656-lord-of-the-race.json) |
+| Lord of the Shades | 72031 | [72031-lord-of-the-shades.json](./72031-lord-of-the-shades.json) |
 | Lord of the Sword | 46671 | [46671-lord-of-the-sword.json](./46671-lord-of-the-sword.json) |
 | Lord of the Сlick | 207815 | [207815-lord-of-the-lick.json](./207815-lord-of-the-lick.json) |
 | Lord of Ultima | 66713 | [66713-lord-of-ultima.json](./66713-lord-of-ultima.json) |
