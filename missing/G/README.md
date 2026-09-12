@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Grumps: The Video Game | 283768 | [283768-game-grumps-the-video-game.json](./283768-game-grumps-the-video-game.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
+| Game no Tatsujin: Money Wars | 41314 | [41314-game-no-tatsujin-money-wars.json](./41314-game-no-tatsujin-money-wars.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
 | Game of Dice | 58793 | [58793-game-of-dice.json](./58793-game-of-dice.json) |
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
@@ -654,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gërman Boy | 331889 | [331889-german-boy.json](./331889-german-boy.json) |
 | German Road Racer Pro | 100731 | [100731-german-road-racer-pro.json](./100731-german-road-racer-pro.json) |
 | German Tantei-dan Maringumi: Himitsu Kichi wo Mamore! | 346031 | [346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json](./346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json) |
+| German Tanteidan Marin-gumi: Maruhi Jigomar Sousa File | 41335 | [41335-german-tanteidan-marin-gumi-maruhi-jigomar-sousa-file.json](./41335-german-tanteidan-marin-gumi-maruhi-jigomar-sousa-file.json) |
 | Germany's Next Top Model | 82065 | [82065-germanys-next-top-model.json](./82065-germanys-next-top-model.json) |
 | Germany's Next Top Model: Das Offizielle Spiel zur Staffel 2009 | 86128 | [86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json](./86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json) |
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
