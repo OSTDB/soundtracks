@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Shot VR | 98477 | [98477-real-shot-vr.json](./98477-real-shot-vr.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2011 | 116348 | [116348-real-soccer-2011.json](./116348-real-soccer-2011.json) |
+| Real Sound: Kaze no Regret | 66624 | [66624-real-sound-kaze-no-regret.json](./66624-real-sound-kaze-no-regret.json) |
 | Real Steel World Robot Boxing | 111751 | [111751-real-steel-world-robot-boxing.json](./111751-real-steel-world-robot-boxing.json) |
 | Real Tennis | 100200 | [100200-real-tennis.json](./100200-real-tennis.json) |
 | Real Time Assist Replay Time | 251243 | [251243-real-time-assist-replay-time.json](./251243-real-time-assist-replay-time.json) |
@@ -1197,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Phantom | 69869 | [69869-return-of-the-phantom.json](./69869-return-of-the-phantom.json) |
 | Return of the Saiyans | 237407 | [237407-return-of-the-saiyans.json](./237407-return-of-the-saiyans.json) |
 | Return of the Skeletal | 135175 | [135175-return-of-the-skeletal.json](./135175-return-of-the-skeletal.json) |
+| Return of the Things | 66627 | [66627-return-of-the-things.json](./66627-return-of-the-things.json) |
 | Return the Backrooms | 224561 | [224561-return-the-backrooms.json](./224561-return-the-backrooms.json) |
 | Return to Abyss | 233251 | [233251-return-to-abyss.json](./233251-return-to-abyss.json) |
 | Return to Castle Wolfenstein: Tides of War | 77220 | [77220-return-to-castle-wolfenstein-tides-of-war.json](./77220-return-to-castle-wolfenstein-tides-of-war.json) |
@@ -1868,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman GP | 309669 | [309669-rockman-gp.json](./309669-rockman-gp.json) |
 | Rockman No Constancy | 48027 | [48027-rockman-no-constancy.json](./48027-rockman-no-constancy.json) |
 | Rockman No Constancy: Hard Mode | 269870 | [269870-rockman-no-constancy-hard-mode.json](./269870-rockman-no-constancy-hard-mode.json) |
+| Rockman Online | 66610 | [66610-rockman-online.json](./66610-rockman-online.json) |
 | Rockman The Puzzle Battle | 290956 | [290956-rockman-the-puzzle-battle.json](./290956-rockman-the-puzzle-battle.json) |
 | Rockman X3 | 256302 | [256302-rockman-x3.json](./256302-rockman-x3.json) |
 | Rockman X3 Buster Battle | 225258 | [225258-rockman-x3-buster-battle.json](./225258-rockman-x3-buster-battle.json) |
@@ -2316,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruck | 232422 | [232422-ruck.json](./232422-ruck.json) |
 | Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
 | Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
+| Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
 | Rue | 165663 | [165663-rue.json](./165663-rue.json) |
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
@@ -2546,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rygar | 6856 | [6856-rygar.json](./6856-rygar.json) |
 | Rygar: The Legendary Adventure | 5134 | [5134-rygar-the-legendary-adventure.json](./5134-rygar-the-legendary-adventure.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
+| Ryouki Enbu | 66650 | [66650-ryouki-enbu.json](./66650-ryouki-enbu.json) |
 | Rysen Dawn | 174899 | [174899-rysen-dawn.json](./174899-rysen-dawn.json) |
 | Rystel | 151723 | [151723-rystel.json](./151723-rystel.json) |
 | Rythenia | 151126 | [151126-rythenia.json](./151126-rythenia.json) |
