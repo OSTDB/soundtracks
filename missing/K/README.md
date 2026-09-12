@@ -1154,6 +1154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kungfu Football Captain | 153931 | [153931-kungfu-football-captain.json](./153931-kungfu-football-captain.json) |
 | KungFu Kickball | 121713 | [121713-kungfu-kickball.json](./121713-kungfu-kickball.json) |
 | Kunio no Nekketsu School Fighters | 296061 | [296061-kunio-no-nekketsu-school-fighters.json](./296061-kunio-no-nekketsu-school-fighters.json) |
+| Kunio-kun no Nekketsu Dodgeball Allstars!! | 60502 | [60502-kunio-kun-no-nekketsu-dodgeball-allstars.json](./60502-kunio-kun-no-nekketsu-dodgeball-allstars.json) |
 | Kunio-kun's Nekketsu Soccer League | 16603 | [16603-kunio-kuns-nekketsu-soccer-league.json](./16603-kunio-kuns-nekketsu-soccer-league.json) |
 | Kunitori Zunou Battle: Nobunaga no Yabou | 69286 | [69286-kunitori-zunou-battle-nobunaga-no-yabou.json](./69286-kunitori-zunou-battle-nobunaga-no-yabou.json) |
 | Kunkun Terror Express | 296921 | [296921-kunkun-terror-express.json](./296921-kunkun-terror-express.json) |
@@ -1170,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurohi | 397677 | [397677-kurohi.json](./397677-kurohi.json) |
 | Kurohyou: Ryuu ga Gotoku Shinshou | 66611 | [66611-kurohyou-ryuu-ga-gotoku-shinshou.json](./66611-kurohyou-ryuu-ga-gotoku-shinshou.json) |
 | Kuroinu 2 Redux | 262080 | [262080-kuroinu-2-redux.json](./262080-kuroinu-2-redux.json) |
+| Kuroko no Basket: Mirai he no Kizuna | 60492 | [60492-kuroko-no-basket-mirai-he-no-kizuna.json](./60492-kuroko-no-basket-mirai-he-no-kizuna.json) |
 | Kuroneko-sou Souzoku Satsujin Jiken | 222910 | [222910-kuroneko-sou-souzoku-satsujin-jiken.json](./222910-kuroneko-sou-souzoku-satsujin-jiken.json) |
 | Kurt: Der Fussballmanager | 171616 | [171616-kurt-der-fussballmanager.json](./171616-kurt-der-fussballmanager.json) |
 | Kuru-kuru Action Kuru Pachi 6 | 220845 | [220845-kuru-kuru-action-kuru-pachi-6.json](./220845-kuru-kuru-action-kuru-pachi-6.json) |
