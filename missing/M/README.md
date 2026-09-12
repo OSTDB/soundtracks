@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechQuest | 78644 | [78644-mechquest.json](./78644-mechquest.json) |
 | Mechsternmination Force | 115705 | [115705-mechsternmination-force.json](./115705-mechsternmination-force.json) |
 | MechWarrior 3 | 19190 | [19190-mechwarrior-3.json](./19190-mechwarrior-3.json) |
+| MechWarrior 4: Clan 'Mech Pak | 78009 | [78009-mechwarrior-4-clan-mech-pak.json](./78009-mechwarrior-4-clan-mech-pak.json) |
 | MechWarrior Online: Black Hawk-Ku Mech Pack | 305533 | [305533-mechwarrior-online-black-hawk-ku-mech-pack.json](./305533-mechwarrior-online-black-hawk-ku-mech-pack.json) |
 | MechWarrior Tactics | 94184 | [94184-mechwarrior-tactics.json](./94184-mechwarrior-tactics.json) |
 | MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
@@ -1398,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network Legacy Collection | 206810 | [206810-mega-man-battle-network-legacy-collection.json](./206810-mega-man-battle-network-legacy-collection.json) |
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
+| Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
 | Mega Man Star Force 2: Zerker x Ninja | 1785 | [1785-mega-man-star-force-2-zerker-x-ninja.json](./1785-mega-man-star-force-2-zerker-x-ninja.json) |
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
