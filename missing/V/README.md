@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
 | Violated By Other World Monster Girls | 82915 | [82915-violated-by-other-world-monster-girls.json](./82915-violated-by-other-world-monster-girls.json) |
 | Violator | 80616 | [80616-violator.json](./80616-violator.json) |
+| Violence Fight | 39608 | [39608-violence-fight.json](./39608-violence-fight.json) |
 | Violent Agent | 189206 | [189206-violent-agent.json](./189206-violent-agent.json) |
 | Violent Cheese Crusader | 183531 | [183531-violent-cheese-crusader.json](./183531-violent-cheese-crusader.json) |
 | Violent Vengeance: The Universe Hero | 365667 | [365667-violent-vengeance-the-universe-hero.json](./365667-violent-vengeance-the-universe-hero.json) |
@@ -745,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volos | 93070 | [93070-volos.json](./93070-volos.json) |
 | Volot: Red Odyssey | 157120 | [157120-volot-red-odyssey.json](./157120-volot-red-odyssey.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
+| Voltage Fighter Gowcaizer | 39590 | [39590-voltage-fighter-gowcaizer.json](./39590-voltage-fighter-gowcaizer.json) |
 | Voltorometer Recharged+ | 247512 | [247512-voltorometer-recharged.json](./247512-voltorometer-recharged.json) |
 | Voltron | 95400 | [95400-voltron.json](./95400-voltron.json) |
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
