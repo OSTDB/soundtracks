@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Frankl: Puzzle no Tou | 254499 | [254499-peter-frankl-puzzle-no-tou.json](./254499-peter-frankl-puzzle-no-tou.json) |
 | Peter Pan | 95405 | [95405-peter-pan.json](./95405-peter-pan.json) |
 | Peter Pan: A Story Painting Adventure | 327871 | [327871-peter-pan-a-story-painting-adventure.json](./327871-peter-pan-a-story-painting-adventure.json) |
+| Peter Pan: The Motion Picture Event | 49317 | [49317-peter-pan-the-motion-picture-event.json](./49317-peter-pan-the-motion-picture-event.json) |
 | Peter Rabbit Maze Mischief | 88192 | [88192-peter-rabbit-maze-mischief.json](./88192-peter-rabbit-maze-mischief.json) |
 | Peter Shilton's Handball Maradona! | 73836 | [73836-peter-shiltons-handball-maradona.json](./73836-peter-shiltons-handball-maradona.json) |
 | Peter's Apostles | 351609 | [351609-peters-apostles.json](./351609-peters-apostles.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 131514 | [131514-pinball.json](./131514-pinball.json) |
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
+| Pinball Advance | 49316 | [49316-pinball-advance.json](./49316-pinball-advance.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
 | Pinball Arcade: AC/DC | 349341 | [349341-pinball-arcade-ac-dc.json](./349341-pinball-arcade-ac-dc.json) |
 | Pinball Arcade: Banzai Run | 349342 | [349342-pinball-arcade-banzai-run.json](./349342-pinball-arcade-banzai-run.json) |
@@ -2555,9 +2557,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistorik Man | 159266 | [159266-prehistorik-man.json](./159266-prehistorik-man.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
 | Premier Action | 70915 | [70915-premier-action.json](./70915-premier-action.json) |
+| Premier Action Soccer | 49356 | [49356-premier-action-soccer.json](./49356-premier-action-soccer.json) |
 | Premier Buggy Racing Tour | 68617 | [68617-premier-buggy-racing-tour.json](./68617-premier-buggy-racing-tour.json) |
 | Premier Manager 2002-03 | 95428 | [95428-premier-manager-2002-03.json](./95428-premier-manager-2002-03.json) |
 | Premier Manager 2004-2005 | 248630 | [248630-premier-manager-2004-2005.json](./248630-premier-manager-2004-2005.json) |
+| Premier Manager 2004-2005 | 49355 | [49355-premier-manager-2004-2005.json](./49355-premier-manager-2004-2005.json) |
+| Premier Manager 2005-2006 | 49354 | [49354-premier-manager-2005-2006.json](./49354-premier-manager-2005-2006.json) |
 | Premier Servi | 293635 | [293635-premier-servi.json](./293635-premier-servi.json) |
 | Premium Bowling | 109304 | [109304-premium-bowling.json](./109304-premium-bowling.json) |
 | Prenup Struggles | 314062 | [314062-prenup-struggles.json](./314062-prenup-struggles.json) |
