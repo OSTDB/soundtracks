@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wait: The Patient | 312564 | [312564-wait-the-patient.json](./312564-wait-the-patient.json) |
 | Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
+| Waiting For the Loop | 75036 | [75036-waiting-for-the-loop.json](./75036-waiting-for-the-loop.json) |
 | Waiting For You At The End of Time | 335258 | [335258-waiting-for-you-at-the-end-of-time.json](./335258-waiting-for-you-at-the-end-of-time.json) |
 | WaiWai Drive | 312353 | [312353-waiwai-drive.json](./312353-waiwai-drive.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
@@ -165,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wannabe Galgame God!!! | 389964 | [389964-wannabe-galgame-god.json](./389964-wannabe-galgame-god.json) |
 | WannaMine | 88196 | [88196-wannamine.json](./88196-wannamine.json) |
 | Wanpaku Kokkun no Gourmet World | 215131 | [215131-wanpaku-kokkun-no-gourmet-world.json](./215131-wanpaku-kokkun-no-gourmet-world.json) |
+| Wanted | 75090 | [75090-wanted.json](./75090-wanted.json) |
 | Wanted 3D: Dead or Alive | 335858 | [335858-wanted-3d-dead-or-alive.json](./335858-wanted-3d-dead-or-alive.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted: Dead - Collector's Edition | 228736 | [228736-wanted-dead-collectors-edition.json](./228736-wanted-dead-collectors-edition.json) |
@@ -1330,6 +1332,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein 3D: Second Encounter | 306961 | [306961-wolfenstein-3d-second-encounter.json](./306961-wolfenstein-3d-second-encounter.json) |
 | Wolfenstein 3D: Third Encounter | 306963 | [306963-wolfenstein-3d-third-encounter.json](./306963-wolfenstein-3d-third-encounter.json) |
 | Wolfenstein II: The Freedom Chronicles - Season Pass | 75847 | [75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json](./75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json) |
+| Wolfenstein II: The New Colossus - The Amazing Deeds of Captain Wilkins | 75846 | [75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json](./75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json) |
+| Wolfenstein II: The New Colossus - The Diaries of Agent Silent Death | 75845 | [75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json](./75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json) |
 | Wolfenstein VCS: The Next Mission | 77284 | [77284-wolfenstein-vcs-the-next-mission.json](./77284-wolfenstein-vcs-the-next-mission.json) |
 | Wolfenstein X: Hearts of Liberty | 143081 | [143081-wolfenstein-x-hearts-of-liberty.json](./143081-wolfenstein-x-hearts-of-liberty.json) |
 | Wolfenstein: Alt History Collection | 139958 | [139958-wolfenstein-alt-history-collection.json](./139958-wolfenstein-alt-history-collection.json) |
@@ -1641,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II: Prisoner of War | 64979 | [64979-world-war-ii-prisoner-of-war.json](./64979-world-war-ii-prisoner-of-war.json) |
 | World War II: Tank Commander | 205825 | [205825-world-war-ii-tank-commander.json](./205825-world-war-ii-tank-commander.json) |
 | World War One | 21137 | [21137-world-war-one.json](./21137-world-war-one.json) |
+| World War Party: Game of Trump | 75054 | [75054-world-war-party-game-of-trump.json](./75054-world-war-party-game-of-trump.json) |
 | World War Touch | 174333 | [174333-world-war-touch.json](./174333-world-war-touch.json) |
 | World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
