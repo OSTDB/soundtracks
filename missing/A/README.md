@@ -204,7 +204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | Abzu: Deluxe Edition | 52553 | [52553-abzu-deluxe-edition.json](./52553-abzu-deluxe-edition.json) |
 | AC/DC Live: Rock Band - Track Pack | 6467 | [6467-ac-dc-live-rock-band-track-pack.json](./6467-ac-dc-live-rock-band-track-pack.json) |
-| ACA Neo Geo: 2020 Super Baseball | 86816 | [86816-aca-neo-geo-2020-super-baseball.json](./86816-aca-neo-geo-2020-super-baseball.json) |
 | ACA Neo Geo: Burning Fight | 85538 | [85538-aca-neo-geo-burning-fight.json](./85538-aca-neo-geo-burning-fight.json) |
 | ACA Neo Geo: Master of Syougi | 396881 | [396881-aca-neo-geo-master-of-syougi.json](./396881-aca-neo-geo-master-of-syougi.json) |
 | ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer | 111644 | [111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json](./111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json) |
