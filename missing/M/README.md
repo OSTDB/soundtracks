@@ -77,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Martha 2 | 45366 | [45366-mad-martha-2.json](./45366-mad-martha-2.json) |
 | Mad Max: Ripper Special Edition | 89930 | [89930-mad-max-ripper-special-edition.json](./89930-mad-max-ripper-special-edition.json) |
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
+| Mad Moles | 58753 | [58753-mad-moles.json](./58753-mad-moles.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
@@ -85,6 +86,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Rocket: Fog of War | 111758 | [111758-mad-rocket-fog-of-war.json](./111758-mad-rocket-fog-of-war.json) |
 | Mad Shark | 40258 | [40258-mad-shark.json](./40258-mad-shark.json) |
 | Mad Skills | 181353 | [181353-mad-skills.json](./181353-mad-skills.json) |
+| Mad Skills BMX | 58787 | [58787-mad-skills-bmx.json](./58787-mad-skills-bmx.json) |
+| Mad Skills BMX 2 | 58785 | [58785-mad-skills-bmx-2.json](./58785-mad-skills-bmx-2.json) |
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
@@ -230,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Machine Gun | 248684 | [248684-magic-machine-gun.json](./248684-magic-machine-gun.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic Mushrooms | 13735 | [13735-magic-mushrooms.json](./13735-magic-mushrooms.json) |
+| Magic Numbers 2 | 58764 | [58764-magic-numbers-2.json](./58764-magic-numbers-2.json) |
 | Magic Ocean: Multiplayer Roguelike | 141245 | [141245-magic-ocean-multiplayer-roguelike.json](./141245-magic-ocean-multiplayer-roguelike.json) |
 | Magic Paint | 88224 | [88224-magic-paint.json](./88224-magic-paint.json) |
 | Magic Paper | 250648 | [250648-magic-paper.json](./250648-magic-paper.json) |
@@ -639,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mar Koochooloo | 276719 | [276719-mar-koochooloo.json](./276719-mar-koochooloo.json) |
 | MAR WAR: The Evil Awakens | 83519 | [83519-mar-war-the-evil-awakens.json](./83519-mar-war-the-evil-awakens.json) |
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
+| Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
@@ -1333,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Parts Collection 2 | 92534 | [92534-medarot-parts-collection-2.json](./92534-medarot-parts-collection-2.json) |
 | Medarot R Parts Collection | 92537 | [92537-medarot-r-parts-collection.json](./92537-medarot-r-parts-collection.json) |
 | Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
+| MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
 | Medic Mayhem | 406680 | [406680-medic-mayhem.json](./406680-medic-mayhem.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
