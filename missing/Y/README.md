@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahrit! | 105291 | [105291-yahrit.json](./105291-yahrit.json) |
 | Yahtzee Party | 205809 | [205809-yahtzee-party.json](./205809-yahtzee-party.json) |
 | Yahtzee! Wild | 355013 | [355013-yahtzee-wild.json](./355013-yahtzee-wild.json) |
+| Yakata Nightmare Project | 58780 | [58780-yakata-nightmare-project.json](./58780-yakata-nightmare-project.json) |
 | Yaken Rodem | 333543 | [333543-yaken-rodem.json](./333543-yaken-rodem.json) |
 | Yakimochi Stream | 373023 | [373023-yakimochi-stream.json](./373023-yakimochi-stream.json) |
 | Yakiniku Simulatior | 203886 | [203886-yakiniku-simulatior.json](./203886-yakiniku-simulatior.json) |
