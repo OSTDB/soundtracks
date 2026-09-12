@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iAmBored Throw It Deluxe | 101527 | [101527-iambored-throw-it-deluxe.json](./101527-iambored-throw-it-deluxe.json) |
 | Ian Botham's Test Match | 15574 | [15574-ian-bothams-test-match.json](./15574-ian-bothams-test-match.json) |
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
+| IBM: Cityone, A Smarter Planet Game | 66626 | [66626-ibm-cityone-a-smarter-planet-game.json](./66626-ibm-cityone-a-smarter-planet-game.json) |
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
