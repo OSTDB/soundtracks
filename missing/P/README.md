@@ -2350,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Taisen Puzzle Dama Online | 281402 | [281402-popn-taisen-puzzle-dama-online.json](./281402-popn-taisen-puzzle-dama-online.json) |
 | Pop4 | 134028 | [134028-pop4.json](./134028-pop4.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
+| Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes and the Machinist | 231093 | [231093-popgoes-and-the-machinist.json](./231093-popgoes-and-the-machinist.json) |
 | Popgoes Arcade: Fighting Chance | 306983 | [306983-popgoes-arcade-fighting-chance.json](./306983-popgoes-arcade-fighting-chance.json) |
