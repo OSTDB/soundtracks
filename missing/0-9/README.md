@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
 | 3M Spain Foundation: Stem + VR | 187449 | [187449-3m-spain-foundation-stem-vr.json](./187449-3m-spain-foundation-stem-vr.json) |
+| 3rd Degree | 45948 | [45948-3rd-degree.json](./45948-3rd-degree.json) |
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
 | 3x3 | 312887 | [312887-3x3.json](./312887-3x3.json) |
 | 3x3: Take Two | 312889 | [312889-3x3-take-two.json](./312889-3x3-take-two.json) |
