@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walpurgis Quintet | 205253 | [205253-walpurgis-quintet.json](./205253-walpurgis-quintet.json) |
 | Walpurgis: Enkan no Meikyuu | 205252 | [205252-walpurgis-enkan-no-meikyuu.json](./205252-walpurgis-enkan-no-meikyuu.json) |
 | Walrus Fly | 406690 | [406690-walrus-fly.json](./406690-walrus-fly.json) |
+| Walt Disney's Snow White and the Seven Dwarfs | 59938 | [59938-walt-disneys-snow-white-and-the-seven-dwarfs.json](./59938-walt-disneys-snow-white-and-the-seven-dwarfs.json) |
 | Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
 | Waluigi's Taco Stand | 135227 | [135227-waluigis-taco-stand.json](./135227-waluigis-taco-stand.json) |
@@ -1017,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
+| Wild Wheels | 59968 | [59968-wild-wheels.json](./59968-wild-wheels.json) |
 | Wild Wild West: The Steel Assassin | 70950 | [70950-wild-wild-west-the-steel-assassin.json](./70950-wild-wild-west-the-steel-assassin.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
@@ -1365,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
 | Wolfenstein: Youngblood - Digital Limited Edition | 121640 | [121640-wolfenstein-youngblood-digital-limited-edition.json](./121640-wolfenstein-youngblood-digital-limited-edition.json) |
 | Wolfgun | 180777 | [180777-wolfgun.json](./180777-wolfgun.json) |
+| WolfKnights | 59930 | [59930-wolfknights.json](./59930-wolfknights.json) |
 | Wolflame | 19305 | [19305-wolflame.json](./19305-wolflame.json) |
 | Wolfling | 182509 | [182509-wolfling.json](./182509-wolfling.json) |
 | Wolflord - Online Werewolf | 67938 | [67938-wolflord-online-werewolf.json](./67938-wolflord-online-werewolf.json) |
@@ -1611,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Pool | 45995 | [45995-world-of-pool.json](./45995-world-of-pool.json) |
 | World of relish | 127251 | [127251-world-of-relish.json](./127251-world-of-relish.json) |
 | World of Retailing | 193472 | [193472-world-of-retailing.json](./193472-world-of-retailing.json) |
+| World of Sea Battle | 59962 | [59962-world-of-sea-battle.json](./59962-world-of-sea-battle.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
 | World of Subways: Volume 1 - The Path | 36284 | [36284-world-of-subways-volume-1-the-path.json](./36284-world-of-subways-volume-1-the-path.json) |
