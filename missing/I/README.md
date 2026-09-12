@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Finding More Cats!: Collector's Edition | 205224 | [205224-i-love-finding-more-cats-collectors-edition.json](./205224-i-love-finding-more-cats-collectors-edition.json) |
 | I Love Finding Pups!: Collector's Edition | 187452 | [187452-i-love-finding-pups-collectors-edition.json](./187452-i-love-finding-pups-collectors-edition.json) |
 | I Love Food | 197907 | [197907-i-love-food.json](./197907-i-love-food.json) |
+| I Love Horses | 47975 | [47975-i-love-horses.json](./47975-i-love-horses.json) |
 | I Love Hue Too | 177555 | [177555-i-love-hue-too.json](./177555-i-love-hue-too.json) |
 | I Love Math | 337474 | [337474-i-love-math.json](./337474-i-love-math.json) |
 | I Love Me, I Love Me Not | 313095 | [313095-i-love-me-i-love-me-not.json](./313095-i-love-me-i-love-me-not.json) |
