@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kava Tina Story | 68020 | [68020-kava-tina-story.json](./68020-kava-tina-story.json) |
 | Kavalmaja | 128655 | [128655-kavalmaja.json](./128655-kavalmaja.json) |
 | Kaverini Nuuk Adventures | 153378 | [153378-kaverini-nuuk-adventures.json](./153378-kaverini-nuuk-adventures.json) |
+| Kaves of Karkhan | 24845 | [24845-kaves-of-karkhan.json](./24845-kaves-of-karkhan.json) |
 | KaveXplorer | 157179 | [157179-kavexplorer.json](./157179-kavexplorer.json) |
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
 | Kawaii Girls: Busty Bear | 378810 | [378810-kawaii-girls-busty-bear.json](./378810-kawaii-girls-busty-bear.json) |
