@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malfunction FPS | 168326 | [168326-malfunction-fps.json](./168326-malfunction-fps.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
 | MaliceWave | 274768 | [274768-malicewave.json](./274768-malicewave.json) |
+| Malicious | 26582 | [26582-malicious.json](./26582-malicious.json) |
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
 | Malkin: The Cairn and the Crossroads | 285449 | [285449-malkin-the-cairn-and-the-crossroads.json](./285449-malkin-the-cairn-and-the-crossroads.json) |
@@ -1808,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge War: Super Legion Master | 262375 | [262375-merge-war-super-legion-master.json](./262375-merge-war-super-legion-master.json) |
 | Meridian: Age of Invention | 34578 | [34578-meridian-age-of-invention.json](./34578-meridian-age-of-invention.json) |
 | Merlin 64 | 47242 | [47242-merlin-64.json](./47242-merlin-64.json) |
+| Merlin Adventurer Store | 26490 | [26490-merlin-adventurer-store.json](./26490-merlin-adventurer-store.json) |
 | Merlin Racing | 51184 | [51184-merlin-racing.json](./51184-merlin-racing.json) |
 | Merlin's Apprentice | 45913 | [45913-merlins-apprentice.json](./45913-merlins-apprentice.json) |
 | Mermaid Land | 89263 | [89263-mermaid-land.json](./89263-mermaid-land.json) |
