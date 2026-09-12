@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T.: The Extra-Terrestrial - Phone Home Adventure | 201275 | [201275-e-t-the-extra-terrestrial-phone-home-adventure.json](./201275-e-t-the-extra-terrestrial-phone-home-adventure.json) |
 | E.T.: The Extra-Terrestrial - Search for Dragora | 201277 | [201277-e-t-the-extra-terrestrial-search-for-dragora.json](./201277-e-t-the-extra-terrestrial-search-for-dragora.json) |
 | E.T.: The Extra-Terrestrial and the Cosmic Garden | 49936 | [49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json](./49936-e-t-the-extra-terrestrial-and-the-cosmic-garden.json) |
+| E.T.: The Green Planet | 64395 | [64395-e-t-the-green-planet.json](./64395-e-t-the-green-planet.json) |
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
 | E's Laf | 135884 | [135884-es-laf.json](./135884-es-laf.json) |
 | E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
