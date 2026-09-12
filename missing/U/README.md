@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Bonk Survivors | 378181 | [378181-ultra-bonk-survivors.json](./378181-ultra-bonk-survivors.json) |
 | Ultra Business Tycoon IV: Whitewater Rafting | 290389 | [290389-ultra-business-tycoon-iv-whitewater-rafting.json](./290389-ultra-business-tycoon-iv-whitewater-rafting.json) |
 | Ultra Bust-A-Move | 47317 | [47317-ultra-bust-a-move.json](./47317-ultra-bust-a-move.json) |
+| Ultra CDi Soccer | 45904 | [45904-ultra-cdi-soccer.json](./45904-ultra-cdi-soccer.json) |
 | Ultra Fighters | 95454 | [95454-ultra-fighters.json](./95454-ultra-fighters.json) |
 | Ultra Foodmess: Deluxe Edition | 287114 | [287114-ultra-foodmess-deluxe-edition.json](./287114-ultra-foodmess-deluxe-edition.json) |
 | Ultra Hyperball | 51950 | [51950-ultra-hyperball.json](./51950-ultra-hyperball.json) |
