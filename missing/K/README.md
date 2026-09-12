@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kin'iro Loveriche: Golden Time | 141187 | [141187-kiniro-loveriche-golden-time.json](./141187-kiniro-loveriche-golden-time.json) |
 | Kin'iro Loveriche: Golden Time - Limited Edition | 141188 | [141188-kiniro-loveriche-golden-time-limited-edition.json](./141188-kiniro-loveriche-golden-time-limited-edition.json) |
 | Kinacoustic | 33093 | [33093-kinacoustic.json](./33093-kinacoustic.json) |
+| Kind Gals | 41325 | [41325-kind-gals.json](./41325-kind-gals.json) |
 | Kind Nature | 250958 | [250958-kind-nature.json](./250958-kind-nature.json) |
 | Kinda Heroes | 172107 | [172107-kinda-heroes.json](./172107-kinda-heroes.json) |
 | Kindaichi Shounen no Jikenbo: Akuma no Satsujin Koukai | 122979 | [122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json](./122979-kindaichi-shounen-no-jikenbo-akuma-no-satsujin-koukai.json) |
@@ -734,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
 | Kinnikuman III: Ougon no Mask-hen | 346034 | [346034-kinnikuman-iii-ougon-no-mask-hen.json](./346034-kinnikuman-iii-ougon-no-mask-hen.json) |
 | Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
+| Kinnikuman: Kinniku-sei Oui Soudatsusen | 41324 | [41324-kinnikuman-kinniku-sei-oui-soudatsusen.json](./41324-kinnikuman-kinniku-sei-oui-soudatsusen.json) |
 | Kinnikuman: Sakuretsu! Muscle Power | 346022 | [346022-kinnikuman-sakuretsu-muscle-power.json](./346022-kinnikuman-sakuretsu-muscle-power.json) |
 | Kinnikuman: Taiketsu Akuma Choujin | 346033 | [346033-kinnikuman-taiketsu-akuma-choujin.json](./346033-kinnikuman-taiketsu-akuma-choujin.json) |
 | Kinoko-nun | 379907 | [379907-kinoko-nun.json](./379907-kinoko-nun.json) |
@@ -972,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckles' Emerald Hunt | 129184 | [129184-knuckles-emerald-hunt.json](./129184-knuckles-emerald-hunt.json) |
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
 | KO Chaos | 285456 | [285456-ko-chaos.json](./285456-ko-chaos.json) |
+| Kobayashi Hitomi no Hold Up | 41348 | [41348-kobayashi-hitomi-no-hold-up.json](./41348-kobayashi-hitomi-no-hold-up.json) |
 | Kobito-zukan: Kobito no Fushigi Jikken Set | 329947 | [329947-kobito-zukan-kobito-no-fushigi-jikken-set.json](./329947-kobito-zukan-kobito-no-fushigi-jikken-set.json) |
 | Kobold Siege | 285993 | [285993-kobold-siege.json](./285993-kobold-siege.json) |
 | Kobold Slayer | 111690 | [111690-kobold-slayer.json](./111690-kobold-slayer.json) |
@@ -1039,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
+| Konamic Tennis | 41322 | [41322-konamic-tennis.json](./41322-konamic-tennis.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
 | Kong: King of Atlantis | 49334 | [49334-kong-king-of-atlantis.json](./49334-kong-king-of-atlantis.json) |
 | Kong: The 8th Wonder of the World | 49397 | [49397-kong-the-8th-wonder-of-the-world.json](./49397-kong-the-8th-wonder-of-the-world.json) |
