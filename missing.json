@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T20:48:46.326Z",
-  "total_missing": 63310,
+  "generated_at": "2026-09-12T20:51:27.752Z",
+  "total_missing": 63309,
   "games": [
     {
       "igdb_id": 306086,
@@ -3156,11 +3156,6 @@
       "igdb_id": 6467,
       "game_name": "AC/DC Live: Rock Band - Track Pack",
       "file": "missing/A/6467-ac-dc-live-rock-band-track-pack.json"
-    },
-    {
-      "igdb_id": 86816,
-      "game_name": "ACA Neo Geo: 2020 Super Baseball",
-      "file": "missing/A/86816-aca-neo-geo-2020-super-baseball.json"
     },
     {
       "igdb_id": 85538,
