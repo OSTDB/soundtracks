@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale Left: Part 1 | 367942 | [367942-whale-left-part-1.json](./367942-whale-left-part-1.json) |
 | Whale Rock Games: Immersive Puzzles Bundle | 249804 | [249804-whale-rock-games-immersive-puzzles-bundle.json](./249804-whale-rock-games-immersive-puzzles-bundle.json) |
 | Whale Rock: All Games Bundle | 249802 | [249802-whale-rock-all-games-bundle.json](./249802-whale-rock-all-games-bundle.json) |
+| Whale Trail | 65473 | [65473-whale-trail.json](./65473-whale-trail.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
 | What Body? | 281385 | [281385-what-body.json](./281385-what-body.json) |
