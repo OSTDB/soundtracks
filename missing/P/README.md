@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peer Gynt the Game | 126586 | [126586-peer-gynt-the-game.json](./126586-peer-gynt-the-game.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
+| Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
 | Pegafuerte el Terrible | 249479 | [249479-pegafuerte-el-terrible.json](./249479-pegafuerte-el-terrible.json) |
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
@@ -1767,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
+| Plaster World | 57067 | [57067-plaster-world.json](./57067-plaster-world.json) |
 | Plastic Invasion: A Super Magical Mermaid Adventure | 302128 | [302128-plastic-invasion-a-super-magical-mermaid-adventure.json](./302128-plastic-invasion-a-super-magical-mermaid-adventure.json) |
 | Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
@@ -1786,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformer Geometry Dash | 290416 | [290416-platformer-geometry-dash.json](./290416-platformer-geometry-dash.json) |
 | Platformer of Death | 185121 | [185121-platformer-of-death.json](./185121-platformer-of-death.json) |
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
+| Platformica | 57054 | [57054-platformica.json](./57054-platformica.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
@@ -2865,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
 | Project Cartaphilus | 266796 | [266796-project-cartaphilus.json](./266796-project-cartaphilus.json) |
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
+| Project Confrontation | 57051 | [57051-project-confrontation.json](./57051-project-confrontation.json) |
 | Project Crimson | 166735 | [166735-project-crimson.json](./166735-project-crimson.json) |
 | Project D | 255117 | [255117-project-d.json](./255117-project-d.json) |
 | Project D | 305783 | [305783-project-d.json](./305783-project-d.json) |
