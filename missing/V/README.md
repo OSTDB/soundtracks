@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
 | VED: Purification | 367955 | [367955-ved-purification.json](./367955-ved-purification.json) |
 | Vedal's Secret | 386121 | [386121-vedals-secret.json](./386121-vedals-secret.json) |
+| Vee is Calling | 76549 | [76549-vee-is-calling.json](./76549-vee-is-calling.json) |
 | Veer | 34384 | [34384-veer.json](./34384-veer.json) |
 | Vega Conflict: Bastion Cruiser Pack | 168309 | [168309-vega-conflict-bastion-cruiser-pack.json](./168309-vega-conflict-bastion-cruiser-pack.json) |
 | Vega Conflict: Cavalier Cutter Pack | 168313 | [168313-vega-conflict-cavalier-cutter-pack.json](./168313-vega-conflict-cavalier-cutter-pack.json) |
