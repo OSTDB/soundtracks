@@ -1770,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle the Fish | 214168 | [214168-circle-the-fish.json](./214168-circle-the-fish.json) |
 | Circle the Wagons: Prima Septimana | 274506 | [274506-circle-the-wagons-prima-septimana.json](./274506-circle-the-wagons-prima-septimana.json) |
 | Circle Triangle Square | 257116 | [257116-circle-triangle-square.json](./257116-circle-triangle-square.json) |
+| Circle's End | 27670 | [27670-circles-end.json](./27670-circles-end.json) |
 | Circles | 33061 | [33061-circles.json](./33061-circles.json) |
 | Circling | 304338 | [304338-circling.json](./304338-circling.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
@@ -2062,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
 | Cloud of Souls | 25766 | [25766-cloud-of-souls.json](./25766-cloud-of-souls.json) |
+| Cloud Pirates | 27687 | [27687-cloud-pirates.json](./27687-cloud-pirates.json) |
 | Cloud Raiders | 59983 | [59983-cloud-raiders.json](./59983-cloud-raiders.json) |
 | Cloud Sculptor | 406126 | [406126-cloud-sculptor.json](./406126-cloud-sculptor.json) |
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
