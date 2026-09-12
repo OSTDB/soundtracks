@@ -1297,6 +1297,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WizardCraft Colonies | 120947 | [120947-wizardcraft-colonies.json](./120947-wizardcraft-colonies.json) |
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
 | Wizardry Chronicle | 172724 | [172724-wizardry-chronicle.json](./172724-wizardry-chronicle.json) |
+| Wizardry Empire II: Legacy of the Princess | 63828 | [63828-wizardry-empire-ii-legacy-of-the-princess.json](./63828-wizardry-empire-ii-legacy-of-the-princess.json) |
+| Wizardry Empire III: Ancestry of the Emperor | 63830 | [63830-wizardry-empire-iii-ancestry-of-the-emperor.json](./63830-wizardry-empire-iii-ancestry-of-the-emperor.json) |
+| Wizardry Empire: Princess of the Ancient | 63826 | [63826-wizardry-empire-princess-of-the-ancient.json](./63826-wizardry-empire-princess-of-the-ancient.json) |
 | Wizardry I & II | 123080 | [123080-wizardry-i-and-ii.json](./123080-wizardry-i-and-ii.json) |
 | Wizardry III & IV | 123081 | [123081-wizardry-iii-and-iv.json](./123081-wizardry-iii-and-iv.json) |
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
@@ -1446,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word After Word | 134653 | [134653-word-after-word.json](./134653-word-after-word.json) |
 | Word Beach: Word Games for Fun | 87733 | [87733-word-beach-word-games-for-fun.json](./87733-word-beach-word-games-for-fun.json) |
 | Word Bird Supreme | 415954 | [415954-word-bird-supreme.json](./415954-word-bird-supreme.json) |
+| Word Blocked | 63824 | [63824-word-blocked.json](./63824-word-blocked.json) |
 | Word Bomb | 365087 | [365087-word-bomb.json](./365087-word-bomb.json) |
 | Word Bound - Word Game Puzzles | 105869 | [105869-word-bound-word-game-puzzles.json](./105869-word-bound-word-game-puzzles.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
