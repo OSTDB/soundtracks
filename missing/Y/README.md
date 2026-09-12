@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yabai Girls: Heavenly Homemaker | 385065 | [385065-yabai-girls-heavenly-homemaker.json](./385065-yabai-girls-heavenly-homemaker.json) |
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
 | Yacht Mechanic Simulator | 133364 | [133364-yacht-mechanic-simulator.json](./133364-yacht-mechanic-simulator.json) |
+| Yadamon: Wonderland Dream | 37762 | [37762-yadamon-wonderland-dream.json](./37762-yadamon-wonderland-dream.json) |
 | Yaga: Roots of Evil | 186902 | [186902-yaga-roots-of-evil.json](./186902-yaga-roots-of-evil.json) |
 | YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
 | Yahoo Pool | 86051 | [86051-yahoo-pool.json](./86051-yahoo-pool.json) |
@@ -26,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakiniku Simulatior | 203886 | [203886-yakiniku-simulatior.json](./203886-yakiniku-simulatior.json) |
 | Yakitate!! Japan | 124154 | [124154-yakitate-japan.json](./124154-yakitate-japan.json) |
 | Yakoh: Shinobi Ops | 389431 | [389431-yakoh-shinobi-ops.json](./389431-yakoh-shinobi-ops.json) |
+| Yakouchuu | 37761 | [37761-yakouchuu.json](./37761-yakouchuu.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yakuman | 67330 | [67330-yakuman.json](./67330-yakuman.json) |
 | Yakuza 2 Restored | 349856 | [349856-yakuza-2-restored.json](./349856-yakuza-2-restored.json) |
@@ -49,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami no Koe II | 308248 | [308248-yami-no-koe-ii.json](./308248-yami-no-koe-ii.json) |
 | Yami no Ryuuou Hadesu no Monshou | 202322 | [202322-yami-no-ryuuou-hadesu-no-monshou.json](./202322-yami-no-ryuuou-hadesu-no-monshou.json) |
 | Yamizome Liberator | 327834 | [327834-yamizome-liberator.json](./327834-yamizome-liberator.json) |
+| YamYam | 37760 | [37760-yamyam.json](./37760-yamyam.json) |
 | Yandere Escape | 129125 | [129125-yandere-escape.json](./129125-yandere-escape.json) |
 | Yandere Lover | 82076 | [82076-yandere-lover.json](./82076-yandere-lover.json) |
 | Yandere Onii-san ni Sokubaku Kankin Sarechau Game! | 285990 | [285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json](./285990-yandere-onii-san-ni-sokubaku-kankin-sarechau-game.json) |
@@ -136,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
 | Yoake no Mariko | 65455 | [65455-yoake-no-mariko.json](./65455-yoake-no-mariko.json) |
 | Yoake no Mariko 2nd Act | 55858 | [55858-yoake-no-mariko-2nd-act.json](./55858-yoake-no-mariko-2nd-act.json) |
+| YoBro | 37730 | [37730-yobro.json](./37730-yobro.json) |
 | Yodobongingi | 234635 | [234635-yodobongingi.json](./234635-yodobongingi.json) |
 | Yodoyabashi Oyasama Club | 254505 | [254505-yodoyabashi-oyasama-club.json](./254505-yodoyabashi-oyasama-club.json) |
 | Yoga Therapy | 235220 | [235220-yoga-therapy.json](./235220-yoga-therapy.json) |
@@ -162,6 +166,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YokeLight | 103421 | [103421-yokelight.json](./103421-yokelight.json) |
 | Yoko Redux: Dreams of a Blue Planet | 191240 | [191240-yoko-redux-dreams-of-a-blue-planet.json](./191240-yoko-redux-dreams-of-a-blue-planet.json) |
 | Yokoi-san Warp | 183022 | [183022-yokoi-san-warp.json](./183022-yokoi-san-warp.json) |
+| Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki | 37757 | [37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json](./37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json) |
+| Yokoyama Mitsuteru: Sangokushi | 37759 | [37759-yokoyama-mitsuteru-sangokushi.json](./37759-yokoyama-mitsuteru-sangokushi.json) |
+| Yokozuna Monogatari | 37756 | [37756-yokozuna-monogatari.json](./37756-yokozuna-monogatari.json) |
 | YOLO Life: The Beggining | 76562 | [76562-yolo-life-the-beggining.json](./76562-yolo-life-the-beggining.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
 | Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
@@ -188,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi and the Mysterious Book | 366883 | [366883-yoshi-and-the-mysterious-book.json](./366883-yoshi-and-the-mysterious-book.json) |
 | Yoshi Commits Tax Fraud 64 | 294710 | [294710-yoshi-commits-tax-fraud-64.json](./294710-yoshi-commits-tax-fraud-64.json) |
 | Yoshi in Sonic the Hedgehog 2 | 136418 | [136418-yoshi-in-sonic-the-hedgehog-2.json](./136418-yoshi-in-sonic-the-hedgehog-2.json) |
+| Yoshi no Cookie: Kuruppon Oven de Cookie | 37755 | [37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json](./37755-yoshi-no-cookie-kuruppon-oven-de-cookie.json) |
 | Yoshi Racing | 175959 | [175959-yoshi-racing.json](./175959-yoshi-racing.json) |
 | Yoshi Touch & Go | 18329 | [18329-yoshi-touch-and-go.json](./18329-yoshi-touch-and-go.json) |
 | Yoshi vs. Windows Platinum | 142404 | [142404-yoshi-vs-windows-platinum.json](./142404-yoshi-vs-windows-platinum.json) |
@@ -364,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Inu | 229680 | [229680-yume-inu.json](./229680-yume-inu.json) |
 | Yume Iro | 202348 | [202348-yume-iro.json](./202348-yume-iro.json) |
 | Yume Kakigori | 319019 | [319019-yume-kakigori.json](./319019-yume-kakigori.json) |
+| Yume Maboroshi no Gotoku | 37753 | [37753-yume-maboroshi-no-gotoku.json](./37753-yume-maboroshi-no-gotoku.json) |
 | Yume Meikyuu: Kigurumi Daibouken | 38378 | [38378-yume-meikyuu-kigurumi-daibouken.json](./38378-yume-meikyuu-kigurumi-daibouken.json) |
 | Yume Metsuki | 229683 | [229683-yume-metsuki.json](./229683-yume-metsuki.json) |
 | Yume Nikki GB | 229685 | [229685-yume-nikki-gb.json](./229685-yume-nikki-gb.json) |
@@ -433,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuusha | 22480 | [22480-yuusha.json](./22480-yuusha.json) |
 | Yuusha to Maou to, Majo no Cafe | 97377 | [97377-yuusha-to-maou-to-majo-no-cafe.json](./97377-yuusha-to-maou-to-majo-no-cafe.json) |
 | Yuushi no Monshou: Deep Dungeon | 41326 | [41326-yuushi-no-monshou-deep-dungeon.json](./41326-yuushi-no-monshou-deep-dungeon.json) |
+| Yuuyu no Quiz de Go! Go! | 37750 | [37750-yuuyu-no-quiz-de-go-go.json](./37750-yuuyu-no-quiz-de-go-go.json) |
 | YuYu Hakusho | 60531 | [60531-yuyu-hakusho.json](./60531-yuyu-hakusho.json) |
 | YuYu Hakusho Dai-yon-dan: Makai Touitsu-hen | 60559 | [60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json](./60559-yuyu-hakusho-dai-yon-dan-makai-touitsu-hen.json) |
 | YuYu Hakusho Final: Makai Saikyou Retsuden | 79844 | [79844-yuyu-hakusho-final-makai-saikyou-retsuden.json](./79844-yuyu-hakusho-final-makai-saikyou-retsuden.json) |
