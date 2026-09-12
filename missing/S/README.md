@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shēnyuān | 165700 | [165700-shenyuan.json](./165700-shenyuan.json) |
 | Shepherd of Light | 121594 | [121594-shepherd-of-light.json](./121594-shepherd-of-light.json) |
+| Shepherd's Crossing | 43270 | [43270-shepherds-crossing.json](./43270-shepherds-crossing.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
@@ -1841,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shogi Shoshisha Muyo | 42031 | [42031-shogi-shoshisha-muyo.json](./42031-shogi-shoshisha-muyo.json) |
 | Shogi Wars | 312359 | [312359-shogi-wars.json](./312359-shogi-wars.json) |
 | Shogun: Total War - Mongol Invasion | 443 | [443-shogun-total-war-mongol-invasion.json](./443-shogun-total-war-mongol-invasion.json) |
+| Shogun's Blade | 43293 | [43293-shoguns-blade.json](./43293-shoguns-blade.json) |
 | Shohei's Adult Streaming Channel | 161357 | [161357-shoheis-adult-streaming-channel.json](./161357-shoheis-adult-streaming-channel.json) |
 | Shojo Warriors | 340375 | [340375-shojo-warriors.json](./340375-shojo-warriors.json) |
 | Shokrok Throwdown | 73283 | [73283-shokrok-throwdown.json](./73283-shokrok-throwdown.json) |
@@ -2111,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Fangs: Stealthy Vampire's Tale | 371264 | [371264-silent-fangs-stealthy-vampires-tale.json](./371264-silent-fangs-stealthy-vampires-tale.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
 | Silent Hill 2: Deluxe Edition | 303813 | [303813-silent-hill-2-deluxe-edition.json](./303813-silent-hill-2-deluxe-edition.json) |
+| Silent Hill 2: Special 2 Disc Set | 43277 | [43277-silent-hill-2-special-2-disc-set.json](./43277-silent-hill-2-special-2-disc-set.json) |
 | Silent Hill 3 | 222486 | [222486-silent-hill-3.json](./222486-silent-hill-3.json) |
 | Silent Hill Complete Set | 144966 | [144966-silent-hill-complete-set.json](./144966-silent-hill-complete-set.json) |
 | Silent Hill f: Deluxe Edition | 347180 | [347180-silent-hill-f-deluxe-edition.json](./347180-silent-hill-f-deluxe-edition.json) |
@@ -5325,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
 | Stealth Bastard: Tactical Espionage Arsehole | 65531 | [65531-stealth-bastard-tactical-espionage-arsehole.json](./65531-stealth-bastard-tactical-espionage-arsehole.json) |
 | Stealth Blade | 278402 | [278402-stealth-blade.json](./278402-stealth-blade.json) |
+| Stealth Force: The War on Terror | 43291 | [43291-stealth-force-the-war-on-terror.json](./43291-stealth-force-the-war-on-terror.json) |
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
 | Stealth Raider | 399006 | [399006-stealth-raider.json](./399006-stealth-raider.json) |
 | Stealth Strike | 333577 | [333577-stealth-strike.json](./333577-stealth-strike.json) |
@@ -6148,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon My Girl | 278702 | [278702-summon-my-girl.json](./278702-summon-my-girl.json) |
 | Summon Night Ex-These: Yoake no Tsubasa | 69844 | [69844-summon-night-ex-these-yoake-no-tsubasa.json](./69844-summon-night-ex-these-yoake-no-tsubasa.json) |
+| Summon Night Gran-These: Horobi no Tsurugi to Yakusoku no Kishi | 43267 | [43267-summon-night-gran-these-horobi-no-tsurugi-to-yakusoku-no-kishi.json](./43267-summon-night-gran-these-horobi-no-tsurugi-to-yakusoku-no-kishi.json) |
 | Summon Night: Swordcraft Story 2 | 6616 | [6616-summon-night-swordcraft-story-2.json](./6616-summon-night-swordcraft-story-2.json) |
 | Summon of Asmodeus | 117652 | [117652-summon-of-asmodeus.json](./117652-summon-of-asmodeus.json) |
 | Summon Quest | 291980 | [291980-summon-quest.json](./291980-summon-quest.json) |
@@ -6343,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
 | Super Fangame Maker | 322607 | [322607-super-fangame-maker.json](./322607-super-fangame-maker.json) |
+| Super Farm | 43290 | [43290-super-farm.json](./43290-super-farm.json) |
 | Super Fight | 132240 | [132240-super-fight.json](./132240-super-fight.json) |
 | Super Fight | 247221 | [247221-super-fight.json](./247221-super-fight.json) |
 | Super Fighting Jam | 257686 | [257686-super-fighting-jam.json](./257686-super-fighting-jam.json) |
