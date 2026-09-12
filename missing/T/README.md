@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
 | Tale of Jade Li Guang | 151740 | [151740-tale-of-jade-li-guang.json](./151740-tale-of-jade-li-guang.json) |
 | Tale of Legends | 260685 | [260685-tale-of-legends.json](./260685-tale-of-legends.json) |
+| Tale of Ronin | 27750 | [27750-tale-of-ronin.json](./27750-tale-of-ronin.json) |
 | Tale of Scale | 339628 | [339628-tale-of-scale.json](./339628-tale-of-scale.json) |
 | Tale of Swords | 113734 | [113734-tale-of-swords.json](./113734-tale-of-swords.json) |
 | Tale of Swords: Mystery Scroll | 83544 | [83544-tale-of-swords-mystery-scroll.json](./83544-tale-of-swords-mystery-scroll.json) |
@@ -527,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
 | Taora: Survival | 235197 | [235197-taora-survival.json](./235197-taora-survival.json) |
 | Tap a Jam | 73290 | [73290-tap-a-jam.json](./73290-tap-a-jam.json) |
+| Tap Adventure: Time Travel | 27688 | [27688-tap-adventure-time-travel.json](./27688-tap-adventure-time-travel.json) |
 | Tap Away | 230515 | [230515-tap-away.json](./230515-tap-away.json) |
 | Tap Beats Jazz | 86917 | [86917-tap-beats-jazz.json](./86917-tap-beats-jazz.json) |
 | Tap Blocks Out | 254746 | [254746-tap-blocks-out.json](./254746-tap-blocks-out.json) |
@@ -546,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Sports Football | 59953 | [59953-tap-sports-football.json](./59953-tap-sports-football.json) |
 | Tap Sports Football 2016 | 58260 | [58260-tap-sports-football-2016.json](./58260-tap-sports-football-2016.json) |
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
+| Tap Tap Blocks | 27647 | [27647-tap-tap-blocks.json](./27647-tap-tap-blocks.json) |
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
 | Tap Tap Radiation | 66156 | [66156-tap-tap-radiation.json](./66156-tap-tap-radiation.json) |
@@ -981,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraStorm | 289314 | [289314-terrastorm.json](./289314-terrastorm.json) |
 | TerraTech: Deluxe Edition | 51928 | [51928-terratech-deluxe-edition.json](./51928-terratech-deluxe-edition.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
+| Terrela | 27672 | [27672-terrela.json](./27672-terrela.json) |
 | Terrene: An Evidence of Life Game | 169429 | [169429-terrene-an-evidence-of-life-game.json](./169429-terrene-an-evidence-of-life-game.json) |
 | Terrestial | 250929 | [250929-terrestial.json](./250929-terrestial.json) |
 | Terrestrial | 311826 | [311826-terrestrial.json](./311826-terrestrial.json) |
@@ -1023,6 +1027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
+| Test Your Math | 27731 | [27731-test-your-math.json](./27731-test-your-math.json) |
 | Test Your Mind | 85432 | [85432-test-your-mind.json](./85432-test-your-mind.json) |
 | Test: The Game | 298847 | [298847-test-the-game.json](./298847-test-the-game.json) |
 | Testbed Terror | 50541 | [50541-testbed-terror.json](./50541-testbed-terror.json) |
@@ -1179,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
 | The Adventures of 00 Dilly | 124136 | [124136-the-adventures-of-00-dilly.json](./124136-the-adventures-of-00-dilly.json) |
+| The Adventures of a Legend - Beyond Survival | 27702 | [27702-the-adventures-of-a-legend-beyond-survival.json](./27702-the-adventures-of-a-legend-beyond-survival.json) |
 | The Adventures of Alvis | 28925 | [28925-the-adventures-of-alvis.json](./28925-the-adventures-of-alvis.json) |
 | The Adventures of Big Faz | 206721 | [206721-the-adventures-of-big-faz.json](./206721-the-adventures-of-big-faz.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
@@ -2124,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Genesis Project | 109057 | [109057-the-genesis-project.json](./109057-the-genesis-project.json) |
 | The Genji and the Heike Clans | 42036 | [42036-the-genji-and-the-heike-clans.json](./42036-the-genji-and-the-heike-clans.json) |
 | The Gentle Art of Slaughter | 244778 | [244778-the-gentle-art-of-slaughter.json](./244778-the-gentle-art-of-slaughter.json) |
+| The Gentleman | 27715 | [27715-the-gentleman.json](./27715-the-gentleman.json) |
 | The Gentleman | 341319 | [341319-the-gentleman.json](./341319-the-gentleman.json) |
 | The Geography | 198523 | [198523-the-geography.json](./198523-the-geography.json) |
 | The Geometric Golfer | 244994 | [244994-the-geometric-golfer.json](./244994-the-geometric-golfer.json) |
@@ -2726,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
+| The Longest Journey Remastered | 27658 | [27658-the-longest-journey-remastered.json](./27658-the-longest-journey-remastered.json) |
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
 | The Longing Ribbon | 151694 | [151694-the-longing-ribbon.json](./151694-the-longing-ribbon.json) |
 | The Loop | 170528 | [170528-the-loop.json](./170528-the-loop.json) |
@@ -3978,6 +3986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wasted Knight | 207325 | [207325-the-wasted-knight.json](./207325-the-wasted-knight.json) |
 | The Watcher | 238515 | [238515-the-watcher.json](./238515-the-watcher.json) |
 | The Watchmaker | 82091 | [82091-the-watchmaker.json](./82091-the-watchmaker.json) |
+| The Water Horse: Legend of the Deep | 27629 | [27629-the-water-horse-legend-of-the-deep.json](./27629-the-water-horse-legend-of-the-deep.json) |
 | The Water Horse: Legend of the Deep | 43258 | [43258-the-water-horse-legend-of-the-deep.json](./43258-the-water-horse-legend-of-the-deep.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
@@ -3995,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wayward Tower | 329031 | [329031-the-wayward-tower.json](./329031-the-wayward-tower.json) |
 | The Weakened Demon Lord and His Servant's Business: Please Give Me Your White Fluid | 82769 | [82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json](./82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json) |
 | The Weakest Link & Friends | 86100 | [86100-the-weakest-link-and-friends.json](./86100-the-weakest-link-and-friends.json) |
+| The Weave of Heroes - RPG | 27755 | [27755-the-weave-of-heroes-rpg.json](./27755-the-weave-of-heroes-rpg.json) |
 | The Wedding | 286531 | [286531-the-wedding.json](./286531-the-wedding.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Werehouse | 337107 | [337107-the-werehouse.json](./337107-the-werehouse.json) |
@@ -4904,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
 | Time of the Zombies | 113657 | [113657-time-of-the-zombies.json](./113657-time-of-the-zombies.json) |
+| Time of War | 27638 | [27638-time-of-war.json](./27638-time-of-war.json) |
 | Time on Frog Island: Prologue | 209641 | [209641-time-on-frog-island-prologue.json](./209641-time-on-frog-island-prologue.json) |
 | Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
