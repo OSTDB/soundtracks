@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyer Fox | 46661 | [46661-flyer-fox.json](./46661-flyer-fox.json) |
 | Flyghts | 236512 | [236512-flyghts.json](./236512-flyghts.json) |
 | Flyhight Cloudia II | 288189 | [288189-flyhight-cloudia-ii.json](./288189-flyhight-cloudia-ii.json) |
+| Flyin' High | 72060 | [72060-flyin-high.json](./72060-flyin-high.json) |
 | Flyin' High Data Disk 1 | 93009 | [93009-flyin-high-data-disk-1.json](./93009-flyin-high-data-disk-1.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
