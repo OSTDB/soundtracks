@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T00:33:20.953Z",
-  "total_missing": 59927,
+  "generated_at": "2026-09-12T00:40:59.460Z",
+  "total_missing": 59926,
   "games": [
     {
       "igdb_id": 306086,
@@ -2536,11 +2536,6 @@
       "igdb_id": 102803,
       "game_name": "A Tale of Paper",
       "file": "missing/A/102803-a-tale-of-paper.json"
-    },
-    {
-      "igdb_id": 61100,
-      "game_name": "A Tale of Survival",
-      "file": "missing/A/61100-a-tale-of-survival.json"
     },
     {
       "igdb_id": 146823,
