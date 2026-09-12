@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz 9: Play Chess | 130848 | [130848-fritz-9-play-chess.json](./130848-fritz-9-play-chess.json) |
 | Fritz: Your Chess Coach | 262648 | [262648-fritz-your-chess-coach.json](./262648-fritz-your-chess-coach.json) |
 | Frocket | 63807 | [63807-frocket.json](./63807-frocket.json) |
+| Frog | 55874 | [55874-frog.json](./55874-frog.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
 | Frog And Roll | 266810 | [266810-frog-and-roll.json](./266810-frog-and-roll.json) |
