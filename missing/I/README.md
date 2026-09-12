@@ -1208,6 +1208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Sky: Invasion - Ultimate Edition | 53256 | [53256-iron-sky-invasion-ultimate-edition.json](./53256-iron-sky-invasion-ultimate-edition.json) |
 | Iron Skys | 340763 | [340763-iron-skys.json](./340763-iron-skys.json) |
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
+| Iron Soldier 3 | 51182 | [51182-iron-soldier-3.json](./51182-iron-soldier-3.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
 | Iron Works | 383350 | [383350-iron-works.json](./383350-iron-works.json) |
 | IronBorn | 109585 | [109585-ironborn.json](./109585-ironborn.json) |
