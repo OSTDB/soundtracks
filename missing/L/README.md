@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Have a nice day! | 146334 | [146334-laid-back-camp-have-a-nice-day.json](./146334-laid-back-camp-have-a-nice-day.json) |
 | Laid-Back Camp: Have a nice day! - Limited Edition | 146335 | [146335-laid-back-camp-have-a-nice-day-limited-edition.json](./146335-laid-back-camp-have-a-nice-day-limited-edition.json) |
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
+| Laika 2.0 | 57037 | [57037-laika-2-0.json](./57037-laika-2-0.json) |
 | Lair Defense: Dungeon | 127893 | [127893-lair-defense-dungeon.json](./127893-lair-defense-dungeon.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
 | Lair of Anubis | 236303 | [236303-lair-of-anubis.json](./236303-lair-of-anubis.json) |
@@ -390,6 +391,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
 | LazinAround | 246122 | [246122-lazinaround.json](./246122-lazinaround.json) |
 | Lazr: A Clothformer | 126653 | [126653-lazr-a-clothformer.json](./126653-lazr-a-clothformer.json) |
+| Lazy Caverns | 57080 | [57080-lazy-caverns.json](./57080-lazy-caverns.json) |
+| Lazy Caverns 2 | 57079 | [57079-lazy-caverns-2.json](./57079-lazy-caverns-2.json) |
+| Lazy Caverns Attack!! | 57078 | [57078-lazy-caverns-attack.json](./57078-lazy-caverns-attack.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
 | Lazy Pirates | 180752 | [180752-lazy-pirates.json](./180752-lazy-pirates.json) |
 | Lazy Sweet Tycoon | 156121 | [156121-lazy-sweet-tycoon.json](./156121-lazy-sweet-tycoon.json) |
@@ -591,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Lunia | 193974 | [193974-legends-of-lunia.json](./193974-legends-of-lunia.json) |
 | Legends of Mathmatica 2: Under the Shadow of Certainty | 193417 | [193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json](./193417-legends-of-mathmatica-2-under-the-shadow-of-certainty.json) |
 | Legends of Norrath | 51219 | [51219-legends-of-norrath.json](./51219-legends-of-norrath.json) |
+| Legends of Oz: Dorothy's Return | 57055 | [57055-legends-of-oz-dorothys-return.json](./57055-legends-of-oz-dorothys-return.json) |
 | Legends of Seven Seas | 221406 | [221406-legends-of-seven-seas.json](./221406-legends-of-seven-seas.json) |
 | Legends of Solitaire: Curse of the Dragons | 34532 | [34532-legends-of-solitaire-curse-of-the-dragons.json](./34532-legends-of-solitaire-curse-of-the-dragons.json) |
 | Legends of the Jedi | 228697 | [228697-legends-of-the-jedi.json](./228697-legends-of-the-jedi.json) |
@@ -1217,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Panda's Camping Trip | 105963 | [105963-little-pandas-camping-trip.json](./105963-little-pandas-camping-trip.json) |
 | Little Panda's Candy Shop | 231932 | [231932-little-pandas-candy-shop.json](./231932-little-pandas-candy-shop.json) |
 | Little Panda's Restaurant | 239916 | [239916-little-pandas-restaurant.json](./239916-little-pandas-restaurant.json) |
+| Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
