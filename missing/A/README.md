@@ -160,7 +160,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
-| Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
@@ -387,6 +386,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Bass | 43937 | [43937-action-bass.json](./43937-action-bass.json) |
 | Action Biker Starring Clumsy Colin | 45338 | [45338-action-biker-starring-clumsy-colin.json](./45338-action-biker-starring-clumsy-colin.json) |
 | Action Card Football | 109662 | [109662-action-card-football.json](./109662-action-card-football.json) |
+| Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
+| Action Doom 2: Urban Brawl | 55135 | [55135-action-doom-2-urban-brawl.json](./55135-action-doom-2-urban-brawl.json) |
 | Action Force II: International Heroes | 73255 | [73255-action-force-ii-international-heroes.json](./73255-action-force-ii-international-heroes.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
