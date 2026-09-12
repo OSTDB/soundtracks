@@ -117,7 +117,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
-| A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
 | A Wake Inn | 143698 | [143698-a-wake-inn.json](./143698-a-wake-inn.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
