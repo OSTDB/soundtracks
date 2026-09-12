@@ -3018,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper: Ghost Warrior 3 | 10964 | [10964-sniper-ghost-warrior-3.json](./10964-sniper-ghost-warrior-3.json) |
 | Sniperpunk | 189144 | [189144-sniperpunk.json](./189144-sniperpunk.json) |
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
+| SNK Slot Panic Kyuuji | 59399 | [59399-snk-slot-panic-kyuuji.json](./59399-snk-slot-panic-kyuuji.json) |
 | Snolf 3 & Knolf | 143734 | [143734-snolf-3-and-knolf.json](./143734-snolf-3-and-knolf.json) |
 | Snolf CD: A Snolf in Time | 143736 | [143736-snolf-cd-a-snolf-in-time.json](./143736-snolf-cd-a-snolf-in-time.json) |
 | Snolf Zero: The Prequel | 143735 | [143735-snolf-zero-the-prequel.json](./143735-snolf-zero-the-prequel.json) |
@@ -5796,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Such, Such Were the Joys | 264352 | [264352-such-such-were-the-joys.json](./264352-such-such-were-the-joys.json) |
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
 | Sucker head: Bodycam | 338215 | [338215-sucker-head-bodycam.json](./338215-sucker-head-bodycam.json) |
+| Sucker Punch Mech Gunner | 59357 | [59357-sucker-punch-mech-gunner.json](./59357-sucker-punch-mech-gunner.json) |
 | Sucre: Sweet and Charming Time for You | 396945 | [396945-sucre-sweet-and-charming-time-for-you.json](./396945-sucre-sweet-and-charming-time-for-you.json) |
 | Suction Co-Op | 303222 | [303222-suction-co-op.json](./303222-suction-co-op.json) |
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
@@ -6680,6 +6682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tumanguya Climber | 339136 | [339136-super-tumanguya-climber.json](./339136-super-tumanguya-climber.json) |
 | Super Turbo Sudoku | 110960 | [110960-super-turbo-sudoku.json](./110960-super-turbo-sudoku.json) |
 | Super Turrican | 191878 | [191878-super-turrican.json](./191878-super-turrican.json) |
+| Super Tutor: Spelling | 59376 | [59376-super-tutor-spelling.json](./59376-super-tutor-spelling.json) |
 | Super Tyrone Land | 142464 | [142464-super-tyrone-land.json](./142464-super-tyrone-land.json) |
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
 | Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
