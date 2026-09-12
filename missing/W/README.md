@@ -334,6 +334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Chaosbane - Slayer Edition | 139948 | [139948-warhammer-chaosbane-slayer-edition.json](./139948-warhammer-chaosbane-slayer-edition.json) |
 | Warhammer: Mark of Chaos - Gold Edition | 154551 | [154551-warhammer-mark-of-chaos-gold-edition.json](./154551-warhammer-mark-of-chaos-gold-edition.json) |
 | Warhammer: Odyssey | 130881 | [130881-warhammer-odyssey.json](./130881-warhammer-odyssey.json) |
+| Warhammer: Snotling Fling | 34227 | [34227-warhammer-snotling-fling.json](./34227-warhammer-snotling-fling.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | Warhammer: Vermintide 2 - Necromancer | 262658 | [262658-warhammer-vermintide-2-necromancer.json](./262658-warhammer-vermintide-2-necromancer.json) |
 | Warhammer: Vermintide 2 - Premium Edition | 119075 | [119075-warhammer-vermintide-2-premium-edition.json](./119075-warhammer-vermintide-2-premium-edition.json) |
@@ -797,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
 | When you're gone | 37192 | [37192-when-youre-gone.json](./37192-when-youre-gone.json) |
 | Whenever You Can Breathe | 203378 | [203378-whenever-you-can-breathe.json](./203378-whenever-you-can-breathe.json) |
+| Where Angels Cry: Tears of the Fallen - Collectors Edition | 34175 | [34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json](./34175-where-angels-cry-tears-of-the-fallen-collectors-edition.json) |
 | Where Are They? | 300688 | [300688-where-are-they.json](./300688-where-are-they.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where Did I Put It? | 223472 | [223472-where-did-i-put-it.json](./223472-where-did-i-put-it.json) |
