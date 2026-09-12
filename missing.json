@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T00:48:49.044Z",
-  "total_missing": 59976,
+  "generated_at": "2026-09-12T00:51:00.837Z",
+  "total_missing": 59975,
   "games": [
     {
       "igdb_id": 306086,
@@ -2541,11 +2541,6 @@
       "igdb_id": 102803,
       "game_name": "A Tale of Paper",
       "file": "missing/A/102803-a-tale-of-paper.json"
-    },
-    {
-      "igdb_id": 146823,
-      "game_name": "A Tale of Synapse: The Chaos Theories",
-      "file": "missing/A/146823-a-tale-of-synapse-the-chaos-theories.json"
     },
     {
       "igdb_id": 152341,
