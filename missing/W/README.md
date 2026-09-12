@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | Waratte Iitomo! Tamorinpic | 37768 | [37768-waratte-iitomo-tamorinpic.json](./37768-waratte-iitomo-tamorinpic.json) |
+| Warauinu no Bouken GB: Silly Go Lucky! | 59400 | [59400-warauinu-no-bouken-gb-silly-go-lucky.json](./59400-warauinu-no-bouken-gb-silly-go-lucky.json) |
 | Warbanners: Death Speaker | 172143 | [172143-warbanners-death-speaker.json](./172143-warbanners-death-speaker.json) |
 | WarBirds II | 72094 | [72094-warbirds-ii.json](./72094-warbirds-ii.json) |
 | WarBirds III | 71557 | [71557-warbirds-iii.json](./71557-warbirds-iii.json) |
@@ -497,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Madness | 371261 | [371261-way-of-madness.json](./371261-way-of-madness.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
 | Way of the Red | 25963 | [25963-way-of-the-red.json](./25963-way-of-the-red.json) |
+| Way of the Samurai Portable 2 | 59371 | [59371-way-of-the-samurai-portable-2.json](./59371-way-of-the-samurai-portable-2.json) |
 | Way of the Wizard | 232431 | [232431-way-of-the-wizard.json](./232431-way-of-the-wizard.json) |
 | Way on Where | 195740 | [195740-way-on-where.json](./195740-way-on-where.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
@@ -534,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Interns | 357252 | [357252-we-interns.json](./357252-we-interns.json) |
 | We Kill Monsters | 255092 | [255092-we-kill-monsters.json](./255092-we-kill-monsters.json) |
 | We Love Fish Tanks | 387332 | [387332-we-love-fish-tanks.json](./387332-we-love-fish-tanks.json) |
+| We Love Juggler | 59361 | [59361-we-love-juggler.json](./59361-we-love-juggler.json) |
 | We Love Katamari Reroll + Royal Reverie - Katamari Damacy Series Music Bundle | 272559 | [272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json](./272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json) |
 | We Love Katamari Reroll + Royal Reverie: Deluxe Edition | 251602 | [251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json](./251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
