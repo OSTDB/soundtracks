@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
 | Vortle | 186286 | [186286-vortle.json](./186286-vortle.json) |
+| Vos en Haas: Het ij van uil | 78645 | [78645-vos-en-haas-het-ij-van-uil.json](./78645-vos-en-haas-het-ij-van-uil.json) |
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
 | Vows of Eternity | 298872 | [298872-vows-of-eternity.json](./298872-vows-of-eternity.json) |
