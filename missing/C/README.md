@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
 | Cleo: A Pirate's Tale - Deluxe Edition | 186887 | [186887-cleo-a-pirates-tale-deluxe-edition.json](./186887-cleo-a-pirates-tale-deluxe-edition.json) |
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
+| Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
 | Clériga | 300674 | [300674-cleriga.json](./300674-cleriga.json) |
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
 | Clever Dog | 346051 | [346051-clever-dog.json](./346051-clever-dog.json) |
@@ -2008,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Out | 312922 | [312922-clock-out.json](./312922-clock-out.json) |
 | clock out. | 310963 | [310963-clock-out.json](./310963-clock-out.json) |
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
+| Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwise Jinx | 186338 | [186338-clockwise-jinx.json](./186338-clockwise-jinx.json) |
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
@@ -2468,6 +2470,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
 | Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
 | Comic Party Portable | 59388 | [59388-comic-party-portable.json](./59388-comic-party-portable.json) |
+| Comic Sakka Series Touma Senki #1: Mashoujo Gakuen Evil | 41354 | [41354-comic-sakka-series-touma-senki-1-mashoujo-gakuen-evil.json](./41354-comic-sakka-series-touma-senki-1-mashoujo-gakuen-evil.json) |
+| Comic Sakka Series Touma Senki #2: Mermaid no Gyakushuu | 41353 | [41353-comic-sakka-series-touma-senki-2-mermaid-no-gyakushuu.json](./41353-comic-sakka-series-touma-senki-2-mermaid-no-gyakushuu.json) |
+| Comic Sakka Series Touma Senki #3: Ryuujin Sensei Kiki Ippatsu | 41352 | [41352-comic-sakka-series-touma-senki-3-ryuujin-sensei-kiki-ippatsu.json](./41352-comic-sakka-series-touma-senki-3-ryuujin-sensei-kiki-ippatsu.json) |
+| Comic Sakka Series Touma Senki #4: Tenkuu Ryuumaou Fukkatsu | 41351 | [41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json](./41351-comic-sakka-series-touma-senki-4-tenkuu-ryuumaou-fukkatsu.json) |
+| Comic Sakka Series Touma Senki #5: Youjuu Rudo no Chousen | 41350 | [41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json](./41350-comic-sakka-series-touma-senki-5-youjuu-rudo-no-chousen.json) |
 | Coming Back | 183545 | [183545-coming-back.json](./183545-coming-back.json) |
 | Coming Home | 347152 | [347152-coming-home.json](./347152-coming-home.json) |
 | Coming home absolutely twisted with a load of swords | 178034 | [178034-coming-home-absolutely-twisted-with-a-load-of-swords.json](./178034-coming-home-absolutely-twisted-with-a-load-of-swords.json) |
