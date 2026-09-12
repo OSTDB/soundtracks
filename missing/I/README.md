@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ixion Saga | 152292 | [152292-ixion-saga.json](./152292-ixion-saga.json) |
 | Iz | 292515 | [292515-iz.json](./292515-iz.json) |
 | Iz and Auggie: Escape from Dimension Q | 64378 | [64378-iz-and-auggie-escape-from-dimension-q.json](./64378-iz-and-auggie-escape-from-dimension-q.json) |
+| Izanami's Dream Battle | 30822 | [30822-izanamis-dream-battle.json](./30822-izanamis-dream-battle.json) |
 | Izeriya | 32938 | [32938-izeriya.json](./32938-izeriya.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
