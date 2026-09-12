@@ -670,6 +670,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Jane and the Snake Tower | 240198 | [240198-indie-jane-and-the-snake-tower.json](./240198-indie-jane-and-the-snake-tower.json) |
 | Indie Nights | 274481 | [274481-indie-nights.json](./274481-indie-nights.json) |
 | Indie Nights: Nightmare in Yellow Pine | 277289 | [277289-indie-nights-nightmare-in-yellow-pine.json](./277289-indie-nights-nightmare-in-yellow-pine.json) |
+| Indiemon Card Adventure | 62720 | [62720-indiemon-card-adventure.json](./62720-indiemon-card-adventure.json) |
+| Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
 | Indiepocalypse #61 | 336536 | [336536-indiepocalypse-61.json](./336536-indiepocalypse-61.json) |
 | Indiepocalypse #68 | 382208 | [382208-indiepocalypse-68.json](./382208-indiepocalypse-68.json) |
 | Indiepocalypse #69 | 382205 | [382205-indiepocalypse-69.json](./382205-indiepocalypse-69.json) |
@@ -771,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Monkey Autocorrect | 89205 | [89205-infinite-monkey-autocorrect.json](./89205-infinite-monkey-autocorrect.json) |
 | Infinite Monkey Clicker | 387328 | [387328-infinite-monkey-clicker.json](./387328-infinite-monkey-clicker.json) |
 | Infinite Monkeys | 57095 | [57095-infinite-monkeys.json](./57095-infinite-monkeys.json) |
+| Infinite Pixel | 62692 | [62692-infinite-pixel.json](./62692-infinite-pixel.json) |
 | Infinite Pizza | 141819 | [141819-infinite-pizza.json](./141819-infinite-pizza.json) |
 | Infinite Red: The Day the Earth Stood Still | 294446 | [294446-infinite-red-the-day-the-earth-stood-still.json](./294446-infinite-red-the-day-the-earth-stood-still.json) |
 | Infinite Robotics | 279000 | [279000-infinite-robotics.json](./279000-infinite-robotics.json) |
