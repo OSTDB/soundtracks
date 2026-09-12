@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Zone | 20596 | [20596-killing-zone.json](./20596-killing-zone.json) |
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
 | Killzone | 1865 | [1865-killzone.json](./1865-killzone.json) |
+| Killzone: Special Limited Edition | 43261 | [43261-killzone-special-limited-edition.json](./43261-killzone-special-limited-edition.json) |
 | Kiloblaster | 79333 | [79333-kiloblaster.json](./79333-kiloblaster.json) |
 | Kilubu Magic Potions 2 | 213397 | [213397-kilubu-magic-potions-2.json](./213397-kilubu-magic-potions-2.json) |
 | Kim | 25225 | [25225-kim.json](./25225-kim.json) |
