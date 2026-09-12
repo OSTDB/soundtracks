@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cross | 40242 | [40242-battle-cross.json](./40242-battle-cross.json) |
 | Battle Cross | 95412 | [95412-battle-cross.json](./95412-battle-cross.json) |
 | Battle Cruiser M-12 | 40241 | [40241-battle-cruiser-m-12.json](./40241-battle-cruiser-m-12.json) |
+| Battle Crusher | 66069 | [66069-battle-crusher.json](./66069-battle-crusher.json) |
 | Battle Cube | 128598 | [128598-battle-cube.json](./128598-battle-cube.json) |
 | Battle Dawn | 139433 | [139433-battle-dawn.json](./139433-battle-dawn.json) |
 | Battle Dex | 93581 | [93581-battle-dex.json](./93581-battle-dex.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Boo's Haunt | 308230 | [308230-big-boos-haunt.json](./308230-big-boos-haunt.json) |
 | Big Booty Adventures | 186312 | [186312-big-booty-adventures.json](./186312-big-booty-adventures.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
+| Big Brother: The Game | 66035 | [66035-big-brother-the-game.json](./66035-big-brother-the-game.json) |
 | Big Buck Deer Hunting | 101469 | [101469-big-buck-deer-hunting.json](./101469-big-buck-deer-hunting.json) |
 | Big Buck Hunter Pro Adventure | 328254 | [328254-big-buck-hunter-pro-adventure.json](./328254-big-buck-hunter-pro-adventure.json) |
 | Big Bucks: Trivia Quest | 312355 | [312355-big-bucks-trivia-quest.json](./312355-big-bucks-trivia-quest.json) |
@@ -2223,6 +2225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blub | 274497 | [274497-blub.json](./274497-blub.json) |
 | Blubber | 312582 | [312582-blubber.json](./312582-blubber.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
+| Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
 | Blue Bird's Song | 275346 | [275346-blue-birds-song.json](./275346-blue-birds-song.json) |
 | Blue Blaze Maze | 96080 | [96080-blue-blaze-maze.json](./96080-blue-blaze-maze.json) |
 | Blue Blood | 213939 | [213939-blue-blood.json](./213939-blue-blood.json) |
@@ -2799,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot: Animal Quizzes | 343259 | [343259-brainrot-animal-quizzes.json](./343259-brainrot-animal-quizzes.json) |
 | Brains & Hearts | 330163 | [330163-brains-and-hearts.json](./330163-brains-and-hearts.json) |
 | Brains Diamonds | 246435 | [246435-brains-diamonds.json](./246435-brains-diamonds.json) |
+| Brains: Denshinou Kougeki Shirei | 66054 | [66054-brains-denshinou-kougeki-shirei.json](./66054-brains-denshinou-kougeki-shirei.json) |
 | Brainsss | 197397 | [197397-brainsss.json](./197397-brainsss.json) |
 | Brainstorm | 14338 | [14338-brainstorm.json](./14338-brainstorm.json) |
 | Brainstorm Series: Treasure Chase | 130389 | [130389-brainstorm-series-treasure-chase.json](./130389-brainstorm-series-treasure-chase.json) |
