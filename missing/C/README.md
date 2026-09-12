@@ -113,11 +113,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculator360 | 81236 | [81236-calculator360.json](./81236-calculator360.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
+| Calipso | 39610 | [39610-calipso.json](./39610-calipso.json) |
 | Call Center Tycoon | 292311 | [292311-call-center-tycoon.json](./292311-call-center-tycoon.json) |
 | Call Each New Year | 104082 | [104082-call-each-new-year.json](./104082-call-each-new-year.json) |
 | Call From the Darkness | 337465 | [337465-call-from-the-darkness.json](./337465-call-from-the-darkness.json) |
 | Call Me Cera | 163982 | [163982-call-me-cera.json](./163982-call-me-cera.json) |
 | Call Me Emperor | 221961 | [221961-call-me-emperor.json](./221961-call-me-emperor.json) |
+| Call of Agents | 38963 | [38963-call-of-agents.json](./38963-call-of-agents.json) |
 | Call of Antia | 200141 | [200141-call-of-antia.json](./200141-call-of-antia.json) |
 | Call of Atlantis: Treasures of Poseidon - Collector's Edition | 355541 | [355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json](./355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json) |
 | Call of Duty 4: Modern Warfare | 135294 | [135294-call-of-duty-4-modern-warfare.json](./135294-call-of-duty-4-modern-warfare.json) |
@@ -705,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
 | Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
+| CastleVille Legends | 38906 | [38906-castleville-legends.json](./38906-castleville-legends.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
 | Casual Crusade | 267355 | [267355-casual-crusade.json](./267355-casual-crusade.json) |
 | Casual Fishing | 230842 | [230842-casual-fishing.json](./230842-casual-fishing.json) |
@@ -1143,6 +1146,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
 | Chaos Party | 139410 | [139410-chaos-party.json](./139410-chaos-party.json) |
 | Chaos Ride | 60522 | [60522-chaos-ride.json](./60522-chaos-ride.json) |
+| Chaos Rings II | 38896 | [38896-chaos-rings-ii.json](./38896-chaos-rings-ii.json) |
+| Chaos Rings Omega | 38897 | [38897-chaos-rings-omega.json](./38897-chaos-rings-omega.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
 | Chaos Starter | 116876 | [116876-chaos-starter.json](./116876-chaos-starter.json) |
 | Chaos War | 203933 | [203933-chaos-war.json](./203933-chaos-war.json) |
@@ -1208,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
 | Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
+| Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
 | Checkered Flag | 40815 | [40815-checkered-flag.json](./40815-checkered-flag.json) |
 | Checkers | 131515 | [131515-checkers.json](./131515-checkers.json) |
 | Checkers Challenge | 88173 | [88173-checkers-challenge.json](./88173-checkers-challenge.json) |
@@ -3013,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covenant | 324911 | [324911-covenant.json](./324911-covenant.json) |
 | Covenant of Anubis | 348771 | [348771-covenant-of-anubis.json](./348771-covenant-of-anubis.json) |
 | Covenanted | 157155 | [157155-covenanted.json](./157155-covenanted.json) |
+| Cover Fire | 38954 | [38954-cover-fire.json](./38954-cover-fire.json) |
 | Cover U: Raora Route | 351001 | [351001-cover-u-raora-route.json](./351001-cover-u-raora-route.json) |
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
