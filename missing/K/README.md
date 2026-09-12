@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
 | Karaoke Family Fun | 210018 | [210018-karaoke-family-fun.json](./210018-karaoke-family-fun.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
+| Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
 | Karaoke Revolution Presents: American Idol Encore 2 | 47432 | [47432-karaoke-revolution-presents-american-idol-encore-2.json](./47432-karaoke-revolution-presents-american-idol-encore-2.json) |
@@ -367,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kessakusen! Ganbare Goemon 1+2: Yuki-hime to McGuiness | 82068 | [82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json](./82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
 | Ketchapp Summer Sports | 246960 | [246960-ketchapp-summer-sports.json](./246960-ketchapp-summer-sports.json) |
+| Kether | 45921 | [45921-kether.json](./45921-kether.json) |
 | KetnetKick | 94236 | [94236-ketnetkick.json](./94236-ketnetkick.json) |
 | Ketris | 182540 | [182540-ketris.json](./182540-ketris.json) |
 | Ketsugou Danshi: Elements with Emotions - Zenshi Konkan Pack | 260691 | [260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json](./260691-ketsugou-danshi-elements-with-emotions-zenshi-konkan-pack.json) |
@@ -656,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
+| Kingdom II: Shadoan | 45920 | [45920-kingdom-ii-shadoan.json](./45920-kingdom-ii-shadoan.json) |
 | Kingdom Ka | 134601 | [134601-kingdom-ka.json](./134601-kingdom-ka.json) |
 | Kingdom Loop | 335285 | [335285-kingdom-loop.json](./335285-kingdom-loop.json) |
 | Kingdom of Arcana | 292320 | [292320-kingdom-of-arcana.json](./292320-kingdom-of-arcana.json) |
@@ -1009,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokurase: Episode 2 | 167800 | [167800-kokurase-episode-2.json](./167800-kokurase-episode-2.json) |
 | Kokurase: Episode 3 | 167799 | [167799-kokurase-episode-3.json](./167799-kokurase-episode-3.json) |
 | Kokuriko | 296922 | [296922-kokuriko.json](./296922-kokuriko.json) |
+| Kokuu Hyouryuu Nirgends | 45951 | [45951-kokuu-hyouryuu-nirgends.json](./45951-kokuu-hyouryuu-nirgends.json) |
 | Koliquest | 146243 | [146243-koliquest.json](./146243-koliquest.json) |
 | Kolkhoz: The Red Wedge | 109755 | [109755-kolkhoz-the-red-wedge.json](./109755-kolkhoz-the-red-wedge.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
