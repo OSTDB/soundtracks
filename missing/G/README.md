@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambit Heart | 100724 | [100724-gambit-heart.json](./100724-gambit-heart.json) |
 | Gambit Maestro | 385586 | [385586-gambit-maestro.json](./385586-gambit-maestro.json) |
 | Gamble Fight Plus | 116783 | [116783-gamble-fight-plus.json](./116783-gamble-fight-plus.json) |
+| Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
 | Gambler Jiko Chuushinha 2 | 267650 | [267650-gambler-jiko-chuushinha-2.json](./267650-gambler-jiko-chuushinha-2.json) |
 | Gambler: Queen's Cup | 360589 | [360589-gambler-queens-cup.json](./360589-gambler-queens-cup.json) |
 | Game | 346610 | [346610-game.json](./346610-game.json) |
@@ -431,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaze At Maze | 101620 | [101620-gaze-at-maze.json](./101620-gaze-at-maze.json) |
 | Gazed | 393476 | [393476-gazed.json](./393476-gazed.json) |
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
+| GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
 | GB Rober | 152875 | [152875-gb-rober.json](./152875-gb-rober.json) |
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
 | Gear Puzzle: the inheritance of grandpa | 120943 | [120943-gear-puzzle-the-inheritance-of-grandpa.json](./120943-gear-puzzle-the-inheritance-of-grandpa.json) |
@@ -558,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
 | Genji: Time Suspense Adventure | 66634 | [66634-genji-time-suspense-adventure.json](./66634-genji-time-suspense-adventure.json) |
+| Genjin Collection | 64343 | [64343-genjin-collection.json](./64343-genjin-collection.json) |
 | Genjin Show: Tobidase! VB Genjin | 234086 | [234086-genjin-show-tobidase-vb-genjin.json](./234086-genjin-show-tobidase-vb-genjin.json) |
 | Genjiro: Samurai Defense | 285973 | [285973-genjiro-samurai-defense.json](./285973-genjiro-samurai-defense.json) |
 | Genkai Tokki: Castle Panzers | 27761 | [27761-genkai-tokki-castle-panzers.json](./27761-genkai-tokki-castle-panzers.json) |
@@ -1047,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobbo's Gambit | 253952 | [253952-gobbos-gambit.json](./253952-gobbos-gambit.json) |
 | Gobernators: Parodia Política Peruana | 90570 | [90570-gobernators-parodia-politica-peruana.json](./90570-gobernators-parodia-politica-peruana.json) |
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
+| Goblet Grotto | 64354 | [64354-goblet-grotto.json](./64354-goblet-grotto.json) |
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
 | Goblin and Coins II: The Lost Recipes | 275563 | [275563-goblin-and-coins-ii-the-lost-recipes.json](./275563-goblin-and-coins-ii-the-lost-recipes.json) |
@@ -1654,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Farm 2 | 385048 | [385048-green-farm-2.json](./385048-green-farm-2.json) |
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
 | Green Inferno | 410929 | [410929-green-inferno.json](./410929-green-inferno.json) |
+| Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
