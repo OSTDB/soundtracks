@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caved-in | 249797 | [249797-caved-in.json](./249797-caved-in.json) |
 | CaveFiction | 216789 | [216789-cavefiction.json](./216789-cavefiction.json) |
 | Cavegirl Adventures | 163992 | [163992-cavegirl-adventures.json](./163992-cavegirl-adventures.json) |
+| CaveIn: Miner Rescue Team | 68639 | [68639-cavein-miner-rescue-team.json](./68639-cavein-miner-rescue-team.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
 | Caveman Games | 48100 | [48100-caveman-games.json](./48100-caveman-games.json) |
@@ -1054,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Party | 149518 | [149518-challenge-party.json](./149518-challenge-party.json) |
 | Challenge Shot | 385555 | [385555-challenge-shot.json](./385555-challenge-shot.json) |
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
+| Challenge! | 68608 | [68608-challenge.json](./68608-challenge.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
@@ -1504,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chowdown Kitty | 301284 | [301284-chowdown-kitty.json](./301284-chowdown-kitty.json) |
 | Chozetsu Rinjin Berabo Man | 42038 | [42038-chozetsu-rinjin-berabo-man.json](./42038-chozetsu-rinjin-berabo-man.json) |
 | Chris Brackett's Kamikaze Karp | 101490 | [101490-chris-bracketts-kamikaze-karp.json](./101490-chris-bracketts-kamikaze-karp.json) |
+| Chris Moneymaker's World Poker Championship | 68636 | [68636-chris-moneymakers-world-poker-championship.json](./68636-chris-moneymakers-world-poker-championship.json) |
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
 | Christian Matchups | 95423 | [95423-christian-matchups.json](./95423-christian-matchups.json) |
 | Christmas Adventures: A Winter Night's Dream | 163921 | [163921-christmas-adventures-a-winter-nights-dream.json](./163921-christmas-adventures-a-winter-nights-dream.json) |
@@ -2051,6 +2054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockhead | 130937 | [130937-cockhead.json](./130937-cockhead.json) |
 | Cockroach VR | 31361 | [31361-cockroach-vr.json](./31361-cockroach-vr.json) |
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
+| Cocktail Paradise | 68632 | [68632-cocktail-paradise.json](./68632-cocktail-paradise.json) |
 | Cocktail Rush | 330183 | [330183-cocktail-rush.json](./330183-cocktail-rush.json) |
 | Cockwork Industries Complete | 124194 | [124194-cockwork-industries-complete.json](./124194-cockwork-industries-complete.json) |
 | Coco Bandicoot: Tiger Ride | 314658 | [314658-coco-bandicoot-tiger-ride.json](./314658-coco-bandicoot-tiger-ride.json) |
@@ -2424,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commune Corvidae | 142399 | [142399-commune-corvidae.json](./142399-commune-corvidae.json) |
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
+| Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
 | Commute | 135279 | [135279-commute.json](./135279-commute.json) |
 | Commute | 204674 | [204674-commute.json](./204674-commute.json) |
 | Commute | 204676 | [204676-commute.json](./204676-commute.json) |
