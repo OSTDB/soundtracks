@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
 | Beatmania IIDX 31 Epolis | 258714 | [258714-beatmania-iidx-31-epolis.json](./258714-beatmania-iidx-31-epolis.json) |
 | Beatmania IIDX 33 Sparkle Shower | 367970 | [367970-beatmania-iidx-33-sparkle-shower.json](./367970-beatmania-iidx-33-sparkle-shower.json) |
+| Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
 | Beats of Fury | 127181 | [127181-beats-of-fury.json](./127181-beats-of-fury.json) |
 | Beats of Rage | 46623 | [46623-beats-of-rage.json](./46623-beats-of-rage.json) |
@@ -1659,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birmingham's Ghosts: Fear and Loathing | 248675 | [248675-birminghams-ghosts-fear-and-loathing.json](./248675-birminghams-ghosts-fear-and-loathing.json) |
 | Birth of Rome: Alea Jacta Est | 62138 | [62138-birth-of-rome-alea-jacta-est.json](./62138-birth-of-rome-alea-jacta-est.json) |
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
+| Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthdays the Beginning: Digital Limited Edition | 52628 | [52628-birthdays-the-beginning-digital-limited-edition.json](./52628-birthdays-the-beginning-digital-limited-edition.json) |
 | Birthright Cataclysm: Overture | 171595 | [171595-birthright-cataclysm-overture.json](./171595-birthright-cataclysm-overture.json) |
@@ -2536,6 +2538,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomcestors | 367961 | [367961-boomcestors.json](./367961-boomcestors.json) |
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
+| Boomlings | 61067 | [61067-boomlings.json](./61067-boomlings.json) |
+| Boomlings MatchUp | 61066 | [61066-boomlings-matchup.json](./61066-boomlings-matchup.json) |
 | BoomScroll | 400236 | [400236-boomscroll.json](./400236-boomscroll.json) |
 | BoomSweeper VR | 232970 | [232970-boomsweeper-vr.json](./232970-boomsweeper-vr.json) |
 | BoomTris | 120963 | [120963-boomtris.json](./120963-boomtris.json) |
