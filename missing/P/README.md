@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palace of Cards | 81384 | [81384-palace-of-cards.json](./81384-palace-of-cards.json) |
 | Palace of Nemrac | 261283 | [261283-palace-of-nemrac.json](./261283-palace-of-nemrac.json) |
 | Palace of Woe | 134683 | [134683-palace-of-woe.json](./134683-palace-of-woe.json) |
+| Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
 | Paladin's Oath | 190739 | [190739-paladins-oath.json](./190739-paladins-oath.json) |
 | Paladins: Feathered Fiend Pack | 263482 | [263482-paladins-feathered-fiend-pack.json](./263482-paladins-feathered-fiend-pack.json) |
 | Paladins: Season 4 Champions Bundle | 263484 | [263484-paladins-season-4-champions-bundle.json](./263484-paladins-season-4-champions-bundle.json) |
@@ -3432,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyro Complete Bundle | 218460 | [218460-pyro-complete-bundle.json](./218460-pyro-complete-bundle.json) |
 | Pyrocast | 288762 | [288762-pyrocast.json](./288762-pyrocast.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
+| Pyrrhic Tales: Prelude to Darkness | 70347 | [70347-pyrrhic-tales-prelude-to-darkness.json](./70347-pyrrhic-tales-prelude-to-darkness.json) |
 | Pyrus: Alle Tiders Familiespil | 129813 | [129813-pyrus-alle-tiders-familiespil.json](./129813-pyrus-alle-tiders-familiespil.json) |
 | Pyrus: Alletiders Jul | 129780 | [129780-pyrus-alletiders-jul.json](./129780-pyrus-alletiders-jul.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
