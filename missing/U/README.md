@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Udderly Tickets | 66689 | [66689-udderly-tickets.json](./66689-udderly-tickets.json) |
 | Uden at prale - det er Harry | 127973 | [127973-uden-at-prale-det-er-harry.json](./127973-uden-at-prale-det-er-harry.json) |
 | UdoRin | 213963 | [213963-udorin.json](./213963-udorin.json) |
+| Udos sagner: Sveakampen | 64389 | [64389-udos-sagner-sveakampen.json](./64389-udos-sagner-sveakampen.json) |
 | UEDI: Shadow of the Citadel | 129801 | [129801-uedi-shadow-of-the-citadel.json](./129801-uedi-shadow-of-the-citadel.json) |
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
 | UFHO2 | 35793 | [35793-ufho2.json](./35793-ufho2.json) |
