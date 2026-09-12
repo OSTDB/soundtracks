@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
 | Kangoorun: Fly to the Moon | 37181 | [37181-kangoorun-fly-to-the-moon.json](./37181-kangoorun-fly-to-the-moon.json) |
+| Kanji no Owari! | 56450 | [56450-kanji-no-owari.json](./56450-kanji-no-owari.json) |
 | Kanji Searcher | 151710 | [151710-kanji-searcher.json](./151710-kanji-searcher.json) |
 | Kanji Swipe: Sliding Puzzle | 174293 | [174293-kanji-swipe-sliding-puzzle.json](./174293-kanji-swipe-sliding-puzzle.json) |
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
@@ -504,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Monster Z | 189165 | [189165-kill-the-monster-z.json](./189165-kill-the-monster-z.json) |
 | Kill The Music | 321169 | [321169-kill-the-music.json](./321169-kill-the-music.json) |
 | Kill The Nova | 406092 | [406092-kill-the-nova.json](./406092-kill-the-nova.json) |
+| Kill the Old Gods | 56431 | [56431-kill-the-old-gods.json](./56431-kill-the-old-gods.json) |
 | Kill the Plumber World | 100732 | [100732-kill-the-plumber-world.json](./100732-kill-the-plumber-world.json) |
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
 | Kill Them With Cuteness | 152863 | [152863-kill-them-with-cuteness.json](./152863-kill-them-with-cuteness.json) |
