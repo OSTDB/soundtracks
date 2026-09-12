@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sare Inception | 120931 | [120931-sare-inception.json](./120931-sare-inception.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | SAS: Anti-Terror Force | 43294 | [43294-sas-anti-terror-force.json](./43294-sas-anti-terror-force.json) |
+| Sasa | 48602 | [48602-sasa.json](./48602-sasa.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
 | Satan's Pepper | 274183 | [274183-satans-pepper.json](./274183-satans-pepper.json) |
@@ -1096,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Bishoujo Emaki: Cut Sky | 147927 | [147927-sengoku-bishoujo-emaki-cut-sky.json](./147927-sengoku-bishoujo-emaki-cut-sky.json) |
 | Sengoku Bishoujo Emaki: Cut Sky ~Chapter Summer Wind~ | 147929 | [147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json](./147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
+| Sengoku Denshou | 48632 | [48632-sengoku-denshou.json](./48632-sengoku-denshou.json) |
 | Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai | 62133 | [62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json](./62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json) |
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
 | Sengoku Jidai: Shadow of the Shogun | 34582 | [34582-sengoku-jidai-shadow-of-the-shogun.json](./34582-sengoku-jidai-shadow-of-the-shogun.json) |
@@ -5424,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Fight: The Game | 65832 | [65832-stick-fight-the-game.json](./65832-stick-fight-the-game.json) |
 | Stick Fighter II | 81332 | [81332-stick-fighter-ii.json](./81332-stick-fighter-ii.json) |
 | Stick Hero | 87175 | [87175-stick-hero.json](./87175-stick-hero.json) |
+| Stick Hunter: Exciting Ice Hockey | 48618 | [48618-stick-hunter-exciting-ice-hockey.json](./48618-stick-hunter-exciting-ice-hockey.json) |
 | Stick Infinite Kingdom | 310934 | [310934-stick-infinite-kingdom.json](./310934-stick-infinite-kingdom.json) |
 | Stick or Stone? | 176457 | [176457-stick-or-stone.json](./176457-stick-or-stone.json) |
 | Stick Out! | 386696 | [386696-stick-out.json](./386696-stick-out.json) |
@@ -6016,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
+| Sugoro Quest: Dice no Senshi-tachi | 48621 | [48621-sugoro-quest-dice-no-senshi-tachi.json](./48621-sugoro-quest-dice-no-senshi-tachi.json) |
 | Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
 | Sugoroku New Year's Party | 379373 | [379373-sugoroku-new-years-party.json](./379373-sugoroku-new-years-party.json) |
 | Suguri | 80489 | [80489-suguri.json](./80489-suguri.json) |
