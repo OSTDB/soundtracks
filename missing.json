@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T14:50:03.739Z",
-  "total_missing": 62283,
+  "generated_at": "2026-09-12T14:55:45.865Z",
+  "total_missing": 62284,
   "games": [
     {
       "igdb_id": 306086,
@@ -67241,6 +67241,11 @@
       "igdb_id": 58849,
       "game_name": "Disney Princess: Suteki ni Lesson! Hiragana-Katakana",
       "file": "missing/D/58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json"
+    },
+    {
+      "igdb_id": 49305,
+      "game_name": "Disney Sports Motocross",
+      "file": "missing/D/49305-disney-sports-motocross.json"
     },
     {
       "igdb_id": 335656,
