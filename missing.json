@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T11:31:34.822Z",
-  "total_missing": 61777,
+  "generated_at": "2026-09-12T11:41:31.309Z",
+  "total_missing": 61779,
   "games": [
     {
       "igdb_id": 306086,
@@ -2881,11 +2881,6 @@
       "igdb_id": 67912,
       "game_name": "Ablepsia",
       "file": "missing/A/67912-ablepsia.json"
-    },
-    {
-      "igdb_id": 316441,
-      "game_name": "Abnormal 1999: The Compass and the Sand",
-      "file": "missing/A/316441-abnormal-1999-the-compass-and-the-sand.json"
     },
     {
       "igdb_id": 316639,
@@ -37396,6 +37391,11 @@
       "igdb_id": 275875,
       "game_name": "BvB: Burglars vs. Brats",
       "file": "missing/B/275875-bvb-burglars-vs-brats.json"
+    },
+    {
+      "igdb_id": 55125,
+      "game_name": "BVOVB: Bruising Vengeance of the Vintage Boxer",
+      "file": "missing/B/55125-bvovb-bruising-vengeance-of-the-vintage-boxer.json"
     },
     {
       "igdb_id": 306947,
@@ -105528,6 +105528,11 @@
       "file": "missing/G/153395-greedy-dungeon.json"
     },
     {
+      "igdb_id": 55120,
+      "game_name": "Greedy Frog",
+      "file": "missing/G/55120-greedy-frog.json"
+    },
+    {
       "igdb_id": 136459,
       "game_name": "Greedy Maze",
       "file": "missing/G/136459-greedy-maze.json"
@@ -153361,6 +153366,11 @@
       "igdb_id": 232178,
       "game_name": "Math City HD",
       "file": "missing/M/232178-math-city-hd.json"
+    },
+    {
+      "igdb_id": 55124,
+      "game_name": "Math Combat Challenge",
+      "file": "missing/M/55124-math-combat-challenge.json"
     },
     {
       "igdb_id": 175372,
