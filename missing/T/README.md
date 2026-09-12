@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
 | Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
 | Tanks Boom Boom | 210872 | [210872-tanks-boom-boom.json](./210872-tanks-boom-boom.json) |
+| Tanks But No Tanks | 40724 | [40724-tanks-but-no-tanks.json](./40724-tanks-but-no-tanks.json) |
 | Tanks Defense | 298013 | [298013-tanks-defense.json](./298013-tanks-defense.json) |
 | Tanks Endeavor | 117073 | [117073-tanks-endeavor.json](./117073-tanks-endeavor.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
@@ -5811,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic | 319601 | [319601-traffic.json](./319601-traffic.json) |
 | Traffic Chase | 173303 | [173303-traffic-chase.json](./173303-traffic-chase.json) |
 | Traffic City | 169476 | [169476-traffic-city.json](./169476-traffic-city.json) |
+| Traffic Cop | 40749 | [40749-traffic-cop.json](./40749-traffic-cop.json) |
 | Traffic Cop | 88177 | [88177-traffic-cop.json](./88177-traffic-cop.json) |
 | Traffic Panic London | 343799 | [343799-traffic-panic-london.json](./343799-traffic-panic-london.json) |
 | Traffic Racer Highway Online | 250350 | [250350-traffic-racer-highway-online.json](./250350-traffic-racer-highway-online.json) |
@@ -6624,6 +6626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tuboflex | 128564 | [128564-tuboflex.json](./128564-tuboflex.json) |
 | Tubular Rift | 75175 | [75175-tubular-rift.json](./75175-tubular-rift.json) |
+| Tuby Bird | 40736 | [40736-tuby-bird.json](./40736-tuby-bird.json) |
 | Tuff Stuff | 317614 | [317614-tuff-stuff.json](./317614-tuff-stuff.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
 | TukTuk | 196240 | [196240-tuktuk.json](./196240-tuktuk.json) |
