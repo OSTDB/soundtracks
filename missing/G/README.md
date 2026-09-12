@@ -507,6 +507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemstone Guardians | 239640 | [239640-gemstone-guardians.json](./239640-gemstone-guardians.json) |
 | Gemstone IV | 79899 | [79899-gemstone-iv.json](./79899-gemstone-iv.json) |
 | Gemstone Realm | 368505 | [368505-gemstone-realm.json](./368505-gemstone-realm.json) |
+| Gemstone Warrior | 25693 | [25693-gemstone-warrior.json](./25693-gemstone-warrior.json) |
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
 | Gemsweeper | 135284 | [135284-gemsweeper.json](./135284-gemsweeper.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
@@ -1755,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gregory Horror Show Soul of Roses | 320168 | [320168-gregory-horror-show-soul-of-roses.json](./320168-gregory-horror-show-soul-of-roses.json) |
 | Gregory's Epic Adventure | 229362 | [229362-gregorys-epic-adventure.json](./229362-gregorys-epic-adventure.json) |
 | Gremlin Invasion: Survivor | 35724 | [35724-gremlin-invasion-survivor.json](./35724-gremlin-invasion-survivor.json) |
+| Gremlins | 25673 | [25673-gremlins.json](./25673-gremlins.json) |
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
 | Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
@@ -2048,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
 | Gum Girl | 181847 | [181847-gum-girl.json](./181847-gum-girl.json) |
+| Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
