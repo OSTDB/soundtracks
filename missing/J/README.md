@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jikuu Boukenki Zentrix | 210683 | [210683-jikuu-boukenki-zentrix.json](./210683-jikuu-boukenki-zentrix.json) |
 | Jikuu Tantei DD: Maboroshi no Lorelei | 57052 | [57052-jikuu-tantei-dd-maboroshi-no-lorelei.json](./57052-jikuu-tantei-dd-maboroshi-no-lorelei.json) |
+| Jikuu Yuuden: Debias | 48610 | [48610-jikuu-yuuden-debias.json](./48610-jikuu-yuuden-debias.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
 | Jim & Dill II: Bobson’s Revenge | 313150 | [313150-jim-and-dill-ii-bobson-s-revenge.json](./313150-jim-and-dill-ii-bobson-s-revenge.json) |
 | Jim & Dill: The Legend of Weed N' Stiff | 299147 | [299147-jim-and-dill-the-legend-of-weed-n-stiff.json](./299147-jim-and-dill-the-legend-of-weed-n-stiff.json) |
