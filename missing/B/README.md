@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bereaved: Soldiers of Fate | 332850 | [332850-bereaved-soldiers-of-fate.json](./332850-bereaved-soldiers-of-fate.json) |
 | Berenice: Videogame | 344346 | [344346-berenice-videogame.json](./344346-berenice-videogame.json) |
 | Berenstain Bears in Big Paw's Cave | 273082 | [273082-berenstain-bears-in-big-paws-cave.json](./273082-berenstain-bears-in-big-paws-cave.json) |
+| Berenstein Bears: On Their Own, and You on Your Own | 46563 | [46563-berenstein-bears-on-their-own-and-you-on-your-own.json](./46563-berenstein-bears-on-their-own-and-you-on-your-own.json) |
 | Bergen Bridge Advanced Play | 101506 | [101506-bergen-bridge-advanced-play.json](./101506-bergen-bridge-advanced-play.json) |
 | Bergen Bridge Beginner 1 | 86721 | [86721-bergen-bridge-beginner-1.json](./86721-bergen-bridge-beginner-1.json) |
 | Berkeley's Maid: Remake Edition | 298059 | [298059-berkeleys-maid-remake-edition.json](./298059-berkeleys-maid-remake-edition.json) |
