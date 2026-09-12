@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
 | NFL Street 2: Unleashed | 243016 | [243016-nfl-street-2-unleashed.json](./243016-nfl-street-2-unleashed.json) |
+| NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
 | NGolf: Complete Edition | 313152 | [313152-ngolf-complete-edition.json](./313152-ngolf-complete-edition.json) |
 | Ngolf: Legendary Edition | 315858 | [315858-ngolf-legendary-edition.json](./315858-ngolf-legendary-edition.json) |
 | Ngolf: Platinum Edition | 317247 | [317247-ngolf-platinum-edition.json](./317247-ngolf-platinum-edition.json) |
