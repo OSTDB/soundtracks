@@ -169,9 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Above the Stars | 148555 | [148555-above-the-stars.json](./148555-above-the-stars.json) |
 | Above: Colonies of the Mist | 388001 | [388001-above-colonies-of-the-mist.json](./388001-above-colonies-of-the-mist.json) |
-| Abraca Drunk | 415113 | [415113-abraca-drunk.json](./415113-abraca-drunk.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
-| Abrams Tank | 31567 | [31567-abrams-tank.json](./31567-abrams-tank.json) |
 | AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abrez | 368517 | [368517-abrez.json](./368517-abrez.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
