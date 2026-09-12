@@ -1691,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboban: Colors | 302938 | [302938-roboban-colors.json](./302938-roboban-colors.json) |
 | Robobeat | 192534 | [192534-robobeat.json](./192534-robobeat.json) |
 | RoboBlaster | 181869 | [181869-roboblaster.json](./181869-roboblaster.json) |
+| Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
 | RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
