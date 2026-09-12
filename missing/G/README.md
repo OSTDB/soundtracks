@@ -1270,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
 | Goo Saga: HD Edition | 31941 | [31941-goo-saga-hd-edition.json](./31941-goo-saga-hd-edition.json) |
 | Gooba Ball | 300696 | [300696-gooba-ball.json](./300696-gooba-ball.json) |
+| Gooch Grundy's X-Decathlon | 73797 | [73797-gooch-grundys-x-decathlon.json](./73797-gooch-grundys-x-decathlon.json) |
 | GooCubelets: OCD | 33068 | [33068-goocubelets-ocd.json](./33068-goocubelets-ocd.json) |
 | GooCubelets: The Void | 31961 | [31961-goocubelets-the-void.json](./31961-goocubelets-the-void.json) |
 | Good & Bad Driver | 302106 | [302106-good-and-bad-driver.json](./302106-good-and-bad-driver.json) |
@@ -1769,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
 | Grog 'n Glory | 291739 | [291739-grog-n-glory.json](./291739-grog-n-glory.json) |
 | Grokit | 271204 | [271204-grokit.json](./271204-grokit.json) |
+| Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
 | Gronk Want Rock | 249502 | [249502-gronk-want-rock.json](./249502-gronk-want-rock.json) |
 | Groomer | 115695 | [115695-groomer.json](./115695-groomer.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
