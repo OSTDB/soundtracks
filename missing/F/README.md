@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fixat! | 129774 | [129774-fixat.json](./129774-fixat.json) |
 | Fixed Point In Space | 184644 | [184644-fixed-point-in-space.json](./184644-fixed-point-in-space.json) |
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
+| Fjord battle racing | 50523 | [50523-fjord-battle-racing.json](./50523-fjord-battle-racing.json) |
 | Fl337 | 34361 | [34361-fl337.json](./34361-fl337.json) |
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
 | Flag Color Number: Painting and Coloring | 147382 | [147382-flag-color-number-painting-and-coloring.json](./147382-flag-color-number-painting-and-coloring.json) |
@@ -1660,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux Empyrean | 383372 | [383372-flux-empyrean.json](./383372-flux-empyrean.json) |
 | Flux Family Secrets: The Rabbit Hole | 209458 | [209458-flux-family-secrets-the-rabbit-hole.json](./209458-flux-family-secrets-the-rabbit-hole.json) |
 | Flux Family Secrets: The Ripple Effect | 144973 | [144973-flux-family-secrets-the-ripple-effect.json](./144973-flux-family-secrets-the-ripple-effect.json) |
+| Flux8 | 50513 | [50513-flux8.json](./50513-flux8.json) |
 | Fly & Poop | 200182 | [200182-fly-and-poop.json](./200182-fly-and-poop.json) |
 | Fly a Kite | 365070 | [365070-fly-a-kite.json](./365070-fly-a-kite.json) |
 | Fly Cat | 199107 | [199107-fly-cat.json](./199107-fly-cat.json) |
