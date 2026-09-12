@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XS Junior League Football | 43944 | [43944-xs-junior-league-football.json](./43944-xs-junior-league-football.json) |
 | XS Junior League Soccer | 43945 | [43945-xs-junior-league-soccer.json](./43945-xs-junior-league-soccer.json) |
 | XS Moto | 205811 | [205811-xs-moto.json](./205811-xs-moto.json) |
+| Xscorch | 63240 | [63240-xscorch.json](./63240-xscorch.json) |
 | Xtom 3D | 45978 | [45978-xtom-3d.json](./45978-xtom-3d.json) |
 | Xtraction Royale | 115728 | [115728-xtraction-royale.json](./115728-xtraction-royale.json) |
 | Xtractor Defender | 111672 | [111672-xtractor-defender.json](./111672-xtractor-defender.json) |
