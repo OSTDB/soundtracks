@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K.S.-n-Kickin | 265977 | [265977-k-s-n-kickin.json](./265977-k-s-n-kickin.json) |
 | K11: Kommissare im Einsatz | 268183 | [268183-k11-kommissare-im-einsatz.json](./268183-k11-kommissare-im-einsatz.json) |
 | K37-D | 130966 | [130966-k37-d.json](./130966-k37-d.json) |
+| Ka-52 Team Alligator | 78646 | [78646-ka-52-team-alligator.json](./78646-ka-52-team-alligator.json) |
 | Ka-Blooey | 42660 | [42660-ka-blooey.json](./42660-ka-blooey.json) |
 | Kaal Yoddha | 332445 | [332445-kaal-yoddha.json](./332445-kaal-yoddha.json) |
 | Kaapelipeli: The Cable Game | 138260 | [138260-kaapelipeli-the-cable-game.json](./138260-kaapelipeli-the-cable-game.json) |
@@ -248,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Solitaire 3 in 1 | 220872 | [220872-kawaii-solitaire-3-in-1.json](./220872-kawaii-solitaire-3-in-1.json) |
 | Kawaiiju | 176427 | [176427-kawaiiju.json](./176427-kawaiiju.json) |
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
+| Kawasaki Jet Ski Watercraft | 78659 | [78659-kawasaki-jet-ski-watercraft.json](./78659-kawasaki-jet-ski-watercraft.json) |
 | Kawkab ELashkef | 401494 | [401494-kawkab-elashkef.json](./401494-kawkab-elashkef.json) |
 | Kaya The Dog | 381595 | [381595-kaya-the-dog.json](./381595-kaya-the-dog.json) |
 | Kaya's Prophecy | 317866 | [317866-kayas-prophecy.json](./317866-kayas-prophecy.json) |
@@ -967,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komori Fruit Rush | 126633 | [126633-komori-fruit-rush.json](./126633-komori-fruit-rush.json) |
 | Kona Project | 299742 | [299742-kona-project.json](./299742-kona-project.json) |
 | Konami 88 | 40228 | [40228-konami-88.json](./40228-konami-88.json) |
+| Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
 | Konami's Ping Pong | 46832 | [46832-konamis-ping-pong.json](./46832-konamis-ping-pong.json) |
 | Kong | 142412 | [142412-kong.json](./142412-kong.json) |
 | Kong: The 8th Wonder of the World | 49397 | [49397-kong-the-8th-wonder-of-the-world.json](./49397-kong-the-8th-wonder-of-the-world.json) |
