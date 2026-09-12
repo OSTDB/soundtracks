@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
 | KaraDedeler 1989 | 165712 | [165712-karadedeler-1989.json](./165712-karadedeler-1989.json) |
 | Karakia Shooter | 158139 | [158139-karakia-shooter.json](./158139-karakia-shooter.json) |
+| Karakuri Kengou Den Musashi Lord | 65436 | [65436-karakuri-kengou-den-musashi-lord.json](./65436-karakuri-kengou-den-musashi-lord.json) |
 | Karakuri Kengou-den: Musashi Road - Harikiri Daishuugyou! | 346027 | [346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json](./346027-karakuri-kengou-den-musashi-road-harikiri-daishuugyou.json) |
 | Karakuru | 371904 | [371904-karakuru.json](./371904-karakuru.json) |
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
@@ -669,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdomino | 338728 | [338728-kingdomino.json](./338728-kingdomino.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
+| Kingdoms of Germany | 65441 | [65441-kingdoms-of-germany.json](./65441-kingdoms-of-germany.json) |
 | Kingdoms of Marazia: Classic | 107199 | [107199-kingdoms-of-marazia-classic.json](./107199-kingdoms-of-marazia-classic.json) |
 | Kingdoms of Merge & Magic | 231926 | [231926-kingdoms-of-merge-and-magic.json](./231926-kingdoms-of-merge-and-magic.json) |
 | Kingdoms: Merge & Build | 291982 | [291982-kingdoms-merge-and-build.json](./291982-kingdoms-merge-and-build.json) |
