@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Summer | 337629 | [337629-season-marbles-summer.json](./337629-season-marbles-summer.json) |
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
+| Seasons of War | 58746 | [58746-seasons-of-war.json](./58746-seasons-of-war.json) |
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
 | Seasons Turning | 374617 | [374617-seasons-turning.json](./374617-seasons-turning.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
@@ -1846,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty and the Catfish: Episode 2 | 181936 | [181936-shooty-and-the-catfish-episode-2.json](./181936-shooty-and-the-catfish-episode-2.json) |
 | Shooty Ballz | 184656 | [184656-shooty-ballz.json](./184656-shooty-ballz.json) |
 | Shooty Skies Overdrive | 137654 | [137654-shooty-skies-overdrive.json](./137654-shooty-skies-overdrive.json) |
+| Shooty Space Adventure | 58768 | [58768-shooty-space-adventure.json](./58768-shooty-space-adventure.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
 | Shop Mistress NTR | 379891 | [379891-shop-mistress-ntr.json](./379891-shop-mistress-ntr.json) |
 | Shop of Forgotten Memories | 298883 | [298883-shop-of-forgotten-memories.json](./298883-shop-of-forgotten-memories.json) |
@@ -3747,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Survivor | 147413 | [147413-soul-survivor.json](./147413-soul-survivor.json) |
 | Soul Survivor | 329001 | [329001-soul-survivor.json](./329001-soul-survivor.json) |
 | Soul Symphony | 196878 | [196878-soul-symphony.json](./196878-soul-symphony.json) |
+| Soul Thief: A Wizard's Lizard 2 | 58771 | [58771-soul-thief-a-wizards-lizard-2.json](./58771-soul-thief-a-wizards-lizard-2.json) |
 | Soul Tolerance | 211757 | [211757-soul-tolerance.json](./211757-soul-tolerance.json) |
 | Soul Wizards & Rogulite | 290933 | [290933-soul-wizards-and-rogulite.json](./290933-soul-wizards-and-rogulite.json) |
 | Soul's Spectrum | 232974 | [232974-souls-spectrum.json](./232974-souls-spectrum.json) |
@@ -3878,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crisis | 167782 | [167782-space-crisis.json](./167782-space-crisis.json) |
 | Space Crusade: The Voyage Beyond | 73855 | [73855-space-crusade-the-voyage-beyond.json](./73855-space-crusade-the-voyage-beyond.json) |
 | Space Danger: G.O.N. | 185599 | [185599-space-danger-g-o-n.json](./185599-space-danger-g-o-n.json) |
+| Space Dash: Earth Defender | 58769 | [58769-space-dash-earth-defender.json](./58769-space-dash-earth-defender.json) |
 | Space Debris | 103533 | [103533-space-debris.json](./103533-space-debris.json) |
 | Space Defend | 246424 | [246424-space-defend.json](./246424-space-defend.json) |
 | Space Demon Combat Tactics III | 186334 | [186334-space-demon-combat-tactics-iii.json](./186334-space-demon-combat-tactics-iii.json) |
@@ -6873,6 +6877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
 | SurvivalZ Battlegrounds | 103009 | [103009-survivalz-battlegrounds.json](./103009-survivalz-battlegrounds.json) |
 | Survive | 193436 | [193436-survive.json](./193436-survive.json) |
+| Survive - Wilderness Survival | 58795 | [58795-survive-wilderness-survival.json](./58795-survive-wilderness-survival.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
 | Survive and Revenge | 236285 | [236285-survive-and-revenge.json](./236285-survive-and-revenge.json) |
 | Survive Avalon | 158709 | [158709-survive-avalon.json](./158709-survive-avalon.json) |
