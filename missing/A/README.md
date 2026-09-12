@@ -176,7 +176,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
 | Absinthe | 337440 | [337440-absinthe.json](./337440-absinthe.json) |
-| Absolute Adventure Zero | 107919 | [107919-absolute-adventure-zero.json](./107919-absolute-adventure-zero.json) |
 | Absolute Baseball | 84863 | [84863-absolute-baseball.json](./84863-absolute-baseball.json) |
 | Absolute Chess | 74418 | [74418-absolute-chess.json](./74418-absolute-chess.json) |
 | Absolute Deduction Bundle | 209687 | [209687-absolute-deduction-bundle.json](./209687-absolute-deduction-bundle.json) |
