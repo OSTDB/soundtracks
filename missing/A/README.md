@@ -173,7 +173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
-| Abrix 2: Diamond Version | 307324 | [307324-abrix-2-diamond-version.json](./307324-abrix-2-diamond-version.json) |
 | Abrix for kids | 32440 | [32440-abrix-for-kids.json](./32440-abrix-for-kids.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absented Age: Squarebound | 150161 | [150161-absented-age-squarebound.json](./150161-absented-age-squarebound.json) |
@@ -386,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
 | Action Hero | 66714 | [66714-action-hero.json](./66714-action-hero.json) |
 | Action Mahjong | 29871 | [29871-action-mahjong.json](./29871-action-mahjong.json) |
+| Action Man: Search For Base X | 49868 | [49868-action-man-search-for-base-x.json](./49868-action-man-search-for-base-x.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Painting Pro | 128587 | [128587-action-painting-pro.json](./128587-action-painting-pro.json) |
 | Action Replay Max | 43302 | [43302-action-replay-max.json](./43302-action-replay-max.json) |
@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Fireteam Elite - Pathogen | 204435 | [204435-aliens-fireteam-elite-pathogen.json](./204435-aliens-fireteam-elite-pathogen.json) |
 | Aliens: Neoplasma | 247527 | [247527-aliens-neoplasma.json](./247527-aliens-neoplasma.json) |
 | Aliens: Redacted | 299755 | [299755-aliens-redacted.json](./299755-aliens-redacted.json) |
+| Aliens: Thanatos Encounter | 49863 | [49863-aliens-thanatos-encounter.json](./49863-aliens-thanatos-encounter.json) |
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Alienz | 116399 | [116399-alienz.json](./116399-alienz.json) |
@@ -1333,6 +1334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
 | All Star Soccer | 81432 | [81432-all-star-soccer.json](./81432-all-star-soccer.json) |
+| All Star Tennis 2000 | 49880 | [49880-all-star-tennis-2000.json](./49880-all-star-tennis-2000.json) |
 | All That Remains | 75789 | [75789-all-that-remains.json](./75789-all-that-remains.json) |
 | All The Colors That You Paint | 383376 | [383376-all-the-colors-that-you-paint.json](./383376-all-the-colors-that-you-paint.json) |
 | All the Hidden Corners | 55875 | [55875-all-the-hidden-corners.json](./55875-all-the-hidden-corners.json) |
@@ -3264,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
+| Austin Powers: Oh, Behave! | 49890 | [49890-austin-powers-oh-behave.json](./49890-austin-powers-oh-behave.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
