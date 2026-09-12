@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | ADG Episode | 270696 | [270696-adg-episode.json](./270696-adg-episode.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
+| Adian no Tsue | 41310 | [41310-adian-no-tsue.json](./41310-adian-no-tsue.json) |
 | Adiasis | 133948 | [133948-adiasis.json](./133948-adiasis.json) |
 | Adibou | 200672 | [200672-adibou.json](./200672-adibou.json) |
 | Adibou d'chou au cirque | 242534 | [242534-adibou-dchou-au-cirque.json](./242534-adibou-dchou-au-cirque.json) |
@@ -1036,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aker Fern: Rdzeń Szatrisa - The Shatris Core. | 248671 | [248671-aker-fern-rdzen-szatrisa-the-shatris-core.json](./248671-aker-fern-rdzen-szatrisa-the-shatris-core.json) |
 | AkeriaTD | 288749 | [288749-akeriatd.json](./288749-akeriatd.json) |
 | Akhenaten: Rule as Pharaoh | 75027 | [75027-akhenaten-rule-as-pharaoh.json](./75027-akhenaten-rule-as-pharaoh.json) |
+| Aki to Tsukasa no Fushigi no Kabe | 41341 | [41341-aki-to-tsukasa-no-fushigi-no-kabe.json](./41341-aki-to-tsukasa-no-fushigi-no-kabe.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
@@ -1059,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akumajou Densetsu | 353301 | [353301-akumajou-densetsu.json](./353301-akumajou-densetsu.json) |
 | Akumon Summoner | 393458 | [393458-akumon-summoner.json](./393458-akumon-summoner.json) |
 | Akunin-Akka | 389995 | [389995-akunin-akka.json](./389995-akunin-akka.json) |
+| Akuu Senki Raijin | 41340 | [41340-akuu-senki-raijin.json](./41340-akuu-senki-raijin.json) |
 | Akuya | 30891 | [30891-akuya.json](./30891-akuya.json) |
 | Akyrikon VR | 158204 | [158204-akyrikon-vr.json](./158204-akyrikon-vr.json) |
 | Al Gurbish in... Nick it & Run!!! | 316060 | [316060-al-gurbish-in-nick-it-and-run.json](./316060-al-gurbish-in-nick-it-and-run.json) |
@@ -2883,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
 | Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
+| Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | Assassin of Monsters 2: Spacenator | 404810 | [404810-assassin-of-monsters-2-spacenator.json](./404810-assassin-of-monsters-2-spacenator.json) |
 | Assassin Of Spider 2: 2099 | 404811 | [404811-assassin-of-spider-2-2099.json](./404811-assassin-of-spider-2-2099.json) |
