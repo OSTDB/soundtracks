@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
 | Balance of Kingdoms | 66144 | [66144-balance-of-kingdoms.json](./66144-balance-of-kingdoms.json) |
 | Balance of Power | 183072 | [183072-balance-of-power.json](./183072-balance-of-power.json) |
+| Balance the Beam | 58218 | [58218-balance-the-beam.json](./58218-balance-the-beam.json) |
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
 | Balconing Simulator 2020 | 127988 | [127988-balconing-simulator-2020.json](./127988-balconing-simulator-2020.json) |
 | Bald Man Climbs Up | 260988 | [260988-bald-man-climbs-up.json](./260988-bald-man-climbs-up.json) |
@@ -2104,8 +2105,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
 | Blocky Dungeon | 203913 | [203913-blocky-dungeon.json](./203913-blocky-dungeon.json) |
+| Blocky Football | 58203 | [58203-blocky-football.json](./58203-blocky-football.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
+| Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
+| Blocky Rugby | 58198 | [58198-blocky-rugby.json](./58198-blocky-rugby.json) |
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
+| Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Blokdoku | 315827 | [315827-blokdoku.json](./315827-blokdoku.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
@@ -2461,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
 | Bombo Rumble | 239683 | [239683-bombo-rumble.json](./239683-bombo-rumble.json) |
 | Bomboban | 386102 | [386102-bomboban.json](./386102-bomboban.json) |
+| Bomboras Forever | 58173 | [58173-bomboras-forever.json](./58173-bomboras-forever.json) |
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
@@ -2894,6 +2900,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
 | Brawl Stars: Season 31 - Scary Tales | 320182 | [320182-brawl-stars-season-31-scary-tales.json](./320182-brawl-stars-season-31-scary-tales.json) |
 | Brawlberry | 273961 | [273961-brawlberry.json](./273961-brawlberry.json) |
+| Brawler Friends | 58185 | [58185-brawler-friends.json](./58185-brawler-friends.json) |
+| Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
 | Brawlers | 266240 | [266240-brawlers.json](./266240-brawlers.json) |
 | Brawlhalla: Autumn Championship 2018 Pack | 342628 | [342628-brawlhalla-autumn-championship-2018-pack.json](./342628-brawlhalla-autumn-championship-2018-pack.json) |
 | Brawlhalla: Bonus Pack 14 | 316624 | [316624-brawlhalla-bonus-pack-14.json](./316624-brawlhalla-bonus-pack-14.json) |
