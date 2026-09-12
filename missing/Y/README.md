@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YokeLight | 103421 | [103421-yokelight.json](./103421-yokelight.json) |
 | Yoko Redux: Dreams of a Blue Planet | 191240 | [191240-yoko-redux-dreams-of-a-blue-planet.json](./191240-yoko-redux-dreams-of-a-blue-planet.json) |
 | Yokoi-san Warp | 183022 | [183022-yokoi-san-warp.json](./183022-yokoi-san-warp.json) |
+| YOLO Life: The Beggining | 76562 | [76562-yolo-life-the-beggining.json](./76562-yolo-life-the-beggining.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
 | Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
