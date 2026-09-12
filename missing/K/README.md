@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikokugai | 232662 | [232662-kikokugai.json](./232662-kikokugai.json) |
 | Kikou Seiki Unitron | 43969 | [43969-kikou-seiki-unitron.json](./43969-kikou-seiki-unitron.json) |
 | Kikstart | 25966 | [25966-kikstart.json](./25966-kikstart.json) |
+| Kikstart: Off-Road Simulator | 57616 | [57616-kikstart-off-road-simulator.json](./57616-kikstart-off-road-simulator.json) |
 | KilaFlow | 265955 | [265955-kilaflow.json](./265955-kilaflow.json) |
 | Kilira's Descent | 401526 | [401526-kiliras-descent.json](./401526-kiliras-descent.json) |
 | Kill Barney in Tokyo | 325818 | [325818-kill-barney-in-tokyo.json](./325818-kill-barney-in-tokyo.json) |
