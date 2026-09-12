@@ -721,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teething | 63797 | [63797-teething.json](./63797-teething.json) |
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
 | Tehodoki Koukan: Gibo & Tomohaha Harem-Hen | 91374 | [91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json](./91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json) |
+| Teigeki Graph in Sakura Wars | 62124 | [62124-teigeki-graph-in-sakura-wars.json](./62124-teigeki-graph-in-sakura-wars.json) |
 | Teikoku Kaigun Koibojou: Meiji Yokosuka Koushinkyoku | 136433 | [136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json](./136433-teikoku-kaigun-koibojou-meiji-yokosuka-koushinkyoku.json) |
 | Teikoku Kareido -Kakumei no Rondo- | 136434 | [136434-teikoku-kareido-kakumei-no-rondo.json](./136434-teikoku-kareido-kakumei-no-rondo.json) |
 | Teikoku Sensenki | 204483 | [204483-teikoku-sensenki.json](./204483-teikoku-sensenki.json) |
@@ -3703,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Turnabout that Shouldn't Exist | 318786 | [318786-the-turnabout-that-shouldnt-exist.json](./318786-the-turnabout-that-shouldnt-exist.json) |
 | The Turned About Turnabout | 308542 | [308542-the-turned-about-turnabout.json](./308542-the-turned-about-turnabout.json) |
 | The Turrican Collection | 394895 | [394895-the-turrican-collection.json](./394895-the-turrican-collection.json) |
+| The Tuttles: Madcap Misadventures | 62156 | [62156-the-tuttles-madcap-misadventures.json](./62156-the-tuttles-madcap-misadventures.json) |
 | The Twelve Slot Saloon | 311782 | [311782-the-twelve-slot-saloon.json](./311782-the-twelve-slot-saloon.json) |
 | The Twenty One | 210894 | [210894-the-twenty-one.json](./210894-the-twenty-one.json) |
 | The Twisting Trail of Clues | 295524 | [295524-the-twisting-trail-of-clues.json](./295524-the-twisting-trail-of-clues.json) |
@@ -5331,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
 | Toto's Toy Box | 129222 | [129222-totos-toy-box.json](./129222-totos-toy-box.json) |
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
+| Tottemo E Mahjong Plus | 62115 | [62115-tottemo-e-mahjong-plus.json](./62115-tottemo-e-mahjong-plus.json) |
 | Tottemo! Luckyman: Lucky Cookie Roulette de Totsugeki | 37783 | [37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json](./37783-tottemo-luckyman-lucky-cookie-roulette-de-totsugeki.json) |
 | Totto's Magic Soup | 353293 | [353293-tottos-magic-soup.json](./353293-tottos-magic-soup.json) |
 | Tottoko Hamtaro Card-e | 220854 | [220854-tottoko-hamtaro-card-e.json](./220854-tottoko-hamtaro-card-e.json) |
@@ -6016,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
 | Trax: Build it Race it | 105939 | [105939-trax-build-it-race-it.json](./105939-trax-build-it-race-it.json) |
+| Trax: The Robot Wars | 62160 | [62160-trax-the-robot-wars.json](./62160-trax-the-robot-wars.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | TraxWorld | 190167 | [190167-traxworld.json](./190167-traxworld.json) |
 | Treachery | 277292 | [277292-treachery.json](./277292-treachery.json) |
