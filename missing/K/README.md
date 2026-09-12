@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Club: Gekitotsu Shocker Land | 48691 | [48691-kamen-rider-club-gekitotsu-shocker-land.json](./48691-kamen-rider-club-gekitotsu-shocker-land.json) |
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
 | Kamen Rider: Battride War II | 62184 | [62184-kamen-rider-battride-war-ii.json](./62184-kamen-rider-battride-war-ii.json) |
+| Kamen Rider: Super Climax Heroes | 62705 | [62705-kamen-rider-super-climax-heroes.json](./62705-kamen-rider-super-climax-heroes.json) |
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
 | Kami and Miko | 370148 | [370148-kami-and-miko.json](./370148-kami-and-miko.json) |
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
@@ -187,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Phants: Gloves of Glory | 68633 | [68633-karate-phants-gloves-of-glory.json](./68633-karate-phants-gloves-of-glory.json) |
 | Karate Survivor | 307796 | [307796-karate-survivor.json](./307796-karate-survivor.json) |
 | Karawan | 180232 | [180232-karawan.json](./180232-karawan.json) |
+| KarBoom | 62667 | [62667-karboom.json](./62667-karboom.json) |
 | Kardia Tou Abel | 174807 | [174807-kardia-tou-abel.json](./174807-kardia-tou-abel.json) |
 | Kardiossomatic | 185137 | [185137-kardiossomatic.json](./185137-kardiossomatic.json) |
 | Kardun | 214183 | [214183-kardun.json](./214183-kardun.json) |
@@ -684,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
 | Kingmaker | 292554 | [292554-kingmaker.json](./292554-kingmaker.json) |
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
+| Kings Age | 62717 | [62717-kings-age.json](./62717-kings-age.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
 | Kings Hero 2 | 175359 | [175359-kings-hero-2.json](./175359-kings-hero-2.json) |
 | Kings of Battleground | 231928 | [231928-kings-of-battleground.json](./231928-kings-of-battleground.json) |
@@ -824,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klang 2 | 131563 | [131563-klang-2.json](./131563-klang-2.json) |
 | Klangwelt | 89207 | [89207-klangwelt.json](./89207-klangwelt.json) |
 | Klap!! Kind Love and Punish: Fun Party | 138232 | [138232-klap-kind-love-and-punish-fun-party.json](./138232-klap-kind-love-and-punish-fun-party.json) |
+| Klash | 62697 | [62697-klash.json](./62697-klash.json) |
 | KlashBall | 67941 | [67941-klashball.json](./67941-klashball.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
 | Kleopatra | 213968 | [213968-kleopatra.json](./213968-kleopatra.json) |
