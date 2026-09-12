@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: World Brothers 2 - Extra Mission Pack: Robo Saurous vs. The Mecharmy | 325434 | [325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json](./325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json) |
 | Earth Defense Force: World Brothers 2 - Humanity Dominates!? Air Raider (EDF6) Up & Coming: Reskin | 325433 | [325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json](./325433-earth-defense-force-world-brothers-2-humanity-dominates-air-raider-edf6-up-and-coming-reskin.json) |
 | Earth Invasion | 72085 | [72085-earth-invasion.json](./72085-earth-invasion.json) |
+| Earth Saver | 59386 | [59386-earth-saver.json](./59386-earth-saver.json) |
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
