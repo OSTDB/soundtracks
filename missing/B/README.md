@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Cafe: Caribbean Sand | 232988 | [232988-beach-cafe-caribbean-sand.json](./232988-beach-cafe-caribbean-sand.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
+| Beach Girls | 75758 | [75758-beach-girls.json](./75758-beach-girls.json) |
 | Beach Invasion 1945: Pacific | 247785 | [247785-beach-invasion-1945-pacific.json](./247785-beach-invasion-1945-pacific.json) |
 | Beach Island Deluxe | 212810 | [212810-beach-island-deluxe.json](./212810-beach-island-deluxe.json) |
 | Beach Landing | 307933 | [307933-beach-landing.json](./307933-beach-landing.json) |
@@ -1395,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe | 237359 | [237359-big-adventure-trip-to-europe.json](./237359-big-adventure-trip-to-europe.json) |
 | Big Adventure: Trip to Europe 10 - Collector's Edition | 338699 | [338699-big-adventure-trip-to-europe-10-collectors-edition.json](./338699-big-adventure-trip-to-europe-10-collectors-edition.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
+| Big Bang Billiards | 75819 | [75819-big-bang-billiards.json](./75819-big-bang-billiards.json) |
 | Big Bang Board Games | 78654 | [78654-big-bang-board-games.json](./78654-big-bang-board-games.json) |
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
 | Big Beach Sports 2 | 50639 | [50639-big-beach-sports-2.json](./50639-big-beach-sports-2.json) |
@@ -3481,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygone Dreams | 149522 | [149522-bygone-dreams.json](./149522-bygone-dreams.json) |
 | Bygone Worlds: Jerusalem | 74446 | [74446-bygone-worlds-jerusalem.json](./74446-bygone-worlds-jerusalem.json) |
+| Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
 | Byte Lynx | 203889 | [203889-byte-lynx.json](./203889-byte-lynx.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
