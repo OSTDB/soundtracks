@@ -198,7 +198,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Sweetheart | 135893 | [135893-sakura-sweetheart.json](./135893-sakura-sweetheart.json) |
 | Sakura Swim Club | 34461 | [34461-sakura-swim-club.json](./34461-sakura-swim-club.json) |
 | Sakura Taisen | 71399 | [71399-sakura-taisen.json](./71399-sakura-taisen.json) |
+| Sakura Taisen 1 & 2 | 62140 | [62140-sakura-taisen-1-and-2.json](./62140-sakura-taisen-1-and-2.json) |
+| Sakura Taisen Hanagumi Tsuushin | 62123 | [62123-sakura-taisen-hanagumi-tsuushin.json](./62123-sakura-taisen-hanagumi-tsuushin.json) |
 | Sakura Taisen Monogatari: Mysterious Paris | 73236 | [73236-sakura-taisen-monogatari-mysterious-paris.json](./73236-sakura-taisen-monogatari-mysterious-paris.json) |
+| Sakura Taisen Steam Radio Show | 62125 | [62125-sakura-taisen-steam-radio-show.json](./62125-sakura-taisen-steam-radio-show.json) |
+| Sakura Taisen: Kinematron Hanagumi Mail | 62122 | [62122-sakura-taisen-kinematron-hanagumi-mail.json](./62122-sakura-taisen-kinematron-hanagumi-mail.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
 | Sakura-iro Tetra Prism | 325451 | [325451-sakura-iro-tetra-prism.json](./325451-sakura-iro-tetra-prism.json) |
@@ -356,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sangoku Heroes | 69253 | [69253-sangoku-heroes.json](./69253-sangoku-heroes.json) |
 | Sangoku Hime 2 | 63301 | [63301-sangoku-hime-2.json](./63301-sangoku-hime-2.json) |
+| Sangoku Hime: Ransei, Tenka Sanbun no Kei | 62130 | [62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json](./62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json) |
 | Sangoku Justice | 74402 | [74402-sangoku-justice.json](./74402-sangoku-justice.json) |
 | Sangoku Rensenki ~Omoidegaeshi~ CS Edition | 135856 | [135856-sangoku-rensenki-omoidegaeshi-cs-edition.json](./135856-sangoku-rensenki-omoidegaeshi-cs-edition.json) |
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
@@ -1072,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Bishoujo Emaki: Cut Sky | 147927 | [147927-sengoku-bishoujo-emaki-cut-sky.json](./147927-sengoku-bishoujo-emaki-cut-sky.json) |
 | Sengoku Bishoujo Emaki: Cut Sky ~Chapter Summer Wind~ | 147929 | [147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json](./147929-sengoku-bishoujo-emaki-cut-sky-chapter-summer-wind.json) |
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
+| Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai | 62133 | [62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json](./62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json) |
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
 | Sengoku Jidai: Shadow of the Shogun | 34582 | [34582-sengoku-jidai-shadow-of-the-shogun.json](./34582-sengoku-jidai-shadow-of-the-shogun.json) |
 | Sengoku Koihime + Sengoku Koihime X Set | 339636 | [339636-sengoku-koihime-sengoku-koihime-x-set.json](./339636-sengoku-koihime-sengoku-koihime-x-set.json) |
@@ -2458,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Goddess Remaking | 235187 | [235187-sky-goddess-remaking.json](./235187-sky-goddess-remaking.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
+| Sky is Arrows | 62128 | [62128-sky-is-arrows.json](./62128-sky-is-arrows.json) |
 | Sky Island | 308257 | [308257-sky-island.json](./308257-sky-island.json) |
 | Sky Jaguar 2 | 138250 | [138250-sky-jaguar-2.json](./138250-sky-jaguar-2.json) |
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
@@ -4237,6 +4244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcasting 1+2+3 | 124795 | [124795-spellcasting-1-2-3.json](./124795-spellcasting-1-2-3.json) |
 | Spellcasting 101: Sorcerers get all the Girls | 92973 | [92973-spellcasting-101-sorcerers-get-all-the-girls.json](./92973-spellcasting-101-sorcerers-get-all-the-girls.json) |
 | Spellcasting 201: The Sorcerer's Appliance | 72074 | [72074-spellcasting-201-the-sorcerers-appliance.json](./72074-spellcasting-201-the-sorcerers-appliance.json) |
+| Spellcasting 301: Spring Break | 62143 | [62143-spellcasting-301-spring-break.json](./62143-spellcasting-301-spring-break.json) |
 | Spellcasting Collection | 115708 | [115708-spellcasting-collection.json](./115708-spellcasting-collection.json) |
 | Spellcats: Auto Card Tactics | 236288 | [236288-spellcats-auto-card-tactics.json](./236288-spellcats-auto-card-tactics.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
