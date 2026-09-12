@@ -1771,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
+| Dirt Track Racing | 73269 | [73269-dirt-track-racing.json](./73269-dirt-track-racing.json) |
 | Dirt Track Racing 2 | 73758 | [73758-dirt-track-racing-2.json](./73758-dirt-track-racing-2.json) |
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
@@ -2586,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
+| Dracula's Secret | 73228 | [73228-draculas-secret.json](./73228-draculas-secret.json) |
 | Dracula’s Vengeance | 249206 | [249206-dracula-s-vengeance.json](./249206-dracula-s-vengeance.json) |
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
