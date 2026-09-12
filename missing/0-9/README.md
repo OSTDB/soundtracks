@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4-Lung Boy | 185651 | [185651-4-lung-boy.json](./185651-4-lung-boy.json) |
 | 4-Play Action Pack (Volume 1) | 86046 | [86046-4-play-action-pack-volume-1.json](./86046-4-play-action-pack-volume-1.json) |
 | 4.1.60Co | 295543 | [295543-4-1-60co.json](./295543-4-1-60co.json) |
+| 40 Days | 76539 | [76539-40-days.json](./76539-40-days.json) |
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
