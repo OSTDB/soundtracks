@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T07:04:17.339Z",
-  "total_missing": 61010,
+  "generated_at": "2026-09-12T07:11:31.436Z",
+  "total_missing": 61009,
   "games": [
     {
       "igdb_id": 306086,
@@ -2736,11 +2736,6 @@
       "igdb_id": 91911,
       "game_name": "Aah Little Atlantis",
       "file": "missing/A/91911-aah-little-atlantis.json"
-    },
-    {
-      "igdb_id": 84864,
-      "game_name": "Aahh! Spot the Difference",
-      "file": "missing/A/84864-aahh-spot-the-difference.json"
     },
     {
       "igdb_id": 309102,
