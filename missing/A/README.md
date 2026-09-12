@@ -168,7 +168,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | About Gretel | 156672 | [156672-about-gretel.json](./156672-about-gretel.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Above the Stars | 148555 | [148555-above-the-stars.json](./148555-above-the-stars.json) |
-| Above Top Secret | 51996 | [51996-above-top-secret.json](./51996-above-top-secret.json) |
 | Above: Colonies of the Mist | 388001 | [388001-above-colonies-of-the-mist.json](./388001-above-colonies-of-the-mist.json) |
 | Abraca Drunk | 415113 | [415113-abraca-drunk.json](./415113-abraca-drunk.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
