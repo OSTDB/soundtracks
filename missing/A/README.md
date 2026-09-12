@@ -1668,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Erotic Monster in the Labyrinth | 97833 | [97833-ancient-erotic-monster-in-the-labyrinth.json](./97833-ancient-erotic-monster-in-the-labyrinth.json) |
 | Ancient Evil | 170504 | [170504-ancient-evil.json](./170504-ancient-evil.json) |
 | Ancient Evil | 217854 | [217854-ancient-evil.json](./217854-ancient-evil.json) |
+| Ancient Evil: Curse of the Snake Cult | 72035 | [72035-ancient-evil-curse-of-the-snake-cult.json](./72035-ancient-evil-curse-of-the-snake-cult.json) |
 | Ancient Farm | 226223 | [226223-ancient-farm.json](./226223-ancient-farm.json) |
 | Ancient Frontier: Quests & Events | 170510 | [170510-ancient-frontier-quests-and-events.json](./170510-ancient-frontier-quests-and-events.json) |
 | Ancient Frontier: The Crew | 170509 | [170509-ancient-frontier-the-crew.json](./170509-ancient-frontier-the-crew.json) |
@@ -1749,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
 | Angels of Amsterdam | 223488 | [223488-angels-of-amsterdam.json](./223488-angels-of-amsterdam.json) |
 | Angels of Death Episode.Eddie | 137047 | [137047-angels-of-death-episode-eddie.json](./137047-angels-of-death-episode-eddie.json) |
+| Angels vs. Devils | 72046 | [72046-angels-vs-devils.json](./72046-angels-vs-devils.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
@@ -3141,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack at EP-CYG-4 | 292837 | [292837-attack-at-ep-cyg-4.json](./292837-attack-at-ep-cyg-4.json) |
 | Attack Force | 143056 | [143056-attack-force.json](./143056-attack-force.json) |
 | Attack From Mars | 91434 | [91434-attack-from-mars.json](./91434-attack-from-mars.json) |
+| Attack of the Creeps | 72054 | [72054-attack-of-the-creeps.json](./72054-attack-of-the-creeps.json) |
 | Attack of the Evil Poop | 119733 | [119733-attack-of-the-evil-poop.json](./119733-attack-of-the-evil-poop.json) |
 | Attack of the Evil Poop VR | 166738 | [166738-attack-of-the-evil-poop-vr.json](./166738-attack-of-the-evil-poop-vr.json) |
 | Attack of the Giant Mutant Lizard | 113711 | [113711-attack-of-the-giant-mutant-lizard.json](./113711-attack-of-the-giant-mutant-lizard.json) |
