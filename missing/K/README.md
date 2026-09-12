@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
 | Karate Krab | 76650 | [76650-karate-krab.json](./76650-karate-krab.json) |
 | Karate Krab: Red Sea | 167248 | [167248-karate-krab-red-sea.json](./167248-karate-krab-red-sea.json) |
+| Karate Phants: Gloves of Glory | 68633 | [68633-karate-phants-gloves-of-glory.json](./68633-karate-phants-gloves-of-glory.json) |
 | Karate Survivor | 307796 | [307796-karate-survivor.json](./307796-karate-survivor.json) |
 | Karawan | 180232 | [180232-karawan.json](./180232-karawan.json) |
 | Kardia Tou Abel | 174807 | [174807-kardia-tou-abel.json](./174807-kardia-tou-abel.json) |
@@ -287,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
 | Keep Up | 277580 | [277580-keep-up.json](./277580-keep-up.json) |
 | Keeper Of The Hell Gate | 271748 | [271748-keeper-of-the-hell-gate.json](./271748-keeper-of-the-hell-gate.json) |
+| Keeper: The Hunter of Insect | 68619 | [68619-keeper-the-hunter-of-insect.json](./68619-keeper-the-hunter-of-insect.json) |
 | Keepers | 257385 | [257385-keepers.json](./257385-keepers.json) |
 | Keepers 1477 | 306062 | [306062-keepers-1477.json](./306062-keepers-1477.json) |
 | Keepers of the Forest | 228085 | [228085-keepers-of-the-forest.json](./228085-keepers-of-the-forest.json) |
