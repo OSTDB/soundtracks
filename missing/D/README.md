@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Princess | 230556 | [230556-disney-princess.json](./230556-disney-princess.json) |
 | Disney Princess: Royal Adventure | 49411 | [49411-disney-princess-royal-adventure.json](./49411-disney-princess-royal-adventure.json) |
 | Disney Princess: Suteki ni Lesson! Hiragana-Katakana | 58849 | [58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json](./58849-disney-princess-suteki-ni-lesson-hiragana-katakana.json) |
+| Disney Sports Motocross | 49305 | [49305-disney-sports-motocross.json](./49305-disney-sports-motocross.json) |
 | Disney Step | 335656 | [335656-disney-step.json](./335656-disney-step.json) |
 | Disney The Little Mermaid: Undersea Treasures! | 328255 | [328255-disney-the-little-mermaid-undersea-treasures.json](./328255-disney-the-little-mermaid-undersea-treasures.json) |
 | Disney Toy Box | 342649 | [342649-disney-toy-box.json](./342649-disney-toy-box.json) |
@@ -1962,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Mulan Training Game | 246946 | [246946-disneys-mulan-training-game.json](./246946-disneys-mulan-training-game.json) |
 | Disney's Party | 242808 | [242808-disneys-party.json](./242808-disneys-party.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
+| Disney's Tarzan: Return to the Jungle | 49339 | [49339-disneys-tarzan-return-to-the-jungle.json](./49339-disneys-tarzan-return-to-the-jungle.json) |
 | Disney's The Lion King | 204572 | [204572-disneys-the-lion-king.json](./204572-disneys-the-lion-king.json) |
 | Disney's The Little Mermaid II: Pinball Frenzy | 49919 | [49919-disneys-the-little-mermaid-ii-pinball-frenzy.json](./49919-disneys-the-little-mermaid-ii-pinball-frenzy.json) |
 | Disney's The Little Mermaid II: Return to the Sea | 314908 | [314908-disneys-the-little-mermaid-ii-return-to-the-sea.json](./314908-disneys-the-little-mermaid-ii-return-to-the-sea.json) |
