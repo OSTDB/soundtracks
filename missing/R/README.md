@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RGX Showdown | 109588 | [109588-rgx-showdown.json](./109588-rgx-showdown.json) |
 | Rhapsody of Zephyr | 70961 | [70961-rhapsody-of-zephyr.json](./70961-rhapsody-of-zephyr.json) |
 | Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
+| Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
