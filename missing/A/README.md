@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
+| A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
 | A day for a kitten | 75803 | [75803-a-day-for-a-kitten.json](./75803-a-day-for-a-kitten.json) |
 | A Day In the Life | 78681 | [78681-a-day-in-the-life.json](./78681-a-day-in-the-life.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Soccer | 81432 | [81432-all-star-soccer.json](./81432-all-star-soccer.json) |
 | All That Remains | 75789 | [75789-all-that-remains.json](./75789-all-that-remains.json) |
 | All The Colors That You Paint | 383376 | [383376-all-the-colors-that-you-paint.json](./383376-all-the-colors-that-you-paint.json) |
+| All the Hidden Corners | 55875 | [55875-all-the-hidden-corners.json](./55875-all-the-hidden-corners.json) |
 | All the Mario | 358320 | [358320-all-the-mario.json](./358320-all-the-mario.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
 | All The Places You'll Go (Women As Place) | 393497 | [393497-all-the-places-youll-go-women-as-place.json](./393497-all-the-places-youll-go-women-as-place.json) |
@@ -1440,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always Remember Me | 36356 | [36356-always-remember-me.json](./36356-always-remember-me.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
+| Amaekata wa Kanojo Nari ni | 55880 | [55880-amaekata-wa-kanojo-nari-ni.json](./55880-amaekata-wa-kanojo-nari-ni.json) |
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
 | Amairo Chocolate 3 | 381003 | [381003-amairo-chocolate-3.json](./381003-amairo-chocolate-3.json) |
 | Amamane | 121724 | [121724-amamane.json](./121724-amamane.json) |
@@ -2517,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Aretisia: Tenebris Dominus | 125391 | [125391-aretisia-tenebris-dominus.json](./125391-aretisia-tenebris-dominus.json) |
+| Arex | 55886 | [55886-arex.json](./55886-arex.json) |
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
@@ -2848,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspects of change | 121631 | [121631-aspects-of-change.json](./121631-aspects-of-change.json) |
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Asphalt Dominion | 402305 | [402305-asphalt-dominion.json](./402305-asphalt-dominion.json) |
+| Asphalt Street Storm Racing | 55883 | [55883-asphalt-street-storm-racing.json](./55883-asphalt-street-storm-racing.json) |
 | Asphalt: Nitro | 23310 | [23310-asphalt-nitro.json](./23310-asphalt-nitro.json) |
 | Asphalt: Urban GT | 243184 | [243184-asphalt-urban-gt.json](./243184-asphalt-urban-gt.json) |
 | Asphalt: Urban GT 2 | 243030 | [243030-asphalt-urban-gt-2.json](./243030-asphalt-urban-gt-2.json) |
@@ -3117,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena: Full Throttle | 55894 | [55894-athena-full-throttle.json](./55894-athena-full-throttle.json) |
 | Athena's Circus | 334505 | [334505-athenas-circus.json](./334505-athenas-circus.json) |
 | Athenian Acropolis | 74445 | [74445-athenian-acropolis.json](./74445-athenian-acropolis.json) |
+| Athletic Land | 55859 | [55859-athletic-land.json](./55859-athletic-land.json) |
 | Athletyx | 123069 | [123069-athletyx.json](./123069-athletyx.json) |
 | Athopiu Complete | 52623 | [52623-athopiu-complete.json](./52623-athopiu-complete.json) |
 | Athos | 265413 | [265413-athos.json](./265413-athos.json) |
