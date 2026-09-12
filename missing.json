@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T00:51:00.837Z",
-  "total_missing": 59975,
+  "generated_at": "2026-09-12T01:00:57.581Z",
+  "total_missing": 59985,
   "games": [
     {
       "igdb_id": 306086,
@@ -2546,11 +2546,6 @@
       "igdb_id": 152341,
       "game_name": "A Tale of Synapse: The Chaos Theories - Collector's Edition",
       "file": "missing/A/152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json"
-    },
-    {
-      "igdb_id": 237062,
-      "game_name": "A Terrible Place",
-      "file": "missing/A/237062-a-terrible-place.json"
     },
     {
       "igdb_id": 338179,
@@ -165378,6 +165373,26 @@
       "file": "missing/N/243415-naruto-shinobi-breakdown.json"
     },
     {
+      "igdb_id": 75838,
+      "game_name": "Naruto Shippuden: Gekitou Ninja Taisen! EX",
+      "file": "missing/N/75838-naruto-shippuden-gekitou-ninja-taisen-ex.json"
+    },
+    {
+      "igdb_id": 75839,
+      "game_name": "Naruto Shippuden: Gekitou Ninja Taisen! EX 2",
+      "file": "missing/N/75839-naruto-shippuden-gekitou-ninja-taisen-ex-2.json"
+    },
+    {
+      "igdb_id": 75840,
+      "game_name": "Naruto Shippuden: Gekitou Ninja Taisen! EX 3",
+      "file": "missing/N/75840-naruto-shippuden-gekitou-ninja-taisen-ex-3.json"
+    },
+    {
+      "igdb_id": 75841,
+      "game_name": "Naruto Shippuden: Gekitou Ninja Taisen! Special",
+      "file": "missing/N/75841-naruto-shippuden-gekitou-ninja-taisen-special.json"
+    },
+    {
       "igdb_id": 47935,
       "game_name": "Naruto Shippuden: Ninja Destiny 2",
       "file": "missing/N/47935-naruto-shippuden-ninja-destiny-2.json"
@@ -165416,6 +165431,11 @@
       "igdb_id": 294999,
       "game_name": "Naruto to Boruto: Shinobi Striker - Special Ninjutsu: Wood Style - Wood Golem Jutsu",
       "file": "missing/N/294999-naruto-to-boruto-shinobi-striker-special-ninjutsu-wood-style-wood-golem-jutsu.json"
+    },
+    {
+      "igdb_id": 75842,
+      "game_name": "Naruto: Konoha Senki",
+      "file": "missing/N/75842-naruto-konoha-senki.json"
     },
     {
       "igdb_id": 388751,
@@ -166221,6 +166241,11 @@
       "igdb_id": 373520,
       "game_name": "Nebula Cleanup Crew",
       "file": "missing/N/373520-nebula-cleanup-crew.json"
+    },
+    {
+      "igdb_id": 75830,
+      "game_name": "Nebula Nuker",
+      "file": "missing/N/75830-nebula-nuker.json"
     },
     {
       "igdb_id": 304884,
@@ -175296,6 +175321,11 @@
       "igdb_id": 171050,
       "game_name": "One Piece: Burning Blood - Wanted 2",
       "file": "missing/O/171050-one-piece-burning-blood-wanted-2.json"
+    },
+    {
+      "igdb_id": 75835,
+      "game_name": "One Piece: Dai Kaizoku Colosseum",
+      "file": "missing/O/75835-one-piece-dai-kaizoku-colosseum.json"
     },
     {
       "igdb_id": 47818,
@@ -251048,6 +251078,11 @@
       "file": "missing/T/335265-the-balldragon.json"
     },
     {
+      "igdb_id": 75831,
+      "game_name": "The Balloonist: Beyond the Clouds",
+      "file": "missing/T/75831-the-balloonist-beyond-the-clouds.json"
+    },
+    {
       "igdb_id": 379340,
       "game_name": "The Banker Tycoon",
       "file": "missing/T/379340-the-banker-tycoon.json"
@@ -251661,6 +251696,11 @@
       "igdb_id": 86113,
       "game_name": "The Bounty",
       "file": "missing/T/86113-the-bounty.json"
+    },
+    {
+      "igdb_id": 75832,
+      "game_name": "The Bounty V2",
+      "file": "missing/T/75832-the-bounty-v2.json"
     },
     {
       "igdb_id": 203550,
@@ -292156,6 +292196,16 @@
       "igdb_id": 75847,
       "game_name": "Wolfenstein II: The Freedom Chronicles - Season Pass",
       "file": "missing/W/75847-wolfenstein-ii-the-freedom-chronicles-season-pass.json"
+    },
+    {
+      "igdb_id": 75846,
+      "game_name": "Wolfenstein II: The New Colossus - The Amazing Deeds of Captain Wilkins",
+      "file": "missing/W/75846-wolfenstein-ii-the-new-colossus-the-amazing-deeds-of-captain-wilkins.json"
+    },
+    {
+      "igdb_id": 75845,
+      "game_name": "Wolfenstein II: The New Colossus - The Diaries of Agent Silent Death",
+      "file": "missing/W/75845-wolfenstein-ii-the-new-colossus-the-diaries-of-agent-silent-death.json"
     },
     {
       "igdb_id": 77284,
