@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
 | Shunkyoku no Tyrhhia: What a Beautiful Dawn | 144958 | [144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json](./144958-shunkyoku-no-tyrhhia-what-a-beautiful-dawn.json) |
 | Shuriken & Aliens | 124144 | [124144-shuriken-and-aliens.json](./124144-shuriken-and-aliens.json) |
+| Shuriken Block | 61058 | [61058-shuriken-block.json](./61058-shuriken-block.json) |
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
 | Shuriken Trigger | 326074 | [326074-shuriken-trigger.json](./326074-shuriken-trigger.json) |
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
@@ -2818,6 +2819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
 | Smashing Drive | 2743 | [2743-smashing-drive.json](./2743-smashing-drive.json) |
 | Smashing Healthy VR | 132248 | [132248-smashing-healthy-vr.json](./132248-smashing-healthy-vr.json) |
+| Smashing Kitty | 61056 | [61056-smashing-kitty.json](./61056-smashing-kitty.json) |
 | Smashing Simulator Idle | 311274 | [311274-smashing-simulator-idle.json](./311274-smashing-simulator-idle.json) |
 | Smashing Star | 202855 | [202855-smashing-star.json](./202855-smashing-star.json) |
 | Smashing the Battle Ghost Soul | 165617 | [165617-smashing-the-battle-ghost-soul.json](./165617-smashing-the-battle-ghost-soul.json) |
@@ -4463,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spooked | 45325 | [45325-spooked.json](./45325-spooked.json) |
 | Spookity Hollow | 170549 | [170549-spookity-hollow.json](./170549-spookity-hollow.json) |
+| Spooklands | 61064 | [61064-spooklands.json](./61064-spooklands.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
@@ -5855,6 +5858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Bear | 255121 | [255121-sugar-bear.json](./255121-sugar-bear.json) |
 | Sugar Bunnies DS: Yume no Sweets Koubou | 68038 | [68038-sugar-bunnies-ds-yume-no-sweets-koubou.json](./68038-sugar-bunnies-ds-yume-no-sweets-koubou.json) |
 | Sugar Cookie | 396209 | [396209-sugar-cookie.json](./396209-sugar-cookie.json) |
+| Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
 | Sugar Mess: Let's Play Jolly Battle | 263752 | [263752-sugar-mess-lets-play-jolly-battle.json](./263752-sugar-mess-lets-play-jolly-battle.json) |
@@ -6026,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super | 51970 | [51970-super.json](./51970-super.json) |
 | Super "Mario" World | 297240 | [297240-super-mario-world.json](./297240-super-mario-world.json) |
 | Super "Mario" World 2 | 297496 | [297496-super-mario-world-2.json](./297496-super-mario-world-2.json) |
+| Super Adventurer | 61021 | [61021-super-adventurer.json](./61021-super-adventurer.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
 | Super Alice Dolls! | 294717 | [294717-super-alice-dolls.json](./294717-super-alice-dolls.json) |
 | Super Alien | 146294 | [146294-super-alien.json](./146294-super-alien.json) |
