@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T13:11:31.011Z",
-  "total_missing": 61943,
+  "generated_at": "2026-09-12T13:18:27.544Z",
+  "total_missing": 61993,
   "games": [
     {
       "igdb_id": 306086,
@@ -4886,6 +4886,11 @@
       "igdb_id": 152853,
       "game_name": "Adventures of The Carrot Captain",
       "file": "missing/A/152853-adventures-of-the-carrot-captain.json"
+    },
+    {
+      "igdb_id": 53166,
+      "game_name": "Adventures of the Cat Leopold",
+      "file": "missing/A/53166-adventures-of-the-cat-leopold.json"
     },
     {
       "igdb_id": 394187,
@@ -108318,6 +108323,11 @@
       "file": "missing/H/220339-hack-the-planet.json"
     },
     {
+      "igdb_id": 53175,
+      "game_name": "Hack_Me Collection",
+      "file": "missing/H/53175-hack-me-collection.json"
+    },
+    {
       "igdb_id": 290927,
       "game_name": "Hack.ing",
       "file": "missing/H/290927-hack-ing.json"
@@ -109788,6 +109798,11 @@
       "file": "missing/H/166193-happy-vr-plantation-farm.json"
     },
     {
+      "igdb_id": 53174,
+      "game_name": "Happy VR Time",
+      "file": "missing/H/53174-happy-vr-time.json"
+    },
+    {
       "igdb_id": 254763,
       "game_name": "Happy Wagon",
       "file": "missing/H/254763-happy-wagon.json"
@@ -109966,6 +109981,11 @@
       "igdb_id": 192388,
       "game_name": "Hard Times at Sequoia State Park",
       "file": "missing/H/192388-hard-times-at-sequoia-state-park.json"
+    },
+    {
+      "igdb_id": 53173,
+      "game_name": "Hard West: Complete Edition",
+      "file": "missing/H/53173-hard-west-complete-edition.json"
     },
     {
       "igdb_id": 166685,
@@ -110963,6 +110983,16 @@
       "file": "missing/H/251806-hawaii-detective-killing-of-a-krypto-king.json"
     },
     {
+      "igdb_id": 53172,
+      "game_name": "Hawaiian Explorer: Lost Island",
+      "file": "missing/H/53172-hawaiian-explorer-lost-island.json"
+    },
+    {
+      "igdb_id": 53171,
+      "game_name": "Hawaiian Explorer: Pearl Harbor",
+      "file": "missing/H/53171-hawaiian-explorer-pearl-harbor.json"
+    },
+    {
       "igdb_id": 386142,
       "game_name": "Hawaiian Solitaire",
       "file": "missing/H/386142-hawaiian-solitaire.json"
@@ -111423,6 +111453,11 @@
       "file": "missing/H/260384-heart-halfhalf.json"
     },
     {
+      "igdb_id": 53176,
+      "game_name": "Heart's Medicine Collection",
+      "file": "missing/H/53176-hearts-medicine-collection.json"
+    },
+    {
       "igdb_id": 17911,
       "game_name": "Heart&Slash",
       "file": "missing/H/17911-heart-and-slash.json"
@@ -111583,6 +111618,11 @@
       "file": "missing/H/27833-hearts-of-iron-2-complete.json"
     },
     {
+      "igdb_id": 53177,
+      "game_name": "Hearts of Iron III Collection",
+      "file": "missing/H/53177-hearts-of-iron-iii-collection.json"
+    },
+    {
       "igdb_id": 165012,
       "game_name": "Hearts of Iron IV: Allied Armor Pack",
       "file": "missing/H/165012-hearts-of-iron-iv-allied-armor-pack.json"
@@ -111593,14 +111633,39 @@
       "file": "missing/H/206963-hearts-of-iron-iv-by-blood-alone.json"
     },
     {
+      "igdb_id": 53178,
+      "game_name": "Hearts of Iron IV: Cadet Edition",
+      "file": "missing/H/53178-hearts-of-iron-iv-cadet-edition.json"
+    },
+    {
+      "igdb_id": 53179,
+      "game_name": "Hearts of Iron IV: Colonel Edition",
+      "file": "missing/H/53179-hearts-of-iron-iv-colonel-edition.json"
+    },
+    {
       "igdb_id": 316394,
       "game_name": "Hearts of Iron IV: Content Creator Pack - Soviet Union 2D Art",
       "file": "missing/H/316394-hearts-of-iron-iv-content-creator-pack-soviet-union-2d-art.json"
     },
     {
+      "igdb_id": 53180,
+      "game_name": "Hearts of Iron IV: Death or Dishonor",
+      "file": "missing/H/53180-hearts-of-iron-iv-death-or-dishonor.json"
+    },
+    {
+      "igdb_id": 53181,
+      "game_name": "Hearts of Iron IV: Field Marshal Edition",
+      "file": "missing/H/53181-hearts-of-iron-iv-field-marshal-edition.json"
+    },
+    {
       "igdb_id": 47308,
       "game_name": "Hearts of Iron IV: Hero Edition",
       "file": "missing/H/47308-hearts-of-iron-iv-hero-edition.json"
+    },
+    {
+      "igdb_id": 53182,
+      "game_name": "Hearts of Iron IV: Together for Victory",
+      "file": "missing/H/53182-hearts-of-iron-iv-together-for-victory.json"
     },
     {
       "igdb_id": 64993,
@@ -111853,6 +111918,11 @@
       "file": "missing/H/69875-heavyweight-thunder.json"
     },
     {
+      "igdb_id": 53183,
+      "game_name": "Heavyweight Transport Simulator 3",
+      "file": "missing/H/53183-heavyweight-transport-simulator-3.json"
+    },
+    {
       "igdb_id": 119182,
       "game_name": "Hector: Badge of Carnage! - Episode 1",
       "file": "missing/H/119182-hector-badge-of-carnage-episode-1.json"
@@ -112023,6 +112093,11 @@
       "file": "missing/H/133403-heliconian-starship-crew-control.json"
     },
     {
+      "igdb_id": 53184,
+      "game_name": "Helicopter 2015: Natural Disasters",
+      "file": "missing/H/53184-helicopter-2015-natural-disasters.json"
+    },
+    {
       "igdb_id": 319980,
       "game_name": "Helicopter Flight Simulator",
       "file": "missing/H/319980-helicopter-flight-simulator.json"
@@ -112041,6 +112116,11 @@
       "igdb_id": 101537,
       "game_name": "Helicopter Sim Pro Hellfire",
       "file": "missing/H/101537-helicopter-sim-pro-hellfire.json"
+    },
+    {
+      "igdb_id": 53186,
+      "game_name": "Helicopter Simulator: Search and Rescue 2014",
+      "file": "missing/H/53186-helicopter-simulator-search-and-rescue-2014.json"
     },
     {
       "igdb_id": 82113,
@@ -113643,6 +113723,11 @@
       "file": "missing/H/127334-hero-must-die-again.json"
     },
     {
+      "igdb_id": 53187,
+      "game_name": "Hero of the Kingdom Collection",
+      "file": "missing/H/53187-hero-of-the-kingdom-collection.json"
+    },
+    {
       "igdb_id": 173232,
       "game_name": "Hero or Foe",
       "file": "missing/H/173232-hero-or-foe.json"
@@ -113666,6 +113751,11 @@
       "igdb_id": 233511,
       "game_name": "Hero Rescue 3",
       "file": "missing/H/233511-hero-rescue-3.json"
+    },
+    {
+      "igdb_id": 53188,
+      "game_name": "Hero Siege Complete",
+      "file": "missing/H/53188-hero-siege-complete.json"
     },
     {
       "igdb_id": 224234,
@@ -113938,6 +114028,11 @@
       "file": "missing/H/369-heroes-of-might-and-magic-iv-winds-of-war.json"
     },
     {
+      "igdb_id": 53190,
+      "game_name": "Heroes of Normandie: Bulletproof Edition",
+      "file": "missing/H/53190-heroes-of-normandie-bulletproof-edition.json"
+    },
+    {
       "igdb_id": 195722,
       "game_name": "Heroes of Rome: Dangerous Roads",
       "file": "missing/H/195722-heroes-of-rome-dangerous-roads.json"
@@ -113946,6 +114041,11 @@
       "igdb_id": 219606,
       "game_name": "Heroes of Science and Fiction",
       "file": "missing/H/219606-heroes-of-science-and-fiction.json"
+    },
+    {
+      "igdb_id": 53191,
+      "game_name": "Heroes of Steel Tactics RPG",
+      "file": "missing/H/53191-heroes-of-steel-tactics-rpg.json"
     },
     {
       "igdb_id": 195162,
@@ -113986,6 +114086,11 @@
       "igdb_id": 114433,
       "game_name": "Heroes Ravage",
       "file": "missing/H/114433-heroes-ravage.json"
+    },
+    {
+      "igdb_id": 53192,
+      "game_name": "Heroes Rise Trilogy",
+      "file": "missing/H/53192-heroes-rise-trilogy.json"
     },
     {
       "igdb_id": 336371,
@@ -114228,6 +114333,11 @@
       "file": "missing/H/337635-hexalert.json"
     },
     {
+      "igdb_id": 53215,
+      "game_name": "Hexalot",
+      "file": "missing/H/53215-hexalot.json"
+    },
+    {
       "igdb_id": 271773,
       "game_name": "Hexameron: Phase One",
       "file": "missing/H/271773-hexameron-phase-one.json"
@@ -114361,6 +114471,11 @@
       "igdb_id": 55947,
       "game_name": "Hexos CCG Missions",
       "file": "missing/H/55947-hexos-ccg-missions.json"
+    },
+    {
+      "igdb_id": 53214,
+      "game_name": "Hexoscope: Collector's Edition",
+      "file": "missing/H/53214-hexoscope-collectors-edition.json"
     },
     {
       "igdb_id": 410909,
@@ -114681,6 +114796,11 @@
       "igdb_id": 140035,
       "game_name": "Hidden Expedition: The Eternal Emperor",
       "file": "missing/H/140035-hidden-expedition-the-eternal-emperor.json"
+    },
+    {
+      "igdb_id": 53213,
+      "game_name": "Hidden Expedition: The Fountain of Youth - Collector's Edition",
+      "file": "missing/H/53213-hidden-expedition-the-fountain-of-youth-collectors-edition.json"
     },
     {
       "igdb_id": 140037,
@@ -115208,6 +115328,11 @@
       "file": "missing/H/378808-hide-vs-seek.json"
     },
     {
+      "igdb_id": 53212,
+      "game_name": "Hideaways Lost Island",
+      "file": "missing/H/53212-hideaways-lost-island.json"
+    },
+    {
       "igdb_id": 348801,
       "game_name": "Hideous",
       "file": "missing/H/348801-hideous.json"
@@ -115676,6 +115801,11 @@
       "igdb_id": 136478,
       "game_name": "Hiiro no Kakera: Omoi Iro no Kioku",
       "file": "missing/H/136478-hiiro-no-kakera-omoi-iro-no-kioku.json"
+    },
+    {
+      "igdb_id": 53211,
+      "game_name": "Hiiro: Collector's Edition",
+      "file": "missing/H/53211-hiiro-collectors-edition.json"
     },
     {
       "igdb_id": 257112,
@@ -116738,6 +116868,11 @@
       "file": "missing/H/71516-hollywood-monsters.json"
     },
     {
+      "igdb_id": 53208,
+      "game_name": "Hollywood Pictures II",
+      "file": "missing/H/53208-hollywood-pictures-ii.json"
+    },
+    {
       "igdb_id": 48056,
       "game_name": "Hollywood Squares",
       "file": "missing/H/48056-hollywood-squares.json"
@@ -117028,6 +117163,21 @@
       "file": "missing/H/323708-homecoming-kitaku.json"
     },
     {
+      "igdb_id": 53206,
+      "game_name": "Homefront: The Revolution - Aftermath",
+      "file": "missing/H/53206-homefront-the-revolution-aftermath.json"
+    },
+    {
+      "igdb_id": 53207,
+      "game_name": "Homefront: The Revolution - Beyond the Walls",
+      "file": "missing/H/53207-homefront-the-revolution-beyond-the-walls.json"
+    },
+    {
+      "igdb_id": 53205,
+      "game_name": "Homefront: The Revolution - The Voice Of Freedom",
+      "file": "missing/H/53205-homefront-the-revolution-the-voice-of-freedom.json"
+    },
+    {
       "igdb_id": 224224,
       "game_name": "Homefront: The Rock Map Pack",
       "file": "missing/H/224224-homefront-the-rock-map-pack.json"
@@ -117111,6 +117261,16 @@
       "igdb_id": 181926,
       "game_name": "Homework Salesman",
       "file": "missing/H/181926-homework-salesman.json"
+    },
+    {
+      "igdb_id": 53203,
+      "game_name": "Homeworld: Deserts of Kharak - Deluxe Edition",
+      "file": "missing/H/53203-homeworld-deserts-of-kharak-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 53204,
+      "game_name": "Homeworld: Remastered Collection - Deluxe Edition",
+      "file": "missing/H/53204-homeworld-remastered-collection-deluxe-edition.json"
     },
     {
       "igdb_id": 301250,
@@ -118128,6 +118288,11 @@
       "file": "missing/H/249469-hot-cocoa-magic.json"
     },
     {
+      "igdb_id": 53202,
+      "game_name": "Hot Dish 2",
+      "file": "missing/H/53202-hot-dish-2.json"
+    },
+    {
       "igdb_id": 158721,
       "game_name": "Hot Dodge!",
       "file": "missing/H/158721-hot-dodge.json"
@@ -118386,6 +118551,11 @@
       "igdb_id": 71468,
       "game_name": "Hotel Detective",
       "file": "missing/H/71468-hotel-detective.json"
+    },
+    {
+      "igdb_id": 53200,
+      "game_name": "Hotel Giant: Edition 2012",
+      "file": "missing/H/53200-hotel-giant-edition-2012.json"
     },
     {
       "igdb_id": 324675,
@@ -118688,6 +118858,11 @@
       "file": "missing/H/25721-house-of-usher.json"
     },
     {
+      "igdb_id": 53195,
+      "game_name": "House of Wonders: Kitty Kat Wedding",
+      "file": "missing/H/53195-house-of-wonders-kitty-kat-wedding.json"
+    },
+    {
       "igdb_id": 352197,
       "game_name": "House on [Redacted] Street",
       "file": "missing/H/352197-house-on-redacted-street.json"
@@ -118966,6 +119141,11 @@
       "igdb_id": 169929,
       "game_name": "How to Survive 2: Dead Dynamite",
       "file": "missing/H/169929-how-to-survive-2-dead-dynamite.json"
+    },
+    {
+      "igdb_id": 53194,
+      "game_name": "How to Survive 2: Kovac's Ultimate Edition",
+      "file": "missing/H/53194-how-to-survive-2-kovacs-ultimate-edition.json"
     },
     {
       "igdb_id": 170434,
@@ -119488,6 +119668,11 @@
       "file": "missing/H/233210-hunger-crunch.json"
     },
     {
+      "igdb_id": 53193,
+      "game_name": "Hunger Dungeon: Deluxe Edition",
+      "file": "missing/H/53193-hunger-dungeon-deluxe-edition.json"
+    },
+    {
       "igdb_id": 180846,
       "game_name": "Hunger of The Elder Slime",
       "file": "missing/H/180846-hunger-of-the-elder-slime.json"
@@ -119773,6 +119958,11 @@
       "file": "missing/H/122435-hunters-soul.json"
     },
     {
+      "igdb_id": 53219,
+      "game_name": "Hunter's Trophy",
+      "file": "missing/H/53219-hunters-trophy.json"
+    },
+    {
       "igdb_id": 64376,
       "game_name": "Hunter's Trophy 2: Europa",
       "file": "missing/H/64376-hunters-trophy-2-europa.json"
@@ -119956,6 +120146,16 @@
       "igdb_id": 216221,
       "game_name": "Hyakusen Renma: Kyousha no Sengoku",
       "file": "missing/H/216221-hyakusen-renma-kyousha-no-sengoku.json"
+    },
+    {
+      "igdb_id": 53164,
+      "game_name": "Hybrid",
+      "file": "missing/H/53164-hybrid.json"
+    },
+    {
+      "igdb_id": 53218,
+      "game_name": "Hybrid Beasts",
+      "file": "missing/H/53218-hybrid-beasts.json"
     },
     {
       "igdb_id": 347161,
@@ -120676,6 +120876,11 @@
       "igdb_id": 244477,
       "game_name": "I am Sakuya VR: Touhou FPS Game",
       "file": "missing/I/244477-i-am-sakuya-vr-touhou-fps-game.json"
+    },
+    {
+      "igdb_id": 53216,
+      "game_name": "I am Setsuna: Collector's Edition",
+      "file": "missing/I/53216-i-am-setsuna-collectors-edition.json"
     },
     {
       "igdb_id": 143104,
@@ -123018,6 +123223,11 @@
       "file": "missing/I/151738-immortal-life.json"
     },
     {
+      "igdb_id": 53222,
+      "game_name": "Immortal Love: Letter from the Past",
+      "file": "missing/I/53222-immortal-love-letter-from-the-past.json"
+    },
+    {
       "igdb_id": 344360,
       "game_name": "Immortal Magus",
       "file": "missing/I/344360-immortal-magus.json"
@@ -123041,6 +123251,11 @@
       "igdb_id": 23188,
       "game_name": "Immortal Redneck",
       "file": "missing/I/23188-immortal-redneck.json"
+    },
+    {
+      "igdb_id": 53223,
+      "game_name": "Immortal Redneck: Deluxe Edition",
+      "file": "missing/I/53223-immortal-redneck-deluxe-edition.json"
     },
     {
       "igdb_id": 113638,
@@ -123703,9 +123918,19 @@
       "file": "missing/I/119746-incredible-dracula-4-games-of-gods.json"
     },
     {
+      "igdb_id": 53224,
+      "game_name": "Incredible Dracula II: The Last Call",
+      "file": "missing/I/53224-incredible-dracula-ii-the-last-call.json"
+    },
+    {
       "igdb_id": 29924,
       "game_name": "Incredible Dracula II: The Last Call - Collector's Edition",
       "file": "missing/I/29924-incredible-dracula-ii-the-last-call-collectors-edition.json"
+    },
+    {
+      "igdb_id": 53225,
+      "game_name": "Incredible Dracula III: Family Secret - Collector's Edition",
+      "file": "missing/I/53225-incredible-dracula-iii-family-secret-collectors-edition.json"
     },
     {
       "igdb_id": 340749,
@@ -193003,6 +193228,11 @@
       "file": "missing/P/413592-plasmaborne.json"
     },
     {
+      "igdb_id": 53165,
+      "game_name": "Plasmatron",
+      "file": "missing/P/53165-plasmatron.json"
+    },
+    {
       "igdb_id": 93052,
       "game_name": "Plasmaworm",
       "file": "missing/P/93052-plasmaworm.json"
@@ -203381,6 +203611,21 @@
       "igdb_id": 259817,
       "game_name": "Racerloop",
       "file": "missing/R/259817-racerloop.json"
+    },
+    {
+      "igdb_id": 53170,
+      "game_name": "RaceRoom - Audi Sport TT Cup 2015",
+      "file": "missing/R/53170-raceroom-audi-sport-tt-cup-2015.json"
+    },
+    {
+      "igdb_id": 53168,
+      "game_name": "RaceRoom - DTM Experience 2015",
+      "file": "missing/R/53168-raceroom-dtm-experience-2015.json"
+    },
+    {
+      "igdb_id": 53167,
+      "game_name": "RaceRoom Racing Experience: Nurburgring Legends",
+      "file": "missing/R/53167-raceroom-racing-experience-nurburgring-legends.json"
     },
     {
       "igdb_id": 233229,
@@ -228876,6 +229121,11 @@
       "igdb_id": 70398,
       "game_name": "Slag",
       "file": "missing/S/70398-slag.json"
+    },
+    {
+      "igdb_id": 53163,
+      "game_name": "Sláine: The Celtic Barbarian",
+      "file": "missing/S/53163-slaine-the-celtic-barbarian.json"
     },
     {
       "igdb_id": 378177,
