@@ -574,7 +574,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genki Village | 143036 | [143036-genki-village.json](./143036-genki-village.json) |
 | GenMobile | 202810 | [202810-genmobile.json](./202810-genmobile.json) |
 | Geno 2 the Generals' Orders | 265933 | [265933-geno-2-the-generals-orders.json](./265933-geno-2-the-generals-orders.json) |
+| Genocide | 56419 | [56419-genocide.json](./56419-genocide.json) |
 | Genocide 2 | 38334 | [38334-genocide-2.json](./38334-genocide-2.json) |
+| Genocide 2: Genocide Square | 56417 | [56417-genocide-2-genocide-square.json](./56417-genocide-2-genocide-square.json) |
 | Genokids | 141137 | [141137-genokids.json](./141137-genokids.json) |
 | Genre Hopper | 182532 | [182532-genre-hopper.json](./182532-genre-hopper.json) |
 | Gensei Suikoden | 97282 | [97282-gensei-suikoden.json](./97282-gensei-suikoden.json) |
@@ -818,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gilt | 378214 | [378214-gilt.json](./378214-gilt.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
+| Gimme Five | 56468 | [56468-gimme-five.json](./56468-gimme-five.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
 | Gin's Gunstore | 355546 | [355546-gins-gunstore.json](./355546-gins-gunstore.json) |
