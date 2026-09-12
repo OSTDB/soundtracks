@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 3: Hoodlum Havoc Print Studio | 61654 | [61654-rayman-3-hoodlum-havoc-print-studio.json](./61654-rayman-3-hoodlum-havoc-print-studio.json) |
 | Rayman 3D | 20585 | [20585-rayman-3d.json](./20585-rayman-3d.json) |
 | Rayman 4 You | 178599 | [178599-rayman-4-you.json](./178599-rayman-4-you.json) |
+| Rayman and Rabbids Family Pack | 56449 | [56449-rayman-and-rabbids-family-pack.json](./56449-rayman-and-rabbids-family-pack.json) |
 | Rayman By His Fans | 61097 | [61097-rayman-by-his-fans.json](./61097-rayman-by-his-fans.json) |
 | Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
 | Rayman Gold | 61096 | [61096-rayman-gold.json](./61096-rayman-gold.json) |
@@ -1409,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle Joker | 97388 | [97388-riddle-joker.json](./97388-riddle-joker.json) |
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
+| Riddle School | 56438 | [56438-riddle-school.json](./56438-riddle-school.json) |
 | Riddle Tower: Halloween DLC | 318433 | [318433-riddle-tower-halloween-dlc.json](./318433-riddle-tower-halloween-dlc.json) |
 | Riddle! | 102136 | [102136-riddle.json](./102136-riddle.json) |
 | Riddledale | 223174 | [223174-riddledale.json](./223174-riddledale.json) |
@@ -2520,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush On | 253353 | [253353-rush-on.json](./253353-rush-on.json) |
 | Rush Out | 174828 | [174828-rush-out.json](./174828-rush-out.json) |
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
+| Rush Rush Rally Reloaded | 56424 | [56424-rush-rush-rally-reloaded.json](./56424-rush-rush-rally-reloaded.json) |
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Rush!!! | 167260 | [167260-rush.json](./167260-rush.json) |
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
