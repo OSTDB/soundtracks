@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Night | 352165 | [352165-i-am-night.json](./352165-i-am-night.json) |
 | I Am Not What Remains | 176498 | [176498-i-am-not-what-remains.json](./176498-i-am-not-what-remains.json) |
 | I am Sakuya VR: Touhou FPS Game | 244477 | [244477-i-am-sakuya-vr-touhou-fps-game.json](./244477-i-am-sakuya-vr-touhou-fps-game.json) |
+| I am Setsuna: Collector's Edition | 53216 | [53216-i-am-setsuna-collectors-edition.json](./53216-i-am-setsuna-collectors-edition.json) |
 | I am Still Here. | 143104 | [143104-i-am-still-here.json](./143104-i-am-still-here.json) |
 | I am Tasi | 133396 | [133396-i-am-tasi.json](./133396-i-am-tasi.json) |
 | I Am the Captain Now | 153402 | [153402-i-am-the-captain-now.json](./153402-i-am-the-captain-now.json) |
@@ -502,11 +503,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Hero | 158209 | [158209-immortal-hero.json](./158209-immortal-hero.json) |
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
+| Immortal Love: Letter from the Past | 53222 | [53222-immortal-love-letter-from-the-past.json](./53222-immortal-love-letter-from-the-past.json) |
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
 | Immortal Realms: Vampire Wars | 119258 | [119258-immortal-realms-vampire-wars.json](./119258-immortal-realms-vampire-wars.json) |
 | Immortal Realms: Vampire Wars - Fangs and Bones | 238480 | [238480-immortal-realms-vampire-wars-fangs-and-bones.json](./238480-immortal-realms-vampire-wars-fangs-and-bones.json) |
 | Immortal Rebirth | 382764 | [382764-immortal-rebirth.json](./382764-immortal-rebirth.json) |
 | Immortal Redneck | 23188 | [23188-immortal-redneck.json](./23188-immortal-redneck.json) |
+| Immortal Redneck: Deluxe Edition | 53223 | [53223-immortal-redneck-deluxe-edition.json](./53223-immortal-redneck-deluxe-edition.json) |
 | Immortal Rogue | 113638 | [113638-immortal-rogue.json](./113638-immortal-rogue.json) |
 | Immortal Truth | 33087 | [33087-immortal-truth.json](./33087-immortal-truth.json) |
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
@@ -639,7 +642,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incompatible Fusion Machine | 312585 | [312585-incompatible-fusion-machine.json](./312585-incompatible-fusion-machine.json) |
 | Incompatible Species | 55129 | [55129-incompatible-species.json](./55129-incompatible-species.json) |
 | Incredible Dracula 4: Games of Gods | 119746 | [119746-incredible-dracula-4-games-of-gods.json](./119746-incredible-dracula-4-games-of-gods.json) |
+| Incredible Dracula II: The Last Call | 53224 | [53224-incredible-dracula-ii-the-last-call.json](./53224-incredible-dracula-ii-the-last-call.json) |
 | Incredible Dracula II: The Last Call - Collector's Edition | 29924 | [29924-incredible-dracula-ii-the-last-call-collectors-edition.json](./29924-incredible-dracula-ii-the-last-call-collectors-edition.json) |
+| Incredible Dracula III: Family Secret - Collector's Edition | 53225 | [53225-incredible-dracula-iii-family-secret-collectors-edition.json](./53225-incredible-dracula-iii-family-secret-collectors-edition.json) |
 | Incredible Dracula: Academy of Shadows | 340749 | [340749-incredible-dracula-academy-of-shadows.json](./340749-incredible-dracula-academy-of-shadows.json) |
 | Incredible Dracula: Chasing Love | 53226 | [53226-incredible-dracula-chasing-love.json](./53226-incredible-dracula-chasing-love.json) |
 | Incredible Dracula: Dark Carnival | 274476 | [274476-incredible-dracula-dark-carnival.json](./274476-incredible-dracula-dark-carnival.json) |
