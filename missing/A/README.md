@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Unbound | 245865 | [245865-ai-unbound.json](./245865-ai-unbound.json) |
 | AI War 2: Zenith Onslaught | 154490 | [154490-ai-war-2-zenith-onslaught.json](./154490-ai-war-2-zenith-onslaught.json) |
 | AI War: Ancient Shadows | 8888 | [8888-ai-war-ancient-shadows.json](./8888-ai-war-ancient-shadows.json) |
+| AI Wars: The Awakening | 71500 | [71500-ai-wars-the-awakening.json](./71500-ai-wars-the-awakening.json) |
 | Ai Yori Aoshi | 72668 | [72668-ai-yori-aoshi.json](./72668-ai-yori-aoshi.json) |
 | Ai-(Onic) | 197878 | [197878-ai-onic.json](./197878-ai-onic.json) |
 | AI: The Somnium Files | 104971 | [104971-ai-the-somnium-files.json](./104971-ai-the-somnium-files.json) |
