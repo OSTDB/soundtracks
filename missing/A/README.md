@@ -576,6 +576,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurers.io | 197371 | [197371-adventurers-io.json](./197371-adventurers-io.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
 | Adventures in Calculon | 357781 | [357781-adventures-in-calculon.json](./357781-adventures-in-calculon.json) |
+| Adventures in Odyssey and the Great Escape | 66067 | [66067-adventures-in-odyssey-and-the-great-escape.json](./66067-adventures-in-odyssey-and-the-great-escape.json) |
+| Adventures in Odyssey! Answer That! | 66070 | [66070-adventures-in-odyssey-answer-that.json](./66070-adventures-in-odyssey-answer-that.json) |
+| Adventures in Odyssey! The Sword of the Spirit | 66066 | [66066-adventures-in-odyssey-the-sword-of-the-spirit.json](./66066-adventures-in-odyssey-the-sword-of-the-spirit.json) |
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -2874,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
 | Assault Squad 2: Men of War Origins | 36398 | [36398-assault-squad-2-men-of-war-origins.json](./36398-assault-squad-2-men-of-war-origins.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
+| AssaultTech 1: BattleTech | 66071 | [66071-assaulttech-1-battletech.json](./66071-assaulttech-1-battletech.json) |
 | Assemblage of Angels | 299123 | [299123-assemblage-of-angels.json](./299123-assemblage-of-angels.json) |
 | Assemble | 266778 | [266778-assemble.json](./266778-assemble.json) |
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
