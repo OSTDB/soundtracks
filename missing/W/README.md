@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlings 2: Total Armageddon | 280185 | [280185-warlings-2-total-armageddon.json](./280185-warlings-2-total-armageddon.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
 | Warlocked | 49874 | [49874-warlocked.json](./49874-warlocked.json) |
+| Warlocks | 37096 | [37096-warlocks.json](./37096-warlocks.json) |
 | Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | Warlordocracy: Chapter 3 | 336569 | [336569-warlordocracy-chapter-3.json](./336569-warlordocracy-chapter-3.json) |
