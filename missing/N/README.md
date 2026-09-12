@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Tonight | 96088 | [96088-not-tonight.json](./96088-not-tonight.json) |
 | Not Tonight: One Love | 154560 | [154560-not-tonight-one-love.json](./154560-not-tonight-one-love.json) |
 | Not Your Eyes | 156660 | [156660-not-your-eyes.json](./156660-not-your-eyes.json) |
+| Note to Self | 70376 | [70376-note-to-self.json](./70376-note-to-self.json) |
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
 | Nothing | 282550 | [282550-nothing.json](./282550-nothing.json) |
