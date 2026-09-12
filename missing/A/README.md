@@ -321,10 +321,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acras | 211392 | [211392-acras.json](./211392-acras.json) |
 | Acre Crisis | 301594 | [301594-acre-crisis.json](./301594-acre-crisis.json) |
 | Acres | 258464 | [258464-acres.json](./258464-acres.json) |
+| Acro Storm | 30837 | [30837-acro-storm.json](./30837-acro-storm.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
 | Acron: Attack of the Squirrels! | 119335 | [119335-acron-attack-of-the-squirrels.json](./119335-acron-attack-of-the-squirrels.json) |
 | Acrophile | 221403 | [221403-acrophile.json](./221403-acrophile.json) |
 | Acropolis: The Archaic Age | 111635 | [111635-acropolis-the-archaic-age.json](./111635-acropolis-the-archaic-age.json) |
+| Across | 30823 | [30823-across.json](./30823-across.json) |
 | Across Crime | 413637 | [413637-across-crime.json](./413637-across-crime.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
 | Across the Galaxy: Infinite War | 216780 | [216780-across-the-galaxy-infinite-war.json](./216780-across-the-galaxy-infinite-war.json) |
@@ -1205,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
+| Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
 | Alien Nah'Topsy | 289888 | [289888-alien-nahtopsy.json](./289888-alien-nahtopsy.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
 | Alien Nations Mission Pack | 73810 | [73810-alien-nations-mission-pack.json](./73810-alien-nations-mission-pack.json) |
@@ -2179,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
 | Apogee Games: Companion CD-ROM | 119059 | [119059-apogee-games-companion-cd-rom.json](./119059-apogee-games-companion-cd-rom.json) |
+| Apokalypsis | 30817 | [30817-apokalypsis.json](./30817-apokalypsis.json) |
 | Apollo 13 | 199021 | [199021-apollo-13.json](./199021-apollo-13.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
 | Apollo LM | 174288 | [174288-apollo-lm.json](./174288-apollo-lm.json) |
@@ -2445,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
 | Archenemy: Lunafall | 216472 | [216472-archenemy-lunafall.json](./216472-archenemy-lunafall.json) |
+| Archer Guardian VR : The Chapter Zero | 30770 | [30770-archer-guardian-vr-the-chapter-zero.json](./30770-archer-guardian-vr-the-chapter-zero.json) |
 | Archer Maclean's 3D Pool | 248632 | [248632-archer-macleans-3d-pool.json](./248632-archer-macleans-3d-pool.json) |
 | Archer Maclean's 3D Pool | 49315 | [49315-archer-macleans-3d-pool.json](./49315-archer-macleans-3d-pool.json) |
 | Archer Maclean's Super Dropzone | 42637 | [42637-archer-macleans-super-dropzone.json](./42637-archer-macleans-super-dropzone.json) |
@@ -2532,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Constellation | 295012 | [295012-arena-constellation.json](./295012-arena-constellation.json) |
 | Arena Football | 5731 | [5731-arena-football.json](./5731-arena-football.json) |
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
+| Arena Master | 30802 | [30802-arena-master.json](./30802-arena-master.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
 | Arena Renovation | 110384 | [110384-arena-renovation.json](./110384-arena-renovation.json) |
