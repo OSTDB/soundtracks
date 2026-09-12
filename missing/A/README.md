@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Add Astra | 292305 | [292305-add-astra.json](./292305-add-astra.json) |
 | Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
+| Addie no Okurimono: To Moze from Addie | 64903 | [64903-addie-no-okurimono-to-moze-from-addie.json](./64903-addie-no-okurimono-to-moze-from-addie.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
 | Addmath | 239075 | [239075-addmath.json](./239075-addmath.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahmes | 200704 | [200704-ahmes.json](./200704-ahmes.json) |
 | Ahri and Bear | 166760 | [166760-ahri-and-bear.json](./166760-ahri-and-bear.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
+| AHx-1 | 64918 | [64918-ahx-1.json](./64918-ahx-1.json) |
 | AI Asylum | 329034 | [329034-ai-asylum.json](./329034-ai-asylum.json) |
 | AI Confidential | 304595 | [304595-ai-confidential.json](./304595-ai-confidential.json) |
 | AI Escort | 96421 | [96421-ai-escort.json](./96421-ai-escort.json) |
