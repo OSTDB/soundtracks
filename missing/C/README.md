@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Raiders | 59983 | [59983-cloud-raiders.json](./59983-cloud-raiders.json) |
 | Cloud Sculptor | 406126 | [406126-cloud-sculptor.json](./406126-cloud-sculptor.json) |
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
+| Cloudbase Prime | 31803 | [31803-cloudbase-prime.json](./31803-cloudbase-prime.json) |
 | CloudBound | 31374 | [31374-cloudbound.json](./31374-cloudbound.json) |
 | Cloudbreaker | 355555 | [355555-cloudbreaker.json](./355555-cloudbreaker.json) |
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
@@ -2631,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congo Bongo | 5669 | [5669-congo-bongo.json](./5669-congo-bongo.json) |
+| Congo Merc | 31821 | [31821-congo-merc.json](./31821-congo-merc.json) |
 | Congo the Movie: The Secret of Zinj | 38289 | [38289-congo-the-movie-the-secret-of-zinj.json](./38289-congo-the-movie-the-secret-of-zinj.json) |
 | Conker's Other Bad Fur Day | 77970 | [77970-conkers-other-bad-fur-day.json](./77970-conkers-other-bad-fur-day.json) |
 | Connect | 314051 | [314051-connect.json](./314051-connect.json) |
