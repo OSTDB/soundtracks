@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
+| PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
 | Patlabor: Come Back Mini-Pato | 75899 | [75899-patlabor-come-back-mini-pato.json](./75899-patlabor-come-back-mini-pato.json) |
 | Patlabor: The Mobile Police | 75896 | [75896-patlabor-the-mobile-police.json](./75896-patlabor-the-mobile-police.json) |
 | Patou | 253376 | [253376-patou.json](./253376-patou.json) |
