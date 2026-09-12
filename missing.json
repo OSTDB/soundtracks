@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T15:48:59.897Z",
-  "total_missing": 62480,
+  "generated_at": "2026-09-12T15:51:38.272Z",
+  "total_missing": 62479,
   "games": [
     {
       "igdb_id": 306086,
@@ -3006,11 +3006,6 @@
       "igdb_id": 84863,
       "game_name": "Absolute Baseball",
       "file": "missing/A/84863-absolute-baseball.json"
-    },
-    {
-      "igdb_id": 209687,
-      "game_name": "Absolute Deduction Bundle",
-      "file": "missing/A/209687-absolute-deduction-bundle.json"
     },
     {
       "igdb_id": 119004,
