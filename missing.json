@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T21:01:45.709Z",
-  "total_missing": 63319,
+  "generated_at": "2026-09-12T21:11:29.823Z",
+  "total_missing": 63323,
   "games": [
     {
       "igdb_id": 306086,
@@ -1908,6 +1908,11 @@
       "file": "missing/0-9/148532-6th-dimension.json"
     },
     {
+      "igdb_id": 34297,
+      "game_name": "7",
+      "file": "missing/0-9/34297-7.json"
+    },
+    {
       "igdb_id": 316435,
       "game_name": "7 Ate 9",
       "file": "missing/0-9/316435-7-ate-9.json"
@@ -3166,11 +3171,6 @@
       "igdb_id": 111644,
       "game_name": "ACA Neo Geo: Pleasure Goal - 5 on 5 Mini Soccer",
       "file": "missing/A/111644-aca-neo-geo-pleasure-goal-5-on-5-mini-soccer.json"
-    },
-    {
-      "igdb_id": 115050,
-      "game_name": "ACA Neo Geo: Puzzle Bobble 2",
-      "file": "missing/A/115050-aca-neo-geo-puzzle-bobble-2.json"
     },
     {
       "igdb_id": 78127,
@@ -62113,6 +62113,11 @@
       "file": "missing/D/225883-dead-station.json"
     },
     {
+      "igdb_id": 34298,
+      "game_name": "Dead Stop",
+      "file": "missing/D/34298-dead-stop.json"
+    },
+    {
       "igdb_id": 399626,
       "game_name": "Dead Stride",
       "file": "missing/D/399626-dead-stride.json"
@@ -64321,6 +64326,11 @@
       "igdb_id": 265426,
       "game_name": "Demigod Idle: Rise of a legend",
       "file": "missing/D/265426-demigod-idle-rise-of-a-legend.json"
+    },
+    {
+      "igdb_id": 34304,
+      "game_name": "Demigods",
+      "file": "missing/D/34304-demigods.json"
     },
     {
       "igdb_id": 201243,
@@ -113556,6 +113566,11 @@
       "igdb_id": 121741,
       "game_name": "Heal Plz",
       "file": "missing/H/121741-heal-plz.json"
+    },
+    {
+      "igdb_id": 34299,
+      "game_name": "Heal Them All",
+      "file": "missing/H/34299-heal-them-all.json"
     },
     {
       "igdb_id": 208010,
@@ -274706,6 +274721,11 @@
       "igdb_id": 309893,
       "game_name": "The Rolling Room",
       "file": "missing/T/309893-the-rolling-room.json"
+    },
+    {
+      "igdb_id": 34308,
+      "game_name": "The Rollingball's Melody",
+      "file": "missing/T/34308-the-rollingballs-melody.json"
     },
     {
       "igdb_id": 11625,
