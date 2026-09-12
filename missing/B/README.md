@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.O.W II VR | 251830 | [251830-b-o-w-ii-vr.json](./251830-b-o-w-ii-vr.json) |
 | B.U.D.D. | 265677 | [265677-b-u-d-d.json](./265677-b-u-d-d.json) |
 | B.U.G. Force | 166725 | [166725-b-u-g-force.json](./166725-b-u-g-force.json) |
+| B.U.G.S. | 59919 | [59919-b-u-g-s.json](./59919-b-u-g-s.json) |
 | B.U.T.T.O.N. | 16235 | [16235-b-u-t-t-o-n.json](./16235-b-u-t-t-o-n.json) |
 | B.U.T.T.O.N. (Brutally Unfair Tactics Totally OK Now) | 92526 | [92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json](./92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json) |
 | B's-LOG Party | 45989 | [45989-bs-log-party.json](./45989-bs-log-party.json) |
@@ -468,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
+| Barbie's Team Gymnastics | 59942 | [59942-barbies-team-gymnastics.json](./59942-barbies-team-gymnastics.json) |
 | Barboozeled | 214732 | [214732-barboozeled.json](./214732-barboozeled.json) |
 | Barbuta | 317573 | [317573-barbuta.json](./317573-barbuta.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Doraemon (Comics Ichizoku) | 329356 | [329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json](./329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json) |
