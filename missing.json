@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T21:19:05.346Z",
-  "total_missing": 63373,
+  "generated_at": "2026-09-12T21:21:28.250Z",
+  "total_missing": 63372,
   "games": [
     {
       "igdb_id": 306086,
@@ -3171,11 +3171,6 @@
       "igdb_id": 52553,
       "game_name": "Abzu: Deluxe Edition",
       "file": "missing/A/52553-abzu-deluxe-edition.json"
-    },
-    {
-      "igdb_id": 6467,
-      "game_name": "AC/DC Live: Rock Band - Track Pack",
-      "file": "missing/A/6467-ac-dc-live-rock-band-track-pack.json"
     },
     {
       "igdb_id": 85538,
