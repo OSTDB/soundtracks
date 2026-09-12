@@ -151,7 +151,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
 | Abducted | 17376 | [17376-abducted.json](./17376-abducted.json) |
 | Abducted | 316440 | [316440-abducted.json](./316440-abducted.json) |
-| Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
 | Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
