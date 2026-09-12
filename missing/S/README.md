@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Stratagem | 379342 | [379342-samurai-stratagem.json](./379342-samurai-stratagem.json) |
 | Samurai Survivors | 244247 | [244247-samurai-survivors.json](./244247-samurai-survivors.json) |
 | Samurai Sword | 47247 | [47247-samurai-sword.json](./47247-samurai-sword.json) |
+| Samurai Sword VR | 27699 | [27699-samurai-sword-vr.json](./27699-samurai-sword-vr.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
@@ -375,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangoku Stories Ten | 222510 | [222510-sangoku-stories-ten.json](./222510-sangoku-stories-ten.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
+| Sangokushi Taisen | 27624 | [27624-sangokushi-taisen.json](./27624-sangokushi-taisen.json) |
 | Sangokushi Taisen 3 War Begins | 64974 | [64974-sangokushi-taisen-3-war-begins.json](./64974-sangokushi-taisen-3-war-begins.json) |
 | Sangokushi: Chuugen no Hasha | 64448 | [64448-sangokushi-chuugen-no-hasha.json](./64448-sangokushi-chuugen-no-hasha.json) |
 | SangRaciner | 244265 | [244265-sangraciner.json](./244265-sangraciner.json) |
@@ -1483,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Night | 238749 | [238749-shadows-of-the-night.json](./238749-shadows-of-the-night.json) |
 | Shadows of the Tusk | 66118 | [66118-shadows-of-the-tusk.json](./66118-shadows-of-the-tusk.json) |
 | Shadows of Thornkeep | 374073 | [374073-shadows-of-thornkeep.json](./374073-shadows-of-thornkeep.json) |
+| Shadows on the Vatican Act II: Wrath | 27753 | [27753-shadows-on-the-vatican-act-ii-wrath.json](./27753-shadows-on-the-vatican-act-ii-wrath.json) |
 | Shadows on the Walls | 262967 | [262967-shadows-on-the-walls.json](./262967-shadows-on-the-walls.json) |
 | Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
@@ -1571,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
+| Shardbound | 27747 | [27747-shardbound.json](./27747-shardbound.json) |
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
@@ -4129,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space is Red | 128573 | [128573-space-is-red.json](./128573-space-is-red.json) |
 | Space Is Red | 379341 | [379341-space-is-red.json](./379341-space-is-red.json) |
 | Space Jam: A New Legacy - Full Court Pinball | 227827 | [227827-space-jam-a-new-legacy-full-court-pinball.json](./227827-space-jam-a-new-legacy-full-court-pinball.json) |
+| Space Jammers | 27651 | [27651-space-jammers.json](./27651-space-jammers.json) |
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
 | Space Junk Scavenger | 305197 | [305197-space-junk-scavenger.json](./305197-space-junk-scavenger.json) |
@@ -5967,6 +5972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
+| Stuart Little 2 | 27628 | [27628-stuart-little-2.json](./27628-stuart-little-2.json) |
 | Stuart Little: Big City Adventures | 208356 | [208356-stuart-little-big-city-adventures.json](./208356-stuart-little-big-city-adventures.json) |
 | Stuart Little: His Adventures in Numberland | 208357 | [208357-stuart-little-his-adventures-in-numberland.json](./208357-stuart-little-his-adventures-in-numberland.json) |
 | Stuart Little: The Journey Home | 49884 | [49884-stuart-little-the-journey-home.json](./49884-stuart-little-the-journey-home.json) |
@@ -7474,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sandals III | 192892 | [192892-swords-and-sandals-iii.json](./192892-swords-and-sandals-iii.json) |
 | Swords and Sandals Medieval | 67933 | [67933-swords-and-sandals-medieval.json](./67933-swords-and-sandals-medieval.json) |
 | Swords and Sandals Spartacus | 130387 | [130387-swords-and-sandals-spartacus.json](./130387-swords-and-sandals-spartacus.json) |
+| Swords and Sorcery Underworld | 27757 | [27757-swords-and-sorcery-underworld.json](./27757-swords-and-sorcery-underworld.json) |
 | Swords and Sorcery Underworld: Definitive Edition | 34318 | [34318-swords-and-sorcery-underworld-definitive-edition.json](./34318-swords-and-sorcery-underworld-definitive-edition.json) |
 | Swords Fantasy: Battlefield | 192450 | [192450-swords-fantasy-battlefield.json](./192450-swords-fantasy-battlefield.json) |
 | Swords of Destiny | 23007 | [23007-swords-of-destiny.json](./23007-swords-of-destiny.json) |
