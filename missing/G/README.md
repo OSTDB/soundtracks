@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GGX: Great Grandma Escape | 200124 | [200124-ggx-great-grandma-escape.json](./200124-ggx-great-grandma-escape.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
+| Ghetto Blaster | 47254 | [47254-ghetto-blaster.json](./47254-ghetto-blaster.json) |
 | Ghetto Conspiracy | 127366 | [127366-ghetto-conspiracy.json](./127366-ghetto-conspiracy.json) |
 | Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
