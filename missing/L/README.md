@@ -603,6 +603,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
+| LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
+| LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO DC Super-Villains: DC TV Series Super-Villains Character Pack | 214484 | [214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json](./214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json) |
 | LEGO DC Super-Villains: Deluxe Edition | 118955 | [118955-lego-dc-super-villains-deluxe-edition.json](./118955-lego-dc-super-villains-deluxe-edition.json) |
@@ -906,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life's Too Short: On Reflection | 329912 | [329912-lifes-too-short-on-reflection.json](./329912-lifes-too-short-on-reflection.json) |
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
 | LifeDev | 258470 | [258470-lifedev.json](./258470-lifedev.json) |
+| Lifeguard | 61576 | [61576-lifeguard.json](./61576-lifeguard.json) |
 | Lifeless Planet: Premier Edition | 20950 | [20950-lifeless-planet-premier-edition.json](./20950-lifeless-planet-premier-edition.json) |
 | Lifelike | 178003 | [178003-lifelike.json](./178003-lifelike.json) |
 | Lifelike: Chapter One | 117004 | [117004-lifelike-chapter-one.json](./117004-lifelike-chapter-one.json) |
@@ -1130,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Acorns | 64956 | [64956-little-acorns.json](./64956-little-acorns.json) |
 | Little Adventure Tale | 325834 | [325834-little-adventure-tale.json](./325834-little-adventure-tale.json) |
 | Little Adventurer | 98464 | [98464-little-adventurer.json](./98464-little-adventurer.json) |
+| Little Adventurer II | 61607 | [61607-little-adventurer-ii.json](./61607-little-adventurer-ii.json) |
 | Little Adventurer III | 83547 | [83547-little-adventurer-iii.json](./83547-little-adventurer-iii.json) |
 | Little Airplane 3D for kids: learn colors, numbers | 101495 | [101495-little-airplane-3d-for-kids-learn-colors-numbers.json](./101495-little-airplane-3d-for-kids-learn-colors-numbers.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
