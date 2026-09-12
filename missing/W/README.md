@@ -384,6 +384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarpBall | 34482 | [34482-warpball.json](./34482-warpball.json) |
 | Warped Space Shooter | 182980 | [182980-warped-space-shooter.json](./182980-warped-space-shooter.json) |
+| WarpForce | 55876 | [55876-warpforce.json](./55876-warpforce.json) |
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | WarPlan | 125460 | [125460-warplan.json](./125460-warplan.json) |
 | Warplanes Inc. | 327206 | [327206-warplanes-inc.json](./327206-warplanes-inc.json) |
