@@ -104,7 +104,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Body Limbs | 331142 | [331142-a-tale-of-body-limbs.json](./331142-a-tale-of-body-limbs.json) |
 | A Tale of Caos: Overture | 32116 | [32116-a-tale-of-caos-overture.json](./32116-a-tale-of-caos-overture.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
-| A Tale of Shadows Fragments | 374066 | [374066-a-tale-of-shadows-fragments.json](./374066-a-tale-of-shadows-fragments.json) |
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
 | A Tale of Synapse: The Chaos Theories | 146823 | [146823-a-tale-of-synapse-the-chaos-theories.json](./146823-a-tale-of-synapse-the-chaos-theories.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
@@ -586,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Magic Man's Head Games | 19053 | [19053-adventure-time-magic-mans-head-games.json](./19053-adventure-time-magic-mans-head-games.json) |
 | Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
+| Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
 | Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
 | Adventure Word: Around the World | 275890 | [275890-adventure-word-around-the-world.json](./275890-adventure-word-around-the-world.json) |
 | Adventure Workshop 4th-6th Grade 5th Edition | 72114 | [72114-adventure-workshop-4th-6th-grade-5th-edition.json](./72114-adventure-workshop-4th-6th-grade-5th-edition.json) |
@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | AInder | 239682 | [239682-ainder.json](./239682-ainder.json) |
 | Ainmora: The Impending Disaster | 241949 | [241949-ainmora-the-impending-disaster.json](./241949-ainmora-the-impending-disaster.json) |
+| Aion: Echoes of Eternity | 77274 | [77274-aion-echoes-of-eternity.json](./77274-aion-echoes-of-eternity.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
 | AiPri Verse | 284922 | [284922-aipri-verse.json](./284922-aipri-verse.json) |
 | Air | 270385 | [270385-air.json](./270385-air.json) |
@@ -956,6 +957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
 | Air Hoppers 2 | 151654 | [151654-air-hoppers-2.json](./151654-air-hoppers-2.json) |
 | Air Jet Fighter Combat: Europe Fly Plane Attack | 234624 | [234624-air-jet-fighter-combat-europe-fly-plane-attack.json](./234624-air-jet-fighter-combat-europe-fly-plane-attack.json) |
+| Air Legends | 77273 | [77273-air-legends.json](./77273-air-legends.json) |
 | Air Offense Command | 258449 | [258449-air-offense-command.json](./258449-air-offense-command.json) |
 | Air patrol | 40768 | [40768-air-patrol.json](./40768-air-patrol.json) |
 | Air Power: Battle in the Skies | 22622 | [22622-air-power-battle-in-the-skies.json](./22622-air-power-battle-in-the-skies.json) |
@@ -2550,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3: Malden | 168911 | [168911-arma-3-malden.json](./168911-arma-3-malden.json) |
 | Arma 3: Tanks | 168907 | [168907-arma-3-tanks.json](./168907-arma-3-tanks.json) |
 | Arma 3: Zeus | 168908 | [168908-arma-3-zeus.json](./168908-arma-3-zeus.json) |
+| ArmA II: Reinforcements | 77286 | [77286-arma-ii-reinforcements.json](./77286-arma-ii-reinforcements.json) |
 | Arma Reforger | 201789 | [201789-arma-reforger.json](./201789-arma-reforger.json) |
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
