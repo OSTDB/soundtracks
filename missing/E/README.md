@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
 | ExoSphere | 57048 | [57048-exosphere.json](./57048-exosphere.json) |
+| Exostorm | 35725 | [35725-exostorm.json](./35725-exostorm.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
 | Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
