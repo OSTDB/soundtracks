@@ -3667,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trials of Goodbye | 312876 | [312876-the-trials-of-goodbye.json](./312876-the-trials-of-goodbye.json) |
 | The Trials of Olympus 2: Wrath of the Gods | 114357 | [114357-the-trials-of-olympus-2-wrath-of-the-gods.json](./114357-the-trials-of-olympus-2-wrath-of-the-gods.json) |
 | The Tribulation Entanglement | 190189 | [190189-the-tribulation-entanglement.json](./190189-the-tribulation-entanglement.json) |
+| The Trip Adventure | 66636 | [66636-the-trip-adventure.json](./66636-the-trip-adventure.json) |
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
 | The Trolley Problem Game | 172138 | [172138-the-trolley-problem-game.json](./172138-the-trolley-problem-game.json) |
@@ -5145,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Stewart's All American Racing Bundle | 141785 | [141785-tony-stewarts-all-american-racing-bundle.json](./141785-tony-stewarts-all-american-racing-bundle.json) |
 | Tony Stewart's All-American Racing | 139980 | [139980-tony-stewarts-all-american-racing.json](./139980-tony-stewarts-all-american-racing.json) |
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
+| Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
 | Too Hot to Be True | 406715 | [406715-too-hot-to-be-true.json](./406715-too-hot-to-be-true.json) |
 | Too Hot to Handle: Love is a Game | 204449 | [204449-too-hot-to-handle-love-is-a-game.json](./204449-too-hot-to-handle-love-is-a-game.json) |
