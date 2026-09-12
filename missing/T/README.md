@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank It | 233483 | [233483-tank-it.json](./233483-tank-it.json) |
+| Tank it! | 30834 | [30834-tank-it.json](./30834-tank-it.json) |
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
 | Tank Legend Online: League of Tanks | 237961 | [237961-tank-legend-online-league-of-tanks.json](./237961-tank-legend-online-league-of-tanks.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
@@ -2271,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horrorscope: Fatal Awakening | 166773 | [166773-the-horrorscope-fatal-awakening.json](./166773-the-horrorscope-fatal-awakening.json) |
 | The Horse Lord | 13727 | [13727-the-horse-lord.json](./13727-the-horse-lord.json) |
 | The Horus Heresy: Battle of Tallarn | 31633 | [31633-the-horus-heresy-battle-of-tallarn.json](./31633-the-horus-heresy-battle-of-tallarn.json) |
+| The Horus Heresy: Drop Assault | 30791 | [30791-the-horus-heresy-drop-assault.json](./30791-the-horus-heresy-drop-assault.json) |
 | The Hospital of Fear | 274505 | [274505-the-hospital-of-fear.json](./274505-the-hospital-of-fear.json) |
 | The Hot Dog would Explode | 109750 | [109750-the-hot-dog-would-explode.json](./109750-the-hot-dog-would-explode.json) |
 | The Hotel | 220675 | [220675-the-hotel.json](./220675-the-hotel.json) |
@@ -5707,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
+| Tower in the Sky | 30843 | [30843-tower-in-the-sky.json](./30843-tower-in-the-sky.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
 | Tower of Babel | 74349 | [74349-tower-of-babel.json](./74349-tower-of-babel.json) |
@@ -6947,5 +6950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyto Ecology: Alaskan Tundra Ecosystem | 171001 | [171001-tyto-ecology-alaskan-tundra-ecosystem.json](./171001-tyto-ecology-alaskan-tundra-ecosystem.json) |
 | Tyto Ecology: Cretaceous Mongolia | 171000 | [171000-tyto-ecology-cretaceous-mongolia.json](./171000-tyto-ecology-cretaceous-mongolia.json) |
 | Tyto Ecology: Himalayas Ecosystem | 171002 | [171002-tyto-ecology-himalayas-ecosystem.json](./171002-tyto-ecology-himalayas-ecosystem.json) |
+| Tyto Online | 30789 | [30789-tyto-online.json](./30789-tyto-online.json) |
 | Tzakol in Exile | 189112 | [189112-tzakol-in-exile.json](./189112-tzakol-in-exile.json) |
 | Tzompantli | 30941 | [30941-tzompantli.json](./30941-tzompantli.json) |
