@@ -622,6 +622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schrödinger's Rat | 21776 | [21776-schrodingers-rat.json](./21776-schrodingers-rat.json) |
 | Schwarzenberg | 86063 | [86063-schwarzenberg.json](./86063-schwarzenberg.json) |
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
+| Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
 | Science Sleuths Vol. 1: Mysteries of the Blob and the Exploding Lawnmowers | 319017 | [319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json](./319017-science-sleuths-vol-1-mysteries-of-the-blob-and-the-exploding-lawnmowers.json) |
@@ -1958,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
 | Sidewinder | 159249 | [159249-sidewinder.json](./159249-sidewinder.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
+| Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
@@ -2657,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slots of Poker at Aces Casino | 147974 | [147974-slots-of-poker-at-aces-casino.json](./147974-slots-of-poker-at-aces-casino.json) |
 | Slots of the Season | 147975 | [147975-slots-of-the-season.json](./147975-slots-of-the-season.json) |
 | Slots Royale: 777 Casino Games | 231072 | [231072-slots-royale-777-casino-games.json](./231072-slots-royale-777-casino-games.json) |
+| Slotter Mania 8 | 78653 | [78653-slotter-mania-8.json](./78653-slotter-mania-8.json) |
 | Slotter Mania P: Tetsuya Shinjuku vs Ueno | 62738 | [62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json](./62738-slotter-mania-p-tetsuya-shinjuku-vs-ueno.json) |
 | Slow Rise | 267066 | [267066-slow-rise.json](./267066-slow-rise.json) |
 | Slow.Bullet VR | 392797 | [392797-slow-bullet-vr.json](./392797-slow-bullet-vr.json) |
@@ -3723,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
+| Soviet Unterzögersdorf: Sector 1 | 78651 | [78651-soviet-unterzogersdorf-sector-1.json](./78651-soviet-unterzogersdorf-sector-1.json) |
 | Sovietpunk: Chapter one | 168852 | [168852-sovietpunk-chapter-one.json](./168852-sovietpunk-chapter-one.json) |
 | SOVL: Ratkin Clans | 305773 | [305773-sovl-ratkin-clans.json](./305773-sovl-ratkin-clans.json) |
 | SOVL: Reptilian Kingdoms | 296657 | [296657-sovl-reptilian-kingdoms.json](./296657-sovl-reptilian-kingdoms.json) |
@@ -3811,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
 | Space Griffon | 20661 | [20661-space-griffon.json](./20661-space-griffon.json) |
 | Space Grunts 2 | 121004 | [121004-space-grunts-2.json](./121004-space-grunts-2.json) |
+| Space Guard | 78613 | [78613-space-guard.json](./78613-space-guard.json) |
 | Space Hack | 17680 | [17680-space-hack.json](./17680-space-hack.json) |
 | Space Harrier | 263380 | [263380-space-harrier.json](./263380-space-harrier.json) |
 | Space Harrier | 341883 | [341883-space-harrier.json](./341883-space-harrier.json) |
@@ -4043,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spec | 304575 | [304575-spec.json](./304575-spec.json) |
 | Special Edition 4 Pack: Volume One | 98951 | [98951-special-edition-4-pack-volume-one.json](./98951-special-edition-4-pack-volume-one.json) |
 | Special Enquiry Detail: The Hand that Feeds | 87309 | [87309-special-enquiry-detail-the-hand-that-feeds.json](./87309-special-enquiry-detail-the-hand-that-feeds.json) |
+| Special Force 2: Tale of the Truthful Pledge | 78634 | [78634-special-force-2-tale-of-the-truthful-pledge.json](./78634-special-force-2-tale-of-the-truthful-pledge.json) |
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
@@ -4574,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
 | Stair Tap | 365064 | [365064-stair-tap.json](./365064-stair-tap.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
+| StairJump | 78658 | [78658-stairjump.json](./78658-stairjump.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stairway | 301845 | [301845-stairway.json](./301845-stairway.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
