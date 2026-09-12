@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oozing Blasphemy | 271241 | [271241-oozing-blasphemy.json](./271241-oozing-blasphemy.json) |
 | Oozing Islands | 165685 | [165685-oozing-islands.json](./165685-oozing-islands.json) |
 | OPA: Super Janken | 341513 | [341513-opa-super-janken.json](./341513-opa-super-janken.json) |
+| Opal's Quest | 64917 | [64917-opals-quest.json](./64917-opals-quest.json) |
 | Opaldune | 288787 | [288787-opaldune.json](./288787-opaldune.json) |
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
 | Open Door | 214177 | [214177-open-door.json](./214177-open-door.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Park Baseball 21 | 130326 | [130326-out-of-the-park-baseball-21.json](./130326-out-of-the-park-baseball-21.json) |
 | Out of the Park Baseball 25 | 287086 | [287086-out-of-the-park-baseball-25.json](./287086-out-of-the-park-baseball-25.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
+| Out of the Sun | 64916 | [64916-out-of-the-sun.json](./64916-out-of-the-sun.json) |
 | Out the Window: a car trip sim | 134691 | [134691-out-the-window-a-car-trip-sim.json](./134691-out-the-window-a-car-trip-sim.json) |
 | Out There Chronicles - Ep. 1 | 58224 | [58224-out-there-chronicles-ep-1.json](./58224-out-there-chronicles-ep-1.json) |
 | Out There Chronicles - Ep. 2 | 200185 | [200185-out-there-chronicles-ep-2.json](./200185-out-there-chronicles-ep-2.json) |
