@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hotel | 280793 | [280793-happy-hotel.json](./280793-happy-hotel.json) |
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
+| Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
 | Happy Mask | 263209 | [263209-happy-mask.json](./263209-happy-mask.json) |
 | Happy Maze | 30944 | [30944-happy-maze.json](./30944-happy-maze.json) |
 | Happy Mining | 195163 | [195163-happy-mining.json](./195163-happy-mining.json) |
@@ -1812,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook, Line, and Spelunker | 214730 | [214730-hook-line-and-spelunker.json](./214730-hook-line-and-spelunker.json) |
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
+| Hooked on Bass Fishing | 78610 | [78610-hooked-on-bass-fishing.json](./78610-hooked-on-bass-fishing.json) |
 | Hooked On Speed | 316604 | [316604-hooked-on-speed.json](./316604-hooked-on-speed.json) |
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
