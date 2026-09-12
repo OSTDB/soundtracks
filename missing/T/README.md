@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
 | TD Strategy of Three Kingdoms | 130927 | [130927-td-strategy-of-three-kingdoms.json](./130927-td-strategy-of-three-kingdoms.json) |
 | TD3D | 371907 | [371907-td3d.json](./371907-td3d.json) |
+| TDP5: Arena 3D | 35639 | [35639-tdp5-arena-3d.json](./35639-tdp5-arena-3d.json) |
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Time | 359406 | [359406-tea-time.json](./359406-tea-time.json) |
@@ -1745,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep: Ushinawareta Shinkai | 410223 | [410223-the-deep-ushinawareta-shinkai.json](./410223-the-deep-ushinawareta-shinkai.json) |
 | The Deepest Castle | 400872 | [400872-the-deepest-castle.json](./400872-the-deepest-castle.json) |
 | The Deer | 117688 | [117688-the-deer.json](./117688-the-deer.json) |
+| The Defenders: The Second Wave | 35708 | [35708-the-defenders-the-second-wave.json](./35708-the-defenders-the-second-wave.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
@@ -2098,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
 | The Gardener | 389404 | [389404-the-gardener.json](./389404-the-gardener.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
+| The Gate | 35727 | [35727-the-gate.json](./35727-the-gate.json) |
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
 | The Gatekeeper of Scarlet's Mansion | 348237 | [348237-the-gatekeeper-of-scarlets-mansion.json](./348237-the-gatekeeper-of-scarlets-mansion.json) |
 | The Gateway to Hell | 271752 | [271752-the-gateway-to-hell.json](./271752-the-gateway-to-hell.json) |
@@ -2743,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Cases of Sherlock Holmes 2 | 10979 | [10979-the-lost-cases-of-sherlock-holmes-2.json](./10979-the-lost-cases-of-sherlock-holmes-2.json) |
 | The Lost Caves | 179169 | [179169-the-lost-caves.json](./179169-the-lost-caves.json) |
 | The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
+| The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
 | The Lost Dimension | 75121 | [75121-the-lost-dimension.json](./75121-the-lost-dimension.json) |
@@ -4802,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
+| Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tile-Throwing Legend: Mutsuki | 59382 | [59382-tile-throwing-legend-mutsuki.json](./59382-tile-throwing-legend-mutsuki.json) |
@@ -5687,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
 | Tower of Dreams | 265705 | [265705-tower-of-dreams.json](./265705-tower-of-dreams.json) |
+| Tower of Eglathia | 35702 | [35702-tower-of-eglathia.json](./35702-tower-of-eglathia.json) |
 | Tower of Evil | 25731 | [25731-tower-of-evil.json](./25731-tower-of-evil.json) |
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
 | Tower of Hanoi | 188579 | [188579-tower-of-hanoi.json](./188579-tower-of-hanoi.json) |
@@ -6397,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger | 104044 | [104044-trigger.json](./104044-trigger.json) |
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
+| Trigger Saint | 35627 | [35627-trigger-saint.json](./35627-trigger-saint.json) |
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
 | Trigger Witch | 119365 | [119365-trigger-witch.json](./119365-trigger-witch.json) |
 | TriggerHeart Exelica Enhanced | 326579 | [326579-triggerheart-exelica-enhanced.json](./326579-triggerheart-exelica-enhanced.json) |
