@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper-io | 79219 | [79219-paper-io.json](./79219-paper-io.json) |
 | Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
 | Paperboy | 256082 | [256082-paperboy.json](./256082-paperboy.json) |
+| Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
@@ -570,6 +571,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
+| Passport to Amsterdam | 55850 | [55850-passport-to-amsterdam.json](./55850-passport-to-amsterdam.json) |
+| Passport to Barcelona | 55873 | [55873-passport-to-barcelona.json](./55873-passport-to-barcelona.json) |
+| Passport to London | 55851 | [55851-passport-to-london.json](./55851-passport-to-london.json) |
+| Passport to Paris | 55849 | [55849-passport-to-paris.json](./55849-passport-to-paris.json) |
+| Passport to Prague | 55852 | [55852-passport-to-prague.json](./55852-passport-to-prague.json) |
+| Passport to Rome | 55847 | [55847-passport-to-rome.json](./55847-passport-to-rome.json) |
 | Password | 135304 | [135304-password.json](./135304-password.json) |
 | Password Manager | 401499 | [401499-password-manager.json](./401499-password-manager.json) |
 | Past Fate | 123029 | [123029-past-fate.json](./123029-past-fate.json) |
@@ -2558,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
 | Pressure Cooker | 25732 | [25732-pressure-cooker.json](./25732-pressure-cooker.json) |
 | Prestigious School Story | 92461 | [92461-prestigious-school-story.json](./92461-prestigious-school-story.json) |
+| Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Chaser | 269601 | [269601-pretty-chaser.json](./269601-pretty-chaser.json) |
