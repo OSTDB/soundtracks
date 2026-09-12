@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco All-Stars: Dig Dug | 284372 | [284372-namco-all-stars-dig-dug.json](./284372-namco-all-stars-dig-dug.json) |
 | Namco All-Stars: Pac-Man | 284371 | [284371-namco-all-stars-pac-man.json](./284371-namco-all-stars-pac-man.json) |
 | Namco All-Stars: Pac-Man and Dig Dug | 284373 | [284373-namco-all-stars-pac-man-and-dig-dug.json](./284373-namco-all-stars-pac-man-and-dig-dug.json) |
+| Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
 | Namco Museum | 131507 | [131507-namco-museum.json](./131507-namco-museum.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
 | Namco Museum Essentials | 52608 | [52608-namco-museum-essentials.json](./52608-namco-museum-essentials.json) |
@@ -316,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 2003 | 5955 | [5955-ncaa-football-2003.json](./5955-ncaa-football-2003.json) |
 | NCAA Football 2004 | 175918 | [175918-ncaa-football-2004.json](./175918-ncaa-football-2004.json) |
 | NCAA March Madness 06 | 5958 | [5958-ncaa-march-madness-06.json](./5958-ncaa-march-madness-06.json) |
+| NCAA March Madness 2003 | 43271 | [43271-ncaa-march-madness-2003.json](./43271-ncaa-march-madness-2003.json) |
 | NCAA: Road to the Final Four | 93022 | [93022-ncaa-road-to-the-final-four.json](./93022-ncaa-road-to-the-final-four.json) |
 | NCORE | 330133 | [330133-ncore.json](./330133-ncore.json) |
 | NCradle | 83522 | [83522-ncradle.json](./83522-ncradle.json) |
