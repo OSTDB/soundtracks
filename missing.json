@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T13:03:27.903Z",
-  "total_missing": 61944,
+  "generated_at": "2026-09-12T13:11:31.011Z",
+  "total_missing": 61943,
   "games": [
     {
       "igdb_id": 306086,
@@ -2926,11 +2926,6 @@
       "igdb_id": 383355,
       "game_name": "Abracadabra",
       "file": "missing/A/383355-abracadabra.json"
-    },
-    {
-      "igdb_id": 31567,
-      "game_name": "Abrams Tank",
-      "file": "missing/A/31567-abrams-tank.json"
     },
     {
       "igdb_id": 301593,
