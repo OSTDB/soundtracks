@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adliberum Engine | 55891 | [55891-the-adliberum-engine.json](./55891-the-adliberum-engine.json) |
+| The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
@@ -1187,6 +1188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Snacky | 225104 | [225104-the-adventures-of-snacky.json](./225104-the-adventures-of-snacky.json) |
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
 | The Adventures of Star Saver | 7745 | [7745-the-adventures-of-star-saver.json](./7745-the-adventures-of-star-saver.json) |
+| The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
 | The Age of Gods Return | 173271 | [173271-the-age-of-gods-return.json](./173271-the-age-of-gods-return.json) |
 | The Agent Saga: Rover Rescue | 54434 | [54434-the-agent-saga-rover-rescue.json](./54434-the-agent-saga-rover-rescue.json) |
@@ -5337,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony La Russa Baseball '95 | 95378 | [95378-tony-la-russa-baseball-95.json](./95378-tony-la-russa-baseball-95.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
 | Tony La Russa's Ultimate Baseball | 95470 | [95470-tony-la-russas-ultimate-baseball.json](./95470-tony-la-russas-ultimate-baseball.json) |
+| Tony Meola's Sidekicks Soccer | 42540 | [42540-tony-meolas-sidekicks-soccer.json](./42540-tony-meolas-sidekicks-soccer.json) |
 | Tony Stewart's All American Racing Bundle | 141785 | [141785-tony-stewarts-all-american-racing-bundle.json](./141785-tony-stewarts-all-american-racing-bundle.json) |
 | Tony Stewart's All-American Racing | 139980 | [139980-tony-stewarts-all-american-racing.json](./139980-tony-stewarts-all-american-racing.json) |
 | Tony Stewart's All-American Racing: Texas Motor Speedway Dirt Track | 167851 | [167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json](./167851-tony-stewarts-all-american-racing-texas-motor-speedway-dirt-track.json) |
