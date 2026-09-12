@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni: Dare no Ochakai? | 272540 | [272540-umineko-no-naku-koro-ni-dare-no-ochakai.json](./272540-umineko-no-naku-koro-ni-dare-no-ochakai.json) |
 | Umineko no Naku Koro ni: Episode 1 - Legend of the Golden Witch | 79847 | [79847-umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch.json](./79847-umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Episode 2 - Turn of the Golden Witch | 79845 | [79845-umineko-no-naku-koro-ni-episode-2-turn-of-the-golden-witch.json](./79845-umineko-no-naku-koro-ni-episode-2-turn-of-the-golden-witch.json) |
+| Umineko no Naku Koro ni: Episode 3 - Banquet of the Golden Witch | 67228 | [67228-umineko-no-naku-koro-ni-episode-3-banquet-of-the-golden-witch.json](./67228-umineko-no-naku-koro-ni-episode-3-banquet-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Episode 4 - Alliance of the Golden Witch | 67170 | [67170-umineko-no-naku-koro-ni-episode-4-alliance-of-the-golden-witch.json](./67170-umineko-no-naku-koro-ni-episode-4-alliance-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Majo-tachi no Tanabata ha Amakunai | 272542 | [272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json](./272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json) |
 | Umineko no Naku Koro ni: Memoirs of the ΛΔ | 272532 | [272532-umineko-no-naku-koro-ni-memoirs-of-the.json](./272532-umineko-no-naku-koro-ni-memoirs-of-the.json) |
@@ -507,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Adventures | 71492 | [71492-unlimited-adventures.json](./71492-unlimited-adventures.json) |
 | Unlimited Elevators | 94790 | [94790-unlimited-elevators.json](./94790-unlimited-elevators.json) |
 | Unlimited Farm Tycoon: Cozy Idle Farm Game | 377063 | [377063-unlimited-farm-tycoon-cozy-idle-farm-game.json](./377063-unlimited-farm-tycoon-cozy-idle-farm-game.json) |
+| Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
 | Unlock Me | 338587 | [338587-unlock-me.json](./338587-unlock-me.json) |
 | Unlock the Block | 166756 | [166756-unlock-the-block.json](./166756-unlock-the-block.json) |
 | Unlock the Feelings | 199094 | [199094-unlock-the-feelings.json](./199094-unlock-the-feelings.json) |
