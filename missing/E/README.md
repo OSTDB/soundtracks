@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
 | Elvira II: The Jaws of Cerberus | 228728 | [228728-elvira-ii-the-jaws-of-cerberus.json](./228728-elvira-ii-the-jaws-of-cerberus.json) |
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
+| Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
 | Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
 | Elysion 2: Genes of the saints | 225882 | [225882-elysion-2-genes-of-the-saints.json](./225882-elysion-2-genes-of-the-saints.json) |
@@ -576,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerging Tactical | 278421 | [278421-emerging-tactical.json](./278421-emerging-tactical.json) |
 | Emetic Skimmer | 55185 | [55185-emetic-skimmer.json](./55185-emetic-skimmer.json) |
 | Emi-chan no Moero Yakyuuken | 41373 | [41373-emi-chan-no-moero-yakyuuken.json](./41373-emi-chan-no-moero-yakyuuken.json) |
+| Emily Enough: Imprisoned | 71474 | [71474-emily-enough-imprisoned.json](./71474-emily-enough-imprisoned.json) |
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
 | Emily's Hotel Solitaire | 227854 | [227854-emilys-hotel-solitaire.json](./227854-emilys-hotel-solitaire.json) |
 | Emin's Journey | 291754 | [291754-emins-journey.json](./291754-emins-journey.json) |
@@ -774,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
+| England Championship Special | 71470 | [71470-england-championship-special.json](./71470-england-championship-special.json) |
 | England Team Manager | 69289 | [69289-england-team-manager.json](./69289-england-team-manager.json) |
 | English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
 | Engraving | 269025 | [269025-engraving.json](./269025-engraving.json) |
@@ -864,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Sax Game | 414339 | [414339-epic-sax-game.json](./414339-epic-sax-game.json) |
 | Epic Showdown | 34365 | [34365-epic-showdown.json](./34365-epic-showdown.json) |
 | Epic Skater | 70999 | [70999-epic-skater.json](./70999-epic-skater.json) |
+| Epic Skater 2 | 71452 | [71452-epic-skater-2.json](./71452-epic-skater-2.json) |
 | Epic Snails | 68696 | [68696-epic-snails.json](./68696-epic-snails.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
 | Epic Walk | 324881 | [324881-epic-walk.json](./324881-epic-walk.json) |
@@ -1305,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everywhere | 130365 | [130365-everywhere.json](./130365-everywhere.json) |
 | Evets: The Ultimate Adventure | 73793 | [73793-evets-the-ultimate-adventure.json](./73793-evets-the-ultimate-adventure.json) |
 | Evidence of 96' | 398358 | [398358-evidence-of-96.json](./398358-evidence-of-96.json) |
+| Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
 | Evie Mal Games | 102776 | [102776-evie-mal-games.json](./102776-evie-mal-games.json) |
 | Evil | 154005 | [154005-evil.json](./154005-evil.json) |
 | Evil Advisor Verdict | 359995 | [359995-evil-advisor-verdict.json](./359995-evil-advisor-verdict.json) |
