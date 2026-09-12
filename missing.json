@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T14:04:09.176Z",
-  "total_missing": 62138,
+  "generated_at": "2026-09-12T14:11:36.121Z",
+  "total_missing": 62137,
   "games": [
     {
       "igdb_id": 306086,
@@ -2956,11 +2956,6 @@
       "igdb_id": 276725,
       "game_name": "About Time",
       "file": "missing/A/276725-about-time.json"
-    },
-    {
-      "igdb_id": 388001,
-      "game_name": "Above: Colonies of the Mist",
-      "file": "missing/A/388001-above-colonies-of-the-mist.json"
     },
     {
       "igdb_id": 383355,
