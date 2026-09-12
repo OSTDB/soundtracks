@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T12:41:35.798Z",
-  "total_missing": 61846,
+  "generated_at": "2026-09-12T12:48:28.632Z",
+  "total_missing": 61896,
   "games": [
     {
       "igdb_id": 306086,
@@ -214503,6 +214503,11 @@
       "file": "missing/R/256003-royal-romances-the-power-of-chosen-one-dlc.json"
     },
     {
+      "igdb_id": 54353,
+      "game_name": "Royal Settlement 1450",
+      "file": "missing/R/54353-royal-settlement-1450.json"
+    },
+    {
       "igdb_id": 270928,
       "game_name": "Royale King",
       "file": "missing/R/270928-royale-king.json"
@@ -215603,6 +215608,11 @@
       "file": "missing/R/270680-rush-back.json"
     },
     {
+      "igdb_id": 54352,
+      "game_name": "Rush for the Bomb",
+      "file": "missing/R/54352-rush-for-the-bomb.json"
+    },
+    {
       "igdb_id": 220878,
       "game_name": "Rush Hour Deluxe: The ultimate traffic jam game!",
       "file": "missing/R/220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json"
@@ -216506,6 +216516,11 @@
       "igdb_id": 302926,
       "game_name": "Safelight",
       "file": "missing/S/302926-safelight.json"
+    },
+    {
+      "igdb_id": 54351,
+      "game_name": "Safety Driving - The Motorbike Simulation",
+      "file": "missing/S/54351-safety-driving-the-motorbike-simulation.json"
     },
     {
       "igdb_id": 32189,
@@ -218643,6 +218658,16 @@
       "file": "missing/S/358859-saving-princess.json"
     },
     {
+      "igdb_id": 54349,
+      "game_name": "Saving Private Sheep",
+      "file": "missing/S/54349-saving-private-sheep.json"
+    },
+    {
+      "igdb_id": 54348,
+      "game_name": "Saving Private Sheep 2",
+      "file": "missing/S/54348-saving-private-sheep-2.json"
+    },
+    {
       "igdb_id": 133467,
       "game_name": "Saving You From Yourself",
       "file": "missing/S/133467-saving-you-from-yourself.json"
@@ -219216,6 +219241,11 @@
       "igdb_id": 22466,
       "game_name": "SchoolMate Sweets!",
       "file": "missing/S/22466-schoolmate-sweets.json"
+    },
+    {
+      "igdb_id": 54347,
+      "game_name": "Schoolmates - The Mystery of the Magic Bracelet",
+      "file": "missing/S/54347-schoolmates-the-mystery-of-the-magic-bracelet.json"
     },
     {
       "igdb_id": 165005,
@@ -220806,6 +220836,11 @@
       "igdb_id": 193416,
       "game_name": "Secrets of the Temple",
       "file": "missing/S/193416-secrets-of-the-temple.json"
+    },
+    {
+      "igdb_id": 54354,
+      "game_name": "Secrets of Tibet",
+      "file": "missing/S/54354-secrets-of-tibet.json"
     },
     {
       "igdb_id": 391066,
@@ -222798,6 +222833,11 @@
       "file": "missing/S/12221-shadow-of-the-beast-iii.json"
     },
     {
+      "igdb_id": 54355,
+      "game_name": "Shadow of the Game",
+      "file": "missing/S/54355-shadow-of-the-game.json"
+    },
+    {
       "igdb_id": 317229,
       "game_name": "Shadow of the Ninja Reborn: Deluxe Edition",
       "file": "missing/S/317229-shadow-of-the-ninja-reborn-deluxe-edition.json"
@@ -223993,6 +224033,11 @@
       "file": "missing/S/328266-shellax.json"
     },
     {
+      "igdb_id": 54391,
+      "game_name": "ShellBlast",
+      "file": "missing/S/54391-shellblast.json"
+    },
+    {
       "igdb_id": 330101,
       "game_name": "Shelldom",
       "file": "missing/S/330101-shelldom.json"
@@ -224791,6 +224836,11 @@
       "igdb_id": 327584,
       "game_name": "Ship Simulator",
       "file": "missing/S/327584-ship-simulator.json"
+    },
+    {
+      "igdb_id": 54390,
+      "game_name": "Ship Simulator 2008: Collector's Edition",
+      "file": "missing/S/54390-ship-simulator-2008-collectors-edition.json"
     },
     {
       "igdb_id": 19326,
@@ -226113,6 +226163,11 @@
       "file": "missing/S/360017-sidequest-hunters.json"
     },
     {
+      "igdb_id": 54357,
+      "game_name": "Sidereal Defense",
+      "file": "missing/S/54357-sidereal-defense.json"
+    },
+    {
       "igdb_id": 70364,
       "game_name": "SideShow",
       "file": "missing/S/70364-sideshow.json"
@@ -226718,6 +226773,11 @@
       "file": "missing/S/27686-simairport.json"
     },
     {
+      "igdb_id": 54358,
+      "game_name": "Simajo: The Travel Mystery Game",
+      "file": "missing/S/54358-simajo-the-travel-mystery-game.json"
+    },
+    {
       "igdb_id": 371270,
       "game_name": "SimAnimals",
       "file": "missing/S/371270-simanimals.json"
@@ -227313,6 +227373,11 @@
       "file": "missing/S/345483-sin-exe.json"
     },
     {
+      "igdb_id": 54359,
+      "game_name": "Sinbad - In Search of Magic Ginger",
+      "file": "missing/S/54359-sinbad-in-search-of-magic-ginger.json"
+    },
+    {
       "igdb_id": 71509,
       "game_name": "Sinbad & the Golden Ship",
       "file": "missing/S/71509-sinbad-and-the-golden-ship.json"
@@ -227661,6 +227726,16 @@
       "igdb_id": 225091,
       "game_name": "Sisters of Sweetwater",
       "file": "missing/S/225091-sisters-of-sweetwater.json"
+    },
+    {
+      "igdb_id": 54360,
+      "game_name": "Sisters Secrecy: Arcanum Bloodlines",
+      "file": "missing/S/54360-sisters-secrecy-arcanum-bloodlines.json"
+    },
+    {
+      "igdb_id": 54361,
+      "game_name": "Sisters Secrecy: Arcanum Bloodlines - Collector's Edition",
+      "file": "missing/S/54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json"
     },
     {
       "igdb_id": 340369,
@@ -228103,6 +228178,16 @@
       "file": "missing/S/64365-ski-race.json"
     },
     {
+      "igdb_id": 54362,
+      "game_name": "Ski Racing 2005",
+      "file": "missing/S/54362-ski-racing-2005.json"
+    },
+    {
+      "igdb_id": 54363,
+      "game_name": "Ski Resort Mogul",
+      "file": "missing/S/54363-ski-resort-mogul.json"
+    },
+    {
       "igdb_id": 52004,
       "game_name": "Ski Rodeo",
       "file": "missing/S/52004-ski-rodeo.json"
@@ -228111,6 +228196,11 @@
       "igdb_id": 36528,
       "game_name": "Ski Sniper",
       "file": "missing/S/36528-ski-sniper.json"
+    },
+    {
+      "igdb_id": 54364,
+      "game_name": "Ski-World Simulator 2012",
+      "file": "missing/S/54364-ski-world-simulator-2012.json"
     },
     {
       "igdb_id": 339822,
@@ -228323,6 +228413,11 @@
       "file": "missing/S/73839-skunny-save-our-pizzas.json"
     },
     {
+      "igdb_id": 54365,
+      "game_name": "Sky Aces",
+      "file": "missing/S/54365-sky-aces.json"
+    },
+    {
       "igdb_id": 398981,
       "game_name": "Sky Alert",
       "file": "missing/S/398981-sky-alert.json"
@@ -228433,6 +228528,11 @@
       "file": "missing/S/290710-sky-journey-cozy-mornings.json"
     },
     {
+      "igdb_id": 54366,
+      "game_name": "Sky Kingdoms",
+      "file": "missing/S/54366-sky-kingdoms.json"
+    },
+    {
       "igdb_id": 100747,
       "game_name": "Sky Kingdoms - Castle Siege",
       "file": "missing/S/100747-sky-kingdoms-castle-siege.json"
@@ -228441,6 +228541,11 @@
       "igdb_id": 310184,
       "game_name": "Sky Mad",
       "file": "missing/S/310184-sky-mad.json"
+    },
+    {
+      "igdb_id": 54367,
+      "game_name": "Sky Madness",
+      "file": "missing/S/54367-sky-madness.json"
     },
     {
       "igdb_id": 147901,
@@ -228501,6 +228606,31 @@
       "igdb_id": 139477,
       "game_name": "Sky Squadron",
       "file": "missing/S/139477-sky-squadron.json"
+    },
+    {
+      "igdb_id": 54368,
+      "game_name": "Sky Taxi 2: Storm 2012",
+      "file": "missing/S/54368-sky-taxi-2-storm-2012.json"
+    },
+    {
+      "igdb_id": 54369,
+      "game_name": "Sky Taxi 3: The Movie",
+      "file": "missing/S/54369-sky-taxi-3-the-movie.json"
+    },
+    {
+      "igdb_id": 54371,
+      "game_name": "Sky Taxi 4: Top Secret",
+      "file": "missing/S/54371-sky-taxi-4-top-secret.json"
+    },
+    {
+      "igdb_id": 54370,
+      "game_name": "Sky Taxi: GMO Armageddon",
+      "file": "missing/S/54370-sky-taxi-gmo-armageddon.json"
+    },
+    {
+      "igdb_id": 54372,
+      "game_name": "Sky Track",
+      "file": "missing/S/54372-sky-track.json"
     },
     {
       "igdb_id": 100852,
@@ -230098,6 +230228,26 @@
       "file": "missing/S/306954-smash-drums-pop-rock-legends.json"
     },
     {
+      "igdb_id": 54373,
+      "game_name": "Smash Frenzy",
+      "file": "missing/S/54373-smash-frenzy.json"
+    },
+    {
+      "igdb_id": 54374,
+      "game_name": "Smash Frenzy 2",
+      "file": "missing/S/54374-smash-frenzy-2.json"
+    },
+    {
+      "igdb_id": 54375,
+      "game_name": "Smash Frenzy 3",
+      "file": "missing/S/54375-smash-frenzy-3.json"
+    },
+    {
+      "igdb_id": 54376,
+      "game_name": "Smash Frenzy 4",
+      "file": "missing/S/54376-smash-frenzy-4.json"
+    },
+    {
       "igdb_id": 103485,
       "game_name": "Smash Halloween Pumpkins: The Challenge",
       "file": "missing/S/103485-smash-halloween-pumpkins-the-challenge.json"
@@ -230433,6 +230583,11 @@
       "file": "missing/S/294730-smugglers-cove.json"
     },
     {
+      "igdb_id": 54377,
+      "game_name": "Smugglers IV: Doomsday",
+      "file": "missing/S/54377-smugglers-iv-doomsday.json"
+    },
+    {
       "igdb_id": 366256,
       "game_name": "Smurfen",
       "file": "missing/S/366256-smurfen.json"
@@ -230511,6 +230666,11 @@
       "igdb_id": 198515,
       "game_name": "Snack Scoffer",
       "file": "missing/S/198515-snack-scoffer.json"
+    },
+    {
+      "igdb_id": 54378,
+      "game_name": "Snackjack",
+      "file": "missing/S/54378-snackjack.json"
     },
     {
       "igdb_id": 5697,
@@ -230776,6 +230936,11 @@
       "igdb_id": 147984,
       "game_name": "Snakes & Ladders",
       "file": "missing/S/147984-snakes-and-ladders.json"
+    },
+    {
+      "igdb_id": 54379,
+      "game_name": "Snakes & Ladders in Aquarium",
+      "file": "missing/S/54379-snakes-and-ladders-in-aquarium.json"
     },
     {
       "igdb_id": 106570,
@@ -231046,6 +231211,11 @@
       "igdb_id": 27868,
       "game_name": "Sniper Elite 4: Deathstorm Part 1 - Inception",
       "file": "missing/S/27868-sniper-elite-4-deathstorm-part-1-inception.json"
+    },
+    {
+      "igdb_id": 54380,
+      "game_name": "Sniper Elite 4: Digital Deluxe Edition",
+      "file": "missing/S/54380-sniper-elite-4-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 307278,
@@ -232343,6 +232513,11 @@
       "file": "missing/S/44642-soldier-of-fortune-gold-edition.json"
     },
     {
+      "igdb_id": 54389,
+      "game_name": "Soldier vs Aliens",
+      "file": "missing/S/54389-soldier-vs-aliens.json"
+    },
+    {
       "igdb_id": 69791,
       "game_name": "Soldiers at War",
       "file": "missing/S/69791-soldiers-at-war.json"
@@ -232431,6 +232606,11 @@
       "igdb_id": 386147,
       "game_name": "Solitaire After Hours",
       "file": "missing/S/386147-solitaire-after-hours.json"
+    },
+    {
+      "igdb_id": 54388,
+      "game_name": "Solitaire Antics Ultimate Plus",
+      "file": "missing/S/54388-solitaire-antics-ultimate-plus.json"
     },
     {
       "igdb_id": 76589,
@@ -232551,6 +232731,11 @@
       "igdb_id": 122310,
       "game_name": "Solitaire Twin Pack",
       "file": "missing/S/122310-solitaire-twin-pack.json"
+    },
+    {
+      "igdb_id": 54387,
+      "game_name": "Solitaire Twist Collection",
+      "file": "missing/S/54387-solitaire-twist-collection.json"
     },
     {
       "igdb_id": 89162,
@@ -234416,6 +234601,11 @@
       "igdb_id": 62733,
       "game_name": "Sora o Aogite Kumo Takaku",
       "file": "missing/S/62733-sora-o-aogite-kumo-takaku.json"
+    },
+    {
+      "igdb_id": 54386,
+      "game_name": "Sora: Blue Sky Edition",
+      "file": "missing/S/54386-sora-blue-sky-edition.json"
     },
     {
       "igdb_id": 300721,
@@ -236408,6 +236598,11 @@
       "file": "missing/S/63238-space-orbit.json"
     },
     {
+      "igdb_id": 54385,
+      "game_name": "Space-Rat Xplode!",
+      "file": "missing/S/54385-space-rat-xplode.json"
+    },
+    {
       "igdb_id": 139924,
       "game_name": "Space/Mech/Pilot",
       "file": "missing/S/139924-space-mech-pilot.json"
@@ -236948,6 +237143,11 @@
       "file": "missing/S/60587-special-tee-shot.json"
     },
     {
+      "igdb_id": 54384,
+      "game_name": "Special Transport Simulator 2013",
+      "file": "missing/S/54384-special-transport-simulator-2013.json"
+    },
+    {
       "igdb_id": 262963,
       "game_name": "Specimen #08",
       "file": "missing/S/262963-specimen-08.json"
@@ -237153,6 +237353,11 @@
       "file": "missing/S/335271-speed-surge.json"
     },
     {
+      "igdb_id": 54383,
+      "game_name": "Speed Thief",
+      "file": "missing/S/54383-speed-thief.json"
+    },
+    {
       "igdb_id": 200202,
       "game_name": "Speed Tube Racer",
       "file": "missing/S/200202-speed-tube-racer.json"
@@ -237236,6 +237441,11 @@
       "igdb_id": 292550,
       "game_name": "Speedway Challenge 2024",
       "file": "missing/S/292550-speedway-challenge-2024.json"
+    },
+    {
+      "igdb_id": 54382,
+      "game_name": "Speedway League",
+      "file": "missing/S/54382-speedway-league.json"
     },
     {
       "igdb_id": 92529,
@@ -237878,6 +238088,11 @@
       "file": "missing/S/116288-spin-evolution.json"
     },
     {
+      "igdb_id": 54381,
+      "game_name": "Spin Off 2",
+      "file": "missing/S/54381-spin-off-2.json"
+    },
+    {
       "igdb_id": 311247,
       "game_name": "Spin or Die",
       "file": "missing/S/311247-spin-or-die.json"
@@ -238146,6 +238361,11 @@
       "igdb_id": 383364,
       "game_name": "Spirits of Lunara",
       "file": "missing/S/383364-spirits-of-lunara.json"
+    },
+    {
+      "igdb_id": 54392,
+      "game_name": "Spirits of Metropolis",
+      "file": "missing/S/54392-spirits-of-metropolis.json"
     },
     {
       "igdb_id": 110346,
@@ -238508,6 +238728,11 @@
       "file": "missing/S/336565-spooky-mahjong.json"
     },
     {
+      "igdb_id": 54393,
+      "game_name": "Spooky Mall",
+      "file": "missing/S/54393-spooky-mall.json"
+    },
+    {
       "igdb_id": 208631,
       "game_name": "Spooky Milk Life",
       "file": "missing/S/208631-spooky-milk-life.json"
@@ -238631,6 +238856,11 @@
       "igdb_id": 157187,
       "game_name": "Sport Girls",
       "file": "missing/S/157187-sport-girls.json"
+    },
+    {
+      "igdb_id": 54394,
+      "game_name": "Sportball Challenge",
+      "file": "missing/S/54394-sportball-challenge.json"
     },
     {
       "igdb_id": 130851,
@@ -239171,6 +239401,11 @@
       "igdb_id": 368503,
       "game_name": "Squad 22: ZOV",
       "file": "missing/S/368503-squad-22-zov.json"
+    },
+    {
+      "igdb_id": 54395,
+      "game_name": "Squad Assault",
+      "file": "missing/S/54395-squad-assault.json"
     },
     {
       "igdb_id": 186303,
@@ -240033,6 +240268,11 @@
       "file": "missing/S/194632-star-days.json"
     },
     {
+      "igdb_id": 54396,
+      "game_name": "Star Defender 2",
+      "file": "missing/S/54396-star-defender-2.json"
+    },
+    {
       "igdb_id": 32473,
       "game_name": "Star Drifter",
       "file": "missing/S/32473-star-drifter.json"
@@ -240456,6 +240696,11 @@
       "igdb_id": 77313,
       "game_name": "Star Trek: Voyager - Elite Force Expansion Pack",
       "file": "missing/S/77313-star-trek-voyager-elite-force-expansion-pack.json"
+    },
+    {
+      "igdb_id": 54399,
+      "game_name": "Star Trigon",
+      "file": "missing/S/54399-star-trigon.json"
     },
     {
       "igdb_id": 326580,
@@ -283321,6 +283566,11 @@
       "igdb_id": 278673,
       "game_name": "Tresure Hunter",
       "file": "missing/T/278673-tresure-hunter.json"
+    },
+    {
+      "igdb_id": 54398,
+      "game_name": "Trevor Sorensen's Star Legions",
+      "file": "missing/T/54398-trevor-sorensens-star-legions.json"
     },
     {
       "igdb_id": 306381,
