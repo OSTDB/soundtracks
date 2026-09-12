@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Valiants | 394826 | [394826-vanguard-valiants.json](./394826-vanguard-valiants.json) |
 | Vanguard: Fight For Rudiarius | 110996 | [110996-vanguard-fight-for-rudiarius.json](./110996-vanguard-fight-for-rudiarius.json) |
 | Vanguard: Normandy 1944 | 110298 | [110298-vanguard-normandy-1944.json](./110298-vanguard-normandy-1944.json) |
+| Vanguards | 30836 | [30836-vanguards.json](./30836-vanguards.json) |
 | Vanilla Click | 157177 | [157177-vanilla-click.json](./157177-vanilla-click.json) |
 | Vanilla Inspector | 154019 | [154019-vanilla-inspector.json](./154019-vanilla-inspector.json) |
 | Vanilla Sky | 274224 | [274224-vanilla-sky.json](./274224-vanilla-sky.json) |
@@ -691,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
 | Void | 202343 | [202343-void.json](./202343-void.json) |
 | Void | 252369 | [252369-void.json](./252369-void.json) |
+| Void & Nothingness | 30762 | [30762-void-and-nothingness.json](./30762-void-and-nothingness.json) |
 | Void Authority | 355041 | [355041-void-authority.json](./355041-void-authority.json) |
 | Void Bastards | 111846 | [111846-void-bastards.json](./111846-void-bastards.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
@@ -829,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Interior Designer Pro | 28921 | [28921-vr-interior-designer-pro.json](./28921-vr-interior-designer-pro.json) |
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
 | VR Kayaking Game | 186255 | [186255-vr-kayaking-game.json](./186255-vr-kayaking-game.json) |
+| VR Laser Harp | 30761 | [30761-vr-laser-harp.json](./30761-vr-laser-harp.json) |
 | VR Laser Puzzle | 96685 | [96685-vr-laser-puzzle.json](./96685-vr-laser-puzzle.json) |
 | VR Ninja Dojo | 316410 | [316410-vr-ninja-dojo.json](./316410-vr-ninja-dojo.json) |
 | VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
