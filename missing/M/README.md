@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf King - Multiplayer | 87011 | [87011-mini-golf-king-multiplayer.json](./87011-mini-golf-king-multiplayer.json) |
 | Mini Golf Mania | 146893 | [146893-mini-golf-mania.json](./146893-mini-golf-mania.json) |
 | Mini Golf MatchUp | 99578 | [99578-mini-golf-matchup.json](./99578-mini-golf-matchup.json) |
+| Mini Golf Resort DS | 26588 | [26588-mini-golf-resort-ds.json](./26588-mini-golf-resort-ds.json) |
 | Mini Golf Star Retro Golf Game | 104695 | [104695-mini-golf-star-retro-golf-game.json](./104695-mini-golf-star-retro-golf-game.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
@@ -2834,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
 | Miss Clue: Formula for Danger | 200655 | [200655-miss-clue-formula-for-danger.json](./200655-miss-clue-formula-for-danger.json) |
 | Miss Detective's Undercover | 202817 | [202817-miss-detectives-undercover.json](./202817-miss-detectives-undercover.json) |
+| Miss Fisher and the Deathly Maze | 26783 | [26783-miss-fisher-and-the-deathly-maze.json](./26783-miss-fisher-and-the-deathly-maze.json) |
 | Miss It! | 283707 | [283707-miss-it.json](./283707-miss-it.json) |
 | Miss Kawaii 2 | 222941 | [222941-miss-kawaii-2.json](./222941-miss-kawaii-2.json) |
 | Miss Mantis | 307288 | [307288-miss-mantis.json](./307288-miss-mantis.json) |
