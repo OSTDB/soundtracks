@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T20:21:30.830Z",
-  "total_missing": 67063,
+  "generated_at": "2026-09-13T20:26:41.961Z",
+  "total_missing": 67061,
   "games": [
     {
       "igdb_id": 306086,
@@ -3863,11 +3863,6 @@
       "file": "missing/A/326038-adarna.json"
     },
     {
-      "igdb_id": 292305,
-      "game_name": "Add Astra",
-      "file": "missing/A/292305-add-astra.json"
-    },
-    {
       "igdb_id": 69860,
       "game_name": "Addiction Pinball",
       "file": "missing/A/69860-addiction-pinball.json"
@@ -3891,11 +3886,6 @@
       "igdb_id": 328214,
       "game_name": "Adhvan Chakra",
       "file": "missing/A/328214-adhvan-chakra.json"
-    },
-    {
-      "igdb_id": 200672,
-      "game_name": "Adibou",
-      "file": "missing/A/200672-adibou.json"
     },
     {
       "igdb_id": 242534,
