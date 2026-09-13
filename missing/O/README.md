@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
 | Operation F.A.T.E. | 152865 | [152865-operation-f-a-t-e.json](./152865-operation-f-a-t-e.json) |
 | Operation Flashpoint: Cold War Crisis | 288 | [288-operation-flashpoint-cold-war-crisis.json](./288-operation-flashpoint-cold-war-crisis.json) |
+| Operation Flashpoint: Red Hammer | 449 | [449-operation-flashpoint-red-hammer.json](./449-operation-flashpoint-red-hammer.json) |
 | Operation Flashpoint: Resistance | 448 | [448-operation-flashpoint-resistance.json](./448-operation-flashpoint-resistance.json) |
 | Operation Food to Gold | 278385 | [278385-operation-food-to-gold.json](./278385-operation-food-to-gold.json) |
 | Operation Gekkou | 210688 | [210688-operation-gekkou.json](./210688-operation-gekkou.json) |
@@ -906,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
+| Orchard Odyssey: Chestnut Christmas | 391146 | [391146-orchard-odyssey-chestnut-christmas.json](./391146-orchard-odyssey-chestnut-christmas.json) |
 | Orchard Odyssey: Pumpkin Party | 375440 | [375440-orchard-odyssey-pumpkin-party.json](./375440-orchard-odyssey-pumpkin-party.json) |
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
