@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights into Dreams | 199025 | [199025-nights-into-dreams.json](./199025-nights-into-dreams.json) |
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
+| Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
 | Nightshift | 271202 | [271202-nightshift.json](./271202-nightshift.json) |
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
 | NightStars: Project 1 | 314067 | [314067-nightstars-project-1.json](./314067-nightstars-project-1.json) |
@@ -1143,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
 | Ninja Gaiden Sigma 2: Collector's Edition | 44657 | [44657-ninja-gaiden-sigma-2-collectors-edition.json](./44657-ninja-gaiden-sigma-2-collectors-edition.json) |
 | Ninja Gaiden Sigma 2: Premium Box | 298018 | [298018-ninja-gaiden-sigma-2-premium-box.json](./298018-ninja-gaiden-sigma-2-premium-box.json) |
+| Ninja Gaiden Trilogy | 42729 | [42729-ninja-gaiden-trilogy.json](./42729-ninja-gaiden-trilogy.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
 | Ninja Gear | 322583 | [322583-ninja-gear.json](./322583-ninja-gear.json) |
