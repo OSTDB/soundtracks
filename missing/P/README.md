@@ -282,6 +282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
 | Pantsylvania | 64373 | [64373-pantsylvania.json](./64373-pantsylvania.json) |
 | Panzer Attack/Red Baron | 95381 | [95381-panzer-attack-red-baron.json](./95381-panzer-attack-red-baron.json) |
+| Panzer Battles | 17997 | [17997-panzer-battles.json](./17997-panzer-battles.json) |
 | Panzer Campaigns: El Alamein '42 Gold | 124733 | [124733-panzer-campaigns-el-alamein-42-gold.json](./124733-panzer-campaigns-el-alamein-42-gold.json) |
 | Panzer Campaigns: Japan '45 | 124730 | [124730-panzer-campaigns-japan-45.json](./124730-panzer-campaigns-japan-45.json) |
 | Panzer Campaigns: Market-Garden '44 Gold | 124729 | [124729-panzer-campaigns-market-garden-44-gold.json](./124729-panzer-campaigns-market-garden-44-gold.json) |
@@ -307,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzerfaust | 258212 | [258212-panzerfaust.json](./258212-panzerfaust.json) |
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
+| Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
@@ -584,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passant: A Chess Roguelike | 323192 | [323192-passant-a-chess-roguelike.json](./323192-passant-a-chess-roguelike.json) |
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
+| Passing Pineview Forest | 17988 | [17988-passing-pineview-forest.json](./17988-passing-pineview-forest.json) |
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
 | Passport to Amsterdam | 55850 | [55850-passport-to-amsterdam.json](./55850-passport-to-amsterdam.json) |
 | Passport to Barcelona | 55873 | [55873-passport-to-barcelona.json](./55873-passport-to-barcelona.json) |
@@ -1322,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp My Ride Street Racing | 274184 | [274184-pimp-my-ride-street-racing.json](./274184-pimp-my-ride-street-racing.json) |
 | Pin Climb | 318755 | [318755-pin-climb.json](./318755-pin-climb.json) |
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
+| Pin Pong | 18155 | [18155-pin-pong.json](./18155-pin-pong.json) |
 | Pin To Win | 302351 | [302351-pin-to-win.json](./302351-pin-to-win.json) |
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
 | Pin-Bowler | 92541 | [92541-pin-bowler.json](./92541-pin-bowler.json) |
@@ -2304,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong - Old School | 86705 | [86705-pong-old-school.json](./86705-pong-old-school.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
+| Pong Doubles | 18154 | [18154-pong-doubles.json](./18154-pong-doubles.json) |
 | Pong Kombat | 73326 | [73326-pong-kombat.json](./73326-pong-kombat.json) |
 | Pong Like | 96123 | [96123-pong-like.json](./96123-pong-like.json) |
 | Pong Pong Candy | 84812 | [84812-pong-pong-candy.json](./84812-pong-pong-candy.json) |
@@ -3340,6 +3345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Punch Club: Deluxe Edition | 51882 | [51882-punch-club-deluxe-edition.json](./51882-punch-club-deluxe-edition.json) |
+| Punch Club: The Dark Fist | 18097 | [18097-punch-club-the-dark-fist.json](./18097-punch-club-the-dark-fist.json) |
 | Punch Hero | 38999 | [38999-punch-hero.json](./38999-punch-hero.json) |
 | Punch Kick Duck | 231911 | [231911-punch-kick-duck.json](./231911-punch-kick-duck.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
