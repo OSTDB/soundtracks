@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
 | Heroes of Steel Tactics RPG | 53191 | [53191-heroes-of-steel-tactics-rpg.json](./53191-heroes-of-steel-tactics-rpg.json) |
+| Heroes of the 357th | 15474 | [15474-heroes-of-the-357th.json](./15474-heroes-of-the-357th.json) |
 | Heroes of the Galaxy | 195162 | [195162-heroes-of-the-galaxy.json](./195162-heroes-of-the-galaxy.json) |
 | Heroes of the Obelisk | 62761 | [62761-heroes-of-the-obelisk.json](./62761-heroes-of-the-obelisk.json) |
 | Heroes of the Pacific | 5861 | [5861-heroes-of-the-pacific.json](./5861-heroes-of-the-pacific.json) |
@@ -1732,6 +1733,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
 | Hockey Blitz | 244800 | [244800-hockey-blitz.json](./244800-hockey-blitz.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
+| Hockey League Simulator | 15503 | [15503-hockey-league-simulator.json](./15503-hockey-league-simulator.json) |
+| Hockey League Simulator II | 15504 | [15504-hockey-league-simulator-ii.json](./15504-hockey-league-simulator-ii.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
 | Hocus 2 | 149537 | [149537-hocus-2.json](./149537-hocus-2.json) |
 | Hocus Pocus Prince | 183563 | [183563-hocus-pocus-prince.json](./183563-hocus-pocus-prince.json) |
