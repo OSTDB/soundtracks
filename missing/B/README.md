@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barren Realms Elite | 97310 | [97310-barren-realms-elite.json](./97310-barren-realms-elite.json) |
 | Barren Roads | 35954 | [35954-barren-roads.json](./35954-barren-roads.json) |
 | Barrhell | 276702 | [276702-barrhell.json](./276702-barrhell.json) |
+| Barricade | 18116 | [18116-barricade.json](./18116-barricade.json) |
 | Barrier | 346049 | [346049-barrier.json](./346049-barrier.json) |
 | Barro 2020 | 123866 | [123866-barro-2020.json](./123866-barro-2020.json) |
 | Barro GT: Pack #1 | 298338 | [298338-barro-gt-pack-1.json](./298338-barro-gt-pack-1.json) |
@@ -934,6 +935,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 3 | 273136 | [273136-battlefield-3.json](./273136-battlefield-3.json) |
 | Battlefield 3: Aftershock | 23916 | [23916-battlefield-3-aftershock.json](./23916-battlefield-3-aftershock.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
+| Battlefield Hardline: Criminal Activity | 18023 | [18023-battlefield-hardline-criminal-activity.json](./18023-battlefield-hardline-criminal-activity.json) |
+| Battlefield Hardline: Getaway | 18025 | [18025-battlefield-hardline-getaway.json](./18025-battlefield-hardline-getaway.json) |
+| Battlefield Hardline: Robbery | 18024 | [18024-battlefield-hardline-robbery.json](./18024-battlefield-hardline-robbery.json) |
 | Battlefield Hardline: Ultimate Edition | 52638 | [52638-battlefield-hardline-ultimate-edition.json](./52638-battlefield-hardline-ultimate-edition.json) |
 | Battlefield Mobile | 174893 | [174893-battlefield-mobile.json](./174893-battlefield-mobile.json) |
 | Battlefield Priest | 211427 | [211427-battlefield-priest.json](./211427-battlefield-priest.json) |
@@ -1566,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big's Fishing Quest | 329400 | [329400-bigs-fishing-quest.json](./329400-bigs-fishing-quest.json) |
 | Bigface Marsh | 179179 | [179179-bigface-marsh.json](./179179-bigface-marsh.json) |
 | BigFool | 307942 | [307942-bigfool.json](./307942-bigfool.json) |
+| Bigfoot Bonkers | 18117 | [18117-bigfoot-bonkers.json](./18117-bigfoot-bonkers.json) |
 | Bigfoot vs. Scots | 244257 | [244257-bigfoot-vs-scots.json](./244257-bigfoot-vs-scots.json) |
 | Biggest Impossible Ramp Ever | 100895 | [100895-biggest-impossible-ramp-ever.json](./100895-biggest-impossible-ramp-ever.json) |
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
@@ -3282,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broom Racer | 405525 | [405525-broom-racer.json](./405525-broom-racer.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
+| BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
 | Brother Wings | 29912 | [29912-brother-wings.json](./29912-brother-wings.json) |
 | Brotherhood of Ruin 2024: Element Temple Research Complex | 311464 | [311464-brotherhood-of-ruin-2024-element-temple-research-complex.json](./311464-brotherhood-of-ruin-2024-element-temple-research-complex.json) |
 | Brothers | 193446 | [193446-brothers.json](./193446-brothers.json) |
