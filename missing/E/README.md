@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eigenstate | 176470 | [176470-eigenstate.json](./176470-eigenstate.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
 | Eight Pool Fever | 322586 | [322586-eight-pool-fever.json](./322586-eight-pool-fever.json) |
+| Eight-Minute Empire | 43080 | [43080-eight-minute-empire.json](./43080-eight-minute-empire.json) |
 | Eighteen | 295244 | [295244-eighteen.json](./295244-eighteen.json) |
 | Eighteen Gold | 258484 | [258484-eighteen-gold.json](./258484-eighteen-gold.json) |
 | Eighth Era | 329967 | [329967-eighth-era.json](./329967-eighth-era.json) |
@@ -877,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EnjoyUp's 3 in 1 | 390511 | [390511-enjoyups-3-in-1.json](./390511-enjoyups-3-in-1.json) |
 | Enkan no Memo-ria: Kakera Tomoshi | 135858 | [135858-enkan-no-memo-ria-kakera-tomoshi.json](./135858-enkan-no-memo-ria-kakera-tomoshi.json) |
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
+| Enlightenment | 43155 | [43155-enlightenment.json](./43155-enlightenment.json) |
 | Ennuigi | 175880 | [175880-ennuigi.json](./175880-ennuigi.json) |
 | Ennuigi: A Time for Monsters | 396200 | [396200-ennuigi-a-time-for-monsters.json](./396200-ennuigi-a-time-for-monsters.json) |
 | Enoah's Quest | 303516 | [303516-enoahs-quest.json](./303516-enoahs-quest.json) |
