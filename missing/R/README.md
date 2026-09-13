@@ -689,6 +689,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of the Haunting | 844 | [844-realms-of-the-haunting.json](./844-realms-of-the-haunting.json) |
 | Realmstone | 118980 | [118980-realmstone.json](./118980-realmstone.json) |
 | realMyst | 16198 | [16198-realmyst.json](./16198-realmyst.json) |
+| RealPlay Golf | 21365 | [21365-realplay-golf.json](./21365-realplay-golf.json) |
+| RealPlay Pool | 21366 | [21366-realplay-pool.json](./21366-realplay-pool.json) |
+| RealPlay Racing | 21368 | [21368-realplay-racing.json](./21368-realplay-racing.json) |
 | Realpolitiks 3: Earth and Beyond | 309890 | [309890-realpolitiks-3-earth-and-beyond.json](./309890-realpolitiks-3-earth-and-beyond.json) |
 | Realpolitiks Mobile | 97304 | [97304-realpolitiks-mobile.json](./97304-realpolitiks-mobile.json) |
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
@@ -787,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Escape | 150633 | [150633-red-ball-escape.json](./150633-red-ball-escape.json) |
 | Red Ball Escape Adventure | 218477 | [218477-red-ball-escape-adventure.json](./218477-red-ball-escape-adventure.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
+| Red Baron Arcade | 21266 | [21266-red-baron-arcade.json](./21266-red-baron-arcade.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
 | Red Baron: Mission Builder | 9224 | [9224-red-baron-mission-builder.json](./9224-red-baron-mission-builder.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
@@ -2181,6 +2185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
+| Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
 | Rogue Zillion | 75766 | [75766-rogue-zillion.json](./75766-rogue-zillion.json) |
@@ -2355,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Rascal: The Spooky Cat | 320373 | [320373-rooftop-rascal-the-spooky-cat.json](./320373-rooftop-rascal-the-spooky-cat.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
+| Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
 | Rookie Math Pro | 102205 | [102205-rookie-math-pro.json](./102205-rookie-math-pro.json) |
 | Rookie Tank | 116357 | [116357-rookie-tank.json](./116357-rookie-tank.json) |
 | Room 14 | 301855 | [301855-room-14.json](./301855-room-14.json) |
