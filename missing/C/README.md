@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles of the Great Wilderness | 339109 | [339109-chronicles-of-the-great-wilderness.json](./339109-chronicles-of-the-great-wilderness.json) |
+| Chronicles of the Sword | 15477 | [15477-chronicles-of-the-sword.json](./15477-chronicles-of-the-sword.json) |
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
@@ -2705,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquista: Tide of Wills | 415116 | [415116-conquista-tide-of-wills.json](./415116-conquista-tide-of-wills.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conscript: Deluxe Edition | 308797 | [308797-conscript-deluxe-edition.json](./308797-conscript-deluxe-edition.json) |
+| Consensual Torture Simulator | 15446 | [15446-consensual-torture-simulator.json](./15446-consensual-torture-simulator.json) |
 | Considerable Grandfather | 293643 | [293643-considerable-grandfather.json](./293643-considerable-grandfather.json) |
 | Considerable Grandfather: It Followed Me Home | 408784 | [408784-considerable-grandfather-it-followed-me-home.json](./408784-considerable-grandfather-it-followed-me-home.json) |
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
@@ -3368,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeper World | 7595 | [7595-creeper-world.json](./7595-creeper-world.json) |
 | Creeper World 2: Redemption | 66086 | [66086-creeper-world-2-redemption.json](./66086-creeper-world-2-redemption.json) |
 | Creeper World: Anniversary Edition | 34005 | [34005-creeper-world-anniversary-edition.json](./34005-creeper-world-anniversary-edition.json) |
+| Creepers | 15478 | [15478-creepers.json](./15478-creepers.json) |
 | Creepshow | 272838 | [272838-creepshow.json](./272838-creepshow.json) |
 | Creepslore | 195165 | [195165-creepslore.json](./195165-creepslore.json) |
 | Creepy & Cute Pixel Plushy Craft | 336900 | [336900-creepy-and-cute-pixel-plushy-craft.json](./336900-creepy-and-cute-pixel-plushy-craft.json) |
@@ -3627,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
 | Crypt of Fear | 356662 | [356662-crypt-of-fear.json](./356662-crypt-of-fear.json) |
+| Crypt of Medea | 15512 | [15512-crypt-of-medea.json](./15512-crypt-of-medea.json) |
 | Crypt of the Fungal Lord | 179140 | [179140-crypt-of-the-fungal-lord.json](./179140-crypt-of-the-fungal-lord.json) |
 | Crypt of the Necrodancer: Amplified | 26613 | [26613-crypt-of-the-necrodancer-amplified.json](./26613-crypt-of-the-necrodancer-amplified.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
@@ -4043,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
 | Cyberpunkdreams | 140018 | [140018-cyberpunkdreams.json](./140018-cyberpunkdreams.json) |
 | Cyberpunx | 261820 | [261820-cyberpunx.json](./261820-cyberpunx.json) |
+| Cyberqueen | 15447 | [15447-cyberqueen.json](./15447-cyberqueen.json) |
 | CyberQuest | 391581 | [391581-cyberquest.json](./391581-cyberquest.json) |
 | Cyberrrevolution | 180211 | [180211-cyberrrevolution.json](./180211-cyberrrevolution.json) |
 | Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
