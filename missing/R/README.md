@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Echo | 270941 | [270941-red-echo.json](./270941-red-echo.json) |
 | Red Embrace | 86440 | [86440-red-embrace.json](./86440-red-embrace.json) |
+| Red Embrace: Hollywood | 110753 | [110753-red-embrace-hollywood.json](./110753-red-embrace-hollywood.json) |
 | Red Embrace: Paradisus | 186332 | [186332-red-embrace-paradisus.json](./186332-red-embrace-paradisus.json) |
 | Red Entity | 181917 | [181917-red-entity.json](./181917-red-entity.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
@@ -1212,6 +1213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
 | Resonance of Fate | 7159 | [7159-resonance-of-fate.json](./7159-resonance-of-fate.json) |
+| Resonance of Fate 4k/HD Edition | 109580 | [109580-resonance-of-fate-4k-hd-edition.json](./109580-resonance-of-fate-4k-hd-edition.json) |
 | Resonance: The Lost Score | 150064 | [150064-resonance-the-lost-score.json](./150064-resonance-the-lost-score.json) |
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
@@ -1932,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
 | Robot Vacuum Simulator 2013 | 61629 | [61629-robot-vacuum-simulator-2013.json](./61629-robot-vacuum-simulator-2013.json) |
 | Robot Vacuum Simulator X | 130370 | [130370-robot-vacuum-simulator-x.json](./130370-robot-vacuum-simulator-x.json) |
+| Robot Wants It All | 108325 | [108325-robot-wants-it-all.json](./108325-robot-wants-it-all.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
