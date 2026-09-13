@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GraFi Christmas | 126556 | [126556-grafi-christmas.json](./126556-grafi-christmas.json) |
 | GraFi Halloween | 127309 | [127309-grafi-halloween.json](./127309-grafi-halloween.json) |
 | Gragyriss, Captor of Princesses | 304354 | [304354-gragyriss-captor-of-princesses.json](./304354-gragyriss-captor-of-princesses.json) |
+| Graham Gooch World Class Cricket | 14248 | [14248-graham-gooch-world-class-cricket.json](./14248-graham-gooch-world-class-cricket.json) |
 | Grail Tale | 231945 | [231945-grail-tale.json](./231945-grail-tale.json) |
 | Grain Sling | 273916 | [273916-grain-sling.json](./273916-grain-sling.json) |
 | Grainwind Incident 77 | 229358 | [229358-grainwind-incident-77.json](./229358-grainwind-incident-77.json) |
