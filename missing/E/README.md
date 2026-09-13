@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Songs of Regency | 227861 | [227861-europa-universalis-iv-songs-of-regency.json](./227861-europa-universalis-iv-songs-of-regency.json) |
 | Europa Universalis IV: Ultimate Sprite Pack | 284902 | [284902-europa-universalis-iv-ultimate-sprite-pack.json](./284902-europa-universalis-iv-ultimate-sprite-pack.json) |
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
+| Europa Universalis: Rome - Gold Edition | 27829 | [27829-europa-universalis-rome-gold-edition.json](./27829-europa-universalis-rome-gold-edition.json) |
 | Europe Front II | 200741 | [200741-europe-front-ii.json](./200741-europe-front-ii.json) |
 | European Card Wars | 291229 | [291229-european-card-wars.json](./291229-european-card-wars.json) |
 | European Football Champ | 39672 | [39672-european-football-champ.json](./39672-european-football-champ.json) |
