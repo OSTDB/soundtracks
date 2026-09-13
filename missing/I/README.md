@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulse!: Brick breaker | 253016 | [253016-impulse-brick-breaker.json](./253016-impulse-brick-breaker.json) |
 | Imugi | 158676 | [158676-imugi.json](./158676-imugi.json) |
 | Imvi: Echoes of Harmony | 340748 | [340748-imvi-echoes-of-harmony.json](./340748-imvi-echoes-of-harmony.json) |
+| IMVU | 98279 | [98279-imvu.json](./98279-imvu.json) |
 | In A Dark Cave | 179175 | [179175-in-a-dark-cave.json](./179175-in-a-dark-cave.json) |
 | In a search of a new home | 133407 | [133407-in-a-search-of-a-new-home.json](./133407-in-a-search-of-a-new-home.json) |
 | In another world, I will attain my dream of ALL I CAN SEX! | 82896 | [82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json](./82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json) |
@@ -1116,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
 | Into the Mine | 333024 | [333024-into-the-mine.json](./333024-into-the-mine.json) |
 | Into The Mist 2: The Cult | 134010 | [134010-into-the-mist-2-the-cult.json](./134010-into-the-mist-2-the-cult.json) |
+| Into the Radius | 115062 | [115062-into-the-radius.json](./115062-into-the-radius.json) |
 | Into the Soup | 126554 | [126554-into-the-soup.json](./126554-into-the-soup.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
