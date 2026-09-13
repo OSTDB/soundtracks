@@ -2860,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
+| Mist Survival | 108349 | [108349-mist-survival.json](./108349-mist-survival.json) |
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
