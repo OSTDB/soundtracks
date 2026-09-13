@@ -1718,6 +1718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
 | Bio Force Ape | 19378 | [19378-bio-force-ape.json](./19378-bio-force-ape.json) |
+| Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
 | Bio-Hazard Battle | 4517 | [4517-bio-hazard-battle.json](./4517-bio-hazard-battle.json) |
 | Bio-Synthetica | 235199 | [235199-bio-synthetica.json](./235199-bio-synthetica.json) |
@@ -2470,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
 | Blue's Clues: Blue's Alphabet Book | 49911 | [49911-blues-clues-blues-alphabet-book.json](./49911-blues-clues-blues-alphabet-book.json) |
 | Blue's Clues: Preschool | 23776 | [23776-blues-clues-preschool.json](./23776-blues-clues-preschool.json) |
+| Blue's Journey | 39653 | [39653-blues-journey.json](./39653-blues-journey.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
 | BlueGlow | 116283 | [116283-blueglow.json](./116283-blueglow.json) |
@@ -2659,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
 | Bomberman Nightmare | 142492 | [142492-bomberman-nightmare.json](./142492-bomberman-nightmare.json) |
 | Bomberman Selection | 56467 | [56467-bomberman-selection.json](./56467-bomberman-selection.json) |
+| Bomberman Ultra | 44572 | [44572-bomberman-ultra.json](./44572-bomberman-ultra.json) |
 | Bomberman: Bakufuu Sentai Bomberman | 59395 | [59395-bomberman-bakufuu-sentai-bomberman.json](./59395-bomberman-bakufuu-sentai-bomberman.json) |
 | Bomberman: Panic Bomber | 162409 | [162409-bomberman-panic-bomber.json](./162409-bomberman-panic-bomber.json) |
 | Bomberman: Panic Bomber | 39663 | [39663-bomberman-panic-bomber.json](./39663-bomberman-panic-bomber.json) |
