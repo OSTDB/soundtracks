@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Dragons | 316063 | [316063-epic-dragons.json](./316063-epic-dragons.json) |
 | Epic Dumpster Bear | 19615 | [19615-epic-dumpster-bear.json](./19615-epic-dumpster-bear.json) |
 | Epic Escapes Dark Seas, Mysteries of Ancient Inventors Atlantis, Elementary My Dear Majesty | 201273 | [201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json](./201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json) |
+| Epic Fly | 22346 | [22346-epic-fly.json](./22346-epic-fly.json) |
 | Epic Food Fight | 114402 | [114402-epic-food-fight.json](./114402-epic-food-fight.json) |
 | Epic Food Fight VR | 117075 | [117075-epic-food-fight-vr.json](./117075-epic-food-fight-vr.json) |
 | Epic Landscapes Jigsaw | 354404 | [354404-epic-landscapes-jigsaw.json](./354404-epic-landscapes-jigsaw.json) |
