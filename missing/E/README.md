@@ -1170,13 +1170,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Espire 1: Sydney Sneakabouts Mission Pack | 305520 | [305520-espire-1-sydney-sneakabouts-mission-pack.json](./305520-espire-1-sydney-sneakabouts-mission-pack.json) |
 | Espire 1: VR Operative | 68569 | [68569-espire-1-vr-operative.json](./68569-espire-1-vr-operative.json) |
 | ESPN Baseball 2K4 | 43249 | [43249-espn-baseball-2k4.json](./43249-espn-baseball-2k4.json) |
+| ESPN Baseball Tonight | 5380 | [5380-espn-baseball-tonight.json](./5380-espn-baseball-tonight.json) |
 | ESPN College Hoops | 5823 | [5823-espn-college-hoops.json](./5823-espn-college-hoops.json) |
 | ESPN College Hoops 2K5 | 5824 | [5824-espn-college-hoops-2k5.json](./5824-espn-college-hoops-2k5.json) |
 | ESPN Let's Play Beach Volleyball | 37117 | [37117-espn-lets-play-beach-volleyball.json](./37117-espn-lets-play-beach-volleyball.json) |
 | ESPN Let's Play Soccer | 37119 | [37119-espn-lets-play-soccer.json](./37119-espn-lets-play-soccer.json) |
 | ESPN Let's Play Tennis | 37118 | [37118-espn-lets-play-tennis.json](./37118-espn-lets-play-tennis.json) |
+| ESPN National Hockey Night | 5381 | [5381-espn-national-hockey-night.json](./5381-espn-national-hockey-night.json) |
 | ESPN NBA 2Night | 78678 | [78678-espn-nba-2night.json](./78678-espn-nba-2night.json) |
 | ESPN NHL 2K5 | 5826 | [5826-espn-nhl-2k5.json](./5826-espn-nhl-2k5.json) |
+| ESPN Sunday Night NFL | 5382 | [5382-espn-sunday-night-nfl.json](./5382-espn-sunday-night-nfl.json) |
 | ESPNU College Town | 93571 | [93571-espnu-college-town.json](./93571-espnu-college-town.json) |
 | Esport Club Tycoon | 197370 | [197370-esport-club-tycoon.json](./197370-esport-club-tycoon.json) |
 | Essence Child | 260967 | [260967-essence-child.json](./260967-essence-child.json) |
@@ -1192,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
 | Etched Memories | 382765 | [382765-etched-memories.json](./382765-etched-memories.json) |
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
+| Eternal Champions: Challenge from the Dark Side | 5383 | [5383-eternal-champions-challenge-from-the-dark-side.json](./5383-eternal-champions-challenge-from-the-dark-side.json) |
 | Eternal Chrysalis Dream | 395569 | [395569-eternal-chrysalis-dream.json](./395569-eternal-chrysalis-dream.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Doom | 140521 | [140521-eternal-doom.json](./140521-eternal-doom.json) |
