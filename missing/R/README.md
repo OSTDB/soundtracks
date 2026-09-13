@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Racer | 148469 | [148469-retro-racer.json](./148469-retro-racer.json) |
 | Retro Revolution 2 | 63230 | [63230-retro-revolution-2.json](./63230-retro-revolution-2.json) |
+| Retro Rewind: Video Store Simulator | 346334 | [346334-retro-rewind-video-store-simulator.json](./346334-retro-rewind-video-store-simulator.json) |
 | Retro Road Rumble | 84843 | [84843-retro-road-rumble.json](./84843-retro-road-rumble.json) |
 | Retro RPG Online 2 | 124233 | [124233-retro-rpg-online-2.json](./124233-retro-rpg-online-2.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
@@ -1532,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders World: I Want to Jump | 200653 | [200653-riders-world-i-want-to-jump.json](./200653-riders-world-i-want-to-jump.json) |
 | Riders World: I Want to Race | 200654 | [200654-riders-world-i-want-to-race.json](./200654-riders-world-i-want-to-race.json) |
 | Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
+| Ridge Racer 7 | 7441 | [7441-ridge-racer-7.json](./7441-ridge-racer-7.json) |
 | Ridge Racer 8 | 339264 | [339264-ridge-racer-8.json](./339264-ridge-racer-8.json) |
 | Ridge Racer Revolution | 18697 | [18697-ridge-racer-revolution.json](./18697-ridge-racer-revolution.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
@@ -2527,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule No. 2 | 199562 | [199562-rule-no-2.json](./199562-rule-no-2.json) |
 | Rule the Waves | 59943 | [59943-rule-the-waves.json](./59943-rule-the-waves.json) |
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
+| Rule34dle | 361573 | [361573-rule34dle.json](./361573-rule34dle.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
@@ -2661,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
 | Rush | 272586 | [272586-rush.json](./272586-rush.json) |
+| Rush | 7634 | [7634-rush.json](./7634-rush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
