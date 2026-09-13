@@ -3005,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
 | The Neverending Story II | 80515 | [80515-the-neverending-story-ii.json](./80515-the-neverending-story-ii.json) |
 | The Neverhood | 2164 | [2164-the-neverhood.json](./2164-the-neverhood.json) |
+| The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
 | The New California | 61649 | [61649-the-new-california.json](./61649-the-new-california.json) |
 | The New Resistance | 196234 | [196234-the-new-resistance.json](./196234-the-new-resistance.json) |
 | The New Universes: Eine Neue Reise Beginnt - Chapter 1 | 120391 | [120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json](./120391-the-new-universes-eine-neue-reise-beginnt-chapter-1.json) |
@@ -5456,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TonpaQuest | 178043 | [178043-tonpaquest.json](./178043-tonpaquest.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
+| Tony Hawk: Shred | 5230 | [5230-tony-hawk-shred.json](./5230-tony-hawk-shred.json) |
 | Tony Hawk's American Sk8land | 364480 | [364480-tony-hawks-american-sk8land.json](./364480-tony-hawks-american-sk8land.json) |
 | Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
 | Tony Hawk's Existential Nightmare | 178029 | [178029-tony-hawks-existential-nightmare.json](./178029-tony-hawks-existential-nightmare.json) |
@@ -5514,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
 | Top Truck Driver | 156642 | [156642-top-truck-driver.json](./156642-top-truck-driver.json) |
 | Top Trumps Adventures Vol. 1: Horror & Predators | 78667 | [78667-top-trumps-adventures-vol-1-horror-and-predators.json](./78667-top-trumps-adventures-vol-1-horror-and-predators.json) |
+| Top Trumps Adventures! | 5236 | [5236-top-trumps-adventures.json](./5236-top-trumps-adventures.json) |
 | Top Trumps Turbo | 35897 | [35897-top-trumps-turbo.json](./35897-top-trumps-turbo.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
@@ -5646,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Spies! 4: Around the World | 304040 | [304040-totally-spies-4-around-the-world.json](./304040-totally-spies-4-around-the-world.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
+| Totally Spies! Totally Party | 5238 | [5238-totally-spies-totally-party.json](./5238-totally-spies-totally-party.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
@@ -6891,6 +6895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Calibration | 81233 | [81233-tv-calibration.json](./81233-tv-calibration.json) |
 | TV Farm | 355530 | [355530-tv-farm.json](./355530-tv-farm.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
+| TV Show King Party | 5248 | [5248-tv-show-king-party.json](./5248-tv-show-king-party.json) |
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
