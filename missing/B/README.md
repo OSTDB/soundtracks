@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beambender | 14293 | [14293-beambender.json](./14293-beambender.json) |
 | Beamdown | 338198 | [338198-beamdown.json](./338198-beamdown.json) |
 | Bean Battle Brawl | 338199 | [338199-bean-battle-brawl.json](./338199-bean-battle-brawl.json) |
+| Bean Battles | 106556 | [106556-bean-battles.json](./106556-bean-battles.json) |
 | Bean Story | 203904 | [203904-bean-story.json](./203904-bean-story.json) |
 | Bean There Won That | 311497 | [311497-bean-there-won-that.json](./311497-bean-there-won-that.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
@@ -1102,6 +1103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
 | Bear With Me: The Complete Collection | 116990 | [116990-bear-with-me-the-complete-collection.json](./116990-bear-with-me-the-complete-collection.json) |
+| Bear With Me: The Lost Robots | 117105 | [117105-bear-with-me-the-lost-robots.json](./117105-bear-with-me-the-lost-robots.json) |
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Bearly Baking | 355040 | [355040-bearly-baking.json](./355040-bearly-baking.json) |
