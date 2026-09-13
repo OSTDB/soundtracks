@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
 | Making History: The Calm & The Storm | 15043 | [15043-making-history-the-calm-and-the-storm.json](./15043-making-history-the-calm-and-the-storm.json) |
+| Making History: The First World War | 132316 | [132316-making-history-the-first-world-war.json](./132316-making-history-the-first-world-war.json) |
 | Making Lovers: Geki Icha After Story Vol.01 | 108975 | [108975-making-lovers-geki-icha-after-story-vol-01.json](./108975-making-lovers-geki-icha-after-story-vol-01.json) |
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
