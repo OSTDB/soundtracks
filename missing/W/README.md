@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War III - Collector's Edition | 27768 | [27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json](./27768-warhammer-40-000-dawn-of-war-iii-collectors-edition.json) |
 | Warhammer 40,000: Dawn of War III - Limited Edition | 27769 | [27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json](./27769-warhammer-40-000-dawn-of-war-iii-limited-edition.json) |
 | Warhammer 40,000: Eternal Crusade - Belial War Pack | 225868 | [225868-warhammer-40-000-eternal-crusade-belial-war-pack.json](./225868-warhammer-40-000-eternal-crusade-belial-war-pack.json) |
+| Warhammer 40,000: Fire Warrior | 9550 | [9550-warhammer-40-000-fire-warrior.json](./9550-warhammer-40-000-fire-warrior.json) |
 | Warhammer 40,000: Freeblade | 34420 | [34420-warhammer-40-000-freeblade.json](./34420-warhammer-40-000-freeblade.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adepta Sororitas | 230812 | [230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json](./230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adeptus Mechanicus | 186891 | [186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json](./186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json) |
@@ -512,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
 | Waves of the Imperial Garden | 343810 | [343810-waves-of-the-imperial-garden.json](./343810-waves-of-the-imperial-garden.json) |
 | Waves: Arena Tactics | 93630 | [93630-waves-arena-tactics.json](./93630-waves-arena-tactics.json) |
+| Wavetale | 165309 | [165309-wavetale.json](./165309-wavetale.json) |
 | Waving Around | 347174 | [347174-waving-around.json](./347174-waving-around.json) |
 | Wawa Neko no Shima | 206175 | [206175-wawa-neko-no-shima.json](./206175-wawa-neko-no-shima.json) |
 | Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
@@ -1647,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Boxing Challenge | 237372 | [237372-world-boxing-challenge.json](./237372-world-boxing-challenge.json) |
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
 | World Circuit | 274725 | [274725-world-circuit.json](./274725-world-circuit.json) |
+| World Circuit: The Grand Prix Race Simulation | 13074 | [13074-world-circuit-the-grand-prix-race-simulation.json](./13074-world-circuit-the-grand-prix-race-simulation.json) |
 | World Class | 244508 | [244508-world-class.json](./244508-world-class.json) |
 | World Class Baseball | 37734 | [37734-world-class-baseball.json](./37734-world-class-baseball.json) |
 | World Class Fussball/Soccer | 175907 | [175907-world-class-fussball-soccer.json](./175907-world-class-fussball-soccer.json) |
