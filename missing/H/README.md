@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
 | Hello inc VR | 28941 | [28941-hello-inc-vr.json](./28941-hello-inc-vr.json) |
+| Hello Kitty and Friends: Happiness Parade | 204458 | [204458-hello-kitty-and-friends-happiness-parade.json](./204458-hello-kitty-and-friends-happiness-parade.json) |
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
 | Hello Kitty Detective Games | 279608 | [279608-hello-kitty-detective-games.json](./279608-hello-kitty-detective-games.json) |
 | Hello Kitty Discovering The World | 279610 | [279610-hello-kitty-discovering-the-world.json](./279610-hello-kitty-discovering-the-world.json) |
@@ -1301,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
+| Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
 | Heroism | 155055 | [155055-heroism.json](./155055-heroism.json) |
 | Heroki | 96612 | [96612-heroki.json](./96612-heroki.json) |
 | Heron: Steam Machine | 67239 | [67239-heron-steam-machine.json](./67239-heron-steam-machine.json) |
@@ -2028,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
 | Hooked on Bass Fishing | 78610 | [78610-hooked-on-bass-fishing.json](./78610-hooked-on-bass-fishing.json) |
 | Hooked On Speed | 316604 | [316604-hooked-on-speed.json](./316604-hooked-on-speed.json) |
+| Hooked on You: A Dead by Daylight Dating Sim | 202141 | [202141-hooked-on-you-a-dead-by-daylight-dating-sim.json](./202141-hooked-on-you-a-dead-by-daylight-dating-sim.json) |
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
 | Hooligans: Storm Over Europe | 73846 | [73846-hooligans-storm-over-europe.json](./73846-hooligans-storm-over-europe.json) |
@@ -2141,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Magic | 406726 | [406726-horse-magic.json](./406726-horse-magic.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
+| Horse Tales: Emerald Valley Ranch | 206679 | [206679-horse-tales-emerald-valley-ranch.json](./206679-horse-tales-emerald-valley-ranch.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
 | Hose Hero | 314032 | [314032-hose-hero.json](./314032-hose-hero.json) |
@@ -2438,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
 | Humankind: Cultures of Africa | 188046 | [188046-humankind-cultures-of-africa.json](./188046-humankind-cultures-of-africa.json) |
+| Humankind: Cultures of Latin America | 204362 | [204362-humankind-cultures-of-latin-america.json](./204362-humankind-cultures-of-latin-america.json) |
 | Humankind: Day One Edition | 139935 | [139935-humankind-day-one-edition.json](./139935-humankind-day-one-edition.json) |
 | Humankind: Definitive Edition | 283778 | [283778-humankind-definitive-edition.json](./283778-humankind-definitive-edition.json) |
 | Humanoid | 263788 | [263788-humanoid.json](./263788-humanoid.json) |
@@ -2594,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Frenzy | 152828 | [152828-hyper-frenzy.json](./152828-hyper-frenzy.json) |
 | Hyper Front | 187492 | [187492-hyper-front.json](./187492-hyper-front.json) |
 | Hyper Gauntlet: Legacy of Nozzlethruster III | 134697 | [134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json](./134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json) |
+| Hyper Gunsport | 204825 | [204825-hyper-gunsport.json](./204825-hyper-gunsport.json) |
 | Hyper Hentai Devil Hell | 247781 | [247781-hyper-hentai-devil-hell.json](./247781-hyper-hentai-devil-hell.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
 | Hyper Paddle Block Rusher | 222323 | [222323-hyper-paddle-block-rusher.json](./222323-hyper-paddle-block-rusher.json) |
