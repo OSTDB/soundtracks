@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 8th Melee: Hyper State | 330720 | [330720-the-8th-melee-hyper-state.json](./330720-the-8th-melee-hyper-state.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
+| The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
 | The Abbey: Director's cut | 115606 | [115606-the-abbey-directors-cut.json](./115606-the-abbey-directors-cut.json) |
 | The Abduction of Bacon at Dawn | 120356 | [120356-the-abduction-of-bacon-at-dawn.json](./120356-the-abduction-of-bacon-at-dawn.json) |
 | The Abominable Snowmen | 15586 | [15586-the-abominable-snowmen.json](./15586-the-abominable-snowmen.json) |
@@ -1667,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
 | The Collection | 296390 | [296390-the-collection.json](./296390-the-collection.json) |
 | The Collector | 238210 | [238210-the-collector.json](./238210-the-collector.json) |
+| The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
 | The Colossus Is Coming: The Interactive Experience | 180287 | [180287-the-colossus-is-coming-the-interactive-experience.json](./180287-the-colossus-is-coming-the-interactive-experience.json) |
@@ -1756,6 +1758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Curse of Mount Madre | 328280 | [328280-the-curse-of-mount-madre.json](./328280-the-curse-of-mount-madre.json) |
 | The Curse of Ra | 127340 | [127340-the-curse-of-ra.json](./127340-the-curse-of-ra.json) |
 | The Curse of the Egyptian Pyramid: Remaster Edition | 278698 | [278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json](./278698-the-curse-of-the-egyptian-pyramid-remaster-edition.json) |
+| The Curse of the Werewolves | 17705 | [17705-the-curse-of-the-werewolves.json](./17705-the-curse-of-the-werewolves.json) |
 | The Curse of Trasmoz | 135307 | [135307-the-curse-of-trasmoz.json](./135307-the-curse-of-trasmoz.json) |
 | The Curse of Unatxi Kamala | 294704 | [294704-the-curse-of-unatxi-kamala.json](./294704-the-curse-of-unatxi-kamala.json) |
 | The Cursed Hotel | 398325 | [398325-the-cursed-hotel.json](./398325-the-cursed-hotel.json) |
@@ -3297,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Primrose Theater | 335860 | [335860-the-primrose-theater.json](./335860-the-primrose-theater.json) |
 | The Prince is Dead | 239877 | [239877-the-prince-is-dead.json](./239877-the-prince-is-dead.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
+| The Princess and the Frog | 17753 | [17753-the-princess-and-the-frog.json](./17753-the-princess-and-the-frog.json) |
 | The Princess in the Mirror | 298885 | [298885-the-princess-in-the-mirror.json](./298885-the-princess-in-the-mirror.json) |
 | The Princess of the Tower wants a Hero | 200632 | [200632-the-princess-of-the-tower-wants-a-hero.json](./200632-the-princess-of-the-tower-wants-a-hero.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
@@ -5144,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Limit Harvest | 248045 | [248045-time-limit-harvest.json](./248045-time-limit-harvest.json) |
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
+| Time Mysteries 3: The Final Enigma | 17764 | [17764-time-mysteries-3-the-final-enigma.json](./17764-time-mysteries-3-the-final-enigma.json) |
 | Time Mysteries Collection | 53801 | [53801-time-mysteries-collection.json](./53801-time-mysteries-collection.json) |
 | Time Mysteries: Inheritance - Remastered | 35726 | [35726-time-mysteries-inheritance-remastered.json](./35726-time-mysteries-inheritance-remastered.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
@@ -5355,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be A Dummy Head VR: Hotel Elevator Story | 118378 | [118378-to-be-a-dummy-head-vr-hotel-elevator-story.json](./118378-to-be-a-dummy-head-vr-hotel-elevator-story.json) |
 | To Be A King: Volume 1 | 254754 | [254754-to-be-a-king-volume-1.json](./254754-to-be-a-king-volume-1.json) |
 | To be on Top | 55023 | [55023-to-be-on-top.json](./55023-to-be-on-top.json) |
+| To Be or Not to Be | 17870 | [17870-to-be-or-not-to-be.json](./17870-to-be-or-not-to-be.json) |
 | To Be With You | 152890 | [152890-to-be-with-you.json](./152890-to-be-with-you.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
 | To Die in the Shade | 281425 | [281425-to-die-in-the-shade.json](./281425-to-die-in-the-shade.json) |
@@ -6699,6 +6705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Construction Yard | 305135 | [305135-trials-construction-yard.json](./305135-trials-construction-yard.json) |
 | Trials Evolution: Gold Edition | 20748 | [20748-trials-evolution-gold-edition.json](./20748-trials-evolution-gold-edition.json) |
 | Trials Fusion | 3191 | [3191-trials-fusion.json](./3191-trials-fusion.json) |
+| Trials Fusion: Awesome Level Max | 19951 | [19951-trials-fusion-awesome-level-max.json](./19951-trials-fusion-awesome-level-max.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Guinevere | 127611 | [127611-trials-of-guinevere.json](./127611-trials-of-guinevere.json) |
