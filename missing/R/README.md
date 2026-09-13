@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Horizon | 128643 | [128643-red-horizon.json](./128643-red-horizon.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
+| Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
 | Red Letter Day 2 | 253043 | [253043-red-letter-day-2.json](./253043-red-letter-day-2.json) |
 | Red Lightning | 57630 | [57630-red-lightning.json](./57630-red-lightning.json) |
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
 | Resurrector | 126624 | [126624-resurrector.json](./126624-resurrector.json) |
+| Retention | 36028 | [36028-retention.json](./36028-retention.json) |
 | Retention: A Love Story | 149597 | [149597-retention-a-love-story.json](./149597-retention-a-love-story.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
 | Retool | 32974 | [32974-retool.json](./32974-retool.json) |
@@ -1257,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
 | Retro First Friday Collection #3 | 186295 | [186295-retro-first-friday-collection-3.json](./186295-retro-first-friday-collection-3.json) |
 | Retro First Friday Collection #4 | 186296 | [186296-retro-first-friday-collection-4.json](./186296-retro-first-friday-collection-4.json) |
+| Retro Game Crunch | 36349 | [36349-retro-game-crunch.json](./36349-retro-game-crunch.json) |
 | Retro Game Pack | 147902 | [147902-retro-game-pack.json](./147902-retro-game-pack.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
 | Retro Garbage | 62675 | [62675-retro-garbage.json](./62675-retro-garbage.json) |
@@ -1771,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Girls Zero | 137195 | [137195-river-city-girls-zero.json](./137195-river-city-girls-zero.json) |
 | River City Melee: Battle Royal Special | 63712 | [63712-river-city-melee-battle-royal-special.json](./63712-river-city-melee-battle-royal-special.json) |
 | River City Saga: Three Kingdoms Next | 321749 | [321749-river-city-saga-three-kingdoms-next.json](./321749-river-city-saga-three-kingdoms-next.json) |
+| River City: Knights of Justice | 36549 | [36549-river-city-knights-of-justice.json](./36549-river-city-knights-of-justice.json) |
 | River Crossing IQ - Trivia Quiz | 117749 | [117749-river-crossing-iq-trivia-quiz.json](./117749-river-crossing-iq-trivia-quiz.json) |
 | River King: A Wonderful Journey | 20518 | [20518-river-king-a-wonderful-journey.json](./20518-river-king-a-wonderful-journey.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
