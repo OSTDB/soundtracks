@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Descent | 370670 | [370670-darkest-descent.json](./370670-darkest-descent.json) |
 | Darkest Dungeon II: Oblivion Edition | 298850 | [298850-darkest-dungeon-ii-oblivion-edition.json](./298850-darkest-dungeon-ii-oblivion-edition.json) |
 | Darkest Dungeon: The Butcher's Circus | 172134 | [172134-darkest-dungeon-the-butchers-circus.json](./172134-darkest-dungeon-the-butchers-circus.json) |
+| Darkest Dungeon: The Shieldbreaker | 111167 | [111167-darkest-dungeon-the-shieldbreaker.json](./111167-darkest-dungeon-the-shieldbreaker.json) |
 | Darkest Hour: A Hearts of Iron Game | 2012 | [2012-darkest-hour-a-hearts-of-iron-game.json](./2012-darkest-hour-a-hearts-of-iron-game.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
 | Darkest Rogue: Slingshot RPG | 174312 | [174312-darkest-rogue-slingshot-rpg.json](./174312-darkest-rogue-slingshot-rpg.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadrock Salvation | 382752 | [382752-deadrock-salvation.json](./382752-deadrock-salvation.json) |
 | Deadrop | 210684 | [210684-deadrop.json](./210684-deadrop.json) |
 | DeadShore | 356641 | [356641-deadshore.json](./356641-deadshore.json) |
+| Deadside | 109666 | [109666-deadside.json](./109666-deadside.json) |
 | Deadside: Beehive Skin Set | 338015 | [338015-deadside-beehive-skin-set.json](./338015-deadside-beehive-skin-set.json) |
 | Deadside: Bushranger Skin Set | 338024 | [338024-deadside-bushranger-skin-set.json](./338024-deadside-bushranger-skin-set.json) |
 | Deadside: Dragonfly Skin Set | 338023 | [338023-deadside-dragonfly-skin-set.json](./338023-deadside-dragonfly-skin-set.json) |
@@ -2037,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
 | Dishwasher | 103436 | [103436-dishwasher.json](./103436-dishwasher.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
+| Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
 | Dislyte | 172684 | [172684-dislyte.json](./172684-dislyte.json) |
 | Dismal Anhedonia Land | 179654 | [179654-dismal-anhedonia-land.json](./179654-dismal-anhedonia-land.json) |
@@ -2537,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country: Barrel Maze | 231637 | [231637-donkey-kong-country-barrel-maze.json](./231637-donkey-kong-country-barrel-maze.json) |
 | Donkey Kong Country: Pacifist Mode | 361715 | [361715-donkey-kong-country-pacifist-mode.json](./361715-donkey-kong-country-pacifist-mode.json) |
 | Donkey Kong Craze | 191268 | [191268-donkey-kong-craze.json](./191268-donkey-kong-craze.json) |
+| Donkey Kong II | 112423 | [112423-donkey-kong-ii.json](./112423-donkey-kong-ii.json) |
 | Donkey Kong Jr. | 257639 | [257639-donkey-kong-jr.json](./257639-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257640 | [257640-donkey-kong-jr.json](./257640-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
@@ -3296,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
 | DreamWoods 2 | 361164 | [361164-dreamwoods-2.json](./361164-dreamwoods-2.json) |
 | Dreamworks 2-in-1 Party Pack | 130311 | [130311-dreamworks-2-in-1-party-pack.json](./130311-dreamworks-2-in-1-party-pack.json) |
+| DreamWorks Dragons: Dawn of New Riders | 111629 | [111629-dreamworks-dragons-dawn-of-new-riders.json](./111629-dreamworks-dragons-dawn-of-new-riders.json) |
 | DreamWorks Dragons: Legends of the Nine Realms | 202418 | [202418-dreamworks-dragons-legends-of-the-nine-realms.json](./202418-dreamworks-dragons-legends-of-the-nine-realms.json) |
 | Dreamworks Interactive DVD Game | 364523 | [364523-dreamworks-interactive-dvd-game.json](./364523-dreamworks-interactive-dvd-game.json) |
 | Dreamworks' Shark Tale | 4148 | [4148-dreamworks-shark-tale.json](./4148-dreamworks-shark-tale.json) |
@@ -3699,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon No Dungeon: Reaper | 171022 | [171022-dungeon-no-dungeon-reaper.json](./171022-dungeon-no-dungeon-reaper.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
+| Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
 | Dungeon of Erotic Master Reboot | 374614 | [374614-dungeon-of-erotic-master-reboot.json](./374614-dungeon-of-erotic-master-reboot.json) |
 | Dungeon of Memories | 295807 | [295807-dungeon-of-memories.json](./295807-dungeon-of-memories.json) |
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
