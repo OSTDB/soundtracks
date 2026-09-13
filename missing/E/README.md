@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
 | Eden Eternal | 46995 | [46995-eden-eternal.json](./46995-eden-eternal.json) |
+| Eden Genesis | 280561 | [280561-eden-genesis.json](./280561-eden-genesis.json) |
 | Eden Star | 14377 | [14377-eden-star.json](./14377-eden-star.json) |
 | Eden Tactics | 325448 | [325448-eden-tactics.json](./325448-eden-tactics.json) |
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
