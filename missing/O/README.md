@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onimusha: Warlords | 107292 | [107292-onimusha-warlords.json](./107292-onimusha-warlords.json) |
 | Onimusha: Warlords - Genma Seal Box | 294703 | [294703-onimusha-warlords-genma-seal-box.json](./294703-onimusha-warlords-genma-seal-box.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
+| Onirim: Solitaire Card Game | 52282 | [52282-onirim-solitaire-card-game.json](./52282-onirim-solitaire-card-game.json) |
 | Onironauta | 68601 | [68601-onironauta.json](./68601-onironauta.json) |
 | Onironauta Desert Dream | 398341 | [398341-onironauta-desert-dream.json](./398341-onironauta-desert-dream.json) |
 | Onironautilus The Other Side | 398350 | [398350-onironautilus-the-other-side.json](./398350-onironautilus-the-other-side.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRun | 307928 | [307928-outrun.json](./307928-outrun.json) |
 | OutRun | 307929 | [307929-outrun.json](./307929-outrun.json) |
 | Outrunner 2 | 96630 | [96630-outrunner-2.json](./96630-outrunner-2.json) |
+| OutRunners | 39574 | [39574-outrunners.json](./39574-outrunners.json) |
 | Outscore | 182529 | [182529-outscore.json](./182529-outscore.json) |
 | Outshine | 192359 | [192359-outshine.json](./192359-outshine.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
