@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T14:21:42.626Z",
-  "total_missing": 66165,
+  "generated_at": "2026-09-13T14:31:34.445Z",
+  "total_missing": 66168,
   "games": [
     {
       "igdb_id": 306086,
@@ -3701,11 +3701,6 @@
       "igdb_id": 38352,
       "game_name": "Action Pachio",
       "file": "missing/A/38352-action-pachio.json"
-    },
-    {
-      "igdb_id": 128587,
-      "game_name": "Action Painting Pro",
-      "file": "missing/A/128587-action-painting-pro.json"
     },
     {
       "igdb_id": 24858,
@@ -51286,6 +51281,11 @@
       "igdb_id": 157154,
       "game_name": "Codename: Mystery Babylon",
       "file": "missing/C/157154-codename-mystery-babylon.json"
+    },
+    {
+      "igdb_id": 15762,
+      "game_name": "Codename: Panzers - Cold War",
+      "file": "missing/C/15762-codename-panzers-cold-war.json"
     },
     {
       "igdb_id": 640,
@@ -163103,6 +163103,11 @@
       "file": "missing/M/196282-marvellous-journeys-bundle.json"
     },
     {
+      "igdb_id": 15837,
+      "game_name": "Marvelous: Mouhitotsu no Takarajima",
+      "file": "missing/M/15837-marvelous-mouhitotsu-no-takarajima.json"
+    },
+    {
       "igdb_id": 314072,
       "game_name": "Mary Had A Lost Lamb",
       "file": "missing/M/314072-mary-had-a-lost-lamb.json"
@@ -215841,6 +215846,11 @@
       "igdb_id": 126565,
       "game_name": "Queeny Army",
       "file": "missing/Q/126565-queeny-army.json"
+    },
+    {
+      "igdb_id": 15741,
+      "game_name": "Quell",
+      "file": "missing/Q/15741-quell.json"
     },
     {
       "igdb_id": 25070,
@@ -320061,6 +320071,11 @@
       "igdb_id": 257947,
       "game_name": "Wild",
       "file": "missing/W/257947-wild.json"
+    },
+    {
+      "igdb_id": 15840,
+      "game_name": "Wild 9",
+      "file": "missing/W/15840-wild-9.json"
     },
     {
       "igdb_id": 208032,
