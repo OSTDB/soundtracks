@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Bubble | 172100 | [172100-fairy-bubble.json](./172100-fairy-bubble.json) |
 | Fairy Escape | 99632 | [99632-fairy-escape.json](./99632-fairy-escape.json) |
 | Fairy Fencer F: Advent Dark Force - Deluxe Edition | 186883 | [186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json](./186883-fairy-fencer-f-advent-dark-force-deluxe-edition.json) |
+| Fairy Fencer F: Refrain Chord | 203092 | [203092-fairy-fencer-f-refrain-chord.json](./203092-fairy-fencer-f-refrain-chord.json) |
 | Fairy Fencer F: Refrain Chord - Limited Edition | 205257 | [205257-fairy-fencer-f-refrain-chord-limited-edition.json](./205257-fairy-fencer-f-refrain-chord-limited-edition.json) |
 | Fairy Fire: Defender of the Fairies | 132775 | [132775-fairy-fire-defender-of-the-fairies.json](./132775-fairy-fire-defender-of-the-fairies.json) |
 | Fairy Glade | 175980 | [175980-fairy-glade.json](./175980-fairy-glade.json) |
@@ -2481,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freelancer Simulator 2 | 135308 | [135308-freelancer-simulator-2.json](./135308-freelancer-simulator-2.json) |
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
+| Freeride | 204514 | [204514-freeride.json](./204514-freeride.json) |
 | FreeRunners | 156617 | [156617-freerunners.json](./156617-freerunners.json) |
 | Freespace 2 | 722 | [722-freespace-2.json](./722-freespace-2.json) |
 | Freestead Castle Defense | 292553 | [292553-freestead-castle-defense.json](./292553-freestead-castle-defense.json) |
