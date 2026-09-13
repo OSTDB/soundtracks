@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T20:31:29.439Z",
-  "total_missing": 67067,
+  "generated_at": "2026-09-13T20:41:29.001Z",
+  "total_missing": 67076,
   "games": [
     {
       "igdb_id": 306086,
@@ -3901,11 +3901,6 @@
       "igdb_id": 242531,
       "game_name": "Adibou Nature et Sciences",
       "file": "missing/A/242531-adibou-nature-et-sciences.json"
-    },
-    {
-      "igdb_id": 242530,
-      "game_name": "Adibou: Aventure dans le corps humain",
-      "file": "missing/A/242530-adibou-aventure-dans-le-corps-humain.json"
     },
     {
       "igdb_id": 242527,
@@ -17171,6 +17166,11 @@
       "igdb_id": 91967,
       "game_name": "Ashi Wash",
       "file": "missing/A/91967-ashi-wash.json"
+    },
+    {
+      "igdb_id": 206309,
+      "game_name": "Ashigaru: The Last Shogun",
+      "file": "missing/A/206309-ashigaru-the-last-shogun.json"
     },
     {
       "igdb_id": 132762,
@@ -33796,6 +33796,11 @@
       "igdb_id": 20590,
       "game_name": "Bogey Dead 6",
       "file": "missing/B/20590-bogey-dead-6.json"
+    },
+    {
+      "igdb_id": 206463,
+      "game_name": "Boggle",
+      "file": "missing/B/206463-boggle.json"
     },
     {
       "igdb_id": 55087,
@@ -75421,6 +75426,11 @@
       "igdb_id": 65537,
       "game_name": "Doraemon no Study Boy: Kuku Game",
       "file": "missing/D/65537-doraemon-no-study-boy-kuku-game.json"
+    },
+    {
+      "igdb_id": 206815,
+      "game_name": "Doraemon Story of Seasons: Friends of the Great Kingdom",
+      "file": "missing/D/206815-doraemon-story-of-seasons-friends-of-the-great-kingdom.json"
     },
     {
       "igdb_id": 327575,
@@ -127863,6 +127873,11 @@
       "file": "missing/H/67994-horse-racing-manager-2.json"
     },
     {
+      "igdb_id": 206679,
+      "game_name": "Horse Tales: Emerald Valley Ranch",
+      "file": "missing/H/206679-horse-tales-emerald-valley-ranch.json"
+    },
+    {
       "igdb_id": 376483,
       "game_name": "Horses of Hoofprint Bay",
       "file": "missing/H/376483-horses-of-hoofprint-bay.json"
@@ -130128,6 +130143,11 @@
       "file": "missing/H/134697-hyper-gauntlet-legacy-of-nozzlethruster-iii.json"
     },
     {
+      "igdb_id": 204825,
+      "game_name": "Hyper Gunsport",
+      "file": "missing/H/204825-hyper-gunsport.json"
+    },
+    {
       "igdb_id": 247781,
       "game_name": "Hyper Hentai Devil Hell",
       "file": "missing/H/247781-hyper-hentai-devil-hell.json"
@@ -131941,6 +131961,11 @@
       "igdb_id": 78005,
       "game_name": "ID4 Mission Disk 2: Alien Science Officer",
       "file": "missing/I/78005-id4-mission-disk-2-alien-science-officer.json"
+    },
+    {
+      "igdb_id": 204951,
+      "game_name": "Idea",
+      "file": "missing/I/204951-idea.json"
     },
     {
       "igdb_id": 125953,
@@ -190043,6 +190068,11 @@
       "file": "missing/N/62225-nira-intense-import-drag-racing.json"
     },
     {
+      "igdb_id": 206735,
+      "game_name": "Niravasi",
+      "file": "missing/N/206735-niravasi.json"
+    },
+    {
       "igdb_id": 309326,
       "game_name": "Niraya of",
       "file": "missing/N/309326-niraya-of.json"
@@ -194101,6 +194131,11 @@
       "igdb_id": 353282,
       "game_name": "OlliOlli World: Close Encounter Skate Deck",
       "file": "missing/O/353282-olliolli-world-close-encounter-skate-deck.json"
+    },
+    {
+      "igdb_id": 205034,
+      "game_name": "OlliOlli World: Void Riders",
+      "file": "missing/O/205034-olliolli-world-void-riders.json"
     },
     {
       "igdb_id": 46025,
@@ -281113,6 +281148,11 @@
       "file": "missing/T/261797-the-blobjob.json"
     },
     {
+      "igdb_id": 204712,
+      "game_name": "The Block",
+      "file": "missing/T/204712-the-block.json"
+    },
+    {
       "igdb_id": 87690,
       "game_name": "The Blockheads Server",
       "file": "missing/T/87690-the-blockheads-server.json"
@@ -317451,6 +317491,11 @@
       "igdb_id": 172181,
       "game_name": "Virtual Rehab Art 4 Health",
       "file": "missing/V/172181-virtual-rehab-art-4-health.json"
+    },
+    {
+      "igdb_id": 205978,
+      "game_name": "Virtual Resort: Spring Break",
+      "file": "missing/V/205978-virtual-resort-spring-break.json"
     },
     {
       "igdb_id": 273396,
