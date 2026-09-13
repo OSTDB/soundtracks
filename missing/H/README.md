@@ -1895,7 +1895,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homewords | 153947 | [153947-homewords.json](./153947-homewords.json) |
 | Homework is Crazy | 118334 | [118334-homework-is-crazy.json](./118334-homework-is-crazy.json) |
 | Homework Salesman | 181926 | [181926-homework-salesman.json](./181926-homework-salesman.json) |
+| Homeworld | 749 | [749-homeworld.json](./749-homeworld.json) |
 | Homeworld: Deserts of Kharak - Deluxe Edition | 53203 | [53203-homeworld-deserts-of-kharak-deluxe-edition.json](./53203-homeworld-deserts-of-kharak-deluxe-edition.json) |
+| Homeworld: Remastered Collection | 8773 | [8773-homeworld-remastered-collection.json](./8773-homeworld-remastered-collection.json) |
 | Homeworld: Remastered Collection - Deluxe Edition | 53204 | [53204-homeworld-remastered-collection-deluxe-edition.json](./53204-homeworld-remastered-collection-deluxe-edition.json) |
 | Homeworld: Vast Reaches | 301250 | [301250-homeworld-vast-reaches.json](./301250-homeworld-vast-reaches.json) |
 | Homicipher | 247905 | [247905-homicipher.json](./247905-homicipher.json) |
