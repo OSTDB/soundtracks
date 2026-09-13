@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klap!! Kind Love and Punish: Fun Party | 138232 | [138232-klap-kind-love-and-punish-fun-party.json](./138232-klap-kind-love-and-punish-fun-party.json) |
 | Klash | 62697 | [62697-klash.json](./62697-klash.json) |
 | KlashBall | 67941 | [67941-klashball.json](./67941-klashball.json) |
+| Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
 | Kleopatra | 213968 | [213968-kleopatra.json](./213968-kleopatra.json) |
 | Klepto | 297476 | [297476-klepto.json](./297476-klepto.json) |
