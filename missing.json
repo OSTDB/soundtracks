@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T23:33:39.517Z",
-  "total_missing": 67661,
+  "generated_at": "2026-09-13T23:41:39.001Z",
+  "total_missing": 67660,
   "games": [
     {
       "igdb_id": 306086,
@@ -4011,11 +4011,6 @@
       "igdb_id": 200708,
       "game_name": "Adonis",
       "file": "missing/A/200708-adonis.json"
-    },
-    {
-      "igdb_id": 301598,
-      "game_name": "Adora and My Treasure",
-      "file": "missing/A/301598-adora-and-my-treasure.json"
     },
     {
       "igdb_id": 193994,
