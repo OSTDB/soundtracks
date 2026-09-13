@@ -54,6 +54,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Ray & Dilligas | 144319 | [144319-x-ray-and-dilligas.json](./144319-x-ray-and-dilligas.json) |
 | X-Ray Ball: Winter Storm | 62159 | [62159-x-ray-ball-winter-storm.json](./62159-x-ray-ball-winter-storm.json) |
 | X-Scape | 67155 | [67155-x-scape.json](./67155-x-scape.json) |
+| X-Squad | 19423 | [19423-x-squad.json](./19423-x-squad.json) |
+| X-Tactics | 19482 | [19482-x-tactics.json](./19482-x-tactics.json) |
 | X-Town 3D game | 96124 | [96124-x-town-3d-game.json](./96124-x-town-3d-game.json) |
 | X-YZE | 370672 | [370672-x-yze.json](./370672-x-yze.json) |
 | X-Zone | 42647 | [42647-x-zone.json](./42647-x-zone.json) |
@@ -75,6 +77,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xavix Bowling | 267372 | [267372-xavix-bowling.json](./267372-xavix-bowling.json) |
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
 | Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
+| XCOM 2: Alien Hunters | 19451 | [19451-xcom-2-alien-hunters.json](./19451-xcom-2-alien-hunters.json) |
 | XCOM 2: Reinforcement Pack | 225099 | [225099-xcom-2-reinforcement-pack.json](./225099-xcom-2-reinforcement-pack.json) |
 | XCOM 2: Resistance Warrior Pack | 225096 | [225096-xcom-2-resistance-warrior-pack.json](./225096-xcom-2-resistance-warrior-pack.json) |
 | XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
