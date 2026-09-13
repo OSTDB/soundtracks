@@ -802,7 +802,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
+| Ghostbusters II | 14555 | [14555-ghostbusters-ii.json](./14555-ghostbusters-ii.json) |
 | Ghostbusters: Dimension | 246631 | [246631-ghostbusters-dimension.json](./246631-ghostbusters-dimension.json) |
+| Ghostbusters: Sanctum of Slime | 14849 | [14849-ghostbusters-sanctum-of-slime.json](./14849-ghostbusters-sanctum-of-slime.json) |
 | Ghostbusters: Slime City | 96751 | [96751-ghostbusters-slime-city.json](./96751-ghostbusters-slime-city.json) |
 | Ghostbusters: The Video Game | 77275 | [77275-ghostbusters-the-video-game.json](./77275-ghostbusters-the-video-game.json) |
 | GhostCatcher | 257961 | [257961-ghostcatcher.json](./257961-ghostcatcher.json) |
