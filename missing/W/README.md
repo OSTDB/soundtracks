@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Wind | 929 | [929-war-wind.json](./929-war-wind.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
+| War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
 | Waratte Iitomo! Tamorinpic | 37768 | [37768-waratte-iitomo-tamorinpic.json](./37768-waratte-iitomo-tamorinpic.json) |
 | Warauinu no Bouken GB: Silly Go Lucky! | 59400 | [59400-warauinu-no-bouken-gb-silly-go-lucky.json](./59400-warauinu-no-bouken-gb-silly-go-lucky.json) |
 | Warbanners: Death Speaker | 172143 | [172143-warbanners-death-speaker.json](./172143-warbanners-death-speaker.json) |
@@ -1089,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
+| Wild Frontera | 17972 | [17972-wild-frontera.json](./17972-wild-frontera.json) |
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
 | Wild Ice | 166777 | [166777-wild-ice.json](./166777-wild-ice.json) |
@@ -1778,6 +1780,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
 | World of Subways: Volume 1 - The Path | 36284 | [36284-world-of-subways-volume-1-the-path.json](./36284-world-of-subways-volume-1-the-path.json) |
+| World of Subways: Volume 2 - U7 Berlin | 17999 | [17999-world-of-subways-volume-2-u7-berlin.json](./17999-world-of-subways-volume-2-u7-berlin.json) |
+| World of Subways: Volume 3 - London Underground Circle Line | 18000 | [18000-world-of-subways-volume-3-london-underground-circle-line.json](./18000-world-of-subways-volume-3-london-underground-circle-line.json) |
 | World of Tanks - Panther/M10 Pack (VII German Medium Tank) | 398326 | [398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json](./398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json) |
 | World of Tanks Generals | 77961 | [77961-world-of-tanks-generals.json](./77961-world-of-tanks-generals.json) |
 | World of Tanks: Blitz - Free Pack | 171010 | [171010-world-of-tanks-blitz-free-pack.json](./171010-world-of-tanks-blitz-free-pack.json) |
