@@ -493,12 +493,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elfin National Park | 341877 | [341877-elfin-national-park.json](./341877-elfin-national-park.json) |
 | Elfland | 246394 | [246394-elfland.json](./246394-elfland.json) |
 | Elfland Reloaded: Volume 2 | 303238 | [303238-elfland-reloaded-volume-2.json](./303238-elfland-reloaded-volume-2.json) |
+| Elfmania | 12062 | [12062-elfmania.json](./12062-elfmania.json) |
 | ElfMiner | 360612 | [360612-elfminer.json](./360612-elfminer.json) |
 | Elfo: Rescue Craby | 322345 | [322345-elfo-rescue-craby.json](./322345-elfo-rescue-craby.json) |
 | Elfsquad7 | 93501 | [93501-elfsquad7.json](./93501-elfsquad7.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
 | Eliminato | 102826 | [102826-eliminato.json](./102826-eliminato.json) |
+| Eliminator | 12063 | [12063-eliminator.json](./12063-eliminator.json) |
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
 | Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
@@ -555,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
 | Elvin: The Water Sphere | 316059 | [316059-elvin-the-water-sphere.json](./316059-elvin-the-water-sphere.json) |
 | Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
+| Elvira II: The Jaws of Cerberus | 12064 | [12064-elvira-ii-the-jaws-of-cerberus.json](./12064-elvira-ii-the-jaws-of-cerberus.json) |
 | Elvira II: The Jaws of Cerberus | 228728 | [228728-elvira-ii-the-jaws-of-cerberus.json](./228728-elvira-ii-the-jaws-of-cerberus.json) |
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
 | Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
@@ -650,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire of the Ants: Digital Deluxe Edition | 320754 | [320754-empire-of-the-ants-digital-deluxe-edition.json](./320754-empire-of-the-ants-digital-deluxe-edition.json) |
 | Empire Origin: Rise | 258204 | [258204-empire-origin-rise.json](./258204-empire-origin-rise.json) |
 | Empire Run | 248648 | [248648-empire-run.json](./248648-empire-run.json) |
+| Empire Soccer 94 | 12065 | [12065-empire-soccer-94.json](./12065-empire-soccer-94.json) |
 | Empire Warriors TD | 104587 | [104587-empire-warriors-td.json](./104587-empire-warriors-td.json) |
 | Empire: Total War - Elite Units of America | 82084 | [82084-empire-total-war-elite-units-of-america.json](./82084-empire-total-war-elite-units-of-america.json) |
 | Empire: Total War - Elite Units of the East | 82083 | [82083-empire-total-war-elite-units-of-the-east.json](./82083-empire-total-war-elite-units-of-the-east.json) |
@@ -893,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ephemeral Legend | 274979 | [274979-ephemeral-legend.json](./274979-ephemeral-legend.json) |
 | Ephemeral Tale | 127247 | [127247-ephemeral-tale.json](./127247-ephemeral-tale.json) |
 | Epi-Derick | 372481 | [372481-epi-derick.json](./372481-epi-derick.json) |
+| Epic | 12066 | [12066-epic.json](./12066-epic.json) |
 | Epic Adventures: La Jangada | 114353 | [114353-epic-adventures-la-jangada.json](./114353-epic-adventures-la-jangada.json) |
 | Epic Ape Madness | 255758 | [255758-epic-ape-madness.json](./255758-epic-ape-madness.json) |
 | Epic Astro Story | 65482 | [65482-epic-astro-story.json](./65482-epic-astro-story.json) |
@@ -1513,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exfiltrator: Cyber Stealth Missions | 204464 | [204464-exfiltrator-cyber-stealth-missions.json](./204464-exfiltrator-cyber-stealth-missions.json) |
 | Exhibit of Sorrows | 321126 | [321126-exhibit-of-sorrows.json](./321126-exhibit-of-sorrows.json) |
 | Exhibition | 60014 | [60014-exhibition.json](./60014-exhibition.json) |
+| Exile | 12068 | [12068-exile.json](./12068-exile.json) |
 | Exile II: Crystal Souls | 7781 | [7781-exile-ii-crystal-souls.json](./7781-exile-ii-crystal-souls.json) |
 | Exile III: Ruined World | 19578 | [19578-exile-iii-ruined-world.json](./19578-exile-iii-ruined-world.json) |
 | Exile Online | 27669 | [27669-exile-online.json](./27669-exile-online.json) |
@@ -1661,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exzore: The Rising | 42666 | [42666-exzore-the-rising.json](./42666-exzore-the-rising.json) |
 | Exсive A-1000 | 113714 | [113714-ex-ive-a-1000.json](./113714-ex-ive-a-1000.json) |
 | Eye For Blood | 217327 | [217327-eye-for-blood.json](./217327-eye-for-blood.json) |
+| Eye of Horus | 12069 | [12069-eye-of-horus.json](./12069-eye-of-horus.json) |
 | Eye of Nollyn | 276193 | [276193-eye-of-nollyn.json](./276193-eye-of-nollyn.json) |
 | Eye of Ra | 133992 | [133992-eye-of-ra.json](./133992-eye-of-ra.json) |
 | Eye of Saccharine | 249187 | [249187-eye-of-saccharine.json](./249187-eye-of-saccharine.json) |
