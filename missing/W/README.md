@@ -1755,9 +1755,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Blitz - Space Pack | 171012 | [171012-world-of-tanks-blitz-space-pack.json](./171012-world-of-tanks-blitz-space-pack.json) |
 | World of Tanks: Heat | 361890 | [361890-world-of-tanks-heat.json](./361890-world-of-tanks-heat.json) |
 | World of Tanks: Independence | 121641 | [121641-world-of-tanks-independence.json](./121641-world-of-tanks-independence.json) |
+| World of Tanks: Modern Armor | 296792 | [296792-world-of-tanks-modern-armor.json](./296792-world-of-tanks-modern-armor.json) |
 | World of Tanks: Modern Armor - Metal Dragon | 336938 | [336938-world-of-tanks-modern-armor-metal-dragon.json](./336938-world-of-tanks-modern-armor-metal-dragon.json) |
 | World of Tanks: Modern Armor - Warlords Starter Pack | 338220 | [338220-world-of-tanks-modern-armor-warlords-starter-pack.json](./338220-world-of-tanks-modern-armor-warlords-starter-pack.json) |
 | World of Tanks: Roll Out Collector's Edition | 115673 | [115673-world-of-tanks-roll-out-collectors-edition.json](./115673-world-of-tanks-roll-out-collectors-edition.json) |
+| World of Warcraft Classic: Season of Discovery | 275175 | [275175-world-of-warcraft-classic-season-of-discovery.json](./275175-world-of-warcraft-classic-season-of-discovery.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
 | World of Warcraft: Mists of Pandaria | 1332 | [1332-world-of-warcraft-mists-of-pandaria.json](./1332-world-of-warcraft-mists-of-pandaria.json) |
 | World of Warcraft: Shadowlands - Chains of Domination | 363919 | [363919-world-of-warcraft-shadowlands-chains-of-domination.json](./363919-world-of-warcraft-shadowlands-chains-of-domination.json) |
