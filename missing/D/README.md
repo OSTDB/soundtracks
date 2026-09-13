@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
 | Dariusburst: Chronicle Saviours - Limited Edition | 44536 | [44536-dariusburst-chronicle-saviours-limited-edition.json](./44536-dariusburst-chronicle-saviours-limited-edition.json) |
+| Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
 | Dark Adelita | 350419 | [350419-dark-adelita.json](./350419-dark-adelita.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
@@ -2843,6 +2844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Eternity | 59981 | [59981-dragon-eternity.json](./59981-dragon-eternity.json) |
 | Dragon Expedition | 332993 | [332993-dragon-expedition.json](./332993-dragon-expedition.json) |
 | Dragon Extinction VR | 149002 | [149002-dragon-extinction-vr.json](./149002-dragon-extinction-vr.json) |
+| Dragon Fantasy | 22332 | [22332-dragon-fantasy.json](./22332-dragon-fantasy.json) |
 | Dragon Fantasy Book I and II Bundle | 99554 | [99554-dragon-fantasy-book-i-and-ii-bundle.json](./99554-dragon-fantasy-book-i-and-ii-bundle.json) |
 | Dragon Fight VR | 133389 | [133389-dragon-fight-vr.json](./133389-dragon-fight-vr.json) |
 | Dragon Finga | 403614 | [403614-dragon-finga.json](./403614-dragon-finga.json) |
