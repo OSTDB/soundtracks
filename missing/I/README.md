@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Season | 340755 | [340755-in-season.json](./340755-in-season.json) |
 | In Silico | 348241 | [348241-in-silico.json](./348241-in-silico.json) |
 | In Somnio | 130382 | [130382-in-somnio.json](./130382-in-somnio.json) |
+| In Sound Mind | 121084 | [121084-in-sound-mind.json](./121084-in-sound-mind.json) |
 | In Sync: 2 Fun Balls | 208028 | [208028-in-sync-2-fun-balls.json](./208028-in-sync-2-fun-balls.json) |
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
 | In the Black | 125370 | [125370-in-the-black.json](./125370-in-the-black.json) |
