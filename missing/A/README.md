@@ -249,7 +249,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
-| Achaem | 104680 | [104680-achaem.json](./104680-achaem.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
 | Achievement Clicker | 248925 | [248925-achievement-clicker.json](./248925-achievement-clicker.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
