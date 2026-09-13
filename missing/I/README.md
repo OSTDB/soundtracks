@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
 | In Essence: Nil - MaidxMan / Chapel | 340750 | [340750-in-essence-nil-maidxman-chapel.json](./340750-in-essence-nil-maidxman-chapel.json) |
+| In Other Waters | 86504 | [86504-in-other-waters.json](./86504-in-other-waters.json) |
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
 | In Search of Light | 182522 | [182522-in-search-of-light.json](./182522-in-search-of-light.json) |
 | In Search of the Most Amazing Thing | 69820 | [69820-in-search-of-the-most-amazing-thing.json](./69820-in-search-of-the-most-amazing-thing.json) |
@@ -824,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
 | Infinity Beats Song Edition | 87150 | [87150-infinity-beats-song-edition.json](./87150-infinity-beats-song-edition.json) |
+| Infinity Blade | 10029 | [10029-infinity-blade.json](./10029-infinity-blade.json) |
 | Infinity Blade II | 20644 | [20644-infinity-blade-ii.json](./20644-infinity-blade-ii.json) |
 | Infinity Blade PC | 342045 | [342045-infinity-blade-pc.json](./342045-infinity-blade-pc.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
@@ -1201,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iragon | 115664 | [115664-iragon.json](./115664-iragon.json) |
 | Irang: The Last Hope | 257395 | [257395-irang-the-last-hope.json](./257395-irang-the-last-hope.json) |
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
+| Iratus: Lord of the Dead | 93694 | [93694-iratus-lord-of-the-dead.json](./93694-iratus-lord-of-the-dead.json) |
 | Iratus: Necromancer Edition | 154555 | [154555-iratus-necromancer-edition.json](./154555-iratus-necromancer-edition.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
 | Irem Arcade 1 | 214546 | [214546-irem-arcade-1.json](./214546-irem-arcade-1.json) |
