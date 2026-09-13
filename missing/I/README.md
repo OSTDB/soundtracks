@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Had Another Dream About You Last Night | 142403 | [142403-i-had-another-dream-about-you-last-night.json](./142403-i-had-another-dream-about-you-last-night.json) |
 | I Had the Strangest Dream, Ivan | 201327 | [201327-i-had-the-strangest-dream-ivan.json](./201327-i-had-the-strangest-dream-ivan.json) |
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
+| I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
 | I Have Hired This Anime Girl to Talk to You | 275003 | [275003-i-have-hired-this-anime-girl-to-talk-to-you.json](./275003-i-have-hired-this-anime-girl-to-talk-to-you.json) |
 | I heard a dog barking | 177522 | [177522-i-heard-a-dog-barking.json](./177522-i-heard-a-dog-barking.json) |
 | I Human Machine | 195222 | [195222-i-human-machine.json](./195222-i-human-machine.json) |
@@ -1084,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interplay's Learn to Program Basic | 371865 | [371865-interplays-learn-to-program-basic.json](./371865-interplays-learn-to-program-basic.json) |
 | Interpoint | 115674 | [115674-interpoint.json](./115674-interpoint.json) |
 | Interrogation 091 | 184592 | [184592-interrogation-091.json](./184592-interrogation-091.json) |
+| Interrogation: You Will Be Deceived | 115118 | [115118-interrogation-you-will-be-deceived.json](./115118-interrogation-you-will-be-deceived.json) |
 | Intersection | 299751 | [299751-intersection.json](./299751-intersection.json) |
 | InterSection | 34237 | [34237-intersection.json](./34237-intersection.json) |
 | Intersolar Overdrive | 111676 | [111676-intersolar-overdrive.json](./111676-intersolar-overdrive.json) |
@@ -1147,6 +1149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
+| Inuyasha: Secret of the Divine Jewel | 20653 | [20653-inuyasha-secret-of-the-divine-jewel.json](./20653-inuyasha-secret-of-the-divine-jewel.json) |
 | Inv | 100134 | [100134-inv.json](./100134-inv.json) |
 | Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
 | Invadead | 209486 | [209486-invadead.json](./209486-invadead.json) |
@@ -1521,4 +1524,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
 | Izumo | 58168 | [58168-izumo.json](./58168-izumo.json) |
+| Izuna 2: The Unemployed Ninja Returns | 21345 | [21345-izuna-2-the-unemployed-ninja-returns.json](./21345-izuna-2-the-unemployed-ninja-returns.json) |
+| Izuna: Legend of the Unemployed Ninja | 20671 | [20671-izuna-legend-of-the-unemployed-ninja.json](./20671-izuna-legend-of-the-unemployed-ninja.json) |
 | Izurana's Walk | 357248 | [357248-izuranas-walk.json](./357248-izuranas-walk.json) |
