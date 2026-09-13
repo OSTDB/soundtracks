@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
+| A Knight's Quest | 109984 | [109984-a-knights-quest.json](./109984-a-knights-quest.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
@@ -147,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
 | A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
 | A Winding Path | 157709 | [157709-a-winding-path.json](./157709-a-winding-path.json) |
+| A Winter's Daydream | 110460 | [110460-a-winters-daydream.json](./110460-a-winters-daydream.json) |
 | A Wizard's Odyssey | 68651 | [68651-a-wizards-odyssey.json](./68651-a-wizards-odyssey.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
@@ -193,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
+| Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About Time | 276725 | [276725-about-time.json](./276725-about-time.json) |
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
@@ -305,8 +308,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
-| Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
-| Adaptr | 110574 | [110574-adaptr.json](./110574-adaptr.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Add Astra | 292305 | [292305-add-astra.json](./292305-add-astra.json) |
 | Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
