@@ -314,7 +314,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
-| ADG Episode | 270696 | [270696-adg-episode.json](./270696-adg-episode.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
 | Adian no Tsue | 41310 | [41310-adian-no-tsue.json](./41310-adian-no-tsue.json) |
 | Adiasis | 133948 | [133948-adiasis.json](./133948-adiasis.json) |
