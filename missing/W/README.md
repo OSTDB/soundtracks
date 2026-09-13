@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| W. L. O. Sekai Renai Kikou | 7239 | [7239-w-l-o-sekai-renai-kikou.json](./7239-w-l-o-sekai-renai-kikou.json) |
 | W.A.N.D. Project | 266782 | [266782-w-a-n-d-project.json](./266782-w-a-n-d-project.json) |
 | W.A.R. Hangry | 302104 | [302104-w-a-r-hangry.json](./302104-w-a-r-hangry.json) |
 | W.A.R.D. | 379375 | [379375-w-a-r-d.json](./379375-w-a-r-d.json) |
@@ -1868,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckin Ball Adventure | 112364 | [112364-wreckin-ball-adventure.json](./112364-wreckin-ball-adventure.json) |
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
+| Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
 | Wrestledunk Sports | 153361 | [153361-wrestledunk-sports.json](./153361-wrestledunk-sports.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
