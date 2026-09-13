@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightmatter Anniversary | 340919 | [340919-lightmatter-anniversary.json](./340919-lightmatter-anniversary.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning: D-Day | 47984 | [47984-lightning-d-day.json](./47984-lightning-d-day.json) |
+| Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
 | Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
+| Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
 | Loot Box Simulator | 137038 | [137038-loot-box-simulator.json](./137038-loot-box-simulator.json) |
 | Loot Box Simulator: Crimson Fire | 232983 | [232983-loot-box-simulator-crimson-fire.json](./232983-loot-box-simulator-crimson-fire.json) |
