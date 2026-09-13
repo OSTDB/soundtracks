@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
 | LEGO Batman: The Videogame | 259251 | [259251-lego-batman-the-videogame.json](./259251-lego-batman-the-videogame.json) |
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
+| LEGO Battles | 2648 | [2648-lego-battles.json](./2648-lego-battles.json) |
 | LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
 | LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
 | LEGO City Undercover | 343450 | [343450-lego-city-undercover.json](./343450-lego-city-undercover.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightUp! | 186248 | [186248-lightup.json](./186248-lightup.json) |
 | LightWalk | 33096 | [33096-lightwalk.json](./33096-lightwalk.json) |
 | LightWave | 155657 | [155657-lightwave.json](./155657-lightwave.json) |
+| Lightyear Frontier | 163456 | [163456-lightyear-frontier.json](./163456-lightyear-frontier.json) |
 | Ligmar | 361692 | [361692-ligmar.json](./361692-ligmar.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
@@ -1669,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Dream | 169473 | [169473-lost-dream.json](./169473-lost-dream.json) |
 | Lost Dream Chronicle | 316632 | [316632-lost-dream-chronicle.json](./316632-lost-dream-chronicle.json) |
 | Lost Dream: Darkness | 240799 | [240799-lost-dream-darkness.json](./240799-lost-dream-darkness.json) |
+| Lost Eden | 2167 | [2167-lost-eden.json](./2167-lost-eden.json) |
 | Lost Egg 2: Be Together | 148559 | [148559-lost-egg-2-be-together.json](./148559-lost-egg-2-be-together.json) |
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
@@ -1719,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Judgment: Detective Essentials Pack | 264067 | [264067-lost-judgment-detective-essentials-pack.json](./264067-lost-judgment-detective-essentials-pack.json) |
 | Lost Judgment: School Stories Expansion Pack | 264071 | [264071-lost-judgment-school-stories-expansion-pack.json](./264071-lost-judgment-school-stories-expansion-pack.json) |
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
+| Lost Kingdoms | 3981 | [3981-lost-kingdoms.json](./3981-lost-kingdoms.json) |
 | Lost Kittens: Maze Garden | 166696 | [166696-lost-kittens-maze-garden.json](./166696-lost-kittens-maze-garden.json) |
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
