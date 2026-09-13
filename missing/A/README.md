@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Magical Tale: Revoke DX | 381603 | [381603-a-magical-tale-revoke-dx.json](./381603-a-magical-tale-revoke-dx.json) |
 | A Male Me Dressed up and Was Loved | 82878 | [82878-a-male-me-dressed-up-and-was-loved.json](./82878-a-male-me-dressed-up-and-was-loved.json) |
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
+| A Matter of Murder | 26887 | [26887-a-matter-of-murder.json](./26887-a-matter-of-murder.json) |
 | A Matter of Time | 153414 | [153414-a-matter-of-time.json](./153414-a-matter-of-time.json) |
 | A Maze for Owls | 182517 | [182517-a-maze-for-owls.json](./182517-a-maze-for-owls.json) |
 | A Mazeing Tower Defense | 54470 | [54470-a-mazeing-tower-defense.json](./54470-a-mazeing-tower-defense.json) |
@@ -199,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
+| Abode | 26370 | [26370-abode.json](./26370-abode.json) |
 | Abomination Ops | 355575 | [355575-abomination-ops.json](./355575-abomination-ops.json) |
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
@@ -325,7 +327,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adopt A Boyfriend | 332439 | [332439-adopt-a-boyfriend.json](./332439-adopt-a-boyfriend.json) |
-| Adopt Me Please | 410894 | [410894-adopt-me-please.json](./410894-adopt-me-please.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
 | Adorable Dog: Gnomeageddon | 301253 | [301253-adorable-dog-gnomeageddon.json](./301253-adorable-dog-gnomeageddon.json) |
 | Adorable Home | 193994 | [193994-adorable-home.json](./193994-adorable-home.json) |
@@ -1311,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Tennis 2000 | 49880 | [49880-all-star-tennis-2000.json](./49880-all-star-tennis-2000.json) |
 | All That Remains | 75789 | [75789-all-that-remains.json](./75789-all-that-remains.json) |
 | All The Colors That You Paint | 383376 | [383376-all-the-colors-that-you-paint.json](./383376-all-the-colors-that-you-paint.json) |
+| All the Delicate Duplicates | 26736 | [26736-all-the-delicate-duplicates.json](./26736-all-the-delicate-duplicates.json) |
 | All the Hidden Corners | 55875 | [55875-all-the-hidden-corners.json](./55875-all-the-hidden-corners.json) |
 | All the Mario | 358320 | [358320-all-the-mario.json](./358320-all-the-mario.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
@@ -1434,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto's Odyssey | 26428 | [26428-altos-odyssey.json](./26428-altos-odyssey.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Alucinod | 118422 | [118422-alucinod.json](./118422-alucinod.json) |
+| Alum | 26873 | [26873-alum.json](./26873-alum.json) |
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
