@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
 | Noroware Cycle | 223481 | [223481-noroware-cycle.json](./223481-noroware-cycle.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
+| Norrland | 9127 | [9127-norrland.json](./9127-norrland.json) |
 | Norse | 188562 | [188562-norse.json](./188562-norse.json) |
 | Norse by Norse West: The Return of the Lost Vikings | 2615 | [2615-norse-by-norse-west-the-return-of-the-lost-vikings.json](./2615-norse-by-norse-west-the-return-of-the-lost-vikings.json) |
 | Norse Noir: Loki's Exile | 19264 | [19264-norse-noir-lokis-exile.json](./19264-norse-noir-lokis-exile.json) |
