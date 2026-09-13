@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Goblet of Fire: The Triwizard Tournament | 266502 | [266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json](./266502-harry-potter-and-the-goblet-of-fire-the-triwizard-tournament.json) |
 | Harry Potter and the Half-Blood Prince | 266197 | [266197-harry-potter-and-the-half-blood-prince.json](./266197-harry-potter-and-the-half-blood-prince.json) |
 | Harry Potter and the Prisoner of Azkaban | 3943 | [3943-harry-potter-and-the-prisoner-of-azkaban.json](./3943-harry-potter-and-the-prisoner-of-azkaban.json) |
+| Harry Potter and the Prisoner of Azkaban | 96159 | [96159-harry-potter-and-the-prisoner-of-azkaban.json](./96159-harry-potter-and-the-prisoner-of-azkaban.json) |
 | Harry Potter and the Prisoner of Azkaban: The Quest of Sir Cadogan | 266500 | [266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json](./266500-harry-potter-and-the-prisoner-of-azkaban-the-quest-of-sir-cadogan.json) |
 | Harry Potter and the Sorcerer's Stone | 112660 | [112660-harry-potter-and-the-sorcerers-stone.json](./112660-harry-potter-and-the-sorcerers-stone.json) |
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
@@ -2035,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horgihugh and Friends | 193534 | [193534-horgihugh-and-friends.json](./193534-horgihugh-and-friends.json) |
 | Horizon | 16513 | [16513-horizon.json](./16513-horizon.json) |
 | Horizon Beyond | 121592 | [121592-horizon-beyond.json](./121592-horizon-beyond.json) |
+| Horizon Forbidden West: Complete Edition | 268842 | [268842-horizon-forbidden-west-complete-edition.json](./268842-horizon-forbidden-west-complete-edition.json) |
 | Horizon of History | 30763 | [30763-horizon-of-history.json](./30763-horizon-of-history.json) |
 | Horizon V | 24880 | [24880-horizon-v.json](./24880-horizon-v.json) |
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
@@ -2439,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt: Showdown 1896 - The Son of Gunpowder | 296920 | [296920-hunt-showdown-1896-the-son-of-gunpowder.json](./296920-hunt-showdown-1896-the-son-of-gunpowder.json) |
 | Huntdown | 19728 | [19728-huntdown.json](./19728-huntdown.json) |
 | Huntdown: Collector's Edition | 152327 | [152327-huntdown-collectors-edition.json](./152327-huntdown-collectors-edition.json) |
+| Hunted: The Demon's Forge | 505 | [505-hunted-the-demons-forge.json](./505-hunted-the-demons-forge.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter Beat | 296650 | [296650-hunter-beat.json](./296650-hunter-beat.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
