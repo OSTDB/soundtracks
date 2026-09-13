@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkstar: The Interactive Movie | 9118 | [9118-darkstar-the-interactive-movie.json](./9118-darkstar-the-interactive-movie.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
 | Darkwind: War on Wheels | 17305 | [17305-darkwind-war-on-wheels.json](./17305-darkwind-war-on-wheels.json) |
+| Darkwood | 17032 | [17032-darkwood.json](./17032-darkwood.json) |
 | Darling Pet | 188590 | [188590-darling-pet.json](./188590-darling-pet.json) |
 | Darq: The Crypt | 167767 | [167767-darq-the-crypt.json](./167767-darq-the-crypt.json) |
 | Darso Roads | 325815 | [325815-darso-roads.json](./325815-darso-roads.json) |
@@ -1516,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectives United III: Timeless Voyage - Collector's Edition | 129708 | [129708-detectives-united-iii-timeless-voyage-collectors-edition.json](./129708-detectives-united-iii-timeless-voyage-collectors-edition.json) |
 | Detectives United: Origins - Collector's Edition | 248337 | [248337-detectives-united-origins-collectors-edition.json](./248337-detectives-united-origins-collectors-edition.json) |
 | Detectivez | 113683 | [113683-detectivez.json](./113683-detectivez.json) |
+| Detention | 26776 | [26776-detention.json](./26776-detention.json) |
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
 | Dethcube | 148487 | [148487-dethcube.json](./148487-dethcube.json) |
@@ -1719,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Dig & Spike Volleyball | 94194 | [94194-dig-and-spike-volleyball.json](./94194-dig-and-spike-volleyball.json) |
 | Dig Baby Dig Company | 376450 | [376450-dig-baby-dig-company.json](./376450-dig-baby-dig-company.json) |
+| Dig Dug | 2636 | [2636-dig-dug.json](./2636-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
@@ -2540,6 +2543,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
+| Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
+| Doom 64 | 3471 | [3471-doom-64.json](./3471-doom-64.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
