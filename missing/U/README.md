@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
 | Underground Security Inc | 367984 | [367984-underground-security-inc.json](./367984-underground-security-inc.json) |
 | Undergrown | 244488 | [244488-undergrown.json](./244488-undergrown.json) |
+| Underhero | 36652 | [36652-underhero.json](./36652-underhero.json) |
 | Underkeep | 389458 | [389458-underkeep.json](./389458-underkeep.json) |
 | Underlab | 262667 | [262667-underlab.json](./262667-underlab.json) |
 | Underland: The Climb | 157713 | [157713-underland-the-climb.json](./157713-underland-the-climb.json) |
