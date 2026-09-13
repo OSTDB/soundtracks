@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius Cozmic Collection Arcade | 147940 | [147940-darius-cozmic-collection-arcade.json](./147940-darius-cozmic-collection-arcade.json) |
 | Darius Cozmic Revelation | 139992 | [139992-darius-cozmic-revelation.json](./139992-darius-cozmic-revelation.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
+| Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
 | Dariusburst: Chronicle Saviours - Limited Edition | 44536 | [44536-dariusburst-chronicle-saviours-limited-edition.json](./44536-dariusburst-chronicle-saviours-limited-edition.json) |
 | Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon 3: The Arcade Game | 46277 | [46277-double-dragon-3-the-arcade-game.json](./46277-double-dragon-3-the-arcade-game.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
+| Double Dunk | 18007 | [18007-double-dunk.json](./18007-double-dunk.json) |
 | Double Elf Fantasy | 241663 | [241663-double-elf-fantasy.json](./241663-double-elf-fantasy.json) |
 | Double Essence | 98440 | [98440-double-essence.json](./98440-double-essence.json) |
 | Double Happy vs. The Infinite Sadness: Pharos | 61055 | [61055-double-happy-vs-the-infinite-sadness-pharos.json](./61055-double-happy-vs-the-infinite-sadness-pharos.json) |
@@ -2761,6 +2763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Fight | 208981 | [208981-drag-fight.json](./208981-drag-fight.json) |
 | Drag Journey | 215113 | [215113-drag-journey.json](./215113-drag-journey.json) |
 | Drag Me Home | 67273 | [67273-drag-me-home.json](./67273-drag-me-home.json) |
+| Drag Race | 18104 | [18104-drag-race.json](./18104-drag-race.json) |
 | Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
 | Dragabox | 259858 | [259858-dragabox.json](./259858-dragabox.json) |
