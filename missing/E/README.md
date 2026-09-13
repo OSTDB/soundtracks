@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC 27 | 408819 | [408819-ea-sports-fc-27.json](./408819-ea-sports-fc-27.json) |
 | EA Sports FC 27: Ultimate Edition | 410902 | [410902-ea-sports-fc-27-ultimate-edition.json](./410902-ea-sports-fc-27-ultimate-edition.json) |
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
+| EA Sports MMA | 6984 | [6984-ea-sports-mma.json](./6984-ea-sports-mma.json) |
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
 | Eador: Masters of the Broken World - Allied Forces | 9206 | [9206-eador-masters-of-the-broken-world-allied-forces.json](./9206-eador-masters-of-the-broken-world-allied-forces.json) |
@@ -295,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Effy: One of Unreasonable "If" | 236822 | [236822-effy-one-of-unreasonable-if.json](./236822-effy-one-of-unreasonable-if.json) |
 | Efi | 176508 | [176508-efi.json](./176508-efi.json) |
 | EFO: Escape From Outerworld | 165674 | [165674-efo-escape-from-outerworld.json](./165674-efo-escape-from-outerworld.json) |
+| eFootball 2024 | 266157 | [266157-efootball-2024.json](./266157-efootball-2024.json) |
 | Efpiyes | 234045 | [234045-efpiyes.json](./234045-efpiyes.json) |
 | EGA-Roids | 130850 | [130850-ega-roids.json](./130850-ega-roids.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
@@ -864,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enoah's Quest | 303516 | [303516-enoahs-quest.json](./303516-enoahs-quest.json) |
 | Enoch | 217334 | [217334-enoch.json](./217334-enoch.json) |
 | Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
+| Enotria: The Last Song | 218521 | [218521-enotria-the-last-song.json](./218521-enotria-the-last-song.json) |
 | Enpitsu de Oku no Hosomichi DS | 269830 | [269830-enpitsu-de-oku-no-hosomichi-ds.json](./269830-enpitsu-de-oku-no-hosomichi-ds.json) |
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
@@ -896,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropic Shop VR | 82036 | [82036-entropic-shop-vr.json](./82036-entropic-shop-vr.json) |
 | Entropy | 188667 | [188667-entropy.json](./188667-entropy.json) |
 | Entropy | 363898 | [363898-entropy.json](./363898-entropy.json) |
+| Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
 | Envoy of Nezphere | 105309 | [105309-envoy-of-nezphere.json](./105309-envoy-of-nezphere.json) |
 | Enworden | 211713 | [211713-enworden.json](./211713-enworden.json) |
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
@@ -1264,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
 | Etrian Odyssey HD Character Set DLC | 251586 | [251586-etrian-odyssey-hd-character-set-dlc.json](./251586-etrian-odyssey-hd-character-set-dlc.json) |
+| Etrian Odyssey IV: Legends of the Titan | 6767 | [6767-etrian-odyssey-iv-legends-of-the-titan.json](./6767-etrian-odyssey-iv-legends-of-the-titan.json) |
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
 | Ettrian: The Elf Prince | 240806 | [240806-ettrian-the-elf-prince.json](./240806-ettrian-the-elf-prince.json) |
 | Euchre | 40729 | [40729-euchre.json](./40729-euchre.json) |
