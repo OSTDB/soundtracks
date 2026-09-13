@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T03:51:31.025Z",
-  "total_missing": 64531,
+  "generated_at": "2026-09-13T04:01:45.742Z",
+  "total_missing": 64530,
   "games": [
     {
       "igdb_id": 306086,
@@ -3371,11 +3371,6 @@
       "igdb_id": 282589,
       "game_name": "Ace Combat 7: Skies Unknown - F-15 S/MTD Set",
       "file": "missing/A/282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json"
-    },
-    {
-      "igdb_id": 282588,
-      "game_name": "Ace Combat 7: Skies Unknown - F-16XL Set",
-      "file": "missing/A/282588-ace-combat-7-skies-unknown-f-16xl-set.json"
     },
     {
       "igdb_id": 282590,
