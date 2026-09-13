@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki | 37757 | [37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json](./37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json) |
 | Yokoyama Mitsuteru: Sangokushi | 37759 | [37759-yokoyama-mitsuteru-sangokushi.json](./37759-yokoyama-mitsuteru-sangokushi.json) |
 | Yokozuna Monogatari | 37756 | [37756-yokozuna-monogatari.json](./37756-yokozuna-monogatari.json) |
+| Yoku's Island Express | 27367 | [27367-yokus-island-express.json](./27367-yokus-island-express.json) |
 | YOLO Life: The Beggining | 76562 | [76562-yolo-life-the-beggining.json](./76562-yolo-life-the-beggining.json) |
 | Yomaia | 238768 | [238768-yomaia.json](./238768-yomaia.json) |
 | Yomawari: Lost in the Dark | 203885 | [203885-yomawari-lost-in-the-dark.json](./203885-yomawari-lost-in-the-dark.json) |
