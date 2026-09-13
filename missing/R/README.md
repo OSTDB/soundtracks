@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refactor | 35928 | [35928-refactor.json](./35928-refactor.json) |
 | Refantasia: Charm and Conquer | 200744 | [200744-refantasia-charm-and-conquer.json](./200744-refantasia-charm-and-conquer.json) |
 | Refidenptio | 258988 | [258988-refidenptio.json](./258988-refidenptio.json) |
+| Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
 | Reflect World | 41391 | [41391-reflect-world.json](./41391-reflect-world.json) |
 | Reflected | 163398 | [163398-reflected.json](./163398-reflected.json) |
@@ -1917,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band 4: Who Am I? (What's My Name?) | 371863 | [371863-rock-band-4-who-am-i-whats-my-name.json](./371863-rock-band-4-who-am-i-whats-my-name.json) |
 | Rock Band Blitz | 2696 | [2696-rock-band-blitz.json](./2696-rock-band-blitz.json) |
 | Rock Band Sessions | 250663 | [250663-rock-band-sessions.json](./250663-rock-band-sessions.json) |
+| Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
 | Rock Bottom | 141856 | [141856-rock-bottom.json](./141856-rock-bottom.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
@@ -2033,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockstar Alien Killers | 102796 | [102796-rockstar-alien-killers.json](./102796-rockstar-alien-killers.json) |
 | Rockstar DressUp | 104596 | [104596-rockstar-dressup.json](./104596-rockstar-dressup.json) |
 | Rockstar! | 78693 | [78693-rockstar.json](./78693-rockstar.json) |
+| Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
 | Rocky Mountain: Trophy Hunter | 49946 | [49946-rocky-mountain-trophy-hunter.json](./49946-rocky-mountain-trophy-hunter.json) |
