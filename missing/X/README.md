@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenonauts 2 | 19408 | [19408-xenonauts-2.json](./19408-xenonauts-2.json) |
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
 | Xenosaga Episode II: Jenseits von Gut und Böse | 1228 | [1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json](./1228-xenosaga-episode-ii-jenseits-von-gut-und-bose.json) |
+| Xenosaga I & II | 26805 | [26805-xenosaga-i-and-ii.json](./26805-xenosaga-i-and-ii.json) |
 | Xenosaga II to III: A Missing Year | 240497 | [240497-xenosaga-ii-to-iii-a-missing-year.json](./240497-xenosaga-ii-to-iii-a-missing-year.json) |
 | XenoTown | 192884 | [192884-xenotown.json](./192884-xenotown.json) |
 | Xenowar | 70390 | [70390-xenowar.json](./70390-xenowar.json) |
@@ -162,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Boom | 254136 | [254136-xmas-boom.json](./254136-xmas-boom.json) |
 | Xmas Jam 2017 | 271230 | [271230-xmas-jam-2017.json](./271230-xmas-jam-2017.json) |
 | Xmas Presents | 393452 | [393452-xmas-presents.json](./393452-xmas-presents.json) |
+| Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
 | Xna | 45968 | [45968-xna.json](./45968-xna.json) |
 | XO | 110270 | [110270-xo.json](./110270-xo.json) |
 | XO Master | 237956 | [237956-xo-master.json](./237956-xo-master.json) |
