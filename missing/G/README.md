@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glyphs of Gitzan | 300997 | [300997-glyphs-of-gitzan.json](./300997-glyphs-of-gitzan.json) |
 | Glyphs of the Pharaohs | 177002 | [177002-glyphs-of-the-pharaohs.json](./177002-glyphs-of-the-pharaohs.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
+| Gnog | 26102 | [26102-gnog.json](./26102-gnog.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
 | Gnomael's Vampire | 184662 | [184662-gnomaels-vampire.json](./184662-gnomaels-vampire.json) |
 | Gnomageddon: Forge of Infinity | 408033 | [408033-gnomageddon-forge-of-infinity.json](./408033-gnomageddon-forge-of-infinity.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grackon's Curse | 117020 | [117020-grackons-curse.json](./117020-grackons-curse.json) |
 | Grade Sword | 245883 | [245883-grade-sword.json](./245883-grade-sword.json) |
 | Grader Simulator: Road Work | 231948 | [231948-grader-simulator-road-work.json](./231948-grader-simulator-road-work.json) |
+| Gradius | 1476 | [1476-gradius.json](./1476-gradius.json) |
 | Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
 | Gradius | 262393 | [262393-gradius.json](./262393-gradius.json) |
 | Gradius | 262394 | [262394-gradius.json](./262394-gradius.json) |
@@ -2040,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: End of Dragons | 159254 | [159254-guild-wars-2-end-of-dragons.json](./159254-guild-wars-2-end-of-dragons.json) |
 | Guild Wars 2: Heart of Thorns | 13183 | [13183-guild-wars-2-heart-of-thorns.json](./13183-guild-wars-2-heart-of-thorns.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
+| Guild Wars: Factions | 739 | [739-guild-wars-factions.json](./739-guild-wars-factions.json) |
 | Guild Wars: Game of the Year Edition | 27842 | [27842-guild-wars-game-of-the-year-edition.json](./27842-guild-wars-game-of-the-year-edition.json) |
 | Guild Wars: Reforged | 380421 | [380421-guild-wars-reforged.json](./380421-guild-wars-reforged.json) |
 | GuildBound | 119791 | [119791-guildbound.json](./119791-guildbound.json) |
