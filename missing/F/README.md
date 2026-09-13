@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FallMan | 60560 | [60560-fallman.json](./60560-fallman.json) |
 | Fallout 3: Mothership Zeta | 10300 | [10300-fallout-3-mothership-zeta.json](./10300-fallout-3-mothership-zeta.json) |
 | Fallout 3: Point Lookout | 10302 | [10302-fallout-3-point-lookout.json](./10302-fallout-3-point-lookout.json) |
+| Fallout 4: Automatron | 18029 | [18029-fallout-4-automatron.json](./18029-fallout-4-automatron.json) |
 | Fallout 4: Far Harbor | 18031 | [18031-fallout-4-far-harbor.json](./18031-fallout-4-far-harbor.json) |
 | Fallout 76: Camp Pets | 317825 | [317825-fallout-76-camp-pets.json](./317825-fallout-76-camp-pets.json) |
 | Fallout 76: Ghoul Within | 341476 | [341476-fallout-76-ghoul-within.json](./341476-fallout-76-ghoul-within.json) |
@@ -2636,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
 | FTB Academy | 396938 | [396938-ftb-academy.json](./396938-ftb-academy.json) |
 | FTD: Fixin' to Die | 177560 | [177560-ftd-fixin-to-die.json](./177560-ftd-fixin-to-die.json) |
+| FTL: Advanced Edition | 20098 | [20098-ftl-advanced-edition.json](./20098-ftl-advanced-edition.json) |
 | FTL: Multiverse | 203369 | [203369-ftl-multiverse.json](./203369-ftl-multiverse.json) |
 | Fùchóuzhě Liánméng: Zhōngjí Yīngxióng | 82052 | [82052-fuchouzhe-lianmeng-zhongji-yingxiong.json](./82052-fuchouzhe-lianmeng-zhongji-yingxiong.json) |
 | Fuck Paper Scissors | 344382 | [344382-fuck-paper-scissors.json](./344382-fuck-paper-scissors.json) |
