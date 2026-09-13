@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T08:34:44.642Z",
-  "total_missing": 65309,
+  "generated_at": "2026-09-13T08:41:30.452Z",
+  "total_missing": 65308,
   "games": [
     {
       "igdb_id": 306086,
@@ -3511,11 +3511,6 @@
       "igdb_id": 15588,
       "game_name": "Acid Drops",
       "file": "missing/A/15588-acid-drops.json"
-    },
-    {
-      "igdb_id": 283739,
-      "game_name": "Acid R[ai/eig]n",
-      "file": "missing/A/283739-acid-r-ai-eig-n.json"
     },
     {
       "igdb_id": 102877,
