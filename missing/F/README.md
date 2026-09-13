@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VI: Revised Old Style Edition | 379343 | [379343-final-fantasy-vi-revised-old-style-edition.json](./379343-final-fantasy-vi-revised-old-style-edition.json) |
 | Final Fantasy VII | 207021 | [207021-final-fantasy-vii.json](./207021-final-fantasy-vii.json) |
 | Final Fantasy VII | 392808 | [392808-final-fantasy-vii.json](./392808-final-fantasy-vii.json) |
+| Final Fantasy VII | 393025 | [393025-final-fantasy-vii.json](./393025-final-fantasy-vii.json) |
 | Final Fantasy VII + VIII Double Pack | 55049 | [55049-final-fantasy-vii-viii-double-pack.json](./55049-final-fantasy-vii-viii-double-pack.json) |
 | Final Fantasy VII G-Bike | 7398 | [7398-final-fantasy-vii-g-bike.json](./7398-final-fantasy-vii-g-bike.json) |
 | Final Fantasy X-2 International + Last Mission | 146852 | [146852-final-fantasy-x-2-international-last-mission.json](./146852-final-fantasy-x-2-international-last-mission.json) |
@@ -1053,6 +1054,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Crystal Chronicles - The Crystal Bearers | 401 | [401-final-fantasy-crystal-chronicles-the-crystal-bearers.json](./401-final-fantasy-crystal-chronicles-the-crystal-bearers.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
 | Final Fight Guy | 42554 | [42554-final-fight-guy.json](./42554-final-fight-guy.json) |
+| Final Fight One | 1663 | [1663-final-fight-one.json](./1663-final-fight-one.json) |
+| Final Fight: Streetwise | 1660 | [1660-final-fight-streetwise.json](./1660-final-fight-streetwise.json) |
 | Final Flames 2: Against the Dark World Crisis | 76548 | [76548-final-flames-2-against-the-dark-world-crisis.json](./76548-final-flames-2-against-the-dark-world-crisis.json) |
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
 | Final Foe | 153955 | [153955-final-foe.json](./153955-final-foe.json) |
@@ -2591,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
 | Front Mission 3 | 1502 | [1502-front-mission-3.json](./1502-front-mission-3.json) |
+| Front Mission: Gun Hazard | 1499 | [1499-front-mission-gun-hazard.json](./1499-front-mission-gun-hazard.json) |
 | Front Office Card Games: Up and Down the River | 67995 | [67995-front-office-card-games-up-and-down-the-river.json](./67995-front-office-card-games-up-and-down-the-river.json) |
 | Front Office Football 2 | 68051 | [68051-front-office-football-2.json](./68051-front-office-football-2.json) |
 | Front Office Football 2001 | 73842 | [73842-front-office-football-2001.json](./73842-front-office-football-2001.json) |
@@ -2919,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Vox Imaginarium Dot Exe | 198444 | [198444-future-vox-imaginarium-dot-exe.json](./198444-future-vox-imaginarium-dot-exe.json) |
 | Future Vox Imaginarium Dot Exe V1.1: Doge Lover Edition | 198445 | [198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json](./198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json) |
 | Future War: Reborn | 78061 | [78061-future-war-reborn.json](./78061-future-war-reborn.json) |
+| Future Wars | 2478 | [2478-future-wars.json](./2478-future-wars.json) |
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
 | FutureKreate | 170435 | [170435-futurekreate.json](./170435-futurekreate.json) |
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
