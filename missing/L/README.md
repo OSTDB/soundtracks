@@ -710,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lema Sabachthani | 323721 | [323721-lema-sabachthani.json](./323721-lema-sabachthani.json) |
 | Lemegeton | 402262 | [402262-lemegeton.json](./402262-lemegeton.json) |
 | Lemming Dynasty | 60489 | [60489-lemming-dynasty.json](./60489-lemming-dynasty.json) |
+| Lemmings | 238839 | [238839-lemmings.json](./238839-lemmings.json) |
 | Lemmings | 239057 | [239057-lemmings.json](./239057-lemmings.json) |
 | Lemmings | 239058 | [239058-lemmings.json](./239058-lemmings.json) |
 | Lemmings | 239059 | [239059-lemmings.json](./239059-lemmings.json) |
@@ -1258,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Heroine Playset | 185596 | [185596-little-heroine-playset.json](./185596-little-heroine-playset.json) |
 | Little Heroine: The Electric Monsters | 338009 | [338009-little-heroine-the-electric-monsters.json](./338009-little-heroine-the-electric-monsters.json) |
 | Little Hidden City | 87766 | [87766-little-hidden-city.json](./87766-little-hidden-city.json) |
+| Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
 | Little Jumper! | 175403 | [175403-little-jumper.json](./175403-little-jumper.json) |
 | Little Kingdom RTS | 349319 | [349319-little-kingdom-rts.json](./349319-little-kingdom-rts.json) |
 | Little Kingdoms: Chapters 1-3 | 262930 | [262930-little-kingdoms-chapters-1-3.json](./262930-little-kingdoms-chapters-1-3.json) |
@@ -1447,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
+| Locke(d) | 231365 | [231365-locke-d.json](./231365-locke-d.json) |
 | Locked Arcadia | 261824 | [261824-locked-arcadia.json](./261824-locked-arcadia.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | Loco-Sort | 272265 | [272265-loco-sort.json](./272265-loco-sort.json) |
@@ -2099,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust from Beyond | 115903 | [115903-lust-from-beyond.json](./115903-lust-from-beyond.json) |
 | Lust From Beyond: M Edition | 152313 | [152313-lust-from-beyond-m-edition.json](./152313-lust-from-beyond-m-edition.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
+| Lust Theory | 216187 | [216187-lust-theory.json](./216187-lust-theory.json) |
 | Lustful Apartment | 296687 | [296687-lustful-apartment.json](./296687-lustful-apartment.json) |
 | Lustful Assistant | 223176 | [223176-lustful-assistant.json](./223176-lustful-assistant.json) |
 | Lustful Ponies | 195738 | [195738-lustful-ponies.json](./195738-lustful-ponies.json) |
