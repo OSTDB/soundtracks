@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
 | Rush | 272586 | [272586-rush.json](./272586-rush.json) |
 | Rush | 7634 | [7634-rush.json](./7634-rush.json) |
+| Rush | 88768 | [88768-rush.json](./88768-rush.json) |
 | Rush Back | 270680 | [270680-rush-back.json](./270680-rush-back.json) |
 | Rush For Glory | 10803 | [10803-rush-for-glory.json](./10803-rush-for-glory.json) |
 | Rush for the Bomb | 54352 | [54352-rush-for-the-bomb.json](./54352-rush-for-the-bomb.json) |
