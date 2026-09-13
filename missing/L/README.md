@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
 | Last Nuclear Darkness | 158162 | [158162-last-nuclear-darkness.json](./158162-last-nuclear-darkness.json) |
+| Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
 | Last Outlander | 224028 | [224028-last-outlander.json](./224028-last-outlander.json) |
@@ -711,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lema Sabachthani | 323721 | [323721-lema-sabachthani.json](./323721-lema-sabachthani.json) |
 | Lemegeton | 402262 | [402262-lemegeton.json](./402262-lemegeton.json) |
 | Lemming Dynasty | 60489 | [60489-lemming-dynasty.json](./60489-lemming-dynasty.json) |
+| Lemmings | 113439 | [113439-lemmings.json](./113439-lemmings.json) |
 | Lemmings | 238839 | [238839-lemmings.json](./238839-lemmings.json) |
 | Lemmings | 239057 | [239057-lemmings.json](./239057-lemmings.json) |
 | Lemmings | 239058 | [239058-lemmings.json](./239058-lemmings.json) |
@@ -938,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lickspittles | 392814 | [392814-lickspittles.json](./392814-lickspittles.json) |
 | Lidar Exploration Program | 291468 | [291468-lidar-exploration-program.json](./291468-lidar-exploration-program.json) |
 | Lidar Survival | 253917 | [253917-lidar-survival.json](./253917-lidar-survival.json) |
+| LiEat: The Lie-Eating Dragon & the Vermilion Vampire | 115202 | [115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json](./115202-lieat-the-lie-eating-dragon-and-the-vermilion-vampire.json) |
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liege | 63254 | [63254-liege.json](./63254-liege.json) |
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
@@ -1535,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Trip | 83572 | [83572-lonely-trip.json](./83572-lonely-trip.json) |
 | Lonelyland VR | 105988 | [105988-lonelyland-vr.json](./105988-lonelyland-vr.json) |
 | Loner's Spell | 182967 | [182967-loners-spell.json](./182967-loners-spell.json) |
+| Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
 | Long | 292006 | [292006-long.json](./292006-long.json) |
 | Long Count | 126622 | [126622-long-count.json](./126622-long-count.json) |
 | Long Gone Days | 31820 | [31820-long-gone-days.json](./31820-long-gone-days.json) |
@@ -2122,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
 | Lyantei | 114993 | [114993-lyantei.json](./114993-lyantei.json) |
+| Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
 | LyraVR | 29923 | [29923-lyravr.json](./29923-lyravr.json) |
 | Lyre | 377592 | [377592-lyre.json](./377592-lyre.json) |
