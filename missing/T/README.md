@@ -306,6 +306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Spark | 225103 | [225103-tales-of-spark.json](./225103-tales-of-spark.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
+| Tales of the Abyss | 20972 | [20972-tales-of-the-abyss.json](./20972-tales-of-the-abyss.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
 | Tales of the Death | 204112 | [204112-tales-of-the-death.json](./204112-tales-of-the-death.json) |
 | Tales of the Drunken Paladin | 191811 | [191811-tales-of-the-drunken-paladin.json](./191811-tales-of-the-drunken-paladin.json) |
@@ -1099,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Kiwamemichi | 137623 | [137623-tetris-kiwamemichi.json](./137623-tetris-kiwamemichi.json) |
 | Tetris MicroCard | 234081 | [234081-tetris-microcard.json](./234081-tetris-microcard.json) |
 | Tetris Mind Bender | 302679 | [302679-tetris-mind-bender.json](./302679-tetris-mind-bender.json) |
+| Tetris Plus | 20712 | [20712-tetris-plus.json](./20712-tetris-plus.json) |
 | Tetris Plus | 254518 | [254518-tetris-plus.json](./254518-tetris-plus.json) |
 | Tetris Pro | 95421 | [95421-tetris-pro.json](./95421-tetris-pro.json) |
 | Tetris Secret | 130931 | [130931-tetris-secret.json](./130931-tetris-secret.json) |
@@ -1614,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Citizen | 296374 | [296374-the-citizen.json](./296374-the-citizen.json) |
 | The Citizen Kane of Video Games | 225271 | [225271-the-citizen-kane-of-video-games.json](./225271-the-citizen-kane-of-video-games.json) |
 | The City Must Grow | 180243 | [180243-the-city-must-grow.json](./180243-the-city-must-grow.json) |
+| The City of Lost Children | 20001 | [20001-the-city-of-lost-children.json](./20001-the-city-of-lost-children.json) |
 | The City of the Damned | 141239 | [141239-the-city-of-the-damned.json](./141239-the-city-of-the-damned.json) |
 | The City of the Damned: Apocalypse | 141240 | [141240-the-city-of-the-damned-apocalypse.json](./141240-the-city-of-the-damned-apocalypse.json) |
 | The Clans - Saga of the Twins | 35943 | [35943-the-clans-saga-of-the-twins.json](./35943-the-clans-saga-of-the-twins.json) |
@@ -6041,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trace of Time | 284337 | [284337-trace-of-time.json](./284337-trace-of-time.json) |
 | Tracery of Fate VR | 207496 | [207496-tracery-of-fate-vr.json](./207496-tracery-of-fate-vr.json) |
 | Track & Field | 239296 | [239296-track-and-field.json](./239296-track-and-field.json) |
+| Track & Field II | 20903 | [20903-track-and-field-ii.json](./20903-track-and-field-ii.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Track My Train | 356645 | [356645-track-my-train.json](./356645-track-my-train.json) |
 | Track No.9 | 339808 | [339808-track-no-9.json](./339808-track-no-9.json) |
@@ -6740,6 +6744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trombone Champ | 149821 | [149821-trombone-champ.json](./149821-trombone-champ.json) |
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
+| Tron Run/r | 19978 | [19978-tron-run-r.json](./19978-tron-run-r.json) |
 | Tron Run/r: Deluxe Edition | 53853 | [53853-tron-run-r-deluxe-edition.json](./53853-tron-run-r-deluxe-edition.json) |
 | Tron Run/r: Ultimate Edition | 53852 | [53852-tron-run-r-ultimate-edition.json](./53852-tron-run-r-ultimate-edition.json) |
 | Tron: Deadly Discs | 5710 | [5710-tron-deadly-discs.json](./5710-tron-deadly-discs.json) |
