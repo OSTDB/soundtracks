@@ -215,7 +215,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
-| Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
 | Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
 | Access Denied: Escape | 240807 | [240807-access-denied-escape.json](./240807-access-denied-escape.json) |
