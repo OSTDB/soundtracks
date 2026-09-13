@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T02:41:36.644Z",
-  "total_missing": 64288,
+  "generated_at": "2026-09-13T02:48:28.886Z",
+  "total_missing": 64338,
   "games": [
     {
       "igdb_id": 306086,
@@ -13743,6 +13743,11 @@
       "file": "missing/A/330192-arab-drift-cars-2.json"
     },
     {
+      "igdb_id": 10861,
+      "game_name": "Arabian Nights",
+      "file": "missing/A/10861-arabian-nights.json"
+    },
+    {
       "igdb_id": 111656,
       "game_name": "Arabian Nights",
       "file": "missing/A/111656-arabian-nights.json"
@@ -16601,6 +16606,16 @@
       "igdb_id": 115031,
       "game_name": "Asgard's Wrath",
       "file": "missing/A/115031-asgards-wrath.json"
+    },
+    {
+      "igdb_id": 10864,
+      "game_name": "Asghan 2",
+      "file": "missing/A/10864-asghan-2.json"
+    },
+    {
+      "igdb_id": 10860,
+      "game_name": "Asghan: The Dragon Slayer",
+      "file": "missing/A/10860-asghan-the-dragon-slayer.json"
     },
     {
       "igdb_id": 127264,
@@ -34033,6 +34048,11 @@
       "file": "missing/B/365056-boss-up.json"
     },
     {
+      "igdb_id": 10865,
+      "game_name": "Boston Bomb Club",
+      "file": "missing/B/10865-boston-bomb-club.json"
+    },
+    {
       "igdb_id": 157174,
       "game_name": "Boston Nursing Home",
       "file": "missing/B/157174-boston-nursing-home.json"
@@ -38116,6 +38136,11 @@
       "igdb_id": 221192,
       "game_name": "Bunny Box Breakout",
       "file": "missing/B/221192-bunny-box-breakout.json"
+    },
+    {
+      "igdb_id": 10855,
+      "game_name": "Bunny Bricks",
+      "file": "missing/B/10855-bunny-bricks.json"
     },
     {
       "igdb_id": 196280,
@@ -67048,6 +67073,11 @@
       "file": "missing/D/239317-detuned.json"
     },
     {
+      "igdb_id": 10858,
+      "game_name": "Deus",
+      "file": "missing/D/10858-deus.json"
+    },
+    {
       "igdb_id": 298299,
       "game_name": "Deus Cult",
       "file": "missing/D/298299-deus-cult.json"
@@ -89521,6 +89551,11 @@
       "igdb_id": 34530,
       "game_name": "Fasaria World Online",
       "file": "missing/F/34530-fasaria-world-online.json"
+    },
+    {
+      "igdb_id": 10793,
+      "game_name": "Fascination",
+      "file": "missing/F/10793-fascination.json"
     },
     {
       "igdb_id": 188115,
@@ -131813,6 +131848,11 @@
       "file": "missing/I/334701-ishas-magic-book-decoding.json"
     },
     {
+      "igdb_id": 10856,
+      "game_name": "Ishar: Legend of the Fortress",
+      "file": "missing/I/10856-ishar-legend-of-the-fortress.json"
+    },
+    {
       "igdb_id": 133966,
       "game_name": "Ishara: Bane of the Seas",
       "file": "missing/I/133966-ishara-bane-of-the-seas.json"
@@ -145523,6 +145563,11 @@
       "file": "missing/L/244484-le-chateau.json"
     },
     {
+      "igdb_id": 10848,
+      "game_name": "Le Fetiche Maya",
+      "file": "missing/L/10848-le-fetiche-maya.json"
+    },
+    {
       "igdb_id": 299442,
       "game_name": "Le Gars Qui A Fait Doom",
       "file": "missing/L/299442-le-gars-qui-a-fait-doom.json"
@@ -154193,6 +154238,11 @@
       "file": "missing/M/40258-mad-shark.json"
     },
     {
+      "igdb_id": 10847,
+      "game_name": "Mad Show",
+      "file": "missing/M/10847-mad-show.json"
+    },
+    {
       "igdb_id": 181353,
       "game_name": "Mad Skills",
       "file": "missing/M/181353-mad-skills.json"
@@ -156806,6 +156856,11 @@
       "igdb_id": 243689,
       "game_name": "ManHandler",
       "file": "missing/M/243689-manhandler.json"
+    },
+    {
+      "igdb_id": 10846,
+      "game_name": "Manhattan Dealers",
+      "file": "missing/M/10846-manhattan-dealers.json"
     },
     {
       "igdb_id": 100229,
@@ -163256,6 +163311,11 @@
       "igdb_id": 42556,
       "game_name": "Metal Morph",
       "file": "missing/M/42556-metal-morph.json"
+    },
+    {
+      "igdb_id": 10852,
+      "game_name": "Metal Mutant",
+      "file": "missing/M/10852-metal-mutant.json"
     },
     {
       "igdb_id": 194077,
@@ -216878,6 +216938,11 @@
       "file": "missing/R/77220-return-to-castle-wolfenstein-tides-of-war.json"
     },
     {
+      "igdb_id": 10796,
+      "game_name": "Return to Ditch Day",
+      "file": "missing/R/10796-return-to-ditch-day.json"
+    },
+    {
       "igdb_id": 271737,
       "game_name": "Return to Dust",
       "file": "missing/R/271737-return-to-dust.json"
@@ -223623,6 +223688,11 @@
       "file": "missing/R/270680-rush-back.json"
     },
     {
+      "igdb_id": 10803,
+      "game_name": "Rush For Glory",
+      "file": "missing/R/10803-rush-for-glory.json"
+    },
+    {
       "igdb_id": 54352,
       "game_name": "Rush for the Bomb",
       "file": "missing/R/54352-rush-for-the-bomb.json"
@@ -224561,6 +224631,11 @@
       "igdb_id": 54351,
       "game_name": "Safety Driving - The Motorbike Simulation",
       "file": "missing/S/54351-safety-driving-the-motorbike-simulation.json"
+    },
+    {
+      "igdb_id": 10804,
+      "game_name": "Safety Driving: The Safety Simulation - Car",
+      "file": "missing/S/10804-safety-driving-the-safety-simulation-car.json"
     },
     {
       "igdb_id": 32189,
@@ -225748,9 +225823,34 @@
       "file": "missing/S/191858-sanctuarium-online.json"
     },
     {
+      "igdb_id": 10806,
+      "game_name": "Sanctum 2: Road to Elysion",
+      "file": "missing/S/10806-sanctum-2-road-to-elysion.json"
+    },
+    {
+      "igdb_id": 10807,
+      "game_name": "Sanctum 2: Ruins of Brightholme",
+      "file": "missing/S/10807-sanctum-2-ruins-of-brightholme.json"
+    },
+    {
+      "igdb_id": 10808,
+      "game_name": "Sanctum 2: The Last Stand",
+      "file": "missing/S/10808-sanctum-2-the-last-stand.json"
+    },
+    {
+      "igdb_id": 10809,
+      "game_name": "Sanctum 2: The Pursuit",
+      "file": "missing/S/10809-sanctum-2-the-pursuit.json"
+    },
+    {
       "igdb_id": 122977,
       "game_name": "Sanctum Breach",
       "file": "missing/S/122977-sanctum-breach.json"
+    },
+    {
+      "igdb_id": 10810,
+      "game_name": "Sanctum: Cavern",
+      "file": "missing/S/10810-sanctum-cavern.json"
     },
     {
       "igdb_id": 225076,
@@ -226686,6 +226786,11 @@
       "igdb_id": 295268,
       "game_name": "Save the Frog Keita",
       "file": "missing/S/295268-save-the-frog-keita.json"
+    },
+    {
+      "igdb_id": 10813,
+      "game_name": "Save the Furries",
+      "file": "missing/S/10813-save-the-furries.json"
     },
     {
       "igdb_id": 75198,
@@ -230913,6 +231018,11 @@
       "file": "missing/S/300698-shades-shadow-fight-roguelike.json"
     },
     {
+      "igdb_id": 10820,
+      "game_name": "ShadO",
+      "file": "missing/S/10820-shado.json"
+    },
+    {
       "igdb_id": 324309,
       "game_name": "Shadow",
       "file": "missing/S/324309-shadow.json"
@@ -231483,6 +231593,11 @@
       "file": "missing/S/125390-shadows-of-kepler.json"
     },
     {
+      "igdb_id": 10799,
+      "game_name": "Shadows of Mordor: Game two of Lord of the Rings",
+      "file": "missing/S/10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json"
+    },
+    {
       "igdb_id": 272281,
       "game_name": "Shadows of Rogue: The Sorcerer's Curse",
       "file": "missing/S/272281-shadows-of-rogue-the-sorcerers-curse.json"
@@ -231676,6 +231791,11 @@
       "igdb_id": 201316,
       "game_name": "ShamaL",
       "file": "missing/S/201316-shamal.json"
+    },
+    {
+      "igdb_id": 10821,
+      "game_name": "Shaman Odyssey: Tropic Adventure",
+      "file": "missing/S/10821-shaman-odyssey-tropic-adventure.json"
     },
     {
       "igdb_id": 110281,
@@ -232111,6 +232231,11 @@
       "igdb_id": 192938,
       "game_name": "Sharp Trouble",
       "file": "missing/S/192938-sharp-trouble.json"
+    },
+    {
+      "igdb_id": 10822,
+      "game_name": "Sharpe Investigations: Death on the Seine",
+      "file": "missing/S/10822-sharpe-investigations-death-on-the-seine.json"
     },
     {
       "igdb_id": 255724,
@@ -233266,6 +233391,41 @@
       "igdb_id": 54390,
       "game_name": "Ship Simulator 2008: Collector's Edition",
       "file": "missing/S/54390-ship-simulator-2008-collectors-edition.json"
+    },
+    {
+      "igdb_id": 10824,
+      "game_name": "Ship Simulator Extremes: Cargo Vessel",
+      "file": "missing/S/10824-ship-simulator-extremes-cargo-vessel.json"
+    },
+    {
+      "igdb_id": 10825,
+      "game_name": "Ship Simulator Extremes: Cargo Vessel",
+      "file": "missing/S/10825-ship-simulator-extremes-cargo-vessel.json"
+    },
+    {
+      "igdb_id": 10826,
+      "game_name": "Ship Simulator Extremes: Ferry Pack",
+      "file": "missing/S/10826-ship-simulator-extremes-ferry-pack.json"
+    },
+    {
+      "igdb_id": 10830,
+      "game_name": "Ship Simulator Extremes: Inland Shipping",
+      "file": "missing/S/10830-ship-simulator-extremes-inland-shipping.json"
+    },
+    {
+      "igdb_id": 10827,
+      "game_name": "Ship Simulator Extremes: Ocean Cruise Ship",
+      "file": "missing/S/10827-ship-simulator-extremes-ocean-cruise-ship.json"
+    },
+    {
+      "igdb_id": 10828,
+      "game_name": "Ship Simulator Extremes: Offshore Vessel",
+      "file": "missing/S/10828-ship-simulator-extremes-offshore-vessel.json"
+    },
+    {
+      "igdb_id": 10829,
+      "game_name": "Ship Simulator Extremes: Sigita Pack",
+      "file": "missing/S/10829-ship-simulator-extremes-sigita-pack.json"
     },
     {
       "igdb_id": 19326,
@@ -236123,9 +236283,19 @@
       "file": "missing/S/183078-sins.json"
     },
     {
+      "igdb_id": 10868,
+      "game_name": "Sins of a Solar Empire: Rebellion - Forbidden Worlds",
+      "file": "missing/S/10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json"
+    },
+    {
       "igdb_id": 51908,
       "game_name": "Sins of a Solar Empire: Rebellion - Outlaw Sectors",
       "file": "missing/S/51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json"
+    },
+    {
+      "igdb_id": 10869,
+      "game_name": "Sins of a Solar Empire: Rebellion - Stellar Phenomena",
+      "file": "missing/S/10869-sins-of-a-solar-empire-rebellion-stellar-phenomena.json"
     },
     {
       "igdb_id": 51907,
@@ -236446,6 +236616,11 @@
       "igdb_id": 140596,
       "game_name": "Skapp",
       "file": "missing/S/140596-skapp.json"
+    },
+    {
+      "igdb_id": 10833,
+      "game_name": "Skara",
+      "file": "missing/S/10833-skara.json"
     },
     {
       "igdb_id": 14379,
@@ -237471,6 +237646,11 @@
       "igdb_id": 193447,
       "game_name": "Skyward",
       "file": "missing/S/193447-skyward.json"
+    },
+    {
+      "igdb_id": 10871,
+      "game_name": "Skyward Collapse: Nihon no Mura",
+      "file": "missing/S/10871-skyward-collapse-nihon-no-mura.json"
     },
     {
       "igdb_id": 123039,
@@ -238988,6 +239168,11 @@
       "file": "missing/S/208959-smashbreak.json"
     },
     {
+      "igdb_id": 10835,
+      "game_name": "Smashcat",
+      "file": "missing/S/10835-smashcat.json"
+    },
+    {
       "igdb_id": 112976,
       "game_name": "Smasher",
       "file": "missing/S/112976-smasher.json"
@@ -239948,6 +240133,21 @@
       "file": "missing/S/307281-sniper-elite-5-winter-weapons-skin-pack.json"
     },
     {
+      "igdb_id": 10874,
+      "game_name": "Sniper Elite III: Save Churchill Part 2 - Belly of the Beast",
+      "file": "missing/S/10874-sniper-elite-iii-save-churchill-part-2-belly-of-the-beast.json"
+    },
+    {
+      "igdb_id": 10875,
+      "game_name": "Sniper Elite III: Save Churchill Part 3 - Confrontation",
+      "file": "missing/S/10875-sniper-elite-iii-save-churchill-part-3-confrontation.json"
+    },
+    {
+      "igdb_id": 10876,
+      "game_name": "Sniper Elite III: Target Hitler - Hunt the Grey Wolf",
+      "file": "missing/S/10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json"
+    },
+    {
       "igdb_id": 3078,
       "game_name": "Sniper Elite V2",
       "file": "missing/S/3078-sniper-elite-v2.json"
@@ -239956,6 +240156,16 @@
       "igdb_id": 44654,
       "game_name": "Sniper Elite V2: Game of the Year Edition",
       "file": "missing/S/44654-sniper-elite-v2-game-of-the-year-edition.json"
+    },
+    {
+      "igdb_id": 10878,
+      "game_name": "Sniper Elite V2: Kill Hitler",
+      "file": "missing/S/10878-sniper-elite-v2-kill-hitler.json"
+    },
+    {
+      "igdb_id": 10879,
+      "game_name": "Sniper Elite V2: The Landwehr Canal",
+      "file": "missing/S/10879-sniper-elite-v2-the-landwehr-canal.json"
     },
     {
       "igdb_id": 138980,
@@ -252746,6 +252956,11 @@
       "igdb_id": 99666,
       "game_name": "Storm Generations",
       "file": "missing/S/99666-storm-generations.json"
+    },
+    {
+      "igdb_id": 10853,
+      "game_name": "Storm Master",
+      "file": "missing/S/10853-storm-master.json"
     },
     {
       "igdb_id": 233500,
@@ -272048,6 +272263,11 @@
       "file": "missing/T/324121-the-escape-room-chronicles-ep3-the-southern-resort.json"
     },
     {
+      "igdb_id": 10794,
+      "game_name": "The Escapist",
+      "file": "missing/T/10794-the-escapist.json"
+    },
+    {
       "igdb_id": 138193,
       "game_name": "The Escapists + The Escapists 2",
       "file": "missing/T/138193-the-escapists-the-escapists-2.json"
@@ -287273,6 +287493,11 @@
       "file": "missing/T/68597-time-up.json"
     },
     {
+      "igdb_id": 10859,
+      "game_name": "Time Warriors",
+      "file": "missing/T/10859-time-warriors.json"
+    },
+    {
       "igdb_id": 318423,
       "game_name": "Time's Prison",
       "file": "missing/T/318423-times-prison.json"
@@ -287873,6 +288098,11 @@
       "file": "missing/T/83876-titanfall-deluxe-edition.json"
     },
     {
+      "igdb_id": 10842,
+      "game_name": "Titanic",
+      "file": "missing/T/10842-titanic.json"
+    },
+    {
       "igdb_id": 74430,
       "game_name": "Titanic",
       "file": "missing/T/74430-titanic.json"
@@ -287916,6 +288146,11 @@
       "igdb_id": 109056,
       "game_name": "Titans: Dawn of Tribes",
       "file": "missing/T/109056-titans-dawn-of-tribes.json"
+    },
+    {
+      "igdb_id": 10841,
+      "game_name": "Titenic",
+      "file": "missing/T/10841-titenic.json"
     },
     {
       "igdb_id": 304002,
@@ -293491,6 +293726,11 @@
       "igdb_id": 114950,
       "game_name": "Trans-Siberian Railway Simulator",
       "file": "missing/T/114950-trans-siberian-railway-simulator.json"
+    },
+    {
+      "igdb_id": 10857,
+      "game_name": "Transarctica",
+      "file": "missing/T/10857-transarctica.json"
     },
     {
       "igdb_id": 29136,
@@ -311588,6 +311828,11 @@
       "file": "missing/W/312540-wind-story.json"
     },
     {
+      "igdb_id": 10850,
+      "game_name": "Wind Surf Willy",
+      "file": "missing/W/10850-wind-surf-willy.json"
+    },
+    {
       "igdb_id": 324311,
       "game_name": "Wind Traveler",
       "file": "missing/W/324311-wind-traveler.json"
@@ -316711,6 +316956,11 @@
       "igdb_id": 402885,
       "game_name": "Xyphoe's Nightmare",
       "file": "missing/X/402885-xyphoes-nightmare.json"
+    },
+    {
+      "igdb_id": 10854,
+      "game_name": "Xyphoes Fantasy",
+      "file": "missing/X/10854-xyphoes-fantasy.json"
     },
     {
       "igdb_id": 184075,
