@@ -2259,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Soccer | 93003 | [93003-microsoft-soccer.json](./93003-microsoft-soccer.json) |
 | Microsoft Solitaire | 242378 | [242378-microsoft-solitaire.json](./242378-microsoft-solitaire.json) |
 | Microsoft Spider Solitaire | 8196 | [8196-microsoft-spider-solitaire.json](./8196-microsoft-spider-solitaire.json) |
+| Microsoft Sudoku | 60285 | [60285-microsoft-sudoku.json](./60285-microsoft-sudoku.json) |
 | Microsoft Train Simulator: German Railroads Volume Two - Fast Railcars on the Runway | 78055 | [78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json](./78055-microsoft-train-simulator-german-railroads-volume-two-fast-railcars-on-the-runway.json) |
 | Microsoft: My Personal Tutor 1st & 2nd Grade | 144365 | [144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json](./144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json) |
 | Microsoft: My Personal Tutor Preschool & Kindergarden | 144363 | [144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json](./144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json) |
@@ -3462,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Cresta | 18762 | [18762-moon-cresta.json](./18762-moon-cresta.json) |
+| Moon Crystal | 48620 | [48620-moon-crystal.json](./48620-moon-crystal.json) |
 | Moon Crystals | 172710 | [172710-moon-crystals.json](./172710-moon-crystals.json) |
 | Moon Fall | 122381 | [122381-moon-fall.json](./122381-moon-fall.json) |
 | Moon Farming | 161352 | [161352-moon-farming.json](./161352-moon-farming.json) |
@@ -3522,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
+| Moorhen 3: The Chicken Chase! | 49438 | [49438-moorhen-3-the-chicken-chase.json](./49438-moorhen-3-the-chicken-chase.json) |
 | Moorhen Seasons | 282544 | [282544-moorhen-seasons.json](./282544-moorhen-seasons.json) |
 | Moorhuhn Adventure: Der Fluch des Goldes | 69856 | [69856-moorhuhn-adventure-der-fluch-des-goldes.json](./69856-moorhuhn-adventure-der-fluch-des-goldes.json) |
 | Moorhuhn Adventure: Der Schatz des Pharao | 190208 | [190208-moorhuhn-adventure-der-schatz-des-pharao.json](./190208-moorhuhn-adventure-der-schatz-des-pharao.json) |
@@ -4564,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
 | Mystery Tiles Premium | 100958 | [100958-mystery-tiles-premium.json](./100958-mystery-tiles-premium.json) |
+| Mystery Tower | 48589 | [48589-mystery-tower.json](./48589-mystery-tower.json) |
 | Mystery Town - Fun Seek and Find Hidden Object Puzzles | 104122 | [104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json](./104122-mystery-town-fun-seek-and-find-hidden-object-puzzles.json) |
 | Mystery Trackers: Black Isle - Collector's Edition | 107859 | [107859-mystery-trackers-black-isle-collectors-edition.json](./107859-mystery-trackers-black-isle-collectors-edition.json) |
 | Mystery Trackers: Blackrow's Secret | 201830 | [201830-mystery-trackers-blackrows-secret.json](./201830-mystery-trackers-blackrows-secret.json) |
