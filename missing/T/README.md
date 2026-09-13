@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
+| The Firemen | 42621 | [42621-the-firemen.json](./42621-the-firemen.json) |
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
@@ -2415,6 +2416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing II: Ink Hunt | 10969 | [10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json](./10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json) |
 | The Incredible Adventures of Van Helsing II: Pigasus | 10970 | [10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json](./10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json) |
 | The Incredible Adventures of Van Helsing: Blue Blood | 10968 | [10968-the-incredible-adventures-of-van-helsing-blue-blood.json](./10968-the-incredible-adventures-of-van-helsing-blue-blood.json) |
+| The Incredible Hulk: The Pantheon Saga | 45512 | [45512-the-incredible-hulk-the-pantheon-saga.json](./45512-the-incredible-hulk-the-pantheon-saga.json) |
 | The Incredible Machine | 4243 | [4243-the-incredible-machine.json](./4243-the-incredible-machine.json) |
 | The Incredible Machine 3 | 9263 | [9263-the-incredible-machine-3.json](./9263-the-incredible-machine-3.json) |
 | The Incredibles: Mission Incredible | 213375 | [213375-the-incredibles-mission-incredible.json](./213375-the-incredibles-mission-incredible.json) |
@@ -2821,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Long Gate | 127215 | [127215-the-long-gate.json](./127215-the-long-gate.json) |
 | The Long Sky VR | 132790 | [132790-the-long-sky-vr.json](./132790-the-long-sky-vr.json) |
 | The Longest Drift | 175441 | [175441-the-longest-drift.json](./175441-the-longest-drift.json) |
+| The Longest Five Minutes | 44078 | [44078-the-longest-five-minutes.json](./44078-the-longest-five-minutes.json) |
 | The Longest Journey Remastered | 27658 | [27658-the-longest-journey-remastered.json](./27658-the-longest-journey-remastered.json) |
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
 | The Longing Ribbon | 151694 | [151694-the-longing-ribbon.json](./151694-the-longing-ribbon.json) |
