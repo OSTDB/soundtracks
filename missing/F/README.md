@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Jigsaw Puzzles: Dwarves | 235467 | [235467-fantasy-jigsaw-puzzles-dwarves.json](./235467-fantasy-jigsaw-puzzles-dwarves.json) |
 | Fantasy Jigsaw Puzzles: Northlands | 234341 | [234341-fantasy-jigsaw-puzzles-northlands.json](./234341-fantasy-jigsaw-puzzles-northlands.json) |
 | Fantasy Kingdom: Fantasy Tiny Forest | 219290 | [219290-fantasy-kingdom-fantasy-tiny-forest.json](./219290-fantasy-kingdom-fantasy-tiny-forest.json) |
+| Fantasy Life | 6770 | [6770-fantasy-life.json](./6770-fantasy-life.json) |
 | Fantasy Life i: The Girl Who Steals Time - Digital Deluxe Edition | 336364 | [336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json](./336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json) |
 | Fantasy Life i: The Girl Who Steals Time - The Sinister Broker Bazario's Schemes | 370134 | [370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json](./370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json) |
 | Fantasy Life Link! | 138174 | [138174-fantasy-life-link.json](./138174-fantasy-life-link.json) |
