@@ -2407,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundra | 92962 | [92962-hundra.json](./92962-hundra.json) |
 | Hundred | 267068 | [267068-hundred.json](./267068-hundred.json) |
 | Hundred Chances | 171585 | [171585-hundred-chances.json](./171585-hundred-chances.json) |
+| Hundred Days | 120720 | [120720-hundred-days.json](./120720-hundred-days.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
 | Hùndùn Zhàn Yù | 367428 | [367428-hundun-zhan-yu.json](./367428-hundun-zhan-yu.json) |
