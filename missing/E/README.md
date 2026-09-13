@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthrise | 20554 | [20554-earthrise.json](./20554-earthrise.json) |
 | Earthrise | 73274 | [73274-earthrise.json](./73274-earthrise.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
+| Earthworm Jim | 3480 | [3480-earthworm-jim.json](./3480-earthworm-jim.json) |
 | Earthworm Jim 1 & 2: The Whole Can 'O Worms | 125989 | [125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json](./125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json) |
 | Earthworm Jim Collection | 237402 | [237402-earthworm-jim-collection.json](./237402-earthworm-jim-collection.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
@@ -863,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
 | Enshrouded World: Home Truths | 27676 | [27676-enshrouded-world-home-truths.json](./27676-enshrouded-world-home-truths.json) |
 | Enslaved Odyssey: To The West - Collector's Edition | 44658 | [44658-enslaved-odyssey-to-the-west-collectors-edition.json](./44658-enslaved-odyssey-to-the-west-collectors-edition.json) |
+| Enslaved: Odyssey to the West | 2538 | [2538-enslaved-odyssey-to-the-west.json](./2538-enslaved-odyssey-to-the-west.json) |
 | Enslaved: Odyssey to the West - Pigsy's Perfect 10 | 17468 | [17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json](./17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json) |
 | Ensou | 141212 | [141212-ensou.json](./141212-ensou.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
