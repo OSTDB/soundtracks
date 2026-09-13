@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T16:03:55.883Z",
-  "total_missing": 66395,
+  "generated_at": "2026-09-13T16:11:31.830Z",
+  "total_missing": 66394,
   "games": [
     {
       "igdb_id": 306086,
@@ -3751,11 +3751,6 @@
       "igdb_id": 45979,
       "game_name": "Activision Anthology: Remix Edition",
       "file": "missing/A/45979-activision-anthology-remix-edition.json"
-    },
-    {
-      "igdb_id": 6468,
-      "game_name": "ActRaiser",
-      "file": "missing/A/6468-actraiser.json"
     },
     {
       "igdb_id": 7704,
