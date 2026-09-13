@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
 | Ultimate Custom Night VR | 220139 | [220139-ultimate-custom-night-vr.json](./220139-ultimate-custom-night-vr.json) |
 | Ultimate Destruction Simulator | 343790 | [343790-ultimate-destruction-simulator.json](./343790-ultimate-destruction-simulator.json) |
+| Ultimate Disc Golf | 129001 | [129001-ultimate-disc-golf.json](./129001-ultimate-disc-golf.json) |
 | Ultimate Drummer | 369031 | [369031-ultimate-drummer.json](./369031-ultimate-drummer.json) |
 | Ultimate Drunken Warrior Master | 303225 | [303225-ultimate-drunken-warrior-master.json](./303225-ultimate-drunken-warrior-master.json) |
 | Ultimate Dungeons & Dragons | 73282 | [73282-ultimate-dungeons-and-dragons.json](./73282-ultimate-dungeons-and-dragons.json) |
@@ -563,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlock the Feelings | 199094 | [199094-unlock-the-feelings.json](./199094-unlock-the-feelings.json) |
 | Unlock the King | 126885 | [126885-unlock-the-king.json](./126885-unlock-the-king.json) |
 | Unlock the King 2 | 127418 | [127418-unlock-the-king-2.json](./127418-unlock-the-king-2.json) |
+| Unlock the King 3 | 132700 | [132700-unlock-the-king-3.json](./132700-unlock-the-king-3.json) |
 | Unlog | 370705 | [370705-unlog.json](./370705-unlog.json) |
 | Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
@@ -756,6 +758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Us & Them | 17118 | [17118-us-and-them.json](./17118-us-and-them.json) |
 | US Coin | 86702 | [86702-us-coin.json](./86702-us-coin.json) |
 | US Police ATV Quad Bike Plane Transport Game | 100964 | [100964-us-police-atv-quad-bike-plane-transport-game.json](./100964-us-police-atv-quad-bike-plane-transport-game.json) |
+| US Spy: Mission in Russia | 129260 | [129260-us-spy-mission-in-russia.json](./129260-us-spy-mission-in-russia.json) |
 | Us vs. Them | 25631 | [25631-us-vs-them.json](./25631-us-vs-them.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
 | USA Racer | 62146 | [62146-usa-racer.json](./62146-usa-racer.json) |
