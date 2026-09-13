@@ -532,6 +532,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal: And the Death that Follows | 217325 | [217325-immortal-and-the-death-that-follows.json](./217325-immortal-and-the-death-that-follows.json) |
 | Immortality | 152288 | [152288-immortality.json](./152288-immortality.json) |
 | Immortals | 103462 | [103462-immortals.json](./103462-immortals.json) |
+| Immortals Fenyx Rising: A New God | 142848 | [142848-immortals-fenyx-rising-a-new-god.json](./142848-immortals-fenyx-rising-a-new-god.json) |
+| Immortals Fenyx Rising: The Lost Gods | 144580 | [144580-immortals-fenyx-rising-the-lost-gods.json](./144580-immortals-fenyx-rising-the-lost-gods.json) |
 | Immortals: Muv-Luv Alternative | 194560 | [194560-immortals-muv-luv-alternative.json](./194560-immortals-muv-luv-alternative.json) |
 | ImmortalSurvivors | 273663 | [273663-immortalsurvivors.json](./273663-immortalsurvivors.json) |
 | Immortelle | 212825 | [212825-immortelle.json](./212825-immortelle.json) |
@@ -608,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Death We Love | 329374 | [329374-in-death-we-love.json](./329374-in-death-we-love.json) |
 | In Drmzzz | 225288 | [225288-in-drmzzz.json](./225288-in-drmzzz.json) |
 | In Essence: Nil - MaidxMan / Chapel | 340750 | [340750-in-essence-nil-maidxman-chapel.json](./340750-in-essence-nil-maidxman-chapel.json) |
+| In My Shadow | 140488 | [140488-in-my-shadow.json](./140488-in-my-shadow.json) |
 | In Other Waters | 86504 | [86504-in-other-waters.json](./86504-in-other-waters.json) |
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
 | In Search of Light | 182522 | [182522-in-search-of-light.json](./182522-in-search-of-light.json) |
@@ -852,6 +855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Run | 105875 | [105875-infinity-run.json](./105875-infinity-run.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
+| Infinity Strash: Dragon Quest - The Adventure of Dai | 137928 | [137928-infinity-strash-dragon-quest-the-adventure-of-dai.json](./137928-infinity-strash-dragon-quest-the-adventure-of-dai.json) |
 | Infinity war | 167816 | [167816-infinity-war.json](./167816-infinity-war.json) |
 | Infinity Wars: Animated Trading Card Game | 16732 | [16732-infinity-wars-animated-trading-card-game.json](./16732-infinity-wars-animated-trading-card-game.json) |
 | Infinos Exa | 316072 | [316072-infinos-exa.json](./316072-infinos-exa.json) |
