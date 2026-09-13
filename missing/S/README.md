@@ -5426,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
+| Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
 | Star Wars: The Best of PC | 75085 | [75085-star-wars-the-best-of-pc.json](./75085-star-wars-the-best-of-pc.json) |
 | Star Wars: The Clone Wars | 3760 | [3760-star-wars-the-clone-wars.json](./3760-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 78357 | [78357-star-wars-the-clone-wars.json](./78357-star-wars-the-clone-wars.json) |
@@ -5945,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Wars | 91938 | [91938-stone-wars.json](./91938-stone-wars.json) |
 | Stone Wheel | 246426 | [246426-stone-wheel.json](./246426-stone-wheel.json) |
 | Stoned | 352202 | [352202-stoned.json](./352202-stoned.json) |
+| Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
 | Stoneguard | 285983 | [285983-stoneguard.json](./285983-stoneguard.json) |
 | Stonehenge VR | 33137 | [33137-stonehenge-vr.json](./33137-stonehenge-vr.json) |
 | Stonekeep | 253 | [253-stonekeep.json](./253-stonekeep.json) |
