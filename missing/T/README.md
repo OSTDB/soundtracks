@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dawn Of Slenderman | 321358 | [321358-the-dawn-of-slenderman.json](./321358-the-dawn-of-slenderman.json) |
 | The Dawn: Sniper's Way | 189207 | [189207-the-dawn-snipers-way.json](./189207-the-dawn-snipers-way.json) |
 | The Dawning Clocks of Time | 168332 | [168332-the-dawning-clocks-of-time.json](./168332-the-dawning-clocks-of-time.json) |
+| The Day Before | 142901 | [142901-the-day-before.json](./142901-the-day-before.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
@@ -3408,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Society - Hidden Objects Mystery | 124747 | [124747-the-secret-society-hidden-objects-mystery.json](./124747-the-secret-society-hidden-objects-mystery.json) |
 | The Secret Story 1996 | 396191 | [396191-the-secret-story-1996.json](./396191-the-secret-story-1996.json) |
 | The Secret Workshop of Wishes | 385073 | [385073-the-secret-workshop-of-wishes.json](./385073-the-secret-workshop-of-wishes.json) |
+| The Secret World | 1064 | [1064-the-secret-world.json](./1064-the-secret-world.json) |
 | The Secrets | 178686 | [178686-the-secrets.json](./178686-the-secrets.json) |
 | The Secrets of Atlantis: The Sacred Legacy | 19458 | [19458-the-secrets-of-atlantis-the-sacred-legacy.json](./19458-the-secrets-of-atlantis-the-sacred-legacy.json) |
 | The Secrets of Hope | 236533 | [236533-the-secrets-of-hope.json](./236533-the-secrets-of-hope.json) |
@@ -3787,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
 | The Tour | 282029 | [282029-the-tour.json](./282029-the-tour.json) |
 | The Tour of Duty | 145618 | [145618-the-tour-of-duty.json](./145618-the-tour-of-duty.json) |
+| The Touryst | 121748 | [121748-the-touryst.json](./121748-the-touryst.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
 | The Tower of TigerQiuQiu 2: 1942-J20 | 157690 | [157690-the-tower-of-tigerqiuqiu-2-1942-j20.json](./157690-the-tower-of-tigerqiuqiu-2-1942-j20.json) |
@@ -6542,6 +6545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribe Quest | 258998 | [258998-tribe-quest.json](./258998-tribe-quest.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
+| Tribes of Midgard | 120619 | [120619-tribes-of-midgard.json](./120619-tribes-of-midgard.json) |
 | Tribes Universe | 91893 | [91893-tribes-universe.json](./91893-tribes-universe.json) |
 | Tribes Warfare | 188051 | [188051-tribes-warfare.json](./188051-tribes-warfare.json) |
 | Tribes: Vengeance | 923 | [923-tribes-vengeance.json](./923-tribes-vengeance.json) |
