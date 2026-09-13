@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1943: The Battle of Midway | 6076 | [6076-1943-the-battle-of-midway.json](./6076-1943-the-battle-of-midway.json) |
 | 1944 Burning Bridges | 56464 | [56464-1944-burning-bridges.json](./56464-1944-burning-bridges.json) |
 | 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
+| 1953: NATO vs Warsaw Pact | 17886 | [17886-1953-nato-vs-warsaw-pact.json](./17886-1953-nato-vs-warsaw-pact.json) |
 | 1971: Indian Naval Front | 110956 | [110956-1971-indian-naval-front.json](./110956-1971-indian-naval-front.json) |
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
