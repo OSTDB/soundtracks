@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Scout | 320727 | [320727-void-scout.json](./320727-void-scout.json) |
 | Void Sols | 223109 | [223109-void-sols.json](./223109-void-sols.json) |
 | Void Titan | 220644 | [220644-void-titan.json](./220644-void-titan.json) |
+| Void War | 291212 | [291212-void-war.json](./291212-void-war.json) |
 | Void Wars | 282025 | [282025-void-wars.json](./282025-void-wars.json) |
 | void.Resign | 130329 | [130329-void-resign.json](./130329-void-resign.json) |
 | Void/Breaker | 339626 | [339626-void-breaker.json](./339626-void-breaker.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcanic Field 2 | 85477 | [85477-volcanic-field-2.json](./85477-volcanic-field-2.json) |
 | Volcanic Planet | 297242 | [297242-volcanic-planet.json](./297242-volcanic-planet.json) |
 | Volcano Snek | 185604 | [185604-volcano-snek.json](./185604-volcano-snek.json) |
+| Volcanoids | 109117 | [109117-volcanoids.json](./109117-volcanoids.json) |
 | Volcanon | 195193 | [195193-volcanon.json](./195193-volcanon.json) |
 | VolChaos | 35658 | [35658-volchaos.json](./35658-volchaos.json) |
 | Volden Idle | 274500 | [274500-volden-idle.json](./274500-volden-idle.json) |
