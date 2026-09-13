@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred 3 | 5615 | [5615-sacred-3.json](./5615-sacred-3.json) |
 | Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
+| Sacred Citadel | 15290 | [15290-sacred-citadel.json](./15290-sacred-citadel.json) |
 | Sacred Earth: Promise | 109766 | [109766-sacred-earth-promise.json](./109766-sacred-earth-promise.json) |
 | Sacred Fire | 26559 | [26559-sacred-fire.json](./26559-sacred-fire.json) |
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
+| Samurai Jack: Battle Through Time | 131687 | [131687-samurai-jack-battle-through-time.json](./131687-samurai-jack-battle-through-time.json) |
 | Samurai Jack: Cavern Raid | 338745 | [338745-samurai-jack-cavern-raid.json](./338745-samurai-jack-cavern-raid.json) |
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
 | Samurai Jack: Way of the Warrior | 338747 | [338747-samurai-jack-way-of-the-warrior.json](./338747-samurai-jack-way-of-the-warrior.json) |
@@ -2067,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown Bandit | 121497 | [121497-showdown-bandit.json](./121497-showdown-bandit.json) |
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
+| Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
 | Showgunners: Security Breach | 257677 | [257677-showgunners-security-breach.json](./257677-showgunners-security-breach.json) |
 | ShowMeSpeed | 303768 | [303768-showmespeed.json](./303768-showmespeed.json) |
 | Showtime: Vampire Diaries | 241370 | [241370-showtime-vampire-diaries.json](./241370-showtime-vampire-diaries.json) |
@@ -2161,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Sengoku Japan Pack | 411599 | [411599-sid-meiers-civilization-vii-sengoku-japan-pack.json](./411599-sid-meiers-civilization-vii-sengoku-japan-pack.json) |
 | Sid Meier's Civilization VII: Toyotomi Hideyoshi Pack | 411597 | [411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json](./411597-sid-meiers-civilization-vii-toyotomi-hideyoshi-pack.json) |
 | Sid Meier's Pirates! | 868 | [868-sid-meiers-pirates.json](./868-sid-meiers-pirates.json) |
+| Sid Meier's Railroads! | 10743 | [10743-sid-meiers-railroads.json](./10743-sid-meiers-railroads.json) |
 | Sid the Science Kid: Red Light Green Light | 365073 | [365073-sid-the-science-kid-red-light-green-light.json](./365073-sid-the-science-kid-red-light-green-light.json) |
 | Side | 149025 | [149025-side.json](./149025-side.json) |
 | Side by Side Special | 93055 | [93055-side-by-side-special.json](./93055-side-by-side-special.json) |
@@ -2233,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill Complete Set | 144966 | [144966-silent-hill-complete-set.json](./144966-silent-hill-complete-set.json) |
 | Silent Hill f | 222343 | [222343-silent-hill-f.json](./222343-silent-hill-f.json) |
 | Silent Hill f: Deluxe Edition | 347180 | [347180-silent-hill-f-deluxe-edition.json](./347180-silent-hill-f-deluxe-edition.json) |
+| Silent Hill: Book of Memories | 9714 | [9714-silent-hill-book-of-memories.json](./9714-silent-hill-book-of-memories.json) |
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
@@ -3374,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy: Fish Frenzy | 71519 | [71519-snowy-fish-frenzy.json](./71519-snowy-fish-frenzy.json) |
 | Snowy: Lunch Rush | 73289 | [73289-snowy-lunch-rush.json](./73289-snowy-lunch-rush.json) |
 | Snowy: Space Trip | 69835 | [69835-snowy-space-trip.json](./69835-snowy-space-trip.json) |
+| Snufkin: Melody of Moominvalley | 180149 | [180149-snufkin-melody-of-moominvalley.json](./180149-snufkin-melody-of-moominvalley.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
 | Snwbrd: Freestyle Snowboarding | 235196 | [235196-snwbrd-freestyle-snowboarding.json](./235196-snwbrd-freestyle-snowboarding.json) |
 | So Below | 218732 | [218732-so-below.json](./218732-so-below.json) |
@@ -3753,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Gammon | 261275 | [261275-sonic-gammon.json](./261275-sonic-gammon.json) |
 | Sonic Gather Battle | 227886 | [227886-sonic-gather-battle.json](./227886-sonic-gather-battle.json) |
 | Sonic Gear | 332255 | [332255-sonic-gear.json](./332255-sonic-gear.json) |
+| Sonic Generations | 128798 | [128798-sonic-generations.json](./128798-sonic-generations.json) |
 | Sonic Generations | 264885 | [264885-sonic-generations.json](./264885-sonic-generations.json) |
 | Sonic Generations | 320894 | [320894-sonic-generations.json](./320894-sonic-generations.json) |
 | Sonic Generations: Casino Night DLC | 133938 | [133938-sonic-generations-casino-night-dlc.json](./133938-sonic-generations-casino-night-dlc.json) |
@@ -5271,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Warrior | 94241 | [94241-star-warrior.json](./94241-star-warrior.json) |
 | Star Wars | 12858 | [12858-star-wars.json](./12858-star-wars.json) |
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
+| Star Wars Battlefront II: Celebration Edition | 128334 | [128334-star-wars-battlefront-ii-celebration-edition.json](./128334-star-wars-battlefront-ii-celebration-edition.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
 | Star Wars Chess | 11289 | [11289-star-wars-chess.json](./11289-star-wars-chess.json) |
