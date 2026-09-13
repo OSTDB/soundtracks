@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
 | Legacy of the Stones | 117730 | [117730-legacy-of-the-stones.json](./117730-legacy-of-the-stones.json) |
 | Legacy of the Times | 59964 | [59964-legacy-of-the-times.json](./59964-legacy-of-the-times.json) |
+| Legacy Online | 23711 | [23711-legacy-online.json](./23711-legacy-online.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
 | Legal Speed Racing | 90557 | [90557-legal-speed-racing.json](./90557-legal-speed-racing.json) |
 | Leganda | 188675 | [188675-leganda.json](./188675-leganda.json) |
