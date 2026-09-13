@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
 | Becalm | 113863 | [113863-becalm.json](./113863-becalm.json) |
 | Because It's a Dream, It Must Be Romance: Connecting Hearts Across Realities | 399613 | [399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json](./399613-because-its-a-dream-it-must-be-romance-connecting-hearts-across-realities.json) |
+| Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Become a pig | 205244 | [205244-become-a-pig.json](./205244-become-a-pig.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
@@ -1380,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Omniverse 2 | 5310 | [5310-ben-10-omniverse-2.json](./5310-ben-10-omniverse-2.json) |
 | Ben 10: Protector of Earth | 210263 | [210263-ben-10-protector-of-earth.json](./210263-ben-10-protector-of-earth.json) |
 | Ben 10: Savage Pursuit | 142388 | [142388-ben-10-savage-pursuit.json](./142388-ben-10-savage-pursuit.json) |
+| Ben 10: Up to Speed | 88937 | [88937-ben-10-up-to-speed.json](./88937-ben-10-up-to-speed.json) |
 | Ben 10: Vengeance of Vilgax | 206736 | [206736-ben-10-vengeance-of-vilgax.json](./206736-ben-10-vengeance-of-vilgax.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
@@ -1828,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds Birds Birds | 107209 | [107209-birds-birds-birds.json](./107209-birds-birds-birds.json) |
 | Birds no More | 245317 | [245317-birds-no-more.json](./245317-birds-no-more.json) |
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
+| Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | Birkanoid | 178547 | [178547-birkanoid.json](./178547-birkanoid.json) |
 | Birmingham's Ghosts: Fear and Loathing | 248675 | [248675-birminghams-ghosts-fear-and-loathing.json](./248675-birminghams-ghosts-fear-and-loathing.json) |
@@ -2283,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block_Up | 265408 | [265408-block-up.json](./265408-block-up.json) |
 | Block-O-Mania | 57090 | [57090-block-o-mania.json](./57090-block-o-mania.json) |
 | Block;Shift | 293103 | [293103-block-shift.json](./293103-block-shift.json) |
+| Block! Hexa Puzzle | 88914 | [88914-block-hexa-puzzle.json](./88914-block-hexa-puzzle.json) |
 | Block! Triangle Puzzle: Tangram | 106633 | [106633-block-triangle-puzzle-tangram.json](./106633-block-triangle-puzzle-tangram.json) |
 | Blockade | 116295 | [116295-blockade.json](./116295-blockade.json) |
 | Blockade Runner | 23864 | [23864-blockade-runner.json](./23864-blockade-runner.json) |
@@ -2463,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
 | Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
+| Bloons TD 5 HD | 88911 | [88911-bloons-td-5-hd.json](./88911-bloons-td-5-hd.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
@@ -2768,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonza Word Puzzle | 90678 | [90678-bonza-word-puzzle.json](./90678-bonza-word-puzzle.json) |
 | Bonzala | 269595 | [269595-bonzala.json](./269595-bonzala.json) |
 | Boo Breakers: The Ghostening | 30808 | [30808-boo-breakers-the-ghostening.json](./30808-boo-breakers-the-ghostening.json) |
+| Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
 | Boogaloopers | 62752 | [62752-boogaloopers.json](./62752-boogaloopers.json) |
