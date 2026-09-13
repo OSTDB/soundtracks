@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Six: Behind Enemy Lines | 129131 | [129131-zero-six-behind-enemy-lines.json](./129131-zero-six-behind-enemy-lines.json) |
 | Zero spring episode 2 | 112370 | [112370-zero-spring-episode-2.json](./112370-zero-spring-episode-2.json) |
 | Zero Team USA | 40207 | [40207-zero-team-usa.json](./40207-zero-team-usa.json) |
+| Zero the Kamikaze Squirrel | 38405 | [38405-zero-the-kamikaze-squirrel.json](./38405-zero-the-kamikaze-squirrel.json) |
 | Zero Velocity | 176984 | [176984-zero-velocity.json](./176984-zero-velocity.json) |
 | Zero Volt X | 176960 | [176960-zero-volt-x.json](./176960-zero-volt-x.json) |
 | Zero World | 211216 | [211216-zero-world.json](./211216-zero-world.json) |
