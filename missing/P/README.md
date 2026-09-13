@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peachy Boy | 231053 | [231053-peachy-boy.json](./231053-peachy-boy.json) |
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
+| Peaks of Yore | 238690 | [238690-peaks-of-yore.json](./238690-peaks-of-yore.json) |
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
 | Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
@@ -1491,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pioneer | 61666 | [61666-pioneer.json](./61666-pioneer.json) |
 | Pioneer Lands | 59430 | [59430-pioneer-lands.json](./59430-pioneer-lands.json) |
 | Pioneers | 63237 | [63237-pioneers.json](./63237-pioneers.json) |
+| Pioneers of Pagonia | 237457 | [237457-pioneers-of-pagonia.json](./237457-pioneers-of-pagonia.json) |
 | Pioneerz | 129219 | [129219-pioneerz.json](./129219-pioneerz.json) |
 | Pip My Dice | 314288 | [314288-pip-my-dice.json](./314288-pip-my-dice.json) |
 | Pip Pepper Park Planner | 347116 | [347116-pip-pepper-park-planner.json](./347116-pip-pepper-park-planner.json) |
