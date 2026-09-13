@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T10:19:24.278Z",
-  "total_missing": 65414,
+  "generated_at": "2026-09-13T10:21:37.432Z",
+  "total_missing": 65413,
   "games": [
     {
       "igdb_id": 306086,
@@ -3561,11 +3561,6 @@
       "igdb_id": 148502,
       "game_name": "Acquisition War",
       "file": "missing/A/148502-acquisition-war.json"
-    },
-    {
-      "igdb_id": 301594,
-      "game_name": "Acre Crisis",
-      "file": "missing/A/301594-acre-crisis.json"
     },
     {
       "igdb_id": 108440,
