@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X4: Foundations - Tides of Avarice | 186900 | [186900-x4-foundations-tides-of-avarice.json](./186900-x4-foundations-tides-of-avarice.json) |
 | X4: Split Vendetta | 124814 | [124814-x4-split-vendetta.json](./124814-x4-split-vendetta.json) |
 | Xadom | 294729 | [294729-xadom.json](./294729-xadom.json) |
+| Xain'd Sleena: Soldier of Light | 12854 | [12854-xaind-sleena-soldier-of-light.json](./12854-xaind-sleena-soldier-of-light.json) |
 | Xak I + II | 42006 | [42006-xak-i-ii.json](./42006-xak-i-ii.json) |
 | Xak: The Art of Visual Stage | 377091 | [377091-xak-the-art-of-visual-stage.json](./377091-xak-the-art-of-visual-stage.json) |
 | Xam | 107154 | [107154-xam.json](./107154-xam.json) |
