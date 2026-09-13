@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T23:03:53.837Z",
-  "total_missing": 67564,
+  "generated_at": "2026-09-13T23:11:34.595Z",
+  "total_missing": 67563,
   "games": [
     {
       "igdb_id": 306086,
@@ -3996,11 +3996,6 @@
       "igdb_id": 193994,
       "game_name": "Adorable Home",
       "file": "missing/A/193994-adorable-home.json"
-    },
-    {
-      "igdb_id": 211393,
-      "game_name": "Adorable Witch 4: Lust",
-      "file": "missing/A/211393-adorable-witch-4-lust.json"
     },
     {
       "igdb_id": 245341,
