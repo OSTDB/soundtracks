@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 10th Anniversary | 43339 | [43339-rayman-10th-anniversary.json](./43339-rayman-10th-anniversary.json) |
 | Rayman 2: The Great Escape | 193313 | [193313-rayman-2-the-great-escape.json](./193313-rayman-2-the-great-escape.json) |
 | Rayman 2: The Great Escape | 193314 | [193314-rayman-2-the-great-escape.json](./193314-rayman-2-the-great-escape.json) |
+| Rayman 2: The Great Escape | 193315 | [193315-rayman-2-the-great-escape.json](./193315-rayman-2-the-great-escape.json) |
 | Rayman 3: Hoodlum Havoc Print Studio | 61654 | [61654-rayman-3-hoodlum-havoc-print-studio.json](./61654-rayman-3-hoodlum-havoc-print-studio.json) |
 | Rayman 3D | 20585 | [20585-rayman-3d.json](./20585-rayman-3d.json) |
 | Rayman 4 You | 178599 | [178599-rayman-4-you.json](./178599-rayman-4-you.json) |
@@ -1179,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance Is Brutal | 403572 | [403572-resistance-is-brutal.json](./403572-resistance-is-brutal.json) |
 | Resobeat | 377046 | [377046-resobeat.json](./377046-resobeat.json) |
 | Resolutiion | 121996 | [121996-resolutiion.json](./121996-resolutiion.json) |
+| Resonance of Fate | 7159 | [7159-resonance-of-fate.json](./7159-resonance-of-fate.json) |
 | Resonance: The Lost Score | 150064 | [150064-resonance-the-lost-score.json](./150064-resonance-the-lost-score.json) |
 | Resonant Tale | 266481 | [266481-resonant-tale.json](./266481-resonant-tale.json) |
 | Resonark X | 141900 | [141900-resonark-x.json](./141900-resonark-x.json) |
