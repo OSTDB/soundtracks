@@ -277,7 +277,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
-| Action 52 | 5340 | [5340-action-52.json](./5340-action-52.json) |
 | Action Ball Deluxe | 177040 | [177040-action-ball-deluxe.json](./177040-action-ball-deluxe.json) |
 | Action Bass | 43937 | [43937-action-bass.json](./43937-action-bass.json) |
 | Action Biker Starring Clumsy Colin | 45338 | [45338-action-biker-starring-clumsy-colin.json](./45338-action-biker-starring-clumsy-colin.json) |
