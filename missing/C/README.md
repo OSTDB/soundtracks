@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
 | Carmageddon | 626 | [626-carmageddon.json](./626-carmageddon.json) |
+| Carmageddon: Max Damage | 18075 | [18075-carmageddon-max-damage.json](./18075-carmageddon-max-damage.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: Junior Detective Edition | 73783 | [73783-carmen-sandiego-junior-detective-edition.json](./73783-carmen-sandiego-junior-detective-edition.json) |
 | Carmen Sandiego: To Steal or Not to Steal | 256843 | [256843-carmen-sandiego-to-steal-or-not-to-steal.json](./256843-carmen-sandiego-to-steal-or-not-to-steal.json) |
@@ -913,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
 | Catty Cathy | 281982 | [281982-catty-cathy.json](./281982-catty-cathy.json) |
+| Catwoman | 3851 | [3851-catwoman.json](./3851-catwoman.json) |
 | Catwoman | 67337 | [67337-catwoman.json](./67337-catwoman.json) |
 | Catz: Your Computer Petz | 79286 | [79286-catz-your-computer-petz.json](./79286-catz-your-computer-petz.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
@@ -1218,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chariot: Royal Gadget Pack | 252764 | [252764-chariot-royal-gadget-pack.json](./252764-chariot-royal-gadget-pack.json) |
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charlie Foxtrot & The Galaxy of Tomorrow | 166692 | [166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json](./166692-charlie-foxtrot-and-the-galaxy-of-tomorrow.json) |
+| Charlie Murder | 19914 | [19914-charlie-murder.json](./19914-charlie-murder.json) |
 | Charlie's Delivery | 219821 | [219821-charlies-delivery.json](./219821-charlies-delivery.json) |
 | Charm | 232657 | [232657-charm.json](./232657-charm.json) |
 | Charm of War | 86013 | [86013-charm-of-war.json](./86013-charm-of-war.json) |
@@ -3143,6 +3146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Designer | 295783 | [295783-cozy-designer.json](./295783-cozy-designer.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
+| Cozy Grove | 144800 | [144800-cozy-grove.json](./144800-cozy-grove.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
 | Cozy Hamlets | 290441 | [290441-cozy-hamlets.json](./290441-cozy-hamlets.json) |
 | Cozy Harvest | 376458 | [376458-cozy-harvest.json](./376458-cozy-harvest.json) |
@@ -3898,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curiosity of a Turnabout | 310423 | [310423-curiosity-of-a-turnabout.json](./310423-curiosity-of-a-turnabout.json) |
 | Curiosmos | 304883 | [304883-curiosmos.json](./304883-curiosmos.json) |
 | Curious Cases | 116470 | [116470-curious-cases.json](./116470-curious-cases.json) |
+| Curious Expedition | 19319 | [19319-curious-expedition.json](./19319-curious-expedition.json) |
 | Curious Expedition 2 Bundle | 218688 | [218688-curious-expedition-2-bundle.json](./218688-curious-expedition-2-bundle.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
 | Curling World Cup | 98983 | [98983-curling-world-cup.json](./98983-curling-world-cup.json) |
