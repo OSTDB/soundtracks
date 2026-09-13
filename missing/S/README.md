@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
 | Scorpion Overdrive | 193464 | [193464-scorpion-overdrive.json](./193464-scorpion-overdrive.json) |
 | Scotland Yard Interactive | 46567 | [46567-scotland-yard-interactive.json](./46567-scotland-yard-interactive.json) |
+| Scotland Yard: Hunting Mr. X | 22269 | [22269-scotland-yard-hunting-mr-x.json](./22269-scotland-yard-hunting-mr-x.json) |
 | Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
 | Scott Pilgrim vs. the World: The Game | 7448 | [7448-scott-pilgrim-vs-the-world-the-game.json](./7448-scott-pilgrim-vs-the-world-the-game.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scriptur | 190225 | [190225-scriptur.json](./190225-scriptur.json) |
 | Scritchy Scratchy | 371567 | [371567-scritchy-scratchy.json](./371567-scritchy-scratchy.json) |
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
+| Scroll Extreme | 22266 | [22266-scroll-extreme.json](./22266-scroll-extreme.json) |
 | Scroll of Life | 192391 | [192391-scroll-of-life.json](./192391-scroll-of-life.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
 | Scruffy's Quest | 265681 | [265681-scruffys-quest.json](./265681-scruffys-quest.json) |
@@ -2543,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
 | Skiplit | 27799 | [27799-skiplit.json](./27799-skiplit.json) |
+| Skipper & Skeeto: The Shadow of Mr. Shade | 22353 | [22353-skipper-and-skeeto-the-shadow-of-mr-shade.json](./22353-skipper-and-skeeto-the-shadow-of-mr-shade.json) |
 | Skippy the Bot | 163369 | [163369-skippy-the-bot.json](./163369-skippy-the-bot.json) |
 | Skirmish | 257946 | [257946-skirmish.json](./257946-skirmish.json) |
 | Skirmish Line: Mad Jack | 172129 | [172129-skirmish-line-mad-jack.json](./172129-skirmish-line-mad-jack.json) |
@@ -2907,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sly Slime | 156697 | [156697-sly-slime.json](./156697-sly-slime.json) |
 | Slyder Adventures | 338548 | [338548-slyder-adventures.json](./338548-slyder-adventures.json) |
 | Slyders | 274462 | [274462-slyders.json](./274462-slyders.json) |
+| Slydris | 22271 | [22271-slydris.json](./22271-slydris.json) |
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
 | SM64 Colorful Stars | 313109 | [313109-sm64-colorful-stars.json](./313109-sm64-colorful-stars.json) |
@@ -3505,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sombrero: Spaghetti Western Mayhem | 20758 | [20758-sombrero-spaghetti-western-mayhem.json](./20758-sombrero-spaghetti-western-mayhem.json) |
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
+| Some Peace of Mind | 22361 | [22361-some-peace-of-mind.json](./22361-some-peace-of-mind.json) |
 | Some Spring Days | 242540 | [242540-some-spring-days.json](./242540-some-spring-days.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
@@ -4566,6 +4571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Ultimate Power | 188550 | [188550-spider-man-ultimate-power.json](./188550-spider-man-ultimate-power.json) |
 | Spider-Sense Spider-Man and the Masked Menace | 220110 | [220110-spider-sense-spider-man-and-the-masked-menace.json](./220110-spider-sense-spider-man-and-the-masked-menace.json) |
 | Spider-Sense Spider-Man: Web-Master | 220111 | [220111-spider-sense-spider-man-web-master.json](./220111-spider-sense-spider-man-web-master.json) |
+| Spiderbot | 22264 | [22264-spiderbot.json](./22264-spiderbot.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
