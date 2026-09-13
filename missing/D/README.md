@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
 | Dark War | 30813 | [30813-dark-war.json](./30813-dark-war.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
+| Dark Wizard | 5374 | [5374-dark-wizard.json](./5374-dark-wizard.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
 | DarkBind | 197330 | [197330-darkbind.json](./197330-darkbind.json) |
@@ -2673,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Line | 141854 | [141854-double-line.json](./141854-double-line.json) |
 | Double Reaction! Plus | 175973 | [175973-double-reaction-plus.json](./175973-double-reaction-plus.json) |
 | Double Smash Ninja | 246083 | [246083-double-smash-ninja.json](./246083-double-smash-ninja.json) |
+| Double Switch | 5375 | [5375-double-switch.json](./5375-double-switch.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double-Entry Bookkeeping Simulator | 188549 | [188549-double-entry-bookkeeping-simulator.json](./188549-double-entry-bookkeeping-simulator.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
@@ -2773,6 +2775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula Hakushaku | 66111 | [66111-dracula-hakushaku.json](./66111-dracula-hakushaku.json) |
 | Dracula Solitaire | 386152 | [386152-dracula-solitaire.json](./386152-dracula-solitaire.json) |
 | Dracula Twins | 19594 | [19594-dracula-twins.json](./19594-dracula-twins.json) |
+| Dracula Unleashed | 5376 | [5376-dracula-unleashed.json](./5376-dracula-unleashed.json) |
 | Dracula vs. Monsters | 298584 | [298584-dracula-vs-monsters.json](./298584-dracula-vs-monsters.json) |
 | Dracula vs. The Ninja On the Moon | 144306 | [144306-dracula-vs-the-ninja-on-the-moon.json](./144306-dracula-vs-the-ninja-on-the-moon.json) |
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
