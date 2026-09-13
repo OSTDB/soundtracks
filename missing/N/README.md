@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Ticket Back: Craft, Survive & Escape | 290945 | [290945-no-ticket-back-craft-survive-and-escape.json](./290945-no-ticket-back-craft-survive-and-escape.json) |
 | No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
 | No Time to Build | 337484 | [337484-no-time-to-build.json](./337484-no-time-to-build.json) |
+| No Time to Relax | 111370 | [111370-no-time-to-relax.json](./111370-no-time-to-relax.json) |
 | No toilet paper!! | 151682 | [151682-no-toilet-paper.json](./151682-no-toilet-paper.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora's Dream | 200732 | [200732-noras-dream.json](./200732-noras-dream.json) |
 | Noragami Aragoto | 174843 | [174843-noragami-aragoto.json](./174843-noragami-aragoto.json) |
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
+| Nordlicht | 119776 | [119776-nordlicht.json](./119776-nordlicht.json) |
 | Nords: Heroes of the North | 23655 | [23655-nords-heroes-of-the-north.json](./23655-nords-heroes-of-the-north.json) |
 | Normal Diner | 177495 | [177495-normal-diner.json](./177495-normal-diner.json) |
 | Normal Fastfood Fantasy | 98480 | [98480-normal-fastfood-fantasy.json](./98480-normal-fastfood-fantasy.json) |
