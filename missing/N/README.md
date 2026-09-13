@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.E.R.O.: Nothing Ever Remains Obscure | 8256 | [8256-n-e-r-o-nothing-ever-remains-obscure.json](./8256-n-e-r-o-nothing-ever-remains-obscure.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
 | N.O.R.E.D: The War on Christmas | 181330 | [181330-n-o-r-e-d-the-war-on-christmas.json](./181330-n-o-r-e-d-the-war-on-christmas.json) |
+| N.O.V.A. 3 | 38883 | [38883-n-o-v-a-3.json](./38883-n-o-v-a-3.json) |
 | N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
 | N.O.V.A. Legacy | 39004 | [39004-n-o-v-a-legacy.json](./39004-n-o-v-a-legacy.json) |
 | N+ | 8749 | [8749-n.json](./8749-n.json) |
@@ -157,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ninja Destiny 2 | 47935 | [47935-naruto-shippuden-ninja-destiny-2.json](./47935-naruto-shippuden-ninja-destiny-2.json) |
 | Naruto Shippuden: Ultimate Ninja 5 | 25112 | [25112-naruto-shippuden-ultimate-ninja-5.json](./25112-naruto-shippuden-ultimate-ninja-5.json) |
 | Naruto Shippuden: Ultimate Ninja Blazing | 79298 | [79298-naruto-shippuden-ultimate-ninja-blazing.json](./79298-naruto-shippuden-ultimate-ninja-blazing.json) |
+| Naruto Shippuden: Ultimate Ninja Heroes 3 | 42855 | [42855-naruto-shippuden-ultimate-ninja-heroes-3.json](./42855-naruto-shippuden-ultimate-ninja-heroes-3.json) |
 | Naruto Shippuden: Ultimate Ninja Impact | 19649 | [19649-naruto-shippuden-ultimate-ninja-impact.json](./19649-naruto-shippuden-ultimate-ninja-impact.json) |
 | Naruto Shippuden: Ultimate Ninja Storm Collection | 44562 | [44562-naruto-shippuden-ultimate-ninja-storm-collection.json](./44562-naruto-shippuden-ultimate-ninja-storm-collection.json) |
 | Naruto Shippuden: Ultimate Ninja Storm Generations | 7100 | [7100-naruto-shippuden-ultimate-ninja-storm-generations.json](./7100-naruto-shippuden-ultimate-ninja-storm-generations.json) |
