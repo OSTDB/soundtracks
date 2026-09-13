@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T05:49:05.973Z",
-  "total_missing": 64872,
+  "generated_at": "2026-09-13T05:51:38.753Z",
+  "total_missing": 64871,
   "games": [
     {
       "igdb_id": 306086,
@@ -3426,11 +3426,6 @@
       "igdb_id": 174905,
       "game_name": "Ace Racer",
       "file": "missing/A/174905-ace-racer.json"
-    },
-    {
-      "igdb_id": 399610,
-      "game_name": "Ace Thunder: Aircraft Wingman Simulator",
-      "file": "missing/A/399610-ace-thunder-aircraft-wingman-simulator.json"
     },
     {
       "igdb_id": 61643,
