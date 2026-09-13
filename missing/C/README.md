@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's 4x4 Off-Road Adventure 2 | 92531 | [92531-cabelas-4x4-off-road-adventure-2.json](./92531-cabelas-4x4-off-road-adventure-2.json) |
 | Cabela's 4X4 Off-Road Adventure 3 | 23702 | [23702-cabelas-4x4-off-road-adventure-3.json](./23702-cabelas-4x4-off-road-adventure-3.json) |
 | Cabela's Adventure Camp | 6648 | [6648-cabelas-adventure-camp.json](./6648-cabelas-adventure-camp.json) |
+| Cabela's African Safari | 6931 | [6931-cabelas-african-safari.json](./6931-cabelas-african-safari.json) |
 | Cabela's Big Game Hunter | 100218 | [100218-cabelas-big-game-hunter.json](./100218-cabelas-big-game-hunter.json) |
 | Cabela's Big Game Hunter | 43250 | [43250-cabelas-big-game-hunter.json](./43250-cabelas-big-game-hunter.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Sushi | 18252 | [18252-chop-sushi.json](./18252-chop-sushi.json) |
 | Chopcremental | 349329 | [349329-chopcremental.json](./349329-chopcremental.json) |
 | Choplifter HD | 15158 | [15158-choplifter-hd.json](./15158-choplifter-hd.json) |
+| Choplifter II: Rescue Survive | 7823 | [7823-choplifter-ii-rescue-survive.json](./7823-choplifter-ii-rescue-survive.json) |
 | Chopper Attack | 3428 | [3428-chopper-attack.json](./3428-chopper-attack.json) |
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
