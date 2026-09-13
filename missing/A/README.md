@@ -2866,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
+| Artist Colony | 23284 | [23284-artist-colony.json](./23284-artist-colony.json) |
 | Artists of Fortune: Paint by Numbers! - Aquaris Planet | 191235 | [191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json](./191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json) |
 | Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 1 | 191230 | [191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json](./191230-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-1.json) |
 | Artists of Fortune: Paint by Numbers! - Spirit of Christmas Ep. 2 | 191229 | [191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json](./191229-artists-of-fortune-paint-by-numbers-spirit-of-christmas-ep-2.json) |
@@ -3518,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
 | Avabel Online | 38918 | [38918-avabel-online.json](./38918-avabel-online.json) |
+| Avadon 3: The Warborn | 23241 | [23241-avadon-3-the-warborn.json](./23241-avadon-3-the-warborn.json) |
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
 | Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
