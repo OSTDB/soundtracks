@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigant | 212830 | [212830-gigant.json](./212830-gigant.json) |
 | Gigantic Gear | 299729 | [299729-gigantic-gear.json](./299729-gigantic-gear.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
+| Gigantosaurus Dino Sports | 300466 | [300466-gigantosaurus-dino-sports.json](./300466-gigantosaurus-dino-sports.json) |
 | Gigolo | 40777 | [40777-gigolo.json](./40777-gigolo.json) |
 | Gilbert and the chemystical island | 319364 | [319364-gilbert-and-the-chemystical-island.json](./319364-gilbert-and-the-chemystical-island.json) |
 | Gilded Destiny | 236528 | [236528-gilded-destiny.json](./236528-gilded-destiny.json) |
@@ -888,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Gimme Five | 56468 | [56468-gimme-five.json](./56468-gimme-five.json) |
 | Gimmick: Exact Mix | 206146 | [206146-gimmick-exact-mix.json](./206146-gimmick-exact-mix.json) |
+| Gimmick! 2 | 306562 | [306562-gimmick-2.json](./306562-gimmick-2.json) |
 | GimmickHeart | 253400 | [253400-gimmickheart.json](./253400-gimmickheart.json) |
 | Gin Champion | 46581 | [46581-gin-champion.json](./46581-gin-champion.json) |
 | Gin's Gunstore | 355546 | [355546-gins-gunstore.json](./355546-gins-gunstore.json) |
@@ -1138,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | goalunited PRO | 29778 | [29778-goalunited-pro.json](./29778-goalunited-pro.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
+| Goat Simulator 3: Multiverse of Nonsense | 305106 | [305106-goat-simulator-3-multiverse-of-nonsense.json](./305106-goat-simulator-3-multiverse-of-nonsense.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
 | Goat Simulator: Waste of Space Bundle | 234308 | [234308-goat-simulator-waste-of-space-bundle.json](./234308-goat-simulator-waste-of-space-bundle.json) |
@@ -1966,6 +1969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
 | Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
+| Grit & Valor: 1949 | 304134 | [304134-grit-and-valor-1949.json](./304134-grit-and-valor-1949.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
 | Grix | 384501 | [384501-grix.json](./384501-grix.json) |
@@ -2012,6 +2016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground Zero: Texas | 5390 | [5390-ground-zero-texas.json](./5390-ground-zero-texas.json) |
 | GroundBreaker | 375848 | [375848-groundbreaker.json](./375848-groundbreaker.json) |
+| Grounded: Fully Yoked Edition | 297696 | [297696-grounded-fully-yoked-edition.json](./297696-grounded-fully-yoked-edition.json) |
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
