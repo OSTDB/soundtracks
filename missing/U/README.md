@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undeadz! | 35886 | [35886-undeadz.json](./35886-undeadz.json) |
 | Undefeated | 121220 | [121220-undefeated.json](./121220-undefeated.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
+| Under Control | 21325 | [21325-under-control.json](./21325-under-control.json) |
 | Under Defeat | 21015 | [21015-under-defeat.json](./21015-under-defeat.json) |
 | Under Defeat HD | 43951 | [43951-under-defeat-hd.json](./43951-under-defeat-hd.json) |
 | Under Defeat HD: Deluxe Edition | 20239 | [20239-under-defeat-hd-deluxe-edition.json](./20239-under-defeat-hd-deluxe-edition.json) |
