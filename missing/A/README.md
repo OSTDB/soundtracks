@@ -225,7 +225,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
 | Ace Attorney: The Dark Age of Love | 305190 | [305190-ace-attorney-the-dark-age-of-love.json](./305190-ace-attorney-the-dark-age-of-love.json) |
-| Ace Attorney: The Feather of Crime | 310416 | [310416-ace-attorney-the-feather-of-crime.json](./310416-ace-attorney-the-feather-of-crime.json) |
 | Ace Attorney: Ultimate Justice | 304031 | [304031-ace-attorney-ultimate-justice.json](./304031-ace-attorney-ultimate-justice.json) |
 | Ace Baker | 182524 | [182524-ace-baker.json](./182524-ace-baker.json) |
 | Ace Banana | 25108 | [25108-ace-banana.json](./25108-ace-banana.json) |
