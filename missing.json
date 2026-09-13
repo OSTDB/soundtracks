@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T15:18:55.754Z",
-  "total_missing": 66282,
+  "generated_at": "2026-09-13T15:21:31.850Z",
+  "total_missing": 66281,
   "games": [
     {
       "igdb_id": 306086,
@@ -3726,11 +3726,6 @@
       "igdb_id": 24858,
       "game_name": "Action Quest",
       "file": "missing/A/24858-action-quest.json"
-    },
-    {
-      "igdb_id": 290686,
-      "game_name": "ActionHacker",
-      "file": "missing/A/290686-actionhacker.json"
     },
     {
       "igdb_id": 107931,
