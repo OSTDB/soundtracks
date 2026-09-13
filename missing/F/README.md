@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Season Pass 1 | 317833 | [317833-fatal-fury-city-of-the-wolves-season-pass-1.json](./317833-fatal-fury-city-of-the-wolves-season-pass-1.json) |
 | Fatal Gem VR | 30863 | [30863-fatal-gem-vr.json](./30863-fatal-gem-vr.json) |
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
+| Fatal Labyrinth | 4496 | [4496-fatal-labyrinth.json](./4496-fatal-labyrinth.json) |
 | Fatal Seduction | 63871 | [63871-fatal-seduction.json](./63871-fatal-seduction.json) |
 | Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
@@ -936,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FightBots | 259859 | [259859-fightbots.json](./259859-fightbots.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
 | Fighter Wing | 73784 | [73784-fighter-wing.json](./73784-fighter-wing.json) |
+| Fighter Within | 4787 | [4787-fighter-within.json](./4787-fighter-within.json) |
 | Fighter X Fighter | 211947 | [211947-fighter-x-fighter.json](./211947-fighter-x-fighter.json) |
 | Fighter's Fury | 72082 | [72082-fighters-fury.json](./72082-fighters-fury.json) |
 | Fighter's History 2 | 58791 | [58791-fighters-history-2.json](./58791-fighters-history-2.json) |
@@ -2387,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred's Cereal Company | 253950 | [253950-freds-cereal-company.json](./253950-freds-cereal-company.json) |
 | Fredbear's Fright | 225631 | [225631-fredbears-fright.json](./225631-fredbears-fright.json) |
 | Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch | 3746 | [3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json](./3746-freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch.json) |
+| Freddi Fish 5: The Case of the Creature of Coral Cove | 3747 | [3747-freddi-fish-5-the-case-of-the-creature-of-coral-cove.json](./3747-freddi-fish-5-the-case-of-the-creature-of-coral-cove.json) |
 | Freddi Fish Collection | 300717 | [300717-freddi-fish-collection.json](./300717-freddi-fish-collection.json) |
 | Freddy | 280774 | [280774-freddy.json](./280774-freddy.json) |
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
