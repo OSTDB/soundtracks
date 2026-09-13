@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
 | People Eater | 28901 | [28901-people-eater.json](./28901-people-eater.json) |
 | People Manipulation Sim | 181369 | [181369-people-manipulation-sim.json](./181369-people-manipulation-sim.json) |
+| People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
@@ -940,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
 | Persona 4 Arena | 5650 | [5650-persona-4-arena.json](./5650-persona-4-arena.json) |
 | Persona 4 Golden | 234702 | [234702-persona-4-golden.json](./234702-persona-4-golden.json) |
+| Persona 4: Dancing All Night | 11056 | [11056-persona-4-dancing-all-night.json](./11056-persona-4-dancing-all-night.json) |
 | Persona 4: Golden - Solid Gold Premium Edition | 89923 | [89923-persona-4-golden-solid-gold-premium-edition.json](./89923-persona-4-golden-solid-gold-premium-edition.json) |
 | Persona 4: Golden Grimoire Edition | 273106 | [273106-persona-4-golden-grimoire-edition.json](./273106-persona-4-golden-grimoire-edition.json) |
 | Persona 4: Golden Midnight Channel Edition | 273107 | [273107-persona-4-golden-midnight-channel-edition.json](./273107-persona-4-golden-midnight-channel-edition.json) |
@@ -1767,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
 | Planet Collectors: Episode Earth | 193423 | [193423-planet-collectors-episode-earth.json](./193423-planet-collectors-episode-earth.json) |
 | Planet Craft | 181310 | [181310-planet-craft.json](./181310-planet-craft.json) |
+| Planet Crafter | 143574 | [143574-planet-crafter.json](./143574-planet-crafter.json) |
 | Planet Crashers | 21036 | [21036-planet-crashers.json](./21036-planet-crashers.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Delta | 80552 | [80552-planet-delta.json](./80552-planet-delta.json) |
@@ -2433,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Populous | 248 | [248-populous.json](./248-populous.json) |
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
+| Populous: The Beginning | 5525 | [5525-populous-the-beginning.json](./5525-populous-the-beginning.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
 | Porcuball | 96122 | [96122-porcuball.json](./96122-porcuball.json) |
 | Porgy | 318416 | [318416-porgy.json](./318416-porgy.json) |
@@ -2454,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Fantasy | 257931 | [257931-portal-fantasy.json](./257931-portal-fantasy.json) |
 | Portal Guardian | 389991 | [389991-portal-guardian.json](./389991-portal-guardian.json) |
 | Portal Gun in Sonic 2 | 129175 | [129175-portal-gun-in-sonic-2.json](./129175-portal-gun-in-sonic-2.json) |
+| Portal Knights | 20392 | [20392-portal-knights.json](./20392-portal-knights.json) |
 | Portal Knights: Legendary Edition | 166156 | [166156-portal-knights-legendary-edition.json](./166156-portal-knights-legendary-edition.json) |
 | Portal Pro | 284358 | [284358-portal-pro.json](./284358-portal-pro.json) |
 | Portal Puzzle | 270111 | [270111-portal-puzzle.json](./270111-portal-puzzle.json) |
