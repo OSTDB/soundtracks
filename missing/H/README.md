@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Heavy Machinery vs. Shumai | 409528 | [409528-heavy-machinery-vs-shumai.json](./409528-heavy-machinery-vs-shumai.json) |
 | Heavy Metal | 12141 | [12141-heavy-metal.json](./12141-heavy-metal.json) |
+| Heavy Metal Machines | 36171 | [36171-heavy-metal-machines.json](./36171-heavy-metal-machines.json) |
 | Heavy Nova | 5392 | [5392-heavy-nova.json](./5392-heavy-nova.json) |
 | Heavy Rain & Beyond: Two Souls - Collection | 44547 | [44547-heavy-rain-and-beyond-two-souls-collection.json](./44547-heavy-rain-and-beyond-two-souls-collection.json) |
 | Heavy Rain: Director's Cut | 45279 | [45279-heavy-rain-directors-cut.json](./45279-heavy-rain-directors-cut.json) |
@@ -2253,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House M.D. Episode 5: Under the Big Top | 65508 | [65508-house-m-d-episode-5-under-the-big-top.json](./65508-house-m-d-episode-5-under-the-big-top.json) |
 | House Maid Asuka | 97368 | [97368-house-maid-asuka.json](./97368-house-maid-asuka.json) |
 | House of 1000 Doors: Evil Inside - Collector's Edition | 273946 | [273946-house-of-1000-doors-evil-inside-collectors-edition.json](./273946-house-of-1000-doors-evil-inside-collectors-edition.json) |
+| House of 1000 Doors: Family Secrets | 36371 | [36371-house-of-1000-doors-family-secrets.json](./36371-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Family Secrets | 79322 | [79322-house-of-1000-doors-family-secrets.json](./79322-house-of-1000-doors-family-secrets.json) |
 | House of 1000 Doors: Serpent Flame | 119031 | [119031-house-of-1000-doors-serpent-flame.json](./119031-house-of-1000-doors-serpent-flame.json) |
 | House of Cathalon | 142442 | [142442-house-of-cathalon.json](./142442-house-of-cathalon.json) |
