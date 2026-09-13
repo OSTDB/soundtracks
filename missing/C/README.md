@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cascade Theater | 303269 | [303269-cascade-theater.json](./303269-cascade-theater.json) |
 | Cascadia Quest | 154564 | [154564-cascadia-quest.json](./154564-cascadia-quest.json) |
 | Case | 323550 | [323550-case.json](./323550-case.json) |
+| Case #8 | 18212 | [18212-case-8.json](./18212-case-8.json) |
 | Case 00: The Cannibal Boy | 150093 | [150093-case-00-the-cannibal-boy.json](./150093-case-00-the-cannibal-boy.json) |
 | Case 2: Animatronics Survival | 99300 | [99300-case-2-animatronics-survival.json](./99300-case-2-animatronics-survival.json) |
 | Case Blind: Stolen Route | 358283 | [358283-case-blind-stolen-route.json](./358283-case-blind-stolen-route.json) |
@@ -826,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat President: A More Purrfect Union | 23186 | [23186-cat-president-a-more-purrfect-union.json](./23186-cat-president-a-more-purrfect-union.json) |
 | Cat Purrtrol: Find All 100! | 295772 | [295772-cat-purrtrol-find-all-100.json](./295772-cat-purrtrol-find-all-100.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
+| Cat Simulator | 18014 | [18014-cat-simulator.json](./18014-cat-simulator.json) |
 | Cat Simulator | 283154 | [283154-cat-simulator.json](./283154-cat-simulator.json) |
 | Cat Simulator 2015 | 87780 | [87780-cat-simulator-2015.json](./87780-cat-simulator-2015.json) |
 | Cat Slaps | 332976 | [332976-cat-slaps.json](./332976-cat-slaps.json) |
@@ -3733,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
+| Crow | 17848 | [17848-crow.json](./17848-crow.json) |
 | Crow Country | 273522 | [273522-crow-country.json](./273522-crow-country.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
