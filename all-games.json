@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T16:16:06.243Z",
-  "total_soundtracks": 1445,
+  "generated_at": "2026-09-13T20:25:56.250Z",
+  "total_soundtracks": 1446,
   "games": [
     {
       "igdb_id": 7522,
@@ -383,6 +383,20 @@
         {
           "album_name": "Action Doom 2: Urban Brawl Soundtrack",
           "spotify_url": "https://open.spotify.com/album/6ekids1tvoYBJp84qpWpao",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 292305,
+      "game_name": "Add Astra",
+      "game_url": "https://ostdb.net/games/add-astra",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a21e1800b953367d344e6c5c",
+      "albums": [
+        {
+          "album_name": "Add Astra (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6OymQfnUrCmrTBUIuMrinm",
           "apple_music_url": "",
           "album_link_url": ""
         }
