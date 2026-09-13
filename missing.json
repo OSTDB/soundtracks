@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T23:18:45.122Z",
-  "total_missing": 67613,
+  "generated_at": "2026-09-13T23:21:30.480Z",
+  "total_missing": 67612,
   "games": [
     {
       "igdb_id": 306086,
@@ -4001,11 +4001,6 @@
       "igdb_id": 193994,
       "game_name": "Adorable Home",
       "file": "missing/A/193994-adorable-home.json"
-    },
-    {
-      "igdb_id": 245341,
-      "game_name": "Adorimon: Adventure of Monster",
-      "file": "missing/A/245341-adorimon-adventure-of-monster.json"
     },
     {
       "igdb_id": 321779,
