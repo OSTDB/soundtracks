@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Front: Liberation 1944 - Gold Edition | 53237 | [53237-iron-front-liberation-1944-gold-edition.json](./53237-iron-front-liberation-1944-gold-edition.json) |
 | Iron Front: Liberation 1944 D-Day | 53236 | [53236-iron-front-liberation-1944-d-day.json](./53236-iron-front-liberation-1944-d-day.json) |
 | Iron Frontier | 224787 | [224787-iron-frontier.json](./224787-iron-frontier.json) |
+| Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
 | Iron John Hawk: The Shards Of Power | 210025 | [210025-iron-john-hawk-the-shards-of-power.json](./210025-iron-john-hawk-the-shards-of-power.json) |
 | Iron Legacy | 400865 | [400865-iron-legacy.json](./400865-iron-legacy.json) |
