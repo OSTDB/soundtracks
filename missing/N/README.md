@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naoko to Hide-bou: Sansuu no Tensai 2 - Hayasa no Bunshoudai Tsuukasan Part I | 268489 | [268489-naoko-to-hide-bou-sansuu-no-tensai-2-hayasa-no-bunshoudai-tsuukasan-part-i.json](./268489-naoko-to-hide-bou-sansuu-no-tensai-2-hayasa-no-bunshoudai-tsuukasan-part-i.json) |
 | Napalm: The Crimson Crisis | 69892 | [69892-napalm-the-crimson-crisis.json](./69892-napalm-the-crimson-crisis.json) |
 | Napoleon 1813 | 62209 | [62209-napoleon-1813.json](./62209-napoleon-1813.json) |
+| Napoleon Dynamite: The Game | 2824 | [2824-napoleon-dynamite-the-game.json](./2824-napoleon-dynamite-the-game.json) |
 | Napoleon Solitaire | 132169 | [132169-napoleon-solitaire.json](./132169-napoleon-solitaire.json) |
 | Napoleon: Total War - Coalition Battle Pack | 82108 | [82108-napoleon-total-war-coalition-battle-pack.json](./82108-napoleon-total-war-coalition-battle-pack.json) |
 | Napoleon: Total War - Gold Edition | 88274 | [88274-napoleon-total-war-gold-edition.json](./88274-napoleon-total-war-gold-edition.json) |
