@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
 | Cadence | 317844 | [317844-cadence.json](./317844-cadence.json) |
 | Cadenza: Havana Nights | 188030 | [188030-cadenza-havana-nights.json](./188030-cadenza-havana-nights.json) |
+| Cadillacs and Dinosaurs: The Second Cataclysm | 5367 | [5367-cadillacs-and-dinosaurs-the-second-cataclysm.json](./5367-cadillacs-and-dinosaurs-the-second-cataclysm.json) |
 | Cadria Item Shop | 107894 | [107894-cadria-item-shop.json](./107894-cadria-item-shop.json) |
 | Caduca | 412969 | [412969-caduca.json](./412969-caduca.json) |
 | Caesar's Travels | 73307 | [73307-caesars-travels.json](./73307-caesars-travels.json) |
@@ -2896,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
 | Corpse Clue | 176983 | [176983-corpse-clue.json](./176983-corpse-clue.json) |
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
+| Corpse Killer | 5372 | [5372-corpse-killer.json](./5372-corpse-killer.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
 | Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
 | Corpse Party: Back to School Edition - Limited Edition | 89891 | [89891-corpse-party-back-to-school-edition-limited-edition.json](./89891-corpse-party-back-to-school-edition-limited-edition.json) |
