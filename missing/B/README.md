@@ -739,11 +739,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - Original Arkham Batman Skin | 15525 | [15525-batman-arkham-knight-original-arkham-batman-skin.json](./15525-batman-arkham-knight-original-arkham-batman-skin.json) |
 | Batman: Arkham Knight - Season of Infamy: Most Wanted Expansion | 15531 | [15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json](./15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json) |
 | Batman: Arkham Origins - Initiation | 75531 | [75531-batman-arkham-origins-initiation.json](./75531-batman-arkham-origins-initiation.json) |
+| Batman: Arkham Origins Blackgate | 7689 | [7689-batman-arkham-origins-blackgate.json](./7689-batman-arkham-origins-blackgate.json) |
 | Batman: Return to Arkham | 19245 | [19245-batman-return-to-arkham.json](./19245-batman-return-to-arkham.json) |
 | Batman: Return to Arkham - Arkham City | 203435 | [203435-batman-return-to-arkham-arkham-city.json](./203435-batman-return-to-arkham-arkham-city.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
 | Batman: The Enemy Within | 51525 | [51525-batman-the-enemy-within.json](./51525-batman-the-enemy-within.json) |
 | Batman: The Enemy Within - Episode 5: Same Stitch | 96066 | [96066-batman-the-enemy-within-episode-5-same-stitch.json](./96066-batman-the-enemy-within-episode-5-same-stitch.json) |
+| Batman: The Video Game | 10510 | [10510-batman-the-video-game.json](./10510-batman-the-video-game.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
@@ -2377,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
 | Bloons But You're the Bloon | 246094 | [246094-bloons-but-youre-the-bloon.json](./246094-bloons-but-youre-the-bloon.json) |
+| Bloons TD 5 | 17520 | [17520-bloons-td-5.json](./17520-bloons-td-5.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
@@ -2757,6 +2760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
 | Borderlands Triple Pack | 268734 | [268734-borderlands-triple-pack.json](./268734-borderlands-triple-pack.json) |
 | Borderlands: Game of the Year Enhanced | 118993 | [118993-borderlands-game-of-the-year-enhanced.json](./118993-borderlands-game-of-the-year-enhanced.json) |
+| Borderlands: The Handsome Collection | 14548 | [14548-borderlands-the-handsome-collection.json](./14548-borderlands-the-handsome-collection.json) |
 | Borderline Project: Beta-2 | 184577 | [184577-borderline-project-beta-2.json](./184577-borderline-project-beta-2.json) |
 | BorderStrain | 115037 | [115037-borderstrain.json](./115037-borderstrain.json) |
 | Boreal Tenebrae | 195729 | [195729-boreal-tenebrae.json](./195729-boreal-tenebrae.json) |
@@ -2918,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowmasters | 71911 | [71911-bowmasters.json](./71911-bowmasters.json) |
 | Bowmen | 129731 | [129731-bowmen.json](./129731-bowmen.json) |
 | Bows Space | 359396 | [359396-bows-space.json](./359396-bows-space.json) |
+| Bowser's Fury | 142909 | [142909-bowsers-fury.json](./142909-bowsers-fury.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
 | Box A Chocolate | 112285 | [112285-box-a-chocolate.json](./112285-box-a-chocolate.json) |
 | Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
@@ -3164,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakup Squad | 243103 | [243103-breakup-squad.json](./243103-breakup-squad.json) |
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
+| Breath of Fire III | 18055 | [18055-breath-of-fire-iii.json](./18055-breath-of-fire-iii.json) |
 | Breath of Ghosts | 203552 | [203552-breath-of-ghosts.json](./203552-breath-of-ghosts.json) |
 | Breath of the Waters: The Angler | 410937 | [410937-breath-of-the-waters-the-angler.json](./410937-breath-of-the-waters-the-angler.json) |
 | Breathbound | 372447 | [372447-breathbound.json](./372447-breathbound.json) |
@@ -3482,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
+| Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
 | Bugs Bunny: Private Eye | 67270 | [67270-bugs-bunny-private-eye.json](./67270-bugs-bunny-private-eye.json) |
 | Bugs Bunny's Birthday Ball | 81361 | [81361-bugs-bunnys-birthday-ball.json](./81361-bugs-bunnys-birthday-ball.json) |
 | Bugs N' Guns | 276690 | [276690-bugs-n-guns.json](./276690-bugs-n-guns.json) |
