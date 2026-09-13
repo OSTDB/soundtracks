@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T08:41:30.452Z",
-  "total_missing": 65308,
+  "generated_at": "2026-09-13T09:41:36.374Z",
+  "total_missing": 65303,
   "games": [
     {
       "igdb_id": 306086,
@@ -3518,34 +3518,9 @@
       "file": "missing/A/102877-acid-spy.json"
     },
     {
-      "igdb_id": 271740,
-      "game_name": "Acid Worship",
-      "file": "missing/A/271740-acid-worship.json"
-    },
-    {
-      "igdb_id": 79318,
-      "game_name": "Ack-Ack Attack!",
-      "file": "missing/A/79318-ack-ack-attack.json"
-    },
-    {
-      "igdb_id": 211391,
-      "game_name": "ACL Pro Cornhole",
-      "file": "missing/A/211391-acl-pro-cornhole.json"
-    },
-    {
       "igdb_id": 129795,
       "game_name": "ACM 1918",
       "file": "missing/A/129795-acm-1918.json"
-    },
-    {
-      "igdb_id": 3044,
-      "game_name": "ACME Animation Factory",
-      "file": "missing/A/3044-acme-animation-factory.json"
-    },
-    {
-      "igdb_id": 97351,
-      "game_name": "Acme Bricks",
-      "file": "missing/A/97351-acme-bricks.json"
     },
     {
       "igdb_id": 293078,
