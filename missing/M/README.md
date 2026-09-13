@@ -601,6 +601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandrake Girls: Garden of Secret | 202399 | [202399-mandrake-girls-garden-of-secret.json](./202399-mandrake-girls-garden-of-secret.json) |
 | Mane | 158171 | [158171-mane.json](./158171-mane.json) |
 | Mane Box | 237396 | [237396-mane-box.json](./237396-mane-box.json) |
+| Maneater | 46800 | [46800-maneater.json](./46800-maneater.json) |
 | Maneater: Truth Quest | 162622 | [162622-maneater-truth-quest.json](./162622-maneater-truth-quest.json) |
 | Maneuver Warfare | 293419 | [293419-maneuver-warfare.json](./293419-maneuver-warfare.json) |
 | Maneuver Warfare: CSS Pack | 293423 | [293423-maneuver-warfare-css-pack.json](./293423-maneuver-warfare-css-pack.json) |
@@ -748,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Luigi Sokoban | 349855 | [349855-mario-and-luigi-sokoban.json](./349855-mario-and-luigi-sokoban.json) |
 | Mario & Luigi vs. The Furbies | 323179 | [323179-mario-and-luigi-vs-the-furbies.json](./323179-mario-and-luigi-vs-the-furbies.json) |
 | Mario & Luigi: Kola Kingdom Quest | 132856 | [132856-mario-and-luigi-kola-kingdom-quest.json](./132856-mario-and-luigi-kola-kingdom-quest.json) |
+| Mario & Luigi: Partners in Time | 3364 | [3364-mario-and-luigi-partners-in-time.json](./3364-mario-and-luigi-partners-in-time.json) |
 | Mario & Luigi: Superstar Saga | 3351 | [3351-mario-and-luigi-superstar-saga.json](./3351-mario-and-luigi-superstar-saga.json) |
 | Mario & Sonic | 324089 | [324089-mario-and-sonic.json](./324089-mario-and-sonic.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
@@ -984,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305168 | [305168-marvel-vs-capcom-2-new-age-of-heroes.json](./305168-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305169 | [305169-marvel-vs-capcom-2-new-age-of-heroes.json](./305169-marvel-vs-capcom-2-new-age-of-heroes.json) |
+| Marvel vs. Capcom: Clash of Super Heroes | 8246 | [8246-marvel-vs-capcom-clash-of-super-heroes.json](./8246-marvel-vs-capcom-clash-of-super-heroes.json) |
 | Marvel vs. Capcom: Infinite - Black Panther | 161319 | [161319-marvel-vs-capcom-infinite-black-panther.json](./161319-marvel-vs-capcom-infinite-black-panther.json) |
 | Marvel vs. Capcom: Infinite - Black Widow | 161317 | [161317-marvel-vs-capcom-infinite-black-widow.json](./161317-marvel-vs-capcom-infinite-black-widow.json) |
 | Marvel vs. Capcom: Infinite - Monster Hunter | 161320 | [161320-marvel-vs-capcom-infinite-monster-hunter.json](./161320-marvel-vs-capcom-infinite-monster-hunter.json) |
