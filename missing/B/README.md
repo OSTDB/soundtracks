@@ -2075,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blake Turner: Ace Attorney | 308528 | [308528-blake-turner-ace-attorney.json](./308528-blake-turner-ace-attorney.json) |
 | Blaloon Blalympia | 187505 | [187505-blaloon-blalympia.json](./187505-blaloon-blalympia.json) |
 | Blamdown Udder Fury | 33063 | [33063-blamdown-udder-fury.json](./33063-blamdown-udder-fury.json) |
+| Blame him | 111802 | [111802-blame-him.json](./111802-blame-him.json) |
 | Blanc | 206812 | [206812-blanc.json](./206812-blanc.json) |
 | Blanche | 184566 | [184566-blanche.json](./184566-blanche.json) |
 | Blanco: The Color of Adventure | 23960 | [23960-blanco-the-color-of-adventure.json](./23960-blanco-the-color-of-adventure.json) |
@@ -3564,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbles Master | 230848 | [230848-bubbles-master.json](./230848-bubbles-master.json) |
 | Bubbles Shot | 187430 | [187430-bubbles-shot.json](./187430-bubbles-shot.json) |
 | Bubbles Swimsuit | 225063 | [225063-bubbles-swimsuit.json](./225063-bubbles-swimsuit.json) |
+| Bubbles the Cat | 112934 | [112934-bubbles-the-cat.json](./112934-bubbles-the-cat.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
 | BUBG Single on the Ground | 269039 | [269039-bubg-single-on-the-ground.json](./269039-bubg-single-on-the-ground.json) |
