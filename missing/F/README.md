@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy World Online Tycoon | 132209 | [132209-fantasy-world-online-tycoon.json](./132209-fantasy-world-online-tycoon.json) |
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
 | Fantasy Zone II: Opa-Opa no Namida | 48627 | [48627-fantasy-zone-ii-opa-opa-no-namida.json](./48627-fantasy-zone-ii-opa-opa-no-namida.json) |
+| Fantasy Zone: The Maze | 45658 | [45658-fantasy-zone-the-maze.json](./45658-fantasy-zone-the-maze.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
 | Fantaventura | 129717 | [129717-fantaventura.json](./129717-fantaventura.json) |
 | Fantom Feast | 112928 | [112928-fantom-feast.json](./112928-fantom-feast.json) |
@@ -1039,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy X-2: International | 247548 | [247548-final-fantasy-x-2-international.json](./247548-final-fantasy-x-2-international.json) |
 | Final Fantasy XI Online | 411 | [411-final-fantasy-xi-online.json](./411-final-fantasy-xi-online.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
+| Final Fantasy XIV: A Realm Reborn - Collector's Edition | 41839 | [41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json](./41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
 | Final Fantasy XIV: Stormblood | 26625 | [26625-final-fantasy-xiv-stormblood.json](./26625-final-fantasy-xiv-stormblood.json) |
