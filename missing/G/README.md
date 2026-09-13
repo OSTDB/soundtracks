@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trader | 207849 | [207849-galaxy-trader.json](./207849-galaxy-trader.json) |
 | Galaxy Trek | 285458 | [285458-galaxy-trek.json](./285458-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
+| Galaxy Warfighter | 131984 | [131984-galaxy-warfighter.json](./131984-galaxy-warfighter.json) |
 | Galaxy Warrior | 152319 | [152319-galaxy-warrior.json](./152319-galaxy-warrior.json) |
 | Galaxy Wars 4 | 385552 | [385552-galaxy-wars-4.json](./385552-galaxy-wars-4.json) |
 | Galaxy Wars: Ice Empire | 102820 | [102820-galaxy-wars-ice-empire.json](./102820-galaxy-wars-ice-empire.json) |
@@ -1965,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grindshift | 207307 | [207307-grindshift.json](./207307-grindshift.json) |
 | Grip Games Anthology | 99557 | [99557-grip-games-anthology.json](./99557-grip-games-anthology.json) |
 | Grip: Digital Deluxe | 118945 | [118945-grip-digital-deluxe.json](./118945-grip-digital-deluxe.json) |
+| Gripper | 130776 | [130776-gripper.json](./130776-gripper.json) |
 | Gripper's Adventure | 89272 | [89272-grippers-adventure.json](./89272-grippers-adventure.json) |
 | Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
 | Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
@@ -2374,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guts'n | 40183 | [40183-gutsn.json](./40183-gutsn.json) |
 | Gutter: The Perished | 296902 | [296902-gutter-the-perished.json](./296902-gutter-the-perished.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
+| Gutwhale | 132599 | [132599-gutwhale.json](./132599-gutwhale.json) |
 | Guuguuthropus | 143656 | [143656-guuguuthropus.json](./143656-guuguuthropus.json) |
 | Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
 | GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
