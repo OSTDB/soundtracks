@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking Real Driving Sim | 274976 | [274976-car-parking-real-driving-sim.json](./274976-car-parking-real-driving-sim.json) |
 | Car Parking Simulator 3D Game | 105929 | [105929-car-parking-simulator-3d-game.json](./105929-car-parking-simulator-3d-game.json) |
 | Car Physics Simulator: Trucks + Missions DLC | 155107 | [155107-car-physics-simulator-trucks-missions-dlc.json](./155107-car-physics-simulator-trucks-missions-dlc.json) |
+| Car Polo | 19371 | [19371-car-polo.json](./19371-car-polo.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: Junior Detective Edition | 73783 | [73783-carmen-sandiego-junior-detective-edition.json](./73783-carmen-sandiego-junior-detective-edition.json) |
 | Carmen Sandiego: To Steal or Not to Steal | 256843 | [256843-carmen-sandiego-to-steal-or-not-to-steal.json](./256843-carmen-sandiego-to-steal-or-not-to-steal.json) |
+| Carmen Sandiego's Great Chase Through Time | 19426 | [19426-carmen-sandiegos-great-chase-through-time.json](./19426-carmen-sandiegos-great-chase-through-time.json) |
 | Carmen Sandiego's Think Quick Challenge | 66607 | [66607-carmen-sandiegos-think-quick-challenge.json](./66607-carmen-sandiegos-think-quick-challenge.json) |
 | Carminia | 153385 | [153385-carminia.json](./153385-carminia.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
@@ -807,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataline | 209710 | [209710-cataline.json](./209710-cataline.json) |
 | Catalyst | 114333 | [114333-catalyst.json](./114333-catalyst.json) |
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
+| Catan | 19435 | [19435-catan.json](./19435-catan.json) |
 | Catan: Cities & Knights | 238213 | [238213-catan-cities-and-knights.json](./238213-catan-cities-and-knights.json) |
 | Catan: Console Edition - Complete Collection | 303803 | [303803-catan-console-edition-complete-collection.json](./303803-catan-console-edition-complete-collection.json) |
 | Catan: Das Kartenspiel | 98936 | [98936-catan-das-kartenspiel.json](./98936-catan-das-kartenspiel.json) |
@@ -836,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch'em | 302138 | [302138-catchem.json](./302138-catchem.json) |
 | Catcha Catcha Aliens! | 61630 | [61630-catcha-catcha-aliens.json](./61630-catcha-catcha-aliens.json) |
 | Catching | 117654 | [117654-catching.json](./117654-catching.json) |
+| Catchy Crystals | 19386 | [19386-catchy-crystals.json](./19386-catchy-crystals.json) |
 | Catchy Tunes | 96772 | [96772-catchy-tunes.json](./96772-catchy-tunes.json) |
 | CatClimber | 320550 | [320550-catclimber.json](./320550-catclimber.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
@@ -3999,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
 | Cyber Tiger | 3431 | [3431-cyber-tiger.json](./3431-cyber-tiger.json) |
 | Cyber Tower | 267098 | [267098-cyber-tower.json](./267098-cyber-tower.json) |
+| Cyber Troopers Virtual-On Marz | 19252 | [19252-cyber-troopers-virtual-on-marz.json](./19252-cyber-troopers-virtual-on-marz.json) |
 | Cyber Utopia | 43508 | [43508-cyber-utopia.json](./43508-cyber-utopia.json) |
 | Cyber VR | 51938 | [51938-cyber-vr.json](./51938-cyber-vr.json) |
 | Cyber War: Cyberpunk Reborn | 174904 | [174904-cyber-war-cyberpunk-reborn.json](./174904-cyber-war-cyberpunk-reborn.json) |
@@ -4074,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyoube | 302346 | [302346-cyoube.json](./302346-cyoube.json) |
 | Cypest Underground | 111734 | [111734-cypest-underground.json](./111734-cypest-underground.json) |
 | Cypher: Cyberpunk Text Adventure | 64616 | [64616-cypher-cyberpunk-text-adventure.json](./64616-cypher-cyberpunk-text-adventure.json) |
+| Cyril Cyberpunk | 19339 | [19339-cyril-cyberpunk.json](./19339-cyril-cyberpunk.json) |
 | Cyroad | 128570 | [128570-cyroad.json](./128570-cyroad.json) |
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
