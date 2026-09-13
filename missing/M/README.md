@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
 | Maelstrom: The Battle for Earth Begins Enhanced | 385595 | [385595-maelstrom-the-battle-for-earth-begins-enhanced.json](./385595-maelstrom-the-battle-for-earth-begins-enhanced.json) |
 | Maestria | 207841 | [207841-maestria.json](./207841-maestria.json) |
+| Maestro | 306924 | [306924-maestro.json](./306924-maestro.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Mǎfǎ Chuánqí | 159812 | [159812-mafa-chuanqi.json](./159812-mafa-chuanqi.json) |
 | Mafalda: Jugando con Números y Palabras | 167760 | [167760-mafalda-jugando-con-numeros-y-palabras.json](./167760-mafalda-jugando-con-numeros-y-palabras.json) |
@@ -1141,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Albion | 314272 | [314272-masters-of-albion.json](./314272-masters-of-albion.json) |
 | Masters of Cards | 322585 | [322585-masters-of-cards.json](./322585-masters-of-cards.json) |
 | Masters of Chaos | 268757 | [268757-masters-of-chaos.json](./268757-masters-of-chaos.json) |
+| Masters of Light | 285367 | [285367-masters-of-light.json](./285367-masters-of-light.json) |
 | Masters of Mayhem | 314266 | [314266-masters-of-mayhem.json](./314266-masters-of-mayhem.json) |
 | Masters of Puzzle: Autumn Fuji | 151213 | [151213-masters-of-puzzle-autumn-fuji.json](./151213-masters-of-puzzle-autumn-fuji.json) |
 | Masters of Puzzle: Childhood | 151216 | [151216-masters-of-puzzle-childhood.json](./151216-masters-of-puzzle-childhood.json) |
@@ -2310,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
+| Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Mysteries: Devil on the Mississippi - Collector's Edition | 89860 | [89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json](./89860-midnight-mysteries-devil-on-the-mississippi-collectors-edition.json) |
 | Midnight Scenes Ep.2: The Goodbye Note - Special Edition | 176481 | [176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json](./176481-midnight-scenes-ep-2-the-goodbye-note-special-edition.json) |
 | Midnight Snack | 324920 | [324920-midnight-snack.json](./324920-midnight-snack.json) |
@@ -4358,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
 | My Little Pony Hair Salon | 287085 | [287085-my-little-pony-hair-salon.json](./287085-my-little-pony-hair-salon.json) |
 | My Little Pony World | 221943 | [221943-my-little-pony-world.json](./221943-my-little-pony-world.json) |
+| My Little Pony: A Zephyr Heights Mystery | 290839 | [290839-my-little-pony-a-zephyr-heights-mystery.json](./290839-my-little-pony-a-zephyr-heights-mystery.json) |
 | My Little Pony: Best Friends Ball | 124742 | [124742-my-little-pony-best-friends-ball.json](./124742-my-little-pony-best-friends-ball.json) |
 | My Little Pony: Fighting is Magic | 137023 | [137023-my-little-pony-fighting-is-magic.json](./137023-my-little-pony-fighting-is-magic.json) |
 | My Little Pony: Fighting is Magic - Tribute Edition | 146263 | [146263-my-little-pony-fighting-is-magic-tribute-edition.json](./146263-my-little-pony-fighting-is-magic-tribute-edition.json) |
