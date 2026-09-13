@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-MMO | 55919 | [55919-z-mmo.json](./55919-z-mmo.json) |
 | Z-Rush Survival | 191818 | [191818-z-rush-survival.json](./191818-z-rush-survival.json) |
 | Z: Escape | 99647 | [99647-z-escape.json](./99647-z-escape.json) |
+| Z: Steel Soldiers | 3276 | [3276-z-steel-soldiers.json](./3276-z-steel-soldiers.json) |
 | Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | Z.O.N.A Project X VR | 216803 | [216803-z-o-n-a-project-x-vr.json](./216803-z-o-n-a-project-x-vr.json) |
