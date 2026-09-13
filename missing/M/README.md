@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
 | Micro Machines 1 and 2: Twin Turbo | 93056 | [93056-micro-machines-1-and-2-twin-turbo.json](./93056-micro-machines-1-and-2-twin-turbo.json) |
 | Micro Machines 2: Turbo Tournament | 8775 | [8775-micro-machines-2-turbo-tournament.json](./8775-micro-machines-2-turbo-tournament.json) |
+| Micro Machines V4 | 8512 | [8512-micro-machines-v4.json](./8512-micro-machines-v4.json) |
 | Micro Mayhem | 115040 | [115040-micro-mayhem.json](./115040-micro-mayhem.json) |
 | Micro Maze | 252731 | [252731-micro-maze.json](./252731-micro-maze.json) |
 | Micro Miners | 74338 | [74338-micro-miners.json](./74338-micro-miners.json) |
@@ -2294,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
+| Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
 | Might and Magic: Book One - The Secret of the Inner Sanctum | 7733 | [7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json](./7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json) |
 | Might and Magic: World of Xeen | 7738 | [7738-might-and-magic-world-of-xeen.json](./7738-might-and-magic-world-of-xeen.json) |
 | Might is Right | 127497 | [127497-might-is-right.json](./127497-might-is-right.json) |
