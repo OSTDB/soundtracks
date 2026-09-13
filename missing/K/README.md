@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts HD 1.5 Remix: Limited Edition | 81206 | [81206-kingdom-hearts-hd-1-5-remix-limited-edition.json](./81206-kingdom-hearts-hd-1-5-remix-limited-edition.json) |
 | Kingdom Hearts HD 2.8 Final Chapter Prologue: Limited Edition | 44535 | [44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json](./44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json) |
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
+| Kingdom Hearts Integrum Masterpiece | 305216 | [305216-kingdom-hearts-integrum-masterpiece.json](./305216-kingdom-hearts-integrum-masterpiece.json) |
 | Kingdom Hearts Integrum Masterpiece for Cloud | 187460 | [187460-kingdom-hearts-integrum-masterpiece-for-cloud.json](./187460-kingdom-hearts-integrum-masterpiece-for-cloud.json) |
 | Kingdom Hearts Re:Chain of Memories | 214986 | [214986-kingdom-hearts-re-chain-of-memories.json](./214986-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights and Bikes | 25584 | [25584-knights-and-bikes.json](./25584-knights-and-bikes.json) |
 | Knights and Craftsmen | 223689 | [223689-knights-and-craftsmen.json](./223689-knights-and-craftsmen.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
+| Knights in Tight Spaces | 292879 | [292879-knights-in-tight-spaces.json](./292879-knights-in-tight-spaces.json) |
 | Knights of Braveland: Around the World Pack | 255963 | [255963-knights-of-braveland-around-the-world-pack.json](./255963-knights-of-braveland-around-the-world-pack.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
 | Knights of Pen and Paper II | 10126 | [10126-knights-of-pen-and-paper-ii.json](./10126-knights-of-pen-and-paper-ii.json) |
