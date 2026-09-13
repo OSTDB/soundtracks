@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiào Ào Jiānghú 2 Wàizhuàn: Dōngfāng Zàiqǐ | 184095 | [184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json](./184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json) |
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
 | XII Stag | 43340 | [43340-xii-stag.json](./43340-xii-stag.json) |
+| XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
 | Xilost | 118354 | [118354-xilost.json](./118354-xilost.json) |
 | Xin Jianxia Qingyuan | 86014 | [86014-xin-jianxia-qingyuan.json](./86014-xin-jianxia-qingyuan.json) |
 | Xin Juedai Shuangjiao 2 | 78051 | [78051-xin-juedai-shuangjiao-2.json](./78051-xin-juedai-shuangjiao-2.json) |
