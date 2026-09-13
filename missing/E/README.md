@@ -1276,6 +1276,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
 | Etrian Odyssey HD Character Set DLC | 251586 | [251586-etrian-odyssey-hd-character-set-dlc.json](./251586-etrian-odyssey-hd-character-set-dlc.json) |
+| Etrian Odyssey II: Heroes of Lagaard | 14717 | [14717-etrian-odyssey-ii-heroes-of-lagaard.json](./14717-etrian-odyssey-ii-heroes-of-lagaard.json) |
+| Etrian Odyssey III: The Drowned City | 14718 | [14718-etrian-odyssey-iii-the-drowned-city.json](./14718-etrian-odyssey-iii-the-drowned-city.json) |
 | Etrian Odyssey IV: Legends of the Titan | 6767 | [6767-etrian-odyssey-iv-legends-of-the-titan.json](./6767-etrian-odyssey-iv-legends-of-the-titan.json) |
 | Etrom: The Astral Essence | 72086 | [72086-etrom-the-astral-essence.json](./72086-etrom-the-astral-essence.json) |
 | Ettrian: The Elf Prince | 240806 | [240806-ettrian-the-elf-prince.json](./240806-ettrian-the-elf-prince.json) |
@@ -1426,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's Putter Golf With Toro | 66090 | [66090-everybodys-putter-golf-with-toro.json](./66090-everybodys-putter-golf-with-toro.json) |
 | Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
+| Everyday Shooter | 14911 | [14911-everyday-shooter.json](./14911-everyday-shooter.json) |
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
 | Everyone Goes Home | 120926 | [120926-everyone-goes-home.json](./120926-everyone-goes-home.json) |
 | Everyone Sing | 45293 | [45293-everyone-sing.json](./45293-everyone-sing.json) |
