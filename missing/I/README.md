@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am an Air Traffic Controller: Airport Hero Osaka-KIX | 55940 | [55940-i-am-an-air-traffic-controller-airport-hero-osaka-kix.json](./55940-i-am-an-air-traffic-controller-airport-hero-osaka-kix.json) |
 | I Am An Air Traffic Controller: Airport Hero Shinchitose | 56476 | [56476-i-am-an-air-traffic-controller-airport-hero-shinchitose.json](./56476-i-am-an-air-traffic-controller-airport-hero-shinchitose.json) |
 | I Am Bad at People, but Turns Out I’m Even Worse at Making Games | 260147 | [260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json](./260147-i-am-bad-at-people-but-turns-out-i-m-even-worse-at-making-games.json) |
+| I Am Cat | 303244 | [303244-i-am-cat.json](./303244-i-am-cat.json) |
 | I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I am Dave | 255716 | [255716-i-am-dave.json](./255716-i-am-dave.json) |
 | I Am Dog | 296918 | [296918-i-am-dog.json](./296918-i-am-dog.json) |
@@ -816,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Dash | 173800 | [173800-infinite-dash.json](./173800-infinite-dash.json) |
 | Infinite Dunamis | 39013 | [39013-infinite-dunamis.json](./39013-infinite-dunamis.json) |
 | Infinite Incantation | 236854 | [236854-infinite-incantation.json](./236854-infinite-incantation.json) |
+| Infinite Inside | 306748 | [306748-infinite-inside.json](./306748-infinite-inside.json) |
 | Infinite Jigsaw Puzzle | 94222 | [94222-infinite-jigsaw-puzzle.json](./94222-infinite-jigsaw-puzzle.json) |
 | Infinite Jigsaw Puzzle Pack | 78010 | [78010-infinite-jigsaw-puzzle-pack.json](./78010-infinite-jigsaw-puzzle-pack.json) |
 | Infinite Jonathans | 125416 | [125416-infinite-jonathans.json](./125416-infinite-jonathans.json) |
