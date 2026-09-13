@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitas! | 259549 | [259549-gravitas.json](./259549-gravitas.json) |
 | Gravitation | 57614 | [57614-gravitation.json](./57614-gravitation.json) |
 | Gravitational | 150150 | [150150-gravitational.json](./150150-gravitational.json) |
+| Graviteam Tactics: Mius Front | 18173 | [18173-graviteam-tactics-mius-front.json](./18173-graviteam-tactics-mius-front.json) |
 | Graviteam Tactics: Mius Front - Bird Grove | 219807 | [219807-graviteam-tactics-mius-front-bird-grove.json](./219807-graviteam-tactics-mius-front-bird-grove.json) |
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
