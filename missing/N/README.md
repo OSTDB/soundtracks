@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K1 | 28836 | [28836-nba-2k1.json](./28836-nba-2k1.json) |
 | NBA 2K11 | 5056 | [5056-nba-2k11.json](./5056-nba-2k11.json) |
 | NBA 2K17: The Prelude | 83763 | [83763-nba-2k17-the-prelude.json](./83763-nba-2k17-the-prelude.json) |
+| NBA 2K19 | 103218 | [103218-nba-2k19.json](./103218-nba-2k19.json) |
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
 | NBA 2K21: Mamba Forever Edition | 136398 | [136398-nba-2k21-mamba-forever-edition.json](./136398-nba-2k21-mamba-forever-edition.json) |
@@ -1209,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs + Cats: French Bulldog & New Friends | 85600 | [85600-nintendogs-cats-french-bulldog-and-new-friends.json](./85600-nintendogs-cats-french-bulldog-and-new-friends.json) |
 | Nintendogs + Cats: Shiba Inu & New Friends | 222328 | [222328-nintendogs-cats-shiba-inu-and-new-friends.json](./222328-nintendogs-cats-shiba-inu-and-new-friends.json) |
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
+| Nioh 2 | 103330 | [103330-nioh-2.json](./103330-nioh-2.json) |
 | Nioh 3: Bloody Insurrection | 411562 | [411562-nioh-3-bloody-insurrection.json](./411562-nioh-3-bloody-insurrection.json) |
 | Nioh 3: Hell Rising | 411561 | [411561-nioh-3-hell-rising.json](./411561-nioh-3-hell-rising.json) |
 | Nios | 189161 | [189161-nios.json](./189161-nios.json) |
