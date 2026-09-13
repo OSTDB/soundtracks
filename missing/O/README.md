@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
 | Operation F.A.T.E. | 152865 | [152865-operation-f-a-t-e.json](./152865-operation-f-a-t-e.json) |
 | Operation Flashpoint: Cold War Crisis | 288 | [288-operation-flashpoint-cold-war-crisis.json](./288-operation-flashpoint-cold-war-crisis.json) |
+| Operation Flashpoint: Resistance | 448 | [448-operation-flashpoint-resistance.json](./448-operation-flashpoint-resistance.json) |
 | Operation Food to Gold | 278385 | [278385-operation-food-to-gold.json](./278385-operation-food-to-gold.json) |
 | Operation Gekkou | 210688 | [210688-operation-gekkou.json](./210688-operation-gekkou.json) |
 | Operation H.O.P.E. | 392784 | [392784-operation-h-o-p-e.json](./392784-operation-h-o-p-e.json) |
@@ -910,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcs and Outlaws | 332995 | [332995-orcs-and-outlaws.json](./332995-orcs-and-outlaws.json) |
 | Orcs Must Die! | 2355 | [2355-orcs-must-die.json](./2355-orcs-must-die.json) |
 | Orcs Must Die! 2 | 8372 | [8372-orcs-must-die-2.json](./8372-orcs-must-die-2.json) |
+| Orcs Must Die! Unchained | 9637 | [9637-orcs-must-die-unchained.json](./9637-orcs-must-die-unchained.json) |
 | Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
