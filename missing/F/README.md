@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix the Cat: Contra os Inimigos | 282586 | [282586-felix-the-cat-contra-os-inimigos.json](./282586-felix-the-cat-contra-os-inimigos.json) |
 | Felix VR | 163916 | [163916-felix-vr.json](./163916-felix-vr.json) |
 | Felon-E | 302356 | [302356-felon-e.json](./302356-felon-e.json) |
+| Felspire | 23660 | [23660-felspire.json](./23660-felspire.json) |
 | Felt That: Boxing | 347117 | [347117-felt-that-boxing.json](./347117-felt-that-boxing.json) |
 | Feltopia | 325282 | [325282-feltopia.json](./325282-feltopia.json) |
 | Felvidek | 238782 | [238782-felvidek.json](./238782-felvidek.json) |
@@ -1461,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
 | Flappy Horse | 309373 | [309373-flappy-horse.json](./309373-flappy-horse.json) |
+| Flappy Meatbag | 23731 | [23731-flappy-meatbag.json](./23731-flappy-meatbag.json) |
 | Flappy Navalny | 137665 | [137665-flappy-navalny.json](./137665-flappy-navalny.json) |
 | Flappy Shooter | 175982 | [175982-flappy-shooter.json](./175982-flappy-shooter.json) |
 | Flappy Souls | 249191 | [249191-flappy-souls.json](./249191-flappy-souls.json) |
