@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | $1,000,000 Kid: Maboroshi no Teiou-hen | 215126 | [215126-1-000-000-kid-maboroshi-no-teiou-hen.json](./215126-1-000-000-kid-maboroshi-no-teiou-hen.json) |
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
 | 000000052573743 | 216229 | [216229-000000052573743.json](./216229-000000052573743.json) |
+| 005 | 38521 | [38521-005.json](./38521-005.json) |
 | 007 Legends: Skyfall | 110398 | [110398-007-legends-skyfall.json](./110398-007-legends-skyfall.json) |
 | 01's Blackhole | 200635 | [200635-01s-blackhole.json](./200635-01s-blackhole.json) |
 | 0101: Classic Bonus Levels 3 | 325453 | [325453-0101-classic-bonus-levels-3.json](./325453-0101-classic-bonus-levels-3.json) |
@@ -452,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Classic Card & Board Games: No. 1 | 15584 | [15584-9-classic-card-and-board-games-no-1.json](./15584-9-classic-card-and-board-games-no-1.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
 | 9 Empires | 27735 | [27735-9-empires.json](./27735-9-empires.json) |
+| 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
 | 90 Minutes European Prime Goal | 42663 | [42663-90-minutes-european-prime-goal.json](./42663-90-minutes-european-prime-goal.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
