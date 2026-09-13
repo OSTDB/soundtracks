@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
+| Tad the Lost Explorer and the Emerald Tablet | 204124 | [204124-tad-the-lost-explorer-and-the-emerald-tablet.json](./204124-tad-the-lost-explorer-and-the-emerald-tablet.json) |
 | Tad the Lost Explorer and the Emerald Tablet: Craziest and Madness Edition | 250359 | [250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json](./250359-tad-the-lost-explorer-and-the-emerald-tablet-craziest-and-madness-edition.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
@@ -1292,6 +1293,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Shinsengumi: Heroes in Love | 32318 | [32318-the-amazing-shinsengumi-heroes-in-love.json](./32318-the-amazing-shinsengumi-heroes-in-love.json) |
 | The Amazing Shrinking Man | 123537 | [123537-the-amazing-shrinking-man.json](./123537-the-amazing-shrinking-man.json) |
 | The Amazing Spider-Man | 1376 | [1376-the-amazing-spider-man.json](./1376-the-amazing-spider-man.json) |
+| The Amazing Spider-Man | 203136 | [203136-the-amazing-spider-man.json](./203136-the-amazing-spider-man.json) |
+| The Amazing Spider-Man | 203140 | [203140-the-amazing-spider-man.json](./203140-the-amazing-spider-man.json) |
+| The Amazing Spider-Man | 203143 | [203143-the-amazing-spider-man.json](./203143-the-amazing-spider-man.json) |
 | The Amazing Spider-Man | 254522 | [254522-the-amazing-spider-man.json](./254522-the-amazing-spider-man.json) |
 | The Amazing Spider-Man 2 | 196243 | [196243-the-amazing-spider-man-2.json](./196243-the-amazing-spider-man-2.json) |
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
@@ -1494,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blaggers | 57081 | [57081-the-blaggers.json](./57081-the-blaggers.json) |
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
 | The Blobjob | 261797 | [261797-the-blobjob.json](./261797-the-blobjob.json) |
+| The Block | 204712 | [204712-the-block.json](./204712-the-block.json) |
 | The Blockheads Server | 87690 | [87690-the-blockheads-server.json](./87690-the-blockheads-server.json) |
 | The Blocks Cometh | 66103 | [66103-the-blocks-cometh.json](./66103-the-blocks-cometh.json) |
 | The Blood's Way | 364501 | [364501-the-bloods-way.json](./364501-the-bloods-way.json) |
@@ -2480,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inn | 133384 | [133384-the-inn.json](./133384-the-inn.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
+| The Inquisitor | 202718 | [202718-the-inquisitor.json](./202718-the-inquisitor.json) |
 | The Inquisitor 3D | 202846 | [202846-the-inquisitor-3d.json](./202846-the-inquisitor-3d.json) |
 | The Inquisitor: Book 2 - The Village | 10972 | [10972-the-inquisitor-book-2-the-village.json](./10972-the-inquisitor-book-2-the-village.json) |
 | The Inseparables | 410209 | [410209-the-inseparables.json](./410209-the-inseparables.json) |
@@ -2513,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
+| The Jackbox Party Starter | 207095 | [207095-the-jackbox-party-starter.json](./207095-the-jackbox-party-starter.json) |
 | The Jackbox Survey Scramble | 318207 | [318207-the-jackbox-survey-scramble.json](./318207-the-jackbox-survey-scramble.json) |
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
 | The Jelly Bean Factory | 62672 | [62672-the-jelly-bean-factory.json](./62672-the-jelly-bean-factory.json) |
@@ -3207,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orchid's Edge | 231373 | [231373-the-orchids-edge.json](./231373-the-orchids-edge.json) |
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
+| The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Oregon Trail: Classic Edition | 82073 | [82073-the-oregon-trail-classic-edition.json](./82073-the-oregon-trail-classic-edition.json) |
 | The Origin Theory: Episode One | 304589 | [304589-the-origin-theory-episode-one.json](./304589-the-origin-theory-episode-one.json) |
@@ -4193,6 +4201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
 | The Walking Dead: Onslaught - The Golden Weapons Deluxe Pack | 139956 | [139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json](./139956-the-walking-dead-onslaught-the-golden-weapons-deluxe-pack.json) |
 | The Walking Dead: Our World | 55177 | [55177-the-walking-dead-our-world.json](./55177-the-walking-dead-our-world.json) |
+| The Walking Dead: Saints & Sinners - Ch 2: Retribution | 198232 | [198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json](./198232-the-walking-dead-saints-and-sinners-ch-2-retribution.json) |
 | The Walking Dead: Season Two - Episode 2: A House Divided | 127058 | [127058-the-walking-dead-season-two-episode-2-a-house-divided.json](./127058-the-walking-dead-season-two-episode-2-a-house-divided.json) |
 | The Walking Dead: The Complete First Season | 41623 | [41623-the-walking-dead-the-complete-first-season.json](./41623-the-walking-dead-the-complete-first-season.json) |
 | The Walking Dead: The Final Season - Episode 2: Suffer the Children | 110328 | [110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json](./110328-the-walking-dead-the-final-season-episode-2-suffer-the-children.json) |
@@ -6652,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trax: The Robot Wars | 62160 | [62160-trax-the-robot-wars.json](./62160-trax-the-robot-wars.json) |
 | Traxion | 257688 | [257688-traxion.json](./257688-traxion.json) |
 | TraxWorld | 190167 | [190167-traxworld.json](./190167-traxworld.json) |
+| Tray Racers! | 204540 | [204540-tray-racers.json](./204540-tray-racers.json) |
 | Treachery | 277292 | [277292-treachery.json](./277292-treachery.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
 | Treason | 190229 | [190229-treason.json](./190229-treason.json) |
@@ -6824,6 +6834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tringo | 49344 | [49344-tringo.json](./49344-tringo.json) |
 | Trinity | 2952 | [2952-trinity.json](./2952-trinity.json) |
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
+| Trinity Trigger | 202850 | [202850-trinity-trigger.json](./202850-trinity-trigger.json) |
 | Trinity Trigger: Day 1 Edition | 221947 | [221947-trinity-trigger-day-1-edition.json](./221947-trinity-trigger-day-1-edition.json) |
 | Trinity Universe | 7474 | [7474-trinity-universe.json](./7474-trinity-universe.json) |
 | Trinoline | 116366 | [116366-trinoline.json](./116366-trinoline.json) |
