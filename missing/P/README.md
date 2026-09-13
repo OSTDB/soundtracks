@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Peppa Pig: Seasons | 86879 | [86879-peppa-pig-seasons.json](./86879-peppa-pig-seasons.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
+| Pepper's Puzzles | 52085 | [52085-peppers-puzzles.json](./52085-peppers-puzzles.json) |
 | Peppered: An Existential Platformer | 170018 | [170018-peppered-an-existential-platformer.json](./170018-peppered-an-existential-platformer.json) |
 | Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
 | Peppy's Adventure | 152303 | [152303-peppys-adventure.json](./152303-peppys-adventure.json) |
@@ -1262,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
+| Picross 2 | 49080 | [49080-picross-2.json](./49080-picross-2.json) |
 | Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
 | Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
@@ -2899,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Ball: Full Blown - Solo Reflection! | 167215 | [167215-prison-ball-full-blown-solo-reflection.json](./167215-prison-ball-full-blown-solo-reflection.json) |
 | Prison Ball: Full Blown - Toxik Karess | 167222 | [167222-prison-ball-full-blown-toxik-karess.json](./167222-prison-ball-full-blown-toxik-karess.json) |
 | Prison Ball: Full Blown - Vast Shadows | 167217 | [167217-prison-ball-full-blown-vast-shadows.json](./167217-prison-ball-full-blown-vast-shadows.json) |
+| Prison Boss VR | 55474 | [55474-prison-boss-vr.json](./55474-prison-boss-vr.json) |
 | Prison Chainball Massacre | 75170 | [75170-prison-chainball-massacre.json](./75170-prison-chainball-massacre.json) |
 | Prison City | 226729 | [226729-prison-city.json](./226729-prison-city.json) |
 | Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
