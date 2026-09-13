@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shooty Bit | 32977 | [32977-a-shooty-bit.json](./32977-a-shooty-bit.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
+| A Slower Speed of Light | 18122 | [18122-a-slower-speed-of-light.json](./18122-a-slower-speed-of-light.json) |
 | A Star of Chrome | 217332 | [217332-a-star-of-chrome.json](./217332-a-star-of-chrome.json) |
 | A Step Into Darkness | 29815 | [29815-a-step-into-darkness.json](./29815-a-step-into-darkness.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
@@ -1278,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Goblin | 243108 | [243108-all-goblin.json](./243108-all-goblin.json) |
 | All Good Things | 63812 | [63812-all-good-things.json](./63812-all-good-things.json) |
 | All Grown Up Krazy Karts | 321770 | [321770-all-grown-up-krazy-karts.json](./321770-all-grown-up-krazy-karts.json) |
+| All Guns on Deck | 17681 | [17681-all-guns-on-deck.json](./17681-all-guns-on-deck.json) |
 | All Hail the Cook-o-tron | 139464 | [139464-all-hail-the-cook-o-tron.json](./139464-all-hail-the-cook-o-tron.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All Humans Must Die! | 183557 | [183557-all-humans-must-die.json](./183557-all-humans-must-die.json) |
@@ -3037,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Spy | 86514 | [86514-assault-spy.json](./86514-assault-spy.json) |
 | Assault Spy: Elite Spy Edition | 124831 | [124831-assault-spy-elite-spy-edition.json](./124831-assault-spy-elite-spy-edition.json) |
 | Assault Squad 2: Men of War Origins | 36398 | [36398-assault-squad-2-men-of-war-origins.json](./36398-assault-squad-2-men-of-war-origins.json) |
+| Assault Suit Leynos | 18655 | [18655-assault-suit-leynos.json](./18655-assault-suit-leynos.json) |
 | AssaultCube | 9530 | [9530-assaultcube.json](./9530-assaultcube.json) |
 | AssaultTech 1: BattleTech | 66071 | [66071-assaulttech-1-battletech.json](./66071-assaulttech-1-battletech.json) |
 | Assemblage of Angels | 299123 | [299123-assemblage-of-angels.json](./299123-assemblage-of-angels.json) |
