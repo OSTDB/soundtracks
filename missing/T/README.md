@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
 | Tennis Cup | 123005 | [123005-tennis-cup.json](./123005-tennis-cup.json) |
 | Tennis Elbow | 197896 | [197896-tennis-elbow.json](./197896-tennis-elbow.json) |
+| Tennis Elbow 2013 | 35830 | [35830-tennis-elbow-2013.json](./35830-tennis-elbow-2013.json) |
 | Tennis Game in Roaring ’20s | 248064 | [248064-tennis-game-in-roaring-20s.json](./248064-tennis-game-in-roaring-20s.json) |
 | Tennis Kings VR | 89257 | [89257-tennis-kings-vr.json](./89257-tennis-kings-vr.json) |
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
@@ -1879,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Discrete Era | 263499 | [263499-the-discrete-era.json](./263499-the-discrete-era.json) |
 | The Dispatcher | 329003 | [329003-the-dispatcher.json](./329003-the-dispatcher.json) |
 | The Distortion Beast | 299141 | [299141-the-distortion-beast.json](./299141-the-distortion-beast.json) |
+| The District | 35538 | [35538-the-district.json](./35538-the-district.json) |
 | The Ditzy Demons Are in Love With Me | 109617 | [109617-the-ditzy-demons-are-in-love-with-me.json](./109617-the-ditzy-demons-are-in-love-with-me.json) |
 | The Dive | 166192 | [166192-the-dive.json](./166192-the-dive.json) |
 | The Divide | 190207 | [190207-the-divide.json](./190207-the-divide.json) |
@@ -2336,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
 | The Harmony of Buku | 55921 | [55921-the-harmony-of-buku.json](./55921-the-harmony-of-buku.json) |
+| The Hat Man: Shadow Ward | 36355 | [36355-the-hat-man-shadow-ward.json](./36355-the-hat-man-shadow-ward.json) |
 | The Hateful Dead | 31367 | [31367-the-hateful-dead.json](./31367-the-hateful-dead.json) |
 | The Haunted Dolls | 157181 | [157181-the-haunted-dolls.json](./157181-the-haunted-dolls.json) |
 | The Haunted Graveyard | 110343 | [110343-the-haunted-graveyard.json](./110343-the-haunted-graveyard.json) |
@@ -2469,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
 | The Interactive Adventures of Dog Mendonça and Pizzaboy | 17976 | [17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json](./17976-the-interactive-adventures-of-dog-mendonca-and-pizzaboy.json) |
 | The Interdiction Zone | 274191 | [274191-the-interdiction-zone.json](./274191-the-interdiction-zone.json) |
+| The Interview | 35786 | [35786-the-interview.json](./35786-the-interview.json) |
 | The Invasion of Area 51 | 130871 | [130871-the-invasion-of-area-51.json](./130871-the-invasion-of-area-51.json) |
 | The Investigation Files of Assistant Arimura | 133387 | [133387-the-investigation-files-of-assistant-arimura.json](./133387-the-investigation-files-of-assistant-arimura.json) |
 | The Invincible | 138906 | [138906-the-invincible.json](./138906-the-invincible.json) |
@@ -2564,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
 | The King of Fighters XIV | 18814 | [18814-the-king-of-fighters-xiv.json](./18814-the-king-of-fighters-xiv.json) |
+| The King of Fighters XIV Steam Edition | 36636 | [36636-the-king-of-fighters-xiv-steam-edition.json](./36636-the-king-of-fighters-xiv-steam-edition.json) |
 | The King of Fighters XIV: Classic Iori Costume | 322961 | [322961-the-king-of-fighters-xiv-classic-iori-costume.json](./322961-the-king-of-fighters-xiv-classic-iori-costume.json) |
 | The King Of FIghters XIV: Nightmare Geese Costume | 338177 | [338177-the-king-of-fighters-xiv-nightmare-geese-costume.json](./338177-the-king-of-fighters-xiv-nightmare-geese-costume.json) |
 | The King of Fighters XV: Characters Mature & Vice | 317839 | [317839-the-king-of-fighters-xv-characters-mature-and-vice.json](./317839-the-king-of-fighters-xv-characters-mature-and-vice.json) |
@@ -5140,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Loader: First Memories | 166211 | [166211-time-loader-first-memories.json](./166211-time-loader-first-memories.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
 | Time Mysteries Collection | 53801 | [53801-time-mysteries-collection.json](./53801-time-mysteries-collection.json) |
+| Time Mysteries: Inheritance - Remastered | 35726 | [35726-time-mysteries-inheritance-remastered.json](./35726-time-mysteries-inheritance-remastered.json) |
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
 | Time of the Zombies | 113657 | [113657-time-of-the-zombies.json](./113657-time-of-the-zombies.json) |
@@ -5618,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombo Breaker VR | 88254 | [88254-tombo-breaker-vr.json](./88254-tombo-breaker-vr.json) |
 | Tombo Survivor | 157167 | [157167-tombo-survivor.json](./157167-tombo-survivor.json) |
 | Tomboy Adventure | 154577 | [154577-tomboy-adventure.json](./154577-tomboy-adventure.json) |
+| Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
 | Tomcat | 74428 | [74428-tomcat.json](./74428-tomcat.json) |
@@ -6149,6 +6156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackMania United | 9908 | [9908-trackmania-united.json](./9908-trackmania-united.json) |
 | TrackRacing Online | 98396 | [98396-trackracing-online.json](./98396-trackracing-online.json) |
 | Tracks of Triumph: Good Old Times | 29886 | [29886-tracks-of-triumph-good-old-times.json](./29886-tracks-of-triumph-good-old-times.json) |
+| Tracks: The Train Set Game | 39748 | [39748-tracks-the-train-set-game.json](./39748-tracks-the-train-set-game.json) |
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
 | Tractor Farmer | 86710 | [86710-tractor-farmer.json](./86710-tractor-farmer.json) |
@@ -6499,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
 | TransMemory | 318802 | [318802-transmemory.json](./318802-transmemory.json) |
 | Transmissions | 213412 | [213412-transmissions.json](./213412-transmissions.json) |
+| TransOcean 2: Rivals | 35728 | [35728-transocean-2-rivals.json](./35728-transocean-2-rivals.json) |
 | TransOcean: The Shipping Company | 36346 | [36346-transocean-the-shipping-company.json](./36346-transocean-the-shipping-company.json) |
 | Transparent Black: Wish | 337100 | [337100-transparent-black-wish.json](./337100-transparent-black-wish.json) |
 | Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
