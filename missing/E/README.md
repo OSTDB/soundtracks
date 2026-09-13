@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC 27: Ultimate Edition | 410902 | [410902-ea-sports-fc-27-ultimate-edition.json](./410902-ea-sports-fc-27-ultimate-edition.json) |
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
 | EA Sports MMA | 6984 | [6984-ea-sports-mma.json](./6984-ea-sports-mma.json) |
+| EA Sports PGA Tour | 145232 | [145232-ea-sports-pga-tour.json](./145232-ea-sports-pga-tour.json) |
 | EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
 | Eador: Masters of the Broken World | 7719 | [7719-eador-masters-of-the-broken-world.json](./7719-eador-masters-of-the-broken-world.json) |
@@ -77,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 5: Deluxe Edition | 118953 | [118953-earth-defense-force-5-deluxe-edition.json](./118953-earth-defense-force-5-deluxe-edition.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
+| Earth Defense Force: World Brothers | 139067 | [139067-earth-defense-force-world-brothers.json](./139067-earth-defense-force-world-brothers.json) |
 | Earth Defense Force: World Brothers - Deluxe Edition | 222503 | [222503-earth-defense-force-world-brothers-deluxe-edition.json](./222503-earth-defense-force-world-brothers-deluxe-edition.json) |
 | Earth Defense Force: World Brothers 2 - Don't Bring Civilians Into This: Special Appearance by The Captain from EDF6 | 325435 | [325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json](./325435-earth-defense-force-world-brothers-2-dont-bring-civilians-into-this-special-appearance-by-the-captain-from-edf6.json) |
 | Earth Defense Force: World Brothers 2 - Extra Mission Pack: Robo Saurous vs. The Mecharmy | 325434 | [325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json](./325434-earth-defense-force-world-brothers-2-extra-mission-pack-robo-saurous-vs-the-mecharmy.json) |
@@ -386,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Narco | 321170 | [321170-el-narco.json](./321170-el-narco.json) |
 | El Notas | 414382 | [414382-el-notas.json](./414382-el-notas.json) |
 | El Panadero: The Baker | 239662 | [239662-el-panadero-the-baker.json](./239662-el-panadero-the-baker.json) |
+| El Paso, Elsewhere | 151788 | [151788-el-paso-elsewhere.json](./151788-el-paso-elsewhere.json) |
 | El Paso, Nightmare | 223134 | [223134-el-paso-nightmare.json](./223134-el-paso-nightmare.json) |
 | El Rock de tu Vida | 126004 | [126004-el-rock-de-tu-vida.json](./126004-el-rock-de-tu-vida.json) |
 | El Salar | 332451 | [332451-el-salar.json](./332451-el-salar.json) |
@@ -934,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Battle Fantasy: Adventure Story | 143725 | [143725-epic-battle-fantasy-adventure-story.json](./143725-epic-battle-fantasy-adventure-story.json) |
 | Epic Blood Quest | 180185 | [180185-epic-blood-quest.json](./180185-epic-blood-quest.json) |
 | Epic Card Game | 56420 | [56420-epic-card-game.json](./56420-epic-card-game.json) |
+| Epic Chef | 145063 | [145063-epic-chef.json](./145063-epic-chef.json) |
 | Epic Drag Puzools | 101632 | [101632-epic-drag-puzools.json](./101632-epic-drag-puzools.json) |
 | Epic Dragons | 316063 | [316063-epic-dragons.json](./316063-epic-dragons.json) |
 | Epic Dumpster Bear | 19615 | [19615-epic-dumpster-bear.json](./19615-epic-dumpster-bear.json) |
