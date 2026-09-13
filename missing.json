@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T22:18:45.269Z",
-  "total_missing": 67419,
+  "generated_at": "2026-09-13T22:21:35.802Z",
+  "total_missing": 67418,
   "games": [
     {
       "igdb_id": 306086,
@@ -3966,11 +3966,6 @@
       "igdb_id": 200708,
       "game_name": "Adonis",
       "file": "missing/A/200708-adonis.json"
-    },
-    {
-      "igdb_id": 261816,
-      "game_name": "Adonis: Escape from Urania",
-      "file": "missing/A/261816-adonis-escape-from-urania.json"
     },
     {
       "igdb_id": 332439,
