@@ -516,6 +516,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
 | Wayfarer Survival Mini-Game | 63288 | [63288-wayfarer-survival-mini-game.json](./63288-wayfarer-survival-mini-game.json) |
+| Wayne Gretzky Hockey 2 | 15510 | [15510-wayne-gretzky-hockey-2.json](./15510-wayne-gretzky-hockey-2.json) |
+| Wayne Gretzky Hockey 3 | 15511 | [15511-wayne-gretzky-hockey-3.json](./15511-wayne-gretzky-hockey-3.json) |
 | Wayne Gretzky's 3D Hockey | 3630 | [3630-wayne-gretzkys-3d-hockey.json](./3630-wayne-gretzkys-3d-hockey.json) |
 | Ways | 323521 | [323521-ways.json](./323521-ways.json) |
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
@@ -1161,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings 1941 | 203571 | [203571-wings-1941.json](./203571-wings-1941.json) |
 | Wings 2 | 95474 | [95474-wings-2.json](./95474-wings-2.json) |
 | Wings 2: Aces High | 42577 | [42577-wings-2-aces-high.json](./42577-wings-2-aces-high.json) |
+| Wings of Destiny | 15484 | [15484-wings-of-destiny.json](./15484-wings-of-destiny.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Magloryx | 85492 | [85492-wings-of-magloryx.json](./85492-wings-of-magloryx.json) |
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
