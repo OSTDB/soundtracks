@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku | 45287 | [45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json](./45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json) |
 | Hi-Res Brazil | 406093 | [406093-hi-res-brazil.json](./406093-hi-res-brazil.json) |
 | Hi-Res Cribbage | 66708 | [66708-hi-res-cribbage.json](./66708-hi-res-cribbage.json) |
+| Hi-way | 18201 | [18201-hi-way.json](./18201-hi-way.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
 | Hibernia | 185084 | [185084-hibernia.json](./185084-hibernia.json) |
