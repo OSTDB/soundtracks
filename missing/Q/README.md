@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarterstaff | 70924 | [70924-quarterstaff.json](./70924-quarterstaff.json) |
 | Quarterstaff: The Tomb of Setmoth | 47300 | [47300-quarterstaff-the-tomb-of-setmoth.json](./47300-quarterstaff-the-tomb-of-setmoth.json) |
 | Quartet | 314674 | [314674-quartet.json](./314674-quartet.json) |
+| Quartet | 36677 | [36677-quartet.json](./36677-quartet.json) |
 | Quarth | 239297 | [239297-quarth.json](./239297-quarth.json) |
 | Quarth | 239298 | [239298-quarth.json](./239298-quarth.json) |
 | Quarth | 239299 | [239299-quarth.json](./239299-quarth.json) |
