@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness and Flame: Enemy in Reflection | 127207 | [127207-darkness-and-flame-enemy-in-reflection.json](./127207-darkness-and-flame-enemy-in-reflection.json) |
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
+| Darkness Maze Cube | 130213 | [130213-darkness-maze-cube.json](./130213-darkness-maze-cube.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
@@ -847,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadrock Salvation | 382752 | [382752-deadrock-salvation.json](./382752-deadrock-salvation.json) |
 | Deadrop | 210684 | [210684-deadrop.json](./210684-deadrop.json) |
 | DeadShore | 356641 | [356641-deadshore.json](./356641-deadshore.json) |
+| DeadShotZ | 129914 | [129914-deadshotz.json](./129914-deadshotz.json) |
 | Deadside | 109666 | [109666-deadside.json](./109666-deadside.json) |
 | Deadside: Beehive Skin Set | 338015 | [338015-deadside-beehive-skin-set.json](./338015-deadside-beehive-skin-set.json) |
 | Deadside: Bushranger Skin Set | 338024 | [338024-deadside-bushranger-skin-set.json](./338024-deadside-bushranger-skin-set.json) |
@@ -1026,6 +1028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Dark Space | 282012 | [282012-deep-dark-space.json](./282012-deep-dark-space.json) |
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
+| Deep Despair | 129641 | [129641-deep-despair.json](./129641-deep-despair.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
@@ -3335,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamers Disease | 291453 | [291453-dreamers-disease.json](./291453-dreamers-disease.json) |
 | Dreamfarer | 123001 | [123001-dreamfarer.json](./123001-dreamfarer.json) |
+| Dreamgate | 130060 | [130060-dreamgate.json](./130060-dreamgate.json) |
 | Dreamians: Card Battle | 304891 | [304891-dreamians-card-battle.json](./304891-dreamians-card-battle.json) |
 | Dreamin' Cat | 276714 | [276714-dreamin-cat.json](./276714-dreamin-cat.json) |
 | Dreaming About You | 371230 | [371230-dreaming-about-you.json](./371230-dreaming-about-you.json) |
@@ -3426,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftin.io | 126024 | [126024-driftin-io.json](./126024-driftin-io.json) |
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
+| DriftOn | 129053 | [129053-drifton.json](./129053-drifton.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
 | Driftwood | 31831 | [31831-driftwood.json](./31831-driftwood.json) |
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
