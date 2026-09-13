@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T01:03:52.941Z",
-  "total_missing": 64033,
+  "generated_at": "2026-09-13T01:11:28.411Z",
+  "total_missing": 64032,
   "games": [
     {
       "igdb_id": 306086,
@@ -3286,11 +3286,6 @@
       "igdb_id": 37156,
       "game_name": "Accolade's Comics featuring Steve Keene Thrillseeker",
       "file": "missing/A/37156-accolades-comics-featuring-steve-keene-thrillseeker.json"
-    },
-    {
-      "igdb_id": 185605,
-      "game_name": "According to Plan",
-      "file": "missing/A/185605-according-to-plan.json"
     },
     {
       "igdb_id": 25251,
