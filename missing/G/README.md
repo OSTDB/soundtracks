@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Dev Fantasy | 245877 | [245877-game-dev-fantasy.json](./245877-game-dev-fantasy.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
 | Game Dev Story 2 | 91915 | [91915-game-dev-story-2.json](./91915-game-dev-story-2.json) |
+| Game Dev Studio | 89377 | [89377-game-dev-studio.json](./89377-game-dev-studio.json) |
 | Game Doraemon: Nobita no Takara-jima | 97373 | [97373-game-doraemon-nobita-no-takara-jima.json](./97373-game-doraemon-nobita-no-takara-jima.json) |
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
