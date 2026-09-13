@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam 2001 | 49903 | [49903-nba-jam-2001.json](./49903-nba-jam-2001.json) |
 | NBA Jam Extreme | 40205 | [40205-nba-jam-extreme.json](./40205-nba-jam-extreme.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
+| NBA Live 09 | 5063 | [5063-nba-live-09.json](./5063-nba-live-09.json) |
 | NBA Live 09 All-Play | 67745 | [67745-nba-live-09-all-play.json](./67745-nba-live-09-all-play.json) |
 | NBA Live 13 | 52624 | [52624-nba-live-13.json](./52624-nba-live-13.json) |
 | NBA Live 19 Companion | 108456 | [108456-nba-live-19-companion.json](./108456-nba-live-19-companion.json) |
@@ -336,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nblocks: Builder Pack 4 | 298591 | [298591-nblocks-builder-pack-4.json](./298591-nblocks-builder-pack-4.json) |
 | NBody | 276183 | [276183-nbody.json](./276183-nbody.json) |
 | NCAA College Football 2K3 | 4039 | [4039-ncaa-college-football-2k3.json](./4039-ncaa-college-football-2k3.json) |
+| NCAA Football 07 | 5953 | [5953-ncaa-football-07.json](./5953-ncaa-football-07.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
 | NCAA Football 2002 | 44644 | [44644-ncaa-football-2002.json](./44644-ncaa-football-2002.json) |
 | NCAA Football 2003 | 5955 | [5955-ncaa-football-2003.json](./5955-ncaa-football-2003.json) |
