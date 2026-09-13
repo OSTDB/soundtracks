@@ -178,6 +178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
+| Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
 | Abandoned | 184599 | [184599-abandoned.json](./184599-abandoned.json) |
 | Abandoned | 295781 | [295781-abandoned.json](./295781-abandoned.json) |
 | Abandoned Hospital VR | 31878 | [31878-abandoned-hospital-vr.json](./31878-abandoned-hospital-vr.json) |
@@ -328,7 +329,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
 | Adorable Home | 193994 | [193994-adorable-home.json](./193994-adorable-home.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
-| Adrianne and Oliver | 216781 | [216781-adrianne-and-oliver.json](./216781-adrianne-and-oliver.json) |
 | Adrift | 322391 | [322391-adrift.json](./322391-adrift.json) |
 | Adrift | 330165 | [330165-adrift.json](./330165-adrift.json) |
 | Adrift | 331880 | [331880-adrift.json](./331880-adrift.json) |
@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
 | Age of Conan: The Savage Coast Of Turan | 27652 | [27652-age-of-conan-the-savage-coast-of-turan.json](./27652-age-of-conan-the-savage-coast-of-turan.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
+| Age of Conquest III | 9949 | [9949-age-of-conquest-iii.json](./9949-age-of-conquest-iii.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
@@ -668,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
+| Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gladiators II: Death League | 97851 | [97851-age-of-gladiators-ii-death-league.json](./97851-age-of-gladiators-ii-death-league.json) |
@@ -740,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aglobo | 342036 | [342036-aglobo.json](./342036-aglobo.json) |
 | Agma.io | 97302 | [97302-agma-io.json](./97302-agma-io.json) |
 | Agnostiko | 224212 | [224212-agnostiko.json](./224212-agnostiko.json) |
+| Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
 | Agony Online | 191799 | [191799-agony-online.json](./191799-agony-online.json) |
@@ -751,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator 2011 | 9537 | [9537-agricultural-simulator-2011.json](./9537-agricultural-simulator-2011.json) |
 | Agricultural Simulator 2012 | 52573 | [52573-agricultural-simulator-2012.json](./52573-agricultural-simulator-2012.json) |
 | Agricultural Simulator 2013 | 50492 | [50492-agricultural-simulator-2013.json](./50492-agricultural-simulator-2013.json) |
+| Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
 | Agriculture | 252389 | [252389-agriculture.json](./252389-agriculture.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Agrivore | 386117 | [386117-agrivore.json](./386117-agrivore.json) |
@@ -2064,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Mythical Journey | 185091 | [185091-another-mythical-journey.json](./185091-another-mythical-journey.json) |
 | Another Nightmare | 217856 | [217856-another-nightmare.json](./217856-another-nightmare.json) |
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
+| Another Perspective | 9978 | [9978-another-perspective.json](./9978-another-perspective.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
 | Another road | 167243 | [167243-another-road.json](./167243-another-road.json) |
 | Another Runner | 55214 | [55214-another-runner.json](./55214-another-runner.json) |
