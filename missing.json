@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T03:33:45.662Z",
-  "total_missing": 64483,
+  "generated_at": "2026-09-13T03:41:29.519Z",
+  "total_missing": 64482,
   "games": [
     {
       "igdb_id": 306086,
@@ -3361,11 +3361,6 @@
       "igdb_id": 282579,
       "game_name": "Ace Combat 7: Skies Unknown - ASF-X Shinden II Set",
       "file": "missing/A/282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json"
-    },
-    {
-      "igdb_id": 282578,
-      "game_name": "Ace Combat 7: Skies Unknown - CFA-44 Nosferatu Set",
-      "file": "missing/A/282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json"
     },
     {
       "igdb_id": 282540,
