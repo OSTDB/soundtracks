@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Invaders | 156656 | [156656-orbital-invaders.json](./156656-orbital-invaders.json) |
 | Orbital Money | 223999 | [223999-orbital-money.json](./223999-orbital-money.json) |
 | Orbital Patrol | 244783 | [244783-orbital-patrol.json](./244783-orbital-patrol.json) |
+| Orbital Racer | 74130 | [74130-orbital-racer.json](./74130-orbital-racer.json) |
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
 | Orbiterrion | 153359 | [153359-orbiterrion.json](./153359-orbiterrion.json) |
