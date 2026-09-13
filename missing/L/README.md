@@ -120,6 +120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laid-Back Camp: Virtual - Lake Motosu | 143719 | [143719-laid-back-camp-virtual-lake-motosu.json](./143719-laid-back-camp-virtual-lake-motosu.json) |
 | Laika 2.0 | 57037 | [57037-laika-2-0.json](./57037-laika-2-0.json) |
 | Laika: Aged Through Blood | 146088 | [146088-laika-aged-through-blood.json](./146088-laika-aged-through-blood.json) |
+| Lair | 7362 | [7362-lair.json](./7362-lair.json) |
 | Lair Defense: Dungeon | 127893 | [127893-lair-defense-dungeon.json](./127893-lair-defense-dungeon.json) |
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
 | Lair of Anubis | 236303 | [236303-lair-of-anubis.json](./236303-lair-of-anubis.json) |
@@ -540,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Assassin: Siberia | 107830 | [107830-legend-of-assassin-siberia.json](./107830-legend-of-assassin-siberia.json) |
 | Legend of Cozar | 334475 | [334475-legend-of-cozar.json](./334475-legend-of-cozar.json) |
 | Legend of Djel | 12176 | [12176-legend-of-djel.json](./12176-legend-of-djel.json) |
+| Legend of Dungeon | 7885 | [7885-legend-of-dungeon.json](./7885-legend-of-dungeon.json) |
 | Legend of Dungeon: Masters | 34394 | [34394-legend-of-dungeon-masters.json](./34394-legend-of-dungeon-masters.json) |
 | Legend of Empress | 255118 | [255118-legend-of-empress.json](./255118-legend-of-empress.json) |
 | Legend of Fae | 16262 | [16262-legend-of-fae.json](./16262-legend-of-fae.json) |
@@ -1326,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
 | LittleBigPlanet: Pirates of the Caribbean Level Kit | 194642 | [194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json](./194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json) |
+| LittleBigPlanet: Sackboy's Prehistoric Moves | 6364 | [6364-littlebigplanet-sackboys-prehistoric-moves.json](./6364-littlebigplanet-sackboys-prehistoric-moves.json) |
 | LittleBigSoko | 101621 | [101621-littlebigsoko.json](./101621-littlebigsoko.json) |
 | Littlest Pet Shop | 353919 | [353919-littlest-pet-shop.json](./353919-littlest-pet-shop.json) |
 | Littlest Pet Shop Online | 91432 | [91432-littlest-pet-shop-online.json](./91432-littlest-pet-shop-online.json) |
