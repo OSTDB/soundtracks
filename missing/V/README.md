@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voodoom | 312561 | [312561-voodoom.json](./312561-voodoom.json) |
 | Vorago | 312560 | [312560-vorago.json](./312560-vorago.json) |
 | Voraxis | 387350 | [387350-voraxis.json](./387350-voraxis.json) |
+| Vorble | 22208 | [22208-vorble.json](./22208-vorble.json) |
 | Voron: Raven's Story | 235968 | [235968-voron-ravens-story.json](./235968-voron-ravens-story.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
