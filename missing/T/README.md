@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tàigǔ Qíngyuán zhī Qīngyún Jiànxiá Chuánqí | 161897 | [161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json](./161897-taigu-qingyuan-zhi-qingyun-jianxia-chuanqi.json) |
 | Taiheiyou no Arashi: Koukoku no Kouhai Koko ni Ari, 1942 Senkan Yamato Hankou no Kouhou | 245034 | [245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json](./245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json) |
 | Taijitu: A Game About Balance | 167289 | [167289-taijitu-a-game-about-balance.json](./167289-taijitu-a-game-about-balance.json) |
+| Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
 | Taiko Drum Master | 37148 | [37148-taiko-drum-master.json](./37148-taiko-drum-master.json) |
 | Taiko no Tatsujin: Chibi Dragon to Fushigi na Orb | 63850 | [63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json](./63850-taiko-no-tatsujin-chibi-dragon-to-fushigi-na-orb.json) |
 | Taiko no Tatsujin: Chougoukaban | 63848 | [63848-taiko-no-tatsujin-chougoukaban.json](./63848-taiko-no-tatsujin-chougoukaban.json) |
@@ -3460,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rising | 284907 | [284907-the-rising.json](./284907-the-rising.json) |
 | The Ritual | 118327 | [118327-the-ritual.json](./118327-the-ritual.json) |
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
+| The Ritual on Weylyn Island | 26531 | [26531-the-ritual-on-weylyn-island.json](./26531-the-ritual-on-weylyn-island.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
 | The Road 2 Success | 97386 | [97386-the-road-2-success.json](./97386-the-road-2-success.json) |
 | The Road Driver | 221387 | [221387-the-road-driver.json](./221387-the-road-driver.json) |
@@ -3758,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
 | The Soldat with Twin Arms | 151753 | [151753-the-soldat-with-twin-arms.json](./151753-the-soldat-with-twin-arms.json) |
 | The Soldier and the Golden Princess | 331116 | [331116-the-soldier-and-the-golden-princess.json](./331116-the-soldier-and-the-golden-princess.json) |
+| The Song of Seven : Overture (Chapter One) | 26529 | [26529-the-song-of-seven-overture-chapter-one.json](./26529-the-song-of-seven-overture-chapter-one.json) |
 | The Song of Survivors | 165015 | [165015-the-song-of-survivors.json](./165015-the-song-of-survivors.json) |
 | The Song of the Stars II | 284328 | [284328-the-song-of-the-stars-ii.json](./284328-the-song-of-the-stars-ii.json) |
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
@@ -4189,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitor Effect | 348249 | [348249-the-visitor-effect.json](./348249-the-visitor-effect.json) |
 | The Visitor: Ep.1 - Kitty Cat Carnage | 196326 | [196326-the-visitor-ep-1-kitty-cat-carnage.json](./196326-the-visitor-ep-1-kitty-cat-carnage.json) |
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
+| The Voice | 26291 | [26291-the-voice.json](./26291-the-voice.json) |
 | The Voice in the Void | 48005 | [48005-the-voice-in-the-void.json](./48005-the-voice-in-the-void.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
@@ -5917,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Warhammer - Isabella von Carstein | 81292 | [81292-total-war-warhammer-isabella-von-carstein.json](./81292-total-war-warhammer-isabella-von-carstein.json) |
 | Total War: Warhammer - Jade Wizard | 81294 | [81294-total-war-warhammer-jade-wizard.json](./81294-total-war-warhammer-jade-wizard.json) |
 | Total War: Warhammer - Norsca | 53833 | [53833-total-war-warhammer-norsca.json](./53833-total-war-warhammer-norsca.json) |
+| Total War: Warhammer - Realm of the Wood Elves | 26423 | [26423-total-war-warhammer-realm-of-the-wood-elves.json](./26423-total-war-warhammer-realm-of-the-wood-elves.json) |
 | Total War: Warhammer - Wurrzag | 81295 | [81295-total-war-warhammer-wurrzag.json](./81295-total-war-warhammer-wurrzag.json) |
 | Total War: Warhammer II - Tretch Craventail | 167825 | [167825-total-war-warhammer-ii-tretch-craventail.json](./167825-total-war-warhammer-ii-tretch-craventail.json) |
 | Total War: Warhammer III - Shadows of Change | 251223 | [251223-total-war-warhammer-iii-shadows-of-change.json](./251223-total-war-warhammer-iii-shadows-of-change.json) |
