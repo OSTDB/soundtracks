@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora Saga: Weapons of Balance | 78647 | [78647-pandora-saga-weapons-of-balance.json](./78647-pandora-saga-weapons-of-balance.json) |
 | Pandora's Sack | 406685 | [406685-pandoras-sack.json](./406685-pandoras-sack.json) |
 | Panel de Pon | 150107 | [150107-panel-de-pon.json](./150107-panel-de-pon.json) |
+| Panel de Pon | 84157 | [84157-panel-de-pon.json](./84157-panel-de-pon.json) |
 | Panel de Pon GB | 150108 | [150108-panel-de-pon-gb.json](./150108-panel-de-pon-gb.json) |
 | Panel de Pon: Event Version | 150105 | [150105-panel-de-pon-event-version.json](./150105-panel-de-pon-event-version.json) |
 | Panel de Pon: Event Version 2 | 150106 | [150106-panel-de-pon-event-version-2.json](./150106-panel-de-pon-event-version-2.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
 | Picross Beach Season | 89191 | [89191-picross-beach-season.json](./89191-picross-beach-season.json) |
+| Picross DS | 10617 | [10617-picross-ds.json](./10617-picross-ds.json) |
 | Picross e3 | 62913 | [62913-picross-e3.json](./62913-picross-e3.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
 | Picross S Capcom Classics Edition | 378164 | [378164-picross-s-capcom-classics-edition.json](./378164-picross-s-capcom-classics-edition.json) |
@@ -1535,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
+| Pirates! Gold | 9232 | [9232-pirates-gold.json](./9232-pirates-gold.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
 | Piso Zero | 272302 | [272302-piso-zero.json](./272302-piso-zero.json) |
 | Piss Off | 331295 | [331295-piss-off.json](./331295-piss-off.json) |
@@ -3068,7 +3071,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Highrise: Tokyo Towers | 124798 | [124798-project-highrise-tokyo-towers.json](./124798-project-highrise-tokyo-towers.json) |
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
 | Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
+| Project Hospital | 75855 | [75855-project-hospital.json](./75855-project-hospital.json) |
 | Project II: Final Fantasy IV | 379344 | [379344-project-ii-final-fantasy-iv.json](./379344-project-ii-final-fantasy-iv.json) |
+| Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
@@ -3495,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
 | Pushing It! With Sisyphus | 298033 | [298033-pushing-it-with-sisyphus.json](./298033-pushing-it-with-sisyphus.json) |
+| Pushover | 11627 | [11627-pushover.json](./11627-pushover.json) |
 | Puss in Book: Trapped in an Epic Tale | 256844 | [256844-puss-in-book-trapped-in-an-epic-tale.json](./256844-puss-in-book-trapped-in-an-epic-tale.json) |
 | Puss In Boots | 192927 | [192927-puss-in-boots.json](./192927-puss-in-boots.json) |
 | Puss in Boots: Purrfect Adventures | 298578 | [298578-puss-in-boots-purrfect-adventures.json](./298578-puss-in-boots-purrfect-adventures.json) |
