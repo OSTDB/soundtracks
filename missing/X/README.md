@@ -102,8 +102,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
 | Xenoblade Chronicles 3 | 191411 | [191411-xenoblade-chronicles-3.json](./191411-xenoblade-chronicles-3.json) |
 | Xenoblade Chronicles 3: Future Redeemed | 236669 | [236669-xenoblade-chronicles-3-future-redeemed.json](./236669-xenoblade-chronicles-3-future-redeemed.json) |
+| Xenoblade Chronicles X | 2366 | [2366-xenoblade-chronicles-x.json](./2366-xenoblade-chronicles-x.json) |
 | Xenoblade Chronicles X: Limited Edition | 51145 | [51145-xenoblade-chronicles-x-limited-edition.json](./51145-xenoblade-chronicles-x-limited-edition.json) |
 | Xenoblade Chronicles: Collector's Edition | 50591 | [50591-xenoblade-chronicles-collectors-edition.json](./50591-xenoblade-chronicles-collectors-edition.json) |
+| Xenoblade Chronicles: Definitive Edition | 122238 | [122238-xenoblade-chronicles-definitive-edition.json](./122238-xenoblade-chronicles-definitive-edition.json) |
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
 | XenoFeud | 235488 | [235488-xenofeud.json](./235488-xenofeud.json) |
 | Xenogears | 1346 | [1346-xenogears.json](./1346-xenogears.json) |
