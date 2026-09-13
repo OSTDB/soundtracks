@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T12:04:13.561Z",
-  "total_missing": 65754,
+  "generated_at": "2026-09-13T12:11:29.796Z",
+  "total_missing": 65753,
   "games": [
     {
       "igdb_id": 306086,
@@ -3616,11 +3616,6 @@
       "igdb_id": 238739,
       "game_name": "Across the Wilds",
       "file": "missing/A/238739-across-the-wilds.json"
-    },
-    {
-      "igdb_id": 305792,
-      "game_name": "Acrylic Nails!",
-      "file": "missing/A/305792-acrylic-nails.json"
     },
     {
       "igdb_id": 226397,
