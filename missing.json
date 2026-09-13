@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T18:01:33.219Z",
-  "total_missing": 66660,
+  "generated_at": "2026-09-13T18:11:36.585Z",
+  "total_missing": 66670,
   "games": [
     {
       "igdb_id": 306086,
@@ -3821,11 +3821,6 @@
       "igdb_id": 233509,
       "game_name": "Adam and Eve: Crossy River",
       "file": "missing/A/233509-adam-and-eve-crossy-river.json"
-    },
-    {
-      "igdb_id": 138263,
-      "game_name": "Adam Sandler Dating Sim",
-      "file": "missing/A/138263-adam-sandler-dating-sim.json"
     },
     {
       "igdb_id": 16298,
@@ -23918,6 +23913,11 @@
       "file": "missing/B/68654-basement.json"
     },
     {
+      "igdb_id": 19916,
+      "game_name": "Basement Crawl",
+      "file": "missing/B/19916-basement-crawl.json"
+    },
+    {
       "igdb_id": 158158,
       "game_name": "Basement Dweller",
       "file": "missing/B/158158-basement-dweller.json"
@@ -40908,6 +40908,11 @@
       "file": "missing/C/295255-call-of-duty-black-ops-ii-nuketown-zombies.json"
     },
     {
+      "igdb_id": 19948,
+      "game_name": "Call of Duty: Black Ops III - Awakening",
+      "file": "missing/C/19948-call-of-duty-black-ops-iii-awakening.json"
+    },
+    {
       "igdb_id": 135300,
       "game_name": "Call of Duty: Black Ops Mobile",
       "file": "missing/C/135300-call-of-duty-black-ops-mobile.json"
@@ -53391,6 +53396,11 @@
       "igdb_id": 127930,
       "game_name": "Commander Babes",
       "file": "missing/C/127930-commander-babes.json"
+    },
+    {
+      "igdb_id": 19950,
+      "game_name": "Commander Cherry's Puzzled Journey",
+      "file": "missing/C/19950-commander-cherrys-puzzled-journey.json"
     },
     {
       "igdb_id": 35620,
@@ -83786,6 +83796,11 @@
       "igdb_id": 133415,
       "game_name": "Elliot and the Musical Journey",
       "file": "missing/E/133415-elliot-and-the-musical-journey.json"
+    },
+    {
+      "igdb_id": 19862,
+      "game_name": "Ellipsis",
+      "file": "missing/E/19862-ellipsis.json"
     },
     {
       "igdb_id": 21033,
@@ -130471,6 +130486,11 @@
       "igdb_id": 69891,
       "game_name": "I Spy Mystery",
       "file": "missing/I/69891-i-spy-mystery.json"
+    },
+    {
+      "igdb_id": 19844,
+      "game_name": "I Spy Spooky Mansion",
+      "file": "missing/I/19844-i-spy-spooky-mansion.json"
     },
     {
       "igdb_id": 73852,
@@ -182008,6 +182028,11 @@
       "file": "missing/M/236009-mystery-case-files-the-last-resort-collectors-edition.json"
     },
     {
+      "igdb_id": 19889,
+      "game_name": "Mystery Castle",
+      "file": "missing/M/19889-mystery-castle.json"
+    },
+    {
       "igdb_id": 124745,
       "game_name": "Mystery Chronicles: One Way Heroics",
       "file": "missing/M/124745-mystery-chronicles-one-way-heroics.json"
@@ -191161,6 +191186,11 @@
       "igdb_id": 19495,
       "game_name": "Nusrat",
       "file": "missing/N/19495-nusrat.json"
+    },
+    {
+      "igdb_id": 19966,
+      "game_name": "Nutjitsu",
+      "file": "missing/N/19966-nutjitsu.json"
     },
     {
       "igdb_id": 52645,
@@ -235928,6 +235958,11 @@
       "file": "missing/S/29951-score-a-goal-physical-football.json"
     },
     {
+      "igdb_id": 19854,
+      "game_name": "Score Rush Extended",
+      "file": "missing/S/19854-score-rush-extended.json"
+    },
+    {
       "igdb_id": 262084,
       "game_name": "Scorn",
       "file": "missing/S/262084-scorn.json"
@@ -252493,6 +252528,11 @@
       "file": "missing/S/94188-sorcerors-apprentice.json"
     },
     {
+      "igdb_id": 19915,
+      "game_name": "Sorcery Saga: Curse of the Great Curry God",
+      "file": "missing/S/19915-sorcery-saga-curse-of-the-great-curry-god.json"
+    },
+    {
       "igdb_id": 88541,
       "game_name": "Sorcery!",
       "file": "missing/S/88541-sorcery.json"
@@ -257796,6 +257836,11 @@
       "igdb_id": 340924,
       "game_name": "Squids in a Pickle",
       "file": "missing/S/340924-squids-in-a-pickle.json"
+    },
+    {
+      "igdb_id": 19877,
+      "game_name": "Squids Odyssey",
+      "file": "missing/S/19877-squids-odyssey.json"
     },
     {
       "igdb_id": 126652,
@@ -305506,6 +305551,11 @@
       "igdb_id": 3191,
       "game_name": "Trials Fusion",
       "file": "missing/T/3191-trials-fusion.json"
+    },
+    {
+      "igdb_id": 19951,
+      "game_name": "Trials Fusion: Awesome Level Max",
+      "file": "missing/T/19951-trials-fusion-awesome-level-max.json"
     },
     {
       "igdb_id": 128001,
