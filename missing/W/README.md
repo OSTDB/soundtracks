@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warcraft III: Reforged - Spoils of War Edition | 111652 | [111652-warcraft-iii-reforged-spoils-of-war-edition.json](./111652-warcraft-iii-reforged-spoils-of-war-edition.json) |
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
+| Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
 | Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
@@ -601,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Katamari Reroll + Royal Reverie: Deluxe Edition | 251602 | [251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json](./251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
+| We should talk. | 132400 | [132400-we-should-talk.json](./132400-we-should-talk.json) |
 | We Sing Deutsche Hits | 5268 | [5268-we-sing-deutsche-hits.json](./5268-we-sing-deutsche-hits.json) |
 | We Sing Deutsche Hits 2 | 268208 | [268208-we-sing-deutsche-hits-2.json](./268208-we-sing-deutsche-hits-2.json) |
 | We Sing Down Under | 5269 | [5269-we-sing-down-under.json](./5269-we-sing-down-under.json) |
