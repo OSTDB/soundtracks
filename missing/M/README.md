@@ -1546,7 +1546,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Cyber Wave Pack | 409541 | [409541-mega-man-cyber-wave-pack.json](./409541-mega-man-cyber-wave-pack.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
+| Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
 | Mega Man Star Force 2: Zerker x Ninja | 1785 | [1785-mega-man-star-force-2-zerker-x-ninja.json](./1785-mega-man-star-force-2-zerker-x-ninja.json) |
+| Mega Man Star Force 3: Black Ace | 1786 | [1786-mega-man-star-force-3-black-ace.json](./1786-mega-man-star-force-3-black-ace.json) |
+| Mega Man Star Force 3: Red Joker | 1787 | [1787-mega-man-star-force-3-red-joker.json](./1787-mega-man-star-force-3-red-joker.json) |
 | Mega Man Star Force: Dragon | 1783 | [1783-mega-man-star-force-dragon.json](./1783-mega-man-star-force-dragon.json) |
 | Mega Man Uprising | 215155 | [215155-mega-man-uprising.json](./215155-mega-man-uprising.json) |
 | Mega Man X Alpha | 222928 | [222928-mega-man-x-alpha.json](./222928-mega-man-x-alpha.json) |
@@ -1991,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metamoqester | 39542 | [39542-metamoqester.json](./39542-metamoqester.json) |
 | Metamorph | 345519 | [345519-metamorph.json](./345519-metamorph.json) |
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
+| Metamorphosis | 115657 | [115657-metamorphosis.json](./115657-metamorphosis.json) |
 | Metanoia | 322564 | [322564-metanoia.json](./322564-metanoia.json) |
 | MetaOps | 186241 | [186241-metaops.json](./186241-metaops.json) |
 | Metaphobia | 127907 | [127907-metaphobia.json](./127907-metaphobia.json) |
@@ -2470,6 +2474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineCart - 3D Mine Cart Game for MineCraft | 86692 | [86692-minecart-3d-mine-cart-game-for-minecraft.json](./86692-minecart-3d-mine-cart-game-for-minecraft.json) |
 | Minecart Madness | 188687 | [188687-minecart-madness.json](./188687-minecart-madness.json) |
 | Minecraft Dungeons: Hero Edition | 132145 | [132145-minecraft-dungeons-hero-edition.json](./132145-minecraft-dungeons-hero-edition.json) |
+| Minecraft Earth | 118711 | [118711-minecraft-earth.json](./118711-minecraft-earth.json) |
 | Minecraft Education | 28407 | [28407-minecraft-education.json](./28407-minecraft-education.json) |
 | Minecraft PSP | 327850 | [327850-minecraft-psp.json](./327850-minecraft-psp.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
@@ -2887,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
 | MLB The Show 19: MVP Edition | 119070 | [119070-mlb-the-show-19-mvp-edition.json](./119070-mlb-the-show-19-mvp-edition.json) |
+| MLB The Show 20 | 125013 | [125013-mlb-the-show-20.json](./125013-mlb-the-show-20.json) |
 | MLB The Show 21 | 143260 | [143260-mlb-the-show-21.json](./143260-mlb-the-show-21.json) |
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
 | MLB The Show 26: Digital Deluxe Edition | 390533 | [390533-mlb-the-show-26-digital-deluxe-edition.json](./390533-mlb-the-show-26-digital-deluxe-edition.json) |
@@ -3610,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Legacy Kollection | 347122 | [347122-mortal-kombat-legacy-kollection.json](./347122-mortal-kombat-legacy-kollection.json) |
 | Mortal Kombat: Legacy Kollection - Deluxe Edition | 398998 | [398998-mortal-kombat-legacy-kollection-deluxe-edition.json](./398998-mortal-kombat-legacy-kollection-deluxe-edition.json) |
 | Mortal Kombat: Onslaught | 224009 | [224009-mortal-kombat-onslaught.json](./224009-mortal-kombat-onslaught.json) |
+| Mortal Kombat: Unchained | 1615 | [1615-mortal-kombat-unchained.json](./1615-mortal-kombat-unchained.json) |
 | Mortal Shell II | 347633 | [347633-mortal-shell-ii.json](./347633-mortal-shell-ii.json) |
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
 | Mortal Shell: Enhanced Edition - Game of the Year Edition | 201782 | [201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json](./201782-mortal-shell-enhanced-edition-game-of-the-year-edition.json) |
