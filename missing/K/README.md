@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn! DS: Flame Rumble X - Mirai Chou Bakuhatsu!! | 64379 | [64379-katekyou-hitman-reborn-ds-flame-rumble-x-mirai-chou-bakuhatsu.json](./64379-katekyou-hitman-reborn-ds-flame-rumble-x-mirai-chou-bakuhatsu.json) |
 | Katekyou Hitman Reborn! DS: Flame Rumble XX - Kessen! Real 6 Chouka | 64381 | [64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json](./64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json) |
 | Katekyou Hitman Reborn!: Ore ga Boss! Saikyou Family Taisen | 269823 | [269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json](./269823-katekyou-hitman-reborn-ore-ga-boss-saikyou-family-taisen.json) |
+| Kathy Rain 2: Soothsayer | 322691 | [322691-kathy-rain-2-soothsayer.json](./322691-kathy-rain-2-soothsayer.json) |
 | Katin Svět | 223679 | [223679-katin-svet.json](./223679-katin-svet.json) |
 | Katjepult | 182536 | [182536-katjepult.json](./182536-katjepult.json) |
 | Kato Pirato | 340785 | [340785-kato-pirato.json](./340785-kato-pirato.json) |
@@ -550,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Gorilla | 13733 | [13733-killer-gorilla.json](./13733-killer-gorilla.json) |
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
 | Killer Instinct | 254517 | [254517-killer-instinct.json](./254517-killer-instinct.json) |
+| Killer Instinct | 324152 | [324152-killer-instinct.json](./324152-killer-instinct.json) |
 | Killer Instinct 2 | 264309 | [264309-killer-instinct-2.json](./264309-killer-instinct-2.json) |
 | Killer Instinct 2 | 2930 | [2930-killer-instinct-2.json](./2930-killer-instinct-2.json) |
 | Killer Instinct: Definitive Edition | 25662 | [25662-killer-instinct-definitive-edition.json](./25662-killer-instinct-definitive-edition.json) |
@@ -648,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Spin VR | 31980 | [31980-king-of-spin-vr.json](./31980-king-of-spin-vr.json) |
 | King of Sports: New Japan Pro-Wrestling | 109574 | [109574-king-of-sports-new-japan-pro-wrestling.json](./109574-king-of-sports-new-japan-pro-wrestling.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
+| King of the Monsters | 6800 | [6800-king-of-the-monsters.json](./6800-king-of-the-monsters.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
 | King of Unblock | 101524 | [101524-king-of-unblock.json](./101524-king-of-unblock.json) |
