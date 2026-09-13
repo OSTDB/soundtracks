@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Supermarket Simulator | 345511 | [345511-wild-west-supermarket-simulator.json](./345511-wild-west-supermarket-simulator.json) |
 | Wild West VR | 104075 | [104075-wild-west-vr.json](./104075-wild-west-vr.json) |
+| Wild Western | 18060 | [18060-wild-western.json](./18060-wild-western.json) |
 | Wild Wheels | 59968 | [59968-wild-wheels.json](./59968-wild-wheels.json) |
 | Wild Wild West: The Steel Assassin | 70950 | [70950-wild-wild-west-the-steel-assassin.json](./70950-wild-wild-west-the-steel-assassin.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
@@ -1219,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinTrek | 69859 | [69859-wintrek.json](./69859-wintrek.json) |
 | Winx Club: Winx Fairy School | 96728 | [96728-winx-club-winx-fairy-school.json](./96728-winx-club-winx-fairy-school.json) |
 | Winzer | 77383 | [77383-winzer.json](./77383-winzer.json) |
+| Wipe Out | 18160 | [18160-wipe-out.json](./18160-wipe-out.json) |
 | Wipe Out VR | 81248 | [81248-wipe-out-vr.json](./81248-wipe-out-vr.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
@@ -1733,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Heroes: WW2 FPS Shooter! | 96747 | [96747-world-war-heroes-ww2-fps-shooter.json](./96747-world-war-heroes-ww2-fps-shooter.json) |
 | World War II City Rebirth Tycoon | 322400 | [322400-world-war-ii-city-rebirth-tycoon.json](./322400-world-war-ii-city-rebirth-tycoon.json) |
 | World War II: Battle Strike | 205828 | [205828-world-war-ii-battle-strike.json](./205828-world-war-ii-battle-strike.json) |
+| World War II: Panzer Claws 2 | 17996 | [17996-world-war-ii-panzer-claws-2.json](./17996-world-war-ii-panzer-claws-2.json) |
 | World War II: Prisoner of War | 64979 | [64979-world-war-ii-prisoner-of-war.json](./64979-world-war-ii-prisoner-of-war.json) |
 | World War II: Tank Commander | 205825 | [205825-world-war-ii-tank-commander.json](./205825-world-war-ii-tank-commander.json) |
 | World War One | 21137 | [21137-world-war-one.json](./21137-world-war-one.json) |
