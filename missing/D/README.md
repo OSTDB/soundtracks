@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
+| Data East Collection 1 | 130815 | [130815-data-east-collection-1.json](./130815-data-east-collection-1.json) |
 | Data East's Arcade Alley | 84185 | [84185-data-easts-arcade-alley.json](./84185-data-easts-arcade-alley.json) |
 | Data East's Hoops | 97330 | [97330-data-easts-hoops.json](./97330-data-easts-hoops.json) |
 | Data Fantasy | 392127 | [392127-data-fantasy.json](./392127-data-fantasy.json) |
@@ -680,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Netflix Edition | 274723 | [274723-dead-cells-netflix-edition.json](./274723-dead-cells-netflix-edition.json) |
 | Dead Cells: The Queen and the Sea | 183128 | [183128-dead-cells-the-queen-and-the-sea.json](./183128-dead-cells-the-queen-and-the-sea.json) |
 | Dead City | 317824 | [317824-dead-city.json](./317824-dead-city.json) |
+| Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
 | Dead Dawn | 193958 | [193958-dead-dawn.json](./193958-dead-dawn.json) |
 | Dead District: Survival | 209479 | [209479-dead-district-survival.json](./209479-dead-district-survival.json) |
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
@@ -962,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathrun TV | 152284 | [152284-deathrun-tv.json](./152284-deathrun-tv.json) |
 | Deathsmiles II: Makai no Merry Christmas | 68011 | [68011-deathsmiles-ii-makai-no-merry-christmas.json](./68011-deathsmiles-ii-makai-no-merry-christmas.json) |
 | Deathsmiles Mega Black Label | 79852 | [79852-deathsmiles-mega-black-label.json](./79852-deathsmiles-mega-black-label.json) |
+| Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
@@ -1632,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Island | 313102 | [313102-devils-island.json](./313102-devils-island.json) |
 | Devil's Island Pinball | 70331 | [70331-devils-island-pinball.json](./70331-devils-island-pinball.json) |
+| Devil's Kiss | 130127 | [130127-devils-kiss.json](./130127-devils-kiss.json) |
 | Devil's Revenge | 69855 | [69855-devils-revenge.json](./69855-devils-revenge.json) |
 | Devil's Third Online | 59988 | [59988-devils-third-online.json](./59988-devils-third-online.json) |
 | Devil's Tuning Fork | 67304 | [67304-devils-tuning-fork.json](./67304-devils-tuning-fork.json) |
