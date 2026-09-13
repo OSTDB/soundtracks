@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saap2003 | 77319 | [77319-saap2003.json](./77319-saap2003.json) |
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
+| Sabbat of the Witch | 105342 | [105342-sabbat-of-the-witch.json](./105342-sabbat-of-the-witch.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
 | Saber Punks | 152309 | [152309-saber-punks.json](./152309-saber-punks.json) |
 | Saber Survivors | 328452 | [328452-saber-survivors.json](./328452-saber-survivors.json) |
@@ -2528,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink the Fish: Spy Kit | 282542 | [282542-sink-the-fish-spy-kit.json](./282542-sink-the-fish-spy-kit.json) |
 | Sinking Iron | 251176 | [251176-sinking-iron.json](./251176-sinking-iron.json) |
 | Sinking Ships | 176455 | [176455-sinking-ships.json](./176455-sinking-ships.json) |
+| Sinkr 2 | 111667 | [111667-sinkr-2.json](./111667-sinkr-2.json) |
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
@@ -5792,7 +5794,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StellarFish | 349312 | [349312-stellarfish.json](./349312-stellarfish.json) |
 | Stellario | 265150 | [265150-stellario.json](./265150-stellario.json) |
 | Stellaris: Aquatics Species Pack | 218168 | [218168-stellaris-aquatics-species-pack.json](./218168-stellaris-aquatics-species-pack.json) |
+| Stellaris: Distant Stars | 114427 | [114427-stellaris-distant-stars.json](./114427-stellaris-distant-stars.json) |
 | Stellaris: Humanoids | 114426 | [114426-stellaris-humanoids.json](./114426-stellaris-humanoids.json) |
+| Stellaris: MegaCorp | 111331 | [111331-stellaris-megacorp.json](./111331-stellaris-megacorp.json) |
 | Stellaris: Overlord | 196297 | [196297-stellaris-overlord.json](./196297-stellaris-overlord.json) |
 | Stellaris: Plantoids Species Pack | 215399 | [215399-stellaris-plantoids-species-pack.json](./215399-stellaris-plantoids-species-pack.json) |
 | Stellaris: Toxoids | 218170 | [218170-stellaris-toxoids.json](./218170-stellaris-toxoids.json) |
@@ -6735,6 +6739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dash | 302361 | [302361-super-dash.json](./302361-super-dash.json) |
 | Super Destronaut 2: Go Duck Yourself | 84917 | [84917-super-destronaut-2-go-duck-yourself.json](./84917-super-destronaut-2-go-duck-yourself.json) |
 | Super Destronaut 3D | 84916 | [84916-super-destronaut-3d.json](./84916-super-destronaut-3d.json) |
+| Super Destronaut DX | 104862 | [104862-super-destronaut-dx.json](./104862-super-destronaut-dx.json) |
 | Super Diagonal Mario 2: The Ultimate Meme Machine | 267944 | [267944-super-diagonal-mario-2-the-ultimate-meme-machine.json](./267944-super-diagonal-mario-2-the-ultimate-meme-machine.json) |
 | Super Dino | 220880 | [220880-super-dino.json](./220880-super-dino.json) |
 | Super Disc Soccer | 147462 | [147462-super-disc-soccer.json](./147462-super-disc-soccer.json) |
@@ -7402,6 +7407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Duck Dash | 221160 | [221160-supermarket-duck-dash.json](./221160-supermarket-duck-dash.json) |
 | Supermarket Manager | 218686 | [218686-supermarket-manager.json](./218686-supermarket-manager.json) |
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
+| Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
