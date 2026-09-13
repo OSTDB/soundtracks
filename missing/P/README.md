@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
+| Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man World | 84190 | [84190-pac-man-world.json](./84190-pac-man-world.json) |
 | Pac-Man: Championship Edition DX | 21737 | [21737-pac-man-championship-edition-dx.json](./21737-pac-man-championship-edition-dx.json) |
 | Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitch-Hit: Baseball | 31347 | [31347-pitch-hit-baseball.json](./31347-pitch-hit-baseball.json) |
 | Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
+| Pitfall II: The Lost Caverns | 6125 | [6125-pitfall-ii-the-lost-caverns.json](./6125-pitfall-ii-the-lost-caverns.json) |
 | Pitfall: Beyond the Jungle | 49861 | [49861-pitfall-beyond-the-jungle.json](./49861-pitfall-beyond-the-jungle.json) |
 | Pitfall: The Big Adventure | 84820 | [84820-pitfall-the-big-adventure.json](./84820-pitfall-the-big-adventure.json) |
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
@@ -2531,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
 | Potion Craft | 142941 | [142941-potion-craft.json](./142941-potion-craft.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
+| Potion Permit | 155706 | [155706-potion-permit.json](./155706-potion-permit.json) |
 | Potion Permit: Halloween Bundle | 272286 | [272286-potion-permit-halloween-bundle.json](./272286-potion-permit-halloween-bundle.json) |
 | Potion Problems | 343256 | [343256-potion-problems.json](./343256-potion-problems.json) |
 | Potion Prodigy | 175939 | [175939-potion-prodigy.json](./175939-potion-prodigy.json) |
