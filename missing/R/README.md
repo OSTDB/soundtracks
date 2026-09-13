@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rats Invasion | 96673 | [96673-rats-invasion.json](./96673-rats-invasion.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
 | Rattle Royale | 323705 | [323705-rattle-royale.json](./323705-rattle-royale.json) |
+| Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
 | Ravage Road | 228458 | [228458-ravage-road.json](./228458-ravage-road.json) |
 | Raven's Hike | 164982 | [164982-ravens-hike.json](./164982-ravens-hike.json) |
 | Ravenbound | 214852 | [214852-ravenbound.json](./214852-ravenbound.json) |
@@ -739,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Escape Adventure | 218477 | [218477-red-ball-escape-adventure.json](./218477-red-ball-escape-adventure.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Baron History | 9411 | [9411-red-baron-history.json](./9411-red-baron-history.json) |
+| Red Baron: Mission Builder | 9224 | [9224-red-baron-mission-builder.json](./9224-red-baron-mission-builder.json) |
 | Red Bash | 187537 | [187537-red-bash.json](./187537-red-bash.json) |
 | Red Bird Adventure: Classic Physics Puzzle | 237358 | [237358-red-bird-adventure-classic-physics-puzzle.json](./237358-red-bird-adventure-classic-physics-puzzle.json) |
 | Red Blue Cell | 327844 | [327844-red-blue-cell.json](./327844-red-blue-cell.json) |
