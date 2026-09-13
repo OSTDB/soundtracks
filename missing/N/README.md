@@ -635,6 +635,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
 | Neptune's Secret | 210039 | [210039-neptunes-secret.json](./210039-neptunes-secret.json) |
 | NeptuneGL | 83563 | [83563-neptunegl.json](./83563-neptunegl.json) |
+| Neptunia reVerse | 139072 | [139072-neptunia-reverse.json](./139072-neptunia-reverse.json) |
+| Neptunia: Virtual Stars | 135338 | [135338-neptunia-virtual-stars.json](./135338-neptunia-virtual-stars.json) |
 | Neptunia: Virtual Stars - VIP Edition | 186890 | [186890-neptunia-virtual-stars-vip-edition.json](./186890-neptunia-virtual-stars-vip-edition.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
 | Nerds Rope: Follow the Leader Game | 373535 | [373535-nerds-rope-follow-the-leader-game.json](./373535-nerds-rope-follow-the-leader-game.json) |
@@ -1633,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nuage | 93520 | [93520-nuage.json](./93520-nuage.json) |
 | Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
+| Nuclear Blaze | 153876 | [153876-nuclear-blaze.json](./153876-nuclear-blaze.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Combat Ship | 252714 | [252714-nuclear-combat-ship.json](./252714-nuclear-combat-ship.json) |
 | Nuclear Contingency | 30963 | [30963-nuclear-contingency.json](./30963-nuclear-contingency.json) |
