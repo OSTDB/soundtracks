@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 30: Galaxy Force II - Special Extended Edition | 64897 | [64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json](./64897-sega-ages-2500-vol-30-galaxy-force-ii-special-extended-edition.json) |
 | Sega Ages 2500 Vol. 32: Phantasy Star Complete Collection | 69267 | [69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json](./69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json) |
 | Sega Ages Lightening Force: Quest for the Darkstar | 109595 | [109595-sega-ages-lightening-force-quest-for-the-darkstar.json](./109595-sega-ages-lightening-force-quest-for-the-darkstar.json) |
+| Sega Ages Out Run | 45392 | [45392-sega-ages-out-run.json](./45392-sega-ages-out-run.json) |
 | Sega Ages Thunder Force AC | 110060 | [110060-sega-ages-thunder-force-ac.json](./110060-sega-ages-thunder-force-ac.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
@@ -1873,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Stars 3: Sanctuary of the Star Comet | 132861 | [132861-shining-stars-3-sanctuary-of-the-star-comet.json](./132861-shining-stars-3-sanctuary-of-the-star-comet.json) |
 | Shining Stars Super Starcade | 48038 | [48038-shining-stars-super-starcade.json](./48038-shining-stars-super-starcade.json) |
 | Shining Symbol | 250965 | [250965-shining-symbol.json](./250965-shining-symbol.json) |
+| Shining the Holy Ark | 46063 | [46063-shining-the-holy-ark.json](./46063-shining-the-holy-ark.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
 | Shinkan Senshi Eris no Bouken | 97379 | [97379-shinkan-senshi-eris-no-bouken.json](./97379-shinkan-senshi-eris-no-bouken.json) |
 | Shinkon Gattai Godannar!! | 70905 | [70905-shinkon-gattai-godannar.json](./70905-shinkon-gattai-godannar.json) |
@@ -3776,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Colors: Ultimate - 30th Anniversary Pack | 150157 | [150157-sonic-colors-ultimate-30th-anniversary-pack.json](./150157-sonic-colors-ultimate-30th-anniversary-pack.json) |
 | Sonic Darts | 261252 | [261252-sonic-darts.json](./261252-sonic-darts.json) |
 | Sonic Dash | 19506 | [19506-sonic-dash.json](./19506-sonic-dash.json) |
+| Sonic Dash 2: Sonic Boom | 38695 | [38695-sonic-dash-2-sonic-boom.json](./38695-sonic-dash-2-sonic-boom.json) |
 | Sonic Dash Quiz | 261292 | [261292-sonic-dash-quiz.json](./261292-sonic-dash-quiz.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
@@ -3944,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Vex | 330520 | [330520-sonic-vex.json](./330520-sonic-vex.json) |
 | Sonic Wild | 317612 | [317612-sonic-wild.json](./317612-sonic-wild.json) |
 | Sonic Wings Limited | 39693 | [39693-sonic-wings-limited.json](./39693-sonic-wings-limited.json) |
+| Sonic Wings Special | 44837 | [44837-sonic-wings-special.json](./44837-sonic-wings-special.json) |
 | Sonic Winter Adventures | 256303 | [256303-sonic-winter-adventures.json](./256303-sonic-winter-adventures.json) |
 | Sonic World | 239068 | [239068-sonic-world.json](./239068-sonic-world.json) |
 | Sonic X-Treme | 336383 | [336383-sonic-x-treme.json](./336383-sonic-x-treme.json) |
@@ -5627,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
 | StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
 | StaudSoft's Synthetic World | 35899 | [35899-staudsofts-synthetic-world.json](./35899-staudsofts-synthetic-world.json) |
+| Staxel | 37294 | [37294-staxel.json](./37294-staxel.json) |
 | Stay | 348238 | [348238-stay.json](./348238-stay.json) |
 | Stay Alive | 197373 | [197373-stay-alive.json](./197373-stay-alive.json) |
 | Stay Alive | 258444 | [258444-stay-alive.json](./258444-stay-alive.json) |
@@ -6070,9 +6075,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3 Upper | 219058 | [219058-street-fighter-alpha-3-upper.json](./219058-street-fighter-alpha-3-upper.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
 | Street Fighter Battle Combination | 55065 | [55065-street-fighter-battle-combination.json](./55065-street-fighter-battle-combination.json) |
+| Street Fighter EX | 39319 | [39319-street-fighter-ex.json](./39319-street-fighter-ex.json) |
 | Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
 | Street Fighter II Uno | 55063 | [55063-street-fighter-ii-uno.json](./55063-street-fighter-ii-uno.json) |
 | Street Fighter III 2nd Impact: Giant Attack | 6709 | [6709-street-fighter-iii-2nd-impact-giant-attack.json](./6709-street-fighter-iii-2nd-impact-giant-attack.json) |
+| Street Fighter III: Double Impact | 45194 | [45194-street-fighter-iii-double-impact.json](./45194-street-fighter-iii-double-impact.json) |
 | Street Fighter III: New Generation | 6708 | [6708-street-fighter-iii-new-generation.json](./6708-street-fighter-iii-new-generation.json) |
 | Street Fighter IV | 884 | [884-street-fighter-iv.json](./884-street-fighter-iv.json) |
 | Street Fighter IV Volt: Battle Protocol | 77315 | [77315-street-fighter-iv-volt-battle-protocol.json](./77315-street-fighter-iv-volt-battle-protocol.json) |
