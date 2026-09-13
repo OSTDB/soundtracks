@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi Racing Challenge | 237656 | [237656-taxi-racing-challenge.json](./237656-taxi-racing-challenge.json) |
 | Taxi Run | 254752 | [254752-taxi-run.json](./254752-taxi-run.json) |
 | Taxi Sim 2016 | 262382 | [262382-taxi-sim-2016.json](./262382-taxi-sim-2016.json) |
+| Taxi! | 9454 | [9454-taxi.json](./9454-taxi.json) |
 | TaxMan | 19478 | [19478-taxman.json](./19478-taxman.json) |
 | Tayal | 109622 | [109622-tayal.json](./109622-tayal.json) |
 | Tayutama 2-you're the only one- ENG ver. | 82046 | [82046-tayutama-2-youre-the-only-one-eng-ver.json](./82046-tayutama-2-youre-the-only-one-eng-ver.json) |
@@ -1356,6 +1357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assistant's Turnabout | 303261 | [303261-the-assistants-turnabout.json](./303261-the-assistants-turnabout.json) |
+| The Asskickers | 9403 | [9403-the-asskickers.json](./9403-the-asskickers.json) |
 | The Astonishing Game | 29687 | [29687-the-astonishing-game.json](./29687-the-astonishing-game.json) |
 | The Astronomy Game | 156144 | [156144-the-astronomy-game.json](./156144-the-astronomy-game.json) |
 | The Asylum: Psychiatric Clinic for Abused Cuddly Toys | 66153 | [66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json](./66153-the-asylum-psychiatric-clinic-for-abused-cuddly-toys.json) |
@@ -2162,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Thing You Do When You Become A Girl | 97827 | [97827-the-first-thing-you-do-when-you-become-a-girl.json](./97827-the-first-thing-you-do-when-you-become-a-girl.json) |
 | The first titans | 161398 | [161398-the-first-titans.json](./161398-the-first-titans.json) |
 | The Fish and the Furious | 132826 | [132826-the-fish-and-the-furious.json](./132826-the-fish-and-the-furious.json) |
+| The Fish Fillets 2 | 9841 | [9841-the-fish-fillets-2.json](./9841-the-fish-fillets-2.json) |
 | The Fish Master! | 104099 | [104099-the-fish-master.json](./104099-the-fish-master.json) |
 | The Fishercat | 205236 | [205236-the-fishercat.json](./205236-the-fishercat.json) |
 | The Fisherman and the Sea | 175385 | [175385-the-fisherman-and-the-sea.json](./175385-the-fisherman-and-the-sea.json) |
@@ -2291,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
 | The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
+| The Good Life | 9396 | [9396-the-good-life.json](./9396-the-good-life.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
 | The Good Time Garden | 127409 | [127409-the-good-time-garden.json](./127409-the-good-time-garden.json) |
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
@@ -3397,6 +3401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiz Gear Fight!! | 46601 | [46601-the-quiz-gear-fight.json](./46601-the-quiz-gear-fight.json) |
 | The Rabbit Hole Principle | 120352 | [120352-the-rabbit-hole-principle.json](./120352-the-rabbit-hole-principle.json) |
 | The Rabbit's Scroll | 204114 | [204114-the-rabbits-scroll.json](./204114-the-rabbits-scroll.json) |
+| The Race for the White House | 9372 | [9372-the-race-for-the-white-house.json](./9372-the-race-for-the-white-house.json) |
 | The Race for the White House 2016 | 31386 | [31386-the-race-for-the-white-house-2016.json](./31386-the-race-for-the-white-house-2016.json) |
 | The Race to Goo Lagoon | 404243 | [404243-the-race-to-goo-lagoon.json](./404243-the-race-to-goo-lagoon.json) |
 | The Rack | 207808 | [207808-the-rack.json](./207808-the-rack.json) |
@@ -3409,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
+| The Rats | 9558 | [9558-the-rats.json](./9558-the-rats.json) |
 | The Rats in the Walls | 271489 | [271489-the-rats-in-the-walls.json](./271489-the-rats-in-the-walls.json) |
 | The Raven: Legacy of a Master Thief - Digital Deluxe Edition | 53771 | [53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json](./53771-the-raven-legacy-of-a-master-thief-digital-deluxe-edition.json) |
 | The Real Deal 2 | 130849 | [130849-the-real-deal-2.json](./130849-the-real-deal-2.json) |
@@ -4092,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
 | The Trasamire Campaigns | 213418 | [213418-the-trasamire-campaigns.json](./213418-the-trasamire-campaigns.json) |
+| The Trash Pack: The Gross Gang in Your Garbage | 9752 | [9752-the-trash-pack-the-gross-gang-in-your-garbage.json](./9752-the-trash-pack-the-gross-gang-in-your-garbage.json) |
 | The Traveller and the Mountain | 178570 | [178570-the-traveller-and-the-mountain.json](./178570-the-traveller-and-the-mountain.json) |
 | The Traveller: Vanilla Version | 280201 | [280201-the-traveller-vanilla-version.json](./280201-the-traveller-vanilla-version.json) |
 | The Travelling Salesfrog Problem | 229073 | [229073-the-travelling-salesfrog-problem.json](./229073-the-travelling-salesfrog-problem.json) |
@@ -4381,6 +4388,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
 | Theatre of The Absurd | 17367 | [17367-theatre-of-the-absurd.json](./17367-theatre-of-the-absurd.json) |
 | Theatre of the Absurd: A Scarlet Frost Mystery | 53792 | [53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json](./53792-theatre-of-the-absurd-a-scarlet-frost-mystery.json) |
+| Theatre of War | 9857 | [9857-theatre-of-war.json](./9857-theatre-of-war.json) |
+| Theatre of War 2: Africa 1943 | 9858 | [9858-theatre-of-war-2-africa-1943.json](./9858-theatre-of-war-2-africa-1943.json) |
 | Theatre of War 2: Africa 1943 - Centauro | 10954 | [10954-theatre-of-war-2-africa-1943-centauro.json](./10954-theatre-of-war-2-africa-1943-centauro.json) |
 | Theatre of War 2: Battle for Caen | 10955 | [10955-theatre-of-war-2-battle-for-caen.json](./10955-theatre-of-war-2-battle-for-caen.json) |
 | Theatre Tales | 117666 | [117666-theatre-tales.json](./117666-theatre-tales.json) |
@@ -6095,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
+| Tower Bloxx Deluxe | 9453 | [9453-tower-bloxx-deluxe.json](./9453-tower-bloxx-deluxe.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
@@ -7336,6 +7346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Atmospheric Atrocities | 331685 | [331685-two-atmospheric-atrocities.json](./331685-two-atmospheric-atrocities.json) |
+| Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
 | Two Die | 142501 | [142501-two-die.json](./142501-two-die.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
 | Two Faced | 300719 | [300719-two-faced.json](./300719-two-faced.json) |
