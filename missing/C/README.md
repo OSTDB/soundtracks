@@ -706,6 +706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles & Krakens | 112280 | [112280-castles-and-krakens.json](./112280-castles-and-krakens.json) |
 | Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
 | Castlevania 2 | 276459 | [276459-castlevania-2.json](./276459-castlevania-2.json) |
+| Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
 | Castlevania: Aria of Sorrow | 1134 | [1134-castlevania-aria-of-sorrow.json](./1134-castlevania-aria-of-sorrow.json) |
@@ -725,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
 | Castlevania: Rondo of the Night | 394858 | [394858-castlevania-rondo-of-the-night.json](./394858-castlevania-rondo-of-the-night.json) |
 | Castlevania: Symphony of the Night Randomizer | 218152 | [218152-castlevania-symphony-of-the-night-randomizer.json](./218152-castlevania-symphony-of-the-night-randomizer.json) |
+| Castlevania: The Adventure | 1118 | [1118-castlevania-the-adventure.json](./1118-castlevania-the-adventure.json) |
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
 | Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
@@ -1574,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q 3 | 97364 | [97364-choro-q-3.json](./97364-choro-q-3.json) |
 | Choro Q HG 3 | 196257 | [196257-choro-q-hg-3.json](./196257-choro-q-hg-3.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
+| Chorus | 133305 | [133305-chorus.json](./133305-chorus.json) |
 | Chosen Angels | 255998 | [255998-chosen-angels.json](./255998-chosen-angels.json) |
 | Chosen of God | 321383 | [321383-chosen-of-god.json](./321383-chosen-of-god.json) |
 | Chosen War | 333353 | [333353-chosen-war.json](./333353-chosen-war.json) |
@@ -2552,6 +2555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comixxx Swap | 195741 | [195741-comixxx-swap.json](./195741-comixxx-swap.json) |
 | Command & Colours: The Great War | 175382 | [175382-command-and-colours-the-great-war.json](./175382-command-and-colours-the-great-war.json) |
 | Command & Conquer 3: Tiberium Wars | 281426 | [281426-command-and-conquer-3-tiberium-wars.json](./281426-command-and-conquer-3-tiberium-wars.json) |
+| Command & Conquer 4: Tiberian Twilight | 670 | [670-command-and-conquer-4-tiberian-twilight.json](./670-command-and-conquer-4-tiberian-twilight.json) |
 | Command & Conquer: Generals | 649 | [649-command-and-conquer-generals.json](./649-command-and-conquer-generals.json) |
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
@@ -2650,6 +2654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
 | Conan Exiles: Riders of Hyboria | 127253 | [127253-conan-exiles-riders-of-hyboria.json](./127253-conan-exiles-riders-of-hyboria.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
+| Conarium | 24856 | [24856-conarium.json](./24856-conarium.json) |
 | Conbunn Cardboard | 204099 | [204099-conbunn-cardboard.json](./204099-conbunn-cardboard.json) |
 | Conc Jump | 132852 | [132852-conc-jump.json](./132852-conc-jump.json) |
 | Concept 20 | 127224 | [127224-concept-20.json](./127224-concept-20.json) |
