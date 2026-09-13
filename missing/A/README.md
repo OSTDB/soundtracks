@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
 | A Day With Mochi | 323717 | [323717-a-day-with-mochi.json](./323717-a-day-with-mochi.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
+| A Detective's Novel | 27921 | [27921-a-detectives-novel.json](./27921-a-detectives-novel.json) |
 | A different summer | 278426 | [278426-a-different-summer.json](./278426-a-different-summer.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
 | A Divided Light | 96766 | [96766-a-divided-light.json](./96766-a-divided-light.json) |
@@ -312,7 +313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
-| Adelantado Trilogy: Book Two | 76652 | [76652-adelantado-trilogy-book-two.json](./76652-adelantado-trilogy-book-two.json) |
 | Adelantado. 4 Aztec skulls | 104665 | [104665-adelantado-4-aztec-skulls.json](./104665-adelantado-4-aztec-skulls.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | ADG Episode | 270696 | [270696-adg-episode.json](./270696-adg-episode.json) |
@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
 | Aeons Past | 223482 | [223482-aeons-past.json](./223482-aeons-past.json) |
 | Aequitas Orbis | 75064 | [75064-aequitas-orbis.json](./75064-aequitas-orbis.json) |
+| Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
 | AereA: Collector's Edition | 166237 | [166237-aerea-collectors-edition.json](./166237-aerea-collectors-edition.json) |
 | AereA: Deluxe Edition | 52576 | [52576-aerea-deluxe-edition.json](./52576-aerea-deluxe-edition.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
@@ -983,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aki to Tsukasa no Fushigi no Kabe | 41341 | [41341-aki-to-tsukasa-no-fushigi-no-kabe.json](./41341-aki-to-tsukasa-no-fushigi-no-kabe.json) |
 | Akiba's Beat | 19465 | [19465-akibas-beat.json](./19465-akibas-beat.json) |
 | Akiba's Trip: Undead & Undressed | 7268 | [7268-akibas-trip-undead-and-undressed.json](./7268-akibas-trip-undead-and-undressed.json) |
+| Akihabara: Feel the Rhythm | 26770 | [26770-akihabara-feel-the-rhythm.json](./26770-akihabara-feel-the-rhythm.json) |
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akin Vol 2 | 50505 | [50505-akin-vol-2.json](./50505-akin-vol-2.json) |
@@ -1222,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
 | Aliens | 186868 | [186868-aliens.json](./186868-aliens.json) |
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
+| Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
 | Aliens Versus Predator: Extinction | 5720 | [5720-aliens-versus-predator-extinction.json](./5720-aliens-versus-predator-extinction.json) |
@@ -1661,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
 | Anagrams | 169360 | [169360-anagrams.json](./169360-anagrams.json) |
 | Analistica Academy | 89937 | [89937-analistica-academy.json](./89937-analistica-academy.json) |
+| Anamorphine | 27873 | [27873-anamorphine.json](./27873-anamorphine.json) |
 | Anan Kanshuu: Onna-jikara Kinkyuu Up! DS | 269549 | [269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json](./269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json) |
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
 | Anarchy | 201298 | [201298-anarchy.json](./201298-anarchy.json) |
