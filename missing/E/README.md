@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Desert TD | 275340 | [275340-endless-desert-td.json](./275340-endless-desert-td.json) |
 | Endless Drive | 234610 | [234610-endless-drive.json](./234610-endless-drive.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
+| Endless Fables 3: Dark Moor | 105085 | [105085-endless-fables-3-dark-moor.json](./105085-endless-fables-3-dark-moor.json) |
 | Endless Fables 4: Shadow Within | 122827 | [122827-endless-fables-4-shadow-within.json](./122827-endless-fables-4-shadow-within.json) |
 | Endless Fables: Shadow Within | 165611 | [165611-endless-fables-shadow-within.json](./165611-endless-fables-shadow-within.json) |
 | Endless Fables: The Minotaur's Curse | 32003 | [32003-endless-fables-the-minotaurs-curse.json](./32003-endless-fables-the-minotaurs-curse.json) |
@@ -1380,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everest | 95437 | [95437-everest.json](./95437-everest.json) |
 | Everest Truck Simulator | 367981 | [367981-everest-truck-simulator.json](./367981-everest-truck-simulator.json) |
 | Everfall: Idle Dungeon RPG | 377083 | [377083-everfall-idle-dungeon-rpg.json](./377083-everfall-idle-dungeon-rpg.json) |
+| Evergarden | 107191 | [107191-evergarden.json](./107191-evergarden.json) |
 | Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
 | Evergreen | 59933 | [59933-evergreen.json](./59933-evergreen.json) |
 | Evergreen Meadow | 390495 | [390495-evergreen-meadow.json](./390495-evergreen-meadow.json) |
