@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T18:49:11.928Z",
-  "total_missing": 66818,
+  "generated_at": "2026-09-13T18:51:38.068Z",
+  "total_missing": 66817,
   "games": [
     {
       "igdb_id": 306086,
@@ -3841,11 +3841,6 @@
       "igdb_id": 240470,
       "game_name": "Adachi Dating Simulator",
       "file": "missing/A/240470-adachi-dating-simulator.json"
-    },
-    {
-      "igdb_id": 233509,
-      "game_name": "Adam and Eve: Crossy River",
-      "file": "missing/A/233509-adam-and-eve-crossy-river.json"
     },
     {
       "igdb_id": 326038,
