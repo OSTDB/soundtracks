@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Inquisitor - Prophecy | 118770 | [118770-warhammer-40-000-inquisitor-prophecy.json](./118770-warhammer-40-000-inquisitor-prophecy.json) |
 | Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
 | Warhammer 40,000: Mechanicus | 88461 | [88461-warhammer-40-000-mechanicus.json](./88461-warhammer-40-000-mechanicus.json) |
+| Warhammer 40,000: Mechanicus II | 302176 | [302176-warhammer-40-000-mechanicus-ii.json](./302176-warhammer-40-000-mechanicus-ii.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Pack | 280170 | [280170-warhammer-40-000-rogue-trader-voidfarer-pack.json](./280170-warhammer-40-000-rogue-trader-voidfarer-pack.json) |
 | Warhammer 40,000: Sanctus Reach - Horrors of the Warp | 111746 | [111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json](./111746-warhammer-40-000-sanctus-reach-horrors-of-the-warp.json) |
@@ -605,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
 | We, Junk Artists | 369043 | [369043-we-junk-artists.json](./369043-we-junk-artists.json) |
 | We're Back! A Dinosaur's Story | 241985 | [241985-were-back-a-dinosaurs-story.json](./241985-were-back-a-dinosaurs-story.json) |
+| We're Closed Sorry | 298775 | [298775-were-closed-sorry.json](./298775-were-closed-sorry.json) |
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | Weak Soul | 247741 | [247741-weak-soul.json](./247741-weak-soul.json) |
 | Weak Warrior | 61115 | [61115-weak-warrior.json](./61115-weak-warrior.json) |
