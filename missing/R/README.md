@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronaldo V-Football | 44836 | [44836-ronaldo-v-football.json](./44836-ronaldo-v-football.json) |
 | Ronaldo V-Soccer | 49885 | [49885-ronaldo-v-soccer.json](./49885-ronaldo-v-soccer.json) |
 | Ronde | 78016 | [78016-ronde.json](./78016-ronde.json) |
+| Rondo of Swords | 21481 | [21481-rondo-of-swords.json](./21481-rondo-of-swords.json) |
 | Róngshēn zhī Dìtiě | 117649 | [117649-rongshen-zhi-ditie.json](./117649-rongshen-zhi-ditie.json) |
 | Ronin: Two Souls | 139474 | [139474-ronin-two-souls.json](./139474-ronin-two-souls.json) |
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
@@ -2546,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby League Riot | 274478 | [274478-rugby-league-riot.json](./274478-rugby-league-riot.json) |
 | Rugby Sevens 23 | 240817 | [240817-rugby-sevens-23.json](./240817-rugby-sevens-23.json) |
 | Rugby Union Team Manager 4 | 225072 | [225072-rugby-union-team-manager-4.json](./225072-rugby-union-team-manager-4.json) |
+| Rugby World Cup 2015 | 20861 | [20861-rugby-world-cup-2015.json](./20861-rugby-world-cup-2015.json) |
 | Rugida | 169384 | [169384-rugida.json](./169384-rugida.json) |
 | Rugon | 108991 | [108991-rugon.json](./108991-rugon.json) |
 | Rugrats in Paris: The Movie | 2792 | [2792-rugrats-in-paris-the-movie.json](./2792-rugrats-in-paris-the-movie.json) |
