@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
 | Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
 | Marauder | 55054 | [55054-marauder.json](./55054-marauder.json) |
+| Marauders | 132995 | [132995-marauders.json](./132995-marauders.json) |
 | Marbellous | 311465 | [311465-marbellous.json](./311465-marbellous.json) |
 | Marbies Party | 344934 | [344934-marbies-party.json](./344934-marbies-party.json) |
 | Marble Battles | 240213 | [240213-marble-battles.json](./240213-marble-battles.json) |
@@ -1468,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Tales Solitaire | 236254 | [236254-medieval-tales-solitaire.json](./236254-medieval-tales-solitaire.json) |
 | Medieval Wars | 165697 | [165697-medieval-wars.json](./165697-medieval-wars.json) |
 | Medieval: Total War - Collection | 82055 | [82055-medieval-total-war-collection.json](./82055-medieval-total-war-collection.json) |
+| Medieval: Total War - Viking Invasion | 444 | [444-medieval-total-war-viking-invasion.json](./444-medieval-total-war-viking-invasion.json) |
 | Medievalfield | 200695 | [200695-medievalfield.json](./200695-medievalfield.json) |
 | Meditation Journey: VR Zen Garden | 167785 | [167785-meditation-journey-vr-zen-garden.json](./167785-meditation-journey-vr-zen-garden.json) |
 | Medival Hustle | 304578 | [304578-medival-hustle.json](./304578-medival-hustle.json) |
@@ -2018,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorite's Journey | 55146 | [55146-meteorites-journey.json](./55146-meteorites-journey.json) |
 | Meteoroids | 307592 | [307592-meteoroids.json](./307592-meteoroids.json) |
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
+| Meteos | 1165 | [1165-meteos.json](./1165-meteos.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
 | Methods 4: The Best Detective | 322596 | [322596-methods-4-the-best-detective.json](./322596-methods-4-the-best-detective.json) |
 | Methods: Detective Competition | 319558 | [319558-methods-detective-competition.json](./319558-methods-detective-competition.json) |
@@ -4487,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
+| Mystery House | 2479 | [2479-mystery-house.json](./2479-mystery-house.json) |
 | Mystery House | 342677 | [342677-mystery-house.json](./342677-mystery-house.json) |
 | Mystery in the Office | 245840 | [245840-mystery-in-the-office.json](./245840-mystery-in-the-office.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
