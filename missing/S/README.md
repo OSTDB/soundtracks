@@ -3109,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Terrors: Galdor's Bluff | 79248 | [79248-small-town-terrors-galdors-bluff.json](./79248-small-town-terrors-galdors-bluff.json) |
 | Small Town Terrors: Pilgrim's Hook | 79249 | [79249-small-town-terrors-pilgrims-hook.json](./79249-small-town-terrors-pilgrims-hook.json) |
 | Small Town Terrors: Pilgrim's Hook - Collector's Edition | 36314 | [36314-small-town-terrors-pilgrims-hook-collectors-edition.json](./36314-small-town-terrors-pilgrims-hook-collectors-edition.json) |
+| Smalland: Survive the Wilds VR | 299752 | [299752-smalland-survive-the-wilds-vr.json](./299752-smalland-survive-the-wilds-vr.json) |
 | Smart As... | 92456 | [92456-smart-as.json](./92456-smart-as.json) |
 | Smart Boy's Gameroom II | 208958 | [208958-smart-boys-gameroom-ii.json](./208958-smart-boys-gameroom-ii.json) |
 | Smart CyberFly | 69851 | [69851-smart-cyberfly.json](./69851-smart-cyberfly.json) |
@@ -4555,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
 | Spare Parts: Episode 1 | 162854 | [162854-spare-parts-episode-1.json](./162854-spare-parts-episode-1.json) |
 | Spare Parts: Episode 2 | 162855 | [162855-spare-parts-episode-2.json](./162855-spare-parts-episode-2.json) |
+| Sparedevil | 303840 | [303840-sparedevil.json](./303840-sparedevil.json) |
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
@@ -5075,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Against Spy | 57639 | [57639-spy-against-spy.json](./57639-spy-against-spy.json) |
 | Spy Alarm | 148572 | [148572-spy-alarm.json](./148572-spy-alarm.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
+| Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
 | Spy Fiction | 43327 | [43327-spy-fiction.json](./43327-spy-fiction.json) |
 | Spy Guy American Dream | 375162 | [375162-spy-guy-american-dream.json](./375162-spy-guy-american-dream.json) |
 | Spy Guy Hidden Objects Poland | 400194 | [400194-spy-guy-hidden-objects-poland.json](./400194-spy-guy-hidden-objects-poland.json) |
@@ -5649,6 +5652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Survivor | 291481 | [291481-stars-survivor.json](./291481-stars-survivor.json) |
+| Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starshatter | 70929 | [70929-starshatter.json](./70929-starshatter.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
@@ -6118,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry | 339658 | [339658-strawberry.json](./339658-strawberry.json) |
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
 | Strawberry Shortcake: Sweet Dreams | 49366 | [49366-strawberry-shortcake-sweet-dreams.json](./49366-strawberry-shortcake-sweet-dreams.json) |
+| Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
 | Stray of Lostcat | 385078 | [385078-stray-of-lostcat.json](./385078-stray-of-lostcat.json) |
 | Stray Shot | 290715 | [290715-stray-shot.json](./290715-stray-shot.json) |
@@ -6566,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumatra: Fate of Yandi | 110416 | [110416-sumatra-fate-of-yandi.json](./110416-sumatra-fate-of-yandi.json) |
 | Sumer | 32921 | [32921-sumer.json](./32921-sumer.json) |
 | Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
+| Sumerian Six | 305175 | [305175-sumerian-six.json](./305175-sumerian-six.json) |
 | Sumeru | 32210 | [32210-sumeru.json](./32210-sumeru.json) |
 | Sumi Sumi | 108511 | [108511-sumi-sumi.json](./108511-sumi-sumi.json) |
 | Sumiii | 219585 | [219585-sumiii.json](./219585-sumiii.json) |
@@ -7690,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapfell Ascendance | 331347 | [331347-swapfell-ascendance.json](./331347-swapfell-ascendance.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
+| Swapmeat | 304473 | [304473-swapmeat.json](./304473-swapmeat.json) |
 | Swapologic | 233517 | [233517-swapologic.json](./233517-swapologic.json) |
 | SwapOut | 173316 | [173316-swapout.json](./173316-swapout.json) |
 | SwapStar | 252394 | [252394-swapstar.json](./252394-swapstar.json) |
