@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T08:01:35.095Z",
-  "total_missing": 65199,
+  "generated_at": "2026-09-13T08:11:29.895Z",
+  "total_missing": 65210,
   "games": [
     {
       "igdb_id": 306086,
@@ -3496,11 +3496,6 @@
       "igdb_id": 15588,
       "game_name": "Acid Drops",
       "file": "missing/A/15588-acid-drops.json"
-    },
-    {
-      "igdb_id": 316099,
-      "game_name": "Acid Factory",
-      "file": "missing/A/316099-acid-factory.json"
     },
     {
       "igdb_id": 205568,
@@ -49943,6 +49938,11 @@
       "file": "missing/C/23657-cloud-chasers.json"
     },
     {
+      "igdb_id": 142314,
+      "game_name": "Cloud Climber",
+      "file": "missing/C/142314-cloud-climber.json"
+    },
+    {
       "igdb_id": 183612,
       "game_name": "Cloud Escape",
       "file": "missing/C/183612-cloud-escape.json"
@@ -75043,6 +75043,11 @@
       "file": "missing/D/375191-dragon-quest-vii-reimagined-white-wolf-costume.json"
     },
     {
+      "igdb_id": 145528,
+      "game_name": "Dragon Quest VIII: Journey of the Cursed King",
+      "file": "missing/D/145528-dragon-quest-viii-journey-of-the-cursed-king.json"
+    },
+    {
       "igdb_id": 80597,
       "game_name": "Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online",
       "file": "missing/D/80597-dragon-quest-x-mezameshi-itsutsu-no-shuzoku-online.json"
@@ -90666,6 +90671,11 @@
       "igdb_id": 299455,
       "game_name": "Fart Up",
       "file": "missing/F/299455-fart-up.json"
+    },
+    {
+      "igdb_id": 142688,
+      "game_name": "Farthest Frontier",
+      "file": "missing/F/142688-farthest-frontier.json"
     },
     {
       "igdb_id": 315285,
@@ -112181,6 +112191,11 @@
       "igdb_id": 102125,
       "game_name": "Growing Pug",
       "file": "missing/G/102125-growing-pug.json"
+    },
+    {
+      "igdb_id": 155796,
+      "game_name": "Growing Up",
+      "file": "missing/G/155796-growing-up.json"
     },
     {
       "igdb_id": 229675,
@@ -134448,6 +134463,11 @@
       "file": "missing/I/32979-iwo-bloodbath-in-the-bonins.json"
     },
     {
+      "igdb_id": 152258,
+      "game_name": "Ixion",
+      "file": "missing/I/152258-ixion.json"
+    },
+    {
       "igdb_id": 152292,
       "game_name": "Ixion Saga",
       "file": "missing/I/152292-ixion-saga.json"
@@ -145911,6 +145931,11 @@
       "igdb_id": 57037,
       "game_name": "Laika 2.0",
       "file": "missing/L/57037-laika-2-0.json"
+    },
+    {
+      "igdb_id": 146088,
+      "game_name": "Laika: Aged Through Blood",
+      "file": "missing/L/146088-laika-aged-through-blood.json"
     },
     {
       "igdb_id": 127893,
@@ -167248,6 +167273,11 @@
       "file": "missing/M/149593-miguelshroom-first-day-at-school.json"
     },
     {
+      "igdb_id": 143620,
+      "game_name": "Miitopia",
+      "file": "missing/M/143620-miitopia.json"
+    },
+    {
       "igdb_id": 262928,
       "game_name": "Mik",
       "file": "missing/M/262928-mik.json"
@@ -170106,6 +170136,11 @@
       "igdb_id": 119070,
       "game_name": "MLB The Show 19: MVP Edition",
       "file": "missing/M/119070-mlb-the-show-19-mvp-edition.json"
+    },
+    {
+      "igdb_id": 143260,
+      "game_name": "MLB The Show 21",
+      "file": "missing/M/143260-mlb-the-show-21.json"
     },
     {
       "igdb_id": 196516,
@@ -193793,6 +193828,11 @@
       "file": "missing/P/14701-pac-man-256.json"
     },
     {
+      "igdb_id": 145515,
+      "game_name": "Pac-Man 99",
+      "file": "missing/P/145515-pac-man-99.json"
+    },
+    {
       "igdb_id": 237983,
       "game_name": "Pac-Man 99: Deluxe Pack",
       "file": "missing/P/237983-pac-man-99-deluxe-pack.json"
@@ -204321,6 +204361,11 @@
       "igdb_id": 334655,
       "game_name": "Pokemon HG/SS Golden Edition",
       "file": "missing/P/334655-pokemon-hg-ss-golden-edition.json"
+    },
+    {
+      "igdb_id": 141960,
+      "game_name": "Pokémon Home",
+      "file": "missing/P/141960-pokemon-home.json"
     },
     {
       "igdb_id": 202405,
@@ -277763,6 +277808,11 @@
       "file": "missing/T/327808-the-house-of-the-dead-2-remake.json"
     },
     {
+      "igdb_id": 145787,
+      "game_name": "The House of the Dead: Remake",
+      "file": "missing/T/145787-the-house-of-the-dead-remake.json"
+    },
+    {
       "igdb_id": 194406,
       "game_name": "The House of the Dead: Remake - Limidead Edition",
       "file": "missing/T/194406-the-house-of-the-dead-remake-limidead-edition.json"
@@ -296346,6 +296396,11 @@
       "igdb_id": 105877,
       "game_name": "Train Sim World",
       "file": "missing/T/105877-train-sim-world.json"
+    },
+    {
+      "igdb_id": 136868,
+      "game_name": "Train Sim World 2",
+      "file": "missing/T/136868-train-sim-world-2.json"
     },
     {
       "igdb_id": 205574,
