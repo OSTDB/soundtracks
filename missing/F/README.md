@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero: Falcon Densetsu e+ - Silence: Kamitoba | 329551 | [329551-f-zero-falcon-densetsu-e-silence-kamitoba.json](./329551-f-zero-falcon-densetsu-e-silence-kamitoba.json) |
 | F-Zero: Falcon Densetsu e+ - Twin Noritta | 329559 | [329559-f-zero-falcon-densetsu-e-twin-noritta.json](./329559-f-zero-falcon-densetsu-e-twin-noritta.json) |
 | F-Zero: Falcon Densetsu e+ - White Land: Yeti Foot | 329553 | [329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json](./329553-f-zero-falcon-densetsu-e-white-land-yeti-foot.json) |
+| F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
 | F.E.A.R. Files | 5640 | [5640-f-e-a-r-files.json](./5640-f-e-a-r-files.json) |
 | F.I.D.O. | 196787 | [196787-f-i-d-o.json](./196787-f-i-d-o.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
@@ -846,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
 | FIFA 16 | 11071 | [11071-fifa-16.json](./11071-fifa-16.json) |
+| FIFA 19 | 96209 | [96209-fifa-19.json](./96209-fifa-19.json) |
 | FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
 | FIFA 2001: Major League Soccer | 240243 | [240243-fifa-2001-major-league-soccer.json](./240243-fifa-2001-major-league-soccer.json) |
 | FIFA 22 | 240455 | [240455-fifa-22.json](./240455-fifa-22.json) |
@@ -857,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
+| FIFA Soccer 13 | 2153 | [2153-fifa-soccer-13.json](./2153-fifa-soccer-13.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
 | FIFA Soccer 96 | 240232 | [240232-fifa-soccer-96.json](./240232-fifa-soccer-96.json) |
