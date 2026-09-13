@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid Leader | 237385 | [237385-raid-leader.json](./237385-raid-leader.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
+| Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
 | Raiden Trad | 46211 | [46211-raiden-trad.json](./46211-raiden-trad.json) |
 | Raider | 319597 | [319597-raider.json](./319597-raider.json) |
 | Raiders of the Broken Planet | 19011 | [19011-raiders-of-the-broken-planet.json](./19011-raiders-of-the-broken-planet.json) |
@@ -2012,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocks Rider | 262059 | [262059-rocks-rider.json](./262059-rocks-rider.json) |
 | Rocks'n'Gems | 169451 | [169451-rocksngems.json](./169451-rocksngems.json) |
 | RockSlide | 212798 | [212798-rockslide.json](./212798-rockslide.json) |
+| Rocksmith | 2697 | [2697-rocksmith.json](./2697-rocksmith.json) |
 | Rocksmith 2014: R.E.M. Song Pack | 226937 | [226937-rocksmith-2014-r-e-m-song-pack.json](./226937-rocksmith-2014-r-e-m-song-pack.json) |
 | Rocksmith 2014: Regal Singles Song Pack | 226938 | [226938-rocksmith-2014-regal-singles-song-pack.json](./226938-rocksmith-2014-regal-singles-song-pack.json) |
 | Rocksmith 2014: Rise Against Song Pack | 226936 | [226936-rocksmith-2014-rise-against-song-pack.json](./226936-rocksmith-2014-rise-against-song-pack.json) |
@@ -2148,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Revolt | 244500 | [244500-rolling-revolt.json](./244500-rolling-revolt.json) |
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
+| Rolling Thunder | 12846 | [12846-rolling-thunder.json](./12846-rolling-thunder.json) |
 | Rolling Toolman | 248683 | [248683-rolling-toolman.json](./248683-rolling-toolman.json) |
 | Rolling Valley | 192876 | [192876-rolling-valley.json](./192876-rolling-valley.json) |
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
