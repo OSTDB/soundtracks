@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Dream's​ | 387340 | [387340-five-nights-at-dreams.json](./387340-five-nights-at-dreams.json) |
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
 | Five Nights at Freddy's | 339271 | [339271-five-nights-at-freddys.json](./339271-five-nights-at-freddys.json) |
+| Five Nights at Freddy's | 8499 | [8499-five-nights-at-freddys.json](./8499-five-nights-at-freddys.json) |
 | Five Nights at Freddy's 2 | 305746 | [305746-five-nights-at-freddys-2.json](./305746-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
