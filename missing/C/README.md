@@ -3323,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Cars: Driven to Destruction | 247743 | [247743-crash-cars-driven-to-destruction.json](./247743-crash-cars-driven-to-destruction.json) |
 | Crash Cleaner | 165656 | [165656-crash-cleaner.json](./165656-crash-cleaner.json) |
 | Crash Commando | 21136 | [21136-crash-commando.json](./21136-crash-commando.json) |
+| Crash Drive 3 | 153824 | [153824-crash-drive-3.json](./153824-crash-drive-3.json) |
 | Crash Dummy | 35855 | [35855-crash-dummy.json](./35855-crash-dummy.json) |
 | Crash Effects Inc. | 217514 | [217514-crash-effects-inc.json](./217514-crash-effects-inc.json) |
 | Crash Forts 2 | 205273 | [205273-crash-forts-2.json](./205273-crash-forts-2.json) |
@@ -4053,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curupira | 218484 | [218484-curupira.json](./218484-curupira.json) |
 | Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
 | Curve Fever | 63259 | [63259-curve-fever.json](./63259-curve-fever.json) |
+| Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
