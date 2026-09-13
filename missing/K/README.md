@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakatte Koi Yo! | 127671 | [127671-kakatte-koi-yo.json](./127671-kakatte-koi-yo.json) |
 | Kakefu-kun no Jump Tengoku Speed Jigoku | 215129 | [215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json](./215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json) |
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
+| Kakele Online: MMORPG | 151267 | [151267-kakele-online-mmorpg.json](./151267-kakele-online-mmorpg.json) |
 | Kakkouke | 284341 | [284341-kakkouke.json](./284341-kakkouke.json) |
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
 | Kakurenbo no Oto: Hidden Notes | 172741 | [172741-kakurenbo-no-oto-hidden-notes.json](./172741-kakurenbo-no-oto-hidden-notes.json) |
@@ -807,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Dream Land 3 | 3720 | [3720-kirbys-dream-land-3.json](./3720-kirbys-dream-land-3.json) |
 | Kirby's Dream World | 243927 | [243927-kirbys-dream-world.json](./243927-kirbys-dream-world.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
+| Kirka.io | 152476 | [152476-kirka-io.json](./152476-kirka-io.json) |
 | Kiro | 138741 | [138741-kiro.json](./138741-kiro.json) |
 | Kiro Ramy Story: The Junior | 123582 | [123582-kiro-ramy-story-the-junior.json](./123582-kiro-ramy-story-the-junior.json) |
 | Kisaragi Gold Star: Nonstop Go Go!! | 272535 | [272535-kisaragi-gold-star-nonstop-go-go.json](./272535-kisaragi-gold-star-nonstop-go-go.json) |
