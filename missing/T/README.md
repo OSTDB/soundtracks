@@ -2539,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
+| The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
 | The Last Catalyst | 277613 | [277613-the-last-catalyst.json](./277613-the-last-catalyst.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
@@ -3488,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Pets | 225 | [225-the-sims-2-pets.json](./225-the-sims-2-pets.json) |
 | The Sims 25th Birthday Bundle | 362302 | [362302-the-sims-25th-birthday-bundle.json](./362302-the-sims-25th-birthday-bundle.json) |
 | The Sims 3 | 248568 | [248568-the-sims-3.json](./248568-the-sims-3.json) |
+| The Sims 3: Late Night | 13112 | [13112-the-sims-3-late-night.json](./13112-the-sims-3-late-night.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
 | The Sims 4: Artist Studio Kit | 317646 | [317646-the-sims-4-artist-studio-kit.json](./317646-the-sims-4-artist-studio-kit.json) |
 | The Sims 4: Back to School Bundle | 159331 | [159331-the-sims-4-back-to-school-bundle.json](./159331-the-sims-4-back-to-school-bundle.json) |
@@ -3510,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Essential Glam Kit | 362300 | [362300-the-sims-4-essential-glam-kit.json](./362300-the-sims-4-essential-glam-kit.json) |
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
+| The Sims 4: Get to Work | 13143 | [13143-the-sims-4-get-to-work.json](./13143-the-sims-4-get-to-work.json) |
 | The Sims 4: Golden Years Kit | 350998 | [350998-the-sims-4-golden-years-kit.json](./350998-the-sims-4-golden-years-kit.json) |
 | The Sims 4: Grange Mudroom Kit | 362301 | [362301-the-sims-4-grange-mudroom-kit.json](./362301-the-sims-4-grange-mudroom-kit.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
@@ -4160,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
 | The World After | 184618 | [184618-the-world-after.json](./184618-the-world-after.json) |
 | The World Beyond | 389409 | [389409-the-world-beyond.json](./389409-the-world-beyond.json) |
+| The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
@@ -5304,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Zone 2 | 337643 | [337643-toilet-zone-2.json](./337643-toilet-zone-2.json) |
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
+| Toki | 12228 | [12228-toki.json](./12228-toki.json) |
 | Toki no Ihoujin | 408767 | [408767-toki-no-ihoujin.json](./408767-toki-no-ihoujin.json) |
 | Toki Tori 2 | 2351 | [2351-toki-tori-2.json](./2351-toki-tori-2.json) |
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
