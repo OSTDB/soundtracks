@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jimmy Connors Pro Tennis Tour | 42605 | [42605-jimmy-connors-pro-tennis-tour.json](./42605-jimmy-connors-pro-tennis-tour.json) |
 | Jimmy Connors Tennis | 365696 | [365696-jimmy-connors-tennis.json](./365696-jimmy-connors-tennis.json) |
 | Jimmy Kamikaze | 108436 | [108436-jimmy-kamikaze.json](./108436-jimmy-kamikaze.json) |
+| Jimmy Neutron: Boy Genius | 2966 | [2966-jimmy-neutron-boy-genius.json](./2966-jimmy-neutron-boy-genius.json) |
 | Jimmy Neutron: Boy Genius | 49291 | [49291-jimmy-neutron-boy-genius.json](./49291-jimmy-neutron-boy-genius.json) |
 | Jimmy's Agony | 266777 | [266777-jimmys-agony.json](./266777-jimmys-agony.json) |
 | Jimmy's Lost Fruits Journey 2: Veggocalypse | 265695 | [265695-jimmys-lost-fruits-journey-2-veggocalypse.json](./265695-jimmys-lost-fruits-journey-2-veggocalypse.json) |
