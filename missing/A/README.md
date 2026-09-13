@@ -291,7 +291,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
-| Actionloop Twist | 23044 | [23044-actionloop-twist.json](./23044-actionloop-twist.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
 | Active Arcade | 382223 | [382223-active-arcade.json](./382223-active-arcade.json) |
 | Active Color | 241354 | [241354-active-color.json](./241354-active-color.json) |
@@ -1361,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone In a Dream | 156665 | [156665-alone-in-a-dream.json](./156665-alone-in-a-dream.json) |
 | Alone In Hell | 217852 | [217852-alone-in-hell.json](./217852-alone-in-hell.json) |
 | Alone in the Dark | 287174 | [287174-alone-in-the-dark.json](./287174-alone-in-the-dark.json) |
+| Alone in the Dark | 300074 | [300074-alone-in-the-dark.json](./300074-alone-in-the-dark.json) |
 | Alone in the Dark 2 | 340383 | [340383-alone-in-the-dark-2.json](./340383-alone-in-the-dark-2.json) |
 | Alone in the Dark: The New Nightmare | 266501 | [266501-alone-in-the-dark-the-new-nightmare.json](./266501-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
