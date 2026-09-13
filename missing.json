@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T00:18:45.011Z",
-  "total_missing": 63922,
+  "generated_at": "2026-09-13T00:21:29.305Z",
+  "total_missing": 63921,
   "games": [
     {
       "igdb_id": 306086,
@@ -3261,11 +3261,6 @@
       "igdb_id": 209660,
       "game_name": "Acassia",
       "file": "missing/A/209660-acassia.json"
-    },
-    {
-      "igdb_id": 44598,
-      "game_name": "Accel World: Awakening of the Silver Wings",
-      "file": "missing/A/44598-accel-world-awakening-of-the-silver-wings.json"
     },
     {
       "igdb_id": 38353,
