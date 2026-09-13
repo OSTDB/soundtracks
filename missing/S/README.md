@@ -575,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scab | 402285 | [402285-scab.json](./402285-scab.json) |
 | Scale | 9042 | [9042-scale.json](./9042-scale.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
+| Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
 | Screamboat Willie | 291464 | [291464-screamboat-willie.json](./291464-screamboat-willie.json) |
 | ScreamCap | 190723 | [190723-screamcap.json](./190723-screamcap.json) |
+| Screamer Rally | 7142 | [7142-screamer-rally.json](./7142-screamer-rally.json) |
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
@@ -1603,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Sharin no Kuni, Yuukyuu no Shounenshoujo | 79858 | [79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json](./79858-sharin-no-kuni-yuukyuu-no-shounenshoujo.json) |
+| Sharin no Kuni: The Girl Among the Sunflowers | 7185 | [7185-sharin-no-kuni-the-girl-among-the-sunflowers.json](./7185-sharin-no-kuni-the-girl-among-the-sunflowers.json) |
 | Sharing Lights | 192902 | [192902-sharing-lights.json](./192902-sharing-lights.json) |
 | Sharique | 112267 | [112267-sharique.json](./112267-sharique.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
@@ -4060,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park Rally | 1259 | [1259-south-park-rally.json](./1259-south-park-rally.json) |
 | South Park: Snow Day! | 261145 | [261145-south-park-snow-day.json](./261145-south-park-snow-day.json) |
 | South Park: The Fractured but Whole - Collector's Edition | 11003 | [11003-south-park-the-fractured-but-whole-collectors-edition.json](./11003-south-park-the-fractured-but-whole-collectors-edition.json) |
+| South Park: The Fractured but Whole - Remote Control Coon Mobile Bundle | 7394 | [7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json](./7394-south-park-the-fractured-but-whole-remote-control-coon-mobile-bundle.json) |
 | South Pole Bebop | 298875 | [298875-south-pole-bebop.json](./298875-south-pole-bebop.json) |
 | South Scrimshaw, Part One | 183581 | [183581-south-scrimshaw-part-one.json](./183581-south-scrimshaw-part-one.json) |
 | South Surfers Park | 96716 | [96716-south-surfers-park.json](./96716-south-surfers-park.json) |
@@ -7587,6 +7591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords of Time | 166761 | [166761-swords-of-time.json](./166761-swords-of-time.json) |
 | Swords with spice | 108437 | [108437-swords-with-spice.json](./108437-swords-with-spice.json) |
 | Swordshot | 132755 | [132755-swordshot.json](./132755-swordshot.json) |
+| Swordsman | 7417 | [7417-swordsman.json](./7417-swordsman.json) |
 | Swung | 134577 | [134577-swung.json](./134577-swung.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
 | Syberia: Remastered | 344050 | [344050-syberia-remastered.json](./344050-syberia-remastered.json) |
