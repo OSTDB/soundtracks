@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
+| A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
@@ -1447,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alundra | 1175 | [1175-alundra.json](./1175-alundra.json) |
 | Alundra 2: A New Legend Begins | 1176 | [1176-alundra-2-a-new-legend-begins.json](./1176-alundra-2-a-new-legend-begins.json) |
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
+| Alwa's Awakening | 10681 | [10681-alwas-awakening.json](./10681-alwas-awakening.json) |
 | Alwa's Awakening & Cathedral | 214532 | [214532-alwas-awakening-and-cathedral.json](./214532-alwas-awakening-and-cathedral.json) |
 | Alwa's Collection | 171547 | [171547-alwas-collection.json](./171547-alwas-collection.json) |
 | Always 1-1 | 290688 | [290688-always-1-1.json](./290688-always-1-1.json) |
@@ -2986,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Dawn of Ragnarök | 185706 | [185706-assassins-creed-valhalla-dawn-of-ragnarok.json](./185706-assassins-creed-valhalla-dawn-of-ragnarok.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
 | Assassin's Creed: Brotherhood - Animus Project Update 2.0 | 405514 | [405514-assassins-creed-brotherhood-animus-project-update-2-0.json](./405514-assassins-creed-brotherhood-animus-project-update-2-0.json) |
+| Assassin's Creed: Ezio Trilogy | 22754 | [22754-assassins-creed-ezio-trilogy.json](./22754-assassins-creed-ezio-trilogy.json) |
 | Assassin's Creed: Freedom Cry | 3775 | [3775-assassins-creed-freedom-cry.json](./3775-assassins-creed-freedom-cry.json) |
 | Assassin's Creed: Liberation HD | 20864 | [20864-assassins-creed-liberation-hd.json](./20864-assassins-creed-liberation-hd.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
