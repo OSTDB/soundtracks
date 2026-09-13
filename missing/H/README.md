@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatchpunk | 143729 | [143729-hatchpunk.json](./143729-hatchpunk.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
+| Hatris | 40063 | [40063-hatris.json](./40063-hatris.json) |
 | Hats Are Not Allowed | 159892 | [159892-hats-are-not-allowed.json](./159892-hats-are-not-allowed.json) |
 | Hatsujou Sprinkle | 107270 | [107270-hatsujou-sprinkle.json](./107270-hatsujou-sprinkle.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
@@ -1857,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Pinball | 49862 | [49862-hollywood-pinball.json](./49862-hollywood-pinball.json) |
 | Hollywood Squares | 48056 | [48056-hollywood-squares.json](./48056-hollywood-squares.json) |
 | Hollywood Tycoon | 67958 | [67958-hollywood-tycoon.json](./67958-hollywood-tycoon.json) |
+| Hollywood Visionary | 35401 | [35401-hollywood-visionary.json](./35401-hollywood-visionary.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Holo8 | 331327 | [331327-holo8.json](./331327-holo8.json) |
 | Holobunnies: The Bittersweet Adventure | 28897 | [28897-holobunnies-the-bittersweet-adventure.json](./28897-holobunnies-the-bittersweet-adventure.json) |
