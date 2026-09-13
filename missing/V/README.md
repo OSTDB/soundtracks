@@ -88,10 +88,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valfaris: Signature Edition | 210634 | [210634-valfaris-signature-edition.json](./210634-valfaris-signature-edition.json) |
 | Valgrave: Immortal Plains | 122395 | [122395-valgrave-immortal-plains.json](./122395-valgrave-immortal-plains.json) |
 | Valhalla | 23053 | [23053-valhalla.json](./23053-valhalla.json) |
+| Valhalla & the Fortress of Eve | 12810 | [12810-valhalla-and-the-fortress-of-eve.json](./12810-valhalla-and-the-fortress-of-eve.json) |
+| Valhalla and the Lord of Infinity | 12811 | [12811-valhalla-and-the-lord-of-infinity.json](./12811-valhalla-and-the-lord-of-infinity.json) |
 | Valhalla Chronicles | 64388 | [64388-valhalla-chronicles.json](./64388-valhalla-chronicles.json) |
 | Valhalla Hills: Sand of the Damned | 171639 | [171639-valhalla-hills-sand-of-the-damned.json](./171639-valhalla-hills-sand-of-the-damned.json) |
 | Valhalla Mountain | 328465 | [328465-valhalla-mountain.json](./328465-valhalla-mountain.json) |
 | Valhalla: Awakening of Valkyrie | 214200 | [214200-valhalla-awakening-of-valkyrie.json](./214200-valhalla-awakening-of-valkyrie.json) |
+| Valhalla: Before the War | 12809 | [12809-valhalla-before-the-war.json](./12809-valhalla-before-the-war.json) |
 | Valhyre: The Aftermath | 67293 | [67293-valhyre-the-aftermath.json](./67293-valhyre-the-aftermath.json) |
 | Vali Victorian | 150618 | [150618-vali-victorian.json](./150618-vali-victorian.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
@@ -508,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
 | Vind | 115721 | [115721-vind.json](./115721-vind.json) |
 | Vindefiant | 296366 | [296366-vindefiant.json](./296366-vindefiant.json) |
+| Vindicators | 12871 | [12871-vindicators.json](./12871-vindicators.json) |
 | Vindicta Arcade | 88229 | [88229-vindicta-arcade.json](./88229-vindicta-arcade.json) |
 | Vindictive Drive | 31913 | [31913-vindictive-drive.json](./31913-vindictive-drive.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
@@ -528,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
 | Viorate no Atelier: Gramnad no Renkinjutsushi 2 | 26515 | [26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json](./26515-viorate-no-atelier-gramnad-no-renkinjutsushi-2.json) |
 | Vip Em Up - The action movies stars beat em up Ep.0 ( beta ) | 114348 | [114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json](./114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json) |
+| Viper | 12901 | [12901-viper.json](./12901-viper.json) |
 | ViperTen16 | 313497 | [313497-viperten16.json](./313497-viperten16.json) |
 | Viquim | 341886 | [341886-viquim.json](./341886-viquim.json) |
 | Viral Firar | 166698 | [166698-viral-firar.json](./166698-viral-firar.json) |
@@ -604,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
 | Virtually Board Snowboarding 2 | 202947 | [202947-virtually-board-snowboarding-2.json](./202947-virtually-board-snowboarding-2.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
+| Virus | 12812 | [12812-virus.json](./12812-virus.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
