@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Formula One | 314865 | [314865-grand-prix-formula-one.json](./314865-grand-prix-formula-one.json) |
 | Grand Prix Manager | 78019 | [78019-grand-prix-manager.json](./78019-grand-prix-manager.json) |
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
+| Grand Slam Tennis 2 | 7002 | [7002-grand-slam-tennis-2.json](./7002-grand-slam-tennis-2.json) |
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
 | Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
