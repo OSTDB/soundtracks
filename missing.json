@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T18:51:38.068Z",
-  "total_missing": 66817,
+  "generated_at": "2026-09-13T19:01:36.138Z",
+  "total_missing": 66820,
   "games": [
     {
       "igdb_id": 306086,
@@ -3851,11 +3851,6 @@
       "igdb_id": 292305,
       "game_name": "Add Astra",
       "file": "missing/A/292305-add-astra.json"
-    },
-    {
-      "igdb_id": 130853,
-      "game_name": "Add It!",
-      "file": "missing/A/130853-add-it.json"
     },
     {
       "igdb_id": 69860,
@@ -35396,6 +35391,11 @@
       "igdb_id": 102727,
       "game_name": "Bouncing Church",
       "file": "missing/B/102727-bouncing-church.json"
+    },
+    {
+      "igdb_id": 55728,
+      "game_name": "Bouncing Duck Simulator",
+      "file": "missing/B/55728-bouncing-duck-simulator.json"
     },
     {
       "igdb_id": 106406,
@@ -164808,6 +164808,11 @@
       "file": "missing/M/49966-mary-kate-and-ashley-winners-circle.json"
     },
     {
+      "igdb_id": 55408,
+      "game_name": "MarZ: Tactical Base Defense",
+      "file": "missing/M/55408-marz-tactical-base-defense.json"
+    },
+    {
       "igdb_id": 394891,
       "game_name": "Mascar",
       "file": "missing/M/394891-mascar.json"
@@ -191293,6 +191298,11 @@
       "file": "missing/N/327807-null-state.json"
     },
     {
+      "igdb_id": 55710,
+      "game_name": "Null Vector",
+      "file": "missing/N/55710-null-vector.json"
+    },
+    {
       "igdb_id": 358844,
       "game_name": "Null.Process",
       "file": "missing/N/358844-null-process.json"
@@ -212896,6 +212906,11 @@
       "igdb_id": 167217,
       "game_name": "Prison Ball: Full Blown - Vast Shadows",
       "file": "missing/P/167217-prison-ball-full-blown-vast-shadows.json"
+    },
+    {
+      "igdb_id": 55474,
+      "game_name": "Prison Boss VR",
+      "file": "missing/P/55474-prison-boss-vr.json"
     },
     {
       "igdb_id": 75170,
