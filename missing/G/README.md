@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
 | Gotcha | 250633 | [250633-gotcha.json](./250633-gotcha.json) |
 | Gotcha | 7427 | [7427-gotcha.json](./7427-gotcha.json) |
+| Gotcha Force | 3936 | [3936-gotcha-force.json](./3936-gotcha-force.json) |
 | Gotcha Number for Playdate | 276716 | [276716-gotcha-number-for-playdate.json](./276716-gotcha-number-for-playdate.json) |
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
@@ -1794,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
 | Green Inferno | 410929 | [410929-green-inferno.json](./410929-green-inferno.json) |
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
+| Green Lantern: Rise of the Manhunters | 4896 | [4896-green-lantern-rise-of-the-manhunters.json](./4896-green-lantern-rise-of-the-manhunters.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Project | 133419 | [133419-green-project.json](./133419-green-project.json) |
 | Green Run | 107197 | [107197-green-run.json](./107197-green-run.json) |
