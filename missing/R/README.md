@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakshasa | 318411 | [318411-rakshasa.json](./318411-rakshasa.json) |
 | Rakuen | 28544 | [28544-rakuen.json](./28544-rakuen.json) |
 | Rally | 197381 | [197381-rally.json](./197381-rally.json) |
+| Rally Arcade Classics | 319408 | [319408-rally-arcade-classics.json](./319408-rally-arcade-classics.json) |
 | Rally Bike | 39568 | [39568-rally-bike.json](./39568-rally-bike.json) |
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally de Africa | 138176 | [138176-rally-de-africa.json](./138176-rally-de-africa.json) |
@@ -977,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Guilds | 112329 | [112329-reign-of-guilds.json](./112329-reign-of-guilds.json) |
 | Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
+| Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
 | Reignman | 99033 | [99033-reignman.json](./99033-reignman.json) |
 | Reigns: Game of Thrones | 107237 | [107237-reigns-game-of-thrones.json](./107237-reigns-game-of-thrones.json) |
 | Reijou Tantei: Office Love Jikenbo | 203342 | [203342-reijou-tantei-office-love-jikenbo.json](./203342-reijou-tantei-office-love-jikenbo.json) |
@@ -1785,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
 | Riverboat Casino | 209164 | [209164-riverboat-casino.json](./209164-riverboat-casino.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
+| RKGK | 296838 | [296838-rkgk.json](./296838-rkgk.json) |
 | RKR: Rush Kill Repeat | 217495 | [217495-rkr-rush-kill-repeat.json](./217495-rkr-rush-kill-repeat.json) |
 | Rktcr | 35863 | [35863-rktcr.json](./35863-rktcr.json) |
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
@@ -2107,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
+| Rogue Flight | 318086 | [318086-rogue-flight.json](./318086-rogue-flight.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
 | Rogue Hearts Dungeon | 43269 | [43269-rogue-hearts-dungeon.json](./43269-rogue-hearts-dungeon.json) |
