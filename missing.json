@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T01:41:28.992Z",
-  "total_missing": 64129,
+  "generated_at": "2026-09-13T01:48:12.174Z",
+  "total_missing": 64179,
   "games": [
     {
       "igdb_id": 306086,
@@ -65663,6 +65663,11 @@
       "file": "missing/D/301576-demons-island.json"
     },
     {
+      "igdb_id": 13587,
+      "game_name": "Demon's Revenge",
+      "file": "missing/D/13587-demons-revenge.json"
+    },
+    {
       "igdb_id": 104107,
       "game_name": "Demon's Rise 2: Lords of Chaos",
       "file": "missing/D/104107-demons-rise-2-lords-of-chaos.json"
@@ -65761,6 +65766,11 @@
       "igdb_id": 73841,
       "game_name": "Demonworld: Dark Armies",
       "file": "missing/D/73841-demonworld-dark-armies.json"
+    },
+    {
+      "igdb_id": 13588,
+      "game_name": "Dempsey and Makepeace",
+      "file": "missing/D/13588-dempsey-and-makepeace.json"
     },
     {
       "igdb_id": 303471,
@@ -66203,6 +66213,11 @@
       "file": "missing/D/258698-deru.json"
     },
     {
+      "igdb_id": 13589,
+      "game_name": "Dervish",
+      "file": "missing/D/13589-dervish.json"
+    },
+    {
       "igdb_id": 264044,
       "game_name": "Descend",
       "file": "missing/D/264044-descend.json"
@@ -66538,6 +66553,11 @@
       "file": "missing/D/121707-desperabis.json"
     },
     {
+      "igdb_id": 13590,
+      "game_name": "Desperado 2",
+      "file": "missing/D/13590-desperado-2.json"
+    },
+    {
       "igdb_id": 82050,
       "game_name": "Desperate game",
       "file": "missing/D/82050-desperate-game.json"
@@ -66571,6 +66591,11 @@
       "igdb_id": 219052,
       "game_name": "Despot's Game: Collector's Edition",
       "file": "missing/D/219052-despots-game-collectors-edition.json"
+    },
+    {
+      "igdb_id": 13591,
+      "game_name": "Despotik Design",
+      "file": "missing/D/13591-despotik-design.json"
     },
     {
       "igdb_id": 207505,
@@ -67218,6 +67243,11 @@
       "file": "missing/D/26681-devils-affliction.json"
     },
     {
+      "igdb_id": 13592,
+      "game_name": "Devil's Crown",
+      "file": "missing/D/13592-devils-crown.json"
+    },
+    {
       "igdb_id": 8798,
       "game_name": "Devil's Dare",
       "file": "missing/D/8798-devils-dare.json"
@@ -67756,6 +67786,11 @@
       "igdb_id": 295249,
       "game_name": "Didnapper",
       "file": "missing/D/295249-didnapper.json"
+    },
+    {
+      "igdb_id": 13593,
+      "game_name": "Die Alien Slime",
+      "file": "missing/D/13593-die-alien-slime.json"
     },
     {
       "igdb_id": 82035,
@@ -69963,6 +69998,11 @@
       "file": "missing/D/181375-dizziness.json"
     },
     {
+      "igdb_id": 13594,
+      "game_name": "Dizzy Dice",
+      "file": "missing/D/13594-dizzy-dice.json"
+    },
+    {
       "igdb_id": 48672,
       "game_name": "Dizzy the Adventurer",
       "file": "missing/D/48672-dizzy-the-adventurer.json"
@@ -69996,6 +70036,11 @@
       "igdb_id": 68028,
       "game_name": "DJ Mix Tour",
       "file": "missing/D/68028-dj-mix-tour.json"
+    },
+    {
+      "igdb_id": 13596,
+      "game_name": "DJ Puff",
+      "file": "missing/D/13596-dj-puff.json"
     },
     {
       "igdb_id": 47215,
@@ -70298,6 +70343,11 @@
       "file": "missing/D/111708-doctor-tsunami.json"
     },
     {
+      "igdb_id": 13597,
+      "game_name": "Doctor Who and the Mines of Terror",
+      "file": "missing/D/13597-doctor-who-and-the-mines-of-terror.json"
+    },
+    {
       "igdb_id": 66675,
       "game_name": "Doctor Who and the Warlord",
       "file": "missing/D/66675-doctor-who-and-the-warlord.json"
@@ -70446,6 +70496,11 @@
       "igdb_id": 295796,
       "game_name": "Dodgy Deliveries",
       "file": "missing/D/295796-dodgy-deliveries.json"
+    },
+    {
+      "igdb_id": 13598,
+      "game_name": "Dodgy Geezers",
+      "file": "missing/D/13598-dodgy-geezers.json"
     },
     {
       "igdb_id": 133988,
@@ -70653,6 +70708,11 @@
       "file": "missing/D/62678-doge-jump.json"
     },
     {
+      "igdb_id": 13599,
+      "game_name": "Dogfight 2187",
+      "file": "missing/D/13599-dogfight-2187.json"
+    },
+    {
       "igdb_id": 65464,
       "game_name": "Dogfight: Battle in the Skies",
       "file": "missing/D/65464-dogfight-battle-in-the-skies.json"
@@ -70751,6 +70811,11 @@
       "igdb_id": 180814,
       "game_name": "Dogs++",
       "file": "missing/D/180814-dogs.json"
+    },
+    {
+      "igdb_id": 13600,
+      "game_name": "Dogsbody",
+      "file": "missing/D/13600-dogsbody.json"
     },
     {
       "igdb_id": 59441,
@@ -71143,6 +71208,11 @@
       "file": "missing/D/232981-domination-war-of-nations.json"
     },
     {
+      "igdb_id": 13601,
+      "game_name": "Dominator",
+      "file": "missing/D/13601-dominator.json"
+    },
+    {
       "igdb_id": 211962,
       "game_name": "Dominay",
       "file": "missing/D/211962-dominay.json"
@@ -71246,6 +71316,11 @@
       "igdb_id": 234640,
       "game_name": "Don Duality",
       "file": "missing/D/234640-don-duality.json"
+    },
+    {
+      "igdb_id": 13602,
+      "game_name": "Don Juan",
+      "file": "missing/D/13602-don-juan.json"
     },
     {
       "igdb_id": 388704,
@@ -71456,6 +71531,11 @@
       "igdb_id": 336524,
       "game_name": "Don't Open This Book",
       "file": "missing/D/336524-dont-open-this-book.json"
+    },
+    {
+      "igdb_id": 13603,
+      "game_name": "Don't Panic",
+      "file": "missing/D/13603-dont-panic.json"
     },
     {
       "igdb_id": 389988,
@@ -72173,6 +72253,11 @@
       "file": "missing/D/372451-doomriderz.json"
     },
     {
+      "igdb_id": 13604,
+      "game_name": "Doomsday Blues",
+      "file": "missing/D/13604-doomsday-blues.json"
+    },
+    {
       "igdb_id": 320542,
       "game_name": "Doomsday Cleaner",
       "file": "missing/D/320542-doomsday-cleaner.json"
@@ -72278,6 +72363,11 @@
       "file": "missing/D/415070-doors-closed.json"
     },
     {
+      "igdb_id": 13605,
+      "game_name": "Doors of Doom",
+      "file": "missing/D/13605-doors-of-doom.json"
+    },
+    {
       "igdb_id": 101593,
       "game_name": "Doors Quest Demo",
       "file": "missing/D/101593-doors-quest-demo.json"
@@ -72326,6 +72416,11 @@
       "igdb_id": 352746,
       "game_name": "DoppelTest",
       "file": "missing/D/352746-doppeltest.json"
+    },
+    {
+      "igdb_id": 13606,
+      "game_name": "Doppleganger",
+      "file": "missing/D/13606-doppleganger.json"
     },
     {
       "igdb_id": 222315,
@@ -72946,6 +73041,11 @@
       "igdb_id": 161333,
       "game_name": "Dps Idle",
       "file": "missing/D/161333-dps-idle.json"
+    },
+    {
+      "igdb_id": 13607,
+      "game_name": "Dr Scrime's Spook School",
+      "file": "missing/D/13607-dr-scrimes-spook-school.json"
     },
     {
       "igdb_id": 229346,
@@ -74208,6 +74308,11 @@
       "file": "missing/D/16300-dragons-dogma-dark-arisen.json"
     },
     {
+      "igdb_id": 13609,
+      "game_name": "Dragon's Gold",
+      "file": "missing/D/13609-dragons-gold.json"
+    },
+    {
       "igdb_id": 264306,
       "game_name": "Dragon's Heaven",
       "file": "missing/D/264306-dragons-heaven.json"
@@ -74383,6 +74488,11 @@
       "file": "missing/D/184636-dragonswings.json"
     },
     {
+      "igdb_id": 13610,
+      "game_name": "Dragontorc",
+      "file": "missing/D/13610-dragontorc.json"
+    },
+    {
       "igdb_id": 67259,
       "game_name": "Dragoon Armor for Adult",
       "file": "missing/D/67259-dragoon-armor-for-adult.json"
@@ -74451,6 +74561,11 @@
       "igdb_id": 279389,
       "game_name": "Drakheir",
       "file": "missing/D/279389-drakheir.json"
+    },
+    {
+      "igdb_id": 13611,
+      "game_name": "Drakkar",
+      "file": "missing/D/13611-drakkar.json"
     },
     {
       "igdb_id": 107886,
@@ -75021,6 +75136,11 @@
       "igdb_id": 30784,
       "game_name": "Dream Univrse",
       "file": "missing/D/30784-dream-univrse.json"
+    },
+    {
+      "igdb_id": 13612,
+      "game_name": "Dream Warrior",
+      "file": "missing/D/13612-dream-warrior.json"
     },
     {
       "igdb_id": 307899,
@@ -77823,6 +77943,11 @@
       "file": "missing/D/322598-dustbunny-emotions-to-plants.json"
     },
     {
+      "igdb_id": 13614,
+      "game_name": "Dustin",
+      "file": "missing/D/13614-dustin.json"
+    },
+    {
       "igdb_id": 295809,
       "game_name": "Dustino 64",
       "file": "missing/D/295809-dustino-64.json"
@@ -78058,9 +78183,19 @@
       "file": "missing/D/142445-dynamic-chord-feat-liar-s.json"
     },
     {
+      "igdb_id": 13615,
+      "game_name": "Dynamic Duo",
+      "file": "missing/D/13615-dynamic-duo.json"
+    },
+    {
       "igdb_id": 94260,
       "game_name": "Dynamite",
       "file": "missing/D/94260-dynamite.json"
+    },
+    {
+      "igdb_id": 13617,
+      "game_name": "Dynamite Dan II",
+      "file": "missing/D/13617-dynamite-dan-ii.json"
     },
     {
       "igdb_id": 376464,
@@ -78186,6 +78321,11 @@
       "igdb_id": 303507,
       "game_name": "E-commerce Simulator",
       "file": "missing/E/303507-e-commerce-simulator.json"
+    },
+    {
+      "igdb_id": 13639,
+      "game_name": "E-Motion",
+      "file": "missing/E/13639-e-motion.json"
     },
     {
       "igdb_id": 355538,
@@ -78333,6 +78473,11 @@
       "file": "missing/E/297457-ea-sports-ufc-5-mike-tyson.json"
     },
     {
+      "igdb_id": 13626,
+      "game_name": "Eagle",
+      "file": "missing/E/13626-eagle.json"
+    },
+    {
       "igdb_id": 20583,
       "game_name": "Eagle Eye Golf",
       "file": "missing/E/20583-eagle-eye-golf.json"
@@ -78371,6 +78516,11 @@
       "igdb_id": 333383,
       "game_name": "Eagle: Special Forces",
       "file": "missing/E/333383-eagle-special-forces.json"
+    },
+    {
+      "igdb_id": 13627,
+      "game_name": "Eagle's Rider",
+      "file": "missing/E/13627-eagles-rider.json"
     },
     {
       "igdb_id": 90600,
@@ -79943,6 +80093,11 @@
       "file": "missing/E/79918-el-chavo.json"
     },
     {
+      "igdb_id": 13629,
+      "game_name": "El Cid",
+      "file": "missing/E/13629-el-cid.json"
+    },
+    {
       "igdb_id": 353884,
       "game_name": "El Coco",
       "file": "missing/E/353884-el-coco.json"
@@ -80198,6 +80353,11 @@
       "file": "missing/E/331720-elect.json"
     },
     {
+      "igdb_id": 13630,
+      "game_name": "Election",
+      "file": "missing/E/13630-election.json"
+    },
+    {
       "igdb_id": 78007,
       "game_name": "Electric Crayon Deluxe: Teenage Mutant Hero Turtles - World Tour",
       "file": "missing/E/78007-electric-crayon-deluxe-teenage-mutant-hero-turtles-world-tour.json"
@@ -80231,6 +80391,11 @@
       "igdb_id": 329580,
       "game_name": "Electro Bop Boxing League",
       "file": "missing/E/329580-electro-bop-boxing-league.json"
+    },
+    {
+      "igdb_id": 13631,
+      "game_name": "Electro Freddy",
+      "file": "missing/E/13631-electro-freddy.json"
     },
     {
       "igdb_id": 324679,
@@ -80271,6 +80436,11 @@
       "igdb_id": 315490,
       "game_name": "Elegy for Them Vigil",
       "file": "missing/E/315490-elegy-for-them-vigil.json"
+    },
+    {
+      "igdb_id": 13632,
+      "game_name": "ElektraGlide",
+      "file": "missing/E/13632-elektraglide.json"
     },
     {
       "igdb_id": 207525,
@@ -80593,6 +80763,11 @@
       "file": "missing/E/93501-elfsquad7.json"
     },
     {
+      "igdb_id": 13633,
+      "game_name": "Elidon",
+      "file": "missing/E/13633-elidon.json"
+    },
+    {
       "igdb_id": 220840,
       "game_name": "Elimination Games",
       "file": "missing/E/220840-elimination-games.json"
@@ -80858,6 +81033,11 @@
       "file": "missing/E/239643-elven-rivers-the-forgotten-lands-collectors-edition.json"
     },
     {
+      "igdb_id": 13634,
+      "game_name": "Elven Warrior",
+      "file": "missing/E/13634-elven-warrior.json"
+    },
+    {
       "igdb_id": 229041,
       "game_name": "Elves Jigsaw Puzzle Collection",
       "file": "missing/E/229041-elves-jigsaw-puzzle-collection.json"
@@ -81043,6 +81223,11 @@
       "file": "missing/E/268776-emerald-bathhouse.json"
     },
     {
+      "igdb_id": 13635,
+      "game_name": "Emerald Isle",
+      "file": "missing/E/13635-emerald-isle.json"
+    },
+    {
       "igdb_id": 318995,
       "game_name": "Emerald Isle",
       "file": "missing/E/318995-emerald-isle.json"
@@ -81181,6 +81366,11 @@
       "igdb_id": 304585,
       "game_name": "Emlis",
       "file": "missing/E/304585-emlis.json"
+    },
+    {
+      "igdb_id": 13636,
+      "game_name": "Emlyn Hughes Arcade Quiz",
+      "file": "missing/E/13636-emlyn-hughes-arcade-quiz.json"
     },
     {
       "igdb_id": 213017,
@@ -81368,6 +81558,11 @@
       "file": "missing/E/82087-empire-total-war-special-forces-units-and-bonus-content.json"
     },
     {
+      "igdb_id": 13640,
+      "game_name": "Empire!",
+      "file": "missing/E/13640-empire.json"
+    },
+    {
       "igdb_id": 60553,
       "game_name": "Empires & Allies",
       "file": "missing/E/60553-empires-and-allies.json"
@@ -81516,6 +81711,11 @@
       "igdb_id": 356657,
       "game_name": "Enchantasy: The Quest for the Eternal Grimoire",
       "file": "missing/E/356657-enchantasy-the-quest-for-the-eternal-grimoire.json"
+    },
+    {
+      "igdb_id": 13641,
+      "game_name": "Enchanted",
+      "file": "missing/E/13641-enchanted.json"
     },
     {
       "igdb_id": 68031,
@@ -82038,6 +82238,11 @@
       "file": "missing/E/301272-endura.json"
     },
     {
+      "igdb_id": 13642,
+      "game_name": "Endurance",
+      "file": "missing/E/13642-endurance.json"
+    },
+    {
       "igdb_id": 204680,
       "game_name": "Endurance",
       "file": "missing/E/204680-endurance.json"
@@ -82061,6 +82266,11 @@
       "igdb_id": 288223,
       "game_name": "Endure or Perish",
       "file": "missing/E/288223-endure-or-perish.json"
+    },
+    {
+      "igdb_id": 13643,
+      "game_name": "Endzone",
+      "file": "missing/E/13643-endzone.json"
     },
     {
       "igdb_id": 218504,
@@ -82851,6 +83061,11 @@
       "igdb_id": 100180,
       "game_name": "Equinox",
       "file": "missing/E/100180-equinox.json"
+    },
+    {
+      "igdb_id": 13644,
+      "game_name": "Equinox",
+      "file": "missing/E/13644-equinox.json"
     },
     {
       "igdb_id": 197403,
@@ -83858,6 +84073,16 @@
       "file": "missing/E/23932-espial.json"
     },
     {
+      "igdb_id": 13646,
+      "game_name": "Espionage",
+      "file": "missing/E/13646-espionage.json"
+    },
+    {
+      "igdb_id": 13645,
+      "game_name": "Espionage Island",
+      "file": "missing/E/13645-espionage-island.json"
+    },
+    {
       "igdb_id": 305520,
       "game_name": "Espire 1: Sydney Sneakabouts Mission Pack",
       "file": "missing/E/305520-espire-1-sydney-sneakabouts-mission-pack.json"
@@ -84653,6 +84878,11 @@
       "file": "missing/E/408772-even-lovers-drown.json"
     },
     {
+      "igdb_id": 13647,
+      "game_name": "Evening Star",
+      "file": "missing/E/13647-evening-star.json"
+    },
+    {
       "igdb_id": 217020,
       "game_name": "Evening Vibes",
       "file": "missing/E/217020-evening-vibes.json"
@@ -84948,6 +85178,11 @@
       "file": "missing/E/302954-every-hue-of-you.json"
     },
     {
+      "igdb_id": 13648,
+      "game_name": "Every Second Counts",
+      "file": "missing/E/13648-every-second-counts.json"
+    },
+    {
       "igdb_id": 387366,
       "game_name": "Every Wednesday",
       "file": "missing/E/387366-every-wednesday.json"
@@ -84996,6 +85231,11 @@
       "igdb_id": 45293,
       "game_name": "Everyone Sing",
       "file": "missing/E/45293-everyone-sing.json"
+    },
+    {
+      "igdb_id": 13649,
+      "game_name": "Everyone's a Wally",
+      "file": "missing/E/13649-everyones-a-wally.json"
     },
     {
       "igdb_id": 82772,
@@ -229538,6 +229778,11 @@
       "file": "missing/S/379867-ser-jorryn.json"
     },
     {
+      "igdb_id": 13638,
+      "game_name": "Seraph of the End: The Origin of Fate",
+      "file": "missing/S/13638-seraph-of-the-end-the-origin-of-fate.json"
+    },
+    {
       "igdb_id": 163419,
       "game_name": "Seraphic Destroyer: Puzzles",
       "file": "missing/S/163419-seraphic-destroyer-puzzles.json"
@@ -313676,6 +313921,11 @@
       "igdb_id": 136995,
       "game_name": "World of Warcraft: The Burning Crusade - Collector's Edition",
       "file": "missing/W/136995-world-of-warcraft-the-burning-crusade-collectors-edition.json"
+    },
+    {
+      "igdb_id": 13622,
+      "game_name": "World of Warcraft: Warlords of Draenor - Collector's Edition",
+      "file": "missing/W/13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json"
     },
     {
       "igdb_id": 3432,
