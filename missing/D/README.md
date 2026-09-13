@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Nekketsu Monogatari 2 | 66084 | [66084-downtown-nekketsu-monogatari-2.json](./66084-downtown-nekketsu-monogatari-2.json) |
 | Downtown River City Baseball Story: Play Ball, Kunio! | 38277 | [38277-downtown-river-city-baseball-story-play-ball-kunio.json](./38277-downtown-river-city-baseball-story-play-ball-kunio.json) |
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
+| Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
 | Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
