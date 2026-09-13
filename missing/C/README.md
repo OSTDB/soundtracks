@@ -950,6 +950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman hits Giraffe in a Car | 333397 | [333397-caveman-hits-giraffe-in-a-car.json](./333397-caveman-hits-giraffe-in-a-car.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
+| Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
@@ -963,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caverns of Toros | 226750 | [226750-caverns-of-toros.json](./226750-caverns-of-toros.json) |
 | Caverns of Xaskazien II | 217871 | [217871-caverns-of-xaskazien-ii.json](./217871-caverns-of-xaskazien-ii.json) |
+| Caverns of Zoarre | 2874 | [2874-caverns-of-zoarre.json](./2874-caverns-of-zoarre.json) |
 | Caves of Lore | 232976 | [232976-caves-of-lore.json](./232976-caves-of-lore.json) |
 | Caves of Qud | 24054 | [24054-caves-of-qud.json](./24054-caves-of-qud.json) |
 | Caves of Qud: Pets of Harvest Dawn | 389407 | [389407-caves-of-qud-pets-of-harvest-dawn.json](./389407-caves-of-qud-pets-of-harvest-dawn.json) |
@@ -3037,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
 | Counterclocking | 245849 | [245849-counterclocking.json](./245849-counterclocking.json) |
+| Counterfeit Monkey | 2944 | [2944-counterfeit-monkey.json](./2944-counterfeit-monkey.json) |
 | Counterglass | 276729 | [276729-counterglass.json](./276729-counterglass.json) |
 | Counterhero: Chapter 1 | 178002 | [178002-counterhero-chapter-1.json](./178002-counterhero-chapter-1.json) |
 | Counterpact | 221155 | [221155-counterpact.json](./221155-counterpact.json) |
