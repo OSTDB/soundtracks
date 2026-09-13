@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Knots: Garden Wedding | 170554 | [170554-mary-knots-garden-wedding.json](./170554-mary-knots-garden-wedding.json) |
 | Mary Shelley's Frankenstein | 257663 | [257663-mary-shelleys-frankenstein.json](./257663-mary-shelleys-frankenstein.json) |
 | Mary Shelley's Frankenstein / Bram Stoker's Dracula | 257664 | [257664-mary-shelleys-frankenstein-bram-stokers-dracula.json](./257664-mary-shelleys-frankenstein-bram-stokers-dracula.json) |
+| Mary Skelter 2 | 89548 | [89548-mary-skelter-2.json](./89548-mary-skelter-2.json) |
 | Mary Skelter Finale | 131974 | [131974-mary-skelter-finale.json](./131974-mary-skelter-finale.json) |
 | Mary Skelter Finale: Limited Edition | 166179 | [166179-mary-skelter-finale-limited-edition.json](./166179-mary-skelter-finale-limited-edition.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
@@ -2620,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 307595 | [307595-minesweeper.json](./307595-minesweeper.json) |
 | Minesweeper | 327606 | [327606-minesweeper.json](./327606-minesweeper.json) |
 | Minesweeper | 413617 | [413617-minesweeper.json](./413617-minesweeper.json) |
+| Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
 | Minesweeper Challenge | 96705 | [96705-minesweeper-challenge.json](./96705-minesweeper-challenge.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
 | Minesweeper Infinite | 291454 | [291454-minesweeper-infinite.json](./291454-minesweeper-infinite.json) |
@@ -3321,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
 | Monster Grid | 341331 | [341331-monster-grid.json](./341331-monster-grid.json) |
 | Monster Heart | 229929 | [229929-monster-heart.json](./229929-monster-heart.json) |
+| Monster High: Beauty Shop | 89146 | [89146-monster-high-beauty-shop.json](./89146-monster-high-beauty-shop.json) |
 | Monster High: New Ghoul in School | 19318 | [19318-monster-high-new-ghoul-in-school.json](./19318-monster-high-new-ghoul-in-school.json) |
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
 | Monster Hunter 2 | 43668 | [43668-monster-hunter-2.json](./43668-monster-hunter-2.json) |
@@ -3999,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Holmes: The Adventure of the McKirk Ritual - Collector's Edition | 186333 | [186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json](./186333-ms-holmes-the-adventure-of-the-mckirk-ritual-collectors-edition.json) |
 | Ms. Holmes: The Monster of the Baskervilles - Collector's Edition | 119688 | [119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json](./119688-ms-holmes-the-monster-of-the-baskervilles-collectors-edition.json) |
 | Ms. Pac Person | 209155 | [209155-ms-pac-person.json](./209155-ms-pac-person.json) |
+| Ms. Pac-Man for iPad | 88813 | [88813-ms-pac-man-for-ipad.json](./88813-ms-pac-man-for-ipad.json) |
 | Ms. Pac-Man: Maze Madness | 3338 | [3338-ms-pac-man-maze-madness.json](./3338-ms-pac-man-maze-madness.json) |
 | Ms. Pac-Man: Quest for the Golden Maze | 71475 | [71475-ms-pac-man-quest-for-the-golden-maze.json](./71475-ms-pac-man-quest-for-the-golden-maze.json) |
 | Ms. Rufiia's Struggle for Repayment: To Be a Lewd Arcdaemon | 82882 | [82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json](./82882-ms-rufiias-struggle-for-repayment-to-be-a-lewd-arcdaemon.json) |
@@ -4515,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time With Dee Dee volume 0 | 347135 | [347135-my-time-with-dee-dee-volume-0.json](./347135-my-time-with-dee-dee-volume-0.json) |
 | My Town : Hotel | 104615 | [104615-my-town-hotel.json](./104615-my-town-hotel.json) |
 | My Town : Police | 105920 | [105920-my-town-police.json](./105920-my-town-police.json) |
+| My Town: Museum | 89126 | [89126-my-town-museum.json](./89126-my-town-museum.json) |
 | My Trailer Park Life | 275018 | [275018-my-trailer-park-life.json](./275018-my-trailer-park-life.json) |
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
