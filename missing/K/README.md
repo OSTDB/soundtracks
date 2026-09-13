@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Heir: Rise to the Throne | 102885 | [102885-kings-heir-rise-to-the-throne.json](./102885-kings-heir-rise-to-the-throne.json) |
 | King's Knight | 307938 | [307938-kings-knight.json](./307938-kings-knight.json) |
 | King's Knight Special | 307937 | [307937-kings-knight-special.json](./307937-kings-knight-special.json) |
+| King's Quest Collection | 27852 | [27852-kings-quest-collection.json](./27852-kings-quest-collection.json) |
 | King's Quest IV: The Perils of Rosella Retold | 230506 | [230506-kings-quest-iv-the-perils-of-rosella-retold.json](./230506-kings-quest-iv-the-perils-of-rosella-retold.json) |
 | King's Table: Hnefatafl | 379892 | [379892-kings-table-hnefatafl.json](./379892-kings-table-hnefatafl.json) |
 | King's Throne: Royal Delights | 208592 | [208592-kings-throne-royal-delights.json](./208592-kings-throne-royal-delights.json) |
