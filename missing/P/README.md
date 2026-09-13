@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
 | People's World | 284903 | [284903-peoples-world.json](./284903-peoples-world.json) |
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
+| Peppa Pig: Fun and Games | 20318 | [20318-peppa-pig-fun-and-games.json](./20318-peppa-pig-fun-and-games.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Peppa Pig: Seasons | 86879 | [86879-peppa-pig-seasons.json](./86879-peppa-pig-seasons.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
@@ -1424,6 +1425,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2: Nightmare Mansion | 354447 | [354447-pinball-fx2-nightmare-mansion.json](./354447-pinball-fx2-nightmare-mansion.json) |
 | Pinball FX2: Pinball FX Classics | 354446 | [354446-pinball-fx2-pinball-fx-classics.json](./354446-pinball-fx2-pinball-fx-classics.json) |
 | Pinball FX2: Rocky and Bullwinkle | 354448 | [354448-pinball-fx2-rocky-and-bullwinkle.json](./354448-pinball-fx2-rocky-and-bullwinkle.json) |
+| Pinball FX2: South Park | 20227 | [20227-pinball-fx2-south-park.json](./20227-pinball-fx2-south-park.json) |
+| Pinball FX2: The Walking Dead | 20230 | [20230-pinball-fx2-the-walking-dead.json](./20230-pinball-fx2-the-walking-dead.json) |
+| Pinball FX2: Venom | 20306 | [20306-pinball-fx2-venom.json](./20306-pinball-fx2-venom.json) |
 | Pinball FX3 | 41051 | [41051-pinball-fx3.json](./41051-pinball-fx3.json) |
 | Pinball FX3: Balls of Glory Pinball | 163997 | [163997-pinball-fx3-balls-of-glory-pinball.json](./163997-pinball-fx3-balls-of-glory-pinball.json) |
 | Pinball FX3: Bethesda Pinball | 164002 | [164002-pinball-fx3-bethesda-pinball.json](./164002-pinball-fx3-bethesda-pinball.json) |
