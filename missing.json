@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T16:11:31.830Z",
-  "total_missing": 66394,
+  "generated_at": "2026-09-13T16:16:43.205Z",
+  "total_missing": 66392,
   "games": [
     {
       "igdb_id": 306086,
@@ -3518,11 +3518,6 @@
       "file": "missing/A/282547-ace-combat-7-skies-unknown-ultimate-edition.json"
     },
     {
-      "igdb_id": 14754,
-      "game_name": "Ace Combat Zero: The Belkan War",
-      "file": "missing/A/14754-ace-combat-zero-the-belkan-war.json"
-    },
-    {
       "igdb_id": 121736,
       "game_name": "Ace Force",
       "file": "missing/A/121736-ace-force.json"
@@ -3706,11 +3701,6 @@
       "igdb_id": 55134,
       "game_name": "Action Doom",
       "file": "missing/A/55134-action-doom.json"
-    },
-    {
-      "igdb_id": 55135,
-      "game_name": "Action Doom 2: Urban Brawl",
-      "file": "missing/A/55135-action-doom-2-urban-brawl.json"
     },
     {
       "igdb_id": 11885,
