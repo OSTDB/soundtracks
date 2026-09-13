@@ -237,7 +237,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - FB-22 Strike Raptor Set | 282590 | [282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json](./282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
-| Ace Combat 7: Skies Unknown - Top Gun: Maverick Ultimate Edition | 205250 | [205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json](./205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json) |
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
 | Ace Combat Zero: The Belkan War | 14754 | [14754-ace-combat-zero-the-belkan-war.json](./14754-ace-combat-zero-the-belkan-war.json) |
 | Ace Defender | 177535 | [177535-ace-defender.json](./177535-ace-defender.json) |
@@ -1247,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
+| Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
 | Aliens: Colonial Marines | 1021 | [1021-aliens-colonial-marines.json](./1021-aliens-colonial-marines.json) |
 | Aliens: Fireteam Elite | 144153 | [144153-aliens-fireteam-elite.json](./144153-aliens-fireteam-elite.json) |
