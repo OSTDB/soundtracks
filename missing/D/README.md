@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
+| Darkspore | 18638 | [18638-darkspore.json](./18638-darkspore.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
 | Darkstar: The Interactive Movie | 9118 | [9118-darkstar-the-interactive-movie.json](./9118-darkstar-the-interactive-movie.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
@@ -2091,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disquieted | 397663 | [397663-disquieted.json](./397663-disquieted.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
 | Disruptive Compassion | 364496 | [364496-disruptive-compassion.json](./364496-disruptive-compassion.json) |
+| Disruptor | 20654 | [20654-disruptor.json](./20654-disruptor.json) |
 | Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
 | Dissimilated Land | 106533 | [106533-dissimilated-land.json](./106533-dissimilated-land.json) |
@@ -2915,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: The Legacy of Goku II | 19834 | [19834-dragon-ball-z-the-legacy-of-goku-ii.json](./19834-dragon-ball-z-the-legacy-of-goku-ii.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
+| Dragon Ball: Origins 2 | 20412 | [20412-dragon-ball-origins-2.json](./20412-dragon-ball-origins-2.json) |
 | Dragon Ball: Sparking! Zero - Deluxe Edition | 319398 | [319398-dragon-ball-sparking-zero-deluxe-edition.json](./319398-dragon-ball-sparking-zero-deluxe-edition.json) |
 | Dragon Ball: Sparking! Zero - Season Pass Bonus | 375181 | [375181-dragon-ball-sparking-zero-season-pass-bonus.json](./375181-dragon-ball-sparking-zero-season-pass-bonus.json) |
 | Dragon Ball: Sparking! Zero - Super Limit-Breaking NEO | 375182 | [375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json](./375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json) |
@@ -3634,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hotpot | 404814 | [404814-dungeon-hotpot.json](./404814-dungeon-hotpot.json) |
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
+| Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
 | Dungeon Keeper | 20093 | [20093-dungeon-keeper.json](./20093-dungeon-keeper.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
@@ -3833,9 +3837,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Dashers | 376464 | [376464-dynamite-dashers.json](./376464-dynamite-dashers.json) |
 | Dynamite Day | 415916 | [415916-dynamite-day.json](./415916-dynamite-day.json) |
 | Dynamite Duke | 39651 | [39651-dynamite-duke.json](./39651-dynamite-duke.json) |
+| Dynamite Düx | 12730 | [12730-dynamite-dux.json](./12730-dynamite-dux.json) |
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
 | Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
+| Dynasty Warriors 4: Empires | 19620 | [19620-dynasty-warriors-4-empires.json](./19620-dynasty-warriors-4-empires.json) |
 | Dynasty Warriors 5 | 5820 | [5820-dynasty-warriors-5.json](./5820-dynasty-warriors-5.json) |
 | Dynasty Warriors 7 | 6832 | [6832-dynasty-warriors-7.json](./6832-dynasty-warriors-7.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
