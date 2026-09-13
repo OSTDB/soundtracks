@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wigged Out | 126584 | [126584-wigged-out.json](./126584-wigged-out.json) |
 | Wiggly Boy | 139424 | [139424-wiggly-boy.json](./139424-wiggly-boy.json) |
 | Wii Chess | 5280 | [5280-wii-chess.json](./5280-wii-chess.json) |
+| Wii Karaoke U by Joysound | 3107 | [3107-wii-karaoke-u-by-joysound.json](./3107-wii-karaoke-u-by-joysound.json) |
 | Wii Sports + Wii Sports Resort | 130310 | [130310-wii-sports-wii-sports-resort.json](./130310-wii-sports-wii-sports-resort.json) |
 | Wiki Hunt | 86062 | [86062-wiki-hunt.json](./86062-wiki-hunt.json) |
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishing Well Hotel | 386107 | [386107-wishing-well-hotel.json](./386107-wishing-well-hotel.json) |
 | Wishseeker | 415089 | [415089-wishseeker.json](./415089-wishseeker.json) |
 | Wisps of the Elements | 312544 | [312544-wisps-of-the-elements.json](./312544-wisps-of-the-elements.json) |
+| Wisps: The Redeeming | 2961 | [2961-wisps-the-redeeming.json](./2961-wisps-the-redeeming.json) |
 | Witch | 299159 | [299159-witch.json](./299159-witch.json) |
 | Witch & Cats | 258177 | [258177-witch-and-cats.json](./258177-witch-and-cats.json) |
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
@@ -1357,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard with a Gun: Bounty Hunter Pack | 293391 | [293391-wizard-with-a-gun-bounty-hunter-pack.json](./293391-wizard-with-a-gun-bounty-hunter-pack.json) |
 | Wizard's Adventure | 186243 | [186243-wizards-adventure.json](./186243-wizards-adventure.json) |
 | Wizard's Beard | 277606 | [277606-wizards-beard.json](./277606-wizards-beard.json) |
+| Wizard's Crown | 2877 | [2877-wizards-crown.json](./2877-wizards-crown.json) |
 | Wizard's Harmony | 55900 | [55900-wizards-harmony.json](./55900-wizards-harmony.json) |
 | Wizard's Harmony 2 | 55901 | [55901-wizards-harmony-2.json](./55901-wizards-harmony-2.json) |
 | Wizard's Lair | 26471 | [26471-wizards-lair.json](./26471-wizards-lair.json) |
@@ -1377,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
 | Wizardry: The Five Ordeals | 151699 | [151699-wizardry-the-five-ordeals.json](./151699-wizardry-the-five-ordeals.json) |
+| Wizardry: The Return of Werdna - The Fourth Scenario | 2885 | [2885-wizardry-the-return-of-werdna-the-fourth-scenario.json](./2885-wizardry-the-return-of-werdna-the-fourth-scenario.json) |
 | Wizards & Warriors | 80498 | [80498-wizards-and-warriors.json](./80498-wizards-and-warriors.json) |
 | Wizards & Warriors III: Kuros - Visions of Power | 48092 | [48092-wizards-and-warriors-iii-kuros-visions-of-power.json](./48092-wizards-and-warriors-iii-kuros-visions-of-power.json) |
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
