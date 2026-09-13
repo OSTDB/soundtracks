@@ -530,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makeover Madness | 210050 | [210050-makeover-madness.json](./210050-makeover-madness.json) |
 | MakerKing | 153379 | [153379-makerking.json](./153379-makerking.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
+| Making History: The Calm & The Storm | 15043 | [15043-making-history-the-calm-and-the-storm.json](./15043-making-history-the-calm-and-the-storm.json) |
 | Making Lovers: Geki Icha After Story Vol.01 | 108975 | [108975-making-lovers-geki-icha-after-story-vol-01.json](./108975-making-lovers-geki-icha-after-story-vol-01.json) |
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
 | Makoto Mobius | 150152 | [150152-makoto-mobius.json](./150152-makoto-mobius.json) |
@@ -1911,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesorift Survival | 350403 | [350403-mesorift-survival.json](./350403-mesorift-survival.json) |
 | Mess Cleanup | 166765 | [166765-mess-cleanup.json](./166765-mess-cleanup.json) |
 | Message From Aliens | 415077 | [415077-message-from-aliens.json](./415077-message-from-aliens.json) |
+| Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
 | Messiah: The Road of Conviction | 145602 | [145602-messiah-the-road-of-conviction.json](./145602-messiah-the-road-of-conviction.json) |
 | Messier111 | 169363 | [169363-messier111.json](./169363-messier111.json) |
 | Messticulous | 319935 | [319935-messticulous.json](./319935-messticulous.json) |
