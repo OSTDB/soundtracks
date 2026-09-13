@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 64: Stomper Mod | 248307 | [248307-mario-kart-64-stomper-mod.json](./248307-mario-kart-64-stomper-mod.json) |
 | Mario Kart 8 Deluxe + Booster Course Pass | 245049 | [245049-mario-kart-8-deluxe-booster-course-pass.json](./245049-mario-kart-8-deluxe-booster-course-pass.json) |
 | Mario Kart 8 Deluxe: Booster Course Pass | 191419 | [191419-mario-kart-8-deluxe-booster-course-pass.json](./191419-mario-kart-8-deluxe-booster-course-pass.json) |
+| Mario Kart Arcade GP | 45160 | [45160-mario-kart-arcade-gp.json](./45160-mario-kart-arcade-gp.json) |
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
 | Mario Kart RiiBalanced | 202370 | [202370-mario-kart-riibalanced.json](./202370-mario-kart-riibalanced.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MC Lars 2: Brotherhood | 75188 | [75188-mc-lars-2-brotherhood.json](./75188-mc-lars-2-brotherhood.json) |
 | McDonald's Fairies: Lily | 254793 | [254793-mcdonalds-fairies-lily.json](./254793-mcdonalds-fairies-lily.json) |
 | McDonald's Fairies: Rose | 254794 | [254794-mcdonalds-fairies-rose.json](./254794-mcdonalds-fairies-rose.json) |
+| McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
 | McDroid | 16689 | [16689-mcdroid.json](./16689-mcdroid.json) |
 | McTetris | 230831 | [230831-mctetris.json](./230831-mctetris.json) |
 | MDF: Magical Defense Force - Chapters 10-18 | 285445 | [285445-mdf-magical-defense-force-chapters-10-18.json](./285445-mdf-magical-defense-force-chapters-10-18.json) |
@@ -2040,6 +2042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
+| Metro-Cross | 39688 | [39688-metro-cross.json](./39688-metro-cross.json) |
 | Metro-Police | 19586 | [19586-metro-police.json](./19586-metro-police.json) |
 | Metro.Siberia | 283743 | [283743-metro-siberia.json](./283743-metro-siberia.json) |
 | Metrogether | 326385 | [326385-metrogether.json](./326385-metrogether.json) |
@@ -2367,6 +2370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milita Aventuro | 218711 | [218711-milita-aventuro.json](./218711-milita-aventuro.json) |
 | Military Base War | 169447 | [169447-military-base-war.json](./169447-military-base-war.json) |
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
+| Military Madness | 44334 | [44334-military-madness.json](./44334-military-madness.json) |
 | Military Merge | 402307 | [402307-military-merge.json](./402307-military-merge.json) |
 | Military Transporter Sim | 293646 | [293646-military-transporter-sim.json](./293646-military-transporter-sim.json) |
 | Military:Run | 101463 | [101463-military-run.json](./101463-military-run.json) |
