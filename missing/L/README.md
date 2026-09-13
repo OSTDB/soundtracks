@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legionwood: Tale of the Two Swords | 33016 | [33016-legionwood-tale-of-the-two-swords.json](./33016-legionwood-tale-of-the-two-swords.json) |
 | Legna Tactica | 26666 | [26666-legna-tactica.json](./26666-legna-tactica.json) |
 | LEGO Agents: Mission X | 314853 | [314853-lego-agents-mission-x.json](./314853-lego-agents-mission-x.json) |
+| LEGO Alpha Team | 80638 | [80638-lego-alpha-team.json](./80638-lego-alpha-team.json) |
 | LEGO Arthouse | 117005 | [117005-lego-arthouse.json](./117005-lego-arthouse.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
 | LEGO Batman: The Mobile Game | 259264 | [259264-lego-batman-the-mobile-game.json](./259264-lego-batman-the-mobile-game.json) |
@@ -1924,6 +1925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lua Bingo | 87136 | [87136-lua-bingo.json](./87136-lua-bingo.json) |
 | Luberman and the Legend of Animals Warriors | 208580 | [208580-luberman-and-the-legend-of-animals-warriors.json](./208580-luberman-and-the-legend-of-animals-warriors.json) |
 | Luc Bernard's Reaper | 93601 | [93601-luc-bernards-reaper.json](./93601-luc-bernards-reaper.json) |
+| Lucah: Born of a Dream | 99120 | [99120-lucah-born-of-a-dream.json](./99120-lucah-born-of-a-dream.json) |
 | Lucas's Problem | 72095 | [72095-lucass-problem.json](./72095-lucass-problem.json) |
 | LucasArts Adventure Pack | 27848 | [27848-lucasarts-adventure-pack.json](./27848-lucasarts-adventure-pack.json) |
 | Luce Spenta | 371240 | [371240-luce-spenta.json](./371240-luce-spenta.json) |
