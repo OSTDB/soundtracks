@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
 | Rencia | 120925 | [120925-rencia.json](./120925-rencia.json) |
+| Rendering Ranger: R2 | 38369 | [38369-rendering-ranger-r2.json](./38369-rendering-ranger-r2.json) |
 | Rendezvous | 144977 | [144977-rendezvous.json](./144977-rendezvous.json) |
 | Rendezvous with a Stranger Girl | 57623 | [57623-rendezvous-with-a-stranger-girl.json](./57623-rendezvous-with-a-stranger-girl.json) |
 | Rendezvous: A Space Shuttle Flight Simulation | 24859 | [24859-rendezvous-a-space-shuttle-flight-simulation.json](./24859-rendezvous-a-space-shuttle-flight-simulation.json) |
