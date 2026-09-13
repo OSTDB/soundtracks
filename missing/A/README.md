@@ -284,7 +284,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
 | Action Doom 2: Urban Brawl | 55135 | [55135-action-doom-2-urban-brawl.json](./55135-action-doom-2-urban-brawl.json) |
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
-| Action Force II: International Heroes | 73255 | [73255-action-force-ii-international-heroes.json](./73255-action-force-ii-international-heroes.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Games Bundle (5 in 1) | 231074 | [231074-action-games-bundle-5-in-1.json](./231074-action-games-bundle-5-in-1.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
