@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T17:31:34.789Z",
-  "total_missing": 66601,
+  "generated_at": "2026-09-13T17:41:43.059Z",
+  "total_missing": 66605,
   "games": [
     {
       "igdb_id": 306086,
@@ -3423,6 +3423,11 @@
       "file": "missing/A/209660-acassia.json"
     },
     {
+      "igdb_id": 36796,
+      "game_name": "Accel World vs. Sword Art Online: Millennium Twilight",
+      "file": "missing/A/36796-accel-world-vs-sword-art-online-millennium-twilight.json"
+    },
+    {
       "igdb_id": 38353,
       "game_name": "Accele Brid",
       "file": "missing/A/38353-accele-brid.json"
@@ -3806,11 +3811,6 @@
       "igdb_id": 240470,
       "game_name": "Adachi Dating Simulator",
       "file": "missing/A/240470-adachi-dating-simulator.json"
-    },
-    {
-      "igdb_id": 204500,
-      "game_name": "Adam & Eve",
-      "file": "missing/A/204500-adam-and-eve.json"
     },
     {
       "igdb_id": 300990,
@@ -64621,6 +64621,11 @@
       "igdb_id": 321336,
       "game_name": "Dead Abyss",
       "file": "missing/D/321336-dead-abyss.json"
+    },
+    {
+      "igdb_id": 36781,
+      "game_name": "Dead Alliance",
+      "file": "missing/D/36781-dead-alliance.json"
     },
     {
       "igdb_id": 8429,
@@ -155763,6 +155768,11 @@
       "file": "missing/L/109027-lode-runner-extra.json"
     },
     {
+      "igdb_id": 37008,
+      "game_name": "Lode Runner Legacy",
+      "file": "missing/L/37008-lode-runner-legacy.json"
+    },
+    {
       "igdb_id": 109026,
       "game_name": "Lode Runner: Domdom Dan no Yabou!",
       "file": "missing/L/109026-lode-runner-domdom-dan-no-yabou.json"
@@ -174443,6 +174453,11 @@
       "file": "missing/M/59994-moero-7-judo-warriors.json"
     },
     {
+      "igdb_id": 36869,
+      "game_name": "Moero Chronicle",
+      "file": "missing/M/36869-moero-chronicle.json"
+    },
+    {
       "igdb_id": 114421,
       "game_name": "Moero Chronicle Hyper",
       "file": "missing/M/114421-moero-chronicle-hyper.json"
@@ -176311,6 +176326,11 @@
       "igdb_id": 91341,
       "game_name": "Montezuma Puzzle",
       "file": "missing/M/91341-montezuma-puzzle.json"
+    },
+    {
+      "igdb_id": 36903,
+      "game_name": "Montezuma's Return!",
+      "file": "missing/M/36903-montezumas-return.json"
     },
     {
       "igdb_id": 234623,
