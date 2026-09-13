@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endzone: A World Apart - Complete Edition | 218504 | [218504-endzone-a-world-apart-complete-edition.json](./218504-endzone-a-world-apart-complete-edition.json) |
 | Endzone: A World Apart - Survivor Edition | 193533 | [193533-endzone-a-world-apart-survivor-edition.json](./193533-endzone-a-world-apart-survivor-edition.json) |
 | Enemies: Gone Suburban | 239649 | [239649-enemies-gone-suburban.json](./239649-enemies-gone-suburban.json) |
+| Enemy Engaged 2 | 20372 | [20372-enemy-engaged-2.json](./20372-enemy-engaged-2.json) |
 | Enemy Engaged: RAH-66 Comanche vs. Ka-52 Hokum | 69858 | [69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json](./69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json) |
 | Enemy Metal | 296367 | [296367-enemy-metal.json](./296367-enemy-metal.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
@@ -1415,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everplast | 191819 | [191819-everplast.json](./191819-everplast.json) |
 | EverQuest II: Age of Discovery | 23830 | [23830-everquest-ii-age-of-discovery.json](./23830-everquest-ii-age-of-discovery.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
+| EverQuest II: Kingdom of Sky | 20490 | [20490-everquest-ii-kingdom-of-sky.json](./20490-everquest-ii-kingdom-of-sky.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
 | EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
 | EverQuest II: The Splitpaw Saga | 111025 | [111025-everquest-ii-the-splitpaw-saga.json](./111025-everquest-ii-the-splitpaw-saga.json) |
