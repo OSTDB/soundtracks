@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Kimori: Great Doubt - Episode Two | 82080 | [82080-alpha-kimori-great-doubt-episode-two.json](./82080-alpha-kimori-great-doubt-episode-two.json) |
 | Alpha Lyrae Discovery | 120958 | [120958-alpha-lyrae-discovery.json](./120958-alpha-lyrae-discovery.json) |
 | Alpha Man | 100221 | [100221-alpha-man.json](./100221-alpha-man.json) |
+| Alpha Mission | 8911 | [8911-alpha-mission.json](./8911-alpha-mission.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
 | Alpha Squirrel | 183517 | [183517-alpha-squirrel.json](./183517-alpha-squirrel.json) |
@@ -2014,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
 | Anomalous Zone | 211434 | [211434-anomalous-zone.json](./211434-anomalous-zone.json) |
 | Anomaly 13 | 358296 | [358296-anomaly-13.json](./358296-anomaly-13.json) |
+| Anomaly 2 | 9212 | [9212-anomaly-2.json](./9212-anomaly-2.json) |
 | Anomaly Agent | 249084 | [249084-anomaly-agent.json](./249084-anomaly-agent.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
 | Anomaly Loop | 293091 | [293091-anomaly-loop.json](./293091-anomaly-loop.json) |
