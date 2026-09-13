@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
+| Beaterator | 18383 | [18383-beaterator.json](./18383-beaterator.json) |
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
 | Beatmania 3rdMix | 94745 | [94745-beatmania-3rdmix.json](./94745-beatmania-3rdmix.json) |
 | Beatmania 7thMix: Keepin' Evolution | 94743 | [94743-beatmania-7thmix-keepin-evolution.json](./94743-beatmania-7thmix-keepin-evolution.json) |
@@ -2084,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Vharan | 396224 | [396224-blades-of-vharan.json](./396224-blades-of-vharan.json) |
 | Blades, Bows & Magic | 329403 | [329403-blades-bows-and-magic.json](./329403-blades-bows-and-magic.json) |
 | Blair Witch | 119298 | [119298-blair-witch.json](./119298-blair-witch.json) |
+| Blair Witch Volume 2: The Legend of Coffin Rock | 18490 | [18490-blair-witch-volume-2-the-legend-of-coffin-rock.json](./18490-blair-witch-volume-2-the-legend-of-coffin-rock.json) |
 | Blair Witch: Deluxe Edition | 154467 | [154467-blair-witch-deluxe-edition.json](./154467-blair-witch-deluxe-edition.json) |
 | Blake Strongflank | 182515 | [182515-blake-strongflank.json](./182515-blake-strongflank.json) |
 | Blake Turner: Ace Attorney | 308528 | [308528-blake-turner-ace-attorney.json](./308528-blake-turner-ace-attorney.json) |
@@ -3403,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Death | 211217 | [211217-bring-death.json](./211217-bring-death.json) |
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
+| Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
 | Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
