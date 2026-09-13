@@ -1141,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
 | Champions of Quortz | 249215 | [249215-champions-of-quortz.json](./249215-champions-of-quortz.json) |
 | Champions Tactics Reforged | 343807 | [343807-champions-tactics-reforged.json](./343807-champions-tactics-reforged.json) |
+| Champions: Return to Arms | 10237 | [10237-champions-return-to-arms.json](./10237-champions-return-to-arms.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager: Season 03/04 | 628 | [628-championship-manager-season-03-04.json](./628-championship-manager-season-03-04.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
@@ -2104,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
 | Cloud Chasers | 23657 | [23657-cloud-chasers.json](./23657-cloud-chasers.json) |
+| Cloud Climber | 142314 | [142314-cloud-climber.json](./142314-cloud-climber.json) |
 | Cloud Escape | 183612 | [183612-cloud-escape.json](./183612-cloud-escape.json) |
 | Cloud Grove | 59934 | [59934-cloud-grove.json](./59934-cloud-grove.json) |
 | Cloud House | 236497 | [236497-cloud-house.json](./236497-cloud-house.json) |
@@ -2796,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Revoked: The Lost Chapters | 271237 | [271237-contract-revoked-the-lost-chapters.json](./271237-contract-revoked-the-lost-chapters.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
+| Contradiction: Spot the Liar! | 11333 | [11333-contradiction-spot-the-liar.json](./11333-contradiction-spot-the-liar.json) |
 | Contraption | 57121 | [57121-contraption.json](./57121-contraption.json) |
 | Contraption Maker | 9802 | [9802-contraption-maker.json](./9802-contraption-maker.json) |
 | Contraption Maker: Battling Cards - Parts & Puzzles Expansion Pack | 163427 | [163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json](./163427-contraption-maker-battling-cards-parts-and-puzzles-expansion-pack.json) |
@@ -2938,8 +2941,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corpse Killer | 298551 | [298551-corpse-killer.json](./298551-corpse-killer.json) |
 | Corpse Killer | 5372 | [5372-corpse-killer.json](./5372-corpse-killer.json) |
 | Corpse Master Carnage | 277020 | [277020-corpse-master-carnage.json](./277020-corpse-master-carnage.json) |
+| Corpse Party | 178111 | [178111-corpse-party.json](./178111-corpse-party.json) |
 | Corpse Party D2: Depths of Despair | 170023 | [170023-corpse-party-d2-depths-of-despair.json](./170023-corpse-party-d2-depths-of-despair.json) |
 | Corpse Party: Back to School Edition - Limited Edition | 89891 | [89891-corpse-party-back-to-school-edition-limited-edition.json](./89891-corpse-party-back-to-school-edition-limited-edition.json) |
+| Corpse Party: Book of Shadows | 11318 | [11318-corpse-party-book-of-shadows.json](./11318-corpse-party-book-of-shadows.json) |
 | Corpse Party: Cross Fear | 135889 | [135889-corpse-party-cross-fear.json](./135889-corpse-party-cross-fear.json) |
 | Corpse-Party: if - Past End | 135890 | [135890-corpse-party-if-past-end.json](./135890-corpse-party-if-past-end.json) |
 | Corpsênia | 190745 | [190745-corpsenia.json](./190745-corpsenia.json) |
@@ -3452,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cribbage Pro | 141872 | [141872-cribbage-pro.json](./141872-cribbage-pro.json) |
 | Cribbage With Grandpas | 94781 | [94781-cribbage-with-grandpas.json](./94781-cribbage-with-grandpas.json) |
 | Cribbage: Classic Card Game | 87704 | [87704-cribbage-classic-card-game.json](./87704-cribbage-classic-card-game.json) |
+| Cricket 07 | 10619 | [10619-cricket-07.json](./10619-cricket-07.json) |
 | Cricket 2000 | 79891 | [79891-cricket-2000.json](./79891-cricket-2000.json) |
 | Cricket 96 | 94684 | [94684-cricket-96.json](./94684-cricket-96.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
