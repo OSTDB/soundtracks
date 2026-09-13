@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
 | Magia X: Leta | 172158 | [172158-magia-x-leta.json](./172158-magia-x-leta.json) |
 | Magic & Empire | 97380 | [97380-magic-and-empire.json](./97380-magic-and-empire.json) |
+| Magic & Mayhem: The Art of Magic | 70956 | [70956-magic-and-mayhem-the-art-of-magic.json](./70956-magic-and-mayhem-the-art-of-magic.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
@@ -508,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make a Happy Baby | 239039 | [239039-make-a-happy-baby.json](./239039-make-a-happy-baby.json) |
 | Make a Path for the Chicken | 165624 | [165624-make-a-path-for-the-chicken.json](./165624-make-a-path-for-the-chicken.json) |
 | Make a Scene: Dinosaurs | 96044 | [96044-make-a-scene-dinosaurs.json](./96044-make-a-scene-dinosaurs.json) |
+| Make Border Great Again! | 74345 | [74345-make-border-great-again.json](./74345-make-border-great-again.json) |
 | Make Candy | 175368 | [175368-make-candy.json](./175368-make-candy.json) |
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
 | Make It as an Artist | 29834 | [29834-make-it-as-an-artist.json](./29834-make-it-as-an-artist.json) |
@@ -2351,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miffed | 180821 | [180821-miffed.json](./180821-miffed.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
 | Might & Magic: Duel of Champions - Forgotten Wars | 52586 | [52586-might-and-magic-duel-of-champions-forgotten-wars.json](./52586-might-and-magic-duel-of-champions-forgotten-wars.json) |
+| Might & Magic: Elemental Guardians | 70707 | [70707-might-and-magic-elemental-guardians.json](./70707-might-and-magic-elemental-guardians.json) |
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
 | Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
 | Might and Magic: Book One - The Secret of the Inner Sanctum | 7733 | [7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json](./7733-might-and-magic-book-one-the-secret-of-the-inner-sanctum.json) |
@@ -4644,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Raincliff's Phantoms | 201829 | [201829-mystery-trackers-raincliffs-phantoms.json](./201829-mystery-trackers-raincliffs-phantoms.json) |
 | Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret | 201817 | [201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json](./201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json) |
 | Mystery: London | 146926 | [146926-mystery-london.json](./146926-mystery-london.json) |
+| Mysteryville 2 | 73151 | [73151-mysteryville-2.json](./73151-mysteryville-2.json) |
 | Mystfed | 183522 | [183522-mystfed.json](./183522-mystfed.json) |
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
