@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peg Solitaire | 57062 | [57062-peg-solitaire.json](./57062-peg-solitaire.json) |
 | Pegafuerte el Terrible | 249479 | [249479-pegafuerte-el-terrible.json](./249479-pegafuerte-el-terrible.json) |
 | Pegasis | 298866 | [298866-pegasis.json](./298866-pegasis.json) |
+| Peggle | 3751 | [3751-peggle.json](./3751-peggle.json) |
 | Peggle | 95409 | [95409-peggle.json](./95409-peggle.json) |
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies 2: Into the Storm | 272546 | [272546-plants-vs-zombies-2-into-the-storm.json](./272546-plants-vs-zombies-2-into-the-storm.json) |
 | Plants vs. Zombies 2: Odyssey | 272295 | [272295-plants-vs-zombies-2-odyssey.json](./272295-plants-vs-zombies-2-odyssey.json) |
 | Plants vs. Zombies Adventures | 77968 | [77968-plants-vs-zombies-adventures.json](./77968-plants-vs-zombies-adventures.json) |
+| Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
@@ -2142,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Penumbra Moon | 288205 | [288205-pokemon-penumbra-moon.json](./288205-pokemon-penumbra-moon.json) |
 | Pokémon Pesadilla | 254529 | [254529-pokemon-pesadilla.json](./254529-pokemon-pesadilla.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
+| Pokémon Pinball | 4068 | [4068-pokemon-pinball.json](./4068-pokemon-pinball.json) |
 | Pokémon Pinball Mini | 66030 | [66030-pokemon-pinball-mini.json](./66030-pokemon-pinball-mini.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
