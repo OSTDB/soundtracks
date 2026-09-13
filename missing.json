@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T12:48:57.166Z",
-  "total_missing": 65900,
+  "generated_at": "2026-09-13T12:51:31.131Z",
+  "total_missing": 65899,
   "games": [
     {
       "igdb_id": 306086,
@@ -3636,11 +3636,6 @@
       "igdb_id": 177040,
       "game_name": "Action Ball Deluxe",
       "file": "missing/A/177040-action-ball-deluxe.json"
-    },
-    {
-      "igdb_id": 43937,
-      "game_name": "Action Bass",
-      "file": "missing/A/43937-action-bass.json"
     },
     {
       "igdb_id": 45338,
