@@ -2133,6 +2133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antisphere | 32876 | [32876-antisphere.json](./32876-antisphere.json) |
 | AntiSquad Tactics | 38987 | [38987-antisquad-tactics.json](./38987-antisquad-tactics.json) |
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
+| Antonball Deluxe | 139595 | [139595-antonball-deluxe.json](./139595-antonball-deluxe.json) |
 | Antonball Deluxe Lite | 153463 | [153463-antonball-deluxe-lite.json](./153463-antonball-deluxe-lite.json) |
 | Antonblast | 201752 | [201752-antonblast.json](./201752-antonblast.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Ryza: Ever Darkness & the Secret Hideout - Secret Solitary Island | 238227 | [238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json](./238227-atelier-ryza-ever-darkness-and-the-secret-hideout-secret-solitary-island.json) |
 | Atelier Ryza: Ever Darkness & the Secret Hideout DX | 359424 | [359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json](./359424-atelier-ryza-ever-darkness-and-the-secret-hideout-dx.json) |
 | Atelier Shallie: Alchemists of the Dusk Sea DX | 122750 | [122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json](./122750-atelier-shallie-alchemists-of-the-dusk-sea-dx.json) |
+| Atelier Sophie 2: The Alchemist of the Mysterious Dream | 172822 | [172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json](./172822-atelier-sophie-2-the-alchemist-of-the-mysterious-dream.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
 | Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
 | Athena no Kateiban: Family Games | 285988 | [285988-athena-no-kateiban-family-games.json](./285988-athena-no-kateiban-family-games.json) |
