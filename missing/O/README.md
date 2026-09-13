@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omniswarm | 183056 | [183056-omniswarm.json](./183056-omniswarm.json) |
 | OmniSword | 82155 | [82155-omnisword.json](./82155-omnisword.json) |
 | Omnivael: Chronicles of the realm | 274763 | [274763-omnivael-chronicles-of-the-realm.json](./274763-omnivael-chronicles-of-the-realm.json) |
+| Omno | 111661 | [111661-omno.json](./111661-omno.json) |
 | OmOchim | 415098 | [415098-omochim.json](./415098-omochim.json) |
 | Omoide ni Kawaru Kimi: Memories Off | 288773 | [288773-omoide-ni-kawaru-kimi-memories-off.json](./288773-omoide-ni-kawaru-kimi-memories-off.json) |
 | Omoikkiri Tanteidan Haado-gumi: Matenrou no Chousenjou | 41336 | [41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json](./41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json) |
@@ -1190,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Golf: 9 More Holes of X-Mas | 47311 | [47311-outlaw-golf-9-more-holes-of-x-mas.json](./47311-outlaw-golf-9-more-holes-of-x-mas.json) |
 | Outlaw Golf: Holiday Golf | 78687 | [78687-outlaw-golf-holiday-golf.json](./78687-outlaw-golf-holiday-golf.json) |
 | Outlawed | 331339 | [331339-outlawed.json](./331339-outlawed.json) |
+| Outlaws | 196 | [196-outlaws.json](./196-outlaws.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
 | Outliver: Redemption | 113665 | [113665-outliver-redemption.json](./113665-outliver-redemption.json) |
