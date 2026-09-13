@@ -250,7 +250,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AceForce 2 | 311282 | [311282-aceforce-2.json](./311282-aceforce-2.json) |
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
 | Acheron's Souls | 150121 | [150121-acherons-souls.json](./150121-acherons-souls.json) |
-| Achievement Clicker | 248925 | [248925-achievement-clicker.json](./248925-achievement-clicker.json) |
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Collector: Dog | 114352 | [114352-achievement-collector-dog.json](./114352-achievement-collector-dog.json) |
 | Achievement Collector: Zombie | 114370 | [114370-achievement-collector-zombie.json](./114370-achievement-collector-zombie.json) |
@@ -2636,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
 | Ark: Scorched Earth | 103514 | [103514-ark-scorched-earth.json](./103514-ark-scorched-earth.json) |
 | Ark: Scorched Earth Ascended | 294992 | [294992-ark-scorched-earth-ascended.json](./294992-ark-scorched-earth-ascended.json) |
+| Ark: Survival Ascended | 250509 | [250509-ark-survival-ascended.json](./250509-ark-survival-ascended.json) |
 | Ark: The Center Ascended | 304378 | [304378-ark-the-center-ascended.json](./304378-ark-the-center-ascended.json) |
 | Ark: Ultimate Survivor Edition | 152344 | [152344-ark-ultimate-survivor-edition.json](./152344-ark-ultimate-survivor-edition.json) |
 | Arkady Survive | 117658 | [117658-arkady-survive.json](./117658-arkady-survive.json) |
