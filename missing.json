@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T01:48:12.174Z",
-  "total_missing": 64179,
+  "generated_at": "2026-09-13T01:51:30.404Z",
+  "total_missing": 64178,
   "games": [
     {
       "igdb_id": 306086,
@@ -3306,11 +3306,6 @@
       "igdb_id": 292017,
       "game_name": "Ace Angler",
       "file": "missing/A/292017-ace-angler.json"
-    },
-    {
-      "igdb_id": 303755,
-      "game_name": "Ace Attorney But Plotagon",
-      "file": "missing/A/303755-ace-attorney-but-plotagon.json"
     },
     {
       "igdb_id": 237350,
