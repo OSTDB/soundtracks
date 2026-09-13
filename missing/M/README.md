@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M. Stain | 356108 | [356108-m-stain.json](./356108-m-stain.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
+| M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
@@ -1574,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X3: Proto Edition | 219082 | [219082-mega-man-x3-proto-edition.json](./219082-mega-man-x3-proto-edition.json) |
 | Mega Man X5 Improvement Project | 196256 | [196256-mega-man-x5-improvement-project.json](./196256-mega-man-x5-improvement-project.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
+| Mega Man Xtreme 2 | 1750 | [1750-mega-man-xtreme-2.json](./1750-mega-man-xtreme-2.json) |
 | Mega Man Zero | 1775 | [1775-mega-man-zero.json](./1775-mega-man-zero.json) |
 | Mega Man Zero 4 | 1778 | [1778-mega-man-zero-4.json](./1778-mega-man-zero-4.json) |
 | Mega Man ZX | 1779 | [1779-mega-man-zx.json](./1779-mega-man-zx.json) |
@@ -2157,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 2024: World Update 20 - Japan | 370133 | [370133-microsoft-flight-simulator-2024-world-update-20-japan.json](./370133-microsoft-flight-simulator-2024-world-update-20-japan.json) |
 | Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
+| Microsoft Flight Simulator X: Acceleration | 713 | [713-microsoft-flight-simulator-x-acceleration.json](./713-microsoft-flight-simulator-x-acceleration.json) |
 | Microsoft Flight Simulator X: Deluxe Edition | 23775 | [23775-microsoft-flight-simulator-x-deluxe-edition.json](./23775-microsoft-flight-simulator-x-deluxe-edition.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - 737 Extreme Sound | 161820 | [161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json](./161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json) |
