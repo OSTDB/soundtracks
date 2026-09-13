@@ -2286,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaked Fleapit | 204437 | [204437-freaked-fleapit.json](./204437-freaked-fleapit.json) |
 | Freakfield 2042 | 195268 | [195268-freakfield-2042.json](./195268-freakfield-2042.json) |
 | FreaKick | 68626 | [68626-freakick.json](./68626-freakick.json) |
+| Freakin' Funky Fuzzballs | 15515 | [15515-freakin-funky-fuzzballs.json](./15515-freakin-funky-fuzzballs.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
 | Freakshow: Anniversary | 99575 | [99575-freakshow-anniversary.json](./99575-freakshow-anniversary.json) |
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
