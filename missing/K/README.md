@@ -611,6 +611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Spirits Complete Collection | 53240 | [53240-kindred-spirits-complete-collection.json](./53240-kindred-spirits-complete-collection.json) |
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
 | Kinect PlayFit | 64925 | [64925-kinect-playfit.json](./64925-kinect-playfit.json) |
+| Kinectimals | 2755 | [2755-kinectimals.json](./2755-kinectimals.json) |
 | Kinesis | 141783 | [141783-kinesis.json](./141783-kinesis.json) |
 | Kinesis | 276713 | [276713-kinesis.json](./276713-kinesis.json) |
 | Kinetic Connection | 45272 | [45272-kinetic-connection.json](./45272-kinetic-connection.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby Star Allies | 37137 | [37137-kirby-star-allies.json](./37137-kirby-star-allies.json) |
 | Kirby Super Star Ultra | 2647 | [2647-kirby-super-star-ultra.json](./2647-kirby-super-star-ultra.json) |
 | Kirby the Dream Battle | 145015 | [145015-kirby-the-dream-battle.json](./145015-kirby-the-dream-battle.json) |
+| Kirby Tilt 'n' Tumble | 3729 | [3729-kirby-tilt-n-tumble.json](./3729-kirby-tilt-n-tumble.json) |
 | Kirby: Squeak Squad | 3723 | [3723-kirby-squeak-squad.json](./3723-kirby-squeak-squad.json) |
 | Kirby: Wacky Episode | 315520 | [315520-kirby-wacky-episode.json](./315520-kirby-wacky-episode.json) |
 | Kirby's Adventure | 3717 | [3717-kirbys-adventure.json](./3717-kirbys-adventure.json) |
@@ -910,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klondike Solitaire Gold | 146914 | [146914-klondike-solitaire-gold.json](./146914-klondike-solitaire-gold.json) |
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
+| Klonoa Phantasy Reverie Series | 191405 | [191405-klonoa-phantasy-reverie-series.json](./191405-klonoa-phantasy-reverie-series.json) |
 | Klung | 182533 | [182533-klung.json](./182533-klung.json) |
 | Kly-Kly | 192942 | [192942-kly-kly.json](./192942-kly-kly.json) |
 | Kmenta | 109653 | [109653-kmenta.json](./109653-kmenta.json) |
