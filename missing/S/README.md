@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
 | Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
 | Sacred Line Genesis | 60523 | [60523-sacred-line-genesis.json](./60523-sacred-line-genesis.json) |
+| Sacred Plus | 53570 | [53570-sacred-plus.json](./53570-sacred-plus.json) |
 | Sacred Sword Princesses | 112286 | [112286-sacred-sword-princesses.json](./112286-sacred-sword-princesses.json) |
 | Sacred Underworld | 78933 | [78933-sacred-underworld.json](./78933-sacred-underworld.json) |
 | Sacreligious | 276460 | [276460-sacreligious.json](./276460-sacreligious.json) |
@@ -2029,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty and the Catfish: Episode 1 | 181838 | [181838-shooty-and-the-catfish-episode-1.json](./181838-shooty-and-the-catfish-episode-1.json) |
 | Shooty and the Catfish: Episode 2 | 181936 | [181936-shooty-and-the-catfish-episode-2.json](./181936-shooty-and-the-catfish-episode-2.json) |
 | Shooty Ballz | 184656 | [184656-shooty-ballz.json](./184656-shooty-ballz.json) |
+| Shooty Skies | 59547 | [59547-shooty-skies.json](./59547-shooty-skies.json) |
 | Shooty Skies Overdrive | 137654 | [137654-shooty-skies-overdrive.json](./137654-shooty-skies-overdrive.json) |
 | Shooty Space Adventure | 58768 | [58768-shooty-space-adventure.json](./58768-shooty-space-adventure.json) |
 | Shop Is Done | 260388 | [260388-shop-is-done.json](./260388-shop-is-done.json) |
@@ -2659,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skidmarks | 65506 | [65506-skidmarks.json](./65506-skidmarks.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
+| Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
@@ -6211,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stromberg: Büro ist Krieg | 112274 | [112274-stromberg-buro-ist-krieg.json](./112274-stromberg-buro-ist-krieg.json) |
 | Strong Bad's Cool Game for Attractive People | 9463 | [9463-strong-bads-cool-game-for-attractive-people.json](./9463-strong-bads-cool-game-for-attractive-people.json) |
 | Strong Bad's Cool Game for Attractive People Episode 1: Homestar Ruiner | 28984 | [28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json](./28984-strong-bads-cool-game-for-attractive-people-episode-1-homestar-ruiner.json) |
+| Strong Bad's Cool Game for Attractive People Episode 2: Strong Badia the Free | 50176 | [50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json](./50176-strong-bads-cool-game-for-attractive-people-episode-2-strong-badia-the-free.json) |
 | Strong Bad's Cool Game for Attractive People Episode 3: Baddest of the Bands | 50175 | [50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json](./50175-strong-bads-cool-game-for-attractive-people-episode-3-baddest-of-the-bands.json) |
 | Strong Bad's RhinoFeeder | 135851 | [135851-strong-bads-rhinofeeder.json](./135851-strong-bads-rhinofeeder.json) |
 | Strong Crab | 384541 | [384541-strong-crab.json](./384541-strong-crab.json) |
@@ -7311,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Vadimka II: Revenge of Dr. Kulik | 194612 | [194612-super-vadimka-ii-revenge-of-dr-kulik.json](./194612-super-vadimka-ii-revenge-of-dr-kulik.json) |
 | Super Vadimka III: Enter ALJ | 202324 | [202324-super-vadimka-iii-enter-alj.json](./202324-super-vadimka-iii-enter-alj.json) |
 | Super Vadimka VI: A Terrible Threat there is No Vadimka | 224769 | [224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json](./224769-super-vadimka-vi-a-terrible-threat-there-is-no-vadimka.json) |
+| Super Valis IV | 38411 | [38411-super-valis-iv.json](./38411-super-valis-iv.json) |
 | Super Visual Soccer | 125980 | [125980-super-visual-soccer.json](./125980-super-visual-soccer.json) |
 | Super Volte-Face | 310414 | [310414-super-volte-face.json](./310414-super-volte-face.json) |
 | Super Voxel World | 176443 | [176443-super-voxel-world.json](./176443-super-voxel-world.json) |
