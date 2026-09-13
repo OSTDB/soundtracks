@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetish Club | 298320 | [298320-fetish-club.json](./298320-fetish-club.json) |
 | Fetty Wap: Nitro Nation Stories | 76553 | [76553-fetty-wap-nitro-nation-stories.json](./76553-fetty-wap-nitro-nation-stories.json) |
 | Feud | 113037 | [113037-feud.json](./113037-feud.json) |
+| Feud | 12094 | [12094-feud.json](./12094-feud.json) |
 | Feudalism | 234914 | [234914-feudalism.json](./234914-feudalism.json) |
 | Feudalism II | 234915 | [234915-feudalism-ii.json](./234915-feudalism-ii.json) |
 | Fey: Distant Daydream | 189201 | [189201-fey-distant-daydream.json](./189201-fey-distant-daydream.json) |
@@ -2575,7 +2576,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 246398 | [246398-frogger.json](./246398-frogger.json) |
 | Frogger | 282741 | [282741-frogger.json](./282741-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
+| Frogger II: ThreeeDeep! | 11464 | [11464-frogger-ii-threeedeep.json](./11464-frogger-ii-threeedeep.json) |
 | Frogger Returns | 11484 | [11484-frogger-returns.json](./11484-frogger-returns.json) |
+| Frogger: The Great Quest | 11467 | [11467-frogger-the-great-quest.json](./11467-frogger-the-great-quest.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
