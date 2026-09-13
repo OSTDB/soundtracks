@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby 64: The Crystal Shards | 2713 | [2713-kirby-64-the-crystal-shards.json](./2713-kirby-64-the-crystal-shards.json) |
 | Kirby Air Ride Hack Pack | 298856 | [298856-kirby-air-ride-hack-pack.json](./298856-kirby-air-ride-hack-pack.json) |
 | Kirby and the Forgotten Land | 208400 | [208400-kirby-and-the-forgotten-land.json](./208400-kirby-and-the-forgotten-land.json) |
+| Kirby and the Rainbow Curse | 7338 | [7338-kirby-and-the-rainbow-curse.json](./7338-kirby-and-the-rainbow-curse.json) |
 | Kirby Bowl 64 | 298858 | [298858-kirby-bowl-64.json](./298858-kirby-bowl-64.json) |
 | Kirby Family | 248070 | [248070-kirby-family.json](./248070-kirby-family.json) |
 | Kirby in Sonic the Hedgehog | 198524 | [198524-kirby-in-sonic-the-hedgehog.json](./198524-kirby-in-sonic-the-hedgehog.json) |
