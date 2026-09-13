@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FCK: Lille Leo Bruger Bolden | 129778 | [129778-fck-lille-leo-bruger-bolden.json](./129778-fck-lille-leo-bruger-bolden.json) |
 | FD's Industry Tycoon | 409588 | [409588-fds-industry-tycoon.json](./409588-fds-industry-tycoon.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
+| Fear & Hunger 2: Termina | 224262 | [224262-fear-and-hunger-2-termina.json](./224262-fear-and-hunger-2-termina.json) |
 | Fear & Hunger 3 | 324308 | [324308-fear-and-hunger-3.json](./324308-fear-and-hunger-3.json) |
 | Fear & Respect | 70423 | [70423-fear-and-respect.json](./70423-fear-and-respect.json) |
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
