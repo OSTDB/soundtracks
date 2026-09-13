@@ -804,6 +804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Season 2 - Ultimate Edition | 338221 | [338221-tekken-8-season-2-ultimate-edition.json](./338221-tekken-8-season-2-ultimate-edition.json) |
 | Tekken 8: Season 2 Character & Stage Pass | 347701 | [347701-tekken-8-season-2-character-and-stage-pass.json](./347701-tekken-8-season-2-character-and-stage-pass.json) |
 | Tekken 8: Ultimate Pack | 293397 | [293397-tekken-8-ultimate-pack.json](./293397-tekken-8-ultimate-pack.json) |
+| Tekken Advance | 1240 | [1240-tekken-advance.json](./1240-tekken-advance.json) |
 | Tekken Revolution | 7660 | [7660-tekken-revolution.json](./7660-tekken-revolution.json) |
 | Tekken Tag Tournament 2 | 1238 | [1238-tekken-tag-tournament-2.json](./1238-tekken-tag-tournament-2.json) |
 | Tekken Tag Tournament 2: Prologue | 143749 | [143749-tekken-tag-tournament-2-prologue.json](./143749-tekken-tag-tournament-2-prologue.json) |
@@ -830,6 +831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teletubbies: Oooh! - Tinky Winky's Bag of Fun | 325258 | [325258-teletubbies-oooh-tinky-winkys-bag-of-fun.json](./325258-teletubbies-oooh-tinky-winkys-bag-of-fun.json) |
 | Teletubes: Electronic Pet | 314644 | [314644-teletubes-electronic-pet.json](./314644-teletubes-electronic-pet.json) |
 | Tell Me Your Story: Complete + | 328825 | [328825-tell-me-your-story-complete.json](./328825-tell-me-your-story-complete.json) |
+| Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
 | Telomere | 148505 | [148505-telomere.json](./148505-telomere.json) |
@@ -915,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
 | Tennis Smash: Racketville | 382230 | [382230-tennis-smash-racketville.json](./382230-tennis-smash-racketville.json) |
 | Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
+| Tennis World Tour 2 | 135576 | [135576-tennis-world-tour-2.json](./135576-tennis-world-tour-2.json) |
 | Tennis World Tour 2: Champions Pack | 167297 | [167297-tennis-world-tour-2-champions-pack.json](./167297-tennis-world-tour-2-champions-pack.json) |
 | Tennis World Tour 2: Legends Pack | 167299 | [167299-tennis-world-tour-2-legends-pack.json](./167299-tennis-world-tour-2-legends-pack.json) |
 | Tennis World Tour 2: Official Tournaments and Stadia Pack | 167300 | [167300-tennis-world-tour-2-official-tournaments-and-stadia-pack.json](./167300-tennis-world-tour-2-official-tournaments-and-stadia-pack.json) |
@@ -1338,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms: You've Been Here Before | 276161 | [276161-the-backrooms-youve-been-here-before.json](./276161-the-backrooms-youve-been-here-before.json) |
 | The Backyardigans | 159264 | [159264-the-backyardigans.json](./159264-the-backyardigans.json) |
 | The Backyardigans: Big Backyard Adventure | 326585 | [326585-the-backyardigans-big-backyard-adventure.json](./326585-the-backyardigans-big-backyard-adventure.json) |
+| The Baconing | 2251 | [2251-the-baconing.json](./2251-the-baconing.json) |
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
 | The Bad Son | 192888 | [192888-the-bad-son.json](./192888-the-bad-son.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
@@ -1357,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bar | 119049 | [119049-the-bar.json](./119049-the-bar.json) |
 | The Bar | 256847 | [256847-the-bar.json](./256847-the-bar.json) |
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
+| The Bard's Tale II: The Destiny Knight | 2430 | [2430-the-bards-tale-ii-the-destiny-knight.json](./2430-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale II: The Destiny Knight | 273091 | [273091-the-bards-tale-ii-the-destiny-knight.json](./273091-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale IV: Barrows Deep - Platinum Edition | 102800 | [102800-the-bards-tale-iv-barrows-deep-platinum-edition.json](./102800-the-bards-tale-iv-barrows-deep-platinum-edition.json) |
 | The Bard's Tale IV: Barrows Deep - Premium Edition | 102799 | [102799-the-bards-tale-iv-barrows-deep-premium-edition.json](./102799-the-bards-tale-iv-barrows-deep-premium-edition.json) |
@@ -1917,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
+| The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Elder Scrolls Online: Feast of Shadows | 361156 | [361156-the-elder-scrolls-online-feast-of-shadows.json](./361156-the-elder-scrolls-online-feast-of-shadows.json) |
@@ -2211,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
 | The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
+| The Good Time Garden | 127409 | [127409-the-good-time-garden.json](./127409-the-good-time-garden.json) |
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
 | The Goonies | 41375 | [41375-the-goonies.json](./41375-the-goonies.json) |
 | The Goonies: The Fan Game | 326990 | [326990-the-goonies-the-fan-game.json](./326990-the-goonies-the-fan-game.json) |
@@ -3492,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Silver Case: Deluxe Edition | 51921 | [51921-the-silver-case-deluxe-edition.json](./51921-the-silver-case-deluxe-edition.json) |
 | The Simpsons Game | 2656 | [2656-the-simpsons-game.json](./2656-the-simpsons-game.json) |
+| The Simpsons Skateboarding | 2843 | [2843-the-simpsons-skateboarding.json](./2843-the-simpsons-skateboarding.json) |
 | The Simpsons: Bart's House of Weirdness | 2828 | [2828-the-simpsons-barts-house-of-weirdness.json](./2828-the-simpsons-barts-house-of-weirdness.json) |
 | The Simpsons: Bartman Meets Radioactive Man | 2832 | [2832-the-simpsons-bartman-meets-radioactive-man.json](./2832-the-simpsons-bartman-meets-radioactive-man.json) |
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
@@ -5405,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom & Jerry MMO | 79312 | [79312-tom-and-jerry-mmo.json](./79312-tom-and-jerry-mmo.json) |
 | Tom & Jerry Popper | 47255 | [47255-tom-and-jerry-popper.json](./47255-tom-and-jerry-popper.json) |
 | Tom & Jerry: Yankee Doodle’s Cat-astrophe | 57689 | [57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json](./57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json) |
+| Tom and Jerry in War of the Whiskers | 2650 | [2650-tom-and-jerry-in-war-of-the-whiskers.json](./2650-tom-and-jerry-in-war-of-the-whiskers.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
 | Tom Clancy's Ghost Recon 2 | 1298 | [1298-tom-clancys-ghost-recon-2.json](./1298-tom-clancys-ghost-recon-2.json) |
 | Tom Clancy's Ghost Recon 2: 2007 - First Contact | 77977 | [77977-tom-clancys-ghost-recon-2-2007-first-contact.json](./77977-tom-clancys-ghost-recon-2-2007-first-contact.json) |
@@ -5412,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Ghost Recon Commander | 77976 | [77976-tom-clancys-ghost-recon-commander.json](./77976-tom-clancys-ghost-recon-commander.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deep State | 138783 | [138783-tom-clancys-ghost-recon-breakpoint-deep-state.json](./138783-tom-clancys-ghost-recon-breakpoint-deep-state.json) |
 | Tom Clancy's Ghost Recon: Breakpoint - Deluxe Edition | 173793 | [173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json](./173793-tom-clancys-ghost-recon-breakpoint-deluxe-edition.json) |
+| Tom Clancy's Ghost Recon: Desert Siege | 1295 | [1295-tom-clancys-ghost-recon-desert-siege.json](./1295-tom-clancys-ghost-recon-desert-siege.json) |
 | Tom Clancy's Ghost Recon: Frontline | 174907 | [174907-tom-clancys-ghost-recon-frontline.json](./174907-tom-clancys-ghost-recon-frontline.json) |
 | Tom Clancy's Ghost Recon: Future Soldier | 1293 | [1293-tom-clancys-ghost-recon-future-soldier.json](./1293-tom-clancys-ghost-recon-future-soldier.json) |
 | Tom Clancy's Ghost Recon: Future Soldier - Arctic Strike | 171635 | [171635-tom-clancys-ghost-recon-future-soldier-arctic-strike.json](./171635-tom-clancys-ghost-recon-future-soldier-arctic-strike.json) |
@@ -5453,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy’s The Division - Definitive Edition | 394852 | [394852-tom-clancy-s-the-division-definitive-edition.json](./394852-tom-clancy-s-the-division-definitive-edition.json) |
 | Tom Clancy's The Division 2: Gold Steelbook Edition | 79862 | [79862-tom-clancys-the-division-2-gold-steelbook-edition.json](./79862-tom-clancys-the-division-2-gold-steelbook-edition.json) |
 | Tom Clancy's The Division 2: Warlord of New York - Season 1: Shadow Tide | 217527 | [217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json](./217527-tom-clancys-the-division-2-warlord-of-new-york-season-1-shadow-tide.json) |
+| Tom Clancy's The Division 2: Warlords of New York | 129847 | [129847-tom-clancys-the-division-2-warlords-of-new-york.json](./129847-tom-clancys-the-division-2-warlords-of-new-york.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 10: Price of Power | 217537 | [217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json](./217537-tom-clancys-the-division-2-warlords-of-new-york-season-10-price-of-power.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 11 | 217529 | [217529-tom-clancys-the-division-2-warlords-of-new-york-season-11.json](./217529-tom-clancys-the-division-2-warlords-of-new-york-season-11.json) |
 | Tom Clancy's The Division 2: Warlords of New York - Season 2: Keener's Legacy | 217528 | [217528-tom-clancys-the-division-2-warlords-of-new-york-season-2-keeners-legacy.json](./217528-tom-clancys-the-division-2-warlords-of-new-york-season-2-keeners-legacy.json) |
@@ -6926,6 +6937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
 | Turbo Leaper | 266204 | [266204-turbo-leaper.json](./266204-turbo-leaper.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
+| Turbo OutRun | 2053 | [2053-turbo-outrun.json](./2053-turbo-outrun.json) |
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
 | Turbo Overkill | 172024 | [172024-turbo-overkill.json](./172024-turbo-overkill.json) |
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
