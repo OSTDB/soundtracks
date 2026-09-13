@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.F.O.M.O. | 184084 | [184084-u-f-o-m-o.json](./184084-u-f-o-m-o.json) |
 | U.F.O.s | 94705 | [94705-u-f-o-s.json](./94705-u-f-o-s.json) |
 | U.N. Defense Force: Earth Joker | 40246 | [40246-u-n-defense-force-earth-joker.json](./40246-u-n-defense-force-earth-joker.json) |
+| U.N. Squadron | 1357 | [1357-u-n-squadron.json](./1357-u-n-squadron.json) |
 | U.N.P.O.C. Vessel of Opportunity | 335706 | [335706-u-n-p-o-c-vessel-of-opportunity.json](./335706-u-n-p-o-c-vessel-of-opportunity.json) |
 | U.R.B.A.N The Cyborg Project | 126029 | [126029-u-r-b-a-n-the-cyborg-project.json](./126029-u-r-b-a-n-the-cyborg-project.json) |
 | U.S. Navy Fighters | 79890 | [79890-u-s-navy-fighters.json](./79890-u-s-navy-fighters.json) |
