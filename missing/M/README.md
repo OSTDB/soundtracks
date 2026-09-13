@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Spider-Man 2: Collector's Edition | 272315 | [272315-marvels-spider-man-2-collectors-edition.json](./272315-marvels-spider-man-2-collectors-edition.json) |
 | Marvel's Spider-Man 2: Digital Deluxe Edition | 272508 | [272508-marvels-spider-man-2-digital-deluxe-edition.json](./272508-marvels-spider-man-2-digital-deluxe-edition.json) |
 | Marvel's Spider-Man: Silver Lining | 109422 | [109422-marvels-spider-man-silver-lining.json](./109422-marvels-spider-man-silver-lining.json) |
+| Marvel's Wolverine | 168667 | [168667-marvels-wolverine.json](./168667-marvels-wolverine.json) |
 | Marvellous Inc. | 96638 | [96638-marvellous-inc.json](./96638-marvellous-inc.json) |
 | Marvellous Journeys Bundle | 196282 | [196282-marvellous-journeys-bundle.json](./196282-marvellous-journeys-bundle.json) |
 | Marvelous: Mouhitotsu no Takarajima | 15837 | [15837-marvelous-mouhitotsu-no-takarajima.json](./15837-marvelous-mouhitotsu-no-takarajima.json) |
@@ -2483,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Mindcell | 166159 | [166159-mindcell.json](./166159-mindcell.json) |
+| Mindcop | 137044 | [137044-mindcop.json](./137044-mindcop.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
 | Mindframe: The Secret Design - Collector's Edition | 132778 | [132778-mindframe-the-secret-design-collectors-edition.json](./132778-mindframe-the-secret-design-collectors-edition.json) |
@@ -4133,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Immersive Art | 341345 | [341345-museum-of-immersive-art.json](./341345-museum-of-immersive-art.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Mush Rush: Stock Market Tycoon | 250389 | [250389-mush-rush-stock-market-tycoon.json](./250389-mush-rush-stock-market-tycoon.json) |
+| Mushihimesama | 152398 | [152398-mushihimesama.json](./152398-mushihimesama.json) |
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
@@ -4200,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - 2023 Track Pass | 287113 | [287113-mx-vs-atv-legends-2023-track-pass.json](./287113-mx-vs-atv-legends-2023-track-pass.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | MX vs. ATV: Legends - Season One: Exclusive Box Edition | 252169 | [252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json](./252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json) |
+| MXGP 2020: The Official Motocross Videogame | 139939 | [139939-mxgp-2020-the-official-motocross-videogame.json](./139939-mxgp-2020-the-official-motocross-videogame.json) |
 | MXGP 2021 | 175971 | [175971-mxgp-2021.json](./175971-mxgp-2021.json) |
 | MXGP 24: The Official Game | 323182 | [323182-mxgp-24-the-official-game.json](./323182-mxgp-24-the-official-game.json) |
 | MXGP Pro | 96212 | [96212-mxgp-pro.json](./96212-mxgp-pro.json) |
