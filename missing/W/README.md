@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
+| World Seed Classic | 129736 | [129736-world-seed-classic.json](./129736-world-seed-classic.json) |
 | World Series 1964 | 130864 | [130864-world-series-1964.json](./130864-world-series-1964.json) |
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
 | World Series Major League Baseball | 5711 | [5711-world-series-major-league-baseball.json](./5711-world-series-major-league-baseball.json) |
