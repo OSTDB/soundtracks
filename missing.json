@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T14:48:55.990Z",
-  "total_missing": 66217,
+  "generated_at": "2026-09-13T14:51:32.365Z",
+  "total_missing": 66216,
   "games": [
     {
       "igdb_id": 306086,
@@ -3711,11 +3711,6 @@
       "igdb_id": 24858,
       "game_name": "Action Quest",
       "file": "missing/A/24858-action-quest.json"
-    },
-    {
-      "igdb_id": 193953,
-      "game_name": "Action Toys",
-      "file": "missing/A/193953-action-toys.json"
     },
     {
       "igdb_id": 290686,
