@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenonia | 38725 | [38725-zenonia.json](./38725-zenonia.json) |
 | Zenonia 4 | 38722 | [38722-zenonia-4.json](./38722-zenonia-4.json) |
 | Zenonia 5 | 75155 | [75155-zenonia-5.json](./75155-zenonia-5.json) |
+| Zenses: Rainforest | 21295 | [21295-zenses-rainforest.json](./21295-zenses-rainforest.json) |
 | Zenses: Zen Garden | 75122 | [75122-zenses-zen-garden.json](./75122-zenses-zen-garden.json) |
 | Zenteni | 189100 | [189100-zenteni.json](./189100-zenteni.json) |
 | Zenteni: Create Creatures | 387326 | [387326-zenteni-create-creatures.json](./387326-zenteni-create-creatures.json) |
