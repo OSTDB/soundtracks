@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest Mysteries IV: The Oracle of Ur | 206729 | [206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json](./206729-jewel-quest-mysteries-iv-the-oracle-of-ur.json) |
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
 | Jewel Quest Trilogy | 50633 | [50633-jewel-quest-trilogy.json](./50633-jewel-quest-trilogy.json) |
+| Jewel Quest: Expeditions | 21279 | [21279-jewel-quest-expeditions.json](./21279-jewel-quest-expeditions.json) |
 | Jewel Quest: The Sapphire Dragon | 210021 | [210021-jewel-quest-the-sapphire-dragon.json](./210021-jewel-quest-the-sapphire-dragon.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
 | Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
