@@ -1334,11 +1334,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverMerge: Match 3 Puzzle Game | 290414 | [290414-evermerge-match-3-puzzle-game.json](./290414-evermerge-match-3-puzzle-game.json) |
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
 | Everplast | 191819 | [191819-everplast.json](./191819-everplast.json) |
+| EverQuest II: Age of Discovery | 23830 | [23830-everquest-ii-age-of-discovery.json](./23830-everquest-ii-age-of-discovery.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
 | EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
 | EverQuest II: The Splitpaw Saga | 111025 | [111025-everquest-ii-the-splitpaw-saga.json](./111025-everquest-ii-the-splitpaw-saga.json) |
 | EverQuest Next | 18341 | [18341-everquest-next.json](./18341-everquest-next.json) |
+| EverQuest Online Adventures | 23742 | [23742-everquest-online-adventures.json](./23742-everquest-online-adventures.json) |
 | EverQuest: Seeds of Destruction | 69284 | [69284-everquest-seeds-of-destruction.json](./69284-everquest-seeds-of-destruction.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
 | EverQuest: Torment of Velious | 125475 | [125475-everquest-torment-of-velious.json](./125475-everquest-torment-of-velious.json) |
