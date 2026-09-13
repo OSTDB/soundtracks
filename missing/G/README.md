@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
+| Generation Zero | 65445 | [65445-generation-zero.json](./65445-generation-zero.json) |
 | Generation Zero: Base Support Pack | 234923 | [234923-generation-zero-base-support-pack.json](./234923-generation-zero-base-support-pack.json) |
 | Generation Zero: Base Warfare Starter Bundle | 234937 | [234937-generation-zero-base-warfare-starter-bundle.json](./234937-generation-zero-base-warfare-starter-bundle.json) |
 | Generation Zero: Bikes | 234933 | [234933-generation-zero-bikes.json](./234933-generation-zero-bikes.json) |
@@ -799,6 +800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostly Garden | 146853 | [146853-ghostly-garden.json](./146853-ghostly-garden.json) |
 | Ghostly Matter | 89650 | [89650-ghostly-matter.json](./89650-ghostly-matter.json) |
 | GhosTrick-The Sacred War of Light vs. Shadow | 374075 | [374075-ghostrick-the-sacred-war-of-light-vs-shadow.json](./374075-ghostrick-the-sacred-war-of-light-vs-shadow.json) |
+| Ghostrunner II | 250617 | [250617-ghostrunner-ii.json](./250617-ghostrunner-ii.json) |
 | Ghosts 'n Goblins | 178021 | [178021-ghosts-n-goblins.json](./178021-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts I-IV for Quake | 131580 | [131580-ghosts-i-iv-for-quake.json](./131580-ghosts-i-iv-for-quake.json) |
@@ -1587,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
 | Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
 | Grand Theft Auto III: 10 Year Anniversary Edition | 22930 | [22930-grand-theft-auto-iii-10-year-anniversary-edition.json](./22930-grand-theft-auto-iii-10-year-anniversary-edition.json) |
+| Grand Theft Auto III: The Definitive Edition | 178123 | [178123-grand-theft-auto-iii-the-definitive-edition.json](./178123-grand-theft-auto-iii-the-definitive-edition.json) |
 | Grand Theft Auto Online | 134710 | [134710-grand-theft-auto-online.json](./134710-grand-theft-auto-online.json) |
 | Grand Theft Auto Online: Los Santos Drug Wars | 239053 | [239053-grand-theft-auto-online-los-santos-drug-wars.json](./239053-grand-theft-auto-online-los-santos-drug-wars.json) |
 | Grand Theft Auto Online: Los Santos Tuners | 239051 | [239051-grand-theft-auto-online-los-santos-tuners.json](./239051-grand-theft-auto-online-los-santos-tuners.json) |
@@ -1605,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Liberty City Stories | 309110 | [309110-grand-theft-auto-liberty-city-stories.json](./309110-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Liberty City Stories | 3263 | [3263-grand-theft-auto-liberty-city-stories.json](./3263-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Sindacco Chronicles | 256515 | [256515-grand-theft-auto-sindacco-chronicles.json](./256515-grand-theft-auto-sindacco-chronicles.json) |
+| Grand Theft Auto: Vice City - The Definitive Edition | 178125 | [178125-grand-theft-auto-vice-city-the-definitive-edition.json](./178125-grand-theft-auto-vice-city-the-definitive-edition.json) |
 | Grand Theft Auto: Vice City Stories | 3262 | [3262-grand-theft-auto-vice-city-stories.json](./3262-grand-theft-auto-vice-city-stories.json) |
 | Grand Theft Rome | 193441 | [193441-grand-theft-rome.json](./193441-grand-theft-rome.json) |
 | Grand Tits Adventure | 366233 | [366233-grand-tits-adventure.json](./366233-grand-tits-adventure.json) |
