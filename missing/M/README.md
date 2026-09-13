@@ -649,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
+| Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
@@ -3192,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
 | Monster Hunter Dual Pack | 78626 | [78626-monster-hunter-dual-pack.json](./78626-monster-hunter-dual-pack.json) |
+| Monster Hunter Frontier G | 5316 | [5316-monster-hunter-frontier-g.json](./5316-monster-hunter-frontier-g.json) |
 | Monster Hunter Frontier Online | 7075 | [7075-monster-hunter-frontier-online.json](./7075-monster-hunter-frontier-online.json) |
 | Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
 | Monster Hunter Ltd: Part I | 256821 | [256821-monster-hunter-ltd-part-i.json](./256821-monster-hunter-ltd-part-i.json) |
