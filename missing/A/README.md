@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
+| Aliens Versus Predator: Extinction | 5720 | [5720-aliens-versus-predator-extinction.json](./5720-aliens-versus-predator-extinction.json) |
 | Aliens vs. Predator | 560 | [560-aliens-vs-predator.json](./560-aliens-vs-predator.json) |
 | Aliens vs. Predator Collection | 52587 | [52587-aliens-vs-predator-collection.json](./52587-aliens-vs-predator-collection.json) |
 | Aliens: Colonial Marines | 1021 | [1021-aliens-colonial-marines.json](./1021-aliens-colonial-marines.json) |
@@ -2574,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arena | 326072 | [326072-arena.json](./326072-arena.json) |
 | Arena 2000 | 14265 | [14265-arena-2000.json](./14265-arena-2000.json) |
+| Arena Breakout | 174684 | [174684-arena-breakout.json](./174684-arena-breakout.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
 | Arena Breakout: Season 1 | 318412 | [318412-arena-breakout-season-1.json](./318412-arena-breakout-season-1.json) |
 | Arena Breakout: Season 3 - Enter the Vault | 318415 | [318415-arena-breakout-season-3-enter-the-vault.json](./318415-arena-breakout-season-3-enter-the-vault.json) |
@@ -3123,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Bouncer | 103472 | [103472-astro-bouncer.json](./103472-astro-bouncer.json) |
 | Astro Boy Dash | 58274 | [58274-astro-boy-dash.json](./58274-astro-boy-dash.json) |
 | Astro Boy Flight! | 58276 | [58276-astro-boy-flight.json](./58276-astro-boy-flight.json) |
+| Astro Boy: Omega Factor | 6310 | [6310-astro-boy-omega-factor.json](./6310-astro-boy-omega-factor.json) |
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
