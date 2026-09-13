@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Wolf - Sentry Gun Pack | 156170 | [156170-warhammer-40-000-space-wolf-sentry-gun-pack.json](./156170-warhammer-40-000-space-wolf-sentry-gun-pack.json) |
 | Warhammer 40,000: Space Wolf - Sigurd Ironside | 163387 | [163387-warhammer-40-000-space-wolf-sigurd-ironside.json](./163387-warhammer-40-000-space-wolf-sigurd-ironside.json) |
 | Warhammer 40,000: Squad Command | 18310 | [18310-warhammer-40-000-squad-command.json](./18310-warhammer-40-000-squad-command.json) |
+| Warhammer 40,000: Storm of Vengeance | 9389 | [9389-warhammer-40-000-storm-of-vengeance.json](./9389-warhammer-40-000-storm-of-vengeance.json) |
 | Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
@@ -1702,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World At War 85 Digital | 216481 | [216481-world-at-war-85-digital.json](./216481-world-at-war-85-digital.json) |
 | World at War: Nazi Zombies Remastered | 299137 | [299137-world-at-war-nazi-zombies-remastered.json](./299137-world-at-war-nazi-zombies-remastered.json) |
 | World at War: WW2 Strategy MMO | 141899 | [141899-world-at-war-ww2-strategy-mmo.json](./141899-world-at-war-ww2-strategy-mmo.json) |
+| World Basketball Manager Tycoon | 9365 | [9365-world-basketball-manager-tycoon.json](./9365-world-basketball-manager-tycoon.json) |
 | World Beast War | 138230 | [138230-world-beast-war.json](./138230-world-beast-war.json) |
 | World Bowling | 49005 | [49005-world-bowling.json](./49005-world-bowling.json) |
 | World Boxing | 48599 | [48599-world-boxing.json](./48599-world-boxing.json) |
@@ -1890,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Aria | 211944 | [211944-worlds-of-aria.json](./211944-worlds-of-aria.json) |
 | Worlds of Billy 2 | 205831 | [205831-worlds-of-billy-2.json](./205831-worlds-of-billy-2.json) |
 | Worlds of Legend: Son of the Empire | 71521 | [71521-worlds-of-legend-son-of-the-empire.json](./71521-worlds-of-legend-son-of-the-empire.json) |
+| Worlds of Magic | 9336 | [9336-worlds-of-magic.json](./9336-worlds-of-magic.json) |
 | WorldShards | 224584 | [224584-worldshards.json](./224584-worldshards.json) |
 | Worldy Cup | 31854 | [31854-worldy-cup.json](./31854-worldy-cup.json) |
 | Worm AR | 234597 | [234597-worm-ar.json](./234597-worm-ar.json) |
@@ -1949,12 +1952,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
 | Wrath of the Arcane Realms | 387377 | [387377-wrath-of-the-arcane-realms.json](./387377-wrath-of-the-arcane-realms.json) |
 | Wrath of the Demon | 12832 | [12832-wrath-of-the-demon.json](./12832-wrath-of-the-demon.json) |
+| WRC 2: FIA World Rally Championship | 9393 | [9393-wrc-2-fia-world-rally-championship.json](./9393-wrc-2-fia-world-rally-championship.json) |
 | WRC 2: FIA World Rally Championship 2011 | 51296 | [51296-wrc-2-fia-world-rally-championship-2011.json](./51296-wrc-2-fia-world-rally-championship-2011.json) |
 | WRC 4 FIA World Rally Championship | 3089 | [3089-wrc-4-fia-world-rally-championship.json](./3089-wrc-4-fia-world-rally-championship.json) |
 | WRC 8: Deluxe Edition | 216231 | [216231-wrc-8-deluxe-edition.json](./216231-wrc-8-deluxe-edition.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
 | Wrecked: A Psychedelic Adventure | 265952 | [265952-wrecked-a-psychedelic-adventure.json](./265952-wrecked-a-psychedelic-adventure.json) |
 | Wrecked: Get Your Ship Together | 28805 | [28805-wrecked-get-your-ship-together.json](./28805-wrecked-get-your-ship-together.json) |
+| Wrecked: Revenge Revisited | 9863 | [9863-wrecked-revenge-revisited.json](./9863-wrecked-revenge-revisited.json) |
 | Wreckers | 94670 | [94670-wreckers.json](./94670-wreckers.json) |
 | Wreckfest: American All-Stars Car Pack | 223692 | [223692-wreckfest-american-all-stars-car-pack.json](./223692-wreckfest-american-all-stars-car-pack.json) |
 | Wreckfest: Backwoods Bangers Car Pack | 223693 | [223693-wreckfest-backwoods-bangers-car-pack.json](./223693-wreckfest-backwoods-bangers-car-pack.json) |
