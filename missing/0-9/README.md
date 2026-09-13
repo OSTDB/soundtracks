@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//Z.E.R.O. | 390544 | [390544-hack-z-e-r-o.json](./390544-hack-z-e-r-o.json) |
 | .kkrieger: Chapter 1 | 94683 | [94683-kkrieger-chapter-1.json](./94683-kkrieger-chapter-1.json) |
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
+| 'Allo 'Allo! Cartoon Fun! | 14249 | [14249-allo-allo-cartoon-fun.json](./14249-allo-allo-cartoon-fun.json) |
 | 'Round The Mind | 265687 | [265687-round-the-mind.json](./265687-round-the-mind.json) |
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | "Hello, world." | 130306 | [130306-hello-world.json](./130306-hello-world.json) |
