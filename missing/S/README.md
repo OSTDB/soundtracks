@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
 | Safety Driving - The Motorbike Simulation | 54351 | [54351-safety-driving-the-motorbike-simulation.json](./54351-safety-driving-the-motorbike-simulation.json) |
+| Safety Driving: The Safety Simulation - Car | 10804 | [10804-safety-driving-the-safety-simulation-car.json](./10804-safety-driving-the-safety-simulation-car.json) |
 | Safety First! | 32189 | [32189-safety-first.json](./32189-safety-first.json) |
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
@@ -340,7 +341,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
+| Sanctum 2: Road to Elysion | 10806 | [10806-sanctum-2-road-to-elysion.json](./10806-sanctum-2-road-to-elysion.json) |
+| Sanctum 2: Ruins of Brightholme | 10807 | [10807-sanctum-2-ruins-of-brightholme.json](./10807-sanctum-2-ruins-of-brightholme.json) |
+| Sanctum 2: The Last Stand | 10808 | [10808-sanctum-2-the-last-stand.json](./10808-sanctum-2-the-last-stand.json) |
+| Sanctum 2: The Pursuit | 10809 | [10809-sanctum-2-the-pursuit.json](./10809-sanctum-2-the-pursuit.json) |
 | Sanctum Breach | 122977 | [122977-sanctum-breach.json](./122977-sanctum-breach.json) |
+| Sanctum: Cavern | 10810 | [10810-sanctum-cavern.json](./10810-sanctum-cavern.json) |
 | Sanctum: Map Pack 2 | 225076 | [225076-sanctum-map-pack-2.json](./225076-sanctum-map-pack-2.json) |
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
@@ -528,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
+| Save the Furries | 10813 | [10813-save-the-furries.json](./10813-save-the-furries.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
 | Save the Pixels | 112306 | [112306-save-the-pixels.json](./112306-save-the-pixels.json) |
@@ -1373,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
 | Shades of Manhattan 2 | 182453 | [182453-shades-of-manhattan-2.json](./182453-shades-of-manhattan-2.json) |
 | Shades: Shadow Fight Roguelike | 300698 | [300698-shades-shadow-fight-roguelike.json](./300698-shades-shadow-fight-roguelike.json) |
+| ShadO | 10820 | [10820-shado.json](./10820-shado.json) |
 | Shadow | 324309 | [324309-shadow.json](./324309-shadow.json) |
 | Shadow Among Nove | 297218 | [297218-shadow-among-nove.json](./297218-shadow-among-nove.json) |
 | Shadow and Bone: Enter the Fold | 204448 | [204448-shadow-and-bone-enter-the-fold.json](./204448-shadow-and-bone-enter-the-fold.json) |
@@ -1487,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Empires | 227268 | [227268-shadows-of-empires.json](./227268-shadows-of-empires.json) |
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
 | Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
+| Shadows of Mordor: Game two of Lord of the Rings | 10799 | [10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json](./10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
 | Shadows of Steam | 328499 | [328499-shadows-of-steam.json](./328499-shadows-of-steam.json) |
 | Shadows of the Damned | 264883 | [264883-shadows-of-the-damned.json](./264883-shadows-of-the-damned.json) |
@@ -1526,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: We the Girls | 225671 | [225671-shall-we-date-we-the-girls.json](./225671-shall-we-date-we-the-girls.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
+| Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
@@ -1613,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharp Shot | 5696 | [5696-sharp-shot.json](./5696-sharp-shot.json) |
 | Sharp Trigger | 349845 | [349845-sharp-trigger.json](./349845-sharp-trigger.json) |
 | Sharp Trouble | 192938 | [192938-sharp-trouble.json](./192938-sharp-trouble.json) |
+| Sharpe Investigations: Death on the Seine | 10822 | [10822-sharpe-investigations-death-on-the-seine.json](./10822-sharpe-investigations-death-on-the-seine.json) |
 | Sharper Minds: Brain Games | 255724 | [255724-sharper-minds-brain-games.json](./255724-sharper-minds-brain-games.json) |
 | SharpShooter3D | 336568 | [336568-sharpshooter3d.json](./336568-sharpshooter3d.json) |
 | Shashingo: Learn Japanese with Photography - Additional Camera Filters | 298044 | [298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json](./298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json) |
@@ -1844,6 +1855,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Sim 2020 | 146819 | [146819-ship-sim-2020.json](./146819-ship-sim-2020.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
 | Ship Simulator 2008: Collector's Edition | 54390 | [54390-ship-simulator-2008-collectors-edition.json](./54390-ship-simulator-2008-collectors-edition.json) |
+| Ship Simulator Extremes: Cargo Vessel | 10824 | [10824-ship-simulator-extremes-cargo-vessel.json](./10824-ship-simulator-extremes-cargo-vessel.json) |
+| Ship Simulator Extremes: Cargo Vessel | 10825 | [10825-ship-simulator-extremes-cargo-vessel.json](./10825-ship-simulator-extremes-cargo-vessel.json) |
+| Ship Simulator Extremes: Ferry Pack | 10826 | [10826-ship-simulator-extremes-ferry-pack.json](./10826-ship-simulator-extremes-ferry-pack.json) |
+| Ship Simulator Extremes: Inland Shipping | 10830 | [10830-ship-simulator-extremes-inland-shipping.json](./10830-ship-simulator-extremes-inland-shipping.json) |
+| Ship Simulator Extremes: Ocean Cruise Ship | 10827 | [10827-ship-simulator-extremes-ocean-cruise-ship.json](./10827-ship-simulator-extremes-ocean-cruise-ship.json) |
+| Ship Simulator Extremes: Offshore Vessel | 10828 | [10828-ship-simulator-extremes-offshore-vessel.json](./10828-ship-simulator-extremes-offshore-vessel.json) |
+| Ship Simulator Extremes: Sigita Pack | 10829 | [10829-ship-simulator-extremes-sigita-pack.json](./10829-ship-simulator-extremes-sigita-pack.json) |
 | ShipLord | 19326 | [19326-shiplord.json](./19326-shiplord.json) |
 | ShipRect | 212797 | [212797-shiprect.json](./212797-shiprect.json) |
 | Ships 3D | 321755 | [321755-ships-3d.json](./321755-ships-3d.json) |
@@ -2415,7 +2433,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner | 291249 | [291249-sinner.json](./291249-sinner.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
+| Sins of a Solar Empire: Rebellion - Forbidden Worlds | 10868 | [10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json](./10868-sins-of-a-solar-empire-rebellion-forbidden-worlds.json) |
 | Sins of a Solar Empire: Rebellion - Outlaw Sectors | 51908 | [51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json](./51908-sins-of-a-solar-empire-rebellion-outlaw-sectors.json) |
+| Sins of a Solar Empire: Rebellion - Stellar Phenomena | 10869 | [10869-sins-of-a-solar-empire-rebellion-stellar-phenomena.json](./10869-sins-of-a-solar-empire-rebellion-stellar-phenomena.json) |
 | Sins of a Solar Empire: Rebellion Ultimate Edition | 51907 | [51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json](./51907-sins-of-a-solar-empire-rebellion-ultimate-edition.json) |
 | Sins Of Kaleido | 276733 | [276733-sins-of-kaleido.json](./276733-sins-of-kaleido.json) |
 | Sinsations 2: Modern Gods | 332432 | [332432-sinsations-2-modern-gods.json](./332432-sinsations-2-modern-gods.json) |
@@ -2480,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skaphander: Der Auftrag | 98972 | [98972-skaphander-der-auftrag.json](./98972-skaphander-der-auftrag.json) |
 | Skapon Tanken-tai: The Enchanted Hunters | 66127 | [66127-skapon-tanken-tai-the-enchanted-hunters.json](./66127-skapon-tanken-tai-the-enchanted-hunters.json) |
 | Skapp | 140596 | [140596-skapp.json](./140596-skapp.json) |
+| Skara | 10833 | [10833-skara.json](./10833-skara.json) |
 | Skara: The Blade Remains | 14379 | [14379-skara-the-blade-remains.json](./14379-skara-the-blade-remains.json) |
 | Skaramazuzu | 217029 | [217029-skaramazuzu.json](./217029-skaramazuzu.json) |
 | Skarbnik | 92968 | [92968-skarbnik.json](./92968-skarbnik.json) |
@@ -2685,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyvern | 350422 | [350422-skyvern.json](./350422-skyvern.json) |
 | Skyward | 117099 | [117099-skyward.json](./117099-skyward.json) |
 | Skyward | 193447 | [193447-skyward.json](./193447-skyward.json) |
+| Skyward Collapse: Nihon no Mura | 10871 | [10871-skyward-collapse-nihon-no-mura.json](./10871-skyward-collapse-nihon-no-mura.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Slag | 70398 | [70398-slag.json](./70398-slag.json) |
 | Sláine: The Celtic Barbarian | 53163 | [53163-slaine-the-celtic-barbarian.json](./53163-slaine-the-celtic-barbarian.json) |
@@ -2988,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
 | Smashbreak | 208959 | [208959-smashbreak.json](./208959-smashbreak.json) |
+| Smashcat | 10835 | [10835-smashcat.json](./10835-smashcat.json) |
 | Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
 | Smashing Drive | 2743 | [2743-smashing-drive.json](./2743-smashing-drive.json) |
@@ -3180,8 +3203,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 5: Up Close and Personal Weapon & Skin Pack | 307282 | [307282-sniper-elite-5-up-close-and-personal-weapon-and-skin-pack.json](./307282-sniper-elite-5-up-close-and-personal-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Valentine's Weapon Skin Pack | 307279 | [307279-sniper-elite-5-valentines-weapon-skin-pack.json](./307279-sniper-elite-5-valentines-weapon-skin-pack.json) |
 | Sniper Elite 5: Winter Weapons Skin Pack | 307281 | [307281-sniper-elite-5-winter-weapons-skin-pack.json](./307281-sniper-elite-5-winter-weapons-skin-pack.json) |
+| Sniper Elite III: Save Churchill Part 2 - Belly of the Beast | 10874 | [10874-sniper-elite-iii-save-churchill-part-2-belly-of-the-beast.json](./10874-sniper-elite-iii-save-churchill-part-2-belly-of-the-beast.json) |
+| Sniper Elite III: Save Churchill Part 3 - Confrontation | 10875 | [10875-sniper-elite-iii-save-churchill-part-3-confrontation.json](./10875-sniper-elite-iii-save-churchill-part-3-confrontation.json) |
+| Sniper Elite III: Target Hitler - Hunt the Grey Wolf | 10876 | [10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json](./10876-sniper-elite-iii-target-hitler-hunt-the-grey-wolf.json) |
 | Sniper Elite V2 | 3078 | [3078-sniper-elite-v2.json](./3078-sniper-elite-v2.json) |
 | Sniper Elite V2: Game of the Year Edition | 44654 | [44654-sniper-elite-v2-game-of-the-year-edition.json](./44654-sniper-elite-v2-game-of-the-year-edition.json) |
+| Sniper Elite V2: Kill Hitler | 10878 | [10878-sniper-elite-v2-kill-hitler.json](./10878-sniper-elite-v2-kill-hitler.json) |
+| Sniper Elite V2: The Landwehr Canal | 10879 | [10879-sniper-elite-v2-the-landwehr-canal.json](./10879-sniper-elite-v2-the-landwehr-canal.json) |
 | Sniper Ghost Warrior Contracts 2 | 138980 | [138980-sniper-ghost-warrior-contracts-2.json](./138980-sniper-ghost-warrior-contracts-2.json) |
 | Sniper Ghost Warrior Contracts 2: Butcher's Banquet | 159362 | [159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json](./159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json) |
 | Sniper Ghost Warrior Contracts 2: Complete Edition | 197352 | [197352-sniper-ghost-warrior-contracts-2-complete-edition.json](./197352-sniper-ghost-warrior-contracts-2-complete-edition.json) |
@@ -5740,6 +5768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Area 51: The Game | 120982 | [120982-storm-area-51-the-game.json](./120982-storm-area-51-the-game.json) |
 | Storm Arena | 114425 | [114425-storm-arena.json](./114425-storm-arena.json) |
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
+| Storm Master | 10853 | [10853-storm-master.json](./10853-storm-master.json) |
 | Storm of Darkness | 233500 | [233500-storm-of-darkness.json](./233500-storm-of-darkness.json) |
 | Storm of Jigsaw Puzzles | 109654 | [109654-storm-of-jigsaw-puzzles.json](./109654-storm-of-jigsaw-puzzles.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
