@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
+| Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
 | KORG Gadget | 77537 | [77537-korg-gadget.json](./77537-korg-gadget.json) |
 | Kori DRoP | 234591 | [234591-kori-drop.json](./234591-kori-drop.json) |
 | Kori's Fable Visual Novel | 232442 | [232442-koris-fable-visual-novel.json](./232442-koris-fable-visual-novel.json) |
