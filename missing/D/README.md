@@ -126,7 +126,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned Cold | 30775 | [30775-damned-cold.json](./30775-damned-cold.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Damnview: Built From Nothing | 107269 | [107269-damnview-built-from-nothing.json](./107269-damnview-built-from-nothing.json) |
+| Damocles | 15501 | [15501-damocles.json](./15501-damocles.json) |
 | Damocles Gaze | 172666 | [172666-damocles-gaze.json](./172666-damocles-gaze.json) |
+| Damocles: Mission Disk 1 | 15502 | [15502-damocles-mission-disk-1.json](./15502-damocles-mission-disk-1.json) |
 | Damon and Baby: Deluxe Edition | 390527 | [390527-damon-and-baby-deluxe-edition.json](./390527-damon-and-baby-deluxe-edition.json) |
 | Damoria | 196273 | [196273-damoria.json](./196273-damoria.json) |
 | Damper/Glooper | 319577 | [319577-damper-glooper.json](./319577-damper-glooper.json) |
@@ -1002,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
 | Deep Space: Lost Battleship | 200142 | [200142-deep-space-lost-battleship.json](./200142-deep-space-lost-battleship.json) |
+| Deep Space: Operation Copernicus | 15513 | [15513-deep-space-operation-copernicus.json](./15513-deep-space-operation-copernicus.json) |
 | Deep Stories Bundle | 218689 | [218689-deep-stories-bundle.json](./218689-deep-stories-bundle.json) |
 | Deep the Game: The Darkest Cave | 169957 | [169957-deep-the-game-the-darkest-cave.json](./169957-deep-the-game-the-darkest-cave.json) |
 | Deep Voyage | 96040 | [96040-deep-voyage.json](./96040-deep-voyage.json) |
@@ -2249,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogotchi: Virtual Pet - Deluxe Edition | 256265 | [256265-dogotchi-virtual-pet-deluxe-edition.json](./256265-dogotchi-virtual-pet-deluxe-edition.json) |
 | Dogs of the Dark | 265678 | [265678-dogs-of-the-dark.json](./265678-dogs-of-the-dark.json) |
 | Dogs of Wallstreet | 197925 | [197925-dogs-of-wallstreet.json](./197925-dogs-of-wallstreet.json) |
+| Dogs of War Online | 15391 | [15391-dogs-of-war-online.json](./15391-dogs-of-war-online.json) |
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
 | DogStation | 59441 | [59441-dogstation.json](./59441-dogstation.json) |
@@ -2720,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
 | Dr. Seuss Preschool | 63273 | [63273-dr-seuss-preschool.json](./63273-dr-seuss-preschool.json) |
 | Dr. Seuss Toddler | 63271 | [63271-dr-seuss-toddler.json](./63271-dr-seuss-toddler.json) |
+| Dr. Seuss: How the Grinch Stole Christmas! | 15489 | [15489-dr-seuss-how-the-grinch-stole-christmas.json](./15489-dr-seuss-how-the-grinch-stole-christmas.json) |
 | Dr. Seuss': The Cat in the Hat | 5814 | [5814-dr-seuss-the-cat-in-the-hat.json](./5814-dr-seuss-the-cat-in-the-hat.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Trolley's Problem | 117072 | [117072-dr-trolleys-problem.json](./117072-dr-trolleys-problem.json) |
