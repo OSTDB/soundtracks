@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laxy Bro | 61037 | [61037-laxy-bro.json](./61037-laxy-bro.json) |
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
+| Layer Section & Galactic Attack: S-Tribute | 199159 | [199159-layer-section-and-galactic-attack-s-tribute.json](./199159-layer-section-and-galactic-attack-s-tribute.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
 | Layers of Fear | 204363 | [204363-layers-of-fear.json](./204363-layers-of-fear.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
@@ -762,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Incollables CE1-CE2 | 269834 | [269834-les-incollables-ce1-ce2.json](./269834-les-incollables-ce1-ce2.json) |
 | Les Manley in: Lost in L.A. | 72090 | [72090-les-manley-in-lost-in-l-a.json](./72090-les-manley-in-lost-in-l-a.json) |
 | Les Manley in: Search for the King | 73837 | [73837-les-manley-in-search-for-the-king.json](./73837-les-manley-in-search-for-the-king.json) |
+| Les Mills XR Bodycombat | 204582 | [204582-les-mills-xr-bodycombat.json](./204582-les-mills-xr-bodycombat.json) |
 | Les Mills XR Bodycombat: Never Surrender | 352208 | [352208-les-mills-xr-bodycombat-never-surrender.json](./352208-les-mills-xr-bodycombat-never-surrender.json) |
 | Les Mills XR Bodycombat: Power Strike | 352211 | [352211-les-mills-xr-bodycombat-power-strike.json](./352211-les-mills-xr-bodycombat-power-strike.json) |
 | Les Portes du Temps | 86023 | [86023-les-portes-du-temps.json](./86023-les-portes-du-temps.json) |
@@ -1164,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linggango | 383935 | [383935-linggango.json](./383935-linggango.json) |
 | Língjiè Zhànxiàn | 127189 | [127189-lingjie-zhanxian.json](./127189-lingjie-zhanxian.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
+| Lingo Legend | 198258 | [198258-lingo-legend.json](./198258-lingo-legend.json) |
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
 | Lingua Franca | 371920 | [371920-lingua-franca.json](./371920-lingua-franca.json) |
 | Língwén Xīyóu | 106558 | [106558-lingwen-xiyou.json](./106558-lingwen-xiyou.json) |
@@ -1248,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Cheese Works | 263193 | [263193-little-cheese-works.json](./263193-little-cheese-works.json) |
 | Little Chick | 157165 | [157165-little-chick.json](./157165-little-chick.json) |
 | Little Children's Educational Swanky Puzzles Game | 97308 | [97308-little-childrens-educational-swanky-puzzles-game.json](./97308-little-childrens-educational-swanky-puzzles-game.json) |
+| Little Cities | 201654 | [201654-little-cities.json](./201654-little-cities.json) |
 | Little City | 9544 | [9544-little-city.json](./9544-little-city.json) |
 | Little Corners | 353890 | [353890-little-corners.json](./353890-little-corners.json) |
 | Little Critters 2 | 305179 | [305179-little-critters-2.json](./305179-little-critters-2.json) |
@@ -1299,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Mouse's Encyclopedia + Brawl Chess | 199638 | [199638-little-mouses-encyclopedia-brawl-chess.json](./199638-little-mouses-encyclopedia-brawl-chess.json) |
 | Little Mouse's Encyclopedia + Under Leaves | 188099 | [188099-little-mouses-encyclopedia-under-leaves.json](./188099-little-mouses-encyclopedia-under-leaves.json) |
 | Little Mouse's Encyclopedia: Complete Edition | 241398 | [241398-little-mouses-encyclopedia-complete-edition.json](./241398-little-mouses-encyclopedia-complete-edition.json) |
+| Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
 | Little Nightmares II: Deluxe Edition | 154511 | [154511-little-nightmares-ii-deluxe-edition.json](./154511-little-nightmares-ii-deluxe-edition.json) |
 | Little Nightmares III: Klonoa Costumes Set | 375186 | [375186-little-nightmares-iii-klonoa-costumes-set.json](./375186-little-nightmares-iii-klonoa-costumes-set.json) |
@@ -1534,6 +1539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
 | Lone Eagle: Colombian Encounter | 73762 | [73762-lone-eagle-colombian-encounter.json](./73762-lone-eagle-colombian-encounter.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
+| Lone Ruin | 204013 | [204013-lone-ruin.json](./204013-lone-ruin.json) |
 | Lone Wolf Saga | 273956 | [273956-lone-wolf-saga.json](./273956-lone-wolf-saga.json) |
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
 | Loneliness Butterfly | 314074 | [314074-loneliness-butterfly.json](./314074-loneliness-butterfly.json) |
