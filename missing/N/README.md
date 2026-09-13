@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 19 Companion | 108456 | [108456-nba-live-19-companion.json](./108456-nba-live-19-companion.json) |
 | NBA Live 19: The One Edition | 118944 | [118944-nba-live-19-the-one-edition.json](./118944-nba-live-19-the-one-edition.json) |
 | NBA Live 2000 | 264855 | [264855-nba-live-2000.json](./264855-nba-live-2000.json) |
+| NBA Live 2003 | 808 | [808-nba-live-2003.json](./808-nba-live-2003.json) |
 | NBA Maximum Hangtime | 39596 | [39596-nba-maximum-hangtime.json](./39596-nba-maximum-hangtime.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
@@ -862,13 +863,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NGT: Next Generation Tennis | 49320 | [49320-ngt-next-generation-tennis.json](./49320-ngt-next-generation-tennis.json) |
 | NHK Kouhaku Quiz Kassen | 67280 | [67280-nhk-kouhaku-quiz-kassen.json](./67280-nhk-kouhaku-quiz-kassen.json) |
 | NHL 07 | 5964 | [5964-nhl-07.json](./5964-nhl-07.json) |
+| NHL 10 | 953 | [953-nhl-10.json](./953-nhl-10.json) |
 | NHL 18 | 36847 | [36847-nhl-18.json](./36847-nhl-18.json) |
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
 | NHL 2000 | 813 | [813-nhl-2000.json](./813-nhl-2000.json) |
 | NHL 2001 | 814 | [814-nhl-2001.json](./814-nhl-2001.json) |
+| NHL 2002 | 815 | [815-nhl-2002.json](./815-nhl-2002.json) |
 | NHL 27 | 408771 | [408771-nhl-27.json](./408771-nhl-27.json) |
 | NHL 2K2 | 8840 | [8840-nhl-2k2.json](./8840-nhl-2k2.json) |
 | NHL 2K3 | 4045 | [4045-nhl-2k3.json](./4045-nhl-2k3.json) |
+| NHL 96 | 11650 | [11650-nhl-96.json](./11650-nhl-96.json) |
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL Stanley Cup | 42655 | [42655-nhl-stanley-cup.json](./42655-nhl-stanley-cup.json) |
 | NHRA Championship Drag Racing: Speed for All - Deluxe Edition | 214728 | [214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json](./214728-nhra-championship-drag-racing-speed-for-all-deluxe-edition.json) |
