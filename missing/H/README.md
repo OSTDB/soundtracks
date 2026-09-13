@@ -1538,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek | 275354 | [275354-hide-and-seek.json](./275354-hide-and-seek.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
+| Hide The Corpse | 306936 | [306936-hide-the-corpse.json](./306936-hide-the-corpse.json) |
 | Hide Time: Chapter 2 | 248911 | [248911-hide-time-chapter-2.json](./248911-hide-time-chapter-2.json) |
 | Hide vs. Seek | 28942 | [28942-hide-vs-seek.json](./28942-hide-vs-seek.json) |
 | Hide vs. Seek! | 378808 | [378808-hide-vs-seek.json](./378808-hide-vs-seek.json) |
@@ -2198,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Tin Roof: The Cat That Wore a Fedora | 26875 | [26875-hot-tin-roof-the-cat-that-wore-a-fedora.json](./26875-hot-tin-roof-the-cat-that-wore-a-fedora.json) |
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
 | Hot Wave | 40780 | [40780-hot-wave.json](./40780-hot-wave.json) |
+| Hot Wheels Monster Trucks: Stunt Mayhem | 313494 | [313494-hot-wheels-monster-trucks-stunt-mayhem.json](./313494-hot-wheels-monster-trucks-stunt-mayhem.json) |
 | Hot Wheels Slot Car Racing | 100125 | [100125-hot-wheels-slot-car-racing.json](./100125-hot-wheels-slot-car-racing.json) |
 | Hot Wheels Turbo Racing | 3371 | [3371-hot-wheels-turbo-racing.json](./3371-hot-wheels-turbo-racing.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
