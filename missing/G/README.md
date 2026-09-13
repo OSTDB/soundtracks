@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GalaCollider | 58770 | [58770-galacollider.json](./58770-galacollider.json) |
 | Galactea | 310973 | [310973-galactea.json](./310973-galactea.json) |
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
+| Galactic Assault: Prisoner of Power | 9375 | [9375-galactic-assault-prisoner-of-power.json](./9375-galactic-assault-prisoner-of-power.json) |
 | Galactic Attack | 24897 | [24897-galactic-attack.json](./24897-galactic-attack.json) |
 | Galactic Attack | 81439 | [81439-galactic-attack.json](./81439-galactic-attack.json) |
 | Galactic Bar Fight VR | 198447 | [198447-galactic-bar-fight-vr.json](./198447-galactic-bar-fight-vr.json) |
