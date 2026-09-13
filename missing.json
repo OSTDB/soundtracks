@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T13:48:45.895Z",
-  "total_missing": 66098,
+  "generated_at": "2026-09-13T13:51:35.200Z",
+  "total_missing": 66097,
   "games": [
     {
       "igdb_id": 306086,
@@ -3681,11 +3681,6 @@
       "igdb_id": 288744,
       "game_name": "Action Fubuki",
       "file": "missing/A/288744-action-fubuki.json"
-    },
-    {
-      "igdb_id": 231074,
-      "game_name": "Action Games Bundle (5 in 1)",
-      "file": "missing/A/231074-action-games-bundle-5-in-1.json"
     },
     {
       "igdb_id": 14550,
