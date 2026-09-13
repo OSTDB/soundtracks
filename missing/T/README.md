@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
+| The Awesome Adventures of Captain Spirit | 103283 | [103283-the-awesome-adventures-of-captain-spirit.json](./103283-the-awesome-adventures-of-captain-spirit.json) |
 | The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula | 72098 | [72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json](./72098-the-awesome-adventures-of-victor-vector-and-yondo-the-cyberplasm-formula.json) |
 | The Axolotl Project | 60022 | [60022-the-axolotl-project.json](./60022-the-axolotl-project.json) |
 | The Backrooms | 221748 | [221748-the-backrooms.json](./221748-the-backrooms.json) |
@@ -4179,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
 | Them: The Summoning | 10957 | [10957-them-the-summoning.json](./10957-them-the-summoning.json) |
 | TheMahjong | 317875 | [317875-themahjong.json](./317875-themahjong.json) |
+| Theme Hospital | 1624 | [1624-theme-hospital.json](./1624-theme-hospital.json) |
 | Theme Hotel | 185634 | [185634-theme-hotel.json](./185634-theme-hotel.json) |
 | Theme Park Roller Coaster | 43273 | [43273-theme-park-roller-coaster.json](./43273-theme-park-roller-coaster.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
