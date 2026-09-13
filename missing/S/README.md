@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
 | Sexy Beach | 22419 | [22419-sexy-beach.json](./22419-sexy-beach.json) |
 | Sexy Beach 2 | 22421 | [22421-sexy-beach-2.json](./22421-sexy-beach-2.json) |
+| Sexy Beach 3 | 22422 | [22422-sexy-beach-3.json](./22422-sexy-beach-3.json) |
 | Sexy Beach 3 Plus | 22463 | [22463-sexy-beach-3-plus.json](./22463-sexy-beach-3-plus.json) |
 | Sexy Beach Zero | 22423 | [22423-sexy-beach-zero.json](./22423-sexy-beach-zero.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
@@ -1813,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
 | Shin Megami Tensei: Devil Summoner - Soul Hackers | 281414 | [281414-shin-megami-tensei-devil-summoner-soul-hackers.json](./281414-shin-megami-tensei-devil-summoner-soul-hackers.json) |
+| Shin Megami Tensei: Devil Survivor Overclocked | 19131 | [19131-shin-megami-tensei-devil-survivor-overclocked.json](./19131-shin-megami-tensei-devil-survivor-overclocked.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
 | Shin Megami Tensei: Digital Devil Saga - Deluxe Box Set | 382184 | [382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json](./382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json) |
 | Shin Megami Tensei: Digital Devil Saga 2 | 18229 | [18229-shin-megami-tensei-digital-devil-saga-2.json](./18229-shin-megami-tensei-digital-devil-saga-2.json) |
@@ -2298,6 +2300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
 | SimCity 2000 Urban Renewal Kit | 130907 | [130907-simcity-2000-urban-renewal-kit.json](./130907-simcity-2000-urban-renewal-kit.json) |
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
+| SimCity BuildIt | 20053 | [20053-simcity-buildit.json](./20053-simcity-buildit.json) |
 | SimCity Creator | 343813 | [343813-simcity-creator.json](./343813-simcity-creator.json) |
 | SimCity DS | 1494 | [1494-simcity-ds.json](./1494-simcity-ds.json) |
 | SimCity Graphics Set 1: Ancient Cities | 84170 | [84170-simcity-graphics-set-1-ancient-cities.json](./84170-simcity-graphics-set-1-ancient-cities.json) |
@@ -4302,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
 | Space Ranger: Return to Earth | 45907 | [45907-space-ranger-return-to-earth.json](./45907-space-ranger-return-to-earth.json) |
+| Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
 | Space Rescue: Code Pink | 169417 | [169417-space-rescue-code-pink.json](./169417-space-rescue-code-pink.json) |
@@ -4767,6 +4771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatformer | 191166 | [191166-splatformer.json](./191166-splatformer.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
 | Splatterhouse | 6929 | [6929-splatterhouse.json](./6929-splatterhouse.json) |
+| Splatterhouse | 7191 | [7191-splatterhouse.json](./7191-splatterhouse.json) |
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
 | Spleef Game | 264025 | [264025-spleef-game.json](./264025-spleef-game.json) |
 | Splendor Blast | 40164 | [40164-splendor-blast.json](./40164-splendor-blast.json) |
@@ -6871,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: Revenge of Bowser | 250056 | [250056-super-mario-bros-revenge-of-bowser.json](./250056-super-mario-bros-revenge-of-bowser.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
 | Super Mario Bros. + | 316417 | [316417-super-mario-bros.json](./316417-super-mario-bros.json) |
+| Super Mario Bros. 2 | 222098 | [222098-super-mario-bros-2.json](./222098-super-mario-bros-2.json) |
 | Super Mario Bros. 2 Deluxe | 321172 | [321172-super-mario-bros-2-deluxe.json](./321172-super-mario-bros-2-deluxe.json) |
 | Super Mario Bros. 3 | 158723 | [158723-super-mario-bros-3.json](./158723-super-mario-bros-3.json) |
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
