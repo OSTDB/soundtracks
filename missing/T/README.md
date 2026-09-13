@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bad Gravedigger | 104073 | [104073-the-bad-gravedigger.json](./104073-the-bad-gravedigger.json) |
 | The Bad Son | 192888 | [192888-the-bad-son.json](./192888-the-bad-son.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
+| The Ball | 9402 | [9402-the-ball.json](./9402-the-ball.json) |
 | The Ball Adventure | 148535 | [148535-the-ball-adventure.json](./148535-the-ball-adventure.json) |
 | The Ball Flow: Nature and Light | 199597 | [199597-the-ball-flow-nature-and-light.json](./199597-the-ball-flow-nature-and-light.json) |
 | The Ball of the Rings | 176480 | [176480-the-ball-of-the-rings.json](./176480-the-ball-of-the-rings.json) |
@@ -1980,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escapists: Duct Tapes Are Forever | 51927 | [51927-the-escapists-duct-tapes-are-forever.json](./51927-the-escapists-duct-tapes-are-forever.json) |
 | The Escapists: Escape Team | 51926 | [51926-the-escapists-escape-team.json](./51926-the-escapists-escape-team.json) |
 | The Escapists: Fhurst Peak Correctional Facility | 51925 | [51925-the-escapists-fhurst-peak-correctional-facility.json](./51925-the-escapists-fhurst-peak-correctional-facility.json) |
+| The Escapists: The Walking Dead | 11744 | [11744-the-escapists-the-walking-dead.json](./11744-the-escapists-the-walking-dead.json) |
 | The Essence of Luna | 323509 | [323509-the-essence-of-luna.json](./323509-the-essence-of-luna.json) |
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
 | The Eternal Mines | 379379 | [379379-the-eternal-mines.json](./379379-the-eternal-mines.json) |
@@ -2694,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda XD2: Mercuris' Chess | 243666 | [243666-the-legend-of-zelda-xd2-mercuris-chess.json](./243666-the-legend-of-zelda-xd2-mercuris-chess.json) |
 | The Legend of Zelda: 3rd Quest | 256296 | [256296-the-legend-of-zelda-3rd-quest.json](./256296-the-legend-of-zelda-3rd-quest.json) |
 | The Legend of Zelda: A Link to the Dream | 243669 | [243669-the-legend-of-zelda-a-link-to-the-dream.json](./243669-the-legend-of-zelda-a-link-to-the-dream.json) |
+| The Legend of Zelda: A Link to the Past | 229416 | [229416-the-legend-of-zelda-a-link-to-the-past.json](./229416-the-legend-of-zelda-a-link-to-the-past.json) |
 | The Legend of Zelda: A Link to the Past Redux | 219073 | [219073-the-legend-of-zelda-a-link-to-the-past-redux.json](./219073-the-legend-of-zelda-a-link-to-the-past-redux.json) |
 | The Legend of Zelda: Breath of the Wild - Limited Edition | 50598 | [50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json](./50598-the-legend-of-zelda-breath-of-the-wild-limited-edition.json) |
 | The Legend of Zelda: Breath of the Wild - Starter Edition | 216236 | [216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json](./216236-the-legend-of-zelda-breath-of-the-wild-starter-edition.json) |
@@ -3476,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ship: Murder Party | 5922 | [5922-the-ship-murder-party.json](./5922-the-ship-murder-party.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
 | The Show is Over It | 272577 | [272577-the-show-is-over-it.json](./272577-the-show-is-over-it.json) |
+| The Showdown Effect | 9070 | [9070-the-showdown-effect.json](./9070-the-showdown-effect.json) |
 | The Showdown Effect: Deluxe Edition | 53779 | [53779-the-showdown-effect-deluxe-edition.json](./53779-the-showdown-effect-deluxe-edition.json) |
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
@@ -3520,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Everyday Stuff Bundle | 159341 | [159341-the-sims-4-everyday-stuff-bundle.json](./159341-the-sims-4-everyday-stuff-bundle.json) |
 | The Sims 4: Extreme Violence | 259250 | [259250-the-sims-4-extreme-violence.json](./259250-the-sims-4-extreme-violence.json) |
 | The Sims 4: Get to Work | 13143 | [13143-the-sims-4-get-to-work.json](./13143-the-sims-4-get-to-work.json) |
+| The Sims 4: Get Together | 13144 | [13144-the-sims-4-get-together.json](./13144-the-sims-4-get-together.json) |
 | The Sims 4: Golden Years Kit | 350998 | [350998-the-sims-4-golden-years-kit.json](./350998-the-sims-4-golden-years-kit.json) |
 | The Sims 4: Grange Mudroom Kit | 362301 | [362301-the-sims-4-grange-mudroom-kit.json](./362301-the-sims-4-grange-mudroom-kit.json) |
 | The Sims 4: Kids Room Stuff | 121023 | [121023-the-sims-4-kids-room-stuff.json](./121023-the-sims-4-kids-room-stuff.json) |
@@ -3532,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Live Lavishly Bundle | 159330 | [159330-the-sims-4-live-lavishly-bundle.json](./159330-the-sims-4-live-lavishly-bundle.json) |
 | The Sims 4: My Wedding Stories | 191387 | [191387-the-sims-4-my-wedding-stories.json](./191387-the-sims-4-my-wedding-stories.json) |
 | The Sims 4: Outdoor Bundle | 159339 | [159339-the-sims-4-outdoor-bundle.json](./159339-the-sims-4-outdoor-bundle.json) |
+| The Sims 4: Outdoor Retreat | 13145 | [13145-the-sims-4-outdoor-retreat.json](./13145-the-sims-4-outdoor-retreat.json) |
 | The Sims 4: Party Essentials Kit | 296899 | [296899-the-sims-4-party-essentials-kit.json](./296899-the-sims-4-party-essentials-kit.json) |
 | The Sims 4: Poolside Splash Kit | 265704 | [265704-the-sims-4-poolside-splash-kit.json](./265704-the-sims-4-poolside-splash-kit.json) |
 | The Sims 4: Prairie Dreams | 404225 | [404225-the-sims-4-prairie-dreams.json](./404225-the-sims-4-prairie-dreams.json) |
@@ -3991,6 +3997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unfound Soul | 231403 | [231403-the-unfound-soul.json](./231403-the-unfound-soul.json) |
 | The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
+| The Universim | 9943 | [9943-the-universim.json](./9943-the-universim.json) |
 | The Unknown | 336516 | [336516-the-unknown.json](./336516-the-unknown.json) |
 | The Unknown | 53789 | [53789-the-unknown.json](./53789-the-unknown.json) |
 | The Unknown City (Episode 1) | 105987 | [105987-the-unknown-city-episode-1.json](./105987-the-unknown-city-episode-1.json) |
