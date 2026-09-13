@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh! My Sister's Slit Is... | 97839 | [97839-oh-my-sisters-slit-is.json](./97839-oh-my-sisters-slit-is.json) |
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
 | Oh...Sir! Prototype | 90604 | [90604-oh-sir-prototype.json](./90604-oh-sir-prototype.json) |
+| Oh...Sir!! The Insult Simulator | 25577 | [25577-oh-sir-the-insult-simulator.json](./25577-oh-sir-the-insult-simulator.json) |
 | Oha Suta Dance Dance Revolution GB | 246126 | [246126-oha-suta-dance-dance-revolution-gb.json](./246126-oha-suta-dance-dance-revolution-gb.json) |
 | Ohanabatake no Flore | 332418 | [332418-ohanabatake-no-flore.json](./332418-ohanabatake-no-flore.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
