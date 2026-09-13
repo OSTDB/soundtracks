@@ -2771,6 +2771,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: Commander Lilith and the Fight for Sanctuary | 119267 | [119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json](./119267-borderlands-2-commander-lilith-and-the-fight-for-sanctuary.json) |
 | Borderlands 2: Deluxe Vault Hunter's Edition | 45277 | [45277-borderlands-2-deluxe-vault-hunters-edition.json](./45277-borderlands-2-deluxe-vault-hunters-edition.json) |
 | Borderlands 2: Game of the Year Edition | 47461 | [47461-borderlands-2-game-of-the-year-edition.json](./47461-borderlands-2-game-of-the-year-edition.json) |
+| Borderlands 2: How Marcus Saved Mercenary Day | 13926 | [13926-borderlands-2-how-marcus-saved-mercenary-day.json](./13926-borderlands-2-how-marcus-saved-mercenary-day.json) |
+| Borderlands 2: Mad Moxxi and the Wedding Day Massacre | 13927 | [13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json](./13927-borderlands-2-mad-moxxi-and-the-wedding-day-massacre.json) |
 | Borderlands 2: Mr. Torgue's Campaign of Carnage | 13921 | [13921-borderlands-2-mr-torgues-campaign-of-carnage.json](./13921-borderlands-2-mr-torgues-campaign-of-carnage.json) |
 | Borderlands 3: Deluxe Edition | 116995 | [116995-borderlands-3-deluxe-edition.json](./116995-borderlands-3-deluxe-edition.json) |
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
@@ -3265,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge! 3: The Construction Game | 125372 | [125372-bridge-3-the-construction-game.json](./125372-bridge-3-the-construction-game.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
+| Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Briganty: The Roots of Darkness | 73820 | [73820-briganty-the-roots-of-darkness.json](./73820-briganty-the-roots-of-darkness.json) |
 | Bright Bob | 83523 | [83523-bright-bob.json](./83523-bright-bob.json) |
@@ -3725,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnouts | 111640 | [111640-burnouts.json](./111640-burnouts.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
+| Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
 | Burst Hero | 237042 | [237042-burst-hero.json](./237042-burst-hero.json) |
