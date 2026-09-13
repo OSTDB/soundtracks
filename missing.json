@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T06:04:58.336Z",
-  "total_missing": 64920,
+  "generated_at": "2026-09-13T06:11:32.541Z",
+  "total_missing": 64919,
   "games": [
     {
       "igdb_id": 306086,
@@ -3436,11 +3436,6 @@
       "igdb_id": 311282,
       "game_name": "AceForce 2",
       "file": "missing/A/311282-aceforce-2.json"
-    },
-    {
-      "igdb_id": 91371,
-      "game_name": "Aces High",
-      "file": "missing/A/91371-aces-high.json"
     },
     {
       "igdb_id": 328246,
