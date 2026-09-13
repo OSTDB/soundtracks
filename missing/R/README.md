@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realpolitiks 3: Earth and Beyond | 309890 | [309890-realpolitiks-3-earth-and-beyond.json](./309890-realpolitiks-3-earth-and-beyond.json) |
 | Realpolitiks Mobile | 97304 | [97304-realpolitiks-mobile.json](./97304-realpolitiks-mobile.json) |
 | Realpolitiks: New Power | 116997 | [116997-realpolitiks-new-power.json](./116997-realpolitiks-new-power.json) |
+| Reanimal | 314265 | [314265-reanimal.json](./314265-reanimal.json) |
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
 | Reanimation Scheme | 158647 | [158647-reanimation-scheme.json](./158647-reanimation-scheme.json) |
 | Reap and Sow | 202362 | [202362-reap-and-sow.json](./202362-reap-and-sow.json) |
@@ -2684,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustling Leaves | 249781 | [249781-rustling-leaves.json](./249781-rustling-leaves.json) |
 | Rusty | 239074 | [239074-rusty.json](./239074-rusty.json) |
 | Rusty | 45975 | [45975-rusty.json](./45975-rusty.json) |
+| Rusty Lake: Roots | 25222 | [25222-rusty-lake-roots.json](./25222-rusty-lake-roots.json) |
 | Rusty Ride | 266794 | [266794-rusty-ride.json](./266794-rusty-ride.json) |
 | Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
 | Rusty Seas | 207319 | [207319-rusty-seas.json](./207319-rusty-seas.json) |
