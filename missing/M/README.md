@@ -1084,6 +1084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masochistic Maiden Aria and the Cavern of Blissful Agony | 252178 | [252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json](./252178-masochistic-maiden-aria-and-the-cavern-of-blissful-agony.json) |
 | Mason and Strings | 183606 | [183606-mason-and-strings.json](./183606-mason-and-strings.json) |
 | Masquerade of Miasma | 150621 | [150621-masquerade-of-miasma.json](./150621-masquerade-of-miasma.json) |
+| Masquerade: The Baubles of Doom | 23371 | [23371-masquerade-the-baubles-of-doom.json](./23371-masquerade-the-baubles-of-doom.json) |
 | Mass Effect 2: Collector's Edition | 43957 | [43957-mass-effect-2-collectors-edition.json](./43957-mass-effect-2-collectors-edition.json) |
 | Mass Effect 2: Digital Deluxe Edition | 202309 | [202309-mass-effect-2-digital-deluxe-edition.json](./202309-mass-effect-2-digital-deluxe-edition.json) |
 | Mass Effect 3: Extended Cut | 78460 | [78460-mass-effect-3-extended-cut.json](./78460-mass-effect-3-extended-cut.json) |
@@ -3404,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Merchant | 370669 | [370669-monster-merchant.json](./370669-monster-merchant.json) |
 | Monster Milktruck! | 145670 | [145670-monster-milktruck.json](./145670-monster-milktruck.json) |
 | Monster Mind | 137004 | [137004-monster-mind.json](./137004-monster-mind.json) |
+| Monster Mingle | 23222 | [23222-monster-mingle.json](./23222-monster-mingle.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
 | Monster of the Deep: Final Fantasy XV | 37087 | [37087-monster-of-the-deep-final-fantasy-xv.json](./37087-monster-of-the-deep-final-fantasy-xv.json) |
