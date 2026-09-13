@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
+| Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
 | Wild West Fights: Girls Fighting World | 100751 | [100751-wild-west-fights-girls-fighting-world.json](./100751-wild-west-fights-girls-fighting-world.json) |
 | Wild West Quest: Gold Rush | 100223 | [100223-wild-west-quest-gold-rush.json](./100223-wild-west-quest-gold-rush.json) |
