@@ -2449,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
 | Donkey Racing | 248057 | [248057-donkey-racing.json](./248057-donkey-racing.json) |
+| Donkey.Bas | 19382 | [19382-donkey-bas.json](./19382-donkey-bas.json) |
 | Donki Hills | 358294 | [358294-donki-hills.json](./358294-donki-hills.json) |
 | Donna Brave: Paris Strangler | 104592 | [104592-donna-brave-paris-strangler.json](./104592-donna-brave-paris-strangler.json) |
 | Donna Kanji? Ii Kanji | 256271 | [256271-donna-kanji-ii-kanji.json](./256271-donna-kanji-ii-kanji.json) |
@@ -2604,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dossun! Ganseki Battle | 42560 | [42560-dossun-ganseki-battle.json](./42560-dossun-ganseki-battle.json) |
 | Dosukoi Slime | 322998 | [322998-dosukoi-slime.json](./322998-dosukoi-slime.json) |
 | Dot & Dot Dungeons | 295766 | [295766-dot-and-dot-dungeons.json](./295766-dot-and-dot-dungeons.json) |
+| Dot by Dot+ | 19383 | [19383-dot-by-dot.json](./19383-dot-by-dot.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
 | Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
 | Dot Ninja | 179183 | [179183-dot-ninja.json](./179183-dot-ninja.json) |
@@ -3602,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons and Monsters | 268751 | [268751-dungeons-and-monsters.json](./268751-dungeons-and-monsters.json) |
 | Dungeons and Raids | 236516 | [236516-dungeons-and-raids.json](./236516-dungeons-and-raids.json) |
 | Dungeons of Aledorn | 60494 | [60494-dungeons-of-aledorn.json](./60494-dungeons-of-aledorn.json) |
+| Dungeons of Avalon II - The Island of Darkness | 19476 | [19476-dungeons-of-avalon-ii-the-island-of-darkness.json](./19476-dungeons-of-avalon-ii-the-island-of-darkness.json) |
 | Dungeons of Chaos | 68203 | [68203-dungeons-of-chaos.json](./68203-dungeons-of-chaos.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
 | Dungeons of Dreadrock | 194009 | [194009-dungeons-of-dreadrock.json](./194009-dungeons-of-dreadrock.json) |
