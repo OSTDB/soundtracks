@@ -2378,6 +2378,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar Patito Feo | 268749 | [268749-singstar-patito-feo.json](./268749-singstar-patito-feo.json) |
 | SingStar Starter Pack | 268746 | [268746-singstar-starter-pack.json](./268746-singstar-starter-pack.json) |
 | SingStar: A Tutto Pop | 268743 | [268743-singstar-a-tutto-pop.json](./268743-singstar-a-tutto-pop.json) |
+| SingStar: Afrikaanse Treffers | 15439 | [15439-singstar-afrikaanse-treffers.json](./15439-singstar-afrikaanse-treffers.json) |
+| SingStar: Cantautori Italiani | 15440 | [15440-singstar-cantautori-italiani.json](./15440-singstar-cantautori-italiani.json) |
 | SingStar: Chartbreaker | 136395 | [136395-singstar-chartbreaker.json](./136395-singstar-chartbreaker.json) |
 | SingStar: Die Toten Hosen | 84215 | [84215-singstar-die-toten-hosen.json](./84215-singstar-die-toten-hosen.json) |
 | SingStar: Frozen | 86080 | [86080-singstar-frozen.json](./86080-singstar-frozen.json) |
@@ -2387,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Studio 100 | 45301 | [45301-singstar-studio-100.json](./45301-singstar-studio-100.json) |
 | Singstar: SuomiHitit | 91884 | [91884-singstar-suomihitit.json](./91884-singstar-suomihitit.json) |
 | SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
+| Singstar: Wakacyjna Impreza | 15441 | [15441-singstar-wakacyjna-impreza.json](./15441-singstar-wakacyjna-impreza.json) |
 | Singularity | 77285 | [77285-singularity.json](./77285-singularity.json) |
 | Singularity - Modern Lights Out | 128567 | [128567-singularity-modern-lights-out.json](./128567-singularity-modern-lights-out.json) |
 | Singularium | 270124 | [270124-singularium.json](./270124-singularium.json) |
@@ -5132,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation - Klingon Honor Guard | 84216 | [84216-star-trek-the-next-generation-klingon-honor-guard.json](./84216-star-trek-the-next-generation-klingon-honor-guard.json) |
 | Star Trek: The Next Generation - The Transinium Challenge | 69214 | [69214-star-trek-the-next-generation-the-transinium-challenge.json](./69214-star-trek-the-next-generation-the-transinium-challenge.json) |
+| Star Trek: The Rebel Universe | 15376 | [15376-star-trek-the-rebel-universe.json](./15376-star-trek-the-rebel-universe.json) |
 | Star Trek: Voyager - Elite Force Expansion Pack | 77313 | [77313-star-trek-voyager-elite-force-expansion-pack.json](./77313-star-trek-voyager-elite-force-expansion-pack.json) |
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
@@ -5198,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Witch | 190224 | [190224-star-witch.json](./190224-star-witch.json) |
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
+| Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
 | Star-Rocket Strike | 90616 | [90616-star-rocket-strike.json](./90616-star-rocket-strike.json) |
 | Star-Twine | 30800 | [30800-star-twine.json](./30800-star-twine.json) |
 | Star-Wired | 310939 | [310939-star-wired.json](./310939-star-wired.json) |
@@ -5677,6 +5682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stomper | 182990 | [182990-stomper.json](./182990-stomper.json) |
 | StompyBoy | 329382 | [329382-stompyboy.json](./329382-stompyboy.json) |
+| Stone Age | 15378 | [15378-stone-age.json](./15378-stone-age.json) |
 | Stone Age | 278664 | [278664-stone-age.json](./278664-stone-age.json) |
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
@@ -5736,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
 | StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
+| Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
 | Stormwinds | 210284 | [210284-stormwinds.json](./210284-stormwinds.json) |
 | Story About Times | 113009 | [113009-story-about-times.json](./113009-story-about-times.json) |
 | Story Machine | 95450 | [95450-story-machine.json](./95450-story-machine.json) |
@@ -6040,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stupid Camera | 255992 | [255992-stupid-camera.json](./255992-stupid-camera.json) |
 | Stupid Clicker Game | 26554 | [26554-stupid-clicker-game.json](./26554-stupid-clicker-game.json) |
 | Stupid Space Shooter | 310759 | [310759-stupid-space-shooter.json](./310759-stupid-space-shooter.json) |
+| SturmFront - The Mutant War | 15394 | [15394-sturmfront-the-mutant-war.json](./15394-sturmfront-the-mutant-war.json) |
 | SturmFront: The Mutant War - Farewell Edition | 215362 | [215362-sturmfront-the-mutant-war-farewell-edition.json](./215362-sturmfront-the-mutant-war-farewell-edition.json) |
 | Stygia | 139412 | [139412-stygia.json](./139412-stygia.json) |
 | Stygia II: The Sisters of Stygia | 139413 | [139413-stygia-ii-the-sisters-of-stygia.json](./139413-stygia-ii-the-sisters-of-stygia.json) |
@@ -6316,6 +6324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
+| Sundog: Frozen Legacy | 15380 | [15380-sundog-frozen-legacy.json](./15380-sundog-frozen-legacy.json) |
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
 | Sundown | 86071 | [86071-sundown.json](./86071-sundown.json) |
 | Sundown Refusal | 118351 | [118351-sundown-refusal.json](./118351-sundown-refusal.json) |
@@ -6521,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gerball | 89179 | [89179-super-gerball.json](./89179-super-gerball.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
+| Super Grand Prix | 15381 | [15381-super-grand-prix.json](./15381-super-grand-prix.json) |
 | Super Granny Collection | 27855 | [27855-super-granny-collection.json](./27855-super-granny-collection.json) |
 | Super Gravitron | 207834 | [207834-super-gravitron.json](./207834-super-gravitron.json) |
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
@@ -7359,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swaying Girl | 159875 | [159875-swaying-girl.json](./159875-swaying-girl.json) |
 | Sweater? Ok!: The Dilogy | 127370 | [127370-sweater-ok-the-dilogy.json](./127370-sweater-ok-the-dilogy.json) |
 | SweatShop | 32204 | [32204-sweatshop.json](./32204-sweatshop.json) |
+| Sweatshop HD | 15448 | [15448-sweatshop-hd.json](./15448-sweatshop-hd.json) |
 | Sweeky Land | 145608 | [145608-sweeky-land.json](./145608-sweeky-land.json) |
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
 | Sweeper Zero | 107870 | [107870-sweeper-zero.json](./107870-sweeper-zero.json) |
