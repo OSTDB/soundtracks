@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
 | Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
+| Dance Dance Revolution Mario Mix | 3680 | [3680-dance-dance-revolution-mario-mix.json](./3680-dance-dance-revolution-mario-mix.json) |
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
 | Dance Dance Revolution Ultramix 3 | 5801 | [5801-dance-dance-revolution-ultramix-3.json](./5801-dance-dance-revolution-ultramix-3.json) |
 | Dance Dance Revolution Ultramix 4 | 5802 | [5802-dance-dance-revolution-ultramix-4.json](./5802-dance-dance-revolution-ultramix-4.json) |
@@ -2944,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fight VR | 133389 | [133389-dragon-fight-vr.json](./133389-dragon-fight-vr.json) |
 | Dragon Finga | 403614 | [403614-dragon-finga.json](./403614-dragon-finga.json) |
 | Dragon Fire | 24844 | [24844-dragon-fire.json](./24844-dragon-fire.json) |
+| Dragon Force | 2968 | [2968-dragon-force.json](./2968-dragon-force.json) |
 | Dragon Friends: The Secret of Green Witch | 212453 | [212453-dragon-friends-the-secret-of-green-witch.json](./212453-dragon-friends-the-secret-of-green-witch.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
@@ -3829,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Day | 415916 | [415916-dynamite-day.json](./415916-dynamite-day.json) |
 | Dynamite Duke | 39651 | [39651-dynamite-duke.json](./39651-dynamite-duke.json) |
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
+| Dynasty Warriors | 2982 | [2982-dynasty-warriors.json](./2982-dynasty-warriors.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
 | Dynasty Warriors 5 | 5820 | [5820-dynasty-warriors-5.json](./5820-dynasty-warriors-5.json) |
 | Dynasty Warriors 7 | 6832 | [6832-dynasty-warriors-7.json](./6832-dynasty-warriors-7.json) |
