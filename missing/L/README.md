@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ride | 377575 | [377575-last-ride.json](./377575-last-ride.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
 | Last Sapiens | 216471 | [216471-last-sapiens.json](./216471-last-sapiens.json) |
+| Last Seen Online | 281011 | [281011-last-seen-online.json](./281011-last-seen-online.json) |
 | Last Shinobi | 377055 | [377055-last-shinobi.json](./377055-last-shinobi.json) |
 | Last Shooter: Apocalypse | 227266 | [227266-last-shooter-apocalypse.json](./227266-last-shooter-apocalypse.json) |
 | Last Stanza | 105279 | [105279-last-stanza.json](./105279-last-stanza.json) |
