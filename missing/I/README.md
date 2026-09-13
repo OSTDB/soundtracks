@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno: Deathfield | 82051 | [82051-inferno-deathfield.json](./82051-inferno-deathfield.json) |
 | Inferno’s Embrace | 298902 | [298902-inferno-s-embrace.json](./298902-inferno-s-embrace.json) |
 | Infernum Bound | 337094 | [337094-infernum-bound.json](./337094-infernum-bound.json) |
+| Infestation | 9119 | [9119-infestation.json](./9119-infestation.json) |
 | Infestation | 9486 | [9486-infestation.json](./9486-infestation.json) |
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
 | Infested Planet: Planetary Campaign | 53231 | [53231-infested-planet-planetary-campaign.json](./53231-infested-planet-planetary-campaign.json) |
@@ -1123,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
 | Inv | 100134 | [100134-inv.json](./100134-inv.json) |
+| Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
 | Invadead | 209486 | [209486-invadead.json](./209486-invadead.json) |
 | Invaded | 121698 | [121698-invaded.json](./121698-invaded.json) |
 | Invader Simulator | 351616 | [351616-invader-simulator.json](./351616-invader-simulator.json) |
