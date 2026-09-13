@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamia 1999 | 123022 | [123022-lamia-1999.json](./123022-lamia-1999.json) |
 | Lamia's Bambina | 240783 | [240783-lamias-bambina.json](./240783-lamias-bambina.json) |
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
+| Lamplight City | 79999 | [79999-lamplight-city.json](./79999-lamplight-city.json) |
 | Lampyridae Matsuri | 185594 | [185594-lampyridae-matsuri.json](./185594-lampyridae-matsuri.json) |
 | Lán Shízhàn Duì | 158649 | [158649-lan-shizhan-dui.json](./158649-lan-shizhan-dui.json) |
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
@@ -158,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Glarefall | 352737 | [352737-land-of-glarefall.json](./352737-land-of-glarefall.json) |
 | Land of Illusion Starring Mickey Mouse | 8123 | [8123-land-of-illusion-starring-mickey-mouse.json](./8123-land-of-illusion-starring-mickey-mouse.json) |
 | Land of Puzzles: Elven Princess | 109767 | [109767-land-of-puzzles-elven-princess.json](./109767-land-of-puzzles-elven-princess.json) |
+| Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
@@ -605,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Callasia: The Stoneborne | 25628 | [25628-legends-of-callasia-the-stoneborne.json](./25628-legends-of-callasia-the-stoneborne.json) |
 | Legends of Destiny | 208390 | [208390-legends-of-destiny.json](./208390-legends-of-destiny.json) |
 | Legends of Dragaea: Idle Dungeons | 295264 | [295264-legends-of-dragaea-idle-dungeons.json](./295264-legends-of-dragaea-idle-dungeons.json) |
+| Legends of Eisenwald | 10388 | [10388-legends-of-eisenwald.json](./10388-legends-of-eisenwald.json) |
 | Legends of Elementia | 262957 | [262957-legends-of-elementia.json](./262957-legends-of-elementia.json) |
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
@@ -642,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
 | LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
 | LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
+| LEGO City Undercover | 343450 | [343450-lego-city-undercover.json](./343450-lego-city-undercover.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO DC Super-Villains: DC TV Series Super-Villains Character Pack | 214484 | [214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json](./214484-lego-dc-super-villains-dc-tv-series-super-villains-character-pack.json) |
 | LEGO DC Super-Villains: Deluxe Edition | 118955 | [118955-lego-dc-super-villains-deluxe-edition.json](./118955-lego-dc-super-villains-deluxe-edition.json) |
@@ -1370,6 +1374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
+| Lizards Must Die | 264773 | [264773-lizards-must-die.json](./264773-lizards-must-die.json) |
 | LizardSpock | 233012 | [233012-lizardspock.json](./233012-lizardspock.json) |
 | Lizzie McGuire 2: Lizzie Diaries | 49393 | [49393-lizzie-mcguire-2-lizzie-diaries.json](./49393-lizzie-mcguire-2-lizzie-diaries.json) |
 | Lizzie McGuire 3: Homecoming Havoc | 49392 | [49392-lizzie-mcguire-3-homecoming-havoc.json](./49392-lizzie-mcguire-3-homecoming-havoc.json) |
