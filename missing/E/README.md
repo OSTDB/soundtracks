@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Mystery Adventure: Enchanting Tales | 152389 | [152389-escape-room-mystery-adventure-enchanting-tales.json](./152389-escape-room-mystery-adventure-enchanting-tales.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
+| Escape Rosecliff Island | 9830 | [9830-escape-rosecliff-island.json](./9830-escape-rosecliff-island.json) |
 | Escape Sequence | 411591 | [411591-escape-sequence.json](./411591-escape-sequence.json) |
 | Escape Simulator | 145439 | [145439-escape-simulator.json](./145439-escape-simulator.json) |
 | Escape Simulator: Mayan DLC | 321345 | [321345-escape-simulator-mayan-dlc.json](./321345-escape-simulator-mayan-dlc.json) |
