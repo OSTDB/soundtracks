@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
 | Peggy's Post | 365093 | [365093-peggys-post.json](./365093-peggys-post.json) |
+| Peglin | 133512 | [133512-peglin.json](./133512-peglin.json) |
 | Peh Pai | 91361 | [91361-peh-pai.json](./91361-peh-pai.json) |
 | Pèi'ěrluó Dàlù Jìshì: -Being | 394191 | [394191-peierluo-dalu-jishi-being.json](./394191-peierluo-dalu-jishi-being.json) |
 | Peki Manor | 212464 | [212464-peki-manor.json](./212464-peki-manor.json) |
@@ -2075,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
 | Pokémath! | 291987 | [291987-pokemath.json](./291987-pokemath.json) |
 | Pokémblem | 257412 | [257412-pokemblem.json](./257412-pokemblem.json) |
+| PokeMMO | 127976 | [127976-pokemmo.json](./127976-pokemmo.json) |
 | Pokemomcore | 299120 | [299120-pokemomcore.json](./299120-pokemomcore.json) |
 | Pokémon | 221996 | [221996-pokemon.json](./221996-pokemon.json) |
 | Pokémon 2000 Adventure Game | 254167 | [254167-pokemon-2000-adventure-game.json](./254167-pokemon-2000-adventure-game.json) |
