@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Rush Zombies | 241620 | [241620-castle-rush-zombies.json](./241620-castle-rush-zombies.json) |
 | Castle Terroretra | 217868 | [217868-castle-terroretra.json](./217868-castle-terroretra.json) |
 | Castle Terroretra In Space | 217870 | [217870-castle-terroretra-in-space.json](./217870-castle-terroretra-in-space.json) |
+| Castle Torgeath: Descent into Darkness | 26590 | [26590-castle-torgeath-descent-into-darkness.json](./26590-castle-torgeath-descent-into-darkness.json) |
 | Castle: Daybreak | 166166 | [166166-castle-daybreak.json](./166166-castle-daybreak.json) |
 | Castle: Never Judge a Book by its Cover | 17407 | [17407-castle-never-judge-a-book-by-its-cover.json](./17407-castle-never-judge-a-book-by-its-cover.json) |
 | Castle's Adventure | 245542 | [245542-castles-adventure.json](./245542-castles-adventure.json) |
@@ -3337,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
 | Crank! Push! Tilt! | 243697 | [243697-crank-push-tilt.json](./243697-crank-push-tilt.json) |
 | Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
+| Cranks and Goggles | 26619 | [26619-cranks-and-goggles.json](./26619-cranks-and-goggles.json) |
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
@@ -3775,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings | 2922 | [2922-crusader-kings.json](./2922-crusader-kings.json) |
 | Crusader Kings Complete | 25415 | [25415-crusader-kings-complete.json](./25415-crusader-kings-complete.json) |
 | Crusader Kings II: Finno-Ugric Unit Pack | 168339 | [168339-crusader-kings-ii-finno-ugric-unit-pack.json](./168339-crusader-kings-ii-finno-ugric-unit-pack.json) |
+| Crusader Kings II: Monks and Mystics | 26426 | [26426-crusader-kings-ii-monks-and-mystics.json](./26426-crusader-kings-ii-monks-and-mystics.json) |
 | Crusader Kings III | 124954 | [124954-crusader-kings-iii.json](./124954-crusader-kings-iii.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
 | Crusader Kings III: Royal Edition | 188022 | [188022-crusader-kings-iii-royal-edition.json](./188022-crusader-kings-iii-royal-edition.json) |
