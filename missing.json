@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T03:48:46.307Z",
-  "total_missing": 64532,
+  "generated_at": "2026-09-13T03:51:31.025Z",
+  "total_missing": 64531,
   "games": [
     {
       "igdb_id": 306086,
@@ -3366,11 +3366,6 @@
       "igdb_id": 282579,
       "game_name": "Ace Combat 7: Skies Unknown - ASF-X Shinden II Set",
       "file": "missing/A/282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json"
-    },
-    {
-      "igdb_id": 282540,
-      "game_name": "Ace Combat 7: Skies Unknown - F-104C: Avril",
-      "file": "missing/A/282540-ace-combat-7-skies-unknown-f-104c-avril.json"
     },
     {
       "igdb_id": 282589,
