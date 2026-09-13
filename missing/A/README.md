@@ -307,7 +307,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
-| Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Add Astra | 292305 | [292305-add-astra.json](./292305-add-astra.json) |
 | Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
