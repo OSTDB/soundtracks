@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Town Tycoon | 294731 | [294731-disaster-town-tycoon.json](./294731-disaster-town-tycoon.json) |
+| Disaster: Day of Crisis | 4805 | [4805-disaster-day-of-crisis.json](./4805-disaster-day-of-crisis.json) |
 | Disbelief | 354417 | [354417-disbelief.json](./354417-disbelief.json) |
 | Disc | 365671 | [365671-disc.json](./365671-disc.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
