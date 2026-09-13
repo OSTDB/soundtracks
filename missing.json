@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T16:16:43.205Z",
-  "total_missing": 66392,
+  "generated_at": "2026-09-13T16:21:34.203Z",
+  "total_missing": 66391,
   "games": [
     {
       "igdb_id": 306086,
@@ -3756,11 +3756,6 @@
       "igdb_id": 71553,
       "game_name": "Actua Ice Hockey 2",
       "file": "missing/A/71553-actua-ice-hockey-2.json"
-    },
-    {
-      "igdb_id": 111736,
-      "game_name": "Actual Volleyball",
-      "file": "missing/A/111736-actual-volleyball.json"
     },
     {
       "igdb_id": 232420,
