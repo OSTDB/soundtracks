@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall-E | 279597 | [279597-wall-e.json](./279597-wall-e.json) |
 | Wall$treet | 78664 | [78664-wall-treet.json](./78664-wall-treet.json) |
 | Wallace & Gromit: The Big Fix Up | 321331 | [321331-wallace-and-gromit-the-big-fix-up.json](./321331-wallace-and-gromit-the-big-fix-up.json) |
+| Wallace & Gromit's Grand Adventures: Episode 1 - Fright of the Bumblebees | 115575 | [115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json](./115575-wallace-and-gromits-grand-adventures-episode-1-fright-of-the-bumblebees.json) |
 | Walled City Sunset | 326601 | [326601-walled-city-sunset.json](./326601-walled-city-sunset.json) |
 | Walled Haven | 382195 | [382195-walled-haven.json](./382195-walled-haven.json) |
 | Wallenda | 111627 | [111627-wallenda.json](./111627-wallenda.json) |
@@ -231,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Robots: Frontiers - Lancelot Rising | 335099 | [335099-war-robots-frontiers-lancelot-rising.json](./335099-war-robots-frontiers-lancelot-rising.json) |
 | War Robots: Planet Defender | 127379 | [127379-war-robots-planet-defender.json](./127379-war-robots-planet-defender.json) |
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
+| War Selection | 116499 | [116499-war-selection.json](./116499-war-selection.json) |
 | War Smith | 132203 | [132203-war-smith.json](./132203-war-smith.json) |
 | War Survival | 371250 | [371250-war-survival.json](./371250-war-survival.json) |
 | War Tanks | 203923 | [203923-war-tanks.json](./203923-war-tanks.json) |
@@ -893,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | While Waiting My Turn | 253382 | [253382-while-waiting-my-turn.json](./253382-while-waiting-my-turn.json) |
 | Whip Dummy Crash | 174902 | [174902-whip-dummy-crash.json](./174902-whip-dummy-crash.json) |
 | Whiplash | 411608 | [411608-whiplash.json](./411608-whiplash.json) |
+| Whiplash | 95503 | [95503-whiplash.json](./95503-whiplash.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
 | Whirled | 123640 | [123640-whirled.json](./123640-whirled.json) |
 | Whirlo | 46588 | [46588-whirlo.json](./46588-whirlo.json) |
@@ -1451,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein VCS: The Next Mission | 77284 | [77284-wolfenstein-vcs-the-next-mission.json](./77284-wolfenstein-vcs-the-next-mission.json) |
 | Wolfenstein X: Hearts of Liberty | 143081 | [143081-wolfenstein-x-hearts-of-liberty.json](./143081-wolfenstein-x-hearts-of-liberty.json) |
 | Wolfenstein: Alt History Collection | 139958 | [139958-wolfenstein-alt-history-collection.json](./139958-wolfenstein-alt-history-collection.json) |
+| Wolfenstein: Cyberpilot | 103302 | [103302-wolfenstein-cyberpilot.json](./103302-wolfenstein-cyberpilot.json) |
 | Wolfenstein: Enemy Territory | 2987 | [2987-wolfenstein-enemy-territory.json](./2987-wolfenstein-enemy-territory.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
 | Wolfenstein: Youngblood - Digital Limited Edition | 121640 | [121640-wolfenstein-youngblood-digital-limited-edition.json](./121640-wolfenstein-youngblood-digital-limited-edition.json) |
@@ -1751,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Admiral Graf Spee Pack | 225866 | [225866-world-of-warships-admiral-graf-spee-pack.json](./225866-world-of-warships-admiral-graf-spee-pack.json) |
 | World of Warships: DLC to Celebrate the Year of the Dragon | 289326 | [289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json](./289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json) |
 | World of Warships: Huanghe Pack | 156113 | [156113-world-of-warships-huanghe-pack.json](./156113-world-of-warships-huanghe-pack.json) |
+| World of Warships: Legends | 107250 | [107250-world-of-warships-legends.json](./107250-world-of-warships-legends.json) |
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
 | World of Warships: Starter Pack - Ishizuchi | 223475 | [223475-world-of-warships-starter-pack-ishizuchi.json](./223475-world-of-warships-starter-pack-ishizuchi.json) |
 | World of Wimmelbild Gold | 92503 | [92503-world-of-wimmelbild-gold.json](./92503-world-of-wimmelbild-gold.json) |
@@ -1807,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
 | World-Wide Adventure! Collection 2 | 222507 | [222507-world-wide-adventure-collection-2.json](./222507-world-wide-adventure-collection-2.json) |
 | World's Best Chess: Fritz 8 Deluxe | 93043 | [93043-worlds-best-chess-fritz-8-deluxe.json](./93043-worlds-best-chess-fritz-8-deluxe.json) |
+| World's End Club | 110581 | [110581-worlds-end-club.json](./110581-worlds-end-club.json) |
 | World's Fair Jig Saw | 130865 | [130865-worlds-fair-jig-saw.json](./130865-worlds-fair-jig-saw.json) |
 | World's Fastest Pizza | 34599 | [34599-worlds-fastest-pizza.json](./34599-worlds-fastest-pizza.json) |
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
