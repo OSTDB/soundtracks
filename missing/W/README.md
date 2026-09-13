@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
 | Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
+| Wardogs | 388285 | [388285-wardogs.json](./388285-wardogs.json) |
 | Wardogz | 215668 | [215668-wardogz.json](./215668-wardogz.json) |
 | WarDoom Wargame | 273393 | [273393-wardoom-wargame.json](./273393-wardoom-wargame.json) |
 | Wardrum | 380420 | [380420-wardrum.json](./380420-wardrum.json) |
@@ -1057,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms | 205593 | [205593-wild-arms.json](./205593-wild-arms.json) |
 | Wild Arms 3 | 1679 | [1679-wild-arms-3.json](./1679-wild-arms-3.json) |
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
+| Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Cats | 365662 | [365662-wild-cats.json](./365662-wild-cats.json) |
 | Wild Cheetah Sim 3D | 330725 | [330725-wild-cheetah-sim-3d.json](./330725-wild-cheetah-sim-3d.json) |
