@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Lock | 34189 | [34189-quantum-lock.json](./34189-quantum-lock.json) |
 | Quantum Phantom Basketball | 252766 | [252766-quantum-phantom-basketball.json](./252766-quantum-phantom-basketball.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
+| Quantum Rush Champions | 17726 | [17726-quantum-rush-champions.json](./17726-quantum-rush-champions.json) |
 | Quantum Rush Champions: Jump Start Tournament | 172121 | [172121-quantum-rush-champions-jump-start-tournament.json](./172121-quantum-rush-champions-jump-start-tournament.json) |
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
 | Quantum Tripper: Math | 267084 | [267084-quantum-tripper-math.json](./267084-quantum-tripper-math.json) |
