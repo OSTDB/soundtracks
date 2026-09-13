@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F/A-18 Interceptor | 12081 | [12081-f-a-18-interceptor.json](./12081-f-a-18-interceptor.json) |
 | F/A-18E Super Hornet: The Albanian Campaign | 84201 | [84201-f-a-18e-super-hornet-the-albanian-campaign.json](./84201-f-a-18e-super-hornet-the-albanian-campaign.json) |
+| F1 06 | 7308 | [7308-f1-06.json](./7308-f1-06.json) |
 | F1 2000 | 45305 | [45305-f1-2000.json](./45305-f1-2000.json) |
 | F1 2016 | 19405 | [19405-f1-2016.json](./19405-f1-2016.json) |
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
@@ -439,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
 | Fantasy Village Simulator | 278981 | [278981-fantasy-village-simulator.json](./278981-fantasy-village-simulator.json) |
 | Fantasy Voyagers | 400195 | [400195-fantasy-voyagers.json](./400195-fantasy-voyagers.json) |
+| Fantasy Wars | 7332 | [7332-fantasy-wars.json](./7332-fantasy-wars.json) |
 | Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
 | Fantasy World Online Tycoon | 132209 | [132209-fantasy-world-online-tycoon.json](./132209-fantasy-world-online-tycoon.json) |
 | Fantasy Zone | 202914 | [202914-fantasy-zone.json](./202914-fantasy-zone.json) |
@@ -2907,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Zero | 378172 | [378172-future-zero.json](./378172-future-zero.json) |
 | FutureKreate | 170435 | [170435-futurekreate.json](./170435-futurekreate.json) |
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
+| Futuridium EP Deluxe | 8500 | [8500-futuridium-ep-deluxe.json](./8500-futuridium-ep-deluxe.json) |
 | Fuu | 393493 | [393493-fuu.json](./393493-fuu.json) |
 | Fuu3's Fuun Journey | 265927 | [265927-fuu3s-fuun-journey.json](./265927-fuu3s-fuun-journey.json) |
 | FuuGaku: Hisshuu Kamoku wa Sei Jitsugi! H na Jugyou de One Two Step | 194589 | [194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json](./194589-fuugaku-hisshuu-kamoku-wa-sei-jitsugi-h-na-jugyou-de-one-two-step.json) |
