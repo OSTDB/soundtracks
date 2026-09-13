@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T01:51:30.404Z",
-  "total_missing": 64178,
+  "generated_at": "2026-09-13T02:01:45.165Z",
+  "total_missing": 64181,
   "games": [
     {
       "igdb_id": 306086,
@@ -3311,11 +3311,6 @@
       "igdb_id": 237350,
       "game_name": "Ace Attorney Investigations 0: Quercus Alba Dating Simulator",
       "file": "missing/A/237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json"
-    },
-    {
-      "igdb_id": 303774,
-      "game_name": "Ace Attorney Online: The Game",
-      "file": "missing/A/303774-ace-attorney-online-the-game.json"
     },
     {
       "igdb_id": 146326,
@@ -28543,6 +28538,11 @@
       "file": "missing/B/142483-binkys-trash-service.json"
     },
     {
+      "igdb_id": 12917,
+      "game_name": "Bio Challenge",
+      "file": "missing/B/12917-bio-challenge.json"
+    },
+    {
       "igdb_id": 410910,
       "game_name": "Bio Fail",
       "file": "missing/B/410910-bio-fail.json"
@@ -41391,6 +41391,11 @@
       "igdb_id": 154554,
       "game_name": "Cardpocalypse: Time Warp Edition",
       "file": "missing/C/154554-cardpocalypse-time-warp-edition.json"
+    },
+    {
+      "igdb_id": 12918,
+      "game_name": "Cards",
+      "file": "missing/C/12918-cards.json"
     },
     {
       "igdb_id": 178080,
@@ -127331,6 +127336,11 @@
       "igdb_id": 31798,
       "game_name": "Ikenie",
       "file": "missing/I/31798-ikenie.json"
+    },
+    {
+      "igdb_id": 12915,
+      "game_name": "Ikki",
+      "file": "missing/I/12915-ikki.json"
     },
     {
       "igdb_id": 44645,
@@ -284091,6 +284101,11 @@
       "igdb_id": 118985,
       "game_name": "ThunderGod",
       "file": "missing/T/118985-thundergod.json"
+    },
+    {
+      "igdb_id": 12913,
+      "game_name": "Thunderhawk",
+      "file": "missing/T/12913-thunderhawk.json"
     },
     {
       "igdb_id": 387365,
