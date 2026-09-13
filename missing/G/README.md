@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Warfare: Crab Invasion | 337632 | [337632-garden-warfare-crab-invasion.json](./337632-garden-warfare-crab-invasion.json) |
 | Garden's Bane: DG's Quest | 208610 | [208610-gardens-bane-dgs-quest.json](./208610-gardens-bane-dgs-quest.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
+| Gardening Mama | 11361 | [11361-gardening-mama.json](./11361-gardening-mama.json) |
 | Gardens Inc.: From Rakes to Riches | 36409 | [36409-gardens-inc-from-rakes-to-riches.json](./36409-gardens-inc-from-rakes-to-riches.json) |
 | Gardenscapes: Mansion Makeover | 294685 | [294685-gardenscapes-mansion-makeover.json](./294685-gardenscapes-mansion-makeover.json) |
 | Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
@@ -1168,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobs of Games | 49928 | [49928-gobs-of-games.json](./49928-gobs-of-games.json) |
 | Gobsmacked! | 358864 | [358864-gobsmacked.json](./358864-gobsmacked.json) |
 | God Busters: Who watches the Watchers? | 232460 | [232460-god-busters-who-watches-the-watchers.json](./232460-god-busters-who-watches-the-watchers.json) |
+| God Eater | 11844 | [11844-god-eater.json](./11844-god-eater.json) |
 | God Eater 2 | 11853 | [11853-god-eater-2.json](./11853-god-eater-2.json) |
 | God Eater 2: Famitsu DX Pack | 89864 | [89864-god-eater-2-famitsu-dx-pack.json](./89864-god-eater-2-famitsu-dx-pack.json) |
 | God Eater 2: LaLaBitMarket Special Edition | 89863 | [89863-god-eater-2-lalabitmarket-special-edition.json](./89863-god-eater-2-lalabitmarket-special-edition.json) |
@@ -2284,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunscape | 17010 | [17010-gunscape.json](./17010-gunscape.json) |
 | Gunship | 133964 | [133964-gunship.json](./133964-gunship.json) |
 | Gunship | 244760 | [244760-gunship.json](./244760-gunship.json) |
+| Gunship 2000 | 12129 | [12129-gunship-2000.json](./12129-gunship-2000.json) |
 | Gunship Assault | 188006 | [188006-gunship-assault.json](./188006-gunship-assault.json) |
 | Gunship Battle | 174901 | [174901-gunship-battle.json](./174901-gunship-battle.json) |
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
