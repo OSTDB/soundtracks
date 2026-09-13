@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heed | 169984 | [169984-heed.json](./169984-heed.json) |
 | Hegzis | 336370 | [336370-hegzis.json](./336370-hegzis.json) |
 | Hēi'àn Liàolǐ | 111705 | [111705-heian-liaoli.json](./111705-heian-liaoli.json) |
+| Heiankyo Alien | 118758 | [118758-heiankyo-alien.json](./118758-heiankyo-alien.json) |
 | Heiankyo Parameters | 247530 | [247530-heiankyo-parameters.json](./247530-heiankyo-parameters.json) |
 | Heidelberg 1693 | 135841 | [135841-heidelberg-1693.json](./135841-heidelberg-1693.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
@@ -916,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
 | Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
+| Hellblade: Senua's Sacrifice - VR Edition | 106107 | [106107-hellblade-senuas-sacrifice-vr-edition.json](./106107-hellblade-senuas-sacrifice-vr-edition.json) |
 | Hellblusser | 162410 | [162410-hellblusser.json](./162410-hellblusser.json) |
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
