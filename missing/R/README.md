@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radioactive | 29757 | [29757-radioactive.json](./29757-radioactive.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
+| Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
@@ -384,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu! | 75858 | [75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json](./75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json) |
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
 | Rap Quest | 295037 | [295037-rap-quest.json](./295037-rap-quest.json) |
+| Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
 | Rapala's Fishing Frenzy | 50605 | [50605-rapalas-fishing-frenzy.json](./50605-rapalas-fishing-frenzy.json) |
 | RaphaelGer's Plane | 229973 | [229973-raphaelgers-plane.json](./229973-raphaelgers-plane.json) |
 | Rapid Ascent | 413663 | [413663-rapid-ascent.json](./413663-rapid-ascent.json) |
@@ -1860,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robotek | 87699 | [87699-robotek.json](./87699-robotek.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
+| Robotics;Notes | 7162 | [7162-robotics-notes.json](./7162-robotics-notes.json) |
 | Robotragedy | 171546 | [171546-robotragedy.json](./171546-robotragedy.json) |
 | Robotragedy 2: Countdown to Doomsday | 171548 | [171548-robotragedy-2-countdown-to-doomsday.json](./171548-robotragedy-2-countdown-to-doomsday.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
@@ -2142,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance in the Cityscape | 297208 | [297208-romance-in-the-cityscape.json](./297208-romance-in-the-cityscape.json) |
 | Romance is Dead | 273098 | [273098-romance-is-dead.json](./273098-romance-is-dead.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
+| Romance of the Three Kingdoms VII | 7254 | [7254-romance-of-the-three-kingdoms-vii.json](./7254-romance-of-the-three-kingdoms-vii.json) |
 | Romance of the Three Kingdoms XII: Competition Edition | 219028 | [219028-romance-of-the-three-kingdoms-xii-competition-edition.json](./219028-romance-of-the-three-kingdoms-xii-competition-edition.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 1st Wave: Liu Bei Enters Shu | 164485 | [164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json](./164485-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-1st-wave-liu-bei-enters-shu.json) |
 | Romance of the Three Kingdoms XIII EP: Scenario for War Chronicles Mode - 2nd Wave: Clash of the Warmongers | 164487 | [164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json](./164487-romance-of-the-three-kingdoms-xiii-ep-scenario-for-war-chronicles-mode-2nd-wave-clash-of-the-warmongers.json) |
@@ -2707,4 +2711,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rytmos | 158197 | [158197-rytmos.json](./158197-rytmos.json) |
 | Ryu ga Gotoku 1&2 HD Edition | 26603 | [26603-ryu-ga-gotoku-1-and-2-hd-edition.json](./26603-ryu-ga-gotoku-1-and-2-hd-edition.json) |
 | Ryu Jin | 40253 | [40253-ryu-jin.json](./40253-ryu-jin.json) |
+| Ryuu ga Gotoku Kenzan! | 7442 | [7442-ryuu-ga-gotoku-kenzan.json](./7442-ryuu-ga-gotoku-kenzan.json) |
 | Ryuuko no Ken 2 | 38347 | [38347-ryuuko-no-ken-2.json](./38347-ryuuko-no-ken-2.json) |
