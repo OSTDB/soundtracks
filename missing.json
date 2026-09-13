@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T11:49:09.411Z",
-  "total_missing": 65706,
+  "generated_at": "2026-09-13T11:51:29.655Z",
+  "total_missing": 65705,
   "games": [
     {
       "igdb_id": 306086,
@@ -3606,11 +3606,6 @@
       "igdb_id": 334487,
       "game_name": "Across the River",
       "file": "missing/A/334487-across-the-river.json"
-    },
-    {
-      "igdb_id": 230504,
-      "game_name": "Across the Valley",
-      "file": "missing/A/230504-across-the-valley.json"
     },
     {
       "igdb_id": 238739,
