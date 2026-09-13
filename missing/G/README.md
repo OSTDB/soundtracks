@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta: The Return | 189117 | [189117-gangsta-the-return.json](./189117-gangsta-the-return.json) |
 | Gangstar City | 403574 | [403574-gangstar-city.json](./403574-gangstar-city.json) |
 | Gangstar New York | 211210 | [211210-gangstar-new-york.json](./211210-gangstar-new-york.json) |
+| Gangstar Vegas | 38934 | [38934-gangstar-vegas.json](./38934-gangstar-vegas.json) |
 | Gangstar: Miami Vindication | 152331 | [152331-gangstar-miami-vindication.json](./152331-gangstar-miami-vindication.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
 | Gangsters | 69233 | [69233-gangsters.json](./69233-gangsters.json) |
@@ -1802,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Frog | 55120 | [55120-greedy-frog.json](./55120-greedy-frog.json) |
+| Greedy Guns | 40556 | [40556-greedy-guns.json](./40556-greedy-guns.json) |
 | Greedy Maze | 136459 | [136459-greedy-maze.json](./136459-greedy-maze.json) |
 | Greedy Penguins | 20715 | [20715-greedy-penguins.json](./20715-greedy-penguins.json) |
 | GreedyCraft | 204701 | [204701-greedycraft.json](./204701-greedycraft.json) |
@@ -1854,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grenouilles 3D | 401550 | [401550-grenouilles-3d.json](./401550-grenouilles-3d.json) |
 | Gretel: The Lost Tale | 323501 | [323501-gretel-the-lost-tale.json](./323501-gretel-the-lost-tale.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
+| Grey Cubes | 35226 | [35226-grey-cubes.json](./35226-grey-cubes.json) |
 | Grey Haven | 239664 | [239664-grey-haven.json](./239664-grey-haven.json) |
 | Grey Heritage: Faded Vision | 189115 | [189115-grey-heritage-faded-vision.json](./189115-grey-heritage-faded-vision.json) |
 | Grey Instinct | 159305 | [159305-grey-instinct.json](./159305-grey-instinct.json) |
@@ -2200,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
+| Gunbarich | 39861 | [39861-gunbarich.json](./39861-gunbarich.json) |
 | Gunbird | 299163 | [299163-gunbird.json](./299163-gunbird.json) |
 | Gunbird | 39352 | [39352-gunbird.json](./39352-gunbird.json) |
 | Gunbird 2 | 40150 | [40150-gunbird-2.json](./40150-gunbird-2.json) |
