@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Kart | 61091 | [61091-rayman-kart.json](./61091-rayman-kart.json) |
 | Rayman Legends Challenges App | 2925 | [2925-rayman-legends-challenges-app.json](./2925-rayman-legends-challenges-app.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
+| Rayman Origins | 288944 | [288944-rayman-origins.json](./288944-rayman-origins.json) |
 | Rayman Raving Rabbids | 254520 | [254520-rayman-raving-rabbids.json](./254520-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids: TV Party | 5117 | [5117-rayman-raving-rabbids-tv-party.json](./5117-rayman-raving-rabbids-tv-party.json) |
 | Rayman Rush | 86216 | [86216-rayman-rush.json](./86216-rayman-rush.json) |
