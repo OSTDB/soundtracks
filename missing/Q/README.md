@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Death's Dominion | 202932 | [202932-quake-deaths-dominion.json](./202932-quake-deaths-dominion.json) |
 | Quake: January Jump Jam | 202930 | [202930-quake-january-jump-jam.json](./202930-quake-january-jump-jam.json) |
 | Quake: January Jump Jam 2 | 202928 | [202928-quake-january-jump-jam-2.json](./202928-quake-january-jump-jam-2.json) |
+| Quake: Mission Pack 1 - Scourge of Armagon | 15760 | [15760-quake-mission-pack-1-scourge-of-armagon.json](./15760-quake-mission-pack-1-scourge-of-armagon.json) |
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
 | Quake: Sewer Jam | 196799 | [196799-quake-sewer-jam.json](./196799-quake-sewer-jam.json) |
 | Quake: The Offering | 46627 | [46627-quake-the-offering.json](./46627-quake-the-offering.json) |
