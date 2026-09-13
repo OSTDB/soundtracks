@@ -1919,9 +1919,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid 3: Snake Eater - Slipcase Edition | 43262 | [43262-metal-gear-solid-3-snake-eater-slipcase-edition.json](./43262-metal-gear-solid-3-snake-eater-slipcase-edition.json) |
 | Metal Gear Solid 4: 25th Anniversary Edition | 44569 | [44569-metal-gear-solid-4-25th-anniversary-edition.json](./44569-metal-gear-solid-4-25th-anniversary-edition.json) |
 | Metal Gear Solid HD Edition - Premium Package | 298015 | [298015-metal-gear-solid-hd-edition-premium-package.json](./298015-metal-gear-solid-hd-edition-premium-package.json) |
+| Metal Gear Solid V: The Definitive Experience | 25637 | [25637-metal-gear-solid-v-the-definitive-experience.json](./25637-metal-gear-solid-v-the-definitive-experience.json) |
 | Metal Gear Solid V: The Phantom Pain - Special Edition | 298021 | [298021-metal-gear-solid-v-the-phantom-pain-special-edition.json](./298021-metal-gear-solid-v-the-phantom-pain-special-edition.json) |
 | Metal Gear Solid: Peace Walker | 382 | [382-metal-gear-solid-peace-walker.json](./382-metal-gear-solid-peace-walker.json) |
 | Metal Gear Solid: Portable Ops Plus - Deluxe Pack | 294698 | [294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json](./294698-metal-gear-solid-portable-ops-plus-deluxe-pack.json) |
+| Metal Gear Solid: Snake Eater 3D | 21073 | [21073-metal-gear-solid-snake-eater-3d.json](./21073-metal-gear-solid-snake-eater-3d.json) |
 | Metal Gear: Ghost Babel | 5600 | [5600-metal-gear-ghost-babel.json](./5600-metal-gear-ghost-babel.json) |
 | Metal Glove: Exodus | 235458 | [235458-metal-glove-exodus.json](./235458-metal-glove-exodus.json) |
 | Metal Gunner | 137655 | [137655-metal-gunner.json](./137655-metal-gunner.json) |
@@ -4506,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Inn | 84272 | [84272-mystic-inn.json](./84272-mystic-inn.json) |
 | Mystic Kingdoms | 328456 | [328456-mystic-kingdoms.json](./328456-mystic-kingdoms.json) |
 | Mystic Land: The search for Maphaldo | 270967 | [270967-mystic-land-the-search-for-maphaldo.json](./270967-mystic-land-the-search-for-maphaldo.json) |
+| Mystic Messenger | 27259 | [27259-mystic-messenger.json](./27259-mystic-messenger.json) |
 | Mystic Midway: Phantom Express | 45911 | [45911-mystic-midway-phantom-express.json](./45911-mystic-midway-phantom-express.json) |
 | Mystic Midway: Rest in Pieces | 45910 | [45910-mystic-midway-rest-in-pieces.json](./45910-mystic-midway-rest-in-pieces.json) |
 | Mystic Mischief | 248029 | [248029-mystic-mischief.json](./248029-mystic-mischief.json) |
