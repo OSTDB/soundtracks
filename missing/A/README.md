@@ -233,7 +233,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set II | 282591 | [282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json](./282591-ace-combat-7-skies-unknown-25th-anniversary-emblem-set-ii.json) |
 | Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II | 282593 | [282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json](./282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json) |
 | Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
-| Ace Combat 7: Skies Unknown - F-104C: Avril | 282540 | [282540-ace-combat-7-skies-unknown-f-104c-avril.json](./282540-ace-combat-7-skies-unknown-f-104c-avril.json) |
 | Ace Combat 7: Skies Unknown - F-15 S/MTD Set | 282589 | [282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json](./282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json) |
 | Ace Combat 7: Skies Unknown - F-16XL Set | 282588 | [282588-ace-combat-7-skies-unknown-f-16xl-set.json](./282588-ace-combat-7-skies-unknown-f-16xl-set.json) |
 | Ace Combat 7: Skies Unknown - FB-22 Strike Raptor Set | 282590 | [282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json](./282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json) |
