@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 4 | 342071 | [342071-aca-neogeo-selection-vol-4.json](./342071-aca-neogeo-selection-vol-4.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
+| Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Access Code Zero | 174269 | [174269-access-code-zero.json](./174269-access-code-zero.json) |
@@ -303,7 +304,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
-| Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve | 300990 | [300990-adam-and-eve.json](./300990-adam-and-eve.json) |
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
 | Adam Sandler Dating Sim | 138263 | [138263-adam-sandler-dating-sim.json](./138263-adam-sandler-dating-sim.json) |
