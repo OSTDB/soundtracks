@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War: Adepta Sororitas | 230812 | [230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json](./230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adeptus Mechanicus | 186891 | [186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json](./186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 11364 | [11364-warhammer-40-000-inquisitor-martyr.json](./11364-warhammer-40-000-inquisitor-martyr.json) |
+| Warhammer 40,000: Inquisitor - Prophecy | 118770 | [118770-warhammer-40-000-inquisitor-prophecy.json](./118770-warhammer-40-000-inquisitor-prophecy.json) |
 | Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
 | Warhammer 40,000: Mechanicus | 88461 | [88461-warhammer-40-000-mechanicus.json](./88461-warhammer-40-000-mechanicus.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Wolf - Saga of the Great Awakening | 163384 | [163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json](./163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json) |
 | Warhammer 40,000: Space Wolf - Sentry Gun Pack | 156170 | [156170-warhammer-40-000-space-wolf-sentry-gun-pack.json](./156170-warhammer-40-000-space-wolf-sentry-gun-pack.json) |
 | Warhammer 40,000: Space Wolf - Sigurd Ironside | 163387 | [163387-warhammer-40-000-space-wolf-sigurd-ironside.json](./163387-warhammer-40-000-space-wolf-sigurd-ironside.json) |
+| Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
 | Warhammer: Chaosbane - Deluxe Edition | 115064 | [115064-warhammer-chaosbane-deluxe-edition.json](./115064-warhammer-chaosbane-deluxe-edition.json) |
@@ -737,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westward Journey Online | 62181 | [62181-westward-journey-online.json](./62181-westward-journey-online.json) |
 | Westworld | 90565 | [90565-westworld.json](./90565-westworld.json) |
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
+| Wet Girl | 114232 | [114232-wet-girl.json](./114232-wet-girl.json) |
 | Wet Waifu | 161367 | [161367-wet-waifu.json](./161367-wet-waifu.json) |
 | Wet Warfare | 109679 | [109679-wet-warfare.json](./109679-wet-warfare.json) |
 | Wet-Dry World | 308233 | [308233-wet-dry-world.json](./308233-wet-dry-world.json) |
@@ -1235,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingy Pop | 55070 | [55070-wingy-pop.json](./55070-wingy-pop.json) |
 | Wink and the Broken Robot | 179667 | [179667-wink-and-the-broken-robot.json](./179667-wink-and-the-broken-robot.json) |
 | Winkeltje: Cat Companion | 273939 | [273939-winkeltje-cat-companion.json](./273939-winkeltje-cat-companion.json) |
+| Winkeltje: The Little Shop | 114493 | [114493-winkeltje-the-little-shop.json](./114493-winkeltje-the-little-shop.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
