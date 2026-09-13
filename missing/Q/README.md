@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Conundrum: The Desmond Debacle | 172125 | [172125-quantum-conundrum-the-desmond-debacle.json](./172125-quantum-conundrum-the-desmond-debacle.json) |
 | Quantum Covenant | 113718 | [113718-quantum-covenant.json](./113718-quantum-covenant.json) |
 | Quantum Drive | 278395 | [278395-quantum-drive.json](./278395-quantum-drive.json) |
+| Quantum Error | 132226 | [132226-quantum-error.json](./132226-quantum-error.json) |
 | Quantum Lake | 26604 | [26604-quantum-lake.json](./26604-quantum-lake.json) |
 | Quantum Legend - vr show | 115604 | [115604-quantum-legend-vr-show.json](./115604-quantum-legend-vr-show.json) |
 | Quantum Lock | 34189 | [34189-quantum-lock.json](./34189-quantum-lock.json) |
