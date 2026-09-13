@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario Land 3 | 1698 | [1698-wario-land-3.json](./1698-wario-land-3.json) |
 | Wario Land 4: Burning Nightmares | 339250 | [339250-wario-land-4-burning-nightmares.json](./339250-wario-land-4-burning-nightmares.json) |
 | Wario Land: Shake It! | 1702 | [1702-wario-land-shake-it.json](./1702-wario-land-shake-it.json) |
+| Wario: Master of Disguise | 1701 | [1701-wario-master-of-disguise.json](./1701-wario-master-of-disguise.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
 | WarioWare D.I.Y. | 1708 | [1708-warioware-d-i-y.json](./1708-warioware-d-i-y.json) |
@@ -366,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarLeague | 230308 | [230308-warleague.json](./230308-warleague.json) |
 | Warlike | 151151 | [151151-warlike.json](./151151-warlike.json) |
 | Warlings 2: Total Armageddon | 280185 | [280185-warlings-2-total-armageddon.json](./280185-warlings-2-total-armageddon.json) |
+| Warlock: Master of the Arcane | 2072 | [2072-warlock-master-of-the-arcane.json](./2072-warlock-master-of-the-arcane.json) |
 | Warlock's Quest | 57697 | [57697-warlocks-quest.json](./57697-warlocks-quest.json) |
 | Warlocked | 49874 | [49874-warlocked.json](./49874-warlocked.json) |
 | Warlocks | 37096 | [37096-warlocks.json](./37096-warlocks.json) |
