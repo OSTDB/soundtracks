@@ -3364,6 +3364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Truck Madness | 146887 | [146887-monster-truck-madness.json](./146887-monster-truck-madness.json) |
+| Monster Truck Madness | 6513 | [6513-monster-truck-madness.json](./6513-monster-truck-madness.json) |
 | Monster Truck Madness 64 | 10615 | [10615-monster-truck-madness-64.json](./10615-monster-truck-madness-64.json) |
 | Monster Truck Montain Offroad | 228105 | [228105-monster-truck-montain-offroad.json](./228105-monster-truck-montain-offroad.json) |
 | Monster Truck Ramp Stunt | 246431 | [246431-monster-truck-ramp-stunt.json](./246431-monster-truck-ramp-stunt.json) |
@@ -3387,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Lair | 356669 | [356669-monsters-lair.json](./356669-monsters-lair.json) |
 | Monsters Love Candy | 63852 | [63852-monsters-love-candy.json](./63852-monsters-love-candy.json) |
 | Monsters of Kanji 2 | 124205 | [124205-monsters-of-kanji-2.json](./124205-monsters-of-kanji-2.json) |
+| Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
