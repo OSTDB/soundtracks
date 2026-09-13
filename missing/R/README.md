@@ -1504,6 +1504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbits | 341867 | [341867-ribbits.json](./341867-ribbits.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
 | Rice & Rest | 346581 | [346581-rice-and-rest.json](./346581-rice-and-rest.json) |
+| Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
 | Rich Girls | 286499 | [286499-rich-girls.json](./286499-rich-girls.json) |
 | Rich Lady's Slave Role Play | 199616 | [199616-rich-ladys-slave-role-play.json](./199616-rich-ladys-slave-role-play.json) |
@@ -1832,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Homeward 3: Underwater World | 120951 | [120951-road-homeward-3-underwater-world.json](./120951-road-homeward-3-underwater-world.json) |
 | Road Homeward 4: Last Step | 123557 | [123557-road-homeward-4-last-step.json](./123557-road-homeward-4-last-step.json) |
 | Road Homeward: Open World | 127312 | [127312-road-homeward-open-world.json](./127312-road-homeward-open-world.json) |
+| Road Madness | 33140 | [33140-road-madness.json](./33140-road-madness.json) |
 | Road of Danger | 41936 | [41936-road-of-danger.json](./41936-road-of-danger.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Road Rash 64 | 3589 | [3589-road-rash-64.json](./3589-road-rash-64.json) |
@@ -2212,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll For Confidence | 171091 | [171091-roll-for-confidence.json](./171091-roll-for-confidence.json) |
 | Roll the Dark Heart | 251850 | [251850-roll-the-dark-heart.json](./251850-roll-the-dark-heart.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
+| Roll'd | 33076 | [33076-rolld.json](./33076-rolld.json) |
 | Roll+Heart | 119718 | [119718-roll-heart.json](./119718-roll-heart.json) |
 | Rolla | 374635 | [374635-rolla.json](./374635-rolla.json) |
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
