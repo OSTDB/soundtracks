@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Attack | 329000 | [329000-gorilla-attack.json](./329000-gorilla-attack.json) |
 | Gorilla Smash City Attack Game | 274185 | [274185-gorilla-smash-city-attack-game.json](./274185-gorilla-smash-city-attack-game.json) |
 | Gorillaz - Escape to Plastic Beach | 66158 | [66158-gorillaz-escape-to-plastic-beach.json](./66158-gorillaz-escape-to-plastic-beach.json) |
+| Gorky 17 | 7833 | [7833-gorky-17.json](./7833-gorky-17.json) |
 | Gorky Zero: Beyond Honor | 26557 | [26557-gorky-zero-beyond-honor.json](./26557-gorky-zero-beyond-honor.json) |
 | Gormiti: The Lords of Nature! | 188105 | [188105-gormiti-the-lords-of-nature.json](./188105-gormiti-the-lords-of-nature.json) |
 | Gorn | 41047 | [41047-gorn.json](./41047-gorn.json) |
@@ -2060,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
 | Guilty Gear Petit | 9147 | [9147-guilty-gear-petit.json](./9147-guilty-gear-petit.json) |
 | Guilty Gear Petit 2 | 9148 | [9148-guilty-gear-petit-2.json](./9148-guilty-gear-petit-2.json) |
+| Guilty Gear X | 9141 | [9141-guilty-gear-x.json](./9141-guilty-gear-x.json) |
 | Guilty Gear Xrd: Rev 2 - Character Colors Zato-One | 344378 | [344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json](./344378-guilty-gear-xrd-rev-2-character-colors-zato-one.json) |
 | Guilty Gear Xrd: Revelator | 13620 | [13620-guilty-gear-xrd-revelator.json](./13620-guilty-gear-xrd-revelator.json) |
 | Guilty Gear Xrd: Revelator - Deluxe Edition | 82089 | [82089-guilty-gear-xrd-revelator-deluxe-edition.json](./82089-guilty-gear-xrd-revelator-deluxe-edition.json) |
