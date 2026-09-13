@@ -86,6 +86,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Hidden Cats: Ninja | 334123 | [334123-100-hidden-cats-ninja.json](./334123-100-hidden-cats-ninja.json) |
 | 100 Hidden Cats: Playground | 330560 | [330560-100-hidden-cats-playground.json](./330560-100-hidden-cats-playground.json) |
+| 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
 | 100 Hiddensaurs: Greece | 318394 | [318394-100-hiddensaurs-greece.json](./318394-100-hiddensaurs-greece.json) |
 | 100 India Cats | 334124 | [334124-100-india-cats.json](./334124-100-india-cats.json) |
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
@@ -318,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Convoy | 15575 | [15575-3d-convoy.json](./15575-3d-convoy.json) |
 | 3D Creation Station | 64907 | [64907-3d-creation-station.json](./64907-3d-creation-station.json) |
+| 3D Dot Game Heroes | 7265 | [7265-3d-dot-game-heroes.json](./7265-3d-dot-game-heroes.json) |
 | 3D Dragon Castle | 205837 | [205837-3d-dragon-castle.json](./205837-3d-dragon-castle.json) |
 | 3D Driving School | 52544 | [52544-3d-driving-school.json](./52544-3d-driving-school.json) |
 | 3D Fast & Furious | 410226 | [410226-3d-fast-and-furious.json](./410226-3d-fast-and-furious.json) |
