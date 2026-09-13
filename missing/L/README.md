@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let’s Build a Zoo: Aquarium Odyssey | 245302 | [245302-let-s-build-a-zoo-aquarium-odyssey.json](./245302-let-s-build-a-zoo-aquarium-odyssey.json) |
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
+| Let's Catch | 21352 | [21352-lets-catch.json](./21352-lets-catch.json) |
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
 | Let's Cook Together | 133455 | [133455-lets-cook-together.json](./133455-lets-cook-together.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
