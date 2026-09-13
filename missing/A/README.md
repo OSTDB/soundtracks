@@ -874,6 +874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
 | Air Trix | 18048 | [18048-air-trix.json](./18048-air-trix.json) |
+| Air Twister | 203458 | [203458-air-twister.json](./203458-air-twister.json) |
 | Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
@@ -2302,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | Aquatic Adventure | 292015 | [292015-aquatic-adventure.json](./292015-aquatic-adventure.json) |
 | Aquatic Rampage | 152348 | [152348-aquatic-rampage.json](./152348-aquatic-rampage.json) |
+| Aquatico | 199129 | [199129-aquatico.json](./199129-aquatico.json) |
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
 | Aquatopia | 44601 | [44601-aquatopia.json](./44601-aquatopia.json) |
 | Aquaventura | 14263 | [14263-aquaventura.json](./14263-aquaventura.json) |
@@ -2647,6 +2649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arima Lodge | 326630 | [326630-arima-lodge.json](./326630-arima-lodge.json) |
 | Arinn | 261787 | [261787-arinn.json](./261787-arinn.json) |
 | Aripi | 158136 | [158136-aripi.json](./158136-aripi.json) |
+| Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
 | Aristoi | 180233 | [180233-aristoi.json](./180233-aristoi.json) |
@@ -2671,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid Returns | 13685 | [13685-arkanoid-returns.json](./13685-arkanoid-returns.json) |
 | Arkanoid: Amiga Alternate Levels | 268492 | [268492-arkanoid-amiga-alternate-levels.json](./268492-arkanoid-amiga-alternate-levels.json) |
 | Arkanoid: Chinese Edition | 268493 | [268493-arkanoid-chinese-edition.json](./268493-arkanoid-chinese-edition.json) |
+| Arkanoid: Eternal Battle | 204506 | [204506-arkanoid-eternal-battle.json](./204506-arkanoid-eternal-battle.json) |
 | Arkanoid: Revenge of Doh | 11756 | [11756-arkanoid-revenge-of-doh.json](./11756-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
@@ -2866,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 4 | 191227 | [191227-artists-of-fortune-paint-by-numbers-spooky-rush-ep-4.json](./191227-artists-of-fortune-paint-by-numbers-spooky-rush-ep-4.json) |
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 5 | 191232 | [191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json](./191232-artists-of-fortune-paint-by-numbers-spooky-rush-ep-5.json) |
 | Artists of Fortune: Paint by Numbers! - Spooky Rush Ep. 6 | 191238 | [191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json](./191238-artists-of-fortune-paint-by-numbers-spooky-rush-ep-6.json) |
+| Arto | 199454 | [199454-arto.json](./199454-arto.json) |
 | ArtPulse | 129123 | [129123-artpulse.json](./129123-artpulse.json) |
 | Artsec | 398333 | [398333-artsec.json](./398333-artsec.json) |
 | Artsy Pixel | 212278 | [212278-artsy-pixel.json](./212278-artsy-pixel.json) |
