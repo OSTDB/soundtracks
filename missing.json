@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T21:03:50.330Z",
-  "total_missing": 67174,
+  "generated_at": "2026-09-13T21:11:27.860Z",
+  "total_missing": 67173,
   "games": [
     {
       "igdb_id": 306086,
@@ -3916,11 +3916,6 @@
       "igdb_id": 242529,
       "game_name": "Adibou: Je lis, je calcule 6-7 ans",
       "file": "missing/A/242529-adibou-je-lis-je-calcule-6-7-ans.json"
-    },
-    {
-      "igdb_id": 76620,
-      "game_name": "Adj",
-      "file": "missing/A/76620-adj.json"
     },
     {
       "igdb_id": 112303,
