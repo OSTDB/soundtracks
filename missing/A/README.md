@@ -321,7 +321,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou d'chou au cirque | 242534 | [242534-adibou-dchou-au-cirque.json](./242534-adibou-dchou-au-cirque.json) |
 | Adibou d'chou au Pays des Bonbons | 242532 | [242532-adibou-dchou-au-pays-des-bonbons.json](./242532-adibou-dchou-au-pays-des-bonbons.json) |
 | Adibou Nature et Sciences | 242531 | [242531-adibou-nature-et-sciences.json](./242531-adibou-nature-et-sciences.json) |
-| Adibou: Je lis, je calcule 6-7 ans | 242529 | [242529-adibou-je-lis-je-calcule-6-7-ans.json](./242529-adibou-je-lis-je-calcule-6-7-ans.json) |
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
 | ADOM: Ancient Domains of Mystery | 36159 | [36159-adom-ancient-domains-of-mystery.json](./36159-adom-ancient-domains-of-mystery.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
