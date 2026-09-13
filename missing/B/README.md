@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
 | Bad Cheese | 320146 | [320146-bad-cheese.json](./320146-bad-cheese.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
+| Bad Dinos | 23219 | [23219-bad-dinos.json](./23219-bad-dinos.json) |
 | Bad Dream: Bridge | 133931 | [133931-bad-dream-bridge.json](./133931-bad-dream-bridge.json) |
 | Bad Drummer Simulator | 178598 | [178598-bad-drummer-simulator.json](./178598-bad-drummer-simulator.json) |
 | Bad Dudes vs. Dragon Ninja | 18831 | [18831-bad-dudes-vs-dragon-ninja.json](./18831-bad-dudes-vs-dragon-ninja.json) |
@@ -2072,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades and Rings | 82122 | [82122-blades-and-rings.json](./82122-blades-and-rings.json) |
 | Blades of Brim | 28822 | [28822-blades-of-brim.json](./28822-blades-of-brim.json) |
 | Blades of Exile | 19579 | [19579-blades-of-exile.json](./19579-blades-of-exile.json) |
+| Blades of Fury | 23260 | [23260-blades-of-fury.json](./23260-blades-of-fury.json) |
 | Blades of Passage | 297482 | [297482-blades-of-passage.json](./297482-blades-of-passage.json) |
 | Blades of Steel | 7788 | [7788-blades-of-steel.json](./7788-blades-of-steel.json) |
 | Blades of Thunder | 49309 | [49309-blades-of-thunder.json](./49309-blades-of-thunder.json) |
@@ -2331,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Football | 58203 | [58203-blocky-football.json](./58203-blocky-football.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
+| Blocky Roads | 23413 | [23413-blocky-roads.json](./23413-blocky-roads.json) |
 | Blocky Rugby | 58198 | [58198-blocky-rugby.json](./58198-blocky-rugby.json) |
 | Blocky San Andreas Police 2018 | 102753 | [102753-blocky-san-andreas-police-2018.json](./102753-blocky-san-andreas-police-2018.json) |
 | Blocky Soccer | 58205 | [58205-blocky-soccer.json](./58205-blocky-soccer.json) |
@@ -3939,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
 | Buzz or Die | 295233 | [295233-buzz-or-die.json](./295233-buzz-or-die.json) |
+| Buzz! Brain Bender | 23267 | [23267-buzz-brain-bender.json](./23267-buzz-brain-bender.json) |
 | Buzz! De slimste van Nederland | 77281 | [77281-buzz-de-slimste-van-nederland.json](./77281-buzz-de-slimste-van-nederland.json) |
 | Buzz! Junior: Monster Rumble | 43506 | [43506-buzz-junior-monster-rumble.json](./43506-buzz-junior-monster-rumble.json) |
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
