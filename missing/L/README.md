@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Hutch VR | 121610 | [121610-life-hutch-vr.json](./121610-life-hutch-vr.json) |
 | Life In Planet | 152860 | [152860-life-in-planet.json](./152860-life-in-planet.json) |
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
+| Life in the Fast Lane | 74057 | [74057-life-in-the-fast-lane.json](./74057-life-in-the-fast-lane.json) |
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
 | Life In Yima | 144930 | [144930-life-in-yima.json](./144930-life-in-yima.json) |
 | Life Is A Game | 298887 | [298887-life-is-a-game.json](./298887-life-is-a-game.json) |
@@ -1008,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
+| Light Fingers | 69487 | [69487-light-fingers.json](./69487-light-fingers.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
 | Light Gravity Cube | 37042 | [37042-light-gravity-cube.json](./37042-light-gravity-cube.json) |
 | Light House Puzzle | 110969 | [110969-light-house-puzzle.json](./110969-light-house-puzzle.json) |
