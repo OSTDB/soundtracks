@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abermore | 191621 | [191621-abermore.json](./191621-abermore.json) |
 | Abha | 111036 | [111036-abha.json](./111036-abha.json) |
 | Ability Draft | 109031 | [109031-ability-draft.json](./109031-ability-draft.json) |
+| Abiotic Factor | 219126 | [219126-abiotic-factor.json](./219126-abiotic-factor.json) |
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
