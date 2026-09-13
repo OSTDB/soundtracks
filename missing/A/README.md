@@ -320,7 +320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou Nature et Sciences | 242531 | [242531-adibou-nature-et-sciences.json](./242531-adibou-nature-et-sciences.json) |
 | Adibou: Je lis, je calcule 4-5 ans | 242527 | [242527-adibou-je-lis-je-calcule-4-5-ans.json](./242527-adibou-je-lis-je-calcule-4-5-ans.json) |
 | Adibou: Je lis, je calcule 6-7 ans | 242529 | [242529-adibou-je-lis-je-calcule-6-7-ans.json](./242529-adibou-je-lis-je-calcule-6-7-ans.json) |
-| Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
 | Adj | 76620 | [76620-adj.json](./76620-adj.json) |
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
 | ADOM: Ancient Domains of Mystery | 36159 | [36159-adom-ancient-domains-of-mystery.json](./36159-adom-ancient-domains-of-mystery.json) |
