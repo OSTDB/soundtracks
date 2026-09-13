@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank Collection | 19994 | [19994-ratchet-and-clank-collection.json](./19994-ratchet-and-clank-collection.json) |
 | Ratchet & Clank: A Crack in Time - Collector's Edition | 45276 | [45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json](./45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json) |
 | Ratchet & Clank: Clone Home | 225652 | [225652-ratchet-and-clank-clone-home.json](./225652-ratchet-and-clank-clone-home.json) |
+| Ratchet & Clank: Full Frontal Assault | 1797 | [1797-ratchet-and-clank-full-frontal-assault.json](./1797-ratchet-and-clank-full-frontal-assault.json) |
 | Ratchet & Clank: Going Commando | 1770 | [1770-ratchet-and-clank-going-commando.json](./1770-ratchet-and-clank-going-commando.json) |
 | Ratchet & Clank: Going Mobile | 134656 | [134656-ratchet-and-clank-going-mobile.json](./134656-ratchet-and-clank-going-mobile.json) |
 | Ratchet: Deadlocked | 1790 | [1790-ratchet-deadlocked.json](./1790-ratchet-deadlocked.json) |
@@ -668,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
 | Reason: Casual Puzzle | 148000 | [148000-reason-casual-puzzle.json](./148000-reason-casual-puzzle.json) |
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
+| Rebel Galaxy | 11719 | [11719-rebel-galaxy.json](./11719-rebel-galaxy.json) |
 | Rebel Moon | 262644 | [262644-rebel-moon.json](./262644-rebel-moon.json) |
 | Rebel Moon Rising | 57628 | [57628-rebel-moon-rising.json](./57628-rebel-moon-rising.json) |
 | Rebel Pirates | 371238 | [371238-rebel-pirates.json](./371238-rebel-pirates.json) |
@@ -1080,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repentant | 106564 | [106564-repentant.json](./106564-repentant.json) |
 | Repentless | 213640 | [213640-repentless.json](./213640-repentless.json) |
 | RePirates | 181332 | [181332-repirates.json](./181332-repirates.json) |
+| Replaced | 152244 | [152244-replaced.json](./152244-replaced.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
 | Replica Club Route D | 404249 | [404249-replica-club-route-d.json](./404249-replica-club-route-d.json) |
 | Replica Island | 61625 | [61625-replica-island.json](./61625-replica-island.json) |
@@ -1718,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivalhearts | 321342 | [321342-rivalhearts.json](./321342-rivalhearts.json) |
 | Rivals Duel: Card Battler | 297203 | [297203-rivals-duel-card-battler.json](./297203-rivals-duel-card-battler.json) |
 | Rivals in the Skies | 363907 | [363907-rivals-in-the-skies.json](./363907-rivals-in-the-skies.json) |
+| Rivals of Aether | 21646 | [21646-rivals-of-aether.json](./21646-rivals-of-aether.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
 | Riven: The Sequel to Myst | 347131 | [347131-riven-the-sequel-to-myst.json](./347131-riven-the-sequel-to-myst.json) |
 | River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
@@ -2708,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
+| RV There Yet? | 373580 | [373580-rv-there-yet.json](./373580-rv-there-yet.json) |
 | RV-7 My Drone | 84909 | [84909-rv-7-my-drone.json](./84909-rv-7-my-drone.json) |
 | RWBY: Amity Arena | 107151 | [107151-rwby-amity-arena.json](./107151-rwby-amity-arena.json) |
 | RWBY: Vale of Darkness | 236806 | [236806-rwby-vale-of-darkness.json](./236806-rwby-vale-of-darkness.json) |
