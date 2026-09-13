@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game about a soup factory | 68625 | [68625-game-about-a-soup-factory.json](./68625-game-about-a-soup-factory.json) |
 | Game About Games | 162844 | [162844-game-about-games.json](./162844-game-about-games.json) |
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
+| Game Builder Garage | 146762 | [146762-game-builder-garage.json](./146762-game-builder-garage.json) |
 | Game Chinese | 105949 | [105949-game-chinese.json](./105949-game-chinese.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
 | Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
@@ -1302,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Dungeons | 88193 | [88193-golden-dungeons.json](./88193-golden-dungeons.json) |
 | Golden Egg | 219800 | [219800-golden-egg.json](./219800-golden-egg.json) |
 | Golden Fever | 48009 | [48009-golden-fever.json](./48009-golden-fever.json) |
+| Golden Force | 139960 | [139960-golden-force.json](./139960-golden-force.json) |
 | Golden Galaxy | 243956 | [243956-golden-galaxy.json](./243956-golden-galaxy.json) |
 | Golden Gate | 81335 | [81335-golden-gate.json](./81335-golden-gate.json) |
 | Golden Gloves VR | 235191 | [235191-golden-gloves-vr.json](./235191-golden-gloves-vr.json) |
@@ -1807,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Eyed Monster | 184034 | [184034-green-eyed-monster.json](./184034-green-eyed-monster.json) |
 | Green Farm 2 | 385048 | [385048-green-farm-2.json](./385048-green-farm-2.json) |
 | Green Field Silver Tree | 117689 | [117689-green-field-silver-tree.json](./117689-green-field-silver-tree.json) |
+| Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
 | Green Inferno | 410929 | [410929-green-inferno.json](./410929-green-inferno.json) |
 | Green Lantern Battle Cards | 64339 | [64339-green-lantern-battle-cards.json](./64339-green-lantern-battle-cards.json) |
 | Green Lantern: Rise of the Manhunters | 4896 | [4896-green-lantern-rise-of-the-manhunters.json](./4896-green-lantern-rise-of-the-manhunters.json) |
@@ -2205,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunBlocks | 168315 | [168315-gunblocks.json](./168315-gunblocks.json) |
 | Gunboat God | 305189 | [305189-gunboat-god.json](./305189-gunboat-god.json) |
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
+| Gunborg: Dark Matters | 151140 | [151140-gunborg-dark-matters.json](./151140-gunborg-dark-matters.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
 | GunBoxing | 392798 | [392798-gunboxing.json](./392798-gunboxing.json) |
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
