@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oretachi no Sabage Versus | 59374 | [59374-oretachi-no-sabage-versus.json](./59374-oretachi-no-sabage-versus.json) |
 | Organ Failure | 383385 | [383385-organ-failure.json](./383385-organ-failure.json) |
 | Organ Quarter Pre-Alpha Demo | 30909 | [30909-organ-quarter-pre-alpha-demo.json](./30909-organ-quarter-pre-alpha-demo.json) |
+| Organ Trail: Director's Cut | 6859 | [6859-organ-trail-directors-cut.json](./6859-organ-trail-directors-cut.json) |
 | Organic Engine | 212794 | [212794-organic-engine.json](./212794-organic-engine.json) |
 | Organic Panic | 36418 | [36418-organic-panic.json](./36418-organic-panic.json) |
 | Organize My Shop | 405541 | [405541-organize-my-shop.json](./405541-organize-my-shop.json) |
