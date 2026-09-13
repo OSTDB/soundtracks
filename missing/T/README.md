@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Formula | 141163 | [141163-tactics-formula.json](./141163-tactics-formula.json) |
 | Tactics Maiden | 207856 | [207856-tactics-maiden.json](./207856-tactics-maiden.json) |
 | Tactics Maiden Remastered | 106557 | [106557-tactics-maiden-remastered.json](./106557-tactics-maiden-remastered.json) |
+| Tactics Ogre: The Knight of Lodis | 6635 | [6635-tactics-ogre-the-knight-of-lodis.json](./6635-tactics-ogre-the-knight-of-lodis.json) |
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
@@ -5586,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
+| Top Spin | 5234 | [5234-top-spin.json](./5234-top-spin.json) |
 | Top Street Soccer | 102209 | [102209-top-street-soccer.json](./102209-top-street-soccer.json) |
 | Top Troops! | 228123 | [228123-top-troops.json](./228123-top-troops.json) |
 | Top Truck Driver | 156642 | [156642-top-truck-driver.json](./156642-top-truck-driver.json) |
@@ -6909,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Leaper | 266204 | [266204-turbo-leaper.json](./266204-turbo-leaper.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
+| Turbo Overkill | 172024 | [172024-turbo-overkill.json](./172024-turbo-overkill.json) |
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
 | Turbo Skiddy Racing | 146848 | [146848-turbo-skiddy-racing.json](./146848-turbo-skiddy-racing.json) |
