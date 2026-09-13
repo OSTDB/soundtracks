@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Power | 276154 | [276154-universal-power.json](./276154-universal-power.json) |
 | Universal Slot Street | 220297 | [220297-universal-slot-street.json](./220297-universal-slot-street.json) |
 | Universal Space Station | 116989 | [116989-universal-space-station.json](./116989-universal-space-station.json) |
+| Universal Studios Monsters: Monsterville | 12904 | [12904-universal-studios-monsters-monsterville.json](./12904-universal-studios-monsters-monsterville.json) |
 | Universally Loved | 106561 | [106561-universally-loved.json](./106561-universally-loved.json) |
 | Universe | 130867 | [130867-universe.json](./130867-universe.json) |
 | Universe 24 | 116301 | [116301-universe-24.json](./116301-universe-24.json) |
@@ -573,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unravel Lines Puzzle | 234049 | [234049-unravel-lines-puzzle.json](./234049-unravel-lines-puzzle.json) |
 | Unravel: Yarny Bundle | 115025 | [115025-unravel-yarny-bundle.json](./115025-unravel-yarny-bundle.json) |
 | Unread Messages | 262935 | [262935-unread-messages.json](./262935-unread-messages.json) |
+| Unreal | 12806 | [12806-unreal.json](./12806-unreal.json) |
 | Unreal Championship | 6220 | [6220-unreal-championship.json](./6220-unreal-championship.json) |
 | Unreal Drift Online Car Racing | 174891 | [174891-unreal-drift-online-car-racing.json](./174891-unreal-drift-online-car-racing.json) |
 | Unreal Evolution | 136489 | [136489-unreal-evolution.json](./136489-unreal-evolution.json) |
@@ -718,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban War Defense | 46591 | [46591-urban-war-defense.json](./46591-urban-war-defense.json) |
 | Urbance Clans Card Battle! | 107879 | [107879-urbance-clans-card-battle.json](./107879-urbance-clans-card-battle.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
+| Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
 | URLIRL | 394837 | [394837-urlirl.json](./394837-urlirl.json) |
 | Urotsukidouji | 123014 | [123014-urotsukidouji.json](./123014-urotsukidouji.json) |
 | Ursine Science | 260162 | [260162-ursine-science.json](./260162-ursine-science.json) |
