@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover AD2025 Kei | 86084 | [86084-undercover-ad2025-kei.json](./86084-undercover-ad2025-kei.json) |
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
 | Undercraft | 331345 | [331345-undercraft.json](./331345-undercraft.json) |
+| Undercrewed | 89325 | [89325-undercrewed.json](./89325-undercrewed.json) |
 | Underdog Detective | 198551 | [198551-underdog-detective.json](./198551-underdog-detective.json) |
 | Underdone | 47999 | [47999-underdone.json](./47999-underdone.json) |
 | UnderDungeon: Deluxe Edition | 250367 | [250367-underdungeon-deluxe-edition.json](./250367-underdungeon-deluxe-edition.json) |
@@ -566,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unmatch | 58805 | [58805-unmatch.json](./58805-unmatch.json) |
 | Unmaze | 159363 | [159363-unmaze.json](./159363-unmaze.json) |
 | Unmemory | 131565 | [131565-unmemory.json](./131565-unmemory.json) |
+| Unmoor | 89341 | [89341-unmoor.json](./89341-unmoor.json) |
 | Unnamed Arcade | 338586 | [338586-unnamed-arcade.json](./338586-unnamed-arcade.json) |
 | Unnamed El Shaddai Project | 93535 | [93535-unnamed-el-shaddai-project.json](./93535-unnamed-el-shaddai-project.json) |
 | Unnamed Experiment | 265145 | [265145-unnamed-experiment.json](./265145-unnamed-experiment.json) |
