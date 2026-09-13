@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacralith: The Archer's Tale | 61622 | [61622-sacralith-the-archers-tale.json](./61622-sacralith-the-archers-tale.json) |
 | Sacrament of the Zodiac: The Confused Sheep and The Tamed Wolf | 141832 | [141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json](./141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json) |
+| Sacred 2: Fallen Angel | 1043 | [1043-sacred-2-fallen-angel.json](./1043-sacred-2-fallen-angel.json) |
 | Sacred 3 | 5615 | [5615-sacred-3.json](./5615-sacred-3.json) |
 | Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
@@ -254,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Beyond Time and Space - Episode 3: Night of the Raving Dead | 27837 | [27837-sam-and-max-beyond-time-and-space-episode-3-night-of-the-raving-dead.json](./27837-sam-and-max-beyond-time-and-space-episode-3-night-of-the-raving-dead.json) |
 | Sam & Max: Beyond Time and Space - Episode 4: Chariots of the Dogs | 27838 | [27838-sam-and-max-beyond-time-and-space-episode-4-chariots-of-the-dogs.json](./27838-sam-and-max-beyond-time-and-space-episode-4-chariots-of-the-dogs.json) |
 | Sam & Max: Save the World | 140878 | [140878-sam-and-max-save-the-world.json](./140878-sam-and-max-save-the-world.json) |
+| Sam & Max: Save the World | 862 | [862-sam-and-max-save-the-world.json](./862-sam-and-max-save-the-world.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
@@ -1497,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowpiercer | 383964 | [383964-shadowpiercer.json](./383964-shadowpiercer.json) |
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrun | 7643 | [7643-shadowrun.json](./7643-shadowrun.json) |
+| Shadowrun: Hong Kong | 11772 | [11772-shadowrun-hong-kong.json](./11772-shadowrun-hong-kong.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
 | Shadows Behind the Throne 2 | 158178 | [158178-shadows-behind-the-throne-2.json](./158178-shadows-behind-the-throne-2.json) |
@@ -2817,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
 | Slender: The Arrival | 2049 | [2049-slender-the-arrival.json](./2049-slender-the-arrival.json) |
+| Slender: The Eight Pages | 12938 | [12938-slender-the-eight-pages.json](./12938-slender-the-eight-pages.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
@@ -5859,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Adventure | 394833 | [394833-strange-adventure.json](./394833-strange-adventure.json) |
 | Strange Hill | 263750 | [263750-strange-hill.json](./263750-strange-hill.json) |
 | Strange Horizons | 384499 | [384499-strange-horizons.json](./384499-strange-horizons.json) |
+| Strange Horticulture | 186597 | [186597-strange-horticulture.json](./186597-strange-horticulture.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
 | Strange Night | 32248 | [32248-strange-night.json](./32248-strange-night.json) |
@@ -6810,6 +6815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Card e+ - Sugu ni Mantan! Power Meter!! | 296054 | [296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json](./296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json) |
 | Super Mario Advance 4: Card e+ - Teki Power Up! Tokuten x2!! | 296055 | [296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json](./296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json) |
 | Super Mario Advance 4: Card e+ - Timer Yukkuri! | 296053 | [296053-super-mario-advance-4-card-e-timer-yukkuri.json](./296053-super-mario-advance-4-card-e-timer-yukkuri.json) |
+| Super Mario Advance 4: Super Mario Bros. 3 | 16748 | [16748-super-mario-advance-4-super-mario-bros-3.json](./16748-super-mario-advance-4-super-mario-bros-3.json) |
 | Super Mario Advance 4: Super Mario Bros. 3 | 170021 | [170021-super-mario-advance-4-super-mario-bros-3.json](./170021-super-mario-advance-4-super-mario-bros-3.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - A Towering Tour | 241014 | [241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json](./241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Airship's Revenge | 241025 | [241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json](./241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json) |
