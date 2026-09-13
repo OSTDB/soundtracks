@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T17:51:34.760Z",
-  "total_missing": 66654,
+  "generated_at": "2026-09-13T18:01:33.219Z",
+  "total_missing": 66660,
   "games": [
     {
       "igdb_id": 306086,
@@ -3818,11 +3818,6 @@
       "file": "missing/A/240470-adachi-dating-simulator.json"
     },
     {
-      "igdb_id": 300990,
-      "game_name": "Adam and Eve",
-      "file": "missing/A/300990-adam-and-eve.json"
-    },
-    {
       "igdb_id": 233509,
       "game_name": "Adam and Eve: Crossy River",
       "file": "missing/A/233509-adam-and-eve-crossy-river.json"
@@ -5146,6 +5141,11 @@
       "igdb_id": 174367,
       "game_name": "Afrikan Tähti",
       "file": "missing/A/174367-afrikan-tahti.json"
+    },
+    {
+      "igdb_id": 20030,
+      "game_name": "Afro Samurai 2: Revenge of Kuma",
+      "file": "missing/A/20030-afro-samurai-2-revenge-of-kuma.json"
     },
     {
       "igdb_id": 246670,
@@ -79048,6 +79048,11 @@
       "file": "missing/D/415919-duat-beyond-light-and-shadow.json"
     },
     {
+      "igdb_id": 19977,
+      "game_name": "Dub Dash",
+      "file": "missing/D/19977-dub-dash.json"
+    },
+    {
       "igdb_id": 156623,
       "game_name": "Dubbing Time",
       "file": "missing/D/156623-dubbing-time.json"
@@ -130898,6 +130903,11 @@
       "file": "missing/I/282576-ice-age-continental-drift.json"
     },
     {
+      "igdb_id": 20002,
+      "game_name": "Ice Age: Continental Drift - Arctic Games",
+      "file": "missing/I/20002-ice-age-continental-drift-arctic-games.json"
+    },
+    {
       "igdb_id": 364525,
       "game_name": "Ice Age: The DVD Game",
       "file": "missing/I/364525-ice-age-the-dvd-game.json"
@@ -156676,6 +156686,11 @@
       "igdb_id": 137634,
       "game_name": "Lord of Heroes",
       "file": "missing/L/137634-lord-of-heroes.json"
+    },
+    {
+      "igdb_id": 20020,
+      "game_name": "Lord of Magna: Maiden Heaven",
+      "file": "missing/L/20020-lord-of-magna-maiden-heaven.json"
     },
     {
       "igdb_id": 365078,
@@ -268753,6 +268768,11 @@
       "file": "missing/S/32027-super-star.json"
     },
     {
+      "igdb_id": 19981,
+      "game_name": "Super Star Path",
+      "file": "missing/S/19981-super-star-path.json"
+    },
+    {
       "igdb_id": 325825,
       "game_name": "Super Star Trek",
       "file": "missing/S/325825-super-star-trek.json"
@@ -269171,6 +269191,11 @@
       "igdb_id": 263755,
       "game_name": "Supercharged",
       "file": "missing/S/263755-supercharged.json"
+    },
+    {
+      "igdb_id": 20019,
+      "game_name": "Supercharged Robot Vulkaiser",
+      "file": "missing/S/20019-supercharged-robot-vulkaiser.json"
     },
     {
       "igdb_id": 69241,
@@ -271356,6 +271381,11 @@
       "igdb_id": 210262,
       "game_name": "Swords & Soldiers",
       "file": "missing/S/210262-swords-and-soldiers.json"
+    },
+    {
+      "igdb_id": 19975,
+      "game_name": "Swords & Soldiers II",
+      "file": "missing/S/19975-swords-and-soldiers-ii.json"
     },
     {
       "igdb_id": 117173,
