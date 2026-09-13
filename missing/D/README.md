@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadwater Saloon | 190136 | [190136-deadwater-saloon.json](./190136-deadwater-saloon.json) |
 | DeadWire | 332252 | [332252-deadwire.json](./332252-deadwire.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
+| Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
 | Dear Blue | 297470 | [297470-dear-blue.json](./297470-dear-blue.json) |
 | Dear Diary | 297233 | [297233-dear-diary.json](./297233-dear-diary.json) |
 | Dear Diary | 370715 | [370715-dear-diary.json](./370715-dear-diary.json) |
@@ -938,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathball | 182452 | [182452-deathball.json](./182452-deathball.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathbound: Accepted by Death | 320735 | [320735-deathbound-accepted-by-death.json](./320735-deathbound-accepted-by-death.json) |
+| Deathgarden: Bloodharvest | 119923 | [119923-deathgarden-bloodharvest.json](./119923-deathgarden-bloodharvest.json) |
 | Deathloop + Ghostwire: Tokyo Bundle | 281406 | [281406-deathloop-ghostwire-tokyo-bundle.json](./281406-deathloop-ghostwire-tokyo-bundle.json) |
 | Deathly Storm: The Edge of Life | 88184 | [88184-deathly-storm-the-edge-of-life.json](./88184-deathly-storm-the-edge-of-life.json) |
 | DeathMatch | 117685 | [117685-deathmatch.json](./117685-deathmatch.json) |
@@ -2072,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Step | 335656 | [335656-disney-step.json](./335656-disney-step.json) |
 | Disney The Little Mermaid: Undersea Treasures! | 328255 | [328255-disney-the-little-mermaid-undersea-treasures.json](./328255-disney-the-little-mermaid-undersea-treasures.json) |
 | Disney Toy Box | 342649 | [342649-disney-toy-box.json](./342649-disney-toy-box.json) |
+| Disney Tsum Tsum Festival | 115332 | [115332-disney-tsum-tsum-festival.json](./115332-disney-tsum-tsum-festival.json) |
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
 | Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
 | Disney's A Christmas Carol | 21086 | [21086-disneys-a-christmas-carol.json](./21086-disneys-a-christmas-carol.json) |
@@ -3097,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 272021 | [272021-dragons-lair.json](./272021-dragons-lair.json) |
 | Dragon's Lair Trilogy | 50593 | [50593-dragons-lair-trilogy.json](./50593-dragons-lair-trilogy.json) |
 | Dragon's Lair: Daring Edition | 100722 | [100722-dragons-lair-daring-edition.json](./100722-dragons-lair-daring-edition.json) |
+| Dragon's Lair: The Legend | 117950 | [117950-dragons-lair-the-legend.json](./117950-dragons-lair-the-legend.json) |
 | Dragon's Playground | 178010 | [178010-dragons-playground.json](./178010-dragons-playground.json) |
 | Dragon's Wake | 34533 | [34533-dragons-wake.json](./34533-dragons-wake.json) |
 | Dragon's Wandering Tavern | 153985 | [153985-dragons-wandering-tavern.json](./153985-dragons-wandering-tavern.json) |
