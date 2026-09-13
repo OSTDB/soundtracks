@@ -108,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
 | Nanospace | 27661 | [27661-nanospace.json](./27661-nanospace.json) |
 | Nanoswarm | 110971 | [110971-nanoswarm.json](./110971-nanoswarm.json) |
+| Nanotale: Typing Chronicles | 112378 | [112378-nanotale-typing-chronicles.json](./112378-nanotale-typing-chronicles.json) |
 | Nanotris | 33064 | [33064-nanotris.json](./33064-nanotris.json) |
 | Nanoui | 89972 | [89972-nanoui.json](./89972-nanoui.json) |
 | Nanowar | 181902 | [181902-nanowar.json](./181902-nanowar.json) |
@@ -624,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoSprint | 295286 | [295286-neosprint.json](./295286-neosprint.json) |
 | Neoteria | 61111 | [61111-neoteria.json](./61111-neoteria.json) |
 | NeoTrap | 184112 | [184112-neotrap.json](./184112-neotrap.json) |
+| Neoverse | 113750 | [113750-neoverse.json](./113750-neoverse.json) |
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
