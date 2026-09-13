@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush: Battles | 365682 | [365682-kingdom-rush-battles.json](./365682-kingdom-rush-battles.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
+| Kingdom Under Fire: A War of Heroes | 18112 | [18112-kingdom-under-fire-a-war-of-heroes.json](./18112-kingdom-under-fire-a-war-of-heroes.json) |
 | Kingdom Under Fire: Gold | 135820 | [135820-kingdom-under-fire-gold.json](./135820-kingdom-under-fire-gold.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Winds | 224031 | [224031-kingdom-winds.json](./224031-kingdom-winds.json) |
