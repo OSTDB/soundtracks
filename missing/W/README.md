@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Safety Ends R | 289896 | [289896-where-safety-ends-r.json](./289896-where-safety-ends-r.json) |
 | Where Sea Foam Fades | 364488 | [364488-where-sea-foam-fades.json](./364488-where-sea-foam-fades.json) |
 | Where Serpents Ever Dwell | 268466 | [268466-where-serpents-ever-dwell.json](./268466-where-serpents-ever-dwell.json) |
+| Where Shadows Slumber | 73171 | [73171-where-shadows-slumber.json](./73171-where-shadows-slumber.json) |
 | Where the Anemones Bloom | 302118 | [302118-where-the-anemones-bloom.json](./302118-where-the-anemones-bloom.json) |
 | Where the Chips Fall | 353859 | [353859-where-the-chips-fall.json](./353859-where-the-chips-fall.json) |
 | Where the Clouds End | 129728 | [129728-where-the-clouds-end.json](./129728-where-the-clouds-end.json) |
@@ -1384,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
 | Withering Realms | 329964 | [329964-withering-realms.json](./329964-withering-realms.json) |
+| Within a Rose | 72361 | [72361-within-a-rose.json](./72361-within-a-rose.json) |
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
 | Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
 | Within the Range | 391045 | [391045-within-the-range.json](./391045-within-the-range.json) |
@@ -1832,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World to the West | 27518 | [27518-world-to-the-west.json](./27518-world-to-the-west.json) |
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
+| World Tour Soccer 2006 | 72725 | [72725-world-tour-soccer-2006.json](./72725-world-tour-soccer-2006.json) |
 | World Travel Solitaire | 415964 | [415964-world-travel-solitaire.json](./415964-world-travel-solitaire.json) |
 | World Traveler VR | 118990 | [118990-world-traveler-vr.json](./118990-world-traveler-vr.json) |
 | World Trigger: Borderless Mission | 12892 | [12892-world-trigger-borderless-mission.json](./12892-world-trigger-borderless-mission.json) |
