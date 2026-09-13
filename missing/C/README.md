@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Blacksword | 235729 | [235729-captain-blacksword.json](./235729-captain-blacksword.json) |
 | Captain Blood | 73030 | [73030-captain-blood.json](./73030-captain-blood.json) |
 | Captain Comic: The Adventure | 48110 | [48110-captain-comic-the-adventure.json](./48110-captain-comic-the-adventure.json) |
+| Captain Commando | 19821 | [19821-captain-commando.json](./19821-captain-commando.json) |
 | Captain Contraband | 129201 | [129201-captain-contraband.json](./129201-captain-contraband.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
@@ -1098,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain-Chillas | 398343 | [398343-chain-chillas.json](./398343-chain-chillas.json) |
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
+| Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
 | Chainmap Chaos | 271232 | [271232-chainmap-chaos.json](./271232-chainmap-chaos.json) |
 | ChainMonsters | 124148 | [124148-chainmonsters.json](./124148-chainmonsters.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
@@ -3019,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Crisis: Succubus Invasion | 309861 | [309861-cosplay-crisis-succubus-invasion.json](./309861-cosplay-crisis-succubus-invasion.json) |
 | Cossacks 3: The Golden Age | 144963 | [144963-cossacks-3-the-golden-age.json](./144963-cossacks-3-the-golden-age.json) |
 | Cossacks: Campaign Expansion | 144964 | [144964-cossacks-campaign-expansion.json](./144964-cossacks-campaign-expansion.json) |
+| Cossacks: European Wars | 242 | [242-cossacks-european-wars.json](./242-cossacks-european-wars.json) |
 | Costa Verde Transport Department | 249204 | [249204-costa-verde-transport-department.json](./249204-costa-verde-transport-department.json) |
 | Costa's Classic Cosmic Pizzas | 156137 | [156137-costas-classic-cosmic-pizzas.json](./156137-costas-classic-cosmic-pizzas.json) |
 | Costly Adventure | 247735 | [247735-costly-adventure.json](./247735-costly-adventure.json) |
@@ -3251,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Twinsanity | 210234 | [210234-crash-twinsanity.json](./210234-crash-twinsanity.json) |
 | Crash Twinsanity 3D | 210232 | [210232-crash-twinsanity-3d.json](./210232-crash-twinsanity-3d.json) |
 | Crash-San | 238482 | [238482-crash-san.json](./238482-crash-san.json) |
+| Crash: Mind Over Mutant | 1191 | [1191-crash-mind-over-mutant.json](./1191-crash-mind-over-mutant.json) |
 | Crash: Mind Over Mutant | 210229 | [210229-crash-mind-over-mutant.json](./210229-crash-mind-over-mutant.json) |
 | Crashbots | 109627 | [109627-crashbots.json](./109627-crashbots.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
@@ -3681,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
 | Crysis 3 Remastered | 165127 | [165127-crysis-3-remastered.json](./165127-crysis-3-remastered.json) |
 | Crysis 3: Hunter Edition | 46635 | [46635-crysis-3-hunter-edition.json](./46635-crysis-3-hunter-edition.json) |
+| Crysis Remastered | 132164 | [132164-crysis-remastered.json](./132164-crysis-remastered.json) |
 | Crysis Remastered Trilogy | 150564 | [150564-crysis-remastered-trilogy.json](./150564-crysis-remastered-trilogy.json) |
 | Crysis Warhead | 336 | [336-crysis-warhead.json](./336-crysis-warhead.json) |
 | Crysis Wreckage | 51292 | [51292-crysis-wreckage.json](./51292-crysis-wreckage.json) |
