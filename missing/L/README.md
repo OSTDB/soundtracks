@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, Hate and the Mysterious Ocean Tower | 300381 | [300381-love-hate-and-the-mysterious-ocean-tower.json](./300381-love-hate-and-the-mysterious-ocean-tower.json) |
 | Love, Lies & a Heist: Ikemen Royale | 229028 | [229028-love-lies-and-a-heist-ikemen-royale.json](./229028-love-lies-and-a-heist-ikemen-royale.json) |
 | Love, Sam | 118986 | [118986-love-sam.json](./118986-love-sam.json) |
+| Love: A Puzzle Box Filled with Stories | 139280 | [139280-love-a-puzzle-box-filled-with-stories.json](./139280-love-a-puzzle-box-filled-with-stories.json) |
 | Love's Eternal Wishes | 298898 | [298898-loves-eternal-wishes.json](./298898-loves-eternal-wishes.json) |
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
 | Love+ | 80609 | [80609-love.json](./80609-love.json) |
