@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T02:18:41.254Z",
-  "total_missing": 64241,
+  "generated_at": "2026-09-13T02:21:28.575Z",
+  "total_missing": 64240,
   "games": [
     {
       "igdb_id": 306086,
@@ -3321,11 +3321,6 @@
       "igdb_id": 308543,
       "game_name": "Ace Attorney: Beyond the Shadows",
       "file": "missing/A/308543-ace-attorney-beyond-the-shadows.json"
-    },
-    {
-      "igdb_id": 310417,
-      "game_name": "Ace Attorney: Judgement Seekers",
-      "file": "missing/A/310417-ace-attorney-judgement-seekers.json"
     },
     {
       "igdb_id": 305190,
