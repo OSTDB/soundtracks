@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T11:19:04.717Z",
-  "total_missing": 65608,
+  "generated_at": "2026-09-13T11:21:27.748Z",
+  "total_missing": 65607,
   "games": [
     {
       "igdb_id": 306086,
@@ -3591,11 +3591,6 @@
       "igdb_id": 357777,
       "game_name": "Across the Obelisk: Bernard, the Alchemist",
       "file": "missing/A/357777-across-the-obelisk-bernard-the-alchemist.json"
-    },
-    {
-      "igdb_id": 357778,
-      "game_name": "Across the Obelisk: Shores of Sahti",
-      "file": "missing/A/357778-across-the-obelisk-shores-of-sahti.json"
     },
     {
       "igdb_id": 357779,
