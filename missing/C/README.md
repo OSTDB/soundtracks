@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Generations 3: The First Generation | 66121 | [66121-capcom-generations-3-the-first-generation.json](./66121-capcom-generations-3-the-first-generation.json) |
 | Capcom Puzzle World | 44503 | [44503-capcom-puzzle-world.json](./44503-capcom-puzzle-world.json) |
 | Capcom vs. SNK 2: Mark of the Millennium 2001 | 3846 | [3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json](./3846-capcom-vs-snk-2-mark-of-the-millennium-2001.json) |
+| Capcom vs. SNK: Millennium Fight 2000 | 39593 | [39593-capcom-vs-snk-millennium-fight-2000.json](./39593-capcom-vs-snk-millennium-fight-2000.json) |
 | Capcom's MVP Football | 42597 | [42597-capcoms-mvp-football.json](./42597-capcoms-mvp-football.json) |
 | Capcom's Soccer Shootout | 42598 | [42598-capcoms-soccer-shootout.json](./42598-capcoms-soccer-shootout.json) |
 | Cape Fathom | 310764 | [310764-cape-fathom.json](./310764-cape-fathom.json) |
@@ -2570,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coming Back | 183545 | [183545-coming-back.json](./183545-coming-back.json) |
 | Coming Home | 347152 | [347152-coming-home.json](./347152-coming-home.json) |
 | Coming home absolutely twisted with a load of swords | 178034 | [178034-coming-home-absolutely-twisted-with-a-load-of-swords.json](./178034-coming-home-absolutely-twisted-with-a-load-of-swords.json) |
+| Coming Out on Top | 36928 | [36928-coming-out-on-top.json](./36928-coming-out-on-top.json) |
 | Coming Out Simulator 2014 | 60030 | [60030-coming-out-simulator-2014.json](./60030-coming-out-simulator-2014.json) |
 | Comit the Astrodian | 30842 | [30842-comit-the-astrodian.json](./30842-comit-the-astrodian.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
