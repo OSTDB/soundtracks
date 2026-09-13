@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRush: Undying Wish | 255389 | [255389-bloodrush-undying-wish.json](./255389-bloodrush-undying-wish.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
 | BloodSpiller | 392805 | [392805-bloodspiller.json](./392805-bloodspiller.json) |
+| Bloodstained: Ritual of the Night | 10760 | [10760-bloodstained-ritual-of-the-night.json](./10760-bloodstained-ritual-of-the-night.json) |
 | Bloodstained: Ritual of the Night Complete Edition | 391058 | [391058-bloodstained-ritual-of-the-night-complete-edition.json](./391058-bloodstained-ritual-of-the-night-complete-edition.json) |
 | Bloodstained: The Scarlet Engagement | 347120 | [347120-bloodstained-the-scarlet-engagement.json](./347120-bloodstained-the-scarlet-engagement.json) |
 | Bloodstroke | 62226 | [62226-bloodstroke.json](./62226-bloodstroke.json) |
@@ -3558,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
+| Bully: Scholarship Edition | 6574 | [6574-bully-scholarship-edition.json](./6574-bully-scholarship-edition.json) |
 | BullyBall | 161894 | [161894-bullyball.json](./161894-bullyball.json) |
 | Bullyparade: Der Spiel | 55024 | [55024-bullyparade-der-spiel.json](./55024-bullyparade-der-spiel.json) |
 | Bulorgus | 149559 | [149559-bulorgus.json](./149559-bulorgus.json) |
@@ -3675,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnit Quest | 195178 | [195178-burnit-quest.json](./195178-burnit-quest.json) |
 | Burnogue | 377090 | [377090-burnogue.json](./377090-burnogue.json) |
 | Burnout | 14355 | [14355-burnout.json](./14355-burnout.json) |
+| Burnout 3: Takedown | 5761 | [5761-burnout-3-takedown.json](./5761-burnout-3-takedown.json) |
 | Burnout Dominator | 6203 | [6203-burnout-dominator.json](./6203-burnout-dominator.json) |
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
 | Burnout Mobile | 342038 | [342038-burnout-mobile.json](./342038-burnout-mobile.json) |
