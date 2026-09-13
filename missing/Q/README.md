@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
 | Qisah Tomang: Cycle Ends | 235989 | [235989-qisah-tomang-cycle-ends.json](./235989-qisah-tomang-cycle-ends.json) |
 | QiuQiu Town | 374612 | [374612-qiuqiu-town.json](./374612-qiuqiu-town.json) |
+| Qix | 12266 | [12266-qix.json](./12266-qix.json) |
 | Qix | 196821 | [196821-qix.json](./196821-qix.json) |
 | QIX II - Tournament | 67247 | [67247-qix-ii-tournament.json](./67247-qix-ii-tournament.json) |
 | QIX++ | 67255 | [67255-qix.json](./67255-qix.json) |
@@ -165,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
 | Quest for Cathay Kingdom Mah Jong | 367446 | [367446-quest-for-cathay-kingdom-mah-jong.json](./367446-quest-for-cathay-kingdom-mah-jong.json) |
+| Quest for Glory II: Trial by Fire | 1894 | [1894-quest-for-glory-ii-trial-by-fire.json](./1894-quest-for-glory-ii-trial-by-fire.json) |
 | Quest for Jesus | 307898 | [307898-quest-for-jesus.json](./307898-quest-for-jesus.json) |
 | Quest for King's Underpants | 173809 | [173809-quest-for-kings-underpants.json](./173809-quest-for-kings-underpants.json) |
 | Quest For Milkshake | 310950 | [310950-quest-for-milkshake.json](./310950-quest-for-milkshake.json) |
