@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeda 3 | 24923 | [24923-takeda-3.json](./24923-takeda-3.json) |
 | Takeda Shingen | 37729 | [37729-takeda-shingen.json](./37729-takeda-shingen.json) |
 | Takeda Shingen | 81334 | [81334-takeda-shingen.json](./81334-takeda-shingen.json) |
+| Takedown: Red Sabre | 2937 | [2937-takedown-red-sabre.json](./2937-takedown-red-sabre.json) |
 | Takedown! | 94191 | [94191-takedown.json](./94191-takedown.json) |
 | Takemiya Masaki Kudan no Igo Taishou | 37794 | [37794-takemiya-masaki-kudan-no-igo-taishou.json](./37794-takemiya-masaki-kudan-no-igo-taishou.json) |
 | Taken Soul | 273400 | [273400-taken-soul.json](./273400-taken-soul.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fae King Is My Roommate | 342076 | [342076-the-fae-king-is-my-roommate.json](./342076-the-fae-king-is-my-roommate.json) |
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
 | The Fairies' Curse | 128601 | [128601-the-fairies-curse.json](./128601-the-fairies-curse.json) |
+| The Fairly OddParents: Breakin' da Rules | 3911 | [3911-the-fairly-oddparents-breakin-da-rules.json](./3911-the-fairly-oddparents-breakin-da-rules.json) |
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
 | The Fairly OddParents: Enter the Cleft | 18257 | [18257-the-fairly-oddparents-enter-the-cleft.json](./18257-the-fairly-oddparents-enter-the-cleft.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
@@ -4359,6 +4361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Iteration | 322394 | [322394-third-iteration.json](./322394-third-iteration.json) |
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
 | Thirsty | 310941 | [310941-thirsty.json](./310941-thirsty.json) |
+| Thirsty Suitors | 185240 | [185240-thirsty-suitors.json](./185240-thirsty-suitors.json) |
 | Thirteen Souls | 129770 | [129770-thirteen-souls.json](./129770-thirteen-souls.json) |
 | Thirty Cycles | 200710 | [200710-thirty-cycles.json](./200710-thirty-cycles.json) |
 | Thirty Flights of Loving | 9013 | [9013-thirty-flights-of-loving.json](./9013-thirty-flights-of-loving.json) |
@@ -5601,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
 | Top Gear | 27461 | [27461-top-gear.json](./27461-top-gear.json) |
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
+| Top Gear Rally | 3617 | [3617-top-gear-rally.json](./3617-top-gear-rally.json) |
 | Top Gear: Dare Devil | 43274 | [43274-top-gear-dare-devil.json](./43274-top-gear-dare-devil.json) |
 | Top Gear: Stunt School SSR | 257363 | [257363-top-gear-stunt-school-ssr.json](./257363-top-gear-stunt-school-ssr.json) |
 | Top Gun | 196226 | [196226-top-gun.json](./196226-top-gun.json) |
@@ -5662,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toriko: Gourmet Survival | 66080 | [66080-toriko-gourmet-survival.json](./66080-toriko-gourmet-survival.json) |
 | Toril | 228700 | [228700-toril.json](./228700-toril.json) |
 | Torima Headbang | 402920 | [402920-torima-headbang.json](./402920-torima-headbang.json) |
+| Torin's Passage | 2223 | [2223-torins-passage.json](./2223-torins-passage.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
 | Torment: Tides of Numenera - Collector's Edition | 26537 | [26537-torment-tides-of-numenera-collectors-edition.json](./26537-torment-tides-of-numenera-collectors-edition.json) |
