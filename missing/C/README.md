@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
+| Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
 | Carnival Massacre | 25701 | [25701-carnival-massacre.json](./25701-carnival-massacre.json) |
 | Carnivores: Cityscape | 20568 | [20568-carnivores-cityscape.json](./20568-carnivores-cityscape.json) |
 | Carnivores: Dinosaur Hunter | 20569 | [20569-carnivores-dinosaur-hunter.json](./20569-carnivores-dinosaur-hunter.json) |
@@ -2644,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
 | Commando vs Zombies | 99002 | [99002-commando-vs-zombies.json](./99002-commando-vs-zombies.json) |
 | Commandos 2 & Praetorians HD Remaster Double Pack | 139932 | [139932-commandos-2-and-praetorians-hd-remaster-double-pack.json](./139932-commandos-2-and-praetorians-hd-remaster-double-pack.json) |
+| Commandos 2: HD Remaster | 119381 | [119381-commandos-2-hd-remaster.json](./119381-commandos-2-hd-remaster.json) |
 | Commandos 2: Men of Courage | 653 | [653-commandos-2-men-of-courage.json](./653-commandos-2-men-of-courage.json) |
 | Commandos: Behind Enemy Lines | 879 | [879-commandos-behind-enemy-lines.json](./879-commandos-behind-enemy-lines.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
