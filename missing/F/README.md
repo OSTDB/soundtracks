@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Forest | 372473 | [372473-fantasy-forest.json](./372473-fantasy-forest.json) |
 | Fantasy Forest Solitaire | 386128 | [386128-fantasy-forest-solitaire.json](./386128-fantasy-forest-solitaire.json) |
 | Fantasy Games | 319578 | [319578-fantasy-games.json](./319578-fantasy-games.json) |
+| Fantasy General | 14417 | [14417-fantasy-general.json](./14417-fantasy-general.json) |
 | Fantasy General II: Empire Aflame | 154501 | [154501-fantasy-general-ii-empire-aflame.json](./154501-fantasy-general-ii-empire-aflame.json) |
 | Fantasy General II: Evolution | 154502 | [154502-fantasy-general-ii-evolution.json](./154502-fantasy-general-ii-evolution.json) |
 | Fantasy General II: Invasion Hero Edition | 124833 | [124833-fantasy-general-ii-invasion-hero-edition.json](./124833-fantasy-general-ii-invasion-hero-edition.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Break | 12091 | [12091-fast-break.json](./12091-fast-break.json) |
 | Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
 | Fast Euro Train Driver Sim | 213387 | [213387-fast-euro-train-driver-sim.json](./213387-fast-euro-train-driver-sim.json) |
+| Fast Food | 14454 | [14454-fast-food.json](./14454-fast-food.json) |
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fast Food Frog | 358881 | [358881-fast-food-frog.json](./358881-fast-food-frog.json) |
@@ -1633,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fliggles Rescue Adventure | 259557 | [259557-fliggles-rescue-adventure.json](./259557-fliggles-rescue-adventure.json) |
 | Flight Catastrophe | 149532 | [149532-flight-catastrophe.json](./149532-flight-catastrophe.json) |
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
+| Flight Control HD | 15064 | [15064-flight-control-hd.json](./15064-flight-control-hd.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
 | Flight of the Fireflies | 22339 | [22339-flight-of-the-fireflies.json](./22339-flight-of-the-fireflies.json) |
@@ -2166,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
+| Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
 | Fort Driant | 271753 | [271753-fort-driant.json](./271753-fort-driant.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
