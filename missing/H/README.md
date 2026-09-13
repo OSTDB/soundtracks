@@ -724,7 +724,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Knights of the Frozen Throne | 52016 | [52016-hearthstone-knights-of-the-frozen-throne.json](./52016-hearthstone-knights-of-the-frozen-throne.json) |
 | Hearthstone: Madness at the Darkmoon Faire | 387380 | [387380-hearthstone-madness-at-the-darkmoon-faire.json](./387380-hearthstone-madness-at-the-darkmoon-faire.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
+| Hearthstone: Rastakhan's Rumble | 111655 | [111655-hearthstone-rastakhans-rumble.json](./111655-hearthstone-rastakhans-rumble.json) |
 | Hearthstone: Scholomance Academy | 138798 | [138798-hearthstone-scholomance-academy.json](./138798-hearthstone-scholomance-academy.json) |
+| Hearthstone: The Boomsday Project | 105125 | [105125-hearthstone-the-boomsday-project.json](./105125-hearthstone-the-boomsday-project.json) |
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
 | Heartland | 23046 | [23046-heartland.json](./23046-heartland.json) |
 | Heartland Deluxe | 73756 | [73756-heartland-deluxe.json](./73756-heartland-deluxe.json) |
@@ -751,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: Death or Dishonor | 53180 | [53180-hearts-of-iron-iv-death-or-dishonor.json](./53180-hearts-of-iron-iv-death-or-dishonor.json) |
 | Hearts of Iron IV: Field Marshal Edition | 53181 | [53181-hearts-of-iron-iv-field-marshal-edition.json](./53181-hearts-of-iron-iv-field-marshal-edition.json) |
 | Hearts of Iron IV: Hero Edition | 47308 | [47308-hearts-of-iron-iv-hero-edition.json](./47308-hearts-of-iron-iv-hero-edition.json) |
+| Hearts of Iron IV: Man the Guns | 115063 | [115063-hearts-of-iron-iv-man-the-guns.json](./115063-hearts-of-iron-iv-man-the-guns.json) |
 | Hearts of Iron IV: Together for Victory | 53182 | [53182-hearts-of-iron-iv-together-for-victory.json](./53182-hearts-of-iron-iv-together-for-victory.json) |
 | Hearts of Iron: Road to War | 64993 | [64993-hearts-of-iron-road-to-war.json](./64993-hearts-of-iron-road-to-war.json) |
 | Hearts on Fire | 313720 | [313720-hearts-on-fire.json](./313720-hearts-on-fire.json) |
@@ -973,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty's Cube Frenzy | 299461 | [299461-hello-kittys-cube-frenzy.json](./299461-hello-kittys-cube-frenzy.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
 | Hello Neighbor 2: Deluxe Edition | 196805 | [196805-hello-neighbor-2-deluxe-edition.json](./196805-hello-neighbor-2-deluxe-edition.json) |
+| Hello Neighbor: Hide and Seek | 107614 | [107614-hello-neighbor-hide-and-seek.json](./107614-hello-neighbor-hide-and-seek.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
 | Hello Puppets: Midnight Show | 159805 | [159805-hello-puppets-midnight-show.json](./159805-hello-puppets-midnight-show.json) |
