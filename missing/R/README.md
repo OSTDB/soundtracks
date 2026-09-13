@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 3: Hoodlum Havoc Print Studio | 61654 | [61654-rayman-3-hoodlum-havoc-print-studio.json](./61654-rayman-3-hoodlum-havoc-print-studio.json) |
 | Rayman 3D | 20585 | [20585-rayman-3d.json](./20585-rayman-3d.json) |
 | Rayman 4 You | 178599 | [178599-rayman-4-you.json](./178599-rayman-4-you.json) |
+| Rayman Adventures | 20032 | [20032-rayman-adventures.json](./20032-rayman-adventures.json) |
 | Rayman and Rabbids Family Pack | 56449 | [56449-rayman-and-rabbids-family-pack.json](./56449-rayman-and-rabbids-family-pack.json) |
 | Rayman By His Fans | 61097 | [61097-rayman-by-his-fans.json](./61097-rayman-by-his-fans.json) |
 | Rayman Garden | 61095 | [61095-rayman-garden.json](./61095-rayman-garden.json) |
@@ -2158,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon | 254 | [254-rollercoaster-tycoon.json](./254-rollercoaster-tycoon.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
+| RollerCoaster Tycoon: Deluxe | 36444 | [36444-rollercoaster-tycoon-deluxe.json](./36444-rollercoaster-tycoon-deluxe.json) |
 | Rollercoaster World 2 | 230305 | [230305-rollercoaster-world-2.json](./230305-rollercoaster-world-2.json) |
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
 | RollerPlay | 121017 | [121017-rollerplay.json](./121017-rollerplay.json) |
