@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameBoy Wordle | 195209 | [195209-gameboy-wordle.json](./195209-gameboy-wordle.json) |
 | GameCenter CX: 3-Choume no Arino | 79922 | [79922-gamecenter-cx-3-choume-no-arino.json](./79922-gamecenter-cx-3-choume-no-arino.json) |
 | GameCenter CX: Arino no Chousenjou 2 | 79923 | [79923-gamecenter-cx-arino-no-chousenjou-2.json](./79923-gamecenter-cx-arino-no-chousenjou-2.json) |
+| Gamecraft | 118424 | [118424-gamecraft.json](./118424-gamecraft.json) |
 | Gameday Live | 82066 | [82066-gameday-live.json](./82066-gameday-live.json) |
 | Gamedec: Definitive Edition | 219788 | [219788-gamedec-definitive-edition.json](./219788-gamedec-definitive-edition.json) |
 | Gamedev Beatdown | 127986 | [127986-gamedev-beatdown.json](./127986-gamedev-beatdown.json) |
