@@ -53,6 +53,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sable Maze: Norwich Caves - Collector's Edition | 74353 | [74353-sable-maze-norwich-caves-collectors-edition.json](./74353-sable-maze-norwich-caves-collectors-edition.json) |
 | Sable Maze: Twelve Fears - Collector's Edition | 110347 | [110347-sable-maze-twelve-fears-collectors-edition.json](./110347-sable-maze-twelve-fears-collectors-edition.json) |
 | Sabotage Will Set Us Free | 181376 | [181376-sabotage-will-set-us-free.json](./181376-sabotage-will-set-us-free.json) |
+| Saboteur! | 112670 | [112670-saboteur.json](./112670-saboteur.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
 | Sabrina the Animated Series: Zapped! | 49943 | [49943-sabrina-the-animated-series-zapped.json](./49943-sabrina-the-animated-series-zapped.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Knight 2 | 137622 | [137622-sakura-knight-2.json](./137622-sakura-knight-2.json) |
 | Sakura Machizaka Stories Vol. 1 | 77946 | [77946-sakura-machizaka-stories-vol-1.json](./77946-sakura-machizaka-stories-vol-1.json) |
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
+| Sakura MMO 2 | 113123 | [113123-sakura-mmo-2.json](./113123-sakura-mmo-2.json) |
 | Sakura Moonlight | 135892 | [135892-sakura-moonlight.json](./135892-sakura-moonlight.json) |
 | Sakura no Mori Dreamers | 75788 | [75788-sakura-no-mori-dreamers.json](./75788-sakura-no-mori-dreamers.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
@@ -334,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai Warriors 2 | 7173 | [7173-samurai-warriors-2.json](./7173-samurai-warriors-2.json) |
 | Samurai Warriors 3 Z | 136468 | [136468-samurai-warriors-3-z.json](./136468-samurai-warriors-3-z.json) |
+| Samurai Warriors 4 DX | 112910 | [112910-samurai-warriors-4-dx.json](./112910-samurai-warriors-4-dx.json) |
 | Samurai Warriors 4-II | 12279 | [12279-samurai-warriors-4-ii.json](./12279-samurai-warriors-4-ii.json) |
 | Samurai Warriors: Chronicles 2nd | 64991 | [64991-samurai-warriors-chronicles-2nd.json](./64991-samurai-warriors-chronicles-2nd.json) |
 | Samurai Warriors: Katana | 5137 | [5137-samurai-warriors-katana.json](./5137-samurai-warriors-katana.json) |
@@ -1264,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septic Savages | 30853 | [30853-septic-savages.json](./30853-septic-savages.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
 | Sequence Palladium | 246654 | [246654-sequence-palladium.json](./246654-sequence-palladium.json) |
+| Sequence Storm | 111533 | [111533-sequence-storm.json](./111533-sequence-storm.json) |
 | Sequoia | 185595 | [185595-sequoia.json](./185595-sequoia.json) |
 | Ser BubbleHelm | 385564 | [385564-ser-bubblehelm.json](./385564-ser-bubblehelm.json) |
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
@@ -2668,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
 | Skeljump | 257377 | [257377-skeljump.json](./257377-skeljump.json) |
+| Skellboy | 113101 | [113101-skellboy.json](./113101-skellboy.json) |
 | Skellington | 224758 | [224758-skellington.json](./224758-skellington.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
@@ -2700,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
+| Skinny | 111768 | [111768-skinny.json](./111768-skinny.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
@@ -3142,6 +3148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Halloween Pumpkins: The Challenge | 103485 | [103485-smash-halloween-pumpkins-the-challenge.json](./103485-smash-halloween-pumpkins-the-challenge.json) |
 | Smash Hit | 39239 | [39239-smash-hit.json](./39239-smash-hit.json) |
 | Smash Hit Pak | 56457 | [56457-smash-hit-pak.json](./56457-smash-hit-pak.json) |
+| Smash Hit Plunder | 112180 | [112180-smash-hit-plunder.json](./112180-smash-hit-plunder.json) |
 | Smash Hyper Drive | 220667 | [220667-smash-hyper-drive.json](./220667-smash-hyper-drive.json) |
 | Smash Karts | 130348 | [130348-smash-karts.json](./130348-smash-karts.json) |
 | Smash Land | 145571 | [145571-smash-land.json](./145571-smash-land.json) |
@@ -5808,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Storm: Burning Retribution | 16243 | [16243-steel-storm-burning-retribution.json](./16243-steel-storm-burning-retribution.json) |
 | Steel Storm: Forgotten Prison | 169961 | [169961-steel-storm-forgotten-prison.json](./169961-steel-storm-forgotten-prison.json) |
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
+| Steel Sword Story | 112949 | [112949-steel-sword-story.json](./112949-steel-sword-story.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Worker | 299481 | [299481-steel-worker.json](./299481-steel-worker.json) |
@@ -7290,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen OG Saga: Masou Kishin F - Coffin of the End | 61553 | [61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json](./61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json) |
 | Super Robot Taisen OG Saga: Masou Kishin II - Revelation of Evil God | 65453 | [65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json](./65453-super-robot-taisen-og-saga-masou-kishin-ii-revelation-of-evil-god.json) |
 | Super Robot Taisen OG: Dark Prison | 144283 | [144283-super-robot-taisen-og-dark-prison.json](./144283-super-robot-taisen-og-dark-prison.json) |
+| Super Robot Taisen T | 112431 | [112431-super-robot-taisen-t.json](./112431-super-robot-taisen-t.json) |
 | Super Robot Taisen Z | 79342 | [79342-super-robot-taisen-z.json](./79342-super-robot-taisen-z.json) |
 | Super Robot Taisen Z: Special Disc | 182490 | [182490-super-robot-taisen-z-special-disc.json](./182490-super-robot-taisen-z-special-disc.json) |
 | Super Robot Taisen: Scramble Commander | 62710 | [62710-super-robot-taisen-scramble-commander.json](./62710-super-robot-taisen-scramble-commander.json) |
