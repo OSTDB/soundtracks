@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC 27 | 408819 | [408819-ea-sports-fc-27.json](./408819-ea-sports-fc-27.json) |
 | EA Sports FC 27: Ultimate Edition | 410902 | [410902-ea-sports-fc-27-ultimate-edition.json](./410902-ea-sports-fc-27-ultimate-edition.json) |
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
+| EA Sports UFC 3 | 75297 | [75297-ea-sports-ufc-3.json](./75297-ea-sports-ufc-3.json) |
 | EA Sports UFC 5: Mike Tyson | 297457 | [297457-ea-sports-ufc-5-mike-tyson.json](./297457-ea-sports-ufc-5-mike-tyson.json) |
 | Eador: Masters of the Broken World - Allied Forces | 9206 | [9206-eador-masters-of-the-broken-world-allied-forces.json](./9206-eador-masters-of-the-broken-world-allied-forces.json) |
 | Eagle | 13626 | [13626-eagle.json](./13626-eagle.json) |
@@ -390,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elarienne | 348777 | [348777-elarienne.json](./348777-elarienne.json) |
 | Elarooh | 61086 | [61086-elarooh.json](./61086-elarooh.json) |
 | Elastic car 2 (engineer mode) | 96004 | [96004-elastic-car-2-engineer-mode.json](./96004-elastic-car-2-engineer-mode.json) |
+| Elasto Mania | 9103 | [9103-elasto-mania.json](./9103-elasto-mania.json) |
 | Elasto Mania: Remastered | 187473 | [187473-elasto-mania-remastered.json](./187473-elasto-mania-remastered.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
@@ -952,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epido: Second Move | 127946 | [127946-epido-second-move.json](./127946-epido-second-move.json) |
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
 | Episode XOXO | 291981 | [291981-episode-xoxo.json](./291981-episode-xoxo.json) |
+| Epistory: Typing Chronicles | 11657 | [11657-epistory-typing-chronicles.json](./11657-epistory-typing-chronicles.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
 | Epoch | 24889 | [24889-epoch.json](./24889-epoch.json) |
