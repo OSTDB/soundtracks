@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
 | FarWest Colony | 269019 | [269019-farwest-colony.json](./269019-farwest-colony.json) |
 | Fasaria World Online | 34530 | [34530-fasaria-world-online.json](./34530-fasaria-world-online.json) |
+| Fascination | 10793 | [10793-fascination.json](./10793-fascination.json) |
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
 | Fashion Friends: Gold Edition | 317257 | [317257-fashion-friends-gold-edition.json](./317257-fashion-friends-gold-edition.json) |
 | Fashion Friends: Silver Edition | 315866 | [315866-fashion-friends-silver-edition.json](./315866-fashion-friends-silver-edition.json) |
