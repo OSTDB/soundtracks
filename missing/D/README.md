@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
 | Double Dragon | 201322 | [201322-double-dragon.json](./201322-double-dragon.json) |
 | Double Dragon 3: The Arcade Game | 46277 | [46277-double-dragon-3-the-arcade-game.json](./46277-double-dragon-3-the-arcade-game.json) |
+| Double Dragon III: The Sacred Stones | 79335 | [79335-double-dragon-iii-the-sacred-stones.json](./79335-double-dragon-iii-the-sacred-stones.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
 | Double Dunk | 18007 | [18007-double-dunk.json](./18007-double-dunk.json) |
@@ -2841,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Inquisition - Spoils of the Avvar | 367437 | [367437-dragon-age-inquisition-spoils-of-the-avvar.json](./367437-dragon-age-inquisition-spoils-of-the-avvar.json) |
 | Dragon Age: Inquisition - Spoils of the Qunari | 367438 | [367438-dragon-age-inquisition-spoils-of-the-qunari.json](./367438-dragon-age-inquisition-spoils-of-the-qunari.json) |
 | Dragon Age: Inquisition - The Black Emporium | 367431 | [367431-dragon-age-inquisition-the-black-emporium.json](./367431-dragon-age-inquisition-the-black-emporium.json) |
+| Dragon Age: Inquisition - The Descent | 20188 | [20188-dragon-age-inquisition-the-descent.json](./20188-dragon-age-inquisition-the-descent.json) |
 | Dragon Age: Origins - Feastday Gifts | 367441 | [367441-dragon-age-origins-feastday-gifts.json](./367441-dragon-age-origins-feastday-gifts.json) |
 | Dragon Age: Origins - Feastday Pranks | 367442 | [367442-dragon-age-origins-feastday-pranks.json](./367442-dragon-age-origins-feastday-pranks.json) |
 | Dragon Age: Origins - Leliana's Song | 17465 | [17465-dragon-age-origins-lelianas-song.json](./17465-dragon-age-origins-lelianas-song.json) |
@@ -3796,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Duke | 39651 | [39651-dynamite-duke.json](./39651-dynamite-duke.json) |
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
 | Dynasty Warriors 3: Xtreme Legends | 45014 | [45014-dynasty-warriors-3-xtreme-legends.json](./45014-dynasty-warriors-3-xtreme-legends.json) |
+| Dynasty Warriors 5 | 5820 | [5820-dynasty-warriors-5.json](./5820-dynasty-warriors-5.json) |
 | Dynasty Warriors 8 | 6976 | [6976-dynasty-warriors-8.json](./6976-dynasty-warriors-8.json) |
 | Dynasty Warriors 9: Complete Edition | 199637 | [199637-dynasty-warriors-9-complete-edition.json](./199637-dynasty-warriors-9-complete-edition.json) |
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
@@ -3806,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
+| Dysmantle | 113998 | [113998-dysmantle.json](./113998-dysmantle.json) |
 | Dysmantle: Doomsday | 240771 | [240771-dysmantle-doomsday.json](./240771-dysmantle-doomsday.json) |
 | Dysnomia | 67231 | [67231-dysnomia.json](./67231-dysnomia.json) |
 | Dysnystaxis (...A Chance Meeting With Somnus) | 271219 | [271219-dysnystaxis-a-chance-meeting-with-somnus.json](./271219-dysnystaxis-a-chance-meeting-with-somnus.json) |
