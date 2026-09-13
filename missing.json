@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T00:21:29.305Z",
-  "total_missing": 63921,
+  "generated_at": "2026-09-13T00:31:36.619Z",
+  "total_missing": 63927,
   "games": [
     {
       "igdb_id": 306086,
@@ -3266,11 +3266,6 @@
       "igdb_id": 38353,
       "game_name": "Accele Brid",
       "file": "missing/A/38353-accele-brid.json"
-    },
-    {
-      "igdb_id": 78639,
-      "game_name": "Acceleration of Suguri",
-      "file": "missing/A/78639-acceleration-of-suguri.json"
     },
     {
       "igdb_id": 44596,
@@ -36066,6 +36061,11 @@
       "igdb_id": 201797,
       "game_name": "Brilliance shines in Zhejiang",
       "file": "missing/B/201797-brilliance-shines-in-zhejiang.json"
+    },
+    {
+      "igdb_id": 19484,
+      "game_name": "Brilliant Bob",
+      "file": "missing/B/19484-brilliant-bob.json"
     },
     {
       "igdb_id": 105267,
@@ -86058,6 +86058,11 @@
       "file": "missing/F/49931-f-18-thunder-strike.json"
     },
     {
+      "igdb_id": 19494,
+      "game_name": "F-22 Interceptor",
+      "file": "missing/F/19494-f-22-interceptor.json"
+    },
+    {
       "igdb_id": 253358,
       "game_name": "F-4 Phantom II: Sky Defender",
       "file": "missing/F/253358-f-4-phantom-ii-sky-defender.json"
@@ -134123,6 +134128,11 @@
       "file": "missing/J/284900-joe-is-not-lost-jigsaw-landscapes.json"
     },
     {
+      "igdb_id": 19491,
+      "game_name": "Joe Montana II: Sports Talk Football",
+      "file": "missing/J/19491-joe-montana-ii-sports-talk-football.json"
+    },
+    {
       "igdb_id": 264308,
       "game_name": "Joe vs. The Wall",
       "file": "missing/J/264308-joe-vs-the-wall.json"
@@ -147831,6 +147841,11 @@
       "igdb_id": 12178,
       "game_name": "Line of Fire",
       "file": "missing/L/12178-line-of-fire.json"
+    },
+    {
+      "igdb_id": 19487,
+      "game_name": "Line of Fire",
+      "file": "missing/L/19487-line-of-fire.json"
     },
     {
       "igdb_id": 156102,
@@ -183281,6 +183296,11 @@
       "igdb_id": 50560,
       "game_name": "Nushi Tsuri Adventure: Kite no Bouken",
       "file": "missing/N/50560-nushi-tsuri-adventure-kite-no-bouken.json"
+    },
+    {
+      "igdb_id": 19495,
+      "game_name": "Nusrat",
+      "file": "missing/N/19495-nusrat.json"
     },
     {
       "igdb_id": 52645,
@@ -228148,6 +228168,11 @@
       "file": "missing/S/110060-sega-ages-thunder-force-ac.json"
     },
     {
+      "igdb_id": 19490,
+      "game_name": "Sega Chess",
+      "file": "missing/S/19490-sega-chess.json"
+    },
+    {
       "igdb_id": 51261,
       "game_name": "Sega Genesis Classic Collection: Gold Edition",
       "file": "missing/S/51261-sega-genesis-classic-collection-gold-edition.json"
@@ -240121,6 +240146,11 @@
       "igdb_id": 106528,
       "game_name": "Solitaire Paradise: Tripeaks",
       "file": "missing/S/106528-solitaire-paradise-tripeaks.json"
+    },
+    {
+      "igdb_id": 19493,
+      "game_name": "Solitaire Poker",
+      "file": "missing/S/19493-solitaire-poker.json"
     },
     {
       "igdb_id": 260395,
