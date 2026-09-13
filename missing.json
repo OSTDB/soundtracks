@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:49:32.602Z",
-  "total_missing": 65195,
+  "generated_at": "2026-09-13T07:51:33.710Z",
+  "total_missing": 65194,
   "games": [
     {
       "igdb_id": 306086,
@@ -3486,11 +3486,6 @@
       "igdb_id": 183020,
       "game_name": "Achilles vs. Turtles",
       "file": "missing/A/183020-achilles-vs-turtles.json"
-    },
-    {
-      "igdb_id": 188577,
-      "game_name": "Achtung Banditen?!",
-      "file": "missing/A/188577-achtung-banditen.json"
     },
     {
       "igdb_id": 86015,
