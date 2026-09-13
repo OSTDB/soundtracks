@@ -704,6 +704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
+| Dead or Alive | 1387 | [1387-dead-or-alive.json](./1387-dead-or-alive.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
 | Dead or Alive 2 Millennium | 39623 | [39623-dead-or-alive-2-millennium.json](./39623-dead-or-alive-2-millennium.json) |
 | Dead or Alive 2 Ultimate | 47302 | [47302-dead-or-alive-2-ultimate.json](./47302-dead-or-alive-2-ultimate.json) |
@@ -1451,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destinies | 152884 | [152884-destinies.json](./152884-destinies.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny | 100186 | [100186-destiny.json](./100186-destiny.json) |
+| Destiny 2: Beyond Light | 134830 | [134830-destiny-2-beyond-light.json](./134830-destiny-2-beyond-light.json) |
 | Destiny 2: Forsaken - Digital Deluxe Edition | 132150 | [132150-destiny-2-forsaken-digital-deluxe-edition.json](./132150-destiny-2-forsaken-digital-deluxe-edition.json) |
 | Destiny 2: Heresy Silver Bundle | 330703 | [330703-destiny-2-heresy-silver-bundle.json](./330703-destiny-2-heresy-silver-bundle.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
@@ -2493,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Junior | 192914 | [192914-donkey-kong-junior.json](./192914-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192915 | [192915-donkey-kong-junior.json](./192915-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192916 | [192916-donkey-kong-junior.json](./192916-donkey-kong-junior.json) |
+| Donkey Kong Land | 1091 | [1091-donkey-kong-land.json](./1091-donkey-kong-land.json) |
 | Donkey Kong Land III | 1095 | [1095-donkey-kong-land-iii.json](./1095-donkey-kong-land-iii.json) |
 | Donkey Kong-e | 170011 | [170011-donkey-kong-e.json](./170011-donkey-kong-e.json) |
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
