@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T14:31:34.445Z",
-  "total_missing": 66168,
+  "generated_at": "2026-09-13T14:41:36.497Z",
+  "total_missing": 66167,
   "games": [
     {
       "igdb_id": 306086,
@@ -3706,11 +3706,6 @@
       "igdb_id": 24858,
       "game_name": "Action Quest",
       "file": "missing/A/24858-action-quest.json"
-    },
-    {
-      "igdb_id": 43302,
-      "game_name": "Action Replay Max",
-      "file": "missing/A/43302-action-replay-max.json"
     },
     {
       "igdb_id": 193953,
