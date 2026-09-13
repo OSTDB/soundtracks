@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Our Asias | 68216 | [68216-all-our-asias.json](./68216-all-our-asias.json) |
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
+| All Star Cheer 2 | 12886 | [12886-all-star-cheer-2.json](./12886-all-star-cheer-2.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
 | All Star Quarterback | 58210 | [58210-all-star-quarterback.json](./58210-all-star-quarterback.json) |
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
@@ -2742,6 +2743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArmyCraft | 52612 | [52612-armycraft.json](./52612-armycraft.json) |
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
 | Arnie | 14268 | [14268-arnie.json](./14268-arnie.json) |
+| Arnold Palmer Tournament Golf | 12869 | [12869-arnold-palmer-tournament-golf.json](./12869-arnold-palmer-tournament-golf.json) |
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
 | Aroma | 226231 | [226231-aroma.json](./226231-aroma.json) |
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
