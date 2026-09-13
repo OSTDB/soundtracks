@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T01:21:28.795Z",
-  "total_missing": 64081,
+  "generated_at": "2026-09-13T01:33:12.057Z",
+  "total_missing": 64130,
   "games": [
     {
       "igdb_id": 306086,
@@ -76,6 +76,11 @@
       "igdb_id": 180795,
       "game_name": ".Script",
       "file": "missing/0-9/180795-script.json"
+    },
+    {
+      "igdb_id": 14249,
+      "game_name": "'Allo 'Allo! Cartoon Fun!",
+      "file": "missing/0-9/14249-allo-allo-cartoon-fun.json"
     },
     {
       "igdb_id": 265687,
@@ -3298,11 +3303,6 @@
       "file": "missing/A/288743-accurate-shot.json"
     },
     {
-      "igdb_id": 76632,
-      "game_name": "Accuwar",
-      "file": "missing/A/76632-accuwar.json"
-    },
-    {
       "igdb_id": 301591,
       "game_name": "Ace",
       "file": "missing/A/301591-ace.json"
@@ -5168,6 +5168,11 @@
       "file": "missing/A/346605-aesop-rocks-black-hole-superette-experience.json"
     },
     {
+      "igdb_id": 14227,
+      "game_name": "Aesop's Fables",
+      "file": "missing/A/14227-aesops-fables.json"
+    },
+    {
       "igdb_id": 232153,
       "game_name": "Aestha: The runner game",
       "file": "missing/A/232153-aestha-the-runner-game.json"
@@ -5331,6 +5336,11 @@
       "igdb_id": 366265,
       "game_name": "African Adventure: In Search of Dr. Livingston",
       "file": "missing/A/366265-african-adventure-in-search-of-dr-livingston.json"
+    },
+    {
+      "igdb_id": 14228,
+      "game_name": "Afrika Korps",
+      "file": "missing/A/14228-afrika-korps.json"
     },
     {
       "igdb_id": 174367,
@@ -5896,6 +5906,11 @@
       "igdb_id": 350402,
       "game_name": "Age of Respair",
       "file": "missing/A/350402-age-of-respair.json"
+    },
+    {
+      "igdb_id": 14229,
+      "game_name": "Age of Sail",
+      "file": "missing/A/14229-age-of-sail.json"
     },
     {
       "igdb_id": 9430,
@@ -6638,6 +6653,11 @@
       "file": "missing/A/197361-air-battle-chess.json"
     },
     {
+      "igdb_id": 14230,
+      "game_name": "Air Bucks",
+      "file": "missing/A/14230-air-bucks.json"
+    },
+    {
       "igdb_id": 246427,
       "game_name": "Air Cavalry: Flight Simulator",
       "file": "missing/A/246427-air-cavalry-flight-simulator.json"
@@ -6676,6 +6696,11 @@
       "igdb_id": 44546,
       "game_name": "Air Conflicts: Vietnam Ultimate Edition",
       "file": "missing/A/44546-air-conflicts-vietnam-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 14231,
+      "game_name": "Air Force Commander",
+      "file": "missing/A/14231-air-force-commander.json"
     },
     {
       "igdb_id": 251819,
@@ -6801,6 +6826,11 @@
       "igdb_id": 18048,
       "game_name": "Air Trix",
       "file": "missing/A/18048-air-trix.json"
+    },
+    {
+      "igdb_id": 14232,
+      "game_name": "Air Warrior",
+      "file": "missing/A/14232-air-warrior.json"
     },
     {
       "igdb_id": 336561,
@@ -6976,6 +7006,11 @@
       "igdb_id": 306639,
       "game_name": "Airplane Tycoon: First Class",
       "file": "missing/A/306639-airplane-tycoon-first-class.json"
+    },
+    {
+      "igdb_id": 14233,
+      "game_name": "Airport",
+      "file": "missing/A/14233-airport.json"
     },
     {
       "igdb_id": 283155,
@@ -7323,6 +7358,11 @@
       "file": "missing/A/50505-akin-vol-2.json"
     },
     {
+      "igdb_id": 14234,
+      "game_name": "Akira",
+      "file": "missing/A/14234-akira.json"
+    },
+    {
       "igdb_id": 178098,
       "game_name": "Akita: King Pig Thinks Pink",
       "file": "missing/A/178098-akita-king-pig-thinks-pink.json"
@@ -7461,6 +7501,11 @@
       "igdb_id": 60017,
       "game_name": "Alabaster",
       "file": "missing/A/60017-alabaster.json"
+    },
+    {
+      "igdb_id": 14235,
+      "game_name": "Aladdin's Magic Lamp",
+      "file": "missing/A/14235-aladdins-magic-lamp.json"
     },
     {
       "igdb_id": 195161,
@@ -7733,6 +7778,16 @@
       "file": "missing/A/31809-aleph-null.json"
     },
     {
+      "igdb_id": 14236,
+      "game_name": "Alert",
+      "file": "missing/A/14236-alert.json"
+    },
+    {
+      "igdb_id": 14237,
+      "game_name": "Alert X: Ostatnia Nadzieja Ziemi",
+      "file": "missing/A/14237-alert-x-ostatnia-nadzieja-ziemi.json"
+    },
+    {
       "igdb_id": 139997,
       "game_name": "Aleste Collection",
       "file": "missing/A/139997-aleste-collection.json"
@@ -7831,6 +7886,11 @@
       "igdb_id": 5721,
       "game_name": "Alfa Romeo Racing Italiano",
       "file": "missing/A/5721-alfa-romeo-racing-italiano.json"
+    },
+    {
+      "igdb_id": 14238,
+      "game_name": "Alfabet Śmierci",
+      "file": "missing/A/14238-alfabet-smierci.json"
     },
     {
       "igdb_id": 272843,
@@ -8088,6 +8148,16 @@
       "file": "missing/A/293083-alien-bob.json"
     },
     {
+      "igdb_id": 14239,
+      "game_name": "Alien Breed 3D",
+      "file": "missing/A/14239-alien-breed-3d.json"
+    },
+    {
+      "igdb_id": 14240,
+      "game_name": "Alien Breed 3D 2: The Killing Grounds",
+      "file": "missing/A/14240-alien-breed-3d-2-the-killing-grounds.json"
+    },
+    {
       "igdb_id": 62149,
       "game_name": "Alien Cabal",
       "file": "missing/A/62149-alien-cabal.json"
@@ -8146,6 +8216,11 @@
       "igdb_id": 15593,
       "game_name": "Alien Dropout",
       "file": "missing/A/15593-alien-dropout.json"
+    },
+    {
+      "igdb_id": 14242,
+      "game_name": "Alien Drug Lords: The Chyropian Connection",
+      "file": "missing/A/14242-alien-drug-lords-the-chyropian-connection.json"
     },
     {
       "igdb_id": 137671,
@@ -8221,6 +8296,11 @@
       "igdb_id": 30829,
       "game_name": "Alien Invasion Tower Defense",
       "file": "missing/A/30829-alien-invasion-tower-defense.json"
+    },
+    {
+      "igdb_id": 14243,
+      "game_name": "Alien Legion",
+      "file": "missing/A/14243-alien-legion.json"
     },
     {
       "igdb_id": 289888,
@@ -8468,6 +8548,11 @@
       "file": "missing/A/116399-alienz.json"
     },
     {
+      "igdb_id": 14244,
+      "game_name": "Aliex",
+      "file": "missing/A/14244-aliex.json"
+    },
+    {
       "igdb_id": 188569,
       "game_name": "Alik: Gry i zabawy",
       "file": "missing/A/188569-alik-gry-i-zabawy.json"
@@ -8536,6 +8621,11 @@
       "igdb_id": 337454,
       "game_name": "All Aboard! The Train Defense Express",
       "file": "missing/A/337454-all-aboard-the-train-defense-express.json"
+    },
+    {
+      "igdb_id": 14245,
+      "game_name": "All About America",
+      "file": "missing/A/14245-all-about-america.json"
     },
     {
       "igdb_id": 276202,
@@ -8736,6 +8826,11 @@
       "igdb_id": 202403,
       "game_name": "All Monsters Attack!",
       "file": "missing/A/202403-all-monsters-attack.json"
+    },
+    {
+      "igdb_id": 14246,
+      "game_name": "All New World of Lemmings",
+      "file": "missing/A/14246-all-new-world-of-lemmings.json"
     },
     {
       "igdb_id": 305146,
@@ -9148,6 +9243,11 @@
       "file": "missing/A/130380-alpha-vs-zet.json"
     },
     {
+      "igdb_id": 14250,
+      "game_name": "Alpha-1",
+      "file": "missing/A/14250-alpha-1.json"
+    },
+    {
       "igdb_id": 396230,
       "game_name": "Alphabear Hustle",
       "file": "missing/A/396230-alphabear-hustle.json"
@@ -9556,6 +9656,11 @@
       "igdb_id": 104070,
       "game_name": "AmazeBowl",
       "file": "missing/A/104070-amazebowl.json"
+    },
+    {
+      "igdb_id": 14251,
+      "game_name": "Amazed",
+      "file": "missing/A/14251-amazed.json"
     },
     {
       "igdb_id": 171573,
@@ -9978,6 +10083,11 @@
       "file": "missing/A/111018-american-patriots-the-swamp-fox.json"
     },
     {
+      "igdb_id": 14252,
+      "game_name": "American Poker",
+      "file": "missing/A/14252-american-poker.json"
+    },
+    {
       "igdb_id": 43928,
       "game_name": "American Pool",
       "file": "missing/A/43928-american-pool.json"
@@ -10173,6 +10283,11 @@
       "file": "missing/A/196820-amnesia-day-one-edition-dual-pack.json"
     },
     {
+      "igdb_id": 14254,
+      "game_name": "Amnios",
+      "file": "missing/A/14254-amnios.json"
+    },
+    {
       "igdb_id": 293087,
       "game_name": "Amo",
       "file": "missing/A/293087-amo.json"
@@ -10311,6 +10426,11 @@
       "igdb_id": 261277,
       "game_name": "Amy's American Page One",
       "file": "missing/A/261277-amys-american-page-one.json"
+    },
+    {
+      "igdb_id": 14255,
+      "game_name": "Amy's Fun-2-3 Adventure",
+      "file": "missing/A/14255-amys-fun-2-3-adventure.json"
     },
     {
       "igdb_id": 269284,
@@ -12473,6 +12593,16 @@
       "file": "missing/A/98963-ansto-action.json"
     },
     {
+      "igdb_id": 14257,
+      "game_name": "Answer Back: Junior Quiz",
+      "file": "missing/A/14257-answer-back-junior-quiz.json"
+    },
+    {
+      "igdb_id": 14258,
+      "game_name": "Answer Back: Senior Quiz",
+      "file": "missing/A/14258-answer-back-senior-quiz.json"
+    },
+    {
       "igdb_id": 260408,
       "game_name": "Answer Campus",
       "file": "missing/A/260408-answer-campus.json"
@@ -12878,6 +13008,11 @@
       "file": "missing/A/137662-apache-strike.json"
     },
     {
+      "igdb_id": 14259,
+      "game_name": "Apano Sin",
+      "file": "missing/A/14259-apano-sin.json"
+    },
+    {
       "igdb_id": 304571,
       "game_name": "Apano Syn Fighter",
       "file": "missing/A/304571-apano-syn-fighter.json"
@@ -13118,6 +13253,11 @@
       "file": "missing/A/28319-apocalipsis.json"
     },
     {
+      "igdb_id": 14260,
+      "game_name": "Apocalypse",
+      "file": "missing/A/14260-apocalypse.json"
+    },
+    {
       "igdb_id": 15598,
       "game_name": "Apocalypse",
       "file": "missing/A/15598-apocalypse.json"
@@ -13333,6 +13473,11 @@
       "file": "missing/A/56416-appli-archives-nippon-ichi-software-duologue.json"
     },
     {
+      "igdb_id": 14261,
+      "game_name": "Approach Trainer",
+      "file": "missing/A/14261-approach-trainer.json"
+    },
+    {
       "igdb_id": 185093,
       "game_name": "Approaches",
       "file": "missing/A/185093-approaches.json"
@@ -13411,6 +13556,11 @@
       "igdb_id": 63836,
       "game_name": "Aqua Moto Racing 2",
       "file": "missing/A/63836-aqua-moto-racing-2.json"
+    },
+    {
+      "igdb_id": 14262,
+      "game_name": "Aquablast",
+      "file": "missing/A/14262-aquablast.json"
     },
     {
       "igdb_id": 330146,
@@ -13531,6 +13681,11 @@
       "igdb_id": 44601,
       "game_name": "Aquatopia",
       "file": "missing/A/44601-aquatopia.json"
+    },
+    {
+      "igdb_id": 14263,
+      "game_name": "Aquaventura",
+      "file": "missing/A/14263-aquaventura.json"
     },
     {
       "igdb_id": 96757,
@@ -13661,6 +13816,11 @@
       "igdb_id": 38985,
       "game_name": "Aralon: Sword and Shadow",
       "file": "missing/A/38985-aralon-sword-and-shadow.json"
+    },
+    {
+      "igdb_id": 14264,
+      "game_name": "Arazok's Tomb",
+      "file": "missing/A/14264-arazoks-tomb.json"
     },
     {
       "igdb_id": 39621,
@@ -14913,6 +15073,11 @@
       "file": "missing/A/326072-arena.json"
     },
     {
+      "igdb_id": 14265,
+      "game_name": "Arena 2000",
+      "file": "missing/A/14265-arena-2000.json"
+    },
+    {
       "igdb_id": 324717,
       "game_name": "Arena Breakout: Infinite – Season 1",
       "file": "missing/A/324717-arena-breakout-infinite-season-1.json"
@@ -15413,6 +15578,11 @@
       "file": "missing/A/299486-armalyte-competition-edition.json"
     },
     {
+      "igdb_id": 14266,
+      "game_name": "Armalyte: The Final Run",
+      "file": "missing/A/14266-armalyte-the-final-run.json"
+    },
+    {
       "igdb_id": 314037,
       "game_name": "Armchair Quarterback",
       "file": "missing/A/314037-armchair-quarterback.json"
@@ -15673,6 +15843,11 @@
       "file": "missing/A/105278-armory-league.json"
     },
     {
+      "igdb_id": 14267,
+      "game_name": "Armour-Geddon II: Codename Hellfire",
+      "file": "missing/A/14267-armour-geddon-ii-codename-hellfire.json"
+    },
+    {
       "igdb_id": 129223,
       "game_name": "Armoured Onslaught",
       "file": "missing/A/129223-armoured-onslaught.json"
@@ -15791,6 +15966,11 @@
       "igdb_id": 185115,
       "game_name": "Arnaud Thion's Dragons",
       "file": "missing/A/185115-arnaud-thions-dragons.json"
+    },
+    {
+      "igdb_id": 14268,
+      "game_name": "Arnie",
+      "file": "missing/A/14268-arnie.json"
     },
     {
       "igdb_id": 248893,
@@ -17158,6 +17338,11 @@
       "file": "missing/A/80885-astalon-tears-of-the-earth.json"
     },
     {
+      "igdb_id": 14271,
+      "game_name": "Astate: La Malédiction des Templiers",
+      "file": "missing/A/14271-astate-la-malediction-des-templiers.json"
+    },
+    {
       "igdb_id": 118404,
       "game_name": "Asterelis",
       "file": "missing/A/118404-asterelis.json"
@@ -17201,6 +17386,11 @@
       "igdb_id": 262663,
       "game_name": "Asterix & Obelix: Cesar's Challenge",
       "file": "missing/A/262663-asterix-and-obelix-cesars-challenge.json"
+    },
+    {
+      "igdb_id": 14272,
+      "game_name": "Asterix and the Magic Carpet",
+      "file": "missing/A/14272-asterix-and-the-magic-carpet.json"
     },
     {
       "igdb_id": 67236,
@@ -17446,6 +17636,11 @@
       "igdb_id": 101636,
       "game_name": "Astraeus",
       "file": "missing/A/101636-astraeus.json"
+    },
+    {
+      "igdb_id": 14273,
+      "game_name": "Astral",
+      "file": "missing/A/14273-astral.json"
     },
     {
       "igdb_id": 336546,
@@ -18036,6 +18231,11 @@
       "igdb_id": 12243,
       "game_name": "Atari Video Cube",
       "file": "missing/A/12243-atari-video-cube.json"
+    },
+    {
+      "igdb_id": 14274,
+      "game_name": "Atax",
+      "file": "missing/A/14274-atax.json"
     },
     {
       "igdb_id": 259841,
@@ -18718,6 +18918,11 @@
       "file": "missing/A/217858-august-night.json"
     },
     {
+      "igdb_id": 14275,
+      "game_name": "Aunt Arctic Adventure",
+      "file": "missing/A/14275-aunt-arctic-adventure.json"
+    },
+    {
       "igdb_id": 180236,
       "game_name": "Aura Aspic",
       "file": "missing/A/180236-aura-aspic.json"
@@ -18808,6 +19013,11 @@
       "file": "missing/A/190194-aussie-clowns-at-war.json"
     },
     {
+      "igdb_id": 14276,
+      "game_name": "Aussie Joker Poker",
+      "file": "missing/A/14276-aussie-joker-poker.json"
+    },
+    {
       "igdb_id": 31920,
       "game_name": "Aussie Sports VR",
       "file": "missing/A/31920-aussie-sports-vr.json"
@@ -18826,6 +19036,11 @@
       "igdb_id": 295028,
       "game_name": "Austin Powers: Why Make Millions...?",
       "file": "missing/A/295028-austin-powers-why-make-millions.json"
+    },
+    {
+      "igdb_id": 14277,
+      "game_name": "Australo Piticus Mechanicus",
+      "file": "missing/A/14277-australo-piticus-mechanicus.json"
     },
     {
       "igdb_id": 251181,
@@ -107963,6 +108178,11 @@
       "file": "missing/G/304354-gragyriss-captor-of-princesses.json"
     },
     {
+      "igdb_id": 14248,
+      "game_name": "Graham Gooch World Class Cricket",
+      "file": "missing/G/14248-graham-gooch-world-class-cricket.json"
+    },
+    {
       "igdb_id": 231945,
       "game_name": "Grail Tale",
       "file": "missing/G/231945-grail-tale.json"
@@ -137406,6 +137626,11 @@
       "igdb_id": 79252,
       "game_name": "Karaoke Studio",
       "file": "missing/K/79252-karaoke-studio.json"
+    },
+    {
+      "igdb_id": 14253,
+      "game_name": "Karate",
+      "file": "missing/K/14253-karate.json"
     },
     {
       "igdb_id": 39579,
@@ -267608,6 +267833,11 @@
       "file": "missing/T/8777-the-adventures-of-rad-gravity.json"
     },
     {
+      "igdb_id": 14226,
+      "game_name": "The Adventures of Sinbad",
+      "file": "missing/T/14226-the-adventures-of-sinbad.json"
+    },
+    {
       "igdb_id": 225104,
       "game_name": "The Adventures of Snacky",
       "file": "missing/T/225104-the-adventures-of-snacky.json"
@@ -267926,6 +268156,16 @@
       "igdb_id": 239312,
       "game_name": "The Arson Betrayal",
       "file": "missing/T/239312-the-arson-betrayal.json"
+    },
+    {
+      "igdb_id": 14269,
+      "game_name": "The Art of Chess",
+      "file": "missing/T/14269-the-art-of-chess.json"
+    },
+    {
+      "igdb_id": 14270,
+      "game_name": "The Art of GO",
+      "file": "missing/T/14270-the-art-of-go.json"
     },
     {
       "igdb_id": 91354,
@@ -281971,6 +282211,11 @@
       "igdb_id": 250349,
       "game_name": "The Wonderful 101: Remastered - The Wonderful One: After School Hero - Part 1",
       "file": "missing/T/250349-the-wonderful-101-remastered-the-wonderful-one-after-school-hero-part-1.json"
+    },
+    {
+      "igdb_id": 14256,
+      "game_name": "The Wonders of the Animal Kingdom",
+      "file": "missing/T/14256-the-wonders-of-the-animal-kingdom.json"
     },
     {
       "igdb_id": 114975,
