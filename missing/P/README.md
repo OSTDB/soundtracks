@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
 | Parallel Worlds | 181373 | [181373-parallel-worlds.json](./181373-parallel-worlds.json) |
 | Parallels | 34181 | [34181-parallels.json](./34181-parallels.json) |
+| Parallels Cross | 33170 | [33170-parallels-cross.json](./33170-parallels-cross.json) |
 | ParallHex | 326048 | [326048-parallhex.json](./326048-parallhex.json) |
 | Paralysis | 89249 | [89249-paralysis.json](./89249-paralysis.json) |
 | Paralyzed | 141787 | [141787-paralyzed.json](./141787-paralyzed.json) |
@@ -1608,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitcher and the Whale | 153355 | [153355-pitcher-and-the-whale.json](./153355-pitcher-and-the-whale.json) |
 | Piteur's Odyssey | 184654 | [184654-piteurs-odyssey.json](./184654-piteurs-odyssey.json) |
 | Pitfall II: The Lost Caverns | 6125 | [6125-pitfall-ii-the-lost-caverns.json](./6125-pitfall-ii-the-lost-caverns.json) |
+| Pitfall Planet | 32919 | [32919-pitfall-planet.json](./32919-pitfall-planet.json) |
 | Pitfall: Beyond the Jungle | 49861 | [49861-pitfall-beyond-the-jungle.json](./49861-pitfall-beyond-the-jungle.json) |
 | Pitfall: The Big Adventure | 84820 | [84820-pitfall-the-big-adventure.json](./84820-pitfall-the-big-adventure.json) |
 | Pitfall: The Mayan Adventure | 5410 | [5410-pitfall-the-mayan-adventure.json](./5410-pitfall-the-mayan-adventure.json) |
@@ -2954,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prisoners of Ulag'Bol | 333358 | [333358-prisoners-of-ulagbol.json](./333358-prisoners-of-ulagbol.json) |
 | Prisonscape | 61560 | [61560-prisonscape.json](./61560-prisonscape.json) |
 | Prisseceal, the Dazzling-and-Flaring Peach Princess | 236277 | [236277-prisseceal-the-dazzling-and-flaring-peach-princess.json](./236277-prisseceal-the-dazzling-and-flaring-peach-princess.json) |
+| Pristine world | 32978 | [32978-pristine-world.json](./32978-pristine-world.json) |
 | Pristontale II: The 2nd Enigma | 72657 | [72657-pristontale-ii-the-2nd-enigma.json](./72657-pristontale-ii-the-2nd-enigma.json) |
 | Priton | 91948 | [91948-priton.json](./91948-priton.json) |
 | Private Dance VR | 286534 | [286534-private-dance-vr.json](./286534-private-dance-vr.json) |
@@ -3235,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Speed 2 | 188681 | [188681-project-speed-2.json](./188681-project-speed-2.json) |
 | Project Spikepig | 326997 | [326997-project-spikepig.json](./326997-project-spikepig.json) |
 | Project Stack | 311786 | [311786-project-stack.json](./311786-project-stack.json) |
+| Project Starship | 33222 | [33222-project-starship.json](./33222-project-starship.json) |
 | Project Starship X | 126587 | [126587-project-starship-x.json](./126587-project-starship-x.json) |
 | Project Stratarch | 259260 | [259260-project-stratarch.json](./259260-project-stratarch.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
@@ -3618,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt-Putt Travels Through Time | 3737 | [3737-putt-putt-travels-through-time.json](./3737-putt-putt-travels-through-time.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
 | Putty | 39022 | [39022-putty.json](./39022-putty.json) |
+| Putty Pals | 32866 | [32866-putty-pals.json](./32866-putty-pals.json) |
 | Putty Squad | 39021 | [39021-putty-squad.json](./39021-putty-squad.json) |
 | Puyo Puyo | 146876 | [146876-puyo-puyo.json](./146876-puyo-puyo.json) |
 | Puyo Puyo | 249773 | [249773-puyo-puyo.json](./249773-puyo-puyo.json) |
@@ -3736,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler Clover | 69300 | [69300-puzzler-clover.json](./69300-puzzler-clover.json) |
 | Puzzlerio | 270945 | [270945-puzzlerio.json](./270945-puzzlerio.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
+| Puzzles At Mystery Manor | 32883 | [32883-puzzles-at-mystery-manor.json](./32883-puzzles-at-mystery-manor.json) |
 | Puzzles for Smart: Birds | 110978 | [110978-puzzles-for-smart-birds.json](./110978-puzzles-for-smart-birds.json) |
 | Puzzles for smart: Cats | 104017 | [104017-puzzles-for-smart-cats.json](./104017-puzzles-for-smart-cats.json) |
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
