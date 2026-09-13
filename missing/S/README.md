@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | ShellBlast | 54391 | [54391-shellblast.json](./54391-shellblast.json) |
+| Shelldiver | 356430 | [356430-shelldiver.json](./356430-shelldiver.json) |
 | Shelldom | 330101 | [330101-shelldom.json](./330101-shelldom.json) |
 | Shelled Flame | 182528 | [182528-shelled-flame.json](./182528-shelled-flame.json) |
 | Shelley Duvall's It's a Bird's Life | 79294 | [79294-shelley-duvalls-its-a-birds-life.json](./79294-shelley-duvalls-its-a-birds-life.json) |
@@ -2259,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: Play Novel | 77257 | [77257-silent-hill-play-novel.json](./77257-silent-hill-play-novel.json) |
 | Silent Hill: Shattered Memories | 486 | [486-silent-hill-shattered-memories.json](./486-silent-hill-shattered-memories.json) |
 | Silent Hill: The Arcade | 324910 | [324910-silent-hill-the-arcade.json](./324910-silent-hill-the-arcade.json) |
+| Silent Hunter 5: Battle of the Atlantic | 995 | [995-silent-hunter-5-battle-of-the-atlantic.json](./995-silent-hunter-5-battle-of-the-atlantic.json) |
 | Silent Hunter III | 870 | [870-silent-hunter-iii.json](./870-silent-hunter-iii.json) |
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
