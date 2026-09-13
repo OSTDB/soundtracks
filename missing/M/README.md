@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
+| Mage and Minions | 15468 | [15468-mage-and-minions.json](./15468-mage-and-minions.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
 | Mage Arena | 356787 | [356787-mage-arena.json](./356787-mage-arena.json) |
 | Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
@@ -1775,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
 | Mercenaries Saga | 82082 | [82082-mercenaries-saga.json](./82082-mercenaries-saga.json) |
 | Mercenaries Saga 2 | 77691 | [77691-mercenaries-saga-2.json](./77691-mercenaries-saga-2.json) |
+| Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
 | Merch Tycoon | 102138 | [102138-merch-tycoon.json](./102138-merch-tycoon.json) |
 | Merchant | 7714 | [7714-merchant.json](./7714-merchant.json) |
