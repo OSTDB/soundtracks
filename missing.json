@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T05:04:17.839Z",
-  "total_missing": 64725,
+  "generated_at": "2026-09-13T05:11:32.299Z",
+  "total_missing": 64724,
   "games": [
     {
       "igdb_id": 306086,
@@ -3406,11 +3406,6 @@
       "igdb_id": 147460,
       "game_name": "Ace Invaders",
       "file": "missing/A/147460-ace-invaders.json"
-    },
-    {
-      "igdb_id": 11863,
-      "game_name": "Ace of Aces",
-      "file": "missing/A/11863-ace-of-aces.json"
     },
     {
       "igdb_id": 177475,
