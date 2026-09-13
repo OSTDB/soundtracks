@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Slash | 139372 | [139372-heaven-slash.json](./139372-heaven-slash.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heaven's Glaive | 387362 | [387362-heavens-glaive.json](./387362-heavens-glaive.json) |
+| Heaven's Hope | 17992 | [17992-heavens-hope.json](./17992-heavens-hope.json) |
 | Heaven's Machine | 181296 | [181296-heavens-machine.json](./181296-heavens-machine.json) |
 | Heavenly Hammer | 173820 | [173820-heavenly-hammer.json](./173820-heavenly-hammer.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
@@ -1244,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Clash | 226778 | [226778-heroes-clash.json](./226778-heroes-clash.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes Must Die | 32947 | [32947-heroes-must-die.json](./32947-heroes-must-die.json) |
+| Heroes of a Broken Land | 17663 | [17663-heroes-of-a-broken-land.json](./17663-heroes-of-a-broken-land.json) |
 | Heroes of Abyss | 191160 | [191160-heroes-of-abyss.json](./191160-heroes-of-abyss.json) |
 | Heroes of Annihilated Empires | 14824 | [14824-heroes-of-annihilated-empires.json](./14824-heroes-of-annihilated-empires.json) |
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
@@ -2376,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
 | Huànrèn Lù | 158155 | [158155-huanren-lu.json](./158155-huanren-lu.json) |
 | Huanu Poems | 339119 | [339119-huanu-poems.json](./339119-huanu-poems.json) |
+| Hudson Hawk | 18836 | [18836-hudson-hawk.json](./18836-hudson-hawk.json) |
 | Hudson Hawk | 365689 | [365689-hudson-hawk.json](./365689-hudson-hawk.json) |
 | Hudson Selection Vol. 2: Star Soldier | 43207 | [43207-hudson-selection-vol-2-star-soldier.json](./43207-hudson-selection-vol-2-star-soldier.json) |
 | Hudson Selection Vol. 3: PC Genjin - Pithecanthropus Computerurus | 50580 | [50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json](./50580-hudson-selection-vol-3-pc-genjin-pithecanthropus-computerurus.json) |
