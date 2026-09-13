@@ -1195,6 +1195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes against Demons | 139981 | [139981-heroes-against-demons.json](./139981-heroes-against-demons.json) |
 | Heroes and Forsaken: The Official Wheel of Time Digital Card Game | 362304 | [362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json](./362304-heroes-and-forsaken-the-official-wheel-of-time-digital-card-game.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
+| Heroes Call | 22209 | [22209-heroes-call.json](./22209-heroes-call.json) |
 | Heroes Clash | 226778 | [226778-heroes-clash.json](./226778-heroes-clash.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes Must Die | 32947 | [32947-heroes-must-die.json](./32947-heroes-must-die.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hulu Has Live Sports '20: The Video Game | 125457 | [125457-hulu-has-live-sports-20-the-video-game.json](./125457-hulu-has-live-sports-20-the-video-game.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
+| Human Defense | 22274 | [22274-human-defense.json](./22274-human-defense.json) |
 | Human Error | 217001 | [217001-human-error.json](./217001-human-error.json) |
 | Human Evolution Clicker Game: Rise of Mankind | 100889 | [100889-human-evolution-clicker-game-rise-of-mankind.json](./100889-human-evolution-clicker-game-rise-of-mankind.json) |
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
@@ -2431,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
 | Hunter's Trophy | 53219 | [53219-hunters-trophy.json](./53219-hunters-trophy.json) |
 | Hunter's Trophy 2: Europa | 64376 | [64376-hunters-trophy-2-europa.json](./64376-hunters-trophy-2-europa.json) |
+| Hunters 2 | 22318 | [22318-hunters-2.json](./22318-hunters-2.json) |
 | Hunters All Star Battle | 137657 | [137657-hunters-all-star-battle.json](./137657-hunters-all-star-battle.json) |
 | Hunters Gate | 110327 | [110327-hunters-gate.json](./110327-hunters-gate.json) |
 | Hunters: Episode One | 63800 | [63800-hunters-episode-one.json](./63800-hunters-episode-one.json) |
