@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T20:18:54.926Z",
-  "total_missing": 67064,
+  "generated_at": "2026-09-13T20:21:30.830Z",
+  "total_missing": 67063,
   "games": [
     {
       "igdb_id": 306086,
@@ -3891,11 +3891,6 @@
       "igdb_id": 328214,
       "game_name": "Adhvan Chakra",
       "file": "missing/A/328214-adhvan-chakra.json"
-    },
-    {
-      "igdb_id": 133948,
-      "game_name": "Adiasis",
-      "file": "missing/A/133948-adiasis.json"
     },
     {
       "igdb_id": 200672,
