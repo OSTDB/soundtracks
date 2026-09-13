@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Cowboy 3: Fully Loaded | 152901 | [152901-cactus-cowboy-3-fully-loaded.json](./152901-cactus-cowboy-3-fully-loaded.json) |
 | Cactus Cowboy: Desert Warfare | 263233 | [263233-cactus-cowboy-desert-warfare.json](./263233-cactus-cowboy-desert-warfare.json) |
 | Cactus McCoy 2: The Ruins of Calavera | 98117 | [98117-cactus-mccoy-2-the-ruins-of-calavera.json](./98117-cactus-mccoy-2-the-ruins-of-calavera.json) |
+| Cadaver | 11983 | [11983-cadaver.json](./11983-cadaver.json) |
 | Cadaver: The Payoff | 37130 | [37130-cadaver-the-payoff.json](./37130-cadaver-the-payoff.json) |
 | Cadde | 265401 | [265401-cadde.json](./265401-cadde.json) |
 | Cade Prime | 173244 | [173244-cade-prime.json](./173244-cade-prime.json) |
@@ -345,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsella: The Lights of Lucerne | 103501 | [103501-capsella-the-lights-of-lucerne.json](./103501-capsella-the-lights-of-lucerne.json) |
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
 | Capslock | 300425 | [300425-capslock.json](./300425-capslock.json) |
+| Capsule Force | 11184 | [11184-capsule-force.json](./11184-capsule-force.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
@@ -1435,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders | 11713 | [11713-chicken-invaders.json](./11713-chicken-invaders.json) |
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
 | Chicken Invaders 3: Easter Edition | 155576 | [155576-chicken-invaders-3-easter-edition.json](./155576-chicken-invaders-3-easter-edition.json) |
+| Chicken Invaders 4: Ultimate Omelette | 11716 | [11716-chicken-invaders-4-ultimate-omelette.json](./11716-chicken-invaders-4-ultimate-omelette.json) |
 | Chicken Invaders 5: Christmas Edition | 108464 | [108464-chicken-invaders-5-christmas-edition.json](./108464-chicken-invaders-5-christmas-edition.json) |
 | Chicken Jump | 108521 | [108521-chicken-jump.json](./108521-chicken-jump.json) |
 | Chicken Nuggets | 180224 | [180224-chicken-nuggets.json](./180224-chicken-nuggets.json) |
@@ -2666,6 +2669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: Soviet Commander - Partisan Tactics | 168291 | [168291-company-of-heroes-2-soviet-commander-partisan-tactics.json](./168291-company-of-heroes-2-soviet-commander-partisan-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Tank Hunter Tactics | 168292 | [168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json](./168292-company-of-heroes-2-soviet-commander-tank-hunter-tactics.json) |
 | Company of Heroes 2: Soviet Commander - Terror Tactics | 168293 | [168293-company-of-heroes-2-soviet-commander-terror-tactics.json](./168293-company-of-heroes-2-soviet-commander-terror-tactics.json) |
+| Company of Heroes 2: The British Forces | 11496 | [11496-company-of-heroes-2-the-british-forces.json](./11496-company-of-heroes-2-the-british-forces.json) |
 | Company of Heroes 2: US Forces Commander - Rifle Company | 168290 | [168290-company-of-heroes-2-us-forces-commander-rifle-company.json](./168290-company-of-heroes-2-us-forces-commander-rifle-company.json) |
 | Company of Heroes 3 | 156150 | [156150-company-of-heroes-3.json](./156150-company-of-heroes-3.json) |
 | Company of Heroes 3: Console Edition | 228537 | [228537-company-of-heroes-3-console-edition.json](./228537-company-of-heroes-3-console-edition.json) |
@@ -2699,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
 | Computer Repair Shop | 256284 | [256284-computer-repair-shop.json](./256284-computer-repair-shop.json) |
+| Computer Space | 11245 | [11245-computer-space.json](./11245-computer-space.json) |
 | Computer Store Simulator | 382744 | [382744-computer-store-simulator.json](./382744-computer-store-simulator.json) |
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
 | Computer, Open That Door! | 181382 | [181382-computer-open-that-door.json](./181382-computer-open-that-door.json) |
@@ -3632,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
 | crossbeats REV. | 126033 | [126033-crossbeats-rev.json](./126033-crossbeats-rev.json) |
+| Crossbow | 11868 | [11868-crossbow.json](./11868-crossbow.json) |
 | Crossbow Crusade | 148568 | [148568-crossbow-crusade.json](./148568-crossbow-crusade.json) |
 | Crossbow Potato | 112311 | [112311-crossbow-potato.json](./112311-crossbow-potato.json) |
 | Crossbow Warrior: The Legend of William Tell | 34196 | [34196-crossbow-warrior-the-legend-of-william-tell.json](./34196-crossbow-warrior-the-legend-of-william-tell.json) |
@@ -3949,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
 | Cultures: Die Rache des Regengottes | 93039 | [93039-cultures-die-rache-des-regengottes.json](./93039-cultures-die-rache-des-regengottes.json) |
+| Cultures: Northland | 11381 | [11381-cultures-northland.json](./11381-cultures-northland.json) |
 | Cultus | 156690 | [156690-cultus.json](./156690-cultus.json) |
 | Cum & Climb | 267080 | [267080-cum-and-climb.json](./267080-cum-and-climb.json) |
 | Cum Clicker | 262098 | [262098-cum-clicker.json](./262098-cum-clicker.json) |
