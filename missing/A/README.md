@@ -323,7 +323,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adhvan Chakra | 328214 | [328214-adhvan-chakra.json](./328214-adhvan-chakra.json) |
 | Adibou d'chou au cirque | 242534 | [242534-adibou-dchou-au-cirque.json](./242534-adibou-dchou-au-cirque.json) |
-| Adibou Nature et Sciences | 242531 | [242531-adibou-nature-et-sciences.json](./242531-adibou-nature-et-sciences.json) |
 | Adlib | 112303 | [112303-adlib.json](./112303-adlib.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adopt A Boyfriend | 332439 | [332439-adopt-a-boyfriend.json](./332439-adopt-a-boyfriend.json) |
