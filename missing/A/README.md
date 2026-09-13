@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A-10 Tank Killer Version 1.5 | 15570 | [15570-a-10-tank-killer-version-1-5.json](./15570-a-10-tank-killer-version-1-5.json) |
 | A-mazing Ants | 52561 | [52561-a-mazing-ants.json](./52561-a-mazing-ants.json) |
+| A-Rank Thunder Tanjouhen | 5355 | [5355-a-rank-thunder-tanjouhen.json](./5355-a-rank-thunder-tanjouhen.json) |
 | A-Red Walking Robot | 276712 | [276712-a-red-walking-robot.json](./276712-a-red-walking-robot.json) |
 | A-Train 9 V3.0: Railway Simulator | 52560 | [52560-a-train-9-v3-0-railway-simulator.json](./52560-a-train-9-v3-0-railway-simulator.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
@@ -154,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.I. Space Corps | 34206 | [34206-a-i-space-corps.json](./34206-a-i-space-corps.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.S.H. | 99614 | [99614-a-s-h.json](./99614-a-s-h.json) |
+| A/X-101 | 5360 | [5360-a-x-101.json](./5360-a-x-101.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
 | Aardwolf MUD | 228684 | [228684-aardwolf-mud.json](./228684-aardwolf-mud.json) |
@@ -231,7 +233,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - 25th Anniversary Skin Set II | 282593 | [282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json](./282593-ace-combat-7-skies-unknown-25th-anniversary-skin-set-ii.json) |
 | Ace Combat 7: Skies Unknown - ASF-X Shinden II Set | 282579 | [282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json](./282579-ace-combat-7-skies-unknown-asf-x-shinden-ii-set.json) |
 | Ace Combat 7: Skies Unknown - CFA-44 Nosferatu Set | 282578 | [282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json](./282578-ace-combat-7-skies-unknown-cfa-44-nosferatu-set.json) |
-| Ace Combat 7: Skies Unknown - Deluxe Edition 2022 | 282545 | [282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json](./282545-ace-combat-7-skies-unknown-deluxe-edition-2022.json) |
 | Ace Combat 7: Skies Unknown - F-104C: Avril | 282540 | [282540-ace-combat-7-skies-unknown-f-104c-avril.json](./282540-ace-combat-7-skies-unknown-f-104c-avril.json) |
 | Ace Combat 7: Skies Unknown - F-15 S/MTD Set | 282589 | [282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json](./282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json) |
 | Ace Combat 7: Skies Unknown - F-16XL Set | 282588 | [282588-ace-combat-7-skies-unknown-f-16xl-set.json](./282588-ace-combat-7-skies-unknown-f-16xl-set.json) |
@@ -565,6 +566,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Style | 79884 | [79884-aero-style.json](./79884-aero-style.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
+| Aerobiz | 5350 | [5350-aerobiz.json](./5350-aerobiz.json) |
+| Aerobiz Supersonic | 5351 | [5351-aerobiz-supersonic.json](./5351-aerobiz-supersonic.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | AeroChopper | 99034 | [99034-aerochopper.json](./99034-aerochopper.json) |
 | aerofly FS | 16383 | [16383-aerofly-fs.json](./16383-aerofly-fs.json) |
@@ -629,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
 | After Burner | 365116 | [365116-after-burner.json](./365116-after-burner.json) |
 | After Burner | 45347 | [45347-after-burner.json](./45347-after-burner.json) |
+| After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
 | After Burst | 7748 | [7748-after-burst.json](./7748-after-burst.json) |
 | After Crisis: Snowstorm | 158213 | [158213-after-crisis-snowstorm.json](./158213-after-crisis-snowstorm.json) |
 | After Dark | 224745 | [224745-after-dark.json](./224745-after-dark.json) |
@@ -1726,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andrew Lloyd Webber Musicals: Sing and Dance | 63874 | [63874-andrew-lloyd-webber-musicals-sing-and-dance.json](./63874-andrew-lloyd-webber-musicals-sing-and-dance.json) |
 | Andrii's Horror | 52580 | [52580-andriis-horror.json](./52580-andriis-horror.json) |
 | Android Amazones | 120987 | [120987-android-amazones.json](./120987-android-amazones.json) |
+| Android Assault: The Revenge of Bari-Arm | 5358 | [5358-android-assault-the-revenge-of-bari-arm.json](./5358-android-assault-the-revenge-of-bari-arm.json) |
 | Android Runner | 100820 | [100820-android-runner.json](./100820-android-runner.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
@@ -1740,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anemoiapolis: Chapter 1 | 168855 | [168855-anemoiapolis-chapter-1.json](./168855-anemoiapolis-chapter-1.json) |
 | Anemone | 326056 | [326056-anemone.json](./326056-anemone.json) |
 | Anesthesia | 216468 | [216468-anesthesia.json](./216468-anesthesia.json) |
+| Anett Futatabi | 5359 | [5359-anett-futatabi.json](./5359-anett-futatabi.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
 | Angel Droid | 221193 | [221193-angel-droid.json](./221193-angel-droid.json) |
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
