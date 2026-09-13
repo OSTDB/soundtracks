@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandara: Trials of Fear Edition | 129536 | [129536-dandara-trials-of-fear-edition.json](./129536-dandara-trials-of-fear-edition.json) |
 | Dandelion | 181343 | [181343-dandelion.json](./181343-dandelion.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
+| Dandy Dungeon: Legend of Brave Yamada | 27104 | [27104-dandy-dungeon-legend-of-brave-yamada.json](./27104-dandy-dungeon-legend-of-brave-yamada.json) |
 | Dandy: Or a Brief Glimpse Into the Life of the Candy Alchemist | 59985 | [59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json](./59985-dandy-or-a-brief-glimpse-into-the-life-of-the-candy-alchemist.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
@@ -806,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
+| Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
 | Deadly Duck | 22434 | [22434-deadly-duck.json](./22434-deadly-duck.json) |
 | Deadly Flare | 192879 | [192879-deadly-flare.json](./192879-deadly-flare.json) |
@@ -1839,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
+| Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
 | Dimension M | 213969 | [213969-dimension-m.json](./213969-dimension-m.json) |
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
 | Dimension of the Diminished | 271723 | [271723-dimension-of-the-diminished.json](./271723-dimension-of-the-diminished.json) |
