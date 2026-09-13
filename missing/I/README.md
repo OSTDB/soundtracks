@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istaria: Chronicles of the Gifted | 9578 | [9578-istaria-chronicles-of-the-gifted.json](./9578-istaria-chronicles-of-the-gifted.json) |
 | iSwinging 2 | 101611 | [101611-iswinging-2.json](./101611-iswinging-2.json) |
 | It All Boils Down to This | 184125 | [184125-it-all-boils-down-to-this.json](./184125-it-all-boils-down-to-this.json) |
+| It Came From Space, and Ate Our Brains | 35930 | [35930-it-came-from-space-and-ate-our-brains.json](./35930-it-came-from-space-and-ate-our-brains.json) |
 | It Came From the Closet | 109050 | [109050-it-came-from-the-closet.json](./109050-it-came-from-the-closet.json) |
 | It Came from the Desert | 1060 | [1060-it-came-from-the-desert.json](./1060-it-came-from-the-desert.json) |
 | It Came from the Desert | 133965 | [133965-it-came-from-the-desert.json](./133965-it-came-from-the-desert.json) |
