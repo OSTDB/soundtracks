@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-16 Multirole Fighter | 72715 | [72715-f-16-multirole-fighter.json](./72715-f-16-multirole-fighter.json) |
 | F-16 Renegade | 66706 | [66706-f-16-renegade.json](./66706-f-16-renegade.json) |
 | F-18 Thunder Strike | 49931 | [49931-f-18-thunder-strike.json](./49931-f-18-thunder-strike.json) |
+| F-22 Interceptor | 19494 | [19494-f-22-interceptor.json](./19494-f-22-interceptor.json) |
 | F-4 Phantom II: Sky Defender | 253358 | [253358-f-4-phantom-ii-sky-defender.json](./253358-f-4-phantom-ii-sky-defender.json) |
 | F-Rank Hero Story | 186323 | [186323-f-rank-hero-story.json](./186323-f-rank-hero-story.json) |
 | F-Stop Museum | 362288 | [362288-f-stop-museum.json](./362288-f-stop-museum.json) |
@@ -1518,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleshgrinder | 415905 | [415905-fleshgrinder.json](./415905-fleshgrinder.json) |
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
+| Flewn | 18087 | [18087-flewn.json](./18087-flewn.json) |
 | Flexibility and Girls | 147979 | [147979-flexibility-and-girls.json](./147979-flexibility-and-girls.json) |
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
 | Flick Arena | 104094 | [104094-flick-arena.json](./104094-flick-arena.json) |
