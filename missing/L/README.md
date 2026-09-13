@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightWave | 155657 | [155657-lightwave.json](./155657-lightwave.json) |
 | Ligmar | 361692 | [361692-ligmar.json](./361692-ligmar.json) |
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
+| Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
 | Like a Dragon: Infinite Wealth - Assorted Outfit Bundle | 288216 | [288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json](./288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json) |
 | Like a Dragon: Infinite Wealth - Master Vacation Bundle | 288217 | [288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json](./288217-like-a-dragon-infinite-wealth-master-vacation-bundle.json) |
 | Like a Dragon: Infinite Wealth - Special Job Set | 288219 | [288219-like-a-dragon-infinite-wealth-special-job-set.json](./288219-like-a-dragon-infinite-wealth-special-job-set.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
 | Lost Inside: Act 1 | 291751 | [291751-lost-inside-act-1.json](./291751-lost-inside-act-1.json) |
 | Lost Isle | 269320 | [269320-lost-isle.json](./269320-lost-isle.json) |
+| Lost Judgment | 146851 | [146851-lost-judgment.json](./146851-lost-judgment.json) |
 | Lost Judgment: Detective Essentials Pack | 264067 | [264067-lost-judgment-detective-essentials-pack.json](./264067-lost-judgment-detective-essentials-pack.json) |
 | Lost Judgment: School Stories Expansion Pack | 264071 | [264071-lost-judgment-school-stories-expansion-pack.json](./264071-lost-judgment-school-stories-expansion-pack.json) |
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
