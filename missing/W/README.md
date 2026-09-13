@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipe Out VR | 81248 | [81248-wipe-out-vr.json](./81248-wipe-out-vr.json) |
 | Wipeout | 265970 | [265970-wipeout.json](./265970-wipeout.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
+| Wipeout Pure | 1542 | [1542-wipeout-pure.json](./1542-wipeout-pure.json) |
 | Wipeout XL | 1538 | [1538-wipeout-xl.json](./1538-wipeout-xl.json) |
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
