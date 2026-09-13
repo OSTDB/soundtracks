@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Outside | 278729 | [278729-whats-outside.json](./278729-whats-outside.json) |
 | What's Shenmue? | 93595 | [93595-whats-shenmue.json](./93595-whats-shenmue.json) |
 | What's the Time Mr.Fox | 200140 | [200140-whats-the-time-mr-fox.json](./200140-whats-the-time-mr-fox.json) |
+| What's under your blanket !? | 15744 | [15744-whats-under-your-blanket.json](./15744-whats-under-your-blanket.json) |
 | What's Updog | 228066 | [228066-whats-updog.json](./228066-whats-updog.json) |
 | What's Wrong with Jasper? | 178593 | [178593-whats-wrong-with-jasper.json](./178593-whats-wrong-with-jasper.json) |
 | What's Wrong With You? | 144256 | [144256-whats-wrong-with-you.json](./144256-whats-wrong-with-you.json) |
