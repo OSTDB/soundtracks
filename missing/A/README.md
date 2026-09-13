@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Turnabout to El Dorado | 295241 | [295241-a-turnabout-to-el-dorado.json](./295241-a-turnabout-to-el-dorado.json) |
 | A Turtle In A Hare-Machine | 246102 | [246102-a-turtle-in-a-hare-machine.json](./246102-a-turtle-in-a-hare-machine.json) |
 | A Vacation in Nebula | 146325 | [146325-a-vacation-in-nebula.json](./146325-a-vacation-in-nebula.json) |
+| A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Very Pilkington Christmas | 280752 | [280752-a-very-pilkington-christmas.json](./280752-a-very-pilkington-christmas.json) |
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
 | A Visit to Sesame Street: Numbers | 46558 | [46558-a-visit-to-sesame-street-numbers.json](./46558-a-visit-to-sesame-street-numbers.json) |
@@ -285,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
+| ACME Animation Factory | 3044 | [3044-acme-animation-factory.json](./3044-acme-animation-factory.json) |
 | Acme Bricks | 97351 | [97351-acme-bricks.json](./97351-acme-bricks.json) |
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
 | Acorn Tactics | 76573 | [76573-acorn-tactics.json](./76573-acorn-tactics.json) |
@@ -1323,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Quite on the Bridge: Mad Cliff | 105306 | [105306-all-quite-on-the-bridge-mad-cliff.json](./105306-all-quite-on-the-bridge-mad-cliff.json) |
 | All Star Baseball | 91416 | [91416-all-star-baseball.json](./91416-all-star-baseball.json) |
 | All Star Cheer 2 | 12886 | [12886-all-star-cheer-2.json](./12886-all-star-cheer-2.json) |
+| All Star Cheer Squad 2 | 2851 | [2851-all-star-cheer-squad-2.json](./2851-all-star-cheer-squad-2.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
 | All Star Quarterback | 58210 | [58210-all-star-quarterback.json](./58210-all-star-quarterback.json) |
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
@@ -1630,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
+| Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | Amy Rose in Sonic the Hedgehog | 129176 | [129176-amy-rose-in-sonic-the-hedgehog.json](./129176-amy-rose-in-sonic-the-hedgehog.json) |
