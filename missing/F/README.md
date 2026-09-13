@@ -2084,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One | 250341 | [250341-formula-one.json](./250341-formula-one.json) |
 | Formula One 2002 | 8300 | [8300-formula-one-2002.json](./8300-formula-one-2002.json) |
 | Formula One 2003 | 8301 | [8301-formula-one-2003.json](./8301-formula-one-2003.json) |
+| Formula One World Championship: Beyond the Limit | 5388 | [5388-formula-one-world-championship-beyond-the-limit.json](./5388-formula-one-world-championship-beyond-the-limit.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
