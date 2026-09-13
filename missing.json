@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:21:29.477Z",
-  "total_missing": 65130,
+  "generated_at": "2026-09-13T07:31:36.201Z",
+  "total_missing": 65141,
   "games": [
     {
       "igdb_id": 306086,
@@ -3476,11 +3476,6 @@
       "igdb_id": 102133,
       "game_name": "Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties",
       "file": "missing/A/102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json"
-    },
-    {
-      "igdb_id": 207823,
-      "game_name": "Achikaps",
-      "file": "missing/A/207823-achikaps.json"
     },
     {
       "igdb_id": 183020,
@@ -52213,6 +52208,11 @@
       "file": "missing/C/959-command-and-conquer-red-alert-3.json"
     },
     {
+      "igdb_id": 663,
+      "game_name": "Command & Conquer: The Covert Operations",
+      "file": "missing/C/663-command-and-conquer-the-covert-operations.json"
+    },
+    {
       "igdb_id": 273634,
       "game_name": "Command Center Earth",
       "file": "missing/C/273634-command-center-earth.json"
@@ -55581,6 +55581,11 @@
       "igdb_id": 210243,
       "game_name": "Crash Bandicoot",
       "file": "missing/C/210243-crash-bandicoot.json"
+    },
+    {
+      "igdb_id": 1198,
+      "game_name": "Crash Bandicoot 2: N-Tranced",
+      "file": "missing/C/1198-crash-bandicoot-2-n-tranced.json"
     },
     {
       "igdb_id": 323730,
@@ -134743,6 +134748,11 @@
       "file": "missing/J/197962-jaded.json"
     },
     {
+      "igdb_id": 7,
+      "game_name": "Jagged Alliance",
+      "file": "missing/J/7-jagged-alliance.json"
+    },
+    {
       "igdb_id": 53252,
       "game_name": "Jagged Alliance 2 Platinum",
       "file": "missing/J/53252-jagged-alliance-2-platinum.json"
@@ -176153,6 +176163,11 @@
       "file": "missing/M/71443-mvp-baseball.json"
     },
     {
+      "igdb_id": 796,
+      "game_name": "MVP Baseball 2005",
+      "file": "missing/M/796-mvp-baseball-2005.json"
+    },
+    {
       "igdb_id": 287113,
       "game_name": "MX vs. ATV: Legends - 2023 Track Pass",
       "file": "missing/M/287113-mx-vs-atv-legends-2023-track-pass.json"
@@ -179998,6 +180013,11 @@
       "file": "missing/N/264855-nba-live-2000.json"
     },
     {
+      "igdb_id": 808,
+      "game_name": "NBA Live 2003",
+      "file": "missing/N/808-nba-live-2003.json"
+    },
+    {
       "igdb_id": 39596,
       "game_name": "NBA Maximum Hangtime",
       "file": "missing/N/39596-nba-maximum-hangtime.json"
@@ -182738,6 +182758,11 @@
       "file": "missing/N/5964-nhl-07.json"
     },
     {
+      "igdb_id": 953,
+      "game_name": "NHL 10",
+      "file": "missing/N/953-nhl-10.json"
+    },
+    {
       "igdb_id": 36847,
       "game_name": "NHL 18",
       "file": "missing/N/36847-nhl-18.json"
@@ -182756,6 +182781,11 @@
       "igdb_id": 814,
       "game_name": "NHL 2001",
       "file": "missing/N/814-nhl-2001.json"
+    },
+    {
+      "igdb_id": 815,
+      "game_name": "NHL 2002",
+      "file": "missing/N/815-nhl-2002.json"
     },
     {
       "igdb_id": 408771,
@@ -190871,6 +190901,11 @@
       "igdb_id": 288,
       "game_name": "Operation Flashpoint: Cold War Crisis",
       "file": "missing/O/288-operation-flashpoint-cold-war-crisis.json"
+    },
+    {
+      "igdb_id": 448,
+      "game_name": "Operation Flashpoint: Resistance",
+      "file": "missing/O/448-operation-flashpoint-resistance.json"
     },
     {
       "igdb_id": 278385,
@@ -203933,6 +203968,11 @@
       "file": "missing/P/129809-pokemon-cawps.json"
     },
     {
+      "igdb_id": 333568,
+      "game_name": "Pokémon Champions",
+      "file": "missing/P/333568-pokemon-champions.json"
+    },
+    {
       "igdb_id": 129810,
       "game_name": "Pokémon Clover",
       "file": "missing/P/129810-pokemon-clover.json"
@@ -206516,6 +206556,11 @@
       "igdb_id": 400248,
       "game_name": "PowerWash Simulator",
       "file": "missing/P/400248-powerwash-simulator.json"
+    },
+    {
+      "igdb_id": 335439,
+      "game_name": "PowerWash Simulator 2",
+      "file": "missing/P/335439-powerwash-simulator-2.json"
     },
     {
       "igdb_id": 312018,
@@ -274698,6 +274743,11 @@
       "file": "missing/T/227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json"
     },
     {
+      "igdb_id": 453,
+      "game_name": "The Death and Return of Superman",
+      "file": "missing/T/453-the-death-and-return-of-superman.json"
+    },
+    {
       "igdb_id": 151125,
       "game_name": "The Death Into Trouble",
       "file": "missing/T/151125-the-death-into-trouble.json"
@@ -292681,6 +292731,11 @@
       "igdb_id": 43283,
       "game_name": "Tom Clancy's Action Pack Limited Edition",
       "file": "missing/T/43283-tom-clancys-action-pack-limited-edition.json"
+    },
+    {
+      "igdb_id": 1298,
+      "game_name": "Tom Clancy's Ghost Recon 2",
+      "file": "missing/T/1298-tom-clancys-ghost-recon-2.json"
     },
     {
       "igdb_id": 77977,
