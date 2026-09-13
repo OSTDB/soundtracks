@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T22:33:47.606Z",
-  "total_missing": 67467,
+  "generated_at": "2026-09-13T22:41:27.438Z",
+  "total_missing": 67466,
   "games": [
     {
       "igdb_id": 306086,
@@ -3976,11 +3976,6 @@
       "igdb_id": 242534,
       "game_name": "Adibou d'chou au cirque",
       "file": "missing/A/242534-adibou-dchou-au-cirque.json"
-    },
-    {
-      "igdb_id": 242531,
-      "game_name": "Adibou Nature et Sciences",
-      "file": "missing/A/242531-adibou-nature-et-sciences.json"
     },
     {
       "igdb_id": 112303,
