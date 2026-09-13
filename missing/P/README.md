@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
 | Pac-Man World | 84190 | [84190-pac-man-world.json](./84190-pac-man-world.json) |
 | Pac-Man World 2 Re-Pac | 358530 | [358530-pac-man-world-2-re-pac.json](./358530-pac-man-world-2-re-pac.json) |
+| Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
 | Pac-Man: Championship Edition DX | 21737 | [21737-pac-man-championship-edition-dx.json](./21737-pac-man-championship-edition-dx.json) |
 | Pac-Man: Party Royale | 122320 | [122320-pac-man-party-royale.json](./122320-pac-man-party-royale.json) |
 | Pac-Man: Ralph Breaks the Maze | 112300 | [112300-pac-man-ralph-breaks-the-maze.json](./112300-pac-man-ralph-breaks-the-maze.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
 | Painkiller: Purgatory HD | 77308 | [77308-painkiller-purgatory-hd.json](./77308-painkiller-purgatory-hd.json) |
+| Painkiller: Recurring Evil | 1839 | [1839-painkiller-recurring-evil.json](./1839-painkiller-recurring-evil.json) |
 | Painkiller: Redemption | 1838 | [1838-painkiller-redemption.json](./1838-painkiller-redemption.json) |
 | PainStation | 175901 | [175901-painstation.json](./175901-painstation.json) |
 | Paint | 260171 | [260171-paint.json](./260171-paint.json) |
@@ -1374,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Fantasies Deluxe | 78624 | [78624-pinball-fantasies-deluxe.json](./78624-pinball-fantasies-deluxe.json) |
 | Pinball Freedom | 196317 | [196317-pinball-freedom.json](./196317-pinball-freedom.json) |
 | Pinball Fun | 43245 | [43245-pinball-fun.json](./43245-pinball-fun.json) |
+| Pinball FX | 185795 | [185795-pinball-fx.json](./185795-pinball-fx.json) |
 | Pinball FX 2: Marvel Pinball - Vengeance and Virtue | 20822 | [20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json](./20822-pinball-fx-2-marvel-pinball-vengeance-and-virtue.json) |
 | Pinball FX: Bethesda Pinball | 386718 | [386718-pinball-fx-bethesda-pinball.json](./386718-pinball-fx-bethesda-pinball.json) |
 | Pinball FX: Buccaneer | 395544 | [395544-pinball-fx-buccaneer.json](./395544-pinball-fx-buccaneer.json) |
@@ -2270,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Patrol SImulator | 383394 | [383394-police-patrol-simulator.json](./383394-police-patrol-simulator.json) |
 | Police Precinct: Online | 197850 | [197850-police-precinct-online.json](./197850-police-precinct-online.json) |
 | Police Quest Collection | 32278 | [32278-police-quest-collection.json](./32278-police-quest-collection.json) |
+| Police Quest III: The Kindred | 1926 | [1926-police-quest-iii-the-kindred.json](./1926-police-quest-iii-the-kindred.json) |
 | Police Rage | 223985 | [223985-police-rage.json](./223985-police-rage.json) |
 | Police Response VR: Disturbance | 130319 | [130319-police-response-vr-disturbance.json](./130319-police-response-vr-disturbance.json) |
 | Police Sentri | 165649 | [165649-police-sentri.json](./165649-police-sentri.json) |
@@ -3519,6 +3523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
 | Putt Putt World - AR Mini Golf | 105898 | [105898-putt-putt-world-ar-mini-golf.json](./105898-putt-putt-world-ar-mini-golf.json) |
 | Putt-Putt Enters the Race | 3738 | [3738-putt-putt-enters-the-race.json](./3738-putt-putt-enters-the-race.json) |
+| Putt-Putt Goes to the Moon | 3734 | [3734-putt-putt-goes-to-the-moon.json](./3734-putt-putt-goes-to-the-moon.json) |
 | Putt-Putt Saves the Zoo | 3736 | [3736-putt-putt-saves-the-zoo.json](./3736-putt-putt-saves-the-zoo.json) |
 | Putt-Putt Travels Through Time | 3737 | [3737-putt-putt-travels-through-time.json](./3737-putt-putt-travels-through-time.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
