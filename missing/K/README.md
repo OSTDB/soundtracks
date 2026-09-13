@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Kings | 231927 | [231927-king-of-kings.json](./231927-king-of-kings.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Queendoms | 110609 | [110609-king-of-queendoms.json](./110609-king-of-queendoms.json) |
+| King of Retail | 113053 | [113053-king-of-retail.json](./113053-king-of-retail.json) |
 | King of Snatchers | 306338 | [306338-king-of-snatchers.json](./306338-king-of-snatchers.json) |
 | King of Space | 345515 | [345515-king-of-space.json](./345515-king-of-space.json) |
 | King of Spin VR | 31980 | [31980-king-of-spin-vr.json](./31980-king-of-spin-vr.json) |
@@ -1016,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knowledge | 410931 | [410931-knowledge.json](./410931-knowledge.json) |
 | Knowledge Fever | 245863 | [245863-knowledge-fever.json](./245863-knowledge-fever.json) |
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
+| Knowledge, or Know Lady | 290941 | [290941-knowledge-or-know-lady.json](./290941-knowledge-or-know-lady.json) |
 | Knuckers Test Fight | 172182 | [172182-knuckers-test-fight.json](./172182-knuckers-test-fight.json) |
 | Knuckle Heads | 39588 | [39588-knuckle-heads.json](./39588-knuckle-heads.json) |
 | Knuckle Jet | 336521 | [336521-knuckle-jet.json](./336521-knuckle-jet.json) |
