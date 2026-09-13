@@ -224,7 +224,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney Investigations 0: Quercus Alba Dating Simulator | 237350 | [237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json](./237350-ace-attorney-investigations-0-quercus-alba-dating-simulator.json) |
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
-| Ace Attorney: Judgement Seekers | 310417 | [310417-ace-attorney-judgement-seekers.json](./310417-ace-attorney-judgement-seekers.json) |
 | Ace Attorney: The Dark Age of Love | 305190 | [305190-ace-attorney-the-dark-age-of-love.json](./305190-ace-attorney-the-dark-age-of-love.json) |
 | Ace Attorney: The Feather of Crime | 310416 | [310416-ace-attorney-the-feather-of-crime.json](./310416-ace-attorney-the-feather-of-crime.json) |
 | Ace Attorney: Ultimate Justice | 304031 | [304031-ace-attorney-ultimate-justice.json](./304031-ace-attorney-ultimate-justice.json) |
