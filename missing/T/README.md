@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Shadowland | 185644 | [185644-tales-of-shadowland.json](./185644-tales-of-shadowland.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
 | Tales of Spark | 225103 | [225103-tales-of-spark.json](./225103-tales-of-spark.json) |
+| Tales of Symphonia: Dawn of the New World | 222629 | [222629-tales-of-symphonia-dawn-of-the-new-world.json](./222629-tales-of-symphonia-dawn-of-the-new-world.json) |
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
 | Tales of the Abyss | 20972 | [20972-tales-of-the-abyss.json](./20972-tales-of-the-abyss.json) |
@@ -397,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking Pinball | 346043 | [346043-talking-pinball.json](./346043-talking-pinball.json) |
 | Talking Roby the Robot | 343796 | [343796-talking-roby-the-robot.json](./343796-talking-roby-the-robot.json) |
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
+| Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
 | Talking Tom Cat 2 | 214779 | [214779-talking-tom-cat-2.json](./214779-talking-tom-cat-2.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
@@ -747,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Stackers | 43939 | [43939-tecmo-stackers.json](./43939-tecmo-stackers.json) |
+| Tecmo Super Bowl | 237471 | [237471-tecmo-super-bowl.json](./237471-tecmo-super-bowl.json) |
 | Tecmo Super Bowl II: Special Edition | 46598 | [46598-tecmo-super-bowl-ii-special-edition.json](./46598-tecmo-super-bowl-ii-special-edition.json) |
 | Tecmo Super Hockey | 46597 | [46597-tecmo-super-hockey.json](./46597-tecmo-super-hockey.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
@@ -1942,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Adventures: Redguard | 55 | [55-the-elder-scrolls-adventures-redguard.json](./55-the-elder-scrolls-adventures-redguard.json) |
 | The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
+| The Elder Scrolls Online: Clockwork City | 237335 | [237335-the-elder-scrolls-online-clockwork-city.json](./237335-the-elder-scrolls-online-clockwork-city.json) |
 | The Elder Scrolls Online: Feast of Shadows | 361156 | [361156-the-elder-scrolls-online-feast-of-shadows.json](./361156-the-elder-scrolls-online-feast-of-shadows.json) |
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
@@ -2521,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Taco | 205240 | [205240-the-jumping-taco.json](./205240-the-jumping-taco.json) |
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
+| The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
 | The Keep | 146340 | [146340-the-keep.json](./146340-the-keep.json) |
 | The Keeper | 162424 | [162424-the-keeper.json](./162424-the-keeper.json) |
 | The Keepers of Pages: Chevengur | 111663 | [111663-the-keepers-of-pages-chevengur.json](./111663-the-keepers-of-pages-chevengur.json) |
@@ -2606,6 +2611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
+| The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
 | The Last Hike | 236267 | [236267-the-last-hike.json](./236267-the-last-hike.json) |
 | The Last Hope | 25627 | [25627-the-last-hope.json](./25627-the-last-hope.json) |
 | The Last Hope: Atomic Bomb - Crypto War | 88195 | [88195-the-last-hope-atomic-bomb-crypto-war.json](./88195-the-last-hope-atomic-bomb-crypto-war.json) |
@@ -2902,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Tetekoa | 327202 | [327202-the-lost-tetekoa.json](./327202-the-lost-tetekoa.json) |
 | The Lost Throne | 127199 | [127199-the-lost-throne.json](./127199-the-lost-throne.json) |
 | The Lost Town: The Dust | 65872 | [65872-the-lost-town-the-dust.json](./65872-the-lost-town-the-dust.json) |
+| The Lost Vikings | 214736 | [214736-the-lost-vikings.json](./214736-the-lost-vikings.json) |
 | The Lost Vikings | 214769 | [214769-the-lost-vikings.json](./214769-the-lost-vikings.json) |
 | The Lost Vikings | 454 | [454-the-lost-vikings.json](./454-the-lost-vikings.json) |
 | The Lost Weld | 197385 | [197385-the-lost-weld.json](./197385-the-lost-weld.json) |
@@ -6650,6 +6657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
 | Tribal Wars | 148522 | [148522-tribal-wars.json](./148522-tribal-wars.json) |
+| Tribals.io | 228783 | [228783-tribals-io.json](./228783-tribals-io.json) |
 | Tribe Explorer | 213413 | [213413-tribe-explorer.json](./213413-tribe-explorer.json) |
 | Tribe Nine | 130317 | [130317-tribe-nine.json](./130317-tribe-nine.json) |
 | Tribe of Pok | 31979 | [31979-tribe-of-pok.json](./31979-tribe-of-pok.json) |
