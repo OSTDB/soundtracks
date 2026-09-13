@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Jin-Bo: The Bodyguards | 72679 | [72679-yo-jin-bo-the-bodyguards.json](./72679-yo-jin-bo-the-bodyguards.json) |
 | Yo-kai Sangokushi: Kunitori Wars | 77356 | [77356-yo-kai-sangokushi-kunitori-wars.json](./77356-yo-kai-sangokushi-kunitori-wars.json) |
 | Yo-kai Watch 1 Smartphone | 308252 | [308252-yo-kai-watch-1-smartphone.json](./308252-yo-kai-watch-1-smartphone.json) |
+| Yo-Kai Watch 2: Bony Spirits | 11658 | [11658-yo-kai-watch-2-bony-spirits.json](./11658-yo-kai-watch-2-bony-spirits.json) |
 | Yo-Kai Watch 3: Tempura | 222295 | [222295-yo-kai-watch-3-tempura.json](./222295-yo-kai-watch-3-tempura.json) |
 | Yo-kai Watch 4++ | 127255 | [127255-yo-kai-watch-4.json](./127255-yo-kai-watch-4.json) |
 | Yo-kai Watch Dance: Just Dance Special Edition | 59946 | [59946-yo-kai-watch-dance-just-dance-special-edition.json](./59946-yo-kai-watch-dance-just-dance-special-edition.json) |
@@ -210,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshiwara Higanbana: Kuon no Chigiri | 110335 | [110335-yoshiwara-higanbana-kuon-no-chigiri.json](./110335-yoshiwara-higanbana-kuon-no-chigiri.json) |
 | Yots | 408062 | [408062-yots.json](./408062-yots.json) |
 | Yotsunoha ~A Journey of Sincerity~ | 140528 | [140528-yotsunoha-a-journey-of-sincerity.json](./140528-yotsunoha-a-journey-of-sincerity.json) |
+| You and Me and Her: A Love Story | 133256 | [133256-you-and-me-and-her-a-love-story.json](./133256-you-and-me-and-her-a-love-story.json) |
 | You Are A Pilot | 189148 | [189148-you-are-a-pilot.json](./189148-you-are-a-pilot.json) |
 | You Are a Torpedo AI | 75777 | [75777-you-are-a-torpedo-ai.json](./75777-you-are-a-torpedo-ai.json) |
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
