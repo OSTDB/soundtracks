@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jak and Daxter: The Precursor Legacy | 302690 | [302690-jak-and-daxter-the-precursor-legacy.json](./302690-jak-and-daxter-the-precursor-legacy.json) |
 | Jak and Daxter: The Precursor Legacy | 325261 | [325261-jak-and-daxter-the-precursor-legacy.json](./325261-jak-and-daxter-the-precursor-legacy.json) |
 | Jak II | 1529 | [1529-jak-ii.json](./1529-jak-ii.json) |
+| Jak X: Combat Racing | 1532 | [1532-jak-x-combat-racing.json](./1532-jak-x-combat-racing.json) |
 | Jake's Halloween Night | 216770 | [216770-jakes-halloween-night.json](./216770-jakes-halloween-night.json) |
 | Jakers: The Adventures of Piggley Winks | 19653 | [19653-jakers-the-adventures-of-piggley-winks.json](./19653-jakers-the-adventures-of-piggley-winks.json) |
 | Jaki Crush | 38361 | [38361-jaki-crush.json](./38361-jaki-crush.json) |
