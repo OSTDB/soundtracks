@@ -304,6 +304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
 | NBA Dynasty | 92443 | [92443-nba-dynasty.json](./92443-nba-dynasty.json) |
 | NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
+| NBA Hangtime | 3550 | [3550-nba-hangtime.json](./3550-nba-hangtime.json) |
 | NBA in the Zone | 20639 | [20639-nba-in-the-zone.json](./20639-nba-in-the-zone.json) |
 | NBA in the Zone '99 | 72053 | [72053-nba-in-the-zone-99.json](./72053-nba-in-the-zone-99.json) |
 | NBA In the Zone 2 | 20729 | [20729-nba-in-the-zone-2.json](./20729-nba-in-the-zone-2.json) |
