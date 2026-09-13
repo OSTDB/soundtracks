@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
 | Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
+| Orna | 105733 | [105733-orna.json](./105733-orna.json) |
 | Orphan Black: The Game | 27724 | [27724-orphan-black-the-game.json](./27724-orphan-black-the-game.json) |
 | Orphan Feast | 306962 | [306962-orphan-feast.json](./306962-orphan-feast.json) |
 | Orphan of the Petal | 113766 | [113766-orphan-of-the-petal.json](./113766-orphan-of-the-petal.json) |
@@ -1140,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Shapes | 133382 | [133382-out-of-shapes.json](./133382-out-of-shapes.json) |
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
 | Out of Sight | 312565 | [312565-out-of-sight.json](./312565-out-of-sight.json) |
+| Out of Space | 111772 | [111772-out-of-space.json](./111772-out-of-space.json) |
 | Out of Stock! | 346588 | [346588-out-of-stock.json](./346588-out-of-stock.json) |
 | Out of the Blocks | 62723 | [62723-out-of-the-blocks.json](./62723-out-of-the-blocks.json) |
 | Out of the ground | 226202 | [226202-out-of-the-ground.json](./226202-out-of-the-ground.json) |
