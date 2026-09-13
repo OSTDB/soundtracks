@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Expansion | 391049 | [391049-age-of-expansion.json](./391049-age-of-expansion.json) |
 | Age of Fear 3: The Legend | 51550 | [51550-age-of-fear-3-the-legend.json](./51550-age-of-fear-3-the-legend.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
+| Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gladiators II: Death League | 97851 | [97851-age-of-gladiators-ii-death-league.json](./97851-age-of-gladiators-ii-death-league.json) |
 | Age of Goblins | 265403 | [265403-age-of-goblins.json](./265403-age-of-goblins.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
@@ -2921,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asciill | 192976 | [192976-asciill.json](./192976-asciill.json) |
 | Ascribe | 235990 | [235990-ascribe.json](./235990-ascribe.json) |
 | Asdivine Collection | 172729 | [172729-asdivine-collection.json](./172729-asdivine-collection.json) |
+| Asdivine Cross | 38982 | [38982-asdivine-cross.json](./38982-asdivine-cross.json) |
 | Asdivine Dios | 38981 | [38981-asdivine-dios.json](./38981-asdivine-dios.json) |
 | Asdivine Hearts I & II | 196276 | [196276-asdivine-hearts-i-and-ii.json](./196276-asdivine-hearts-i-and-ii.json) |
 | Asdivine Menace | 38980 | [38980-asdivine-menace.json](./38980-asdivine-menace.json) |
