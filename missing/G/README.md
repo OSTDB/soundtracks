@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | G Warrior | 278666 | [278666-g-warrior.json](./278666-g-warrior.json) |
+| G-Darius | 39691 | [39691-g-darius.json](./39691-g-darius.json) |
 | G-Dino's Jungle Adventure | 101630 | [101630-g-dinos-jungle-adventure.json](./101630-g-dinos-jungle-adventure.json) |
 | G-Force Fighters | 243938 | [243938-g-force-fighters.json](./243938-g-force-fighters.json) |
 | G-Hell | 415093 | [415093-g-hell.json](./415093-g-hell.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
 | Gears of Babies: Browser | 261258 | [261258-gears-of-babies-browser.json](./261258-gears-of-babies-browser.json) |
+| Gears of War 2: Game of the Year Edition | 47465 | [47465-gears-of-war-2-game-of-the-year-edition.json](./47465-gears-of-war-2-game-of-the-year-edition.json) |
 | Gears of War 3: Fenix Rising | 20656 | [20656-gears-of-war-3-fenix-rising.json](./20656-gears-of-war-3-fenix-rising.json) |
 | Gears of War: E-Day | 305160 | [305160-gears-of-war-e-day.json](./305160-gears-of-war-e-day.json) |
 | Geas | 228695 | [228695-geas.json](./228695-geas.json) |
