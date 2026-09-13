@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake 4 | 356 | [356-quake-4.json](./356-quake-4.json) |
 | Quake Brutalist Jam | 271195 | [271195-quake-brutalist-jam.json](./271195-quake-brutalist-jam.json) |
 | Quake Champions | 19530 | [19530-quake-champions.json](./19530-quake-champions.json) |
+| Quake II | 261085 | [261085-quake-ii.json](./261085-quake-ii.json) |
 | Quake II | 332259 | [332259-quake-ii.json](./332259-quake-ii.json) |
 | Quake II: Colossus | 200673 | [200673-quake-ii-colossus.json](./200673-quake-ii-colossus.json) |
 | Quake II: Quad Damage | 46628 | [46628-quake-ii-quad-damage.json](./46628-quake-ii-quad-damage.json) |
