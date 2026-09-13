@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T02:48:28.886Z",
-  "total_missing": 64338,
+  "generated_at": "2026-09-13T02:51:31.064Z",
+  "total_missing": 64337,
   "games": [
     {
       "igdb_id": 306086,
@@ -3336,11 +3336,6 @@
       "igdb_id": 25108,
       "game_name": "Ace Banana",
       "file": "missing/A/25108-ace-banana.json"
-    },
-    {
-      "igdb_id": 282583,
-      "game_name": "Ace Combat 7: Skies Unknown - 25th Anniversary Emblem Set",
-      "file": "missing/A/282583-ace-combat-7-skies-unknown-25th-anniversary-emblem-set.json"
     },
     {
       "igdb_id": 282591,
