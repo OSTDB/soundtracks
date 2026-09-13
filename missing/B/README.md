@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlewagon | 65486 | [65486-battlewagon.json](./65486-battlewagon.json) |
 | Battlewang | 23845 | [23845-battlewang.json](./23845-battlewang.json) |
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
+| Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
 | Battlezone 98 Redux: The Red Odyssey | 124824 | [124824-battlezone-98-redux-the-red-odyssey.json](./124824-battlezone-98-redux-the-red-odyssey.json) |
 | Battlezone: Rise of the Black Dogs | 3423 | [3423-battlezone-rise-of-the-black-dogs.json](./3423-battlezone-rise-of-the-black-dogs.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
@@ -1417,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berusky | 135275 | [135275-berusky.json](./135275-berusky.json) |
 | Bery'sCase | 290931 | [290931-beryscase.json](./290931-beryscase.json) |
 | Berzerk | 2391 | [2391-berzerk.json](./2391-berzerk.json) |
+| Berzerk | 282314 | [282314-berzerk.json](./282314-berzerk.json) |
 | Berzerk: Enhanced Edition | 280756 | [280756-berzerk-enhanced-edition.json](./280756-berzerk-enhanced-edition.json) |
 | Besotted | 297805 | [297805-besotted.json](./297805-besotted.json) |
 | Best Buds vs Bad Guys | 52631 | [52631-best-buds-vs-bad-guys.json](./52631-best-buds-vs-bad-guys.json) |
@@ -1512,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Your Wall | 369593 | [369593-beyond-your-wall.json](./369593-beyond-your-wall.json) |
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
+| BFDI: Branches | 305909 | [305909-bfdi-branches.json](./305909-bfdi-branches.json) |
 | BFGE | 114995 | [114995-bfge.json](./114995-bfge.json) |
 | BGPA Missions Liberation | 256849 | [256849-bgpa-missions-liberation.json](./256849-bgpa-missions-liberation.json) |
 | Bhard | 401525 | [401525-bhard.json](./401525-bhard.json) |
@@ -3776,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnouts | 111640 | [111640-burnouts.json](./111640-burnouts.json) |
 | Burnt | 273137 | [273137-burnt.json](./273137-burnt.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
+| Burrito Bison | 284172 | [284172-burrito-bison.json](./284172-burrito-bison.json) |
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
 | Burst Error: Eve the First | 59434 | [59434-burst-error-eve-the-first.json](./59434-burst-error-eve-the-first.json) |
