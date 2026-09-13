@@ -136,6 +136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xevorel: The Way Of The Feather | 129215 | [129215-xevorel-the-way-of-the-feather.json](./129215-xevorel-the-way-of-the-feather.json) |
 | Xexis | 312903 | [312903-xexis.json](./312903-xexis.json) |
 | Xezi: Story Mode | 23861 | [23861-xezi-story-mode.json](./23861-xezi-story-mode.json) |
+| XG Blast! | 21254 | [21254-xg-blast.json](./21254-xg-blast.json) |
 | Xi | 335683 | [335683-xi.json](./335683-xi.json) |
 | XI O'Clock | 341878 | [341878-xi-oclock.json](./341878-xi-oclock.json) |
 | Xiákè Yīngxióng Zhuán | 86019 | [86019-xiake-yingxiong-zhuan.json](./86019-xiake-yingxiong-zhuan.json) |
