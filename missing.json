@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T06:49:16.288Z",
-  "total_missing": 65034,
+  "generated_at": "2026-09-13T06:51:32.020Z",
+  "total_missing": 65033,
   "games": [
     {
       "igdb_id": 306086,
@@ -3456,11 +3456,6 @@
       "igdb_id": 104084,
       "game_name": "Achievement Clicker 2020",
       "file": "missing/A/104084-achievement-clicker-2020.json"
-    },
-    {
-      "igdb_id": 114352,
-      "game_name": "Achievement Collector: Dog",
-      "file": "missing/A/114352-achievement-collector-dog.json"
     },
     {
       "igdb_id": 114370,
