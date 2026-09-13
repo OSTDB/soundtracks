@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
 | Battle Forever | 32879 | [32879-battle-forever.json](./32879-battle-forever.json) |
 | Battle Fortress Defence | 200114 | [200114-battle-fortress-defence.json](./200114-battle-fortress-defence.json) |
+| Battle Frenzy | 5361 | [5361-battle-frenzy.json](./5361-battle-frenzy.json) |
 | Battle Gear | 223441 | [223441-battle-gear.json](./223441-battle-gear.json) |
 | Battle Gear 4 | 64964 | [64964-battle-gear-4.json](./64964-battle-gear-4.json) |
 | Battle Gem Ponies | 183573 | [183573-battle-gem-ponies.json](./183573-battle-gem-ponies.json) |
@@ -1021,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBOnline the Real | 130314 | [130314-bbonline-the-real.json](./130314-bbonline-the-real.json) |
 | BBQ Eater | 175352 | [175352-bbq-eater.json](./175352-bbq-eater.json) |
 | BBQ Simulator: The Squad | 185674 | [185674-bbq-simulator-the-squad.json](./185674-bbq-simulator-the-squad.json) |
+| BC Racers | 5362 | [5362-bc-racers.json](./5362-bc-racers.json) |
 | Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
 | BDSM Sex | 294129 | [294129-bdsm-sex.json](./294129-bdsm-sex.json) |
 | Be | 207329 | [207329-be.json](./207329-be.json) |
@@ -1608,6 +1610,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill & Ted's Excellent Adventure | 175897 | [175897-bill-and-teds-excellent-adventure.json](./175897-bill-and-teds-excellent-adventure.json) |
 | Bill Bounce | 231623 | [231623-bill-bounce.json](./231623-bill-bounce.json) |
 | Bill Nye the Science Guy: Stop the Rock | 67957 | [67957-bill-nye-the-science-guy-stop-the-rock.json](./67957-bill-nye-the-science-guy-stop-the-rock.json) |
+| Bill Walsh College Football | 5363 | [5363-bill-walsh-college-football.json](./5363-bill-walsh-college-football.json) |
+| Bill Walsh College Football '95 | 5364 | [5364-bill-walsh-college-football-95.json](./5364-bill-walsh-college-football-95.json) |
 | Bill's Tomato Game | 14306 | [14306-bills-tomato-game.json](./14306-bills-tomato-game.json) |
 | Billard | 40763 | [40763-billard.json](./40763-billard.json) |
 | Bille & Trille: Klæder sig ud | 91448 | [91448-bille-and-trille-kl-der-sig-ud.json](./91448-bille-and-trille-kl-der-sig-ud.json) |
