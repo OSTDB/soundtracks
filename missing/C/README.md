@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cabins: Jigsaw Puzzles | 103465 | [103465-cabins-jigsaw-puzzles.json](./103465-cabins-jigsaw-puzzles.json) |
+| Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
 | Cache-Cache | 176428 | [176428-cache-cache.json](./176428-cache-cache.json) |
 | Cacildes Adventure | 269040 | [269040-cacildes-adventure.json](./269040-cacildes-adventure.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
@@ -81,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
 | Café Stella and the Reaper's Butterflies | 195774 | [195774-cafe-stella-and-the-reapers-butterflies.json](./195774-cafe-stella-and-the-reapers-butterflies.json) |
 | Cafe Tsuku: Is the order a Heart? | 204711 | [204711-cafe-tsuku-is-the-order-a-heart.json](./204711-cafe-tsuku-is-the-order-a-heart.json) |
+| Cafeteria Nipponica | 22323 | [22323-cafeteria-nipponica.json](./22323-cafeteria-nipponica.json) |
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
 | Cage Fight | 257406 | [257406-cage-fight.json](./257406-cage-fight.json) |
 | Cage-Face: Case 2 - The Sewer | 193432 | [193432-cage-face-case-2-the-sewer.json](./193432-cage-face-case-2-the-sewer.json) |
@@ -1397,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken's Run | 181922 | [181922-chickens-run.json](./181922-chickens-run.json) |
 | Chickenality | 255138 | [255138-chickenality.json](./255138-chickenality.json) |
 | ChickenPop! | 103519 | [103519-chickenpop.json](./103519-chickenpop.json) |
+| Chickens Can't Fly | 22341 | [22341-chickens-cant-fly.json](./22341-chickens-cant-fly.json) |
 | Chickens Don't Fly | 361681 | [361681-chickens-dont-fly.json](./361681-chickens-dont-fly.json) |
 | Chickens in Choppers | 270401 | [270401-chickens-in-choppers.json](./270401-chickens-in-choppers.json) |
 | Chickens on the Road | 143072 | [143072-chickens-on-the-road.json](./143072-chickens-on-the-road.json) |
@@ -2121,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
+| Clumsy Pirates | 22272 | [22272-clumsy-pirates.json](./22272-clumsy-pirates.json) |
 | Clumsy Rush + Brawl Chess Family Bundle | 218455 | [218455-clumsy-rush-brawl-chess-family-bundle.json](./218455-clumsy-rush-brawl-chess-family-bundle.json) |
 | Clumsy Rush: Ultimate Guys - Complete Edition | 232998 | [232998-clumsy-rush-ultimate-guys-complete-edition.json](./232998-clumsy-rush-ultimate-guys-complete-edition.json) |
 | Clumsy Rush: Ultimate Guys - Platinum Edition | 241399 | [241399-clumsy-rush-ultimate-guys-platinum-edition.json](./241399-clumsy-rush-ultimate-guys-platinum-edition.json) |
