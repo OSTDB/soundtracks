@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginseng King | 116356 | [116356-ginseng-king.json](./116356-ginseng-king.json) |
 | Ginsha | 249208 | [249208-ginsha.json](./249208-ginsha.json) |
 | Gipsy King | 175423 | [175423-gipsy-king.json](./175423-gipsy-king.json) |
+| Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
 | Girder & Hearts: Reel Romance | 364500 | [364500-girder-and-hearts-reel-romance.json](./364500-girder-and-hearts-reel-romance.json) |
 | Girl Abducted | 334654 | [334654-girl-abducted.json](./334654-girl-abducted.json) |
@@ -1011,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globeba | 300395 | [300395-globeba.json](./300395-globeba.json) |
+| Globesweeper | 109203 | [109203-globesweeper.json](./109203-globesweeper.json) |
 | Globetrotter | 137033 | [137033-globetrotter.json](./137033-globetrotter.json) |
 | Globetrotter Bundle | 107193 | [107193-globetrotter-bundle.json](./107193-globetrotter-bundle.json) |
 | GlobeXplore | 284883 | [284883-globexplore.json](./284883-globexplore.json) |
@@ -1231,6 +1233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Defense | 219798 | [219798-gods-of-defense.json](./219798-gods-of-defense.json) |
 | Gods of Havoc: Fall to Earth | 120967 | [120967-gods-of-havoc-fall-to-earth.json](./120967-gods-of-havoc-fall-to-earth.json) |
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
+| Gods Remastered | 112099 | [112099-gods-remastered.json](./112099-gods-remastered.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods' Margarita | 197368 | [197368-gods-margarita.json](./197368-gods-margarita.json) |
 | Godspeed: A Flame for Winter | 321741 | [321741-godspeed-a-flame-for-winter.json](./321741-godspeed-a-flame-for-winter.json) |
@@ -1901,6 +1904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
+| Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
 | Grim Reaper RPG | 134617 | [134617-grim-reaper-rpg.json](./134617-grim-reaper-rpg.json) |
 | Grim Repair | 176986 | [176986-grim-repair.json](./176986-grim-repair.json) |
@@ -2179,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Bros 2 | 343798 | [343798-gun-bros-2.json](./343798-gun-bros-2.json) |
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
+| Gun Crazy | 110093 | [110093-gun-crazy.json](./110093-gun-crazy.json) |
 | Gun Done: Who is Awesome | 97923 | [97923-gun-done-who-is-awesome.json](./97923-gun-done-who-is-awesome.json) |
 | Gun Duel | 164987 | [164987-gun-duel.json](./164987-gun-duel.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
@@ -2257,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunkour | 150085 | [150085-gunkour.json](./150085-gunkour.json) |
 | Gunless | 84262 | [84262-gunless.json](./84262-gunless.json) |
 | Gunlok | 25008 | [25008-gunlok.json](./25008-gunlok.json) |
+| Gunlord X | 108254 | [108254-gunlord-x.json](./108254-gunlord-x.json) |
 | Gunma no Yabou for Nintendo 3DS | 222294 | [222294-gunma-no-yabou-for-nintendo-3ds.json](./222294-gunma-no-yabou-for-nintendo-3ds.json) |
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
 | Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition | 331891 | [331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json](./331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json) |
