@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Search Puzzle | 102213 | [102213-word-search-puzzle.json](./102213-word-search-puzzle.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
+| Word Soup | 23405 | [23405-word-soup.json](./23405-word-soup.json) |
 | Word Spinner | 71546 | [71546-word-spinner.json](./71546-word-spinner.json) |
 | Word Surf | 208941 | [208941-word-surf.json](./208941-word-surf.json) |
 | Word Swipe | 101529 | [101529-word-swipe.json](./101529-word-swipe.json) |
