@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marby Baby Story | 143668 | [143668-marby-baby-story.json](./143668-marby-baby-story.json) |
 | Marcella Moon: Killer at the Cove | 264024 | [264024-marcella-moon-killer-at-the-cove.json](./264024-marcella-moon-killer-at-the-cove.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
+| March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
 | March to the Heart | 349313 | [349313-march-to-the-heart.json](./349313-march-to-the-heart.json) |
@@ -1404,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech vs. Bugs | 263784 | [263784-mech-vs-bugs.json](./263784-mech-vs-bugs.json) |
 | Mech Wars | 317028 | [317028-mech-wars.json](./317028-mech-wars.json) |
 | Mech_Romancer | 134590 | [134590-mech-romancer.json](./134590-mech-romancer.json) |
+| Mecha Ace | 17745 | [17745-mecha-ace.json](./17745-mecha-ace.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
 | Mecha Storm | 102747 | [102747-mecha-storm.json](./102747-mecha-storm.json) |
@@ -1421,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanization | 264590 | [264590-mechanization.json](./264590-mechanization.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
+| MechAssault: Phantom War | 19195 | [19195-mechassault-phantom-war.json](./19195-mechassault-phantom-war.json) |
 | Mechastrike: Red War | 384505 | [384505-mechastrike-red-war.json](./384505-mechastrike-red-war.json) |
 | Mechatronika | 166737 | [166737-mechatronika.json](./166737-mechatronika.json) |
 | Mechatroniks Attack | 30850 | [30850-mechatroniks-attack.json](./30850-mechatroniks-attack.json) |
@@ -4555,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Case Files: Key to Ravenhearst - Collector's Edition & Mystery Case Files: Ravenhearst Unlocked - Collector's Edition | 201821 | [201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json](./201821-mystery-case-files-key-to-ravenhearst-collectors-edition-and-mystery-case-files-ravenhearst-unlocked-collectors-edition.json) |
 | Mystery Case Files: Prime Suspects | 5510 | [5510-mystery-case-files-prime-suspects.json](./5510-mystery-case-files-prime-suspects.json) |
 | Mystery Case Files: The Last Resort - Collector's Edition | 236009 | [236009-mystery-case-files-the-last-resort-collectors-edition.json](./236009-mystery-case-files-the-last-resort-collectors-edition.json) |
+| Mystery Castle | 19889 | [19889-mystery-castle.json](./19889-mystery-castle.json) |
 | Mystery Chronicles: One Way Heroics | 124745 | [124745-mystery-chronicles-one-way-heroics.json](./124745-mystery-chronicles-one-way-heroics.json) |
 | Mystery Crypt | 261520 | [261520-mystery-crypt.json](./261520-mystery-crypt.json) |
 | Mystery Dungeon | 200184 | [200184-mystery-dungeon.json](./200184-mystery-dungeon.json) |
