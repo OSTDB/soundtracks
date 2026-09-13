@@ -286,7 +286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
-| Action Hero | 66714 | [66714-action-hero.json](./66714-action-hero.json) |
 | Action Mahjong | 29871 | [29871-action-mahjong.json](./29871-action-mahjong.json) |
 | Action Man: Search For Base X | 49868 | [49868-action-man-search-for-base-x.json](./49868-action-man-search-for-base-x.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
@@ -3138,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
 | Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
+| Astro Bears Party | 54774 | [54774-astro-bears-party.json](./54774-astro-bears-party.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
 | Astro Bot: Rescue Mission | 102129 | [102129-astro-bot-rescue-mission.json](./102129-astro-bot-rescue-mission.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
