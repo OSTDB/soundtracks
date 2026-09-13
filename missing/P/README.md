@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Smile | 318974 | [318974-please-smile.json](./318974-please-smile.json) |
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
+| Please, Don't Touch Anything | 9327 | [9327-please-dont-touch-anything.json](./9327-please-dont-touch-anything.json) |
 | Please!! I want to Beg the Voluptuous Koume-chan into Consent! | 82824 | [82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json](./82824-please-i-want-to-beg-the-voluptuous-koume-chan-into-consent.json) |
 | Pleasure Puzzle:Workshop - Part 1 | 163468 | [163468-pleasure-puzzle-workshop-part-1.json](./163468-pleasure-puzzle-workshop-part-1.json) |
 | Pleasure Puzzle:Workshop - Part 2 | 163467 | [163467-pleasure-puzzle-workshop-part-2.json](./163467-pleasure-puzzle-workshop-part-2.json) |
@@ -2402,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Arcade Vol. 2 | 7133 | [7133-popcap-arcade-vol-2.json](./7133-popcap-arcade-vol-2.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
+| Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
 | PopGerm Classic | 253021 | [253021-popgerm-classic.json](./253021-popgerm-classic.json) |
 | Popgoes and the Machinist | 231093 | [231093-popgoes-and-the-machinist.json](./231093-popgoes-and-the-machinist.json) |
 | Popgoes Arcade: Fighting Chance | 306983 | [306983-popgoes-arcade-fighting-chance.json](./306983-popgoes-arcade-fighting-chance.json) |
@@ -2428,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
 | Poptropica Worlds | 103523 | [103523-poptropica-worlds.json](./103523-poptropica-worlds.json) |
 | Population: Tire | 135850 | [135850-population-tire.json](./135850-population-tire.json) |
+| Populous | 248 | [248-populous.json](./248-populous.json) |
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
 | Porcini | 148999 | [148999-porcini.json](./148999-porcini.json) |
@@ -2950,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Goodboi's Ballistics | 248654 | [248654-professor-goodbois-ballistics.json](./248654-professor-goodbois-ballistics.json) |
 | Professor Heinz Wolff's Gravity | 5109 | [5109-professor-heinz-wolffs-gravity.json](./5109-professor-heinz-wolffs-gravity.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
+| Professor Layton and the Miracle Mask | 1401 | [1401-professor-layton-and-the-miracle-mask.json](./1401-professor-layton-and-the-miracle-mask.json) |
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
 | Professor Layton Royale | 300386 | [300386-professor-layton-royale.json](./300386-professor-layton-royale.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
