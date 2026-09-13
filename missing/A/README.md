@@ -302,7 +302,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
-| ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve | 300990 | [300990-adam-and-eve.json](./300990-adam-and-eve.json) |
