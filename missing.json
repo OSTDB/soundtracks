@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T10:34:12.603Z",
-  "total_missing": 65462,
+  "generated_at": "2026-09-13T10:41:31.237Z",
+  "total_missing": 65461,
   "games": [
     {
       "igdb_id": 306086,
@@ -3571,11 +3571,6 @@
       "igdb_id": 108440,
       "game_name": "Acrobat Star Show",
       "file": "missing/A/108440-acrobat-star-show.json"
-    },
-    {
-      "igdb_id": 221403,
-      "game_name": "Acrophile",
-      "file": "missing/A/221403-acrophile.json"
     },
     {
       "igdb_id": 111635,
