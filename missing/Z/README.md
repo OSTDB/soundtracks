@@ -497,6 +497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
 | ZunZun Block | 172657 | [172657-zunzun-block.json](./172657-zunzun-block.json) |
 | Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
+| Zup! S | 111200 | [111200-zup-s.json](./111200-zup-s.json) |
+| Zup! Zero 2 | 105879 | [105879-zup-zero-2.json](./105879-zup-zero-2.json) |
 | Zupay: Shadows of Independence | 374072 | [374072-zupay-shadows-of-independence.json](./374072-zupay-shadows-of-independence.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
 | Zusar Vasar | 58167 | [58167-zusar-vasar.json](./58167-zusar-vasar.json) |
