@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastival | 302123 | [302123-fastival.json](./302123-fastival.json) |
 | Fastlane Bowling | 152932 | [152932-fastlane-bowling.json](./152932-fastlane-bowling.json) |
 | Fat 2 Fit! | 152289 | [152289-fat-2-fit.json](./152289-fat-2-fit.json) |
+| Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat Dot | 179145 | [179145-fat-dot.json](./179145-fat-dot.json) |
 | Fat Man Fights | 158720 | [158720-fat-man-fights.json](./158720-fat-man-fights.json) |
 | Fat Man Sam | 13712 | [13712-fat-man-sam.json](./13712-fat-man-sam.json) |
@@ -745,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FeastTower | 277298 | [277298-feasttower.json](./277298-feasttower.json) |
 | Feather | 107222 | [107222-feather.json](./107222-feather.json) |
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
+| Featherpunk Prime | 18404 | [18404-featherpunk-prime.json](./18404-featherpunk-prime.json) |
 | Fech the Ferret | 156607 | [156607-fech-the-ferret.json](./156607-fech-the-ferret.json) |
 | Feda: The Emblem of Justice | 42555 | [42555-feda-the-emblem-of-justice.json](./42555-feda-the-emblem-of-justice.json) |
 | Fedanheim | 415921 | [415921-fedanheim.json](./415921-fedanheim.json) |
@@ -2882,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fura-fura Puzzrumia! | 204670 | [204670-fura-fura-puzzrumia.json](./204670-fura-fura-puzzrumia.json) |
 | Furball Farm | 324317 | [324317-furball-farm.json](./324317-furball-farm.json) |
 | FurBalls Racing | 207299 | [207299-furballs-racing.json](./207299-furballs-racing.json) |
+| Furcadia | 18343 | [18343-furcadia.json](./18343-furcadia.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Angels | 27743 | [27743-furious-angels.json](./27743-furious-angels.json) |
