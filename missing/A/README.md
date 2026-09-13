@@ -319,7 +319,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adibou d'chou au Pays des Bonbons | 242532 | [242532-adibou-dchou-au-pays-des-bonbons.json](./242532-adibou-dchou-au-pays-des-bonbons.json) |
 | Adibou Nature et Sciences | 242531 | [242531-adibou-nature-et-sciences.json](./242531-adibou-nature-et-sciences.json) |
 | Adibou: Je lis, je calcule 4-5 ans | 242527 | [242527-adibou-je-lis-je-calcule-4-5-ans.json](./242527-adibou-je-lis-je-calcule-4-5-ans.json) |
-| Adibou: Je lis, je calcule 5-6 ans | 242528 | [242528-adibou-je-lis-je-calcule-5-6-ans.json](./242528-adibou-je-lis-je-calcule-5-6-ans.json) |
 | Adibou: Je lis, je calcule 6-7 ans | 242529 | [242529-adibou-je-lis-je-calcule-6-7-ans.json](./242529-adibou-je-lis-je-calcule-6-7-ans.json) |
 | Adidas Power Soccer 98 | 43935 | [43935-adidas-power-soccer-98.json](./43935-adidas-power-soccer-98.json) |
 | Adj | 76620 | [76620-adj.json](./76620-adj.json) |
