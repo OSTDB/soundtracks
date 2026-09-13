@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
 | Lightspeed Dating: Deluxe | 227873 | [227873-lightspeed-dating-deluxe.json](./227873-lightspeed-dating-deluxe.json) |
 | Lightspire: Fortunes Web | 69202 | [69202-lightspire-fortunes-web.json](./69202-lightspire-fortunes-web.json) |
+| Lightstep Chronicles | 112851 | [112851-lightstep-chronicles.json](./112851-lightstep-chronicles.json) |
 | Lightstream Racer | 100163 | [100163-lightstream-racer.json](./100163-lightstream-racer.json) |
 | LightStrike | 29784 | [29784-lightstrike.json](./29784-lightstrike.json) |
 | LightSup! | 259021 | [259021-lightsup.json](./259021-lightsup.json) |
@@ -1169,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Lingo Legend | 198258 | [198258-lingo-legend.json](./198258-lingo-legend.json) |
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
+| Lingua Fleur: Lily | 112700 | [112700-lingua-fleur-lily.json](./112700-lingua-fleur-lily.json) |
 | Lingua Franca | 371920 | [371920-lingua-franca.json](./371920-lingua-franca.json) |
 | Língwén Xīyóu | 106558 | [106558-lingwen-xiyou.json](./106558-lingwen-xiyou.json) |
 | Lingword | 307591 | [307591-lingword.json](./307591-lingword.json) |
@@ -2048,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumba: Redux | 210890 | [210890-lumba-redux.json](./210890-lumba-redux.json) |
 | Lumber Inc Tycoon | 255759 | [255759-lumber-inc-tycoon.json](./255759-lumber-inc-tycoon.json) |
 | Lumber King | 54474 | [54474-lumber-king.json](./54474-lumber-king.json) |
+| Lumberhill | 111771 | [111771-lumberhill.json](./111771-lumberhill.json) |
 | Lumberhill + It came from space and ate our brains | 287662 | [287662-lumberhill-it-came-from-space-and-ate-our-brains.json](./287662-lumberhill-it-came-from-space-and-ate-our-brains.json) |
 | Lumberjack Construction Simulator | 239325 | [239325-lumberjack-construction-simulator.json](./239325-lumberjack-construction-simulator.json) |
 | Lumberjack Simulator | 116774 | [116774-lumberjack-simulator.json](./116774-lumberjack-simulator.json) |
