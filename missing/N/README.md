@@ -326,6 +326,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA March Madness 06 | 5958 | [5958-ncaa-march-madness-06.json](./5958-ncaa-march-madness-06.json) |
 | NCAA March Madness 2003 | 43271 | [43271-ncaa-march-madness-2003.json](./43271-ncaa-march-madness-2003.json) |
 | NCAA: Road to the Final Four | 93022 | [93022-ncaa-road-to-the-final-four.json](./93022-ncaa-road-to-the-final-four.json) |
+| NCAA: Road to the Final Four - 1991-92 Edition | 15505 | [15505-ncaa-road-to-the-final-four-1991-92-edition.json](./15505-ncaa-road-to-the-final-four-1991-92-edition.json) |
+| NCAA: Road to the Final Four 2 | 15506 | [15506-ncaa-road-to-the-final-four-2.json](./15506-ncaa-road-to-the-final-four-2.json) |
 | NCORE | 330133 | [330133-ncore.json](./330133-ncore.json) |
 | NCradle | 83522 | [83522-ncradle.json](./83522-ncradle.json) |
 | NDE Rescue | 31857 | [31857-nde-rescue.json](./31857-nde-rescue.json) |
