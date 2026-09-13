@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna: Obscura | 341493 | [341493-luna-obscura.json](./341493-luna-obscura.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
 | Luna: The Shadow Dust | 56463 | [56463-luna-the-shadow-dust.json](./56463-luna-the-shadow-dust.json) |
+| Luna's Wandering Stars | 17983 | [17983-lunas-wandering-stars.json](./17983-lunas-wandering-stars.json) |
 | Lunacy | 71493 | [71493-lunacy.json](./71493-lunacy.json) |
 | Lunacy: Saint Rhodes | 26710 | [26710-lunacy-saint-rhodes.json](./26710-lunacy-saint-rhodes.json) |
 | Lunar Catastrophe | 260960 | [260960-lunar-catastrophe.json](./260960-lunar-catastrophe.json) |
