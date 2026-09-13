@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.S. Mission | 40252 | [40252-s-s-mission.json](./40252-s-s-mission.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Collector's Edition | 284360 | [284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json](./284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json) |
 | S.T.A.L.K.E.R. H.A.C.R. | 377614 | [377614-s-t-a-l-k-e-r-h-a-c-r.json](./377614-s-t-a-l-k-e-r-h-a-c-r.json) |
+| S.T.A.L.K.E.R.: Anomaly | 126153 | [126153-s-t-a-l-k-e-r-anomaly.json](./126153-s-t-a-l-k-e-r-anomaly.json) |
 | S.T.A.L.K.E.R.: Clear Sky | 4840 | [4840-s-t-a-l-k-e-r-clear-sky.json](./4840-s-t-a-l-k-e-r-clear-sky.json) |
 | S.T.A.L.K.E.R.: Incubator | 353303 | [353303-s-t-a-l-k-e-r-incubator.json](./353303-s-t-a-l-k-e-r-incubator.json) |
 | S.T.A.L.K.E.R.: Oblivion Lost Remake | 138257 | [138257-s-t-a-l-k-e-r-oblivion-lost-remake.json](./138257-s-t-a-l-k-e-r-oblivion-lost-remake.json) |
@@ -2815,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender Man: Chapter 1 - Alone | 63821 | [63821-slender-man-chapter-1-alone.json](./63821-slender-man-chapter-1-alone.json) |
 | Slender Myth | 220665 | [220665-slender-myth.json](./220665-slender-myth.json) |
 | Slender: Adrift | 321330 | [321330-slender-adrift.json](./321330-slender-adrift.json) |
+| Slender: The Arrival | 2049 | [2049-slender-the-arrival.json](./2049-slender-the-arrival.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
@@ -3663,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3D Snowboarding | 302958 | [302958-sonic-3d-snowboarding.json](./302958-sonic-3d-snowboarding.json) |
 | Sonic 3D: No Flickies | 198547 | [198547-sonic-3d-no-flickies.json](./198547-sonic-3d-no-flickies.json) |
 | Sonic Action | 331313 | [331313-sonic-action.json](./331313-sonic-action.json) |
+| Sonic Advance 2 | 6598 | [6598-sonic-advance-2.json](./6598-sonic-advance-2.json) |
 | Sonic Adventure 2 | 7858 | [7858-sonic-adventure-2.json](./7858-sonic-adventure-2.json) |
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure DX: Director's Cut | 23695 | [23695-sonic-adventure-dx-directors-cut.json](./23695-sonic-adventure-dx-directors-cut.json) |
@@ -4762,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Polarity: The Science Puzzle Arcade Game! | 273408 | [273408-split-polarity-the-science-puzzle-arcade-game.json](./273408-split-polarity-the-science-puzzle-arcade-game.json) |
 | Split Times | 368502 | [368502-split-times.json](./368502-split-times.json) |
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
+| Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
 | Splodey | 282965 | [282965-splodey.json](./282965-splodey.json) |
 | Splodge Royale | 190166 | [190166-splodge-royale.json](./190166-splodge-royale.json) |
 | Splosion Man | 8354 | [8354-splosion-man.json](./8354-splosion-man.json) |
@@ -5130,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox Zero | 11196 | [11196-star-fox-zero.json](./11196-star-fox-zero.json) |
 | Star Fox Zero and Star Fox Guard: First Print Edition | 51144 | [51144-star-fox-zero-and-star-fox-guard-first-print-edition.json](./51144-star-fox-zero-and-star-fox-guard-first-print-edition.json) |
+| Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
 | Star Gods | 125417 | [125417-star-gods.json](./125417-star-gods.json) |
 | Star Guard | 185136 | [185136-star-guard.json](./185136-star-guard.json) |
 | Star Gun | 348780 | [348780-star-gun.json](./348780-star-gun.json) |
