@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Landscapes Jigsaw | 354404 | [354404-epic-landscapes-jigsaw.json](./354404-epic-landscapes-jigsaw.json) |
 | Epic Loon | 55216 | [55216-epic-loon.json](./55216-epic-loon.json) |
 | Epic Loot | 110310 | [110310-epic-loot.json](./110310-epic-loot.json) |
+| Epic Manager - Create Your Own Adventuring Agency | 26553 | [26553-epic-manager-create-your-own-adventuring-agency.json](./26553-epic-manager-create-your-own-adventuring-agency.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
 | Epic Palace: Knossos | 147370 | [147370-epic-palace-knossos.json](./147370-epic-palace-knossos.json) |
 | Epic Paper Mario | 338735 | [338735-epic-paper-mario.json](./338735-epic-paper-mario.json) |
