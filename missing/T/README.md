@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
 | The Crew | 2137 | [2137-the-crew.json](./2137-the-crew.json) |
 | The Crew 2: Steelbook Gold Edition | 122358 | [122358-the-crew-2-steelbook-gold-edition.json](./122358-the-crew-2-steelbook-gold-edition.json) |
+| The Crew: Motorfest | 234256 | [234256-the-crew-motorfest.json](./234256-the-crew-motorfest.json) |
 | The Crew: Motorfest - Dodge Pack | 408787 | [408787-the-crew-motorfest-dodge-pack.json](./408787-the-crew-motorfest-dodge-pack.json) |
 | The Crew: Motorfest - Drift Pack | 408788 | [408788-the-crew-motorfest-drift-pack.json](./408788-the-crew-motorfest-drift-pack.json) |
 | The Crew: Motorfest - Year 2 Pass | 335098 | [335098-the-crew-motorfest-year-2-pass.json](./335098-the-crew-motorfest-year-2-pass.json) |
@@ -2728,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Liar's Tavern | 322981 | [322981-the-liars-tavern.json](./322981-the-liars-tavern.json) |
 | The Librarian: Special Edition | 241360 | [241360-the-librarian-special-edition.json](./241360-the-librarian-special-edition.json) |
 | The Library of Babble | 121620 | [121620-the-library-of-babble.json](./121620-the-library-of-babble.json) |
+| The Life and Suffering of Sir Brante | 138871 | [138871-the-life-and-suffering-of-sir-brante.json](./138871-the-life-and-suffering-of-sir-brante.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
@@ -2972,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moroccan Castle 3: Behind The Secrets | 242229 | [242229-the-moroccan-castle-3-behind-the-secrets.json](./242229-the-moroccan-castle-3-behind-the-secrets.json) |
 | The Moron Test | 117757 | [117757-the-moron-test.json](./117757-the-moron-test.json) |
 | The Morphine Western Revenge | 185622 | [185622-the-morphine-western-revenge.json](./185622-the-morphine-western-revenge.json) |
+| The Mortuary Assistant | 133131 | [133131-the-mortuary-assistant.json](./133131-the-mortuary-assistant.json) |
 | The Most Addicting Sheep Game | 100730 | [100730-the-most-addicting-sheep-game.json](./100730-the-most-addicting-sheep-game.json) |
 | The Most Awesome Game Ever Made | 221758 | [221758-the-most-awesome-game-ever-made.json](./221758-the-most-awesome-game-ever-made.json) |
 | The Most Beautiful Room in the World | 273413 | [273413-the-most-beautiful-room-in-the-world.json](./273413-the-most-beautiful-room-in-the-world.json) |
@@ -3417,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
 | The Settlers 7: Paths to a Kingdom - The Two Kings | 225911 | [225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json](./225911-the-settlers-7-paths-to-a-kingdom-the-two-kings.json) |
 | The Settlers 7: Paths to a Kingdom - Uncharted Land Map Pack | 167245 | [167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json](./167245-the-settlers-7-paths-to-a-kingdom-uncharted-land-map-pack.json) |
+| The Settlers II: Gold Edition | 2617 | [2617-the-settlers-ii-gold-edition.json](./2617-the-settlers-ii-gold-edition.json) |
 | The Settlers III: Quest of the Amazons | 11334 | [11334-the-settlers-iii-quest-of-the-amazons.json](./11334-the-settlers-iii-quest-of-the-amazons.json) |
 | The Settlers IV: The Trojans and the Elixir of Power | 21858 | [21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json](./21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json) |
 | The Settlers: Explorer Edition | 136377 | [136377-the-settlers-explorer-edition.json](./136377-the-settlers-explorer-edition.json) |
@@ -3474,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Cartoon Studio | 2838 | [2838-the-simpsons-cartoon-studio.json](./2838-the-simpsons-cartoon-studio.json) |
 | The Sims 2 | 192905 | [192905-the-sims-2.json](./192905-the-sims-2.json) |
 | The Sims 2: Castaway | 192908 | [192908-the-sims-2-castaway.json](./192908-the-sims-2-castaway.json) |
+| The Sims 2: Pets | 225 | [225-the-sims-2-pets.json](./225-the-sims-2-pets.json) |
 | The Sims 25th Birthday Bundle | 362302 | [362302-the-sims-25th-birthday-bundle.json](./362302-the-sims-25th-birthday-bundle.json) |
 | The Sims 3 | 248568 | [248568-the-sims-3.json](./248568-the-sims-3.json) |
 | The Sims 4 Halloween Bundle | 272558 | [272558-the-sims-4-halloween-bundle.json](./272558-the-sims-4-halloween-bundle.json) |
@@ -4062,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Water Horse: Legend of the Deep | 27629 | [27629-the-water-horse-legend-of-the-deep.json](./27629-the-water-horse-legend-of-the-deep.json) |
 | The Water Horse: Legend of the Deep | 43258 | [43258-the-water-horse-legend-of-the-deep.json](./43258-the-water-horse-legend-of-the-deep.json) |
 | The Waterfront | 274226 | [274226-the-waterfront.json](./274226-the-waterfront.json) |
+| The Watson-Scott Test | 110737 | [110737-the-watson-scott-test.json](./110737-the-watson-scott-test.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
 | The Way Home | 166721 | [166721-the-way-home.json](./166721-the-way-home.json) |
 | The Way Home | 193961 | [193961-the-way-home.json](./193961-the-way-home.json) |
@@ -6517,6 +6523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Yarbil | 325835 | [325835-trials-of-yarbil.json](./325835-trials-of-yarbil.json) |
 | Triangle Legacy Revolution | 112317 | [112317-triangle-legacy-revolution.json](./112317-triangle-legacy-revolution.json) |
 | Triangle Project Otome Visual Novels | 116382 | [116382-triangle-project-otome-visual-novels.json](./116382-triangle-project-otome-visual-novels.json) |
+| Triangle Strategy | 143610 | [143610-triangle-strategy.json](./143610-triangle-strategy.json) |
 | Triangle Strategy | 318779 | [318779-triangle-strategy.json](./318779-triangle-strategy.json) |
 | Triangle Wing XXXX | 133461 | [133461-triangle-wing-xxxx.json](./133461-triangle-wing-xxxx.json) |
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
