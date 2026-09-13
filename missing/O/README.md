@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Record: The Linden Shades | 98410 | [98410-off-the-record-the-linden-shades.json](./98410-off-the-record-the-linden-shades.json) |
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
 | Off the Table | 174327 | [174327-off-the-table.json](./174327-off-the-table.json) |
+| Off the Wall | 12894 | [12894-off-the-wall.json](./12894-off-the-wall.json) |
 | Off the Wall | 333931 | [333931-off-the-wall.json](./333931-off-the-wall.json) |
 | Off to Sleep | 222930 | [222930-off-to-sleep.json](./222930-off-to-sleep.json) |
 | Off Trail | 341500 | [341500-off-trail.json](./341500-off-trail.json) |
