@@ -858,6 +858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initen | 115720 | [115720-initen.json](./115720-initen.json) |
 | Initia: Elemental Arena | 32942 | [32942-initia-elemental-arena.json](./32942-initia-elemental-arena.json) |
 | Initial D Arcade Stage 2 | 201776 | [201776-initial-d-arcade-stage-2.json](./201776-initial-d-arcade-stage-2.json) |
+| Initial D Extreme Stage | 7354 | [7354-initial-d-extreme-stage.json](./7354-initial-d-extreme-stage.json) |
 | Initial D: Street Stage | 45992 | [45992-initial-d-street-stage.json](./45992-initial-d-street-stage.json) |
 | Initial Drift Online | 148573 | [148573-initial-drift-online.json](./148573-initial-drift-online.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
