@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Drive | 381627 | [381627-hard-drive.json](./381627-hard-drive.json) |
 | Hard Drivin' II: Drive Harder | 12135 | [12135-hard-drivin-ii-drive-harder.json](./12135-hard-drivin-ii-drive-harder.json) |
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
+| Hard Hat Mack | 13871 | [13871-hard-hat-mack.json](./13871-hard-hat-mack.json) |
 | Hard Hat Willy | 67244 | [67244-hard-hat-willy.json](./67244-hard-hat-willy.json) |
 | Hard Head | 40179 | [40179-hard-head.json](./40179-hard-head.json) |
 | Hard Head 2 | 40180 | [40180-hard-head-2.json](./40180-hard-head-2.json) |
@@ -1239,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Jin Yong | 210689 | [210689-heroes-of-jin-yong.json](./210689-heroes-of-jin-yong.json) |
 | Heroes of Legionwood: Episode 2 | 171561 | [171561-heroes-of-legionwood-episode-2.json](./171561-heroes-of-legionwood-episode-2.json) |
 | Heroes of Legionwood: Episode 3 | 171562 | [171562-heroes-of-legionwood-episode-3.json](./171562-heroes-of-legionwood-episode-3.json) |
+| Heroes of Loot | 13624 | [13624-heroes-of-loot.json](./13624-heroes-of-loot.json) |
 | Heroes of Magic & Cards | 369047 | [369047-heroes-of-magic-and-cards.json](./369047-heroes-of-magic-and-cards.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
 | Heroes of Mana | 14990 | [14990-heroes-of-mana.json](./14990-heroes-of-mana.json) |
