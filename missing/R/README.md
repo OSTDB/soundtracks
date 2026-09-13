@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Playground | 231912 | [231912-ragdoll-playground.json](./231912-ragdoll-playground.json) |
 | Ragdoll Rumble | 318990 | [318990-ragdoll-rumble.json](./318990-ragdoll-rumble.json) |
 | Ragdoll Toss | 179124 | [179124-ragdoll-toss.json](./179124-ragdoll-toss.json) |
+| Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage Gang | 270943 | [270943-rage-gang.json](./270943-rage-gang.json) |
 | Rage Night | 224764 | [224764-rage-night.json](./224764-rage-night.json) |
 | Rage of the Wasteland | 157137 | [157137-rage-of-the-wasteland.json](./157137-rage-of-the-wasteland.json) |
@@ -467,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
+| Rayman | 1963 | [1963-rayman.json](./1963-rayman.json) |
 | Rayman 10th Anniversary | 43339 | [43339-rayman-10th-anniversary.json](./43339-rayman-10th-anniversary.json) |
 | Rayman 2: The Great Escape | 193314 | [193314-rayman-2-the-great-escape.json](./193314-rayman-2-the-great-escape.json) |
 | Rayman 3: Hoodlum Havoc Print Studio | 61654 | [61654-rayman-3-hoodlum-havoc-print-studio.json](./61654-rayman-3-hoodlum-havoc-print-studio.json) |
@@ -1149,6 +1151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Mortal Night | 185684 | [185684-resident-evil-mortal-night.json](./185684-resident-evil-mortal-night.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 1 | 143001 | [143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json](./143001-resident-evil-operation-raccoon-city-echo-six-expansion-pack-1.json) |
 | Resident Evil: Operation Raccoon City - Echo Six Expansion Pack 2 | 143002 | [143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json](./143002-resident-evil-operation-raccoon-city-echo-six-expansion-pack-2.json) |
+| Resident Evil: Revelations | 978 | [978-resident-evil-revelations.json](./978-resident-evil-revelations.json) |
 | Resident Evil: Revelations - Circle Pad Pro Bundle | 89903 | [89903-resident-evil-revelations-circle-pad-pro-bundle.json](./89903-resident-evil-revelations-circle-pad-pro-bundle.json) |
 | Resident Evil: Revelations - Unveiled Edition (Limited Edition) | 89927 | [89927-resident-evil-revelations-unveiled-edition-limited-edition.json](./89927-resident-evil-revelations-unveiled-edition-limited-edition.json) |
 | Resident Evil: Revelations - Unveiled Edition BSAA Watch Set | 89925 | [89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json](./89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json) |
@@ -2109,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
 | Rollerboy 2 | 293644 | [293644-rollerboy-2.json](./293644-rollerboy-2.json) |
 | RollerCoaster Legends II: Thor's Hammer | 102340 | [102340-rollercoaster-legends-ii-thors-hammer.json](./102340-rollercoaster-legends-ii-thors-hammer.json) |
+| RollerCoaster Tycoon | 254 | [254-rollercoaster-tycoon.json](./254-rollercoaster-tycoon.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | Rollercoaster World 2 | 230305 | [230305-rollercoaster-world-2.json](./230305-rollercoaster-world-2.json) |
