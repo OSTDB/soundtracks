@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parity | 124243 | [124243-parity.json](./124243-parity.json) |
 | Parity Shot Integral | 305167 | [305167-parity-shot-integral.json](./305167-parity-shot-integral.json) |
 | Park After Dark | 199061 | [199061-park-after-dark.json](./199061-park-after-dark.json) |
+| Park Beyond | 165354 | [165354-park-beyond.json](./165354-park-beyond.json) |
 | Park Beyond: Beyond Extreme | 262670 | [262670-park-beyond-beyond-extreme.json](./262670-park-beyond-beyond-extreme.json) |
 | Park Beyond: Complete Edition | 331856 | [331856-park-beyond-complete-edition.json](./331856-park-beyond-complete-edition.json) |
 | Park Inc | 146878 | [146878-park-inc.json](./146878-park-inc.json) |
