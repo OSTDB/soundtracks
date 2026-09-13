@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T14:19:29.084Z",
-  "total_missing": 66166,
+  "generated_at": "2026-09-13T14:21:42.626Z",
+  "total_missing": 66165,
   "games": [
     {
       "igdb_id": 306086,
@@ -3696,11 +3696,6 @@
       "igdb_id": 14550,
       "game_name": "Action Henk",
       "file": "missing/A/14550-action-henk.json"
-    },
-    {
-      "igdb_id": 49868,
-      "game_name": "Action Man: Search For Base X",
-      "file": "missing/A/49868-action-man-search-for-base-x.json"
     },
     {
       "igdb_id": 38352,
