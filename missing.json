@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T09:51:35.869Z",
-  "total_missing": 65352,
+  "generated_at": "2026-09-13T10:01:49.251Z",
+  "total_missing": 65355,
   "games": [
     {
       "igdb_id": 306086,
@@ -61,6 +61,11 @@
       "igdb_id": 182461,
       "game_name": ".Hack//G.U. Vol. 3: Redemption HD",
       "file": "missing/0-9/182461-hack-g-u-vol-3-redemption-hd.json"
+    },
+    {
+      "igdb_id": 11808,
+      "game_name": ".Hack//Mutation",
+      "file": "missing/0-9/11808-hack-mutation.json"
     },
     {
       "igdb_id": 390544,
@@ -3551,11 +3556,6 @@
       "igdb_id": 301594,
       "game_name": "Acre Crisis",
       "file": "missing/A/301594-acre-crisis.json"
-    },
-    {
-      "igdb_id": 258464,
-      "game_name": "Acres",
-      "file": "missing/A/258464-acres.json"
     },
     {
       "igdb_id": 30837,
@@ -15481,6 +15481,11 @@
       "igdb_id": 268493,
       "game_name": "Arkanoid: Chinese Edition",
       "file": "missing/A/268493-arkanoid-chinese-edition.json"
+    },
+    {
+      "igdb_id": 11756,
+      "game_name": "Arkanoid: Revenge of Doh",
+      "file": "missing/A/11756-arkanoid-revenge-of-doh.json"
     },
     {
       "igdb_id": 54452,
@@ -211573,6 +211578,11 @@
       "file": "missing/P/298033-pushing-it-with-sisyphus.json"
     },
     {
+      "igdb_id": 11627,
+      "game_name": "Pushover",
+      "file": "missing/P/11627-pushover.json"
+    },
+    {
       "igdb_id": 256844,
       "game_name": "Puss in Book: Trapped in an Epic Tale",
       "file": "missing/P/256844-puss-in-book-trapped-in-an-epic-tale.json"
@@ -255986,6 +255996,11 @@
       "igdb_id": 326075,
       "game_name": "Stella Gladio",
       "file": "missing/S/326075-stella-gladio.json"
+    },
+    {
+      "igdb_id": 11459,
+      "game_name": "Stella Glow",
+      "file": "missing/S/11459-stella-glow.json"
     },
     {
       "igdb_id": 216264,
