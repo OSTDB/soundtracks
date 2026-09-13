@@ -221,6 +221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
 | Magic Factory | 115047 | [115047-magic-factory.json](./115047-magic-factory.json) |
+| Magic Fairy Tales: Barbie as Rapunzel | 19401 | [19401-magic-fairy-tales-barbie-as-rapunzel.json](./19401-magic-fairy-tales-barbie-as-rapunzel.json) |
 | Magic Garden | 317579 | [317579-magic-garden.json](./317579-magic-garden.json) |
 | Magic Garden Escape | 315471 | [315471-magic-garden-escape.json](./315471-magic-garden-escape.json) |
 | Magic Gear | 377601 | [377601-magic-gear.json](./377601-magic-gear.json) |
@@ -3300,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
 | Monstro Maestro | 382763 | [382763-monstro-maestro.json](./382763-monstro-maestro.json) |
+| Monstromania | 19343 | [19343-monstromania.json](./19343-monstromania.json) |
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
 | Monstrous Lovers | 148562 | [148562-monstrous-lovers.json](./148562-monstrous-lovers.json) |
 | Monstrum | 10554 | [10554-monstrum.json](./10554-monstrum.json) |
