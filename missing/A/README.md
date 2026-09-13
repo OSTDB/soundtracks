@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quick Death | 41973 | [41973-a-quick-death.json](./41973-a-quick-death.json) |
 | A Red Boat | 229918 | [229918-a-red-boat.json](./229918-a-red-boat.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
+| A Rose in the Twilight | 52042 | [52042-a-rose-in-the-twilight.json](./52042-a-rose-in-the-twilight.json) |
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
 | A Second Chance | 201290 | [201290-a-second-chance.json](./201290-a-second-chance.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
@@ -378,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons Cartridge | 84251 | [84251-advanced-dungeons-and-dragons-cartridge.json](./84251-advanced-dungeons-and-dragons-cartridge.json) |
 | Advanced Dungeons & Dragons Masterpiece Collection | 84218 | [84218-advanced-dungeons-and-dragons-masterpiece-collection.json](./84218-advanced-dungeons-and-dragons-masterpiece-collection.json) |
 | Advanced Dungeons & Dragons: Dragons of Flame | 8602 | [8602-advanced-dungeons-and-dragons-dragons-of-flame.json](./8602-advanced-dungeons-and-dragons-dragons-of-flame.json) |
+| Advanced Dungeons & Dragons: DragonStrike | 48113 | [48113-advanced-dungeons-and-dragons-dragonstrike.json](./48113-advanced-dungeons-and-dragons-dragonstrike.json) |
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
 | Advanced Gaming Platform: Epica | 34557 | [34557-advanced-gaming-platform-epica.json](./34557-advanced-gaming-platform-epica.json) |
 | Advanced Intelligence Surveillance Agency | 150651 | [150651-advanced-intelligence-surveillance-agency.json](./150651-advanced-intelligence-surveillance-agency.json) |
@@ -2686,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon Margaret | 317021 | [317021-armageddon-margaret.json](./317021-armageddon-margaret.json) |
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
 | ArmageDoom | 201231 | [201231-armagedoom.json](./201231-armagedoom.json) |
+| Armagetron Advanced | 51244 | [51244-armagetron-advanced.json](./51244-armagetron-advanced.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
 | Armalyte: The Final Run | 14266 | [14266-armalyte-the-final-run.json](./14266-armalyte-the-final-run.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
@@ -3476,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avabel Online | 38918 | [38918-avabel-online.json](./38918-avabel-online.json) |
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
+| Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
 | Avalanche! | 255354 | [255354-avalanche.json](./255354-avalanche.json) |
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
@@ -3564,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
+| Awesome Possum Kicks Dr. Machino's Butt | 46240 | [46240-awesome-possum-kicks-dr-machinos-butt.json](./46240-awesome-possum-kicks-dr-machinos-butt.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
