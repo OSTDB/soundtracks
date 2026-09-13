@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhōngguó Xiàngqí Zàixiàn | 88208 | [88208-zhongguo-xiangqi-zaixian.json](./88208-zhongguo-xiangqi-zaixian.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
 | Zhu Zhu Pets | 9168 | [9168-zhu-zhu-pets.json](./9168-zhu-zhu-pets.json) |
+| Zhust: The Illusion Soul | 40463 | [40463-zhust-the-illusion-soul.json](./40463-zhust-the-illusion-soul.json) |
 | Ziba | 22360 | [22360-ziba.json](./22360-ziba.json) |
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
