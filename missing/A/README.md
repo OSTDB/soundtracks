@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ara Ngc 6397 | 206130 | [206130-ara-ngc-6397.json](./206130-ara-ngc-6397.json) |
 | Arab Drift Cars | 221746 | [221746-arab-drift-cars.json](./221746-arab-drift-cars.json) |
 | Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
+| Arabian Nights | 10861 | [10861-arabian-nights.json](./10861-arabian-nights.json) |
 | Arabian Nights | 111656 | [111656-arabian-nights.json](./111656-arabian-nights.json) |
 | Arabian Nights: Sabaku no Seirei-ou | 38381 | [38381-arabian-nights-sabaku-no-seirei-ou.json](./38381-arabian-nights-sabaku-no-seirei-ou.json) |
 | Arachnid | 83489 | [83489-arachnid.json](./83489-arachnid.json) |
@@ -2872,6 +2873,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
 | Asfalia: The Cranky Volcano | 196425 | [196425-asfalia-the-cranky-volcano.json](./196425-asfalia-the-cranky-volcano.json) |
 | Asgard's Wrath | 115031 | [115031-asgards-wrath.json](./115031-asgards-wrath.json) |
+| Asghan 2 | 10864 | [10864-asghan-2.json](./10864-asghan-2.json) |
+| Asghan: The Dragon Slayer | 10860 | [10860-asghan-the-dragon-slayer.json](./10860-asghan-the-dragon-slayer.json) |
 | Ash | 127264 | [127264-ash.json](./127264-ash.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash of Gods: Arena | 133417 | [133417-ash-of-gods-arena.json](./133417-ash-of-gods-arena.json) |
