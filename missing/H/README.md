@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
 | Hatsune Miku VR: Future Live - 1st Stage | 24983 | [24983-hatsune-miku-vr-future-live-1st-stage.json](./24983-hatsune-miku-vr-future-live-1st-stage.json) |
 | Hatsune Miku: Dreamy Vocal | 112343 | [112343-hatsune-miku-dreamy-vocal.json](./112343-hatsune-miku-dreamy-vocal.json) |
+| Hatsune Miku: Project Diva 2nd | 11755 | [11755-hatsune-miku-project-diva-2nd.json](./11755-hatsune-miku-project-diva-2nd.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #1 | 294733 | [294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json](./294733-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-1.json) |
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
 | Hatsune Miku: Project Diva Future Tone | 25821 | [25821-hatsune-miku-project-diva-future-tone.json](./25821-hatsune-miku-project-diva-future-tone.json) |
@@ -2581,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 1 | 224216 | [224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json](./224216-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-1.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 2 | 224217 | [224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json](./224217-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-2.json) |
 | Hyperdimension Neptunia Re;Birth2: Sister's Generation - Additional Content Pack 3 | 224218 | [224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json](./224218-hyperdimension-neptunia-re-birth2-sisters-generation-additional-content-pack-3.json) |
+| Hyperdimension Neptunia Re;Birth2: Sisters Generation | 9868 | [9868-hyperdimension-neptunia-re-birth2-sisters-generation.json](./9868-hyperdimension-neptunia-re-birth2-sisters-generation.json) |
 | Hyperdimension Neptunia U: Action Unleashed - Bonus Quest | 172172 | [172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json](./172172-hyperdimension-neptunia-u-action-unleashed-bonus-quest.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
 | Hyperflex Ultra | 355562 | [355562-hyperflex-ultra.json](./355562-hyperflex-ultra.json) |
