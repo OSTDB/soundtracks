@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War: Adepta Sororitas | 230812 | [230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json](./230812-warhammer-40-000-gladius-relics-of-war-adepta-sororitas.json) |
 | Warhammer 40,000: Gladius - Relics of War: Adeptus Mechanicus | 186891 | [186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json](./186891-warhammer-40-000-gladius-relics-of-war-adeptus-mechanicus.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 11364 | [11364-warhammer-40-000-inquisitor-martyr.json](./11364-warhammer-40-000-inquisitor-martyr.json) |
+| Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
 | Warhammer 40,000: Mechanicus | 88461 | [88461-warhammer-40-000-mechanicus.json](./88461-warhammer-40-000-mechanicus.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Rogue Trader - Voidfarer Pack | 280170 | [280170-warhammer-40-000-rogue-trader-voidfarer-pack.json](./280170-warhammer-40-000-rogue-trader-voidfarer-pack.json) |
@@ -429,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Releyne | 12820 | [12820-warriors-of-releyne.json](./12820-warriors-of-releyne.json) |
 | Warriors of Thalyrion | 310749 | [310749-warriors-of-thalyrion.json](./310749-warriors-of-thalyrion.json) |
 | Warriors of Vilvatikta | 31628 | [31628-warriors-of-vilvatikta.json](./31628-warriors-of-vilvatikta.json) |
+| Warriors Orochi 3 | 5324 | [5324-warriors-orochi-3.json](./5324-warriors-orochi-3.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
 | Warriors Waifus Mahjong | 336559 | [336559-warriors-waifus-mahjong.json](./336559-warriors-waifus-mahjong.json) |
 | Wars Across the World: Carrhae 53 | 156096 | [156096-wars-across-the-world-carrhae-53.json](./156096-wars-across-the-world-carrhae-53.json) |
@@ -583,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Sing Pop! | 5271 | [5271-we-sing-pop.json](./5271-we-sing-pop.json) |
 | We Sing Superstar Quiz | 63900 | [63900-we-sing-superstar-quiz.json](./63900-we-sing-superstar-quiz.json) |
 | We Sing UK Hits | 5274 | [5274-we-sing-uk-hits.json](./5274-we-sing-uk-hits.json) |
+| We Ski | 5275 | [5275-we-ski.json](./5275-we-ski.json) |
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
 | We the People | 236841 | [236841-we-the-people.json](./236841-we-the-people.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
