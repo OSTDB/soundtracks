@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
 | Fiddle | 80534 | [80534-fiddle.json](./80534-fiddle.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
+| Fidel: Dungeon Rescue | 36724 | [36724-fidel-dungeon-rescue.json](./36724-fidel-dungeon-rescue.json) |
 | Fidelity | 116549 | [116549-fidelity.json](./116549-fidelity.json) |
 | Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
 | Fidget Spinner | 100888 | [100888-fidget-spinner.json](./100888-fidget-spinner.json) |
@@ -960,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting EX Layer | 41828 | [41828-fighting-ex-layer.json](./41828-fighting-ex-layer.json) |
 | Fighting Eyes | 45307 | [45307-fighting-eyes.json](./45307-fighting-eyes.json) |
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
+| Fighting Fantasy Legends | 40557 | [40557-fighting-fantasy-legends.json](./40557-fighting-fantasy-legends.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
 | Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
 | Fighting Force 2 | 11615 | [11615-fighting-force-2.json](./11615-fighting-force-2.json) |
@@ -1159,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
 | Findola | 94677 | [94677-findola.json](./94677-findola.json) |
 | Fine Artist Color Pixel Number | 267412 | [267412-fine-artist-color-pixel-number.json](./267412-fine-artist-color-pixel-number.json) |
+| Fine Sweeper | 35349 | [35349-fine-sweeper.json](./35349-fine-sweeper.json) |
 | Fine Work Act I | 285980 | [285980-fine-work-act-i.json](./285980-fine-work-act-i.json) |
 | Finger Champion | 245326 | [245326-finger-champion.json](./245326-finger-champion.json) |
 | Finger Connection | 66619 | [66619-finger-connection.json](./66619-finger-connection.json) |
@@ -1967,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Bus Battle 2021 | 153978 | [153978-football-bus-battle-2021.json](./153978-football-bus-battle-2021.json) |
 | Football Career Mode 26 | 346582 | [346582-football-career-mode-26.json](./346582-football-career-mode-26.json) |
 | Football Club Builder | 409577 | [409577-football-club-builder.json](./409577-football-club-builder.json) |
+| Football Club Simulator - FCS | 36247 | [36247-football-club-simulator-fcs.json](./36247-football-club-simulator-fcs.json) |
 | Football Crazy Challenge | 84258 | [84258-football-crazy-challenge.json](./84258-football-crazy-challenge.json) |
 | Football Director 2017 | 200160 | [200160-football-director-2017.json](./200160-football-director-2017.json) |
 | Football Director 2019 | 112986 | [112986-football-director-2019.json](./112986-football-director-2019.json) |
@@ -2180,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
 | Forsaken Compound | 299441 | [299441-forsaken-compound.json](./299441-forsaken-compound.json) |
+| Forsaken Isle | 35819 | [35819-forsaken-isle.json](./35819-forsaken-isle.json) |
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
