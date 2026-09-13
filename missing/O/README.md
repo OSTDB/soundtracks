@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oko | 128559 | [128559-oko.json](./128559-oko.json) |
 | Oktoberfest Break: Head to Head | 214518 | [214518-oktoberfest-break-head-to-head.json](./214518-oktoberfest-break-head-to-head.json) |
 | Oku dake Drill Shougaku 6-nensei Kanji | 276467 | [276467-oku-dake-drill-shougaku-6-nensei-kanji.json](./276467-oku-dake-drill-shougaku-6-nensei-kanji.json) |
+| Okunoka Madness | 136462 | [136462-okunoka-madness.json](./136462-okunoka-madness.json) |
 | Okuplok Slaughter Map | 144389 | [144389-okuplok-slaughter-map.json](./144389-okuplok-slaughter-map.json) |
 | Olber's Paradox | 392816 | [392816-olbers-paradox.json](./392816-olbers-paradox.json) |
 | Old Edge I | 117706 | [117706-old-edge-i.json](./117706-old-edge-i.json) |
@@ -515,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon A Card | 408765 | [408765-once-upon-a-card.json](./408765-once-upon-a-card.json) |
 | Once Upon a Death | 115696 | [115696-once-upon-a-death.json](./115696-once-upon-a-death.json) |
 | Once upon a Dungeon II | 226727 | [226727-once-upon-a-dungeon-ii.json](./226727-once-upon-a-dungeon-ii.json) |
+| Once Upon a Jester | 159553 | [159553-once-upon-a-jester.json](./159553-once-upon-a-jester.json) |
 | Once Upon a Katamari | 358526 | [358526-once-upon-a-katamari.json](./358526-once-upon-a-katamari.json) |
 | Once Upon A Katamari: Rolling Live Highlights | 410246 | [410246-once-upon-a-katamari-rolling-live-highlights.json](./410246-once-upon-a-katamari-rolling-live-highlights.json) |
 | Once Upon A Life | 115656 | [115656-once-upon-a-life.json](./115656-once-upon-a-life.json) |
@@ -1296,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overpass 2: Deluxe Edition | 269331 | [269331-overpass-2-deluxe-edition.json](./269331-overpass-2-deluxe-edition.json) |
 | OverPowered | 146257 | [146257-overpowered.json](./146257-overpowered.json) |
 | OverRapid | 75133 | [75133-overrapid.json](./75133-overrapid.json) |
+| Override 2: Super Mech League | 137296 | [137296-override-2-super-mech-league.json](./137296-override-2-super-mech-league.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
 | Overrun Survivors | 231617 | [231617-overrun-survivors.json](./231617-overrun-survivors.json) |
 | Overrun: Zombie Base Defense | 208024 | [208024-overrun-zombie-base-defense.json](./208024-overrun-zombie-base-defense.json) |
