@@ -3070,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ravensdale | 63335 | [63335-project-ravensdale.json](./63335-project-ravensdale.json) |
 | Project Raze: Fall of Terra | 379859 | [379859-project-raze-fall-of-terra.json](./379859-project-raze-fall-of-terra.json) |
 | Project Re-Rainbow | 321785 | [321785-project-re-rainbow.json](./321785-project-re-rainbow.json) |
+| Project Reality 2 | 2942 | [2942-project-reality-2.json](./2942-project-reality-2.json) |
 | Project Reborn | 192881 | [192881-project-reborn.json](./192881-project-reborn.json) |
 | Project Romboid | 207300 | [207300-project-romboid.json](./207300-project-romboid.json) |
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
