@@ -42,6 +42,7 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 | <img src="https://i.scdn.co/image/ab67616d0000b2731f15cc271d85aa8a81b8c53b" width="60" /> | [Ace Combat Zero: The Belkan War](https://ostdb.net/games/ace-combat-zero-the-belkan-war) | **ACE COMBAT ZERO THE BELKAN WAR Original Soundtrack** · [Spotify](https://open.spotify.com/album/3CpAYpXbl2o9yigh89Exor) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323e3eaf5ae420dd755f310c2" width="60" /> | [Ace Combat: Assault Horizon](https://ostdb.net/games/ace-combat-assault-horizon) | **ACE COMBAT ASSAULT HORIZON Original Soundtrack** · [Spotify](https://open.spotify.com/album/5VQHio0GwQxH4Zs7U7jJwm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27378e407a39969fdc403d2cea9" width="60" /> | [Action Doom 2: Urban Brawl](https://ostdb.net/games/action-doom-2-urban-brawl) | **Action Doom 2: Urban Brawl Soundtrack** · [Spotify](https://open.spotify.com/album/6ekids1tvoYBJp84qpWpao) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a21e1800b953367d344e6c5c" width="60" /> | [Add Astra](https://ostdb.net/games/add-astra) | **Add Astra (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6OymQfnUrCmrTBUIuMrinm) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6f/dd/91/6fdd91cb-fbe7-733a-2326-23e4b43d3d5a/810123166244.png/600x600bb.jpg" width="60" /> | [Afterparty](https://ostdb.net/games/afterparty) | **Afterparty** · [Spotify](https://music.apple.com/us/album/afterparty/1804710578?uo=4) · [Album](https://album.link/i/1804710578) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/cb/9d/d0cb9d59-cc77-bcdc-712e-21fec9d2c988/859714595544_cover.jpg/600x600bb.jpg" width="60" /> | [Agatha Christie: Death on the Nile](https://ostdb.net/games/agatha-christie-death-on-the-nile) | **Agatha Christie - Death on the Nile (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/agatha-christie-death-on-the-nile-original-game-soundtrack/1835606034?uo=4) · [Album](https://album.link/i/1835606034) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27309d8a478d5ec28b7c9c09b91" width="60" /> | [Age of Empires](https://ostdb.net/games/age-of-empires) | **Age of Empires Definitive Edition (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4KAb8KSRVnZqzn0q5LIn62)<br>**Age of Empires: Definitive Edition (Original Game Soundtrack), Vol. 2** · [Spotify](https://open.spotify.com/album/76hQ5E6y5p8yvSwES6ZxsF) |
@@ -1121,4 +1122,4 @@ You can also submit or correct a soundtrack by opening a pull request — no nee
 
 ---
 
-_1445 soundtracks · last updated 2026-09-13T16:16:06.243Z_
+_1446 soundtracks · last updated 2026-09-13T20:25:56.250Z_
