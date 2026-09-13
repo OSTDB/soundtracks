@@ -273,7 +273,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
-| Across the Valley | 230504 | [230504-across-the-valley.json](./230504-across-the-valley.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
 | Acrostics on Stream | 261264 | [261264-acrostics-on-stream.json](./261264-acrostics-on-stream.json) |
 | Acrylic Nails! | 305792 | [305792-acrylic-nails.json](./305792-acrylic-nails.json) |
