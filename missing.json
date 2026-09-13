@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T19:33:47.509Z",
-  "total_missing": 66917,
+  "generated_at": "2026-09-13T19:41:33.369Z",
+  "total_missing": 66916,
   "games": [
     {
       "igdb_id": 306086,
@@ -3871,11 +3871,6 @@
       "igdb_id": 77948,
       "game_name": "Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi",
       "file": "missing/A/77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json"
-    },
-    {
-      "igdb_id": 104665,
-      "game_name": "Adelantado. 4 Aztec skulls",
-      "file": "missing/A/104665-adelantado-4-aztec-skulls.json"
     },
     {
       "igdb_id": 224770,
