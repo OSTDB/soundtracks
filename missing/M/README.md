@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mermaidio 3 | 229077 | [229077-mermaidio-3.json](./229077-mermaidio-3.json) |
 | Merriam-Webster Spell Jam | 69287 | [69287-merriam-webster-spell-jam.json](./69287-merriam-webster-spell-jam.json) |
 | Merry Christmas: Snowball Bubble | 187495 | [187495-merry-christmas-snowball-bubble.json](./187495-merry-christmas-snowball-bubble.json) |
+| Merry Clickmas | 23683 | [23683-merry-clickmas.json](./23683-merry-clickmas.json) |
 | Merry Cook | 367934 | [367934-merry-cook.json](./367934-merry-cook.json) |
 | Merry Go Round | 287636 | [287636-merry-go-round.json](./287636-merry-go-round.json) |
 | Merry Go Wrong | 181323 | [181323-merry-go-wrong.json](./181323-merry-go-wrong.json) |
@@ -2070,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroSoccer | 234062 | [234062-microsoccer.json](./234062-microsoccer.json) |
 | Microsoft Action Pack | 86036 | [86036-microsoft-action-pack.json](./86036-microsoft-action-pack.json) |
 | Microsoft Arcade | 94214 | [94214-microsoft-arcade.json](./94214-microsoft-arcade.json) |
+| Microsoft Combat Flight Simulator 3: Battle for Europe | 23768 | [23768-microsoft-combat-flight-simulator-3-battle-for-europe.json](./23768-microsoft-combat-flight-simulator-3-battle-for-europe.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
@@ -2078,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 2024: World Update 20 - Japan | 370133 | [370133-microsoft-flight-simulator-2024-world-update-20-japan.json](./370133-microsoft-flight-simulator-2024-world-update-20-japan.json) |
 | Microsoft Flight Simulator 4.0: Aircraft & Scenery Designer | 84204 | [84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json](./84204-microsoft-flight-simulator-4-0-aircraft-and-scenery-designer.json) |
 | Microsoft Flight Simulator 5.1: The Virtual Squadron | 141224 | [141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json](./141224-microsoft-flight-simulator-5-1-the-virtual-squadron.json) |
+| Microsoft Flight Simulator X: Deluxe Edition | 23775 | [23775-microsoft-flight-simulator-x-deluxe-edition.json](./23775-microsoft-flight-simulator-x-deluxe-edition.json) |
 | Microsoft Flight Simulator X: Steam Edition - 3D Lights Redux | 161889 | [161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json](./161889-microsoft-flight-simulator-x-steam-edition-3d-lights-redux.json) |
 | Microsoft Flight Simulator X: Steam Edition - 737 Extreme Sound | 161820 | [161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json](./161820-microsoft-flight-simulator-x-steam-edition-737-extreme-sound.json) |
 | Microsoft Flight Simulator X: Steam Edition - Albatros D.III (Oef) 253 | 161847 | [161847-microsoft-flight-simulator-x-steam-edition-albatros-d-iii-oef-253.json](./161847-microsoft-flight-simulator-x-steam-edition-albatros-d-iii-oef-253.json) |
@@ -2463,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
 | Miner Rush | 201799 | [201799-miner-rush.json](./201799-miner-rush.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
+| Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Mineroids | 413614 | [413614-mineroids.json](./413614-mineroids.json) |
 | Miners Settlement: Idle RPG | 245343 | [245343-miners-settlement-idle-rpg.json](./245343-miners-settlement-idle-rpg.json) |
 | Miners' Union | 391065 | [391065-miners-union.json](./391065-miners-union.json) |
@@ -3098,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monomagia Cantabile | 214539 | [214539-monomagia-cantabile.json](./214539-monomagia-cantabile.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
+| Monopoly | 23767 | [23767-monopoly.json](./23767-monopoly.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
 | Monopoly | 37740 | [37740-monopoly.json](./37740-monopoly.json) |
@@ -3604,6 +3609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
+| Motocross Racer | 23841 | [23841-motocross-racer.json](./23841-motocross-racer.json) |
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
 | MotoGP 13: MotoGP Champions | 168355 | [168355-motogp-13-motogp-champions.json](./168355-motogp-13-motogp-champions.json) |
@@ -4465,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth: Make Your True Hero | 143702 | [143702-myth-make-your-true-hero.json](./143702-myth-make-your-true-hero.json) |
 | Myth: The Fallen Lords | 800 | [800-myth-the-fallen-lords.json](./800-myth-the-fallen-lords.json) |
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
+| Mythborne | 23642 | [23642-mythborne.json](./23642-mythborne.json) |
 | MythBusters: The First Experiment | 199095 | [199095-mythbusters-the-first-experiment.json](./199095-mythbusters-the-first-experiment.json) |
 | Mythic Mire | 332454 | [332454-mythic-mire.json](./332454-mythic-mire.json) |
 | Mythic Mountain | 234615 | [234615-mythic-mountain.json](./234615-mythic-mountain.json) |
