@@ -1736,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug | 2636 | [2636-dig-dug.json](./2636-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
+| Dig Island | 372930 | [372930-dig-island.json](./372930-dig-island.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
 | Dig Master | 239036 | [239036-dig-master.json](./239036-dig-master.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
@@ -2169,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Technika Pack | 225058 | [225058-djmax-respect-v-technika-pack.json](./225058-djmax-respect-v-technika-pack.json) |
 | DJMax Technika | 79271 | [79271-djmax-technika.json](./79271-djmax-technika.json) |
 | DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
+| DK: Jungle Climber | 1099 | [1099-dk-jungle-climber.json](./1099-dk-jungle-climber.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
 | Dkls | 173276 | [173276-dkls.json](./173276-dkls.json) |
@@ -2493,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country | 150028 | [150028-donkey-kong-country.json](./150028-donkey-kong-country.json) |
 | Donkey Kong Country | 234084 | [234084-donkey-kong-country.json](./234084-donkey-kong-country.json) |
 | Donkey Kong Country 2 | 178237 | [178237-donkey-kong-country-2.json](./178237-donkey-kong-country-2.json) |
+| Donkey Kong Country 3 | 132723 | [132723-donkey-kong-country-3.json](./132723-donkey-kong-country-3.json) |
 | Donkey Kong Country 3: Dixie Kong's Double Trouble! | 1094 | [1094-donkey-kong-country-3-dixie-kongs-double-trouble.json](./1094-donkey-kong-country-3-dixie-kongs-double-trouble.json) |
 | Donkey Kong Country: Barrel Maze | 231637 | [231637-donkey-kong-country-barrel-maze.json](./231637-donkey-kong-country-barrel-maze.json) |
 | Donkey Kong Country: Pacifist Mode | 361715 | [361715-donkey-kong-country-pacifist-mode.json](./361715-donkey-kong-country-pacifist-mode.json) |
