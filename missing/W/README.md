@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Wolf - Saga of the Great Awakening | 163384 | [163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json](./163384-warhammer-40-000-space-wolf-saga-of-the-great-awakening.json) |
 | Warhammer 40,000: Space Wolf - Sentry Gun Pack | 156170 | [156170-warhammer-40-000-space-wolf-sentry-gun-pack.json](./156170-warhammer-40-000-space-wolf-sentry-gun-pack.json) |
 | Warhammer 40,000: Space Wolf - Sigurd Ironside | 163387 | [163387-warhammer-40-000-space-wolf-sigurd-ironside.json](./163387-warhammer-40-000-space-wolf-sigurd-ironside.json) |
+| Warhammer 40,000: Squad Command | 18310 | [18310-warhammer-40-000-squad-command.json](./18310-warhammer-40-000-squad-command.json) |
 | Warhammer Age of Sigmar: Champions | 112518 | [112518-warhammer-age-of-sigmar-champions.json](./112518-warhammer-age-of-sigmar-champions.json) |
 | Warhammer Quest: Silver Tower | 151194 | [151194-warhammer-quest-silver-tower.json](./151194-warhammer-quest-silver-tower.json) |
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
@@ -451,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
 | Wartide: Heroes of Atlantis | 74313 | [74313-wartide-heroes-of-atlantis.json](./74313-wartide-heroes-of-atlantis.json) |
+| Wartile | 18185 | [18185-wartile.json](./18185-wartile.json) |
 | Wartune | 23652 | [23652-wartune.json](./23652-wartune.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
@@ -558,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waystones | 341864 | [341864-waystones.json](./341864-waystones.json) |
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
+| Wayward Souls: Curse of Shadow | 19270 | [19270-wayward-souls-curse-of-shadow.json](./19270-wayward-souls-curse-of-shadow.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
