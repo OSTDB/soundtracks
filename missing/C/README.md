@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C'est La Vie | 55882 | [55882-cest-la-vie.json](./55882-cest-la-vie.json) |
 | C&C Level-CD: Vol.3 | 122309 | [122309-c-and-c-level-cd-vol-3.json](./122309-c-and-c-level-cd-vol-3.json) |
 | C1 Circuit | 143653 | [143653-c1-circuit.json](./143653-c1-circuit.json) |
+| C14 Dating | 33280 | [33280-c14-dating.json](./33280-c14-dating.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C5 Clive | 86025 | [86025-c5-clive.json](./86025-c5-clive.json) |
 | C64 & Amiga Classix Remakes Sixpack | 94773 | [94773-c64-and-amiga-classix-remakes-sixpack.json](./94773-c64-and-amiga-classix-remakes-sixpack.json) |
@@ -871,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
 | Catch 'Em | 80503 | [80503-catch-em.json](./80503-catch-em.json) |
 | Catch & Cook | 244231 | [244231-catch-and-cook.json](./244231-catch-and-cook.json) |
+| Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch Canvas | 33095 | [33095-catch-canvas.json](./33095-catch-canvas.json) |
 | Catch Flex: Quest | 347722 | [347722-catch-flex-quest.json](./347722-catch-flex-quest.json) |
 | Catch Hina | 185590 | [185590-catch-hina.json](./185590-catch-hina.json) |
@@ -3177,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Snipe | 265672 | [265672-counter-snipe.json](./265672-counter-snipe.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
+| CounterAttack | 33278 | [33278-counterattack.json](./33278-counterattack.json) |
 | Counterclocking | 245849 | [245849-counterclocking.json](./245849-counterclocking.json) |
 | Counterfeit Monkey | 2944 | [2944-counterfeit-monkey.json](./2944-counterfeit-monkey.json) |
 | Counterglass | 276729 | [276729-counterglass.json](./276729-counterglass.json) |
@@ -3918,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
 | Cube Lab | 339086 | [339086-cube-lab.json](./339086-cube-lab.json) |
+| Cube Land Arena | 33288 | [33288-cube-land-arena.json](./33288-cube-land-arena.json) |
 | Cube Life: Island Survival 2018 | 96067 | [96067-cube-life-island-survival-2018.json](./96067-cube-life-island-survival-2018.json) |
 | Cube Master | 13708 | [13708-cube-master.json](./13708-cube-master.json) |
 | Cube Matching King | 108495 | [108495-cube-matching-king.json](./108495-cube-matching-king.json) |
