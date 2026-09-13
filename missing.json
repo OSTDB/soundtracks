@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T17:48:54.113Z",
-  "total_missing": 66655,
+  "generated_at": "2026-09-13T17:51:34.760Z",
+  "total_missing": 66654,
   "games": [
     {
       "igdb_id": 306086,
@@ -3811,11 +3811,6 @@
       "igdb_id": 138262,
       "game_name": "Ad Nauseam 2",
       "file": "missing/A/138262-ad-nauseam-2.json"
-    },
-    {
-      "igdb_id": 83493,
-      "game_name": "Ada Towers",
-      "file": "missing/A/83493-ada-towers.json"
     },
     {
       "igdb_id": 240470,
