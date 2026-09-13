@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Real Simulation Tractor, Combine Trucks Farmer Land Game | 231084 | [231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json](./231084-farming-real-simulation-tractor-combine-trucks-farmer-land-game.json) |
 | Farming Sim 25: Drive Tractors, Combine, Trucks | 329568 | [329568-farming-sim-25-drive-tractors-combine-trucks.json](./329568-farming-sim-25-drive-tractors-combine-trucks.json) |
 | Farming Simulator | 81357 | [81357-farming-simulator.json](./81357-farming-simulator.json) |
+| Farming Simulator 15 | 9499 | [9499-farming-simulator-15.json](./9499-farming-simulator-15.json) |
 | Farming Simulator 17 big bud pack | 110336 | [110336-farming-simulator-17-big-bud-pack.json](./110336-farming-simulator-17-big-bud-pack.json) |
 | Farming Simulator 17: Platinum Expansion | 24785 | [24785-farming-simulator-17-platinum-expansion.json](./24785-farming-simulator-17-platinum-expansion.json) |
 | Farming Simulator 19: Ambassador Edition | 202420 | [202420-farming-simulator-19-ambassador-edition.json](./202420-farming-simulator-19-ambassador-edition.json) |
@@ -928,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Fantasy Classics | 102159 | [102159-fighting-fantasy-classics.json](./102159-fighting-fantasy-classics.json) |
 | Fighting Fantasy: Island of the Lizard King | 175407 | [175407-fighting-fantasy-island-of-the-lizard-king.json](./175407-fighting-fantasy-island-of-the-lizard-king.json) |
 | Fighting Fantasy: The Talisman of Death | 20571 | [20571-fighting-fantasy-the-talisman-of-death.json](./20571-fighting-fantasy-the-talisman-of-death.json) |
+| Fighting Force 2 | 11615 | [11615-fighting-force-2.json](./11615-fighting-force-2.json) |
 | Fighting Force Collection | 306653 | [306653-fighting-force-collection.json](./306653-fighting-force-collection.json) |
 | Fighting Fury | 44627 | [44627-fighting-fury.json](./44627-fighting-fury.json) |
 | Fighting Hero | 48582 | [48582-fighting-hero.json](./48582-fighting-hero.json) |
