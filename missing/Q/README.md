@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q.U.B.E. 2: Ultimate Edition | 233013 | [233013-q-u-b-e-2-ultimate-edition.json](./233013-q-u-b-e-2-ultimate-edition.json) |
 | Q.U.I.R.K. | 29819 | [29819-q-u-i-r-k.json](./29819-q-u-i-r-k.json) |
 | Q.u.q. | 238527 | [238527-q-u-q.json](./238527-q-u-q.json) |
+| Q*bert | 100023 | [100023-q-bert.json](./100023-q-bert.json) |
 | Q*bert | 218444 | [218444-q-bert.json](./218444-q-bert.json) |
 | Q&Q Answers | 130889 | [130889-q-and-q-answers.json](./130889-q-and-q-answers.json) |
 | QAD: Quintessential Art of Destruction | 72102 | [72102-qad-quintessential-art-of-destruction.json](./72102-qad-quintessential-art-of-destruction.json) |
