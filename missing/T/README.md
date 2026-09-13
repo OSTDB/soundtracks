@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fog Fall | 383351 | [383351-the-fog-fall.json](./383351-the-fog-fall.json) |
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
+| The Fool's Errand | 12107 | [12107-the-fools-errand.json](./12107-the-fools-errand.json) |
 | The Forage | 102802 | [102802-the-forage.json](./102802-the-forage.json) |
 | The Forest Cries | 185101 | [185101-the-forest-cries.json](./185101-the-forest-cries.json) |
 | The Forest Prison | 203537 | [203537-the-forest-prison.json](./203537-the-forest-prison.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
 | The Gold and Black Keys that Cannot Open | 251192 | [251192-the-gold-and-black-keys-that-cannot-open.json](./251192-the-gold-and-black-keys-that-cannot-open.json) |
+| The Gold of the Aztecs | 12120 | [12120-the-gold-of-the-aztecs.json](./12120-the-gold-of-the-aztecs.json) |
 | The Golden Age | 213586 | [213586-the-golden-age.json](./213586-the-golden-age.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
 | The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
@@ -2226,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guardians of the Secret Garden | 349305 | [349305-the-guardians-of-the-secret-garden.json](./349305-the-guardians-of-the-secret-garden.json) |
 | The Guest: Home Alone | 394171 | [394171-the-guest-home-alone.json](./394171-the-guest-home-alone.json) |
 | The Guild 2: Renaissance | 11620 | [11620-the-guild-2-renaissance.json](./11620-the-guild-2-renaissance.json) |
+| The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
 | The Gurgling | 381594 | [381594-the-gurgling.json](./381594-the-gurgling.json) |
 | The Hacker | 13724 | [13724-the-hacker.json](./13724-the-hacker.json) |
 | The Hacker 2.0 | 234051 | [234051-the-hacker-2-0.json](./234051-the-hacker-2-0.json) |
@@ -3904,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ugly Ducling | 228078 | [228078-the-ugly-ducling.json](./228078-the-ugly-ducling.json) |
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
+| The Ultimate Haunted House | 12140 | [12140-the-ultimate-haunted-house.json](./12140-the-ultimate-haunted-house.json) |
 | The Ultimate Hunter Falls Prey to a Monster Girl Level Draining Reverse R*P*G | 82811 | [82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json](./82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json) |
 | The ultimate secret of the universe: Soul | 169922 | [169922-the-ultimate-secret-of-the-universe-soul.json](./169922-the-ultimate-secret-of-the-universe-soul.json) |
 | The Ultimate Showdown | 34428 | [34428-the-ultimate-showdown.json](./34428-the-ultimate-showdown.json) |
