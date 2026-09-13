@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
 | Layers | 75098 | [75098-layers.json](./75098-layers.json) |
+| Layers of Fear | 204363 | [204363-layers-of-fear.json](./204363-layers-of-fear.json) |
 | Layers of Fear: Deluxe Edition | 254177 | [254177-layers-of-fear-deluxe-edition.json](./254177-layers-of-fear-deluxe-edition.json) |
 | Layers of Fear: Digital Deluxe | 186875 | [186875-layers-of-fear-digital-deluxe.json](./186875-layers-of-fear-digital-deluxe.json) |
 | Layers of Fear: Solitude | 125167 | [125167-layers-of-fear-solitude.json](./125167-layers-of-fear-solitude.json) |
@@ -890,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar Liar 2 | 303246 | [303246-liar-liar-2.json](./303246-liar-liar-2.json) |
 | Liar Moon Shangri-La | 209478 | [209478-liar-moon-shangri-la.json](./209478-liar-moon-shangri-la.json) |
 | Liar Trick: Psychological Crime Mystery | 163961 | [163961-liar-trick-psychological-crime-mystery.json](./163961-liar-trick-psychological-crime-mystery.json) |
+| Liar's Bar | 317695 | [317695-liars-bar.json](./317695-liars-bar.json) |
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liberate 1024 | 312923 | [312923-liberate-1024.json](./312923-liberate-1024.json) |
@@ -903,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberty City Preservation Project | 334671 | [334671-liberty-city-preservation-project.json](./334671-liberty-city-preservation-project.json) |
 | Liberty Step | 222000 | [222000-liberty-step.json](./222000-liberty-step.json) |
 | Libra of the Vampire Princess: Lycoris & Aoi in The Promise Plus Iris in Homeworld | 90627 | [90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json](./90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json) |
+| Librarian: Tidy Up the Arcane Library! | 393398 | [393398-librarian-tidy-up-the-arcane-library.json](./393398-librarian-tidy-up-the-arcane-library.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
 | Library Game | 337640 | [337640-library-game.json](./337640-library-game.json) |
 | Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
@@ -939,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Strange: Before the Storm - Deluxe Edition | 53273 | [53273-life-is-strange-before-the-storm-deluxe-edition.json](./53273-life-is-strange-before-the-storm-deluxe-edition.json) |
 | Life is Strange: Before the Storm Remastered | 144776 | [144776-life-is-strange-before-the-storm-remastered.json](./144776-life-is-strange-before-the-storm-remastered.json) |
 | Life is Strange: True Colors | 144765 | [144765-life-is-strange-true-colors.json](./144765-life-is-strange-true-colors.json) |
+| Life is Strange: Wavelengths | 144873 | [144873-life-is-strange-wavelengths.json](./144873-life-is-strange-wavelengths.json) |
 | Life of a Capitalist | 118407 | [118407-life-of-a-capitalist.json](./118407-life-of-a-capitalist.json) |
 | Life of a Lonely Indie Game Developer | 324888 | [324888-life-of-a-lonely-indie-game-developer.json](./324888-life-of-a-lonely-indie-game-developer.json) |
 | Life of a Thug | 306341 | [306341-life-of-a-thug.json](./306341-life-of-a-thug.json) |
@@ -1040,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like an Angel | 173824 | [173824-like-an-angel.json](./173824-like-an-angel.json) |
 | Like Clockwork | 181924 | [181924-like-clockwork.json](./181924-like-clockwork.json) |
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
+| Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
 | Lil Guy Resort | 380405 | [380405-lil-guy-resort.json](./380405-lil-guy-resort.json) |
 | Lil Guys | 322992 | [322992-lil-guys.json](./322992-lil-guys.json) |
 | Lil Johnny Goes Home | 258213 | [258213-lil-johnny-goes-home.json](./258213-lil-johnny-goes-home.json) |
@@ -1216,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Doll Queen | 260377 | [260377-little-doll-queen.json](./260377-little-doll-queen.json) |
 | Little Dragons Café | 88887 | [88887-little-dragons-cafe.json](./88887-little-dragons-cafe.json) |
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
+| Little Fighter 2 | 8700 | [8700-little-fighter-2.json](./8700-little-fighter-2.json) |
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
 | Little Fox: Bubble Spinner | 296074 | [296074-little-fox-bubble-spinner.json](./296074-little-fox-bubble-spinner.json) |
 | Little Friends: Dogs & Cats | 110337 | [110337-little-friends-dogs-and-cats.json](./110337-little-friends-dogs-and-cats.json) |
@@ -1613,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lore: Aftermath | 69274 | [69274-lore-aftermath.json](./69274-lore-aftermath.json) |
 | Lore: Curse of the Elemental | 244770 | [244770-lore-curse-of-the-elemental.json](./244770-lore-curse-of-the-elemental.json) |
 | Loree 3D | 412950 | [412950-loree-3d.json](./412950-loree-3d.json) |
+| Lorelei and the Laser Eyes | 206806 | [206806-lorelei-and-the-laser-eyes.json](./206806-lorelei-and-the-laser-eyes.json) |
 | Loren the Amazon Princess: The Castle Of N'Mar | 171634 | [171634-loren-the-amazon-princess-the-castle-of-nmar.json](./171634-loren-the-amazon-princess-the-castle-of-nmar.json) |
 | Lorerim | 383387 | [383387-lorerim.json](./383387-lorerim.json) |
 | Lorn Vale | 305172 | [305172-lorn-vale.json](./305172-lorn-vale.json) |
