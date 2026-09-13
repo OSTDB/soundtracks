@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.A.W.S.: Personal Automated Wagging System | 46573 | [46573-p-a-w-s-personal-automated-wagging-system.json](./46573-p-a-w-s-personal-automated-wagging-system.json) |
 | P.I.S. | 382221 | [382221-p-i-s.json](./382221-p-i-s.json) |
 | P.N.03 | 4060 | [4060-p-n-03.json](./4060-p-n-03.json) |
+| P.O.W.: Prisoners of War | 274103 | [274103-p-o-w-prisoners-of-war.json](./274103-p-o-w-prisoners-of-war.json) |
 | P.R.O.T.O.C.O.O.L.: Silver Pack | 267078 | [267078-p-r-o-t-o-c-o-o-l-silver-pack.json](./267078-p-r-o-t-o-c-o-o-l-silver-pack.json) |
 | P.S.Rose | 202318 | [202318-p-s-rose.json](./202318-p-s-rose.json) |
 | P.T. Bone-um's: Fabulous Tightrope of Terror | 180798 | [180798-p-t-bone-ums-fabulous-tightrope-of-terror.json](./180798-p-t-bone-ums-fabulous-tightrope-of-terror.json) |
@@ -1236,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picnic Wars | 20805 | [20805-picnic-wars.json](./20805-picnic-wars.json) |
 | Pico Monsters | 181931 | [181931-pico-monsters.json](./181931-pico-monsters.json) |
 | Pico Park 2 | 314933 | [314933-pico-park-2.json](./314933-pico-park-2.json) |
+| Pico Park: Classic Edition | 288208 | [288208-pico-park-classic-edition.json](./288208-pico-park-classic-edition.json) |
 | Pico Pico | 118991 | [118991-pico-pico.json](./118991-pico-pico.json) |
 | Pico Pico Dungeon! | 329006 | [329006-pico-pico-dungeon.json](./329006-pico-pico-dungeon.json) |
 | Pico Pico MicroMix | 182992 | [182992-pico-pico-micromix.json](./182992-pico-pico-micromix.json) |
@@ -1329,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilapila | 296109 | [296109-pilapila.json](./296109-pilapila.json) |
 | Pile Up! Bakery | 66657 | [66657-pile-up-bakery.json](./66657-pile-up-bakery.json) |
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
+| Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
 | Pill Cosbi | 74359 | [74359-pill-cosbi.json](./74359-pill-cosbi.json) |
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
@@ -1906,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platformer Saga | 336375 | [336375-platformer-saga.json](./336375-platformer-saga.json) |
 | Platformica | 57054 | [57054-platformica.json](./57054-platformica.json) |
 | Plati and the Tower of Time | 310739 | [310739-plati-and-the-tower-of-time.json](./310739-plati-and-the-tower-of-time.json) |
+| Platinum Demo: Final Fantasy XV | 299106 | [299106-platinum-demo-final-fantasy-xv.json](./299106-platinum-demo-final-fantasy-xv.json) |
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Platwormer | 181325 | [181325-platwormer.json](./181325-platwormer.json) |
@@ -2663,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator | 138590 | [138590-powerwash-simulator.json](./138590-powerwash-simulator.json) |
 | PowerWash Simulator | 400248 | [400248-powerwash-simulator.json](./400248-powerwash-simulator.json) |
 | PowerWash Simulator 2 | 335439 | [335439-powerwash-simulator-2.json](./335439-powerwash-simulator-2.json) |
+| PowerWash Simulator: Back to the Future Special Pack | 276978 | [276978-powerwash-simulator-back-to-the-future-special-pack.json](./276978-powerwash-simulator-back-to-the-future-special-pack.json) |
 | PowerWash Simulator: Cruise Ship Sun Deck - Summer 2024 | 312018 | [312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json](./312018-powerwash-simulator-cruise-ship-sun-deck-summer-2024.json) |
 | PowerWash Simulator: Halloween Seasonal 2024 | 320757 | [320757-powerwash-simulator-halloween-seasonal-2024.json](./320757-powerwash-simulator-halloween-seasonal-2024.json) |
 | PowerWash Simulator: Santa's Workshop - Winter 2023 | 280540 | [280540-powerwash-simulator-santas-workshop-winter-2023.json](./280540-powerwash-simulator-santas-workshop-winter-2023.json) |
@@ -2804,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince & Excalibur | 174309 | [174309-prince-and-excalibur.json](./174309-prince-and-excalibur.json) |
 | Prince Akazaka x Princess | 220653 | [220653-prince-akazaka-x-princess.json](./220653-prince-akazaka-x-princess.json) |
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
+| Prince of Persia | 284776 | [284776-prince-of-persia.json](./284776-prince-of-persia.json) |
 | Prince of Persia 2: The Shadow and the Flame | 3164 | [3164-prince-of-persia-2-the-shadow-and-the-flame.json](./3164-prince-of-persia-2-the-shadow-and-the-flame.json) |
 | Prince of Persia Classic | 248927 | [248927-prince-of-persia-classic.json](./248927-prince-of-persia-classic.json) |
 | Prince of Persia Trilogy | 44706 | [44706-prince-of-persia-trilogy.json](./44706-prince-of-persia-trilogy.json) |
