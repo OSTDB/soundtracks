@@ -286,7 +286,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
-| Action Mahjong | 29871 | [29871-action-mahjong.json](./29871-action-mahjong.json) |
 | Action Man: Search For Base X | 49868 | [49868-action-man-search-for-base-x.json](./49868-action-man-search-for-base-x.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Painting Pro | 128587 | [128587-action-painting-pro.json](./128587-action-painting-pro.json) |
@@ -933,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Administrator Simulator | 199598 | [199598-airport-administrator-simulator.json](./199598-airport-administrator-simulator.json) |
 | Airport Baggage Simulator | 372497 | [372497-airport-baggage-simulator.json](./372497-airport-baggage-simulator.json) |
 | Airport Boss | 297230 | [297230-airport-boss.json](./297230-airport-boss.json) |
+| Airport CEO | 52524 | [52524-airport-ceo.json](./52524-airport-ceo.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
 | Airport Control 27 | 398961 | [398961-airport-control-27.json](./398961-airport-control-27.json) |
 | Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
