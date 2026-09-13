@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:51:33.710Z",
-  "total_missing": 65194,
+  "generated_at": "2026-09-13T08:01:35.095Z",
+  "total_missing": 65199,
   "games": [
     {
       "igdb_id": 306086,
@@ -3493,11 +3493,6 @@
       "file": "missing/A/86015-achtung-spitfire.json"
     },
     {
-      "igdb_id": 394888,
-      "game_name": "Acid Bunny 2",
-      "file": "missing/A/394888-acid-bunny-2.json"
-    },
-    {
       "igdb_id": 15588,
       "game_name": "Acid Drops",
       "file": "missing/A/15588-acid-drops.json"
@@ -5786,6 +5781,11 @@
       "igdb_id": 61074,
       "game_name": "Age of Grit",
       "file": "missing/A/61074-age-of-grit.json"
+    },
+    {
+      "igdb_id": 188228,
+      "game_name": "Age of History II",
+      "file": "missing/A/188228-age-of-history-ii.json"
     },
     {
       "igdb_id": 317873,
@@ -54111,6 +54111,11 @@
       "igdb_id": 277020,
       "game_name": "Corpse Master Carnage",
       "file": "missing/C/277020-corpse-master-carnage.json"
+    },
+    {
+      "igdb_id": 178111,
+      "game_name": "Corpse Party",
+      "file": "missing/C/178111-corpse-party.json"
     },
     {
       "igdb_id": 170023,
@@ -243918,6 +243923,11 @@
       "file": "missing/S/69835-snowy-space-trip.json"
     },
     {
+      "igdb_id": 180149,
+      "game_name": "Snufkin: Melody of Moominvalley",
+      "file": "missing/S/180149-snufkin-melody-of-moominvalley.json"
+    },
+    {
       "igdb_id": 231059,
       "game_name": "Snug Finder & Puzzles",
       "file": "missing/S/231059-snug-finder-and-puzzles.json"
@@ -293173,6 +293183,11 @@
       "file": "missing/T/11010-tom-clancys-splinter-cell-conviction-insurgency-pack.json"
     },
     {
+      "igdb_id": 182225,
+      "game_name": "Tom Clancy's Splinter Cell: Double Agent",
+      "file": "missing/T/182225-tom-clancys-splinter-cell-double-agent.json"
+    },
+    {
       "igdb_id": 7469,
       "game_name": "Tom Clancy's Splinter Cell: Double Agent",
       "file": "missing/T/7469-tom-clancys-splinter-cell-double-agent.json"
@@ -294106,6 +294121,11 @@
       "igdb_id": 133458,
       "game_name": "Torches of Fate",
       "file": "missing/T/133458-torches-of-fate.json"
+    },
+    {
+      "igdb_id": 174897,
+      "game_name": "Torchlight: Infinite",
+      "file": "missing/T/174897-torchlight-infinite.json"
     },
     {
       "igdb_id": 180183,
@@ -312766,6 +312786,11 @@
       "igdb_id": 93630,
       "game_name": "Waves: Arena Tactics",
       "file": "missing/W/93630-waves-arena-tactics.json"
+    },
+    {
+      "igdb_id": 165309,
+      "game_name": "Wavetale",
+      "file": "missing/W/165309-wavetale.json"
     },
     {
       "igdb_id": 347174,
