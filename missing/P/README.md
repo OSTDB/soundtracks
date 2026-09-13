@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
 | Pocket Car: VR Ground | 113749 | [113749-pocket-car-vr-ground.json](./113749-pocket-car-vr-ground.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
+| Pocket City | 79996 | [79996-pocket-city.json](./79996-pocket-city.json) |
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Family GB | 180201 | [180201-pocket-family-gb.json](./180201-pocket-family-gb.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
 | Poda Wants a Statue | 260699 | [260699-poda-wants-a-statue.json](./260699-poda-wants-a-statue.json) |
 | Podd | 66704 | [66704-podd.json](./66704-podd.json) |
+| Pode | 94054 | [94054-pode.json](./94054-pode.json) |
 | Podnabu | 291256 | [291256-podnabu.json](./291256-podnabu.json) |
 | Poems & Codes | 244281 | [244281-poems-and-codes.json](./244281-poems-and-codes.json) |
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
