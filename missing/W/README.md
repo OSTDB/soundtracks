@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakeboarding Unleashed Featuring Shaun Murray | 248685 | [248685-wakeboarding-unleashed-featuring-shaun-murray.json](./248685-wakeboarding-unleashed-featuring-shaun-murray.json) |
 | Waker | 91890 | [91890-waker.json](./91890-waker.json) |
 | Wakey Wakey | 178568 | [178568-wakey-wakey.json](./178568-wakey-wakey.json) |
+| Wakfu: Kelba Island | 23650 | [23650-wakfu-kelba-island.json](./23650-wakfu-kelba-island.json) |
 | Wakfu: Ouginak Pack | 225873 | [225873-wakfu-ouginak-pack.json](./225873-wakfu-ouginak-pack.json) |
 | Waking Atlas | 251829 | [251829-waking-atlas.json](./251829-waking-atlas.json) |
 | Waking Nightmare | 181849 | [181849-waking-nightmare.json](./181849-waking-nightmare.json) |
@@ -423,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warspear Online | 87077 | [87077-warspear-online.json](./87077-warspear-online.json) |
 | Warspirits | 297483 | [297483-warspirits.json](./297483-warspirits.json) |
 | Wartide: Heroes of Atlantis | 74313 | [74313-wartide-heroes-of-atlantis.json](./74313-wartide-heroes-of-atlantis.json) |
+| Wartune | 23652 | [23652-wartune.json](./23652-wartune.json) |
 | WarUniverse | 123614 | [123614-waruniverse.json](./123614-waruniverse.json) |
 | WarWest | 112336 | [112336-warwest.json](./112336-warwest.json) |
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
