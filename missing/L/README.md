@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
+| Line of Fire | 19487 | [19487-line-of-fire.json](./19487-line-of-fire.json) |
 | Line of Sight: Starters Pack | 156102 | [156102-line-of-sight-starters-pack.json](./156102-line-of-sight-starters-pack.json) |
 | Line Rider | 28810 | [28810-line-rider.json](./28810-line-rider.json) |
 | Line Up: Dots! | 243098 | [243098-line-up-dots.json](./243098-line-up-dots.json) |
@@ -1457,6 +1458,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonath Online | 34323 | [34323-lonath-online.json](./34323-lonath-online.json) |
 | London 2012: Official Mobile Game | 137015 | [137015-london-2012-official-mobile-game.json](./137015-london-2012-official-mobile-game.json) |
 | London Crazy Taxi | 235217 | [235217-london-crazy-taxi.json](./235217-london-crazy-taxi.json) |
+| London Racer: Destruction Madness | 15438 | [15438-london-racer-destruction-madness.json](./15438-london-racer-destruction-madness.json) |
+| London Racer: Police Madness | 15436 | [15436-london-racer-police-madness.json](./15436-london-racer-police-madness.json) |
+| London Racer: World Challenge | 15437 | [15437-london-racer-world-challenge.json](./15437-london-racer-world-challenge.json) |
 | London Rush | 234602 | [234602-london-rush.json](./234602-london-rush.json) |
 | London-Faversham High Speed | 63799 | [63799-london-faversham-high-speed.json](./63799-london-faversham-high-speed.json) |
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
