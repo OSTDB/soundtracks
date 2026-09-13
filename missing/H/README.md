@@ -183,6 +183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation - Warpath | 367399 | [367399-halo-infinite-operation-warpath.json](./367399-halo-infinite-operation-warpath.json) |
 | Halo Infinte: Operation - Anvil | 335852 | [335852-halo-infinte-operation-anvil.json](./335852-halo-infinte-operation-anvil.json) |
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
+| Halo Wars 2: Awakening the Nightmare | 37383 | [37383-halo-wars-2-awakening-the-nightmare.json](./37383-halo-wars-2-awakening-the-nightmare.json) |
 | Halo Wars 2: Ultimate Edition | 27765 | [27765-halo-wars-2-ultimate-edition.json](./27765-halo-wars-2-ultimate-edition.json) |
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
@@ -2573,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperbowl | 14316 | [14316-hyperbowl.json](./14316-hyperbowl.json) |
 | HyperBrawl Tournament: Ultimate Edition | 188012 | [188012-hyperbrawl-tournament-ultimate-edition.json](./188012-hyperbrawl-tournament-ultimate-edition.json) |
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
+| Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
 | Hyperchase Auto Race | 41990 | [41990-hyperchase-auto-race.json](./41990-hyperchase-auto-race.json) |
 | HyperCore: Rhythm Bullet Hell | 122388 | [122388-hypercore-rhythm-bullet-hell.json](./122388-hypercore-rhythm-bullet-hell.json) |
 | HyperCycle League | 383979 | [383979-hypercycle-league.json](./383979-hypercycle-league.json) |
