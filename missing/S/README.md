@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages Lightening Force: Quest for the Darkstar | 109595 | [109595-sega-ages-lightening-force-quest-for-the-darkstar.json](./109595-sega-ages-lightening-force-quest-for-the-darkstar.json) |
 | Sega Ages Thunder Force AC | 110060 | [110060-sega-ages-thunder-force-ac.json](./110060-sega-ages-thunder-force-ac.json) |
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
+| Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Genesis Classic Collection: Gold Edition | 51261 | [51261-sega-genesis-classic-collection-gold-edition.json](./51261-sega-genesis-classic-collection-gold-edition.json) |
 | Sega GT | 28838 | [28838-sega-gt.json](./28838-sega-gt.json) |
 | Sega Rally 2 | 1572 | [1572-sega-rally-2.json](./1572-sega-rally-2.json) |
@@ -1722,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
 | Sherlock has a Clue | 310949 | [310949-sherlock-has-a-clue.json](./310949-sherlock-has-a-clue.json) |
 | Sherlock Holmes: Chapter One - Beyond a Joke | 186894 | [186894-sherlock-holmes-chapter-one-beyond-a-joke.json](./186894-sherlock-holmes-chapter-one-beyond-a-joke.json) |
+| Sherlock Holmes: Consulting Detective | 5435 | [5435-sherlock-holmes-consulting-detective.json](./5435-sherlock-holmes-consulting-detective.json) |
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
 | Sherlock Holmes: Puzzle City | 222297 | [222297-sherlock-holmes-puzzle-city.json](./222297-sherlock-holmes-puzzle-city.json) |
 | Sherlock Holmes: The Awakened | 212664 | [212664-sherlock-holmes-the-awakened.json](./212664-sherlock-holmes-the-awakened.json) |
@@ -6977,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
+| Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
 | Super Rare Mixtape: Horror Edition | 272829 | [272829-super-rare-mixtape-horror-edition.json](./272829-super-rare-mixtape-horror-edition.json) |
 | Super Real Hanafuda: Koi Koi Shimasho | 130299 | [130299-super-real-hanafuda-koi-koi-shimasho.json](./130299-super-real-hanafuda-koi-koi-shimasho.json) |
 | Super Real Mahjong Love 2~7! Special Edition | 342064 | [342064-super-real-mahjong-love-2-7-special-edition.json](./342064-super-real-mahjong-love-2-7-special-edition.json) |
