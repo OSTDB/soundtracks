@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
 | 300 Heroes | 75139 | [75139-300-heroes.json](./75139-300-heroes.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
+| 3030 Deathwar Redux | 32952 | [32952-3030-deathwar-redux.json](./32952-3030-deathwar-redux.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
 | 32nd America's Cup: The Game | 72609 | [72609-32nd-americas-cup-the-game.json](./72609-32nd-americas-cup-the-game.json) |
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
