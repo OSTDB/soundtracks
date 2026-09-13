@@ -269,7 +269,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
-| Across Crime | 413637 | [413637-across-crime.json](./413637-across-crime.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
 | Across the Galaxy: Infinite War | 216780 | [216780-across-the-galaxy-infinite-war.json](./216780-across-the-galaxy-infinite-war.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
@@ -454,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Series 13+ | 69247 | [69247-adventure-series-13.json](./69247-adventure-series-13.json) |
 | Adventure Story | 265404 | [265404-adventure-story.json](./265404-adventure-story.json) |
 | Adventure Time: Finn and Jake Investigations | 11320 | [11320-adventure-time-finn-and-jake-investigations.json](./11320-adventure-time-finn-and-jake-investigations.json) |
+| Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! | 2797 | [2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json](./2797-adventure-time-hey-ice-king-whyd-you-steal-our-garbage.json) |
 | Adventure Time: Hey Ice King! Why'd You Steal Our Garbage?! - Collector's Edition | 89898 | [89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json](./89898-adventure-time-hey-ice-king-whyd-you-steal-our-garbage-collectors-edition.json) |
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Magic Man's Head Games | 19053 | [19053-adventure-time-magic-mans-head-games.json](./19053-adventure-time-magic-mans-head-games.json) |
@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Conan: The Savage Coast Of Turan | 27652 | [27652-age-of-conan-the-savage-coast-of-turan.json](./27652-age-of-conan-the-savage-coast-of-turan.json) |
 | Age of Conan: Unchained | 16402 | [16402-age-of-conan-unchained.json](./16402-age-of-conan-unchained.json) |
 | Age of Conquest IV | 36268 | [36268-age-of-conquest-iv.json](./36268-age-of-conquest-iv.json) |
+| Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
 | Age Of Dynasties | 317827 | [317827-age-of-dynasties.json](./317827-age-of-dynasties.json) |
 | Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
@@ -1362,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone In Hell | 217852 | [217852-alone-in-hell.json](./217852-alone-in-hell.json) |
 | Alone in the Dark | 287174 | [287174-alone-in-the-dark.json](./287174-alone-in-the-dark.json) |
 | Alone in the Dark 2 | 340383 | [340383-alone-in-the-dark-2.json](./340383-alone-in-the-dark-2.json) |
+| Alone in the Dark: The New Nightmare | 266501 | [266501-alone-in-the-dark-the-new-nightmare.json](./266501-alone-in-the-dark-the-new-nightmare.json) |
 | Alone in the Machine | 363909 | [363909-alone-in-the-machine.json](./363909-alone-in-the-machine.json) |
 | Alone in the Outback | 226215 | [226215-alone-in-the-outback.json](./226215-alone-in-the-outback.json) |
 | Alone in the School | 302385 | [302385-alone-in-the-school.json](./302385-alone-in-the-school.json) |
@@ -2523,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archon | 5539 | [5539-archon.json](./5539-archon.json) |
 | Archon Classic | 16208 | [16208-archon-classic.json](./16208-archon-classic.json) |
 | Archons: Arena | 264897 | [264897-archons-arena.json](./264897-archons-arena.json) |
+| Archvale | 152168 | [152168-archvale.json](./152168-archvale.json) |
 | Archwar: Heroes and Demons | 227250 | [227250-archwar-heroes-and-demons.json](./227250-archwar-heroes-and-demons.json) |
 | Arcis Ultima | 196231 | [196231-arcis-ultima.json](./196231-arcis-ultima.json) |
 | ArcLand | 141806 | [141806-arcland.json](./141806-arcland.json) |
@@ -2737,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
 | Army Men Battle Simulator | 351039 | [351039-army-men-battle-simulator.json](./351039-army-men-battle-simulator.json) |
 | Army Men World War: Team Assault | 43947 | [43947-army-men-world-war-team-assault.json](./43947-army-men-world-war-team-assault.json) |
+| Army Men: Air Attack | 3417 | [3417-army-men-air-attack.json](./3417-army-men-air-attack.json) |
 | Army Men: Air Combat - The Elite Missions | 50582 | [50582-army-men-air-combat-the-elite-missions.json](./50582-army-men-air-combat-the-elite-missions.json) |
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
 | Army Men: Turf Wars | 49314 | [49314-army-men-turf-wars.json](./49314-army-men-turf-wars.json) |
@@ -2939,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ask her out | 287096 | [287096-ask-her-out.json](./287096-ask-her-out.json) |
 | Ask Her Out | 181881 | [181881-ask-her-out.json](./181881-ask-her-out.json) |
 | Ask Madame Clairvoya | 231628 | [231628-ask-madame-clairvoya.json](./231628-ask-madame-clairvoya.json) |
+| Aska | 230569 | [230569-aska.json](./230569-aska.json) |
 | Aske | 165008 | [165008-aske.json](./165008-aske.json) |
 | Asleep | 201310 | [201310-asleep.json](./201310-asleep.json) |
 | Asleep in the Deep | 337102 | [337102-asleep-in-the-deep.json](./337102-asleep-in-the-deep.json) |
