@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Lofts | 156652 | [156652-paradise-lofts.json](./156652-paradise-lofts.json) |
 | Paradise Lost | 137092 | [137092-paradise-lost.json](./137092-paradise-lost.json) |
 | Paradise Lost: First Contact | 59975 | [59975-paradise-lost-first-contact.json](./59975-paradise-lost-first-contact.json) |
+| Paradise Lost: FPS Cosmic Horror Game | 69441 | [69441-paradise-lost-fps-cosmic-horror-game.json](./69441-paradise-lost-fps-cosmic-horror-game.json) |
 | Paradise Lust 2 | 253369 | [253369-paradise-lust-2.json](./253369-paradise-lust-2.json) |
 | Paradise Shooting 2!! | 311808 | [311808-paradise-shooting-2.json](./311808-paradise-shooting-2.json) |
 | Paradise Story | 233761 | [233761-paradise-story.json](./233761-paradise-story.json) |
@@ -579,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time 3 | 324133 | [324133-party-party-time-3.json](./324133-party-party-time-3.json) |
 | Party Party Time: Happy Happy Pack | 259855 | [259855-party-party-time-happy-happy-pack.json](./259855-party-party-time-happy-happy-pack.json) |
 | Party Party Time: Party Harder Pack | 233000 | [233000-party-party-time-party-harder-pack.json](./233000-party-party-time-party-harder-pack.json) |
+| Party Planet | 71594 | [71594-party-planet.json](./71594-party-planet.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
 | Party Poopers | 112345 | [112345-party-poopers.json](./112345-party-poopers.json) |
 | Party Poppers | 113684 | [113684-party-poppers.json](./113684-party-poppers.json) |
@@ -644,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
 | Path of War | 31783 | [31783-path-of-war.json](./31783-path-of-war.json) |
 | Path of Wuxia | 138747 | [138747-path-of-wuxia.json](./138747-path-of-wuxia.json) |
+| Path Out | 74116 | [74116-path-out.json](./74116-path-out.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Valhalla | 113733 | [113733-path-to-valhalla.json](./113733-path-to-valhalla.json) |
 | Path to Warband | 215692 | [215692-path-to-warband.json](./215692-path-to-warband.json) |
@@ -1104,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
 | Phantom Breaker | 7130 | [7130-phantom-breaker.json](./7130-phantom-breaker.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
+| Phantom Brigade | 69488 | [69488-phantom-brigade.json](./69488-phantom-brigade.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
 | Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
 | Phantom Doctrine: Deluxe Edition | 107257 | [107257-phantom-doctrine-deluxe-edition.json](./107257-phantom-doctrine-deluxe-edition.json) |
@@ -1534,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Dream | 200 | [200-pipe-dream.json](./200-pipe-dream.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pipe Inspector: Plumbocalypse | 336534 | [336534-pipe-inspector-plumbocalypse.json](./336534-pipe-inspector-plumbocalypse.json) |
+| Pipe Push Paradise | 72519 | [72519-pipe-push-paradise.json](./72519-pipe-push-paradise.json) |
 | Pipe Skull | 185127 | [185127-pipe-skull.json](./185127-pipe-skull.json) |
 | Pipeline RTX | 192980 | [192980-pipeline-rtx.json](./192980-pipeline-rtx.json) |
 | Pipeline VR | 173253 | [173253-pipeline-vr.json](./173253-pipeline-vr.json) |
