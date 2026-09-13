@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
 | Wendigo | 252727 | [252727-wendigo.json](./252727-wendigo.json) |
 | Wendy: Der Traum von Arizona | 98949 | [98949-wendy-der-traum-von-arizona.json](./98949-wendy-der-traum-von-arizona.json) |
+| Wenjia | 110509 | [110509-wenjia.json](./110509-wenjia.json) |
 | Wénzìyù | 115626 | [115626-wenziyu.json](./115626-wenziyu.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Werewolf Pinball | 105930 | [105930-werewolf-pinball.json](./105930-werewolf-pinball.json) |
