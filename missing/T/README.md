@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Of Robbers | 117773 | [117773-team-of-robbers.json](./117773-team-of-robbers.json) |
 | Team of Titans | 302376 | [302376-team-of-titans.json](./302376-team-of-titans.json) |
 | Team Rise | 258219 | [258219-team-rise.json](./258219-team-rise.json) |
+| Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
 | Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
 | Team Xtreme: Operation Weather Disaster | 70983 | [70983-team-xtreme-operation-weather-disaster.json](./70983-team-xtreme-operation-weather-disaster.json) |
 | Team Yankee | 15382 | [15382-team-yankee.json](./15382-team-yankee.json) |
@@ -1906,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eggsperts | 373560 | [373560-the-eggsperts.json](./373560-the-eggsperts.json) |
 | The Eidolon | 12950 | [12950-the-eidolon.json](./12950-the-eidolon.json) |
 | The Elder Reality | 271486 | [271486-the-elder-reality.json](./271486-the-elder-reality.json) |
+| The Elder Scrolls III: Tribunal | 57 | [57-the-elder-scrolls-iii-tribunal.json](./57-the-elder-scrolls-iii-tribunal.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Elder Scrolls Online: Feast of Shadows | 361156 | [361156-the-elder-scrolls-online-feast-of-shadows.json](./361156-the-elder-scrolls-online-feast-of-shadows.json) |
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
@@ -2005,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
 | The Falconeer: Edge of the World | 162852 | [162852-the-falconeer-edge-of-the-world.json](./162852-the-falconeer-edge-of-the-world.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
+| The Fall | 9547 | [9547-the-fall.json](./9547-the-fall.json) |
 | The Fall of Balance | 192385 | [192385-the-fall-of-balance.json](./192385-the-fall-of-balance.json) |
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
 | The Fall of Elements | 264607 | [264607-the-fall-of-elements.json](./264607-the-fall-of-elements.json) |
@@ -3528,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Wonderland Playroom Kit | 404231 | [404231-the-sims-4-wonderland-playroom-kit.json](./404231-the-sims-4-wonderland-playroom-kit.json) |
 | The Sims 4: Yard Charm Kit | 404230 | [404230-the-sims-4-yard-charm-kit.json](./404230-the-sims-4-yard-charm-kit.json) |
 | The Sims Bustin' Out | 4151 | [4151-the-sims-bustin-out.json](./4151-the-sims-bustin-out.json) |
+| The Sims Medieval | 10632 | [10632-the-sims-medieval.json](./10632-the-sims-medieval.json) |
 | The Sims: Legacy Collection | 329954 | [329954-the-sims-legacy-collection.json](./329954-the-sims-legacy-collection.json) |
 | The Simulacrum | 230858 | [230858-the-simulacrum.json](./230858-the-simulacrum.json) |
 | The Simuloid Affair: Infinite Possibilities | 300692 | [300692-the-simuloid-affair-infinite-possibilities.json](./300692-the-simuloid-affair-infinite-possibilities.json) |
@@ -5758,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Jaseishou: The Last Comer | 246672 | [246672-touhou-jaseishou-the-last-comer.json](./246672-touhou-jaseishou-the-last-comer.json) |
 | Touhou Kaikeidou: Marine Benefit | 280171 | [280171-touhou-kaikeidou-marine-benefit.json](./280171-touhou-kaikeidou-marine-benefit.json) |
 | Touhou Língshǒusì: Consciousness' Unity of Opposites | 216793 | [216793-touhou-lingshousi-consciousness-unity-of-opposites.json](./216793-touhou-lingshousi-consciousness-unity-of-opposites.json) |
+| Touhou Luna Nights | 105447 | [105447-touhou-luna-nights.json](./105447-touhou-luna-nights.json) |
 | Touhou Madan Zan Cronica: Unbelieved Heroes | 206743 | [206743-touhou-madan-zan-cronica-unbelieved-heroes.json](./206743-touhou-madan-zan-cronica-unbelieved-heroes.json) |
 | Touhou Madan Zan Shun-pu: Unbelieved Heroes | 206742 | [206742-touhou-madan-zan-shun-pu-unbelieved-heroes.json](./206742-touhou-madan-zan-shun-pu-unbelieved-heroes.json) |
 | Touhou Madan Zan: Unbelieved Heroes | 206741 | [206741-touhou-madan-zan-unbelieved-heroes.json](./206741-touhou-madan-zan-unbelieved-heroes.json) |
@@ -5901,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Dusk | 251810 | [251810-town-of-dusk.json](./251810-town-of-dusk.json) |
 | Town of Host | 224196 | [224196-town-of-host.json](./224196-town-of-host.json) |
 | Town of Machine | 145049 | [145049-town-of-machine.json](./145049-town-of-machine.json) |
+| Town of Salem | 9658 | [9658-town-of-salem.json](./9658-town-of-salem.json) |
 | Town of Sin | 175994 | [175994-town-of-sin.json](./175994-town-of-sin.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
 | Town of Zoz | 335295 | [335295-town-of-zoz.json](./335295-town-of-zoz.json) |
