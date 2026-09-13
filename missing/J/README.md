@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Camp Cretaceous: Hidden Adventure | 256846 | [256846-jurassic-world-camp-cretaceous-hidden-adventure.json](./256846-jurassic-world-camp-cretaceous-hidden-adventure.json) |
 | Jurassic World Evolution 2 | 152064 | [152064-jurassic-world-evolution-2.json](./152064-jurassic-world-evolution-2.json) |
 | Jurassic World Evolution 2: Cretaceous Predator Pack | 277848 | [277848-jurassic-world-evolution-2-cretaceous-predator-pack.json](./277848-jurassic-world-evolution-2-cretaceous-predator-pack.json) |
+| Jurassic World Evolution 2: Dominion Biosyn Expansion | 203760 | [203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json](./203760-jurassic-world-evolution-2-dominion-biosyn-expansion.json) |
 | Jurassic World Evolution 2: Park Managers' Collection Pack | 308278 | [308278-jurassic-world-evolution-2-park-managers-collection-pack.json](./308278-jurassic-world-evolution-2-park-managers-collection-pack.json) |
 | Jurassic World Evolution 3: Deluxe Edition | 406704 | [406704-jurassic-world-evolution-3-deluxe-edition.json](./406704-jurassic-world-evolution-3-deluxe-edition.json) |
 | Jurassic World Evolution: Return to Jurassic Park | 140515 | [140515-jurassic-world-evolution-return-to-jurassic-park.json](./140515-jurassic-world-evolution-return-to-jurassic-park.json) |
