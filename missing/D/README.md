@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dedalium | 199418 | [199418-dedalium.json](./199418-dedalium.json) |
 | Deductum | 355531 | [355531-deductum.json](./355531-deductum.json) |
 | Deed: Sustainable Business | 240201 | [240201-deed-sustainable-business.json](./240201-deed-sustainable-business.json) |
+| Deeeep.io | 79267 | [79267-deeeep-io.json](./79267-deeeep-io.json) |
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Blue Fantasy | 253612 | [253612-deep-blue-fantasy.json](./253612-deep-blue-fantasy.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
 | Deff | 133973 | [133973-deff.json](./133973-deff.json) |
+| Defiance 2050 | 89554 | [89554-defiance-2050.json](./89554-defiance-2050.json) |
 | Deficiency | 278161 | [278161-deficiency.json](./278161-deficiency.json) |
 | Deficit | 327818 | [327818-deficit.json](./327818-deficit.json) |
 | Defiled | 213032 | [213032-defiled.json](./213032-defiled.json) |
@@ -1414,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desertopia | 244804 | [244804-desertopia.json](./244804-desertopia.json) |
 | Deserved | 391598 | [391598-deserved.json](./391598-deserved.json) |
 | Designed for Danger | 321771 | [321771-designed-for-danger.json](./321771-designed-for-danger.json) |
+| Désiré | 88080 | [88080-desire.json](./88080-desire.json) |
 | Desire & Decorum: Book 1 | 313713 | [313713-desire-and-decorum-book-1.json](./313713-desire-and-decorum-book-1.json) |
 | Desire & Decorum: Book 2 | 313714 | [313714-desire-and-decorum-book-2.json](./313714-desire-and-decorum-book-2.json) |
 | Desire & Decorum: Book 3 | 313715 | [313715-desire-and-decorum-book-3.json](./313715-desire-and-decorum-book-3.json) |
@@ -2282,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Does It Stack?: Full Stack Edition | 278672 | [278672-does-it-stack-full-stack-edition.json](./278672-does-it-stack-full-stack-edition.json) |
 | Dofus Émeraude | 110307 | [110307-dofus-emeraude.json](./110307-dofus-emeraude.json) |
 | Dofus Pogo | 112339 | [112339-dofus-pogo.json](./112339-dofus-pogo.json) |
+| Dofus Touch | 96289 | [96289-dofus-touch.json](./96289-dofus-touch.json) |
 | Dofus: Battles | 174334 | [174334-dofus-battles.json](./174334-dofus-battles.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
@@ -2565,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Bowling | 65451 | [65451-doodle-bowling.json](./65451-doodle-bowling.json) |
 | Doodle Cat | 343797 | [343797-doodle-cat.json](./343797-doodle-cat.json) |
 | Doodle Creatures HD | 100873 | [100873-doodle-creatures-hd.json](./100873-doodle-creatures-hd.json) |
+| Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
 | Doodle Factory | 295801 | [295801-doodle-factory.json](./295801-doodle-factory.json) |
@@ -2725,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
 | Double Bloob | 62680 | [62680-double-bloob.json](./62680-double-bloob.json) |
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
+| Double Cross | 96135 | [96135-double-cross.json](./96135-double-cross.json) |
 | Double Damnation | 213981 | [213981-double-damnation.json](./213981-double-damnation.json) |
 | Double Dragon | 200154 | [200154-double-dragon.json](./200154-double-dragon.json) |
 | Double Dragon | 201319 | [201319-double-dragon.json](./201319-double-dragon.json) |
