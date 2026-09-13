@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larcenauts | 149018 | [149018-larcenauts.json](./149018-larcenauts.json) |
 | Larentia | 330748 | [330748-larentia.json](./330748-larentia.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
+| Largo Winch: Empire Under Threat | 3971 | [3971-largo-winch-empire-under-threat.json](./3971-largo-winch-empire-under-threat.json) |
 | Larn | 2889 | [2889-larn.json](./2889-larn.json) |
 | Larry Lotter and the Test of Time | 57096 | [57096-larry-lotter-and-the-test-of-time.json](./57096-larry-lotter-and-the-test-of-time.json) |
 | Larry the Dinosaur 2: Something in the Cola | 217509 | [217509-larry-the-dinosaur-2-something-in-the-cola.json](./217509-larry-the-dinosaur-2-something-in-the-cola.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Prayer | 291445 | [291445-lost-in-prayer.json](./291445-lost-in-prayer.json) |
 | Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
 | Lost in Reefs: Antarctic | 30934 | [30934-lost-in-reefs-antarctic.json](./30934-lost-in-reefs-antarctic.json) |
+| Lost in Shadow | 4980 | [4980-lost-in-shadow.json](./4980-lost-in-shadow.json) |
 | Lost in Space | 167812 | [167812-lost-in-space.json](./167812-lost-in-space.json) |
 | Lost in Space | 278408 | [278408-lost-in-space.json](./278408-lost-in-space.json) |
 | Lost in the Amazon | 296057 | [296057-lost-in-the-amazon.json](./296057-lost-in-the-amazon.json) |
@@ -2019,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
 | Lumiland | 166726 | [166726-lumiland.json](./166726-lumiland.json) |
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
+| Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
 | Luminis: Heal Them All | 270133 | [270133-luminis-heal-them-all.json](./270133-luminis-heal-them-all.json) |
