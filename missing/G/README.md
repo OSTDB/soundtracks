@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini | 86115 | [86115-gemini.json](./86115-gemini.json) |
 | Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
 | Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
+| Gemini: Heroes Reborn | 19932 | [19932-gemini-heroes-reborn.json](./19932-gemini-heroes-reborn.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
@@ -2050,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerrilla Bob | 92530 | [92530-guerrilla-bob.json](./92530-guerrilla-bob.json) |
 | Guerrilla Gardening | 182531 | [182531-guerrilla-gardening.json](./182531-guerrilla-gardening.json) |
 | Guerrilla Strike | 43343 | [43343-guerrilla-strike.json](./43343-guerrilla-strike.json) |
+| Guerrilla War | 39787 | [39787-guerrilla-war.json](./39787-guerrilla-war.json) |
 | Guess Da Meme | 104067 | [104067-guess-da-meme.json](./104067-guess-da-meme.json) |
 | Guess Game | 115068 | [115068-guess-game.json](./115068-guess-game.json) |
 | Guess it not | 79346 | [79346-guess-it-not.json](./79346-guess-it-not.json) |
@@ -2175,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
 | Gunbird | 299163 | [299163-gunbird.json](./299163-gunbird.json) |
+| Gunbird 2 | 40150 | [40150-gunbird-2.json](./40150-gunbird-2.json) |
 | Gunbird: Special Edition | 44643 | [44643-gunbird-special-edition.json](./44643-gunbird-special-edition.json) |
 | Gunblade Ranger | 374589 | [374589-gunblade-ranger.json](./374589-gunblade-ranger.json) |
 | GunBlocks | 168315 | [168315-gunblocks.json](./168315-gunblocks.json) |
