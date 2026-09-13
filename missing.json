@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T02:01:45.165Z",
-  "total_missing": 64181,
+  "generated_at": "2026-09-13T02:11:34.859Z",
+  "total_missing": 64191,
   "games": [
     {
       "igdb_id": 306086,
@@ -3316,11 +3316,6 @@
       "igdb_id": 146326,
       "game_name": "Ace Attorney Turnabout Collection",
       "file": "missing/A/146326-ace-attorney-turnabout-collection.json"
-    },
-    {
-      "igdb_id": 308533,
-      "game_name": "Ace Attorney: Athena Cykes - Wisdom at Law",
-      "file": "missing/A/308533-ace-attorney-athena-cykes-wisdom-at-law.json"
     },
     {
       "igdb_id": 308543,
@@ -101628,6 +101623,11 @@
       "file": "missing/G/339253-galaga-wave-mixer.json"
     },
     {
+      "igdb_id": 12895,
+      "game_name": "Galaga: Destination Earth",
+      "file": "missing/G/12895-galaga-destination-earth.json"
+    },
+    {
       "igdb_id": 197342,
       "game_name": "Galagi Shooter",
       "file": "missing/G/197342-galagi-shooter.json"
@@ -138568,6 +138568,11 @@
       "file": "missing/K/272022-keiji-j-b-harold-no-jikenbo-murder-club.json"
     },
     {
+      "igdb_id": 12912,
+      "game_name": "Keio Flying Squadron",
+      "file": "missing/K/12912-keio-flying-squadron.json"
+    },
+    {
       "igdb_id": 19417,
       "game_name": "Keio Flying Squadron 2",
       "file": "missing/K/19417-keio-flying-squadron-2.json"
@@ -146298,6 +146303,11 @@
       "file": "missing/L/208391-legends-of-the-shadows.json"
     },
     {
+      "igdb_id": 12903,
+      "game_name": "Legends of Valour",
+      "file": "missing/L/12903-legends-of-valour.json"
+    },
+    {
       "igdb_id": 69302,
       "game_name": "Legends of Zork",
       "file": "missing/L/69302-legends-of-zork.json"
@@ -150523,6 +150533,11 @@
       "file": "missing/L/235217-london-crazy-taxi.json"
     },
     {
+      "igdb_id": 12897,
+      "game_name": "London Racer II",
+      "file": "missing/L/12897-london-racer-ii.json"
+    },
+    {
       "igdb_id": 15438,
       "game_name": "London Racer: Destruction Madness",
       "file": "missing/L/15438-london-racer-destruction-madness.json"
@@ -153616,6 +153631,11 @@
       "igdb_id": 336544,
       "game_name": "M13n: Miniaturization",
       "file": "missing/M/336544-m13n-miniaturization.json"
+    },
+    {
+      "igdb_id": 12896,
+      "game_name": "M25 Racer",
+      "file": "missing/M/12896-m25-racer.json"
     },
     {
       "igdb_id": 94232,
@@ -162166,6 +162186,11 @@
       "igdb_id": 4003,
       "game_name": "Men in Black II: Alien Escape",
       "file": "missing/M/4003-men-in-black-ii-alien-escape.json"
+    },
+    {
+      "igdb_id": 12898,
+      "game_name": "Men in Black: The Game",
+      "file": "missing/M/12898-men-in-black-the-game.json"
     },
     {
       "igdb_id": 52590,
@@ -227258,6 +227283,11 @@
       "file": "missing/S/401536-scorched-lands.json"
     },
     {
+      "igdb_id": 12906,
+      "game_name": "Scorched Planet",
+      "file": "missing/S/12906-scorched-planet.json"
+    },
+    {
       "igdb_id": 331873,
       "game_name": "Scorching Strings",
       "file": "missing/S/331873-scorching-strings.json"
@@ -286623,6 +286653,11 @@
       "file": "missing/T/43287-time-crisis-crisis-zone.json"
     },
     {
+      "igdb_id": 12899,
+      "game_name": "Time Crisis: Project Titan",
+      "file": "missing/T/12899-time-crisis-project-titan.json"
+    },
+    {
       "igdb_id": 66089,
       "game_name": "Time Cruise",
       "file": "missing/T/66089-time-cruise.json"
@@ -299578,6 +299613,11 @@
       "file": "missing/U/116989-universal-space-station.json"
     },
     {
+      "igdb_id": 12904,
+      "game_name": "Universal Studios Monsters: Monsterville",
+      "file": "missing/U/12904-universal-studios-monsters-monsterville.json"
+    },
+    {
       "igdb_id": 106561,
       "game_name": "Universally Loved",
       "file": "missing/U/106561-universally-loved.json"
@@ -303576,6 +303616,11 @@
       "igdb_id": 114348,
       "game_name": "Vip Em Up - The action movies stars beat em up Ep.0 ( beta )",
       "file": "missing/V/114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json"
+    },
+    {
+      "igdb_id": 12901,
+      "game_name": "Viper",
+      "file": "missing/V/12901-viper.json"
     },
     {
       "igdb_id": 313497,
@@ -311181,6 +311226,11 @@
       "igdb_id": 259539,
       "game_name": "Windstorm: Double Pack",
       "file": "missing/W/259539-windstorm-double-pack.json"
+    },
+    {
+      "igdb_id": 12902,
+      "game_name": "Windsurfers Paradise",
+      "file": "missing/W/12902-windsurfers-paradise.json"
     },
     {
       "igdb_id": 213988,
