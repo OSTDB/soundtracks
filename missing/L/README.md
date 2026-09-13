@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake Masters | 67302 | [67302-lake-masters.json](./67302-lake-masters.json) |
 | Lake Masters 2 | 67298 | [67298-lake-masters-2.json](./67298-lake-masters-2.json) |
 | Lake Masters Pro | 67300 | [67300-lake-masters-pro.json](./67300-lake-masters-pro.json) |
+| Lake Ridden | 27943 | [27943-lake-ridden.json](./27943-lake-ridden.json) |
 | Lake Road | 173242 | [173242-lake-road.json](./173242-lake-road.json) |
 | Lakefront Restaurant | 272303 | [272303-lakefront-restaurant.json](./272303-lakefront-restaurant.json) |
 | Lakehouse | 191189 | [191189-lakehouse.json](./191189-lakehouse.json) |
