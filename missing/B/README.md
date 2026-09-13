@@ -3701,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout 3: Takedown | 5761 | [5761-burnout-3-takedown.json](./5761-burnout-3-takedown.json) |
 | Burnout Dominator | 6203 | [6203-burnout-dominator.json](./6203-burnout-dominator.json) |
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
+| Burnout Legends | 10916 | [10916-burnout-legends.json](./10916-burnout-legends.json) |
 | Burnout Mobile | 342038 | [342038-burnout-mobile.json](./342038-burnout-mobile.json) |
 | Burnout Paradise: The Ultimate Box | 10067 | [10067-burnout-paradise-the-ultimate-box.json](./10067-burnout-paradise-the-ultimate-box.json) |
 | Burnouts | 111640 | [111640-burnouts.json](./111640-burnouts.json) |
