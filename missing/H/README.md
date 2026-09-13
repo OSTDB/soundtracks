@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habblet | 274195 | [274195-habblet.json](./274195-habblet.json) |
 | Habitat Complex | 312896 | [312896-habitat-complex.json](./312896-habitat-complex.json) |
 | Hacha Mecha Fighter | 40182 | [40182-hacha-mecha-fighter.json](./40182-hacha-mecha-fighter.json) |
+| Hack | 2875 | [2875-hack.json](./2875-hack.json) |
 | Hack 0 | 272813 | [272813-hack-0.json](./272813-hack-0.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
@@ -750,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heated | 211220 | [211220-heated.json](./211220-heated.json) |
 | Heated Battles Shooter | 143005 | [143005-heated-battles-shooter.json](./143005-heated-battles-shooter.json) |
 | Heathen | 401473 | [401473-heathen.json](./401473-heathen.json) |
+| Heathkit DND | 2881 | [2881-heathkit-dnd.json](./2881-heathkit-dnd.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
@@ -1345,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi Color | 228450 | [228450-hi-color.json](./228450-hi-color.json) |
 | Hi Eggplant: The Birth of Sprites | 245850 | [245850-hi-eggplant-the-birth-of-sprites.json](./245850-hi-eggplant-the-birth-of-sprites.json) |
 | Hi Hi Puffy AmiYumi Treasure Island | 141151 | [141151-hi-hi-puffy-amiyumi-treasure-island.json](./141151-hi-hi-puffy-amiyumi-treasure-island.json) |
+| Hi Hi Puffy AmiYumi: The Genie and the Amp | 2818 | [2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json](./2818-hi-hi-puffy-amiyumi-the-genie-and-the-amp.json) |
 | Hi-5 DVD Game | 274991 | [274991-hi-5-dvd-game.json](./274991-hi-5-dvd-game.json) |
 | Hi-5: Fun & Games | 274993 | [274993-hi-5-fun-and-games.json](./274993-hi-5-fun-and-games.json) |
 | Hi-5: Fun Club | 274992 | [274992-hi-5-fun-club.json](./274992-hi-5-fun-club.json) |
