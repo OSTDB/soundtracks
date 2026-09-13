@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Paddle: Lost in the Game | 268186 | [268186-kid-paddle-lost-in-the-game.json](./268186-kid-paddle-lost-in-the-game.json) |
 | Kid Pilot | 375866 | [375866-kid-pilot.json](./375866-kid-pilot.json) |
 | Kid Speedy | 135867 | [135867-kid-speedy.json](./135867-kid-speedy.json) |
+| Kid Tripp | 36758 | [36758-kid-tripp.json](./36758-kid-tripp.json) |
 | Kid's Activity Center | 87688 | [87688-kids-activity-center.json](./87688-kids-activity-center.json) |
 | Kid's Cards | 49335 | [49335-kids-cards.json](./49335-kids-cards.json) |
 | Kid's Literacy Games | 88212 | [88212-kids-literacy-games.json](./88212-kids-literacy-games.json) |
