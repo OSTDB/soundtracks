@@ -289,7 +289,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
-| Action Replay Max | 43302 | [43302-action-replay-max.json](./43302-action-replay-max.json) |
 | Action Toys | 193953 | [193953-action-toys.json](./193953-action-toys.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Actionloop Twist | 23044 | [23044-actionloop-twist.json](./23044-actionloop-twist.json) |
