@@ -236,7 +236,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - F-15 S/MTD Set | 282589 | [282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json](./282589-ace-combat-7-skies-unknown-f-15-s-mtd-set.json) |
 | Ace Combat 7: Skies Unknown - FB-22 Strike Raptor Set | 282590 | [282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json](./282590-ace-combat-7-skies-unknown-fb-22-strike-raptor-set.json) |
 | Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
-| Ace Combat 7: Skies Unknown - Premium Edition | 139975 | [139975-ace-combat-7-skies-unknown-premium-edition.json](./139975-ace-combat-7-skies-unknown-premium-edition.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Ultimate Edition | 205250 | [205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json](./205250-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition.json) |
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
