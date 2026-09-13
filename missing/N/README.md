@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
 | Nekoglai Simulator | 193409 | [193409-nekoglai-simulator.json](./193409-nekoglai-simulator.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
+| Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
 | Nelda Nockbladder's Anatomy Lesson | 73284 | [73284-nelda-nockbladders-anatomy-lesson.json](./73284-nelda-nockbladders-anatomy-lesson.json) |
@@ -1112,9 +1113,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
 | Ninja Gaiden | 175905 | [175905-ninja-gaiden.json](./175905-ninja-gaiden.json) |
 | Ninja Gaiden | 239925 | [239925-ninja-gaiden.json](./239925-ninja-gaiden.json) |
+| Ninja Gaiden 3 | 7122 | [7122-ninja-gaiden-3.json](./7122-ninja-gaiden-3.json) |
 | Ninja Gaiden 3: Razor's Edge | 5317 | [5317-ninja-gaiden-3-razors-edge.json](./5317-ninja-gaiden-3-razors-edge.json) |
 | Ninja Gaiden 3DS | 269572 | [269572-ninja-gaiden-3ds.json](./269572-ninja-gaiden-3ds.json) |
 | Ninja Gaiden III: The Ancient Ship of Doom | 17249 | [17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
+| Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
 | Ninja Gaiden Sigma 2: Collector's Edition | 44657 | [44657-ninja-gaiden-sigma-2-collectors-edition.json](./44657-ninja-gaiden-sigma-2-collectors-edition.json) |
 | Ninja Gaiden Sigma 2: Premium Box | 298018 | [298018-ninja-gaiden-sigma-2-premium-box.json](./298018-ninja-gaiden-sigma-2-premium-box.json) |
 | Ninja Gaiden: Dragon Scroll | 269875 | [269875-ninja-gaiden-dragon-scroll.json](./269875-ninja-gaiden-dragon-scroll.json) |
