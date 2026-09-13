@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dānshēngǒu de Zuìhòu Jīhuì | 130962 | [130962-danshengou-de-zuihou-jihui.json](./130962-danshengou-de-zuihou-jihui.json) |
 | Dante's Cowboy | 258456 | [258456-dantes-cowboy.json](./258456-dantes-cowboy.json) |
 | Dante's Inferno | 28854 | [28854-dantes-inferno.json](./28854-dantes-inferno.json) |
+| Dante's Inferno | 6958 | [6958-dantes-inferno.json](./6958-dantes-inferno.json) |
 | Dante's Inferno: Dark Forest Pack | 172772 | [172772-dantes-inferno-dark-forest-pack.json](./172772-dantes-inferno-dark-forest-pack.json) |
 | Dante's Inferno: Divine Edition | 44610 | [44610-dantes-inferno-divine-edition.json](./44610-dantes-inferno-divine-edition.json) |
 | Dante's Inferno: Trials of St. Lucia | 21747 | [21747-dantes-inferno-trials-of-st-lucia.json](./21747-dantes-inferno-trials-of-st-lucia.json) |
@@ -377,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls III: The Convergence | 188607 | [188607-dark-souls-iii-the-convergence.json](./188607-dark-souls-iii-the-convergence.json) |
 | Dark Souls: Collector's Edition | 44607 | [44607-dark-souls-collectors-edition.json](./44607-dark-souls-collectors-edition.json) |
+| Dark Souls: Prepare to Die Edition | 21040 | [21040-dark-souls-prepare-to-die-edition.json](./21040-dark-souls-prepare-to-die-edition.json) |
 | Dark Star | 134598 | [134598-dark-star.json](./134598-dark-star.json) |
 | Dark Summoner | 38900 | [38900-dark-summoner.json](./38900-dark-summoner.json) |
 | Dark Sun | 278964 | [278964-dark-sun.json](./278964-dark-sun.json) |
@@ -717,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
+| Dead Rising 2 | 496 | [496-dead-rising-2.json](./496-dead-rising-2.json) |
 | Dead Rising 2: Case Zero | 20409 | [20409-dead-rising-2-case-zero.json](./20409-dead-rising-2-case-zero.json) |
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
@@ -1244,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demon's Revenge | 13587 | [13587-demons-revenge.json](./13587-demons-revenge.json) |
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
+| Demon's Souls | 134606 | [134606-demons-souls.json](./134606-demons-souls.json) |
 | Demon's Tier+ | 134015 | [134015-demons-tier.json](./134015-demons-tier.json) |
 | Demon's World | 39634 | [39634-demons-world.json](./39634-demons-world.json) |
 | Demonborg Mining Co | 367391 | [367391-demonborg-mining-co.json](./367391-demonborg-mining-co.json) |
@@ -1549,6 +1553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Jam | 291855 | [291855-devil-jam.json](./291855-devil-jam.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
+| Devil May Cry 2 | 135 | [135-devil-may-cry-2.json](./135-devil-may-cry-2.json) |
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
 | Devil May Cry HD Collection & 4 Special Edition Bundle | 218517 | [218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json](./218517-devil-may-cry-hd-collection-and-4-special-edition-bundle.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
@@ -1936,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
 | Disco Elysium: Game Boy Edition | 140050 | [140050-disco-elysium-game-boy-edition.json](./140050-disco-elysium-game-boy-edition.json) |
+| Disco Elysium: The Final Cut | 141540 | [141540-disco-elysium-the-final-cut.json](./141540-disco-elysium-the-final-cut.json) |
 | Disco Elysium: The Final Cut Bundle | 249486 | [249486-disco-elysium-the-final-cut-bundle.json](./249486-disco-elysium-the-final-cut-bundle.json) |
 | Disco Tomb | 217299 | [217299-disco-tomb.json](./217299-disco-tomb.json) |
 | Disco Zombie Fever | 240200 | [240200-disco-zombie-fever.json](./240200-disco-zombie-fever.json) |
@@ -2491,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
 | Donut Break 2: Head to Head | 214516 | [214516-donut-break-2-head-to-head.json](./214516-donut-break-2-head-to-head.json) |
+| Donut County | 55080 | [55080-donut-county.json](./55080-donut-county.json) |
 | Donut Crabs | 206715 | [206715-donut-crabs.json](./206715-donut-crabs.json) |
 | Donut Drop by ABCya | 96075 | [96075-donut-drop-by-abcya.json](./96075-donut-drop-by-abcya.json) |
 | Donut Get! | 51173 | [51173-donut-get.json](./51173-donut-get.json) |
@@ -3268,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
+| Driver | 675 | [675-driver.json](./675-driver.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
 | Driver's Work Trip | 185150 | [185150-drivers-work-trip.json](./185150-drivers-work-trip.json) |
 | Driver4VR | 152871 | [152871-driver4vr.json](./152871-driver4vr.json) |
