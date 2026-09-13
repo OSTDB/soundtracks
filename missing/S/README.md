@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows on the Walls | 262967 | [262967-shadows-on-the-walls.json](./262967-shadows-on-the-walls.json) |
 | Shadows Over Loathing | 225615 | [225615-shadows-over-loathing.json](./225615-shadows-over-loathing.json) |
 | Shadows Over Loathing: Collector’s Edition | 247193 | [247193-shadows-over-loathing-collector-s-edition.json](./247193-shadows-over-loathing-collector-s-edition.json) |
+| Shadows Peak | 18406 | [18406-shadows-peak.json](./18406-shadows-peak.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
@@ -2891,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slashy Chords: Guitar Warriors | 256541 | [256541-slashy-chords-guitar-warriors.json](./256541-slashy-chords-guitar-warriors.json) |
 | Slashy Hero | 31357 | [31357-slashy-hero.json](./31357-slashy-hero.json) |
 | Slashy Knight | 105925 | [105925-slashy-knight.json](./105925-slashy-knight.json) |
+| Slashy Souls | 18107 | [18107-slashy-souls.json](./18107-slashy-souls.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
@@ -4412,6 +4414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Kadet | 123598 | [123598-space-kadet.json](./123598-space-kadet.json) |
 | Space Kids | 69806 | [69806-space-kids.json](./69806-space-kids.json) |
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
+| Space Legends: At the Edge of the Universe | 17948 | [17948-space-legends-at-the-edge-of-the-universe.json](./17948-space-legends-at-the-edge-of-the-universe.json) |
 | Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
 | Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
@@ -5396,6 +5399,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Scum | 292533 | [292533-star-scum.json](./292533-star-scum.json) |
 | Star Sentinel Tactics | 67329 | [67329-star-sentinel-tactics.json](./67329-star-sentinel-tactics.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
+| Star Sky | 18015 | [18015-star-sky.json](./18015-star-sky.json) |
+| Star Sky 2 | 18462 | [18462-star-sky-2.json](./18462-star-sky-2.json) |
 | Star Sky 3 | 109702 | [109702-star-sky-3.json](./109702-star-sky-3.json) |
 | Star Soldier | 48240 | [48240-star-soldier.json](./48240-star-soldier.json) |
 | Star Soldier vs. DoDonPachi Daioujou Caravan'06 | 365107 | [365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json](./365107-star-soldier-vs-dodonpachi-daioujou-caravan06.json) |
