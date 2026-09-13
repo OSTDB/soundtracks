@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Pilot | 6316 | [6316-banjo-pilot.json](./6316-banjo-pilot.json) |
 | Banjo-Threeie | 200644 | [200644-banjo-threeie.json](./200644-banjo-threeie.json) |
+| Bank Panic | 6083 | [6083-bank-panic.json](./6083-bank-panic.json) |
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
 | Bank Robbery Royale: Battle Simulator | 100937 | [100937-bank-robbery-royale-battle-simulator.json](./100937-bank-robbery-royale-battle-simulator.json) |
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
@@ -2171,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz Smash Ultimate | 369023 | [369023-blitz-smash-ultimate.json](./369023-blitz-smash-ultimate.json) |
 | Blitz Society | 386109 | [386109-blitz-society.json](./386109-blitz-society.json) |
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
+| Blitz: The League | 5753 | [5753-blitz-the-league.json](./5753-blitz-the-league.json) |
 | Blitz!: Action Football | 41991 | [41991-blitz-action-football.json](./41991-blitz-action-football.json) |
 | Blitzkrieg 2 Anthology | 36260 | [36260-blitzkrieg-2-anthology.json](./36260-blitzkrieg-2-anthology.json) |
 | Blitzkrieg 3: Deluxe Edition | 52653 | [52653-blitzkrieg-3-deluxe-edition.json](./52653-blitzkrieg-3-deluxe-edition.json) |
@@ -2572,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boing! | 95472 | [95472-boing.json](./95472-boing.json) |
 | Boinihi: The Ki Codex | 172188 | [172188-boinihi-the-ki-codex.json](./172188-boinihi-the-ki-codex.json) |
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
+| Boktai 2: Solar Boy Django | 6329 | [6329-boktai-2-solar-boy-django.json](./6329-boktai-2-solar-boy-django.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
 | Boku no Mirai ha, Koi to Kakin to.: Charge to the Future | 194539 | [194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json](./194539-boku-no-mirai-ha-koi-to-kakin-to-charge-to-the-future.json) |
