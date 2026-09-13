@@ -2817,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
 | Art of the Rail | 153400 | [153400-art-of-the-rail.json](./153400-art-of-the-rail.json) |
 | Art Puzzle | 354421 | [354421-art-puzzle.json](./354421-art-puzzle.json) |
+| Art Sqool | 110421 | [110421-art-sqool.json](./110421-art-sqool.json) |
 | Art Strikers | 316070 | [316070-art-strikers.json](./316070-art-strikers.json) |
 | Art Strip Poker | 96021 | [96021-art-strip-poker.json](./96021-art-strip-poker.json) |
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
