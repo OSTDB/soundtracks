@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Wars | 200187 | [200187-zen-wars.json](./200187-zen-wars.json) |
 | Zen-Ichi | 82119 | [82119-zen-ichi.json](./82119-zen-ichi.json) |
 | Zen-Nippon Joshi Pro Wrestling: Queen of Queens | 45954 | [45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json](./45954-zen-nippon-joshi-pro-wrestling-queen-of-queens.json) |
+| Zen: Intergalactic Ninja | 48251 | [48251-zen-intergalactic-ninja.json](./48251-zen-intergalactic-ninja.json) |
 | ZenBlade | 58268 | [58268-zenblade.json](./58268-zenblade.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
 | Zenful Journey | 249489 | [249489-zenful-journey.json](./249489-zenful-journey.json) |
@@ -494,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
 | ZunZun Block | 172657 | [172657-zunzun-block.json](./172657-zunzun-block.json) |
+| Zup! 5 | 38784 | [38784-zup-5.json](./38784-zup-5.json) |
 | Zupay: Shadows of Independence | 374072 | [374072-zupay-shadows-of-independence.json](./374072-zupay-shadows-of-independence.json) |
 | Zurarararush!!! | 293386 | [293386-zurarararush.json](./293386-zurarararush.json) |
 | Zusar Vasar | 58167 | [58167-zusar-vasar.json](./58167-zusar-vasar.json) |
