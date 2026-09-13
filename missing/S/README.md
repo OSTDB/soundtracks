@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentience | 143695 | [143695-sentience.json](./143695-sentience.json) |
 | Sentient Noir | 219618 | [219618-sentient-noir.json](./219618-sentient-noir.json) |
 | Sentimental Graffiti | 124264 | [124264-sentimental-graffiti.json](./124264-sentimental-graffiti.json) |
+| Sentinel Heroes | 23641 | [23641-sentinel-heroes.json](./23641-sentinel-heroes.json) |
 | Sentinel of Innocence | 301827 | [301827-sentinel-of-innocence.json](./301827-sentinel-of-innocence.json) |
 | Sentinel Point Heroes | 226441 | [226441-sentinel-point-heroes.json](./226441-sentinel-point-heroes.json) |
 | Sentinel Returns | 45303 | [45303-sentinel-returns.json](./45303-sentinel-returns.json) |
@@ -4288,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceman Defender | 120371 | [120371-spaceman-defender.json](./120371-spaceman-defender.json) |
 | Spaceman Memories | 250972 | [250972-spaceman-memories.json](./250972-spaceman-memories.json) |
 | Spacemancer | 200716 | [200716-spacemancer.json](./200716-spacemancer.json) |
+| SpaceMaster X-7 | 23844 | [23844-spacemaster-x-7.json](./23844-spacemaster-x-7.json) |
 | SpacePom | 192367 | [192367-spacepom.json](./192367-spacepom.json) |
 | SpaceRace | 267688 | [267688-spacerace.json](./267688-spacerace.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
@@ -5102,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
 | Star Trek V: The Final Frontier | 69831 | [69831-star-trek-v-the-final-frontier.json](./69831-star-trek-v-the-final-frontier.json) |
+| Star Trek: Alien Domain | 23645 | [23645-star-trek-alien-domain.json](./23645-star-trek-alien-domain.json) |
 | Star Trek: Borg | 70345 | [70345-star-trek-borg.json](./70345-star-trek-borg.json) |
 | Star Trek: En Territoire Alien | 110351 | [110351-star-trek-en-territoire-alien.json](./110351-star-trek-en-territoire-alien.json) |
 | Star Trek: Generations - Beyond the Nexus | 365692 | [365692-star-trek-generations-beyond-the-nexus.json](./365692-star-trek-generations-beyond-the-nexus.json) |
