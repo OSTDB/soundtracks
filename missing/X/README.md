@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xod.io | 130942 | [130942-xod-io.json](./130942-xod-io.json) |
 | Xolo & the Forgotten Gods | 350414 | [350414-xolo-and-the-forgotten-gods.json](./350414-xolo-and-the-forgotten-gods.json) |
 | Xolotl | 195762 | [195762-xolotl.json](./195762-xolotl.json) |
+| Xolt | 18085 | [18085-xolt.json](./18085-xolt.json) |
 | Xombee | 150634 | [150634-xombee.json](./150634-xombee.json) |
 | Xonix | 304330 | [304330-xonix.json](./304330-xonix.json) |
 | Xonox Double-Ender: Tomarc the Barbarian & Motocross Racer | 40743 | [40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json](./40743-xonox-double-ender-tomarc-the-barbarian-and-motocross-racer.json) |
