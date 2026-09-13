@@ -309,7 +309,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Add Astra | 292305 | [292305-add-astra.json](./292305-add-astra.json) |
-| Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
 | Addiction Pinball | 69860 | [69860-addiction-pinball.json](./69860-addiction-pinball.json) |
 | Addie no Okurimono: To Moze from Addie | 64903 | [64903-addie-no-okurimono-to-moze-from-addie.json](./64903-addie-no-okurimono-to-moze-from-addie.json) |
 | Addition | 76606 | [76606-addition.json](./76606-addition.json) |
