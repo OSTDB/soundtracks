@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud | 37112 | [37112-family-feud.json](./37112-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
+| Family Game Night 4: The Game Show | 20220 | [20220-family-game-night-4-the-game-show.json](./20220-family-game-night-4-the-game-show.json) |
 | Family Games | 45930 | [45930-family-games.json](./45930-family-games.json) |
 | Family Games Compendium | 79241 | [79241-family-games-compendium.json](./79241-family-games-compendium.json) |
 | Family Games II: Junk Food Jive | 45929 | [45929-family-games-ii-junk-food-jive.json](./45929-family-games-ii-junk-food-jive.json) |
