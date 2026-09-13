@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence in the Cabin | 236255 | [236255-silence-in-the-cabin.json](./236255-silence-in-the-cabin.json) |
 | Silence-Dream | 310728 | [310728-silence-dream.json](./310728-silence-dream.json) |
 | Silence, Exile, and Cunning | 391061 | [391061-silence-exile-and-cunning.json](./391061-silence-exile-and-cunning.json) |
+| Silenced: The House | 89438 | [89438-silenced-the-house.json](./89438-silenced-the-house.json) |
 | Silent Anomalies | 337071 | [337071-silent-anomalies.json](./337071-silent-anomalies.json) |
 | Silent Breath | 287462 | [287462-silent-breath.json](./287462-silent-breath.json) |
 | Silent Castle | 212491 | [212491-silent-castle.json](./212491-silent-castle.json) |
@@ -2614,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Textures #3 | 321123 | [321123-six-textures-3.json](./321123-six-textures-3.json) |
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
+| Six! | 88774 | [88774-six.json](./88774-six.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Sixtar Gate: Startrail - Flower & Destiny Pack | 225093 | [225093-sixtar-gate-startrail-flower-and-destiny-pack.json](./225093-sixtar-gate-startrail-flower-and-destiny-pack.json) |
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
@@ -3379,6 +3381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Shooter: Gun Shooting | 86982 | [86982-sniper-shooter-gun-shooting.json](./86982-sniper-shooter-gun-shooting.json) |
 | Sniper Squad Mission | 99659 | [99659-sniper-squad-mission.json](./99659-sniper-squad-mission.json) |
 | Sniper Strike 3D | 237365 | [237365-sniper-strike-3d.json](./237365-sniper-strike-3d.json) |
+| Sniper Strike: Special Ops | 89492 | [89492-sniper-strike-special-ops.json](./89492-sniper-strike-special-ops.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
 | Sniper: Ghost Warrior 3 | 10964 | [10964-sniper-ghost-warrior-3.json](./10964-sniper-ghost-warrior-3.json) |
@@ -3654,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire - Smart Moves | 102725 | [102725-solitaire-smart-moves.json](./102725-solitaire-smart-moves.json) |
 | Solitaire (Klondike) | 89221 | [89221-solitaire-klondike.json](./89221-solitaire-klondike.json) |
 | Solitaire & Mahjong | 117660 | [117660-solitaire-and-mahjong.json](./117660-solitaire-and-mahjong.json) |
+| Solitaire 3D | 89738 | [89738-solitaire-3d.json](./89738-solitaire-3d.json) |
 | Solitaire After Hours | 386147 | [386147-solitaire-after-hours.json](./386147-solitaire-after-hours.json) |
 | Solitaire Antics Ultimate Plus | 54388 | [54388-solitaire-antics-ultimate-plus.json](./54388-solitaire-antics-ultimate-plus.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
@@ -4969,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
+| SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
@@ -6441,6 +6446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Surfers | 251589 | [251589-subway-surfers.json](./251589-subway-surfers.json) |
 | Subway Surfers 2018 - Pet vs Police | 103450 | [103450-subway-surfers-2018-pet-vs-police.json](./103450-subway-surfers-2018-pet-vs-police.json) |
 | Subway Surfers Blast | 247170 | [247170-subway-surfers-blast.json](./247170-subway-surfers-blast.json) |
+| Subway Train Simulator 2D | 88647 | [88647-subway-train-simulator-2d.json](./88647-subway-train-simulator-2d.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | Subwords | 173801 | [173801-subwords.json](./173801-subwords.json) |
 | Successfully Learning German: Year 3 | 85407 | [85407-successfully-learning-german-year-3.json](./85407-successfully-learning-german-year-3.json) |
@@ -7699,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
 | Sven-Göran Eriksson's World Manager | 136991 | [136991-sven-goran-erikssons-world-manager.json](./136991-sven-goran-erikssons-world-manager.json) |
 | Sverigespelet | 300684 | [300684-sverigespelet.json](./300684-sverigespelet.json) |
+| Swagbucks Live | 88542 | [88542-swagbucks-live.json](./88542-swagbucks-live.json) |
 | Swagman | 20810 | [20810-swagman.json](./20810-swagman.json) |
 | Swallowtail Butterfly Princess of Sexual Techniques | 82887 | [82887-swallowtail-butterfly-princess-of-sexual-techniques.json](./82887-swallowtail-butterfly-princess-of-sexual-techniques.json) |
 | Swallowtail: Ano Hi, Ao wo Koete | 402897 | [402897-swallowtail-ano-hi-ao-wo-koete.json](./402897-swallowtail-ano-hi-ao-wo-koete.json) |
