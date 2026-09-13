@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu Hayami no American Kids: Eigo de Tango | 293910 | [293910-yu-hayami-no-american-kids-eigo-de-tango.json](./293910-yu-hayami-no-american-kids-eigo-de-tango.json) |
 | Yu Suzuki Game Works Vol. 1 | 56453 | [56453-yu-suzuki-game-works-vol-1.json](./56453-yu-suzuki-game-works-vol-1.json) |
 | Yu Yu Hakusho: Dark Martial Arts Club | 208940 | [208940-yu-yu-hakusho-dark-martial-arts-club.json](./208940-yu-yu-hakusho-dark-martial-arts-club.json) |
+| Yu Yu Hakusho: Ghost Files - Dark Tournament | 43525 | [43525-yu-yu-hakusho-ghost-files-dark-tournament.json](./43525-yu-yu-hakusho-ghost-files-dark-tournament.json) |
 | Yu-Gi-Oh! 5D's Tag Force 5 | 42854 | [42854-yu-gi-oh-5ds-tag-force-5.json](./42854-yu-gi-oh-5ds-tag-force-5.json) |
 | Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 | 68039 | [68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json](./68039-yu-gi-oh-7-trials-to-glory-world-championship-tournament-2005.json) |
 | Yu-Gi-Oh! Cross Duel | 174874 | [174874-yu-gi-oh-cross-duel.json](./174874-yu-gi-oh-cross-duel.json) |
