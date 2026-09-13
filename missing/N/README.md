@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narc | 307956 | [307956-narc.json](./307956-narc.json) |
 | Narc | 307957 | [307957-narc.json](./307957-narc.json) |
 | Narcis Crosswords | 304028 | [304028-narcis-crosswords.json](./304028-narcis-crosswords.json) |
+| Narcissu | 95463 | [95463-narcissu.json](./95463-narcissu.json) |
 | Narcissu 3rd -Die Dritte Welt- | 93513 | [93513-narcissu-3rd-die-dritte-welt.json](./93513-narcissu-3rd-die-dritte-welt.json) |
 | Narcissu: A Little Iris | 127324 | [127324-narcissu-a-little-iris.json](./127324-narcissu-a-little-iris.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
@@ -403,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Drifting | 249229 | [249229-need-for-drifting.json](./249229-need-for-drifting.json) |
 | Need For Madness 2 | 63232 | [63232-need-for-madness-2.json](./63232-need-for-madness-2.json) |
 | Need for Speed II | 91 | [91-need-for-speed-ii.json](./91-need-for-speed-ii.json) |
+| Need for Speed Rivals: Complete Edition | 118896 | [118896-need-for-speed-rivals-complete-edition.json](./118896-need-for-speed-rivals-complete-edition.json) |
 | Need for Speed Unbound: Palace Edition | 220860 | [220860-need-for-speed-unbound-palace-edition.json](./220860-need-for-speed-unbound-palace-edition.json) |
 | Need for Speed: Carbon | 248118 | [248118-need-for-speed-carbon.json](./248118-need-for-speed-carbon.json) |
 | Need for Speed: Carbon - Own the City | 197881 | [197881-need-for-speed-carbon-own-the-city.json](./197881-need-for-speed-carbon-own-the-city.json) |
@@ -472,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekobabaa: Melonbooks Omake Tokubetsu-hen | 212253 | [212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json](./212253-nekobabaa-melonbooks-omake-tokubetsu-hen.json) |
 | Nekoglai Simulator | 193409 | [193409-nekoglai-simulator.json](./193409-nekoglai-simulator.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
+| Nekopara Extra | 106416 | [106416-nekopara-extra.json](./106416-nekopara-extra.json) |
 | Nekopara Vol. 1 | 26653 | [26653-nekopara-vol-1.json](./26653-nekopara-vol-1.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nekron: 24 | 323199 | [323199-nekron-24.json](./323199-nekron-24.json) |
