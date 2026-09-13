@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Shop Simulator | 381044 | [381044-game-shop-simulator.json](./381044-game-shop-simulator.json) |
 | Game Software wo Tsukurou | 333557 | [333557-game-software-wo-tsukurou.json](./333557-game-software-wo-tsukurou.json) |
+| Game Soup | 112966 | [112966-game-soup.json](./112966-game-soup.json) |
 | Game Stock Car 2013 | 62132 | [62132-game-stock-car-2013.json](./62132-game-stock-car-2013.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
 | Game Title: Lost Levels | 143097 | [143097-game-title-lost-levels.json](./143097-game-title-lost-levels.json) |
@@ -1109,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
+| Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Plague Monkey! Go! | 60558 | [60558-go-plague-monkey-go.json](./60558-go-plague-monkey-go.json) |
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
