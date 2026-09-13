@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Heavy Machinery vs. Shumai | 409528 | [409528-heavy-machinery-vs-shumai.json](./409528-heavy-machinery-vs-shumai.json) |
 | Heavy Metal | 12141 | [12141-heavy-metal.json](./12141-heavy-metal.json) |
+| Heavy Nova | 5392 | [5392-heavy-nova.json](./5392-heavy-nova.json) |
 | Heavy Rain & Beyond: Two Souls - Collection | 44547 | [44547-heavy-rain-and-beyond-two-souls-collection.json](./44547-heavy-rain-and-beyond-two-souls-collection.json) |
 | Heavy Rain: Director's Cut | 45279 | [45279-heavy-rain-directors-cut.json](./45279-heavy-rain-directors-cut.json) |
 | Heavy Rain: Special Edition | 103386 | [103386-heavy-rain-special-edition.json](./103386-heavy-rain-special-edition.json) |
@@ -802,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heiankyo Parameters | 247530 | [247530-heiankyo-parameters.json](./247530-heiankyo-parameters.json) |
 | Heidelberg 1693 | 135841 | [135841-heidelberg-1693.json](./135841-heidelberg-1693.json) |
 | Heileen 1: Sail Away | 17441 | [17441-heileen-1-sail-away.json](./17441-heileen-1-sail-away.json) |
+| Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
 | Heir of Darkness | 127250 | [127250-heir-of-darkness.json](./127250-heir-of-darkness.json) |
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
