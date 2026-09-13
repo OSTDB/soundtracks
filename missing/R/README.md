@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratatouille | 281842 | [281842-ratatouille.json](./281842-ratatouille.json) |
 | Ratatouille | 281843 | [281843-ratatouille.json](./281843-ratatouille.json) |
 | Ratatouille: Food Frenzy | 18296 | [18296-ratatouille-food-frenzy.json](./18296-ratatouille-food-frenzy.json) |
+| Ratchet & Clank | 253141 | [253141-ratchet-and-clank.json](./253141-ratchet-and-clank.json) |
 | Ratchet & Clank Collection | 19994 | [19994-ratchet-and-clank-collection.json](./19994-ratchet-and-clank-collection.json) |
 | Ratchet & Clank: A Crack in Time - Collector's Edition | 45276 | [45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json](./45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json) |
 | Ratchet & Clank: Clone Home | 225652 | [225652-ratchet-and-clank-clone-home.json](./225652-ratchet-and-clank-clone-home.json) |
@@ -941,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reggor F. | 361722 | [361722-reggor-f.json](./361722-reggor-f.json) |
 | Regiments: Winds of Change | 270935 | [270935-regiments-winds-of-change.json](./270935-regiments-winds-of-change.json) |
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
+| Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
 | Regular Ordinary Boy | 51166 | [51166-regular-ordinary-boy.json](./51166-regular-ordinary-boy.json) |
 | Regular Show: Battle of the Behemoths | 185661 | [185661-regular-show-battle-of-the-behemoths.json](./185661-regular-show-battle-of-the-behemoths.json) |
 | Regular Show: Fist Punch | 185663 | [185663-regular-show-fist-punch.json](./185663-regular-show-fist-punch.json) |
@@ -1837,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocco Wars | 72649 | [72649-robocco-wars.json](./72649-robocco-wars.json) |
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
+| RoboCop | 59110 | [59110-robocop.json](./59110-robocop.json) |
 | RoboCop | 6013 | [6013-robocop.json](./6013-robocop.json) |
 | RoboCop 3 | 19695 | [19695-robocop-3.json](./19695-robocop-3.json) |
 | RoboCop Versus the Terminator | 8195 | [8195-robocop-versus-the-terminator.json](./8195-robocop-versus-the-terminator.json) |
@@ -2717,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Retirement x Vampire Survivors | 339632 | [339632-rustys-retirement-x-vampire-survivors.json](./339632-rustys-retirement-x-vampire-survivors.json) |
 | Rusty's Retirement: Supporter Pack | 305770 | [305770-rustys-retirement-supporter-pack.json](./305770-rustys-retirement-supporter-pack.json) |
 | Rustyard | 322354 | [322354-rustyard.json](./322354-rustyard.json) |
+| Ruthnar Online | 293325 | [293325-ruthnar-online.json](./293325-ruthnar-online.json) |
 | Ruzar: The Dark Stones | 310217 | [310217-ruzar-the-dark-stones.json](./310217-ruzar-the-dark-stones.json) |
 | Ruzzle | 58212 | [58212-ruzzle.json](./58212-ruzzle.json) |
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
