@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
+| A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Koopa's Revenge | 261814 | [261814-a-koopas-revenge.json](./261814-a-koopas-revenge.json) |
 | A Letter For You! | 184082 | [184082-a-letter-for-you.json](./184082-a-letter-for-you.json) |
@@ -1218,6 +1219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Slayers | 233772 | [233772-alien-slayers.json](./233772-alien-slayers.json) |
 | Alien Space Bastards | 188688 | [188688-alien-space-bastards.json](./188688-alien-space-bastards.json) |
 | Alien SpaceCraft | 96773 | [96773-alien-spacecraft.json](./96773-alien-spacecraft.json) |
+| Alien Swarm: Reactive Drop | 27523 | [27523-alien-swarm-reactive-drop.json](./27523-alien-swarm-reactive-drop.json) |
 | Alien Swirl | 15594 | [15594-alien-swirl.json](./15594-alien-swirl.json) |
 | Alien Tequila | 73263 | [73263-alien-tequila.json](./73263-alien-tequila.json) |
 | Alien Tower | 259543 | [259543-alien-tower.json](./259543-alien-tower.json) |
@@ -1258,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliosso | 288767 | [288767-aliosso.json](./288767-aliosso.json) |
 | Alipache in Wonderworld | 204708 | [204708-alipache-in-wonderworld.json](./204708-alipache-in-wonderworld.json) |
 | Alisha's Sexual Fear | 373529 | [373529-alishas-sexual-fear.json](./373529-alishas-sexual-fear.json) |
+| Alisia Dragoon | 19508 | [19508-alisia-dragoon.json](./19508-alisia-dragoon.json) |
 | Alive | 226212 | [226212-alive.json](./226212-alive.json) |
 | Alive | 287661 | [287661-alive.json](./287661-alive.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
@@ -1807,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Breaker | 280802 | [280802-angry-birds-breaker.json](./280802-angry-birds-breaker.json) |
 | Angry Birds Double Crossed | 240248 | [240248-angry-birds-double-crossed.json](./240248-angry-birds-double-crossed.json) |
 | Angry Birds Dream Blast | 114424 | [114424-angry-birds-dream-blast.json](./114424-angry-birds-dream-blast.json) |
+| Angry Birds Epic | 19276 | [19276-angry-birds-epic.json](./19276-angry-birds-epic.json) |
 | Angry Birds FPS: First Person Slingshot | 111021 | [111021-angry-birds-fps-first-person-slingshot.json](./111021-angry-birds-fps-first-person-slingshot.json) |
 | Angry Birds Google+ | 245001 | [245001-angry-birds-google.json](./245001-angry-birds-google.json) |
 | Angry Birds Hatchery Island | 280801 | [280801-angry-birds-hatchery-island.json](./280801-angry-birds-hatchery-island.json) |
