@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
+| Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
 | Calcium Contract | 251814 | [251814-calcium-contract.json](./251814-calcium-contract.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Addition" | 105924 | [105924-calculation-castle-grecos-ghostly-challenge-addition.json](./105924-calculation-castle-grecos-ghostly-challenge-addition.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Division" | 105923 | [105923-calculation-castle-grecos-ghostly-challenge-division.json](./105923-calculation-castle-grecos-ghostly-challenge-division.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
+| Clem | 203449 | [203449-clem.json](./203449-clem.json) |
 | Cleo: A Pirate's Tale - Deluxe Edition | 186887 | [186887-cleo-a-pirates-tale-deluxe-edition.json](./186887-cleo-a-pirates-tale-deluxe-edition.json) |
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
 | Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
@@ -3692,6 +3694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout: Cleaner Starter Pack | 243104 | [243104-crossout-cleaner-starter-pack.json](./243104-crossout-cleaner-starter-pack.json) |
 | Crossout: Savior | 235767 | [235767-crossout-savior.json](./235767-crossout-savior.json) |
 | Crossover Collab | 379890 | [379890-crossover-collab.json](./379890-crossover-collab.json) |
+| CrossOver: Roll For Initiative | 202861 | [202861-crossover-roll-for-initiative.json](./202861-crossover-roll-for-initiative.json) |
 | Crossroad of Worlds: Magic Stars - Collector's Edition | 255708 | [255708-crossroad-of-worlds-magic-stars-collectors-edition.json](./255708-crossroad-of-worlds-magic-stars-collectors-edition.json) |
 | Crossroad OS | 259007 | [259007-crossroad-os.json](./259007-crossroad-os.json) |
 | Crossroads | 377570 | [377570-crossroads.json](./377570-crossroads.json) |
@@ -4010,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Bistro!! 2 | 264338 | [264338-cupid-bistro-2.json](./264338-cupid-bistro-2.json) |
 | Cupid Bistro!! Max | 264333 | [264333-cupid-bistro-max.json](./264333-cupid-bistro-max.json) |
 | Cupid Date | 225264 | [225264-cupid-date.json](./225264-cupid-date.json) |
+| Cupid Parasite: Sweet and Spicy Darling | 200558 | [200558-cupid-parasite-sweet-and-spicy-darling.json](./200558-cupid-parasite-sweet-and-spicy-darling.json) |
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
