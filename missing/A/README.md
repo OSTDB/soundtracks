@@ -260,12 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
-| Acid Worship | 271740 | [271740-acid-worship.json](./271740-acid-worship.json) |
-| Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
-| ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
-| ACME Animation Factory | 3044 | [3044-acme-animation-factory.json](./3044-acme-animation-factory.json) |
-| Acme Bricks | 97351 | [97351-acme-bricks.json](./97351-acme-bricks.json) |
 | Acorn Hunt | 293078 | [293078-acorn-hunt.json](./293078-acorn-hunt.json) |
 | Acorn Tactics | 76573 | [76573-acorn-tactics.json](./76573-acorn-tactics.json) |
 | Acorn-A-Thon | 307328 | [307328-acorn-a-thon.json](./307328-acorn-a-thon.json) |
