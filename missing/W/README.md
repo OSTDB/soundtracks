@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: Red Dragon - Norse Dragons | 170454 | [170454-wargame-red-dragon-norse-dragons.json](./170454-wargame-red-dragon-norse-dragons.json) |
 | Wargame: Red Dragon - Second Korean War | 170455 | [170455-wargame-red-dragon-second-korean-war.json](./170455-wargame-red-dragon-second-korean-war.json) |
 | Wargame: Red Dragon - The Millionth Mile | 170457 | [170457-wargame-red-dragon-the-millionth-mile.json](./170457-wargame-red-dragon-the-millionth-mile.json) |
+| Wargroove | 27441 | [27441-wargroove.json](./27441-wargroove.json) |
 | WarGround | 114441 | [114441-warground.json](./114441-warground.json) |
 | Warhammer 40,000: Armageddon - Angels of Death | 53889 | [53889-warhammer-40-000-armageddon-angels-of-death.json](./53889-warhammer-40-000-armageddon-angels-of-death.json) |
 | Warhammer 40,000: Armageddon - Glory of Macragge | 53890 | [53890-warhammer-40-000-armageddon-glory-of-macragge.json](./53890-warhammer-40-000-armageddon-glory-of-macragge.json) |
@@ -348,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhaos | 161406 | [161406-warhaos.json](./161406-warhaos.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
 | Warhound | 378158 | [378158-warhound.json](./378158-warhound.json) |
+| Wario Land 3 | 1698 | [1698-wario-land-3.json](./1698-wario-land-3.json) |
 | Wario Land 4: Burning Nightmares | 339250 | [339250-wario-land-4-burning-nightmares.json](./339250-wario-land-4-burning-nightmares.json) |
 | Wario Land: Shake It! | 1702 | [1702-wario-land-shake-it.json](./1702-wario-land-shake-it.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
@@ -1819,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WormJuice Skateboarding Olympics | 159795 | [159795-wormjuice-skateboarding-olympics.json](./159795-wormjuice-skateboarding-olympics.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
 | Worms Forts 3D | 218730 | [218730-worms-forts-3d.json](./218730-worms-forts-3d.json) |
+| Worms Reloaded | 1017 | [1017-worms-reloaded.json](./1017-worms-reloaded.json) |
 | Worms Reloaded: Puzzle Pack | 163430 | [163430-worms-reloaded-puzzle-pack.json](./163430-worms-reloaded-puzzle-pack.json) |
 | Worms Revolution: Customization Pack | 225085 | [225085-worms-revolution-customization-pack.json](./225085-worms-revolution-customization-pack.json) |
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
