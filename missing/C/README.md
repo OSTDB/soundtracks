@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare III - Season 3 | 298563 | [298563-call-of-duty-modern-warfare-iii-season-3.json](./298563-call-of-duty-modern-warfare-iii-season-3.json) |
 | Call of Duty: Modern Warfare III - Season 4 | 304046 | [304046-call-of-duty-modern-warfare-iii-season-4.json](./304046-call-of-duty-modern-warfare-iii-season-4.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
+| Call of Duty: Vanguard | 165067 | [165067-call-of-duty-vanguard.json](./165067-call-of-duty-vanguard.json) |
 | Call of Duty: Vanguard - Season Four | 205058 | [205058-call-of-duty-vanguard-season-four.json](./205058-call-of-duty-vanguard-season-four.json) |
 | Call of Duty: Warchest | 240503 | [240503-call-of-duty-warchest.json](./240503-call-of-duty-warchest.json) |
 | Call of Duty: Warzone | 131800 | [131800-call-of-duty-warzone.json](./131800-call-of-duty-warzone.json) |
@@ -714,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Circle of the Moon | 1132 | [1132-castlevania-circle-of-the-moon.json](./1132-castlevania-circle-of-the-moon.json) |
 | Castlevania: Circle of the Moon - Card Mode | 219075 | [219075-castlevania-circle-of-the-moon-card-mode.json](./219075-castlevania-circle-of-the-moon-card-mode.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
+| Castlevania: Harmony of Dissonance | 1133 | [1133-castlevania-harmony-of-dissonance.json](./1133-castlevania-harmony-of-dissonance.json) |
 | Castlevania: Harmony of Dissonance - Revenge of the Findesiecle | 215165 | [215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json](./215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json) |
 | Castlevania: Lords of Shadow | 491 | [491-castlevania-lords-of-shadow.json](./491-castlevania-lords-of-shadow.json) |
 | Castlevania: Lords of Shadow - Reverie | 10075 | [10075-castlevania-lords-of-shadow-reverie.json](./10075-castlevania-lords-of-shadow-reverie.json) |
@@ -2301,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
+| Colin McRae Rally | 7967 | [7967-colin-mcrae-rally.json](./7967-colin-mcrae-rally.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
@@ -2779,6 +2782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control Season Pass | 122314 | [122314-control-season-pass.json](./122314-control-season-pass.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
+| Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
 | Controller Sync | 209489 | [209489-controller-sync.json](./209489-controller-sync.json) |
 | Convenient | 217010 | [217010-convenient.json](./217010-convenient.json) |
 | Convenient Encounters | 236501 | [236501-convenient-encounters.json](./236501-convenient-encounters.json) |
@@ -3235,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Nitro Kart | 210238 | [210238-crash-nitro-kart.json](./210238-crash-nitro-kart.json) |
 | Crash Nitro Kart | 222884 | [222884-crash-nitro-kart.json](./222884-crash-nitro-kart.json) |
 | Crash Nitro Mini Golf | 336385 | [336385-crash-nitro-mini-golf.json](./336385-crash-nitro-mini-golf.json) |
+| Crash of the Titans | 1190 | [1190-crash-of-the-titans.json](./1190-crash-of-the-titans.json) |
 | Crash of the Titans | 197928 | [197928-crash-of-the-titans.json](./197928-crash-of-the-titans.json) |
 | Crash of the Titans | 197929 | [197929-crash-of-the-titans.json](./197929-crash-of-the-titans.json) |
 | Crash of the Titans | 210235 | [210235-crash-of-the-titans.json](./210235-crash-of-the-titans.json) |
