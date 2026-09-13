@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
 | Galaga Wars+ | 291975 | [291975-galaga-wars.json](./291975-galaga-wars.json) |
 | Galaga Wave Mixer | 339253 | [339253-galaga-wave-mixer.json](./339253-galaga-wave-mixer.json) |
+| Galaga: Destination Earth | 12895 | [12895-galaga-destination-earth.json](./12895-galaga-destination-earth.json) |
 | Galagi Shooter | 197342 | [197342-galagi-shooter.json](./197342-galagi-shooter.json) |
 | Galahad | 46595 | [46595-galahad.json](./46595-galahad.json) |
 | Galak-Z: The Virtual | 111039 | [111039-galak-z-the-virtual.json](./111039-galak-z-the-virtual.json) |
@@ -373,6 +374,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Kart 2: All You Can Drift | 345489 | [345489-garfield-kart-2-all-you-can-drift.json](./345489-garfield-kart-2-all-you-can-drift.json) |
 | Garfield Labyrinth | 153452 | [153452-garfield-labyrinth.json](./153452-garfield-labyrinth.json) |
 | Garfield Rush | 130887 | [130887-garfield-rush.json](./130887-garfield-rush.json) |
+| Garfield: Big, Fat, Hairy Deal | 12111 | [12111-garfield-big-fat-hairy-deal.json](./12111-garfield-big-fat-hairy-deal.json) |
+| Garfield: Winter's Tail | 12112 | [12112-garfield-winters-tail.json](./12112-garfield-winters-tail.json) |
 | Garfield's Defense 2: The Food Invaders Strike Back | 63862 | [63862-garfields-defense-2-the-food-invaders-strike-back.json](./63862-garfields-defense-2-the-food-invaders-strike-back.json) |
 | Garfield's Defense: Attack of the Food Invaders | 63864 | [63864-garfields-defense-attack-of-the-food-invaders.json](./63864-garfields-defense-attack-of-the-food-invaders.json) |
 | Garfield's Diner | 63863 | [63863-garfields-diner.json](./63863-garfields-diner.json) |
@@ -450,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazmatera: Return of the Generals | 149039 | [149039-gazmatera-return-of-the-generals.json](./149039-gazmatera-return-of-the-generals.json) |
 | GB Genjin Land: Viva! Chikkun Oukoku | 64344 | [64344-gb-genjin-land-viva-chikkun-oukoku.json](./64344-gb-genjin-land-viva-chikkun-oukoku.json) |
 | GB Rober | 152875 | [152875-gb-rober.json](./152875-gb-rober.json) |
+| GBA Championship Basketball: Two-on-Two | 12114 | [12114-gba-championship-basketball-two-on-two.json](./12114-gba-championship-basketball-two-on-two.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
 | Gear Puzzle: the inheritance of grandpa | 120943 | [120943-gear-puzzle-the-inheritance-of-grandpa.json](./120943-gear-puzzle-the-inheritance-of-grandpa.json) |
@@ -469,12 +473,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gecko Blaster | 43256 | [43256-gecko-blaster.json](./43256-gecko-blaster.json) |
 | Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
+| Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
 | Geflect | 181908 | [181908-geflect.json](./181908-geflect.json) |
 | Geg 2: Nazad v Budushchee | 303242 | [303242-geg-2-nazad-v-budushchee.json](./303242-geg-2-nazad-v-budushchee.json) |
 | Geheimprojekt DMSO | 84227 | [84227-geheimprojekt-dmso.json](./84227-geheimprojekt-dmso.json) |
 | Gehena | 192459 | [192459-gehena.json](./192459-gehena.json) |
 | Gehirn Sport Sammlung | 81388 | [81388-gehirn-sport-sammlung.json](./81388-gehirn-sport-sammlung.json) |
+| Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geki Kuukan Pro Baseball: At the End of the Century 1999 | 302700 | [302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json](./302700-geki-kuukan-pro-baseball-at-the-end-of-the-century-1999.json) |
 | Gekitotsu! Saikyou Pro Yakyuu Dream Battle | 220303 | [220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json](./220303-gekitotsu-saikyou-pro-yakyuu-dream-battle.json) |
@@ -500,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini | 139404 | [139404-gemini.json](./139404-gemini.json) |
 | Gemini | 86115 | [86115-gemini.json](./86115-gemini.json) |
 | Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
+| Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
@@ -1239,9 +1246,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Miner: Classic Edition | 360579 | [360579-gold-miner-classic-edition.json](./360579-gold-miner-classic-edition.json) |
 | Gold Miner: Vegas | 188566 | [188566-gold-miner-vegas.json](./188566-gold-miner-vegas.json) |
 | Gold Monkey | 63280 | [63280-gold-monkey.json](./63280-gold-monkey.json) |
+| Gold of the Americas: The Conquest of the New World | 12119 | [12119-gold-of-the-americas-the-conquest-of-the-new-world.json](./12119-gold-of-the-americas-the-conquest-of-the-new-world.json) |
 | Gold of the Incas Solitaire | 294741 | [294741-gold-of-the-incas-solitaire.json](./294741-gold-of-the-incas-solitaire.json) |
 | Gold Runner | 146816 | [146816-gold-runner.json](./146816-gold-runner.json) |
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
+| Gold Rush! | 12121 | [12121-gold-rush.json](./12121-gold-rush.json) |
 | Gold Rush! Classic | 36288 | [36288-gold-rush-classic.json](./36288-gold-rush-classic.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Golden Axe | 279631 | [279631-golden-axe.json](./279631-golden-axe.json) |
@@ -1396,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
+| Goofy's Railway Express | 12122 | [12122-goofys-railway-express.json](./12122-goofys-railway-express.json) |
 | Googass | 165667 | [165667-googass.json](./165667-googass.json) |
 | Google Blocks | 115730 | [115730-google-blocks.json](./115730-google-blocks.json) |
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
@@ -1550,12 +1560,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Master | 48695 | [48695-grand-master.json](./48695-grand-master.json) |
 | Grand Miami Mafia Crime: Fight to Survive | 96017 | [96017-grand-miami-mafia-crime-fight-to-survive.json](./96017-grand-miami-mafia-crime-fight-to-survive.json) |
 | Grand Mini Slam | 255742 | [255742-grand-mini-slam.json](./255742-grand-mini-slam.json) |
+| Grand Monster Slam | 12123 | [12123-grand-monster-slam.json](./12123-grand-monster-slam.json) |
 | Grand Mountain Adventure 2 | 324130 | [324130-grand-mountain-adventure-2.json](./324130-grand-mountain-adventure-2.json) |
 | Grand Poo World | 138218 | [138218-grand-poo-world.json](./138218-grand-poo-world.json) |
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
 | Grand Prix | 18103 | [18103-grand-prix.json](./18103-grand-prix.json) |
 | Grand Prix | 385557 | [385557-grand-prix.json](./385557-grand-prix.json) |
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
+| Grand Prix Circuit | 12124 | [12124-grand-prix-circuit.json](./12124-grand-prix-circuit.json) |
 | Grand Prix Formula One | 314865 | [314865-grand-prix-formula-one.json](./314865-grand-prix-formula-one.json) |
 | Grand Prix Manager | 78019 | [78019-grand-prix-manager.json](./78019-grand-prix-manager.json) |
 | Grand Slam | 20812 | [20812-grand-slam.json](./20812-grand-slam.json) |
@@ -2238,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutter: The Perished | 296902 | [296902-gutter-the-perished.json](./296902-gutter-the-perished.json) |
 | Gutter: The Reject | 257691 | [257691-gutter-the-reject.json](./257691-gutter-the-reject.json) |
 | Guuguuthropus | 143656 | [143656-guuguuthropus.json](./143656-guuguuthropus.json) |
+| Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
 | GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
 | Gwonchong Sonyeo Kiugi | 234637 | [234637-gwonchong-sonyeo-kiugi.json](./234637-gwonchong-sonyeo-kiugi.json) |
 | Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
