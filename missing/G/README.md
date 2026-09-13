@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
+| Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Quest | 195269 | [195269-grim-quest.json](./195269-grim-quest.json) |
 | Grim Reaper RPG | 134617 | [134617-grim-reaper-rpg.json](./134617-grim-reaper-rpg.json) |
 | Grim Repair | 176986 | [176986-grim-repair.json](./176986-grim-repair.json) |
@@ -2128,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfighter | 347675 | [347675-gunfighter.json](./347675-gunfighter.json) |
 | Gunfighter | 95448 | [95448-gunfighter.json](./95448-gunfighter.json) |
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
+| GunGirl 2 | 23720 | [23720-gungirl-2.json](./23720-gungirl-2.json) |
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
 | Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
