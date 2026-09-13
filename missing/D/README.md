@@ -701,12 +701,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Mayhem | 105305 | [105305-dead-mayhem.json](./105305-dead-mayhem.json) |
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
+| Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
 | Dead or Alive 1 Ultimate | 1391 | [1391-dead-or-alive-1-ultimate.json](./1391-dead-or-alive-1-ultimate.json) |
 | Dead or Alive 2 Millennium | 39623 | [39623-dead-or-alive-2-millennium.json](./39623-dead-or-alive-2-millennium.json) |
 | Dead or Alive 2 Ultimate | 47302 | [47302-dead-or-alive-2-ultimate.json](./47302-dead-or-alive-2-ultimate.json) |
 | Dead or Alive 2: Hardcore | 77986 | [77986-dead-or-alive-2-hardcore.json](./77986-dead-or-alive-2-hardcore.json) |
+| Dead or Alive 3 | 1389 | [1389-dead-or-alive-3.json](./1389-dead-or-alive-3.json) |
 | Dead or Alive 3++ | 182485 | [182485-dead-or-alive-3.json](./182485-dead-or-alive-3.json) |
 | Dead or Alive 5 Last Round: Core Fighters - Samurai Warriors Mashup Set | 225905 | [225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json](./225905-dead-or-alive-5-last-round-core-fighters-samurai-warriors-mashup-set.json) |
 | Dead or Alive 5: Last Round - Character: Mai Shiranui | 246628 | [246628-dead-or-alive-5-last-round-character-mai-shiranui.json](./246628-dead-or-alive-5-last-round-character-mai-shiranui.json) |
@@ -884,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Race | 8561 | [8561-death-race.json](./8561-death-race.json) |
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
+| Death Rally | 665 | [665-death-rally.json](./665-death-rally.json) |
 | Death Remains | 333380 | [333380-death-remains.json](./333380-death-remains.json) |
 | Death ring | 282006 | [282006-death-ring.json](./282006-death-ring.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
@@ -1995,6 +1998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney 100 | 275590 | [275590-disney-100.json](./275590-disney-100.json) |
 | Disney Classic Games: Aladdin and The Lion King - The Jungle Book and More Aladdin Pack | 204668 | [204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json](./204668-disney-classic-games-aladdin-and-the-lion-king-the-jungle-book-and-more-aladdin-pack.json) |
 | Disney Classics: Master Mouse - Show Time Quiz | 228447 | [228447-disney-classics-master-mouse-show-time-quiz.json](./228447-disney-classics-master-mouse-show-time-quiz.json) |
+| Disney Dreamlight Valley | 198506 | [198506-disney-dreamlight-valley.json](./198506-disney-dreamlight-valley.json) |
 | Disney Dreamlight Valley: Emotional Rescue | 362263 | [362263-disney-dreamlight-valley-emotional-rescue.json](./362263-disney-dreamlight-valley-emotional-rescue.json) |
 | Disney Dreamlight Valley: Missions in Uncharted Space | 228430 | [228430-disney-dreamlight-valley-missions-in-uncharted-space.json](./228430-disney-dreamlight-valley-missions-in-uncharted-space.json) |
 | Disney Dreamlight Valley: Return to Beast's Castle | 371229 | [371229-disney-dreamlight-valley-return-to-beasts-castle.json](./371229-disney-dreamlight-valley-return-to-beasts-castle.json) |
@@ -2018,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney The Little Mermaid: Undersea Treasures! | 328255 | [328255-disney-the-little-mermaid-undersea-treasures.json](./328255-disney-the-little-mermaid-undersea-treasures.json) |
 | Disney Toy Box | 342649 | [342649-disney-toy-box.json](./342649-disney-toy-box.json) |
 | Disney Two Pack I Big Hero 6: Battle In the Bay & Frozen: Olaf's Quest | 79914 | [79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json](./79914-disney-two-pack-i-big-hero-6-battle-in-the-bay-and-frozen-olafs-quest.json) |
+| Disney's 102 Dalmatians: Puppies to the Rescue | 2361 | [2361-disneys-102-dalmatians-puppies-to-the-rescue.json](./2361-disneys-102-dalmatians-puppies-to-the-rescue.json) |
 | Disney's A Christmas Carol | 21086 | [21086-disneys-a-christmas-carol.json](./21086-disneys-a-christmas-carol.json) |
 | Disney's Adventures in Typing with Timon & Pumbaa | 167278 | [167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json](./167278-disneys-adventures-in-typing-with-timon-and-pumbaa.json) |
 | Disney's Aladdin | 2473 | [2473-disneys-aladdin.json](./2473-disneys-aladdin.json) |
