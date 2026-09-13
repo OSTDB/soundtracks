@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T00:48:46.639Z",
-  "total_missing": 63985,
+  "generated_at": "2026-09-13T00:51:35.045Z",
+  "total_missing": 63984,
   "games": [
     {
       "igdb_id": 306086,
@@ -3276,11 +3276,6 @@
       "igdb_id": 44596,
       "game_name": "Acceleration of Suguri X-Edition",
       "file": "missing/A/44596-acceleration-of-suguri-x-edition.json"
-    },
-    {
-      "igdb_id": 277863,
-      "game_name": "Access Block",
-      "file": "missing/A/277863-access-block.json"
     },
     {
       "igdb_id": 174269,
