@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Crystal Labyrinth | 82812 | [82812-ice-crystal-labyrinth.json](./82812-ice-crystal-labyrinth.json) |
 | Ice Hockey | 57656 | [57656-ice-hockey.json](./57656-ice-hockey.json) |
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
+| Ice Lakes | 20206 | [20206-ice-lakes.json](./20206-ice-lakes.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
 | Ice Queen Wedding Salon: Frost Bridal Game | 86832 | [86832-ice-queen-wedding-salon-frost-bridal-game.json](./86832-ice-queen-wedding-salon-frost-bridal-game.json) |
@@ -1056,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internal Incident | 372983 | [372983-internal-incident.json](./372983-internal-incident.json) |
 | Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
+| International Athletics | 20321 | [20321-international-athletics.json](./20321-international-athletics.json) |
 | International Athletics | 272847 | [272847-international-athletics.json](./272847-international-athletics.json) |
 | International Basketball Manager 23 | 224551 | [224551-international-basketball-manager-23.json](./224551-international-basketball-manager-23.json) |
 | International Bridge Contractors | 69797 | [69797-international-bridge-contractors.json](./69797-international-bridge-contractors.json) |
