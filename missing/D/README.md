@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
 | Dead Rising 2 | 496 | [496-dead-rising-2.json](./496-dead-rising-2.json) |
 | Dead Rising 2: Case Zero | 20409 | [20409-dead-rising-2-case-zero.json](./20409-dead-rising-2-case-zero.json) |
+| Dead Rising 3: Operation Broken Eagle | 20933 | [20933-dead-rising-3-operation-broken-eagle.json](./20933-dead-rising-3-operation-broken-eagle.json) |
 | Dead Rising 4: Capcom Heroes | 202965 | [202965-dead-rising-4-capcom-heroes.json](./202965-dead-rising-4-capcom-heroes.json) |
 | Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
 | Disney's Bonkers: Wax Up! | 57622 | [57622-disneys-bonkers-wax-up.json](./57622-disneys-bonkers-wax-up.json) |
 | Disney's Brother Bear | 248637 | [248637-disneys-brother-bear.json](./248637-disneys-brother-bear.json) |
+| Disney's Chicken Little: Ace in Action | 20627 | [20627-disneys-chicken-little-ace-in-action.json](./20627-disneys-chicken-little-ace-in-action.json) |
 | Disney's Chip 'n Dale Rescue Rangers: The Adventure in Nimnul's Castle | 78641 | [78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json](./78641-disneys-chip-n-dale-rescue-rangers-the-adventure-in-nimnuls-castle.json) |
 | Disney's Cinderella: Magical Dreams | 49376 | [49376-disneys-cinderella-magical-dreams.json](./49376-disneys-cinderella-magical-dreams.json) |
 | Disney's Dinosaur Activity Center | 72123 | [72123-disneys-dinosaur-activity-center.json](./72123-disneys-dinosaur-activity-center.json) |
