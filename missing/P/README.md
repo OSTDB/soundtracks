@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playground VR | 143690 | [143690-playground-vr.json](./143690-playground-vr.json) |
 | PlayGuys | 320538 | [320538-playguys.json](./320538-playguys.json) |
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
+| Playing History: Vikings | 12074 | [12074-playing-history-vikings.json](./12074-playing-history-vikings.json) |
 | Playing House | 335262 | [335262-playing-house.json](./335262-playing-house.json) |
 | Playing With Fire 2 | 202372 | [202372-playing-with-fire-2.json](./202372-playing-with-fire-2.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
