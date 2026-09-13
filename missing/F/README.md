@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fable Anniversary | 7658 | [7658-fable-anniversary.json](./7658-fable-anniversary.json) |
+| Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
 | Fable: 20th Anniversary Demake | 342668 | [342668-fable-20th-anniversary-demake.json](./342668-fable-20th-anniversary-demake.json) |
@@ -890,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Manager 07 | 20676 | [20676-fifa-manager-07.json](./20676-fifa-manager-07.json) |
 | FIFA Manager 08 | 20678 | [20678-fifa-manager-08.json](./20678-fifa-manager-08.json) |
 | FIFA Manager 10 | 20680 | [20680-fifa-manager-10.json](./20680-fifa-manager-10.json) |
+| FIFA Manager 11 | 20682 | [20682-fifa-manager-11.json](./20682-fifa-manager-11.json) |
 | FIFA Manager 12 | 20684 | [20684-fifa-manager-12.json](./20684-fifa-manager-12.json) |
 | FIFA Manager 13 | 20686 | [20686-fifa-manager-13.json](./20686-fifa-manager-13.json) |
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
@@ -1812,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy's Adventure | 380419 | [380419-fluffys-adventure.json](./380419-fluffys-adventure.json) |
 | Fluffy's Adventure | 381026 | [381026-fluffys-adventure.json](./381026-fluffys-adventure.json) |
 | Fluid | 94223 | [94223-fluid.json](./94223-fluid.json) |
+| Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
 | Flupp the Fish | 264040 | [264040-flupp-the-fish.json](./264040-flupp-the-fish.json) |
 | FlurryHurry! | 323522 | [323522-flurryhurry.json](./323522-flurryhurry.json) |
@@ -2375,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank and 10 roots | 116286 | [116286-frank-and-10-roots.json](./116286-frank-and-10-roots.json) |
 | Frank and Drake | 152923 | [152923-frank-and-drake.json](./152923-frank-and-drake.json) |
 | Frank Fux | 294422 | [294422-frank-fux.json](./294422-frank-fux.json) |
+| Frank Thomas Big Hurt Baseball | 20405 | [20405-frank-thomas-big-hurt-baseball.json](./20405-frank-thomas-big-hurt-baseball.json) |
 | Frank Thomas Big Hurt Baseball | 365680 | [365680-frank-thomas-big-hurt-baseball.json](./365680-frank-thomas-big-hurt-baseball.json) |
 | Frank's Adventure | 191258 | [191258-franks-adventure.json](./191258-franks-adventure.json) |
 | Franken Girl | 208014 | [208014-franken-girl.json](./208014-franken-girl.json) |
