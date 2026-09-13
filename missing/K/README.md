@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
 | Karaoke Party | 137687 | [137687-karaoke-party.json](./137687-karaoke-party.json) |
 | Karaoke Revolution Glee: Volume 2 | 50617 | [50617-karaoke-revolution-glee-volume-2.json](./50617-karaoke-revolution-glee-volume-2.json) |
+| Karaoke Revolution Glee: Volume 3 | 50616 | [50616-karaoke-revolution-glee-volume-3.json](./50616-karaoke-revolution-glee-volume-3.json) |
 | Karaoke Revolution Presents: American Idol Encore 2 | 47432 | [47432-karaoke-revolution-presents-american-idol-encore-2.json](./47432-karaoke-revolution-presents-american-idol-encore-2.json) |
 | Karaoke Revolution: Glee | 50618 | [50618-karaoke-revolution-glee.json](./50618-karaoke-revolution-glee.json) |
 | Karaoke Revolution: J-POP Best vol.1 | 71469 | [71469-karaoke-revolution-j-pop-best-vol-1.json](./71469-karaoke-revolution-j-pop-best-vol-1.json) |
