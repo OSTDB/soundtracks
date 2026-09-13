@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Rush | 102366 | [102366-geometry-rush.json](./102366-geometry-rush.json) |
 | Geomoth Boot Sequence | 289312 | [289312-geomoth-boot-sequence.json](./289312-geomoth-boot-sequence.json) |
 | Geon Cube | 50636 | [50636-geon-cube.json](./50636-geon-cube.json) |
+| Geon: Emotions | 20376 | [20376-geon-emotions.json](./20376-geon-emotions.json) |
 | Geopogo Cities | 393468 | [393468-geopogo-cities.json](./393468-geopogo-cities.json) |
 | Geopolitique 1990 | 24915 | [24915-geopolitique-1990.json](./24915-geopolitique-1990.json) |
 | GeoQuiz | 143015 | [143015-geoquiz.json](./143015-geoquiz.json) |
@@ -1776,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graywalkers: Purgatory | 61562 | [61562-graywalkers-purgatory.json](./61562-graywalkers-purgatory.json) |
 | Graze Counter GM | 211893 | [211893-graze-counter-gm.json](./211893-graze-counter-gm.json) |
 | GRE Words Puzzle | 110300 | [110300-gre-words-puzzle.json](./110300-gre-words-puzzle.json) |
+| Grease Dance | 20218 | [20218-grease-dance.json](./20218-grease-dance.json) |
 | Grease Monkey Grand Prix | 343238 | [343238-grease-monkey-grand-prix.json](./343238-grease-monkey-grand-prix.json) |
 | Great Adventures: Castle | 167280 | [167280-great-adventures-castle.json](./167280-great-adventures-castle.json) |
 | Great Adventures: Pirate Ship | 63892 | [63892-great-adventures-pirate-ship.json](./63892-great-adventures-pirate-ship.json) |
@@ -2277,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunmancer | 164963 | [164963-gunmancer.json](./164963-gunmancer.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
 | Gunner 3 | 259821 | [259821-gunner-3.json](./259821-gunner-3.json) |
+| Gunnheim | 20207 | [20207-gunnheim.json](./20207-gunnheim.json) |
 | GunnRunner | 117063 | [117063-gunnrunner.json](./117063-gunnrunner.json) |
 | GunnVR | 29908 | [29908-gunnvr.json](./29908-gunnvr.json) |
 | Gunny | 117721 | [117721-gunny.json](./117721-gunny.json) |
