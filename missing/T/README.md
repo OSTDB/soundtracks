@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tauriel Teaches Typing | 181883 | [181883-tauriel-teaches-typing.json](./181883-tauriel-teaches-typing.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
+| Tavern Cards | 129098 | [129098-tavern-cards.json](./129098-tavern-cards.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
 | Tavern of Empire | 248670 | [248670-tavern-of-empire.json](./248670-tavern-of-empire.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
@@ -1087,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
+| Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
 | Test Your Math | 27731 | [27731-test-your-math.json](./27731-test-your-math.json) |
 | Test Your Mind | 85432 | [85432-test-your-mind.json](./85432-test-your-mind.json) |
@@ -3161,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Narrator is a Dick: Longer, Harder, and Uncut | 132196 | [132196-the-narrator-is-a-dick-longer-harder-and-uncut.json](./132196-the-narrator-is-a-dick-longer-harder-and-uncut.json) |
 | The Narrator Says We're Meant to Be! | 394816 | [394816-the-narrator-says-were-meant-to-be.json](./394816-the-narrator-says-were-meant-to-be.json) |
 | The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
@@ -4472,6 +4475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Will Come | 389421 | [389421-they-will-come.json](./389421-they-will-come.json) |
 | They'll Find You | 121636 | [121636-theyll-find-you.json](./121636-theyll-find-you.json) |
 | They're Alive! | 53795 | [53795-theyre-alive.json](./53795-theyre-alive.json) |
+| Theyest Thou | 129272 | [129272-theyest-thou.json](./129272-theyest-thou.json) |
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
 | Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
 | Thickety Creek | 229049 | [229049-thickety-creek.json](./229049-thickety-creek.json) |
@@ -6033,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Maiden | 252171 | [252171-touhou-maiden.json](./252171-touhou-maiden.json) |
 | Touhou Makuka Sai: Fantastic Danmaku Festival Part III | 331125 | [331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json](./331125-touhou-makuka-sai-fantastic-danmaku-festival-part-iii.json) |
 | Touhou Mashousei: Fairies of Sorcery | 280178 | [280178-touhou-mashousei-fairies-of-sorcery.json](./280178-touhou-mashousei-fairies-of-sorcery.json) |
+| Touhou Mechanical Scrollery | 130061 | [130061-touhou-mechanical-scrollery.json](./130061-touhou-mechanical-scrollery.json) |
 | Touhou Mini Map | 292828 | [292828-touhou-mini-map.json](./292828-touhou-mini-map.json) |
 | Touhou Monster TD: Dr.Cirno | 210248 | [210248-touhou-monster-td-dr-cirno.json](./210248-touhou-monster-td-dr-cirno.json) |
 | Touhou Mother | 184129 | [184129-touhou-mother.json](./184129-touhou-mother.json) |
@@ -6966,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
 | Tropi | 209654 | [209654-tropi.json](./209654-tropi.json) |
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
+| Tropical Air hockey | 129349 | [129349-tropical-air-hockey.json](./129349-tropical-air-hockey.json) |
 | Tropical Hearts | 226444 | [226444-tropical-hearts.json](./226444-tropical-hearts.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
 | Tropical Stormfront | 9442 | [9442-tropical-stormfront.json](./9442-tropical-stormfront.json) |
@@ -6991,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
+| TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
 | Troublemaker | 153398 | [153398-troublemaker.json](./153398-troublemaker.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
