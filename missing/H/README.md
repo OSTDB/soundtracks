@@ -1000,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello World | 367420 | [367420-hello-world.json](./367420-hello-world.json) |
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
+| Hello, Good-bye | 111803 | [111803-hello-good-bye.json](./111803-hello-good-bye.json) |
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
 | Hello, Kami-sama Worker | 379354 | [379354-hello-kami-sama-worker.json](./379354-hello-kami-sama-worker.json) |
 | Hello: A Talking Simulator | 179173 | [179173-hello-a-talking-simulator.json](./179173-hello-a-talking-simulator.json) |
@@ -1646,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hijack | 13005 | [13005-hijack.json](./13005-hijack.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
+| Hikari! Clover Rescue | 113063 | [113063-hikari-clover-rescue.json](./113063-hikari-clover-rescue.json) |
 | Hikari! Love Potion | 128006 | [128006-hikari-love-potion.json](./128006-hikari-love-potion.json) |
 | Hike Trip | 232444 | [232444-hike-trip.json](./232444-hike-trip.json) |
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
@@ -2239,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Security | 339846 | [339846-hotel-security.json](./339846-hotel-security.json) |
 | Hotel Simulator 2024 | 307567 | [307567-hotel-simulator-2024.json](./307567-hotel-simulator-2024.json) |
 | Hotel Simulator 2026 | 390536 | [390536-hotel-simulator-2026.json](./390536-hotel-simulator-2026.json) |
+| Hotel Sowls | 112385 | [112385-hotel-sowls.json](./112385-hotel-sowls.json) |
 | Hotel Story | 224754 | [224754-hotel-story.json](./224754-hotel-story.json) |
 | Hotel Tales | 333351 | [333351-hotel-tales.json](./333351-hotel-tales.json) |
 | HotFloor | 102406 | [102406-hotfloor.json](./102406-hotfloor.json) |
