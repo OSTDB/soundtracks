@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safebreaker | 296373 | [296373-safebreaker.json](./296373-safebreaker.json) |
 | Safecracker | 24002 | [24002-safecracker.json](./24002-safecracker.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
+| Safecracker: The Ultimate Puzzle Adventure | 5135 | [5135-safecracker-the-ultimate-puzzle-adventure.json](./5135-safecracker-the-ultimate-puzzle-adventure.json) |
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
 | Safety Driving - The Motorbike Simulation | 54351 | [54351-safety-driving-the-motorbike-simulation.json](./54351-safety-driving-the-motorbike-simulation.json) |
 | Safety Driving: The Safety Simulation - Car | 10804 | [10804-safety-driving-the-safety-simulation-car.json](./10804-safety-driving-the-safety-simulation-car.json) |
@@ -219,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen: Kinematron Hanagumi Mail | 62122 | [62122-sakura-taisen-kinematron-hanagumi-mail.json](./62122-sakura-taisen-kinematron-hanagumi-mail.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
 | Sakura Wars | 96392 | [96392-sakura-wars.json](./96392-sakura-wars.json) |
+| Sakura Wars: So Long, My Love | 5136 | [5136-sakura-wars-so-long-my-love.json](./5136-sakura-wars-so-long-my-love.json) |
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
 | Sakura-iro Tetra Prism | 325451 | [325451-sakura-iro-tetra-prism.json](./325451-sakura-iro-tetra-prism.json) |
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
@@ -390,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandvich Maker | 294431 | [294431-sandvich-maker.json](./294431-sandvich-maker.json) |
 | Sandwich | 352206 | [352206-sandwich.json](./352206-sandwich.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
+| Sang-Froid: Tales of Werewolves | 5446 | [5446-sang-froid-tales-of-werewolves.json](./5446-sang-froid-tales-of-werewolves.json) |
 | Sangoku Heroes | 69253 | [69253-sangoku-heroes.json](./69253-sangoku-heroes.json) |
 | Sangoku Hime 2 | 63301 | [63301-sangoku-hime-2.json](./63301-sangoku-hime-2.json) |
 | Sangoku Hime: Ransei, Tenka Sanbun no Kei | 62130 | [62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json](./62130-sangoku-hime-ransei-tenka-sanbun-no-kei.json) |
@@ -2330,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
 | Simajo: The Travel Mystery Game | 54358 | [54358-simajo-the-travel-mystery-game.json](./54358-simajo-the-travel-mystery-game.json) |
 | SimAnimals | 371270 | [371270-simanimals.json](./371270-simanimals.json) |
+| SimAnimals | 5155 | [5155-simanimals.json](./5155-simanimals.json) |
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
 | SimCasino | 141132 | [141132-simcasino.json](./141132-simcasino.json) |
 | SimCity 2000 Urban Renewal Kit | 130907 | [130907-simcity-2000-urban-renewal-kit.json](./130907-simcity-2000-urban-renewal-kit.json) |
@@ -2588,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skat Stammtisch | 99613 | [99613-skat-stammtisch.json](./99613-skat-stammtisch.json) |
 | Skate City: New York | 324872 | [324872-skate-city-new-york.json](./324872-skate-city-new-york.json) |
 | Skate Hooligans | 182546 | [182546-skate-hooligans.json](./182546-skate-hooligans.json) |
+| Skate It | 5157 | [5157-skate-it.json](./5157-skate-it.json) |
 | Skate Jam | 251207 | [251207-skate-jam.json](./251207-skate-jam.json) |
 | Skate Mates | 406098 | [406098-skate-mates.json](./406098-skate-mates.json) |
 | Skate or Die | 12267 | [12267-skate-or-die.json](./12267-skate-or-die.json) |
@@ -3153,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoots World Cup Tennis | 24720 | [24720-smoots-world-cup-tennis.json](./24720-smoots-world-cup-tennis.json) |
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
 | Smuggler's Cove | 294730 | [294730-smugglers-cove.json](./294730-smugglers-cove.json) |
+| Smuggler's Run | 4154 | [4154-smugglers-run.json](./4154-smugglers-run.json) |
 | Smugglers IV: Doomsday | 54377 | [54377-smugglers-iv-doomsday.json](./54377-smugglers-iv-doomsday.json) |
 | Smugglers V | 51903 | [51903-smugglers-v.json](./51903-smugglers-v.json) |
 | Smugglers V: Invasion - Warrior Within | 51902 | [51902-smugglers-v-invasion-warrior-within.json](./51902-smugglers-v-invasion-warrior-within.json) |
@@ -4720,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man | 248203 | [248203-spider-man.json](./248203-spider-man.json) |
 | Spider-Man | 363917 | [363917-spider-man.json](./363917-spider-man.json) |
 | Spider-Man | 363918 | [363918-spider-man.json](./363918-spider-man.json) |
+| Spider-Man | 4500 | [4500-spider-man.json](./4500-spider-man.json) |
 | Spider-Man / X-Men: Arcade's Redux | 219274 | [219274-spider-man-x-men-arcades-redux.json](./219274-spider-man-x-men-arcades-redux.json) |
 | Spider-Man 2: The Sinister Six | 49971 | [49971-spider-man-2-the-sinister-six.json](./49971-spider-man-2-the-sinister-six.json) |
 | Spider-Man 3 | 218140 | [218140-spider-man-3.json](./218140-spider-man-3.json) |
@@ -5100,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSX | 4179 | [4179-ssx.json](./4179-ssx.json) |
 | SSX 3 | 186239 | [186239-ssx-3.json](./186239-ssx-3.json) |
 | SSX 3 | 4174 | [4174-ssx-3.json](./4174-ssx-3.json) |
+| SSX Blur | 4178 | [4178-ssx-blur.json](./4178-ssx-blur.json) |
 | SSX Tricky | 186240 | [186240-ssx-tricky.json](./186240-ssx-tricky.json) |
 | ST World | 269857 | [269857-st-world.json](./269857-st-world.json) |
 | Stab | 264620 | [264620-stab.json](./264620-stab.json) |
