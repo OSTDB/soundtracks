@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T00:31:36.619Z",
-  "total_missing": 63927,
+  "generated_at": "2026-09-13T00:41:28.473Z",
+  "total_missing": 63935,
   "games": [
     {
       "igdb_id": 306086,
@@ -3271,11 +3271,6 @@
       "igdb_id": 44596,
       "game_name": "Acceleration of Suguri X-Edition",
       "file": "missing/A/44596-acceleration-of-suguri-x-edition.json"
-    },
-    {
-      "igdb_id": 210902,
-      "game_name": "Acceptance",
-      "file": "missing/A/210902-acceptance.json"
     },
     {
       "igdb_id": 277863,
@@ -42753,6 +42748,11 @@
       "file": "missing/C/175914-catan.json"
     },
     {
+      "igdb_id": 19435,
+      "game_name": "Catan",
+      "file": "missing/C/19435-catan.json"
+    },
+    {
       "igdb_id": 238213,
       "game_name": "Catan: Cities & Knights",
       "file": "missing/C/238213-catan-cities-and-knights.json"
@@ -77113,6 +77113,11 @@
       "file": "missing/D/60494-dungeons-of-aledorn.json"
     },
     {
+      "igdb_id": 19476,
+      "game_name": "Dungeons of Avalon II - The Island of Darkness",
+      "file": "missing/D/19476-dungeons-of-avalon-ii-the-island-of-darkness.json"
+    },
+    {
       "igdb_id": 68203,
       "game_name": "Dungeons of Chaos",
       "file": "missing/D/68203-dungeons-of-chaos.json"
@@ -101086,6 +101091,11 @@
       "igdb_id": 137639,
       "game_name": "Galaxy Hunter: Into the Portal",
       "file": "missing/G/137639-galaxy-hunter-into-the-portal.json"
+    },
+    {
+      "igdb_id": 19436,
+      "game_name": "Galaxy in Turmoil",
+      "file": "missing/G/19436-galaxy-in-turmoil.json"
     },
     {
       "igdb_id": 47282,
@@ -244918,6 +244928,11 @@
       "file": "missing/S/261254-speed-dx.json"
     },
     {
+      "igdb_id": 19447,
+      "game_name": "Speed Elixir",
+      "file": "missing/S/19447-speed-elixir.json"
+    },
+    {
       "igdb_id": 378777,
       "game_name": "Speed Factor",
       "file": "missing/S/378777-speed-factor.json"
@@ -260103,6 +260118,11 @@
       "file": "missing/S/54422-sword-coast-legends-digital-deluxe-edition.json"
     },
     {
+      "igdb_id": 19477,
+      "game_name": "Sword Coast Legends: Rage of Demons",
+      "file": "missing/S/19477-sword-coast-legends-rage-of-demons.json"
+    },
+    {
       "igdb_id": 117673,
       "game_name": "Sword Dancer",
       "file": "missing/S/117673-sword-dancer.json"
@@ -264201,6 +264221,11 @@
       "igdb_id": 262382,
       "game_name": "Taxi Sim 2016",
       "file": "missing/T/262382-taxi-sim-2016.json"
+    },
+    {
+      "igdb_id": 19478,
+      "game_name": "TaxMan",
+      "file": "missing/T/19478-taxman.json"
     },
     {
       "igdb_id": 109622,
@@ -294503,6 +294528,11 @@
       "file": "missing/T/382751-tubbys-wonderful-town.json"
     },
     {
+      "igdb_id": 19443,
+      "game_name": "Tube Adventures",
+      "file": "missing/T/19443-tube-adventures.json"
+    },
+    {
       "igdb_id": 272569,
       "game_name": "Tube Be Continued",
       "file": "missing/T/272569-tube-be-continued.json"
@@ -314173,6 +314203,11 @@
       "file": "missing/X/67155-x-scape.json"
     },
     {
+      "igdb_id": 19482,
+      "game_name": "X-Tactics",
+      "file": "missing/X/19482-x-tactics.json"
+    },
+    {
       "igdb_id": 96124,
       "game_name": "X-Town 3D game",
       "file": "missing/X/96124-x-town-3d-game.json"
@@ -314276,6 +314311,11 @@
       "igdb_id": 339813,
       "game_name": "Xbox Party Mansion",
       "file": "missing/X/339813-xbox-party-mansion.json"
+    },
+    {
+      "igdb_id": 19451,
+      "game_name": "XCOM 2: Alien Hunters",
+      "file": "missing/X/19451-xcom-2-alien-hunters.json"
     },
     {
       "igdb_id": 225099,
