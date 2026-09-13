@@ -220,6 +220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Craft | 277570 | [277570-natural-craft.json](./277570-natural-craft.json) |
 | Natural Disasters | 211716 | [211716-natural-disasters.json](./211716-natural-disasters.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
+| Natural Selection 2 | 1335 | [1335-natural-selection-2.json](./1335-natural-selection-2.json) |
 | Natural: Beyond Nature | 30887 | [30887-natural-beyond-nature.json](./30887-natural-beyond-nature.json) |
 | Naturalealia: Forest Determination | 157147 | [157147-naturalealia-forest-determination.json](./157147-naturalealia-forest-determination.json) |
 | Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
@@ -286,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K19: The Prelude | 110326 | [110326-nba-2k19-the-prelude.json](./110326-nba-2k19-the-prelude.json) |
 | NBA 2K2 | 4029 | [4029-nba-2k2.json](./4029-nba-2k2.json) |
 | NBA 2K21: Mamba Forever Edition | 136398 | [136398-nba-2k21-mamba-forever-edition.json](./136398-nba-2k21-mamba-forever-edition.json) |
+| NBA 2K25 | 308034 | [308034-nba-2k25.json](./308034-nba-2k25.json) |
 | NBA 2K25: All-Star Edition | 317248 | [317248-nba-2k25-all-star-edition.json](./317248-nba-2k25-all-star-edition.json) |
 | NBA 2K25: Tournament Edition | 331859 | [331859-nba-2k25-tournament-edition.json](./331859-nba-2k25-tournament-edition.json) |
 | NBA 2K26 | 353901 | [353901-nba-2k26.json](./353901-nba-2k26.json) |
@@ -1503,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
 | Not Evil Sudoku | 297219 | [297219-not-evil-sudoku.json](./297219-not-evil-sudoku.json) |
 | Not Fine | 398354 | [398354-not-fine.json](./398354-not-fine.json) |
+| Not for Broadcast | 122133 | [122133-not-for-broadcast.json](./122133-not-for-broadcast.json) |
 | Not For Broadcast: Complete Edition | 331858 | [331858-not-for-broadcast-complete-edition.json](./331858-not-for-broadcast-complete-edition.json) |
 | Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
 | Not Just An Ordinary Ballerina | 60018 | [60018-not-just-an-ordinary-ballerina.json](./60018-not-just-an-ordinary-ballerina.json) |
