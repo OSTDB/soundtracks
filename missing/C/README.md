@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrier Battles 4 Guadalcanal | 242201 | [242201-carrier-battles-4-guadalcanal.json](./242201-carrier-battles-4-guadalcanal.json) |
 | Carrier Battles 4 Guadalcanal: Advanced Fog of War in the Pacific | 170520 | [170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json](./170520-carrier-battles-4-guadalcanal-advanced-fog-of-war-in-the-pacific.json) |
 | Carrier Command | 11992 | [11992-carrier-command.json](./11992-carrier-command.json) |
+| Carrier Deck | 40566 | [40566-carrier-deck.json](./40566-carrier-deck.json) |
 | Carrier Joe 2 | 207845 | [207845-carrier-joe-2.json](./207845-carrier-joe-2.json) |
 | Carrier Landings | 87163 | [87163-carrier-landings.json](./87163-carrier-landings.json) |
 | Carriers at War 1941-1945: Fleet Carrier Operations in the Pacific | 25615 | [25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json](./25615-carriers-at-war-1941-1945-fleet-carrier-operations-in-the-pacific.json) |
@@ -708,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Heart | 69014 | [69014-castle-of-heart.json](./69014-castle-of-heart.json) |
 | Castle of Horrors: The Awful Tortures | 276474 | [276474-castle-of-horrors-the-awful-tortures.json](./276474-castle-of-horrors-the-awful-tortures.json) |
 | Castle of Illusion Starring Mickey Mouse | 242816 | [242816-castle-of-illusion-starring-mickey-mouse.json](./242816-castle-of-illusion-starring-mickey-mouse.json) |
+| Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
 | Castle of Riddles | 13701 | [13701-castle-of-riddles.json](./13701-castle-of-riddles.json) |
@@ -1160,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalo Chalo | 34292 | [34292-chalo-chalo.json](./34292-chalo-chalo.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
 | Chamber of Hex | 257381 | [257381-chamber-of-hex.json](./257381-chamber-of-hex.json) |
+| Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
 | Chameleon | 37077 | [37077-chameleon.json](./37077-chameleon.json) |
 | Chameleon Gems | 92483 | [92483-chameleon-gems.json](./92483-chameleon-gems.json) |
@@ -2300,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code_18 | 18072 | [18072-code-18.json](./18072-code-18.json) |
 | Code, Solve, Revolt! | 265387 | [265387-code-solve-revolt.json](./265387-code-solve-revolt.json) |
 | Code: Europe | 73848 | [73848-code-europe.json](./73848-code-europe.json) |
+| Code: Realize - Future Blessings | 41821 | [41821-code-realize-future-blessings.json](./41821-code-realize-future-blessings.json) |
 | Code: Realize ~Wintertide Miracles~ Limited Edition | 112919 | [112919-code-realize-wintertide-miracles-limited-edition.json](./112919-code-realize-wintertide-miracles-limited-edition.json) |
 | Code: X | 174798 | [174798-code-x.json](./174798-code-x.json) |
 | Code/The Werewolf Party | 120927 | [120927-code-the-werewolf-party.json](./120927-code-the-werewolf-party.json) |
@@ -2684,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communication Game | 312918 | [312918-communication-game.json](./312918-communication-game.json) |
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
+| Community Inc | 40546 | [40546-community-inc.json](./40546-community-inc.json) |
 | Commute | 135279 | [135279-commute.json](./135279-commute.json) |
 | Commute | 204674 | [204674-commute.json](./204674-commute.json) |
 | Commute | 204676 | [204676-commute.json](./204676-commute.json) |
@@ -3065,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
 | Coryoon | 37717 | [37717-coryoon.json](./37717-coryoon.json) |
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
+| Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
 | Cosmetic Paradise: Kirei no Mahou | 130393 | [130393-cosmetic-paradise-kirei-no-mahou.json](./130393-cosmetic-paradise-kirei-no-mahou.json) |
 | Cosmetic Paradise: Princess Life | 130392 | [130392-cosmetic-paradise-princess-life.json](./130392-cosmetic-paradise-princess-life.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
