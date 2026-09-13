@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T06:51:32.020Z",
-  "total_missing": 65033,
+  "generated_at": "2026-09-13T07:01:42.382Z",
+  "total_missing": 65048,
   "games": [
     {
       "igdb_id": 306086,
@@ -3461,11 +3461,6 @@
       "igdb_id": 114370,
       "game_name": "Achievement Collector: Zombie",
       "file": "missing/A/114370-achievement-collector-zombie.json"
-    },
-    {
-      "igdb_id": 258207,
-      "game_name": "Achievement Display Cabinet",
-      "file": "missing/A/258207-achievement-display-cabinet.json"
     },
     {
       "igdb_id": 110387,
@@ -28111,6 +28106,11 @@
       "igdb_id": 126894,
       "game_name": "Big Red Hood: Halloween",
       "file": "missing/B/126894-big-red-hood-halloween.json"
+    },
+    {
+      "igdb_id": 7557,
+      "game_name": "Big Rigs: Over the Road Racing",
+      "file": "missing/B/7557-big-rigs-over-the-road-racing.json"
     },
     {
       "igdb_id": 69842,
@@ -65813,6 +65813,11 @@
       "file": "missing/D/412266-delta-directive.json"
     },
     {
+      "igdb_id": 9350,
+      "game_name": "Delta Force: Land Warrior",
+      "file": "missing/D/9350-delta-force-land-warrior.json"
+    },
+    {
       "igdb_id": 1273,
       "game_name": "Delta Force: Xtreme",
       "file": "missing/D/1273-delta-force-xtreme.json"
@@ -69886,6 +69891,11 @@
       "igdb_id": 8292,
       "game_name": "Discworld II: Mortality Bytes!",
       "file": "missing/D/8292-discworld-ii-mortality-bytes.json"
+    },
+    {
+      "igdb_id": 8293,
+      "game_name": "Discworld Noir",
+      "file": "missing/D/8293-discworld-noir.json"
     },
     {
       "igdb_id": 102093,
@@ -85036,6 +85046,11 @@
       "igdb_id": 78678,
       "game_name": "ESPN NBA 2Night",
       "file": "missing/E/78678-espn-nba-2night.json"
+    },
+    {
+      "igdb_id": 7881,
+      "game_name": "ESPN NFL 2K5",
+      "file": "missing/E/7881-espn-nfl-2k5.json"
     },
     {
       "igdb_id": 5826,
@@ -109403,6 +109418,11 @@
       "file": "missing/G/66158-gorillaz-escape-to-plastic-beach.json"
     },
     {
+      "igdb_id": 7833,
+      "game_name": "Gorky 17",
+      "file": "missing/G/7833-gorky-17.json"
+    },
+    {
       "igdb_id": 26557,
       "game_name": "Gorky Zero: Beyond Honor",
       "file": "missing/G/26557-gorky-zero-beyond-honor.json"
@@ -112396,6 +112416,11 @@
       "igdb_id": 9148,
       "game_name": "Guilty Gear Petit 2",
       "file": "missing/G/9148-guilty-gear-petit-2.json"
+    },
+    {
+      "igdb_id": 9141,
+      "game_name": "Guilty Gear X",
+      "file": "missing/G/9141-guilty-gear-x.json"
     },
     {
       "igdb_id": 344378,
@@ -115561,6 +115586,11 @@
       "igdb_id": 192388,
       "game_name": "Hard Times at Sequoia State Park",
       "file": "missing/H/192388-hard-times-at-sequoia-state-park.json"
+    },
+    {
+      "igdb_id": 7675,
+      "game_name": "Hard West",
+      "file": "missing/H/7675-hard-west.json"
     },
     {
       "igdb_id": 53173,
@@ -137058,6 +137088,11 @@
       "file": "missing/J/321998-journey-to-kreisia.json"
     },
     {
+      "igdb_id": 9159,
+      "game_name": "Journey to Silius",
+      "file": "missing/J/9159-journey-to-silius.json"
+    },
+    {
       "igdb_id": 69812,
       "game_name": "Journey to Stonehenge",
       "file": "missing/J/69812-journey-to-stonehenge.json"
@@ -142501,6 +142536,11 @@
       "igdb_id": 208400,
       "game_name": "Kirby and the Forgotten Land",
       "file": "missing/K/208400-kirby-and-the-forgotten-land.json"
+    },
+    {
+      "igdb_id": 7338,
+      "game_name": "Kirby and the Rainbow Curse",
+      "file": "missing/K/7338-kirby-and-the-rainbow-curse.json"
     },
     {
       "igdb_id": 298858,
@@ -154931,6 +154971,11 @@
       "igdb_id": 270133,
       "game_name": "Luminis: Heal Them All",
       "file": "missing/L/270133-luminis-heal-them-all.json"
+    },
+    {
+      "igdb_id": 8762,
+      "game_name": "Lumino City",
+      "file": "missing/L/8762-lumino-city.json"
     },
     {
       "igdb_id": 35836,
@@ -178236,6 +178281,11 @@
       "igdb_id": 39004,
       "game_name": "N.O.V.A. Legacy",
       "file": "missing/N/39004-n-o-v-a-legacy.json"
+    },
+    {
+      "igdb_id": 8749,
+      "game_name": "N+",
+      "file": "missing/N/8749-n.json"
     },
     {
       "igdb_id": 31987,
@@ -224648,6 +224698,11 @@
       "file": "missing/R/147477-route-me-mail-and-delivery-co.json"
     },
     {
+      "igdb_id": 8948,
+      "game_name": "Routine",
+      "file": "missing/R/8948-routine.json"
+    },
+    {
       "igdb_id": 297209,
       "game_name": "Rova",
       "file": "missing/R/297209-rova.json"
@@ -248001,6 +248056,11 @@
       "igdb_id": 45907,
       "game_name": "Space Ranger: Return to Earth",
       "file": "missing/S/45907-space-ranger-return-to-earth.json"
+    },
+    {
+      "igdb_id": 7592,
+      "game_name": "Space Rangers",
+      "file": "missing/S/7592-space-rangers.json"
     },
     {
       "igdb_id": 25617,
@@ -291033,6 +291093,11 @@
       "file": "missing/T/170024-tiny-tinas-wonderlands-next-level-edition.json"
     },
     {
+      "igdb_id": 8050,
+      "game_name": "Tiny Toon Adventures: Buster Busts Loose!",
+      "file": "missing/T/8050-tiny-toon-adventures-buster-busts-loose.json"
+    },
+    {
       "igdb_id": 8049,
       "game_name": "Tiny Toon Adventures: Buster's Hidden Treasure",
       "file": "missing/T/8049-tiny-toon-adventures-busters-hidden-treasure.json"
@@ -295261,6 +295326,11 @@
       "igdb_id": 143045,
       "game_name": "TrackDayR",
       "file": "missing/T/143045-trackdayr.json"
+    },
+    {
+      "igdb_id": 9448,
+      "game_name": "TrackMania 2: Stadium",
+      "file": "missing/T/9448-trackmania-2-stadium.json"
     },
     {
       "igdb_id": 9909,
@@ -313971,6 +314041,11 @@
       "igdb_id": 322952,
       "game_name": "Whispering Hills",
       "file": "missing/W/322952-whispering-hills.json"
+    },
+    {
+      "igdb_id": 9369,
+      "game_name": "Whispering Willows",
+      "file": "missing/W/9369-whispering-willows.json"
     },
     {
       "igdb_id": 299154,
