@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windstorm: Double Pack | 259539 | [259539-windstorm-double-pack.json](./259539-windstorm-double-pack.json) |
 | Windsurfers Paradise | 12902 | [12902-windsurfers-paradise.json](./12902-windsurfers-paradise.json) |
 | Windsurfing MMX | 213988 | [213988-windsurfing-mmx.json](./213988-windsurfing-mmx.json) |
+| Windwalkers | 9185 | [9185-windwalkers.json](./9185-windwalkers.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
