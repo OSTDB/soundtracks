@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bada Space Station | 146355 | [146355-bada-space-station.json](./146355-bada-space-station.json) |
 | Badaboom | 233203 | [233203-badaboom.json](./233203-badaboom.json) |
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
+| Badland: Game of the Year Edition | 20042 | [20042-badland-game-of-the-year-edition.json](./20042-badland-game-of-the-year-edition.json) |
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
 | Badmad Robots | 294140 | [294140-badmad-robots.json](./294140-badmad-robots.json) |
 | BadMan | 240524 | [240524-badman.json](./240524-badman.json) |
@@ -1287,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being Faust: Enter Mephisto | 56459 | [56459-being-faust-enter-mephisto.json](./56459-being-faust-enter-mephisto.json) |
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
+| Bejeweled Blitz | 20435 | [20435-bejeweled-blitz.json](./20435-bejeweled-blitz.json) |
 | Bejeweled Deluxe | 27819 | [27819-bejeweled-deluxe.json](./27819-bejeweled-deluxe.json) |
 | Bela Kovacs and the Trail of Blood | 299758 | [299758-bela-kovacs-and-the-trail-of-blood.json](./299758-bela-kovacs-and-the-trail-of-blood.json) |
 | Belial | 14295 | [14295-belial.json](./14295-belial.json) |
@@ -1352,6 +1354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Jordan: Paranormal Investigator - Case 4: Horror at Number 50 | 70981 | [70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json](./70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json) |
 | Ben Jordan: Paranormal Investigator - Case 6: Scourge of the Sea People | 73276 | [73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json](./73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json) |
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
+| Ben There, Dan That! | 9541 | [9541-ben-there-dan-that.json](./9541-ben-there-dan-that.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | Beneath | 240509 | [240509-beneath.json](./240509-beneath.json) |
 | Beneath the Backrooms | 273368 | [273368-beneath-the-backrooms.json](./273368-beneath-the-backrooms.json) |
@@ -2311,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
 | Blood Memery | 114948 | [114948-blood-memery.json](./114948-blood-memery.json) |
 | Blood Midnight Blossom | 258221 | [258221-blood-midnight-blossom.json](./258221-blood-midnight-blossom.json) |
+| Blood Money | 11968 | [11968-blood-money.json](./11968-blood-money.json) |
 | Blood Night | 326976 | [326976-blood-night.json](./326976-blood-night.json) |
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
