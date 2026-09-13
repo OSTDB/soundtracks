@@ -220,7 +220,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
 | Accurate Shot | 288743 | [288743-accurate-shot.json](./288743-accurate-shot.json) |
-| Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
 | Ace | 301591 | [301591-ace.json](./301591-ace.json) |
 | Ace Angler | 292017 | [292017-ace-angler.json](./292017-ace-angler.json) |
 | Ace Attorney But Plotagon | 303755 | [303755-ace-attorney-but-plotagon.json](./303755-ace-attorney-but-plotagon.json) |
@@ -594,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Vikings | 199650 | [199650-aery-vikings.json](./199650-aery-vikings.json) |
 | Aesculap OrthoPilot Elite VR Palpation | 57031 | [57031-aesculap-orthopilot-elite-vr-palpation.json](./57031-aesculap-orthopilot-elite-vr-palpation.json) |
 | Aesop Rock's Black Hole Superette Experience | 346605 | [346605-aesop-rocks-black-hole-superette-experience.json](./346605-aesop-rocks-black-hole-superette-experience.json) |
+| Aesop's Fables | 14227 | [14227-aesops-fables.json](./14227-aesops-fables.json) |
 | Aestha: The runner game | 232153 | [232153-aestha-the-runner-game.json](./232153-aestha-the-runner-game.json) |
 | Aesthetic Melody: Digital Deluxe Edition | 52575 | [52575-aesthetic-melody-digital-deluxe-edition.json](./52575-aesthetic-melody-digital-deluxe-edition.json) |
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
 | African Adventure: In Search of Dr. Livingston | 366265 | [366265-african-adventure-in-search-of-dr-livingston.json](./366265-african-adventure-in-search-of-dr-livingston.json) |
+| Afrika Korps | 14228 | [14228-afrika-korps.json](./14228-afrika-korps.json) |
 | Afrikan Tähti | 174367 | [174367-afrikan-tahti.json](./174367-afrikan-tahti.json) |
 | Afrodite The Game | 246670 | [246670-afrodite-the-game.json](./246670-afrodite-the-game.json) |
 | After | 179156 | [179156-after.json](./179156-after.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
 | Age of Ottoman | 200739 | [200739-age-of-ottoman.json](./200739-age-of-ottoman.json) |
 | Age of Respair | 350402 | [350402-age-of-respair.json](./350402-age-of-respair.json) |
+| Age of Sail | 14229 | [14229-age-of-sail.json](./14229-age-of-sail.json) |
 | Age of Sail | 9430 | [9430-age-of-sail.json](./9430-age-of-sail.json) |
 | Age of Sail II | 9428 | [9428-age-of-sail-ii.json](./9428-age-of-sail-ii.json) |
 | Age of Sail II: Privateer's Bounty | 9429 | [9429-age-of-sail-ii-privateers-bounty.json](./9429-age-of-sail-ii-privateers-bounty.json) |
@@ -888,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air | 270403 | [270403-air.json](./270403-air.json) |
 | Air Ball 2 | 146818 | [146818-air-ball-2.json](./146818-air-ball-2.json) |
 | Air Battle Chess | 197361 | [197361-air-battle-chess.json](./197361-air-battle-chess.json) |
+| Air Bucks | 14230 | [14230-air-bucks.json](./14230-air-bucks.json) |
 | Air Cavalry: Flight Simulator | 246427 | [246427-air-cavalry-flight-simulator.json](./246427-air-cavalry-flight-simulator.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
 | Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
@@ -896,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
 | Air Conflicts: Secret Wars - Ultimate Edition | 27783 | [27783-air-conflicts-secret-wars-ultimate-edition.json](./27783-air-conflicts-secret-wars-ultimate-edition.json) |
 | Air Conflicts: Vietnam Ultimate Edition | 44546 | [44546-air-conflicts-vietnam-ultimate-edition.json](./44546-air-conflicts-vietnam-ultimate-edition.json) |
+| Air Force Commander | 14231 | [14231-air-force-commander.json](./14231-air-force-commander.json) |
 | Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
@@ -921,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Traffic Controller Airport Hero 3D New Chitose with JAL | 222522 | [222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json](./222522-air-traffic-controller-airport-hero-3d-new-chitose-with-jal.json) |
 | Air Traffic Disruptor | 51990 | [51990-air-traffic-disruptor.json](./51990-air-traffic-disruptor.json) |
 | Air Trix | 18048 | [18048-air-trix.json](./18048-air-trix.json) |
+| Air Warrior | 14232 | [14232-air-warrior.json](./14232-air-warrior.json) |
 | Air Wars | 336561 | [336561-air-wars.json](./336561-air-wars.json) |
 | Aira VR | 113673 | [113673-aira-vr.json](./113673-aira-vr.json) |
 | AiRace Speed | 8629 | [8629-airace-speed.json](./8629-airace-speed.json) |
@@ -956,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
 | Airplane Tycoon: Evolution | 306640 | [306640-airplane-tycoon-evolution.json](./306640-airplane-tycoon-evolution.json) |
 | Airplane Tycoon: First Class | 306639 | [306639-airplane-tycoon-first-class.json](./306639-airplane-tycoon-first-class.json) |
+| Airport | 14233 | [14233-airport.json](./14233-airport.json) |
 | Airport | 283155 | [283155-airport.json](./283155-airport.json) |
 | Airport | 346048 | [346048-airport.json](./346048-airport.json) |
 | Airport Administrator Simulator | 199598 | [199598-airport-administrator-simulator.json](./199598-airport-administrator-simulator.json) |
@@ -1023,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akimaho! | 97383 | [97383-akimaho.json](./97383-akimaho.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akin Vol 2 | 50505 | [50505-akin-vol-2.json](./50505-akin-vol-2.json) |
+| Akira | 14234 | [14234-akira.json](./14234-akira.json) |
 | Akita: King Pig Thinks Pink | 178098 | [178098-akita-king-pig-thinks-pink.json](./178098-akita-king-pig-thinks-pink.json) |
 | Akita: Legends Squad | 399611 | [399611-akita-legends-squad.json](./399611-akita-legends-squad.json) |
 | Akiya | 284926 | [284926-akiya.json](./284926-akiya.json) |
@@ -1051,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Al-Ankabut | 211416 | [211416-al-ankabut.json](./211416-al-ankabut.json) |
 | AL: A Choose Your Own Adventure | 179689 | [179689-al-a-choose-your-own-adventure.json](./179689-al-a-choose-your-own-adventure.json) |
 | Alabaster | 60017 | [60017-alabaster.json](./60017-alabaster.json) |
+| Aladdin's Magic Lamp | 14235 | [14235-aladdins-magic-lamp.json](./14235-aladdins-magic-lamp.json) |
 | Alakenisland | 195161 | [195161-alakenisland.json](./195161-alakenisland.json) |
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
@@ -1105,6 +1113,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleph | 217851 | [217851-aleph.json](./217851-aleph.json) |
 | Aleph | 274755 | [274755-aleph.json](./274755-aleph.json) |
 | Aleph Null | 31809 | [31809-aleph-null.json](./31809-aleph-null.json) |
+| Alert | 14236 | [14236-alert.json](./14236-alert.json) |
+| Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
 | Aleste Collection | 139997 | [139997-aleste-collection.json](./139997-aleste-collection.json) |
 | Aletheia: Return of Odysseus | 288753 | [288753-aletheia-return-of-odysseus.json](./288753-aletheia-return-of-odysseus.json) |
 | Aletta | 200170 | [200170-aletta.json](./200170-aletta.json) |
@@ -1125,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
 | Alfa Romeo Racing Italiano | 5721 | [5721-alfa-romeo-racing-italiano.json](./5721-alfa-romeo-racing-italiano.json) |
+| Alfabet Śmierci | 14238 | [14238-alfabet-smierci.json](./14238-alfabet-smierci.json) |
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 7749 | [7749-alfred-chicken.json](./7749-alfred-chicken.json) |
 | Alfred Hitchcock: Vertigo - Digital Deluxe Edition | 165621 | [165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json](./165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json) |
@@ -1176,6 +1187,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Attack | 313465 | [313465-alien-attack.json](./313465-alien-attack.json) |
 | Alien Attack | 344944 | [344944-alien-attack.json](./344944-alien-attack.json) |
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
+| Alien Breed 3D | 14239 | [14239-alien-breed-3d.json](./14239-alien-breed-3d.json) |
+| Alien Breed 3D 2: The Killing Grounds | 14240 | [14240-alien-breed-3d-2-the-killing-grounds.json](./14240-alien-breed-3d-2-the-killing-grounds.json) |
 | Alien Cabal | 62149 | [62149-alien-cabal.json](./62149-alien-cabal.json) |
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
 | Alien Caseno | 26571 | [26571-alien-caseno.json](./26571-alien-caseno.json) |
@@ -1188,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Disco Safari | 63846 | [63846-alien-disco-safari.json](./63846-alien-disco-safari.json) |
 | Alien Dogfight | 38942 | [38942-alien-dogfight.json](./38942-alien-dogfight.json) |
 | Alien Dropout | 15593 | [15593-alien-dropout.json](./15593-alien-dropout.json) |
+| Alien Drug Lords: The Chyropian Connection | 14242 | [14242-alien-drug-lords-the-chyropian-connection.json](./14242-alien-drug-lords-the-chyropian-connection.json) |
 | Alien Egg: Ascent | 137671 | [137671-alien-egg-ascent.json](./137671-alien-egg-ascent.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
 | Alien Frontier | 240500 | [240500-alien-frontier.json](./240500-alien-frontier.json) |
@@ -1203,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Invasion | 273129 | [273129-alien-invasion.json](./273129-alien-invasion.json) |
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
 | Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
+| Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
 | Alien Nah'Topsy | 289888 | [289888-alien-nahtopsy.json](./289888-alien-nahtopsy.json) |
 | Alien Nations | 11259 | [11259-alien-nations.json](./11259-alien-nations.json) |
 | Alien Nations Mission Pack | 73810 | [73810-alien-nations-mission-pack.json](./73810-alien-nations-mission-pack.json) |
@@ -1252,6 +1267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliensurf | 71539 | [71539-aliensurf.json](./71539-aliensurf.json) |
 | AlienXcape | 322359 | [322359-alienxcape.json](./322359-alienxcape.json) |
 | Alienz | 116399 | [116399-alienz.json](./116399-alienz.json) |
+| Aliex | 14244 | [14244-aliex.json](./14244-aliex.json) |
 | Alik: Gry i zabawy | 188569 | [188569-alik-gry-i-zabawy.json](./188569-alik-gry-i-zabawy.json) |
 | Alik: Juz Ide Do Szkoly | 188561 | [188561-alik-juz-ide-do-szkoly.json](./188561-alik-juz-ide-do-szkoly.json) |
 | Aline | 127978 | [127978-aline.json](./127978-aline.json) |
@@ -1266,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alizarin Tetris | 93028 | [93028-alizarin-tetris.json](./93028-alizarin-tetris.json) |
 | Alkey the Brave | 226214 | [226214-alkey-the-brave.json](./226214-alkey-the-brave.json) |
 | All Aboard! The Train Defense Express | 337454 | [337454-all-aboard-the-train-defense-express.json](./337454-all-aboard-the-train-defense-express.json) |
+| All About America | 14245 | [14245-all-about-america.json](./14245-all-about-america.json) |
 | All About The High Score | 276202 | [276202-all-about-the-high-score.json](./276202-all-about-the-high-score.json) |
 | All Alone | 307276 | [307276-all-alone.json](./307276-all-alone.json) |
 | All Ashes and Illusions | 173825 | [173825-all-ashes-and-illusions.json](./173825-all-ashes-and-illusions.json) |
@@ -1306,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Kamen Rider: Rider Revolution | 81413 | [81413-all-kamen-rider-rider-revolution.json](./81413-all-kamen-rider-rider-revolution.json) |
 | All Men Are Pigs | 183041 | [183041-all-men-are-pigs.json](./183041-all-men-are-pigs.json) |
 | All Monsters Attack! | 202403 | [202403-all-monsters-attack.json](./202403-all-monsters-attack.json) |
+| All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
 | All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
 | All One | 41370 | [41370-all-one.json](./41370-all-one.json) |
 | All one click | 267086 | [267086-all-one-click.json](./267086-all-one-click.json) |
@@ -1387,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Squirrel | 183517 | [183517-alpha-squirrel.json](./183517-alpha-squirrel.json) |
 | Alpha Terminus | 226216 | [226216-alpha-terminus.json](./226216-alpha-terminus.json) |
 | Alpha vs. Zet | 130380 | [130380-alpha-vs-zet.json](./130380-alpha-vs-zet.json) |
+| Alpha-1 | 14250 | [14250-alpha-1.json](./14250-alpha-1.json) |
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
 | Alphabet | 314293 | [314293-alphabet.json](./314293-alphabet.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
@@ -1469,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze! | 246648 | [246648-amaze.json](./246648-amaze.json) |
 | Amaze'd | 105299 | [105299-amazed.json](./105299-amazed.json) |
 | AmazeBowl | 104070 | [104070-amazebowl.json](./104070-amazebowl.json) |
+| Amazed | 14251 | [14251-amazed.json](./14251-amazed.json) |
 | Amazed | 171573 | [171573-amazed.json](./171573-amazed.json) |
 | Amazeing Lemons | 75901 | [75901-amazeing-lemons.json](./75901-amazeing-lemons.json) |
 | Amazething | 154020 | [154020-amazething.json](./154020-amazething.json) |
@@ -1553,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
+| American Poker | 14252 | [14252-american-poker.json](./14252-american-poker.json) |
 | American Pool | 43928 | [43928-american-pool.json](./43928-american-pool.json) |
 | American Truck Simulator 2018 | 86722 | [86722-american-truck-simulator-2018.json](./86722-american-truck-simulator-2018.json) |
 | American Truck Simulator 2022 | 197844 | [197844-american-truck-simulator-2022.json](./197844-american-truck-simulator-2022.json) |
@@ -1592,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia World | 62755 | [62755-amnesia-world.json](./62755-amnesia-world.json) |
 | Amnesia: A Coward's Debt | 352198 | [352198-amnesia-a-cowards-debt.json](./352198-amnesia-a-cowards-debt.json) |
 | Amnesia: Day One Edition Dual Pack | 196820 | [196820-amnesia-day-one-edition-dual-pack.json](./196820-amnesia-day-one-edition-dual-pack.json) |
+| Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
 | Amo | 293087 | [293087-amo.json](./293087-amo.json) |
 | Amoeboid | 233213 | [233213-amoeboid.json](./233213-amoeboid.json) |
 | Amogus TD 2: Defense of the Sus | 254757 | [254757-amogus-td-2-defense-of-the-sus.json](./254757-amogus-td-2-defense-of-the-sus.json) |
@@ -1620,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amy Rose in Sonic the Hedgehog | 129176 | [129176-amy-rose-in-sonic-the-hedgehog.json](./129176-amy-rose-in-sonic-the-hedgehog.json) |
 | Amy Rose in Sonic the Hedgehog 2 | 129177 | [129177-amy-rose-in-sonic-the-hedgehog-2.json](./129177-amy-rose-in-sonic-the-hedgehog-2.json) |
 | Amy's American Page One | 261277 | [261277-amys-american-page-one.json](./261277-amys-american-page-one.json) |
+| Amy's Fun-2-3 Adventure | 14255 | [14255-amys-fun-2-3-adventure.json](./14255-amys-fun-2-3-adventure.json) |
 | Amygdala: Prelude | 269284 | [269284-amygdala-prelude.json](./269284-amygdala-prelude.json) |
 | An Adventurer's Gallantry | 238518 | [238518-an-adventurers-gallantry.json](./238518-an-adventurers-gallantry.json) |
 | An Afternoon Rippling | 122337 | [122337-an-afternoon-rippling.json](./122337-an-afternoon-rippling.json) |
@@ -2051,6 +2074,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anstoss | 37126 | [37126-anstoss.json](./37126-anstoss.json) |
 | Anstoss 2: Gold Edition | 155090 | [155090-anstoss-2-gold-edition.json](./155090-anstoss-2-gold-edition.json) |
 | Anstoß Action | 98963 | [98963-ansto-action.json](./98963-ansto-action.json) |
+| Answer Back: Junior Quiz | 14257 | [14257-answer-back-junior-quiz.json](./14257-answer-back-junior-quiz.json) |
+| Answer Back: Senior Quiz | 14258 | [14258-answer-back-senior-quiz.json](./14258-answer-back-senior-quiz.json) |
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
 | Answer Me | 157164 | [157164-answer-me.json](./157164-answer-me.json) |
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
@@ -2129,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
+| Apano Sin | 14259 | [14259-apano-sin.json](./14259-apano-sin.json) |
 | Apano Syn Fighter | 304571 | [304571-apano-syn-fighter.json](./304571-apano-syn-fighter.json) |
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
@@ -2177,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AploVVare Collection | 263219 | [263219-aplovvare-collection.json](./263219-aplovvare-collection.json) |
 | Apoc Runner | 161409 | [161409-apoc-runner.json](./161409-apoc-runner.json) |
 | Apocalipsis | 28319 | [28319-apocalipsis.json](./28319-apocalipsis.json) |
+| Apocalypse | 14260 | [14260-apocalypse.json](./14260-apocalypse.json) |
 | Apocalypse | 15598 | [15598-apocalypse.json](./15598-apocalypse.json) |
 | Apocalypse Clash City Free: A Cyberpunk Clan War Death Race game | 351032 | [351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json](./351032-apocalypse-clash-city-free-a-cyberpunk-clan-war-death-race-game.json) |
 | Apocalypse Delivery Service | 304576 | [304576-apocalypse-delivery-service.json](./304576-apocalypse-delivery-service.json) |
@@ -2220,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appli Archives: G-mode BurgerTime | 56422 | [56422-appli-archives-g-mode-burgertime.json](./56422-appli-archives-g-mode-burgertime.json) |
 | Appli Archives: Jaleco Momoko 1200% | 56418 | [56418-appli-archives-jaleco-momoko-1200.json](./56418-appli-archives-jaleco-momoko-1200.json) |
 | Appli Archives: Nippon Ichi Software Duologue | 56416 | [56416-appli-archives-nippon-ichi-software-duologue.json](./56416-appli-archives-nippon-ichi-software-duologue.json) |
+| Approach Trainer | 14261 | [14261-approach-trainer.json](./14261-approach-trainer.json) |
 | Approaches | 185093 | [185093-approaches.json](./185093-approaches.json) |
 | Approaching Cao Army | 254773 | [254773-approaching-cao-army.json](./254773-approaching-cao-army.json) |
 | Approximately Up | 377061 | [377061-approximately-up.json](./377061-approximately-up.json) |
@@ -2236,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Marbles: Ocean | 240804 | [240804-aqua-marbles-ocean.json](./240804-aqua-marbles-ocean.json) |
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
+| Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
@@ -2260,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquatic Rampage | 152348 | [152348-aquatic-rampage.json](./152348-aquatic-rampage.json) |
 | Aquatics Hentai Babes | 157717 | [157717-aquatics-hentai-babes.json](./157717-aquatics-hentai-babes.json) |
 | Aquatopia | 44601 | [44601-aquatopia.json](./44601-aquatopia.json) |
+| Aquaventura | 14263 | [14263-aquaventura.json](./14263-aquaventura.json) |
 | Aquavias | 96757 | [96757-aquavias.json](./96757-aquavias.json) |
 | Aquis | 293095 | [293095-aquis.json](./293095-aquis.json) |
 | Aqumana | 175376 | [175376-aqumana.json](./175376-aqumana.json) |
@@ -2286,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
 | Arali | 203881 | [203881-arali.json](./203881-arali.json) |
 | Aralon: Sword and Shadow | 38985 | [38985-aralon-sword-and-shadow.json](./38985-aralon-sword-and-shadow.json) |
+| Arazok's Tomb | 14264 | [14264-arazoks-tomb.json](./14264-arazoks-tomb.json) |
 | Arbalester | 39621 | [39621-arbalester.json](./39621-arbalester.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arby | 377051 | [377051-arby.json](./377051-arby.json) |
@@ -2536,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arena | 326072 | [326072-arena.json](./326072-arena.json) |
+| Arena 2000 | 14265 | [14265-arena-2000.json](./14265-arena-2000.json) |
 | Arena Breakout: Infinite – Season 1 | 324717 | [324717-arena-breakout-infinite-season-1.json](./324717-arena-breakout-infinite-season-1.json) |
 | Arena Breakout: Season 1 | 318412 | [318412-arena-breakout-season-1.json](./318412-arena-breakout-season-1.json) |
 | Arena Breakout: Season 3 - Enter the Vault | 318415 | [318415-arena-breakout-season-3-enter-the-vault.json](./318415-arena-breakout-season-3-enter-the-vault.json) |
@@ -2635,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armageddon Riders | 84152 | [84152-armageddon-riders.json](./84152-armageddon-riders.json) |
 | ArmageDoom | 201231 | [201231-armagedoom.json](./201231-armagedoom.json) |
 | Armalyte: Competition Edition | 299486 | [299486-armalyte-competition-edition.json](./299486-armalyte-competition-edition.json) |
+| Armalyte: The Final Run | 14266 | [14266-armalyte-the-final-run.json](./14266-armalyte-the-final-run.json) |
 | Armchair Quarterback | 314037 | [314037-armchair-quarterback.json](./314037-armchair-quarterback.json) |
 | Armed Against the Undead | 32898 | [32898-armed-against-the-undead.json](./32898-armed-against-the-undead.json) |
 | Armed Air Forces | 193945 | [193945-armed-air-forces.json](./193945-armed-air-forces.json) |
@@ -2687,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Warfare | 15853 | [15853-armored-warfare.json](./15853-armored-warfare.json) |
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
 | Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
+| Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
 | Arms Race: TCWE | 29691 | [29691-arms-race-tcwe.json](./29691-arms-race-tcwe.json) |
@@ -2711,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Wars Tactics | 200158 | [200158-army-wars-tactics.json](./200158-army-wars-tactics.json) |
 | ArmyCraft | 52612 | [52612-armycraft.json](./52612-armycraft.json) |
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
+| Arnie | 14268 | [14268-arnie.json](./14268-arnie.json) |
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
 | Aroma | 226231 | [226231-aroma.json](./226231-aroma.json) |
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
@@ -2983,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
+| Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
 | Asterelis | 118404 | [118404-asterelis.json](./118404-asterelis.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
@@ -2992,6 +3028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix & Obélix XXL 2: Mission: Las Vegum | 81480 | [81480-asterix-and-obelix-xxl-2-mission-las-vegum.json](./81480-asterix-and-obelix-xxl-2-mission-las-vegum.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
 | Asterix & Obelix: Cesar's Challenge | 262663 | [262663-asterix-and-obelix-cesars-challenge.json](./262663-asterix-and-obelix-cesars-challenge.json) |
+| Asterix and the Magic Carpet | 14272 | [14272-asterix-and-the-magic-carpet.json](./14272-asterix-and-the-magic-carpet.json) |
 | Asterix Brain Trainer | 67236 | [67236-asterix-brain-trainer.json](./67236-asterix-brain-trainer.json) |
 | Astérix et la Potion Magique | 342056 | [342056-asterix-et-la-potion-magique.json](./342056-asterix-et-la-potion-magique.json) |
 | Astérix: Caesar's Challenge | 45944 | [45944-asterix-caesars-challenge.json](./45944-asterix-caesars-challenge.json) |
@@ -3041,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astra's Moon | 179671 | [179671-astras-moon.json](./179671-astras-moon.json) |
 | Astraea | 302349 | [302349-astraea.json](./302349-astraea.json) |
 | Astraeus | 101636 | [101636-astraeus.json](./101636-astraeus.json) |
+| Astral | 14273 | [14273-astral.json](./14273-astral.json) |
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
@@ -3159,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Hits 2006 | 70971 | [70971-atari-hits-2006.json](./70971-atari-hits-2006.json) |
 | Atari Karts | 40802 | [40802-atari-karts.json](./40802-atari-karts.json) |
 | Atari Video Cube | 12243 | [12243-atari-video-cube.json](./12243-atari-video-cube.json) |
+| Atax | 14274 | [14274-atax.json](./14274-atax.json) |
 | Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
 | ATC Flight Operator | 338176 | [338176-atc-flight-operator.json](./338176-atc-flight-operator.json) |
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
@@ -3295,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augie Doggie and Doggie Daddy | 67274 | [67274-augie-doggie-and-doggie-daddy.json](./67274-augie-doggie-and-doggie-daddy.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
+| Aunt Arctic Adventure | 14275 | [14275-aunt-arctic-adventure.json](./14275-aunt-arctic-adventure.json) |
 | Aura Aspic | 180236 | [180236-aura-aspic.json](./180236-aura-aspic.json) |
 | Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
 | Aura Kingdom | 8746 | [8746-aura-kingdom.json](./8746-aura-kingdom.json) |
@@ -3313,10 +3353,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
 | Aussie Clowns At War | 190194 | [190194-aussie-clowns-at-war.json](./190194-aussie-clowns-at-war.json) |
+| Aussie Joker Poker | 14276 | [14276-aussie-joker-poker.json](./14276-aussie-joker-poker.json) |
 | Aussie Sports VR | 31920 | [31920-aussie-sports-vr.json](./31920-aussie-sports-vr.json) |
 | Austin Powers Pinball | 222896 | [222896-austin-powers-pinball.json](./222896-austin-powers-pinball.json) |
 | Austin Powers: Oh, Behave! | 49890 | [49890-austin-powers-oh-behave.json](./49890-austin-powers-oh-behave.json) |
 | Austin Powers: Why Make Millions...? | 295028 | [295028-austin-powers-why-make-millions.json](./295028-austin-powers-why-make-millions.json) |
+| Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
