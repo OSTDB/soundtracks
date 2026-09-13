@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy | 80520 | [80520-i-spy.json](./80520-i-spy.json) |
 | I Spy Fun House | 252149 | [252149-i-spy-fun-house.json](./252149-i-spy-fun-house.json) |
 | I Spy Mystery | 69891 | [69891-i-spy-mystery.json](./69891-i-spy-mystery.json) |
+| I Spy Spooky Mansion | 19844 | [19844-i-spy-spooky-mansion.json](./19844-i-spy-spooky-mansion.json) |
 | I Spy Treasure Hunt | 73852 | [73852-i-spy-treasure-hunt.json](./73852-i-spy-treasure-hunt.json) |
 | I Tap Pirate. A Sea Survival Adventure Game | 103535 | [103535-i-tap-pirate-a-sea-survival-adventure-game.json](./103535-i-tap-pirate-a-sea-survival-adventure-game.json) |
 | I Think | 301265 | [301265-i-think.json](./301265-i-think.json) |
@@ -215,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age Hunter: Evolution-U | 100963 | [100963-ice-age-hunter-evolution-u.json](./100963-ice-age-hunter-evolution-u.json) |
 | Ice Age Race | 105986 | [105986-ice-age-race.json](./105986-ice-age-race.json) |
 | Ice Age: Continental Drift | 282576 | [282576-ice-age-continental-drift.json](./282576-ice-age-continental-drift.json) |
+| Ice Age: Continental Drift - Arctic Games | 20002 | [20002-ice-age-continental-drift-arctic-games.json](./20002-ice-age-continental-drift-arctic-games.json) |
 | Ice Age: The DVD Game | 364525 | [364525-ice-age-the-dvd-game.json](./364525-ice-age-the-dvd-game.json) |
 | Ice and Fire | 22623 | [22623-ice-and-fire.json](./22623-ice-and-fire.json) |
 | Ice and Fire | 232712 | [232712-ice-and-fire.json](./232712-ice-and-fire.json) |
@@ -651,6 +653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
+| Inayah: Life after Gods | 317838 | [317838-inayah-life-after-gods.json](./317838-inayah-life-after-gods.json) |
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
 | Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
 | Inazuma Eleven GO: Shadow | 9685 | [9685-inazuma-eleven-go-shadow.json](./9685-inazuma-eleven-go-shadow.json) |
