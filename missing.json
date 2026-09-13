@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T05:19:09.715Z",
-  "total_missing": 64774,
+  "generated_at": "2026-09-13T05:21:37.740Z",
+  "total_missing": 64773,
   "games": [
     {
       "igdb_id": 306086,
@@ -3411,11 +3411,6 @@
       "igdb_id": 177475,
       "game_name": "Ace of Rope",
       "file": "missing/A/177475-ace-of-rope.json"
-    },
-    {
-      "igdb_id": 33309,
-      "game_name": "Ace of Seafood",
-      "file": "missing/A/33309-ace-of-seafood.json"
     },
     {
       "igdb_id": 123544,
