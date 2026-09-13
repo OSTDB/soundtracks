@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
+| Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
 | Little Trouble on Tribuda Island | 236281 | [236281-little-trouble-on-tribuda-island.json](./236281-little-trouble-on-tribuda-island.json) |
 | Little Witch | 145613 | [145613-little-witch.json](./145613-little-witch.json) |
@@ -1481,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Ball: Dessert | 255981 | [255981-lofi-ball-dessert.json](./255981-lofi-ball-dessert.json) |
 | Lofi Ball: Dungeon | 256278 | [256278-lofi-ball-dungeon.json](./256278-lofi-ball-dungeon.json) |
 | Lofi Ball: Wipeout | 256277 | [256277-lofi-ball-wipeout.json](./256277-lofi-ball-wipeout.json) |
+| Lofi Ping Pong | 116187 | [116187-lofi-ping-pong.json](./116187-lofi-ping-pong.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Log Drive Runner | 32946 | [32946-log-drive-runner.json](./32946-log-drive-runner.json) |
 | Log Jammers | 83583 | [83583-log-jammers.json](./83583-log-jammers.json) |
@@ -1842,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
 | Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
 | Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
+| Love Letter | 109759 | [109759-love-letter.json](./109759-love-letter.json) |
 | Love Letters | 363893 | [363893-love-letters.json](./363893-love-letters.json) |
 | Love Liar | 225646 | [225646-love-liar.json](./225646-love-liar.json) |
 | Love Lime! | 183000 | [183000-love-lime.json](./183000-love-lime.json) |
