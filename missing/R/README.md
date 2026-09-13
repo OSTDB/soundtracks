@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
 | Revery Rebirth | 121619 | [121619-revery-rebirth.json](./121619-revery-rebirth.json) |
 | Rêves: Lettres et Ciel | 228423 | [228423-reves-lettres-et-ciel.json](./228423-reves-lettres-et-ciel.json) |
+| Revhead | 26728 | [26728-revhead.json](./26728-revhead.json) |
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
 | Revival of the Road | 83496 | [83496-revival-of-the-road.json](./83496-revival-of-the-road.json) |
@@ -1513,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
+| Richie's Plank Experience | 26449 | [26449-richies-plank-experience.json](./26449-richies-plank-experience.json) |
 | RichMan 11 | 220664 | [220664-richman-11.json](./220664-richman-11.json) |
 | Richman 2 | 125446 | [125446-richman-2.json](./125446-richman-2.json) |
 | Richman 3 | 125447 | [125447-richman-3.json](./125447-richman-3.json) |
@@ -2141,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
+| Rogue Contracts: Syndicate | 26696 | [26696-rogue-contracts-syndicate.json](./26696-rogue-contracts-syndicate.json) |
 | Rogue Day | 253610 | [253610-rogue-day.json](./253610-rogue-day.json) |
 | Rogue Dice | 217027 | [217027-rogue-dice.json](./217027-rogue-dice.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
@@ -2226,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller-Skating | 328498 | [328498-roller-skating.json](./328498-roller-skating.json) |
 | Rollerball | 298843 | [298843-rollerball.json](./298843-rollerball.json) |
 | Rollerboy 2 | 293644 | [293644-rollerboy-2.json](./293644-rollerboy-2.json) |
+| Rollercoaster Dreams | 26784 | [26784-rollercoaster-dreams.json](./26784-rollercoaster-dreams.json) |
 | RollerCoaster Legends II: Thor's Hammer | 102340 | [102340-rollercoaster-legends-ii-thors-hammer.json](./102340-rollercoaster-legends-ii-thors-hammer.json) |
 | RollerCoaster Tycoon | 254 | [254-rollercoaster-tycoon.json](./254-rollercoaster-tycoon.json) |
 | RollerCoaster Tycoon 3: Gold | 257414 | [257414-rollercoaster-tycoon-3-gold.json](./257414-rollercoaster-tycoon-3-gold.json) |
