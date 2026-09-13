@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Legionwood: Episode 3 | 171562 | [171562-heroes-of-legionwood-episode-3.json](./171562-heroes-of-legionwood-episode-3.json) |
 | Heroes of Magic & Cards | 369047 | [369047-heroes-of-magic-and-cards.json](./369047-heroes-of-magic-and-cards.json) |
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
+| Heroes of Mana | 14990 | [14990-heroes-of-mana.json](./14990-heroes-of-mana.json) |
 | Heroes of Might & Magic: Olden Era | 314543 | [314543-heroes-of-might-and-magic-olden-era.json](./314543-heroes-of-might-and-magic-olden-era.json) |
 | Heroes of Might and Magic II: The Price of Loyalty | 7742 | [7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json](./7742-heroes-of-might-and-magic-ii-the-price-of-loyalty.json) |
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
