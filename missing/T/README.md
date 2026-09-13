@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Connection V4.5 | 229948 | [229948-tamagotchi-connection-v4-5.json](./229948-tamagotchi-connection-v4-5.json) |
 | Tamagotchi Connection V5 Familitchi | 229954 | [229954-tamagotchi-connection-v5-familitchi.json](./229954-tamagotchi-connection-v5-familitchi.json) |
 | Tamagotchi Connection V5.5 Celebrity | 229955 | [229955-tamagotchi-connection-v5-5-celebrity.json](./229955-tamagotchi-connection-v5-5-celebrity.json) |
+| Tamagotchi Connection: Corner Shop | 20491 | [20491-tamagotchi-connection-corner-shop.json](./20491-tamagotchi-connection-corner-shop.json) |
 | Tamagotchi Connection: Corner Shop 2 | 20607 | [20607-tamagotchi-connection-corner-shop-2.json](./20607-tamagotchi-connection-corner-shop-2.json) |
 | Tamagotchi Friends: Digital Friend | 229959 | [229959-tamagotchi-friends-digital-friend.json](./229959-tamagotchi-friends-digital-friend.json) |
 | Tamagotchi Friends: Dream Town Digital Friend | 229960 | [229960-tamagotchi-friends-dream-town-digital-friend.json](./229960-tamagotchi-friends-dream-town-digital-friend.json) |
@@ -1247,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
 | The Adventures of Clive McMulligan on Planet Zeta Four | 94774 | [94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json](./94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json) |
 | The Adventures of Crackhead Jack: Overdose Edition | 141156 | [141156-the-adventures-of-crackhead-jack-overdose-edition.json](./141156-the-adventures-of-crackhead-jack-overdose-edition.json) |
+| The Adventures of Darwin | 20371 | [20371-the-adventures-of-darwin.json](./20371-the-adventures-of-darwin.json) |
 | The Adventures of Detective Bron | 200721 | [200721-the-adventures-of-detective-bron.json](./200721-the-adventures-of-detective-bron.json) |
 | The Adventures of Dr. Franken | 369600 | [369600-the-adventures-of-dr-franken.json](./369600-the-adventures-of-dr-franken.json) |
 | The Adventures of Dr. Franken | 48617 | [48617-the-adventures-of-dr-franken.json](./48617-the-adventures-of-dr-franken.json) |
@@ -2378,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hikyou Tankentai: Choutoko Special | 124270 | [124270-the-hikyou-tankentai-choutoko-special.json](./124270-the-hikyou-tankentai-choutoko-special.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
 | The History Channel: Crusades - Quest for Power | 69799 | [69799-the-history-channel-crusades-quest-for-power.json](./69799-the-history-channel-crusades-quest-for-power.json) |
+| The History Channel: Great Battles of Rome | 20375 | [20375-the-history-channel-great-battles-of-rome.json](./20375-the-history-channel-great-battles-of-rome.json) |
 | The History Channel: The Civil War Experience | 200675 | [200675-the-history-channel-the-civil-war-experience.json](./200675-the-history-channel-the-civil-war-experience.json) |
 | The History of Fruit | 268471 | [268471-the-history-of-fruit.json](./268471-the-history-of-fruit.json) |
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
@@ -3397,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red One: Occultation | 408734 | [408734-the-red-one-occultation.json](./408734-the-red-one-occultation.json) |
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
 | The Red Square | 91344 | [91344-the-red-square.json](./91344-the-red-square.json) |
+| The Red Star | 20370 | [20370-the-red-star.json](./20370-the-red-star.json) |
 | The Red Strings Club | 75247 | [75247-the-red-strings-club.json](./75247-the-red-strings-club.json) |
 | The Red Sun | 252396 | [252396-the-red-sun.json](./252396-the-red-sun.json) |
 | The Red Sun Sets Over the Fields of Grain | 237618 | [237618-the-red-sun-sets-over-the-fields-of-grain.json](./237618-the-red-sun-sets-over-the-fields-of-grain.json) |
@@ -3579,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shinri Game 2: Magical Trip | 58790 | [58790-the-shinri-game-2-magical-trip.json](./58790-the-shinri-game-2-magical-trip.json) |
 | The Shiny Ones | 183547 | [183547-the-shiny-ones.json](./183547-the-shiny-ones.json) |
 | The Ship: Murder Party | 5922 | [5922-the-ship-murder-party.json](./5922-the-ship-murder-party.json) |
+| The Shoot | 20408 | [20408-the-shoot.json](./20408-the-shoot.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
 | The Show is Over It | 272577 | [272577-the-show-is-over-it.json](./272577-the-show-is-over-it.json) |
 | The Showdown Effect | 9070 | [9070-the-showdown-effect.json](./9070-the-showdown-effect.json) |
@@ -7263,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
 | Twisted! | 95382 | [95382-twisted.json](./95382-twisted.json) |
 | Twister | 91394 | [91394-twister.json](./91394-twister.json) |
+| Twister Mania | 20216 | [20216-twister-mania.json](./20216-twister-mania.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
 | Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
 | Twisty Arrow! | 100880 | [100880-twisty-arrow.json](./100880-twisty-arrow.json) |
