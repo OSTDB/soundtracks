@@ -1180,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out, Damned Spot! | 112321 | [112321-out-damned-spot.json](./112321-out-damned-spot.json) |
 | Outatime | 215913 | [215913-outatime.json](./215913-outatime.json) |
 | Outbound: School Bus Adventures | 401492 | [401492-outbound-school-bus-adventures.json](./401492-outbound-school-bus-adventures.json) |
+| Outbreak | 26909 | [26909-outbreak.json](./26909-outbreak.json) |
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
 | Outbreak Contagion Co-Op Collection | 340740 | [340740-outbreak-contagion-co-op-collection.json](./340740-outbreak-contagion-co-op-collection.json) |
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
