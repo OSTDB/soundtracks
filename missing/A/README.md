@@ -248,7 +248,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 7: Skies Unknown - Original Aircraft Series | 138246 | [138246-ace-combat-7-skies-unknown-original-aircraft-series.json](./138246-ace-combat-7-skies-unknown-original-aircraft-series.json) |
 | Ace Combat 7: Skies Unknown - Top Gun: Maverick Edition | 204084 | [204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json](./204084-ace-combat-7-skies-unknown-top-gun-maverick-edition.json) |
 | Ace Combat 7: Skies Unknown - Ultimate Edition | 282547 | [282547-ace-combat-7-skies-unknown-ultimate-edition.json](./282547-ace-combat-7-skies-unknown-ultimate-edition.json) |
-| Ace Combat Zero: The Belkan War | 14754 | [14754-ace-combat-zero-the-belkan-war.json](./14754-ace-combat-zero-the-belkan-war.json) |
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace of Rope | 177475 | [177475-ace-of-rope.json](./177475-ace-of-rope.json) |
@@ -286,7 +285,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Biker Starring Clumsy Colin | 45338 | [45338-action-biker-starring-clumsy-colin.json](./45338-action-biker-starring-clumsy-colin.json) |
 | Action Card Football | 109662 | [109662-action-card-football.json](./109662-action-card-football.json) |
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
-| Action Doom 2: Urban Brawl | 55135 | [55135-action-doom-2-urban-brawl.json](./55135-action-doom-2-urban-brawl.json) |
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Fubuki | 288744 | [288744-action-fubuki.json](./288744-action-fubuki.json) |
 | Action Henk | 14550 | [14550-action-henk.json](./14550-action-henk.json) |
