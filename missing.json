@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T20:26:41.961Z",
-  "total_missing": 67061,
+  "generated_at": "2026-09-13T20:31:29.439Z",
+  "total_missing": 67067,
   "games": [
     {
       "igdb_id": 306086,
@@ -3896,11 +3896,6 @@
       "igdb_id": 242532,
       "game_name": "Adibou d'chou au Pays des Bonbons",
       "file": "missing/A/242532-adibou-dchou-au-pays-des-bonbons.json"
-    },
-    {
-      "igdb_id": 242535,
-      "game_name": "Adibou d'chou fête son anniversaire",
-      "file": "missing/A/242535-adibou-dchou-fete-son-anniversaire.json"
     },
     {
       "igdb_id": 242531,
@@ -35903,6 +35898,11 @@
       "file": "missing/B/191243-box-rush.json"
     },
     {
+      "igdb_id": 207448,
+      "game_name": "Box to the Beat VR",
+      "file": "missing/B/207448-box-to-the-beat-vr.json"
+    },
+    {
       "igdb_id": 310399,
       "game_name": "Box To The Beat VR: Electro Swing Pack",
       "file": "missing/B/310399-box-to-the-beat-vr-electro-swing-pack.json"
@@ -67446,6 +67446,11 @@
       "igdb_id": 244248,
       "game_name": "Deformed",
       "file": "missing/D/244248-deformed.json"
+    },
+    {
+      "igdb_id": 207118,
+      "game_name": "Deformers",
+      "file": "missing/D/207118-deformers.json"
     },
     {
       "igdb_id": 103390,
@@ -106268,6 +106273,11 @@
       "file": "missing/G/103461-galdur.json"
     },
     {
+      "igdb_id": 208021,
+      "game_name": "Gale of Windoria",
+      "file": "missing/G/208021-gale-of-windoria.json"
+    },
+    {
       "igdb_id": 31924,
       "game_name": "Galer: Plague of Heroes",
       "file": "missing/G/31924-galer-plague-of-heroes.json"
@@ -106641,6 +106651,11 @@
       "igdb_id": 127332,
       "game_name": "Game Tycoon",
       "file": "missing/G/127332-game-tycoon.json"
+    },
+    {
+      "igdb_id": 208040,
+      "game_name": "Game Type DX",
+      "file": "missing/G/208040-game-type-dx.json"
     },
     {
       "igdb_id": 192895,
@@ -123641,6 +123656,11 @@
       "igdb_id": 61565,
       "game_name": "Heroine Dream 2",
       "file": "missing/H/61565-heroine-dream-2.json"
+    },
+    {
+      "igdb_id": 207215,
+      "game_name": "Heroish",
+      "file": "missing/H/207215-heroish.json"
     },
     {
       "igdb_id": 155055,
@@ -221813,6 +221833,11 @@
       "file": "missing/R/19514-rays-the-dead.json"
     },
     {
+      "igdb_id": 207918,
+      "game_name": "Ray'z Arcade Chronology",
+      "file": "missing/R/207918-rayz-arcade-chronology.json"
+    },
+    {
       "igdb_id": 341306,
       "game_name": "Rayadium",
       "file": "missing/R/341306-rayadium.json"
@@ -286181,6 +286206,11 @@
       "igdb_id": 144783,
       "game_name": "The Jackbox Party Pack 8",
       "file": "missing/T/144783-the-jackbox-party-pack-8.json"
+    },
+    {
+      "igdb_id": 207095,
+      "game_name": "The Jackbox Party Starter",
+      "file": "missing/T/207095-the-jackbox-party-starter.json"
     },
     {
       "igdb_id": 318207,
