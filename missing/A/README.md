@@ -259,7 +259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
-| Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
 | Acid R[ai/eig]n | 283739 | [283739-acid-r-ai-eig-n.json](./283739-acid-r-ai-eig-n.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
 | Acid Worship | 271740 | [271740-acid-worship.json](./271740-acid-worship.json) |
