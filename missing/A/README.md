@@ -244,7 +244,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Rope | 177475 | [177475-ace-of-rope.json](./177475-ace-of-rope.json) |
 | Ace of Space | 123544 | [123544-ace-of-space.json](./123544-ace-of-space.json) |
 | Ace Racer | 174905 | [174905-ace-racer.json](./174905-ace-racer.json) |
-| Ace Strategy Mecha Nova | 335857 | [335857-ace-strategy-mecha-nova.json](./335857-ace-strategy-mecha-nova.json) |
 | Ace Thunder: Aircraft Wingman Simulator | 399610 | [399610-ace-thunder-aircraft-wingman-simulator.json](./399610-ace-thunder-aircraft-wingman-simulator.json) |
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | Acedior | 70432 | [70432-acedior.json](./70432-acedior.json) |
