@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Guard | 277276 | [277276-void-guard.json](./277276-void-guard.json) |
 | Void Inside | 282023 | [282023-void-inside.json](./282023-void-inside.json) |
+| Void Invaders | 18213 | [18213-void-invaders.json](./18213-void-invaders.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
 | Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidborn | 211924 | [211924-voidborn.json](./211924-voidborn.json) |
 | VoidCraft Island Chronicles: Sky Survival | 322401 | [322401-voidcraft-island-chronicles-sky-survival.json](./322401-voidcraft-island-chronicles-sky-survival.json) |
 | Voidcrisis | 210889 | [210889-voidcrisis.json](./210889-voidcrisis.json) |
+| VoidExpanse | 17863 | [17863-voidexpanse.json](./17863-voidexpanse.json) |
 | VoidExpanse - Complete Collection | 53870 | [53870-voidexpanse-complete-collection.json](./53870-voidexpanse-complete-collection.json) |
 | Voidface | 332424 | [332424-voidface.json](./332424-voidface.json) |
 | Voidline | 408037 | [408037-voidline.json](./408037-voidline.json) |
