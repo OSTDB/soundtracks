@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
 | Digimon Story Time Stranger: Deluxe Edition | 390528 | [390528-digimon-story-time-stranger-deluxe-edition.json](./390528-digimon-story-time-stranger-deluxe-edition.json) |
 | Digimon Story Time Stranger: Ultimate Edition | 390529 | [390529-digimon-story-time-stranger-ultimate-edition.json](./390529-digimon-story-time-stranger-ultimate-edition.json) |
+| Digimon Story: Cyber Sleuth | 15705 | [15705-digimon-story-cyber-sleuth.json](./15705-digimon-story-cyber-sleuth.json) |
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
 | Digimon Super Rumble | 202964 | [202964-digimon-super-rumble.json](./202964-digimon-super-rumble.json) |
 | Digimon Tamer Frontier | 56444 | [56444-digimon-tamer-frontier.json](./56444-digimon-tamer-frontier.json) |
@@ -2459,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dōngfāng Jiànjī zài Xīfāng Lǚxíng de Gùshì | 157212 | [157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json](./157212-dongfang-jianji-zai-xifang-luxing-de-gushi.json) |
 | Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
 | Donkey King Arcade Game | 96713 | [96713-donkey-king-arcade-game.json](./96713-donkey-king-arcade-game.json) |
+| Donkey Kong | 1089 | [1089-donkey-kong.json](./1089-donkey-kong.json) |
 | Donkey Kong | 257637 | [257637-donkey-kong.json](./257637-donkey-kong.json) |
 | Donkey Kong | 270404 | [270404-donkey-kong.json](./270404-donkey-kong.json) |
 | Donkey Kong 3 | 178167 | [178167-donkey-kong-3.json](./178167-donkey-kong-3.json) |
@@ -2874,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Super Butouden | 2545 | [2545-dragon-ball-z-super-butouden.json](./2545-dragon-ball-z-super-butouden.json) |
 | Dragon Ball Z: Super Goku-den - Totsugeki-hen | 38396 | [38396-dragon-ball-z-super-goku-den-totsugeki-hen.json](./38396-dragon-ball-z-super-goku-den-totsugeki-hen.json) |
 | Dragon Ball Z: Taiketsu | 2580 | [2580-dragon-ball-z-taiketsu.json](./2580-dragon-ball-z-taiketsu.json) |
+| Dragon Ball Z: The Legacy of Goku | 6387 | [6387-dragon-ball-z-the-legacy-of-goku.json](./6387-dragon-ball-z-the-legacy-of-goku.json) |
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
 | Dragon Ball: Sparking! Zero - Deluxe Edition | 319398 | [319398-dragon-ball-sparking-zero-deluxe-edition.json](./319398-dragon-ball-sparking-zero-deluxe-edition.json) |
