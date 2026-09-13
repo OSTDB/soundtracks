@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld Adventures 2 | 49865 | [49865-oddworld-adventures-2.json](./49865-oddworld-adventures-2.json) |
 | Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
 | Oddworld: Munch's Oddysee | 134025 | [134025-oddworld-munchs-oddysee.json](./134025-oddworld-munchs-oddysee.json) |
+| Oddworld: Munch's Oddysee HD | 51329 | [51329-oddworld-munchs-oddysee-hd.json](./51329-oddworld-munchs-oddysee-hd.json) |
 | Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Ode of Resurrection | 315489 | [315489-ode-of-resurrection.json](./315489-ode-of-resurrection.json) |
