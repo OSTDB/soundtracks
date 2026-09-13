@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jad | 151133 | [151133-jad.json](./151133-jad.json) |
 | JaDa Fishin' | 222948 | [222948-jada-fishin.json](./222948-jada-fishin.json) |
 | Jade Earth | 141255 | [141255-jade-earth.json](./141255-jade-earth.json) |
+| Jade Empire | 5867 | [5867-jade-empire.json](./5867-jade-empire.json) |
 | Jade Empire: Limited Edition | 47318 | [47318-jade-empire-limited-edition.json](./47318-jade-empire-limited-edition.json) |
 | Jade Guardian | 310186 | [310186-jade-guardian.json](./310186-jade-guardian.json) |
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
