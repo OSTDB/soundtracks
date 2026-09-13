@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Skateboarding | 248633 | [248633-backyard-skateboarding.json](./248633-backyard-skateboarding.json) |
 | Backyard Skateboarding | 49312 | [49312-backyard-skateboarding.json](./49312-backyard-skateboarding.json) |
 | Backyard Soccer 2004 | 72711 | [72711-backyard-soccer-2004.json](./72711-backyard-soccer-2004.json) |
+| Backyard Sports: Baseball 2007 | 72798 | [72798-backyard-sports-baseball-2007.json](./72798-backyard-sports-baseball-2007.json) |
 | Backyard Sports: Basketball 2007 | 73785 | [73785-backyard-sports-basketball-2007.json](./73785-backyard-sports-basketball-2007.json) |
 | Backyard Sports: Sandlot Sluggers | 47383 | [47383-backyard-sports-sandlot-sluggers.json](./47383-backyard-sports-sandlot-sluggers.json) |
 | Backyard Wrestling 2: There Goes the Neighborhood | 5735 | [5735-backyard-wrestling-2-there-goes-the-neighborhood.json](./5735-backyard-wrestling-2-there-goes-the-neighborhood.json) |
@@ -459,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banner of the Maid: Miss Elisa's Journal | 169950 | [169950-banner-of-the-maid-miss-elisas-journal.json](./169950-banner-of-the-maid-miss-elisas-journal.json) |
 | Banner of the Maid: The Oriental Pirate | 169949 | [169949-banner-of-the-maid-the-oriental-pirate.json](./169949-banner-of-the-maid-the-oriental-pirate.json) |
 | Bannerlands | 413683 | [413683-bannerlands.json](./413683-bannerlands.json) |
+| Bannerman | 70395 | [70395-bannerman.json](./70395-bannerman.json) |
 | Banners of Ruin: Moonstone | 230817 | [230817-banners-of-ruin-moonstone.json](./230817-banners-of-ruin-moonstone.json) |
 | Banquet of Nausea | 402887 | [402887-banquet-of-nausea.json](./402887-banquet-of-nausea.json) |
 | Banshee | 11939 | [11939-banshee.json](./11939-banshee.json) |
@@ -1806,6 +1808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
 | Bird | 159829 | [159829-bird.json](./159829-bird.json) |
 | Bird | 170496 | [170496-bird.json](./170496-bird.json) |
+| Bird & Beans | 70765 | [70765-bird-and-beans.json](./70765-bird-and-beans.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
 | Bird Bakery | 135239 | [135239-bird-bakery.json](./135239-bird-bakery.json) |
 | Bird Ball | 257378 | [257378-bird-ball.json](./257378-bird-ball.json) |
