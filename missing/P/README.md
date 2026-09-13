@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
 | Pantsylvania | 64373 | [64373-pantsylvania.json](./64373-pantsylvania.json) |
+| Panzar | 15740 | [15740-panzar.json](./15740-panzar.json) |
 | Panzer Attack/Red Baron | 95381 | [95381-panzer-attack-red-baron.json](./95381-panzer-attack-red-baron.json) |
 | Panzer Battles | 17997 | [17997-panzer-battles.json](./17997-panzer-battles.json) |
 | Panzer Campaigns: El Alamein '42 Gold | 124733 | [124733-panzer-campaigns-el-alamein-42-gold.json](./124733-panzer-campaigns-el-alamein-42-gold.json) |
@@ -833,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Rocketeer | 351610 | [351610-penguin-rocketeer.json](./351610-penguin-rocketeer.json) |
 | Penguin Take-Off!! | 305515 | [305515-penguin-take-off.json](./305515-penguin-take-off.json) |
 | Penguin Wars | 392168 | [392168-penguin-wars.json](./392168-penguin-wars.json) |
+| Penguins Arena: Sedna's World | 15779 | [15779-penguins-arena-sednas-world.json](./15779-penguins-arena-sednas-world.json) |
 | Penguins vs. Bugs | 122402 | [122402-penguins-vs-bugs.json](./122402-penguins-vs-bugs.json) |
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
@@ -1874,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
+| Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
 | Plasmaborne | 413592 | [413592-plasmaborne.json](./413592-plasmaborne.json) |
 | Plasmatron | 53165 | [53165-plasmatron.json](./53165-plasmatron.json) |
 | Plasmaworm | 93052 | [93052-plasmaworm.json](./93052-plasmaworm.json) |
@@ -2726,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PreSim | 88242 | [88242-presim.json](./88242-presim.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
+| Press X to Not Die | 13619 | [13619-press-x-to-not-die.json](./13619-press-x-to-not-die.json) |
 | Press Your Luck | 52646 | [52646-press-your-luck.json](./52646-press-your-luck.json) |
 | Pressure Cooker | 25732 | [25732-pressure-cooker.json](./25732-pressure-cooker.json) |
 | Pressure Gauge | 40756 | [40756-pressure-gauge.json](./40756-pressure-gauge.json) |
@@ -2773,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime | 291783 | [291783-prime.json](./291783-prime.json) |
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
 | Prime T!me: Der Fernsehmanager | 98938 | [98938-prime-t-me-der-fernsehmanager.json](./98938-prime-t-me-der-fernsehmanager.json) |
+| Prime World | 15037 | [15037-prime-world.json](./15037-prime-world.json) |
 | Prime World: Alchemy | 63306 | [63306-prime-world-alchemy.json](./63306-prime-world-alchemy.json) |
 | Prime World: Defenders | 16507 | [16507-prime-world-defenders.json](./16507-prime-world-defenders.json) |
 | Prime World: Defenders 2 | 112944 | [112944-prime-world-defenders-2.json](./112944-prime-world-defenders-2.json) |
@@ -2953,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Philosopher 2: Fan Mini Argument: Locke on Property and Labor | 394866 | [394866-pro-philosopher-2-fan-mini-argument-locke-on-property-and-labor.json](./394866-pro-philosopher-2-fan-mini-argument-locke-on-property-and-labor.json) |
 | Pro Pilkki 2 | 93597 | [93597-pro-pilkki-2.json](./93597-pro-pilkki-2.json) |
 | Pro Pinball: Fantastic Journey | 43877 | [43877-pro-pinball-fantastic-journey.json](./43877-pro-pinball-fantastic-journey.json) |
+| Pro Pinball: Timeshock! | 12905 | [12905-pro-pinball-timeshock.json](./12905-pro-pinball-timeshock.json) |
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
 | Pro Rugby Manager 2 | 67949 | [67949-pro-rugby-manager-2.json](./67949-pro-rugby-manager-2.json) |
 | Pro Skateboard Simulator | 69867 | [69867-pro-skateboard-simulator.json](./69867-pro-skateboard-simulator.json) |
