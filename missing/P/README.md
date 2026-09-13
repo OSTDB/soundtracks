@@ -364,6 +364,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Train | 63251 | [63251-paper-train.json](./63251-paper-train.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
 | Paper-io | 79219 | [79219-paper-io.json](./79219-paper-io.json) |
+| Paper.io | 113940 | [113940-paper-io.json](./113940-paper-io.json) |
+| Paper.io 2 | 108159 | [108159-paper-io-2.json](./108159-paper-io-2.json) |
 | Paperboy | 256079 | [256079-paperboy.json](./256079-paperboy.json) |
 | Paperboy | 256082 | [256082-paperboy.json](./256082-paperboy.json) |
 | Paperboy: Special Delivery | 55885 | [55885-paperboy-special-delivery.json](./55885-paperboy-special-delivery.json) |
