@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Schmilblick | 118315 | [118315-le-schmilblick.json](./118315-le-schmilblick.json) |
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
+| Lead and Gold: Gangs of the Wild West | 2041 | [2041-lead-and-gold-gangs-of-the-wild-west.json](./2041-lead-and-gold-gangs-of-the-wild-west.json) |
 | Leader of the Pack | 285971 | [285971-leader-of-the-pack.json](./285971-leader-of-the-pack.json) |
 | Leadersheep | 183509 | [183509-leadersheep.json](./183509-leadersheep.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
@@ -691,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LeHweng LeHweng | 156683 | [156683-lehweng-lehweng.json](./156683-lehweng-lehweng.json) |
 | Leikkaus | 413620 | [413620-leikkaus.json](./413620-leikkaus.json) |
 | Leiria: Stargazer | 202865 | [202865-leiria-stargazer.json](./202865-leiria-stargazer.json) |
+| Leisure Suit Larry: Box Office Bust | 2914 | [2914-leisure-suit-larry-box-office-bust.json](./2914-leisure-suit-larry-box-office-bust.json) |
 | Leisure Suit Larry: Magna Cum Laude | 2913 | [2913-leisure-suit-larry-magna-cum-laude.json](./2913-leisure-suit-larry-magna-cum-laude.json) |
 | Leisure Suit Larry: Wet Dreams Don't Dry | 102087 | [102087-leisure-suit-larry-wet-dreams-dont-dry.json](./102087-leisure-suit-larry-wet-dreams-dont-dry.json) |
 | Leisure Suit Larry: Wet Dreams Saga Bundle | 173791 | [173791-leisure-suit-larry-wet-dreams-saga-bundle.json](./173791-leisure-suit-larry-wet-dreams-saga-bundle.json) |
