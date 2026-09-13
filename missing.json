@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T02:33:29.189Z",
-  "total_missing": 64289,
+  "generated_at": "2026-09-13T02:41:36.644Z",
+  "total_missing": 64288,
   "games": [
     {
       "igdb_id": 306086,
@@ -3331,11 +3331,6 @@
       "igdb_id": 304031,
       "game_name": "Ace Attorney: Ultimate Justice",
       "file": "missing/A/304031-ace-attorney-ultimate-justice.json"
-    },
-    {
-      "igdb_id": 182524,
-      "game_name": "Ace Baker",
-      "file": "missing/A/182524-ace-baker.json"
     },
     {
       "igdb_id": 25108,
