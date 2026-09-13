@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T06:21:27.585Z",
-  "total_missing": 64968,
+  "generated_at": "2026-09-13T06:31:37.830Z",
+  "total_missing": 64977,
   "games": [
     {
       "igdb_id": 306086,
@@ -3446,11 +3446,6 @@
       "igdb_id": 45294,
       "game_name": "Aces of War",
       "file": "missing/A/45294-aces-of-war.json"
-    },
-    {
-      "igdb_id": 104680,
-      "game_name": "Achaem",
-      "file": "missing/A/104680-achaem.json"
     },
     {
       "igdb_id": 150121,
@@ -63488,6 +63483,11 @@
       "file": "missing/D/25654-dead-of-winter-the-long-night.json"
     },
     {
+      "igdb_id": 1387,
+      "game_name": "Dead or Alive",
+      "file": "missing/D/1387-dead-or-alive.json"
+    },
+    {
       "igdb_id": 1391,
       "game_name": "Dead or Alive 1 Ultimate",
       "file": "missing/D/1391-dead-or-alive-1-ultimate.json"
@@ -93358,6 +93358,11 @@
       "file": "missing/F/273926-fire-emblem-the-lonely-mirror.json"
     },
     {
+      "igdb_id": 1437,
+      "game_name": "Fire Emblem: Thracia 776",
+      "file": "missing/F/1437-fire-emblem-thracia-776.json"
+    },
+    {
       "igdb_id": 141237,
       "game_name": "Fire Emblem: Vision Quest",
       "file": "missing/F/141237-fire-emblem-vision-quest.json"
@@ -100301,6 +100306,11 @@
       "igdb_id": 191401,
       "game_name": "Front Mission 2: Remake",
       "file": "missing/F/191401-front-mission-2-remake.json"
+    },
+    {
+      "igdb_id": 1502,
+      "game_name": "Front Mission 3",
+      "file": "missing/F/1502-front-mission-3.json"
     },
     {
       "igdb_id": 67995,
@@ -109691,6 +109701,11 @@
       "igdb_id": 339256,
       "game_name": "Gran Turismo 4: Spec II",
       "file": "missing/G/339256-gran-turismo-4-spec-ii.json"
+    },
+    {
+      "igdb_id": 1599,
+      "game_name": "Gran Turismo 5 Prologue",
+      "file": "missing/G/1599-gran-turismo-5-prologue.json"
     },
     {
       "igdb_id": 77993,
@@ -125681,6 +125696,11 @@
       "igdb_id": 152327,
       "game_name": "Huntdown: Collector's Edition",
       "file": "missing/H/152327-huntdown-collectors-edition.json"
+    },
+    {
+      "igdb_id": 505,
+      "game_name": "Hunted: The Demon's Forge",
+      "file": "missing/H/505-hunted-the-demons-forge.json"
     },
     {
       "igdb_id": 192461,
@@ -157533,6 +157553,11 @@
       "file": "missing/M/224015-majesty-northern-kingdom.json"
     },
     {
+      "igdb_id": 781,
+      "game_name": "Majesty: The Fantasy Kingdom Sim",
+      "file": "missing/M/781-majesty-the-fantasy-kingdom-sim.json"
+    },
+    {
       "igdb_id": 112295,
       "game_name": "Maji de Watashi ni Koishinasai! A Plus Disk",
       "file": "missing/M/112295-maji-de-watashi-ni-koishinasai-a-plus-disk.json"
@@ -179051,6 +179076,11 @@
       "igdb_id": 265670,
       "game_name": "Natural Pressures",
       "file": "missing/N/265670-natural-pressures.json"
+    },
+    {
+      "igdb_id": 1335,
+      "game_name": "Natural Selection 2",
+      "file": "missing/N/1335-natural-selection-2.json"
     },
     {
       "igdb_id": 30887,
@@ -237823,6 +237853,11 @@
       "file": "missing/S/459-simon-the-sorcerer.json"
     },
     {
+      "igdb_id": 460,
+      "game_name": "Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe",
+      "file": "missing/S/460-simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe.json"
+    },
+    {
       "igdb_id": 227848,
       "game_name": "Simon: The Memory Game",
       "file": "missing/S/227848-simon-the-memory-game.json"
@@ -238586,6 +238621,11 @@
       "igdb_id": 183078,
       "game_name": "Sins",
       "file": "missing/S/183078-sins.json"
+    },
+    {
+      "igdb_id": 872,
+      "game_name": "Sins of a Solar Empire",
+      "file": "missing/S/872-sins-of-a-solar-empire.json"
     },
     {
       "igdb_id": 10868,
@@ -251021,6 +251061,11 @@
       "igdb_id": 253357,
       "game_name": "Spyro the Dragon 8",
       "file": "missing/S/253357-spyro-the-dragon-8.json"
+    },
+    {
+      "igdb_id": 1580,
+      "game_name": "Spyro: A Hero's Tail",
+      "file": "missing/S/1580-spyro-a-heros-tail.json"
     },
     {
       "igdb_id": 1587,
