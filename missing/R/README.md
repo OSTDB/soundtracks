@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
+| R.B.I. Baseball 15 | 17962 | [17962-r-b-i-baseball-15.json](./17962-r-b-i-baseball-15.json) |
 | R.B.I. Baseball 16 | 23379 | [23379-r-b-i-baseball-16.json](./23379-r-b-i-baseball-16.json) |
 | R.B.I. Baseball 2 | 48090 | [48090-r-b-i-baseball-2.json](./48090-r-b-i-baseball-2.json) |
 | R.B.I. Baseball 20 | 126188 | [126188-r-b-i-baseball-20.json](./126188-r-b-i-baseball-20.json) |
@@ -83,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race to Kyiv | 392804 | [392804-race-to-kyiv.json](./392804-race-to-kyiv.json) |
 | Race To The Sea | 372479 | [372479-race-to-the-sea.json](./372479-race-to-the-sea.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
+| Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
 | Racer | 79859 | [79859-racer.json](./79859-racer.json) |
 | Racerloop | 259817 | [259817-racerloop.json](./259817-racerloop.json) |
 | RaceRoom - Audi Sport TT Cup 2015 | 53170 | [53170-raceroom-audi-sport-tt-cup-2015.json](./53170-raceroom-audi-sport-tt-cup-2015.json) |
