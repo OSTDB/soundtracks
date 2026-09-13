@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedal Up! | 244809 | [244809-pedal-up.json](./244809-pedal-up.json) |
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
+| Peekaboo Collection - 3 Tales of Horror | 132347 | [132347-peekaboo-collection-3-tales-of-horror.json](./132347-peekaboo-collection-3-tales-of-horror.json) |
 | Peeking at the peak | 278387 | [278387-peeking-at-the-peak.json](./278387-peeking-at-the-peak.json) |
 | Peer Gynt the Game | 126586 | [126586-peer-gynt-the-game.json](./126586-peer-gynt-the-game.json) |
 | Peer to Peer | 306646 | [306646-peer-to-peer.json](./306646-peer-to-peer.json) |
@@ -1339,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
 | Pikmin Puzzle Card e+ | 220852 | [220852-pikmin-puzzle-card-e.json](./220852-pikmin-puzzle-card-e.json) |
+| Piko Interactive Collection 1 | 130691 | [130691-piko-interactive-collection-1.json](./130691-piko-interactive-collection-1.json) |
 | Piko Interactive Collection 3 | 241982 | [241982-piko-interactive-collection-3.json](./241982-piko-interactive-collection-3.json) |
 | Piko-piko Kiritan Island | 204730 | [204730-piko-piko-kiritan-island.json](./204730-piko-piko-kiritan-island.json) |
 | Piko-piko: Koisuru Kimochi no Nemuru Basho | 201834 | [201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json](./201834-piko-piko-koisuru-kimochi-no-nemuru-basho.json) |
@@ -1727,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
 | Pixeline: Syng, Leg og Lær | 143751 | [143751-pixeline-syng-leg-og-l-r.json](./143751-pixeline-syng-leg-og-l-r.json) |
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
+| PixelJunk Eden 2 | 131872 | [131872-pixeljunk-eden-2.json](./131872-pixeljunk-eden-2.json) |
 | PixelJunk Eden Encore | 140012 | [140012-pixeljunk-eden-encore.json](./140012-pixeljunk-eden-encore.json) |
 | PixelJunk Eden Obscura | 140013 | [140013-pixeljunk-eden-obscura.json](./140013-pixeljunk-eden-obscura.json) |
 | PixelJunk Monsters 2 | 95386 | [95386-pixeljunk-monsters-2.json](./95386-pixeljunk-monsters-2.json) |
@@ -2596,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Party: Hash It Out | 144943 | [144943-potato-party-hash-it-out.json](./144943-potato-party-hash-it-out.json) |
 | Potato Salad | 290960 | [290960-potato-salad.json](./290960-potato-salad.json) |
 | Potato Survival | 218708 | [218708-potato-survival.json](./218708-potato-survival.json) |
+| Potion Commotion | 130128 | [130128-potion-commotion.json](./130128-potion-commotion.json) |
 | Potion Craft | 142941 | [142941-potion-craft.json](./142941-potion-craft.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
 | Potion Permit | 155706 | [155706-potion-permit.json](./155706-potion-permit.json) |
