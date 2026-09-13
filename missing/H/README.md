@@ -240,6 +240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Panic | 151743 | [151743-hamster-panic.json](./151743-hamster-panic.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
+| Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
 | Hana | 178033 | [178033-hana.json](./178033-hana.json) |
 | Hana | 369565 | [369565-hana.json](./369565-hana.json) |
 | Hana Oboro: Sengoku-den Ranki | 136480 | [136480-hana-oboro-sengoku-den-ranki.json](./136480-hana-oboro-sengoku-den-ranki.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Work | 102327 | [102327-hard-work.json](./102327-hard-work.json) |
 | Hard-Life | 219809 | [219809-hard-life.json](./219809-hard-life.json) |
 | HardBall | 268448 | [268448-hardball.json](./268448-hardball.json) |
+| HardBall! | 12136 | [12136-hardball.json](./12136-hardball.json) |
 | HardBoiledFarm | 255967 | [255967-hardboiledfarm.json](./255967-hardboiledfarm.json) |
 | HardCop 2 | 156681 | [156681-hardcop-2.json](./156681-hardcop-2.json) |
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
@@ -2388,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
 | Hugo: Frog Fighter | 25666 | [25666-hugo-frog-fighter.json](./25666-hugo-frog-fighter.json) |
 | Hugo: Magic in the Trollwoods | 48023 | [48023-hugo-magic-in-the-trollwoods.json](./48023-hugo-magic-in-the-trollwoods.json) |
+| Hugo: På Nye Eventyr | 11760 | [11760-hugo-pa-nye-eventyr.json](./11760-hugo-pa-nye-eventyr.json) |
 | Hugo: The Forces of Nature | 15538 | [15538-hugo-the-forces-of-nature.json](./15538-hugo-the-forces-of-nature.json) |
 | Hugo: The Quest for the Sunstones | 44743 | [44743-hugo-the-quest-for-the-sunstones.json](./44743-hugo-the-quest-for-the-sunstones.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
@@ -2472,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
 | Hunt the Thailand Hidden | 119696 | [119696-hunt-the-thailand-hidden.json](./119696-hunt-the-thailand-hidden.json) |
+| Hunt the Wumpus | 11498 | [11498-hunt-the-wumpus.json](./11498-hunt-the-wumpus.json) |
 | Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
 | Hunt: Showdown - The Concubine | 226206 | [226206-hunt-showdown-the-concubine.json](./226206-hunt-showdown-the-concubine.json) |
 | Hunt: Showdown 1896 - Law of Salvage | 276197 | [276197-hunt-showdown-1896-law-of-salvage.json](./276197-hunt-showdown-1896-law-of-salvage.json) |
@@ -2541,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hybrid Blood | 347161 | [347161-hybrid-blood.json](./347161-hybrid-blood.json) |
 | Hybrid Wars: Yana 'Tesla' Radovich | 168342 | [168342-hybrid-wars-yana-tesla-radovich.json](./168342-hybrid-wars-yana-tesla-radovich.json) |
 | Hybrid Wars: Yoko Takano | 168341 | [168341-hybrid-wars-yoko-takano.json](./168341-hybrid-wars-yoko-takano.json) |
+| Hybris | 12150 | [12150-hybris.json](./12150-hybris.json) |
 | Hyde | 192967 | [192967-hyde.json](./192967-hyde.json) |
 | Hyde and Seek | 193950 | [193950-hyde-and-seek.json](./193950-hyde-and-seek.json) |
 | Hyde and Zeke | 166782 | [166782-hyde-and-zeke.json](./166782-hyde-and-zeke.json) |
