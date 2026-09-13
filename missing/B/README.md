@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BackRooms's 1995 The Lost Footage: Chapter 1 | 298562 | [298562-backroomss-1995-the-lost-footage-chapter-1.json](./298562-backroomss-1995-the-lost-footage-chapter-1.json) |
 | Backseat Drivers | 342047 | [342047-backseat-drivers.json](./342047-backseat-drivers.json) |
 | BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
+| BackStab HD | 19257 | [19257-backstab-hd.json](./19257-backstab-hd.json) |
 | Backstage | 206727 | [206727-backstage.json](./206727-backstage.json) |
 | Backstage at Naked Porn Battle | 280204 | [280204-backstage-at-naked-porn-battle.json](./280204-backstage-at-naked-porn-battle.json) |
 | Backstage Pass | 234907 | [234907-backstage-pass.json](./234907-backstage-pass.json) |
@@ -484,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie for Girls Soccer | 245563 | [245563-barbie-for-girls-soccer.json](./245563-barbie-for-girls-soccer.json) |
 | Barbie for Girls Softball | 245562 | [245562-barbie-for-girls-softball.json](./245562-barbie-for-girls-softball.json) |
 | Barbie Girl | 260128 | [260128-barbie-girl.json](./260128-barbie-girl.json) |
+| Barbie Pet Rescue | 19402 | [19402-barbie-pet-rescue.json](./19402-barbie-pet-rescue.json) |
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
@@ -1666,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biniku no Kaori: Bangai Hen | 237405 | [237405-biniku-no-kaori-bangai-hen.json](./237405-biniku-no-kaori-bangai-hen.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
 | Bio Fail | 410910 | [410910-bio-fail.json](./410910-bio-fail.json) |
+| Bio Force Ape | 19378 | [19378-bio-force-ape.json](./19378-bio-force-ape.json) |
 | Bio Senshi Dan: Increaser to no Tatakai | 48647 | [48647-bio-senshi-dan-increaser-to-no-tatakai.json](./48647-bio-senshi-dan-increaser-to-no-tatakai.json) |
 | Bio-Hazard Battle | 4517 | [4517-bio-hazard-battle.json](./4517-bio-hazard-battle.json) |
 | Bio-Synthetica | 235199 | [235199-bio-synthetica.json](./235199-bio-synthetica.json) |
@@ -3225,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Briks Head to Head | 187547 | [187547-briks-head-to-head.json](./187547-briks-head-to-head.json) |
 | Brilliance shines in Zhejiang | 201797 | [201797-brilliance-shines-in-zhejiang.json](./201797-brilliance-shines-in-zhejiang.json) |
+| Brilliant Bob | 19484 | [19484-brilliant-bob.json](./19484-brilliant-bob.json) |
 | Brimstone Brawlers | 105267 | [105267-brimstone-brawlers.json](./105267-brimstone-brawlers.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
@@ -3283,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothers | 193446 | [193446-brothers.json](./193446-brothers.json) |
 | Brothers Conflict: Brilliant Blue | 45991 | [45991-brothers-conflict-brilliant-blue.json](./45991-brothers-conflict-brilliant-blue.json) |
 | Brothers Conflict: Passion Pink | 45990 | [45990-brothers-conflict-passion-pink.json](./45990-brothers-conflict-passion-pink.json) |
+| Brothers in Arms 3: Sons of War | 19263 | [19263-brothers-in-arms-3-sons-of-war.json](./19263-brothers-in-arms-3-sons-of-war.json) |
 | Brothers: Clash of Fighters | 252152 | [252152-brothers-clash-of-fighters.json](./252152-brothers-clash-of-fighters.json) |
 | Broventure: The Wild Co-op | 332270 | [332270-broventure-the-wild-co-op.json](./332270-broventure-the-wild-co-op.json) |
 | Brown Trouble | 295011 | [295011-brown-trouble.json](./295011-brown-trouble.json) |
