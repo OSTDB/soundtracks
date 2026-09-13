@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T12:34:08.679Z",
-  "total_missing": 65851,
+  "generated_at": "2026-09-13T12:41:31.961Z",
+  "total_missing": 65850,
   "games": [
     {
       "igdb_id": 306086,
@@ -3631,11 +3631,6 @@
       "igdb_id": 238205,
       "game_name": "Action 52",
       "file": "missing/A/238205-action-52.json"
-    },
-    {
-      "igdb_id": 5340,
-      "game_name": "Action 52",
-      "file": "missing/A/5340-action-52.json"
     },
     {
       "igdb_id": 177040,
