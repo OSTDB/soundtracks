@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest - Rebitten | 217540 | [217540-castlevania-ii-simons-quest-rebitten.json](./217540-castlevania-ii-simons-quest-rebitten.json) |
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
+| Castlevania Legends | 1129 | [1129-castlevania-legends.json](./1129-castlevania-legends.json) |
 | Castlevania: Aria of Sorrow | 1134 | [1134-castlevania-aria-of-sorrow.json](./1134-castlevania-aria-of-sorrow.json) |
 | Castlevania: Aria of Sorrow - Magician Mode | 268721 | [268721-castlevania-aria-of-sorrow-magician-mode.json](./268721-castlevania-aria-of-sorrow-magician-mode.json) |
 | Castlevania: Aria of Sorrow - Persephone | 268722 | [268722-castlevania-aria-of-sorrow-persephone.json](./268722-castlevania-aria-of-sorrow-persephone.json) |
@@ -2558,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Colours: The Great War | 175382 | [175382-command-and-colours-the-great-war.json](./175382-command-and-colours-the-great-war.json) |
 | Command & Conquer 3: Tiberium Wars | 281426 | [281426-command-and-conquer-3-tiberium-wars.json](./281426-command-and-conquer-3-tiberium-wars.json) |
 | Command & Conquer 4: Tiberian Twilight | 670 | [670-command-and-conquer-4-tiberian-twilight.json](./670-command-and-conquer-4-tiberian-twilight.json) |
+| Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
 | Command & Conquer: Generals | 649 | [649-command-and-conquer-generals.json](./649-command-and-conquer-generals.json) |
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
@@ -2877,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cora | 366836 | [366836-cora.json](./366836-cora.json) |
 | Coraabia | 63300 | [63300-coraabia.json](./63300-coraabia.json) |
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
+| Coral Island | 143061 | [143061-coral-island.json](./143061-coral-island.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
 | Corbid! A Colorful Adventure | 223157 | [223157-corbid-a-colorful-adventure.json](./223157-corbid-a-colorful-adventure.json) |
@@ -3695,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoQuote | 96031 | [96031-cryptoquote.json](./96031-cryptoquote.json) |
 | Cryptoria | 406128 | [406128-cryptoria.json](./406128-cryptoria.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
+| Crysis 2 Remastered | 165126 | [165126-crysis-2-remastered.json](./165126-crysis-2-remastered.json) |
 | Crysis 3 Remastered | 165127 | [165127-crysis-3-remastered.json](./165127-crysis-3-remastered.json) |
 | Crysis 3: Hunter Edition | 46635 | [46635-crysis-3-hunter-edition.json](./46635-crysis-3-hunter-edition.json) |
 | Crysis Remastered | 132164 | [132164-crysis-remastered.json](./132164-crysis-remastered.json) |
