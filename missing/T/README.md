@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talon City: Death from Above | 214173 | [214173-talon-city-death-from-above.json](./214173-talon-city-death-from-above.json) |
 | Talon One: Bounty Hunter | 305521 | [305521-talon-one-bounty-hunter.json](./305521-talon-one-bounty-hunter.json) |
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
+| Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
 | Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
 | Tamadog | 227503 | [227503-tamadog.json](./227503-tamadog.json) |
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
@@ -1756,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
 | The Day the World Broke | 7721 | [7721-the-day-the-world-broke.json](./7721-the-day-the-world-broke.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
+| The Dead Linger | 9055 | [9055-the-dead-linger.json](./9055-the-dead-linger.json) |
 | The Dead Mountaineer's Hotel | 54438 | [54438-the-dead-mountaineers-hotel.json](./54438-the-dead-mountaineers-hotel.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
 | The Deadlands | 257689 | [257689-the-deadlands.json](./257689-the-deadlands.json) |
@@ -2996,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
 | The Narrator Says We're Meant to Be! | 394816 | [394816-the-narrator-says-were-meant-to-be.json](./394816-the-narrator-says-were-meant-to-be.json) |
+| The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
@@ -4135,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zombiest Adventures in the Perverted Age of Enlightenment With a Pinch of Woodpunk | 28909 | [28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json](./28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json) |
 | The Zombland: Enter at Your Peril | 291244 | [291244-the-zombland-enter-at-your-peril.json](./291244-the-zombland-enter-at-your-peril.json) |
 | The Zone: Stalker Stories | 135901 | [135901-the-zone-stalker-stories.json](./135901-the-zone-stalker-stories.json) |
+| The Zoo Race | 9097 | [9097-the-zoo-race.json](./9097-the-zoo-race.json) |
 | The Zvengers: Infinity Defense | 328472 | [328472-the-zvengers-infinity-defense.json](./328472-the-zvengers-infinity-defense.json) |
 | The_Painther | 410884 | [410884-the-painther.json](./410884-the-painther.json) |
 | The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
@@ -4962,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
 | Time Pilot | 246402 | [246402-time-pilot.json](./246402-time-pilot.json) |
 | Time Pilot Demake | 303780 | [303780-time-pilot-demake.json](./303780-time-pilot-demake.json) |
+| Time Ramesside | 9050 | [9050-time-ramesside.json](./9050-time-ramesside.json) |
 | Time Scanner | 12865 | [12865-time-scanner.json](./12865-time-scanner.json) |
 | Time Secret | 91457 | [91457-time-secret.json](./91457-time-secret.json) |
 | Time Secret 2: Time Tunnel | 91458 | [91458-time-secret-2-time-tunnel.json](./91458-time-secret-2-time-tunnel.json) |
@@ -5641,6 +5646,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Tôtem | 133974 | [133974-totem.json](./133974-totem.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
+| Totem Tribe | 9113 | [9113-totem-tribe.json](./9113-totem-tribe.json) |
+| Totem Tribe II: Jotun | 9114 | [9114-totem-tribe-ii-jotun.json](./9114-totem-tribe-ii-jotun.json) |
 | TotemBall | 79930 | [79930-totemball.json](./79930-totemball.json) |
 | Totemlands | 213941 | [213941-totemlands.json](./213941-totemlands.json) |
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
@@ -6664,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Fantasy Live Online | 18106 | [18106-true-fantasy-live-online.json](./18106-true-fantasy-live-online.json) |
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
+| True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
