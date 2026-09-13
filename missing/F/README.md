@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fittest | 100167 | [100167-fittest.json](./100167-fittest.json) |
 | Fitting-In | 253942 | [253942-fitting-in.json](./253942-fitting-in.json) |
 | Fitzzle: Vicious Alligators | 108412 | [108412-fitzzle-vicious-alligators.json](./108412-fitzzle-vicious-alligators.json) |
+| Five A Day | 9135 | [9135-five-a-day.json](./9135-five-a-day.json) |
 | Five a Side Football 2024 | 267413 | [267413-five-a-side-football-2024.json](./267413-five-a-side-football-2024.json) |
 | Five Dates | 141088 | [141088-five-dates.json](./141088-five-dates.json) |
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
