@@ -45,6 +45,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
 | Obscure Doubt | 117068 | [117068-obscure-doubt.json](./117068-obscure-doubt.json) |
 | Obscure Horrors | 386684 | [386684-obscure-horrors.json](./386684-obscure-horrors.json) |
+| Obscuritas | 18431 | [18431-obscuritas.json](./18431-obscuritas.json) |
 | Obscurity | 99661 | [99661-obscurity.json](./99661-obscurity.json) |
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
@@ -487,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On learning that the night will soon be over | 135860 | [135860-on-learning-that-the-night-will-soon-be-over.json](./135860-on-learning-that-the-night-will-soon-be-over.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
 | On Pixels: A Lights Out Game | 172175 | [172175-on-pixels-a-lights-out-game.json](./172175-on-pixels-a-lights-out-game.json) |
+| On Rusty Trails | 19479 | [19479-on-rusty-trails.json](./19479-on-rusty-trails.json) |
 | On Sunday | 209642 | [209642-on-sunday.json](./209642-on-sunday.json) |
 | On Sunday 2 | 317212 | [317212-on-sunday-2.json](./317212-on-sunday-2.json) |
 | On Target | 69850 | [69850-on-target.json](./69850-on-target.json) |
@@ -652,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Strike: Rise of Dragons | 238180 | [238180-one-strike-rise-of-dragons.json](./238180-one-strike-rise-of-dragons.json) |
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
 | One Thousand and One Days | 182969 | [182969-one-thousand-and-one-days.json](./182969-one-thousand-and-one-days.json) |
+| One Thousand Lies | 19444 | [19444-one-thousand-lies.json](./19444-one-thousand-lies.json) |
 | One to Three: Sovereignty | 182998 | [182998-one-to-three-sovereignty.json](./182998-one-to-three-sovereignty.json) |
 | One Tower Defense | 390517 | [390517-one-tower-defense.json](./390517-one-tower-defense.json) |
 | One Try Tower | 150623 | [150623-one-try-tower.json](./150623-one-try-tower.json) |
@@ -1016,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar Mike VR | 30810 | [30810-oscar-mike-vr.json](./30810-oscar-mike-vr.json) |
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
+| Oscura: Lost Light | 17784 | [17784-oscura-lost-light.json](./17784-oscura-lost-light.json) |
 | OSD vs RON | 70377 | [70377-osd-vs-ron.json](./70377-osd-vs-ron.json) |
 | Oshare Beena: o-Mise de Kisekae Make Haircut | 300424 | [300424-oshare-beena-o-mise-de-kisekae-make-haircut.json](./300424-oshare-beena-o-mise-de-kisekae-make-haircut.json) |
 | Oshare de Kawaii Koinu to Asobo!: Machi-hen | 141148 | [141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json](./141148-oshare-de-kawaii-koinu-to-asobo-machi-hen.json) |
