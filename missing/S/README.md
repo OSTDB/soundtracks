@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
+| Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
 | Shiba Cafe | 177516 | [177516-shiba-cafe.json](./177516-shiba-cafe.json) |
 | Shiba Eternity | 221385 | [221385-shiba-eternity.json](./221385-shiba-eternity.json) |
 | Shiba Inu Rescue | 147381 | [147381-shiba-inu-rescue.json](./147381-shiba-inu-rescue.json) |
