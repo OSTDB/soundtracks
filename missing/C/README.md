@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Mirror | 276696 | [276696-chrono-mirror.json](./276696-chrono-mirror.json) |
 | Chrono Tales | 333574 | [333574-chrono-tales.json](./333574-chrono-tales.json) |
 | Chrono Trigger | 20398 | [20398-chrono-trigger.json](./20398-chrono-trigger.json) |
+| Chrono Trigger | 263446 | [263446-chrono-trigger.json](./263446-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
@@ -2569,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: Red Alert - Retaliation | 18785 | [18785-command-and-conquer-red-alert-retaliation.json](./18785-command-and-conquer-red-alert-retaliation.json) |
 | Command & Conquer: Red Alert 2 - Mental Omega | 180284 | [180284-command-and-conquer-red-alert-2-mental-omega.json](./180284-command-and-conquer-red-alert-2-mental-omega.json) |
 | Command & Conquer: Red Alert 3 | 959 | [959-command-and-conquer-red-alert-3.json](./959-command-and-conquer-red-alert-3.json) |
+| Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
 | Command Ops: Battles for Greece | 74324 | [74324-command-ops-battles-for-greece.json](./74324-command-ops-battles-for-greece.json) |
 | Command-Ω Omega | 357814 | [357814-command-omega.json](./357814-command-omega.json) |
@@ -2661,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Con Man: The Game | 76571 | [76571-con-man-the-game.json](./76571-con-man-the-game.json) |
 | Con-Quest | 140569 | [140569-con-quest.json](./140569-con-quest.json) |
 | Conan | 3862 | [3862-conan.json](./3862-conan.json) |
+| Conan | 9006 | [9006-conan.json](./9006-conan.json) |
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
 | Conan Exiles: Riders of Hyboria | 127253 | [127253-conan-exiles-riders-of-hyboria.json](./127253-conan-exiles-riders-of-hyboria.json) |
 | Conan the mighty pig | 32411 | [32411-conan-the-mighty-pig.json](./32411-conan-the-mighty-pig.json) |
@@ -3243,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash & Spyro Superpack I Crash Bandicoot: The Huge Adventure / Spyro: Season of Ice | 210236 | [210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json](./210236-crash-and-spyro-superpack-i-crash-bandicoot-the-huge-adventure-spyro-season-of-ice.json) |
 | Crash and Run | 238481 | [238481-crash-and-run.json](./238481-crash-and-run.json) |
 | Crash Bandicoot | 210243 | [210243-crash-bandicoot.json](./210243-crash-bandicoot.json) |
+| Crash Bandicoot 2: N-Tranced | 1198 | [1198-crash-bandicoot-2-n-tranced.json](./1198-crash-bandicoot-2-n-tranced.json) |
 | Crash Bandicoot 4: N. Hanced | 323730 | [323730-crash-bandicoot-4-n-hanced.json](./323730-crash-bandicoot-4-n-hanced.json) |
 | Crash Bandicoot Nitro Kart 2 | 21749 | [21749-crash-bandicoot-nitro-kart-2.json](./21749-crash-bandicoot-nitro-kart-2.json) |
 | Crash Bandicoot Party Games | 210240 | [210240-crash-bandicoot-party-games.json](./210240-crash-bandicoot-party-games.json) |
