@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Boyfriend | 207322 | [207322-perfect-boyfriend.json](./207322-perfect-boyfriend.json) |
 | Perfect Cells Project | 278388 | [278388-perfect-cells-project.json](./278388-perfect-cells-project.json) |
 | Perfect Choro Q | 63794 | [63794-perfect-choro-q.json](./63794-perfect-choro-q.json) |
+| Perfect Dark | 1466 | [1466-perfect-dark.json](./1466-perfect-dark.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
 | Perfect Grind | 200746 | [200746-perfect-grind.json](./200746-perfect-grind.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
@@ -939,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal BGM Set | 301573 | [301573-persona-3-reload-persona-5-royal-bgm-set.json](./301573-persona-3-reload-persona-5-royal-bgm-set.json) |
 | Persona 3 Reload: Persona 5 Royal Phantom Thieves Costume Set | 301577 | [301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json](./301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
+| Persona 3: Dancing in Moonlight | 54217 | [54217-persona-3-dancing-in-moonlight.json](./54217-persona-3-dancing-in-moonlight.json) |
 | Persona 4 Arena | 5650 | [5650-persona-4-arena.json](./5650-persona-4-arena.json) |
 | Persona 4 Golden | 234702 | [234702-persona-4-golden.json](./234702-persona-4-golden.json) |
 | Persona 4: Dancing All Night | 11056 | [11056-persona-4-dancing-all-night.json](./11056-persona-4-dancing-all-night.json) |
@@ -1764,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
 | Planes.io | 194038 | [194038-planes-io.json](./194038-planes-io.json) |
+| Planet Alpha | 28070 | [28070-planet-alpha.json](./28070-planet-alpha.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet Bom Bom | 345486 | [345486-planet-bom-bom.json](./345486-planet-bom-bom.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
@@ -2957,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Fizzwizzle and the Molten Mystery | 16175 | [16175-professor-fizzwizzle-and-the-molten-mystery.json](./16175-professor-fizzwizzle-and-the-molten-mystery.json) |
 | Professor Goodboi's Ballistics | 248654 | [248654-professor-goodbois-ballistics.json](./248654-professor-goodbois-ballistics.json) |
 | Professor Heinz Wolff's Gravity | 5109 | [5109-professor-heinz-wolffs-gravity.json](./5109-professor-heinz-wolffs-gravity.json) |
+| Professor Layton and the Azran Legacy | 1403 | [1403-professor-layton-and-the-azran-legacy.json](./1403-professor-layton-and-the-azran-legacy.json) |
 | Professor Layton and the Mansion of the Deathly Mirror | 276490 | [276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json](./276490-professor-layton-and-the-mansion-of-the-deathly-mirror.json) |
 | Professor Layton and the Miracle Mask | 1401 | [1401-professor-layton-and-the-miracle-mask.json](./1401-professor-layton-and-the-miracle-mask.json) |
 | Professor Layton and the Phantom Thieves | 276491 | [276491-professor-layton-and-the-phantom-thieves.json](./276491-professor-layton-and-the-phantom-thieves.json) |
