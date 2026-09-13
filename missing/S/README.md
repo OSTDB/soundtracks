@@ -1784,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
 | Sherlock Holmes: The Devil's Daughter | 11563 | [11563-sherlock-holmes-the-devils-daughter.json](./11563-sherlock-holmes-the-devils-daughter.json) |
 | Sherlock Holmes: The Mystery of the Mummy | 6786 | [6786-sherlock-holmes-the-mystery-of-the-mummy.json](./6786-sherlock-holmes-the-mystery-of-the-mummy.json) |
+| Sherlock Holmes: The Mystery of the Persian Carpet | 14854 | [14854-sherlock-holmes-the-mystery-of-the-persian-carpet.json](./14854-sherlock-holmes-the-mystery-of-the-persian-carpet.json) |
 | Sherlock Holmes: The Tea Shop Murder Mystery | 310948 | [310948-sherlock-holmes-the-tea-shop-murder-mystery.json](./310948-sherlock-holmes-the-tea-shop-murder-mystery.json) |
 | Sherlock Horse's Horror Academy | 125468 | [125468-sherlock-horses-horror-academy.json](./125468-sherlock-horses-horror-academy.json) |
 | Sherlock Purr 2: Deluxe Edition | 314890 | [314890-sherlock-purr-2-deluxe-edition.json](./314890-sherlock-purr-2-deluxe-edition.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
+| SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
 | Simon Scoop: Ace Attorney | 308551 | [308551-simon-scoop-ace-attorney.json](./308551-simon-scoop-ace-attorney.json) |
 | Simon Shotgun Arms | 302377 | [302377-simon-shotgun-arms.json](./302377-simon-shotgun-arms.json) |
 | Simon Tatham's Portable Puzzle Collection | 135292 | [135292-simon-tathams-portable-puzzle-collection.json](./135292-simon-tathams-portable-puzzle-collection.json) |
@@ -2484,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singalongsong | 302932 | [302932-singalongsong.json](./302932-singalongsong.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
 | Singmetosleep | 392762 | [392762-singmetosleep.json](./392762-singmetosleep.json) |
+| SingStar | 15180 | [15180-singstar.json](./15180-singstar.json) |
 | Singstar Aprés-Ski Party | 136394 | [136394-singstar-apres-ski-party.json](./136394-singstar-apres-ski-party.json) |
 | SingStar Bollywood | 20769 | [20769-singstar-bollywood.json](./20769-singstar-bollywood.json) |
 | SingStar Grandes Exitos | 268750 | [268750-singstar-grandes-exitos.json](./268750-singstar-grandes-exitos.json) |
@@ -2799,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyreach | 33023 | [33023-skyreach.json](./33023-skyreach.json) |
 | SkyRider ADV | 90696 | [90696-skyrider-adv.json](./90696-skyrider-adv.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
+| Skyshine's Bedlam | 12637 | [12637-skyshines-bedlam.json](./12637-skyshines-bedlam.json) |
 | Skyshine's Bedlam Redux! | 51904 | [51904-skyshines-bedlam-redux.json](./51904-skyshines-bedlam-redux.json) |
 | Skyshine's Bedlam: Deluxe Edition | 51905 | [51905-skyshines-bedlam-deluxe-edition.json](./51905-skyshines-bedlam-deluxe-edition.json) |
 | SkySouls | 262947 | [262947-skysouls.json](./262947-skysouls.json) |
@@ -5255,6 +5259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox Zero | 11196 | [11196-star-fox-zero.json](./11196-star-fox-zero.json) |
 | Star Fox Zero and Star Fox Guard: First Print Edition | 51144 | [51144-star-fox-zero-and-star-fox-guard-first-print-edition.json](./51144-star-fox-zero-and-star-fox-guard-first-print-edition.json) |
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
+| Star Gladiator Episode I: Final Crusade | 14680 | [14680-star-gladiator-episode-i-final-crusade.json](./14680-star-gladiator-episode-i-final-crusade.json) |
 | Star Gods | 125417 | [125417-star-gods.json](./125417-star-gods.json) |
 | Star Guard | 185136 | [185136-star-guard.json](./185136-star-guard.json) |
 | Star Gun | 348780 | [348780-star-gun.json](./348780-star-gun.json) |
@@ -5386,6 +5391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
 | Star Wars: Lethal Alliance | 200677 | [200677-star-wars-lethal-alliance.json](./200677-star-wars-lethal-alliance.json) |
 | Star Wars: Outpost | 75087 | [75087-star-wars-outpost.json](./75087-star-wars-outpost.json) |
+| Star Wars: Pit Droids | 13483 | [13483-star-wars-pit-droids.json](./13483-star-wars-pit-droids.json) |
 | Star Wars: Project Stardust | 137006 | [137006-star-wars-project-stardust.json](./137006-star-wars-project-stardust.json) |
 | Star Wars: Puzzle Droids | 97355 | [97355-star-wars-puzzle-droids.json](./97355-star-wars-puzzle-droids.json) |
 | Star Wars: Rebel Assault | 161 | [161-star-wars-rebel-assault.json](./161-star-wars-rebel-assault.json) |
@@ -5397,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Best of PC | 75085 | [75085-star-wars-the-best-of-pc.json](./75085-star-wars-the-best-of-pc.json) |
 | Star Wars: The Clone Wars | 3760 | [3760-star-wars-the-clone-wars.json](./3760-star-wars-the-clone-wars.json) |
 | Star Wars: The Clone Wars | 78357 | [78357-star-wars-the-clone-wars.json](./78357-star-wars-the-clone-wars.json) |
+| Star Wars: The Empire Strikes Back | 12732 | [12732-star-wars-the-empire-strikes-back.json](./12732-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Empire Strikes Back | 219021 | [219021-star-wars-the-empire-strikes-back.json](./219021-star-wars-the-empire-strikes-back.json) |
 | Star Wars: The Force Unleashed | 197926 | [197926-star-wars-the-force-unleashed.json](./197926-star-wars-the-force-unleashed.json) |
 | Star Wars: The Old Republic | 114 | [114-star-wars-the-old-republic.json](./114-star-wars-the-old-republic.json) |
@@ -5954,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormbound: Kingdom Wars | 70909 | [70909-stormbound-kingdom-wars.json](./70909-stormbound-kingdom-wars.json) |
 | Stormbroken | 363920 | [363920-stormbroken.json](./363920-stormbroken.json) |
 | Stormforge | 305188 | [305188-stormforge.json](./305188-stormforge.json) |
+| Stormlord | 12781 | [12781-stormlord.json](./12781-stormlord.json) |
 | StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
 | Stormrise | 7197 | [7197-stormrise.json](./7197-stormrise.json) |
 | Stormtrooper | 15379 | [15379-stormtrooper.json](./15379-stormtrooper.json) |
