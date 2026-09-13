@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T06:31:37.830Z",
-  "total_missing": 64977,
+  "generated_at": "2026-09-13T06:41:29.037Z",
+  "total_missing": 64984,
   "games": [
     {
       "igdb_id": 306086,
@@ -3451,11 +3451,6 @@
       "igdb_id": 150121,
       "game_name": "Acheron's Souls",
       "file": "missing/A/150121-acherons-souls.json"
-    },
-    {
-      "igdb_id": 248925,
-      "game_name": "Achievement Clicker",
-      "file": "missing/A/248925-achievement-clicker.json"
     },
     {
       "igdb_id": 104084,
@@ -15421,6 +15416,11 @@
       "igdb_id": 294992,
       "game_name": "Ark: Scorched Earth Ascended",
       "file": "missing/A/294992-ark-scorched-earth-ascended.json"
+    },
+    {
+      "igdb_id": 250509,
+      "game_name": "Ark: Survival Ascended",
+      "file": "missing/A/250509-ark-survival-ascended.json"
     },
     {
       "igdb_id": 304378,
@@ -106158,6 +106158,11 @@
       "file": "missing/G/103492-giants-war.json"
     },
     {
+      "igdb_id": 34,
+      "game_name": "Giants: Citizen Kabuto",
+      "file": "missing/G/34-giants-citizen-kabuto.json"
+    },
+    {
       "igdb_id": 343809,
       "game_name": "Gibbets 2",
       "file": "missing/G/343809-gibbets-2.json"
@@ -123676,6 +123681,11 @@
       "igdb_id": 121592,
       "game_name": "Horizon Beyond",
       "file": "missing/H/121592-horizon-beyond.json"
+    },
+    {
+      "igdb_id": 268842,
+      "game_name": "Horizon Forbidden West: Complete Edition",
+      "file": "missing/H/268842-horizon-forbidden-west-complete-edition.json"
     },
     {
       "igdb_id": 30763,
@@ -149303,6 +149313,11 @@
       "file": "missing/L/163961-liar-trick-psychological-crime-mystery.json"
     },
     {
+      "igdb_id": 317695,
+      "game_name": "Liar's Bar",
+      "file": "missing/L/317695-liars-bar.json"
+    },
+    {
       "igdb_id": 382762,
       "game_name": "Liar’s Line",
       "file": "missing/L/382762-liar-s-line.json"
@@ -149366,6 +149381,11 @@
       "igdb_id": 90627,
       "game_name": "Libra of the Vampire Princess: Lycoris & Aoi in The Promise Plus Iris in Homeworld",
       "file": "missing/L/90627-libra-of-the-vampire-princess-lycoris-and-aoi-in-the-promise-plus-iris-in-homeworld.json"
+    },
+    {
+      "igdb_id": 393398,
+      "game_name": "Librarian: Tidy Up the Arcane Library!",
+      "file": "missing/L/393398-librarian-tidy-up-the-arcane-library.json"
     },
     {
       "igdb_id": 235495,
@@ -238293,6 +238313,11 @@
       "file": "missing/S/323510-simulator-parking-lot.json"
     },
     {
+      "igdb_id": 1045,
+      "game_name": "SiN",
+      "file": "missing/S/1045-sin.json"
+    },
+    {
       "igdb_id": 238736,
       "game_name": "Sin Breaker Rig",
       "file": "missing/S/238736-sin-breaker-rig.json"
@@ -282158,6 +282183,11 @@
       "file": "missing/T/385073-the-secret-workshop-of-wishes.json"
     },
     {
+      "igdb_id": 1064,
+      "game_name": "The Secret World",
+      "file": "missing/T/1064-the-secret-world.json"
+    },
+    {
       "igdb_id": 178686,
       "game_name": "The Secrets",
       "file": "missing/T/178686-the-secrets.json"
@@ -313321,6 +313351,11 @@
       "igdb_id": 12823,
       "game_name": "Where in the U.S.A. is Carmen Sandiego?",
       "file": "missing/W/12823-where-in-the-u-s-a-is-carmen-sandiego.json"
+    },
+    {
+      "igdb_id": 251,
+      "game_name": "Where in the World Is Carmen Sandiego?",
+      "file": "missing/W/251-where-in-the-world-is-carmen-sandiego.json"
     },
     {
       "igdb_id": 143640,
