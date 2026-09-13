@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zack Y | 109724 | [109724-zack-y.json](./109724-zack-y.json) |
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
 | Zafe's Adventures | 316423 | [316423-zafes-adventures.json](./316423-zafes-adventures.json) |
+| Zaga-33 | 22334 | [22334-zaga-33.json](./22334-zaga-33.json) |
 | Zagadki Tigrenka Usika | 188599 | [188599-zagadki-tigrenka-usika.json](./188599-zagadki-tigrenka-usika.json) |
 | Zagan Must Be Rescued | 163907 | [163907-zagan-must-be-rescued.json](./163907-zagan-must-be-rescued.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
@@ -199,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhōngguó Xiàngqí | 82099 | [82099-zhongguo-xiangqi.json](./82099-zhongguo-xiangqi.json) |
 | Zhōngguó Xiàngqí Zàixiàn | 88208 | [88208-zhongguo-xiangqi-zaixian.json](./88208-zhongguo-xiangqi-zaixian.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
+| Ziba | 22360 | [22360-ziba.json](./22360-ziba.json) |
 | Zidane: Football Generation 2002 | 49351 | [49351-zidane-football-generation-2002.json](./49351-zidane-football-generation-2002.json) |
 | Zig | 96695 | [96695-zig.json](./96695-zig.json) |
 | Ziggurat | 11646 | [11646-ziggurat.json](./11646-ziggurat.json) |
@@ -330,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Nightmare | 74448 | [74448-zombie-nightmare.json](./74448-zombie-nightmare.json) |
 | Zombie Ninja Confessional | 128652 | [128652-zombie-ninja-confessional.json](./128652-zombie-ninja-confessional.json) |
 | Zombie Office Politics | 34166 | [34166-zombie-office-politics.json](./34166-zombie-office-politics.json) |
+| Zombie Panic in Wonderland Plus | 22320 | [22320-zombie-panic-in-wonderland-plus.json](./22320-zombie-panic-in-wonderland-plus.json) |
 | Zombie Panic! Source | 29119 | [29119-zombie-panic-source.json](./29119-zombie-panic-source.json) |
 | Zombie Pinball | 33114 | [33114-zombie-pinball.json](./33114-zombie-pinball.json) |
 | Zombie Quarantine: Blackout Survival | 334106 | [334106-zombie-quarantine-blackout-survival.json](./334106-zombie-quarantine-blackout-survival.json) |
