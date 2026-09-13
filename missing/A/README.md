@@ -296,7 +296,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ActRaiser 2 | 7704 | [7704-actraiser-2.json](./7704-actraiser-2.json) |
 | Actua Golf 3 | 34501 | [34501-actua-golf-3.json](./34501-actua-golf-3.json) |
 | Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
-| Actual Volleyball | 111736 | [111736-actual-volleyball.json](./111736-actual-volleyball.json) |
 | Actually Additions | 232420 | [232420-actually-additions.json](./232420-actually-additions.json) |
 | Actually: There's nothing | 141161 | [141161-actually-theres-nothing.json](./141161-actually-theres-nothing.json) |
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
