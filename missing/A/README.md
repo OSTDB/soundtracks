@@ -254,7 +254,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Clicker 2020 | 104084 | [104084-achievement-clicker-2020.json](./104084-achievement-clicker-2020.json) |
 | Achievement Dummy | 110387 | [110387-achievement-dummy.json](./110387-achievement-dummy.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
-| Achikaps | 207823 | [207823-achikaps.json](./207823-achikaps.json) |
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Achtung Banditen?! | 188577 | [188577-achtung-banditen.json](./188577-achtung-banditen.json) |
