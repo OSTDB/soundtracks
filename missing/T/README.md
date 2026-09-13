@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thandor: The Invasion | 54432 | [54432-thandor-the-invasion.json](./54432-thandor-the-invasion.json) |
 | Thang Online | 135838 | [135838-thang-online.json](./135838-thang-online.json) |
 | Thank Goodness You're Here! | 262538 | [262538-thank-goodness-youre-here.json](./262538-thank-goodness-youre-here.json) |
+| Thank You For Your Application | 312791 | [312791-thank-you-for-your-application.json](./312791-thank-you-for-your-application.json) |
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
 | Thanksgiving | 184573 | [184573-thanksgiving.json](./184573-thanksgiving.json) |
 | ThanksKilling Day | 223452 | [223452-thankskilling-day.json](./223452-thankskilling-day.json) |
@@ -2509,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isle of the Dead | 118320 | [118320-the-isle-of-the-dead.json](./118320-the-isle-of-the-dead.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
+| The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Pack 7 | 138375 | [138375-the-jackbox-party-pack-7.json](./138375-the-jackbox-party-pack-7.json) |
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
 | The Jackbox Survey Scramble | 318207 | [318207-the-jackbox-survey-scramble.json](./318207-the-jackbox-survey-scramble.json) |
@@ -3857,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
 | The Tales of Bayun | 200111 | [200111-the-tales-of-bayun.json](./200111-the-tales-of-bayun.json) |
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
+| The Talos Principle II: Road to Elysium | 305040 | [305040-the-talos-principle-ii-road-to-elysium.json](./305040-the-talos-principle-ii-road-to-elysium.json) |
 | The Talos Principle III | 401496 | [401496-the-talos-principle-iii.json](./401496-the-talos-principle-iii.json) |
 | The Talos Principle VR | 36775 | [36775-the-talos-principle-vr.json](./36775-the-talos-principle-vr.json) |
 | The Talos Principle: Gold Edition | 53774 | [53774-the-talos-principle-gold-edition.json](./53774-the-talos-principle-gold-edition.json) |
@@ -5282,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Fat Hero | 232144 | [232144-tiny-fat-hero.json](./232144-tiny-fat-hero.json) |
 | Tiny Fishing | 165065 | [165065-tiny-fishing.json](./165065-tiny-fishing.json) |
 | Tiny Football | 191182 | [191182-tiny-football.json](./191182-tiny-football.json) |
+| Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
 | Tiny Gods of the Nile | 191197 | [191197-tiny-gods-of-the-nile.json](./191197-tiny-gods-of-the-nile.json) |
 | Tiny Heist | 26670 | [26670-tiny-heist.json](./26670-tiny-heist.json) |
 | Tiny Hero Courier | 330140 | [330140-tiny-hero-courier.json](./330140-tiny-hero-courier.json) |
@@ -5902,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Delivery Service: Atari Attire | 381600 | [381600-totally-reliable-delivery-service-atari-attire.json](./381600-totally-reliable-delivery-service-atari-attire.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Spies! 4: Around the World | 304040 | [304040-totally-spies-4-around-the-world.json](./304040-totally-spies-4-around-the-world.json) |
+| Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
 | Totally Spies! Totally Party | 5238 | [5238-totally-spies-totally-party.json](./5238-totally-spies-totally-party.json) |
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
@@ -6531,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Dark of the Moon - Decepticons | 141826 | [141826-transformers-dark-of-the-moon-decepticons.json](./141826-transformers-dark-of-the-moon-decepticons.json) |
 | Transformers: Dark of the Moon - Stealth Force Edition | 51021 | [51021-transformers-dark-of-the-moon-stealth-force-edition.json](./51021-transformers-dark-of-the-moon-stealth-force-edition.json) |
 | Transformers: Decepticons | 206749 | [206749-transformers-decepticons.json](./206749-transformers-decepticons.json) |
+| Transformers: Galactic Trials | 307442 | [307442-transformers-galactic-trials.json](./307442-transformers-galactic-trials.json) |
 | Transformers: Revenge of the Fallen | 335116 | [335116-transformers-revenge-of-the-fallen.json](./335116-transformers-revenge-of-the-fallen.json) |
 | Transformers: Revenge of the Fallen - Autobots | 206709 | [206709-transformers-revenge-of-the-fallen-autobots.json](./206709-transformers-revenge-of-the-fallen-autobots.json) |
 | Transformers: Revenge of the Fallen - Decepticons | 206710 | [206710-transformers-revenge-of-the-fallen-decepticons.json](./206710-transformers-revenge-of-the-fallen-decepticons.json) |
