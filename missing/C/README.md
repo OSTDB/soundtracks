@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Aria of Sorrow - Reprise | 231091 | [231091-castlevania-aria-of-sorrow-reprise.json](./231091-castlevania-aria-of-sorrow-reprise.json) |
 | Castlevania: Belmont's Curse | 389434 | [389434-castlevania-belmonts-curse.json](./389434-castlevania-belmonts-curse.json) |
 | Castlevania: Circle of the Moon | 1132 | [1132-castlevania-circle-of-the-moon.json](./1132-castlevania-circle-of-the-moon.json) |
+| Castlevania: Circle of the Moon | 222410 | [222410-castlevania-circle-of-the-moon.json](./222410-castlevania-circle-of-the-moon.json) |
 | Castlevania: Circle of the Moon - Card Mode | 219075 | [219075-castlevania-circle-of-the-moon-card-mode.json](./219075-castlevania-circle-of-the-moon-card-mode.json) |
 | Castlevania: Dawn of Sorrow | 315314 | [315314-castlevania-dawn-of-sorrow.json](./315314-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow - Definitive Edition+ | 314028 | [314028-castlevania-dawn-of-sorrow-definitive-edition.json](./314028-castlevania-dawn-of-sorrow-definitive-edition.json) |
@@ -1063,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
 | Centauri Dominion | 164986 | [164986-centauri-dominion.json](./164986-centauri-dominion.json) |
+| Centipede | 218804 | [218804-centipede.json](./218804-centipede.json) |
 | Centipede | 245541 | [245541-centipede.json](./245541-centipede.json) |
 | Centipede | 282564 | [282564-centipede.json](./282564-centipede.json) |
 | Centipede & Battlezone | 64399 | [64399-centipede-and-battlezone.json](./64399-centipede-and-battlezone.json) |
@@ -1488,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
 | Chilljong | 223505 | [223505-chilljong.json](./223505-chilljong.json) |
 | ChilloutVR | 121700 | [121700-chilloutvr.json](./121700-chilloutvr.json) |
+| Chillquarium | 236572 | [236572-chillquarium.json](./236572-chillquarium.json) |
 | Chime Candy | 281994 | [281994-chime-candy.json](./281994-chime-candy.json) |
 | Chimera of Tactics 1 | 93593 | [93593-chimera-of-tactics-1.json](./93593-chimera-of-tactics-1.json) |
 | Chimera of Tactics 3: Gun and Soccer | 110353 | [110353-chimera-of-tactics-3-gun-and-soccer.json](./110353-chimera-of-tactics-3-gun-and-soccer.json) |
@@ -3309,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash of the Titans | 197929 | [197929-crash-of-the-titans.json](./197929-crash-of-the-titans.json) |
 | Crash of the Titans | 210235 | [210235-crash-of-the-titans.json](./210235-crash-of-the-titans.json) |
 | Crash Team Racing: Retro-Fueled | 262407 | [262407-crash-team-racing-retro-fueled.json](./262407-crash-team-racing-retro-fueled.json) |
+| Crash Team Rumble | 228540 | [228540-crash-team-rumble.json](./228540-crash-team-rumble.json) |
 | Crash Test Idiot | 193419 | [193419-crash-test-idiot.json](./193419-crash-test-idiot.json) |
 | Crash Test Idiots 2: Multiplayer | 278692 | [278692-crash-test-idiots-2-multiplayer.json](./278692-crash-test-idiots-2-multiplayer.json) |
 | Crash the Game | 129703 | [129703-crash-the-game.json](./129703-crash-the-game.json) |
@@ -3544,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Room: Reverse | 67281 | [67281-crimson-room-reverse.json](./67281-crimson-room-reverse.json) |
 | Crimson Skies | 15863 | [15863-crimson-skies.json](./15863-crimson-skies.json) |
 | Crimson Skies: High Road to Revenge | 5793 | [5793-crimson-skies-high-road-to-revenge.json](./5793-crimson-skies-high-road-to-revenge.json) |
+| Crimson Snow | 221719 | [221719-crimson-snow.json](./221719-crimson-snow.json) |
 | Crimson Souls | 109696 | [109696-crimson-souls.json](./109696-crimson-souls.json) |
 | Crimson Tale | 334656 | [334656-crimson-tale.json](./334656-crimson-tale.json) |
 | Crimson Theory | 339290 | [339290-crimson-theory.json](./339290-crimson-theory.json) |
@@ -3721,6 +3726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry of Fear | 3084 | [3084-cry-of-fear.json](./3084-cry-of-fear.json) |
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cryght | 188029 | [188029-cryght.json](./188029-cryght.json) |
+| Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
 | Cryohazard | 297815 | [297815-cryohazard.json](./297815-cryohazard.json) |
 | Cryoloop | 141809 | [141809-cryoloop.json](./141809-cryoloop.json) |
 | CryoNation | 278166 | [278166-cryonation.json](./278166-cryonation.json) |
