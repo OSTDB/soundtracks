@@ -292,7 +292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Quest | 24858 | [24858-action-quest.json](./24858-action-quest.json) |
 | ActionHacker | 290686 | [290686-actionhacker.json](./290686-actionhacker.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
-| Active Arcade | 382223 | [382223-active-arcade.json](./382223-active-arcade.json) |
 | Active Color | 241354 | [241354-active-color.json](./241354-active-color.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
 | Active Life Outdoor Challenge | 167810 | [167810-active-life-outdoor-challenge.json](./167810-active-life-outdoor-challenge.json) |
