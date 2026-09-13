@@ -325,6 +325,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
 | Papa's Burgeria HD | 86695 | [86695-papas-burgeria-hd.json](./86695-papas-burgeria-hd.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
+| Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
+| Papa's Pancakeria HD | 88891 | [88891-papas-pancakeria-hd.json](./88891-papas-pancakeria-hd.json) |
 | Papa's Pizzeria to Go! | 96296 | [96296-papas-pizzeria-to-go.json](./96296-papas-pizzeria-to-go.json) |
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
@@ -1221,6 +1223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pianista: The Legendary Virtuoso | 111040 | [111040-pianista-the-legendary-virtuoso.json](./111040-pianista-the-legendary-virtuoso.json) |
 | Piano Game X | 101521 | [101521-piano-game-x.json](./101521-piano-game-x.json) |
 | Piano Game: Classic Music Song | 223987 | [223987-piano-game-classic-music-song.json](./223987-piano-game-classic-music-song.json) |
+| Piano Magic 2018 Music Tiles 2 | 88903 | [88903-piano-magic-2018-music-tiles-2.json](./88903-piano-magic-2018-music-tiles-2.json) |
 | Piano Monsters | 175373 | [175373-piano-monsters.json](./175373-piano-monsters.json) |
 | Piano Play 3D | 99031 | [99031-piano-play-3d.json](./99031-piano-play-3d.json) |
 | Piano Teacher | 84826 | [84826-piano-teacher.json](./84826-piano-teacher.json) |
@@ -2068,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Bite d20 | 184616 | [184616-pocket-bite-d20.json](./184616-pocket-bite-d20.json) |
 | Pocket Bomberman | 2980 | [2980-pocket-bomberman.json](./2980-pocket-bomberman.json) |
 | Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
+| Pocket Build | 88881 | [88881-pocket-build.json](./88881-pocket-build.json) |
 | Pocket Car: VR Ground | 113749 | [113749-pocket-car-vr-ground.json](./113749-pocket-car-vr-ground.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
 | Pocket City | 79996 | [79996-pocket-city.json](./79996-pocket-city.json) |
