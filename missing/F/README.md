@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Escape | 60485 | [60485-fatal-escape.json](./60485-fatal-escape.json) |
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
 | Fatal Frame | 321739 | [321739-fatal-frame.json](./321739-fatal-frame.json) |
+| Fatal Frame | 5106 | [5106-fatal-frame.json](./5106-fatal-frame.json) |
 | Fatal Frame: Maiden of Black Water - Digital Deluxe Edition | 188050 | [188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json](./188050-fatal-frame-maiden-of-black-water-digital-deluxe-edition.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
 | Fatal Fury: City of the Wolves - Chun-Li | 317832 | [317832-fatal-fury-city-of-the-wolves-chun-li.json](./317832-fatal-fury-city-of-the-wolves-chun-li.json) |
@@ -1007,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
+| Final Fantasy XIV: Stormblood | 26625 | [26625-final-fantasy-xiv-stormblood.json](./26625-final-fantasy-xiv-stormblood.json) |
 | Final Fantasy XIV: The Dark Throne | 246956 | [246956-final-fantasy-xiv-the-dark-throne.json](./246956-final-fantasy-xiv-the-dark-throne.json) |
 | Final Fantasy XV Mobile | 129157 | [129157-final-fantasy-xv-mobile.json](./129157-final-fantasy-xv-mobile.json) |
 | Final Fantasy XV: Episode Ardyn | 76430 | [76430-final-fantasy-xv-episode-ardyn.json](./76430-final-fantasy-xv-episode-ardyn.json) |
@@ -1144,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Legends of Avenir | 261267 | [261267-fire-emblem-legends-of-avenir.json](./261267-fire-emblem-legends-of-avenir.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Radiant Dawn | 1442 | [1442-fire-emblem-radiant-dawn.json](./1442-fire-emblem-radiant-dawn.json) |
+| Fire Emblem: Shadow Dragon | 1444 | [1444-fire-emblem-shadow-dragon.json](./1444-fire-emblem-shadow-dragon.json) |
 | Fire Emblem: Shadow Dragon and the Blade of Light - 30th Anniversary Edition | 140611 | [140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json](./140611-fire-emblem-shadow-dragon-and-the-blade-of-light-30th-anniversary-edition.json) |
 | Fire Emblem: Storge | 312345 | [312345-fire-emblem-storge.json](./312345-fire-emblem-storge.json) |
 | Fire Emblem: The Dragon Herald | 214535 | [214535-fire-emblem-the-dragon-herald.json](./214535-fire-emblem-the-dragon-herald.json) |
@@ -2055,6 +2058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Sound 1: Revelation | 83595 | [83595-forgotten-sound-1-revelation.json](./83595-forgotten-sound-1-revelation.json) |
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Trails | 406697 | [406697-forgotten-trails.json](./406697-forgotten-trails.json) |
+| Forgotton Anne | 24426 | [24426-forgotton-anne.json](./24426-forgotton-anne.json) |
 | Fork Frog | 350438 | [350438-fork-frog.json](./350438-fork-frog.json) |
 | Fork in the Road | 294155 | [294155-fork-in-the-road.json](./294155-fork-in-the-road.json) |
 | Fork Knights | 119757 | [119757-fork-knights.json](./119757-fork-knights.json) |
@@ -2515,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogurai | 226454 | [226454-frogurai.json](./226454-frogurai.json) |
 | Frogvival | 235482 | [235482-frogvival.json](./235482-frogvival.json) |
 | From Below | 415065 | [415065-from-below.json](./415065-from-below.json) |
+| From Dust | 3160 | [3160-from-dust.json](./3160-from-dust.json) |
 | From Earth | 127928 | [127928-from-earth.json](./127928-from-earth.json) |
 | From Fire Emergence | 302928 | [302928-from-fire-emergence.json](./302928-from-fire-emergence.json) |
 | From Flames | 127977 | [127977-from-flames.json](./127977-from-flames.json) |
