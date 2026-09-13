@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tex Murphy: Mean Streets + Martian Memorandum | 83575 | [83575-tex-murphy-mean-streets-martian-memorandum.json](./83575-tex-murphy-mean-streets-martian-memorandum.json) |
 | Texas Chainsaw Dodge | 307613 | [307613-texas-chainsaw-dodge.json](./307613-texas-chainsaw-dodge.json) |
 | Texas Hold 'Em Poker | 131511 | [131511-texas-hold-em-poker.json](./131511-texas-hold-em-poker.json) |
+| Texas Hold 'em Tournament | 21293 | [21293-texas-hold-em-tournament.json](./21293-texas-hold-em-tournament.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
 | Texplore | 383946 | [383946-texplore.json](./383946-texplore.json) |
@@ -6063,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toukiden: The Age of Demons | 8658 | [8658-toukiden-the-age-of-demons.json](./8658-toukiden-the-age-of-demons.json) |
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
+| Tour de France 2009 | 21247 | [21247-tour-de-france-2009.json](./21247-tour-de-france-2009.json) |
 | Tour de France 2011 | 92464 | [92464-tour-de-france-2011.json](./92464-tour-de-france-2011.json) |
 | Tour de France 2018 | 188594 | [188594-tour-de-france-2018.json](./188594-tour-de-france-2018.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
@@ -6193,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Rush | 74321 | [74321-toy-rush.json](./74321-toy-rush.json) |
 | Toy Scrappers | 333549 | [333549-toy-scrappers.json](./333549-toy-scrappers.json) |
 | Toy Shire | 253387 | [253387-toy-shire.json](./253387-toy-shire.json) |
+| Toy Shop | 21299 | [21299-toy-shop.json](./21299-toy-shop.json) |
 | Toy Soldiers: War Chest - Hall of Fame Edition | 44532 | [44532-toy-soldiers-war-chest-hall-of-fame-edition.json](./44532-toy-soldiers-war-chest-hall-of-fame-edition.json) |
 | Toy Story | 220099 | [220099-toy-story.json](./220099-toy-story.json) |
 | Toy Story 2: Buzz Lightyear to the Rescue! | 305791 | [305791-toy-story-2-buzz-lightyear-to-the-rescue.json](./305791-toy-story-2-buzz-lightyear-to-the-rescue.json) |
