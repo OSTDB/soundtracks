@@ -31,6 +31,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.O.W.N | 229383 | [229383-d-o-w-n.json](./229383-d-o-w-n.json) |
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
+| D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
 | D3d Inside | 126659 | [126659-d3d-inside.json](./126659-d3d-inside.json) |
@@ -942,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Star Interceptor | 45334 | [45334-death-star-interceptor.json](./45334-death-star-interceptor.json) |
 | Death Star Prison Break | 178618 | [178618-death-star-prison-break.json](./178618-death-star-prison-break.json) |
 | Death Swap: End As One | 231350 | [231350-death-swap-end-as-one.json](./231350-death-swap-end-as-one.json) |
+| Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
 | Death the Guitar | 257925 | [257925-death-the-guitar.json](./257925-death-the-guitar.json) |
 | Death to Spies: Gold Edition | 51291 | [51291-death-to-spies-gold-edition.json](./51291-death-to-spies-gold-edition.json) |
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
@@ -2239,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Puff | 13596 | [13596-dj-puff.json](./13596-dj-puff.json) |
 | DJ Puff's Volcanic Capers | 47215 | [47215-dj-puffs-volcanic-capers.json](./47215-dj-puffs-volcanic-capers.json) |
 | DJ Simulator | 303479 | [303479-dj-simulator.json](./303479-dj-simulator.json) |
+| DJ Star | 21243 | [21243-dj-star.json](./21243-dj-star.json) |
 | Djikstra's Enigmatic Puzzle Cube | 278423 | [278423-djikstras-enigmatic-puzzle-cube.json](./278423-djikstras-enigmatic-puzzle-cube.json) |
 | Djinni & Thaco: Trial By Spire | 132779 | [132779-djinni-and-thaco-trial-by-spire.json](./132779-djinni-and-thaco-trial-by-spire.json) |
 | DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
@@ -2499,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don Doko Don 2 | 48696 | [48696-don-doko-don-2.json](./48696-don-doko-don-2.json) |
 | Don Duality | 234640 | [234640-don-duality.json](./234640-don-duality.json) |
 | Don Juan | 13602 | [13602-don-juan.json](./13602-don-juan.json) |
+| Don King Boxing | 21289 | [21289-don-king-boxing.json](./21289-don-king-boxing.json) |
 | Don King Presents: Prizefighter | 6970 | [6970-don-king-presents-prizefighter.json](./6970-don-king-presents-prizefighter.json) |
 | Don Memo | 388704 | [388704-don-memo.json](./388704-don-memo.json) |
 | Don Pan | 55860 | [55860-don-pan.json](./55860-don-pan.json) |
