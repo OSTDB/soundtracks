@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
 | Penguin Hotel 2: Snake Penguin Ambition | 333533 | [333533-penguin-hotel-2-snake-penguin-ambition.json](./333533-penguin-hotel-2-snake-penguin-ambition.json) |
 | Penguin Land | 365677 | [365677-penguin-land.json](./365677-penguin-land.json) |
+| Penguin Land | 49152 | [49152-penguin-land.json](./49152-penguin-land.json) |
 | Penguin no Mondai X: Tenkuu no 7 Senshi | 68010 | [68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json](./68010-penguin-no-mondai-x-tenkuu-no-7-senshi.json) |
 | Penguin no Mondai: Saikyou Penguin Densetsu! | 69272 | [69272-penguin-no-mondai-saikyou-penguin-densetsu.json](./69272-penguin-no-mondai-saikyou-penguin-densetsu.json) |
 | Penguin no Mondai: The Wars | 141147 | [141147-penguin-no-mondai-the-wars.json](./141147-penguin-no-mondai-the-wars.json) |
@@ -2074,6 +2075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | PocketWarwick | 64345 | [64345-pocketwarwick.json](./64345-pocketwarwick.json) |
 | Pocoman: Green Machine Level Pack | 262944 | [262944-pocoman-green-machine-level-pack.json](./262944-pocoman-green-machine-level-pack.json) |
+| Pocoyo Racing | 50939 | [50939-pocoyo-racing.json](./50939-pocoyo-racing.json) |
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
 | Poda Wants a Statue | 260699 | [260699-poda-wants-a-statue.json](./260699-poda-wants-a-statue.json) |
 | Podd | 66704 | [66704-podd.json](./66704-podd.json) |
@@ -2923,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Evolution Soccer 2010 | 240462 | [240462-pro-evolution-soccer-2010.json](./240462-pro-evolution-soccer-2010.json) |
 | Pro Evolution Soccer 2011 | 240463 | [240463-pro-evolution-soccer-2011.json](./240463-pro-evolution-soccer-2011.json) |
 | Pro Evolution Soccer 2011 | 240464 | [240464-pro-evolution-soccer-2011.json](./240464-pro-evolution-soccer-2011.json) |
+| Pro Evolution Soccer 2011 3D | 47629 | [47629-pro-evolution-soccer-2011-3d.json](./47629-pro-evolution-soccer-2011-3d.json) |
 | Pro Evolution Soccer 2012 | 240465 | [240465-pro-evolution-soccer-2012.json](./240465-pro-evolution-soccer-2012.json) |
 | Pro Evolution Soccer 2013 | 240466 | [240466-pro-evolution-soccer-2013.json](./240466-pro-evolution-soccer-2013.json) |
 | Pro Evolution Soccer 2014 | 240467 | [240467-pro-evolution-soccer-2014.json](./240467-pro-evolution-soccer-2014.json) |
@@ -3134,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nimbus: Complete Edition | 117739 | [117739-project-nimbus-complete-edition.json](./117739-project-nimbus-complete-edition.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Noah | 223981 | [223981-project-noah.json](./223981-project-noah.json) |
+| Project Nomads | 50245 | [50245-project-nomads.json](./50245-project-nomads.json) |
 | Project of the Gods | 156118 | [156118-project-of-the-gods.json](./156118-project-of-the-gods.json) |
 | Project Omega | 70397 | [70397-project-omega.json](./70397-project-omega.json) |
 | Project One | 118347 | [118347-project-one.json](./118347-project-one.json) |
