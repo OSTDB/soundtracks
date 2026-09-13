@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iAmBored Throw It Deluxe | 101527 | [101527-iambored-throw-it-deluxe.json](./101527-iambored-throw-it-deluxe.json) |
 | Ian Botham's Test Match | 15574 | [15574-ian-bothams-test-match.json](./15574-ian-bothams-test-match.json) |
 | Ibara | 44623 | [44623-ibara.json](./44623-ibara.json) |
+| Ibb & Obb | 9139 | [9139-ibb-and-obb.json](./9139-ibb-and-obb.json) |
 | IBM: Cityone, A Smarter Planet Game | 66626 | [66626-ibm-cityone-a-smarter-planet-game.json](./66626-ibm-cityone-a-smarter-planet-game.json) |
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
@@ -780,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniball | 129737 | [129737-infiniball.json](./129737-infiniball.json) |
 | Infiniboss | 134008 | [134008-infiniboss.json](./134008-infiniboss.json) |
 | Infinicity | 295262 | [295262-infinicity.json](./295262-infinicity.json) |
+| Infinifactory | 9649 | [9649-infinifactory.json](./9649-infinifactory.json) |
 | InfiniPicross 2.0: 100 Large Puzzles - Animals | 163426 | [163426-infinipicross-2-0-100-large-puzzles-animals.json](./163426-infinipicross-2-0-100-large-puzzles-animals.json) |
 | InfiniPicross 2.0: 100 Medium Puzzles | 163425 | [163425-infinipicross-2-0-100-medium-puzzles.json](./163425-infinipicross-2-0-100-medium-puzzles.json) |
 | InfiniPicross 3 | 251807 | [251807-infinipicross-3.json](./251807-infinipicross-3.json) |
