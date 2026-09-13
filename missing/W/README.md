@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
 | Wayfarer Survival Mini-Game | 63288 | [63288-wayfarer-survival-mini-game.json](./63288-wayfarer-survival-mini-game.json) |
+| Wayne Gretzky Hockey | 15509 | [15509-wayne-gretzky-hockey.json](./15509-wayne-gretzky-hockey.json) |
 | Wayne Gretzky Hockey 2 | 15510 | [15510-wayne-gretzky-hockey-2.json](./15510-wayne-gretzky-hockey-2.json) |
 | Wayne Gretzky Hockey 3 | 15511 | [15511-wayne-gretzky-hockey-3.json](./15511-wayne-gretzky-hockey-3.json) |
 | Wayne Gretzky's 3D Hockey | 3630 | [3630-wayne-gretzkys-3d-hockey.json](./3630-wayne-gretzkys-3d-hockey.json) |
@@ -1055,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
 | Wilbur Scoville’s 151st Birthday | 375817 | [375817-wilbur-scoville-s-151st-birthday.json](./375817-wilbur-scoville-s-151st-birthday.json) |
 | Wild | 257947 | [257947-wild.json](./257947-wild.json) |
+| Wild 9 | 15840 | [15840-wild-9.json](./15840-wild-9.json) |
 | Wild Adventure | 208032 | [208032-wild-adventure.json](./208032-wild-adventure.json) |
 | Wild Adventures: Ultimate Deer Hunt 3D | 85491 | [85491-wild-adventures-ultimate-deer-hunt-3d.json](./85491-wild-adventures-ultimate-deer-hunt-3d.json) |
 | Wild Africa Mahjong | 102735 | [102735-wild-africa-mahjong.json](./102735-wild-africa-mahjong.json) |
