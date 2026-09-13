@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
+| Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
 | Demolition Engineer | 99660 | [99660-demolition-engineer.json](./99660-demolition-engineer.json) |
 | Demolition Girl | 26570 | [26570-demolition-girl.json](./26570-demolition-girl.json) |
@@ -2062,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Treasure Planet: Treasure Racer | 213025 | [213025-disneys-treasure-planet-treasure-racer.json](./213025-disneys-treasure-planet-treasure-racer.json) |
 | Disney's Winnie the Pooh Preschool | 69231 | [69231-disneys-winnie-the-pooh-preschool.json](./69231-disneys-winnie-the-pooh-preschool.json) |
 | Disney's Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 | 82097 | [82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json](./82097-disneys-winnie-the-poohs-rumbly-tumbly-adventure-and-rayman-3.json) |
+| Disneyland Adventures | 108251 | [108251-disneyland-adventures.json](./108251-disneyland-adventures.json) |
 | Disobedient Sheep | 115623 | [115623-disobedient-sheep.json](./115623-disobedient-sheep.json) |
 | Disobey - Revolt Simulator | 33031 | [33031-disobey-revolt-simulator.json](./33031-disobey-revolt-simulator.json) |
 | Disonante | 118432 | [118432-disonante.json](./118432-disonante.json) |
