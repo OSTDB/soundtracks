@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Miner 2 | 318982 | [318982-mad-miner-2.json](./318982-mad-miner-2.json) |
 | Mad Moles | 58753 | [58753-mad-moles.json](./58753-mad-moles.json) |
 | Mad Murder's Mystery Pie Shop | 196891 | [196891-mad-murders-mystery-pie-shop.json](./196891-mad-murders-mystery-pie-shop.json) |
+| Mad Muzzles | 41925 | [41925-mad-muzzles.json](./41925-mad-muzzles.json) |
 | Mad News | 265973 | [265973-mad-news.json](./265973-mad-news.json) |
 | Mad Nords: Probably an Epic Quest | 34327 | [34327-mad-nords-probably-an-epic-quest.json](./34327-mad-nords-probably-an-epic-quest.json) |
 | Mad Rider | 145025 | [145025-mad-rider.json](./145025-mad-rider.json) |
@@ -1323,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze | 7430 | [7430-maze.json](./7430-maze.json) |
 | Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
 | Maze 4D | 112921 | [112921-maze-4d.json](./112921-maze-4d.json) |
+| Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
