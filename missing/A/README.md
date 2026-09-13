@@ -1686,6 +1686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Arrow | 239666 | [239666-ancient-arrow.json](./239666-ancient-arrow.json) |
 | Ancient Battle: Hannibal - Gold | 201258 | [201258-ancient-battle-hannibal-gold.json](./201258-ancient-battle-hannibal-gold.json) |
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
+| Ancient Cities | 79134 | [79134-ancient-cities.json](./79134-ancient-cities.json) |
 | Ancient Conquest: The Golden Fleece | 7713 | [7713-ancient-conquest-the-golden-fleece.json](./7713-ancient-conquest-the-golden-fleece.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
 | Ancient Erotic Monster in the Labyrinth | 97833 | [97833-ancient-erotic-monster-in-the-labyrinth.json](./97833-ancient-erotic-monster-in-the-labyrinth.json) |
@@ -1883,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Smash | 365068 | [365068-animal-smash.json](./365068-animal-smash.json) |
 | Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
 | Animal Style | 391594 | [391594-animal-style.json](./391594-animal-style.json) |
+| Animal Super Squad | 74598 | [74598-animal-super-squad.json](./74598-animal-super-squad.json) |
 | Animal Survival | 379369 | [379369-animal-survival.json](./379369-animal-survival.json) |
 | Animal Trail Girlish Square | 212799 | [212799-animal-trail-girlish-square.json](./212799-animal-trail-girlish-square.json) |
 | Animal Trainer Simulator | 226236 | [226236-animal-trainer-simulator.json](./226236-animal-trainer-simulator.json) |
@@ -3191,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura's Wrath: Lost Episode 2 | 182448 | [182448-asuras-wrath-lost-episode-2.json](./182448-asuras-wrath-lost-episode-2.json) |
 | Asuria Awakens | 175390 | [175390-asuria-awakens.json](./175390-asuria-awakens.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
+| Asylum | 86391 | [86391-asylum.json](./86391-asylum.json) |
 | Asylum | 95384 | [95384-asylum.json](./95384-asylum.json) |
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
