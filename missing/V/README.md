@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
 | Verdonia | 92446 | [92446-verdonia.json](./92446-verdonia.json) |
+| Verdun | 8036 | [8036-verdun.json](./8036-verdun.json) |
 | Veredilia: The Sacred Forest | 265932 | [265932-veredilia-the-sacred-forest.json](./265932-veredilia-the-sacred-forest.json) |
 | Verfall | 338572 | [338572-verfall.json](./338572-verfall.json) |
 | VergeWorld | 204440 | [204440-vergeworld.json](./204440-vergeworld.json) |
