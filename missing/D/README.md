@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
 | DarkSpar | 193467 | [193467-darkspar.json](./193467-darkspar.json) |
 | Darkspore | 18638 | [18638-darkspore.json](./18638-darkspore.json) |
+| Darkstalkers Chronicle: The Chaos Tower | 20011 | [20011-darkstalkers-chronicle-the-chaos-tower.json](./20011-darkstalkers-chronicle-the-chaos-tower.json) |
 | DarkStar One | 2125 | [2125-darkstar-one.json](./2125-darkstar-one.json) |
 | Darkstar: The Interactive Movie | 9118 | [9118-darkstar-the-interactive-movie.json](./9118-darkstar-the-interactive-movie.json) |
 | Darkwatch | 5808 | [5808-darkwatch.json](./5808-darkwatch.json) |
@@ -766,6 +767,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead to Rights: Retribution | 6960 | [6960-dead-to-rights-retribution.json](./6960-dead-to-rights-retribution.json) |
 | Dead Town Tales | 235209 | [235209-dead-town-tales.json](./235209-dead-town-tales.json) |
 | Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
+| Dead Trigger | 36747 | [36747-dead-trigger.json](./36747-dead-trigger.json) |
+| Dead Trigger 2 | 36748 | [36748-dead-trigger-2.json](./36748-dead-trigger-2.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
@@ -1710,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Fugger | 86040 | [86040-die-fugger.json](./86040-die-fugger.json) |
 | Die goldene Maske | 141154 | [141154-die-goldene-maske.json](./141154-die-goldene-maske.json) |
 | Die Hard Trilogy | 8234 | [8234-die-hard-trilogy.json](./8234-die-hard-trilogy.json) |
+| Die Hard Trilogy 2: Viva Las Vegas | 44952 | [44952-die-hard-trilogy-2-viva-las-vegas.json](./44952-die-hard-trilogy-2-viva-las-vegas.json) |
 | Die Hard with a Vengeance | 245292 | [245292-die-hard-with-a-vengeance.json](./245292-die-hard-with-a-vengeance.json) |
 | Die Hard: Nakatomi Plaza | 18219 | [18219-die-hard-nakatomi-plaza.json](./18219-die-hard-nakatomi-plaza.json) |
 | Die Hard: Vendetta | 3876 | [3876-die-hard-vendetta.json](./3876-die-hard-vendetta.json) |
@@ -2629,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday on Demand | 104037 | [104037-doomsday-on-demand.json](./104037-doomsday-on-demand.json) |
 | Doomsday on Demand 2 | 104036 | [104036-doomsday-on-demand-2.json](./104036-doomsday-on-demand-2.json) |
 | Doomsday Overture | 280237 | [280237-doomsday-overture.json](./280237-doomsday-overture.json) |
+| Doomsday Warrior | 42599 | [42599-doomsday-warrior.json](./42599-doomsday-warrior.json) |
 | Doomworld Mega Project 2012 | 260955 | [260955-doomworld-mega-project-2012.json](./260955-doomworld-mega-project-2012.json) |
 | Doomworld Mega Project 2013 | 260954 | [260954-doomworld-mega-project-2013.json](./260954-doomworld-mega-project-2013.json) |
 | Doomworld Roulette: Session 1 | 312908 | [312908-doomworld-roulette-session-1.json](./312908-doomworld-roulette-session-1.json) |
