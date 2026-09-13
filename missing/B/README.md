@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Return to Arkham | 19245 | [19245-batman-return-to-arkham.json](./19245-batman-return-to-arkham.json) |
 | Batman: Return to Arkham - Arkham City | 203435 | [203435-batman-return-to-arkham-arkham-city.json](./203435-batman-return-to-arkham-arkham-city.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
+| Batman: The Enemy Within | 51525 | [51525-batman-the-enemy-within.json](./51525-batman-the-enemy-within.json) |
 | Batman: The Enemy Within - Episode 5: Same Stitch | 96066 | [96066-batman-the-enemy-within-episode-5-same-stitch.json](./96066-batman-the-enemy-within-episode-5-same-stitch.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
