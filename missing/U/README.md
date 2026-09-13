@@ -242,10 +242,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbral Omen | 212837 | [212837-umbral-omen.json](./212837-umbral-omen.json) |
 | Umbraseal | 120928 | [120928-umbraseal.json](./120928-umbraseal.json) |
 | Umbrella Corps | 12530 | [12530-umbrella-corps.json](./12530-umbrella-corps.json) |
+| Umfend | 111034 | [111034-umfend.json](./111034-umfend.json) |
 | Umi no Nushi Tsuri | 37774 | [37774-umi-no-nushi-tsuri.json](./37774-umi-no-nushi-tsuri.json) |
 | Umi no Oh! Yah! | 384496 | [384496-umi-no-oh-yah.json](./384496-umi-no-oh-yah.json) |
 | Umi Tsuri Mejin: Suzuki-hen | 37773 | [37773-umi-tsuri-mejin-suzuki-hen.json](./37773-umi-tsuri-mejin-suzuki-hen.json) |
 | Umihara Kawase BaZooKa! | 122352 | [122352-umihara-kawase-bazooka.json](./122352-umihara-kawase-bazooka.json) |
+| Umihara Kawase Fresh! | 108155 | [108155-umihara-kawase-fresh.json](./108155-umihara-kawase-fresh.json) |
 | Umihara Kawase Uku | 276489 | [276489-umihara-kawase-uku.json](./276489-umihara-kawase-uku.json) |
 | Umihara Kawase: Shun - Second Edition | 78719 | [78719-umihara-kawase-shun-second-edition.json](./78719-umihara-kawase-shun-second-edition.json) |
 | Umineko no Naku Koro ni Chiru | 51267 | [51267-umineko-no-naku-koro-ni-chiru.json](./51267-umineko-no-naku-koro-ni-chiru.json) |
