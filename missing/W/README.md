@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | Warlordocracy: Chapter 3 | 336569 | [336569-warlordocracy-chapter-3.json](./336569-warlordocracy-chapter-3.json) |
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
+| Warlords Battlecry II | 9833 | [9833-warlords-battlecry-ii.json](./9833-warlords-battlecry-ii.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
 | Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
@@ -524,6 +525,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of Redemption | 58744 | [58744-way-of-redemption.json](./58744-way-of-redemption.json) |
 | Way of Retribution: Legend of Abyss | 197339 | [197339-way-of-retribution-legend-of-abyss.json](./197339-way-of-retribution-legend-of-abyss.json) |
 | Way of the Red | 25963 | [25963-way-of-the-red.json](./25963-way-of-the-red.json) |
+| Way of the Samurai | 10156 | [10156-way-of-the-samurai.json](./10156-way-of-the-samurai.json) |
+| Way of the Samurai 4 | 10158 | [10158-way-of-the-samurai-4.json](./10158-way-of-the-samurai-4.json) |
 | Way of the Samurai Portable 2 | 59371 | [59371-way-of-the-samurai-portable-2.json](./59371-way-of-the-samurai-portable-2.json) |
 | Way of the Wizard | 232431 | [232431-way-of-the-wizard.json](./232431-way-of-the-wizard.json) |
 | Way on Where | 195740 | [195740-way-on-where.json](./195740-way-on-where.json) |
@@ -760,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
 | What Remains | 318969 | [318969-what-remains.json](./318969-what-remains.json) |
 | What Remains of Us | 256288 | [256288-what-remains-of-us.json](./256288-what-remains-of-us.json) |
+| What the Car? | 248580 | [248580-what-the-car.json](./248580-what-the-car.json) |
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
 | What the Golf? A Hole New World | 264343 | [264343-what-the-golf-a-hole-new-world.json](./264343-what-the-golf-a-hole-new-world.json) |
@@ -1463,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Women's Murder Club: Little Black Lies | 135250 | [135250-womens-murder-club-little-black-lies.json](./135250-womens-murder-club-little-black-lies.json) |
 | Women's Quiz | 152880 | [152880-womens-quiz.json](./152880-womens-quiz.json) |
 | Wonder Boy | 5560 | [5560-wonder-boy.json](./5560-wonder-boy.json) |
+| Wonder Boy III: Monster Lair | 4481 | [4481-wonder-boy-iii-monster-lair.json](./4481-wonder-boy-iii-monster-lair.json) |
 | Wonder Boy in Monster World | 212866 | [212866-wonder-boy-in-monster-world.json](./212866-wonder-boy-in-monster-world.json) |
 | Wonder Boy: Anniversary Collection | 233787 | [233787-wonder-boy-anniversary-collection.json](./233787-wonder-boy-anniversary-collection.json) |
 | Wonder Boy: Asha in Monster World Collector's Edition | 147917 | [147917-wonder-boy-asha-in-monster-world-collectors-edition.json](./147917-wonder-boy-asha-in-monster-world-collectors-edition.json) |
@@ -1531,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woohoo!: Game - Skee Madness | 304019 | [304019-woohoo-game-skee-madness.json](./304019-woohoo-game-skee-madness.json) |
 | Woohoo!: Game - Triangles | 304020 | [304020-woohoo-game-triangles.json](./304020-woohoo-game-triangles.json) |
 | Woohoo!: Game - WordSearch | 304021 | [304021-woohoo-game-wordsearch.json](./304021-woohoo-game-wordsearch.json) |
+| Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
 | WooLoop: Magic Pack | 319347 | [319347-wooloop-magic-pack.json](./319347-wooloop-magic-pack.json) |
 | WooLoop: Video Games Pack | 301829 | [301829-wooloop-video-games-pack.json](./301829-wooloop-video-games-pack.json) |
@@ -1959,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K17: NXT Enhancement Pack | 168351 | [168351-wwe-2k17-nxt-enhancement-pack.json](./168351-wwe-2k17-nxt-enhancement-pack.json) |
 | WWE 2K21 | 132815 | [132815-wwe-2k21.json](./132815-wwe-2k21.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
+| WWE 2K23 | 233028 | [233028-wwe-2k23.json](./233028-wwe-2k23.json) |
 | WWE 2K23: Cross-Gen Digital Edition | 241078 | [241078-wwe-2k23-cross-gen-digital-edition.json](./241078-wwe-2k23-cross-gen-digital-edition.json) |
 | WWE 2K24 | 283600 | [283600-wwe-2k24.json](./283600-wwe-2k24.json) |
 | WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
