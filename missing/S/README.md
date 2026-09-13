@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shall we date?: We the Girls | 225671 | [225671-shall-we-date-we-the-girls.json](./225671-shall-we-date-we-the-girls.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
+| Shaman King: Master of Spirits | 6590 | [6590-shaman-king-master-of-spirits.json](./6590-shaman-king-master-of-spirits.json) |
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
@@ -1866,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Hotel: Lost in Nowhere | 102364 | [102364-shining-hotel-lost-in-nowhere.json](./102364-shining-hotel-lost-in-nowhere.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
 | Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
+| Shining Soul II | 6594 | [6594-shining-soul-ii.json](./6594-shining-soul-ii.json) |
 | Shining Stars 2: Mirror Madness | 132860 | [132860-shining-stars-2-mirror-madness.json](./132860-shining-stars-2-mirror-madness.json) |
 | Shining Stars 3: Sanctuary of the Star Comet | 132861 | [132861-shining-stars-3-sanctuary-of-the-star-comet.json](./132861-shining-stars-3-sanctuary-of-the-star-comet.json) |
 | Shining Stars Super Starcade | 48038 | [48038-shining-stars-super-starcade.json](./48038-shining-stars-super-starcade.json) |
@@ -4077,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
 | Soul Rush | 340200 | [340200-soul-rush.json](./340200-soul-rush.json) |
+| Soul Sacrifice Delta | 6061 | [6061-soul-sacrifice-delta.json](./6061-soul-sacrifice-delta.json) |
 | Soul Sader | 285982 | [285982-soul-sader.json](./285982-soul-sader.json) |
 | Soul Saga | 63252 | [63252-soul-saga.json](./63252-soul-saga.json) |
 | Soul Saver | 134637 | [134637-soul-saver.json](./134637-soul-saver.json) |
@@ -4868,6 +4871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
 | SpongeBob SquarePants: Revenge of the Flying Dutchman | 2762 | [2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
+| SpongeBob SquarePants: The Patrick Star Game | 314939 | [314939-spongebob-squarepants-the-patrick-star-game.json](./314939-spongebob-squarepants-the-patrick-star-game.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
@@ -7229,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Stickman Golf | 47270 | [47270-super-stickman-golf.json](./47270-super-stickman-golf.json) |
 | Super Stickman Golf 3 | 58223 | [58223-super-stickman-golf-3.json](./58223-super-stickman-golf-3.json) |
+| Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
 | Super Street Fighter II Turbo Pinball FX | 55062 | [55062-super-street-fighter-ii-turbo-pinball-fx.json](./55062-super-street-fighter-ii-turbo-pinball-fx.json) |
 | Super Strip Fighter IV | 66653 | [66653-super-strip-fighter-iv.json](./66653-super-strip-fighter-iv.json) |
 | Super Strong Hero | 188005 | [188005-super-strong-hero.json](./188005-super-strong-hero.json) |
