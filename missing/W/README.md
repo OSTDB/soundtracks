@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Races | 12817 | [12817-wacky-races.json](./12817-wacky-races.json) |
 | Wacky Soldiers | 123560 | [123560-wacky-soldiers.json](./123560-wacky-soldiers.json) |
 | Wacky West | 332992 | [332992-wacky-west.json](./332992-wacky-west.json) |
+| Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
 | Waddle Home | 25568 | [25568-waddle-home.json](./25568-waddle-home.json) |
 | Waddle Paddle | 365718 | [365718-waddle-paddle.json](./365718-waddle-paddle.json) |
 | Wag | 312562 | [312562-wag.json](./312562-wag.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Pipes | 104092 | [104092-water-pipes.json](./104092-water-pipes.json) |
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
 | Water Sort Jigsaw: Color Sort | 208943 | [208943-water-sort-jigsaw-color-sort.json](./208943-water-sort-jigsaw-color-sort.json) |
+| Water Sports | 5262 | [5262-water-sports.json](./5262-water-sports.json) |
 | Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
 | Waterbed | 178668 | [178668-waterbed.json](./178668-waterbed.json) |
 | Watercolors Sink Beneath the Surface | 404254 | [404254-watercolors-sink-beneath-the-surface.json](./404254-watercolors-sink-beneath-the-surface.json) |
@@ -559,9 +561,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Katamari Reroll + Royal Reverie: Deluxe Edition | 251602 | [251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json](./251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
 | We Rock: Drum King | 5127 | [5127-we-rock-drum-king.json](./5127-we-rock-drum-king.json) |
+| We Sing Deutsche Hits | 5268 | [5268-we-sing-deutsche-hits.json](./5268-we-sing-deutsche-hits.json) |
 | We Sing Deutsche Hits 2 | 268208 | [268208-we-sing-deutsche-hits-2.json](./268208-we-sing-deutsche-hits-2.json) |
+| We Sing Down Under | 5269 | [5269-we-sing-down-under.json](./5269-we-sing-down-under.json) |
 | We Sing Pop! | 5271 | [5271-we-sing-pop.json](./5271-we-sing-pop.json) |
 | We Sing Superstar Quiz | 63900 | [63900-we-sing-superstar-quiz.json](./63900-we-sing-superstar-quiz.json) |
+| We Sing UK Hits | 5274 | [5274-we-sing-uk-hits.json](./5274-we-sing-uk-hits.json) |
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
 | We the People | 236841 | [236841-we-the-people.json](./236841-we-the-people.json) |
 | We Were Here Too | 54486 | [54486-we-were-here-too.json](./54486-we-were-here-too.json) |
@@ -1201,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Lure | 298863 | [298863-winning-lure.json](./298863-winning-lure.json) |
 | Winning Post 2 | 37767 | [37767-winning-post-2.json](./37767-winning-post-2.json) |
 | Winning Post 7 2010 | 194007 | [194007-winning-post-7-2010.json](./194007-winning-post-7-2010.json) |
+| Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
 | Winning Tactics | 368492 | [368492-winning-tactics.json](./368492-winning-tactics.json) |
 | WinPlex | 94723 | [94723-winplex.json](./94723-winplex.json) |
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
@@ -1884,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | wrldDivision | 181379 | [181379-wrlddivision.json](./181379-wrlddivision.json) |
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
 | Wroth | 271744 | [271744-wroth.json](./271744-wroth.json) |
+| WSC Real 08: World Snooker Championship | 5292 | [5292-wsc-real-08-world-snooker-championship.json](./5292-wsc-real-08-world-snooker-championship.json) |
 | WSOP | 93572 | [93572-wsop.json](./93572-wsop.json) |
 | WSYC Remix | 271992 | [271992-wsyc-remix.json](./271992-wsyc-remix.json) |
 | WTA Tour Tennis | 66701 | [66701-wta-tour-tennis.json](./66701-wta-tour-tennis.json) |
