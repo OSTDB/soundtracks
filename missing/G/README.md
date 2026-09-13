@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
 | Grix | 384501 | [384501-grix.json](./384501-grix.json) |
 | Grizzly Adventure | 107829 | [107829-grizzly-adventure.json](./107829-grizzly-adventure.json) |
+| Grizzly Valley | 33048 | [33048-grizzly-valley.json](./33048-grizzly-valley.json) |
 | Groaning Steel | 170541 | [170541-groaning-steel.json](./170541-groaning-steel.json) |
 | Grobnopolis \| Last Days | 363914 | [363914-grobnopolis-last-days.json](./363914-grobnopolis-last-days.json) |
 | Grocery Grab | 253937 | [253937-grocery-grab.json](./253937-grocery-grab.json) |
@@ -2213,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
 | Gun Crazy | 110093 | [110093-gun-crazy.json](./110093-gun-crazy.json) |
+| Gun Done | 32888 | [32888-gun-done.json](./32888-gun-done.json) |
 | Gun Done: Who is Awesome | 97923 | [97923-gun-done-who-is-awesome.json](./97923-gun-done-who-is-awesome.json) |
 | Gun Duel | 164987 | [164987-gun-duel.json](./164987-gun-duel.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
