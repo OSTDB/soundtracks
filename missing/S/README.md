@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Vamp | 102737 | [102737-shadow-vamp.json](./102737-shadow-vamp.json) |
 | Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
 | Shadow Warren | 356631 | [356631-shadow-warren.json](./356631-shadow-warren.json) |
+| Shadow Warrior | 6057 | [6057-shadow-warrior.json](./6057-shadow-warrior.json) |
 | Shadow Warrior 2 Deluxe | 51915 | [51915-shadow-warrior-2-deluxe.json](./51915-shadow-warrior-2-deluxe.json) |
 | Shadow Warrior 2: Bounty Hunt Part 1 | 27876 | [27876-shadow-warrior-2-bounty-hunt-part-1.json](./27876-shadow-warrior-2-bounty-hunt-part-1.json) |
 | Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads World: Act 1 - Deadly Newcomer | 191902 | [191902-sift-heads-world-act-1-deadly-newcomer.json](./191902-sift-heads-world-act-1-deadly-newcomer.json) |
 | Sift Heads World: Act 3 - Alonzo's Reinforcement | 229949 | [229949-sift-heads-world-act-3-alonzos-reinforcement.json](./229949-sift-heads-world-act-3-alonzos-reinforcement.json) |
 | Sift Heads: Legendary Pack | 311993 | [311993-sift-heads-legendary-pack.json](./311993-sift-heads-legendary-pack.json) |
+| Sifu | 144022 | [144022-sifu.json](./144022-sifu.json) |
 | Sifu's Quest | 371901 | [371901-sifus-quest.json](./371901-sifus-quest.json) |
 | Sifunight Fighters | 221711 | [221711-sifunight-fighters.json](./221711-sifunight-fighters.json) |
 | Sig | 103460 | [103460-sig.json](./103460-sig.json) |
@@ -3713,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Golf DX | 261294 | [261294-sonic-golf-dx.json](./261294-sonic-golf-dx.json) |
 | Sonic Headway | 331713 | [331713-sonic-headway.json](./331713-sonic-headway.json) |
 | Sonic Hearts | 261273 | [261273-sonic-hearts.json](./261273-sonic-hearts.json) |
+| Sonic Heroes | 4156 | [4156-sonic-heroes.json](./4156-sonic-heroes.json) |
 | Sonic Hexacide | 136388 | [136388-sonic-hexacide.json](./136388-sonic-hexacide.json) |
 | Sonic Hopping | 261271 | [261271-sonic-hopping.json](./261271-sonic-hopping.json) |
 | Sonic Hopping 2 | 261272 | [261272-sonic-hopping-2.json](./261272-sonic-hopping-2.json) |
@@ -4911,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | Spyrazoid | 227833 | [227833-spyrazoid.json](./227833-spyrazoid.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
+| Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
 | Spyro Superpack | 130303 | [130303-spyro-superpack.json](./130303-spyro-superpack.json) |
 | Spyro the Dragon | 280768 | [280768-spyro-the-dragon.json](./280768-spyro-the-dragon.json) |
@@ -6823,6 +6827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros. Peach's Adventure | 142383 | [142383-super-mario-bros-peachs-adventure.json](./142383-super-mario-bros-peachs-adventure.json) |
+| Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
 | Super Mario Construct | 250039 | [250039-super-mario-construct.json](./250039-super-mario-construct.json) |
