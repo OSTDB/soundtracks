@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray-Gun | 64969 | [64969-ray-gun.json](./64969-ray-gun.json) |
 | Ray-Hound | 78702 | [78702-ray-hound.json](./78702-ray-hound.json) |
 | Ray-Thunder | 64909 | [64909-ray-thunder.json](./64909-ray-thunder.json) |
+| Ray's the Dead | 19514 | [19514-rays-the-dead.json](./19514-rays-the-dead.json) |
 | Rayadium | 341306 | [341306-rayadium.json](./341306-rayadium.json) |
 | Raybound | 145683 | [145683-raybound.json](./145683-raybound.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
@@ -1704,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
 | Rising Hell | 108409 | [108409-rising-hell.json](./108409-rising-hell.json) |
+| Rising Islands | 19242 | [19242-rising-islands.json](./19242-rising-islands.json) |
 | Rising Lands | 94667 | [94667-rising-lands.json](./94667-rising-lands.json) |
 | Rising Mist | 191815 | [191815-rising-mist.json](./191815-rising-mist.json) |
 | Rising Noracam | 151649 | [151649-rising-noracam.json](./151649-rising-noracam.json) |
@@ -2145,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | RogueJack: Roguelike Blackjack | 133370 | [133370-roguejack-roguelike-blackjack.json](./133370-roguejack-roguelike-blackjack.json) |
+| Roguelands | 19748 | [19748-roguelands.json](./19748-roguelands.json) |
 | Roguelike Hero | 107898 | [107898-roguelike-hero.json](./107898-roguelike-hero.json) |
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
@@ -2329,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
+| Rooms: The Unsolvable Puzzle | 19018 | [19018-rooms-the-unsolvable-puzzle.json](./19018-rooms-the-unsolvable-puzzle.json) |
 | Rooster | 62722 | [62722-rooster.json](./62722-rooster.json) |
 | Rooster II | 62696 | [62696-rooster-ii.json](./62696-rooster-ii.json) |
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
@@ -2794,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
 | Ryan's Pack | 131602 | [131602-ryans-pack.json](./131602-ryans-pack.json) |
 | Ryan's Rescue Squad | 185704 | [185704-ryans-rescue-squad.json](./185704-ryans-rescue-squad.json) |
+| RYB | 17993 | [17993-ryb.json](./17993-ryb.json) |
 | Ryceam | 262387 | [262387-ryceam.json](./262387-ryceam.json) |
 | Ryclaw: Hope | 211748 | [211748-ryclaw-hope.json](./211748-ryclaw-hope.json) |
 | Ryder | 335293 | [335293-ryder.json](./335293-ryder.json) |
