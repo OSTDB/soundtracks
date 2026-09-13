@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2018: Headline Edition | 110984 | [110984-f1-2018-headline-edition.json](./110984-f1-2018-headline-edition.json) |
 | F1 2019 | 116667 | [116667-f1-2019.json](./116667-f1-2019.json) |
 | F1 22 | 198200 | [198200-f1-22.json](./198200-f1-22.json) |
+| F1 25 | 336964 | [336964-f1-25.json](./336964-f1-25.json) |
 | F1 25: 2026 Season Edition | 408775 | [408775-f1-25-2026-season-edition.json](./408775-f1-25-2026-season-edition.json) |
 | F1 25: 2026 Season Pack | 408774 | [408774-f1-25-2026-season-pack.json](./408774-f1-25-2026-season-pack.json) |
 | F1 Challenge | 95383 | [95383-f1-challenge.json](./95383-f1-challenge.json) |
@@ -986,6 +987,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
 | Final Fantasy II | 145817 | [145817-final-fantasy-ii.json](./145817-final-fantasy-ii.json) |
 | Final Fantasy II | 387 | [387-final-fantasy-ii.json](./387-final-fantasy-ii.json) |
+| Final Fantasy III | 158982 | [158982-final-fantasy-iii.json](./158982-final-fantasy-iii.json) |
+| Final Fantasy IV | 158983 | [158983-final-fantasy-iv.json](./158983-final-fantasy-iv.json) |
 | Final Fantasy IV Namingway Edition | 379337 | [379337-final-fantasy-iv-namingway-edition.json](./379337-final-fantasy-iv-namingway-edition.json) |
 | Final Fantasy IV: The After Years | 388 | [388-final-fantasy-iv-the-after-years.json](./388-final-fantasy-iv-the-after-years.json) |
 | Final Fantasy IV: The DSfication | 274983 | [274983-final-fantasy-iv-the-dsfication.json](./274983-final-fantasy-iv-the-dsfication.json) |
@@ -1158,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: The Dragon Herald | 214535 | [214535-fire-emblem-the-dragon-herald.json](./214535-fire-emblem-the-dragon-herald.json) |
 | Fire Emblem: The Four Kings | 214494 | [214494-fire-emblem-the-four-kings.json](./214494-fire-emblem-the-four-kings.json) |
 | Fire Emblem: The Lonely Mirror | 273926 | [273926-fire-emblem-the-lonely-mirror.json](./273926-fire-emblem-the-lonely-mirror.json) |
+| Fire Emblem: Thracia 776 | 1437 | [1437-fire-emblem-thracia-776.json](./1437-fire-emblem-thracia-776.json) |
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
 | Fire Embrace: Erabareshi Chigyuu no Ken | 163923 | [163923-fire-embrace-erabareshi-chigyuu-no-ken.json](./163923-fire-embrace-erabareshi-chigyuu-no-ken.json) |
 | Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
@@ -2389,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeland | 316098 | [316098-freeland.json](./316098-freeland.json) |
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
 | FreeRunners | 156617 | [156617-freerunners.json](./156617-freerunners.json) |
+| Freespace 2 | 722 | [722-freespace-2.json](./722-freespace-2.json) |
 | Freestead Castle Defense | 292553 | [292553-freestead-castle-defense.json](./292553-freestead-castle-defense.json) |
 | Freestyle Baseball 2 | 239890 | [239890-freestyle-baseball-2.json](./239890-freestyle-baseball-2.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
@@ -2547,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
 | Front Mission 2: Remake | 191401 | [191401-front-mission-2-remake.json](./191401-front-mission-2-remake.json) |
+| Front Mission 3 | 1502 | [1502-front-mission-3.json](./1502-front-mission-3.json) |
 | Front Office Card Games: Up and Down the River | 67995 | [67995-front-office-card-games-up-and-down-the-river.json](./67995-front-office-card-games-up-and-down-the-river.json) |
 | Front Office Football 2 | 68051 | [68051-front-office-football-2.json](./68051-front-office-football-2.json) |
 | Front Office Football 2001 | 73842 | [73842-front-office-football-2001.json](./73842-front-office-football-2001.json) |
