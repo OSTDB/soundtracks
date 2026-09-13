@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Zone: Real Pachinko Simulator | 255086 | [255086-victory-zone-real-pachinko-simulator.json](./255086-victory-zone-real-pachinko-simulator.json) |
 | Victory: The Age of Racing | 16850 | [16850-victory-the-age-of-racing.json](./16850-victory-the-age-of-racing.json) |
 | Video Casino Games | 137099 | [137099-video-casino-games.json](./137099-video-casino-games.json) |
+| Video Checkers | 18003 | [18003-video-checkers.json](./18003-video-checkers.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Pinball | 46877 | [46877-video-pinball.json](./46877-video-pinball.json) |
 | Video Poker | 272552 | [272552-video-poker.json](./272552-video-poker.json) |
