@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerline.io | 191257 | [191257-powerline-io.json](./191257-powerline-io.json) |
+| Powerpuff Girls: Mojo's Pet Project | 19427 | [19427-powerpuff-girls-mojos-pet-project.json](./19427-powerpuff-girls-mojos-pet-project.json) |
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
 | PowerSkate | 233238 | [233238-powerskate.json](./233238-powerskate.json) |
 | PowerSlave | 188071 | [188071-powerslave.json](./188071-powerslave.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psy High 2: High Summer | 121702 | [121702-psy-high-2-high-summer.json](./121702-psy-high-2-high-summer.json) |
 | PSY in Apocalypse | 270953 | [270953-psy-in-apocalypse.json](./270953-psy-in-apocalypse.json) |
 | PsyBurst | 107852 | [107852-psyburst.json](./107852-psyburst.json) |
+| Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
