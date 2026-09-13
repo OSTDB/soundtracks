@@ -386,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Quintet: Limited Edition | 166239 | [166239-omega-quintet-limited-edition.json](./166239-omega-quintet-limited-edition.json) |
 | Omega Rally Championship | 132162 | [132162-omega-rally-championship.json](./132162-omega-rally-championship.json) |
 | Omega Run | 70366 | [70366-omega-run.json](./70366-omega-run.json) |
+| Omega Strike | 39752 | [39752-omega-strike.json](./39752-omega-strike.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
 | Omega-Altro | 156117 | [156117-omega-altro.json](./156117-omega-altro.json) |
 | Omega: The Beginning | 117700 | [117700-omega-the-beginning.json](./117700-omega-the-beginning.json) |
@@ -575,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Gate: Companion#1 DLC | 289328 | [289328-one-more-gate-companion-1-dlc.json](./289328-one-more-gate-companion-1-dlc.json) |
 | One More Gate: Companion#2 DLC | 289329 | [289329-one-more-gate-companion-2-dlc.json](./289329-one-more-gate-companion-2-dlc.json) |
 | One More Gate: Companion#3 DLC | 289330 | [289330-one-more-gate-companion-3-dlc.json](./289330-one-more-gate-companion-3-dlc.json) |
+| One More Line | 35584 | [35584-one-more-line.json](./35584-one-more-line.json) |
 | One More Night | 292296 | [292296-one-more-night.json](./292296-one-more-night.json) |
 | One More Question | 341506 | [341506-one-more-question.json](./341506-one-more-question.json) |
 | One More Spin | 384495 | [384495-one-more-spin.json](./384495-one-more-spin.json) |
@@ -757,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onslaught | 69201 | [69201-onslaught.json](./69201-onslaught.json) |
 | Onslaught on the Solar Frontier | 306369 | [306369-onslaught-on-the-solar-frontier.json](./306369-onslaught-on-the-solar-frontier.json) |
 | OnSpace | 111076 | [111076-onspace.json](./111076-onspace.json) |
+| oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
 | Ooga Booga Battle | 341512 | [341512-ooga-booga-battle.json](./341512-ooga-booga-battle.json) |
@@ -1179,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: The Nightmare Chronicles - Chapter 4 | 168853 | [168853-outbreak-the-nightmare-chronicles-chapter-4.json](./168853-outbreak-the-nightmare-chronicles-chapter-4.json) |
 | Outbrk | 131609 | [131609-outbrk.json](./131609-outbrk.json) |
 | Outburst | 79240 | [79240-outburst.json](./79240-outburst.json) |
+| Outcast 1.1 | 36084 | [36084-outcast-1-1.json](./36084-outcast-1-1.json) |
 | Outcast II: The Lost Paradise | 66687 | [66687-outcast-ii-the-lost-paradise.json](./66687-outcast-ii-the-lost-paradise.json) |
 | Outcast on Mars | 157132 | [157132-outcast-on-mars.json](./157132-outcast-on-mars.json) |
 | Outcast: A New Beginning | 171215 | [171215-outcast-a-new-beginning.json](./171215-outcast-a-new-beginning.json) |
