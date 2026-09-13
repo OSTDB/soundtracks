@@ -2786,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown Run | 242783 | [242783-downtown-run.json](./242783-downtown-run.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
+| Dr Livesey Rom and Death Edition | 224897 | [224897-dr-livesey-rom-and-death-edition.json](./224897-dr-livesey-rom-and-death-edition.json) |
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
 | Dr. Bon Bon Puzzle | 229346 | [229346-dr-bon-bon-puzzle.json](./229346-dr-bon-bon-puzzle.json) |
 | Dr. Brain Thinking Games IQ Adventures | 72726 | [72726-dr-brain-thinking-games-iq-adventures.json](./72726-dr-brain-thinking-games-iq-adventures.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamtone | 310960 | [310960-dreamtone.json](./310960-dreamtone.json) |
 | Dreamwalker | 333021 | [333021-dreamwalker.json](./333021-dreamwalker.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
+| Dreamweb | 2489 | [2489-dreamweb.json](./2489-dreamweb.json) |
 | Dreamwillow | 184661 | [184661-dreamwillow.json](./184661-dreamwillow.json) |
 | DreamWoods 2 | 361164 | [361164-dreamwoods-2.json](./361164-dreamwoods-2.json) |
 | Dreamworks 2-in-1 Party Pack | 130311 | [130311-dreamworks-2-in-1-party-pack.json](./130311-dreamworks-2-in-1-party-pack.json) |
