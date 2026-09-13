@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pincushion | 169371 | [169371-pincushion.json](./169371-pincushion.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
 | Pine Harbor | 257929 | [257929-pine-harbor.json](./257929-pine-harbor.json) |
+| Pine Hearts | 204528 | [204528-pine-hearts.json](./204528-pine-hearts.json) |
 | Pine Racer | 244808 | [244808-pine-racer.json](./244808-pine-racer.json) |
 | Pine: A Story of Loss | 300365 | [300365-pine-a-story-of-loss.json](./300365-pine-a-story-of-loss.json) |
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
