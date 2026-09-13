@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Catch | 254514 | [254514-galactic-catch.json](./254514-galactic-catch.json) |
 | Galactic Center VR | 131610 | [131610-galactic-center-vr.json](./131610-galactic-center-vr.json) |
 | Galactic Civilizations III | 10345 | [10345-galactic-civilizations-iii.json](./10345-galactic-civilizations-iii.json) |
+| Galactic Civilizations III: Crusade | 27054 | [27054-galactic-civilizations-iii-crusade.json](./27054-galactic-civilizations-iii-crusade.json) |
 | Galactic Civilizations III: Lost Treasures DLC | 163371 | [163371-galactic-civilizations-iii-lost-treasures-dlc.json](./163371-galactic-civilizations-iii-lost-treasures-dlc.json) |
 | Galactic Civilizations III: Map Pack DLC | 163374 | [163374-galactic-civilizations-iii-map-pack-dlc.json](./163374-galactic-civilizations-iii-map-pack-dlc.json) |
 | Galactic Civilizations III: Mega Events DLC | 163377 | [163377-galactic-civilizations-iii-mega-events-dlc.json](./163377-galactic-civilizations-iii-mega-events-dlc.json) |
@@ -2193,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Fighting | 279008 | [279008-gun-fighting.json](./279008-gun-fighting.json) |
 | Gun Frontier | 39681 | [39681-gun-frontier.json](./39681-gun-frontier.json) |
 | Gun Godz | 31439 | [31439-gun-godz.json](./31439-gun-godz.json) |
+| Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
 | Gun on the Chickahominy | 148473 | [148473-gun-on-the-chickahominy.json](./148473-gun-on-the-chickahominy.json) |
 | Gun Paradise | 348260 | [348260-gun-paradise.json](./348260-gun-paradise.json) |
@@ -2270,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunma's Ambition: You and me are Gunma | 146925 | [146925-gunmas-ambition-you-and-me-are-gunma.json](./146925-gunmas-ambition-you-and-me-are-gunma.json) |
 | Gunma's Ambition: You and me are Gunma - Reiwa 2nd National Census Edition | 331891 | [331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json](./331891-gunmas-ambition-you-and-me-are-gunma-reiwa-2nd-national-census-edition.json) |
 | Gunman Contracts: Stand Alone | 269009 | [269009-gunman-contracts-stand-alone.json](./269009-gunman-contracts-stand-alone.json) |
+| Gunman Taco Truck | 27084 | [27084-gunman-taco-truck.json](./27084-gunman-taco-truck.json) |
 | Gunman Tales | 102450 | [102450-gunman-tales.json](./102450-gunman-tales.json) |
 | Gunmancer | 164963 | [164963-gunmancer.json](./164963-gunmancer.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
