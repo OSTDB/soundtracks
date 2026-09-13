@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Me Home | 181890 | [181890-take-me-home.json](./181890-take-me-home.json) |
 | Take Me Home | 362292 | [362292-take-me-home.json](./362292-take-me-home.json) |
 | Take no Prisoners | 207807 | [207807-take-no-prisoners.json](./207807-take-no-prisoners.json) |
+| Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
 | Take town | 163402 | [163402-take-town.json](./163402-take-town.json) |
@@ -572,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
 | Tap Tap Blocks | 27647 | [27647-tap-tap-blocks.json](./27647-tap-tap-blocks.json) |
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
+| Tap Tap Dash | 88877 | [88877-tap-tap-dash.json](./88877-tap-tap-dash.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
 | Tap Tap Radiation | 66156 | [66156-tap-tap-radiation.json](./66156-tap-tap-radiation.json) |
 | Tap Tap Reloaded | 280223 | [280223-tap-tap-reloaded.json](./280223-tap-tap-reloaded.json) |
@@ -2053,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The eXceed Collection | 64895 | [64895-the-exceed-collection.json](./64895-the-exceed-collection.json) |
 | The Exchange Student: Episode 2 - Point Club | 72024 | [72024-the-exchange-student-episode-2-point-club.json](./72024-the-exchange-student-episode-2-point-club.json) |
 | The Exclusion Zone Online | 153925 | [153925-the-exclusion-zone-online.json](./153925-the-exclusion-zone-online.json) |
+| The Executioner | 89375 | [89375-the-executioner.json](./89375-the-executioner.json) |
 | The Executioner: Prologue | 51993 | [51993-the-executioner-prologue.json](./51993-the-executioner-prologue.json) |
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
@@ -6813,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Machines | 157160 | [157160-tricky-machines.json](./157160-tricky-machines.json) |
 | Tricky Monkey Zoo | 396228 | [396228-tricky-monkey-zoo.json](./396228-tricky-monkey-zoo.json) |
 | Tricky Quicky | 78066 | [78066-tricky-quicky.json](./78066-tricky-quicky.json) |
+| Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
 | Tricolore Crise | 58170 | [58170-tricolore-crise.json](./58170-tricolore-crise.json) |
@@ -6975,6 +6979,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2023: Driver Europe - Premium Edition | 328806 | [328806-truck-simulator-2023-driver-europe-premium-edition.json](./328806-truck-simulator-2023-driver-europe-premium-edition.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
 | Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
+| Truck Simulator PRO 2 | 88947 | [88947-truck-simulator-pro-2.json](./88947-truck-simulator-pro-2.json) |
+| Truck Simulator PRO 2016 | 89133 | [89133-truck-simulator-pro-2016.json](./89133-truck-simulator-pro-2016.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
 | Truck Truck | 157197 | [157197-truck-truck.json](./157197-truck-truck.json) |
