@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet Dark Legacy | 3927 | [3927-gauntlet-dark-legacy.json](./3927-gauntlet-dark-legacy.json) |
 | Gauntlet II | 3503 | [3503-gauntlet-ii.json](./3503-gauntlet-ii.json) |
 | Gauntlet III: The Final Quest | 7296 | [7296-gauntlet-iii-the-final-quest.json](./7296-gauntlet-iii-the-final-quest.json) |
+| Gauntlet: Slayer Edition | 20044 | [20044-gauntlet-slayer-edition.json](./20044-gauntlet-slayer-edition.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
 | Gauntlet: The Third Encounter | 7295 | [7295-gauntlet-the-third-encounter.json](./7295-gauntlet-the-third-encounter.json) |
