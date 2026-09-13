@@ -1478,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noon Stone | 346590 | [346590-noon-stone.json](./346590-noon-stone.json) |
 | Noonie | 99630 | [99630-noonie.json](./99630-noonie.json) |
 | Noor Quest | 91983 | [91983-noor-quest.json](./91983-noor-quest.json) |
+| Nope Nope Nurses | 215754 | [215754-nope-nope-nurses.json](./215754-nope-nope-nurses.json) |
 | Nor'Easter | 119754 | [119754-noreaster.json](./119754-noreaster.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nora: In Search of Hidden Ingredients | 306334 | [306334-nora-in-search-of-hidden-ingredients.json](./306334-nora-in-search-of-hidden-ingredients.json) |
