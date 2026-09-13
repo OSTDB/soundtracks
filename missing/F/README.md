@@ -523,6 +523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
 | Farm Kitten: Puzzle Pipes | 165711 | [165711-farm-kitten-puzzle-pipes.json](./165711-farm-kitten-puzzle-pipes.json) |
 | Farm Life | 381011 | [381011-farm-life.json](./381011-farm-life.json) |
+| Farm Manager 2018 | 55308 | [55308-farm-manager-2018.json](./55308-farm-manager-2018.json) |
 | Farm Manager 2021 | 139459 | [139459-farm-manager-2021.json](./139459-farm-manager-2021.json) |
 | Farm Manager 2021: Agrotourism | 187436 | [187436-farm-manager-2021-agrotourism.json](./187436-farm-manager-2021-agrotourism.json) |
 | Farm Manager 2021: Brewing & Winemaking | 171606 | [171606-farm-manager-2021-brewing-and-winemaking.json](./171606-farm-manager-2021-brewing-and-winemaking.json) |
@@ -899,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA Soccer 07 | 696 | [696-fifa-soccer-07.json](./696-fifa-soccer-07.json) |
 | FIFA Soccer 11 | 503 | [503-fifa-soccer-11.json](./503-fifa-soccer-11.json) |
 | FIFA Soccer 13 | 2153 | [2153-fifa-soccer-13.json](./2153-fifa-soccer-13.json) |
+| FIFA Soccer 2002 | 49326 | [49326-fifa-soccer-2002.json](./49326-fifa-soccer-2002.json) |
 | FIFA Soccer 2003 | 229956 | [229956-fifa-soccer-2003.json](./229956-fifa-soccer-2003.json) |
 | FIFA Soccer 64 | 10682 | [10682-fifa-soccer-64.json](./10682-fifa-soccer-64.json) |
 | FIFA Soccer 96 | 240232 | [240232-fifa-soccer-96.json](./240232-fifa-soccer-96.json) |
