@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E4M1 remake | 308277 | [308277-e4m1-remake.json](./308277-e4m1-remake.json) |
 | EA Mahjong | 79875 | [79875-ea-mahjong.json](./79875-ea-mahjong.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
+| EA Sports College Football 25 | 172021 | [172021-ea-sports-college-football-25.json](./172021-ea-sports-college-football-25.json) |
 | EA Sports College Football 26 | 329146 | [329146-ea-sports-college-football-26.json](./329146-ea-sports-college-football-26.json) |
 | EA Sports FC 25 | 308698 | [308698-ea-sports-fc-25.json](./308698-ea-sports-fc-25.json) |
 | EA Sports FC 27 | 408819 | [408819-ea-sports-fc-27.json](./408819-ea-sports-fc-27.json) |
