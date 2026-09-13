@@ -4482,9 +4482,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SparkleWand Puzzle | 239056 | [239056-sparklewand-puzzle.json](./239056-sparklewand-puzzle.json) |
 | Sparkling Feather | 46612 | [46612-sparkling-feather.json](./46612-sparkling-feather.json) |
 | SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
+| Sparkster: Rocket Knight Adventures 2 | 1264 | [1264-sparkster-rocket-knight-adventures-2.json](./1264-sparkster-rocket-knight-adventures-2.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
 | Sparrow Solitaire | 209649 | [209649-sparrow-solitaire.json](./209649-sparrow-solitaire.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
+| Spartacus Legends | 2326 | [2326-spartacus-legends.json](./2326-spartacus-legends.json) |
 | Spartacus: Blood and Sand | 66648 | [66648-spartacus-blood-and-sand.json](./66648-spartacus-blood-and-sand.json) |
 | Spartan Wars | 256253 | [256253-spartan-wars.json](./256253-spartan-wars.json) |
 | Spartan Wars: Blood and Fire | 323185 | [323185-spartan-wars-blood-and-fire.json](./323185-spartan-wars-blood-and-fire.json) |
@@ -4848,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: JellyFish Dodge | 220116 | [220116-spongebob-squarepants-jellyfish-dodge.json](./220116-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: JellyFish Dodge | 220118 | [220118-spongebob-squarepants-jellyfish-dodge.json](./220118-spongebob-squarepants-jellyfish-dodge.json) |
 | SpongeBob SquarePants: Nighty Nightmare | 18301 | [18301-spongebob-squarepants-nighty-nightmare.json](./18301-spongebob-squarepants-nighty-nightmare.json) |
+| SpongeBob SquarePants: Revenge of the Flying Dutchman | 2762 | [2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
 | SpongeBob SquarePants: The Fry Cook Games | 220115 | [220115-spongebob-squarepants-the-fry-cook-games.json](./220115-spongebob-squarepants-the-fry-cook-games.json) |
 | SpongeBob SquarePants: Titans of the Tide | 358751 | [358751-spongebob-squarepants-titans-of-the-tide.json](./358751-spongebob-squarepants-titans-of-the-tide.json) |
 | SpongeBob's Atlantis Squarepantis | 43312 | [43312-spongebobs-atlantis-squarepantis.json](./43312-spongebobs-atlantis-squarepantis.json) |
@@ -5233,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
 | Star Prince Dress up game | 184061 | [184061-star-prince-dress-up-game.json](./184061-star-prince-dress-up-game.json) |
 | Star Rage VR | 68697 | [68697-star-rage-vr.json](./68697-star-rage-vr.json) |
+| Star Raiders | 2217 | [2217-star-raiders.json](./2217-star-raiders.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
 | Star Rank Boxing II | 69871 | [69871-star-rank-boxing-ii.json](./69871-star-rank-boxing-ii.json) |
 | Star Renegades | 94816 | [94816-star-renegades.json](./94816-star-renegades.json) |
@@ -5907,6 +5911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
 | Story of Seasons (Tentative Title) | 85534 | [85534-story-of-seasons-tentative-title.json](./85534-story-of-seasons-tentative-title.json) |
 | Story of Seasons: A Wonderful Life | 217553 | [217553-story-of-seasons-a-wonderful-life.json](./217553-story-of-seasons-a-wonderful-life.json) |
+| Story of Seasons: Friends of Mineral Town | 120300 | [120300-story-of-seasons-friends-of-mineral-town.json](./120300-story-of-seasons-friends-of-mineral-town.json) |
 | Story of Seasons: Pioneers of Olive Town - Panda Costume | 366267 | [366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json](./366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json) |
 | Story of Seasons: Project Experiences | 250920 | [250920-story-of-seasons-project-experiences.json](./250920-story-of-seasons-project-experiences.json) |
 | Story of Seasons: Project You can Play with Everyone | 250921 | [250921-story-of-seasons-project-you-can-play-with-everyone.json](./250921-story-of-seasons-project-you-can-play-with-everyone.json) |
@@ -6045,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter IV: Collector's Edition | 44570 | [44570-street-fighter-iv-collectors-edition.json](./44570-street-fighter-iv-collectors-edition.json) |
 | Street Fighter Online: Mouse Generation | 55061 | [55061-street-fighter-online-mouse-generation.json](./55061-street-fighter-online-mouse-generation.json) |
 | Street Fighter V: Arcade Edition | 74155 | [74155-street-fighter-v-arcade-edition.json](./74155-street-fighter-v-arcade-edition.json) |
+| Street Fighter V: Champion Edition | 126095 | [126095-street-fighter-v-champion-edition.json](./126095-street-fighter-v-champion-edition.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter x All Capcom | 55064 | [55064-street-fighter-x-all-capcom.json](./55064-street-fighter-x-all-capcom.json) |
 | Street Fighter X Mega Man | 45184 | [45184-street-fighter-x-mega-man.json](./45184-street-fighter-x-mega-man.json) |
