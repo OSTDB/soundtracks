@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
 | Las Vegas Roulette | 47278 | [47278-las-vegas-roulette.json](./47278-las-vegas-roulette.json) |
 | Laser | 322581 | [322581-laser.json](./322581-laser.json) |
+| Laser Arena | 9060 | [9060-laser-arena.json](./9060-laser-arena.json) |
 | Laser Blaster | 58252 | [58252-laser-blaster.json](./58252-laser-blaster.json) |
 | Laser Cannon 3 | 207814 | [207814-laser-cannon-3.json](./207814-laser-cannon-3.json) |
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
