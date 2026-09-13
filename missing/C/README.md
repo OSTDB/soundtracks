@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
+| Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
 | Chop | 183081 | [183081-chop.json](./183081-chop.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
 | Clash of Champs | 56529 | [56529-clash-of-champs.json](./56529-clash-of-champs.json) |
+| Clash of Chefs VR | 111704 | [111704-clash-of-chefs-vr.json](./111704-clash-of-chefs-vr.json) |
 | Clash of Chess | 174898 | [174898-clash-of-chess.json](./174898-clash-of-chess.json) |
 | Clash of Digital: Rumble Smash | 241666 | [241666-clash-of-digital-rumble-smash.json](./241666-clash-of-digital-rumble-smash.json) |
 | Clash of Elements | 233216 | [233216-clash-of-elements.json](./233216-clash-of-elements.json) |
@@ -2038,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classified: France '44 - Season Pass | 289858 | [289858-classified-france-44-season-pass.json](./289858-classified-france-44-season-pass.json) |
 | Classified: The Sentinel Crisis | 5777 | [5777-classified-the-sentinel-crisis.json](./5777-classified-the-sentinel-crisis.json) |
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
+| Clatter | 112721 | [112721-clatter.json](./112721-clatter.json) |
 | Cláudio | 412962 | [412962-claudio.json](./412962-claudio.json) |
 | Claustrophobia | 268184 | [268184-claustrophobia.json](./268184-claustrophobia.json) |
 | Claustrophobia 1024 | 260947 | [260947-claustrophobia-1024.json](./260947-claustrophobia-1024.json) |
@@ -3704,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads Farming Co. | 377056 | [377056-crossroads-farming-co.json](./377056-crossroads-farming-co.json) |
 | Crossroads Inn: Anniversary Edition | 154549 | [154549-crossroads-inn-anniversary-edition.json](./154549-crossroads-inn-anniversary-edition.json) |
 | Crossroads of Fate | 185601 | [185601-crossroads-of-fate.json](./185601-crossroads-of-fate.json) |
+| Crossroads: Lucky Edition | 113241 | [113241-crossroads-lucky-edition.json](./113241-crossroads-lucky-edition.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
 | Crossword | 402255 | [402255-crossword.json](./402255-crossword.json) |
 | Crossword Champ | 58273 | [58273-crossword-champ.json](./58273-crossword-champ.json) |
