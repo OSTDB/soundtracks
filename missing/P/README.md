@@ -2330,6 +2330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Sentri | 165649 | [165649-police-sentri.json](./165649-police-sentri.json) |
 | Police Simulator: Patrol Officers - Gold Edition | 293933 | [293933-police-simulator-patrol-officers-gold-edition.json](./293933-police-simulator-patrol-officers-gold-edition.json) |
 | Police Simulator: Patrol Officers - Guardian Police Vehicle | 278390 | [278390-police-simulator-patrol-officers-guardian-police-vehicle.json](./278390-police-simulator-patrol-officers-guardian-police-vehicle.json) |
+| Police Simulator: Patrol Officers - Nintendo Switch Edition | 308630 | [308630-police-simulator-patrol-officers-nintendo-switch-edition.json](./308630-police-simulator-patrol-officers-nintendo-switch-edition.json) |
 | Police Simulator: Patrol Officers - Surveillance Police Vehicle | 278391 | [278391-police-simulator-patrol-officers-surveillance-police-vehicle.json](./278391-police-simulator-patrol-officers-surveillance-police-vehicle.json) |
 | Police Station Cop Inc: Tycoon | 174884 | [174884-police-station-cop-inc-tycoon.json](./174884-police-station-cop-inc-tycoon.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
