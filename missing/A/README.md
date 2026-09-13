@@ -267,7 +267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquaria | 132868 | [132868-acquaria.json](./132868-acquaria.json) |
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
-| Acron: Attack of the Squirrels! | 119335 | [119335-acron-attack-of-the-squirrels.json](./119335-acron-attack-of-the-squirrels.json) |
 | Acrophile | 221403 | [221403-acrophile.json](./221403-acrophile.json) |
 | Acropolis: The Archaic Age | 111635 | [111635-acropolis-the-archaic-age.json](./111635-acropolis-the-archaic-age.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
@@ -855,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | AInder | 239682 | [239682-ainder.json](./239682-ainder.json) |
 | Ainmora: The Impending Disaster | 241949 | [241949-ainmora-the-impending-disaster.json](./241949-ainmora-the-impending-disaster.json) |
+| Aion 2 | 117297 | [117297-aion-2.json](./117297-aion-2.json) |
 | Aion: Dark Betrayal | 62683 | [62683-aion-dark-betrayal.json](./62683-aion-dark-betrayal.json) |
 | Aion: Echoes of Eternity | 77274 | [77274-aion-echoes-of-eternity.json](./77274-aion-echoes-of-eternity.json) |
 | AionGuard | 94732 | [94732-aionguard.json](./94732-aionguard.json) |
