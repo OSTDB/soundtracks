@@ -1563,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megafortress | 71481 | [71481-megafortress.json](./71481-megafortress.json) |
 | Megalit | 19558 | [19558-megalit.json](./19558-megalit.json) |
 | Megalith | 143049 | [143049-megalith.json](./143049-megalith.json) |
+| Megalo Polis | 18114 | [18114-megalo-polis.json](./18114-megalo-polis.json) |
 | Megaloot | 274998 | [274998-megaloot.json](./274998-megaloot.json) |
 | Megalothymia: Mokusei Zettai Bouei-ken - Heaven's Fall | 267657 | [267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json](./267657-megalothymia-mokusei-zettai-bouei-ken-heavens-fall.json) |
 | Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
@@ -3129,6 +3130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Arena | 101572 | [101572-monster-arena.json](./101572-monster-arena.json) |
 | Monster Bang | 233764 | [233764-monster-bang.json](./233764-monster-bang.json) |
 | Monster Bar | 240784 | [240784-monster-bar.json](./240784-monster-bar.json) |
+| Monster Bash | 18059 | [18059-monster-bash.json](./18059-monster-bash.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
 | Monster Block Game | 235236 | [235236-monster-block-game.json](./235236-monster-block-game.json) |
 | Monster Bomber | 20617 | [20617-monster-bomber.json](./20617-monster-bomber.json) |
@@ -3824,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MT Force Aliens Uprising | 341343 | [341343-mt-force-aliens-uprising.json](./341343-mt-force-aliens-uprising.json) |
 | MTB DirtCross | 298860 | [298860-mtb-dirtcross.json](./298860-mtb-dirtcross.json) |
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
+| MTV Remote Control | 18019 | [18019-mtv-remote-control.json](./18019-mtv-remote-control.json) |
 | MTV Sports: Pure Ride | 306635 | [306635-mtv-sports-pure-ride.json](./306635-mtv-sports-pure-ride.json) |
 | MTV Sports: Pure Ride | 49960 | [49960-mtv-sports-pure-ride.json](./49960-mtv-sports-pure-ride.json) |
 | MTV Sports: Skateboarding Featuring Andy Macdonald | 49959 | [49959-mtv-sports-skateboarding-featuring-andy-macdonald.json](./49959-mtv-sports-skateboarding-featuring-andy-macdonald.json) |
