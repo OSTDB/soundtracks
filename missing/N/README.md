@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanos World | 152927 | [152927-nanos-world.json](./152927-nanos-world.json) |
 | Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
 | Nanospace | 27661 | [27661-nanospace.json](./27661-nanospace.json) |
+| Nanostray 2 | 20992 | [20992-nanostray-2.json](./20992-nanostray-2.json) |
 | Nanoswarm | 110971 | [110971-nanoswarm.json](./110971-nanoswarm.json) |
 | Nanotale: Typing Chronicles | 112378 | [112378-nanotale-typing-chronicles.json](./112378-nanotale-typing-chronicles.json) |
 | Nanotris | 33064 | [33064-nanotris.json](./33064-nanotris.json) |
@@ -174,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Konoha Senki | 75842 | [75842-naruto-konoha-senki.json](./75842-naruto-konoha-senki.json) |
 | Naruto: Ninja Cards | 388751 | [388751-naruto-ninja-cards.json](./388751-naruto-ninja-cards.json) |
 | Naruto: Ninja Council 2 - European Version | 79297 | [79297-naruto-ninja-council-2-european-version.json](./79297-naruto-ninja-council-2-european-version.json) |
+| Naruto: Powerful Shippuden | 20846 | [20846-naruto-powerful-shippuden.json](./20846-naruto-powerful-shippuden.json) |
 | Naruto: Slugfest | 130874 | [130874-naruto-slugfest.json](./130874-naruto-slugfest.json) |
 | Naruto: The Broken Bond | 7102 | [7102-naruto-the-broken-bond.json](./7102-naruto-the-broken-bond.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
@@ -350,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football 2003 | 5955 | [5955-ncaa-football-2003.json](./5955-ncaa-football-2003.json) |
 | NCAA Football 2004 | 175918 | [175918-ncaa-football-2004.json](./175918-ncaa-football-2004.json) |
 | NCAA March Madness 06 | 5958 | [5958-ncaa-march-madness-06.json](./5958-ncaa-march-madness-06.json) |
+| NCAA March Madness 07 | 21392 | [21392-ncaa-march-madness-07.json](./21392-ncaa-march-madness-07.json) |
 | NCAA March Madness 2003 | 43271 | [43271-ncaa-march-madness-2003.json](./43271-ncaa-march-madness-2003.json) |
 | NCAA: Road to the Final Four | 93022 | [93022-ncaa-road-to-the-final-four.json](./93022-ncaa-road-to-the-final-four.json) |
 | NCAA: Road to the Final Four - 1991-92 Edition | 15505 | [15505-ncaa-road-to-the-final-four-1991-92-edition.json](./15505-ncaa-road-to-the-final-four-1991-92-edition.json) |
