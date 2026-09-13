@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Féngmó zhī Shí | 156692 | [156692-fengmo-zhi-shi.json](./156692-fengmo-zhi-shi.json) |
 | Fengse Huanxiang 5: Chi Yue Zhanzheng | 68690 | [68690-fengse-huanxiang-5-chi-yue-zhanzheng.json](./68690-fengse-huanxiang-5-chi-yue-zhanzheng.json) |
 | Fēngshén Yīngjié Zhuán | 93061 | [93061-fengshen-yingjie-zhuan.json](./93061-fengshen-yingjie-zhuan.json) |
+| Fenimore Fillmore: The Westerner | 27496 | [27496-fenimore-fillmore-the-westerner.json](./27496-fenimore-fillmore-the-westerner.json) |
 | Fenix | 298305 | [298305-fenix.json](./298305-fenix.json) |
 | Feodika | 382777 | [382777-feodika.json](./382777-feodika.json) |
 | Fergus the Fly | 29641 | [29641-fergus-the-fly.json](./29641-fergus-the-fly.json) |
@@ -2110,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge of Freedom: The American Civil War 1861-1865 | 230545 | [230545-forge-of-freedom-the-american-civil-war-1861-1865.json](./230545-forge-of-freedom-the-american-civil-war-1861-1865.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
+| Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
 | ForgeRun | 374047 | [374047-forgerun.json](./374047-forgerun.json) |
 | Forget the Brakes | 134604 | [134604-forget-the-brakes.json](./134604-forget-the-brakes.json) |
 | Forget Westbury Falls: Disc One | 192960 | [192960-forget-westbury-falls-disc-one.json](./192960-forget-westbury-falls-disc-one.json) |
@@ -2417,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakin' Funky Fuzzballs | 15515 | [15515-freakin-funky-fuzzballs.json](./15515-freakin-funky-fuzzballs.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
 | Freakshow: Anniversary | 99575 | [99575-freakshow-anniversary.json](./99575-freakshow-anniversary.json) |
+| Freaky Awesome | 27711 | [27711-freaky-awesome.json](./27711-freaky-awesome.json) |
 | Freaky Fish DX | 185624 | [185624-freaky-fish-dx.json](./185624-freaky-fish-dx.json) |
 | Freaky Trip: Amazing Edition | 308803 | [308803-freaky-trip-amazing-edition.json](./308803-freaky-trip-amazing-edition.json) |
 | Freaky Trip: Platinum Edition | 298571 | [298571-freaky-trip-platinum-edition.json](./298571-freaky-trip-platinum-edition.json) |
@@ -2798,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fúlóng: Tiānyuán Jìnglèi | 124214 | [124214-fulong-tianyuan-jinglei.json](./124214-fulong-tianyuan-jinglei.json) |
 | Fuman Ghoul | 399007 | [399007-fuman-ghoul.json](./399007-fuman-ghoul.json) |
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
+| Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
 | Fumpers 2: Dual Realms | 384508 | [384508-fumpers-2-dual-realms.json](./384508-fumpers-2-dual-realms.json) |
 | Fun Chess: Definitive Edition | 275032 | [275032-fun-chess-definitive-edition.json](./275032-fun-chess-definitive-edition.json) |
 | Fun Chess: Platinum Edition | 283146 | [283146-fun-chess-platinum-edition.json](./283146-fun-chess-platinum-edition.json) |
@@ -2856,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FurBalls Racing | 207299 | [207299-furballs-racing.json](./207299-furballs-racing.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
+| Furious Angels | 27743 | [27743-furious-angels.json](./27743-furious-angels.json) |
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
 | Furious Golf | 180768 | [180768-furious-golf.json](./180768-furious-golf.json) |
 | Furious Karting | 47310 | [47310-furious-karting.json](./47310-furious-karting.json) |
