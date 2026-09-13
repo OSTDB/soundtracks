@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
 | Giants | 158196 | [158196-giants.json](./158196-giants.json) |
 | Giants War | 103492 | [103492-giants-war.json](./103492-giants-war.json) |
+| Giants: Citizen Kabuto | 34 | [34-giants-citizen-kabuto.json](./34-giants-citizen-kabuto.json) |
 | Gibbets 2 | 343809 | [343809-gibbets-2.json](./343809-gibbets-2.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
@@ -1537,6 +1538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
 | Gran Turismo 2000 | 298017 | [298017-gran-turismo-2000.json](./298017-gran-turismo-2000.json) |
 | Gran Turismo 4: Spec II | 339256 | [339256-gran-turismo-4-spec-ii.json](./339256-gran-turismo-4-spec-ii.json) |
+| Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
 | Gran Turismo Sport: Collector's Edition | 138775 | [138775-gran-turismo-sport-collectors-edition.json](./138775-gran-turismo-sport-collectors-edition.json) |
 | Gran Turismo Sport: Day One Edition | 138770 | [138770-gran-turismo-sport-day-one-edition.json](./138770-gran-turismo-sport-day-one-edition.json) |
@@ -1561,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Color Pack 5 | 312004 | [312004-granblue-fantasy-relink-color-pack-5.json](./312004-granblue-fantasy-relink-color-pack-5.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag | 312002 | [312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json](./312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: I Work Out | 305779 | [305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json](./305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json) |
+| Granblue Fantasy: Versus | 113378 | [113378-granblue-fantasy-versus.json](./113378-granblue-fantasy-versus.json) |
 | Grand Academy for Future Villains | 67914 | [67914-grand-academy-for-future-villains.json](./67914-grand-academy-for-future-villains.json) |
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
@@ -2004,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Recall | 123006 | [123006-guardian-recall.json](./123006-guardian-recall.json) |
 | Guardian Sword | 26627 | [26627-guardian-sword.json](./26627-guardian-sword.json) |
 | Guardian Tactics: Deck of the Chosen | 292543 | [292543-guardian-tactics-deck-of-the-chosen.json](./292543-guardian-tactics-deck-of-the-chosen.json) |
+| Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
 | Guardians of Cloudia | 150083 | [150083-guardians-of-cloudia.json](./150083-guardians-of-cloudia.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
