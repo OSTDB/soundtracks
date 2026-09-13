@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV: Unprecedented Crisis | 215385 | [215385-final-fantasy-iv-unprecedented-crisis.json](./215385-final-fantasy-iv-unprecedented-crisis.json) |
 | Final Fantasy IX | 340349 | [340349-final-fantasy-ix.json](./340349-final-fantasy-ix.json) |
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
+| Final Fantasy Legend II | 403 | [403-final-fantasy-legend-ii.json](./403-final-fantasy-legend-ii.json) |
 | Final Fantasy Origins | 417 | [417-final-fantasy-origins.json](./417-final-fantasy-origins.json) |
 | Final Fantasy Redux | 219282 | [219282-final-fantasy-redux.json](./219282-final-fantasy-redux.json) |
 | Final Fantasy Renaissance | 298558 | [298558-final-fantasy-renaissance.json](./298558-final-fantasy-renaissance.json) |
@@ -1038,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Fantasy: Blackmoon Prophecy | 210027 | [210027-final-fantasy-blackmoon-prophecy.json](./210027-final-fantasy-blackmoon-prophecy.json) |
 | Final Fantasy: Blackmoon Prophecy II | 210030 | [210030-final-fantasy-blackmoon-prophecy-ii.json](./210030-final-fantasy-blackmoon-prophecy-ii.json) |
+| Final Fantasy: Crystal Chronicles - The Crystal Bearers | 401 | [401-final-fantasy-crystal-chronicles-the-crystal-bearers.json](./401-final-fantasy-crystal-chronicles-the-crystal-bearers.json) |
 | Final Fantasy: Pixel Remaster Collection | 159253 | [159253-final-fantasy-pixel-remaster-collection.json](./159253-final-fantasy-pixel-remaster-collection.json) |
 | Final Flames 2: Against the Dark World Crisis | 76548 | [76548-final-flames-2-against-the-dark-world-crisis.json](./76548-final-flames-2-against-the-dark-world-crisis.json) |
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
@@ -1177,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: The Four Kings | 214494 | [214494-fire-emblem-the-four-kings.json](./214494-fire-emblem-the-four-kings.json) |
 | Fire Emblem: The Lonely Mirror | 273926 | [273926-fire-emblem-the-lonely-mirror.json](./273926-fire-emblem-the-lonely-mirror.json) |
 | Fire Emblem: Thracia 776 | 1437 | [1437-fire-emblem-thracia-776.json](./1437-fire-emblem-thracia-776.json) |
+| Fire Emblem: Three Houses - Cindered Shadows | 132224 | [132224-fire-emblem-three-houses-cindered-shadows.json](./132224-fire-emblem-three-houses-cindered-shadows.json) |
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
 | Fire Embrace: Erabareshi Chigyuu no Ken | 163923 | [163923-fire-embrace-erabareshi-chigyuu-no-ken.json](./163923-fire-embrace-erabareshi-chigyuu-no-ken.json) |
 | Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
