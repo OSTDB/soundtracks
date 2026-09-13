@@ -623,6 +623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JR's Christmas Adventure | 340776 | [340776-jrs-christmas-adventure.json](./340776-jrs-christmas-adventure.json) |
 | Jrago III Requiem of the Night | 390531 | [390531-jrago-iii-requiem-of-the-night.json](./390531-jrago-iii-requiem-of-the-night.json) |
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
+| Ju-on: The Grudge | 4945 | [4945-ju-on-the-grudge.json](./4945-ju-on-the-grudge.json) |
 | Jubeat Ripples | 91903 | [91903-jubeat-ripples.json](./91903-jubeat-ripples.json) |
 | Jubilane | 165696 | [165696-jubilane.json](./165696-jubilane.json) |
 | Judas | 29714 | [29714-judas.json](./29714-judas.json) |
