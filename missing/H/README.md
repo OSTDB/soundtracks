@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy VR Plantation Farm | 166193 | [166193-happy-vr-plantation-farm.json](./166193-happy-vr-plantation-farm.json) |
 | Happy VR Time | 53174 | [53174-happy-vr-time.json](./53174-happy-vr-time.json) |
 | Happy Wagon | 254763 | [254763-happy-wagon.json](./254763-happy-wagon.json) |
+| Happy Wars | 8410 | [8410-happy-wars.json](./8410-happy-wars.json) |
 | Happy Weekend | 333579 | [333579-happy-weekend.json](./333579-happy-weekend.json) |
 | Happy Wonderland Solitaire | 276200 | [276200-happy-wonderland-solitaire.json](./276200-happy-wonderland-solitaire.json) |
 | Happy Words | 117051 | [117051-happy-words.json](./117051-happy-words.json) |
@@ -1931,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoneySun | 260407 | [260407-honeysun.json](./260407-honeysun.json) |
 | Hong Gildong-jeon | 145612 | [145612-hong-gildong-jeon.json](./145612-hong-gildong-jeon.json) |
 | Hong Kong | 47251 | [47251-hong-kong.json](./47251-hong-kong.json) |
+| Hong Kong 97 | 9616 | [9616-hong-kong-97.json](./9616-hong-kong-97.json) |
 | Hong Kong Mahjong | 334661 | [334661-hong-kong-mahjong.json](./334661-hong-kong-mahjong.json) |
 | Hong Kong Mahjong Pro | 79933 | [79933-hong-kong-mahjong-pro.json](./79933-hong-kong-mahjong-pro.json) |
 | Hong Kong Obscure | 245861 | [245861-hong-kong-obscure.json](./245861-hong-kong-obscure.json) |
