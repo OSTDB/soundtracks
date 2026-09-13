@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T21:48:45.921Z",
-  "total_missing": 67321,
+  "generated_at": "2026-09-13T21:51:29.325Z",
+  "total_missing": 67320,
   "games": [
     {
       "igdb_id": 306086,
@@ -3936,11 +3936,6 @@
       "igdb_id": 242534,
       "game_name": "Adibou d'chou au cirque",
       "file": "missing/A/242534-adibou-dchou-au-cirque.json"
-    },
-    {
-      "igdb_id": 242532,
-      "game_name": "Adibou d'chou au Pays des Bonbons",
-      "file": "missing/A/242532-adibou-dchou-au-pays-des-bonbons.json"
     },
     {
       "igdb_id": 242531,
