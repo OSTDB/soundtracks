@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
 | Carmageddon | 626 | [626-carmageddon.json](./626-carmageddon.json) |
 | Carmageddon: Max Damage | 18075 | [18075-carmageddon-max-damage.json](./18075-carmageddon-max-damage.json) |
+| Carmageddon: Splat Pack | 2403 | [2403-carmageddon-splat-pack.json](./2403-carmageddon-splat-pack.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: Junior Detective Edition | 73783 | [73783-carmen-sandiego-junior-detective-edition.json](./73783-carmen-sandiego-junior-detective-edition.json) |
 | Carmen Sandiego: To Steal or Not to Steal | 256843 | [256843-carmen-sandiego-to-steal-or-not-to-steal.json](./256843-carmen-sandiego-to-steal-or-not-to-steal.json) |
@@ -606,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Collection | 53777 | [53777-cartoon-collection.json](./53777-cartoon-collection.json) |
 | Cartoon Network Collection: Limited Edition | 49362 | [49362-cartoon-network-collection-limited-edition.json](./49362-cartoon-network-collection-limited-edition.json) |
 | Cartoon Network Journeys VR | 124165 | [124165-cartoon-network-journeys-vr.json](./124165-cartoon-network-journeys-vr.json) |
+| Cartoon Network Racing | 2785 | [2785-cartoon-network-racing.json](./2785-cartoon-network-racing.json) |
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
 | Cartoon Pet Game | 335068 | [335068-cartoon-pet-game.json](./335068-cartoon-pet-game.json) |
@@ -719,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania II: Simon's Quest Revamped | 317859 | [317859-castlevania-ii-simons-quest-revamped.json](./317859-castlevania-ii-simons-quest-revamped.json) |
 | Castlevania Legends | 1129 | [1129-castlevania-legends.json](./1129-castlevania-legends.json) |
 | Castlevania: Aria of Sorrow | 1134 | [1134-castlevania-aria-of-sorrow.json](./1134-castlevania-aria-of-sorrow.json) |
+| Castlevania: Aria of Sorrow | 222412 | [222412-castlevania-aria-of-sorrow.json](./222412-castlevania-aria-of-sorrow.json) |
 | Castlevania: Aria of Sorrow - Magician Mode | 268721 | [268721-castlevania-aria-of-sorrow-magician-mode.json](./268721-castlevania-aria-of-sorrow-magician-mode.json) |
 | Castlevania: Aria of Sorrow - Persephone | 268722 | [268722-castlevania-aria-of-sorrow-persephone.json](./268722-castlevania-aria-of-sorrow-persephone.json) |
 | Castlevania: Aria of Sorrow - Reprise | 231091 | [231091-castlevania-aria-of-sorrow-reprise.json](./231091-castlevania-aria-of-sorrow-reprise.json) |
@@ -735,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Order of Ecclesia | 1141 | [1141-castlevania-order-of-ecclesia.json](./1141-castlevania-order-of-ecclesia.json) |
 | Castlevania: Portrait of Ruin | 1138 | [1138-castlevania-portrait-of-ruin.json](./1138-castlevania-portrait-of-ruin.json) |
 | Castlevania: Rondo of the Night | 394858 | [394858-castlevania-rondo-of-the-night.json](./394858-castlevania-rondo-of-the-night.json) |
+| Castlevania: Symphony of the Night | 222227 | [222227-castlevania-symphony-of-the-night.json](./222227-castlevania-symphony-of-the-night.json) |
 | Castlevania: Symphony of the Night Randomizer | 218152 | [218152-castlevania-symphony-of-the-night-randomizer.json](./218152-castlevania-symphony-of-the-night-randomizer.json) |
 | Castlevania: The Adventure | 1118 | [1118-castlevania-the-adventure.json](./1118-castlevania-the-adventure.json) |
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
@@ -2258,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codemakers | 193411 | [193411-codemakers.json](./193411-codemakers.json) |
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
 | Codename: Mystery Babylon | 157154 | [157154-codename-mystery-babylon.json](./157154-codename-mystery-babylon.json) |
+| Codename: Panzers - Phase One | 640 | [640-codename-panzers-phase-one.json](./640-codename-panzers-phase-one.json) |
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
 | Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
