@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T13:51:35.200Z",
-  "total_missing": 66097,
+  "generated_at": "2026-09-13T14:01:44.212Z",
+  "total_missing": 66114,
   "games": [
     {
       "igdb_id": 306086,
@@ -2163,6 +2163,11 @@
       "file": "missing/0-9/54444-80-08.json"
     },
     {
+      "igdb_id": 58717,
+      "game_name": "80's Overdrive",
+      "file": "missing/0-9/58717-80s-overdrive.json"
+    },
+    {
       "igdb_id": 269321,
       "game_name": "81diver",
       "file": "missing/0-9/269321-81diver.json"
@@ -3686,11 +3691,6 @@
       "igdb_id": 14550,
       "game_name": "Action Henk",
       "file": "missing/A/14550-action-henk.json"
-    },
-    {
-      "igdb_id": 66714,
-      "game_name": "Action Hero",
-      "file": "missing/A/66714-action-hero.json"
     },
     {
       "igdb_id": 29871,
@@ -17993,6 +17993,11 @@
       "file": "missing/A/51211-astro-avenger-ii.json"
     },
     {
+      "igdb_id": 54774,
+      "game_name": "Astro Bears Party",
+      "file": "missing/A/54774-astro-bears-party.json"
+    },
+    {
       "igdb_id": 241655,
       "game_name": "Astro Blox Revisited",
       "file": "missing/A/241655-astro-blox-revisited.json"
@@ -30076,6 +30081,11 @@
       "igdb_id": 226194,
       "game_name": "Black Cycle",
       "file": "missing/B/226194-black-cycle.json"
+    },
+    {
+      "igdb_id": 54701,
+      "game_name": "Black Desert Mobile",
+      "file": "missing/B/54701-black-desert-mobile.json"
     },
     {
       "igdb_id": 150142,
@@ -64436,6 +64446,11 @@
       "igdb_id": 105305,
       "game_name": "Dead Mayhem",
       "file": "missing/D/105305-dead-mayhem.json"
+    },
+    {
+      "igdb_id": 55494,
+      "game_name": "Dead Maze",
+      "file": "missing/D/55494-dead-maze.json"
     },
     {
       "igdb_id": 65444,
@@ -124018,6 +124033,11 @@
       "file": "missing/H/224225-hitman-3-trinity-pack.json"
     },
     {
+      "igdb_id": 53210,
+      "game_name": "Hitman Absolution: Elite Edition",
+      "file": "missing/H/53210-hitman-absolution-elite-edition.json"
+    },
+    {
       "igdb_id": 233571,
       "game_name": "Hitman World of Assassination",
       "file": "missing/H/233571-hitman-world-of-assassination.json"
@@ -129756,6 +129776,11 @@
       "igdb_id": 82812,
       "game_name": "Ice Crystal Labyrinth",
       "file": "missing/I/82812-ice-crystal-labyrinth.json"
+    },
+    {
+      "igdb_id": 57656,
+      "game_name": "Ice Hockey",
+      "file": "missing/I/57656-ice-hockey.json"
     },
     {
       "igdb_id": 339824,
@@ -138356,6 +138381,11 @@
       "igdb_id": 199073,
       "game_name": "Jimbob and the Magic Chain",
       "file": "missing/J/199073-jimbob-and-the-magic-chain.json"
+    },
+    {
+      "igdb_id": 59227,
+      "game_name": "Jimmy and the Pulsating Mass",
+      "file": "missing/J/59227-jimmy-and-the-pulsating-mass.json"
     },
     {
       "igdb_id": 42605,
@@ -169071,6 +169101,11 @@
       "igdb_id": 8196,
       "game_name": "Microsoft Spider Solitaire",
       "file": "missing/M/8196-microsoft-spider-solitaire.json"
+    },
+    {
+      "igdb_id": 60285,
+      "game_name": "Microsoft Sudoku",
+      "file": "missing/M/60285-microsoft-sudoku.json"
     },
     {
       "igdb_id": 78055,
@@ -222158,6 +222193,11 @@
       "file": "missing/R/7725-resident-evil-revelations-2.json"
     },
     {
+      "igdb_id": 53506,
+      "game_name": "Resident Evil: Revelations 2 - Deluxe Edition",
+      "file": "missing/R/53506-resident-evil-revelations-2-deluxe-edition.json"
+    },
+    {
       "igdb_id": 313129,
       "game_name": "Resident Evil: Survivor Redux",
       "file": "missing/R/313129-resident-evil-survivor-redux.json"
@@ -228538,6 +228578,11 @@
       "file": "missing/R/263759-rpg-golf-with-vampires.json"
     },
     {
+      "igdb_id": 53529,
+      "game_name": "RPG Maker 2003",
+      "file": "missing/R/53529-rpg-maker-2003.json"
+    },
+    {
       "igdb_id": 291538,
       "game_name": "RPG Maker With",
       "file": "missing/R/291538-rpg-maker-with.json"
@@ -230526,6 +230571,11 @@
       "igdb_id": 60523,
       "game_name": "Sacred Line Genesis",
       "file": "missing/S/60523-sacred-line-genesis.json"
+    },
+    {
+      "igdb_id": 53570,
+      "game_name": "Sacred Plus",
+      "file": "missing/S/53570-sacred-plus.json"
     },
     {
       "igdb_id": 112286,
@@ -240293,6 +240343,11 @@
       "file": "missing/S/184656-shooty-ballz.json"
     },
     {
+      "igdb_id": 59547,
+      "game_name": "Shooty Skies",
+      "file": "missing/S/59547-shooty-skies.json"
+    },
+    {
       "igdb_id": 137654,
       "game_name": "Shooty Skies Overdrive",
       "file": "missing/S/137654-shooty-skies-overdrive.json"
@@ -243441,6 +243496,11 @@
       "igdb_id": 75075,
       "game_name": "SkifY",
       "file": "missing/S/75075-skify.json"
+    },
+    {
+      "igdb_id": 55104,
+      "game_name": "Skiing",
+      "file": "missing/S/55104-skiing.json"
     },
     {
       "igdb_id": 316603,
@@ -272558,6 +272618,11 @@
       "file": "missing/T/91424-tap-titans.json"
     },
     {
+      "igdb_id": 57168,
+      "game_name": "Tap Titans 2",
+      "file": "missing/T/57168-tap-titans-2.json"
+    },
+    {
       "igdb_id": 245337,
       "game_name": "Tap to Build",
       "file": "missing/T/245337-tap-to-build.json"
@@ -273763,6 +273828,11 @@
       "file": "missing/T/1240-tekken-advance.json"
     },
     {
+      "igdb_id": 54783,
+      "game_name": "Tekken Mobile",
+      "file": "missing/T/54783-tekken-mobile.json"
+    },
+    {
       "igdb_id": 7660,
       "game_name": "Tekken Revolution",
       "file": "missing/T/7660-tekken-revolution.json"
@@ -273936,6 +274006,11 @@
       "igdb_id": 51181,
       "game_name": "Tempest 3000",
       "file": "missing/T/51181-tempest-3000.json"
+    },
+    {
+      "igdb_id": 54565,
+      "game_name": "Tempest 4000",
+      "file": "missing/T/54565-tempest-4000.json"
     },
     {
       "igdb_id": 310966,
@@ -281546,6 +281621,11 @@
       "igdb_id": 189124,
       "game_name": "The House Before",
       "file": "missing/T/189124-the-house-before.json"
+    },
+    {
+      "igdb_id": 56006,
+      "game_name": "The House in Fata Morgana: A Requiem for Innocence",
+      "file": "missing/T/56006-the-house-in-fata-morgana-a-requiem-for-innocence.json"
     },
     {
       "igdb_id": 129746,
@@ -302451,6 +302531,11 @@
       "igdb_id": 82923,
       "game_name": "Treasure Action: Threatened, Violated & Sacrificed Sherry",
       "file": "missing/T/82923-treasure-action-threatened-violated-and-sacrificed-sherry.json"
+    },
+    {
+      "igdb_id": 58243,
+      "game_name": "Treasure Adventure World",
+      "file": "missing/T/58243-treasure-adventure-world.json"
     },
     {
       "igdb_id": 81213,
