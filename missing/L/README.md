@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
 | Lennod Jump Game | 384542 | [384542-lennod-jump-game.json](./384542-lennod-jump-game.json) |
+| Lennus II: Fuuin no Shito | 38376 | [38376-lennus-ii-fuuin-no-shito.json](./38376-lennus-ii-fuuin-no-shito.json) |
 | Lenny Loosejocks Goes Walkabout | 170548 | [170548-lenny-loosejocks-goes-walkabout.json](./170548-lenny-loosejocks-goes-walkabout.json) |
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Lent: The Easter Bunny - Lent's Adventure: Story One | 215123 | [215123-lent-the-easter-bunny-lents-adventure-story-one.json](./215123-lent-the-easter-bunny-lents-adventure-story-one.json) |
@@ -847,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Operation: Episode 1 - Healer Rugitta | 256557 | [256557-lethal-operation-episode-1-healer-rugitta.json](./256557-lethal-operation-episode-1-healer-rugitta.json) |
 | Lethal Pongbat | 161904 | [161904-lethal-pongbat.json](./161904-lethal-pongbat.json) |
 | Lethal RPG Destiny: Rebirth | 309094 | [309094-lethal-rpg-destiny-rebirth.json](./309094-lethal-rpg-destiny-rebirth.json) |
+| Lethal Weapon | 39024 | [39024-lethal-weapon.json](./39024-lethal-weapon.json) |
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
 | Letherfall | 373540 | [373540-letherfall.json](./373540-letherfall.json) |
@@ -984,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifelike | 178003 | [178003-lifelike.json](./178003-lifelike.json) |
 | Lifelike: Chapter One | 117004 | [117004-lifelike-chapter-one.json](./117004-lifelike-chapter-one.json) |
 | Lifeline | 19282 | [19282-lifeline.json](./19282-lifeline.json) |
+| Lifeline: Silent Night | 39254 | [39254-lifeline-silent-night.json](./39254-lifeline-silent-night.json) |
 | LifePaths | 414351 | [414351-lifepaths.json](./414351-lifepaths.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
 | Lifo | 185615 | [185615-lifo.json](./185615-lifo.json) |
@@ -1223,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Adventurer II | 61607 | [61607-little-adventurer-ii.json](./61607-little-adventurer-ii.json) |
 | Little Adventurer III | 83547 | [83547-little-adventurer-iii.json](./83547-little-adventurer-iii.json) |
 | Little Airplane 3D for kids: learn colors, numbers | 101495 | [101495-little-airplane-3d-for-kids-learn-colors-numbers.json](./101495-little-airplane-3d-for-kids-learn-colors-numbers.json) |
+| Little Alchemy | 38911 | [38911-little-alchemy.json](./38911-little-alchemy.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
 | Little Bear | 308582 | [308582-little-bear.json](./308582-little-bear.json) |
