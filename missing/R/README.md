@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
+| Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
 | Revolve | 26722 | [26722-revolve.json](./26722-revolve.json) |
 | Revolver360 | 79926 | [79926-revolver360.json](./79926-revolver360.json) |
@@ -2268,9 +2269,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roofbot: Puzzler on the Roof | 96729 | [96729-roofbot-puzzler-on-the-roof.json](./96729-roofbot-puzzler-on-the-roof.json) |
 | Rooftop | 229706 | [229706-rooftop.json](./229706-rooftop.json) |
 | Rooftop Cop | 35696 | [35696-rooftop-cop.json](./35696-rooftop-cop.json) |
+| Rooftop Rascal: The Alien Cat | 393933 | [393933-rooftop-rascal-the-alien-cat.json](./393933-rooftop-rascal-the-alien-cat.json) |
 | Rooftop Rascal: The Claus Cat | 328386 | [328386-rooftop-rascal-the-claus-cat.json](./328386-rooftop-rascal-the-claus-cat.json) |
 | Rooftop Rascal: The Glitch Cat | 324996 | [324996-rooftop-rascal-the-glitch-cat.json](./324996-rooftop-rascal-the-glitch-cat.json) |
 | Rooftop Rascal: The Midnight Cat | 315893 | [315893-rooftop-rascal-the-midnight-cat.json](./315893-rooftop-rascal-the-midnight-cat.json) |
+| Rooftop Rascal: The Pirate Cat | 394844 | [394844-rooftop-rascal-the-pirate-cat.json](./394844-rooftop-rascal-the-pirate-cat.json) |
 | Rooftop Rascal: The Spooky Cat | 320373 | [320373-rooftop-rascal-the-spooky-cat.json](./320373-rooftop-rascal-the-spooky-cat.json) |
 | Rooftop Story | 370717 | [370717-rooftop-story.json](./370717-rooftop-story.json) |
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
@@ -2520,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Union Team Manager 4 | 225072 | [225072-rugby-union-team-manager-4.json](./225072-rugby-union-team-manager-4.json) |
 | Rugida | 169384 | [169384-rugida.json](./169384-rugida.json) |
 | Rugon | 108991 | [108991-rugon.json](./108991-rugon.json) |
+| Rugrats in Paris: The Movie | 2792 | [2792-rugrats-in-paris-the-movie.json](./2792-rugrats-in-paris-the-movie.json) |
 | Rugrats Munchin Land | 70346 | [70346-rugrats-munchin-land.json](./70346-rugrats-munchin-land.json) |
 | Rugrats: Adventures in Gameland | 299152 | [299152-rugrats-adventures-in-gameland.json](./299152-rugrats-adventures-in-gameland.json) |
 | Rugrats: Scavenger Hunt | 2786 | [2786-rugrats-scavenger-hunt.json](./2786-rugrats-scavenger-hunt.json) |
