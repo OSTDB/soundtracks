@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Technology 2 | 230267 | [230267-smart-technology-2.json](./230267-smart-technology-2.json) |
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
+| Smash + Grab | 23178 | [23178-smash-grab.json](./23178-smash-grab.json) |
 | Smash Arrow | 56421 | [56421-smash-arrow.json](./56421-smash-arrow.json) |
 | Smash Balls | 275898 | [275898-smash-balls.json](./275898-smash-balls.json) |
 | Smash Bowling 3D | 84881 | [84881-smash-bowling-3d.json](./84881-smash-bowling-3d.json) |
@@ -5342,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fox 64: Survival | 146269 | [146269-star-fox-64-survival.json](./146269-star-fox-64-survival.json) |
 | Star Fox Zero | 11196 | [11196-star-fox-zero.json](./11196-star-fox-zero.json) |
 | Star Fox Zero and Star Fox Guard: First Print Edition | 51144 | [51144-star-fox-zero-and-star-fox-guard-first-print-edition.json](./51144-star-fox-zero-and-star-fox-guard-first-print-edition.json) |
+| Star Fox Zero: Limited First Print Edition | 23382 | [23382-star-fox-zero-limited-first-print-edition.json](./23382-star-fox-zero-limited-first-print-edition.json) |
 | Star Fox: Assault | 3243 | [3243-star-fox-assault.json](./3243-star-fox-assault.json) |
 | Star Gladiator Episode I: Final Crusade | 14680 | [14680-star-gladiator-episode-i-final-crusade.json](./14680-star-gladiator-episode-i-final-crusade.json) |
 | Star Gods | 125417 | [125417-star-gods.json](./125417-star-gods.json) |
@@ -5412,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Alien Domain: Incursion | 123597 | [123597-star-trek-alien-domain-incursion.json](./123597-star-trek-alien-domain-incursion.json) |
 | Star Trek III | 69258 | [69258-star-trek-iii.json](./69258-star-trek-iii.json) |
 | Star Trek Online | 7584 | [7584-star-trek-online.json](./7584-star-trek-online.json) |
+| Star Trek Online: Agents of Yesterday | 23285 | [23285-star-trek-online-agents-of-yesterday.json](./23285-star-trek-online-agents-of-yesterday.json) |
 | Star Trek Prodigy: Supernova | 202419 | [202419-star-trek-prodigy-supernova.json](./202419-star-trek-prodigy-supernova.json) |
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
 | Star Trek V: The Final Frontier | 69831 | [69831-star-trek-v-the-final-frontier.json](./69831-star-trek-v-the-final-frontier.json) |
@@ -5444,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars | 212479 | [212479-star-wars.json](./212479-star-wars.json) |
 | Star Wars Arcade | 39822 | [39822-star-wars-arcade.json](./39822-star-wars-arcade.json) |
 | Star Wars Battlefront II: Celebration Edition | 128334 | [128334-star-wars-battlefront-ii-celebration-edition.json](./128334-star-wars-battlefront-ii-celebration-edition.json) |
+| Star Wars Battlefront: Battle of Jakku | 23293 | [23293-star-wars-battlefront-battle-of-jakku.json](./23293-star-wars-battlefront-battle-of-jakku.json) |
 | Star Wars Battlefront: Death Star | 20470 | [20470-star-wars-battlefront-death-star.json](./20470-star-wars-battlefront-death-star.json) |
 | Star Wars Battlefront: Hoth Bundle | 115714 | [115714-star-wars-battlefront-hoth-bundle.json](./115714-star-wars-battlefront-hoth-bundle.json) |
 | Star Wars Challenge | 86087 | [86087-star-wars-challenge.json](./86087-star-wars-challenge.json) |
@@ -6646,6 +6650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
 | Summer Sisters | 402291 | [402291-summer-sisters.json](./402291-summer-sisters.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
+| Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
 | Summer Vacation | 221405 | [221405-summer-vacation.json](./221405-summer-vacation.json) |
 | Summer Village | 236513 | [236513-summer-village.json](./236513-summer-village.json) |
