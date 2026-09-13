@@ -1253,8 +1253,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa One | 371918 | [371918-europa-one.json](./371918-europa-one.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
+| Europa Universalis IV: Common Sense | 19298 | [19298-europa-universalis-iv-common-sense.json](./19298-europa-universalis-iv-common-sense.json) |
+| Europa Universalis IV: Conquest of Paradise | 19299 | [19299-europa-universalis-iv-conquest-of-paradise.json](./19299-europa-universalis-iv-conquest-of-paradise.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
 | Europa Universalis IV: National Monuments II | 169976 | [169976-europa-universalis-iv-national-monuments-ii.json](./169976-europa-universalis-iv-national-monuments-ii.json) |
+| Europa Universalis IV: Res Publica | 19294 | [19294-europa-universalis-iv-res-publica.json](./19294-europa-universalis-iv-res-publica.json) |
 | Europa Universalis IV: Songs of Regency | 227861 | [227861-europa-universalis-iv-songs-of-regency.json](./227861-europa-universalis-iv-songs-of-regency.json) |
 | Europa Universalis IV: Ultimate Sprite Pack | 284902 | [284902-europa-universalis-iv-ultimate-sprite-pack.json](./284902-europa-universalis-iv-ultimate-sprite-pack.json) |
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
