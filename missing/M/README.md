@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaphobia | 127907 | [127907-metaphobia.json](./127907-metaphobia.json) |
 | Metapilot | 209476 | [209476-metapilot.json](./209476-metapilot.json) |
 | Metathrone | 173771 | [173771-metathrone.json](./173771-metathrone.json) |
+| Metaverse Keeper | 111984 | [111984-metaverse-keeper.json](./111984-metaverse-keeper.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
 | MetaWorld | 31841 | [31841-metaworld.json](./31841-metaworld.json) |
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
@@ -3025,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mocap Boxing | 61667 | [61667-mocap-boxing.json](./61667-mocap-boxing.json) |
 | Mocaverse | 244773 | [244773-mocaverse.json](./244773-mocaverse.json) |
 | Moccoletti | 302381 | [302381-moccoletti.json](./302381-moccoletti.json) |
+| Mochi Mochi Boy | 112709 | [112709-mochi-mochi-boy.json](./112709-mochi-mochi-boy.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi's Dreamland | 395579 | [395579-mochis-dreamland.json](./395579-mochis-dreamland.json) |
 | Mock 2: The Speed of Stupid | 238485 | [238485-mock-2-the-speed-of-stupid.json](./238485-mock-2-the-speed-of-stupid.json) |
@@ -4140,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery J: Special Stamp - Susan | 325466 | [325466-murder-mystery-j-special-stamp-susan.json](./325466-murder-mystery-j-special-stamp-susan.json) |
 | Murder Mystery J: Special Stamp - Thomas | 325469 | [325469-murder-mystery-j-special-stamp-thomas.json](./325469-murder-mystery-j-special-stamp-thomas.json) |
 | Murder Mystery J: Special Stamp - Vanilla | 325480 | [325480-murder-mystery-j-special-stamp-vanilla.json](./325480-murder-mystery-j-special-stamp-vanilla.json) |
+| Murder Mystery Machine | 111944 | [111944-murder-mystery-machine.json](./111944-murder-mystery-machine.json) |
 | Murder Mystery Paradox: Fifteen Years of Summer | 247526 | [247526-murder-mystery-paradox-fifteen-years-of-summer.json](./247526-murder-mystery-paradox-fifteen-years-of-summer.json) |
 | Murder on the Marine Express | 151690 | [151690-murder-on-the-marine-express.json](./151690-murder-on-the-marine-express.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
