@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Runner | 143013 | [143013-rift-runner.json](./143013-rift-runner.json) |
 | Rift Wizard 2 | 270936 | [270936-rift-wizard-2.json](./270936-rift-wizard-2.json) |
 | Rift World | 148550 | [148550-rift-world.json](./148550-rift-world.json) |
+| Rift: Nightmare Tide | 19322 | [19322-rift-nightmare-tide.json](./19322-rift-nightmare-tide.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
 | Rigel's Revenge | 55084 | [55084-rigels-revenge.json](./55084-rigels-revenge.json) |
