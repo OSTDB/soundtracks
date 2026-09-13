@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Simulator | 326423 | [326423-fighting-simulator.json](./326423-fighting-simulator.json) |
 | Fighting Soccer | 12097 | [12097-fighting-soccer.json](./12097-fighting-soccer.json) |
 | Fighting Steel: World War II Surface Combat 1939-1942 | 78006 | [78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json](./78006-fighting-steel-world-war-ii-surface-combat-1939-1942.json) |
+| Fighting Vipers | 39471 | [39471-fighting-vipers.json](./39471-fighting-vipers.json) |
 | FightingChicken | 309675 | [309675-fightingchicken.json](./309675-fightingchicken.json) |
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
 | Fignermukcre | 128627 | [128627-fignermukcre.json](./128627-fignermukcre.json) |
@@ -2143,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Format | 312580 | [312580-format.json](./312580-format.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
 | Formation Soccer: Human Cup '90 | 42046 | [42046-formation-soccer-human-cup-90.json](./42046-formation-soccer-human-cup-90.json) |
+| Formation Z | 37190 | [37190-formation-z.json](./37190-formation-z.json) |
 | Formino | 175411 | [175411-formino.json](./175411-formino.json) |
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 11 Mini Racing | 411563 | [411563-formula-11-mini-racing.json](./411563-formula-11-mini-racing.json) |
