@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
+| Aftermath | 35770 | [35770-aftermath.json](./35770-aftermath.json) |
 | Aftermoon | 63880 | [63880-aftermoon.json](./63880-aftermoon.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | Afternoon Frontline | 414319 | [414319-afternoon-frontline.json](./414319-afternoon-frontline.json) |
@@ -1523,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambush: Convoy Strike | 154559 | [154559-ambush-convoy-strike.json](./154559-ambush-convoy-strike.json) |
 | Ambuuu | 329936 | [329936-ambuuu.json](./329936-ambuuu.json) |
 | Ame ni Negaeba: Wishin' in the Rain | 301601 | [301601-ame-ni-negaeba-wishin-in-the-rain.json](./301601-ame-ni-negaeba-wishin-in-the-rain.json) |
+| Ame no Marginal -Rain Marginal- | 35747 | [35747-ame-no-marginal-rain-marginal.json](./35747-ame-no-marginal-rain-marginal.json) |
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
 | Amen: The Quiet Exodus | 406731 | [406731-amen-the-quiet-exodus.json](./406731-amen-the-quiet-exodus.json) |
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
@@ -1703,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Mahjong | 267370 | [267370-ancient-mahjong.json](./267370-ancient-mahjong.json) |
 | Ancient Military | 392800 | [392800-ancient-military.json](./392800-ancient-military.json) |
 | Ancient Origins: Flying Fish | 262975 | [262975-ancient-origins-flying-fish.json](./262975-ancient-origins-flying-fish.json) |
+| Ancient Planet | 35891 | [35891-ancient-planet.json](./35891-ancient-planet.json) |
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
 | Ancient Rus vs. Lizards | 277013 | [277013-ancient-rus-vs-lizards.json](./277013-ancient-rus-vs-lizards.json) |
 | Ancient Russian Life Simulator | 278177 | [278177-ancient-russian-life-simulator.json](./278177-ancient-russian-life-simulator.json) |
@@ -1967,6 +1970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
 | Ankh 3: Battle of the Gods | 25466 | [25466-ankh-3-battle-of-the-gods.json](./25466-ankh-3-battle-of-the-gods.json) |
+| Ankh: Anniversary Edition | 35651 | [35651-ankh-anniversary-edition.json](./35651-ankh-anniversary-edition.json) |
 | Ankhet | 213958 | [213958-ankhet.json](./213958-ankhet.json) |
 | Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
