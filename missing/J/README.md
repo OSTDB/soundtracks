@@ -899,4 +899,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juxtastat | 320740 | [320740-juxtastat.json](./320740-juxtastat.json) |
 | JWP Joshi Pro Wrestling: Pure Wrestle Queens | 38276 | [38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json](./38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json) |
 | Jyangokushi - Haoh No Saihai | 40217 | [40217-jyangokushi-haoh-no-saihai.json](./40217-jyangokushi-haoh-no-saihai.json) |
+| Jydge | 43501 | [43501-jydge.json](./43501-jydge.json) |
 | Jyym Pearson Adventure Tri-Pack | 100126 | [100126-jyym-pearson-adventure-tri-pack.json](./100126-jyym-pearson-adventure-tri-pack.json) |
