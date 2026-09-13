@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravv: Between Two Worlds | 195725 | [195725-gravv-between-two-worlds.json](./195725-gravv-between-two-worlds.json) |
 | Gray Matter | 264873 | [264873-gray-matter.json](./264873-gray-matter.json) |
 | Gray platformer | 142420 | [142420-gray-platformer.json](./142420-gray-platformer.json) |
+| Gray Zone Warfare | 275070 | [275070-gray-zone-warfare.json](./275070-gray-zone-warfare.json) |
 | Grayscale | 217502 | [217502-grayscale.json](./217502-grayscale.json) |
 | Graytail | 292298 | [292298-graytail.json](./292298-graytail.json) |
 | Graywalkers: Purgatory | 61562 | [61562-graywalkers-purgatory.json](./61562-graywalkers-purgatory.json) |
