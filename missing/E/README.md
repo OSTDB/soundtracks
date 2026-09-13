@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim 1 & 2: The Whole Can 'O Worms | 125989 | [125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json](./125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json) |
 | Earthworm Jim 2 | 3481 | [3481-earthworm-jim-2.json](./3481-earthworm-jim-2.json) |
 | Earthworm Jim Collection | 237402 | [237402-earthworm-jim-collection.json](./237402-earthworm-jim-collection.json) |
+| Earthworm Jim HD | 20420 | [20420-earthworm-jim-hd.json](./20420-earthworm-jim-hd.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
 | Ease Out | 224544 | [224544-ease-out.json](./224544-ease-out.json) |
