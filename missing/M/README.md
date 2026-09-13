@@ -4632,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of Mist: Legacy | 167766 | [167766-myth-of-mist-legacy.json](./167766-myth-of-mist-legacy.json) |
 | Myth Survivor | 337642 | [337642-myth-survivor.json](./337642-myth-survivor.json) |
 | Myth: Anthology | 72025 | [72025-myth-anthology.json](./72025-myth-anthology.json) |
+| Myth: History in the Making | 12187 | [12187-myth-history-in-the-making.json](./12187-myth-history-in-the-making.json) |
 | Myth: Make Your True Hero | 143702 | [143702-myth-make-your-true-hero.json](./143702-myth-make-your-true-hero.json) |
 | Myth: The Fallen Lords | 800 | [800-myth-the-fallen-lords.json](./800-myth-the-fallen-lords.json) |
 | Mythargia | 216993 | [216993-mythargia.json](./216993-mythargia.json) |
