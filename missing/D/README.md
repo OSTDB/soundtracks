@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dozen | 79141 | [79141-dead-dozen.json](./79141-dead-dozen.json) |
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
+| Dead Effect 2 VR | 38968 | [38968-dead-effect-2-vr.json](./38968-dead-effect-2-vr.json) |
 | Dead End Aegis | 186893 | [186893-dead-end-aegis.json](./186893-dead-end-aegis.json) |
 | Dead End Alley | 100764 | [100764-dead-end-alley.json](./100764-dead-end-alley.json) |
 | Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
@@ -1435,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent X | 311474 | [311474-descent-x.json](./311474-descent-x.json) |
 | Descent: Levels of the World | 68718 | [68718-descent-levels-of-the-world.json](./68718-descent-levels-of-the-world.json) |
 | Descent: Road to Legend - Trials of Frostgate | 171576 | [171576-descent-road-to-legend-trials-of-frostgate.json](./171576-descent-road-to-legend-trials-of-frostgate.json) |
+| Descent: Silence of Mind | 41905 | [41905-descent-silence-of-mind.json](./41905-descent-silence-of-mind.json) |
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
 | Desert Armor | 127217 | [127217-desert-armor.json](./127217-desert-armor.json) |
 | Desert Bus | 251590 | [251590-desert-bus.json](./251590-desert-bus.json) |
@@ -2925,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
 | Dracula: Vampires vs. Zombies | 43169 | [43169-dracula-vampires-vs-zombies.json](./43169-dracula-vampires-vs-zombies.json) |
+| Dracula's Library | 43142 | [43142-draculas-library.json](./43142-draculas-library.json) |
 | Dracula's Secret | 73228 | [73228-draculas-secret.json](./73228-draculas-secret.json) |
 | Dracula’s Vengeance | 249206 | [249206-dracula-s-vengeance.json](./249206-dracula-s-vengeance.json) |
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
