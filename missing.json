@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T10:49:12.855Z",
-  "total_missing": 65511,
+  "generated_at": "2026-09-13T10:51:30.525Z",
+  "total_missing": 65510,
   "games": [
     {
       "igdb_id": 306086,
@@ -3576,11 +3576,6 @@
       "igdb_id": 108440,
       "game_name": "Acrobat Star Show",
       "file": "missing/A/108440-acrobat-star-show.json"
-    },
-    {
-      "igdb_id": 111635,
-      "game_name": "Acropolis: The Archaic Age",
-      "file": "missing/A/111635-acropolis-the-archaic-age.json"
     },
     {
       "igdb_id": 30823,
