@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N-Warp Daisakusen | 37735 | [37735-n-warp-daisakusen.json](./37735-n-warp-daisakusen.json) |
 | N.a.N Industry VR | 123559 | [123559-n-a-n-industry-vr.json](./123559-n-a-n-industry-vr.json) |
 | N.E.O.N.: Never-Ending Onslaught of Nerds | 152922 | [152922-n-e-o-n-never-ending-onslaught-of-nerds.json](./152922-n-e-o-n-never-ending-onslaught-of-nerds.json) |
+| N.E.R.O.: Nothing Ever Remains Obscure | 8256 | [8256-n-e-r-o-nothing-ever-remains-obscure.json](./8256-n-e-r-o-nothing-ever-remains-obscure.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
 | N.O.R.E.D: The War on Christmas | 181330 | [181330-n-o-r-e-d-the-war-on-christmas.json](./181330-n-o-r-e-d-the-war-on-christmas.json) |
 | N.O.V.A. 3: Freedom Edition | 38930 | [38930-n-o-v-a-3-freedom-edition.json](./38930-n-o-v-a-3-freedom-edition.json) |
@@ -324,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
 | NBA Now 23 | 239884 | [239884-nba-now-23.json](./239884-nba-now-23.json) |
 | NBA Show Time: NBA on NBC | 49902 | [49902-nba-show-time-nba-on-nbc.json](./49902-nba-show-time-nba-on-nbc.json) |
+| NBA Street Homecourt | 7108 | [7108-nba-street-homecourt.json](./7108-nba-street-homecourt.json) |
 | NBA Street Vol. 2 | 4036 | [4036-nba-street-vol-2.json](./4036-nba-street-vol-2.json) |
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NBA: King of the Court | 65509 | [65509-nba-king-of-the-court.json](./65509-nba-king-of-the-court.json) |
@@ -995,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Slashers X | 51229 | [51229-night-slashers-x.json](./51229-night-slashers-x.json) |
 | Night Slave | 45974 | [45974-night-slave.json](./45974-night-slave.json) |
 | Night Stalkers | 190128 | [190128-night-stalkers.json](./190128-night-stalkers.json) |
+| Night Trap | 2486 | [2486-night-trap.json](./2486-night-trap.json) |
 | Night Trap | 298556 | [298556-night-trap.json](./298556-night-trap.json) |
 | Night Trap: 25th Anniversary Edition | 28249 | [28249-night-trap-25th-anniversary-edition.json](./28249-night-trap-25th-anniversary-edition.json) |
 | Night Vigil | 31848 | [31848-night-vigil.json](./31848-night-vigil.json) |
@@ -1164,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger: Chou Sentai Super Battle | 62743 | [62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json](./62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json) |
 | Ninja Sentai Kakuranger | 310198 | [310198-ninja-sentai-kakuranger.json](./310198-ninja-sentai-kakuranger.json) |
 | Ninja Spirit | 219020 | [219020-ninja-spirit.json](./219020-ninja-spirit.json) |
+| Ninja Spirit | 6819 | [6819-ninja-spirit.json](./6819-ninja-spirit.json) |
 | Ninja Stealth 2 | 29639 | [29639-ninja-stealth-2.json](./29639-ninja-stealth-2.json) |
 | Ninja Story: Akio's Tale | 102743 | [102743-ninja-story-akios-tale.json](./102743-ninja-story-akios-tale.json) |
 | Ninja Tag | 59996 | [59996-ninja-tag.json](./59996-ninja-tag.json) |
@@ -1589,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTR homestay | 132191 | [132191-ntr-homestay.json](./132191-ntr-homestay.json) |
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nuage | 93520 | [93520-nuage.json](./93520-nuage.json) |
+| Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Combat Ship | 252714 | [252714-nuclear-combat-ship.json](./252714-nuclear-combat-ship.json) |
 | Nuclear Contingency | 30963 | [30963-nuclear-contingency.json](./30963-nuclear-contingency.json) |
