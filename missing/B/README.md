@@ -3550,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buboids: The 3D Action Puzzle Game | 70937 | [70937-buboids-the-3d-action-puzzle-game.json](./70937-buboids-the-3d-action-puzzle-game.json) |
 | Bubsy II | 7803 | [7803-bubsy-ii.json](./7803-bubsy-ii.json) |
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
+| Bubsy In: The Purrfect Collection | 306587 | [306587-bubsy-in-the-purrfect-collection.json](./306587-bubsy-in-the-purrfect-collection.json) |
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Kong | 25007 | [25007-bubu-kong.json](./25007-bubu-kong.json) |
 | Buccaneer | 141845 | [141845-buccaneer.json](./141845-buccaneer.json) |
