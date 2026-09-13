@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Golf | 61094 | [61094-rayman-golf.json](./61094-rayman-golf.json) |
 | Rayman IV | 312033 | [312033-rayman-iv.json](./312033-rayman-iv.json) |
 | Rayman Kart | 61091 | [61091-rayman-kart.json](./61091-rayman-kart.json) |
+| Rayman Legends Challenges App | 2925 | [2925-rayman-legends-challenges-app.json](./2925-rayman-legends-challenges-app.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
 | Rayman Raving Rabbids | 254520 | [254520-rayman-raving-rabbids.json](./254520-rayman-raving-rabbids.json) |
 | Rayman Rush | 86216 | [86216-rayman-rush.json](./86216-rayman-rush.json) |
@@ -1567,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
 | Rings of Saturn: Deep Weeb | 231361 | [231361-rings-of-saturn-deep-weeb.json](./231361-rings-of-saturn-deep-weeb.json) |
 | Rings of Saturn: Tungsten Edition | 188093 | [188093-rings-of-saturn-tungsten-edition.json](./188093-rings-of-saturn-tungsten-edition.json) |
+| Rings of Zilfin | 2891 | [2891-rings-of-zilfin.json](./2891-rings-of-zilfin.json) |
 | Rinne no Lagrange: Kamogawa Match | 268741 | [268741-rinne-no-lagrange-kamogawa-match.json](./268741-rinne-no-lagrange-kamogawa-match.json) |
 | Rinne Tsukihime | 282562 | [282562-rinne-tsukihime.json](./282562-rinne-tsukihime.json) |
 | Rinth Island | 22333 | [22333-rinth-island.json](./22333-rinth-island.json) |
@@ -2674,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Ride | 266794 | [266794-rusty-ride.json](./266794-rusty-ride.json) |
 | Rusty Road Racing | 324924 | [324924-rusty-road-racing.json](./324924-rusty-road-racing.json) |
 | Rusty Seas | 207319 | [207319-rusty-seas.json](./207319-rusty-seas.json) |
+| Rusty Stings | 2962 | [2962-rusty-stings.json](./2962-rusty-stings.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
 | Rusty's Day Off: Episode One - Janitor on Duty | 249225 | [249225-rustys-day-off-episode-one-janitor-on-duty.json](./249225-rustys-day-off-episode-one-janitor-on-duty.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
