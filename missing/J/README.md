@@ -581,6 +581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey To Bethlehem: Fig Run | 275580 | [275580-journey-to-bethlehem-fig-run.json](./275580-journey-to-bethlehem-fig-run.json) |
 | Journey to Earth | 302921 | [302921-journey-to-earth.json](./302921-journey-to-earth.json) |
 | Journey to Kreisia | 321998 | [321998-journey-to-kreisia.json](./321998-journey-to-kreisia.json) |
+| Journey to Silius | 9159 | [9159-journey-to-silius.json](./9159-journey-to-silius.json) |
 | Journey to Stonehenge | 69812 | [69812-journey-to-stonehenge.json](./69812-journey-to-stonehenge.json) |
 | Journey to the Blue Mountain | 231083 | [231083-journey-to-the-blue-mountain.json](./231083-journey-to-the-blue-mountain.json) |
 | Journey to the Center of the Earth | 375864 | [375864-journey-to-the-center-of-the-earth.json](./375864-journey-to-the-center-of-the-earth.json) |
