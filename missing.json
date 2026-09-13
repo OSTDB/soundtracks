@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T15:01:33.219Z",
-  "total_missing": 66225,
+  "generated_at": "2026-09-13T15:11:33.549Z",
+  "total_missing": 66232,
   "games": [
     {
       "igdb_id": 306086,
@@ -3721,11 +3721,6 @@
       "igdb_id": 107931,
       "game_name": "Actionpaint VR",
       "file": "missing/A/107931-actionpaint-vr.json"
-    },
-    {
-      "igdb_id": 382223,
-      "game_name": "Active Arcade",
-      "file": "missing/A/382223-active-arcade.json"
     },
     {
       "igdb_id": 241354,
@@ -65883,6 +65878,11 @@
       "file": "missing/D/257938-deckstrander.json"
     },
     {
+      "igdb_id": 291367,
+      "game_name": "Decktamer",
+      "file": "missing/D/291367-decktamer.json"
+    },
+    {
       "igdb_id": 151661,
       "game_name": "Deco: Block Simulator",
       "file": "missing/D/151661-deco-block-simulator.json"
@@ -79256,6 +79256,11 @@
       "igdb_id": 311800,
       "game_name": "Dungeon Board",
       "file": "missing/D/311800-dungeon-board.json"
+    },
+    {
+      "igdb_id": 290897,
+      "game_name": "Dungeon Clawler",
+      "file": "missing/D/290897-dungeon-clawler.json"
     },
     {
       "igdb_id": 260667,
@@ -125498,6 +125503,11 @@
       "file": "missing/H/326609-honkai-star-rail-paean-of-era-nova.json"
     },
     {
+      "igdb_id": 298930,
+      "game_name": "Honkai: Star Rail - Then Wake to Weep",
+      "file": "missing/H/298930-honkai-star-rail-then-wake-to-weep.json"
+    },
+    {
       "igdb_id": 394848,
       "game_name": "Honkai: Star Rail - Unraveled for Daybreak",
       "file": "missing/H/394848-honkai-star-rail-unraveled-for-daybreak.json"
@@ -146031,6 +146041,11 @@
       "igdb_id": 275353,
       "game_name": "Knowledge Party",
       "file": "missing/K/275353-knowledge-party.json"
+    },
+    {
+      "igdb_id": 290941,
+      "game_name": "Knowledge, or Know Lady",
+      "file": "missing/K/290941-knowledge-or-know-lady.json"
     },
     {
       "igdb_id": 172182,
@@ -206123,6 +206138,11 @@
       "file": "missing/P/310739-plati-and-the-tower-of-time.json"
     },
     {
+      "igdb_id": 299106,
+      "game_name": "Platinum Demo: Final Fantasy XV",
+      "file": "missing/P/299106-platinum-demo-final-fantasy-xv.json"
+    },
+    {
       "igdb_id": 112272,
       "game_name": "Platinum Kill",
       "file": "missing/P/112272-platinum-kill.json"
@@ -236931,6 +236951,11 @@
       "igdb_id": 191223,
       "game_name": "Serious Breakdown",
       "file": "missing/S/191223-serious-breakdown.json"
+    },
+    {
+      "igdb_id": 291050,
+      "game_name": "Serious Sam",
+      "file": "missing/S/291050-serious-sam.json"
     },
     {
       "igdb_id": 527,
@@ -314128,6 +314153,11 @@
       "file": "missing/V/220644-void-titan.json"
     },
     {
+      "igdb_id": 291212,
+      "game_name": "Void War",
+      "file": "missing/V/291212-void-war.json"
+    },
+    {
       "igdb_id": 282025,
       "game_name": "Void Wars",
       "file": "missing/V/282025-void-wars.json"
@@ -323851,6 +323881,11 @@
       "igdb_id": 121641,
       "game_name": "World of Tanks: Independence",
       "file": "missing/W/121641-world-of-tanks-independence.json"
+    },
+    {
+      "igdb_id": 296792,
+      "game_name": "World of Tanks: Modern Armor",
+      "file": "missing/W/296792-world-of-tanks-modern-armor.json"
     },
     {
       "igdb_id": 336938,
