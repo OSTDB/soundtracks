@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Crab | 255124 | [255124-kill-crab.json](./255124-kill-crab.json) |
 | Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
 | Kill Invaders | 278714 | [278714-kill-invaders.json](./278714-kill-invaders.json) |
+| Kill It With Fire | 130508 | [130508-kill-it-with-fire.json](./130508-kill-it-with-fire.json) |
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
 | Kill Kill Kill Kill | 312579 | [312579-kill-kill-kill-kill.json](./312579-kill-kill-kill-kill.json) |
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
@@ -687,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts HD 2.8 Final Chapter Prologue: Limited Edition | 44535 | [44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json](./44535-kingdom-hearts-hd-2-8-final-chapter-prologue-limited-edition.json) |
 | Kingdom Hearts III + Re Mind: Cloud Version | 187459 | [187459-kingdom-hearts-iii-re-mind-cloud-version.json](./187459-kingdom-hearts-iii-re-mind-cloud-version.json) |
 | Kingdom Hearts Integrum Masterpiece for Cloud | 187460 | [187460-kingdom-hearts-integrum-masterpiece-for-cloud.json](./187460-kingdom-hearts-integrum-masterpiece-for-cloud.json) |
+| Kingdom Hearts Re:Chain of Memories | 214986 | [214986-kingdom-hearts-re-chain-of-memories.json](./214986-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Rebirth | 349294 | [349294-kingdom-hearts-rebirth.json](./349294-kingdom-hearts-rebirth.json) |
 | Kingdom Hearts Tamagotchi | 229938 | [229938-kingdom-hearts-tamagotchi.json](./229938-kingdom-hearts-tamagotchi.json) |
 | Kingdom Idle Heart | 272872 | [272872-kingdom-idle-heart.json](./272872-kingdom-idle-heart.json) |
@@ -706,6 +708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Run VR | 235469 | [235469-kingdom-run-vr.json](./235469-kingdom-run-vr.json) |
 | Kingdom Rush 5: Alliance | 296924 | [296924-kingdom-rush-5-alliance.json](./296924-kingdom-rush-5-alliance.json) |
 | Kingdom Rush 5: Alliance - Colossal Dwarfare | 330136 | [330136-kingdom-rush-5-alliance-colossal-dwarfare.json](./330136-kingdom-rush-5-alliance-colossal-dwarfare.json) |
+| Kingdom Rush Vengeance | 111393 | [111393-kingdom-rush-vengeance.json](./111393-kingdom-rush-vengeance.json) |
 | Kingdom Rush: Battles | 365682 | [365682-kingdom-rush-battles.json](./365682-kingdom-rush-battles.json) |
 | Kingdom Two Crowns | 27436 | [27436-kingdom-two-crowns.json](./27436-kingdom-two-crowns.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
