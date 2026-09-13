@@ -301,7 +301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
-| Ada and Cal | 165676 | [165676-ada-and-cal.json](./165676-ada-and-cal.json) |
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
