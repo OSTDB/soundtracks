@@ -327,7 +327,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adora and My Treasure | 301598 | [301598-adora-and-my-treasure.json](./301598-adora-and-my-treasure.json) |
 | Adorable Home | 193994 | [193994-adorable-home.json](./193994-adorable-home.json) |
-| Adorable Witch 4: Lust | 211393 | [211393-adorable-witch-4-lust.json](./211393-adorable-witch-4-lust.json) |
 | Adorimon: Adventure of Monster | 245341 | [245341-adorimon-adventure-of-monster.json](./245341-adorimon-adventure-of-monster.json) |
 | Adoventoro Tcheco | 321779 | [321779-adoventoro-tcheco.json](./321779-adoventoro-tcheco.json) |
 | Adrianne and Oliver | 216781 | [216781-adrianne-and-oliver.json](./216781-adrianne-and-oliver.json) |
