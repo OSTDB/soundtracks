@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
+| Last Resort | 36750 | [36750-last-resort.json](./36750-last-resort.json) |
 | Last Respects | 290717 | [290717-last-respects.json](./290717-last-respects.json) |
 | Last Ride | 296368 | [296368-last-ride.json](./296368-last-ride.json) |
 | Last Ride | 377575 | [377575-last-ride.json](./377575-last-ride.json) |
@@ -985,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
 | Light Catcher | 100226 | [100226-light-catcher.json](./100226-light-catcher.json) |
+| Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
 | Light Fighter | 165018 | [165018-light-fighter.json](./165018-light-fighter.json) |
 | Light Followers: Blinded by the Dark | 349886 | [349886-light-followers-blinded-by-the-dark.json](./349886-light-followers-blinded-by-the-dark.json) |
 | Light Gravity Cube | 37042 | [37042-light-gravity-cube.json](./37042-light-gravity-cube.json) |
@@ -1401,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loader Larry | 73809 | [73809-loader-larry.json](./73809-loader-larry.json) |
 | Loaders | 355569 | [355569-loaders.json](./355569-loaders.json) |
 | Loaders, Inc. | 392148 | [392148-loaders-inc.json](./392148-loaders-inc.json) |
+| Loading Screen Simulator | 43136 | [43136-loading-screen-simulator.json](./43136-loading-screen-simulator.json) |
 | Loading Zone | 193469 | [193469-loading-zone.json](./193469-loading-zone.json) |
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
 | Loan Wolf | 177505 | [177505-loan-wolf.json](./177505-loan-wolf.json) |
