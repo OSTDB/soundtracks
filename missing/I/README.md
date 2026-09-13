@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Incline | 296919 | [296919-icy-incline.json](./296919-icy-incline.json) |
 | Icy Tower | 18095 | [18095-icy-tower.json](./18095-icy-tower.json) |
 | Icy Tower 2 | 326628 | [326628-icy-tower-2.json](./326628-icy-tower-2.json) |
+| Icy Tower Classic | 18096 | [18096-icy-tower-classic.json](./18096-icy-tower-classic.json) |
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
 | Ideabox | 125953 | [125953-ideabox.json](./125953-ideabox.json) |
 | Identifile | 319379 | [319379-identifile.json](./319379-identifile.json) |
