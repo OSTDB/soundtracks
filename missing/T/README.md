@@ -3113,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pathless | 113118 | [113118-the-pathless.json](./113118-the-pathless.json) |
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
 | The Patient: Can You Escape? | 325832 | [325832-the-patient-can-you-escape.json](./325832-the-patient-can-you-escape.json) |
+| The Patrician | 7353 | [7353-the-patrician.json](./7353-the-patrician.json) |
 | The Pawn | 12193 | [12193-the-pawn.json](./12193-the-pawn.json) |
 | The Peacekeeper | 307300 | [307300-the-peacekeeper.json](./307300-the-peacekeeper.json) |
 | The Peak Addiction | 61637 | [61637-the-peak-addiction.json](./61637-the-peak-addiction.json) |
@@ -3395,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers IV: The Trojans and the Elixir of Power | 21858 | [21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json](./21858-the-settlers-iv-the-trojans-and-the-elixir-of-power.json) |
 | The Settlers: Explorer Edition | 136377 | [136377-the-settlers-explorer-edition.json](./136377-the-settlers-explorer-edition.json) |
 | The Settlers: History Edition | 107232 | [107232-the-settlers-history-edition.json](./107232-the-settlers-history-edition.json) |
+| The Settlers: Kingdoms of Anteria | 7440 | [7440-the-settlers-kingdoms-of-anteria.json](./7440-the-settlers-kingdoms-of-anteria.json) |
 | The Settlers: New Allies - Deluxe Edition | 216233 | [216233-the-settlers-new-allies-deluxe-edition.json](./216233-the-settlers-new-allies-deluxe-edition.json) |
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
@@ -5434,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrow Don't Come: Vicious Cycle | 172124 | [172124-tomorrow-dont-come-vicious-cycle.json](./172124-tomorrow-dont-come-vicious-cycle.json) |
 | Tomorrow for Mar | 199608 | [199608-tomorrow-for-mar.json](./199608-tomorrow-for-mar.json) |
 | Tomotoru: Hello Kitty Happy Life | 188628 | [188628-tomotoru-hello-kitty-happy-life.json](./188628-tomotoru-hello-kitty-happy-life.json) |
+| Tomoyo After: It's a Wonderful Life | 7218 | [7218-tomoyo-after-its-a-wonderful-life.json](./7218-tomoyo-after-its-a-wonderful-life.json) |
 | TomTom Adventures | 82851 | [82851-tomtom-adventures.json](./82851-tomtom-adventures.json) |
 | Tomy Car Drive Shutsudou! Kinkyuu Sharyou-hen | 79319 | [79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json](./79319-tomy-car-drive-shutsudou-kinkyuu-sharyou-hen.json) |
 | Tonari ni Kanojo no Iru Shiawase: I Fight with Summer | 219050 | [219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json](./219050-tonari-ni-kanojo-no-iru-shiawase-i-fight-with-summer.json) |
