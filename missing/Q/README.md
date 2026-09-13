@@ -169,6 +169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
 | Quest for Cathay Kingdom Mah Jong | 367446 | [367446-quest-for-cathay-kingdom-mah-jong.json](./367446-quest-for-cathay-kingdom-mah-jong.json) |
 | Quest for Glory II: Trial by Fire | 1894 | [1894-quest-for-glory-ii-trial-by-fire.json](./1894-quest-for-glory-ii-trial-by-fire.json) |
+| Quest for Glory V: Dragon Fire | 1897 | [1897-quest-for-glory-v-dragon-fire.json](./1897-quest-for-glory-v-dragon-fire.json) |
+| Quest for Glory: Shadows of Darkness | 1896 | [1896-quest-for-glory-shadows-of-darkness.json](./1896-quest-for-glory-shadows-of-darkness.json) |
 | Quest for Jesus | 307898 | [307898-quest-for-jesus.json](./307898-quest-for-jesus.json) |
 | Quest for King's Underpants | 173809 | [173809-quest-for-kings-underpants.json](./173809-quest-for-kings-underpants.json) |
 | Quest For Milkshake | 310950 | [310950-quest-for-milkshake.json](./310950-quest-for-milkshake.json) |
