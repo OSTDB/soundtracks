@@ -3935,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz Cut Simulation | 277313 | [277313-buzz-cut-simulation.json](./277313-buzz-cut-simulation.json) |
 | Buzz or Die | 295233 | [295233-buzz-or-die.json](./295233-buzz-or-die.json) |
 | Buzz! De slimste van Nederland | 77281 | [77281-buzz-de-slimste-van-nederland.json](./77281-buzz-de-slimste-van-nederland.json) |
+| Buzz! Junior: Monster Rumble | 43506 | [43506-buzz-junior-monster-rumble.json](./43506-buzz-junior-monster-rumble.json) |
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
 | Buzz! The Ultimate Music Quiz | 44586 | [44586-buzz-the-ultimate-music-quiz.json](./44586-buzz-the-ultimate-music-quiz.json) |
 | Buzz!: Brain of the World | 7282 | [7282-buzz-brain-of-the-world.json](./7282-buzz-brain-of-the-world.json) |
