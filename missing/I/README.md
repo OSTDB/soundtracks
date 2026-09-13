@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
 | Internet Survivor Survivors | 413626 | [413626-internet-survivor-survivors.json](./413626-internet-survivor-survivors.json) |
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
+| Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
 | Interplay's Learn to Program Basic | 371865 | [371865-interplays-learn-to-program-basic.json](./371865-interplays-learn-to-program-basic.json) |
 | Interpoint | 115674 | [115674-interpoint.json](./115674-interpoint.json) |
 | Interrogation 091 | 184592 | [184592-interrogation-091.json](./184592-interrogation-091.json) |
