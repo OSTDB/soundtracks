@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T01:18:46.442Z",
-  "total_missing": 64082,
+  "generated_at": "2026-09-13T01:21:28.795Z",
+  "total_missing": 64081,
   "games": [
     {
       "igdb_id": 306086,
@@ -3291,11 +3291,6 @@
       "igdb_id": 25251,
       "game_name": "Accounting",
       "file": "missing/A/25251-accounting.json"
-    },
-    {
-      "igdb_id": 247783,
-      "game_name": "Accurate Adjacent Ballistics Simulator",
-      "file": "missing/A/247783-accurate-adjacent-ballistics-simulator.json"
     },
     {
       "igdb_id": 288743,
