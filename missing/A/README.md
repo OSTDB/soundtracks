@@ -295,7 +295,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
 | Active DBG: Brave's Rage | 233008 | [233008-active-dbg-braves-rage.json](./233008-active-dbg-braves-rage.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
-| ActRaiser | 6468 | [6468-actraiser.json](./6468-actraiser.json) |
 | ActRaiser 2 | 7704 | [7704-actraiser-2.json](./7704-actraiser-2.json) |
 | Actua Golf 3 | 34501 | [34501-actua-golf-3.json](./34501-actua-golf-3.json) |
 | Actua Ice Hockey 2 | 71553 | [71553-actua-ice-hockey-2.json](./71553-actua-ice-hockey-2.json) |
