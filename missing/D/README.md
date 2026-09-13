@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar Moto | 123057 | [123057-dakar-moto.json](./123057-dakar-moto.json) |
 | Dakkan Shirei Majo Dungeon: Nushi to Tamenara Yaraneba Narumai | 222513 | [222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json](./222513-dakkan-shirei-majo-dungeon-nushi-to-tamenara-yaraneba-narumai.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
+| Daley Thompson's Decathlon | 13564 | [13564-daley-thompsons-decathlon.json](./13564-daley-thompsons-decathlon.json) |
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
 | Dalo | 207514 | [207514-dalo.json](./207514-dalo.json) |
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
@@ -711,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Maze | 55494 | [55494-dead-maze.json](./55494-dead-maze.json) |
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
+| Dead Mountaineer's Hotel | 14851 | [14851-dead-mountaineers-hotel.json](./14851-dead-mountaineers-hotel.json) |
 | Dead Nation | 2134 | [2134-dead-nation.json](./2134-dead-nation.json) |
 | Dead of the Brain | 42012 | [42012-dead-of-the-brain.json](./42012-dead-of-the-brain.json) |
 | Dead of Winter: The Long Night | 25654 | [25654-dead-of-winter-the-long-night.json](./25654-dead-of-winter-the-long-night.json) |
@@ -743,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rose | 404237 | [404237-dead-rose.json](./404237-dead-rose.json) |
 | Dead Route | 87095 | [87095-dead-route.json](./87095-dead-route.json) |
 | Dead Scrap | 303466 | [303466-dead-scrap.json](./303466-dead-scrap.json) |
+| Dead Secret | 14403 | [14403-dead-secret.json](./14403-dead-secret.json) |
 | Dead Sector | 222316 | [222316-dead-sector.json](./222316-dead-sector.json) |
 | Dead Shapes | 251815 | [251815-dead-shapes.json](./251815-dead-shapes.json) |
 | Dead Shell | 193943 | [193943-dead-shell.json](./193943-dead-shell.json) |
@@ -1769,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
+| Digger T. Rock: The Legend of the Lost City | 12932 | [12932-digger-t-rock-the-legend-of-the-lost-city.json](./12932-digger-t-rock-the-legend-of-the-lost-city.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
@@ -2027,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dishonored 2: Steelbook Edition | 308562 | [308562-dishonored-2-steelbook-edition.json](./308562-dishonored-2-steelbook-edition.json) |
 | Dishonored: Death of the Outsider | 37030 | [37030-dishonored-death-of-the-outsider.json](./37030-dishonored-death-of-the-outsider.json) |
 | Dishonored: Definitive Edition | 20863 | [20863-dishonored-definitive-edition.json](./20863-dishonored-definitive-edition.json) |
+| Dishonored: Void Walker Arsenal | 14571 | [14571-dishonored-void-walker-arsenal.json](./14571-dishonored-void-walker-arsenal.json) |
 | Dishwasher | 103436 | [103436-dishwasher.json](./103436-dishwasher.json) |
 | Disillusion ST | 276494 | [276494-disillusion-st.json](./276494-disillusion-st.json) |
 | Disk NG 1 | 220140 | [220140-disk-ng-1.json](./220140-disk-ng-1.json) |
@@ -3431,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
 | Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
 | Drugz: 2D Drug Empire Simulator | 253398 | [253398-drugz-2d-drug-empire-simulator.json](./253398-drugz-2d-drug-empire-simulator.json) |
+| Druid | 13613 | [13613-druid.json](./13613-druid.json) |
 | Druid's Tale: Crystal Cave | 61653 | [61653-druids-tale-crystal-cave.json](./61653-druids-tale-crystal-cave.json) |
 | Drum Girl | 232140 | [232140-drum-girl.json](./232140-drum-girl.json) |
 | Drum Legend | 277023 | [277023-drum-legend.json](./277023-drum-legend.json) |
