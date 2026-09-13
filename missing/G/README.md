@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Idol Investigations: The Sins of New Wells | 333390 | [333390-golden-idol-investigations-the-sins-of-new-wells.json](./333390-golden-idol-investigations-the-sins-of-new-wells.json) |
 | Golden Kingdom VR | 333963 | [333963-golden-kingdom-vr.json](./333963-golden-kingdom-vr.json) |
 | Golden Knight | 331661 | [331661-golden-knight.json](./331661-golden-knight.json) |
+| Golden Lap | 294353 | [294353-golden-lap.json](./294353-golden-lap.json) |
 | Golden Leaf Jigsaw Puzzles | 266470 | [266470-golden-leaf-jigsaw-puzzles.json](./266470-golden-leaf-jigsaw-puzzles.json) |
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 1 | 268998 | [268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json](./268998-golden-leaf-jigsaw-puzzles-expansion-pack-1.json) |
 | Golden Leaf Jigsaw Puzzles: Expansion Pack 2 | 268999 | [268999-golden-leaf-jigsaw-puzzles-expansion-pack-2.json](./268999-golden-leaf-jigsaw-puzzles-expansion-pack-2.json) |
