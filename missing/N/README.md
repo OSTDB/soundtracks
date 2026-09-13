@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted | 248206 | [248206-need-for-speed-most-wanted.json](./248206-need-for-speed-most-wanted.json) |
 | Need for Speed: Porsche Unleashed | 94 | [94-need-for-speed-porsche-unleashed.json](./94-need-for-speed-porsche-unleashed.json) |
 | Need for Speed: ProStreet | 240505 | [240505-need-for-speed-prostreet.json](./240505-need-for-speed-prostreet.json) |
+| Need for Speed: Shift | 102 | [102-need-for-speed-shift.json](./102-need-for-speed-shift.json) |
 | Need for Speed: Unbound | 219442 | [219442-need-for-speed-unbound.json](./219442-need-for-speed-unbound.json) |
 | Need for Speed: Unbound - Vol. 7 Premium Speed Pass | 301851 | [301851-need-for-speed-unbound-vol-7-premium-speed-pass.json](./301851-need-for-speed-unbound-vol-7-premium-speed-pass.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
@@ -685,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neversong | 133261 | [133261-neversong.json](./133261-neversong.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
 | Nevertales: Smoke and Mirrors HD | 108459 | [108459-nevertales-smoke-and-mirrors-hd.json](./108459-nevertales-smoke-and-mirrors-hd.json) |
+| Neverwinter Nights | 216 | [216-neverwinter-nights.json](./216-neverwinter-nights.json) |
 | Neverwinter Nights 2: Platinum | 28972 | [28972-neverwinter-nights-2-platinum.json](./28972-neverwinter-nights-2-platinum.json) |
 | Neverwinter Nights: Dark Dreams of Furiae | 155077 | [155077-neverwinter-nights-dark-dreams-of-furiae.json](./155077-neverwinter-nights-dark-dreams-of-furiae.json) |
 | Neverwinter Nights: Gold Edition | 210036 | [210036-neverwinter-nights-gold-edition.json](./210036-neverwinter-nights-gold-edition.json) |
