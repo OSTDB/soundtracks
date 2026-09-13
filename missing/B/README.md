@@ -3388,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
+| Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
 | Brunswick World: Tournament of Champions | 42596 | [42596-brunswick-world-tournament-of-champions.json](./42596-brunswick-world-tournament-of-champions.json) |
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
