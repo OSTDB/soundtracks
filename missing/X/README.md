@@ -211,5 +211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xyanide Resurrection | 43342 | [43342-xyanide-resurrection.json](./43342-xyanide-resurrection.json) |
 | Xyla and the 'Shrooms of Doom | 129696 | [129696-xyla-and-the-shrooms-of-doom.json](./129696-xyla-and-the-shrooms-of-doom.json) |
 | Xyphoe's Nightmare | 402885 | [402885-xyphoes-nightmare.json](./402885-xyphoes-nightmare.json) |
+| Xyphoes Fantasy | 10854 | [10854-xyphoes-fantasy.json](./10854-xyphoes-fantasy.json) |
 | Xyzygy | 184075 | [184075-xyzygy.json](./184075-xyzygy.json) |
 | X遊戲 | 163986 | [163986-x.json](./163986-x.json) |
