@@ -2279,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Marbles: Ocean | 240804 | [240804-aqua-marbles-ocean.json](./240804-aqua-marbles-ocean.json) |
 | Aqua Moto Racing | 63835 | [63835-aqua-moto-racing.json](./63835-aqua-moto-racing.json) |
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
+| Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
 | Aquablast | 14262 | [14262-aquablast.json](./14262-aquablast.json) |
 | AquaDream | 330146 | [330146-aquadream.json](./330146-aquadream.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
@@ -2315,9 +2316,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Invaders | 63248 | [63248-ar-invaders.json](./63248-ar-invaders.json) |
 | AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
 | Ar nosurge Plus: Ode to an Unborn Star - Limited Edition | 89915 | [89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json](./89915-ar-nosurge-plus-ode-to-an-unborn-star-limited-edition.json) |
+| Ar nosurge: Ode to an Unborn Star | 7273 | [7273-ar-nosurge-ode-to-an-unborn-star.json](./7273-ar-nosurge-ode-to-an-unborn-star.json) |
 | Ar Nosurge: Ode to an Unborn Star DX | 139979 | [139979-ar-nosurge-ode-to-an-unborn-star-dx.json](./139979-ar-nosurge-ode-to-an-unborn-star-dx.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
 | Ar tonelico II: Melody of Metafalica | 43658 | [43658-ar-tonelico-ii-melody-of-metafalica.json](./43658-ar-tonelico-ii-melody-of-metafalica.json) |
+| Ar Tonelico Qoga: Knell of Ar Ciel | 7274 | [7274-ar-tonelico-qoga-knell-of-ar-ciel.json](./7274-ar-tonelico-qoga-knell-of-ar-ciel.json) |
 | Ar-K: End Game | 110962 | [110962-ar-k-end-game.json](./110962-ar-k-end-game.json) |
 | Ar'Kritz the Intruder | 86028 | [86028-arkritz-the-intruder.json](./86028-arkritz-the-intruder.json) |
 | Ar3na | 257937 | [257937-ar3na.json](./257937-ar3na.json) |
