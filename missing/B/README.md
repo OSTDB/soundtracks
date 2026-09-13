@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
 | Back To School | 278739 | [278739-back-to-school.json](./278739-back-to-school.json) |
 | Back to the Edo | 307963 | [307963-back-to-the-edo.json](./307963-back-to-the-edo.json) |
+| Back to the Future: The Game | 3232 | [3232-back-to-the-future-the-game.json](./3232-back-to-the-future-the-game.json) |
 | Back to the Future: The Game - Episode 1: It's About Time | 78249 | [78249-back-to-the-future-the-game-episode-1-its-about-time.json](./78249-back-to-the-future-the-game-episode-1-its-about-time.json) |
 | Back to the Rooms | 320563 | [320563-back-to-the-rooms.json](./320563-back-to-the-rooms.json) |
 | Backbreaker Vengeance | 22942 | [22942-backbreaker-vengeance.json](./22942-backbreaker-vengeance.json) |
