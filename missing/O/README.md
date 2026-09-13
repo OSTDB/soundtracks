@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
 | Origin Hunt | 180772 | [180772-origin-hunt.json](./180772-origin-hunt.json) |
+| Original Journey | 40968 | [40968-original-journey.json](./40968-original-journey.json) |
 | Origins | 300704 | [300704-origins.json](./300704-origins.json) |
 | Origins of Merlin: Muscles and Magic | 166710 | [166710-origins-of-merlin-muscles-and-magic.json](./166710-origins-of-merlin-muscles-and-magic.json) |
 | Origins TCG | 412262 | [412262-origins-tcg.json](./412262-origins-tcg.json) |
