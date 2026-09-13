@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi Connection V4.5 | 229948 | [229948-tamagotchi-connection-v4-5.json](./229948-tamagotchi-connection-v4-5.json) |
 | Tamagotchi Connection V5 Familitchi | 229954 | [229954-tamagotchi-connection-v5-familitchi.json](./229954-tamagotchi-connection-v5-familitchi.json) |
 | Tamagotchi Connection V5.5 Celebrity | 229955 | [229955-tamagotchi-connection-v5-5-celebrity.json](./229955-tamagotchi-connection-v5-5-celebrity.json) |
+| Tamagotchi Connection: Corner Shop 2 | 20607 | [20607-tamagotchi-connection-corner-shop-2.json](./20607-tamagotchi-connection-corner-shop-2.json) |
 | Tamagotchi Friends: Digital Friend | 229959 | [229959-tamagotchi-friends-digital-friend.json](./229959-tamagotchi-friends-digital-friend.json) |
 | Tamagotchi Friends: Dream Town Digital Friend | 229960 | [229960-tamagotchi-friends-dream-town-digital-friend.json](./229960-tamagotchi-friends-dream-town-digital-friend.json) |
 | Tamagotchi Mini | 229970 | [229970-tamagotchi-mini.json](./229970-tamagotchi-mini.json) |
@@ -1794,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Pictures Anthology: Winterfold | 257077 | [257077-the-dark-pictures-anthology-winterfold.json](./257077-the-dark-pictures-anthology-winterfold.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Dark Side of the Moon | 54465 | [54465-the-dark-side-of-the-moon.json](./54465-the-dark-side-of-the-moon.json) |
+| The Dark Spire | 21185 | [21185-the-dark-spire.json](./21185-the-dark-spire.json) |
 | The Dark Stone of Mebara | 9398 | [9398-the-dark-stone-of-mebara.json](./9398-the-dark-stone-of-mebara.json) |
 | The Dark Survivors | 273647 | [273647-the-dark-survivors.json](./273647-the-dark-survivors.json) |
 | The Dark Tales of Katarina | 28871 | [28871-the-dark-tales-of-katarina.json](./28871-the-dark-tales-of-katarina.json) |
@@ -2840,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Trashmaid Puzzletime | 147428 | [147428-the-little-trashmaid-puzzletime.json](./147428-the-little-trashmaid-puzzletime.json) |
 | The Little Uni | 330731 | [330731-the-little-uni.json](./330731-the-little-uni.json) |
 | The Little Witch Shop: New in Town | 240794 | [240794-the-little-witch-shop-new-in-town.json](./240794-the-little-witch-shop-new-in-town.json) |
+| The Living Dungeon | 21316 | [21316-the-living-dungeon.json](./21316-the-living-dungeon.json) |
 | The Living End & Elder World Waystation | 271480 | [271480-the-living-end-and-elder-world-waystation.json](./271480-the-living-end-and-elder-world-waystation.json) |
 | The Living Remain | 103536 | [103536-the-living-remain.json](./103536-the-living-remain.json) |
 | The Llama | 387343 | [387343-the-llama.json](./387343-the-llama.json) |
@@ -3305,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pulps Company | 283764 | [283764-the-pulps-company.json](./283764-the-pulps-company.json) |
 | The Punisher | 18294 | [18294-the-punisher.json](./18294-the-punisher.json) |
 | The Punisher | 75883 | [75883-the-punisher.json](./75883-the-punisher.json) |
+| The Punisher: No Mercy | 21287 | [21287-the-punisher-no-mercy.json](./21287-the-punisher-no-mercy.json) |
 | The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
 | The Purple Hike | 413608 | [413608-the-purple-hike.json](./413608-the-purple-hike.json) |
@@ -5110,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Crisis 4 | 7466 | [7466-time-crisis-4.json](./7466-time-crisis-4.json) |
 | Time Crisis: Crisis Zone | 43287 | [43287-time-crisis-crisis-zone.json](./43287-time-crisis-crisis-zone.json) |
 | Time Crisis: Project Titan | 12899 | [12899-time-crisis-project-titan.json](./12899-time-crisis-project-titan.json) |
+| Time Crisis: Razing Storm | 20449 | [20449-time-crisis-razing-storm.json](./20449-time-crisis-razing-storm.json) |
 | Time Cruise | 66089 | [66089-time-cruise.json](./66089-time-cruise.json) |
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
@@ -5279,6 +5284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tip-Up Ice Fishing | 178578 | [178578-tip-up-ice-fishing.json](./178578-tip-up-ice-fishing.json) |
 | Tippy Tree | 113041 | [113041-tippy-tree.json](./113041-tippy-tree.json) |
 | TipTop | 136413 | [136413-tiptop.json](./136413-tiptop.json) |
+| TiQal | 21354 | [21354-tiqal.json](./21354-tiqal.json) |
 | Tire Boy | 347680 | [347680-tire-boy.json](./347680-tire-boy.json) |
 | Tired of Being the Hero | 353294 | [353294-tired-of-being-the-hero.json](./353294-tired-of-being-the-hero.json) |
 | Tirkiss ~Princess Shade~ | 60530 | [60530-tirkiss-princess-shade.json](./60530-tirkiss-princess-shade.json) |
@@ -6904,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True or False 2 | 29717 | [29717-true-or-false-2.json](./29717-true-or-false-2.json) |
 | True Pinball | 9131 | [9131-true-pinball.json](./9131-true-pinball.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
+| True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | Truefish | 120412 | [120412-truefish.json](./120412-truefish.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
