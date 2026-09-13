@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochro | 150164 | [150164-monochro.json](./150164-monochro.json) |
 | Monochromaniacs | 124147 | [124147-monochromaniacs.json](./124147-monochromaniacs.json) |
 | Monochrome Echoes: White | 331114 | [331114-monochrome-echoes-white.json](./331114-monochrome-echoes-white.json) |
+| Monochrome Mobius: Rights and Wrongs Forgotten | 198438 | [198438-monochrome-mobius-rights-and-wrongs-forgotten.json](./198438-monochrome-mobius-rights-and-wrongs-forgotten.json) |
 | Monochrome Mobius: Rights and Wrongs Forgotten - Deluxe Edition | 247196 | [247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json](./247196-monochrome-mobius-rights-and-wrongs-forgotten-deluxe-edition.json) |
 | Monochrome Racing | 52592 | [52592-monochrome-racing.json](./52592-monochrome-racing.json) |
 | Monochrome RPG Episode 1: The Maniacal Morning | 152894 | [152894-monochrome-rpg-episode-1-the-maniacal-morning.json](./152894-monochrome-rpg-episode-1-the-maniacal-morning.json) |
