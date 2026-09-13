@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Revelations - Unveiled Edition BSAA Watch Set | 89925 | [89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json](./89925-resident-evil-revelations-unveiled-edition-bsaa-watch-set.json) |
 | Resident Evil: Revelations 2 | 7725 | [7725-resident-evil-revelations-2.json](./7725-resident-evil-revelations-2.json) |
 | Resident Evil: Survivor Redux | 313129 | [313129-resident-evil-survivor-redux.json](./313129-resident-evil-survivor-redux.json) |
+| Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
 | Resist Resist Resist | 299153 | [299153-resist-resist-resist.json](./299153-resist-resist-resist.json) |
 | Resistance | 172166 | [172166-resistance.json](./172166-resistance.json) |
@@ -1741,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Champs: BXS Stunt Biking | 49907 | [49907-road-champs-bxs-stunt-biking.json](./49907-road-champs-bxs-stunt-biking.json) |
 | Road Chase | 105894 | [105894-road-chase.json](./105894-road-chase.json) |
 | Road Dealer Simulator | 253571 | [253571-road-dealer-simulator.json](./253571-road-dealer-simulator.json) |
+| Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
 | Road Hog! | 84245 | [84245-road-hog.json](./84245-road-hog.json) |
 | Road Homeward 3: Underwater World | 120951 | [120951-road-homeward-3-underwater-world.json](./120951-road-homeward-3-underwater-world.json) |
 | Road Homeward 4: Last Step | 123557 | [123557-road-homeward-4-last-step.json](./123557-road-homeward-4-last-step.json) |
@@ -2074,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Survivalist | 277592 | [277592-rogue-survivalist.json](./277592-rogue-survivalist.json) |
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Trooper Redux: Collector's Edition | 154524 | [154524-rogue-trooper-redux-collectors-edition.json](./154524-rogue-trooper-redux-collectors-edition.json) |
+| Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
 | Rogue Waves | 414345 | [414345-rogue-waves.json](./414345-rogue-waves.json) |
 | Rogue Zillion | 75766 | [75766-rogue-zillion.json](./75766-rogue-zillion.json) |
 | Rogue's Realm: The Old God | 306360 | [306360-rogues-realm-the-old-god.json](./306360-rogues-realm-the-old-god.json) |
