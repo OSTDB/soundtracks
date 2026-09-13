@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omelet's Quest | 373522 | [373522-omelets-quest.json](./373522-omelets-quest.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
+| Omerta: City of Gangsters - The Japanese Incentive | 9217 | [9217-omerta-city-of-gangsters-the-japanese-incentive.json](./9217-omerta-city-of-gangsters-the-japanese-incentive.json) |
 | Omertà: Mafia Novel | 373539 | [373539-omerta-mafia-novel.json](./373539-omerta-mafia-novel.json) |
 | OMG HD Zombies! | 52643 | [52643-omg-hd-zombies.json](./52643-omg-hd-zombies.json) |
 | OMG Police: Car Chase TV Simulator | 147907 | [147907-omg-police-car-chase-tv-simulator.json](./147907-omg-police-car-chase-tv-simulator.json) |
