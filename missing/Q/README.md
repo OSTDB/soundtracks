@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Wish: The Conqueror | 109539 | [109539-queens-wish-the-conqueror.json](./109539-queens-wish-the-conqueror.json) |
 | Queensrÿche's Promised Land | 71465 | [71465-queensryches-promised-land.json](./71465-queensryches-promised-land.json) |
 | Queeny Army | 126565 | [126565-queeny-army.json](./126565-queeny-army.json) |
+| Quell | 15741 | [15741-quell.json](./15741-quell.json) |
 | Quell 4D | 25070 | [25070-quell-4d.json](./25070-quell-4d.json) |
 | Quern: Undying Thoughts | 26223 | [26223-quern-undying-thoughts.json](./26223-quern-undying-thoughts.json) |
 | Quest 2: The Ancient Temples | 266229 | [266229-quest-2-the-ancient-temples.json](./266229-quest-2-the-ancient-temples.json) |
@@ -218,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quickerflak | 186860 | [186860-quickerflak.json](./186860-quickerflak.json) |
 | Quickflash: A Fabula Story | 192431 | [192431-quickflash-a-fabula-story.json](./192431-quickflash-a-fabula-story.json) |
 | Quickie World | 201267 | [201267-quickie-world.json](./201267-quickie-world.json) |
+| Quickie: Fantasy Adventure | 275437 | [275437-quickie-fantasy-adventure.json](./275437-quickie-fantasy-adventure.json) |
 | Quicksilver | 92450 | [92450-quicksilver.json](./92450-quicksilver.json) |
 | QuickSolve | 174316 | [174316-quicksolve.json](./174316-quicksolve.json) |
 | QuickSwitch | 341315 | [341315-quickswitch.json](./341315-quickswitch.json) |
