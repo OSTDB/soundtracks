@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safety First! | 32189 | [32189-safety-first.json](./32189-safety-first.json) |
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
+| SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
 | Saga of Sins | 211238 | [211238-saga-of-sins.json](./211238-saga-of-sins.json) |
 | Saga of the Moon Priestess | 274507 | [274507-saga-of-the-moon-priestess.json](./274507-saga-of-the-moon-priestess.json) |
 | Saga of the Nine Worlds: The Gathering | 74311 | [74311-saga-of-the-nine-worlds-the-gathering.json](./74311-saga-of-the-nine-worlds-the-gathering.json) |
@@ -1619,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai: True Valor | 45304 | [45304-shanghai-true-valor.json](./45304-shanghai-true-valor.json) |
 | Shanghai1920 | 169452 | [169452-shanghai1920.json](./169452-shanghai1920.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
+| Shantae Advance: Risky Revolution | 276506 | [276506-shantae-advance-risky-revolution.json](./276506-shantae-advance-risky-revolution.json) |
 | Shantae and the Seven Sirens Part 1 | 122493 | [122493-shantae-and-the-seven-sirens-part-1.json](./122493-shantae-and-the-seven-sirens-part-1.json) |
 | Shantae: Costume Pack | 275016 | [275016-shantae-costume-pack.json](./275016-shantae-costume-pack.json) |
 | Shanties in Strange Waters | 180756 | [180756-shanties-in-strange-waters.json](./180756-shanties-in-strange-waters.json) |
@@ -3360,6 +3362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
 | SNK Slot Panic Kyuuji | 59399 | [59399-snk-slot-panic-kyuuji.json](./59399-snk-slot-panic-kyuuji.json) |
 | SNK vs Capcom Card Fighters DS | 21387 | [21387-snk-vs-capcom-card-fighters-ds.json](./21387-snk-vs-capcom-card-fighters-ds.json) |
+| SNK vs. Capcom: SVC Chaos | 309177 | [309177-snk-vs-capcom-svc-chaos.json](./309177-snk-vs-capcom-svc-chaos.json) |
 | Snolf 3 & Knolf | 143734 | [143734-snolf-3-and-knolf.json](./143734-snolf-3-and-knolf.json) |
 | Snolf CD: A Snolf in Time | 143736 | [143736-snolf-cd-a-snolf-in-time.json](./143736-snolf-cd-a-snolf-in-time.json) |
 | Snolf Zero: The Prequel | 143735 | [143735-snolf-zero-the-prequel.json](./143735-snolf-zero-the-prequel.json) |
@@ -3385,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Ash Land | 112347 | [112347-snow-ash-land.json](./112347-snow-ash-land.json) |
 | Snow Battle Princess Sayuki | 191180 | [191180-snow-battle-princess-sayuki.json](./191180-snow-battle-princess-sayuki.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
+| Snow Bros. Wonderland | 309256 | [309256-snow-bros-wonderland.json](./309256-snow-bros-wonderland.json) |
 | Snow Cone | 341474 | [341474-snow-cone.json](./341474-snow-cone.json) |
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
 | Snow Fight | 316096 | [316096-snow-fight.json](./316096-snow-fight.json) |
@@ -5316,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean | 11209 | [11209-star-ocean.json](./11209-star-ocean.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
+| Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
 | Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
 | Star Post | 47253 | [47253-star-post.json](./47253-star-post.json) |
@@ -6608,6 +6613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Sunday League Manager: Horse & Spoon | 361731 | [361731-sunday-league-manager-horse-and-spoon.json](./361731-sunday-league-manager-horse-and-spoon.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
+| Sunderfolk | 319359 | [319359-sunderfolk.json](./319359-sunderfolk.json) |
 | Sundog: Frozen Legacy | 15380 | [15380-sundog-frozen-legacy.json](./15380-sundog-frozen-legacy.json) |
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
 | Sundown | 86071 | [86071-sundown.json](./86071-sundown.json) |
