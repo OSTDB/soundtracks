@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:31:36.201Z",
-  "total_missing": 65141,
+  "generated_at": "2026-09-13T07:41:35.870Z",
+  "total_missing": 65145,
   "games": [
     {
       "igdb_id": 306086,
@@ -3481,11 +3481,6 @@
       "igdb_id": 183020,
       "game_name": "Achilles vs. Turtles",
       "file": "missing/A/183020-achilles-vs-turtles.json"
-    },
-    {
-      "igdb_id": 160293,
-      "game_name": "Achilles: Legends Untold",
-      "file": "missing/A/160293-achilles-legends-untold.json"
     },
     {
       "igdb_id": 188577,
@@ -47893,6 +47888,11 @@
       "file": "missing/C/20398-chrono-trigger.json"
     },
     {
+      "igdb_id": 263446,
+      "game_name": "Chrono Trigger",
+      "file": "missing/C/263446-chrono-trigger.json"
+    },
+    {
       "igdb_id": 249442,
       "game_name": "Chrono Trigger: Bugfix and Uncensoring Patch",
       "file": "missing/C/249442-chrono-trigger-bugfix-and-uncensoring-patch.json"
@@ -80691,6 +80691,11 @@
       "igdb_id": 165674,
       "game_name": "EFO: Escape From Outerworld",
       "file": "missing/E/165674-efo-escape-from-outerworld.json"
+    },
+    {
+      "igdb_id": 266157,
+      "game_name": "eFootball 2024",
+      "file": "missing/E/266157-efootball-2024.json"
     },
     {
       "igdb_id": 234045,
@@ -205378,6 +205383,11 @@
       "file": "missing/P/238742-poolcore.json"
     },
     {
+      "igdb_id": 274791,
+      "game_name": "Pools",
+      "file": "missing/P/274791-pools.json"
+    },
+    {
       "igdb_id": 302129,
       "game_name": "Poop Fiction",
       "file": "missing/P/302129-poop-fiction.json"
@@ -215551,6 +215561,11 @@
       "igdb_id": 43339,
       "game_name": "Rayman 10th Anniversary",
       "file": "missing/R/43339-rayman-10th-anniversary.json"
+    },
+    {
+      "igdb_id": 193313,
+      "game_name": "Rayman 2: The Great Escape",
+      "file": "missing/R/193313-rayman-2-the-great-escape.json"
     },
     {
       "igdb_id": 193314,
@@ -303301,6 +303316,11 @@
       "igdb_id": 174858,
       "game_name": "Underground 2077",
       "file": "missing/U/174858-underground-2077.json"
+    },
+    {
+      "igdb_id": 246917,
+      "game_name": "Underground Blossom",
+      "file": "missing/U/246917-underground-blossom.json"
     },
     {
       "igdb_id": 270108,
