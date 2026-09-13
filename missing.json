@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T15:49:11.298Z",
-  "total_missing": 66347,
+  "generated_at": "2026-09-13T15:51:50.439Z",
+  "total_missing": 66346,
   "games": [
     {
       "igdb_id": 306086,
@@ -3741,11 +3741,6 @@
       "igdb_id": 233008,
       "game_name": "Active DBG: Brave's Rage",
       "file": "missing/A/233008-active-dbg-braves-rage.json"
-    },
-    {
-      "igdb_id": 175378,
-      "game_name": "Active Soccer",
-      "file": "missing/A/175378-active-soccer.json"
     },
     {
       "igdb_id": 45979,
