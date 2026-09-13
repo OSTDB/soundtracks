@@ -2149,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Ultimate Edition Contents Kit | 255113 | [255113-guilty-gear-strive-ultimate-edition-contents-kit.json](./255113-guilty-gear-strive-ultimate-edition-contents-kit.json) |
 | Guinea Pig Gunner | 411580 | [411580-guinea-pig-gunner.json](./411580-guinea-pig-gunner.json) |
 | Guinness World Records 2010: Gamer's Edition | 21746 | [21746-guinness-world-records-2010-gamers-edition.json](./21746-guinness-world-records-2010-gamers-edition.json) |
+| Guise of the Wolf | 7669 | [7669-guise-of-the-wolf.json](./7669-guise-of-the-wolf.json) |
 | Guitar Girl Match 3 | 193930 | [193930-guitar-girl-match-3.json](./193930-guitar-girl-match-3.json) |
 | Guitar Hero | 1285 | [1285-guitar-hero.json](./1285-guitar-hero.json) |
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
