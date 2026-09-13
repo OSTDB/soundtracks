@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
 | International Soccer | 201305 | [201305-international-soccer.json](./201305-international-soccer.json) |
 | International Super Karts | 43332 | [43332-international-super-karts.json](./43332-international-super-karts.json) |
+| International Superstar Soccer '98 | 3514 | [3514-international-superstar-soccer-98.json](./3514-international-superstar-soccer-98.json) |
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
 | International Superstar Soccer 3 | 3958 | [3958-international-superstar-soccer-3.json](./3958-international-superstar-soccer-3.json) |
 | International Superstar Soccer 99 | 49886 | [49886-international-superstar-soccer-99.json](./49886-international-superstar-soccer-99.json) |
