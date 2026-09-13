@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T17:04:30.432Z",
-  "total_missing": 66540,
+  "generated_at": "2026-09-13T17:11:51.022Z",
+  "total_missing": 66539,
   "games": [
     {
       "igdb_id": 306086,
@@ -3791,11 +3791,6 @@
       "igdb_id": 45371,
       "game_name": "Ad Astra",
       "file": "missing/A/45371-ad-astra.json"
-    },
-    {
-      "igdb_id": 47222,
-      "game_name": "Ad Infinitum",
-      "file": "missing/A/47222-ad-infinitum.json"
     },
     {
       "igdb_id": 138262,
