@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kwark | 270137 | [270137-kwark.json](./270137-kwark.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
+| Kyn | 11451 | [11451-kyn.json](./11451-kyn.json) |
 | Kyobi | 314683 | [314683-kyobi.json](./314683-kyobi.json) |
 | Kyojin-tachi | 260983 | [260983-kyojin-tachi.json](./260983-kyojin-tachi.json) |
 | Kyoki | 172160 | [172160-kyoki.json](./172160-kyoki.json) |
