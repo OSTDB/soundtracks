@@ -256,7 +256,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Dummy | 110387 | [110387-achievement-dummy.json](./110387-achievement-dummy.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achilles vs. Turtles | 183020 | [183020-achilles-vs-turtles.json](./183020-achilles-vs-turtles.json) |
-| Achtung Banditen?! | 188577 | [188577-achtung-banditen.json](./188577-achtung-banditen.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Acid Bunny 2 | 394888 | [394888-acid-bunny-2.json](./394888-acid-bunny-2.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
