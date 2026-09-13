@@ -5291,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star gunner | 40795 | [40795-star-gunner.json](./40795-star-gunner.json) |
 | Star Hacker | 197364 | [197364-star-hacker.json](./197364-star-hacker.json) |
 | Star Hearts: Launch Point | 200713 | [200713-star-hearts-launch-point.json](./200713-star-hearts-launch-point.json) |
+| Star Horizon | 35690 | [35690-star-horizon.json](./35690-star-horizon.json) |
 | Star Hound | 87103 | [87103-star-hound.json](./87103-star-hound.json) |
 | Star Impact | 117035 | [117035-star-impact.json](./117035-star-impact.json) |
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
@@ -7754,6 +7755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch 'N' Shoot | 32171 | [32171-switch-n-shoot.json](./32171-switch-n-shoot.json) |
 | Switch Blasters | 402902 | [402902-switch-blasters.json](./402902-switch-blasters.json) |
 | Switch Dash Game | 262069 | [262069-switch-dash-game.json](./262069-switch-dash-game.json) |
+| Switch Galaxy Ultra | 35517 | [35517-switch-galaxy-ultra.json](./35517-switch-galaxy-ultra.json) |
 | Switch It | 152896 | [152896-switch-it.json](./152896-switch-it.json) |
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
