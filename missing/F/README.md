@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
+| Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Faded Grey | 166729 | [166729-faded-grey.json](./166729-faded-grey.json) |
 | Faded Melodies | 298897 | [298897-faded-melodies.json](./298897-faded-melodies.json) |
@@ -2009,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2021: Limited Edition | 139962 | [139962-football-manager-2021-limited-edition.json](./139962-football-manager-2021-limited-edition.json) |
 | Football Manager 2024 | 266382 | [266382-football-manager-2024.json](./266382-football-manager-2024.json) |
 | Football Manager 26 | 365487 | [365487-football-manager-26.json](./365487-football-manager-26.json) |
+| Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Mogul 2007 | 209466 | [209466-football-mogul-2007.json](./209466-football-mogul-2007.json) |
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
@@ -2382,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment Hunters | 213009 | [213009-fragment-hunters.json](./213009-fragment-hunters.json) |
 | Fragment of Humanity | 224246 | [224246-fragment-of-humanity.json](./224246-fragment-of-humanity.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
+| Fragmented | 21326 | [21326-fragmented.json](./21326-fragmented.json) |
 | Fragmented 6th | 348772 | [348772-fragmented-6th.json](./348772-fragmented-6th.json) |
 | Fragmented City | 235756 | [235756-fragmented-city.json](./235756-fragmented-city.json) |
 | Fragmented Mind | 169477 | [169477-fragmented-mind.json](./169477-fragmented-mind.json) |
