@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T23:48:48.333Z",
-  "total_missing": 67710,
+  "generated_at": "2026-09-13T23:51:33.867Z",
+  "total_missing": 67709,
   "games": [
     {
       "igdb_id": 306086,
@@ -4016,11 +4016,6 @@
       "igdb_id": 200708,
       "game_name": "Adonis",
       "file": "missing/A/200708-adonis.json"
-    },
-    {
-      "igdb_id": 193994,
-      "game_name": "Adorable Home",
-      "file": "missing/A/193994-adorable-home.json"
     },
     {
       "igdb_id": 321779,
