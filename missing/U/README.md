@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ulitsa Dimitrova | 175881 | [175881-ulitsa-dimitrova.json](./175881-ulitsa-dimitrova.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
 | Ultim@te Race Pro | 131542 | [131542-ultim-te-race-pro.json](./131542-ultim-te-race-pro.json) |
+| Ultima | 7414 | [7414-ultima.json](./7414-ultima.json) |
 | Ultima Adventum | 149602 | [149602-ultima-adventum.json](./149602-ultima-adventum.json) |
 | Ultima Chess VR | 346587 | [346587-ultima-chess-vr.json](./346587-ultima-chess-vr.json) |
 | Ultima Forever: Quest for the Avatar | 64923 | [64923-ultima-forever-quest-for-the-avatar.json](./64923-ultima-forever-quest-for-the-avatar.json) |
