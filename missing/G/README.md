@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Giana Sisters | 213394 | [213394-giana-sisters.json](./213394-giana-sisters.json) |
+| Giana Sisters: Twisted Dreams - Rise of the Owlverlord | 53080 | [53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json](./53080-giana-sisters-twisted-dreams-rise-of-the-owlverlord.json) |
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
 | Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
@@ -1166,6 +1167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblinna's Garden | 374063 | [374063-goblinnas-garden.json](./374063-goblinnas-garden.json) |
 | Goblins Factory | 213003 | [213003-goblins-factory.json](./213003-goblins-factory.json) |
 | Goblins Never Die | 258446 | [258446-goblins-never-die.json](./258446-goblins-never-die.json) |
+| Goblins of Elderstone | 55262 | [55262-goblins-of-elderstone.json](./55262-goblins-of-elderstone.json) |
 | Goblins Please | 260405 | [260405-goblins-please.json](./260405-goblins-please.json) |
 | GoBlock's Impossible Medley | 28884 | [28884-goblocks-impossible-medley.json](./28884-goblocks-impossible-medley.json) |
 | Goblr: Goblin Date Night Simulator | 238719 | [238719-goblr-goblin-date-night-simulator.json](./238719-goblr-goblin-date-night-simulator.json) |
@@ -1896,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GridVR | 29780 | [29780-gridvr.json](./29780-gridvr.json) |
 | GridWars | 92989 | [92989-gridwars.json](./92989-gridwars.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
+| Grill-Off with Ultra Hand! | 50696 | [50696-grill-off-with-ultra-hand.json](./50696-grill-off-with-ultra-hand.json) |
 | Grim | 196319 | [196319-grim.json](./196319-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
