@@ -1094,6 +1094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
+| Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
 | Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
 | Phantom Doctrine: Deluxe Edition | 107257 | [107257-phantom-doctrine-deluxe-edition.json](./107257-phantom-doctrine-deluxe-edition.json) |
