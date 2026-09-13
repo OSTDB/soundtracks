@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry Primal: Deluxe Edition | 44543 | [44543-far-cry-primal-deluxe-edition.json](./44543-far-cry-primal-deluxe-edition.json) |
 | Far Cry VR | 138767 | [138767-far-cry-vr.json](./138767-far-cry-vr.json) |
 | Far Cry: Delta Sector | 51227 | [51227-far-cry-delta-sector.json](./51227-far-cry-delta-sector.json) |
+| Far East of Eden II: Manji-maru | 71489 | [71489-far-east-of-eden-ii-manji-maru.json](./71489-far-east-of-eden-ii-manji-maru.json) |
 | Far East of Eden III: Namida | 80576 | [80576-far-east-of-eden-iii-namida.json](./80576-far-east-of-eden-iii-namida.json) |
 | Far East of Eden Ziria: Harukanaru Jipang | 7214 | [7214-far-east-of-eden-ziria-harukanaru-jipang.json](./7214-far-east-of-eden-ziria-harukanaru-jipang.json) |
 | Far East of Eden: Jipang Seven | 62119 | [62119-far-east-of-eden-jipang-seven.json](./62119-far-east-of-eden-jipang-seven.json) |
