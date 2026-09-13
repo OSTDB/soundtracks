@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T01:33:12.057Z",
-  "total_missing": 64130,
+  "generated_at": "2026-09-13T01:41:28.992Z",
+  "total_missing": 64129,
   "games": [
     {
       "igdb_id": 306086,
@@ -3301,11 +3301,6 @@
       "igdb_id": 288743,
       "game_name": "Accurate Shot",
       "file": "missing/A/288743-accurate-shot.json"
-    },
-    {
-      "igdb_id": 301591,
-      "game_name": "Ace",
-      "file": "missing/A/301591-ace.json"
     },
     {
       "igdb_id": 292017,
