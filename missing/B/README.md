@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.A.L.L.O | 338753 | [338753-b-a-l-l-o.json](./338753-b-a-l-l-o.json) |
 | B.A.S.E. Jumping | 137095 | [137095-b-a-s-e-jumping.json](./137095-b-a-s-e-jumping.json) |
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
+| B.ARK | 131870 | [131870-b-ark.json](./131870-b-ark.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
 | B.C. Dash | 270398 | [270398-b-c-dash.json](./270398-b-c-dash.json) |
 | B.C. II: Grog's Revenge | 13875 | [13875-b-c-ii-grogs-revenge.json](./13875-b-c-ii-grogs-revenge.json) |
@@ -375,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
 | Bamboo Forest | 161397 | [161397-bamboo-forest.json](./161397-bamboo-forest.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
+| Bamerang | 132199 | [132199-bamerang.json](./132199-bamerang.json) |
 | Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
 | Banana | 95469 | [95469-banana.json](./95469-banana.json) |
@@ -2616,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bogart | 243947 | [243947-bogart.json](./243947-bogart.json) |
 | Bogart 2: Return of Bogart | 243949 | [243949-bogart-2-return-of-bogart.json](./243949-bogart-2-return-of-bogart.json) |
 | Bogey Dead 6 | 20590 | [20590-bogey-dead-6.json](./20590-bogey-dead-6.json) |
+| Boggle | 206463 | [206463-boggle.json](./206463-boggle.json) |
 | Boggle With Friends | 55087 | [55087-boggle-with-friends.json](./55087-boggle-with-friends.json) |
 | Boggy '84 | 40261 | [40261-boggy-84.json](./40261-boggy-84.json) |
 | Bogie's Super Pick: Value Pack 1 | 98965 | [98965-bogies-super-pick-value-pack-1.json](./98965-bogies-super-pick-value-pack-1.json) |
@@ -3036,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Roulette Simulator | 234629 | [234629-box-roulette-simulator.json](./234629-box-roulette-simulator.json) |
 | Box Runner! | 209671 | [209671-box-runner.json](./209671-box-runner.json) |
 | Box Rush | 191243 | [191243-box-rush.json](./191243-box-rush.json) |
+| Box to the Beat VR | 207448 | [207448-box-to-the-beat-vr.json](./207448-box-to-the-beat-vr.json) |
 | Box To The Beat VR: Electro Swing Pack | 310399 | [310399-box-to-the-beat-vr-electro-swing-pack.json](./310399-box-to-the-beat-vr-electro-swing-pack.json) |
 | Box To The Beat VR: Indie Electro Beats | 295260 | [295260-box-to-the-beat-vr-indie-electro-beats.json](./295260-box-to-the-beat-vr-indie-electro-beats.json) |
 | Box To The Beat VR: Shadow Dreams Pack | 263202 | [263202-box-to-the-beat-vr-shadow-dreams-pack.json](./263202-box-to-the-beat-vr-shadow-dreams-pack.json) |
