@@ -271,7 +271,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across | 30823 | [30823-across.json](./30823-across.json) |
 | Across Kiloparsecs | 259022 | [259022-across-kiloparsecs.json](./259022-across-kiloparsecs.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
-| Across the Obelisk: Shores of Sahti | 357778 | [357778-across-the-obelisk-shores-of-sahti.json](./357778-across-the-obelisk-shores-of-sahti.json) |
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
 | Across the Obelisk: Tulah, the Spider Queen | 357780 | [357780-across-the-obelisk-tulah-the-spider-queen.json](./357780-across-the-obelisk-tulah-the-spider-queen.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
