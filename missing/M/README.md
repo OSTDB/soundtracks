@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
 | Marooned | 151651 | [151651-marooned.json](./151651-marooned.json) |
+| Marooned: Arcanus Island | 7445 | [7445-marooned-arcanus-island.json](./7445-marooned-arcanus-island.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
 | Marrow | 269569 | [269569-marrow.json](./269569-marrow.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
+| Mayhem | 7066 | [7066-mayhem.json](./7066-mayhem.json) |
 | Mayhem Fortress | 224575 | [224575-mayhem-fortress.json](./224575-mayhem-fortress.json) |
 | Mayhem Maidens | 333375 | [333375-mayhem-maidens.json](./333375-mayhem-maidens.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
@@ -1254,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazaica | 304598 | [304598-mazaica.json](./304598-mazaica.json) |
 | Maze | 220340 | [220340-maze.json](./220340-maze.json) |
 | Maze | 360565 | [360565-maze.json](./360565-maze.json) |
+| Maze | 7430 | [7430-maze.json](./7430-maze.json) |
 | Maze 2010 | 230851 | [230851-maze-2010.json](./230851-maze-2010.json) |
 | Maze 4D | 112921 | [112921-maze-4d.json](./112921-maze-4d.json) |
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
@@ -1594,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton Musashi W: V Navigator "Korone Inugami" | 301015 | [301015-megaton-musashi-w-v-navigator-korone-inugami.json](./301015-megaton-musashi-w-v-navigator-korone-inugami.json) |
 | Megatron VGA | 46648 | [46648-megatron-vga.json](./46648-megatron-vga.json) |
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
+| Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
 | Megurine Luka no Jikenbo | 264358 | [264358-megurine-luka-no-jikenbo.json](./264358-megurine-luka-no-jikenbo.json) |
 | Mei Paranormies 2 | 410236 | [410236-mei-paranormies-2.json](./410236-mei-paranormies-2.json) |
@@ -1694,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off #5: Togireta Film | 288770 | [288770-memories-off-5-togireta-film.json](./288770-memories-off-5-togireta-film.json) |
 | Memories Off 2nd | 288775 | [288775-memories-off-2nd.json](./288775-memories-off-2nd.json) |
 | Memories Off 6: T-wave | 288772 | [288772-memories-off-6-t-wave.json](./288772-memories-off-6-t-wave.json) |
+| Memories Off 6: T-wave | 7068 | [7068-memories-off-6-t-wave.json](./7068-memories-off-6-t-wave.json) |
 | Memories Off Pure | 43974 | [43974-memories-off-pure.json](./43974-memories-off-pure.json) |
 | Memories Off: Sorekara | 288771 | [288771-memories-off-sorekara.json](./288771-memories-off-sorekara.json) |
 | Memories Off: Yubikiri no Kioku | 288769 | [288769-memories-off-yubikiri-no-kioku.json](./288769-memories-off-yubikiri-no-kioku.json) |
@@ -2087,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroSoccer | 234062 | [234062-microsoccer.json](./234062-microsoccer.json) |
 | Microsoft Action Pack | 86036 | [86036-microsoft-action-pack.json](./86036-microsoft-action-pack.json) |
 | Microsoft Arcade | 94214 | [94214-microsoft-arcade.json](./94214-microsoft-arcade.json) |
+| Microsoft Children's Miracle Network Games Bundle | 7069 | [7069-microsoft-childrens-miracle-network-games-bundle.json](./7069-microsoft-childrens-miracle-network-games-bundle.json) |
 | Microsoft Combat Flight Simulator 3: Battle for Europe | 23768 | [23768-microsoft-combat-flight-simulator-3-battle-for-europe.json](./23768-microsoft-combat-flight-simulator-3-battle-for-europe.json) |
 | Microsoft Combat Flight Simulator: WWII Europe Series | 243975 | [243975-microsoft-combat-flight-simulator-wwii-europe-series.json](./243975-microsoft-combat-flight-simulator-wwii-europe-series.json) |
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
@@ -2766,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist Bouncer | 63264 | [63264-mist-bouncer.json](./63264-mist-bouncer.json) |
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
+| Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
@@ -2814,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
 | Miyamoto | 175328 | [175328-miyamoto.json](./175328-miyamoto.json) |
+| Miyazato San Kyoudai Naizou: Sega Golf Club | 7454 | [7454-miyazato-san-kyoudai-naizou-sega-golf-club.json](./7454-miyazato-san-kyoudai-naizou-sega-golf-club.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
 | Mizu | 229701 | [229701-mizu.json](./229701-mizu.json) |
 | Mizu no Senritsu 2: Hi no Kioku | 67305 | [67305-mizu-no-senritsu-2-hi-no-kioku.json](./67305-mizu-no-senritsu-2-hi-no-kioku.json) |
@@ -2865,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam Side Story II: Aoi wo Uketsugu Mono | 66077 | [66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json](./66077-mobile-suit-gundam-side-story-ii-aoi-wo-uketsugu-mono.json) |
 | Mobile Suit Gundam Side Story III: Sabakareshi Mono | 66076 | [66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json](./66076-mobile-suit-gundam-side-story-iii-sabakareshi-mono.json) |
 | Mobile Suit Gundam Side Story: The Blue Destiny | 66078 | [66078-mobile-suit-gundam-side-story-the-blue-destiny.json](./66078-mobile-suit-gundam-side-story-the-blue-destiny.json) |
+| Mobile Suit Gundam Unicorn | 7377 | [7377-mobile-suit-gundam-unicorn.json](./7377-mobile-suit-gundam-unicorn.json) |
 | Mobile Suit Gundam Vol. 1 - Side 7 | 66600 | [66600-mobile-suit-gundam-vol-1-side-7.json](./66600-mobile-suit-gundam-vol-1-side-7.json) |
 | Mobile Suit Gundam: A Year of War | 222899 | [222899-mobile-suit-gundam-a-year-of-war.json](./222899-mobile-suit-gundam-a-year-of-war.json) |
 | Mobile Suit Gundam: Area Wars | 196338 | [196338-mobile-suit-gundam-area-wars.json](./196338-mobile-suit-gundam-area-wars.json) |
@@ -2875,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Extreme Vs.2 XBoost | 196283 | [196283-mobile-suit-gundam-extreme-vs-2-xboost.json](./196283-mobile-suit-gundam-extreme-vs-2-xboost.json) |
 | Mobile Suit Gundam: Lost War Chronicles | 66609 | [66609-mobile-suit-gundam-lost-war-chronicles.json](./66609-mobile-suit-gundam-lost-war-chronicles.json) |
 | Mobile Suit Gundam: One Year War | 66612 | [66612-mobile-suit-gundam-one-year-war.json](./66612-mobile-suit-gundam-one-year-war.json) |
+| Mobile Suit Gundam: Operation - Troy | 7074 | [7074-mobile-suit-gundam-operation-troy.json](./7074-mobile-suit-gundam-operation-troy.json) |
 | Mobile Suit Gundam: Return of Zion | 222898 | [222898-mobile-suit-gundam-return-of-zion.json](./222898-mobile-suit-gundam-return-of-zion.json) |
 | Mobile Suit Gundam: Senjo No Kazuna | 69294 | [69294-mobile-suit-gundam-senjo-no-kazuna.json](./69294-mobile-suit-gundam-senjo-no-kazuna.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
@@ -3182,6 +3192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunt | 79235 | [79235-monster-hunt.json](./79235-monster-hunt.json) |
 | Monster Hunter 4 Ultimate | 6440 | [6440-monster-hunter-4-ultimate.json](./6440-monster-hunter-4-ultimate.json) |
 | Monster Hunter Dual Pack | 78626 | [78626-monster-hunter-dual-pack.json](./78626-monster-hunter-dual-pack.json) |
+| Monster Hunter Frontier Online | 7075 | [7075-monster-hunter-frontier-online.json](./7075-monster-hunter-frontier-online.json) |
 | Monster Hunter Generations Ultimate | 25623 | [25623-monster-hunter-generations-ultimate.json](./25623-monster-hunter-generations-ultimate.json) |
 | Monster Hunter Ltd: Part I | 256821 | [256821-monster-hunter-ltd-part-i.json](./256821-monster-hunter-ltd-part-i.json) |
 | Monster Hunter Ltd: Part II | 256822 | [256822-monster-hunter-ltd-part-ii.json](./256822-monster-hunter-ltd-part-ii.json) |
