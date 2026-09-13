@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
 | Score 3020 | 72037 | [72037-score-3020.json](./72037-score-3020.json) |
 | Score a goal (Physical football) | 29951 | [29951-score-a-goal-physical-football.json](./29951-score-a-goal-physical-football.json) |
+| Score International Baja 1000 | 7446 | [7446-score-international-baja-1000.json](./7446-score-international-baja-1000.json) |
 | Score Rush Extended | 19854 | [19854-score-rush-extended.json](./19854-score-rush-extended.json) |
 | Scorn | 262084 | [262084-scorn.json](./262084-scorn.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Polskie Hity | 268752 | [268752-singstar-polskie-hity.json](./268752-singstar-polskie-hity.json) |
 | SingStar: Polskie Hity 2 | 268753 | [268753-singstar-polskie-hity-2.json](./268753-singstar-polskie-hity-2.json) |
 | Singstar: Portugal Hits | 91953 | [91953-singstar-portugal-hits.json](./91953-singstar-portugal-hits.json) |
+| SingStar: Queen | 7456 | [7456-singstar-queen.json](./7456-singstar-queen.json) |
 | SingStar: Studio 100 | 45301 | [45301-singstar-studio-100.json](./45301-singstar-studio-100.json) |
 | Singstar: SuomiHitit | 91884 | [91884-singstar-suomihitit.json](./91884-singstar-suomihitit.json) |
 | SingStar: Vasco | 45302 | [45302-singstar-vasco.json](./45302-singstar-vasco.json) |
@@ -4688,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedway/Tag | 92529 | [92529-speedway-tag.json](./92529-speedway-tag.json) |
 | Speedy Biker Xtreme | 257366 | [257366-speedy-biker-xtreme.json](./257366-speedy-biker-xtreme.json) |
 | Speedy Golf | 174340 | [174340-speedy-golf.json](./174340-speedy-golf.json) |
+| Speedy Gonzales | 8077 | [8077-speedy-gonzales.json](./8077-speedy-gonzales.json) |
 | Speedy Gonzales: Aztec Adventure | 49970 | [49970-speedy-gonzales-aztec-adventure.json](./49970-speedy-gonzales-aztec-adventure.json) |
 | Speedy Rush | 174908 | [174908-speedy-rush.json](./174908-speedy-rush.json) |
 | Spekel Sparks | 266237 | [266237-spekel-sparks.json](./266237-spekel-sparks.json) |
@@ -5113,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
 | Square | 208591 | [208591-square.json](./208591-square.json) |
+| Square Deal: The Game of Two Dimensional Poker | 7815 | [7815-square-deal-the-game-of-two-dimensional-poker.json](./7815-square-deal-the-game-of-two-dimensional-poker.json) |
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
 | Square Flood | 58259 | [58259-square-flood.json](./58259-square-flood.json) |
 | Square Head Zombies 2 - FPS Game | 99638 | [99638-square-head-zombies-2-fps-game.json](./99638-square-head-zombies-2-fps-game.json) |
@@ -5954,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stlthscpe | 284320 | [284320-stlthscpe.json](./284320-stlthscpe.json) |
 | Stock: Retail investors | 295542 | [295542-stock-retail-investors.json](./295542-stock-retail-investors.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
+| Stoked | 7195 | [7195-stoked.json](./7195-stoked.json) |
 | Stoked: Big Air Edition | 21107 | [21107-stoked-big-air-edition.json](./21107-stoked-big-air-edition.json) |
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
