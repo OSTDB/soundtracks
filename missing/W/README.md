@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Chains of Harrow | 198495 | [198495-warframe-chains-of-harrow.json](./198495-warframe-chains-of-harrow.json) |
 | Warframe: Dante Chronicles Pack | 294148 | [294148-warframe-dante-chronicles-pack.json](./294148-warframe-dante-chronicles-pack.json) |
 | Warframe: Echoes of Duviri | 263523 | [263523-warframe-echoes-of-duviri.json](./263523-warframe-echoes-of-duviri.json) |
+| Warframe: Fortuna | 111285 | [111285-warframe-fortuna.json](./111285-warframe-fortuna.json) |
 | Warframe: Gunblade Battlekit | 353310 | [353310-warframe-gunblade-battlekit.json](./353310-warframe-gunblade-battlekit.json) |
 | Warframe: Shadows of the Dead | 200659 | [200659-warframe-shadows-of-the-dead.json](./200659-warframe-shadows-of-the-dead.json) |
 | Warframe: Starter Weapon Pack | 353309 | [353309-warframe-starter-weapon-pack.json](./353309-warframe-starter-weapon-pack.json) |
