@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zday Survival Simulator | 202840 | [202840-zday-survival-simulator.json](./202840-zday-survival-simulator.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
 | Zebra Evolution | 206734 | [206734-zebra-evolution.json](./206734-zebra-evolution.json) |
+| Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed Zone | 216810 | [216810-zed-zone.json](./216810-zed-zone.json) |
 | Zeddas | 242258 | [242258-zeddas.json](./242258-zeddas.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
