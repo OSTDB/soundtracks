@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
 | Resurrector | 126624 | [126624-resurrector.json](./126624-resurrector.json) |
+| Retaliate | 300810 | [300810-retaliate.json](./300810-retaliate.json) |
 | Retention | 36028 | [36028-retention.json](./36028-retention.json) |
 | Retention: A Love Story | 149597 | [149597-retention-a-love-story.json](./149597-retention-a-love-story.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
