@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungler | 297490 | [297490-jungler.json](./297490-jungler.json) |
 | Junglex | 115616 | [115616-junglex.json](./115616-junglex.json) |
 | Jungo | 257391 | [257391-jungo.json](./257391-jungo.json) |
+| Junior Brain Trainer | 23270 | [23270-junior-brain-trainer.json](./23270-junior-brain-trainer.json) |
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
 | Junior Mystery Quest | 78609 | [78609-junior-mystery-quest.json](./78609-junior-mystery-quest.json) |
 | Junior's Revenge | 78039 | [78039-juniors-revenge.json](./78039-juniors-revenge.json) |
@@ -884,6 +885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Random Squares | 120394 | [120394-just-random-squares.json](./120394-just-random-squares.json) |
 | Just Run! | 102141 | [102141-just-run.json](./102141-just-run.json) |
 | Just Shapes & Beats | 31194 | [31194-just-shapes-and-beats.json](./31194-just-shapes-and-beats.json) |
+| Just Sing | 23386 | [23386-just-sing.json](./23386-just-sing.json) |
 | Just Sing! Christmas Vol. 3 | 65489 | [65489-just-sing-christmas-vol-3.json](./65489-just-sing-christmas-vol-3.json) |
 | Just Skill Shooter: Catacombs | 340783 | [340783-just-skill-shooter-catacombs.json](./340783-just-skill-shooter-catacombs.json) |
 | Just Sleep - Meditate, Focus, Relax | 119686 | [119686-just-sleep-meditate-focus-relax.json](./119686-just-sleep-meditate-focus-relax.json) |
