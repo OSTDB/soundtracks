@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Librarian: Tidy Up the Arcane Library! | 393398 | [393398-librarian-tidy-up-the-arcane-library.json](./393398-librarian-tidy-up-the-arcane-library.json) |
 | Librarium | 235495 | [235495-librarium.json](./235495-librarium.json) |
 | Library Game | 337640 | [337640-library-game.json](./337640-library-game.json) |
+| Library of Ruina | 131760 | [131760-library-of-ruina.json](./131760-library-of-ruina.json) |
 | Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
 | Librerama | 176992 | [176992-librerama.json](./176992-librerama.json) |
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
@@ -1214,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Adventure: Twinsen's Quest | 241954 | [241954-little-big-adventure-twinsens-quest.json](./241954-little-big-adventure-twinsens-quest.json) |
 | Little Big Horn | 226409 | [226409-little-big-horn.json](./226409-little-big-horn.json) |
 | Little Big Robots | 231931 | [231931-little-big-robots.json](./231931-little-big-robots.json) |
+| Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Bushman | 346039 | [346039-little-bushman.json](./346039-little-bushman.json) |
 | Little Caesars Fractions Pizza | 77302 | [77302-little-caesars-fractions-pizza.json](./77302-little-caesars-fractions-pizza.json) |
