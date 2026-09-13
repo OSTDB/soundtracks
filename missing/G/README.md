@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Gym: Fitness Center Management | 199610 | [199610-galactic-gym-fitness-center-management.json](./199610-galactic-gym-fitness-center-management.json) |
 | Galactic Harvester | 75905 | [75905-galactic-harvester.json](./75905-galactic-harvester.json) |
 | Galactic Invasion | 187502 | [187502-galactic-invasion.json](./187502-galactic-invasion.json) |
+| Galactic Junk League | 26782 | [26782-galactic-junk-league.json](./26782-galactic-junk-league.json) |
 | Galactic Lander | 109676 | [109676-galactic-lander.json](./109676-galactic-lander.json) |
 | Galactic Loader | 324304 | [324304-galactic-loader.json](./324304-galactic-loader.json) |
 | Galactic Lords | 75174 | [75174-galactic-lords.json](./75174-galactic-lords.json) |
