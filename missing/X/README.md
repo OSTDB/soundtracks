@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Wolverine's Rage | 49899 | [49899-x-men-wolverines-rage.json](./49899-x-men-wolverines-rage.json) |
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
+| X-Out: Resurfaced | 312309 | [312309-x-out-resurfaced.json](./312309-x-out-resurfaced.json) |
 | X-Plane 10 | 79940 | [79940-x-plane-10.json](./79940-x-plane-10.json) |
 | X-Plane 10 Global: Carenado - C208B Grand Caravan | 168813 | [168813-x-plane-10-global-carenado-c208b-grand-caravan.json](./168813-x-plane-10-global-carenado-c208b-grand-caravan.json) |
 | X-Plane 10 Global: Carenado - F33A Bonanza | 168812 | [168812-x-plane-10-global-carenado-f33a-bonanza.json](./168812-x-plane-10-global-carenado-f33a-bonanza.json) |
