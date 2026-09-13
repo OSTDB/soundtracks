@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Rumble | 280787 | [280787-rally-rumble.json](./280787-rally-rumble.json) |
 | Rally Run | 237371 | [237371-rally-run.json](./237371-rally-run.json) |
 | Rally Speedway | 47213 | [47213-rally-speedway.json](./47213-rally-speedway.json) |
+| Rally-X | 18620 | [18620-rally-x.json](./18620-rally-x.json) |
 | Rally45 | 89279 | [89279-rally45.json](./89279-rally45.json) |
 | Rallycross Track Racing | 221383 | [221383-rallycross-track-racing.json](./221383-rallycross-track-racing.json) |
 | Ralph Baer's Pinball! | 257666 | [257666-ralph-baers-pinball.json](./257666-ralph-baers-pinball.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Rowing | 316415 | [316415-rampage-rowing.json](./316415-rampage-rowing.json) |
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
+| Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
 | Rana Rama | 30805 | [30805-rana-rama.json](./30805-rana-rama.json) |
 | Rance 5D: The Lonely Girl + Rance VI: Collapse of Zeth | 129133 | [129133-rance-5d-the-lonely-girl-rance-vi-collapse-of-zeth.json](./129133-rance-5d-the-lonely-girl-rance-vi-collapse-of-zeth.json) |
