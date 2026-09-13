@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tebeo | 215147 | [215147-tebeo.json](./215147-tebeo.json) |
 | Tech and Blood | 181864 | [181864-tech-and-blood.json](./181864-tech-and-blood.json) |
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
+| Tech Corp. | 107992 | [107992-tech-corp.json](./107992-tech-corp.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
 | Techium Eclipse | 183508 | [183508-techium-eclipse.json](./183508-techium-eclipse.json) |
 | TechMate Chess | 327801 | [327801-techmate-chess.json](./327801-techmate-chess.json) |
@@ -1081,6 +1082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetnis | 93522 | [93522-tetnis.json](./93522-tetnis.json) |
 | Tetra for Nintendo Switch: International Edition | 187462 | [187462-tetra-for-nintendo-switch-international-edition.json](./187462-tetra-for-nintendo-switch-international-edition.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
+| Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
 | TetraLogical | 115531 | [115531-tetralogical.json](./115531-tetralogical.json) |
 | Tetraminis Deffect | 284352 | [284352-tetraminis-deffect.json](./284352-tetraminis-deffect.json) |
 | Tetraphobia | 124740 | [124740-tetraphobia.json](./124740-tetraphobia.json) |
@@ -1562,6 +1564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Capcom Collection | 246090 | [246090-the-capcom-collection.json](./246090-the-capcom-collection.json) |
 | The Caped Crusader | 278715 | [278715-the-caped-crusader.json](./278715-the-caped-crusader.json) |
 | The Capitol Cheese Agreement | 307316 | [307316-the-capitol-cheese-agreement.json](./307316-the-capitol-cheese-agreement.json) |
+| The Captain | 114666 | [114666-the-captain.json](./114666-the-captain.json) |
 | The Captcha Game | 281405 | [281405-the-captcha-game.json](./281405-the-captcha-game.json) |
 | The Captive | 362814 | [362814-the-captive.json](./362814-the-captive.json) |
 | The Capybara P | 219049 | [219049-the-capybara-p.json](./219049-the-capybara-p.json) |
@@ -3653,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skullkid | 230259 | [230259-the-skullkid.json](./230259-the-skullkid.json) |
 | The Sky Crawlers: Innocent Aces | 5160 | [5160-the-sky-crawlers-innocent-aces.json](./5160-the-sky-crawlers-innocent-aces.json) |
 | The Slasher Camp Massacre | 218738 | [218738-the-slasher-camp-massacre.json](./218738-the-slasher-camp-massacre.json) |
+| The Slater | 104815 | [104815-the-slater.json](./104815-the-slater.json) |
 | The Slaughtering Grounds | 13374 | [13374-the-slaughtering-grounds.json](./13374-the-slaughtering-grounds.json) |
 | The Slaverian Trucker | 185636 | [185636-the-slaverian-trucker.json](./185636-the-slaverian-trucker.json) |
 | The Slopes | 28790 | [28790-the-slopes.json](./28790-the-slopes.json) |
@@ -3822,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
+| The Tenants | 115012 | [115012-the-tenants.json](./115012-the-tenants.json) |
 | The Tennis & The Snowboard | 203393 | [203393-the-tennis-and-the-snowboard.json](./203393-the-tennis-and-the-snowboard.json) |
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
 | The Tensor | 318401 | [318401-the-tensor.json](./318401-the-tensor.json) |
@@ -5185,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy | 64992 | [64992-timothy.json](./64992-timothy.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
+| Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
 | Tin Tandem | 152396 | [152396-tin-tandem.json](./152396-tin-tandem.json) |
 | Tinboy | 34507 | [34507-tinboy.json](./34507-tinboy.json) |
 | Tincan! Escape | 85444 | [85444-tincan-escape.json](./85444-tincan-escape.json) |
