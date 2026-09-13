@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T10:01:49.251Z",
-  "total_missing": 65355,
+  "generated_at": "2026-09-13T10:11:40.578Z",
+  "total_missing": 65364,
   "games": [
     {
       "igdb_id": 306086,
@@ -156,6 +156,11 @@
       "igdb_id": 147438,
       "game_name": "#Halloween, Super Puzzles Dream",
       "file": "missing/0-9/147438-halloween-super-puzzles-dream.json"
+    },
+    {
+      "igdb_id": 9888,
+      "game_name": "#IDARB",
+      "file": "missing/0-9/9888-idarb.json"
     },
     {
       "igdb_id": 106639,
@@ -3556,11 +3561,6 @@
       "igdb_id": 301594,
       "game_name": "Acre Crisis",
       "file": "missing/A/301594-acre-crisis.json"
-    },
-    {
-      "igdb_id": 30837,
-      "game_name": "Acro Storm",
-      "file": "missing/A/30837-acro-storm.json"
     },
     {
       "igdb_id": 108440,
@@ -58128,6 +58128,11 @@
       "file": "missing/C/51292-crysis-wreckage.json"
     },
     {
+      "igdb_id": 11207,
+      "game_name": "Crystal Castles",
+      "file": "missing/C/11207-crystal-castles.json"
+    },
+    {
       "igdb_id": 69319,
       "game_name": "Crystal Confines",
       "file": "missing/C/69319-crystal-confines.json"
@@ -70586,6 +70591,11 @@
       "igdb_id": 49339,
       "game_name": "Disney's Tarzan: Return to the Jungle",
       "file": "missing/D/49339-disneys-tarzan-return-to-the-jungle.json"
+    },
+    {
+      "igdb_id": 10625,
+      "game_name": "Disney's Tarzan: Untamed",
+      "file": "missing/D/10625-disneys-tarzan-untamed.json"
     },
     {
       "igdb_id": 204572,
@@ -88666,6 +88676,11 @@
       "igdb_id": 238217,
       "game_name": "Faeria: Game + All DLC Bundle",
       "file": "missing/F/238217-faeria-game-all-dlc-bundle.json"
+    },
+    {
+      "igdb_id": 10295,
+      "game_name": "Faery: Legends of Avalon",
+      "file": "missing/F/10295-faery-legends-of-avalon.json"
     },
     {
       "igdb_id": 298022,
@@ -159273,6 +159288,11 @@
       "file": "missing/M/153382-manic-archers.json"
     },
     {
+      "igdb_id": 10161,
+      "game_name": "Manic Miner",
+      "file": "missing/M/10161-manic-miner.json"
+    },
+    {
       "igdb_id": 248054,
       "game_name": "Manic Miner",
       "file": "missing/M/248054-manic-miner.json"
@@ -200286,6 +200306,11 @@
       "igdb_id": 89191,
       "game_name": "Picross Beach Season",
       "file": "missing/P/89191-picross-beach-season.json"
+    },
+    {
+      "igdb_id": 10617,
+      "game_name": "Picross DS",
+      "file": "missing/P/10617-picross-ds.json"
     },
     {
       "igdb_id": 62913,
@@ -241823,6 +241848,11 @@
       "file": "missing/S/10872-sleeping-dogs-nightmare-in-north-point.json"
     },
     {
+      "igdb_id": 10873,
+      "game_name": "Sleeping Dogs: Year of the Snake",
+      "file": "missing/S/10873-sleeping-dogs-year-of-the-snake.json"
+    },
+    {
       "igdb_id": 233490,
       "game_name": "Sleeping Flowers: Thread Curse",
       "file": "missing/S/233490-sleeping-flowers-thread-curse.json"
@@ -244011,6 +244041,11 @@
       "igdb_id": 10879,
       "game_name": "Sniper Elite V2: The Landwehr Canal",
       "file": "missing/S/10879-sniper-elite-v2-the-landwehr-canal.json"
+    },
+    {
+      "igdb_id": 10877,
+      "game_name": "Sniper Elite: Nazi Zombie Army 2",
+      "file": "missing/S/10877-sniper-elite-nazi-zombie-army-2.json"
     },
     {
       "igdb_id": 138980,
@@ -250468,6 +250503,11 @@
       "file": "missing/S/251211-speed-x-extreme-3d-car-racing.json"
     },
     {
+      "igdb_id": 10151,
+      "game_name": "Speedball",
+      "file": "missing/S/10151-speedball.json"
+    },
+    {
       "igdb_id": 10152,
       "game_name": "Speedball 2: Brutal Deluxe",
       "file": "missing/S/10152-speedball-2-brutal-deluxe.json"
@@ -255611,6 +255651,11 @@
       "igdb_id": 147969,
       "game_name": "Stealth",
       "file": "missing/S/147969-stealth.json"
+    },
+    {
+      "igdb_id": 10922,
+      "game_name": "Stealth Bastard Deluxe",
+      "file": "missing/S/10922-stealth-bastard-deluxe.json"
     },
     {
       "igdb_id": 65531,
