@@ -1099,11 +1099,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
+| Phantom Breaker | 7130 | [7130-phantom-breaker.json](./7130-phantom-breaker.json) |
 | Phantom Breaker: Battle Grounds Ultimate | 319268 | [319268-phantom-breaker-battle-grounds-ultimate.json](./319268-phantom-breaker-battle-grounds-ultimate.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
 | Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
 | Phantom Doctrine: Deluxe Edition | 107257 | [107257-phantom-doctrine-deluxe-edition.json](./107257-phantom-doctrine-deluxe-edition.json) |
 | Phantom Doctrine: Halloween Scare Tactics | 171081 | [171081-phantom-doctrine-halloween-scare-tactics.json](./171081-phantom-doctrine-halloween-scare-tactics.json) |
+| Phantom Dust | 7341 | [7341-phantom-dust.json](./7341-phantom-dust.json) |
 | Phantom Floor | 394178 | [394178-phantom-floor.json](./394178-phantom-floor.json) |
 | Phantom Grid | 367974 | [367974-phantom-grid.json](./367974-phantom-grid.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
@@ -2627,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
+| Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
 | Power Guy World | 339266 | [339266-power-guy-world.json](./339266-power-guy-world.json) |
 | Power Hands | 223982 | [223982-power-hands.json](./223982-power-hands.json) |
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
