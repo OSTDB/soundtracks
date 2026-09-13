@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatMxn: Chapter 1 | 196788 | [196788-catmxn-chapter-1.json](./196788-catmxn-chapter-1.json) |
 | Catnight | 188582 | [188582-catnight.json](./188582-catnight.json) |
 | CatRoots | 130334 | [130334-catroots.json](./130334-catroots.json) |
+| Cats | 301856 | [301856-cats.json](./301856-cats.json) |
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
 | Cats & Soup | 174818 | [174818-cats-and-soup.json](./174818-cats-and-soup.json) |
@@ -1793,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChuSingura46+1 S: Chapter 4 & 5 | 168850 | [168850-chusingura46-1-s-chapter-4-and-5.json](./168850-chusingura46-1-s-chapter-4-and-5.json) |
 | Chuukana Janshi Tenhoo Painyan Remix | 56461 | [56461-chuukana-janshi-tenhoo-painyan-remix.json](./56461-chuukana-janshi-tenhoo-painyan-remix.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
+| Chuxie | 308857 | [308857-chuxie.json](./308857-chuxie.json) |
 | Chuzzle | 3758 | [3758-chuzzle.json](./3758-chuzzle.json) |
 | Chuzzle Deluxe | 27748 | [27748-chuzzle-deluxe.json](./27748-chuzzle-deluxe.json) |
 | Chuzzo | 316413 | [316413-chuzzo.json](./316413-chuzzo.json) |
@@ -1885,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Arena: Hero Legends | 275015 | [275015-city-arena-hero-legends.json](./275015-city-arena-hero-legends.json) |
 | City Builder | 101595 | [101595-city-builder.json](./101595-city-builder.json) |
 | City Bus Simulator 2010 | 67299 | [67299-city-bus-simulator-2010.json](./67299-city-bus-simulator-2010.json) |
+| City Connection | 288842 | [288842-city-connection.json](./288842-city-connection.json) |
 | City Country | 191157 | [191157-city-country.json](./191157-city-country.json) |
 | City Defense | 221999 | [221999-city-defense.json](./221999-city-defense.json) |
 | City Dunk 2 | 220298 | [220298-city-dunk-2.json](./220298-city-dunk-2.json) |
@@ -2628,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commanders of the Void | 379872 | [379872-commanders-of-the-void.json](./379872-commanders-of-the-void.json) |
 | Commanders: Attack of the Genos | 20775 | [20775-commanders-attack-of-the-genos.json](./20775-commanders-attack-of-the-genos.json) |
 | CommanderTux | 320161 | [320161-commandertux.json](./320161-commandertux.json) |
+| Commando | 282623 | [282623-commando.json](./282623-commando.json) |
 | Commando Jack Respawn | 136393 | [136393-commando-jack-respawn.json](./136393-commando-jack-respawn.json) |
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
 | Commando vs Zombies | 99002 | [99002-commando-vs-zombies.json](./99002-commando-vs-zombies.json) |
@@ -2954,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
 | Corn Buster | 42565 | [42565-corn-buster.json](./42565-corn-buster.json) |
+| Corn Kidz 64 | 266118 | [266118-corn-kidz-64.json](./266118-corn-kidz-64.json) |
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
 | Corncob Deluxe | 94704 | [94704-corncob-deluxe.json](./94704-corncob-deluxe.json) |
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
