@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
 | Word Crack | 402312 | [402312-word-crack.json](./402312-word-crack.json) |
+| Word Crossy: A crossword game | 88767 | [88767-word-crossy-a-crossword-game.json](./88767-word-crossy-a-crossword-game.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
 | Word Dungeons | 262368 | [262368-word-dungeons.json](./262368-word-dungeons.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
@@ -1709,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Service Super Nintendo Tester | 37765 | [37765-world-class-service-super-nintendo-tester.json](./37765-world-class-service-super-nintendo-tester.json) |
 | World Class Solitaire HD | 355012 | [355012-world-class-solitaire-hd.json](./355012-world-class-solitaire-hd.json) |
 | World Conqueror 3D | 85497 | [85497-world-conqueror-3d.json](./85497-world-conqueror-3d.json) |
+| World Conqueror X | 89152 | [89152-world-conqueror-x.json](./89152-world-conqueror-x.json) |
 | World Court Tennis | 37732 | [37732-world-court-tennis.json](./37732-world-court-tennis.json) |
 | World Cruise Story | 65518 | [65518-world-cruise-story.json](./65518-world-cruise-story.json) |
 | World Cup Carnival | 69817 | [69817-world-cup-carnival.json](./69817-world-cup-carnival.json) |
@@ -1746,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Claudecraft | 408050 | [408050-world-of-claudecraft.json](./408050-world-of-claudecraft.json) |
 | World of Conquerors: Origins | 126602 | [126602-world-of-conquerors-origins.json](./126602-world-of-conquerors-origins.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
+| World of Cubes Survival Craft | 89187 | [89187-world-of-cubes-survival-craft.json](./89187-world-of-cubes-survival-craft.json) |
 | World of Darkness Preludes: Vampire and Mage | 27330 | [27330-world-of-darkness-preludes-vampire-and-mage.json](./27330-world-of-darkness-preludes-vampire-and-mage.json) |
 | World of Ender | 102749 | [102749-world-of-ender.json](./102749-world-of-ender.json) |
 | World of Feudal | 102160 | [102160-world-of-feudal.json](./102160-world-of-feudal.json) |
