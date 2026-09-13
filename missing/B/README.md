@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beholgar: Collector's Edition | 228739 | [228739-beholgar-collectors-edition.json](./228739-beholgar-collectors-edition.json) |
 | BeiJing Courier Simulator | 118413 | [118413-beijing-courier-simulator.json](./118413-beijing-courier-simulator.json) |
 | Being a DIK | 128462 | [128462-being-a-dik.json](./128462-being-a-dik.json) |
+| Being a DIK: Season 2 | 186507 | [186507-being-a-dik-season-2.json](./186507-being-a-dik-season-2.json) |
 | Being Faust: Enter Mephisto | 56459 | [56459-being-faust-enter-mephisto.json](./56459-being-faust-enter-mephisto.json) |
 | Being One: Episode 1 | 184076 | [184076-being-one-episode-1.json](./184076-being-one-episode-1.json) |
 | Bejeweled | 121723 | [121723-bejeweled.json](./121723-bejeweled.json) |
@@ -2101,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
 | Bleach vs Naruto | 228437 | [228437-bleach-vs-naruto.json](./228437-bleach-vs-naruto.json) |
 | Bleach: Heat the Soul 4 | 46001 | [46001-bleach-heat-the-soul-4.json](./46001-bleach-heat-the-soul-4.json) |
+| Bleach: Shattered Blade | 3821 | [3821-bleach-shattered-blade.json](./3821-bleach-shattered-blade.json) |
 | Bleach: Soul Puzzle | 317846 | [317846-bleach-soul-puzzle.json](./317846-bleach-soul-puzzle.json) |
 | Bleach: Soul Resurrección | 7280 | [7280-bleach-soul-resurreccion.json](./7280-bleach-soul-resurreccion.json) |
 | Bleach: The Blade of Fate | 20530 | [20530-bleach-the-blade-of-fate.json](./20530-bleach-the-blade-of-fate.json) |
@@ -3018,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bragger's Run | 150610 | [150610-braggers-run.json](./150610-braggers-run.json) |
 | Brahma Force: The Assault on Beltlogger 9 | 20816 | [20816-brahma-force-the-assault-on-beltlogger-9.json](./20816-brahma-force-the-assault-on-beltlogger-9.json) |
 | Brain 43°C | 104051 | [104051-brain-43-c.json](./104051-brain-43-c.json) |
+| Brain Age 2: More Training in Minutes a Day! | 2711 | [2711-brain-age-2-more-training-in-minutes-a-day.json](./2711-brain-age-2-more-training-in-minutes-a-day.json) |
 | Brain Age Express: Arts & Letters | 67792 | [67792-brain-age-express-arts-and-letters.json](./67792-brain-age-express-arts-and-letters.json) |
 | Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
 | Brain Bait | 186814 | [186814-brain-bait.json](./186814-brain-bait.json) |
@@ -3455,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
+| Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
@@ -3780,8 +3784,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bussy Master: Halloween Advent 2024 | 318421 | [318421-bussy-master-halloween-advent-2024.json](./318421-bussy-master-halloween-advent-2024.json) |
 | Bust a Block | 319973 | [319973-bust-a-block.json](./319973-bust-a-block.json) |
 | Bust a date | 173829 | [173829-bust-a-date.json](./173829-bust-a-date.json) |
+| Bust A Groove | 4138 | [4138-bust-a-groove.json](./4138-bust-a-groove.json) |
 | Bust Out | 174878 | [174878-bust-out.json](./174878-bust-out.json) |
 | Bust-A-Move | 246391 | [246391-bust-a-move.json](./246391-bust-a-move.json) |
+| Bust-A-Move 2: Arcade Edition | 3455 | [3455-bust-a-move-2-arcade-edition.json](./3455-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move Live! | 21102 | [21102-bust-a-move-live.json](./21102-bust-a-move-live.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
