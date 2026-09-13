@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Solitaire Plus | 107146 | [107146-2048-solitaire-plus.json](./107146-2048-solitaire-plus.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
+| 2084 | 113154 | [113154-2084.json](./113154-2084.json) |
 | 21 Blitz | 125939 | [125939-21-blitz.json](./125939-21-blitz.json) |
 | 21 Gewinnt | 98932 | [98932-21-gewinnt.json](./98932-21-gewinnt.json) |
 | 2112TD: Tower Defense Survival | 135256 | [135256-2112td-tower-defense-survival.json](./135256-2112td-tower-defense-survival.json) |
