@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scandinavian Cottage Survival Simulator | 360000 | [360000-scandinavian-cottage-survival-simulator.json](./360000-scandinavian-cottage-survival-simulator.json) |
 | Scanline | 180810 | [180810-scanline.json](./180810-scanline.json) |
 | Scanner Force | 402269 | [402269-scanner-force.json](./402269-scanner-force.json) |
+| Scanner Sombre | 28224 | [28224-scanner-sombre.json](./28224-scanner-sombre.json) |
 | Scanner Sombre Pack | 154462 | [154462-scanner-sombre-pack.json](./154462-scanner-sombre-pack.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
 | Scarab | 84223 | [84223-scarab.json](./84223-scarab.json) |
@@ -717,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scopophobia | 361678 | [361678-scopophobia.json](./361678-scopophobia.json) |
 | Scorb VR | 75082 | [75082-scorb-vr.json](./75082-scorb-vr.json) |
 | Scorched 3D | 51249 | [51249-scorched-3d.json](./51249-scorched-3d.json) |
+| Scorched Earth | 14431 | [14431-scorched-earth.json](./14431-scorched-earth.json) |
 | Scorched Lands | 401536 | [401536-scorched-lands.json](./401536-scorched-lands.json) |
 | Scorched Planet | 12906 | [12906-scorched-planet.json](./12906-scorched-planet.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
@@ -1855,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
 | Shinkan Senshi Eris no Bouken | 97379 | [97379-shinkan-senshi-eris-no-bouken.json](./97379-shinkan-senshi-eris-no-bouken.json) |
 | Shinkon Gattai Godannar!! | 70905 | [70905-shinkon-gattai-godannar.json](./70905-shinkon-gattai-godannar.json) |
+| Shinobi | 10223 | [10223-shinobi.json](./10223-shinobi.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
@@ -2079,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
 | Shrek Sugar Fever | 97357 | [97357-shrek-sugar-fever.json](./97357-shrek-sugar-fever.json) |
+| Shrek SuperSlam | 10628 | [10628-shrek-superslam.json](./10628-shrek-superslam.json) |
 | Shrek the Third | 3669 | [3669-shrek-the-third.json](./3669-shrek-the-third.json) |
 | Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
@@ -2825,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepi Boi Can't Sleep | 206723 | [206723-sleepi-boi-cant-sleep.json](./206723-sleepi-boi-cant-sleep.json) |
 | Sleepin' Guy: Deluxe Edition | 188043 | [188043-sleepin-guy-deluxe-edition.json](./188043-sleepin-guy-deluxe-edition.json) |
 | Sleeping Beauty X : The Legend of Tales | 175984 | [175984-sleeping-beauty-x-the-legend-of-tales.json](./175984-sleeping-beauty-x-the-legend-of-tales.json) |
+| Sleeping Dogs: Nightmare in North Point | 10872 | [10872-sleeping-dogs-nightmare-in-north-point.json](./10872-sleeping-dogs-nightmare-in-north-point.json) |
 | Sleeping Flowers: Thread Curse | 233490 | [233490-sleeping-flowers-thread-curse.json](./233490-sleeping-flowers-thread-curse.json) |
 | Sleeping Forest | 292513 | [292513-sleeping-forest.json](./292513-sleeping-forest.json) |
 | Sleeping Prince | 77966 | [77966-sleeping-prince.json](./77966-sleeping-prince.json) |
@@ -3164,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Flow | 37061 | [37061-snake-flow.json](./37061-snake-flow.json) |
 | Snake Game | 95375 | [95375-snake-game.json](./95375-snake-game.json) |
 | Snake Game Ultra Core | 368476 | [368476-snake-game-ultra-core.json](./368476-snake-game-ultra-core.json) |
+| Snake II | 10141 | [10141-snake-ii.json](./10141-snake-ii.json) |
 | Snake Infinity Lite | 26680 | [26680-snake-infinity-lite.json](./26680-snake-infinity-lite.json) |
 | Snake Jump | 259579 | [259579-snake-jump.json](./259579-snake-jump.json) |
 | Snake Neon Online | 209685 | [209685-snake-neon-online.json](./209685-snake-neon-online.json) |
@@ -3735,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dash | 19506 | [19506-sonic-dash.json](./19506-sonic-dash.json) |
 | Sonic Dash Quiz | 261292 | [261292-sonic-dash-quiz.json](./261292-sonic-dash-quiz.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
+| Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
 | Sonic Elementals | 333959 | [333959-sonic-elementals.json](./333959-sonic-elementals.json) |
 | Sonic ERaZor | 198564 | [198564-sonic-erazor.json](./198564-sonic-erazor.json) |
 | Sonic FGX 2 | 352169 | [352169-sonic-fgx-2.json](./352169-sonic-fgx-2.json) |
@@ -4965,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | Spyrazoid | 227833 | [227833-spyrazoid.json](./227833-spyrazoid.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
+| Spyro 2: Ripto's Rage! | 142242 | [142242-spyro-2-riptos-rage.json](./142242-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
 | Spyro 2: Season of Flame | 1588 | [1588-spyro-2-season-of-flame.json](./1588-spyro-2-season-of-flame.json) |
 | Spyro Superpack | 130303 | [130303-spyro-superpack.json](./130303-spyro-superpack.json) |
@@ -5193,6 +5201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Melody: Yumemi Dreamer - Limited Edition | 175977 | [175977-star-melody-yumemi-dreamer-limited-edition.json](./175977-star-melody-yumemi-dreamer-limited-edition.json) |
 | Star Mine | 142424 | [142424-star-mine.json](./142424-star-mine.json) |
 | Star Mobile | 41995 | [41995-star-mobile.json](./41995-star-mobile.json) |
+| Star Ocean | 11209 | [11209-star-ocean.json](./11209-star-ocean.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
@@ -6499,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
 | Sunya | 253006 | [253006-sunya.json](./253006-sunya.json) |
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
+| Supaplex | 14418 | [14418-supaplex.json](./14418-supaplex.json) |
 | Supaplex | 413616 | [413616-supaplex.json](./413616-supaplex.json) |
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
 | Supaplex: Second Chance | 145010 | [145010-supaplex-second-chance.json](./145010-supaplex-second-chance.json) |
