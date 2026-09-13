@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disciples II: Gallean's Return | 19351 | [19351-disciples-ii-galleans-return.json](./19351-disciples-ii-galleans-return.json) |
 | Disciples II: Guardians of the Light | 11403 | [11403-disciples-ii-guardians-of-the-light.json](./11403-disciples-ii-guardians-of-the-light.json) |
 | Disciples II: Rise of the Elves | 11404 | [11404-disciples-ii-rise-of-the-elves.json](./11404-disciples-ii-rise-of-the-elves.json) |
+| Disciples: Sacred Lands Gold | 11405 | [11405-disciples-sacred-lands-gold.json](./11405-disciples-sacred-lands-gold.json) |
 | Disco Bert and the Curse of the Evil Mummies | 55913 | [55913-disco-bert-and-the-curse-of-the-evil-mummies.json](./55913-disco-bert-and-the-curse-of-the-evil-mummies.json) |
 | Disco Bullets | 122371 | [122371-disco-bullets.json](./122371-disco-bullets.json) |
 | Disco Elysium: Game Boy Edition | 140050 | [140050-disco-elysium-game-boy-edition.json](./140050-disco-elysium-game-boy-edition.json) |
@@ -3170,6 +3171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Drawn to Kill | 60512 | [60512-drawn-to-kill.json](./60512-drawn-to-kill.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
+| Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
 | DRazor | 156084 | [156084-drazor.json](./156084-drazor.json) |
 | Dread | 130910 | [130910-dread.json](./130910-dread.json) |
@@ -3907,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors Online Z | 257658 | [257658-dynasty-warriors-online-z.json](./257658-dynasty-warriors-online-z.json) |
 | Dynasty Warriors: God Seekers | 44537 | [44537-dynasty-warriors-god-seekers.json](./44537-dynasty-warriors-god-seekers.json) |
 | Dynasty Warriors: Gundam | 6977 | [6977-dynasty-warriors-gundam.json](./6977-dynasty-warriors-gundam.json) |
+| Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
