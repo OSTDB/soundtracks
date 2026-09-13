@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroNet: Mendax Proxy | 147903 | [147903-neuronet-mendax-proxy.json](./147903-neuronet-mendax-proxy.json) |
 | NeuroReal VR | 100819 | [100819-neuroreal-vr.json](./100819-neuroreal-vr.json) |
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
+| Neuroshima Hex | 22276 | [22276-neuroshima-hex.json](./22276-neuroshima-hex.json) |
 | Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
 | NeuroSquad | 234042 | [234042-neurosquad.json](./234042-neurosquad.json) |
 | Neuroza | 335867 | [335867-neuroza.json](./335867-neuroza.json) |
