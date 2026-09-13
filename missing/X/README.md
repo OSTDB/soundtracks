@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XBlaze Lost: Memories | 11637 | [11637-xblaze-lost-memories.json](./11637-xblaze-lost-memories.json) |
 | Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
 | XCOM 2: Alien Hunters | 19451 | [19451-xcom-2-alien-hunters.json](./19451-xcom-2-alien-hunters.json) |
+| XCOM 2: Anarchy's Children | 18365 | [18365-xcom-2-anarchys-children.json](./18365-xcom-2-anarchys-children.json) |
 | XCOM 2: Reinforcement Pack | 225099 | [225099-xcom-2-reinforcement-pack.json](./225099-xcom-2-reinforcement-pack.json) |
 | XCOM 2: Resistance Warrior Pack | 225096 | [225096-xcom-2-resistance-warrior-pack.json](./225096-xcom-2-resistance-warrior-pack.json) |
 | XCOM 2: Shen's Last Gift | 19859 | [19859-xcom-2-shens-last-gift.json](./19859-xcom-2-shens-last-gift.json) |
