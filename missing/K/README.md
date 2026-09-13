@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Revolution: J-POP Best vol.1 | 71469 | [71469-karaoke-revolution-j-pop-best-vol-1.json](./71469-karaoke-revolution-j-pop-best-vol-1.json) |
 | Karaoke Revolution: J-POP Best vol.2 | 73233 | [73233-karaoke-revolution-j-pop-best-vol-2.json](./73233-karaoke-revolution-j-pop-best-vol-2.json) |
 | Karaoke Studio | 79252 | [79252-karaoke-studio.json](./79252-karaoke-studio.json) |
+| Karate | 14253 | [14253-karate.json](./14253-karate.json) |
 | Karate Blazers | 39579 | [39579-karate-blazers.json](./39579-karate-blazers.json) |
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
 | Karate Hero | 234318 | [234318-karate-hero.json](./234318-karate-hero.json) |
