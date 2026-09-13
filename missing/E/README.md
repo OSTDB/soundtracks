@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Egg | 127225 | [127225-easter-egg.json](./127225-easter-egg.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
 | Eastern Europe Bus Sim | 232454 | [232454-eastern-europe-bus-sim.json](./232454-eastern-europe-bus-sim.json) |
+| Eastern Exorcist | 121235 | [121235-eastern-exorcist.json](./121235-eastern-exorcist.json) |
 | Eastern Market Murder | 174372 | [174372-eastern-market-murder.json](./174372-eastern-market-murder.json) |
 | Eastern Mind: The Lost Souls of Tong Nou | 73752 | [73752-eastern-mind-the-lost-souls-of-tong-nou.json](./73752-eastern-mind-the-lost-souls-of-tong-nou.json) |
 | Eastern Tactics | 171571 | [171571-eastern-tactics.json](./171571-eastern-tactics.json) |
@@ -594,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of the Empire | 402913 | [402913-embers-of-the-empire.json](./402913-embers-of-the-empire.json) |
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
 | Emberwake | 320530 | [320530-emberwake.json](./320530-emberwake.json) |
+| Embr | 117312 | [117312-embr.json](./117312-embr.json) |
 | Embrace of Ocean: Story of Hope | 51956 | [51956-embrace-of-ocean-story-of-hope.json](./51956-embrace-of-ocean-story-of-hope.json) |
 | Embrace the Fear | 29773 | [29773-embrace-the-fear.json](./29773-embrace-the-fear.json) |
 | Embraced | 299429 | [299429-embraced.json](./299429-embraced.json) |
@@ -1412,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Wednesday | 387366 | [387366-every-wednesday.json](./387366-every-wednesday.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
+| Everybody's Golf | 28187 | [28187-everybodys-golf.json](./28187-everybodys-golf.json) |
 | Everybody's Home Run Derby | 231056 | [231056-everybodys-home-run-derby.json](./231056-everybodys-home-run-derby.json) |
 | Everybody's Putter Golf With Toro | 66090 | [66090-everybodys-putter-golf-with-toro.json](./66090-everybodys-putter-golf-with-toro.json) |
 | Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
