@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Reality Studio 2.0 | 100130 | [100130-virtual-reality-studio-2-0.json](./100130-virtual-reality-studio-2-0.json) |
 | Virtual Reality Vol. 2 | 100128 | [100128-virtual-reality-vol-2.json](./100128-virtual-reality-vol-2.json) |
 | Virtual Rehab Art 4 Health | 172181 | [172181-virtual-rehab-art-4-health.json](./172181-virtual-rehab-art-4-health.json) |
+| Virtual Resort: Spring Break | 205978 | [205978-virtual-resort-spring-break.json](./205978-virtual-resort-spring-break.json) |
 | Virtual Rides 3: Northstar | 273396 | [273396-virtual-rides-3-northstar.json](./273396-virtual-rides-3-northstar.json) |
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
 | Virtual Surgeon: Open Heart | 69239 | [69239-virtual-surgeon-open-heart.json](./69239-virtual-surgeon-open-heart.json) |
@@ -791,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volot: Red Odyssey | 157120 | [157120-volot-red-odyssey.json](./157120-volot-red-odyssey.json) |
 | Volt | 36350 | [36350-volt.json](./36350-volt.json) |
 | Voltage Fighter Gowcaizer | 39590 | [39590-voltage-fighter-gowcaizer.json](./39590-voltage-fighter-gowcaizer.json) |
+| Voltaire: The Vegan Vampire | 203242 | [203242-voltaire-the-vegan-vampire.json](./203242-voltaire-the-vegan-vampire.json) |
 | Voltorometer Recharged+ | 247512 | [247512-voltorometer-recharged.json](./247512-voltorometer-recharged.json) |
 | Voltron | 95400 | [95400-voltron.json](./95400-voltron.json) |
 | Volty's Quest | 181848 | [181848-voltys-quest.json](./181848-voltys-quest.json) |
