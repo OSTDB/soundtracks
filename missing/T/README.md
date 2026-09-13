@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Shots 2018 | 100871 | [100871-tappy-shots-2018.json](./100871-tappy-shots-2018.json) |
 | TappyLoop | 307612 | [307612-tappyloop.json](./307612-tappyloop.json) |
 | TapRPG: The Second One | 107888 | [107888-taprpg-the-second-one.json](./107888-taprpg-the-second-one.json) |
+| Tapsonic Bold | 110700 | [110700-tapsonic-bold.json](./110700-tapsonic-bold.json) |
 | TapTapBadger | 262353 | [262353-taptapbadger.json](./262353-taptapbadger.json) |
 | Taptiles | 79856 | [79856-taptiles.json](./79856-taptiles.json) |
 | Taptron 1999 | 372992 | [372992-taptron-1999.json](./372992-taptron-1999.json) |
@@ -639,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
+| Tasty Planet Forever | 110538 | [110538-tasty-planet-forever.json](./110538-tasty-planet-forever.json) |
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
 | Tasty Slot Machine | 242552 | [242552-tasty-slot-machine.json](./242552-tasty-slot-machine.json) |
@@ -1835,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadly Cursed Enjmin Steamroller in: The Bloody Killing on Wheel in the Atrium | 227468 | [227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json](./227468-the-deadly-cursed-enjmin-steamroller-in-the-bloody-killing-on-wheel-in-the-atrium.json) |
 | The Death and Return of Superman | 453 | [453-the-death-and-return-of-superman.json](./453-the-death-and-return-of-superman.json) |
 | The Death Into Trouble | 151125 | [151125-the-death-into-trouble.json](./151125-the-death-into-trouble.json) |
+| The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
 | The Deceived Man | 310421 | [310421-the-deceived-man.json](./310421-the-deceived-man.json) |
@@ -2329,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hallway: Escape Room | 264608 | [264608-the-hallway-escape-room.json](./264608-the-hallway-escape-room.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
+| The Hand of Glory | 111103 | [111103-the-hand-of-glory.json](./111103-the-hand-of-glory.json) |
 | The Hand of Panda | 85436 | [85436-the-hand-of-panda.json](./85436-the-hand-of-panda.json) |
 | The Handbook | 152868 | [152868-the-handbook.json](./152868-the-handbook.json) |
 | The Hangman | 264609 | [264609-the-hangman.json](./264609-the-hangman.json) |
@@ -4488,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Panda Needs You | 185652 | [185652-this-panda-needs-you.json](./185652-this-panda-needs-you.json) |
 | This Rain Will Never End | 169462 | [169462-this-rain-will-never-end.json](./169462-this-rain-will-never-end.json) |
 | This Thing of Ours | 214162 | [214162-this-thing-of-ours.json](./214162-this-thing-of-ours.json) |
+| This War of Mine: Complete Edition | 111817 | [111817-this-war-of-mine-complete-edition.json](./111817-this-war-of-mine-complete-edition.json) |
 | This War of Mine: Stories - Father's Promise | 75871 | [75871-this-war-of-mine-stories-fathers-promise.json](./75871-this-war-of-mine-stories-fathers-promise.json) |
 | This War of Mine: Stories - Season Pass | 75872 | [75872-this-war-of-mine-stories-season-pass.json](./75872-this-war-of-mine-stories-season-pass.json) |
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
@@ -5192,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Twist: Rekishi no Katasumi de... - Kouhen | 41360 | [41360-time-twist-rekishi-no-katasumi-de-kouhen.json](./41360-time-twist-rekishi-no-katasumi-de-kouhen.json) |
 | Time Twist: Rekishi no Katasumi de... - Zenpen | 41361 | [41361-time-twist-rekishi-no-katasumi-de-zenpen.json](./41361-time-twist-rekishi-no-katasumi-de-zenpen.json) |
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
+| Time Warpers | 110073 | [110073-time-warpers.json](./110073-time-warpers.json) |
 | Time Warriors | 10859 | [10859-time-warriors.json](./10859-time-warriors.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
