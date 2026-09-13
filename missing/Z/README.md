@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 66 | 73826 | [73826-zone-66.json](./73826-zone-66.json) |
 | Zone B Korosu | 161391 | [161391-zone-b-korosu.json](./161391-zone-b-korosu.json) |
 | Zone of the Enders HD Collection: Limited Collector's Edition | 44659 | [44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json](./44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json) |
+| Zone of the Enders: The Fist of Mars | 1474 | [1474-zone-of-the-enders-the-fist-of-mars.json](./1474-zone-of-the-enders-the-fist-of-mars.json) |
 | Zone Ranger | 12974 | [12974-zone-ranger.json](./12974-zone-ranger.json) |
 | Zone Sega | 202809 | [202809-zone-sega.json](./202809-zone-sega.json) |
 | Zone Trip | 264036 | [264036-zone-trip.json](./264036-zone-trip.json) |
