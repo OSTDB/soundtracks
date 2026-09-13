@@ -1117,6 +1117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Sol | 125437 | [125437-phantom-sol.json](./125437-phantom-sol.json) |
 | Phantom Tank | 321993 | [321993-phantom-tank.json](./321993-phantom-tank.json) |
 | Phantom Ten | 311292 | [311292-phantom-ten.json](./311292-phantom-ten.json) |
+| Phantom Trigger | 27714 | [27714-phantom-trigger.json](./27714-phantom-trigger.json) |
 | Phantom Vortex VR | 278389 | [278389-phantom-vortex-vr.json](./278389-phantom-vortex-vr.json) |
 | Phantom Whispers | 291257 | [291257-phantom-whispers.json](./291257-phantom-whispers.json) |
 | Phantom Zone Daimons | 236831 | [236831-phantom-zone-daimons.json](./236831-phantom-zone-daimons.json) |
@@ -1434,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Marvel Pinball Original Pack | 164003 | [164003-pinball-fx3-marvel-pinball-original-pack.json](./164003-pinball-fx3-marvel-pinball-original-pack.json) |
 | Pinball FX3: Marvel Pinball Vengeance and Virtue Pack | 163999 | [163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json](./163999-pinball-fx3-marvel-pinball-vengeance-and-virtue-pack.json) |
 | Pinball FX3: Marvel's Women of Power | 164006 | [164006-pinball-fx3-marvels-women-of-power.json](./164006-pinball-fx3-marvels-women-of-power.json) |
+| Pinball FX3: Star Wars Pinball - Rogue One | 26928 | [26928-pinball-fx3-star-wars-pinball-rogue-one.json](./26928-pinball-fx3-star-wars-pinball-rogue-one.json) |
 | Pinball FX3: The Walking Dead Pinball | 164001 | [164001-pinball-fx3-the-walking-dead-pinball.json](./164001-pinball-fx3-the-walking-dead-pinball.json) |
 | Pinball FX3: Williams Pinball - Volume 2 | 164000 | [164000-pinball-fx3-williams-pinball-volume-2.json](./164000-pinball-fx3-williams-pinball-volume-2.json) |
 | Pinball FX3: Williams Pinball - Volume 5 | 164004 | [164004-pinball-fx3-williams-pinball-volume-5.json](./164004-pinball-fx3-williams-pinball-volume-5.json) |
@@ -3735,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PxBeats | 256540 | [256540-pxbeats.json](./256540-pxbeats.json) |
 | Pyjamarama | 23060 | [23060-pyjamarama.json](./23060-pyjamarama.json) |
 | Pyl | 126013 | [126013-pyl.json](./126013-pyl.json) |
+| Pylon: Rogue | 27745 | [27745-pylon-rogue.json](./27745-pylon-rogue.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyramania | 379901 | [379901-pyramania.json](./379901-pyramania.json) |
 | Pyrami Head | 250967 | [250967-pyrami-head.json](./250967-pyrami-head.json) |
