@@ -275,7 +275,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
 | Across the Wilds | 238739 | [238739-across-the-wilds.json](./238739-across-the-wilds.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
-| Act Casual | 301595 | [301595-act-casual.json](./301595-act-casual.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
 | Actias | 204681 | [204681-actias.json](./204681-actias.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
