@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Chaosbane - Slayer Edition | 139948 | [139948-warhammer-chaosbane-slayer-edition.json](./139948-warhammer-chaosbane-slayer-edition.json) |
 | Warhammer: Mark of Chaos - Gold Edition | 154551 | [154551-warhammer-mark-of-chaos-gold-edition.json](./154551-warhammer-mark-of-chaos-gold-edition.json) |
 | Warhammer: Odyssey | 130881 | [130881-warhammer-odyssey.json](./130881-warhammer-odyssey.json) |
+| Warhammer: Shadow of the Horned Rat | 5527 | [5527-warhammer-shadow-of-the-horned-rat.json](./5527-warhammer-shadow-of-the-horned-rat.json) |
 | Warhammer: Snotling Fling | 34227 | [34227-warhammer-snotling-fling.json](./34227-warhammer-snotling-fling.json) |
 | Warhammer: Vermintide 2 - A Treacherous Adventure | 321734 | [321734-warhammer-vermintide-2-a-treacherous-adventure.json](./321734-warhammer-vermintide-2-a-treacherous-adventure.json) |
 | Warhammer: Vermintide 2 - Necromancer | 262658 | [262658-warhammer-vermintide-2-necromancer.json](./262658-warhammer-vermintide-2-necromancer.json) |
@@ -1209,6 +1210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
 | Winglet | 299172 | [299172-winglet.json](./299172-winglet.json) |
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
+| Wings | 5450 | [5450-wings.json](./5450-wings.json) |
 | Wings 1941 | 203571 | [203571-wings-1941.json](./203571-wings-1941.json) |
 | Wings 2 | 95474 | [95474-wings-2.json](./95474-wings-2.json) |
 | Wings 2: Aces High | 42577 | [42577-wings-2-aces-high.json](./42577-wings-2-aces-high.json) |
@@ -1992,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE SmackDown! Shut Your Mouth | 6461 | [6461-wwe-smackdown-shut-your-mouth.json](./6461-wwe-smackdown-shut-your-mouth.json) |
 | WWE WrestleFest | 95393 | [95393-wwe-wrestlefest.json](./95393-wwe-wrestlefest.json) |
+| WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
 | WWF SmackDown! Just Bring It | 6445 | [6445-wwf-smackdown-just-bring-it.json](./6445-wwf-smackdown-just-bring-it.json) |
 | WWF WrestleMania: The Arcade Game | 4546 | [4546-wwf-wrestlemania-the-arcade-game.json](./4546-wwf-wrestlemania-the-arcade-game.json) |
