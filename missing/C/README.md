@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
 | Cake Up | 335273 | [335273-cake-up.json](./335273-cake-up.json) |
 | Cake5 | 233247 | [233247-cake5.json](./233247-cake5.json) |
+| Cakey's Twisted Bakery | 307692 | [307692-cakeys-twisted-bakery.json](./307692-cakeys-twisted-bakery.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
 | Calamity Annie | 72689 | [72689-calamity-annie.json](./72689-calamity-annie.json) |
@@ -3624,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
 | CriticalOrb | 290929 | [290929-criticalorb.json](./290929-criticalorb.json) |
 | Critter Caboodle | 333910 | [333910-critter-caboodle.json](./333910-critter-caboodle.json) |
+| Critter Café | 305075 | [305075-critter-cafe.json](./305075-critter-cafe.json) |
 | Critter Combat | 241351 | [241351-critter-combat.json](./241351-critter-combat.json) |
 | Critter Cove | 136987 | [136987-critter-cove.json](./136987-critter-cove.json) |
 | Critter Crunch | 13188 | [13188-critter-crunch.json](./13188-critter-crunch.json) |
@@ -4154,6 +4156,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyanide & Happiness: Freakpocalypse - Episode 1 | 147983 | [147983-cyanide-and-happiness-freakpocalypse-episode-1.json](./147983-cyanide-and-happiness-freakpocalypse-episode-1.json) |
 | Cyber Attack | 157205 | [157205-cyber-attack.json](./157205-cyber-attack.json) |
 | Cyber Battle 69 | 131608 | [131608-cyber-battle-69.json](./131608-cyber-battle-69.json) |
+| Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
+| Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
 | Cyber City Oedo 808: Kemono no Zokusei | 64382 | [64382-cyber-city-oedo-808-kemono-no-zokusei.json](./64382-cyber-city-oedo-808-kemono-no-zokusei.json) |
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
