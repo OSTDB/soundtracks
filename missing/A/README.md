@@ -214,7 +214,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
 | Acassia | 209660 | [209660-acassia.json](./209660-acassia.json) |
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
-| Acceleration of Suguri | 78639 | [78639-acceleration-of-suguri.json](./78639-acceleration-of-suguri.json) |
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceptance | 210902 | [210902-acceptance.json](./210902-acceptance.json) |
 | Access Block | 277863 | [277863-access-block.json](./277863-access-block.json) |
