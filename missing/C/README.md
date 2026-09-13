@@ -162,6 +162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Farming | 259583 | [259583-call-of-farming.json](./259583-call-of-farming.json) |
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
+| Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
 | Call of Pixel: Close Quarters | 112948 | [112948-call-of-pixel-close-quarters.json](./112948-call-of-pixel-close-quarters.json) |
@@ -516,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 246743 | [246743-carmageddon.json](./246743-carmageddon.json) |
+| Carmageddon | 626 | [626-carmageddon.json](./626-carmageddon.json) |
 | Carmen Sandiego Word Detective | 73312 | [73312-carmen-sandiego-word-detective.json](./73312-carmen-sandiego-word-detective.json) |
 | Carmen Sandiego: Junior Detective Edition | 73783 | [73783-carmen-sandiego-junior-detective-edition.json](./73783-carmen-sandiego-junior-detective-edition.json) |
 | Carmen Sandiego: To Steal or Not to Steal | 256843 | [256843-carmen-sandiego-to-steal-or-not-to-steal.json](./256843-carmen-sandiego-to-steal-or-not-to-steal.json) |
@@ -2570,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commando Raid | 11153 | [11153-commando-raid.json](./11153-commando-raid.json) |
 | Commando vs Zombies | 99002 | [99002-commando-vs-zombies.json](./99002-commando-vs-zombies.json) |
 | Commandos 2 & Praetorians HD Remaster Double Pack | 139932 | [139932-commandos-2-and-praetorians-hd-remaster-double-pack.json](./139932-commandos-2-and-praetorians-hd-remaster-double-pack.json) |
+| Commandos 2: Men of Courage | 653 | [653-commandos-2-men-of-courage.json](./653-commandos-2-men-of-courage.json) |
 | Commandos: Behind Enemy Lines | 879 | [879-commandos-behind-enemy-lines.json](./879-commandos-behind-enemy-lines.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
@@ -3216,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot Party Games | 210240 | [210240-crash-bandicoot-party-games.json](./210240-crash-bandicoot-party-games.json) |
 | Crash Bandicoot: Atlasphere Bowling | 314656 | [314656-crash-bandicoot-atlasphere-bowling.json](./314656-crash-bandicoot-atlasphere-bowling.json) |
 | Crash Bandicoot: Kart Racing | 314655 | [314655-crash-bandicoot-kart-racing.json](./314655-crash-bandicoot-kart-racing.json) |
+| Crash Bandicoot: The Wrath of Cortex | 1188 | [1188-crash-bandicoot-the-wrath-of-cortex.json](./1188-crash-bandicoot-the-wrath-of-cortex.json) |
 | Crash Bandicoot: UFO Shooter | 314657 | [314657-crash-bandicoot-ufo-shooter.json](./314657-crash-bandicoot-ufo-shooter.json) |
 | Crash Bash | 1195 | [1195-crash-bash.json](./1195-crash-bash.json) |
 | Crash Car Racer | 50620 | [50620-crash-car-racer.json](./50620-crash-car-racer.json) |
@@ -3613,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusade of Destiny | 66721 | [66721-crusade-of-destiny.json](./66721-crusade-of-destiny.json) |
 | Crusader Kings Complete | 25415 | [25415-crusader-kings-complete.json](./25415-crusader-kings-complete.json) |
 | Crusader Kings II: Finno-Ugric Unit Pack | 168339 | [168339-crusader-kings-ii-finno-ugric-unit-pack.json](./168339-crusader-kings-ii-finno-ugric-unit-pack.json) |
+| Crusader Kings III | 124954 | [124954-crusader-kings-iii.json](./124954-crusader-kings-iii.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
 | Crusader Kings III: Royal Edition | 188022 | [188022-crusader-kings-iii-royal-edition.json](./188022-crusader-kings-iii-royal-edition.json) |
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
