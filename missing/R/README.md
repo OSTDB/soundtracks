@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railed Up | 254780 | [254780-railed-up.json](./254780-railed-up.json) |
 | Railgun 500 | 264595 | [264595-railgun-500.json](./264595-railgun-500.json) |
 | Railgunners | 74440 | [74440-railgunners.json](./74440-railgunners.json) |
+| Railroad Corporation | 112362 | [112362-railroad-corporation.json](./112362-railroad-corporation.json) |
 | Railroad Empire | 27693 | [27693-railroad-empire.json](./27693-railroad-empire.json) |
 | Railroad Empire | 394822 | [394822-railroad-empire.json](./394822-railroad-empire.json) |
 | Railroad Ink Challenge | 156127 | [156127-railroad-ink-challenge.json](./156127-railroad-ink-challenge.json) |
@@ -851,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
 | Red Season | 381614 | [381614-red-season.json](./381614-red-season.json) |
 | Red Series | 270665 | [270665-red-series.json](./270665-red-series.json) |
+| Red Siren: Space Defense | 111541 | [111541-red-siren-space-defense.json](./111541-red-siren-space-defense.json) |
 | Red Soil | 379372 | [379372-red-soil.json](./379372-red-soil.json) |
 | Red Solstice 2: Survivors - Condatis Group | 193437 | [193437-red-solstice-2-survivors-condatis-group.json](./193437-red-solstice-2-survivors-condatis-group.json) |
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
@@ -1465,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
 | Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
+| Rhem II SE: The Cave | 112131 | [112131-rhem-ii-se-the-cave.json](./112131-rhem-ii-se-the-cave.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
