@@ -757,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Synchronicity: The Longest Night | 59947 | [59947-dead-synchronicity-the-longest-night.json](./59947-dead-synchronicity-the-longest-night.json) |
 | Dead Synchronicity: Tomorrow Comes Today | 11398 | [11398-dead-synchronicity-tomorrow-comes-today.json](./11398-dead-synchronicity-tomorrow-comes-today.json) |
 | Dead to Rights: Reckoning | 3010 | [3010-dead-to-rights-reckoning.json](./3010-dead-to-rights-reckoning.json) |
+| Dead to Rights: Retribution | 6960 | [6960-dead-to-rights-retribution.json](./6960-dead-to-rights-retribution.json) |
 | Dead Town Tales | 235209 | [235209-dead-town-tales.json](./235209-dead-town-tales.json) |
 | Dead TrailZ | 35753 | [35753-dead-trailz.json](./35753-dead-trailz.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
@@ -2486,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Christmas Remix | 339259 | [339259-donkey-kong-christmas-remix.json](./339259-donkey-kong-christmas-remix.json) |
 | Donkey Kong Country | 150028 | [150028-donkey-kong-country.json](./150028-donkey-kong-country.json) |
 | Donkey Kong Country | 234084 | [234084-donkey-kong-country.json](./234084-donkey-kong-country.json) |
+| Donkey Kong Country 2 | 178237 | [178237-donkey-kong-country-2.json](./178237-donkey-kong-country-2.json) |
 | Donkey Kong Country 3: Dixie Kong's Double Trouble! | 1094 | [1094-donkey-kong-country-3-dixie-kongs-double-trouble.json](./1094-donkey-kong-country-3-dixie-kongs-double-trouble.json) |
 | Donkey Kong Country: Barrel Maze | 231637 | [231637-donkey-kong-country-barrel-maze.json](./231637-donkey-kong-country-barrel-maze.json) |
 | Donkey Kong Country: Pacifist Mode | 361715 | [361715-donkey-kong-country-pacifist-mode.json](./361715-donkey-kong-country-pacifist-mode.json) |
@@ -2495,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Jr. | 257641 | [257641-donkey-kong-jr.json](./257641-donkey-kong-jr.json) |
 | Donkey Kong Jr. | 84555 | [84555-donkey-kong-jr.json](./84555-donkey-kong-jr.json) |
 | Donkey Kong Jr. + Jr. Sansuu Lesson | 77964 | [77964-donkey-kong-jr-jr-sansuu-lesson.json](./77964-donkey-kong-jr-jr-sansuu-lesson.json) |
+| Donkey Kong Jr. Math | 5692 | [5692-donkey-kong-jr-math.json](./5692-donkey-kong-jr-math.json) |
 | Donkey Kong Jr.-e | 170008 | [170008-donkey-kong-jr-e.json](./170008-donkey-kong-jr-e.json) |
 | Donkey Kong Junior | 192910 | [192910-donkey-kong-junior.json](./192910-donkey-kong-junior.json) |
 | Donkey Kong Junior | 192911 | [192911-donkey-kong-junior.json](./192911-donkey-kong-junior.json) |
@@ -3823,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors Online | 72612 | [72612-dynasty-warriors-online.json](./72612-dynasty-warriors-online.json) |
 | Dynasty Warriors Online Z | 257658 | [257658-dynasty-warriors-online-z.json](./257658-dynasty-warriors-online-z.json) |
 | Dynasty Warriors: God Seekers | 44537 | [44537-dynasty-warriors-god-seekers.json](./44537-dynasty-warriors-god-seekers.json) |
+| Dynasty Warriors: Gundam | 6977 | [6977-dynasty-warriors-gundam.json](./6977-dynasty-warriors-gundam.json) |
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
