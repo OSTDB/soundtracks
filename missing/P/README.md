@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddles | 214545 | [214545-paddles.json](./214545-paddles.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
+| Pagan: Absent Gods | 111835 | [111835-pagan-absent-gods.json](./111835-pagan-absent-gods.json) |
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
 | Paimordle | 243974 | [243974-paimordle.json](./243974-paimordle.json) |
@@ -475,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
 | Parasol Stars: Rainbow Islands II | 316080 | [316080-parasol-stars-rainbow-islands-ii.json](./316080-parasol-stars-rainbow-islands-ii.json) |
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
+| Paratopic: Definitive Cut | 107740 | [107740-paratopic-definitive-cut.json](./107740-paratopic-definitive-cut.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
 | Parcel Dash | 350444 | [350444-parcel-dash.json](./350444-parcel-dash.json) |
 | Parcel Delivery Simulator | 377066 | [377066-parcel-delivery-simulator.json](./377066-parcel-delivery-simulator.json) |
@@ -633,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
+| Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
 | Path of War | 31783 | [31783-path-of-war.json](./31783-path-of-war.json) |
@@ -1262,6 +1265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S Konami Antiques Edition | 395594 | [395594-picross-s-konami-antiques-edition.json](./395594-picross-s-konami-antiques-edition.json) |
 | Picross S Namco Legendary Edition | 302101 | [302101-picross-s-namco-legendary-edition.json](./302101-picross-s-namco-legendary-edition.json) |
 | Picross S SNK Classics & Neo Geo Edition | 378165 | [378165-picross-s-snk-classics-and-neo-geo-edition.json](./378165-picross-s-snk-classics-and-neo-geo-edition.json) |
+| Picross S2 | 106275 | [106275-picross-s2.json](./106275-picross-s2.json) |
 | Picross S3 | 117501 | [117501-picross-s3.json](./117501-picross-s3.json) |
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
 | Picross S8 | 219032 | [219032-picross-s8.json](./219032-picross-s8.json) |
@@ -2683,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PQ: Practical Intelligence Quotient | 46019 | [46019-pq-practical-intelligence-quotient.json](./46019-pq-practical-intelligence-quotient.json) |
 | PQ: The Party Quiz Game | 94250 | [94250-pq-the-party-quiz-game.json](./94250-pq-the-party-quiz-game.json) |
 | PQ2: Practical Intelligence Quotient 2 | 44506 | [44506-pq2-practical-intelligence-quotient-2.json](./44506-pq2-practical-intelligence-quotient-2.json) |
+| Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
 | Praey for the Gods | 14378 | [14378-praey-for-the-gods.json](./14378-praey-for-the-gods.json) |
 | Pragma Twice | 347714 | [347714-pragma-twice.json](./347714-pragma-twice.json) |
 | Pragmatics | 326068 | [326068-pragmatics.json](./326068-pragmatics.json) |
@@ -2694,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
 | Pre-RON MI5 Bob | 71007 | [71007-pre-ron-mi5-bob.json](./71007-pre-ron-mi5-bob.json) |
 | Prechara! Daifugo | 283757 | [283757-prechara-daifugo.json](./283757-prechara-daifugo.json) |
+| Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
 | Precipice Pain | 308245 | [308245-precipice-pain.json](./308245-precipice-pain.json) |
 | Precision Point VR | 270949 | [270949-precision-point-vr.json](./270949-precision-point-vr.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
