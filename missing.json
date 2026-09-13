@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T04:49:10.981Z",
-  "total_missing": 64677,
+  "generated_at": "2026-09-13T04:51:29.976Z",
+  "total_missing": 64676,
   "games": [
     {
       "igdb_id": 306086,
@@ -3396,11 +3396,6 @@
       "igdb_id": 14754,
       "game_name": "Ace Combat Zero: The Belkan War",
       "file": "missing/A/14754-ace-combat-zero-the-belkan-war.json"
-    },
-    {
-      "igdb_id": 177535,
-      "game_name": "Ace Defender",
-      "file": "missing/A/177535-ace-defender.json"
     },
     {
       "igdb_id": 121736,
