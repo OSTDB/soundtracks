@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders 4: Archon Prophecy | 325846 | [325846-age-of-wonders-4-archon-prophecy.json](./325846-age-of-wonders-4-archon-prophecy.json) |
 | Age of Wonders 4: Giant Kings | 325845 | [325845-age-of-wonders-4-giant-kings.json](./325845-age-of-wonders-4-giant-kings.json) |
 | Age of Wonders 4: Ways of War | 325844 | [325844-age-of-wonders-4-ways-of-war.json](./325844-age-of-wonders-4-ways-of-war.json) |
+| Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
 | Age of Wonders: Planetfall - Invasions | 132166 | [132166-age-of-wonders-planetfall-invasions.json](./132166-age-of-wonders-planetfall-invasions.json) |
 | Age of Wonders: Planetfall - Premium Edition | 154527 | [154527-age-of-wonders-planetfall-premium-edition.json](./154527-age-of-wonders-planetfall-premium-edition.json) |
 | Age of Wushu 2 | 26643 | [26643-age-of-wushu-2.json](./26643-age-of-wushu-2.json) |
@@ -1050,6 +1051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaloth: Champions of the Four Kingdoms | 27406 | [27406-alaloth-champions-of-the-four-kingdoms.json](./27406-alaloth-champions-of-the-four-kingdoms.json) |
 | Alan Probe: Amateur Surgeon | 70415 | [70415-alan-probe-amateur-surgeon.json](./70415-alan-probe-amateur-surgeon.json) |
 | Alan Wake II: The Final Draft | 298842 | [298842-alan-wake-ii-the-final-draft.json](./298842-alan-wake-ii-the-final-draft.json) |
+| Alan Wake: The Signal | 20316 | [20316-alan-wake-the-signal.json](./20316-alan-wake-the-signal.json) |
 | Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
 | Alarm für Cobra 11: Das Spiel zur RTL-Erfolgsserie | 125961 | [125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json](./125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json) |
@@ -2739,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Tentacles: (Not) A Cthulhu Dating Sim - Halloween | 172178 | [172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json](./172178-army-of-tentacles-not-a-cthulhu-dating-sim-halloween.json) |
 | Army of Tentacles: (Not) A Cthulhu Dating Sim 2 - DLC 2 | 254147 | [254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json](./254147-army-of-tentacles-not-a-cthulhu-dating-sim-2-dlc-2.json) |
 | Army of Tentacles: Assault on Rainbow Unicorn Island | 226232 | [226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json](./226232-army-of-tentacles-assault-on-rainbow-unicorn-island.json) |
+| Army of Two: The Devil's Cartel | 1832 | [1832-army-of-two-the-devils-cartel.json](./1832-army-of-two-the-devils-cartel.json) |
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
 | Army vs Zombie | 226770 | [226770-army-vs-zombie.json](./226770-army-vs-zombie.json) |
 | Army War: Shooting Simulator | 235198 | [235198-army-war-shooting-simulator.json](./235198-army-war-shooting-simulator.json) |
@@ -2965,7 +2968,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mirage Master Assassin Upgrade Bundle 2 | 360574 | [360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json](./360574-assassins-creed-mirage-master-assassin-upgrade-bundle-2.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
 | Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1 | 360572 | [360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json](./360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json) |
+| Assassin's Creed Odyssey: The Fate of Atlantis | 113098 | [113098-assassins-creed-odyssey-the-fate-of-atlantis.json](./113098-assassins-creed-odyssey-the-fate-of-atlantis.json) |
 | Assassin's Creed Odyssey: The Fate of Atlantis - Episode 3: Judgment of Atlantis | 124163 | [124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json](./124163-assassins-creed-odyssey-the-fate-of-atlantis-episode-3-judgment-of-atlantis.json) |
+| Assassin's Creed Origins: The Hidden Ones | 22964 | [22964-assassins-creed-origins-the-hidden-ones.json](./22964-assassins-creed-origins-the-hidden-ones.json) |
 | Assassin's Creed Revelations: Mediterranean Traveler Map Pack | 167242 | [167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json](./167242-assassins-creed-revelations-mediterranean-traveler-map-pack.json) |
 | Assassin's Creed Revelations: Special Edition | 268735 | [268735-assassins-creed-revelations-special-edition.json](./268735-assassins-creed-revelations-special-edition.json) |
 | Assassin's Creed Revelations: The Ancestors Character Pack | 167241 | [167241-assassins-creed-revelations-the-ancestors-character-pack.json](./167241-assassins-creed-revelations-the-ancestors-character-pack.json) |
