@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richup.io | 141249 | [141249-richup-io.json](./141249-richup-io.json) |
 | Rick and Morty Game | 307573 | [307573-rick-and-morty-game.json](./307573-rick-and-morty-game.json) |
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
+| Rick Dangerous 2 | 12203 | [12203-rick-dangerous-2.json](./12203-rick-dangerous-2.json) |
 | Rick Ribbit in Ark Noodle's Math Challenge | 62688 | [62688-rick-ribbit-in-ark-noodles-math-challenge.json](./62688-rick-ribbit-in-ark-noodles-math-challenge.json) |
 | Rick Ribbit: Adventures in Early Learning | 62689 | [62689-rick-ribbit-adventures-in-early-learning.json](./62689-rick-ribbit-adventures-in-early-learning.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
