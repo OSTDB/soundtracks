@@ -457,6 +457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei Game 64 | 3530 | [3530-jinsei-game-64.json](./3530-jinsei-game-64.json) |
 | Jinsei Game for Dreamcast | 131569 | [131569-jinsei-game-for-dreamcast.json](./131569-jinsei-game-for-dreamcast.json) |
 | Jīnyōng Qúnxiá Zhuán | 78043 | [78043-jinyong-qunxia-zhuan.json](./78043-jinyong-qunxia-zhuan.json) |
+| Jisatsu | 278971 | [278971-jisatsu.json](./278971-jisatsu.json) |
 | Jishogi | 199614 | [199614-jishogi.json](./199614-jishogi.json) |
 | Jissen Kyoutei | 42643 | [42643-jissen-kyoutei.json](./42643-jissen-kyoutei.json) |
 | Jissen Pachi-Slot Hisshouhou! DS: Aladdin II Evolution | 269825 | [269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json](./269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json) |
@@ -605,6 +606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to Whale Fall | 338740 | [338740-journey-to-whale-fall.json](./338740-journey-to-whale-fall.json) |
 | Journey's Legend | 274501 | [274501-journeys-legend.json](./274501-journeys-legend.json) |
 | Joust | 278128 | [278128-joust.json](./278128-joust.json) |
+| Joust | 278132 | [278132-joust.json](./278132-joust.json) |
 | Joust | 287078 | [287078-joust.json](./287078-joust.json) |
 | Joust Legend | 60567 | [60567-joust-legend.json](./60567-joust-legend.json) |
 | Joust Pong | 40762 | [40762-joust-pong.json](./40762-joust-pong.json) |
