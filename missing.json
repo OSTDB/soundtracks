@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T04:18:57.614Z",
-  "total_missing": 64579,
+  "generated_at": "2026-09-13T04:21:31.966Z",
+  "total_missing": 64578,
   "games": [
     {
       "igdb_id": 306086,
@@ -3381,11 +3381,6 @@
       "igdb_id": 138246,
       "game_name": "Ace Combat 7: Skies Unknown - Original Aircraft Series",
       "file": "missing/A/138246-ace-combat-7-skies-unknown-original-aircraft-series.json"
-    },
-    {
-      "igdb_id": 139975,
-      "game_name": "Ace Combat 7: Skies Unknown - Premium Edition",
-      "file": "missing/A/139975-ace-combat-7-skies-unknown-premium-edition.json"
     },
     {
       "igdb_id": 204084,
